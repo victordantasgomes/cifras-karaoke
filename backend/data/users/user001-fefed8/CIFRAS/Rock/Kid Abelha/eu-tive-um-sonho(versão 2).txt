@@ -1,0 +1,81 @@
+@titulo: eu-tive-um-sonho(versão 2)
+@autor:
+@intérprete: Kid Abelha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kid Abelha - Eu Tive Um Sonho
+
+(intro) D G A
+
+E|------------------------|---------------|--------------
+B|------------------------|-12-10-8-7-8-8-|-12-10-8--10--
+G|-11-11-11-11-11---9-7-6-|---------------|--------------
+D|------------------------|-9--7--5-4-5-5-|-9--8--5--8---
+A|-9--9--9--9--9----7-5-4-|---------------|--------------
+E|------------------------|---------------|--------------
+
+D   G           A
+Eu tive um sonho vou te contar
+         Em         D        A
+Eu me atirava do oitavo andar
+          C/G             D/A
+E era preciso fechar os olhos
+            G          A         D
+Prá não morrer e não me machucar
+          Em      C
+É o que devemos fazer
+           D       A
+Não temos que ter medo
+
+          Em      C    A7sus4
+É o que devemos fazer
+            D   G         A
+Eu tive um sonho muitos soldados
+        Em            D      A
+Me procuravam dentro do meu prédio
+         C/G                D/A
+E era preciso voar pelas escadas
+         G                 A       D
+Prá não deixar que eles chegassem perto
+          Em      C
+É o que devemos fazer
+           D       A
+Não temos que ter medo
+          Em      C    A7sus4
+É o que devemos fazer
+               G        C         D
+Não deixe de cruzar o seu olhar com o meu
+        G                A           D
+Eu vou jogar meu corpo em cima do seu
+               G        C         D
+Não deixe de cruzar o seu olhar com o meu
+        G                 A          D G A   D G A
+Eu vou jogar meu corpo em cima do seu
+C/G       D/A
+É o que devemos fazer
+C/G       D/A         A7sus4
+É o que devemos fazer
+               G         C         D
+Não deixe de cruzar o seu olhar com o meu
+        G                A           D
+Eu vou jogar meu corpo em cima do seu
+               G         C         D
+Não deixe de cruzar o seu olhar com o meu
+        G                 A          D G A   D G A
+Eu vou jogar meu corpo em cima...do seu
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7sus4 = X 0 2 0 3 0
+C = X 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

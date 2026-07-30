@@ -1,0 +1,51 @@
+@titulo: deus-esta-aqui
+@autor:
+@intérprete: Thalles Roberto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Thalles Roberto - Deus Está Aqui
+
+Intro: Ab  Db9  Bbm  Eb
+
+Ab     Eb     Fm7/9
+Deus está     aqui
+     Db                Eb     Ab
+Tão certo como o ar que eu respiro
+     Db              Eb         Cm     Fm
+Tão certo como o amanhã que se levan___ta
+    Bbm              Eb                Ab    Db  Bbm  Db6/Eb
+Tão certo como eu te falo e podes me ouvir.
+
+Ab    Eb     Fm7/9
+Deus está em aqui
+    Db                 Eb      Ab
+Tão certo como o ar que eu respiro
+    Db               Eb          Cm    Fm
+Tão certo como o amanhã que se levan___ta
+    Bbm              Eb                 Ab
+Tão certo como eu te falo e podes me ouvir.
+
+    Bbm              Eb
+Tão certo como eu te falo
+
+    Cm               Fm
+Tão certo como eu te falo
+    Bbm              Eb                 Ab
+Tão certo como eu te falo e podes me ouvir
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Bbm = X 1 3 3 2 1
+Cm = X 3 5 5 4 3
+Db = X 4 6 6 6 4
+Db6/Eb = X 6 6 6 6 6
+Db9 = X 4 6 6 4 4
+Eb = X 6 5 3 4 3
+Fm = 1 3 3 1 1 1
+Fm7/9 = X X 3 1 4 3

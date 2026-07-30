@@ -1,0 +1,83 @@
+@titulo: gloria-e-louvor
+@autor:
+@intérprete: Gabriela Rocha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gabriela Rocha - Glória e Louvor
+
+[Intro] D  A  Bm  G  A
+
+D9                A9              Bm
+Tu Deus criaste todas estrelas do Céu
+F#m      F#m7/C#           Bm
+Chamaste pelo nome meu Senhor
+G          A9   D9
+Todas bem Contadas
+D9                A9              Bm
+Me fez, escolheste dês do ventre de minha
+F#m       F#m7/C#      G
+Admiráveis são tuas obras
+      A9                D9
+E a minha alma tu sabes bem
+
+D9        A9         Bm   F#m7/C#
+Toda glória e todo louvor
+         G     A9     D
+A ti entrego meu criador
+D9        A9         Bm   F#m7/C#
+Age no mundo sobrenatural
+
+        G        A9          D
+Me criaste eu dou graças A ti Rei
+
+D9                A9              Bm
+Tu Deus criaste todas estrelas do Céu
+F#m      F#m7/C#         Bm
+Chamaste pelo nome meu Senhor
+G          A9   D9
+Todas bem Contadas
+D9                A9              Bm
+Me fez, escolheste dês do ventre de minha
+F#m       F#m7/C#      G
+Admiráveis são tuas obras
+      A9                D9
+E a minha alma tu sabes bem
+
+D9        A9         Bm   F#m7/C#
+Toda glória e todo louvor
+       G     A9     D
+A ti entrego meu criador
+D9        A9         Bm   F#m/C#
+Age no mundo sobrenatural
+       G        A9            E
+Me criaste eu dou graças A ti Rei
+
+E9         B9         C#m
+Toda glória e todo louvor
+G#m7 Eb#   A     B9     E
+A ti entrego meu criador
+E9         B9         C#m  G#m7 Eb#
+Age no mundo sobrenatural
+       A          B9          E
+Me criaste eu dou graças A ti Rei
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E9 = 0 2 4 1 0 0
+F#m = 2 4 4 2 2 2
+F#m/C# = X 4 4 2 2 2
+F#m7/C# = X 4 2 2 2 2
+G = 3 2 0 0 0 3

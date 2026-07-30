@@ -1,0 +1,95 @@
+@titulo: faz-parte
+@autor:
+@intérprete: Supercombo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Supercombo - Faz Parte
+
+[Intro]  F#m  Dm7  F#m  Dm7  F#m  Dm7  F#m  Dm7  A  B7
+
+     F#m     Dm7  F#m
+Numa tacada só
+Dm7   F#m     Dm7    F#m
+Você ganhou e eu perdi
+Dm7      F#m      Dm7  F#m
+E comecei a sorrir
+Dm7     F#m    Dm7  F#m  Dm7  E   C#7
+Fez lembrar do que  é      lutar
+      F#m  D7m  F#m  D7m
+Sem querer
+
+        D7m    Bm7
+A gente briga, chora
+   F#m         A7m
+Discute mas se ama
+    D7m
+Faz parte
+    Bm7
+Faz parte
+
+   F#m               A7m
+A vida a dois é um esporte
+
+( F#m  D7m  F#m  D7m  F#m  D7m  F#M  Dm7 )
+
+    F#m      Dm7  F#m
+Não era intenção
+Dm7     F#m  Dm7   F#m
+Me entregar fácil assim
+ Dm7
+Porque eu
+
+F#m                    Dm7
+Prefiro ter paz do que ter razão
+F#m                    Dm7
+Prefiro ter paz do que ter razão
+F#m                    Dm7
+Prefiro ter paz do que ter razão
+F#m                    Dm7     E  C#7
+Prefiro ter paz do que ter razão
+
+( F#m  Dm7  F#m  Dm7 )
+
+        D7m    Bm7
+A gente briga, chora
+   F#m         A7m
+Discute mas se ama
+    D7m
+Faz parte
+    Bm7
+Faz parte
+   F#m               A7m
+A vida a dois é um esporte
+
+( F#m  E  D7m  Bm7  G )
+( F#m  G#m  A  B  C#7  D7m )
+
+  Bm7   F#m    E
+A gente briga, chora
+   D7m         Bm7
+Discute mas se ama
+
+( F#m  G#m  A  C#7 )
+
+    F#m
+Faz parte
+    E
+Faz parte
+   D7m               Bm7
+A vida a dois é um esporte
+
+[Final] F#m  D7m  F#m  D7m  F#m  D7m  F#m  D7m
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+Bm7 = X 2 4 2 3 2
+D7M = X X 0 2 2 2
+E7 = 0 2 2 1 3 0
+F#m7 = 2 X 2 2 2 X

@@ -1,0 +1,70 @@
+@titulo: diga-pra-mim
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - Diga Pra Mim
+
+Intro: C
+
+                      Dm   C  F
+Nem uma carta pra lembrar
+                      C    G/B  Am
+Nem um anjo pra me ajudar
+         A/C#       Dm
+Será que já me esqueceu
+        C        Am        G     C
+Eu não sei,eu preciso só saber
+
+                   Dm      C   F
+Quantas vezes eu falei
+                         C          G/B   Am
+Pra que você não me iludisse assim
+        A/C#           Dm
+E me deixou sempre a sonhar
+      C          Am        C
+Fale agora,por favor fale agora
+      Am        G
+Eu preciso só saber
+
+
+  C   G/B     Am   A
+Meu grande amor
+
+                       Dm   Dm/C  G/B
+Diga pra mim aonde estás
+           E7           Am    Am7/G   F
+Diga pra mim qual a razão
+          5-
+
+Dessa triste solidão         (2X)
+                  Dm   F
+Eu não podia imaginar
+
+                       C    G/B   Am
+Que você pudesse me deixar
+      A/C#         Dm
+Foram sonhos tão bonitos
+      C           Am
+Que sonhei em seu colo
+      C          Am           G
+E apertava o teu corpo sem cansar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+Am7/G = 3 0 2 0 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

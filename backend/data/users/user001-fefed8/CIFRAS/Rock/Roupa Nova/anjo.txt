@@ -1,0 +1,65 @@
+@titulo: anjo
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Anjo
+
+[Intro]  D  Bm7  Em7  A7
+
+ D       D7+/9         G7+  D/F#
+Se você vê estrelas demais
+ Em7           A7             F#/A#  B7
+Lembre que um sonho não volta atrás
+               E7/9   G/A   A7  D
+Chega perto e diz "an...jo"
+ D       D7+/9           G7+  D/F#
+Se você sente o corpo colar
+ Em7         A7           F#/A#  B7
+Solte o seu medo bem devagar
+               E7/9  G/A   A7  D  B7
+Chega perto e diz "an-  jo"
+                  E7/9   G/A   A7
+Bem mais perto e diz "an...jo"
+
+ Bm     Bm7+     Bm7
+Se uma coisa louca
+        Bm6
+Sai do seu olhar
+
+ G7+       D/F#
+Fico em silêncio
+ G7+      F#m7   G7+
+Deixo o amor entrar
+  G7+           F#m7        E7/9
+Pra que tanta pressa de chegar
+       Em7             G9   B7
+Se eu sei o jeito e o lugar
+             Em7         A7  D
+Se eu sei o jeito e o lugar
+
+D  Bm7  Em7  A7
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+Bm6 = 7 X 6 7 7 X
+Bm7 = X 2 4 2 3 2
+Bm7+ = X 2 4 3 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7+/9 = X 5 4 6 5 X
+E7/9 = X X 2 1 3 2
+Em7 = 0 2 2 0 3 0
+F#/A# = 6 X 4 6 7 X
+F#m7 = 2 X 2 2 2 X
+G/A = 5 X 5 4 3 X
+G7+ = 3 X 4 4 3 X
+G9 = 3 X 0 2 0 X

@@ -1,0 +1,90 @@
+@titulo: luz
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Luz
+
+(intro) C D A
+
+E|-------------------------|
+B|-----10-8----7-5-----| (3x)
+G|-------------------------|
+D|-------------------------|
+A|-------------------------|
+E|-------------------------|
+
+                              F#m, C#
+Onde estão teus olhos
+                                     , D, D#º
+Agora que to bem na foto
+                        A  C#
+Agora que achei o foco
+                         F#m D/F#
+Onde estão teus olhos
+F                G            A
+Sem eles não existo
+F         G             A
+Fico cego invisível
+
+F                G            A
+Sem eles não existo
+F                         G           C   D A
+Queimo o filme rasgo a foto
+
+                              F#m, C#
+Onde estão teus olhos
+                                     D, D#º
+Agora que domei a fera
+                        A  C#
+Agora que a dor já era
+                         F#m D/F#
+Onde estão teus olhos
+
+F                G            A
+Sem eles não existo
+F         G             A
+Fico cego invisível
+F                G            A
+Sem eles não existo
+F                 G      C   D A
+Só enxergo o silencio
+
+                              F#m, C#
+Juntos para sempre
+                              D  D#º
+Objeto e observador
+                       A  C#
+Física moderna
+                                    F#m D/F#
+Velhas canções de amor
+F             G                 A
+Onde estão teus olhos   (2x)
+F                G            A
+Sem eles não existo
+F                  G         C   D A
+Longe dele nada existe
+
+(solo) F#m C# D D#º  A C# F#m D/F#
+
+F             G                 A
+Onde estão teus olhos   (2x)
+F                  G         C   D A
+Longe dele nada existe
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+D#º = X X 1 2 1 2
+D/F# = 2 X 0 2 3 2
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

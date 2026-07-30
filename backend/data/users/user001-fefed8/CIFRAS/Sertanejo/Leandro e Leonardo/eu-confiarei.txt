@@ -1,0 +1,60 @@
+@titulo: eu-confiarei
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - Eu Confiarei
+
+      G           C/G
+Eu confiarei em Ti Senhor
+  Em7           C          D/F#
+Mesmo quando o sol não brilhar
+         G                 C
+Te adorarei com tudo  que sou
+ Em7            C         D/F#
+Mesmo quando a lágrima rolar
+
+      C                 D/C
+Pois sei em quem tenho crido
+   G         D/F#  Em   Em/D   C
+E sei que és pode  roso pra fazer
+     D/F#        E4
+O milagre acontecer
+
+    C              D/F#    Em
+Teu nome ó Deus é Jeová Rafá
+            C      D/F#        G
+O Deus que cura e faz ressuscitar
+     C          D/F#      Em
+Teu nome ó Deus é El-Shaday
+
+         C        D/F#     G
+Todo poderoso pra me abençoar
+      C                 D/F#
+Para Ti não há vale profundo demais
+     Bm                E4
+Pra Ti não há causa difícil demais
+       Am7
+Pois conheço a ti
+             D/F#   D            G
+E sei que o Teu agir ninguém impedirá
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+E4 = 0 2 2 2 0 0
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3

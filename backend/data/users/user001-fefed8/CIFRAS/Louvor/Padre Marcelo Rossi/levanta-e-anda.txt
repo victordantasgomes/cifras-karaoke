@@ -1,0 +1,62 @@
+@titulo: levanta-e-anda
+@autor:
+@intérprete: Padre Marcelo Rossi
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Padre Marcelo Rossi - Levanta e Anda
+
+     C                        G/B             Gm
+Quando tudo parecer acabado
+                                                       F
+E sem forças já não dá pra caminhar
+ Fm                                         C
+A tristeza solidão são companhias
+Dm                               G
+Mesmo assim você precisa acreditar.
+
+ F                                             Em
+Não se lembra do que aconteceu com aquele coxo
+Dm                       C
+Que ficava ali sentado a mendigar
+F                         Em
+Esperando de alguém uma saída
+Dm                                     G
+Mas com certeza no outro dia ia voltar.
+
+C                     G/B                  Gm
+Pedro e João iam pro templo
+                                             F
+E avistaram aquele homem a pedir
+
+         Fm                                         C
+Disse Pedro não tenho ouro nem prata
+                  G                    C     G7
+Mas o que tenho isso te dou.
+
+      C           Am                     Dm
+Levanta em nome de Jesus levanta
+     F             G                             C    G7
+Levanta em nome de Jesus e anda
+     C           C7                                F  Fm C
+Levanta em nome de Jesus levanta
+                      G                        C
+Levanta e anda em nome de Jesus.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

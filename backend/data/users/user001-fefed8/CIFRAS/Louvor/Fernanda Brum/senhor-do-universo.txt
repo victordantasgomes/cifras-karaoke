@@ -1,0 +1,84 @@
+@titulo: senhor-do-universo
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Senhor do Universo
+
+[Intro] Dm7(9)  Bb7M  Am11  Ab6  Gm11  Dm9/E  D9/E  Eb7/A  A7
+
+F7M             Am11        Dm7(9)
+Hoje, eu vivo a vida sem me preocupar
+          Bb7M
+Com o que será do amanhã
+         Dm9/E  D9/E  Eb7/A  A7
+Que eu terei de encarar
+F7M          Am11        Dm7(9)
+Fogem sonhos que na vida planejei
+       Bb7M
+Pois é Jesus quem me comanda
+    Bb/C          Bb/C  Bb/C Bb/C  Bb/C  Ab/Bb  Ab/Bb
+Não exitarei
+
+  Bb7M          C/Bb
+Direi que Ele é Rei
+  Am7             Dm7(9)
+A quem pertence o amanhã
+  Gm7        Am7
+Senhor do Universo
+
+       Bb7M      Bb/C      F7M    Cm7 B7(13-)  Abm7  Gm7
+Sempre pronto está pra ajudar
+
+    F7M
+Se acaso hoje
+  Am11      Dm7(9)
+O amanhã te preocupar
+        Bb7M                Dm9/E  D9/E  Eb7/A  A7
+E a esperança que te inunda vier acabar
+    F7M          Am11
+E o mundo de horizontes
+       Dm7(9)
+Que se planejou
+          Bb7M
+Cair no esquecimento
+                Bb/C   C7(13)  C7(13)
+Enfim, vier a desanimar
+C7(13)  C7(13)  Bb4(7)  Bb4(7)
+Eu
+
+  Bb7M          C/Bb
+Direi que Ele é Rei
+  Am7              Dm7(9)
+A quem pertence o amanhã
+  Gm7         Am7
+Senhor do Universo
+       Bb7M     Bb/C       F7M
+Sempre pronto está pra ajudar
+
+[Final] Cm7  B7(13-)  Abm7  Gm7
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Ab/Bb = X 1 1 1 1 X
+Ab6 = 4 X 3 5 4 X
+Abm7 = 4 X 4 4 4 X
+Am11 = X 0 0 2 1 0
+Am7 = X 0 2 0 1 0
+B7(13-) = X 2 X 2 4 3
+Bb/C = X 3 X 3 3 1
+Bb7M = X 1 3 2 3 1
+C/Bb = X 1 2 0 1 X
+C7(13) = X 3 X 3 5 5
+Cm7 = X 3 5 3 4 3
+D9/E = X X 2 2 3 0
+Dm7(9) = X 5 3 5 5 X
+F7M = 1 X 2 2 1 X
+Gm11 = 3 X 0 3 1 X
+Gm7 = 3 X 3 3 3 X

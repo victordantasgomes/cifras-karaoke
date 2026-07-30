@@ -1,0 +1,78 @@
+@titulo: dia-comum
+@autor:
+@intérprete: Detonautas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Detonautas - Dia Comum
+
+[Intro]
+
+E|-----------------|--------|----------------------|
+B|-----------------|--------|----------------------|
+G|-----------(7)---|--(7)---|--6-6-6--7-7-7--(4)---|
+D|-3h4-(4)---(4)---|--(4)---|--x-x-x--x-x-x--(x)---|
+A|-----------------|--(5)---|--x-x-x--x-x-x--(x)---|
+E|-----------------|--------|--3-3-3--3-3-3--(3)---|
+
+ D
+Por que você se faz o que não pode ser
+ G
+Muito mais forte inofensivo?
+ D
+Ta complicado te dizer alguma coisa
+ G
+Você não ouve, não me responde
+ F#m      G
+Já se perdeu
+   F#m
+Ficou pra trás
+
+         G     D         G
+Como um dia comum (tchu ruru ruru)
+ Bm                    Bb       D       B
+Nada que eu faça te importa (tchu ruru ruru)
+ Bb              A
+Nada te importa mais, nada mudou
+
+ D
+Por que você se faz o que não pode ser
+ G
+Muito mais forte inofensivo?
+ D
+Ta complicado te dizer alguma coisa
+ G
+Você não ouve, não me responde
+ F#m      G
+Já se perdeu
+   F#m
+Ficou pra trás
+         G     D              G
+Como um dia comum (tchu ruru ruru)
+ Bm                    Bb       D         B
+Nada que eu faça te importa (tchu ruru ruru)
+ Bb              A
+Nada te importa mais, nada mudou
+
+[Solo]  D  G  Bm  G
+
+E|--------------------------|
+B|---------10---------------|
+G|---7-6-7----7-------------| 
+D|--------------------------|
+A|--------------------------|
+E|--------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

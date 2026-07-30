@@ -1,0 +1,145 @@
+@titulo: meu-violao-e-o-nosso-cachorro
+@autor:
+@intérprete: Simone e Simaria
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Simone e Simaria - Meu Violão e o Nosso Cachorro
+
+Capo Casa 2
+
+[Intro] Em  A  D  G
+        Em  A  D  G  D/F#
+
+  Em           A        D           G
+E|---0-3-2-0--------5---2----2--------------|
+B|--0--------------5--------3---0------3----|
+G|-------------6--6--------2---2------0-----|
+D|---------------7--------0----------0------|
+A|-------------0----------------------------|
+E|-0--------------------------------3-------|
+
+  Em           A        D            G
+E|---0-3-2-0--------5---2----2-------3------|
+B|--0--------------5--------3---3----3------|
+G|-------------6--6--------2---2-----0------|
+D|---------------7--------0----------0------|
+A|-------------0---------------------2------|
+E|-0---------------------------------3------|
+                                     ↑
+
+[Guitarra]
+
+
+       G  D/F#  
+E|-0-2-3--2h3p2-0---------------------------|
+B|------------------------------------------|
+G|------------------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Primeira Parte]
+
+Em         A9          D9             G   D/F#
+   Pode ficar aqui sou eu quem vou partir
+Em          A9          D9                    G  D/F#
+   O que a gente construiu não é preciso dividir
+Em                  A9                      D9
+   Fizemos tantos planos, compramos tantas coisas
+                    G    D/F#
+Mas o amor é longe disso
+Em                   A9                     D9
+   Precisamos de um tempo em relação a nós dois
+                       G  D/F#
+Depois decidimos um final
+   Em                 A9
+Espero que seja um final feliz
+
+[Refrão]
+
+D9              A9        Em
+   Se o nosso amor se acabar
+         A9           Bm
+Eu de você não quero nada
+                  A9     G               Em
+Pode ficar com a casa inteira e o nosso carro
+                    A9
+Por você eu vivo e morro
+           G                Em
+Mas dessa casa eu só vou levar
+        A9               D9
+Meu violão e o nosso cachorro
+                          Em
+Se amanhã a gente se acertar, tudo bem
+                D/F#   G                         Em
+Mas se a gente não voltar posso beber, posso chorar
+                A9
+E até ficar no soro
+           G                Em
+Mas dessa casa eu só vou levar
+        A9               D9   A9
+Meu violão e o nosso cachorro
+
+( Em  D/F#  G  A9 )
+( Bm  A9  G  A9 )
+
+[Primeira Parte]
+
+Em                  A9                      D9
+   Fizemos tantos planos, compramos tantas coisas
+                    G    D/F#
+Mas o amor é longe disso
+Em                   A9                     D9
+   Precisamos de um tempo em relação a nós dois
+                       G  D/F#
+Depois decidimos um final
+   Em                 A9
+Espero que seja um final feliz
+
+[Refrão]
+
+D9              A9        Em
+   Se o nosso amor se acabar
+         A9           Bm
+Eu de você não quero nada
+                  A9     G               Em
+Pode ficar com a casa inteira e o nosso carro
+                    A9
+Por você eu vivo e morro
+           G                Em
+Mas dessa casa eu só vou levar
+        A9               D9
+Meu violão e o nosso cachorro
+                          Em
+Se amanhã a gente se acertar, tudo bem
+                D/F#   G                         Em
+Mas se a gente não voltar posso beber, posso chorar
+                A9
+E até ficar no soro
+           G                Em
+Mas dessa casa eu só vou levar
+        A9               D9   A9
+Meu violão e o nosso cachorro
+
+( Em  D/F#  G  A9 )
+( Bm  A9  G )
+
+        A9               D9
+Meu violão e o nosso cachorro
+
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+A*  = X 0 2 2 2 0 - (*B na forma de A)
+A9*  = X 0 2 2 0 0 - (*B9 na forma de A9)
+Bm*  = X 2 4 4 3 2 - (*C#m na forma de Bm)
+D*  = X X 0 2 3 2 - (*E na forma de D)
+D/F#*  = 2 X 0 2 3 2 - (*E/G# na forma de D/F#)
+D9*  = X X 0 2 3 0 - (*E9 na forma de D9)
+Em*  = 0 2 2 0 0 0 - (*F#m na forma de Em)
+G*  = 3 2 0 0 0 3 - (*A na forma de G)

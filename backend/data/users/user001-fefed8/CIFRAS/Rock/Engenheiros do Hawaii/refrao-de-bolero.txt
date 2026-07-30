@@ -1,0 +1,200 @@
+@titulo: refrao-de-bolero
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Refrão de Bolero
+
+[Intro] G  A
+
+   G      A
+E|------------------------------------------|
+B|-3-2-0--3-2-0-----------------------------|
+G|-0------2---------------------------------|
+D|-0------2---------------------------------|
+A|--------0---------------------------------|
+E|-3----------------------------------------|
+
+[Primeira Parte]
+
+Bm                   F#m
+Eu que falei nem pensar
+  G                  E/G#
+Agora me arrependo roendo as unhas
+  A
+Frágeis testemunhas
+        A#°
+De um crime sem perdão
+
+
+    Bm               F#m
+Mas eu falei sem pensar
+ G                         E/G#
+Coração na mão, como o refrão de um bolero
+           A
+Eu fui sincero
+                  A#°
+Como não se pode ser
+
+   Bm                 F#m
+Um erro assim tão vulgar
+ G
+Nos persegue a noite inteira
+    E/G#
+E quando acaba a bebedeira
+  A                 A#°
+Ele consegue nos achar
+
+     Bm  F#m
+Num bar
+        G
+Com um vinho barato
+      E/G#
+Um cigarro no cinzeiro
+       A                    A#°
+E uma cara embriagada no espelho do banheiro
+
+[Refrão]
+
+      G          A        Bm
+Teus lábios são labirintos
+       G               A             Bm
+Que atraem os meus instintos mais sacanas
+ G                   A                 Bm
+Teu olhar sempre distante sempre me engana
+   G                    A          Bm  F#m  G  A
+Eu entro sempre na tua dança de cigana
+
+[Primeira Parte]
+
+Bm                   F#m
+Eu que falei nem pensar
+  G                  E/G#
+Agora me arrependo roendo as unhas
+  A
+Frágeis testemunhas
+        A#°
+De um crime sem perdão
+    Bm               F#m
+Mas eu falei sem pensar
+ G                         E/G#
+Coração na mão, como o refrão de um bolero
+           A        A#°
+Eu fui sincero, eu fui sincero
+
+[Refrão]
+
+      G          A         Bm
+Teus lábios são labirintos
+       G               A             Bm
+Que atraem os meus instintos mais sacanas
+ G                   A                 Bm
+Teu olhar sempre distante sempre me engana
+     G                 A        Bm
+É o fim do mundo todo dia da semana
+
+[Solo] G  A  Bm
+       G  A  Bm
+       G  A  Bm
+       G  A  Bm
+
+Parte 1 de 6
+
+             G        A         Bm
+E|------------------------------------------|
+B|------------------------------------------|
+G|------------------------------------------|
+D|----------------------------------7h9-9~--|
+A|---------5------5-7b8r7-7-7-7-7/9---------|
+E|-5-5-5h7---7~-7---------------------------|
+
+Parte 2 de 6
+
+               G                       
+E|------------------------------------------|
+B|----------------10-10-10-10-10-10-10------|
+G|-------7-7-9/11-11-11-11-11-11-11-11------|
+D|-7-7-9------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+   A 
+E|------------------------------------------|
+B|------------------------------------------|
+G|-11p9\7-9-9-------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+Parte 3 de 6
+
+             Bm
+E|------------------------------------------|
+B|------------------------------------------|
+G|-9-9-7------------------------------------|
+D|-------9-7-9-9--7h9p7---7-----------------|
+A|----------------------9---9-8-7~----------|
+E|------------------------------------------|
+
+Parte 4 de 6
+
+       G             A
+E|-----------------------------10-----------|
+B|--------------7-10/12--10-12----12--------|
+G|---------7--9-----------------------------|
+D|-----7-9----------------------------------|
+A|-7/9--------------------------------------|
+E|------------------------------------------|
+
+Parte 5 de 6
+
+   Bm
+E|-12b14-14-14-14-14-14-14-14r13-13-13r12-12|
+B|------------------------------------------|
+G|------------------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+
+E|-12h10-12-10------------------------------|
+B|-------------12~--------------------------|
+G|------------------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+Parte 6 de 6
+
+         G            A           Bm
+E|----10----10------------------------------|
+B|-12----12-----10-10-10-10--7-7--7---------|
+G|--------------11-11-11-11--7-7--7---------|
+D|-----------------------------------7-9-9~-|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Refrão]
+
+      G          A         Bm
+Teus lábios são labirintos
+       G               A             Bm
+Que atraem os meus instintos mais sacanas
+ G                   A                 Bm
+Teu olhar sempre distante sempre me engana
+     G                 A        Bm  F#m  G  A  Bm
+É o fim do mundo todo dia da semana
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#° = X 1 2 0 2 0
+Bm = X 2 4 4 3 2
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

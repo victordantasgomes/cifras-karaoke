@@ -1,0 +1,60 @@
+@titulo: contra-todo-mal
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Contra todo mal
+
+Intro: C5 D5 (3X)
+
+C5  D5
+Da guerra na Bósnia,
+C5   D5                       C        Bb           G
+a luta pelo pão das crianças, que sofrem em meu país
+C5 D5
+Do fim da inocência,
+C5  D5                    C
+a luta pelo fim das doenças
+     Bb           G
+que matam em meu país
+
+D5             A5    F5         G5     D5         A5
+Contra todo mal, contra todo mal, contra todo mal
+F5        F5     G      C5 D5
+oh, oh, oh Cristo é real
+
+C5 D5
+A luta da cidadania,
+C5  D5                              C
+o fim da desigualdade que amedronta,
+
+    Bb                 G
+as pessoas em meu país.
+C5 D5                             C
+Do ouro em Brasília, a violência que faz,
+     Bb              G
+as pessoas em meu país
+
+D5             A5    F5         G5     D5         A5
+Contra todo mal, contra todo mal, contra todo mal
+F5        F5     G      C5 D5
+oh, oh, oh Cristo é real
+
+C5 D5    D5                     D5
+Real, oh, oh, oh, oh, oh, oh, oh,
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C5 = X 3 5 5 X X
+D5 = X 5 7 7 X X
+F5 = 1 3 3 X X X
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X

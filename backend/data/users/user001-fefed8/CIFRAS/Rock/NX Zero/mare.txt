@@ -1,0 +1,121 @@
+@titulo: mare
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nx Zero - Maré
+
+[Intro] Em  Bm  C
+
+E|-----------5------------------------------------|
+B|---------2-----------5---------2----------2-----|
+G|-------2-----------2-----------2----------------|
+D|-----4-----------2-----------4----------4-------|
+A|---------------4-----------5----------5---------|
+E|------------------------------------------------|
+
+Em                        Bm
+Todo dia ela chega em casa e se pergunta
+     C
+O que é que eu to fazendo aqui?
+Em                        Bm
+Todo dia chega do trabalho  olha pro lado
+     C
+Sem saber pra onde ir
+     Em                    Bm
+É que a vida que leva não é a mesma
+     C
+Que planejou quando era feliz
+
+Em                        Bm
+Todo dia isso se repete  ela procura
+     C
+Um motivo pra sorrir
+C         Bm
+Uô uô ôô  uô uô ôô
+
+     C           D5                Em    Bm
+Com o tempo a vida faz crescer e aceitar
+          C          D5          Em    Bm
+Que de repente tudo muda e troca de lugar
+     C           D5
+Não se entregue e não deixe a maré te levar
+    Em                Bm
+Só não deixe a maré te levar
+  C                D5          Em        Bm
+Com o tempo a vida faz crescer e aceitar
+
+Em  Bm  C
+Uhoooooou
+
+  Em                 Bm
+Todo dia ele toma um gole
+              C
+Pra esquecer tudo o que deixou pra trás
+  Em               Bm
+Todo dia ele se arrepende de não ter
+ C
+Feito o que era capaz
+
+Em                           Bm
+Vê que a vida que leva não é a mesma
+     C
+E essa rotina já não satisfaz
+  Em                  Bm
+Todo dia isso se repete e ele procura
+    C
+Encontrar a sua paz
+
+     C         D5                Em     Bm
+Com o tempo a vida faz crescer e aceitar
+          C          D5          Em    Bm
+Que de repente tudo muda e troca de lugar
+     C           D5
+Não se entregue e não deixe a maré te levar
+    Em                Bm
+Só não deixe a maré te levar
+  C                  D5        Em        Bm
+Com o tempo a vida faz crescer e aceitar
+Em
+É!
+
+[Solo] Em  Bm  C
+       Em  Bm  C
+       D5
+
+E|--------------------------------------------|
+B|--------------------------------------------|
+G|-14p13-11-13----13h14h13-11-9-6h7-7-6/4-4/6-|
+D|--------------------------------------------|
+A|--------------------------------------------|
+E|--------------------------------------------|
+
+E|-------------------------------------------|
+B|---------------------------13b-13-11-9-7-5-|
+G|14p13--11--13--16/15--12-13----------------|
+D|-------------------------------------------|
+A|-------------------------------------------|
+E|-------------------------------------------|
+
+  C           D5                Em    Bm
+Com o tempo a vida faz crescer e aceitar
+          C          D5          Em    Bm
+Que de repente tudo muda e troca de lugar
+           C                      D5
+Não se entregue e não deixe a maré te levar
+    Em                  Bm
+Só não deixe a maré te levar
+  C                D5          Em        Bm
+Com o tempo a vida faz crescer e aceitar
+
+----------------- Acordes -----------------
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D5 = X 5 7 7 X X
+Em = 0 2 2 0 0 0

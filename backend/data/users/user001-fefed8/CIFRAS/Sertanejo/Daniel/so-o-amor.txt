@@ -1,0 +1,109 @@
+@titulo: so-o-amor
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Só o Amor
+
+Intro:
+
+E|------------2---------------2---|
+B|---3------3---3----3------3---3-|
+G|--------2---------------2-------|
+D|-0----0----------0----3---------|
+A|--------------------------------|
+E|-------------------------------|
+
+
+     D                  G       D/F#
+Por amor sofri algumas vezes,eu recordo a primeira
+   A/C#      G                D/F#              Em
+Ocasião,por amor roubei a primavera,com suas flores
+               A         D
+Eu fiz essa canção,por amor perdemos a
+     G         D/F#                A/C#    G
+Consciência,e deixamos livre o coração,o amor se
+                D/F#          Em
+Entrega e não se pensa,pode mais a fé que a
+  A            G        D/F#  Em     Em/D   A
+Razão,se você vive só e abatido,deveria pensar,que
+
+   G           D/F#             Em     Em/D  A
+Passamos todos pela vida,mais a alma é imortal,ah,ah
+
+Refrão:
+  D        A/C#       Bm                 F#m
+Só o amor é a saida limpa constroi e concebe
+        G                   D/F#             Em
+Procria,somente o amor,oh,oh,cura a ferida que
+                  A             D        A/C#
+Alguma vez nos causou tanta dor.só o amor é a saida
+  Bm                 F#m            G
+Limpa constroi e concebe procria,somente o
+           D/F#            Em
+Amor,oh,oh,cura a ferida que alguma vez nos
+   A         D
+Causou,oh,oh,tanta dor,oh,oh.
+
+(Solo)
+E|------------2--------------2--5~-|
+B|---3------3---3----3-2/3-5---5---|
+G|--------2------------------------|
+D|-0----0----------0---------------|
+A|---------------------------------|
+E|---------------------------------|
+
+     D                 G          D/F#
+Por amor morreu crucificada,a esperança da
+     A/C#      G                D/F#     Em
+Humanidade,o amor é a fruta sagrada,a promessa de
+           A          D                   G
+Nossa liberdade,por amor perdemos a consciência,e
+  D/F#               A/C#     G
+Deixamos livre o coração,o amor se entrega e não se
+ D/F#       Em               A            G
+Pensa,pode mais a fé que a razão,se você vive só
+  D/F#   Em    Em/D   A         G           D/F#
+E abatido deveria pensar,que passamos todos pela
+            Em     Em/D       A
+Vida, mas a alma a alma é imortal,ah,ah,oh,oh
+
+(Refrão)
+
+  D        A/C#       Bm                 F#m
+Só o amor é a saida limpa constroi e concebe
+        G                   D/F#             Em
+Procria,somente o amor,oh,oh,cura a ferida que
+                  A             D        A/C#
+Alguma vez nos causou tanta dor.só o amor é a saida
+  Bm                 F#m            G
+Limpa constroi e concebe procria,somente o
+           D/F#            Em
+Amor,oh,oh,cura a ferida que alguma vez nos
+   A  G     A       D
+Causou,oh,oh,tanta dor,oh,oh.
+
+(Solo final)
+E|------------2-----------------------3h5-|
+B|---3------3---3----3------3-5/7-5~--3---|
+G|--------2---------------2---------------|
+D|-0----0----------0----0-------------0---|
+A|----------------------------------------|
+E|----------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

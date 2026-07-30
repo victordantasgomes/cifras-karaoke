@@ -1,0 +1,52 @@
+@titulo: amigo-verdadeiro
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Amigo Verdadeiro
+
+G                  C      D7                  G 
+Tu és a fonte de vida, o centro de todas as coisas 
+       Em          Am     D4(7)         D7        G 
+Em ti eu encontro guarida, contigo eu sou vencedor 
+              C     B7               Em 
+Tu és, da alegria a certeza, amor que o meu ser 
+      C          G            Am           D4(7)   D7 
+A verdadeira riqueza que sustenta o meu viver 
+        C    D      G              G7         C 
+Tu és Jesus, amigo verdadeiro Que tenho conhecido 
+        B7           Em  D  C  G/B C   B7       Em 
+Na vida de meus irmãos Tu és Jesus, eterno companheiro 
+   Dm   G7     C     D       G    C/D  
+O filho do Deus vivo, o Deus Emanuel 
+  G            C      D7          G 
+Tu és a mão estendida, o cajado que traz direção 
+     Em            Am        D4(7)   D7       G 
+O pão que é repartido na vida de comunhão 
+       G     C        B7                 Em 
+Tu és a plenitude do espírito que habita em mim 
+      C           G        A7              E4(7)    E7 
+Em Ti esta toda a virtude, da glória e da graça sem fim
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+D = X X 0 2 3 2
+D4(7) = X X 0 2 1 3
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+E4(7) = 0 X 0 2 0 X
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

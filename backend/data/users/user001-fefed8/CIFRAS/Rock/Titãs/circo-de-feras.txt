@@ -1,0 +1,82 @@
+@titulo: circo-de-feras
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Circo de Feras
+
+Introdução:
+E (E7+ E A7+ A)2 vezes
+
+E7+ E
+    A vida vai torta
+E7+ E
+    Jamais se endireita
+A7+ A
+    O azar persegue
+E7+ E                    E7+
+    Esconde-se à espreita
+E                 E7+
+Nunca dei um passo
+E                 A7+
+Que fosse o correto
+A                E7+
+Eu nunca fiz nada
+E
+Que batesse certo
+
+B            B9
+Enquanto esperava
+
+F#
+No fundo da rua
+A
+Pensava em ti
+       C#m
+E em que sorte era a tua
+         E7+ E           B
+Te quero tanto, te quero tanto
+
+E7+ E
+    De modo que a vida
+E7+ E
+    É um circo de feras
+A7+ A
+    E os entretantos
+E7+ E                 E7+
+    São a minha espera
+E                  E7+
+Nunca dei um passo
+E                  A7+
+Que fosse o correto
+A                E7+
+Eu nunca fiz nada
+E
+Que batesse certo
+
+B            B9
+Enquanto esperava
+F#
+No fundo da rua
+A
+Pensava em ti
+       C#m
+E em que sorte era a tua
+         E7+ E           B
+Te quero tanto, te quero tanto
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7+ = X 0 2 1 2 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E7+ = X X 2 4 4 4
+F# = 2 4 4 3 2 2

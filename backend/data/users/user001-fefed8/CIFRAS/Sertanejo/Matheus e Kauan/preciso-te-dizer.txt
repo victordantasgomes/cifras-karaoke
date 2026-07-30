@@ -1,0 +1,89 @@
+@titulo: preciso-te-dizer
+@autor:
+@intérprete: Matheus e Kauan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Matheus e Kauan - Preciso Te Dizer
+
+Intro: F#m  D  A  E
+E|---7/9-----------------------------------------------------|
+B|-------10--------------------------------------------------|
+G|------------------------9h11-9-----------------------------|
+D|-----------11-11h12--------------9h11-9/7-7h9--------------|
+A|-----------------------------------------------9/10\9-7----|
+E|-----------------------------------------------------------| (2x)
+
+
+F#m                     D
+Não consigo acreditar, como foi que te perdi
+A                         E
+Meu coração está partido, fica vagando por ai.
+F#m                            D
+To sem passado , sem presente, do futuro eu desisti.
+A                        E
+Tudo fica sem sentido sem você perto do mim.
+
+F#m                       D
+Sei que foi um erro meu, não diga que me esqueceu,
+ A                        E
+Fica tudo tão sem graça, sem o teu corpo junto ao meu.
+
+F#m                        D
+A sua vida é minha vida , não consigo te esquecer
+ A                         E
+Volta e vem ficar comigo. Eu preciso te dizer…
+
+F#m             D
+Que eu te amo, que preciso de você
+ A                    E
+Não quero imaginar como seria te perder.
+ F#m                 D
+O amor é agressivo, as vezes chega com perigo,
+ A                           E
+Invade o coração da gente, e não quer nem saber.(2x)
+E|---7/9-----------------------------------------------------|
+B|-------10--------------------------------------------------|
+G|------------------------9h11-9-----------------------------|
+D|-----------11-11h12--------------9h11-9/7-7h9--------------|
+A|-----------------------------------------------9/10\9-7----|
+E|-----------------------------------------------------------| (2x)
+
+
+F#m                     D
+Não consigo acreditar, como foi que te perdi
+A                         E
+Meu coração está partido, fica vagando por ai.
+F#m                            D
+To sem passado , sem presente, do futuro eu desisti.
+A                        E
+Tudo fica sem sentido sem você perto do mim.
+
+F#m                       D
+Sei que foi um erro meu, não diga que me esqueceu,
+ A                        E
+Fica tudo tão sem graça, sem o teu corpo junto ao meu.
+F#m                        D
+A sua vida é minha vida , não consigo te esquecer
+ A                         E
+Volta e vem ficar comigo. Eu preciso te dizer…
+
+F#m             D
+Que eu te amo, que preciso de você
+ A                    E
+Não quero imaginar como seria te perder.
+ F#m                 D
+O amor é agressivo, as vezes chega com perigo,
+ A                           E
+Invade o coração da gente, e não quer nem saber .(5x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

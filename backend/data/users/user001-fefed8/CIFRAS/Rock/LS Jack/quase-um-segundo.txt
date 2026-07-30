@@ -1,0 +1,74 @@
+@titulo: quase-um-segundo
+@autor:
+@intérprete: LS Jack
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+LS Jack - Quase Um Segundo
+
+C#9       B9            E/G#
+Eu queria ver o escuro do mundo
+          A7M
+onde está tudo que você quer
+C#9          B9                 E/G#
+pra me transformar no que te agrada
+      A7M     Ab7
+no que me faça ver
+C#m          F#m           A             Ab7
+quais são as cores e as coisas pra te prender
+E          E/G#                    A7M
+eu tive um sonho ruim e acordei chorando
+                Ab7
+por isso eu te liguei
+A      Ab7         C#9           B9
+será que você ainda pensa em mim
+A     Ab7               Bbm7  E7  Dbm6
+será que você ainda pensa
+C#9       Bsus               E/G#
+as vezes te odeio por quase um segundo
+            A7M
+depois te amo mais
+
+C#9            Bsus
+teus pêlos, teu gosto, teu rosto
+E/G#        A              Ab7
+tudo que não me deixa em paz
+C#9       F#m          A7M         Ab7
+quais são as cores e as coisas pra te prender
+E         E/G#                     A
+eu tive um sonho ruim e acordei chorando
+                 Ab7
+por isso eu te liguei
+A      Ab7          C#9         B9
+será que você ainda pensa em mim
+A       Ab7              C#9    B9
+será que você ainda pensa
+A         Ab7      C#9      B9
+será que você ainda pensa em mim
+A         Ab7         Bbm7(9)
+será que você ainda pensa.
+Bm7(9)   E        C#m7
+Hummmmm mm mm mmmmm ummm
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7M = X 0 2 1 2 0
+Ab7 = 4 6 4 5 4 4
+B9 = X 2 4 4 2 2
+Bbm7 = X 1 3 1 2 1
+Bbm7(9) = 6 4 6 5 X X
+Bm7(9) = X 2 0 2 2 X
+Bsus = X 2 4 4 4 2
+C#9 = X 4 6 6 4 4
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+Dbm6 = X 4 X 3 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,59 @@
+@titulo: meu-amor
+@autor:
+@intérprete: Henrique e Juliano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Henrique e Juliano - Meu Amor
+
+[Intro] E  B  C#m  A9
+
+E|-----------------------------|
+B|-3/5-5-5/7-4-4-4/5-2-2-0-0p2-|
+G|-----------------------------|
+D|-----------------------------|
+A|-----------------------------|
+E|-----------------------------|
+
+E
+Um dia eu saí de casa cedo
+                B
+Pra encontrar você morri de medo
+             F#m                    E           A9
+Porque da última vez que eu te vi só tinha dezesseis
+         E
+O coração naquele tempo só doía
+            B
+A pouca idade e a vergonha eu não sabia
+    F#m            A9
+Falar de amor, falar de amor
+
+     F#m
+Tive que quebrar a cara por aí
+          B
+Comprar buquê de flores que murcharam no outro dia
+     F#m                     B            A B
+Sem ter valor, nenhum valor pra um outro alguém
+ E         B
+E aí, meu amor
+        C#m
+Tô mais maduro e mais seguro do que eu quero
+      A9
+Ganhei uns quilos e na aparência e tô mais velho
+    E              B             C#m         A9
+E ainda te gosto tanto, te amo mesmo tanto
+
+[Final] E  B  C#m  A9
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

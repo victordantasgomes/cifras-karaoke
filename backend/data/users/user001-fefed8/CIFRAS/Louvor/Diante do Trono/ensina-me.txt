@@ -1,0 +1,97 @@
+@titulo: ensina-me
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Ensina-me
+
+Intro:  |: C Dm/C C | Am Dm/A Am :|
+
+F      C Dm/C  C           Am  Dm/A Am
+Ensina-me.       Os teus caminhos,
+F      C Dm/C  C          Am Dm/A Am  G
+Ensina-me.       Em ti confio.
+   F9                   Dm7
+O meu coração quer te amar mais e mais
+   G9         G/F       Em7
+Viver com tua mão sobre mim,
+         Dm7  F/G        C   1º: F/G
+Dia após dia.     Ensina-me. 2º: [Modulação G/A A]
+
+        D  Em/D  D           Bm   Em/B  Bm
+Ensina-me.         Os teus caminhos,
+G       D  Em/D  D          Bm   Em/B  Bm  A
+Ensina-me.         Em ti confio.
+   G9             D/F# Em7
+O meu coração quer te amar mais e mais
+   A9         A/G       F#m7
+Viver com tua mão sobre mim,
+
+Bm       Em7 G/A         D  [Modulação Ab/Bb Bb]
+Dia após dia.    Ensina-me.
+
+       Eb  Fm/Eb  Eb           Cm  Fm/C Cm
+Ensina-me.           Os teus caminhos,
+Ab     Eb  Fm/Eb  Eb           Cm  Fm/C Cm Bb
+Ensina-me.           Em ti confio.
+   Ab9                 Fm7
+O meu coração quer te amar mais e mais
+   Bb        Bb/Ab      Gm7
+Viver com tua mão sobre mim,
+Cm        Fm7 Ab/Bb        Eb
+Dia após dia.       Ensina-me.
+
+Eb/G  Ab9             Eb/G Fm7
+    O meu coração quer te amar mais e mais
+  Bb          Bb/Ab      Gm7
+Viver com tua mão sobre mim,
+         Fm7 Ab/Bb        Eb
+Dia após dia.      Ensina-me.
+
+Cm/G          Fm7 Ab/Bb        Eb
+    Dia após dia.      Ensina-me.
+Cm/G          Fm7 Ab/Bb        Eb
+    Dia após dia.      Ensina-me.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/G = 3 X 2 2 2 X
+A9 = X 0 2 2 0 0
+Ab = 4 3 1 1 1 4
+Ab/Bb = X 1 1 1 1 X
+Ab9 = 4 6 8 5 4 4
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+Bb/Ab = 4 X 3 3 3 X
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+Cm/G = X X 5 5 4 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm/A = X 0 X 2 3 1
+Dm/C = X 3 X 2 3 1
+Dm7 = X 5 7 5 6 5
+Eb = X 6 5 3 4 3
+Eb/G = 3 X 1 3 4 X
+Em/B = X 2 2 0 0 0
+Em/D = X X 0 4 5 3
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F#m7 = 2 X 2 2 2 X
+F/G = 3 X 3 2 1 X
+F9 = 1 3 5 2 1 1
+Fm/C = X 3 3 1 1 1
+Fm/Eb = X 6 X 5 6 4
+Fm7 = 1 X 1 1 1 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/F = 1 X X 0 0 3
+G9 = 3 X 0 2 0 X
+Gm7 = 3 X 3 3 3 X

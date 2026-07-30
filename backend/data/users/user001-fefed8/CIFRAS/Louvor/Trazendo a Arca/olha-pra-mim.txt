@@ -1,0 +1,63 @@
+@titulo: olha-pra-mim
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Olha Pra Mim
+
+Intro 2x: Am7 Bm7 C7M/9 Cm6 C7M/D
+
+             Am7              G/B
+Eu me humilharei teu nome gritarei.
+                  C9               D7/4
+Como criança eu serei, mas olha pra mim.
+               Am7                  G/B
+Tuas veste tocarei, na figueira subirei.
+                      C9              D7/4
+Aos teus pés eu chorarei, mas olha pra mim.
+
+          Am7    Bm7
+Olha pra mim, senhor.
+         Am7     Bm7          Em7
+Olha pra mim, preciso do teu olhar
+          Am7            Bm7
+Olha pra mim, pois eu preciso
+                         C7M   D7/4
+Pois eu preciso do teu olhar
+
+                      Am7
+Eu farei o que for preciso
+         Bm7
+Para te ver
+                           C7M
+Pois não posso deixar que sigas
+  G D/F# Em7 D/F# Bm7  Em7
+ sem-me--per-ce--ber
+                   Am7
+Não importa a multidão
+                       Bm7
+Só eu sei do que eu preciso
+                      C7M
+E eu preciso do teu olhar, do teu olhar.
+       D7/4
+Do teu olhar
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C7M = X 3 2 0 0 X
+C7M/9 = X 3 2 4 3 X
+C7M/D = 10 X 9 9 8 8
+C9 = X 3 5 5 3 3
+Cm6 = X 3 X 2 4 3
+D/F# = 2 X 0 2 3 2
+D7/4 = X X 0 2 1 3
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

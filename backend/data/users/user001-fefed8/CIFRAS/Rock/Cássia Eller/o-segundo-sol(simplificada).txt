@@ -1,0 +1,87 @@
+@titulo: o-segundo-sol(simplificada)
+@autor:
+@intérprete: Cássia Eller
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cássia Eller - O Segundo Sol
+
+Intro 2x: C9
+
+Primeira parte - 2x:
+
+G                           Dm7
+  Quando o segundo sol chegar
+       F                           C
+ Para realinhar as órbitas dos planetas
+G                               Dm7
+ Derrubando com assombro exemplar
+              F
+ O que os astrônomos diriam se tratar
+       C
+ De um outro cometa
+
+Segunda Parte:  G G7
+
+ G                              G7
+  Não digo que não me surpreendi
+G
+ Antes que eu visse, você disse e eu não pude
+
+    G7
+ Acreditar
+ F          C/E         Dm7
+  Mas você pode ter certeza,
+
+C                              Gm7
+ De que o seu telefone irá tocar
+     F                   C/E
+ Em sua nova casa que abriga
+           Dm7
+ Agora a trilha
+      C
+ Incluída nessa minha conversão
+                      Gm7
+ Eu só queria te contar
+ Que eu fui lá
+  F
+ Fora e vi dois sois num dia
+C/E         Dm7      C
+ E a vida que ardia sem explicação
+
+(repete 1a. parte 1x)
+(repete 2a. parte)
+
+     F
+ Explicação
+      C
+ Não tem explicação
+     F
+ Explicação
+      C
+ Não tem explicação
+     F
+ Explicação  não tem
+      C
+ Não tem explicação
+     F
+ Explicação
+
+ Não tem explica....ção
+               C
+ Não tem, não tem
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+C/E = X X 2 0 1 0
+C9 = X 3 2 0 3 3
+Dm7 = X X 0 2 1 1
+F = X X 3 2 1 1
+G = 3 2 0 0 3 3
+G7 = 3 2 0 0 0 1
+Gm7 = 3 5 3 3 3 3

@@ -1,0 +1,67 @@
+@titulo: entao-pode-ir
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Então Pode Ir
+
+E
+Você me fala com tanta certeza
+                           F#
+Que não tem medo de nada
+                                             A
+Seu amor tá me deixando e buscando outra estrada
+                                        E      E4      E
+E o mundo em minha volta é só dor e solidão
+
+Você me pede pra que eu te esqueça
+                        F#
+De um jeito indiferente
+                                                A
+Esqueceu que no passado meu amor se fez presente
+                                        E      E4      E
+Enfrentando frio e chuva pra aquecer seu coração
+
+
+C#m                                              G#m
+Acontece que está tão diferente e eu não posso fazer nada
+
+                                        A
+Solidão é companheira quase toda madrugada
+                                        B
+Implorar não adianta se não vai querer ficar
+              E
+Então pode ir
+                                F#
+Mas vai na certeza que vai de uma vez
+                                A
+Esquece essa vida e o que a gente já fez
+                                E
+Que o meu coração vai levando com jeito
+             E
+Então pode ir
+                                F#
+Mas vai na certeza que fica uma dor
+                                A
+Que fica a tristeza e um resto de amor
+             B                 E
+Virando a cabeça e rasgando meu peito
+
+
+(E - B - A - A) 2x
+(E - B - C#m - G#m - A - A - B)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

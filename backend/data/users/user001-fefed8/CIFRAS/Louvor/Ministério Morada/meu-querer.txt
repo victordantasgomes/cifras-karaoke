@@ -1,0 +1,83 @@
+@titulo: meu-querer
+@autor:
+@intérprete: Ministério Morada
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Morada - Meu Querer
+
+[Intro]  F#m  A/D  E/A
+
+      F#m   A/D          E/A
+Eu ouço do céu o som da tua voz
+           F#m   A/D            E/A
+"A quem envia---rei  quem há de ir por nós!"
+      F#m   A/D          E/A
+Eu ouço do céu o som da tua voz
+           F#m   A/D            E/A
+"A quem envia---rei  quem há de ir por nós!"
+
+                   D
+Quem há de ser minha voz
+                   F#m
+Quem há de ser os meus pés
+                       E                   Bm
+Quem há de ser minhas mãos a tocar essa geração
+                   D
+Quem há de ser minha voz
+                   F#m
+Quem há de ser os meus pés
+
+                       E                   Bm
+Quem há de ser minhas mãos a tocar essa geração
+
+      F#m   E            D   Bm
+Eu ouço do céu o som da tua voz
+           F#m  E             D       Bm
+"A quem envia--rei quem há de ir por nós!"
+      F#m   E            D   Bm
+Eu ouço do céu o som da tua voz
+           F#m  E             D       Bm
+"A quem envia--rei quem há de ir por nós!"
+
+               D
+Sim eu serei tua voz
+                 F#m
+Sim eu serei os teus pés
+                   E                 Bm
+Sim eu serei tuas mãos a tocar essa geração
+               D
+Sim eu serei tua voz
+                 F#m
+Sim eu serei os teus pés
+                   E                 Bm
+Sim eu serei tuas mãos a tocar essa geração
+
+( D  F#m  E  Bm )
+( D  F#m  E  Bm )
+
+               D
+Sim eu serei tua voz
+                 F#m
+Sim eu serei os teus pés
+                   E                 Bm
+Sim eu serei tuas mãos a tocar essa geração
+               D
+Sim eu serei tua voz
+                 F#m
+Sim eu serei os teus pés
+                   E                 Bm
+Sim eu serei tuas mãos a tocar essa geração
+
+----------------- Acordes -----------------
+A/D = X X 0 6 5 5
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+F#m = 2 4 4 2 2 2

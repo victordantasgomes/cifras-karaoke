@@ -1,0 +1,65 @@
+@titulo: filme
+@autor:
+@intérprete: LS Jack
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+LS Jack - Filme
+
+Intro: A9  G  A9  G  A9  C9  G
+
+Am          C
+Você saiu de casa
+Am                       C
+Seu medo agora é todo seu
+Am                       C                       Am          G
+Não dá mais pra se arrepender
+Am                C
+Você fechou a porta
+Am                    C
+Pro que não dá mais pra viver
+Am                         C           Am
+A vida agora é pra valer
+
+          C9                             Am
+Como as noites de inverno
+                    C9                  Am
+Como os dias de verão
+               C9                           Am                       G
+Tudo passa como um filme que não tem fim
+
+                 C9                           Am
+Como as curvas da estrada
+                 C9                            Am
+Como alguém que não foi bom
+          C9                                Am                         G
+Tudo passa como um filme que não tem fim
+
+2X : Am   C9   Em   G9
+
+  Am               C9
+Você sozinha em casa
+Am               C9
+Seu tempo agora é todo seu
+    Am            C9            Am           G
+E tudo pode acontecer
+ Am              C9
+Nas ruas da cidade
+   Am                C9
+Eu sei você vai aprender
+  Am                C9                 Am
+A vida agora é pra valer
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G9 = 3 X 0 2 0 X

@@ -1,0 +1,78 @@
+@titulo: tchau
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Tchau
+
+(intro) E E4 E E4
+
+E|---------------------------------------------------|
+B|--9-9-9-9--7-9---9-9-9---10--10-10-9--9-9-7-7-7-9--|
+G|--9-9-9-9--9-9---9-9-9----9---9--9-9--9-9-9-9-9-9--|
+D|---------------------------------------------------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+E
+Me cansei dos teus desenganos,
+E4
+Não entendo a tua fala,
+A9
+Nossa casa está vazia,
+Am
+Hoje a noite é o meu dia,
+E
+Nossa vida virou novela,
+E4
+Eu não sou nenhum personagem,
+
+A9
+Que se enquadre em teus delirios,
+Am                             C#m
+Quero andar nas ruas e sentir frio,
+      F#              A9    Am
+No calor quero estar sozinho.
+
+E
+Me cansei das tuas mentiras,
+E4
+Eu não quero esse dia a dia,
+A9
+Não consigo fazer promessas,
+Am
+Tenho apenas o que me resta.
+
+E
+O teu jeito não me abala,
+E4
+Não me sinto bem no teu jogo,
+A9
+Vou  voar mais alto que as nuvens,
+Am                         C#m
+Entender de vez esse meu vazio,
+         F#               A9   Am
+Te encontrar pra não ser sozinho.
+
+ E                     A9                        E
+Tudo é sempre a mesma coisa o mesmo jeito toda vez
+                 A9                       C#m
+Tudo é muito relativo e a distancia já nos fez
+                    F#                       E   A9        (2x)
+Somos serra e litoral,nosso final é simples tchau!
+                     E
+Nosso final é simples tchau!
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+Am = X 0 2 2 1 0
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F# = 2 4 4 3 2 2

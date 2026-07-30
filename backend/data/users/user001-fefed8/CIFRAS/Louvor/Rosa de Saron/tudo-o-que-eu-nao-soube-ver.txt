@@ -1,0 +1,57 @@
+@titulo: tudo-o-que-eu-nao-soube-ver
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Tudo o Que Eu Não Soube Ver
+
+(riff intro 4X)
+
+E|---------------------------------------------
+B|---------------------------------------------
+G|---------------------------------------------
+D|-0-0-0-0-3-0-0-5-0-0-7/8-7-0-3-5-------------
+A|-0-0-0-0-3-0-0-5-0-0-7/8-7-0-3-5-------------
+E|---------------------------------------------
+
+D9
+   Eu vejo nos seus rostos
+               F
+As marcas de uma vida
+          C9
+Tristezas e alegrias
+D9
+   Eu vejo nos seus olhos
+          F
+Toda minha história
+                    C9
+E tudo o que eu não soube ver
+
+
+G5           F5           C5
+  Acho que não sei me expressar
+Ab5                 Eb5    G5
+Mil razões terei pra tentar
+                        F5
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Ab5 = 4 6 6 X X X
+B = X 2 4 4 4 2
+C5 = X 3 5 5 X X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+Eb5 = X 6 8 8 X X
+F = 1 3 3 2 1 1
+F5 = 1 3 3 X X X
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X

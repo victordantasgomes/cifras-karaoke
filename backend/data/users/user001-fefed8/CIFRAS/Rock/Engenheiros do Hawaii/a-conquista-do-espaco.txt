@@ -1,0 +1,154 @@
+@titulo: a-conquista-do-espaco
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - A Conquista do Espaço
+
+Introdução: A A5- A4 A
+
+ A       A5-
+Costas quentes (sempre em frente)
+ A4      A
+Frente fria (sempre me frente)
+ A       A5-
+Sangue quente (sempre em frente)
+ A4        A
+Demente sangria (sempre, sempre)
+  A                 A5-
+Passo à passo à eternidade
+   A4                F#m        E
+Um passo em falso: a cara no chão
+ A                     A5-
+Um grande passo pra humanidade
+     A4                 F#m         E
+Um pequeno veneno pra cada um de nós
+
+  D     E             A    E/G# F#m
+- Lá do alto deve ser bonito!
+
+  D        E             (F#m)
+- Aqui de cima é muito legal...
+  D       E             A    E/G#   F#m
+- No asfalto meus tênis derretem!
+   D      E                (A)
+- Aqui em cima nem frio nem calor...
+
+  A        A5-
+Bola nas costas (sempre em frente)
+ A4              F#m       E
+Atrás vem gente (sempre em frente)
+ A        A5-
+Sempre alerta (sangue frio)
+ A4                F#m      E      (A)
+Sempre em frente (sempre, sempre)
+
+ A              A5-
+Passo à passo-pégasus
+         A4           F#m       E
+Pegadas pelo espaço a conquistar
+ A             A5-
+Bola de neve morro àbaixo
+  A4                    F#m        E
+Sempre em frente, pra cima, pro alto
+
+   D       E          A     E/G#  F#m
+- Lá do alto deve ser esquisito...
+   D         E             (F#m)
+- Aqui de cima até que é normal
+    D         E              A    E/G#      F#m
+... Minha cabeça pesa quase dois séculos...
+   D           E             (A)
+- Meu corpo flutua, peso nenhum!
+
+ A      A5-     A4           A
+Cara à cara (a conquista do espelho)
+ A      A5-     A4           A
+Passo à passo (a conquista do espaço)
+
+  D       E             A    E/G#  F#m
+- Lá do alto deve ser bonito!
+  D        E             (F#m)
+- Aqui de cima até que é normal...
+   D       E                 A    E/G#   F#m
+...Minha cabeça presa entre dois mundos...
+  D        E                     (A E)
+-Meu corpo flutua: Mundo nenhum!
+
+
+A|---8-7-8-7---8-7-8-7---8-7-8-7---8-7-8-7-
+E|-5---------5---------7---------7---------
+
+e|-------------------------------------
+B|-5-6-5---------2-2-------------5-2-2-
+G|-------7-5-4-4-----2-4-4/5-4-2-------
+D|-------------------------------------
+
+e|-----3-5-5-3---5-------------------------------
+B|-2-5---------5---2-2---------------------------
+G|---------------------2-4-4/5-4-2-4-0-0---7-5-5-
+D|-----------------------------------------------
+
+e|-3-----5-3-5---3-------8-8----------|
+B|---1-1-----------1-1-------10-8-----|
+G|--------------------------------9-9-|
+D|------------------------------------|
+
+[esse solo é sobre a parte cantada abaixo, ouça a musica para fazer similar /JOHN MEIRA]
+
+ A                   F
+A MÍDIA... A MEDIOCRACIA
+ A            F
+MUITO ZORRO E NENHUM SARGENTO GARCIA
+   A        F
+...FRANCAMENTE...
+         G
+HÁ MUITO JÁ NÃO SOMOS COMO JÁ FOMOS:
+   G
+TODOS IGUAIS
+IGUAIS AOS POUCOS QUE AINDA ANDAM
+  A                        C
+IGUAIS A TANTOS QUE ANDAM LOUCOS
+  A                        C
+IGUAIS A LOUCOS QUE AINDA ANDAM
+  A                        C
+IGUAIS A SANTOS QUE ANDAM LOUCOS
+DE SATISFAÇÃO...
+
+  Em                  Am   Am/G   Dm                                G
+OUVINDO PAMPA NO WALKMAN         (descubro um passado que não me pertence)
+  Em                  Am   Am/G   Dm                                G
+OUVINDO PAMPA NO WALKMAN          (3rd world music, mito e nonsense)
+  Em                  Am   Am/G   Dm                                G
+OUVINDO PAMPA NO WALKMAN (pertenço a um país que não me pertence)
+ B                   C B A                          G
+OUVINDO PAMPA NO WALKMAN (não sou gaúcho: sou portoalegrense)
+FRANCAMENTE
+
+C
+
+e|-15-13-12-10-12-15-13-12-10-12---20|
+B|-----------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A5- = X 0 7 6 4 X
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

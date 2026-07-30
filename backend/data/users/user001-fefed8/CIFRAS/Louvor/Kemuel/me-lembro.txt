@@ -1,0 +1,152 @@
+@titulo: me-lembro
+@autor:
+@intérprete: Kemuel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kemuel - Me Lembro
+
+[Intro] A  Bm11  G  D
+        A  Bm11  G  D
+
+   A            Bm11  G           D
+E|-x-x-x-x-x-x--x-x---x-x-x-x-x-x/x--x--x----|
+B|-x-x-x-x-x-x--x-x---x-x-x-x-x-x/x--x--x----|
+G|-6-6-6-6-6-6--7-7---4-4-4-4-4-4/11-11-11---|
+D|-7-7-7-7-7-7--7-7---5-5-5-5-5-5/12-12-12---|
+A|-7-7-7-7-7-7--7-7---5-5-5-5-5-5/12-12-12---|
+E|-5-5-5-5-5-5--7-7---3-3-3-3-3-3/10-10-10---|
+
+   A            Bm11  G     D
+E|-x-x-x-x-x-x--x-x---x-x-x/x-------|
+B|-x-x-x-x-x-x--x-x---x-x-x/x-------|
+G|-6-6-6-6-6-6--7-7---4-4-4/11------|
+D|-7-7-7-7-7-7--7-7---5-5-5/12------|
+A|-7-7-7-7-7-7--7-7---5-5-5/12------|
+E|-5-5-5-5-5-5--7-7---3-3-3/10------|
+
+A                  Bm11   G           D
+ Me lembro bem o que lhe disse em oração
+
+A             Bm11  G              D
+ Desabafei falando tudo o que sentia
+A                 Bm11   G          D
+ Um aperto forte dentro do meu coração
+A                Bm11  G         D
+ Dúvidas e dores, o medo do amanhã
+     A               Bm11
+Esperança que se acaba
+ G
+Com o tempo que se vai
+
+A                 Bm11  G             D
+ Trago as marcas das escolhas que eu fiz
+A                 Bm11 G           D
+ Sem perceber peguei atalhos ao vazio
+A                 Bm11        G           D
+ Vejo longe a luz, saio do escuro que criei
+A                 Bm11           G            D
+ Me aceite de volta, junta os pedaços que restou
+A                     Bm11      G            D
+ Agora fico em silêncio para ouvir a sua voz
+
+             G
+Filho eu te lembro, que jamais te deixei
+       C7M(9)
+Eu te lembro, que suas dores eu sarei
+      F/A
+Cada lágrima enxuguei
+          C7M(9)               G
+Sempre ouvi a sua voz de adorador
+
+             G
+Filho eu te lembro, de tudo que lhe falei
+              C7M(9)
+Não te preocupes, cada palavra cumprirei
+        F/A
+Sempre cuidarei de ti
+       C7M(9)
+Sou o dono do amanhã estou aqui
+
+( A  Bm11  G  D )
+( A  Bm11  G  D )
+
+A                  Bm11   G           D
+ Me lembro bem o que lhe disse em oração
+A             Bm11  G              D
+ Desabafei falando tudo o que sentia
+A                 Bm11   G          D
+ Um aperto forte dentro do meu coração
+A                Bm11  G         D
+ Dúvidas e dores, o medo do amanhã
+     A               Bm11
+Esperança que se acaba
+ G
+Com o tempo que se vai
+
+A                 Bm11  G             D
+ Trago as marcas das escolhas que eu fiz
+A                 Bm11 G           D
+ Sem perceber peguei atalhos ao vazio
+A                 Bm11        G           D
+ Vejo longe a luz, saio do escuro que criei
+A                 Bm11           G            D
+ Me aceite de volta, junta os pedaços que restou
+A                    Bm11      G            D
+ Agora fico em silêncio para ouvir a sua voz
+
+             G
+Filho eu te lembro, que jamais te deixei
+       C7M(9)
+Eu te lembro, que suas dores eu sarei
+      F/A
+Cada lágrima enxuguei
+          C7M(9)               G
+Sempre ouvi a sua voz de adorador
+
+             G
+Filho eu te lembro, de tudo que lhe falei
+              C7M(9)
+Não te preocupes, cada palavra cumprirei
+        F/A
+Sempre cuidarei de ti
+       C7M(9)                 G
+Sou o dono do amanhã estou aqui
+
+             G
+Filho eu te lembro, de tudo que lhe falei
+              C7M(9)
+Não te preocupes, cada palavra cumprirei
+        F/A
+Sempre cuidarei de ti
+       C7M(9)                 G
+Sou o dono do amanhã estou aqui
+
+     F/A  C/E        G/D
+Estou aqui, estou aqui
+     F/A  C/E        G/D
+Estou aqui, estou aqui
+         C           G
+Estou aqui, estou aqui
+         C           G
+Estou aqui, estou aqui
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C7(9) = X 3 2 3 3 X
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+F/A = 5 X 3 5 6 X
+G = 3 2 0 0 0 3
+G/D = X 5 5 4 3 X
+G5 = 3 5 5 X X X

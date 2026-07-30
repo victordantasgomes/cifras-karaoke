@@ -1,0 +1,17 @@
+@titulo: Bohemian Rhapsody
+@autor:
+@intérprete: Queen
+@tom: Bb
+@velocidade: 40
+@ritmomusical: balada
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gm7          C7
+Is this the real life?
+Gm7            C7
+Is this just fantasy?
+Bb7                Eb
+Caught in a landslide

@@ -1,0 +1,62 @@
+@titulo: uma-coisa
+@autor:
+@intérprete: Ministério Morada
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Morada - Uma Coisa
+
+[Intro]  Bm7  A/C#  F#m7  E/G#
+
+Bm7        A/C#
+Uma coisa vou pedir
+            F#m7
+Deixa eu ficar neste lugar
+          E/G#
+Todos os dias da minha vida
+Bm7        A/C#
+Uma coisa vou pedir
+            F#m7
+Deixa eu ficar neste lugar
+          E/G#
+Todos os dias da minha vida
+
+Bm7                          A/C#
+  Nós adoramos Aquele que faz vento aos Teus anjos
+F#m7                         E/G#
+  Nós adoramos Aquele que faz fogo aos Teus ministros
+Bm7                          A/C#
+  Nós adoramos Aquele que faz vento aos Teus anjos
+
+F#m7                         E/G#
+  Nós adoramos Aquele que faz fogo aos Teus ministros
+
+Bm7
+  Nós somos Seus ministros
+A/C#
+  Não negue o Seu fogo
+F#m7
+  Nós somos Seus ministros
+E/G#
+  Queremos queimar! Queremos queimar
+Bm7
+  Nós somos Seus ministros
+A/C#
+  Não negue o Seu fogo
+F#m7
+  Nós somos Seus ministros
+E/G#
+  Queremos queimar! Queremos queimar
+
+[Final] Bm7  A/C#  F#m7  E/G#
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+Bm7 = X 2 4 2 3 2
+E/G# = 4 X 2 4 5 X
+F#m7 = 2 X 2 2 2 X

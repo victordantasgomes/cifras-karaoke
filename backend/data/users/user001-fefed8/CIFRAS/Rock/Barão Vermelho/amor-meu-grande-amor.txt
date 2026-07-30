@@ -1,0 +1,60 @@
+@titulo: amor-meu-grande-amor
+@autor:
+@intérprete: Barão Vermelho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Barão Vermelho - Amor, Meu Grande Amor
+
+(intro) F#  C#/F#  E/F#  B
+
+F#          C#/F#        E/F#                    B
+Amor, meu grande amor, não chegue na hora marcada
+F#           C#/F    B             A               G#
+Assim como as canções, como as paixões e as palavras
+F#            C#/F#   E/F#                B
+Me veja nos seus olhos na minha cara lavada
+F#             C#/F#       B  A             G# F#  C#/F#  E/F#  B
+Me venha sem saber se sou fogo ou se sou água
+F#             C#/F#    E/F#                     B
+Amor, meu grande amor, me chegue assim bem de repente
+F#            C#/F             B  A          G#
+Sem nome ou sobrenome, sem sentir o que não sente
+
+B9                 C#9          B/D#           C#/F
+Que tudo o que ofereço é meu calor, meu endereço
+B9             C#9           B/D#          C#/F
+A vida do teu filho desde o fim até o começo
+
+F#             C#/F#    E/F#                    B
+Amor, meu grande amor, só dure o tempo que mereça
+
+F#            C#7/F      B       A         G#
+E quando me quiser que seja de qualquer maneira
+F#               C#/F#    E/F#                        B
+Enquanto me tiver que eu seja a última e a primeira
+F#              C#/F#                  B  A        G#
+E quando eu te encontrar, meu grande amor, me reconheça
+
+B9                 C#9            B/D#           C#/F
+Que tudo o que ofereço é meu calor, meu endereço
+B9             C#9             B/D#          C#/F
+A vida do teu filho desde o fim até o começo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B9 = X 2 4 4 2 2
+C#/F = X 8 X 6 9 9
+C#/F# = X X 4 6 6 4
+C#7/F = X X 3 4 2 4
+C#9 = X 4 6 6 4 4
+E/F# = X X 4 4 5 4
+F# = 2 4 4 3 2 2
+G# = 4 3 1 1 1 4

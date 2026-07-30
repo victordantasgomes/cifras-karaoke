@@ -1,0 +1,69 @@
+@titulo: seu-astral
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Seu Astral
+
+Intro 2x: G  A5(9)  Bm  A5(9)
+
+E|--------------------------2-2----------------------|
+B|-3-3-3-3-5-5-3-3--0h2h3-5-------3-3--3/5----2---3--|
+G|---------------------------------------------------|
+D|---------------------------------------------------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+E|--------------------------2-2----------------------|
+B|-3-3-3-3-5-5-3-3--0h2h3-5-------3-3--3/5----2---0--|
+G|---------------------------------------------------|
+D|---------------------------------------------------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+Primeira parte:
+
+ G               D
+Fico sozinho pensando em você
+ G                Bm
+Vejo imagens, retratos de nós
+
+G                         D
+Olho pro espelho sinto o meu coração
+G                Bm            (A D)
+Ouço baixinho o som da sua voz
+
+   G
+Dizendo pra mim que é sobrenatural
+       Bm               (A D)
+Esse amor fora do normal
+   G
+Dizendo pra mim que sou o seu astral
+           A5(9)
+Que esse amor que está em mim é tão real
+
+Refrão:
+
+G                             G   A5(9) Bm
+  Eu viajei no seu olhar, no teu so___rriso
+             A5(9)
+Nos teus segredos
+G
+  Eu descobri o que é amar
+G   A5(9) Bm             A5(9)
+Pe_lo    toque dos seus beijos
+
+(Repete tudo)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5(9) = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3

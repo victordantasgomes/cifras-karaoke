@@ -1,0 +1,106 @@
+@titulo: eu-navegarei
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Eu Navegarei
+
+[Intro] F#m  E  F#m  C#
+
+[Primeira Parte]
+
+          F#m                C#m
+Eu navegarei no oceano do Espírito
+            D  Bm               C#
+E ali adorarei ao Deus do meu amor
+
+          F#m                C#m
+Eu navegarei no oceano do Espírito
+            D  Bm               C#
+E ali adorarei ao Deus do meu amor
+
+[Refrão]
+
+             F#m
+Espírito, Espírito
+                C#m
+Que desce como fogo
+                  D     Bm
+Vem como em pentecostes
+
+               C#
+E enche-me de novo
+
+             F#m
+Espírito, Espírito
+                C#m
+Que desce como fogo
+                  D     Bm
+Vem como em pentecostes
+               C#
+E enche-me de novo
+
+[Segunda Parte]
+
+         F#m                  C#m
+Eu adorarei ao Deus da minha vida
+                D  Bm
+Que me compreendeu
+                    C#
+Sem nenhuma explicação
+
+         F#m                  C#m
+Eu adorarei ao Deus da minha vida
+                D  Bm
+Que me compreendeu
+                    C#
+Sem nenhuma explicação
+
+[Refrão]
+
+             F#m
+Espírito, Espírito
+                C#m
+Que desce como fogo
+                  D     Bm
+Vem como em pentecostes
+               C#
+E enche-me de novo
+
+             F#m
+Espírito, Espírito
+                C#m
+Que desce como fogo
+                  D     Bm
+Vem como em pentecostes
+               C#
+E enche-me de novo
+
+             Gm
+Espírito, Espírito
+                Dm
+Que desce como fogo
+                  Eb    Cm
+Vem como em pentecostes
+               D
+E enche-me de novo
+
+[Final] Gm
+
+----------------- Acordes -----------------
+Bm = X 2 4 4 3 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+Eb = X 6 5 3 4 3
+F#m = 2 4 4 2 2 2
+Gm = 3 5 5 3 3 3

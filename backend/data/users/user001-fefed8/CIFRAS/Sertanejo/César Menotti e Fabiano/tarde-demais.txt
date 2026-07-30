@@ -1,0 +1,103 @@
+@titulo: tarde-demais
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Tarde Demais
+
+(intro 4x)  C G F Fm
+
+C                    G          Am
+Só tem um jeito de você me entender
+                   F
+Uma maneira que te faça enxergar
+C                    G         Am
+Eu já cansei de discutir com você
+                   F
+Não adianta mais falar por falar
+C                     G        Am
+Há muito tempo que eu venho pensando
+     F
+Analisando nós dois
+C                     G        Am
+Perdi meu tempo com você só brigando
+           F
+Não vou deixar pra depois
+
+Dm
+Você não vai mudar
+
+F
+É fácil presumir
+G               F                 C
+A sua vida de aventura dura pouco tempo
+ F      Em    Dm
+Até se arrepender
+
+G
+Depois lá vem você
+Dm
+Pedindo pra voltar
+F                     Fm                C
+Como já fez milhões de vezes vem se lamentando
+G                 Am                Dm
+Sofrendo, chorando é digno de você
+Fm
+Não sei se dá pra ver
+                     C     F
+Mas acho que estou mudando
+
+C                        G                Am
+Houve um tempo em que eu não podia nem te ver
+                     A7         Dm
+Agora posso estar de frente a você
+            Dm7                 G   F G
+Que meu coração não sente mais nada
+C                G                   Am
+Me desculpa te falar mas tenho que dizer
+                     A7         Dm
+Que hoje mesmo acreditando em você
+              Dm7                  G
+Você se apaixonou por mim na hora errada
+F     G C
+Tarde demais
+        G     F
+Tchau, tchau amor
+ Fm      C
+Tarde demais
+        G       F
+Tchau, tchau já vou
+ Fm        C
+Não volto atrás...
+
+( C G F Fm ) (2x)
+
+(repete tudo)
+
+        G     F
+Tchau, tchau amor
+ Fm      C
+Tarde demais
+        G       F
+Tchau, tchau já vou
+ Fm        C
+Não volto atrás...
+
+( C G F Fm )
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3

@@ -1,0 +1,39 @@
+@titulo: clareia
+@autor:
+@intérprete: Thalles Roberto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Thalles Roberto - Clareia
+
+[Intro] G  Gm6  F#m7  B7  Em7  G/B  G  D
+
+            D      D7M     Em7
+Através de mim, Jesus, clareia!
+            G/B    A9      D    D7
+Através de mim, Jesus, clareia!
+               Gm     Gm6
+Vou brilhar a minha luz.
+              F#m7   B7
+Eu carrego a luz de Deus.
+            Em7    G/B
+     G       D
+Através de mim, Jesus, clareia!
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B7 = X 2 1 2 0 2
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+D7M = X X 0 2 2 2
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+Gm = 3 5 5 3 3 3
+Gm6 = 3 X 2 3 3 X

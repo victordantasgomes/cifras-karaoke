@@ -1,0 +1,62 @@
+@titulo: mesmo-assim
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Mesmo Assim
+
+Intro: G D/F# C9 G D/F# C9
+
+G    D9/B   C9              G  D4/B    C9
+Como eu não sei tentei encontrar
+G    D9/B      C9           G   D4/B   C9
+Ontem havia sentido hoje não há
+G      D9/B     C9              G    D9/B       C9
+Tudo parece estranho como se fosse outro lugar
+G             D/F#   C9              G    C9   G
+Minha alma padece em vão e a dor não para
+
+C9             D4/B          C9               D4/B
+Se tudo está certo mesmo assim a incerteza existe
+C9             D4/B         C9                 D4/B
+Se existe a pureza mesmo assim há falta da inocência
+C9             D4/B         C9               D4/B
+Se existe alegria mesmo assim alguém sempre chora
+C9             D4/B          Am7          G
+Se existe esperança muita gente não espera
+
+(Intro)
+
+
+G      D9/B     C9                  G  D4/B C9
+Quando olho a vida não posso entender
+G            D9/B  C9                    G  D4/B C9
+Entre choros e sorrisos não há como escolher
+G            D9/B     C                  G   D4/B   C9
+Meus sonhos estão cercados por arames farpados
+G        D4/B   C9                 G   C9  G
+Preciso que tua voz esteja ao meu lado
+
+ C9            D4/B        C9                D4/B
+Se tudo está certo mesmo assim a incerteza existe
+C9             D4/B        C9                  D4/B
+Se existe a pureza mesmo assim há falta da inocência
+C9            D4/B          C9                D4/B
+Se existe alegria mesmo assim alguém sempre chora
+C9             D4/B         Am7        G
+Se existe esperança muita gente não espera
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D/F# = 2 X 0 2 3 2
+D4/B = X 2 0 2 P3 3
+D9/B = X 2 0 2 3 0
+G = 3 2 0 0 0 3

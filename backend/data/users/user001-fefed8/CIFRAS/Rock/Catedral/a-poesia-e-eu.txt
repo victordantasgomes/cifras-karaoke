@@ -1,0 +1,95 @@
+@titulo: a-poesia-e-eu
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - A poesia e eu
+
+RIFF 1                                   RIFF 2
+                                 base (Em    G   D   A) 
+E||-------||--------------------|| ||-----0-----|--2-----||
+B||-------||--------------------|| ||-----------|-3---2--||
+G||-------||----------------2---|| ||----0------|------2-||
+D||-------||----------------0-2-|| ||---2-------|--------||
+A||-------||-2-2--------2-2---0-|| ||-----------|--------||
+E||-12----||-O-3--3-5-3-0-3-----|| ||--0--------|--------||
+
+REFRÃO RIFF 3
+    D           C       (Palhete para baixo, ouça a música e perceba com se faz)
+D||-7-7-7-7-7-7-5-5-5-5-5-5-||
+A||-5-5-5-5-5-5-3-3-3-3-3-3-||
+E||-------------------------||
+
+INTRODUÇÃO: (deslize a nota da casa 12 em direção a casa 1 e toque duas vezes o riff 1)
+
+RIFF 2
+Eu sou letra simples
+RIFF 2
+Minha caligrafia
+
+RIFF 2
+Sou eu Um suburbano,
+RIFF 2
+com fé e rebeldia
+
+RIFF 1
+Visionário, estrangeiro de um país
+RIFF 1
+Operário sem medo de ser feliz
+RIFF 1
+De olhos castanhos a olhar pro céu
+RIFF 1
+Panfletando a minha arte e minha raiz
+
+REFRÃO
+RIFF 3
+Por isso a poesia não me abandonou, nunca
+RIFF 1
+Me deixou
+RIFF 3                             2X RIFF 1
+Por isso a poesia não me abandonou
+
+ RIFF 2
+Eu, somente eu
+ RIFF 2
+Escrito por mim sozinho
+ RIFF 2
+Ninguém mais do que eu
+ RIFF 2
+Minha voz, sou eu sozinho
+
+RIFF 1
+De fato é difícil conviver assim
+RIFF 1
+Com tudo aquilo que eu quero de mim
+RIFF 1
+De fato é pesado ter que aceitar
+RIFF 1
+Toda a realidade que sinto no ar
+
+REFRÃO
+RIFF 3
+Por isso a poesia não me abandonou, nunca
+RIFF 1
+Me deixou
+RIFF 3                               2X RIFF 1 (SOLO) REFRÃO
+Por isso a poesia não me abandonou
+
+
+Obs: no riff 1 utilize som sujo, eu utilizo over-drive,
+     e no riff 2 utilize som limpo com delay e chorus,
+     não sei bem qual a regulagem apenas regulo tentando
+     aproximar o possível do som original.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

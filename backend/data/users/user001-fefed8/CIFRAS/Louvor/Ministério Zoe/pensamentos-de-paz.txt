@@ -1,0 +1,91 @@
+@titulo: pensamentos-de-paz
+@autor:
+@intérprete: Ministério Zoe
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Zoe - Pensamentos de Paz
+
+Intro: C#m, E, F#m, A9, C#m, E, F7, A9, B9
+
+
+C#m                                          B9
+Se os meus sonhos se frustram
+                        F#m                                                  G#m
+O que já estava certo simplesmente não acontece mais
+C#m                                              B9
+Eu não sei pra que mais sonhos
+              F#m                                                        G#m
+Se eu vejo que cada um deles simplesmente se desfaz
+
+C#m                                                                        F7  F#m
+Eu só não posso esquecer que você pensa em mim
+                                      A9
+São doces pensamentos de paz
+C#m                                        B9
+E você pensa que no fim
+                     F7                                          A9 (3X), A9 (3X)
+No fim disso tudo minh'alma se alegrará em ti
+
+
+C#m          B/D#  F#m                                      G#m
+E eu confiarei que a tua vontade é a melhor pra mim
+
+C#m                     B/D#   F#m
+E assim, não temerei
+                              G#m
+pois sei que você cuida, você cuida de mim
+C#m          B/D#  F#m                                      G#m
+E eu confiarei que a tua vontade é a melhor pra mim
+C#m                     B/D#   F#m
+E assim, descansarei
+                                 G#m                          C#m
+pois sei que sou teu filho, você cuida de mim
+
+Solo: A9, C#m, A9, B9, C#m, A9, C#m, F7, A9.
+
+C#m                               B9
+Se eu me sinto sozinho
+                  F#m
+Perdido de mim mesmo
+                                             G#m
+mesmo em meio a toda essa multidão
+C#m                                              B9
+Se eu não consigo enxergar
+                                F#m                          G#m
+mais nenhuma razão, para continuar então
+C#m                                                             B9
+Me lembro que você pensa em mim
+                      F7                         A9 (3X), A9 (3X)
+e que o teu amor por mim jamais terá um fim
+
+C#m          B/D#  F#m                                      G#m
+E eu confiarei que a tua vontade é a melhor pra mim
+C#m                     B/D#   F#m
+E assim, não temerei
+                               G#m
+pois sei que você cuida, você cuida de mim
+C#m          B/D#  F#m                                      G#m
+E eu confiarei que a tua vontade é a melhor pra mim
+C#m                    B/D#     F#m
+E assim, descansarei
+                                 G#m                          C#m, B9, F#m, G#m
+pois sei que sou teu filho, você cuida de mim
+
+                        C#m, B9, F#m, G#m, C#m, A9, C#m, B9, A9, C#m.
+Você cuida de mim
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B/D# = X 6 X 4 7 7
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+F7 = 1 3 1 2 1 1
+G#m = 4 6 6 4 4 4

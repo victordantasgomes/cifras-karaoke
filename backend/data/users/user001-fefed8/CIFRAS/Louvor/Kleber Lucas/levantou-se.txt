@@ -1,0 +1,47 @@
+@titulo: levantou-se
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Levantou-se
+
+F7+     Em7  Am7    D7/9 F7+        Em7  Am7   D7/9
+    LEVANTOU-SE O  SENHOR          DE SEU TRONO PRÁ VENCER
+F7+     Em7 Am7     D7/9 F7+ Em7     Am7
+    RESSURRETO DENTRE OS MORTOS        REVESTIDO DE PODER
+F7+     Em7    Am7   D7/9 F7+        Em7  Am9    D7/9
+    ELE REINA EM TODA TERRA,         SEU REINADO NÃO TEM FIM
+ELE ESTÁ ENTRONIZADO ACIMA DOS QUERUBINS
+ Am     Dm     F7+  G
+GLÓRIA OH! GLÓRIA AO SENHOR
+ Am      Dm       F7+ G
+GLÓRIA OH! OH! GLÓRIA AO SENHOR
+       F  Em Am D9 F Em Am D9
+GLÓRIA AO SEU NOME
+F7+    Em7  Am7    D7/9 F7+     Em7   Am7   D7/9
+   SOMOS PARTE DO SEU POVO          ESCOLHIDOS EM JESUS
+F7+     Em7   Am7    D7/9 F7+ Em7      Am7   D7/9
+   MUITO MAIS QUE VENCEDORES          PELA OBRA LÁ NA CRUZ
+F7+    Em7    Am7   D7/9 F7+         Em7 Am7   D7/9
+   ELE REINA EM TODA TERRA          SEU REINADO NÃO TEM FIM
+F7+     Em7    Am7  D7/9 F7+    Em7      Am7   D7/9
+   ELE ESTÁ   ENTRONIZADO           ACIMA DOS QUERUBINS
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am9 = X 0 2 4 1 0
+D7/9 = X 5 4 5 5 X
+D9 = X X 0 2 3 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3

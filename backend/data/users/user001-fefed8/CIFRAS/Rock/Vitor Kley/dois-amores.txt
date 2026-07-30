@@ -1,0 +1,90 @@
+@titulo: dois-amores
+@autor:
+@intérprete: Vitor Kley
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Vitor Kley - Dois Amores
+
+Capo Casa 2
+
+[Intro] C  C/B  Am7  C/B
+        C  C/B  Am7  C/B
+
+[Primeira Parte]
+
+C                         C/B  Am7      C/B
+  Sei que já não estamos mais como antes
+C                          C/B   Am7          C/B
+  Mas sei que novamente a gente vai se encontrar
+C                     C/B  Am7          C/B
+  Somos dois amores que estão distantes
+C                         C/B  Am7        C/B
+  Mas essa tempestade um dia  vai terminar
+
+[Refrão]
+
+F        G            Am7
+  Dois amores são perfeitos
+F      G              Am7
+  Cada um com seus defeitos
+F        G           C     C7M/B    Am7  C/G
+  Dois amores ainda podem se encontrar
+
+F          G         C   C/B  Am7  C/B
+  Esta escrito no olhar
+
+( C  C/B  Am7  C/B )
+
+[Segunda Parte]
+
+C                           C/B    Am7  C/B
+  Lembro que eu dizia que era pra sempre
+C                    C/B    Am7  C/B
+  Mas nosso amor chegou ao fim
+C                                C/B   Am7  C/B
+  E agora toda a noite eu sonho com você
+C                          C/B   Am7        C/B
+  Até o momento em que eu vou poder te dizer
+
+[Refrão]
+
+F        G            Am7
+  Dois amores são perfeitos
+F      G              Am7
+  Cada um com seus defeitos
+F        G           C     C7M/B    Am7  C/G
+  Dois amores ainda podem se encontrar
+F          G         Am7
+  Esta escrito no olhar
+
+F        G            Am7
+  Dois amores são perfeitos
+F      G              Am7
+  Cada um com seus defeitos
+F        G           C     C7M/B    Am7  C/G
+  Dois amores ainda podem se encontrar
+F          G         Am7
+  Esta escrito no olhar
+F          G         Am7
+  Esta escrito no olhar
+F          G         C  C/B  Am7  C/B
+  Esta escrito no olhar
+
+[Final] C  C/B  Am7  C/B
+        C  C/B  Am7  C/B  C
+
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+Am7*  = X 0 2 0 1 0 - (*Bm7 na forma de Am7)
+C*  = X 3 2 0 1 0 - (*D na forma de C)
+C/B*  = X 2 2 0 1 0 - (*D/C# na forma de C/B)
+C/G*  = 3 3 2 X 1 X - (*D/A na forma de C/G)
+C7M/B*  = X 2 2 0 0 0 - (*D7M/C# na forma de C7M/B)
+F*  = 1 3 3 2 1 1 - (*G na forma de F)
+G*  = 3 2 0 0 0 3 - (*A na forma de G)

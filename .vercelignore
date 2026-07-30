@@ -1,0 +1,13 @@
+# Dados locais já migrados pro Postgres/Vercel Blob (ver
+# backend/scripts/migrate_to_postgres.py) — não são mais lidos em tempo de
+# execução e são ~24 mil arquivos, só inflariam o deploy.
+backend/data/
+
+# Ambiente virtual local, node_modules, artefatos de teste/build.
+env/
+frontend/node_modules/
+frontend/dist/
+backend/__pycache__/
+backend/**/__pycache__/
+.coverage
+.pytest_cache/

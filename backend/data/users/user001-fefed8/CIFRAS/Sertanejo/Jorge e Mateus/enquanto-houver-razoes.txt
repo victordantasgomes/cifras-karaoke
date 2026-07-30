@@ -1,0 +1,165 @@
+@titulo: enquanto-houver-razoes
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Jorge e Mateus - Enquanto Houver Razões
+
+Capo Casa 2
+
+Intro: D/F#  E/G#  A5(9)  E  D5(9)  A5(9)
+
+Passagem Intro:
+
+  D5(9)   A5(9)
+E|2-------2--------------------------------|
+B|5-------2--------------------------------|
+G|4-------4--------------------------------|
+D|2-------4--------------------------------|
+A|--6-4---2--------------------------------|
+E|----------6-2----------------------------|
+
+Primeira Parte:
+
+F#m
+  Eu já fiz de tudo pra te convencer
+D5(9)                                  A5(9)
+  Mandei rosas vermelhas lindas pra você
+           E               F#m
+Falei de amor, fiz uma canção
+                                  D5(9)
+A lua se foi, nem vi o sol chegar
+
+                                 A5(9)
+Acreditei que o tempo não ia passar
+        E
+Foi ilusão
+
+Segunda Parte:
+
+Bm                                            D5(9)
+   Enquanto houver razões eu não vou desistir
+                                    A5(9)
+Se for pra eu chorar, quero chorar por ti
+                  E
+Porque não te esqueço
+Bm                                      D5(9)
+   Vou te esperar passe o tempo que for
+                                A5(9)
+Deixe bem guardado esse nosso amor
+                 E
+Sei que eu te mereço
+
+Refrão:
+
+A5(9)                  E
+  Eu vou deixar você voar
+              F#m             D5(9)  E5
+Bater as suas asas pra longe de mim
+A5(9)                     E
+  Mas só pra ver você voltar
+               F#m
+E toda arrependida me dizer
+  D5(9)        E5
+Amor te quero sim
+A5(9)                  E
+  Eu vou deixar você voar
+              F#m             D5(9)  E5
+Bater as suas asas pra longe de mim
+A5(9)                     E
+  Mas só pra ver você voltar
+               F#m
+E toda arrependida me dizer
+  D5(9)        E5
+Amor te quero sim
+
+( A5(9)  E  F#m  D5(9)  A5(9) )
+
+  D5(9)   A5(9)
+E|2-------2--------------------------------|
+B|5-------2--------------------------------|
+G|4-------4--------------------------------|
+D|0-------4--------------------------------|
+A|--6-4---2--------------------------------|
+E|----------6-2----------------------------|
+
+Repete a Primeira Parte:
+
+F#m
+  Eu já fiz de tudo pra te convencer
+D5(9)                                  A5(9)
+  Mandei rosas vermelhas lindas pra você
+           E               F#m
+Falei de amor, fiz uma canção
+                                  D5(9)
+A lua se foi, nem vi o sol chegar
+                                 A5(9)
+Acreditei que o tempo não ia passar
+        E
+Foi ilusão
+
+Repetição da Segunda Parte:
+
+Bm                                           D5(9)
+  Enquanto houver razões eu não vou desistir
+                                    A5(9)
+Se for pra eu chorar, quero chorar por ti
+                  E
+Porque não te esqueço
+Bm                           C#m7      D5(9)
+  Vou te esperar passe o tempo que for
+                                A5(9)
+Deixe bem guardado esse nosso amor
+                 E
+Sei que eu te mereço
+
+Refrão Final:
+
+A5(9)                  E
+  Eu vou deixar você voar
+              F#m             D5(9)  E5
+Bater as suas asas pra longe de mim
+A5(9)                     E
+  Mas só pra ver você voltar
+               F#m
+E toda arrependida me dizer
+  D5(9)        E5
+Amor te quero sim
+A5(9)                  E
+  Eu vou deixar você voar
+              F#m             D5(9)  E5
+Bater as suas asas pra longe de mim
+A5(9)                     E
+  Mas só pra ver você voltar
+               F#m
+E toda arrependida me dizer
+  D5(9)        E5
+Amor te quero sim
+
+( A5(9)  E  F#m  D5(9)  A5(9) )
+
+  D5(9)   A5(9)
+E|2-------2-------2------------------------|
+B|5-------2-------2------------------------|
+G|4-------4-------4------------------------|
+D|2-------4-------4------------------------|
+A|--6-4---2-------2------------------------|
+E|----------6-2----------------------------|
+
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+A5(9)*  = X 0 2 2 0 0 - (*B5(9) na forma de A5(9))
+Bm*  = X 2 4 4 3 2 - (*C#m na forma de Bm)
+C#m7*  = X 4 2 4 5 X - (*D#m7 na forma de C#m7)
+D/F#*  = 2 X 0 2 3 X - (*E/G# na forma de D/F#)
+D5(9)*  = X X 0 2 3 0 - (*E5(9) na forma de D5(9))
+E*  = 0 2 2 1 0 0 - (*F# na forma de E)
+E/G#*  = 4 X 2 4 5 X - (*F#/A# na forma de E/G#)
+E5*  = 0 2 2 X X X - (*F#5 na forma de E5)
+F#m*  = 2 4 4 2 2 2 - (*G#m na forma de F#m)

@@ -1,0 +1,10 @@
+@titulo: esse-amor-e-voce
+@autor:
+@intérprete: Rick e Renner
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:

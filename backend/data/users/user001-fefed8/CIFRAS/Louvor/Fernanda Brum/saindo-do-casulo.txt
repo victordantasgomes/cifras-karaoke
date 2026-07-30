@@ -1,0 +1,106 @@
+@titulo: saindo-do-casulo
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Saindo do Casulo
+
+Intro 2x: Bm A D G  Bm A G
+
+Bm  A         D      G
+   Saindo do meu conforto
+Bm     A       G
+   Eu vejo do alto
+Bm    A       D           G
+   Sonhando além dos meus sonhos
+Bm       A         G
+   Eu enxergo mais longe
+Bm  A             D     G
+   Rompendo com meus limites
+Bm   A           G
+   Até que eu alcance
+Bm  A             D     G
+   Mexendo com as estruturas
+Bm  A          G
+   Amplio horizontes
+
+    Bm         A
+   Digo a mim mesmo
+
+                D           G
+   O tempo é o tempo e não volta
+               Bm          A
+   Não há mais tempo a perder
+    G
+   Não mais (2x)
+
+               D   A
+   O Senhor desata
+                    Bm           G
+   Sou livre pra viver o Seu melhor
+                   D
+   Vencer o meu casulo
+                  A
+   O meu lugar seguro
+                     Bm         G
+   Fortalecer minhas asas pra voar  (2X)   Em F#m G
+
+    Bm         A
+   Digo a mim mesmo....
+
+G         Em    F#m  G   Bm     A
+   O meu voo é liberdade no Senhor
+            Em
+   Que me adestra
+   F#m     G    Bm   A
+   E me coloca pra voar
+
+               E   B
+   O Senhor desata
+                   C#m           A
+   Sou livre pra viver o Seu melhor
+                   E
+   Romper o meu casulo
+                  B
+   O meu lugar seguro
+                    C#m         A
+   Fortalecer minhas asas pra voar (2X)
+
+Solo: E B C#m A
+
+E|------------------------------------------------------------|
+B|-10-10--9-0-----------12-10-9----------12-10-9------12-10-9-|
+G|-----------11---9-11--------------11-11--------11-11--------|
+D|------------------------------11----------------------------|
+A|------------------------------------------------------------|
+E|------------------------------------------------------------|
+
+E|-16-14-12--12-12----------12------|
+B|-----------12-12-10-10h12-12------|
+G|----------------------------------|
+D|----------------------------------|
+A|----------------------------------|
+E|----------------------------------|
+
+   Romper o meu casulo
+                  B     C#m  A
+   O meu lugar seguro
+
+Final 2x: C#m B E A C#m B A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

@@ -1,0 +1,152 @@
+@titulo: filho-da-liberdade
+@autor:
+@intérprete: Tião Carreiro e Pardinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Tião Carreiro e Pardinho - Filho da Liberdade
+
+E|---------------------------5-- 
+B|---------------------------5--
+G#|------3-----3-----3-----3--4-- Riff 1
+E|----3-----3-----3-----3----5--
+B|--5-----4-----3-----2------0--
+
+
+Minha casa é o mundo
+
+E|-3-2-3-5-3-5-7--------- 
+B|-5-4-5-7-5-7-8---------
+G#|----------------------- Riff 2
+E|-----------------------
+B|-----------------------
+
+Não tem porta e nem janela
+
+E|-------------------------- 
+B|----3---------------------
+G#|--3-----3----------------- Riff 3
+E|------3-----3--2-3--------
+B|----------5----4-5--------
+
+
+       Am          G               B7
+É uma casa sem conforto, mesmo assim
+
+E|---------------------------- 
+B|--3/5-----------------------
+G#|--3/5-3-4-3-1--------------- Riff 4
+E|------3-5-3-2-3-2-3---------
+B|--------------5-4-5---------
+
+          E7
+Eu gosto dela
+
+E|-----5--6--7----
+B|--5--5--6--7----
+G#|--3--6--7--8---- Riff 5
+E|--4--5--6--7----
+B|--5--7--8--9----
+
+  A
+A parede é a serra,onde está dependurado
+    B                                           B  A  B
+Um quadro da natureza,que por Deus foi desenhado
+      E7                                       E7  D  E7
+Meu tapete é a grama, tenho o céu como telhado
+    F#7                                          F#7  E  F#7
+De dia tem sol que brilha, a noite céu estrelado
+    B              E
+Bem distante do asfalto, vou vivendo sossegado
+
+E|-10/12-12-10-10-7-7-5-5-4-4--2-2-5-2-4------ 
+B|----------------9-9-7-7-5-5--3-3-7-3-5------
+G#|-10/12-12-10-10----------------------------- Riff 6
+E|--------------------------------------------
+B|--------------------------------------------
+
+E7
+
+Ritmo de Pagode:
+ A                             E7               A
+O perigo não me assusta, para trás não dou um passo
+  A                         E7             A
+Duas feras mato a bala, uma só eu vou no braço
+         B                 E   E  B7  E
+Pra ter paz tem que ter guerra
+  A
+Precisando guerra eu faço
+ E                            F#     B7       E
+Para o medo e a covardia eu não vou deixar espaço
+  A                         B7
+Viva meu brasil amado, eu estou de sentinela
+    E                      B7               E
+Sendo filho desta terra, morro lutando por ela
+
+Riff 1
+
+O conforto da cidade
+
+Riff 2
+
+É coisa que não me importa
+
+Riff 3
+
+      Am               G           B7
+Minha luz é Deus quem manda, quero ver
+
+Riff 4
+
+             E7
+quem é que corta
+
+Riff 5
+
+  A
+Eu sou igual um rochedo, onde a bala bate e volta
+    B                                                  B  A  B
+O punhal que tem dois cortes, batendo no peito entorta
+     E7                                         E7  D  E7
+Eu nunca fui empregado, eu mesmo sou meu patrão
+    F#7                                    F#7  E  F#7
+Vivo alegre cantando nas veredas do sertão
+    B             E
+Sou filho da liberdade que matou a escravidão
+
+Riff 6
+
+E7
+
+Ritmo de Pagode:
+ A                             E7               A
+O perigo não me assusta, para trás não dou um passo
+  A                         E7             A
+Duas feras mato a bala, uma só eu vou no braço
+         B                 E   E  B7  E
+Pra ter paz tem que ter guerra
+  A
+Precisando guerra eu faço
+ E                            F#     B7       E
+Para o medo e a covardia eu não vou deixar espaço
+  A                         B7
+Viva meu brasil amado, eu estou de sentinela
+    E                      B7               E
+Sendo filho desta terra, morro lutando por ela
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2
+G = 3 2 0 0 0 3

@@ -1,0 +1,76 @@
+@titulo: por-enquanto
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Por Enquanto
+
+[Intro] Db  Db7M  Gb  Fm
+        Gb  Ebm  Gb  Ab7
+        Bbm  Fm  Gb  Db
+        Bbm  Fm  Gb  Ebm  Ab7
+
+[Primeira Parte]
+
+   Db      Db7M    Gb           Fm
+Mudaram as estações   e nada mudou
+         Gb                    Ebm
+Mas, eu sei que alguma coisa aconteceu
+      Gb             Ab7
+Está tudo assim tão diferente
+
+[Refrão]
+
+Bbm                     Fm       Gb                 Db
+    Se lembra quando a gente chegou um dia a acreditar
+Bbm                   Fm
+    Que tudo era prá sempre
+ Gb       Fm
+Sem saber
+
+           Gb             Ebm
+Que o pra sempre sempre acaba?
+
+[Segunda Parte]
+
+      Db             Db7M    Gb         Fm
+Mas, nada vai conseguir mudar  o que ficou
+        Gb
+Quando penso em alguém
+    Ebm
+Só penso em você
+   Gb         Ab7   A°
+E aí então estamos bem
+
+[Refrão]
+
+ Bbm                Fm           Gb              Db
+Mesmo com tantos motivos pra deixar tudo como está
+Bbm                         Fm
+    E nem desistir, nem tentar
+       Gb
+Agora tanto faz
+        Ebm      Ab7       Db
+Estamos indo de volta pra casa
+
+[Final Gb  Ebm  Fm  Ab
+       Gb  Ebm  Fm  Ab
+       Gb  Ebm  Fm  Ab
+       Gb  Ebm  Fm  Ab
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Ab7 = 4 6 4 5 4 4
+A° = 5 X 4 5 4 X
+Bbm = X 1 3 3 2 1
+Db = X 4 6 6 6 4
+Db7M = X 4 6 5 6 4
+Ebm = X X 1 3 4 2
+Fm = 1 3 3 1 1 1
+Gb = 2 4 4 3 2 2

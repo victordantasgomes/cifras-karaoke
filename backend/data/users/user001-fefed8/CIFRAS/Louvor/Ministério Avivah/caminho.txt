@@ -1,0 +1,75 @@
+@titulo: caminho
+@autor:
+@intérprete: Ministério Avivah
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Avivah - Caminho
+
+Intro: C#m7  A9  F#m7(11)  C#m7  A9  E  B4
+
+C#m7
+Longe do Caminho
+A9 F#m7(11)
+Longe da Promessa
+C#m7
+E tu ouviste o meu clamor.
+
+C#m7
+Leva-me do Egito
+A9
+Desejo te servir
+E
+Na terra que o Senhor me prometeu.
+
+C#m7
+A cada passo
+A9
+Estou mais perto
+E Bsus
+Teus sinais revelam teu poder
+
+C#m7
+A cada passo
+A9
+Estou mais perto
+A9 Bsus
+E sei que tu farás o mar se abrir.
+
+Refrão:
+E9
+Minha força És
+F#m7(11)
+Meu canto
+A9 B4
+Contigo eu não temerei o mal
+E9 F#m7(11)
+Da Rocha
+E/G# A9
+Eu beberei
+B4
+E o pão do céu darás
+
+(Refrão 2)
+
+E F#m7(11) E/G#
+Meus pés podem estar no deserto
+A9 Bsus
+Mas meus olhos estarão em ti
+E
+Senhor.
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B4 = X 2 4 4 5 2
+Bsus = X 2 4 4 4 2
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E9 = 0 2 4 1 0 0
+F#m7(11) = 2 X 2 2 0 X

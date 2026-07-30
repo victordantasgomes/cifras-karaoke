@@ -1,0 +1,53 @@
+@titulo: num-conto-de-fada
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Num Conto de Fada
+
+(intro) C G D7 G
+
+G
+Hoje eu vi o meu amor
+                    C
+Ela estava tão bonita,
+                       D7
+Tão bonita como uma flor
+                              G
+Mas ela insiste em não me querer
+                  C
+Não querer meu amor,
+                    G
+Não querendo me perder.
+
+C                  G
+Como um conto de fada
+               D7                G
+Eu vi minha amada chorando por mim
+C                  G
+Ao mesmo tempo dizia
+               D7                G
+Que ela me amava, mas tinha que ir.
+G
+E eu fiquei aqui sozinho
+                       C
+Só pensando nas palavras
+                   D7
+Que ela disse ao sair
+                       G
+E sofrendo feito um louco
+                    C
+Porque não à entendia
+                    D7
+Porque tinha que fugir.
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3

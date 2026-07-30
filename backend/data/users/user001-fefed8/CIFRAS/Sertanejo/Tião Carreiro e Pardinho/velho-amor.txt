@@ -1,0 +1,114 @@
+@titulo: velho-amor
+@autor:
+@intérprete: Tião Carreiro e Pardinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Tião Carreiro e Pardinho - Velho Amor
+
+hn - Harmônico Natural
+
+Intro:
+
+Guitarra havaiana::
+
+E|--05(2x)-07(2x)-09-09(2x)-07-10(2x)-|
+B|--07(2x)-08(2x)-10-10(2x)-08-12(2x)-|
+G|------------------------------------|
+D|------------------------------------|
+A|------------------------------------|
+E|------------------------------------|
+
+continuação:
+
+E|-09-10-09-07-05-|
+B|-10-12-10-08-07-|
+G|----------------|
+D|----------------|
+A|----------------|
+E|----------------|
+
+
+E|---02---02-03-07(6x)-05--05(3x)-07-05/14----12hn-|
+B|-------------------------------------------------|
+G|-------------------------------------------------|
+D|-------------------------------------------------|
+A|-------------------------------------------------|
+E|-------------------------------------------------|
+
+base da intro: D  A7  G  D   E   A7   D
+
+----------//// FIM DA INTRO /////----------
+
+
+D                              A7
+No chão que eu pisei, você já pisou
+                G              D
+O ar que eu respirei, você respirou
+                              A7
+Da água que eu bebi, você já bebeu
+                 G             D
+Do pão que eu comi, você já comeu
+
+(Caída:)
+
+E|-05--04--02--00--------|
+B|-07--05--03--02--------|
+G|-07--06--04--00--------|
+D|-07--06--04--02--------|
+A|-05--04--02--00--------|
+E|-----------------------|
+
+    A7
+ R :  Amor, meu velho amor
+   :G                        D
+ e :  Amor que sofre não reclama
+   :                    G
+ f :  Eu destruí a sua juventude
+   :                    A7
+ r :  E acabei com a sua saúde
+   :                           D
+ ã :  Fiz pra você todo mal que pude
+   :               A7                D
+ o :  Ainda sou o homem     que você ama
+
+(intro)
+
+D                              A7
+Do pranto que eu chorei, você já chorou
+                G              D
+O frio que eu passei, você já passou
+                                A7
+No quarto que eu durmi, você já dormiu
+                  G              D
+A fome que eu senti, você já sentiu
+
+(caída)
+(refrão)
+
+Solo final:
+
+E|--02(2x)-03-05-09/10-09--02---|
+B|--03(2x)-05-07-10/12-10--03---|
+G|------------------------------|
+D|------------------------------|
+A|------------------------------|
+E|------------------------------|
+
+
+
+o solo é de guitarra havaiana...por isso a intro
+não vai ficar muito legal no violão...
+se for tocar com guitarra com ponte modelo floyd rose
+vai chegar perto de como fica na havaiana......falou
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3

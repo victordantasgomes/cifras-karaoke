@@ -1,0 +1,91 @@
+@titulo: dois
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Dois
+
+
+Intro: G D/F# Em7 D/F#
+
+G            D/F#        Em7
+ Quando você disse nunca mais
+           D/F#            C   G/B
+ Não ligue mais, melhor assim
+     Am            Am/G        D/F#
+ Não era bem o que eu queria ouvir
+G           D/F#      Em7        D/F#        C G/B
+ E me disse decidida,    saia da minha vida
+      Am           C           D
+ Que aquilo era loucura, era absurdo
+G           D/F#       Em7
+ E mais uma vez você ligou
+        D/F#           C   G/B
+ Dias depois, me procurou
+        Am        Am/G         D/F# D
+ Com a voz suave, quase que formal
+G                D/F#      Em7
+ E disse que não era bem assim
+
+          D/F#          C   G/B
+ Não necessariamente o fim
+        Am           C       D/F# D
+ De uma coisa tão bonita e casual
+
+Am                    Em
+ De repente as coisas mudam de lugar
+Am         C            D
+ E quem perdeu pode ganhar
+Am                  Em
+ Meu silêncio preso na tua garganta
+Am   C          D
+ E o medo da verdade
+
+G             D/F#      Em7            D/F#             C   G/B
+ Essa voz que chega devagar, pra perturbar, pra enlouquecer
+   Am             Am/G           D/F#    D
+ Dizendo pra eu pular de olhos fechados,
+G             D/F#        Em7           D/F#
+ Essa voz que chega a debochar do meu pavor,
+          C    G/B       Am          C        D
+ Mas ao pular,     eu me vejo ganhar asas e voar,
+
+Am                    Em
+ De repente as coisas mudam de lugar
+Am         C            D
+ E quem perdeu pode ganhar
+Am            Em
+ Minha amiga, minha namorada
+Am                C             D
+ Quando é que eu posso te encontrar? iê iê iê
+
+
+G       G/B         C       D            G
+ Eu sei     que eu,   eu queria estar contigo
+         G/B          C          D         G
+ Mas sei     que não,   sei que não é permitido
+        G/B         C          D          G
+ Talvez     se nós,   se nós tivéssemos fugido
+     G/B     C           D
+ E ouvido a voz desse desconhecido,
+
+Em          Bm      Em      Bm
+ O amor, o amor, o amor, o amor, uh!
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

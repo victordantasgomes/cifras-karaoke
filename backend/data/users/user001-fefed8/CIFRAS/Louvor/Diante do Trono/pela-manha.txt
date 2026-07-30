@@ -1,0 +1,101 @@
+@titulo: pela-manha
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Pela Manhã
+
+INTRO: ::  A  :  G9  :  D/F#   C  :  (C  B  A  G)  :  A  :  G9  :  D/F#   C  :  (C  A  C)  D  ::
+
+ A     E/A    D/A     E/A
+Pela manhã    eu cantarei
+                                         1:  (F#  G#)  E4   E
+    D          F#m           E4    E     2:  (F#  G#)  A - E/G# - F#m - E
+Louvores à Tua força e fidelida - de
+F#m    E/G#   D/A     E/B
+Pela manhã    eu cantarei
+    D          F#m           E4    E    (A-G#-F#-E   C#  E)
+Louvores à Tua força e fidelida - de
+
+         D     F#m7    A
+Pois Tu és meu alto refúgio
+            E/G#       D/G    E4    (B  C#  A   E)
+Nos tempos difíceis, abrigo seguro
+
+                A       D/F#        A/C#    E
+Ó, Deus, minha força, louvores cantarei
+               D       Bm7      F#m7    E6/G#
+Ó, Deus que me ama, por Ti esperarei
+
+(F#m7   A9)  Bm7       D
+  Tu és meu  Deus fiel
+       F#m7(11)      E6/G#
+Ao meu encontro vem
+       Bm7     Bm7   A/C#  E4/D    A
+Pela manhã...  te    lou  - va  - rei
+
+REINTRO: ::  A  :  G9  :  A/C#  :  B  :  A  :  G9  :  A/C#  :  B   (A/C#   A/C# B) ::
+
+Instrumental: ::  A  :  G9  :  D/F#   C  :  (C  B  A  G)  :
+               :  A  :  G9  :  D/F#   D  :  (D  C#  B  A) ::
+
+Solo guitarra: ::  Bb  :  C/Bb  :  Db  :  Eb/Db  :  D  :  E/D  :  D/F#  :  (B  C#  A  E)   :
+
+                A    (D  C#  B  A)   Bm7        A/C#    E
+Ó, Deus, minha força,             louvores cantarei
+               D    A/C#     Bm7   Bm7/A    F#m7    E6/G#
+Ó, Deus que me ama,      por Ti    espera - rei
+(F#m7   A9)  Bm7       D
+  Tu és meu  Deus fiel
+       F#m7(11)      E6/G#
+Ao meu encontro vem
+       Bm7     Bm7   A/C#  E4/D    A     [tag: G  :  G/B]
+Pela manhã...  te    lou  - va  - rei
+
+Bm7    A/C#  E4/D   F#m   E4   D
+ Te    lou  - va  - rei
+Bm7    A/C#  E4/D    A
+Te     lou  - va  - rei
+
+INTRO: ::  A  :  G9  :  D/F#   C  :  (C  B  A  G)  :
+        :  A  :  G9  :  D/F#   C  :  (C  B  A  G)  C  :  (C  B  A  G)  D :  A  ::
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+Bm7 = X 2 4 2 3 2
+Bm7/A = 5 2 4 2 3 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C/Bb = X 1 2 0 1 X
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D/G = 3 X X 2 3 2
+Db = X 4 6 6 6 4
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E/B = X 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+E4/D = X 5 2 2 0 0
+E6/G# = 4 2 2 4 2 X
+Eb/Db = X 4 5 3 4 X
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7(11) = 2 X 2 2 0 X
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G/B = X 2 0 0 3 3
+G9 = 3 X 0 2 0 X

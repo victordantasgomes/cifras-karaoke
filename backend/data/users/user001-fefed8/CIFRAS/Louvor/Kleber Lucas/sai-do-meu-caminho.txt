@@ -1,0 +1,67 @@
+@titulo: sai-do-meu-caminho
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Sai do Meu Caminho
+
+Intro 2x: C#m  B/D#   E   Abm   F#
+
+C#m                        A
+Senaqueribe a tua carta chegou
+C#m                              A
+Mas antes dela recebi a carta de Deus
+C#m                           A
+Ele lançou no mar do Egito e  Israel atravessou
+F#m                        A
+Ele quebrou o arco e as muralhas
+C#m                 A
+Ele abateu gigantes e destruiu a Jezabel
+F#m                   A
+O Senhor te repreenda pode ir embora agora
+
+C#m
+Sai do meu caminho
+B
+Solta a minha herança
+C#m           A
+O Senhor meu Deus é quem me guarda
+
+C#m
+Desce dos meus muros
+B
+Pode ir embora
+C#m/Bb    A
+Agora, Agora!(2x)
+
+Solo: C#m  E F#m   Abm
+(Agora sobe na escala)
+C#m
+Sai do meu caminho
+B/D#
+Solta a minha herança
+E            F#
+O Senhor meu Deus é quem me guarda
+C#m
+Desce dos meus muros
+B/D#
+Pode ir embora
+E      F#
+Agora, Agora
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Abm = 4 6 6 4 4 4
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C#m = X 4 6 6 5 4
+C#m/Bb = X X 8 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2

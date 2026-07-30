@@ -1,0 +1,111 @@
+@titulo: faz-mais-uma-vez-comigo
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Faz Mais Uma Vez Comigo
+
+(intro 2x) F Am Gm C7
+
+E|------------------------------------------------------------------------------------|
+B|-10~---------------10-8~--------------8---6~----------6-5~-------------------10--11-|
+G|-10~--10-----------10-9~---9----------9---7~--7---------5~-----9--10--12------------|
+D|-----10----10-------------10--10-------------8---8----------------------------------|
+A|-----------12-----------------12-----------------10---------------------------------|
+E|------------------------------------------------------------------------------------|
+
+E|--13---------13--12-----------12--------------------------------20b(22)r20--18-20~----
+B|----13--------------13-----------15-------15----15--17--18--20------------------------
+G|--------14~------------14~----------15-------17---------------------------------------
+D|---------------------------------------17~--------------------------------------------
+A|--------------------------------------------------------------------------------------
+E|--------------------------------------------------------------------------------------
+
+E|-----------------------|
+B|-20 b(22)r-20--18--20~-|
+G|-----------------------|
+D|-----------------------|
+A|-----------------------|
+
+E|-----------------------|
+
+ F
+  não paro de rolar na cama
+      Bb
+  já nem trabalho mais direito
+     C7                                      F  C7
+  Sozinho o coração reclama, dentro do meu peito
+     F
+  eu ando tão apaixonado
+     Bb
+  pagando todos os pecados
+      C7                                       F       C7
+  não ligo mais pros' meus amigos ,vivo tão calado
+
+(refrão)
+      F
+faz mais uma vez comigo  uou, uou, uou
+ Bb
+só mais uma vez comigo
+     C7
+eu quero te encontrar de novo
+                                  F
+volta pro' meu corpo , perdi o juízo
+ F
+faz mais uma vez comigo  uou, uou, uou
+Bb
+só mais uma vez comigo
+     C7
+eu quero te encontrar de novo
+                                        F         Bb  C7
+volta pro' meu corpo   é disso que eu preciso
+
+     F
+  quase que bati o carro
+       Bb
+  passando no farol vermelho
+       C7                                  F        C7
+  olhando no retrovisor,  só vi você no espelho
+     F
+  tô abusando do cigarro
+       Bb
+  só fico por aí sofrendo
+     C7                                         F        C7
+  preciso te encontrar depressa    eu estou morrendo
+
+(refrão)
+
+(solo 2x) F Am Gm C7
+
+      G
+faz mais uma vez comigo  uou, uou, uou
+ C
+só mais uma vez comigo
+     D7
+eu quero te encontrar de novo
+                                  G
+volta pro' meu corpo , perdi o juízo
+ G
+faz mais uma vez comigo  uou, uou, uou
+  C
+só mais uma vez comigo
+     D7
+eu quero te encontrar de novo
+                                            G         D7
+volta pro' meu corpo   é disso que eu preciso
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D7 = X X 0 2 1 2
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

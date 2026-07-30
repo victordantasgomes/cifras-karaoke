@@ -1,0 +1,51 @@
+@titulo: bye-bye
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Bye Bye
+
+[Intro] E  B  C#m  A
+        E  B  C#m  A
+
+E                           B
+Todo dia, todo instante, toda hora
+C#m                      A
+Eu desejava ser feliz como agora
+E                     B
+Chorava atoa, reclamava atoa
+C#m                          A
+Estava tudo sempre mal pra mim
+E                                 B
+Agora tudo em minha vida faz sentido
+C#m                      A
+O dono da alegria já está comigo
+E                   B
+Jesus entrou no meu coração
+C#m                                A
+Se acomodou e mandou a tristeza embora
+
+E                   B
+Bye, bye, tristeza nunca mais
+
+C#m                      A
+Faz a mala, vá embora e não volte mais
+E                     B
+Vem, vem, alegria do Senhor
+C#m                           A
+Entre logo em minha casa e não saia mais
+
+[Final] E  B  C#m  A
+        E  B  C#m  A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0

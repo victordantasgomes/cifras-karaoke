@@ -1,0 +1,72 @@
+@titulo: a-solucao
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - A Solução
+
+INTRO: E  D  A/C#
+
+E                                 B/D#
+Se seu caminho esta estreito
+C#m                       C#m/B
+Se a sua vida esta ruim
+A                         A/G#
+Nao Desista agora nao
+F#m                                    B7
+Tenha coragem e me de a mao
+E                                         B/D#
+Se os seus pes estao cansados
+C#m                      C#m/B
+De caminhar na escuridão
+A                            A/G#
+Nao desista agora nao
+F#m                       B7
+Pois eu tenho a solução
+        E                          B/D#
+A solução é Jesus
+C#m                     C#m/B
+Que morreu numa cruz
+
+A                                           A/G#
+Para os nossos caminhos Iluminar
+F#m                             B7
+E a nossas vida transformar       (REPETE)
+
+E                                        B/D#
+Se os seus pes estao cansados
+C#m                        C#m/B
+De caminhar na escuridão
+A                             A/G#
+Nao desista agora nao
+F#m                        B7
+Pois eu tenho a solução
+E                   B/D#
+A solução é Jesus
+C#m                    C#m/B
+Que morreu numa cruz
+A                                           A/G#
+Para os nossos caminhos iluminar
+F#m                             B7
+E a nossas vida transformar     (2x)
+
+Se os seus pes estao cansado...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/G# = 4 X 2 2 2 X
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+C#m/B = 7 X 6 6 5 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

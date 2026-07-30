@@ -1,0 +1,59 @@
+@titulo: por-onde-vais
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Por Onde Vais
+
+Intro: G7M  C7M  G7M  C7M  G/B  Am  D7  D/F#
+
+G  C       G/B   Am   D7    G       C    G/B
+Por onde é que vais?          caminho a seguir 
+Am   C         Em   C  D7    G  C G C   G C G
+(há) milhares que a paz almejam cumprir 
+G  C     G/B   Am    D7   G  C    G/B
+Alguém para ouvir,        buscar decisões 
+Am       C       Em   C D7      G  C  G  C   G C G
+(procurar) vagar pelo mar    de opiniões ... 
+
+Dm7         C7M    G7M   Am
+Constante tropeçar no medo 
+Dm7      C7M      Gm   C7
+Com o olhar preso ao chão 
+F7M      Em7(b5)      A7       Dm7    Fm6    C      D7/C         F/G
+Sem querer senti   -   ir  que a mão de cristo que  -   er      ajudar 
+D7
+Erga o olhar! 
+
+G  C       G/B   Am   D7   G     C      G/B
+Por onde é que vais?            caminho a seguir 
+Am   C       Em       C   D7      G
+(há) que leva a paz, ter cristo é bem mais 
+
+Final: G7M  C7M  G7M  C7M
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+C7M = X 3 2 0 0 X
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+D7/C = X 3 X 2 3 2
+Dm7 = X 5 7 5 6 5
+Em = 0 2 2 0 0 0
+Em7(b5) = X X 2 3 3 3
+F/G = 3 X 3 2 1 X
+F7M = 1 X 2 2 1 X
+Fm6 = 1 X 0 1 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7M = 3 X 4 4 3 X
+Gm = 3 5 5 3 3 3

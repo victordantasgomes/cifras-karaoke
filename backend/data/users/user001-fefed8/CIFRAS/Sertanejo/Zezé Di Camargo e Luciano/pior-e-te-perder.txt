@@ -1,0 +1,90 @@
+@titulo: pior-e-te-perder
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Pior É Te Perder
+
+Intro: (A E/G# D/F# E/G#) 4 vezes
+
+
+A                     E/G#  D/F#
+ Quanta gente a gente vive
+               A
+deixando pra trás
+                E/G#
+Mas têm coisas nesta
+      D/F#       E/G#
+vida      que não
+             A
+voltam mais
+                    E/G#   D/F#
+Quanta gente a gente vive
+                  A
+deixando prá    trás
+                 E/G#
+Mas têm coisas nesta
+    D/F#         E/G#
+vida      que não
+
+           A
+voltam mais
+D          A/C#
+A primeira namorada
+    Bm7       F#m
+A professora do jardim
+Bm             D
+Companheiros de estrada
+E7
+Não se lembram mais de mim
+D         A
+Amizade abandonada
+Bm7            F#m
+Só colegas de profissão
+Bm7        D
+A  família separada
+E7                                A
+Meus vizinhos eu nem sei quem são
+A              E/G#         F#m
+ Pior que tudo isso é te perder
+           C#m            D
+Ter que chorar ter que sofrer
+                A          Bm7
+Pra aprender então a dar valor
+E7                   A
+A um grande amor
+              E/G#         F#m
+Pior que tudo isso é te perder
+           C#m             D
+Ter que chorar ter que sofrer
+                A          Bm7
+Pra aprender então a dar valor
+D/E              A
+   Ao nosso amor
+A        E/G#       D/F#
+   Não vá, não sei
+  E7                 A
+Viver sem o teu amor
+       E/G#      D/F#
+Não vá,  não sei
+  E7              A
+Viver sem o teu amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,53 @@
+@titulo: tua-graca
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Tua Graça
+
+        Am              F7M
+Porque tu me tens sido amparo
+       Dm7            G7         C7M    F7M
+À sobra de tuas asas eu canto louvor
+      Bm7/5b         E7         Am  Am7
+A minha'alma apega-se a ti, meu Senhor
+            F      Dm7     Bm7/4    E7
+Pois a tua destra me ampara.
+
+Am9         Am7       Dm7
+Porque tua graça é melhor que a vida
+                 F2b       G7/9b  C7M
+Os meus lábios te louvam, Senhor
+        Bm7/5b      E7          Am  Am7
+Bendirei o teu nome enquanto eu viver
+           F           Dm7    Bm7/4   E7
+Sim, a ti, eu levanto minhas mãos.
+           F           Dm7    E7  Am9
+Sim, a ti, eu levanto minhas mãos.
+
+ Dm   G7   C7M  F7M  Dm7  Am  F7M           E7   Am
+Aleluia,           Aleluia,           Aleluia,       Aleluia,
+              F7M     E7     Am          E7           F7M
+Aleluia,           Aleluia,           Aleluia,       A ...
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am9 = X 0 2 4 1 0
+Bm7/4 = 7 X 7 7 5 X
+Bm7/5b = X 2 3 2 3 X
+C7M = X 3 2 0 0 X
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+F2b = 1 3 4 2 1 1
+F7M = 1 X 2 2 1 X
+G7 = 3 5 3 4 3 3
+G7/9b = 3 X 3 1 0 X

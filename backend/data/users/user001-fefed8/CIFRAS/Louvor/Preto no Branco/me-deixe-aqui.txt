@@ -1,0 +1,145 @@
+@titulo: me-deixe-aqui
+@autor:
+@intérprete: Preto no Branco
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Preto No Branco - Me Deixe Aqui
+
+Capo Casa 2
+
+[Intro]
+
+E|--X--------------------------------------------------------------|
+B|--X------| 0--0-0-0----0---3--3-3-3-0-----8--8-8-8--7-5--5-5-5-5--|
+G|6-X-6/7--7--7-7-7----13--0--0-0-0-0-----7--7-7-7--7-7--4-4-4-4---|
+D|--X--------------------------------------------------------------|
+A|5-X-------------------------------------7---7-7-7--7---4--4-4-4--|
+E|--X------| 7---7-7-7---12--3---3-3-3-3/---------------------------|
+
+E|---------|
+B|-2---3~--|
+G|-2-------|
+D|---------|
+A|---------|
+E|---------|
+
+[Primeira Parte]
+
+ Bm               G
+Deus só você sabe o que passei
+        D           D/C#
+Pra chegar até aqui
+
+ Bm
+Toda a montanha
+ G                 D
+Tudo o que eu atravessei
+            D/C#
+Quase parei
+ Em                G
+Tanto tropeço e espinho
+               Bm7(9)     F#m7(11)
+Não aguentava mais andar, ah
+
+ Bm                       G
+Deus quantas vezes me perdi
+
+               D               D/C#
+No caminho que eu mesmo criei?
+ Bm              G
+Nele vi muitas saídas
+                 D               D/C#
+Que eu tinha certeza que era você
+ Em                G
+Deus eu corri sem cessar
+  Bm        Em       F#m
+Quando eu caí me ergueu
+
+[Refrão]
+
+ Bm
+Me deixe entrar e ficar bem de perto
+G
+Eu só preciso olhar seu sorriso
+ Em                 D
+Mesmo que eu não mereça
+            A
+Ouvi me chamar pelo nome
+F#m
+Eu só preciso
+
+ Bm
+Te abraçar com as mãos calejadas
+ G
+Nelas estão toda a minha corrida
+ Em               D
+Se não mereço ao menos
+              A/C#      A
+Te chamar de Pai por favor
+F#m
+Eu só te peço
+
+ Bm
+Me deixe entrar e ficar bem de perto
+G
+Eu só preciso olhar seu sorriso
+ Em                 D
+Mesmo que eu não mereça
+            A
+Ouvi me chamar pelo nome
+F#m
+Eu só preciso
+
+ Bm
+Te abraçar com as mãos calejadas
+ G
+Nelas estão toda a minha corrida
+ Em               D
+Se não mereço ao menos
+              A/C#      A
+Te chamar de Pai por favor
+F#m
+Eu só te peço
+
+[Ponte]
+
+    Bm                      G
+Me deixe aqui, olhando pra você
+             D                 F#m
+E te ver sorrindo todas as manhãs
+          Bm                    G
+Poder te sentir, deitar no seu colo
+               D                     F#m
+Te chamar de amigo, sentir o teu cuidado
+    Bm                      G
+Me deixe aqui, olhando pra você
+             D                 F#m
+E te ver sorrindo todas as manhãs
+          Bm                    G
+Poder te sentir, deitar no seu colo
+               D                     F#m
+Te chamar de amigo, sentir o teu cuidado
+
+Bm   G    D      F#m
+Ooohhh, oooohhh, ooohhhh
+Bm   G    D      F#m     Bm
+Ooohhh, oooohhh, ooohhhh
+
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+A*  = X 0 2 2 2 0 - (*B na forma de A)
+A/C#*  = X 4 X 2 5 5 - (*B/D# na forma de A/C#)
+Bm*  = X 2 4 4 3 2 - (*C#m na forma de Bm)
+Bm7(9)*  = X 2 0 2 2 X - (*C#m7(9) na forma de Bm7(9))
+D*  = X X 0 2 3 2 - (*E na forma de D)
+D/C#*  = X 4 0 2 3 2 - (*E/D# na forma de D/C#)
+Em*  = 0 2 2 0 0 0 - (*F#m na forma de Em)
+F#m*  = 2 4 4 2 2 2 - (*G#m na forma de F#m)
+F#m7(11)*  = 2 X 2 2 0 X - (*G#m7(11) na forma de F#m7(11))
+G*  = 3 2 0 0 0 3 - (*A na forma de G)

@@ -1,0 +1,91 @@
+@titulo: seras-sempre-deus
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Seras Sempre Deus
+
+[Intro] Em  D  C  G/B  Am7  B 
+        Em  D  C  Am7  Am7/G  D/F#
+
+E|----------------------------------------------------------------------|
+B|----------------------------------------------------------------------|
+G|----11~-12~----11~-12~---7-9----------11~-12~---11~-12~---7-5--4--2--|
+D|--9----------9---------9------7-9---9---------9---------9-------------|
+A|----------------------------------------------------------------------|
+E|----------------------------------------------------------------------|
+
+G  D/F#              Em    D/F#           G
+       Quando brilha o sol      ou se a chuva vem
+  D/F#        Em        C       D        G
+Quando estou mal  ou então, se tudo está bem
+  D/F#        Em   D/F#        G
+Quando dizes sim quando dizes não
+ D/F#          Em  C        D          Am7   G/B  Em  D
+Se ouço a tua voz  ou não quando em silêncio estás
+
+ G   Am7   G/B   G  C          G/B     Am7
+Se  rás   sempre   Deus e sempre me  amarás
+       Am/G   D/F#           Em
+Não desampararás nem desistirás
+          D    C      G/B      Am7
+E ainda que a dor me diga que não
+              G/B  C            G/B  Am
+Sei que é por a   mor  estás me ensinando
+         D     G
+Que sempre és Deus
+
+( G/B  C  G/B  C  Am )
+( G/B  G  C  D  Am )
+( G/B  G  Em  D )
+
+              D             A9/C#   Bm
+Serás sempre Deus e sempre me   amarás
+       Bm/A   E/G#         F#m
+Não desampararás nem desistirás
+          E    D            A9/C#  Bm7
+E ainda que a dor me diga que     não
+              A9/C#  D            A9/C#   Bm7
+Sei que é por a     mor  estás me ensinando
+         E     A
+Que sempre és Deus
+
+ A   Bm7  A/C#   A   D           A9/C#  Bm
+Serás    sempre Deus e sempre me amarás
+       Bm/A   E/G#         F#m
+Não desampararás nem desistirás
+          E    D            A9/C#  Bm7
+E ainda que a dor me diga que     não
+              A9/C#  D            A9/C#    Bm7
+Sei que é por a     mor  estás me ensi    nando
+         E     F#m  E  D  A/C#  Bm7  C#9  F#m  E  D  A/C#  Bm7  E/G#
+Que sempre és Deus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9/C# = X 4 2 2 0 X
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+Am7/G = 3 0 2 0 1 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#9 = X 4 6 6 4 4
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

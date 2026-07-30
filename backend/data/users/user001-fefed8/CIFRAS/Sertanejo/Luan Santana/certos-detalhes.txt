@@ -1,0 +1,149 @@
+@titulo: certos-detalhes
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Certos Detalhes
+
+Intro:
+E|-6---6---10p6---6h8-|-6----6-----------|-6----6---10h6---6h8-|
+B|--8-8-8-8-----------|---8-8-6----------|--8--8-8-8-----------|
+G|---7---7------7-----|----7---8-7-7/8-5-|---7---7------7------|
+D|--------------------|------------------|---------------------|
+A|--------------------|------------------|---------------------|
+E|--------------------|------------------|---------------------|
+
+E|-------------------8b10-8----------------------------------|
+B|---------- 6---6-8--------8--------------------------------|
+G|-7p5-5-7/8---7---------------------------------------------|
+D|----8------------------------------------------------------|
+A|-----------------------------------------------------------|
+E|-----------------------------------------------------------|
+
+Intro: Gm  D#  Bb  F
+
+Gm
+Esqueça o mundo
+D#
+apague a luz escute só a minha voz
+
+     Gm
+tem certos detalhes
+     D#
+que insistem em te fazer desistir de nós
+
+Gm
+Razão te implora
+  D#
+e pede pra você se afastar de mim
+        Gm
+mas tem certos detalhes
+    D#                         D#    F
+que fazem um coração falar mais alto sim
+
+D#                                                   Bb
+Eu te conheço a pouco tempo mais pro sentimento   o  tempo.
+                   F
+não passa de uma palavra
+D#                                                 Bb
+a luz do seu olhar me fez sonhar e se me acompanhar
+         F
+criemos asas
+
+Refrão:
+  Gm                D#
+É complicado pra você... viver a minha vida
+Bb                          F
+mais se ta disposta eu vou... buscar outra saída
+  Gm                   D#
+Eu já tentei deixar rolar... dizer que tanto faz
+ Bb                        F
+mais certos detalhes fazem... eu te amar...
+
+ Gm                D#
+É complicado pra você... viver a minha vida
+Bb                          F
+mais se ta disposta eu vou... buscar outra saída
+   Gm                   D#
+Eu já tentei deixar rolar... dizer que tanto faz
+ Bb                        F                      Gm
+mais certos detalhes fazem... eu te amar de mais
+
+ Solo: Gm  D#  Bb  F  Gm  D#  Bb  Am  F  C  G  Am  F  C  G
+
+E|-6---6---10p6---6h8-|-6----6----6/-----|-12-0-8-12-0-8-12-0-8---------------------------|
+B|--8-8-8-8-----------|---8-8-6----------|----------------------12-0-10-0-8-0-------------|
+G|---7---7------7-----|----7---8---------|------------------------------------10-0-9-0-7--|
+D|--------------------|------------------|------------------------------------------------|
+A|--------------------|------------------|------------------------------------------------|
+E|--------------------|------------------|------------------------------------------------|
+
+E|--------------------------10/12\10--8-----------------|
+B|---------- ---8---8-10--8-----------------------------|
+G|-9p7---7-9/10---9---------------------(5)harmonic-----|
+D|----10------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+Am
+Razão te implora
+  F
+e pede pra você se afastar de mim
+        Am
+mas tem certos detalhes
+    F                           F    G
+que fazem um coração falar mais alto sim
+
+   F                                                 C
+Eu te conheço a pouco tem mais pro sentimento o tempo
+                    G
+não passa de uma palavra
+  F                                              C
+a luz do seu olhar me fez sonhar e se me acompanhar
+        G
+criemos azas
+
+Refrão:
+   Am                F
+É complicado pra você... viver a minha vida
+C                          G
+mais se esta disposta eu vou... buscar outra saída
+    Am                  F
+Eu já tentei deixar rolar... dizer que tanto faz
+ C                       G
+mais certos detalhes fazem...
+
+ Gm                D#
+É complicado pra você... viver a minha vida
+Bb                          F
+mais se ta disposta eu vou... buscar outra saída
+   Gm                   D#
+Eu já tentei deixar rolar... dizer que tanto faz
+ Bb                        F                      Gm D#
+mais certos detalhes fazem... eu te amar de mais
+              Bb             F                     Gm
+Sao certos detalhes que fazem... eu te amar de mais...
+         D#           Bb     F  Gm
+Oh oh oh ho certos detalhes...
+
+E|-------6-5---3--|
+B|-3-6-3-----6----|
+G|----------------|
+D|----------------|
+A|----------------|
+E|----------------|
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D# = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

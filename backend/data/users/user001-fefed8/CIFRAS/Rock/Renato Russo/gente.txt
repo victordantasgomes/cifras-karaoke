@@ -1,0 +1,116 @@
+@titulo: gente
+@autor:
+@intérprete: Renato Russo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renato Russo - Gente
+
+ G
+Intro: E/G#  C#m7  G#m7  A/B  C#m  B7
+
+    E
+Si sbaglia sai quasi continuamente
+ C#m                             G#m7
+Sperando di non farsi mai troppo male
+A/B                C#m  B7
+Ma quante volte si cade.
+E
+La vita sai è un filo in equilibrio
+C#m                            A     G#m/A  F#m/A
+E prima o poi ci ritroviamo distanti
+             B4/7    B7
+Davanti a un bivio.
+A                  G#m7   C#m
+Ed ogni giorno insie......me
+    F#m7                  C#m
+Per fare solo un metro in più
+A                 G#m7   C#m
+Ci vuole tutto il be......ne
+
+F#m7                 A/B              E/G#  C#m7
+Che riusciremo a trovare in ognuno di noi
+E/G#
+Ma a volte poi basta un sorriso solo
+  C#m                                   G#m7
+A sciogliere in noi anche un inverno di gelo
+A/B            C#m  B7
+E ripartire da zero
+E/G#
+Perché non c'è
+Un limite per nessuno
+C#m
+Che dentro sè
+                  A    G#m/A  F#m/A
+Abbia un amore sincero
+           B4/7  B7
+Solo un respiro
+          E/G#             C#m7     C#m5+
+Non siamo angeli in volo venuti dal cielo
+   F#m/A    G#m/A   F#m7/A    B7
+Ma gente comune che ama    davvero
+E/G#               C#m7      C#m
+Gente che vuole un mondo più vero
+   A           E/G#        A/B        ( E/G# )
+La gente che incontri per strada in città
+Solo ( G )  ( Em )  A6/9
+     G6/A  Em/B  Bm7
+G
+Prova e vedrai ci sarà sempre un modo
+Em                                  C  Em/B  Am
+Dentro di noi per poi riprendere il vo.lo
+           D4/7   D7
+Verso il sereno
+          G/B              Em7      Bm5+
+Non siamo angeli in volo venuti dal cielo
+   Am7     Bm7      Am7/E     D7
+Ma gente comune che ama    davvero
+G                  Em7       Bm5+
+Gente che vuole un mondo più vero
+   C             G/B  C/D        G/B
+La gente che insieme  lo  cambierà
+Solo G/B  A4/7  Em  C
+     Em/B  Am  D7
+G                  Em7       Bm5+
+Gente che vuole un mondo più vero
+   C             G/B  C/D        G
+La gente che insieme  lo  cambierà
+
+Solo ( G  Em  C  C/D ) = 8 vezes
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A4/7 = X 0 2 0 3 0
+A6/9 = 5 4 4 4 X X
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am7/E = X X 2 2 1 3
+B4/7 = X 2 4 2 5 2
+B7 = X 2 1 2 0 2
+Bm5+ = 7 10 9 7 8 7
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+C#m5+ = X 4 2 2 2 5
+C#m7 = X 4 6 4 5 4
+C/D = X X 0 0 1 0
+D4/7 = X X 0 2 1 3
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+Em/B = X 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#m/A = X 0 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7/A = 5 X 4 6 5 X
+G = 3 2 0 0 0 3
+G#m7 = 4 X 4 4 4 X
+G/B = X 2 0 0 3 3
+G6/A = X 0 0 0 0 0

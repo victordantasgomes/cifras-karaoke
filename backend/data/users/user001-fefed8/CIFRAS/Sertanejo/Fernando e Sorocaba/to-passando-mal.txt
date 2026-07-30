@@ -1,0 +1,151 @@
+@titulo: to-passando-mal
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - Tô Passando Mal
+
+(intro e primeira parte)
+
+   A        E5 D5       E5
+E|-----------------------------------------
+B|-1/2-2-2--5--2/3-3-3--5-5----------------
+G|-1/2-2-2--4--1/2-2-2--4-4----------------
+D|-1/2-2-2--2--0--------2-2---------------- (6x)
+A|-0---------------------------------------
+E|-----------------------------------------
+
+   A        E5 D5       E
+E|----------------------0-0-0-0-0----------
+B|-1/2-2-2--5--2/3-3-3--0-0-0-0-0----------
+G|-1/2-2-2--4--1/2-2-2--1-1-1-1-1----------
+D|-1/2-2-2--2--0--------2-2-2-2-2----------
+A|-0--------------------2-2-2-2-2----------
+E|----------------------0-0-0-0-0----------
+
+(primeira parte)
+A                  E5
+  Passei, flagrei, olhei
+
+D5         E5
+  E vi o que não queria ver
+A               E5
+  A tremedeira me tomou
+D5        E5
+  Quase que na hora enfartei
+A                 E5
+  Quem é o cara que chegou
+D5         E5
+ juntinho com você na balada?
+A              E5
+ Bem que você me avisou
+D5                               E
+ Preu dar valor no que tinha em casa.
+
+(refrão)
+          A  E
+Tá tá tá tá!
+ D                       A  E
+Tô nervoso, tô passando mal
+  D                          A   E
+Quem mandou eu não te dar moral?
+     D
+Tô suando frio...
+          A  E
+Tá tá tá tá!
+ D                      A  E
+Não acreditei quando falou
+  D                       A  E
+Que desencanou do nosso amor
+       D           E
+Tô sofrendo aqui, volta pra mim.
+
+(intro)
+
+   A        E5 D5        E
+E|-----------------------0-0-0-0-0-0-0-0-----------
+B|-1/2-2-2--5--2/3-3-3---0-0-0-0-0-0-0-0-----------
+G|-1/2-2-2--4--1/2-2-2---1-1-1-1-1-1-1-1-----------
+D|-1/2-2-2--2--0---------2-2-2-2-2-2-2-2-----------
+A|-0---------------------2-2-2-2-2-2-2-2-----------
+E|-----------------------0-0-0-0-0-0-0-0-----------
+
+(continuação)
+
+(depois do primeiro refrão, a música repete mas os ritmos vão mudando)
+
+A       E      D
+Ai, ai, ai, ai, ai (2x)
+
+(repete a primeira parte com o ritmo do refrão)
+
+A              E
+  Passei, flagrei, olhei
+D    E
+  E vi o que não queria ver
+A         E          D
+  A tremedeira me tomou
+    E
+  Quase que na hora enfartei
+A           E           D
+  Quem é o cara que chegou
+     E                     A
+ juntinho com você na balada?
+            E         D
+ Bem que você me avisou
+                                 E
+ Preu dar valor no que tinha em casa.
+
+(refrão)
+
+(refrão)
+
+(na 2ª vez em que o refrão repete, toca a primeira parte com o
+ritmo da introdução,e depois voltamos pro ritmo padrão)
+
+          A  E5
+Tá tá tá tá!
+ D5             E5       A  E5
+Tô nervoso, tô passando mal
+  D5                E5       A   E5
+Quem mandou eu não te dar moral?
+     D5          E
+Tô suando frio...
+          A  E
+Tá tá tá tá!
+ D                      A  E
+Não acreditei quando falou
+  D                       A  E
+Que desencanou do nosso amor
+       D           E             A
+Tô sofrendo aqui, volta pra mim.
+
+A       E       D
+Ai, ai, ai, ai, ai (tô passando mal, tô passando mal)
+A       E       D
+Ai, ai, ai, ai, ai (volta pra mim)
+A       E       D
+Ai, ai, ai, ai, ai (tô passando mal, tô passando mal)
+A       E       D
+Ai, ai, ai, ai, ai (volta pra mim)
+
+  A         E5        A
+E|-----------------------------------------
+B|-1/2-2-2--5--5-5-5--2--------------------
+G|-1/2-2-2--4--4-4-4--2--------------------
+D|-1/2-2-2--2--2-2-2--2--------------------
+A|-0------------------0--------------------
+E|-----------------------------------------
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X

@@ -1,0 +1,29 @@
+@titulo: espontaneo
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Espontâneo
+
+versão DVD
+
+ Fmaj7           Em7          Am
+ o espirito e a noiva, dizem vem...
+ Fmaj7           Em7          Am
+ o faminto e o sendento, dizem vem...
+ Fmaj7           Em7          Am
+ o desesperado o apaixonado, dizem vem...
+ Fmaj7           Em7          Am
+ vem,vem,vem,vem jesus....
+
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Em7 = 0 2 2 0 3 0
+Fmaj7 = 1 X 2 2 1 X

@@ -1,0 +1,131 @@
+@titulo: fuga
+@autor:
+@intérprete: Nenhum de Nós
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nenhum de Nós - Fuga
+
+(versão acústica)
+
+(intro) D Bm G D
+
+*os solos abaixo são os feitos pelo acordeon:
+
+ (solo 1) (D Bm C G D)
+E |--------------------------------------|
+B |-3--5-7-3--5-7-5-3-----3--------------|
+G |-------------------4-2----------------|
+D |--------------------------------------|
+A |--------------------------------------|
+E |--------------------------------------|
+
+ (solo 2) (D Bm C G D)
+E |-10--12-14-10--12-14-12-10-------10---|
+B |---------------------------12-10------|
+G |--------------------------------------|
+D |--------------------------------------|
+A |--------------------------------------|
+E |--------------------------------------|
+
+
+    Solo 3 (G D Am C)
+E |----------------------------------------------------------------|
+B |----------------------------------------------------------------|
+G |----------------------------------------------------------------|
+D |-----5---4-----------7---5-----------5---4------------7---9-10--|
+A |-5-7-------5-----5-7-------7-----5-7-------5------5-7-----------|
+E |----------------------------------------------------------------|
+
+(intro)
+(solo 1)
+(solo 2)
+
+D                       Bm
+Nunca mais vai estar em casa
+C      G      D
+Nada será igual
+                     Bm
+Olhava as pessoas em volta
+C        G         D
+Ninguém podia ajudar
+                     Bm
+Tinha o fogo em suas mãos
+C         G        D
+E dentro de si o medo
+
+(solo 2)
+(solo 3)
+
+(refrão)
+  G
+pensava em tudo o que ficou
+  D
+quando todos percebessem
+Am          C
+a garota se mandou
+
+G
+pensava em tudo o que ficou
+  D
+quando todos percebessem
+Am          C   G   D
+a garota se mandou
+
+C G D
+se mandou
+
+(solo 1)
+(solo 2)
+
+D
+Tudo em volta parecia um sonho
+Bm                  C      G      D
+Nada fazia sentido, nada será igual
+                       Bm
+O silêncio das paredes esperava
+C      G        D
+O silêncio esperava
+                                    Bm
+Então, adeus é mais do que um pensamento
+ C    G     D
+Então, adeus...
+
+(solo 2)
+(solo 3)
+
+(refrão)
+  G
+pensava em tudo o que ficou
+  D
+quando todos percebessem
+Am          C
+a garota se mandou
+
+G
+pensava em tudo o que ficou
+  D
+quando todos percebessem
+Am          C   G   D
+a garota se mandou
+
+C G D
+se mandou
+
+(solo acordeon)  Bm C D Em (2x)  G D Am C G D Am C
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

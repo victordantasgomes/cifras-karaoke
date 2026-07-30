@@ -1,0 +1,83 @@
+@titulo: quando-voce-nao-esta-por-perto
+@autor:
+@intérprete: Barão Vermelho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Barão Vermelho - Quando Você Não Está Por Perto
+
+
+    B
+ Eu quero ficar nu diante dos
+           E
+ seus olhos
+   B
+ Falar bem perto do seu ouvido
+    E
+ Decifrar tua alma e os gemidos
+                 B     E
+ Temos tempo pra viver
+ B                              B7+
+ Quero descobrir o amor de novo
+      B
+ Encontrar algu‚m que eu
+ procuro
+          E
+ Livrar o amor do escuro
+   C#m7
+ E destruir o muro
+     E           B
+ Que cerca meu coracao
+
+
+ <-- Estribilho
+         E
+ Vai ser bom pra mim
+ C#m7           E
+ Ficar s¢ ‚ tao ruim
+         E
+ Vai ser bom pra mim
+ C#m7           B   E B
+ Ficar s¢ ‚ tao ruim
+ <--
+   B
+ A vida me sorriu, permitiu voce
+ nascer
+ Estrela pra dar sorte
+                         E
+ Por tudo o que  a gente fez
+   C#m7                 E
+  pura tua luz, teu rosto, teu olhar
+   C#m7
+ Qunado voce est  longe
+   E               B
+ A mim s¢ resta lembrar
+
+ Repete: Estribilho
+
+ solo: B B7+ B7 E C#m7 E F# G#m G#m7+ G#m7 C#7 E F#7 B
+
+ Repete: Estribilho
+          E
+ Qunado voce nao est  por perto
+     C#m7                  B
+ Meu mundo ‚ um deserto no frio
+
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+B7+ = X 2 4 3 4 2
+C#7 = X 4 3 4 2 X
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2
+G#m = 4 6 6 4 4 4
+G#m7 = 4 X 4 4 4 X
+G#m7+ = X X 6 8 8 7

@@ -1,0 +1,131 @@
+@titulo: a-mare
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nx Zero - A Maré
+
+[Intro] F#m  C#m  D
+        F#m  C#m  D
+
+E|------------------------------------------------|
+B|--------2---------------------------------------|
+G|------2------------2-----------6----------6-----|
+D|----4------------4-----------7----------7-------|
+A|---------------4-----------5----------5---------|
+E|------------------------------------------------|
+
+[Primeira Parte]
+
+F#m                      C#m
+  Todo dia ela chega em casa e se pergunta
+      D
+O que é que eu to fazendo aqui?
+F#m                     C#m
+  Todo dia chega do trabalho olha pro lado
+ D
+Sem saber pra onde ir
+
+
+[Pré-Refrão]
+
+           F#m                   C#m
+Vem que a vida que leva não é a mesma
+          D
+Que planejou quando era feliz
+F#m                   C#m
+  Todo dia isso se repete ela procura
+D
+Um motivo pra sorrir
+
+Ab5  F#5
+  Uô uô ôô
+Ab5  F#5
+  Uô uô ôô
+
+[Refrão]
+
+       D            E            F#m     C#m
+Com o tempo a vida faz crescer e aceitar
+          D          E            F#m     C#m
+Que de repente tudo muda e troca de lugar
+           D                     E
+Não se entregue e não deixe a maré te levar
+        F#m               C#m
+Só não deixe a maré te levar
+       D                         E
+Com o tempo a vida faz crescer e aceitar
+
+[Solo] F#m  C#m  D
+       F#m  C#m  D
+
+[Segunda Parte]
+
+F#m                     C#m
+  Todo dia ele toma um gole
+              D
+Pra esquecer tudo o que deixou pra trás
+F#m                    C#m
+  Todo dia ele se arrepende de não ter
+ D
+Feito o que era capaz
+
+[Pré-Refrão]
+
+          F#m                   C#m
+Vê que a vida que leva não é a mesma
+          D
+E essa rotina já não satisfaz
+F#m                   C#m
+  Todo dia isso se repete e ele procura
+D
+Encontrar a sua paz
+
+[Refrão]
+
+       D            E            F#m     C#m
+Com o tempo a vida faz crescer e aceitar
+          D          E            F#m     C#m
+Que de repente tudo muda e troca de lugar
+           D                     E
+Não se entregue e não deixe a maré te levar
+        F#m               C#m
+Só não deixe a maré te levar
+       D                         E
+Com o tempo a vida faz crescer e aceitar
+
+[Solo] F#m  C#m  D
+       F#m  C#m  D
+       F#m  C#m  D
+
+[Refrão]
+
+       D            E            F#m     C#m
+Com o tempo a vida faz crescer e aceitar
+          D          E            F#m     C#m
+Que de repente tudo muda e troca de lugar
+           D                     E
+Não se entregue e não deixe a maré te levar
+        F#m
+Só não deixe a maré te levar
+           D                     E
+Não se entregue e não deixe a maré te levar
+        F#m
+Só não deixe a maré te levar
+
+[Final] C#m  D  C#m  D
+        C#m  D  C#m  D
+
+----------------- Acordes -----------------
+Ab5 = 4 6 6 X X X
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#5 = 2 4 4 X X X
+F#m = 2 4 4 2 2 2

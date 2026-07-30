@@ -1,0 +1,93 @@
+@titulo: ate-o-fim
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Até o Fim
+
+[Intro]
+
+E|-----0h2p0-2------------------------------4----------|
+B|------------------0h2p0-2--------------5-------------|
+G|------------------------------------6----------------|
+D|---------------2-----------------6-------------------|
+A|---2---------0----------------4----------------------|
+E|--0--------------------------------------------------|
+
+E|-----------------------------------------------------|
+B|----5------------------------------------------------|
+G|-------6------------1-------1------------------------|
+D|------------------2--------2-------------------------|
+A|----------------2---------0--------------------------|
+E|--------------0---------2----------------------------|
+
+  Bb             C               Dm           F
+Quem vai me abraçar? me compreender, me consolar?
+  Bb          C               Dm          F
+Quem vai me querer, quem vai saber me perdoar?
+Bb               C              Dm            F
+E quando tantas tardes gelam, quem vai me esquentar?
+
+    Bb          C              Dm            F
+Eu sei que é você e a todo instante vai me amar
+
+  Bb               Am     Gm        F
+Quando eu olho o que a vida vem se tornando
+Bb           Am        Gm         F
+Eu vejo que tudo se resume a te amar
+          Dm           Bb   F                   C
+O dia sorriu e eu acordei, foi o melhor que já nasceu!
+  Dm        Bb         C
+E é você e só você que o fará durar
+
+ Dm   Bb        F      Gm
+Não até o fim, até o ciclo terminar
+ Dm   Bb             F          C
+Não até morrer e o pó à terra misturar
+     Dm                      Gm
+Que seja para sempre e todo sempre
+     Bb   C  F
+Um eterno altar
+
+ Bb               C               Dm         F
+Sou eu quem vai amar, quem vai saber te acalmar
+         Bb        C            Dm           F
+Sou eu quem vai ouvir sua doce voz e vai chorar
+Bb              C                   Dm   F
+É neste colo aqui que vai poder se debruçar
+      Bb      C             Dm           F
+E mesmo na ausência, o coração vai te levar
+
+ Bb       Am     Gm         F
+Como poderia apagar tudo isso?
+Bb      Am            Gm            F
+Eu reviveria outras trezentas primaveras!
+          Dm              Bb      F           C
+Olha pra mim, veja que eu era uma ilha a ser descoberta
+Dm         Bb       C
+E você passou por ali
+
+ Dm   Bb          F          Gm
+Não até o fim, até o ciclo terminar
+ Dm   Bb             F          C
+Não até morrer e o pó à terra misturar
+     Dm                      Gm
+Que seja para sempre e todo sempre
+     Bb   C  F
+Um eterno altar
+
+[Final]  F  Bb  C  Dm  F  Bb  C  Dm
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

@@ -1,0 +1,48 @@
+@titulo: onde-anda-voce
+@autor:
+@intérprete: Rick e Renner
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rick e Renner - Onde Anda Você
+
+
+    B9                   E                B9
+Busquei o brilho do seu olhar e não encontrei
+                          E              B9
+Te procurei nas ruas e praças sozinho fiquei
+          F#7             E    B  B7
+Sozinho fiquei  Sozinho fiquei
+ E                            B9              F#7
+Será onde ela anda? Com quem está? Em quem pensará?
+             E   B9
+Em quem pensará?
+ B9                  E               B9
+*Toda noite saio a procura pra te encontrar
+                        E                       B9
+Avanço o vermelho do trânsito o verde é o teu olhar
+        F#7           E    B  B7
+Onde estará? Onde estará?
+ E                       B9                   F#7
+Será onde ela anda? Com quem está? Em quem pensará?
+             E   B9
+Em quem pensará?
+
+
+Intr.
+   E                         B9                F#7
+Será onde ela anda? Com quem está? Em quem pensará?
+              E   B9
+Em quem pensará?
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+B9 = X 2 4 4 2 2
+E = 0 2 2 1 0 0
+F#7 = 2 4 2 3 2 2

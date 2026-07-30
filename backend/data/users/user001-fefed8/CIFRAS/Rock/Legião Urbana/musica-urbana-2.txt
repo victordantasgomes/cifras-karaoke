@@ -1,0 +1,164 @@
+@titulo: musica-urbana-2
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Música Urbana 2
+
+ --------
+| RIFF 1 |
+
+
+e|-----------------------|
+B|-----------------------|
+G|-----------------------|
+D|--0-0--2-2--3-3--2-2---|
+A|-----------------------|
+E|--3-3--3-3--3-3--3-3---|
+
+ --------
+| RIFF 2 |
+
+
+e|----------------------------------------|
+B|----------------------------------------|
+G|--0-0--2-2--3-3--2-2--0--3---3-3-2-0-0--|
+D|----------------------------------------|
+A|--3-3--3-3--3-3--3-3--3--3---3-3-3-3-3--|
+E|----------------------------------------|
+
+
+ --------
+| RIFF 3 |
+
+
+e|----2---3---0----0----------------------|
+B|----3---3---1----1----------------------|
+G|----2---2---0----0----------------------|
+D|--0---0-----2----2----------------------|
+A|----------3----2----2h3-0---------------|
+E|----------------------------------------|
+
+ --------
+| RIFF 4 |
+
+
+e|------------------------|
+B|------------------------|
+G|--3--3/5-5-5------------|
+D|------------------------|
+A|--3--3/5-5-5------------|
+E|------------------------|
+
+ --------
+| RIFF 5 |
+
+
+e|------------------------|
+B|------------------------|
+G|-----0----0----0--------|
+D|--0h2--0h2--0h2--0------|
+A|------------------------|
+E|------------------------|
+
+ -------
+| FINAL |
+
+    Em5 F5  F#5 G5  
+e|------------------------|
+B|------------------------|
+G|------------------------|
+D|--2--3--4--5------------|
+A|--2--3--4--5------------|
+E|--0--1--2--3------------|
+
+
+Intro (Riff 1 4x)
+
+(Riff 1 4x)
+Em cima dos telhados as antenas de TV
+Tocam música urbana
+
+(Riff 2)
+Nas ruas, os mendigos com esparadrapos podres
+(Riff 1 2x)
+Cantam música urbana
+
+(Riff 3)
+Motocicletas querendo atenção às três da manhã
+(Riff 1)
+É só música urbana
+
+(Riff 4)
+
+(Riff 1 4x)
+Os PMs armados e as tropas de choque vomitam música urbana
+
+(Riff 2)
+E nas escolas as crianças aprendem a repetir
+(Riff 1 2x)
+A música urbana
+
+(Riff 3)
+Nos bares os viciados sempre tentam conseguir
+(Riff 1)
+A música urbana
+
+(Riff 4)
+
+(Riff 5 4x)
+O vento forte, seco e sujo em cantos de concreto
+Parece música urbana
+
+(Riff 2)
+E a matilha de crianças sujas no meio da rua
+(Riff 1 2x)
+Música urbana
+
+(Riff 3)
+E nos pontos de ônibus estão todos ali
+(Riff 1)
+Música urbana
+
+(Riff 4)
+
+(Riff 1 4x)
+Os uniformes, os cartazes
+Cinemas e os lares
+Favelas, coberturas, quase todos os lugares
+
+(Riff 2)
+E mais uma criança nasceu
+
+(Riff 1 2x)
+
+(Riff 3)
+Não há mentiras nem verdades aqui
+Só há a música urbana
+
+(Riff 1 2x)
+
+(Em F F# G)
+Yeah! Música urbana
+Ooh! Música urbana
+Yeeeah! Música urbana
+Música urbana Aaah!
+
+( Na versão "Música p/ Acampamentos" ele termina com um trecho imitando a Janis Joplin:
+" Oh Lord, won't you buy me, a Mercedes Benz ")
+
+----------------- Acordes -----------------
+Em = 0 2 2 0 0 0
+Em5 = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F#5 = 2 4 4 X X X
+F5 = 1 3 3 X X X
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X

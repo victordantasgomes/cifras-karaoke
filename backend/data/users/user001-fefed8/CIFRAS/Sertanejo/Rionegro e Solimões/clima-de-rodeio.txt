@@ -1,0 +1,68 @@
+@titulo: clima-de-rodeio
+@autor:
+@intérprete: Rionegro e Solimões
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rionegro e Solimões - Clima de Rodeio
+
+A      B          E
+A magia está no ar
+A      B          C#m
+Vejo fogo na arena
+A      B          E
+O cavalo a selar
+A      B           C#m    A B E
+Isso é coisa de cinema
+A      B        E
+Uma beca invocada
+A      B          C#m
+Um pingente no chapéu
+A     B     E
+Ouço uma oração
+A         B         C#m
+Sinto um pedaço do céu
+A  B   E
+Alô! Galera de cowboy
+A  B   C#m
+Alô! Galera de peão
+A                B
+Quem gosta de rodeio
+                  E   (Riff)
+Bate forte com a mão
+A         B      E
+Sinta o clima é dia de rodeio
+A     B            C#m
+Todo mundo se arrumou
+A    B    E
+Alegria de um país inteiro
+A     B        C#m  A B E
+Festa de interior
+A    B        E
+Uma beca invocada
+A      B           C#m
+Um pingente no chapéu
+A     B      E
+Ouço uma oração
+A         B         C#m
+Sinto um pedaço do céu
+A  B   E
+Alô! Galera de cowboy
+A  B   C#m
+Alô! Galera de peão
+A                B
+Quem gosta de rodeio
+                   E   (Riff)
+Bate forte com a mão
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0

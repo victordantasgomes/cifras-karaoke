@@ -1,0 +1,56 @@
+@titulo: mexe-mexe
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - Mexe Mexe
+
+(intro) C#  Ab  C#  Ab  C# (2x)  Gb C# Ab
+
+           C#                 Ab
+Festa na roça é pra lá de bom.
+                               C#
+o sanfoneiro é quem comanda o som
+                        Ab
+a gente dança moda sertaneja
+                              C#
+tomando cerveja e comendo batom
+                         Ab
+A meia noite nada é proibido
+                          C#
+mulher casada troca de marido
+                            Ab
+um engraçadinho apaga o lampião
+                                  C#
+e o amassa mamão fica mais divertido.
+
+(refrão)
+       C#
+É um mexe, mexe
+
+             Ab
+todo mundo apronta
+
+faz o que dá conta
+            Bbm
+é um beija, beija.
+
+E nessa peleja
+            Ab
+todo mundo tonto
+
+eu que não sou santo
+                C#
+também tô no meio  (2x)
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Bbm = X 1 3 3 2 1
+C# = X 4 6 6 6 4
+Gb = 2 4 4 3 2 2

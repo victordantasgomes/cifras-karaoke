@@ -1,0 +1,75 @@
+@titulo: deixa-entrar
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Deixa Entrar
+
+A )
+Intr: ( A )
+
+   A
+Estou aqui,
+                           A7+
+Ainda se quiser me deixa entrar
+                  A6          A7+         Bm7 E7 Bm7
+Eu preciso te contar, como estou neste momento
+   E7
+Estou aqui,
+                                  Bm7
+Não sei se a hora é certa pra voltar
+                     E7                       A     A7+ A6 A7+
+Se dá ou não pra perdoar,pergunta pro teu sentimento
+ A
+Estou aqui,
+
+Confesso que matei minha vontade
+                       A7                    D
+E me lembrei daquelas tardes de domingo com você
+
+                               A
+Quando a gente caminhava pela rua,
+        A7+                        Bm7
+Ou se amava na piscina a luz da lua
+        E7                          Bm7 E7
+Eu não sei onde eu estava com a cabeça
+     A           A7+ A6 A
+Que pus tudo a perder
+
+            E7
+Me deixa entrar,
+                     F#m7
+Acenda o fogo faz um café
+                                  E7
+Vira esse jogo se a saudade ta de pé
+                  D                      A  D A
+Diga que você também,tá precisando conversar
+             E7
+Me deixa entrar,
+                                  F#m7
+Acenda o fogo com palavras de paixão
+                                   E7
+Vira esse jogo e fala pro seu coração
+                       D
+Se ainda estou na sua vida
+        E7        A
+Me convida pro jantar
+
+Solo : ( A7+   A6 A7+ Bm7 E7 Bm7 E7 )
+Repete : ( Tudo )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A6 = 5 X 4 6 5 X
+A7 = X 0 2 0 2 0
+A7+ = X 0 2 1 2 0
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+E7 = 0 2 2 1 3 0
+F#m7 = 2 X 2 2 2 X

@@ -1,0 +1,161 @@
+@titulo: ressuscita-me(simplificada)
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Ressuscita-me
+
+[Intro] C6(9)  G/B  Bb6  D  A5(9)
+
+D                            A5(9)
+  Mestre eu preciso de um milagre
+Bm                                G
+  Transforma minha vida, o meu estado
+D                                     A5(9)
+  Faz tempo que não vejo a luz do dia
+                                      Bm
+Estão tentando sepultar minha alegria
+                               G    Em
+Tentando ver meus sonhos cancelados
+
+          Em/D#     Em/D
+Lázaro ouviu a Sua voz
+               C#m7(5-)     G
+Quando aquela pedra removeu
+                           D       Bm
+Depois de quatro dias ele reviveu
+               Bm/A              G
+Mestre, não há outro que possa fazer
+
+                     D9/F#           Em7
+Aquilo que só o Teu nome tem todo poder
+                          A7
+Eu preciso tanto de um milagre
+
+[Refrão]
+
+              D
+Remove minha pedra
+               A5(9)
+Me chama pelo nome
+               Bm
+Muda minha história
+                    G
+Ressuscita os meus sonhos
+                  D9/F#   G
+Transforma minha vida
+             A5(9)
+Me faz um milagre
+         C9
+Me toca nessa hora
+               G/B
+Me chama para fora
+ A5(9)        D
+Ressuscita-me
+
+D                            A5(9)
+  Mestre eu preciso de um milagre
+Bm                                G
+  Transforma minha vida, o meu estado
+D                                     A5(9)
+  Faz tempo que não vejo a luz do dia
+                                      Bm
+Estão tentando sepultar minha alegria
+                               G    Em
+Tentando ver meus sonhos cancelados
+
+          Em/D#     Em/D               C#m7(5-)     G
+Lázaro ouviu a Sua voz, quando aquela pedra removeu
+                           D       Bm
+Depois de quatro dias ele reviveu
+               Bm/A              G
+Mestre, não há outro que possa fazer
+                     D9/F#           Em7
+Aquilo que só o Teu nome tem todo poder
+                          A7
+Eu preciso tanto de um milagre
+
+[Refrão]
+
+              D
+Remove minha pedra
+               A5(9)
+Me chama pelo nome
+               Bm
+Muda minha história
+                    G
+Ressuscita os meus sonhos
+                  D9/F#   G
+Transforma minha vida
+             A5(9)
+Me faz um milagre
+         C9
+Me toca nessa hora
+               G/B
+Me chama para fora
+ A5(9)        D
+Ressuscita-me
+
+Tu és a própria vida
+   A5(9)
+A força que há em mim
+      Bm
+Tu és o filho de Deus
+       G
+Que me ergue pra vencer
+ D9/F#
+Senhor de tudo em mim
+   A5(9)
+Já ouço a Tua voz
+       Bm
+Me chamando pra viver
+        G
+Uma história de poder!
+
+[Refrão]
+
+              E
+Remove minha pedra
+               B5(9)
+Me chama pelo nome
+               C#m
+Muda minha história
+                    A5(9)
+Ressuscita os meus sonhos
+                  E
+Transforma minha vida
+             B5(9)
+Me faz um milagre
+         D
+Me toca nessa hora
+          A5(9)
+Me chama para fora
+ B5(9)        E
+Ressuscita-me
+
+----------------- Acordes -----------------
+A5(9) = X 0 2 2 0 0
+A7 = X 0 2 0 2 0
+B5(9) = X 2 4 4 2 2
+Bb6 = X 1 0 0 3 3
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 P2
+C#m = X 4 6 6 5 4
+C#m7(5-) = X 4 5 4 5 X
+C6(9) = X 3 X X 5 5
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D9/F# = 2 X 0 2 3 0
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+Em/D = X X 0 0 0 0
+Em/D# = X X 1 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 3 3
+G/B = X 2 0 0 3 3

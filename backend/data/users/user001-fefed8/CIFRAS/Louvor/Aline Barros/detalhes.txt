@@ -1,0 +1,74 @@
+@titulo: detalhes
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Detalhes
+
+INTRO:   F
+
+F               Dm7
+Faz proezas entre nós
+               Gm7
+Realiza teus milagres
+                  C
+Nos traz o impossível
+F                 Dm7
+Mas não posso esquecer
+              Gm7
+Dos mínimos detalhes
+                C
+Que movem o Teu coração
+   A#         F/A
+Oh vem me ensinar
+        Gm7                C
+Uma canção que toca no Seu coração
+A#            F/A           Gm7
+Mostra-me o caminho da santidade,
+        C
+Da adoração
+
+
+                F       C/E
+Que eu tenha um coração humilde
+                Dm7        Dm7/C
+Que eu tenha um coração sincero
+             A#        F/A
+Que eu tenha vida no altar
+           Gm7           C
+Com lábios santos pra adorar
+    F9          C/E        Dm7         Dm7/C
+E o céu irá se abrir e o milagre acontecer
+        A#         F/A
+Tuas proezas sobre mim,
+         Gm7           C
+Detalhas que movem Teu coração
+
+1° | A# F/A Gm7 C |
+2° | F |
+
+A#          F/A
+Ensina-me a mover o céu
+    Gm7                   C
+E o Teu coração com o meu coração
+A#          F/A
+Ensina-me a tocar o céu
+Gm7                  C
+Com meu louvor e a minha adoração
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+Dm7 = X 5 7 5 6 5
+Dm7/C = X 3 0 2 1 1
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F9 = 1 3 5 2 1 1
+Gm7 = 3 X 3 3 3 X

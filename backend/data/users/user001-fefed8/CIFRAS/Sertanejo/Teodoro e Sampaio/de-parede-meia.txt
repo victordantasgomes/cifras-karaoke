@@ -1,0 +1,58 @@
+@titulo: de-parede-meia
+@autor:
+@intérprete: Teodoro e Sampaio
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Teodoro e Sampaio - De Parede-meia
+
+(intro) G  Am D7  G  G7 C  G  Am  G
+
+(refrão 2x)
+G                            Am
+É de parede-meia que a coisa pega,
+            D7                      G
+É de parede-meia que a gente não sossega.
+              G7               C
+Se a mulher é boa a coisa fica feia
+              D7             G        Am C Bm Am G
+Quando agente mora de parede-meia(bis)
+
+G                                Am
+Ela vai pro banho, eu ouço o chuveiro,
+         D7                   G
+A água molhando o seu corpo inteiro,
+        G7               C               D7                G
+A felicidade mora do meu lado, eu aqui sozinho morro apaixonado. (2x)
+
+(intro)
+
+
+(refrão)
+
+G                        Am
+Ela se perfuma dolado de lá,
+             D7                G
+Eu sinto seu cheiro do lado de cá.
+           G7            C                  D7                 G
+Entre eu e ela tem uma parede, tão perto da mina e morrendo de sede.  (2x)
+
+(intro)
+
+(refrão 2x)
+
+(intro)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

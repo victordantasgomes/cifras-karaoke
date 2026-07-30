@@ -1,0 +1,54 @@
+@titulo: cinema-mudo
+@autor:
+@intérprete: Paralamas do Sucesso
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Os Paralamas do Sucesso - Cinema Mudo
+
+E|0-0---------------0-0---|
+B|----2----3-3-0--------2-|
+G|------2--------1--------|
+
+ A            D     E
+Uô le bo le      ô ô ô ô ô ô  (3X)
+  A                 D
+Amor sem palavras
+       E
+Cinema mudo
+ A                 D        E
+   Não falo nada você sabe tudo
+   A  D    E
+   Ô,ô,ô,  ô
+
+   A
+A noite chega
+ D           E
+   Me dá um toque
+ A                D    E
+   Melancolia não dá Ibope
+
+ A    D  E7
+   Ô,ô,ô ô
+
+    A                     D    E
+Eu tenho que aprender a dizer tudo
+        E         A   D  E
+que eu sinto por você
+    A
+Eu tenho que aprender
+     D        E       A  D  E A
+Num desses seriados de TV
+
+     Solo (A D E)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0

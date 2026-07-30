@@ -1,0 +1,82 @@
+@titulo: a-grande-volta
+@autor:
+@intérprete: Charlie Brown Jr
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Charlie Brown Jr. - A Grande Volta
+
+Intro: (D#m C# Bb)
+
+
+A introdução se vcs ouvirem junto com a musica fika mais facil de pegar.
+
+(Introdução antes do solo)
+e|-----------------------------------------------------------------|
+B|-----------------------------------------------------------------|
+G|----------------X--6/8--8-----88---------------------------------|
+D|----------------X--6/8--8-----88---------------------------------|
+A|----------------X--4/6--6-----66---------------------------------|
+E|-----------------------------------------------------------------|
+
+(Riff 1)
+e|-----------------------------------------------------------------|
+B|-----------------------------------------------------------------|
+G|-----------------------------------------------------------------|
+D|-----------------------------------------------------------------|
+A|---999-888-666-------666-------888------6-5-4----------4---------|
+E|----------------9-6-------9-6------9-6----------6-4-6-----6-4-6--|
+
+
+(Riff 1)
+                D#m
+Olha só quem voltou, movimento de valor
+                     C#
+que mostrou porque sabia
+                     Bb
+se ligou que agora é dia
+                    D#m
+Que era sol, que alegria
+vou juntar toda familia
+                      G#m
+Junta os manos, a gataria festa boa vai rolar
+         D#m
+A grande volta que sempre um pra dar
+o gas agora sim
+C#                       Bb
+Esquentou na veia e vira volta a
+coisa ssim
+      D#m
+Noite conta que sempre um pra dar o gás
+agora sim
+C#                       Bb
+esquentou na veia e vira volta a coisa assim
+
+-Refrão -> 2x:
+
+D#m                   F#
+O mel no labio que resseca a boca
+D#m                  F#
+O mel na boca que te deixa louca
+
+
+Repete-> Solinho
+Repete-> Inicio ao fim
+Repete   4x->  (D#m C# Bb)
+Repete-> Refrão
+
+(repete abaixo 4x)
+D#m    F#
+Que te deixa louca
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+C# = X 4 6 6 6 4
+D#m = X X 1 3 4 2
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

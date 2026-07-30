@@ -1,0 +1,50 @@
+@titulo: agnus(1)
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - Agnus
+
+[Intro] C#m  C#m/A  F#m  G
+
+C#m   C#m/A
+Agnus Dei
+     A9               G#
+Qui tollis peccata mundi
+C#m           B9
+Miserere nobis
+F#m        A9  G#
+Miserere nobis
+
+C#m   C#m/A
+Agnus Dei
+     A9               G#
+Qui tollis peccata mundi
+C#m           B9
+Miserere nobis
+F#m         A9  G#
+Miserere nobis
+
+C#m     C#m/A
+Agnus Dei
+
+   F#m          E9        C#m    B9
+Qui tollis peccata mundi
+F#m               G#   E9
+Dona nobis pacem
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+C#m/A = X 0 2 1 2 0
+E9 = 0 2 4 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

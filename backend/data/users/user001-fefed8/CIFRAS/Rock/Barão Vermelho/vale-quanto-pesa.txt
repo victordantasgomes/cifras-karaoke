@@ -1,0 +1,56 @@
+@titulo: vale-quanto-pesa
+@autor:
+@intérprete: Barão Vermelho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Barão Vermelho - Vale quanto pesa
+
+Intro: (Bm7 E7 Bm7 E7) 2x
+
+Bm7           E7             Bm7  E7
+QUANTO VOCÊ GANHA PRA ME ENGANAR
+Bm7           E7              Bm7  E7
+QUANTO VOCÊ PAGA PRA ME VER SOFRER
+Bm7             E7              Bm7
+E QUANTO VOCÊ FORÇA PRA ME DERRETER
+      A                 E
+SOU FORTE FEITO COBRA CORAL
+  A                         E
+SEMENTE BROTA EM QUALQUER LOCAL
+    A                   E       A      E
+UM VELHO NOVO CARTÃO POSTAL, CARTÃO POSTAL
+  D                                    E            Bm7
+AQUELA MADRUGADA DEU EM NADA, DEU EM MUITO, DEU EM SOL
+ D                                      E            Bm7
+AQUELE SEU DESEJO ME DEU MEDO, ME DEU FORÇA, ME DEU MAL
+A7        D7
+AI DE MIM, DE NÓS DOIS
+A7        D7
+AI DE MIM, DE NÓS DOIS
+
+A7                             D7
+VALE QUANTO PESA, REZA A LESA DE NÓS DOIS
+A7         D7          (E7 B7 E7 B7)
+AI DE MIM, DE NÓS DOIS
+E7                                         B7
+TEMOS UM PASSADO JÁ MARCADO NÃO PODEMOS MENTIR
+E7                                        B7
+BEIJOS DEMORADOS AFIRMADOS NÃO PODEMOS MENTIR
+      A                 E
+SOU FORTE FEITO COBRA CORAL...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0

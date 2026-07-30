@@ -1,0 +1,42 @@
+@titulo: flua
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - Flua
+
+    C           G/B          Am     Am/G
+FLUA EM MIM SENHOR A TUA GRAÇA
+  Dm         Dm/C         G
+FLUA EM MIM SENHOR O TEU AMOR
+  C           G/B           Am     Am/G
+FLUA EM MIM SENHOR A TUA VIDA
+    Dm        F/C           C   C/E
+FLUA EM MIM SENHOR O TEU PERDÃO
+  F7+      C/E      Am    Dm      F/G    C   C/E
+PARA TE ADORAR E DECLARAR MEU AMOR
+   F7+   C/E        Am
+PARA TE COROAR MEU REI
+   Dm7     F/G       C9
+SENHOR DA MINHA VIDA
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+Dm7 = X 5 7 5 6 5
+F/C = X 3 3 2 1 1
+F/G = 3 X 3 2 1 X
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

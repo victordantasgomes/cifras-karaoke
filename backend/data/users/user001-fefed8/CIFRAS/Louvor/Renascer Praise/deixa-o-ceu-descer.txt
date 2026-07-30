@@ -1,0 +1,145 @@
+@titulo: deixa-o-ceu-descer
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Deixa o Céu Descer
+
+[Intro] E9  Emaj7  A9  F#m7
+        E9  Emaj7  A9  F#m7
+
+E9                   Emaj7
+Deixa o mover do sobrenatural
+         A9
+Invadir esse lugar
+        F#m7
+Invadir esse lugar
+E9                       Emaj7
+Deixe o ambiente do céu descer
+    A9
+Sobre nós
+    F#m7
+Sobre nós
+
+      A9
+Ó céu se abre
+      F#m7
+E a igreja se rende
+E9            Emaj7
+Perante tua glória
+
+A9     F5+/7M C#
+Ó céu se abre
+     F#m7
+E a igreja canta
+   Esus4    E9       B9     F#m7     B9
+Tua gló.....ria, tua glória, tua glória
+
+A9            B9
+Vejo o céu descer
+        E9          B/C#   C#m7
+Com toda tua glória (gló...ria)
+A9
+Majestade
+B9
+Declaramos
+Esus4   E9  A/C#  B9  F#m7
+San.....to, santo, santo
+
+E9                     Emaj7
+Deixe o mover do sobrenatural
+            A9
+Invadir esse lugar
+             F#m7
+Invadir esse lugar
+E9                     Emaj7
+Deixe o ambiente do céu descer
+     A9
+Sobre nós
+    F#m7
+Sobre nós
+
+       A9
+Os céus se abre
+    F#m7
+E nós nos rendemos
+E9         Emaj7
+Perante tua glória
+A9       F5+/7M C#
+Os céus se abre
+    F#m7
+E nós cantamos
+Esus4       E9        B9    F#m7    B9
+Tua gló.....ria, tua glória, tua glória
+
+A9          B9
+Vejo o céu descer
+        E9          B/C#   C#m7
+Com toda tua glória (gló...ria)
+A9
+Majestade
+B9
+Declaramos
+Esus4   E9   A/C#  B9   F#m7
+San.....to, santo, santo
+
+A9               E9
+Vem agora sobre nós
+          B9
+Com tua glória
+     F#m7
+Com tua glória
+(E/G#) A9        E9
+Vem agora sobre nós
+           B9
+Com tua glória
+         F#m7
+Com tua glória
+(E/G#) A9       E9
+Vem agora sobre nós
+
+B9
+Com tua glória
+  (A  G)  F#m7
+Com tua glória
+(E/G#) A9       E/B
+Vem agora sobre nós
+       B/Eb
+Com tua glória
+       F#m7
+Com tua glória
+
+A9            B9
+Vejo o céu descer
+        E9          B/C#   C#m7
+Com toda tua glória (gló...ria)
+A9
+Majestade
+B9
+Declaramos
+Esus4   E9   A/C#  B9    F#m7
+San.....to, santo, santo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+B/C# = X 6 X 4 7 7
+B/Eb = X 6 X 4 7 7
+B9 = X 2 4 4 2 2
+C# = X 4 6 6 6 4
+C#m7 = X 4 6 4 5 4
+E/B = X 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E9 = 0 2 4 1 0 0
+Emaj7 = X X 2 4 4 4
+Esus4 = 0 2 2 2 0 0
+F#m7 = 2 X 2 2 2 X
+F5+/7M = 1 X 2 2 2 X
+G = 3 2 0 0 0 3

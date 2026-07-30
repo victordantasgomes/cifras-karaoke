@@ -1,0 +1,55 @@
+@titulo: foi
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Foi
+
+Introdução: A E B7 E B7
+
+Verso 1
+                          A
+Chuva cai la fora e molha meu rosto
+                      E
+A saudade dela me faz chorar
+                             B7
+Só tristeza, magoa e cruel desgosto
+                A           E
+Sem saber se um dia ela vai voltar
+
+Verso 2
+                           A
+Quando a noite cai eu saio pra rua
+                              E
+Pra tentar fugir do meu desespero
+                              B7
+Mas tudo que vejo é lembrança sua
+               A                  E      E7
+O ar que eu respiro ainda tem seu cheiro
+
+Refrão:
+A                                     E
+Foi,foi,foi, como a água vai procurando o mar
+                               B7
+Sem dizer Adeus, foi pra não voltar
+             A                 E   E7
+Sem ter compaixão, sem ter piedade
+A                                         E
+Foi, foi, foi, como a vida vai sem se despedir
+                              B7
+Só pra ver ficar quem deixou de ir
+             A                  E
+Sem poder sorrir, morto de saudade
+##Repete introdução + verso 2
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0

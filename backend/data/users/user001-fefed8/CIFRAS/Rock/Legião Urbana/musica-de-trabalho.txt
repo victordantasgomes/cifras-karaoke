@@ -1,0 +1,139 @@
+@titulo: musica-de-trabalho
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Música de Trabalho
+
+Intr.: B  A
+
+Baixo:
+e|------------------------------------|
+B|------------------------------------|
+G|------------------------------------|  
+D|------------------------------------|
+A|-2-2-0-----------5-5-5--------------|
+E|-------2-0--0--0--------------------|
+
+Guitarra:
+
+e|------------------------|
+B|------------------------|
+G|------------------------| 
+D|------------------------|
+A|-5b--7-5----------------|
+E|---------7--5--7-5-5-7--|
+
+   Bm                         E     D
+e|----------------------|------------------|
+B|----------------------|------------------|
+G|----------------------|------------------|  
+D|----------------------|-----------4------|
+A|-5b--7-5--------------|-5b--7-7-7---5----|
+E|---------7--5--7-5-5-7|---------------7--|
+
+
+algumas variações
+
+        Bm
+Sem trabalho eu não sou nada
+Não tenho dignidade
+          E                 D
+Não sinto o meu valor
+        Bm
+Não tenho identidade
+Mas o que eu tenho
+É só um emprego
+E um salário miserável
+        E                 D
+Eu tenho o meu ofício
+          Bm
+Que me cansa de verdade
+      E5        D5      Bm
+Tem gente que não tem nada
+          E5              D5       Bm
+E outros que tem mais do que precisam
+        E5          D5  Bm              A5
+Tem gente que não quer saber de trabalhar
+             D                Em
+Mas quando chega o fim do dia
+        A           D4 D
+Eu só penso em descansar
+        Bm       Em          C      A
+E voltar p'rá casa pros teus braços
+        D                 Em
+Quem sabe esquecer um pouco
+A                  D
+De todo o meu cansaço
+        Bm        Em
+Nossa vida não é boa
+           C          A
+E nem podemos reclamar
+
+[ Introdução ]
+
+        Bm
+Sei que existe injustiça
+Eu sei o que acontece
+Tenho medo da polícia
+Eu sei o que acontece
+     G              F#
+Se você não segue as ordens
+       Bm
+Se você não obedece
+           G          E7
+E não suporta o sofrimento
+D|-9-7--9-7--9-7-...----|
+A|----------------------|
+E|----------------------|
+
+Está destinado a miséria
+
+        G          F#
+Mas isso eu não aceito
+      Bm
+Eu sei o que acontece
+      G            E7
+Mas isso eu não aceito
+      Bm
+Eu sei o que acontece
+            D           Em
+E quando chega o fim do dia
+         A          D4 D
+Eu só penso em descansar
+        Bm      Em           C       A
+E voltar p'rá casa pros teus braços
+        D                  Em
+Quem sabe esquecer um pouco
+       A                  D4 D
+Do pouco que não temos
+        Bm              Em
+Quem sabe esquecer um pouco
+       C                     A
+De tudo que não sabemos
+(D  Em  A  D  Bm  Em  C  A)
+
+
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D5 = X 5 7 7 X X
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

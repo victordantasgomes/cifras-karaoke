@@ -1,0 +1,75 @@
+@titulo: um-pro-outro
+@autor:
+@intérprete: Mr. Gyn
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Mr. Gyn - Um Pro Outro
+
+Intro: D  C  D  C (2x)
+
+G              A            D  D4  D
+   Foi bom te ver de novo aqui
+G           A           D                  G
+   A gente tinha mesmo tanta razão pra seguir
+           Em            C
+   Agora o som dessa guitarra
+          Em
+   A voz sempre rouca
+        C          D    D4   D
+   E o coração na mão
+
+G            A              D  D4  D
+   Surpresa certa te encontrar
+G         A         D                       G
+   A tua onda pega bem mesmo em qualquer lugar
+             Em         C
+   Até na esquina do pecado
+          Em          C           D   D4   D
+   O que for da vida não nos deterá
+
+
+Refrão:
+C              D             Em
+   Nós somos feitos um pro outro
+          C
+   Pode crer
+Am7                B          Em
+   Por isso é que eu estou aqui
+C            D          Em
+   E não há lógica que faça
+         C
+   Desandar
+Am7           B        Em
+   O que o acaso decidir
+
+(Intro)
+
+G            A         D  D4  D
+   Tanta certeza no olhar
+G             A          D              G
+   Tamanha pressa de chegar a nenhum lugar
+           Em         C
+   Só pra ter a sensação
+             Em          C            D     D4   D
+   De que a vida passa assim como um tufão
+
+Refrão (2x)
+
+Introdução
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

@@ -1,0 +1,151 @@
+@titulo: o-teu-amor
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - O Teu Amor
+
+Intro 4x:  G9  Eb  F
+
+Gm            Eb
+  Quantas vezes
+               Gm
+  Olhei pra trás
+  Eb
+  Tentando achar
+             Gm
+  o que perdi
+
+  Confuso,
+       Eb           F/A    Gm
+  Em meio a tantos e|----rros
+
+  Você nunca deixou
+        D#         F  F
+  De cuidar de mi-im
+       D#
+  Na palavras,
+              F F
+  Nos momentos,
+
+        D#
+  Na angústia
+           F F
+  Ou na dor
+     G#     Eb     F
+  Sentia o Teu   amor
+
+D : C9 : D : C9
+
+Dsus4   C9          Dsus4
+O Teu amor me fez ver
+Dsus9          C9
+Me fez ver os Teus caminhos
+Dsus4   C9
+O Teu amor mostrou pra mim
+Dsus9
+Mostrou pra mim
+G#        F
+Amor sem fim
+
+Gm               Eb
+  Foi tão difícil ver
+                 Gm
+  Os meus conceitos
+Gm              Eb              Gm
+  Me afastaram tan--to de Você
+Gm            Eb                 Gm
+  Mas o Teu amor me alcanço----ou
+Gm                      D#  F F
+  Pelo meu nome Você chamou
+        D#            F F
+  Como luz na escuridão
+         D#            F F
+  Com a força da Tua mão
+     G#    D#   F
+  Você me levantou
+
+ Dsus4  C9           Dsus4
+O Teu amor me fez ver
+Dsus9          C9
+Me fez ver os Teus caminhos
+Dsus4   C9              Dsus4
+O Teu amor mostrou pra mim
+Dsus4
+Mostrou pra mim
+
+Bb : F : C : G : Bb : F : G9
+
+G     G9
+Claro como o sol
+    D#   F        G
+É o Teu amor por mim
+         D#         F
+Ao Teu amor vou seguir
+G      G9
+Claro como o sol
+     Eb  F        G
+É o Teu amor por mim
+       D#         F
+Você morreu por mim
+
+       D#         F
+Você morreu por mim
+      D#         F
+Pelo Teu amor
+          D#     F
+Você venceu por mim
+
+Base do Solo: Dsus : C9 : Dsus4 : C9 : Dsus4 : C9 : D : D# : F
+Refão
+base final: G# : D# : Bb : D# : F
+
+
+                    SOLO:
+     Dsus      C9           Dsus
+E|----------------------------8-------------|
+B|----------8b-8~-----6-8-6-8b-8-8-6-6-8-6~-|
+G|-9b-9r-7~--------5/7-7--------------7-----|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+    C9                       Dsus
+E|---------------------------------10---------------------------|
+B|--------------------13b-13r-13b~---13-10----------------------|
+G|-7-5------------------------------------13-12--10h12h13p12p10-|
+D|-----7-5--5--5-5----------------------------------------------|
+A|--------8--5--5-8~--------------------------------------------|
+E|--------------------------------------------------------------|
+
+            C9     D                      D#          F            G
+E|-------------------------------------------------------------| Claro como o sol.....
+B|----------------------------------15-17-18b(2tons)~--18~-15~-|
+G|-10----10----10~~---------14-15-17---------------------------|
+D|----12----12------12-14-15-----------------------------------|
+A|-------------------------------------------------------------|
+E|-------------------------------------------------------------|
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+Dsus = X X 0 2 3 2
+Dsus4 = X X 0 2 3 3
+Dsus9 = X X 0 2 3 0
+Eb = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G9 = 3 X 0 2 0 X
+Gm = 3 5 5 3 3 3

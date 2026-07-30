@@ -1,0 +1,53 @@
+@titulo: a-ele
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - A Ele
+
+Intro: G# D# Fm C#
+
+ Fm                   D#/G
+Aquele que foi manifestado na carne
+G#                   A#m
+Foi justificado em espírito
+       Fm
+Contemplado por anjos
+   D#/G
+Pregado entre os gentios
+G#
+Crido no mundo
+    A#m            C#
+Recebido na glória-aaaa
+
+Refrão
+
+  G#         D#/G
+A Ele seja a glória
+          Fm
+Seja o domínio
+
+        C#
+Seja a adoração
+
+  G#              Cm
+A Ele o louvor de toda a criação
+     Fm              C#
+Pois tudo foi criado por Ele
+                  G#
+E resgatado para Ele
+
+----------------- Acordes -----------------
+A#m = X 1 3 3 2 1
+C# = X 4 6 6 6 4
+Cm = X 3 5 5 4 3
+D# = X 6 5 3 4 3
+D#/G = 3 X 1 3 4 X
+Fm = 1 3 3 1 1 1
+G# = 4 3 1 1 1 4

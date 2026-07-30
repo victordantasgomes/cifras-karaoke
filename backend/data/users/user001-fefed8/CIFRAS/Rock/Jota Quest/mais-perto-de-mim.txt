@@ -1,0 +1,133 @@
+@titulo: mais-perto-de-mim
+@autor:
+@intérprete: Jota Quest
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jota Quest - Mais Perto de Mim
+
+Intro:  F#m  C#m/E  G#m  F#m  C#m/E
+        F#m  C#m/E  F#m
+
+Verso 1:
+  C#m            A                      C#m
+Quem sabe um dia ainda consiga entender
+                       A
+Que o proibido já não basta pra nós
+B             G#m       A
+Um argumento, algo mais
+         B
+Pra dizer
+             G#m    A  F#m       B
+Que permita desatar   nossos nós
+
+Refrão:
+ E     F#m      B               E
+Fidelidade ao amor, é sempre estar assim
+               F#m        B              A        B
+Se estou mais perto de você, estou mais perto de mim
+ E     F#m      B               E
+Fidelidade ao amor, é sempre estar assim
+
+               F#m        B              A
+Se estou mais perto de você, estou mais perto de mim
+
+Verso 2:
+ C#5                A5            C#5
+Lugar comum pra mim, é algo assim
+                     A5         B
+Onde se trai o sentimento maior
+             E5         A5           B5
+E de repente eu não consigo entender
+                   E5     A5      F#5  B5
+Se o que passou podia ser    bem pior
+
+Refrão:
+ E     F#m      B               E
+Fidelidade ao amor, é sempre estar assim
+               F#m        B              A        B
+Se estou mais perto de você, estou mais perto de mim
+ E     F#m      B               E
+Fidelidade ao amor, é sempre estar assim
+               F#m        B              A
+Se estou mais perto de você, estou mais perto de mim
+
+Ponte:
+F#5                     E5      C#5        B
+    E sempre quando chego perto     de alguém
+F#5       E5               C#5  A#5
+Eu posso ver se ela me sorriu
+           B5   G#5
+Com seu coração
+                 C#5                  A5
+Não me diga que não (não me diga que não!)
+
+Solo:
+E|--------------------------------------------------------|
+B|---------9--10--9---------------------------------------|
+G|--9--11-----------9--11--11\4---------------------------|
+D|--------------------------------------------------------|
+A|--------------------------------------------------------|
+E|--------------------------------------------------------|
+
+E|--------------------------------------------------------|
+B|---------9--10--9------12b14--12------------------------|
+G|--9--11------------9-------------11b13--11--------------|
+D|--------------------------------------------------------|
+A|--------------------------------------------------------|
+E|--------------------------------------------------------|
+
+E|--------------------------------------------------------|
+B|---------9--10--9---------------------------------------|
+G|--9--11------------9--11--11--9--11b13--11--9------9--9-|
+D|-----------------------------------------------11-------|
+A|--------------------------------------------------------|
+E|--------------------------------------------------------|
+
+E|---------12---------------------------------------------|
+B|--12b14------b14r12-------------------------------------|
+G|--------------------------------------------------------|
+D|--------------------------------------------------------|
+A|--------------------------------------------------------|
+E|--------------------------------------------------------|
+
+Verso 3:
+  C#m            F#m/A
+Quem sabe um dia ainda consiga entender
+  F#m/C#                             A
+Que o proibido já não basta pra nós
+
+Refrão:
+ E     F#m      B               E
+Fidelidade ao amor, é sempre estar assim
+               F#m        B              A        B
+Se estou mais perto de você, estou mais perto de mim
+ E     F#m      B               E
+Fidelidade ao amor, é sempre estar assim
+               F#m        B              A        B  E
+Se estou mais perto de você, estou mais perto de mim
+
+(Solo)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#5 = X 1 3 3 X X
+A5 = X 0 2 2 X X
+B = X 2 4 4 4 2
+B5 = X 2 4 4 X X
+C#5 = X 4 6 6 X X
+C#m = X 4 6 6 5 4
+C#m/E = X 7 6 6 9 X
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+F#5 = 2 4 4 X X X
+F#m = 2 4 4 2 2 2
+F#m/A = X 0 4 2 2 2
+F#m/C# = X 4 4 2 2 2
+G#5 = 4 6 6 X X X
+G#m = 4 6 6 4 4 4

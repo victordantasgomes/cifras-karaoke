@@ -1,0 +1,108 @@
+@titulo: grande-deus
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Grande Deus
+
+Intro: C  Em7  F9  G4
+       C  Am7  F9  G4  2X
+
+C          Em7  F9
+Grande, todo poderoso Deus
+C             Em7   F9
+Santo, justo, onipotente Deus
+        F9 G   Am7
+Estás acima dos altos céus
+        F9 G   Am7
+Teu nome sobre todos está
+          F9  G   Am7
+Te assentas sobre os querubins
+          Bb9     G4
+Teu trono eterno não passará
+
+Refrão:
+C           Cm(5+)  C4(7/9)  C
+  Levantamos nossas mãos    a        ti
+          Cm(5+)   C4(7/9)    C
+Nossos lábios te ado------ram,     ó Deus
+             Em7      F9
+Nos prostramos aos teus pés, Senhor
+Am7     G
+Pois és Santo
+
+( C  Em7  F9  G4 )
+( C  Am7  F9  G4 )
+
+C          Em7  F9
+Grande, todo poderoso Deus
+C             Em7   F9
+Santo, justo, onipotente Deus
+        F9 G   Am7
+Estás acima dos altos céus
+        F9 G   Am7
+Teu nome sobre todos está
+          F9  G   Am7
+Te assentas sobre os querubins
+          Bb9     G4
+Teu trono eterno não passará
+
+Refrão:
+C           Cm(5+)  C4(7/9)  C
+  Levantamos nossas mãos    a        ti
+          Cm(5+)   C4(7/9)    C
+Nossos lábios te ado------ram,     ó Deus
+             Em7      F9
+Nos prostramos aos teus pés, Senhor
+Am7     G
+Pois és Santo
+
+Solo: C/E  F9  Bb9  F/A  G  G/F
+      C/E  F9  Bb9  F/A  G4
+
+Refrão:
+C           Cm(5+)  C4(7/9)  C
+  Levantamos nossas mãos    a        ti
+          Cm(5+)   C4(7/9)    C
+Nossos lábios te ado------ram,     ó Deus
+             Em7      F9
+Nos prostramos aos teus pés, Senhor
+Am7     G
+Pois és Santo
+
+C/E           Fm7   C/E
+   Levantamos nossas mãos a ti
+          Ab9  Bb9   C
+Nossos lábios te ado--ram,ó Deus
+             Em7      F9
+Nos prostramos aos teus pés, Senhor
+Am7     G
+Pois és Santo
+
+Final: C  Am7  F9(5-) F9 F  F
+       F9 F (4X)
+       F9
+
+----------------- Acordes -----------------
+Ab9 = 4 6 8 5 4 4
+Am7 = X 0 2 0 1 0
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C4(7/9) = X 3 3 3 3 3
+Cm(5+) = X 3 1 1 1 4
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F9 = 1 3 5 2 1 1
+F9(5-) = 1 X 3 0 0 X
+Fm7 = 1 X 1 1 1 X
+G = 3 2 0 0 0 3
+G/F = 1 X X 0 0 3
+G4 = 3 5 5 5 3 3

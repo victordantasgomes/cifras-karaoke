@@ -1,0 +1,92 @@
+@titulo: o-inicio-depois-do-fim
+@autor:
+@intérprete: Frejat
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Frejat - O Início Depois do Fim
+
+Intro: A  G
+
+   A                  G
+Eu já fechei todas as portas
+  A         G
+Arquivos, gavetas
+   A                  G
+Eu já fechei todas as malas
+    A         G
+As contas, os dias
+         D        D4
+Fechei os olhos, a boca
+         D        D4
+Fechei a cara, o corpo
+   A                 G
+Fechado no escuro do quarto
+    A               G
+O início depois do fim
+
+Refrão:
+Bm             D
+O que não cabe mais em mim
+
+A             E
+É bom você saber
+              Bm
+Agora é pra valer
+    D                 A  D
+O início depois do fim
+    A   D             A  D  A  D
+O início depois do fim
+
+  A                  G
+Estou fechado para reformas
+A         G
+Obras, mudanças
+   A            G
+O abraço eu tentei,
+   A           G
+O beijo eu nem sei
+   D           D4
+Os braços, as pernas,
+   D                D4
+As mãos e o meu coração
+   A                 G
+Fechado no escuro do quarto
+    A               G
+O início depois do fim
+
+Refrão
+
+Solo: ( C#m F#m Bm E )
+
+E|------------------14/17----19/24--
+B|----------7/14---------------------
+G|--9/13-----------------------------
+
+   A                  G
+Eu já fechei todas as portas
+  A         G
+Arquivos, gavetas
+   A                  G
+Eu já fechei todas as malas
+    A         G
+As contas, os dias
+
+Refrão
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

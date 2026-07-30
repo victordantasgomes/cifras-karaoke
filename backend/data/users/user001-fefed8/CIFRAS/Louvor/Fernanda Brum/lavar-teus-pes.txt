@@ -1,0 +1,87 @@
+@titulo: lavar-teus-pes
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Lavar Teus Pés
+
+[Intro] G   C   Em   C
+
+G           D/F#     Em               C
+Só eu sei o valor do óleo que tem no vaso
+G                D/F# Em          C
+Vim trazer minha dor, minha adoração
+Am                       G/B          C
+Vim trazer meus dilemas, minha contrição
+Am              G/B     C  G/B Am      G4  G
+Decidi Te encontrar, estou le  vando o vaso
+
+            C   D          G
+Decidi quebrar pra me refazer
+G/B       C    B     Em
+E me derramar foi a decisão
+Bm         C    D            Em
+O melhor lugar hoje eu encontrei
+Bm              Am
+Vou lavar Teus pés
+D              G
+Encontrei meu rei
+
+
+( G   C )
+
+G           D/F#     Em               C
+Só eu sei o valor do óleo que tem no vaso
+G                D/F# Em          C  G/B
+Vim trazer minha dor, minha adoração
+Am                       G/B          C  G/B
+Vim trazer meus dilemas, minha contrição
+Am              G/B     C  G/B Am      G4  G
+Decidi Te encontrar, estou le  vando o vaso
+
+            C   D          G
+Decidi quebrar pra me refazer
+G/B       C    Bsus     Em
+E me derramar foi a decisão
+Bm         C    D            Em
+O melhor lugar hoje eu encontrei
+Bm              Am
+Vou lavar Teus pés
+D              G
+Encontrei meu rei
+
+[Solo] D  E  A
+       C#m  D  C#  F#m
+
+C#m        D    E            F#m
+O melhor lugar hoje eu encontrei
+C#m            Bm
+Vou lavar Teus pés
+E              A
+Encontrei meu rei
+
+[Final] A  D  A  D
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+Bsus = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G4 = 3 5 5 5 3 3

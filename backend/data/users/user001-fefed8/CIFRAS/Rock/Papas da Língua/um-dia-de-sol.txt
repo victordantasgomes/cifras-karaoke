@@ -1,0 +1,57 @@
+@titulo: um-dia-de-sol
+@autor:
+@intérprete: Papas da Língua
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Papas da Língua - Um dia de Sol
+
+(intro) ( G B7 Em G7 C G/B Am7 D )
+
+(verso 1)
+G           B7     Em
+Você falou que não ia fugir
+G7        C
+que não ia desistir
+      G/B       Am       D
+e agora ,simplesmente, sumiu
+
+(verso 2)
+G          B7        Em
+Você deixou de crer no nosso amor
+G7            C
+pensa que não tem valor
+    G/B      Am    D          G
+ e foge nublando, meu dia de sol
+
+(refrão)
+G    B7         Em
+Sol volte a brilhar,
+
+           G7            C
+Só mais um pouco pra eu não chorar
+G/B        Am    D
+Sozinho, num canto. (2x) (volte a brilhar)
+
+(repete verso 2)
+(repete refrão)
+
+(final) Dm G
+UHH....UHH......
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

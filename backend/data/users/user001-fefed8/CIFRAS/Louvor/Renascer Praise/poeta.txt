@@ -1,0 +1,63 @@
+@titulo: poeta
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Poeta
+
+(Estevam Hernandes, Sônia Hernandes e Esdras Gallo)
+
+*Introdução ( G | G | Em | C | C |)
+
+    G             G/B  Em7        Dm9_7  Dbm7
+A alma do poeta  versos vai fazer ,
+C7+           Esus7  E7         Am7             C/D   D
+coisas humanas         inspirações podem ser.
+         G                   F/G             C7+                    F9    F/Eb
+Ao sentir a vóz do Espírito não pode outro tema cantar...
+    G/D Em7                     Am7    C/D    G
+senão no Espírito ao Cristo vivo     lou___var.
+
+D/F#   Em7        C             C/D                 Bm7
+Eu te   louvo , te adoro , te exalto , meu Senhor.
+              Em7             C              C/D                G
+Busco palavras que possam expressar o meu amor.
+D/F#        Em7   C        C/D           Bm7            Em7     C
+Quanto te amo , sempre    te     glorificar , em suas asas    subir,
+    C/D              G
+o mundo não é meu lar.
+
+
+D/F#              C        C/D    Bm7
+Aleluia , aleluia a Cristo louvarei.
+     Em7         C          C/D           G
+Aleluia , aleluia , eternamente louvarei.
+B7   Em7           C            C/D              Bm7
+Ale_luia , aleluia ao meu Senhor e Rei,
+                Em7             C            C/D                G
+Começo agora a te louvar , prá nunca mais parar.
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+C7+ = X 3 2 0 0 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dbm7 = X 4 6 4 5 4
+E7 = 0 2 2 1 3 0
+Em7 = 0 2 2 0 3 0
+F/Eb = X X 1 2 1 1
+F/G = 3 X 3 2 1 X
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X

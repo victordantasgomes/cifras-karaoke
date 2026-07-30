@@ -1,0 +1,58 @@
+@titulo: estacoes
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Estações
+
+Intro: C G Am F
+
+C                G
+O teu rosto espelhou
+Am                  F
+Tudo que eu queria ver
+C                 G
+Na verdade ele mostrou
+Am                 F
+Toda falta em meu ser
+
+                 C
+Cuida do meu coração
+                 G
+Ele esta em suas mãos
+                 Am
+Meio triste e perdido
+               F
+Dê a ele a direção
+                  C
+Daquelas cartas de amor
+
+                  G
+De um outono sonhador
+                   Am
+De um inverno aquecido
+                 F
+Primavera de uma flor
+                  C
+No verão dessa canção...
+
+C              G
+Fiz poesia da dor
+Am             F
+Ambrosia desse fel
+C                   G
+Me entreguei a este amor
+Am                   F
+Contando estrelas no céu
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

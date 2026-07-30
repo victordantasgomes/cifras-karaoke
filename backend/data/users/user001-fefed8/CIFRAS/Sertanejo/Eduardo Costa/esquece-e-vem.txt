@@ -1,0 +1,54 @@
+@titulo: esquece-e-vem
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Esquece e Vem
+
+(intro 4x) A F#m D E
+
+A            F#m              D
+Você contou pra galera toda
+                   E                        A
+Que se apaixonou por mim
+                        F#m                        D
+Mas não tem certeza dos meus sentimentos
+                       E                A
+Não sabe se eu to afim
+                    F#m                D
+Que foi que deu em você?
+                     E                                 A
+Será que não percebe o meu olhar
+
+(ponte 2x)
+                F#m                    D
+Na minha paixão e no beijo meu
+                                E                     A
+O que é que eu faço pra você acredita
+
+
+(refrão)
+A          E
+Eu te amo
+D           E
+Eu te adoro
+A           F#m      D      E
+Eu faço tudo por você
+A        E      D
+Meu coração é seu
+                E             A
+Esquece o medo e vem
+              F#m  D    E            A
+Não tem perigo de me perder meu bem
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

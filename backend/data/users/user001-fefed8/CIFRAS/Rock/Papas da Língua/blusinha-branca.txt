@@ -1,0 +1,101 @@
+@titulo: blusinha-branca
+@autor:
+@intérprete: Papas da Língua
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Papas da Língua - Blusinha Branca
+
+(intro 2x) A  D  C#m  F#7  A  B7  E
+
+(refrão 2x)
+              A
+ De blusinha branca
+ D             C#m
+ De blusinha branca
+ E            F#7
+ Sentada no muro
+              A
+ De blusinha branca
+        B7    E
+ O meu amor namora
+
+(parte 1)
+                  A
+ O amor não tem hora
+             B7
+ O amor pode ser
+                  E
+ Que não seja agora
+
+              A
+ O amor pode ser
+          B7
+ Uma desilusão
+                E
+ Quando bate à porta
+                    A        B7
+ Meu amor não me deixa dormir
+                    C#m
+ Meu amor não me deixa fingir
+
+(2x)
+               F#7
+ Meu amor se esconde
+               A
+ Só Deus sabe onde
+       B7  E
+ É que ele mora
+
+(refrão)
+                  A
+ Quando a chuva começa
+                B7
+ Ela não se apressa
+                E
+ Ela não vai embora
+                 A
+ Deixa a chuva saber
+                     B7
+ Que o seu corpo molhado
+           E
+ Me desespera
+ E7              A              B7
+ Por debaixo da blusa é que está
+            C#m
+ Toda felicidade que há
+
+(2x)
+                   F#7
+ E o que está escondido
+                  A
+ Em sua blusa branca
+    B7     E
+ Me faz suspirar
+
+(refrão)
+(vocalização) A  B7  E  A  B7  E
+
+(repete primeira parte)
+
+(3x)
+              F#7
+ Sentada no muro
+                A
+ De blusinha branca
+        B7    E
+ O meu amor namora
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#7 = 2 4 2 3 2 2

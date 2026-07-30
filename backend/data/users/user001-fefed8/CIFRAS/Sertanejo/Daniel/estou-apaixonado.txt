@@ -1,0 +1,92 @@
+@titulo: estou-apaixonado
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Estou Apaixonado
+
+[Intro]  B  D#7  G#  E  F#
+
+   B
+Quero beber o mel de sua boca
+    E
+Como se fosse uma abelha rainha
+      F#                        F#7              B
+Quero escrever na areia tua história junto com a minha
+    B
+E no acorde doce da guitarra
+          E
+Tocar as notas do meu pensamento
+        F#               F#7                 B
+Em cada verso traduzir as fibras do meu sentimento
+
+       E
+Estou apaixonado
+F#           B  F#/A#  G#m
+E este amor é tão grande
+       E
+Estou apaixonado
+
+   F#             B
+E só penso em você a todo instante
+
+     B
+Eu quero ser o ar que tu respira
+     E
+Eu quero ser o pão que te alimenta
+         F#               F#7                       B
+Eu quero ser a água que refresca, o vinho que te esquenta
+     B
+E se eu cair que caia em teu abraço
+    E
+Se eu morrer, que morra de desejo
+     F#                  F#7                  B
+Adormecer dizendo que te amo e te acordar com beijo
+
+       E
+Estou apaixonado
+F#           B  F#/A#  G#m
+E este amor é tão grande
+       E
+Estou apaixonado
+   F#             B
+E só penso em você a todo instante
+
+ G#m        C#7           F#
+Quero sair contigo em noite enluarada
+       D#7         E
+Dois adolescentes pela madrugada
+        F#           B
+Pra viver a vida sem pensar em nada
+
+       E
+Estou apaixonado
+F#           B  F#/A#  G#m
+E este amor é tão grande
+       E
+Estou apaixonado
+   F#             B
+E só penso em você a todo instante
+       E
+Estou apaixonado
+F#           B  F#/A#  G#m
+E este amor é tão grande
+       E
+Estou apaixonado
+   F#             B
+E só penso em você a todo instante
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D7 = X X 0 2 1 2
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

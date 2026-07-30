@@ -1,0 +1,93 @@
+@titulo: vida-boa
+@autor:
+@intérprete: Victor e Leo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Victor e Leo - Vida Boa
+
+Intro: F#
+
+E|-----------------
+B|--6----7----9----
+G|-----------------
+D|-----------------
+A|--4----6----8----
+E|-----------------
+
+ F#
+Moro num lugar
+                 C#
+Numa casinha inocente do sertão
+                D#m
+De fogo baixo aceso no fogão
+         G#m     C#
+Fogão à lenha ai ai
+ F#
+Tenho tudo aqui
+                  C#
+Umas vaquinha leiteira, um burro bão
+
+               D#m
+Uma baixada ribeira, um violão
+          G#m     C#
+E umas galinha ai ai
+
+ D#m
+Tenho no quintal
+            Bbm
+Uns pé de fruta e de flor
+          G#m
+E no meu peito por amor
+            C#
+Plantei alguém / Plantei alguém
+
+Refrão:
+
+  F#
+Que vida boa
+              C#
+Uôu uôu uôu que vida boa
+        D#m
+Sapo caiu na lagoa
+             G#m             C#
+Sou eu no caminho do meu sertão   (2x)
+
+ F#
+Vez e outra vou
+                 C#
+Na venda do vilarejo pra comprar
+                            D#m
+Sal grosso, cravo e outras coisa que fartar
+         G#m
+Marvada pinga ai ai
+ F#
+Pego o meu burrão
+                    C#
+Faço na estrada a poeira levantar
+                       D#m
+Qualquer tristeza que for não vai passar
+         G#m     C#
+Do mata-burro ai ai
+ D#m
+Galopando vou
+           Bbm
+Depois da curva tem alguém
+           G#m
+Que chamo sempre de "meu bem”
+          C#
+a me esperar / a me esperar
+
+(Refrão 2x)
+
+----------------- Acordes -----------------
+Bbm = X 1 3 3 2 1
+C# = X 4 6 6 6 4
+D#m = X X 1 3 4 2
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

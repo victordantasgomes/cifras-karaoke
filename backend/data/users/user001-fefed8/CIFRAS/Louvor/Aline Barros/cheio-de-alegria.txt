@@ -1,0 +1,45 @@
+@titulo: cheio-de-alegria
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Cheio de Alegria
+
+[Intro] E  C#m  F#m  B
+        E  C#m  F#m  B
+        E  C#m  F#m  B  G#m  C#m  F#m  B
+
+
+E     C#m   F#m
+Ha ha ha ha há
+   B            E  C#m    F#m          B
+Tô cheio de alegria, da alegria do Senhor!
+
+E     C#m   F#m
+Ha ha ha ha há
+   B            G#m  C#m    F#m         B
+Tô cheio de alegria, da alegria do Senhor!
+
+      E                   B                         E
+Tava vazio, tristinho, murchinho, precisando do teu ar!
+  B                                                E
+Achei Jesus, que trouxe alegria para dentro do meu lalalalalalalalar!
+          B                                          C#m
+Hoje tô cheio, tô cheio, tô cheio, muito mais que um balão
+
+       A                         F#m                        B
+E se você quiser se encher de alegria, por favor, levante a mão!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,75 @@
+@titulo: eu-nao-vou-aceitar
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Eu Não Vou Aceitar
+
+Intro:  C  Am7   G
+
+C                   Am7
+Aceito tudo de você, tiro de mim só pra te dar prazer
+C                         Am7
+Troco meu jogo por novela, meu futebol por 100.000 rosas amarelas
+C                                      Am7
+Perde a cabeça sempre que eu esqueço o dia e o mês do primeiro beijo
+C                                   Am7            G          F   C/E Dm7
+E no banheiro sempre reclama do meu jeito de menino que só te ama,
+         C/E             F     C/E Dm7
+meu sentimento não te engana...
+
+         C/E    F                       Fm              F/G
+Você não pode saber, que sou nada sem você e se você partir,
+           C9     G   F         F/G      C9  G  F        F/G     Am7  G  F        F/G     C
+eu não vou aceitaaaaaaar,eu não vou aceitaaaaaaar,eu não vou aceitaaaaaaar, eu não vou aceitar
+
+( C  F9/A ) 2x
+
+C                   Am7
+Aceito tudo de você, tiro de mim só pra te dar prazer
+
+C                         Am7
+Troco meu jogo por novela, meu futebol por 100.000 rosas amarelas
+C                                      Am7
+Perde a cabeça sempre que eu esqueço o dia e o mês do primeiro beijo
+C                                   Am7            G          F   C/E Dm7
+E no banheiro sempre reclama do meu jeito de menino que só te ama,
+         C/E             F     C/E Dm7
+meu sentimento não te engana...
+
+         C/E    F                       Fm              F/G
+Você não pode saber, que sou nada sem você e se você partir,
+           C9     G Em F         F/G    C9  G Em F       F/G     Am7  G Em  F        F/G     C    F9
+eu não vou aceitaaaaaaar,eu não vou aceitaaaaaaar,eu não vou aceitaaaaaaaaaaar, eu não vou aceitar
+               C                         F9                   C                     F9                 C
+eu nao vou aceitar,(Faço tudo por você),     eu nao vou aceitar,(Faço tudo por você)   eu nao vou aceitar,
+                                  Em F9  C
+(tiro de mim só pra te dar prazer).
+
+        F9
+E|------|------|---4-|-----|
+B|---1--|------|-----|-----|
+G|------|---2--|---- |-----|
+D|------|------|---3-|-----|
+A|------|------|-----|-----|
+E|------|------|-----|-----|
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Dm7 = X 5 7 5 6 5
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F/G = 3 X 3 2 1 X
+F9 = 1 3 5 2 1 1
+F9/A = 5 X X 5 6 3
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3

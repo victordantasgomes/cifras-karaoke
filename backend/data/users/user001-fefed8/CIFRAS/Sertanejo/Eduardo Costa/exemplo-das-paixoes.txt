@@ -1,0 +1,81 @@
+@titulo: exemplo-das-paixoes
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Exemplo Das Paixões
+
+(intro)  F  Em  Dm  Am  F  Em  Dm  E4  E7
+
+                 Am                          G
+No papel de cada louco  , eu sou louco por você
+F
+Passo no vermelho dos faróis
+E4                           E7
+Ando em corda bamba, pra te ver
+
+                     Am                         G
+No seu beijo eu viro fera, ou um frágil beija-flor
+F
+Desço das montanhas feito pedras
+                  E7  E4  E7
+Pra ganhar o seu amor
+
+Dm                G
+Mas se eu te perder pobre de mim.
+C7+                         Am
+Vou me transformar num ser qualquer.
+F                   Dm
+Porque aprendi amar você.
+
+E4                E9
+E não vou amar outra mulher
+
+ D/F# E/G#  A       E/G#         F#m     F#m/E
+Uma    paixão assim, É pra enfeitar o céu
+         D       A/C#          Bm
+Pra iluminar o sol, Gritar nas multidões
+       E4          E9           A         E/G#  D/F#  D  E
+E o nosso amor será, o exemplo das paixões
+
+E D/F# E/G#  A    E/G#           F#m   F#m/E
+ Uma   paixão assim, Deus vai abençoar
+            D       A/C#          Bm
+E os anjos vão cantar, em todas as canções
+          E4       E9
+E o nosso amor será
+                              Am
+O amor maior de todas as paixões
+
+F     C/E  C  Dm        E7
+Eu e você,   sonho no olhar
+F          C/E     C  Dm    G        F   Dm   Am
+Se eu quero ser feliz, É só você me amar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+E7 = 0 2 2 1 3 0
+E9 = 0 2 4 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F#m/E = X X 2 2 2 2
+G = 3 2 0 0 0 3

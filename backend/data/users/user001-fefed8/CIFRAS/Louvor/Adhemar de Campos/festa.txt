@@ -1,0 +1,60 @@
+@titulo: festa
+@autor:
+@intérprete: Adhemar de Campos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Adhemar de Campos - Festa
+
+ E  Bm  E
+ 
+ A9        F#m
+   Agora é Festa 
+          D          E     D     E
+   Dentro do meu coração 
+ A9        F#m       D           E
+   A harmonia se expressa na canção 
+ D             E
+   Bendito é aquele que 
+               D
+   Vive em mim 
+               E
+   JESUS Poderoso. 
+ 
+        C#m         F#m 
+   Não existe outro Nome 
+          D       E
+   Digno de Louvor 
+ 
+ A9       F#m        D
+   Maravilhoso, Conselheiro
+           E    D    E
+   E bom Pastor 
+ A9        F#m
+   A cada dia 
+         D           E
+   Me renova o seu Amor 
+ 
+        C#m         F#m
+   Não existe outro Nome 
+          D       E
+   Digno de Louvor 
+        C#m           F#m
+   Toda lingua sim confessa 
+            D        E
+   CRISTO é o Senhor 
+        A9    F#m    A9    F#m    A9
+   Senhor.
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,53 @@
+@titulo: em-nome-do-pai(versão 2)
+@autor:
+@intérprete: Padre Marcelo Rossi
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Padre Marcelo Rossi - Em Nome do Pai
+
+            A   A7
+Em nome do Pai
+           D     Dm
+Em nome do Filho
+             A           E
+Em nome do Espírito Santo
+           A
+Estamos aqui.
+
+            A   A7
+Em nome do pai
+           D     Dm
+Em nome do Filho
+             A           E
+Em nome do Espírito Santo
+           A  (A7)
+Estamos aqui.
+
+         D          E       A       F#m            Bm
+Para Louvar e agradecer, bendizer e adorar, estamos aqui,
+E
+Senhor, a
+
+       A
+Teu dispor.
+         D          E         A       F#m        Bm
+Para louvar e agradecer, bendizer e adorar, Te aclamar,
+E
+Deus trino de
+A
+amor.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

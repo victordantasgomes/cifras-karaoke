@@ -1,0 +1,47 @@
+@titulo: lar-do-ceu
+@autor:
+@intérprete: Harpa Cristã
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Harpa Cristã - Lar do Céu
+
+Estrofe 1:
+
+ D
+ Oh! Pensai nesse lar lá do céu,
+ A                        A7
+ Bem ao lado do rio da luz,
+ D                   D7     G     Gm
+ Onde os santos descansam e gozam
+ D               A        D
+ Da presença de Cristo Jesus.
+
+Refrão:
+
+  A                D    D7
+  Lá do céu! Lá do céu
+          G         D         A    A7
+  Oh! Pensai nesse lar lá do céu!
+  D      D7          G           Gm
+  Lá do céu! Lá do céu!    (Lá do céu!)
+  D                 A          D
+  Oh! Pensai nesse lar lá do céu!
+
+
+Estrofe 2
+Estrofe 3
+Estrofe 4
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

@@ -1,0 +1,55 @@
+@titulo: marcharemos
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Marcharemos
+
+   D   A/C#     Bm         A
+Nos queremos ouvir tua voz 
+   D         G       A
+Teu louvor sempre esteja entre nós 
+     G          A/G
+Queremos ser, Senhor, mais sábios 
+ F#sus4 F#    Bm
+Na verdade e no amor 
+    Em     A       D
+Marcharemos na coragem do Senhor 
+
+   G     A    D
+Marcharemos cheios de coragem 
+   G    A     Bm
+Seguiremos seja onde for 
+    G        A      Bm
+Embora a dor nos cerque na viagem 
+   Em      A       D
+Marcharemos na coragem do Senhor 
+ 
+       D       A/C#    Bm    A
+E quando a escuridão da noite descer 
+    D    G          A
+Queremos só pela graça e fé viver 
+   G         A/G
+Com esperança e com coragem 
+ F#sus4  F#    Bm
+Na alegria ou na dor 
+   Em      A       D
+Marcharemos na coragem do Senhor
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#sus4 = 2 4 4 4 2 2
+G = 3 2 0 0 0 3

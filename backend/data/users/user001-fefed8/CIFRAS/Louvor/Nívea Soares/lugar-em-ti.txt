@@ -1,0 +1,53 @@
+@titulo: lugar-em-ti
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Lugar Em Ti
+
+Intro:C F Am G (4x)
+
+            C9     F          Am    G            C9
+   Há um lugar em ti onde não há temor onde eu quero
+      F       Am   G        C9      F            Am
+   estar pra sempre há uma vida em ti que eu preciso
+     G            C9   F      Am    G (C F Am G)2x
+   ter onde posso adorar pra sempre.
+           C9      F           Am          G
+   Há uma luz que vem dos teus olhos de amor que sara
+    C9   F     Am   G          C9        F     Am    G
+   toda dor da alma. Teu esplendor me atrai a ti Senhor
+               C9  F        Am  G
+   eu quero beber dos teus rios.
+        F                                   Am
+   Não há lugar melhor lugar pra estar que dentro do
+                  F                          Am  G
+   teu coração eu sei que protegido estou em ti.
+  C9                   F   Cm7        Fm          G
+   Eu me vejo em teus olhos pois sou teu somente teu,
+  C9                 F    Cm7        Fm             G
+   tua vida me transforma, quando estou nos braços teus.
+
+               C9 F  Am G
+   Pois tu és Santo,Santo.
+          C9 F  Am  G
+   Tu és Santo,Santo.
+          C9 F  Am  G
+   Tu és Santo,santo.
+          C9 F  Am  G
+   Tu és Santo,Santo.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Cm7 = X 3 5 3 4 3
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3

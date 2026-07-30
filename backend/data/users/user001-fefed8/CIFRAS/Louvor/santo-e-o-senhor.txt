@@ -1,0 +1,35 @@
+@titulo: santo-e-o-senhor
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Santo É o Senhor
+
+ Am     Dm      G           C
+Santo, santo, santo é o Senhor
+ Am          Dm       E7       Am
+Deus do universo, do céu e da terra
+
+ A7 Dm   G  C   Am Dm
+Hosana, hosana, hosana
+ E7   Am
+Nas alturas
+
+   Am         Dm      G         C
+Bendito o que vem em nome do Senhor
+  Am         Dm     E7    Am
+Hosana nas alturas, nas alturas
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+G = 3 2 0 0 0 3

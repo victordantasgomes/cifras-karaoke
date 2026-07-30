@@ -1,0 +1,66 @@
+@titulo: eu-sei
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Eu Sei
+
+Intro: G  D Em,  G  D  Em7
+          G  D  Em7  C,  G  D  Em7  C  G
+
+G                       D Em7                  C
+Enquanto eu viver adorarei ao Rei dos reis, Jesus
+G                    D     Em7    C
+Ele me deu vida eterna e salvação
+G                  D    Em7                       C
+Enquanto eu viver celebrarei as Suas grandes obras
+G           D          C
+Ele restaurou a minha sorte
+
+G   D         Em7           C
+Eu sei que em Deus eu posso confiar
+G          D            C
+Minha vida está em Suas mãos
+G    D      Em7                   C
+Eu sei que Ele me chamou das trevas para
+  G        D             C
+Andar na Sua maravilhosa luz
+
+
+Am              D
+Pelo sangue recebi o seu perdão
+G               C9
+Pelo sangue recebi a salvação
+Am                 D
+Agora estou justificado em Jesus
+         C            Am
+E pela graça vou viver de fé em fé
+         C                 D                                     (E)
+E pela graça vou viver de Glória em Glória
+
+A   E          F#m7          D
+Eu sei que em Deus eu posso confiar
+A           E           D
+Minha vida está em Suas mãos
+A    E       F#m7               D
+Eu sei que Ele me chamou das trevas para
+      A       E           D
+Andar na Sua maravilhosa luz
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

@@ -1,0 +1,118 @@
+@titulo: a-dor-desse-amor
+@autor:
+@intérprete: KLB
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+KLB - A Dor Desse Amor
+
+(intro) C G Am Em F C Dm G
+
+E|---------------------------------------------------------------------------------------------|
+B|---------------------------------------------------------------------------------------------|
+G|-9--12-12-12--10-9----------------9------------------------------------------9-10-10-9-------|
+D|-------------------12-10----10-12---12-10-------10-10-------10-10------10-12-----------12-10-|
+A|-------------------------12---------------10-12-------12-10-------10-8-----------------------|
+E|---------------------------------------------------------------------------------------------|
+
+    C                 G                    Am
+Perdoa se estou te ligando, Amor, neste momento
+              Em               F
+Mas me fazia falta escutar de novo
+              C                 Dm      C     G
+Só por um instante, sua respiração
+    C                        G               Am
+Desculpa, sei que estou quebrando nosso juramento
+                Em                 F
+Sei que existe outro em seu pensamento
+             C                  Dm       G
+Mas meu coração pediu pra te dizer (que)
+
+(parte 2)
+              Am        Em        F     G
+Eu estou morrendo, morrendo por dentro
+              Am      Em           F    G
+É tanta saudade, morando em meu peito
+
+  C       G                 Am
+Vida, devolva minhas fantasias
+      Em               F
+Meu sonho de viver a vida
+    C         Dm      G
+Devolva-me o ar
+
+           C          G                Am
+Sem teu carinho, meu mundo fica tão vazio
+     Em                    F
+Os dias quentes são tão frios
+       C          Dm      G          C
+E as noites me trazem a dor desse amor
+
+(solo) C G/B Am Em D/F# C G7
+
+E|-0-0-3-3-3-1-0-----------0-----------------------------1-0-0-1-----|
+B|---------------3-1---1-3---3-1-----1-1-----1-1-----1-3---------3-1-|
+G|-------------------2-----------0-2-----2-0-----0-------------------|
+D|-------------------------------------------------3-----------------|
+A|-------------------------------------------------------------------|
+E|-------------------------------------------------------------------|
+
+     C                G                       Am
+Queria te dizer que hoje estou de bem com a vida
+               Em              F
+Que não senti nada com sua partida
+              C               Dm    G
+Mas com um só dedo não se tapa o sol
+
+(parte 2)
+
+(solo) Em Am Em F Dm G7 A7
+
+E|-0-3-------0-5-7-8-7-5-3-1-0-------------------------------0-2-3-5-7-9-12-17--|
+B|-----3-1-3-------------------3-1-----0---0-1-0-1-3---0-2-3--------------------|
+G|---------------------------------0-2---2-----------2--------------------------|
+D|------------------------------------------------------------------------------|
+A|------------------------------------------------------------------------------|
+E|------------------------------------------------------------------------------|
+
+(refrão 2x)
+    D       A                 Bm
+Vida, devolva minhas fantasias
+      F#m              G
+Meu sonho de viver a vida
+    D         Em      A
+Devolva-me o ar
+  D          A                Bm
+Sem teu carinho, meu mundo fica tão vazio
+    F#m                   G
+Os dias quentes são tão frios
+      D          Em      A          D
+E as noites me trazem a dor desse amor...
+
+    D                 A                    Bm
+Perdoa se estou te ligando, Amor, neste momento
+              F#m              G
+Mas me fazia falta escutar de novo
+              A                 D
+Só por um instante, sua respiração
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

@@ -1,0 +1,96 @@
+@titulo: toda-terra
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Toda Terra
+
+Intro 2x: E  G  D
+
+  A           C#m
+   Toda Terra está
+A             C#m
+ Cheia da Tua Glória
+A                    C#m
+ Os céus declaram a Tua grandeza
+      B          A
+ Rei meu e Deus meu
+A                 C#m
+ Eu nasci pra Te adorar
+A                  C#m
+ E o teu nome proclamar
+A                  C#m
+ Quero ser um instrumento Teu
+      B          A
+ Rei meu e Deus meu
+
+Refrão:
+E              B9
+ Deus me chamou
+
+             C#m7      A9
+ E eu disse: eis-me aqui
+E             B9
+ Vou Te adorar
+           C#m           A9
+ O meu Prazer é Te servir
+
+A                   C#m
+ Não consigo mais viver
+A                 C#m
+ Um segundo sem Te ter
+A                      C#m
+ Meu coração precisa mais de Ti
+      B          A
+ Rei meu e Deus meu
+A              C#m
+ Meu desejo é estar
+A                   C#m
+ Aos Teus pés e Te adorar
+A                     C#m
+ A minha vida está em tuas mãos
+      B          A
+ Rei meu e Deus meu
+
+F#m            E/G#
+ A Tua vontade é o que eu mais quero
+A                       B
+ Cumpre em mim o Teu querer
+F#m            E/G#
+ A Tua vontade é o que eu mais quero
+A                     B      C
+ Cumpre em mim o Teu querer
+
+Refrão: (Eleva-se o refrão a 1 semiton)
+F              C
+ Deus me chamou
+              Dm7      Bb
+ E eu disse: eis-me aqui
+F             C
+ Vou Te adorar
+         Dm7            Dm C Bb C F
+O meu Prazer é Te servir
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

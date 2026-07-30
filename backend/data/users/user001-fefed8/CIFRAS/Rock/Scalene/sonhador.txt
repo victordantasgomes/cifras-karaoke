@@ -1,0 +1,144 @@
+@titulo: sonhador
+@autor:
+@intérprete: Scalene
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Scalene - Sonhador
+
+Capo Casa 3
+
+Intro:  Em7 E5 A5 E5
+        Em7 A5 G5 (repete)
+
+Verso:
+
+C                 Em
+Sem saber o que vai acontecer
+            C
+Sinto o meu peito arder
+              Em
+Será triste o nosso fim?
+
+C                     Em
+Meu lugar sempre foi ao lado seu
+         C
+Sono desapareceu
+               Em           Em Em7
+Tristes meus lençóis são sim
+
+Pré-Refrão:
+
+
+D                                            E5
+Nessa vida de ilusões eu só posso tentar me defender
+D                                                E5    B7
+Não deixar de acreditar que talvez juntos possa acontecer, então...
+
+Refrão:
+
+Em Esus4 Em
+Ca___n____te
+A    G     Em Esus4 Em A G
+Alto seus sonhos
+
+Em Esus4 Em
+Ca___n____te
+A    G      Em Esus4 Em A G
+Alto seus sonhos
+
+Verso 2:
+
+C                      Em
+Deixe ir, finja simples ser você
+              C
+Dentro do seu peito arder
+         Em        Em Em7
+Somente o que é bom
+
+Pré-Refrão:
+
+D                                          E5
+Nessa vida as ilusões desaparecem juntas aos refrões
+D                                             E5   B7
+Verdadeiramente escritos não feitos apenas pra vender, então...
+
+Refrão:
+
+Em Esus4 Em
+Ca___n____te
+A    G      Em Esus4 Em A G
+Alto seus sonhos
+
+Em Esus4 Em
+Ca___n____te
+A    G      Em Esus4 Em A G
+Alto seus sonhos
+
+Ponte:
+
+G
+____ Uh...
+C
+____ Uh...
+G
+____ Uh...
+C          E5
+____ Uuuuh...
+
+Passagem:
+
+(E5) C5
+Uuuuh...
+(C5) E5
+Uuuuh...
+(E5) C5
+Uuuuh...
+
+E5 Cno5/E
+Can_te...
+Bm/E Cno5/E
+Al___to
+E5 Cno5/E
+Can_te
+Bm/E Cno5/E
+Al___to...
+
+Ponte:
+
+ (Cno5/E) B7   Cmaj7
+Seus    sonhos...
+(Cmaj7)  B7   Cmaj7
+Seus    sonhos...
+(Cmaj7)  B7   Cmaj7
+Seus    sonhos...
+(Cmaj7)  B7   Cmaj7
+Seus    sonhos...
+(Cmaj7)  B7   Cmaj7
+Seus    sonhos...
+(Cmaj7)  B7   Cmaj7
+Seus    sonhos...
+
+Solo: Cmaj7  B7
+
+----------------- Acordes -----------------
+Capotraste na 3ª casa
+A*  = X 0 2 2 2 0 - (*C na forma de A)
+A5*  = X 0 2 2 X X - (*C5 na forma de A5)
+B7*  = X 2 1 2 0 2 - (*D7 na forma de B7)
+Bm/E*  = X X 2 4 3 2 - (*Dm/G na forma de Bm/E)
+C*  = X 3 2 0 1 0 - (*D# na forma de C)
+C5*  = X 3 5 5 X X - (*D#5 na forma de C5)
+Cmaj7*  = X 3 2 0 0 X - (*D#maj7 na forma de Cmaj7)
+D*  = X X 0 2 3 2 - (*F na forma de D)
+E5*  = 0 2 2 X X X - (*G5 na forma de E5)
+Em*  = 0 2 2 0 0 0 - (*Gm na forma de Em)
+Em7*  = 0 2 2 0 3 0 - (*Gm7 na forma de Em7)
+Esus4*  = 0 2 2 2 0 0 - (*Gsus4 na forma de Esus4)
+G*  = 3 2 0 0 0 3 - (*A# na forma de G)
+G5*  = 3 5 5 X X X - (*A#5 na forma de G5)

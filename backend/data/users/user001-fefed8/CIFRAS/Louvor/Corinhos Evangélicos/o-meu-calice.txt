@@ -1,0 +1,41 @@
+@titulo: o-meu-calice
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - O Meu Cálice
+
+ O Meu Cálice
+
+       G               D
+O meu cálice, elevo a ti, Senhor
+      Am       D              G
+Vem enchê-lo; faze-o transbordar
+      G7                     C        Am
+Pai celeste, dá-me sempre o teu poder
+        D                      G
+Vem Senhor minha vida transformar
+
+    G        C        D        G
+Aleluia, Aleluia, Aleluia, Aleluia
+    G        C        D        G
+Aleluia, Aleluia, Aleluia, Aleluia
+
+G   C    D   G    Em  C    D   G
+Aleluia, Aleluia, Aleluia, Aleluia
+G   C    D   G    Em  C    D   G
+Aleluia, Aleluia, Aleluia, Aleluia
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

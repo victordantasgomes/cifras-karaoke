@@ -1,0 +1,141 @@
+@titulo: jesus(versão 2)
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Jesus
+
+[Intro] C#m7  B  E/G#  A
+        C#m7  B  E/G#  A
+
+E|--------4-----------------------|
+B|--5~--7---4--------5-4----------|
+G|---------------4~------6~-------| (2x)
+D|--------------------------------|
+A|--------------------------------|
+E|--------------------------------|
+
+[Primeira Parte]
+
+      C#m7
+Mais doce que o mel
+    G#m/B                       A
+Melhor do que o vinho é o teu amor
+ C#m7
+Tão amável és
+    G#m/B                  A
+Perfume derramado é o Teu nome
+
+
+[Pré-Refrão]
+
+       F#m7          E/G#
+Tua beleza é incomparável
+             C#m7           B4
+Tesouro desejável Tua comunhão
+        F#m7                E/G#
+Tua presença é fogo que consome
+                     C#m7           B4
+Mais forte do que a morte é o Teu amor
+
+[Refrão]
+
+   C#m7  G#m/B
+Jesus
+   E/G#  A
+Jesus
+   C#m7  G#m/B
+Jesus
+   E/G#  A
+Jesus
+
+( C#m7  B  E/G#  A )
+
+E|--------4-----------------------|
+B|--5~--7---4--------5-4----------|
+G|---------------4~------6~-------|
+D|--------------------------------|
+A|--------------------------------|
+E|--------------------------------|
+
+[Primeira Parte]
+
+      C#m7
+Mais doce que o mel
+    G#m/B                       A
+Melhor do que o vinho é o teu amor
+ C#m7
+Tão amável és
+    G#m/B                  A
+Perfume derramado é o Teu nome
+
+[Pré-Refrão]
+
+       F#m7          E/G#
+Tua beleza é incomparável
+             C#m7           B4
+Tesouro desejável Tua comunhão
+        F#m7                E/G#
+Tua presença é fogo que consome
+                     C#m7           B4
+Mais forte do que a morte é o Teu amor
+
+[Refrão]
+
+   C#m7  G#m/B
+Jesus
+   E/G#  A
+Jesus
+   C#m7  G#m/B
+Jesus
+   E/G#  A
+Jesus
+
+( A  B  C#m7  E9 )
+
+[Ponte]
+
+     A
+Eu quero estar contigo
+  B
+Amado da minh'alma
+ C#m7            E9
+Tua noiva clama vem
+     A
+Eu quero estar contigo
+  B
+Amado da minh'alma
+ C#m7            E9
+Tua noiva clama vem
+
+( A  B  C#m7  E9 )
+( A  B  C#m7  E9 )
+
+     A
+Eu quero estar contigo
+  B
+Amado da minh'alma
+ C#m7            E9
+Tua noiva clama vem
+     A
+Eu quero estar contigo
+  B
+Amado da minh'alma
+ C#m7            E9
+Tua noiva clama vem
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+C#m7 = X 4 6 4 5 4
+E/G# = 4 X 2 4 5 X
+E9 = 0 2 4 1 0 0
+F#m7 = 2 X 2 2 2 X
+G#m/B = X 2 X 1 4 4

@@ -1,0 +1,90 @@
+@titulo: amante
+@autor:
+@intérprete: Chitãozinho & Xororó
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Chitãozinho & Xororó - Amante
+
+Intro: F7+  C7+  Dm  G7  C
+
+  C
+Amante, você é a pessoa mais querida
+                 Dm    G7
+Desta vida passageira
+  Dm   G7    Dm                      G7
+Amante,    você é a mulher que eu sonhei
+                       C     Dm G7
+Ter para mim a vida inteira
+  C                                  C7
+Amante, você se entregou de corpo e alma
+                     F
+E eu me dei inteiro pra você
+                              Fm
+Você foi o meu cobertor de inverno
+  Em                   Am7
+A água cristalina que bebi
+  Dm                         G7
+O ar que eu precisava pra viver
+   Dm      G7              C   C7
+Você é o amor que eu descobri
+
+    F
+Eu sei foi uma barra pra você
+   Em                      A7
+Porém o seu amor foi bem maior
+     Dm                     G7
+Que conseguiu num tapa derrubar
+   C                      C7
+O muro que existia entre nós
+   F                        Fm
+Você hoje é amante, amada, amiga
+   Em                         A7
+A briga que eu gosto de enfrentar
+     Dm                      G7
+Bem mais que uma amizade colorida
+     Dm          G7         C   A7
+Que veio de uma vez para ficar.
+  Dm   G7    C
+Amante,    amante
+
+Intro: F7+  C7+  Dm  G7  C
+
+    F
+Eu sei foi uma barra pra você
+   Em                      A7
+Porém o seu amor foi bem maior
+     Dm                     G7
+Que conseguiu num tapa derrubar
+   C                      C7
+O muro que existia entre nós
+   F                        Fm
+Você hoje é amante, amada, amiga
+   Em                         A7
+A briga que eu gosto de enfrentar
+     Dm                      G7
+Bem mais que uma amizade colorida
+     Dm          G7         C   A7
+Que veio de uma vez para ficar.
+  Dm   G7    C
+Amante,    amante
+ Dm     G7    F    Fm C
+Oh! Amante, amante
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+C7+ = X 3 2 0 0 X
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F7+ = 1 X 2 2 1 X
+Fm = 1 3 3 1 1 1
+G7 = 3 5 3 4 3 3

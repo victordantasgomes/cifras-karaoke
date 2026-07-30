@@ -1,0 +1,59 @@
+@titulo: magnifico
+@autor:
+@intérprete: Adhemar de Campos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Adhemar de Campos - Magnífico
+
+     D7+
+Senhor
+         G7+            Em     A7   
+Quão magnifico é o teu nome
+           F#m7    Bm7
+Em toda a terra e céus
+Bm/A Em       A7
+Em todo lugar 
+        G   D7+     
+Tu és soberano 
+
+( B7 )
+
+     E7+
+Senhor
+        A7+             F#m     B7   
+Quão magnifico é o Teu nome
+            G#m7   C#m7
+Em toda a terra e céus
+C#m/B F#m       B7
+Em todo lugar 
+         A  E7+
+Tu és soberano
+
+     F#m       B7
+Em todo lugar 
+         A  E7+
+Tu és soberano
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+A7+ = X 0 2 1 2 0
+B7 = X 2 1 2 0 2
+Bm/A = X 0 4 4 3 X
+Bm7 = X 2 4 2 3 2
+C#m/B = 7 X 6 6 5 X
+C#m7 = X 4 6 4 5 4
+D7+ = X X 0 2 2 2
+E7+ = X X 2 4 4 4
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G#m7 = 4 X 4 4 4 X
+G7+ = 3 X 4 4 3 X

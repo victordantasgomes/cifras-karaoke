@@ -1,0 +1,59 @@
+@titulo: contemplacao
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Contemplação
+
+Intro: A9  D/A
+
+A9           D7+             A/C#          D7+  Gm7(5-) C#7
+Ao acordar, ao respirar, ao ver raiar um novo dia
+F#m7        B7         E9
+Sinto a constância do teu amor
+Em7         A7       D9
+Sinto a presença do teu calor
+Dm7         G7       C9    F7+         D/E E7 Em7 E7
+Sinto tuas mãos a me envolver, oh! Senhor
+
+A9            D7+             A/C#        D7+    Gm7(5-) C#7
+Ao percerber, tenho prazer na criação tão bela e doce
+F#m7       B7       E9
+Vejo a grandeza do teu poder, 
+Em7      A7      D9
+Vejo a beleza do teu querer
+Dm7        G7       C9         F7+       D/E E7 Em7 E7
+Vejo a fraqueza que há em meu ser, oh! Senhor
+
+A9             G/A           D/A             A9
+Quero louvar, quero adorar, quero honrar teu Nome
+A9            Em7           D9           F7+/G  A9
+Quero Te dar todo meu ser, sempre Te bendizer.
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+A9 = X 0 2 2 0 0
+B7 = X 2 1 2 0 2
+C#7 = X 4 3 4 2 X
+C9 = X 3 5 5 3 3
+D/A = X 0 X 2 3 2
+D/E = X X 2 2 3 2
+D7+ = X X 0 2 2 2
+D9 = X X 0 2 3 0
+Dm7 = X 5 7 5 6 5
+E7 = 0 2 2 1 3 0
+E9 = 0 2 4 1 0 0
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+F7+ = 1 X 2 2 1 X
+F7+/G = 3 X 2 2 1 1
+G/A = 5 X 5 4 3 X
+G7 = 3 5 3 4 3 3
+Gm7(5-) = 3 X 3 3 2 X

@@ -1,0 +1,79 @@
+@titulo: sem-direcao
+@autor:
+@intérprete: Rick e Renner
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rick e Renner - Sem Direção
+
+[Intro] Bb  F  Bb  F  C  Bb  F
+
+E|------------------------------------------------------|
+B|------------------------------------------------------|
+G|---------------------------------5--------------------|
+D|-5/7-5----5/7-5-----5/7-5----5-7--7-5-5-7/10--5-3-3---|
+A|------8-5-------8--------8-5--------------------------|
+E|-----------------8------------------------------------|
+
+F                                 Bb
+Sem direção, meu coração, anda perdido
+F                                       Bb
+Seja onde for, por este amor, vive esquecido
+Bb        C             Bb     F     Bb  F
+Dia sem sol, noite sem lua, ferido
+
+F                                         Bb
+Não posso mais, machuca demais, este desacerto
+F                                      Bb
+Pra solidão, já disse não, mas não tem jeito,
+Bb        C                Bb             F      C7
+Vivendo assim, sou alvo do fim, é tiro no peito
+
+
+F        Am7           Dm                       Bb
+Por este amor eu me engano, o que fazer se eu amo
+       Gm      Bb         C
+Quem sabe amanhã vai voltar
+F          Am7          Dm        C        Bb
+Por este amor eu me entrego, eu juro não nego
+    Gm        C              Bb   F
+Preciso desse amor pra caminhar
+
+( Bb  F  Bb  F  C  Bb  F )
+
+E|------------------------------------------------------|
+B|------------------------------------------------------|
+G|---------------------------------5--------------------|
+D|-5/7-5----5/7-5-----5/7-5----5-7--7-5-5-7/10--5-3-3---|
+A|------8-5-------8--------8-5--------------------------|
+E|-----------------8------------------------------------|
+
+F                                         Bb
+Não posso mais, machuca demais, este desacerto
+F                                      Bb
+Pra solidão, já disse não, mas não tem jeito,
+Bb        C                Bb             F      C7
+Vivendo assim, sou alvo do fim, é tiro no peito
+
+F        Am7           Dm                       Bb
+Por este amor eu me engano, o que fazer se eu amo
+       Gm      Bb         C
+Quem sabe amanhã vai voltar
+F          Am7          Dm        C        Bb
+Por este amor eu me entrego, eu juro não nego
+    Gm        C              Bb   F
+Preciso desse amor pra caminhar
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

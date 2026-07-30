@@ -1,0 +1,74 @@
+@titulo: cavalao-ta-doidao
+@autor:
+@intérprete: Rionegro e Solimões
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rionegro e Solimões - Cavalão Tá Doidão
+
+Solo de intro:
+
+     G     Bb     G (arpejado de baixo para cima)
+E|-------------|-3-|
+B|-------------|-3-|
+G|-------------|-0-|
+D|------0/3~~\-|-0-|
+A|----2---1~~\-|-2-|
+E|--3----------|-3-|
+
+Refrão 2x:
+               G
+Cavalão tá doidão
+               Am  C
+Cavalão tá doidão
+                      G
+Tá relinchando e galopando
+                 D
+Tem potranca na pista
+               G
+Cavalão tá chegando
+
+Parte 1:
+G                                   Am  C
+  Cavalão não nasceu pra viver amarrado
+                                     G
+Gosta de pasto novo e de ser bem tratado
+                             C
+Se você deixar o cavalão fechado
+                 G                   D                   G
+Ele vai pular a cerca pra comer o capim que tá do outro lado
+
+(Refrão 2x)
+
+Parte 2:
+G                                    Am  C
+  Cavalão gosta mesmo de viver à vontade
+                                      G
+No meio das potrancas, em plena liberdade
+                            C
+Se você deixar o cavalão sozinho
+                 G                  D
+Ele quebra a porteira e sai na carreira
+               G
+Em busca de carinho
+
+Solo de passagem: C  D  C  D  G
+
+(Falado)
+Tá chegando o cavalão,
+Cavalão tá doidão,
+Galopando de desejo,
+Galopando de paixão!
+
+(Refrão 2x)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3

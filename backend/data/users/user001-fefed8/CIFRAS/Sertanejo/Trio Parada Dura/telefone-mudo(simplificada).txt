@@ -1,0 +1,35 @@
+@titulo: telefone-mudo(simplificada)
+@autor:
+@intérprete: Trio Parada Dura
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trio Parada Dura - Telefone Mudo
+
+     D                                                               A
+Eu quero que risque o meu nome da sua agenda
+    E                             D                           A   A7
+Esqueça o meu telefone não me ligue mais
+  D                                                          A
+Porque já estou cansado de ser o remédio
+                            E                                  D                        A
+Pra curar o seu tédio, quando seus amores não lhe satisfaz
+    E                                             D                             A
+Cansei de ser o seu palhaço, fazer o que sempre quis
+     E                              D                                                    A
+Cansei de curar sua fossa, quando você não se sentia feliz
+         E                             D                       A
+Por isso é que decidi, o meu telefone cortar
+                                     E                       (D)          (E)             A
+Você vai discar várias vezes, telefone mudo não pode chamar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0

@@ -1,0 +1,47 @@
+@titulo: rendemos-gloria
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Rendemos Glória
+
+Intro: G  D/G  C/G  C/D
+
+Verso:
+G               D/G             C/G                     C/D
+Viemos aqui, neste lugar, nos unimos Senhor, só pra te adorar.
+     G           D/G          C/G        C/D          D
+Pois Tú tens, abalado, nossas vidas, por isso Senhor...
+
+Refrão:
+            C/G  G    C/G  G   F#m7/5-      B9+
+Te rendemos gló_ria, gló_ria, a ti   Senhor...
+B7/9-  Em          Em7+        Em7      C#m7/5-          Am7      C/D
+Todo domínio, toda honra, toda força e poder, pertence a Ti,    Jesus
+
+Solo: G  D/G  C/G  C/D
+
+Final:
+D     G  D/G  C/G  C/D
+o Senhor...
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+B7/9- = X 2 1 2 1 X
+B9+ = 7 X 4 7 4 5
+C#m7/5- = X 4 5 4 5 X
+C/D = X X 0 0 1 0
+C/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+D/G = 3 X X 2 3 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+Em7+ = X X 2 4 4 3
+F#m7/5- = 2 X 2 2 1 X
+G = 3 2 0 0 0 3

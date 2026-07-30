@@ -1,0 +1,98 @@
+@titulo: quero-ser-livre
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Quero Ser Livre
+
+Intro: Eb  F/Eb  Eb  F/Eb  Eb  F  Gsus  G
+
+C    G/B  Am      F  Dm    G
+Só o teu amor ...  só o teu  amor
+Em           F
+Sara a minha dor
+   Gsus     G     F/G
+Preenche o meu viver
+C9    G/B    Am    F     Dm  G/F
+Só o teu poder ... só o teu poder
+Em          F
+Quebra as cadeias
+      Gsus     G
+Que prendem o meu ser
+ G     Am  G/B    Am9    Am7  F7M
+Quero ser livre pra adorar
+ G     Am  G/B   Em7     F9
+Quero ser livre pra te amar
+        Dm7              Em7
+E caminhar como um vencedor
+                 F
+Como alguém que já morreu
+
+             1,3 VEZ: Bb9
+     F/G       2 VEZ: C
+Mas em ti    ressuscitou
+
+        C               D
+E as feridas que ninguém vê
+       G           F
+Vem tocar com teu poder
+          Dm         Em
+Me deste vida em abundância
+         Eb7M  F  G  [STOP]
+Quero viver
+
+           Bm9      Bm7  G7M
+Quero ser livre pra ado-rar
+A      Bm  A/C#  F#m7    G9
+Quero ser livre pra te amar
+        Em7              F#m7
+E caminhar como um vencedor
+                 G
+Como alguém que já morreu
+     G/A           D
+Mas em ti ressuscitou
+D/F#             G
+Como alguém que já morreu
+     Asus     A    D
+Mas em ti ressuscitou
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am9 = X 0 2 4 1 0
+Asus = X 0 2 2 2 0
+Bb9 = X 1 3 3 1 1
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Bm9 = X 2 4 6 3 2
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Eb = X 6 5 3 4 3
+Eb7M = X X 1 3 3 3
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F#m7 = 2 X 2 2 2 X
+F/Eb = X X 1 2 1 1
+F/G = 3 X 3 2 1 X
+F7M = 1 X 2 2 1 X
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G/F = 1 X X 0 0 3
+G7M = 3 X 4 4 3 X
+G9 = 3 X 0 2 0 X
+Gsus = 3 2 0 0 0 3

@@ -1,0 +1,178 @@
+@titulo: o-granfino-e-o-caipira
+@autor:
+@intérprete: Victor e Leo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Victor e Leo - O Granfino e o Caipira
+
+(capo 7ª casa)
+
+(intro)
+
+e|-------10-------10-------7-------10--|
+B|---8--------7--------8-------7-------|
+G|-7---7----7---7----9---9---7---7-----|
+D|-------------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+
+(base da intro) C  G  Am
+
+(parte 1)
+              C
+Sou um homem da cidade
+                               F
+To chegando de viagem, vim buscar
+         Dm       F
+Minha moça, meu amor
+        Dm            F          C  G
+A mais linda desse interior
+
+                C
+Sei que aqui há um caipira
+                                   F
+Que os seus olhos não tira da princesa
+              Dm
+Mas eu chego de carrão
+  F                Dm         F   C
+Mostro o bolso e ganho o seu coração
+
+(parte 2)
+B7            Em                      C
+  Sou o tal caipira que o granfino falou
+       Am          C
+Não escondo a questão
+   Am          C          G    B7
+A moça é dona do meu coração
+       Em                          C
+Ele acha que o dinheiro compra o amor
+         Am           C
+Mas se fosse fácil assim
+    Am        C         G
+A moça nem olhava para mim
+
+(refrão)
+                   D
+Enquanto a gente briga por alguém
+         Em
+a gente fica sem ninguém
+                  D
+Apronta, insiste mas no fim das contas
+C       D    G
+a moça desiste
+
+(solo)
+
+(parte 1)
+E|-10----10-12b14r12-10----12b14r12-10----12b14r12---|
+B|----12----------------12-------------12------------|
+G|---------------------------------------------------|
+D|---------------------------------------------------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+E|-10----12b14r12-10---------------------------------|
+B|----12---------------------------------------------|
+G|---------------------------------------------------|
+D|---------------------------------------------------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+(parte 2)
+E|-------10---------------10-10----------------------|
+B|-10/12---------10-10/12----------------------------|
+G|----------9/11-------------------------------------|
+D|---------------------------------------------------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+(parte 3)
+E|---------------------------------------------------|
+B|---------------------------------------------------|
+G|-11p7-7-12p7-7-11p7-7-9p7-7-11p7-7-9p7-7-----------|
+D|-----------------------------------------7-9p7-----|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+            G
+E|----------------10-------10----------------|
+B|--------------------7----7-----------------|
+G|--------------7-------7--7-----------------|
+D|------------7------------7-----------------|
+A|-7-9p7-------------------9-----------------|
+E|-------7-10--------------10----------------|
+
+(depois do solo, a música repete as partes 1 e 2, mas tem a letra diferente)
+
+              C
+Vou fazer de tudo um pouco
+                             F
+Já estou ficando louco de desejo
+              Dm
+Pus o terno e a gravata
+   F           Dm                F          C  G
+(já)Falei com os seus pais mas deu em nada
+            C
+Ô caipira, dá um tempo
+                                F
+Desse jeito não agüento a insistência
+              Dm   F
+Só por causa de você
+       Dm           F       C      B7
+  Ela não decide o que vai ser
+       Em                             C
+Ô granfino, o nosso caso não tem solução
+
+      Am         C
+Ela gosta de cowboy
+     Am              C          G     B7
+Com bota , espora e pinta de herói
+          Em                     C
+Vou selar o meu cavalo e dizer adeus
+          Am        C
+Em seu lugar ia também
+    Am            C             G
+Em busca de quem só lhe queira bem
+
+(refrão final)
+
+(refrão)
+                   D
+Enquanto a gente briga por alguém
+         Em
+a gente fica sem ninguém
+                  D
+Apronta, insiste mas no fim das contas
+C       D    G
+a moça desiste
+
+                  D
+Apronta, insiste mas no fim das contas
+C       D    G
+a moça desiste
+
+(solo final)
+                               G
+E|-12-10-------------------------10----------|
+B|-12----12-8p7------------------7-----------|
+G|-12-----------7-9p7------------7-----------|
+D|--------------------7-9-7------7-----------|
+A|--------------------------9----9-----------|
+E|----------------------------10-10----------|
+
+----------------- Acordes -----------------
+Capotraste na 7ª casa
+Am*  = X 0 2 2 1 0 - (*Em na forma de Am)
+B7*  = X 2 1 2 0 2 - (*F#7 na forma de B7)
+C*  = X 3 2 0 1 0 - (*G na forma de C)
+D*  = X X 0 2 3 2 - (*A na forma de D)
+Dm*  = X X 0 2 3 1 - (*Am na forma de Dm)
+Em*  = 0 2 2 0 0 0 - (*Bm na forma de Em)
+F*  = 1 3 3 2 1 1 - (*C na forma de F)
+G*  = 3 2 0 0 0 3 - (*D na forma de G)

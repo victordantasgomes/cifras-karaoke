@@ -1,0 +1,120 @@
+@titulo: epitafio(simplificada)
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Epitáfio
+
+[Intro] G  D  Em  G  C  Cm  G
+
+[Primeira Parte]
+
+G        D      Em     G
+  Devia ter amado mais
+        C
+Ter chorado mais
+Cm                    G
+  Ter visto o sol nascer
+G        D        Em       G
+  Devia ter arriscado mais
+         C
+E até errado mais
+Cm                             G
+  Ter feito o que eu queria fazer
+
+[Segunda Parte]
+
+C         Cm      G
+  Queria ter aceitado
+
+E        A              D
+  As pessoas como elas são
+C      Cm             G
+  Cada um sabe a alegria
+E      Cm                  G
+  E a dor que traz no coração
+
+[Refrão]
+
+G                      Am
+  O acaso vai me proteger
+         Cm               G
+Enquanto eu andar distraído
+G                      Am
+  O acaso vai me proteger
+         Cm
+Enquanto eu andar
+
+(  G  D  Em  G  C  Cm  G )
+
+[Primeira Parte]
+
+G        D         Em
+  Devia ter complicado menos
+G        C
+  Trabalhado menos
+Cm                    G
+  Ter visto o sol se pôr
+
+G        D           Em
+  Devia ter me importado menos
+G          C
+  Com problemas pequenos
+Cm                 G
+  Ter morrido de amor
+
+[Segunda Parte]
+
+C         Cm      G
+  Queria ter aceitado
+Em   A            D
+  A vida como ela é
+
+C        Cm           G
+  A cada um cabe alegrias
+Em         Cm        G
+  E a tristeza que vier
+
+[Refrão]
+
+G                      Am
+  O acaso vai me proteger
+         Cm               G
+Enquanto eu andar distraído
+G                      Am
+  O acaso vai me proteger
+         Cm
+Enquanto eu andar
+G                      Am
+  O acaso vai me proteger
+         Cm               G
+Enquanto eu andar distraído
+G                      Am
+  O acaso vai me proteger
+         Cm
+Enquanto eu andar
+
+[Primeira Parte]
+
+G        D         Em
+  Devia ter complicado menos
+G        C
+  Trabalhado menos
+Cm                    G
+  Ter visto o sol se pôr
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

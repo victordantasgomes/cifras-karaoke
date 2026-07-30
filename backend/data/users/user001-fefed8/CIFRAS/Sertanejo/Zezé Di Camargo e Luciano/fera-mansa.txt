@@ -1,0 +1,81 @@
+@titulo: fera-mansa
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Zezé Di Camargo e Luciano - Fera Mansa
+
+Introdução base: E E6 (4x)
+
+Introdução:
+e|----0-----------------0-------------------0--------------------------------
+B|------2----0----2---------2----0/2/3--------2----0----2/3----2----0----2---
+
+e|----0-----------------0-------------------0--------------------------------
+B|------2----0----2---------2----0/2/3--------2----0----2/3----2----0----2/0-
+
+E              A                   E    A
+Olhar 45, seu olhar é uma bala de prata
+E                       A               B7
+Andar de puro sangue, linhagem real da paixão
+E                              A
+Me prende em sua mão, faz um carinho essa princesa
+
+     E  A
+me mata
+E                                      B7
+É um touro selvagem na arena do meu coração (coração)
+
+***
+        Seu corpo de viola caipira
+      A
+Que vontade de tocar quando vejo
+   E                            F#m
+Ligada na turbina, peão essa menina
+                B7
+Parece um avião sertanejo
+                E
+Sorriso lindo, boca vermelha
+       A              E
+Muito gata, numa geans bem colada
+                          F#m
+Por ela eu pago a prenda, dou minha fazenda
+           B7         E
+Dou tudo de porteira fechada
+
+   :      E
+   :      Ela é fera, muito fera
+   :               B7                       E
+   :      Fera indomável que no amor não se cansa
+   :                      A
+   :      Pois quando eu jogo o meu laço
+   :                     E
+  R:      Prendo no meu abraço
+  e:                             B7
+  f:      Essa garota vira fera mansa
+  r:      E
+  ã:      Ela é fera, muito fera
+  o:                   B7                   E
+   :      Fera indomável que no amor não se cansa
+   :                       A
+   :      Pois quando eu jogo o meu laço
+   :
+   :      Prendo no meu abraço
+   :       E           B7        E
+   :      Essa garota vira fera mansa
+
+(A  B7  E) 2x    (A  E) 3x    A  B7    Volta***  repete Refrão 2x  e termina (A B7 E) 2x
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+C# = X 4 6 6 6 4
+E = 0 2 2 1 0 0
+E6 = X X 2 4 2 4
+F#m = 2 4 4 2 2 2

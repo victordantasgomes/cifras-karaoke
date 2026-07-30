@@ -1,0 +1,112 @@
+@titulo: diz
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - Diz
+
+Intro:
+
+      Harm....        Harm....
+C |-------------------------------|
+G |-------------------------------|
+Eb|-------------------------------| 7x 
+Bb|-------------------------------|
+F |--------------2---2---2--------|
+C |-0-0-0-0----0---0---0---0------|
+
+Riff 1:
+
+C |-----------------------------------|
+G |-----------------------------------|
+Eb|-----------------------------------|
+Bb|-2-2-2-2----12\11------------------|
+F |-2-2-2-2---------------------------|
+C |-0-0-0-0----10\9---0-9p7--0-10h12--|
+
+Riif 2:
+
+
+C |----------------------------------|
+G |---------------10\9---------------|
+Eb|----------------------------------|
+Bb|-2-2-2-2----7\6-------------------|
+F |-2-2-2-2------------0-9p7---5h7---|
+C |-0-0-0-0--------------------9-----|
+
+Cm
+Palavras são lançadas
+Em algum lugar repousarão
+Levam em si a vida
+Ou vida em morte tornarão
+
+Cm
+Belas palavras
+Podem até esconder a intenção
+E o coração impuro
+Será sondado e cobrado
+
+Cm        Bb          D#        F
+O fruto da palavra que lançou, colherá
+Cm        Am          G#        C#
+Palavras uma vez lançadas, nunca voltarão
+
+Cm  D#             Cm   D#    (Bb C D#    F F# G Bb)
+Diz o que você tem pra dizer
+Cm  D#             Bb    C#
+Diz qual é sua intenção, fale
+Cm  D#             Cm   D#    (Bb C D#    F F# G Bb)
+Diz se há algo de bom
+Cm  D#             Bb    C#                    C  F
+Se isto está em você, fale
+
+(Riff Intro)
+
+Cm
+Lentes distorcem o olhar
+Alteram, turvam a visão
+Trazem à boca o amargo
+O fruto da insatisfação
+
+Cm             Bb
+Se os olhos forem bons
+D#              F
+Então tudo será bom
+Cm           Bb
+São as janelas
+         D#      F
+Que trazem luz ou escuridão
+
+Cm  D#             Cm   D#    (Bb C D#    F F# G Bb)
+Diz o que você tem pra dizer
+Cm  D#             Bb    C#
+Diz qual é sua intenção, fale
+Cm  D#             Cm   D#    (Bb C D#    F F# G Bb)
+Diz se há algo de bom
+Cm  D#             Bb    C#                    C  F
+Se isto está em você, fale
+
+Solo de Baixo: Cm  Bb
+Todos os instrumentos: Cm  Bb
+
+(Refrão)
+
+(Riff Intro)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+Cm = X 3 5 5 4 3
+D# = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

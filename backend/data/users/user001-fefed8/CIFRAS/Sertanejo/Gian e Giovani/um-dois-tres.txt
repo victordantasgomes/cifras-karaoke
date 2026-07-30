@@ -1,0 +1,66 @@
+@titulo: um-dois-tres
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Um,dois,três
+
+Introdução:D A7 D A7 D
+
+                             A7
+De uma cachaça boa não abro mão
+                              D
+Comigo briga tem que ser no braço
+                            A7
+Só obedeço as ordens do coração
+                             D
+Tudo que vem na cabeça eu faço
+                    G
+Já montei cavalo bravo
+      A7               D
+Conquistei muitas mulheres
+                   Em
+Dei a volta pelo mundo
+      A7          D
+Acreditem se quiserem
+                    G
+Pra chegar onde cheguei
+       A7       D
+Abri mão da vaidade
+
+     Bm           Em
+E passar o que passei
+               A7        D
+Tem que ter força de vontade
+                         G
+Não me arrependo do que fiz
+   A7           D
+Faria tudo de novo
+        Bm      Em
+Pra chegar até aqui
+          A7              D
+Sorrir,cantar para o meu povo
+
+   ____
+ R:                            A7
+ e: Vamos dar as mãos um,dois,três
+ f:                             D
+ r: Quem errar o passo perde a vez
+ ã:                        G
+ o: Quero ouvir todos cantando
+  :               A7               D
+  : E quem disafinar cante outra vez
+  :_____
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

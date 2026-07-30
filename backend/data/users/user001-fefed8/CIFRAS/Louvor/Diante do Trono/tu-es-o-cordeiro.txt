@@ -1,0 +1,104 @@
+@titulo: tu-es-o-cordeiro
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Tu És o Cordeiro
+
+Intro:  ( F/Bb   Bb  F/D   Bb/D   Eb9  Eb/G   F/A )
+          ( F/Bb   Bb  F/D   Bb/D   Eb9  Eb9 )
+
+      F/Bb  Bb                     F/G  Gm7   Eb9                        Fsus
+Cordeiro, tu és o cordeiro        sacrificado por mim
+          Gm7                          Eb                   Fsus      F
+Tu és digno de todo louvor e adoração
+      F/Bb    Bb                    F/G  Gm7   Eb9                              Dsus
+Teu sangue, precioso sangue,   foi derramado por mim
+       D7/F#     Gm7                             Eb
+E abriu o caminho, eu posso entrar
+                        Cm7    F/A                          Eb9      Eb/G      F/A
+No santo dos santos       venho adorar
+
+     Bb                    Bbsus                  Gm7         Dm7    Eb
+Jesus, és maravilhoso, não há outro igual a ti
+Bb/D  C              G/B   Am7
+Jesus, te amo, te louvo
+           Gm7        Eb/Bb     Fsus    F
+Minha vida pertence a ti
+    Bb                      F/A   Gm7
+Jesus, tu me perdoaste
+
+         Dm7                           Eb
+Nova vida encontro em ti
+    Bb                           F/A                  Estrofe:    Eb/G         Eb/F
+                                                        Tag/Coro:    Eb/G        F/A
+                                                            ponte:    eb2
+Jesus, precioso jesus, tu és o cordeiro
+
+Ponte:   Eb/G    F/A     Dm7     Eb9    Eb9  )
+
+      Dm7                        Eb9
+Morreste em meu lugar
+       Gm7       F/A              Dm7     Eb7M
+Na cruz sofreste pra me salvar
+   Cm7                     F                        Fsus    F
+Levando a minha dor e o meu pecado
+Cm7                         F            Fsus   F
+Por tuas chagas eu fui sarado
+
+    G                           C2                    Em7       Bm7     C
+Jesus, és maravilhoso, não há outro igual a ti
+G/B  A                E/G#   F#m7
+Jesus, te amo, te louvo
+           Em7        C/G        Dsus     D
+Minha vida pertence a ti
+    G                      D/F#   Em7
+Jesus, tu me perdoaste
+         Bm7                            C
+Nova vida encontro em ti
+
+TAG:(G                          D                            C/E          D/F#)
+FIM: (G                          D                            C2            G)
+Jesus, precioso jesus, tu és o cordeiro
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+Bb/D = X 5 X 3 6 6
+Bbsus = X 1 3 3 3 1
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+C2 = X 3 5 5 3 3
+Cm7 = X 3 5 3 4 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7/F# = X X 4 5 3 5
+Dm7 = X 5 7 5 6 5
+Dsus = X X 0 2 3 2
+E/G# = 4 X 2 4 5 X
+Eb = X 6 5 3 4 3
+Eb/Bb = X X 8 8 8 6
+Eb/F = X 8 8 8 8 X
+Eb/G = 3 X 1 3 4 X
+Eb7M = X X 1 3 3 3
+Eb9 = X 6 8 8 6 6
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F#m7 = 2 X 2 2 2 X
+F/A = 5 X 3 5 6 X
+F/Bb = X 1 3 2 1 1
+F/D = X X 0 5 6 5
+F/G = 3 X 3 2 1 X
+Fsus = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+Gm7 = 3 X 3 3 3 X

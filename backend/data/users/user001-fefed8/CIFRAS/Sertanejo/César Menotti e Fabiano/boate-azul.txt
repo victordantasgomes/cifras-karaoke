@@ -1,0 +1,68 @@
+@titulo: boate-azul
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Boate Azul
+
+Intro: C C7 Fm Bb7 Eb Cm Fm G7 C7 Fm Bb7 Eb Cm Fm G7 Cm
+
+   Cm                                      Bb
+Doente de amor procurei remédio na vida noturna com a
+          Ab                              G7
+flor da noite em uma boate aqui na zona sul, a dor do
+  Fm                                 Cm
+ amor e com outro amor que a gente cura, vim curar a
+ G7                             Cm
+dor deste mal de amor na boate azul
+
+(parte 2)
+  C7          Fm
+ e quando a noite
+                                 Cm
+vai se agonizando no clarão da aurora
+       G7
+ os integrantes da
+                         Cm  C7              Fm
+vida noturna se foram dormir    e a dama da noite que estava
+                    Cm                      Ab
+comigo também foi embora , fecharam-se as portas
+
+            G7             C
+sozinho de novo tive que sair
+
+(refrão)
+C                     G7
+   sair de que jeito, se nem
+       F              C
+sei o rumo para onde vou muito vagamente me lembro
+      G7           F                 C
+que estou em uma boate aqui na zona sul eu bebi
+   G7
+demais
+          F                  C
+e não consigo me lembrar se quer qual é o nome
+          G7           F            G    C
+daquela mulher a flor da noite na boate azul.
+
+(repete parte 2)
+(repete refrão)
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Bb = X 1 3 3 3 1
+Bb7 = X 1 3 1 3 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Cm = X 3 5 5 4 3
+Eb = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

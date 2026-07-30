@@ -1,0 +1,114 @@
+@titulo: a-outra
+@autor:
+@intérprete: Los Hermanos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Los Hermanos - A Outra
+
+[Intro] F#m7  Bm6
+
+E|--------------------------------------------------------------|
+B|--------------------------------------------------------------|
+G|--------------------------------------------------------------|
+D|-------------------------2--0---------------------------------|
+A|----------4--4--2-----2--------4----------4--4--2------2--0---|
+E|-2---x-2--------------------------2---x-2---------5--4------2-|
+
+F#m7  Bm6          F#m7  E7/9
+Paz,      eu quero paz
+         A7M          C#7        F#m7     F#7 F#7/G# F#7/A#
+Já me cansei de ser a última a saber de ti
+    Bm7        C#7
+Se todo mundo sabe
+         Bm7           Dº
+Quem te faz chegar mais tarde
+          Bm7         E7
+Eu já cansei de imaginar
+         A7M
+Você com ela
+
+         Bbm7/5b       D        D/E Fº
+Diz pra mim se vale a pena, amor
+  F°/E      F#m7
+A gente ria tanto
+        Fº         F#m7
+Desses nossos desencontros
+       Dº           Bm7
+Mas você passou do ponto
+            E  E/F Fº  F#m7  Bm6
+E agora eu já não sei mais
+
+          F#m7  E7/9
+Eu quero paz
+          A7M           C#7
+Quero dançar com outro par
+        F#m      F#7 F#7/G# F#7/A#
+Pra variar, amor
+     Bm7            C#7
+Não dá mais pra fingir
+               Bm7
+Que ainda não vi
+      Dº               Bm7
+As cicatrizes que ela fez
+          E7           A7M        Bbm7/5b
+Se desta vez ela é senhora deste amor
+           D    D/E   Fº F°/E
+Pois vá embora, por favor
+           Ebº           C#7
+Que não demora pra essa dor
+
+   F#m7  Bm6  F#m7
+Sangrar
+
+( F#m7  Bm6  F#m7 )
+( E  A7M  C#7  F#m7  F#7 )
+
+     Bm7            C#7
+Não dá mais pra fingir
+               Bm7
+Que ainda não vi
+      Dº               Bm7
+As cicatrizes que ela fez
+          E7         A7M         Bbm7/5b
+Se desta vez ela é senhora deste amor
+           D    D/E   Fº  F°/E
+pois vá embora, por favor
+           Ebº           C#7
+Que não demora pra essa dor
+     F#m7
+Sangrar
+
+[Solo] F#m  Bm6
+
+E|-----------------------------------------------------------------------------------------|
+B|-----------------------------------------------------------------------------------------|
+G|-----------------------------------------------------------------------------------------|
+D|-----------------------------------------------------------------------------------------|
+A|---------------------4-7-5-4-5-7--5-4-2-0-0-2-4-0---2--0---2-0---2-0---------------------|
+E|-0-2-2-0-2-0-2-4-5-7------------------------------2------2-----2-----2-0-4-2-0-4-2-0-4-2-|
+
+----------------- Acordes -----------------
+A7M = X 0 2 1 2 0
+Bbm7/5b = X 1 2 1 2 X
+Bm6 = 7 X 6 7 7 X
+Bm7 = X 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+Dº = X X 0 1 0 1
+E = 0 2 2 1 0 0
+E/F = 1 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+E7/9 = X X 2 1 3 2
+Ebº = X X 1 2 1 2
+F#7 = 2 4 2 3 2 2
+F#7/A# = 6 X 4 6 5 X
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+Fº = X X 3 4 3 4

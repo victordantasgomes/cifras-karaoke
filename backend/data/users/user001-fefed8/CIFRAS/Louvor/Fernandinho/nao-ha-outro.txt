@@ -1,0 +1,61 @@
+@titulo: nao-ha-outro
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Não Há Outro
+
+Intro.:G C9 Em D G C9  2x
+
+          G
+Não há outro lugar,
+                            C9
+não há outra pessoa que eu queira ver.
+          G
+Não há outro abraço,
+                             C9
+não há outro perfume que eu queira sentir.
+         G/B       Am7   D                        Bm7   Em
+Doce nome de Jesus, amável nome de Jesus.
+        Am7       D         G
+Eu não posso  viver sem ti.
+                 Am7    D            Bm7             Em
+Doce nome de Jesus, amável nome de Jesus.
+          Am7   D/G                     G    C9  Em  D  G  C9
+Meu amigo,   meu bom pastor.
+
+          G
+Não há outro lugar,
+
+                           C9
+não há outra pessoa que eu queira ver.
+              G
+Não há outro abraço,
+                             C9
+não há outro perfume que eu queira sentir.
+      G/B       Am7     D            Bm7              Em
+Doce nome de Jesus, amável nome de Jesus.
+        Am7         D       G
+Eu não posso   viver sem ti.
+              Am7     D     Bm7               Em
+Doce nome de Jesus, amável nome de Jesus.
+       Am7        D/G                   G
+Meu amigo,   meu bom pastor.
+
+Final: C9  Em  D  G  C9  G  C9  Em  D  G  C9
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/G = 3 X X 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

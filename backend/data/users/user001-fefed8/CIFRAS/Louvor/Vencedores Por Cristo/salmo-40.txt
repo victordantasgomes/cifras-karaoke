@@ -1,0 +1,71 @@
+@titulo: salmo-40
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Salmo 40
+
+[Intro] D  D/C  G  A4  D
+
+     D      D/C  Bm    A4     D 
+Esperei confiantemente no Senhor
+  G            D        A4  A7
+E Ele se inclinou para mim  
+       F#m7           Bm        G  Gm
+E me ouviu quando clamei por socor-ro
+        D             A7        G   D
+E me ouviu quando clamei por socor-ro
+
+[Refrão]
+
+G            A/G        F#m7      G7M 
+E me pôs nos lábios uma no--va canção
+   Em7          A7           D7M   A4 A7
+Um hi-no de louvor ano nosso Deus
+D        D#º        G           E7     D              D4
+Muitos verão essas coisas com temor e confiarão no Senhor!
+
+( D  D/C  G  A4  D )
+
+   D           D/C        G     A4    D 
+Tirou-me de um po--ço de lama e perdição
+     G         D          A4 A7
+Colocou-me os pés sobre a rocha
+   F#m7    Bm      G  Gm
+E  me  firmou os pas-sos
+  D     A4     A7   D  
+E me firmou os pas-sos
+
+[Refrão]
+
+G            A/G        F#m7       G
+E me pôs nos lábios uma no--va canção
+   Em7         A7            D7M   A7  
+Um hi-no de louvor ano nosso Deus
+D        D/C        G           E7     D        A4    A7  D4
+Muitos verão essas coisas com temor e confiarão no Senhor!
+D        D#º        G           E7     D        A4    A7 D4 D 
+Muitos verão essas coisas com temor e confiarão no Senhor!
+
+----------------- Acordes -----------------
+A/G = 3 X 2 2 2 X
+A4 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D#º = X X 1 2 1 2
+D/C = X 3 X 2 3 2
+D4 = X X 0 2 3 3
+D7M = X X 0 2 2 2
+E7 = 0 2 2 1 3 0
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G7M = 3 X 4 4 3 X
+Gm = 3 5 5 3 3 3

@@ -1,0 +1,78 @@
+@titulo: meu-salvador
+@autor:
+@intérprete: Gabriela Rocha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gabriela Rocha - Meu Salvador
+
+Intro: A5 E5 B5 C#m B5 (3x)
+       A5 E5 B5 C#m
+
+          A          E
+O mundo não é o meu lugar
+           C#m          B
+No céu de luz eu vou morar
+            A            E
+Eu vou cumprir minha missão
+          C#m          B
+Levar ao mundo a salvação
+
+Refrão:
+ C#m  B/D#    E5
+Jesus, és meu salvador
+       A5    C#m        B5
+Tudo que eu sou vem de ti
+                  A5   B5         C#m      B/D#
+Eu vou gritar ao mundo     que tu és amor
+        E5          A5         B5
+Que contigo eu vou     habitar no céu pra sempre
+
+
+Intro: A5 E5 B5 C#m B5 (2x)
+
+              A5            E5
+E hoje posso ser livre então
+       C#m              B5
+A sua morte não foi em vão
+           A5           E5
+Os meus pecados ele lavou
+            C#m          B5
+Na cruz morreu e me salvou
+
+Refrão:
+ C#m  B/D#    E5
+Jesus, és meu salvador
+       A5    C#m        B5
+Tudo que eu sou vem de ti
+                  A5   B5         C#m      B/D#
+Eu vou gritar ao mundo     que tu és amor
+        E5          A5         B5
+Que contigo eu vou     habitar no céu pra sempre
+
+(A E B F#m A E B)
+
+     A     E          B         F#m
+Pra sempre    lá no céu eu estarei
+     A     E         B
+Pra sempre    vou viver com o meu rei
+     A     E         B         F#m
+Pra sempre    santo santo vou cantar
+      A    E         B
+Com Cristo     para sempre vou morar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B5 = X 2 4 4 X X
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+F#m = 2 4 4 2 2 2

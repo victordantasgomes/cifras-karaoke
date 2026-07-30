@@ -1,0 +1,142 @@
+@titulo: uma-chance
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nx Zero - Uma Chance
+
+Riff:1:
+e|------7----
+B|---555-554-
+G|-----------
+
+Riff 2:
+
+e|-5--4--7---5/4-5--4--7---5/4-5--4--7---5/4-5~~--
+B|------------------------------------------------
+G|------------------------------------------------
+
+Riff 3:
+
+e|-4/5-4---------5-7--4^---4/5-4--------
+B|-------5-7~~-------------------5-7~~--
+G|--------------------------------------
+
+Intro: Riff 1
+
+Acompanha riff 1:
+
+
+B-C#m            B-E
+I hope someday will come
+B-C#m             B-E
+Faking feelings on my own
+
+
+Acompanha Riff 2:
+
+B-C#m
+Dead days on cold
+  B-E
+All alone
+When it's over
+B-C#m                B-E
+I'm sure she's not the one
+
+
+Acompanha Riff 3:
+
+C#m                  E
+Feche os olhos faça suas preces
+C#m               B7
+Acredite no que ninguém vê
+
+
+Refrão:
+Acompanha Riff 1
+A                    E
+Uma chance... Não desisto de tentar
+       B7      C#m
+Vem aqui, tenho algo pra falar
+
+Acompanha Riff 2
+A                        E
+Sei que não é fácil encarar a traição
+        A             E
+Machuca eu sei, é verdade
+
+B
+Cego?
+Sim sou eu,
+        G#m
+Certa é você!
+                       F#
+Ouça o que eu tenho a dizer
+          E
+Minhas palavras não te fazem nem pensar x2
+
+Riff 1 (B, C#, B, E)
+
+
+(baixo)
+C#m               E
+E de novo eu tentei...
+C#m                     B7
+Mesmo assim não consegui
+
+
+Acompanha Riff 1:
+A                    E
+Uma chance... Não desisto de tentar
+       B7        C#m
+Vem aqui, tenho algo pra falar
+
+Riff 2:
+A                        E
+Sei que não é fácil encarar a traição
+A                     E
+Machuca eu sei, é verdade
+
+Riff 1(abafado)
+RIff 1
+
+
+A               E
+Eu só queria...uma chance
+Eu só queria...uma chance
+Eu só queria...uma chance
+Eu só queria...
+
+B
+Cego?
+Sim sou eu,
+        G#m
+Certa é você!
+                       F#
+Ouça o que eu tenho a dizer
+          E
+Minhas palavras não te fazem nem pensar
+
+C#m               E
+E de novo eu tentei...
+C#m                     B9
+Mesmo assim não consegui
+
+Repete refrao
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+B9 = X 2 4 4 2 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

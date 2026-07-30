@@ -1,0 +1,105 @@
+@titulo: lixo-e-o-luxo
+@autor:
+@intérprete: Charlie Brown Jr
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Charlie Brown Jr. - Lixo e o Luxo
+
+Intro: C#9   D#m/E (4x)
+
+C#9                   E           C#9
+Não vou mais me importar falar de mim
+              E              C#9
+eu sou, eu nasci, me criei assim.
+                   E                     C#9
+Estar com quem eu gosto é o que me faz feliz
+              E
+Eu conheço o lixo e o luxo
+   D#m                  D#m/E
+Eu sei quanto vale uma vida
+                   D#m         D#m/E
+Eu vivo a vida, eu vivo a vida, ela deve ser
+  D#m D#m/E          D#m   D#m/E
+vivida com liberdade.
+
+C#9                             A9   E  F#m
+Eu ja fiz a guerra eu ja fiz a paz.
+C#9                             A9   E  F#m
+Eu ja fiz a guerra eu ja fiz a paz.
+
+         C#9
+Eu sou o lixo e sou o luxo, sou o ódio
+  A9          E  F#m
+e sou o amor.
+         C#9
+Eu sou o lixo e sou o luxo, sou o ódio
+  A9          E  F#m
+e sou o amor.
+
+[REPETE INTRO]
+
+C#9                   E           C#9
+Não vou mais me importar falar de mim
+              E              C#9
+eu sou, eu nasci, me criei assim.
+                   E                     C#9
+Estar com quem eu gosto é o que me faz feliz
+              E
+Eu conheço o lixo e o luxo
+   D#m                  D#m/E
+Eu sei quanto vale uma vida
+                   D#m         D#m/E
+Eu vivo a vida, eu vivo a vida, ela deve ser
+  D#m D#m/E          D#m   D#m/E
+vivida com liberdade.
+
+C#9                             A9   E  F#m
+Eu ja fiz a guerra eu ja fiz a paz.
+C#9                             A9   E  F#m
+Eu ja fiz a guerra eu ja fiz a paz.
+         C#9
+Eu sou o lixo e sou o luxo, sou o ódio
+  A9          E  F#m
+e sou o amor.
+         C#9
+Eu sou o lixo e sou o luxo, sou o ódio
+  A9          E  F#m
+e sou o amor.
+
+
+F#m
+Sede de vida
+       A9               E
+tantos sonhos estranhos
+     F#m                          B9
+Aprendendo a lidar com as perdas
+    A9                    E
+correndo atras dos ganhos
+   F#m            B9
+vivemos e amamos
+      A9          E
+de maneira errada
+           F#m             B9
+ganhando a vida no mundão
+           A9             E
+vivendo a vida na estrada
+
+(C#m,D#m/E)
+Oh! liberdade...
+Oh! liberdade...
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+C#9 = X 4 6 6 4 4
+C#m = X 4 6 6 5 4
+D#m = X X 1 3 4 2
+D#m/E = X X 2 3 4 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

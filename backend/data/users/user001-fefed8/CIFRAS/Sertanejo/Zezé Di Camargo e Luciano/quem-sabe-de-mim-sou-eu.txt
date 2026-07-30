@@ -1,0 +1,64 @@
+@titulo: quem-sabe-de-mim-sou-eu
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Quem Sabe de Mim Sou Eu
+
+Intro: F# G#m C# F# B C#
+
+   F#
+Alguém veio me dizer
+                             C#
+Que estou amando a pessoa errada
+Tentado me convencer
+            B
+Que essa paixão
+         C#    F#
+Não vai dar em nada
+Que esse amor é proibido
+                             C#
+É caso perdido é final de estrada
+    G#
+Que pra não me arrepender
+                            C#      B A#m G#m
+O melhor pra mim é esquecer você
+
+  F#
+Ninguém consegue entender que amo você
+
+          C#
+Acima de tudo
+Que sou capaz de sofrer
+              B        C#       F#
+Pra não te perder eu enfrento o mundo
+Mas pra mim não interessa
+                     C#
+Não dou conversa, opinião
+      G#
+Quem sabe de mim sou eu
+                         C#       B A#m C#
+E o que já sofreu o meu coração
+
+F#                                       :
+Ah, quem vai decidir se eu fico ou não   :
+               C#                        :
+Com esse amor sou eu                     :  2 Vezes
+                                         :
+Ah, quem vai descobrir se amor é bom     :
+        F#                               :
+Ou ruim sou eu                           :
+
+----------------- Acordes -----------------
+A#m = X 1 3 3 2 1
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+F# = 2 4 4 3 2 2
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4

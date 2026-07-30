@@ -1,0 +1,115 @@
+@titulo: carpe-diem
+@autor:
+@intérprete: Fresno
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fresno - Carpe Diem
+
+(intro) Dm7
+
+               Bb             F
+Eu não sei porque vou envelhecer
+            A                   Dm
+Se é bem assim que eu quero morrer
+              Bb            F
+Dormindo não vou me desfalecer
+                    C       C#           Dm
+Pois quando eu for velho eu não vou mais ter
+
+   Dm                 Bb                 F                   C         C#
+E|--------------------------------------------------------------------------|
+B|--------------------------------------------------------------------------|
+G|--------------------------------------------------------------------------|
+D|--------------------------------------------------------------------------|
+A|-5-5-5-5-5--5-7-8--1-1-1-1-1-1-1-1-1-1---------------------3-3-3-3-3-4-4--|
+E|---------------------------------------1-1-1-1-1-1-1-1-1-1----------------|
+
+Razão pra viver, um amor pra sofrer
+               C                   Dm Bb
+Pernas pra correr, uma missão pra ter
+
+       F C
+E não dá
+
+       F           C
+E não dá pra imaginar
+               Dm             Bb
+Como eu vou viver no mesmo lugar
+               F                 C
+Num asilo sem ter amigos pra contar
+                  Dm                   Bb
+As coisas que eu fiz e não vou mais fazer
+
+           Bb  Am   Gm  F C (riff 1)
+Porque eu en---ve|--lhe-ci
+
+Eu devia morrer
+                F C
+Mas eu me esqueci
+             Dm Bb
+De avisar a deus
+
+Dm            Bb                F
+  E agora eu sei que eu devo viver intensamente
+   C         C#      Dm
+Viver pra um dia eu não
+           Bb                    F
+Me arrepender das coisas que eu fiz
+                  C     (riff 2)
+E não vou mais fazer
+                    F
+Daí eu já posso morrer
+
+( F C Dm Bb ) (2x)
+
+( Bb Am Gm )
+
+( F C Dm Bb )
+
+F            C                 Dm
+ e agora eu sei que eu devo viver intensamente
+   A                 Bb
+Viver pra um dia eu não
+           F F/E     Dm Dm/C       Bb
+Me arrepender   das coisas que eu fiz
+                  C
+E não vou mais fazer
+                F
+Eu já posso morrer
+
+(riff 1)
+E|-4/5-5-5-3-5-5--5-5-3-5-5--5-5-3-5-6--6-6-5-3- 
+B|-5/6-6-6-5-6-6--6-6-5-6-6--6-6-5-6-8--8-8-7-5-
+G|----------------------------------------------
+D|----------------------------------------------
+A|----------------------------------------------
+E|----------------------------------------------
+
+   F    E   D   C
+E|----------------
+B|----------------
+G|-10-x-9-x-7-x-5-
+D|-x--x-x-x-x-x-x-
+A|-8--x-7-x-5-x-3-
+E|----------------
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F/E = 0 X X 2 1 1
+Gm = 3 5 5 3 3 3

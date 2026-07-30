@@ -1,0 +1,64 @@
+@titulo: ponto-negro
+@autor:
+@intérprete: Chitãozinho & Xororó
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Chitãozinho & Xororó - Ponto Negro
+
+Capo Casa 2
+
+[Intro]  Am  G  F  E  F  C  E  Am
+
+Am                        G
+Num mundo distante, eu vivo esquecido
+              F   E
+Vivo perdido entre a multidão
+            Am                          G
+Sou sombra das sombras e ninguém me enxerga
+        F                   E
+Perdido nas trevas da desilusão
+                    F                   C
+Sou um ponto negro, num espaço escuro
+                    E                       Am
+Que teve o futuro antes do passado
+F7                                  Am
+Sou um joão ninguém a sorte
+                        E                  A
+De nascer na morte dos ignorados
+
+                               E
+Sou resto das sobras de um pouco do nada
+
+                   D               E       A
+Sou cinza jogada num canto vazio
+                          A7                        D
+Sou um grão de areia na praia esquecida
+                      E                      A
+Que a onda perdida passou e não viu
+
+                                             E
+Se você amigo tem a luz do mundo
+                              D            E         A
+Não esqueça um segundo de agradecer
+                 A7                     D
+Estenda a mão a quem precisar
+                          E                  A
+Que Deus vai lhe dar o que merecer
+
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+A*  = X 0 2 2 2 0 - (*B na forma de A)
+A7*  = X 0 2 0 2 0 - (*B7 na forma de A7)
+Am*  = X 0 2 2 1 0 - (*Bm na forma de Am)
+C*  = X 3 2 0 1 0 - (*D na forma de C)
+D*  = X X 0 2 3 2 - (*E na forma de D)
+E*  = 0 2 2 1 0 0 - (*F# na forma de E)
+F*  = 1 3 3 2 1 1 - (*G na forma de F)
+F7*  = 1 3 1 2 1 1 - (*G7 na forma de F7)
+G*  = 3 2 0 0 0 3 - (*A na forma de G)

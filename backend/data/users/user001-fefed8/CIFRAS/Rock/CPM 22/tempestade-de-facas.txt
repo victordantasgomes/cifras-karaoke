@@ -1,0 +1,101 @@
+@titulo: tempestade-de-facas
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Tempestade de Facas
+
+Base : Eb5 - F#5 - F5 - G#5
+
+riff 1:
+E |-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0---5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5---|
+B |-3-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4---8-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9---|
+G |---------------------------------------------------------------------|
+D |---------------------------------------------------------------------|    (2 vezes)
+A |---------------------------------------------------------------------|
+E |---------------------------------------------------------------------|
+
+Intro = riff 1 + Base
+
+    Eb5        F#5            F5      G#5
+Seu sorriso amarelo perdeu a confiança
+          Eb5     F#5           F5       G#5
+Eu te imagino debaixo da tempestade de facas
+        Eb5    F#5           F5         g#5
+Sua conversa fiada que nunca leva há nada
+         Eb5         F#5             F5       G#5
+Quebrou todas as promessas caiu na própria cilada
+
+
+Refrão:
+
+Eb5  F#5  A#5  F#5             Eb5   F#5
+              Eu não pedi pra você ficar
+  A#5    F#5
+   Pegue suas coisas e me
+
+riff2:
+E |--------------------------------------------|
+B |-9-9-9---7-7-7-7-7---11-11-11---7-7-7-7-7---|
+
+riff2
+G#5     F#5     A#5       F#5           G#5    F#5
+deixe em paz      Que foi você que resolveu mudar
+A#5      F#5
+  Mão volte nunca mais
+
+G#5     F#5
+            Não volte nunca mais
+G#5     F#5
+            Vê se me deixa em paz
+(intro)
+
+Eb5 - F#5 - F5 - G#5
+Odeio a TV, à noite eu saio
+Nas ruas de SP, mendigo entre os carros
+
+Refrão
+
+riff 3 + Base
+
+riff3:
+E |-------------------------------------11-11-11-11-11---|  (4 vezes)
+B |-8-8-8---11-11-11-11-11---10-10-10--------------------|
+
+Refrão:
+
+Eb5  F#5  A#5  F#5             Eb5   F#5
+              Eu não pedi pra você ficar
+  A#5    F#5
+   Pegue suas coisas e me
+riff2
+G#5     F#5     A#5       F#5           G#5    F#5
+deixe em paz      Que foi você que resolveu mudar
+A#5      F#5
+  Mão volte nunca mais
+
+G#5     F#5
+            Não volte nunca mais
+G#5     F#5
+            Vê se me deixa em paz
+G#5     F#5
+            Pra Sempre
+Eb5 Eb5
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#5 = X 1 3 3 X X
+B = X 2 4 4 4 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Eb5 = X 6 8 8 X X
+F#5 = 2 4 4 X X X
+F5 = 1 3 3 X X X
+G = 3 2 0 0 0 3
+G#5 = 4 6 6 X X X

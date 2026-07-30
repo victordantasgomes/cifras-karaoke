@@ -1,0 +1,136 @@
+@titulo: um-sonhador
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - Um Sonhador
+
+[Intro] Dm  G7  C  Dm  G7  C  F  C
+
+E|--------------------|---------------------|   
+B|---8----------------|---8-----------------|    
+G|7/9--9/7--5-----5/7-|7/9--9/7--5------5---| (2x)
+D|------------7--5----|------------7--5-----|     
+A|--------------------|---------------------|    
+E|--------------------|---------------------|   
+
+E|------0p-5--3-1-0-|
+B|------------------|
+G|------------------|
+D|------------------|
+A|------------------|
+E|------------------|
+
+C
+Eu não sei pra onde vou
+                     Dm
+Pode até não dar em nada
+                    Bb  G7
+Minha vida segue o sol
+
+                       C    F  C
+No horizonte dessa estrada
+
+                       C
+Eu nem sei mesmo quem sou
+                  Dm
+Nessa falta de carinho
+                        Bb  G7
+Por não ter um grande amor
+                 C     C7
+Aprendi à ser sozinho
+
+                     F
+E onde o vento me levar
+                   C
+Vou abrir meu coração
+                   Dm
+Pode ser que no caminho
+                    F
+Num atalho, num sorriso
+     G7          C   G7
+Aconteça uma paixão
+
+   F  G  Am
+E vou achar
+                F
+No toque do destino
+                  C
+O brilho de um olhar
+              G7
+Sem medo de amar
+      F  G  Am
+Não vou deixar
+                F
+De ser um sonhador
+                    C
+Pois sei vou encontrar
+                      G7
+No fundo dos meus sonhos
+                         F
+(sonhos, sonhos, sonhos, uuuu)
+   G7          C
+O meu grande amor
+
+( Dm  G7  C  Dm  G7  C  F  C )
+
+E|--------------------|---------------------|   
+B|---8----------------|---8-----------------|    
+G|7/9--9/7--5-----5/7-|7/9--9/7--5------5---| (2x)
+D|------------7--5----|------------7--5-----|     
+A|--------------------|---------------------|    
+E|--------------------|---------------------|   
+
+E|------0p-5--3-1-0-|
+B|------------------|
+G|------------------|
+D|------------------|
+A|------------------|
+E|------------------|
+
+E onde o vento me levar
+                   C
+Vou abrir meu coração
+                   Dm
+Pode ser que no caminho
+                    F
+Num atalho, num sorriso
+     G7          C   G7
+Aconteça uma paixão
+
+   F  G  Am
+E vou achar
+                F
+No toque do destino
+                  C
+O brilho de um olhar
+              G7
+Sem medo de amar
+      F  G  Am
+Não vou deixar
+                F
+De ser um sonhador
+                    C
+Pois sei vou encontrar
+                      G7
+No fundo dos meus sonhos
+                         F
+(sonhos, sonhos, sonhos, uuuu)
+   G7          C
+O meu grande amor
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

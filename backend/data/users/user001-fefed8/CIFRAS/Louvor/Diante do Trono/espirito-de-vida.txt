@@ -1,0 +1,91 @@
+@titulo: espirito-de-vida
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Espírito de Vida
+
+INTRO: Gm6 Gm7   Gm6 Gm7  C/D Dm  C/D Dm  Gm6 Gm7   Gm6 Gm7   C/D Dm  C/D Dm
+
+         : Gm9  Gm    Gm7   C9                     C/D     Dm  C/D    Dm   : 2xs
+U  u  u  u    u....                     u u  u  u  u ...
+                        : Gm6   Gm7   C9                 C/D      Dm   C/D   Dm   :2xs
+Espírito de vida               espírito santo
+                                                         Band in   Dm   Dm7    Bb/D  Dm    Dm   Dm7     Bb/D  Dm
+
+       Gm7                     C                 Fsus    F
+Eu quero ser movido pela tua mão
+            Gm7                 C Am7          C/D          Dm7
+Teu espírito me guia   com suave voz
+                 Gm7                   Csus     Am7     Bb7M          Am7         Dm7
+Ter meu coração pulsando      no rítmo do teu querer
+         Gm7                   F    C/E   Dm7         Am/D  C/D
+Conduz os meus passos cada mom e n  t o
+            Bb7M         Am7                    Dm  C/D
+Meus olhos estão em ti senhor
+
+                Gm7               C  C/E          F              C/E       Dm7                 Bb7M
+Lado a lado senhor      contigo eu quero caminhar e ser
+
+         Am7               C       C/D       Dm7
+Um só com o teu espírito
+        Gm7                      C   C/E          F             C/E             Dm7
+Em doce comunhão      profunda e santa intimidade
+ Bb7M      Am7          C    Dm         C/D
+Descansar na tua direção
+ Bb7M      Am7                 Dm         A D A D A  D
+A   D F E D A E F  D  A  D A D A D
+F G A C D F
+
+Instrumental:
+
+ Dm C/D  Dsus  Dm  Dm  C/D  Dsus  Dm Gm9 Gm  Gm   Bb7M  Am7  C9  C/D Dm   C/D Dm
+
+                 Gm7               C  C/E        F               C/E       Dm7                 Bb7M
+Lado a lado senhor      contigo eu quero caminhar e ser
+         Am7               C       C/D       Dm7
+Um só com o teu espírito
+       Gm7                      C   C/E           F            C/E             Dm7
+Em doce comunhão      profunda e santa intimidade
+ Bb7M      Am7          C     Dm         C/D
+Descansar na tua direção
+ Bb7M      Am7                  Dm         C/D   Dsus  Dm          Dm  C/D   Dsus  Dm
+
+                      : Gm6      Gm7    C9            C/D      Dm    C/D      Dm   : 2xs
+Espírito de vida                 espírito santo
+
+           Gm9  Gm    Gm7     C9                  C/D      Dm
+ C/D      Dm
+U  u  u  u    u....                 u    u   u    u    u…
+           Gm9  Gm    Gm   Bb7M  Am7          C/D      Dm
+U  u  u  u  u  u...                u   u    u   u     u…
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am/D = X X 0 2 1 0
+Am7 = X 0 2 0 1 0
+Bb/D = X 5 X 3 6 6
+Bb7M = X 1 3 2 3 1
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Csus = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Dsus = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+Fsus = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3
+Gm6 = 3 X 2 3 3 X
+Gm7 = 3 X 3 3 3 X
+Gm9 = 3 5 7 3 3 3

@@ -1,0 +1,121 @@
+@titulo: enquanto-ela-nao-chegar
+@autor:
+@intérprete: Barão Vermelho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Barão Vermelho - Enquanto Ela Não Chegar
+
+(intro 2x) G G9 G G9 C C9 C C9
+
+ G G9 G G9
+ Quantas coisas eu ainda vou provar
+C C9 C C9
+ E quantas vezes para a porta eu vou olhar
+G7+
+ Quantos carros nessa rua vão passar
+              C7+
+ Enquanto ela não chegar
+ G G9 G G9
+ Quantos dias eu ainda vou esperar
+C C9 C C9
+ E quantas estrelas eu vou tentar contar
+ G7+
+ E quantas luzes na cidade vão se apagar
+              C7+
+ Enquanto ela não chegar
+    Am7
+ Eu tenho andado tão sozinho
+             G     Em
+ Que eu nem sei no que acreditar
+
+     Am7
+ E a paz que busco agora
+        C              C7+
+ Nem a dor vai me negar
+
+G
+ Não deixe o sol morrer
+B7             Em
+ Errar é aprender
+    Eb
+ Viver é deixar viver
+ G                      B7
+ Não deixe o sol morrer
+               Em
+ Errar é aprender
+Eb
+ Viver é deixar viver
+
+ G G9 G G9
+ Quantas besteiras eu ainda vou pensar
+C C9 C C9
+ E quantos sonhos no tempo vão se esfarelar
+ G7+
+ Quantas vezes vou me criticar
+               C7+
+ Enquanto ela não chegar
+    Am7
+ Eu tenho andado tão sozinho
+             G     Em
+ Que eu nem sei no que acreditar
+     Am7
+ E a paz que busco agora
+        C              C7
+ Nem a dor vai me negar
+
+G
+ Não deixe o sol morrer
+B7             Em
+ Errar é aprender
+   Eb
+ Viver é deixar viver
+G
+ Não deixe o sol morrer
+B7
+ Errar é aprender
+   Em              Eb
+ Viver é deixar, é deixar
+             G   B7
+ É deixar viver
+   Em           Eb
+ É deixar viver
+
+(solo) G B7 Em
+
+  Eb
+Viver é deixar viver
+G B7 Em Eb (2x)
+ Uuu..uuu...
+
+G
+ Não deixe o sol morrer
+B7             Em   Eb
+ Errar é aprender
+G
+ Não deixe o sol morrer
+B7
+ Errar é aprender
+   Em              Eb  G
+ Viver é deixar viver
+
+( G C )   G
+ Uuu...
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+C7+ = X 3 2 0 0 X
+C9 = X 3 5 5 3 3
+Eb = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G7+ = 3 X 4 4 3 X
+G9 = 3 X 0 2 0 X

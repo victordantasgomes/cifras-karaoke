@@ -1,0 +1,64 @@
+@titulo: cagaco
+@autor:
+@intérprete: Paralamas do Sucesso
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Os Paralamas do Sucesso - Cagaço
+
+Herbert Vianna / Bi Ribeiro
+
+Tom : D
+
+int ( D9 | G )x 4 ( D9 | G | C9 ) x 2
+
+D9
+Esconde os dentes, segura a pancada
+G
+Abaixa o queixo pra salvar o nariz
+C9
+Atropelado, atabalhoado
+Am
+Bateu de frente com o trem social
+D9
+Seguiu adiante, deixando os pedaços
+G
+Como a poesia de Wally Salomão
+C9
+Cuida dos filhos, da filha-miséria
+Am
+Com que carinho, com que dedicação
+
+D9
+Pensa na fome, eu penso na língua
+G
+Em libertar meu pensamento burguês
+C9
+É magricelo, um homem-martelo
+Am
+Contra o mosaico do nada-que-se-fez
+
+E o tom é de desilusão
+D9 G
+E eu vou
+C9 Am
+Rastejar no chão
+D9
+Eu tenho cagaço de descer ladeira abaixo
+G
+Tenho cagaço de pensar demais
+C9
+Tenho cagaço de descer ladeira abaixo
+Am
+Tenho cagaço de pensar demais
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C9 = X 3 5 5 3 3
+D9 = X X 0 2 3 0
+G = 3 2 0 0 0 3

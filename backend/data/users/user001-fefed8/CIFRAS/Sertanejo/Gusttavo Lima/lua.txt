@@ -1,0 +1,66 @@
+@titulo: lua
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Lua
+
+ F#m                                 D
+Ta afolgando em lágrimas o meu coração
+                  A
+Sem direção eu chego
+       E
+Sem você percebi, não consigo estou perto do fim
+ F#m                                       D
+O que é que eu faço eu preciso ter você comigo
+          A
+Estou perdido
+       E
+Sem você não consigo eu preciso.
+        F#m            D
+Do teu olhar, do teu sabor
+         A              E
+Do teu abraço, do teu calor
+         F#m                D
+Não há mistérios pra desvendar
+               A                 E
+O que preciso for faço pra te encontrar.
+   F#m  D
+Oh lua ah
+
+         A
+Vem brilhar no meu deserto
+         E
+Sem ter ela aqui por perto
+   F#m  D
+Oh lua aa
+       A                     E
+To viajando noite e dia só você é companhia
+   F#m  D
+Oh lua aa
+         A
+Vem brilhar no meu deserto
+         E
+Sem ter ela aqui por perto
+   F#m  D
+Oh lua aa
+       A                     E
+To viajando noite e dia só você é companhia
+      D
+Nessa solidão
+    A                       E
+Oh lua traz de volta o meu amor
+                 D
+Assim pede o meu coração
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

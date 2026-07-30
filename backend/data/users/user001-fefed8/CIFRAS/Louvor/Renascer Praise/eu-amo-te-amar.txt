@@ -1,0 +1,85 @@
+@titulo: eu-amo-te-amar
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Eu Amo Te Amar
+
+Intro: :  Bm/G#   Em/G  :  D/F#  Bm7  :  Em  A4  :   D   :   ·/ ·   ||(2 X)
+       D              Bm
+Eu não conheço o Teu rosto,
+         Em                   G/A
+Mas Te reconheço em todo o lugar
+      D                 Bm
+Nunca toquei em tuas vestes,
+ Em                   G/A
+Mas sinto o Teu perfume no ar
+A/G         F#m7                            Bm7
+Não sei como é a Tua voz, mas o som dela me guia
+       Em                                G/A  A7
+Eu não consigo viver sem você na minha vida
+                 D     A/B       Bm7 Em7
+Que amor é esse que se move dentro de mim
+   G/A          A/G             D        A/C#
+Me alcançou com perdão, intensamente me atraiu
+   Bm7           D/A        Bm/G#          Gm6
+Impossível estar distante, desse amor que me cerca
+ D/F#    Bm      Em7
+Eu amo,      eu amo,
+
+G/A         D
+Te amar Senhor.
+MODULAÇÃO   |  Fm  Gm  Ab | Ab/Bb ||
+              Eb     C4    Cm7              Fm7
+Que amor é esse  que       se         move dentro de mim
+      Ab/Bb               Bb/Ab             Eb      Bb/D
+Me alcançou com perdão, intensamente me atraiu
+  Cm7            Eb/Bb      Cm/A             Fm/Ab
+Impossível estar distante, desse amor que me cerca
+ Eb/G Cm7           Fm7      Bb4            Eb
+Eu amo,            eu amo,         Te amar Senhor.
+ F/A  Fm/Ab   Eb/G   Cm7    Fm7   Ab/Bb          Eb
+Eu amo,            eu amo,      eu amo   Te amar Senhor.      2X
+FINAL: Bb/Eb Ab/Eb Ab/Bb Eb
+
+----------------- Acordes -----------------
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+A7 = X 0 2 0 2 0
+Ab = 4 3 1 1 1 4
+Ab/Bb = X 1 1 1 1 X
+Ab/Eb = X 6 6 5 4 4
+Bb/Ab = 4 X 3 3 3 X
+Bb/D = X 5 X 3 6 6
+Bb/Eb = X 6 X 7 6 6
+Bb4 = X 1 3 3 4 1
+Bm = X 2 4 4 3 2
+Bm/G# = X X 6 4 3 2
+Bm7 = X 2 4 2 3 2
+C4 = X 3 3 0 1 X
+Cm/A = X 0 5 5 4 3
+Cm7 = X 3 5 3 4 3
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+Eb = X 6 5 3 4 3
+Eb/Bb = X X 8 8 8 6
+Eb/G = 3 X 1 3 4 X
+Em = 0 2 2 0 0 0
+Em/G = 3 X 2 4 5 X
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+F/A = 5 X 3 5 6 X
+Fm = 1 3 3 1 1 1
+Fm/Ab = 4 3 3 1 X X
+Fm7 = 1 X 1 1 1 X
+G/A = 5 X 5 4 3 X
+Gm = 3 5 5 3 3 3
+Gm6 = 3 X 2 3 3 X

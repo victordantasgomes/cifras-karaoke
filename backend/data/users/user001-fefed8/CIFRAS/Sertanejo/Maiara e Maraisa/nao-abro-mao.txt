@@ -1,0 +1,197 @@
+@titulo: nao-abro-mao
+@autor:
+@intérprete: Maiara e Maraisa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Maiara e Maraisa - Não Abro Mão
+
+Capo Casa 2
+
+[Intro] G  Bm7  B7(9)
+
+   G
+E|----------------------------------------------------|
+B|-0-2-3-5-3-2-0-2--0-2-3-5-3-2-0---------------------|
+G|--------------------------------0-------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|-3----------------3---------------------------------|
+
+   Bm7        B7(9)       Bm7         B7(9)      
+E|----------x-------x--------------x------------------|
+B|-------3--x----2--x-----------3--x----2-------------|
+G|-----2----x--2----x--2------2----x--2---------------|
+D|---4------x-------x-------4------x------------------|
+A|-2--------x-------x-----2--------x------------------|
+E|----------------------------------------------------|
+
+[Primeira Parte]
+
+G                            A
+ Você já conhece todos os defeitos dela
+
+D                                    Bm7     B7(9)
+ Foi por isso que você largou pra ficar comigo
+G                                     A
+ Tá mais que provado que não vai dar certo com ela
+Bm7             B7(9)              Bm7  B7(9)
+   Outra vez você vai sair no prejuízo
+
+[Pré-Refrão]
+
+    G
+Mas eu te entendo bem
+      A
+Sei que você tem medo
+   F#m7
+De apostar no novo
+       Bm7
+E assumir nosso desejo
+
+     G
+Não posso interferir
+    A
+Na sua decisão
+        E
+Mas de nós dois
+       G     A
+Eu não abro mão
+
+[Refrão]
+
+               G     A
+Quer ficar com ela, fica
+             F#m7
+Mas fique sabendo
+                                      Bm7
+Que eu vou ser seu caso pro resto da vida
+
+               G     A
+Quer ficar com ela, fica
+             F#m7
+Mas fique sabendo
+                                      Bm7
+Que eu vou ser seu caso pro resto da vida
+
+               G     A
+Quer ficar com ela, fica
+             F#m7
+Mas fique sabendo
+                                      Bm7
+Que eu vou ser seu caso pro resto da vida
+
+[Solo] G  A  Bm7  B7(9)
+
+E|----------------------------------------------------|
+B|-----3-2--------------------------------------------|
+G|---------4-2----------------------------------------|
+D|-2/4---------2/4-2----------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+   G                A 
+E|----------------------------------------------------|
+B|-0-2-3-5-3-2-0-2--0-2-3-5-3-2-0---------------------|
+G|--------------------------------0-------------------|
+D|----------------------------------------------------|
+A|------------------0---------------------------------|
+E|-3--------------------------------------------------|
+
+   Bm7        B7(9)       Bm7         B7(9)      
+E|----------x-------x--------------x------------------|
+B|-------3--x----2--x-----------3--x----2-------------|
+G|-----2----x--2----x--2------2----x--2---------------|
+D|---4------x-------x-------4------x------------------|
+A|-2--------x-------x-----2--------x------------------|
+E|----------------------------------------------------|
+
+[Pré-Refrão]
+
+    G
+Mas eu te entendo bem
+      A
+Sei que você tem medo
+   F#m7
+De apostar no novo
+       Bm7
+E assumir nosso desejo
+
+     G
+Não posso interferir
+    A
+Na sua decisão
+        E
+Mas de nós dois
+       G     A
+Eu não abro mão
+
+[Refrão]
+
+               G     A
+Quer ficar com ela, fica
+             F#m7
+Mas fique sabendo
+                                      Bm7
+Que eu vou ser seu caso pro resto da vida
+
+               G     A
+Quer ficar com ela, fica
+             F#m7
+Mas fique sabendo
+                                      Bm7
+Que eu vou ser seu caso pro resto da vida
+
+               G     A
+Quer ficar com ela, fica
+             F#m7
+Mas fique sabendo
+                                      Bm7
+Que eu vou ser seu caso pro resto da vida
+
+               G     A
+Quer ficar com ela, fica
+             F#m7
+Mas fique sabendo
+                                      Bm7
+Que eu vou ser seu caso pro resto da vida
+
+[Final] G  A  Bm7  B7(9)
+
+E|----------------------------------------------------|
+B|-----3-2h3p2----------------------------------------|
+G|-------------4-2------------------------------------|
+D|-2/4-------------2/4/5\4-2--------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+   G                A 
+E|----------------------------------------------------|
+B|-0-2-3-5-3-2-0-2--0-2-3-5-3-2-0---------------------|
+G|--------------------------------0-------------------|
+D|----------------------------------------------------|
+A|------------------0---------------------------------|
+E|-3--------------------------------------------------|
+
+   Bm7                    B7(9)            
+E|----------x-------x-----2---------------------------|
+B|-------3--x----2--x-----2---------------------------|
+G|-----2----x--2----x-----2---------------------------|
+D|---4------x-------x--4--4---------------------------|
+A|-2--------x-------x-----2---------------------------|
+E|----------------------------------------------------|
+
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+A*  = X 0 2 2 2 0 - (*B na forma de A)
+B7(9)*  = X 2 1 2 2 X - (*C#7(9) na forma de B7(9))
+Bm7*  = X 2 4 2 3 2 - (*C#m7 na forma de Bm7)
+D*  = X X 0 2 3 2 - (*E na forma de D)
+E*  = 0 2 2 1 0 0 - (*F# na forma de E)
+F#m7*  = 2 X 2 2 2 X - (*G#m7 na forma de F#m7)
+G*  = 3 2 0 0 0 3 - (*A na forma de G)

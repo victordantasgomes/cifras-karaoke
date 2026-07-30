@@ -1,0 +1,125 @@
+@titulo: nao-quero-ser-mais-eu
+@autor:
+@intérprete: Preto no Branco
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Preto No Branco - Não Quero Ser Mais Eu
+
+ Em9
+Meu Deus todo dia
+ D4(6)             C7M                     G5(9)
+Vejo a minha vida se distanciar do teu querer
+ Em9
+Corro por mim mesmo
+ B7/D#
+Faço por mim mesmo
+C7M                       G5(9)
+Eu só quero ser o que eu sonhei
+ C7M            Em6/C#               A7
+Veja as minhas mãos, te entrego em tuas mãos
+
+       Em9                   C9
+Vem e torna todas as coisas novas
+             G4 G         D
+Faz de tudo novo ignora o eu
+                Em9                    C9  C
+Esquece os meus erros, perdoa os meus medos
+                 Cm/G G                D
+Quebra e faz de novo, imploro o teu favor
+
+      B7           C7M
+Não quero ser mais eu
+
+ Em9
+Meu Deus todo dia
+ D4(6)             C7M                     G5(9)
+Vejo a minha vida se distanciar do teu querer
+ Em9
+Corro por mim mesmo
+ B7/D#
+Faço por mim mesmo
+C7M                       G5(9)
+Eu só quero ser o que eu sonhei
+ C7M            Em6/C#              A7
+Veja as minhas mãos, te entrego em tuas mãos
+
+       Em7(9)                C9
+Vem e torna todas as coisas novas
+             G4 G         D
+Faz de tudo novo ignora o eu
+                Em7(9)                 C9  C
+Esquece os meus erros, perdoa os meus medos
+                 Cm/G G                D
+Quebra e faz de novo, imploro o teu favor
+
+       Em7(9)                C9
+Vem e torna todas as coisas novas
+             G4 G         D
+Faz de tudo novo ignora o eu
+                Em7(9)                 C9  C
+Esquece os meus erros, perdoa os meus medos
+                 Cm/G G                D
+Quebra e faz de novo, imploro o teu favor
+
+      G/B          C7M  Em/C#  Em  D6(9)
+Não quero ser mais eu
+      G/B          C7M  Em/C#  Em  D6(9)
+Não quero ser mais eu
+      G/B          C7M  Em/C#  Em  D6(9)
+Não quero ser mais eu
+      G/B          C7M           Em/C#            Em  B7
+Não quero ser mais eu, estou cansado de viver Senhor
+
+       Em7(9)                C9
+Vem e torna todas as coisas novas
+             G4 G         D
+Faz de tudo novo ignora o eu
+                Em7(9)                 C9  C
+Esquece os meus erros, perdoa os meus medos
+                 Cm/G G                D
+Quebra e faz de novo, imploro o teu favor
+
+       F#m7(9)               D9
+Vem e torna todas as coisas novas
+             A4 A         E
+Faz de tudo novo ignora o eu
+                F#/A#                  Bm
+Esquece os meus erros, perdoa os meus medos
+                 A4 A                  E
+Quebra e faz de novo, imploro o teu favor
+      A/C# E       D9
+Não quero ser mais eu
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+B7/D# = X X 1 2 0 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C7M = X 3 2 0 0 X
+C9 = X 3 5 5 3 3
+Cm/G = X X 5 5 4 3
+D = X X 0 2 3 2
+D4(6) = X 5 7 0 7 7
+D6(9) = X 5 4 2 0 0
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+Em/C# = X 4 2 0 0 X
+Em7(9) = X 7 5 7 7 X
+Em9 = 0 2 4 0 0 0
+F#/A# = 6 X 4 6 7 X
+F#m7(9) = X X 4 2 5 4
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G4 = 3 5 5 5 3 3
+G5(9) = 3 X 0 2 3 3

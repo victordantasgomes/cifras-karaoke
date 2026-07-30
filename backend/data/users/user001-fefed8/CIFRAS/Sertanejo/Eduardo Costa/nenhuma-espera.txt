@@ -1,0 +1,66 @@
+@titulo: nenhuma-espera
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Nenhuma Espera
+
+Intro: Dm  G  Em  Am  Dm  G  C  G
+
+                  C                     C7
+Você tem meu endereço, você tem meu telefone
+       F
+Quase não me procura
+                Dm                     G
+Quase sempre me deixa me confunde a cabeça
+    C             F G
+Me leva à loucura
+
+                  C                  C7
+Você gosta de brincar de esconder e procurar
+         F
+Mas eu nunca te acho
+                 C         B/G Am
+Tô cansado desse jogo seu
+                            Dm
+Quem não quer mais te encontrar sou eu
+G              C
+Tô cruzando os meus braços
+
+
+             Dm                G
+Pode me esquecer, quero te perder
+                     C   Am
+Desta vez pra nunca mais
+             Dm                    G
+Rasgue o telefone, rabisque o meu nome
+             C         C7
+É assim que agente faz
+
+        F
+Quando agente esquece, agente não guarda
+        Em        Am
+Nenhuma lembrança
+            Dm
+Se não quer mais me ver
+              G          C        C#º
+Então não me dê nenhuma esperança
+
+Solo: Dm  G  Em  Am  Dm  G  C  G
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B/G = 3 X 4 4 4 X
+C = X 3 2 0 1 0
+C#º = X 4 5 3 5 3
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

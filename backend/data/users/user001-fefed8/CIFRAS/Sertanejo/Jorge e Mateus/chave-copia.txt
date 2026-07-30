@@ -1,0 +1,59 @@
+@titulo: chave-copia
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Chave Cópia
+
+Intro: Am  C  G
+
+Am            C                 G
+Não vou virar a pagina, o certo é rasgar
+                              Am
+Não venha me dizer, que ainda dá
+
+                  C                      G
+Não quero sentir saudade, nem vontade de ligar
+        D
+Se eu ligar eu vou querer te ver
+        C                        G/B
+Se eu te ver eu vou querer voltar
+        Am                   C           D
+Se eu voltar eu sei que vai resolver na cama
+
+             G                        D
+Não adianta nem tentar, não vai ter volta
+          Em7
+Mas você sabe onde eu moro
+            C/G
+Eu sei que você tem a chave copia
+
+Em                   D             C  D
+E vai querer entrar, e vai querer ficar
+
+             G                        D
+Não adianta nem tentar, não vai ter volta
+          Em7
+Mas você sabe onde eu moro
+            C/G
+Eu sei que você tem a chave copia
+Em                   D
+E vai querer entrar, e vai querer ficar
+       C/G                   G
+Vê se para com esse vai e volta
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

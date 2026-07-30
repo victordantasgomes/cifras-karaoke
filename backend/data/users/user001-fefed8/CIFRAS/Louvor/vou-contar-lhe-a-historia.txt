@@ -1,0 +1,70 @@
+@titulo: vou-contar-lhe-a-historia
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Vou Contar-lhe a História
+
+INTRO: Cm, Fm, Cm, A#, Cm, G#, A#, Cm
+
+Cm                   Fm          Cm
+VOU CONTAR-LHE A HISTÓRIA DE UM COXO
+        Fm      Cm         A#
+QUE QUERIA MERGULHAR SUA AGONIA
+                  Gm          Cm
+NAS ÁGUAS DE UM TANQUE PRA SE CURAR,
+                   Fm
+MAS CHEGAR LÁ NÃO PODIA
+  Cm            Fm
+AJUDA NÃO CONSEGUIA
+    Cm            A#          Cm   C7
+UM AMIGO ELE NÃO TINHA PRA O LEVAR
+      Fm              A#       Cm
+FOI QUANDO POR ALÍ PASSAVA O HOMEM DE NAZARÉ
+       G#           Fm             Fm  G
+ELE MANDOU DOENÇA EMBORA, DEU-LHE VITÓRIA
+         G  Cm6 E
+E O PÔS DE PÉ
+
+
+ Am         Am/G                Am/F#
+BASTA UMA PALAVRA, UMA PALAVRA APENAS
+                  F         E        Am
+O MUNDO EM SEU SISTEMA CAEM AOS SEUS PÉS
+             Am/G                Am/F#
+NÃO HÁ ENFERMIDADE, NEM PESTE OU FOME
+                F       E  Am
+É SÓ CHAMAR O HOMEM DE NAZARÉ
+           Am/G               Am/F#
+BASTA UMA PALVRA E TODA TERRA TREME
+                   F                  Am
+EM MEIO A DENSAS TREVAS FAZ BRILHAR A LUZ
+
+Am/G                Am/F#
+MURALHAS À SUA FRENTE VÃO CAIR, NÃO TEMAS
+                F        E    Am   Am/G  Am/F#  Fm7  Dm  Fm6  G  Cm
+É SÓ CLAMAR O SANTO NOME DE JESUS
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+Am = X 0 2 2 1 0
+Am/F# = 2 X 2 2 1 0
+Am/G = 3 X 2 2 1 X
+C7 = X 3 2 3 1 X
+Cm = X 3 5 5 4 3
+Cm6 = X 3 X 2 4 3
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+Fm6 = 1 X 0 1 1 X
+Fm7 = 1 X 1 1 1 X
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+Gm = 3 5 5 3 3 3

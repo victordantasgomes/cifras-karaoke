@@ -1,0 +1,122 @@
+@titulo: mae
+@autor:
+@intérprete: Rick e Renner
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rick e Renner - Mãe
+
+Introdução: A  D  A  D  A/C#  Bm  Bm/A  E/G#  D/F#  E  D/F#  E/G#  A
+
+A                 E/G#           F#m            C#m             D
+Mãe, hoje eu descobri que eu cresci, é que de repente eu me vi
+        A/C#        Bm   F#
+Tão sozinho na estrada
+Bm                Bm/A     E/G#             D/F#      E
+Mãe, hoje eu precisei de você, eu não sabia o que fazer
+                 A     E4   E
+Me vi de mãos atadas
+
+A               E/G#      F#m                        Em7
+Mãe o que é que a gente faz, quando o sucesso não traz
+              A/C#        D   D4   D
+A paz a que a gente procura
+                 D#º        A/E             A                  B
+Mãe, hoje aqui sozinho eu rezei, aqui no meu cantinho eu chorei
+            E         A    E4   E
+E chorando fiz uma jura
+
+ A                   E/G#                  F#m
+Juro que a partir de hoje eu vou fazer meu tempo
+
+               C#m                    D
+Vou ficar mais perto do teu sentimento
+                A/C#               Bm    F#
+Vou ficar mais perto, mãe do teu amor
+Bm                 Bm/A             E/G#
+Juro não deixar jamais a minha ambição
+                D/F#             E
+Falar tão mais alto que meu coração
+            D           A/C#     E4  E
+Se minha riqueza, mãe é teu amor
+A                     C#m                       Bm
+Mãe, me dá teu colo,  mãe, mulher que adoro, mãe
+                 E4            E
+Se existo devo a ti meu respirar
+A                     C#m                       Bm
+Mãe tão puro amor de mãe, que as vezes não me vem
+                    E/G#  D/F#  E
+Palavras pra expressar
+D               E            A    [Introdução]
+Mãe pra ti conjugo o verbo amar
+
+
+A                 E/G#   F#m             C#m         D
+Mãe, teu conselho me orienta, teu carinho me alimenta
+           A/C#             Bm    F#
+Da paz, do amor, da esperança
+Bm                 Bm/A       E/G#
+Mãe hoje eu sou um homem eu sei
+             D/F#        E
+Mas as vezes que eu chorei
+       D             A     E4   E
+Não passei de uma criança
+
+A               E/G#      F#m                        Em7
+Mãe o que é que a gente faz, quando o sucesso não traz
+              A/C#      D   D4   D
+A paz a que a gente procura
+                 D#°           A/E           A            B
+Mãe, hoje aqui sozinho eu rezei, e no meu cantinho eu chorei
+            E        A    E4   E
+E chorando fiz uma jura
+
+ A                   E/G#                    F#m
+Juro que a partir de hoje eu vou fazer meu tempo
+               C#m                    D
+Vou ficar mais perto do teu sentimento
+                A/C#               Bm    F#
+Vou ficar mais perto, mãe do teu amor
+Bm                 Bm/A              E/G#
+Juro não deixar jamais a minha ambição
+                D/F#             E
+Falar tão mais alto que meu coração
+            D           A/C#     E4  E
+Se minha riqueza, mãe é teu amor
+A                     C#m                       Bm
+Mãe, me dá teu colo,  mãe, mulher que adoro, mãe
+                 E4            E
+Se existo devo a ti meu respirar
+A                     C#m                       Bm
+Mãe tão puro amor de mãe, que as vezes não me vem
+                    E/G#  D/F#  E
+Palavras pra expressar
+D              E            A    D
+Mãe pra ti conjugo o verbo amar
+A
+Mãe...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D#° = X X 1 2 1 2
+D#º = X X 1 2 1 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+Em7 = 0 2 2 0 3 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2

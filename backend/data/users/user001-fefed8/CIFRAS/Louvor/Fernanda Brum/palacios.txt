@@ -1,0 +1,58 @@
+@titulo: palacios
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Palácios
+
+[Intro] D  D4  D  D  D4  D
+
+  D                    D  D4
+Não se acende a luz do Sol
+  A                                  D  D4  D
+Nos 220 voltz dos palácios de Brasília
+  D                    D  D4
+Não se acende a luz do Sol
+ A                                         D  D4  D
+Com as chaves de um carro conversível do ano
+  D                    D  D4  D
+Não se acende a luz do Sol
+ A                                              D  D4  D
+Com a ponta de um cigarro, um baseado, coisa assim
+ Bm           F#m   A                Em
+Pra que medir força com o Sol da Justiça
+Bm                  F#m     A                    Em
+Pra que querer brilhar mais que a Estrela da Manhã
+Bm            F#m              G  A
+Pra que combater o Bem com o Mal
+
+
+ A                  D  Bm
+De que lado você está?
+               F#m      A
+De que lado você está?
+                  Em         Bm
+De que lado você quer ficar?
+                   A
+De que lado você quer ficar?
+D              D4  G
+Onde está a honra dos orgulhosos?
+D             D4  G
+A sabedoria mora com gente humilde
+D        D4      G          D  D4   G
+Liberdade, liberdade, liberdade
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

@@ -1,0 +1,30 @@
+@titulo: luz-da-luz
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Luz da Luz
+
+D      Em7     A       D
+Luz da Luz, infinito Sol!
+Bm      G          A7   D
+Luz da Luz, fogo abrasador!
+       Em7    A      Bm
+Luz da Luz, Cristo Jesus
+Em7   D/A        A7      D
+Abrasai-nos no vosso amor!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3

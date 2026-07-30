@@ -1,0 +1,52 @@
+@titulo: aquele
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Aquele
+
+ F         Bb/D C/E            F          Dm7(9)
+ Aquele que põe fim nas minhas guerras é o mesmo
+   C11/13  Bb7M    Am7
+que põe limites no mar
+ F         Bb/D        C/E          F       Dm79
+ Aquele que faz meu coração se alcamar é o mesmo
+C11/13  Bb7M      Am7
+faz a estrela brilhar
+               Ab7(9)     c#/F           Eb
+ Aquele que me dá motivos pra viver é o mesmo que
+      Ab     C#      Cm5#/F    C
+não deixa o dia e a noite falhar
+ F          Bb       F        Em7(5b)  A713b Dm79
+ Aquele em que me apoio e me da asas   pra   voar
+      G               C
+veio viver dentro de mim
+    F  Bb F Bb   F Bb F  F Fm/G# G#/C D#/Bb C#/F C
+ JESUS........JESUS.....JEEEEEEEESUS.............
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Ab7(9) = 4 X 4 3 1 X
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+Bb/D = X 5 X 3 6 6
+Bb7M = X 1 3 2 3 1
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#/F = X 8 X 6 9 9
+C/E = 0 3 2 0 1 0
+D#/Bb = X X 8 8 8 6
+Dm7(9) = X 5 3 5 5 X
+Dm79 = X 5 3 5 5 X
+Eb = X 6 5 3 4 3
+Em7(5b) = X X 2 3 3 3
+F = 1 3 3 2 1 1
+Fm/G# = 4 3 3 1 X X
+G = 3 2 0 0 0 3
+G#/C = X 3 X 1 4 4

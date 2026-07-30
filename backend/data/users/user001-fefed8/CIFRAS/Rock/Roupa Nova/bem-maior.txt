@@ -1,0 +1,97 @@
+@titulo: bem-maior
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Bem Maior
+
+[Intro]  F#  G#m7(11)  F#/A#  B9
+         F#  G#m7(11)  F#/A#  B9
+         F#  G#m7(11)  F#/A#  B9
+         A  E/G#  F#  B/F#  C#4/F#
+
+F#     G#m7(11)         F#/A#           B9
+ Bem maior do que os mares mais profundos
+F#      G#m7(11)          F#/A#    B9
+ Bem maior do que os campos que eu vi
+F#      G#m7(11)   F#/A#       B9
+ Bem maior que o teatro das estrelas
+A       E/G#    F#  B/F#  C#4/F#
+É meu amor por ti
+F#        G#m7(11) F#/A#   B9
+ Como a força infinita das rochas
+F#         G#m7(11)      F#/A#   B9
+ Tem mais luz que o sol põe no rubi
+F#        G#m7(11)      F#/A#    B9
+  Muito mais do que o verde das matas
+A       E/G#   F#
+É meu amor por ti
+
+E/B         B  D/A       A
+As........sim como no inverno
+E/B  B  D/A          A
+E o sol quente do verão
+E/B B  D/A         A
+Eu vou ser a primavera
+C#7/4  C#7  C#7/4  C#7
+Do teu  coração
+F#      G#m7(11)      F#/A#          B9
+  Foi assim que escrevemos nossa história
+F#    G#m7(11)  F#/A#        B9
+ É o livro mais lindo que eu li
+     F#    G#m7(11)   F#/A#      B9
+Uma flor azul que me traga na memória
+A       E/G#   F#
+O meu amor por ti
+A       E/G#  F#
+O meu amor por ti
+
+Solo: E/B  B  D/A  A
+
+      E          B             A
+E|-9-11-12-14-11--------------9-10-12-9------------------|
+B|---------------12--------12-----------10---------------|
+G|------------------11---------------------9-------------|
+D|-------------------------------------------------------|
+
+      E           B            A                     C#
+E|-9-11-12-14-11--------------9-10-9----9-12-------9-----|
+B|---------------12--------12--------12------10-12-------|
+G|------------------11-----------------------------------|
+D|-------------------------------------------------------|
+
+                     F#
+E|-9-11-9-------------|
+B|--------12-11-9-----|
+G|----------------11--|
+D|--------------------|
+
+[Final]
+
+E|-------------------|
+B|-------------------|
+G|-6-4-2-4-1--1------|
+D|---------------4---|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/F# = X X 4 4 4 2
+B9 = X 2 4 4 2 2
+C# = X 4 6 6 6 4
+C#4/F# = X X 4 1 2 2
+C#7 = X 4 3 4 2 X
+C#7/4 = X 4 6 4 7 4
+D/A = X 0 X 2 3 2
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+G#m7(11) = 4 X 4 4 2 X

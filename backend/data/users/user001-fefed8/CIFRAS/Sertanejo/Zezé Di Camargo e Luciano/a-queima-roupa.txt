@@ -1,0 +1,90 @@
+@titulo: a-queima-roupa
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - À Queima Roupa
+
+Int: Em, C7+, Am9, B4/7, B7
+
+Em
+Hoje eu vim aqui falar de coisas
+    Am9
+Que jamais falei
+   D                          D/F#
+De coisas que talvez você nem vá
+        G          F/G G/B
+    Gostar de ouvir
+
+   C
+Verdades, eu sei, incomodam
+       Em
+Mas eu vou falar
+        C
+Ninguém vai tirar de mim
+                   B7
+essa vontade de gritar
+         E
+Eu hoje vou dizer
+
+Que muitas vezes me feri
+           A
+Pra não te machucar
+Que muitas vezes eu chorei
+           B7
+Pra não te ver chorar
+      F#m          B7          E
+E das vezes que eu saí e te deixei ficar
+B7         E
+   Eu hoje vou dizer
+   E/G#                   A
+Da solidão das noites sem você aqui
+    F#m               B7
+Do medo do desejo de possuir
+       F#m         B7             F#m
+Da paixão que carrequei todo esse tempo
+B7     E
+   Sem você aqui
+     B7
+Na verdade, esse amor
+Foi a pedra no caminho
+      E
+Foi o posso que secou
+Foi a cama de espinho
+    B7
+Pra rosa que murchou
+                               E
+Foi o sonho que marcou a minha vida
+      B7
+Na verdade, esse amor
+Foi um tiro a queima-roupa
+      E
+Foi o pano que rasgou
+Foi o menino sem brinquedo
+      B7
+Foi a lua que apagou
+                                   Em
+Foi o sol que não brilhou na minha vida
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am9 = X 0 2 4 1 0
+B4/7 = X 2 4 2 5 2
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+F/G = 3 X 3 2 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

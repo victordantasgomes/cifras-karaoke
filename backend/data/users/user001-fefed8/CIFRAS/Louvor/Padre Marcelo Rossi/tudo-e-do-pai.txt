@@ -1,0 +1,66 @@
+@titulo: tudo-e-do-pai
+@autor:
+@intérprete: Padre Marcelo Rossi
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Padre Marcelo Rossi - Tudo É do Pai
+
+A              E/Ab         F#m   F#m/E
+Eu pensei que podia viver por mim mesmo
+       D                  Bm
+Eu pensei que as coisas do mundo
+      E          D   E7
+Não iriam me derrubar
+     A         E/Ab           F#m  F#m/E
+O orgulho tomou conta do meu ser
+      D         Bm          E7
+E o pecado devastou o meu viver
+      D               E
+Fui embora, disse ao Pai:
+               C#m    F#m
+-Dá-me o que é meu!
+        Bm            E        A   G  A
+Dá-me a parte que me cabe da herança!
+         D             E         C#7        F#m
+Fui pro mundo, gastei tudo, me restou só o pecado
+           D              E
+E hoje eu sei que nada é meu
+           A   D  E7
+Tudo é do Pai.
+
+
+           A
+Tudo é do Pai!
+    E/Ab              F#m
+Toda honra e toda a Glória,
+ F#m/E      D         Bm             E7   D   E7
+É dele a vitória alcançada em minha vida.
+           A
+Tudo é do Pai!
+      E/Ab        F#m
+Se sou fraco e pecador,
+         F#m/E             D
+bem mais forte é o meu Senhor
+       E7         A  (refrão 2x) D  E7    E7
+Que me cura por Amor!
+
+(repete tudo)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/Ab = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+F#m/E = X X 2 2 2 2
+G = 3 2 0 0 0 3

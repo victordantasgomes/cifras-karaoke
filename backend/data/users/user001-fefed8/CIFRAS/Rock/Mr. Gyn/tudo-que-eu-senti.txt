@@ -1,0 +1,50 @@
+@titulo: tudo-que-eu-senti
+@autor:
+@intérprete: Mr. Gyn
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Mr. Gyn - Tudo Que Eu Senti
+
+E9                     F#9             E9  F#9
+  Hoje quando eu acordei tudo estava estranho
+E9                     F#9             E9  F#9
+  Todas as luzes acesas me tiraram o sono
+E9                     F#9                    E9  F#9
+  E agora tudo que eu penso pra mim parece um sonho
+
+E9               F#9
+  É difícil de dizer, como você estava
+E9                F#9
+  É difícil te lembrar o que você falava
+E9              F#9
+  É difícil de dizer, como você estava
+E9                 F#9
+  É difícil de lembrar...
+
+(refrão)
+ A                  A7M             D
+  Tudo que eu senti, quando eu acordei
+                     E
+  E você tinha ido embora
+
+A               A7M
+  Me fez acreditar que talvez um dia
+      D            E            (E9 F#9 E9 F#9)
+  A gente pudesse se encontrar.
+
+E9                    F#9               E9
+  Hoje quando eu acordei tudo estava estranho...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7M = X 0 2 1 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E9 = 0 2 4 1 0 0
+F#9 = 2 4 6 3 2 2

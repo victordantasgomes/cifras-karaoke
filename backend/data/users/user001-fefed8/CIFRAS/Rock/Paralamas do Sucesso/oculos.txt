@@ -1,0 +1,93 @@
+@titulo: oculos
+@autor:
+@intérprete: Paralamas do Sucesso
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Os Paralamas do Sucesso - Óculos
+
+[Intro]  E  A  B
+         C#m  A
+
+E|----4-4-4-4-4----------------------5-4--4--------|
+B|----5-5-5-5-5--5-5-5-5-5--7-7-7--7-7-5--5--2-4---|
+G|---------------6-6-6-6-6--8-8-8--8---------2-4---|
+D|-------------------------------------------------|
+A|-------------------------------------------------|
+E|-------------------------------------------------|
+
+ E                A
+Se as meninas do Leblon
+           B
+Não olham mais pra mim
+(Eu uso óculos)
+E
+  E volta e meia
+          A                  B
+Eu entro com meu carro pela contramão
+(Eu to sem óculos)
+E
+  Se eu to alegre
+
+            A              B
+Eu ponho os óculos e vejo tudo bem
+E                                A
+  Mas se eu to triste eu tiro os óculos
+        B4
+Eu não vejo ninguém
+
+C#m     G#m        A               C#m
+   Porque você não olha pra mim? Ô ô
+    G#m                A             C#m
+Me diz o que é que eu tenho de mal ô ô
+     G#m        A
+Porque você não olha pra mim
+      B4                            E  A  B
+Por trás dessa lente tem um cara legal
+Oi Oi Oi
+
+E             A                  B
+  Eu decidir dizer que eu nunca fui o tal
+E           A
+  Era mais fácil se eu tentasse
+                     B
+Fazer charme de intelectual
+E
+  Se eu te disser
+        A              B
+Periga você não acreditar em mim
+E                 A
+  Eu não nasci de óculos
+       B
+Eu não era assim
+
+C#m     G#m        A               C#m
+   Porque você não olha pra mim? Ô ô
+    G#m                A             C#m
+Me diz o que e que eu tenho de mal ô ô
+     G#m        A
+Porque você não olha pra mim?
+      B4
+Por trás dessa lente tem um cara legal
+C#m      G#m           A            C#m
+   Por que você não olha pra mim? Ô ô
+
+C#m      G#m         A               C#m
+   Por que você diz sempre que não Ô ô
+C#m      G#m
+   Por que você não olha pra mim
+      B4
+Por trás dessa lente também bate um coração
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+G#m = 4 6 6 4 4 4

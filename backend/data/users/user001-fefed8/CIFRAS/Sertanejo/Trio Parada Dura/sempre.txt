@@ -1,0 +1,76 @@
+@titulo: sempre
+@autor:
+@intérprete: Trio Parada Dura
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trio Parada Dura - Sempre
+
+Intro: D A
+
+D                              A
+Quando me encontro sozinho eu sinto
+                       D
+Que a vida sem você é nada
+                            A
+Mergulhando na saudade eu choro
+                                D
+Ao sentir a sua falta nas madrugadas
+ Am               D         G G F#m Em
+Procurando disfarçar eu canto
+ E                          A
+Mas também o meu cantar é triste
+G
+Que adianta cantar
+      D
+Se a minha vontade é chorar
+ A                        D
+Minha vida sem você não existe
+
+
+             A
+Amor eu lhe peço
+                              D
+Não me abandone pelo amor de Deus
+                                  A
+se eu perder querida os carinhos seus
+              G                D D C#m Cm
+Toda a minha vida estará perdida
+ A                                    D
+Sempre,sempre ao seu lado eu quero viver
+              E                  A
+Sem ter que chorar sem nunca sofrer
+             G         A         D
+Seguiremos juntos por toda esta vida
+
+
+             A
+Amor eu lhe peço
+                              D
+Não me abandone pelo amor de Deus
+                                  A
+se eu perder querida os carinhos seus
+              G                D D C#m Cm
+Toda a minha vida estará perdida
+ A                                    D
+Sempre,sempre ao seu lado eu quero viver
+              E                  A
+Sem ter que chorar sem nunca sofrer
+             G         A         D
+Seguiremos juntos por toda esta vida
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C#m = X 4 6 6 5 4
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

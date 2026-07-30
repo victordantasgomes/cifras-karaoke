@@ -1,0 +1,93 @@
+@titulo: hino-da-jmj-2016
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Hino da JMJ 2016
+
+   C#m    A                 E
+1. levantarei meu olhar aos montes
+D            A      E
+De onde o auxílio virá
+         B                 F#  F#/G#
+Deus é a força de quem tem fé
+A     B         C#  B/C#
+Misericórdia Ele é
+ C#m         A               E
+2. quando erramos Ele é por nós
+D            A/C#     E
+Mostra-nos o colo do Pai
+        B           F#   F#/G#
+Com Seu sangue libertador
+A        B       C#
+Livra do mal e da dor
+          E B/D#            C#m7 A
+Bem aventurados os misericordiosos
+       E
+Porque eles
+        B        F#
+Alcançarão misericórdia
+
+           E B/D#          C#m7 A
+Bem aventurados os misericordiosos
+       E
+Porque eles
+       B         F#
+Alcançarão misericórdia
+
+C#m7           A9          E
+3. sem seu perdão quando eu cair
+D9          A/C#     E
+Quem poderá me levantar?
+          B                F#  F#/G#
+Se Deus perdoa quem somos nós
+A        B     C#
+Para não perdoar?
+C#m7              A9          E
+4. o sangue de Cristo nos resgatou
+D9  A/C#     E
+Ele ressuscitou
+       B           F#
+Grite pro mundo inteiro ouvir
+A        B       C#
+Jesus Cristo é o Senhor!
+
+   A           B         C#m7
+5. deixa o teu medo e tem fé
+A       B       C#
+Um novo tempo virá
+            B                C#m
+Cristo está vivo: vivo entre nós!
+A         B       C#
+E um dia Ele voltará!
+
+           A E9/G#        F#m   D
+Bem aventurados os misericordiosos
+        A
+Porque eles
+E                  B (F#m)
+Alcançarão misericórdia
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/C# = X 6 X 4 7 7
+B/D# = X 6 X 4 7 7
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E9/G# = 4 X 4 4 5 X
+F# = 2 4 4 3 2 2
+F#/G# = 4 X 4 3 2 X
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,61 @@
+@titulo: nem-pensar
+@autor:
+@intérprete: Paula Fernandes
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Paula Fernandes - Nem Pensar
+
+(intro)  E A E A  E A E A
+
+              E                 A                  E                  A
+Sem negar me se apaixonou e me fez perder o juízo
+              E             A                E                            A
+Sem negar que me iludiu me falando de um tal paraíso
+  C#m           A                 E                    B
+Afinal diga que eu sou inocente em acreditar
+           C#m       A                   E                  B
+Que você é a estrela cedente caída no meu quintal
+F#m         A             E                      B
+Talvez você seja um anjo pra me salvar
+F#m         A            E                      B
+Talvez eu seja a menina que vai te amar
+
+(refrão)
+C#m       A                 E                    B
+Nem pensar em sair voando sem ter onde pousar
+C#m       A                      E                 B
+Nem pensar em fugir do colo que é o seu lugar
+C#m       A                        E                        B
+Nem pensar em gostar de outra e fingir que nem me viu
+
+C#m       A                      E                      B
+Nem pensar em deixar de lado o beijo que é só teu
+
+              E                 A                  E                  A
+Sem negar me se apaixonou e me fez perder o juízo
+              E             A                E                            A
+Sem negar que me iludiu me falando de um tal paraíso
+  C#m           A                 E                    B
+Afinal diga que eu sou inocente em acreditar
+           C#m       A                   E                  B
+Que você é a estrela cedente caída no meu quintal
+F#m         A             E                      B
+Talvez você seja um anjo pra me salvar
+F#m         A            E                      B
+Talvez eu seja a menina que vai te amar
+
+( D A E D A B )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

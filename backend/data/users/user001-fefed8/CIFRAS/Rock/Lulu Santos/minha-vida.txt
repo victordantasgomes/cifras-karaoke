@@ -1,0 +1,77 @@
+@titulo: minha-vida
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - Minha Vida
+
+Intro 4x: A9 A
+
+       A9          A         F#m7
+Quando eu era pequeno eu achava a vida chata
+    E4          E7
+Como não devia ser
+    Bm          G         G#m7(b5)       G
+Os garotos da escola só a fim de jogar bola
+       G#m7(b5)   E            D     E4
+E eu queria ir tocar guitarra na TV
+    A9              A        F#m7
+Aí veio a adolescência e pintou a diferença
+    E4              E7
+Foi difícil de esquecer (entender, na segunda vez)
+   Bm            G          G#m7(b5)     G
+A garota mais bonita também era a mais rica
+     G#m7(b5)                D        E4
+Me fazia de escravo do seu bel prazer
+Solo: D E/D  D  E
+       A9          A         F#m7
+Quando eu saí de casa minha mãe me disse:
+
+           E4            E7
+Baby, você vai se arrepender
+       Bm        G          G#m7(b5)   G
+Pois o mundo lá fora num segundo te devora
+       G#m7(b5)       E               D     A
+Dito e feito, mas eu não dei o braço a torcer
+D            E/D    D               E/D
+Hoje eu vendo sonhos, ilusões de romance
+ C#m            Em7(b5) F#7      Bm    C#m     Dm
+E troco a minha vida         por um troco qualquer
+          A9          A              C#m7        F#7(4) F#7
+É o que chamam de destino, e eu não vou lutar por isso
+    Bm     A/C#    Dm    A9  A  A9  A A9 A A9 A
+Que seja assim enquanto é
+Quando eu era pequeno...
+Repete a segunda vez sem o solinho
+      Bm    A/C#   Dm
+Que seja assim enquanto
+    Bm    A/C#    Dm
+Ou seja assim enquanto
+     Bm     A/C#    Dm   A9 A A9 A A9 A A9 A
+Que seja assim enquanto é
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E4 = 0 2 2 2 0 0
+E7 = 0 2 2 1 3 0
+Em7(b5) = X X 2 3 3 3
+F#7 = 2 4 2 3 2 2
+F#7(4) = 2 4 2 4 2 X
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G#m7(b5) = 4 X 4 4 3 X

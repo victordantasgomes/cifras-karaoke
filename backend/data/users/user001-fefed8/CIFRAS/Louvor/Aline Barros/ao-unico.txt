@@ -1,0 +1,70 @@
+@titulo: ao-unico
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Ao Único
+
+[Intro] F  G  G/F
+        E7  Em7  Am7
+        Dm7  G4  G  C
+        F  G  C  F/A  G/B
+
+   C           G/B      Am7    Am7/G
+Ao único que é digno de receber
+  F           C/E
+A honra e a glória
+  Dm7         G4  G
+A força e o poder
+
+   Gm7          C7/G
+Ao rei, eterno, imortal
+F          Fm
+Invisível, mas real
+  G4        G        C    G/C  G#°
+A Ele ministramos o louvor
+
+   Am7  Em7   F     G      C  G#°
+Coroa - mos a ti, ó rei Jesus
+
+   Am7  Em7   F            G4   G
+Coroa - mos a ti, ó rei Jesus
+
+   F           G  G/F
+Adoramos o teu nome
+       Em7    G#°   Am7    D/F#
+Nos rendemos a teus pés
+       Dm7        G4    G    C
+Consagramos todo nosso ser a ti
+
+[Solo] C  G/B  Am7  Am7/G  F  C/E
+       Eb  C#/F  D/F#  G4  G
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Am7/G = 3 0 2 0 1 0
+C = X 3 2 0 1 0
+C#/F = X 8 X 6 9 9
+C/E = 0 3 2 0 1 0
+C7/G = 3 X 2 3 1 X
+D/F# = 2 X 0 2 3 2
+Dm7 = X 5 7 5 6 5
+E7 = 0 2 2 1 3 0
+Eb = X 6 5 3 4 3
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G#° = 4 X 3 4 3 X
+G/B = X 2 0 0 3 3
+G/C = X 3 5 4 3 3
+G/F = 1 X X 0 0 3
+G4 = 3 5 5 5 3 3
+Gm7 = 3 X 3 3 3 X

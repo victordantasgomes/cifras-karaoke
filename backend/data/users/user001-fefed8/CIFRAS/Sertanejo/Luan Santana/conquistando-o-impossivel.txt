@@ -1,0 +1,66 @@
+@titulo: conquistando-o-impossivel
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Conquistando o Impossível
+
+B          F#/Bb
+ Acredite é hora de vencer
+Abm                 E
+ Essa força vem de dentro de você
+B          F#/Bb                A      E/Ab   F#
+ Você pode até tocar o céu se crer
+
+B         F#/Bb
+ Acredite que nenhum de nós
+Abm                   E
+ Já nasceu com jeito pra super herói
+B                F#/Bb
+ Nossos sonhos, a gente é quem constrói
+     A                      E/Ab
+ É vencendo os limites, escalando as fortalezas.
+        G                      F#
+ Conquistando o impossível pela fé
+
+       B        F#/Bb        C#m7            Abm    F#
+ Campeão, vencedor, Deus da asas, faz seu voo - ooo
+       B        F#/Bb     C#m7              Abm        F#4              F#
+ Campeão, vencedor, essa fé que te faz imbatível te mostra o seu valor
+
+
+C#m7                 Abm7
+ Tantos recordes, você pode quebrar
+C#m7                A                      Ab
+ As barreiras você pode ultrapassar e vencer
+
+       C#        Ab/C        Ebm7            Bbm   Ab
+ Campeão, vencedor, Deus da asas, faz seu voo - ooo
+       C#        Ab/C      Ebm7              Bbm       Ab4             Ab
+ Campeão, vencedor, essa fé que te faz imbatível te mostra o seu valor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Ab = 4 3 1 1 1 4
+Ab/C = X 3 X 1 4 4
+Ab4 = 4 6 6 6 4 4
+Abm = 4 6 6 4 4 4
+Abm7 = 4 X 4 4 4 X
+B = X 2 4 4 4 2
+Bbm = X 1 3 3 2 1
+C# = X 4 6 6 6 4
+C#9 = X 4 6 6 4 4
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E/Ab = 4 X 2 4 5 X
+Ebm7 = X X 1 3 2 2
+F# = 2 4 4 3 2 2
+F#/Bb = 6 X 4 6 7 X
+F#4 = 2 4 4 4 2 2
+G = 3 2 0 0 0 3

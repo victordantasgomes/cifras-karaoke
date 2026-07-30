@@ -1,0 +1,107 @@
+@titulo: pode-ir-embora
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Pode Ir Embora
+
+(intro)
+
+E|-----0-1---3--3----1--1--1----3--3----1--1--1---------
+B|1--3--------1--1----1--1--1----1--1----1--1--1--------
+G|-------------2--2----2--2--2----2--2----2--2--2-------
+D|------------------------------------------------------
+A|------------------------------------------------------
+E|------------------------------------------------------
+
+E|--------0-------------------------------------------0-
+B|-3--------------1-----1-----1----------------------1--
+G|---0-------0------0-----0-----0-----------0-------0---
+D|-----2-------2------2-----2-----2-------2---2----2----
+A|--------------------------------------3---------3-----
+E|------------------------------------3-----------------
+
+     C                               Dm/G
+Procurei em outros braços sentir seu calor
+      F                               C       G
+Procurei em outras bocas sentir seu sabor
+     Am                            Dm
+Procurei em outro corpo um perfume seu
+
+        F      G            C
+Mas meu coração não te esqueceu
+    G       Am            F/G                   G
+O amor é assim chega de repente faz a gente se perder
+                                                               D|--------
+                                                               A|--0---2-
+
+Ta marcado em mim não sai do pensamento querendo me enlouquecer
+             F
+Pode ir embora deixe as lembranças que restaram de nós dois
+                         C
+Que a qualquer hora vai se arrepender e a saudade vem depois
+        G                                                       F          C    C7
+Não adianta segue seu caminho sem lembrar que um dia eu fui o amor da sua vida
+             F
+Vai fecha a porta faz como se tudo não passasse de ilusão
+        C
+Me ignora, destrói o sentimento e vai atrás de outra paixão
+          G                                                       F    G     C
+Esquece tudo prometo não chorar e nem tentar te convencer que um dia amei você
+
+(solo)
+E|-3--3----1--1--1----3--3----1--1--1---------0---------
+B!--1--1----1--1--1----1--1----1--1--1-------1----------
+G|---2--2----2--2--2----2--2----2--2--2-----0-----------
+D|-----------------------------------------2------------
+A|----------------------------------------3------3--2-0-
+E|------------------------------------------------------
+
+           Am            F/G                   G
+O amor é assim chega de repente faz a gente se perder
+
+             Am                 F/G                      G        C
+Ta marcado em mim não sai do pensamento querendo me enlouquecer
+             F
+Pode ir embora deixe as lembranças que restaram de nós dois
+                 C
+Que a qualquer hora vai se arrepender e a saudade vem depois
+        G                                                       F         C    C7
+Não adianta segue seu caminho sem lembrar que um dia eu fui o amor da sua vida
+              F
+Vai fecha a porta faz como se tudo não passasse de ilusão
+        C
+Me ignora, destrói o sentimento e vai atrás de outra paixão
+         G                                                        F    G     C      D
+Esquece tudo prometo não chorar e nem tentar te convencer que um dia amei você
+           G
+Pode ir embora deixe as lembranças que restaram de nós dois
+                D
+Que a qualquer hora vai se arrepender e a saudade vem depois
+       A                                                        G           D   D7
+Não adianta segue seu caminho sem lembrar que um dia eu fui o amor da sua vida
+             G
+Vai fecha a porta faz como se tudo não passasse de ilusão
+         D
+Me ignora, destrói o sentimento e vai atrás de outra paixão
+         A                                                        G    A     D
+Esquece tudo prometo não chorar e nem tentar te convencer que um dia amei você
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+Dm/G = 3 X X 2 3 1
+F = 1 3 3 2 1 1
+F/G = 3 X 3 2 1 X
+G = 3 2 0 0 0 3

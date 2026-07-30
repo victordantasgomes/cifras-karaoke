@@ -1,0 +1,49 @@
+@titulo: foi-o-mordomo
+@autor:
+@intérprete: Paralamas do Sucesso
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Os Paralamas do Sucesso - Foi o Mordomo
+
+(intro) A C#m D
+
+          A                                    C#m                                      D                                   Dm
+Estou trancado no meu quarto Esperando que algum fato emocionante venha a ocorrer
+E                                                Fº
+Assisto muito sério um destes filmes de mistério
+F#m
+Que não fazem mal
+E                         Ebº                                   D                  Dm
+Em qualquer canal que eu ligue o mordomo é o culpado
+
+                 A                                    C#m                                      D
+E a tarde cinza vai passando         E eu espero o tempo todo pela hora de estar com você
+      E                                   Fº
+Eu digo o seu nome e olho para o telefone
+              F#m         E
+Que não dá sinal, mudez total
+         Ebº             D    Dm                                      Dm
+Você não liga e o mordomo é o culpado
+
+A               C#m                    D
+Eu tenho andado sério, preocupado
+
+A               C#m                             D             Dm
+Você não liga e o mordomo
+É o culpado
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+Ebº = X X 1 2 1 2
+F#m = 2 4 4 2 2 2
+Fº = X X 3 4 3 4

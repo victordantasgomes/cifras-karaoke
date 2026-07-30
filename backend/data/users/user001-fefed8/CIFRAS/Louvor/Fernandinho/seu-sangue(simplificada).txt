@@ -1,0 +1,51 @@
+@titulo: seu-sangue(simplificada)
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Seu Sangue
+
+[Intro] F#m
+
+A           E
+Seu sangue,  Sua cruz
+F#m           D
+Me levam de volta pra Deus
+A          E
+Sua morte,   Sua vida
+F#m          D
+As trevas,  ele já venceu
+
+E          D             E            D
+Seu amor me conquistou, Sou eterno devedor
+G                 D
+O véu se rasgou
+                       F#m
+Sua luz em mim brilhou
+                   E
+Sua glória me cobriu
+                      D     E
+Mais que vencedor eu sou
+
+                      D    E
+Mais que vencedor eu sou
+
+A                          E
+Sei que na sala do trono está
+               F#m
+Eu quero ir pra lá
+            D
+Pelo novo e vivo caminho
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

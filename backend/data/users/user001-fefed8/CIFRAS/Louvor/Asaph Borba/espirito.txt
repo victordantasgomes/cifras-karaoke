@@ -1,0 +1,36 @@
+@titulo: espirito
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Espírito
+
+Am              F G Em
+Esprito, Espírito
+F          G        Am
+Espírito Santo de Deus
+Am              F G Em
+Esprito, Espírito
+F          G        Am
+Espírito Santo de Deus
+F           G             C  Am
+Vem controlar todo o meu ser
+ F       G            Am
+Vem dirigir o meu viver
+   F             Am
+O meu pensar, o meu falar
+F                 G
+O meu sentir, o meu agir
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

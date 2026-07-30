@@ -1,0 +1,45 @@
+@titulo: santo
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Santo
+
+[Intro] Dm  Am  Dm  Am
+
+Dm             Am                 Bb               Dm  C
+Santo, santo, santo é o Senhor, Senhor Deus do universo
+   F                C               Bb
+O Céu e a terra proclamam a vossa gloria
+Dm              Am                 Bb             Dm  C
+Santo, santo, santo é o Senhor Senhor Deus do universo
+  F                  C              Bb
+O céu e a Terra proclamam a vossa glória
+Dm       C      Bb
+Hosana no alto céu
+
+  Dm                 Am      Bb          Dm  C
+Bendito é aquele que vem, em nome do senho__or
+  Dm       C           Bb     Dm      C            D
+Hosana, Hosana no alto céu Hosana, Hosana no alto céu
+G              D/F#              Am               Em  D/F#
+Santo, santo, santo é o senhor, senhor Deus do universo
+  G                 D              Am        C      D     G
+O Céu e a terra proclamam a vossa gloria Hosana no alto céu
+
+----------------- Acordes -----------------
+Am*  = X 0 2 2 1 0 - (*Gm na forma de Am)
+Bb*  = X 1 3 3 3 1 - (*Ab na forma de Bb)
+C*  = X 3 2 0 1 0 - (*A# na forma de C)
+D*  = X X 0 2 3 2 - (*C na forma de D)
+D/F#*  = 2 X 0 2 3 2 - (*C/E na forma de D/F#)
+Dm*  = X X 0 2 3 1 - (*Cm na forma de Dm)
+Em*  = 0 2 2 0 0 0 - (*Dm na forma de Em)
+F*  = 1 3 3 2 1 1 - (*D# na forma de F)
+G*  = 3 2 0 0 0 3 - (*F na forma de G)

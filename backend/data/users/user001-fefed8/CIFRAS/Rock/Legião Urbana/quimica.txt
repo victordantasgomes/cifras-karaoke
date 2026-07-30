@@ -1,0 +1,104 @@
+@titulo: quimica
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Química
+
+Intro: E
+
+       E5                 D5       C#5
+Estou trancado em casa e não posso sair
+   E5            D5          C#5
+Papai já disse, tenho que passar
+    E5             D5          C#5
+Nem música eu não posso mais ouvir
+     E5           D5           C#5
+E assim não posso nem me concentrar
+
+C#m5         (B5) A5
+Não saco nada de Física
+C#m5       (B5)   A5
+Literatura ou Gramática
+ D5               G5         C5
+Só gosto de Educação Sexual
+             B5
+E eu odeio Química
+
+(Intro)
+
+
+     E5           D5         C#5
+Não posso nem tentar me divertir
+  E5            D5           C#5
+O tempo inteiro eu tenho que estudar
+     E5          D5          C#5
+Fico só pensando se vou conseguir
+    E5          D5        C#5
+Passar na porra do vestibular
+
+C#m5         (B5) A5
+Não saco nada de Física
+C#m5       (B5)   A5
+Literatura ou Gramática
+ D5               G5          C5
+Só gosto de Educação Sexual
+             B5      A5      G5    C#5 B5
+E eu odeio Química, Química, Química
+
+    E5                     G5
+Chegou a nova leva de aprendizes
+   A5                  C5
+Chegou a vez do nosso ritual
+  E5                        G5
+E se você quiser entrar na tribo
+ A5                     C5
+Aqui no nosso Belsen tropical
+
+     E5           G5            A5            C5
+Ter carro do ano, TV a cores, pagar imposto, ter pistolão
+     E5              G5                 A5             C5
+Ter filho na escola, férias na Europa, conta bancária, comprar feijão
+     E5          G5              A5              C5
+Ser responsável, cristão convicto, cidadão modelo, burguês padrão
+
+      E5                      G5
+Você tem que passar no vestibular
+    A5                        C5
+Você tem que passar no vestibular
+
+{Refrão}
+
+  Solo: E5  D5  C#5
+E|---------------------12----------------------------------------12-----|
+B|---------------------12--------------12-10---------------------12-----|
+G|-/9--12--9--12-12--9h12-9h12-12-9-12-------12-9-12-9----9~--/9h12-9-9-|
+D|-----------------------------------------------------12---------------|
+A|----------------------------------------------------------------------|
+E|----------------------------------------------------------------------|
+
+E|-------------------------------|
+B|--------------10-12-10---------|
+G|----9------12----------12-9-12-|
+D|-12---12-9---------------------|
+A|-------------------------------|
+E|-------------------------------|
+
+(Refrão)
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+B5 = X 2 4 4 X X
+C#5 = X 4 6 6 X X
+C#m5 = X 4 6 6 5 4
+C5 = X 3 5 5 X X
+D5 = X 5 7 7 X X
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+G5 = 3 5 5 X X X

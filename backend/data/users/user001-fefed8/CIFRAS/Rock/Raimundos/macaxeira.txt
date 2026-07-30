@@ -1,0 +1,75 @@
+@titulo: macaxeira
+@autor:
+@intérprete: Raimundos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raimundos - Macaxeira
+
+Intro: F# (4x)
+
+F#                A
+Ando de porre do gosto bom
+       E                 D
+Que aquela menina linda me deixou
+ F#              A
+Já bebi mais de cinco litros d’água
+       D                       B
+Uma estaca essa ressaca ainda não curou
+      F#                 A
+Não quero ir com tanta pressa
+ E                   D
+Pode crer que eu tô bem à beça
+  F#
+Bate no lombo do jegue
+      A
+Onde "os miolo” ferve
+          D                       B
+A mula empaca pela falta de óleo no motor
+
+
+[Refrão]
+    F#  E          B         D
+Te dar macaxeira pra você ralar
+   B          D
+O bucho faz querer mais
+
+  F#           A
+Acima do seu joelho
+  E                D
+É onde encontro o meu sossêgo
+    F#                   A
+Eu já andei de mais, tô dentro tanto faz
+        D                                B
+Minhas bolas ainda tão cheia e eu tô mandando gás
+
+[Refrão]
+    F#  E          B         D
+Te dar macaxeira pra você ralar
+   B          D
+O bucho faz querer mais
+   F#  E             B             D
+Colar teus pedaços pra depois quebrar
+     B           D
+Teu som me faz querer mais
+
+F# C# (3x) F#
+
+Solo: A C# B A D E
+
+[Repete o segundo refrão]
+
+Termina com: F# C# (3x) F# (4x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2

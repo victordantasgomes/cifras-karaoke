@@ -1,0 +1,101 @@
+@titulo: batiza-me
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Batiza-me
+
+Intro:  Am  G  F7M  G
+
+  Am           G           Am
+ Sei que tem ciumes de mim
+           G         Dm
+ Sei que clamas por mim
+              G             Dm
+ Esperando estou por Teu agir
+  F7M      Em             Am
+ Vento de Deus, sopra em mim
+
+ Am            G           Am
+ Sei que tem ciumes de mim
+           G         Dm
+ Sei que clamas por mim
+              G             Dm
+ Esperando estou por Teu agir
+  F7M      Em             Am
+ Vento de Deus, sopra em mim
+
+   Am              G
+Batiza-me com Teu fogo
+
+   Dm              Am  G/B
+Batiza-me com Teu fogo
+ C9            Em         Am
+Santo, Santo, Santo Espírito
+
+   Am              G
+Batiza-me com Teu fogo
+   Dm              Am  G/B
+Batiza-me com Teu fogo
+ C9            Em         Am
+Santo, Santo, Santo Espírito
+
+Após o primeiro refrão a guitarra faz esse riff:
+E|-------------------------|
+B|-------------------------|
+G|-9-10-9-7-9-9-9-9--------| 4x
+D|-------------------------|
+A|-------------------------|
+E|-------------------------|
+
+Inter: Am  G 4×
+
+  C9            C7M/9
+ Me esvaziar de mim
+  Dm                 Am       G/B
+ Me transbordar de Ti
+       C9            Dm         F9
+ Os meus dias viverei pra Ti
+    G       Am
+ Espírito Santo
+
+  C9            C7M/9
+ Me esvaziar de mim
+  Dm                 Am       G/B
+ Me transbordar de Ti
+       C9            Dm         F9
+ Os meus dias viverei pra Ti
+    G       Am
+ Espírito Santo
+
+   Am              G
+Batiza-me com Teu fogo
+   Dm              Am  G/B
+Batiza-me com Teu fogo
+ C9            Em         Am
+Santo, Santo, Santo Espírito
+
+   Am              G#º
+Batiza-me com Teu fogo
+   Dm              Am  G/B
+Batiza-me com Teu fogo
+ C9            Em         Am
+Santo, Santo, Santo Espírito
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C7M/9 = X 3 2 4 3 X
+C9 = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F7M = 1 X 2 2 1 X
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G#º = 4 X 3 4 3 X
+G/B = X 2 0 0 3 3

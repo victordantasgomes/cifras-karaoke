@@ -1,0 +1,67 @@
+@titulo: teu-povo-clama
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Teu Povo Clama
+
+Intro: G9  Em7  C9 (2x)
+       Am7 G/B C9 A7/C# Am7 D7/4 F9 C/E
+
+G9       D/F#       Em7 D/F#
+Teu povo clama pelo Teu amor
+G9     D             E4 E7 D/F# E/G#
+Cansado pela transgressão
+Am7       G/B           C7M  A/C#
+Pedindo socorro, vem aqui, agora
+Am7       G/D       F9    C/E
+Suplicando pela Tua voz
+
+G9       D/F#       Em7   D/F#
+Nos fala através do Teu Espírito
+G9        D/F#      E4 E7 D/F# E/G#
+Promove a cura pelo Teu louvor
+
+Am7           G/B         C7M  A/C#
+Que coisa tão linda ver aqui, agora
+Am7      G/D          G7M Em7 F9 C/E F9 D/F# E/G# D/F#
+Um pedaço do Teu reino
+
+(repete tudo)
+
+Am7           G/B         C7M  A/C#
+Que coisa tão linda ver aqui, agora
+Am7      G/D         G9
+Um pedaço do Teu reino
+Am7           G/B         C7M  A/C#
+Que coisa tão linda ver aqui, agora
+Am7      G/D        F9 C/E E C/E D/F# G
+Um pedaço do Teu reino
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A7/C# = X 4 5 2 5 X
+Am7 = X 0 2 0 1 0
+C/E = 0 3 2 0 1 0
+C7M = X 3 2 0 0 X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7/4 = X X 0 2 1 3
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+E7 = 0 2 2 1 3 0
+Em7 = 0 2 2 0 3 0
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G7M = 3 X 4 4 3 X
+G9 = 3 X 0 2 0 X

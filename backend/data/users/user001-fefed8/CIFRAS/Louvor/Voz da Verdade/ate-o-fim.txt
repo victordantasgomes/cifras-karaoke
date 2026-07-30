@@ -1,0 +1,60 @@
+@titulo: ate-o-fim
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Até o Fim
+
+(intro 2x) Am7  D/F#  G9 C9
+
+G9   D/F#        Em7  G9  D/F#       Em7
+Anjos cantam para mim, vão dizendo: vá até o fim
+C9  G/B        Am7  C9    G/B        Am7
+O caminho é tão longo mas eu tenho que prosseguir
+  D     G/B  C9
+Até o fim, até o fim } 2 vezes
+G9   D/F#           Em7 G9    D/F#       Em7
+A esperança quase acabou, mas eu não desisto de
+
+lutar
+C9    G/B       Am7  C9    G/B          Am7
+Pois eu ouço uma voz: contigo sempre ei de caminhar
+  D      G/B C9
+Até o fim, até o fim } 2 vezes
+
+(solo) Em7 C9 Am7 Bm7 Em7 Em7 C9 Am7 Bm7
+
+       Em  C      D    Bm7      C9
+Até o fim, até o fim, sempre resistindo ao mal, se
+
+Am7         D
+entregar jamais
+       Em  C9   D    Bm7             C9   Am7
+Até o fim, até o fim, sempre tendo de lutar, devo
+      D
+caminhar
+
+(solo)
+
+( Am7 D Bm7 Em7 C9 Am7 Bm7 Em7 D Bm7, Em7 Am7 Bm7 Em7 )
+
+       Em
+Até o fim
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G/B = X 2 0 0 3 3
+G9 = 3 X 0 2 0 X

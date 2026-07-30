@@ -1,0 +1,70 @@
+@titulo: instante-magico
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Instante Mágico
+
+  D                                  G
+É mágico o instante em que eu te encontro
+   A7                       D
+é Bálsamo que invade o meu peito
+      Bm                     G
+Me sinto tão feliz que fico tonto
+     A7                        D
+Por mais que eu evite não tem jeito
+ Bm                         A
+Você tem um poder que me domina
+    A7
+Me ama quando quer
+       D
+E eu aceito
+D                          G
+Sou sempre levado por seu beijo
+    A7                       D
+Que tem sempre a emoção da primeira vez
+     Bm                        G
+Que deixa as mãos suadas de desejos
+    A7                    D
+Eu quero sempre mais te amar outra vez
+
+ Bm                          A
+Você tem tudo a ver com a minha vida
+                               D
+Não é mais impressão agora eu sei
+
+         A7
+Sabe de mim
+         G               D
+Como se lesse meus pensamentos
+             A7
+Fala com os olhos
+           G/B        D4   D
+Quando me olha eu não agüento
+          A7
+E fico assim
+         G               D4  D
+Em suas mãos feito um meni...no
+          A7
+As vezes acho
+           G/B A/C#        D
+Que você é dona do meu destino
+
+   D                                G
+É mágico o instante em que eu te encontro
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

@@ -1,0 +1,30 @@
+@titulo: jesus
+@autor:
+@intérprete: Padre Marcelo Rossi
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Padre Marcelo Rossi - Jesus
+
+ A   E   F#m   E         D     A        E
+Je...e...sus,  Je...e...sus,  Je...e...sus
+
+ A   E   F#m   E         D    E         A
+Je...e...sus,  Je...e...sus,  Je...e...sus
+
+ D   E   F#m   D    E    A
+Je...e...sus,  Je...e...sus
+
+ D   E   F#m   D    E    A
+Je...e...sus,  Je...e...sus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,117 @@
+@titulo: sem-cansar
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Sem Cansar
+
+Intro(2x)
+e|------------------------------------------------|
+B|------------------------------------------------|
+G|-2----2-------2------------------------2-----2--|
+D|--2-2---2-2-4---2-2h4-4----2-2s4-4-4-4---2-2----|
+A|------------------------------------------------|
+E|------------------------------------------------|
+
+e|------------------------------------------------|
+B|------------------------------------------------|
+G|-------2-----------------------2-----2--------2-|
+D|-2-2-4---2-2h4-4--2-2s4-4-4-4----2-2--2-2-2-4---|
+A|------------------------------------------------|
+E|------------------------------------------------|
+
+e|------------------------------------------------|
+B|------------------------------------------------|
+G|-2----2---------2-------------------------------|
+D|--2-2---2-2-2-4---------------------------------|
+A|------------------------------------------------|
+E|------------------------------------------------|
+
+
+Solo no Refrão:
+e|------------------------------------------------|
+B|------------------------------------------------|
+G|-2----2-------2------------------------2-----2--|
+D|--2-2---2-2-4---2-2h4-4----2-2s4-4-4-4---2-2----|
+A|------------------------------------------------|
+E|------------------------------------------------|
+
+e|------------------------------------------------|
+B|------------------------------------------------|
+G|-------2-2s4-2----------s2-----2---------2------|
+D|-2-2-4---------4------0---2-4----2-2-2-4--------|
+A|-----------------4-4----------------------------|
+E|------------------------------------------------|
+
+Refrão:
+
+A                       F#m
+La la la la la la la la la la
+A                       F#m
+La la la la la la la la laaaa
+D
+Sem cansar
+A
+La la la la la
+
+A                                 F#m
+Qual é a parte do corpo que você mais gosta?
+A                                 F#m
+Qual o veneno que despe e dá calor?
+A                                 F#m
+Por amor, por tédio ou por prazer
+A                                 F#m
+Eu posso ir e vir mas não vou embora
+    D
+Vou voltar
+A
+La la la la la
+
+A                                 F#m
+Um sussurro vira um incêndio
+A                         F#m
+Um paraíso onde se queima
+A                                 F#m
+Sem pensar, sem pausa nem descanso
+A                                 F#m
+Eu posso ir e vir mas nao vou embora
+    D
+Vou voltar
+A
+La la la la la
+
+REFRÃO
+
+
+A                                 F#m
+Outra vez vou derreter com você
+A                            F#m
+Repetir sem explicar porque
+A
+Se você já me rendeu
+Gosta tanto quanto eu
+D                        A
+O comando agora é todo seu
+
+A F#m
+
+A                            F#m
+Hey quero ser seu vício favorito
+A                             F#m
+E só mover o seu mundo com os meus dedos
+
+D                       A
+Sem Cansar Lá lá lá lá lá
+
+Repete REFRÃO várias vezes e vai diminuindo o som
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,76 @@
+@titulo: noites-traicoeiras(versão 3)
+@autor:
+@intérprete: Padre Marcelo Rossi
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Padre Marcelo Rossi - Noites Traiçoeiras
+
+INTRO: G9   D/F#   Em7   C9   Am7   D9
+
+  G9        D/F#        Em7  Em/D
+Deus está aqui neste momento
+         C9      D9           G9   C/D
+Sua presença é real em meu viver
+   G9        D/F#           Em7     Em/D
+Entregue sua vida e seus problemas
+         C9        D9           G9  G9 D/F# Em7
+Fale com Deus, ele vai ajudar você.
+
+Em/D             C9
+Deus te trouxe aqui
+          D9               G9    G9 D/F# Em7
+Para aliviar os teus sofrimentos
+
+  Em/D           C9
+É ele o autor da fé
+                 D9
+Do princípio ao fim
+     D/F#            G9       G7
+De todos os seus tormentos
+
+
+(refrão)
+   F9/A   G/B  C9                D9
+E ainda   se   vier, noite traiçoeira
+     D/C         Bm7        D/A        Em7
+Se a cruz pesada for, Cristo estará contigo
+             Am7
+O mundo pode até
+  Am7/G        D9
+Fazer você chorar
+    D/F#               G9
+Mas Deus te quer sorrindo (bis)
+
+          D/F#            Em7  Em/D
+Seja qual for o seu problema
+         C9            D9       G9  C/D
+Fale com Deus, ele vai ajudar você
+  G9   D/F#         Em7  Em/D
+Após a dor vem a alegria
+            C9            D9          G9  G9 D/F# Em7
+Pois Deus é amor e não te deixará sofrer
+
+(repete a partir de Deus te trouxe aqui... Até o refrão só 1x)
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Am7/G = 3 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C/D = X X 0 0 1 0
+C9 = X 3 5 5 3 3
+D/A = X 0 X 2 3 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+Em/D = X X 0 4 5 3
+Em7 = 0 2 2 0 3 0
+F9/A = 5 X X 5 6 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3
+G9 = 3 X 0 2 0 X

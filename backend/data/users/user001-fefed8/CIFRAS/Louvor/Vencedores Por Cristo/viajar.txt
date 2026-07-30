@@ -1,0 +1,60 @@
+@titulo: viajar
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Viajar
+
+[Intro] E  E/G#  A7+  C/D  Bb/C  A/B  A  F#m7  A/B
+
+ E            A7+     C#m       Bm7 A/B
+Toda estrada leva a algum lugar
+ E             G         C7+        A  A/B
+Mesmo que não seja aonde se quer ir
+E        E/G#      A7+       F#/A#
+É preciso escolher, é preciso decidir
+ A   E/G# F#m7    A/B     E   Bm7  A/B
+Ver a direção e então partir
+
+ E     E/G#  A         G#7
+Viajar,      alegria a cada dia
+C#m    C#m7+  C#m7          F#/A#
+Viajar         ter a paz por companhia
+F#m7    E/G#  A         F#/A#
+Viajar,      ter socorro sempre perto
+   F#m7      D   F#m7  E  Bm7 A/B
+Só Cristo é rumo certo
+
+E      E/G#   A            G#7
+Viajar       descobrir o que é a vida
+C#m    C#m7+  C#m7        F#/A#
+Viajar        segurança em toda via
+F#m7    E/G#   A          F#/A#
+Viajar,       nunca mais estar sozinho
+   F#m7     D  F#m7  E   Bm7  A/B
+Só Cristo é o caminho
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A7+ = X 0 2 1 2 0
+Bb/C = X 3 X 3 3 1
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+C#m7+ = X 4 6 5 5 4
+C/D = X X 0 0 1 0
+C7+ = X 3 2 0 0 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#/A# = 6 X 4 6 7 X
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G#7 = 4 6 4 5 4 4

@@ -1,0 +1,197 @@
+@titulo: estranho
+@autor:
+@intérprete: Marília Mendonça
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Marília Mendonça - Estranho
+
+[Intro] D5  G7M  D/A  F#m
+        Bm7  A/C#  D  D/F#
+
+Parte 1 de 2
+
+   D5  G7M      D/A      F#m
+E|-5---0-2---5--0-2---5--0-2-------0-2------|
+B|-3-------3--------3----------2-3----------|
+G|-2-------0----2--------2---2--------------|
+D|------------------------------------------|
+A|--------------0---------------------------|
+E|-----3-----------------2------------------|
+
+Parte 2 de 2
+
+  Bm7  A/C#  D   D/F#  
+E|------------------------------------------|
+B|-3----2-----------------------------------|
+G|-2----2----2------------------------------|
+D|-4----2----4----4-------------------------|
+A|-2----4----5----5-------------------------|
+E|----------------2-------------------------|
+
+
+[Primeira Parte]
+
+ G9
+Deixa eu perguntar uma coisa
+     A4
+Não tá dando certo entre a gente?
+               Bm7
+Quem cala, consente
+                             A
+Eu acho que deu pra entender
+
+       G9
+Minha mão já não tá mais na sua
+   A4                      F#m7
+A gente anda pela rua separados
+                   Bm7  A
+Nem parecemos namorados
+
+     G9
+A aliança virou enfeite do dedo
+       A4
+Nossa cama agora é só pra dormir mesmo
+       F#m7
+E, no carro, parece que eu tô levando
+                 Bm7  A/C#  D  D/F#
+Um simples passageiro
+
+[Primeira Parte]
+
+Parte 1 de 3
+
+   G9  A4  Bm7            A
+E|-----0------------------------------------|
+B|-0---3---3---2-3----3---2-----------------|
+G|-2---2---2-4-----4--2---2-----------------|
+D|-0-------4----------4---2-----------------|
+A|-----0---2----------2---0-----------------|
+E|-3----------------------------------------|
+
+Parte 2 de 3
+
+   G9  A4  F#m7    Bm7    A
+E|-----0------------------------------------|
+B|-0---3---5---5---3--3---2-----------------|
+G|-2---2---2-2-2-2-2--2---2-----------------|
+D|-0-------2-------4--4---2-----------------|
+A|-----0-----------2--2---0-----------------|
+E|-3-------2--------------------------------|
+
+Parte 3 de 3
+
+   G9  A4  F#m7       Bm7  A/C#  D   D/F#
+E|-----0------------------------------------|
+B|-0---3---5--5--5--5--3----2----3----------|
+G|-2---2---2--2--2--2--2----2----2----------|
+D|-0-------2--2--2--2--4----2----4----4-----|
+A|-----0---------------2----4----5----5-----|
+E|-3-------2--2--2--2-----------------2-----|
+
+[Refrão]
+
+    G
+Estranho
+                               A9
+Você me beija e minha boca estranha
+                            F#m7(11)
+O seu carinho parece que arranha
+
+O seu abraço é tão solto
+        Bm7
+Não consegue me prender
+
+    G
+Estranho
+                               A9
+Você me beija e minha boca estranha
+                            F#m7(11)
+O seu carinho parece que arranha
+
+O seu abraço é tão solto
+       (passagem)
+Não consegue me prender
+
+Onde eu desconheci você?
+
+G  A9  F#m7(11)  (passagem)
+
+[Passagem]
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|---2---2---2---2--------------------------|
+D|---------0--------------------------------|
+A|-2---4------------------------------------|
+E|-------------2----------------------------|
+
+[Primeira Parte]
+
+       G
+Minha mão já não tá mais na sua
+   A9                      F#m7(11)
+A gente anda pela rua separados
+                   Bm7
+Nem parecemos namorados
+
+     G
+A aliança virou enfeite do dedo
+       A9
+Nossa cama agora é só pra dormir mesmo
+       F#m7(11)
+E, no carro, parece que eu tô levando
+                 (passagem)
+Um simples passageiro
+
+[Refrão]
+
+    G
+Estranho
+                               A9
+Você me beija e minha boca estranha
+                            F#m7(11)
+O seu carinho parece que arranha
+
+O seu abraço é tão solto
+        Bm7
+Não consegue me prender
+
+    G
+Estranho
+                               A9
+Você me beija e minha boca estranha
+                            F#m7(11)
+O seu carinho parece que arranha
+
+O seu abraço é tão solto
+       (passagem)
+Não consegue me prender
+                      G
+Onde eu desconheci você?
+                      A9  F#m7(11)
+Onde eu desconheci você?
+(passagem)     G
+           Estranho
+
+----------------- Acordes -----------------
+A = X 0 P2 2 2 X
+A/C# = X 4 P2 2 2 X
+A4 = X 0 2 2 3 0
+A9 = X 0 2 2 0 0
+Bm7 = X 2 4 2 3 2
+D = X 5 4 P2 X X
+D/A = X 0 X 2 3 2
+D/F# = P2 5 4 2 X X
+D5 = X X X 2 3 5
+F#m = 2 X X 2 X 2
+F#m7 = P2 X 2 2 5 X
+F#m7(11) = 2 X 2 2 0 X
+G = 3 2 0 0 3 3
+G7M = 3 X 0 0 3 2
+G9 = 3 X 0 2 0 X

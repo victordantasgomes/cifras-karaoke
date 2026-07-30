@@ -1,0 +1,94 @@
+@titulo: mais-do-que-tudo
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Mais do Que Tudo
+
+INTRO: ||:   Bm7   |    C7M    |     D     |    G/E  :||
+
+
+       Bm7              C7M
+QUÃO AMÁVEIS SÃO TEUS TABERNÁCULOS
+     D               G/E
+MINHALMA DESFALECE PELOS TEUS ÁTRIOS
+C7M                    G2/B
+MEU CORAÇÃO SUSPIRA E EXULTA
+   Em7   A7/C#
+PELO DEUS VIVO
+
+   Bm7/C        G2/B
+O PARDAL ENCONTROU UMA CASA
+     D           G/E
+E A ANDORINHA O SEU NINHO
+C7M                    G2/B
+EU ENCONTREI TEUS ALTARES SENHOR
+  Em7       A
+REI MEU E DEUS MEU
+
+
+      C2              G              A/C#
+POIS UM DIA CONTIGO    VALE MAIS DO QUE MIL
+
+F#m7 A Bm7       F#m7           Em7
+UMA COISA PEÇO AO SENHOR E A BUSCAREI
+             Bm7         F#m7              A      A/F#
+QUE EU POSSA HABITAR EM SUA PRESENÇA PRA SEMPRE
+
+
+A   Bm7       F#m7         Em7
+UMA COISA PEÇO AO SENHOR E RECEBEREI
+      Bm7            F#m7
+TODOS OS DIAS DA MINHA VIDA
+   G         F#m7
+SUA BELEZA CONTEMPLAREI
+     Em7              G/A
+MAIS DO QUE TUDO TE QUERO SENHOR
+       D
+TE BUSCAREI
+
+  Bm7   F#m7    G                Bm7
+POIS NO DIA DA ADVERSIDADE ELE ME OCULTARÁ
+  G                        A
+NO RECÔNDIDO DO TABERNÁCULO ME ACOLHERÁ
+   G               A
+ME ELEVARÁ SOBRE UMA ROCHA
+    Bm      A    G
+MINHA CABEÇA EXALTARÁ
+  Em                     A
+A TI SENHOR, CANTAREI COM JÚBILO
+
+Tag
+    Em7                   F#m7
+MAIS DO QUE TUDO TE QUERO SENHOR
+   G2                      F#m7
+MAIS DO QUE TUDO TE QUERO SENHOR
+     Em7                G/A
+MAIS DO QUE TUDO TE QUERO SENHOR
+         D
+TE BUSCAREI
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/F# = 2 0 2 2 2 0
+A7/C# = X 4 5 2 5 X
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C2 = X 3 5 5 3 3
+C7M = X 3 2 0 0 X
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/E = 0 2 0 0 3 3
+G2 = 3 X 0 2 0 X
+G2/B = 7 X X 7 8 5

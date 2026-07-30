@@ -1,0 +1,53 @@
+@titulo: salve-a-padroeira-do-brasil
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Salve a Padroeira do Brasil
+
+(intro) F Bb C Dm F Bb C7 F Bb/C F
+
+(refrão)
+F                         Bb               C                 Dm C/E
+Salve a Padroeira do Brasil, Mãe do Redentor.
+F                         Bb        C7                F
+A Senhora Aparecida, Nossa Mãe de amor.
+
+          F              C          C7               F
+Oh! Mãe Imaculada, Senhora Aparecida.
+   F/A                C          C7                    F
+Tu és, ó Mãe amada, Rainha da nossa vida.
+   F7               Bb        C                     Dm
+A ti o nosso canto, estrela que nos conduz,
+     F               G7      C7                     F
+na fé e na esperança ao encontro de Jesus.
+
+(refrão)
+
+       F              C                  C7               F
+Maria tu meditavas tantas coisas no coração.
+
+   F/A                     C                C7                      F
+Também te preocupavas com todos, com cada irmão.
+   F7               Bb             C                  Dm
+Senhora intercessora de todo povo de Deus,
+       F               G7         C7                   F
+És Mãe consoladora de todos os filhos teus.
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+Bb/C = X 3 X 3 3 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F7 = 1 3 1 2 1 1
+G7 = 3 5 3 4 3 3

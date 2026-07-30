@@ -1,0 +1,122 @@
+@titulo: leve-desespero
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Leve Desespero
+
+Intro 2x: Em  D5(9)  Am7 C7M
+
+ B4     C7M
+Não consigo mais me concentrar
+        B4         C7M
+Vou tentar alguma coisa para melhorar
+  B4    C7M
+É importante, todos me dizem
+    B4     C7M
+Mas nada me acontece  como eu queria
+
+B4        C7M
+Estou perdido, sei que estou
+ B4         C7M
+Cego para assuntos banais
+B4      C7M
+ Problemas do cotidiano
+        B4       C7M
+Já não sei como resol...ver
+
+E|-----------------------------------------
+B|----------------------0------------------
+G|-----2--------0---2----------------------
+D|---0---0----0---0---0---0----------------
+A|-2--------3------------------------------
+E|-----------------------------------------
+
+
+E|-----------------------------------------
+B|-7-8-12-12------7-8--8-10----------------
+G|-----------------------------------------
+D|-4-5-9--9-------4-5--5-7-----------------
+A|-----------------------------------------
+E|-----------------------------------------
+
+E|-----------------------------------------
+B|-7-8-10-12-----7-8--10-10----------------
+G|-----------------------------------------
+D|-4-5-7--9------4-5--7--7-----------------
+A|-----------------------------------------
+E|-----------------------------------------
+
+Refrão:
+Em            D5(9)
+ Sob um leve desespero
+Am7                   C7M
+ Que me leva, que me leva daqui
+
+   Em             D
+E|-----------------------------------------
+B|-------0------------3--------------------
+G|-----0---0---0----2----0--0--------------
+D|---2-------2----0------------4-0---------
+A|-----------------------------------------
+E|-0---------------------------------------
+
+   Am7            C
+E|-----------------------------------------
+B|-------1---------------------------------
+G|-----0---0---0------0--------------------
+D|---2-------2------2----0-----------------
+A|-0--------------3------3-2---------------
+E|---------------------------3-2-----------
+
+Intro 2x: Em  D5(9)  Am7 C7M
+
+   B4    C7M
+Então é outra noite num bar
+    B4     C7M
+Um copo atrás do outro
+    B4      C7M
+Procuro trocados no meu bolso
+ B4            C7M
+Dá pra me arrumar um cigarro'
+ B4     C7M
+Não consigo mais me concentrar
+     B4            C7M
+Vou tentar alguma coisa para melhorar
+      B4  C7M                 B4  C7M
+Já estou vendo TV como companhia
+
+Refrão:
+ B4    C7M             B4      C7M
+Tal...vez        se você entendesse.
+         B4       C7M
+O que está acontecendo
+                 B4  C7M
+Poderia me explicar
+        B4          C7M
+Eu não saio do meu canto
+
+As paredes me impedem
+        B4       C7M
+Eu só queria me divertir
+      B4     C7M
+As paredes me impedem
+   B4     C7M
+Já estou vendo TV
+            B4  C7M    B4  C7M
+como companhi..a
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+B4 = X 2 4 4 5 2
+C = X 3 2 0 1 0
+C7M = X 3 2 0 0 X
+D = X X 0 2 3 2
+D5(9) = X X 0 2 3 0
+Em = 0 2 2 0 0 0

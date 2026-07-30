@@ -1,0 +1,81 @@
+@titulo: sonhos-perdidos
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Sonhos Perdidos
+
+A
+  Sozinho, perdido,
+         Bm  D
+Chorando
+   E7       Bm
+Largado, jogado,
+ E7     D C#m Bm  A
+Pensando
+    A
+Na vida, nos sonhos,
+           Bm   G  F#m
+Sonhos perdidos
+    E7        Bm  E7   A     E7
+Promessas, momentos, vividos
+                     A
+O nosso amor se quebrou
+Se quebrou, se quebrou
+                     Bm
+E arrebentou meu coração
+Que chorou, que chorou
+E7                         A
+  Eu nunca mais fui tão feliz
+
+               F#m
+Por amor, por amor
+                        Bm
+Cadê você que eu tanto quis
+                       E7
+Que eu nem sei se me amou
+Já nem sei mais
+          A
+Pra onde vou, onde vou, onde vou
+
+(SOLO: A F#m D C#m Bm E7)
+Repete do início ao fim, depois:
+
+F#7                     B
+   O nosso amor se quebrou
+                   G#m
+Se quebrou, se quebrou
+                     C#m
+E arrebentou meu coração
+                   F#7
+Que chorou, que chorou
+                         B
+Eu nunca mais fui tão feliz
+               G#m
+Por amor, por amor
+                        C#m
+Cadê você que eu tanto quis
+                      F#7
+Que eu nem sei se me amou
+Já nem sei mais
+          B                  E   B
+Pra onde vou, onde vou, onde vou
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

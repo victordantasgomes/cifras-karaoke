@@ -1,0 +1,83 @@
+@titulo: um-homem-so
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Um Homem Só
+
+Intro: C  G/B  Am  F
+
+  C                   G/B
+As lágrimas secam
+ Am         F
+Eu me esqueço
+
+  C       G/B
+Que todo fim
+                         Am         F
+É sempre um outro começo
+  C           G/B
+Tantas palavras
+      Am         F
+Tantos arranhões
+  C                       G/B
+Transformando milagres
+          Am     F
+Em desilusões
+
+Refrão:
+
+  Am
+Quando a noite cai
+  Em
+Eu volto aqui
+             F
+Onde sempre estou
+  Am
+Quando o sol se vai
+  Em
+Eu volto a ser
+             F
+O que sempre sou
+            C      F
+Um homem só
+            C      F
+Um homem só
+
+Solo: C  G/B  Am  F
+
+  C         G/B     Am         F
+Amar é viver desaprendendo
+  C         G/B
+Eu nunca espero
+            Am         F
+Nem me arrependo
+  C              G/B
+Falando a verdade
+  Am         F
+Sem motivo
+  C                   G/B
+Revelando o segredo
+         Am         F
+Por trás do sorriso
+
+(Refrão)
+
+Solo: C  G/B  Am  F
+
+(Refrão)
+
+( C   G/B     Am    F)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G/B = X 2 0 0 3 3

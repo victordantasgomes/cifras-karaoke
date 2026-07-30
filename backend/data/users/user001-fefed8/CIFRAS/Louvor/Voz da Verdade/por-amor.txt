@@ -1,0 +1,102 @@
+@titulo: por-amor
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Por Amor
+
+[Intro] Dm  Gm  C  F
+        Dm  Gm  Dm  A#°  A
+
+       Dm     Gm                 C              F
+Foi tentado o Rei dos reis, humilhado por quem não o conheceu
+      Dm                  Gm
+Veio para os seus mas ninguém o recebeu
+        C   Am   A#        Gm7         Am          Dm
+Sofreu tanta solidão, foi até a cruz e não se entregou
+
+[Solo] Gm  C/E  F  A#  Gm  Dm  A  A#  G#°  A
+       D4  Dm  G4  Gm  C7  A4  A  B4  B
+
+        Em        Am               D         G
+Quão pesada era aquela cruz, pelo mundo carregou Jesus
+     Em       Am               D      Bm   C
+Ele veio para dar amor, mas ninguém o aceitou
+       Am7       Bm            Em
+Foi levado para morte o meu Senhor
+        B                      Em/C
+Foi cuspido e humilhado, foi diante de Pilatos
+
+     Am7                B
+Mas não, não o quis julgar
+      B                         C
+Foi levado para Herodes, nem Herodes o condenou
+       D                       Am          D4  D       C  D        C/E  D/F#
+Pois eles não sabiam que esse homem veio ao mundo por amor, por amor
+
+      G  D       Am  Em     G  D    C
+Por amor, por amor, por amor, só por amor
+         G       D              Am      Em
+A minha paz vos deixo, a minha paz vos dou
+      G  D    C
+Por amor, só por amor
+      G  D       Am  Em     G  D    C
+Por amor, por amor, por amor, só por amor
+       G      D           Am    Em
+Pelos seus pecados sofri tanta dor
+      G  D    C
+Por amor, só por amor
+
+      G    D   Am  Em       G   D     C
+Por amor,    por amor
+           G   D      Am  Em      G   D        C
+Foi por amor, por amor
+
+         G       D              Am      Em
+A minha paz vos deixo, a minha paz vos dou
+      G  D    C
+Por amor, só por amor
+       G      D           Am    Em
+Pelos seus pecados sofri tanta dor
+      G  D    C
+Por amor, só por amor
+
+[Final]
+
+E|----------------------------------------------------------|
+B|---------------------------------------15~-10--8-7--------|
+G|-12-14-16--14--14-16-17--16--12-14-16--------------9------|
+D|----------------------------------------------------------|
+A|----------------------------------------------------------|
+E|----------------------------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A# = X 1 3 3 3 1
+A#° = X 1 2 0 2 0
+A4 = X 0 2 2 3 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Dsus4 = X X 0 2 3 3
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G#m7(b5) = 4 X 4 4 3 X
+Gm = 3 5 5 3 3 3
+Gm7 = 3 X 3 3 3 X
+Gsus4 = 3 5 5 5 3 3

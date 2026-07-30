@@ -1,0 +1,92 @@
+@titulo: concerto
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Concerto
+
+Intro: Dm C Am A (2x)
+       Dm Bb C A (2x)
+
+Dm                     Gm
+Bem-aventurados os que choram
+
+Porque consolados serão
+Dm                          Gm
+Quando Jesus Cristo aqui voltar
+C                     F    A
+Estas lágrimas terminarão
+        Dm                        A
+Quantas coisas neste mundo só nos fazem chorar
+                       Dm
+Querendo a nossa fé abalar.
+                           Gm
+Querendo nos fazer cair do Monte de Sião
+    A                       Dm
+Mas o que me segura é a tua mão
+                           Gm
+Querendo nos fazer cair do Monte de Sião
+
+    A                       D
+Mas o que me segura é a tua mão
+
+  G                    D
+Jesus limpará todas as lágrimas
+     G                   D
+E um novo sorriso eu vou dar
+      G                  D
+Nos fará beber d'água da Vida
+    C     G       D
+Pra nunca mais chorar
+    C     G       D
+Pra nunca mais chorar
+
+Bm        G       D
+Fez um concerto comigo,
+Bm       G         D
+Pôs testemunhas no Céu
+Bm        G       D
+Brilham o Sol e a Lua,
+Bm      G            D
+Suas promessas são fiéis
+
+  G                    D
+Jesus limpará todas as lágrimas
+     G                   D
+E um novo sorriso eu vou dar
+      G                  D
+Nos fará beber d'água da Vida
+    C     G       D
+Pra nunca mais chorar
+    C     G       D
+Pra nunca mais chorar
+
+Bm        G       D
+Fez um concerto comigo,
+Bm       G         D
+Pôs testemunhas no Céu
+Bm        G       D
+Brilham o Sol e a Lua,
+Bm      G            D
+Suas promessas são fiéis
+
+Final: Dm Bb C A
+       Dm Bb C A Dm
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

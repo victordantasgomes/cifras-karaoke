@@ -1,0 +1,168 @@
+@titulo: a-lenda
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - A Lenda
+
+[Intro]  Em  C  G  D
+
+ E                 A    B
+Bem lá no céu uma lua existe
+ E                 A      B
+Vivendo só no seu mundo triste
+      G#             C#m      A
+O seu olhar sobre a Terra lançou
+ F#m7      E/G#     B4   B
+Veio procurando por amor
+
+E                    A     B
+Então o mar, frio e sem carinho
+ E                  A     B
+Também cansou de ficar sozinho
+ G#                     C#m     A
+Sentiu na pele aquele brilho tocar
+   F#m      E/G#         B4   B
+E Pela lua foi se apaixonar
+
+ F#m                           E/G#
+Luz que banha a noite e faz o sol adormecer
+
+ F#/A#                B4  B
+Mostra como eu amo você
+
+            Em       C
+Se a lenda dessa paixão
+        G             D
+Faz sorrir ou faz chorar
+Em        C       G   B7
+O coração é quem sabe
+          Em      C
+Se a lua toca no mar
+     G          D
+Ela pode nos tocar
+  C
+Pra dizer que o amor
+         B4  B7
+não se acabe
+
+[Solo]  Fm  Db  Ab  Eb  Fm  Db  C4  C
+
+E|--------------------------| ----------------------------------------------|
+B|-----5--7--7/9--8--6--6~--| --4h6p4h6p4-----------------------------------|
+G|--4-----------------------| -------------6--5--3--5/6--5--3~--------------|
+D|--------------------------| ----------------------------------------------|
+A|--------------------------| ----------------------------------------------|
+E|--------------------------| ----------------------------------------------|
+
+E|---------------------------------------| ---------------------6-----------|
+B|----------------4----------------------| ----------4--6--6/8-----8--6--5~-|
+G|--1--3--3/5--5-----5/3--1-----3/5--1~--| --1--3/5-------------------------|
+D|---------------------------3-----------| ---------------------------------|
+A|---------------------------------------| ---------------------------------|
+E|---------------------------------------| ---------------------------------|
+
+ F                Bb     C
+Se cada um faz a sua história
+F                   Bb     C
+A nossa pode ser feliz também
+ A                    Dm       Bb
+Se o coração diz que sim à paixão
+ Gm7            F/A      C4  C
+Como pode o outro dizer não?
+
+ Gm                            F/A
+Luz que banha a noite e faz o sol adormecer
+ G/B                C4  C
+Mostra como eu amo você
+
+            Fm       C#
+Se a lenda dessa paixão
+        Ab            Eb
+Faz sorrir ou faz chorar
+Fm        C#        Ab  C7
+O coração é quem sabe
+          Fm      C#
+Se a lua toca no mar
+     Ab         Eb
+Ela pode nos tocar
+  C#
+Pra dizer que o amor
+         C4  C7
+Não se acabe
+
+Fm  Db  Ab  Eb  Fm  Db  C4  C
+
+            Fm       C#
+Se a lenda dessa paixão
+        Ab            Eb
+Faz sorrir ou faz chorar
+Fm        C#      Ab  C7
+O coração é quem sabe
+          Fm      C#
+Se a lua toca no mar
+     Ab         Eb
+Ela pode nos tocar
+  C#
+Pra dizer que o amor
+         C4  C7
+Não se acabe
+
+D  C#  D  E
+
+            F#m      D
+Se a lenda dessa paixão
+        A             E
+Faz sorrir ou faz chorar
+F#m    D          A   C#7
+O coração é quem sabe
+          F#m     D
+Se a lua toca no mar
+     A          E
+Ela pode nos tocar
+  D
+Pra dizer que o amor
+         C#4  C#7
+Não se acabe
+
+F#
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Ab = 4 3 1 1 1 4
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+B7 = X 2 1 2 0 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#4 = X 4 4 1 2 X
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+C4 = X 3 3 0 1 X
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+Db = X 4 6 6 6 4
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Eb = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F/A = 5 X 3 5 6 X
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G/B = X 2 0 0 3 3
+Gm = 3 5 5 3 3 3
+Gm7 = 3 X 3 3 3 X

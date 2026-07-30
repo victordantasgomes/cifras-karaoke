@@ -1,0 +1,33 @@
+@titulo: vertigem
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nx Zero - Vertigem
+
+(efeito - "delay")
+E |--11-------------|
+B |-----11----------|
+G |--------10--12---|
+D |-----------------|
+A |-----------------|
+E |-----------------|
+
+(pequena e unica "variação" que vai haver é o que esta abaixo)
+
+E |--11---------------15-|
+B |-----11--------13-----|
+G |--------10--12--------|   1x
+D |----------------------|
+A |----------------------|
+E |----------------------|
+
+(fica repetindo a outra parte até o inicio de "só rezo")
+
+----------------- Acordes -----------------

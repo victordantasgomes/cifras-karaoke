@@ -1,0 +1,34 @@
+@titulo: somos-sarados
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Somos Sarados
+
+E            A
+Somos Sarados, Eleitos e Amados
+C#m            A         B      C#m           B
+Somos a Geração, que verá, o Senhor, vindo em Glória! (2x)
+             E                    A
+Por isso eu pulo na presença do Senhor
+            C#m        B           A
+Por isso eu corro na presença do Senhor
+             E                     A
+Por isso eu canto na presença do Senhor
+            C#m        B           A
+Por isso eu louvo na presença do Senhor
+   G#m      A
+Oouooooo Oooooooo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+G#m = 4 6 6 4 4 4

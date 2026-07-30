@@ -1,0 +1,38 @@
+@titulo: a-proxima-vez
+@autor:
+@intérprete: Biquini Cavadão
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Biquini Cavadão - A Próxima Vez
+
+(intro)  D D/C# D9/B G D9 D4 D
+         D D/C# D9/B G Em Em7 Em6
+
+( D  D/C#  D9/B  G )
+Tomara que da próxima vez
+Em que eu pensar em você
+Eu só consiga pensar besteiras
+De céu e mar, estrelas e viagens
+Ter na cabeça uma alegria
+Total e transbordante
+
+D9/B            G           A
+E no final, cansado, me lembre do mundo.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+D/C# = X 4 0 2 3 2
+D4 = X X 0 2 3 3
+D9 = X X 0 2 3 0
+D9/B = X 2 0 2 3 0
+Em = 0 2 2 0 0 0
+Em6 = X 7 X 6 8 7
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3

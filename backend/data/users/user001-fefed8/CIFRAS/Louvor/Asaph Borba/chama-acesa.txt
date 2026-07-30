@@ -1,0 +1,36 @@
+@titulo: chama-acesa
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Chama Acesa
+
+Em
+Senhor
+       C7  Am
+Mantém essa chama acesa
+  Em   C      Em   Am Em
+E não a deixes apagar
+
+C           Am
+Permite que queime tudo
+      Em
+O que não queres
+   C
+Que esteja em mim
+     Am       C
+Deixa somente permanecer
+    Am   Em   Am   Em  Am Em
+O que vem de Ti, Senhor
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Em = 0 2 2 0 0 0

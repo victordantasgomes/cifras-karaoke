@@ -1,0 +1,151 @@
+@titulo: ceu-azul
+@autor:
+@intérprete: Charlie Brown Jr
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Charlie Brown Jr. - Céu Azul
+
+[Dedilhado Intro, Primeira Parte e Refrão]
+
+[1ª parte]
+
+          Em7(9)          D
+E|------------------------------------------|
+B|------------------------------------------|
+G|----12---12---------12-------12-12--------|
+D|----13---13---------13-------13-13--------|
+A|------------------------------------------|
+E|--0----0----0----11----11-11-------0------|
+
+[2ª parte]
+
+          Bm           A11
+E|------------------------------------------|
+B|------------------------------------------|
+G|----8---8--------7-----8-7----------------|
+D|----0---0--------0---------0--------------|
+A|------------------------------------------|
+E|--8---8---0----6---6-6-------0------------|
+
+
+[Primeira Parte]
+
+         Em7(9)               D
+Tão natural quanto a luz do dia
+            Bm                A11
+Mas que preguiça boa me deixa aqui a toa
+          Em7(9)                D
+Hoje ninguém vai estragar meu dia
+           Bm                 A11
+Só vou gastar energia pra beijar sua boca
+Em7(9)                   D
+       Fica comigo então   não me abandona não
+Bm  A11                  Em7(9)                 D
+        Alguém te perguntou como é que foi seu dia
+       Bm               A11
+Uma palavra amiga, uma notícia boa
+          Em7(9)          D
+Isso faz falta no dia a dia
+               Bm                     A11
+A gente nunca sabe quem são essas pessoas
+
+[Pré-Refrão]
+
+Em                      Bm11
+   Eu só queria te lembrar
+            A9
+Que aquele tempo eu não podia fazer mais por nós
+             G                                 A9
+Eu estava errado e você não tem que me perdoar
+Em                          Bm11
+   Mas também quero te mostrar
+               A9
+Que existe um lado bom nessa história
+ G                                  A9
+Tudo que ainda temos a compartilhar
+
+[Refrão]
+
+A9      Em7(9)     D
+   E viver,  e cantar
+       Bm                A11
+Não importa qual seja o dia
+         Em7(9)     D
+Vamos viver,    vadiar
+         Bm                 A11
+O que importa é nossa alegria
+         Em7(9)     D
+Vamos viver,  e cantar
+       Bm                A11
+Não importa qual seja o dia
+         Em7(9)     D
+Vamos viver,    vadiar
+         Bm                 A11
+O que importa é nossa alegria
+
+[Primeira Parte]
+
+         Em7(9)               D
+Tão natural quanto a luz do dia
+            Bm                A11
+Mas que preguiça boa me deixa aqui a toa
+          Em7(9)                D
+Hoje ninguém vai estragar meu dia
+           Bm                 A11
+Só vou gastar energia pra beijar sua boca
+
+[Pré-Refrão]
+
+Em                      Bm11
+   Eu só queria te lembrar
+            A9
+Que aquele tempo eu não podia fazer mais por nós
+             G                                 A9
+Eu estava errado e você não tem que me perdoar
+Em                          Bm11
+   Mas também quero te mostrar
+               A9
+Que existe um lado bom nessa história
+ G                                  A9
+Tudo que ainda temos a compartilhar
+
+[Refrão]
+
+     Em7(9)     D
+E viver,  e cantar
+       Bm                A11
+Não importa qual seja o dia
+         Em7(9)     D
+Vamos viver,    vadiar
+         Bm                 A11
+O que importa é nossa alegria
+         Em7(9)     D
+Vamos viver,  e cantar
+       Bm                A11
+Não importa qual seja o dia
+         Em7(9)     D
+Vamos viver,    vadiar
+         Bm                 A11
+O que importa é nossa alegria
+
+[Final]
+
+         Em7(9)
+Tão natural quanto a luz do dia
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+A11*  = X 0 2 2 3 0 - (*A#11 na forma de A11)
+A9*  = X 0 2 2 0 0 - (*A#9 na forma de A9)
+Bm*  = X 2 4 4 3 2 - (*Cm na forma de Bm)
+Bm11*  = X 2 2 4 3 2 - (*Cm11 na forma de Bm11)
+D*  = X X 0 2 3 2 - (*D# na forma de D)
+Em*  = 0 2 2 0 0 0 - (*Fm na forma de Em)
+Em7(9)*  = X 7 5 7 7 X - (*Fm7(9) na forma de Em7(9))
+G*  = 3 2 0 0 0 3 - (*G# na forma de G)

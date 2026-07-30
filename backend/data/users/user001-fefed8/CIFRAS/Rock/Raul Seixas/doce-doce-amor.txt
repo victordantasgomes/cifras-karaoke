@@ -1,0 +1,59 @@
+@titulo: doce-doce-amor
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Doce, Doce Amor
+
+Introd: D E A D A D E D A
+
+Refrão:
+                D              E                A
+   Doce, doce amor onde tens andado? Diga por favor
+         D     A
+   Doce, doce amor
+                D                      E
+   Doce, doce amor que eu vou te encontrar, meu
+                D         A
+bem, seja onde for. Oh oh oh oh
+
+(parte I)
+
+     A                C#7                   D
+   Está fazendo uma semana que sem mais nem menos
+      E    A
+eu perdi você.
+                              D
+   Mas não sei determinar ao certo qual foi a
+  E                     A
+razão. Meu bem vem me dizer.
+
+
+(refrão)
+
+         A                 C#7              D
+   Já andei por todos os lugares que antigamente ia
+  E     A
+te encontrar.
+                                 D
+   E nas ruas que passava só lembrava você que foi
+  E              A
+embora sem me avisar
+
+(refrão)
+(solo: D E A D A D E D A)
+(refrão)
+(parte I)
+(refrão)3x
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C#7 = X 4 3 4 2 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0

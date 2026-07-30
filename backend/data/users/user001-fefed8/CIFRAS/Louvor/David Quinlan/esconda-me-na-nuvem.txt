@@ -1,0 +1,61 @@
+@titulo: esconda-me-na-nuvem
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Esconda-me Na Nuvem
+
+Intro: Am7  D  Em7  C9  Am  D
+
+               Em7
+Esconda-me na nuvem
+C9             Am7       D
+Esconda-me na nuvem de glória
+               Em7
+Esconda-me na nuvem
+C9             Am7    D
+Esconda-me em Ti, Senhor
+                    Em7
+Onde o mundo não em ache
+                   C9
+O pecado não me alcance
+                    Am7
+O orgulho não me encontre
+                     D
+Os aplausos não me afetem
+                     Em7
+As riquezas não me iludam
+                     C9
+E os prazeres não em façam
+
+                     Am7    D
+Tirar meus olhos de Ti, Senhor
+
+Instrumental: Em7  D/F#  G  A
+
+                        Em7
+Esconda-me na nuvem
+                        D/F#
+Esconda-me na nuvem
+                             G
+Esconda-me na nuvem
+                        A               Am  D
+Esconda-me em ti       Senhor
+                          Em7  C9 Am7 D
+Esconda-me na nuvem...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3

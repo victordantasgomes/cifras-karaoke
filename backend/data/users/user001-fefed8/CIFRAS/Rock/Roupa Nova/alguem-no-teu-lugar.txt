@@ -1,0 +1,115 @@
+@titulo: alguem-no-teu-lugar
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Alguém No Teu Lugar
+
+- Bm
+
+Introdução: (Am    C G)  2x
+
+Am
+  Não valeu a pena
+    C           G
+Escutar meu coração
+Am
+  Criei o mundo
+   C             G
+Em volta do teu amor
+Am
+  Uma porta aberta
+     C               G
+Te levou sem me explicar
+  Dm
+E apagou meu rumo
+     F             G
+Tá difícil me encontrar
+
+
+Refrão
+         C            G/B     Am
+Eu tenho que tentar alguém no teu lugar
+ Am/G    F                           G
+Achar no fundo de outros olhos  Um sinal pra me guiar
+         C            G/B     Am
+Eu tenho que tentar alguém no teu lugar
+  Am/G   F                      Dm         G
+Dessas imagens do passado Eu preciso me livrar
+
+(Am    C G) (2x)
+
+Am
+  Sinto frio agora
+        C            G
+E o teu sol perdeu calor
+Am
+  Espero a hora
+    C                 G
+Pro fogo de um outro amor
+Am
+  Quero um novo tempo
+    C               G
+Desenhei alguém pra mim
+  Dm
+O sonho que é perfeito
+       F           G
+Não precisa ter um fim
+
+Refrão
+         C            G/B     Am
+Eu tenho que tentar alguém no teu lugar
+ Am/G    F                           G
+Achar no fundo de outros olhos  Um sinal pra me guiar
+         C            G/B     Am
+Eu tenho que tentar alguém no teu lugar
+  Am/G   F                      Dm         G
+Dessas imagens do passado Eu preciso me livrar
+
+Bb9                     C9
+   As tuas fotos, nem recados eu salvei
+Bb9                    C9
+   Toda lembrança da memória eu apaguei
+
+Solo(Dm Bm G Bm A)
+
+         D            A/C#    Bm
+Eu tenho que tentar alguém no teu lugar
+ Bm/A    G                           A
+Achar no fundo de outros olhos  Um sinal pra me guiar
+         D            A/C#    Bm
+Eu tenho que tentar alguém no teu lugar
+  Bm/A   G                      Em         A
+Dessas imagens do passado Eu preciso me livrar
+         G                      Em         A
+Dessas imagens do passado Eu preciso me livrar
+
+Bm
+
+G|-4---------------------------------------------4---
+D|-4---------------7--------------5--------------4---
+A|-2---2-4-5-4-2---7---2-4-5-4-2--5---2-4-5-4-2--2---
+E|-----------------5--------------3------------------
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Bb9 = X 1 3 3 1 1
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

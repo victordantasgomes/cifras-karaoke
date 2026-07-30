@@ -1,0 +1,98 @@
+@titulo: um-beijo-e-tchau
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Um Beijo e Tchau
+
+Intro.: E B A   C#m B
+
+  E
+Sonhei demais
+          B
+Deixei o amor crescer
+         A                   C#m  B
+Jamais imaginei que eu ia te perder
+E
+Amei sem medo
+          B
+Abri meu coração
+          A                      B
+Mas o meu sonho não passou de ilusão
+
+        E                         F#m
+E ainda ouço a sua voz dizendo tchau
+         B                             E
+E dói no peito esse vazio que não tem fim
+          E                           F#m
+Eu não esqueço aquele olhar que foi fatal
+
+             B
+Você se afastou de mim
+             E
+Meu bem, meu mal
+
+F#m                           B
+Às vezes eu ainda me pego sonhando
+G#m                             C#m  ( C#m  B  A ) passagem
+E no meu delírio eu te vejo voltando
+A                            B
+Mas quando eu acordo e me lembro o que me fez
+
+E                             F#m
+Ainda ouço a sua voz dizendo tchau
+         B                            E
+E dói no peito esse vazio que não tem fim
+          E                           F#m
+Eu não esqueço aquele olhar que foi fatal
+            B
+Você se afastou de mim
+             E
+Um beijo e tchau
+
+      F#                       G#m
+Ainda ouço a sua voz dizendo tchau
+          C#                          F#
+E dói no peito esse vazio que não tem fim
+         F#                           G#m
+Eu não esqueço aquele olhar, um beijo e tchau
+            C#
+Você se afastou de mim
+            F#
+Meu bem, meu mal
+
+         G                      Am
+E ainda ouço a sua voz dizendo tchau
+           D                          G
+E dói no peito esse vazio que não tem fim
+          G                           Am
+Eu não esqueço aquele olhar, um beijo e tchau
+           D
+Você se afastou de mim
+             G
+Meu bem, meu mal
+
+Um beijo e tchau
+
+(Meu bem, meu mal)
+                G
+Um beijo e... tchau
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,174 @@
+@titulo: faz-chover(versão 2)
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Faz Chover
+
+[Intro] B5  G5  D5  A5  G5
+
+[Primeira Parte]
+
+   D9
+Assim como a corça
+   D7M(9)  D9
+Anseia por águas
+ G          D9
+Como terra seca
+    A9
+Precisa da chuva
+     G   A9      D/F#    Em7
+Meu coração tem sede de ti
+     Bm7        A9
+Rei meu e Deus meu
+
+   D9
+Assim como a corça
+   D7M(9)  D9
+Anseia por águas
+
+ G          D9
+Como terra seca
+    A9
+Precisa da chuva
+     G   A9      D/F#    Em7
+Meu coração tem sede de ti
+     Bm7        A9
+Rei meu e Deus meu
+
+[Refrão]
+
+        B5  G5
+Faz chover
+    D5    A5
+Senhor Jesus
+            B5  G5
+Derrama a chuva
+         A5
+Neste lugar
+               B5  G5
+Vem com o teu rio
+    D5    A5
+Senhor Jesus
+     B5    G5      A5
+Inundar o meu coração
+
+        B5  G5
+Faz chover
+    D5    A5
+Senhor Jesus
+            B5  G5
+Derrama a chuva
+         A5
+Neste lugar
+               B5  G5
+Vem com o teu rio
+    D5    A5
+Senhor Jesus
+     B5    G5      A5
+Inundar o meu coração
+        Bm  G  D9  A9
+Faz chover
+        Bm  G  D9  A9
+Faz chover
+
+[Solo] Bm  G  D9  A9
+       Bm  G  D9  A9
+       G  A9  Bm
+
+                                                  P.M
+E|----7--9--9b10r--------------------------------------|
+B|-/7--------------7--8-------/10--8--7h8p7------------|
+G|--------------------7---------------------9~~/--\7---|
+D|-----------------------------------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+   P.M   .   .    .   .
+E|-----9---7-------------------------------------------|
+B|-------------10---8-----------------10-----10/12\10~-|
+G|-7-7---7---7----7---7-9b11r9p7-9/11---------9/11\-9~-|
+D|-----------------------------------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+          T              T          T          T
+E|-----------------------------------------------------|
+B|-0h7h10-12-10p7p0h7h10-14-10p7h10-15-10p7h10-14------|
+G|-----------------------------------------------------|
+D|-----------------------------------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+           T          T          T          T
+E|-----------------------------------------------------|
+B|-10p7h10-14-10p7h10-15-10p7h10-17-10p7h10-15---------|
+G|-----------------------------------------------------|
+D|-----------------------------------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+E|-----------------------------------------------------|
+B|-10p7h10/17--17~-17b19r17b19r------------------------|
+G|-----------------------------------------------------|
+D|-----------------------------------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+[Refrão Final]
+
+        C#5  A5
+Faz chover
+    E5    B5
+Senhor Jesus
+            C#5  A5
+Derrama a chuva
+         B5
+Neste lugar
+               C#5  A5
+Vem com o teu rio
+    E5    B5
+Senhor Jesus
+     C#5   A5      B5
+Inundar o meu coração (Faz chover)
+
+        C#5  A5
+Faz chover
+    E5    B5
+Senhor Jesus
+            C#5  A5
+Derrama a chuva
+         B5
+Neste lugar
+               C#5  A5
+Vem com o teu rio
+    E5    B5
+Senhor Jesus
+     C#5   A5      B5
+Inundar o meu coração
+        C#5  A5  B5
+Faz chover
+        C#5  A5  B5  C#5
+Faz chover
+
+----------------- Acordes -----------------
+A5 = X 0 P2 2 X X
+A9 = X 0 2 2 0 0
+B5 = X 2 4 4 X X
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C#5 = X 4 6 6 X X
+D/F# = 2 X 0 2 3 X
+D5 = X X 0 2 3 X
+D7M(9) = X X 0 2 2 0
+D9 = X X 0 2 3 0
+E5 = 0 P2 2 X X X
+Em7 = 0 2 2 0 3 3
+G = 3 2 0 0 3 3
+G5 = 3 X 0 0 3 3

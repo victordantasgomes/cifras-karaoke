@@ -1,0 +1,64 @@
+@titulo: estrela-da-manha
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Estrela da Manhã
+
+[Intro] C  Bm  Bm/E  Am7  D  Dm  Em  D/F#  G  F/G
+
+C           Bm             Am7 G#m7 Gm7
+És a nossa estrela da manhã
+    F          Em               Dm7 F/G
+Cordeiro Santo que nos trouxe a paz
+C            G/B            Am7 Gm7
+Em Tuas mãos está todo o vencer
+    F           Em              Dm7 F/G
+Resposta a todo aquele que o clamar
+      E           E/G#        Am7      D/F#
+A verdade é Tua palavra que não pode mentir
+  Dm7       Em7      G7 D/F# | E/G# ||
+Por isso estamos aqui
+
+A              D
+Te louvamos oh Senhor
+E/G#              A D E
+Pelo Teu imenso amor
+A                   D       Bm7
+Manifesta o Teu perdão e poder
+
+E           C#m7     F#m7       Bm
+E assim vamos Te adorar para sempre
+ E                   A  D E
+Para sempre oh meu Deus!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am7 = X 0 2 0 1 0
+Bm = X 2 4 4 3 2
+Bm/E = X X 2 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F#m7 = 2 X 2 2 2 X
+F/G = 3 X 3 2 1 X
+G = 3 2 0 0 0 3
+G#m7 = 4 X 4 4 4 X
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3
+Gm7 = 3 X 3 3 3 X

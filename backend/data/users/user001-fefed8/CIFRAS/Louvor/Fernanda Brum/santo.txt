@@ -1,0 +1,73 @@
+@titulo: santo
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Santo
+
+[Intro]  C#m  F#m  C#m  F#m  E  G#m
+         C#m  F#m  E  G#m
+
+              C#m            F#m
+Posso ver as luzes, ouço os Teus relâmpagos
+                E                      G#m
+Posso ouvir as vozes que vêm do teu altar
+
+           C#m           F#m
+Eu não conheço outra canção
+            E              G#m
+Que te descreva com perfeição
+
+C#m      F#m        E          G#m
+   Santo,   Santo,  Deus poderoso
+C#m      F#m       E          G#m
+   Santo,   Santo,   Deus poderoso
+
+      C#m          F#m
+Os anciãos a adorar
+              E           G#m
+Jogam suas coroas no altar
+
+        C#m          F#m
+As criaturas a clamar
+       E             G#m
+Dia e noite sem parar
+
+           C#m           F#m
+Eu não conheço outra canção
+            E              G#m
+Que te descreva com perfeição
+
+C#m      F#m        E          G#m
+   Santo,   Santo,  Deus poderoso
+C#m      F#m       E          G#m
+   Santo,   Santo,   Deus poderoso
+
+[C#m  F#m  E  G#m]
+[C#m  F#m  E  G#m]
+
+ C#m           F#m           E           G#m
+Não há outro igual, só tu és Santo... Santo
+C#m           F#m           E           G#m
+Não há outro igual, só tu és Santo... Santo
+
+C#m      F#m        E          G#m
+   Santo,   Santo,  Deus poderoso
+C#m      F#m       E          G#m
+   Santo,   Santo,   Deus poderoso
+C#m      F#m        E          G#m
+   Santo,   Santo,  Deus poderoso
+C#m      F#m       E          G#m
+   Santo,   Santo,   Deus poderoso
+
+----------------- Acordes -----------------
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

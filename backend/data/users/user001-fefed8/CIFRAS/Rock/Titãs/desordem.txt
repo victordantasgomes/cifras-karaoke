@@ -1,0 +1,135 @@
+@titulo: desordem
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Desordem
+
+(intro 2x) B A
+
+Intro:
+
+E|-----------------------------------------------------------------
+B|-----------------------------------------------------------------
+G|-4--------4--------4--------4--------2--------2--------2--------2
+D|-4--------4--------4--------4--------2--------2--------2--------2
+A|-2--2--2--2--2--2--2--2--2--2--2--2--0--0--0--0--0--0--0--0--0--0
+E|-----------------------------------------------------------------
+
+pm ................................................................
+
+Primeira Parte:
+
+B5
+  Os presos fogem do presídio
+A5
+  Imagens na televisão
+B5
+  Mais uma briga de torcidas,
+
+A5
+  Acaba tudo em confusão
+B5
+  A multidão enfurecida,
+A5
+  Queimou os carros da polícia
+B5
+  Os preços fogem do controle,
+A5
+  Mas que loucura está nação
+B5
+  Não é tentar o suicídio
+A5
+  Querer andar na contramão
+
+
+Refrão:
+
+E|-----------------------------------------------------------------
+B|-----------------------------------------------------------------
+G|-4--------4--------4--------4--------2--------2--------2--------2
+D|-4--------4--------4--------4--------2--------2--------2--------2
+A|-2--2--2--2--2--2--2--2--2--2--2--2--0--0--0--0--0--0--0--0--0--0
+E|-----------------------------------------------------------------
+
+B5
+  Quem quer manter a ordem?
+A5
+  Quem quer criar desordem?
+B5
+  Quem quer manter a ordem?
+A5
+  Quem quer criar desordem?
+
+
+Segunda Parte:
+
+B5
+  Não sei se existe mais justiça,
+A5
+  Nem quando é pelas próprias mãos
+B5
+  População enlouquecida
+A5
+  Começa então o linchamento
+B5
+  Não sei se tudo vai arder
+A5
+  Como algum líquido inflamável,
+B5
+  O que mais pode acontecer
+A5
+  Num país pobre e miserável
+B5
+  E ainda pode se encontrar
+A5
+  Quem acredite no futuro
+
+(Refrão x4)
+
+Interlúdio: (violão e guitarra x4) B A
+
+Guitarra:
+E|-----------------------
+B|-7---------14----------
+G|---8----------14----14~
+D|-----9~----------14----
+A|-----------------------
+E|-----------------------
+
+Terceira Parte:
+
+B5
+  É seu dever manter a ordem,
+A5
+  É seu dever de cidadão,
+B5
+  Mas o que é criar desordem,
+A5
+  Quem é que diz o que é ou não?
+B5
+  São sempre os mesmos governantes,
+A5
+  Os mesmos que lucraram antes,
+B5
+  Os sindicatos fazem greve
+A5
+  Porque ninguém é consultado
+B5
+  Pois tudo tem que virar óleo
+A5
+  Pra por na máquina do estado.
+
+(Refrão x4)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+B = X 2 4 4 4 2
+B5 = X 2 4 4 X X

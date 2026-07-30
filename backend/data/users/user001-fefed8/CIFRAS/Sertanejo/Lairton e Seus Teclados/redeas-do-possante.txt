@@ -1,0 +1,54 @@
+@titulo: redeas-do-possante
+@autor:
+@intérprete: Lairton e Seus Teclados
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lairton - Rédeas Do Possante
+
+Intro: D  A  D
+
+
+ A                 D           A    D     E
+Cada palmo dessa estrada eu conheço bem
+ A                 D                E
+Vou levando minha vida nesse vai e vem
+D                      A
+Não tem chuva não tem sol
+ C#7                   F#m
+Não tem noite, não tem dia
+ D              B7             E
+Cada cidade que passa levo alegria
+  A             D             A      D      E
+Quantas estrelas já vi, iluminando o céu
+  A         D                      E
+madrugada de sereno molha o meu chapéu
+ D            A           C#7                F#m
+já passei tantos janeiros, já senti tanta saudade
+  D         E            A
+cada ida, cada volta é só felicidade
+ E            D            A
+Minha vida é segurar as rédeas do possante
+                   E
+Lobo da estrada, fera do volante
+  D                A
+Louco apaixonado, mais um viajante
+ E           D             A
+Minha vida é igualzinha a vida do peão
+                  E
+Também tem saudade no seu coração
+          D           A
+Onde vai seu cavalo vai meu caminhão
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+C#7 = X 4 3 4 2 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

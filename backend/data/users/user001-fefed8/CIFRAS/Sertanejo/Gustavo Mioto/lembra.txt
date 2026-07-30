@@ -1,0 +1,99 @@
+@titulo: lembra
+@autor:
+@intérprete: Gustavo Mioto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gustavo Mioto - Lembra
+
+[Intro] G
+
+E|-3---3-5-7~----3---3-5-7~--|
+B|---3---------3---3---------|
+G|---------------------------|
+D|---------------------------|
+A|---------------------------|
+E|---------------------------|
+
+ G
+Lembra daquele lugar
+           Em
+Daquela janela
+O céu tava estralado
+              Am7            C9
+E a lua a nossa espera, tão bela
+ G
+Lembra de todos os planos
+               Em
+Que a gente fazia
+E daquele arrepio
+
+            Am7        C9
+Que você escondia, eu via
+
+G                    D9/F#
+ Lembra daquela novela
+                 Am7    C9
+Que a gente via junto, lembro de tudo
+Am7                       C9
+  Quantas noites mal dormidas
+                        G
+Consertando as nossas brigas
+    D9/F#
+Eu lembro
+
+ G               D9/F#
+Nossos defeitos, os desencontros
+    Am7          C9
+Não é novidade, tudo faz parte
+ G                  D9/F#
+Mas eu confesso, faria de novo
+   Am7               C9           D9/F#     G
+Eu arriscaria minha vida pra te amar outra vez
+
+( D9/F#  Am7  C9 )
+
+G                    D9/F#
+ Lembra daquela novela
+                 Am7    C9
+Que a gente via junto, lembro de tudo
+Am7                       C9
+  Quantas noites mal dormidas
+                        G
+Consertando as nossas brigas
+    D9/F#
+Eu lembro
+
+ G               D9/F#
+Nossos defeitos, os desencontros
+    Am7          C9
+Não é novidade, tudo faz parte
+ G                  D9/F#
+Mas eu confesso, faria de novo
+   Am7               C9           D9/F#     G
+Eu arriscaria minha vida pra te amar outra vez
+
+ G               D9/F#
+Nossos defeitos, os desencontros
+    Am7          C9
+Não é novidade, tudo faz parte
+ G                  D9/F#
+Mas eu confesso, faria de novo
+   Am7               C9           D9/F#     G
+Eu arriscaria minha vida pra te amar outra vez
+D9/F#   Am7               C9           D9/F#
+     Eu arriscaria minha vida pra te amar
+
+( G )
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C9 = X 3 5 5 3 3
+D9/F# = 2 X 0 2 3 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

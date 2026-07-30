@@ -1,0 +1,76 @@
+@titulo: impasse
+@autor:
+@intérprete: Henrique e Juliano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Henrique e Juliano - Impasse
+
+Intro: C  Gsus4  Am7  F9
+
+C                Gsus4
+Eu só queria, entender seus pensamentos
+                 Am7
+E o que realmente tá rolando
+              G
+E o que te faz fugir de mim
+
+C                               Gsus4
+Te juro, estou tentando ler seus olhos
+                     Am7
+Mas percebo, que disfarça
+                    G
+E não consegue me encarar
+
+F                           Am
+Senta aqui um pouco, sem ter pressa
+                    F
+Conta tudo, a hora é essa
+                    G
+Fala o que tem pra falar
+
+
+F                               Am
+Não é que eu tô querendo do meu jeito
+                    F
+Eu me ajeito no seu jeito
+                Gsus4
+Basta a gente conversar
+
+C
+Você diz que não
+Gsus4
+E eu acho que sim
+Am7
+Você não se entrega
+           F
+Seu medo te cerca, te pega e te joga pra longe de mim
+
+C
+Eu acho que sim
+Gsus4
+Você diz que não
+Am7
+Resolve esse impasse
+             F             G
+E assuma pra gente, essa louca paixão
+
+D              F
+Me abraça e me beija
+        G               G
+Que eu tomo conta de você
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+F = 1 3 3 2 1 1
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+Gsus4 = 3 5 5 5 3 3

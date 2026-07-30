@@ -1,0 +1,155 @@
+@titulo: salmo-90
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Salmo 90
+
+Intro:  F9   G9/E     Am7      C9      Fm7  F9
+           F9   G9/E     Am7      C9      Fm7  F9     Cm7/E   F9/D    F9
+
+ C9                                      C9
+  Antes que os montes nascessem
+  Am7                           Gsus4               F9      F9
+  ou que formasses a Terra e o mundo sim
+              C9/G             Am7
+de eternidade, a eternidade,
+        |  Dm7/11     |  Gsus   |
+Tu és Deus
+
+| C9                             | C9         |
+ Nos somos como uma nuvem
+  Am7                            Gsus4   F9     F9
+  como uma relva que desaparece
+              C9/G             Am7
+de eternidade, a eternidade,
+        | Dm7/11            |  F9     G9   |
+Tu és Deus
+
+
+              | C9/A   |
+ Tu és o mesmo
+| C9                            | F9    | F9  |
+ ontem, hoje e para sempre
+            | Dm7            | C/E   |
+de geração em geração
+         | Bb9     | F/A   Gsus4   |
+Tu és Deus
+
+              | C9/A   |
+ Tu és o mesmo
+| C9                              | F9   | F9   |
+ sobre o Trono eternamente
+            | Dm7              | C/E   |
+de geração em geração
+                | Bb9      | F/A   Gsus4 |
+o nosso refugio
+
+REINTRO :  F9    G9/E  Am7    Am7  C9  Fm7   F9
+  F9    G9/E    Am7   Am7   C9   C/E  Bb9  Bb9  F/A  Gsus   C9
+
+| C9                             | C9     |
+ Nos somos como uma nuvem
+ Am7                         Gsus4     F9     F9
+ como uma relva que desaparece
+              C9/G            Am7
+de eternidade, a eternidade,
+         | Dm7,11          | F9     G9    |
+Tu és Deus
+
+               | C9/A   |
+ Tu és o mesmo
+| C9                            | F9    | F9  |
+ ontem, hoje e para sempre
+            | Dm7            | C/E   |
+de geração em geração
+         | Bb9     | F/A   Gsus4   |
+Tu és Deus
+
+              | C9/A   |
+ Tu és o mesmo
+| C9                              | F9   | F9   |
+ sobre o Trono eternamente
+            | Dm7           | C/E     |
+de geração em geração                                      |                           |               
+
+o nosso refugio
+
+     | F9          | Dm7 |
+Mil anos para Ti
+                    Am7           G9/B    C9
+são como o dia que passou
+                                                                |                          |
+
+Bendito es para sempre         e sempre
+                                                                |                         |
+
+Bendito es para sempre         e sempre
+                                                                |                                   |
+
+Bendito es para sempre        e sempre
+                                                               |                                   |
+
+Bendito es para sempre        e sempre
+
+      F9                         G9        F9/A        G/B     Am7     G     G/D     C9
+Bendito es para sempre        e sempre
+
+    F9                            G9       F9/A    F9/A      G/B    C9    G/D     G9   G9   A9    A9
+Bendito es para sempre        e sempre
+
+                D9/B
+ Tu és o mesmo
+ D9                             G9      G9
+ ontem, hoje e para sempre
+             Em7              D/F#
+de geração em geração
+          C9      G/B   Asus4
+Tu és Deus
+
+              | D9/A   |
+ Tu és o mesmo
+| D9                             | G9    | G9      |
+ sobre o Trono eternamente
+             Em7              D/F#     C9     G/B   Asus4
+de geração em geração
+             Em7             D/F#     C9    G9/E     G9   A9  A9    A/C#  D9   G9      (END)
+de geração em geração
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+Am7 = X 0 2 0 1 0
+Asus4 = X 0 2 2 3 0
+Bb9 = X 1 3 3 1 1
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+C9/A = X 0 5 5 3 3
+C9/E = X X 2 5 3 0
+C9/G = 3 X 5 5 3 3
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+D9/A = X 0 X 2 3 0
+D9/B = X 2 0 2 3 0
+Dm7 = X 5 7 5 6 5
+Dm7/11 = X 5 5 5 6 5
+Em7 = 0 2 2 0 3 0
+F/A = 5 X 3 5 6 X
+F9 = 1 3 5 2 1 1
+F9/A = 5 X X 5 6 3
+F9/D = X 5 X 5 6 3
+Fm7 = 1 X 1 1 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G9 = 3 X 0 2 0 X
+G9/B = 7 X X 7 8 5
+G9/E = 0 2 0 2 0 3
+Gsus = 3 2 0 0 0 3
+Gsus4 = 3 5 5 5 3 3

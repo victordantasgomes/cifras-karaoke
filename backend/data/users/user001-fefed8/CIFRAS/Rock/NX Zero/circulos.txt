@@ -1,0 +1,95 @@
+@titulo: circulos
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nx Zero - Círculos
+
+Afinação: E
+
+C5
+E se tudo der errado
+       G5                   Ab5                 Bb5
+É um final mal acabado e o silêncio tomar conta de você
+
+G|--5-7-8----|
+D|--xxxxxxx--|
+A|--3-5-6----|
+
+Seus segredos mais secretos, seus romances mais singelos
+    Ab5                              C5
+O que sobra entre o ódio e o coração?
+
+G|--5/3-555555-5/3-5555--|
+D|--xxxxxxxxxxxxxxxxxxx--|
+A|--3/1-333333-3/1-3333--|
+
+     Ab5                       F5
+Não deixe que isso entre no seu peito e arranque
+
+ C5          Bb5
+o que de bom você tem
+    Ab5                F5               C5
+Em um segundo tudo isso vai desmoronar
+
+     Bb5  Ab5
+Eu vou agora
+F5         G5 Ab5
+Eu vou com ou sem você
+C5  Bb5 Ab5
+Eu vou embora
+F5        G5 Ab5
+Não quero mais andar em círculos
+
+C5   Eb5 Bb5
+
+C5
+Por que fugir para o mesmo lugar
+                           Eb5    Bb5
+Se nesse lugar tudo só está caindo, caindo
+
+C5
+Não quero mais te dizer quem eu sou
+                                  Eb5    Bb5
+pois com você do meu lado estou caindo, caindo
+
+     Ab5                       F5
+Não deixe q isso entre no seu peito e arranque
+  C5          Bb5
+o que de bom você tem
+    Ab5                F5               C5
+em um segundo tudo isso vai desmoronar
+
+     Bb5  Ab5
+Eu vou agora
+F5         G5 Ab5
+Eu vou com ou sem você
+C5  Bb5 Ab5
+Eu vou embora
+F5        G5 Ab5
+Não quero mais andar em círculos
+
+C5 Bb5 Ab5 F5
+Círculos
+C5 Bb5 Ab5 F5
+Círculos
+C5 Bb5 Ab5 F5
+Círculos
+F5        G5 Ab5
+Não quero mais andar em círculos
+
+----------------- Acordes -----------------
+Ab5 = 4 6 6 X X X
+Bb5 = X 1 3 3 X X
+C = X 3 2 0 1 0
+C5 = X 3 5 5 X X
+E = 0 2 2 1 0 0
+Eb5 = X 6 8 8 X X
+F5 = 1 3 3 X X X
+G5 = 3 5 5 X X X

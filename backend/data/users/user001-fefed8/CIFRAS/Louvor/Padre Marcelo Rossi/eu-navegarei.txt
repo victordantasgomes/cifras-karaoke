@@ -1,0 +1,41 @@
+@titulo: eu-navegarei
+@autor:
+@intérprete: Padre Marcelo Rossi
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Padre Marcelo Rossi - Eu Navegarei
+
+ E7        Am                G
+Eu Navegarei no oceano do espírito
+           Dm                   E7
+E ali adorarei ao Deus do meu amor
+           Am                       G
+Espírito, Espírito que desce como fogo
+                 F                     E7
+Vem como em Pentecostes e enche-me de novo
+          Am                  G                Dm
+Eu Adorarei ao Deus da minha vida, que me compreendeu
+                  E7
+sem nenhuma explicação
+           Am                      G
+Espírito, Espírito que desce como fogo
+                F                      E7
+Vem como em Pentecostes e enche-me de novo
+          Am            G
+Eu servirei ao me Deus fiel
+          Dm                     E7
+Ao meu libertador, aquele que venceu
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

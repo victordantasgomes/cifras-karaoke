@@ -1,0 +1,50 @@
+@titulo: acordei
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Acordei
+
+[Intro] E  A  E  D  E
+
+E
+Eu sonhei com meu amor
+                 B
+Ela estava tão bonita
+ A                B  F#m
+No meu sonho ela dizia
+ B                 E
+Que me amava com amor
+
+  E
+Eu então fiquei feliz
+                      B
+Com meu sonho aquela hora
+  A                     B  F#m
+Quando virei pro outro lado
+  B                  E
+Ela estava em minha porta
+
+  E
+Naquela hora
+   A
+Eu me levantei
+   E
+Com sede do abraço
+   D
+Daquela que eu amo
+   E
+E acordei
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

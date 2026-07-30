@@ -1,0 +1,182 @@
+@titulo: autor-da-vida
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - Autor da Vida
+
+[Intro] F  C  Eb  Bb9
+        F  C  Eb  Bb9
+
+[Primeira Parte]
+
+F          C                      Eb
+ Viver buscando, aventuras perigosas
+         Bb9                F
+Se esquecer até mesmo de você
+             C                      Eb
+Saiba que a vida, é muito mais valorosa
+         Bb9        F
+E não a ponha a perder
+          C                      Eb
+Viver buscando, aventuras perigosas
+         Bb9                F
+Se esquecer até mesmo de você
+
+[Pré-Refrão]
+
+ Dm                          G
+Pense, mas nunca pare de buscar
+
+          Bb9                F
+Quem te quer mostrar a verdade
+
+[Refrão]
+
+                C
+O nome dele é Cristo
+               Eb                Bb9
+O dono de tudo isso que temos vivido
+                Dm
+O nome dele é Cristo
+               Eb       Bb9
+O dono de tudo isso Ele é o autor da vida
+
+( F  C  Eb  Bb9 )
+
+[Segunda Parte]
+
+F          C9                   Eb9
+ A vida terá um sentido bem melhor
+         Bb9        F
+Se você nele acreditar
+           C9                Eb
+Não perca tempo, esse é o momento
+       Bb9          F
+E sua vida transformar
+
+[Pré-Refrão]
+
+ Dm                          G
+Pense, mas nunca pare de buscar
+          Bb9                F
+Quem te quer mostrar a verdade
+
+[Refrão]
+
+                C
+O nome dele é Cristo
+               Eb                Bb9
+O dono de tudo isso que temos vivido
+                Dm
+O nome dele é Cristo
+               Eb       Bb9
+O dono de tudo isso Ele é o autor da vida
+
+[Solo] F  C  Eb  Bb9
+       F  C  Eb  Bb9
+
+   F                    C                         Eb
+E|-----5-5-----5-8-8/10-8-----5-5-5-8-----------------|
+B|-----6-6-----6-8-8/10-8-----6-6-5-5---6h8-8-6-------|
+G|-5h7-----5h7--------------------------5---5-5-------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+                                     Bb9
+E|----------------------------------------------------|
+B|----6-8-10-11-11b13-11b13-11b13-13r11---------------|
+G|-/7-----------------------------------10------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+                                                    F
+E|----------------------------------------------------|
+B|----6-8-9-8h9p8p6---9-8h9p8p6---9-8h9p8p6----6------|
+G|-/7---------------7-----------7------------7---7/10-|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+                 C
+E|----8---6----5---3---1------------------------------|
+B|-------------------------6--------------------------|
+G|-10---9----7---5---2-----------9---10/12-10--9------|
+D|-----------------------5-------10--10/12-10-10------|
+A|-------------------------------10-------------------|
+E|-----------------------------8----------------------|
+
+   Eb
+E|----------------------------------------------------|
+B|---------9-----------8-9-11-13-16-------------------|
+G|----8-10--------8-10--------------------------------|
+D|-10-------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+   Bb9
+E|----------------------------------------------------|
+B|-16-----16------------------------------------------|
+G|-15b17--15b17--13-----------------------------------|
+D|------------------15-13-15--------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|----------------------------------------------------|
+B|----------------------------------------------------|
+G|----12----10-12/14-----10----10---------------------|
+D|-12----12-----------12----12------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+( F  C  Eb  Bb9 )
+( F  C  Eb  Bb9 )
+
+[Refrão]
+
+                C
+O nome dele é Cristo
+               Eb                Bb9
+O dono de tudo isso que temos vivido
+                Dm
+O nome dele é Cristo
+               Eb       Bb9
+O dono de tudo isso Ele é o autor da vida
+
+                C
+O nome dele é Cristo
+               Eb                Bb9
+O dono de tudo isso que temos vivido
+                Dm
+O nome dele é Cristo
+               Eb       Bb9
+O dono de tudo isso Ele é o autor da vida
+
+                C
+O nome dele é Cristo
+               Eb                Bb9
+O dono de tudo isso que temos vivido
+                Dm
+O nome dele é Cristo
+               Eb       Bb9
+O dono de tudo isso Ele é o autor da vida
+
+[Final] F  C9  Eb  Bb9  F
+
+----------------- Acordes -----------------
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+Eb = X 6 5 3 4 3
+Eb9 = X 6 8 8 6 6
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

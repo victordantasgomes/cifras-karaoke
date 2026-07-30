@@ -1,0 +1,83 @@
+@titulo: o-amor-de-antes
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - O Amor de Antes
+
+(intro) Am  G  F  C  (C G/B Am)  Em  F  G
+
+Am                            G
+  Eu daria tudo pra olhar nos teus olhos
+F                         C        (C  G/B  Am)
+  Eu daria tudo pra ouvir tua voz
+                                   Em
+  Te ouvir me dizendo que foi só engano
+F                                 G
+  Que o maior engano foi fugir de nós
+
+Am                           G       (C/E  F)
+  Erros e acertos, medos e desejos
+                                   C        (C  G/B  Am)
+  Brigas sem sentido, coisas tão banais
+                                 Em
+  Que agora pesam, causam tantos danos
+F                               G
+  Fere, nos machuca, faz doer demais
+
+F    Dm            C       (Am F) Dm        C      (G/B Am) (G  F)
+     Deita em meus braços         por um instante
+
+  Dm        C    (Am  F )           G        (G4  G)
+  Que eu te faço         o amor de antes
+
+            C      Am              Em      F
+Quero ser o mesmo,    sonho sem loucura
+          Dm                F                 G
+E ser o desejo, quero ser o beijo que você procura
+F/A              G/B   C     Am              Em           F
+       Feche os olhos, sente   pulsar no meu peito
+         Dm                G                    C    (D)
+Esse coração que ama e que não consegue ser perfeito
+
+(solo) Bm  A  Em  D/F#  A4  A
+
+G   Em            D        (Bm  G) Em        D      (A/C# Bm) (A  G)
+    Deita em meus braços           por um instante
+  Em         D    (Bm G )           A        (A4  A)
+  Que eu te faço         o amor de antes
+
+            D      Bm              F#m      G
+Quero ser o mesmo,    sonho sem loucura
+          Em                G                 A
+E ser o desejo, quero ser o beijo que você procura
+G/B               A/C#  D     Bm              F#m           G
+       Feche os olhos,  sente   pulsar no meu peito
+         Em                A                    D
+Esse coração que ama e que não consegue ser perfeito
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F/A = 5 X 3 5 6 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G4 = 3 5 5 5 3 3

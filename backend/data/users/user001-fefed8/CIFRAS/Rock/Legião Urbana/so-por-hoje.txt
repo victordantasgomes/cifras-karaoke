@@ -1,0 +1,151 @@
+@titulo: so-por-hoje
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Só Por Hoje
+
+Intro: Am7 D G C F D Em G
+
+     Am7        D              G         C               F
+E|-----------|-------2-----|---------|--------0-----|--------0--|
+B|-------1-0-|---3-----3---|---3s---1|---1------1---|---1------1|
+G|---0-------|-------------|---------|------------0-|-----------|
+D|-----2-----|4----------4-|-5----3--|-2----2-------|-3----2----|
+A|-0---------|-------------|---------|--------------|-----------|
+E|-----------|-------------|---------|--------------|-----------|
+
+    D                Em          G
+E|--------0-----|------0---2|--3----3----|
+B|---3------3---|------0---0|--3--3---3--|
+G|------2-----2-|------0---0|------------|
+D|0-------------|-----------|------------|
+A|--------------|-----------|------------|
+E|--------------|--0--------|--3---------|
+
+Am      D          G
+Só por hoje eu não quero mais
+          C
+        chorar
+
+F        D      Em           G
+Só por hoje eu espero conseguir
+Am   D            G            C
+Aceitar o que passou e o que virá
+F          D            Em
+Só por hoje vou me lembrar
+                   G
+        que sou feliz
+     D         Am
+E|-7--7-7-7--5-5-5-5-|
+B|-7--7-7-7--5-5-5-5-|
+G|-7--7-7-7--5-5-5-5-|  4x
+D|-------------------|
+A|-------------------|
+E|-------------------|
+
+G
+Hoje já sei quem sou
+             Am
+        tudo que preciso ser
+Bm                        F
+Não preciso me desculpar e
+                        D
+        nem te convencer
+       Em       A
+O mundo é radical
+C
+Não sei onde estou indo
+     G/B
+Só sei que não estou perdido
+C                D
+Aprendi a viver um dia
+        de cada vez
+
+
+Am      D           G
+Só por hoje eu não vou me
+              C
+        machucar
+F         D           Em
+Só por hoje eu não quero me
+               G
+        esquecer
+Am                 D
+Que há algumas pouco
+              G        C
+        vinte quatro horas
+F       D           Em
+Quase joguei minha vida
+                  G    (G   B5 Bb5)
+        inteira fora
+ (Em  Bb5 A5 )
+Não não não não
+Viver é uma dádiva fatal
+No fim das contas ninguém
+        sai vivo daqui mas
+Vamos com calma  !
+Am      D         G
+Só por hoje eu não quero mais
+           C
+          chorar
+F         D        Em
+Só por hoje eu não vou me
+               G
+        destruir
+Am      D          G
+Posso até ficar triste
+                    C
+        se eu quiser
+   F     D             Em
+É só por hoje, ao menos isso
+             G
+         eu aprendi       Yeah
+
+
+       Am     B  C          Am    B  C      Am     B  C     D  G  C  G
+             2X
+E|-----------------------|-------------------------------------------|
+B|-----------------------|-------------------------------------------|
+G|-----------------------|-------------------------------------------|
+D|-----------------------|-------------------------------------------|
+A|---777xx--9-10-10xx-10-|-777xx--9-10-10xx---12--12---5-5--10-9-7-5-|
+E|---555xx--7-8-8--xx-8--|-555xx--7-8---8xx---10--10---3-3--8--7-5-3-|
+
+Fim
+    D         Am
+E|-7--7-7-7--5-5-5-5-|
+B|-7--7-7-7--5-5-5-5-|
+G|-7--7-7-7--5-5-5-5-|  
+D|-------------------|
+A|-------------------|
+E|-------------------|
+
+E|-7--7-7-7-7--8--8-8-8-7--------7--7-7-7-7--10--10-10-10-8-7----|
+B|------------------------10--8-------------------------------10-|
+G|---------------------------------------------------------------|
+D|---------------------------------------------------------------|
+A|---------------------------------------------------------------|
+E|---------------------------------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+B5 = X 2 4 4 X X
+Bb5 = X 1 3 3 X X
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

@@ -1,0 +1,38 @@
+@titulo: louvores-ao-pai
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Louvores Ao Pai
+
+Intro: Gm
+
+ C                F
+Canto louvores ao Pai.       (bis)
+ G                 F
+A ele louvores e glória.     (bis)
+C                 F
+Canto louvores ao Filho.     (bis)
+ G                 F
+A ele louvores e glória.     (bis)
+ C                  F
+Canto louvores ao Espírito.  (bis)
+ G                 F
+A ele louvores e glória.     (bis)
+ C                 F
+Canto louvores a Trindade.   (bis)
+ G                  F
+A ele louvores e glória.     (bis)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C = X 3 2 0 1 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

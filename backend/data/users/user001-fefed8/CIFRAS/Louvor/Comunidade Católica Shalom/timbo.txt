@@ -1,0 +1,53 @@
+@titulo: timbo
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - Timbó
+
+ C                G/B       Am7
+Simplesmente abrir o coração
+F            Dm                Bb Gsus
+E deixar que Deus habite em mim
+  C       G/B       Am7 G/B
+E realize uma obra nova
+      Dm  Dm/C#  Dm/C  Dm/B              G
+      Em to---das as   áre---as do meu ser
+F    Fm/Ab    Em     Asus     Dm7     D/F#   G Csus
+Meu Deus, meu tudo,           meu Senhor e Rei
+F    Fm/Ab    Em     Asus      Dm7     D/F#   G Gsus
+Meu Deus, meu tudo,            meu Senhor e Rei
+C             G/B           Am7
+Simplesmente dilatar minh´alma
+F       Dm7          Bb Gsus
+Para adorar o Santo Deus
+C  G/B                Am7 Am/G
+Com todas as minhas forças
+Dm  Dm/C#   Dm/C      Dm/B     G
+E de todo        o     meu coração
+
+----------------- Acordes -----------------
+Am/G = 3 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+Asus = X 0 2 2 2 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Csus = X 3 2 0 1 0
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm/B = X 2 X 2 3 1
+Dm/C = X 3 X 2 3 1
+Dm/C# = X 4 3 2 3 X
+Dm7 = X 5 7 5 6 5
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+Fm/Ab = 4 3 3 1 X X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+Gsus = 3 2 0 0 0 3

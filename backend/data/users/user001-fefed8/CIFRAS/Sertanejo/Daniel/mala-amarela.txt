@@ -1,0 +1,161 @@
+@titulo: mala-amarela
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Mala Amarela
+
+[Intro] B7  E  B7  E  B7  E
+
+    B7                     E
+E|-------------------/9-7-------------------7/9--7----|
+B|--7-7-7-7-7-4--5-7-------9-9-9-9-9--5-7-9-----------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+            B7                               E
+E|-------------------9--------------------------------|
+B|--9-10-11-12-12-12---10--12-9-9-9--10-7--9-5--------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+  B7                               E
+E|5-4-------------------------------------------------|
+B|----7-5-4-5-4---------------------------------------|
+G|--------------6-4-6-4-------------------------------|
+D|----------------------7-6-7-6-4---------------------|
+A|---------------------------------7------------------|
+E|----------------------------------------------------|
+
+
+[Primeira Parte]
+
+E                              B7
+Eram quatro e meia passava um pouquinho
+                               E
+O fosco clarinho rasgava o varjão
+                                  B7
+Era o trem noturno que vinha apontando
+                             E
+E logo parando na velha estação
+              A                 G#m
+Meu corpo tremia meus olhos molhados
+              F#m               B7
+O meu pai do lado e a mala no chão
+              A                E
+Beijei o seu rosto e disse na hora
+            B7             E
+O mundo lá fora me espera paizão
+
+[Segunda Parte]
+
+E                            B7
+Entrei no vagão corri pra janela
+                                E
+E a mala amarela do velho eu catei
+                                B7
+O trem deu partida soqueou bruscamente
+                               E
+E ali novamente sua mão eu beijei
+               A                G#m
+Um pouco pra diante vi minha casinha
+              F#m               B7
+E a minha mãezinha de pé no portão
+            A                   E
+Ela não me viu e do trem na corrida
+         B7                  E
+Ouvi as latidas do velho sultão
+
+[Solo] B7  E  B7  E  B7  E
+
+    B7                     E
+E|-------------------/9-7-------------------7/9--7----|
+B|--7-7-7-7-7-4--5-7-------9-9-9-9-9--5-7-9-----------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+            B7                               E
+E|-------------------9--------------------------------|
+B|--9-10-11-12-12-12---10--12-9-9-9--10-7--9-5--------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+  B7                               E
+E|5-4-------------------------------------------------|
+B|----7-5-4-5-4---------------------------------------|
+G|--------------6-4-6-4-------------------------------|
+D|----------------------7-6-7-6-4---------------------|
+A|---------------------------------7------------------|
+E|----------------------------------------------------|
+
+[Terceira Parte]
+
+E                            B7
+Um certo senhor da poltrona vizinha
+                          E
+Dizia que vinha do paranazão
+                              B7
+Me disse também num jeito cortes
+                                 E
+É a primeira vez que deixo o sertão
+             A              G#m
+Pedi seu conselho e ele me disse
+            F#m            B7
+Seu moço a velhice é dura demais
+                 A                 E
+Eu sou bem mais velho e posso aconselhar
+        B7                 E
+É duro ficar distante dos pais
+
+[Quarta Parte]
+
+E                               B7
+Eu nunca esqueci o que o velho falou
+                           E
+O tempo passou e pra casa voltei
+                                 B7
+Quem fica distante jamais se conforma
+                             E
+Lá na plataforma meus pais avistei
+         A                   G#m
+Desci comovido abracei ele e ela
+              F#m                  B7
+E a mala amarela meu filho eu não vi
+             A                    E
+Meu pai acredite na fala de um homem
+                B7             E
+Pra não passar fome a mala eu vendi
+
+[Quinta Parte]
+
+     F#                           B
+Que pena, que pena era minha lembrança
+                    F#            B
+Que eu trouxe de herança do seu avó
+               A                 E
+Mas deixa pra lá eu vou me esquecer
+             B7             E
+A herança é você e você já voltou
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

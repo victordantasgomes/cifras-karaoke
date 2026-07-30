@@ -1,0 +1,91 @@
+@titulo: loucure-se
+@autor:
+@intérprete: Scalene
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Scalene - Loucure-se
+
+Intro: ( Cm A# Fm ) - 4x
+
+Dedilhado da intro: - 4x
+
+      Cm                   A#     Fm
+E|---------------------------------------------------------|
+B|--------------------------------1------1------3-1----1---|
+G|----5------5------5------3--------1------1-------------1-|
+D|------5------5------5------3-----------------------------|
+A|--3------3------3------1---------------------------------|
+E|------------------------------1------1------1------1-----|
+
+Cm           D#
+Quem vive sem
+   A#m                 Fm
+Loucura não sabe o que é
+Cm         D#
+Ter o real
+A#m                 Fm
+Livre arbítrio em si
+
+
+Cm           A#             Fm         D#
+Todos nós nascemos loucos, pura emoção
+Cm           A#           Fm           Cm
+Só os fortes permanecem, longe da razão
+
+Cm   A#    Fm
+Não siga a luz
+Cm    A#    Fm
+Não se ela for o seu conforto
+
+( Cm B ) - 4x
+
+Cm           D#
+Quer atingir
+   A#m                 Fm
+Tudo o que deseja ser
+Cm           D#
+Corteje assim
+A#m                 Fm
+A insanidade em você
+
+Cm               A#         Fm         D#
+Apague as luzes, jogue fora as definições
+Cm         A#          Fm         Cm
+Diga agora tudo o que vê na escuridão
+
+Cm   A#    Fm
+Não siga a luz
+Cm    A#    Fm
+Não se ela for o seu conforto
+
+Cm
+Não sou eu
+           B
+São vocês que não veem
+Cm                   B
+O poder ao nosso alcance, veja
+Aº
+Liberdade
+
+Cm                     B
+Talvez seja a melhor saída
+Cm                       B
+Pois inocente é aquele que é normal
+Cm                     B
+Talvez seja a melhor saída
+Cm                       B          Cm
+Pois inocente é aquele que é normal
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+A#m = X 1 3 3 2 1
+B = X 2 4 4 4 2
+Cm = X 3 5 5 4 3
+D# = X 6 5 3 4 3
+Fm = 1 3 3 1 1 1

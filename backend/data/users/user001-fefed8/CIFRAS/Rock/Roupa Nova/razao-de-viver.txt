@@ -1,0 +1,86 @@
+@titulo: razao-de-viver
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Razão de Viver
+
+           A   E/A            Em/A  D/A
+Lá no final,       há um lugar
+        Dm/A       A                     Dm/F  E4/7  E7
+Ondas de puro amor         Vão nos envolver
+        D/F#  G   C/E  F       D/F#  G    C/E  F
+Feito mar.
+
+A                                   G
+Sem você eu me sinto só        Incapaz de plantar
+     D            Dm/F                A     Dm/A
+A semente do amor      Em jardins sem vida
+A                                  G
+Com você não preciso mais    Inventar minha paz
+        D              Dm/F            A       E/G#
+Vou ligando o teu ser       Ao melhor de mim
+
+F#m           G          E/G#           A
+Meu espelho real         Alma gêmea moldada em prata
+G                         D/F#             E4  E
+No meu desejo eu te invento   com emoção.
+
+
+        A                     E/A
+Me dê a mão,    cante a canção
+       Em/A                  D/A
+Faz a sublime roda do amor girar
+Dm/A            A
+Segue a voz do coração
+    Dm/F                 E
+E ensina o mundo a se amar.
+         A              E/A
+Lá no final     há um lugar
+         Em/A                  D/A
+Ondas de puro amor     Vão nos envolver
+Dm/A            A
+Segue a voz do coração
+   Dm/F                E         D/F#  G   C/E  F   D/F#  G  C  F7
+E ensina o mundo se amar    Outra vez
+
+A                               G/B
+Pra você eu espero ser     Uma voz, uma luz
+      D            Dm/F                A    Dm/A
+Um momento de paz       Pra velar seu sono
+A                                G
+De você eu vou receber      A razão,de viver
+       D          Dm/F               A __ E/G#
+Teu contato vital       Me mantém feliz
+
+F#m             G        E/G#          A
+Seu mistério maior      Meu segredo revelação
+G                     D/F#               E4 E
+Linhas extremas se encontram     Com emoção.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm/A = X 0 X 2 3 1
+Dm/F = X X 3 2 3 1
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+E4/7 = 0 2 0 2 0 X
+E7 = 0 2 2 1 3 0
+Em/A = X 0 2 0 0 X
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F7 = 1 3 1 2 1 1
+G = 3 2 0 0 0 3

@@ -1,0 +1,126 @@
+@titulo: cada-volta-e-um-recomeco
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Cada Volta É Um Recomeço
+
+ A            D
+Mais uma vez
+A
+O coração esquece tudo
+     F°
+Que você me fez
+D°
+Eu volto pra esse amor insano
+ F#m            F#m/E
+Sem pensar em mim
+       D                  E      E4  E
+Pra recomeçar, já sabendo o fim
+
+ A           D
+Mas é paixão
+A
+Essas coisas de paixão
+            F°
+Não tem explicação
+D°                                  F#m      F#m/E
+É simplesmente se entregar deixar acontecer
+
+    D
+Eu sempre acabo me envolvendo
+       E7  E  E4
+Com você
+
+ A           D            E          E7
+Nesses desencontros eu insisto em te encontrar
+ A          D        E                 E7
+Como se eu partisse já pensando em voltar
+ A          D              E
+Como se no fundo eu não pudesse existir
+             A   D  E  E7
+Sem ter você
+
+ A               D           E
+Toda vez que eu volto eu te vejo
+          E7
+Sempre igual
+ A         D               E
+Como se a saudade fosse a coisa
+        E7
+Mais banal
+A              D              E             E7
+E eu chegando sempre como um louco pra dizer
+           A   C#m  D  E
+Que amo você
+
+  F#m              C#m
+Que me leve pela vida ao coração
+ D       E             A  E/G#
+Como versos pra canção
+ F#m                 C#m
+Volto pra você, volto pelo amor
+       B                         B/D#
+Não importa se é um sonho pelo avesso
+         B         E     E4
+Cada volta é um recomeço
+
+A           D
+Mas é paixão
+A
+Essas coisas de paixão
+            F°
+Não tem explicação
+D°                                  F#m      F#m/E
+É simplesmente se entregar deixar acontecer
+    D
+Eu sempre acabo me envolvendo
+       E7  E  E4
+Com você
+
+ A           D            E          E7
+Nesses desencontros eu insisto em te encontrar
+ A          D        E                 E7
+Como se eu partisse já pensando em voltar
+ A          D              E
+Como se no fundo eu não pudesse existir
+             A   D  E  E7
+Sem ter você
+
+ A               D           E
+Toda vez que eu volto eu te vejo
+          E7
+Sempre igual
+ A         D               E
+Como se a saudade fosse a coisa
+        E7
+Mais banal
+A              D              E             E7
+E eu chegando sempre como um louco pra dizer
+           A   C#m  D  E
+Que amo você
+
+Que amo você
+  C#m        D     E7      A
+Eu amo , eu amo , amo você
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D° = X X 0 1 0 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+F#m/E = X X 2 2 2 2
+F° = X X 3 4 3 4

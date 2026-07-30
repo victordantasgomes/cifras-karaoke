@@ -1,0 +1,46 @@
+@titulo: geracao-de-samuel
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Geração de Samuel
+
+Intro: E  A9
+
+         E                  A9
+Eu faço parte de um novo tempo
+              E                     A9
+Que está nascendo em minha nação
+           C#m             A
+Eu sou o fruto de uma semente
+                  B                      A9
+Que foi plantada há muito tempo atrás
+
+            E    A9   E   A9
+Por meus irmãos
+
+    E           A9                 E
+A geração de Samuel está se levantando
+             A9
+Em todo o lugar
+
+  B                  A9
+Geração que depõe Saul
+
+  B                 A9
+Geração que unge Davi
+                     E
+Para um tempo de louvor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0

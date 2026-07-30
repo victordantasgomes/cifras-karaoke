@@ -1,0 +1,60 @@
+@titulo: desde-o-levantar
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Desde o Levantar
+
+INTRO: (E  C#m)
+
+VERSO:
+  E                  B             C#m   B
+  Desde levantar do sol, até o fim dia
+  E                 B                C#m             B
+  Eu Te louvarei Senhor, de todo coração, dou minha vida
+  A                B     A                B              E    C#m
+  E celebrarei Teu nome, e celebrarei Teu nome pastor da vida
+
+    E                 B                    C#m       B
+ Eu quero levantar as mãos, diante do Teu trono, de glória
+ E                B                C#m       B
+ Ver a Tua exaltação, ó filho escolhido, de Deus
+ A               B    A               B                   E
+ E adorarei Teu nome, e adorarei Teu nome Senhor da minha vida
+
+          A7+                      E/G#
+ Quando o sol reflete em mim todo brilho do amor
+        G/B                D/A
+ O Teu amor ó meu Senhor e rei
+
+         C                    G/B           E
+ Posso ouvir a tua voz, me chamando vem pra mim
+    F#               B
+ Falando ao meu coração
+
+VERSO/ INTRO
+
+ A                 B    A               B
+ E celebrarei Teu nome, e adorarei Teu nome
+            E
+ Pastor da vida, senhor da minha vida
+           C#m
+ Pastor da vida
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7+ = X 0 2 1 2 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D/A = X 0 X 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F# = 2 4 4 3 2 2
+G/B = X 2 0 0 3 3

@@ -1,0 +1,57 @@
+@titulo: o-teu-misterio
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - O Teu Mistério
+
+(intro)  Dadd9    Gm6/D    D9    Gm6/D
+
+D                 Gm6/D          D
+Tu vens a mim depositar uma semente de ti
+Gm6/D                   Bm
+A vida brota, és tu que vives em mim
+  F#m             G7M
+Me unes a ti, teu corpo assim
+  Gm6(9)                 Asus
+Eterno amor presente em mim.
+D                  Gm6/D                D
+Vou contemplar o teu mistério, a tua vida viver,
+   Gm6/D              Bm
+Tal qual esposo acolher-te em meu ser,
+  F#m               G7M
+Em ti me perder, me encerro em ti
+ Gm6(9)                     Asus A F#7/A#
+Assim como te encerras em mim.
+B                C#7/B               E            F#sus
+Meu Senhor, meu Deus, em teu coração quero habitar
+B          C#7/B               E
+Vem amado meu, sela em minha alma
+
+   F#sus      Bsus    E Em Asus
+Tua vontade e tua paz.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Asus = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+Bsus = X 2 4 4 4 2
+C#7/B = X 2 3 1 2 X
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+Dadd9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#7/A# = 6 X 4 6 5 X
+F#m = 2 4 4 2 2 2
+F#sus = 2 4 4 3 2 2
+G7M = 3 X 4 4 3 X
+Gm6(9) = X X 5 3 5 5
+Gm6/D = X 5 5 3 5 X

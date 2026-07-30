@@ -1,0 +1,59 @@
+@titulo: celebramos
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Celebramos
+
+INTRO:  (C#m, A, B) C#m, A, B, A
+
+
+           C#m    A  B           C#m    A  B           C#m    A            B                               A
+CELEBRAMOS..  CELEBRAMOS... CELEBRAMOS CONTIGO, CONTIGO SENHOR
+           C#m    A  B           C#m    A  B           C#m    A            B                               A
+CELEBRAMOS..  CELEBRAMOS... CELEBRAMOS CONTIGO, CONTIGO SENHOR
+
+           F#m                          G#m                       A                                B
+ATÉ AQUI ELE NOS AJUDOU, E A NOSSA VIDA ELE SUSTENTOU
+                   F#m                          G#m                         A                         B
+CONTINUAREMOS A ANUNCIAR E SEU NOME PROCLAMAR
+
+           C#m    A  B           C#m    A  B           C#m    A            B                               A
+CELEBRAMOS..  CELEBRAMOS... CELEBRAMOS CONTIGO, CONTIGO SENHOR
+           C#m    A  B           C#m    A  B           C#m    A            B                               A
+CELEBRAMOS..  CELEBRAMOS... CELEBRAMOS CONTIGO, CONTIGO SENHOR
+
+           F#m                          G#m                       A                                B
+SE O MAL QUIZER NOS ATINGIR, A SUA DESTRA NOS LIVRARÁ,
+                   F#m                          G#m                           A                         B
+ÉS VIDA NOVA, PAZ E SALVAÇÃO, MOTIVO DA NOSSA CANÇÃO
+
+
+          C#m    A  B                    C#m    A                     B               C#m    A            B
+CELEBRAI A CRISTO, CELEBRAI AO REI DOS REIS, CELEBRAI COM ALEGRIA
+                        A
+A ELE O LOUVOR
+          C#m    A  B                    C#m    A                     B               C#m    A            B
+CELEBRAI A CRISTO, CELEBRAI AO REI DOS REIS, CELEBRAI COM ALEGRIA
+                        A
+A ELE O LOUVOR
+
+           C#m    A  B           C#m    A  B           C#m    A            B                               A
+CELEBRAMOS..  CELEBRAMOS... CELEBRAMOS CONTIGO, CONTIGO SENHOR
+           C#m    A  B           C#m    A  B           C#m    A            B                               A
+CELEBRAMOS..  CELEBRAMOS... CELEBRAMOS CONTIGO, CONTIGO SENHOR
+
+INTRO:  (C#m, A, B) C#m, A, B, A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

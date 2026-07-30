@@ -1,0 +1,82 @@
+@titulo: quero-ir
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Quero Ir
+
+C  D  E
+Viva nós!
+
+E7
+Quero ir
+D
+Quero um pouco
+Espera
+E7
+Quero ir
+D
+Pela primavera
+E7
+Quero ir
+D
+Seu pensar já era
+E7
+Quero ir
+D
+Quero quero quero
+A
+Quero quero quero
+
+     E7
+Quero ir
+A              E
+O sol daqui é pouco
+              F#m
+O ar é quase nada
+               E
+A rua não tem fim
+A               E
+Eu volto prá Bahia
+             F#m            B7   C7
+Ou para Cachoeiro do Itapemirim
+F7
+Quero ir
+Eb
+Quero um pouco
+Espera
+F7
+Quero ir
+Eb
+Pela primavera
+F7
+Quero ir
+Eb
+Seu pensar já era
+F7
+Quero ir
+Eb
+Quero quero quero
+Bb
+Quero quero quero
+     F7
+Quero ir
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Eb = X 6 5 3 4 3
+F#m = 2 4 4 2 2 2
+F7 = 1 3 1 2 1 1

@@ -1,0 +1,103 @@
+@titulo: a-montanha
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - A Montanha
+
+Intro: D  Eb/D
+
+G                         Bm
+ Nem tão longe que eu não possa ver
+Eb                       Am    D
+ Nem tão perto que eu possa tocar
+G                         Bm
+ Nem tão longe que eu não possa crer
+Eb                Am  D
+ Que um dia chego lá
+G                     Bm           F
+ Nem tão perto que eu possa acreditar
+           Am     D
+ Que o dia já chegou
+
+Em             G
+ No alto da montanha
+C            Bm  D
+ Num arranha-céu
+G               Bm
+ No alto da montanha
+
+C            Am  D
+ Num arranha-céu
+
+G
+ Se eu pudesse, ao menos
+ Bm         Eb                        Am   D
+ Te contar    o que se enxerga lá do alto
+G                  Bm
+ Com o céu aberto, limpo e claro
+Eb                 Am     D
+ Ou com os olhos fechados
+G                 Bm
+ Se eu pudesse ao menos
+      F     Am      D
+ Te levar comigo... lá...
+
+Em              G
+ Pro alto da montanha
+C            Bm  D
+ Num arranha-céu
+G                Bm
+ Pro alto da montanha
+C            Am  D
+ Num arranha-céu
+
+Em            G         C
+ Sem final feliz ou infeliz
+              Bm  D
+ Atores sem papel
+G               Bm
+ No alto da montanha
+C      Am     D
+ Àtoa,    ao léu
+Eb                   D
+ Nem tão longe, impossível
+Eb             D
+ Nem tampouco lá... já...
+
+Solo: Em  G  C  Bm  D  G  Bm  F  Am  D
+
+Em             G
+ No alto da montanha
+C            Bm  D
+ Num arranha-céu
+G               Bm
+ No alto da montanha
+C            Am  D
+ Num arranha-céu
+
+Em           G           C
+ Sem final feliz ou infeliz
+              Bm  D
+ Atores sem papel
+G               Bm
+ No alto da montanha
+C            Am   D G
+ Num arranha-céu
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Eb = X 6 5 3 4 3
+Eb/D = X 5 5 3 4 3
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

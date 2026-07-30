@@ -1,0 +1,89 @@
+@titulo: sangrando-sem-corte(simplificada)
+@autor:
+@intérprete: Cristiano Araújo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cristiano Araújo - Sangrando Sem Corte
+
+Intro: C  D  G  D/F#  Em
+       C  D  G  D/F#  Em  D  C  D
+
+
+G                Em7    D              G
+Sou água de rio, procuro e não encontro o mar
+D/F#       Em7     C        D           G
+Sou a vela acesa no escuro buscando o teu olhar
+    C           Em7     C
+Não consigo entender a razão
+       Em7      F          D
+E o porquê de você me abandonar
+
+G              D/F#            Em
+Meu coração prisioneiro desse amor,
+                  C      D
+Tá sangrando sem corte, vivendo
+G            D/F#        Em
+Se pudesse sentir a minha dor
+                   C        D
+Voltaria pros meus braços correndo
+
+
+C              D
+Te dei tudo de mim,
+                   G
+Fiz além do que eu pude
+        D/F# Em         C
+As suas atitudes são de quem
+                    D
+Nunca soube amar ninguém
+
+      C      D       G
+Nunca soube amar ninguém
+
+
+( G  D/F#  Em  C  D )
+
+
+G         Em7     C        D           G
+Sou a vela acesa no escuro buscando o teu olhar
+
+    C           Em7     C
+Não consigo entender a razão
+       Em7      F          D
+E o porquê de você me abandonar
+
+G              D/F#            Em
+Meu coração prisioneiro desse amor,
+                  C      D
+Tá sangrando sem corte, vivendo
+G            D/F#        Em
+Se pudesse sentir a minha dor
+                   C        D
+Voltaria pros meus braços correndo
+
+C              D
+Te dei tudo de mim,
+                   G
+Fiz além do que eu pude
+        D/F# Em         C
+As suas atitudes são de quem
+                    D
+Nunca soube amar ninguém
+
+      C      D       G
+Nunca soube amar ninguém
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

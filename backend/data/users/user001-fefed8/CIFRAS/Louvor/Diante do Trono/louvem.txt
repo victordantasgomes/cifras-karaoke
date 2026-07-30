@@ -1,0 +1,42 @@
+@titulo: louvem
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Louvem
+
+[Intro]  E  F#  B/D#  G#m  E  F#  B
+         E  F#  B/D#  G#m  E  F#  B
+
+     E  B      G#m   F#          E          B    F#
+A  criação do nosso Deus   Todo ser que respira louve
+        E       B        G#m     F#      E        F#
+Dos confins da terra teu povo se levantará  Cantará
+    E   B     G#m F#          E        B   F#
+Dos montes e va--les    Das praias distantes
+      E    B        G#m     F#     E        F#
+O chamado ecoa Teu povo se levantará  Cantará
+B/D#      E
+Louvem   louvem
+     G#m            F#
+Que todos os povos louvem
+B/D#     E          G#m F#          E  F#  B/D# G#m E  F# B
+Louvem  louvem    A criação cantará
+F#/A#    G#m               F#       B/D#
+Digno de toda a glória     Honra pertence a ti
+    F#/A#           G#m      E        F#    B
+Pra sempre senhor e rei   Louvores sejam a ti
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+G#m = 4 6 6 4 4 4

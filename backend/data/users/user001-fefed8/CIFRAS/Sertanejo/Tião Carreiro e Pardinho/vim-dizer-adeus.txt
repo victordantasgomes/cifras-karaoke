@@ -1,0 +1,45 @@
+@titulo: vim-dizer-adeus
+@autor:
+@intérprete: Tião Carreiro e Pardinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Tião Carreiro e Pardinho - Vim Dizer Adeus
+
+E                      B7
+Eu vim dizer adeus amor
+A                              E
+Sei que me dói demais o adeus
+                         B7
+Mas levarei por onde for
+                            A
+As marcas deste amor
+                          E
+Amor que não morreu
+                 B7
+Amor que vive em mim
+                          E
+Amor que não é meu
+A                                E
+Eu não tenho mais o teu calor
+                              B7
+Teus longos beijos de amor
+                      E
+Pra outro eu perdi
+A                            E
+Não , não adianta esperar
+
+                            B7
+Se já tem outro em meu lugar
+                          E
+Nada mais me prende aqui
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0

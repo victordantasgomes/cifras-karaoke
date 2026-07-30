@@ -1,0 +1,70 @@
+@titulo: realidade-virtual
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Realidade Virtual
+
+(Humberto Gessinger)
+
+Introdução: E F# F#m E
+
+E            F#  F#m      E
+é preciso fé cega e pé atrás
+                F#  F#m          E
+olho vivo, faro fino e... tanto faz...
+             F#        F#m             E
+é preciso saber de tudo e esquecer de tudo:
+   F#  F#m      E
+fé cega e pé atrás
+
+A              E/G#   A           E/G#
+tá legal, eu desisto: tudo já foi visto
+A                  E/G#           F#                 (F# G#)
+olhos atentos a qualquer momento: é preciso acreditar
+A                E/G#  A           E/G#
+tudo bem, eu acredito: tudo já foi dito
+A               E/G#            F#                (F# G#)
+olhos atentos a todo movimento: é preciso duvidar
+
+A              E/G# A                  E/G#
+viver não é preciso e nem sempre faz sentido
+A          E/G#      F#
+é preciso muito mais fé cega e pé atrás
+
+solo: 2x (E F# A E)
+
+A                   E/G#   A              E/G#
+a neblina encobre o Cristo e a lagoa se ilumina
+A                   E/G#         F#                           (F# G#)
+com edifícios de cabeça pra baixo e refletores do Jockey Club
+A          E/G# A            E/G#
+na outra janela o sol sempre brilha
+A              E/G#   F#
+o risco é calculado: videoguerra, vídeoreinodoscéus
+ A                 B
+videoguerra, vídeoreinodoscéus
+
+E            F#  A        E
+é preciso fé cega e pé atrás
+E               F#   A           E
+olho vivo, faro fino e... tanto faz...
+E            F#        A                E
+é preciso saber de tudo e não pensar em nada
+E  F#   A       E
+fé cega e pé atrás
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G# = 4 3 1 1 1 4

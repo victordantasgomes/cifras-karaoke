@@ -1,0 +1,43 @@
+@titulo: tempo
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Tempo
+
+Intro: Bm G A
+
+Bm
+É preciso saber
+A               G                A
+Que tudo tem um tempo certo para acontecer
+Bm
+É preciso saber
+          A        G                            A
+Que o que passou ficou pra trás é tempo de aprender
+        G         A
+E saber que a vida é um longo vem e vai
+       G                A
+Em todo lugar debaixo do céu
+Bm                A                G
+Há um tempo pra chegar e outro pra partir
+Bm                A                G
+Há um tempo pra chorar e outro pra sorrir
+Bm                A                G
+Há um tempo pra plantar e outro pra colher
+Bm                A                G
+Há um tempo pra nascer e outro pra morrer
+
+Bm             A        G
+Há um tempo pra cada coisa acontecer
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+G = 3 2 0 0 0 3

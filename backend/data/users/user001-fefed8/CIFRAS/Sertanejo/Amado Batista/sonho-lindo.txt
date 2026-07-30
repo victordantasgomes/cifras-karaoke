@@ -1,0 +1,47 @@
+@titulo: sonho-lindo
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Sonho Lindo
+
+(intro)  B7 E A E B7 E A
+
+E             B7              E
+Vivo só pensando no nosso amor
+              B7               E E7
+Que era tão lindo, logo se acabou
+              A                   E
+Hoje os seus olhos distantes dos meus
+                B7                E  A
+Por todos os lugares procuram os seus.
+
+E                      B7
+Você é a saudade que ficou
+                               E
+Dos dias mais felizes que vivemos
+                                 B7
+Um grande amor que nasceu de um olhar
+                                     E
+Naquela noite em que nós nos conhecemos
+
+E                    B7               E
+Te vejo em meus sonhos vindo me abraçar
+              B7               E E7
+Com seu jeitinho querendo beijar
+               A                  E
+Vou me despertando, você vai sumindo
+               B7                  E
+Só fica a saudade do meu sonho lindo.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0

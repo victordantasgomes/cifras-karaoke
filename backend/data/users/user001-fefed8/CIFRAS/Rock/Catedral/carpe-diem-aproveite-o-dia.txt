@@ -1,0 +1,80 @@
+@titulo: carpe-diem-aproveite-o-dia
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Carpe diem (Aproveite o dia)
+
+(intro) A  C#m  D (acordes de toda música)
+
+(solo intro - simplificado)
+
+D|-------------------------------------------------------------------------|
+A|--12-12-12-11-11-11-9-9-9/7-7-7-9-7--0-2-4-4-4-2-2-2-4-4-4-5-5-5-4-4-4-2-|  (2x)
+E|-------------------------------------------------------------------------|
+
+D|--7--7--7-9-7-7--7-7-9-11-11--7--7--9-7-7--7-9-7-6-4--|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+D|--7--7--7-9-7-7--7-7-9-11-11--7--7--9-7--12-11-12-14-14-|
+A|--------------------------------------------------------|
+E|--------------------------------------------------------|
+
+D|--7--7--7-9-7-7--7-7-9-11-11--7--7--9-7-7--7-9-7-6-4--|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+Quem chegou a liberdade da razão
+
+Se sente como um andarilho  mas que não está perdido
+
+Toda convicção é crença de estar
+Em algum ponto do conhecimento  a posse da verdade incondicionada
+Não se entra duas vezes no mesmo rio
+Estamos ainda no tempo dos indivíduos  só depois de deixarmos a cidade
+É que veremos a que altura estão as torres  acima das casas...acima das casas
+
+Paz na Terra e aos homens de todo coração
+Há tantas auroras que não brilharam ainda
+
+(A C#m D A)
+Eu moro em minha casa
+não imitei de ninguém
+e a porta dela está aberta pra você também::(2x) Ohhhoohhh
+
+A        D   E A             D    E A             E
+Vai coração dizer que Ele está aqui  aproveite o dia
+
+(A C#m D)
+Todo espelho mostra apenas o que queremos ver
+a palavra fez ao homem  muito mais que ele fez por ela
+
+(A C#m D A)
+Eu moro em minha casa
+não imitei de ninguém
+e a porta dela está aberta pra você também::(2x) Ohhhoohhh
+
+A        D   E A             D    E A             E
+Vai coração dizer que Ele está aqui  aproveite o dia
+
+(solo)
+D|-------------------------------------------------------------------------|
+A|--12-12-12-11-11-11-9-9-9/7-7-7-9-7--0-2-4-4-4-2-2-2-4-4-4-5-5-5-4-4-4-2-|
+E|-------------------------------------------------------------------------|
+
+D|-----------------------------------------------------------------------------|
+A|--12-12-12-11-11-11-9-9-9/7-7-7-9-7--0-2-4-4-4-2-2-2-4-4-4-5-5-5-4-4-4-2-2-0-|  (2x)
+E|-----------------------------------------------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0

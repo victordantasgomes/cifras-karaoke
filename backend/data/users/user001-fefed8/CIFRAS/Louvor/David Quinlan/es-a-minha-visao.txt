@@ -1,0 +1,87 @@
+@titulo: es-a-minha-visao
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - És a Minha Visão
+
+(Part. Fernandinho)
+
+Intro: B  F#  E  F#  G#m  B  G#m  F#  E  B  G#m  E  F#  B
+
+E        B   C#m  B       A     B  E
+Deus da minha vida, és a minha visão
+ B                 A       B
+Nada me afaste do teu coração
+   C#m       A        E    B   A
+De dia e de noite eu penso em Ti
+  C#m     A  C#m      B   A    E
+A tua presença   é   luz para mim
+          C#m  B     A    B  E
+Só Tu és a fonte de todo saber
+ B                  A      B
+Sempre contigo eu quero viver
+C#m             A        E           A
+Sou teu filho amado, és meu Pai de amor
+E        B C#m        A         E
+És um comigo    para sempre Senhor
+       F      Bb  F         Bb     C7  F
+Não anseio riquezas tendo o homem louvor
+
+C7                 Bb       C7
+És minha herança eterna Senhor
+Dm           Bb            F       C7
+És a minha essência, tens meu coração
+F         C  Dm     Bb    C7   F
+És meu tesouro e o meu galardão
+Dm         C  F     Bb    C7   F
+És meu tesouro e o meu galardão
+              Bb  F   Bb       C7  F
+Deus de toda glória a batalha venceu
+ C7                Bb      C7
+Minha alegria dos céus desceu
+      Dm              Bb        F       Bb
+Não importa o que aconteça pra sempre serás
+     F    C7   Dm       Bb    C7  F
+Meu Deus minha vida e a minha visão
+
+INTRO: (F)
+
+       F      Bb  F         Bb     C7  F
+Não anseio riquezas tendo o homem louvor
+C7                 Bb       C7
+És minha herança eterna Senhor
+Dm           Bb            F       C7
+És a minha essência, tens meu coração
+F         C  Dm     Bb    C7   F
+És meu tesouro e o meu galardão
+
+              Bb  F   Bb       C7  F
+Deus de toda glória a batalha venceu
+ C7                Bb      C7
+Minha alegria dos céus desceu
+      Dm              Bb        F       Bb
+Não importa o que aconteça pra sempre serás
+     F    C7   Dm       Bb    C7  F
+Meu Deus minha vida e a minha visão
+     Dm        C  F     Bb    C7  F
+Meu Deus minha vida e a minha visão
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,35 @@
+@titulo: aleluia-mulher-cheia-de-graca
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Aleluia, Mulher Cheia de Graça
+
+Intro: E  E7
+
+        A         B7 E        C#m F#m       B7  E      E7
+A...aleluia,    aleluia,     aleluia,     aleluia (2x)
+
+                   F#m            B7         E
+Oh mulher cheia de graça, disse o anjo do Senhor
+                  F#m          B7          E     E7
+Nosso Deus te escolheu pra ser mãe do Salvador
+
+               F#m          B7             E
+Eis aqui a Tua serva, diz Maria ao Seu Senhor
+               F#m        B7             E     E7
+O Espírito a cobriu e a Palavra se encarnou
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

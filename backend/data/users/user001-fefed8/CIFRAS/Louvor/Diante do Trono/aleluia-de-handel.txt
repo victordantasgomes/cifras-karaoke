@@ -1,0 +1,79 @@
+@titulo: aleluia-de-handel
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Aleluia de Handel
+
+(D)                   Bm7    A       D
+O reino deste mundo,   já    pas - sou
+D      Em    D/F#    G      A       Bm7
+A     ser     de    nos - so Senhor
+A/C#     D     E/G#      A
+   E       de     seu    Cristo
+D/F#     G     F#      Em7        D
+  E        de               seu     Cristo.
+
+   A      D       F#m  Bm7   D       G   F#     Em      Em7      D
+E E   -   le         rei  -  na  -  rá   pa  -  ra      sem - pre
+   A/C#   Bm7       E/G#         D/C#      E        A
+E  Ele       reina  -  rá para   sem       -     pre
+
+  A                        D/A       A     D/A      A       D/A   A     D/A     A
+Rei dos Reis (Pra sem - pre e sem - pre, alelu  -  ia, alelu  -  ia)
+      A                           D/A       A     D/A      A
+E grande Senhor (Pra sem - pre e sem - pre)
+  D               G        D      G         D       G      D       G      D
+Rei dos Reis (Pra sem - pre e sem - pre, alelu  -  ia, alelu  -  ia)
+      E                              A         E      A         E       A      E       A      E
+E grande Senhor (Pra sem - pre e sem - pre, alelu  -  ia, alelu  -  ia)
+
+ F#                        Bm       F#    Bm       F#
+Rei dos Reis (Pra sem - pre e sem - pre)
+      G                  C        G      C        G
+E grande Senhor (Pra sem - pre e sem - pre)
+
+G    G/B      C7(9)   G    G/B      C7(9)
+A     -     le - luia,   A     -     le - luia
+G    G/B      C7(9)   G    G/B      C7(9)
+A     -     le - luia,   A     -     le - luia
+
+[tag]
+G    G/B       C7(9)    G   G/B   C7(9)
+A     -     le - luia
+G    G/B       C7(9)    G   G/B   C7(9)
+A     -     le - luia
+
+[final]
+G    G/B      C7(9)   G    G/B      C7(9)
+A     -     le - luia,   A     -     le - luia
+G    G/B      C7(9)   G    G/B        C7(9)  G  [stop]
+A     -     le - luia,   A     -     le  -  lu  -  ia
+G      C                G
+A - LE… LU…    IAAAA!!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C7(9) = X 3 2 3 3 X
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/C# = X 4 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

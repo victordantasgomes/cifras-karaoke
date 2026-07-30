@@ -1,0 +1,242 @@
+@titulo: jo
+@autor:
+@intérprete: Midian Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Midian Lima - Jó
+
+[Intro]
+
+G  C7M(9)  E4  C
+
+Parte 1
+
+   G                C7M(9)
+E|------------------------------------------|
+B|-0-------0-----3--0-------0-----3---------|
+G|-----2-------0--------2-------0-----------|
+D|---0---0---0--------0---0---0-------------|
+A|------------------3-----------------------|
+E|-3----------------------------------------|
+
+Parte 2
+
+   E4               C
+E|------------------------------------------|
+B|-0-------0--------------------------------|
+G|-----2-------2-0--------------------------|
+D|---2---2---2------2---2---2---------------|
+A|------------------3-3---3-----------------|
+E|-0----------------------------------------|
+
+
+[Primeira Parte]
+
+ G             Bm/F#    Em
+Jó, como pode ainda adorar
+              Em9/D        C
+Se não tem motivos pra cantar
+                      D7(4)  D7
+Abandona esse Deus e morre
+
+ G               Bm/F#        Em
+Mas não O adoro pelo que Ele faz
+               Em9/D     Am
+Nem menos por bens materiais
+       E/G#             Am7
+Eu O adoro pelo que Ele é
+               D7(4)       D4
+Eu sou d’Ele, tudo é d’Ele
+
+[Primeira Parte]
+
+Parte 1
+
+   G        Bm/F#    Em       Em9/D
+E|------------------------------------------|
+B|-3---3----3---3----0---0----0---0---------|
+G|-4---4----4---4----0---0----0---0---------|
+D|-5-5---5--4-4---4--2-2---2--4-4---4-------|
+A|----------------------------5-------------|
+E|-3--------2--------0----------------------|
+
+Parte 2
+
+   C                D7(4)   D7
+E|------------------------------------------|
+B|-1---1---1---1----3---3-------------------|
+G|-0---0---0---0----5---5-------------------|
+D|-2-2---2---2---2--5-5---5-4---------------|
+A|-3----------------5-------5---------------|
+E|------------------------------------------|
+
+Parte 3
+
+   G        Bm/F#    Em       Em9/D
+E|------------------------------------------|
+B|-3---3----3---3----0---0----0---0---------|
+G|-4---4----4---4----0---0----0---0---------|
+D|-5-5---5--4-4---4--2-2---2--4-4---4-------|
+A|----------------------------5-------------|
+E|-3--------2--------0----------------------|
+
+Parte 4
+
+   Am       E/G#    Am7      D7(4)
+E|------------------------------------------|
+B|-1---1----0---0----1---1----3---3---------|
+G|-2---2----1---1----0---0----5---5---------|
+D|-2-2---2--2-2---2--2-2---2--5-5---5-------|
+A|-3-----------------0--------5-------5-----|
+E|----------0-------------------------------|
+
+[Pré-refrão]
+
+ C                  Em
+Jó, você não tem motivos
+
+Perdeu os seus bens
+                    C
+Seus filhos, seus amigos
+                  G
+O que você vai fazer
+           Am
+Eu vou adorar
+                 Em
+Simplesmente adorar
+           C  D
+Eu vou adorar
+
+[Refrão]
+
+         G           D11/F#
+Deus me deu, Deus tomou
+         Em     Em/D       C
+Bendito seja o nome do Senhor
+  G4/B    Am             D4   D
+A Ele a glória, a Ele a honra
+
+E o louvor
+
+[Intro]
+
+G  C7M(9)  E4  C
+
+[Primeira Parte]
+
+ G             D11/F#   Em
+Jó, como pode ainda adorar
+              Em/D         C
+Se não tem motivos pra cantar
+                      D4   D
+Abandona esse Deus e morre
+
+ G               D11/F#       Em
+Mas não O adoro pelo que Ele faz
+               Em/D      Am
+Nem menos por bens materiais
+       E/G#             Am
+Eu O adoro pelo que Ele é
+               D4          D
+Eu sou d’Ele, tudo é d’Ele
+
+[Pré-refrão]
+
+ C                  Em
+Jó, você não tem motivos
+
+Perdeu os seus bens
+                    C
+Seus filhos, seus amigos
+                  G
+O que você vai fazer
+           Am
+Eu vou adorar
+                 Em
+Simplesmente adorar
+           C  D
+Eu vou adorar
+
+[Refrão]
+
+         G           D11/F#
+Deus me deu, Deus tomou
+         Em     Em/D       C
+Bendito seja o nome do Senhor
+  G4/B    Am             D4   D
+A Ele a glória, a Ele a honra
+        G
+E o louvor
+
+[Segunda Parte]
+
+Em           Am
+   A Ele a glória
+D           Bm7  B7
+  A Ele a glória
+Em           Am
+   A Ele a glória
+D           G    B7
+  A Ele a glória
+
+Em           Am
+   A Ele a glória
+D           Bm7  B7
+  A Ele a glória
+Em           Am
+   A Ele a glória
+D               C
+  Pra sempre, Amém
+
+Amém
+
+[Refrão]
+
+         G           D11/F#
+Deus me deu, Deus tomou
+         Em     Em/D       C
+Bendito seja o nome do Senhor
+  G4/B    Am             D4   D
+A Ele a glória, a Ele a honra
+        Am  D
+E o louvor
+
+         G           D11/F#
+Deus me deu, Deus tomou
+         Em     Em/D       C
+Bendito seja o nome do Senhor
+  G4/B    Am             D4   D
+A Ele a glória, a Ele a honra
+
+E o louvor
+
+[Intro]
+
+G  C7M(9)  E4  C
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+Bm/F# = X X 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C7M(9) = X 3 2 4 3 X
+D = X X 0 2 3 2
+D11/F# = 2 X X 2 3 3
+D4 = X X 0 2 3 3
+D7 = X X 0 2 1 2
+D7(4) = X X 0 2 1 3
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+Em9/D = X 5 5 4 7 X
+G = 3 2 0 0 0 3
+G4/B = X 2 0 0 1 X

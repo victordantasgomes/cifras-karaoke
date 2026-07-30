@@ -1,0 +1,40 @@
+@titulo: cantai-ao-senhor
+@autor:
+@intérprete: Adhemar de Campos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Adhemar de Campos - Cantai Ao Senhor
+
+ C                                     F/C     C     G/C
+Cantai ao senhor um novo cântico  sua glória está no templo
+F/C                           G/C   F/C  G/C      C
+Ele é o rei dos reis único senhor   ren__dei-vos à ele
+F  G/F C/E Am Am/G   F  G     C  Gm C7 F  G/F C G/B Am Am/G  F  G
+A_le__luia         glória> a deus      a_le__lu____ia     glória a
+ C
+Deus
+
+ C                                         F/C     C   G/C
+Cantai ao senhor um novo cântico pois se agrada em recebe-lo
+ F/C                                  G/C  F/C  G/C      C
+Toda a criação cantai glória ao nosso deus ren__dei-vos a ele
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C7 = X 3 2 3 1 X
+F = 1 3 3 2 1 1
+F/C = X 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/C = X 3 5 4 3 3
+G/F = 1 X X 0 0 3
+Gm = 3 5 5 3 3 3

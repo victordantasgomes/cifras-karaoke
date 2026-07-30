@@ -1,0 +1,60 @@
+@titulo: o-meu-louvor-e-fruto
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - O Meu Louvor É Fruto
+
+Dm            Dm/C   Gm7           A7
+O meu louvor é fruto do meu amor por ti Jesus,
+    Dm             Dm/C         Bb7M   Gm7  C7(9)
+ De labios que confessam o teu nome
+    F7M           Bb7M        Em7/5-                       A7
+ É fruto de tua graca e da   paz         que encontro em ti
+ Dm         Dm/C         Bb7M        Asus4  A
+ E do teu Espirito que habita em mim
+       Dm           C/D  (2ªx:  D4 D  )
+ Que habita em mim
+
+Gm7            C  F7M             Bb7M
+Ainda que as trevas      venham me cercar,
+   Gm7          C       F7M           Bb7M
+  Ainda que os montes desabem sobre mim
+       Em7/5-       A           Dm Dm/C
+  Meus labios   não  se fecharão,
+      Bb7M      A4    A     Dm   C/D
+  Pra sempre hei de te louvar
+
+Gm7          C       F7+       Bb7+
+Ainda que cadeias venham me prender
+ Gm7            C          F7+         Bb7+
+ Ainda que os homens se levantem contra mim
+      Em7/5-      A         Dm,  Dm7/C
+ Meus labios      nao se fecharão
+ Bb7+         A4   A       Dm9,   Dm
+ Pra sempre hei    de te louvar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+Asus4 = X 0 2 2 3 0
+Bb7+ = X 1 3 2 3 1
+Bb7M = X 1 3 2 3 1
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+C7(9) = X 3 2 3 3 X
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+Dm7/C = X 3 0 2 1 1
+Dm9 = X 5 7 9 6 5
+Em7/5- = X X 2 3 3 3
+F7+ = 1 X 2 2 1 X
+F7M = 1 X 2 2 1 X
+Gm7 = 3 X 3 3 3 X

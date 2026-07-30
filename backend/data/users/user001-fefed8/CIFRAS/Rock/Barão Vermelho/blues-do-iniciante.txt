@@ -1,0 +1,79 @@
+@titulo: blues-do-iniciante
+@autor:
+@intérprete: Barão Vermelho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Barão Vermelho - Blues do Iniciante
+
+Em                           A(add9)
+ Eu traço tantos planos  Brilhantes, antes
+Em                 Em7      Bm
+ De te ganhar num salto  Mortal, de iniciante
+C                     G/B    Am
+ Na pirraça de te ter  Por enquanto, por enquanto
+           Bm
+ Eu miro o índio que eu sou
+        Am
+ No teu ser  E alcanço
+E
+ Viagens tão óbvias
+Bm            Bm7
+ Loucuras tão sóbrias
+    A          Ab
+ De um iniciante
+A(add9)     Em7
+ De um iniciante
+A7         G7     Bm7
+ De um iniciante
+
+
+Em7              A7
+ Aprendiz das piscinas
+        G7         Bm7
+ Tão tingidas de escuro
+        Em7         A7
+ Aonde, peixe safo
+    G7         Bm7
+ Eu nado até você
+           Em7
+ Até o teu mundo
+A7         G7
+ Que eu também procuro
+Bm7    Em7        A7
+ Nesse quarto sem luz
+         G7             Bm7
+ Nessa ausência de tudo tudo tudo tudo tudo
+       Em7
+ Se prepare, eu tô "locky"
+A7     B7/4
+ Só precisas de um toque
+                     Em7
+ De um toque de iniciante
+A7              G7     Bm7
+ De um toque de iniciante
+
+ Em7   A7   G7   Bm7   Em   D   Am   Bm   Em7
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A(add9) = X 0 2 2 0 0
+A7 = X 0 2 0 2 0
+Ab = 4 3 1 1 1 4
+Am = X 0 2 2 1 0
+B7/4 = X 2 4 2 5 2
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

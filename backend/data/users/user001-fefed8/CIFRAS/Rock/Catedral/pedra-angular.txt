@@ -1,0 +1,64 @@
+@titulo: pedra-angular
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Pedra Angular
+
+(intro) C
+
+                C
+Entra em meu viver
+             G
+Faz meu coração
+             Dm
+Explodir de amor
+                  C
+Num gesto, num olhar
+             G
+Por onde eu for
+
+               C
+Faz nascer em mim
+        G
+Tua emoção
+             Dm
+E a compreensão
+                 C
+Da eterna hesitação
+
+                 G
+Entre o amor e a razão
+
+    Em    Am
+Meu bem Maior
+    Em    Am
+Te amo demais
+            Dm                 C
+Quero a Tua paz, quero o Teu amor
+           G
+Perto de mim
+   Em      Am
+Verdadeiro lar
+Em        Am
+Pedra Angular
+            Dm
+Eu pertenço a Ti
+            C           G
+E essa alegria não tem fim.
+ F       C
+Não tem fim.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

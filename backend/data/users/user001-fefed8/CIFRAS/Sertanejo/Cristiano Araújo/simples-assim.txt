@@ -1,0 +1,62 @@
+@titulo: simples-assim
+@autor:
+@intérprete: Cristiano Araújo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cristiano Araújo - Simples Assim
+
+Intro: G9  C9
+
+G
+Te quero tanto
+D/F#
+Que nem cabe em mim
+G
+Se o tempo passa,
+D/F#                 C9
+Eu sempre fico mais afim
+G                D/F#
+Cada minuto é um ano
+             G
+Quando não esta.
+
+Se estou contigo
+          D/F#      C9
+Tudo é único, é singular
+Em
+É sempre que você me liga
+D/F#               G
+Mudo toda minha rotina
+
+              C9
+So pra te encontrar
+Em                  D/F#
+E cada vez que eu te vejo
+                    G
+Mais aumenta esse desejo
+                C9
+Bate forte o coração
+                 D
+So de te ouvir falar
+G                D                       Em
+To te querendo, cada minuto eu sou mais seu
+                      C9
+Quero curtir contigo esse sentimento meu
+G                 D
+To te esperando, to cada dia mais afim
+Em                                C9
+So sei que eu te amo, e é simples assim.
+
+----------------- Acordes -----------------
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G9 = 3 X 0 2 0 X

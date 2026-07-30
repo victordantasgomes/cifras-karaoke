@@ -1,0 +1,61 @@
+@titulo: um-gesto-qualquer
+@autor:
+@intérprete: Skank
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Skank - Um Gesto Qualquer
+
+      F#m    A
+E|-2-2-2------------|
+B|-2-2-2--2-2-2-----|
+G|-2-2-2--2-2-2-----|
+D|--------2-2-2-----|
+A|------------------|
+E|------------------|
+
+(F#m A)
+Ele liga a TV e você não quer saber
+Futebol, sexo e ação capturam toda atenção
+(F#m A)
+Da paixão ao tédio quantos dias caberão
+Ele tem que trabalhar, você tem que ver a situação
+(F#m A)
+Do prazer ao vício é só uma leve distração
+Do amor à solidão quantas noites ainda correrão
+(F#m A)
+Ele pede um café e mergulha em seu jornal
+Você sabe como é tudo isso parece tão normal
+(F#m A)
+Da alegria a mágoa, uma velha tradição
+
+Do amor à submissão um percurso torto da ilusão
+Bm        G  Bm         G
+Ele não notou e você espera ainda
+Bm            G           Bb                    D
+Nem sequer ouviu você dizer que não importa mais
+Bb                     Em7
+Que não se importa mais
+
+Solo: F#m A
+
+Bm         G  Bm        G
+Ele não notou e você espera ainda
+Bm            G              Bb                     D
+Um gesto qualquer depois do amor que não importa mais.
+Bb                  Em7
+Que não importa mais
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Em7 = 0 2 2 0 3 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

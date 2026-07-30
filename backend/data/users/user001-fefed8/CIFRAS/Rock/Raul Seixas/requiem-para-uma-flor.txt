@@ -1,0 +1,55 @@
+@titulo: requiem-para-uma-flor
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Réquiem Para Uma Flor
+
+Intro.:
+D7+ A E7 A C#m D C#m D C#m Bm F#m7 D C#7 F#m7 D C#7
+
+F#m7      A  E
+Fruto do mundo
+          D9
+Somos os homens
+    E                            A4
+Pequenos girassóis que mostram a cara
+  Bm4  C#m    Bm4            E9
+Enorme as montanhas que não dizem nada
+
+D7+ A E7 A C#m D C#m D C#m Bm F#m7 D C#7 F#m7 D C#7
+
+F#m7      A  E
+Fruto do mundo
+          D9
+Somos os homens
+    E                            A4
+Pequenos girassóis que mostram a cara
+  Bm4  C#m    Bm4            E9
+Enorme as montanhas que não dizem nada
+
+(F#m7)
+Incapaces los hombres
+Que hablam de todo
+Y sufrem callados
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+Bm = X 2 4 4 3 2
+Bm4 = X 2 2 4 3 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D7+ = X X 0 2 2 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+E9 = 0 2 4 1 0 0
+F#m7 = 2 X 2 2 2 X

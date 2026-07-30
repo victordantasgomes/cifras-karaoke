@@ -1,0 +1,89 @@
+@titulo: o-senhor-esta-levantando-um-exercito
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - O Senhor Está Levantando Um Exército
+
+[Intro] Em  C  D
+        Em  C  D
+        Em  C  D
+        Em C7M
+
+Em                                  C7M9
+O Senhor está levantando um grande exército
+    Am7           Bsus4,7              Em     A
+Um povo de guerra capaz de vencer o inimigo
+    Em                               C7M
+Ele já preparou para nós todo Seu armamento
+    Am7             Bsus4,7          Em7      A
+Que nos capacita a vencer na terra e céu.
+      Em7                                   C7M
+Nossa luta na verdade não é contra carne ou sangue
+     Am7                    Bsus4         Em7     C D Em CM7
+Mas contra os principados e dominadores do mal
+
+Em                                  C7M9
+O Senhor está levantando um grande exército
+    Am7           Bsus4,7              Em     C D
+Um povo de guerra capaz de vencer o inimigo
+    Em                               C7M
+Ele já preparou para nós todo Seu armamento
+    Am7             Bsus4,7          Em7      C D
+Que nos capacita a vencer na terra e céu
+      Em                                    C7M
+Nossa luta na verdade não é contra carne ou sangue
+     Am7                    Bsus47        Em   Esus4 E/G#
+Mas contra os principados e dominadores do mal
+
+  Am                 D            G
+E Ele não será derrotado pelo inimigo
+                     C7M          F#º
+Toda arma contra a igreja irá perecer
+           B             Em Esus4 E
+No último dia o Senhor virá
+  Am                    D                    G#º
+Virá para reinar com aqueles que viveram em guerra
+                      G               F#º
+Que gastaram os seus dias servindo a Deus
+            F                Em   Esus4 E
+Fazendo em tudo a vontade do Pai
+
+  Am                 D            G
+E Ele não será derrotado pelo inimigo
+                     C7M          F#º
+Toda arma contra a igreja irá perecer
+           B             Em Esus4 E
+No último dia o Senhor virá
+  Am                    D                    G#º
+Virá para reinar com aqueles que viveram em guerra
+                      G               F#º
+Que gastaram os seus dias servindo a Deus
+            F                Em   C D Em
+Fazendo em tudo a vontade do Pai
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+Bsus4 = X 2 4 4 5 2
+C = X 3 2 0 1 0
+C7M = X 3 2 0 0 X
+C7M9 = X 3 2 4 3 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+Esus4 = 0 2 2 2 0 0
+F = 1 3 3 2 1 1
+F#º = 2 X 1 2 1 X
+G = 3 2 0 0 0 3
+G#º = 4 X 3 4 3 X

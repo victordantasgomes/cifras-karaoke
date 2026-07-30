@@ -1,0 +1,181 @@
+@titulo: amo-o-senhor
+@autor:
+@intérprete: Gabriela Rocha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gabriela Rocha - Amo o Senhor
+
+[Intro]
+
+     F#m       D9         A          E
+E|---17-16-14-12-14-12-------------------------|
+B|---------------------15-14-12-10-12-10-9-10--|
+G|---------------------------------------------|
+D|---------------------------------------------|
+A|---------------------------------------------|
+E|---------------------------------------------|
+
+A           E/G#
+  Amo o Senhor
+F#m           C#/F
+   Meu salvador
+D9        A/C#
+    Anelo tê-lo
+B/D#              Esus  E
+    Bem junto a mim
+A            E/G#  F#m
+  Minha esperança é
+       C#/F        D9         A/C#
+Tua palavra que jamais desamparou
+
+   Bm       C#m        D9
+Aquele que busca Tua face
+    E4  E
+E quer
+
+            A
+Viver para Ti
+              E/G#
+Pensar só em Ti
+                  A/G
+Romper com as barreiras
+            D9
+Do mundo aqui
+            A               E/G#
+Voar com o Pai nas asas da fé
+            A/G               D9
+E ser revestido de glória e poder
+          A
+Amo o Senhor
+
+( D9  A/C#  Bm  E/G#  A )
+
+     F#m       D9         A          E
+E|---17-16-14-12-14-12-------------------------|
+B|---------------------15-14-12-10-12-10-9-10--|
+G|---------------------------------------------|
+D|---------------------------------------------|
+A|---------------------------------------------|
+E|---------------------------------------------|
+
+A           E/G#
+  Amo o Senhor
+F#m           C#/F
+   Meu salvador
+D9        A/C#
+    Anelo tê-lo
+B/D#              Esus  E
+    Bem junto a mim
+A            E/G#  F#m
+  Minha esperança é
+       C#/F        D9         A/C#
+Tua palavra que jamais desamparou
+   Bm       C#m        D9
+Aquele que busca Tua face
+    E4  E
+E quer
+
+            A
+Viver para Ti
+              E/G#
+Pensar só em Ti
+                  A/G
+Romper com as barreiras
+            D9
+Do mundo aqui
+            A               E/G#
+Voar com o Pai nas asas da fé
+            A/G               D9
+E ser revestido de glória e poder
+          A
+Amo o Senhor
+
+            A
+Viver para Ti
+              E/G#
+Pensar só em Ti
+                  A/G
+Romper com as barreiras
+            D9
+Do mundo aqui
+            A               E/G#
+Voar com o Pai nas asas da fé
+            A/G               D9
+E ser revestido de glória e poder
+          (Cai em F#m)
+Amo o Senhor
+
+     F#m       D9         A          E
+E|---17-16-14-12-14-12----------------------------|
+B|---------------------15-14-12-10-12-------------|
+G|------------------------------------------------|
+D|------------------------------------------------|
+A|------------------------------------------------|
+E|------------------------------------------------|
+
+     F#m       D9         A          E
+E|---17-16-14-12-14-12----------------------------|
+B|---------------------15-14-15-17-12-------------|
+G|------------------------------------------------|
+D|------------------------------------------------|
+A|------------------------------------------------|
+E|------------------------------------------------|
+
+     F#m       D9         A          E           D9
+E|---17-16-14-12-14-12-----------------------------|
+B|---------------------15-14-12-10-12-10-9-10------|
+G|-------------------------------------------------|
+D|-------------------------------------------------|
+A|-------------------------------------------------|
+E|-------------------------------------------------|
+
+            A
+Viver para Ti
+              E/G#
+Pensar só em Ti
+                  A/G
+Romper com as barreiras
+            D9
+Do mundo aqui
+            A               E/G#
+Voar com o Pai nas asas da fé
+            A/G               D9
+E ser revestido de glória e poder
+
+            A
+Viver para Ti
+              E/G#
+Pensar só em Ti
+                  A/G
+Romper com as barreiras
+            D9
+Do mundo aqui
+            A               E/G#
+Voar com o Pai nas asas da fé
+            A/G               D9
+E ser revestido de glória e poder
+
+[Final] F#m  D9  A  E
+        F#m  D9  A  E
+        F#m
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+B/D# = X 6 X 4 7 7
+Bm = X 2 4 4 3 2
+C#/F = X 8 X 6 9 9
+C#m = X 4 6 6 5 4
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+Esus = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,53 @@
+@titulo: minha-casa
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Minha Casa
+
+Intro 2x: Dm  Gm/E  A7  Dm
+
+Dm                 C                        A#  A7
+ Eu Te amo e sou amado, o meu preço já foi pago
+           Dm
+Tu és meu dono
+                      C                         A#
+Eu sou livre e sou escravo, fui liberto e sou cativo
+    A7
+Das cordas do Teu amor
+
+Dm       C          A#
+ Praga nenhuma chegará na minha casa,
+Am          Gm A7        Dm
+Que é Tua casa,  meu Senhor
+
+Solo: Dm  Gm/E  A7  Dm
+
+Dm                C                        A#  A7
+Eu Te amo e sou amado, pelo sangue fui comprado
+           Dm
+Tu és meu dono
+
+                   C                          A#
+Eu sou livre e perdoado, fui liberto e sou cativo
+     A7
+Nas asas do meu Senhor
+Dm       C         A#
+Praga nenhuma chegará na minha casa,
+             Gm A7         Dm
+Que é Tua casa,   meu Senhor
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Gm = 3 5 5 3 3 3
+Gm/E = 0 5 5 3 3 3

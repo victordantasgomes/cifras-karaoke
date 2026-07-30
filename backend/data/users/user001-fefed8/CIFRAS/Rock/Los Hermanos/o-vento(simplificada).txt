@@ -1,0 +1,116 @@
+@titulo: o-vento(simplificada)
+@autor:
+@intérprete: Los Hermanos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Los Hermanos - O Vento
+
+Intro 4x: A D7M(9)
+
+Primeira parte:
+A7M                         D7M
+  Posso ouvir o vento passar
+                   C#m7
+Assistir a onda bater
+                   Bm7
+mas o estrago que faz
+          E        A
+a vida é curta pra ver
+
+       D7m
+Eu pensei
+                  C#m7
+que quando eu morrer
+                    Bm7
+vou acordar para o tempo
+          E
+e para o tempo parar
+
+
+Segunda parte:
+D7m             C#m7
+    Um século, um mês
+              Bm7
+Três vidas e mais
+    E          A
+Um passo pra trás
+
+D7M       C#m
+      Por que será?
+
+Terceira parte:
+F#m7 Bm7 D7M  E      F#m7  Bm7  D7M  E
+                Vou pensar
+
+Primeira parte com variação:
+A7M                      D7M
+  Como pode alguém sonhar?
+                      C#m7
+O que é impossível saber
+                       Bm7
+Não te dizer o que eu penso
+      E          A
+Já é pensar em dizer
+
+           D7M           C#m7
+E isso eu vi,    o vento leva
+         Bm7
+Não sei mais,
+          E         Bm7
+sinto que é como sonhar
+         E
+Que o esforço pra
+     Bm7
+Lembrar
+        E         A    Bm7
+É a vontade de esquecer
+        E
+E isso porque? diz mais !
+
+A7M                          D7M  C#m7
+   Uh...Se a gente já não sabe mais
+                      Bm7
+Rir um do outro, meu bem
+             E         A7M
+Então o que resta é chorar
+      D7M              C#m7
+E talvez,   se tem que durar
+                  Bm7
+Vem, renasce do amor
+          E
+Bento de lágrimas
+
+D7M              C#m7
+      Um século, três
+               Bm7
+Se as vidas atrás
+     E        A
+São parte de nós
+D7M       C#m
+   E como será?
+
+F#m7        D7M                 Bm7    E
+   O vento vai dizer, lento o que virá  E se chover de-
+ F#m7          D7M              Bm7        E
+mais, A gente vai saber, claro de um trovão   Se alguém depois
+ A         D7M(9)
+sorrir em paz
+
+( A D7M(9) ) (7x) A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7M = X 0 2 1 2 0
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D7M = X X 0 2 2 2
+D7M(9) = X 5 4 6 5 X
+E = 0 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X

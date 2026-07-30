@@ -1,0 +1,99 @@
+@titulo: tu-es-o-motivo
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Tu És o Motivo
+
+Introd: E   :   C7+   :  Am   Am7/G  : F#m9   B7  :  E   :   C7+   :  Am7  :  Bsus4  : B7  ::
+
+   E
+Tu és o motivo
+   C#m7
+Tu és a razão
+  A            Bsus4        E  A/C# B/D#
+De estarmos reunidos hoje aqui
+ E
+Pai tão querido
+ C#m7
+Pai tão amigo
+  A         B       C#m7 B A
+Maravilhoso é Te adorar
+
+ E
+Messias Prometido
+ C#m7
+Emanuel
+       A       Bsus4            E  A/C# B/D#
+Nossas vidas são para o Teu louvor
+
+  E
+Cordeiro de Deus
+ C#m7
+Rosa de Saron
+Primeira vez:
+ A           B            E   A/C#       B/D#   : E E/G# A : (2/4) A :
+O Teu perfume enche este lugar : ::
+Segunda  vez:
+  A           B            C   D      E     Am7   D       E   A/E B/E
+O Teu perfume enche este lugar                Enche este lugar
+
+ E               C#m7
+Glória , Glória, Glória, Glória
+      A        B    E  A/C# B/D#
+Teu Espírito está aqui
+ E               C#m7 ( 3X)
+Glória , Glória, Glória, Glória
+      A        B    E  A/C# B/D# ( para subir D/F#)
+Teu Espírito está aqui
+
+ G               Em7
+Glória , Glória, Glória, Glória
+      C        D    G/B C D
+Teu Espírito está aqui
+ G                Em7
+Glória , Glória, Glória, Glória
+        C       D    G/B C D
+Teu  Espírito está aqui
+
+ E               C#m7
+Glória , Glória, Glória, Glória
+      A        B    E  A/C# B/D#
+Teu Espírito está aqui
+ E               C#m7
+Glória , Glória, Glória, Glória
+     F#m7      B/D#   B Am7 Bm7 Esus4 E
+Teu Espírito está aqui
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am7/G = 3 0 2 0 1 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B/E = X 7 9 8 7 7
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+Bsus4 = X 2 4 4 5 2
+C = X 3 2 0 1 0
+C#m7 = X 4 6 4 5 4
+C7+ = X 3 2 0 0 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em7 = 0 2 2 0 3 0
+Esus4 = 0 2 2 2 0 0
+F#m7 = 2 X 2 2 2 X
+F#m9 = 2 4 6 2 2 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

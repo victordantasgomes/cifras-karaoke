@@ -1,0 +1,90 @@
+@titulo: lua-cheia(versão 2)
+@autor:
+@intérprete: Papas da Língua
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Papas da Língua - Lua Cheia
+
+Intro: C F7M
+
+   (C F/G)
+nanana nanaranah(4X)
+
+   C                     F7M
+Eta vidinha da boa / ela me chama
+Tira uma onda comigo / me leva na boa
+Cama de gata / parece dona
+Eta vidinha sacana / ela é a toa
+
+
+
+   (C F7M)
+Nanana nanaranah(2X)
+
+   C                     F7M
+Ela se amarra / ela viaja na dela
+Olha menina danada / não me dá bola
+Anda comigo / parece que vai rolar
+Vira essa lua lá fora / que ela vai embora
+
+ (C G Am F7M)
+Lua cheia fica doida
+Lua cheia vamos namorar
+Lua nova vida boa
+Lua nova ela quer casar
+
+Obs: depois do refrão o F eh tocado com pestana
+
+
+  (C F/G)
+Nanana nanaranah(4X)
+
+     D#m7                 G#m7
+Ela diz que me ama / mas não pode ficar
+Meus amigos me dizem / ela é estranha
+Ela desaparece / e diz que não vai voltar
+     Dm7                    F7M
+Vira essa lua lá fora / ela me devora
+
+ (C G Am F)
+Lua cheia fica doida
+Lua cheia vamos namorar
+Lua nova vida boa
+Lua nova ela quer casar (2X)
+
+   (C F)
+Nanana nanaranah(2X)
+
+   C                     F/G
+Eta vidinha da boa / ela me chama
+Tira uma onda comigo / me leva na boa
+Cama de gata / parece dona
+Eta vidinha sacana / ela é a toa
+
+ (C G Am F)
+Lua cheia fica doida
+Lua cheia vamos namorar
+Lua nova vida boa
+Lua nova ela quer casar (2X)
+
+   (C F)
+Nanana nanaranah(2X)
+
+Eta vidinha sacana.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D#m7 = X X 1 3 2 2
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+F/G = 3 X 3 2 1 X
+F7M = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G#m7 = 4 X 4 4 4 X

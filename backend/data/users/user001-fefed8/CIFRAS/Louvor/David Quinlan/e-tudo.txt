@@ -1,0 +1,30 @@
+@titulo: e-tudo
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - É Tudo
+
+[INT] -> G  D/F#  G  D/F# Am7 Em/G D/F# G
+
+G     D/F#    G    D/F#     Am7       G   D/F#   Em
+Seu toque é poderoso é tudo o que eu quero sentir.
+   Am7       Em/G  D/F#   Em (volta)
+É tudo o que eu quero sentir.
+
+
+Obs: A cifra é a mesma nas demais partes
+     em Português,e tambem na parte em Inglês.
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em/G = 3 X 2 4 5 X
+G = 3 2 0 0 0 3

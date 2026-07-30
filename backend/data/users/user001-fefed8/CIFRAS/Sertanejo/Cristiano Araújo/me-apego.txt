@@ -1,0 +1,71 @@
+@titulo: me-apego
+@autor:
+@intérprete: Cristiano Araújo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cristiano Araújo - Me Apego
+
+Intro: Bm  G  E  G
+
+E|-------------------------------------------------------------------------------------------------------|
+B|----3-3-3-3-3-3-3---3p2----333-3-3-3-3-3-3-----------5h7-5------5h7--------------8-------8-----8-8p7---|
+G|----4-2-4-2-4-2-4-------4--444-2-4-2-4-2-4----2-4-4/7------7-4~----7-4~-2-2/4-4/9------------7---------|
+D|---------------------------------------------------------------------------------------9---9-----------|
+A|-------------------------------------------------------------------------------------10--10------------|
+E|-------------------------------------------------------------------------------------------------------|
+
+ Bm                                G
+A sua voz me segue junto ao som do vento
+                                 D
+Teu cheiro me persegue, afio pelo ar
+                                   A
+Em flashes te desenho em meu pensamento
+                                    Em
+Até de olhos fechados vejo o seu olhar
+   D/F#  G       A
+Ah, o teu olhar...
+ Bm                                   G
+Quando acontece não tem pra que, nem porquê
+
+                                E
+Eu admito, me enlouqueço por você
+                 G   A
+Não quero nem saber!
+
+Riff:
+E|-----------------------------------------------|
+B|-----------------------------------------------|
+G|-----11-11-11-11/12----7-7-7---11--11/16--14---|
+D|-----x--x--x--x--x-----x-x-x---x---x--x---x----|
+A|-----9--9--9--9/10-----5-5-5---9---9/14---12---|
+E|-----------------------------------------------|
+
+Refrão:
+ D                                  A
+Quero de novo, todo dia, cada dia mais
+                                        Em
+Eu me apaixono nas loucuras que a gente faz
+                       Bm                     A
+É nesse teu jeitinho que eu me apego bem facinho
+
+ D                                  A
+Quero de novo, todo dia, cada dia mais
+                                        Em
+Eu me apaixono nas loucuras que a gente faz
+                       G      A              Bm
+É nesse teu jeitinho que eu me apego bem facinho
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

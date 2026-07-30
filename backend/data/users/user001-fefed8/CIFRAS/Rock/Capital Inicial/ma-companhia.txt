@@ -1,0 +1,99 @@
+@titulo: ma-companhia
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Má Companhia
+
+Inicio:
+
+Baixo: A|- C - F : 6x
+Guitar Base: A5 - C5 - F5 : 4x - Termina em D5
+
+Riff (Guitar Solo)
+E|------------------:
+B|--------4h--------:
+G|---5--5----7-5----:  4X
+D|-7--7----------7--:
+A|------------------:
+E|------------------:
+
+Baixo 4x
+Dos sete pecados capitais
+Eu não sei qual que eu gosto mais
+A raiva que eu adoro a inveja que eu sinto
+Todas as veses que eu minto
+
+A        C         F
+E você não sabe da metade
+
+A        C         F
+Eu sou dono da verdade
+D
+Dessa vez você não ta enganada
+Eu vim ao mundo com a pá virada
+
+C    G        A
+Nasci na noite errada
+C    G        A
+Com o pé na estrada
+C    G        A
+Com tudo em excesso
+C    G        A                   D
+E sem respeito nenhum por nada
+
+E|------------------:
+B|--------4h--------:
+G|---5--5----7-5----:  2x
+D|-7--7----------7--:
+A|------------------:
+E|------------------:
+
+Baixo 4x
+Eu não tenho mais vergonha ou medo
+Eu sou que eu sou não é nenhum segredo
+Pra min e facil e normal
+Não fasso um esforço pra min comportar mal
+
+A        C         F
+Eu sei do meu fracasso
+A        C         F
+Sou ruim em tudo que eu faço
+D
+Eu sou assim
+So penso em min
+
+C    G        A
+Nasci na noite errada
+C    G        A
+Com o pé na estrada
+C    G        A
+Com tudo em excesso
+C    G        A
+E sem respeito nenhum por nada
+
+E|--------------------------------------------------------15-17^-17^17^17^17^17^17^15-------------------------------------------------------------:
+B|--------------------------15------15------15------15-17-----------------------------14h15-15-14-14-12-12-14-14-14h15-15-14-14-12-12-14-14-14h15^:
+G|--------------------12-14^--14^14^--14^14^--14^14^----------------------------------------------------------------------------------------------:
+D|-------5h7-77-10h12-----------------------------------------------------------------------------------------------------------------------------:
+A|-5h7-77-----------------------------------------------------------------------------------------------------------------------------------------:
+E|------------------------------------------------------------------------------------------------------------------------------------------------:
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C5 = X 3 5 5 X X
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F5 = 1 3 3 X X X
+G = 3 2 0 0 0 3

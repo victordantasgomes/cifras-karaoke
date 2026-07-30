@@ -1,0 +1,46 @@
+@titulo: ao-nosso-deus
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Ao Nosso Deus
+
+C         Dm           G         C
+Ao nosso Deus, que se assenta no trono, 
+Am      Dm       C     G      C
+E ao Cordeiro pertence a salvação.
+
+C         Dm           G         C
+Ao nosso Deus, que se assenta no trono,
+Am      Dm       C     G      C
+E ao Cordeiro pertence a salvação.
+
+       F        G       E7        Am
+E o louvor, e a glória, e a sabedoria,   
+Dm            G          C  C7
+E as ações de graça, e a honra,
+      F        G     E7             Am
+E o poder, e a força sejam ao nosso Deus 
+Dm                G         C
+Pelos séculos dos séculos. Amém.
+
+F                 G
+Pelos séculos dos séculos
+ F Fm C
+Amém.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3

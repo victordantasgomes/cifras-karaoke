@@ -1,0 +1,116 @@
+@titulo: dentadura-postica
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Dentadura Postiça
+
+A
+Vai cair, vai cair, vai cair
+A estrela do céu
+Vai cair a noite no mar
+Vai cair o nível do gás
+                     E
+Vai cair a cinza no chão
+                  A
+Vai cair juízo final
+      A7               D
+Vai cair os dentes de Jó
+      Dm               A
+Vai cair o preço do caos
+      E                A
+Vai cair peteca no chão
+      Bb
+Vai sair o sol outra vez
+Vai sair um filho pra luz
+Vai sair da cara o terror
+                    F
+Vai sair o expresso 22
+
+                    Bb
+Vai sair a máscara azul
+      Bb7             Eb
+Vai sair o verde do mar
+      Ebm           Bb
+Vai sair um novo gibi
+      F               Bb
+Vai sair da cara o suor
+      B
+Vai subir cachorro urubu
+Vai subir o elevador
+Vai subir o preço do horror
+                      F#
+Vai subir o nível mental
+                      B
+Vai subir o disco voador
+      B7              E
+Vai subir a torre babel
+      Em                B
+Vai subir o Cristo pro céu
+     F#               B
+Vai subir a chama do mal
+      C
+Vai cair estrela do céu
+Vai cair a noite no mar
+Vai cair o nível do gás
+                     G
+Vai cair a cinza no chão
+                  C
+Vai cair juízo final
+      C7               F
+Vai cair os dentes de Jó
+      Fm               C
+Vai cair o preço do caos
+      G                C
+Vai cair peteca no chão
+      Db
+Vai sair o sol outra vez
+Vai sair um filho pra luz
+Vai sair da cara o terror
+                    Ab
+Vai sair o expresso 22
+                    Db
+Vai sair a máscara azul
+      Db7             Gb
+Vai sair o verde do mar
+      Gbm           Db
+Vai sair um novo gibi
+      Ab              Db
+Vai sair da cara o suor
+      D
+Vai subir cachorro urubu
+Vai subir o elevador
+Vai subir o preço do horror
+                      A7
+Vai subir o nível mental
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Ab = 4 3 1 1 1 4
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+Bb = X 1 3 3 3 1
+Bb7 = X 1 3 1 3 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+Db = X 4 6 6 6 4
+Db7 = X 4 3 4 2 X
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+Eb = X 6 5 3 4 3
+Ebm = X X 1 3 4 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+Gb = 2 4 4 3 2 2
+Gbm = 2 4 4 2 2 2

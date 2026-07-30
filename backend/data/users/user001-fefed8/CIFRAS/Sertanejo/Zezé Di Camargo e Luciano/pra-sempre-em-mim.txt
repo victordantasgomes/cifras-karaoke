@@ -1,0 +1,105 @@
+@titulo: pra-sempre-em-mim
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Pra  Sempre Em Mim
+
+Intro:  Bb, Bbsus4, Bb, Eb, Ebadd9, Eb, Bb, Bb7M, Bb, Eb, F
+
+            Bb Bbsus4 Bb  Eb
+Pra que mentir pro meu olhar?
+           F7 F7sus4 F7  Bb Bbsus4 Bb
+Que dessa vez vai me deixar
+            Dm7            Eb
+Que já não sou o que te prende aqui
+              C/E           F
+Que em meu lugar alguém te faz feliz
+                     F7 F7sus4 F7
+Não faz comigo assim
+
+              Bb Bbsus4 Bb
+Eu sei que errei
+             Eb
+Buscando alguém
+           F7 F7sus4 F7   Bb Bbsus4 Bb
+Mas esse amor não me fez bem
+          Dm7
+Se me deixar
+
+            Eb     C/E
+Não leve o seu amor
+         Bb    D7  Gm   C7
+Vou esperar você eternamente aqui
+     F7
+Pra sempre em mim
+     Bb           D7
+Pra sempre em mim
+          Gm            Gm7/F        Eb     Bbsus2/D
+Sei que existem mil estrelas nesse céu azul
+      Cm7      F7       Bb D7
+E nenhuma igual eu e você
+         Gm         Gm7/F        Eb      Bbsus2/D
+Por que nada nesse mundo tem a mesma luz
+          C7                         F F7 F7sus4 F7
+Que essa paz do nosso amor no amanhecer
+
+            Bb Bbsus4 Bb  Eb
+Pra que mentir pro meu olhar?
+           F7 F7sus4 F7  Bb Bbsus4 Bb
+Que dessa vez vai me deixar
+            Dm7           Eb
+Que já não sou o que te prende aqui
+              C/E           F
+Que em meu lugar alguém te faz feliz
+                     F7 F7sus4 F7
+Não faz comigo assim
+
+              Bb Bbsus4 Bb
+Eu sei que errei
+             Eb
+Buscando alguém
+           F7 F7sus4 F7   Bb Bbsus4 Bb
+Mas esse amor não me fez bem
+          Dm7
+Se me deixar
+            Eb     C/E
+Não leve o seu amor
+         Bb    D7  Gm   C7
+Vou esperar você eternamente aqui
+     F7
+Pra sempre em mim
+     Bb           G7
+Pra sempre em mim
+     C7           F7
+Pra sempre em mim
+     Bb           G7 Eb Eb7M Eb F
+Pra sempre em mim
+     Bb
+Pra sempre em mim
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+Bb7M = X 1 3 2 3 1
+Bbsus2/D = X 5 3 3 1 1
+Bbsus4 = X 1 3 3 4 1
+C/E = 0 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Cm7 = X 3 5 3 4 3
+D7 = X X 0 2 1 2
+Dm7 = X 5 7 5 6 5
+Eb = X 6 5 3 4 3
+Eb7M = X X 1 3 3 3
+Ebadd9 = X 6 8 8 6 6
+F = 1 3 3 2 1 1
+F7 = 1 3 1 2 1 1
+F7sus4 = 1 3 1 3 1 X
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3
+Gm7/F = X X 3 3 6 3

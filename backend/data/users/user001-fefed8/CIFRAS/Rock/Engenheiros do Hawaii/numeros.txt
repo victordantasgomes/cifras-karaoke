@@ -1,0 +1,92 @@
+@titulo: numeros
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Números
+
+(Humberto Gessinger)
+
+
+intro: (2X) A E F#m E
+
+A         E           F#m
+última edição do Guiness Book
+     E              D   A/C#
+corações a mais de 1000
+                 Bm   E
+?e eu com esses números?
+A        E         F#m E            D
+5 extinções em massa... 400 humanidades
+A/C#              Bm   E
+  ?e eu com esses números?
+A         E           F#m            E
+solidão a 2... dívida externa... anos luz
+    A     E            F#m               E
+aos 33 jesus na cruz... Cabral no mar aos 33
+   D A/C#                 Bm   E
+e eu ?o que faço com estes números?
+
+
+
+     Bm       E                   A E/G# F#m
+a medida de amar é amar sem medida
+Bm           E              A E/G# F#m
+ velocidade máxima permitida
+Bm            E                 A
+ a medida de amar é amar sem medida
+
+ A            E     F#m        E      D
+Nascimento e Silva 107... Corrientes 348
+A/C#             Bm   E
+ ?e eu com esses números?
+ A         E            F#m        E
+traço de audiência... tração nas 4 rodas
+ D  A/C#                    Bm   E
+e eu   ?o que faço com estes números?
+ A          E            F#m
+7 vidas... mais de mil destinos
+        E           D
+todos foram tão cretinos
+A/C#           Bm   E
+  quando elas se beijaram
+
+     Bm       E                   A E/G# F#m
+a medida de amar é amar sem medida
+Bm                E
+  preparar a decolagem
+                  A E/G# F#m
+contagem regressiva
+Bm            E                 A
+ a medida de amar é amar sem medida
+
+ A          E         F#m        E
+mega ultra híper micro baixas calorias
+     A   E       F#m E
+kilowatts...  gigabytes
+   D A/C#                      Bm   E
+e eu    ?o que faço com esses números?
+
+     Bm       E                   A E/G# F#m E/G#
+a medida de amar é amar sem medida
+Bm                E
+  preparar a decolagem
+                  A E/G# F#m  E/G#
+contagem regressiva
+Bm            E                 A
+ a medida de amar é amar sem medida
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

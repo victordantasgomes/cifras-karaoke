@@ -1,0 +1,94 @@
+@titulo: a-lua
+@autor:
+@intérprete: Jota Quest
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jota Quest - A Lua
+
+[Intro]  E  B/D#  C#m  E/B  A  Bsus4  B  C#m  B/D#
+
+   E                     B/D#           A              C#m
+A lua que faz brilhar o teu olhar, meu amor
+               B                      A
+Eu fico aqui tentando encontrar
+           B             C#m
+A amplitude dos sonhos
+         B           C#m
+A história dos mundos
+    B                  C#m
+E foge o pensamento
+           A
+Na charada do tempo
+   E                     B/D#         C#m  B              E
+A lua que faz brilhar o teu olhar,      meu amor
+             B/D#               A
+Fico daqui tentando imaginar
+             B              C#m
+Uma história, dois mundos
+       B              E
+Lapidando no tempo
+
+         B               E
+Duas formas no vento
+ A
+Vem pra cá
+ B   G#m    C#m7   B       E
+Ver o         trem,    passageiro
+ B                    E
+Vai chegando lento
+      A                         E  B/D#   C#m   B   A   Bsus4
+Na rosa dos ventos
+ E                        B/D#                 A
+Leste, oeste, pro norte eu vou levando
+           Am                     E
+Vou jogando o som no ar
+        B/D#                     A                       Am
+Esperando o amor chegar na minha vida
+E                        B/D#                 A
+Leste, oeste, pro sul eu vou cantando
+           Am                     E
+Vou jogando o som no ar
+        B/D#                     A                       Am  E  B/D#   C#m   B   A   Bsus4
+Esperando o amor chegar na minha vida
+E                        B/D#                 A
+Leste, oeste, pro norte eu vou levando
+           Am                     E
+Vou jogando o som no ar
+        B/D#                     A                       Am
+Esperando o amor chegar na minha vida
+E                        B/D#                 A
+Leste, oeste, pro sul eu vou cantando
+           Am                     E
+Vou jogando o som no ar
+        B/D#                     A                       Am
+Esperando o amor chegar na minha vida
+B   G#m    C#m7   B       E
+Ver o         trem,    passageiro
+ B                    E
+Vai chegando lento
+      A
+Na rosa dos ventos
+B   G#m    C#m7   B       E
+Ver o         trem,    passageiro
+ B                    E
+Vai chegando lento
+    A           Am  Bsus4       E  B/D#   C#m   B   A   Bsus4
+A avisar, anunciar ... o amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+Bsus4 = X 2 4 4 5 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+G#m = 4 6 6 4 4 4

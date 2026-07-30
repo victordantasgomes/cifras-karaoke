@@ -1,0 +1,62 @@
+@titulo: hino-545
+@autor:
+@intérprete: Harpa Cristã
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Harpa Cristã - Hino 545
+
+  E         A    A7            D
+Porque Ele vive, posso crer no amanhã.
+            A  F#m7        G    E7
+Porque Ele vive, temor não há.
+           A       A7         Bm7 C#m D   F
+Mas eu bem sei, eu sei, que a minha vida
+          A             E7              A
+Está nas mãos do meu Jesus, que vivo está.
+
+         A              D
+Deus enviou seu Filho amado
+         A F#m7         G         E7
+Pra perdoar, pra me salvar.
+            A             D    F
+Na cruz morreu por meu pecado,
+           A         E7          A  D  A
+Mas ressurgiu e vivo com o Pai está.
+
+(refrão)
+ E         A    A7            D
+Porque Ele vive, posso crer no amanhã.
+
+            A  F#m7        G    E7
+Porque Ele vive, temor não há.
+           A       A7         Bm7 C#m D   F
+Mas eu bem sei, eu sei, que a minha vida
+          A             E7              A
+Está nas mãos do meu Jesus, que vivo está.
+
+            A             D
+E quando, enfim, chegar a hora
+          A   F#m7     G    E7
+Em que a morte enfrentarei,
+             A            D     F
+Sem medo, então, terei vitória:
+         A              E7             A
+Irei à Glória, ao meu Jesus que vivo esta.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

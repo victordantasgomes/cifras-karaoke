@@ -1,0 +1,112 @@
+@titulo: meu-amigo-pedro(simplificada)
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Meu Amigo Pedro
+
+Intro: G
+
+Primeira Parte:
+ G                  C    G
+Muitas vezes Pedro você fala
+                        C   G
+Sempre a se queixar da solidão
+  C                            G
+Quem te fez com ferro fez com fogo, Pedro
+   D          D7          G
+É pena que você não sabe não
+
+                      C    G
+Vai pro seu trabalho todo dia
+                         C  G
+Sem saber se é bom ou se é ruim
+  C                           G
+Quando quer chorar vai ao banheiro
+ D                D7            G
+Pedro, as coisas não são bem assim
+
+
+                         C  G
+Toda vez que eu sinto o paraíso
+                    C    G
+Ou me queimo torto no inferno
+    C                        G
+Eu penso em você meu pobre amigo
+  D         D7             G
+Que só usa sempre o mesmo terno
+
+Refrão:
+ C               D             G
+Pedro onde você vai eu também vou
+ C               D             G
+Pedro onde você vai eu também vou
+           Em        A7 D  G
+Mas tudo acaba onde co_me_çou
+
+(Primeira parte / Refrão)
+
+ G                    C    G
+Tente me ensinar das tuas coisas
+                         C       G
+Que a vida é séria e a guerra é dura
+ C                           G
+Mas, se não puder cale essa boca, Pedro
+   D          D7           G
+E deixa eu viver minha loucura
+
+                      C      G
+Lembro Pedro aqueles velhos dias
+                         C       G
+Quando os dois pensavam sobre o mundo
+ C                     G
+Hoje eu te chamo de careta, Pedro
+D           D7       G
+E você me chama vagabundo
+
+ C               D             G
+Pedro onde você vai eu também vou
+ C               D             G
+Pedro onde você vai eu também vou
+           Em        A7 D  G
+Mas tudo acaba onde co_me_çou
+
+                   C    G
+Todos os caminhos são iguais
+                          C    G
+O que leva à glória ou a perdição
+ C                          G
+Há tantos caminhos, tantas portas
+ D           D7          G
+Mas, somente um tem coração
+                       C    G
+E eu não tenho nada a te dizer
+                      C       G
+Mas, não me critique como eu sou
+ C                      G
+Cada um de nós é um universo, Pedro
+D          D7            G
+Onde você vai eu também vou
+
+ C               D             G
+Pedro onde você vai eu também vou
+ C               D             G
+Pedro onde você vai eu também vou
+           Em        A7 D  G
+Mas tudo acaba onde co_me_çou
+             Em        A7 D7 G
+É que tudo acaba onde co_me_çou
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

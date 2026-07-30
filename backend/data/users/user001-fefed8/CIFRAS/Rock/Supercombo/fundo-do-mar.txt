@@ -1,0 +1,121 @@
+@titulo: fundo-do-mar
+@autor:
+@intérprete: Supercombo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Supercombo - Fundo do Mar
+
+Intro: F#m
+
+    F#m      Bm       A      C#7     F#m     Bm      A      C#7
+E|----------------------------------------------------------------|
+B|-----------3-------2-------0------------------------------------|
+G|---2-----4---4---2---2---1---1-----2----------------------------|
+D|-4---4---------------------------4---4-----0---------------3----|
+A|-----------------------------------------2---2-----4-----4---4--|
+E|-------------------------------------------------5---5----------|
+
+F#m  Bm       A          C#7
+  Ai mais uma pane no painel
+F#m          Bm           A
+Quem mandou abrir as escotilhas
+   C#7
+No fundo do mar
+
+( F#m Bm A C#7 )
+
+F#m  Bm              A       C#7
+Só reclama quem não sabe esperar
+
+   F#m          Bm          A
+Fica a mercê de toda a opressão
+       C#7       F#m
+Que te impede de ser
+Bm      A    C#7
+Teu oxigênio
+
+
+     F#m        Bm        A        C#7
+E|------5---------0------------------------------------|
+B|--7-7---7---3-3---3-------0--------------------------|
+G|----------------------2-2---2--1h2p1-----------------|
+D|-------------------------------------3h4-------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+D7M
+Afundo com a tripulação
+Bm7(9)
+Sem fazer nada, sem fazer nada
+D7M
+Água nos meus pés, o sonar no dez
+Bm7(9)
+Sem ouvir nada, sem ouvir nada
+
+( F#m  Bm  A  C#7 )
+
+F#m        Bm        A        C#7       F#m  Bm  A  C#7
+Atiro os torpedos no que se mover no radar
+F#m    Bm           A         C#7
+Sempre finjo que o alarme não tocou
+        F#m        Bm      A         C#7
+Só pra ninguém ver que eu já me afoguei
+F#m  Bm      A    C#7
+  Há muito tempo
+
+
+D7M
+Afundo com a tripulação
+Bm7(9)
+Sem fazer nada, sem fazer nada
+D7M
+Água nos meus pés, o sonar no dez
+Bm7(9)
+Sem ouvir nada, sem ouvir nada
+
+F#m        F#m/F
+Afundo com a tripulação
+F#m/E          D#m7/5-
+Sem fazer nada, sem fazer nada
+D7M             F#m             E
+Sem fazer nada, sem fazer nada
+
+( F#m  Bm  A  C#7 )
+
+F#m      Bm           A         C#7
+Somos um eco do que imaginamos ser
+F#m      Bm           A         C#7
+Somos um eco do que imaginamos ser
+
+D7M
+Afundo com a tripulação
+Bm7(9)
+Sem fazer nada, sem fazer nada
+D7M
+Água nos meus pés, o sonar no dez
+Bm7(9)
+Sem ouvir nada, sem ouvir nada
+F#m        F#m/F
+Afundo com a tripulação
+F#m/E          D#m7/5-
+Sem fazer nada, sem fazer nada
+D7M             F#m             E
+Somos um eco do que...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+Bm7(9) = X 2 0 2 2 X
+C#7 = X 4 3 4 2 X
+D#m7/5- = X X 1 2 2 2
+D7M = X X 0 2 2 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+F#m/E = X X 2 2 2 2
+F#m/F = X X 3 2 2 2

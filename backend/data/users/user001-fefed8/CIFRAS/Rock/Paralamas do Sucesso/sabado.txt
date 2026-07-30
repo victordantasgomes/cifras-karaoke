@@ -1,0 +1,74 @@
+@titulo: sabado
+@autor:
+@intérprete: Paralamas do Sucesso
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Os Paralamas do Sucesso - Sábado
+
+INTRODUÇÃO: Bm
+
+ D         D5+            G
+ Gotas de amor sobre as feridas
+         C       G
+ Como um bálsamo
+ D         D5+          G
+ Ondas de amor pelas cortinas
+          C        G
+ Como um sábado de sol
+ Bm       Bm/A     E
+ Eu só queria te dizer
+      Gm    C         D
+ Que aquela dor já passou
+ Gm C  D
+ Ô, ô, ô
+
+ D          D5+             G
+ Fingir que não, passar por cima
+       C     G
+ Nunca me ajudou
+
+ D        D5+         G
+ Onda de amor me contamina
+          C        G
+ Como um sábado de sol
+ Bm       Bm/A     E
+ Eu só queria te dizer
+      Gm    C         D
+ Que aquela dor já passou
+ Gm C  D
+ Ô, ô, ô
+
+SOLO
+
+ D          D5+             G
+ Fingir que não, passar por cima
+       C     G
+ Nunca me ajudou
+ D        D5+         G
+ Onda de amor me contamina
+          C        G
+ Como um sábado de sol
+ Bm       Bm/A     E
+ Eu só queria te dizer
+      Gm    C         D
+ Que aquela dor já passou
+ Gm C  D
+ Ô, ô, ô
+
+OBS.: Retirada modulação para o E
+
+----------------- Acordes -----------------
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D5+ = X 5 4 3 3 X
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

@@ -1,0 +1,154 @@
+@titulo: como-uma-onda
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - Como Uma Onda
+
+Intro:
+
+Ab  G Gb  E (4x)
+Gb G
+
+Primeira Parte:
+
+ Ab
+Nada do que foi será
+            Cm7                 Ab
+De novo do jeito que já foi um dia
+      Ab/C
+Tudo passa
+      Bº        Bbm7  F7(9)
+Tudo sempre passará
+   Bbm7       F7(9)
+A vida vem em ondas
+         Bbm7     F7(b13)/A
+Como um       mar
+Bb7(13)       Bb7(b13)  Eb7(4/9)/F
+  Num indo e vindo infinito
+
+
+E7(4/9)  Gb7(4/9)
+
+Segunda Parte:
+
+ Ab
+Tudo que se vê não é
+                Cm7
+Igual ao que a gente
+             Ab
+Viu há um segundo
+      Ab/C         Bº
+Tudo muda o tempo todo
+    Bbm/Db  F13  F(b13)
+No mun_____do
+
+
+Refrão:
+
+E/D
+  Não adianta fugir
+     Ab7M/Eb
+Nem mentir
+        Gb7  F7  Bbm7  Cm7  C#m7
+Pra si mes__mo agora
+                  Cm7
+Há tanta vida lá fora
+      Gb7   F7  Bbm7
+Aqui den__tro  sempre
+E          Gb       Ab
+  Como uma onda no mar
+E          Gb       Ab
+  Como uma onda no mar
+E          Gb       Ab
+  Como uma onda no mar
+E          Gb
+  Como uma onda no
+
+
+Repete a Primeira Parte:
+
+ Ab
+Nada do que foi será
+            Cm7                 Ab
+De novo do jeito que já foi um dia
+      Ab/C
+Tudo passa
+      Bº        Bbm7  F7(9)
+Tudo sempre passará
+   Bbm7       F7(9)
+A vida vem em ondas
+         Bbm7     F7(b13)/A
+Como um       mar
+Bb7(13)       Bb7(b13)  Eb7(4/9)/F
+  Num indo e vindo infinito
+
+E7(4/9)  Gb7(4/9)
+
+Segunda Parte:
+
+ Ab
+Tudo que se vê não é
+                Cm7
+Igual ao que a gente
+             Ab
+Viu há um segundo
+      Ab/C         Bº
+Tudo muda o tempo todo
+    Bbm/Db  F13  F(b13)
+No mun_____do
+
+
+Repete o Refrão:
+
+E/D
+  Não adianta fugir
+     Ab7M/Eb
+Nem mentir
+        Gb7  F7  Bbm7  Cm7  C#m7
+Pra si mes__mo agora
+                  Cm7
+Há tanta vida lá fora
+      Gb7   F7  Bbm7
+Aqui den__tro  sempre
+E          Gb       Ab
+  Como uma onda no mar
+E          Gb       Ab
+  Como uma onda no mar
+E          Gb       Ab
+  Como uma onda no mar
+E          Gb       Ab
+  Como uma onda no mar
+
+----------------- Acordes -----------------
+Ab = 4 6 6 5 4 4
+Ab/C = X 3 6 5 4 X
+Ab7M/Eb = X 6 5 5 4 X
+Bb7(13) = 6 X 6 7 8 6
+Bb7(b13) = 6 X 6 7 7 6
+Bbm/Db = X 4 3 3 2 X
+Bbm7 = X 1 3 1 2 1
+Bº = X 2 3 1 3 1
+C#m7 = X 4 6 4 5 4
+Cm7 = X 3 5 3 4 3
+Db/F = X 8 P6 6 6 X
+Db6 = X 4 3 3 2 X
+E = 0 2 2 1 0 0
+E/D = X X 0 4 5 4
+E7(4/9) = X 7 7 7 7 7
+Eb7(4/9)/F = X 8 6 6 6 6
+F(b13) = X X 3 2 2 1
+F13 = X X 3 2 3 1
+F7 = 1 3 1 2 1 1
+F7(9) = X X 3 2 4 3
+F7(b13)/A = X 0 7 6 4 X
+G = 3 5 5 4 3 3
+Gb = 2 4 4 3 2 2
+Gb7 = 2 4 2 3 2 2
+Gb7(4/9) = X 9 9 9 9 9

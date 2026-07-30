@@ -1,0 +1,45 @@
+@titulo: sua-prova
+@autor:
+@intérprete: Anjos de Resgate
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Anjos de Resgate - Sua Prova
+
+Intro: E  A  F#m  A  E  B  E
+
+E                    A
+Uma luz invade minha alma e faz sonhar
+    E                    A         B
+Na força e me devolve a calma pra prosseguir
+
+E                                          A
+Essa fonte de água pura eu sei de onde vem
+                                    F#m
+Essa brisa tão suave que me faz tão bem
+          A               E    B        E
+Me renova é uma prova do seu amor, por mim
+
+E                    A
+Uma luz invade minha alma e faz sonhar
+    E                    A         B
+Na força e me devolve a calma pra prosseguir
+
+E                                          A
+Essa fonte de água pura eu sei de onde vem
+
+                                    F#m
+Essa brisa tão suave que me faz tão bem
+          A               E    B        E
+Me renova é uma prova do seu amor, por mim (2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

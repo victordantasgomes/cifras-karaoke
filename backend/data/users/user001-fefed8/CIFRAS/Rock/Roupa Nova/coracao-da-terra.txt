@@ -1,0 +1,121 @@
+@titulo: coracao-da-terra
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Coração da Terra
+
+intro:D5 C5
+F#m7   G               D
+Ouço a terra me avisar
+           F#m7                   G                 D
+E |- - - - - - - - - - - - - -| - - - - - - - - -| - - - - - - - - - - - - - - - - - -|
+B |- - - - - - - - - - - - - - |- - - - - - - - -| - - - - - - - - - - - - - - - - - - |
+G |- - - - - - - - - - - - - - |- - - - - -0 - -| - - - - - - - - - - - - - - - - - -|=riff1-faça isso durante "ouço a terra me avisar"
+D |- - - - - - 2h4p2- - - -| - - - - - - -0 |- - - - -7 7 7h9p7 - - - - - - |
+A |-- - - -4 - - - - - - -4 -| - - -2 - - - - -| - 5- - - - - - - - - -9 - - - - |
+E |-- -2 - - - - - - - - - - -| -3 - - - - - - -| - - - - - - - - - - - - - - - - |
+          F#m7       Bm7
+Que o sonho acabou
+            F#m7                Bm7
+E |- - - - - - - - - - -| - - - - - - - -9p7 - - - - - - - - - - - |
+B |- - - - - - - - - - -|- - - - - - - - - - - - - - - - - - - |
+G |- - - - - -2 - - - - | - - - - - - - - - - - - - - - - - - -| =riff 2
+D |- - - - - - - - 2- - |- - - - - - - - - - - - - - - - - - - |
+A |- - -4 - - - - - - - | - - - -9 - - - - - - - - - - - - - -|
+E |-2 - - - - - - - - - |- -7 - - - - - - - - - - - - - - - - -|
+     Em                A
+E agora nem respira mais
+
+
+E |- - - - - - - - - - - - - -|
+B |- - - - - - - - - - - - - - |
+G |- - - - - - - - - - - - - - |=riff 3- já imenda com o riff 1durante "que o veneno q se fez"
+D |-2 - - - - - - - - - - - - |
+A |- - -4 -2 - - - - - - - - |
+E |- - - - - - -5 4- -2 - - |
+F#m7     G               D
+Que o veneno que se fez
+F#m7     Bm7
+Secou a flor
+        Em                    A
+Mas ainda guardo um ar
+
+E |- - - - - - - - - - - - - -|
+B |-2 - -3 - - - -5 - - - -|
+G |- - - - - - - - - - - - - |
+D |-2 - -4 - - - -5 - - - -|=riff 4-faça no lugar do A
+A |- -0 - - -0 - - - - - - -|
+E |- - - - - - - - - - - - - |
+          G   D
+De amor
+
+                           A           Bm
+Só quem se entregou com tanta fé
+                   G               A         D  D4  D  D4  D
+Plantando o grão da vida nesse chão
+                  A  A/Bb  Bm
+Vai sobreviver      depois da dor
+                  G             A                 D5  C5
+Pra ter seu corpo, sua alma e coração
+
+F#m7   G               D
+Sinto a Terra sufocar =riff 1
+     F#m7    Bm7
+De tanto calor  =riff 2
+    Em               A
+A água pura se acabar =riff 3
+F#m7  G             D
+E na fonte do prazer =riff 1
+F#m7          Bm
+Não mais rolar =riff 2
+         Em                    A
+Te ofereço então meu mar =riff 4
+          G  D
+De amor
+
+Refrão
+
+C9                     G
+Ela é Terra feita só pra mim
+Em                    D
+Me fez homem, me serviu
+C9                              G
+E o seu corpo é meu jardim
+   C      D    C  D
+Meu lugar.
+
+
+Refrão 2x
+
+solo:
+E |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+B |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+G |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - -2 -0 - - - - - - - - - - - - - - - - - - - -
+D |-0 - 3-4 -5 -0 - - - - - - - - - - - -0 - -3 4- 5- 0- - - - - - - - - - - - -3 -0 -5/7- - 7- - - - - - - - - - - - -
+A |- - - - - - - - - -3-2-3 0- - 0- 3- - - - - - - - - - - -3 2-3 - 0- - - - - - - - --3/ 5- -5 - - - - - - - - - - - - - - -
+E |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - -- - - - - - - - - - - - - - - - - -
+
+Refrão  depois termina com o riff 1 e um Bm na segunda casa
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/Bb = X X 8 9 10 9
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C5 = X 3 5 5 X X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D5 = X 5 7 7 X X
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

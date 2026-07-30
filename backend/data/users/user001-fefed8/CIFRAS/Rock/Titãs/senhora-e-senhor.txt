@@ -1,0 +1,72 @@
+@titulo: senhora-e-senhor
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Senhora e Senhor
+
+Intr: (G  G7+)
+
+e|-3-5-2-0----3-5-2-------3-5-2-0-----3-5-2-|
+b|--------3-----------------------3---------|
+g|------------------------------------------|
+
+Obs:não sei direito quantas vezes é tocado
+
+
+(G  G7+)
+  Veja só o que restou
+  Do nosso caso de amor
+C                      C4 C
+  Uma casa com varanda
+                         G    G7+
+E um jardim que não dá flor
+(G  G7+)
+Uma geladeira cheia de comidas sem sabor
+Um programa interminável diante do televisor
+C                     C4   C            ( G  C9  G/B  D )
+  Uma lâmpada queimada no lustre do corredor...
+
+G         C9         G/B      D         G
+  O pensamento distante para evitar a dor
+             C9      G/B       D             C9
+O olhar tão desbotado que já não distingue cor
+                  G/B
+Velhas rugas escondidas
+  C/Bb             Am   (Riff 1)
+Debaixo do cobertor
+Am7            D
+  Saudades, indiferença
+G              A/G
+  Decadência e mau humor
+G            A/G
+  Tratamento respeitável
+       C   D4       G
+De senhora    e senhor
+
+
+Riff 1: (Repete Desde A Introdução Até O Fim Se Feito Em Dois Violões)
+
+D|---------------------------|
+A|--3-5-2-0-----3-5-2--------|
+E|----------3----------------|
+
+----------------- Acordes -----------------
+A/G = 3 X 2 2 2 X
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C/Bb = X 1 2 0 1 X
+C4 = X 3 3 0 1 X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7+ = 3 X 4 4 3 X

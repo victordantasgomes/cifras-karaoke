@@ -1,0 +1,119 @@
+@titulo: disco-rock
+@autor:
+@intérprete: Papas da Língua
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Papas da Língua - Disco Rock
+
+(intro)  A  A11+  A  A11+  E
+
+          F#m               A
+Ela não pensou, não acreditou
+     E
+Foi ciúme sim
+         F#m                 A
+E ele se calou, não quis magoar
+         E
+Seu coração
+       B                  F#m
+A vida seguiu, o tempo passou
+  A            E
+E era tão normal
+          B             F#m
+E ele prometeu, ela perdoou
+     A
+Mas nada foi igual
+
+ E              B
+E ela foi embora
+
+C#m            A
+Ela não vai voltar
+E    B        A         B
+Ele não acreditou no fim
+E     B            A         B
+E o amor foi se apagando assim
+E             B
+Mas ele não chora
+C#m             A
+E diz: o tempo vai curar
+E            A         B
+Ela não acreditou no fim
+E                 A         B    E
+E o amor foi se apagando assim
+
+               F#m             A
+Ela não notou que algo se perdeu
+        E
+No caminho
+           F#m                A
+E ele não ligou, sempre acreditou
+          E
+Que era eterno
+         B                F#m
+A vida seguiu, o tempo passou
+    A          E
+E era tão normal
+           B             F#m
+E ele prometeu, ela perdoou
+      A
+Mas nada foi igual
+
+E                   B
+E ela foi embora
+C#m         A
+Ela não vai voltar
+E    B        A         B
+Ele não acreditou no fim
+E     B              A         B
+E o amor foi se apagando assim
+E               B
+Mas ele não chora
+C#m             A
+E diz: o tempo vai curar
+E    B        A         B
+Ela não acreditou no fim
+E     B             A         B    E
+e o amor foi se apagando assim
+
+( F#m A E ) (2x)
+
+         B                F#m
+A vida seguiu, o tempo passou
+  A           E
+E era tão normal
+         B              F#m
+E ele prometeu, ela perdoou
+      A
+Mas nada foi igual
+
+ E               B
+E ela foi embora
+C#m         A
+Ela não vai voltar
+E    B        A         B
+Ele não acreditou no fim
+E     B            A         B
+e o amor foi se apagando assim
+E               B
+Mas ele não chora
+C#m              A
+E diz: o tempo vai curar
+E     B      A         B
+Ela não acreditou no fim
+E     B             A         B    E
+e o amor foi se apagando assim    (2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A11+ = X 0 7 6 4 X
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

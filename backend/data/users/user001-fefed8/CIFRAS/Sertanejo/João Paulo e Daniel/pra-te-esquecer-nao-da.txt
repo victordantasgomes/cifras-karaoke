@@ -1,0 +1,66 @@
+@titulo: pra-te-esquecer-nao-da
+@autor:
+@intérprete: João Paulo e Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+João Paulo e Daniel - Pra Te Esquecer Não Dá
+
+(intro) C F C F D C F G
+
+C                                    Dm
+Eu te procuro nos momentos mais difíceis
+       G                       C ( F )(G)
+Na incerteza de obter sua atenção
+      Am                         Dm
+Me perco envolto e desespero sem saber
+      F                           G
+Se ainda terei lugar em seu coração
+
+C                                Dm
+Sua maldade me castiga, quase mata
+     G                              C ( F )(G)
+Me rasga o peito e tira o brilho do olhar
+  Am                             Dm
+Provoca êxtase no corpo e põe de cama
+  F                   G           C  E
+Dá impressão que vai parar o coração
+
+A
+Não vai dar pra segurar a barra
+
+                     Bm
+Perdão amor, mas não dá
+                          E
+Vou te procurar mesmo sofrendo
+D                           A  E
+Vou te procurar mesmo morrendo
+A
+Não vai dar pra segurar a barra
+      A7                     D
+Se a força desse amor é bem maior
+                              A
+Mais uma vez te peço perdão, amor
+D                      E         A
+Não vai dar pra te esquecer, não dá
+E           D
+Não dá, não dá
+E                    A
+Pra te esquecer não dá...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

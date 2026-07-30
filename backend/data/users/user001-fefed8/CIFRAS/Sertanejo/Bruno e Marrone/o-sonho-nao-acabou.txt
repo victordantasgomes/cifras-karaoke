@@ -1,0 +1,143 @@
+@titulo: o-sonho-nao-acabou
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - O Sonho Não Acabou
+
+Intro:
+      D        A4     Bm7       G
+E|---------------------------------|
+B|-3/10~---5/7-5~--3/10~-5b7r5-3~--|
+G|-------2-------------------------|
+D|---------------------------------|
+A|---------------------------------|
+E|---------------------------------|
+
+Primeira Parte:
+D                 A4
+  O sonho não acabou
+Bm7        G
+  Vale a pena acreditar
+D                A
+  Deus criou o amor
+Bm7         G                 D
+  E fez um dia eu te encontrar
+
+Solo: D  A4  Bm7  G
+E|--------------------------------5-5-5-5-5-5-5-5--|
+B|-3/10~---5/7-5~--3/10~-5b7r5-3~-3-3-3-3-3-3-3-3--|
+G|-------2-----------------------------------------|
+D|-------------------------------------------------|
+A|-------------------------------------------------|
+E|-------------------------------------------------|
+
+
+
+Primeira Parte:
+D                 A4
+  Queria tanto sentir
+Bm7       G          D
+  o seu abraço e dormir
+                    A
+  mas o que eu vou fazer
+Bm7        G
+  Se você não esta aqui
+
+Pré-Refrão:
+A4         G            Bm7
+  A noite vem, saudade faz
+           A4
+  meu coração perder a paz
+A           G           Bm7
+  Quero te ver, te escutar
+             A4 A
+  Te quero amar
+
+Refrão:
+           D       A4
+  Mas não vê meu amor
+        Bm7        G
+  E nem sabe quem sou
+           D                 A4/C#
+  Como a noite que esconde o dia
+         Bm7
+  Vou tentando te buscar
+        G                      D
+  Escondida atras de seu olhar
+
+Solo: D  A4  Bm7  G
+E|--------------------------------5-5-5-5-5--|
+B|-3/10~---5/7-5~--3/10~-5b7r5-3~-3-3-3-3-3--|
+G|-------2-----------------------------------|
+D|-------------------------------------------|
+A|-------------------------------------------|
+E|-------------------------------------------|
+
+
+Pré-Refrão:
+A4         G            Bm7
+  A noite vem, saudade faz
+           A4
+  meu coração perder a paz
+A           G           Bm7
+  Quero te ver, te escutar
+             A4 A
+  Te quero amar
+
+Refrão:
+           D       A4
+  Mas não vê meu amor
+        Bm7        G
+  E nem sabe quem sou
+           D                 A4/C#
+  Como a noite que esconde o dia
+         Bm7             G
+  Vou tentando te buscar
+
+Ponte:
+Bm7
+  E quando amanhecer
+A4
+  eu sei que vou estar
+G
+  te procurando pelas ruas em qualquer lugar
+Bm7
+  E quem olhar vai ver
+A
+  que ainda vive em mim
+G                    A4                A
+  essa vontade de você que não tem fim
+
+Refrão:
+           D       A4
+  Mas não vê meu amor
+        Bm7        G
+  E nem sabe quem sou
+           D                 A4/C#
+  Como a noite que esconde o dia
+         Bm7
+  Vou tentando te buscar
+        G                      D
+  Escondida atras de seu olhar
+E|-----------------------10-9------------------|
+B|-3/10~---5/7-5~--3/10~------10----10-10/12~--|
+G|-------2-----------------------11------------|
+D|---------------------------------------------|
+A|---------------------------------------------|
+E|---------------------------------------------|
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A4/C# = X 4 2 2 3 0
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3

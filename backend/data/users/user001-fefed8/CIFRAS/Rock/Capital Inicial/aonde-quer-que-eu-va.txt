@@ -1,0 +1,93 @@
+@titulo: aonde-quer-que-eu-va
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Aonde Quer Que Eu Vá
+
+Am7             C
+    Olhos fechados
+Am7               C
+    Pra te encontrar
+Am7                     C
+    Não estou ao seu lado
+Am7               C
+    Mas posso sonhar
+
+ F                       Dm        C  G/B  Am
+    E aonde quer que eu vá levo você no olhar
+ F7M                   Dm7                C  G/B  Am
+    Aonde quer que eu vá, aonde quer que vá
+
+Am7              C
+    Não sei bem certo
+Am7             C
+    Se é só ilusão
+Am7                  C
+    Se é você já perto
+Am7            C
+    Se é intuição
+
+
+  F                      Dm        C  G/B  Am
+    E aonde quer que eu vá levo você no olhar
+  F                    Dm                 C  G/B  Am
+    Aonde quer que eu vá, aonde quer que vá
+
+  D           Bm             F#m
+    Longe daqui, longe de tudo
+      G                D
+Meus sonhos vão te buscar
+           Bm               F#m
+Volta pra mim, vem pro meu mundo
+    G                 D
+Eu sempre vou te esperar
+
+     Bm      F#m   G  F  E
+Larara, lararara
+
+Am7                 C
+    Não sei bem certo
+Am7             C
+    Se é só ilusão
+Am7                  C
+    Se é você já perto
+Am7            C
+    Se é intuição
+
+F                      Dm        C  G/B  Am7
+  E aonde quer que eu vá levo você no olhar
+F                    Dm                 C   G/B  Am
+  Aonde quer que eu vá, aonde quer que vá
+
+ F       Dm      C   G/B  Am7
+La, larara, larara
+ F       Dm      C   G/B               Am7
+La, larara, larara, aonde quer que eu vá
+ F       Dm      C   G/B  Am7
+La, larara, larara
+ F       Dm      C   G/B   Am7
+La, larara, larara,     lara
+ F      Dm      C    G/B               Am7
+La, larara, larara, aonde quer que eu vá
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F7M = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

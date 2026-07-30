@@ -1,0 +1,130 @@
+@titulo: atordoado
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Atordoado
+
+I n t r o d u ç ã o
+  (guitarra 2 faz isso na intro)
+e||-----------------------------------------------------------------||
+B||-----------------------------------------------------------------||
+G||-7-7-7-7-7-7-7----10-10-10-10-10-10---8--8--8--8--8--8-----------||
+D||-x-x-x-x-x-x-x----x--x--x--x--x--x----x--x--x--x--x--x-----------|| (3x)
+A||-5-5-5-5-5-5-5----8--8--8--8--8--8----6--6--6--6--6--6-----------||
+E||-----------------------------------------------------------------||
+
+(Na quarta vez faz isso)
+
+e||----------||
+B||----------||
+G||-7-5-8-7-3||
+D||-x-x-x-x-x|| 
+A||-5-3-6-5-1||
+E||----------||
+
+
+ (Guitara 1 faz isso)
+        G            Bb          Eb
+e||-------------------------------------||
+B||-------------------------------------||
+G||--------------------------8-8-8-8-8--||
+D||--5-5-5-5-5-5-5---8-8-8---8-8-8-8-8--||
+A||--5-5-5-5-5-5-5---8-8-8---6-6-6-6-6--||
+E||--3-3-3-3-3-3-3---6-6-6--------------||
+
+
+        |---- REPETE 4 VEZES----|
+
+
+
+G                     Bb                Eb       G
+ Foram-se os dias, manhãs tardes e noites a esperar
+        Bb        Eb           G
+ toda uma vida, esperança de uma chance pra mostrar
+               Bb          Eb          G             Bb    Eb
+ desiludida, a ponto de tentar tudo apagar de uma só vez
+G       Bb      Eb         G
+ buscando ainda, dignidade e respeito
+                 Bb      Eb           G
+ uma saida, para um momento de desespero
+                          Bb     Eb       G       Bb   Eb
+ com as mãos vazias, e a mente atormentada a ponto de tudo arriscar
+
+
+C D Eb       Bb
+          e agora o que sobrou?
+C D Eb        Bb        C D Eb
+          tristeza é o que ficou?
+       Bb        F        Eb
+    achar uma maneira de sair daqui
+
+
+  (Guitarra 2 faz com isso no refrao)
+
+e||---------------------------------------------------------------------||
+B||---------------------------------------------------------------------||
+G||-7-7-7-7-7-7---8-8-8-8-8-8---7-7-7-7-7-7---8-8-8-8-8-8---3-3-3-3-3-3-||
+D||-x-x-x-x-x-x---x-x-x-x-x-x---x-x-x-x-x-x---x-x-x-x-x-x---x-x-x-x-x-x-||
+A||-5-5-5-5-5-5---6-6-6-6-6-6---5-5-5-5-5-5---6-6-6-6-6-6---1-1-1-1-1-1-||
+E||---------------------------------------------------------------------||
+
+Continuação
+
+e||---------------------------------------||
+B||---------------------------------------||
+G||-5-5-5-5-5-5---8-8-8-8-8-8---7-8-7-8-7-||
+D||-x-x-x-x-x-x---x-x-x-x-x-x---x-x-x-x-x-|| (2x)
+A||-3-3-3-3-3-3---6-6-6-6-6-6---5-6-5-6-5-||
+E||---------------------------------------||
+
+
+         Bb     C           G
+       :  atordoado ele se foi
+       :           Eb           Bb
+       :  dizendo que nao agüentou
+       :                    C                G         Eb
+Refrão :  cobranças de um mundo o qual não entendeu jamais
+       : Bb     C           G
+       :  Atordoado ele se foi
+       :          Eb               Bb           C              G         Eb
+       :  parece que não mais voltou desistiu de tentar mais uma vez aqui
+
+
+C                Bb Eb Bb~    Bb Eb Bb
+nada pode lhe parar
+C                     Bb Eb Bb~    Bb Eb Bb
+voltar a ver o sol nascer
+C                   Bb Eb Bb~    Bb Eb Bb
+tudo que possa alcançar
+C                      Eb~~~
+será que é tarde pra viver?
+
+
+         Bb     C           G
+       :  atordoado ele se foi
+       :           Eb           Bb
+       :  dizendo que nao agüentou
+       :                    C               G          Eb
+Refrão :  cobranças de um mundo o qual não entendeu jamais
+       : Bb     C           G
+       :  Atordoado ele se foi
+       :          Eb              Bb           C              G         Eb
+       :  parece que não mais voltou desistiu de tentar mais uma vez aqui
+
+
+        termina com      Bb, Eb, Bb
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Eb = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

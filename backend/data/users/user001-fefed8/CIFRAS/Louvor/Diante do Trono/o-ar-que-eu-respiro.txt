@@ -1,0 +1,66 @@
+@titulo: o-ar-que-eu-respiro
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - O Ar Que Eu Respiro
+
+Intro: A  D  A  D
+
+   A            D
+O ar que eu respiro
+  A             D
+O ar que eu respiro
+  A    A/G#     F#m7  F#m7(#5)  E6
+É a  Tua  Presença
+ D7M        Esus    E
+Viva em mim
+
+bass/pad in
+   A              D/A
+Meu pão de cada dia
+   A              D/A
+Meu pão de cada dia
+  A    E/G#     F#m7  F#m7(#5)  E6
+É a Tua      Palavra
+ D7M        Esus    E
+Dentro de mim
+
+
+band in acentos
+   A   E/A       F#m7  F#m7(#5)  E6                       D7M   F#m7     Esus    E
+Estou                                               desesperado por Ti
+   A   E/G#      F#m7  F#m7(#5)  E6                       D7M   F#m7     Esus    E
+Estou                                                 perdido       sem Ti
+
+   A   E/A       F#m7  F#m7(#5)  E6                       D7M   F#m7     Esus    E
+Estou                                               desesperado por Ti
+   A   E/G#      F#m7  F#m7(#5)  E6                       D7M   F#m7     Esus    C#m7
+Estou                                                 perdido       sem Ti
+                         D7M   F#m7     Esus    C#m7
+perdido       sem Ti
+                        D7M   F#m7     Esus       E
+perdido       sem Ti
+
+( A  D  A  D )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/G# = 4 X 2 2 2 X
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D7M = X X 0 2 2 2
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E6 = X X 2 4 2 4
+Esus = 0 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X
+F#m7(#5) = X X 4 7 5 5

@@ -1,0 +1,85 @@
+@titulo: prefacio
+@autor:
+@intérprete: Scalene
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Scalene - Prefácio
+
+Intro: ( G Am F C ) - 2x
+
+ Am         F7M        C
+Com o tempo ao meu lado
+ Am                      F7M    C
+Posso como nunca antes respirar
+ Am        F7M        C
+Admito, estou cansado
+ Am                            F7M   C
+Dessa cidade só o melhor irei levar
+
+ F     C      Dm
+E essa escolha de vez
+               C
+De mim a paz tirou
+G          Am        F   C
+Os outros não vão saber
+G          Am        F   C
+O quanto me fez crescer
+F       G            Am
+Não viver com os pés no chão
+
+
+ Am            F7M      C
+São os ossos do oficio
+ Am                           F7M    C
+Ouvi de tudo que podia me frustrar
+ Am             F7M           C
+Pra vitória há um sacrificio
+ Am                              F7M    C
+Que uma hora todos temos que aceitar
+
+  F       C
+Eu faço o prefácio
+ Dm               C
+Dando adeus ao que passou
+
+G       Am        F   C
+Os outros não vão saber
+G       Am        F   C
+O quanto me fez crescer
+F       G               Am
+Não viver com os pés no chão
+F          G               Am
+Na minha pele sentir a incerteza ou não.
+
+Base:(Am  F7M) (2x)
+
+Solo:
+E|--------------------------------------------|
+A|--------------------------------------------|
+D|--------------------------------------------|
+G|-15~-15b17/12~-12b14/10~-10b12/8p7-8b-------|
+B|--------------------------------------------|
+E|--------------------------------------------|
+
+ C   G          Am        F   C
+    Os outros não vão saber
+  G          Am        F   C
+O quanto me fez crescer
+ F       G
+Não viver com os pés no,
+ F       G             Am
+Não viver com os pés no chão
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F7M = 1 X 2 2 1 X
+G = 3 2 0 0 0 3

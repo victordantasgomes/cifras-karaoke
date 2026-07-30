@@ -1,0 +1,61 @@
+@titulo: deus-esta-presente
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Deus Está Presente
+
+         D    E/D         G/D     A#° Bm
+Deus está presente, Deus está presente,
+Bm/A   G7M   D/F#   Bm  Bm/A G#m7(b5) A7/4 A7
+Entre pecadores   como  nós.
+         D    E/D         G/D     A#° Bm
+Deus está presente, Deus está presente,
+Bm/A  G7M    F#m7    Bm7   Bb7(b5)  D/A A7 D D4
+Deus está presente,  pronto a perdoar.
+
+ D    A Bm7  A7     D  A7 D
+Deus irá ouvir nossa oração,
+    C#7/G#     F#m    F°    F#m      A7
+Nosso f a r d o v a i sobre si levar.
+       D  F#7(#5)   G   G#°
+Pois Deus está presente,
+        D       Em/D       D7M        Em/D
+Pronto pra salvar,  pronto pra ajudar;
+  G#m7(b5)      Gº  A#°  D6
+Deus está p r e s e n t e .
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#° = X 1 2 0 2 0
+A7 = X 0 2 0 2 0
+A7/4 = X 0 2 0 3 0
+Bb7(b5) = X 1 2 1 3 X
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+Bm7 = X 2 4 2 3 2
+C#7/G# = 4 X 3 4 2 X
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+D6 = X 5 4 2 0 X
+D7M = X X 0 2 2 2
+E/D = X 5 X 4 5 4
+Em/D = X X 0 4 5 3
+F#7(#5) = 2 X 2 3 3 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F° = X X 3 4 3 4
+G = 3 2 0 0 0 3
+G#m7(b5) = 4 X 4 4 3 X
+G#° = 4 X 3 4 3 X
+G/D = X 5 5 4 3 X
+G7M = 3 X 4 4 3 X
+Gº = 3 X 2 3 2 X

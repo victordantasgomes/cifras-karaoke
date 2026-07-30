@@ -1,0 +1,41 @@
+@titulo: reina-em-mim
+@autor:
+@intérprete: Harpa Cristã
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Harpa Cristã - Reina Em Mim
+
+INTRO: A E D E A E D E A
+
+A     E    D           E     A
+Sobre toda a Terra tú és o Rei
+       E     D          E      A
+sobre as montanhas e o pôr-do-sol
+     C#m  D         E   F#m
+uma coisa só meu desejo é:
+       D       E       A
+Vem reinar em mim, Senhor!
+
+Refrão:
+
+A   E     D         E    A
+Reina em mim com o Teu poder
+         E     D               E     A
+sobre a escuridão, sobre os sonhos meus
+      C#m    D       E         F#m
+Tú és o Senhor de tudo o que sou
+        D      E       A
+Vem reinar em mim, Senhor!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

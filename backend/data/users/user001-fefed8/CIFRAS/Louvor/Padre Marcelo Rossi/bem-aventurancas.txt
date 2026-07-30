@@ -1,0 +1,78 @@
+@titulo: bem-aventurancas
+@autor:
+@intérprete: Padre Marcelo Rossi
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Padre Marcelo Rossi - Bem Aventuranças
+
+ Fm                                  Bbm
+ Bem-aventurados os pobres de espírito
+ D#/G                       G#
+Porque deles é o reino dos céus
+    C#                Bbm          Bm7(b5)          C
+Bem-aventurados os que choram Porque serão consolados
+Fm                   Bbm
+Bem-aventurados os mansos
+     D#/G               G#                          C#
+Porque eles herdarão a terra Bem-aventurados os que têm
+                 Bbm       Bm7(b5)      C
+Fome e sede de justiça pois serão saciados
+
+[Refrão]
+
+  F                               Dm7
+Exultai e alegrai-vos Porque será grande
+           Bb
+A vossa recompensa nos céus
+         Gm7                   C7
+Porque assim perseguiram os profetas
+
+                       F
+Que existiram antes de vós
+
+Dm                           Gm7
+Bem-aventurados os misericordiosos
+  C                    F
+Pois obterão misericórdia
+    Bb                        Gm7
+Bem-aventurados os puros de coração
+  Dm7(b5)     A
+Pois verão a deus
+Dm                         Gm7
+Bem-aventurados os pacificadores
+      C                         F
+Pois serão chamados filhos de deus
+  Bb                            Dm7(b5)
+Bem-aventurados os que são perseguidos
+               Gm7                           A
+Por razão de justiça Pois deles é o reino dos céus
+
+[Refrão]
+
+Fm                Bbm       D#/G         G#
+Bem-aventurados sois vós Quando vos injurieis
+    C#                   Bbm       Bm7(b5)        C
+E persigo e falsamente por minha causaVos calunieis
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb = X 1 3 3 3 1
+Bbm = X 1 3 3 2 1
+Bm7(b5) = X 2 3 2 3 X
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C7 = X 3 2 3 1 X
+D#/G = 3 X 1 3 4 X
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Dm7(b5) = X X 0 1 1 1
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G# = 4 3 1 1 1 4
+Gm7 = 3 X 3 3 3 X

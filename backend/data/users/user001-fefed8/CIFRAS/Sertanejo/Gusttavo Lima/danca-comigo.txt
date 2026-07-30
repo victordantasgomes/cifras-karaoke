@@ -1,0 +1,147 @@
+@titulo: danca-comigo
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Dança Comigo
+
+[Intro]  G D Em C
+
+        G
+Tudo bem
+        D                 Em
+Que surpresa te encontrar aqui
+       Bm                 C
+Tô na mesa seis, é logo ali
+        G          Am                 D
+E tô sozinho se quiser pode me acompanhar
+          G
+To reparando
+        D               Em
+Seu cabelo tá bem diferente
+        Bm                 C
+Que saudade do tempo da gente
+         G        Am                D
+Me desculpe é demais pra mim não falar
+
+                     C             D
+Mas me conta como está sua vida agora
+
+            Em                           Bm
+Me conta o que passou depois que foi embora
+          C
+Vai ser tipo um bate bola
+      D                   G             D
+Fala tudo que depois eu abro o coração
+                     C                   D
+Mas já vou falando logo que ainda te quero
+                  Em                   Bm
+Se for questão de tempo, olha, eu te espero
+      C
+Fala sério, esse encontro
+       D                  C        G D
+Foi armado pelos anjos da paixão
+
+      G
+Olha só a gente aqui
+      D
+Foi todo mundo embora
+         Em
+E só restou a gente aqui
+     Bm                         C
+Porque você me olha e não diz nada do que quer?
+      G                    Am                    D
+Ainda é minha mulher, tem toda liberdade pra falar
+      G
+Olha só a gente aqui
+    D                  Em
+Escuta nossa música tocando e a gente aqui
+ Bm                      C
+Amor, dança comigo como da primeira vez
+         G                  Am
+Há dois anos e um mês foi exatamente aqui
+             D           G
+Que eu aprendi a te amar
+
+[Solo]  C D Em Bm C D
+
+                     C             D
+Mas me conta como está sua vida agora
+             Em                           Bm
+Me conta o que passou depois que foi embora
+          C
+Vai ser tipo um bate bola
+      D                   G             G D
+Fala tudo que depois eu abro o coração
+                     C                   D
+Mas já vou falando logo que ainda te quero
+                  Em                   Bm
+Se for questão de tempo, olha, eu te espero
+      C
+Fala sério, esse encontro
+       D                  C        G D
+Foi armado pelos anjos da paixão
+
+      G
+Olha só a gente aqui
+      D
+Foi todo mundo embora
+      Em
+E só restou a gente aqui
+     Bm                       C
+Porque você me olha e não diz nada do que quer?
+      G                    Am                   D
+Ainda é minha mulher, tem toda liberdade pra falar
+      G
+Olha só a gente aqui
+    D                  Em
+Escuta nossa música tocando e a gente aqui
+ Bm                      C
+Amor, dança comigo como da primeira vez
+         G                  Am
+Há dois anos e um mês foi exatamente aqui
+             D
+Que eu aprendi
+
+      G#
+Olha só a gente aqui
+     D#
+Foi todo mundo embora
+      Fm
+E só restou a gente aqui
+     Cm                       C#
+Porque você me olha e não diz nada do que quer?
+      G#                  A#m                   D#
+Ainda é minha mulher, tem toda liberdade pra falar
+      G#
+Olha só a gente aqui
+    D#                  Fm
+Escuta nossa música tocando e a gente aqui
+ Cm                      C#
+Amor, dança comigo como da primeira vez
+         G#                 A#m
+Há dois anos e um mês foi exatamente aqui
+             D#
+Que eu aprendi a te amar
+   G#
+a te amar
+
+----------------- Acordes -----------------
+A#m = X 1 3 3 2 1
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

@@ -1,0 +1,93 @@
+@titulo: ao-meu-redor
+@autor:
+@intérprete: Nenhum de Nós
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nenhum de Nós - Ao Meu Redor
+
+(intro) A5  C  D  (2x)
+
+A5
+Ao meu redor
+           C      D
+O rumo das coisas me desagrada
+A5
+Se o meu futuro
+         C       D
+Esta guardado em tuas mãos
+A5
+Ao meu redor
+         C      D
+Ciganas já não valem nada
+A5
+Se o meu destino
+        C       D
+Está escrito em tuas mãos
+G     F7+    Em     D
+O rumo das coisas ao meu redor
+G      F7+             Em          D
+Em tuas mãos o rumo das coisas ao meu redor
+
+      D  F7+ Em A
+Pa pa pá a a a (4x)
+
+D  F7+  Em  A
+
+(intro) A5  C  D  (2x)
+
+A5
+Eu trago dentro
+        C             D
+De um livro escrito o meu passado
+A5
+Em letras que se apagam
+C           D
+Sem nenhuma explicação
+A5                C
+Presente é futuro
+  D
+Nas coisas ao redor
+A5
+Eu gravo na memória
+C         D
+Coisas ao meu redor
+
+G    F7+     Em     D
+O rumo das coisas ao meu redor
+G       F7+              Em          D
+Em nossas mãos o rumo das coisas ao meu redor
+      D  F7+ Em A
+Pa pa pá a a a (4x)
+
+D  F7+  Em  A
+
+(Base solo) D  F7+ Em A  (4x)
+
+G   F7+   Em      D
+É tudo magia ou superstição
+G     F7+              Em         D
+Em tuas mãos o rumo das coisas ao teu redor
+G   F7+    Em         D
+É tudo loucura ou alucinação
+G     F7+              Em         D
+Em tuas mãos o rumo das coisas ao teu redor
+
+Pa pa pá a a a (2x vocal apenas)
+      D  F7+ Em A
+Pa pa pá a a a (4x com instrumental)
+Pa pa pá a
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3

@@ -1,0 +1,86 @@
+@titulo: eu-vou
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Eu Vou
+
+[Intro] D9
+
+D                  G
+Alguém da Ásia me disse
+           D       G
+Vem me ajudar
+ D            G
+Posso ouvir a África
+             A4    A
+Pedir por socorro
+  Bm                G
+Ruanda, Somália, Nigéria
+                 Bm           G
+Clamando por um pouco de amor
+ Bm                 G
+Vou fazer tudo que posso fazer
+     Em  E4 Em       G
+Eu vou,       tenho muito pra dar
+     Em  E4 Em      G
+Eu vou,       o evangelho pregar
+
+
+D          G                  A4  A
+ Como ouvirão senão há quem pregue
+ D                  G              C9  Bm  A
+Como pregar se ninguém se dispõe a ir
+ D              G
+Como crerão naqueles
+                A4      A
+De quem nada ouviram
+          Em G       Bm  A
+Eis-me aqui,     eu vou
+           Em G       Bm  A                       Em D/F# G
+Eis -me aqui,     senhor          Eis-me aqui,
+     D               C/D             G/D             Bb/D
+ eu vou, eu vou, eu vou, eu vou, eu vou, eu vou, eu vou
+    D               C/D             G/D             Bb/D
+eu vou, eu vou, eu vou, eu vou, eu vou, eu vou, eu vou
+
+[C9 D  C9 D   C9 D  C9 G]
+[D]
+
+ D               G                   D  G
+Vi um menino na Rússia olhar para o céu
+D                  G              A4  A
+EL Salvador tá chorando por salvação
+   Bm               G
+Romênia, Arábia Saudita, o Iraque
+   Bm           G
+Esperam por nós
+   Bm                  G
+Colômbia, Indonésia Albânia, pra China
+    Em   E4  Em
+Eu vou
+       G                 Em  E4  Em
+Pelo chão do Brasil, eu vou
+          G
+Deus me quer pras nações
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+Bb/D = X 5 X 3 6 6
+Bm = X 2 4 4 3 2
+C/D = X X 0 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+E4 = 0 2 2 2 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/D = X 5 5 4 3 X

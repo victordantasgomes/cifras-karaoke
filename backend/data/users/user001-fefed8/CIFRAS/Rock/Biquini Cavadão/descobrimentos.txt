@@ -1,0 +1,107 @@
+@titulo: descobrimentos
+@autor:
+@intérprete: Biquini Cavadão
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Biquini Cavadão - Descobrimentos
+
+Intro: G C G
+
+          G              C        G
+Vou te descobrir como os navegadores
+           G           C        G
+Vou ter paciência pra te enfrentar
+         F
+Naufragar em braços
+         C
+Me afogar em beijos
+       Cm                     G
+Boca a boca até o fôlego me faltar
+       A
+Pois navegar é preciso
+  C         D         G
+Nessa imprecisão de te amar
+
+          G           C            G
+Vou te descobrir como os astronautas
+          G           C          G
+Esse amor distante pretendo alcançar
+
+         F                   C
+Basta só você dar um pequeno passo
+               Cm                G
+Que o mundo inteiro deixo pra depois
+         A
+Pequeno passo pra ti
+Cm        D5             Em
+Mas um gigante para nós dois
+
+      A
+Pois só eu sei
+        C
+Todo o futuro bom
+        G
+Que nos espera
+          Em         A
+Espere pra ver acontecer
+            C               G
+A nossa história será a mais bela
+      F#7
+Bela demais
+         Am7
+Olho pra trás
+       C
+Sigo em paz
+          Cm            G
+Você não sabe o bem que me faz
+
+             G               C        G
+Vou te descobrir quando estiver contigo
+             G          C         G
+E pra não sentir nunca mais solidão
+            F                 C
+Vou ligar os pontos das pintas da pele
+             Cm                  G
+Criar no seu corpo uma constelação
+        A            C
+E bastará olhar pro céu
+Pra sempre achar a direção
+
+      A
+Pois só eu sei
+        C
+Todo o futuro bom
+        G
+Que nos espera
+          Em         A
+Espere pra ver acontecer
+            C               G
+A nossa história será a mais bela
+      F#7
+Bela demais
+         Am7
+Olho pra trás
+       C
+Sigo em paz
+          Cm
+Você não sabe o bem
+         G
+O bem que me faz
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#7 = 2 4 2 3 2 2
+G = 3 2 0 0 0 3

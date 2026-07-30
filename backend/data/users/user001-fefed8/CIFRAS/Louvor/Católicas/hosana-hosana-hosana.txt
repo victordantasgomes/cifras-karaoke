@@ -1,0 +1,29 @@
+@titulo: hosana-hosana-hosana
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Hosana, Hosana, Hosana
+
+C          D         Em
+Santo, santo, santo (bis)
+C                                D
+Senhor do universo Deus de toda terra
+       C  G     C  G     C  D  G
+Hosana, hosana, hosana(bis)
+       Em   G          C            Em     D       G
+Bendito é o que vem, em nome do Senhor
+       C  G     C  G     C  D  G
+Hosana, hosana, hosana(bis)
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

@@ -1,0 +1,76 @@
+@titulo: doi
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - Dói
+
+[Intro] B  D#m  G#m  D#m  B
+
+   B                           D#m
+A padaria tá fechada, ainda é 4:40
+                                   G#m
+Um café amargo agora ia fazer a diferença
+                     D#m
+Mas não ia deixar de te lembrar
+     B                              D#m
+Faz mais de 24hrs que você não dá sinal
+                                   G#m
+Se eu te ligo cai direto na caixa postal
+                               D#m
+E esse seu desprezo tá pegando mal
+   E                                   B
+E uma hora dessas desencano e te abandono
+                                 C#
+E assim como eu cê vai perder o sono
+                               F#
+E o seu fogo eu não vou mais apagar
+
+
+[Refrão]
+
+ B                                  F#
+Dói, vou te mostrar como o desprezo dói
+                            C#m
+Mas a saudade dói o dobro, dói e vai doer
+           E                            F#
+Quando me ver com outro alguém cê vai saber
+               B
+Como é que dói
+ B                                   F#
+Dói, vou te mostrar como o desprezo dói
+                            C#m
+Mas a saudade dói o dobro, dói e vai doer
+           E                            F#
+Quando me ver com outro alguém cê vai saber
+              B  F# C#m E  F#
+Como é que dói
+
+[Refrão Final]
+
+ B                                   F#
+Dói, vou te mostrar como o desprezo dói
+                            C#m
+Mas a saudade dói o dobro, dói e vai doer
+           E                            F#
+Quando me ver com outro alguém cê vai saber
+              B  E
+Como é que dói
+
+   B
+A padaria tá fechada, ainda é 4:40
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+D#m = X X 1 3 4 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

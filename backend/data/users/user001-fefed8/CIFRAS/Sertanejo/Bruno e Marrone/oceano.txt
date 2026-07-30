@@ -1,0 +1,58 @@
+@titulo: oceano
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Oceano
+
+    D     G                       A7
+Assim      que o dia amanheceu lá no mar alto
+Bm                        Am             D7
+Da paixão dava pra ver o tempo ruir
+G             C               F#m    B7          E7          A7
+     Cadê você? Que solidão!        Esquecera de mim?
+   D     G                                A7
+Enfim,     de tudo o que há na terra não há nada
+       Bm                            Am                      D7
+Em lugar nenhum que vá crescer sem você chegar
+ G               C          F#m   B7                 E7                 A7
+     Longe de ti tudo parou         ninguém sabe o que eu sofri
+   Dm             C7                  F         Em  A7
+Amar é um deserto e seus temores
+   Dm                C7                 F
+Vida que vai na sela dessas dores
+        Gm   Am         Bb      Em     A7
+Não sabe voltar, me dá teu calor   ooo
+  Dm               C7                       F     Em  A7
+Vem me fazer feliz porque eu te amo
+    Dm                    C7              F
+Você deságua em mim, e eu, oceano
+
+         Gm             A7       Bb           Em  A7
+Me esqueço que amar é quase uma dor
+  D     F     G     C    D     F      G    C     D
+Só    sei    vi    ver   se    for    por   vo   cê!
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

@@ -1,0 +1,73 @@
+@titulo: saida
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Saída
+
+(intro) F7M  C/E  F/D  F  Am  G  C/E  Fm7  Am G
+
+F7M    Am   G                 C/E          F7M
+Sei,          você diz que só tentou ser feliz
+ G               E     E/G# Am
+Decidiu viver do jeito que quis
+Am/G               F  Em     Gsus4   G  ( Gsus4 G )
+Se gastou, se perdeu,  se iludiu
+
+F7M    Am   G            C/E      F7M
+Sei, seus recursos já chegaram ao fim
+ G               Em        Am
+E um grito por socorro surgiu
+Am/G          F    C/E  Gsus4   G  ( Gsus4 F/G )
+Você só necessita,   de Deus
+
+C                 G
+Se você se arrepender
+                Dm
+E crer no Salvador
+   F             G
+Jesus, razão da vida
+
+C                  G
+Nunca mais irá sofrer
+              Dm
+E nem se sentirás
+     F          G
+Sozinho nessa vida (bis)
+             F7M    C/E   Dm7
+
+É só deixar Cristo
+             F   Em7   Dm7
+
+ser seu amigo
+                 F7M    C/E    Dm7
+Ele traz de volta
+     F7M Em7 Dm7
+a alegria...
+
+(intro)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F/D = X X 0 5 6 5
+F/G = 3 X 3 2 1 X
+F7M = 1 X 2 2 1 X
+Fm7 = 1 X 1 1 1 X
+G = 3 2 0 0 0 3
+Gsus4 = 3 5 5 5 3 3

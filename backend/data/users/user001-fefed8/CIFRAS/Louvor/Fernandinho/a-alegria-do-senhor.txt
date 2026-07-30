@@ -1,0 +1,157 @@
+@titulo: a-alegria-do-senhor
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - A Alegria do Senhor
+
+Intro: C5  Bb5  G5
+
+Riff 1 - Intro da Guitarra 1
+E|-------------------------------------------------------------|
+B|-------------------------------------------------------------| 
+G|--5-5-5-3--------5-5-5-3--------5-5-5-3----------------------|
+D|--5-5-5-3--------5-5-5-3--------5-5-5-3----------------------|
+A|--------------------------------------------1-0-1-0-1-0-1-0--|
+E|----------3-3-3----------3-3-3----------3---1-0-1-0-1-0-1-0--|
+
+
+Riff 2 - Guitarra 2
+E|-----13~~------|
+B|---------------|
+G|--12-----------|
+D|---------------|
+A|---------------|
+E|---------------|
+
+Riff 3 - Guitarra 2
+E|---------------|
+B|-----15~~------|
+G|--12-----------|
+D|---------------|
+A|---------------|
+E|---------------|
+
+
+Riff 4 - Guitarra 2
+E|-----11~~--|
+B|--13-------|
+G|-----------|
+D|-----------|
+A|-----------|
+E|-----------|
+
+Riff 5 - Guitarra 2
+E|-------------------|
+B|--13--15~~---------|
+G|-------------12~~--|
+D|-------------------|
+A|-------------------|
+E|-------------------|
+
+Riff 6 - Guitarra 2
+E|-----11~~------11-11-11-11-11-11-11-10-10-10-10--|
+B|--13------13---11-11-11-11-11-11-11-10-10-10-10--|
+G|-------------------------------------------------|
+D|-------------------------------------------------|
+A|-------------------------------------------------|
+E|-------------------------------------------------|
+
+Riff 7 - Guitarra 2 (junto com o refrão)
+E|------------------------------|-----------------------|
+B|-13-13-13-11-11-11------------|13-13-13-15-15-15-11~--|
+G|-------------------10-10--(3x)|-----------------------|
+D|------------------------------|-----------------------|
+A|------------------------------|-----------------------|
+E|------------------------------|-----------------------|
+
+Solo - Guitarra 2 (depois do refrão)
+E|--------------------|
+B|--------------------|
+G|-3-0~--5/7-5-3-0~~--|
+D|--------------------|
+A|--------------------|
+E|--------------------|
+
+Riff 8 - Guitarra 3 (com a banda tocado)
+E|-------------------------------------------------------------|
+B|-------------------------------------------------------------|
+G|--5-5-5-3--------5-5-5-3--------5-5-5-3----------------------|
+D|--5-5-5-3--------5-5-5-3--------5-5-5-3----------------------|
+A|--3-3-3-1--------3-3-3-1--------3-3-3-1----------------------|
+E|----------3-3-3----------3-3-3----------3---1-0-1-0-1-0-1-0--|
+
+
+
+( Riff 1 - Guitarra 1) - começa com o riff 1.
+
+( Riff 2 - Guitarra 2) - mas quando o Fernandinho começa a cantar são a Guitarra 1 e 2 com seus riffs.
+
+Vento sopra forte
+                           ( Riff 3 - Guitarra 2)
+Tuas águas não podem me afogar
+
+Vento sopra forte
+                       ( Riff 2 - Guitarra 2)
+E em Suas mãos vou segurar
+
+
+OBS: Com a Banda toda.
+
+Gm  + ( Riff 3 - Guitarra 2)
+Vento sopra forte
+                      ( Riff 2 - Guitarra 2)
+Tuas águas não podem me afogar
+
+Vento sopra forte
+                     ( Riff 4 - Guitarra 2)
+E em Suas mãos vou segurar
+
+Cm7                      ( Riff 5 - Guitarra 2)
+ E Não me guio pelo que vejo
+Gm7                    ( Riif 6 - Guitarra 2)
+Mas eu sigo pelo que creio
+Cm7
+Eu não olho as circunstâncias
+Eb9             D9
+Eu vejo o Teu amor
+
+
+( Riff 7 - Guitarra 2)
+G5             Bb5             Eb5       C5
+A Alegria do Senhor é a nossa força (4x)
+
+   ( Solo na Guitarra 2)
+
+        Bb5                  Eb5
+Essa alegria não vai mais sair
+        C5                G5
+Essa alegria não vai mais sair
+Bb5                         Eb5
+Essa alegria não vai mais sair
+   F5                Bb5
+De dentro do meu coração
+
+G5           Bb5             Eb5  C5 Bb5 (10X)faça o C5 e o Bb5 com um toque para baixo uma vez e Bb5 na primeira casa
+A Alegria do Senhor é a nossa força
+G5             Bb5             Eb5  C5 Bb5 G5
+A Alegria do Senhor é a nossa força
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb5 = X 1 3 3 X X
+C5 = X 3 5 5 X X
+Cm7 = X 3 5 3 4 3
+D9 = X X 0 2 3 0
+Eb5 = X 6 8 8 X X
+Eb9 = X 6 8 8 6 6
+F5 = 1 3 3 X X X
+G5 = 3 5 5 X X X
+Gm = 3 5 5 3 3 3
+Gm7 = 3 X 3 3 3 X

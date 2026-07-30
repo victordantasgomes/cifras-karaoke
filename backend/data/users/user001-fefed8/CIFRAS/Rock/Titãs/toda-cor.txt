@@ -1,0 +1,77 @@
+@titulo: toda-cor
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Toda Cor
+
+Intr.:( G Am7 )
+  Em
+     O telefone tocou
+  Bm
+     Fui atender
+  C                D
+     Na madrugada
+  Em
+     O telefone tocou
+  Bm
+     Fui atender
+      C
+     Na madrugada
+   D
+     Quero estar com você
+G         Em        Am7
+Eu preciso de você agora
+G            Em
+Por favor meu bem não vá
+  Am7
+Embora
+
+  Eb           F            Gm
+O tempo vai passando nos relógios
+  Eb              F           Gm
+Encontro os seus beijos todos horas
+  Eb          F         Gm
+Segundo por segundo na memória
+  Em
+     Toda cor
+   Bm
+Me lembra os seus olhos
+   C               D
+Eu sei que eu vou,  eu quero te
+Encontrar
+G         Em        Am7
+Eu preciso de você agora
+G            Em
+Por favor meu bem não vá
+  Am7
+Embora
+(Eb F Gm ) -> 3x
+
+
+G         Em        Am7
+Eu preciso de você agora
+G            Em
+Por favor meu bem não vá
+  Am7
+Embora
+
+( G Em Am7 )
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Eb = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

@@ -1,0 +1,62 @@
+@titulo: roceiro-feliz
+@autor:
+@intérprete: Trio Parada Dura
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trio Parada Dura - Roceiro Feliz
+
+[Intro]  A  E  D  A  A7  D
+         E  C#m  F#m  Bm  E  A
+
+ A                              E
+Estou vivendo minha vida lá na roça
+                      D
+Moro ao lado de uma grota
+       E           A
+Bem na encosta da serra
+                                  E
+De manhã cedo canta o galo no poleiro
+                  D          E          A    A7
+Eu também saio ligeiro para cultivar a terra
+
+       D         E             C#m
+Minha mulher doce amiga e companheira
+       F#7        Bm
+Com carinho na cozinha
+    E              A  A7
+Prepara o nosso café
+         D            E           C#m
+E lá vou eu com Deus no meu pensamento
+
+       F#7             Bm
+Sempre em busca do sustento
+    E             A   A7
+Com amor e muita fé
+
+        D             C#          F#m
+Eu me orgulho se me chamam de roceiro
+                      B7
+Não tenho luxo e dinheiro
+                  E   A7
+Mas tenho paz e amor
+           D          C#           F#m
+Eu gosto muito dos irmãos lá da cidade
+     D           A            E           A
+Mas minha felicidade está na roça sim senhor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

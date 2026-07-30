@@ -1,0 +1,132 @@
+@titulo: cerveja-sal-e-limao
+@autor:
+@intérprete: Matheus e Kauan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Matheus e Kauan - Cerveja, Sal e Limão
+
+[Intro] D  A  Bm  A  G
+
+[Primeira Parte]
+
+D                   G
+  Cerveja, sal e limão
+     Bm7              A
+E no último volume o som
+D                  G
+  Eu já perdi a noção do tempo
+ Bm7                   A                      G  A
+Hoje eu não fui trabalhar e nem pretendo amanhã
+
+[Refrão]
+
+                      D
+Que até agora eu não descobri
+                           A
+Quantas latas eu vou precisar
+Pra te tirar de mim
+                   Bm7
+E aceitar o nosso triste fim
+
+                            G           A
+Nenhum bar da cidade vende mais pra mim
+
+                      D
+Que até agora eu não descobri
+                           A
+Quantas latas eu vou precisar
+Pra te tirar de mim
+                    Bm7
+E aceitar o nosso triste fim
+                            G
+Nenhum bar da cidade vende mais pra mim
+    A                      D
+Prefere o prejuízo que me ver assim
+
+( A  Bm7  G )
+
+    A                      D
+Prefere o prejuízo que me ver assim
+
+[Solo] A  Bm7  G
+
+E|------------------------------------------|
+B|-7-8-7-8-7--------------------------------|
+G|-----------9-9-7-7/9-7-7/9----------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|-7-8-7-8-7h8p7----------------------------|
+G|---------------9-9-7-7/9---7-7h9-6~-------|
+D|-------------------------9----------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Primeira Parte]
+
+D                   G
+  Cerveja, sal e limão
+     Bm7              A
+E no último volume o som
+D                  G
+  Eu já perdi a noção do tempo
+ Bm7                   A                      G  A
+Hoje eu não fui trabalhar e nem pretendo amanhã
+
+[Refrão]
+
+                      D
+Que até agora eu não descobri
+                           A
+Quantas latas eu vou precisar
+Pra te tirar de mim
+                   Bm7
+E aceitar o nosso triste fim
+                            G           A
+Nenhum bar da cidade vende mais pra mim
+
+                      D
+Que até agora eu não descobri
+                           A
+Quantas latas eu vou precisar
+Pra te tirar de mim
+                    Bm7
+E aceitar o nosso triste fim
+                            G
+Nenhum bar da cidade vende mais pra mim
+    A                      D
+Prefere o prejuízo que me ver assim
+
+( A  Bm7  G )
+
+    A                      D
+Prefere o prejuízo que me ver assim
+
+( A  Bm  G )
+
+    A                      D
+Prefere o prejuízo que me ver assim
+
+[Final]
+
+E|------------------------------------------|
+B|-7-8-7-8-7--7-8-7-8-7---------------------|
+G|----------------------9-7~----------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3

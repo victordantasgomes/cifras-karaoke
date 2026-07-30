@@ -1,0 +1,149 @@
+@titulo: arruma-um-cantinho
+@autor:
+@intérprete: Henrique e Juliano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Henrique e Juliano - Arruma Um Cantinho
+
+Capo Casa 1
+
+[Intro] C  C11  C  C7M
+
+[Primeira Parte]
+
+   C                G
+E|------------------------------------------|
+B|-------1-------1--------3-------3---------|
+G|-----0-------0--------0-------0-----------|
+D|---2-------2--------0-------0-------------|
+A|-3-------3--------------------------------|
+E|------------------3-------3---------------|
+
+   Am7                F7M(9)/C     G5
+E|-----------0------------------------------|
+B|---------1-------1--------1------3--------|
+G|-----0-0-----0----------0---0----0--------|
+D|---2-----------2------3-------3--0--------|
+A|-0------------------3------------x--------|
+E|---------------------------------3--------|
+
+C                                  G
+Eu não me vejo amarrado em um coração
+
+                                   Am7
+Não me vejo chamando alguém de paixão
+                              F7M(9)/C
+Eu não quero nada no dedo da mão
+                         G5
+Nem bla bla bla, declaração, não, não
+
+[Pré-Refrão]
+
+         Am7
+Traumatizei
+             Em
+Me deixaram, eu chorei
+     F                                   C
+Arrumei outro amorzinho pra sempre e chorei outra vez
+     Am                   Em
+Por mim, esse assunto morria aqui
+         F                                     G
+Mas meu coração viu na gente coisa que eu não vi
+
+[Refrão]
+
+              C                     G
+Arruma um cantinho aí pra esse coração teimoso
+         Am                         F
+Libera umas gaveta e uns cabide que ele é espaçoso
+          C
+E se ele der beijinho
+        G
+Cê revida com outro
+             Dm7
+Não pisa na bola que quando ele gosta
+               F
+Ele gosta com gosto
+
+              C                     G
+Arruma um cantinho aí pra esse coração teimoso
+         Am                         F
+Libera umas gaveta e uns cabide que ele é espaçoso
+          C
+E se ele der beijinho
+        G
+Cê revida com outro
+             Dm7
+Não pisa na bola que quando ele gosta
+               F
+Ele gosta com gosto
+               C
+Ele gosta com gosto
+
+( G  Am  F )
+( C  G  Am  F )
+
+[Pré-Refrão]
+
+         Am7
+Traumatizei
+             Em
+Me deixaram, eu chorei
+     F                                   C
+Arrumei outro amorzinho pra sempre e chorei outra vez
+     Am                   Em
+Por mim, esse assunto morria aqui
+         F                                     G
+Mas meu coração viu na gente coisa que eu não vi
+
+[Refrão]
+
+              C                     G
+Arruma um cantinho aí pra esse coração teimoso
+         Am                         F
+Libera umas gaveta e uns cabide que ele é espaçoso
+          C
+E se ele der beijinho
+        G
+Cê revida com outro
+             Dm7
+Não pisa na bola que quando ele gosta
+               F
+Ele gosta com gosto
+
+              C                     G
+Arruma um cantinho aí pra esse coração teimoso
+         Am                         F
+Libera umas gaveta e uns cabide que ele é espaçoso
+          C
+E se ele der beijinho
+        G
+Cê revida com outro
+             Dm7
+Não pisa na bola que quando ele gosta
+               F
+Ele gosta com gosto
+               C
+Ele gosta com gosto
+
+[Final] G  C
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+Am*  = X 0 2 2 1 0 - (*A#m na forma de Am)
+Am7*  = X 0 2 0 1 0 - (*A#m7 na forma de Am7)
+C*  = X 3 2 0 1 0 - (*C# na forma de C)
+C11*  = X 3 3 0 1 X - (*C#11 na forma de C11)
+C7M*  = X 3 2 0 0 X - (*C#7M na forma de C7M)
+Dm7*  = X 5 7 5 6 5 - (*D#m7 na forma de Dm7)
+Em*  = 0 2 2 0 0 0 - (*Fm na forma de Em)
+F*  = 1 3 3 2 1 1 - (*F# na forma de F)
+F7M(9)/C*  = 8 7 5 5 6 5 - (*F#7M(9)/C# na forma de F7M(9)/C)
+G*  = 3 2 0 0 0 3 - (*G# na forma de G)
+G5*  = 3 5 5 X X X - (*G#5 na forma de G5)

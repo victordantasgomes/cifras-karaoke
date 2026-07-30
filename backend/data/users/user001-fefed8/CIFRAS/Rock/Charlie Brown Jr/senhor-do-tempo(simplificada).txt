@@ -1,0 +1,188 @@
+@titulo: senhor-do-tempo(simplificada)
+@autor:
+@intérprete: Charlie Brown Jr
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Charlie Brown Jr. - Senhor do Tempo
+
+Riff Introdução:
+
+    D9(11)           C        D9(11)
+E|-----------------------------------------
+B|-------3--------------------------3------
+G|-----0-------2-0------0-2-------0--------
+D|---4-------3--------2------4--4----------
+A|-5----------------3--------5-------------
+E|-----------------------------------------
+
+E|-----------------------------------------
+B|-----------------------------------------
+G|---2-0-------0---------------------------
+D|-3---------------------------------------
+A|--------3-3------------------------------
+E|-----------------------------------------
+
+(Primeira parte)
+        D9(11)
+Eu não sou o senhor do tempo, mas eu sei que vai chover
+    F5(7M/9)               C
+Me sinto muito bem quando fico com você
+
+    D9(11)
+Eu tenho habilidade de fazer histórias tristes
+   F5(7M/9)            C
+Virarem melodia vou vivendo o dia-a-dia.
+    D9(11)                                   F5(7M/9)
+Na paz, na moral, na humilde busco só sabedoria
+                 C
+Aprendendo todo dia,
+                 D9(11)
+me espelho em você, corro junto com você,
+                  F5(7M/9)            C
+Vivo junto com você, faço tudo por você.
+              D9(11)
+Seguindo em frente com fé e atenção
+                F5(7M/9)           C
+Continuo na missão continuo por você e por mim
+         D9(11)
+Porque quando a casa cai
+                                  F5(7M/9)
+Não dá pra fraquejar, quem é guerreiro tá ligado
+         C
+Que guerreiro é assim.
+
+Primeira Parte:
+    D9(11)     F5(7M/9) C
+E|------------0----------------------------
+B|-------3----1--------1-------------------
+G|-----0------0--------0-------------------
+D|---4--------3--------2-------------------
+A|-5-------------------3-------------------
+E|-----------------------------------------
+
+(variação)
+     D9(11)    F5(7M/9) C
+E|----------------0------------------------
+B|-------3--------1---------1--------------
+G|-----0--------0-----------0--------------
+D|---4--------3----------2-----------------
+A|-5-------------------3-------------------
+E|-----------------------------------------
+
+(Refrão)
+         G
+O tempo passa e um dia a gente aprende
+         D9(11)
+Hoje eu sei realmente o que faz a minha mente
+        G
+Eu vi o tempo passar vi pouca coisa mudar
+        D9(11)
+Então tomei um caminho diferente
+       G
+Tanta gente equivocada faz mal uso da palavra
+        D9(11)
+Falam, falam o tempo todo mas não tem nada a dizer
+        G
+Mas eu tenho santo forte é incrível a minha sorte
+     D9(11)
+Agradeço todo tempo por ter encontrado você.
+
+(Primeira parte com variação na letra)
+           D9(11)
+O tempo é Rei, e a vida é uma lição
+                   F5(7M/9)
+E um dia a gente cresce
+                   C                   D9(11)
+E conhece nossa essência e ganha experiência
+                   F5(7M/9)             C
+E aprende o que é raiz então cria consciência.
+
+     D9(11)
+Tem gente que reclama da vida o tempo todo
+       F5(7M/9)           C
+Mas a lei da vida é quem dita o fim do jogo
+          D9(11)
+Eu vi de perto o que neguinho é capaz por dinheiro
+         F5(7M/9)             C
+Eu conheci o próprio lobo na pele de um cordeiro
+        D9(11)
+Infelizmente a gente tem que tá ligado o tempo inteiro
+              F5(7M/9)    C
+Ligado nos pilantra e também nos bagunceiro
+     D9(11)
+E a gente se pergunta porque a vida é assim?
+     F5(7M/9)               C
+É difícil pra você e é difícil pra mim.
+
+(Riff Introdução)
+
+        D9(11)
+Eu não sou o senhor do tempo, mas eu sei que vai chover
+    F5(7M/9)               C
+Me sinto muito bem quando fico com você
+    D9(11)
+Eu tenho habilidade de fazer histórias tristes
+   F5(7M/9)            C
+Virarem melodia vou vivendo o dia-a-dia.
+    D9(11)                                   F5(7M/9)
+Na paz, na moral, na humilde busco só sabedoria
+                 C
+Aprendendo todo dia,
+                 D9(11)
+me espelho em você, corro junto com você,
+                  F5(7M/9)            C
+Vivo junto com você, faço tudo por você.
+
+(Segunda Parte)
+Vivendo nesse mundo louco hoje só na brisa
+Viver pra ser melhor também é jeito de levar a vida
+
+Segunda Parte:
+E|-----------------------------------------
+B|--7--X--7------10--X-10--5--X--5---------
+G|--0--X--0------0---X-0---0--X--0---------
+D|-----X-------------X--------X------------
+A|--5--X--5------8---X-8---3--X--3---------
+E|-----------------------------------------
+
+(Refrão)
+         G
+O tempo passa e um dia a gente aprende
+         D9(11)
+Hoje eu sei realmente o que faz a minha mente
+        G
+Eu vi o tempo passar vi pouca coisa mudar
+        D9(11)
+Então tomei um caminho diferente
+       G
+Tanta gente equivocada faz mal uso da palavra
+        D9(11)
+Falam, falam o tempo todo mas não tem nada a dizer
+        G
+Mas eu tenho santo forte é incrível a minha sorte
+     D9(11)
+Agradeço todo tempo por ter encontrado você.
+
+(Segunda Parte com variação na letra)
+Vem que o bom astral vai dominar o mundo!
+Eu já briguei com a vida, hoje eu vivo bem com tudo mundo aí
+Na maior moral...Charlie Brown!
+
+(Riff Introdução)
+Vivendo nesse mundo louco hoje só na brisa
+Viver pra ser melhor também é um jeito de levar a vida.
+
+( D9(11)   F5(9)  C ) (2x)
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D9(11) = X 5 4 0 3 0
+F5(7M/9) = X X 3 0 1 0
+F5(9) = X X 3 5 6 3
+G = 3 2 0 0 0 3

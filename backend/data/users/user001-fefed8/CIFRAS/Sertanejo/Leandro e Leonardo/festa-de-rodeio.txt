@@ -1,0 +1,46 @@
+@titulo: festa-de-rodeio
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - Festa de Rodeio
+
+Intro: D G A D D7 G A D G D G D
+
+               D                         G
+ Em festa de rodeio, nao dá pra ficar parado
+                  A      G                  D    G D
+ Tem cowboy e boiadeiro , e mulher pra todo lado
+               D                     G
+ Em festa de rodeio , coração atravessado
+                   A     G                 D
+ Eu sou um peao no meio , desse povo apaixonado
+     A            G        D                            A
+     Hey,hey,hey,hey companheiro , quem quiser ser o primeiro
+    G                    D
+     Tem que ter o braço forte
+     A          G           D
+     Hey,hey,hey,hey companheiro
+                         A     G                     D
+     Tem que ser bom violeiro , e também contar com a sorte
+      A                         G
+ Quem sabe até ganhar um beijo doce
+      A7        D
+ Da rainha do rodeio....
+
+               D
+ Em festa de rodeio...
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3

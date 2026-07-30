@@ -1,0 +1,106 @@
+@titulo: do-espirito
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Do Espírito
+
+Intro.: (F#5 B5 A5)
+
+Guitarra [Inrtrodução]
+
+E|-------------------------|-------------------------|-------------------------|-------------------------|
+B|---------------4-4br-4---|-------------4br---4br---|-------------4br---4br---|-------------4br---4br---|
+G|-------------2-4-4br-4-2-|-------------4br-2-4br-2-|-------------4br-2-4br-2-|-------------4br-2-4br-2-|
+D|-4-4-2-4-4-4-----------2-|-4-4-2-4-4-4-----------2-|-4-4-2-4-4-4-----------2-|-4-4-2-4-4-4-----------2-|
+A|-4-4-2-4-4-4-----------0-|-4-4-2-4-4-4-----------0-|-4-4-2-4-4-4-----------0-|-4-4-2-4-4-4-----------0-|
+E|-2-2-2-2-2-2-------------|-2-2-2-2-2-2-------------|-2-2-2-2-2-2-------------|-2-2-2-2-2-2-------------|
+
+  [Riff 1]                     [Riff 2]
+   F#5         B5        A5     F#5         B5          A5
+E|-------------------------|  |---------------------------|
+B|---------------4-4br-4---|  |-------------4s5-4---4s5---| Esse Riffs são tocados durante a música
+G|-------------2-4-4br-4-2-|  |-------------4s5-4-2-4s5-2-|    Ouça a música para saber quando 
+D|-4-4-2-4-4-4-----------2-|  |-4-4-2-4-4-4-------------2-|             muda de Riff
+A|-4-4-2-4-4-4-----------0-|  |-4-4-2-4-4-4-------------0-|
+E|-2-2-2-2-2-2-------------|  |-2-2-2-2-2-2---------------|
+
+(F#5 B5 A5)
+Sai de mim
+
+Que eu não quero mais saber de você
+Esse eu te quero já não me convence mais
+E agora já nem me incomoda
+Sai de mim, não gosto de ser rejeitado
+E agora não tem volta
+
+G5
+Eu pego o bonde andando
+Você pegou o bonde errado
+
+(F#5 B5 A5)
+Sua curiosidade é má
+E a ignorância é vizinha da maldade
+E só porque eu tenho não pense que é de mim
+Que você vai ter e conseguir o que não tem
+Só estou aberto a quem sempre foi do bem
+E agora estou fechado e agora estou fechado pra você
+
+(F#5 B5 A5)                                                       (4x)
+Não, não, não venha pra cá, que eu não quero mais saber de você.
+
+D5          B5 F#5
+Não me procura não
+D5           B5  F#5
+Você não vai me achar
+            D5    B5   C#5       D5 B5 F#5
+Você não consegue entender
+
+Solo.(Obs: esse "12fb-r" é assim mesmo, e´pq ele demora um pouco mais que os outros.)
+E|---------------------------------------------------------------------------------|
+B|--------12br-12br-12br-12fb-r--12-10-12-12br--10-12-12br--10-12-12br-10-12-10~~--|
+G|---------------------------------------------------------------------------------|
+D|-5...----------------------------------------------------------------------------|
+A|-5...----------------------------------------------------------------------------|
+E|-3...----------------------------------------------------------------------------|
+
+E|-------------------------------------------------|
+B|-(12br)-12br-10-12-10-12fbr-12-10-12-10-12-10~~~-|
+G|-------------------------------------------------|   (Obs: Depois desse solo vem uns efeitos.
+D|-------------------------------------------------| Eu recomendo fazer uns improvisos na hora dos A|-------------------------------------------------|                  efeitos)
+E|-------------------------------------------------|
+
+(F#5 B5 A5)                                                      (3x)
+Não, não, não venha pra cá, que eu não quero mais saber de você.
+
+D5          B5 F#5
+Não me procura não
+D5           B5  F#5
+Você não vai me achar
+            D5    B5   C#5       D5 B5 F#5
+Você não consegue entender
+
+[Final]
+   G5        G5 E5
+E|------------------|
+B|------------------|
+G|------------------|
+D|-5...-------5s2~~-|
+A|-5...-------5s2~~-|
+E|-3...-------3p0---|
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+B5 = X 2 4 4 X X
+C#5 = X 4 6 6 X X
+D5 = X 5 7 7 X X
+E5 = 0 2 2 X X X
+F# = 2 4 4 3 2 2
+F#5 = 2 4 4 X X X
+G5 = 3 5 5 X X X

@@ -1,0 +1,74 @@
+@titulo: a-bussola
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - A Bússola
+
+Intro: A9  D9  F#m  E  D9
+
+Verso:
+    A9
+Eu me perdi tentando acertar
+   D9
+E sem saída comecei andar
+   F#m
+Por uma selva de perigos
+           E        ( E4 E )
+Não consegui escapar
+
+     A9
+Eu precisava de uma bússola
+   D9
+Alguma coisa assim pra mim guiar
+      F#m
+E o seu olhar brilhou na imensidão
+          E
+Salvando meu coração
+
+
+Ponte:
+     D      E       F#m
+E o sol nasceu pra mim
+   D      E    F#m
+Angústia teve fim
+  D      E    F#m
+Amor descontrolado
+          D9            E
+Vou pra guerra do seu lado
+
+Refrão:
+A9               E                         F#m
+ Só preciso da bússola que me tirou do escuro
+               D9
+A bússola que gira... gira... gira
+                       A9
+E sempre aponta pro futuro
+                 E                        F#m
+E se eu for pro sul mesmo que seja sem querer
+                  D9                     A9
+Você me traz pro leste pra ver o sol nascer
+               E                         F#m
+Só preciso da bússola que me tirou do escuro
+               D9
+A bússola que gira... gira... gira
+                       A9
+E sempre aponta pro futuro
+                 E                         F#m
+E se eu for pro sul mesmo que seja sem querer
+                  D9                    ( A9   E   F#m  D9 )
+Você me traz pro leste pra ver o sol nascer
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,164 @@
+@titulo: a-colheita
+@autor:
+@intérprete: Chitãozinho & Xororó
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Chitãozinho & Xororó - A Colheita
+
+Intro: A F#m D Bm E D A Bm E A E
+
+E|---------7--5------------------9--7-------                                               
+B|-2-3-5-5-------------3-5-7-7---------9----                                             
+G|-2-4-6---------------4-6-7----------------                                         
+D|---------------6--------------------------
+A|------------------------------------------
+E|------------------------------------------
+
+E|------------------------------------------                                               
+B|-9-9-10-9-7------10---7-7-5-----5---------                                             
+G|-9-9-11-9-7-7/11------7-7-6-5/6-----------                                        
+D|------------------------------------------
+A|------------------------------------------
+E|------------------------------------------
+
+E|------------------------------------------                                               
+B|-2-5-3-2-3--7-9---------------------------                                             
+G|----------------10---5--------------------                                      
+D|------------------------------------------
+A|------------------------------------------
+E|------------------------------------------
+
+
+
+             A         C#         F#m
+Quando o cansaço do trabalho sem descanso
+            A        Em   A D
+De grossos calos amarelam suas mãos
+        Bm               F#        Bm
+O lavrador quer transformar o verde em flor
+          E              D       A   E
+E ver a flor se transformar em grão
+          A              C#         F#m
+Se de chorar Deus se lembrou durante o ano
+         Em            A7        D
+E o seu pranto se fez chuva sobre o chão
+       Bm7           E           A
+O lavrador já se prepara pra colheita
+          B          E         A
+Sorrindo vê que seu suor não foi em vão
+
+        E                  A
+E a colheita que encheu a tulha
+             Em        A7    D
+Da tulha o grão para cidade vai
+        Bm           E      A          F#m     Bm
+A terra dorme e ele não descansa sempre na esperança
+       E       A
+De colher bem mais
+
+D A Bm E A E
+
+E|------------------------------------------                                               
+B|-9-9-10-9-7------10---7-7-5-----5---------                                             
+G|-9-9-11-9-7-7/11------7-7-6-5/6-----------                                        
+D|------------------------------------------
+A|------------------------------------------
+E|------------------------------------------
+
+E|------------------------------------------                                               
+B|-2-5-3-2-3--7-9---------------------------                                             
+G|----------------10---5--------------------                                      
+D|------------------------------------------
+A|------------------------------------------
+E|------------------------------------------
+
+         A         C#          F#m
+Para colher o plantou com seu trabalho
+        A           Em     A    D
+O lavrador leva pro eito o mutirão
+      Bm       F#             Bm
+A sacaria é trazida aos carreadores
+         E              D              A    E
+E pra cidade quem transporta é o caminhão
+          A         C#         F#m              Em
+Com o dinheiro ele vai pagar o banco não sobra nada
+        A7            D
+E ele espera outro verão
+         Bm7           E              A
+Assim pensando o lavrador vai para a roça
+        B          E       A
+Arar a terra para nova plantação
+
+        E                  A
+E a colheita que encheu a tulha
+             Em        A7    D
+Da tulha o grão para cidade vai
+        Bm           E      A          F#m     Bm
+A terra dorme e ele não descansa sempre na esperança
+       E       A
+De colher bem mais
+
+D A Bm E A E
+
+E|------------------------------------------                                               
+B|-9-9-10-9-7------10---7-7-5-----5---------                                             
+G|-9-9-11-9-7-7/11------7-7-6-5/6-----------                                        
+D|------------------------------------------
+A|------------------------------------------
+E|------------------------------------------
+
+E|------------------------------------------                                               
+B|-2-5-3-2-3--7-9---------------------------                                             
+G|----------------10---5--------------------                                      
+D|------------------------------------------
+A|------------------------------------------
+E|------------------------------------------
+
+          A             C#
+Entra colheita   sai colheita
+      F#m            A           Em     A  D
+E nunca morre, a esperança desse homem do sertão
+             Bm           F#        Bm
+Chegando ao fim do carreador do seu destino
+        E          D              A    E
+De sua luta não sobrou nem um tustão
+            A            C#         F#m
+Um simples nome fica em seu último leito
+           Em          A7        D
+Que tanto faz se era Antônio ou João
+            Bm7            E            A
+Ninguém se lembra de quem só viveu pra terra
+          B      E         A
+E que um dia acabou virando chão
+
+        E                  A
+E a colheita que encheu a tulha
+             Em        A7    D
+Da tulha o grão para cidade vai
+        Bm           E      A          F#m     Bm
+A terra dorme e ele não descansa sempre na esperança
+       E       A7   Em
+De colher bem mais
+   A     D           E      A          F#m     Bm
+A terra dorme e ele não descansa sempre na esperança
+       E                    A    A D E D A
+De colher             bem mais
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2

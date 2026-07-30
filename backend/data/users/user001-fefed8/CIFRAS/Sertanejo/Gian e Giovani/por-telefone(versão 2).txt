@@ -1,0 +1,74 @@
+@titulo: por-telefone(versão 2)
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Por Telefone
+
+Intro.F  C/E Dm C/F Bb F/A Gm7 C F C/E Dm C/F Bb C4 C
+
+         F           Am          Dm
+POR TELEFONE E FACIL ME DIZER ADEUS
+         Gm             Gm/F           C
+POR TELEFONE NAO PODE OLHAR NOS OLHOS MEUS
+         Gm
+POR TELEFONE VOCE TEM CORAGEM
+         Bb
+DE ME DIZER TUDO ISSO E BOBAGEM
+   G
+E AINDA PEDIR PRA ESQUECER
+                 C
+QUE VOCE JA FOI MINHA
+         F             Am            Dm
+POR TELEFONE VOCE NAO SENTE A MINHA DOR
+         Gm            Gm/F       C
+E ME DESMONTA NO JEITO DE DIZER ALO
+         F           A7          Dm           Bb
+POR TELEFONE FICA FACIL SER TAO DURA SER TAO FRIA
+        F            C           F
+DIZER ADEUS POR TELEFONE E COVARDIA
+
+
+    C
+DESCULPE MAS VOU DESLIGAR
+       Bb
+DESSE JEITO NAO VOU ACEITAR
+    F                                    C
+PORQUE NAO FOI POR TELEFONE QUE TE CONHECI
+    C
+DESCULPE MAS VOU DESLIGAR
+      Bb
+SE VOCE QUER MESMO TERMINAR
+    F                                  Bb
+DESLIGA ESSE TELEFONE E VEM ME DIZER ADEUS
+          C  F
+AQUI NO MEU OLHAR
+
+solo.Am Dm Dm/C Bb Am Gm Gm/F C4 C
+
+        F              Am            D
+POR TELEFONE VOCE NAO SENTE A MINHA DOR
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C/F = X 8 10 9 8 8
+C4 = X 3 3 0 1 X
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3
+Gm/F = X X 3 3 3 3
+Gm7 = 3 X 3 3 3 X

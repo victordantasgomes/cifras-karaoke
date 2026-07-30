@@ -1,0 +1,58 @@
+@titulo: nossa-festa
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Nossa Festa
+
+[Intro] C#m7  B/D#  E  F#m  E A
+        C#m7  B/D#  E  F#m  E A
+        C#m7  B/D#  E  F#m  E A
+        C#m7  B/D#  E  F#m  E A
+
+C#m7                  B/D   E
+Hoje o Deus de Israel é celebrado
+  F#m
+E tudo o que era velório
+                   D
+Se transformou em festa
+C#m7                                E
+Hoje eu tenho o som da alegria do Espírito
+ F#m                                 D
+O júbilo de vitória que habita entre nós
+
+ B       C#m
+É avivamento
+ B/D#       E
+É fogo, aleluia
+B              C#m
+É barulho da igreja
+
+          A                  B
+Que canta, celebra e pula de alegria
+
+ E
+Som da vida
+A
+Som de festa
+ C#m
+A Ele celebrai
+  B           A
+A Cristo celebrai
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/D = X 5 4 4 4 X
+B/D# = X 6 X 4 7 7
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,46 @@
+@titulo: ao-teu-encontro
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Ao Teu Encontro
+
+[Intro]  A  F#m  D/E  A  F#m  D/E  D/A
+
+A9       A9/F#     E4     A9
+O meu coração tem sede de amar
+A9         A9/F#   E4         E     A9
+Vim ao teu encontro ansiosa em te adorar
+
+( Em  A7  D7+  C#7  F#m  F#m/E  D7+ )
+
+     Meu Deus, eu creio e adoro, espero e te amo
+C#m    Bm    D/E       A9  ( Em  A7 )
+Por aqueles que não te amam
+D7+     C#7          F#m
+O céu se faz presente aqui
+F#m/E      D7+    C#m    Bm      D/E   A9
+E olhas para mim, porque me amas sem igual
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+A9 = X 0 2 2 0 0
+A9/F# = 2 X 2 2 0 0
+Bm = X 2 4 4 3 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+D/A = X 0 X 2 3 2
+D/E = X X 2 2 3 2
+D7+ = X X 0 2 2 2
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+F#m/E = X X 2 2 2 2

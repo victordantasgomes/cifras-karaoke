@@ -1,0 +1,107 @@
+@titulo: por-voce
+@autor:
+@intérprete: Barão Vermelho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Barão Vermelho - Por Você
+
+Intro: E  A9 (2x)
+
+       E          A9           E
+Por você eu dançaria tango no teto
+         E/D                  D9
+Eu limparia os trilhos do metrô
+     C           D9         E  A9
+Eu iria a pé do Rio a Salvador
+          E     A9           E
+Eu aceitaria a vida como ela é
+      E/D               D9
+Viajaria à prazo pro inferno
+        C           D9        E
+Eu tomaria banho gelado no inverno
+
+       C#m        A9       C#m  B9
+Por você eu deixaria de beber
+       C#m       A9           C#m
+Por você eu ficaria rico num mês
+         B9           A9          E
+Eu dormiria de meia pra virar burguês
+
+A9         B9            E
+   Eu mudaria até o meu nome
+        B9              A9
+Eu viveria em greve de fome
+       B4         A9/C#  B9       E  A9
+Desejaria todo o dia a  mesma mulher
+
+       E  A9        E  A9
+Por você,    por você
+       E  A9        E  A9
+Por você,    por você
+
+       E          A9                E
+Por você conseguiria até ficar alegre
+      E/D                  D9
+Pintaria todo o céu de vermelho
+      C           D9             E    A9
+Eu teria mais herdeiros que um coelho
+          E     A9           E
+Eu aceitaria a vida como ela é
+      E/D               D9
+Viajaria à prazo pro inferno
+        C           D9        E
+Eu tomaria banho gelado no inverno
+
+Base Solo:
+
+C#m   A9   C#m  B9
+C#m   A9   C#m  B9  A9  E
+
+Solo:
+
+Parte 1 de 2
+
+E|-11--11h12p11-------------------11--11h12p11----------|
+B|--------------12--9/12-----------------------12--9/12-|
+G|------------------------11p9--8-----------------------|
+D|------------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+Parte 2 de 2
+
+E|-11h12p11------11h12p11-------------------------------|
+B|-----------12------------12--9---5--------------------|
+G|------------------------------------------------------|
+D|------------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+A9         B9            E
+   Eu mudaria até o meu nome
+        B9              A9
+Eu viveria em greve de fome
+       B4         A9/C#  B9       E  A9
+Desejaria todo o dia a  mesma mulher
+
+       E  A9        E  A9
+Por você,    por você
+       E  A9        E
+Por você,    por você
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+B4 = X 2 4 4 5 2
+B9 = X 2 4 4 2 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4

@@ -1,0 +1,46 @@
+@titulo: reclamando-sua-ausencia
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Reclamando Sua Ausência
+
+[Intro] D  A7  D  A7 
+ 
+     D 
+ Eu sei 
+                              A7 
+ Foi o amor que fez você me amar 
+ Eu sei 
+                                  D 
+ Que esse amor vai fazer você voltar 
+ Espero 
+                                A7 
+ Que a saudade vá bater no coração 
+ E quando 
+                                     D     D7 
+ Ela bater vai sentir que estou te amando 
+     G                                   D 
+ E agora estou sozinho reclamando sua ausência 
+                                     A7 
+ Na esperança dos bons ventos te soprar 
+                                    D      D7 
+ Lembrar de mim e saber que ainda existo 
+     G                                   D 
+ E agora estou sozinho reclamando sua ausência 
+                                    A7 
+ Na esperança dos bons tempos te tocar 
+                                    D 
+ Lembrar de mim e saber que ainda existo
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3

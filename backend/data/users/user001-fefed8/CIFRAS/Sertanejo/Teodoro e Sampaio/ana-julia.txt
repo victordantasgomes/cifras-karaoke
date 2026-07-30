@@ -1,0 +1,76 @@
+@titulo: ana-julia
+@autor:
+@intérprete: Teodoro e Sampaio
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Teodoro e Sampaio - Ana Júlia
+
+Intro: E A B
+
+  E           C#m             G#m     A         B   E
+ Quem te ver passar assim por mim não sabe o que é sofrer
+         C#m         G#m     A       B
+ Ter que ver você assim sempre tão linda
+ E           C#m           G#m    A    B    E
+ Contemplar o sol do teu olhar perder você no ar
+       C#m          G#m  A    B     C#m
+ Na certeza de um amor me achar um nada
+                    G#m                  A
+ Pois sem ter teu carinho eu me sinto sozinho
+                 B        B7
+ Eu me afogo em so...li....dão
+
+
+                 E         A      B
+ Ô ô Anna Julia...a...a...a...a
+          E         A      B
+ Ô ô Anna Julia...a...a...a...a
+   E       C#m          G#m    A    B      E
+ Nunca acreditei na ilusão de ter você pra mim
+
+        C#m         G#m         A     B
+ Me atormenta a previsão do nosso destino
+  E            C#m        G#m      A      B   E
+ Eu passando o dia a te esperar, você sem me notar
+        C#m          G#m   A        B         C#m
+ Quando tudo tiver fim, você vai estar com um cara
+               G#m                       A
+ Um alguém sem carinho será sempre um espinho
+               B         B7
+ Dentro do meu co...ra...ção
+                 E         A      B
+ Ô ô Anna Julia...a...a...a...a
+          E         A      B
+ Ô ô Anna Julia...a...a...a...a
+
+SOLO: (E A B) -> 4 vezes   C#m G#m A B E C#m G#m A B
+  C#m       G#m      A       B       E
+ Sei que você já não quer mais o meu amor
+  C#m      G#m         A   B  E
+ Sei que você já não gosta de mim
+  C#m               G#m        A   B       E
+ Eu sei que eu não sou quem você sempre sonhou
+  C#m              G#m         A            B B7
+ Mas vou reconquistar o seu amor todo pra mim
+                  E       A        B
+ Ô ô Anna Julia...a...a...a...a
+          E         A       B
+ Ô ô Anna Julia...a...a...a...a
+          E         A      B
+ Ô ô Anna Julia...a...a...a...a
+           E     A     B            E
+ Ô ô Anna Julia...Julia, Julia...ou ou ou
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+G#m = 4 6 6 4 4 4

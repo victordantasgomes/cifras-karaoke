@@ -1,0 +1,118 @@
+@titulo: ele-quer-me-conquistar
+@autor:
+@intérprete: Kid Abelha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kid Abelha - Ele Quer Me Conquistar
+
+De:Leoni
+
+maior
+
+Intr.: C  G  F G   (4x)
+
+Cifrado por Jorge Luís R. Silva
+
+
+C          G
+Todo mundo fala
+     F       G
+E eu  quase acredito
+         C            G        F G
+É muita areia pro meu caminhão
+Em      F            C
+Mas ele liga e se desmancha
+           G
+     de paixão
+         F            G  C
+Eu não aguento tanta emoção
+
+G   F        G          C  G  F G
+E o fone cai da minha mão
+
+C          G
+Todo mundo diz
+    F       G
+Que ele não existe
+         C              G   F  G
+Que é melhor eu não me iludir
+Em      F           C
+Mas ele pega no meu braço
+         G
+     pra falar
+         F                G     C
+E tá tão perto que eu vou desmaiar
+G F          G            C G F G
+E ganho um beijo pra acordar
+
+REFRÃO:
+F7+    G         Am
+Eu não sei mais o que falar
+   F7+        G     Am
+Ele chama pra conversar
+F7+       G
+Fico assustada
+   Am
+Eu não sou nada
+  F7+        G      C
+Ele quer me conquistar
+ G    F      G      C G
+Ele quer me conquistar
+    F       G
+Ele quer me conquistar
+
+INTRO
+
+C          G
+Todo mundo diz
+    F        G
+Que ele ‚ diferente
+         C          G       F  G
+Que ele vive em outra dimensão
+Em         F                  C
+Mas nosso encontro de hoje à tarde
+          G
+     é no dentista
+      F           G      C  G
+E ele grita antes da injeção
+  F       G           C G F G
+Chega Dr. Furtado não
+
+REFRÃO
+SOLO: E  B  A  B   (8x)
+
+A      B          C#m
+Eu não sei mais o que falar
+    A         B      C#m
+Ele chama pra conversar
+A         B
+Fico assustada
+    C#m
+Eu não sou nada
+    A        B      E
+Ele quer me conquistar
+B    A      B       E  B
+Ele quer me conquistar
+    A       B       E
+Ele quer me conquistar...
+
+
+Obs.:  O acorde F7+ pode ser trocado pelo acorde F natural, sem grandes diferenças na melodia.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3

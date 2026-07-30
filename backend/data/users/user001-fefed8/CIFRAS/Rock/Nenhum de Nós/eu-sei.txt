@@ -1,0 +1,69 @@
+@titulo: eu-sei
+@autor:
+@intérprete: Nenhum de Nós
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nenhum de Nós - Eu Sei
+
+(intro) G D A5 Em G D A5
+
+ Em                  G
+Uma vez você me disse que eu era um sonhador
+ D
+E hoje descobri: você estava certa
+ Em                   G
+Falou que eu ia acabar perdido
+ D
+Agora percebo como foi sincera
+ Em                  G
+Me disse tantas vezes para ter cuidado
+ D
+E eu sempre fazia tudo do jeito errado
+ Em                       G
+E eu tive que ficar calado quando você falou
+ D
+Que tudo que eu sentia parecia pouco
+
+ Am
+Mas quando eu te vejo
+
+ Bm
+Eu só preciso saber
+ C
+Eu só consigo pensar
+ D5
+Se você me quer
+
+ G
+Eu sei, o tempo passou
+ Bm
+Eu sei, a gente mudou
+ C
+Eu sei...
+ D5
+Eu sei...
+
+ G
+Eu sei, o tempo passou
+ Bm
+Eu sei, a gente mudou
+ C
+Eu sei...
+ D5
+Eu sei...
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

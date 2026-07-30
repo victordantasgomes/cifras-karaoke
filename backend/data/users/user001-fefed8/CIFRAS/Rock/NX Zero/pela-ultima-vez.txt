@@ -1,0 +1,150 @@
+@titulo: pela-ultima-vez
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nx Zero - Pela Última Vez
+
+[Intro]  Ab
+
+E|-----------------------------------|
+B|--4-4-4-4---11-11-11-11---8-8-8-8--|
+G|--3-3-3-3---10-10-10-10---8-8-8-8--|
+D|-----------------------------------|
+A|-----------------------------------|
+E|-----------------------------------|
+
+[Primeira Parte]
+
+ Ab          Cm        Bb       Gm     Ab
+Não, eu não vou te deixar ir embora assim
+      Cm        Bb        Gm   Ab
+Nada vai funcionar sem você aqui
+       Cm    Bb             Gm   Ab  Cm    Bb
+Mas algo me diz, meu mundo vai cair  em pedaços
+
+Cm              Ab           Fm
+  E quanto aos nossos planos
+        Bb     B  Cm
+E todas as promessas
+
+         Ab
+Agora é muito tarde
+  Fm           Bb    B
+Pra tentar me desculpar
+
+[Pré-Refrão]
+
+Fm       Ab           Eb
+  Eu sei, nada vai mudar
+                 Bb     B       Fm
+Mas tenho tanta coisa pra falar
+           Ab           Eb
+Sobre você, sobre mim, sobre nós
+ Bb              B
+Tente me ouvir agora
+  Db
+Agora
+
+[Refrão]
+
+Eb               Bb
+ É, pela última vez
+         B
+ É, pela última vez
+Cm         Bb
+Eu quero que prometa
+ B             Db
+Todo o seu destino é meu
+Eb               Bb
+ É, pela última vez
+         B
+ É, pela última vez
+Cm         Bb
+Eu quero que prometa
+ B             Db
+Todo o seu destino é meu
+
+E|------------------------------------|
+B|--4-4-4-4---11-11-11-11---8-8-8-8-8-|
+G|------------------------------------|
+D|------------------------------------|
+A|------------------------------------|
+E|------------------------------------|
+
+[Segunda Parte]
+
+Ab                                  Cm
+  Agora o mundo me deixa sem defesa
+Cm                                       Bb
+  Todos me olham mais realmente ninguém vê
+                        Gm
+Ninguém vê que estou sozinho
+Agora tenho que esquecer
+
+Ab                                    Cm
+  Você me deu muito mais do que palavras
+Cm                               Bb
+  Quando tudo não passava de ilusão
+                   Gm         Ab
+Eu nunca te agradeci por ser sempre assim
+
+[Pré-Refrão]
+
+Fm       Ab           Eb
+  Eu sei, nada vai mudar
+                 Bb     B       Fm
+Mas tenho tanta coisa pra falar
+           Ab           Eb
+Sobre você, sobre mim, sobre nós
+ Bb              B
+Tente me ouvir agora
+  Db
+Agora
+
+[Refrão]
+
+Eb               Bb
+ É, pela última vez
+         B
+ É, pela última vez
+Cm         Bb
+Eu quero que prometa
+ B             Db
+Todo o seu destino é meu
+Eb               Bb
+ É, pela última vez
+         B
+ É, pela última vez
+Cm         Bb
+Eu quero que prometa
+ B             Db
+Todo o seu destino é meu
+
+B            Db     B
+ E o meu destino é seu
+       Db        Ab
+Espere onde estiver
+
+E|-------------------------------|
+B|-------------------------------|
+G|---8---7---5-------------------|  (4x)
+D|-------------------------------|
+A|---6---5---3-------------------|
+E|-------------------------------|
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+Cm = X 3 5 5 4 3
+Db = X 4 6 6 6 4
+Eb = X 6 5 3 4 3
+Fm = 1 3 3 1 1 1
+Gm = 3 5 5 3 3 3

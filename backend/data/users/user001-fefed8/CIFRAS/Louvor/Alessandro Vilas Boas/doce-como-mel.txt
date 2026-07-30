@@ -1,0 +1,47 @@
+@titulo: doce-como-mel
+@autor:
+@intérprete: Alessandro Vilas Boas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Alessandro Vilas Boas - Doce Como Mel
+
+[Intro] C  G  Dm  F
+
+C           G
+Filho de Deus
+  Dm                     F
+Que tira o pecado do mundo
+
+C              G
+O messias adorado
+ Dm            F
+Esperado por nós
+
+Dm          Am
+Quão precioso
+              G
+Cordeiro de Deus
+
+                     F
+Seus olhos são como fogo
+                    Am
+Em sua boca uma espada
+
+                             G
+Está vestido com manto de sangue
+
+C              G         Dm     F
+Só teu nome é doce como mel
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

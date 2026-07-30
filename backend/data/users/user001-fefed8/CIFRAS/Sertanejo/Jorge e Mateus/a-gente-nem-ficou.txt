@@ -1,0 +1,153 @@
+@titulo: a-gente-nem-ficou
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - A Gente Nem Ficou
+
+[Primeira Parte]
+
+[Entrada]
+
+       C5(9)
+E|-x-x--------x------x---------------------|
+B|-x-x-3-3----x------x---------------------|
+G|-x-x-0-0----x------x---------------------|
+D|-x-x--------x------x---------------------|
+A|-x-x-3-3/10-x-10\3-x---------------------|
+E|-x-x--------x------x---------------------|
+
+
+C5(9)
+      E a gente nem ficou
+         C/E               F7M
+Mesmo assim eu não tiro você da cabeça
+C5(9)
+      O pouco que durou
+         C/E               F7M
+Nosso encontro me faz duvidar
+
+                     Dm
+Que um dia eu te esqueça
+
+                           Am
+Sei que pra nós dois um romance é
+ G                Dm
+Coisa delicada demais
+                 G
+Não da pra esquecer o que vivemos
+
+Antes um do outro
+
+Dm                        Am
+   Bem melhor a gente deixar rolar se entregar
+       Bb5(9)      F
+Ver o fogo que apagou
+            G   E
+Queimar de novo
+
+[Pré-Refrão]
+
+   Am               F7M
+E aí quando vem me ver
+      C9             G
+Tô aqui esperando você
+          Am               F7M
+E nem dormi a noite já passou
+        Bb5(9)       F
+Não consigo mais me dominar
+           G       E
+Você me enfeitiçou
+
+[Refrão]
+
+                 Am  F7M  G
+E a gente nem ficou
+                    Am  F7M  G
+E olha o que me causou
+
+E a gente nem ficou
+
+[Primeira Parte]
+
+C9
+   E a gente nem ficou
+         C/E               F7M
+Mesmo assim eu não tiro você da cabeça
+C9
+   O pouco que durou
+         C/E               F7M
+Nosso encontro me faz duvidar
+                     Dm
+Que um dia eu te esqueça
+
+                           Am
+Sei que pra nós dois um romance é
+                  F7M
+Coisa delicada demais
+                 G
+Não da pra esquecer o que vivemos
+
+Antes um do outro
+
+Dm                        Am
+   Bem melhor a gente deixar rolar se entregar
+       Bb5(9)      F
+Ver o fogo que apagou
+            G   E
+Queimar de novo
+
+[Pré-Refrão]
+
+   Am               F7M
+E aí quando vem me ver
+      C9             G
+Tô aqui esperando você
+          Am               F7M
+E nem dormi a noite já passou
+        Bb5(9)       F
+Não consigo mais me dominar
+           G       E
+Você me enfeitiçou
+
+   Am               F7M
+E aí quando vem me ver
+     C9              G
+Tô aqui esperando você
+          Am               F7M
+E nem dormi a noite já passou
+        Bb5(9)       F
+Não consigo mais me dominar
+           G       E
+Você me enfeitiçou
+
+[Refrão]
+
+                 Am  F7M  G
+E a gente nem ficou
+                    Am  F7M  G
+E olha o que me causou
+                 Am  F7M  G
+E a gente nem ficou
+                    Am  F7M  G
+E olha o que me causou
+                 Dm
+E a gente nem ficou
+
+----------------- Acordes -----------------
+Am*  = X 0 2 2 1 0 - (*G#m na forma de Am)
+Bb5(9)*  = X 1 3 3 1 1 - (*A5(9) na forma de Bb5(9))
+C/E*  = X X 2 0 1 0 - (*B/D# na forma de C/E)
+C5(9)*  = X 3 0 0 3 X - (*B5(9) na forma de C5(9))
+C9*  = X 3 2 0 3 3 - (*B9 na forma de C9)
+Dm*  = X X 0 2 3 1 - (*C#m na forma de Dm)
+E*  = 0 2 2 1 0 0 - (*D# na forma de E)
+F*  = 1 3 3 2 1 1 - (*E na forma de F)
+F7M*  = X X 3 2 1 0 - (*E7M na forma de F7M)
+G*  = 3 2 0 0 3 3 - (*F# na forma de G)

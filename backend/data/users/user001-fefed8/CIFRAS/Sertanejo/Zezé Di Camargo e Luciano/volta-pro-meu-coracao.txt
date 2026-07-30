@@ -1,0 +1,82 @@
+@titulo: volta-pro-meu-coracao
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Volta Pro Meu Coração
+
+Int: C, G/B, Am, G/B
+
+C            G/B           Am
+Noite fria, triste, céu cinzento
+Am7/G            F
+na janela bate o vento,
+         C/E            Dm
+quero alguém pra con versar,
+           Dm/C      G/B
+nesta madrugada de inverno
+       F/A          G
+Eu não sei se te espero
+                       C   G4/7  G7
+Ou me arrisco a te buscar,
+C               G/B      Am
+fico olhando as luzes da cidade,
+Am7/G          F
+namorando a saudade,
+      C/E           Dm
+que ficou em seu lugar,
+        Dm/C       G/B
+como esperar tanto tempo,
+
+F/A              G
+segurando o sentimento,
+                  C    Bb/C
+com vontade de chorar,
+F         G/F        Em
+como aceitar esse vazio
+       Am            Bb
+E dormir sentindo frio
+                    G4/7   G7
+Sem você pra me abraçar.?
+         C
+Eu quero tanto
+     Dm              C/E
+mergulhar nos seus cabelos,
+     F           Dm
+acordar dos pesadelos,
+Dm/C        G4/7   G7
+me livrar da solidão,
+         C
+eu quero tanto
+         Dm      C/E
+Ver de novo seus passos
+      F               Dm
+te trazendo pro meus braços,
+       Dm/C       Bb     G4/7
+não me tire essa ilusão,
+G7           C
+volta pro meu coração. (REPETE 3X)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7/G = 3 0 2 0 1 0
+Bb = X 1 3 3 3 1
+Bb/C = X 3 X 3 3 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/F = 1 X X 0 0 3
+G4/7 = 3 5 3 5 3 X
+G7 = 3 5 3 4 3 3

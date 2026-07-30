@@ -1,0 +1,77 @@
+@titulo: maravilhosa-graca
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Maravilhosa Graça
+
+[INT] ->  C  - F - F#° - C/G - F/A - C/G - G - C
+
+C           F   C
+Maravilhosa graça
+C                 Am
+Graça de Deus sem par
+ Am            D
+Como poder canta-la
+D7             G4 - G
+Com hei de começar
+C          F   C
+Ela me dá certeza
+C7            F
+E vivo com firmeza
+     F        F#°    C/G    F#º    Dm   G     C
+Pela maravilhosa gra........ça      de     Je....sus
+
+C                     G
+Graça que maravilhosa graça
+ C                  G
+É imensurável e sem fim
+
+G                    C
+É maravilhosa, é tão grandiosa
+D              G
+É suficiente par mim
+C                       G
+É maior que minha iniqüidade
+C                      F
+É revelação do amor do Pai
+   F         F#º    C/G       F/A
+O  nome de Jesus engrande.....cei
+    Dm          G - C -     Fm
+E Deus Louvai               LOUVAI
+
+C           F   C
+Maravilhosa graça
+C                 Am
+Que ricas bênçãos traz
+Am            D
+Por ela Deus transforma
+D7               G4 - G
+Dá vida eterna e paz
+C          F     C
+Tendo por Cristo salvo
+C7           F
+Faço do céu meu alvo
+F     F#°    C/G    F#º    Dm   G     C
+Pela maravilhosa gra... ...ça   de    Je....sus
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F#º = 2 X 1 2 1 X
+F/A = 5 X 3 5 6 X
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G4 = 3 5 5 5 3 3

@@ -1,0 +1,85 @@
+@titulo: vem-sobre-mim
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Vem Sobre Mim
+
+Intro: F  G  Am  G  F  G  Am  //  F  G  Am  G  F  C
+
+Intro:
+
+
+C9                               Am
+Espírito Santo toma minha mente  Espírito Santo toma o meu coração
+F              Dm7                 G7/4      G
+Espírito Santo toma o meu ventre   Vem sobre mim
+C9                              Am
+Espírito Santo toma minha casa  Espírito Santo toma minha família
+F               Dm7                       G7/4   F
+Espírito Santo toma os meus filhos  Vem sobre mim
+
+Refrão:
+
+C                                     F7+
+Eu sou o que a bíblia diz que eu sou  Eu tenho o que a bíblia diz que eu tenho
+Dm     Am                                G7/4     F
+Eu vou onde a bíblia diz que eu vou  Vem sobre mim
+C                                     F7+
+Eu sou o que a bíblia diz que eu sou  Eu tenho o que a bíblia diz que eu tenho
+
+Dm     Am                                G7/4     Dm   (*convenção)
+Eu vou onde a bíblia diz que eu vou  Vem sobre mim
+
+Intro:   F    G    Am    G    F     G     C
+
+
+C9                               Am
+Espírito Santo toma minha mente  Espírito Santo toma o meu coração
+F              Dm7                 G7/4      F
+Espírito Santo toma o meu ventre   Vem sobre mim
+C9                              Am
+Espírito Santo toma minha casa  Espírito Santo toma minha família
+F               Dm7                       G7/4   F
+Espírito Santo toma os meus filhos  Vem sobre mim
+
+Refrão:
+C                                     F7+
+Eu sou o que a bíblia diz que eu sou  Eu tenho o que a bíblia diz que eu tenho
+Dm     Am                                G7/4     F
+Eu vou onde a bíblia diz que eu vou  Vem sobre mim
+C                                     F7+
+Eu sou o que a bíblia diz que eu sou  Eu tenho o que a bíblia diz que eu tenho
+Dm     Am                                G
+Eu vou onde a bíblia diz que eu vou  Vem sobre mim
+
+Instrumental: F    G   Am   G     F    G    Am    G    F    G    Am    Dm   G7/4
+Convenção: F    G   Am   G     F    G    Am    G    F    G    Am    Dm   G7/4
+
+Refrão:
+C                                     F7+
+Eu sou o que a bíblia diz que eu sou  Eu tenho o que a bíblia diz que eu tenho
+Dm     Am                                G7/4     F   G   Am   G/B
+Eu vou onde a bíblia diz que eu vou  Vem sobre mim
+C                                     F7+
+Eu sou o que a bíblia diz que eu sou  Eu tenho o que a bíblia diz que eu tenho
+Dm     Am                                G7/4   G
+Eu vou onde a bíblia diz que eu vou  Vem sobre mim
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7/4 = 3 5 3 5 3 X

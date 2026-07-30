@@ -1,0 +1,66 @@
+@titulo: o-pulso
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - O Pulso
+
+(intro) E A
+
+   E                 A
+ O pulso ainda pulsa
+   E                 A
+ O pulso ainda pulsa
+  E
+ Peste bubônica, câncer, pneumonia
+  A
+ Raiva, rubéola, tuberculose, anemia
+     E
+ Rancor, cisticircose, caxumba, difteria
+   A
+ Encefalite, faringite, gripe, leucemia
+   E                         A
+ O pulso ainda pulsa (pulsa)
+   E                         A
+ O pulso ainda pulsa (pulsa)
+  E
+ Hepatite, escarlatina, estupidez, paralisia
+  A
+ Toxoplasmose, sarampo, esquizofrenia
+
+  E
+ Úlcera, trombose, coqueluche, hipocondria
+  A
+ Sífilis, ciúmes, asma, clepitomania
+     E                   A
+ E o corpo ainda é pouco
+     E                   A
+ E o corpo ainda é pouco
+   E
+ Reumatismo, raquitismo, cistite, disritinia
+  A
+ Hérnia, pediculose, tétano, hipocrisia
+      E
+ Brucelose, febre tifóide, arteriosclerose, miopia
+    A
+ Catapora, culpa, cárie, câimba, lepra, afasia
+   E                 A
+ O pulso ainda pulsa
+   E                   A
+ O corpo ainda é pouco
+D            C
+ Ainda pulsa
+D            C    D   C  D C E
+ Ainda é pouco (pulso)...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0

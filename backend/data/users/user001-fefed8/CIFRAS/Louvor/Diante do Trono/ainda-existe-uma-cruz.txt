@@ -1,0 +1,97 @@
+@titulo: ainda-existe-uma-cruz
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Ainda Existe Uma Cruz
+
+[Intro]  Dm79     G/B     Dm79    G/B    C9  F/A  Bb9 A G F  Csus
+
+Csus        Dm79                    G/B                               Dm79      G/B
+    Quem quiser vir após mim negue-se a si mesmo
+                Dm79             G/B   G/D        C9/E    F9    C/E  Dm7
+    Quem quiser me seguir tome a sua cruz                                                        (frase)
+Dm7/C         Bb9/G  Fsus4                  C/E         C    C/D C/E F7+ F/A               Bb9  A G F Csus
+    D i a   após d i a   negue-se a si mesmo dia após   dia   tome a sua cruz
+Csus       Dm79                    G/B                               Dm79      G/B  Dm79   G/B  C9 F/A
+    Quem quiser vir após mim negue-se a si mesmo
+
+    F/A                      Csus      F9                                         C/E
+   Ainda existe uma cruz prá você carregar
+                   Am7                 Bb9      Bb/G                Csus        C    Bb9/D  Bb9/D  Csus
+Não se deixe enganar a porta é estreita
+   Csus                  C/E    F9                                        C/E
+   O caminho   é      árduo prá você trilhar
+                  Am7                  Bb9                  F/A                  Bb9/G
+   Não se deixe enganar ainda existe uma cruz
+                 Fsus4              C/E                        C   C D F     C/E    C C9
+   Ainda existe um preço a pagar
+
+
+                  Dm79             G/B        Dm79          G/B
+  Quem achar a sua vida a perderá
+                        Dm79                               G/B                   G/D C9/E         F9                 C/E Dm7
+  E quem perder sua vida por amor de mim                a  encontrará
+
+Dm7/C       Bb9/G  Fsus4                  C/E         C    C/D C/E F7+ F/A                Bb9 A G F Csus
+  Dia após d i a  negue-se a si mesmo dia após   dia  tome a sua cruz
+  Csus           Dm79                               G/B                             Dm79         G/B Dm79 G/B  C9 F/A
+  Quem perder sua vida por amor de mim a encontrará
+
+    F/A                      Csus      F9                                         C/E
+   Ainda existe uma cruz prá você carregar
+                   Am7                 Bb9      Bb/G                Csus        C    Bb9/D  Bb9/D  Csus
+Não se deixe enganar a porta é estreita
+   Csus                  C/E    F9                                        C/E
+   O caminho   é      árduo prá você trilhar
+                  Am7                  Bb9                  F/A                  Bb9/G
+   Não se deixe enganar ainda existe uma cruz
+                 Fsus4              C/E                        C   C D F     C/E    C C9
+   Ainda existe um preço a pagar
+
+[Solo] Dm7  C/E  Fsus2  G/D  A  Gm  A  Gm  Dm  F/A  Dm  C/D
+          Dm7  C/E  Fsus2  G/D  A  Gm  A  Gm  Dm  F/A  Dm  C/D
+          Dm7  C/E  Fsus2  G/D  A  Gm  A  Gm  Dm  F/A  Dm  C/D
+
+Dm7/9           G/B     Dm7/9           G/B
+Ainda existe uma cruz ainda existe um morrer
+Dm7/9           G/B     Dm7/9           G/B            Dm7/9  (C/D)  Dm  C/D
+Ainda existe uma cruz uma batalha a vencer
+Dm7/9           G/B     Dm7/9           G/B
+Ainda existe uma cruz
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am7 = X 0 2 0 1 0
+Bb/G = 3 X 3 3 3 X
+Bb9 = X 1 3 3 1 1
+Bb9/D = X 5 3 3 1 1
+Bb9/G = 3 X 3 3 1 1
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+C9/E = X X 2 5 3 0
+Csus = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Dm7/9 = X 5 3 5 5 X
+Dm7/C = X 3 0 2 1 1
+Dm79 = X 5 3 5 5 X
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F7+ = 1 X 2 2 1 X
+F9 = 1 3 5 2 1 1
+Fsus2 = 1 3 5 2 1 1
+Fsus4 = 1 3 3 3 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+Gm = 3 5 5 3 3 3

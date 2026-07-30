@@ -1,0 +1,83 @@
+@titulo: um-santuario-cheio-da-tua-gloria
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Um Santuário Cheio da Tua Glória
+
+Intro: A  D
+
+A    A9          D9
+Como posso eu conter Sua presença
+A             D9             E/D
+Se nem mesmo Céus e Terra Te contém?
+            D       E/D    C#m           F#m7
+Como pode alguém pequeno como eu
+         D9               E         A    D
+Ser a casa de um Deus assim?
+
+A                D9
+Que tem todo o infinito por morada
+A              D                          E/D
+Mesmo assim quis um lugar pra Se conter
+    D   E/D   C#m         F#m
+E teria eu algum lugar em mim
+       D      D/E     A
+Que receba um Deus assim?
+
+           D7+     E/G#   A
+Que quando se derrama dentro de mim
+
+        D7+    E/G#    A
+Faz de mim um vaso a transbordar
+    D7+  E/G#     F#m E D#m7/5b
+E Tua presença é meu prazer Senhor
+   Bm         E            A
+Um santuário cheio da Tua glória
+
+A                D9
+Que tem todo o infinito por morada
+A               D                          E/D
+Mesmo assim quis um lugar pra Se conter
+    D   E/D   C#m         F#m
+E teria eu algum lugar em mim
+       D      D/E     A
+Que receba um Deus assim?
+
+Base Solo:  D#m7(b5) G#7(b13) C7 Bm Bb Am D
+
+E|----------------------------------10~-10-12h13-12-8-8h10~-|
+B|-5/7-9-9/10-9~-5h7----------------------------------------|
+G|-------------------9~-9-11/12-11-9------------------------|
+D|----------------------------------------------------------|
+A|----------------------------------------------------------|
+E|----------------------------------------------------------|
+
+Final:  Um santuário cheio da Tua glória
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+D#m7(b5) = X X 1 2 2 2
+D#m7/5b = X X 1 2 2 2
+D/E = X X 2 2 3 2
+D7+ = X X 0 2 2 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G#7(b13) = 4 X 4 5 5 4

@@ -1,0 +1,197 @@
+@titulo: o-preco
+@autor:
+@intérprete: Charlie Brown Jr
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Charlie Brown Jr. - O Preço
+
+[Intro] Em  C5  Em  C5
+
+   Em                       C5
+E|--------------------------0---5*--------------------|
+B|--------------------------0-----5*--5*--5*----------|
+G|--------------------------0-------5*------5*--5*----|
+D|--------------------------2-----------------5*------|
+A|----7-9----10----9----7---3-------------------------|
+E|-0-------0-----0----0-------------------------------|
+
+   Em                       C5
+E|--------------------------0---5*------------------0-|
+B|--------------------------0-----5*--5*--5*--------0-|
+G|--------------------------0-------5*------5*--5*--0-|
+D|--------------------------2-----------------5*----2-|
+A|----7-9----10----9----7---3-----------------------3-|
+E|-0-------0-----0----0-------------------------------|
+
+[Primeira Parte]
+
+ Em                                              C5
+Como era difícil acreditar que ia chegar onde estou
+
+Que minha vida ia mudar, e mudou
+Em
+  Dificuldade então, passava eu
+     C5
+Meu pai, minha família e meus irmãos
+          Em
+Sem perceber larguei escola e fui pra rua aprender
+           C5
+Andar de skate, tocar, é, corri pra ver o mar
+       Em
+Fui atrás do que quis, é
+                      C5
+Sabia só assim podia ser feliz
+                                         Em
+Eu quero ser feliz, quem não quer ser feliz
+Me diz então é preciso chegar em algum lugar
+C5                                               Em
+  Ter algo bom pra comer e algum lugar pra se morar
+                                         C5
+Satisfeito então eu faço a preza pros irmãos
+                                       Em
+Consciente, pé no chão, daqui nada se leva
+De coração eu faço a preza
+
+[Pré-Refrão]
+
+C5
+  Existe sempre um outro jeito de se poder chegar
+Em
+  Existe sempre um outro jeito de se poder chegar
+C5
+ Existe sim, sangue bom
+
+[Refrão]
+
+           Em       F#5    G5           A5     G5  A5
+Sempre sonhei em fazer um som que fosse a cara
+     D5           C5
+E então poder chegar em algum lugar
+         Em      F#5   G5    A5   G5  A5
+Ver a garota sorrir,  a galera pular
+        D5          C5
+A multidão a me chamar, ah que lindo está, yeah
+
+ Em5
+Dizem que ele é bom
+    F#5                   G5
+Eu também mostro quem eu sou
+        A5
+Aquele mano se ligou
+        G5       A5
+Se ele não, demorou
+D5                 C5
+ Os manos ali de trás
+ Podem ensinar você
+ Em  5
+Dizem que ele é bom
+    F#5                   G5
+Eu também mostro quem eu sou
+        A5
+Aquele mano se ligou
+        G5       A5
+Se ele não, demorou
+D5                 C5
+ Os manos ali de trás
+
+[Segunda Parte]
+
+Em                                   C5
+  Dei um trocado pra um pivete no farol
+  Olhei pro lado tava o pai
+                         Em
+Pensei: "Velho filha da puta, explorador"
+Mas vai saber, sei lá
+     C5
+Cada um tem sua história
+                                     Em
+Eu tô aqui pra aprender, não pra julgar
+Quem pode me julgar
+      C5
+Pelo menos desde cedo
+                              Em  C5
+O pivete vai aprender a se virar
+
+          Em
+Graças a Deus, eu não tive um pai assim
+                     C5
+Meu pai é um grande homem
+Me ensinou como ser homem também
+          Em
+Longe do velho eu passei fome
+Isso é passado amém
+        C5
+Mas eu tive quem sempre olhou por mim
+
+[Pré-Refrão]
+
+C5
+ Existe sempre um outro jeito de se poder chegar
+Em
+ Existe sempre um outro jeito de se poder chegar
+C5
+ Existe sim, sangue bom
+
+[Refrão]
+
+           Em       F#5    G5           A5     G5  A5
+Sempre sonhei em fazer um som que fosse a cara
+     D5           C5
+E então poder chegar em algum lugar
+         Em      F#5   G5    A5   G5  A5
+Ver a garota sorrir,  a galera pular
+        D5          C5
+A multidão a me chamar, ah que lindo está, yeah
+
+ Em5
+Dizem que ele é bom
+    F#5                   G5
+Eu também mostro quem eu sou
+        A5
+Aquele mano se ligou
+        G5       A5
+Se ele não, demorou
+D5                 C5
+ Os manos ali de trás
+ Podem ensinar você
+ Em  5
+Dizem que ele é bom
+    F#5                   G5
+Eu também mostro quem eu sou
+        A5
+Aquele mano se ligou
+        G5       A5
+Se ele não, demorou
+D5                 C5
+ Os manos ali de trás
+
+[Final] Em  C5  Em  C5
+        Em  C5  Em  C5  Em
+
+   Em                       C5
+E|--------------------------0---5*--------------------|
+B|--------------------------0-----5*--5*--5*----------|
+G|--------------------------0-------5*------5*--5*----| (3x)
+D|--------------------------2-----------------5*------|
+A|----7-9----10----9----7---3-------------------------|
+E|-0-------0-----0----0-------------------------------|
+
+   Em                       C5                      Em
+E|--------------------------0---5*------------------0-|
+B|--------------------------0-----5*--5*--5*--------0-|
+G|--------------------------0-------5*------5*--5*--0-|
+D|--------------------------2-----------------5*----2-|
+A|----7-9----10----9----7---3-----------------------2-|
+E|-0-------0-----0----0-----------------------------0-|
+
+----------------- Acordes -----------------
+A*  = X 0 2 2 2 0 - (*G# na forma de A)
+B*  = X 2 4 4 4 2 - (*A# na forma de B)
+C#*  = X 4 6 6 6 4 - (*C na forma de C#)
+D#m*  = X X 1 3 4 2 - (*Dm na forma de D#m)

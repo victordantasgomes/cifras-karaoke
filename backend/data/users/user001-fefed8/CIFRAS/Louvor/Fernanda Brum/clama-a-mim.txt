@@ -1,0 +1,49 @@
+@titulo: clama-a-mim
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Clama a Mim
+
+Intro: G  G  F#  E  D  E  F#
+       G  F#  E  D  E  F# (7x)
+       D  G
+
+D             Em
+Teus olhos, cansados,
+F#m        G    F#m Em
+Tua alma, ferida-aa-aa
+   A
+O que fazer?
+D         Em
+Perdido, sozinho
+F#m         G                     Em
+Cativo no exilio do teu próprio coração,
+            A
+Não fique assim!
+                     Em            A    G       D
+se eu te dou o meu perdão, mas a tua voz quer ouvir.
+  D               A
+Clama a mim, em qualquer lugar,
+              Em               G
+Se pedires com fé, o céu se abrirá.
+
+D                 A
+Clama a mim, em qualquer lugar,
+               Em       G     A         D
+Se pedires com fé, o céu se abrirá sobre ti.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

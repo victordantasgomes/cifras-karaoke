@@ -1,0 +1,76 @@
+@titulo: leva-me
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Leva-me
+
+Intro: D9  G/B  F#m7  Em7   A4
+
+D9                         Bm7
+   Longe de Ti não quero ficar
+D9         D/F#           G                G/B
+   Longe do Teu amor não posso viver
+D9                      Bm7    D/F#
+   Leva-me até aquele lugar
+G           D/F#        Em7         G/A
+   De intimidade e comunhão (1x volta ao ínicio)
+
+      A4    A  Bm7
+Pelo Teu espírito
+             G
+Leva-me, Senhor
+         C7/9     Bm7
+Aos Teus rios
+                 G
+Leva-me em Teus braços
+      C9    G/B   G/A       D9       C9   G/B  Bb6
+Ao lugar secreto,      da adoração
+
+
+D9                        Bm7
+    Teu coração desejo tocar
+D9           D/F#        G                G/B
+    Ver Tua própria vida me envolver
+D9                          Bm7   D/F#
+    Em Tua presença me derramar
+G           D/F#         Em7
+    E mergulhar na Tua unção
+
+        A9    Bm7
+Quebra todo jugo
+             G
+No meu interior
+     C7/9    Bm7
+ROMPE AS CADEIAS
+  Bb6          G
+Liberta-me Senhor
+      C9      G/B   Bb6          D9
+Quero ir mais fundo     no Teu amor
+
+(A Bm7 F#m7  Em7  G/A  A )
+
+( G  Em7  D ) (2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A9 = X 0 2 2 0 0
+Bb6 = X 1 3 0 3 X
+Bm7 = X 2 4 2 3 2
+C7/9 = X 3 2 3 3 X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3

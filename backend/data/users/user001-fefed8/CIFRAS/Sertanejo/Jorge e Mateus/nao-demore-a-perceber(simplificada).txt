@@ -1,0 +1,134 @@
+@titulo: nao-demore-a-perceber(simplificada)
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Não Demore a Perceber
+
+Primeira Parte:
+
+(C#m  A5(9)  E  B5(9))
+
+ C#m                   A5(9)
+Vez em quando vem aqui
+ E                 B5(9)
+Leva uma parte de mim
+       F#m  A5(9)
+Me conduz
+              E
+Revira meus planos
+                B5(9)  A5(9)  B5(9)
+E vive em meus sonhos
+
+Segunda Parte:
+
+F#m                     A5(9)
+  E vem me ver na madrugada
+                  E
+Não demora quase nada
+
+                   B5(9)
+Tudo fica sempre pra outra hora
+
+F#m                   A5(9)
+  Será que vai ter o dia
+                     E
+De eu ter sua companhia
+                      B5(9)
+E nunca mais ver você ir embora
+
+Refrão:
+           C#m
+Eu não me vejo sem você
+          A5(9)
+Só não demore a perceber
+         E                        B5(9)
+O tempo voa, o dia passa e esse amor acaba
+           C#m
+Se não há nada a perder
+           A5(9)
+Então vai ter que escolher
+E             B5(9)
+  Desembaça, vê se não me atrasa não
+
+Repeta a Primeira e Segunda Parte:
+
+(C#m  A5(9)  E   B5(9))
+
+ C#m                   A5(9)
+Vez em quando vem aqui
+ E                 B5(9)
+Leva uma parte de mim
+       F#m  A5(9)
+Me conduz
+              E
+Revira meus planos
+                B5(9)  A5(9)  B5(9)
+E vive em meus sonhos
+
+F#m                     A5(9)
+  E vem me ver na madrugada
+                  E
+Não demora quase nada
+                   B5(9)
+Tudo fica sempre pra outra hora
+
+F#m                   A5(9)
+  Será que vai ter o dia
+                     E
+De eu ter sua companhia
+                      B5(9)
+E nunca mais ver você ir embora
+
+Variações do Refrão:
+
+           C#m
+Eu não me vejo sem você
+          A5(9)
+Só não demore a perceber
+         E                        B5(9)
+O tempo voa, o dia passa e esse amor acaba
+           C#m
+Se não há nada a perder
+           A5(9)
+Então vai ter que escolher
+E           B5(9)
+  Desembaça
+
+           C#m
+Eu não me vejo sem você
+          A5(9)
+Só não demore a perceber
+         E                        B5(9)
+O tempo voa, o dia passa e esse amor acaba
+           C#m
+Se não há nada a perder
+           A5(9)
+Então vai ter que escolher
+E             B5(9)
+  Desembaça, vê se não me atrasa não
+
+(C#m  A5(9))
+                                  B5(9)
+O tempo voa, o dia passa e esse amor acaba
+           C#m
+Se não há nada a perder
+           A5(9)
+Então vai ter que escolher
+E             B5(9)
+  Desembaça, vê se não me atrasa não
+
+(C#m  A5(9)  E  B5(9)  C#m)
+
+----------------- Acordes -----------------
+A5(9) = X 0 2 2 0 0
+B5(9) = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

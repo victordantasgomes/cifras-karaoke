@@ -1,0 +1,62 @@
+@titulo: se-nao-fosse-o-senhor
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Se Não Fosse o Senhor
+
+(intro 2x) Dm Bb C Dm
+           Dm Bb C
+
+       Dm      Bb              C              Dm
+Se não fosse o Senhor, que estivesse em nosso lado
+          Dm          Bb       C    Dm
+Quando os homens contra nós se levantaram
+     Dm       Bb    C       Dm
+Certamente já teriam, nos devorado
+    Dm   Bb        C      Dm
+Sua ira acendeu-se contra nós
+        Am        Bb           C     Dm
+As mais poderosas ondas, nos teriam afogado
+        Am       Bb                 C         Dm
+As mais fortes correntezas, pra bem longe nos levado
+       Gm   C     Dm
+Se não fosse o Senhor
+
+        Am   Bb                C    Dm
+Bendito seja Deus, que não nos entregou,
+            Gm            F    C
+Nas mãos de quem nos perseguia
+         Am   Bb             F   C           Gm        F      C
+Tal como pássaro, nossa alma escapou do laço do passarinheiro,
+          Gm    C                 (intro)
+Pra longe voarei, bendito é o Senhor
+
+(repete tudo)
+
+        Am   Bb                C    Dm
+Bendito seja Deus, que não nos entregou,
+            Gm            F    C
+Nas mãos de quem nos perseguia
+         Am   Bb             F   C           Gm        F      C
+Tal como pássaro, nossa alma escapou do laço do passarinheiro,
+          Gm    C                Dm
+Pra longe voarei, bendito é o Senhor
+
+(solo base 6x) Dm Bb C9 Dm
+               Dm Bb C
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

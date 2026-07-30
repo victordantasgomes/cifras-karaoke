@@ -1,0 +1,40 @@
+@titulo: eu-te-amo
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Eu Te Amo
+
+Intro:  C   G/B  Dm  F
+
+C        Gm
+Eu Te Amo, eu Te quero
+ F      Dm
+Jesus amor maior
+C
+Tu és tudo que eu preciso
+Gm
+Tu és tudo que eu preciso
+ F      Dm
+Meu oxigênio, meu universo
+
+ C Gm    F Dm
+Oh, oh, Oh, Oh
+
+C      Gm
+Louvarei, louvarei
+ F         Dm
+O eterno Deus dos céus
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G/B = X 2 0 0 3 3
+Gm = 3 5 5 3 3 3

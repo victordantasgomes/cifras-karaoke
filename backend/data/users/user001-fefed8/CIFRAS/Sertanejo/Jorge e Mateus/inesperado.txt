@@ -1,0 +1,165 @@
+@titulo: inesperado
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Inesperado
+
+[Intro]  D9
+
+E|--------------------------------------|
+B|----------3----3------3---------------|
+G|--------2-----------2---2-------------|
+D|------0------0----0-------------------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+E|--0-x-x-0-x-x-0-x-0-x--0-2-3-2--------|
+B|--3-x-x-3-x-x-3-x-3-x--3-3-3-3--------|
+G|--2-x-x-2-x-x-2-x-2-x--2-2-2-2--------|
+D|--0-x-x-0-x-x-0-x-0-x--0-0-0-0--------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+D                           D/F#
+  Entrei pra ver se dava a pé
+           G
+Nesse amor, mergulhei
+D                       D/F#
+  Que atire a primeira pedra
+
+  Quem não se entregou
+G
+  Como eu me entreguei
+      D/F#      Em
+Se jogar de primeira
+            A
+E fazer besteira
+             G
+Entrar de cabeça
+               Bm
+Sem nada a perder
+                    E
+É tão bom quando a gente encontra
+     G
+A metade da gente
+   Gm
+Assim de repente
+    Bm       A      G
+O inesperado aconteceu
+
+D
+  Por mais você na minha vida
+  Todo tempo
+A
+  Por mais vida nesse amor
+  Mais sentimento
+ Bm
+Teu olhar refletido
+                      G
+Na curva do teu sorriso
+         A
+Você é quem me faz todo sentido
+D
+  Por mais você na minha vida
+  Todo tempo
+A
+  Por mais vida nesse amor
+  Mais sentimento
+ Bm
+Teu olhar refletido
+                      G
+Na curva do teu sorriso
+        A
+Você aqui faz todo sentido
+
+[Solo] D A Bm G  A
+
+E|--------------------------------------|
+B|----3-3--5-5/7--3-3--5-5/7-3-5-5/7----|
+G|--------------------------------------|
+D|--------------------------------------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+E|--------------------------------------|
+B|----2-2--3-3/5--2-2--3-3/5 2-3-3/5----|
+G|--------------------------------------|
+D|--------------------------------------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+E|------------------------------------------------------------|
+B|----7p5----------7p5-----------------------10p8-7-----------|
+G|--------7-7p6-4------7-6h7-6/4/2-2/4-------------9-7---7/9--|
+D|-----------------------------------------------------9------|
+A|------------------------------------------------------------|
+E|------------------------------------------------------------|
+
+                Em
+Se jogar de primeira
+            A
+E fazer besteira
+             G
+Entrar de cabeça
+               Bm
+Sem nada a perder
+                    E
+É tão bom quando a gente encontra
+     G
+A metade da gente
+   Gm
+Assim de repente
+    Bm       A      G
+O inesperado aconteceu
+
+D
+  Por mais você na minha vida
+  Todo tempo
+A
+  Por mais vida nesse amor
+  Mais sentimento
+ Bm
+Teu olhar refletido
+                      G
+Na curva do teu sorriso
+        A
+Você aqui faz todo sentido
+D
+  Por mais você na minha vida
+  Todo tempo
+A
+  Por mais vida nesse amor
+  Mais sentimento
+ Bm
+Teu olhar refletido
+                      G
+Na curva do teu sorriso
+         A                      #Riff
+Você é quem me faz todo sentido
+
+[Final]  G  D  A
+
+E|-----------------------------------------|
+B|--------8-5h7---8-5h7-5/3-5/7------------|
+G|----7/9-------7----------------6-6-7-9---|
+D|-----------------------------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

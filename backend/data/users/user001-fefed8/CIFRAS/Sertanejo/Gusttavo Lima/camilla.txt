@@ -1,0 +1,56 @@
+@titulo: camilla
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Camilla
+
+(intro) A E F#m C#m D Bm
+
+A           F#m           D      Bm     E
+Linda, maravilhosa, beleza rara, muito dengosa
+A           F#m                   D          Bm           E
+Princesa, que amo de paixão, você é pra mim muito mais que uma ilusão
+D                    E                A                  B
+Deixa eu te mostrar, deixa acontecer, essa paixão gostosa entre eu e você
+  E                        A
+E Viajar no desejo desse amor pra valer
+A                   E          F#m                     C#m               D
+Camilla, você endoidou meu coração, me apaixonei de verdade, to em suas mãos
+                 Bm                 E
+E desse sonho bonito não quero acordar
+A                    E              F#m                  C#m               D
+Camilla, ficar sem você não tem sentido, sou amor sem paixão, sou caso perdido
+             E                A  E
+E por toda vida só quero te amar
+
+(intro) A E F#m C#m D Bm
+
+
+D                    E                A                  B
+Deixa eu te mostrar, deixa acontecer, essa paixão gostosa entre eu e você
+  E                        A
+E Viajar no desejo desse amor pra valer
+A                   E          F#m                     C#m               D
+Camilla, você endoidou meu coração, me apaixonei de verdade, to em suas mãos
+                 Bm                 E
+E desse sonho bonito não quero acordar
+A                    E              F#m                  C#m               D
+Camilla, ficar sem você não tem sentido, sou amor sem paixão, sou caso perdido
+             E                A  E
+E por toda vida só quero te amar    (2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

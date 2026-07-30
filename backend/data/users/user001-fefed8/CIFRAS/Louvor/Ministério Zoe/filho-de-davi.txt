@@ -1,0 +1,43 @@
+@titulo: filho-de-davi
+@autor:
+@intérprete: Ministério Zoe
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Zoe - Filho de Davi
+
+Intro: ( Em, D/F#, C )
+
+G           C     G
+Filho de davi, vem me restaurar
+G                      C   Em D/F#        C
+Preciso de um toque teu, vem me libertar
+ G          C   G/B                C     Em      D/F#
+Ouço uma voz que diz, o que queres que eu te faça?
+Am                             G/B C
+Eu quero te enxergar, te contemplar
+F          D
+Jesus
+
+  Refrão:
+G                          D/F#
+Se achei graça aos teus olhos
+          Em                    C
+Se achei graça aos teus olhos
+G        D/F#     Em          C
+Mostra-me tua glória
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

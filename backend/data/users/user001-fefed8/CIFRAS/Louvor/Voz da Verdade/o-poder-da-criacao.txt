@@ -1,0 +1,38 @@
+@titulo: o-poder-da-criacao
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - O Poder da Criação
+
+G             C     G
+Eu Vejo o dia clarear
+              C               G
+Eu vejo o rio que corre pro mar
+            C
+Eu vejo o sol que sai no horizonte
+                                      G
+Não há quem conte melhor a beleza de Deus
+                  Am              D           G
+Que os próprios olhos que veem o poder da criação
+               C                             G
+Foi Ele quem fez os céus e a terra e o firmamento
+               Am  D            G  G7
+Deu força ao vento e beleza a flor
+                 C                     G
+Foi Ele quem fez a luz e o poder do amor
+                 Am  D           G
+Fez o homem a imagem do seu Criador
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

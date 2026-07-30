@@ -1,0 +1,48 @@
+@titulo: se-cuida
+@autor:
+@intérprete: Zé Neto e Cristiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zé Neto e Cristiano - Se Cuida
+
+Intro: F#m  A9  E
+
+F#m              A9
+Tentamos juntos, eu e você
+E
+Mas o destino não deixou acontecer
+F#m           A9
+Faltou rosas, sobrou espinhos
+E
+Vamos ter que seguir sozinhos
+Bm
+Mas leva na bagagem a certeza que eu te amo
+F#m
+Eu tentaria outra vez, eu tenho mil planos
+Bm
+Eu não mereço, eu sei, mas vou pagar o preço
+F#m                          E
+Eu te deixo ir só pra te ver sorrir
+Só pra te ver sorrir
+A9                                  E
+Pode ir embora que eu vou ficar te esperando
+
+        (passagem por A9)      Bm
+Enquanto isso eu vou te desejando
+Amor e paz, seja feliz bem mais
+E
+Só vê se toma juízo e se cuida
+( A9  E  A9  Bm  E )
+(Repete desde o início)
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

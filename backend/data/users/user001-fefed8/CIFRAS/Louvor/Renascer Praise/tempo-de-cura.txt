@@ -1,0 +1,82 @@
+@titulo: tempo-de-cura
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Tempo de Cura
+
+(intro 2x) F    Eb/F    F   Eb/F
+
+ F                   Eb/F
+Eu preciso viver nesse tempo o teu favor
+ F                   Cm7
+Caminhar pela fé em direção ao meu milagre
+  Bb           C7       Dm
+Alcançar e viver tua cura ver de novo os céus abertos
+  F/G     Csus4       C
+E ouvir Tua voz ordenando: “Levanta e anda!"
+
+     F    C/E
+Tempo de cura de milagres
+ Bb         Gm        Csus4 C
+Vem agora e rompe em mim com  teu poder
+     F     Cm7
+Tempo de cura de milagres
+ Bb7       Csus4     C            F
+Tomo posse dessa unção deste poder
+
+(intro)  F   Eb/F   F    Eb/F
+
+
+ F                  Eb/F
+Não haverá impossíveis para o meu Deus
+  F                  Cm7
+Prometeu que estaria entre nós todos os dias
+ Bb                        C7  Dm
+Tua palavra Tua graça e amor me renovam, me enchem de fé
+ F/G                 Csus4    C
+É o mistério que me faz viver ressurreição
+
+  F#7   C#/F
+Tempo de cura de milagres
+ B7       Abm7       C#sus4   C#7
+Vem agora e rompe em mim com  teu poder
+  F#7        C#m7
+Tempo de cura de milagres
+ B7        C#sus4   C#7           F#7
+Tomo posse dessa unção deste poder
+
+ B7           C#7
+Vem sobre mim vem sobre mim
+  B/Eb          C#/F
+Tempo de cura vem sobre mim
+ B/Eb           C#/F
+Vem sobre mim vem sobre mim
+
+----------------- Acordes -----------------
+Abm7 = 4 X 4 4 4 X
+B/Eb = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+Bb = X 1 3 3 3 1
+Bb7 = X 1 3 1 3 1
+C = X 3 2 0 1 0
+C#/F = X 8 X 6 9 9
+C#7 = X 4 3 4 2 X
+C#m7 = X 4 6 4 5 4
+C#sus4 = X 4 4 1 2 X
+C/E = 0 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Cm7 = X 3 5 3 4 3
+Csus4 = X 3 3 0 1 X
+Dm = X X 0 2 3 1
+Eb/F = X 8 8 8 8 X
+F = 1 3 3 2 1 1
+F#7 = 2 4 2 3 2 2
+F/G = 3 X 3 2 1 X
+Gm = 3 5 5 3 3 3

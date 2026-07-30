@@ -1,0 +1,135 @@
+@titulo: um-sonho-louco
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Um Sonho Louco
+
+Intro:  G  A  D  Em  G  A  D
+
+Solo:
+
+     G           A              D                 Em
+E|-------------------------------------------------------|
+B|--------------------------7-7----7-8-10-7--------------|
+G|-----7------7-7-----7-7-9-----------------9-7-9---7-9--|
+D|-9-9----9-9-----9-9-----------------------------9------|
+A|-------------------------------------------------------|
+E|-------------------------------------------------------|
+
+     G           A              D
+E|-------------------------------|
+B|--------------------------7-7--|
+G|-----7------7-7-----7-7h9------|
+D|-9-9----9-9-----9-9------------|
+A|-------------------------------|
+E|-------------------------------|
+
+             Em            A4  A
+Foi tão difícil entender
+
+        F#m             Bm7
+Foi complicado pra mim
+            G                A4  A
+Hoje eu sonhei com você
+          D
+Nunca sofri tanto assim
+
+        Em              A4  A
+Te vi beijando na boca
+                F#m       Bm7
+De alguém que não era eu
+         Em               G
+E entregou feito louca
+         A           D          A
+Aquele amor que era meu
+
+Refrão
+           D
+Quando acordei, estava ali
+            Em
+Bem do meu lado
+      D/F#  G      D/F#     Em   A
+Nem tem acordei, então te amei
+       D              A        G/B   A/C#
+Desesperado, inconformado
+         D              D#°
+Então me olhou, e perguntou
+          G                 Gm
+Do meu sufoco, se eu fiquei louco
+            D          A
+É que eu perdi o seu amor
+        D
+Num sonho louco
+
+
+Solo
+
+E|-------------------------------------------------------------------|
+B|-7-8-10-----7-----7-8-10-----------7---------------------------7-7-|
+G|--------9-----9----------7---9-8-9---------7-----7-7-----7-7h9-----|
+D|----------9----------------9-----------9-9---9-9-----9-9-----------|
+A|-------------------------------------------------------------------|
+E|-------------------------------------------------------------------|
+
+        Em              A4  A
+Te vi beijando na boca
+                F#m       Bm7
+De alguém que não era eu
+         Em               G
+E entregou feito louca
+         A           D          A
+Aquele amor que era meu
+
+Refrão
+           D
+Quando acordei, estava ali
+            Em
+Bem do meu lado
+      D/F#  G      D/F#     Em   A
+Nem tem acordei, então te amei
+       D              A        G/B   A/C#
+Desesperado, inconformado
+         D              D#°
+Então me olhou, e perguntou
+          G                 Gm
+Do meu sufoco, se eu fiquei louco
+            D          A
+É que eu perdi o seu amor
+        D
+Num sonho louco
+
+             D          A
+É que eu perdi o seu amor
+             D
+Num sonho louco
+
+
+Solo Final
+
+E|-------------------------------|
+B|--------------------------7-7--|
+G|-----7------7-7-----7-7h9------|
+D|-9-9----9-9-----9-9------------|
+A|-------------------------------|
+E|-------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D#° = X X 1 2 1 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+Gm = 3 5 5 3 3 3

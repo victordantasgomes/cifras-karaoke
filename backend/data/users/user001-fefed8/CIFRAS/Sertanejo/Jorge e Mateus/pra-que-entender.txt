@@ -1,0 +1,155 @@
+@titulo: pra-que-entender
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Jorge e Mateus - Pra Que Entender?
+
+Capo Casa 2
+
+Intro 2x: G  D  C9
+        G               D              C9
+E|------9----9----------7---7----------4---5--------|
+B|--/10---10---10----/9---9---9----5h7-------/7~----|
+G|--------------------------------------------------|
+D|--------------------------------------------------|
+A|--------------------------------------------------|
+E|--------------------------------------------------|
+
+        G               D          C9
+E|------9----9----------7---7------10p9-------------|
+B|--/10---10---10----/9---9---9---x-----10~~--------|
+G|-------------------------------x-----------9/11~~-|
+D|--------------------------------------------------|
+A|--------------------------------------------------|
+E|--------------------------------------------------|
+
+Verso (Abafado):
+Em
+  O que tem por trás desse sorriso
+C9
+  Que me deixa fissurado em você
+
+Em
+  É um misto de desejo e vício
+C9
+  Já tentei, mas não consigo entender
+
+Pré-Refrão:
+G                      D9
+  Toda vez que eu te encontro
+          C9
+Sinto os pés fora do chão
+G                   D9
+ Toda vez que eu te olho
+        C9
+Não consigo dizer não
+
+Refrão 2x:
+Am
+ Por mais que eu queira
+                            G
+Não consigo mais pensar em nada
+Am
+ Quando eu notei, já era amor
+             G
+Eu não imaginava
+
+                 Am ( G/B ) C9
+Que eu fosse querer
+       G  (Riff 1)
+Era você
+              Am ( G/B ) C9
+Pra quê entender
+                G  (Riff 1)
+Eu tô amando você
+Riff 1:
+E|---------------------------------|
+B|---------------------------------|
+G|-/-9--9--9--9--7--7--7--6--6--6--|
+D|-/11-11-11-11--9--9--9--7--7--7--|
+A|---------------------------------|
+E|---------------------------------|
+
+Passagem 2x:
+Em
+ Na na na na na
+
+ Na na na na na
+C9
+ Na na na na na
+
+ Na na na na na
+
+Pré-Refrão:
+G                      D9
+  Toda vez que eu te encontro
+          C9              (Riff 2)
+Sinto os pés fora do chão
+G                   D9
+ Toda vez que eu te olho
+        C9
+Não consigo dizer não
+Riff 2:
+E|--------------------|
+B|--3p2---3/5~~--3--2-|
+G|------4-------------|
+D|--------------------|
+A|--------------------|
+E|--------------------|
+
+Refrão 2x:
+Am
+ Por mais que eu queira
+                            G
+Não consigo mais pensar em nada
+Am
+ Quando eu notei, já era amor
+             G
+Eu não imaginava
+
+                 Am ( G/B ) C9
+Que eu fosse querer
+       G  (Riff 1)
+Era você
+              Am ( G/B ) C9
+Pra que entender
+                G   (Riff 1)
+Eu tô amando você.
+
+Passagem - Final 2x:
+Em
+ Na na na na na
+
+ Na na na na na
+C9
+ Na na na na na
+
+ Na na na na na
+
+( Em )
+Sanfona - Durante Passagens:
+E|-----------------------------------------------12-10-9-10-9~\|
+B|-10-10-10-9-10~--10-10-10-9-10~--10-10-10-9-10~--------------|
+G|-------------------------------------------------------------|
+D|-------------------------------------------------------------|
+A|-------------------------------------------------------------|
+E|-------------------------------------------------------------|
+
+
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+Am*  = X 0 2 2 1 0 - (*Bm na forma de Am)
+C*  = X 3 2 0 1 0 - (*D na forma de C)
+C9*  = X 3 2 0 3 0 - (*D9 na forma de C9)
+D*  = X X 0 2 3 2 - (*E na forma de D)
+D9*  = X X 0 2 3 0 - (*E9 na forma de D9)
+Em*  = 0 2 2 0 0 0 - (*F#m na forma de Em)
+G*  = 3 2 0 0 0 3 - (*A na forma de G)
+G/B*  = X 2 0 0 3 3 - (*A/C# na forma de G/B)

@@ -1,0 +1,65 @@
+@titulo: nas-palmas-das-minhas-maos
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - Nas Palmas Das Minhas Mãos
+
+D9                     G9
+NAS PALMAS DAS MINHAS MÃOS
+D/F#                A9
+EU SEMPRE TE GUARDAREI
+D9              D/F#   G9
+NAS TUAS PROVAÇÕES
+G/E              A      A#°
+TEU LIVRAMENTO SEREI
+   Bm7          F#m7
+NÃO TEMAS FILHO MEU
+G9            A  A#°
+NUNCA TE DEIXAREI
+Bm7             F#m7
+SEMPRE CONTIGO ESTOU
+G9              A4   A9
+JAMAIS TE ESQUECEREI
+      G9                   A/G
+MESMO QUE A MÃE VIESSE A ESQUECER
+      D        D/F#        G9
+DO FILHO QUE TROUXE A NASCER
+         G/E
+EU, TODAVIA, NÃO...
+      G/A           A9            D9   D/F#
+JAMAIS ME ESQUECEREI DE TI
+         G9                    A/G
+EIS QUE NAS PALMAS DAS MINHAS MÃOS
+     F#4      F#/A#      Bm7
+EU TE GUARDEI, Ó FILHO MEU
+2°  Em7   G/A                 Bm7 D/F#
+1°  Em7   G/A                 Bm7 Bm/A E/G# G9 A9 G/D D9
+CONTINUAMENTE ESTÁ TUA VIDA DIANTE
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#° = X 1 2 0 2 0
+A/G = 3 X 2 2 2 X
+A4 = X 0 2 2 3 0
+A9 = X 0 2 2 0 0
+Bm/A = X 0 4 4 3 X
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+E/G# = 4 X 2 4 5 X
+Em7 = 0 2 2 0 3 0
+F#/A# = 6 X 4 6 7 X
+F#4 = 2 4 4 4 2 2
+F#m7 = 2 X 2 2 2 X
+G/A = 5 X 5 4 3 X
+G/D = X 5 5 4 3 X
+G/E = 0 2 0 0 3 3
+G9 = 3 X 0 2 0 X

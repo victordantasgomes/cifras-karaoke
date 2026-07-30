@@ -1,0 +1,64 @@
+@titulo: anos-80
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Anos 80
+
+Intro: B7 A E
+
+ E        A       B7                      E
+Hey, anos 80. Charrete que perdeu o condutor.
+          A           B7                  E           B7                   E
+Hey, anos 80. Melancolia e promessas de amor.  Melancolia e promessas de amor.
+     (E)                                                              E/G#   A
+É o juíz das 12 varas de caniço e samburá dando atestado que o compositor errou.
+           A           A#°           E/B            C#7         F#m              B7          E E7
+Gente afirmando não querendo afirmar nada, que o cantor cantou errado e que a censura concordou.
+           A           A#°           E/B            C#7         F#m              B7          E B7
+Gente afirmando não querendo afirmar nada, que o cantor cantou errado e que a censura concordou.
+ E        A        B7                     E
+Hey, anos 80. Charrete que perdeu o condutor.
+                        A           B7                  E            B7                    E
+Eu disse: hey, hey anos 80. Melancolia e promessas de amor.  Melancolia e promessas de amor.
+ (B7 C7)
+Hey, abram alas. Ai viem los anios oitienta. La mamacita, ui!
+ F        Bb       C7                     F
+Hey, anos 80. Charrete que perdeu o condutor.
+ F       Bb         C7                   F           C7                   F
+Hey anos 80. Melancolia e promessas de amor.  Melancolia e promessas de amor.
+
+        F                                                           F/A         Bb
+Pobre país carregador dessa miséria dividida entre Ipanema e a empregada do patrão.
+    Bb               Bo        F/C          D7         Gm            C7         F F7
+Varrendo lixo pra debaixo do tapete que é supostamente persa pra alegria do ladrão.
+    Bb               Bo        F/C          D7         Gm            C7         F C7
+Varrendo lixo pra debaixo do tapete que é supostamente persa pra alegria do ladrão.
+ F        Bb      C7                      F
+Hey, anos 80. Charrete que perdeu o condutor.
+           F        Bb           C7                        F   (F Bb) F
+Eu disse: hey, anos 80. Que esperança
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#° = X 1 2 0 2 0
+B7 = X 2 1 2 0 2
+Bb = X 1 3 3 3 1
+C#7 = X 4 3 4 2 X
+C7 = X 3 2 3 1 X
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F/A = 5 X 3 5 6 X
+F/C = X 3 3 2 1 1
+F7 = 1 3 1 2 1 1
+Gm = 3 5 5 3 3 3

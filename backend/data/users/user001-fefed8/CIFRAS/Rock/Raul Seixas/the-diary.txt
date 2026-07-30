@@ -1,0 +1,82 @@
+@titulo: the-diary
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - The Diary
+
+Intro:A#
+A#         Gm        Cm        F
+
+ Ah ah ah ah oh oh oh oh oh oh oh oh
+
+A#
+How I'd like to look
+Gm
+Into that little book
+Cm                              F
+The one that has the locking key
+D#7         D#m            A#   Gm
+And know the boy that you care for
+C7                    F
+The boy who is in your diary
+
+A#
+When it's late at night
+Gm
+What is the name you write
+Cm                            F
+Oh what I'd give if I could see
+
+D#7       D#m         A#       Gm
+Am I the boy that you care for?
+C7           F       A#
+The boy who is in your diary
+FM6/9         A#
+Do you recall
+Fm6/9           A#
+And make note of all
+D#7
+The little things I say and do
+Gm                       cm6
+The name you underline
+Gm                 cm6
+I'm hopping that's mine
+cm6                          F   F#
+Darling I'm so in love with you
+
+B
+Please don't leave me blue
+G#m
+Make all my dreams come true
+C#m                            F#
+You know how much you mean to me
+E7            Em         B    G#m
+Say I'm the boy that you care for
+C#7           F#             B
+The boy who is in your diary.
+G#m      C#m      F#      B      G#m    C#m    F#    B
+Oh oh oh oh oh oh oh
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+B = X 2 4 4 4 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+C7 = X 3 2 3 1 X
+Cm = X 3 5 5 4 3
+D#7 = X 6 5 6 4 X
+D#m = X X 1 3 4 2
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+Fm6/9 = 1 X 0 1 3 3
+G#m = 4 6 6 4 4 4
+Gm = 3 5 5 3 3 3

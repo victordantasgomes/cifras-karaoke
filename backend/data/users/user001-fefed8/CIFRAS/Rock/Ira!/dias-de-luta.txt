@@ -1,0 +1,78 @@
+@titulo: dias-de-luta
+@autor:
+@intérprete: Ira!
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ira! - Dias de Luta
+
+(riff)
+E|-0--0-0-0--0--0--0-0-0--0-0-0-0-|
+B|-1--1-1-1--0--1--1-1-1--0-1-0-1-|
+G|-2--2-2-2--0--2--2-2-2--0-2-0-2-| (2x)
+D|-2--2-2-2--0--2--2-2-2--0-2-0-2-|
+A|-0--0-0-0--0--0--0-0-0--0-0-0-0-|
+E|--------------------------------|
+
+(intro)
+
+E|-0--0-0-0--0--0--0-0-0--0-0-0-0-||   ||-0--0-0-0--0--0--0-0-0--0-0-0-0-||
+B|-1--1-1-1--0--1--1-1-1--0-1-0-1-||   ||-1--1-1-1--0--1--1-1-1--0-1-0-1-||
+G|-2--2-2-2--0--2--2-2-2--0-2-0-2-||2 x||-2--2-2-2--0--2--2-2-2--0-2-0-2-|| (2x)
+D|-2--2-2-2--0--2--2-2-2--0-2-0-2-||   ||-3--3-3-3--0--3--3-3-3--0-3-0-3-||
+A|-0--0-0-0--0--0--0-0-0--0-0-0-0-||   ||--------------------------------||
+E|--------------------------------||   ||--------------------------------||
+
+Am                  Em                            Am
+Só depois de muito tempo fui entender aquele homem
+                  Em                        Am
+Eu queria ouvir muito mas ele me disse pouco
+
+C       F7M          Em           F7M             C
+Quando se sabe ouvir não precisam muitas palavras
+       F7M           Em           F7M               Am  Em     Am
+Muito tempo eu levei pra entender que nada sei... que nada sei
+
+                    Em                      Am
+Só depois de muito tempo comecei a entender
+                Em                     Am
+Como será meu futuro, como será o seu?
+C      F7M           Em        F7M            C
+Se meu filho nem nasceu, eu ainda sou o filho
+           F7M                Em         F7M        Am  Em
+Se hoje eu canto essa canção, o que cantarei depois
+          Am
+Cantar depois... o quê?!!
+
+C      F7M      Em        F7M                  C
+Se sou eu ainda jovem passando por cima de tudo
+        F7M               Em          F7M       Am
+Se hoje canto essa canção o que cantarei depois
+
+     Am            Em                       Am
+Só depois de muito tempo comecei a refletir
+                 Em
+Nos meus dias de paz
+                     Am
+Nos meus dias de luta
+C      F7M        Em      F7M                   C
+Se sou eu ainda jovem passando por cima de tudo
+        F7M                Em         F7M        Am
+Se hoje canto essa canção, o que cantarei depois
+C      F7M        Em      F7M                   C
+Se sou eu ainda jovem passando por cima de tudo
+        F7M                Em         F7M        Am
+Se hoje canto essa canção, o que cantarei depois
+          Am
+Cantar depois... o quê?
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Em = 0 2 2 0 0 0
+F7M = 1 X 2 2 1 X

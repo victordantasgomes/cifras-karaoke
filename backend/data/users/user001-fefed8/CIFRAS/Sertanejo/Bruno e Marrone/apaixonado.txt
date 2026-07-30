@@ -1,0 +1,41 @@
+@titulo: apaixonado
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Apaixonado 
+
+Intro: A  E  D  A  E  A  E  A  E  A
+
+           A
+Moreninha linda se tu soubesses
+                          E
+O quanto padece quem tem amor
+             D              A
+Talvez não faria o que faz agora
+         E             A
+Quem te adora não tem valor
+            E                    D
+Não vivo sem ti,sem ti não sei viver
+                   E                             A
+Se eu perder seus beijos juro querida que vou morrer
+               E              D
+Vou sofrer por ti,por ti vou sofrer
+              E                       A
+Se for meu destino apaixonado quero morrer
+
+(Intro)
+
+
+(Repete Tudo)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0

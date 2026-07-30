@@ -1,0 +1,54 @@
+@titulo: subirei
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Subirei
+
+Intro: C9 Bb Am Bb C9
+
+        C9                      Am                   Bb
+   Subirei ao teu alto monte e lá te encontrarei Senhor
+            C9           Bb           Am       Bb   Dm
+   eu subirei.Te conhecerei pelo teu nome tua face eu
+       Am         Bb      F           G
+   verei transformado serei por teu amor.
+          C9    G        F       Dm      G
+   Tu és Santo,Santo contigo eu quero estar
+          C9    G        F      Dm   G         F
+   Tu és Santo,Santo vem me santificar ao teu monte
+     Dm  G
+   subirei pra te adorar.(C9 Bb Am Bb F)
+  C9            Am                       Bb
+   Com mãos limpas e um coração puro eu subirei a ti
+      F
+   eu subirei a ti.
+  C9                     Am                     Bb
+   Ao coração quebrantado tu não resistirás me renderei
+            F
+   a ti eu subirei a ti.
+
+         D     A         G     Em   A
+  Tu és Santo,Santo vem me santificar
+         D     A        G       Em      A
+  Tu és Santo,Santo contigo eu quero estar.
+          G        Em   A                final(D C Bb C D)
+  Ao teu monte eu subirei pra te adorar.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

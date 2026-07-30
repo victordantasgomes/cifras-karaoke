@@ -1,0 +1,67 @@
+@titulo: teu-povo
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Teu Povo
+
+Intro: C D/C Bm7 Em7 Am7 D7
+
+         C/G   G         C/G    G
+É o teu povo     aqui presente,
+       Am7    G/B       C         D         C   G
+Todos numa só voz, declarando que só Tu és Grande.
+     C/G G C/G G       C/G G C/G G
+Exaltamos     teu doce nome,
+      Am7      G/B            C       D
+Pelo amor, pela cruz, por teu filho Jesus
+
+        C  G           D
+Pois és Santo, sim, és digno
+      Bm       Em     F  D
+De louvor e de ser adorado.
+      C  G        D
+És bondoso, Pai querido,
+      Bm       Em          F        D        C    G
+Dentre todas as coisas, Tu és verdadeiro, Senhor!
+
+Introdução: C D/C Bm7 Em7 Am7 D7
+
+         C/G   G         C/G    G
+É o teu povo     aqui presente,
+       Am7    G/B       C         D         C   G
+Todos numa só voz, declarando que só Tu és Grande.
+     C/G G C/G G       C/G G C/G G
+Exaltamos     teu doce nome,
+      Am7      G/B            C       D
+Pelo amor, pela cruz, por teu filho Jesus
+
+        C  G           D
+Pois és Santo, sim, és digno
+      Bm       Em     F  D
+De louvor e de ser adorado.
+      C  G        D
+És bondoso, Pai querido,
+      Bm       Em          F        D        C    G
+Dentre todas as coisas, Tu és verdadeiro, Senhor!
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

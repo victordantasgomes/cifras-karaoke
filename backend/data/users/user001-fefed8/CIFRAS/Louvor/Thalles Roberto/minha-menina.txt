@@ -1,0 +1,103 @@
+@titulo: minha-menina
+@autor:
+@intérprete: Thalles Roberto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Thalles Roberto - Minha Menina
+
+Intro:
+
+Parte 1 de 3
+
+E|-----------------------------------
+B|-----------------------------------
+G|-------0---0-----------------------
+D|-0-2-4---4---4-2-4-2-0-------------
+A|-----------------------------------
+E|-----------------------------------
+
+Parte 2 de 3
+
+E|-----------------------------------
+B|-----------------------------------
+G|-0-2-4-5-4-5-4-2-4-5-4-2-----------
+D|-----------------------------------
+A|-----------------------------------
+E|-----------------------------------
+
+Parte 3 de 3
+
+
+                          D#º
+E|-----------------------------------
+B|------------------------1----------
+G|-------0---0------------2----------
+D|-0-2-4---4---4-2-4-2-0--1----------
+A|-----------------------------------
+E|-3-----------3---------------------
+
+Primeira Parte:
+
+G                                C/G
+  Ai que vontade de ficar todo dia
+                          G
+Assim com essa menina sou eu
+                            C/G
+Eu vejo que há em mim alegria
+
+Desde que essa menina nasceu
+
+Segunda Parte:
+
+Em7(9)
+       Vontade de ganhar teu cheiro
+Cm7(9)
+       Vontade de te ter aqui
+G                        Am7
+  Vontade de viver seus beijos
+              D7(4/9)   (Intro)
+Vontade de fazer você feliz
+
+(Repete Tudo)
+
+Ponte 2x:
+
+Parte 1 de 1
+
+E|-----------------------------------
+B|-----------------------------------
+G|-------0---0-----------------------
+D|-0-2-4---4---4-2-4-2-0-------------
+A|-----------------------------------
+E|-----------------------------------
+
+Repete Segunda Parte:
+
+Em7(9)
+       Vontade de ganhar teu cheiro
+Cm7(9)
+       Vontade de te ter aqui
+G                        Am7
+  Vontade de viver seus beijos
+              D7(4/9)
+Vontade de fazer você feliz
+
+(Repete Parte 1 e 2 da Intro 2x)
+
+                         G
+Vontade de fazer você feliz
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C/G = 3 3 2 X 1 X
+Cm7(9) = X 3 1 3 3 X
+D#º = X X 1 2 1 2
+D7(4/9) = X 5 5 5 5 5
+Em7(9) = X 7 5 7 7 X
+G = 3 2 0 0 0 3

@@ -1,0 +1,165 @@
+@titulo: a-vida-por-um-fio
+@autor:
+@intérprete: Ira!
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ira! - A vida por um fio
+
+--------------------------------------------
+Tirei esta música do CD Entre Seus Rins, só
+que eu cifrei com o violão, portanto, não
+determinei as distorções que tem nela.
+Esta cifra é como se a música fosse acústica
+quero dizer voz e violão.
+--------------------------------------------
+__________________________________________
+Esta é uma sugestão de como tocar a música:
+
+    A                     C
+E|--5-5-x-5-5-5-x-5-5-5-x-3-3-x--|
+B|--5-5-x-5-5-5-x-5-5-5-x-5-5-x--|
+G|--6-6-x-6-6-6-x-6-6-6-x-5-5-x--|
+D|--7-7-x-7-7-7-x-7-7-7-x-5-5-x--|
+A|--7-7-x-5-7-7-x-7-7-7-x-3-3-x--|
+E|--5-5-x-5-5-5-x-5-5-5-x--------|
+
+    A                     C#
+E|--5-5-x-5-5-5-x-5-5-5-x-4-4-x--|
+B|--5-5-x-5-5-5-x-5-5-5-x-6-6-x--|
+G|--6-6-x-6-6-6-x-6-6-6-x-6-6-x--|
+D|--7-7-x-7-7-7-x-7-7-7-x-6-6-x--|
+A|--7-7-x-5-7-7-x-7-7-7-x-4-4-x--|
+E|--5-5-x-5-5-5-x-5-5-5-x--------|
+
+
+    D                     D#
+E|--5-5-x-5-5-5-x-5-5-5-x-6-6-x--|
+B|--7-7-x-7-7-7-x-7-7-7-x-8-8-x--|
+G|--7-7-x-7-7-7-x-7-7-7-x-8-8-x--|
+D|--7-7-x-7-7-7-x-7-7-7-x-8-8-x--|
+A|--5-5-x-5-5-5-x-5-5-5-x-6-6-x--|
+E|-------------------------------|
+
+Sentido do toque:
+----------------
+
+Quando a linha vertical tiver assim:
+
+                |     
+                |
+                |
+                |
+                -
+
+Isto significa que você ira toca
+para baixo.
+
+E quando estiver assim:
+               _
+               |
+               |
+               |
+               |
+
+Você irá tocar para cima.
+
+Exemplo:
+
+ A                     C
+   _   _   _   _   _   _ _
+ | | | | | | | | | | | | | |
+ | | | | | | | | | | | | | |
+ | | | | | | | | | | | | | |
+ | | | | | | | | | | | | | |
+ -   -   -   -   -   -     -
+
+_______________________________________
+
+
+Introdução: (A C A C#) 2x
+
+A                   C
+Existe nessa terra
+A                     C#
+O equilíbrio natural
+A                   C
+Entre luz e sombra
+A
+Entre o bem e o mal
+
+D                        D#
+Meu Deus, o que vou ser
+    D                     D#
+Quando parar de crescer?
+D
+Não sei o que vou ser
+    D#      D
+Quando parar de crescer?
+
+Introdução
+
+A                  C
+O açúcar me vicia
+A                        C#
+É a indústria do prazer
+A                  C
+Há química em mim
+A                   C#
+Há química em você
+A                  C
+Há química em mim
+A                   C#
+Há química em você
+A                  C
+Há química em mim
+A
+Há quí-mi-ca em você
+
+(A)
+A vida por um fio
+
+A vida por um fio
+
+A vida por um fio
+
+A vida por um fio
+
+A                   C
+Existe nessa terra
+A                     C#
+O equilíbrio natural
+A                   C
+Entre o masoquista
+A
+E o sádico infernal
+
+D                        D#
+Meu Deus, o que vou ser
+    D                     D#
+Quando parar de crescer?
+D
+Não sei o que vou ser
+    D#      D
+Quando parar de crescer?
+
+(A)
+A vida por um fio
+
+A vida por um fio
+
+A vida por um fio
+
+A vida por um fio
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3

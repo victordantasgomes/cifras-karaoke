@@ -1,0 +1,154 @@
+@titulo: admiravel-chip-novo(versão 2)
+@autor:
+@intérprete: Pitty
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Pitty - Admirável Chip Novo
+
+Afinação Original: DROP D - DADGBe
+
+Introdução:
+
+Guit Base: segura a base no Dm (Power Chord), com distorção.
+
+Guit Solo:
+
+   D       C D   D       Bb A  D     C D     A Bb C Bb A
+E |------------------------------------------------------|
+B |------------------------------------------------------|
+G |------------------------------------------------------|
+D |-7-7-7-7-5-7---7-7-7-7-3-2---7-7-7-7-5-7---2-3-5-3-2--|
+A |-5-5-5-5-3-5---5-5-5-5-1-0---5-5-5-5-3-5---0-1-3-1-0--| 2x
+D |-0-0-0-0-0-0---0-0-0-0-0-0---0-0-0-0-0-0---0-0-0-0-0--|
+
+
+Dm
+Pane no sistema alguém me desconfigurou
+F       E                      Eb
+Aonde estão os meus olhos de robô
+
+Dm
+Eu não sabia, eu não tinha percebido
+F          E              Eb
+Eu sempre achei que era vivo
+Dm
+Parafuso e fluido em lugar de articulação
+F             E                   Eb
+Até achava que aqui batia um coração
+Dm
+Nada é orgânico, é tudo programado
+F               E                Eb
+E eu achando que tinha me libertado
+Dm
+Mas lá vem eles novamente, eu sei o que vão fazer
+Reinstalar o sistema
+
+Riff 1:
+
+G |-----------|
+D |-----------|
+A |-----------|
+D |-3-3h5-3-2-|
+
+
+Dm                     F        E            Eb
+Pense,Fale,Compre,Beba,Leia,Vote,não se esqueça
+Dm                F        E            Eb
+Use,Seja,Ouça,Diga,tenha,more,gaste e viva
+Dm                      F       E           Eb
+Pense,Fale,Compre,Beba,Leia,Vote,não se esqueça
+Dm                   F E Eb
+Use,Seja,Ouça,Digaaaa
+
+Ponte:
+
+E |-----------15----------15--------------|
+B |----15-----------15----------15----15--|
+G |-12-----12----12----12----12----12-----| 2x
+D |---------------------------------------|
+A |---------------------------------------|
+D |---------------------------------------|
+
+Não senhor , sim senhor, não senhor, sim senhor
+
+E |-----------15----------15--------------|
+B |----15-----------15----------15----15--|
+G |-12-----12----12----12----12----12-----| 1x
+D |---------------------------------------|
+A |---------------------------------------|
+D |---------------------------------------|
+
+RIFF1
+
+REPETE INTRODUÇÃO
+
+Dm
+Pane no sistema alguém me desconfigurou
+F       E                      Eb
+Aonde estão os meus olhos de robô
+Dm
+Eu não sabia, eu não tinha percebido
+F          E              Eb
+Eu sempre achei que era vivo
+Dm
+Parafuso e fluido em lugar de articulação
+F             E                   Eb
+Até achava que aqui batia um coração
+Dm
+Nada é orgânico, é tudo programado
+F               E                Eb
+E eu achando que tinha me libertado
+Dm
+Mas lá vem eles novamente, eu sei o que vão fazer
+Reinstalar o sistema
+
+RIFF2
+
+RIFF1
+
+Dm                     F        E            Eb
+Pense,Fale,Compre,Beba,Leia,Vote,não se esqueça
+Dm                F        E            Eb
+Use,Seja,Ouça,Diga,tenha,more,gaste e viva
+Dm                      F       E           Eb
+Pense,Fale,Compre,Beba,Leia,Vote,não se esqueça
+Dm                   F E Eb
+Use,Seja,Ouça,Digaaaa
+
+Ponte:
+
+E |-----------15----------15--------------|
+B |----15-----------15----------15----15--|
+G |-12-----12----12----12----12----12-----| 2x
+D |---------------------------------------|
+A |---------------------------------------|
+D |---------------------------------------|
+
+Não senhor , sim senhor, não senhor, sim senhor
+
+E |-----------15----------15--------------|
+B |----15-----------15----------15----15--|
+G |-12-----12----12----12----12----12-----| 1x
+D |---------------------------------------|
+A |---------------------------------------|
+D |---------------------------------------|
+
+Dm
+Mas lá vem eles novamente, eu sei o que vão fazer
+Reinstalar o sistema
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+Eb = X 6 5 3 4 3
+F = 1 3 3 2 1 1

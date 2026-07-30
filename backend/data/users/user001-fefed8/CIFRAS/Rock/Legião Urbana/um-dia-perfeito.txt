@@ -1,0 +1,10 @@
+@titulo: um-dia-perfeito
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:

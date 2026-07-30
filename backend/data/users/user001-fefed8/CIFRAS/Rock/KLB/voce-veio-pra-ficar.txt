@@ -1,0 +1,96 @@
+@titulo: voce-veio-pra-ficar
+@autor:
+@intérprete: KLB
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+KLB - Você Veio Pra Ficar
+
+(Ab original)
+
+INTRO: (Piano)
+[A-E/G#-F#m-C#m/E] D
+[D-A/C#-Bm-F#m/A] E/G#
+[F#m-C#/E-D]
+[F#m-C#/E-D]
+[A] D-D/E
+
+VERSO #1
+
+     A         E/G#       F#m
+ Eu nunca tive medo de sofrer
+ D          A     B7(9)       E(4) E7
+ Jamais deixei o amor me prender
+  A           E/G#      F#m
+ Hoje eu aprendi amar você
+    D      A      E/D      A
+ e não adianta tentar te esquecer
+
+(A-D, A-D)
+
+VERSO #2
+
+        A              E/G#        F#m  C#m/E F#m
+ Esse amor que faz meu coração tremer
+         Bm7          F#m/A       E
+ É tão grande que até chega machucar
+         C#m                   F#m  C#m/E F#m
+ Eu não sei se é loucura te querer
+        Bm7          F#m/A       E
+ Não importa mesmo assim eu vou tentar
+
+PRÉ-REFRÃO
+
+      D         D/E            E/C#          F#m
+ A doçura do teu beijo, o seu jeito de me olhar
+          D           E           F# (caindo)
+ Diz pra mim que você veio pra ficar...
+         D            D/E               E/C#          F#m
+ Quando deito em seus braços fechos os olhos pra sonhar
+     D         E/D             A     E7
+ Te amo e pra sempre vou te amar!
+
+------------------------------------\
+     A           E/G#       F#m      |
+ Eu nunca tive medo de sofrer       |
+  D          A     B7(9)   Bm7    E7 |
+ Jamais deixei o amor me prender    |     (REFRÃO)
+   A          E/G#       F#m         |
+ Hoje eu aprendi amar você          |
+     D      A      E/D      A        |
+ e não adianta tentar me esquecer   |
+------------------------------------/
+
+INTRO.
+
+ A doçura o teu beijo, o seu jeito de me olhar
+ Diz pra mim que você veio pra ficar...
+ Quando deito em seus braços fechos os olhos pra sonhar
+ Te amo e pra sempre vou te amar!
+
+REFRÃO.
+REFRÃO. (sobe +1
+(A-D -AD)
+ te esquecer...
+ te esquecer...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7(9) = X 2 1 2 2 X
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+C#m/E = X 7 6 6 9 X
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+E = 0 2 2 1 0 0
+E/C# = X 4 2 1 0 0
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+F#m/A = X 0 4 2 2 2

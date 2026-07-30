@@ -1,0 +1,59 @@
+@titulo: estrela-caida
+@autor:
+@intérprete: Teodoro e Sampaio
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Teodoro e Sampaio - Estrela Caída
+
+(intro) G D G C G Am G
+
+G
+Na cobertura daquele edifício
+            Em            D
+mora um alguém tão apaixonado
+
+Esse alguém sou eu sofrendo sozinho
+                 Cm        C         G
+por alguém que não vive mais ao meu lado
+
+
+No passado fomos um casal feliz
+             G7              C
+até que a cabeça daquela mulher
+                                G
+pirou de uma vez me deixando assim
+                              A
+Feito um exilado pertinho do fim
+          D                      G
+sem rumo certo pra um lugar qualquer
+
+
+(refrão)
+            D                                   G
+As vezes a noite olhando do alto os carros a passar
+                                D
+em um desses carros ela deve estar
+           C                G
+levando a vida que ela escolheu
+              D                                G
+Meu olhar se perde em meio aos faróis das avenidas
+                               C
+tentando encontrar a estrela caída
+                G       D       G
+Mas talvez a estrela caída sou eu
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

@@ -1,0 +1,56 @@
+@titulo: ultimas-palavras
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Últimas Palavras
+
+Intro.               B          F#       A               F#
+       solo:      e|11-------------------9--------12---12-----   
+                  B|---12------------------10-------10----10--
+                  G|------11------------------9--------------9
+
+
+                     B        F#           A                F#    ----> 4x
+                  Talvez se a gente não se ver pode ser melhor
+                  Ainda lembro da saudade que ficou maior
+      solo -->2x  Nunca esqueceu o dia que ela fingiu não lhe conhecer
+                  Tantas esperanças em dias que não parecem ser seus
+                                    B  F# E   A               F#
+                  Não tinha outra saída,  era hora de enfrentar   2x
+
+                    B         F#            A                F#
+                  Talvez se a gente não se ver pode ser melhor
+                  Suas últimas palavras prá deixá-lo bem pior
+         solo---> Eu sei que um dia desses ele enlouqueceu
+                  Esperanças ele tinha mas ninguém nunca o entendeu
+
+                                    B  F# E   A               F#
+                  Não tinha outra saída,  era hora de enfrentar   2x
+
+
+  C#    A       E                                B   A
+                   Sua mãe aconselhou rezar
+                  E                                B   A
+                   Seu pai tentou lhe medicar
+                  E                              B   A
+                   Todos tentaram ajudar
+                                A               E
+                   Mas ninguém o entendeu
+
+                                        B  F# E    A                 F#
+                   Não tinha outra saída, era hora de enfrentar   2x
+                              Era hora de enfrentar   3x
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2

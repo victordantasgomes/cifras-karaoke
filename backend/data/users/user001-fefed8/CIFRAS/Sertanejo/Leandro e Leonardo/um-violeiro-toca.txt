@@ -1,0 +1,68 @@
+@titulo: um-violeiro-toca
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - Um Violeiro Toca
+
+Intro: F  C  A#  C9
+
+F                      F7        F
+ Quando uma estrela cai, no escurão da noite,
+A#
+ e um violeiro toca suas mágoas.
+C9
+ Então os olhos dos bichos, vão ficando iluminados
+A#                                          C9 A#
+Rebrilham neles estrelas de um sertão enluarado
+F            F7                F
+Quando o amor termina, perdido numa esquina,
+A#
+e um violeiro toca sua sina.
+C9
+Então os olhos dos bichos, vão ficando entristecidos
+A#                                            C9 A#
+Rebrilham neles lembranças dos amores esquecidos.
+F                   F7          F
+Quando um amor começa, nossa alegria chama,
+A#
+e um violeiro toca em nossa cama.
+
+C9
+Então os olhos dos bichos, são os olhos de quem ama
+A#                                             C9 A#
+Pois a natureza é isso, sem medo nem dó sem drama
+
+
+Refrão:
+F                         F7                    C
+Tudo é sertão, tudo é paixão, se o violeiro toca
+Gm7                       A#          F
+A viola, o violeiro e o amor se tocam
+
+(Intro)
+
+F                   F7          F
+Quando um amor começa, nossa alegria chama,
+A#
+e um violeiro toca em nossa cama.
+C9
+Então os olhos dos bichos, são os olhos de quem ama
+A#                                             C9 A#
+Pois a natureza é isso, sem medo nem dó sem drama
+
+(Refrão)
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+F = 1 3 3 2 1 1
+F7 = 1 3 1 2 1 1
+Gm7 = 3 X 3 3 3 X

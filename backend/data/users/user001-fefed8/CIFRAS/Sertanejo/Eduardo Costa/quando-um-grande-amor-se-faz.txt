@@ -1,0 +1,101 @@
+@titulo: quando-um-grande-amor-se-faz
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Quando Um Grande Amor Se Faz
+
+Intro: D  F#m D  F#m
+
+D                     F#m
+Todo amor parece no começo um mar de rosas
+G                           D                 D
+Mas é triste, numa lágrima que cai
+             D                F#m
+É uma chama que se espalha, feito fogo sobre a palha
+ G                  D
+E destrói tudo depressa até demais
+         Bm                     A6/C#               G
+Amar é como ter um sonho e despertar com medo de chorar
+Em                        A                D                   G
+Quando um grande amor se faz, de tudo a gente pensa ser capaz
+Em               A                D
+É uma ilusão querer que a vida seja sempre linda
+       F#m                        G                    D
+Com estrelas coloridas, sem espinhos nos caminhos do amor
+      D                      F#m
+Maravilhosa confusão que enlouquece o coração
+        G                     Em                       A
+Alguém fica apaixonado sempre quando um grande amor se faz
+
+           D                    G
+Os nossos sonhos vão crescendo mais
+Em                A            D
+Por que a saudade tem mil amores?
+D                               F#m
+Quando a dor se esconde num olhar que está distante
+    G                          D
+A lembrança deixa o coração fugir
+       D                          F#m
+A procurar pela cidade um amor que na verdade
+G                             D
+Mesmo longe, continua sempre aqui
+        Bm                     A6/C#            G
+Amar é uma fantasia, quando a gente finge ser feliz
+Em                        A             D                 G
+Quando um grande amor se faz, de tudo a gente pensa ser capaz
+Em                    A             D                 G
+Que ninguém no mundo vai ter tanto tempo pra viver em paz
+Em              A            B    D#m    E    B
+Quando o amor chegar, te vencerá...
+          B                  D#m
+E quando menos se espera, o amor feito uma fera
+        E                      B
+Se transforma simplesmente em paixão
+          G#m                     F#           E
+Faz do inferno o paraíso e do sorriso numa solidão
+C#m                       F#              B                E
+Quando um grande amor se faz, de tudo a gente pensa ser capaz
+C#m            F#               D
+É uma ilusão querer que a vida seja sempre linda
+   F#m                       G                        D
+Com estrelas coloridas, sem espinhos nos caminhos do amor
+       D                     F#m
+Maravilhosa confusão que enlouquece o coração
+G                              Em                      A
+Alguém fica apaixonado sempre quando um grande amor se faz
+           D                   G
+Os nossos sonhos vão crescendo mais
+Em                        A
+Quando um grande amor se faz
+      D                   G
+O coração e o corpo são iguais
+Em                 A          D       F#m
+Por que a saudade tem mil amores?
+          D         F#m
+Mil amores...
+          D         F#m
+Mil amores...
+          D
+Mil amores...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A6/C# = X 4 2 2 5 2
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D#m = X X 1 3 4 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,32 @@
+@titulo: reunidos-aqui
+@autor:
+@intérprete: Padre Marcelo Rossi
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Padre Marcelo Rossi - Reunidos Aqui
+
+[Intro] G  C  D7
+
+            G                      C
+Reunidos aqui só pra louvar ao Senhor
+             D7       G   D
+Novamente aqui, em união
+      G
+Algo bom vai acontecer
+      G7               C
+Algo bom Deus tem pra nós
+            D7                    G  C  G
+Reunidos aqui só pra louvar o Senhor
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

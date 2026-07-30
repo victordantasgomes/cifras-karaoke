@@ -1,0 +1,107 @@
+@titulo: o-passageiro
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - O Passageiro
+
+Introdução - (Em  C  G  D) 4x
+
+
+ Em        C    G       D
+    Eu sou passageiro
+ Em         C     G     D
+    Eu rodo sem parar
+ Em         C       G           D
+    Eu rodo pelos subúrbios escuros
+ Em           C        G             D
+    Eu vejo estrelas saírem do céu
+ Em     C           G            D
+    É o claro e o vazio do céu
+ Em          C          G         D
+    Mas essa noite tudo soa tão bem
+
+     (Em  C  G    D)
+
+ Em       C      G       D
+    Entre no meu carro
+ Em     C       G     D
+    Nós vamos rodar
+
+ Em    C         G          D
+    Seremos passageiros à noite
+ Em     C         G         D
+    E veremos a cidade em trapos
+ Em     C         G        D
+    E veremos o vazio do céu
+ Em        C           G              D
+    Sob os cacos dos subúrbios daqui
+ Em          C          G         D
+    Mas essa noite tudo soa tão bem
+
+     (Em  C  G   D)
+
+             Em    C     G          D
+    Cantando la la la la la la la la
+             Em    C     G          D
+    Cantando la la la la la la la la
+             Em    C     G          D
+    Cantando la la la la la la la la...  la la
+
+     (Em  C  G   D)
+
+ Em        C    G       D
+    Olha o passageiro
+ Em       C        G      D
+    Como, como ele roda
+ Em        C    G       D
+    Olha o passageiro
+ Em      C     G     D
+    Roda sem parar
+ Em     C      G      D
+    Ele olha pela janela
+ Em         C   G     D
+    E o que ele vê?
+ Em     C    G         D
+    Ele vê sinais no céu
+ Em     C      G         D
+    Ele vê as estrelas que saem
+ Em     C      G         D
+    Ele vê a cidade em trapos
+ Em     C      G         D
+    Ele vê o caminho do mar
+ Em      C        G           D       Em
+    Tudo isso foi feito prá mim e você
+         C        G           D       Em
+    Tudo isso foi feito prá mim e você
+           C      G           D       Em
+    Simplesmente pertence a mim e você
+          C       G           D
+    Então vamos rodar e ver o que é meu
+
+(Em  C  G   D)
+
+Refrão 2x
+
+ Em        C     G      D
+    Eu sou passageiro
+ Em        C     G      D
+    Eu rodo sem parar
+ Em        C     G      D
+    Eu sou passageiro
+ Em        C     G      D
+    Eu rodo sem parar
+ Em        C     G
+    Eu sou passageiro
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

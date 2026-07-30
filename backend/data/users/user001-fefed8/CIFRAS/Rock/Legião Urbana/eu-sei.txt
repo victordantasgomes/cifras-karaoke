@@ -1,0 +1,145 @@
+@titulo: eu-sei
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Eu Sei
+
+[Intro] D  D9  D  D9
+        D  D9  D  D9
+
+[Primeira Parte - Primeira Estrofe]
+
+ D
+Sexo verbal
+     Am
+Não faz meu estilo
+   Em
+Palavras são erros
+     Em7
+E os erros são seus
+G      D4/F#     Em7
+  Não quero lembrar
+       A7(4)    A7
+Que eu erro também
+
+[Primeira Parte - Segunda Estrofe]
+
+    D
+Um dia pretendo
+
+    Am
+Tentar descobrir
+    Em
+Porque é mais forte
+      Em7
+Quem sabe mentir
+G      D4/F#     Em7
+  Não quero lembrar
+        A7(4)    A7  (passagem)
+Que eu minto também
+
+[Refrão]
+
+D  G  C9  G/B  C9
+  Eu     sei
+D  G  C9  G/B  C9
+  Eu     sei
+
+[Segunda Parte]
+
+D
+  Feche a porta
+Am
+   Do seu quarto
+           Em
+Porque se toca o telefone
+ Em7
+Pode ser alguém
+G      D4/F#     Em7
+  Com quem você quer falar
+     A7(4)           A7
+Por horas e horas e horas
+
+( D  Am  Em  Em7 )
+
+G    D4/F#    Em7
+  A noite acabou
+
+Talvez tenhamos
+ A7(4)           A7
+Que fugir sem você
+
+     D
+Mas não, não vá agora
+       Am
+Quero honras e promessas
+     Em             Em7
+Lembranças e histórias
+G        D4/F#   Em7
+  Somos pássaro novo
+ A7(4)    A7 (passagem)
+Longe do ninho
+
+[Refrão]
+
+D  G  C9  G/B  C9
+  Eu     sei
+D  G  C9  G/B  C9
+  Eu     sei
+
+[Final] D  G  C9  G/B  C9
+        D  G  C9  G/B  C9
+
+[Solo Final]
+
+Parte 1
+E|-5-3-2-0-2-0----5-3-2-0-2-0-------------------------|
+B|-------------3--------------3-----------------------|
+G|----------------------------------------------------|(2x)
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+Parte 2
+E|-5-7-8-7--5-7-8-7--5-7-8-7--5-7-8-7-----------------|
+B|----------------------------------------------------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+Parte 3
+E|-5-7-8-7--5-7-8-7--5-7-8-7--5-7b8r7-5---5-----------|
+B|--------------------------------------8---8-8~------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+Parte 4
+E|-5-7-7b8r7-5---5-7-7b8r7-5---5-7-5-2----------------|
+B|-------------8-------------8------------------------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(4) = X 0 2 0 3 0
+Am = X 0 2 2 1 0
+C9 = X 3 2 0 3 3
+D = X X 0 2 3 2
+D4/F# = 2 X X 2 3 3
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 3 3
+G/B = X 2 0 0 3 3

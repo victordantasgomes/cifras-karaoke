@@ -1,0 +1,15 @@
+@titulo: Tempo Perdido
+@autor:
+@intérprete: Legião Urbana
+@tom: Em
+@velocidade: 60
+@ritmomusical: rock nacional
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Em          C
+Todos os dias quando acordo
+G              D
+Não tenho mais o tempo que passou

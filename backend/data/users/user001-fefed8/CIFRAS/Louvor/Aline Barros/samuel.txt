@@ -1,0 +1,38 @@
+@titulo: samuel
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Samuel
+
+ C9      C9
+Samuel, Samuel
+ C9
+Era uma vez um menino, que, ainda pequenino
+       F                           C9
+Foi escolhido pra morar na casa de Deus;
+     G7                   F
+Mas ele não sabia que um profeta seria
+ G7                      F
+Todo Israel a ele lhe obedeceria
+  G7                                   C9
+Quando foi dormir, uma voz então ouviu:
+  G7      C9             G7         C9
+Samuel, Samuel, Deus te chama lá do céu
+G7        Am7       F        G7      C9
+Samuel, Samuel, sê profeta   de    Israel
+C9        C9
+Samuel, Samuel
+
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C9 = X 3 5 5 3 3
+F = 1 3 3 2 1 1
+G7 = 3 5 3 4 3 3

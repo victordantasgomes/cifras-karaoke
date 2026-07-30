@@ -1,0 +1,155 @@
+@titulo: o-tempo
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - O Tempo
+
+[Intro] Gm7  C9  F  Bb9
+
+[Primeira Parte]
+
+   Gm7              C9
+O vento toca o meu rosto
+        F                     Bb9
+Me lembrando que o tempo vai com ele
+Gm7                              C9
+   Levando em suas asas os meus dias
+       F         Bb9
+Desta vida passageira
+Gm7
+   Minhas certezas, meus conceitos
+           C9
+Minhas virtudes, meus defeitos
+ F           Bb9
+Nada pode detê-lo
+
+[Pré-Refrão]
+
+
+Gm7       Am
+   O tempo se vai
+    Bb9
+Mas algo sempre guardarei
+Gm7   Am               Bb9          C9
+   O Teu amor, que um dia eu encontrei
+
+[Refrão]
+
+F         Gm7       Am           Bb9
+ Os meus sonhos, o vento não pode  levar
+Dm       C9           Am           Bb
+  A esperança, encontrei no Teu olhar
+F          Gm7        Am          Bb9
+  Os meus sonhos, a areia não vai enterrar
+Dm          C9       Am             Bb9
+  Porque a vida recebi ao Te encontrar
+
+[Segunda Parte]
+
+Gm7                       C9
+   Nos Teus braços não importa o tempo
+     F               Bb9
+Só existe o momento de sonhar
+Gm7                C9
+E o medo que está sempre à porta
+         F
+Quando estou com Você
+         Bb9
+Ele não pode entrar
+
+[Pré-Refrão]
+
+Gm7      Am
+   O tempo se vai
+    Bb9
+Mas algo sempre guardarei
+Gm7   Am               Bb9          C9
+   O Teu amor, que um dia eu encontrei
+
+[Refrão]
+
+F         Gm7       Am           Bb9
+ Os meus sonhos, o vento não pode  levar
+Dm       C9           Am           Bb
+  A esperança, encontrei no Teu olhar
+F          Gm7        Am          Bb9
+  Os meus sonhos, a areia não vai enterrar
+Dm          C9       Am             Bb9
+  Porque a vida recebi ao Te encontrar
+
+[Base do solo] Gm7  C9  F  Bb9
+               Gm7  C9  F  Bb9
+
+E|------------------5-6-6/8------6/8---6--5------------|
+B|---------5--6--8---------------------------6/8-------|
+G|---5--7---------------------5------------------------|
+D|-----------------------------------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+E|------------------5-5-------------3/5----------------|
+B|---------5-6-6/8-------6/8--6--8-------6-------------|
+G|---5--7----------------------------------------------|
+D|-----------------------------------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+E|-------6/8---5-6-8-6-5-------------------------------|
+B|-----------------------8-6-5-6-8-6-5-----------------|
+G|----5---------------------------------7--5-----------|
+D|-----------------------------------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+                          H.N  .
+E|--6--8--8/10---8--5--5-------------------------------|
+B|---------------------6-------------------------------|
+G|-------------------------12--------------------------|
+D|-----------------------------12----------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+( Dm  C9  F  Bb9  F  C9 )
+( Dm  C9  F  Bb9  F  C9 )
+
+[Refrão]
+
+F         Gm7       Am           Bb9
+ Os meus sonhos, o vento não pode  levar
+Dm       C9           Am           Bb
+  A esperança, encontrei no Teu olhar
+F          Gm7        Am          Bb9
+  Os meus sonhos, a areia não vai enterrar
+Dm          C9       Am             Bb9
+  Porque a vida recebi ao Te encontrar
+
+F         Gm7       Am           Bb9
+ Os meus sonhos, o vento não pode  levar
+Dm       C9           Am           Bb
+  A esperança, encontrei no Teu olhar
+F          Gm7        Am          Bb9
+  Os meus sonhos, a areia não vai enterrar
+Dm          C9       Am             Bb9
+  Porque a vida recebi ao Te encontrar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm7 = 3 X 3 3 3 X

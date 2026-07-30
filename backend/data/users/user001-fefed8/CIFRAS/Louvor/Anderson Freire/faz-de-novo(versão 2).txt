@@ -1,0 +1,89 @@
+@titulo: faz-de-novo(versão 2)
+@autor:
+@intérprete: Anderson Freire
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Anderson Freire - Faz de Novo
+
+Intro: B9  F#  E  C#m7  B9  F#sus4  E  C#m7
+
+ B9                                  G#m7
+Posso sentir no corpo, na alma o calor de Sua mão
+                        F#sus4                        E9
+Minha mente recorda a Sua intenção Vaso que agrada o Seu coração
+   B9                                      G#m7
+O tempo avançou Mas isso não pode o meu choro levar
+                    F#sus4                       E9
+Ainda no culto eu posso chorar O meu amor não chegou ao fim
+   C#m7                B/D#        E 9                   F#sus4
+E antes que isso aconteça preciso viver    De novo o início
+    B9
+De novo, quebra-me, Senhor
+     G#m7
+De novo, faz o que pensou
+  F#sus4                        C#m7      Intr:  B9
+Oleiro, leva-me de volta ao primeiro amor
+    B9                                     G#m7
+O tempo avançou Mas isso não pode o meu choro levar
+                    F#sus4                      E9
+Ainda no culto eu posso chorar O meu amor não chegou ao fim
+
+   C#m7                B/D#        E9                    F#sus4
+E antes que isso aconteça preciso viver    De novo o início
+    B9
+De novo, quebra-me, Senhor
+     G#m7
+De novo, faz o que pensou
+  F#sus4                         C#m7
+Oleiro, leva-me de volta ao primeiro amor (Refrão 2x)
+  B9              F#sus4
+Vem me abrasar, vem me abrasar
+  C#m7                E9           na 2ª vez E D# B G# B
+Vem me abrasar, meu coração clama (4x)
+     B9                      A G# E F# E C#
+De novo, (quebra-me, Senhor)
+    B9
+De novo, quebra-me, Senhor
+     G#m7
+De novo, faz o que pensou
+  F#sus4                         C#m7
+Oleiro, leva-me de volta ao primeiro amor
+    B9
+De novo, quebra-me, Senhor
+     G#m7
+De novo, faz o que pensou
+   F#sus4                         C#m7
+Oleiro, leva-me de volta ao primeiro amor
+     B/F#
+De novo, quebra-me, Senhor
+    G°
+De novo, faz o que pensou
+   G#m7                          C#m7
+Oleiro, leva-me de volta ao primeiro amor
+         E9
+Ao primeiro amor
+        C#m7   B9 E D# C# B B9 E D# C# B
+Ao primeiro amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B/F# = X X 4 4 4 2
+B9 = X 2 4 4 2 2
+C# = X 4 6 6 6 4
+C#m7 = X 4 6 4 5 4
+D# = X 6 5 3 4 3
+E = 0 2 2 1 0 0
+E9 = 0 2 4 1 0 0
+F# = 2 4 4 3 2 2
+F#sus4 = 2 4 4 4 2 2
+G# = 4 3 1 1 1 4
+G#m7 = 4 X 4 4 4 X
+G° = 3 X 2 3 2 X

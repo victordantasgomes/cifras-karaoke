@@ -1,0 +1,44 @@
+@titulo: ha-uma-nova-uncao
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Há Uma Nova Unção
+
+        E                  A9
+HÁ UMA NOVA CANÇÃO NO CORAÇÃO DOS SEUS FILHOS
+     E                  A9
+UMA NOVA CANÇÃO NO CORAÇÃO DOS QUE SÃO SEUS
+
+C#m7                     F#m7               A
+     CANÇÃO DE ESPERANÇA      CANÇÃO DE PAZ
+                    B
+O SOM DA LIBERTAÇÃO   O HINO DE VITÓRIA
+C#m7                     F#m7                 A
+     ESTE HINO DE LOUVOR     ESTA NOVA CANÇÃO
+                          B9
+MUITOS VERÃO E TEMERÃO E CONFIARÃO NO SENHOR
+
+        E                        A9
+ESTÁ UNGINDO SEUS FILHOS COM O AZEITE DA ALEGRIA
+     E                   A9        E
+SUA MÚSICA LEVANDO LIBERDADE AS NAÇÕES
+        E                        A9
+ESTÁ UNGINDO SEUS FILHOS COM O AZEITE DA ALEGRIA
+     E                        A9   E
+E A DANÇA DE DEUS ESTÁ A NOS LIBERTAR
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X

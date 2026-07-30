@@ -1,0 +1,48 @@
+@titulo: eu-te-louvarei-senhor
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Eu Te Louvarei Senhor
+
+C7+(9)    Bm7(5-)
+Eu Te louvarei Senhor
+ F7+       Fm9  C7+(9) G7(13)
+De todo o meu cora--ção
+C6(9)    Bm7(5-)
+Eu Te louvarei Senhor
+ F7M(11+)    Fm7(9)  C7+(9) C7(9)
+De todo o meu cora--ção
+   F7+(9)   E7     Am7(9)    Fm7
+Na presença dos anjos a Ti cantarei
+ C7+(9)  G7(13) C7+(9) C5+
+Louvo-----o----res
+
+Na presença dos anjos a Ti cantarei
+ G#7+ A#7+    C7+
+Louvo--o---res
+
+----------------- Acordes -----------------
+A#7+ = X 1 3 2 3 1
+Am7(9) = X X 7 5 8 7
+Bm7(5-) = X 2 3 2 3 X
+C5+ = X 3 2 1 1 X
+C6(9) = X 3 2 2 3 3
+C7(9) = X 3 2 3 3 X
+C7+ = X 3 2 0 0 X
+C7+(9) = X 3 2 4 3 X
+E7 = 0 2 2 1 3 0
+F7+ = 1 X 2 2 1 X
+F7+(9) = X 8 7 9 8 X
+F7M(11+) = 1 3 3 2 0 0
+Fm7 = 1 X 1 1 1 X
+Fm7(9) = X X 3 1 4 3
+Fm9 = 1 3 5 1 1 1
+G#7+ = 4 X 5 5 4 X
+G7(13) = 3 X 3 4 5 X

@@ -1,0 +1,72 @@
+@titulo: clarear
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Clarear
+
+(intro) E   B   A
+
+E   B A       C#m7   G#m7 F#m7 A/B
+Clarear... baby clarear
+   E     B     A
+Pelo menos um pouco de sol
+        C#m7   G#m7 F#m7 A/B
+Eu só quero clarear
+   C#m   C#m7+  C#m7  C#m6
+Quando não houver mais amor
+A/B        E6/9  G#7/9
+Nem mais nada a fazer
+C#m    C#m7+   C#m7    C#m6
+Nunca é tarde pra lembrar
+   F#m7     A/B       E7+
+Que o sol está solto em você
+
+ F#m7    E7+     F#m7   A
+Um pouco de luz nessa vida
+ G#m7    C#m7      G#m7 - A
+Um pouco de luz em você
+
+ G#m7    C#m7      A/B B7   F#4/7 A4/7
+Um pouco de luz nessa vida (2x)
+
+(intro)
+
+E   B A      C#m7   G#m7 F#m7 A/B
+Clarear... baby clarear
+      E  B    A
+Eu quero clarear de vez
+        C#m7     G#m7  F#m7 A/B
+Tudo aquilo que encontrar
+    C#m    C#m7+   C#m7  C#m6
+Quando o pouco de bom rarear
+A/B             E6/9  G#7/9
+E a vida for escura e ruim
+ C#m   C#m7+   C#m7    C#m6
+Nunca é tarde pra lembrar
+   F#m7      A/B     E7+
+Que o sol está dentro de mim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A4/7 = X 0 2 0 3 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+C#m6 = X 4 X 3 5 4
+C#m7 = X 4 6 4 5 4
+C#m7+ = X 4 6 5 5 4
+E = 0 2 2 1 0 0
+E6/9 = X 7 6 6 7 7
+E7+ = X X 2 4 4 4
+F#4/7 = 2 4 2 4 2 X
+F#m7 = 2 X 2 2 2 X
+G#7/9 = 4 X 4 3 1 X
+G#m7 = 4 X 4 4 4 X

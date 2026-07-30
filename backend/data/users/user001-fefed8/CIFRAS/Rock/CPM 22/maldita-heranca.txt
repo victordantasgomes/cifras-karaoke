@@ -1,0 +1,89 @@
+@titulo: maldita-heranca
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Maldita Herança
+
+(afinação 1 tom abaixo)
+
+(*)
+       G5*       F#5*
+A|--12--|  A|--11--|
+E|--10--|  E|--09--|
+
+(intro) G5* (varias vezes)
+
+ G5*               F#5*
+Quem são os fracos que estão ditando a ordem
+ G5*               F#5*
+Em terra de ninguém
+ G5*                 F#5*
+Se tornam covardes com o poder nas mãos
+ G5*            F#5*
+Quem vai nos defender
+
+  G5               E5
+Quem eles pensam que são
+              G5         E5
+Fazendo de idiota uma nação
+
+ G5               F#5
+Discórdia, desordem, multiplicando o ódio
+ G5           F#5
+Nos fazem de reféns
+ G5             F#5
+Descaso que mata e as punições são raras
+ G5               F#5
+Não há pra onde correr
+
+ G5                   E5
+Quem eles pensam que são
+               G5                E5
+Temos que nos manter na contra-mão
+ G5    E5      F5                 G5
+Porque a impunidade existe aqui
+ E5         F5
+Não têm vergonha na cara
+ G5      E5         F5      G5
+Vem de décadas passadas
+ E5    F5
+Essa maldita herança
+
+( G5 E5 F#5 F5 ) (4x)
+
+ G5*               F#5*
+Quem são os ratos que não servem pra nada
+ G5*            F#5*
+Só querem enriquecer
+ G5*               F#5*
+Discursos vazios, motivo de piada
+ G5*       F#5*
+Esse é o nosso país
+
+ G5                   E5
+Quem eles pensam que são
+               G5                E5
+Temos que ir atrás da nossa solução
+ G5    E5      F5                 G5
+Porque a impunidade existe aqui
+ E5         F5
+Não têm vergonha na cara
+ G5      E5         F5      G5
+Vem de décadas passadas
+ E5    F5
+Essa maldita herança
+
+(final 4x) G5 E5 F#5 F5
+
+----------------- Acordes -----------------
+E5 = 0 2 2 X X X
+F#5 = 2 4 4 X X X
+F5 = 1 3 3 X X X
+G5 = 3 5 5 X X X

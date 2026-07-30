@@ -1,0 +1,67 @@
+@titulo: nao-e-tarde
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Não É Tarde
+
+[Intro] A
+
+       Bm     E       A       F#m
+Não é tarde, para se sonhar
+      D       E            A4 A
+O céu ainda é azul há esperança
+        Bm       E            A    F#m
+É só olhar no olhar de uma criança
+    D              E             A
+No sorriso de uma mãe que deu a luz
+
+     F#m        D                A            E
+Ouvirei os testemunhos de bravos homens que venceram
+     F#m          D           A          E
+Ouvirei dos cegos que ainda esperam a visão
+     F#m            D          A        E
+Ouvirei canções que marcam toda uma geração
+       Bm    D      E4  E
+Não é tarde, pra sonhar....
+
+ F#m       D               A             E4  E
+Não é não minha força vem de um Deus que faz milagres
+
+ F#m   D        A          E/G#
+Minha fé esta além do impossivel
+ F#m       D           A          E             Bm
+Minha esperança viva esta, meu coração não quer parar
+ Bm        C#m            D            E     A
+Pois nunca é tarde não é tarde para se sonhar
+
+ D                       E
+Sempre há uma esperança para aqueles que esperam
+ F#m                     E
+Firmes nas promessas do Senhor o Deus do impossível
+ Bm                       C#m
+Haja o que ouver eu sonharei
+                        D
+Seus lindos sonhos viverei
+          E4  E
+Não desistirei
+
+ F#m   D               A           E4   E
+Minha força vem de um Deus que faz milagres...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2

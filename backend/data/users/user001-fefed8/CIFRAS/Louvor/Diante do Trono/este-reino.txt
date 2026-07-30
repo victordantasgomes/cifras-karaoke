@@ -1,0 +1,81 @@
+@titulo: este-reino
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Este Reino
+
+(intro) C Fm/C C Fm/C
+
+ C     G/B            Am(2)
+ Jesus,   justiça de Deus
+ Em           F               C/E
+    Filho do homem, filho de Deus
+         Dm7    G4   G
+ Seu reino vem
+ Am7         G          F
+ Jesus, por nós sacrificado
+Dm7      C/E          F
+ Glorificado, justificado
+            G     F/G     Em/G
+ Seu reino vem
+
+Dm7/G  C             G/B
+ Este reino não findará
+      Am           Em/G
+ Sua glória é eterna
+         F    G/F    C/E
+ Pois a majestade e força
+
+        D7/F#        G4  G
+ Deste rei chegou a nós
+Am G/B     C           G/B
+    O seu reino, seu domínio
+       Am(2)            Em/G        F  C/E
+ Seu poder e autoridade não têm fim
+ F C/B  Am    Dm7  G4  G    C     [Fm/C]
+ Jesus,    justiça     de Deus
+
+ C     G/B            Am(2)
+ Jesus,  a exata expressão
+Em          F             C/E
+ Do amor de Deus, da sua graça
+          Dm7    G4   G
+ Do Seu perdão
+ Am7          G          F
+ Jesus, Deus santo e adorado
+Dm7      C/E          F
+ Glorificado, justificado
+            G     F/G     Em/G
+ Seu reino vem
+
+ F C/B  Am    Dm7  G4  G    C    F C/E
+ Jesus,    justiça     de Deus
+ F C/B  Am    Dm7   G     C
+ Jesus,    justiça    de Deus
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am(2) = X 0 2 4 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C/B = X 2 2 0 1 0
+C/E = 0 3 2 0 1 0
+D7/F# = X X 4 5 3 5
+Dm7 = X 5 7 5 6 5
+Dm7/G = 3 X 0 2 1 1
+Em = 0 2 2 0 0 0
+Em/G = 3 X 2 4 5 X
+F = 1 3 3 2 1 1
+F/G = 3 X 3 2 1 X
+Fm/C = X 3 3 1 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/F = 1 X X 0 0 3
+G4 = 3 5 5 5 3 3

@@ -1,0 +1,86 @@
+@titulo: so-tem-eu
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Só Tem Eu
+
+Intro : C#m Cm B
+      ( B Cm C#m )
+      ( C#m Cm B G# )(2x)
+
+E|------------------------------------------------|
+B|-2-2-2-5-2-2-2-5--2-1-0--0-0-0-4-0-0-0-4--0-1-2-|
+G|------------------------------------------------|
+
+E|------------------------|
+B|-2-2-2-5-2-2-2-5--2-1-0-|
+G|------------------------|
+
+
+E|---------------------------|
+B|-7(9x)--9-9-7-7-4-4-0-0-2--|
+G|---------------------------|
+
+
+( Refrão )
+
+C#m                        C#m Cm B
+Mas estiloso igual a mim, só tem eu
+
+                     B Cm C#m
+Safadinho e pegador, só tem eu
+                         C#m Cm B
+O playboy que tira onda, só tem eu
+                         G#                    C#m
+Os doidinhos todos me invejam tudo querendo ser eu (2x)
+
+ C#m B  A
+Eu te falei
+          B          C#m
+Eu sou um cara descolado
+           A
+Eu sou um rei
+           B             C#m
+Eu to na pista, eu to ligado
+       A
+Namorador
+      B                 C#m
+Mantenho todas do meu lado
+            A G#m F#m E
+Quem me conhece
+                       B    ( A B C#m )
+Diz que eu sou homem safado
+
+( Refrão )
+
+C#m                        C#m Cm B
+Mas estiloso igual a mim, só tem eu
+                     B  C#m
+Safadinho e pegador, só tem eu
+                         C#m  B
+O playboy que tira onda, só tem eu
+                         G#                    C#m
+Os doidinhos todos me invejam tudo querendo ser eu (2x)
+
+( C#m Cm B )
+( B Cm C#m )
+( C#m Cm B G# )
+
+(Repete)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+Cm = X 3 5 5 4 3
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4

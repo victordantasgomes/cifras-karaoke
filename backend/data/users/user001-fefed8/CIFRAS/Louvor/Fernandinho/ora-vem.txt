@@ -1,0 +1,46 @@
+@titulo: ora-vem
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Ora Vem
+
+Intro: A  E  A  E  B
+
+     A                 E
+O Espírito e a igreja dizem “vem”
+     A                 E
+O Espírito e a igreja dizem “vem”
+ A      C#m             B
+Vem, ora vem, Senhor Jesus!
+   A        E       C#m              B
+Adorado no céu, desejado entre as nações
+       A               E     C#m      B
+Entronizado em meu coração, Jesus, Jesus
+    A        E        C#m           B
+Todo olho verá, toda língua confessará
+       A           E             C#m            B
+Todo joelho se dobrará diante do Rei, diante do Rei
+     A                 E
+O Espírito e a igreja dizem “vem”
+     A                 E
+O Espírito e a igreja dizem “vem”
+ A      C#m             B
+Vem, ora vem, Senhor Jesus!
+
+A         B
+Ele virá sobre as nuvens
+C#m            B
+Eu dançarei, O encontrarei
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0

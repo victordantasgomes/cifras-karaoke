@@ -1,0 +1,115 @@
+@titulo: encontro-com-deus-basta-que-toque
+@autor:
+@intérprete: Kemuel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kemuel - Encontro Com Deus / Basta Que Toque 
+
+[Intro] D/G  A/D  E/F#  G#m/C#
+       D/G  A  B
+       G7M/6  F#m7/11  G7M/6  A9/6
+       B9  E9  B9  E9
+
+      B       B/A
+Nesta noite feliz
+      E/G#    C#m7
+Neste santo lugar
+      B/F#      G#m7       C#m7       F#7
+Eu marquei um encontro com Deus
+      B      B/A
+Seu amor é real
+    E/G#    C#m7
+Sua paz gozarei
+       B/F#     F#7        B      B  F#/A#
+Eu marquei um encontro com Deus
+
+G#m7  F#/A#     F#/E       B/D#   B  F#/A#
+Eu marquei um encontro com Deus
+G#m7  F#/A#   F#/E      B/D#    Bm/D  B/C#
+Neste santo lugar de oração
+
+
+      B      B/A
+Seu amor é real
+    E/G#    C#m7  C#m7/D#
+Sua paz gozarei
+      B/F#      F#7        B
+Eu marquei um encontro com Deus
+B9               B6      B9      B  F#/A#
+Basta que me que toque senhor
+G#m7      F#   F#/E      B
+Pra minha alma cansada   vencer
+      B             B/A
+Se a noite escura está
+    E          C#m7
+Sua mão me guiará
+F#           F#7   ( F  G9   Am9  Am/B )
+Basta que me toque senhor
+
+C9               C6      C9      C  G/B
+Basta que me que toque senhor
+Am7   G           G/F       C/E
+Pra minha alma cansada   vencer
+     Gm7            C
+Se a noite escura está
+    F          Dm7  C/E  (F D/F#)  G
+Sua mão me guiará
+G            G#º7     Am9  Am9/G  D/F#
+Basta que me toque senhor
+G            G#º7     Am9  Am9/G  D
+Basta que me toque senhor
+G            G#º7     C6  D7  C6  D7  C
+Basta que me toque senhor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/D = X X 0 6 5 5
+A9/6 = 5 4 4 4 X X
+Am/B = 4 X 4 3 1 1
+Am7 = X 0 2 0 1 0
+Am9 = X 0 2 4 1 0
+Am9/G = 3 0 2 4 1 0
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+B/C# = X 6 X 4 7 7
+B/D# = X 6 X 4 7 7
+B/F# = X X 4 4 4 2
+B6 = X 2 4 1 4 X
+B9 = X 2 4 4 2 2
+Bm/D = X 5 X 4 7 7
+C = X 3 2 0 1 0
+C#m7 = X 4 6 4 5 4
+C#m7/D# = X 6 6 4 5 9
+C/E = 0 3 2 0 1 0
+C6 = 8 X 7 9 8 X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D/G = 3 X X 2 3 2
+D7 = X X 0 2 1 2
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E/F# = X X 4 4 5 4
+E/G# = 4 X 2 4 5 X
+E9 = 0 2 4 1 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#/E = X X 2 3 2 2
+F#7 = 2 4 2 3 2 2
+F#m7/11 = 2 X 2 2 0 X
+G = 3 2 0 0 0 3
+G#m/C# = X 4 6 4 4 4
+G#m7 = 4 X 4 4 4 X
+G#º7 = 4 X 3 4 3 X
+G/B = X 2 0 0 3 3
+G/F = 1 X X 0 0 3
+G7M/6 = 3 X 4 4 5 X
+G9 = 3 X 0 2 0 X
+Gm7 = 3 X 3 3 3 X

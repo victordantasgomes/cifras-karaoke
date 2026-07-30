@@ -1,0 +1,73 @@
+@titulo: a-deus(versão 2)
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - A Deus
+
+Intro: C#m / B9 / F#m / A9 2x
+
+    C#m                          B9
+Em passos largos mudo minha Direção
+      F#m               A9
+Será mesmo tempo de voltar
+   C#m                     B9
+Procuro uma saída uma solução,
+      E              F#
+Mais Fácil é dizer Adeus
+     C#m    B9
+Adeus...
+     A9
+Adeus...
+     C#m    B9
+Adeus...
+    A9
+Adeus...
+     C#m                                 B9
+Por amor A ti eu me entreguei, foi por amor, meu sangue eu derramei.
+       F#m                               A9
+Me humilharam, me surraram, desprezaram, Me pregaram numa Cruz.
+
+        C#m                             B9
+Foi o preço pra poder te libertar e uma nova historia escrever.
+      E                     F#
+Eu morri em teu lugar, por amar tanto você.
+      A9               C#m
+Não é tempo de dizer Adeus,
+   A9                   E
+A DEUS pertence todo o Tempo,
+       C#m                B9
+sempre que quiser dizer Adeus,
+   A9                       B9
+A DEUS entregue o seu sofrimento.
+   C#m                          B9
+Em passos largos quero te encontrar
+       F#m                A9
+pra poder então voltar a ver
+   C#m                          B9
+Olhar pra luz que mostra a direção
+      E               F#
+é o tempo de me entregar...
+
+       C#m      B9
+A Deus...
+      A9
+A Deus...
+      C#m    B9
+A Deus...
+      A9
+A Deus...
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2

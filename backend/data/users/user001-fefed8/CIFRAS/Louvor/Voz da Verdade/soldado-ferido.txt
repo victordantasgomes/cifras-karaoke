@@ -1,0 +1,93 @@
+@titulo: soldado-ferido
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Soldado Ferido
+
+[Intro]
+
+E|-----------------------------------------12/14-14--12/13-10-----------------------1/3-3|
+B|--12^^-10-12--12^^-10-10--|--7/9-10-12/14------------------10--5/7\3/5-5/7-5-3-1/3-----|
+G|---------------------------------------------------------------------------------------|
+D|---------------------------------------------------------------------------------------|
+A|---------------------------------------------------------------------------------------|
+E|---------------------------------------------------------------------------------------|
+
+ C        Dm
+Há muitos feridos
+G             C     G/B     Am
+ Choram de angústia e de dor
+             Em           F  G
+Clamam por proteção e por paz
+C           Dm
+Amigos que sofrem
+ G          C     G/B     Am
+Sua necessidade atende hoje
+                  E               F  G
+Não deixes um soldado ferido morrer
+
+
+C           Dm
+Verta o bálsamo
+G           C       G/B
+E a ferida sarará
+Am         Em           F   Em  Dm    G
+Protege-o com teu manto de  amor
+C           Dm
+O pão partiremos sim
+G           C    G/B
+ Descanso lhes dará
+Am        Em
+E toda angústia sairá
+Am           Em             F  Em Dm G  C
+Não deixe fiéis soldados feridos   morrer
+
+C             Dm
+ Seguindo sua ordem
+G             C     G/B  Am
+ Lutaram na frente para o Rei
+              E              F        G
+E o forte inimigo puderam vencer
+ C              Dm     G         C        G/B       Am
+Mas por este esforço satã intentou suas vidas matar
+                  E               F    G Am Bm Am
+Não deixe um soldado ferido morrer
+
+C           Dm
+ Verta o bálsamo
+G           C   G/B
+E a ferida sarará
+Am            Em          F   Em Dm     G
+Protege-o com o teu manto de  amor
+C           Dm
+O pão partiremos sim
+G           C     G/B
+ Descanso lhes dará
+Am         Em
+E toda angústia sairá
+Am             Em            F Em   Dm G C     C  ( E  F  G  F  E )
+ Não deixes fiéis soldados feridos morrer
+F             C
+ Não podes olhar sem socorrer
+Am            Em
+O amor é mais forte, e faz viver
+Am             Em              F Em   Dm G C     C  ( E  F  G  F  E )
+ Não podes deixar um soldados ferido  morrer
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

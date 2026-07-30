@@ -1,0 +1,158 @@
+@titulo: carrinho-na-areia
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Carrinho na Areia
+
+[Intro] D  A  Bm7  G
+
+E|------------------------------------------|
+B|-------7-8-7------------------------------|
+G|-6/7-9-------9-7-7h9-7h9p7\6--------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|-------7-8-7---8-7-3----------------------|
+G|-6/7-9-------4/7-6-2----------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Primeira Parte]
+
+D
+  Tô mais caseiro
+   G
+Diminuí o álcool
+
+     Bm7        A            G
+Troquei até as rodas do meu carro
+
+D
+  Supermercado
+G
+  Troquei a lista
+ Bm7          A          G
+Tem caixa de leite no lugar da caixa de latinha
+
+[Pré-Refrão]
+
+Em7
+   Sou o exemplo da casa
+ G
+Tem dois pequenos na área
+D                             A
+   Todo meu tempo agora é só deles
+               G
+Dos dois e da mãe deles, iê, iê
+
+[Refrão]
+
+ D                  A
+Da garrafa pra mamadeira
+ Bm7                G
+Da balada pra pula-pula e um carrinho na areia
+ D
+Tô mudado, tô feliz
+ A
+Dá pra ver
+  Bm7                      G
+Quando tiver filho, cê vai entender
+
+ D                  A
+Da garrafa pra mamadeira
+ Bm7                G
+Da balada pra pula-pula e um carrinho na areia
+ D
+Tô mudado, tô feliz
+ A
+Dá pra ver
+  Bm7                      G
+Quando tiver filho, cê vai entender
+
+[Solo] D  A  Bm7  G
+
+E|------------------------------------------|
+B|-------7-8-7------------------------------|
+G|-6/7-9-------9-7-7h9-7h9p7\6--------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|-------7-8-7---8-7-3----------------------|
+G|-6/7-9-------4/7-6-2----------------------|
+D|----------------------4h5p4-2-------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Pré-Refrão]
+
+Em7
+   Sou o exemplo da casa
+ G
+Tem dois pequenos na área
+D                             A
+   Todo meu tempo agora é só deles
+               G
+Dos dois e da mãe deles, iê, iê
+
+[Refrão]
+
+ D                  A
+Da garrafa pra mamadeira
+ Bm7                G
+Da balada pra pula-pula e um carrinho na areia
+ D
+Tô mudado, tô feliz
+ A
+Dá pra ver
+  Bm7                      G
+Quando tiver filho, cê vai entender
+
+ D                  A
+Da garrafa pra mamadeira
+ Bm7                G
+Da balada pra pula-pula e um carrinho na areia
+ D
+Tô mudado, tô feliz
+ A
+Dá pra ver
+  Bm7                      G
+Quando tiver filho, cê vai entender
+
+ D                  A
+Da garrafa pra mamadeira
+ Bm7                G
+Da balada pra pula-pula e um carrinho na areia
+ D
+Tô mudado, tô feliz
+ A
+Dá pra ver
+  Bm7                      G
+Quando tiver filho, cê vai entender
+
+[Final] D
+
+E|------------------------------------------|
+B|-------7-8-7------------------------------|
+G|-6/7-9-------9/11-7-----------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3

@@ -1,0 +1,60 @@
+@titulo: favo-de-mel
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Favo de Mel
+
+Intro:  E
+
+Solo 2x: E E9
+
+       D          G           D  D9
+Te liguei para testar o seu amor
+     G           A              D     D7
+E mudei a minha voz naquele instante
+      G                A          F#m         Bm
+Te falei coisas que mexem e emocionam o coração
+     Em                         A7
+Insisti em te encontrar pra te falar dessa paixão
+      D            G            D D9
+Mas você me respondeu tão decidida
+       G           A            D    D7
+Que havia em sua vida um outro homem
+      G              A        F#m         Bm
+Me falou que tem por ele o maior amor do mundo
+        Em         A           D   A7
+Disse tudo e logo revelou meu nome
+
+
+Refrão:
+  D               A              G             D   A7
+Você meu favo de mel, pedaço do céu do meu coração
+  D                      A                G
+Você, você, você, meu raio de luz, a luz que conduz
+A           D
+A nossa paixão
+
+Solo: E B7 A E
+
+(Repete Tudo)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E9 = 0 2 4 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

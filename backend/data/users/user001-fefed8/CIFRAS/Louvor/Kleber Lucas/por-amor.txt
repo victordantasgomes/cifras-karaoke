@@ -1,0 +1,155 @@
+@titulo: por-amor
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Por Amor
+
+Intro: F  D
+
+Solo do Teclado:
+
+E|-5-7-8-----5-7-8----------|
+B|--------------------------|
+G|--------------------------|  
+D|--------------------------|
+A|--------------------------|
+E|--------------------------|
+
+C           G
+Junto a tua mesa estamos
+Am           F
+Pra partir o pão
+Dm           C/E
+Dando graças pelo corpo
+F9            G
+Vida em comunhão
+C                 G
+Do teu sangue partilhamos
+
+Am                F
+Lembranças lá da cruz
+Dm           C/E
+Sacrifício de amor
+F9               F/G       G/A
+De um pai que entregou seu filho
+
+C    G/B   Am     F
+Por amor, por amor
+Dm             C/E
+Em meu lugar Jesus sofreu
+F                G
+Mesmo eu sendo um pecador
+C    G/B  Am      F
+Por amor, por amor
+Dm          C/E
+Todo preço ele pagou
+F              F/G
+Mesmo eu sendo um pecador
+
+Interlúdio F  D
+
+C           G
+Junto a tua mesa estamos
+Am           F
+Pra partir o pão
+Dm            C/E
+Dando graças pelo corpo
+F9            G
+Vida em comunhão
+C                 G
+Do teu sangue partilhamos
+Am               F
+Lembranças lá da cruz
+Dm         C/E
+Sacrifício de amor
+      F9          F/G       G/A
+De um pai que entregou seu filho
+
+C    G/B  Am     F
+Por amor, por amor
+    Dm        C/E
+Em meu lugar Jesus sofreu
+F                 F/G  G/A
+Mesmo eu sendo um pecador
+C    G/B  Am    F
+Por amor, por amor
+Dm          C/E
+Todo preço ele pagou
+F                 F/G      F9 F F9
+Mesmo eu sendo um pecador
+
+E|--8--7h8------------------|
+B|--7--7--------------------|
+G|--5--5--------------------|  
+D|--------------------------|
+A|--------------------------|
+E|--------------------------|
+
+           Am
+Ele é o cordeiro santo
+F              Dm  Dm/C   Bm   E
+Que foi morto para nossa redenção
+       Am
+O sacrifício aceito
+       F
+A garantia que nos deu
+   C                   G/B F/A E/G#
+De volta o acesso ao pai
+
+ F  E  C     Am
+Ele é o cordeiro santo
+F             Dm Dm/C      B C D   E
+Que foi morto pa-ra no-ssa re-den-ção
+
+E|-------------------------------|
+B|-------------------------------|
+G|--10-9-7--5-7---5--------------|  
+D|---------------------7---------|
+A|--8--7-5--3-5---3--------------|
+E|---------------------5---------|
+
+        Am
+O sacrifício aceito
+     F
+A garantia que nos deu
+    C                  Bm  F/G F/A
+De volta o acesso ao pai
+
+C    G/B   Am     F
+Por amor, por amor
+Dm             C/E
+Em meu lugar Jesus sofreu
+F                G
+Mesmo eu sendo um pecador
+C    G/B  Am      F
+Por amor, por amor
+Dm          C/E
+Todo preço ele pagou
+F              F/G     C
+Mesmo eu sendo um pecador
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F/G = 3 X 3 2 1 X
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3

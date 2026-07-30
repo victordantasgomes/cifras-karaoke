@@ -1,0 +1,49 @@
+@titulo: dor-de-amor-nao-tem-jeito
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - Dor de Amor Não Tem Jeito
+
+Intro: G Em C D G D C G
+
+G       Bm              C   G         Bm              C
+  Você fugiu das minhas mãos,  e mergulhou noutras paixões
+ G           Bm         C   G           Bm           C
+  Deixou pra mim a solidão,   e mesmo assim meu coração
+         D                       B7                               Em    D  C
+ Ainda quer você por perto, não sei se isso é certo, eu quero te odiar
+                  G        Em             Am             D        G    G7
+ Eu sei que eu te amo, eu sinto que eu te amo, mas não quero te amar
+
+----
+C              G             C                 G
+ Tentei te trocar por alguém,  mas não sei gostar de ninguém
+Em             Bm              C        D           G    C    D
+   A magia do amor, me enfeitiçou, não sei te esquecer
+
+Refrão:
+G             Em                         C           D        G    C
+Na madrugada, luz apagada (luz apagada), tudo que eu vejo é você
+G                    Em                C       D           G      C
+Milhões de estrelas, dentro do peito, dor de amor não tem jeito
+
+----
+
+ BIS
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

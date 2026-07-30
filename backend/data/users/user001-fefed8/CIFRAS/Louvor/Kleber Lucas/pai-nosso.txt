@@ -1,0 +1,71 @@
+@titulo: pai-nosso
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Pai Nosso
+
+Intro (Fundo musical com teclado): C  Am  G F  C  Am  G  F
+
+Solo: Violão, Teclado e Guitarra
+
+E|--------------------------------------------------------------|
+A|--------------------------------------------------------------|
+D|--------------------------------------------------------------|  2x
+G|--------------------------------------------------------------|
+B|-13----13---13----13----13----13----13----13---13---12--------|
+E|----12---12----12----12----12----12----12----12---13---13-----|
+
+E|--------------------------------------------------------------|
+A|--------------------------------------------------------------|
+D|--------------------------------------------------------------|   
+G|--------------------------------------------------------------|
+B|-12(x6)---10-10-10--12-12-12-13-13-13-15-15-15----------------|
+E|-------13-----------------------------------------------------|
+
+C                       Am
+Pai nosso que estás no céu
+                        F
+santificado seja o teu nome
+
+
+venha a nós teu reino
+           C           G             F
+assim na terra como no céu, como no céu
+
+C                   Am
+Pai nosso, dá-nos o pão
+               F           C
+e ensina a perdoar o meu irmão
+      G           F
+como eu fui perdoado
+
+C                 Am
+A honra, a glória, a força, domínio
+G                        F
+tudo para ti, pra sempre amém
+
+C                 Am
+A honra, a glória, a força, domínio
+G                        F
+tudo para ti, pra sempre amém
+
+( C  Am  F )
+
+livrai-nos do mal
+
+C           Am        G        F
+ôôôo ôôôo ôôôo ôôôo ôôôo ôôôo ôôôo ôôôo
+
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

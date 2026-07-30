@@ -1,0 +1,47 @@
+@titulo: dor-e-saudade
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Dor e Saudade
+
+Intro: F  Bb  F  Bb
+
+F              Am           D7        Gm
+Não,não posso mais ficar aqui na solidão
+Bb             Bb/C      C       Bb/C   C   F    Bb/C  C/E
+Se não me quer mais devolva então meu coração
+F             Am          D7           Gm  Bb
+Se te fiz sofrer eu já paguei por merecer
+                F       Dm         Gm     C     F    Eb/F  F  Bb
+O tempo não apagou,a saudade ficou machucando assim
+                         F            Dm      Gm
+Pensei que eu fosse esquecer mas é difícil viver
+      Bb/C        F  Eb                       Bb       C
+Sem você junto a mim,eu vou te amar como eu nunca te amei
+
+ F                Gm                Bb      Bb/C    F  Ab/Eb  Eb/G
+Vem,traz teu sorriso que o meu paraíso é o seu coração
+ F                Gm              Bb       C    F
+Vem,que a felicidade é dor e saudade nessa solidão
+
+----------------- Acordes -----------------
+Ab/Eb = X 6 6 5 4 4
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+Bb/C = X 3 X 3 3 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+Eb = X 6 5 3 4 3
+Eb/F = X 8 8 8 8 X
+Eb/G = 3 X 1 3 4 X
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

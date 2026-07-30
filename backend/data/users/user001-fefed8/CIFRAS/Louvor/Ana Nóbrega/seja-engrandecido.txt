@@ -1,0 +1,92 @@
+@titulo: seja-engrandecido
+@autor:
+@intérprete: Ana Nóbrega
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ana Nóbrega - Seja Engrandecido
+
+[Intro] E9  D9/E  A
+        A#°  B4  B
+
+E9                    B/E
+Seja engrandecido, óh Deus da minha vida
+   A9           A#°         B4 B
+Tú és o Deus da minha salvação
+E9                  B/E
+És a minha rocha, a minha segurança
+      A9          A#°         B4 B
+Meus lábios sempre  Te exaltarão
+
+   E9                  D9
+Aleluia (aleluia), Te louvo (te louvo) pois
+ A9           A#°          B4 B
+Sei que sobre todos és Senhor
+   E9                 D9
+Aleluia (aleluia), Te louvo (te louvo) pois
+A9            B           E9
+Sei que sobre todos és Senhor
+
+
+E9                    B/E
+Seja engrandecido, óh Deus da minha vida
+   A9           A#°         B4 B
+Tú és o Deus da minha salvação
+E9                  B/E
+És a minha rocha, a minha segurança
+     A9           A#°         B4 B
+Meus lábios sempre  Te exaltarão
+
+    E9                E9/D
+Aleluia (aleluia), Te louvo (te louvo) pois
+A9            A#°          B4 B
+Sei que sobre todos és Senhor
+ E9                   E9/D
+Aleluia (aleluia), Te louvo (te louvo) pois
+A9            B           E9
+Sei que sobre todos és Senhor
+
+   E9                 E9/D
+Aleluia (aleluia), aleluia, (aleluia)
+   A9       F#m          B4 B
+Aleluia, louvemos ao Senhor
+
+    E9                 E9/D
+Aleluia (aleluia), aleluia, (aleluia)
+   A9       F#m          E9             B/C#
+Aleluia, louvemos ao Senhor
+
+   F#9                F#9/E
+Aleluia (aleluia), aleluia, (aleluia)
+    B9      G#m        C#4 C# F#9
+Aleluia, louvemos ao Senhor
+
+   F#9                F#9/E
+Aleluia (aleluia), aleluia, (aleluia)
+    B9      G#m        F#9
+Aleluia, louvemos ao Senhor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#° = X 1 2 0 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/C# = X 6 X 4 7 7
+B/E = X 7 9 8 7 7
+B4 = X 2 4 4 5 2
+B9 = X 2 4 4 2 2
+C# = X 4 6 6 6 4
+C#4 = X 4 4 1 2 X
+D9 = X X 0 2 3 0
+D9/E = X X 2 2 3 0
+E9 = 0 2 4 1 0 0
+E9/D = X 5 2 4 5 2
+F#9 = 2 4 6 3 2 2
+F#9/E = X 7 4 6 7 4
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

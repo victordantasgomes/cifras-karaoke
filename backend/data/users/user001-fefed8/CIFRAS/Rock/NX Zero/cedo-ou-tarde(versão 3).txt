@@ -1,0 +1,169 @@
+@titulo: cedo-ou-tarde(versão 3)
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nx Zero - Cedo Ou Tarde
+
+      C                    Em7
+E|----------------------------------------------------|
+B|----------------------------------------------------|
+G|----------0--------------------0--------------------|
+D|----5-------5-----------9--------9------------------|
+A|--3---3-------3-------7---7--------7----------------|
+E|----------------------------------------------------|
+
+      G5                   D11
+E|--------------------------------------------------|
+B|--------------------------------------------------|
+G|-------------0-------------------0----------------|
+D|-----12--------12-----------7------7--------------|
+A|--10----10--------10------5---5------5------------|
+E|--------------------------------------------------|
+
+        C
+Quando perco a fé
+      Em
+Fico sem controle
+      G
+E me sinto mal
+
+    D
+Sem esperança
+      C
+E ao meu redor
+     Em
+A inveja vai
+   G
+Fazendo as pessoas
+      D
+Se odiarem mais
+    C
+Me sinto só (me sinto só)
+     Em
+Mas sei que não estou (mas sei que não estou)
+      G            D
+Pois levo você no pensamento
+     C
+Meu medo se vai (meu medo se vai)
+     Em
+Recupero a fé (recupero a fé)
+   G
+E sinto que algum dia
+       D
+Ainda vou te ver
+ C
+Cedo ou tarde (cedo ou tarde)
+
+         C5
+E|------------------------------------------|
+B|------------------------------------------|
+G|---0-----0--------------------------------|
+D|---5-----5--------------------------------|
+A|---3-----3--------------------------------|
+E|------------------------------------------|
+
+Primeiro Refrão:
+
+ Em
+Cedo ou tarde
+         C
+A gente vai se encontrar
+ G                   D
+Tenho certeza, numa bem melhor
+ Em                        C              G
+Sei que quando canto você pode me escutar
+
+Segunda Parte:
+
+   C             Em
+Você me faz querer viver
+  G
+E o que é nosso
+   D
+Está guardado
+    C          Em
+Em mim e em você
+    G          D
+E apenas isso basta
+
+(Riff)
+    C
+Me sinto só (me sinto só)
+     Em
+Mas sei que não estou (mas sei que não estou)
+      G            D
+Pois levo você no pensamento
+     C
+Meu medo se vai (meu medo se vai)
+     Em
+Recupero a fé (recupero a fé)
+   G                         D
+E sinto que algum dia ainda vou te ver
+ C
+Cedo ou tarde (cedo ou tarde)
+
+          C5
+E|----------------------------------------|
+B|----------------------------------------|
+G|--0----0--------------------------------|
+D|--5----5--------------------------------|
+A|--3----3--------------------------------|
+E|----------------------------------------|
+
+Segundo Refrão:
+
+ Em
+Cedo ou tarde
+         C
+A gente vai se encontrar
+ G                   D
+Tenho certeza, numa bem melhor
+ Em                       C              G   D
+Sei que quando canto você pode me escutar
+
+( Em  C  G  D )  2x
+
+ Em
+Cedo ou tarde
+         C
+A gente vai se encontrar
+ G                   D
+Tenho certeza, numa bem melhor
+ Em                       C              G  D
+Sei que quando canto você pode me escutar
+
+ Em
+Cedo ou tarde
+         C
+A gente vai se encontrar
+ G                   D
+Tenho certeza, numa bem melhor
+ Em                       C              G
+Sei que quando canto você pode me escutar
+
+      G5
+E|------------------------------------|
+B|------------------------------------|
+G|------------0-----------------------|
+D|-----12-------12--------------------|
+A|--10----10-------10-----------------|
+E|------------------------------------|
+
+( C )
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+C5 = X 3 5 5 X X
+D = X X 0 2 3 2
+D11 = X 5 4 0 3 5
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X

@@ -1,0 +1,54 @@
+@titulo: azul
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - Azul
+
+Intro: G  Dm  F  G  C
+
+G         Em
+Tudo azul, todo mundo nú
+F         D7
+No Brasil, sol de norte a sul
+G          Em
+Tudo bem, tudo zen, meu bem
+F         D7
+Tudo sem força e direção
+F                  Am
+Nós somos muitos, não somos fracos
+D7                      G#    G
+Somos sozinhos nesta multidão
+            Em          Am
+Nós somos só um coração
+     Dm          Fm        C   F  C
+Sangrando pelo sonho de viver
+          Bb    F       C
+Eu nunca fui o rei do baião
+          Bb      F         G
+Não sei fazer chover no sertão
+
+         Am          Em
+Sou flagelado da paixão
+     F          Em
+Retirante do amor
+           F     G      C
+Desempregado do coração
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

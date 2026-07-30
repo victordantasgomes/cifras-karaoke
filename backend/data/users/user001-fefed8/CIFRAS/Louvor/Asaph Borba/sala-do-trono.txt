@@ -1,0 +1,44 @@
+@titulo: sala-do-trono
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Sala do Trono
+
+C               F          C            F
+Pai eu quero  contemplar tua glória e majestade
+C               F     C               F
+Pai eu quero te adorar em espírito e em verdade
+      Dm                         Em
+Não apenas no átrio ou no Santo lugar 
+F                       G
+Eu quero te entronizar entre os querubins
+      C                 G       Dm      F      C
+Ohhh Leva-me a sala do trono pelo novo e vivo caminho
+        Am      Em   Dm    Am      F     G      G7
+Pelo sangue de Jesus eterno sumo sacerdo___te
+        C       Em      F      G   F
+Ohhh, leva-me a sala do trono
+Dm      G       C
+Pra te adorar Senhor
+        C       Em      F      G   F
+Ohhhh, leva-me a sala do trono
+Dm      G       Am      
+Pra te adorar Senhor    
+Dm      G       C
+Pra te adorar Senhor    
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

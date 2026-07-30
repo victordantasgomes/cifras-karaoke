@@ -1,0 +1,53 @@
+@titulo: o-trem-ta-feio
+@autor:
+@intérprete: Teodoro e Sampaio
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Teodoro e Sampaio - O trem tá feio
+
+Intro: D D/F# G A/C# D A Em D/F# G A D A/C# D
+
+D          D/F#       G                D          A/C#
+Disse que aqui mais nada é de graça, nada é de coração
+ A               Em         D/F#                G
+Vamos num tal de toma-lá dá-cá, minha nega eu pago pra ver
+ A             D           A/C#
+Ver por debaixo o osso do angu
+ D         D/F#       G        A/C#    D                 A/C#
+Disse que aqui mais nada tem troco,  tudo o que vai não vem
+ A               Em             D/F#             G
+Perdem bodoque, facão corneta, quebra a defesa nega fulô
+ A                   D          A/C#
+Que o trem tá feio e é bem por aqui
+ D                                              A
+Meu facão guarani quebrou na ponta, quebrou no meio
+              Em                   D/F#      G       A D A/C#
+Eu falei pra morena que o trem tá feio, iá, iê, iá, oiá
+D   D/F#     G       A/C#     D           A/C#
+E a cana-caiana eu disse a raiva, carne de sol
+ A              Em            D/F#          G
+Palha, forró e fumo de rolo, tudo é motivo pra meu facão
+
+ E               D        A/C#
+Arma de pobre é fome, é facão
+ D     D/F#      G      A/C#     D          A/C#
+Abre semente, aperta inimigo, espeta até gavião
+ A               Em       D/F#              G
+Corta sabugo e lança um desafio, não conta nem até três
+  A                    D        A/C#
+Que o trem tá feio e é bem por aqui
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

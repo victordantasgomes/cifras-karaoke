@@ -1,0 +1,116 @@
+@titulo: sou-dela
+@autor:
+@intérprete: Nando Reis
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nando Reis - Sou Dela
+
+(intro) E5  D5  A5  E5
+
+E5                 D5
+Esperei por tanto tempo,
+A                      E
+E esse tempo agora acabou.
+E5                  D5
+Demorou mas fez sentido,
+A5                    E5
+Fez sentido o que chegou.
+E5                       D5
+Eu pensei que não fosse nunca,
+A5               E5
+Mas agora já se foi.
+E5                  D5
+Nunca mais parece triste,
+A5                      E5
+Triste eu era agora passou.
+
+(refrão)
+                    E5
+Porque eu estou com ela,
+
+      D5       A5          E5
+Sou dela, sem ela eu não sou.
+                   E5
+Porque eu preciso dela,
+    D5       A5      E5
+Só dela, com ela eu vou.
+
+(a base fica como na 1º parte!)
+
+E5                     D5
+Sempre olhei a mim nos outros,
+A5                     E5
+Estava em toda a multidão.
+E5                   D5
+Sendo muito e tendo pouco,
+A5                  E5
+Dando muita explicação.
+E5                    D5
+Quero olhar pra esse mundo,
+A5                    E5
+Ver o mundo em seu olhar
+E5                   D5
+Quero ser, te quero muito,
+A5                  E5
+Ficar junto e respirar.
+
+(refrão)
+
+C#m                     C#m/A
+Estava tão longe em outro lugar,
+     C#m/A#              C#m/A
+Trancado distante, na esfera lunar.
+ C#m
+A superfície é um deserto,
+     C#m/A
+O asfalto um avião.
+       C#m/A#
+Na prateleira de um depósito,
+          C#m/A
+Na cordilheira de um vulcão.
+     C#m                 A5
+Não vou te inundar, não vou te inundar,
+     F#                                  A5
+Não vou te inundar, não vou te inundar.
+
+ (E5 D5 A5 E5)
+
+E5                 D5
+A alegria é um presépio,
+A5                   E5
+A tristeza é a tentação.
+E5                   D5
+Três marias e um mistério,
+A5                    E5
+A surpressa em prossição.
+E5                D5
+Trocaria a eternidade,
+A5                  E5
+Pela noite que chegou.
+E5                 D5
+Luz do dia é realidade,
+A5                  E5
+De mãos dadas eu estou.
+
+(refrão)
+
+(vocalize) (E5 D5 A5)
+
+(refrão)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+C#m = X 4 6 6 5 4
+C#m/A = X 0 2 1 2 0
+C#m/A# = X X 8 6 5 4
+D5 = X 5 7 7 X X
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+F# = 2 4 4 3 2 2

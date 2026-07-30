@@ -1,0 +1,103 @@
+@titulo: so-voce
+@autor:
+@intérprete: Anderson Freire
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Anderson Freire - Só Você
+
+Intro: G  D/F#  Em  D#  F  C/G
+
+Primeira Parte:
+ G                               Em7
+Sei que não é fácil prestar atenção
+                                     C9
+A igreja está tão cheia rola uma tensão
+                      G/B    Am7
+Por isso decidi usar só um piano
+        D9          G
+Pra cantar essa canção
+                     D/F#    Em7
+Hoje é o dia mais feliz pra mim
+                      D9           C9
+Ouvi você falar nesse altar, que "Sim"
+                        G/B           Am7
+Embala o meu peito, me deixa até sem jeito
+D9                Em7
+Ai, é demais pra mim
+
+Pré-Refrão:
+
+               D9            C9       G/B
+Sou de carne e osso pra não me emocionar
+              D#7+     F                 Am       D9
+Tudo o que pedi em oração, agora é tudo realização
+   Em7             D9          C9             G/B           Am7
+O sol, agora será visto de manhã por duas pessoas em uma janela só
+              D           G   D
+Literalmente não estarei só
+
+Refrão:
+      G              D/F#    Em7
+Só você é a dona do meu coração
+                   D        C9
+Razão que causa a minha emoção
+             G/B         Am7     D9
+A lógica do meu grande amor é você
+      G                  D/F#     Em
+Só você pra preencher a minha canção
+                Bm7         C
+Piano e voz só foi uma questão
+                 G/B           Am           D9      Am  G/B  C  D9  Am  G/B  C  D9 Em
+O que eu queria mesmo era ter só pra mim a tua atenção
+
+Pré-Refrão:
+               D9            C9       G/B
+Sou de carne e osso pra não me emocionar
+              D#7+     F                 Am       D9
+Tudo o que pedi em oração, agora é tudo realização
+   Em7             D9          C9             G/B           Am7
+O sol, agora será visto de manhã por duas pessoas em uma janela só
+              Cm           G   D
+Literalmente não estarei só
+
+Refrão:
+      G              D/F#    Em7
+Só você é a dona do meu coração
+                   D9       C
+Razão que causa a minha emoção
+             G/B         Am7     D9
+A lógica do meu grande amor é você
+      G                  D/F#     Em7
+Só você pra preencher a minha canção
+                Bm7         C9
+Piano e voz só foi uma questão
+                 G/B           Am7          D9      Am  G/B  C  D9  Am  G/B  C  D9
+O que eu queria mesmo era ter só pra mim a tua atenção
+
+      G
+Só Você
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+C9 = X 3 5 5 3 3
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D#7+ = X X 1 3 3 3
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

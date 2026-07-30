@@ -1,0 +1,83 @@
+@titulo: graca
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Graça
+
+INTRO: A, A/C#, D, G, A, A/C#, D, G, A, A/C#, D, G,
+       A, A/C#, D, A, D, F#m, E, A, D, F#m, E, A, D, F#m, E, A, D, F#m, E
+
+A          D        F#m             E
+O que quero não faço,    o que faço não quero
+ A          D        F#m                   E
+Desprender deste laço    é o que eu mais quero
+A         D       F#m       E
+ O que eu aborreço  eu acabo fazendo
+A         D          F#m          E
+ E o bem que eu quis este eu não fiz
+
+A         D          A         D         A       G
+Graça, maravilhosa graça, que veio de graça pra todos nós
+ A         D         A           D               A               G
+Sangue, maravilhoso sangue, que limpa a todo instante que eu preciso
+A         D          A         D         A       G
+Graça, maravilhosa graça, que veio de graça pra todos nós
+ A         D         A           D               A               G
+Sangue, maravilhoso sangue, que limpa a todo instante que eu preciso
+
+
+SOLO: A, D, A, G, A, D, A, G, A ] 2 vezes
+
+A            D         F#m           E
+ O que faço não aprovo,  o que aprovo não faço
+     A     D          F#m         E
+E o vício deste laço continua em mim
+A           D           F#m           E
+ Se faço o que não quero  já não faço eu
+A         D            F#m           E
+ Há pecado em mim mas Jesus me escolheu
+
+A         D          A         D         A       G
+Graça, maravilhosa graça, que veio de graça pra todos nós
+ A         D         A           D               A               G
+Sangue, maravilhoso sangue, que limpa a todo instante que eu preciso
+A         D          A         D         A       G
+Graça, maravilhosa graça, que veio de graça pra todos nós
+ A         D         A           D               A               G
+Sangue, maravilhoso sangue, que limpa a todo instante que eu preciso
+
+só a batera - A         D          A         D         A       G
+Graça, maravilhosa graça, que veio de graça pra todos nós
+ A         D         A           D               A               G
+Sangue, maravilhoso sangue, que limpa a todo instante que eu preciso
+
+SOLO: A, C, D, A, G, F#, A, C, D, A, G, F# (nesse solo a base fica toda em power chords)
+
+na hora falada são as mesmas notas do solo
+
+solo de baixo: E
+
+SOLO: A, C, D, A, G, F#, A, C, D, A, G, F# (nesse solo a base fica toda em power chords)
+
+solo de guitarra: E
+
+SOLO: A, C, D, A, G, F#, A, C, D, A, G, F# (nesse solo a base fica toda em power chords)
+
+SOLO: A, C, D, A, G, F#, A, C, D, A, G, F# (nesse solo a base fica toda em power chords)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

@@ -1,0 +1,83 @@
+@titulo: toca-na-rocha
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Toca Na Rocha
+
+(intro) F F5+ F F5+ Am D7 Gm Bbm6
+
+F       F5+       F
+Quando sem explicação
+    F5+        Am
+Teu mundo desabou
+   E7/G#      Am
+De tudo você fez
+    D4   D7     Gm     Bbm6      F
+Seu tudo não bastou e como reagir
+      F5+      F
+Se a força acabou
+   F5+      F
+E pode parecer
+    F5+            Am
+Que o teu Deus não vê
+    E7/G#           Am
+Que não se importa mais
+   D4   D7    Gm
+Como sobreviver?
+     Bbm6          F
+Se o deserto é assim
+   F5+         F  C9
+Então o que fazer?
+
+            F        C/E
+Toca com a tua fé na rocha
+    Bb/D          C9
+E a rocha vai jorrar
+Bb/D        F/A
+Águas vivas fluirão
+     C/E           Bb/D        C4 C
+E o teu deserto então florescerá
+      Dm  Am   Bb9         Eb7+/9
+Uma   fonte no ermo ele abrirá
+Bb/D  C/E Dm Am     Bb9
+Co...mo um rio Deus vai encher
+     Bbm6
+Tua vida e viverás
+
+(solo)
+F F5+ F F5+ Am D7 Gm Bbm6
+
+(início)
+         Dm  C  C/E  F  Bb9
+...viverás
+
+(refrão)
+
+(solo final)
+F F5+ F F5+ F
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb/D = X 5 X 3 6 6
+Bb9 = X 1 3 3 1 1
+Bbm6 = 6 X 5 6 6 X
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C4 = X 3 3 0 1 X
+C9 = X 3 5 5 3 3
+D4 = X X 0 2 3 3
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+E7/G# = 4 X 2 4 3 X
+Eb7+/9 = X 6 5 7 6 X
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F5+ = X X 3 2 2 1
+Gm = 3 5 5 3 3 3

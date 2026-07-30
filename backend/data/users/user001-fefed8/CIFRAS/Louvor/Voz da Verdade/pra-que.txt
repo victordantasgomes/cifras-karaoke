@@ -1,0 +1,117 @@
+@titulo: pra-que
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Pra Quê?
+
+[Intro]  F#m  E  A  E  E4  E  F#m  E  A  E
+
+[Solo]
+
+E|-2/4-2-0-2---4------4-5-4-------------------------4-4-5-7-7-5-4h5p4--------|
+B|---------------2----------5/7-7/9-9-9---------------------------------5----|
+G|-----------------------------------------1h2p1-----------------------------|
+D|---------------------------------------------2-----------------------------|
+A|---------------------------------------------------------------------------|
+E|---------------------------------------------------------------------------|
+
+E|-----------4-5------------0---0---0---0----0---------|
+B|-------5--------5-5/7-5-----4---2---0----------------|
+G|-6-4-6------------------------------------2--1-------|
+D|-----------------------------------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+           F#m  E  A           E  E4  E
+Vou lhe falar,     de um alguém
+            F#m  E  A               E  E4  E
+Que pode levar,     seus sonhos além
+
+             F#m  G#m  A              E  E4  E
+Vou lhe mostrar,       um mundo melhor
+         F#m  G#m  A        B    E
+Que mudará         seu caminho
+
+         E/G#  A        B    B/D#
+Vou lhe fa----lar de um só Deus
+         G#m      C#m  E
+Que mudará a sua vida
+            A               B
+Na cruz morreu, doou o seu sangue
+          G#m           C#m  B
+Só pra curar as suas feridas
+        A            B
+E este homem está aqui
+            G#m         B
+Só pra te amar e pra dizer
+
+( F#m  G#m  A  E  E4  E  F#m  G#m  A  E )
+
+           F#m  E  A           E  E4  E
+Vou lhe falar,     de um alguém
+            F#m  E  A              E  E4  E
+Que pode levar,    seus sonhos além
+             F#m  E  A             E  E4  E
+Vou lhe mostrar,    um mundo melhor
+         F#m  E  A        B     E
+Que mudará       seu caminho
+
+         E/G#  A            B   B/D#
+Vou lhe fa----lar de um só Deus
+         G#m      C#m  E
+Que mudará a sua vida
+            A               B
+Na cruz morreu, doou o seu sangue
+          G#m           C#m  B
+Só pra curar as suas feridas
+        A            B
+E este homem está aqui
+            G#m         B
+Só pra te amar e pra dizer
+
+      E      C#m     G#m
+Pra quê? chorar, sofrer
+          A             B          E
+Se há um Deus que tudo pode por você
+      C#m     G#m
+Pra quê? solidão
+       A               B              E
+Deixe Jesus cristo entrar no teu coração
+
+[Solo] C#m  G#m  A  B  E
+
+      E      C#m     G#m
+Pra quê? chorar, sofrer
+          A             B          E
+Se há um Deus que tudo pode por você
+      C#m     G#m
+Pra quê? solidão
+       A               B              E
+Deixe Jesus cristo entrar no teu coração
+
+[Solo] C#m  G#m  A  B
+
+      C#m     G#m
+Pra quê? solidão
+       A               B              A   E4  E
+Deixe Jesus cristo entrar no teu coração
+
+Pra quê?
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,113 @@
+@titulo: voce-merece
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Você Merece
+
+Intro: || D9 | E  F#m7 | E  D || (2x)
+
+ A
+Cada vez que eu olho pra trás
+ F#m7
+Vejo o cuidado de Deus
+              D              E             A     D  Bm7
+Lembro com carinho o dia que eu conheci você
+ A
+Hoje eu te respeito demais
+ F#m7
+Vejo a falta que você faz
+            D            A/C#
+Não demore tanto assim a me procurar
+ Bm7                   E
+Não mandei me conquistar
+ D                      E                      A     D  A/C#
+Nossa comunhão vai invadir as portas da eternidade
+ Bm7                    E                     A
+Temos que escolher canções pra cantar pro Senhor
+ D                E/B   A     A/C#  D
+Não espero perfeição; quero o teu amor
+
+ A/C#     Bm7           D              E                 A
+Não abro mão de você, não abro mão de tudo que Deus revelou
+ D    E A
+Você merece espaço em meu coração
+         F#m7
+O meu carinho, a minha comunhão
+          D                  A/C#
+Nossa amizade o Senhor escreveu
+            D                  E
+NÓs somos prova do cuidado de Deus
+      A/E
+Dia e noite vou orar por você
+             F#m7
+Estamos em guerra, precisamos vencer
+          D                    A/C#
+Eu sinto força ao segurar tua mão
+        D            E            A     Bm7  A/C#
+E nada mais vai impedir nossa oração
+
+ D                                                       A
+Nossa comunhão...                       ...que Deus revelou
+ D    E A                                D                  E
+Você merece espaço...               ...prova do cuidado de Deus
+E/F#   B
+Dia e noite vou orar por você
+            G#m7
+Estamos em guerra, precisamos vencer
+          E                   B/D#
+Eu sinto força ao segurar tua mão
+        C#m7         F#
+E nada mais vai impedir
+ F/G    C
+Você merece espaço em meu coração
+         Am7
+O meu carinho, a minha comunhão
+          F                 C/E
+Nossa amizade o Senhor escreveu
+           Dm7                 F/G
+NÓs somos prova do cuidado de Deus
+ G/A   D/A
+Dia e noite vou orar por você
+            Bm7
+Estamos em guerra, precisamos vencer
+          G                    A
+Eu sinto força ao segurar tua mão
+        G/B          A
+E nada mais vai impedir
+  (final) G9   A  Bm7   A  G     G9   A  Bm7   A  G
+Nossa oração
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#m7 = X 4 6 4 5 4
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D9 = X X 0 2 3 0
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/F# = X X 4 4 5 4
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F#m7 = 2 X 2 2 2 X
+F/G = 3 X 3 2 1 X
+G = 3 2 0 0 0 3
+G#m7 = 4 X 4 4 4 X
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G9 = 3 X 0 2 0 X

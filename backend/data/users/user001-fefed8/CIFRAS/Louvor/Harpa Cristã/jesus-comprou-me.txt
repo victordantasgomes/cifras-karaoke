@@ -1,0 +1,48 @@
+@titulo: jesus-comprou-me
+@autor:
+@intérprete: Harpa Cristã
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Harpa Cristã - Jesus Comprou-me
+
+   A        F#m    D             E    Bm             E7         A
+Jesus  comprou-me  do  mundo  aqui  palavras  doces  são  para  mim
+    A7           D   D#°          A     F#m          E7        A
+Jesus  comprou-me  e  vai  me  dar  eterno  gozo  celeste  lar. (2x)
+
+A        F#m      D          E             Bm    E7           A
+Jesus  comprou-me  dá  escravidão  a  paz  eu  gozo  por  seu  perdão
+  A7        D         D#°    A   F#m          Bm   E7   A
+Sou  desprezado  um  pouco  aqui  mas  eu  espero  gozar  ali.  (2x)
+
+A        F#m         D      E              Bm        E7     A
+Jesus  comprou-me  e  eu  fiquei  pra  sempre  livre  da  dura  lei
+  A7        D   D#°       A   F#m           Bm  E7        A
+Agora  espero  até  ele  vir  pra  que  me  leve  ao seu  porvir. (2x)
+
+A         F#m      D        E           Bm     E7          A
+Ó  vinde  amigo  e  junto  a  nós  ouvi  depressa  do  céu  a  voz
+  A7         D    D#°     A    F#m       Bm    E7       A
+O  que  demora  não  chegará  porque  se  perde  e  morrerá.  (2x)
+
+A        F#m         D     E             Bm     E7           A
+Jesus  comprou-me  e  me  dará  lugar  às  mesas  que  esperam  lá,
+
+  A7            D   D#°   A    F#m   Bm          E7        A
+Ouve  o  convite  ó  pecador  pois  jesus  cristo  é  o  salvador.  (2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D#° = X X 1 2 1 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

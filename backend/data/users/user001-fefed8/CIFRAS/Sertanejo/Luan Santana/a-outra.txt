@@ -1,0 +1,85 @@
+@titulo: a-outra
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - A Outra
+
+Intro: C#m C#m7+ C#m7 F# A B E
+
+       E                 G#m
+Trouxe o meu colchão pra sala,
+  A                 Am6
+Hoje eu vou dormir aqui
+           C#m7         F#/A#
+Pois não quero relembrar
+      A         B
+Os momentos que vivi
+     E                G#m
+O lençol que a gente usava
+       A          Am6
+Tem perfume de jasmim
+       C#m7         F#/A#
+O que tanto me agradava
+      A              B
+Hoje não faz bem pra mim
+           C#m          C#m7+
+Depois que você foi embora
+       C#m7          F#/A#
+Entrou outra em seu lugar
+
+     A              E/G#           A         B
+E é só quando eu me deito que ela vem me visitar
+
+           E            G#m
+Passa as mãos em meus cabelos
+          C#m7          B
+Insiste muito em me beijar
+      A       F#m            B        ( B  Cº )
+E eu com delicadeza peço pra se afastar
+        C#m           C#m7+
+Eu não quero compromissos
+         C#m          C#m6
+Nem tão pouco me apegar
+       F#m          G#m
+Nem novela tenho visto
+       A         B           E B
+Dá vontade de chorar, de chorar
+
+       E          G#7          C#m
+Tenho medo de acordar de madrugada
+       D/E       A
+E uma luz semi apagada
+      F#m7          B
+Refletir ela pra mim
+           E        G#7            C#m          F#/A#
+Sei que está tão curiosa e louca pra me perguntar
+        F#m         E/G#
+Quem esta no seu lugar
+         A          B             E
+Quem roubou meu coração se chama solidão
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am6 = 5 X 4 5 5 X
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+C#m6 = X 4 X 3 5 4
+C#m7 = X 4 6 4 5 4
+C#m7+ = X 4 6 5 5 4
+Cº = X 3 4 2 4 2
+D/E = X X 2 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G#7 = 4 6 4 5 4 4
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,57 @@
+@titulo: desafio
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Desafio
+
+Intro: E
+
+E            A               C#m
+Tentei ser melhor e não consegui.
+                  A       C#m
+O mal que eu não quis pratiquei.
+                  A          C#m
+Por mais que eu tentasse a vida é assim.
+A            B          E
+Senhor tem piedade de mim.
+
+E           B             C#m
+Tentei ser santo e me frustrei.
+             B             F#m
+Tentei ser perfeito, não alcancei.
+                 C#m       A         C#m   B
+Mas uma voz eu ouvi que o justo pela fé viverá.
+             E                B
+Eu vou continuar ao lado de Jesus.
+              A                      C#m
+Tentando ser melhor por causa daquela cruz.
+
+                 E                  B
+Ele também foi homem e sabe me compreender.
+                   A          B           E
+Fez o que fez por mim, por isso eu irei vencer.
+
+               B
+Aleluia! Vou vencer.
+       A      B             E
+Pelo sangue derramado lá na cruz.
+                B
+Este sangue tem poder.
+        A      B          E
+Ele sara e purifica o meu ser.
+
+( E  B  C#m  A )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,52 @@
+@titulo: homem-descartavel
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Homem Descartável
+
+B                        E
+Eu estou procurando um amor
+           C#m                    F#7
+Que seja linda, inteligente, uma flor
+         B                      E
+Meu coração se alimenta de carinho
+          C#m                        F#7
+Que seja muito e que nunca tenha espinho.
+
+B                            F#7
+Vou ser feliz e te fazer tão feliz
+B                           F#7
+Vou ser amigo, amante e tudo o que quer
+E                        F#7
+Vai ser o máximo ser minha mulher.
+
+B                     E
+Eu estou carente de amor
+           C#m                    F#7
+Mas quero amar e não quero sentir dor
+         B                 E
+Meu coração tem tudo pra você
+           C#m                      F#7
+Tem muito amor, tem emoção e tem prazer.
+
+B                           E
+Eu me cansei de ser um objeto
+             C#m                 F#7
+De alguém que usa e abusa assim direto
+            B                   E
+Não quero ser um homem descartável
+           C#m                    F#7
+Que alguém usa e abusa assim tão fácil.
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#7 = 2 4 2 3 2 2

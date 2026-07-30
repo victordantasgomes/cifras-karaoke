@@ -1,0 +1,168 @@
+@titulo: BIJUTERIA
+@autor: Bruno e Marrone
+@intérprete: Bruno e Marrone
+@tom: Am
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita: sim
+@bpm:
+@bateria:
+@guitarra:
+@baixo:
+@teclado:
+@modoexecucao:
+@tempoexecucao: 3:40
+
+[@observacao] ﻿BIJUTERIA – BRUNO E MARRONE - CIFRACLUB
+[@observacao] INÍCIO COM VIOLÃO E VOZ
+[@observacao] Tom: Am
+
+
+[Primeira Parte]
+
+          Am
+Quando a noite cai
+
+É que eu sinto a falta
+       Dm
+Que você me faz
+
+Saudade em quem não passa
+          E7
+E nem me deixa em paz
+
+A sombra de um amor
+            Am        E7
+Que já brilhou demais
+
+      Am
+Você foi pra mim
+
+A coisa mais bonita
+         Dm
+Que me aconteceu
+
+Não pode imaginar
+           E7
+Os sonhos que me deu
+
+E quanta insegurança
+       Am         A7
+Me deixou o adeus
+
+[Pré-Refrão]
+
+   Dm
+Amei você
+G
+   Sem truque, sem maldade
+        C
+Fiz o meu papel
+F
+   Eu quis lhe oferecer
+             Dm
+O que ninguém me deu
+E7
+    Você não acredita
+          Am     A7
+Mas eu fui fiel
+
+   Dm
+Amei você
+G
+   Mas hoje posso ver
+             C
+Que foi melhor assim
+F
+   Preciso te esquecer
+             Dm
+Pra me lembrar de mim
+E7               Am A7
+    A vida continua
+
+[Refrão]
+
+       Dm
+E no brilho
+              G
+De uma pedra falsa
+      C                  F
+Dei amor a quem não merecia
+        Dm                  E7
+Eu pensei que era uma jóia rara
+
+        Am    A7
+Era bijuteria
+
+        Dm
+Das mentiras
+              G
+Das palavras doces
+      C                      F
+Vi calor no teu olhar tão frio
+      Dm                  E7
+Da beleza do teu rosto esconde
+           Am       A7
+Um coração    vazio
+
+[Pré-Refrão]
+[@solo]
+Dm  G  C7M  F7M  Bm7(5-)  E  Am  A7  G/B  A7/C#   
+[@/solo]
+[@sample]
+[t=2.19]
+[@/sample]
+   Dm
+Amei você
+G
+   Sem truque, sem maldade
+        C
+Fiz o meu papel
+F
+   Eu quis lhe oferecer
+             Dm
+O que ninguém me deu
+E7
+    Você não acredita
+          Am     A7
+Mas eu fui fiel
+
+   Dm
+Amei você
+G
+   Mas hoje posso ver
+             C
+Que foi melhor assim
+F
+   Preciso te esquecer
+             Dm
+Pra me lembrar de mim
+E7               Am A7
+    A vida continua
+
+[Refrão]
+
+       Dm
+E no brilho
+              G
+De uma pedra falsa
+      C                  F
+Dei amor a quem não merecia
+        Dm                  E7
+Eu pensei que era uma jóia rara
+           Am A7
+Era bijuteria
+
+        Dm
+Das mentiras
+              G
+Das palavras doces
+      C                      F
+Vi calor no teu olhar tão frio
+      Dm                  E7
+Da beleza do teu rosto esconde
+                 Am
+Um coração vazio

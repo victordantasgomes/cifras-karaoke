@@ -1,0 +1,68 @@
+@titulo: sem-voce
+@autor:
+@intérprete: Victor e Leo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Victor e Leo - Sem você
+
+(o Victor utiliza o capotraste na 2ª casa. Se for usá-lo abaixe um tom)
+
+(intro) A   F#m   D   E
+
+E |-----5--5-7/9-9----|
+B |-5/7--7------------|
+G |-------------------|
+
+A
+Nas incertezas de um caminho
+que é tão doído sem você
+   F#m
+eu já me encontrava tão sozinho
+antes de adeus você dizer
+   D
+na mágoa de um sonho
+que acabou
+                                 A
+dia a dia sentia você partir sem rumo
+   E                 A
+perdido vou ficando aqui
+
+
+(refrão)
+A                F#m
+sem você...sem você
+      D
+nem o tempo me faz companhia
+        Bm
+não me arranque essa agonia
+E               A         F#m
+de viver sem você...sem você
+    D
+o silêncio dessas horas frias
+      Bm                   E
+são palavras que não sei dizer
+
+             A   F#m   D   Bm   E
+ainda amo você
+
+(voltar ao início)
+(repete o refrão na 2ª vez)
+(termina com o verso)
+             A
+ainda amo você
+
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+A*  = X 0 2 2 2 0 - (*B na forma de A)
+B*  = X 2 4 4 4 2 - (*C# na forma de B)
+Bm*  = X 2 4 4 3 2 - (*C#m na forma de Bm)
+D*  = X X 0 2 3 2 - (*E na forma de D)
+E*  = 0 2 2 1 0 0 - (*F# na forma de E)
+F#m*  = 2 4 4 2 2 2 - (*G#m na forma de F#m)
+G*  = 3 2 0 0 0 3 - (*A na forma de G)

@@ -1,0 +1,58 @@
+@titulo: cantarei-ao-senhor
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Cantarei ao Senhor
+
+[INT] -> Em - G/E - A/E (ah.....) 2x
+
+E       B/D#    C#m    A
+   Cantarei ao Senhor
+           E     B/D#       C#m    A
+Um cântico novo, um cântico novo
+E                   B/D#      C#m    A
+     Porque Ele tem feito maravilhas
+        E B/D#    C#m    A
+Na minha vida, na sua vida
+
+F#m         B                  F#m
+Na minha angústia clamei ao Senhor
+       B                        F#m
+Ele ouviu a minha voz, o meu clamor
+      B                          F#m
+E inclinou os seus ouvidos para mim
+             B
+Por isso, então me alegrarei
+
+     G#m                       C#
+A alegria no Senhor é a nossa força
+
+  G#m                      C#
+Grande é o Senhor em Seus feitos
+     A        E/G#       F#m   -   E/G#m
+Com vozes de júbilo cantarei
+   A         E/G#         B
+Ao som de trombetas louvarei
+E          B/D#     C#m   -  A.......
+    Cantarei ao Senhor...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/E = 0 X 2 2 2 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4
+G/E = 0 2 0 0 3 3

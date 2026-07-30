@@ -1,0 +1,62 @@
+@titulo: maravilhas
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Maravilhas
+
+[Intro]  C#m  B9  A9  B9
+
+C#m         B9
+Maravilhas, o Senhor fez por nós
+A9                 C#m    B9
+Por isso, estamos alegres
+C#m            B9
+A vitória pertence ao Senhor
+  A9                      C#m
+E sobre o Seu povo, a Sua benção
+           B                   C#m
+Lançou no mar o cavalo e o seu cavaleiro
+A                 B          C#m
+Deus quebrou o arco de bronze
+               B                   C#m
+Sim, Jesus Cristo levou cativo, o cativeiro
+      A              B
+E nos deu em Seu nome,
+C#m          B9          A9
+Forças para quebrar as cadeias
+C#m          B9     A9
+Autoridade, poder e fé
+
+C#m       B9     A9
+Uma nova vida revelada lá na cruz
+    F#m                G#
+Em  nome de Jesus de Nazaré
+
+ C#m  B9  A9       B9
+Em nome de Jesus de Nazaré
+ C#m  B9  A9    B9
+Em nome de Jesus
+ C#m  B9  A9       B9
+Em nome de Jesus de Nazaré
+     F#m     G#
+Esse nome a poder
+
+C#m  B9  F#  F#m  C#m  B9  C#m
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G# = 4 3 1 1 1 4

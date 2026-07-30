@@ -1,0 +1,66 @@
+@titulo: a-preco-de-sangue
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - A Preço de Sangue
+
+Intro:  D9  A7
+
+D      A/C#    G/B   A7   D      A/C#    G/B     A7
+Quando a alma abrir              e a verdade     reinar
+Bm   F#m/A          G           F#m
+Dissipando as trevas com sua luz
+Em  Em7/D   A7
+Te      liberta  -  rá
+D      A/C#    G/B   A7   D      A/C#    G/B     A7
+Água então fluirá (água então fluirá)
+D      A/C#    G/B     A7
+Vida em ti haverá (vida em ti haverá)
+Bm   F#m/A     G            F#m
+Tão palpável como tua mão
+Em  Em7/D   A7
+Paz no coração
+
+G#m7(b5)  Gm6              F#m7
+Alegria        obtida a preço de sangue
+             B7(b9)             Em7
+A paz concedida a preço de vida
+             A47                Am7   D7
+A morte vencida e todo o pecar
+     G#m7(b5)  Gm6              F#m7
+Sangue que é derramado com alegria
+             B7(b9)            Em7
+Vida que é dada por ter amado
+F#m7    Gm7   C7     D   :||   Final:  D  C  G   D7M
+Cristo morrendo pra te salvar
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+B7(b9) = X 2 1 2 1 X
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+D7M = X X 0 2 2 2
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+Em7/D = X X 0 0 3 0
+F#m = 2 4 4 2 2 2
+F#m/A = X 0 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G#m7(b5) = 4 X 4 4 3 X
+G/B = X 2 0 0 3 3
+Gm6 = 3 X 2 3 3 X
+Gm7 = 3 X 3 3 3 X

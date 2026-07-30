@@ -1,0 +1,47 @@
+@titulo: venho-a-ti
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Venho a Ti
+
+E7+/9   E                                    F#m/Eb G#5+/7  Cº
+Venho a Ti e    sei que não estou mais sozinho
+               C#m7+  A7+               F#m  D9  A/B
+Muitas vozes se elevam para o céu
+               E7+/9         E                           F#m/Eb G#5+/7  Cº
+Venho a Ti como aqueles irmãos verdadeiros
+            C#m7+      A7+           F#m   A/B
+Que comigo dão a ti seus corações
+
+   F#m   A/B     E7+ C#m      F#m        A/B       G#m    C#m
+E tu que és o amor,             escuta cada prece de dor de amor
+   A9       B/A  G#m  Gdim F#m            A/B                        G#m        C#m
+E tu que és a paz                 dá-nos a esperança em cada momento, Senhor
+    F#m         A/B    E7+ C#m F#m     A/B     E9
+E abre o paraíso a nós,       e abre o paraíso a nós.
+
+----------------- Acordes -----------------
+A/B = X 2 2 2 2 X
+A7+ = X 0 2 1 2 0
+A9 = X 0 2 2 0 0
+B/A = X 0 4 4 4 X
+C#m = X 4 6 6 5 4
+C#m7+ = X 4 6 5 5 4
+Cº = X 3 4 2 4 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E7+ = X X 2 4 4 4
+E7+/9 = X 7 6 8 7 X
+E9 = 0 2 4 1 0 0
+F#m = 2 4 4 2 2 2
+F#m/Eb = X 6 0 6 7 5
+G#5+/7 = 4 7 6 5 4 X
+G#m = 4 6 6 4 4 4
+Gdim = 3 X 2 3 2 X

@@ -1,0 +1,33 @@
+@titulo: cherny
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nx Zero - Cherny
+
+      G                Em               C
+O cherny é um peix boi que bufa com o bufallo
+  D            Ab7                         Fm4
+Que anda com a perna, que se erna mas não hiberna
+          Db4                     Dm7
+Mas que se cheira e não se sente, porque ele foi trabalhar
+         E/G#               B                    D
+Por quer el anda pelas nuvens pulando de casa em casa.
+
+----------------- Acordes -----------------
+Ab7 = 4 6 4 5 4 4
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Db4 = X 4 4 1 2 X
+Dm7 = X 5 7 5 6 5
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+Fm4 = 1 1 3 1 1 1
+G = 3 2 0 0 0 3

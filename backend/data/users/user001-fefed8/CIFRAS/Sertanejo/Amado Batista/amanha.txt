@@ -1,0 +1,39 @@
+@titulo: amanha
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Amanhã
+
+(intro) D E A D E A D G E
+
+A               G
+Amanhã bem cedinho
+          A
+Eu passo aqui pra te convidar
+             G                 A
+Para um passeio, para se divertir
+
+D        G            A
+Nunca mais eu vou chorar
+D           G          A
+Tenho certeza que te amo
+D           G            E
+Não vou sofrer e nem chorar
+
+A                      G           A
+Nesse dia todas as flores vão se abrir
+                    G           A
+E o sol bem mais bonito vai se por
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3

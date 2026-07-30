@@ -1,0 +1,57 @@
+@titulo: alguem
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Alguém
+
+(intro) C G Am F  C G F
+
+C                                      G
+É melhor parar de me perguntar
+F                           F/G  F
+Os meus sonhos não revelo a ninguém
+C
+Todos os meus segredos
+G                       F  F/G
+Guardados estão no meu coração
+F7M               G
+Me enganei confiando tanto
+F7M                    G
+Me entregando à paixão
+F7M                C7M
+Mas em Deus quebra-se o encanto
+Dm7                   G
+De uma amarga ilusão
+
+C       G         Am
+Alguém falou que
+
+               F
+Eu não ia ser ninguém
+C         G        Am
+Mas Deus mostrou que
+              F
+Eu iria muito além
+C       G             Am
+Palavras não me fazem mais
+F
+Perder o chão
+C       G                  F            F/G         C
+Estrada  estou seguindo em sua direção
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7M = X 3 2 0 0 X
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+F/G = 3 X 3 2 1 X
+F7M = 1 X 2 2 1 X
+G = 3 2 0 0 0 3

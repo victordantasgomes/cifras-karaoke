@@ -1,0 +1,93 @@
+@titulo: o-que-os-olhos-nao-veem-o-coracao-nao-sente
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - O Que Os Olhos Não Veem o Coração Não Sente
+
+(intro)
+               E              G#m
+E|---------------------------------|
+B|---------4-4h5h4-4h5h4-5h7p5-----|
+G|4-4-4-4-6--------------------4---|
+D|---------------------------------|
+A|---------------------------------|
+E|---------------------------------|
+
+                A                   B
+E|----------4-4h5h4-4h5h4-4h5h4---------|
+B|-5-5-5-5-7--------------------5-5/7---|
+G|--------------------------------------|
+D|--------------------------------------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+                E              G#m
+E|------------------------------7--|
+B|----------4-4h5h4-4h5h4-5h7p5----|
+G|4-4-4-4-6------------------------|
+D|---------------------------------|
+A|---------------------------------|
+E|---------------------------------|
+
+
+                    A     B
+E|-4-4-4-5-7-7/9-7--4------|
+B|--------------------5/7--|
+G|-------------------------|
+D|-------------------------|
+A|-------------------------|
+E|-------------------------|
+
+E                          G#m
+Talvez eu seja um pouco imaturo
+                 A                   B
+Talvez seja inseguro, resolvi me afastar
+E                       G#m
+Eu não sei me faz indiferente
+                     A                      B
+E nem sou como essa gente que consegue disfarçar
+     A                        G#m
+Não vou sorrir pra esconder a dor,
+                     A                  B
+Quando se perde um amor se perde a direção.
+A                             G#m
+Não vou fingir nem me fazer de forte,
+                        A                         B
+Não fui eu quem teve a sorte de encontrar outra paixão
+
+(refrão)
+B                     E                  G#m
+E o que os olhos não vêem o coração não sente
+                 A                   B
+Não posso te encarar assim tão de repente
+                 C#m                G#m                     B
+Eu começo a lembrar vou me descontrolar, chorar na sua frente
+B                     E                  G#m
+E o que os olhos não vêem o coração não sente
+                  A                          B
+Eu não vou conseguir fingir que estou contente
+                    C#m                 G#m                   B        A    B
+Vou precisar de um tempo pra te esquecer por isso estou ausente
+
+(repete tudo)
+
+B                     E                  G#m
+E o que os olhos não vêem o coração não sente
+                  A                          B
+Eu não vou conseguir fingir que estou contente
+                    C#m                 G#m                   B        A    B
+Vou precisar de um tempo pra te esquecer por isso estou ausente
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+G#m = 4 6 6 4 4 4

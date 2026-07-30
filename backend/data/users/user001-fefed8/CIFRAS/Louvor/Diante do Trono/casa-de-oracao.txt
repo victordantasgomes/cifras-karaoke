@@ -1,0 +1,66 @@
+@titulo: casa-de-oracao
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Casa de Oração
+
+Intro: F
+
+        F                Am7
+Faz de nós uma casa de oração
+       Dm             C
+Para a cura desta nação
+           G                     Dm7
+Derrama em nossos corações um clamor
+     C    G       Dm
+O uooooooou o uoooooooooooooo
+
+
+        F                    Am7
+Faz de nós atalaias sobre os muros
+          G                     Dm7
+Que não cessem de clamar diante de Ti
+     C       G       Dm7     F
+O uoooooooooou o uoooooooooooooo
+     C       G       Dm7     F
+O uoooooooooou o uoooooooooooooo
+
+
+
+Am7                  C
+Cura, restaura nossa sorte
+           F                     Dm7          G
+Levanta as ruínas, daquilo que um dia foi tua glória
+Am7              C
+Muda a nossa história
+            F                 Dm7           G
+Perdoa os pecados, e sara as feridas, aviva-nos Senhor
+
+
+Am7  G/B  C4  C     Am7  G/B  F
+
+
+Volta pro primeiro verso, duas vezes o "ouoo",
+refrão 2x e instrumental:
+
+Am7  G/B  C4  C     Am7  G/B  F
+
+Depois do instrumental final, se houver ministração,
+Volta pro "ouooo"
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C4 = X 3 3 0 1 X
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

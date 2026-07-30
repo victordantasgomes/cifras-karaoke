@@ -1,0 +1,112 @@
+@titulo: o-espirito-e-a-noiva-dizem-vem
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - O Espírito e a Noiva Dizem Vem
+
+INTRO: ::  D2  :  D2  :  Bm7(11)  :  Bm7(11)  :
+        :  D2  :  D2  :  Bm7(11)  :  G7M(9)   A  ::
+
+D2
+OUÇO O SOM DE MUITAS ÁGUAS
+Bm7(11)
+OUÇO VOZES CELESTIAIS
+G7M(9)           D/F#
+TODA A CRIAÇÃO CELEBRA
+           Bm    A2
+AQUELE QUE VEM
+
+D2
+MULTIDÕES COM VESTES BRANCAS
+   Bm7(11)
+DE TODA LÍNGUA E NAÇÃO
+C                   G/B
+AGUARDANDO O GRANDE DIA
+           D/A          A     A     G/B    G/E
+EM QUE O VERÃO FACE A FACE
+
+
+     C     G/B      D2
+SEUS OLHOS SÃO COMO FOGO
+    C     G/B      D2
+SUA VOZ COMO UM TROVÃO
+      C/G  Em   D2         Asus   A   /A   G/B   G/E
+SOBRE UM CAVALO BRANCO ELE VEM
+ C    G/B        D2
+AMADO DAS NOSSAS ALMAS
+   C       G/B     D2
+QUEREMOS CONTIGO ESTAR
+    C/G    Em  D2          Asus   A
+O ESPÍRITO E A NOIVA DIZEM VEM
+         1: Bm7(11)   G7M(9)
+         2: D    C    G/B     G     D    [STOP]
+SENHOR JESUS
+
+F                  G             D
+EIS QUE VEM COM AS NUVENS E TODO OLHO O VERÁ
+D      G/E    F          G       Asus    A
+AL  -  FA  E  ÔMEGA, PRINCÍPIO E FIM
+ F            G           D
+AQUELE QUE QUISER BEBA DA ÁGUA DA VIDA
+     F          G
+POIS SEM DEMORA VEM
+G/B            A/C#
+VEM PRA NOS BUSCAR
+  F/D             G/E
+SEGUNDO AS NOSSAS OBRAS
+    G       A
+NOS RETRIBUIRÁ
+   F            G
+NO SANGUE DO CORDEIRO
+   F/A         F/G    G/A
+QUEREMOS NOS LAVAR
+
+     D     A/C#      E2
+SEUS OLHOS SÃO COMO FOGO
+    D     A/C#      E2
+SUA VOZ COMO UM TROVÃO
+      D/A  F#m   E2        Bsus    B     B   A/C#    A/F#
+SOBRE UM CAVALO BRANCO ELE VEM
+ D    A/C#        E2
+AMADO DAS NOSSAS ALMAS
+   D       A/C#    E2
+QUEREMOS CONTIGO ESTAR
+    D/A    F#m  E2         Bsus   B   [ B   A/C#   A/F#]
+O ESPÍRITO E A NOIVA DIZEM VEM
+         E     D    A/C#    A     E     [STOP]    E
+SENHOR JESUS
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/F# = 2 0 2 2 2 0
+Asus = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+Bm7(11) = 7 X 7 7 5 X
+Bsus = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D2 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F/A = 5 X 3 5 6 X
+F/D = X X 0 5 6 5
+F/G = 3 X 3 2 1 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G/E = 0 2 0 0 3 3
+G7M(9) = 3 2 4 2 X X

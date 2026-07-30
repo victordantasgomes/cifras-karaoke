@@ -1,0 +1,83 @@
+@titulo: heteronomia
+@autor:
+@intérprete: Scalene
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Scalene - Heteronomia
+
+[Intro] C  Am  Bb4  Dm
+        Am  F  Gm
+        F  C/E  Dm
+
+Dm          Gm                 Dm
+Atento ao pudor e tentado a quebrá-lo
+Dm          Gm              F
+Do berço já veio a noção de pecar
+Dm     Gm
+É inevitável
+Dm        Gm
+É incontrolável
+Dm         Gm            F
+O peso nos ombros vai me dobrar
+
+C       Dm             Bb4
+Se o perdão vai prevalecer
+C          Dm                Bb4
+Por que a culpa está sempre aqui?
+
+C         Am         Bb4  Dm
+Quero existência sem dor
+
+Am             F       Gm  F  C/E  Dm
+Sentir em liberdade e amor
+
+Dm        Gm              Dm
+Não é necessário se violentar
+Dm            Gm            F
+Constantes cobranças descomunais
+Dm           Gm
+Endeusam um lado
+Dm          Gm
+Demonizam o outro
+Dm         Gm           F
+Antigos sistemas aprisionais
+
+C         Dm              Bb4
+Certo e errado não é de alguém
+C      Dm          Bb4
+Para poder monopolizar
+
+C         Am         Bb4  Dm
+Quero existência sem dor
+Am             F       Gm  F  C/E  Dm
+Sentir em liberdade e amor
+
+C         Am         Bb4  Dm
+Quero existência sem dor
+Am             F       Gm
+Sentir em liberdade e amor
+
+C
+Quero (o bem e a fé posto com sistema)
+    Am         Bb4                              Dm
+Existência sem dor (doutrinário perde sua função)
+Am
+Sentir (estamos sempre nos mesmos dilemas)
+        F       Gm
+Em liberdade e amor (que mais nos limitam do que nos faz ver)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb4 = X 1 3 3 4 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

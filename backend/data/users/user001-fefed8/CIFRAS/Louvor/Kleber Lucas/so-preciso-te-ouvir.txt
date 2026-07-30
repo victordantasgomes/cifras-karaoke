@@ -1,0 +1,72 @@
+@titulo: so-preciso-te-ouvir
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Só Preciso Te Ouvir
+
+Intro: F  C  Dm  Bb9
+
+F                   C
+ Eu só preciso Te ouvir
+        Dm            Bb9
+ Pra caminhar sobre o mar
+F       C           Dm
+ Uma palavra Tua Senhor
+       Bb9
+ E tudo que eu preciso
+
+Dm7         Am7
+ E os meus pés
+        Bb9              F/A
+  Vão correndo em Tua direção
+               C
+  Preciso Te dizer
+
+            Gm7
+  Como eu Te amo
+ F/A          C
+  Como eu Te adoro
+
+              F     Gm7   Bb9      ( Passagem: F  G  A  Bb )
+  Como eu Te exalto maravilhoso
+
+F                    C
+  Eu só preciso Te ouvir
+                 Dm7
+  E todos os meus medos
+        Bb9
+  Vão embora
+F        C          Dm7
+  Uma palavra Tua Senhor
+         Bb9
+  E tudo que eu preciso
+
+Dm7         Am7
+  E o meus pés
+        Bb9              F/A
+  Vão correndo em Tua direção
+               C
+  Preciso Te dizer
+
+Solo: Dm  F  Gm7  Am7
+     (Tu és maravilhoso... Tu és maravilhoso...)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+G = 3 2 0 0 0 3
+Gm7 = 3 X 3 3 3 X

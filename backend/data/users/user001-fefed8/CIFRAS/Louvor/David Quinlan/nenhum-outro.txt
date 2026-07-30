@@ -1,0 +1,53 @@
+@titulo: nenhum-outro
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Nenhum Outro
+
+INT -> | C9  Am7  G  G4  G |3x
+
+G                    G4 G                           C9
+  NÃO HÁ OUTRO AMIGO       NENHUM OUTRO AMIGO COMO TU SENHOR
+D                 D4 D                           G  G4 G
+  NEM OUTRO IRMÃO       NENHUM OUTRO IRMÃO COMO TU
+
+G                    G4 G                          C9
+  NÃO HÁ OUTRO AMOR        NENHUM OUTRO AMOR COMO TU SENHOR
+D                 D4 D                   G
+  NEM OUTRA FONTE       DOCE FONTE COMO TU
+
+Am7                 Em7              Am             Em7
+    ATÉ QUANDO FICAREI INSATISFEITO?    EU PRECISO MAIS DE TI
+Am7                  C9                       D
+   POIS EM SIÃO NASCI O AMOR NASCIDO EM MIM CLAMA POR TI PRECISO DE TI
+
+G              C9                       G           D
+  SE EU SOU CURADO COM UM TOQUE DO TEU MANTO SENHOR
+   G                       C9                   G              D
+ENTÃO QUANTO MAIS DO TEU AMOR HÁ PARA MIM E EU NEM POSSO IMAGINAR
+
+
+G           C9             G       D
+  ATRAÍ-ME      LEVA-ME E CORREREI
+G                        C9                  G         D C9 Am7 G G4 G
+  PELAS MONTANHAS E POR DENTRO DOS VALES CONTIGO CORREREI
+
+   C9  Am7                        G
+| TO__DAS MINHAS FONTES ESTÃO EM TI |3x
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G4 = 3 5 5 5 3 3

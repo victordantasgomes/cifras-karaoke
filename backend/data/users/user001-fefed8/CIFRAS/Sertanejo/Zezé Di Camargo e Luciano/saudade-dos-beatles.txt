@@ -1,0 +1,103 @@
+@titulo: saudade-dos-beatles
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Saudade Dos Beatles
+
+Intro: A E/G# D/F# A A4
+
+A                 E
+Às vezes volto no tempo
+       D                A
+Numa viagem do meu pensamento
+               E/G#
+Eu era só um menino
+          D/F#                  A
+Cabelos compridos, olhando o destino
+Dm6         A
+ Arrisquei uma canção
+Dm6           A
+ Dedilhei meu violão
+Dm6             A     F#m
+ Sem querer fui me lembrar
+
+Bm          Dm6      A
+Deu vontade de    chorar
+Bm          Dm6      A
+Deu vontade de    chorar
+
+D                 A
+  Que saudade dos Beatles
+D                  A
+  São lembranças demais
+D                 A
+  Que saudade dos Beatles
+F#m       Bm       Dm6         A
+Um sonho lindo que não volta atrás
+D                 A
+  Que saudade dos Beatles
+D                  A
+  São lembranças demais
+D                 A
+  Que saudade dos Beatles
+F#m    Bm        Dm6      A
+E dos amigos que não vejo mais
+ A         G#m
+Yesterday
+        C#7               F#m       D E
+All my troubles seemed so far away
+
+A                 E/G#
+Às vezes penso em tudo
+             D/F#            A
+Parece que a vida passou num segundo
+                   E/G#
+Sonhos e flores ao vento
+          D/F#             A
+Rolam nas ruas do meu sentimento
+Dm6               A
+ Fui lembrar de outra canção
+Dm6             A
+ Machuquei meu coração
+Dm6          A      F#m
+ Pus o disco pra tocar
+Bm          Dm6      A
+Deu vontade de   chorar
+Bm          Dm6      A
+Deu vontade de   chorar
+D                 A
+  Que saudade dos Beatles
+D                  A
+  São lembranças demais
+D                 A
+  Que saudade dos Beatles
+F#m       Bm       Dm6         A
+Um sonho lindo que não volta atrás
+D                 A
+  Que saudade dos Beatles
+D                  A
+  São lembranças demais
+D                 A
+  Que saudade dos Beatles
+F#m    Bm        Dm6      A
+E dos amigos que não vejo mais
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+Bm = X 2 4 4 3 2
+C#7 = X 4 3 4 2 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm6 = X 5 X 4 6 5
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

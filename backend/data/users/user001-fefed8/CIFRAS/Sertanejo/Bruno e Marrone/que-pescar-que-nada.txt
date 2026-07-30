@@ -1,0 +1,79 @@
+@titulo: que-pescar-que-nada
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Que Pescar Que Nada
+
+(intro)  G C G C G7
+
+(acompanhamento do baixo)
+( C ) 53 42 45
+( G ) 63 52 55
+( F ) 43 32 35
+( D ) 55 44 47
+( A ) 65 54 57
+
+(parte 1)
+      C                                          G
+Já paguei quem eu devia graças a Deus eu to sossegado
+                                                C
+Eu pus o burro na sombra e to levando até meu cunhado
+                                                    G
+Enchi o tanque do carro comprei cigarro e uma pinga boa
+                                                  C
+Juntei a traia de pesca vai ser uma festa lá na lagoa
+                                                     G
+Falei pra minha patroa que a farra é boa e bem comportada
+                                                 C
+Eu vou com alguns amigos, não tem perigo nessa parada
+
+                                                     G
+Não ponho a cara pra fora nem jogar bola ela quer deixar
+                                                    C
+O jeito que tem agora é falar pra ela que eu vou pescar
+
+(refrão)
+                G                  C
+Que pescar que nada vou beijar na boca
+           G                          C
+Ver a mulherada na madrugada ficando louca
+                G                C
+Que pescar que nada vou matar a fome
+  C7           F               G             C
+Lá ninguém se mete lá vai ter sete pra cada homem
+
+(C G C G C) (2x) G7
+
+(parte 1)
+
+(refrão 2x)  ( D )
+
+ D              A                  D
+Que pescar que nada vou beijar na boca
+           A                          D
+Ver a mulherada na madrugada ficando louca
+                A                D
+Que pescar que nada vou matar a fome
+
+  D7           G               A             D
+Lá ninguém se mete lá vai ter sete pra cada homem (3x)
+
+( D A D A D )
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

@@ -1,0 +1,71 @@
+@titulo: nao-olhe-assim
+@autor:
+@intérprete: KLB
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+KLB - Não Olhe Assim
+
+Introdução: F Dm Bb (3x)
+            F Dm C
+
+Solo: B|--------9----10----9--------------13---   (5x)
+      G|---10--------------------10------------  
+
+F                    Am             Bb             C 
+Tire seus olhos dos meus, eu não quero me apaixonar 
+F                 Am            Bb                C
+Ficou em mim o adeus, que deixou esse medo de amar 
+Dm              Am             Bb             F
+Eu já amei uma vez e senti a força de uma paixão 
+Dm                     Am             Bb            
+A gente às vezes se entrega demais esquece de ouvir 
+   C   C7
+razão 
+           F      Dm          Am  
+Não olhe assim não, você é linda demais 
+Bb          F                   Gm      C    F        C7
+Tem tudo aquilo que um homem procura em uma mulher 
+           F      Dm          Am    
+Não olhe assim não, porque até sou capaz 
+Bb          F               Gm      C           F      C7
+De atender esse meu coração que só diz que te quer
+
+(Repete)
+F                    Am             Bb             C 
+Tire seus olhos dos meus, eu não quero me apaixonar 
+F                 Am            Bb                C
+Ficou em mim o adeus, que deixou esse medo de amar 
+Dm              Am             Bb             F
+Eu já amei uma vez e senti a força de uma paixão 
+Dm                     Am             Bb            
+A gente às vezes se entrega demais esquece de ouvir 
+   C   C7
+razão 
+           F      Dm          Am  
+Não olhe assim não, você é linda demais 
+Bb          F                   Gm      C    F        C7
+Tem tudo aquilo que um homem procura em uma mulher 
+           F      Dm          Am    
+Não olhe assim não, porque até sou capaz 
+Bb          F               Gm      C           F C7      F
+De atender esse meu coração que só diz que te quer
+
+Solo
+20-20-20-20-21-23-10-23-30-30-10-10-10-10-12-13-20
+20-20-20-20-21-23-10-23-30-30-10-10-10-10-12-12-10-23
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

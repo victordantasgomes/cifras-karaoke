@@ -1,0 +1,107 @@
+@titulo: te-cuida-coracao
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Te Cuida Coração
+
+(intro) ( E B9 A A9 Am )
+
+(riff 1)             (riff 2)
+E|-----------|     e|----------------|
+B|---3h5-5h4-|     b|---3h5-5h3h4h2--|
+G|-3---------|     g|-3--------------|
+D|-----------|     d|----------------|
+
+E                   (riff1)
+Já cansei de avisar
+B9              (riff1)
+Pro meu coração
+A9                   (riff1)
+Pra ele tomar cuidado
+E              (riff2)
+Com essa paixão
+E                     (riff1)
+O amor quando é demais
+B9               (riff1)
+É um campo minado
+A9                  (riff1)
+Se explodir um adeus
+
+E                   (riff2)
+Coração sai machucado
+
+(parte 2)
+   G#7               C#m
+O amor é bonito, é gostoso
+          G#7
+Mas é perigoso
+              C#m
+Tem que saber amar
+ F#7                 B
+Ficar sem amor não consigo
+               F#7
+Sei que é um perigo
+            B
+Posso me machucar
+A9            B9
+Vai com calma coração
+ C#m               A9
+Se cuida com essa paixão
+
+G|--4----------
+D|----3-2------
+A|--------3-2--
+
+
+  E
+O amor é lindo e gostoso
+         B9
+Mas é perigoso
+            E
+Te cuida coração       (2x)
+
+(coro)
+              B
+Coração apaixonado
+          A
+Só quer amor
+                E
+Não tem medo de nada
+                 E
+Não sabe o que é certo
+                   B
+Não sabe o que é errado
+Só quer amor
+              E
+Coração apaixonado
+
+( E F#m G )
+
+(repete parte 2)
+
+(coro)
+
+( A9 G#m F#m E9 F#m G#m A9 G#m F#m E )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E9 = 0 2 4 1 0 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#7 = 4 6 4 5 4 4
+G#m = 4 6 6 4 4 4

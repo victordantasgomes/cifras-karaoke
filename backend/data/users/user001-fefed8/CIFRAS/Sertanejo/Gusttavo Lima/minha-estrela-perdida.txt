@@ -1,0 +1,150 @@
+@titulo: minha-estrela-perdida
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Minha Estrela Perdida
+
+[Intro]
+
+E|4-2-2------------4-2-2---------2-4-5-4-4-2-2----2-----|
+B|------5-5-4-5---------5-5-4-5---------------5-5---5-4-|
+G|------------------------------------------------------|
+D|------------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+E|-16-14-14---------------16-14-14-------------14-16-17-16-16-14-14------14--------|
+B|---------17-17-16-17------------17-17-16-17----------------------17-17----17-16--|
+G|---------------------------------------------------------------------------------|
+D|---------------------------------------------------------------------------------|
+A|---------------------------------------------------------------------------------|
+E|---------------------------------------------------------------------------------|
+
+   E                  B/Eb
+Você vai rir, quando eu pedir
+    A             B
+Prá me fazer mais um favor
+      E            B/Eb
+Deixa eu sonhar, acreditar
+
+     A             B
+Mais uma vez, num grande amor
+
+ E                         B/Eb             C#m
+Mente que eu finjo que acredito no seu coração
+             C#m/B               A
+Conte uma mentira prá minha paixão
+               E/Ab                F#m   B
+Diz que ainda sou o que você mais quis
+ E                        B/Eb             C#m
+Mente que eu sou o sonho lindo que você sonhou
+             C#m/B               A
+Que a vida inteira você me esperou
+              E/Ab             F#m   B7
+Basta seu sorriso pra me ver feliz
+
+       E           B/Eb
+Só um beijo e nada mais
+        C#m         C#m/B
+Prá deixar você em paz
+         A          F#m          B
+E encontrar a minha estrela perdida
+       E           B/Eb
+Só um sonho e nada mais
+        C#m         C#m/B
+Depois disso tanto faz
+    A              F#m           B
+Uma noite pra esquecer de uma vida
+                  E
+Minha estrela perdida
+
+[Solo]
+
+E|4-2-2------------4-2-2---------2-4-5-4-4-2-2----2-----|
+B|------5-5-4-5---------5-5-4-5---------------5-5---5-4-|
+G|------------------------------------------------------|
+D|------------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+E|-16-14-14---------------16-14-14-------------14-16-17-16-16-14-14------14--------|
+B|---------17-17-16-17------------17-17-16-17----------------------17-17----17-16--|
+G|---------------------------------------------------------------------------------|
+D|---------------------------------------------------------------------------------|
+A|---------------------------------------------------------------------------------|
+E|---------------------------------------------------------------------------------|
+
+ E                         B/Eb             C#m
+Mente que eu finjo que acredito no seu coração
+             C#m/B               A
+Conte uma mentira prá minha paixão
+               E/A B                F#m   B
+Diz que ainda sou o que você mais quis
+ E                        B/Eb             C#m
+Mente que eu sou o sonho lindo que você sonhou
+             C#m/B               A
+Que a vida inteira você me esperou
+              E/Ab             F#m   B7
+Basta seu sorriso pra me ver feliz
+
+       E           B/Eb
+Só um beijo e nada mais
+        C#m         C#m/B
+Prá deixar você em paz
+         A          F#m          B
+E encontrar a minha estrela perdida
+       E           B/Eb
+Só um sonho e nada mais
+        C#m         C#m/B
+Depois disso tanto faz
+    A              F#m           B
+Uma noite pra esquecer de uma vida
+                  E
+Minha estrela perdida
+       E           B/Eb
+Só um beijo e nada mais
+        C#m         C#m/B
+Prá deixar você em paz
+         A          F#m          B
+E encontrar a minha estrela perdida
+       E           B/Eb
+Só um sonho e nada mais
+        C#m         C#m/B
+Depois disso tanto faz
+    A              F#m           B
+Uma noite pra esquecer de uma vida
+                  E
+Minha estrela perdida
+       E           B/Eb
+Só um beijo e nada mais
+        C#m         C#m/B
+Prá deixar você em paz
+         A          F#m          B
+E encontrar a minha estrela perdida
+       E           B/Eb
+Só um sonho e nada mais
+        C#m         C#m/B
+Depois disso tanto faz
+    A              F#m           B
+Uma noite pra esquecer de uma vida
+                  E
+Minha estrela perdida
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/Eb = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+C#m/B = 7 X 6 6 5 X
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E/Ab = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,40 @@
+@titulo: santo-e-o-senhor-da-historia
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Santo É o Senhor da História
+
+E C#m A9       B         E C#m A9
+Santo é o Senhor da história
+       B       E C#m A9     B   E C#m A9 B
+Que liberta o homem da escravidão
+E C#m A9       B       E C#m A
+Santo é o Senhor que vem
+      B       E C#m A9       B    E E7
+Libertar seu povo de tanta opressão
+A9   B7            G#m  C#m
+Santo de eterna Glória
+             F#m B7             E E7
+Que nossa vitória não demore assim
+A9   B7              G#m  C#m
+Venha com Seu braço forte
+              F#m B7                  E A9 E
+Venha mudar a sorte desse seu povo enfim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

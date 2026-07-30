@@ -1,0 +1,56 @@
+@titulo: celebre(versão 2)
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Celebre
+
+Intro: F#m   D   F#m  D  
+       F#m    D   F#m  D
+
+F#m           E 
+Alegra teu coração 
+D      A9   E    F#m 
+Contigo está o teu Deus 
+F#m     E       D               A9  E
+Com seu amor renovará as tuas forças 
+F#m               E 
+Ele anulou tua culpa 
+D        A9   E   F#m 
+Teu inimigo já derrotou 
+      G                    D        E 
+E no lugar da vergonha te cobrirá de honra 
+F#m    E        D   E      F#m     
+Canta alegremente filha de Sião 
+     E              D
+Pois Ele mudará tua sorte 
+F#m      E    D 
+Com brados de vitória
+        E       F#m      E      D    
+Saltos de alegria diante do Senhor
+
+Intro: F#m  D  F#m  E  D  
+
+ F#m E D    E         
+Celebre Celebre 
+ F#m E D    E 
+Celebre Celebre
+ F#m E D    E 
+Celebre Celebre
+ F#m E D    E
+Celebre Celebre
+
+Celebre Celebre
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

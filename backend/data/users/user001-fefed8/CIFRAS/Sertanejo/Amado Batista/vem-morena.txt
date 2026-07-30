@@ -1,0 +1,70 @@
+@titulo: vem-morena
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Vem Morena
+
+Intro.:  G7 C G D7 G      G7 C G D7 G D
+                              
+E|----------------------------------------------------------
+B|----------------------------------------------------------
+G|-----5-5-----5-7/9-9-7-5-4---4-5/7-7-5-4-2--4-5-4-5-5/7-7-
+D|-5-5-----5-5---------------5------------------------------
+A|----------------------------------------------------------
+E|----------------------------------------------------------
+
+E|----------------------------------------------------------
+B|----------------------------------------------------------
+G|-5-----5-7/9-9-7-5-4---4-5/7-7-5-4-2--2-2h4/5-5-4-2-0-----
+D|---5-5---------------5--------------------------------2-0-
+A|----------------------------------------------------------
+E|----------------------------------------------------------
+
+         G                     D7
+         Vem morena vem vem amar, me ama
+                                              G              D
+         Este jovem que está sempre a te esperar, te esperar
+ESTROFE  G                       D7
+         Vem morena é noite de luar, de luar
+                                   G    G7
+         Só você só você quero beijar
+
+        C                      G
+O teu amor é a razão do meu viver,
+                  D7                G  G7
+É o sonho mais bonito que eu podia ter.
+     C                           G
+Eu quero me entregar aos teus carinhos,
+                    D7                     G      D
+Construir o nosso ninho te adorar até morrer, morrer
+
+ESTROFE 1x
+SOLO INTRO
+ESTROFE 1x
+
+G7        C7                   G
+Eu tenho medo de um dia te perder,
+                  D7                       G   G7
+Pois se isso acontecer, eu sei que vou sofrer.
+      C7                     G
+Não quero nem pensar em solidão,
+                    D7                  G     D
+Pois meu pobre coração, só chama por você, você.
+
+ESTROFE 2X
+FINAL
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

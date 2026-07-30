@@ -1,0 +1,97 @@
+@titulo: arrebatados
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Arrebatados
+
+Solo da introdução:
+
+1ª Parte
+E|---------------------------------------------------------------------
+A|---------------------------------------------------------------------
+D|----------------------------11-----------------------11--------------
+G|--8-10-11-----------11-10-8----8---8-10-11---11-10-8----8------------
+B|----------9-11-11-9------------------------9-------------------------
+e|---------------------------------------------------------------------
+
+2ª Parte
+E|---------------------------------------------------------------------
+A|---------------------------------------------------------------------
+D|----------------------------11------------------------11-------------
+G|--8-10-11-----------11-10-8----8---8-10-11-10-11-10-8----8-----------
+B|----------9-11-11-9--------------------------------------------------
+e|---------------------------------------------------------------------
+
+Solo do meio da música:
+E|---------------------------------------------------------------------
+A|---------------------------------------------------------------------
+D|------------------------------------------------11-------------------
+G|-------------------11-9-11---8-10-11-10-11-10-8----8-----------------
+B|-10-12-----12-10-9---------------------------------------------------
+e|-------9-9-----------------------------------------------------------
+
+
+
+
+INT ->  D#m B C# G# :B C# G# : D#m B C# G# : B/D# C#/F G#
+
+D#m               B7M   D#m7                 B7M     C#
+AINDA RESTA UMA CHANCE, O    CANDELABRO NÃO SE   APAGOU
+    D#m  B7M          D#m         B7M  C#
+DESPERTA,    E VENHA COMO ESTÁS AGORA
+ D#m               B7M   C#
+PODE SER AGORA OU NÃO   MAIS
+
+      D#m                        G#m                 C#
+VOCÊ TEM A TUA CHANCE, MAS VOCÊ NÃO  QUER SE ARREPENDER
+            D#m                           G#m          C#
+ATÉ QUE OS CÉUS SE ABRAM, E AS RESPOSTAS SUBIRÃO, PORQUE...
+            D#m             B7M           G#m          C#
+ATÉ QUE OS CÉUS SE ABRAM, E AS RESPOSTAS SUBIRÃO, PORQUE...
+
+       F#m      D              A             E
+ARREBATADOS, EU OUÇO A VOZ DO MEU SENHOR CHAMAR
+       F#m        D           A             E
+ARREBATADOS, NAS BODAS DO CORDEIRO QUERO ESTAR
+       F#m       D           A             E
+ARREBATADOS, AS PORTAS SE ABRIRAM, VOU ENTRAR
+       F#m        D           A        E        F#m D E B : D#m C# G#
+ARREBATADOS, TEM FESTA LÁ NO CÉU E EU FUI CONVIDADO
+
+D#m               B7M      D#m          B7M   C#
+AINDA RESTA UMA CHANCE, O FIO DE PRATA AINDA NÃO ROMPEU
+    D#m B7M            D#m     B7M  C#   D#m                B7M
+HÁ CURA     DA DOR PROFUNDA DA ALMA     AINDA É POSSÍVEL VIVER
+
+      D#m                        G#m                 C#
+VOCÊ TEM A TUA CHANCE, MAS VOCÊ NÃO  QUER SE ARREPENDER
+            D#m                           G#m          C#
+ATÉ QUE OS CÉUS SE ABRAM, E AS RESPOSTAS SUBIRÃO, PORQUE...
+            D#m             B7M           G#m          C#
+ATÉ QUE OS CÉUS SE ABRAM, E AS RESPOSTAS SUBIRÃO, PORQUE...
+
+SOLO ->  F#m D : F#m D : F#m D : F#m D : Bm C#m D : Bm C#m E
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B7M = X 2 4 3 4 2
+Bm = X 2 4 4 3 2
+C# = X 4 6 6 6 4
+C#/F = X 8 X 6 9 9
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D#m = X X 1 3 4 2
+D#m7 = X X 1 3 2 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4

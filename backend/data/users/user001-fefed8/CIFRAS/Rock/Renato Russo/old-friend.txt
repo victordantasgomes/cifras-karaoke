@@ -1,0 +1,115 @@
+@titulo: old-friend
+@autor:
+@intérprete: Renato Russo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renato Russo - Old Friend
+
+Intro: C  D  G4  G  G9  G
+
+G               D/F#   Em        Em7
+Everytime I've lost another lover
+C  C/A        D         D4 D
+I call up my old friend
+    C                D
+And say let's get together
+C              D
+I'm under the weather
+C        D                 G
+Another love has suddenly come to an end
+        G            D/F#        Em       Em7
+And he listens as I tell him my sad story
+     C            C/A       D  D4 D
+And wonders at my taste in men
+       C            D
+And we wonder why I do it
+         C                D
+And the pain of getting through it
+         C             D                G      G7
+And he laughs and says: "You'll do it again !"
+
+        C       D         G
+And we sit in a bar and talk till two
+       F        G       C4    C    C
+'Bout life and love as old friends do
+    D/F#       D          G
+And tell each other what we've been through
+  C          D   Bm      Em7
+How love is rare, life is strange
+C          D  Bm     Em7
+Nothing lasts, people change
+
+(Intro)
+
+      G               D/F#        Em        Em7
+And I ask him if his life is ever lonely
+C         C/A           D     D4 D
+And if he ever feels despair
+         C                  D
+And he says he's learned to love it
+                C            D
+'Cause that's really a part of it
+        C                 D                       G      G7
+And it helps him feel the good times when they're there
+
+(Refrão)
+
+      G               D/F#        Em        Em7
+And we wonder if I'll live with any lover
+C  C/A             D     D4 D
+Or spend my life alone
+        C            D
+And the bartender is dozing
+           C                 D
+And it's getting time for closing        |Sobe meio tom aqui|
+
+So we figure that I'll make it on my own
+
+           C#         Eb         G#
+But we'll meet in the year we're sixty-two
+     F#         G#     C#4    C#    C#
+And travel the world as old friends do
+     Eb/G      Eb        G#
+And tell each other what we've been through
+    C#      Eb   Cm      Fm7
+How love is rare, life is strange
+C#      Eb    Cm     Fm7
+Nothing lasts, people change
+C#      Eb   Cm       Fm7
+Love is rare, life is strange
+C#      Eb    Cm        Fm7
+Nothing lasts, people... change...
+
+( C#  Eb  G#4  G#  G#9  G# )
+
+----------------- Acordes -----------------
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#4 = X 4 4 1 2 X
+C/A = X 0 2 0 1 0
+C4 = X 3 3 0 1 X
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+Eb = X 6 5 3 4 3
+Eb/G = 3 X 1 3 4 X
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+Fm7 = 1 X 1 1 1 X
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#4 = 4 6 6 6 4 4
+G#9 = 4 6 8 5 4 4
+G4 = 3 5 5 5 3 3
+G7 = 3 5 3 4 3 3
+G9 = 3 X 0 2 0 X

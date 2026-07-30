@@ -1,0 +1,64 @@
+@titulo: cidades
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - cidades
+
+( F# A B )
+
+Cidade que tem muita luz
+Cidade de Deus sem ter paz
+Cidade lustrada de som
+Cidade de um céu todo azul
+
+Cidade de contravenção
+Cidade de poluição
+Cidade de gente sem pudor
+Cidade de corrupção
+
+D               A
+Nos guetos, nos bares
+         B            F#
+Nas esquinas, nas prisões
+ D          A
+De vidas vazias
+G
+Nas varandas sujas de imponentes mansões
+
+
+ (F# A B )
+
+Cidade das injustiças
+Cidade dos disparates
+Cidade de tantos medos
+Sonhos, amor e arte
+
+Cidade da noite clara
+Cidade de jóias raras
+Cidade sem uma direção
+Cidade de uma paixão
+
+D                A
+Nas praias, nos shoppings
+     B            F#
+Nas linhas do metrô
+D           A
+A grande comédia
+    G
+Do certo e do errado no mesmo elevador
+
+(F# A B )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+D = X X 0 2 3 2
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

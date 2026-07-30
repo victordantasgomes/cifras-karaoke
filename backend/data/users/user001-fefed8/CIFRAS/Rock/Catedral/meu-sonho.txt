@@ -1,0 +1,61 @@
+@titulo: meu-sonho
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Meu Sonho
+
+Obs.: O refrão termina 3 vezes em A, na quarta vez termine com um G.
+
+
+Intro: Bb9 Dm F (2x)
+
+        Bb9     Dm
+Eu quero o impossível
+                F
+Eu quero ver você
+        Bb9     Dm
+Num mundo diferente
+                F
+Fácil de entender
+        Bb9     Dm
+Atenda ao telefone
+                F
+Ligue a televisão
+Bb9     A
+Que hoje eu vou te contar
+        Dm Bb9 F A
+Meu sonho      (4x)
+
+        Bb9     Dm
+A paz já é possível
+                F
+Não é mais ilusão
+        Bb9     Dm
+Não há mais diferenças
+                F
+Em cada coração
+        Bb9     Dm
+As ruas estão livres
+                F
+Do medo e do terror
+Bb9     A
+Aumenta o radio que eu vou cantar
+        Dm Bb9 F A
+Meu sonho     (4x)
+
+
+Cifrada por: Judá Ferreira
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb9 = X 1 3 3 1 1
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

@@ -1,0 +1,46 @@
+@titulo: o-meu-amado
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - O Meu Amado
+
+Introdução: C G C
+
+   C
+O meu amado está a porta a bater
+       G               C
+Ouço sua voz e estremeço
+
+O seu falar é muitissimo suave
+          G            C  C7
+É deste amor que eu careço
+           F                        C
+Eu vi sua mão pela fresta da minha porta
+          G              C C7
+Que destilava mirra e aloés
+        F                    C
+O meu amado tem um nome excelente
+        G         C
+Ele é Jesus de Nazaré
+
+FINAL:
+        G         C
+Ele é Jesus de Nazaré
+
+        G           G# A# C
+Ele é Jesus de Nazaré
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

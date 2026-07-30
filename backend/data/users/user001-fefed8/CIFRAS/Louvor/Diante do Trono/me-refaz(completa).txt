@@ -1,0 +1,46 @@
+@titulo: me-refaz(completa)
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Me Refaz
+
+(intro 2x) Bm  D9/F#  Bm  D9
+
+
+E|--------2-------------2h5-2] (riff1) 2x
+A|---3--3-----------3--3-----]
+G|--4--4--4-------2--2-------]
+
+
+              Bm
+Teu amor me desfaz
+               D9/F#
+Teu amor me refaz
+              Em7      G/B   G9     A
+Quebra tudo e faz de  novo  e de novo
+              Bm
+Teu amor me desfaz
+               D9/F#
+Teu amor me refaz
+               Em      G/B       A
+Quebra tudo e faz de  novo  e de novo  Teu amor me refaz
+
+
+(instrumental 2x) Bm D9/F#  Bm  D9
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D9 = X X 0 2 3 0
+D9/F# = 2 X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G/B = X 2 0 0 3 3
+G9 = 3 X 0 2 0 X

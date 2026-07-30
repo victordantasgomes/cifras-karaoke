@@ -1,0 +1,125 @@
+@titulo: aqui-e-seu-lugar
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Aqui É Seu Lugar
+
+Intro: B E B F# B E B F# B F#
+
+Solo:
+E|------------------------------------|
+B|-----4-3\4----4-4-4-7-7-7-7-5-4-----|
+G|---4---3\4---------------------4----|
+D|------------------------------------|
+A|------------------------------------|
+E|------------------------------------|
+
+E|------------------------------------|
+B|-----4-3\4----4-4-4-7-7-7-7-5-4-----|
+G|---4---3\4------------------------6-|
+D|------------------------------------|
+A|------------------------------------|
+E|------------------------------------|
+
+E|------------------------------------|
+B|-----4-3\4----4-4-4-7-7-7-7-5-4-----|
+G|---4---3\4----------------------4---|
+D|------------------------------------|
+A|------------------------------------|
+E|------------------------------------|
+
+
+E|------------------------------------|
+B|------5-5-5-5-7-5-4---4-4-4---------|
+G|-4-4-4----------------------6-4-6---|
+D|------------------------------------|
+A|------------------------------------|
+E|------------------------------------|
+
+E|-----------------------5-4-7--------|
+B|-----------------5-7-9--------------|
+G|-6-6-6-4-3--4-6-8-------------------|
+D|------------------------------------|
+A|------------------------------------|
+E|------------------------------------|
+
+G#m                                D#m
+  Não dá pra entender esse  meu coração
+G#m                                D#m
+  mudou de amizade pra louca paixão
+  E                                D#m
+  então foi dessa forma que eu percebi
+  E                                F#     G°        G#m
+  não quero te assustar ou me iludir (não dá mais)
+  G#m                           D#m          G#m
+  não dá pra enganar ou querer fugir (não dá mais)
+  G#m                               D#m
+  Se esse sentimento vai crescendo em mim
+  E                               D#m
+  Mais tenho que encarar essa decisão
+  E                               F#
+  De me confessar e abrir meu coração
+
+Refrão:
+        B                                  E
+É pra você que eu mando flores todas as manhãs viu?
+     B                                      F#
+É você que faz meu coração bater a mais de mil
+        B                                    E
+Já não sei o que mais eu faço pra te conquistar
+                                   B
+Se liga vem depressa aqui é o seu lugar
+           F#                   B    F#
+ nesse coração que so quer te amar (2x)
+
+        G#m
+(não dá mais)
+G#m                             D#m          G#m
+não dá pra enganar ou querer fugir (não dá mais)
+G#m                             D#m
+Se esse sentimento vai crescendo em mim
+E                               D#m
+Mais tenho que encarar essa decisão
+E                                F#
+De me confessar e abrir meu coração
+
+Refrão:
+        B                                  E
+É pra você que eu mando flores todas as manhãs viu?
+     B                                      F#
+É você que faz meu coração bater a mais de mil
+        B                                    E
+Já não sei o que mais eu faço pra te conquistar
+                                   B
+Se liga vem depressa aqui é o seu lugar
+           F#                   B    F#
+ nesse coração que so quer te amar (2x)
+
+(solo)
+
+Refrão 2x:
+        B                                  E
+É pra você que eu mando flores todas as manhãs viu?
+     B                                      F#
+É você que faz meu coração bater a mais de mil
+        B                                    E
+Já não sei o que mais eu faço pra te conquistar
+                                   B
+Se liga vem depressa aqui é o seu lugar
+           F#                   B    F#
+ nesse coração que so quer te amar (2x)
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+D#m = X X 1 3 4 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4
+G° = 3 X 2 3 2 X

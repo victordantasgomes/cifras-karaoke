@@ -1,0 +1,74 @@
+@titulo: la-estacion
+@autor:
+@intérprete: Paralamas do Sucesso
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Os Paralamas do Sucesso - La Estación
+
+        Em
+Adonde vas ahora
+          A7(4)       A7
+Alguien llama por tu nombre
+            D A/C#
+En la estación
+  Bm             Bm7/A       E/G#
+Tiraste tus sueños por la ventana
+  A7           Bbº            F7 Em A7
+Dejaste en un papel tu dirección
+
+Em
+Yo sé porque lloras
+         A7(4) A7             D A/C#
+Nunca es fácil tomar la decisión
+Bm               Bm7/A        E/G#
+Alguiien te hace falta en la mañana
+    A7             Bbº          F7
+Y a alguien le rompiste el corazón
+
+      Bb           A
+Suena otra vez tu nombre
+
+            D D5+
+En la estación
+    Bm             D7           G
+Ya non tienes tan claro porque vas
+          Bb
+Por que no alcanzas
+
+   Em
+El tiempo que no pára
+   A7(4)         A7            D A/C#
+Y ahora llena el aire una canción
+    Bm          Bm7/A         E/G#
+Quizas tu nueva vida empieza ahora
+      A7                        D A/C#
+Del viejo mundo solo una impresión
+    Bm           Bm7/A        E/G#
+Quizás no sea el fin de la historia
+    A7
+Quizás nunca dejaste
+         D D5+ D D5+ D
+La Estación
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+A7(4) = X 0 2 0 3 0
+Bb = X 1 3 3 3 1
+Bbº = X 1 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm7/A = 5 2 4 2 3 2
+D = X X 0 2 3 2
+D5+ = X 5 4 3 3 X
+D7 = X X 0 2 1 2
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F7 = 1 3 1 2 1 1
+G = 3 2 0 0 0 3

@@ -1,0 +1,53 @@
+@titulo: historia-de-amor
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - História de Amor
+
+Intro: C#m  A  E  B9
+
+C#m            A  E                   B9
+Independentemente do que me disser agora
+C#m           A     E                    B9
+Queria deixar claro algumas coisas pra você
+C#m            A  E                       B9
+Independentemente se não deu certo nossa história
+C#m             A               E               B9
+Não quero que fique comigo com dó de me fazer sofrer
+
+Pré-Refrão:
+C#m            B9       A                      C#m
+Orgulhoso, eu não me ajoelhei pra ter seu coração
+C#m            B9       A                        B9
+Imperfeito sou sim, mas dei o meu melhor até o fim
+
+Refrão:
+C#m              A                 E
+Sua consciência não vai te deixar dormir
+                         B9
+Pois ninguém mais faz palhaçada pra te ver sorrir
+
+C#m                     A                E
+Ninguém vai te abraçar pra ver o sol se pôr
+                         B9
+Ninguém vai escrever no muro uma história de amor
+
+C#m            A
+Mas se mesmo assim
+               E
+Se quiser me deixar
+                   B9
+As lembranças vão mala pra te atormentar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0

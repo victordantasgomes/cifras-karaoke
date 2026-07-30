@@ -1,0 +1,80 @@
+@titulo: fica
+@autor:
+@intérprete: Skank
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Skank - Fica
+
+(intro) A7 D7 G D7 A7
+
+     A           D  G         D       A     D G   D
+Se você vai trabalhar e me deixar, que pena
+         A           D    G            D         A  D G   D
+Eu corro risco tão sozinho nessa ogiva azul imensa
+      A        D     G      D             A            D     G    D
+Suas pernas andando o centro, sobem as escadas, curvam-se em torno
+        A          D    G     D        A     D   G     D
+Das volutas que moram dentro do meu pensamento morno
+
+(refrão 1)
+      A     D         G  D
+Então diz e diz que fica
+        A        D        G  D
+Longe, perto ou toda pra mim
+       A       D    G   D
+Então diz, dismistifica
+      E7
+A história de que a vida é ruim
+
+
+(refrão 2)
+ A        D      G  D  A       D       G   D
+Pode parecer mentira, pode parecer que não
+ A           D   G     D  A           D    G     D
+Eu te tenho bem na mira, mas você me tem na mão
+
+   A     D G         D       A   D G   D
+Vadio sim   na tarde vã suspensa
+           A     D   G          D      A   D G   D
+Sei que você nem pensa em não sumir assim
+      A          D    G  D          A         D       G    D
+Você diz pra eu não ligar, mas não sei como ficar é imune
+    A         D     G D     A        D          G    D
+Imagino você nesse mar de carros, coisas e cardumes
+
+(refrão 1)
+(refrão 2 - 2x)
+
+(solo)
+E |-------------------------------------------|
+B |-------------------------------------------|
+G |-----1-3-3/5-5-3-1-3-1-----------1-3--8-7--|
+D |---3-------------------3-1-3---3-----------|
+A |-------------------------------------------|
+E |-------------------------------------------|
+
+                                          E7
+E |-------------------------------------------|
+B |-------------------------------------------|
+G |-----1-3-3/5-5-3-1-3-1-----------1-3-------|
+D |---3-------------------3-1-3---3-----------|
+A |-------------------------------------------|
+E |-------------------------------------------|
+
+(repete tudo)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B = X 2 4 4 4 2
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+G = 3 2 0 0 0 3

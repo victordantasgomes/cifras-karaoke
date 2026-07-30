@@ -1,0 +1,77 @@
+@titulo: fica-so-um-pouco-mais
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Fica Só Um Pouco Mais
+
+Intro 2x: Am  F  C  G
+
+       Am       F      C     G
+E|----------------1-----------------3---| 
+B|---1-----1------1----1-----1------3---|
+G|-----2-----2----2------0-----0----0---|    (2x)
+D|-------2-----2--3--------2-----2--0---|
+A|----------------3-----------------2---|
+E|----------------1-----------------3---|
+
+
+      Am  F                  C  G
+Sem saber  abri a porta da saída
+      Am        F                    C  G
+Sem querer  mudei o rumo de nossas vidas
+      Dm
+Eu perdi o meu lugar no seu coração
+    F
+Tenho que aceitar a sua decisão
+      Am        G              F
+Mas mesmo que você nao volte atrás
+
+
+Refrão:
+             C                       G
+Fica só um pouco mais, apaga luz e vem dormir
+      Dm                            F
+Amanhã você vai, não vou tentar te impedir, não
+             C                       G
+Fica só um pouco mais, que mais eu posso te pedir
+                  Dm                         F
+Se os homens são todos iguais esse aqui te ama demais
+               Am F C G ( Am F C G )
+Fica só um pouco mais
+
+          Am            F                   C  G
+Já me encontrei nas promessas que eu não cumpri
+      Am    F                          C  G
+Já chorei, sei que é tarde mas estou aqui
+         Dm
+Pra retomar meu lugar no seu coração
+       F
+Não tenho que aceitar a sua decisão
+    Am         G           F
+E mesmo que você não volte atrás
+
+Refrão:
+             C                           G
+Fica só um pouco mais, apaga luz e vem dormir
+      Dm                            F
+Amanhã você vai, não vou tentar te impedir, não
+             C                              G
+Fica só um pouco mais, que mais eu posso te pedir
+                        Dm                      F
+Se os homens são todos iguais esse aqui te ama demais
+                    Am F C G
+Fica só um pouco mais
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

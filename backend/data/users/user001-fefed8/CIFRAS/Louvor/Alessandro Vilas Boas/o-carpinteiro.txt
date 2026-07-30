@@ -1,0 +1,137 @@
+@titulo: o-carpinteiro
+@autor:
+@intérprete: Alessandro Vilas Boas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Alessandro Vilas Boas - Carpinteiro
+
+[Intro] C#m  B4  A
+
+      C#m             B4
+Esconda-me em ti, esconda-me em ti
+             A9
+Nas asas do teu amor
+        C#m           B4
+Esconda-me em ti, esconda-me em ti
+             A9
+Nas asas do teu amor
+
+       C#m                 B4
+Como eu amo seu nome,tens o nome mais lindo que eu conheço
+         A9
+Como eu amo seu nome
+       C#m                 B4
+Como eu amo seu nome,tens o nome mais lindo que eu conheço
+         A9
+Como eu amo seu nome
+
+     C#m            B4
+Esconda-me em ti, Esconda-me em ti
+
+         A9
+Nas asas do teu amor
+C#m                 B4
+Esconda-me em ti, Esconda-me em ti
+         A9
+Nas asas do teu amor
+
+       C#m                 B4
+Como eu amo seu nome,tens o nome mais lindo que eu conheço
+         A9
+Como eu amo seu nome
+       C#m                 B4
+Como eu amo seu nome,tens o nome mais lindo que eu conheço
+         A9
+Como eu amo seu nome
+
+  C#m
+Qual é o som, qual é o som
+  B4
+De quando Deus desce na terra?
+  A9
+Qual é o som, qual é o som?
+  C#m
+Qual é o som, qual é o som
+  B4
+De quando Deus desce na terra?
+  A9
+Qual é o som?
+  C#m
+Qual é o som, qual é o som
+ B4
+De quando Deus desce na terra?
+  A9
+Qual é o som, qual é o som?
+
+    C#m
+E esse é o som
+                B4
+O carpinteiro batendo a porta
+                A9
+O carpinteiro batendo a porta
+
+         C#m
+E este é meu som
+                  B4
+Do lado de dentro eu abro a porta
+                  A9
+Do lado de dentro eu abro a porta
+         C#m
+E este é meu som
+                  B4
+Do lado de dentro eu abro a porta
+                  A9
+Do lado de dentro eu abro a porta
+
+      C#m
+Esse é o som
+                  B4
+O Carpinteiro arrumando a casa
+                  A9
+O Carpinteiro arrumando a casa
+
+       C#m                 B4
+Como eu amo seu nome,tens o nome mais lindo que eu conheço
+         A9
+Como eu amo seu nome
+       C#m                 B4
+Como eu amo seu nome,tens o nome mais lindo que eu conheço
+         A9
+Como eu amo seu nome
+
+      C#m
+Qual é o som, qual é o som
+  B4
+De quando Deus desce na terra?
+  A9
+Qual é o som, qual é o som?
+  C#m
+Qual é o som, qual é o som
+  B4
+De quando Deus desce na terra?
+  A9
+Qual é o som?
+  C#m
+Qual é o som, qual é o som
+ B4
+De quando Deus desce na terra?
+  A9
+Qual é o som, qual é o som?
+
+       C#m
+E esse é o som
+                B4
+O carpinteiro batendo a porta
+                A9
+O carpinteiro batendo a porta
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4

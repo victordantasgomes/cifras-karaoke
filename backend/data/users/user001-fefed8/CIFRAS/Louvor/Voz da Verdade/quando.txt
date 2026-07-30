@@ -1,0 +1,50 @@
+@titulo: quando
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Quando
+
+INTRO: Cm, A#/D, D#, G#, Cm } 2 VEZES
+
+  Cm                      Fm      A#                            D#
+Quando a vida torna-se difícil, quando os muros começam a aumentar
+  C7               Fm      D                           G
+Quando o mar se revolta, quando a luz do dia torna-se densa
+Fm              Cm   G                    Cm  A#
+Olhe para o Calvário e encontrarás a solução
+
+D#  G    Fm  G   A#  D#  G    Fm   G
+Aleluia, Aleluia,    Aleluia, Aleluia
+
+  Cm                      Fm      A#                            D#
+Quando a vida torna-se difícil, quando os muros começam a aumentar
+  C7               Fm      D                           G
+Quando o mar se revolta, quando a luz do dia torna-se densa
+Fm              Cm   G                    Cm  A#
+Olhe para o Calvário e encontrarás a solução
+
+D#  G    Fm  G   A#  D#  G    Fm   G
+Aleluia, Aleluia,    Aleluia, Aleluia
+
+A# D#
+Amém
+
+final: D#
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+A#/D = X 5 X 3 6 6
+C7 = X 3 2 3 1 X
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

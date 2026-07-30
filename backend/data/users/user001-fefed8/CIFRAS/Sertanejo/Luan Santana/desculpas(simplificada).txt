@@ -1,0 +1,71 @@
+@titulo: desculpas(simplificada)
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Desculpas
+
+Intro 2x: G  D  Em  C
+
+G               D
+Tô bravo, você sabe
+               Em
+Eu quero a verdade
+              C                    G
+dá um tempo chega de brincar comigo
+               D
+Nem pensa pra inventar
+        Em
+Ah tá, vou acreditar
+      C                         G
+suas desculpas não fazem sentido
+
+              D
+O seu carro quebrou
+           Em
+O celular pifou
+              C
+O e-mail não chegou
+
+            G
+O trânsito parou
+
+            D
+O dinheiro não deu
+         Em
+A hora esqueceu
+             C
+Furaram seu pneu
+                    C
+Roubaram o que era seu
+
+Refrão 2x:
+G           D
+ Desculpas,  papo furado
+   C                  Em
+Você não faz questão de ficar do meu lado
+G           D
+ Desculpas,  enrolação
+  C                     Em
+Não tá dando a mínima pro meu coração
+
+G           D
+ Desculpas,  papo furado
+   C                  Em
+Você não faz questão de ficar do meu lado
+G           D
+ Desculpas,  enrolação
+  C                     Em
+Não tá dando a mínima pro meu coração
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

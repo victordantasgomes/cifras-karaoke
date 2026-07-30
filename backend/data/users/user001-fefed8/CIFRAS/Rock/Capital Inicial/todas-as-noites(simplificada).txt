@@ -1,0 +1,150 @@
+@titulo: todas-as-noites(simplificada)
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Todas As Noites
+
+Intro 2x: F#  E  B5(9)
+
+Primeira parte:
+
+ F#       E     B5(9)
+Todas as noites       são iguais
+      F#         E
+Os meninos satisfeitos
+        B5(9)
+E as meninas querem mais
+ F#     E   B5(9)
+Sonhos caem       como chuva
+     F#      E
+E é tarde demais
+           B5(9)
+Eu não consigo dizer não
+
+F#         E    B5(9)                  F#
+   Hoje à noite       tudo pode acontecer
+        E         B5(9)
+Quem olhar nos olhos vê bares e sedução
+
+F#              E       B5(9)
+   Num canto escuro pequenos goles de solidão
+F#         E     B5(9)                 F#  E
+   A noite esclarece o que o dia escondeu
+B5(9)                   F#  E  B5(9)
+      O que o dia escondeu
+
+Refrão:
+
+(A5(9)  E  G  D) 2x
+
+ A5(9)   E  G          D
+Meia noite,   noite inteira
+  A5(9)        E           G  D
+Três, quatro, cinco da manhã
+    A5(9)     E         G              D
+Eu vou embora   mas eu sempre volto atrás
+ A5(9)     E      G   D       A5(9)  E  G
+Porque as noites são todas iguais
+ D       A5(9)  E  G  D
+Todas iguais
+
+Segunda parte:
+
+(F#  E  B5(9) ) 2x
+
+ F#          E  B5(9)
+Todas as noites       são iguais
+    F#          E
+De longe os disfarces
+   B5(9)
+Parecem reais
+ F#      E     B5(9)
+Mãos me vestem       como luva
+     F#      E
+E é tarde demais
+           B5(9)
+Eu não consigo dizer não
+
+F#         E    B5(9)                   F#
+   Hoje à noite       é cedo até amanhecer
+        E         B5(9)
+Quem olhar nos olhos vê estrelas no chão
+F#              E       B5(9)
+   Num canto escuro pequenos goles de solidão
+F#         E     B5(9)                 F#  E
+   A noite esclarece o que o dia escondeu
+B5(9)                   F#  E  B5(9)
+      O que o dia escondeu
+
+Refrão:
+
+ A5(9)   E  G          D
+Meia noite,   noite inteira
+  A5(9)        E           G  D
+Três, quatro, cinco da manhã
+    A5(9)     E         G              D
+Eu vou embora   mas eu sempre volto atrás
+ A5(9)     E      G   D       A5(9)  E  G
+Porque as noites são todas iguais
+ D       A5(9)  E  G  D
+Todas iguais
+
+Terceira parte:
+
+(A5(9)  G  D) 2x
+
+ A5(9)   G     D
+Na nara na na na...
+ A5(9)   G     D
+Na nara na na na...
+ A5(9)   G     D
+Na nara na na na...
+ A5(9)   G     D
+Na nara na na na...
+
+Refrão Final:
+
+ A5(9)   E  G          D
+Meia noite,   noite inteira
+  A5(9)        E           G  D
+Três, quatro, cinco da manhã
+    A5(9)     E         G              D
+Eu vou embora   mas eu sempre volto atrás
+ A5(9)     E      G   D       A5(9)  E  G
+Porque as noites são todas iguais
+ D       A5(9)  E  G  D
+Todas iguais
+
+ A5(9)   E  G          D
+Meia noite,   noite inteira
+  A5(9)        E           G  D
+Três, quatro, cinco da manhã
+    A5(9)     E         G              D
+Eu vou embora   mas eu sempre volto atrás
+ A5(9)     E      G   D       A5(9)  E  G
+Porque as noites são todas iguais
+ D       A5(9)  E  G
+Todas iguais
+ D       A5(9)  E  G
+Todas iguais
+ D       A5(9)  E  G
+Todas iguais
+
+(A5(9)  E  G  D) 4x
+
+A5(9)
+
+----------------- Acordes -----------------
+A5(9) = X 0 2 2 0 0
+B5(9) = X 2 4 4 2 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 3 3

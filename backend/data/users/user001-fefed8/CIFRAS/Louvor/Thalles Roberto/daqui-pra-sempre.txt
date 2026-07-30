@@ -1,0 +1,54 @@
+@titulo: daqui-pra-sempre
+@autor:
+@intérprete: Thalles Roberto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Thalles Roberto - Daqui Pra Sempre
+
+Solo x4: F#m7(11) G#m7 A7M(9)
+
+E|-----------------------------|
+B|-----------------------------|
+G|----2-2----4-4----6-6----2-2-| 4X           Uh,uh
+D|---2--2---4--4---6--6---2--2-|
+A|--2--2---4--4---6--6---2--2--|
+E|-0------2------4------0------|
+
+        F#m7(11)       G#m7            A7M(9)
+ Foi tão lindo, foi tão lindo, o que ficou em mim,
+   F#m7(11) G#m7  A7M(9)
+ Foi tão lindo meu amoor...
+        F#m7(11)       G#m7            A7M(9)       (2X)
+ Foi tão tudo, foi tão lindo, como foi eu fiz,
+     F#m7(11) G#m7  A7M(9)
+ Uma aliança começouuu...
+
+ A7M(9) G#m7     F#m7(11)
+ Chamou:filho vem cá!
+  A7M(9) G#m7     F#m7(11) B5
+ Eu fui, gostei, fiquei, amei...
+
+
+Coro:
+            A7M(9)  G#m7  F#m7(11)
+ E daqui pra sempre é só jesus,
+           A7M(9)  G#m7  F#m7(11)
+ Só jesus me faz viver feliz,
+           A7M(9)  G#m7  F#m7(11) E5 D5 B5
+ A alegria no sorriso e paz só em jesus...
+(2 vezes o coro e faz o solo pra entrar em :chamou filho vem cá...)
+(1 vez e toca as notas do coro cantando::laralaralá...)
+
+----------------- Acordes -----------------
+A7M(9) = X 0 2 1 0 0
+B5 = X 2 4 4 X X
+D5 = X 5 7 7 X X
+E5 = 0 2 2 X X X
+F#m7(11) = 2 X 2 2 0 X
+G#m7 = 4 X 4 4 4 X

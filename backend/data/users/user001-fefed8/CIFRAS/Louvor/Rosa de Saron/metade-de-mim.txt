@@ -1,0 +1,147 @@
+@titulo: metade-de-mim
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Metade de Mim
+
+[Intro]  C  C4(9)
+
+     C               C4(9)
+E|-----------------------------------------|
+B|----5-------5-------3-------3------------|
+G|--5---5---5---5---5---5---5---5----------|
+D|5-------5-------3-------3----------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+     C               C4(9)
+E|-----------------------------------------|
+B|----5-------5-------3-------3------------|
+G|--5---5---5---5---5---5---5---5----------|
+D|5-------5-------3-------3----------------|
+A|3-------3-------3-------3----------------|
+E|-----------------------------------------|
+
+Primeira Parte - Parte 1 de 2
+E|-----------------------------------------|
+B|1-----1--------1-------1-------1---------|
+G|0-----0--------0-----3---3---3---3-------|
+D|0---0---0----0---0-2-------2-------------|
+A|3----------3-------3---------------------|
+E|3----------------------------------------|
+
+
+E|-----------------------------------------|
+B|----1-------1-------1-------1------------|
+G|--2---2---2---2---1---1---1---1----------|
+D|3-------3-------3-------3----------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+
+Am7(11)            G4(6)      C9/G
+        Se um dia você me chamar
+            F7M(9)/C
+Eu posso estar, eu posso estar
+Am7(11)             G4(6)       C9/G
+        Qualquer lugar é meu lugar
+           F7M(9)/C     C9/G
+Desde que seja o seu lugar
+               C7
+Longe, e assim    perto de mim?
+F           Fm         C9/G
+  Posso sentir você aqui
+        G4(6)
+Você aqui     é tudo
+
+Dm7(11)/A                               F7M(9)/C
+          É como se o mar inventasse a sua água
+Dm7(11)/A                             F7M(9)/C
+          É como se o ar resolvesse aparecer
+
+           C9/G  Am7
+Eu posso amar
+     G4(6)
+Me acolhe, me acolhe
+          F7M(9)/C             C9/G  Am7
+E me leve aonde quer que você vá
+   G4(6)
+Você é a metade de mim
+    F7M(9)/C               Fm
+Que eu nunca soube estar procurando por aí
+
+C  C4(9)
+
+Am7(11)          G4(6)     C9/G
+        Seu coração é o lugar
+             F7M(9)/C           Am7(11)
+Que eu quero estar, eu quero estar
+         G4(6)       C9/G
+Ouvir o som que ele faz
+            F7M(9)/C     C9/G
+Eu quero estar junto de Ti
+            C7            F
+Perto de você eu não sou nada
+            Fm
+Eu sou ninguém
+            C9/G
+Eu fui ninguém
+           G4(6)
+Serei ninguém
+Basta
+
+Dm7(11)/A                             F7M(9)/C
+          Só isso basta pra eu ser feliz
+Dm7(11)/A                            F7M(9)/C
+          Sempre. Eu pararia todo o tempo neste momento aqui
+
+           C9/G  Am7
+Eu posso amar
+     G4(6)
+Me acolhe, me acolhe
+          F7M(9)/C             C9/G  Am7
+E me leve aonde quer que você vá
+   G4(6)
+Você é a metade de mim
+    F7M(9)/C               Fm
+Que eu nunca soube estar procurando por aí
+
+C9/G  Am7  G4(6)  F7M(9)/C
+
+           C9/G  Am7
+Eu posso amar
+     G4(6)
+Me acolhe, me acolhe
+          Dm7(11)/A            Am7  Em7
+E me leve aonde quer que você vá
+   G4(6)
+Você é a metade de mim
+  F7M(9)/C         Dm7(11)/A
+E eu pararia aqui
+F7M(9)/C      Fm
+         Pararia aqui
+
+C  C4(9)
+Am7(9)
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Am7(11) = 5 X 5 5 3 X
+Am7(9) = X X 7 5 8 7
+C = X 3 2 0 1 0
+C4(9) = X 3 5 7 6 3
+C7 = X 3 2 3 1 X
+C9/G = 3 X 5 5 3 3
+Dm7(11)/A = 5 5 5 5 6 5
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F7M(9)/C = 8 7 5 5 6 5
+Fm = 1 3 3 1 1 1
+G4(6) = 3 2 0 0 1 0

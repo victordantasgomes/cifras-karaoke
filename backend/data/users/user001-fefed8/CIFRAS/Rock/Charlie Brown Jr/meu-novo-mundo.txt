@@ -1,0 +1,144 @@
+@titulo: meu-novo-mundo
+@autor:
+@intérprete: Charlie Brown Jr
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Charlie Brown Jr. - Meu Novo Mundo
+
+Intro:  F#m  A9  E  F#m  B5(9)  D5(9)  E  F#m
+
+     F#m    A9       E        F#m
+E|------------------------------------|
+B|------------------------------------|
+G|---2------6----------1------2-------|
+D|-----4------7----------2-----4------|
+A|--------------7----------------4----|
+E|-2------5--------0-0------2------2--|
+
+     B5(9)  D5(9)    E        F#m
+E|------------------------------------|
+B|------------------------------------|
+G|---4------7----------1-----2--------|
+D|-----4------7----------2-----4------|
+A|-2------5-----5----------------4----|
+E|-----------------0-0------2------2--|
+
+ F#m       A9          E     F#m
+Como se o silêncio dissesse tudo
+    B5(9)   D5(9)         E           F#m
+Um sentimento bom que me leva pra outro mundo
+
+              A9            E         F#m
+A vontade de te ver já é maior que tudo
+      B5(9)     D5(9)          E       F#m
+Não existem distâncias no meu novo mundo
+                A9    E    F#m
+Tipo coisas da sétima arte
+       B5(9)         D5(9)   E    F#m
+Aconteceu sem que eu imagi__nasse
+          A9         E       F#m
+Sonho de consumo cantar na sua festa
+ B5(9)      D5(9)      E          F#m
+Vem dançar comigo aproveita e me sequestra
+        A9         E           F#m
+Amor vagabundo, intenso ou muita pressa
+     B5(9)    D5(9)       E        F#m
+Não sei como termina mas sei como começa
+
+Intro:  F#m  A9  E  F#m  B5(9)  D5(9)  E  F#m
+
+ F#m      A9           E       F#m
+Fiz essa canção pra dizer algumas coisas
+    B5(9)      D5(9)        E            F#m
+Cuidado com o destino ele brinca com as pessoas
+          A9          E       F#m
+Tipo uma foto com sorriso inocente
+       B5(9)     D5(9)       E      F#m
+Mas a vida tinha um plano e separou a gente
+            A9           E       F#m
+Mas se quem eu amo tem amor por mim
+
+( B5(9)  D5(9)  E  F#m )
+
+        A9           E       F#m
+Se quem eu amo tem amor por mim
+            B5(9)   D5(9)       E        F#m
+Eu sei que ainda estamos muito longe do fim
+
+Refrão:
+
+      A5             C#5    E5          C#5
+A vontade de te ver já é maior que tudo
+        F#5
+E não existem distâncias no meu novo mundo
+      A5             C#5    E5          C#5
+A vontade de te ver já é maior que tudo
+        F#5
+E não existem distâncias no meu novo mundo
+      A5             C#5    E5          C#5
+A vontade de te ver já é maior que tudo
+        F#5
+E não existem distâncias no meu novo mundo
+      A5             C#5    E5          C#5
+A vontade de te ver já é maior que tudo
+        F#5
+E não existem distâncias no meu novo mundo
+
+Intro:  F#m  A9  E  F#m  B5(9)  D5(9)  E  F#m
+
+ F#m      A9           E       F#m
+Fiz essa canção pra dizer algumas coisas
+    B5(9)      D5(9)        E            F#m
+Cuidado com o destino ele brinca com as pessoas
+          A9          E       F#m
+Tipo uma foto com sorriso inocente
+       B5(9)     D5(9)       E      F#m
+Mas a vida tinha um plano e separou a gente
+            A9           E       F#m
+Mas se quem eu amo tem amor por mim
+
+( B5(9)  D5(9)  E  F#m )
+
+        A9           E       F#m
+Se quem eu amo tem amor por mim
+            B5(9)   D5(9)       E        F#m
+Eu sei que ainda estamos muito longe do fim
+
+Refrão:
+
+      A5             C#5    E5          C#5
+A vontade de te ver já é maior que tudo
+        F#5
+E não existem distâncias no meu novo mundo
+      A5             C#5    E5          C#5
+A vontade de te ver já é maior que tudo
+        F#5
+E não existem distâncias no meu novo mundo
+      A5             C#5    E5          C#5
+A vontade de te ver já é maior que tudo
+        F#5
+E não existem distâncias no meu novo mundo
+      A5             C#5    E5          C#5
+A vontade de te ver já é maior que tudo
+        F#5
+E não existem distâncias no meu novo mundo
+
+Intro 2x: F#m  A9  E  F#m  B5(9)  D5(9)  E  F#m
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+A5*  = X 0 2 2 X X - (*A#5 na forma de A5)
+A9*  = X 0 2 2 0 0 - (*A#9 na forma de A9)
+B5(9)*  = X 2 4 4 2 2 - (*C5(9) na forma de B5(9))
+C#5*  = X 4 6 6 X X - (*D5 na forma de C#5)
+D5(9)*  = X 5 7 9 X X - (*D#5(9) na forma de D5(9))
+E*  = 0 2 2 1 0 0 - (*F na forma de E)
+E5*  = 0 2 2 X X X - (*F5 na forma de E5)
+F#5*  = 2 4 4 X X X - (*G5 na forma de F#5)
+F#m*  = 2 4 4 2 2 2 - (*Gm na forma de F#m)

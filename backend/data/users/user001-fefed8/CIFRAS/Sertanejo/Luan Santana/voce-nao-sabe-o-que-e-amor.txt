@@ -1,0 +1,115 @@
+@titulo: voce-nao-sabe-o-que-e-amor
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Você Não Sabe o Que É Amor
+
+Intro 3x: F# C#9 B9
+
+Solo:
+E|----------------------------------------------------------------|
+B|7-7-7-7-7-7-7-7-6-6-6-7-7-7-9-9-4-4-4-4-4-4-4-4-4--4-4-4-4--4-4-|
+G|6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-4-4-4-4-4-4-4-4-4--4-4-4-4--4-4-|
+D|----------------------------------------------------------------|
+A|----------------------------------------------------------------|
+E|----------------------------------------------------------------|
+
+E|----------------------------------------------------------------|
+B|-6h7-6-7-6-7-7/9-------------6h7-6-7-7/9------------------------|
+G|-----------------8-6/8-6-4-6------------8-6/8-6-4-3-------------|
+D|----------------------------------------------------------------|
+A|----------------------------------------------------------------|
+E|----------------------------------------------------------------|
+
+Não use mais o plural
+     B9
+Não fale de nos dois como se tudo ainda fosse igual
+ F#                     C#9
+      Não tente se desculpar
+
+   B9                                             D#m7
+Você não tem moral pra me dizer que sabe o que é amar.
+
+    C#     B9
+Eu te juro, nunca mais
+                         F#
+Nunca mais vou me entregar
+
+    C#9       D#m7
+Pode ir, tudo bem
+   B9                           F#
+Você não sabe o que é gostar de alguém
+      C#9       D#m7
+Pode Rir, "tô" legal
+      B9                               D#m7
+E o que eu sofri espero que não sofra igual
+    C#9         B9
+Fiquei mal, mais passou
+Você não sabe o que é amor
+
+Intro: ( F# C#9 B9 )
+Solo:
+E|----------------------------9-7-6-7p6-----|
+B|-6h7--6-7-6-7-7/9---6h7-6-7-----------7---|
+G|------------------8-----------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+ F#      C#9
+Não fale mais do futuro
+     B9
+Não fique aí pensando que eu giro em torno do seu mundo
+ F#       C#9
+Não vamos mais 'se’ enganar
+     B9                                     D#m7
+Tem marcas dessa vida que o tempo não vai apagar
+
+   C#     B9
+Eu te juro, nunca mais
+                       F#
+Nunca mais vou me entregar
+
+    C#9      D#m7
+Pode ir, tudo bem
+   B9                           F#
+Você não sabe o que é gostar de alguém
+      C#9      D#m7
+Pode Rir, "tô" legal
+      B9                              D#m7
+E o que eu sofri espero que não sofra igual
+   C#          B9
+Fiquei mal, mais passou
+Você não sabe o que é amor.
+
+D#m7 C#9 B9 (2x)
+“Olhando em meu olhar você vai perceber que não há mais
+tempo pra nós dois. Eu te amei do jeito mais profundo
+que alguém pode amar outra pessoa. Mas eu desisto de
+você, acabou.
+    C#9
+Acabou
+Solo:
+E|----------------------------9-7-6-7p6-----|
+B|-6h7--6-7-6-7-7/9---6h7-6-7-----------7---|
+G|------------------8-----------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+
+(repete refrão 2x)
+
+----------------- Acordes -----------------
+B9 = X 2 4 4 2 2
+C# = X 4 6 6 6 4
+C#9 = X 4 6 6 4 4
+D#m7 = X X 1 3 2 2
+F# = 2 4 4 3 2 2

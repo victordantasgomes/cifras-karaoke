@@ -1,0 +1,53 @@
+@titulo: mais-eu-te-busco
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Mais Eu Te Busco
+
+Intro: E  B C#m A
+
+E        B     C#m
+Mais eu te busco,
+          A  A/D#   E
+mais eu te encontro
+       B       C#m
+Mais te conheço,
+            A
+mais eu te amo
+
+Refrão:
+E                    B
+Quero aos Teus pés me assentar,
+                   C#m
+beber do copo em Tua mão
+C#m       C#m/B             A
+Junto ao Teu peito encostar,
+            B
+sentir Teu coração
+E                B
+É um amor tão grande,
+
+                      C#m
+mais do que eu possa suportar
+C#m/B           A
+Tua paz me invade
+       B
+extasiante
+
+
+SOLO: E B C#m  C#m/B  A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/D# = 11 X X 9 10 9
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+C#m/B = 7 X 6 6 5 X
+E = 0 2 2 1 0 0

@@ -1,0 +1,148 @@
+@titulo: rosas-versos-e-vinhos
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Rosas, Versos e Vinhos
+
+Intro: B  E/G#  B  E/G#
+
+Riff 1:
+E|----------|
+B|----------|
+G|----------|
+D|------4---|
+A|--2h4---2-|
+E|----------|
+
+B                             E
+É, às vezes acho que estou enlouquecendo,
+B                                E
+Por você fujo, viajo no tempo, me submetendo,
+      C#m                                F#
+pra você meu mundo gira em preto em branco e colorido,
+     C#m                                         F#        B E/G# B
+sem você saio do presente pro passado e no futuro eu tô perdido.
+
+B
+Por você eu mudo o jeito de viver,
+
+ G#m
+Vou ouvir vinil em vez de ouvir CD,
+           E                C#m
+Por você eu deixo a badalação,
+          F#
+Faço serenata, voz e violão.
+
+             B
+Largo essa cidade pra morar no campo,
+          G#m
+Faço penitência troco até de santo,
+            E              C#m
+Por você cancelo a reunião,
+            F#
+O meu compromisso é com seu coração.
+
+                   B             G#m
+Mas me espera que eu tô chegando, tô levando,
+E       C#m     F#
+Rosas e versos e vinhos,
+  F#           B9            G#m
+Me espera que eu tô chegando, tô voltando,
+E        C#m      E   C#m         B      F#
+Seja no tempo que for eu só quero esse amor.
+
+B                             E
+É, agora separar a gente o tempo é incapaz...
+
+Por você...
+
+    Solo: B E  A  F#  B
+E|---------------------------------------------------------|
+B|-----------------7\5--4--4b5r4---------------------------|
+G|--------------8--------4-------4-------------------------|
+D|----------8h9--------------------4/6---------------------|
+A|------7h9-----------------------------7------------------|
+E|-7h11-----------------------------------7----------------|
+
+E|---------------------------------------------------------|
+B|-/9-11-12 12-----12b14r12-------/12-11-14\---------------|
+G|-------------9-9-----------9-9---------------------------|
+D|---------------------------------------------------------|
+A|---------------------------------------------------------|
+E|---------------------------------------------------------|
+
+         B
+Por você eu mudo o jeito de viver,
+            G#m
+Vou ouvir vinil em vez de ouvir CD,
+               E         C#m
+Por você eu deixo a badalação,
+        E      C#m        F#
+Faço serenata, voz e violão,
+
+           B
+Largo essa cidade pra morar no campo,
+          G#m
+Faço penitência, troco até de santo,
+          E         C#m
+Por você cancelo a reunião,
+            B            F#
+O meu compromisso é com seu coração.
+
+                  B             G#m
+Mas me espera que eu tô chegando, tô levando,
+E       C#m     F#
+Rosas e versos e vinhos,
+  F#           B            G#m
+Me espera que eu tô chegando, tô voltando,
+E                     C#m                F#
+Seja no tempo que for eu só quero esse amor.
+
+         B
+Por você eu mudo o jeito de viver,
+            G#m
+Vou ouvir vinil em vez de ouvir CD,
+               E         C#m
+Por você eu deixo a badalação,
+        E      C#m        F#
+Faço serenata, voz e violão,
+
+           B
+Largo essa cidade pra morar no campo,
+          G#m
+Faço penitência, troco até de santo,
+          E         C#m
+Por você cancelo a reunião,
+            B            F#
+O meu compromisso é com seu coração.
+
+                  B             G#m
+Mas me espera que eu tô chegando, tô levando,
+E       C#m     F#
+Rosas e versos e vinhos,
+  F#           B            G#m
+Me espera que eu tô chegando, tô voltando,
+E                      C#m                F#
+Seja no tempo que for eu só quero esse amor.
+
+B                             E
+É, eu acho que estou enlouquecendo,
+        B
+Por você!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

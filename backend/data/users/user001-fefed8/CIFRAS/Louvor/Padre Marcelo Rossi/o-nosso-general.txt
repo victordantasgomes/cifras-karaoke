@@ -1,0 +1,65 @@
+@titulo: o-nosso-general
+@autor:
+@intérprete: Padre Marcelo Rossi
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Padre Marcelo Rossi - O Nosso General
+
+       Am                       F
+Pelo senhor marchamos sim, seu exército poderoso é
+     Dm            E                Am    E7
+Sua glória será vista em toda a terra
+
+         Am                               F
+Vamos cantar o canto da vitória,glória a Deus vencemos a batalha
+     Dm          E         Am  A7
+Toda arma contra nós perecerá
+
+[Refrão]
+
+   F               C         F              C
+O nosso general é Cristo, seguimos os seus passos
+   Dm          E          Am   Am/G
+Nenhum inimigo nos resistirá
+   F               C         F              C
+O nosso general é Cristo, seguimos os seus passos
+   Dm           E          Am   E7
+Nenhum inimigo nos resistirá
+
+
+        Am                           F
+Com o Messias marchamos sim. Em sua mão a chave da vitória
+         Dm              E            Am   E
+Que nos leva a possuir a terra prometida
+
+         Am                     Am/G      F
+Vamos cantar o canto da vitória,glória a Deus vencemos a batalha
+     Dm          E         Am  A7
+Toda arma contra nós perecerá
+
+[Refrão]
+
+   F               C         F              C
+O nosso general é Cristo, seguimos os seus passos
+   Dm           E          Am  Am/G
+Nenhum inimigo nos resistirá
+   F               C         F              C
+O nosso general é Cristo, seguimos os seus passos
+   Dm           E          Am   E7
+Nenhum inimigo nos resistirá
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1

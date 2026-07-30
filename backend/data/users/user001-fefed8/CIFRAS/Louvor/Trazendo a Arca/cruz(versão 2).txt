@@ -1,0 +1,71 @@
+@titulo: cruz(versão 2)
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Cruz
+
+Intro: D  A/C#  Bm7  A  A/G  G
+
+D     A/C#         Bm7   A           G
+Cruz, Que seria o fim, Cruz da maldição;
+D/F#          Em   Gm6
+Da vergonha e solidão;
+
+D     A/C#        Bm7   A           G#°
+Cruz, Do gosto do fel, Silêncio do céu
+              F#m A/B Bm7 Em     A4
+Quis se entregar por amor
+
+ G            D/F# F°         Em    D/F#
+Deus, Se esvaziou assumindo o meu lugar
+     E/G#       A4 A
+Seu sangue verteu
+
+Refrão:
+D                     A/C#
+Cruz, Onde o Rei dos reis
+ A#°      Bm7     E/G#         A4  A A4 A/G
+Suportou a dor de carregar os meus pe ca dos
+
+D/F#                A/C#
+Cruz, Cruz do meu Jesus
+ A#°      Bm7   E/G#        A4  A  A4 A/G
+Servo, sofredor, O cordeiro ima cu la  do
+
+D/F#            G/A#
+Cruz, palco do amor
+              Em    A4 A  D
+Onde Deus venceu A mo oo rte.
+
+Intro: D  A/C#  Bm7  A  A/G  G
+
+         D/A   Gm           D/F#  G/A#          D/A     Gm
+Ele está vI____vo, Ele está  vi____vo, Ele está vi______vo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#° = X 1 2 0 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+A4 = X 0 2 2 3 0
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+F° = X X 3 4 3 4
+G = 3 2 0 0 0 3
+G#° = 4 X 3 4 3 X
+G/A# = X 1 0 0 3 3
+Gm = 3 5 5 3 3 3
+Gm6 = 3 X 2 3 3 X

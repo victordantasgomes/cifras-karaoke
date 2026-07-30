@@ -1,0 +1,181 @@
+@titulo: exagerado
+@autor:
+@intérprete: Cazuza
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cazuza - Exagerado
+
+[Intro] G  D/G  C/G
+        G  D/G  C/G
+        G  D/G  C/G
+        G  D/G  C/G
+
+   G               D/G     C/G
+E|------------------------------------------|
+B|------------------------------------------|
+G|------------------------------------------|
+D|-0---------------4-------2----------------|
+A|-2---------------5-------3----------------|
+E|---3-3-3-3-3-3-3---3-3-3---3-3-3----------|
+
+[Primeira Parte]
+
+G          D     C
+  Amor da minha vida
+G               D    C
+  Daqui até a eternidade
+Em                    D
+   Nossos destinos foram traçados
+
+    C          Am  Bm  D
+Na maternidade
+
+G                 D    C
+  Paixão cruel desenfreada
+G                 D      C
+  Te trago mil rosas roubadas
+Em                          D
+   Pra desculpar minhas mentiras
+B7
+   Minhas mancadas
+
+[Refrão]
+
+      C
+Exagerado
+   D
+Jogado aos teus pés
+        G      D   C
+Eu sou mesmo exagerado
+  Em                D   C  Am  Bm  D
+Adoro um amor inventado
+
+[Segunda Parte]
+
+G                    D    C
+  Eu nunca mais vou respirar
+G              D    C
+  Se você não me notar
+Em                         D
+   Eu posso até morrer de fome
+      C
+Se você não me amar
+
+[Terceira Parte]
+
+Em                      Bm
+   E por você eu largo tudo
+F7M                   F#m7(5-)
+    Vou mendigar, roubar, matar
+Em                 Bm
+   Até nas coisas mais banais
+F7M
+    Prá mim é tudo
+F#m7(5-)           B7
+         Ou nunca mais
+
+[Refrão]
+
+      C
+Exagerado
+   D
+Jogado aos teus pés
+        G      D   C
+Eu sou mesmo exagerado
+  Em                D   C  Am  Bm  D
+Adoro um amor inventado
+
+( G  D/G  C/G )
+( G  D/G  C/G )
+( G  D/G  C/G )
+( G  D/G  C/G )
+
+[Solo] G  D  C
+       G  D  C
+       Em  D  C
+
+[Parte 1 de 3]
+
+E|--14b15--12p10-12-----------------------------------|
+B|------------------12~-------------------------------|
+G|-----------------------2/4-2p0-2h4-2/4~-------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+[Parte 2 de 3]
+
+E|----------------------------------------------------|
+B|-----7-8---7-8-10-7-8-9-10-12b13r12-----------------|
+G|-7-9-----9--------------------------12~-------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+[Parte 3 de 3]
+
+E|----------------------------------------------------|
+B|-----7-8-7------------------------------------------|
+G|-7-9-------9-7~-------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+[Quarta Parte]
+
+Em                      Bm
+   E por você eu largo tudo
+F7M                  F#m7(5-)
+    Carreira, dinheiro, canudo
+Em                 Bm
+   Até nas coisas mais banais
+F7M
+    Prá mim é tudo
+F#m7(5-)           B7
+         Ou nunca mais
+
+[Refrão]
+
+      C
+Exagerado
+   D
+Jogado aos teus pés
+        G      D   C
+Eu sou mesmo exagerado
+  Em                D   C  Am  Bm  D
+Adoro um amor inventado
+
+   C
+Jogado aos teus pés
+D                   G
+  Com mil rosas roubadas
+D     C
+Exagerado
+     Em                D  C  Am  Bm  D
+Eu adoro um amor inventado
+
+   C
+Jogado aos teus pés
+D         G      D   C
+  Eu sou mesmo exagerado
+  Em                D   C  Am  Bm  D
+Adoro um amor inventado
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+D/G = 3 X X 2 3 2
+Em = 0 2 2 0 0 0
+F#m7(5-) = 2 X 2 2 1 X
+F7M = 1 X 2 2 1 X
+G = 3 2 0 0 0 3

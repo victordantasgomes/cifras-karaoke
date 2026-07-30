@@ -1,0 +1,53 @@
+@titulo: tua-vida-em-minha-vida
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Tua Vida Em Minha Vida
+
+Intro:  Db7M  Eb  F7M 
+
+F      A7(b13) Bb7M  Dsus4 D7
+Vem em mim rei-nar
+   Gm7    Gm/F   Eb7M Bb/C
+Em tudo o que eu sou
+F     A7(b13) Bb7M  Dsus4 D7
+Te convido    já
+  Gm7  Gm/F  Eb7M  Bb/C  Dsus4 D7
+A governar a minha vi---da.
+
+         Gm7      F/A
+Que meus atos e palavras
+       Bb7M       Dsus4 D7
+Possam expressar amor
+         Gm7             F/A
+Que haja sempre em minha boca
+      Bb7M     B°          Csus4
+Um contínuo louvor em gratidão
+    Db7M        Eb      Db7M  Eb
+Por tua vida em minha vida.
+    Db7M        Eb      F
+Por tua vida em minha vida.
+
+----------------- Acordes -----------------
+A7(b13) = X 0 X 0 2 1
+Bb/C = X 3 X 3 3 1
+Bb7M = X 1 3 2 3 1
+B° = X 2 3 1 3 1
+Csus4 = X 3 3 0 1 X
+D7 = X X 0 2 1 2
+Db7M = X 4 6 5 6 4
+Dsus4 = X X 0 2 3 3
+Eb = X 6 5 3 4 3
+Eb7M = X X 1 3 3 3
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F7M = 1 X 2 2 1 X
+Gm/F = X X 3 3 3 3
+Gm7 = 3 X 3 3 3 X

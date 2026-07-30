@@ -1,0 +1,34 @@
+@titulo: a-ti-o-pai
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - A Ti Ó Pai
+
+   E            D      A    E   D A  E
+ESTENDO MINHAS MÃOS A TÍ Ó PAI
+              D       A     E
+POIS QUERO TOCAR EM QUEM EU AMO
+
+G7+            A            C          D            A       Bm7
+    COM MINHA VIDA TE BUSCAREI COMO ANSEIO SER ABRAÇADO PAIZINHO TE
+E   E  D A    E   D  A  E  D A    E   D  A
+AMO EU     TE AMO       EU     TE AMO
+G7+            A            C           D            A       Bm7
+    COM MINHA VIDA TE BUSCAREI  COMO ANSEIO SER ABRAÇADO PAIZINHO TE
+E
+AMO
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+G7+ = 3 X 4 4 3 X

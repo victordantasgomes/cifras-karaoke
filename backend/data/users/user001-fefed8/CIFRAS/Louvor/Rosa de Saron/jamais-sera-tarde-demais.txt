@@ -1,0 +1,132 @@
+@titulo: jamais-sera-tarde-demais
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Jamais Será Tarde Demais
+
+Intro:
+  C/F                     C4/G                            Am
+E|----------------------|-------------------------------|----------------------------------|
+B|----------------------|-------------------------------|-0-----0-----0-----0-----0---0----|
+G|-12----12----12--12---|-10-------10-------10----10----|-5-----5-----5-----5-----5---5----|
+D|-10----10----10--10---|-10-------10-------10----10----|-9-----9-----9-----9-----9---9----|  2x
+A|-8-8-8-8-8-8-8-8-8-8--|-10-10-10-10-10-10-10-10-10-10-|-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0--|
+E|----------------------|-------------------------------|----------------------------------|
+
+(F9  G  Am  C) (2x)
+
+      F9         G
+Tarde aí, claro aqui
+           Am                            C     F9
+Tudo é tão calmo quando não se esquece quem se é
+           G          Am
+E de onde vêm tanta desilusão?
+          c
+E sem razão?
+ F9       G    Am     C      F9    G    Am
+Quase partiu daqui certa certeza e eu tremi!
+
+
+F9      G       Am
+Você passou por mim
+   C       F9       G       Am  C
+E com seus olhos me disse adeus
+ F9      G       Am
+Você passou por mim
+ C       F9        G       Dm
+Quase dizendo  Me salve, aqui
+
+    C/F       G                 Dm
+Só sei que jamais será tarde demais
+   Am         C/F               Dm
+A dor e o temor nunca serão fatais
+        F9            G              Am
+Cada ferida vai cicatrizar, no mesmo lugar,
+          C              F9
+Uma nova pele vai se formar
+    G             Dm
+O amor pode te tocar
+           F9     G  Am  C
+Em qualquer momento
+
+( F9  G  Am C )  (3x)
+
+Riff:
+    F              G               Am                    C
+E|--------------|---------------|---------------------------------|
+B|--------------|---------------|---------------------------------|
+G|--------------|---------------|---------------------------------|
+D|-------3------|--------5------|-------7---------7-----10-10-10--|
+A|-------3------|--------5------|-------7---------7-----10-10-10--|
+E|-1-1-1-1------|-3--333-3------|-5-5-5-5-------5-5-5---8--8--8---|
+
+(Riff)
+Pouco é eficaz
+Muito é fugaz
+Se todo instante fosse apenas bom instante
+Mas não, todos aqui no imediato exigem tudo
+E tudo esgota numa fração de luz
+É no escuro que se aprende a ver
+
+  F9      G    Am
+E você me viu aqui
+    C    F9    G       Dm
+E aqui, tudo perdura mais
+
+    C/F      G                 Dm
+Eu sei que jamais será tarde demais
+   Am       G                 Dm
+A dor e o temor nunca serão fatais
+       F9              G              Am
+Cada ferida vai cicatrizar, no mesmo lugar,
+          C              F9
+Uma nova pele vai se formar
+    G             Dm
+O amor pode te tocar
+             F9   G  Am  C
+Em qualquer momento
+
+( F9  G Am  C ) (3x)
+
+Toque-me, sinta-me
+Toque-me, toque e sinta (que estou aqui)
+Eu estou aqui, sempre estarei
+Sempre aqui
+
+( F G Am  C ) (3x)
+
+    C/F            G                 Dm
+Eu só sei que jamais será tarde demais
+   Am         G                 Dm
+A dor e o temor nunca serão fatais
+ C    F9                 G               Am
+Cada ferida vai cicatrizar, no mesmo lugar,
+         C               F9
+Uma nova pele vai se formar
+    G             Am
+O amor pode te tocar
+             F9    G
+Em qualquer momento
+    Am                 C
+Ele pode e vai te tocar
+    F             G
+O amor pode te tocar
+    Dm
+Em qualquer momento
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C/F = X 8 10 9 8 8
+C4/G = 3 3 5 5 6 3
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3

@@ -1,0 +1,70 @@
+@titulo: sonhando
+@autor:
+@intérprete: Mr. Gyn
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Mr. Gyn - Sonhando
+
+Intro 2x: G  G7M G  G7M  Em  Em4  Em  Em4
+
+G                 G7M                    G        G7M             Em
+  Se passo o dia, paro e escuto o vento e ainda não posso entender
+                      E4           Em   E4
+  como o improvável insiste em acontecer.
+G                G7M               G       G7M                  Em
+  Se ando sempre no mesmo caminho e ainda me encontro com alguem,
+                   E4              Em    E4 Em
+  E vejo que não estou sozinho, eu sei.
+
+C                                           G
+  Se passo o dia, o tempo e conto as horas, e eu sem perceber
+C                                        G
+  Que estou parado vendo seu retrato, e não vou mais te ver
+                      D    D4   D9   D
+  e vou tentando aceitar.
+G                G7M                G        G7M              Em
+  As vezes fujo,corro de mim mesmo,canso e me esqueço de lutar
+              E4            Em          E4
+  Sabendo que não posso ser tão tolo assim.
+
+G                   G7M                  G            G7M        Em
+  Quando eu me vejo já estou cantando, solto a minha voz e desabafo,
+     E4    Em E4
+  enfim...
+C                                    G
+  Se o telefone toca,eu já sei mesmo que não é você,
+C                                      G
+  Se tudo que um dia me falou, eu vejo agora acontecer,
+C                                    G
+  Se a saudade aperta e eu não tenho nada a fazer
+                   D   D4   D9   D
+  Senão apenas chorar.
+G     D/F#         Em       C             G
+  Não vou mais querer explicar, eu já sei
+     D/F#      Em                 Am                   Em
+  Alguem me soprou e falou tudo sobre você, que ainda eu vou te ver.
+G    D/F#      Em        C          G   D/F#       Em
+  Eu quero deitar e sonhar outra vez, tocar, te ouvir, te sentir
+      Am                    Em                 C               D
+  E poder te dizer, como eu amo você, tocar o meu violão e te ver,
+                   G
+  Me pedindo pra viver.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+D9 = X X 0 2 3 0
+E4 = 0 2 2 2 0 0
+Em = 0 2 2 0 0 0
+Em4 = 0 0 2 0 0 0
+G = 3 2 0 0 0 3
+G7M = 3 X 4 4 3 X

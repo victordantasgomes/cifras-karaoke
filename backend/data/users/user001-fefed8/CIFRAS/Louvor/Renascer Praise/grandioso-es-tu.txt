@@ -1,0 +1,73 @@
+@titulo: grandioso-es-tu
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Grandioso Ès Tú
+
+[Intro]  E
+
+Esus     A9    A/C#       D             A/C#  Bm     A      A9    F#m7    Bm7
+Então minh'alma                 canta a Tí Senhor,              gran_dioso és Tú,
+Esus   E7   A9
+grandioso és Tú...
+
+Esus    A9     A/C#       D            A/C#  Bm      A       A9    F#m7    Bm7
+Então minh'alma              canta a Tí Senhor,                  gran_dioso és Tú,
+E4      E7   A    A/E D/A
+grandioso és   Tú...
+
+A     E4 A          A7/C#            D    Bm
+Senhor meu Deus quando    eu       maravilhado
+D#º       A      E4   E7         A9
+fico a pensar nas obras   de  Tuas mãos
+Esus   A      A/C#        D   Bm      D#º         A        E E7    A A4   A
+O céu azul de estrelas pontilhado        o Seu      poder   mostrando a criação...
+
+Repete com a igreja e sobe ½ tom :
+
+
+Fsus     A#9    A#/D      D#            A#/D  Cm     A#      A#9     Gm7    Cm7
+Então minh'alma                 canta a Tí Senhor,                gran__dioso és Tú,
+Fsus     F7   A#9
+grandioso és    Tú...
+Fsus     A#9    A#/D      D#           A#/D  Cm      A#      A#9    Gm7     Cm7
+Então minh'alma              canta a Tí Senhor,                  gran__dioso és Tú,
+F4       F7   A#    A#/F D#/A#
+grandioso és   Tú...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A# = X 1 3 3 3 1
+A#/D = X 5 X 3 6 6
+A#/F = X 8 8 7 6 X
+A#9 = X 1 3 3 1 1
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A4 = X 0 2 2 3 0
+A7/C# = X 4 5 2 5 X
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Cm = X 3 5 5 4 3
+Cm7 = X 3 5 3 4 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D#/A# = X X 8 8 8 6
+D#º = X X 1 2 1 2
+D/A = X 0 X 2 3 2
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+E7 = 0 2 2 1 3 0
+Esus = 0 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X
+F4 = 1 3 3 3 1 1
+F7 = 1 3 1 2 1 1
+Fsus = 1 3 3 2 1 1
+Gm7 = 3 X 3 3 3 X

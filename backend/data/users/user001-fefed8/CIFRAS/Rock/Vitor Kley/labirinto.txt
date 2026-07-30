@@ -1,0 +1,51 @@
+@titulo: labirinto
+@autor:
+@intérprete: Vitor Kley
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vitor Kley - Labirinto
+
+G            D/F#          Em7          D9
+Cai dentro desse labirinto e não consigo mais sair
+C9              G      D9
+Não vou me deixar triste e vou sorrir
+G            D/F#          Em7          D9
+Isso é só uma tempestade que vai passar
+C9              G      D9
+E por enquanto eu sigo a cantar
+
+G            D/F#          Em7        D9  D4  D
+Queria um tempo pra esquecer de mim
+C9              G      D9
+Voar pelo céu até chegar ao fim
+G            D/F#          Em7        D9  D4  D
+Queria um tempo pra deixar tudo pra trás
+C9              G      D9
+Pra ver de longe o que você é capaz
+
+De fazer sem mim
+
+G            D/F#          Em7          D9
+Agora me explica o porque de tudo isso
+
+C9              G      D9
+Eu vou viver a minha vida sem compromisso eu vou
+G            D/F#          Em7          D9
+Quero cantar e tocar meu violão
+C9              G      D9
+Entrar para a historia com a minha canção
+
+----------------- Acordes -----------------
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+D9 = X X 0 2 3 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3

@@ -1,0 +1,72 @@
+@titulo: lista-de-compras
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Lista de Compras
+
+[Intro] G  C  D7  G  C  D7 
+
+G                  C
+Que saudade daqueles tempos
+ D7         B        G
+Tempos que não voltam mais
+                C           D7
+Eu era um garotinho seu namoradinho
+               G                      C
+Amigo de seus pais, e hoje já estou crescido
+            D7              G
+Sou o seu marido és minha mulher,
+                C            D7              G
+Acabou-se a alegria brigar todo dia é o que você quer,
+
+G                      C
+Se trabalho até mais tarde,
+     D7              G
+E chego cansado em casa
+                       C                  D7
+Você diz que estou te traindo e por mim não pôe
+            G7                      C
+A sua mão na brasa, neste dia certamente
+             D7       G
+Não como na mesa e olhe lá,
+                 C               D7             G
+Conhecendo sua natureza com toda certeza durmo no sofá
+
+G                    C
+Quando chega o fim de semana,
+ D7                     G
+Fico em casa para descansar,
+                          C         D7
+Uma lista de um metro ou mais você traz
+           G         G7                    C
+Para me mostrar, e me diz que esta faltando o gás
+              D7               G
+O arroz e o café o açucar e o feijão,
+              C             D7                 G
+Sal pimenta malagueta,tomate pepino e também pimentão,
+                C               D7          G
+Farinha óleo sabonete bombril rabanete jiló e sabão,
+                C           D7            G
+Banana abacate laranja ovos de granja e até limão,
+                        C             D7             G
+Desodorante e pasta de dente,uma borracha prá panela de pressão,
+                C             D7               G
+Um tênis pra Mariazinha uma botininha para o Sebastião,
+                 C            D7             G
+Os livros da Antonieta e uma chupeta para o caçulão,
+                     C                   D7                 G
+E assim vai seguindo a lista e o bolso do artista sem nem um tostão.
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

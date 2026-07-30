@@ -1,0 +1,73 @@
+@titulo: tua-visao
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Tua Visão
+
+(intro 4x) Am G D/F# Am G/B D
+
+(solo) Em D A/C# C G/B Bb F7+/A D4 D
+
+      G             D/F#
+Tua visão pra minha vida
+           C
+É o que eu quero ter
+           G           D/F#     C
+Os Teus propósitos pra mim vou viver
+    D/F#      D            C
+Nenhuma outra ambição pra conquistar
+    D/F#                 C         D
+Somente uma motivação de Te agradar         (2x)
+
+G          G/B          C
+Limpa o meu coração neste mundo mal
+  Em                        D4  D
+Ensina-me a viver Teu reino aqui
+  G/B
+Tu me deste Tua vida
+
+                C
+Para que eu não viva mais pra mim
+ Em
+Olhar somente a Ti
+ D
+Viver só para Ti
+
+(muda o tom A)
+
+(solo) F#m  E/G#
+
+ G/B            C ( Eb  D )
+Não me perder de Ti
+
+na 2ª vez ( F C/E D D/F# )( Am G D/F# Am G/B D)
+(aumenta um tom na 3ª vez)
+
+(solo)  Em D A/C# C G/B Bb F7+/A D4 D
+
+(repete tudo)
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+E/G# = 4 X 2 4 5 X
+Eb = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F7+/A = 5 X 3 5 5 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

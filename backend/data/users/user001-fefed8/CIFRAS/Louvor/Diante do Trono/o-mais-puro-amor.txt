@@ -1,0 +1,67 @@
+@titulo: o-mais-puro-amor
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - O Mais Puro Amor
+
+INTRO:  D  G   D  G   D Bm7  A  G  Em7
+
+               D          Em/D       Bm7           Asus             G9                      D
+Quando tudo acabar, o que vai prevalecer é o teu amor, o mais puro amor.
+               D          Em/D            Bm7              Asus                G9   /G   /A  G/B          Asus  A9
+Quando tudo acabar, Os teus olhos vão me ver e vão me amar, com o mais puro amor.
+
+                         D9                                      A/B  Bm7  A/C#
+Teus olhos me vêem quando as luzes se apagam,
+              D9        G9     Em7                        Asus  A9
+Outras vozes se calam        eu posso te ouvir dizer:
+A/G                D/F#       A/C#                        Bm7,9
+Que o meu valor não está no que tenho ou faço,
+               G9                       G/B      A/C#       D
+Em teu abraço eu encontro   o mais puro amor.
+
+REINTRO: D  Em/D D A/C# Bm7  G9  Em7,9
+
+               D          Em/D            Bm7              Asus                G9   /G   /A  G/B          Asus  A9
+Quando tudo acabar, Os teus olhos vão me ver e vão me amar, com o mais puro amor.
+
+
+                          D9                                     A/B  Bm7  A/C#
+Teus olhos me vêem quando as luzes se apagam,
+            D9           G9     Em7                           Asus  A9
+Outras vozes se calam        eu posso te ouvir dizer:
+A/G               D/F#       A/C#                        Bm7,9 Bm7/A
+Que o meu valor não está no que tenho ou faço,
+                 G9                         G/B    A/C#     Bm7  Bm7/A
+Em teu abraço eu encontro o mais puro amor.
+                 G9
+Em teu abraço eu encontro o mais puro amor.
+
+FIM:  G9  A/G  G9  A/G  G9  A/G
+         G9  A9  G/B  A/C#   G9  Bm7 Bm7/A  G9 /G /A /B G/B  A/C#
+         A/G  G9  A/G   G9  A/G   G9
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+A9 = X 0 2 2 0 0
+Asus = X 0 2 2 2 0
+Bm7 = X 2 4 2 3 2
+Bm7/A = 5 2 4 2 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+Em/D = X X 0 4 5 3
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G9 = 3 X 0 2 0 X

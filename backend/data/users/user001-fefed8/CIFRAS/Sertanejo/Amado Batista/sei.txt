@@ -1,0 +1,58 @@
+@titulo: sei
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Sei
+
+(intro) G D C D7 G D C D7
+
+ G
+Sei...
+                   D
+Que minha vida é só uma
+                 C
+Que se divide em duas
+                D7
+Ou em muitas pessoas
+
+ G
+Sei...
+                      D
+Que o meu tempo é tão curto
+                 C
+Não dá espaço pra nada
+              D7
+Pra dedicar a você
+
+ G
+Sei...
+                        D
+Que o meu trabalho me esconde
+            C
+De você e de todos
+            D7
+Que gosto de ter
+
+  G                     D7
+E agora, você vem me dizendo
+                 C
+Que já está me perdendo
+                 D7
+E que não vai suportar
+
+(intro)
+
+(repete tudo)
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3

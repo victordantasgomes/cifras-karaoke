@@ -1,0 +1,41 @@
+@titulo: cabeca-dinossauro
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Cabeça Dinossauro
+
+(G5)   (C#5  D5)                44  42  54 42 G5
+
+Cabeça dinossauro
+Cabeça dinossauro
+Cabeça cabeça
+Cabeça dinossauro
+
+Pança de mamute
+Pança de mamute
+Pança pança
+Pança de mamute
+
+Espírito de porco
+Espírito de porco
+Espírito de porco
+
+Final
+
+(G5) C#5 E5 (G#) F#5 E5 D5 E5 (G5)...repete.
+
+----------------- Acordes -----------------
+C#5 = X 4 6 6 X X
+D5 = X 5 7 7 X X
+E5 = 0 2 2 X X X
+F#5 = 2 4 4 X X X
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G5 = 3 5 5 X X X

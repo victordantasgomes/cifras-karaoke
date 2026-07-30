@@ -1,0 +1,81 @@
+@titulo: submissa
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Submissa
+
+(Renato Russo)                                             Versão: Capital Inicial (Aborto Elétrico)
+
+Introdução: C5 B5 E5 (4x)
+                            __
+ C5          B5       E5      : 4
+Conheci uma garota Submissa __:  Vezes
+E5        G5        A5       C5
+Tudo o que eu mandava, Ela fazia
+E5         G5      A5        C5
+Tudo o que eu queria, Ela fazia
+E5        G5        A5         C5
+Tudo o que eu sonhava, Ela fazia
+E5          G5         A5         C5
+Submissa, Submissa, Submissa, Submissa
+
+Introdução: C5 B5 E5 (2x)
+                            __
+C5          B5       E5       : 4
+Conheci uma garota Submissa __:  Vezes
+E5        G5        A5       C5
+Tudo o que eu mandava, Ela fazia
+
+E5         G5      A5        C5
+Tudo o que eu queria, Ela fazia
+E5        G5        A5         C5
+Tudo o que eu sonhava, Ela fazia
+E5          G5         A5         C5
+Submissa, Submissa, Submissa, Submissa
+
+Solo:
+E|----------|4 |-------------------------||-----------|2 |------------------------|
+B|----------|v |-------------------------||-----------|v |------------------------|
+G|-7h9-9...-|e |-12...-14...-12...-14...-||--7h9-9...-|e |-7h9-99-7h9-99-7h9-9...-|
+D|----------|z |-------------------------||-----------|z |------------------------|
+A|----------|e |-------------------------||-----------|e |------------------------|
+D|----------|s |-------------------------||-----------|s |------------------------|
+
+E|-------------------------| 
+B|-------------------17...-|
+G|-12...-14...-16...-------|
+D|-------------------------|
+A|-------------------------|
+D|-------------------------|
+
+E5        G5        A5       C5
+Tudo o que eu mandava, Ela fazia
+E5         G5      A5        C5
+Tudo o que eu queria, Ela fazia
+E5        G5        A5         C5
+Tudo o que eu sonhava, Ela fazia
+E5          G5         A5         C5
+Submissa, Submissa, Submissa, Submissa
+
+
+Notações
+
+H   - Martele a corda com na casa indicada com a mão que pressiona as cordas.
+... - Toque continuamente a nota indicada no tablado (Ouça a música para saber o tempo correto)
+
+
+Transcrito por: Renan Pinto dos Santos
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+B5 = X 2 4 4 X X
+C5 = X 3 5 5 X X
+E5 = 0 2 2 X X X
+G5 = 3 5 5 X X X

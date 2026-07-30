@@ -1,0 +1,94 @@
+@titulo: a-raposa-e-as-uvas
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - A Raposa e As Uvas
+
+[Intro]  F  A7  Dm  Bb  C7  F  C7
+
+             F                                         A
+E|-----------------------------8---------------|----------------5----------------|
+B|------------------10-------------10-----10---|------------5------5-----5-------|
+G|---------------10------10-----------10-------|---------6----6-------6----------|
+D|-----10---10---------------------------------|---7--7--------------------------|
+A|---------------------------------------------|---------------------------------|
+E|---------------------------------------------|---------------------------------|
+
+               Dm                                              Bb
+E|-----------------------10--------------------|----------------------6---------------|
+B|--------------10----------10----10-----------|---------------6-----------6------6---|
+G|----------10-------10--------10--------------|----------7--------7----------7-------|
+D|--12--12-------------------------------------|-----8--8-----------------------------|
+A|---------------------------------------------|--------------------------------------|
+E|---------------------------------------------|--------------------------------------|
+
+                 C7
+E|-------------------------8--------------------|
+B|----------------8------------8--------8-------|
+G|-----------9--------9-------------9-----------|
+D|---10--10-------------------------------------|
+A|----------------------------------------------|
+E|----------------------------------------------|
+
+ F                   A               Dm     F                               Bb
+Lembro com muita saudade daquele bailinho, quando a gente dançava bem agarradinho
+                 C                  F    C7 C Bb A G
+Onde a gente ia mesmo é prá se abraçar
+ F                 A7                  Dm
+Você com laquê no cabelo e um vestido rodado
+          F7                  Bb                   C7                 F   F7
+E aquelas anáguas com tantos babados, e voce se sentava só prá me mostrar
+
+ Bb                     A                         Dm
+ E tudo o que a gente transava eram três, quatro cubas
+            Bb            F                 C7
+Eu era a raposa e voce as uvas, eu sempre querendo
+              F  F7      Bb                   A
+Teu beijo roubar, e por mais que voce se esquivasse
+             Dm                 Bb                  F
+Eu tinha certeza que no fim do baile, na minha lambreta
+              C7             F     C7
+Aquele broto bonito ia me abraçar
+ F                  A7             Dm                F7                  Bb
+Quando a orquestra tocava "Besame mucho", eu lhe apertava e olhava o seu busto
+           C7               F   C7   F                     A7                   Dm
+Dentro do corpete querendo pular    Eu todo cheiroso à "lancaster" e voce à "chanel"
+        F7                  Bb                C7                  F    F7
+Eu era menino, mas fazia o papel do homem terrível só prá lhe agradar
+
+           C7                 F  Fm   C7
+Contente prá casa eu ia te levar
+
+F           Am                            Dm
+E ao chegar em tua casa, em frente ao portão
+             F7                   Bb                  C7                F     C7
+Um beijo, um abraço, minha mão, tua mão, com medo que o velho pudesse acordar
+F             A7                 Dm                        F7                    Bb
+A pílula já existia, mas nem se falava, pois dos muitos conselhos que tua mãe te dava
+              C7                           F    F7
+Tinha um que dizia: "só pode depois que casar"
+
+        C7                     F Fm  A Bb B C
+Aquele corpo bonito ia me abraçar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F7 = 1 3 1 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3

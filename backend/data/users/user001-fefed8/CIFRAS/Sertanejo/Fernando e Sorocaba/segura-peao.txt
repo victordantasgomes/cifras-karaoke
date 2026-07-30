@@ -1,0 +1,67 @@
+@titulo: segura-peao
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - Segura Peão
+
+Introdução: B      B F# B
+
+Solo:
+e|--------------------------------------|------------------------------------|---|
+B|-----------------7--------------------|-----------------7------------------|---|
+G|-4/6-8--8-8-8--4---6-6/8-8--6/4/6-6/8-|-4/6-8--8-8-8--4---6-6/8-8--6/4/6-4-|-4-|
+D|-----------------4--------------------|-----------------4------------------|-4-|
+A|-2/4-6--6-6-6--2---4-4/6-6--4/2/4-4/6-|-2/4-6--6-6-6--2---4-4/6-6--4/2/4-2-|-2-|
+E|--------------------------------------|------------------------------------|---|
+
+  B                F#
+É festa no sertão, tem brilho no céu
+     E                       F#
+Teus olhos me dão força, teu beijo tem o mel
+B                   F#
+Hoje na cidade, tem festa do peão
+E                   F#
+E minha vontade é domar seu coração
+
+E                               B
+E cada touro na arena que eu montar
+
+                           F#
+A vitória pra você vou dedicar
+                           B        B7
+Vou deixar por conta da emoção
+E
+Oito segundos é pouco
+              B
+Agüento muito mais
+                                F#    E   F#     B
+Com você no peito, não olho pra trás... Segura peão
+
+Introdução
+
+   B                   F#
+Chegou mais uma vez, a hora de montar
+    E                F#
+A espora tá no pé, o bicho vai pegar
+  B                   F#
+O touro tá pulando, levanta o poeirão
+E                        F#
+E dentro do peito quem machuca é a paixão
+
+Repete refrão...
+Solo de teclado: E  B  F#  B  B7  E  B  F#  E F# B
+Refrão novamente (2x)
+Solo de guitarra: E  B  F#  E F# B
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2

@@ -1,0 +1,99 @@
+@titulo: o-amor-e-o-caminho
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - O Amor É o Caminho
+
+INTRO: ( C#m  B  A9 )
+
+C#m       B         A9           C#m     B       A9         F#m
+Longe, perdido, sem direção com fome, vencido na solidão voltar é
+F#m/E    D#m7  Dm6  A7+          G/A    F#/G#  G#7    C#m
+a      saí.....da   posso ser um servo seu,       e o pão de sua
+ B           A9    C#m        B        A9           C#m  B
+casa eu comerei  Direi, ó meu pai, eu pequei contra Deus e contra
+A9    F#m  F#m/E  D#m7   Dm6  A7+     G/A             F#/G#  G#7
+ti eu já  não     mere...ço   que me chames de filho teu
+      C#m       B                A9      A/C#  B/D#
+trata-me, ó pai como um dos teus servos
+
+Refrão
+
+E        C#m   B   A       A/B            E         C#m   B   A
+Pai, eu quero voltar pois aqui não tenho forças, preciso voltar e
+    B          A/C#       G#m7   F#m7    A/B      A/C#  G#m7
+deixar este caminho quero recomeçar, voltar a viver     vou me
+      D  Bm      C#m           ( B4  B )
+levantar e retornar ao meu lar
+
+
+C#m          B         A9         C#m         B           A9
+Com olhos sofridos de esperar seu filho mais novo que deixou o
+            F#m F#m/E    D#m7  Dm6  A7+    G/A    F#/G#  G#7
+seu lar tão longe,    distan...te,  foi se aventurar         a
+   C#m          B             A9      C#m         B         A9
+saudade veio e ficou no seu lugar  Um pai não se cansa de amar e
+              C#m         B         A9                  F#m F#m/E
+de esperar no peito a certeza, seu filho vivo está! E o seu
+  D#m7   Dm6   A7+           G/A          F#/G#  G#7
+Sofri....mento por não saber onde o encontrar...
+    C#m               B                 A9  A/C#  B/D#
+se fez alegria quando ao longe o viu chegar
+
+REPETE Refrão
+
+E      A         B/D#    E        A/E     G#m7           D
+Filho, podes voltar, o amor é o caminho ansioso estou a te
+              C#m           A/C#  B/D#         E            C9
+esperar venha para os meus braços deixa para trás o que passou,
+       G9          C7/4
+passou não importa mais
+F       Dm    C   Bb   Bb/C           F    Dm       C  Bb      C
+Filho, tu és meu filho veste a roupa nova, calça a sandália e vamos
+     Bb/D          Am7        Gm7    C         Bb/D Am7       Eb
+festejar tu não estás mais perdido aqui é teu lar   teu renascer nós
+Bb          Dm  C  Bb  F
+vamos celebrar!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A7+ = X 0 2 1 2 0
+A9 = X 0 2 2 0 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B4 = X 2 4 4 5 2
+Bb = X 1 3 3 3 1
+Bb/C = X 3 X 3 3 1
+Bb/D = X 5 X 3 6 6
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+C7/4 = X 3 3 3 1 X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D#m7 = X X 1 3 2 2
+Dm = X X 0 2 3 1
+Dm6 = X 5 X 4 6 5
+E = 0 2 2 1 0 0
+Eb = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+F#/G# = 4 X 4 3 2 X
+F#m = 2 4 4 2 2 2
+F#m/E = X X 2 2 2 2
+F#m7 = 2 X 2 2 2 X
+G#7 = 4 6 4 5 4 4
+G#m7 = 4 X 4 4 4 X
+G/A = 5 X 5 4 3 X
+G9 = 3 X 0 2 0 X
+Gm7 = 3 X 3 3 3 X

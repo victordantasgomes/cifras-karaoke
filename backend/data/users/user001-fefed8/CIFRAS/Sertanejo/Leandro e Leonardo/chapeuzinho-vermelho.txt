@@ -1,0 +1,98 @@
+@titulo: chapeuzinho-vermelho
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - Chapéuzinho Vermelho
+
+Intro: G C G Am G D
+
+G
+Pela estrada afora
+   C         G
+Eu vou bem sozinha
+                         A   D
+Levar estes doces para a vovozinha
+G
+Ela mora longe
+      C         G
+E o caminho é deserto
+
+E o lobo mau passeia
+ A   D   G
+Aqui por perto.
+
+C         G
+Mais à tardinha
+C        G
+Ao sol poente
+
+
+Junto à vovozinha
+   A     D  G
+Dormirei contente (2x)
+
+(Modulação para: C#)
+
+Base: G Eb G# Bb F# G# C#
+
+   C#
+Eu sou o lobo mau
+     G#        C#
+Lobo mau, lobo mau
+
+Eu pego as criancinhas
+      G#     C#
+Pra fazer mingau
+
+F#            C#
+Hoje estou contente
+F#           C#
+Vai haver festança
+
+Tenho um bom petisco
+      G#           C#
+Pra encher a minha pança (2x)
+
+(Modulação para: F#)
+
+Base: C#, F#, G#, C#4/F#, C#/F, F#
+
+    F#
+Nós somos os caçadores
+  B           F#
+E nada nos amedronta
+G#m                 F#
+Damos mil tiros por dia
+  G#              Eb
+Matamos feras sem conta
+  B               F#
+Paramos toda a floresta
+   B            F#
+Os vales e serranias
+
+Caçando onças pintadas
+C#               F#
+Pacas, tatus e cotias
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#/F = X 8 X 6 9 9
+C#4/F# = X X 4 1 2 2
+D = X X 0 2 3 2
+Eb = X 6 5 3 4 3
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4

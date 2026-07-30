@@ -1,0 +1,103 @@
+@titulo: isaias-40
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Isaías 40
+
+INTRO:  ::  Em11  :  (6 compassos)
+        :  D/E : % : Em11 : % :  D/F#  : % : Em11/G : % :
+        :  D   : % : Em11 : % :  D/F#  : % :  A  : % :
+
+    A
+UMA VOZ CLAMA NO DESERTO
+    A9(11)                A
+UMA VOZ CLAMA NO DESERTO
+   D9/A                           A
+PREPAREM, PREPAREM O CAMINHO DO SENHOR  2X
+     Bm/A                   A
+NO DESERTO FAÇAM UM CAMINHO RETO
+       Bm/A                            A
+PARA O NOSSO DEUS UM CAMINHO RETO NO DESERTO
+
+   A                Em/A       D/A              A
+OS VALES SERÃO LEVANTADOS E OS MONTES SERÃO APLANADOS
+      A           Em/A            D/A A
+OS TERRENOS ACIDENTADOS SERÃO NIVELADOS
+
+    Em/A         A     Em/A    A
+E A GLÓRIA DO SENHOR SERÁ REVELADA
+
+  Em/A      D/A                       A
+E TODOS A VERÃO, POIS É O SENHOR QUEM FALA
+
+REINTRO: : FM7 : G6 : Am7 : G/B : F#m7 : E/G# : D2 : D2 :
+
+   A                Em7        D                A
+OS VALES SERÃO LEVANTADOS E OS MONTES SERÃO APLANADOS
+      A           Em7             D  A
+OS TERRENOS ACIDENTADOS SERÃO NIVELADOS
+
+    G2         D/F#    G2     A/C#
+E A GLÓRIA DO SENHOR SERÁ REVELADA
+  G2/B      D2                       A2
+E TODOS A VERÃO, POIS É O SENHOR QUEM FALA
+
+   A    G2/B       D2    A
+ALELUI - A      ALELUI - A   2X
+
+          A              G2/B
+NÓS TE LOUVAMOS, NÓS CELEBRAMOS
+   D2                 A
+A CHUVA SOBRE A TERRA SECA
+          A              G2/B
+NÓS TE LOUVAMOS, NÓS CELEBRAMOS
+   D2        Esus  E
+OS RIOS NO DESERTO
+
+[Drums]
+ALELUI - A     ALELUI - A
+[Drums + guitarra]
+   A    G2/B      D2    A
+ALELUI - A     ALELUI - A
+[Todos]
+   A    G2/B      D2    A
+ALELUI - A     ALELUI - A
+
+FIM:
+   A    G2/B       D2  : D2 : G D/F#  F C/E  C2 C :  A ::
+ALELUI - A     ALELUI - A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9(11) = X 0 2 4 3 0
+Am7 = X 0 2 0 1 0
+Bm/A = X 0 4 4 3 X
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C2 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+D2 = X X 0 2 3 0
+D9/A = X 0 X 2 3 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em/A = X 0 2 0 0 X
+Em11 = 0 0 2 0 0 0
+Em7 = 0 2 2 0 3 0
+Esus = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G2 = 3 X 0 2 0 X
+G6 = 3 X 2 4 3 X

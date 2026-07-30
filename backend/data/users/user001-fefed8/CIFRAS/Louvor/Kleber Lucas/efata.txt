@@ -1,0 +1,63 @@
+@titulo: efata
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Efatá
+
+(intro 2x) Bm   D  A
+
+Bm                 G
+   que se abram os olhos dos cegos
+D                    F#
+   que se abram os ouvidos dos surdos
+Bm                    G
+   que se desatem as amarras dos presos
+ D                 F#
+   e desenrolem as línguas dos mudos
+Em                                  G                  F#
+   que se abram os portais eternos,   nosso rei vai entrar
+
+   Bm  G  D  F#                 Bm  G  D  F#
+Efatá,                       efatá
+
+Bm
+   que se abram as portas trancadas
+Bm
+   que desabem os céus de bronze
+Bm
+   que se quebrem os ferrolhos de ferro
+
+Bm
+   e as grades do cativeiro
+Em                                  G                  F#
+   que se abram os portais eternos,   nosso rei vai entrar
+
+(sequência do restante da musica)
+efatá...(2x)
+
+Bm               G               D           F#
+   que se abram,   que se abram,   efatá, efatá, efatá.(4x)
+
+(solo 2x)  Bm  G  A  F#/A#
+
+Que se abram as portas trancadas...
+efatá...(2x)
+
+Que se abram, que se abram, efatá,efatá,efatá(4x)...
+efatá...(4x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+G = 3 2 0 0 0 3

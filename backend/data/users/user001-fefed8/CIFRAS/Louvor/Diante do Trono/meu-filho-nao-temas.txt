@@ -1,0 +1,67 @@
+@titulo: meu-filho-nao-temas
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Meu Filho, Não Temas
+
+Intro: F  C  G  Am  F  C  G
+Violão:
+E|-------------------------------------------------------------|
+B|--6-6-6h8-5------5-3--5/8-5---5-6-8-6/8---------5--8--6-4h6--|
+G|--7-7---------5-7---------------------5-5--5--7--------------|
+D|-------------------------------------------------------------|
+A|-------------------------------------------------------------|
+E|-------------------------------------------------------------|
+
+Guitarra:
+E|-------------------------------------------------------------|
+B|-6-6-6h8-5-----5--3--5/8--5--5-6-8-6/8----------5--8--6-5--3-|
+G|-----------5-7-------------------------5-5--5-7--------------|
+D|-------------------------------------------------------------|
+A|-------------------------------------------------------------|
+E|-------------------------------------------------------------|
+
+
+               F          C
+Quando estou pronto a desistir
+          F              C
+Pensando que cheguei ao fim
+
+       G        Am
+A tua mão me sustenta
+       G      Am
+A tua voz me orienta
+              F                     G
+Dizendo: não temas! meu filho, não temas!
+      F                        G      F C G
+Não temas!    meu filho, não temas!
+
+         C     G
+Eu te levanto
+       F
+Eu te ajudo
+        Am
+Te fortaleço
+     G           F
+Meu filho, não temas!
+          C  G
+Eu te levanto
+        F
+Eu te ajudo
+        Am
+Te fortaleço
+      G           F
+Meu filho, não temas!
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

@@ -1,0 +1,70 @@
+@titulo: meu-carpinteiro(versão 2)
+@autor:
+@intérprete: Anderson Freire
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Anderson Freire - Meu Carpinteiro
+
+Intro: Em  B  G  A  C  D
+
+Em       C       G           D           Em
+ Sobrevivente sou, da tempestade que passou
+             C       Am                    D
+ Minha casa desabou, uma base feita de ilusões
+
+     Am                  Em
+ Em meio aos escombros, Jesus me encontrou
+      C
+ Meu Salvador, meu carpinteiro
+ G
+ O meu reconstrutor
+   Am               Em            D
+ Na adversidade descubro quem eu sou
+   Am         D           C  Am, D
+ Humano dependente do Senhor.
+
+G
+ O meu carpinteiro é Jesus
+                       D
+ Minha casa Ele consertou
+
+                     Am           C       G
+ Se a tempestade voltar, ela não vai desabar
+                                    Em
+ Todo sofrimento acabou, como chuva de verão passou
+                              Am
+ Assim como a igreja sobre a pedra
+            C     D   Em  C  Em  C
+ Minha casa Ele edificou.
+
+G
+ Minha casa Ele consertou
+                          D
+ Eis que tudo novo se tornou
+                            Am
+ Vivo pra contar o que Ele faz
+                              C               G
+ A tragédia não roubou minha paz, Ele não deixou
+
+(Volta ao refrão um tom acima)
+
+F#m                   D                        A
+ Minha casa Ele edificou, minha casa Ele edificou
+                            Am          F#m
+ Vivo pra contar o que Ele faz, Ele é demais
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

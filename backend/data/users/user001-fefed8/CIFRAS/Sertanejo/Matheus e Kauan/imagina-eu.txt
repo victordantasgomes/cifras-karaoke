@@ -1,0 +1,104 @@
+@titulo: imagina-eu
+@autor:
+@intérprete: Matheus e Kauan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Matheus e Kauan - Imagina Eu
+
+Intro: F#m A E B9
+
+Solo Intro e Refrão
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|------------------------------------------|
+D|-4-4-4-4----6/7\6---4/2-----2~------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|------------------------------------------|
+D|9/11-11-11-11---9-7-6-7-9---9-9-9--7-6-7-9|
+A|------------------------------------------|
+E|------------------------------------------|
+
+2° Parte
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|------------------------------------------|
+D|-4-4-4-4----6/7\6---4/2-----2~------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|------------------------------------------|
+D|9/11-11-11-11---9-7-6-7-9---9/11/13~------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+       F#m                A
+E pra você eu sou passado
+                E
+E hoje eu nem chego a ser eu ex
+ B9
+Olha o que "cê" fez
+       F#m             A
+Eu nem fui seu namorado
+             E
+Mas tinha a certeza que era seu
+ B9
+Jurava que era seu
+
+    F#m     A                        E
+Só fui uma página em branco no seu livro
+           B9
+Apenas um amigo
+  F#m                  A
+"cê" não tem nem noção
+             E
+Do que fez comigo
+                 B9
+Me deixou amar sozinho
+
+Refrão:
+A
+Se você já cansou de ser enganada
+   E
+Imagina eu
+                               Bm
+Não tenho culpa se por outro alguém sofreu
+                       D
+Se o seu coração tá machucado
+           E
+Imagina o meu
+
+A
+Se você já cansou de ser enganada
+   E
+Imagina eu
+                                Bm
+Não tenho culpa se por outro alguém sofreu
+                            D
+Pensa o tanto que "cê" já bebeu
+         E
+Imagina eu
+         F#m
+Imagina eu
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B9 = X 2 4 4 2 2
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,48 @@
+@titulo: eu-nao-sei-fazer-musica
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Eu Não Sei Fazer Música
+
+Intro: E
+
+E
+ Eu não sei fazer música mas eu faço
+D
+ Eu não sei cantar as músicas que faço mas eu canto
+E
+ Eu não tenho certeza mas eu acho
+D
+ Eu não sei o que falar mas eu falo
+C
+ Ninguém sabe nada
+ Ninguém sabe nada
+
+ Intro
+
+E
+ Eu não sei fazer música mas eu faço
+D
+ Eu não sei cantar as músicas que faço mas eu canto
+E
+ Eu não tenho certeza mas eu acho
+
+D
+ Eu não sei o que falar mas eu falo
+C
+ Ninguém sabe nada
+ Ninguém sabe nada
+ Ninguém sabe nada
+ Ninguém sabe nada
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0

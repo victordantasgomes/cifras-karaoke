@@ -1,0 +1,131 @@
+@titulo: as-lembrancas-vao-na-mala
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - As Lembranças Vão Na Mala
+
+Intro 3x:
+       C#m                     A   E              B
+E|------------------------------------------12--11~-11h12p11---------|
+B|---------------------------------------12------------------12------|
+G|-9---------9----9----9---------------9------------------------11~--|
+D|-11-----13---13---13---13----------9-------------------------------|
+A|-11-----------------------12---------------------------------------|
+E|-9----------------------------12-----------------------------------|
+
+Riff 1:
+E|-11h12p11---------|
+B|----------12------|
+G|-------------11~--|
+D|------------------|
+A|------------------|
+E|------------------|
+
+Riff 2:
+E|-11h12-11---------|
+B|----------12------|
+G|-------------11~--|
+D|------------------|
+A|------------------|
+E|------------------|
+
+
+C#m         A    E                   B
+Independentemente do que me disser agora
+C#m            A             E           B
+Queria deixar claro algumas coisas pra você
+C#m         A    E                      B
+Independentemente se deu certo nossa história,
+C#m             A               E               B
+Não quero que fique comigo por dó de me fazer sofrer
+
+Pré-Refrão:
+C#m            B       A                      C#m
+Orgulhoso, eu não me ajoelhei pra ter seu coração,
+C#m             B        A                      B
+Imperfeito sou sim, mas dei o meu melhor até o fim.
+
+Refrão 2x:
+ C#m                A                 E
+Sua consciência não vai te deixar dormir
+                             B
+Pois ninguém mais faz palhaçada pra te ver sorrir
+ C#m                     A                E
+Ninguém vai te abraçar pra ver o sol se pôr
+                          B
+Ninguém vai escrever no muro uma história de amor.
+
+C#m            A
+Mas se mesmo assim
+               E
+Quiser me deixar
+                      B
+As lembranças vão na mala pra te atormentar.
+      C#m                     A   E              B
+E|------------------------------------------12--11~-11h12p11---------|
+B|---------------------------------------12------------------12------|
+G|-9---------9----9----9---------------9------------------------11~--|
+D|-11-----13---13---13---13----------9-------------------------------|
+A|-11-----------------------12---------------------------------------|
+E|-9----------------------------12-----------------------------------|
+
+Pré-Refrão:
+C#m            B       A                      C#m
+Orgulhoso, eu não me ajoelhei pra ter seu coração,
+C#m             B        A                      B
+Imperfeito sou sim, mas dei o meu melhor até o fim.
+
+Refrão 2x:
+ C#m                A                 E
+Sua consciência não vai te deixar dormir
+                             B
+Pois ninguém mais faz palhaçada pra te ver sorrir
+ C#m                     A                E
+Ninguém vai te abraçar pra ver o sol se pôr
+                          B
+Ninguém vai escrever no muro uma história de amor.
+
+C#m            A
+Mas se mesmo assim
+               E
+Quiser me deixar
+                      B                         C#m   A
+As lembranças vão na mala pra te atormentar.
+
+Refrão 2x:
+ C#m                A                 E
+Sua consciência não vai te deixar dormir
+                             B
+Pois ninguém mais faz palhaçada pra te ver sorrir
+ C#m                     A                E
+Ninguém vai te abraçar pra ver o sol se pôr
+                          B
+Ninguém vai escrever no muro uma história de amor.
+
+C#m            A
+Mas se mesmo assim
+               E
+Quiser me deixar
+                      B
+As lembranças vão na mala pra te atormentar.
+      C#m                     A
+E|--------------------------------|
+B|--------------------------------|
+G|-9---------9----9----9----------|
+D|-11-----13---13---13---13-------|
+A|-11-----------------------12----|
+E|-9------------------------------|
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0

@@ -1,0 +1,87 @@
+@titulo: noticia-boa
+@autor:
+@intérprete: Nenhum de Nós
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nenhum de Nós - Notícia Boa
+
+(intro 2x) D Bm A G
+
+(riff pré-refrão)
+                                                        "Por favor me traga..."
+                                                          D
+D|---7-7----------------------|7-7----------------------|-------...
+A|---7-7--4-5-7-7h9-7-5-4-----|7-7--4-5-7-7h9-7-5-4-----|5~~----...
+E|---5-5------------------7-5-|5-5------------------7-5-|-------...
+
+D                Bm
+Eu queria que alguém
+A                  G
+Me dissesse alguma coisa
+                 D     Bm
+Que eu ainda não sei
+A                G
+Que alguma coisa boa
+          C
+Vai acontecer
+                 C/B   A (riff) A (riff)
+É só esperar prá ver
+
+
+(refrão)
+D            G
+Por Favor me traga
+      A
+Uma notícia boa
+D            G
+Por Favor me traga
+      A
+Uma Notícia
+               ( D  G  A )
+Mas que seja boa   -a  -aaaaa
+
+D              Bm
+Um telefonema, uma carta
+A              G               D   Bm
+Um programa de TV podem lhe trazer
+           A
+O que você mais deseja
+   D                 Bm
+Eu sei que pode parecer besteira
+A                G
+Mas tem gente espera
+            C
+Uma vida inteira
+   C/B     A (riff) A (riff)
+Até ela chegar
+
+     D            G
+Por Favor me traga...
+
+(instrumental base) G G D C
+                    G G D
+                    A A
+                    G C D D (3x)
+                    G C A (riff) A (riff)
+
+(solinho)6 5-4
+         6 6 6 5 -4
+         6 5 -4
+         6 6 6
+
+          D            G
+        Por Favor me traga...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C/B = X 2 2 0 1 0
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3

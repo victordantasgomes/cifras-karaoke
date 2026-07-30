@@ -1,0 +1,92 @@
+@titulo: sempre-te-quis
+@autor:
+@intérprete: Paralamas do Sucesso
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Os Paralamas do Sucesso - Sempre Te Quis
+
+Introdução:  E9  A A/C# (2x)
+             E9  D A/C# C  E/B F#/Bb A  E
+             E E/D A/C# Am/C (2x)
+
+
+E
+Todo o meu tempo
+
+Todo o meu zelo
+
+Todo o meu prédio já sabe que eu tenho
+    E/D
+Um amor
+
+
+E
+Todo receio
+
+Todo remédio
+
+Tudo que sempre causava
+
+
+Dor e medo
+   E/D
+Se foi
+
+
+C#m           A        E/B
+Foi por te ver andando reto
+                 F#/A#          A
+Entre tudo que há de incerto em mim
+
+
+E
+E fui andando, voltei ao zero
+                                    E/D
+Um recomeço é uma forma de se encontrar
+E
+Por ser tranquilo, por ser sincero
+
+Não me preocupa
+                             E/D
+O que não for é o que vai passar
+
+
+C#m7          A        E/B
+Foi por te ver andando reto
+                 F#/A#          A
+Entre tudo que há de incerto em mim
+
+        E
+Que eu sempre te quis
+                      E E/D
+Sempre te quis assim
+        A/C# Am/C
+Só p'rá mim
+
+                      E E/D
+Sempre te quis assim
+        A/C# Am/C
+Só p'rá mim
+
+( E E/D A/C# Am/C )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Am/C = X 3 2 2 5 X
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E9 = 0 2 4 1 0 0
+F#/A# = 6 X 4 6 7 X
+F#/Bb = 6 X 4 6 7 X

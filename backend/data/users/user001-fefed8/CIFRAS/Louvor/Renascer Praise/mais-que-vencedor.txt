@@ -1,0 +1,47 @@
+@titulo: mais-que-vencedor
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Mais Que Vencedor
+
+  E     B/D#       A/C#   B/D#         E   C#m
+Jesus em tua fidelidade   eu     me  abrigo
+    A             F#m            B7
+E debaixo de tuas asas fico tranqüilo
+         A         B/A               Ab(4) C#m
+Sei que nada e ninguém, pode me separar do teu amor
+     A9         F#m              B
+Para ti oh Rei meu, não há impossível
+   E/G#      A     B/A           Ab                C#m
+Saber que estás comigo me faz andar sobre a tempestade
+    A9           F#m         B
+E assim venço a fúria do inimigo
+E/G#   A          B/A               Ab             C#m
+Muito mais que vencedor   /  Muito mais que uma vitória
+   F#m                      B
+A minha porção em ti é ser filho
+E/G#  A        B/A           Ab                  C#m
+Aba   Pai, aleluia!  Na tua mesa há grande provisão
+E/G#  A       B/A         F#m          B            E
+Aba   Pai, aleluia!  Sou mais, muito mais que vencedor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+Ab = 4 3 1 1 1 4
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+B/D# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

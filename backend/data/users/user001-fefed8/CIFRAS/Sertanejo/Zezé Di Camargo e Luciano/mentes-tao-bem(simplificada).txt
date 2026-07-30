@@ -1,0 +1,114 @@
+@titulo: mentes-tao-bem(simplificada)
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Mentes Tão Bem
+
+Intro: G  D/F#  G  D/F#  Em  D/F#
+
+Primeira Parte:
+C                     D               G       D/F#
+  Me promete amor sincero uma vida inteira
+C                       D               G
+  que com você o meu inverno vira primavera
+Em           Em/D              C
+  vive me jurando estar apaixonada
+            Bm                   Am
+Prometeu o mundo e nunca me deu nada
+                 D/F#
+Você não cumpre nada
+
+C                           D                    G       D/F#
+  Que se eu seguir o seu caminho eu chegarei ao céu
+C                           D                 G
+  Eu vou provando o gosto amargo do seu doce mel
+Em                  Em/D                  C
+  Na mentira das palavras entro no seu jogo
+           Bm                Am
+Procurando água só encontro fogo
+
+                D/F#
+E queimo nesse fogo
+
+             C               D
+Quando você fala, tão apaixonada
+              G          D/F#     Em
+"Meu amor eu sempre estarei contigo"
+      Em/D       C                    D
+Olho nos seus olhos me emociono e choro
+              G           D/F#  Em
+Sei que é mentira mas me sinto vivo
+       Em/D  C                     D
+Mesmo sendo falso o ar, sinto que respiro
+
+Refrão:
+ C          D
+Mentes tão bem
+               G
+Que parece verdade
+D/F#             Em
+  O que você me fala
+       D
+Vou acreditando
+
+ C          D
+Mentes tão bem
+                      Em
+Que até chego a imaginar
+          Em/D
+Que não quer me enganar
+A9/C#               C
+  Que me ama de verdade
+D                 Em
+  Mentes tão bem
+
+(repetir o final da primeira parte)
+
+Refrão Final:
+ C          D
+Mentes tão bem
+               G
+Que parece verdade
+D/F#             Em
+  O que você me fala
+       D
+Vou acreditando
+
+ C          D
+Mentes tão bem
+                      Em
+Que até chego a imaginar
+          Em/D
+Que não quer me enganar
+A9/C#               C
+  Que me ama de verdade
+D
+  Mentes tão bem
+
+( Em  A5(9) )
+
+                  C   D
+Não me ama de verdade
+
+Você mente tão bem
+
+( G  D/F#  G  D/F#  Em  C  G )
+
+----------------- Acordes -----------------
+A5(9) = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+G = 3 2 0 0 0 3

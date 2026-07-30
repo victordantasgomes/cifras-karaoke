@@ -1,0 +1,52 @@
+@titulo: veja-o-cristo
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Veja o Cristo
+
+Intro: A Bm C#m D
+           D  C#m Bm A
+
+A                  Bm
+  Quando você
+C#m        D
+  Está sozinho a pensar
+A                       Bm
+  Não pensa em ter
+C#m          D
+  Algo por que se guiar
+A                  Bm
+  Ao se fechar
+C#m             D
+  Não pensa mais no amor
+A               Bm
+  Sem caminhar
+C#m          D
+  Nunca viveu no Senhor
+  A                   G          D               A
+  Venha ver o Cristo. Abra sua mão.
+
+  A                  G                     D                            A
+  Pegue uma rosa e veja o bem feito ao se coração.
+A         Bm  C#m           D
+  Quando você sente-se mal em viver
+A         Bm  C#m           D
+  Sem assumir, mas também sem esquecer
+A         Bm  C#m           D
+  Pensa em chorar, mas nada vai resolver
+A         Bm  C#m           D
+  Pensa em amar e um jovem vai renascer
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3

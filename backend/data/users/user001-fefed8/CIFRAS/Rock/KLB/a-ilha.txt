@@ -1,0 +1,60 @@
+@titulo: a-ilha
+@autor:
+@intérprete: KLB
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+KLB - A ilha
+
+Intro ( A D A D)
+
+  A           D                 A
+  Uma ilha deserta, só pra nós dois.
+            B                 A
+Um céu estrelado, só pra nós dois.
+              D               A
+Um filme de amor, só pra nós dois.
+            B                      
+Um barco a vela, só pra nós dois.
+
+Pré-refrão
+ A5                      D5
+ Quero viver tudo ao seu lado, estou a cada 
+dia      
+         E5
+mais apaixonado.
+
+Refrão
+E5              C#5           A5
+  O amor faz a gente se encontrar, abri nossos 
+   B5       E5            C#5           A5
+caminho,       você apareceu pra me mostrar... 
+                        E5
+...que ninguém é feliz sozinho.  2X
+
+Solo
+Volta no inicio
+
+A             D                  A
+  Uma ilha deserta, só pra nós dois.
+             B                 A
+Um céu estrelado, só pra nós dois.
+              D                A
+Um filme de amor, só pra nós dois.
+            B                 A                     
+ Um barco a vela, só pra nós dois.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+B = X 2 4 4 4 2
+B5 = X 2 4 4 X X
+C#5 = X 4 6 6 X X
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+E5 = 0 2 2 X X X

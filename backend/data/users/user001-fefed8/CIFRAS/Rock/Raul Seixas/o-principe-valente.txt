@@ -1,0 +1,88 @@
+@titulo: o-principe-valente
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - O Príncipe Valente
+
+[Intro] C  Em  A7  D7  G7
+
+   C                    F               C  F
+Cansei do amor preto e branco da vida real
+   C                   F          G7
+Entrei pelas cores do livro medieval
+    Am                  D7
+As nuvens douradas do espaço
+  Am                D7
+A minha armadura de aço
+           C      Am7
+A minha espada de ouro
+           C        Am7
+Um par de luvas de couro
+   D7                G7
+E sete montanhas pra conquistar
+   C                   F                   C  F
+O som de trombetas e o reino ficou lá pra trás
+    C                   F                    G
+Montado na calda de um vento que leva e não traz
+  Am                      D7
+Vivendo por dentro e por fora
+
+   Am                 D7
+Um bom cavaleiro não chora
+           C        Am7
+Não tem saudade de nada
+          C         Am7
+Só pensa mesmo na estrada
+   D7                G7
+E sete montanhas pra conquistar
+ Dm                    G                C     A7
+Cantando amor por mim mesmo eu posso te amar
+    Dm                   G                 Em     A7
+Nas velhas lembranças do vento nas ondas do mar
+   Dm               G         Dm              G
+Derrubo as sete montanhas, percorro os doze caminhos
+    Dm                  G                  Em
+Me perco no sonho e na selva pra te conquistar
+     A7
+Meu amor
+   Dm                    G                 C  G
+Entrando nos contos de fadas pra te procurar
+
+[Solo] C  F  C  F
+       C  F  G7  Am
+       D7  Am  D7  C
+       Am7  C  Am7  D7  G7
+
+ Dm                    G                C     A7
+Cantando amor por mim mesmo eu posso te amar
+    Dm                   G                 Em     A7
+Nas velhas lembranças do vento nas ondas do mar
+   Dm               G         Dm              G
+Derrubo as sete montanhas, percorro os doze caminhos
+    Dm                  G                  Em
+Me perco no sonho e na selva pra te conquistar
+     A7
+Meu amor
+   Dm                    G                 C  Bb  Cm  Bb  Cm
+Entrando nos contos de fadas pra te procurar
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

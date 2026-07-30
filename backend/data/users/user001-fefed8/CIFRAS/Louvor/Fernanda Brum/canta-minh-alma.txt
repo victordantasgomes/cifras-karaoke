@@ -1,0 +1,131 @@
+@titulo: canta-minh-alma
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Canta Minh'Alma
+
+(intro)  F#m  F#m9  (2x)
+             F#m  D  D#m7/5-  D
+
+F#m          D              A
+O meu coração Já se quebrantou
+                E          F#m
+Diante da tua glória amado meu
+           D                 A
+Ouço esse som que me leva a ti
+                E         A/C# Bm
+Não posso resistir ao teu cha-mar
+               D          D#m7/5-
+Que me faz te desejar bem mais
+            A/D        E/G#
+Que me faz subir mais alto
+
+  D              A
+Canta minh'alma solta o teu grito
+ E                Bm           ( A/C# )
+Corre até o céu no sobrenatural
+ D
+Em meio aos anjos
+
+  A
+Além do infinito
+   E                  C#m   D   Bm   C#m  A  G#m  F#m
+Invade o coração de Deus
+
+F#m          D              A
+O meu coração Já se quebrantou
+                E          F#m
+Diante da tua glória amado meu
+           D                 A
+Ouço esse som que me leva a ti
+                E         A/C# Bm
+Não posso resistir ao teu cha-mar
+               D          D#m7/5-
+Que me faz te desejar bem mais
+            A/D        E/G#
+Que me faz subir mais alto
+
+  D              A
+Canta minh'alma solta o teu grito
+ E                Bm           ( A/C# )
+Corre até o céu no sobrenatural
+ D
+Em meio aos anjos
+  A
+Além do infinito
+   E                  C#m   D   Bm   C#m  A  G#m
+Invade o coração de Deus
+
+(solo)    D  D#m/5-  D  A   E/G#
+
+E|-9---9---9---9---9---9---9---9---| 
+B|-12b-12b-12b-12b-12b-12b-12b-12b-| 
+G|---------------------------------| 
+D|---------------------------------| 
+A|---------------------------------| 
+E|---------------------------------| 
+
+
+E|-14--14--14--14--14--14--14------| 
+B|-16b-16b-16b-16b-16b-16b-16b-----|
+G|---------------------------------| 
+D|---------------------------------| 
+A|---------------------------------| 
+E|---------------------------------| 
+
+
+E|-16b-16-14-----------------------| 
+B|-----------9p10p9----------------| 
+G|------------------11-9-----------| 
+D|-----------------------9~~~~~~~~~| 
+A|---------------------------------| 
+E|---------------------------------| 
+
+
+ D              A
+Canta minh'alma solta o teu grito
+ E                Bm            (A/C#)
+Corre até o céu no sobrenatural
+D
+Em meio aos anjos
+  A
+Além do infinito
+   E                       C#m  D  Bm   C#m   A  G#m
+Invade o coração de Deus
+
+ D              A
+Canta minh'alma solta o teu grito
+ E                Bm            (A/C#)
+Corre até o céu no sobrenatural
+D
+Em meio aos anjos
+  A
+Além do infinito
+   E                       C#m  D  Bm   C#m   A  G#m
+Invade o coração de Deus
+
+( C#m  D  Bm   C#m  A  G#m  F#m )
+
+( F#m  F#m9 ) (2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/D = X X 0 6 5 5
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D#m/5- = X X 1 2 4 2
+D#m7/5- = X X 1 2 2 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+F#m9 = 2 4 6 2 2 2
+G#m = 4 6 6 4 4 4

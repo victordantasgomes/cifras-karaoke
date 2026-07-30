@@ -1,0 +1,175 @@
+@titulo: autor-da-vida
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Autor da Vida
+
+Autor da vida (beat=68 6/8)
+
+Intro :          A9  D9  A9/F# A9/C#  D9
+              A9  D9  A9/F# A9/C#  D9
+         E9/A  A9  D9/A A9  E/D D9 E
+         F#m7/9 E/G# A9  E/D D9  A/B Bm7
+         C#m7  Cm7  F#m7 C#m/E  Cm7  Bm7
+
+     A9                E/A  A9
+Tu es o autor da vida
+    A9/F#          D9
+e eu a Tua canção
+    Bm7    A/C#
+Tu es o oleiro
+   D9                     Esus4  E
+e eu barro em Tuas maos
+
+    A9                E/A  A9
+Tu es o instrumentista
+  A9/F#             D9
+e eu soprado por Ti
+
+    Bm7    A/C#
+Tu es o artista
+   D9                 Esus4  E
+e eu me rendo a Ti
+
+F#m7/9  E/G# A9
+Toca-me
+E9/D          D9     A/B  Bm7         B A
+Canta em mim
+E/G#                     A9                                   G9    D/F#  Esus4 E
+poe as cores que há em Teus olhos sobre mim
+
+F#m7/9  E/G# A9
+Move me
+E9/D          D9     A/B  Bm7         B A
+Sente em mim
+E/G#                     A9                                   G9    D/F#  Esus4 E
+Conta Tua historia atraves de mim
+
+INTRO    F#m7/9  E/G# Asus4 A9/C#
+         E/D D9  A/B Bm7
+         C#m7  Cm7  F#m7 C#m/E  Cm7  Bm7/D
+
+A/C#    D9
+Dança
+A9/F#  E9/G#
+Canta
+A9      D9
+Toca
+A9/F#    Esus4 E9      D
+Molda
+
+A/C#    D9   B A G#
+Escreve
+A9/F#  E9/G#  A B  E
+Pinta
+A9      D9
+   Fala
+A9/F#    Esus4 E9
+Sente
+
+modulacao
+
+B/D#    E9
+Dança
+B9/G#  F#9/A#
+Canta
+B9      E9
+Toca
+B9/G#    F#sus4 F#9      E
+Molda
+
+B/D#    E9   C#  B A#
+Escreve
+B9/G#  F#9/A#  B C#  F#
+Pinta
+B9      E9
+   Fala
+B9/G#    F#sus4 F#9
+Sente
+
+
+G#m7/9  F#/A# B9
+Toca-me
+F#9/E          E9     B/C#  C#m7         C# B
+Canta em mim
+F#/A#                     B9          C#    D#      F#    A9    E/G#  F#sus4 F#
+poe as cores que há em Teus olhos sobre mim
+
+G#m7,9  F#/A# B9
+Move me
+F#9/E          E9     B/C#  C#m7         C# B
+Sente em mim
+F#/A#                     B9                                   A9    E/G#  F#sus4 F#
+Conta Tua historia atraves de mim
+
+  B9                F#/B  B9
+Tu es o autor da vida
+  B9/G#             E9
+e eu a composicao
+    C#m7    B/D#
+Tu es o artista
+   C#m7    E9/F#  F#9
+e a tela     é    o meu coração
+
+End     E9 F#9  B9 B9/D# E9
+        E9 F#9  E/G# F#/A#
+         A9,11 E/G#  GM7 C#m7/F#
+         B9  E9    ...... B9
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A# = X 1 3 3 3 1
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+A9/F# = 2 X 2 2 0 0
+Asus4 = X 0 2 2 3 0
+B = X 2 4 4 4 2
+B/C# = X 6 X 4 7 7
+B/D# = X 6 X 4 7 7
+B9 = X 2 4 4 2 2
+B9/D# = X 6 4 4 2 2
+B9/G# = 4 X 4 4 2 2
+Bm7 = X 2 4 2 3 2
+Bm7/D = X 5 4 2 3 2
+C# = X 4 6 6 6 4
+C#m/E = X 7 6 6 9 X
+C#m7 = X 4 6 4 5 4
+C#m7/F# = 2 X X 1 0 0
+Cm7 = X 3 5 3 4 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+D9/A = X 0 X 2 3 0
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+E9 = 0 2 4 1 0 0
+E9/A = 5 X X 4 5 2
+E9/D = X 5 2 4 5 2
+E9/F# = X X 4 4 5 2
+E9/G# = 4 X 4 4 5 X
+Esus4 = 0 2 2 2 0 0
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#/B = X 2 4 3 2 2
+F#9 = 2 4 6 3 2 2
+F#9/A# = 6 X X 6 7 4
+F#9/E = X 7 4 6 7 4
+F#m7 = 2 X 2 2 2 X
+F#m7/9 = X X 4 2 5 4
+F#sus4 = 2 4 4 4 2 2
+G# = 4 3 1 1 1 4
+G#m7 = 4 X 4 4 4 X
+G#m7/9 = X X 6 4 7 6
+G9 = 3 X 0 2 0 X

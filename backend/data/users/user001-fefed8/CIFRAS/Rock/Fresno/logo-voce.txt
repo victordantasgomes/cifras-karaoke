@@ -1,0 +1,82 @@
+@titulo: logo-voce
+@autor:
+@intérprete: Fresno
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fresno - Logo Você
+
+G                         G9
+  A cada esquina teimo ouvir
+                  Em7
+Sua voz a me lembrar
+                     G9
+Que você não está aqui
+
+G                   D4
+  E nada vai dissuadir
+                          Em7
+Você de seguir sem o seu par
+                      ( Am G/B C )
+Por mim, você pode fugir
+
+        Em             D                C
+Logo você, que sempre foi a mais forte de nós dois
+        Em          D         C
+Logo você? Deixando o agora pra depois (Pra depois)
+
+G                   D
+  Você sente ao me ver
+
+                      Em
+O que eu sinto por você
+        D          C
+Ou não sente mais nada?
+G                         D
+  E o que sobrou do seu amor
+                        Em    D     C
+Será o bastante pra manter você em casa?
+
+G            Em           D       C
+  Não chorar,  não sentir,  não amar
+G            Em           D       C
+  Não chorar,  não sentir,  não amar
+
+G                          Em
+  Não chorar por mais ninguém
+                         D
+Não sentir por mais ninguém
+      C
+Não amar
+
+        A
+Logo você?
+                  E
+Você sente ao me ver
+                      F#m
+O que eu sinto por você
+        E          D
+Ou não sente mais nada?
+A                         E
+  E o que sobrou do seu amor
+                        F#m   E     D
+Será o bastante pra manter você em casa?
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G9 = 3 X 0 2 0 X

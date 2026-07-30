@@ -1,0 +1,49 @@
+@titulo: que-tal
+@autor:
+@intérprete: Matheus e Kauan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Matheus e Kauan - Que Tal
+
+Intro 2x:  A9  E  F#m  E
+
+A9                   E
+Você pensou que era bom
+                F#m
+Viu que era melhor
+           D                  B5
+Se apaixonou, não quer mais dormir
+              D
+Nem se quer sair
+              B5                      E
+Passa o dia inteiro desenhando um coração
+A9                    E
+As vezes pensa em chorar
+              F#m           D
+Outra vez sorri, quer telefonar
+             B5               D
+Pensa em desistir, ou se declarar
+             B5                 E
+Complicado mesmo esse nosso coração
+A9                    E
+Que tal nos dois descomplicar
+
+          F#m             D
+Melhor será nos dois deixar rolar
+A9                     E
+Você e eu que tal simples assim
+       F#m                   D
+Se eu gosto de você, você também gosta de mim
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B5 = X 2 4 4 X X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

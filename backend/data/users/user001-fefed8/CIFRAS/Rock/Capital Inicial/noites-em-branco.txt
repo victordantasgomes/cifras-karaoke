@@ -1,0 +1,81 @@
+@titulo: noites-em-branco
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Noites Em Branco
+
+Solo: C  Em  F  G (2x)
+
+E|-8-7-8-7--10---8-7-8-7--10---8-7-8-7--10-8-7--8-7-8------------|
+B|-8-8-8-8--8----8-8-8-8--8----8-8-8-8--8--8-8--8-8-8------------|
+G|---------------------------------------------------------------|
+D|---------------------------------------------------------------|
+A|---------------------------------------------------------------|
+E|---------------------------------------------------------------|
+
+C                Em                F                Dm
+ Veja só como as coisas são, esse céu escuro foi um dia azul
+C                  Em             F
+ Como as linhas da sua mão cobrem toda a Terra
+        Dm
+ Vai de Norte a Sul
+      Em           F                G
+ Hino das estrelas que não brilham mais
+
+(Refrão)
+
+C         Em                 F                 Dm
+Noites em branco, noites perdidas à luz dos faróis
+
+C         Em                F             Dm               C
+Noites em claro, noites partidas como a chuva, caem sobre nós
+
+(Repete solo da introdução 2x)
+
+C            Em              F                 Dm
+ Imagine uma sensação como a que sentia quando via o mar
+C                  Em
+ Pelas lágrimas eu posso ver
+     F               Dm
+ Uma luz no fundo do seu olhar
+    Em          F               G
+ Imitando a lua que não brilha mais
+
+(Refrão)
+
+C         Em                 F                 Dm
+Noites em branco, noites perdidas à luz dos faróis
+C         Em                F             Dm               C
+Noites em claro, noites partidas como a chuva, caem sobre nós
+
+(Riff 4x)
+
+C5  D5  E5  F5  G5
+
+(Refrão)
+
+C         Em                 F                 Dm
+Noites em branco, noites perdidas à luz dos faróis
+C         Em                F             Dm               C
+Noites em claro, noites partidas como a chuva, caem sobre nós
+
+(Repete solo da introdução 2x)
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+C5 = X 3 5 5 X X
+D5 = X 5 7 7 X X
+Dm = X X 0 2 3 1
+E5 = 0 2 2 X X X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F5 = 1 3 3 X X X
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X

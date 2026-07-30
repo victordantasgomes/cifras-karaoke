@@ -1,0 +1,53 @@
+@titulo: moreninha
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Moreninha
+
+Intro: E A B E A B E A E
+
+E                             B
+Entrei num salão de festa, com uma loira fui dançar
+                        E
+Uma morena eu olhei, num cantinho a conversar
+                     E7        A
+Seu olhar me enfeitiçou, e a convidei em um piscar
+            E         B     E
+A loirinha agradeci,  com a morena fui dançar
+     A      E         B      E
+A loirinha agradeci, e com a morena fui dançar
+
+    A  B        E
+Vem moreninha, vem minha flor
+     A   B        E
+Vem oh neguinha, vem meu meu amor
+
+(Intro)
+
+E                             B
+E foi no final da festa, que a coisa esquentou
+                      E
+Saimos de braços dados, e o romance começou
+               E7       A
+Os rapazes a olhavam, mas ela nem bola deu
+         E        B     E
+Éramos dois namorados quando o dia amanheceu
+
+Vem moreninha, vem minha flor...
+
+(Intro)
+
+(Repete Tudo)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0

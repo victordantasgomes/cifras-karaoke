@@ -1,0 +1,40 @@
+@titulo: ave-maria
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - Ave Maria
+
+D(add2) A/C# Bm7 Bm7/A G(add9) D(add2)/F# Em7 Asus4
+Ave cheia  de graça     o Senhor e contigo
+      D(add2) A/C#      Bm7 Bm7/A
+Bendita és tu entre as mulheres
+G(add9) D(add2)/F# Em7       Asus4          D(add9)
+Bendito é o     fruto do teu ventre, Jesus
+F#m7    Bm7 F#m7   Bm7
+Santa Maria,   Mãe de Deus
+F#m7    Bm7    Bm7/A
+Roga por nos pecadores
+G(add9) D/F# Em7          Asus4 D(add2) (Dsus4) B(add2)
+Agora e na hora de nossa morte, amém
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+Asus4 = X 0 2 2 3 0
+B(add2) = X 2 4 4 2 2
+Bm7 = X 2 4 2 3 2
+Bm7/A = 5 2 4 2 3 2
+D(add2) = X X 0 2 3 0
+D(add2)/F# = 2 X 0 2 3 0
+D(add9) = X X 0 2 3 0
+D/F# = 2 X 0 2 3 2
+Dsus4 = X X 0 2 3 3
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+G(add9) = 3 X 0 2 0 X

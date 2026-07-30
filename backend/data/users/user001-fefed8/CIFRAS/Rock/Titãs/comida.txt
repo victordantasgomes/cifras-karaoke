@@ -1,0 +1,228 @@
+@titulo: comida
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Comida
+
+(introdução)
+
+violão 1:
+E|---------------------------------------------------
+B|---------------------------------------------------
+G|---------------------------------------------------
+D|----0--2-2------0-------0--2-2------0--------------
+A|--2-----------2-------2-----------2----------------
+E|0-----------0-------0-----------0------------------
+
+E|---------------------------------------------------
+B|---------------------------------------------------
+G|----0--2-2------0-------0--2-2------0--------------
+D|--2-----------2-------2-----------2----------------
+A|0-----------0-------0-----------0------------------
+E|---------------------------------------------------
+
+violão 2:
+E|---------------------------------------------------
+B|----3--5-5------3-------3--5-5------3--------------
+G|--4-----------4-------4-----------4----------------
+D|2-----------2-------2-----------2------------------
+A|---------------------------------------------------
+E|---------------------------------------------------
+
+
+E|---------------------------------------------------
+B|----8--10-10-----8------8--10-10-----8-------------
+G|--9------------9------9------------9---------------
+D|7------------7------7------------7-----------------
+A|---------------------------------------------------
+E|---------------------------------------------------
+
+Base:  E A7
+
+(primeira parte)
+   E
+Bebida é água
+Comida é pasto
+A7
+   Você tem sede de que
+Você tem fome de que
+
+   E
+A gente não quer só comida
+A gente quer comida
+Diversão e arte
+   A7
+A gente não quer só comida
+A gente quer saída
+Para qualquer parte
+
+   E
+A gente não quer só comida
+A gente quer bebida
+Diversão, balé
+   A7
+A gente não quer só comida
+A gente quer a vida
+
+              E  A7
+Como a vida quer
+
+   E
+Bebida é água
+Comida é pasto
+A7
+   Você tem sede de que
+Você tem fome de que
+
+   E
+A gente não quer só comer
+A gente quer comer
+E quer fazer amor
+   A7
+A gente não quer só comer
+A gente quer prazer
+Prá aliviar a dor
+
+   E
+A gente não quer
+Só dinheiro
+A gente quer dinheiro
+E felicidade
+   A7
+A gente não quer
+Só dinheiro
+A gente quer inteiro
+E não pela metade
+
+(segunda parte)
+
+F7(9) F#7(9) F7(9)  G7(9) F#7(9) F7(9) E7(9) F7(9)
+
+(terceira parte)
+
+violão 1:
+E|---------------------------------------------------
+B|3-5---------------2-3-5-------x-x--x-x--x-x--------
+G|----2-4-----------------2-4---x-x--x-x--x-x--------
+D|----------2-0-2------------------------------------
+A|---------------------------------------------------
+E|---------------------------------------------------
+
+E|---------------------------------------------------
+B|3-5---------------2-3-5-------x-x--x-x--x-x--------
+G|----0-2-----------------0-2---x-x--x-x--x-x--------
+D|----------2-0-2------------------------------------
+A|---------------------------------------------------
+E|---------------------------------------------------
+
+violão 2:
+         E
+E|-------0------0-----0-0------0------0----
+B|-------0------0-----0-0------0------0----
+G|-------1------1-----1-1------1------1----
+D|0-2----2-x-x--2-x-x-2-2-x-x--2-x-x--2-x-x
+A|----0--2-x-x--2-x-x-2-2-x-x--2-x-x--2-x-x
+E|-------0-x-x--0-x-x-0-0-x-x--0-x-x--0-x-x
+
+  E
+E|0------0------0-0------------------------
+B|0------0------0-0------------------------
+G|1------1------1-1------------------------
+D|2-x-x--2-x-x--2-2-x-x--------------------
+A|2-x-x--2-x-x--2-2-x-x--------------------
+E|0-x-x--0-x-x--0-0-x-x--------------------
+
+         A7
+E|-------0------0-----0-0------0------0----
+B|-------2------2-----2-2------2------2----
+G|-------0-x-x--0-x-x-0-0-x-x--0-x-x--0-x-x
+D|0-2----2-x-x--2-x-x-2-2-x-x--2-x-x--2-x-x
+A|-------0-x-x--0-x-x-0-0-x-x--0-x-x--0-x-x
+E|----3------------------------------------
+
+  A7
+E|0------0------0-0------------------------
+B|2------2------2-2------------------------
+G|0-x-x--0-x-x--0-0-x-x--------------------
+D|2-x-x--2-x-x--2-2-x-x--------------------
+A|0-x-x--0-x-x--0-0-x-x--------------------
+E|-----------------------------------------
+
+(repetir a primeira parte)
+
+   E
+Bebida é água
+Comida é pasto
+A7
+   Você tem sede de que
+Você tem fome de que
+
+   E
+A gente não quer só comida
+A gente quer comida
+Diversão e arte
+   A7
+A gente não quer só comida
+A gente quer saída
+Para qualquer parte
+
+   E
+A gente não quer só comida
+A gente quer bebida
+Diversão, balé
+   A7
+A gente não quer só comida
+A gente quer a vida
+Como a vida quer
+
+   E
+A gente não quer só comer
+A gente quer comer
+E quer fazer amor
+   A7
+A gente não quer só comer
+A gente quer prazer
+Prá aliviar a dor
+
+   E
+A gente não quer
+Só dinheiro
+A gente quer dinheiro
+E felicidade
+   A7
+A gente não quer
+Só dinheiro
+A gente quer inteiro
+E não pela metade
+
+(repete o riff da terceira parte)
+
+        E
+Desejo,   necessidade, vontade
+Necessidade, desejo
+A7
+   Necessidade, vontade
+Necessidade
+        E
+Desejo,   necessidade, vontade
+Necessidade, desejo
+A7
+   Necessidade, vontade
+        E   A7  A7(9)
+Necessidade
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(9) = X 0 7 6 8 7
+E = 0 2 2 1 0 0
+E7(9) = X 7 6 7 7 X
+F#7(9) = X 9 8 9 9 X
+F7(9) = X 8 7 8 8 X
+G7(9) = X 10 9 10 10 X

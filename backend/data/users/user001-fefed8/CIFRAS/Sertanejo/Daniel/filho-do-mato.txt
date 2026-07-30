@@ -1,0 +1,78 @@
+@titulo: filho-do-mato
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Filho do Mato
+
+Intro - Am G F9 E (A9 Am A9 Am ...)
+
+                E                   Am
+Um rastro de boiada sobre o capim batido
+                  G                  C
+Lá na curva da estrada um berrante doído
+              E                                       A
+Um grito de peão, e o meu coração tá feito um boi perdido
+
+
+Refrão:
+
+                    A                       E
+Quem tem o chão na veia, quem tem raiz no chão
+             Bm               E               A
+Morando na cidade mistura saudade com alucinação
+                      A7              D
+Quem é filho do mato chama o mato de pai
+                 A
+Quem vive na saudade
+              E                   A    Am
+Só vai na verdade onde a saudade vai
+
+
+               E                    Am
+Meu coração menino brinca de ser valente
+              G                       C
+No piso na varanda que descansa essa mente
+                E                                       A
+Ao som de uma viola, que por Deus consola a solidão da gente
+
+(Refrão)
+(Solo Piano ... Am G F Am G F Am G E (A9 Am A9 Am ...))
+
+                 E                    Am
+Botei a mão pra fora senti pingar na palma
+                 G                    C
+Parece que Deus sabe que a chuva me acalma
+                 E                                        A
+E mesmo aqui distante, um pingo é bastante pra lavar minh'alma
+
+(Refrão)
+
+                  E              Am
+E se chover mais forte vira enxurrada
+                  G                        C
+Que leve a minha sorte pela mais longa estrada
+                  E                                     A
+Que seja compreendida, a lição que da vida não se leva nada
+
+(Refrão 2x)  Am G F Am6
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+A9 = X 0 2 2 0 0
+Am = X 0 2 2 1 0
+Am6 = 5 X 4 5 5 X
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3

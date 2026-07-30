@@ -1,0 +1,53 @@
+@titulo: colecao
+@autor:
+@intérprete: Biquini Cavadão
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Biquini Cavadão - Coleção
+
+D9                 Bm7
+Sei que você gosta de brincar
+    Em7 A7
+De amores
+    Em7    A7  D9 Bm7
+Mas Oh, comigo não,
+  Em7   A7
+comigo não
+ D                  Bm7
+Sei também que você eu não sei
+    Em7 F#7
+Mas nada
+   Bm7    Am7
+Um dia, você
+D7 G7M        F#m7
+vai, ouvir alguém
+      Bm7     Gm6
+O que ouvi de ti
+      Bm7    Em7        Bm7   Am7      D7
+Então irá, pensar, como eu sonhei em vão
+    G7M    F#m7
+Não vá, ou vá
+
+Bm7          Gm6
+Você é quem quer
+       Bm7    Em7    G7M F#m7 Em7 D9 A7
+Quer saber eu amo você
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+D9 = X X 0 2 3 0
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+F#m7 = 2 X 2 2 2 X
+G7M = 3 X 4 4 3 X
+Gm6 = 3 X 2 3 3 X

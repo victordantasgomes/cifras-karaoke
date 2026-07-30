@@ -1,0 +1,42 @@
+@titulo: e-natal
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - É Natal
+
+Intro: E  A  E  A  E  A  F#m  D  Bsus
+       E  A  E  A  E  A  Bsus  E  A
+
+   E        A                   E
+É Natal!      Um menino nos foi dado
+A               E        A               D     Bsus
+   E a nós foi revelado o plano de amor    do Pai.
+   E      A                E
+É Natal!      E Jesus se faz criança,
+A                   E        A        Bsus       E         A
+    E em nós nasce a esperança de reaprender        a amar. (bis)
+
+    E       A              C#m
+É Jesus,        o Príncipe da Paz,
+ A                E      A                    D   Bsus
+Sinal para os perdidos,      astro que brilha mais.
+       E      A             C#m
+É Jesus,         mão forte do Senhor,
+A          E       A      B       E   A
+Consolo e ternura do Pai, olhar de amor. (bis)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bsus = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

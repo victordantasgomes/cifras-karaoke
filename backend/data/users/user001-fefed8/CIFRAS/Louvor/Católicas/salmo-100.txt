@@ -1,0 +1,51 @@
+@titulo: salmo-100
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Salmo 100
+
+(intro) G D/F# Em C G/B Am D
+
+G                           D/F#
+Celebrai com júblio ao Senhor
+Em
+Todos os moradores da terra
+C          G/B
+Servi ao Senhor com alegria
+Am                         D
+Apresentai-vos à Ele com cânticos
+G                        D/F#
+Sabei que o Senhor é Deus
+Em
+E eterna a sua bondade
+C        G/B
+E a sua fidelidade
+Am              D
+De geração em geração
+
+(refrão 2x)
+G                       D/F#
+Aleluia, glória e aleluia
+
+Em
+Aleluia, glória e aleluia
+C         G/B
+Aleluia, glória e aleluia
+Am                 D
+Aleluia, glória e aleluia.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

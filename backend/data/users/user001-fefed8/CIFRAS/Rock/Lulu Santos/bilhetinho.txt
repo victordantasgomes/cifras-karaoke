@@ -1,0 +1,46 @@
+@titulo: bilhetinho
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - Bilhetinho
+
+E              D                A           B             C#m     D                  A       B7
+Já faz um tempo e eu me esqueci...o que era mesmo que eu te prometi
+E               D                           A        B             C#m   A         B  E     C#m   E C#m   E
+Se foi um compromisso e compreensão...ou se luxo e ..........paixão
+E             D           A          B              C#m   D              A                B7
+Você um dia escreveu pra mim em u bilhetinho, qualquer coisa assim
+E             D                A              B             C#m   A     B     E
+Como já disse aquele outro cantor: tudo é justo no ...a......mor
+
+C#m    F#m      C#m    B        A
+Vai chover.......vai       se.......car
+            E            C#m        F#m             Am
+Só não vai derrubar o que for de seu lugar
+C#m     F#m     C#m   B    A
+Filho e filha...mãe       e    pai
+          E              C#             F#m                 B7
+Toda vida é uma porta por onde se entra e sai
+E          D             A          B
+Então fica combinado as.......sim
+             C#m     A   B     E
+Vai-se fundo     até   o    fim
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

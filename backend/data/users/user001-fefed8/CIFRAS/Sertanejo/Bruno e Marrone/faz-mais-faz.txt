@@ -1,0 +1,122 @@
+@titulo: faz-mais-faz
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Faz Mais, Faz
+
+Intr.:  A  B  A  B
+
+E                        A  B
+Você zombou quando eu falei
+                        E   E B/D#  C#m7
+Que muitas vezes já sonhei
+                         F#m  E  B/D#  A/C#  Ab/C
+Que estava com você te amando
+                      C#m   A-B
+E muita coisa te ensinei
+E                    A    B
+E me pediu pra esquecer
+                   E/G#
+Esse desejo de te amar
+C#m                   A
+Mas no meu sonho me amou
+                   B
+Me dizendo que gostou
+     E         B
+E pedia sem parar
+E
+Faz, faz, faz,
+
+          C#m
+Te quero mais, faz mais
+           A        F#m           B    A
+Porque ninguém mais faz assim o amor
+          E
+Que você faz, faz, faz
+          C#m
+Te quero mais, faz mais
+           A         F#m          B
+Porque ninguém mais faz assim o amor
+          A  B  A  B
+Que você faz
+E                 A   B
+Agora com você comigo
+                  E   E  B/D#  C#m
+É tanto como desejei
+                        F#m7  E  B/D#  A/C#  Ab/C
+Te ouvir dizendo que me ama
+                       C#m7    A-B
+Milhões de vezes eu sonhei
+E                    A   B
+Hoje me diz que levitou
+                        E/G#
+Depois que a gente fez amor
+C#m               A
+Numa estrada colorida
+                        B
+O grande amor da minha vida
+        E            B
+Me entregava o seu amor
+
+E
+Faz, faz, faz,
+          C#m
+Te quero mais, faz mais
+            A       F#m           B    A
+Porque ninguém mais faz assim o amor
+            E
+Que só você faz, mais faz
+          C#m
+Te quero mais, faz mais
+           A        F#m           B     A
+Porque ninguém mais faz assim o amor
+             F#
+Que só você faz
+
+SOLO:   F#    D#m   B  Abm   C#  C#7
+
+F#
+Faz, faz, faz,
+          D#m
+Te quero mais, faz mais
+           B        Abm          C#   B
+Porque ninguém mais faz assim o amor
+F#
+Faz, faz, faz,
+          D#m
+Te quero mais, faz mais
+           B        Abm          C#     B
+Porque ninguém mais faz assim o amor
+F#
+Faz, faz, faz,
+          D#m
+Te quero mais, faz mais
+            B       Abm          C#    B
+Porque ninguém mais faz assim o amor
+C#     F#                       F#
+                ...Que você faz
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Ab/C = X 3 X 1 4 4
+Abm = 4 6 6 4 4 4
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C# = X 4 6 6 6 4
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D#m = X X 1 3 4 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X

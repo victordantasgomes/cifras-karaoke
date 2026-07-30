@@ -1,0 +1,78 @@
+@titulo: ta-escrito-em-meu-olhar
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Tá Escrito Em Meu Olhar
+
+INTRO: E   A   B   A   E    A   E   B   A
+
+         E            B         A
+           Queria uma noite de prazer
+   B  E                  B           A
+           Pra aliviar a dor da solidão
+   B  E                    B            A
+           E de repente alguém lembrou você
+   B   E                   B              A
+           Sofrer mais uma vez, eu disse não
+
+      E   A                       E/G#
+            Procurei a porta pra sair
+                         E         F#m
+            Eu tentei de tudo pra fugir
+                            E    D/F#   E/G#
+            E não me apaixonar
+         A                            E/G#
+            Foi uma explosão dentro de mim
+                              E             F#m
+               Juro, eu nunca amei ninguém assim
+
+                                B
+               Não deu pra segurar
+
+          E              B           A
+              Caí numa cilada sem sentir
+     B   E                  B          A
+              Estava aberto o meu coração
+     B   E                B           A
+             Na pele, o desejo a me pedir
+     B   E                    B            A
+             Pra mergulhar de vez nessa paixão
+
+     E   A                             E/G#
+             De todas as maneiras eu menti
+                         E          F#m
+             Fui embora, mas voltei aqui
+                          E    D/F#   E/G#
+             Pra me entregar
+            A                            E/G#
+               Foi uma explosão dentro de mim
+                               E             F#m
+               Juro, eu nunca amei ninguém assim
+                               B
+               Não deu pra segurar
+       E          G#m7        C#m
+           Te amo..... adoro você
+                C#m/B                  A
+           Te amo,     não dá pra esconder
+               E/G#             F#m
+           Te amo, não dá pra negar
+                     B             E      SOLO:  E   B   A   E    B   A    CAÍ NUMA CILADA
+           Está escrito em meu olhar. 2X
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+C#m/B = 7 X 6 6 5 X
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+G#m7 = 4 X 4 4 4 X

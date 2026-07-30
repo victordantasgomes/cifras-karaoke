@@ -1,0 +1,180 @@
+@titulo: sujeito
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Sujeito
+
+[Intro] G  A  Bm
+        G  A  Bm
+
+   G         A       Bm
+E|------------------------------------------|
+B|-----3-2------5----5/7-5-3----------------|
+G|------------6---7----------4--------------|
+D|---5--------------------------------------|
+A|------------------------------------------|
+E|-3--------5-------------------------------|
+
+   G         A       Bm
+E|-----------------------5------------------|
+B|-----3-2------5----5/7---7\5-3------------|
+G|------------6---7-------------------------|
+D|---5--------------------------------------|
+A|------------------------------------------|
+E|-3--------5-------------------------------|
+
+[Primeira Parte]
+
+
+G                                       D
+  Do que adianta apagar meu número da agenda
+         Bm7                                     A
+Se você sabe que ele tá gravado dentro da sua memória?
+G                                         D
+  Do que adianta tomar todas no fim de semana
+    Bm7                                        A
+Se na segunda feira vai se repetir a mesma história?
+
+[Riff]
+
+E|------------------------------------------|
+B|-3p2--------------------------------------|
+G|-----2-4----------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Pré-Refrão]
+
+              G                  D
+Você vai acordar, se olhar no espelho
+              Bm7                 A
+E aí vai lembrar que existe um sujeito
+                                  G
+Que você tenta e não consegue esquecer
+                       A
+Que não consegue esquecer
+
+[Refrão]
+
+    G
+E quando se tocar que não tem volta
+    D9
+Cê vai querer voltar, faço uma aposta
+ Bm7
+Vai sentir, por dentro, tão vazia
+     A9
+Vai ver que era feliz e não sabia
+ G
+Vai sobrar espaço na sua cama
+     D9
+Mas vai faltar alguém pra dizer que te ama
+     Bm7
+Mas mesmo ele tendo mil defeitos
+     A9
+Ninguém te completava como aquele sujeito
+
+[Solo] G  A  Bm
+       G  A  Bm
+
+   G         A       Bm
+E|------------------------------------------|
+B|-----3-2------5----5/7-5-3----------------|
+G|------------6---7----------4--------------|
+D|---5--------------------------------------|
+A|------------------------------------------|
+E|-3--------5-------------------------------|
+
+   G         A       Bm
+E|-----------------------5-----------5/7/10-|
+B|-----3-2------5----5/7---7\5-3-5/7--------|
+G|------------6---7-------------------------|
+D|---5--------------------------------------|
+A|------------------------------------------|
+E|-3--------5-------------------------------|
+
+[Pré-Refrão]
+
+              G                  D
+Você vai acordar, se olhar no espelho
+              Bm7                 A
+E aí vai lembrar que existe um sujeito
+                                  G
+Que você tenta e não consegue esquecer
+                       A
+Que não consegue esquecer
+
+[Refrão]
+
+    G
+E quando se tocar que não tem volta
+    D9
+Cê vai querer voltar, faço uma aposta
+ Bm7
+Vai sentir, por dentro, tão vazia
+     A9
+Vai ver que era feliz e não sabia
+ G
+Vai sobrar espaço na sua cama
+     D9
+Mas vai faltar alguém pra dizer que te ama
+     Bm7
+Mas mesmo ele tendo mil defeitos
+     A9
+Ninguém te completava
+
+    G
+E quando se tocar que não tem volta
+    D9
+Cê vai querer voltar, faço uma aposta
+ Bm7
+Vai sentir, por dentro, tão vazia
+     A9
+Vai ver que era feliz e não sabia
+ G
+Vai sobrar espaço na sua cama
+     D9
+Mas vai faltar alguém pra dizer que te ama
+     Bm7
+Mas mesmo ele tendo mil defeitos
+     A9
+Ninguém te completava como aquele sujeito
+
+[Final] G  A  Bm
+        G  A7M
+
+   G         A       Bm
+E|------------------------------------------|
+B|-----3-2------5----3-2--------------------|
+G|------------6----------2------------------|
+D|---5--------------------------------------|
+A|------------------------------------------|
+E|-3--------5-------------------------------|
+
+   G              A7M  G  D  
+E|------------------------------------------|
+B|-------3-5/7-5----------3-----------------|
+G|-----4------------6--0--2-----------------|
+D|---5------------6----0--4-----------------|
+A|-5-------------------2--5-----------------|
+E|---------------------3--------------------|
+
+       G                              D
+De que adianta apagar meu número da agenda
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7M = X 0 2 1 2 0
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+G = 3 2 0 0 0 3

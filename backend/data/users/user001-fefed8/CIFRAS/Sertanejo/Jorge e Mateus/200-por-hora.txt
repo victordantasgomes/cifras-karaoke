@@ -1,0 +1,183 @@
+@titulo: 200-por-hora
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - 200 Por Hora
+
+[Intro] Em  D/F#  C  Am  B7
+        Em  C  D
+
+E|-7/8\7--8-7-8-7-8-7--8-7-8-7-8-10-12-10-12-10-12-10-|
+B|----------------------------------------------------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|--12-10-12-10-12-8-8/10-8-8------8-8-8-10-8-7-------|
+B|----------------------------------------------------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+                                     H.N.    C   D
+E|---10-8-7-8-7----7-----------------12------0---2----|
+B|--------------10--10-8-10-8-7------12------1---3----|
+G|------------------------------9----12------0---2----|
+D|-------------------------------------------2---0----|
+A|-------------------------------------------3---x----|
+E|-------------------------------------------x---x----|
+
+
+[Primeira Parte]
+
+     Em
+Não dá pra esquecer teus olhos
+              D
+Nem todos os beijos que você me dá
+     C
+Não dá pra esquecer o cheiro e o
+           G               D
+Ouro do cabelo a me iluminar
+
+[Segunda Parte]
+
+  Bm
+A vida passa tão sem graça
+                    C
+Mas quando você ta perto fica tudo bem
+    Em
+Eu corro a 200 por hora
+                          D
+Mas se é pra te ver mais cedo
+                 G        D
+Eu posso ir bem mais além
+
+[Refrão]
+
+ G                    D/F#
+Sofro e morro todo dia
+                Em                 C
+Vivendo essa agonia que me tira a paz
+    G              A
+Um dia te levo comigo
+              C        D        G    D
+E de saudades suas eu não choro mais
+
+      G                     D/F#
+Quem tem amor assim distante
+              Em               C
+Não tem o bastante pra sobreviver
+
+     G                      A
+Pra todo o mal da minha vida
+                      C             D        G  D
+Pra curar qualquer ferida o meu remédio é você
+
+[Solo] Em  D/F#  C  Am  B7
+       Em  C  D
+
+E|-7/8\7--8-7-8-7-8-7--8-7-8-7-8-10-12-10-12-10-12-10-|
+B|----------------------------------------------------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|--12-10-12-10-12-8-8/10-8-8------8-8-8-10-8-7-------|
+B|----------------------------------------------------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+                                     H.N.    C   D
+E|---10-8-7-8-7----7-----------------12------0---2----|
+B|--------------10--10-8-10-8-7------12------1---3----|
+G|------------------------------9----12------0---2----|
+D|-------------------------------------------2---0----|
+A|-------------------------------------------3---x----|
+E|-------------------------------------------x---x----|
+
+[Primeira Parte]
+
+     Em
+Não dá pra esquecer teus olhos
+              D
+Nem todos os beijos que você me dá
+     C
+Não dá pra esquecer o cheiro e o
+           G               D
+Ouro do cabelo a me iluminar
+
+[Segunda Parte]
+
+  Bm
+A vida passa tão sem graça
+                    C
+Mas quando você ta perto fica tudo bem
+    Em
+Eu corro a 200 por hora
+                          D
+Mas se é pra te ver mais cedo
+                 G        D
+Eu posso ir bem mais além
+
+[Refrão]
+
+ G                    D/F#
+Sofro e morro todo dia
+                Em                 C
+Vivendo essa agonia que me tira a paz
+    G              A
+Um dia te levo comigo
+              C        D        G    D
+E de saudades suas eu não choro mais
+
+      G                     D/F#
+Quem tem amor assim distante
+              Em               C
+Não tem o bastante pra sobreviver
+
+     G                      A
+Pra todo o mal da minha vida
+                      C             D        G  D
+Pra curar qualquer ferida o meu remédio é você
+
+ G                    D/F#
+Sofro e morro todo dia
+                Em                 C
+Vivendo essa agonia que me tira a paz
+    G              A
+Um dia te levo comigo
+              C        D        G    D
+E de saudades suas eu não choro mais
+
+      G                     D/F#
+Quem tem amor assim distante
+              Em               C
+Não tem o bastante pra sobreviver
+
+     G                      A
+Pra todo o mal da minha vida
+                      C             D        G  D
+Pra curar qualquer ferida o meu remédio é você
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

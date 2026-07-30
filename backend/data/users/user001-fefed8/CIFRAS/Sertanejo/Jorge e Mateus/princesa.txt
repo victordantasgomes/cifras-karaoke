@@ -1,0 +1,86 @@
+@titulo: princesa
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Princesa
+
+ Intro: A  B  E  E7  A  B  E  E7  A B  C#m  G#m  A  B  C#m  B  A  E
+E|-----------------------|
+B|-----------------------|
+G|-6---6-9-8-8-6---------|
+D|---7-----------9-9-7-6-|
+A|-----------------------|
+E|-----------------------|
+
+E|-------------------------------------|
+B|-------------------------------------|
+G|-6---6-9-8-8-6--------------9--------|
+D|---7-----------9-9-7-7/9-11---11/9-9-|
+A|-------------------------------------|
+E|-------------------------------------|
+
+E|------------------------------------------------------|
+B|---------------7-9-7----------------------------------|
+G|-6---6-9-8-9-8-------9-8-6--9-8-8-7--9-8-6---6--------|
+D|---7---------------------------------------9----9-7-6-|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+
+E                B               E
+Para mim o teu sorriso é como as estrelas
+A               B                 E
+Para mim o seu olhar tem a luz da lua
+A                B            C#m          G#m
+Se pudesse eu daria todo o universo pra te amar
+A           B             A G#m F#m E
+Oh princesa por favor não vá
+E                    B                     E
+É tão grande essa paixão que tenho no meu peito
+A               B           E
+Tanto amor guardado no meu coração
+A                     B               C#m          G#m
+Quantas vezes for preciso gritarei ao mundo que te amo
+A           B             A G#m F#m E E7
+E você vai se orgulhar de mim
+A           B           E   E7
+Vem amor me abra de uma vez
+A              B           E   E7
+Arranque todos os segredos meus
+A           B             C#m          G#m
+Ocupe a solidão de um coração que te pertence
+A              B          A G#m F#m E
+Pra nunca mais me dizer adeus
+
+E                     B                E
+Mesmo que você não queira vai saber de mim
+A                  B                  E
+Vou tentando convence-la do quanto te amo
+A                B                  C#m          G#m
+Mesmo que você recuse ouvir a minha voz eu não desisto
+A           B        A G#m F#m E E7
+Vou gritar te amo de mais
+A           B           E  E7
+Vem amor me abra de uma vez
+A              B           E  E7
+Arranque todos os segredos meus
+A            B            C#m          G#m
+Ocupe a solidão de um coração que te pertence
+A              B          A G#m F#m E
+Pra nunca mais me dizer adeus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,73 @@
+@titulo: voce-jogou-fora
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Você Jogou Fora
+
+Intro: F C4 F C F Bb Dm7 Gm Dm C F
+
+     F     C        Dm
+Essa noite eu acordei
+  Bb   F          C
+Estava sonhando com você
+       Bb                     F
+Nesse sonho você estava apaixonada
+                 G
+Dizendo que me amava
+               C   C4
+E não ia me perder
+Bb                          F
+Mas na realidade isso é mentira
+                       Gm
+Pra que julgou amor um dia
+          C         F  C
+Choro e tento esquecer
+F                             C
+Você falou pra mim que estava do meu lado
+                 Dm
+Quando eu precisasse
+
+      Bb         C         F      C
+Fui um bobo acreditando em você
+F
+Por mais que eu fizesse de tudo
+         C
+Eu não iria fazer mais
+           Dm       C
+Nem que eu tentasse
+Bb                  C           F       C
+Perdi as forças procurando entender
+F                 C
+Vai  vai solidão
+               Bb
+Dizer praquele coração
+                     F     C
+Que esse aqui vai embora
+F                C
+Vai  vai coração
+               Gm  Am
+Escape dessa ilusão
+         Bb        C            F    C
+Eu que fiz tudo e você jogou fora
+
+SOLO:C# G# C# C
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C4 = X 3 3 0 1 X
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+Gm = 3 5 5 3 3 3

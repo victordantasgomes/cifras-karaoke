@@ -1,0 +1,67 @@
+@titulo: love-is
+@autor:
+@intérprete: Renato Russo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renato Russo - Love Is
+
+Intro: B4
+
+E           F#   B4   E
+Love is a shiny car
+            F#      B4   E
+Love is a steel guitar
+           F#      B4   E
+Love is a battle scar
+             F#       B  B4
+Love is the morning star
+E           F#         B4
+Love is a twelve-bar blues
+E           F#           B4
+Love is your blue suede shoes
+E          F#       B4
+Love is a heart abused
+E          F#        B B4
+Love is a mind confused
+E    B           E
+Love is the pleasures untold
+         B    F#              B4
+And for some love is still a band of gold
+
+B4  F#         G#m            B4
+My love has no reason has no rhyme
+B4  F#               B4     B   B4 B
+My love crossed the double line
+E          F#     B4
+Love is a minor chord
+E          F#     B4
+Love is a mental ward
+E          F#     B4
+Love is a drawn sword
+E           F#     B4
+Love is it's own reward
+Solo: (B4 A B4 E F#m E F# B4 E F# B4)
+E    B           E
+Love is the pleasures untold
+         B    F#              B4
+And for some love is still a band of gold
+B4           F#         G#m            B4
+My love, my love has no reason has no rhyme
+B4           F#               B4     B   B4 B
+My love, my love crossed the double line
+(Refrão)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

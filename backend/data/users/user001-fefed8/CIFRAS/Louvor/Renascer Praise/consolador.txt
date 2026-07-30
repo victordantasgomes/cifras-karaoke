@@ -1,0 +1,88 @@
+@titulo: consolador
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Consolador
+
+(  C  F/C   G/B   C   F  G   F/A  )
+
+ C                    F/C
+Tem dor que a gente sente , o jeito é sentir
+     G/B                       C             E/G#
+Só tem um que nos entende  O Seu nome é Jesus,
+       Am          Am/G   D/F#
+Ele sabe como fala, como cura o coração
+B9+    5+ Em7      Am7                Dm7       Gsus4         C
+Ele      supre toda a falta, Derrama o Espírito e traz consolação
+
+      F7+   G/F           Em7        Am7
+Consolador, amigo, Espírito Santo, querido
+     Dm7            Gsus4   G       Gm7  C7
+O que faria senão estivesse junto comigo?
+         Am/F#     B9+           5+ Gm/Bb         A7
+Espírito Santo, querido, tudo tem cura, tudo tem cor
+      Dm7               Gsus4    G7      Fm/C C
+Sinto alegria mesmo na dor, é a Tua presença
+
+      C                 F/C ( Dm7)
+Tua presença é tudo que eu preciso
+
+            G/B                   C
+Ouvir Tua voz faz acalmar meu coração ferido
+           F          E7/G#            Am7          Fm/Ab
+Unge meus olhos com colírio, faz enxergar  a Tua face
+     C/G     F/G          C    F/G
+ Sou Teu, Jesus,  somente Teu
+
+      C/G   F/G   C/G     D/F#   Fm6     C/E  Am7   Dm7
+Sou  Teu Jesus, Sou Teu, Jesus,          Sou Teu,    Jesus,
+F/G      C
+Somente Teu!
+      C/G   F/G   C/G     D/F#   Fm6     C/E  Am7   Dm7
+Sou  Teu Jesus, Sou Teu, Jesus,          Sou Teu,    Jesus,
+F/G      C
+Somente Teu!
+      C/G   F/G   C/G     D/F#   Fm6     C/E  Am7   Bb9 7+
+Sou  Teu Jesus, Sou Teu, Jesus,          Sou Teu,    Jesus,
+          C
+Somente Teu!
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Am/F# = 2 X 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+B9+ = 7 X 4 7 4 5
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+C7 = X 3 2 3 1 X
+D/F# = 2 X 0 2 3 2
+Dm7 = X 5 7 5 6 5
+E/G# = 4 X 2 4 5 X
+E7/G# = 4 X 2 4 3 X
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F/C = X 3 3 2 1 1
+F/G = 3 X 3 2 1 X
+F7+ = 1 X 2 2 1 X
+Fm/Ab = 4 3 3 1 X X
+Fm/C = X 3 3 1 1 1
+Fm6 = 1 X 0 1 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/F = 1 X X 0 0 3
+G7 = 3 5 3 4 3 3
+Gm/Bb = 6 5 5 3 X X
+Gm7 = 3 X 3 3 3 X
+Gsus4 = 3 5 5 5 3 3

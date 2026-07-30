@@ -1,0 +1,78 @@
+@titulo: perdao
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Perdão
+
+INTRO:  A - F#m  - E - D
+
+A                  A7
+SOMOS UM  JARDIM DIANTE DO SENHOR
+    A7                 D9
+JARDIM REGADO PELA SUA GRAÇA E SEU AMOR
+F#m     G#7     Fº     F#m
+SOMOS O BOM PERFUME DE CRISTO
+   Bm7                G7     Esus4
+EXALANDO O CHEIRO DE VIDA
+A                 A7
+SOMOS UM JARDIM DIANTE DO SENHOR
+   A7                  D9
+JARDIM REGADO PELA SUA GRAÇA E SEU AMOR
+Bm7                  C#m     F#m
+SEMPRE QUE VOCÊ  PRECISAR, IRMÃO.
+D7              C#m  F#m
+O PERDOAREI  DE  CORAÇÃO
+D7              C#m
+ESSA VONTADE DO PAI
+     F#m    Bm     Esus4  Asus4  A
+QUE  ME PERDOOU EM CRISTO JESUS
+
+      D7  E/D   C#m     F#m
+SOMOS DEVEDORES UNS AOS OUTROS
+Bm   E       C#m      F#m
+NO AMOR QUE  FLUI  DE DEUS
+D           E     A   A/G#     F#m
+QUE NOS TEM FEITO UM  EM      CRISTO
+D7    C#m  Bm   Esus4    E
+TENDO TUDO EM COMUM
+       D     E/D         C#m    F#m
+MEU QUERIDO IRMÃO, SE NA CAMINHADA.
+     Bm       E         C#m        F#7
+ALGO SE LEVANTAR PRA QUEBRAR A COMUNHÃO
+      Bm         C#m        F#m
+O MEU CORAÇÃO NA FORÇA DO SENHOR
+      D       C#m  Bm   Esus4     A
+PRA VOCÊ VAI  LIBERAR          PERDÃO (REPETE INTRO)
+
+
+FINAL
+      D       C#m  Bm   Esus4     G      F#m  G   F#m   A
+PRA VOCÊ VAI  LIBERAR          PERDÃO
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/G# = 4 X 2 2 2 X
+A7 = X 0 2 0 2 0
+Asus4 = X 0 2 2 3 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+Esus4 = 0 2 2 2 0 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+Fº = X X 3 4 3 4
+G = 3 2 0 0 0 3
+G#7 = 4 6 4 5 4 4
+G7 = 3 5 3 4 3 3

@@ -1,0 +1,74 @@
+@titulo: voce
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Você
+
+(intro) G D/F# C C7+
+
+  G         D/F#
+Você anda sozinho
+Em         C     D
+Pelo seu silêncio
+      G
+Descobrindo que não há razão
+ D/F#       Em         C   D
+Para viver sem se encontrar
+   G       D/F#  Em
+E vive buscando
+        C  D         G
+Uma alegria que não há
+  D/F# Em        C  D      G    D/F# Em C D
+Vivendo uma fantasia sem notar
+  G          D/F#
+Você pelas esquinas
+Em         C  D         G
+Sabe que o tempo não parou
+           D/F#                     Em
+E nem o problema que hoje te esconde
+
+         C  D
+Não terminou
+  G        D/F#  Em
+E segue buscando
+            C  D          G
+Pelas mesas sujas de um bar
+   D/F# Em           C  D          G   D/F# Em C D
+Resposta que nunca você vai encontrar
+   G          D/F#   Em
+Então vê se entende
+           C            G   D/F#
+Hoje você pode se encontrar
+      C  D        G   D/F# E  C D
+Há solução p'ra sua vida
+
+ G
+Quanto mais a gente chega
+   D/F#
+Perto de Deus
+        Em         C  D
+A gente se conhece mais
+        G
+Quanto mais a gente chega
+   D/F#
+Perto de Deus
+        Em
+A gente se resolve,
+C  D         G
+Se conhece mais.
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

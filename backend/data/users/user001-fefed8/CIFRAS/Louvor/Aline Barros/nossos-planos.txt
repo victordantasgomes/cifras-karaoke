@@ -1,0 +1,71 @@
+@titulo: nossos-planos
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Nossos Planos
+
+Intro: B F# G#m E - 4X
+    B   F#
+Nem sempre
+     G#m        E
+O que temos nas mãos
+     B         F#
+É o melhor pra nós
+      G#m     E
+O que vemos então
+          B     F#
+É o que Deus preparou
+     G#m       E
+Os planos do senhor
+     B          F#      G#m E
+Vão além do que podemos ver
+    B   F#
+Nem sempre
+   G#m      E
+A melhor decisão
+    B         F#
+É seguir em frente
+
+    G#m       E
+Em momentos talvez
+    B           F#
+Se calar por completo
+    G#m         E       B  F#
+É o melhor para ouvir a Deus
+C#m          E
+Nossos planos são enganos
+         G#m                F#
+Se não forem projetados por Deus
+C#m             E
+Como folha seca levada pelo vento
+G#m                    F#
+Assim corre a vida sem Deus
+B     E      G#m
+É melhor construir
+     F#          B
+Nos planos do Senhor
+   E        A
+Bem melhor garantir
+ E          B
+Um lugar seguro
+E            G#m
+Se tiver que agir
+F#          A   E
+Que seja no senhor
+A      E       B
+Só ele sabe o futuro
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

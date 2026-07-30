@@ -1,0 +1,38 @@
+@titulo: velha-canoa
+@autor:
+@intérprete: Milionário e José Rico
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Milionário e José Rico - Velha Canoa
+
+C               G7              C               Am                     Dm
+Velha canoa deslizando na correnteza, Vai carregando o sofrimento e a tristeza
+Dm                                      G7                      F             G7                  C
+De um coração de alguém que vive amargurado, Que muito sofre por amar sem ser amado
+                                               C7                                F
+Gotas de orvalho vão caindo de mansinho, Por entre as flores que nas margens vão crescendo
+                                        C                      G7              F         G7          C
+São como lágrimas de alguém que sem carinho, Que não suporta mais viver sempre sofrendo
+G7     C       G7       C
+Vai canoa, vai deslizando
+E               Am     G7        C
+A minha mágoa estou chorando
+ F                    C
+Distante da minha amada
+          G7           C
+Eu só vivo soluçando
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+G7 = 3 5 3 4 3 3

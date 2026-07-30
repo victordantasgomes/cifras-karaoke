@@ -1,0 +1,55 @@
+@titulo: cantando-desde-a-eternidade
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Cantando Desde a Eternidade
+
+G             C9/G    G   C9/G
+Sob a sombra de suas asas
+ G             C9/G    G
+Descansando em sua presença
+  D/F#        Em9     C9              D    D4  STOP
+É onde quero cantar a canção do seu coração.
+               Em  C          G  D/F#   Em
+Liberdade irá gerar em meio a sua salvação,
+Em             C9              D
+Ao seu lado achegarei e lá habitarei,
+                       G       G4
+cantando desde a eternidade.
+
+G          G7M            C9       D9/C
+Não há lugar onde eu prefiro estar,
+G          G7M            C       D9/C
+Não há nada que eu prefiro fazer,
+G          G7M            C       D9/C
+Não há face que eu prefiro ver,
+G           G7M   C  D
+Alem da sua senhor...
+
+
+Em                 C                D
+...ao seu lado achegarei e lá habitarei,
+                        G   C Em Am D 2x
+cantando desde a eternidade.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+C9/G = 3 X 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+D9/C = X 3 0 2 3 0
+Em = 0 2 2 0 0 0
+Em9 = 0 2 4 0 0 0
+G = 3 2 0 0 0 3
+G4 = 3 5 5 5 3 3
+G7M = 3 X 4 4 3 X

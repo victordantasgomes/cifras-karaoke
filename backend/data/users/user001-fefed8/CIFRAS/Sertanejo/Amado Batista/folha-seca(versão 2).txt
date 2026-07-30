@@ -1,0 +1,100 @@
+@titulo: folha-seca(versão 2)
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Folha Seca
+
+Intro: E B F#7 B F#7
+
+E|-7----12-12-12-12-11------7-11-11-11-11-9----9-9-9-9-9-7-------------6-9-7---7-7-6-4-----|
+B|---------------------9--------------------7-7-----------7-5-5-5--5-7-----------------7-7-|
+G|-----------------------------------------------------------------------------------------|
+D|-----------------------------------------------------------------------------------------|
+A|-----------------------------------------------------------------------------------------|
+E|-----------------------------------------------------------------------------------------|
+
+                        
+       B                 E
+ Ao te ver pela primeira vez
+           B
+ Eu tremi todo
+
+ Uma coisa tomou conta
+         F#7
+ Do meu coração
+                            B
+ Com esse olhar meigo de menina
+     F#7                           B   F#7
+ Me fez nascer no peito, esta paixão
+     B                E
+ E agora não durmo direito
+               B
+ Pensando em você
+
+ Lembrando os seus olhos bonitos
+       F#7
+ Perdidos nos meus
+
+ Que vontade louca que eu tenho
+             B
+ De tê-la comigo
+    F#7
+ Calar sua boca bonita
+               B   B7
+ Com um beijo meu
+      E                         B
+ Princesa, a deusa da minha poesia
+                       F#7
+ Ternura da minha alegria
+                           B   B7
+ Nos meus sonhos quero te ver
+      E                          B
+ Princesa, a musa dos meus pensamentos
+                         F#7
+ Enfrento a chuva o mau tempo
+                        B
+ Pra poder um pouco te ver.
+
+ Repete intro: E B F#7 B F#7
+
+     B                E
+ E agora não durmo direito
+               B
+ Pensando em você
+
+ Lembrando os seus olhos bonitos
+       F#7
+ Perdidos nos meus
+
+ Que vontade louca que eu tenho
+             B
+ De tê-la comigo
+    F#7
+ Calar sua boca bonita
+               B   B7
+ Com um beijo meu
+      E                         B
+ Princesa, a deusa da minha poesia
+                       F#7
+ Ternura da minha alegria
+                           B   B7
+ Nos meus sonhos quero te ver
+      E                          B
+ Princesa, a musa dos meus pensamentos
+                         F#7
+ Enfrento a chuva o mau tempo
+                        B
+ Pra poder um pouco te ver.
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+F#7 = 2 4 2 3 2 2

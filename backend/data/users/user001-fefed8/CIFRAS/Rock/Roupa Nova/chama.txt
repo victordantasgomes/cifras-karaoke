@@ -1,0 +1,117 @@
+@titulo: chama
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Chama
+
+Intr.: D G A F# Bm G D/F# A G A G/B A/C# D G A F# Bm G Em A
+
+Em     G     A    Em G A
+Pelo brilho da manhã
+Em      G      A
+Sinto acesa a chama
+Bm          A/B
+Tenho você aqui
+Em   G     A     Em G A
+Novamente aconteceu
+Em   G     A
+Uma luz antiga
+ Bm             A/B
+Que nunca se apagou
+Bm       G   A
+Fogo no coração
+
+ D
+Vai
+    G                           A
+E avisa a todo mundo que encontrar
+
+     F#                          Bm
+Que existe ainda um sonho pra sonhar
+          G      D/F# A
+E que o amor não acabou
+ D
+Vai
+     G                    A
+E espalha a novidade pelo ar
+        F#            Bm
+Que ela torne o mundo todo azul
+       G    Em    A
+E que seja tudo amor
+
+Em      G       A    Em G A
+Quanto tempo eu esperei
+Em     G    A
+Sem achar saída
+ Bm            A/B
+Preso na escuridão
+Em     G     A    Em G A
+Pelo brilho do olhar
+Em    G       A
+Eu recebo a chama
+Bm           A/B
+Viva do seu amor
+Bm       G   A  G A G/B A/C#
+Fogo no coração
+
+ D
+Vai
+    G                           A
+E avisa a todo mundo que encontrar
+     F#                          Bm
+Que existe ainda um sonho pra sonhar
+          G      D/F# A G A G/B A/C#
+E que o amor não acabou
+ D
+Vai
+     G                    A
+E espalha a novidade pelo ar
+         F#           Bm
+Que ela torne o mundo todo azul
+       G   D/F#    A B
+E que seja tudo amor
+
+SOLO: E A B G# C#m A E/G# B
+
+ E
+Vai
+    A                           B
+E avisa a todo mundo que encontrar
+      G#                         C#m
+Que existe ainda um sonho pra sonhar
+          A     E/G# B
+E que o amor não acabou
+ E
+Vai
+     A                     B
+E espalha a novidade pelo ar
+        G#                  C#m
+Que ela torne o mundo todo azul
+       A   E/G#    B
+E que seja tudo amor
+ (E  A B G# C#m A E/G# B)
+Vai...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G/B = X 2 0 0 3 3

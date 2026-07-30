@@ -1,0 +1,89 @@
+@titulo: maldito
+@autor:
+@intérprete: Lairton e Seus Teclados
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lairton - Maldito
+
+[Intro] E  Am  G  F
+        E  Am  E
+
+E|------------7--------------8-----------------9--7-6-7--7-5-7---|
+B|----------------------------------8-10-8-7-8-------------------|
+G|-9-10-9-7-9------9-10-9-7-9------------------------------------|
+D|---------------------------------------------------------------|
+A|---------------------------------------------------------------|
+E|---------------------------------------------------------------|
+
+[Primeira Parte]
+ 
+               Am
+Maldito seja o amor
+          A7
+O alucinado amor
+        Dm
+Que me prendeu
+               E
+Maldito seja o olhar
+             E7
+Aquele frio olhar
+        Am    E7
+Que me venceu
+              Am
+A mão que me afagou
+             A7
+O beijo que ficou
+                 Dm
+Perdido em minha boca
+                  Am
+Quem tudo quis de mim
+                      B
+Quem fez minha alma assim
+E          Am
+ Sozinha e louca
+
+[Refrão]
+
+                  Am            G
+A noite em mim desceu e aconteceu
+             C
+Longa e tristonha
+              G
+Por uma só paixão
+            F 
+Que humilhação
+             E
+Quanta vergonha
+                 Am
+Por tudo que chorei
+                  A
+Por tudo que passei
+                   Dm
+Por minha alma ferida
+                  Am
+Por esta imensa dor
+                  B  E
+Maldito seja o amor
+           Am
+Da minha vida
+ 
+[Final] E  Am  G  F 
+        E  Am  E
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E7 = 0 X 0 0 1 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

@@ -1,0 +1,58 @@
+@titulo: com-voce
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Com você
+
+Intro:Em C D Em
+
+Em              C
+Por mais que eu queira entender
+   D         Em
+eu fujo de você
+Em         C
+preciso do teu grande amor
+    D              Em
+que vem do teu querer
+       Am          Bm
+O seu amor me envolveu
+       Em      D          C
+já não quero viver sem você
+         Am           Bm
+Longe de ti, não percebi
+         Em     D       C
+que o prazer de ser feliz
+Em               C
+Por mais que eu erre sem ver
+   D             Em
+distante sem saber
+
+Em           C
+Te sinto bem perto de mim
+   D              Em
+eu quero teu querer.
+       Am          Bm
+O seu amor me envolveu
+        Em     D          C
+já não quero viver sem você
+         Am          Bm
+Longe de ti não percebi
+         Em     D      C
+que o prazer de ser feliz
+                  Em Am D G/B D C
+só existe com você
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G/B = X 2 0 0 3 3

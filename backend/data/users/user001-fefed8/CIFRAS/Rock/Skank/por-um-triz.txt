@@ -1,0 +1,87 @@
+@titulo: por-um-triz
+@autor:
+@intérprete: Skank
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Skank - Por Um Triz
+
+Intro: A / A(#5) / A6 / A(#5)
+
+     A             A(#5)
+ Brandiu assim o ferro quente
+    A6
+ E seu rosto em minha mente
+       A(#5)
+ Foi queimando feito cicatriz
+
+   A                A(#5)
+ Do corpo estreito quase ausente
+      A6
+ O cheiro ardido e transparente
+      A(#5)
+ Era certo da questão o xis
+
+      Bm
+ Que o líquido fermente
+       G
+ Se separem as sementes é
+      A
+ Ponham-se os pingos nos is
+
+
+   Bm
+ Que a lente do amor aumente
+    G
+ Faça em presença o que é ausente
+     E
+ Por que só se vive por um triz
+
+    A             A(#5)
+ Só o amor pode juntar
+   A6              A7
+ O que o desejo separou
+       D        Dm
+ Não poderia ontem se
+  A              (60 62 63 50 52 50 63 62 60)
+ vestir de amanhã
+
+  A               A(#5)
+ Só o amor pode apagar
+  A6                 A7
+ O que o desejo rasurou
+            D   Dm
+ Inventaria ontem
+   A               E      Bm  F#m  Bm G G(b9)
+ Pra existir amanhã
+
+
+A(#5)  003221
+A6     002222
+G(b9)  3x013x
+
+    | *1  | *2 |    *3      |        *4        |
+_* E|-----|----|------------|------------------|
+   B|-----|--2-|------------|------------------|
+   G|-6-4-|-4--|--------2-4-|--------2-4-2-----|
+   D|-----|----|--2-4-5----2|---2-4-5-----5-4-2|
+   A|-----|----|------------|------------------|
+   E|-----|----|------------|------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A(#5) = X 0 3 2 2 0
+A6 = 5 X 4 6 5 X
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G(b9) = 3 2 0 1 0 3

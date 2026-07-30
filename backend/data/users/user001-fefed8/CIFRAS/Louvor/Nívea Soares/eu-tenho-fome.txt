@@ -1,0 +1,67 @@
+@titulo: eu-tenho-fome
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Eu Tenho Fome
+
+(intro)  C9 Bb9 F Dm7
+             C9 Bb9 F Dm7
+
+                 C9  Bb9
+Eu tenho fome
+            F                    Dm7
+Como nos primeiros dias
+               C9          Bb9
+Meu coração está seco
+       F                     Dm7
+Ansiando por tuas águas
+
+                  C9         Bb9
+Estou queimando
+             F                 Dm7
+Como nos primeiros dias
+              C9                   Bb9
+Existe mais , não vou parar
+             F              Dm7
+Sei que tu estás comigo
+
+
+C/E      F9      G9
+      Confio em ti
+        F/A
+Grandioso é o teu amor
+C/E      F9      G9
+          Inunda-me
+
+C9                   Am7
+     Vem sobre mim
+               Bb9    F9                     C9
+Santo Espírito enche-me outra vez
+                  F9                Bb9     F9
+Vou mergulhar em tuas águas
+C9                   Am7
+     Transforma-me
+               Bb9                F9                     C9
+Com teu fogo vem queimar meu coração
+                   F9                 Bb9
+Vem sobre mim com tua glória
+   F9
+Inunda-me de ti
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bb9 = X 1 3 3 1 1
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F9 = 1 3 5 2 1 1
+G9 = 3 X 0 2 0 X

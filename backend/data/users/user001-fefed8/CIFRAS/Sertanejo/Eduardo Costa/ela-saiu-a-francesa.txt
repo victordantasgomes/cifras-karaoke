@@ -1,0 +1,101 @@
+@titulo: ela-saiu-a-francesa
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Ela Saiu a Francesa
+
+Intro: Em  C  G  D  C
+
+1ª parte:
+
+    G
+Mentiu pra mim, falou que o nosso amor
+                      D
+Era pra sempre, eu acreditei
+                                 D#º       Em
+Falou que era a mulher da minha vida eu me entreguei
+        C
+Foi um sonho que eu sonhei acordado
+         G
+Mas eu acordei
+F/G     G
+Eu nem sonhei
+
+2ª parte:
+
+C                          D  ( D/F# )
+  Foi um livro que eu não li
+
+G      D/F#      Em
+  Um amor que eu inventei
+C       ( G/B )   Am        ( G/B )      C
+  So amei pela beleza, e ela saiu a francesa
+    Am           D      B
+Pra onde foi eu não sei
+
+Refrão:
+
+E                     B    E   A  E
+  Porque será que eu tô assim
+                        B
+Se esse amor durou tão pouco
+                  ( B/A  E/G# )    F#m
+Porque será que eu tô   so.......frendo
+   F#m/E            B/D#
+E cada dia mais morrendo
+   A/B              B      E   A  B  E
+Se essa mulher me fez de bobo
+                            A  E
+Porque será que eu tô assim
+           ( D/F#      E/G# ) A         A4  A
+Com essa paixão    descon.......trolada
+                    E/B
+Tô  perdendo o meu juízo
+ C#m                      F#m
+Dessa história eu não preciso
+        B        E
+Isso é página virada
+
+Solo: C  D  E  C  D  G  G7
+
+(Repete 2ª parte)
+
+(Repete Refrão)
+
+Final:
+
+C#m  F#m         B        E   E/G#  A
+         Isso é página virada...
+B                 C#m  A              E/G#   B  E
+  E ela, ela saiu...      Saiu à francesa...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A4 = X 0 2 2 3 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+B/D# = X 6 X 4 7 7
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D#º = X X 1 2 1 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+F#m/E = X X 2 2 2 2
+F/G = 3 X 3 2 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

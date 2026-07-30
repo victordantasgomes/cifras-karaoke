@@ -1,0 +1,64 @@
+@titulo: pai-nosso
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Pai Nosso
+
+intro: C Am Dm G (2X)
+      (C  Am  F  G)
+
+C               G/B               Am7
+Pai Nosso que estais nos céus
+            F      C/E          G
+Santificado seja o teu nome
+          C       G/B   Am7
+Venha o teu reino
+        F     C/E    G
+E a tua vontade
+                       C     C  G/B  Am7
+Na terra e no céus
+
+Am7                                      Em
+O pão de cada dia nos dai hoje
+           F                  G
+E perdoa as nossas dívidas
+                 C  G  Am
+Como perdoamos
+                   F  C/E  G
+Os que nos devem
+
+
+A#                   F          Gm
+Não nos deixe cair em tentação
+          Dm        C       G
+Mais livraai-nos do mal (2x)
+                   C   G/B  Am7
+Pois teu é o reeino
+       F  C/E  G
+E o podeer
+       C  G/B   Am7
+E a glóória
+        F  C/E  G
+Para seempre (2x)
+    C
+Amém
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+Gm = 3 5 5 3 3 3

@@ -1,0 +1,62 @@
+@titulo: ele-vem
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Ele Vem
+
+[Intro]  G5  F5
+
+E|-----------------------------------------------------------------|
+B|-8-x-x-8-x-x-8-x-7-x-x-7-x-x-7-x-x-6-x-x-6-x-x-6-x-5-x-6-x-5-x-3-|
+G|-7-x-x-7-x-x-7-x-7-x-x-7-x-x-7-x-x-5-x-x-5-x-x-5-x-5-x-5-x-5-x-5-|
+D|-5-x-x-5-x-x-5-x-5-x-x-5-x-x-5-x-x-3-x-x-3-x-x-3-x-3-x-3-x-3-x-3-|
+A|-----------------------------------------------------------------|
+E|-----------------------------------------------------------------|
+
+   G                D9
+O tempo de cantar chegou
+C                   Em   D9
+O tempo de dançar chegou
+   G                D9
+O tempo de cantar chegou,
+C              D9
+O tempo de dançar chegou
+
+       G          D9                    C   Em D
+E Ele vem, e Ele vem saltando pelos montes
+       G          D9                    C   Em D
+E Ele vem, e Ele vem saltando pelos montes
+
+               G              D9                         C  Em D
+E os seus cabelos, os seus cabelos são brancos como a neve
+             G                D9                       C   Em D
+Os seus cabelos, os seus cabelos são brancos como a neve
+              G                 D9       C
+E nos seus olhos, e nos seus olhos há fogo
+
+      G                 D9
+Incendeia Senhor a sua noiva
+      C              Em   D9
+Incendeia Senhor a sua igreja
+       G                D9
+Incendeia Senhor a sua casa
+          C     G/B   Am      G
+Vem me incen - di - ar
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+F5 = 1 3 3 X X X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G5 = 3 5 5 X X X

@@ -1,0 +1,105 @@
+@titulo: tua-chuva
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Tua Chuva
+
+ INTRO: ||  D9  |  C  |  G9/B  | C/Bb   Bb Am7 |
+        | G7M   A/F# | F7M(9)   G7M(9)/E | Bb9/D   C9 | Asus4   A ||
+
+ D9             Em7         G6/A     G/B A/C#
+Posso sentir um cheiro suave no ar
+ D9              Bm7(add4)     F#m7(add4)        Em7  A6    D9   D  [STOP]
+Posso ouvir cada vez      mais perto   e seu que vai  che - gar
+   Em7         D/F#
+Os Céus anunciaram
+G9                   A9/B     G9/A  D
+Águas vivas vem para regar meu coração (está nação)
+C7M(9)
+Eu estou sedento (Teu povo está sedento)
+  G9/B                      G6/A    A9
+Derrama sobre mim (nós) Tua Chuva.
+
+            D9   G9     Bm7    A9sus
+        Tua Chuva   Tua Chuva
+        1:  D9/F#   G    Bm7  A/F#     [F7M  G/A - COMEÇO]
+        2:  D/F#    G    Bm7        A6
+        Tua Chuva    Tua Chu - va.
+
+
+          D    F#m/C#  G7M  A           D   Bm7  Em7  A
+Eu vou me encharcar,          quero dançar
+1:        D    F#m/C#  G7M  A         D   Bm7
+2:        D    F#m/C#  G7M  A         D   Bm7   Em7  G    A  Bm7
+No vou me esconder,          quero beber
+
+Em7                   G9/A
+Águas de restauração e refrigério
+  F7M(9)      C9/E     Asus   A9
+Derrama sobre mim Tua Chuva
+
+
+ Instrumental: || D9  Bm7 | Em7 A9 | Bm7 F#m7 | G  G6/A |
+               | D9  Bm7 | Em7 A9 | Bm7 F#m7 | G  A ||
+
+          D9               C6(9)              G9/B              C9    G   A
+Eu vou me encharcar, quero dançar, não vou me esconder, quero beber
+          D9               C6(9)              G9/B              C9    Em7   Bm7
+Eu vou me encharcar, quero dançar, não vou me esconder, quero beber
+
+Em7                   G9/A
+Águas de restauração e refrigério
+  F7M(9)      C9/E     Asus   A9
+Derrama sobre mim Tua Chuva
+
+
+    D9  A9/C#  G7M  Asus    Bm7   F#m7  Em7  A
+Tua Chu - va            Tua Chu - va
+ 1:     D9  A9/C#  G7M  Asus    Bm7   F#m7  Em7  A
+2:     D9  A9/C#  G7M  Asus    Bm7   F#m7  Em7  G6/A   FIM: ||  A9  |  D  ||
+   Tua Chu - va            Tua Chu - va
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/F# = 2 0 2 2 2 0
+A6 = 5 X 4 6 5 X
+A9 = X 0 2 2 0 0
+A9/B = X 2 2 2 0 0
+A9/C# = X 4 2 2 0 X
+Asus = X 0 2 2 2 0
+Bb = X 1 3 3 3 1
+Bb9/D = X 5 3 3 1 1
+Bm7 = X 2 4 2 3 2
+Bm7(add4) = 7 X 7 7 5 X
+C = X 3 2 0 1 0
+C/Bb = X 1 2 0 1 X
+C6(9) = X 3 2 2 3 3
+C7M(9) = X 3 2 4 3 X
+C9 = X 3 5 5 3 3
+C9/E = X X 2 5 3 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+D9/F# = 2 X 0 2 3 0
+Em7 = 0 2 2 0 3 0
+F#m/C# = X 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7(add4) = 2 X 2 2 0 X
+F7M = 1 X 2 2 1 X
+F7M(9) = X 8 7 9 8 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G6/A = X 0 0 0 0 0
+G7M = 3 X 4 4 3 X
+G9 = 3 X 0 2 0 X
+G9/A = X X 7 7 8 5
+G9/B = 7 X X 7 8 5

@@ -1,0 +1,68 @@
+@titulo: tempo-de-crescer
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Tempo de Crescer
+
+[INT] -> [ A A/C# | D9 G9 ]
+
+A9                                Dm/A
+EU VOU TE AMAR PRA SEMPRE, MEU SENHOR
+A9                             A/C#
+E VOU ANDAR CONTIGO SEJA AONDE FOR
+             D9          A/C#
+NO MAIS ALTO MONTE ESTAREI
+                D/B    A/C#
+NO VALE MAIS PROFUNDO IREI
+D9   D/B      E4   E9
+ONDE FOR TE SEGUIREI
+
+A9                              Dm/A
+E NESTE ANDAR CONTIGO EU OUÇO UM SIM
+A9                                A/C#
+MAS É VERDADE QUE ÀS VEZES EU OUÇO NÃO
+                D9          A/C#
+MAS, SE VOCÊ ME DIZ SIM OU NÃO
+        D/B                 A/C#
+EU NÃO DESISTO, EU NÃO ABRO MÃO
+
+D9       D/B           E9
+NADA VAI ME SEPARAR DE TI
+
+A9                    A/F#
+É DESPOJAR TUDO O QUE SOU
+           F#4            D/B
+É SER, BEM MUITO MAIS QUE TER
+                     A/C#  D9
+SE AGENTE ENTREGA O CORAÇÃO
+          D/E    E     A9
+A GENTE ENTREGA PRA VALER
+                A/F#
+É TER A VIDA NO ALTAR
+         F#4       D/B
+E VER A CHAMA ACENDER
+             A/C#   D/B
+E A CADA DIA MAIS E MAIS
+            E             A9
+SABER QUE É TEMPO DE CRESCER
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A/F# = 2 0 2 2 2 0
+A9 = X 0 2 2 0 0
+D/B = X 2 0 2 3 2
+D/E = X X 2 2 3 2
+D9 = X X 0 2 3 0
+Dm/A = X 0 X 2 3 1
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+E9 = 0 2 4 1 0 0
+F#4 = 2 4 4 4 2 2
+G9 = 3 X 0 2 0 X

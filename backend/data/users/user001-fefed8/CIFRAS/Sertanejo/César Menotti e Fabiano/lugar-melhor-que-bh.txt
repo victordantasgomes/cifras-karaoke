@@ -1,0 +1,71 @@
+@titulo: lugar-melhor-que-bh
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Lugar Melhor que BH
+
+Intro: D G A D A/C# Bm Bm Em A D
+E|--1-1-1-2-5-5/7-3-0---|
+B|-----------------------|
+G|-----------------------|
+D|-----------------------|
+A|-----------------------|
+E|-----------------------|
+
+E|----0-0-0--2--3--5-----2/0--0---------2---------2-----------------5-----------|
+B|------------------------------3---------0--3-------0--3/5---5/7-----7--5--3---|
+G|------------------------------------------------------------------------------|
+D|------------------------------------------------------------------------------|
+A|------------------------------------------------------------------------------|
+E|------------------------------------------------------------------------------|
+
+Refrão 2x:
+D                     G     A
+        É aqui que eu a_____mo
+     D        A/C#     Bm Bm7
+É aqui que eu quero ficar
+
+
+         Em    A                    D
+Pois não há____á, lugar melhor que BH!
+
+                D                     Em
+Lá no Rio de Janeiro conheci tantas belezas
+                G             A            D
+visitei tanto lugares de São Paulo a Fortaleza
+             Am           D          G
+Conheci o Amazonas, Tocantins e o Pará
+                    A                  G
+Mas confesso não achei, por onde eu andei
+          A       D
+Lugar melhor que BH!
+
+(Refrão 2x)
+
+                    D                    Em
+Eu nasci lá em São Paulo e cresci no Paraná
+                   G         A         D
+Escutei tantas histórias de Minas ao luar
+                   Am            D             G
+Meu Brasil é tão bonito do Rio Grande ao Maranhão
+                  A
+Conheci me apaixonei
+                   G        A         D
+Por isso eu me tornei mineiro de coração.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

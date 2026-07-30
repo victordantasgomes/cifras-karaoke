@@ -1,0 +1,90 @@
+@titulo: tudo-vem-de-ti
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Tudo Vem de Ti
+
+Intro: E B/D# A E/G# B/D# A A2
+
+E          B/E      A/E
+Tudo vem de Ti, Senhor
+E           B/D#    A/C#
+Tudo vem de Ti, Senhor
+       E/G#          B/D#    A2      2x
+E das tuas próprias mãos te damos
+      C#m           B/D#      A2    1º B/A A
+E das tuas próprias mãos te damos   2º A2 A/F#
+                                    3º A2 B/A
+
+      E               B
+Quem há semelhante a Ti?
+    E/G#                A2
+E a quem pode ser comparado?                  2x
+C#m           B/D#        A2   1º A/F# B/D#
+Deus que tudo fez tudo é teu   2º SOLO 1 - COMEÇO --- SOLO 3 "TUDO É TEU"
+
+Solo 1 : E B/D# A2 C#m B/D# E/G# A2 B/A
+
+
+Solo 3 : C#m B/D# E C#m B A C#m B/D# E F#m E/G# A2
+
+     C#m B/D#       E
+Tudo é Teu, tudo é Teu
+     C#m B          A2    5X       (G#m F#/A#) Subida de tom
+Tudo é Teu, tudo é Teu
+
+     D#m C#/F       F#
+Eu sou Teu, eu sou Teu
+     D#m C#         (B)   3X
+Eu sou Teu, eu sou Teu          3ºvez:(B/G# F#/A# C#/F)
+
+     F#              C#
+Quem há semelhante a Ti?
+    F#/A#               B2
+E a quem pode ser comparado?       2X
+D#m           C#/F        B2   B/G# C#/F
+Deus que tudo fez tudo é teu
+
+3ºvez:
+
+    D#m             C#/F
+Quem há semelhante a Ti?
+     F#               B/G#
+E a quem pode ser comparado?        2X
+1º  D#m     D#m C#/F F#        B2   F#/A# G#m C#/F
+     Deus que tudo fez tudo é teu
+     D#m          C#/F         B2
+2º   Deus que tudo fez tudo é teu
+
+FINAL: D#m C#/F B/F# F#/A# D#m C#/F B2
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A/F# = 2 0 2 2 2 0
+A2 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+B/D# = X 6 X 4 7 7
+B/E = X 7 9 8 7 7
+B/F# = X X 4 4 4 2
+B/G# = 4 X 4 4 4 X
+B2 = X 2 4 4 2 2
+C# = X 4 6 6 6 4
+C#/F = X 8 X 6 9 9
+C#m = X 4 6 6 5 4
+D#m = X X 1 3 4 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

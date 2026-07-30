@@ -1,0 +1,41 @@
+@titulo: senhor-tende-piedade-e-perdoai
+@autor:
+@intérprete: Padre Marcelo Rossi
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Padre Marcelo Rossi - Senhor, Tende Piedade e Perdoai
+
+C                       Dm              G             C         C7
+Senhor, tende piedade e perdoai a nossa culpa.
+    F             G   C C7                    F                G    C  Em Am
+E perdoai a nossa culpa,    porque nós somos vosso Povo,
+                  Dm                G  C  G7
+Que vem pedir vosso perdão.
+C                          Dm            G                C          C7
+Cristo, tende piedade e perdoai a nossa culpa.
+            F             G   C C7                   F                 G    C  Em Am
+E perdoai a nossa culpa,    porque nós somos vosso Povo,
+                  Dm                G  C  G7
+Que vem pedir vosso perdão.
+C                            Dm           G                 C         C7
+Senhor, tende piedade e perdoai a nossa culpa.
+            F             G   C C7                   F                 G    C  Em Am
+E perdoai a nossa culpa,    porque nós somos vosso Povo,
+                  Dm                G  C  G7
+Que vem pedir vosso perdão.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

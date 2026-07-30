@@ -1,0 +1,235 @@
+@titulo: evidencias
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Evidências
+
+[Intro]  E  E5+  A  F#m  B7  E  B7
+
+E|---------------------2-------------------3-2------------------|
+B|--3-2-3-3/5-3~---3-5---5-3-------3---3-5-----5-3-2-3-3/5-2-3--|
+G|-----------------------------2-4---4--------------------------|
+D|--------------------------------------------------------------|
+A|--------------------------------------------------------------|
+E|--------------------------------------------------------------|
+
+E|------------------|
+B|------------------|
+G|-2h4--2h4-2-------|
+D|------------------|
+A|------------------|
+E|------------------|
+
+           E                  B/D#
+Quando eu digo que deixei de te    amar
+             C#m   Bm  E7
+É porque eu te amo
+           A
+Quando eu digo que não quero
+
+      C#7
+Mais você
+   F#m           F#m7
+É porque eu te quero
+          B7
+eu tenho medo de te dar meu
+     G#7
+Coração
+           C#m
+E confessar   que eu estou
+         C#m/B
+Em tuas mãos
+         F#
+Mas não posso imaginar
+                  F#/Bb
+O que vai ser de mim
+                    A/B
+Se eu te perder um dia
+
+      E
+Eu me afasto e me defendo
+    B/D#
+De você
+ C#m   Bm     E7
+Mas depois me entrego
+      A
+Faço tipo, falo coisas que
+        C#7
+Eu não sou
+     F#m       F#m7
+Mas depois eu nego
+          B7
+Mas a verdade é que sou
+           G#7
+Louco por você
+         C#m        C#m/B
+E tenho medo de pensar
+          Am
+Em te perder
+           E
+Eu preciso aceitar que não dá
+ B7
+Mais pra
+            A      E    A/B
+Separar as nossas vidas
+
+E
+E nessa loucura de dizer
+Que não te quero
+          G#7
+Vou negando as aparências
+Disfarçando as evidências
+             A
+Mas pra que viver fingindo
+           F#m
+Se eu não posso enganar
+        B7
+Meu coração
+    F#m        B7/4   B7
+Eu sei     que te a__mo
+  E
+Chega de mentiras
+
+De negar o meu desejo
+          G#7
+Eu te quero mais que tudo
+
+Eu preciso do seu beijo
+       A
+Eu entrego a minha vida
+       F#m
+Pra você fazer o que quiser
+    B7
+De mim
+     F#m         B7
+Só quero  ouvir você dizer
+     E
+Que sim
+           E5+
+Diz que é verdade que tem
+      A  E/G#
+Saudade
+    F#m         B7
+Que ainda você pensa muito
+    E
+Em mim
+              E5+
+Diz que é verdade que tem
+    A   E/G#
+Saudade
+    F#m              B7
+Que ainda você quer viver
+     E
+Pra mim
+
+                                   G/A
+E|---------------------------------0-----|
+B|---------------------------------5-----|
+G|------------------------------4--3-----|
+D|-4b-----------4---4b-------------4-----|
+A|----7-5-4-5-----------7-5-4------0[----|
+E|---------------------------------5-----|
+
+      D
+Eu me afasto e me defendo
+    A/C#
+De você
+ Bm   Am     D7
+Mas depois me entrego
+      G
+Faço tipo, falo coisas que
+        B7
+Eu não sou
+     Em       Em7
+Mas depois eu nego
+          A7
+Mas a verdade é que sou
+           F#7
+Louco por você
+         Bm        Bm/A
+E tenho medo de pensar
+          Gm
+Em te perder
+           D
+Eu preciso aceitar que não dá
+ A7
+Mais pra
+            G      D    G/A
+Separar as nossas vidas
+
+D
+E nessa loucura de dizer
+Que não te quero
+          F#7
+Vou negando as aparências
+Disfarçando as evidências
+             G
+Mas pra que viver fingindo
+           Em
+Se eu não posso enganar
+        A7
+Meu coração
+    Em        A7/4   A7
+Eu sei     que te a__mo
+  D
+Chega de mentiras
+
+De negar o meu desejo
+          F#7
+Eu te quero mais que tudo
+
+Eu preciso do seu beijo
+       G
+Eu entrego a minha vida
+       Em
+Pra você fazer o que quiser
+    A7
+De mim
+     Em         A7
+Só quero  ouvir você dizer
+     D
+Que sim
+           D5+
+Diz que é verdade que tem
+      G  D/F#
+Saudade
+    Em         A7
+Que ainda você pensa muito
+    D
+Em mim
+              D5+
+Diz que é verdade que tem
+    G   D/F#
+Saudade
+    Em              A7
+Que ainda você quer viver
+     D
+Pra mim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+Am = X 0 2 2 1 0
+B/D# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+B7/4 = X 2 4 2 5 2
+Bm = X 2 4 4 3 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+C#m/B = 7 X 6 6 5 X
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E5+ = 0 X 2 1 1 0
+E7 = 0 2 2 1 3 0
+F# = 2 4 4 3 2 2
+F#/Bb = 6 X 4 6 7 X
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G#7 = 4 6 4 5 4 4

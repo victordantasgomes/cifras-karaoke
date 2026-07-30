@@ -1,0 +1,118 @@
+@titulo: tem-moda-pra-tudo
+@autor:
+@intérprete: Matheus e Kauan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Matheus e Kauan - Tem Moda Pra Tudo
+
+Capo Casa 4
+
+[Intro] C  D  Em
+
+E|-----3-2----------------------------------|
+B|---------5-3-3/5-5-5-5--------------------|
+G|-2/4-------------------2h4-2~-------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|-----3-2----------------------------------|
+B|---------5-3-3/5-5-5-5--------------------|
+G|-2/4-------------------2h4----------------|
+D|---------------------------5~-------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Primeira Parte]
+
+G9         C                   G9
+  Meu coração perguntou por você
+            C                Em7
+Mas eu não soube dar uma resposta
+
+           D                     C
+Faz tanto tempo que a gente não topa
+
+[Pré-Refrão]
+
+     Em7            C
+Ela tá por aí e eu tô por aqui
+           G                  D
+Com as cachaças de sempre na mente
+ Em7                C
+Toca toda música aqui nesse bar
+           Am7                        D
+Só que tem uma que o compositor esqueceu de inventar
+
+[Refrão]
+
+                C                    D
+Tem moda pra beber, tem moda pra chorar
+              G                       Em7
+Tem moda pra tudo só não tem pra desapaixonar
+
+                 C                    D
+Tem moda pra sofrer, tem moda pra voltar
+                     Bm7                      Em7
+Então como é que eu faço pra esquecer de lembrar
+
+( C  D  G  Em7 )
+( C  D )
+
+[Pré-Refrão]
+
+     Em7            C
+Ela tá por aí e eu tô por aqui
+           G                  D
+Com as cachaças de sempre na mente
+ Em7                C
+Toca toda música aqui nesse bar
+           Am7                        D
+Só que tem uma que o compositor esqueceu de inventar
+
+[Refrão]
+
+                C                    D
+Tem moda pra beber, tem moda pra chorar
+              G                       Em7
+Tem moda pra tudo só não tem pra desapaixonar
+                 C                    D
+Tem moda pra sofrer, tem moda pra voltar
+                     Bm7                      Em7
+Então como é que eu faço pra esquecer de lembrar
+
+                C                    D
+Tem moda pra beber, tem moda pra chorar
+              G                       Em7
+Tem moda pra tudo só não tem pra desapaixonar
+                 C                    D
+Tem moda pra sofrer, tem moda pra voltar
+                     Bm7                      Em7
+Então como é que eu faço pra esquecer de lembrar
+
+( C  D )
+
+                     Bm7                      Em7
+Então como é que eu faço pra esquecer de lembrar
+
+( C  D )
+
+                     Bm7                      Em
+Então como é que eu faço pra esquecer de lembrar
+
+----------------- Acordes -----------------
+Capotraste na 4ª casa
+Am7*  = X 0 2 0 1 0 - (*C#m7 na forma de Am7)
+Bm7*  = X 2 4 2 3 2 - (*D#m7 na forma de Bm7)
+C*  = X 3 2 0 1 0 - (*E na forma de C)
+D*  = X X 0 2 3 2 - (*F# na forma de D)
+Em*  = 0 2 2 0 0 0 - (*G#m na forma de Em)
+Em7*  = 0 2 2 0 3 0 - (*G#m7 na forma de Em7)
+G*  = 3 2 0 0 0 3 - (*B na forma de G)
+G9*  = 3 X 0 2 0 X - (*B9 na forma de G9)

@@ -1,0 +1,129 @@
+@titulo: tua-gloria
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Tua Glória
+
+Intro: G9  GM7/B  C9  G9  G9  GM7/B  C9  G9  G9  GM7/B  C9
+
+         G9                         G9            Am7    Am7 GM7/B  C9
+Teu trono  é eterno Oh Deus   inabalável
+    G9                            G9                               Em7    D9
+Exércitos dos céu proclamam  Santo é o Senhor
+         C9        Am7         G9           Em7
+Majestoso  É  ,        Glorioso Rei
+           Am7                  G/B   C        Am7   C/D
+entronizado entre os louvores
+
+
+           Gsus4  G9    G/B                 C9/5b  C9    C9 G6/B
+Tua    Gló   -    ria              enche a ter    -  ra
+            Am7    Am7/G                Dsus4    D9  C/D
+Tua    Glória              enche os cé      -    us
+         G9                 G9/B
+desejamos Tua gloria
+             C9         Am7(5b)/Eb
+Tua presença
+           Gsus4/D  G/D   C/D   D9       G9
+Rei da  Gló   -     ria              Jesus
+
+
+Reintro: G/B  AM7/C#  D9  A9  A9   AM7/C#  D9  A9  A9  AM7/C#  D9
+
+     A9                            A9                 Bm7   Bm7  AM7/C# D9
+Teu trono  é eterno Oh Deus    inabalável
+  A9                           A9                                   F#m7     E9
+Exércitos dos céu proclamam   Santo é o Senhor
+          D9        Bm7   A9           F#m7
+Majestoso  É  ,    Glorioso Rei
+            Bm7                A/C#   D       Bm7   E
+entronizado entre os louvores
+
+
+          Asu4  A9     A/C#                 D9/5b  D9    D9 A6/C#
+Tua Gló   -    ria              enche a ter   -     ra
+             Bm7    Bm7/A                Esus4   E9  D/E
+Tua     Glória              enche os ce    -    us
+         A9                A9/C#
+desejamos Tua Glória
+             D9         Bm7(5b)/F
+Tua presença
+              Asus/E  A/E    D/E  E9   A9
+Rei da   Gló     -  ria                Jesus
+
+
+Mod: F9  A  F9  A  A
+     E9(11)/D  A9/C#  GM7  D/F#  Esus4  Eb/F  F/A  Bb6/D
+
+
+          Bbsus4 Bb9   Bb/D                 Eb9/5b  Eb9   Eb9
+Tua   Gló     -    ria              enche a ter    -     ra
+              Cm7    Cm7/Bb                Fsus4    F9  Eb9/F
+ Tua     Glória              enche os ce      -      us
+         Bb9              Bb9/D
+desejamos Tua Glória
+             Eb9        Cm7(5b)/Gb
+Tua presença
+             Bbsus4/F  Bb/F    Eb/F   F9    Bb9      Cm7(5b)/Gb
+Rei da  Gló     -       ria                  Jesus
+            Bbsus4/F  Bb/F    Eb/F     F9
+Rei da Gló      -       ria                   Jesus
+
+Fim: Gb9  Bb9  Bb9/D  Gb9/Eb  Bb9  Bbsus4  Bb9
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A6/C# = X 4 2 2 5 2
+A9 = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+Am7 = X 0 2 0 1 0
+Am7/G = 3 0 2 0 1 0
+Asus/E = 0 X 2 2 2 0
+Bb/D = X 5 X 3 6 6
+Bb/F = X 8 8 7 6 X
+Bb6/D = X 5 3 3 6 3
+Bb9 = X 1 3 3 1 1
+Bb9/D = X 5 3 3 1 1
+Bbsus4 = X 1 3 3 4 1
+Bbsus4/F = X 8 X 8 6 6
+Bm7 = X 2 4 2 3 2
+Bm7/A = 5 2 4 2 3 2
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+C9 = X 3 5 5 3 3
+Cm7 = X 3 5 3 4 3
+Cm7/Bb = 6 3 5 3 4 3
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+Dsus4 = X X 0 2 3 3
+E = 0 2 2 1 0 0
+E9 = 0 2 4 1 0 0
+Eb/F = X 8 8 8 8 X
+Eb9 = X 6 8 8 6 6
+Eb9/F = X X 3 3 4 1
+Em7 = 0 2 2 0 3 0
+Esus4 = 0 2 2 2 0 0
+F#m7 = 2 X 2 2 2 X
+F/A = 5 X 3 5 6 X
+F9 = 1 3 5 2 1 1
+Fsus4 = 1 3 3 3 1 1
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G6/B = 7 5 5 7 5 X
+G9 = 3 X 0 2 0 X
+G9/B = 7 X X 7 8 5
+Gb9 = 2 4 6 3 2 2
+Gb9/Eb = X 6 X 6 7 4
+Gsus4 = 3 5 5 5 3 3
+Gsus4/D = X X 0 5 3 3

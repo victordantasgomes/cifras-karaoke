@@ -1,0 +1,66 @@
+@titulo: tanto-assim
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Tanto Assim
+
+Intro 2x: A  F#m  D  E
+
+  A                 F#m
+Eu sei que tudo coopera
+    D                      E
+Para o bem dos que amam a Ti
+        C#m   F#m
+Mas meu coração
+   D             E
+Parece não entender
+            C#m  D
+Tua vontade oh Deus
+      C#m   E  D
+É boa e perfeita
+        C#m   F#m
+E eu não posso entender
+        D           E   A4 A    ind
+Como podes me amar tanto assim
+
+conversção (Bm C#m Dm)
+
+
+Dm                     G        A
+Tanto assim que não me deixa perecer
+Dm                     G        A
+Tanto assim que me renovas o viver
+          F#m    E
+Faz o novo em mim
+       D     E    A
+E me ama tanto assim
+
+
+Dm                     G        A
+Tanto assim que não me deixa perecer
+Dm                     G        A
+Tanto assim que me renovas o viver
+          F#m    E
+Faz o novo em mim
+
+
+       D     E    F
+E me ama tanto assim   3x
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

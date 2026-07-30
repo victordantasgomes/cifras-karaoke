@@ -1,0 +1,166 @@
+@titulo: ele-chegou
+@autor:
+@intérprete: Anderson Freire
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Anderson Freire - Ele Chegou
+
+[Intro] G  Em  F#/D  G  A9
+        Em  F#m7(11)  G  A9
+
+Primeira parte:
+            G                Bm7(11)
+Serpente cruel fez o homem cair
+              G                 A9
+Achou que venceu bem ali no jardim
+             G                        Bm7(11)
+O tempo avançou surgiram os heróis da fé
+             Em           F#m7 (11)    Bm
+Lutaram, romperam, mas o mal ficou de pé
+
+[Pré-Refrão]
+
+      Bm
+Mas uma  promessa ia se cumprir
+    G
+No ventre de uma mulher ia surgir
+  Em
+Uma  semente que a mão de Deus plantou
+
+F#m7(11)
+Era     Jesus, o salvador!
+Bm
+O  pecado estava sufocando a humanidade
+ G
+Mas a tal semente esmagaria a maldade
+    Em
+Chegou o nosso Herói despido de Sua glória
+   F#m7(11)                           G  A9
+O calcanhar ferido que mudou toda história
+
+[Refrão]
+
+        G
+Ele chegou... sem espada, sem escudo, Ele não tinha lança
+        Bm9
+Ele chegou...  pra estabelecer o reino com nova aliança
+           Em                                G
+Seu calcanhar foi ferido, a profecia se cumpriu
+                               Bm      Em     A9
+E a serpente que um dia tanto riu esmagada será
+
+        G
+Ele chegou... sem trono, sem coroa, sem cavalaria
+        Bm9
+E caminhou.. ao matadouro, o Seu sangue é o que valeria
+            Em
+Pra por um fim no erro que iniciou no jardim
+G
+  E agora diferente será!
+Bm                     Em              G       A9   Bm
+   O calcanhar ferido, a cabeça da serpente esma_gará!
+
+[Pré-Refrão]
+
+      Bm
+Mas uma  promessa ia se cumprir
+    G
+No ventre de uma mulher ia surgir
+  Em
+Uma  semente que a mão de Deus plantou
+F#m7(11)
+Era     Jesus, o salvador!
+Bm
+O  pecado estava sufocando a humanidade
+ G
+Mas a tal semente esmagaria a maldade
+    Em
+Chegou o nosso Herói despido de Sua glória
+   F#m7(11)                           G  A9
+O calcanhar ferido que mudou toda história
+
+[Refrão]
+
+        G
+Ele chegou... sem espada, sem escudo, Ele não tinha lança
+        Bm9
+Ele chegou...  pra estabelecer o reino com nova aliança
+           Em                                G
+Seu calcanhar foi ferido, a profecia se cumpriu
+                               Bm      Em     A9
+E a serpente que um dia tanto riu esmagada será
+
+        G
+Ele chegou... sem trono, sem coroa, sem cavalaria
+        Bm9
+E caminhou.. ao matadouro, o Seu sangue é o que valeria
+            Em
+Pra por um fim no erro que iniciou no jardim
+G
+  E agora diferente será!
+Bm                     Em              G       A9   Bm
+   O calcanhar ferido, a cabeça da serpente esma_gará!
+
+[Ponte]
+
+Bm
+   O Deus de paz, o Deus de paz, esmagará satanás
+G
+  Colocará, colocará aqui debaixo dos meus pés
+Em
+   Eu vou pisar, eu vou pisar com muita força, livre sou
+    F#
+Morreu o velho Adão, em Cristo, eu nasci
+Voltei à minha origem, estou de volta no jardim
+
+Bm
+   O Deus de paz, o Deus de paz, esmagará satanás
+G
+  Colocará, colocará aqui debaixo dos meus pés
+Em
+   Eu vou pisar, eu vou pisar com muita força, livre sou
+    F#
+Morreu o velho Adão, em Cristo, eu nasci
+Voltei à minha origem, estou de volta no jardim
+
+[Refrão]
+
+        G
+Ele chegou... sem espada, sem escudo, Ele não tinha lança
+        Bm9
+Ele chegou...  pra estabelecer o reino com nova aliança
+           Em                                G
+Seu calcanhar foi ferido, a profecia se cumpriu
+                               Bm      Em     A9
+E a serpente que um dia tanto riu esmagada será
+
+        G
+Ele chegou... sem trono, sem coroa, sem cavalaria
+        Bm9
+E caminhou.. ao matadouro, o Seu sangue é o que valeria
+            Em
+Pra por um fim no erro que iniciou no jardim
+G
+  E agora diferente será!
+Bm                     Em              G       A9   Bm
+   O calcanhar ferido, a cabeça da serpente esma_gará!
+Bm                     Em              G       A9   Bm
+   O calcanhar ferido, a cabeça da serpente esma_gará!
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+Bm7(11) = 7 X 7 7 5 X
+Bm9 = X 2 4 6 3 2
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#/D = X 5 4 3 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7(11) = 2 X 2 2 0 X
+G = 3 2 0 0 0 3

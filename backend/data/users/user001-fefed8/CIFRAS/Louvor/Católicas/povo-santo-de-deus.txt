@@ -1,0 +1,35 @@
+@titulo: povo-santo-de-deus
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Povo Santo de Deus
+
+    G       G7        C Am    D7        G
+Aleluia, Aleluia, Aleluia, Aleluia, Aleluia,
+    G       G7        C  Am    D7       G
+Aleluia, Aleluia, Aleluia, Aleluia, Aleluia.
+      Em                    Am
+Povo Santo de Deus, ergue a voz/
+       D7                G
+Vem o Verbo de Deus aclamar/
+         E                  Am
+Pois o Cristo Senhor vem a nós/
+      A7                   D7
+Para sempre no amor nos Salvar.
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

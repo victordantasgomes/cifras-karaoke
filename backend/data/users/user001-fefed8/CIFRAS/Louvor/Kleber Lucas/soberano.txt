@@ -1,0 +1,49 @@
+@titulo: soberano
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Soberano
+
+Intro.:  A  E/A  D/E  E/A
+
+          A        E/G#      F#m   F#m/E     D     G7/9      A  D/E
+SÓ TU ÉS DIGNO DE RECEBER A HONRA  O     LOUVOR E TODA ADORAÇÃO
+     F#m      F#m/F       F#m/E             D     G7/9   A  D/F#
+O DOMÍNIO DE TODAS  AS NAÇÕES   PERTENCE A TI REI     JESUS
+    E/G#   A        E/G#       F#m   F#m/E     D   G7/9       A  D/E
+SÓ TU  ÉS DIGNO DE RECEBER A GLÓRIA DE    RECEBER TODA EXALTAÇÃO
+       A               E/G#       F#m F#m/E   D           G7/9
+NÃO HÁ OUTRO DEUS TÃO DIGNO DE PODER  ENTRONIZADO NOS LOUVORES DE
+  A
+SIÃO
+
+D/F#     E/G#  A    E/G#             F#m
+TU   ÉS SOBE__RANO, ÉS   UM DEUS TREMENDO
+F#m/E       D           A/C#     Bm          E
+E     TODA TERRA ESTÁ CHEIA DA GLÓRIA DO SENHOR
+E/G#     A    E/G#             F#m
+ÉS  SOBERANO, ÉS   UM DEUS TREMENDO
+F#m/E        D/F#           A/C#     Bm    D/E     A
+E      TODA TERRA ESTÁ CHEIA DA GLÓRIA DO   SENHOR
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+F#m/E = X X 2 2 2 2
+F#m/F = X X 3 2 2 2
+G7/9 = 3 X 3 2 0 X

@@ -1,0 +1,64 @@
+@titulo: eu-quero-ir-alem
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Eu Quero Ir Além
+
+Intro 2x: Em  C  G  D4
+
+G C9 Am7
+Livra-me do peso da minha alma
+D4
+Dá-me Tuas asas
+G C9 Am7
+Livra-me dos medos da minha alma
+D4
+Dá-me Tuas asas
+
+Em C G Bm7
+Eu quero ir além, leva-me em Tuas asas que eu vou
+Em C G D
+Eu quero ir além, leva-me em Tuas asas que eu vou
+Em C G
+Dá-me Tua graça, Teus passos, Tua glória
+G D
+Tua vida, Teus caminhos
+Em C
+Dá-me Tua graça, Teu toque,
+
+G D
+Tua vida, Teus segredos
+
+Em C
+Abre os céus Senhor, abre os céus Senhor
+G F#
+Sobre mim, sobre mim
+Em C
+Mais de Ti Senhor, move os céus Senhor
+G D
+Sopra em mim, eu quero ir
+
+Em C G
+Se os Teus anjos vierem aqui comigo, eu vou bailar
+D Em
+Se os Teus anjos vierem aqui comigo, eu vou dançar
+C G D
+Se os Teus anjos vierem aqui comigo, me derramarei
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

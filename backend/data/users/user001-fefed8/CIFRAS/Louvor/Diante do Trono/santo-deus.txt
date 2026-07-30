@@ -1,0 +1,87 @@
+@titulo: santo-deus
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Santo Deus
+
+G      G7M G   G7M                    C9
+QUANDO  ENTRO  EM  TUA  PRESENÇA
+
+G/B  Bm7     G/B        Bm7                 C       G/B
+E   CON  - TEM  -  PLO   A  TUA  GLÓRIA
+
+Am          Am7         C7M                       Bm7     C9
+ME  ESVAZIO  E  ME  PROSTRO  AOS  TEUS  PÉS
+
+G     G7M    G   G7M           C9
+OS  TEUS  OLHOS  ME  CONSOMEM
+
+G/B   Bm7      G/B  Bm7          C      G/B
+COM  TEU  IN - FI - NITO  AMOR
+
+Am        Am7                  C7M
+TEU  PERDÃO  ME  RESTAUROU
+
+                      F  /F  /G   Am    Am/E    D
+PRA  O  TEU  LOUVOR
+
+
+C/D      G     C9/G
+SANTO  DEUS
+
+         Bm7    D/E      E/G#
+SANTO  DEUS
+
+       Am7      Bm7            C9
+TUA  GLÓRIA  ENCHE  A  MINHA  VIDA
+
+          A/C#                   C/D      D
+E  TRANSFORMA  O  MEU  VIVER
+
+C/D      G  (G A B)     C9/G
+SANTO  DEUS
+
+         Bm7    D/E    E
+SANTO  DEUS
+
+           Am7         Bm7                C9     D/F#
+NÃO  HÁ  OUTRO  IGUAL  A  TI,  SENHOR
+
+           Em       A9/C#     C6      D
+TU  ÉS  DIGNO  DE  LOUVOR
+
+C/D                   G
+SANTO  É  O  SENHOR
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9/C# = X 4 2 2 0 X
+Am = X 0 2 2 1 0
+Am/E = 0 X 2 2 1 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+C6 = 8 X 7 9 8 X
+C7M = X 3 2 0 0 X
+C9 = X 3 5 5 3 3
+C9/G = 3 X 5 5 3 3
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7M = 3 X 4 4 3 X

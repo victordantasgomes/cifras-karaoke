@@ -1,0 +1,89 @@
+@titulo: eu-tou-tentando
+@autor:
+@intérprete: Kid Abelha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kid Abelha - Eu Tou Tentando
+
+George Israel / Paula Toller
+
+[Intro:] B F# A E
+
+sólo-intro
+
+E|-----------------------------------------------------------------|
+B|--4---2--------------4---2---------------------------------------|
+G|----------4----------------------------6--4--6--4--------6--4----|
+D|-----------------------------4-----------------------------------|
+A|---------------------------------------------------------------7-|
+E|-----------------------------------------------------------------|
+
+Eu tou tentando largar o cigarro
+                               F#
+Eu tou tentando remar meu barco
+                                A
+Eu tou tentando armar um barraco
+                                  E
+Eu tou tentando não cair no buraco
+
+
+Eu tou tentando tirar o atraso
+Eu tou tentando te dar um abraço
+Eu tou penando pra driblar o fracasso
+Eu tou brigando pra enfrentar o cagaço
+
+(sólo-intro)
+
+Eu tou tentando ser brasileiro
+Eu tou tentando saber o que é isso
+Eu tou tentando ficar com Deus
+Eu tou tentando que ele fique comigo
+
+Eu tou fincando meus pés no chão
+Eu tou tentando ganhar um milhão
+Tou tentando ter mais culhão
+Eu tou treinando pra ser campeão
+
+C#m      C#m/B   E
+Eu tou tentando ser feliz
+C#m      C#m/B  F#
+Eu tou tentando te fazer feliz
+
+(sólo-intro)
+
+Eu tou tentando entrar em forma
+Eu tou tentando enganar a morte
+Eu tou tentando ser atuante
+Eu tou tentando ser boa amante
+
+Eu tou tentando criar meu filho
+Eu tou tentando fazer meu filme
+Eu tou chutando pra marcar um gol
+Eu tou vivendo de roquenrol
+
+Solo: C#m F#
+
+Refrão.
+
+(sólo c/ efeito)
+
+E|------------7~6---6~6~6-------------7~6~9----------|
+B|--9~9~9~9~~9----9--------9~9~9~9~~9---------7~7----|
+G|---------------------------------------------------|
+D|---------------------------------------------------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+C#m/B = 7 X 6 6 5 X
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2

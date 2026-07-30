@@ -1,0 +1,78 @@
+@titulo: dia-feliz
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Dia Feliz
+
+(intro)   C    F/C    C    F/C    C/E   F   Am    F/G
+
+C
+Da história o grande dia
+F                       Am
+venceu a morte e me resgatou
+Am                 F
+Cantarei, Jesus vivo está
+C
+Do sepulcro ele saiu
+F                   Am
+Vida eterna Ele conquistou
+Am                F
+Cantarei Jesus vivo está
+      G
+Vivo está
+
+(refrão)
+C    F      Am
+Oh Dia feliz, tão feliz
+   G
+Meu coração lavou
+
+C     F        Am
+Dia feliz, tão feliz
+   G       C     F    Am
+Minha história Ele mudou
+   G            C/E   F Am G
+Minha história Ele mudou
+
+C
+Confiando em teu amor
+F                        Am
+Me achego a Ti, pois livre sou
+Am                     F
+Tu és meu, Cristo eu sou teu.
+C
+Alegria e paz se fim.
+F                       Am
+Todo o pranto em breve cessará
+Am                 F
+Bradarei, Jesus vivo está
+     G
+Vivo está
+
+Am             Em
+Oh glorioso dia
+         F
+Gloriosamente
+    C
+Tu me salvaste
+Am        Em
+Oh glorioso dia
+             F C
+Glorioso nome
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F/C = X 3 3 2 1 1
+F/G = 3 X 3 2 1 X
+G = 3 2 0 0 0 3

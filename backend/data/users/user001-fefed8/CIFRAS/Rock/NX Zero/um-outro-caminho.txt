@@ -1,0 +1,109 @@
+@titulo: um-outro-caminho
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nx Zero - Um Outro Caminho
+
+::INTRODUÇÃO::
+guitarra base (Am, F, G) 3x
+
+GUITARRA SOLO:
+
+SOLO 1 (REPETIR 2X)
+g|-4--5--7--9--9/-12--10-10-10-10---10-10-10-10----
+D|-x--x--x--x--x/--x--x--x--x--x----x--x--x--x-----
+A|-2--3--5--7--7/-10--8--8--8--8----8--8--8--8-----
+E|-------------------------------------------------
+
+g|-9-9-9-9--7-7-7-7--------------------------------
+D|-x-x-x-x--x-x-x-x--------------------------------
+A|-7-7-7-7--5-5-5-5--------------------------------
+E|-------------------------------------------------
+
+SOLO 2 (1 VEZ)
+g|-9-9-9-9--9-9-9-9--9-9-9-9---9-9/-12--10-10-10-10-
+D|-x-x-x-x--x-x-x-x--x-x-x-x---x-x/--x--x--x--x--x--
+A|-7-7-7-7--7-7-7-7--7-7-7-7---7-7/-10--8--8--8--8--
+E|--------------------------------------------------
+
+
+g|-10-10-10-10--9-9-9-9--7-7-7-7-------------------
+D|-x--x--x--x---x-x-x-x--x-x-x-x-------------------
+A|-8--8--8--8---7-7-7-7--5-5-5-5-------------------
+E|-------------------------------------------------
+
+Am         F            G
+Por quanto tempo eu tentei
+Am                             F          G
+Ter palavras pra dizer sobre o que a vida é
+
+F                      G
+Hoje parei pra pensar,preciso entender
+Am
+e desisti de procurar
+F                   G
+um motivo, uma razão
+G#
+Para tudo que acontece
+
+na minha vida agora
+
+(REFRÃO)
+Am          F       C              G
+Não há quem possa dizer que a vida nunca é
+Am          F            C         G
+tão certa. Talvez possa buscar um outro caminho
+
+(Am, F,  G) 2x
+SOLO 1 (1 VEZ)
+SOLO 2 (1 VEZ)
+
+Am         F        G
+Por quanto tempo vou fugi,
+Am                                      F         G
+controlar meus sentimentos não é a solução pra mim
+
+F                     G
+Hoje parei pra pensar, não preciso entender
+Am
+e desisti de procurar
+F                   G
+um motivo, uma razão
+G#
+Para tudo que acontece
+
+na minha vida agora
+
+REPETE REFRÃO
+
+Am         F          G
+Então abra seus olhos
+Am           F              G
+Não pense no que deve sentir
+     Am       F
+para evitar sofrer
+G              Am     F           G
+A vida não vai esperar seu sonho se realizar
+
+REPETE REFRÃO
+
+Am       F
+Na minha vida agora
+C        G
+na minha vida agora
+
+Am, F, C, G
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

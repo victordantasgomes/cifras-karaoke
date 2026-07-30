@@ -1,0 +1,75 @@
+@titulo: nocaute(simplificada)
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Nocaute
+
+Intro: Am  F  C  G
+
+   Am
+E|-----0-0-------------------------|
+B|-----1-1-------------------------|
+G|-----0-0---------0~----0h2-0-----|
+D|-----2-2-------2---0h2-------0---| 
+A|-0~-------0h2-3------------------|
+E|---------------------------------|
+
+     Primeira Parte:
+      Am7
+Olha aí, o mundo girando
+                   C
+E a gente se esbarrando outra vez
+         Am7
+Olha aí,     o meu coração
+                 C
+Indo contra a razão sentimento
+
+Pré Refrão:
+
+
+          Dm
+Não se desfez recaí
+          F
+quando te vi,
+                 G
+A paixão veio a tona
+        Dm
+Fui a nocaute, beijei a lona,
+      F        G
+O meu corpo tremeu
+   F               G
+O tempo passou, a vida mudou,
+F                   G
+Mas eu continuo seu..
+
+Refrão:
+
+             Dm
+Ainda sou o mesmo,
+               F
+Bobo Apaixonado
+               C
+Se eu estou errado,
+                G
+Não quero nem saber,
+                Dm
+Eu só sei que a vida
+              F       C        G        (Dm F C G Am F C G)
+É mais colorida com você, com você, iê iê
+
+(Repete Tudo)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

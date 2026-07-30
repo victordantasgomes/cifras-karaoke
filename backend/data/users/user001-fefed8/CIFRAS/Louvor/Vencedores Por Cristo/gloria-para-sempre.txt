@@ -1,0 +1,51 @@
+@titulo: gloria-para-sempre
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Glória Para Sempre
+
+Intro: E
+
+E       C#m     F#m        B
+Glória pra sempre ao cordeiro de Deus, 
+   E    C#m     F#m    B
+A Jesus o Senhor ao Leão de Judá, 
+   E     C#m     F#m    B        E  B
+A raiz de Davi que venceu e o livro abrirá. 
+
+ E   A   B    E
+O céu a terra e o mar, 
+ E    C#m      D  B
+E tudo o que neles há, 
+ E  E7   A     Am
+O adorarão e confessarão, 
+  E C#m     F#m   B   E  A E
+Jesus Cristo é   o Senhor. 
+
+       F#m  B         E
+Ele é o Senhor,  Ele é o Senhor, 
+   E         C#m           D   B
+Ressurreto dentre os mortos Ele é o Senhor, 
+   E         E7
+Todo joelho se dobrará, 
+   A         Am
+Toda língua confessará, 
+  E   C#m    F#m    B    E A E
+Que Jesus Cristo é    o Senhor.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

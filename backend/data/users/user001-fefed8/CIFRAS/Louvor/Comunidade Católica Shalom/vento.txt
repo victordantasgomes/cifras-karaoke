@@ -1,0 +1,29 @@
+@titulo: vento
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - Vento
+
+ D                Bm
+Sopra vento impetuoso
+             G    Em            A
+Amor tão bondoso,     força de Deus
+              D               D/F#
+Envolve-me inteiro, amor verdadeiro
+          G     Em              A       D
+Espírito Santo,       força de Deus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

@@ -1,0 +1,39 @@
+@titulo: cancao-da-alegria
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Canção da Alegria
+
+    E       B/D#              C#m7                A9
+Eu poderia cantar sem parar de como salvastes meu ser
+    E       B/D#                      C#m7          A9
+Eu poderia dançar por mil milhas por causa do teu amor
+        E                B/D#
+        E explodindo estou para anunciar tua glória
+        C#m7                A9           B9
+        Pois me mudaste, apagastes meu passado
+        E               B/D#
+        Eu bradarei Senhor por onde eu correr
+        C#m7                     A9          B9
+        Pois sei que Deus não é contra mim, mas é por mim
+A9                        E      A9                        E
+Cantem todos junto com alegria, dancem todos juntos com alegria,
+F#m7                    A9
+Queremos ver sua face sorrindo para nós
+F#m7                 A9
+e os anjos celebrando pois chegou a alegria
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B/D# = X 6 X 4 7 7
+B9 = X 2 4 4 2 2
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X

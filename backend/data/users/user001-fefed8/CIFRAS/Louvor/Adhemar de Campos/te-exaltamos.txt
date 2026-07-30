@@ -1,0 +1,44 @@
+@titulo: te-exaltamos
+@autor:
+@intérprete: Adhemar de Campos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Adhemar de Campos - Te Exaltamos
+
+        D
+Te exaltamos
+        A
+Te exaltamos
+          D  G  A
+Te exaltamos
+D   A  D
+oh Senhor
+
+        D
+Te exaltamos
+        A
+Te exaltamos
+          D  G  A  B
+Te exaltamos
+
+        E
+Te exaltamos
+        B
+Te exaltamos
+          A  B
+Te exaltamos
+          E
+Oh Senhor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3

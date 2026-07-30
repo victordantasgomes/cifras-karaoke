@@ -1,0 +1,87 @@
+@titulo: aleluia-a-luta-continua
+@autor:
+@intérprete: Gabriela Rocha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gabriela Rocha - Aleluia, a Luta Continua
+
+[Intro] B  E9  F#  G#m  E9  F#  B
+
+E        F#           Ebm          G#m
+Há uma palavra que se diz no mundo inteiro
+     E        F#           Ebm         G#m
+Traduz um sentimento puro, santo, verdadeiro
+     E         F#           Ebm          G#m
+Na hora mais difícil quando tudo está perdido
+   C#m                  F#          B     F#
+Dá glória ao Senhor e derrota o inimigo
+
+    B            F#
+Aleluia,  ô  aleluia
+   G#m                      Ebm
+Aleluia, porque a luta continua
+    E             F#         Ebm         G#m
+Aleluia, vai em frente, no final a gente vence
+    C#m           F#        B    F#
+Aleluia, porque a luta continua
+
+      E          F#           Ebm         G#m
+Nessa hora de agonia quando a noite é tão fria
+
+      E              F#        Ebm        G#m
+A tristeza invade a alma e não amanhece o dia
+     E            F#        Ebm           G#m
+E parece não ter jeito essa dor dentro do peito
+    C#m           F#        B    F#
+Aleluia, porque a luta continua
+
+    B            F#
+Aleluia,  ô  aleluia
+   G#m                      Ebm
+Aleluia, porque a luta continua
+    E             F#         Ebm         G#m
+Aleluia, vai em frente, no final a gente vence
+    C#m           F#        B
+Aleluia, porque a luta continua
+
+E                    G#m
+É que a gente não se rende
+E                      G#m
+Não se entrega, não se vende
+E                  G#m
+Mesmo a vida sendo dura
+                    C#
+Nos momentos de amargura
+                   F#   G
+Deus, eu canto aleluia
+
+    C            G
+Aleluia,  ô  aleluia
+   Am                       Em
+Aleluia, porque a luta continua
+    F             G          Em          Am
+Aleluia, vai em frente, no final a gente vence
+    Dm             G         C   G
+Aleluia, porque a luta continua
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E9 = 0 2 4 1 0 0
+Ebm = X X 1 3 4 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

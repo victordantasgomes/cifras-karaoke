@@ -1,0 +1,66 @@
+@titulo: consagracao(simplificada)
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Consagração
+
+[Intro] A  A4  A  A4
+
+    A              E      Em        D
+Ao rei dos reis consagro tudo o que sou
+  Dm                     A            E
+De gratos louvores transborda o meu coração
+  A          E          Em                 D
+A minha vida eu entrego nas Tuas mãos meu Senhor
+Dm          A               E
+Pra Te exaltar com todo o meu amor
+A           E             Em     D
+Eu Te louvarei conforme a Tua justiça
+  Dm           A            Bm        E
+E cantarei louvores, pois Tu és altíssimo
+
+     D       E                    F#m
+Celebrarei a Ti oh, Deus, com meu viver
+      D          E          A
+Cantarei e contarei as Tuas obras
+A          D        E             C#          F#m
+Pois, por Tuas mãos foram criados terra,céu e mar
+
+       D    E         F#
+E todo ser que neles há
+
+      D             E         A         F#m
+Toda terra celebra a Ti com cânticos de júbilo
+        D      E      A
+Pois Tu és um Deus criador
+
+A        A4   A   A4
+Criado   oo  oor
+A        A4   A   A4
+Criado   oo  oor
+
+    A         E       F#m       C#m           D
+A honra, a glória, a força e o poder ao rei Jesus
+      Bm              G            E
+E o louvor ao        rei          Jesus!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+Bm = X 2 4 4 3 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

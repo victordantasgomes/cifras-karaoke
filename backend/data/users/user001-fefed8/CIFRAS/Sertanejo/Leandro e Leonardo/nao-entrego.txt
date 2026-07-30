@@ -1,0 +1,64 @@
+@titulo: nao-entrego
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - Não Entrego
+
+Intro:(F#m D A E)4 VEZES  A
+  VOCALIZAÇÃO:Aaaaa...
+
+          A            F#m    E               D
+    Não entrego , você pode pedir que eu não dou
+          Bm           Bm/A        E7         A        D E7
+    As lembranças,meus sonhos de amor , vão ficar aqui
+          A              F#m        E         D
+    Não entrego , nossos beijos,nem nossa paixão
+            Bm         Bm/A   E7               A
+    Vou guardar dentro do coração , tudo o que eu vivi
+          Bm                E7         C#m                 F#m
+    As mentiras você pode levar , suas roupas,seu medo de amar
+            Bm                 E7                A
+    Feche a porta,não olhe pra trás , não me procure mais
+   F                                    A
+  * As histórias de amor sempre acabam iguais
+   F                                   A
+    Deixam sempre na gente profundos sinais
+                 D             E7
+    Não posso deixar você me tirar
+
+                  F#m               D
+    O brilho que ainda eu tenho no olhar
+                 Bm                 E7                 A
+    Te dou meu sorriso,em troca das vezes , que me fez chorar
+                 D              E7
+    Não posso deixar você me roubar
+               F#m                    D
+    Só tem uma coisa que eu posso te dar
+                Bm                E7
+    É minha tristeza em ver que você
+                    A
+    Nunca soube me amar
+  INTRODUÇÃO
+  REPETE DESDE *
+          F#m   D      A              E
+   |Não entrego , pode ir que eu não dou                   |
+   |      F#m   D          A         E               F#m   |bis
+   |Não entrego , nossa história de amor , não,não entrego |
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2

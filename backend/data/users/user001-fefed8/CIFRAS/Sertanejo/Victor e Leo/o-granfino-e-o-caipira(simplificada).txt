@@ -1,0 +1,100 @@
+@titulo: o-granfino-e-o-caipira(simplificada)
+@autor:
+@intérprete: Victor e Leo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Victor e Leo - O Granfino e o Caipira
+
+(intro) G D Em D
+
+(parte 1)
+                                 G
+Sou um homem da cidade
+                                                              C
+To chegando de viagem, vim buscar
+                     Am             C
+Minha moça, meu amor
+               Am                    C           G    D
+A mais linda desse interior
+                              G
+Sei que aqui há um caipira
+                                                                C
+Que os seus olhos não tira da princesa
+                             Am
+Mas eu chego de carrão
+   C                             Am             C      G
+Mostro o bolso e levo o seu coração
+
+(parte 2)
+
+F#m                      Bm                                     G
+           Sou o tal caipira que o granfino falou
+                          Em       G
+Não escondo a questão
+                    Em                       G      D       F#
+A moça é dona do meu coração
+              Bm                                                G
+Ele acha que o dinheiro compra o amor
+                           Em               G
+Mas se fosse fácil assim
+                 Em               G         D
+A moça nem olhava para mim
+
+(refrão)
+                                      A
+Enquanto a gente briga por alguém
+                Bm
+A gente fica sem ninguém
+                                    A                                    G               A      D
+Apronta e insiste mas no fim das contas a moça desiste
+
+(base do solo - mesmos acordes do refrão)
+
+                         G
+Vou fazer de tudo um pouco
+                                                      C
+Já estou ficando louco de desejo
+                          Am
+Pus o terno e a gravata
+ C                       Am                             C                     G  D
+(já) Falei com os seus pais mas deu em nada
+                    G
+Ô caipira, dá um tempo
+                                                           C
+Desse jeito não agüento a insistência
+                            Am   C
+Só por causa de você
+         Am                   C           G
+Ela não decide o que vai ser
+
+F#m               Bm                                                     G
+          Ô granfino, o nosso caso não tem solução
+                     Em      G
+Ela gosta de cowboy
+                           Em                 G       D     F#m
+Com bota , espora e pinta de herói
+                  Bm                                     G
+Vou selar o meu cavalo e dizer adeus
+                          Em       G
+Em seu lugar ia também
+                      Em                                   G           D
+Em busca de quem só lhe queira bem
+
+(repete refrão)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 3 3

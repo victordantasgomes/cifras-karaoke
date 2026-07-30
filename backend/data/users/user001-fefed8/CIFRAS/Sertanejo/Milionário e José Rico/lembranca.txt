@@ -1,0 +1,94 @@
+@titulo: lembranca
+@autor:
+@intérprete: Milionário e José Rico
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Milionário e José Rico - Lembrança
+
+D      D6                 B7      Em   Em7M
+  Lembrança, por que não foge de mim?
+  A7                 A7/4       D   D5+
+Ajude a arrancar do peito esta dor!
+  D6             D5+       A7   A7/4
+Afaste meu pensamento e o seu,
+     A7           A7/4      D    D5+
+Porque vamos reviver este amor!
+  D6           B7        Em    Em7M
+Amando, nós padecemos iguais
+    A7               A7/4    D   D5+
+Eu tenho o meu lar e ela também!
+    D6              D5+        A7   A7/4
+É triste ser prisioneiro e sofrer,
+   A7               A7/4     D    D7/9
+Sabendo que a liberdade não tem!
+
+ G9
+Vai,
+            A7        D   D5+
+Lembrança, não volte mais
+
+ D6                  A7  A7/4
+Para acalmar os meus ais
+ A7              D    D7/9
+Deste dilema de dor!
+ G9
+Vai,
+          A7       D   D5+
+Para bem longe de mim
+  D6               A7  A7/4
+Não posso viver assim,
+ A7                  D    D5+  D6  D5+
+Devo esquecer este amor!
+
+     D6          B7         Em   Em7M
+Lembrança, imaginaste o que é
+    A7              A7/4      D   D5+
+Distantes dois corações palpitar,
+    D6             D5+        A7   A7/4
+Querendo juntos viver, sem poder,
+    A7               A7/4     D    D5+
+Com outra ter que viver sem amar?
+    D6              B7         Em   Em7M
+Enquanto você, lembrança, não for,
+  A7            A7/4     D   D5+
+É esse nosso dilema sem fim,
+    D6            D5+       A7   A7/4
+Pensando nela eu vivo a sofrer
+  A7             A7/4      D    D7/9
+E ela também sofrendo por mim.
+
+ G9
+Vai,
+            A7        D   D5+
+Lembrança, não volte mais
+ D6                  A7  A7/4
+Para acalmar os meus ais
+ A7              D    D7/9
+Deste dilema de dor!
+ G9
+Vai,
+          A7       D   D5+
+Para bem longe de mim
+  D6               A7  A7/4
+Não posso viver assim,
+ A7                  D    D5+  D6  D5+  D7M
+Devo esquecer este amor!
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7/4 = X 0 2 0 3 0
+B7 = X 2 1 2 0 2
+D = X X 0 2 3 2
+D5+ = X 5 4 3 3 X
+D6 = X 5 4 2 0 X
+D7/9 = X 5 4 5 5 X
+D7M = X X 0 2 2 2
+Em = 0 2 2 0 0 0
+Em7M = X X 2 4 4 3
+G9 = 3 X 0 2 0 X

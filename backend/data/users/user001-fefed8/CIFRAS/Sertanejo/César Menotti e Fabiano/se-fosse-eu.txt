@@ -1,0 +1,108 @@
+@titulo: se-fosse-eu
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Se Fosse Eu
+
+Intro: D Em D/F# G D A Em D/F# G D A7
+
+E|--14-12-10-----14-12-10-------------------------------------|
+B|----------12-----------12--12-12-14-15-15-10-10-10-8-7------|
+G|------------------------------------------------------9-----|
+D|------------------------------------------------------------|
+A|------------------------------------------------------------|
+E|------------------------------------------------------------|
+
+2ª Parte
+
+E|-14-12-10-----14-12-10--------------------14-14-14-12-10-12-|
+B|----------12----------12--12-12-14-15-15--------------------|
+G|------------------------------------------------------------|
+D|------------------------------------------------------------|
+A|------------------------------------------------------------|
+E|------------------------------------------------------------|
+
+          D
+Se fosse eu,
+                                   A
+Não faria as coisas que esse cara faz
+
+                            Bm
+Andava na linha, te curtia mais
+         G            A
+A prioridade era só você
+         D
+Se fosse eu,
+                                A/C#
+Faria questão de andar de mãos dadas,
+                          Bm
+Pra fazer inveja na rapaziada
+                            F#m
+Me orgulhava tanto de te merecer
+         Em
+Se fosse eu,
+                 D/F#    G
+Minha alegria era te alegrar
+                               D
+Não tinha tristeza nesse seu olhar
+                                  A
+Me virava em dois pra te fazer sorrir
+         Em
+Se fosse eu
+                        D/F#     G
+Contava os segundos pro fim de semana
+                        D
+Te levava numa balada bacana
+                                A
+Pra ficar juntinhos pra se divertir
+         G/B   A/C#  A7
+Se fosse eu...
+
+D          A/C#  Bm
+Pensa direito, respira fundo,
+     G                          A        D/A    A7
+Vou fazer de você a mulher mais feliz do mundo
+D          A/C#  Bm        Bm/A
+Pensa direito, fica comigo,
+     G                          A          D
+Meu amor é muito grande pra ser só seu amigo
+
+(Repete tudo)
+
+D#         Bb/D  Cm
+Pensa direito, respira fundo,
+     G#                                  D#/Bb     Bb7
+Vou fazer de você a mulher mais feliz do mundo
+D#         Bb/D  Cm        Cm/Bb
+Pensa direito, fica comigo,
+     G#                         Bb      G#     D#
+Meu amor é muito grande pra ser só seu amigo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+Bb = X 1 3 3 3 1
+Bb/D = X 5 X 3 6 6
+Bb7 = X 1 3 1 3 1
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+Cm = X 3 5 5 4 3
+Cm/Bb = X 1 1 0 1 X
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D#/Bb = X X 8 8 8 6
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G/B = X 2 0 0 3 3

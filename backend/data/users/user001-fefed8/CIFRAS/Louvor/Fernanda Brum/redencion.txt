@@ -1,0 +1,71 @@
+@titulo: redencion
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Redención
+
+G#m           B
+Vivo estoy
+          F#         D#m     C#    D#m   C#
+Por que un día el murió por mi
+G#m         B          F#        D#m    C#   D#m   C#
+Libre estoy por que un día condenado fui
+C#     F#        G#             Bbm
+El mismo se entrego y decidió morir
+        G#
+Fue por mi
+D#       G#            Bb
+Toda iniquidad el llevo
+             Cm   Cm  Bbm        G#
+Mi deuda el pago, me amo, redimió
+
+C#m            A
+Todo fue por mi
+E               B
+Derramo su sangre
+C#m       A      E         B
+No esta allí, el ya resucito
+
+C#m          A      E                  B
+Sangre carmesí derramo su vida en mi
+        C#m Bb   G#   F#m   (solo)
+Nadie tuvo amor así
+
+Vivo estoy...
+
+C#m           A        E          B
+Todo fue por mi derramo su sangre
+D#m      Bb     F#       C#
+No esta allí, el ya resucito
+D#m        Bb       F#               C#
+Sangre carmesí derramo su vida en mi
+       D#m C#   Bb   G# Fm
+Nadie tuvo amor así
+D#m       Bb       D#m       Bb       D#m       Bb
+El vive El vive El vive El vive No está muerto El vive
+D#m           Bb
+Todo fue por mi...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+Bbm = X 1 3 3 2 1
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+Cm = X 3 5 5 4 3
+D# = X 6 5 3 4 3
+D#m = X X 1 3 4 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+Fm = 1 3 3 1 1 1
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,98 @@
+@titulo: tao-bem
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - Tão Bem
+
+[Intro]  C9  Em  F  Bb9  B9
+
+C9                   Em
+Ela me encontrou, eu estava por aí
+       F                  Bb9  B9  C9
+Num estado emocional tão ruim
+       Em          F   Bb9   B9   C9
+Me sentindo muito mal
+    Em
+Perdido, sozinho
+   F               Bb9  B9  C9
+Errando de bar em bar
+      Em       F     A   G
+Procurando não achar
+F               G
+Ela demonstrou tanto prazer
+   C            Em  F
+De estar em minha  companhia
+  F                   G
+Que Eu experimentei uma sensação
+      C            Em   F
+Que até então não conhecia
+
+
+          Dm
+De se querer bem
+    Em    F           G
+De se querer quem se tem
+
+
+          F       C           Em      F
+E ela me faz tão bem, ela me faz tão bem
+Dm                Em     C           Am G
+  Que eu também quero fazer isso por ela
+
+
+C9                   Em
+Ela me encontrou, eu estava por aí
+    F                 Bb9  B9  C9
+Num estado emocional tão ruim
+       Em          F   Bb9   B9   C9
+Me sentindo muito mal
+    Em
+Perdido, sozinho
+   F               Bb9  B9  C9
+Errando de bar em bar
+      Em       F     A   G
+Procurando não achar
+F               G
+Ela demonstrou tanto prazer
+   C            Em    F
+De estar em minha companhia
+  F                   G
+Que Eu experimentei uma sensação
+      C            Em   F
+Que até então não conhecia
+
+          Dm
+De se querer bem
+    Em    F           G
+De se querer quem se tem
+
+
+          F       C           Em      F
+E ela me faz tão bem, ela me faz tão bem
+Dm                Em     C           Am G
+  Que eu também quero fazer isso por ela
+          F       C           Em      F
+E ela me faz tão bem, ela me faz tão bem
+Dm                Em     C           Am   F  Ab  Bb  C
+  Que eu também quero fazer isso por ela
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Ab = 4 3 1 1 1 4
+Am = X 0 2 2 1 0
+B9 = X 2 4 4 2 2
+Bb = X 1 3 3 3 1
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

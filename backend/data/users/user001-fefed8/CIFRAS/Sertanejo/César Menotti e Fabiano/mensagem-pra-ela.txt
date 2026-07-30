@@ -1,0 +1,107 @@
+@titulo: mensagem-pra-ela
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Mensagem Pra Ela
+
+[Intro]  D  D9  D11  D
+
+ D         A7     G
+Mandei mensagem pra ela
+         D
+Ela não me respondeu
+           A7/C#
+Liguei no seu celular
+G/B          D/A  A7/C#
+A secretária atendeu
+   Bm7                 F#m9
+Resolvi abrir meu coração
+G                    D
+E falar tudo que eu senti
+    Em                  D
+Na verdade eu me apaixonei
+       A                A7
+Na primeira vez que eu te vi
+
+          D               A7/C#
+Vou te ligar, vou deixar recado
+
+               Bm
+Vou mandar mensagem
+               F#m               G
+Pois só desse jeito eu tive coragem
+            D/F#           A/E  A4
+De abrir o jogo nessa ligação
+      G                                   D
+Por quê, me deu a esperança de ficar com você
+                                  A
+Me deu o seu telefone se não ia atender
+                 G         A7      D
+Porque você brincou com o meu coração
+
+[Solo]  D  A/C#  G
+        B  A7  Bm  F#m  G  C  A/C#
+
+E|---------------------------------------------------|
+B|--2/3\2--------------------------------------------|
+G|--------4--2---2h4~-2--4-2-------------------------|
+D|-------------4-------------5-4--2-4h5~-5-7-5-5-7-7-|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+ Bm7               F#m9
+Resolvi abrir meu coração
+G                    D
+E falar tudo que eu senti
+    Em                  D
+Na verdade eu me apaixonei
+       A                A7
+Na primeira vez que eu te vi
+
+ D             A7/C#
+Vou te ligar, vou deixar recado
+            Bm
+Vou mandar mensagem
+               F#m               G
+Pois só desse jeito eu tive coragem
+            D/F#           A/E  A4
+De abrir o jogo nessa ligação
+ G                                        D
+Por quê, me deu a esperança de ficar com você
+                                     A
+Me deu o seu telefone se não ia atender
+              G            A7      D
+Porque você brincou com o meu coração
+
+( G  Gm/A#  D/A  G/A  D )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A4 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+A7/C# = X 4 5 2 5 X
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D11 = X 5 4 0 3 5
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+F#m9 = 2 4 6 2 2 2
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+Gm/A# = 6 5 5 3 X X

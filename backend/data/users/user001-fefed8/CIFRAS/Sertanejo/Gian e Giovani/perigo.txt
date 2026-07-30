@@ -1,0 +1,99 @@
+@titulo: perigo
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Perigo
+
+(intro) D   E/D   D   E/D
+
+D          E/D
+Nem quero saber
+      D
+Se o clima é prá romance
+        E/D
+Eu vou deixar correr
+D             E/D
+De onde isso vem?
+       D
+Se eu tenho alguma chance
+         E/D
+A noite vai dizer
+G            D/F#       E E4  E
+ Nisso todo mundo é igual
+G       D/F#           E  A
+Anjo do bem, gênio do mal
+
+(refrão)
+   D                      Bm7
+Perigo é ter você perto dos olhos
+
+                Em7     A
+Mas longe do coração
+D                          Bm7
+Perigo é ter você assim sorrindo
+                Em7      A
+Isso é muita tentação!
+    G                      Gm7
+Teus olhos, teu sorriso numa noite.
+
+(repete tudo)
+
+(intro) D   E/D   D   E/D
+
+G            D/F#       E E4  E
+ Nisso todo mundo é igual
+G       D/F#           E  A
+Anjo do bem, gênio do mal
+
+(refrão)
+   D                      Bm7
+Perigo é ter você perto dos olhos
+                Em7     A
+Mas longe do coração
+D                          Bm7
+Perigo é ter você assim sorrindo
+                Em7      Fm7      Bb
+Isso é muita tentação!
+
+Eb                          Cm7
+Perigo é ter você perto dos olhos
+                Fm7      Bb
+Mas longe do coração
+Eb                          Cm7
+Perigo é ter você assim sorrindo
+                Fm7      Bb
+Isso é muita tentação!
+    G#                      G#m7
+Teus olhos, teu sorriso numa noite.
+
+(refrão 1/2 acima)
+
+  Eb                Cm7  Fm7  Bb
+Perigo é ter você
+  Eb
+Perigo é ter você
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb = X 1 3 3 3 1
+Bm7 = X 2 4 2 3 2
+Cm7 = X 3 5 3 4 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E4 = 0 2 2 2 0 0
+Eb = X 6 5 3 4 3
+Em7 = 0 2 2 0 3 0
+Fm7 = 1 X 1 1 1 X
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#m7 = 4 X 4 4 4 X
+Gm7 = 3 X 3 3 3 X

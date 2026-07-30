@@ -1,0 +1,98 @@
+@titulo: um-certo-alguem
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nx Zero - Um Certo Alguém
+
+(intro)  A A7+ A9
+
+A        C#m      F#m
+ Quis evitar teus olhos
+                 G  Bm  G
+Mas não pude reagir
+           E
+ Fico à vontade então
+A        C#m     F#m
+ Acho que é bobagem
+               G    Bm    G
+A mania de fingir
+           E
+ Negando a intenção
+
+Bm              C#m   D
+  Quando um certo alguém
+    A           F#m
+Cruzou o teu caminho
+    C#m         E
+E mudou a direção
+
+
+( A A7+ )
+
+A          C#m     F#m
+ Chego a ficar sem jeito
+                     G   Bm   G
+Mas não deixo de seguir
+         E
+ A tua apa...rição
+
+Bm        C#m         D
+  Quando um certo alguém
+    A           F#m
+Desperta o sentimento
+     C#m           E
+É melhor não resistir
+           A
+E se entregar
+
+        F#m
+Me dê a mão
+    C#m             E        A
+Vem ser a minha estre...la
+         F#m
+ Complicação
+    C#m            E      A
+Tão fácil de entender
+          F#m
+ Vamos dançar,
+  C#m         E          A
+Luzir a madruga...da
+       F#m
+ Inspiração
+    C#m               E                 F#
+Pra tudo que eu vi...ver   Que eu vi...verrr  Ouh Ouh
+
+Bm               C#m  D
+  Quando um certo alguém
+    A           F#m
+Cruzou o teu caminho
+    C#m        E
+E mudou a direção
+
+Bm               C#m  D
+  Quando um certo alguém
+    A           F#m
+Desperta o sentimento
+     C#m           E
+É melhor não resistir
+           A                         F#m E D A (Repete a introdução)
+E se entregar ... E se entregaaar ..
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7+ = X 0 2 1 2 0
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

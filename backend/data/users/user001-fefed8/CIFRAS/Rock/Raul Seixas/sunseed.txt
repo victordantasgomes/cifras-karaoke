@@ -1,0 +1,94 @@
+@titulo: sunseed
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Sunseed
+
+Intro: D  D4  D9  G
+
+    D     D4 D D9 D     D4 D D9 D D9 D   G
+E|-2-2-2--3-2-0--2-2-2--3-2-0--2-0-2/---------------------------|
+B|-3-3-3--3-3-3--3-3-3--3-3-3--3-3-3/---------------------------|
+G|-2-2-2--2-2-2--2-2-2--2-2-2--2-2-2/---------------------------|
+D|-0------0------0------0------0--------------------------------|
+A|--------------------------------------------------------------|
+E|--------------------------------------3-----------------------|
+
+    D     D4 D  D D9
+E|-2-2-2--3p2--2p0----------------------------------------------|
+B|-3-3-3--3-3--3-3----------------------------------------------|
+G|-2-2-2--2-2--2-2----------------------------------------------|
+D|-0-0-0--0-0--0-0----------------------------------------------|
+A|--------------------------------------------------------------|
+E|--------------------------------------------------------------|
+
+G                     A      G
+You were born at the ending
+                     A    G
+As the curtain came down
+
+                    F#m                     G
+I can see you're confused girl but it's all right
+               D D4 D D D9
+It's only the chimes
+             A
+Announcing a new time
+            G
+You see now
+                        A       G
+Boats are cruising the deserts
+                       A       G
+Oceans cracked by the heat
+                    F#m
+People drowning in raindrops
+             G
+But it's all right
+              D D4 D D D9
+It's not a defeat
+              A
+Stand on your own feet
+      Em                   G
+Right now the sun doesn't shine
+                F#m
+He's loaded on wine
+       Em                   G
+Though I can laugh in the storm
+              F#m
+Bacause I was born
+         G
+When the sun used to
+Gm6       D D4 D D D9
+Shine in June
+
+Solo: G  A  G  A  F#m  G  D  A7
+
+      Em                   G
+Right now the sun doesn't shine
+                F#m
+He's loaded on wine
+       Em                   G
+Though I can laugh in the storm
+              F#m
+Bacause I was born
+         G
+When the sun used to
+Gm6       D9 D D9 D
+Shine in June
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+Gm6 = 3 X 2 3 3 X

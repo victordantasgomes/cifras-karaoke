@@ -1,0 +1,70 @@
+@titulo: dia-d
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Fernando e Sorocaba - Dia D
+
+Capo Casa 1
+
+intro: Am F C G
+       Am F C E
+
+Am
+Uma dose ao quadrado eu vou beber agora
+     F                           G
+Traz logo uma de whisky e uma de vodka
+     Am
+Se a galera chamou meu apelido é bora
+F                     G
+Bora tomar uma só se for agora
+                  Am
+Cê vai beber mais eu, ela vai beber também
+           G                                            Am
+Chama as amigas e até as inimigas que são mais bonitas, vem
+                                 G
+Cê vai beber mais eu, chama as amigas
+    Dm                    E/G#
+Não pode faltar mais ninguém
+
+[refrão]
+
+
+             Am
+Hoje é o dia d
+    F                    C
+De, de beber dose ao quadrado,
+    G               Am
+De, de amanhecer virado
+    F            E/G#
+De, hoje é o dia d
+                                     Am
+Dia Internacional de quem gosta de beber
+    F                     C
+De, de beber dose ao quadrado,
+    G              Am
+De, de amanhecer virado
+    F            E/G#
+De, hoje é o dia d
+                                      Am
+Dia Internacional de quem gosta de beber
+
+[intro]
+[repete tudo]
+[refrão 2x]
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+Am*  = X 0 2 2 1 0 - (*A#m na forma de Am)
+C*  = X 3 2 0 1 0 - (*C# na forma de C)
+Dm*  = X X 0 2 3 1 - (*D#m na forma de Dm)
+E*  = 0 2 2 1 0 0 - (*F na forma de E)
+E/G#*  = 4 X 2 4 5 X - (*F/A na forma de E/G#)
+F*  = 1 3 3 2 1 1 - (*F# na forma de F)
+G*  = 3 2 0 0 0 3 - (*G# na forma de G)

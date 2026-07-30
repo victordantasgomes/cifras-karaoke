@@ -1,0 +1,95 @@
+@titulo: para-ser-verao
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Para Ser Verão
+
+(intro) F# Bbm B C#
+
+F#7M           Bbm
+Foi você me olhar
+    B9               C#7
+Pra tudo mudar de repente
+F#7M          Bbm
+Foi o amor chegar
+    B                C#7
+Pra minha visão se abrir
+         D#m       D#m7M
+O que eu pude enxergar
+      D#m7               E/F#
+Nunca mais vou (me) esquecer
+         B9        G#m7
+Foi só o amor chegar
+               E          C#
+Para eu ter você na minha vida
+F#7M               Bbm
+Mais que um grande amor
+  B9                C#7
+Serei pra você seu abrigo
+
+F#7M         Bbm
+Ser o seu farol
+    G#m7                  C#7
+Pra nunca arriscar lhe perder
+      D#m       D#m7M
+Ser a noite que passou
+    D#m7             E/F#
+E o sol que vai chegar
+          B9
+Ser o seu despertar
+G#m7             E  C#
+(O) seu de manhã
+     F#
+Cada vez que um olhar se encontra
+   B                     G#m7
+É igual mergulhar num vulcão
+   C#7           B9
+O amor derrete a neve
+     F#        B C#
+Para ser verão
+     F#
+De manhã põe o pé na estrada
+     B                         G#m7
+Cada qual (com) uma flor no chapéu
+      C#            B
+Dessa vez a nossa estrela
+C#             F#
+Brilha (lá) no céu
+F#7M           Bbm
+Mais do que o sol
+   B               C#7
+Serei pra você um amigo
+F#7M        Bbm
+Se você quiser
+  B                C#7
+O meu coração será seu
+        D#m       D#m7M
+Digo a quem quiser saber
+        D#m7        E/F#
+Pra que sirva se lição
+        B          G#m7
+É só o amor chegar
+            E  C#
+Para ser verão
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+Bbm = X 1 3 3 2 1
+C# = X 4 6 6 6 4
+C#7 = X 4 3 4 2 X
+D#m = X X 1 3 4 2
+D#m7 = X X 1 3 2 2
+D#m7M = X 6 8 7 7 6
+E = 0 2 2 1 0 0
+E/F# = X X 4 4 5 4
+F# = 2 4 4 3 2 2
+F#7M = 2 X 3 3 2 X
+G#m7 = 4 X 4 4 4 X

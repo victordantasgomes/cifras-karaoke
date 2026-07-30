@@ -1,0 +1,95 @@
+@titulo: a-cruz-e-a-espada-com-paulo-ricardo
+@autor:
+@intérprete: Renato Russo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renato Russo - A Cruz e a Espada (Com Paulo Ricardo)
+
+     D9           C#m      Bm7         E9/B D E*
+E|-10------10--9-----9--5---------------------|
+B|----10---------9--------5---5p7-5----5--7-9-|
+G|-------9---------9--------7-------7--4--7-9-|
+D|--0-------0-----------0---------------------|
+A|-------------------------------------2--5-7-|
+E|-------------9-----9------------------------|
+
+     D9           C#m      Bm7           E7
+E|-10------10--9-----9--5---------------------|
+B|----10---------9--------5---5p7-5---5-5---5-|
+G|-------9---------9--------7-------7---4--4--|
+D|--0-------0-----------0---------------------|
+A|--------------------------------------2-2---|
+E|-------------9-----9------------------------|
+
+
+D9              C#m
+Havia um tempo em que eu vivia
+Bm7            E7    D  E*
+Um sentimento quase infantil
+
+D9              C#m
+Havia o medo e a timidez
+Bm7             E7
+Todo um mau que você nunca viu
+Bm              F#m          D9    E  F#m
+Agora eu vejo, aquele beijo era mesmo o fim
+Bm              F#m          D9    E  F#m    A9
+Era o começo e o meu desejo se perdeu de mim
+
+D9               C#m
+E agora eu ando correndo tanto
+Bm7               E7 D  E
+Procurando aquele novo lugar
+D9           C#m
+Aquela festa o que me resta
+Bm7                  E7
+Encontrar alguém legal pra ficar
+Bm              F#m          D9    E  F#m
+Agora eu vejo, aquele beijo era mesmo o fim
+Bm              F#m          D9    E  F#m   A9
+Era o começo e o meu desejo se perdeu de mim
+
+(Intro)
+
+Bm              F#m          D9     E  F#m
+Agora eu vejo, aquele beijo era mesmo o fim
+Bm              F#m          D9     E   F#m  A9
+Era o começo e o meu desejo se perdeu de mim
+
+D9              C#m
+E agora é tarde e acordo tarde
+Bm7                       E7   D  E*
+Do meu lado alguém que eu não conhecia
+
+D9             C#m
+Outra criança adulterada
+Bm7                   E7
+Pelos anos que a pintura escondia
+
+Bm              F#m          D9     E  F#m
+Agora eu vejo, aquele beijo era mesmo o fim
+Bm              F#m          D9  E    F#m
+Era o começo e o meu desejo se perdeu de mim
+
+Bm              F#m          D9     E  F#m
+Agora eu vejo, aquele beijo era mesmo o fim
+Bm              F#m          D9     E   F#m   A9
+Era o começo e o meu desejo se perdeu de mim
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+E9/B = X 2 X 4 5 2
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,79 @@
+@titulo: voce-vai-ver
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Você Vai Ver
+
+E              B             C#m     C#m/B  A
+Você pode encontrar muitos amores
+                   E/Ab              F#m   F#m/E  B/E
+Mas ninguém vai te dar o que eu te dei
+             Ab7            C#m
+Podem até te dar algum prazer
+                A              E
+Mas posso até jurar você vai ver
+                    B                E   B   E
+Que ninguém vai te amar como eu te amei
+             B               C#m    C#m/B  A
+Você pode provar milhões de beijos
+                 E/Ab             F#m F#m/E   B/E
+Mas sei que você vai lembrar de mim
+                   Ab7          C#m
+Pois sempre que um outro te tocar
+             A            E
+Na hora você pode se entregar
+                    B                E    B
+Mas não vai me esquecer nem mesmo assim
+
+
+          E            B/E        C#m
+Eu vou ficar, guardado no seu coração
+         E7        A          E/Ab            B
+Na noite fria solidão, saudade vai chamar meu nome
+         E              B/E          C#m
+Eu vou ficar, num verso triste de paixão
+        E7          A           E/Ab         B
+Em cada sonho de verão, no toque do seu telefone
+         E     E B E7 A E B E B E
+Você vai ver...
+             B               C#m     C#m/B  A
+Você pode provar milhões de beijos
+                 E/Ab            F#m  F#m/E B/E
+Mas sei que você vai lembrar de mim
+                   Ab7          C#m
+Pois sempre que um outro te tocar
+             A            E
+Na hora você pode se entregar
+                    B                E    B
+Mas não vai me esquecer nem mesmo assim
+
+         E             B/E        C#m
+Eu vou ficar, guardado no seu coração
+         E7        A          E/Ab            B
+Na noite fria solidão, saudade vai chamar meu nome
+         E              B/E          C#m
+Eu vou ficar, num verso triste de paixão
+        E7         A            E/Ab         B
+Em cada sonho de verão, no toque do seu telefone
+         A     E B E7 A E B E B E
+Você vai ver...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Ab7 = 4 6 4 5 4 4
+B = X 2 4 4 4 2
+B/E = X 7 9 8 7 7
+C#m = X 4 6 6 5 4
+C#m/B = 7 X 6 6 5 X
+E = 0 2 2 1 0 0
+E/Ab = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+F#m/E = X X 2 2 2 2

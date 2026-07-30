@@ -1,0 +1,42 @@
+@titulo: guarda-o-contacto
+@autor:
+@intérprete: Harpa Cristã
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Harpa Cristã - Guarda o Contacto
+
+ C                    Am            Dm
+Queres, neste mundo, ser um vencedor ?
+             G         G7         C
+Queres tu cantar nas lutas e na dor ?
+   G         C       C7            F
+Queres ser alegre, qual bom lutador ?
+  Fm         C Am  Dm      G     C
+Guarda o contacto com teu Salvador
+  C             G  G7            C
+Guarda o contacto com teu Salvador
+F         C               D   G
+E a nuvem do mal não te cobrirá
+ C                  C7          F
+Pela senda alegre, tu caminharás
+Dm         C Am   Dm      G      C
+Indo em contacto com teu Salvador
+
+(segue nas próximas estrófes)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

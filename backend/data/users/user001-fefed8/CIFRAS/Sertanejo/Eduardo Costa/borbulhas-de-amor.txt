@@ -1,0 +1,98 @@
+@titulo: borbulhas-de-amor
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Borbulhas de Amor
+
+Intro: C#m F# C#m F#
+
+ B
+Tenho um coração
+                   F#
+Dividido entre a esperança e a razão
+C#m
+Tenho um coração
+E                     F#   C#m F#
+Bem melhor que não tivera
+
+B
+Esse coração
+                  F#
+Não consegue se conter ao ouvir sua voz
+C#m
+Pobre coração
+E                     F#   C#m F#
+Sempre escravo da ternura
+
+Refrão:
+
+                  B
+Quem dera ser um peixe
+                                 F#
+Para em teu límpido aquário mergulhar
+F#                                  C#m
+Fazer borbulhas de amor pra te encantar
+E               F#       C#m       F#
+Passar a noite em claro, dentro de ti
+    B                                    F#
+Um peixe, para enfeitar de corais tua cintura
+F#                                C#m
+Fazer silhuetas de amor à luz da lua,
+E               F#   C#m       F#
+Saciar essa loucura, dentro de ti
+
+Solo:  B F C#m G#m A E F#4 F#
+
+ B
+Canta coração
+                F#
+Que esta alma necessita de ilusão
+C#m
+Sonha coração
+E                     F#   C#m F#
+Não te enchas de amargura
+
+ B
+Esse coração
+                 F#
+Não consegue se conter ao ouvir sua voz
+C#m
+Pobre coração
+E                     F#   C#m F#
+Sempre escravo da ternura
+
+Refrão:
+G    A7       F#m             Bm  A     G
+Uma noite para unir-nos até o fim
+        A7          F#m      Bm  A     G
+Cara a cara, beijo a beijo e viver
+        A7            B
+Para sempre dentro de ti
+
+Solo: B F C#m G#m A E F#4 F#
+
+(Refrão 2x)
+
+G        A7            B
+Para sempre dentro de ti
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F#4 = 2 4 4 4 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

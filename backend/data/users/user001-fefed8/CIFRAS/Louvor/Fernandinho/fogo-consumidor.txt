@@ -1,0 +1,63 @@
+@titulo: fogo-consumidor
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Fogo Consumidor
+
+[Intro] A9  A4  A  A9
+
+A9              D9
+Fogo consumidor
+A9
+Venha arder em nós
+            Bm7
+Aquecer a chama
+               F#m
+Que um dia queimou por Ti
+A9                  D9
+Homens se desviaram
+A9                   D9
+Profetas se venderam
+Bm7                 F#m           A9
+Mas existem aqueles que não se dobraram
+               E/G#
+De ante outros deuses
+Bm7                 F#m           A9
+Mas existem aqueles que não se dobraram
+               E       D
+De ante outros deuses
+
+
+A9                           E/G#
+Deus está levantando um novo povo
+                         F#m
+Deus está sacudindo toda terra
+                             D
+Deus está separando seus profetas
+A9                Em
+Um novo dia amanhecer
+                         Bm
+Uma nova história se cumprir
+                    D9
+O choro já durou a noite
+                 A9
+É chegado o amanhecer
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A9 = X 0 2 2 0 0
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+G/B = X 2 0 0 3 3

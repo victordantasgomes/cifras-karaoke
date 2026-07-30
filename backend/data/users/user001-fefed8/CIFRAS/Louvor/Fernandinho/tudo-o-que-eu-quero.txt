@@ -1,0 +1,63 @@
+@titulo: tudo-o-que-eu-quero
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Tudo o Que Eu Quero
+
+  G7+
+Tudo que eu quero é ser santo
+ Bm         G7+
+Santo Como Tu
+ Bm                       G7+
+Tudo que eu quero é ser livre
+ Bm              G7M
+Livre pra Te servir
+   Em                                        A
+De todas as coisas que eu quero e que eu preciso
+                     Bm7
+Eu quero estar no centro da tua vontade
+   Em                                        A
+De todas as coisas que eu quero e que eu preciso
+                    G               A   ( G A )
+Eu quero estar no centro da tua vontade
+ Bm7                   D                    A
+Aquele que começou a boa obra em minha vida
+ Bm7                   D                   A
+Não terminou... Não terminou... Não terminou
+    (primeira viradinha do baixo após o Bm)
+G|-------------------------------------------------|
+D|----16(17)---------------------------------------|
+A|14---------17------------------------------------|
+E|---------------17-0------------------------------|
+
+
+(após a escala cromática - o baixo)
+G|-------------------------------------------------|
+D|-------------------------------------------------|
+A|2/---------17------------------------------------|
+E|--------------5/---------17----------------------|
+
+( Bm7 D E G ) (2x)
+
+ Bm7                   D                   A
+Aquele que começou a boa obra em minha vida
+ Bm7                   D                  A
+Não terminou... Não terminou... Não terminou
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G7+ = 3 X 4 4 3 X
+G7M = 3 X 4 4 3 X

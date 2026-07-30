@@ -1,0 +1,115 @@
+@titulo: a-beira-do-pantanal
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - À Beira do Pantanal
+
+Intro 3x: D  D/A
+
+    D     D/A    D      D/A    D      D/A
+E|---2-2----2-2----2-2----2-2----2-2----2-2---------------------|
+B|---3-3----3-3----3-3----3-3----3-3----3-3---------------------|
+G|---2-2----2-2----2-2----2-2----2-2----2-2---------------------|
+D|-0-------------0-------------0--------------------------------|
+A|--------0-------------0-------------0-------------------------|
+E|--------------------------------------------------------------|
+
+Em * deve-se alternar os baixos
+   Bm*             C#m*
+E|--2-2----2-2--|--4-4----4-4-----------------------------------|
+B|--3-3----3-3--|--5-5----5-5-----------------------------------|
+G|--4-4----4-4--|--6-6----6-6-----------------------------------|
+D|--------------|-----------------------------------------------|
+A|-2------------|-4---------------------------------------------|
+E|-------2------|-------4---------------------------------------|
+
+Como tocar os outros acordes
+    E               G        A
+E|---0-0----0-0--|---3-3--|---0-0--| 
+B|---0-0----0-0--|---3-3--|---2-2--|
+G|---1-1----1-1--|---0-0--|---2-2--|
+D|-2-------------|--------|--------|
+A|--------2------|--------|-0------|
+E|---------------|-3------|--------|
+
+
+     D                   Bm
+Foi lá na beira do Pantanal
+     D                   Bm
+Seu corpo tão belo enterrei
+     D                     Bm
+Foi lá que eu matei minha amada
+     D          G            D
+Sua voz na lembrança eu guardei:
+"Por que, meu querido
+              Bm
+Por que, meu amor
+    D                  Bm*
+Cravaste em mim teu punhal?
+     D                          Bm
+Meu peito tão jovem sangrando assim
+     D        G        D
+Por que esse golpe mortal?"
+                   Bm
+Assassinei quem amava
+     D                Bm*
+Num gesto sagrado de amor
+   D                 Bm
+O sangue que dela jorrava
+   D       G         D
+A sede da terra acalmou
+  Bm*               D Bm
+E lá onde jaz o seu corpo
+     D                 Bm*
+Cresceu junto com o capim
+     D                         Bm
+Seus lindos cabelos negros que eu
+   D    G          D   B7 E C#m E A E F#7
+Regava como um jardim
+   Bm                D    Bm
+A lei dos homens me condenou:
+    D                 Bm*
+Perpétua será tua prisão
+    D                      Bm
+Porque foi eu mesmo quem calou
+     D    G         D   B7
+Com aço aquele coração
+       E               C#m
+E eu preso aqui nessa cela
+    E                   C#m*
+Deixando minha vida passar
+ E                    C#m
+Ainda escuto a voz dela
+    E         A         E
+No vento que vem perguntar:
+"Por que, meu querido
+               C#m
+Por que, meu amor
+    E                  C#m*
+Cravaste em mim teu punhal?
+      E                         C#m
+Meu peito tão jovem sangrando assim
+     E        A        E
+Por que esse golpe mortal?
+    E        A         E
+Cravaste em mim teu punhal
+     E        A        E
+Por que esse golpe mortal??
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+E = 0 2 2 1 0 0
+F#7 = 2 4 2 3 2 2
+G = 3 2 0 0 0 3

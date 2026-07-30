@@ -1,0 +1,68 @@
+@titulo: sei-nao
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Sei Não
+
+Intro 2x: E  F#  A  E  C#m  B  A
+
+E                    C#m                         A
+Não sei qual foi a causa e quais serão as consequências
+                    F#m             A       E
+A borboleta bate as asas e o vento vira violência
+E               C#m                      A
+Não sei a soma exata, só a ordem de grandeza
+                F#m            A          E
+Não sermos literais às vezes faz nossa beleza
+          A           C#m
+Às vezes faz nossa cabeça um
+         A               F#
+Par de olhos, um pôr de sol
+          A       F#m
+Às vezes faz a diferença
+
+Refrão:
+
+    E            F#     A              E
+Tentei ficar na minha tentei ficar contigo
+
+      C#m           B                A
+O que há de mais moderno ainda é um sonho muito antigo
+    E             F#     A             E
+Tentei ser teu futuro tentei ser teu amigo
+      C#m           B       A
+O que há de mais seguro também corre perigo
+
+( E  F#  A  B )
+
+E                  C#m                 A
+Não sei a quantas anda, é da nossa natureza
+                   F#          A              E
+Não saber o que fazer às vezes faz nossa certeza
+          A           C#m
+Às vezes faz nossa cabeça um
+         A               F#
+Par de olhos, um pôr de sol
+          A       F#m
+Às vezes faz a diferença
+
+Refrão...
+
+Solo: F#  E  A
+
+(Refrão)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,60 @@
+@titulo: vale-dos-ossos-secos
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Vale Dos Ossos Secos
+
+Intro:Gm/A#m/Bm/C#m/D (1x)
+      Em/C/D (4x)
+
+Em    C     D        Em   C          D
+No vale dos ossos secos, vou profetizar
+Em    C     D         Em     C          D
+Eu vejo peles e nervos, tudo ali se juntar
+Gm    D#       F      Gm     D#           F
+Assopra Espírito Santo, coloque os ossos em pé
+Gm     D#       F      Gm   D#            F
+Que vem dos quatro ventos, só assim vivereis
+
+A#m   F#       G#      A#m     F#         G#
+Dá vida no meio do vale, e faça o Espírito entrar
+A#m    F#      G#          A#m    F#          G#
+Formando um grande exército, uma aliança de paz
+Gm    D#       F      Gm        D#        F
+Assopra Espírito Santo, coloque os ossos em pé
+Gm     D#       F      Gm   D#            F
+Que vem dos quatro ventos, só assim vivereis
+
+
+            A#m  F#      G#
+Eu profetizarei sobre a casa de Israel
+ A#m   F#             G#
+E porei em pé os ossos secos
+ A#m   F#          Ab
+Assim diz o nosso Deus
+A#m    F#     G#
+Eu sou a vida
+
+Solo 4x: Bm G A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#m = X 1 3 3 2 1
+Ab = 4 3 1 1 1 4
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+Gm = 3 5 5 3 3 3

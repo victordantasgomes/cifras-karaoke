@@ -1,0 +1,75 @@
+@titulo: pra-sempre
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Pra Sempre
+
+(intro)  D           A
+            G  Bm7  D Em7      G  Bm7  A9
+
+        Bm7          A/B
+Que brilhe a tua luz
+         E/B                   Bm7
+Renovando nossa visão
+        Bm7          A/B
+Que soe a tua voz
+        E/B                   Bm7
+Firmando os nossos pés
+           Bm7                  E
+Que o teu grandioso amor
+            G9           Bm7
+Nos atraia o coração
+
+               G9  Bm7         A9            E/G#
+À intimidade            do santo lugar
+               G9  Bm7                     A9
+Às profundezas       do teu coração
+
+
+(refrão)
+G            Bm7
+Teu é o governo
+D9         Em7
+Todo domínio
+G              Bm7         D9   A9
+Teu é o poder para sempre
+G            Bm7
+Te entronizamos
+D9      Em7
+Te adoramos
+G          Bm7        D9   A9
+Teu é o reino pra sempre
+
+      G      Bm7
+Em ti existimos
+      A             Em7
+Em ti nos movemos
+G                 Bm7       A9
+Pois somos tua geração
+
+(solo)  G  Em7  Bm7 A
+            G  Em7  Bm7  A/C# D Em7
+
+(refrão)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G9 = 3 X 0 2 0 X

@@ -1,0 +1,54 @@
+@titulo: hosana
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Hosana
+
+refrão:
+C  Dm    G  C        G7
+Ho-sana, ho-sana ao rei
+C  Dm    G  C        G7
+Ho-sana, ho-sana ao rei
+C  Dm    G  C        G7
+Ho-sana, ho-sana ao rei
+
+C                   Dm           G                C
+Mantos e palmas espalhando vai o povo alegre de jerusalém
+C                    Dm           G                    C
+Lá bem ao longe se começa a ver o filho de deus que montado vem
+  Am                  Em             Dm7         G      C
+Enquanto mil vozes ressoam por aí  hosana ao que vem em nome do
+       Am               Em                    F          D
+Senhor com um alento de grande exclamação prorrompem com voz
+    F/G
+triunfal.
+
+C                    Dm         G7             C
+Como na estrada de jerusalém um dia também poderemos cantar
+C                    Dm           G7                 C
+A jesus cristo que virá outra vez para levar-nos ao eterno lar
+  Am                  Em            Dm7         G      C
+Enquanto mil vozes ressoam por aí hosana ao que vem em nome do
+        Am               Em
+Senhor  com um alento de grande exclamação
+    F          D        F/G
+Prorrompem com voz triunfal
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F/G = 3 X 3 2 1 X
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

@@ -1,0 +1,182 @@
+@titulo: esquadros
+@autor:
+@intérprete: Los Hermanos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Los Hermanos - Esquadros
+
+Intro:
+
+    Eb   Eb/Bb Eb          Cm    Cm/G   Cm
+E|------------------------------------------------------|
+B|----8----8----8-------------8------8-----8------------|
+G|----8----8----8-------------8------8-----8------------|
+D|---8----8----8------------10-----10----10-------------|
+A|-6---------6----6h8-10--------10------------8h10-8h10-|
+E|------6-----------------8------------8----------------|
+
+    Eb   Eb/Bb Eb          Cm    Cm/G   Cm
+E|------------------------------------------------------|
+B|----8----8----8-------------8------8---8--8-----------|
+G|----8----8----8-------------8------8---8--8-----------|
+D|---8----8----8------------10-----10----10-10----------|
+A|-6---------6----6h8-10--------10----------------------|
+E|------6-----------------8------------8-8--8-----------|
+
+Esta parte é tocada somente na introdução.. já a linha abaixo é usada
+na intro e no restasnte da música.
+
+
+    Eb   Eb/Bb Eb          Cm    Cm/G   Cm
+E|------------------------------------------------------|
+B|----8----8----8-------------8------8-----8------------|
+G|----8----8----8-------------8------8-----8------------|
+D|---8----8----8------------10-----10----10-------------|
+A|-6---------6----6h8-10--------10------------10-11-----|
+E|------6-----------------8------------8----------------|
+
+    Fm7   Fm7/C Fm7        Bb7        Bb7+
+E|------------------------------------------------------|
+B|-----9-----9-----9---------6--6-----------------------|
+G|-----8-----8-----8---------7--7----7--7---------------|
+D|---10----10----10---------6---6----8--8---------------|
+A|-8-----------8-----6-8-------------9--9---------------|
+E|-------8----------------6-------6--6--6---------------|
+
+Obs.: durante a música, algumas vezes não há variação de Bb7 para
+Bb7+. Neste parte deve-se repetir o acorde Bb7 (observe as cifras na
+letra). Em outras partes (imediatamente antes do refrão) há uma
+parada, que deve ser feita no acorde Bb7 da linha acima.
+
+Refrão:
+
+    Ebm  / Bb   Ebm  / Bb   B    / Gb  B    / G B
+E|----------------------------------------------|
+B|----7----7-----7----7-----7----7----7----7----|
+G|----8----8-----8----8-----8----8----8----8----|
+D|---8----8-----8----8-----9----9----9----9-----|
+A|-6----------6---------------9---------9-------|
+E|------6----------6-----7---------7------------|
+
+    Ebm  / Bb   Ebm  / Bb   B    / Gb  Bb    Bb/C
+E|----------------------------------------------|
+B|----7----7-----7----7-----7----7----6----6----|
+G|----8----8-----8----8-----8----8----7----7----|
+D|---8----8-----8----8-----9----9----8----8-----|
+A|-6----------6---------------9-----------------|
+E|------6----------6-----7---------6----8-------|
+
+
+   Eb
+Eu ando pelo mundo prestando atenção
+   Cm
+em cores que eu não sei o nome
+Fm7                          Bb7            Bb+
+Cores de Almodóvar, cores de Frida Kahlo, cores
+    Eb                                   Cm
+Passeio pelo escuro, eu presto muita atenção
+
+no que meu irmão ouve
+  Fm7                                Bb7
+E como uma segunda pele, um calo uma casca
+    Bb+          Eb           Cm
+Uma cápsula protetora, (aa uouou)
+
+Eu quero chegar antes
+    Fm
+pra sinalizar o estar de cada coisa,
+Bb7
+    filtrar seus graus
+   Eb                         Cm
+Eu ando pelo mundo divertindo gente
+
+Chorando ao telefone
+Fm7                   Bb7  (pausa)
+  E vendo a fome.. dos meninos que têm fome
+
+
+Ebm                                   B
+Pela janela do quarto, pela janela do carro
+                             Ebm
+Pela tela, pela janela (quem é ela, quem é ela?)
+                        B           Bb  Bb/C
+Eu vejo tudo enquadrado.. remoto controle..
+
+
+   Eb
+Eu ando pelo mundo
+Cm
+   E os aucorrem para quê?
+Fm7               Bb7
+    E as crianças,  pra onde correm?
+    Eb
+Transito entre dois lados de um lado
+Cm
+   Eu gosto de opostos
+Fm7
+Exponho meu modo, me mostro
+Bb7 (pausa)
+    Eu canto para quem?
+
+
+Ebm                                   B
+Pela janela do quarto, pela janela do carro
+                             Ebm
+Pela tela, pela janela (quem é ela, quem é ela?)
+                        B           Bb  Bb/C
+Eu vejo tudo enquadrado.. remoto controle..
+
+
+   Eb              Cm                     Fm7
+Eu ando pelo mundo.. e meus amigos, cadê..ê?
+              Bb
+Minha alegria, meu cansaço?
+Eb          Cm
+Meu amor, cadê você?
+   Fm            Bb7        Bb7+ (pausa)
+Eu acordei,  não tem ninguém ao lado
+
+
+Ebm                                   B
+Pela janela do quarto, pela janela do carro
+                             Ebm
+Pela tela, pela janela (quem é ela, quem é ela?)
+                        B           Bb  Bb/C
+Eu vejo tudo enquadrado.. remoto controle..
+
+Eb  Cm  Fm7 Bb7  Bb+
+Eb  Cm  Fm7 Bb7
+Eb  Cm
+
+    Fm7   Fm7/C Fm7        Eb
+E|-------------------------------|
+B|-----9-----9-----9------8------|
+G|-----8-----8-----8------8------|
+D|---10----10----10-------8------|
+A|-8-----------8-----6-8---------|
+E|-------8----------------6------|
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+Bb+ = X 1 4 3 3 X
+Bb/C = X 3 X 3 3 1
+Bb7 = X 1 3 1 3 1
+Bb7+ = X 1 3 2 3 1
+Cm = X 3 5 5 4 3
+Cm/G = X X 5 5 4 3
+Eb = X 6 5 3 4 3
+Eb/Bb = X X 8 8 8 6
+Ebm = X X 1 3 4 2
+Em = 0 2 2 0 0 0
+Fm = 1 3 3 1 1 1
+Fm7 = 1 X 1 1 1 X
+Fm7/C = X 3 1 1 1 1
+G = 3 2 0 0 0 3
+Gb = 2 4 4 3 2 2

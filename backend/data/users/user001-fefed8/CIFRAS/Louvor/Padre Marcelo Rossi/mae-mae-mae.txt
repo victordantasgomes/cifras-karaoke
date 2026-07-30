@@ -1,0 +1,51 @@
+@titulo: mae-mae-mae
+@autor:
+@intérprete: Padre Marcelo Rossi
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Padre Marcelo Rossi - Mãe, Mãe, Mãe
+
+ C     F        C    F          C      F             Bb     G7/4
+Maria, cheia de graça, amor que abraça, nos chama de filhos.
+C     F          C     F          C  F             Bb G7/4
+Maria, mãe que ilumina nosso caminho, nos conduz a Deus.
+ Am    Am/G       F    Em   Dm       Dm/C       G7/4
+Maria, mãe da Igreja, convida-nos sempre a orar.
+ Am    Am/G                F   Em
+Maria, esplendor de beleza,
+Dm     Dm/C      G7/4
+que alegria poder cantar seu nome.
+
+Maria...
+
+ Am
+Mãe, mãe, mãe, Maria nossa mãe.
+F
+Mãe, mãe, mãe, Maria nossa mãe.
+G                         F  G
+Mãe, mãe, Maria nossa mãe.
+
+C                               Am
+Mãe, mãe, mãe, Maria nossa mãe.
+
+Mãe, mãe, mãe, Maria nossa mãe.
+G                          F  G
+Mãe, mãe, Maria nossa mãe.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7/4 = 3 5 3 5 3 X

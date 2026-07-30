@@ -1,0 +1,69 @@
+@titulo: so-lembrancas
+@autor:
+@intérprete: Rionegro e Solimões
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rionegro e Solimões - Só Lembranças
+
+Intro: F#m7 G E/G# A F#/A# Bm Bm7/A E E/D C#m Bm
+
+ A                   E 
+ Pra quem vive de saudade
+                        D
+ Quando a noite apaga a tarde
+                   A     G/A A7
+ É sempre o pior momento
+ D                 A
+ Coração se faz viajante
+                  E
+ Sem rumo,sem horizonte
+ E/G#                A     G/B A/C#
+ Nos trilhos do pensamento
+   D      A      E           A   A7
+    Só lembranças,ficaram em mim
+   D      A      E            A
+    Só lembranças do que teve fim
+                      E/G#
+ Quem perde a pessoa amada
+ E                  D/F#
+ Se perde nas madrugadas
+ D                 A      G/A A
+ No silêncio das esquinas
+   D                A
+ Depois de uma despedida
+                     E
+ Entre o coração e a vida
+ E/G#               A    G/B A/C#
+ A saudade é uma cortina
+    D       A     E           F#m E 
+     Só lembranças,ficaram em mim
+    D       A     E            A
+     Só lembranças,do que teve fim
+      A  
+ Quem perde a pessoa amada....
+ REFRÃO 4x
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm7/A = 5 2 4 2 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+F#/A# = 6 X 4 6 7 X
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3

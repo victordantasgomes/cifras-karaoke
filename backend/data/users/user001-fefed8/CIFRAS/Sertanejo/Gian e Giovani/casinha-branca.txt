@@ -1,0 +1,76 @@
+@titulo: casinha-branca
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Casinha Branca
+
+(intro) G  C/G  G  C/G  D/F#  C/E  D
+
+    G                  C/G         G
+Eu tenho andado tao sozinho ultimamente
+         C/G            G
+Que nem vejo em minha frente
+C/G                D  D/F#
+Nada que me de prazer
+G                    C/G           G
+Sinto cada vez mais longe a felicidade
+          C/G       G
+Vendo em minha mocidade
+C/E              D  D/F#
+Tanto sonho perecer
+
+(refrão)
+C                 D/C         Bm
+Eu queria ter na vida simplesmente
+     Em            Am
+Um lugar de mato verde
+         D            G  G7
+Pra plantar e pra colher
+
+C                D/C         Bm
+Ter uma casinha branca de varanda
+        Em          Eb
+Um quintal e uma janela
+      D            G   ( Dm G7 )
+Para ver o sol nascer
+
+(solo) G  C  G  C  Am  D  D/F#
+
+    G                 C/G        G
+As vezes saio a caminhar pela cidade
+      C/G        G
+A procura de amizade
+C/G                  D  D/F#
+Vou seguindo a multidao
+G
+Mas eu me retraio
+  C/G            G
+Olhando em cada rosto
+     C/G            G
+Cada um tem seu misterio
+C/E                 D  D/F#
+Seu sofrer  sua ilusao
+
+(refrão)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Eb = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

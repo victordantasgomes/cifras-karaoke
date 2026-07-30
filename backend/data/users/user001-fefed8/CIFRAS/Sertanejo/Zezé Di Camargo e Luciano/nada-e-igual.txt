@@ -1,0 +1,63 @@
+@titulo: nada-e-igual
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Nada É Igual
+
+INTRO: ( D  D4  D )
+
+D           G             D         D4 D  D        G                 A
+ Um dia eu quis seguir a luz do sol,       no horizonte estava o que eu
+       D          G          D                     C
+sonhei, no céu estrelas eram um sinal, o farol no mar, ( no mar )
+    G              D               C                  G              D
+no mar, e eu naveguei, o farol no mar, ( no mar ) no mar, e eu naveguei
+D            G               D         D4 D  D          G
+ Quis descobrir em mim o que eu não sou,      perdi o chão e não lhe
+A          D            G           D                    C
+encontrei,  quis ser espinhos machucando a flor, fiquei mal, ( mal )
+ G              D
+mal e me machuquei
+F                           C     F                             A
+ Em todo lugar o medo me assusta,  eu não enxerguei a minha loucura...
+
+      C#m  G  C#m  G
+SOLO: Ah......
+
+D                G            D      D4 D  D        G                A
+ No instinto eu não ouvi meu coração,       e abri mão de tudo o que eu
+
+     D          G                D
+amei, o sol se põe deixando a escuridão
+              C                G                 D                 C
+Mas nada é igual, ( igual ) igual, ao que eu deixei, mas nada é igual,
+             G                 D
+( igual ) igual, ao que eu deixei
+                         C                G                 D
+Não, não, não, nada é igual, ( igual ) igual, ao que eu deixei, mas
+          C                G                 D
+nada é igual, ( igual ) igual, ao que eu deixei
+                         C                G                 D
+Não, não, não, nada é igual, ( igual ) igual, ao que eu deixei, igual,
+              C  G                D                  C
+ao que eu deixei, ( ao que eu deixei ) mas nada é igual, ( igual )
+   G                 D                                   C
+igual, ao que eu deixei, ao que eu deixei, mas nada é igual, ( igual )
+   G                 D  D4    D  D4    D  D4  D  D4  D
+igual, ao que eu deixei,  deixei,  deixei
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

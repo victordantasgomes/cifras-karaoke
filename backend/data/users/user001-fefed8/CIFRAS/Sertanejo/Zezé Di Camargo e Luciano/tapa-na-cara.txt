@@ -1,0 +1,74 @@
+@titulo: tapa-na-cara
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Tapa Na Cara
+
+(intro)
+                  A              C#m             A                     B
+E|-----------------|-------------------|------------------------------------|
+B|-----------------|-------------------|------------------------------------|
+G|----6---4-4/6----|----6-8-8/9-9-6----|----6-6/4--4-4-4--------------------|
+D|------7----------|-------------------|-----------------7-7-6-4-4/6-7-4----|
+A|-----------------|-------------------|------------------------------------|
+E|-----------------|-------------------|------------------------------------|
+
+E
+Seus olhos são laços que prendem meus passos
+         B/D#
+nessa  pressa de chegar
+A9                                           F#m7
+caminho sozinho entre pedras e espinhos procurando te encontrar
+E                                            B/D#
+eu vejo uma porta entre aberta me flerta o brilho do seu olhar
+A                       E           (E B/D#)
+Imagino ver você onde quer que eu va
+C#m                                                 G#m
+Toda vez que eu procuro seu beijo eu me perco me afogo em solidão
+
+A                                              E               (E B/D#)
+acordar de manha e provar outros labios com um vazio no coraçao
+C#m                         C#m7                       B
+e você nao pensou um segundo bateu a porta e me disse nao*
+
+(refrão)
+          A
+Tapa na cara eu sei que vai doer
+              C#m
+mas nao doi mais do que perder você
+           A                F#m            B
+É uma ilusão pensar que um dia eu possa te esquecer
+
+         A#
+Tapa na cara eu sei que vai doer
+              Dm
+mas nao doi mais do que perder você
+          A#                Gm              C
+É uma ilusão pensar que um dia eu possa te esquecer
+
+A#                    C            F
+Se eu tiver que ser feliz é com você. (2X)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A# = X 1 3 3 3 1
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G#m = 4 6 6 4 4 4
+Gm = 3 5 5 3 3 3

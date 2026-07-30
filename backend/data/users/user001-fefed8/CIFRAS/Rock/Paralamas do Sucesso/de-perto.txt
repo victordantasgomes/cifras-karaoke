@@ -1,0 +1,74 @@
+@titulo: de-perto
+@autor:
+@intérprete: Paralamas do Sucesso
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Os Paralamas do Sucesso - De Perto
+
+E|---------|---------|---------|---------|---------|---------|----|
+A|-3-------|-2-------|-0-------|---------|-3-------|-2-------|----|
+D|--0-0----|--0-0----|--0-0----|-0-------|--0-0----|--0-0----|-0--|
+G|---0-----|---0-----|---0-----|--2-2----|---0-----|---0-----|-2--|
+B|---------|---------|---------|---3-----|---------|---------|-3--|
+e|---------|---------|---------|---------|---------|---------|----|
+
+E|-------------------|
+A|-------------------|
+D|---------2/4-4-0---|
+G|-2/4-4-2----2------|
+B|-------------------|
+e|-------------------|
+
+[Intro:] C9 G/B Am7 D    C9 G/B D/A  (2x)
+
+G    D/F#      Em7   C9
+  Não quero estar neste lugar
+G    D/F#         C9  C9
+  E ver você partir
+G     G/B        C9
+  Eu quero te esperar
+
+C#º         D
+Aonde você quer ir?
+
+Te receber, te acomodar
+Te oferecer a mão
+Poder cantar
+Te acompanhar ao violão
+
+Em          D/F#        Em      D/F#    Em
+     Quero te ver de perto
+         C9               D                Em
+Quero dizer que o nosso amor deu certo
+Em          D/F#        Em      D/F#    Em
+     Quero te ver de perto
+         C9               D
+Quero dizer que o nosso amor deu certo
+
+Não sei viver só e sem sonhar
+Sem fé, sem ter alguém
+Faz tempo que eu te espero
+Eu te quero bem
+
+Sonho em fazer pro nosso amor
+Uma bela canção
+Que me traga
+Paz sem culpa ao coração
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C#º = X 4 5 3 5 3
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

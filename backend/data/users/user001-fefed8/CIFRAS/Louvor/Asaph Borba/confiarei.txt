@@ -1,0 +1,75 @@
+@titulo: confiarei
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Confiarei
+
+Intro 4x: Am7  D/A
+
+Am7                      D/A                 Am7  D/A  Am7          D/A                      Am7  D/A
+      Ainda que a figueira não floresça                 E nem brote fruto na videira
+Am7                         D/A                     Am7  D/A  Am7          D/A                                          E4    E
+      Ainda que o produto da oliveira minta               E os campos não produzam mantimentos
+
+Am7                       D/A                        Am7              D/A
+      Ainda que as ovelhas fujam do aprisco (confiarei)
+Am7             D/A                          Am7            D/A
+      E nos currais não haja mais gado (confiarei)
+              Am7            D/A           Am7  D/A       F             G                                E4   E
+      Todavia eu me alegro no Senhor         E exulto no Deus da minha salvação
+
+             Am   F         C  Dm7         Am7        F                          E4   E
+  Confiarei - Confiarei  -  Confiarei - Confiarei no meu Senhor    (2x)  
+
+              Am7  D/A   Am7  D/A
+  Confiarei - Confiarei
+              Am7                                 D/A                          Am7              D/A
+  Confiarei - Pois o Senhor meu Deus é minha fortaleza  -  Confiarei 
+  Am7                  D/A                    Am7                 D/A   Am7              D/A                Am7   D/A
+         E faz meus pés como os da corsa  -  Confiarei    -    Faz me andar altaneiramente
+F                 G                                     E4    E
+    Por isso sempre Nele hei de confiar
+
+             Am   F           C   Dm7
+  Confiarei  -  Confiarei...      (2X)
+
+             Am7  D/A   Am7  D/A      Am7                       D/A
+  Confiarei - Confiarei   -  Confiarei - Mil podem cair a minha direita
+             Am7                                    D/A                    Am7                              D/A
+  Confiarei - E dez mil a minha esquerda - Confiarei - Mas eu não serei abalado
+             Am7                                          D/A                 Am7                         D/A
+  Confiarei - Porque o Senhor está comigo - Confiarei - Ele é minha rocha
+              Am7                             D/A         Am7                                       D/A
+  Confiarei - Ele é minha força - Confiarei - Ele é o meu libertador
+              Am7                                                       D/A
+  Confiarei - Mesmo que cresçam os meus inimigos
+             Am7                                                           D/A                         Am7                      D/A
+  Confiarei - Mesmo que aumentem os meus adversários  -  Confiarei - Eu não temerei
+              Am7                                                D/A                 Am7                           D/A
+  Confiarei - Porque o Senhor é a minha rocha - Confiarei - E o meu libertador
+              Am7  D/A  Am7  D/A
+  Confiarei...
+              Am  F         C  Dm7
+  Confiarei - Confiarei... (2X)
+
+              Am7 D/A       Am7  D/A        Am7/9
+  Confiarei   -   Confiarei...         (3X)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am7/9 = X X 7 5 8 7
+C = X 3 2 0 1 0
+D/A = X 0 X 2 3 2
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

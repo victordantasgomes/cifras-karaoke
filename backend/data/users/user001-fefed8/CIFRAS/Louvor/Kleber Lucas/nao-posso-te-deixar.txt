@@ -1,0 +1,90 @@
+@titulo: nao-posso-te-deixar
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Não Posso Te deixar
+
+[Intro] Em  C  D
+        G  D/F#  Em
+        C9  Am7  G/B  C9
+
+   G                     C9 D/F#               G               C9
+Eu ando com meu Deus na rua e quando chego em casa Ele está comigo
+    Am7                       D
+Eu falo com meu Deus na hora de dormir
+   G                        C9             D        D4  D
+E logo quando acordo digo: "eis-me aqui”, sou de Jesus
+   G                        C9    D/F#             G
+E mesmo atarefado sempre estou ligado eu não abro mão da presença
+ C9                         D
+No partir do pão e em cada comunhão
+  G    G Am7 G/B  C9               D        D4 D
+Graças,          graças por tudo, sou de Jesus
+
+              C9    G/B              F#m7(b5)        B7 Em
+Eu não posso Te deixar, pois de uma coisa eu sei muito bem
+D      C9             G/B            Am7              D
+A Tua sombra que me guarda, e Tua misericórdia me sustém
+
+              C9    G/B              F#m7(b5)           B7 Em
+Eu não posso Te deixar, pois de uma coisa eu sei muito bem
+D      C9             G/B            Am7              D
+A Tua sombra que me guarda, e Tua misericórdia me sustém
+
+( D  G/B  C )
+
+G          C9  D       C     G/B       C9   D
+  Pai, perdoa  os meus erros e me ensina a perdoar
+G/B        C9      D     C    G/B       C9    D
+  venha a nós Teu Santo Reino e me ensina a amar
+
+[Solo] Em7  C  Am7  G/B  Em7  D  C  G  G/B  Em7  D
+
+   G                        C9    D/F#             G
+E mesmo atarefado sempre estou ligado eu não abro mão da presença
+ C9                         D
+No partir do pão e em cada comunhão
+  G    G Am7 G/B  C9               D        D4 D
+Graças,          graças por tudo, sou de Jesus
+
+              C9    G/B              F#m7(b5)        B7 Em
+Eu não posso Te deixar, pois de uma coisa eu sei muito bem
+D      C9             G/B            Am7              D
+A Tua sombra que me guarda, e Tua misericórdia me sustém
+              C9    G/B              F#m7(b5)           B7 Em
+Eu não posso Te deixar, pois de uma coisa eu sei muito bem
+D      C9             G/B            Am7              D
+A Tua sombra que me guarda, e Tua misericórdia me sustém
+
+G          C9  D       C     G/B       C9   D
+  Pai, perdoa  os meus erros e me ensina a perdoar
+G/B        C9      D     C    G/B       C9    D
+  venha a nós Teu Santo Reino e me ensina a amar
+G          C9  D       C     G/B       C9   D
+  Pai, perdoa  os meus erros e me ensina a perdoar
+G/B        C9      D     C    G/B       C9    D
+  venha a nós Teu Santo Reino e me ensina a amar
+
+[Final] Em  C  D  G  D/F#  Em  C  Am  G/B  C
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#m7(b5) = 2 X 2 2 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

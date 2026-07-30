@@ -1,0 +1,34 @@
+@titulo: javeh
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Javéh
+
+G      Bm     A9                Em
+ Javéh,Javéh,venha a sua amada Israel.
+G      Bm           A9
+ Javéh,Javéh,venha visitá-la.
+Em      Bm     A9              Em        G   A9
+ Javéh,Javéh,venha e faz-nos novos em ti,Javéh.
+G      Bm     A9                     Em
+ Javéh,Javéh,venha restaurar o tabernáculo de louvor.
+G      Bm           A9
+ Javéh,Javéh,toma o teu lugar Jesus.
+Em      Bm    A9                   G         G  A9
+ Javéh,Javéh,que vejamos a beleza do Senhor Javéh.
+   D           A9        Em          G      Bm  G
+ho,ho,ho,ho Brilha o sol, novamente ,sobre as ruas de Jerusalém.
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

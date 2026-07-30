@@ -1,0 +1,49 @@
+@titulo: problema
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Problema
+
+Intro:  Cm D# A#
+
+    A#                                 Cm
+Eu queria sumir e não te responder nunca mais
+                      D#
+Deixar nossa história pra trás
+                       A#
+Dizer que quem perdeu foi você
+     A#                                    Cm
+Eu queria esquecer o bem que a sua boca me faz
+                     D#
+E com todas as letras dizer então vai
+                     A#
+E em qualquer paixão me perder
+
+Refrão:
+                        Cm
+Mas o problema é que eu te amo
+                         D#
+Um dia sem você eu já reclamo
+                        A#
+Invento uma desculpa pra te ver
+
+                         Cm
+Mas o problema é que eu te quero
+                         D#
+E o tempo que for preciso eu espero
+                         A#
+Pra mim felicidade é ter você
+
+(Repete Intro): Cm D# A#
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+Cm = X 3 5 5 4 3
+D# = X 6 5 3 4 3

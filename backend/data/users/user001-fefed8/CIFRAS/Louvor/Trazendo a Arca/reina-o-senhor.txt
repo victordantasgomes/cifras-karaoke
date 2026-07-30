@@ -1,0 +1,82 @@
+@titulo: reina-o-senhor
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Reina o Senhor
+
+(intro 2x) C#m A E B9
+
+C#m A          E     B9           C#m
+    Reina o Senhor , tremam as nações
+       A        E                  C#m
+Ele está entronizado sobre os querubins
+      A           E        B9            C#m
+Ele é grande em Sião , exaltado sobre os povos
+      A         E             B9
+Digno de ser adorado pois seu nome é
+F#m     C#m       A            B9
+Grande, tremendo, Santo é o Senhor
+
+Em  C            Am              D
+Exaltai ao nosso Deus pois Ele é Santo
+Em     C                Am            D
+E prostrai-vos ante o estrado de seus pés
+Em   C          Am                D
+Adorai ao nosso Deus em seu santo monte
+Em   C       Am           D
+Pois Jeová o nosso Deus é Santo
+
+(passagem) C#m A E B9  C#m A E F#m E
+(repete tudo)
+(refrão 1x)
+
+      C#m   A E B9
+Ele é Santo
+      C#m   A E/G# B9
+Ele é Santo
+
+F#m     C#m       A            B9
+Grande, tremendo, Santo é o Senhor
+
+Em  C            Am              D
+Exaltai ao nosso Deus pois Ele é Santo
+Em     C                Am            D
+E prostrai-vos ante o estrado de seus pés
+Em   C          Am                D
+Adorai ao nosso Deus em seu santo monte
+Em   C       Am           D
+Pois Jeová o nosso Deus é Santo
+
+Em  C            G               D
+Exaltai ao nosso Deus pois Ele é Santo
+Em     C                G             D
+E prostrai-vos ante o estrado de seus pés
+Em   C          G                 D
+Adorai ao nosso Deus em seu santo monte
+Em   C       G            D
+Pois Jeová o nosso Deus é Santo
+
+      C#m   A E B9
+Ele é Santo
+      C#m   A E/G# B9
+Ele é Santo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B9 = X 2 4 4 2 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

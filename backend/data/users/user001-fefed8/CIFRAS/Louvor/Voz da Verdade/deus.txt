@@ -1,0 +1,68 @@
+@titulo: deus
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Deus
+
+INTRO: Ab, Eb, Gm,C7
+
+F               C              Dm  Dm/C
+Deus que faz o sol brilhar no dia
+               Bb   Gm                   C7
+Faz o dia colorido com a flor que já nasceu
+       F           C             Dm  Dm/C
+Ele estende a sua mão ao mais aflito
+                 Bb   Gm              C7
+Pra beber da sua água e comer do seu pão
+
+F                       Dm  F7
+Deus é o refúgio mais supremo
+ Bb         Gm             C
+Deus na tristeza é o meu alento
+                   F    D7              Gm
+É o amigo mais chegado que o próprio irmão
+C                  Bb  C7           F
+A razão da minha vida a paz no coração
+
+ F               C              Dm  Dm/C
+Deus que nos protege durante a noite
+
+                   Bb   Gm            C
+Nos livrando do perigo do mal da escuridão
+          F               C            Dm  Dm/C
+Mas de manhã estende as asas sobre o ninho
+                     Bb     Gm             C   Eb  F7
+Perco o medo de existir no calor do seu carinho
+
+Bb                     Gm
+Deus é o refúgio mais supremo
+ Eb         Cm             F7
+Deus na tristeza é o meu alento
+                 Bb    G7               Cm
+É o amigo mais chegado que o próprio irmão
+F                 Eb  F7            Bb C
+A razão da minha vida a paz no coração
+
+final: F, Bb } Várias vezes
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Cm = X 3 5 5 4 3
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+Eb = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+F7 = 1 3 1 2 1 1
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

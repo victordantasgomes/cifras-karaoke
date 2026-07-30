@@ -1,0 +1,116 @@
+@titulo: cartas-no-porao
+@autor:
+@intérprete: Paula Fernandes
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Paula Fernandes - Cartas No Porão
+
+Capo Casa 3
+
+Intro: G D4/F# Em7 D4/F# C D G D4/F# Em7 D4/F# C D
+
+ G
+Outro dia eu resolvi visitar o meu porão
+ C9
+Onde achei o que eu vivi em muitas cartas sem final
+ G
+Não foi fácil esconder tudo aquilo que eu senti
+ C9
+Pra nunca mais lembrar você, cada carta eu recolhi.
+
+    Am7             G11/B         C
+Eu fiz pedaços de um amor que eu quis
+                     G
+Que você jamais me fez,
+                     D9/F#
+Com você não fui feliz.
+    Am7             G11/B   C
+E joguei os pedaços pelo chão
+                     G G11 G
+E queimei meu coração.
+
+
+      Am7                      G11/B
+Eu queimei os beijos que eu te dei
+        C
+Todas vezes em que eu já chorei
+    G
+Eu fui tão burra e insisti
+
+E cada erro estava aqui
+     Am7                  G11/B
+Eu quis tentar amar por dois
+      C
+Não quis saber de solidão
+   G
+E pra me arrepender depois
+
+Guardei as cartas no porão.
+
+   Am7              G11/B         C
+Eu fiz pedaços de um amor que eu quis
+                     G
+Que você jamais me fez,
+                     D9/F#
+Com você não fui feliz.
+    Am7             G11/B   C
+E joguei os pedaços pelo chão
+                    G G11 G
+E queimei meu coração.
+
+(Am7  G11/B  C  G  G11  G)(2x)
+
+     Am7                      G11/B
+Eu queimei os beijos que eu te dei
+        C
+Todas vezes em que eu já chorei
+    G
+Eu fui tão burra e insisti
+
+E cada erro estava aqui
+     Am7                  G11/B
+Eu quis tentar amar por dois
+      C
+Não quis saber de solidão
+   G
+E pra me arrepender depois
+
+Guardei as cartas no porão.
+
+   Am7              G11/B         C
+Eu fiz pedaços de um amor que eu quis
+                     G
+Que você jamais me fez,
+                     D9/F#
+Com você não fui feliz.
+    Am7             G11/B   C
+E joguei os pedaços pelo chão
+                    G G11 G
+E queimei meu coração.
+
+    Am7             G11/B   C
+E joguei os pedaços pelo chão
+                    G G11 G
+E queimei meu coração. (2x)
+    D9/F#       G
+Ou não    Ou não
+
+----------------- Acordes -----------------
+Capotraste na 3ª casa
+Am7*  = X 0 2 0 1 0 - (*Cm7 na forma de Am7)
+C*  = X 3 2 0 1 0 - (*D# na forma de C)
+C9*  = X 3 5 5 3 3 - (*D#9 na forma de C9)
+D*  = X X 0 2 3 2 - (*F na forma de D)
+D4/F#*  = 2 X X 2 3 3 - (*F4/A na forma de D4/F#)
+D9/F#*  = 2 X 0 2 3 0 - (*F9/A na forma de D9/F#)
+E*  = 0 2 2 1 0 0 - (*G na forma de E)
+Em7*  = 0 2 2 0 3 0 - (*Gm7 na forma de Em7)
+G*  = 3 2 0 0 0 3 - (*A# na forma de G)
+G11*  = 3 5 5 5 3 3 - (*A#11 na forma de G11)
+G11/B*  = X 2 0 0 1 3 - (*A#11/D na forma de G11/B)

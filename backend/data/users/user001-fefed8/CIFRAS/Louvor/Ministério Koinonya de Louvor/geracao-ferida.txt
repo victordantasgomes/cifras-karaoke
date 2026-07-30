@@ -1,0 +1,76 @@
+@titulo: geracao-ferida
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - Geração Ferida
+
+[Intro]  A  F6/A
+  A  F6/A
+
+A            F6/A
+   Em nossos corações
+       A
+  Arde um clamor
+   F6/A              A
+Ao ver vidas tão vazias
+  F6/A   Dm/F                   E4
+Temor          pairando em cada olhar
+     A
+Não há esperança
+D/A
+Para o mundo que te esquece
+    A
+Não há esperança
+                       D7+ C#m Bm   E
+Para o homem que te deixa - a - a - a
+E Fº  F#m          E
+      Não passe de nós
+      F#m
+O Teu mover
+             D7+
+Não passe de nós
+  C#m
+A Tua presença
+ D7+         F#m
+Não passe de nós
+  E        D7+
+O Teu escolher
+C#m           D7+
+Não passe da nossa geração
+
+[Ponte] E4  C#m D7+ E
+
+A             D/A          D7+
+Vem, Senhor, sarar com Tua glória
+A             D/A          D7+
+Marca aqueles rendidos da escuridão
+Bm        C#m
+Envia Tua palavra
+         E       E/F# D7+
+Resgata o homem ferido
+        Bm
+Nesta geração
+Bm  C#m D   E4
+Vem pra reinar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D7+ = X X 0 2 2 2
+Dm/F = X X 3 2 3 1
+E = 0 2 2 1 0 0
+E/F# = X X 4 4 5 4
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2
+F6/A = 5 3 3 5 3 X
+Fº = X X 3 4 3 4

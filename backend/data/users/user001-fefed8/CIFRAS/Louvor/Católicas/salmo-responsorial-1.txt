@@ -1,0 +1,61 @@
+@titulo: salmo-responsorial-1
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Salmo Responsorial 1
+
+F                Gm      Bb    C7       F
+Senhor, quem vos seguir terá a luz da vida!
+
+F              Dm            Gm
+Feliz é todo aquele que não anda
+C               Bb             F
+conforme os conselhos dos perversos
+ F             Dm                Gm
+que não entra no caminho dos malvados
+ C                Bm               F
+nem junto aos zombadores vai sentar-se
+ F               Dm                Gm
+mas encontra seu prazer na lei de Deus
+C                Bb            C7
+e a medita, dia e noite, sem cessar.
+
+                 Dm             Gm
+Eis que ele é semelhante a uma árvore
+ C               Bb               F
+que à beira da torrente está plantada
+ F
+ela sempre dá seus frutos a seu tempo
+
+                  F7            Bb
+e jamais as suas folhas vão murchar
+C                      Bb           C7
+Eis que tudo o que ele faz vai prosperar
+
+F
+Mas bem outra é a sorte dos perversos
+                 Dm               Gm
+Ao contrário, são iguais à palha seca
+C               Bb            F
+espalhada e dispersada pelo vento
+                 F7              Bb
+Pois Deus vigia o caminho dos eleitos
+C                  Bb              F
+mas a estrada dos malvados leva à morte.
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F7 = 1 3 1 2 1 1
+Gm = 3 5 5 3 3 3

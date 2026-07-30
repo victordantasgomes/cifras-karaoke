@@ -1,0 +1,44 @@
+@titulo: viver-por-fe
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - Viver Por Fé
+
+Intro: [ Em  D  C  Am  Bm  ]2x
+
+Em                                   C
+EIS-ME ENTÃO, COM ESSE PROPÓSITO NO CORAÇÃO
+                       D                    A
+VIVER POR FÉ E NÃO POR ILUSÃO, E PRÁ ELE ANDAR
+B           Em                            C
+   VIVER POR FÉ, SER SAL DA TERRA E LUZ DO MUNDO
+                      D                      A
+PROVAR A LOUCURA DA PREGAÇÃO, E QUE JESUS É MAIS QUE TUDO
+  B
+QUE   SONHEI
+
+ Em                              D                C
+JESUS, JESUS, JESUS, É MAIS QUE TUDO QUE O HOMEM POSSA REALIZAR
+       Am         Bm          Em9    D
+ELE É DEUS, VERDADEIRO CONSELHEIRO
+ Em                              D                C
+JESUS, JESUS, JESUS, É MAIS QUE TUDO QUE O HOMEM POSSA REALIZAR
+       Am         Bm Em9           D   (C D C D Em   antes do 1° solo e no final da musica)
+ELE É DEUS, VERDADEIRO CONSELHEIRO
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em9 = 0 2 4 0 0 0

@@ -1,0 +1,31 @@
+@titulo: que-seja-um
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Que Seja Um
+
+A          D                    A
+  Que seja um, é o que Eu quero mais.
+         D                     A
+Que seja um, é o que Eu quero mais.
+        Bm  E                     A
+O Meu Amor  é o que os torna capazes.
+           D            A
+Sem medo algum, se amem mais.
+            D           A
+Sem medo algum, se amem mais.
+         Bm   E               A
+O Meu Espírito  é quem age e faz.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0

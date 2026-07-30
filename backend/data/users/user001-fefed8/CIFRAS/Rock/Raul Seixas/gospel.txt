@@ -1,0 +1,101 @@
+@titulo: gospel
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Gospel
+
+(intro)   E (E4)
+
+E|------------------------------|
+B|---------5-5-----5-5-7-7-5----|
+G|-4-4-4-6-------6--------------|
+D|------------------------------|
+A|------------------------------|
+E|------------------------------|
+
+"Por que que o sol nasceu de novo e não amanheceu?
+                                                  B7
+Por que que é tanta honestidade no espaço se perdeu?
+                            E          E7                     A    Am
+Por que que o Cristo não desceu lá do céu e o veneno só tem gosto de mel?
+                   E     C#m      F#m   B7    E      A      E
+Por que que a água não matou a sede de quem bebeu?
+
+                               E
+Por que que eu passo a vida inteira com medo de morrer?
+                                                   B7
+Por que que os sonhos foram feitos pra gente não viver?
+
+                         E         E7                        A      Am
+Por que que a sala fica sempre arrumada se ela passa o dia inteiro fechada?
+                        E     C#m      F#m   B7    E   A     E
+Por que que eu tenho a caneta e não consigo escrever? Escrever
+
+                          E
+Por que que existem as canções que ninguém quer cantar?
+                                                B7
+Por que que sempre a solidão vem junto com o luar?
+                         E           E7                       A         Am
+Por que que aquele que você quer tão bem já tem sempre ao teu lado outro alguém?
+                          E        C#m    F#m      B7    E   A     E
+Por que que eu gasto tanto tempo sempre sempre a perguntar? a perguntar.
+
+E B7 (solo do Teclado)
+                               E
+Por que que eu passo a vida inteira com medo de morrer?
+                                                   B7
+Por que que os sonhos foram feitos pra gente não viver?
+                         E         E7                        A      Am
+Por que que a sala fica sempre arrumada se ela passa o dia inteiro fechada?
+                         E     C#m     F#m   B7   E    A    E
+Por que que eu tenho a caneta e não consigo escrever? Escrever
+
+   E B7 (solo)
+E|------------------------------|
+B|---------5-5-----5-5-7-7-5----|
+G|-4-4-4-6-------6--------------|
+D|------------------------------|
+A|------------------------------|
+E|------------------------------|
+
+E|------------------------------------555--33-2--14|
+B|---------5-5-----5-5-7-7-5---------444--22-1--13-|
+G|-4-4-4-6-------6-------------6-------------------|
+D|-------------------------------------------------|
+A|-------------------------------------------------|
+E|-------------------------------------------------|
+
+              F#
+Por que que existem as canções que ninguém quer cantar?
+                                              C#7
+Por que que sempre a solidão vem junto com o luar?
+                        F#           F#7                      B         Bm
+Por que que aquele que você quer tão bem já tem sempre ao teu lado outro alguém?
+                           F#     D#m    G#m     C#7    F#    B    F#
+Por que que eu gasto tanto tempo sempre sempre a perguntar? a perguntar.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D#m = X X 1 3 4 2
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+E7 = 0 2 2 1 3 0
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

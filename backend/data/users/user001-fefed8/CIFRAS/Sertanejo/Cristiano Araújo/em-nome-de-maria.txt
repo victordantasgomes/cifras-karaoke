@@ -1,0 +1,63 @@
+@titulo: em-nome-de-maria
+@autor:
+@intérprete: Cristiano Araújo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cristiano Araújo - Em Nome de Maria
+
+[Intro] F  G  F  G
+        C  C4  C
+
+C                C       C9         Dm  Dm/C  G5          G        G/B
+ Eu só queria falar, um pouco de você,         eu só queria dizer, que
+                 C  F  G  F
+Outra igual não tem
+C                  C           C9        Dm  Dm/C  G5           G
+ Mas como posso falar, se não sei expressar,        são coisas tão
+          G/B                 C  F  G  F
+Bonitas, que não vejo em ninguém
+C                  C       C9          Dm  Dm/C  G5                 G
+ Esse amor que me dá, tão puro e verdadeiro,      me trás tanta emoção
+   G/B         C    F  G  F
+Te amo, por inteiro
+C                 C      C9           Dm  Dm/C  G5       G
+ Seu colo sempre foi, repouso e aconchego,       vivendo ao teu lado
+G/B            C    C/B
+Eu nunca tive medo
+   G5        G       G/B        C         C9      D         D9     D4 D
+Você que me deu a vida, me ensinando a viver, se dei os primeiros passos
+
+   G5    G    G/B     F                         C               C9
+Agradeço a você,  cuidou sempre bem de mim, me fez tão feliz assim
+ G5         G          G/B    F         G     C C4 C  F  C  C/B
+Se hoje eu sou, o que sou,  graças a você eu dou
+
+   G5   G  G/B  G                C C4 C    C9              G5      G
+Mari....a....  tens o nome de Maria,    a mãe de todos os filhos, mas sou
+     G/B    G       C  C4 C  F  C  C/B
+Teu filho, minha Maria
+   G5   G  G/B  G                C C4 C    C9              G5      G
+Mari....a....  tens o nome de Maria,    a mãe de todos os filhos, mas sou
+     G/B    G       C  C4 C
+Teu filho, minha Maria
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+C/B = X 2 2 0 1 0
+C4 = X 3 3 0 1 X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D9 = X X 0 2 3 0
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G5 = 3 5 5 X X X

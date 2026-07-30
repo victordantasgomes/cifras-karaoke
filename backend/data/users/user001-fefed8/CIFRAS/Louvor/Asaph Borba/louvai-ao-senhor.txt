@@ -1,0 +1,39 @@
+@titulo: louvai-ao-senhor
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Louvai ao Senhor
+
+              F  Bb
+Louvai ao Senhor,
+        F      Bb
+Vós todas as nações,
+      F          C   Bb  F
+Louvai-O todos os povos.
+
+     Dm               A            Dm  A           Dm
+Porque, mui grande é a sua misericórdia para conosco
+   Bb                       F           Dm
+E a fidelidade do Senhor subsiste para sempre.
+     Bb   F
+Aleluia!
+     C    Dm
+Aleluia!
+     Bb   F
+Aleluia!
+     C    Dm
+Aleluia!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1

@@ -1,0 +1,55 @@
+@titulo: resgate
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Resgate
+
+Introdução: C / Em / F / C /
+
+  C                    Em
+Fomos Libertos com o Sangue da Cruz
+  F                 C
+Desde que o Brado soou
+  F                  C     Am
+Temos a marca de Cristo Jesus
+  D                  G
+Que Pelo Mundo Expirou
+ C                    Em
+Em nossas veias percorre um Sangue
+  F                C
+Doado com muito amor
+  F             C     Am
+Que Recupera e purifica
+  Dm        G        C
+Todo e Qualquer Pecador
+  C             Em
+Nosso Resgate Jesus já pagou
+   F              C
+Nossa Maldade Levou
+
+   C             Em
+Nosso Resgate Jesus já pagou
+   F              C
+Nossa Maldade Levou
+    Dm             G         C
+E agora estamos lires no Senhor
+ F            G# A# C
+Por um Resgate
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

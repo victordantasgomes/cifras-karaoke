@@ -1,0 +1,91 @@
+@titulo: coisas-da-vida
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Coisas da Vida
+
+Intro: A F#m7  F#m Bm  E
+
+         A
+O tempo parou quando eu fui te encontrar
+         F#m7
+E logo passou eu não pude esperar
+             Bm
+Às vezes eu sinto que estou sem alguém
+            E
+Amando a pessoa, que nunca amei
+               A
+Eu tenho um segredo e não vou te contar
+              F#m7
+Nem vou ser a vítima do teu olhar
+             Bm
+Às vezes me pego sem ter a razão
+              E
+Mas isto são coisas do meu coração
+           A
+Se falo baixinho é pra não me escutar
+              F#m
+Se estou tão sozinho, porque não ligar
+
+B/F#    Bm7
+Ainda a pouco eu disse a você
+               E
+São coisas da vida, não dá pra entender
+              A
+Então não me abraça, não dê mais razão
+           F#m
+Não quero você mais no meu coração
+           Bm
+Eu tenho motivos pra lhe esquecer
+               E
+Amar não se explica não dá pra saber
+         D                   E          A
+Quando será que vou me apaixonar por alguém
+
+D6  A  D6
+B  Abm  C#m7     F#m7
+
+           B
+Se falo baixinho é pra não me escutar
+               Abm
+Se estou tão sozinho, porque não ligar
+       C#m7
+Ainda a pouco eu disse a você
+              F#7
+São coisas da vida, não dá pra entender
+
+              B
+Então não me abraça, não dê mais razão
+           Abm
+Não quero você mais no meu coração
+          C#m
+Eu tenho motivos pra lhe esquecer
+              F#7
+Amar não se explica não dá pra saber
+B/F#      E                   F#  B/F#    Bmaj7
+Quando será que vou me apaixonar por alguém
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Abm = 4 6 6 4 4 4
+B = X 2 4 4 4 2
+B/F# = X X 4 4 4 2
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Bmaj7 = X 2 4 3 4 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D6 = X 5 4 2 0 X
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X

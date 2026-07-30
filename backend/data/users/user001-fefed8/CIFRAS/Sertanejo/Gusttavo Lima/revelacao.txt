@@ -1,0 +1,55 @@
+@titulo: revelacao
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Revelação
+
+(intro 2x)  C G Am F
+
+C        G    Am       F
+Não deu certo, a gente tentou
+C                G     Am            F
+Foi mais que o inferno o que a gente passou
+C            G   Am         F
+Não tinha sentido o que aconteceu
+C           G     Am         F
+Foi tempo perdido... você e eu
+
+(refrão 2x)
+C            G                    Dm
+Você foi o céu, minha estrela preferida
+ F                          C
+Luz que iluminou a minha vida
+          G                     Dm
+Você foi tudo que um dia eu sempre quis
+      F                  G           C
+Revelação de amor que um dia fui feliz
+
+
+( C G Am F )
+
+C        G    Am       F
+Não deu certo, a gente tentou
+C                G     Am            F
+Foi mais que o inferno o que a gente passou
+C            G   Am         F
+Não tinha sentido o que aconteceu
+C           G     Am        F
+Foi tempo perdido... você e eu
+
+(refrão 4x)
+
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

@@ -1,0 +1,60 @@
+@titulo: no-carro
+@autor:
+@intérprete: Matheus e Kauan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Matheus e Kauan - No Carro
+
+Intro: A D A D A
+
+ E
+No carro parado saindo da balada
+        B
+Eu não lembro de nada
+São seis da madrugada
+    C#m
+Eu bebi foi pra te esquecer
+        A
+Hoje eu senti saudade de você
+
+ E
+Eu fico viajando, um pouco envergonhado
+       B
+De um lado da rua e você do outro lado
+          C#m
+E a gente não pode mais conversar
+              A
+Se bem que eu tinha tanta coisa pra contar
+
+
+    F#m
+Mas é que eu continuo sendo o cara das perguntas
+  D
+Que não tem respostas
+            A
+E você não sabe o que fazer
+        E
+E você finge que não vê
+
+      F#m                    D                  A
+Que o amor acontece quando menos se espera ele vem
+                  E
+Vem sem bater na porta e faz morada
+ F#m              D               A
+Que o sentimento dure, se criou raíz
+                   E
+Aí é mais difícil segurar a barra
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,75 @@
+@titulo: uma-semana
+@autor:
+@intérprete: Cristiano Araújo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cristiano Araújo - Uma Semana
+
+INTRO: G#m  A (2X)
+
+E
+Meu coração ficou partido
+                      F#m7
+Quando o seu olhar me disse:
+Tá tudo acabado!
+E
+Quase que não me reconheci,
+                   F#m7
+Escutei tudo o que tinha pra me dizer calado.
+
+E
+Você tem razão em tudo que falou,
+           F#m7
+Só não acredito que me esqueceu.
+E
+Lágrimas não caem sem motivos,
+                 F#m7                 ( B7 )
+Nem a voz desaparece na hora do adeus.
+
+
+G#m
+Dois corpos não conseguem
+                      A
+Ficar longe quando se amam.
+   G#m
+Eu sei que a raiva passa
+                            A    B
+E essa briga acaba em uma semana.
+
+Refrão:
+
+            E
+Eu acho que agora já deu,
+             C#m
+A saudade já me fez chorar,
+                 A
+E aqui dentro do peito doeu,
+              B9
+Já tá na hora de você voltar.
+
+               E
+Pra gente começar tudo de novo,
+             C#m
+O que ainda não teve fim.
+    A
+Eu nasci pra te querer
+        B           E      B
+E Deus te inventou pra mim.
+
+(Intro e repete tudo)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X
+G#m = 4 6 6 4 4 4

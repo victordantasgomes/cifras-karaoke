@@ -1,0 +1,150 @@
+@titulo: Caso Indefinido
+@autor:
+@intérprete: Cristiano Araújo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+@bpm:
+@bateria:
+@guitarra:
+@baixo:
+@teclado:
+@modoexecucao: rolagem
+@tempoexecucao:
+
+Tom: E
+[Intro] C#m  A2  B2  C#m
+        C#m  A2  B2  C#m  B2   
+
+[Primeira Parte]
+
+   E
+Será que alguém explica 
+
+A nossa relação
+    C#m
+Um caso indefinido, mas rola paixão
+  F#m                 A2   
+Adoro esse perigo, mexe demais comigo
+     F#m                        B2   
+Mas não te tenho em minhas mãos
+
+               E
+Se você quiser
+   C#m
+Podemos ser um caso indefinido 
+
+Ou nada mais
+  G#m               
+Apenas bons amigos
+     A2   
+Namorar, casar ter filhos
+    F#m                A2     B2   
+Passar a vida inteira juntos
+
+[Segunda Parte]
+
+         F#m               C#m
+E vai saber se um dia seremos nós
+        F#m                     C#m
+Nenhum beijo, para calar nossa voz
+      F#m            
+Um minuto, uma hora 
+       E/G#
+Não importa o tempo
+   A2       B2   
+Se estamos sós
+
+[Refrão]
+
+               A2   
+Se você quiser
+   B2              C#m
+A gente casa ou namora
+                   A2   
+A gente fica ou enrola
+                B2   
+O que eu mais quero 
+                C#m
+É que você me queira
+
+               A2   
+Se você quiser
+   B2              C#m
+A gente casa ou namora
+                   A2   
+A gente fica ou enrola
+                B2   
+O que eu mais quero 
+                C#m
+É que você me queira
+          B2                  C#m
+Por um momento ou pra vida inteira
+
+( C#m  A2  B2  C#m )
+( C#m  A2  B2  C#m  B2 )
+
+[Segunda Parte]
+
+         F#m               C#m
+E vai saber se um dia seremos nós
+        F#m                     C#m
+Nenhum beijo, para calar nossa voz
+      F#m            
+Um minuto, uma hora 
+       E/G#
+Não importa o tempo
+   A2       B2   
+Se estamos sós
+
+[Refrão Final]
+
+               A2   
+Se você quiser
+   B2              C#m
+A gente casa ou namora
+                   A2   
+A gente fica ou enrola
+                B2   
+O que eu mais quero 
+                C#m
+É que você me queira
+
+               A2   
+Se você quiser
+   B2              C#m
+A gente casa ou namora
+                   A2   
+A gente fica ou enrola
+                B2   
+O que eu mais quero 
+                C#m
+É que você me queira
+
+               A2   
+Se você quiser
+   B2              C#m
+A gente casa ou namora
+                   A2   
+A gente fica ou enrola
+                B2   
+O que eu mais quero 
+                C#m
+É que você me queira
+
+               A2   
+Se você quiser
+   B2              C#m
+A gente casa ou namora
+                   A2   
+A gente fica ou enrola
+                B2   
+O que eu mais quero 
+                C#m
+É que você me queira
+          B2                  C#m
+Por um momento ou pra vida inteira

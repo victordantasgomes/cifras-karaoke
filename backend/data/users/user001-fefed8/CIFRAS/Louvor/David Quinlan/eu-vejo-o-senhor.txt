@@ -1,0 +1,52 @@
+@titulo: eu-vejo-o-senhor
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Eu Vejo o Senhor
+
+E               F#m
+   Eu vejo O Senhor
+      E             B
+Assentado sobre o trono
+                 F#m  A
+E a orla do seu manto
+         E
+Enche o céu
+                        F#m   A
+   Eu vejo O Senhor
+            E                    B
+E Ele brilha como o sol
+                                    F#m   E/G#
+Seus olhos cheios de fogo
+                                D       A
+Sua voz como as águas
+        F#m
+E ao redor de Seu trono
+    B            A
+milhares cantam:
+
+
+E                     B
+Santo,santo santo
+      F#m               A
+É O Senhor Poderoso
+E                       B
+Santo, santo santo
+             F#m    A
+É O Senhor
+(Termina em E)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

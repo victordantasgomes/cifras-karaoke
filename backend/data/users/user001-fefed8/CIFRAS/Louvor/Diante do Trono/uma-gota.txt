@@ -1,0 +1,64 @@
+@titulo: uma-gota
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Uma Gota
+
+Intro: Am  E  F  C  Dm  E  Am  Dm  Am
+
+                 E     F
+Uma gota do Teu sangue
+                  c  Dm
+É mais do que preciso
+            E                Am   E  Am
+Pra o Teu amor lavar meus pecados
+                      E  F
+Um pouquinho da Tua graça
+                  C   Dm
+É mais do que preciso
+            E                  Am
+Pra o Teu amor apagar meus fracassos
+   G/B  C    Dm     Am   E
+A Ti   cantarei Te honrarei
+ F           G       G#º      Am
+Tudo que eu tenho é pra Tua glória
+  G/B    C   Dm      Am   E
+A Ti   clamarei  Te seguirei
+    F           G               Am
+Te dou a minha vida, a minha história
+
+
+             E F                 C    Dm
+Um toque do Pai  É mais do que preciso
+            E                Am  E  Am
+Pra me mostrar o que é o perdão
+               E  F                    C   Dm
+Um abraço de amor    É mais do que preciso
+       E             Am
+Pra curar o meu coração
+
+  G/B  C     G      Am   E
+A Ti   cantarei Te honrarei
+ F           G       G#º      Am
+Tudo que eu tenho é pra Tua glória
+  G/B    C    G      Am   E
+A Ti   clamarei  Te seguirei
+    F           G               Am     G
+Te dou a minha vida, a minha história
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G#º = 4 X 3 4 3 X
+G/B = X 2 0 0 3 3

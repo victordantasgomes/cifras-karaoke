@@ -1,0 +1,34 @@
+@titulo: bandiandinha
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Bandiandinha
+
+D                                                                        A
+UM HOMEM VINHA PELA ESTRADA TOCANDO VIOLÃO,
+                                       D
+DING, DING, DING DOM
+                                                                                        A                                    D
+O OUTRO ACOMPANHAVA TOCANDO SEU TAMBOR, TA RÁ RÁ TÁ TÁ
+                G                                            D                      A                               D
+DING, DING, DING, DING DING DOM , TA-RÁ-RÁ TA-RÁ-RÁ TÁ-TÁ (2X)
+      D                                                                               A
+UM HOMEM VINHA PELA ESTRADA TOCANDO SEU PISTON,
+                                    D
+PORO, ROM POM, POM
+                                                                                      A                                                 D
+O OUTRO ACOMPANHAVA TOCANDO ACORDEOM, NHEC, NHEC, NHEC NHOM
+                G                                            D                      A                                                    D
+PORO, ROM PORO, ROM POM POM, , NHEC, NHEC, NHEC, NHEC NHEC NHOM  (2X)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3

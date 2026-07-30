@@ -1,0 +1,181 @@
+@titulo: so-os-loucos-sabem
+@autor:
+@intérprete: Charlie Brown Jr
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Charlie Brown Jr. - Só Os Loucos Sabem
+
+Intro:
+
+Riff 1:
+
+Parte 1
+
+E|--0--0--0--0--0--0--0--0--x--x----------------------|
+B|--0--0--0--0--0--0--0--0--x--x----------------------|
+G|-11/13-13-13-13-13-13-13--x--x----------------------|
+D|--------------------------x--x----------------------|
+A|--9/11-11-11-11-11-11-11--x--x----------------------|
+E|--0-----0--0--0--0--0--0--x--x----------------------|
+
+
+Parte 2
+
+E|--0--0--0--x--x-------------------------------------|
+B|--0--0--0--x--x-------------------------------------|
+G|-11-11-11--x--x-------------------------------------|
+D|-----------x--x-------------------------------------|
+A|--9--9--9--x--x-------------------------------------|
+E|--0--0--0--x--x-------------------------------------|
+
+
+
+Parte 3
+
+E|--0--0--x--x----------------------------------------|
+B|--0--0--x--x----------------------------------------|
+G|-14-14--x--x----------------------------------------|
+D|--------x--x----------------------------------------|
+A|-12-12--x--x----------------------------------------|
+E|--0--0--x--x----------------------------------------|
+
+
+Parte 4
+
+E|--------x----x---x-x--------------------------------|
+B|--------x----x---x-x--------------------------------|
+G|-11/13--x-11-x-9-x-x--------------------------------|
+D|--------x----x---x-x--------------------------------|
+A|--9/11--x--9-x-7-x-x--------------------------------|
+E|--------x----x---x-x--------------------------------|
+
+
+(C#m7  A9)
+
+Primeira Parte:
+
+  C#m        A9
+Agora eu sei
+  E
+Exatamente o que fazer
+ C#m            E        B4
+Bom recomeçar, poder contar com você
+                      C#m
+Pois eu me lembro de tudo, irmão
+A9         E
+Eu estava lá também
+   F#m
+O homem quando está em paz
+      E/G#  A9
+Não quer  guerra com ninguém
+
+  C#m                   A9
+Eu   segurei minhas lágrimas
+             E
+Pois não queria demonstrar a emoção
+ C#m                        E
+Já que estava ali só pra observar
+        B4
+E aprender um pouco mais
+
+Sobre a percepção
+      C#m
+Eles dizem que é impossível
+            A9
+Encontrar o amor
+        E
+Sem perder a razão
+F#m
+    Mas pra quem tem pensamento forte
+E/G#    A9
+O impossível é só questão de opinião
+
+Refrão:
+
+            C#m      A9  E
+E disso os loucos sabem
+       C#m      E  B4
+Só os loucos sabem
+          C#m      A9  E
+Disso os loucos sabem
+       F#m      E/G#  A9
+Só os loucos sabem
+
+(Repete Intro)
+
+Segunda Parte:
+
+        C#m     A9        E
+Toda a positividade eu desejo a você
+           C#m      E      B4
+Pois precisamos disso nos dias de luta
+   C#m             A9
+O medo cega os nossos sonhos
+   E
+O medo cega os nossos sonhos
+ F#m                 E/G#  A9
+Menina linda, eu quero  morar
+
+Na sua rua
+
+     C#m         A9   E
+Você     deixou sau__dade
+     C#m         E  B4
+Você     deixou saudade
+          C#m
+Quero te ver outra vez
+  A9      E
+Quero te ver outra vez
+   F#m       E/G#  A9
+Você deixou sau___dade
+
+Riff 2 (2x):
+
+( E5  E7M  E5  E7M  E5 ) 2x
+( C#m  C#9  C#m  C#9  C#m )
+
+E|----------------------------------------------------|
+B|-5-5--7-7--9-9--9-9--9-9-9-9------------------------|
+G|----------------------------------------------------|
+D|-2-2--4-4--6-6--6-6--6-6-6-6------------------------|
+A|-0-0--0-0--0-0--0-0--0-0-0-0------------------------|
+E|----------------------------------------------------|
+
+
+Primeira Parte:
+
+  C#m        A9
+Agora eu sei
+  E
+Exatamente o que fazer
+ C#m            E        B4
+Bom recomeçar, poder contar com você
+                      C#m
+Pois eu me lembro de tudo, irmão
+A9         E
+Eu estava lá também
+   F#m
+O homem quando está em paz
+      E/G#  A9
+Não quer  guerra com ninguém
+
+(Repete Intro)
+
+----------------- Acordes -----------------
+Capotraste na 3ª casa
+A9*  = X 0 2 2 0 0 - (*C9 na forma de A9)
+B4*  = X 2 4 4 0 0 - (*D4 na forma de B4)
+C#9*  = X 4 6 6 4 4 - (*E9 na forma de C#9)
+C#m*  = X 4 6 6 5 0 - (*Em na forma de C#m)
+C#m7*  = X 4 6 6 0 0 - (*Em7 na forma de C#m7)
+E*  = 0 2 2 1 0 0 - (*G na forma de E)
+E/G#*  = 4 X 2 4 0 0 - (*G/B na forma de E/G#)
+E5*  = 0 7 9 9 0 0 - (*G5 na forma de E5)
+E7M*  = 0 7 9 8 0 0 - (*G7M na forma de E7M)
+F#m*  = 2 4 4 2 2 2 - (*Am na forma de F#m)

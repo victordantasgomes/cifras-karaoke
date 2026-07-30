@@ -1,0 +1,10 @@
+@titulo: do-outro-lado-da-cidade
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:

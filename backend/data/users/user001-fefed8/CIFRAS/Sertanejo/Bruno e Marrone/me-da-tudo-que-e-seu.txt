@@ -1,0 +1,10 @@
+@titulo: me-da-tudo-que-e-seu
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:

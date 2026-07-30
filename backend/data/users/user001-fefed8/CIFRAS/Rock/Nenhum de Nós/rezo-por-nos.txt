@@ -1,0 +1,65 @@
+@titulo: rezo-por-nos
+@autor:
+@intérprete: Nenhum de Nós
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nenhum de Nós - Rezo Por Nós
+
+Intro: C F
+
+C                           F
+   A indômita luz estava clara em mim
+C                             Dm
+   E eu deixei tudo por essa solidão
+F7+               Gm
+   E leio revistas na tempestade
+Am                       Gm       Am
+   Fiz o sacrifício e abracei a cruz ao amanhecer
+   C          F          C  F
+   Rezo,  rezo por nós  (2x)
+C                          F
+   Morri sem morrer e abracei a dor
+C                             Dm
+   E eu deixei tudo por essa solidão
+F7+                    Gm
+   E se fez noite e agora estou aqui( estou aqui )
+Am                         Gm         Am
+   Meu corpo que cai e só vejo a cruz ao amanhecer
+   C          F          C    F
+   Rezo,  rezo por nós  (2x)
+
+G                              F
+   E curei as feridas e me acendi de amor
+G                                  F               G
+   E queimei as cortinas e me acendi de amor,  amor sagrado
+
+   Solo da introdução
+   Solo:Em  F  G  (A  Bb)3x    Intro ( ao invés de 6x, faça 4x )
+
+G                               F
+   E curei as feridas e me acendi de amor
+G                                  F               G
+   E queimei as cortinas e me acendi de amor,  amor sagrado
+
+   Intro (2x)
+
+   C          F          C    F
+   Rezo,  rezo por nós  (6x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

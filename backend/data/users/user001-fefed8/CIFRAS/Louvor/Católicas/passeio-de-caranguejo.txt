@@ -1,0 +1,41 @@
+@titulo: passeio-de-caranguejo
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Passeio de Caranguejo
+
+D         A       Bm        G      D  A  Bm G
+Quando a solidão aperta Faz tremer o pé...
+D   A             Bm          G   D  A   Bm G
+Passeio de caranguejo Depende da maré...
+
+G         A       D Bm  G        A     D  A/C# Bm Bm/A
+Não vou ficar chorando Vendo a vida passar...
+G       A       D         Bm          Em    A         Bm D7
+Vou entoar meu canto, Louvando com os anjos até o sol raiar.
+   D                      A          Bm
+A boca fala aquilo que o coração tá cheio, Tá cheio
+   D                      A          Bm                    D      A   Bm  D7
+A boca fala aquilo que o coração tá cheio, Tá cheio de amor...
+
+G         A       D Bm  G        A     D  A/C# Bm Bm/A
+Não vou ficar chorando Vendo a vida passar...
+G       A       D         Bm          Em    A         Bm D7
+Vou entoar meu canto, Louvando com os anjos até o sol raiar.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

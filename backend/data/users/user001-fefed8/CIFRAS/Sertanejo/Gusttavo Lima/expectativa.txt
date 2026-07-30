@@ -1,0 +1,153 @@
+@titulo: expectativa
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Expectativa
+
+[Intro] C#m  B  A  B
+
+E|-------4-5-----4-9--7---------------------|
+B|-----5-----7~--5-10-7---------------------|
+G|---6--------------------------------------|
+D|------------------------------------------|
+A|-4----------------------------------------|
+E|------------------------------------------|
+
+[Primeira Parte]
+
+                 E
+Não precisa se preocupar
+                                        C#m7
+Tô seguindo à risca o que a gente combinou
+Sem expectativa
+                    A9
+Nada de chamar de amor
+                  B9
+Eu posso te explicar
+
+
+[Pré-Refrão]
+
+                   A9
+Não é porque coloquei sua foto na minha carteira
+                 E
+Não é porque tatuei a primeira letra do seu nome
+                 F#m7
+Eu não tô me apegando não
+                    A9
+Mas se eu for lá pedir sua mão
+                  E
+Será que seu pai deixa?
+           F#m7           A9         E/G#
+Se ele deixar, nóis casa na segunda-feira
+
+[Refrão]
+
+              F#m7
+Não é expectativa não
+              A9
+Já é amor faz um tempão
+           E
+Quando te vi, senti, deu ruim, passou
+   B9
+Já era pro meu coração
+
+              F#m7
+Não é expectativa não
+              A9
+Já é amor faz um tempão
+           E
+Quando te vi, senti, deu ruim, passou
+   B9
+Já era pro meu coração
+              F#m7
+Não é expectativa não
+
+( A9  E  B9 )
+
+[Riff]
+
+E|-7b9r7------------------------------------|
+B|-------7b9r7-5~--4-2----------------------|
+G|---------------------4--------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Pré-Refrão]
+
+                   A9
+Não é porque coloquei sua foto na minha carteira
+                 E
+Não é porque tatuei a primeira letra do seu nome
+                 F#m7
+Eu não tô me apegando não
+                    A9
+Mas se eu for lá pedir sua mão
+                  E
+Será que seu pai deixa?
+           F#m7           A9         E/G#
+Se ele deixar, nóis casa na segunda-feira
+
+[Refrão]
+
+              F#m7
+Não é expectativa não
+              A9
+Já é amor faz um tempão
+           E
+Quando te vi, senti, deu ruim, passou
+   B9
+Já era pro meu coração
+
+              F#m7
+Não é expectativa não
+              A9
+Já é amor faz um tempão
+           E
+Quando te vi, senti, deu ruim, passou
+   B9
+Já era pro meu coração
+
+              F#m7
+Não é expectativa não
+              A9
+Já é amor faz um tempão
+           E
+Quando te vi, senti, deu ruim, passou
+   B9
+Já era pro meu coração
+
+              F#m7    A9
+Não é expectativa não
+           E
+Quando te vi, senti, deu ruim, passou
+   B9
+Já era pro meu coração
+
+[Final] F#m7  A9
+
+E|------------------------------------------|
+B|-5/7-9\7~--10-9-12~-----------------------|
+G|------------------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m7 = 2 X 2 2 2 X

@@ -1,0 +1,78 @@
+@titulo: pai-joao
+@autor:
+@intérprete: Tião Carreiro e Pardinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Tião Carreiro e Pardinho - Pai João
+
+(intro) D7 G
+
+E|-----------------------------------------------------------------|
+B|-------------7--10--7-----8--------------------------------------|
+G|---7--9--10------------9-----7---------7--9----------------7-----|
+D|--------------------------------9--10--------10--7--9--10-----9--|
+A|-----------------------------------------------------------------|
+E|-----------------------------------------------------------------|
+
+E|--------------------------------------------------------------------------|   
+B|--------------------------------------------------------------------3-----|
+G|-----------------------------------------------------------------4-----4--|
+D|-------------4--7--4-----5---------------------------4--7--5--5-----------|
+A|---5--7--8------------7-----5---------5--7-----5--7-----------------------|
+E|-------------------------------7--8---------8-----------------------------|
+
+G                    C     D7      G
+Caminheiro quem passar naquela estrada
+         C    D7  G       G                   G7  *(I)(Passagem)
+Ve uma cruz abandonada como quem vai pro sertão
+
+
+(I)
+E|---3-----------------------0--|
+B|---3-----------------------1--|
+G|---4-----------------------0--|
+D|---5-----5--4--3-----------2--|
+A|---5--5--------------3--2--3--|
+E|---3--------------3-----------|
+
+
+            C          D7           G
+Ha muitos anos neste chão foi sepultado um preto veio
+    A           D7         G
+ e herado por nome de pai joão
+
+(solo)   C  C  G   C
+
+G              C     D7     G             C D7      G
+pai joão na fazenda dos coqueiros foi destemido carreiro
+ G             G7  (I)      C          D7          G
+Querido do seu patrão sua boiada o Chibante e o Brioso
+              A            D7            G
+No morro mais perigoso arrastava o carretão                (solo)
+
+G              C        D7  G           C     D7     G         G
+Numa tarde pai joão não esperava que a morte lhe rondava
+ G7                 (I)         C            D7         G
+La na curva do areião e de uma queda em baixo do carro caiu
+                  A        D7          G
+Do mundo se dispidiu preto veio pai joão             (solo)
+
+G             C     D7       G           C   D7      G
+Caminheiro aquela cruz no caminho já contei tudo certinho
+                     (I)        C      D7              G
+A historia de pai joão,resta saudade daquele tempo que foi
+                  A      D7              G    A  D7   G
+O velho carro de boi no fundo do manqueirão
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C = X 3 2 0 1 0
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

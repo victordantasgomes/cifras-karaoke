@@ -1,0 +1,55 @@
+@titulo: nossas-memorias
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Nossas Memórias
+
+Intro 2x: D E A F#m D E
+
+ A                E
+Quando a saudade bate no peito,
+    F#m               C#m             D
+Eu choro pensando em tudo que nós vivemos.
+            E
+Você foi embora.
+
+ A              E
+Mesmo querendo recomeçar,
+     F#m             C#m               D
+Não vou apagar os momentos que nós tivemos,
+          E
+Nossas memórias.
+
+ Bm                                     F#m
+Todas as noites me lembro dos nossos planos,
+                            A             E
+Esqueço que um dia você partiu sem dizer nada.
+ Bm                         F#m
+Quero de volta essa felicidade,
+
+                                    A            E
+Estou sonhando, não quero mais acordar pra realidade.
+
+ D                 E         A                   F#m
+Esses meus sonhos vão me iludindo, me tiram a razão.
+          D                       E
+Contos de fadas são só imaginação.
+ D                    E             A                F#m
+Eu quero um dia entender por que a vida só me faz sofrer
+             D                  E                   A
+Se o meu destino é viver sem você não quero mais viver.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

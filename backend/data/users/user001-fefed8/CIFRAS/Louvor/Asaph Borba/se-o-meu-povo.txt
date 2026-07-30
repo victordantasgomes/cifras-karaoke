@@ -1,0 +1,68 @@
+@titulo: se-o-meu-povo
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Se o Meu Povo
+
+Intro: C#m A9 B9 C#m A9 B9
+
+      E  A9              E A9
+Se o meu povo,  que se chama pelo meu Nome
+     E A9           B9 A9 B9
+Se humilhar,  orar e me buscar
+      E  A9               E A9
+Se o meu povo,   que se chama pelo meu Nome
+     E  A9             B9 A9 B9
+Se converter   dos seus caminhos maus
+
+Refrão:
+        C#m   B9 A9
+Então eu ouvirei,
+          C#m   B9 A9
+Ouvirei sua oração
+             C#m  B9  A9
+Perdoarei os seus pecados,
+         B9  A9 B9
+Sararei sua nação
+
+           C#m   B9   A9
+Sararei suas famílias,
+               C#m    B9 A9
+Seus filhos e suas filhas
+           C#m    B9 A9
+Curarei suas feridas
+          B9  A9 B9
+Restaurando sua vidas
+
+              C#m    B9 A9
+Vou tirar a idolatria
+           C#m   B9 A9
+E toda feitiçaria
+            C#m   B9  A9
+Vou curar a violência,
+         B9  A9 B9
+Sararei sua nação
+
+              C#m   B9 A9
+Vou curar seus governantes,
+                C#m   B9  A9
+Reis, rainhas e presidentes
+          C#m  B9  A9
+Sararei a economia,
+             B9 A9  B9
+Restaurarei sua alegria
+
+Repete Refrão:
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0

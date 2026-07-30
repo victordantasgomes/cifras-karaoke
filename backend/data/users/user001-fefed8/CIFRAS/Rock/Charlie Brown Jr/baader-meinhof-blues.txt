@@ -1,0 +1,96 @@
+@titulo: baader-meinhof-blues
+@autor:
+@intérprete: Charlie Brown Jr
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Charlie Brown Jr. - Baader-Meinhof Blues
+
+Introd.: F#m D E
+
+Riff
+  E(2x)  F#m     D     E    F#m     D       E
+e|----!------------------|---------------------|
+b|----!------------------|---------------------|
+g|-9--!-11----11-7-6-7-9-|-11----11-14-13-11-9-|
+d|-9--!-11-11-11-7-6-7-9-|-11-11-11-14-13-11-9-|
+a|-7--!-9--11-9--5-4-5-7-|-9--11-9--12-11-9--7-|
+E|----!----9-------------|----9----------------|
+
+F#m                       D
+A violência é tão fascinante
+ E
+E nossas vidas são  tão normais
+F#m                    D
+Você passa de noite e sempre vê
+E
+Apartamentos acesos
+D#          B         C#m
+Tudo parece ser tão   real
+
+          F#m             D     E
+Mas você viu esse filme também
+    F#m     D    E       F#m    D       E
+Andando nas ruas, pensei que podia ouvir
+   D#     B    C#m    F#m       D       E
+Alguém me chamando,  dizendo meu nome
+ B                   A
+Já estou cheio de me sentir vazio
+B                      A
+Meu corpo é quente e estou sentindo frio
+B                  A
+Todo mundo sabe e ninguém quer mais saber
+  B                     A           (E)
+Afinal , amar o próximo é tão demodê
+A     E    A     (F#m  D  E)
+ Ô, ô, ô ...
+
+--------->Repete Riff<------------
+
+F#m       D   E
+Essa justiça desafinada
+F#m        D      E
+  É tão humana e tão errada
+D#           B             C#m
+Nós assistimos televisão também
+        F#m   D    E
+Qual é a diferença?
+F#m      D    E
+Não estatize meus sentimentos
+F#m          D      E         D#        B    C#m
+ Pra seu governo, o meu estado é independente
+F#m  D  E
+Ô, ô, ô...
+B                A
+Já estou cheio de me sentir vazio
+B                   A
+Meu corpo é quente e estou sentindo frio
+B                 A
+Todo mundo sabe e ninguém quer mais saber
+     B                   A            E (A  E)
+Afinal , amar o próximo é tão demodê
+
+Final:
+
+   E        A        E
+E|-7--------0--------0---
+B|-9--------3--------0---
+G|-9--------3--------1---
+D|-9--------3--------2---
+A|-7--------0--------2---
+E|-x--------x--------x---
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

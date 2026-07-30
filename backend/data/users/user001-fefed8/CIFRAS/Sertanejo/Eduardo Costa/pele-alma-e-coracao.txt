@@ -1,0 +1,50 @@
+@titulo: pele-alma-e-coracao
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Pele, Alma e Coração
+
+(intro) C F Am C F G
+
+  C                F                        C    F
+Tenho que esquecer, vou morrer de amor por ela
+C             F                           G
+vou enlouquecer se eu não conversar com ela
+ F                              Am                   F
+dentro do meu peito explode um grito sentimento escondido
+                 Am   F                   Am
+deixa o mundo desabar o meu coração tá dominado
+                  F             Dm         G
+de repente foi laçado será que ela vai me amar
+  C            F                 C                        F
+Posso até perder vou passar por maus bocados vou sofrer
+                  Am            F                      G
+se ela ignorar a minha solidão, o que é que eu vou fazer
+
+          C                          Em
+Não vejo sol não sinto frio será que ela ainda não viu
+           F             Dm             G
+que pra esperar por esse amor parei no tempo
+
+               C                          Em
+    será que existe outra paixão de pele alma e coração
+            F            Dm             G
+que dá pra ela o mesmo amor e o sentimento
+
+                      C
+que eu tenho no meu peito
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

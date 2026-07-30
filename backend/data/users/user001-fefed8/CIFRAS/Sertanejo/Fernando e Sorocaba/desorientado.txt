@@ -1,0 +1,55 @@
+@titulo: desorientado
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - Desorientado
+
+ Intro 2x: A  E  D9
+E|---------------------------------------------------|
+B|---------------------------------------------------|
+G|--6-7-7/9-7---6-7-7/9-9/11-9-7-6-7-6-7-6-7-6-------|
+D|---------------------------------------------7-9---|
+A|------------7------------------------------------7-|
+E|---------------------------------------------------|
+
+E|---------------------------------------------------|
+B|---------------------------------------------------|
+G|--6-7-7/9-7---6-7-7/9-9/11-9-7-6-7-6-7-9-11-13-14--|
+D|---------------------------------------------------|
+A|------------7--------------------------------------|
+E|---------------------------------------------------|
+
+A                              E                    D9
+Não pude perceber quando as flores começaram a murchar
+A                               E                   D9
+Nem mesmo me toquei quando o inverno invadiu o seu olhar
+A                           E                    D9
+Porque acreditei que o até logo nunca iria ser adeus
+
+A                        E                     D9
+Porque imaginei que o paraíso era eternamente meu
+
+Bm                  F#m                         D9                    E
+Ingenuidade minha acreditar que a chama desse amor eterno nunca iria se apagar
+Bm                     F#m                     D9                    E
+Tão desatento eu não percebi você tentava me falar O que eu não podia ouvir
+
+Refrão 2x:
+A              E                 D9
+Sozinho eu fiquei, sem rumo eu chorei, completamente desorientado
+A                      E        D9
+Assumo eu errei ta na cara. O Nosso amor gritava por socorro e eu não escutava
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,69 @@
+@titulo: a-indecencia
+@autor:
+@intérprete: Kid Abelha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kid Abelha - A Indecência
+
+George Israel / Paula Toller
+
+Solo:
+E|-------------------------------------------------------------13--13----15------------------
+B|-13-13-13----------------------------------------13-16-13-15--------16---------------------
+G|----------15-12----------------------------------------------------------------------------
+D|----------------13h15-13------13-15-15--15-13h15-------------------------------------------
+A|---------------------------15-----------------------------------------------5-5-5-5-6-5-5--
+E|-------------------------------------------------------------------------------------------
+
+Cada nota desse trecho repete 2 ou 3 vezes:
+E|-------------------------------------------|--6---8---------8--
+B|-------------------4-5-7---4-5-7-5-4---4---|--------10---------
+G|-------------------------------------7---7-|-----------10-8----
+D|---4-7-4-------4---------------------------|-------------------
+A|-6-------6-5-6-----------------------------|-------------------
+E|-------------------------------------------|-------------------
+
+
+[Intro:]Bb9 A9 F   Cm Bb9 F
+
+
+Cm
+A indecência pode ser saudável
+Bb9                F
+A indecência pode ser normal
+Cm               F                    Am
+Um pouco de indecência é sempre necessário
+        F               Bb
+pra manter uma vida normal
+        F               Bb      Cm
+pra manter uma vida normal, saudável
+
+A castidade pode ser bonita
+A castidade pode ser normal
+Na hora certa ela é necessária
+pra manter uma vida normal
+pra manter uma vida normal, saudável
+
+Bb
+Tudo é permitido
+C                        Bb
+se o sentimento for verdadeiro
+C
+mas se o cérebro vier primeiro
+   Bb
+é tudo proibido
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+F = 1 3 3 2 1 1

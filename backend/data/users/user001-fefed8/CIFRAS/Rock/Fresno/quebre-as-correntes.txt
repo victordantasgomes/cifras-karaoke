@@ -1,0 +1,123 @@
+@titulo: quebre-as-correntes
+@autor:
+@intérprete: Fresno
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fresno - Quebre As Correntes
+
+(intro) (2x)
+
+(na última nota deixe soar, nas duas vezes)
+
+E |------------------------------0000-0000-00--------------------
+B |--5555-5555-55--4444-4444-44----------------2222-2222-22------
+G |--6666-6666-66--2222-2222-22--4444-4444-44----------------2~--
+D |--6666-6666-66--4444-4444-44--2222-2222-22--2222-2222-22--2~--
+A |--4444-4444-44--3333-3333-33--2222-2222-22--1111-1111-11--0~--
+E |--------------------------------------------------------------
+
+(verso) (2x)
+E |----------------------00--00----------------
+B |--55--55----44--44--------------22--22------
+G |--66--66----22--22----44--44-------------2~-
+D |--66--66----44--44----22--22----22--22---2~-
+A |--44--44----33--33----22--22----11--11---0~-
+E |--------------------------------------------
+
+(verso)
+         C#m
+O que fazer
+
+              Cº
+quando não estão mais nem aí
+       E/B
+para você?
+            A#º
+Quando seu mundo não passa
+              A9
+de uma prisão
+
+E |---------11-12---------||
+B |-----------------------||
+G |--9-8-9--------9/11-9--||
+
+         C#m
+O que dizer
+              Cº                   E/B
+quando a sua vida não é igual à da TV?
+              A#º
+Quando as pessoas tratam mal
+            A9
+seu coração (quebre as correntes...)
+
+E |---------11-12---------||
+B |-----------------------||
+G |--9-8-9--------9/11-9--||
+
+(refrão)
+E                 B
+  Prometa não chorar
+                 C#m
+e não se arrepender  (não chorar)
+ Cº
+  não chorar!
+E                  B
+  O que você precisar
+                  C#m
+se encontra em você   (não chorar)
+Cº
+  (não chorar)
+
+(verso)
+         C#m
+E como agir
+          Cº                         E/B
+se mãos amigas se transformam em punhais?
+        A#º
+E todos acham que você
+            A9
+não é capaz(de desatar os nos)
+E |---------11-12---------||
+B |-----------------------||
+G |--9-8-9.-------9/11-9--||
+
+           C#m
+E o que sentir
+            Cº                    E/B
+quando até mesmo voce chega a duvidar
+            A#º                   A9
+que ainda existe alguma chance de virar (o jogo pra você)
+
+B |--------------12-10-9/109-----||
+G |--8-11-9.-8/9--------------9~-||
+
+F#m            A          C#9
+   Não vou deixar desmoronar
+          E            F#m
+castelos que eu construi
+               A
+com as minhas mãos na areia
+C#9        Cº            E
+   A vida tem de prosseguir
+
+(refrão 2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#º = X 1 2 0 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+C#9 = X 4 6 6 4 4
+C#m = X 4 6 6 5 4
+Cº = X 3 4 2 4 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

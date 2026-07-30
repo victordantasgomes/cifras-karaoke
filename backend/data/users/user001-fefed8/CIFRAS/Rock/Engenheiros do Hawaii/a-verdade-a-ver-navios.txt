@@ -1,0 +1,111 @@
+@titulo: a-verdade-a-ver-navios
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - A Verdade a Ver Navios
+
+Introdução: E9 E
+
+    E9          E/B
+Na hora "H", no dia "D"
+   F#11/C#
+Na hora de pagar pra ver
+    A/C#               C6               E/B  E9
+Ninguém diz o que disse "não era bem assim"
+                E/B
+Na hora "H", no dia "D"
+   F#11/C#
+Na hora de acender a luz
+    A/C#                 C6
+Ninguém dá nome aos bois
+                 E/B  E9
+Tudo Fica pra depois
+                E/B
+Na hora "H", no dia "D"
+    F#11/C#
+Ninguém paga prá ver
+A/C#           C6
+Tudo fica pra trás
+
+                   E/B  E9
+Querem mais é esquecer
+
+            E
+Mas é impossível repetir
+              A/C#
+O que só acontece uma vez
+        D
+É impossível reprimir
+          A9         A              G#m
+O que acontece toda vez que alguém acorda
+       A9              A
+Porque já não aguenta mais
+    A9         A                 B11 B
+E a corda arrebenta do lado mais forte
+
+   E9        E/B      F#11/C#
+É muito engraçado que todos tenham os mesmos sonhos
+         A/C#         C6         E/B E9
+E que os sonhos nunca virem realidade
+             E/B         F#11/C#
+É muito engraçado que estejam do mesmo lado
+        A/C#        C6                    E/B E9
+Os que querem iluminar e os que querem iludir
+             E/B       F#11/C#
+É muito engraçado que todo mundo tenha armas capazes de tudo
+   A/C#             C6                    E/B   E9
+De todo o mundo acabar no dia "D" na hora "H"
+
+        E
+É impossível repetir
+              A/C#
+O que só acontece uma vez
+        D
+É impossível reprimir
+          A9         A               G#m
+O que acontece toda vez que alguém acorda
+       A9              A
+Porque já não aguenta mais
+    A9         A                 B11 B
+E a corda arrebenta do lado mais forte
+
+        E
+É impossível repetir
+              A/C#
+O que só acontece uma vez
+        D
+É impossível reprimir
+          A/C#
+O que acontece toda vez
+            G#m        A9         G#m       A9
+Que chega a hora de dizer chega a hora de dizer
+        G#m        A9          B11  B B11 B
+Chega a hora de dizer chega dizer chega
+
+3x(E B A B) - A
+
+ E9                    F#11/C#           A/C# C6
+Não pagar pra ver a verdade a ver navios
+           E
+Onde já se viu?
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B11 = X 2 4 4 5 2
+C6 = 8 X 7 9 8 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E9 = 0 2 4 1 0 0
+F#11/C# = X 4 4 6 7 7
+G#m = 4 6 6 4 4 4

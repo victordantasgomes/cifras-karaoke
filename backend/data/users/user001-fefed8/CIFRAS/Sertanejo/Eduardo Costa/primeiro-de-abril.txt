@@ -1,0 +1,63 @@
+@titulo: primeiro-de-abril
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Primeiro de Abril
+
+[Intro] A  A/C#  D  E
+        A/C#  D  E
+
+E
+Se eu bebi
+                                     A
+Não foi por por causa de você posso jurar
+                                  B
+Se eu chorei me deu vontade de chorar
+           A           B         E     A E
+Não vá pensar que ainda sofro por você
+Se alguém falou
+                                         A
+Que andei mostrando seu retrato isso é conversa
+                               B
+A sua vida quer saber não me interessa
+          A               B          E
+Eu te asseguro eu nem me lembro de você
+
+A        B      E
+Segue a sua estrada
+
+A        B      E
+Que eu já te esqueci
+A          B    E
+Quando o amor acaba
+A                     B         E
+O coração sabe o caminho de seguir
+
+C#m                   G#m
+Deve ser outra pessoa ou um caso parecido
+A                           B
+Deve ser alguém querendo só brincar contigo
+C#m                      G#m
+Mas se fosse diferente e esse cara fosse eu
+A                             B
+Você também assumiria que não me esqueceu
+          A        B        G#m       C#m
+Hoje é o dia da mentira eu brinquei você caiu
+       A             B           E
+Na verdade hoje é primeiro de abril
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+G#m = 4 6 6 4 4 4

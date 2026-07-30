@@ -1,0 +1,180 @@
+@titulo: sunshine
+@autor:
+@intérprete: Vitor Kley
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vitor Kley - Sunshine
+
+[Intro] G  C9  Em7  D
+        G  C9  Em7  D
+
+[Primeira Parte]
+
+G        C9
+  Hello sunshine
+ Em7        D
+Don't be afraid
+G             C9        Em7  D
+  Everything will be alright
+G                 C9
+  Don't stop the fight
+      Em7      D
+That life goes on
+                G        C9
+No matter what happens it   happens
+          Em7  D
+You will win
+
+[Segunda Parte]
+
+
+Am                     C
+  Everything that you lose you will
+   G                                       D
+Recover no matter what happens you will be able to fight
+              Am  C  D
+And i'll be there
+
+[Terceira Parte]
+
+G         D4/F#
+  The sun       shone
+Em7               C9
+   And you have the power
+      G     D4/F#
+To return alone
+Em7                   C9                   G  D4/F#
+   When these things doesn't make sense to anyone
+Em7      C9       G  D4/F#  C9
+   Make sense to me
+
+[Solo] G  C9  Em7  D
+       G  C9  Em7  D
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|-----0-----0-----0-----0-----0------------|
+D|-0h2---0h2---0h2---0h2---0h2--------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|-----2/4-2-0------------------------------|
+D|-0h2---------2----------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|-----0-----0-----0-----0-----0------------|
+D|-0h2---0h2---0h2---0h2---0h2--------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|-----2/4-2-0-----0------------------------|
+D|-0h2---------0h2--------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Primeira Parte]
+
+G        C9
+  Hello sunshine
+ Em7        D
+Don't be afraid
+G             C9        Em7  D
+  Everything will be alright
+G                 C9
+  Don't stop the fight
+      Em7      D
+That life goes on
+                G        C9
+No matter what happens it   happens
+          Em7  D
+You will win
+
+[Segunda Parte]
+
+Am                     C
+  Everything that you lose you will
+   G                                       D
+Recover no matter what happens you will be able to fight
+              Am  C  D
+And i'll be there
+
+[Terceira Parte]
+
+G         D4/F#
+  The sun       shone
+Em7               C9
+   And you have the power
+      G     D4/F#
+To return alone
+Em7                   C9                   G  D4/F#
+   When these things doesn't make sense to anyone
+Em7        C9
+   M__ake sense to me
+
+[Terceira Parte]
+
+G         D4/F#
+  The sun       shone
+Em7               C9
+   And you have the power
+      G     D4/F#
+To return alone
+Em7                   C9                   G  D4/F#
+   When these things doesn't make sense to anyone
+Em7      C9       G  D4/F#  Em7
+   Make sense to me
+C9                G  D4/F#  C9
+   Make sense to me
+
+[Final] G  C9  Em7  D
+        G  C9  Em7  D  G
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|-----0-----0-----0-----0-----0------------|
+D|-0h2---0h2---0h2---0h2---0h2--------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|-----2/4-2-0------------------------------|
+D|-0h2---------2----------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|-----0-----0-----0-----0-----0------------|
+D|-0h2---0h2---0h2---0h2---0h2--------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|-----2/4-2-0-----0------------------------|
+D|-0h2---------0h2--------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D4/F# = 2 X X 2 3 3
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3

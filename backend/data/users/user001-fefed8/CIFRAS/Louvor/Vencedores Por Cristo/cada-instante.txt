@@ -1,0 +1,47 @@
+@titulo: cada-instante
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Cada Instante
+
+
+G D9/F#   Dm/F         C Cm/Eb     G/D
+Ca  da instante    contigo,    Senhor,
+     C    Cm7     Bm7  Em
+Que passo a  teus pes
+    Am       Am79- D
+Eu sou mais  fe  liz
+   G D9/F# Dm/F        C Cm    Bm7  E7
+  Ca da instante   contigo, Jesus
+   Am        Cm7      Bm7       Em
+Eh paz em minh'alma suave harmonia
+   Am   D       Dm  F/G
+No teu grande amor
+   Am        Cm7      Bm7       Em
+Eh paz em minh'alma suave harmonia
+   Am   D       G
+No teu grande amor
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+Cm/Eb = X X 1 0 1 3
+Cm7 = X 3 5 3 4 3
+D = X X 0 2 3 2
+D9/F# = 2 X 0 2 3 0
+Dm = X X 0 2 3 1
+Dm/F = X X 3 2 3 1
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F/G = 3 X 3 2 1 X
+G = 3 2 0 0 0 3
+G/D = X 5 5 4 3 X

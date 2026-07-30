@@ -1,0 +1,41 @@
+@titulo: se-bem-vindo
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Sê Bem Vindo
+
+G       D/F#    Em       Em/D
+Sê bem vindo ó Rei Jesus
+C     G/B  Am           D
+És o amado    que nossa alma anseia
+G      D/F#     Em Em/D
+Sê bem vindo ó Rei
+   C  G/B  Am    D           C
+Vitorioso pelos séculos dos séculos
+  D     B7
+Amém, amém
+
+Em    D      C     G/B  Am    D/F#
+   Recebe a nossa adoração, aroma suave
+Em    D    C   G/B      Am
+   Nossas vidas é o melhor
+       D                G (Intro)
+Que podemos oferecer a Ti
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

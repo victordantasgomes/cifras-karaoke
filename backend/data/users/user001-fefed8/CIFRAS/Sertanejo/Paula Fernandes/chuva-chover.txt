@@ -1,0 +1,58 @@
+@titulo: chuva-chover
+@autor:
+@intérprete: Paula Fernandes
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Paula Fernandes - Chuva Chover
+
+Intro  2x:  G   C9  D  D4   C9
+
+G C9        D   D4       C9     G     C9            D     D4  C9
+Ah ah ah ah               ah ah ahhh...            Ah ah ah ah
+
+ G                C9                    G
+Sei, que nenhum de nós será
+    C9                         D (D9)         C9
+Feliz cultivando uma vida sem regar assim
+       G                 C9                    G
+Eu sei, que bem lá no fundo, você
+       C9                                    D (D9)      C9
+também não consegue esquecer esse nosso amor.
+
+Em                            C                       G                                D
+      Hoje eu sou um sol que brilha sozinho em qualquer lugar
+Em                         C                   G       D
+      E você chove noites vazias sem luar
+
+Am7                              C                         G                                 D
+        A gente canta os sonhos mas nem sempre podemos sonhar
+
+Am7                                 C                         G                             D
+        A gente encanta os outros mas nem sempre sabemos amar
+
+Dm                F                          C                       G                           Dm
+Lembra das flores que você regou, a primeira vez que você me beijou
+                      F                  C
+Dizendo pra eu deixar a chuva chover
+Dm              F                          C                        G                          Dm
+Se aquela rosa que desabrochou, não sabe viver longe do seu amor
+                        F                            C
+Então venha me molhar, fazer a chuva chover
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D9 = X X 0 2 3 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

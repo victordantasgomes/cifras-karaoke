@@ -1,0 +1,75 @@
+@titulo: esta-noite-foi-maravilhosa
+@autor:
+@intérprete: Cristiano Araújo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cristiano Araújo - Esta Noite Foi Maravilhosa
+
+Intro: A E7 D E7 F#m E7 A
+
+E|--5-7b9rb7--5-7--|-5-7b9rb7--5---|-5-7b9rb7--5---7--9--10--12/14--12-|
+B|-----------------|-------------7-|-------------7---------------------|
+G|-----------------|---------------|-----------------------------------|  2 X
+D|-----------------|---------------|-----------------------------------|
+A|-----------------|---------------|-----------------------------------|
+E|-----------------|---------------|-----------------------------------|
+
+A noite vem vindo estrelas brilhando em nós
+A            E7  D             E7
+Te vejo sorrindo e ouço a sua voz
+D           E7    A       A7M     F#m
+Me perguntando..se eu te gosto assim
+         D           E7         A
+Digo que sim toda linda só pra mim   (Intro)
+ A            E7  D               E7
+No meio da festa tentam flertar você
+A              E7   D               E7
+Mas você me abraça dizendo que só me vê
+  D        E7     A     A7M   F#m
+Parece um sonho vejo em seu olhar
+
+         D          E7          A   A7
+Tanta paixão tenho medo de acordar
+       D             E7           A        C#7       F#m
+Esta noite eu sou o homem mais feliz que o amor já fez
+       D            E7       D             E7
+Meu silêncio quer dizer pra você mais uma vez
+            A
+Como eu te amo
+
+...A noite vem vindo estrelas brilhando em nós
+A            E7  D             E7
+Te vejo sorrindo e ouço a sua voz
+D           E7    A       A7M     F#m
+Me perguntando..se eu te gosto assim
+         D           E7         A
+Digo que sim toda linda só pra mim   (Intro)
+ A            E7  D               E7
+No meio da festa tentam flertar você
+A              E7   D               E7
+Mas você me abraça dizendo que só me vê
+  D        E7     A     A7M   F#m
+Parece um sonho vejo em seu olhar
+         D          E7          A   A7
+Tanta paixão tenho medo de acordar
+       D             E7           A        C#7       F#m
+Esta noite eu sou o homem mais feliz que o amor já fez
+       D            E7       D             E7
+Meu silêncio quer dizer pra você mais uma vez
+            A
+Como eu te amo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+A7M = X 0 2 1 2 0
+C#7 = X 4 3 4 2 X
+D = X X 0 2 3 2
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

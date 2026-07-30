@@ -1,0 +1,72 @@
+@titulo: labirinto
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Labirinto
+
+Intro: D#  Bb  Cm  G#
+
+D#        Bb      Cm                    G#
+Sonhos, planos, tudo aquilo que vivemos se perdeu.
+D#      Bb   Cm                           G#            D#
+Choro,choro,vou ficar com as lembranças que a gente viveu.
+
+Solo 2x: D#  Bb  Cm  G#
+E|------------------------------------------------------------------|
+B|----------8-9-9/11-9h11-8-------8---------------------------------|
+G|-----8-10-----------------10-10---8~-8-8--8-8--8-6-6/8------------|
+D|-6/8---------------------------------8-10-8-10-8-6-6/8------------|
+A|------------------------------------------------------------------|
+E|------------------------------------------------------------------|
+
+E|------------------11-10-----------8-----------------|
+B|----------8-9-9/11------11-11--11---8~--------------|
+G|-----8-10-------------------------------------------|
+D|-6/8------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+
+E|-------------------8-10-10/11-10-8~~-|
+B|-----------8-9-11--------------------|
+G|----7-8-10---------------------------|
+D|-6/8---------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+
+Cm                                  G#
+Deixa do jeito que tá, não quero explicação.
+Cm                              G#
+Pode ir embora eu seguro essa separação.
+D#                 Bb                    Cm  G#
+Deixa do jeito que tá que eu me viro sozinho.
+D#                    Bb                 Cm  G#
+Eu vou tentar te esquecer achar outro caminho.
+
+               D#         Bb                Cm  G#
+Sei que não é facil esquecer o amor de uma vida.
+           D#        Bb                   Cm  G#
+Nesse labirinto, solidão parece não ter saída.
+
+D#        Bb      Cm                    G#
+Sonhos, planos, tudo aquilo que vivemos se perdeu.
+D#      Bb   Cm                           G#            D#
+Choro,choro,vou ficar com as lembranças que a gente viveu.
+
+         Bb  Cm  G#
+Foi tão lindo.
+    D#  Bb  Cm  G#
+Foi tão bom.
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+Cm = X 3 5 5 4 3
+D# = X 6 5 3 4 3
+G# = 4 3 1 1 1 4

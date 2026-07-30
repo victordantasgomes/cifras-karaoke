@@ -1,0 +1,81 @@
+@titulo: perdidos-no-espaco
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Perdidos No Espaço
+
+(intro)  Em Bm Am
+
+    Em                B
+Escrevi pra você e você não respondeu
+    A
+Também não respondi quando você me escreveu
+    Em                     B
+Anotei seu telefone num pedaço de papel
+        A
+E calculei seu ascendente no recibo do aluguel
+Em    B          A    D C        F           E
+Esqueci seu sobrenome,   mas me lembro de você
+       D     C#m        F#m     E
+E a rotina crescia como planta
+       D     C#m       F#m   E
+E engulia metade do caminho
+       D            C#m  F#m           E
+E a mudança levou tempo por ser tão veloz
+   D         C#m       Bm
+Enquanto estávamos a salvo
+  Bm        D      F#m
+Ficamos suspensos
+
+    Bm         D    F#m
+Perdidos no espaço
+  Bm        D      F#m
+Ficamos suspensos
+    Bm         D    F#m  E
+Perdidos no espaço
+     Em               B
+Escrevi pra você e você não respondeu
+    A
+Também não respondi quando você me escreveu
+    Em                     B
+Anotei seu telefone num pedaço de papel
+         A
+E calculei seu ascendente no recibo do aluguel
+Em    B          A    D C       F           E
+Esqueci seu sobrenome,   mas me lembro de você
+       D         C#m               F#m     E
+E era como se jogássem Space Invaders
+          D             C#m         F#m     E
+Perdendo mais dinheiro de muitas maneiras
+   D          C#m      F#m        E
+Vivendo num planeta perdido como nós
+      D             C#m     Bm
+Quem sabe ainda estamos a salvo?
+  Bm        D      F#m
+Ficamos suspensos
+   Bm          D    F#m
+Perdidos no espaço
+  Bm        D      F#m
+Ficamos suspensos
+   Bm         D        F#m  E  (intro 1x)
+perdidos no espaço
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2

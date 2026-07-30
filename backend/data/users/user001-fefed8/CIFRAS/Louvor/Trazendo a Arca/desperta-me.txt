@@ -1,0 +1,73 @@
+@titulo: desperta-me
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Desperta-me
+
+Intro: G#m E9 B9 E9
+
+  G#m         E9         B       E9
+Desperta me, antes que anoiteça
+             C#m B     A9  A
+Antes que o azeite se acabe
+      C#m            B        A
+E se apague a chama dentro de mim
+   G#m       E9           B       E9
+Desperta me, antes que seja tarde
+          C#m B     A
+Antes que tu vás embora
+     C#m        B       A9
+E só reste a saudade de ti
+   A
+Desperta me
+
+   B      E9               B/D#         E9      F#
+Desperta o meu amor, eu não quero me perder de ti
+      G#m       F#   E9        F#
+Estar longe sem perceber a distância
+   B       E9           B/D#         E9  F#
+Desperta o meu amor, e acorde o meu coração
+      G#m    F#     E       F#
+Ressuscita minha paixão por ti Jesus
+
+(volta na introduçao)1x
+
+C#m                     B/D#
+Antes que a indiferença e a frieza Apague a chama
+    C#/F         E  F#
+Que arde em meu peito
+C#m7                       B/D#
+Antes que a humildade ceda e o orgulho me domine
+C#/F       Em
+Toma me levanta me
+
+   B      E9     E B/D# C#m B  B/D#         E9    F#
+Desperta o meu amor,    eu não quero me perder de ti
+      G#m       F#   E9        F#
+Estar longe sem perceber a distância
+   B       E9     E B/D# C#m B  B/D#       E9  F#
+Desperta o meu amor,       e acorde o meu coração
+      G#m    F#     E       F#   G#m  E  B9 E G#m
+Ressuscita minha paixão por ti Jesus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B9 = X 2 4 4 2 2
+C#/F = X 8 X 6 9 9
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E9 = 0 2 4 1 0 0
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

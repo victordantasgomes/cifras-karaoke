@@ -1,0 +1,61 @@
+@titulo: adoracao
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Adoração
+
+D          A   Bm        G
+Eu venho aqui para te adorar,
+D          A         G   D
+Para te dizer que te amo
+             A
+Não venho pedir,
+Bm          G  D      A        G      D
+Mas agradecer pelo momento de estar aqui
+Bm      A   F#        Bm
+Contemplar a tua formosura,
+G       D          A
+E aprender no teu templo
+Bm            A         F#        Bm
+Buscar o teu rosto, beijar a tua face,
+G      D    A       D
+Quero sim toque em mim mas eu quero,
+G      D    A       D
+Quero sim toque em mim
+
+G          D   Em         C
+Eu venho aqui para te adorar
+
+G          D            C  G
+Para te dizer que eu te amo
+             D
+Não venho pedir
+Em         C   G       D        C     G
+Mas agradecer pelo momento de estar aqui
+Em      D   B7        Em
+Contemplar a tua formosura
+C       G          D
+E aprender no teu templo
+Em             D        B7        Em
+Buscar o teu rosto, beijar a tua face,
+C      G   D        G
+Quero sim toque em mim mas eu quero,
+C      G   D        G
+Quero sim toque em mim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

@@ -1,0 +1,73 @@
+@titulo: quem-e-o-homem
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Quem É o Homem
+
+INTRO: B, C#m, F#, B } 2 VEZES
+
+        B            C#m        F#              B
+Quando vejo os teus céus, obra das tuas santas mãos
+                       C#m      F#             B
+E as estrelas como um véu encobrindo o nosso chão
+
+    B  C#m                  F#
+Senhor,   que é o homem mortal pra que te lembres dele
+    B  C#m                 F#            B
+Senhor, admirável é o teu nome, mereces todo louvor
+
+  B             C#m          F#           B
+Apenas pouco menor do que os anjos nos fizestes
+                   C#m     F#           B
+De glória e honra tal, coroarnos Tu quisestes
+
+   B  C#m                  F#
+Senhor,   que é o homem mortal pra que te lembres dele
+    B  C#m                 F#            B
+Senhor, admirável é o teu nome, mereces todo louvor
+
+
+     B           C#m        F#           B
+O domínio sobre tudo que criaste Tu nos deste
+                   C#m        F#           B
+Nas belezas deste mundo com amor Tu nos puseste
+
+   B  C#m                  F#
+Senhor,   que é o homem mortal pra que te lembres dele
+    B  C#m                 F#            B
+Senhor, admirável é o teu nome, mereces todo louvor
+
+  B                        E                 B  F#
+Glória, glória, aleluia, glória, glória, aleluia
+  B                 D#/A#  G#m      C#m   F#    E   B
+Glória, glória, alelu -----ia,  vencendo vem Jesus
+
+   B  C#m                  F#
+Senhor,   que é o homem mortal pra que te lembres dele
+    B  C#m                 F#            B
+Senhor, admirável é o teu nome, mereces todo louvor
+    B  C#m                  F#
+Senhor,   que é o homem mortal pra que te lembres dele
+    B  C#m                 F#            B
+Senhor, admirável é o teu nome, mereces todo louvor
+    B  C#m                  F#
+Senhor,   que é o homem mortal pra que te lembres dele
+    B  C#m                 F#            B
+Senhor, admirável é o teu nome, mereces todo louvor
+
+FINAL: B, C#m, F#, B ] REPETE ATÉ TERMINAR
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+D#/A# = X X 8 8 8 6
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

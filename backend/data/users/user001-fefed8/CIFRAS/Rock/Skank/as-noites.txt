@@ -1,0 +1,128 @@
+@titulo: as-noites
+@autor:
+@intérprete: Skank
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Skank - As Noites
+
+ C#m                 G#m
+ As ruas desse lugar conhecem bem
+A          G                 F#m
+ As noites longas, as noites pálidas
+       F#m G#m A G#m C#m
+  Quando eu te procurava
+                   G#m
+ As casas desse lugar se lembrarão
+A           G                  F#m
+ do nosso abraço, da sombra insólita
+     F#m G#m A G#m    E   A9   E
+ Espelho azul no chão
+
+[Solo]
+
+    C#m            G#m           G                 F#m
+E|-----------------------------------------------------------|
+B|-12\9-9---9/12---------------------------------------------|
+G|----------------11~-----11-11h12-12-12h14-14/16\11-11------|
+D|-----------------------------------------------------------|
+A|-----------------------------------------------------------|
+E|-----------------------------------------------------------|
+
+
+C#m                 G#m
+ As ruas desse lugar, agora eu sei
+A            G             F#m
+ Sempre escutaram a nossa música
+        F#m G#m A G#m C#m
+ Quando eu te respirava
+                    G#m
+ As pedras municipais se impregnaram
+A            G             F#m
+ Da dupla imagem, da dupla solidão
+   F#m G#m A  G#m    E   A9   E
+ A sombra ali no chão
+
+A         A7+          A7
+ E lá no céu, constelações
+                  D
+ Num arranjo inusitado
+Bm               F#m
+ O seu nome desenhado
+                       E   A9   E
+ Pelo menos tinha essa ilusão
+
+A         A7+          A7
+ E lá no céu, os astros
+                     D
+ Num arranjo surpreendente
+Bm                   F#m
+ Se buscavam como a gente
+                       E   A9   E
+ Pelo menos tinha essa ilusão
+
+B                     A9
+  São milhares de estrelas
+B                    A9          A7
+  Singulares letras vivas no céu
+
+( C#m  G#m  G  F#m )
+
+ C#m                 G#m
+ As ruas desse lugar conhecem bem
+A          G                 F#m
+ As noites longas, as noites pálidas
+       F#m G#m A G#m C#m
+  Quando eu te procurava
+                   G#m
+ As casas desse lugar se lembrarão
+A           G                  F#m
+ do nosso abraço, da sombra insólita
+     F#m G#m A G#m    E   A9   E
+ Espelho azul no chão
+
+A         A7+          A7
+ E lá no céu, constelações
+                  D
+ Num arranjo inusitado
+Bm               F#m
+ O seu nome desenhado
+                       E   A9   E
+ Pelo menos tinha essa ilusão
+
+A         A7+          A7
+ E lá no céu, os astros
+                     D
+ Num arranjo surpreendente
+Bm                   F#m
+ Se buscavam como agente
+                       E   A9   E
+ Pelo menos tinha essa ilusão
+
+B                     A9
+  São milhares de estrelas
+B                    A9
+  Singulares letras vivas no céu
+B                     A9
+  São milhares de estrelas
+B                    A9
+  Singulares letras vivas no céu
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+A7+ = X 0 2 1 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

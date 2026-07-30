@@ -1,0 +1,87 @@
+@titulo: preguica
+@autor:
+@intérprete: Ultraje a Rigor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ultraje a Rigor - Preguiça
+
+Intr.: (Am Dm)
+
+E|------------------------------------------------------|
+B|------------------------------------------------------|
+G|------------------------------------------------------|
+D|------------------------------------------------------|
+A|--------7-5---5-3-5-5-3-5-7/8-7-5-7/8-5-7/8-5---------|
+E|-5-5-5------------------------------------------------|
+
+
+C7 B7 (Arcordes tocados de cima parabeixo um pouco antes de Roger cantar)
+
+Am                        Dm
+Eu tenho preguiça de acordar
+                     Am
+Preguiça de me levantar
+                             Dm
+Eu tenho preguiça de ter que me esforçar
+                  Am
+Preguiça de trabalhar
+           Dm
+Preguiça, moleza
+
+F   Am  Dm
+ô ô ô
+Am                       Dm
+Eu tenho preguiça de pensar
+                   Am
+Preguiça de raciocinar
+                         Dm
+Eu tenho preguiça de estudar
+            Am   Dm
+e me formar
+
+A                C#m
+Eu tenho uma preguiça
+Bm  D    A
+   gigantesca
+
+E7   D
+Ah!  Ô!
+   Dm                     A
+Gigante pela própria natureza
+                  C#m
+Eu tenho uma preguiça
+Bb  D    A
+   gigantesca
+E7   D
+Ah!  Ô!
+Dm                     A
+Mas se for pra jogar bola
+                 E7
+Me chama que eu vou
+                 D
+Me chama que eu vou
+                 Dm
+Me chama que eu vou
+                 A
+Me chama que eu vou
+(E7 D Dm A)
+Gol! Gol! Gol! Gol! Gol!...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1

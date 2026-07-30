@@ -1,0 +1,186 @@
+@titulo: homem-de-familia
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Gusttavo Lima - Homem de Família
+
+Capo Casa 2
+
+Intro:
+
+   G        D5/A
+E|------------------------------------------|
+B|-3-----3---3-------3h5-5-5-7\5-3----------|
+G|-2h4---4---2-------2---2-2-------2-2/4~-2-|
+D|-0-----0---0-4/5\4---------4\2------------|
+A|-----------0-------0---0-0--------------0-|
+E|-3---3---3--------------------------------|
+
+Primeira Parte:
+
+   G5    D5/A     A          Bm  D/F#
+Te olhei,      você me olhou
+  G5                      D5/A
+Agora minha vida acredita
+             A
+Nunca acreditei
+                    Bm
+Em amor a primeira vista
+
+
+Pré-refrão:
+
+               G5     D5
+Até você aparecer do nada
+                     A
+E arrancar minha cachaça
+                      Bm
+Com o seu beijo de batom
+               G5     D5
+Até você aparecer do nada
+                     A
+E quem diria que do carro
+                       G5  A  G/B  A/C#
+Agora até tirei o meu som
+
+Refrão:
+
+   D5
+E quem me viu
+                           A
+Se visse hoje não acreditaria
+                                   Bm
+Que o cachaceiro virou homem de família
+                      G5  A
+Troquei a noite pelo dia
+
+   D5
+E quem me viu
+                           A
+Se visse hoje não acreditaria
+                                  Bm
+Troquei o bar, agora é só sorveteria
+                    G5
+Só eu e ela quem diria
+            A                 D5
+Que o cachaceiro virou homem de família
+
+Base Solo:
+
+A  Bm  G5  A
+
+Solo:
+
+Parte 1
+
+E|----------------------------------------------------|
+B|-5/7-7-7-7-7-7-7--7/10-10-10-----10-9-5-------------|
+G|-6/8-8-8-8-8-8-8--8/11-11-11------------------------|
+D|------------------------------11----9-6-------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+Parte 2
+
+E|----------------------------------------------------|
+B|------10-10--9-9-9----5---5--7--7--7----------------|
+G|----------------------6-8-6--8--8--8----------------|
+D|-6/11--------9-9-9--7-7-9-7--9--9--9----------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+Pré-refrão:
+
+               G5     D5
+Até você aparecer do nada
+                     A
+E arrancar minha cachaça
+                      Bm
+Com o seu beijo de batom
+               G5     D5
+Até você aparecer do nada
+                     A
+E quem diria que do carro
+                       G5  A  G/B  A/C#
+Agora até tirei o meu som
+
+Refrão:
+
+   D5
+E quem me viu
+                           A
+Se visse hoje não acreditaria
+                                   Bm
+Que o cachaceiro virou homem de família
+                      G5  A
+Troquei a noite pelo dia
+
+   D5
+E quem me viu
+                           A
+Se visse hoje não acreditaria
+                                 Bm
+Deixei o bar, agora é só sorveteria
+                    G5
+Só eu e ela quem diria
+            A                 D5
+Que o cachaceiro virou homem de família
+
+         A
+Acreditaria
+                                   Bm
+Que o cachaceiro virou homem de família
+                      G5  A
+Troquei a noite pelo dia
+
+   D5
+E quem me viu
+                           A
+Se visse hoje não acreditaria
+                                  Bm
+Troquei o bar, agora é só sorveteria
+                    G5
+Só eu e ela quem diria
+            A                 D5
+Que o cachaceiro virou homem de família
+
+Base Solo: A  Bm
+
+Solo:
+
+Parte 1
+
+E|----------------------------------------------------|
+B|-5/7-7-7-7-7-7-7--7/10-10-10-----10-9-5-------------|
+G|-6/8-8-8-8-8-8-8--8/11-11-11------------------------|
+D|------------------------------11----9-6-------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+                    G5
+Só eu e ela quem diria
+            A           G5
+Que o cachaceiro virou homem
+      A    G/B  A/C#
+De família
+      D5
+De família
+
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+A*  = X 0 2 2 2 0 - (*B na forma de A)
+A/C#*  = X 4 P2 2 5 X - (*B/D# na forma de A/C#)
+Bm*  = X 2 4 4 3 2 - (*C#m na forma de Bm)
+D/F#*  = 2 X 0 2 3 X - (*E/G# na forma de D/F#)
+D5*  = X X 0 2 3 X - (*E5 na forma de D5)
+D5/A*  = X 0 0 2 3 X - (*E5/B na forma de D5/A)
+G*  = 3 X 0 4 3 X - (*A na forma de G)
+G/B*  = X 2 0 0 3 X - (*A/C# na forma de G/B)
+G5*  = 3 X 0 0 3 X - (*A5 na forma de G5)

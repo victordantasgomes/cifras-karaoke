@@ -1,0 +1,82 @@
+@titulo: desiguais
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Desiguais
+
+(intro) D C D C
+
+          D               C
+Não faz mal, sei que já não me quer
+            G                    D
+que venha o que vier, to indo embora
+         D               C
+não faz mal, sei que não vou chorar
+         G                      D
+Preciso me encontrar, To indo agora
+
+      D            C
+Desiguais, somos você e eu
+          G                   D         C
+Amor que não valeu, que não da mais
+                  D                        G
+não sou brinquedo seu, só quero o que for meu
+                      A                    D
+vai ser melhor pros dois, do que sofrer depois
+
+D
+O vaso se quebrou
+
+                    G
+já não tem mais a flor
+                  A
+O amor que eu te dei
+              D
+e você nem ligou
+
+( D C G D B )
+
+         E                D
+Não faz mal, sei que não vou chorar
+                                 A
+que venha o que vier, to indo embora
+         E                D
+não faz mal, sei que não vou chorar
+          A                   Em
+Preciso me encontrar, To indo agora
+
+       E           D
+Desiguais, somos você e eu
+         A                   E         A
+Amor que não valeu, que não da mais
+                   E                       A
+não sou brinquedo seu, só quero o que for meu
+                     B                    E
+vai ser melhor pros dois, do que sofrer depois
+
+E
+O vaso se quebrou
+                   A
+já não tem mais a flor
+                  B
+O amor que eu te dei
+             E
+e você nem ligou
+        D         E
+nem ligou, nem ligou
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

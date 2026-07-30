@@ -1,0 +1,41 @@
+@titulo: salmo-34
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Salmo 34
+
+Intro: A7  G  A7 (2X) 
+      (G F# E)
+
+        A7
+Em todo tempo, eu louvarei ao Senhor,
+           G7                A7
+Sempre estará no meus lábios o seu louvor.
+
+    F              G        A7
+Alegrar-se-á no Senhor a minh'alma (2X)
+
+       A7
+Engrandecei ao Senhor, engrandecei-o comigo
+  G7                  A7
+E todos a uma lhe exaltemos o nome.
+
+     F  G     A7
+Seu glorioso nome. (2X)
+     F  G     A7  G F# E
+Seu glorioso nome.
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

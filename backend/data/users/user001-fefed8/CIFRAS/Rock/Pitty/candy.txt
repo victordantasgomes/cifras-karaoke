@@ -1,0 +1,83 @@
+@titulo: candy
+@autor:
+@intérprete: Pitty
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Pitty - Candy
+
+(intro 4x) G5 G5 C5 E5
+
+G5         G5         C5          E5
+Beautiful beautiful girl from the north
+G5            G5            C5        D5
+You burned my heart with a flickering torch
+        Bm         C5
+I had a dream that no one else could see
+             Am       D5   C5   D5  C5
+You gave me love for free
+
+(refrão)
+
+(riff)
+E|-----------------------------------------------------------------|
+B|-----3-----3---------3-----3-------------3------------3------3---|
+G|---2---2-----2-----2---2-----2---------0---0---0----0------0-----|
+D|-0-------0-----0-0-------0-----0-----2-------2-------------------|
+A|-----------------------------------3--------------2------0-------|
+E|---------------------------------------------------------------3-|
+
+
+D5             C5        G5
+Candy I can't let you go
+D5                               C5           G5
+All my life you're haunting me I loved you so
+D5             C5        G5
+Candy I can't let you go
+
+Bm               C5
+Life is crazy
+Bm            C5
+Candy baby
+
+( G5 G5 C5 E5 ) (2x)
+Yeah, well it hurt me real bad when you left
+I'm glad you got out but I miss you
+
+G5         G5         C5         E5
+I've had a hole in my heart for so long
+G5               G5          C5          D5
+I've learned to fake it and just smile along
+
+       Bm                C5
+Down on the street those men are all the same
+          Am       D5   C5          D5   C5
+I need a love not games         not games
+
+(refrão 2x)
+D5             C5         G5
+Candy I can't let you go
+D5                               C5           G5
+All my life you're haunting me I loved you so
+D5             C5        G5
+Candy I can't let you go
+
+Bm               C5
+Life is crazy
+Bm           C5
+I'm no baby..
+Bm            C5
+Candy baby
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C5 = X 3 5 5 X X
+D5 = X 5 7 7 X X
+E5 = 0 2 2 X X X
+G5 = 3 5 5 X X X

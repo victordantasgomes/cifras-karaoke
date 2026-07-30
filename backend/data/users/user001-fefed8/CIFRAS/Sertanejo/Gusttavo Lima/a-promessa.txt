@@ -1,0 +1,126 @@
+@titulo: a-promessa
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - A Promessa
+
+Intro: A E F#m D A E D E
+
+E|---------------------------------------------------------|
+B|--7-9-9/10-9-7-7-----------------------------------------|
+G|-----------------9-6-6/11--9-7-6--6-7-9-4--4-6-7-2--2/4--|
+D|---------------------------------------------------------|
+A|---------------------------------------------------------|
+E|---------------------------------------------------------|
+
+
+  A
+E para aqueles que não acreditam
+  F#m
+Nos mistérios que a vida nos trás,
+  A
+São verdades que estão escondidas,
+  F#m
+Encontros de tempos atrás.
+
+  F
+O mito começou na história desse amor,
+
+  Am
+O mundo desconhecia ilusões e fantasias.
+  F             Dm         E
+Ninguém sabia sonhar, a imaginação também não existia.
+
+ A
+Até que isso tudo mudou,
+ F#m
+Quando um dos corações parou,
+ A                            F#m
+Vendo a força daquele amor, que﻿ o destino cruel separou.
+
+ F
+Foi ai que Deus criou, pra ver o mundo mudar,
+ Am
+Na esperança que esse amor iria se eternizar,
+ F                   Dm                   E
+Todas as noites quem ama através dos sonhos irão se encontrar
+
+Refrão:
+ A               E
+E o sonho assim nasceu
+ F#m                        D
+Pra quem foi impedido de amar,
+ A                     E
+Uma chance para dois corações
+                 D                 E
+Cumprirem a promessa de se eternizar
+
+A               E
+E o sonho assim nasceu
+ F#m                        D
+Pra quem foi impedido de amar,
+ A                     E
+Uma chance para dois corações
+                 D           E
+Cumprirem a promessa de se eternizar
+
+E|-7/9-5-------------------------------------------------------------|
+B|-------3/5--7-9-9/10-9-7-7-----------------------------------------|
+G|---------------------------9-6-6/11--9-7-6--6-7-9-4--4-6-7-2---2/4-|
+D|-------------------------------------------------------------------|
+A|-------------------------------------------------------------------|
+E|-------------------------------------------------------------------|
+
+2ª parte:
+
+ F
+Foi ai que Deus criou, pra ver o mundo mudar,
+ Am
+Na esperança que esse amor iria se eternizar,
+ F                   Dm                   E
+Todas as noites quem ama através dos sonhos irão se encontrar
+
+Refrão:
+
+ A               E
+E o sonho assim nasceu
+ F#m                        D
+Pra quem foi impedido de amar,
+ A                     E
+Uma chance para dois corações
+                 D         E
+Cumprirem a promessa de se eternizar
+
+A               E
+E o sonho assim nasceu
+ F#m                        D
+Pra quem foi impedido de amar,
+ A                     E
+Uma chance para dois corações
+               D           E
+Cumprirem a promessa de se eternizar
+
+Solo Final:
+
+E|---------------------------------------------------------|
+B|--10--9-7-----7-9-9/10-9-7-7-----------------------------|
+G|----------11-----------------9-6-6/7~-------------------|
+D|---------------------------------------------------------|
+A|---------------------------------------------------------|
+E|---------------------------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2

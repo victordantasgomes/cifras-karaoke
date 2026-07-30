@@ -1,0 +1,37 @@
+@titulo: coroado-senhor
+@autor:
+@intérprete: Adhemar de Campos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Adhemar de Campos - Coroado Senhor
+
+A               F#m7
+Tu sentastes a direita 
+        Bm7         E
+De Deus Pai com majestade 
+       A        F#m
+Tu sentastes a direita 
+        Bm7        E
+De Deus Pai com majestade 
+    F#m
+Coroado Senhor 
+                  E
+És fiel,  justo e veraz 
+        A          Bm7
+És meu amo, E meu dono
+     D         A
+Com amor te servirei
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X

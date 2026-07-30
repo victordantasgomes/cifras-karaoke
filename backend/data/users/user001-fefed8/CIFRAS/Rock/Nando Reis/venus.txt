@@ -1,0 +1,98 @@
+@titulo: venus
+@autor:
+@intérprete: Nando Reis
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nando Reis - Vênus
+
+Intro 2x: B7sus4  Em  A  Em  A
+
+  Em           A        Em      A
+A godness on a mountain top
+  Em            A        Em      A
+burning like a silver flame,
+  Em         A         Em    A
+Summit of beauty and love,
+
+    Em             A      Em  ( E G A B B A G )
+and Venus was her name.
+      Am     D  Am       D         Em      A  Em  A
+She's got it,     yeah baby, she's got it.
+       C7             B7              Em          A  Em  A
+ Well, I'm your Venus, I'm your fire at your desire.
+       C7             B7              Em          A  Em  A
+ Well, I'm your Venus, I'm your fire at your desire.
+
+(solo 3x)  Em A Em A
+
+Em           A        Em      A
+Her weapon's are her crystal eyes
+
+    Em           A        Em      A
+making every man a man.
+    Em           A           Em      A
+Black as the dark night she was,
+    Em           A        Em   ( E G A B B A G )
+got what no one else had.
+          Am     D  Am       D         Em      A  Em  A
+She's got it, yeah baby, she's got it.
+      C7             B7              Em          A  Em  A
+Well, I'm your Venus, I'm your fire at your desire.
+      C7             B7              Em          A  Em  A
+Well, I'm your Venus, I'm your fire at your desire.
+
+( A/B A/B A/B A/B )
+
+(verso 2x) Em A
+'Ahhhhhh'  ( E G A B B A G )
+
+           Am     D  Am       D         Em      A  Em  A
+ She's got it, yeah baby, she's got it.
+       C7             B7              Em          A  Em  A
+ I'm your Venus, I'm your fire at your desire.
+       C7             B7              Em          A  Em  A
+ Well, I'm your Venus, I'm your fire at your desire.
+
+( A/B A/B A/B A/B )
+Solo:
+
+E|--/-15--14--12------------------------------------------- (2x)
+B|--/15--14--12--------12----------------------------------
+G|----------------14------14-12----------------------------
+D|-------------------------------14--------12---14---------
+A|-------------------------------------14------------------
+E|---------------------------------------------------------
+
+E|-------------------------------------------------------------
+B|-------------------------------------------------------------
+G|-------------11/12--12-11------------------11/12---12-11-----
+D|-----12--14---------------14-------12--14-----------------14-
+A|-14----------------------------14----------------------------
+E|-------------------------------------------------------------
+
+E|----------------------------------------------------------
+B|----------------------------------------------------------
+G|----------------------------------------------------------
+D|-----12--14------12--14--12-------------------------------
+A|-14----------14--------------14--12----------5--7--7------
+E|-------------------------------------12---7---------------
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+B7sus4 = X 2 4 2 5 2
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

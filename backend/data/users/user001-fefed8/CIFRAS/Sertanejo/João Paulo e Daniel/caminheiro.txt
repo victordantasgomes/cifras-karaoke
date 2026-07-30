@@ -1,0 +1,63 @@
+@titulo: caminheiro
+@autor:
+@intérprete: João Paulo e Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+João Paulo e Daniel - Caminheiro
+
+[Intro]  E  E7  A  B7  E  D  E  D  E
+
+E                      G#m        A             G#m
+ Caminheiro que lá vai indo, pro rumo da minha terra
+     A            G#m      E              E
+Por favor faça parada, na casa branca da serra
+  E              E7        E             E7
+Ali mora uma velhinha, chorando o filho seu
+   E                E7       A          E
+Essa velha é minha mãe, e o seu filho sou eu
+A         E          B7           E
+Oi, caminheiro, leva esse recado meu
+A         E          B7           E
+Oi, caminheiro, leva esse recado meu
+
+E                   G#m     A               G#m
+ Por favor diga pra mãe, zelar bem do que é meu
+    A               G#m          E                E7    E
+Cuidar bem do meu cavalo, que o finado pai me deu
+   E                E7             E          E7
+Do meu cachorro campeiro, meu galo indio brigador
+
+  E             E7           A         E
+Minha velha espingarda, e o violão chorador
+A                E        B7           E
+Ooooooooi, caminheiro, me faça este favor
+
+
+E                    G#m        A           G#m
+ Caminheiro diga pra mãe, pra não se preocupar
+    A               G#m      E                E7    E
+Se Deus quiser este ano, eu consigo me formar
+   E                 E7          E           E7
+Eu pegando o meu diploma, vou trazer ela pra cá
+    E                   E7              A               E
+Mas se eu for mal no estudo, vou deixar tudo e volto pra lá
+A                E            B7          E
+Ooooooooi, caminheiro, não esqueça de avisar
+A                E            B7          E
+Ooooooooi, caminheiro, não esqueça de avisar
+A                E            B7          E
+Ooooooooi, caminheiro, não esqueça de avisar
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C7 = X 3 2 3 1 X
+Eb = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+F7 = 1 3 1 2 1 1

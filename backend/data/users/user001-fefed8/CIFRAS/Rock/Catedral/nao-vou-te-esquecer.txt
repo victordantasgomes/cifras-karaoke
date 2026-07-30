@@ -1,0 +1,50 @@
+@titulo: nao-vou-te-esquecer
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Não Vou Te Esquecer
+
+(intro) E A  E A B
+
+        E       B/D#     F#m            C#m
+Sei que tudo nasceu  De uma forma que agente
+ A       E/G#  F#m     B
+Nunca pensou nem imaginou
+      E              B/D#     F#m         C#m
+Mais quando eu te olhei tudo em volta parou
+        A      E/G#
+Eu não mais achei
+F#m       A    F#m      A      B   E
+eu acreditei  eu acreditei  no amor
+ A        E/G#       F#m              C#m7
+Eu pedi a Deus pra ter você perto de mim
+   A         E/G#       F#m                B
+Nunca eu pensei amor que era tão gostoso assim
+E         B/D#    F#m     C#m7
+Amar alguém como eu te amei
+      A      E/G#   F#m          B
+eu me entreguei     tudo que sonhei
+     E          B/D#  F#m          C#m7
+Uma troca de olhar  Sonhos de um verão
+
+    A            E/G#
+E a certeza que eu
+F#m              A   F#m             A   B  E
+Não vou te esquecer  Não vou te esquecer Amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

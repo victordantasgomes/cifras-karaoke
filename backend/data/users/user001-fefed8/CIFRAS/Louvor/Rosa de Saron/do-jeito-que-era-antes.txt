@@ -1,0 +1,61 @@
+@titulo: do-jeito-que-era-antes
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Do Jeito Que Era Antes
+
+Afinação um semi
+Eb|--0------0--0-------0---0------0--
+Bb|--0------0--0-------0---0------0--
+Gb|--4/6---6--4-------2---1------1---
+Db|--4/6---6--4-------2---2------2---
+Ab|--2/4---4--2-------0---0------2---
+Eb|-------------------------------0--
+
+Intro: C#m B A E (2x)
+
+C#m       B          A         E
+   Parece que estamos mais distantes
+C#m             B
+   Nossos sonhos não são mais iguais
+        A            E
+   Os caminhos não se cruzam mais
+C#m            B
+   O que você fez naquele dia
+     A            E
+   O meu herói virou vilão
+C#m       B         A
+   Feriu forte meu coração
+
+    B
+ Será que vamos nos reencontrar?
+
+E           B     E/G#       A
+   O que será que tem acontecer?
+    E      B        E/G#             A
+   Pra voltar a ser do jeito que era antes
+    E       B     E/G#       A
+    O que será que tem acontecer?
+    E      B        E/G#            A
+   Pra voltar a ser do jeito que era antes
+
+E   B     E/G#          A
+       Do jeito que era antes
+    E       B     E/G#       A
+    O que será que tem acontecer?
+    E      B        E/G#            A
+   Pra voltar a ser do jeito que era antes
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X

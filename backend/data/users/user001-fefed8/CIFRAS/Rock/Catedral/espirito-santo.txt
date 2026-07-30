@@ -1,0 +1,46 @@
+@titulo: espirito-santo
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Espírito Santo
+
+INTRO: C F C (2X)
+
+C
+O Teu Espírito
+       F
+Resplandece em nós
+C                     G
+Podemos ver o Teu poder
+C                F
+Pedimos e Tu nos responde
+    Am7           D/F#     G
+Responde agora o nosso clamor
+
+      C
+Te adoramos
+              F
+Ó Espírito de Deus,
+C         G      Dm
+Espírito Santo
+               F
+Que o Teu tabernáculo
+
+       C             G   F F2b C
+Seja aqui em nosso meio
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F2b = 1 3 4 2 1 1
+G = 3 2 0 0 0 3

@@ -1,0 +1,46 @@
+@titulo: um-pouco-de-amor
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Um Pouco de Amor
+
+A    E/G#      F#m
+Já é hora de você
+    F#                  Bm
+Acordar que o mundo lá fora
+     E           A
+Não cansa de sonhar
+E
+Olha que lindo !...
+A   E/G# F#m
+É a vida livre
+  F#               Bm
+E hoje mais do que nunca
+     Dm          A
+É preciso acreditar
+D           G
+Que ainda existe
+D                  G
+No coração das pessoas
+   Bm               D
+Apesar de tanta loucura
+               E  A
+Um pouco de amor...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

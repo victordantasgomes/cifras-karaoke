@@ -1,0 +1,70 @@
+@titulo: ele-nos-amou-primeiro
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Ele Nos Amou Primeiro
+
+INT ->  [  G  C/G  G  C/G ]
+
+   G                 C/G
+HAVIA UM HOMEM CEGO PERTO DE JERICO
+   G                               C/G
+VIVENDO AS MARGENS DA VIDA, ELE ANDAVA SÓ
+   Am                                        D
+A SOLIDÃO DE QUE NÃO TEM A ESPERANÇA DE UM AMANHECER
+   Am                                      D
+A SOLIDÃO DE QUEM ANDA CERCADO DE PESSOAS MAS NINGUÉM O VÊ
+
+C9                   D/C
+   MAS AQUELE HOMEM VIU A LUZ BRILHAR
+C9                        D/C
+   E ERA BEM MAIS FORTE QUE    A SUA ESCURIDÃO
+         Am                                D
+E ELE ENTÃO CLAMOU : FILHO DE DAVI, TENHA COMPAIXÃO DE MIM
+        Am                               D
+EU SOU BARTIMEU, EU SOU BARTIMEU, TENHA COMPAIXÃO DE MIM
+G                        D/F#                         Em
+ AMOU, ELE NOS AMOU SIM,      AMOU - ELE NOS AMOU PRIMEIRO
+
+         D            C              Am  D
+ELE É O MESMO ONTEM, HOJE E SEMPRE
+G                         D/F#                         Em
+  AMOU, ELE NOS AMOU SIM,      AMOU - ELE NOS AMOU PRIMEIRO
+         D              C             D   G  C/G G C/G
+SE VOCE CRÊ, TUDO É POSSÍVEL AO QUE CRÊ, SIM
+
+    G                    C/G
+OS DIAS TÃO QUENTES, AS NOITES TÃO FRIAS
+   G                     C/G
+SERÁ QUE ALGUÉM SE IMPORTARIA
+   Am                                                D
+SERÁ  QUE ALGUÉM SE IMPORTARIA POR ALGUÉM QUE NUNCA VIU
+   Am                                               D
+SERÁ QUE ALGUÉM QUE NUNCA VIU, SE SENTE IMPORTANTE SE ALGUÉM O VÊ
+
+G                                        D/F#
+  ELE É O DEUS QUE VÊ QUANDO NINGUEM VÊ
+                               Em
+ELE CONHECE AS LÁGRIMAS QUE ROLARAM
+            D            G                            D/F#
+E AS QUE FICARAM NO CORAÇÃO, ELE FAZ DO FRACO UM CAMPEÃO
+                           Em            D
+E EU ESTOU SEGURO EM SUAS MÃOS, ESTOU SEGURO EM SUAS MÃOS
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

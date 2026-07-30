@@ -1,0 +1,63 @@
+@titulo: aba-pai
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Aba Pai
+
+[Intro] D  D/G  D  D/G  D  C7
+
+D9              A/C#
+Pai, venho te dizer
+            G           D/F#
+Que Tu és o meu lugar seguro
+    Em7      G        A4  G/A A
+O motivo da minha canção
+
+  D
+E com meu coração
+    A/C#
+Eu quero Te adorar
+G       D/F#-Em    A
+Exaltar Teu santo nome
+
+Bm7       E
+Pai, Te louvo
+     A9                 G
+As palavras não podem dizer
+
+
+G D/F# Em7           D/F#
+     O quanto eu Te amo
+    G     D/F#    Em        A9
+E como eu pre     ciso de  Ti
+      G         Em  A
+Só me resta dizer
+
+       D   D/F#  G A
+Aba Pai
+       D   D/F#  G A
+Aba Pai
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+A9 = X 0 2 2 0 0
+Bm7 = X 2 4 2 3 2
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D/G = 3 X X 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X

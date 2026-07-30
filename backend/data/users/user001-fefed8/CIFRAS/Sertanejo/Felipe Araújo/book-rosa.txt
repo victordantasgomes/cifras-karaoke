@@ -1,0 +1,136 @@
+@titulo: book-rosa
+@autor:
+@intérprete: Felipe Araújo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Felipe Araújo - Book Rosa
+
+[Intro] F#m  D
+
+E|-4/5-4-2~--4/5-4-2~---|
+B|----------------------|
+G|----------------------|
+D|----------------------|
+A|----------------------|
+E|----------------------|
+
+      F#m
+Eu sabia
+                                        D
+Quando a esmola é demais o santo desconfia
+      F#m
+Eu sabia
+                                        D
+Disse que vai dormir cedo, que pura mentira
+
+      A
+Eu sabia
+                                       E
+Que as ligações de amigas não eram normais
+
+                                    Bm
+Que mentia sobre seus encontros casuais
+    A  D
+Eu sa_bia
+
+      A
+Eu sabia
+                               E
+Que essa beleza nunca foi de graça
+                                   Bm
+Trocava o seu nome pra esconder a farsa
+           A          D
+Que brincadeira sem graça
+
+( E  C#m  Bm  C#m )
+
+    F#m                        D
+Bandida, traíra, falsa e mentirosa
+                                  A
+Só falta eu te encontrar no book rosa
+                            E
+Sua cara maquiada não me engana
+Por isso era foda
+
+    F#m                        D
+Bandida, traíra, falsa e mentirosa
+                                  A
+Só falta eu te encontrar no book rosa
+                            E
+Sua cara maquiada não me engana
+                      Bm
+Por isso era foda na cama
+             A
+Quanto mais bandida
+ D            E     A
+Mais meu coração te ama
+
+( F#m  D  A  E )
+
+      F#m
+Eu sabia
+                                        D
+Quando a esmola é demais o santo desconfia
+      F#m
+Eu sabia
+                                        D
+Disse que vai dormir cedo, que pura mentira
+
+      A
+Eu sabia
+                                       E
+Que as ligações de amigas não eram normais
+                                    Bm
+Que mentia sobre seus encontros casuais
+    A  D
+Eu sa_bia
+
+      A
+Eu sabia
+                               E
+Que essa beleza nunca foi de graça
+                                   Bm
+Trocava o seu nome pra esconder a farsa
+           A          D
+Que brincadeira sem graça
+
+( E  C#m  Bm  C#m )
+
+    F#m                        D
+Bandida, traíra, falsa e mentirosa
+                                  A
+Só falta eu te encontrar no book rosa
+                            E
+Sua cara maquiada não me engana
+Por isso era foda
+
+    F#m                        D
+Bandida, traíra, falsa e mentirosa
+                                  A
+Só falta eu te encontrar no book rosa
+                            E
+Sua cara maquiada não me engana
+                      Bm
+Por isso era foda na cama
+             A
+Quanto mais bandida
+ D            E     A
+Mais meu coração te ama
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Abm = 4 6 6 4 4 4
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2

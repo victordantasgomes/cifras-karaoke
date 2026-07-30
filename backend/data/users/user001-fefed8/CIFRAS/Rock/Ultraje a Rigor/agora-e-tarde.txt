@@ -1,0 +1,172 @@
+@titulo: agora-e-tarde
+@autor:
+@intérprete: Ultraje a Rigor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ultraje a Rigor - Agora é tarde
+
+intro (A F#m D Bm D)(A F#m D Bm Dm)
+
+(A             F#m           D             Bm)
+O risco de eu me machucar era pequeno e mesmo assim
+Não consegui me convencer que aquilo era bom pra mim
+Minha cabeça paranóica não deixou eu me mover
+Fiquei ali paralisado sem saber o que fazer
+
+(A             F#m           Bm       D)
+Agora é tarde como eu fui bobo em vacilar
+Mas não vou mais deixar passar aquilo que eu quiser fazer
+Ainda é cedo pr'uma outra chance aparecer
+E dessa vez eu vou fazer de tudo pra ela acontecer
+
+(A             F#m           D             Bm)
+Eu tive a chance e só o que eu tinha que fazer era ir lá
+Me apresentar, nada de mais, era tão fácil de fazer
+Eu tive medo e agora eu sei que é melhor se arrepender
+Do que se fez do que não ter tido a coragem de fazer
+
+
+
+(A             F#m           Bm       D)
+Agora é tarde como eu fui bobo em vacilar... 2x
+
+
+ Tablatura
+-=========-
+
+Riff 01
+e|------------------------------------------------------------------------|
+B|-10---10---10----10---10---10---10----10---10---10---10----10-----------|
+G|----9----9----9-----9----9----9----9-----9----9----9----9-----9-9/11--9-|
+D|------------------------------------------------------------------------|
+A|------------------------------------------------------------------------|
+E|------------------------------------------------------------------------|
+
+
+Riff 02
+e|----------------------------------|
+B|----------------------------------|
+G|------------------4-4-4-4-7-7-7-7-|
+D|-7-7-7-7-4-4-4-4--4-4-4-4-7-7-7-7-|
+A|-7-7-7-7-4-4-4-4--2-2-2-2-5-5-5-5-|
+E|-5-5-5-5-2-2-2-2------------------|
+
+
+
+Riff 03
+e|--------------------|
+B|--------------------|
+G|-----------7-7--5-5-|
+D|-7-7--5-5--7-7--5-5-|
+A|-7-7--5-5--5-5--2-2-|
+E|-5-5--2-2-----------|
+
+
+
+Riff 04
+e|------------------------------------------------------|
+B|------------------------------------------------------|
+G|-----------------------------5--5-5--5-5--7--7-7--7-7-|
+D|-7--7-7--7-7--5--5--5--5--5--5--5-5--5-5--7--7-7--7-7-|
+A|-7--7-7--7-7--5--5--5--5--5--2--2-2--2-2--5--5-5--5-5-|
+E|-5--5-5--5-5--2--2--2--2--2---------------------------|
+
+
+
+Riff 05
+e|--------------------------|
+B|--------------------------|
+G|------------7-7--5-5--7-7-|
+D|-7-7--5--5--7-7--5-5--7-7-|
+A|-7-7--5--5--5-5--2-2--5-5-|
+E|-5-5--2--2----------------|
+
+
+
+Solo
+e|-12-9-------12-9-------14-10-------13-10-------|
+B|------12-10------12-10-------12-10-------12-10-|
+G|-----------------------------------------------|
+D|-----------------------------------------------|
+A|-----------------------------------------------|
+E|-----------------------------------------------|
+
+e|-12-9-------12-9-------14-10-------13-10----10----------|
+B|------12-10------12-10-------12-10-------12----9/10~/11-|
+G|--------------------------------------------------------|
+D|--------------------------------------------------------|
+A|--------------------------------------------------------|
+E|--------------------------------------------------------|
+
+
+Agora Toque!
+
+
+> INTRO
+Riff 01 (Riff 02)
+
+
+> VERSOS
+(Riff 03)
+O risco de eu me machucar era pequeno e mesmo assim
+Não consegui me convencer que aquilo era bom pra mim
+Minha cabeça paranóica não deixou eu me mover
+Fiquei ali paralisado sem saber o que fazer
+
+
+> REFRÃO
+(Riff 04)
+Agora é tarde como eu fui bobo em vacilar
+Mas não vou mais deixar passar aquilo que eu quiser fazer
+Ainda é cedo pr'uma outra chance aparecer
+E dessa vez eu vou fazer de tudo pra ela acontecer
+
+
+> PONTE
+Riff 05
+
+
+> VERSOS
+(Riff 03)
+Eu tive a chance e só o que eu tinha que fazer era ir lá
+Me apresentar, nada de mais, era tão fácil de fazer
+Eu tive medo e agora eu sei que é melhor se arrepender
+Do que se fez do que não ter tido a coragem de fazer
+
+
+> REFRÃO
+(Riff 04)
+Agora é tarde como eu fui bobo em vacilar
+Mas não vou mais deixar passar aquilo que eu quiser fazer
+Ainda é cedo pr'uma outra chance aparecer
+E dessa vez eu vou fazer de tudo pra ela acontecer
+
+
+Solo (Riff 04)
+
+
+> REFRÃO
+(Riff 04)
+Agora é tarde como eu fui bobo em vacilar
+Mas não vou mais deixar passar aquilo que eu quiser fazer
+Ainda é cedo pr'uma outra chance aparecer
+E dessa vez eu vou fazer de tudo pra ela acontecer
+
+
+> PONTE
+Riff 05
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2

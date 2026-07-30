@@ -1,0 +1,78 @@
+@titulo: depois-da-ressaca
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Depois da Ressaca
+
+Intro: Em Am D G C Am B7 Em B7 Em
+
+Em                                              Am
+Quando os meus olhos molharam o papel sobre a mesa
+                                C5-
+O meu coração perguntou pra tristeza
+               B7             Em B7
+Se um dia eu seria de novo feliz
+ Em                                      Am
+Dentro de mim a lembrança trouxe uma saudade
+                                      C5-
+Um rosto de anjo, meu Deus, sei que é tarde
+            B7                Em  E7
+Chorar não apaga a loucura que fiz
+E             Am                   D
+Sujei nosso quarto, rasguei seu retrato
+              G                C
+Peguei seu perfume, joguei pelo chão
+            Am                      B7
+Jurei nunca mais te aceitar do meu lado
+               Em                  E7
+Busquei outro amor, traí nossa paixão
+
+           Am                D
+Saí pelas noites amando, sonhando
+              G              C
+Mentindo pra mim, como fui leviano
+             Am                      B7                  Em  E7
+Depois da ressaca é que eu pude entender, que ainda te amo
+Refrão
+: Am   D
+:Volta
+:                G    C
+:Meu amor não consigo
+:              Am                   A#º
+:Ficar junto comigo, sem ter teu sorriso
+:               B7
+:E sentir tuas mãos
+:Am    D
+:Volta
+:               G    C
+:Eu estou te pedindo
+:               Am                     B7
+:Com os olhos molhados, eu abro o meu peito
+:             Em
+:E te peço perdão
+Solo de introdução
+Repete: 2ª parte
+Repete: Refrão
+Solo de introdução
+               Em B Em
+Eu te peço perdão
+
+----------------- Acordes -----------------
+A#º = X 1 2 0 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+C5- = X 3 4 5 5 3
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

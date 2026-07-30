@@ -1,0 +1,47 @@
+@titulo: ah-e
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Ah É
+
+  G                       C
+Olha sei que é alta madrugada
+                 Am                         C
+E você estava dormindo se sonhou não foi comigo
+                       D
+Nem se lembra mais de mim
+G                         C
+Eu sei vou levando minha vida
+                  Am                 C                     D
+Mas meu coração pediu e a saudade insistiu, só queria te dizer
+                   C     D7          G  Em
+Que a tristeza é tanta, mas a fila anda
+                     Am                     D7
+Sei quem é bom você saber, que acabei de conhecer
+                      G
+A vida que roubou de mim
+
+ G             Em            C                 D7
+Ah é, dancei, bebi chorei, sorri, To bem de verdade
+ G             Em                   C                      D7
+Se quer saber aqui onde estou deve ser a melhor festa da cidade
+
+ G             Em            C                 D7
+Ah é, dancei, bebi chorei, sorri, To bem de verdade
+ G             Em                   C                      D7
+Se quer saber aqui onde estou deve ser a melhor festa da cidade
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

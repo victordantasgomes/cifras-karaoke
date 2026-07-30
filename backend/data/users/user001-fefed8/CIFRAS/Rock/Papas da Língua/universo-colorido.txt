@@ -1,0 +1,55 @@
+@titulo: universo-colorido
+@autor:
+@intérprete: Papas da Língua
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Papas da Língua - Universo Colorido
+
+C                    Am
+NÃO GUARDE TUDO COM VOCÊ MEU BEM
+F                     Em      Am
+DEIXE UM POUCO PARA ACONTECER
+C                    Am
+PARE UM POUCO DE SE ENGANAR
+F                     Em  Am
+VOCÊ PODE ATÉ SE MACHUCAR
+
+F                C
+VOCÊ PODE ATÉ ME CONVENCER
+F                         C
+MAS ACHO QUE ISSO NÃO VAI RESOLVER
+F                   C  C/E  Am
+O QUE MUDA É DENTRO DE VOCÊ
+       F                       G
+TUDO O QUE VOCÊ SONHOU ESTÁ LÁ FORA
+   Em  G
+NO AR
+
+C   G  Am    F        C   G
+VEJA O SOL NAQUELA ESTRADA
+
+    Am     F     C   G
+DOURANDO A MADRUGADA
+ Am   F
+AZUL
+C   G    Am    F    C   G
+VEJA QUE MUNDO COLORIDO
+   Am   F        C    G
+BATENDO NA TUA JANELA
+   Am   F     C
+PEDINDO PRÁ FICAR
+FICAR...
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

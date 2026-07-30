@@ -1,0 +1,40 @@
+@titulo: eu-nasci-para-adorar
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Eu Nasci Para Adorar
+
+D             A   Bm 
+Eu nasci para adorar 
+G             D/F#  Bm 
+Eu nasci para adorar 
+      G    A/G   F#m           Bm 
+Para proclamar a glória do Senhor 
+      G         Em (A)     A (D) 
+Para ser um verdadeiro adorador 
+
+           A       Bm 
+Pra Te adorar, Senhor 
+           A       Bm 
+Pra Te adorar, Senhor 
+           A       Bm 
+Pra Te adorar, Senhor 
+        Em  A   G  Em  A 
+Pra Te adorar!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/G = 3 X 2 2 2 X
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

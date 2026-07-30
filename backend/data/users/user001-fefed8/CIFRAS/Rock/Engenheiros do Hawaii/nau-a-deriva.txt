@@ -1,0 +1,70 @@
+@titulo: nau-a-deriva
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Nau À Deriva
+
+Intro: E E11 E E11 E
+
+E11         E       E11                  E
+Nau à deriva no asfalto ou em alto mar
+      E11    E         E11                 E
+Perigo perigo perdidos no espaço sideral
+C#      B             C#     G#m
+Apocalipse now à deriva
+   A                 G#m             A
+Talvez um parto talvez aborto
+                          B7/11    B7
+Destroços da nave mãe
+   E11      E      E11                    E
+Nau à deriva no asfalto ou em alto mar
+    E11      E        E11                E
+Perigo perigo perdidos no espaço sideral
+C#       B            C#     G#m
+Apocalipse now à deriva
+     A           G#m                  A
+Longe demais do cais do porto
+                 B7/11  B7
+Perto do caos
+
+
+Riff do refrão (Tocado depois do último acorde de Mi)
+E|----------------------|
+B|----------------------|
+G|-2-(2)-(2)-2-1--------|Notas em parenteses não são tocadas no último Mi do refrão (demarcado com um asterico)
+D|---------------4-2-0--|
+A|----------------------|
+E|----------------------|
+
+A                 B                          E E11 E E11 E (Riff)
+Meu coração é um porta aviões
+    A                B                           E     E11 E E11 E (Riff)
+Perdido no mar esperando alguem pousar
+    A              B                    E            E11 E E11 E (Riff*)
+Meu coração é um porto sem endereço certo
+D                                      B
+É um deserto em pleno mar
+
+Solo:
+
+E|--5-4-5-4-5-7--5-4-5-4-------5-4-5-4-5-7--9-7-9-7-9-12-|
+B|-----------------------7-5-----------------------------|
+G|---------------------------4---------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+B7/11 = X 2 4 2 5 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E11 = 0 2 2 2 0 0
+G#m = 4 6 6 4 4 4

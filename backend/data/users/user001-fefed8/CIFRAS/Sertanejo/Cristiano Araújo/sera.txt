@@ -1,0 +1,55 @@
+@titulo: sera
+@autor:
+@intérprete: Cristiano Araújo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cristiano Araújo - Será
+
+Intro: B5(9)  F#  G#m  E
+
+B5(9)           F#
+Fiz o que foi preciso
+       C#m              E
+Essa faça já não tem mais sentido
+B5(9)                F#
+Nunca mais vi seus sorrisos
+C#m              E                    B5(9)
+Chega de fingir que o amor estar indo bem
+               F#
+Mudou a nossa foto do computador
+C#m             E
+Me atende pelo nome
+                      B5(9)
+Não me chama mais de amor
+          F#
+Eu te procuro toda noite
+     C#m
+Sempre corre e
+             E            G#m
+Não me diz o que tá acontecendo
+
+     F#
+Tá estranho
+    E                 B5(9)
+Faz a felicidade voltar!
+   F#    G#m
+Será, será
+           E                  B5(9)
+Que estar gostando de outra pessoa
+   F#    G#m
+Será , será
+             E                  B5(9)
+Que alguém ganhou seu coração amor
+
+----------------- Acordes -----------------
+B5(9) = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

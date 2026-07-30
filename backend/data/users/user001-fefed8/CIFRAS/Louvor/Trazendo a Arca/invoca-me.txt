@@ -1,0 +1,81 @@
+@titulo: invoca-me
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Invoca-me
+
+[Intro]  G  C9  D/F#  G
+
+G     C9   D/F#        G
+ Invoca-me e Te Responderei
+  C    G/B  B7  Em      D   C
+ Confiiia, Descaaaansa  o  Coração
+  G             C9       D/F#        G
+ Porque Eu Bem Sei, O  Que Penso de Ti
+ C  G/B   B7    Em   D  C
+ Espeeera e Te Darei O Melhor
+     Am      G         D/F#
+ Nas ondas bravias do mar
+     Am    G     D/F#
+ Sossega  tua almaaaa
+     G  Am  G/B     C          D/F#  G
+ Eu Sou o  Senhor que Te Cuuuraaa
+  G  Am   G/B  C      D4  D
+ Jeová   Rafá  o Teu Deus
+       C       G/B     B7     Em        D4  D
+ Que Cuida de Ti e nunca Te Abandonareeeeeeei
+  G  Am  G/B  C         D/F#  G
+ Ponha  tua  fé em Meu Nome
+    G   Am  G/B  C       D4  D
+ E faz  uma    prova de Mim
+    C  G/B        B7   Em
+ A Tua oração Eu já recebi
+ D  C     D         G        ( G  C9  D/F#  G )
+ E Te Responderei  com Poder  
+
+G           C    D         G
+ Confia, Espera, Estou contigo
+  G         C       D4  D
+ Nunca te abandonarei 
+
+G        C      D/F#     G
+ Confia, Espera,  Estou contigo
+  G  Am  G/B  C      D4  D
+ Nunca  te  abandonarei
+
+     G  Am  G/B   C          D/F#  G
+ Eu Sou o  Senhor   que Te  Cura
+  G  Am  G/B  C      D4  D
+ Jeová   Rafa o Teu Deus
+      C        G/B  B7      Em       D4  D
+ Que Cuida de Ti e nunca Te Abandonarei
+  G  Am  G/B  C           D/F#  G
+ Ponha  tua  fé  em Meu  Nome
+ G   Am  G/B    C       D4  D
+ E  faz  uma  prova de Mim
+    C  G/B        B7   Em
+ A Tua oração Eu já recebi
+ D     C       D         G
+ E Te Responderei com Poder
+
+[Final]  G  C/G  D/F#  G 
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

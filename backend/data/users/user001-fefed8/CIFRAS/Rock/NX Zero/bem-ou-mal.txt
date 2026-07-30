@@ -1,0 +1,157 @@
+@titulo: bem-ou-mal
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Nx Zero - Bem Ou Mal
+
+Afinação Meio Tom Abaixo
+
+[Intro] A5  C5  G5
+        A5  C5  G5
+
+E|--------------8-----------8--8-8-8---------8-7----|
+B|-10--10-8-10--8--10-8-10--8--8-8-8--8-8--8-8-8----|
+G|-9---9--9-9------9--9-9-------------7-7--7--------| (2x)
+D|--------------------------------------------------|
+A|--------------------------------------------------|
+E|--------------------------------------------------|
+
+[Primeira Parte]
+
+Am                Cm
+  O começo e o fim
+             F
+Podem ser iguais
+                 Dm         G
+Depende de quem vai achar uma resposta
+Am                Cm
+  A inveja que mata
+              F
+Não me afeta mais
+
+                   Dm
+Pois o que conquistei
+         G
+Tem o direito de ser meu
+
+[Refrão]
+
+F
+  Entre o bem e o mal
+           Am
+A escolha certa
+                  F
+Pouco tempo pode ser demais
+              G
+Pra quem sabe o que quer
+             Dm
+Pra quem respeita a vida e a si mesmo
+Am                     F
+  O tempo muda sempre cada vez mais
+          G
+E dentro de você
+          Dm
+Existe o bem e o mal e a escolha certa
+
+[Segunda Parte]
+
+Am                   Cm
+  A vida é curta demais
+                 F
+Pra sempre reclamar
+                Dm
+E não correr atrás
+             G
+Dos sonhos que almeja
+Am                 Cm
+  O que você me diz
+              F
+Não me afeta mais
+                   Dm
+Pois o que conquistei
+            G
+Tem o direito de ser meu
+
+[Refrão]
+
+F
+  Entre o bem e o mal
+           Am
+A escolha certa
+                  F
+Pouco tempo pode ser demais
+              G
+Pra quem sabe o que quer
+             Dm
+Pra quem respeita a vida e a si mesmo
+Am                     F
+  O tempo muda sempre cada vez mais
+          G
+E dentro de você
+          Dm
+Existe o bem e o mal e a escolha certa
+
+( F  G )
+
+[Ponte]
+
+       Am
+Então faça a sua escolha logo e se decida
+ Am/G
+Vai querer o mal ou bem pra sua vida?
+   F
+O tempo é muito curto, não pode demorar
+   G
+Escolha qual caminho você vai querer trilhar
+ Am
+Tudo nessa vida é merecimento
+    Am/G
+O que a brisa leva, volta com o vento
+    F
+Se não se decidiu, então corra atrás
+G
+Entre o bem e o mal, eu fico com a paz
+
+[Refrão]
+
+Am                    F
+  E pouco tempo pode ser demais
+              G
+Pra quem sabe o que quer
+             Dm
+Pra quem respeita a vida e a si mesmo
+Am                     F
+  O tempo muda sempre cada vez mais
+          G
+E dentro de você
+          Dm
+Existe o bem e o mal e a escolha certa
+
+[Solo]  Am  F  G  Dm
+
+[Final] A5  C5  G5
+
+E|--------------8-----------8--8-8-8---------8-7----5--|
+B|-10--10-8-10--8--10-8-10--8--8-8-8--8-8--8-8-8----5--|
+G|-9---9--9-9------9--9-9-------------7-7--7--------5--|
+D|--------------------------------------------------7--|
+A|--------------------------------------------------7--|
+E|--------------------------------------------------5--|
+
+----------------- Acordes -----------------
+B5*  = X 2 4 4 X X - (*A#5 na forma de B5)
+Bm*  = X 2 4 4 3 2 - (*A#m na forma de Bm)
+C#m*  = X 4 6 6 5 4 - (*Cm na forma de C#m)
+E*  = 0 2 2 1 0 0 - (*D# na forma de E)
+E5*  = 0 2 2 X X X - (*D#5 na forma de E5)
+F#*  = 2 4 4 3 2 2 - (*F na forma de F#)
+F#5*  = 2 4 4 X X X - (*F5 na forma de F#5)
+G#5*  = 4 6 6 X X X - (*G5 na forma de G#5)
+G#m*  = 4 6 6 4 4 4 - (*Gm na forma de G#m)

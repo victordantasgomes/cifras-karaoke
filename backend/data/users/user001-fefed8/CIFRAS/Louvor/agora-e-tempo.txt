@@ -1,0 +1,43 @@
+@titulo: agora-e-tempo
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Agora É Tempo
+
+(refrão)
+            D              A               Em            D
+Agora é tempo  de ser Igreja,/ Caminhar juntos, participar. (2x)
+                   Bm           F#m        G             Em        A          Em
+1. Somos povo escolhido/ E na fronte assinalados/ Com o nome do Senhor/ Que caminha
+     A7         D
+ ao nosso la---do.
+                   Bm         F#m        G           Em              A             Em     A7
+2.Somos povo em missão./ Ja é tempo de partir./ È o Senhor que nos envia, / em seu nome a
+   D
+servir
+                  Bm                F#m      G            Em          A            Em
+3. Somos povo  esperança. / Vamos juntos planejar:/ Se  Igreja a  serviço  /  e a fé
+  A7      D
+Testemunhar.
+                    Bm         F#m         G             Fm           A          Fm
+4. Somos povo a caminho / Contruindo em multirão / Nova terra, Novo reino / De fraterna
+A7      D
+comunhão.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3

@@ -1,0 +1,64 @@
+@titulo: homem-traido
+@autor:
+@intérprete: Trio Parada Dura
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trio Parada Dura - Homem Traído
+
+Intro: C# F# C# F# E B F# E F# B
+
+
+ B                                  F#
+Devolva-me os objetos que estão contigo
+       E                     F#              B
+Entre nós a partir desse instante tudo terminou
+                       B7                E
+Eu vou devolver suas coisas que estão comigo
+     B                  F#                    B
+E assim será mais um final de um romance de amor
+
+ B                                           F#
+Não venha tentando comprar-me com falsos beijinhos
+   E                 F#              B
+Você sabe bem o porque da minha decisão
+                        B7                  E
+Eu sempre lhe dei meu amor com ternura e carinho
+      B               F#                 B
+Por isso não vou aceitar sua grande traição
+
+
+
+  C#                                   F#
+Aqui estão as suas fotos e cartas de amor
+   C#                               F#
+Acuado e lhe renuncio que sigas em paz
+      E                                  B
+Só peço para que se afaste de mim por favor
+     F#             E      F#          B
+Porque um homem traído não sabe o que faz
+
+
+Introdução: C# F# C# F# E B F# E F# B
+
+
+  C#                                   F#
+Aqui estão as suas fotos e cartas de amor
+   C#                               F#
+Acuado e lhe renuncio que sigas em paz
+      E                                  B
+Só peço para que se afaste de mim por favor
+     F#             E      F#          B
+Porque um homem traído não sabe o que faz
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C# = X 4 6 6 6 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2

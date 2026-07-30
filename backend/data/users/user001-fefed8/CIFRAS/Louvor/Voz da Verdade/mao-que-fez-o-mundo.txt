@@ -1,0 +1,86 @@
+@titulo: mao-que-fez-o-mundo
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Mão Que Fez o Mundo
+
+intro: G D/F# Em D/F# G D/F# Em D/F# G
+
+
+ G                            D
+Ele está por perto no tempo certo
+ Am                         G
+Onde há trevas brilhará sua luz
+G                         D
+Quando a vida torna-se difícil
+ Am                    G
+É só clamar o nome de Jesus
+G                          D
+Ele derrota todo o seu problema
+Am                         G
+Pois já derrotou todo o inferno
+G                             D
+Quando você pensa que está sozinho
+Am                           G
+Ele diz filho eu estou por perto
+C           D        Em7 D/F#
+Ao ouvir a voz do criador
+
+G                D Dsus4 D
+Você se sente seguro
+C            D         Em7
+Sabendo que Ele está vivo
+Am         G          D/F#
+E que tem ciência de tudo    2X
+G     D/F#    Em7   D/F# G
+Ele está por perto
+G    D/F#  Em7
+Sinto sua mão
+Am7      G      D/F#
+Mão que fez o mundo
+G     D/F#    Em7
+E me dá a proteção
+
+MUDA DE VOZ
+solo de guitarra: Bm7 A E/G#  A E/G# F#m7 2x
+
+D           E        F#m7 E/G#
+Ao ouvir a voz do criador
+A                E Esus4 E
+Você se sente seguro
+D            E         F#m7
+Sabendo que Ele está vivo
+Bm7         A          E/G#
+E que tem ciência de tudo
+A     E/G#    F#m7   E/G#
+Ele está por perto
+A    E/G#  F#m7
+Sinto sua mão
+Bm7      A      E/G#
+Mão que fez o mundo
+A     E/G#    F#m7
+E me dá a proteção
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dsus4 = X X 0 2 3 3
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+Esus4 = 0 2 2 2 0 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

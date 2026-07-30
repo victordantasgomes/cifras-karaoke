@@ -1,0 +1,28 @@
+@titulo: vai-pirar
+@autor:
+@intérprete: Charlie Brown Jr
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Charlie Brown Jr. - Vai Pirar
+
+Intro:( Bm G )
+Refrão:Bm G Bm G Bm G
+
+
+   Bm    G
+e|-----|----|
+B|-3---|----|
+G|-4---|-4--|
+D|-4---|-5--|
+A|-2---|-5--|
+E|-----|-3--|
+
+----------------- Acordes -----------------
+Bm = X 2 4 4 3 2
+G = 3 2 0 0 0 3

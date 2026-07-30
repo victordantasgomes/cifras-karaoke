@@ -1,0 +1,10 @@
+@titulo: expectativa
+@autor:
+@intérprete: Maiara e Maraisa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:

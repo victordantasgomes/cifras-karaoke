@@ -1,0 +1,68 @@
+@titulo: lacos-de-amor
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Laços de Amor
+
+  C            G/B             Am        F7+        Dm     F/G
+Senhor, nos escolheste desde sempre e conduziste o nosso caminhar.
+     Em7                 A4/7     Am7   Dm7         F/G        F/C
+Com laços de amor nos envolveste,     criaste-nos somente para amar.
+
+Refrão:
+(C   F C/E  F7+) G/F         Em7  (A4/7 Am7)
+Pois somos Teus, sim, somos Teus,
+        Dm         F/G         F/C
+Nossas vidas Te entregamos, ó Senhor.
+(C   F C/E  F7+)  G/F     Em7  (A4/7 Am7)
+Pois somos Teus, somente Teus,
+   Dm           F/G            C   F/C  C  F/C
+Abençoa hoje e sempre o nosso amor.
+
+   C           G/B          Am         F7+            Dm    F/G
+Cuidaste dos detalhes com carinho, em cada passo, em cada decisão.
+  Em7                       A4/7   Am7   Dm        F/G           F/C
+Senhor, Tu és presença no caminho,     a Ti nosso louvor, nossa canção.
+
+Refrão:
+
+(C   F C/E  F7+) G/F         Em7  (A4/7 Am7)
+Pois somos Teus, sim, somos Teus,
+        Dm         F/G         F/C
+Nossas vidas Te entregamos, ó Senhor.
+(C   F C/E  F7+)  G/F     Em7  (A4/7 Am7)
+Pois somos Teus, somente Teus,
+   Dm           F/G            C   F/C  C  F/C
+Abençoa hoje e sempre o nosso amor.
+
+(C   F C/E  F7+) G/F         Em7  (A4/7 Am7)
+Pois somos Teus, sim, somos Teus,
+        Dm         F/G         F/C
+Nossas vidas Te entregamos, ó Senhor.
+(C   F C/E  F7+)  G/F     Em7  (A4/7 Am7)
+Pois somos Teus, somente Teus,
+   Dm           F/G            C
+Abençoa hoje e sempre o nosso amor.
+
+----------------- Acordes -----------------
+A4/7 = X 0 2 0 3 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F/C = X 3 3 2 1 1
+F/G = 3 X 3 2 1 X
+F7+ = 1 X 2 2 1 X
+G/B = X 2 0 0 3 3
+G/F = 1 X X 0 0 3

@@ -1,0 +1,65 @@
+@titulo: grand-hotel(simplificada)
+@autor:
+@intérprete: Kid Abelha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kid Abelha - Grand' Hotel
+
+Intro: D A
+
+D                      A
+Se a gente näo tivesse feito tanta coisa
+D              A
+Se näo tivesse dito tanta coisa
+D#m7b5
+Se näo tivesse inventado tanto
+   G                 A
+Podia ter vivido um amor grand' hotel
+
+Se a gente näo fizesse tudo täo depressa
+Se näo dizesse tudo täo depressa
+Se näo tivesse exagerado a dose
+Podia ter vivido um grande amor
+
+   E                     E5+
+Um dia um caminhäo atropelou a paixão
+E                       E5+
+Sem teus carinhos e tua atençäo
+C#               B                  A    D#m7/b5
+O nosso amor se transformou em "bom dia"
+
+
+D                 F#m
+Qual o segredo da felicidade
+D       F#m       D           F#m
+Será preciso ficar só pra se viver
+D                   F#m
+Qual o sentido da realidade
+D       F#m       B7
+Será preciso ficar só pra se viver
+
+            A
+Só pra se viver
+      Bm D
+Ficar só
+           D  A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+D#m7/b5 = X X 1 2 2 2
+D#m7b5 = X X 1 2 2 2
+E = 0 2 2 1 0 0
+E5+ = 0 X 2 1 1 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

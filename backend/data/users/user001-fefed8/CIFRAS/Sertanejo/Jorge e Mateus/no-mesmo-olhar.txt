@@ -1,0 +1,64 @@
+@titulo: no-mesmo-olhar
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - No Mesmo Olhar
+
+Intro: B B4
+
+ B                  B4
+Eu não sei se foi sonho meu
+B                   B4     G#m
+Tudo aquilo que aconteceu
+           E             B      B4  B
+Numa noite de festa e poesia
+B               B4
+O seu corpo tocou no meu
+B                 B4      G#m
+E o meu coração percebeu
+                        E             B  B4   F#7
+Que o amor vinha em forma de poesia  magia
+         B
+    | Quando dois olhos se olham no mesmo olhar
+                                     E
+1   | O coração não consegue mais segurar
+                 C#m      F#   B    B4
+    | E quer amar, se apaixonar
+B                B4
+E na dança peguei sua mão
+
+B                 B4          G#m
+Nós rodamos pelo salão
+                     E          B      B4  B
+E no  peito meu coração já sabia
+B                     B4
+Que o amor vinha pra ficar
+B                     B4      G#m
+Que eu tinha que me entregar
+              E                B             F#7
+Que a força do amor era quem vencia e te queria
+       B
+    | Foi numa festa, num baile em algum lugar
+                                       E
+2   | Nossas vidas se uniram por um olhar
+               C#m    F#   B
+    |Te vir dançar no meu olhar
+Repetir A
+Repetir B
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2
+G#m = 4 6 6 4 4 4

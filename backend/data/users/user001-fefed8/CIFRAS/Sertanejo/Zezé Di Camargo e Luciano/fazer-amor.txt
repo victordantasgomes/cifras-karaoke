@@ -1,0 +1,86 @@
+@titulo: fazer-amor
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Fazer Amor
+
+Intro:
+
+  D
+Amor se faz
+Com quem se ama
+    G                D
+Não é apenas ir pra cama, nem
+     A          D
+Transar uma emoção
+
+  D
+Amor se faz
+Sem preconceito
+    G
+Não é apenas
+        D
+Dar um jeito, de
+     A        D    A
+Quebrar a solidão
+
+ D    F#m        G
+Fazer amor é sentir
+
+A4           A
+Mais que prazer
+ D     F#m      G
+Fazer amor é saber
+A4   A  D
+Como fazer
+        A
+Desse amor
+  G D/F#  Em  D  (A/C# G/B A D)
+Eterno  prazer
+
+  D
+Amor se faz com sentimento
+    G             D
+Não é apenas um momento,
+     A             D
+Tão fácil de esquecer
+  D
+Amor se faz
+Pra ser eterno
+    G              D
+Não é apenas um inverno
+        A
+Se não chove
+       D
+Não se vê
+
+ D     F#m       G
+Fazer amor é sentir
+ A4          A
+Mais que prazer
+ D              G
+Fazer amor é saber
+A4   A   D
+Como fazer
+        A
+Desse amor
+  G D/F# Em  D   (A/C# G/B A D)
+Eterno   prazer
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

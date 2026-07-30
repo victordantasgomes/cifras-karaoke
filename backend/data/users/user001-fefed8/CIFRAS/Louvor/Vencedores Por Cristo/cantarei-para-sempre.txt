@@ -1,0 +1,52 @@
+@titulo: cantarei-para-sempre
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Cantarei Para Sempre
+
+Intro:  G   Dm7   G   Dm7   G   Dm7   G   Dm7
+
+ G        Dm7    G  Dm7     G       Dm7    G Dm7
+Cantarei para sempre as tuas misericórdias 
+ C                D         G    Em        Am   D7 F C/E D7 G
+Os meus lábios proclamarão a todos a tua fidelidade 
+  C            D       Em    D
+Quem é comparável ao senhor? 
+  C            D          G
+Quem é semelhante a deus? 
+   C         G/B Am7             G/B
+Celebram os céus as tuas maravilhas  
+  C           G/B        Am7        G
+Todo o teu povo celebra o teu poder 
+   C           G/B      Am7         D7/4
+Quem é poderoso e fiel como és ó senhor? 
+ G   Dm7   G   Dm7   G7   Dm7   G7   Dm7
+
+   C         G/B     Am7        G/B
+Teus são os céus, tua é a terra 
+     C         G/B     Am7    G
+O mundo inteiro é tua criação 
+  C             G/B      Am7       D7/4
+Quem é poderoso e fiel como és ó senhor?
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+D7/4 = X X 0 2 1 3
+Dm7 = X 5 7 5 6 5
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

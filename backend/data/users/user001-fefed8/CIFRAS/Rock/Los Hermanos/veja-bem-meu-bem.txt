@@ -1,0 +1,109 @@
+@titulo: veja-bem-meu-bem
+@autor:
+@intérprete: Los Hermanos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Los Hermanos - Veja Bem Meu Bem
+
+[Intro]  E7/#9
+
+[Solo]
+
+E|--------------------------------|
+B|------------8-------------------|
+G|------6---6---------------------|
+D|----7---7-----------------------|
+A|--7-----------------------------|
+E|--------------------------------|
+
+              Am
+Veja bem meu bem
+                Dm
+Sinto lhe informar
+             Bm7(b5)   E
+Que arranjei alguém
+              Am
+Pra me confortar
+            Dm   E7              Am  Am7
+Este alguém está    quando você sai
+
+              Dm
+Eu só posso crer
+              Bm7(b5)
+Pois sem ter você
+         E     Am   E
+Nestes braços tais
+         Am
+Veja bem amor
+             Dm
+Onde está você
+            Bm7(b5)   E         Am
+Somos no papel,            Mas não no viver
+            Dm  E              Am  Am7
+Viajar sem mim,   me deixar assim
+               Dm                Bm7(b5)     E    Am  A7
+Tive que arranjar alguem pra passar os dias ruins
+
+
+         Dm      E7                 Am
+Enquanto isso navegando eu vou sem paz
+            Dm           E7           Am
+Sem Ter um porto, quase morto sem um cais
+            G#  G          Cm       F
+E eu nunca vou    te esquecer amor
+         Fm              G                   Am
+Mas a solidão deixa o coração neste leva e traz
+
+[Solo]
+
+E|------------------------------|
+B|------------8-----------------|
+G|------6---6-------------------|
+D|----7---7---------------------|
+A|--7---------------------------|
+E|------------------------------|
+
+          Am
+Veja bem, além
+              Dm
+Destes fatos vis
+         Bm7(b5)  E
+Saiba, traições
+              Am
+São bem mais sutis
+              Dm  E7
+Se eu te troquei
+                Am  Am7
+Não foi por maldade
+         Dm              E               Am     A7
+Amor, veja bem, arranjei alguém chamado saudade
+
+         Dm      E7                 Am
+Enquanto isso navegando eu vou sem paz
+            Dm           E7           Am
+Sem Ter um porto, quase morto sem um cais
+            G#  G          Cm       F
+E eu nunca vou    te esquecer amor
+         Fm              G                   Am
+Mas a solidão deixa o coração neste leva e traz
+
+----------------- Acordes -----------------
+A7*  = X 0 2 0 2 0 - (*G#7 na forma de A7)
+Am*  = X 0 2 2 1 0 - (*G#m na forma de Am)
+Am7*  = X 0 2 0 1 0 - (*G#m7 na forma de Am7)
+Bm7(b5)*  = X 2 3 2 3 X - (*A#m7(b5) na forma de Bm7(b5))
+Cm*  = X 3 5 5 4 3 - (*Bm na forma de Cm)
+Dm*  = X X 0 2 3 1 - (*C#m na forma de Dm)
+E*  = 0 2 2 1 0 0 - (*D# na forma de E)
+E7*  = 0 2 2 1 3 0 - (*D#7 na forma de E7)
+E7/#9*  = X 6 5 6 7 X - (*D#7/#9 na forma de E7/#9)
+F*  = 1 3 3 2 1 1 - (*E na forma de F)
+Fm*  = 1 3 3 1 1 1 - (*Em na forma de Fm)
+G*  = 3 2 0 0 0 3 - (*F# na forma de G)
+G#*  = 4 3 1 1 1 4 - (*G na forma de G#)

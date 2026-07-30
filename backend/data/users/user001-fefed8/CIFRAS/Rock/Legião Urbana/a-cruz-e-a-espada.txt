@@ -1,0 +1,86 @@
+@titulo: a-cruz-e-a-espada
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - A Cruz e a Espada
+
+Intro: D  C#m  Bm  E
+E|--10------10-----9------9-----7-----7----------7---9----|
+B|-----10------------9------------7------------9----------|
+G|-------11------------9-----------7----7p9-7-------------|
+D|--12------12-----11-----11----9-----9------9---9---11---|
+A|--------------------------------------------------------|
+E|--------------------------------------------------------|
+
+E|--10------10-----9------9-----7-----7----------7---9-----|
+B|-----10------------9------------7------------9-----------|
+G|-------11------------9-----------7----7p9-7--------------|
+D|--12------12-----11-----11----9-----9------9---9---11----|
+A|---------------------------------------------------------|
+E|---------------------------------------------------------|
+
+D              C#m
+Havia um tempo em que eu vivia
+Bm            E        Bm   C#m
+Um sentimento quase infantil
+D              C#m
+Havia o medo e a timidez
+
+Bm                 E   Bm   C#m
+Todo um lado que você nunca viu
+Bm              F#m          D   E    F#m
+Agora eu vejo, aquele beijo era mesmo o fim
+Bm              F#m          D   E    F#m      A
+Era o começo e o meu desejo se perdeu de mim
+
+D               C#m            Bm
+E agora eu ando correndo tanto
+Bm                E    Bm  C#m
+Procurando aquele novo lugar
+D           C#m            Bm
+Aquela festa o que me resta
+Bm                  E      Bm C#m
+Encontrar alguém legal pra ficar
+Bm              F#m          D   E    F#m
+Agora eu vejo, aquele beijo era mesmo o fim
+Bm              F#m          D   E    F#m      A
+Era o começo e o meu desejo se perdeu de mim
+
+(intro)
+
+Bm              F#m          D   E    F#m
+Agora eu vejo, aquele beijo era mesmo o fim
+Bm              F#m          D   E    F#m
+Era o começo e o meu desejo se perdeu de mim
+
+D              C#m            Bm
+E agora é tarde e acordo tarde
+Bm                         E   Bm   C#m
+Do meu lado alguém que eu não conhecia
+
+D             C#m       Bm
+Outra criança adulterada
+Bm                   E   Bm    C#m
+Pelos anos que a pintura escondia
+
+Bm              F#m          D   E    F#m
+Agora eu vejo, aquele beijo era mesmo o fim
+Bm              F#m          D   E    F#m     A
+Era o começo e o meu desejo se perdeu de mim    (2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

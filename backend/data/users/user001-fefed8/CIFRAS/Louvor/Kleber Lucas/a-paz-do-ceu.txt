@@ -1,0 +1,68 @@
+@titulo: a-paz-do-ceu
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - A Paz do Céu
+
+INT -> [ F C/E D#m Dbm7/5- | A#7  A#m6 A#/C ]
+
+F7                  C/E             Dm7                Cm7       F/A
+   CHEGAREMOS MAIS LONGE SE, JUNTOS,   CAMINHARMOS NA LUZ DO SENHOR
+      A#7          A#/C                   F7
+E DEIXARMOS DE VEZ A    PAZ DO CÉU NOS GUIAR
+                     C/E           Dm7                Cm7       F/A
+SE NA ESTRADA ENCONTRARMOS ESPINHOS    E ALGUÉM SE FERIR ENTRE NÓS
+      A#7             A#/C                   F F4 F
+CUIDAREMOS DO AMIGO E A    PAZ DO CÉU VAI GUIAR
+
+D#/G F/A A#7                  Am7       Dm7 A#7                    Dm7
+              EU SEI QUE É DIFÍCIL, SENHOR,     VIVER O PERFEITO AMOR
+A#7            Am7        Dm7      G9                 A/C#    C A#/C C
+    MAS TUA PALAVRA NOS TRAZ A CERTEZA QUE NÓS NÃO ESTAMOS A SÓS
+
+F7                   C/E         Dm7                   Cm7     F/A
+    A ESPERANÇA QUE TENHO COMIGO     É O TEU TOQUE NO MEU CORAÇÃO
+       A#7              A#/C               F7
+MEU JESUS, MEU ABRIGO, DEIXA TUA MÃO ME GUIAR
+              C/E           Dm7                     Cm7      F/A
+O SENHOR É A NOSSA BANDEIRA,   OS SEUS ANJOS GUERREIAM  POR NÓS
+
+        A#7              A#/C                   F F4 F
+NO MEU DEUS EU CONFIO, E A    PAZ DO CÉU VAI GUIAR
+
+CORO - 1º ESTROFE - SOBE P/ SOL
+
+D/F# D#                              G
+        NÃO, NÃO VAI EXISTIR TANTO AMOR, TANTA PAZ
+D#               Cm7      D
+   POIS SÓ O SENHOR  É MAIOR, BEM MAIOR
+
+----------------- Acordes -----------------
+A#/C = X 3 X 3 3 1
+A#7 = X 1 3 1 3 1
+A#m6 = 6 X 5 6 6 X
+A/C# = X 4 X 2 5 5
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+Cm7 = X 3 5 3 4 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D#/G = 3 X 1 3 4 X
+D#m = X X 1 3 4 2
+D/F# = 2 X 0 2 3 2
+Dbm7/5- = X 4 5 4 5 X
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F4 = 1 3 3 3 1 1
+F7 = 1 3 1 2 1 1
+G = 3 2 0 0 0 3
+G9 = 3 X 0 2 0 X

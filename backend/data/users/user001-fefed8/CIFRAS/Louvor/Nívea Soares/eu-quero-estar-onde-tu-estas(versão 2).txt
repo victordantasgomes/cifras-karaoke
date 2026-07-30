@@ -1,0 +1,75 @@
+@titulo: eu-quero-estar-onde-tu-estas(versão 2)
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Eu Quero Estar Onde Tu Estás
+
+Introdução: Dm2/7 | - | F9 | - | C9 | - | G | -  2x
+
+ Dm2/7                              F9
+Com o pequenino tu estás;
+                                 C9
+Com o humilde tu estás;
+                                        Bb9
+Com o desamparado tu estás;
+                       A7       || Dm2/7 | Dm2/7 G || 2x
+Com o necessitado tu estás.
+
+Dm2/7                         F9
+Com o rejeitado tu estás;
+                             C9
+Com o ferido tu estás;
+                              Bb9
+Com o abatido tu estás;
+                A7       || Dm C9 G9/B || 2x
+Com o doente tu estás.
+
+   Dm7                                      F9          G  - C -
+Eu quero estar onde tu estás, Senhor
+
+   Dm7                              F9          G  - C -
+E conhecer teu coração, Senhor.
+   Dm7                                   F9        G  - C -
+Amar aquele que tu amas, Senhor.
+     F9/A                     G9/B        Dm7     G
+Eu quero estar onde tu estas, Senhor.
+
+Inicio: || Dm2/7 F9 C9 G ||
+
+Com o pequenino…
+
+Ponte: || Dm2/7 | - | C9/E | - | F9 | - | Bb9 | - | Gm7 | - C ||
+
+Dm2/7                                      F9                Bb9                  Gm7
+Teus caminhos são mais altos que os meus, Te seguirei, Te seguirei.
+Dm2/7                                      F9                Bb9                  Gm7
+Os teus sonhos são mais nobres que os meus, Te seguirei, Te seguirei.
+
+Eu quero estar…
+
+Final: || Dm2/7 | - | F9 | - | C9 | - | G | - | Dm2/7 ||
+
+Obs.: Legenda: | - | Significa repetição do compasso anterior. Tempo - 146 BPM
+Dúvidas: lord.august24@yahoo.com.br
+
+----------------- Acordes -----------------
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+C9/E = X X 2 5 3 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm2/7 = X 5 3 5 5 X
+Dm7 = X 5 7 5 6 5
+F9 = 1 3 5 2 1 1
+F9/A = 5 X X 5 6 3
+G = 3 2 0 0 0 3
+G9/B = 7 X X 7 8 5
+Gm7 = 3 X 3 3 3 X

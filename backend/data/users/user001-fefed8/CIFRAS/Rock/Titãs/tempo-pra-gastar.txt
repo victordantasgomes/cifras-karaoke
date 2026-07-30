@@ -1,0 +1,72 @@
+@titulo: tempo-pra-gastar
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Tempo Pra Gastar
+
+Intro: (D A B C D)
+
+       D         C D C  C D C                     A   B C
+ Tenho tempo pra gastar, tenho tempo pra passar a hora
+       D                 C D C       C D C           A B C
+ Tenho tempo pra desperdiçar, tenho tempo pra jogar fora
+ D               C D C     C D C                A  B  C
+ Tempo de sobra pra levar o tempo que resta pra ir embora
+ D                  C D C     C D C                 A  B   C
+ Tempo de sobra pra esperar o tempo que resta a partir de agora
+
+(F#m)
+ Eu realmente não sei que horas são
+ Eu realmente não sei que horas são
+
+       A                      F# G   A
+ Tem lugar de sobra até aonde posso ver
+                         F#    G
+ Tem espaço bastante pra se perder
+       A                      F# G       A
+ Tem lugar de sobra até aonde posso enxergar
+
+                         F#        G
+ Tem espaço bastante pra ter que parar
+
+         (F#m)
+ Tenho o dia inteiro pra andar
+ Eu quero o dia todo pra andar sem direção
+ Tenho quatro paredes pra derrubar
+ Eu quero quatro paredes pra pôr no chão
+
+ A                    F# G          A    F# G
+ Eu realmente não sei em que mês estamos
+ A                    F# G
+ Eu realmente não sei      qual é o dia do ano
+
+ A                        G  A G
+ Eu realmente não quero saber,
+ A                        G  A G
+ Eu realmente não quero saber
+ A                        G
+ Eu realmente não quero saber
+ A                        G
+ Eu realmente não quero saber
+ A                        G
+ Eu realmente não quero saber
+ A                        G
+ Eu realmente não quero saber
+
+ SOLO: (A) (D  A B C)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

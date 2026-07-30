@@ -1,0 +1,39 @@
+@titulo: i-love-you
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - I Love You
+
+(intro)  E D A E B7
+
+B7       E             D         E
+Hoje à noite eu sonhei com meu amor
+                              D
+Ela estava num vestido todo azul
+      E                      A       Am
+Vinha de braços abertos em minha direção
+       E                   D
+Eu chorei e disse: I love you.
+
+B7           E                  D           E
+E lhe dei a mão e saía a caminhar com meu amor
+                              B7
+Nossos olhos se encheram de paixão
+        E                         A         Am
+Ela disse não se empolgue seu sonho vai terminar
+         E            D       B7             E
+Eu chorei e disse I love you não vá me deixar.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0

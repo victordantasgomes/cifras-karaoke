@@ -1,0 +1,81 @@
+@titulo: preciso-voltar
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - Preciso Voltar
+
+Intro 2x:
+      F          Am        G  G  G              F          Am        G
+E|-------1----------------3--3--------3------------1----------------3------------
+B|-------1-1--------1-----3--3------3---3---3------1-1--------1-----3----3-------
+G|-------2---2------2-----0--0----0-------0--------2---2------2-----0-----0------
+D|----------------2---2-------------------------------------2--------------------
+A|-----3--------0---------2--2-------------------3--------0---------2------------
+E|---1--------------------3--3--3--------------1--------------------3--3-----0~--
+
+
+F         Am      G        E
+ Me vejo pensando nos dias que eu perdi
+F          Am                 G
+ trilhando  caminhos que eu não deveria prosseguir
+F       Am           G               E
+ vivendo  momentos que não trouxeram para mim
+F      Am                G     G     G ~
+ a paz  e a vida que um dia eu conheci
+
+Refrão:
+D  F#m     Bm       G             D   F#m    E
+ Preciso voltar aos braços de quem quer   cuidar de mim
+
+D      F#m          Bm        G          D        F#m
+ um sorriso vai se abrir dos lábios de quem quer
+     E
+cuidar de mim
+
+F     Am      G            E
+ Eu sei, Você nunca me deixou partir,
+F        Am                G
+ cuidando  mesmo que eu estivesse longe (Estivesse Longe)
+F     Am       G        E
+ agora  eu vejo o Amigo verdadeiro
+F          Am      G
+  abrigo, Jesus, o Filho de Deus
+
+(Refrão)
+
+( Bb5  A5  G5  Bb5  A5  G5 )
+
+(Refrão)
+
+( Bb5  E5  D5  Bb5  E5  D5 )
+         Cuidar de mim!
+
+           Bb5  E5  D5
+Cuidar de mim!
+
+( Bb5  E5  D5 )
+
+Fim: (D5  Bb5  C5)  (D5  Bb5  E5)  (D5  Bb5  C5  E5)
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+Am = X 0 2 2 1 0
+Bb5 = X 1 3 3 X X
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C5 = X 3 5 5 X X
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X

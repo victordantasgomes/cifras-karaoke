@@ -1,0 +1,107 @@
+@titulo: o-salto
+@autor:
+@intérprete: O Rappa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+O Rappa - O Salto
+
+Introdução com distorção (0:00 até 0:18)
+   B5  B5  B5  A5 A5 B5  B5 B5  B5  B5   B5  B5  B5  B5    A5
+e|----------------------------------------------------------
+B|----------------------------------------------------------
+G|----------------------------------------------------------
+A|-9-x-9-x-9-x--7-7--9-x-9-x-9-x-9-x-9-x-9-x-9-x-9-x-9-x-x-7
+D|-9-x-9-x-9-x--7-7--9-x-9-x-9-x-9-x-9-x-9-x-9-x-9-x-9-x-x-7
+E|-7-x-7-x-7-x--5-5--7-x-7-x-7-x-7-x-7-x-7-x-7-x-7-x-7-x-x-5
+                    `--------------------------------------´ 
+                                      2 vezes
+
+
+Som de violino com efeito de sino (0:19 até 0:43)
+e|-------------------------   \
+B|-7-7--7-7--8--5-5--5-5---   |
+G|------------------------4   | <- 4 vezes
+A|-------------------------   | 
+D|-------------------------   |
+E|-------------------------   /
+
+
+
+
+Guitarra Base com menor distorção (0:44 em diante)
+       Bm  Bm  Bm    Bm   Em7    Em  Em  Em   Em   Bm
+e|-x-x-7-x-7-x-7-x-x-7-x--7- x-x-7-x-7-x-7-x-x-7-x--7
+B|-x-x-7-x-7-x-7-x-x-7-x--8--x-x-8-x-8-x-8-x-x-8-x--7
+G|-x-x-7-x-7-x-7-x-x-7-x--7--x-x-9-x-9-x-9-x-x-9-x--7
+A|-x-x-9-x-9-x-9-x-x-9-x--9--x-x-9-x-9-x-9-x-x-9-x--9
+D|-x-x-9-x-9-x-9-x-x-9-x--7--x-x-7-x-7-x-7-x-x-7-x--9
+E|---------------------------------------------------
+
+
+
+Guitarra Refrão
+   B5    B5    B5     A5 A5 A5 A5 A5 A5
+e|----------------------------------
+B|----------------------------------
+G|----------------------------------
+A|-9-x-x-9-x-x-9-x-x---7-7-7-7-7-7--
+D|-9-x-x-9-x-x-9-x-x---7-7-7-7-7-7--
+E|-7-x-x-7-x-x-7-x-x---5-5-5-5-5-5--
+
+
+A música inteira fica basicamente nessa Guitarra Base e a Guitarra Refrão
+e variando também com os sons de violino com efeito de sino...
+
+
+(Guitarra Base)
+As ondas de vaidades
+inundaram os vilarejos
+E minha casa se foi
+Como fome e banquete
+Então achei sobre as ruínas
+e as dores sobre os ferros
+A brasa e a pele ardiam
+Como o fogo dos novos tempos
+
+(Refrão)
+E regaram as flores
+no deserto
+E regaram as flores
+com chuva de insetos
+
+(Guitarra Base)
+Mas se você ver
+em seu filho
+uma face sua
+e retinas de sorte
+E um punhal reinar
+como o brilho do sol
+O que farias tu?
+Se espatifaria
+ou viveria
+o espírito santo
+
+Aos jornais
+eu deixo meu sangue
+como capital
+E às famílias um punhal
+e à corte eu deixo um sinal
+
+(Refrão)
+E regaram as flores
+no deserto
+E regaram as flores
+com chuva de insetos
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+B5 = X 2 4 4 X X
+Bm = X 2 4 4 3 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0

@@ -1,0 +1,113 @@
+@titulo: o-girassol
+@autor:
+@intérprete: Ira!
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ira! - O Girassol
+
+(intro) A E/A  F#m/A A A  Bm/A E7/A  A
+
+   A               E/A             F#m/A          A
+E |-----------------------------------------------------------------|
+B |---5-5-5---5-5-5---5-5-5---5-5-5---2-2-2---2-2-2---5-5-5---5---5-|
+G |---6-6-6---6-6-6---4-4-4---4-4-4---2-2-2---2-2-2---6-6-6---6---6-|
+D |---7-7-7---7-7-7---6-6-6---6-6-6---4-4-4---4-4-4---7-7-7---7---7-|
+A |-0-------0-------0-------0-------0-------0-------0-------0-------|
+E |-------------------------------------------------------------0---|
+
+   A                Bm/A                E7/A               A        Repete muitas vezes
+E |--------------------------------------------------------------|---------------------
+B |---5-5-5---5-5-5----7-7-7---7-7-7----9-9-9---9-9-9---10-10-10-|---10---10--10----10-
+G |---6-6-6---6-6-6----7-7-7---7-7-7----7-7-7---7-7-7---9--9--9--|---9----9---9-----9--
+D |---7-7-7---7-7-7----9-9-9---9-9-9----9-9-9---9-9-9---11-11-11-|---------------11----
+A |-0-------0--------0-------0--------0-------0-------0----------|12---------0---------
+E |--------------------------------------------------------------|------12-------------
+
+    A
+Eu tento me erguer às próprias custas e caio sempre nos seus braços
+E                        A    E
+ Um pobre diabo é o que sou
+
+
+A                E/Ab  F#m            E
+ Um girassol sem sol     Um navio sem direção
+D              F#m/Db            Bm7  E
+ Apenas a lembrança do seu sermão
+
+A           E/Ab  F#m            E              D
+ Você é meu sol    um metro e sessenta e cinco de sol
+                  F#m7/Db               Bm7     E
+E quase o ano inteiro os dias foram noites, Noites para mim
+
+F#m             Db/F   A/E             B/Eb
+ Meu sorriso se foi      Minha canção também
+Bm7          C#m                  D       E             A     E
+Eu jurei por Deus não morrer por amor,  E continuar a viver...
+
+D                     C#m            Bm7     Bm7 C#m D
+ Como eu sou um girassol, você é meu sol...   uh, uh, uh...
+D                     C#m            Bm7     Bm7 C#m D
+ Como eu sou um girassol, você é meu sol...   uh, uh, uh...
+D                     C#m            Bm7  E
+ Como eu sou um girassol, você é meu sol
+
+(intro) A E7/A F#m7/A A A D E7  A
+
+    A
+Eu tento me erguer às próprias custas e caio sempre nos seus braços
+E                        A    E
+ Um pobre diabo é o que sou
+
+A                E/Ab   F#m            E
+ Um girassol sem sol     Um navio sem direção
+D              F#m/Db            Bm7  E
+ Apenas a lembrança do seu sermão
+
+A           E/Ab  F#m     E        D        F#m7/Db              Bm7   E
+ Morro de amor    e vivo por aí    Nenhum santo tem pena de mim
+
+F#m     Db/F   A/E        B/Eb
+ Sou agora      um frágil cristal
+Bm7           C#m         D             E   E      E             E      A
+ Um pobre diabo... que não sabe esquecer... Que não sabe esquece......er
+
+(intro) A E/A  F#m/A  A
+
+D                     C#m            Bm7     Bm7 C#m D
+ Como eu sou um girassol, você é meu sol...   uh, uh, uh...
+D                     C#m            Bm7     Bm7 C#m D
+ Como eu sou um girassol, você é meu sol...   uh, uh, uh...
+D                     C#m            Bm7     Bm7 C#m D
+ Como eu sou um girassol, você é meu sol...   uh, uh, uh...
+D                     C#m            Bm7  E
+ Como eu sou um girassol, você é meu sol
+
+(intro) A E/A  Bm/A  A A D E7  A A A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/E = 0 X 2 2 2 0
+B = X 2 4 4 4 2
+B/Eb = X 6 X 4 7 7
+Bm/A = X 0 4 4 3 X
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+Db/F = X 8 X 6 9 9
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E/Ab = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+E7/A = 5 7 6 7 5 X
+F#m = 2 4 4 2 2 2
+F#m/A = X 0 4 2 2 2
+F#m/Db = X 4 4 2 2 2
+F#m7/A = 5 X 4 6 5 X
+F#m7/Db = X 4 2 2 2 2
+G = 3 2 0 0 0 3

@@ -1,0 +1,166 @@
+@titulo: sintonia
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Nx Zero - Sintonia
+
+Afinação Meio Tom Abaixo
+
+Verso (2x):
+     A       E         B       C#m
+E|------x-------x---------x------x----|
+B|------x--9--9-x-9--4--4-x--5-5-x-5--|
+G|-6--6-x-------x---------x------x----|
+D|------x-------x---------x------x----|
+A|------x--7----x----2----x--4---x----|
+E|-5----x-------x---------x------x----|
+
+     A       E         B
+E|------x-------x---------x-----|
+B|------x--9--9-x-9--4--4-x--4--|
+G|-6--6-x-------x---------x-----|
+D|------x-------x---------x-----|
+A|------x--7----x----2----x--2--|
+E|-5----x-------x---------x-----|
+
+Um pouco mais de sol, um pouco mais de calma
+Ou vamos juntos ou não vai rolar
+Dividimos tempo, luas e pensamentos
+Nas ruas da cidade cada olhar
+
+
+Pré-refrão:
+              A      E            B     C#m
+Mas antes do sol se pôr, me diga por favor
+    A        E      B    C#m
+Se você vai vir ou já desencantou
+       A       E           B      C#m
+Quero tocar o céu, eterna lua de mel
+    A           E               B
+Só faz sentido se for sempre assim
+
+Refrão:
+   A   E
+Uooo--ooh
+  B    C#m
+Uooo--ooh
+    A           E               B
+Só faz sentido se for sempre assim
+   A   E
+Uooo--ooh
+ B     C#m
+Uooo--ooh
+    A           E            B
+Se faz sentido pode não ter fim
+
+Instrumental:
+     A       E         B       C#m
+E|------x-------x---------x------x----|
+B|------x--9--9-x-9--4--4-x--5-5-x-5--|
+G|-6--6-x-------x---------x------x----| 2x
+D|------x-------x---------x------x----|
+A|------x--7----x----2----x--4---x----|
+E|-5----x-------x---------x------x----|
+
+
+Verso (2x):
+     A       E         B       C#m
+E|------x-------x---------x------x----|
+B|------x--9--9-x-9--4--4-x--5-5-x-5--|
+G|-6--6-x-------x---------x------x----|
+D|------x-------x---------x------x----|
+A|------x--7----x----2----x--4---x----|
+E|-5----x-------x---------x------x----|
+
+     A       E         B
+E|------x-------x---------x-----|
+B|------x--9--9-x-9--4--4-x--4--|
+G|-6--6-x-------x---------x-----|
+D|------x-------x---------x-----|
+A|------x--7----x----2----x--2--|
+E|-5----x-------x---------x-----|
+
+Ninguém é igual ao outro, mas um completa o outro
+Se cada um ceder pra equilibrar
+Dividimos sonhos, mas cada um tem seu jeito
+E o seu caminho pra chegar
+
+Pré-refrão:
+              A      E            B     C#m
+Mas antes do sol se pôr, me diga por favor
+    A        E      B    C#m
+Se você vai vir ou já desencantou
+       A       E           B      C#m
+Quero tocar o céu, eterna lua de mel
+    A           E               B
+Só faz sentido se for sempre assim
+
+Refrão:
+   A   E
+Uooo--ooh
+  B    C#m
+Uooo--ooh
+    A           E               B
+Só faz sentido se for sempre assim
+   A   E
+Uooo--ooh
+ B     C#m
+Uooo--ooh
+    A           E            B
+Se faz sentido pode não ter fim
+
+Final:
+     F#m       E         G#m       A
+E|--------x-------x-----------x--------x----|
+B|-10--10-x--9--9-x-9--12--12-x--14-14-x-14-|
+G|--------x-------x-----------x--------x----|
+D|--------x-------x-----------x--------x----|
+A|-9------x--7----x----11-----x--12----x----|
+E|--------x-------x-----------x--------x----|
+
+     F#m       E         G#m       A
+E|--------x-------x-----------x------|
+B|-10--10-x--9--9-x-9--12--12-x--12--|
+G|--------x-------x-----------x------|
+D|--------x-------x-----------x------|
+A|-9------x--7----x----11-----x--11--|
+E|--------x-------x-----------x------|
+
+Um pouco mais de sol, um pouco mais de calma
+Ou vamos juntos ou não vai rolar
+
+     F#m     E    G#m     A
+E|--------------------------|
+B|-10--10--9----12--12--14--|
+G|--------------------------|
+D|--------------------------|
+A|-9-------7----11------12--|
+E|--------------------------|
+
+     F#m     E    G#m     A
+E|--------------------------|
+B|-10--10--9----12--12--14--|
+G|--------------------------|
+D|--------------------------|
+A|-9-------7----11------12--|
+E|--------------------------|
+
+A sintonia que move nossa vida
+A sinfonia que o vento anuncia
+Na sequencia de uma despedida
+Um novo ciclo que se inicia
+
+----------------- Acordes -----------------
+A*  = X 0 2 2 2 0 - (*G# na forma de A)
+B*  = X 2 4 4 4 2 - (*A# na forma de B)
+C#m*  = X 4 6 6 5 4 - (*Cm na forma de C#m)
+E*  = 0 2 2 1 0 0 - (*D# na forma de E)
+F#m*  = 2 4 4 2 2 2 - (*Fm na forma de F#m)
+G#m*  = 4 6 6 4 4 4 - (*Gm na forma de G#m)

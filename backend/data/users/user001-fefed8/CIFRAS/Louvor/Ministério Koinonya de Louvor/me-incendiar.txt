@@ -1,0 +1,50 @@
+@titulo: me-incendiar
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - Me Incendiar
+
+Intro:D,A,G,Em
+ 
+      D                               A                    
+      Há um desejo que queima e arde no meu coração
+         G          Em     D 
+      Te conhecer, Te comhecer 
+                              A                                            
+      Quando Senhor te adoro todo o meu ser se comove
+       G                 Em                  D         
+      E o fogo da Tua presença vem me incendiar
+                    A            Bm G
+      Vem me incendiar com Teu amor 
+                  D/F#    A     D                 coro   2x
+      Vem me incendiar amado Senhor
+      Bb                  C
+      Eu abro a porta do meu coração
+      Gm                    F/A
+      E deixo Tua glória entrar
+      Bb/D                C/E
+       Eu abro a porta do meu coração 
+         Gm               C        D              
+       E deixo Tua glória me incendiar
+
+         coro
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb = X 1 3 3 3 1
+Bb/D = X 5 X 3 6 6
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F/A = 5 X 3 5 6 X
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

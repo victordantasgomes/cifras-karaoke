@@ -1,0 +1,96 @@
+@titulo: se-voce-pensa
+@autor:
+@intérprete: Jota Quest
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jota Quest - Se Você Pensa
+
+Introdução: Am C9 D9 E9 (SHOW AO VIVO)
+
+      Am                 C9          D9  E9
+Se você pensa que vai fazer de mim
+       Am              C9           D9  E9
+O que faz com todo mundo que te ama
+     Am                  C9           D9
+Acho bom saber que pra ficar comigo
+     C9         E9
+Vai ter que mudar
+
+     Am             C9         D9  E9
+Você tem a vida inteira pra viver
+      Am           C9              D9  E9
+Pra saber o que é bom e o que é ruim
+     Am             C9           D9
+Acho bom pensar depressa e escolher
+C9        E9
+Antes do fim
+
+
+
+                   A9 (sem pestana A9)
+   Refrão: Daqui pra frente
+                         C#7
+        Tudo vai ser diferente
+                                           F#m
+        Você vai aprender a ser gente
+                                 E     E4 E
+        E o teu orgulho não vale nada, nada
+                 A9
+        Você não sabe,
+                                 C#7
+        Nem nunca procurou saber
+                                         F#m7
+        Que quando a gente ama é pra valer
+                                    E    E4 E
+        E o bom é ser feliz e mais nada, nada
+
+(repete tudo)  --> solo de metais na melodia do refrão
+
+E   E4 E            F#   F#4  F#
+     "Vai Subir"
+
+                         B9
+Refrão: Daqui pra frente
+                         D#7
+        Tudo vai ser diferente
+                                           G#m
+        Você vai aprender a ser gente
+                               F#   F#4 F#
+        E o teu orgulho não vale nada, nada
+                     B9
+        Você não sabe,
+                                 D#7
+        Nem nunca procurou saber
+                                         G#m7
+        Que quando a gente ama é pra valer
+                                F#   F#4 F#
+        E o bom é ser feliz e mais nada, o bom é ser feliz e mais nada...
+   Bm  D9  E9  F#9  riff (B A F# A B)...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+Bm = X 2 4 4 3 2
+C#7 = X 4 3 4 2 X
+C9 = X 3 5 5 3 3
+D#7 = X 6 5 6 4 X
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+E9 = 0 2 4 1 0 0
+F# = 2 4 4 3 2 2
+F#4 = 2 4 4 4 2 2
+F#9 = 2 4 6 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G#m = 4 6 6 4 4 4
+G#m7 = 4 X 4 4 4 X

@@ -1,0 +1,79 @@
+@titulo: terra
+@autor:
+@intérprete: Scalene
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Scalene - Terra
+
+Intro:   E   D
+
+E                     D
+Como renovar o que já foi encarcerado
+E                            D
+Enraizado em nosso sangue pecador?
+E                             D
+Não se trata do que é dito em tabulas ou livros
+        E                    D
+E, sim, do que é forjado por amor.
+
+G                       E                  Bm      C
+Vento, onde nos guiaria se fossemos um dia de novo pó?
+
+(E   C) (2x)     E   C     D
+
+E                C                          E      C
+Algo está no ar, sinto a terra mover em seu nome
+E             C                          E       C
+Movo devagar, marcas do meu passo já não somem
+D     C
+Noite vai acabar.
+
+
+Am     Ab         Fm         G
+Chamo. Clamo. Mas não sei se devo
+Am    Ab   Fm        G
+Medo. Temo não ser o certo
+
+(E   C) (2x)     E   C     D     (E   D)
+
+E            C                     E      C
+Como escapar deste pesadelo que criamos
+    E              C                        E       C
+Que passos recriar para não perder o que já fomos
+D      C
+De bom algo virá.
+
+Am     Ab         Fm         G
+Chamo. Clamo. Mas não sei se devo
+Am    Ab   Eb        Bb
+Medo. Temo não ser o certo
+
+Ab                  C     Ab                     C
+Qual o preço de esperar        Algo vim da escuridão?
+Ab             C    Ab                      A      Ab
+Fogo nos renovará        Em seu nome...     Chamo. clamo.
+
+A   A/B   A/C     C
+
+(E   C) (2x)     E   C     D
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C = X 3 2 2 2 X
+Ab = 4 3 1 1 1 4
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Eb = X 6 5 3 4 3
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3

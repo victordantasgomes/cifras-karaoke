@@ -1,0 +1,68 @@
+@titulo: sonhos
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Sonhos
+
+INTRO: A9 F#m Bm E Bm E A9
+
+A9
+Planos que mudam
+F#m
+Sonhos tão irreais
+Bm               E
+Um coração tão ferido
+Bm              E
+Caminha meio perdido
+               A9
+Sem rumo na estrada.
+
+A
+A vida lhe ensinou
+F#m
+Coisas tão duras
+Bm               E
+Viver sozinho é bem melhor
+Bm               E
+Não confiar em amigos
+
+              A    A E/G#
+Trancado ele vive.
+
+F#m            C#m           D
+Mas um dia ele encontrou alguém diferente
+Dm
+Mudou sua mente
+F#m                    C#m
+Mudou p'ra sempre seu coração
+   D
+Tratou suas feridas
+     Dm
+Deu sentido a vida...
+
+A9                     F#m
+Só há um DEUS que faz o homem renascer
+Bm                      E
+Só há um DEUS que transforma
+Bm                   E
+Só há um DEUS que liberta
+               A9
+JESUS Rei dos Reis.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

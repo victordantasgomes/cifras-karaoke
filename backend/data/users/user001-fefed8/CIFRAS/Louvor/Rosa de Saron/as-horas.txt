@@ -1,0 +1,109 @@
+@titulo: as-horas
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - As Horas
+
+VIOLÃO 01
+
+E|------------------------------------------------------------------------------|
+B|------------------------------------------------------------------------------|
+G|--------0 ------0--------0-----0--------0------0----------0-----2/4-----------|
+D|-----9-------9-------7------7--------0-------0------0h2-----2-------0---------|
+A|---7-------7-------5------5--------3------3-------3---------------------------|
+E|------------------------------------------------------------------------------|
+
+VIOLÃO 02
+
+E|-----------------------------------------------------------------------------------------------|
+B|---0----------0----------------------------------3-0------3-0----------------------------------|
+G|--------0-----------0------2----0----2----0---------0--------0-------------0-----2/4---0-------|
+D|-----2-----2-----2----2------0----0----0----0--------0---------2----0h2-----2------------------|
+A|----------------------------------------------------------2-------3----------------------------|
+E|-----------------------------------------------------------------------------------------------|
+
+Intro:  Dm C Bb9 Gm
+
+(Pt1)
+
+Dm           Am7           Bb
+Me sinto tão perdido aqui
+                  C             Dm
+Deixei pra trás o que mais importava
+Dm             Am7         Bb
+Eu não consigo mais ouvir
+            C
+A voz me empurrava
+                Am7         Bb
+Não quero me sentir assim
+                   C              Dm
+Perdendo as lutas que existem em mim
+                   Am7        Bb            Dm
+A vida não vai perdoar se ao menos não tentar
+
+Refrão:
+          C          Bb            Dm
+A vida é curta e não quero mais desperdiçar
+         C         Bb        Dm
+O tempo passa e eu perco as horas
+        Bb
+É tudo sempre igual
+      Gm                Dm             F
+As mesmas histórias que eu cansei de ouvir
+          C          Bb            Dm
+A vida é curta e não quero mais desperdiçar
+        C         Bb        Dm
+O tempo passa e eu perco as horas
+           Bb             Gm
+Com o meu coração levanto minhas mãos
+   Dm               F
+E arrumo as minhas pedras.
+
+(Pt 2)
+
+(Dm Am7 Bb C)
+
+Dm        Am          Bb               C          Dm
+Nada pode ser melhor que a verdade e o que existe nela
+
+                 C        Bb     C       Dm
+Mas é preciso resistir à dor que vem com ela
+                 C           Bb        c               Dm
+E tudo o que não entender o tempo lhe trará suas respostas
+                   C         Bb          Dm
+Não deixe o céu escurecer e olhe a sua volta
+
+Refrão:
+          C          Bb            Dm
+A vida é curta e não quero mais desperdiçar
+         C         Bb        Dm
+O tempo passa e eu perco as horas
+        Bb
+É tudo sempre igual
+      Gm                Dm             F
+As mesmas histórias que eu cansei de ouvir
+          C          Bb            Dm
+A vida é curta e não quero mais desperdiçar
+        C         Bb        Dm
+O tempo passa e eu perco as horas
+           Bb             Gm
+Com o meu coração levanto minhas mãos
+   Dm               F
+E arrumo as minhas pedras.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

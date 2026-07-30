@@ -1,0 +1,82 @@
+@titulo: passos-lentos
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Passos Lentos
+
+Intro: G D/F# C9  G D/F# C9
+   G              G/F#           C9
+E|-----------------------------|-----------------------------|
+B|-----3---3----------3---3----|-----3---3----------3---3----|
+G|---0---0---0------0---0---0--|---0---0---0------0---0---0--|
+D|-----------------------------|-----------------------------|
+A|-----------------------------|-3--------------3------------|
+E|-3--------------2------------|-----------------------------|
+
+   G                    D/F#
+Me perdoe nessa tarde por meus passos lentos
+           C9
+Que apenas sincronizam com meu coração
+   G             D/F#     C9
+A noite escura ainda esta aqui
+     G                         D/F#
+E nessas noites mal dormidas de lagrimas sentidas
+   C9
+Em que os sinos dobram por quem está só
+      G            D/F#     C9
+Anseio o SOL que nasce de manhã
+
+D                     Am     C    Am D
+Ainda que a dor perdure,       ainda que a SOLIDÃO
+Em          G             Bm                      D
+A esperança fez seu ninho em minhas mãos
+
+G       Em      Bm           C   G
+   Eu vi o amor Ele nunca me deixou
+         Em          Bm         D
+   Levo os meus joelhos ao chão
+
+Solo: G D/F# C9 G D/F#  C9
+
+            G                            D/F#
+Não repare o meu pranto demorando por ter FIM
+     C9
+Quando a saudade faz sua morada em mim
+   G                              D/F#   C9
+Braços que acolhem me fazem prosseguir
+G                                    D/F#
+E na sua ausência o amor se faz presente
+              C9
+Preenchendo o vazio que você deixou
+        G                   D/F#     C9
+E é tão bonita a vida vista assim
+D                  Am     C Am D   Am  C Am
+Ainda que TUDO passe    Ele permanecerá
+Em                       G              Bm  D
+Eu rasgo a cortina e deixo o amor entrar
+
+G       Em      Bm           C     G
+   Eu vi o amor Ele nunca me deixou
+        Em          Bm      D
+  Levo os meus JOELHOS ao chão
+
+Solo: G E Bm D G E Bm C Bm D
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/F# = X X 4 4 3 3

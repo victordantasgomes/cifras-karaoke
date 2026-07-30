@@ -1,0 +1,84 @@
+@titulo: a-saudade-nao-passa
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - A Saudade Não Passa
+
+[Intro]  C  F  G  Em
+         Am  G  C  Dm  G
+
+                 C
+Mais um ano se passou
+Desde que você deixou
+                 G
+A saudade aqui comigo
+                      Dm
+Eu pensei que fosse fácil
+                 G
+Esquecer o seu abraço
+               C   Dm  G
+A lembrança continua
+                    C
+Sofro, choro pelas ruas
+Busco por notícias suas
+        C7              F
+Não te acho em nenhum lugar
+                 C
+Sinto falta de você
+
+                   Dm
+O que fiz pra te perder
+F        G             C  C7
+Preciso tanto te esquecer
+
+            G
+A noite é longa
+O dia sem graça
+               C
+Eu já fiz de tudo
+A saudade não passa
+  C7    F
+Cadê o mundo
+         G
+Que eu vivia
+             C
+E você carregou
+
+[Solo]  F  G  Em  Am  G  C  Dm  G
+
+                  C
+Minha vida mudou tanto
+Quando deito, vem o pranto
+       C7           F
+Não consigo mais dormir
+                   C
+Já não sei o que fazer
+                     Dm   F
+Outro amor não sei querer
+         G           C      C7
+Preciso tanto te esquecer
+
+  C7    F
+Cadê o mundo
+         G
+Que eu vivia
+             F  Fm  C
+E você carregou
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3

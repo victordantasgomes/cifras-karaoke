@@ -1,0 +1,116 @@
+@titulo: nossa-historia
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Nossa História
+
+Introdução: E  C#m  B  A  E/G#  F#m  B
+            A  E/G#  F#m  B  A
+
+ E               B
+Mãe, já faz muito tempo
+                      C#m        B
+Que eu carrego a tua imagem no meu coração
+     A         B
+Por todos os lugares
+
+ E                  B/D#
+Mãe, como sinto falta dos conselhos
+     C#m
+E do teu calor
+  B           A    B
+Penso onde está você
+
+     A          E/G#          F#m         B
+Reconheço nossa história, nossa luta, nossa dor
+     A               E/G#            B
+Estou surpresa em ver em nós tamanho amor
+
+
+Refrão:
+             E                  G#m        C#m
+Que ultrapassa os vendavais, que apaga toda mágoa
+            A        E/G#      F#m         B
+Esse é meu amor por ti e o teu amor por mim
+           E                    G#m           C#m
+E em meio a qualquer dor, quando sinto a tua falta
+  B     A      E/G#       F#m  B
+Eu oro a Deus, peço por favor
+   A                      A E/G# F#m B D A/C# B
+Deus guarde o nosso amor
+
+Pré Refrão:
+
+     A          E/G#          F#m         B
+Reconheço nossa história, nossa luta, nossa dor
+     A               E/G#            B
+Estou surpresa em ver em nós tamanho amor
+
+Refrão:
+             E                  G#m        C#m
+Que ultrapassa os vendavais, que apaga toda mágoa
+            A        E/G#      F#m         B
+Esse é meu amor por ti e o teu amor por mim
+           E                    G#m           C#m
+E em meio a qualquer dor, quando sinto a tua falta
+  B     A      E/G#       F#m  B
+Eu oro a Deus, peço por favor
+  A
+Deus guarde o nosso amor
+
+Ponte:
+  D        A/C#             E
+Sou tua  menina, mesmo sendo uma mulher
+ D       A               E
+Sei de tudo o que você passou
+   D        A                    E
+Diga-me o que fazer pra que eu possa te agradar
+   D     A/C#          F#m    E       B
+Essa melodia é pra demonstrar o meu amor
+
+Refrão:
+             E                  G#m        C#m
+Que ultrapassa os vendavais, que apaga toda mágoa
+            A        E/G#      F#m         B
+Esse é meu amor por ti e o teu amor por mim
+           E                    G#m           C#m
+E em meio a qualquer dor, quando sinto a tua falta
+  B     A      E/G#       F#m  B
+Eu oro a Deus, peço por favor
+
+            E                  G#m        C#m
+Que ultrapassa os vendavais, que apaga toda mágoa
+            A        E/G#      F#m         B
+Esse é meu amor por ti e o teu amor por mim
+           E                    G#m           C#m
+E em meio a qualquer dor, quando sinto a tua falta
+  B     A      E/G#       F#m  B
+Eu oro a Deus, peço por favor
+  A
+Deus guarde o nosso amor
+
+Final: E C#m B A E/G# F#m
+
+B                    A E/G# F#m
+Guarde o nosso amor
+B                 E
+Guarde o nosso amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,87 @@
+@titulo: amor-de-poeta
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Amor de Poeta
+
+Intro: Bm  A  G  F#  Bm  A
+
+E|-----9--9h10p9------------------9--9h10p9-------------|
+B|---------------12-10-10/12----------------12-10-10~~--|
+G|--11-------------------------11-----------------------|
+D|------------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+E|-----9--9h10p9------------------------------|
+B|---------------12-10-10/12~~---10h12p10~~---|
+G|--11----------------------------------------|
+D|------------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+E|-----9--9h10p9-----------------|
+B|---------------12-10-10/12~~---|
+G|--11---------------------------|
+D|-------------------------------|
+A|-------------------------------|
+E|-------------------------------|
+
+
+    Bm
+O amor é conformado
+Sabe ganhar e perder
+           A
+Só não se sabe esconder um sentimento assim
+    G
+As vezes se é resistente
+                             D                  A
+se ele vem de repente quando menos se espera enfim
+   Em
+E quando você se distrai
+                           G
+o coração sempre te trás uma lembrança infinita
+  D                     A
+amor na vida só existe um e você
+           D         G A
+o amor da minha vida
+
+Refrão:
+
+ D
+E é esse o amor de um poeta
+
+que sempre me ensina
+      A
+e confessa, sempre volta a trás
+     Em
+No mundo machuquei tantos amores
+                        G
+Mas eu sei que existe flores que nos dão a paz
+    D
+Eu sei que esse momento é preciso
+                 A
+mas me sinto indeciso
+
+me humilhando assim
+    Em
+se for pra ter o seu amor que seja assim, sem dor
+        G
+e pra sempre em mim
+D
+Amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

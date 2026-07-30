@@ -1,0 +1,85 @@
+@titulo: seu-veneno
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Seu Veneno
+
+Intro: E  B  C#m  Abm  A  F#m  B
+
+E|---------------------------|
+B|-7/9-7-9-9/12--------------|
+G|---------------8-9-11-9----|
+D|---------------------------|
+A|---------------------------|
+E|---------------------------|
+
+E|-----------------7---------|
+B|-7/9-7-5-7/9---5---10------|
+G|---------------------------|
+D|---------------------------|
+A|---------------------------|
+E|---------------------------|
+
+E|---------------------------|
+B|-10-10-10-9--7-5-5-7-7/9-7-|
+G|---------------------------|
+D|---------------------------|
+A|---------------------------|
+E|---------------------------|
+
+
+E          B      C#m
+Sentada na mesa
+           Abm   A
+Tomando cerveja
+          F#m              B
+Olhar faiscante olhar sensual
+E           B     C#m
+Um jeito dengoso
+            Abm     A
+Um jeito gostoso
+           F#m              B    B7
+Jeito delicado de ser especial
+
+A            B                E
+Olhar pra você me levou ao extremo
+            G#7                A
+Fiquei desejando provar seu veneno
+          F#m                 B    B7
+Voei novamente num lance legal
+A            B                  E
+Falar com você me deixou mais sereno
+            G#7                  A
+Com esta cerveja que nós dois bebemos
+          F#m                B      B7
+Ah esse momento mudou meu astral
+
+E           B                C#m
+Você não me olhe assim desse jeito
+                Abm                 A
+Não quero seu corpo pra mim sem defeito
+             F#m                B    B7
+Não quero viver novamente um amor
+E            B                 C#m
+Você não me chame pra ficar na mesa
+            Abm                    A
+Não quero beber com você mais cerveja
+             F#m                  B    B7
+Não quero sofrer novamente essa dor.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Abm = 4 6 6 4 4 4
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#7 = 4 6 4 5 4 4

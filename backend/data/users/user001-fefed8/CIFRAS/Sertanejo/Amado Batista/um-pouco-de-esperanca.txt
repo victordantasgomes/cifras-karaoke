@@ -1,0 +1,78 @@
+@titulo: um-pouco-de-esperanca
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Um Pouco de Esperança
+
+Tom- C
+
+Introdução: C Dm G7 C
+
+ C                 F        G7           C C7
+Quero que meus inimigos me chamem de irmão
+ F                                        C C7
+Quero transformar meu ódio num eterno perdão
+ F                   G7                  C   Am
+Quero que minhas mentiras se tornem verdades
+ Dm                  G7                C  C7
+Quero transformar angustia em felicidades
+
+F                     G                     C    Am
+Quero sorrir para os maus e cantar pras crianças
+Dm                G7                      C C7
+Dar para o desanimado um pouco de esperança
+ F                    G7                    C   Am
+Quero sorrir para os maus e cantar pras crianças
+ Dm              G7                       C Dm G7 C Dm G7 C
+Dar para o desanimado um pouco de esperança
+
+C                F      G        C  C7
+Vou mudar pra melhor minhas atitudes
+ F                                      C   C7
+Vou transformar meus erros em plena virtudes
+ F             G7                      C    Am  
+Vou fazer penitencia pra pagar meus pecados
+Dm               G7                    C   C7
+Vou ensinar o caminho pra quem está errado
+
+ F                     G                    C   Am    
+Quero sorrir para os maus e cantar pras crianças
+ Dm               G7                    C  C7    
+Dar para o desanimado um pouco de esperança
+ F                    G                    C     Am
+Quero sorrir para os maus e cantar pras crianças
+ Dm               G7                   C   Dm G7 C Dm G7                 
+Dar para o desanimado um pouco de esperança
+
+ C               F             G7       C  C7
+Se todo mundo fizesse o que eu quero fazer
+ F                                  C C7
+O futuro mostraria o que deus quer ver
+ F             G             C  Am
+Se no dia do juízo valer o amor
+ Dm             G7              C  C7
+Seremos absolvidos na lei do senhor
+ F                    G                    C     Am 
+Vamos sorrir para os maus e cantar pras crianças
+ Dm               G7                   C   C7
+Dar para o desanimado um pouco de esperança
+ F                     G                   C    Am
+Vamos sorrir para os maus e cantar pras crianças
+ Dm              G7                   C
+Dar para o desnimado um pouco de esperança.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

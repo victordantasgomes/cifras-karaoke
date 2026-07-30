@@ -1,0 +1,59 @@
+@titulo: piano-e-voz
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Piano e Voz
+
+INTRO: C Gm F G9
+
+               C   G
+Não tá sendo fácil, eu sei
+Am                                          F
+Deu entrada neste hospital deitada nessa cama a mais de um mês
+ C                  G
+Amigos mandam flores pra te agradar
+Am                                        F
+É tão intenso pra você e o coração as vezes não quer aceitar
+
+C                           G                                     Am
+O horário de visita é tão curto, mas pode ter certeza todo dia eu vou estar aqui,
+       F
+Eu vou estar aqui
+C                            G                                            Am
+Quero andar contigo pelo corredor, contar piada, fazer graça dar motivos pra você sorrir
+           F     Fm
+Só pra te distrair
+
+C
+Olha aqui pra mim você vai superar
+
+G
+Não pense que por causa disso vou por outra em seu lugar
+Am
+Nessa vida eu não te troco por nada
+F
+Até pintei da cor que você gosta nossa casa
+C
+Se você raspar sua cabeça eu vou raspar também
+G
+Quando chorar eu vou estar do seu lado meu bem
+Am                                    F                            Fm
+Nessa vida e na outra você vai saber, que a minha missão nessa terra
+              C
+É cuidar de você.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G9 = 3 X 0 2 0 X
+Gm = 3 5 5 3 3 3

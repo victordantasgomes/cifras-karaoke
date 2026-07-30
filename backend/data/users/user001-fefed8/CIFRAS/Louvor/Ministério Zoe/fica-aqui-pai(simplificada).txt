@@ -1,0 +1,105 @@
+@titulo: fica-aqui-pai(simplificada)
+@autor:
+@intérprete: Ministério Zoe
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Zoe - Fica Aqui, Pai
+
+Intro: Dm G Bb9
+
+F                           Dm
+Faz tanto tempo que não ficamos a sós
+               Bb9             Gm
+Eu ando tão corrido, tão distraído
+Me esqueço de você
+F                                        Dm
+Eu penso em tirar um tempo pra conversarmos
+                          Bb9     C9
+Mas eu não sei o que acontece
+  C9                            Dm    Am
+E quando eu vejo o dia já terminou
+                    Gm
+E já vai alta madrugada.
+
+Dm  Am G Bb9
+                  Dm
+Hoje eu te peço, Pai
+    Am      Gm                  Dm
+Passa por aqui, entra no meu quarto
+
+  Am             G
+Senta na minha cama
+           Bb9          Dm   Am
+Eu tenho tanto pra te falar
+              Gm
+Mas quero te ouvir
+                               Dm      Am
+Eu já nem lembro mais o som da tua voz
+               G   Bb9
+Eu tenho saudades
+
+Solo: Dm Bb9 Dm G Bb9
+
+F
+Conte uma historia pra eu dormir
+ Dm                     Bb9   Gm
+Uma historia da eternidade
+F
+Cante uma musica pra eu ouvir
+  Dm           Bb9                            C9
+Como a musica da criação, que as estrelas cantavam pra você
+
+Dm    Am    Gm
+Fica aqui, Pai
+                  Dm             Am           G   Bb9
+Eu não sou tão segura o quanto tento mostrar
+Dm    Am    G
+Fica aqui, Pai
+                   Dm             Am           G
+Eu não sou tão maduro o quanto tento disfarçar
+      Bb9
+Eu tenho medo
+
+Dm Am G
+
+Dm        Am           G
+Eu não passo de uma criança que cresceu
+           Dm               Am
+Eu sou a mesma criança que você conheceu
+G          Bb9   Dm  Am Gm
+Fica aqui, Pai
+
+Dm    Am      Gm
+Fica aqui, Pai
+                   Dm              Am         G  Bb9
+Eu não sou tão seguro o quanto tento mostrar
+
+Dm     Am    Gm
+Fica aqui, Pai
+                  Dm               Am          G
+Eu não sou tão madura o quanto tento disfarçar
+      Bb9
+Eu tenho medo
+Dm     Am     Gm
+Eu não passo de uma criança que cresceu
+            Dm               Am
+Eu sou a mesma criança que você conheceu
+G            Bb9  Dm  Am    Gm
+Fica aqui, Pai
+
+Solo Final: Dm Am G Bb9 Dm Am Dm Am Dm
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb9 = X 1 3 3 1 1
+C9 = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

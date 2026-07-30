@@ -1,0 +1,82 @@
+@titulo: amor-do-pai
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Amor do Pai
+
+Intro 4x: C C7M C C7M
+
+E|----------------------------|
+B|---------1------0-----0-----|
+G|-------0---0------0-----0---|
+D|-----2-------2------2-----2-|
+A|---3------------------------|
+E|----------------------------|
+
+C9                      Em7
+Eu tinha tudo pra dar errado
+Am7       Am/G      F
+Eu tinha tudo há perder
+C9                     Em7
+De tantas vozes ao meu lado
+Am7          Am/G  D/F#
+Eu preferi ouvir você
+F       Em7          Dm
+Se eu pudesse me expressar
+F            Em7             Dm7
+Com tudo que sinto na canção
+
+            G
+Eu diria assim:
+
+G| Am G/B C9         Em7
+          Olha eu te amo demais
+Am7          Am/G    D/F#     F
+Vejo em seus olhos o amor do Pai
+C9                 Em7
+Esse amor não tem fim
+Am7          Am/G       D/F#
+Me olho no espelho e te vejo em mim
+      Dm7             G            C9 (1x introduçao)
+É impossível não te amar tanto assim
+
+G Am G/B C9         Em7
+          Olha eu te amo demais
+Am7          Am/G    D/F#     F
+Vejo em seus olhos o amor do Pai
+C9                 Em7
+Esse amor não tem fim
+Am7          Am/G       D/F#
+Me olho no espelho e te vejo em mim (2x)
+
+     Dm7             G
+É impossível não te amar
+     Dm7 C/E F   D/F# G
+É impossível não te amar
+     Dm7 C/E F   D/F# G
+É impossível não te amar
+
+Final:  C9 C7M C9 C7M (4x) C9
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C7M = X 3 2 0 0 X
+C9 = X 3 5 5 3 3
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

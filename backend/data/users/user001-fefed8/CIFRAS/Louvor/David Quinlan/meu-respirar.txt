@@ -1,0 +1,41 @@
+@titulo: meu-respirar
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Meu Respirar
+
+A             D
+Este é o meu respirar
+A             D
+Este é o meu respirar
+A    E      F#m      D         E
+Teu Santo Espírito vivendo em mim
+
+A       D
+E este é o meu pão
+A       D
+E este é o meu pão
+A E    F#m   D        E
+Tua vontade feita em mim
+
+   A  E  F#m
+E eu
+         D         E
+Eu nada sou sem Ti
+   A  E  F#m
+E eu
+           D         E
+Perdido estou sem Ti
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

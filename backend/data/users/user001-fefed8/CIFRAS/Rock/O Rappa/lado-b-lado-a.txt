@@ -1,0 +1,99 @@
+@titulo: lado-b-lado-a
+@autor:
+@intérprete: O Rappa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+O Rappa - Lado B Lado A
+
+riff*:
+
+e|--------------------------------------|
+B|--------------------------------------|
+G|--------------------------------------|
+D|--------------------------------------|
+A|--------------------------------------|
+E|-------2^4-4-4-4-4---x-4--2^4-4-4-----|
+
+
+*riff distorcido utilizando efeito de delay+pedal de volume
+
+
+guitarra de fundo:
+
+      ^      ^  v  ^     ^ v ^    ^  v  ^  v
+e|----11-----x-11-x-----11-x-x----11-x-11-11----|
+B|----12-----x-12-x-----12-x-x----12-x-12-12----|
+G|----13-----x-13-x-----13-x-x----13-x-13-13----|
+D|----------------------------------------------|
+A|----------------------------------------------|
+E|----------------------------------------------|
+
+
+*x = efeito percussivo (nota fantasma)
+
+
+--------------------------------------------------------------------------------
+
+
+|Riff 4x|
+
+Se eles são Exu eu sou Yemanjá
+Se eles matam o bicho eu tomo banho de mar
+Com o corpo fechado
+Ninguém vai me pegar
+Lado A lado B, lado B lado A
+
+|Riff|
+
+No bê, a, ba da chapa quente
+Eu sou mais o Jorge bem
+Tocando bem alto no meu walkman
+
+|Riff|
+
+Não sei se o ano vai ser do mal
+Ou se vai ser do bem...
+
+|Riff|
+
+O que te guarda a lei dos homens
+O que me guarda a lei de Deus
+
+Não abro mão da mitologia negra
+Para dizer, eu não pareço com você é...
+
+|Riff|
+
+Com oferendas carimbadas todo dia
+
+|Riff|
+
+Pois a vitória de um homem
+|Riff|
+
+Que só ele pode ver
+
+           G#m *
+Eu sou guerreiro, sou trabalhador
+        G#m *
+E todo dia vou encarar
+
+          C#m
+Com fé em Deus e na minha batalha
+
+ G#m
+Espero estar bem longe quando o rodo passar
+   C#m
+Espero estar bem longe quando tudo isso passar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+G#m = 4 6 6 4 4 4

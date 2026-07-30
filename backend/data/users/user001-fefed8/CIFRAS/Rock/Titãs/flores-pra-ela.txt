@@ -1,0 +1,102 @@
+@titulo: flores-pra-ela
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Flores Pra Ela
+
+intro:(F#m) C# F#m C# F#m 2x
+
+(F#m)                     C#      F#m
+   Diz ele que é um homem qualquer
+              C#  F#m
+E é louco por ela
+
+(F#m)                          C#    F#m
+   Diz ela que é, que é só uma mulher
+           C#     F#m
+E aceita e espera
+
+
+C#5 D5  F#5   C#5 D5  F#5
+Ele é o dono, ela é o cão
+C#5 D5    F#5      C#5 D5    F#5
+E não tem nem como ela dizer não
+C#5 D5  F#5     C#5 D5   F#5
+Ele é o senhor, ela é a escrava
+C#5 D5  F#5     C#5 D5    F#5
+Ele é o doutor, ela não é nada
+
+
+
+F#m
+Mata e leva flores
+F#m
+Mata e morre de amores
+c#                          F#m
+Cala essa boca que isso não é direito
+c#                           F#m
+Troca essa roupa que isso eu não aceito
+
+F#m
+Mata e leva flores
+F#m
+Mata e morre de amores
+c#                         F#m
+'Cala essa boca, tira esse sapato
+c#                            F#m
+Troca essa roupa e vai chorar no quarto
+
+G5     F#5          G5   F#5
+E leva flores pra ela
+G5    F#5            G5  F#5
+E faz loucuras por ela
+G5     F#5     G5  F#5
+E leva flores...
+G5    F#5      G5  F#5
+E faz loucuras...
+
+
+solo:(F#m) C# F#m C# F#m 2x
+
+
+C#5 D5  F#5   C#5 D5  F#5
+Ele é o dono, ela é o cão
+C#5 D5    F#5      C#5 D5    F#5
+E não tem nem como ela dizer não
+C#5 D5  F#5     C#5 D5   F#5
+Ele é o senhor, ela é a escrava
+C#5 D5  F#5     C#5 D5    F#5
+Ele é o doutor, ela não é nada
+
+
+G5     F#5          G5  F#5
+E leva flores pra ela
+G5    F#5           G5  F#5
+E faz loucuras por ela
+G5     F#5     G5   F#5
+E leva flores...
+G5    F#5      G5   F#5
+E faz loucuras...
+G5     F#5          G5  F#5
+E leva flores pra ela
+G5    F#5           G5  F#5
+E faz loucuras por ela
+G5     F#5     G5    F#5
+E leva flores..E faz loucuras
+G5    F#5      G5    F#5
+E leva flores..E faz loucuras
+
+----------------- Acordes -----------------
+C# = X 4 6 6 6 4
+C#5 = X 4 6 6 X X
+D5 = X 5 7 7 X X
+F#5 = 2 4 4 X X X
+F#m = 2 4 4 2 2 2
+G5 = 3 5 5 X X X

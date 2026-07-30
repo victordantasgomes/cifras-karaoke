@@ -1,0 +1,133 @@
+@titulo: vamos-comemorar
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Vamos Comemorar
+
+(intro 2x) A B C#m
+
+A
+Eu acho que os deuses
+B            C#m
+Queriam que ficássemos juntos
+A                           B
+Marcaram uma festa um lugar pra ir
+             C#m
+Fizeram que uma amiga
+Te ligasse pra sair
+
+A                    B
+Nos encontramos nos conhecemos
+C#m
+Falamos sem parar
+Do tempo que perdemos
+
+A                    B
+Fizemos planos para muitos anos
+C#m
+Mas aqui estamos dizendo adeus
+
+
+F
+meia-noite
+      C
+No meio do nada
+        Dm
+Estamos numa ponte
+       C
+Cada vez mais fraca
+
+A#                   C
+Eu vejo a vida como ela é
+   Dm                 (F)
+O chão sumindo sob os nossos pés
+F                  C
+Não tem mais jeito o vento sopra
+  Dm          C
+E minhas mãos se soltam
+A#                   C
+E eu bato de frente num muro
+  Dm             (F)
+E caio num abismo escuro
+
+(pré-refrão)
+A                   B        C#m
+Não importa se isso é o fim
+Não importa o que
+O destino quer pra mim
+
+(refrão)
+A
+Vamos comemorar
+B
+comemorar
+C#m
+A vida é assim
+A          B           C#m
+Quero deixar pra você
+Antes do sol nascer
+A          B
+Uma canção
+C#m
+Prá você não esqueçer
+
+A               B .
+Às vezes parece
+               C#m
+Que tudo já está escrito
+  A               B
+O que será feito
+              C#m
+O que será dito
+Eu não tenho controle eu só repito
+
+F                  C            Dm
+Palavras que eu sei que queimam
+                     C            A#
+E eu não faço nada fico sem ação
+            C
+Eu me sinto carregando
+O mundo
+  Dm
+Eu tento nadar
+        (F)
+Mas eu só afundo
+
+(pré-refrão)
+(refrão)
+
+(refrão 2 - 4x)
+A                B
+Vamos comemorar não fique triste
+  C#m
+Um novo dia sempre existe
+A                B
+Quero dizer o que eu sinto pra você
+ C#m
+Numa canção pra você não esquecer
+
+A                B
+Vamos comemorar, vamos comemorar
+C#m
+Vamos comemorar, vamos comemorar
+A                  B        C#m    A (deixe soar...)
+Vamos comemorar
+
+(intro e estrofes são dedilhados)
+(pre-refrao e refrões são tocados -  riff - somente tonica e 5ª)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A# = X 1 3 3 3 1
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1

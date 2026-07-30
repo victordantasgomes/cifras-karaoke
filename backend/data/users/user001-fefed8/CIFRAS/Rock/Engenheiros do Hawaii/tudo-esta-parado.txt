@@ -1,0 +1,111 @@
+@titulo: tudo-esta-parado
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Tudo Está Parado
+
+Intro: F#m  A  C#m  E
+
+RIFF                 (baixo)
+E|------------------|----------|
+B|------------------|----------|
+G|------------------|----------|
+D|2h4---------------|2h4-------|
+A|----4-2--------2h4|----4-2---|
+E|--------5--2-5----|--------0-|
+
+F#m         A        C#m
+Tudo está parado por aí
+                E
+Esperando uma palavra (2x)
+
+F#m              A
+Os carros e o metrô
+                C#m
+O tempo que não para
+               E
+O beija-flor parou
+
+             F#m
+Sem bater as asas
+              A
+O traço do pintor
+               C#m
+O martelo do juiz
+            E
+Um disco voador
+           F#m
+Todos os satélites
+
+F#m         A        C#m
+Tudo está parado por aí
+                E
+Esperando uma palavra (2x)
+
+F#m          A
+A onda, o surfista
+              C#m
+O protetor de tela
+               E
+O vento que ventava
+            F#m
+Batendo a janela
+          A
+A pancadaria
+             C#m
+no filme de ação
+             E
+O solo de guitarra
+           F#m
+antes do refrão
+
+Base do Solo: F#m  A  C#m  E  (2X)
+
+F#m         A        C#m
+Tudo está parado por aí
+                E
+Esperando uma palavra
+
+
+A          D
+Fiz uma pergunta
+                C#m
+No escuro deste quarto
+            Bm
+Tudo está parado
+                A
+Esperando por você
+              D
+A noite que caía
+            C#m
+O ciclo das marés
+               Bm
+A fumaça que subia
+
+Pelas chaminés
+
+Base Solo de Teclado: F#m  A  C#m  E  (2X)
+
+F#m         A        C#m  E
+Tudo está parado por aí
+F#m         A        C#m  E
+Tudo está parado por aí
+F#m         A        C#m
+Tudo está parado diz aí
+
+Uma palavra .
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

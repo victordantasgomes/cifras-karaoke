@@ -1,0 +1,45 @@
+@titulo: fogo-refinador
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Fogo Refinador
+
+Intro: E B9 C#m F#m A9 B9
+
+ E   B9              C#m                     F#m
+Purifique o meu coração pois quero ser como ouro
+      A9     B9     E   B9              C#m
+e a prata preciosa.Purifique o meu coração eu quero ser
+      F#m  A9      B9
+como ouro do mais puro.
+ E    A9    B9      E       A9     B9      E  A9
+Fogo refinador, o anseio do meu coração, é de ser
+  B9   E      A9       B9
+Santo me separar para ti senhor.
+          E   A9  B9
+Eu quero ser ser santo
+ E      A9      F#m     B9         F#m       A9
+me separar para ti meu Mestre, disposto a fazer o
+        E
+teu querer.
+ E   B9             C#m                 F#m
+Purifique o meu coração limpa o meu interior e me
+ A9  B9     E   B9            C#m               F#m
+faça santo.Purifique o meu coração limpa-me de todo
+
+         A9              B9
+pecado imerso e mais profundo
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

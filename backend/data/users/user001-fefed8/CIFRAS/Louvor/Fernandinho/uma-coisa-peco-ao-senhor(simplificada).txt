@@ -1,0 +1,53 @@
+@titulo: uma-coisa-peco-ao-senhor(simplificada)
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Uma Coisa Peço Ao Senhor
+
+[Intro] Am  Em  G  D
+
+    Am              Em
+Uma coisa peço ao Senhor
+    G
+E a buscarei
+    D
+E a buscarei
+
+            Am
+Que os meus pés
+               Em
+Estejam em Tua casa
+     G
+Para sempre
+     D
+Para sempre
+
+    Am         Em
+Teu amor me sustenta
+    G
+Nas minhas fraquezas
+
+    D
+Nas minhas fraquezas
+
+  Am   Em
+Senho__oor
+      G        D
+Tua a graça me basta
+  Am   Em
+Senho__oor
+    G           D
+Tua presença me sustenta
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

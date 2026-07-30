@@ -1,0 +1,41 @@
+@titulo: jovens-sarados
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Jovens Sarados
+
+E          A
+Jovens sarados todos sede santos
+ E              B           A
+Jovens sarados todos sede santos
+E              A           F#m B
+Jovens sarados todos sede santos
+ E    A
+Pois esta é a vontade do Pai
+E                     B     A
+Pois esta é a vontade da Igreja
+E
+A Pois esta é a vontade do papa
+ F#m     B
+Sede santos
+ A           F#m
+Santo Santo Santo
+ A           E/G#
+Santo Santo Santo
+ A           F#m  C#m  A
+Santo Santo Santo uuu
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

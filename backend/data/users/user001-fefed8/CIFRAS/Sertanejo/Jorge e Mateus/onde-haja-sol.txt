@@ -1,0 +1,108 @@
+@titulo: onde-haja-sol
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Onde Haja Sol
+
+(intro)
+
+   Am7         C           G            D
+E|-0-----------0-----------3------------2-|
+B|-1-----------1-----------3------------3-|
+G|-0-----------0--0h2p0-0--0------------2-|
+D|-2--0h2p0-0--2-----------0--0h2p0-0---0-|
+A|-0-----------3-----------2--------------|
+E|-------------------------3--------------|
+
+(ritmo dos acordes na intro)
+→ Am7, C, G:  ↓ ↑↑↓ ↑↑
+→ D: ↓ ↑↑↓ ↑↑↓ ↓↑
+
+Solo:
+
+E|-------------------------------------------|
+B|-------------------------------------------|
+G|-5-4h5p4-0-4h5p4-0-4h5p4-5/7-5-4-5---------|
+D|-------------------------------------------|
+A|-------------------------------------------|
+E|-------------------------------------------|
+
+
+Primeira Parte:
+
+         Am7                C
+Há quem diga que quem anda só
+                    G                    D9
+é melhor do que ao lado de quem não te quer bem
+       Am7             C
+O meu coração está cansado
+             G                    D9
+de ser torturado e precisa de alguém
+
+(toca a intro e o solo do início)
+
+         Am7                C
+Há quem diga que quem anda só
+                    G                    D9
+é melhor do que ao lado de quem não te quer bem
+       Am7             C
+O meu coração está cansado
+             G                    D9
+de ser torturado e precisa de alguém
+
+       Am7                C                  G                 D9
+Vou tomar o caminho mais certo vou seguir direto até onde eu quiser
+       Am7               C                    G                 D9
+Vou levar esse amor solitário tranquilo e na boa até onde eu puder
+
+Segunda Parte:
+
+      C        G
+Veja só, eu podia estar ao seu lado
+     C                D
+Mas não deu e eu não vou ficar aqui parado
+
+Refrão:
+
+            C          D
+To indo pra onde haja sol
+        Em
+Pois o meu coração é meu lar
+            C            D                    ( E5 Em7 ) (2x)
+Se você quiser ir, pode vir já guardei seu lugar
+ C       D
+Vamos viver
+        G           G/F#     Em
+tudo aquilo que ainda não vivemos
+           C                      D
+Mais uma chance pro amor, pra salvar o que ainda não perdemos
+
+(Intro)
+
+(volta o trecho final da primeira parte)
+
+       Am7                C                 G                 D
+Vou tomar o caminho mais reto vou seguir direto até onde eu quiser
+       Am7               C                    G                 D
+Vou levar esse amor solitário tranquilo e na boa até onde eu puder
+
+(Segunda Parte)
+(Refrão)
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E5 = 0 2 2 X X X
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/F# = X X 4 4 3 3

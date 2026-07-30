@@ -1,0 +1,59 @@
+@titulo: bom-pastor
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - Bom Pastor
+
+Intr.:      G9       Am7       Bm7       C7M    Dsus
+
+ G9            Am7                G/B
+Sei que é misericórdia teu amor por mim
+             Am7     G/B      C      Dsus
+Porque sou tão fraco para, então, seguir
+  G9           Am7           G/B
+Não, não tenho nada em minhas mãos
+                 Em7      Bm7       Am7          Dsus
+Como um cego nas estrada, nada de valor para te dar.
+
+                G        Am7  G/B   C Dsus
+Me leva em teus braços, meu Bom Pastor
+             G                    C  D Ebº
+Foi o meu cansaço que te atraiu a mim
+          Em7              C  G/B
+Tantas feridas, tantas fraquezas
+       Am7                      Dsus
+Que me levam a depender do teu amor.
+
+PONTE:        G7M         Am7(9)         Bm7           C7M   Dsus
+
+
+NÃO, NÃO TENHO NADA...
+
+ME LEVA EM... (2X)
+
+FINAL:   Em7(9)  D/F#       G9        Am7(9)         Dsus        G7M(9)
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Am7(9) = X X 7 5 8 7
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C7M = X 3 2 0 0 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dsus = X X 0 2 3 2
+Ebº = X X 1 2 1 2
+Em7 = 0 2 2 0 3 0
+Em7(9) = X 7 5 7 7 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7M = 3 X 4 4 3 X
+G7M(9) = 3 2 4 2 X X
+G9 = 3 X 0 2 0 X

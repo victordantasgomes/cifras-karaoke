@@ -1,0 +1,75 @@
+@titulo: pode-ir-embora
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Pode Ir Embora
+
+ (intro 2x) E A Bm G
+
+E|--------------------------------------------------------------------------------------------------------------------------------------------|
+A|--------------------------------------------------------------------------------------------------------------------------------------------|
+D|--------------------------------------------------------------------------------------------------------------------------------------------|
+G|--------------------------------------------------------------------------------------------------------------------------------------------|
+B|--8-8-8-8-8-8-666-6-6-4-6\8-4----4-4-4-4-4-4-4--------6\8-4----8-8-8-8-8-8-666-6-6-4-6\8-4----4-4-4-4-4-4-4-------------4-4\6-4-------------|
+E|-----------------------------------------------4-4-4-6-------------------------------------------------------4-4-4-6-3\1--------------------|
+
+Bm                            F#m
+É a gente tento, eu não vou negar
+                           G
+Sua indiferença me fez pensar
+         Em             A
+Eu te avisei que ia embora
+Bm                    F#m
+É, não adianta nem tentar
+                          G
+Nem me procurar por algum bar
+                   A                D  A
+Eu já fiz minha escolha tô caindo fora
+
+
+D                          A
+Pode ir embora que eu não quero sua volta
+Bm                    G
+Meu coração bateu, fechou, trancou a porta
+D                       A
+eu não aguento essa paixão mal resolvida
+Em                  G       A    D A Bm G
+Tô indo embora vou sair da sua vida
+
+Bm                            F#m
+É a gente tento, eu não vou negar
+                           G
+Sua indiferença me fez pensar
+         Em             A
+Eu te avisei que ia embora
+Bm                     F#m
+É, não adianta nem tentar
+                          G
+Nem me procurar por algum bar
+                   A                D  A
+Eu já fiz minha escolha tô caindo fora
+
+D                          A
+Pode ir embora que eu não quero sua volta
+Bm                    G
+Meu coração bateu, fechou, trancou a porta
+D                       A
+eu não aguento essa paixão mal resolvida
+Em                  G       A      D
+Tô indo embora vou sair da sua vida
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

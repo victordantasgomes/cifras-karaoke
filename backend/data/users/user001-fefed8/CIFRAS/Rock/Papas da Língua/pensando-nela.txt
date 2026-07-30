@@ -1,0 +1,95 @@
+@titulo: pensando-nela
+@autor:
+@intérprete: Papas da Língua
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Papas da Língua - Pensando Nela
+
+
+Intro:
+Refrão:
+    C          Bm7    Em7
+    (tchu tchuru tchuru)
+     C         Bm7    Em7
+    (tchu tchuru tchuru)
+     C         Bm7    Em7
+    (tchu tchuru tchuru)
+     Am7     D7     G7+ G7/4 ( E7(#9) )
+    (tchu tchuru tchuru) 2X
+
+
+      Am7        D7       Bm7   E7/9
+    Quando a chuva me molhar
+     Am7    D7        G7+  G7/4
+    Pelas ruas vou andar
+       C7+  D7         Bm7   E7/9
+    Estarei  pensando nela
+         Am7 D7          G7+ E7/9
+    Estarei    pensando nela
+
+
+     Am7         D7        Bm7   E7
+    Penso em tudo  que passou
+     Am7     D7        G7+  G7/4
+    A tristeza  que ficou
+          C7+ D7          Bm7   E7/9
+    Eu estou    pensando nela
+          Am7 D7         G7+  G7/4
+    Eu estou   pensando nela
+
+Refrão:
+     C          Bm7    Em7
+    (tchu tchuru tchuru)
+     C         Bm7    Em7
+    (tchu tchuru tchuru)
+     C         Bm7    Em7
+    (tchu tchuru tchuru)
+     Am7     D7     G7+ G7/4 ( E7(#9) )
+    (tchu tchuru tchuru) 2X
+
+      Am7        D7       Bm7   E7/9
+    Quando a chuva me molhar
+     Am7    D7        G7+  G7/4
+    Pelas ruas vou andar
+       C7+  D7         Bm7   E7/9
+    Estarei  pensando nela
+         Am7 D7          G7+ E7/9
+    Estarei    pensando nela
+
+     Am7         D7        Bm7   E7
+    Penso em tudo  que passou
+     Am7     D7        G7+  G7/4
+    A tristeza  que ficou
+          C7+ D7          Bm7   E7/9
+    Eu estou    pensando nela
+          Am7 D7         G7+  G7/4
+    Eu estou   pensando nela
+
+     C               Bm7    Em7
+    (tchu tchuru tchuru) Eu estou pensando nela
+     C               Bm7    Em7
+    (tchu tchuru tchuru) pensando nela
+     C               Bm7    Em7
+    (tchu tchuru tchuru)
+      Am7     D7     G7+ G7/4 ( G7+ )
+    (tchu tchuru tchuru) 2X
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+D7 = X X 0 2 1 2
+E7 = 0 2 2 1 3 0
+E7(#9) = X 7 6 7 8 X
+E7/9 = X X 2 1 3 2
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G7+ = 3 X 4 4 3 X
+G7/4 = 3 5 3 5 3 X

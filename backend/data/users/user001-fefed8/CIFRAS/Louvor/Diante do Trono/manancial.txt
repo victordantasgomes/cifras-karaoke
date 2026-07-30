@@ -1,0 +1,184 @@
+@titulo: manancial
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Manancial
+
+                 F#m7              D
+Senhor, estou aqui     para te adorar
+       A/C#     Bm7              Esus4  E
+Em tua pre------sença desejo estar
+    A/C#        D7M
+Eu sei que nada sou
+             E   F#m7
+Mas vim me humilhar
+           D          Bm7    Esus4  D/E  E
+Preciso de Ti Vem  me restaurar
+
+            Aadd9
+ Eu quero ser
+             Aadd9/C#  D
+Como um jardim fe------chado
+         A/C#  Bm7
+Regado e cui---dado
+     F#m7       Esus4
+Pelo Teu Espírito
+A/C#     D7M
+Flua em mim
+
+          E    F#m7
+Como um manancial
+             Bm7
+Do meu interior
+          A/C#  D7M
+Com águas vi----vas
+                Esus4  E
+Restaura o meu ser
+                D  Dadd9 Aadd9
+Para o Teu louvor
+
+                 F#m7(4)              A/D  D
+Senhor, estou aqui     para te adorar
+       A/C#     Bm7              Esus4  E
+Em tua pre------sença desejo estar
+    A/C#        D7M
+Eu sei que nada sou
+             E   F#m7
+Mas vim me humilhar
+           D          Bm7    Esus4  D/F#  E/G#
+Preciso de Ti Vem  me restaurar
+
+            Aadd9
+ Eu quero ser
+             Aadd9/C#  D
+Como um jardim fe------chado
+         A/C#  Bm7
+Regado e cui---dado
+     F#m7       Esus4
+Pelo Teu Espírito
+A/C#     D7M
+Flua em mim
+          E    F#m7
+Como um manancial
+             Bm7
+Do meu interior
+          A/C#  D7M
+Com águas vi----vas
+                Esus4  E
+Restaura o meu ser
+D/E            Aadd9  D/E
+Para o Teu louvor
+
+            Aadd9
+ Eu quero ser
+             Aadd9/C#  D
+Como um jardim fe------chado
+         A/C#  Bm7
+Regado e cui---dado
+     F#m7       Esus4
+Pelo Teu Espírito
+A/C#     D7M
+Flua em mim
+          E    F#m7
+Como um manancial
+             Bm7
+Do meu interior
+          A/C#  D7M
+Com águas vi----vas
+                Esus4  E
+Restaura o meu ser
+D/E            Aadd9
+Para o Teu louvor
+
+                Esus4  E
+Restaura o meu ser
+D/E            Aadd9
+Para o Teu louvor
+
+( Aadd9  Asus4(add9) )
+( Aadd9  Asus4(add9) )
+( Dm7  C/E  F )
+( C/E  F  Gsus4  G)
+
+            C  C/D  C/E
+Eu te farei
+                 F
+Como um jardim fechado
+         C/E   Dm7
+Regado e cui---dado
+     Am7       Gsus4
+Pelo meu Espírito
+C/E     F
+Eu fluirei
+          G    Am7
+Como um manancial
+             Dm7
+Do teu interior
+          C/E  F
+Com águas vi---vas
+              Gsus4  G
+Te restaurarei
+F/G            C   F/G
+Para o meu louvor
+
+            C  C/D  C/E
+Eu te farei
+                 F
+Como um jardim fechado
+         C/E   Dm7
+Regado e cui---dado
+     Am7       Gsus4
+Pelo meu Espírito
+C/E     F
+Eu fluirei
+          G    Am7
+Como um manancial
+             Dm7
+Do teu interior
+          C/E  F
+Com águas vi---vas
+              Gsus4  G
+Te restaurarei
+F/G            C
+Para o meu louvor
+                 Gsus4  G
+Restaura o meu ser
+F/G            C
+Para o Teu louvor
+              Gsus4  G
+Te restaurarei
+F/G            C
+Para o meu louvor
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A/D = X X 0 6 5 5
+Aadd9 = X 0 2 2 0 0
+Aadd9/C# = X 4 2 2 0 X
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+D7M = X X 0 2 2 2
+Dadd9 = X X 0 2 3 0
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Esus4 = 0 2 2 2 0 0
+F = 1 3 3 2 1 1
+F#m7 = 2 X 2 2 2 X
+F#m7(4) = 2 X 2 2 0 X
+F/G = 3 X 3 2 1 X
+G = 3 2 0 0 0 3
+Gsus4 = 3 5 5 5 3 3

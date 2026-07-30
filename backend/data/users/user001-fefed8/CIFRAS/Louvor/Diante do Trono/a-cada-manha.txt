@@ -1,0 +1,99 @@
+@titulo: a-cada-manha
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - A Cada Manhã
+
+INTRO: [Violão + Guitarra]
+::    D     A/D   :      G2/B      :       D/F#     A/E     :         G2       ::
+
+                          D                         A/D                        G2/B
+A CADA MANHÃ AS MISERICÓRDIAS SE RENOVAM
+                        D/F#                     A/E                          G2
+A CADA MANHÃ AS MISERICÓRDIAS SE RENOVAM
+                          Em7      A            G/B               D
+A CADA MANHÃ,                A CADA MANHÃ
+Todos ::    D     A/D   :      G2/B      :       D/F#     A/E     :        Bm7    D/F#    G2       ::
+
+
+D                                       A/C#                   G
+QUANDO AS MINHAS FORÇAS SE ACABAM
+        Bm7                A                            G
+E A MINHA ESPERANÇA NO SENHOR
+                         Em7   D/F#    A
+PARECE NÃO RE - SIS - TIR
+                                 G       Bm7                 A                   G       D/F#     D
+MINH’ALMA SE ABATE DENTRO DE MIM
+
+
+D                   A/C#                       G
+MEU CORAÇÃO COMEÇA A SE LEMBRAR
+        Bm7                   A                        G
+DAQUILO QUE RENOVA A ESPERANÇA
+                      Em7        D/F#           A
+AS MISERICÓRDIAS DO SENHOR
+                  G                                Bm7       A           G/B    G/B     A
+NÃO TÊM FIM, GRANDE É O SEU AMOR
+
+   G/B  A/C#  G/E     D                          A/D                        G2/B
+A  CA - DA   MA  - NHÃ AS MISERICÓRDIAS SE RENOVAM
+     G2             D/F#                       A/E                      G2
+A CADA MANHÃ AS MISERICÓRDIAS SE RENOVAM
+                           Em7      A           G/B               D          Estrofe:  A/D         Bm7    D/F#    G2
+A CADA MANHÃ,                 A CADA MANHÃ      Ponte:  [stop]   D/F#      A
+
+Bm7               F#m7                A
+MINHA PORÇÃO É O SENHOR
+    Em7      D/F#                    A
+A MINHA FORÇA É SUA ALEGRIA
+G/B               A/C#                         Em7
+ELE É A RAZÃO DO MEU LOUVOR
+G             D/F#                      A
+INSPIRAÇÃO DA MINHA MELODIA
+Bm7         F#m7                 A                       A/B     A/B     [stop]
+ESPERO NELE A CADA NOVO DIA
+
+
+ ...........[vocal] ..............      E                     B/E                         A2/C#
+A  CA - DA   MA  - NHÃ AS MISERICÓRDIAS SE RENOVAM
+     A2              E/G#                       B/F#                      A2
+A CADA MANHÃ AS MISERICÓRDIAS SE RENOVAM
+                           F#m7      B           A/C#               E
+A CADA MANHÃ,                 A CADA MANHÃ
+
+
+Tag:
+                     B/E                         A2/C#
+AS MISERICÓRDIAS SE RENOVAM
+     A2        Tag:    E
+                  Fim:    D2    :    G      D/F#      D2    :    E     ::
+A CADA MANHÃ
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A/D = X X 0 6 5 5
+A/E = 0 X 2 2 2 0
+B = X 2 4 4 4 2
+B/E = X 7 9 8 7 7
+B/F# = X X 4 4 4 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D2 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/E = 0 2 0 0 3 3
+G2 = 3 X 0 2 0 X

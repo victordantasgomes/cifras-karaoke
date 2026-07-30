@@ -1,0 +1,71 @@
+@titulo: timida
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Tímida
+
+(Cleberson Horsth - Serginho - Carlos Colla)
+
+Introdução: F#m D7+ Bm D E7
+
+A                   D4   D  D4 D
+Lábios com sabor de hortelã
+Bm           D
+Olhos cor de céu
+(D/F#) E7      D/F# E/G#
+Pele   de maçã
+
+A
+Sonho de mulher
+   D4    D   D4 D
+Se descobrir
+Bm          D
+Vive uma ilusão
+    (D/F#) E7         F°
+Que ainda  não sentiu
+
+F#m
+O primeiro amor chegou
+
+D7+
+Uma nova luz brilhou
+B4/7        B7          E7
+Ela se encontrou nesse sonho meu
+
+A                 D4  D       D4 D
+Tímda... um beijo tímido ao luar
+A                   D4  D     D4 D
+Mágica... a simples mágica de amar
+Bm           D
+Se despiu da fantasia
+E7
+Se vestiu de amor
+A                   D4 D       D4 D
+Tímida... um beijo tímido ao luar
+A                   D4  D      D4 D
+Mágica... a simples mágica de amar
+Bm            D
+Se despiu da fantasia
+E7                        A D A D4 D A D A D4 D
+Me vestiu o sonho desse amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B4/7 = X 2 4 2 5 2
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+D7+ = X X 0 2 2 2
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+F° = X X 3 4 3 4

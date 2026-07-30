@@ -1,0 +1,99 @@
+@titulo: versos
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Versos
+
+Intro: G D/F# Em7 D C9 G/B Am C
+       G Em7 C G Em7 C
+
+G
+Sei que é tarde
+                Em7           C9                G
+Mas através desta, eu venho pedir uma breve oração
+         Em7              C9
+Já não conheço mais minha alma
+ G                         Em7
+Tenho saudade daqueles dias
+               C9
+Que o tempo passava
+             G
+E ainda era abril
+   Em7           C9
+E eu somente sonhava
+
+Am        G/B                  C                   G/B
+ Mas é novembro e eu não percebi as flores morrendo
+Am        G/B          C
+ Agora, qual rosa eu darei à Deus?
+
+
+ G
+Simples de coração, nada mais
+                             Em7
+Que ele se torne uma linda e simples decoração
+       C                           Em7      C
+Porque hoje, essa velha morada é uma triste lenda
+G              D                 Em7  C
+E agora canta seus versos de arrependimento
+Am                   C               G     Em7
+ Ouço sinos querendo soar dentro de mim
+       C9             G   Em7  C
+Ouço sinos soando em mim
+
+G                          Em7          C9                G
+Hoje peço que junte os dedos e faça por mim uma prece sem fim
+       Em7            C9
+E acordada, vele meu sono
+G                             Em7           C9     G
+O meu silêncio é uma nota preta num imenso papel vazio
+     Em7         C9
+Mas ainda é uma nota
+
+Am            G/B             C
+Que toca, e a lágrima toca o céu
+         C G/B
+Dura uma noite
+Am           G/B             C
+ Mas no amanhecer vem a alegria
+
+ G
+Simples de coração, nada mais
+                             Em7
+Que ele se torne uma linda e simples decoração
+       C                           Em7      C
+Porque hoje, essa velha morada é uma triste lenda
+G              D                 Em7  C
+E agora canta seus versos de arrependimento
+Am                   C    G
+ Ouço sinos querendo soar dentro de mim
+ Em  C   G   Em7  C
+   OOoooo
+G                 Em
+Simples de coração, simples de coração
+      C                           Em7      C
+Porque hoje, essa velha morada é uma triste lenda
+G              D                 Em7  C
+E agora canta seus versos de arrependimento
+Am                   C             G      Em7
+ Ouço sinos querendo soar dentro de mim
+       C9             G   Em7 C
+Ouço sinos soando em mim  Em  mim
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

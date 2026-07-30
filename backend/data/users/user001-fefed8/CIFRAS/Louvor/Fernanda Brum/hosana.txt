@@ -1,0 +1,53 @@
+@titulo: hosana
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Hosana
+
+  G            A
+Hosana nas alturas
+C
+Aleluia!
+F       C         G
+Perto está o Senhor
+
+
+ G
+Bendito seja o Rei
+          D
+Que vem em nome do Senhor
+   G/B               C       D4   D
+Exaltado entre as nações, Emanuel
+      Em              Bm
+Te exaltamos com louvor
+              G     C
+És bem-vindo, oh, Senhor
+     Am              D4  D   G
+Tua glória está presente aqui
+
+
+  G             A
+Hosana nas alturas
+C
+Aleluia!
+F       C         G
+Perto está o Senhor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

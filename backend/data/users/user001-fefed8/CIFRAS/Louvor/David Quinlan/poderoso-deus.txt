@@ -1,0 +1,77 @@
+@titulo: poderoso-deus
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Poderoso Deus
+
+[Intro] D  A/C#  D  A/C#
+        Bm  A/C#  Bm  A/C#
+        G  D/F#  Em7  A9
+        D  A/C#  D  A/C#
+        Bm  A/C#  Bm  A/C#
+        G  D/F#  Em7  A9
+
+[Primeira Parte]
+
+                  D  A/C#  D
+Ao que está assentado
+ A/C#   Bm  A/C#  Bm
+No    trono
+      A/C#  G   D/F#  Em7          A9
+E ao co___rdeiro        seja o louvor
+                  D  A/C#  D
+Ao que está assentado
+ A/C#   Bm  A/C#  Bm
+No    trono
+      A/C#  G   D/F#  Em7          A9
+E ao co___rdeiro        seja o louvor
+
+
+[Pré-Refrão]
+
+        D   A/C#  D      A/C#  Bm  A/C#  Bm
+Seja a honra,       seja a   glória
+     A/C# G   D/F#  Em7                   A9
+Seja o domínio         pelos séculos dos séculos
+        D   A/C#  D      A/C#  Bm  A/C#  Bm
+Seja a honra,       seja a   glória
+     A/C# G   D/F#  Em7                   A9
+Seja o domínio         pelos séculos dos séculos
+
+[Refrão]
+
+          D  A/C#  D      A/C#  Bm  A/C#  Bm
+Poderoso Deus        poderoso  Deus
+     A/C#  G  D/F#  Em7
+Poderoso  Deus
+                      A9
+Minh'alma anseia por Ti!
+          D  A/C#  D      A/C#  Bm  A/C#  Bm
+Poderoso Deus        poderoso  Deus
+     A/C#  G  D/F#  Em7
+Poderoso  Deus
+                      A9
+Minh'alma anseia por Ti!
+
+[Final] D  A/C#  D  A/C#
+        Bm  A/C#  Bm  A/C#
+        G  D/F#  Em7  A9
+        D  A/C#  D  A/C#
+        Bm  A/C#  Bm  A/C#
+        G  D/F#  Em7  A9  D
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3

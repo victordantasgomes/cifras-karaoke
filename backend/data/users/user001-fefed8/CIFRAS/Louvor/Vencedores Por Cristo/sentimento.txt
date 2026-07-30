@@ -1,0 +1,72 @@
+@titulo: sentimento
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Sentimento
+
+Intro: Am  G   D/F#   Am   G   D/F#   A7M   F7M   A7M   Dm7   G   A7M
+
+ Am    G   D/F#    Am   G     D/F#
+Sentimento que todo homem tem 
+ 
+ A7M     F7M
+Saudade de contemplar  
+ 
+A7M       Dm7              G     A7M Dm7
+Vontade de voltar pra quem o fez 
+ 
+        G              C7M           F7M     Bm7(b5)
+É o viver sem desfrutar de como tudo começou 
+ 
+        E7(b9)              A7/4 A7 Dm
+A doce paz que um deus amor 
+ 
+         G           C7M         F7M       Bm7(b5)
+É o conflito da cisão de assumir a direção 
+ 
+        E7(b9)       Am   F7M A7M Dm7 G A7M
+No caminhar que se desfaz 
+ 
+ Am      G     D/F# Am    G       D/F#
+Jesus cristo vem em si mesmo traz 
+ 
+A7M    F7M
+A solução que se quer  
+ 
+A7M     Dm7              G    A7M Dm7
+A condição pra ser o que se é 
+ 
+               G       C7M              F7M        Bm7(b5)
+Pois cristo é a salvação e a força pra desenvolver 
+ 
+         E7(b9)          A7/4 A7 Dm
+O novo homem que nos faz 
+ 
+        G             C7M           F7M         Bm7(b5)
+É o caminho pra se andar é a verdade sem talvez 
+ 
+          E7(b9)            Am G D/F# Am G D/F#
+É a vida que se quer viver  
+ 
+A7M F7M A7M Dm7 G A7M Dm7 G A7M
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7/4 = X 0 2 0 3 0
+A7M = X 0 2 1 2 0
+Am = X 0 2 2 1 0
+Bm7(b5) = X 2 3 2 3 X
+C7M = X 3 2 0 0 X
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E7(b9) = X X 2 1 3 1
+F7M = 1 X 2 2 1 X
+G = 3 2 0 0 0 3

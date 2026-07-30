@@ -1,0 +1,75 @@
+@titulo: quem-e-voce
+@autor:
+@intérprete: Camisa de Vênus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Camisa de Vênus - Quem é Você?
+
+Intro:
+E|------------------------------|
+B|------------------------------|
+G|----9---8-7----9---8-7-8-7----|   (4x)
+D|----9---8-7----9---8-7-8-7----|
+A|--7---7------7---7---------7--|
+E|------------------------------|
+
+E|------------------------------------|
+B|------------------------------------|
+G|----9--9-7--7--9~----9--9-7--7--7~--|   (4x)
+D|----9--9-7--7--9~----9--9-7--7--7~--|
+A|--7----------------7----------------|
+E|------------------------------------|
+
+E                                        D                   E
+Edir Macedo tem conta na suíça, conta conjunta com o dono do céu
+E                               D             E
+Maradonna só gosta do jogo se a bola for de papel
+A                                B C
+O Super-Homem quebrou a espinha,   Hebe Camargo é uma gracinha
+G                                 A
+E eu tô de olho na minha vizinha!
+
+E     D              E          D         A            E
+Ôooo, Ôoooo.... quem é você? Em frente do espelho, não deu pra ver!
+D     A              E
+Ôooo, Ôoooo.... quem é você?
+
+E                                    D            E
+Bill CLinton fumava maconha, mas ele não sabia tragar
+E                                    D               E
+PC Farias pagou com a vida, enquanto Collor foi esquiar
+A                              B C
+Bob Dylan provocou a centelha,   Van Gogh cortou a orelha
+G                                  A
+E a sua bochecha, tá toda vermelha
+
+(Refrão)
+
+(Solo)
+
+(Refrão)
+
+E                                        D                       E
+Graham Bell inventou o telefone, mas não tinha ninguém pra conversar
+E                                         D                       E
+Poncio Pilatos era um democrata, lavou as mãos e deixou o povo julgar
+A                                    B C
+Carlos Drummond, morreu de tristeza,   Rauzito era maluco beleza
+G                            A
+E eu joguei fora as certezas
+
+(Refrão)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3

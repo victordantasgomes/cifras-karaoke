@@ -1,0 +1,56 @@
+@titulo: deus-do-impossivel
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Deus do Impossível
+
+[Intro]  C#m  A9  E  B9
+
+        A
+Quando tudo diz que não
+                E
+Tua Voz me encoraja a prosseguir
+        A
+Quando tudo diz que não
+                 E
+Ou parece que o mar não vai se abrir
+B             F#m
+Sei que não estou só
+         A                              E
+E o que dizes sobre mim não pode se frustrar
+B          F#m
+Venha em meu favor
+   A                B
+E cumpra em mim teu querer
+
+                E
+O Deus do impossível
+                 B
+Não desistiu de mim
+                  F#m         A9        B
+Sua destra me sustenta e me faz prevalecer
+
+                A9
+O Deus do impossível
+                E
+O Deus do impossível
+                A9
+O Deus do impossível
+                E
+O Deus do impossível
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,43 @@
+@titulo: adorai-o-rei
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Adorai o Rei
+
+Intro: G D C (4x)
+       G  D  Am  C  G (2x)
+
+  G D  Am C         G
+Adorai o rei do universo
+  G D  Am C         G
+Adorai o rei do universo
+  G               C
+Fez a luz para o sol
+D                 G
+Para o homem o calor
+ G                C
+Fez a estrela brilhante
+ D                G
+E o coração pro amor
+ G            C
+Deu peso ao vento
+ D                 G
+Pois as medidas no mar
+ G                   C
+Estendeu as nuvens no céu
+
+    D                G
+E ensinou o homem a amar
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3

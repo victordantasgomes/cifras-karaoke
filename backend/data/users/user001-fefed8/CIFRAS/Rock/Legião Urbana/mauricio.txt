@@ -1,0 +1,105 @@
+@titulo: mauricio
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Maurício
+
+Intr.: (Dm  F  Am  Dm)
+       Gm  Bb  C  F
+
+RIFF de Introdução 1
+
+D|-----------------3----3-----------------------
+A|-----5-------5-----------------------------3--
+E|---------------------------------5-----5-5----
+
+OBS : Esse riff deveria ser tocado no baixo, mas no violão o som fica legal.
+ No baixo deve ser tocado algumas oitavas acima.
+
+violão:
+e|---13--13--15--15--13--13--12--12-----------------------------|
+B|-15--15--15--15--15--15--15--15-------------------------------|
+
+RIFF de Introdução 2
+
+e|----------------10------------------13-------------
+B|----------10-----------------13-------------13-----
+G|-----7-----------------10---------------10---------
+
+
+Esse riff é tocado pelo teclado.
+As duas primeiras sequências são tocadas duas vezes.
+
+teclado:
+B|-------3--------------------------------|
+G|-3--5-----5--3--2--0--2-----------------|
+
+violão:
+e|---13...-----|
+G|-15-...------| 
+
+
+    Dm          F            Am
+Já não sei   dizer se ainda sei sentir
+       Dm      F               Am
+O meu co...ração já não me pertence
+    Dm        F          Am
+Já não quer mais    me obedecer
+         Dm      F              Am
+Parece agora estar tão cansado quanto eu
+Dm       F       Bb   F
+  Até pensei que era mais
+     Eb             Bb
+      por não saber
+               Dm          Bb
+Que ainda sou capaz de acreditar
+    C/E       F
+Me sinto tão só
+    Bb         Gm         C
+E dizem que a solidão até que
+                    F
+             me cai bem
+Às vezes faço planos
+Bb               Gm
+  Às vezes quero ir
+F
+  Pra algum país distante
+Bb               Gm  (Gm  Bb  C  F)
+  Voltar a ser feliz
+
+        Dm      F          Am
+Já não sei   dizer o que aconteceu
+         Dm      F               Am
+Se tudo que sonhei foi mesmo um sonho meu
+          Dm     F         Am
+Se meu desejo então já se realizou
+         Dm       F
+O que fazer   depois
+         Am
+Pra onde é que eu vou?
+
+Gm        C       F
+  Eu vi você voltar pra mim
+Gm        C       F
+  Eu vi você voltar pra mim
+Gm        C       F
+  Eu vi você voltar pra mim...
+
+Base do solo final: (Gm C F)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+Dm = X X 0 2 3 1
+Eb = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

@@ -1,0 +1,67 @@
+@titulo: o-que-eu-sinto-e-amor
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - O Que Eu Sinto É Amor
+
+Intro: D9 / D9/B / D9/G / D9/A / } 2 vezes
+
+D                  F#m
+Fugi do seu olhar tentando me afastar
+G                 Gm
+E veja só como estou
+ D            Bm          G     A7/11
+Outra vez eu tentei ficar sozinho
+ A7      D9
+Não adiantou
+ D
+Outras que eu quis amar
+F#m
+Bocas que eu quis beijar
+ G                  Gm
+Não tinham o mesmo sabor
+ D                 Bm          G    A7/11
+Eu tentei mas de novo em meu peito
+ A7     D9
+Você voltou
+A7                  D            Bm
+Mas meu coração me pede pra te amar
+
+     Em
+Me deixa louco
+  A7             D         D11  D
+Toda vez que vê você chegar
+  A7                    D           Bm
+Pensei que era paixão aquela sem valor
+        Em           A7/11  A7       D9
+Mas o que sinto por você      é     amor
+        D9/B              D9/G
+O que eu sinto, o que eu sinto
+       D9/A     D9
+Agora eu sei é amor
+      D9/B             D9/G
+O que eu sinto, o que eu sinto
+        D9/A       D
+Menina eu sei é amor..
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7/11 = X 0 2 0 3 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D11 = X 5 4 0 3 5
+D9 = X X 0 2 3 0
+D9/A = X 0 X 2 3 0
+D9/B = X 2 0 2 3 0
+D9/G = 3 X X 2 3 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

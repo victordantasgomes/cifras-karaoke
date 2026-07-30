@@ -1,0 +1,62 @@
+@titulo: o-castigo
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - O Castigo
+
+      F(9)     C            F(9)               Bb         C
+O castigo que nos trouxe a paz foi a morte do mestre na cruz
+     F(9)   Am7         Bb(9)     F/A  Bb(9)  C      F(9)
+Por mim morreu e o seu sangue verteu   e sua paz me deu
+            Am7         Bb(9)     F/A  Bb(9)  C      F(9)
+Por mim morreu e o seu sangue verteu   e sua paz me deu
+         C        Eº      Dm7            C               Dm7
+Quem queria estar lá era eu,    quem queria estar lá era eu
+      Bb(9)   F/A     Dm7       F(9)  C              F(9)
+Mas Cristo falou que tanto me amou   que por mim morreu
+      Bb(9)   F/A     Dm7       F(9)  C              F(9)
+Mas Cristo falou que tanto me amou   que por mim morreu
+
+     F(9)        C        F(9)
+Sua paz, eu não posso trocá-la
+     Bb(9)       Eb/Bb    F(9)
+Sua paz, eu não posso trocá-la
+       C                    F(9)
+Poi Jesus pagou o preço, embora eu não mereça
+                C        F(9)
+Sua paz eu não posso trocá-la
+
+     F(9)        C        F(9)
+Sua paz, eu não posso trocá-la
+     Bb(9)       Eb/Bb    F(9)
+Sua paz, eu não posso trocá-la
+       C                    F(9)
+Poi Jesus pagou o preço, embora eu não mereça
+                C        F(9)
+Sua paz eu não posso trocá-la
+
+     C        Dm       C        Dm       C        Dm       C        Dm       C        Dm       C
+Sua paz, sua paz, sua paz, sua paz, sua paz, sua paz, sua paz, sua paz, sua paz, sua paz, sua paz,
+     Dm       C        Dm       C        Dm       C
+sua paz, sua paz, sua paz, sua paz, sua paz, sua paz
+
+final: Dm, C, Dm ] fica repetindo essas notas
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+Bb(9) = X 1 3 3 1 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Eb/Bb = X X 8 8 8 6
+Eº = X X 2 3 2 3
+F(9) = 1 3 5 2 1 1
+F/A = 5 X 3 5 6 X

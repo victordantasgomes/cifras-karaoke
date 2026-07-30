@@ -1,0 +1,56 @@
+@titulo: videira
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Videira
+
+[Intro]  B  B4
+
+B                           B4            B B4
+Tu és um Deus que quebra todas as cadeias
+B                     B4              B B4
+Destrói muralhas e derruba fortalezas
+B                        B4             B B4
+Tu és um Deus que cura todas as doenças
+B                  B4             B
+Que purifica justifica e santifica
+
+         F#           E             B/Eb
+Tu és tremendo, maravilhoso, e conselheiro
+    C#m      F#7       B
+vitorioso leão de Judá
+          F#             E
+Tu és a fonte de água viva
+          B/Eb           C#m   F#7         B
+bem cristalina que me sacia e me faz cantar
+
+     Ebm          G#m         Ebm         G#m
+Aleluia eu sou feliz em te amar meu salvador
+
+     Ebm           G#m          Ebm             C#/F
+Aleluia eu tenho paz, pois encontrei no teu amor
+   E            F#7        B  B4 -> Igual a introdução}
+Alegria, vida eterna e louvor
+
+( B  B4 )
+
+Videira, videira, videira, videira, videira, videira vida
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B/Eb = X 6 X 4 7 7
+B4 = X 2 4 4 5 2
+C#/F = X 8 X 6 9 9
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+Ebm = X X 1 3 4 2
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2
+G#m = 4 6 6 4 4 4

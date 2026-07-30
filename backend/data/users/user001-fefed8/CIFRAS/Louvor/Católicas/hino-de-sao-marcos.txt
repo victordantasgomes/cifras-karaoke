@@ -1,0 +1,66 @@
+@titulo: hino-de-sao-marcos
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Hino de São Marcos
+
+          G             D7
+Jovem discípulo de São Pedro
+                       G
+A sua casa se formou igreja
+      Em                Am
+A sua fé tornou-se luz acesa
+      D                   G
+Luz acesa que jamais se apaga
+
+     Dm  G7            C       D7            C   G   D/F#
+São Marcos no seu evangelho escrito com simplicidade
+         Em                 Am             D7               C   G
+É a divindade de Jesus que brilha no vivo anúncio para a humanidade
+     Dm  G7       C                D7   C  D7  G  G7
+São Marcos evangelista, palavra escrita do Senhor
+            C  Cm          G    Em         Am  D  G    G7
+Da nossa igreja    és padroeiro,   o nosso pro-te-tor!
+            C  C#º         G    Em         Am  D  G    D7
+Da nossa igreja    és padroeiro,   o nosso pro-te-tor!
+
+        G                D7
+Na casa de Maria mãe de Marcos
+
+                       G
+A última ceia se realizou
+          Em             Am
+Eras tão jovem e tão curioso
+          D               G
+Bem escondido seguiste Jesus
+
+     Dm  G7            C       D7            C   G   D/F#
+São Marcos no seu evangelho escrito com simplicidade
+         Em                 Am             D7               C   G
+É a divindade de Jesus que brilha no vivo anúncio para a humanidade
+     Dm  G7       C                D7   C  D7  G  G7
+São Marcos evangelista, palavra escrita do Senhor
+            C  Cm          G    Em         Am  D  G    G7
+Da nossa igreja    és padroeiro,   o nosso pro-te-tor!
+            C  C#º         G    Em         Am  D  G    D7
+Da nossa igreja    és padroeiro,   o nosso pro-te-tor!
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C#º = X 4 5 3 5 3
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

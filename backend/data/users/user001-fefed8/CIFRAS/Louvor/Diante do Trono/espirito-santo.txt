@@ -1,0 +1,89 @@
+@titulo: espirito-santo
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Espírito Santo
+
+F#m7  E       E      D    C#m7    C#m7
+    BASS
+F#m7  E       E      D    C#m7    C#m7
+  BAND-IN
+F#m7  E       E      D    C#m7    C#m7
+
+  F#m7          E       E
+Eu gosto de sentir Teu fogo
+  D            A
+Queimando dentro de mim
+  Bm7                Bm7
+Eu gosto de sentir Teu vento
+  D                           E
+Soprando e me levando aonde eu devo ir
+
+  F#m7                  E
+Eu gosto de sentir Teus rios
+   D              A
+Fluindo dentro de mim
+Bm                   Bm7
+Eu gosto de sentir Tua voz
+
+  D                E
+Falando através de mim
+
+       F#m7                       D                       F#m7
+Espirito Santo,             Espirito Santo,         Espirito Santo
+       D                     E
+Vem Enche-me de Ti
+       F#m7                        D                       F#m7
+Espirito Santo,             Espirito Santo,         Espirito Santo
+   D       E       E
+Vem Enche-me de Ti
+
+                BASS                                                    STOP
+                     F#m7  E       E      D    C#m7   C#m7
+                BAND-IN
+                     F#m7  E       E      D    C#m7  C#m7
+
+(repete tudo)
+
+(instrumental)     A      D  F#m7  D   D  E
+                   D      D  Bm7   Bm7
+
+         D                            Bm7
+Queima em mim,                 queima em mim
+         D        C#m7
+Queima em mim,  Espirito
+         D                            Bm7
+Sopra em mim,                   sopra em mim
+         D        C#m7
+Sopra em mim, Espirito
+         D                            Bm7
+Flui em mim,                   flui em mim
+         D        C#m7
+Flui em mim Espirito
+         D                            Bm7
+Fala em mim,                   fala em mim
+                                               STOP
+         D      E          E
+Fala em mim,Espirito...
+
+
+(final) F#m E D A/C# D E D E F#
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X

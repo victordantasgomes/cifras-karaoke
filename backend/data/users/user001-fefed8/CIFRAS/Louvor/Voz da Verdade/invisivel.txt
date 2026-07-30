@@ -1,0 +1,69 @@
+@titulo: invisivel
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Invisível
+
+INTRO: Gm, F, Ab, Eb } 2 vezes
+
+Gm                             F
+Os caminhos do Senhor são mais altos que o céu
+Ab                     Eb
+E seus pensamentos também
+Gm                     F/A
+Os caminhos do Senhor não são os nossos
+Ab                             Eb
+E seus pensamentos também não são
+
+Am                                       D7
+Mas o que interressa é que ele nos dá a vida pra
+        Am                           D7
+seguir, mesmo às vezes não sabendo pra onde ir
+Am                 D7
+Ele nos dirige no seu invisível
+Am                D7
+Mesmo não o vendo Ele está lá
+
+G                              D            Am
+Os que esperam no Senhor suas forças renovarão
+
+C                    Em   D
+Caminharão e não se cansarão
+G                    D             Am
+Voarão com asas como águias lá no céu
+C                    Em        D/F#
+Confiando sempre no Deus de Israel
+G                               D      Am
+Aos que predestinou a estes também chamou
+C                           Em  D
+E aos que chamou também justificou
+G                               D   Am
+E aos que justificou também glorificou
+    C   G/B  Am  C          Em        D  2ºVEZ G
+Se Deus é   por nós quem será contra nós?
+
+
+SOLO: Em7, D/F#, G } 4 VEZES
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+Eb = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+Gm = 3 5 5 3 3 3

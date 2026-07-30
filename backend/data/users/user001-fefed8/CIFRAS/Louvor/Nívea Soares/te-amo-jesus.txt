@@ -1,0 +1,72 @@
+@titulo: te-amo-jesus
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Te Amo Jesus
+
+INTRO: : C9  : Am7 : F9 : G/F F :: C9  : Am7 : F9 : Dm7 :
+
+C9                  Am7                     G9     Gsus4  G9
+Dia apos dia, eu me achego a TiHHH
+      F9                    Dm7                    C9
+Ao Teu calor , ao Teu carinho, ao Teu amor
+C9                        Am7                         G9     Gsus4  G9
+No lugar secreto corro pra te encontrar
+       F9                          Dm7                         C9                   : Am7 G :
+E a cada passo sinto Tua presença e Te amo mais
+
+            C9                     C/E
+Quero tocar Tua face, Te beijar   G
+      F              Dm7
+Te abraçar e te dizer :
+      F9 F9/11 F9   Gsus4 G                         C9         Gsus4  G
+Te amo  ,                           Eu te amo Jesus                                   2X
+
+INTRO : : Am7  G/B : F9 : Am7 G/B : F9 :
+
+ESTROFE
+
+
+CORO
+
+   C9                     C/E
+Quero tocar Tua face, Te beijar
+      F              Dm7
+Te abraçar e te dizer :
+      F9 F9/11 F9   Gsus4 G                         C9         Gsus4  G
+Te amo  ,                           Eu te amo Jesus                                   2X
+
+ PASSAGEM     : Am7 G/B : F9     :
+
+coro light    -> PASSAGEM      : Bb F/A :  Gsus4 G  :
+
+
+ESPONTANEO
+
+: Am7 : G: F9 : F9 :     2X
+
+ATE FINALIZAR  : Am7 : G : F9 : F9 :  Fm7 :  G
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F9 = 1 3 5 2 1 1
+F9/11 = 1 1 3 3 1 3
+Fm7 = 1 X 1 1 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/F = 1 X X 0 0 3
+G9 = 3 X 0 2 0 X
+Gsus4 = 3 5 5 5 3 3

@@ -1,0 +1,67 @@
+@titulo: outros-tempos
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Outros Tempos
+
+(Humberto Gessinger)
+
+
+Introdução: A9 D9
+
+  A9
+quando te vi
+ D9              A9                 D9
+tive a impressão de que não era a primeira vez
+  A9
+quando te vi
+ D9                Bm             E7
+tive a certeza de que não seria a última vez
+
+
+   A9           D9
+?quem vem lá? quem será?
+     A9                      D9
+que passa como um filme na fumaça de um bar
+   A9           D9
+?quem vem lá? quem será?
+
+     Bm              E7
+que vai me salvar a vida outra vez
+ Bm                  E7           Em
+vai fazer de novo o que nunca fez
+
+
+              D9                    G
+os tempos são outros; os erros, os mesmos
+    E
+me diz como é que eu faço
+me diz como é que eu posso
+          A
+te encontrar mais uma vez
+
+              D9                    G
+os tempos são outros, os erros, os mesmos
+    E
+me diz como é que eu faço
+
+me diz como é que eu posso
+          A               (A9 D9)
+te encontrar mais uma vez pela primeira vez
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

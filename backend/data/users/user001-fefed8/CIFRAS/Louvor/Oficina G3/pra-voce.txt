@@ -1,0 +1,96 @@
+@titulo: pra-voce
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Oficina G3 - Pra você
+
+Intro:
+
+Ab - Eb/G - Fm - Eb/G Ab Db7+ - Bb -  Ab - Eb/G - [G Ab Bb Ab] N.S.
+N.S. = notas simples
+
+Db               Ab
+  Expressar meu amor
+                  Db
+  Em mais uma canção
+                   Fm
+  E vivendo ao seu lado
+
+Db               Ab
+  Sempre vou me lembrar
+     Cm7        Db
+  De tudo que um dia sonhei
+    Eb/G          Fm
+  E Você tornou real
+
+Db               Ab
+  Olhando ao redor
+
+                  Db
+  Posso ver seus milagres
+                   Fm
+  Mudando minha direção
+
+Db               Ab
+  Hoje sinto suas mãos
+     Fm     Eb/G      Cm7        Db
+  Me dando a paz e renovando o coração
+  Eb/G    Fm
+  Isso é real
+
+       B          Db        Ab
+  Pra você eu vou sempre cantar
+   B        Db        Ab
+  E em todo tempo lembrar
+             B          Db
+  Ver seu sorriso se abrir
+   B              Db     Fm
+  Quando me ouvir dizer, Pai
+
+Interlúdio: Cm7  Fm  -  Db   Ab/C
+
+ Db                  Ab
+  Pai, como é bom te chamar
+                  Db
+  Seu socorro sentir
+                       Fm
+  Me guardando em seus braços
+ Db               Ab
+  Meus olhos já podem ver
+  Cm7        Db
+  Tudo que um dia sonhei
+  Eb/G    Fm
+  Você é real
+
+       B          Db        Ab
+  Pra você eu vou sempre cantar
+   B        Db        Ab
+  E em todo tempo lembrar
+             B          Db
+  Ver seu sorriso se abrir
+   B              Db     Fm
+  Quando me ouvir dizer, Pai
+
+Final: Fm  Eb  Fm  C  -  Fm  Eb  Fm  C
+Fm  Eb  Bb  Db  -  Fm  Eb  Bb  Db  Eb  Ab  -  Db  Ab
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Ab/C = X 3 X 1 4 4
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Cm7 = X 3 5 3 4 3
+Db = X 4 6 6 6 4
+Db7+ = X 4 6 5 6 4
+Eb = X 6 5 3 4 3
+Eb/G = 3 X 1 3 4 X
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3

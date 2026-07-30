@@ -1,0 +1,72 @@
+@titulo: irmaos
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Irmãos
+
+INTRO: Em7 C G D/F#  Em7 C G D/F#  C G/B  D/F# Em7
+
+ G9                                                    Em7    Am7                                    FM7                       Dsus
+Como pode ser Feitos da mesma forma Criados com o mesmo amor Vivendo a alegria e dor
+ G9                                              Em7            Am7                                      FM7                       C/E       Am7
+Como pode ser Somos tão diferentes Mais quando nos encontramos Ou mesmo de longe oramos  Irmãos
+        G/B  CM7               G/B          Am7                       Em7
+Sua alegria é minha alegria  Suas lágrimas choro também
+             CM7                           G/B     FM7                Dsus D
+Não importa o que venha na vida  Irmãos Somos Irmãos
+
+G9                    G/B            Em7         CM7  G/B            D/F#                            Em7                         Dsus D
+    Irmãos são feitos assim  Tão diferentes Mais o amor que corre nas veias É maior do que tudo
+G9                    G/B            Em7                      CM7 G/B           D/F#                            Em7
+    Irmãos são feitos assim  Sorrindo e chorando  Mais o amor que corre nas veias
+                             Dsus D  G D/F# Em7
+É maior do que tudo
+
+Am7     G/B  C9                   Em7            Am7      G/B       Em7
+      Sua alegria é minha alegria  Suas lágrimas choro também
+              Am7                                 G9        F9                     Dsus     D
+Não importa o que venha na vida   Irmãos Somos Irmãos
+
+
+SOLO: E  A9  A/C#  F#m7  D9  A/C#  D9 E D/F#  G  D/F# Esus
+
+A9                    A/C#        F#m7       DM7 A/C#        E/G#                        F#m7                        Esus E
+    Irmãos são feitos assim  Tão diferentes   Mais o amor que corre nas veias É maior do que tudo
+A9                    A/C#        F#m7               DM7   A/C#        E/G#                    F#m7
+    Irmãos são feitos assim  Sorrindo e chorando  Mais o amor que corre nas veias
+                          Esus  E   Bm7  E
+É maior do que tudo
+     G9 D/F#        Esus E     G9 G/B         Esus  E     G9 A9 G/B  D9               Esus  E
+Irmãos somos irmãos     Irmãos somos irmãos      Irmãos              somos irmãos
+
+FIM: F#m7  D  A  E/G#  F#m7  D  A  E/G#  D  E/G#  F#m7
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+Dsus = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em7 = 0 2 2 0 3 0
+Esus = 0 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G9 = 3 X 0 2 0 X

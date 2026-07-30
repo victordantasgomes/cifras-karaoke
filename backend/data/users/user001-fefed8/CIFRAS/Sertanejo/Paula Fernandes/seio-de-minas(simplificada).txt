@@ -1,0 +1,61 @@
+@titulo: seio-de-minas(simplificada)
+@autor:
+@intérprete: Paula Fernandes
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Paula Fernandes - Seio de Minas
+
+[Intro]  G  D4/F#  Am  C  D
+         G  D4/F#  Am  C  D
+
+       G                       D4/F#
+Eu nasci no celeiro da arte no berço mineiro
+        Am                               C     D
+Sou do campo, da serra onde impera o minério de ferro
+       G                                D4/F#
+Eu carrego comigo no sangue um dom verdadeiro
+       Am                                 C    D
+De cantar melodias de Minas no Brasil inteiro
+          Em                     D
+Sou das Minas de ouro das montanhas Gerais
+         Am                       C         D
+Eu sou filha dos montes e das estradas reais
+        G                D4/F#
+Meu caminho primeiro vem brotar dessa fonte
+        Am          C           D
+Sou do seio de Minas, nesse estado um diamante
+
+( G  D4/F#  Am  C  D )
+
+( G  D4/F#  Am  C  D )
+
+       G                       D4/F#
+Eu nasci no celeiro da arte no berço mineiro
+        Am                               C     D
+Sou do campo, da serra onde impera o minério de ferro
+       G                                D4/F#
+Eu carrego comigo no sangue um dom verdadeiro
+       Am                                 C    D
+De cantar melodias de Minas no Brasil inteiro
+          Em                     D
+Sou das Minas de ouro das montanhas Gerais
+         Am                       C         D
+Eu sou filha dos montes e das estradas reais
+        G                D4/F#
+Meu caminho primeiro vem brotar dessa fonte
+        Am          C           D
+Sou do seio de Minas, nesse estado um diamante
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D4/F# = 2 X X 2 3 3
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

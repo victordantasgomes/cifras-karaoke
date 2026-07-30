@@ -1,0 +1,102 @@
+@titulo: a-letra-a
+@autor:
+@intérprete: Nando Reis
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nando Reis - A Letra A
+
+[Intro] D  C  G/B
+        D  C  G/B
+        D  C  G/B
+        D  C  G/B
+
+[Primeira Parte]
+
+C        G/B       D
+ A letra A do seu nome
+C           G/B        D
+ Abre essa porta e entra
+C          G/B          D
+ Na mesma casa onde eu moro
+C          G/B      D
+ Na mesa que me alimenta
+
+( D  C/D )
+
+C            G/B     D
+ A telha esquenta e cobre
+C           G/B       D
+ Quando de noite ela deita
+
+C         G/B      D
+ A gente pensa que escolhe
+C                G/B    D
+ Se a gente não sabe inventa
+
+[Refrão]
+
+                          C
+A gente só não inventa a dor
+   Em                   D
+A gente que enfrenta o mal
+                                  C
+Quando a gente fica em frente ao mar
+                     D
+A gente se sente melhor
+
+( C/D D C/D )
+
+[Segunda Parte]
+
+C          G/B     D
+ A abelha nasce e morre
+C           G/B      D
+ E a cera que ela engendra
+C          G/B          D
+ Acende a luz quando escorre
+C          G/B     D
+ Da vela que me orienta
+
+C       G/B     D
+ Apenas os automóveis
+C              G/B     D
+ Sem penas se movem e ventam
+ C            G/B        D
+Certeza é o chão de um imóvel
+  C         G/B               D
+Prefiro as pernas que me movimentam
+
+[Refrão]
+
+                        C
+A gente em movimento, amor
+   Em                   D
+A gente que enfrenta o mal
+                                  C
+Quando a gente fica em frente ao mar
+                     D
+A gente se sente melhor
+
+                          C
+A gente só não inventa a dor
+   Em                   D
+A gente que enfrenta o mal
+                                  C
+Quando a gente fica em frente ao mar
+                     D
+A gente se sente melhor
+
+[Final] Em  D
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G/B = X 2 0 0 3 3

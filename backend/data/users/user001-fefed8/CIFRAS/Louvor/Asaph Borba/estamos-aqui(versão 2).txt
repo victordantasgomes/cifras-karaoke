@@ -1,0 +1,53 @@
+@titulo: estamos-aqui(versão 2)
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Estamos Aqui
+
+Capo Casa 2
+
+                   A    E
+Estamos aqui pra Te adorar
+         Bm             A   E
+em Tua presença pra Te exaltar
+                Em                  D   F#m  Bm
+nossos olhos contemplam Tua face de amor
+             A                E
+tudo o que temos tudo o que somos
+        A      E
+é teu Senhor
+
+               A        C#m            D  F#m  Bm
+nossas vidas estão guardadas em Tuas mãos
+           D             E   Fdim
+estão escondidas no Teu coração
+            F#m
+pois somos vaso eleito
+
+      D          Bm           A
+sacerdócio real povo santo de Deus
+             C#m
+a fim de proclamar
+      D   E7   A
+Teu reino oh Senhor
+
+( A# )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A# = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+Fdim = X X 3 4 3 4

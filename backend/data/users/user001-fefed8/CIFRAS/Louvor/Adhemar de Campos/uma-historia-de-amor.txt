@@ -1,0 +1,90 @@
+@titulo: uma-historia-de-amor
+@autor:
+@intérprete: Adhemar de Campos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Adhemar de Campos - Uma História de Amor
+
+Intro: C   D   G/B   C  
+
+                   C     D       G/B   C
+Uma história de amor Jesus e eu
+                    C         D         G/B    C      
+
+Um ao outro se entregou nasceu
+             C       D     G/B      C
+Uma aliança de amor sem fim
+               C    D    G/B     C
+ 
+Uma vida de adoração
+
+
+C        D          G/B       C
+Quem primeiro se entregou
+Am7  D/F#  Em
+Foi Jesus Senhor
+C         D    G/B       C
+
+Devo a Ele   o   que sou
+   Am7    D        C/G  G
+E todo   meu louvor
+
+
+Interlúdio 4x:  Am7   G   D/F  Em7 
+
+
+                   C     D       G/B   C
+Uma história de amor Jesus e eu
+                   C         D
+
+Um ao outro se entregou nasceu (sobe o tom)
+           D     E     A/C#     D
+Uma aliança de amor sem fim
+              D    E     A/C#   D
+
+Uma vida de adoração
+
+
+                   D    E        A/C#  D
+Uma história de amor Jesus  e  eu
+                   A/C#    E4        A/C#   D
+Um ao outro se entregou nasceu
+           D     E     A/C#     D
+Uma aliança de amor sem fim
+               D    E    A/C#   D
+
+Uma vida de adoração
+                   D    E        A/C#  D
+Uma história de amor Jesus  e  eu
+                   D         E4        A/C#    D
+Um ao outro se entregou nasceu
+          D       E    A/C#     D
+Uma aliança de amor sem fim
+               D   E      D    A/C#   D    E4       A/C#   D
+
+Uma vida de adoração                         (Jesus  e  eu)
+               A/C# E4   D/A   A
+Uma vida  de  adoração
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F = X X 3 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

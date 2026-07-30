@@ -1,0 +1,60 @@
+@titulo: love-song
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Love Song
+
+Letra: Nuno Fernandes Torneol (séc XIII)
+Música: Dado Villa-Lobos/Renato Russo/Marcelo Bonfá 
+
+Intro:
+e|-------------5------3------3-----------------|
+B|-8-----5-----5------5------5-------5---------|
+G|-9-----5---------------------------5---------|
+D|---------------------------------------------|
+A|---------------------------------------------|
+E|---------------------------------------------|
+
+(Am C* Am G Am)2x
+
+e|-10-8-7-8-7---------------------------10-8-7-8-7----------|
+B|------------10-8-10*-10-8-10*-10-8---------------10-8-10*-|
+G|-----------------------------------9*---------------------|
+D|----------------------------------------------------------|
+A|----------------------------------------------------------|
+E|----------------------------------------------------------|
+
+      Am          G   Am
+Pois nasci nunca vi amor
+
+   G               Am
+E ouço del sempre falar.
+     C          G    C
+Pero sei que me quer matar
+       Dm            Em
+Mais rogarei a mia senhor
+        Am       G     Am
+Que me mostr' aquel matador
+            G   Em     F  Am  G  Am
+Ou que m'ampare del melhor.
+
+
+C* (032013)
+
+
+(Por: Gabriel Ysllu Chagas)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

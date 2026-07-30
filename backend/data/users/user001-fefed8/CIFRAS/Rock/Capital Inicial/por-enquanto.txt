@@ -1,0 +1,59 @@
+@titulo: por-enquanto
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Por Enquanto
+
+(intro) E Esus4 (4X)
+
+    E      C/Eb         A      G#m
+ Mudaram as estações e nada mudou
+         A                     G#m
+ Mas, eu sei que alguma coisa aconteceu
+      F#m             B7  C°
+ Está tudo assim tão diferente
+ C#m                 B        A              E      E E/D#
+ Se lembra quando a gente chegou um dia a acreditar
+ C#m                 B
+ Que tudo era p'rá sempre
+ A
+ Sem saber
+             F#m     A      B
+ Que o p'rá sempre sempre acaba?
+        E         C/Eb         A      G#m
+ Mas, nada vai conseguir mudar o que ficou
+  A
+ Quando penso em alguém
+    G#m
+ Só penso em você
+
+  F#m       B7      C°
+ E aí então estamos bem
+ C#m                 B           A                E  E E/D#
+ Mesmo com tantos motivos p'rá deixar tudo como está
+   C#m                 B
+ E nem desistir, nem tentar
+       A
+ Agora tanto faz
+         A        B7        E
+ Estamos indo de volta pra casa
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+C/Eb = X X 1 0 1 0
+C° = X 3 4 2 4 2
+E = 0 2 2 1 0 0
+E/D# = X X 1 1 0 0
+Esus4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

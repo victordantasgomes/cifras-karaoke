@@ -1,0 +1,57 @@
+@titulo: carolina
+@autor:
+@intérprete: KLB
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+KLB - Carolina
+
+Solo: 30 30 32 30 33 30 32 30
+
+                      C
+E esse dia que não passa
+                      D
+O telefone que não toca
+                       Am                 G7
+E a minha falta de interesse, pelas coisas do mundo 
+  F
+real
+                 C                        D
+A tua pele me parece um bom motivo pra beber
+                      Am               G7
+E o seu sorriso é o presente que não faço por 
+     F
+merecer
+Em                                     F
+Os dias na cidade me parecem todos iguais
+Em                                       F
+De casa pro trabalho do trabalho pro teu olhar
+REFRÃO
+                        C   G                     Am
+Essa canção tem o teu nome, e o meu som tem tua cara
+F                        C   G7     F
+Essa canção tem o teu nome...Carolina...
+                    C                           D
+A sua vida é um mistério, que não consigo desvendar
+                  Am             G7             F
+Parece cena de cinema se te encontro a mesa do bar
+                 C                        D
+A tua pele me parece um bom motivo pra beber
+                        Am                 G7
+E o seu sorriso é o presente que não faço por  
+    F
+merecer
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

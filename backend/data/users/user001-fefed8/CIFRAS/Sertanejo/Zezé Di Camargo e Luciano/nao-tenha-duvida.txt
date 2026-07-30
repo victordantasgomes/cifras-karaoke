@@ -1,0 +1,78 @@
+@titulo: nao-tenha-duvida
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Não Tenha Dúvida
+
+Intro: D Bm G G/A A
+
+   D                     A/C#
+Não tenho dúvida que você não me ama
+           Em        A7           D
+Não tenho dúvida que você não me quer
+      C/D         D7       G   D/F#
+Se amanhã o seu desejo acordar
+      Em                        A4/7  A7
+Me procurando sabe onde me encontrar
+           D                       A/C#
+Não tenha dúvida não mudo o meu costume
+          Em       A7          D
+De ser um cara dependente de você
+      Am7         D7       G
+Se amanhã o seu desejo acordar
+          D                A7 G/B A/C#
+Não tenha medo, não tenha medo
+     D
+Se a tempestade te pegar
+ D7+
+E o seu coração chamar
+
+    D6          D7+           A
+Não tenha medo de voltar pra mim
+        Em       A7
+Se um outro cara te envolver
+  Em        A7
+E por amor você sofrer
+    Em         A7            D   A7
+Não tenha medo de voltar pra mim
+   D
+De cara nova eu vou tentar
+  D7+
+Sobreviver sem seu olhar
+  D6            D7+         A
+Fugir do que eu passo sem você
+    Em          A7
+Eu tenho forças pra brigar
+    Em          A7
+Mas se você me procurar
+  Em            A7        D   D A/C# Bm
+Entrego a minha vida pra você
+A         A7            D
+Não tenha dúvida que eu sou
+A         A/C# D
+Louco por seu amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4/7 = X 0 2 0 3 0
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+Bm = X 2 4 4 3 2
+C/D = X X 0 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D6 = X 5 4 2 0 X
+D7 = X X 0 2 1 2
+D7+ = X X 0 2 2 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3

@@ -1,0 +1,41 @@
+@titulo: niveis-de-bebida
+@autor:
+@intérprete: Maiara e Maraisa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Maiara e Maraisa - Níveis de Bebida
+
+INTRO: Dm  C (3X) Dm
+
+       Dm
+Tão falando que eu tô bebendo muito, QUÊ QUE ISSO? Sou muito diferente pra beber matenho o nível
+       Gm                                                 A                       A      A       A
+Quando eu chego no bar com a minha turma o bicho pega, começa a bebedeira mas eu VOU SEGUINDO A REGRA
+
+PRÉ-REFRÃO:
+        Dm
+"Nível UM: A timidez já foi embora e eu to soltinha | Nível DOIS: Virei amiga até do cara da cozinha |
+         Gm                                                     A
+ Nível TRÊS: Eu fico rica e todo mundo tá me olhando | Nível QUATRO: Lembrei do "Ex-" ai meu Deus já to ligando" (2x)
+
+REFRÃO.:
+              Dm                        Bb                F                  C
+"AH ELA TÁ SOLTINHA E VAI SUBINDO PRA CABEÇA VAI SENSUALIZANDO, VAI SENSUALIZANDO"(4X)
+
+ Dm                                  Gm                      A            INTRO: Dm  C (3X) Dm
+OH, | OH,OH,OH,OH,OH, | OH,OH,OH,OH,OH | ÔHOH,ÔHOH,ÔHOH, OH,ÔH,OH,ÔH,OH,
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

@@ -1,0 +1,86 @@
+@titulo: atraves-da-vidraca
+@autor:
+@intérprete: Victor e Leo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Victor e Leo - Através da Vidraça
+
+Intro: F#m  D
+
+              F#m
+Porque é que não vê
+
+Esses raios de luz
+             D
+Entre as árvores mortas?
+           F#m
+Como não pode ouvir
+
+Essa voz que te chama
+             ( C#m  D )
+Por detrás dessa porta?
+
+          Bm
+Como não pode ver
+          D
+A beleza da flor
+           A  G#  F#m
+Através da vidraça?
+
+           Bm
+E não pode entender
+                F#m
+Meu amor nunca passa
+
+         Bm   Bm/A   E
+Porque você
+                F#m
+Não me diz que me ama?
+        Bm   Bm/A   E
+Porque não vê
+                F#m
+Que o meu corpo te chama?    (4x)
+
+Solo 2x: F#m  Bm  E  F#m
+E|---9-9\7-5-9/10-9/10-----9-9\7-5--7-5------9-9\7-5-10-10-----|
+B|---------------------------------------------------------7---|
+G|-------------------------------------------------------------|
+D|-------------------------------------------------------------|
+A|-------------------------------------------------------------|
+E|-------------------------------------------------------------|
+
+          Bm
+Como não pode ver
+          D
+A beleza da flor
+           A  G#  F#m
+Através da vidraça?
+           Bm
+E não pode entender
+                F#m
+Meu amor nunca passa
+
+         Bm   Bm/A   E
+Porque você
+                F#m
+Não me diz que me ama?
+        Bm   Bm/A   E
+Porque não vê
+                F#m
+Que o meu corpo te chama?    (4x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G# = 4 3 1 1 1 4

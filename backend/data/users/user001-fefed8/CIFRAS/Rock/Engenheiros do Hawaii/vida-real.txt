@@ -1,0 +1,118 @@
+@titulo: vida-real
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Vida Real
+
+Riff Intro e Refrão:
+
+E|7-----7--5-----5-4-2-0----|
+B|----7--------7------------|
+G|--7--------7--------------|
+D|9--------7----------------|
+A|--------------------------|
+E|--------------------------|
+
+Riff 1:
+
+E|3s5-----------------------|
+B|3s5-----------------------|
+G|--------------------------|
+D|--------------------------|
+A|--------------------------|
+E|--------------------------|
+
+Intro: Bm  Bm/A  E/G#  E (ou Riff Intro e Refrão)
+
+A                           G
+Cai a noite sobre a minha indecisão
+
+F#m                       B7
+Sobrevoa o inferno minha timidez
+A                 G
+Um telefonema bastaria
+F#m                         B7
+Passaria a limpo a vida inteira
+Eb                 E
+Cai a noite sem explicação
+D               E
+Sem fazer a ligação
+
+G                                      A Riff 1
+na hora da canção em que eles dizem baby
+G                    A Riff 1
+Eu não soube o que dizer
+
+Bm Bm/A  E/G#  E (ou Riff Intro e Refrão)
+ Ah...vida real!
+
+A                     G
+Esperei chegar a hora certa
+F#m                       B7
+Por acreditar que ela viria
+A                      G
+Deixei no ar a porta aberta
+F#m                B7
+No final de cada dia
+Eb                E
+Cai a noite doce escuridão
+D                 E
+De madura vai ao chão
+G                                     A Riff 1
+Na hora da canção em que eles dizem baby
+G                     A Riff 1
+Eu não soube o que dizer
+Bm            E (ou Riff Intro e Refrão 2x)
+Ah...vida real!(2x todo o refrão)
+                          ( A  G  F#m  B7 ) (4x)
+Como é que eu troco de canal?
+
+Solo:
+
+         A              G            F#m            B7           A              G
+E|------------------------------------------------------------------------------------|
+B|------------------------------------------------------------------------------------|
+G|------------------------------------------------------------------------------------|
+D|7h9-9-7------7-7h9-7---7~---7h9-9-7------7--------------7h9-9-7------7-7h9--11-7~---|
+A|---------7h9---------9---------------7h9---9~--7---7~------------7h9----------------|
+E|-------------------------------------------------9----------------------------------|
+
+         F#m       B7
+E|--------------------|
+B|--------------------|
+G|--------------------|
+D|7h9-9-7-------------|
+A|----------7/9---7---|
+E|--------------------|
+
+G                                     A Riff 1
+Na hora da canção em que eles dizem baby
+G                     A Riff 1
+Eu não soube o que dizer
+G                                      A Riff 1
+na hora da canção em que eles dizem samba
+G                    A Riff 1
+Eu não soube o que dizer
+Bm            E (ou Riff Intro e Refrão 2x)
+Ah...vida real! (2x)
+   D       A
+Tchau!!!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Eb = X 6 5 3 4 3
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

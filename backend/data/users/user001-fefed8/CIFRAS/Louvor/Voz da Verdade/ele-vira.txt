@@ -1,0 +1,43 @@
+@titulo: ele-vira
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Ele Virá
+
+E                G#
+Ele virá,  ele virá
+       C#m                                                   B
+Num estrondo os céus e a terra hão de passar
+
+E                G#
+Ele    virá,  ele virá
+            C#m                                               B
+Num estrondo os céus e a terra hão de passar
+
+
+      A  F#m                     E    C#m
+Eu verei,   a nova Jerusalem
+                     F#m    B              E          E7
+Procedente do céu,   da casa de Deus
+       A   F#m             E         C#m
+eu verei,     o portão de ouro
+                   F#m     B
+E o nosso tesouro
+         A      B            E
+que Cristo nos guardou
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+G# = 4 3 1 1 1 4

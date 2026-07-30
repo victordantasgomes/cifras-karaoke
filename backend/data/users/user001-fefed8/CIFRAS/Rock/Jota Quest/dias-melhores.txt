@@ -1,0 +1,103 @@
+@titulo: dias-melhores
+@autor:
+@intérprete: Jota Quest
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jota Quest - Dias Melhores
+
+Intro: G  Em7  G  Em7  D4/F#
+       G  Em7  G  D4/F#
+
+Primeira Parte:
+
+G                            Em7
+  Vivemos esperando dias melhores
+G                      Em7
+  Dias de paz, dias a mais
+ D4/F#                   G
+Dias que não deixaremos para trás
+        Em7  D4/F#
+Oh, oh, oh..
+
+G
+  Vivemos esperando
+                Em7
+O dia em que seremos melhores
+G                                Em7
+  Melhores no amor, melhores na dor
+D4/F#              G
+      Melhores em tudo
+
+        Em7
+Oh, oh, oh..
+
+Pré-refrão:
+
+C9              G/B
+   Vivemos esperando
+C9                 G/B
+   O dia em que seremos para sempre
+C9              G/B
+   Vivemos esperando
+        Am7
+Oh, oh, oh..
+
+Refrão:
+
+ G       C9        G     C9
+Dias melhores pra sempre
+ G       C9
+Dias melhores
+     G     Em7  G  Em7  D4/F#
+Pra sempre
+
+Primeira Parte:
+
+G                            Em7
+  Vivemos esperando dias melhores
+G                      Em7
+  Dias de paz, dias a mais
+ D4/F#                   G
+Dias que não deixaremos para trás
+        Em7
+Oh, oh, oh..
+
+Pré-refrão:
+
+C9              G/B
+   Vivemos esperando
+C9                 G/B
+   O dia em que seremos para sempre
+C9              G/B
+   Vivemos esperando
+        Am7
+Oh, oh, oh..
+
+Refrão Final:
+
+ G       C9        G     C9
+Dias melhores pra sempre
+ G       C9        G     C9
+Dias melhores pra sempre
+ G       C9        G     C9
+Dias melhores pra sempre
+ G       C9
+Dias melhores
+     G     Em7  D4/F#  G  Em7  D4/F#
+Pra sempre
+     G
+Pra sempre
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 3
+C9 = X 3 2 0 3 3
+D4/F# = 2 X 0 2 3 3
+Em7 = 0 2 2 0 3 3
+G = 3 2 0 0 3 3
+G/B = X 2 0 0 3 3

@@ -1,0 +1,96 @@
+@titulo: meninos-e-meninas
+@autor:
+@intérprete: Renato Russo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renato Russo - Meninos e Meninas
+
+Intr.: (D G A)
+ D                            G       A
+ Quero me encontrar, mas não sei onde estou
+       D                     G        F
+ Vem comigo procurar algum lugar mais calmo
+ C            D    C          D         Em         A
+ Longe dessa confusão e dessa gente que não se respeita
+       G         D       Bm     C       D
+ Tenho quase certeza que eu não sou daqui
+
+          A
+ Acho que gosto de São Paulo
+    C           D
+ Gosto de São João
+ A                         C        D
+ Gosto de São Francisco e São Sebastião
+      Em                   G    A
+ E eu gosto de meninos e meninas
+
+     D                            G            A
+ Vai ver que é assim mesmo e vai ser assim pra sempre
+
+       D                             G        F
+ Vai ficando complicado e ao mesmo tempo diferente
+          C       D           C    D
+ Estou cansado de bater e ninguém abrir
+            Em      A      G    D
+ Você me deixou sentindo tanto frio
+
+ Bm           C     D
+ Não sei mais o que dizer
+A              C          D
+ Te fiz comida, velei teu sono
+A               C          D
+ Fui teu amigo, te levei comigo
+           Em                        G A
+ E me diz: pra mim o que é que ficou?
+
+ D                    G       A
+ Me deixa ver como viver é bom
+         D                           G        F
+ Não é a vida como está, e sim as coisas como são
+          C        D      C  D
+ Você não quis tentar me ajudar
+      Em A            G   D             Bm   C D
+ Então, a culpa é de quem? A culpa é de quem?
+
+    A                     C  D
+ Eu canto em português errado
+
+            A               C               D
+ Acho que o imperfeito não participa do passado
+            Em
+ Troco as pessoas
+               G  A
+ Troco os pronomes
+
+    D                    G           A
+ Preciso de oxigênio, preciso ter amigos
+    D                     G         F
+ Preciso ter dinheiro, preciso de carinho
+ C            D       C                D
+ Acho que te amava, agora acho que te odeio
+      Em           A         G   D       Bm C D
+ São tudo pequenas coisas e tudo deve passar
+
+          A
+ Acho que gosto de São Paulo
+    C           D
+ Gosto de São João
+ A                         C        D
+ Gosto de São Francisco e São Sebastião
+      Em                   G     A   Int.
+ E eu gosto de meninos e meninas
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

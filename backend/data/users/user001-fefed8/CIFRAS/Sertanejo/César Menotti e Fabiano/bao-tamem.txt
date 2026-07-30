@@ -1,0 +1,74 @@
+@titulo: bao-tamem
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Bão Tamém
+
+Introdução: F#7 B  F#7 B  F#7 B  F#7
+
+                       B
+Se Chover E O Rio Encher
+              C#m
+O Que E Que Tem
+                     F#7
+Se O Nosso Time Perder
+        B
+Tudo Bem
+                   B7
+Se Voce Esta Sozinha
+          E
+Sem Ninguem
+                         B
+Se Quiser Ser Sempre Minha
+F#7      B
+Bão Tamem
+
+Se A Paixão Virar Loucura
+               C#m
+O Que E Que Tem
+
+                      F#7
+Se O Amor Uma Aventura
+        B
+Tudo Bem
+                      B7
+Se Voce Quiser Carinho
+          E
+Vem Que Tem
+                       B
+Se Minha Musica Estourar
+F#7      B
+Bão Tamem
+          F#
+Pra Que Sofrer Pra Que Chorar
+              B
+Se Ta Tudo Bem
+                  C#m
+No Frio Ou No Calor
+                    F#
+Na Tristeza Ou Na Dor
+        B
+Bão Tamem
+         F#
+Pra Que Sofrer Pra Que Chorar
+             B
+Se Ta Tudo Bem
+                    C#m
+Sozinho Ou Com Alguem
+             F#          B
+Do Jeito Que Vem Bão Tamem
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2

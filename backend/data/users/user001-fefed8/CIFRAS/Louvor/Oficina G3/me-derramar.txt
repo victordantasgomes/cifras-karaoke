@@ -1,0 +1,54 @@
+@titulo: me-derramar
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - Me Derramar
+
+Intro: G  D/F#  Em  C
+
+ G         D/F#
+Eis me aqui outra vez
+ Em               C
+Diante de ti abro meu coração
+        G             D/F#
+Meu clamor tu escutas
+    Em             C
+E fazes cair as barreiras em mim
+
+     G               D/F#
+Es fiel senhor, e dizes
+    Em              C
+palavras de amor e esperança sem fim
+       G    D/F#
+Ao sentir o teu toque
+       Em            C
+por tua bondade libertas meu ser
+        Am   G/B   C      D
+No calor deste lugar eu venho
+
+
+Refrão:
+ G           D/F#
+Me derramar, dizer que te amo
+Em           C
+Me derramar, dizer te preciso
+G            D/F#
+Me derramar, dizer que sou grato
+Em           C
+Me derramar, dizer que es formoso
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

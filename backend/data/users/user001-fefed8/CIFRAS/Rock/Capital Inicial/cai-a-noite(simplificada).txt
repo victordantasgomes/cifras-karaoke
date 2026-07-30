@@ -1,0 +1,97 @@
+@titulo: cai-a-noite(simplificada)
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Cai a Noite
+
+(versão simplificada)
+
+(intro) C9  G/B  G/Bb  D  C9  G/B  G/Bb  D  D4  D  D9  D
+
+ D                D4
+Cai a noite na cidade
+D           D9
+Vinda de lugar nenhum
+D              D4
+E o dia vai embora
+D           D9
+Indo pra lugar algum
+D           D4
+Não sentia fome
+D            D9
+Não sentia frio
+D            D4
+Sentado num canto
+D       D9
+De um quarto vazio
+
+
+      C9         G/B
+      Quando a chuva cai
+      G/Bb             D       D4
+      Nas noites mais solitárias
+      C9         G/B      G/Bb
+      Lembre-se que sempre...
+
+ D         D4
+Sombras e pensamentos
+       D         D9
+De um sonho só esperança
+D             D4
+Nas paredes ecoavam
+D            D9
+O silêncio e a lembrança
+D             D4
+Entre ruas desertas
+D                  D9
+Ele está só de passagem
+D           D4
+Da vertigem e tontura
+D                      D9
+Surgiam todo tipo de imagens
+
+(refrão)
+      C9              G/B
+      Quando a chuva cai
+      G/Bb             D
+      Nas noites mais solitárias
+      C9             G/B
+      Lembre-se que sempre
+      G/Bb      D
+      Estarei aqui
+
+      C9         G/B
+      Quando a chuva cai
+      G/Bb             D       D4
+      Nas noites mais solitárias
+      C9         G/B      G/Bb
+      Lembre-se que sempre...
+
+(ponte)
+Dm
+Se virou e alcançou o céu
+Dm
+E a última estrela
+Dm
+Nada deixava passar
+Dm
+Tudo lembrava ela
+
+(refrão)
+(intro)
+
+----------------- Acordes -----------------
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D9 = X X 0 2 3 0
+Dm = X X 0 2 3 1
+G/B = X 2 0 0 3 3
+G/Bb = X 1 0 0 3 3

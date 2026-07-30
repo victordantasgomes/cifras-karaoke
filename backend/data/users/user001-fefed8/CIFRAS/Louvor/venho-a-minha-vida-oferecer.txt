@@ -1,0 +1,93 @@
+@titulo: venho-a-minha-vida-oferecer
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Venho a Minha Vida Oferecer
+
+[Intro]  G G/B C9 D4 D9
+         G G/B C9 D4 D9
+
+G9                 D/F#     Em/G Em
+Venho Senhor minha vida oferecer
+C7M          G9/B      Am7   D9
+Como oferta de amor e sacrifício
+G9          D/F#    Em   Em/D
+Quero minha vida a ti entregar
+C           D4             G9  C# C
+Como oferta viva em teu altar
+
+G9                 D/F#     Em/G Em
+Venho Senhor minha vida oferecer
+C7M          G9/B      Am7   D9
+Como oferta de amor e sacrifício
+G9          D/F#    Em   Em/D
+Quero minha vida a ti entregar
+C           D4             G9  G7
+Como oferta viva em teu altar
+
+
+C    D/C       Bm   Em
+Pois pra te adorar
+C    D7      Em
+Foi que eu nasci
+Bm              C7+
+Cumpra em mim o teu querer
+Am7        D4               Dm G7
+Faça o que está em teu coração
+C            D/C    D#º             Em
+E que a cada dia eu queira mais e mais
+    Am  Bm7  C   D7     G9   G7
+Estar   ao   teu lado Senhor
+
+C    D/C       Bm   Em
+Pois pra te adorar
+C    D7      Em
+foi que eu nasci
+Bm             C7+
+Cumpra em mim o teu querer
+Am7        D4               Dm G7
+Faça o que está em teu coração
+C            D/C    D#º             Em
+E que a cada dia eu queira mais e mais
+    Am  Bm7  C   D7     G9   G7
+Estar   ao   teu lado Senhor
+
+C             D/C    D#º             Em
+E que a cada dia eu queira mais e mais
+    Am  Bm7  C   D7
+Estar   ao   teu lado
+    Am  Bm7  C   D7         G9
+Estar   ao   teu lado.... Senhor
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C7+ = X 3 2 0 0 X
+C7M = X 3 2 0 0 X
+C9 = X 3 5 5 3 3
+D#º = X X 1 2 1 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+D7 = X X 0 2 1 2
+D9 = X X 0 2 3 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+Em/G = 3 X 2 4 5 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3
+G9 = 3 X 0 2 0 X
+G9/B = 7 X X 7 8 5

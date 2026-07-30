@@ -1,0 +1,121 @@
+@titulo: fica-aqui-pai
+@autor:
+@intérprete: Ministério Zoe
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Zoe - Fica Aqui, Pai
+
+Afinação: D A D G B E
+
+[Intro] Dm  G9  Bb  Am
+        Dm  G  Bb
+
+              Dm       G9    Bb           Am
+E|---------------------3------------------------------|
+B|----------------3-1--3----------3----------1--------|
+G|--------------2------4------------3----------2------|
+D|------------0--------7-------3------3---------------|
+A|---------------------5-----1------------0-----------|
+D|-5-7-3b--0---------------------------------------5~-|
+
+                       G     Bb9
+E|---------------------3-----1------------------------|
+B|----------------3-1--3-----1------------------------|
+G|----0---------2------4-----3------------------------|
+D|------------0--------5-----3------------------------|
+A|---------------------5-----1------------------------|
+D|--3---3-0-------------------------------------------|
+
+
+ F                         Dm
+Faz tanto tempo que não ficamos a sós
+                Bb9            Gm
+Eu ando tão corrido, Tão distraído. Me esqueço de você
+F                                    Dm
+Eu penso em tirar um tempo pra conversar
+                          Bb9   C9
+Mas eu não sei o que acontece
+                            Dm     Am
+E quando eu vejo o dia já acabou
+                    Gm  Dm  Am  G  Bb9
+E já vai alta madrugada
+
+            Dm   Am
+Hoje eu te peço Pai
+             Gm
+Passa por aqui
+               Dm   Am
+Entra no meu quarto
+                G
+Senta na minha cama
+    Bb9                    Dm  Am
+Eu tenho tanto pra te falar
+                Gm
+Mas quero te ouvir
+                               Dm  Am
+Eu já nem lembro mas o som da tua voz
+             G   Bb9
+Eu tenho saudades
+
+[Solo] Dm  Bb9  Dm  G  Bb9
+
+F                             Dm
+Conte uma historia pra eu dormir
+                       Bb9  Gm
+Uma historia da eternidade
+F                          Dm
+Cante uma musica pra eu ouvir
+            Bb                          C9
+Uma música da criação, que as estrelas cantavam pra você
+
+Dm    Am       Gm
+   Fica aqui, Pai
+                  Dm7           Am7          G  Bb
+Eu não sou tão segura o quanto tento mostrar
+Dm    Am       Gm
+   Fica aqui, Pai
+                  Dm            Am              G Bb9
+Eu não sou tão madura o quanto tento disfarçar
+
+Eu tenho medo
+Dm        Am                       Gm
+Eu não passo de uma criança que cresceu
+          Dm            Am            G          Bb    Dm  Am Bb
+Eu sou a mesma criança que você conheceu  Fica aqui,  Pai
+
+Dm    Am       Gm
+   Fica aqui, Pai
+                  Dm7           Am7          G  Bb
+Eu não sou tão segura o quanto tento mostrar
+Dm    Am       Gm
+   Fica aqui, Pai
+                  Dm            Am             G Bb9
+Eu não sou tão madura o quanto tento disfarçar
+
+Eu tenho medo
+Dm        Am                       Gm
+Eu não passo de uma criança que cresceu
+          Dm            Am            G          Bb    Dm  Am Bb
+Eu sou a mesma criança que você conheceu  Fica aqui,  Pai
+
+[Final] Dm  Am  G
+        Dm  Am  G Bb9  Dm
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+Bb9 = X 1 3 3 1 1
+C9 = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G9 = 3 X 0 2 0 X
+Gm = 3 5 5 3 3 3

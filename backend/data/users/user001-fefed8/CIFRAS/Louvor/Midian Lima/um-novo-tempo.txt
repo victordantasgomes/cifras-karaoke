@@ -1,0 +1,107 @@
+@titulo: um-novo-tempo
+@autor:
+@intérprete: Midian Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Midian Lima - Um Novo Tempo
+
+[Intro]  D  D6  D  D6
+
+              Em7            A/C#
+Recebe o que Deus tem para ti
+                  D              Bm
+Recebe o que ele põe em suas mãos
+             Em       A/C#
+Recebe cura libertação
+               G       D
+Deus tem o melhor pra ti
+           Em         A
+Recebe alimento do céu
+                  D          Bm
+Pois essa é a vontade de Deus
+             Em           A       G/D   D
+Não basta somente entender, é preciso crer
+
+             G              A/G
+Que o choro pode durar uma noite
+           F#m             Bm
+Mas a alegria vem pela manhã
+
+        Em7           A             G         D
+Você lutou e um novo tempo, eu apresento a você
+         G             A/G           F#m            Bm
+Dias melhores dias de paz, dias de amor eu vou cumprir
+             Em7       A             G        D
+Tudo que um dia em profecia, eu revelei para ti
+
+           G#m7(b5)  Gm          F#m7  Bm
+É um novo tem-------po, um novo tem---po
+         Em7              A7                    D
+Eu profetizo hoje na sua vida agora em nome de Jesus
+           G#m7(b5)  Gm          F#m7  Bm
+É um novo tem-------po, um novo tem---po
+         Em7              A7                    D
+Eu profetizo hoje na sua vida agora em nome de Jesus
+
+( D6 )
+
+              Em7            A/C#
+Recebe o que Deus tem para ti
+                  D              Bm
+Recebe o que ele põe em suas mãos
+             Em       A/C#
+Recebe cura libertação
+               G       D
+Deus tem o melhor pra ti
+           Em         A
+Recebe alimento do céu
+                  D          Bm
+Pois essa é a vontade de Deus
+             Em           A       G/D   D
+Não basta somente entender, é preciso crer
+
+             G              A/G
+Que o choro pode durar uma noite
+           F#m             Bm
+Mas a alegria vem pela manhã
+        Em7           A             G         D
+Você lutou e um novo tempo, eu apresento a você
+         G             A/G           F#m            Bm
+Dias melhores dias de paz, dias de amor eu vou cumprir
+
+[Final]  D  D6  D  D6
+             Em7       A             G        D
+Tudo que um dia em profecia, eu revelei para ti
+
+           G#m7(b5)  Gm          F#m7  Bm
+É um novo tem-------po, um novo tem---po
+         Em7              A7                    D
+Eu profetizo hoje na sua vida agora em nome de Jesus
+           G#m7(b5)  Gm          F#m7  Bm
+É um novo tem-------po, um novo tem---po
+         Em7              A7                    D
+Eu profetizo hoje na sua vida agora em nome de Jesus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+A7 = X 0 2 0 2 0
+Abm7b5 = 4 X 4 4 3 X
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D6 = X 5 4 2 0 X
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G/D = X 5 5 4 3 X
+Gm = 3 5 5 3 3 3

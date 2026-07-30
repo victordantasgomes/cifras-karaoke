@@ -1,0 +1,90 @@
+@titulo: mal-nenhum
+@autor:
+@intérprete: Cazuza
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cazuza - Mal Nenhum
+
+(Cazuza e Lobão)
+
+intr.:
+        (         2x                     )   (     1x                        )
+riff:e||-----------------------------------|----------------------------------|
+     B||----0-------0-------0-------0------|------0-------0-------0-------0---|
+     G||------0-------0-------0-------0----|----0---0---0---0---0---0---0---0-|
+     D||--2-----2-4-----4-5-----5-4-----4--|----------4-------5-------4-------|
+     A||-----------------------------------|--0-------------------------------|
+     E||-----------------------------------|----------------------------------|
+
+         (          1x               ) (   Em    )
+     e||-----------------------------|--0--------|
+     B||-------0--------------0------|--0--------|
+     G||-----0----0---------0---0----|--0--------|
+     D||---2-------2------2-------2--|--2--------|
+     A||-3--------------5------------|--2--------|
+     E||-----------------------------|--0--------|
+
+Em
+Nunca viram ninguém triste
+
+A
+Por que não me deixam em paz
+C7                      A
+As guerras são tão tristes
+Em
+E não tem nada de mais
+Me deixem bicho acuado
+          A
+Por um inimigo imaginário
+   C7                 A
+Correndo atrás dos carros
+     Em
+Como um cachorro otário
+Me deixem ataque equivocado
+A
+Por um falso alarme
+C7M                  A
+Quebrando objetos inúteis
+          Em
+Como quem leva uma topada.
+                        A
+Me deixem amolar e esmurrar
+             C7M
+A faca cega, cega da paixão
+A                       Em
+E dar tiros a esmo e ferir
+o mesmo cego coração.
+Não escondam suas crianças
+A
+Nem me chamem o síndico
+        C7M
+Nem me chamem a polícia
+         A                Em
+Nem me chamem o hospício, não
+                   A         Am
+Eu não posso causar mal nenhum
+       C
+A não ser a mim mesmo
+       D
+A não ser a mim mesmo
+       Em                         A     Am
+A não ser a mim mal ma ma ma ma mal mal nenhum
+       C            D
+a não ser a mim mesmo
+Em
+A não ser a mim.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+C7M = X 3 2 0 0 X
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0

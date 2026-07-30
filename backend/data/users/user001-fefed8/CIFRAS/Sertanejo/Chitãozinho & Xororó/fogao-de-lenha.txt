@@ -1,0 +1,94 @@
+@titulo: fogao-de-lenha
+@autor:
+@intérprete: Chitãozinho & Xororó
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Chitãozinho & Xororó - Fogão de Lenha
+
+Intro: E  C#m  A  F#m  B7
+
+E|---7--5--4--7---7h9p7----------------|
+B|---9--7--5--9---9--------------------|
+G|-------------------------------------|
+D|-------------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+
+E|---7--5--4---5-5--7--9---7--5--9-----|
+B|---9--7--5---7-7--9--10--9--7--10----|
+G|-------------------------------------|
+D|-------------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+
+E|---9--9---12-12--11/9---11-----------|
+B|---10-10--14-14--12/10--12-----------|
+G|-------------------------------------|
+D|-------------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+
+
+   E          Ab           A
+Espere minha mãe estou voltando
+     C#7                  F#m
+Que falta faz pra mim um beijo seu
+     A            Ab     C#m
+O orvalho das manhãs cobrindo as flores
+    F#7                      B7
+Um raio de luar que era tão meu
+
+   E            Ab               A
+O sonho de grandeza, ó mãe querida
+    C#7              F#m
+Um dia separou vocês e eu
+    A         Ab         C#m
+Queria tanto ser alguém na vida
+  F#7                         B7
+Apenas sou mais um que se perdeu
+
+ B7       E           E7           A
+Pegue a viola e a sanfona que eu tocava
+          F#m         B7            E    B7
+Deixe um bule de café em cima do fogão
+          E            E7        A
+Fogão de lenha, e uma rede na varanda
+        F#m           B7                    E      B7
+Arrume tudo mãe querida, que seu filho vai voltar
+
+(Solo)
+
+ E             Ab         A
+Mãe eu lembro tanto a nossa casa
+    C#7                        F#m
+As coisas que falou quando eu saí
+ A             Ab      C#m
+Lembro do meu pai que ficou triste
+   F#7                                B7
+E nunca mais cantou depois que eu parti
+
+ E          Ab            A
+Hoje eu já sei, ó mãe querida
+ C#7                        F#m
+Nas lições da vida eu aprendi
+       A           Ab       C#m
+O que eu vim procurar aqui distante
+    F#7                         B7
+Eu sempre tive tudo e tudo está aí
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Ab = 4 3 1 1 1 4
+B7 = X 2 1 2 0 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2

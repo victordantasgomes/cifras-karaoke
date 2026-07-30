@@ -1,0 +1,108 @@
+@titulo: caras-como-eu
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Caras Como Eu
+
+Intro: C7  C6
+       C7 33 32 30 43 42 40 C
+
+ C          G
+ Caras como eu
+ F             Am
+ Estão ficando raros
+ F             Am
+ Como cabelos ralos
+ G              F
+ Que se batem e caem
+        C G
+ pelo chão
+ C          G
+ Caras como eu
+ F               Am
+ Estão tirando o pé
+ F              Am
+ Andando em marcha-ré
+ G              F
+ Com medo de entrar na
+
+        C G
+ contramão
+ D               C      F
+ Como trens do interior
+           C
+ Que não chegam no
+ G
+ horário
+ D              C       F
+ Como velhos elefantes
+        C       G
+ Que morrem solitários
+ C          G
+ Caras como eu
+ F                Am
+ Estão ficando chatos
+ F               Am
+ Como solas de sapatos
+ G
+ Que se gastam
+ Dm        G     C  G
+ Com o passar do tempo
+
+Refrão:
+ F                    Am
+ Nao vou mais medir o tempo
+ F                      C
+ Nao vou mais contar as horas
+ F                    Am
+ Vou me entregar ao momento
+ G              Dm
+ Nao vou mais tentar matar
+      C
+ o tempo
+
+Solo: C7  C6
+      C7  F  C
+
+ D                C
+ Como palavras de amor
+ F              Am
+ Que nao se guardam em
+     G
+ disquetes
+ D             C
+ Como segredos sem valor
+ F      C             G
+ Que a gente nunca esquece
+ C          G
+ Caras como eu
+ F              Am
+ Estao ficando velhos
+ F                Am
+ Calçando os seus chinelos
+ G          Dm      G
+ Concluindo que não ha
+      C  G
+ mais tempo
+
+(Refrão 3x)
+
+Solo: C7  C6
+      C7  F  C
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C6 = 8 X 7 9 8 X
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

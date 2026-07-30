@@ -1,0 +1,99 @@
+@titulo: largado-no-mundo
+@autor:
+@intérprete: Cazuza
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cazuza - Largado No Mundo
+
+
+D                         A
+ O que você quer com esse papo
+ Eu não sei
+            E
+ Me paga um trago
+           E4
+ Que eu dichavo o meu
+D
+ Tudo o que eu falo
+        A
+ É piração, é bobagem
+             E
+ Porque pra mim
+            A        E
+ Qualquer viagem é viagem
+G           G#
+ Largado no mundo
+    D               C
+ Eu vivo largado no mundo
+G           G#
+ Largado no mundo
+
+    D       C       A
+ Eu vivo largado no mundo
+D
+ Na minha cabeça
+         A
+ Toca "Free again"
+       E
+ De esquina em esquina
+       E4
+ De vintém em vintém
+D
+ Mando mensagens
+        A
+ Quase sempre em vão
+             E
+ Palavra que eu sou bom
+ A          E
+ Ah, eu sou tão...
+G           G#
+ Largado no mundo
+    D               C
+ Eu vivo largado no mundo
+G           G#
+ Largado no mundo
+ D        C          A
+ E nessa trip eu vou fundo
+D
+ Mas Deus protege
+      A
+ Quem vive sem casa
+E
+ Pro bem dos homens
+       E4
+ Fez a cobra sem asa
+D
+ Sem teto hoje
+        A
+ Amanhã no Sheraton
+             E
+ Eu entro em todas
+     A       E
+ Sem sair do
+G           G#
+ Chiquita Bacana
+   D             C
+ Aurora em Copacabana
+G           G#
+ Largado no mundo
+    D       C       A
+ Eu vivo largado no mundo
+ Am   Em   Em7(9)   Am   Em   Em7(9)   A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+Em = 0 2 2 0 0 0
+Em7(9) = X 7 5 7 7 X
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

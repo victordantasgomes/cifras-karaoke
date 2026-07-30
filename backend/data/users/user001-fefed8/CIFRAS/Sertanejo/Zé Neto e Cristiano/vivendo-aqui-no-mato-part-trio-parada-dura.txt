@@ -1,0 +1,166 @@
+@titulo: vivendo-aqui-no-mato-part-trio-parada-dura
+@autor:
+@intérprete: Zé Neto e Cristiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zé Neto e Cristiano - Vivendo Aqui No Mato (part. Trio Parada Dura)
+
+[Intro] C  E7  F  G  C  G7
+
+[Solo]
+
+Parte 1 de 5
+E|----------------------------------------------------|
+B|----------------------------------------------------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|-------3h5-3----------------------------------------|
+E|---3h5----------------------------------------------|
+
+Parte 2 de 5
+E|--------------12-12-12--13--12-12h13p12--10---7-----|
+B|--------------13-13-13--15--13-13--------12--9------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+Parte 3 de 5
+
+E|--7-7-7--12--10-10h12p10----8---10------------------|
+B|--9-9-9--13--12-12--------10--12--------------------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+Parte 4 de 5
+E|----------------------------------------------------|
+B|----------------------------------------------------|
+G|--4h5-7-4-5-----------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+Parte 5 de 5
+E|----------------------------------------------------|
+B|-----6---5---3---1----------------------------------|
+G|----------------------------------------------------|
+D|--5/7---5---3---2-----------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+[Primeira Parte]
+
+      C                  G/B                Am  Am/G
+Não troco o seu despertador pelo cantar do galo
+ F                     C               Dm    Dm/C
+Não troco o seu carro bonito pelo meu cavalo
+
+      E7                            Am
+Não troco seu ar poluído pelo pó da estrada
+               F               C
+Aqui não tem trânsito, só tem boiada
+             G7                   C    G7 Am Bm
+Nosso céu é limpo e a noite enluarada
+
+[Pré-Refrão]
+
+C                G/B                  Am  Am/G
+Aqui o nosso alimento é a gente quem faz
+     F                 C                Dm  Dm/C
+Plantamos de tudo pro gasto e um pouco mais
+
+   E7                                 Am
+E se vier fazer visita é que a gente gosta
+         F                C
+Moda de viola e uma boa prosa
+             G7                     C     G7 Am Bm
+Em volta da fogueira então a gente mostra
+
+[Refrão]
+
+         C
+Meu amanhecer tem o cantar do galo
+             E7
+O cheiro do mato com gota de orvalho
+            F             G                     C   G7 Am Bm
+E é tão gostoso beber um café olhando o sol nascer
+          C
+Pego meu cavalo e saio pelo pasto
+             E7
+Toco meu berrante apartando o gado
+                F                G                   C
+Sei que sou caipira mas vivo melhor morando aqui no mato
+
+( C  E7  F  G  C  B7 )
+
+[Pré-Refrão]
+
+ E               B/D#                  C#m
+Aqui o nosso alimento é a gente quem faz
+     A               E               F#m
+Plantamos de tudo pro gasto e um pouco mais
+
+   G#7                                 C#m
+E se vier fazer visita é que a gente gosta
+         A                   E
+Moda de viola e  uma boa prosa
+             B7                     E    B7 C#m D#m
+Em volta da fogueira então a gente mostra
+
+[Refrão]
+
+         E
+Meu amanhecer tem o cantar do galo
+             G#7
+O cheiro do mato com gota de orvalho
+            A             B                     E   B7 C#m D#m
+E é tão gostoso beber um café olhando o sol nascer
+          E
+Pego meu cavalo e saio pelo pasto
+             G#7
+Toco meu berrante apartando o gado
+                A                B                   E  B7 C#m D#m
+Sei que sou caipira mas vivo melhor morando aqui no mato
+
+E
+Meu amanhecer tem o cantar do galo
+             G#7
+O cheiro do mato com gota de orvalho
+            A             B                     E   B7 C#m D#m
+E é tão gostoso beber um café olhando o sol nascer
+          E
+Pego meu cavalo e saio pelo pasto
+             G#7
+Toco meu berrante apartando o gado
+                A                B                   A  B  E
+Sei que sou caipira mas vivo melhor morando aqui no mato
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D#m = X X 1 3 4 2
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#7 = 4 6 4 5 4 4
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

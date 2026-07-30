@@ -1,0 +1,93 @@
+@titulo: nem-1-dia
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Nem + 1 Dia
+
+(intro 2x) G G/F Em7 G
+
+( C9 G13 Am G13 )
+o café me deixou ligado
+você ficou de ligar
+a noite foi um inferno
+desespero de esperar
+( C9 G13 Am G13 )
+o passado voltou rasgando
+você ficou de voltar
+antes que eu sentisse a falta
+antes que faltasse o ar
+  C9                   G13
+o sol voou rasante pra me bombardear
+Bb
+boca de extinguir espécies
+Am                          C9
+mãos de acelerar partículas
+Bb                          Am
+antenas para radioatividade
+( G G/F Em7 G )
+olhos de ler código de barras
+
+     Em          Am            ( G G/F Em7 G )
+se viver fosse viver sem você...  que bom seria
+Em                     Am            ( G G/F Em7 G )
+ mas não dá mais pra viver sem você...  nem mais um dia
+     Em          Am            ( G G/F Em7 G )
+se viver fosse viver sem você...  que bom seria
+Em                     Am    ( G G/F Em7 G )
+ mas não dá mais pra viver
+C9
+chame de exagero
+G13
+diga que é bobagem
+        Am               G13
+vou deletar meu corpo da tua tatuagem
+C9
+puro desespero
+G13
+autosabotagem
+   Am              G13
+tô fora do teu programa de milhagem
+Bb
+boca de extinguir espécies
+Am                          C9
+mãos de acelerar partículas
+Bb                          Am
+antenas para radioatividade
+( G G/F Em7 G )
+olhos de ler código de barras
+
+(solo 2x)
+     Em              Am             G       G/F     Em7     G
+E|---------------------------0-----7---7---8---8---7---7---8---8-----|
+B|----------0-------------1--3>5----8-8-8-8-8-8-8-8-8-8-8-8-8-8-8----|
+G|--------0---2-0-------2------------7---7---7---7---7---7---7---7---|
+D|------2---------2---2----------------------------------------------|
+A|----2-------------0------------------------------------------------|
+E|--0----------------------------------------------------------------|
+
+     Em          Am            ( G G/F Em7 G )
+se viver fosse viver sem você...  que bom seria
+Em                     Am            ( G G/F Em7 G )
+ mas não dá mais pra viver sem você...
+     Em          Am            ( G G/F Em7 G )
+se viver fosse viver sem você...  que bom seria
+Em                     Am    ( G G/F Em7 G )  C
+ mas não dá mais pra viver sem você
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/F = 1 X X 0 0 3
+G13 = 3 X 2 4 3 X

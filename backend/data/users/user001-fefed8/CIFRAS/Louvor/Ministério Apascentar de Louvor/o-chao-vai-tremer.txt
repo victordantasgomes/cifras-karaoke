@@ -1,0 +1,96 @@
+@titulo: o-chao-vai-tremer
+@autor:
+@intérprete: Ministério Apascentar de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Apascentar de Louvor (Toque No Altar) - O Chão Vai Tremer
+
+[Intro] Em5+
+
+Em7
+Ele vem cavalgando nos montes
+C9
+Com seus pés de latão reluzente
+Am7         Bm7        Em7
+Tem os olhos de fogo e voz de trovão
+
+Em7
+Vem marchando com os seus cavaleiros
+C9
+Arvorando a sua bandeira
+Am7         Bm7         Em7
+Tem o cetro de ouro e a espada nas mãos
+
+Am
+Ele vem revestido de branco
+C9
+Ele É Santo, Ele É Santo, Ele É Santo
+Am         D           Em7
+Eu já posso ouvir os seus passos aqui
+
+Am
+Ele vem coroado de glória
+C9
+É agora, é agora, é agora
+Am7           C         B7
+Que o chão vai tremer e o céu vai se abrir
+
+        Em           C/E
+O chão vai tremer, o céu vai se abrir
+      D           Em7
+Os anjos de Deus vão descer e subir
+
+      D         Em
+Senhor dos exércitos é o seu Nome
+
+( Em7  Am/E  D/E  Em7 ( D/E ) Em7 )
+
+        Em           C/E
+O chão vai tremer, o céu vai se abrir
+     D           Em7
+Os anjos de Deus vão descer e subir
+        Em           E/C
+O chão vai tremer, o céu vai se abrir
+      D          A/C# Bb9
+Os anjos de Deus vão descer e subir
+
+[Solo] Bb/D  C  F  C/E  D  G   F  C  F  Bb9  Bb9  C  D
+
+       (E5   F5 D5)     (E5  F5 D5)
+O chão vai tremer, o céu vai se abrir
+     D5           (E5 F5 D5)
+Os anjos de Deus vão descer e subir
+       (E5   F5 D5)     (E5  F5 D5)
+O chão vai tremer, o céu vai se abrir
+       D5          Em7
+Os anjos de Deus vão descer e subir
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+Am/E = 0 X 2 2 1 0
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+Bb/D = X 5 X 3 6 6
+Bb9 = X 1 3 3 1 1
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+D5 = X 5 7 7 X X
+E/C = X 3 2 1 0 0
+E5 = 0 2 2 X X X
+Em = 0 2 2 0 0 0
+Em5+ = X X 2 0 1 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F5 = 1 3 3 X X X
+G = 3 2 0 0 0 3

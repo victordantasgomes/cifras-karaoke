@@ -1,0 +1,92 @@
+@titulo: dias-de-elias
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Dias de Elias
+
+INTRO: D : G : D/F# : G : A : Bm : Bm/A : G : D/F# : Em : G/A : F#m7:2X
+
+ D         A/C#     Bm     G4
+Ouvi Tua palavra e tremi Senhor
+ Em      D        A4 A
+Aviva, aviva Tua obra
+  D            A/C#        Bm         G4
+Olha dentro em mim está jorrando um clamor
+ Em      D         A4 A
+Aviva, aviva Tua obra
+
+ D/F#      G4   D/F#
+Cumpre em nós Senhor
+            G4     D/F#
+Derrama em nós Senhor
+      G4        D/F#               A4 A
+O avivamento prometido aos nossos pais
+
+             REFRÃO
+
+   A/C#      D             F#7
+Viverei pra ver descer do céu
+
+             Bm          D7
+Sobre toda carne o Teu poder
+       G                  D/F#
+Tua Shekiná enchendo a terra
+         Em             A4 A
+Como ás águas cobrem o mar
+           D          F#7
+Restaurando vidas e nações
+       Bm            D7
+E despedaçando as prisões
+          G           D/F#
+E libertando a minha geração
+         Em      A4 A        D  D4 D
+Pra um tempo de poder e adoração
+
+[ RETORNA PARA CUMPRE EM NÓS SENHOR...]
+
+       F#4     F#             Bm
+Virão dias de Elias sobre a terra
+      F#4         F#                   Bm
+Convertendo os corações dos filhos aos pais
+       G              A/G
+E a figueira então florescerá
+           G             A/G
+Dos seus frutos todos comerão
+     Em              D/F#
+E eu não abro mão de viver
+               G    G/B   A/C#
+Isso em minha geração
+
+[[GUITAR SOLO]]
+
+base solo: :: D : F#7 : Bm : D7 : G : D/F# : Em : A4 : A : D ::
+
+[RETORNA AO REFRÃO]
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+A4 = X 0 2 2 3 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#4 = 2 4 4 4 2 2
+F#7 = 2 4 2 3 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G4 = 3 5 5 5 3 3

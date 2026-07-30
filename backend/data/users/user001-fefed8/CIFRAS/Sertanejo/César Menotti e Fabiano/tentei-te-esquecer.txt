@@ -1,0 +1,73 @@
+@titulo: tentei-te-esquecer
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Tentei Te Esquecer
+
+[Intro]  D  G  A  Bm  G  A
+
+[Solo]
+
+E|-------2-2h3p2-----------------------2-3-5--3-2-5-5/7-5-3-------------------|
+B|---3-5---------3-----------------3-5----------------------/5-----3---3-3/5--|
+G|-2---------------2h4-2-4-2~~---2-----------------------------2-4---4--------|
+D|----------------------------------------------------------------------------|
+A|----------------------------------------------------------------------------|
+E|----------------------------------------------------------------------------|
+
+           D             G          A
+Ah! Como quero te encontrar novamente
+         D          G       A
+Estou sozinho procurando você
+           D           G           A
+Ah! Como quero te abraçar loucamente
+              Em                 A                   D   G  A
+Olhar dentro dos teus olhos e dizer "não vivo sem você"
+         D           G             A
+O tempo passa cai à noite e o dia vem
+
+          D                 G       A
+Tento fingir, mas não deu pra esconder
+        D                 G            A
+Ah! Eu sonhei nas noites vagas com seu amor
+    F#      Bm        G         A
+Provei teu beijo, magoei minha dor
+
+                D  G     A
+Tentei te esquecer  não deu
+            D          G             A
+Pensei que fosse mais forte que esse amor
+            D  G     A
+Ó minha paixão  sou teu
+                  D        G          A
+Por mais que eu queira disfarçar como estou
+       F#         Bm    A    G  D/F#
+O meu coração se nega a aceitar
+         Em              A7          D  A
+Passa o tempo não me esqueço de te amar
+         Em              A7          D
+Passa o tempo não me esqueço de te amar
+
+E|-------2-2h3p2----2----------------|
+B|---3-5---------5--3----------------|
+G|-2----------------2----------------|
+D|-----------------------------------|
+A|-----------------------------------|
+E|-----------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

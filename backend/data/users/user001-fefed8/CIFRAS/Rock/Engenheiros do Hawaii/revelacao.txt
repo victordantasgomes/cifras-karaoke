@@ -1,0 +1,94 @@
+@titulo: revelacao
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Revelação
+
+(intro 2x) Am  Am/G  Am/F  E7(#9)
+
+( E7(#9) - xx2133 )
+
+(0:26)
+Am
+ um dia vestido
+Am/G              F7+
+ de saudade viva
+G            E7
+ faz ressucitar
+Am
+ casas mal vividas
+Am/G              F7+
+ camas repartidas
+G            E7 F#m G#m E
+ faz se revelar
+
+(refrão)
+A                 A7M
+  quando a gente tenta
+
+           A7                D  D4 D D9 Dm   (tocadas rápidas)
+De toda maneira dele se guardar
+              A    F#m            B7
+Sentimento ilhado, morto e amordaçado
+               E7
+Volta a incomodar
+
+A                 A7M
+  quando a gente tenta
+           A7                D  D4 D D9 Dm  (trocadas rápidas)
+De toda maneira dele se guardar
+              A    F#m            B7      E7
+Sentimento ilhado, morto e amordaçado
+
+Volta a incomodar
+
+(solo)
+E |--------|--------------------------------|
+B |--------|-----------11/12-13-12-10--9/10-|
+G |--------|----5-7b7-----------------------|
+D |-----7--|--7-----------------------------|
+A |-5h7----|--------------------------------|
+E |--------|--------------------------------|
+
+E |-----------------------------------------------|
+B |----9-10-9-7-9-7-------------------------------|
+G |------------------7-8-7-5-7b7--7-5-7-8-7-5-----|
+D |-------------------------------------------7b7-|
+A |-----------------------------------------------|
+E |-----------------------------------------------|
+
+(repete tudo - sem o solo)
+(repete refrão)
+
+               D  D4  Dm
+Volta a incomodar
+                   A
+Ele volta a incomodar.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+A7M = X 0 2 1 2 0
+Am = X 0 2 2 1 0
+Am/F = 1 X 2 2 1 X
+Am/G = 3 X 2 2 1 X
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D9 = X X 0 2 3 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+E7(#9) = X 7 6 7 8 X
+F#m = 2 4 4 2 2 2
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

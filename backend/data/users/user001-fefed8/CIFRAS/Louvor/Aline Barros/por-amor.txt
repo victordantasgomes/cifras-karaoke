@@ -1,0 +1,87 @@
+@titulo: por-amor
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Por Amor
+
+Intro: G  C  G  Am  G/B  C
+
+Estrofe:
+
+       C   D          G          C      D         G
+Sobre todo   poder y rey, sobre toda humanidad y ley
+ D/F#  Em        D           C  G/B
+Sobre todo lo creado por tu ma_no
+Am          C/G       D/F#  G
+inventaste todo mi Señor
+       C   D             G         C             D
+Sobre todo   reino y nación y maravillas que el mundo
+      G  D/F#  Em      D            C  G/B
+conoció sobre toda riqueza y esplendor
+ Am         C/G          B7(4)  B7
+nada se compara a ti mi Dios
+
+Refrão:
+
+G       Am    D/F#       G   G4    G     Am
+En la cruz moriste por amor,      no bastó
+
+   D/F#          G   D/F#  Em     D
+dolor y humillación como flor que alguien
+      C  G/B           Am  G/B            C  D       Em  D  C
+pisoteó      quedaste Tu       y fue por mi    por amor
+
+Estrofe:
+
+       C   D          G          C      D         G
+Sobre todo   poder y rey, sobre toda humanidad y ley
+ D/F#  Em        D           C  G/B
+Sobre todo lo creado por tu ma_no
+Am          C/G       D/F#  G
+inventaste todo mi Señor
+       C   D             G         C             D
+Sobre todo   reino y nación y maravillas que el mundo
+      G  D/F#  Em      D            C  G/B
+conoció sobre toda riqueza y esplendor
+ Am         C/G          B7(4)  B7
+nada se compara a ti mi Dios
+
+Refrão:
+
+G       Am    D/F#       G   G4    G     Am
+En la cruz moriste por amor,      no bastó
+   D/F#          G   D/F#  Em     D
+dolor y humillación como flor que alguien
+      C  G/B           Am  G/B            C  D       Em  C
+pisoteó      quedaste Tu       y fue por mi    por amor
+
+( Am  G/B  C  D/F# )
+
+G       Am    D/F#       G   G4    G     Am
+En la cruz moriste por amor,      no bastó
+   D/F#          G   D/F#  Em     D
+dolor y humillación como flor que alguien
+      C  G/B           Am  G/B            C  D       Em  D  C
+pisoteó      quedaste Tu       y fue por mi    por amor
+G/B           Am  G/B            C  D       Em  D  C  D  G
+    Quedaste Tu       y fue por mi    por amor
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+B7(4) = X 2 4 2 5 2
+C = X 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G4 = 3 5 5 5 3 3

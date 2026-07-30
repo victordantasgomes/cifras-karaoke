@@ -1,0 +1,58 @@
+@titulo: acende-a-chama
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Acende a Chama
+
+Intro: C#m A (2x)
+
+C#m            A  C#m          A
+ Desce como o fogo, vem sobre nós
+C#m          A   F#m           A
+ Acende tua chama. Glória e poder!
+C#m         A   C#m        A
+ Como lavandeiro purifica-nos
+C#m                A  F#m          B
+ Como a prata e o ouro vem nos moldar!
+                C#m
+ Oh, vem sobre nós!
+
+ B   A         B
+Vem, acende a chama
+ C#m  B   A     B
+Vem, vem purificar
+ C#m  B        A          B         F#
+Vem, vem sobre os que te adoram, Senhor!
+
+C#m   B    A        B
+Vem, vem, acende a chama
+ C#m  B    A     B
+Vem, vem, purificar
+ C#m  B        A          B         F#
+Vem, vem sobre os que te adoram, Senhor
+    F#m                B      G#,
+Até que se reflita em nós tua face!
+
+(Repete tudo)
+
+Solo: (C#m B F#) (2x)
+      (F#m A B)
+
+
+C#m B F#  C#m B F#  C#m B F# C#m
+Tua face, tua face, tua face
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G# = 4 3 1 1 1 4

@@ -1,0 +1,53 @@
+@titulo: telefone-mudo
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Telefone Mudo
+
+Intro 2x: G Am G/B,   C  G  D   G
+
+*G Am G/B
+
+    C                                G
+Eu quero que risque meu nome da sua agenda
+   D           C                 G     *G Am G/B
+Esqueça meu telefone, não me ligue mais
+    C                               G
+Porque já estou cansado de ser o remédio
+               D
+Pra curar seu tédio
+                                 G   *G D/F# Em
+Quando seus amores não lhe satisfaz
+   D
+Cansei de ser o seu palhaço
+   C                 G
+Fazer o que sempre quis
+                     D
+Cansei de curar sua fossa
+             C              G   *G D/F# Em
+Quando você não se sentia feliz
+
+     D
+Por isso é que decidi
+   C            G
+O meu telefone cortar
+                        D
+Você vai discar várias vezes
+          C        D     G
+Telefone mudo não pode chamar.    (Repetir desde o Começo)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

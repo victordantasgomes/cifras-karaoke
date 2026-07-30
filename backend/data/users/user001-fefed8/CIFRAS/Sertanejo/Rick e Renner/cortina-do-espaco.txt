@@ -1,0 +1,70 @@
+@titulo: cortina-do-espaco
+@autor:
+@intérprete: Rick e Renner
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rick e Renner - Cortina do espaço
+
+Intro: D A E7 A
+
+A                            E7
+Nuvem passageira cortina do espaço
+        C#7                           F#m
+Que as vezes passa sem lembrar de alguém
+         D                   A
+Ouça um pedido que a você eu faço
+      B7                        E7
+Não deixe faltar a chuva pra ninguém
+     D
+Se vier do sul ou se vier do norte
+          D                      A
+Pare um pouquinho aqui no meu sertão
+                              E7
+E chova bastante porque minha sorte
+         D            E7         A
+Está na semente que plantei no chão
+
+A A7          D                    C#m  :
+    Nuvem passageira nesse solo quente  :
+
+            D              A            :
+Há tempo não vejo meu mato verde        : Refrão
+         A   E/G#   D/F#        E7      :
+Minha plantação, meu rio e meu gado     :
+         D         E7        A          :
+Estão precisando saciar a sede          :
+
+A                             E7
+Quando a chuva passa o sol aparece
+             C#7            F#m
+Um lindo arco íris abraça você
+    D                          A
+O homem do campo contente agradece
+   B7                        E7
+Aquele pedido que fez pra chover
+          D
+Nuvem passageira que no mês de maio
+          D                    A
+Choveu pra vingar a cor do capim
+                              E7
+No campo do amor eu vivo de orvalho
+          D          E7          A
+Traga uns pinguinhos de chuva pra mim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

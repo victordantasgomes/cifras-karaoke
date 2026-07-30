@@ -1,0 +1,110 @@
+@titulo: un-dia-sin-ti
+@autor:
+@intérprete: Paula Fernandes
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Paula Fernandes - Un Dia Sin Ti
+
+Em
+Qué hora es?
+        C               D D4 D
+Bienvenida la mañana
+              Em       Am          D D4 D
+Tan sola yo y el cielo tan azul
+          Em        C                      D
+En mi café, en mi radio y en mi tele,
+                     A Am
+Siempre estás tu.
+                Em           C                   D D4 D
+Para empezar me levanto de la cama
+            Em           Am          D D4 D
+Y voy vistiéndome así como así
+                Em  C                    D
+Gracias a Dios tú no puedes verme
+                    A Am
+Llorando por ti.
+
+                D
+Un día sin ti
+
+              A                     Bm
+Es una eternidad, es un adiós
+                       G
+Que duele por dos
+            Em    D         A
+Sólo esperar, la soledad
+               Bm
+Un día sin ti.
+                Em            C                D D4 D
+Busco a tu voz y el teléfono me lleva
+                Em         Am          D D4 D
+Al puerto gris de tu contestador
+            Em          C                  D
+Ayúdame, yo no sé como pasarme
+               A  Am
+Un día sin ti.
+
+                D
+Un día sin ti
+              A                     Bm
+Es una eternidad, es un adiós
+                       G
+Que duele por dos
+             Em A
+Es una pena
+               Bm
+Un día sin ti.
+
+Em              G
+No tengo amigos
+             D              A
+Ni otra cosa que hacer
+Em        G               D
+Sólo pienso fuertemente en ti
+Em         G
+Me niego a ser tu amor
+     D                  A        C
+A cambio de un día sin ti
+                   B7
+Oh oh oh oh oh oh
+               E
+Un día sin ti
+              B                     C#m
+Es una eternidad, es un adiós
+                       A
+Que duele por dos
+            F#m    E         B
+Sólo esperar, la soledad
+               E
+Un día sin ti.
+              B                     C#m
+Es una eternidad, es un adiós
+                       A
+Que duele por dos
+             F#m B
+Es una pena
+               C#m B
+Un día sin ti.
+
+( A B E A A B E A )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

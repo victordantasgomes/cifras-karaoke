@@ -1,0 +1,207 @@
+@titulo: fantasma-part-marilia-mendonca
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Fantasma (part. Marília Mendonça)
+
+Intro: D5  Gm  A7  Dm
+
+Solo:
+
+Parte 1
+
+E|----------------------------------------------------|
+B|-8/10-10-8-8-5/6-5-6-5\3------6-5------6-3----------|
+G|----------------------------------------------------|
+D|-8/10-10-8-8-6/7-5-7-5\3-—5/7---5--5/7---3----------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+Parte 2
+
+E|----------------------------------------------------|
+B|-4/6-6-5-5-3-3-1-1h3--------------------------------|
+G|----------------------------------------------------|
+D|-5/7-7-5-5-3-3-2-2h3--------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+
+Primeira Parte:
+
+ Dm
+Quando anoitece lá fora
+             A        A4  A
+Aqui dentro faz tédio
+ Gm
+Mesmo querendo fugir
+                  Bb9
+Quando tento escapar
+             A       A4  A
+Chego ainda mais perto
+
+             Dm   D9  Dm
+Meu subconsciente
+           A           A4  A
+Vai atrás do seu corpo
+ Gm
+Tô viajando há horas
+                Bb9
+Quanto tempo demora
+              A     A4   A  A5
+Pra eu poder ficar louco
+
+Pré-refrão:
+
+                  Gm
+É só você e mais nada
+              Dm
+Aceito esse amor unilateral
+             Gm
+Você e mais nada
+              Dm
+Sem ele fico mal
+
+Refrão:
+
+                        Gm
+Não há razões para não ser feliz
+ C9
+Mas pra ser feliz
+    Dm
+Preciso de uma razão
+
+                Gm
+E o motivo é você
+              C9
+Sempre foi você
+         Dm
+O fantasma do meu coração
+
+                        Gm
+Não há razões para não ser feliz
+ C9
+Mas pra ser feliz
+    Dm
+Preciso de uma razão
+
+                Gm
+E o motivo é você
+              C9
+Sempre foi você
+         Dm
+O fantasma do meu coração
+
+Primeira Parte:
+
+F#m
+    Quando anoitece lá fora
+             C#7
+Aqui dentro faz tédio
+ Bm
+Mesmo querendo fugir
+                  D
+Quando tento escapar
+             C#7
+Chego ainda mais perto
+
+             F#m
+Meu subconsciente
+              C#7
+Vai atrás do seu corpo
+ Bm
+Tô viajando há horas
+                D
+Quanto tempo demora
+                C#7
+Pra eu poder ficar louco
+
+Pré-refrão:
+
+                  Bm
+É só você e mais nada
+              F#m
+Aceito esse amor unilateral
+             Bm
+Você e mais nada
+              F#m
+Sem ele fico mal
+
+Refrão:
+
+                        Bm
+Não há razões para não ser feliz
+ E
+Mas pra ser feliz
+    F#m
+Preciso de uma razão
+                Bm
+E o motivo é você (você)
+              E
+Sempre foi você (você)
+         F#m
+O fantasma do meu coração
+
+                        Bm
+Não há razões para não ser feliz
+ E
+Mas pra ser feliz
+    F#m
+Preciso de uma razão
+                Bm
+E o motivo é você
+              E
+Sempre foi você
+         F#m
+O fantasma do meu coração
+
+
+                        Bm
+Não há razões para não ser feliz
+ E
+Mas pra ser feliz
+    F#m
+Preciso de uma razão
+                Bm
+E o motivo é você (você)
+              E
+Sempre foi você
+         F#m
+O fantasma do meu coração
+
+                        Bm
+Não há razões para não ser feliz
+ E
+Mas pra ser feliz
+    F#m
+Preciso de uma razão
+                Bm
+E o motivo é você
+              E
+Sempre foi você
+         F#m
+O fantasma do meu coração
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A5 = X 0 2 2 X X
+A7 = X 0 2 0 2 0
+Bb9 = X 1 3 3 1 1
+Bm = X 2 4 4 3 2
+C#7 = X 4 3 4 2 X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+D9 = X X 0 2 3 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+Gm = 3 5 5 3 3 3

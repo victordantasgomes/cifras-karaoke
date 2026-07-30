@@ -1,0 +1,64 @@
+@titulo: brigas
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Brigas
+
+ A                      A5+
+Veja só que tolice nós dois
+            D       F#7
+Brigramos tanto assim
+     Bm                  G
+Se depois vamos nós a sorrir
+          E7
+Ficar de bem no fim
+
+      A                  A7
+Para que maltratarmos o amor
+                  D
+O amor não se maltrata não
+                              Dm
+Para que se essa gente o que quer
+                  E7
+É ver nossa separação
+
+       A               A5+
+Brigo eu, você briga também
+            D       F#7
+Por coisas tão banais
+
+     Bm                  G
+E o amor em momentos assim
+            E7
+Morre um pouquinho mais
+
+       A                   A7
+E ao morrer então é que se vê
+       D                    Dm
+Quem morreu, fui eu e foi você
+         C#m   F#m     Bm   E7
+Pois sem amor estamos sós
+          A
+Morremos nós
+
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5+ = X 0 3 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

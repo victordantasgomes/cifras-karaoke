@@ -1,0 +1,53 @@
+@titulo: dada-gugu
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Dada Gugu
+
+ E                    B
+Bate palminha para louvar
+   C#M                A9
+Feche os olhinho para orar
+    E                B
+Mexe o corpinho para dançar
+  C#M              A9
+É o bebezinho que não se cansa de adorar
+ E                    B
+Da boquinha dele sai o perfeito louvor
+       C#M                    A9
+Do seu coraçãozinho uma riqueza de amor
+        E                    B
+Pula, pula, pula, pula desengonçadinho
+   C#M                A9
+Essa é a dança do bebezinho
+E        B                 C#m
+Dada gugu, levanta o bracinho
+        A                  E
+Dada gugu, mexendo a cabecinha
+       B                  C#m
+Dada gugu, pulando de ladinho
+
+            A
+Dada, dada gugu
+
+( E  B  C#m  A )
+Essa é a dança do bebezinho
+Ele não para com corpinho
+Pula pra frente
+Pula pra trás
+Levanta o braço e mexe a perna
+Ele é demais!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0

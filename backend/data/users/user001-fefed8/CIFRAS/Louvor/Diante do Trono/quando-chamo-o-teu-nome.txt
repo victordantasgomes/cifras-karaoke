@@ -1,0 +1,72 @@
+@titulo: quando-chamo-o-teu-nome
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Quando Chamo o Teu Nome
+
+(intro) C#m B A Bsus B C#m B A Bsus B
+
+C#m           B           A         Bsus B
+Jesus é o nome mais lindo e santo
+C#m            B            A      Bsus B
+Jesus, nesse nome há cura e força
+C#m                E/B             A9               Bsus B
+Quando chamo o Teu nome As trevas fogem, montanhas se movem
+C#m                E/B              A9            Bsus   B
+Quando chamo o Teu nome Cadeias se rompem, não podem me deter
+
+E              F#m7                   E/A
+Jesus, Teu nome é mais lindo de todos,
+           C#m7    B
+Santo salvador
+E     F#m7                  E/A
+Jesus, só Tu é o Deus poderoso,
+                C#m7    B   C#m   B A Bsus B
+nosso Restaurador (Jesus)
+
+C#m            B           A           Bsus B
+Jesus, nome maravilhoso e santo
+
+C#m            B                      A        Bsus B
+Jesus, esse nome liberta e salva
+C#m                E/B             A9               Bsus B
+Quando chamo o Teu nome As trevas fogem, montanhas se movem
+C#m                E/B                A9          Bsus   B
+Quando chamo o Teu nome Cadeias se rompem, não podem me deter
+
+E              F#m7                   E/A
+Jesus, Teu nome é mais lindo de todos,
+              C#m7      B
+Santo salvador
+E     F#m7                  E/A
+Jesus You have the power alone
+                C#m7    B
+Jesus, só Tu é o Deus poderoso,
+
+               C#m7    B    E
+nosso Restaurador (Jesus)
+
+       A9        Bsus           C#m7             D2
+Te exaltamos! Te exaltamos! Te exaltamos alto e mais alto!
+       A9        Bsus           C#m7             D2                 E
+Te exaltamos! Te exaltamos! Te exaltamos alto e mais alto!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+Bsus = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D2 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E/B = X 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X

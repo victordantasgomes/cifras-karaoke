@@ -1,0 +1,170 @@
+@titulo: plush
+@autor:
+@intérprete: Detonautas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Detonautas - Plush
+
+                                     ______(3 vezes)_______
+                                    |                      |(Quando chegar aqui volte 
+ INTRO:                             v                      |       para onde a seta
+e|--3--3---x--1----1--x--0--0---3---3-3-3-3-3-x--1---0-0-x-3-----| está indicando)
+B|--3--3---x--3----3--x--1--1---3---0-1-2-3-3-x--3---1-1-x-3-----|
+G|--0--0---x--3----3--x--0--0---0---0-0-0-0-0-x--3---0-0-x-0-----|
+D|--0--0---x--3----3--x--2--2---0---------0-0-x--3---2-2-x-0-----|
+A|--2--2---x--1----1--x--3--3---2---------2-2-x--1---3-3-x-2-----|
+E|--3--3---x----------x---------3---------3-3-x----------x-3-----|
+
+
+    1. and I feel that time's....
+e|--3-3---------------1--1------------0-0-|
+B|--3-3------3-3------1--1------------1-1-|
+G|--0-0------2-2------2--2------------0-0-|
+D|--0-0------0-0------3--3------------2-2-|
+A|--2-2------x-x------3--3------------3-3-|
+E|--3-3------2-2------1--1----------------|
+
+         So where you ....(repeat)
+         So would ...(pre chorus)
+
+e|--3-3-x---3-----3///5-----5---|
+B|--3-3-x---3-----3///5-----5---|
+G|--3-3-x---3-----3///5-----5---|
+D|--5-5-x---5-----5///7-----7---|
+A|--6-6-x---6-----6///8-----8---|
+E|------x-----------------------|
+
+    Care?               and I feel it...
+
+e|--2------------------|
+B|--3-----3----3----3--|
+G|--2-----0----0----0--|  repeat 4x's
+D|--0-----2----0----2--|
+A|--------3----2----3--|
+E|---------------------|
+
+         where you .....
+         where you goin   with ....
+       and i feel, and i feel when the ....
+       will     she     ...(intro to 2nd verse)
+e|---3-3-----------3-3-3---------------1--1--|
+B|---3-3-----------3-3-3---------------1--1--|
+G|---3-3-----------3-3-3---------------2--2--|
+D|---5-5-----------5-5-5---------------3--3--|
+A|---6-6-----------6-6-6---------------3--3--|
+E|-------------------------------------1--1--|
+
+  when the     dogs do find her  got ....
+  tomorrow    to find it         to ....
+e|---------------------------------------------------------|
+B|---------------------------------------------------------|
+G|---------------------------------------------------------|
+D|--------------------------------------------------8---7--|
+A|-5-5-5-5-5---5/3-3-3-3-3--------3-3-3-3-3-3---3---6---5--|
+E|-3-3-3-3-3---3/1-1-1-1-1--------1p0-0-0-0-0---0----------|
+
+fill in (/ = slide up;  = slide down):
+
+E|--------------------------------|
+B|--------------------------------|
+G|--------------------------------|
+D|---7/8---8---8---87---7---7----|  
+A|---5/6---6---6---65---5---5----|
+E|--------------------------------|
+
+G       D/F#      F               C  Eb7+             F
+  And I feel that time's a wasted go    So where you goin'
+   G              D/F#      F                    C   Eb7+           F
+to tomorrow And I see that these are the lies to come  Or would you even care
+
+(D  Cadd9  G/B  Cadd9)
+And I feel it
+And I feel it
+
+Eb7+                     F
+  Oh where ya goin' to tomorrow
+Eb7+                       F
+  Where ya goin' with the mask I found
+Eb7+                              F
+  And I feel and I feel when the dogs begin to smell her
+Eb7+               F
+  Will she smell alone
+Intro (2 vezes)
+
+G       D/F#    F                   C      Eb7+          F
+  And I feel so much depends on the weather  So is it raining in your
+G             D/F#      F                     C       Eb7+            F
+Bedroom And I see that these are the eyes of disarray  Or would you even care
+
+(D  Cadd9  G/B  Cadd9)
+And I feel it
+And she feels it
+
+Eb7+                     F
+  Oh where ya goin' to tomorrow
+Eb7+                       F
+  Where ya goin' with the mask I found
+Eb7+                              F
+  And I feel and I feel when the dogs begin to smell her
+Eb7+               F
+  Will she smell alone
+
+Chorus:
+
+G           F
+ Where the dogs can find her
+C/E          D Eb7+       D        G
+ Got time, time to wait 'til tomorrow
+F            C/E          D Eb7+ D  G
+ To find her, to find her, to find her
+G           F
+ Where the dogs can find her
+C/E          D Eb7+       D        G
+ Got time, time to wait 'til tomorrow
+F            C/E          D Eb7+ D  G
+ To find her, to find her, to find her
+
+Intro (4 vezes)
+
+Eb7+                     F
+  Oh where ya goin' to tomorrow
+Eb7+                       F
+  Where ya goin' with the mask I found
+Eb7+                              F
+  And I feel and I feel when the dogs begin to smell her
+Eb7+               F
+  Will she smell alone
+
+Chorus:
+
+G           F
+ Where the dogs can find her
+C/E          D Eb7+       D        G
+ Got time, time to wait 'til tomorrow
+F            C/E          D Eb7+ D  G
+ To find her, to find her, to find her
+G           F
+ Where the dogs can find her
+C/E          D Eb7+       D        G
+ Got time, time to wait 'til tomorrow
+F            C/E          D Eb7+ D  G
+ To find her, to find her, to find her
+
+Intro (4 vezes)
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+Cadd9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Eb7+ = X X 1 3 3 3
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

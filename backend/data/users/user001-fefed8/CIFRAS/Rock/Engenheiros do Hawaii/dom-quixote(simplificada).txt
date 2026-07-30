@@ -1,0 +1,86 @@
+@titulo: dom-quixote(simplificada)
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Dom Quixote
+
+[Intro] A  D
+
+ A
+Muito prazer, meu nome é otário
+D
+Vindo de outros tempos mas sempre no horário
+  A                                       D
+Peixe fora d'água, borboletas no aquário
+
+ A
+Muito prazer, meu nome é otário
+    D
+Na ponta dos cascos e fora do páreo
+A
+Puro sangue    puxando carroça
+
+( A  D )
+
+A
+Um prazer cada vez mais raro
+ D
+Aerodinâmica num tanque de guerra
+
+A                                         D
+Vaidades que a terra um   dia há de comer
+
+A
+Às de espadas fora do baralho
+  D
+Grandes negócios, pequeno empresário
+ A
+Muito prazer me chamam de otário
+
+ Bm                    D
+Por amor às causas perdidas
+
+[Refrão]
+
+A              C#7
+Tudo bem...até pode ser
+          F#m                        D
+Que os dragões sejam moinhos de vento
+A               C#7
+Tudo bem...seja o que for
+     F#m                       D5
+Seja por amor às causas perdidas
+Bm                     E
+Por amor às causas perdidas
+
+( F#m  D  F#m  D )
+( Bm  D  Bm  E )
+
+[Refrão]
+
+A              C#7
+Tudo bem...até pode ser
+          F#m               D
+Que os dragões sejam moinhos de vento
+A                C#7
+Muito prazer, ao seu dispor
+     F#m                    D
+Seja por amor às causas perdidas
+Bm                     E
+Por amor às causas perdidas
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C#7 = X 4 3 4 2 X
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

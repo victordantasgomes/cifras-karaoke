@@ -1,0 +1,129 @@
+@titulo: como-uma-onda(simplificada)
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - Como Uma Onda
+
+Intro:
+
+A  F (4x)
+G
+
+Primeira Parte:
+
+ A
+Nada do que foi será
+            C#m                    A
+De novo do jeito que já foi um dia
+      A
+Tudo passa
+      Cº          Bm  F#7
+Tudo sempre passará
+   Bm        F#7
+A vida vem em ondas
+         Bm     F#7
+Como um     mar
+B7                      D   F  G
+  Num indo e vindo infinito
+
+ A
+Tudo que se vê não é
+                C#m
+Igual ao que a gente
+             A
+Viu há um segundo
+      A            Cº
+Tudo muda o tempo todo
+    D  F#7
+No mundo
+
+
+Refrão:
+
+F
+  Não adianta fugir
+     A7M
+Nem mentir
+        G    F#7  Bm   Dm
+Pra si mes__mo  agora
+                  C#m
+Há tanta vida lá fora
+      G     F#7  Bm
+Aqui den__tro   sempre
+F          G        A
+  Como uma onda no mar
+F          G        A
+  Como uma onda no mar
+F          G        A
+  Como uma onda no mar
+F          G
+  Como uma onda no
+
+
+Repete a Primeira Parte:
+
+ A
+Nada do que foi será
+            C#m                    A
+De novo do jeito que já foi um dia
+      A
+Tudo passa
+      Cº          Bm  F#7
+Tudo sempre passará
+   Bm        F#7
+A vida vem em ondas
+         Bm     F#7
+Como um     mar
+B7                      D   F  G
+  Num indo e vindo infinito
+ A
+Tudo que se vê não é
+                C#m
+Igual ao que a gente
+             A
+Viu há um segundo
+      A            Cº
+Tudo muda o tempo todo
+    D  F#7
+No mundo
+
+Repete o Refrão:
+
+F
+  Não adianta fugir
+     A7M
+Nem mentir
+        G    F#7  Bm   Dm
+Pra si mes__mo  agora
+                  C#m
+Há tanta vida lá fora
+      G     F#7  Bm
+Aqui den__tro   sempre
+F          G        A
+  Como uma onda no mar
+F          G        A
+  Como uma onda no mar
+F          G        A
+  Como uma onda no mar
+F          G        A
+  Como uma onda no mar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7M = X 0 2 1 2 0
+B7 = X 2 4 2 4 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+Cº = X 3 4 2 4 2
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F#7 = 2 4 2 3 2 2
+G = 3 2 0 0 3 3

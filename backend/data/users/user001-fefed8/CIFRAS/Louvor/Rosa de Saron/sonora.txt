@@ -1,0 +1,77 @@
+@titulo: sonora
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Sonora
+
+Intro:  Bb9  C9  A9
+
+Dm                          Bb9
+Tantos lugares, tantas pessoas
+Bb9
+Que falam por falar
+D9                                         Bb9
+Ao certo não se encontram, distante o coração
+                 D9
+Fugindo do que são
+
+Bb9               A9
+Insistem em grita_ar...
+Bb9               C9  A9
+Insistem em grita_ar...
+
+D9
+Deixa o silêncio agir
+C9
+Assim você pode viver
+Bb9
+Deixa-se levar
+
+C9           A9             D9
+Não existe tempo pra recomeçar
+D9
+Deixa o silêncio agir
+C9
+Assim você pode viver
+Bb9
+Deixa-se levar
+C9          A9             Bb9  C9  Bb9  C9  A9
+Não existe tempo pra recomeça_ar...
+
+(repete tudo)
+
+Solo: D9  C9  Bb9  C9  A9   Bb9 C9
+
+F#9
+Deixa o silêncio agir
+E9
+Assim você pode viver
+D9
+Deixa-se levar
+E9          C#9             F#9
+Não existe tempo pra recomeçar
+F#9
+Deixa o silêncio agir
+E9
+Assim você pode viver
+D9
+Deixa-se levar
+E9         C#9             F#9
+Não existe tempo pra recomeçar....
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+Bb9 = X 1 3 3 1 1
+C#9 = X 4 6 6 4 4
+C9 = X 3 5 5 3 3
+D9 = X X 0 2 3 0
+Dm = X X 0 2 3 1
+E9 = 0 2 4 1 0 0
+F#9 = 2 4 6 3 2 2

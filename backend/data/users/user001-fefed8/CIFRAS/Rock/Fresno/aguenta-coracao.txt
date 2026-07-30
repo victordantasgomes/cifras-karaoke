@@ -1,0 +1,73 @@
+@titulo: aguenta-coracao
+@autor:
+@intérprete: Fresno
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fresno - Aguenta Coração
+
+D        D/F#                 G            D/F#         Em    A  A#º
+Coração, diz pra mim por que é que eu fico sempre desse jeito
+D           D/F#               G            D/F#         Em   A  A#º
+Coração não faz assim, você se apaixona e a dor é no meu peito
+
+    Bm           Bm/A         E            A             A/G#        F#m
+Pra que que você foi se entregar se na verdade eu só queria uma aventura
+   Bm           Bm/A        E  Em        A
+Porque você não pára de sonhar....é um desejo e nada mais
+   C                   Bm           Em           Em/Eb
+E agora o que é que eu faço pra esquecer tanta doçura
+      D                 C#m         C
+Isso ainda vai virar loucura, não é justo entrar na minha vida
+      Em                         G/A   A7
+Não é certo não deixar saída não é não
+         D                      Bm
+Agora aguenta coração, já que inventou essa paixão
+       Em                              A
+Eu te falei que eu tinha medo amar não é nenhum brinquedo
+         D                       Bm
+Agora aguenta coração, você não tem mais salvação
+
+       Em                         A
+Você apronta esquece que você sou eu
+G A   D
+  Sou Eu
+
+
+Base: (D D/F# G G/F# Em A) 2x
+
+e|-14-14-12-12-10--14-14-12-12-10--15-15-14-15-17-12-12-10-9-10-12---|
+b|-------------------------------------------------------------------|
+D|-------------------------------------------------------------------|
+A|-------------------------------------------------------------------|
+E|-------------------------------------------------------------------|
+
+e|-14-14-12-12-10--14-14-15-17--17-17-17...---|
+b|--------------------------------------------|
+D|--------------------------------------------|
+A|--------------------------------------------|
+E|--------------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#º = X 1 2 0 2 0
+A/G# = 4 X 2 2 2 X
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+Em/Eb = X X 1 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/F# = X X 4 4 3 3

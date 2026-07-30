@@ -1,0 +1,58 @@
+@titulo: e-tarde-demais-pra-pedir-perdao
+@autor:
+@intérprete: Chitãozinho & Xororó
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Chitãozinho & Xororó - É Tarde Demais Pra Pedir Perdão
+
+C                           G/B
+  EU ACORDO TODO DIA COM VAZIO NO MEU PEITO
+        F                        C            C
+A LIBERDADE QUE EU QUERIA SE TORNOU UM GRANDE MAL
+        C                       G/B
+NÃO ME FALTAM AVENTURAS NEM O CHOPP COM OS AMIGOS
+      F                       C            C7
+CADA DIA É UMA LOUCURA SEM COMEÇO E SEM FINAL
+
+         F                     Em       Am
+EU ME ESCONDO DA SAUDADE E DO ARREPENDIMENTO
+      Dm        G7          C             C79
+NA FRIEZA DO CIMENTO DAS PAREDES DE UM HOTEL
+      F7+                  Em              Am7
+COMO PUDE SER TÃO TOLO TODO MUNDO HOJE ME DIZ
+        Dm
+FUI DEIXAR VOCÊ PRA TER O MUNDO
+   Fm          G7        C  G7
+E HOJE SOU UM HOMEM INFELIZ
+
+
+
+          C                      Am
+COMO NÃO PUDE PERCEBER QUE BASTARIA SÓ VOCÊ
+         Dm            G                    C  G7
+A MESMA CASA, A MESMA CAMA MAIS UM GRANDE AMOR
+         C              C7              F        Fm
+E NEM SEQUER TENTEI VOLTAR POR ISSO EXPLODE CORAÇÃO
+  C            Dm    G7     C
+AGORA É TARDE PRA PEDIR PERDÃO
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+C79 = X 3 2 3 3 X
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F7+ = 1 X 2 2 1 X
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

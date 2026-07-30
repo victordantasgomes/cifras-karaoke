@@ -1,0 +1,10 @@
+@titulo: a-ilha-nao-se-curva
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:

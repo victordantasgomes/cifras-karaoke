@@ -1,0 +1,78 @@
+@titulo: autoridades
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Autoridades
+
+(intro) E5 D5
+
+(riff)
+E|---------7---------------7---7----------|
+B|-----8-------8------8---------8---------|
+G|-9-9---9---9---9--7---7----7----7-------|4x
+D|----------------------------------------|
+A|----------------------------------------|
+E|----------------------------------------|
+
+E5                  D5
+Vou denunciar autoridades incompetentes
+   E5                  D5
+Eu vou denunciar autoridades incompetentes
+   E5
+Eu quero antes te dizer
+    D5
+Ninguém sabe o que pode te acontecer
+   E5
+Eu quero antes te dizer
+    D5                            C Am (E5)  E5  D5  E5  D5
+Ninguém sabe o que pode te acontecer
+
+
+E5                  D5
+Vou denunciar autoridades incompetentes
+   E5                  D5
+Eu vou denunciar autoridades incompetentes
+E5
+Ameaça aos privilégios
+   D5
+Você será detido encostado na parede
+E5
+É a ordem no progresso
+   D5
+Um jogo imoral
+                        C Am (E5)  E5  D5  E5  D5
+Que não mede conseqüências
+
+  E5
+Autoridades incompetentes
+D5
+Acham que vocês não passam de fantoches
+  E5
+Bonecos para brincar
+  D5
+Bonecos para brincar
+  E5
+Autoridades incompetentes
+D5
+Sabem que vocês estão em fila
+E5
+A fila não incomoda
+D5
+A fila não incomoda
+E5
+A fila não incomoda
+D5                 (E5)
+A fila não incomoda
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D5 = X 5 7 7 X X
+E5 = 0 2 2 X X X

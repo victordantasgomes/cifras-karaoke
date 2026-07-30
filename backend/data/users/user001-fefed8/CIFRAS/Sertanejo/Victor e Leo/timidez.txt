@@ -1,0 +1,132 @@
+@titulo: timidez
+@autor:
+@intérprete: Victor e Leo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Victor e Leo - Timidez
+
+Intro 2x: E C#m A B7
+
+(solo do acordeon)
+E|------------------------------------4-4-4-2-2-2-4---------------------------2-2--|
+B|-0-2--5-5-5-4-4-4-5-5-5-4-4-4-5-4-2-------------------5-4-2-----5-4-5-0-0--------|
+G|------------------------------------------------------------4-2------------------|
+D|---------------------------------------------------------------------------------| (2x)
+A|---------------------------------------------------------------------------------|
+E|---------------------------------------------------------------------------------|
+
+E
+timidez
+      C#m        E
+Nunca me deixou dançar
+      C#m
+Nem sequer cantar
+    A       E     A
+Ver você me fez mudar
+     B7
+Não sei porquê mas
+     E      C#m
+Com você dancei
+
+     F#m    B7
+Por você cantei
+E       C#m       F#m
+Sonhei, amei, como fui
+  B7      E
+Jamais serei
+
+( E C#m A B7 )
+
+E
+timidez
+      C#m        E
+Nunca me deixou dançar
+      C#m
+Nem sequer cantar
+    A       E     A
+Ver você me fez mudar
+     B7
+Não sei porquê mas
+     E      C#m
+Com você dancei
+     F#m    B7
+Por você cantei
+E       C#m       F#m
+Sonhei, amei, como fui
+  B7      E
+Jamais serei
+
+( E C#m A B7 )
+
+E
+timidez
+      C#m        E
+Nunca me deixou dançar
+      C#m
+Nem sequer cantar
+    A       E     A
+Ver você me fez mudar
+     B7
+Não sei porquê mas
+     E      C#m
+Com você dancei
+     F#m    B7
+Por você cantei
+E       C#m       F#m
+Sonhei, amei, como fui
+  B7      E
+Jamais serei
+
+( E C#m A B7 )
+
+E
+timidez
+      C#m        E
+Nunca me deixou dançar
+      C#m
+Nem sequer cantar
+    A       E     A
+Ver você me fez mudar
+     B7
+Não sei porquê mas
+     E      C#m
+Com você dancei
+     F#m    B7
+Por você cantei
+E       C#m       F#m
+Sonhei, amei, como fui
+  B7      E
+Jamais serei
+
+( E C#m A B7 )
+
+Final:
+E|------------------------------------4-4-4-2-2-2-4---------------------------2-2--|
+B|-0-2--5-5-5-4-4-4-5-5-5-4-4-4-5-4-2-------------------5-4-2-----5-4-5-0-0--------|
+G|------------------------------------------------------------4-2------------------|
+D|---------------------------------------------------------------------------------|
+A|---------------------------------------------------------------------------------|
+E|---------------------------------------------------------------------------------|
+
+E|-------------------2-4-2-----|
+B|-5-4-2------0-2--5-------5---|
+G|-------4-2-------------------|
+D|-----------------------------|
+A|-----------------------------|
+E|-----------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

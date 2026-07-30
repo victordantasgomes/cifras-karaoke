@@ -1,0 +1,76 @@
+@titulo: a-namorada-que-sonhei
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - A Namorada Que Sonhei
+
+Intro:  A
+
+  A
+ Receba as flores que lhe dou
+                          C#m
+ E em cada flor um beijo meu
+ D                           A
+ São flores lindas que lhe dou
+                       B7
+ Rosas vermelhas com amor
+                       E7
+ Amor que por você nasceu
+      A
+ Que seja assim, por toda vida
+                        C#m
+ E a Deus, mais nada pedirei
+ D                     A
+ Querida, mil vezes querida
+           B7
+ Deusa na terra nascida
+ E7                   A   A7
+ A namorada que sonhei
+     D         Dm           C#m
+ No dia consagrado aos namorados
+     F#m       Bm
+ Sairemos abraçados
+ E7            A   A7
+ Por aí a passear
+     D        Dm            C#m
+ Um dia no futuro, então casados
+       F#m
+ Mas eternos namorados
+         B7                     E7
+ Flores lindas eu ainda vou lhe dar
+
+  Solo: A  C#m  D  A  B7  E7
+      A
+ Que seja assim, por toda vida
+                        C#m
+ E a Deus, mais nada pedirei
+ D                     A
+ Querida, mil vezes querida
+           B7
+ Deusa na terra nascida
+ E7               A  C#m  Bm
+ A namorada que sonhei
+ E7               A  C#m  Bm
+  A namorada que sonhei
+ E7               A  C#m  Bm
+ A namorada que sonhei
+ E7
+ A namorada...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

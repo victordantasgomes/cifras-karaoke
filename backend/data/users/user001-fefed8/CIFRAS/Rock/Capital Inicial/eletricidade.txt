@@ -1,0 +1,97 @@
+@titulo: eletricidade
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Eletricidade
+
+Intro: Em - Bm - C - G - Am - G4 - F
+
+Em Bm
+Eletricidade
+C G
+Ligação direta
+Am G4
+Com certas partes
+F
+Do meu corpo
+Em Bm
+Eletricidade
+C G
+Correntes alternadas
+Am G4
+Bocas e quadris
+F
+Em alta veleocidade
+Em Bm
+É só olhar
+C G
+Que eu sinto a terra tremer
+
+Am G4 F
+É só tocar que voam fagulhas
+Entre eu e você
+Em D
+Eu ouço sinos tocando
+C G
+Eu vejo cidades queimando
+Em D
+Eu dou a volta ao mundo
+C G Em - Bm - C - G - Am - G4 - F
+Em menos...em menos de um segundo
+(Em C7+ Am Em)
+Eletricidade... 2x
+Em Bm
+Eletricidade
+C G
+Fios descobertos
+Am G4
+Cinco mil megawatts
+F
+Entre os meus braços
+Em Bm
+Eletricidade
+C G
+Tensão e sobrecarga
+Am G4
+Pólos opostos
+F
+Em eletroatividade
+Em Bm
+É só olhar
+C G
+Que eu sinto a terra tremer
+Am G4
+É só tocar
+F
+Que voam fagulhas
+Entre eu e você
+Em D
+Eu ouço sinos tocando
+C G
+Eu vejo cidades queimando
+Em D
+Eu dou a volta ao mundo
+C G Em - Bm - C - G - Am - G4 - F
+Em menos...em menos de um segundo
+(Em C7+ Am Em)
+Eletricidade... 2x
+Em - Bm - C - G - Am - G4 - F
+Eletricidade...
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G4 = 3 5 5 5 3 3

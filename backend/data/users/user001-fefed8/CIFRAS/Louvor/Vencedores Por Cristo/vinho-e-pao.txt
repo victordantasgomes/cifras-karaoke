@@ -1,0 +1,87 @@
+@titulo: vinho-e-pao
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Vinho e Pão
+
+    F      Bb9/F
+No nome forte de Jesus
+    F     F/A      C   C#°
+Nos reunimos aquecidos por sua luz
+     Dm7     Dm7/C        Bb9      F/A
+Por meio do Senhor,     unidos neste amor
+      Gm7       C4      F4  F
+Com vinho e pão nós celebramos comunhão
+
+C   Bb9    F/A      F
+Não me sinto estranho aqui
+Gm7      C4  F   F/A
+Este é o meu lugar
+Bb9  C/Bb   F/A     Dm7
+No perdão que tenho em Ti
+ G7(11) G7   C4 C
+Aprendo a perdoar
+      F         Bb9/F
+Quem serve o vinho e parte o pão
+       F          F/A        C   C#°
+É o próprio Cristo, ressurreto e nosso irmão
+      Dm7         Dm7/C          Bb9     F/A
+O rei da terra e céus       é nosso anfitrião
+      Gm7       C4      Fsus4  F
+Com vinho e pão nós celebramos comunhão
+
+C     Bb9  F/A    F
+Entre o povo do Senhor
+Gm7  C4    F   F/A
+Verdadeiro lar
+Bb9     C/Bb   F/A    Dm7
+Cristo está presente aqui
+G7(11) G7  C4
+Neste  celebrar
+
+    G       C9/G
+E logo vamos nos reunir
+       G      G/B        D  D#°
+No grande encontro preparado que há de vir
+      Em7      Em7/D         C9     G/B
+Na glória do Senhor,      em todo esplendor
+      Am7      D4   D#°  Em7
+Com vinho e pão celebraremos comunhão
+      Am7      D4   D   C9
+Com vinho e pão celebraremos comunhão
+
+[Final] C9  G
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bb9 = X 1 3 3 1 1
+Bb9/F = 1 X 3 3 1 1
+C = X 3 2 0 1 0
+C#° = X 4 5 3 5 3
+C/Bb = X 1 2 0 1 X
+C4 = X 3 3 0 1 X
+C9 = X 3 5 5 3 3
+C9/G = 3 X 5 5 3 3
+D = X X 0 2 3 2
+D#° = X X 1 2 1 2
+D4 = X X 0 2 3 3
+Dm7 = X 5 7 5 6 5
+Dm7/C = X 3 0 2 1 1
+Em7 = 0 2 2 0 3 0
+Em7/D = X X 0 0 3 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F4 = 1 3 3 3 1 1
+Fsus4 = 1 3 3 3 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3
+G7(11) = 3 5 3 5 3 X
+Gm7 = 3 X 3 3 3 X

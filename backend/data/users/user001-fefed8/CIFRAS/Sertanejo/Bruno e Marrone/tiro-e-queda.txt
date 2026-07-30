@@ -1,0 +1,70 @@
+@titulo: tiro-e-queda
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Tiro e Queda
+
+Intro: Am Em B7 Em
+
+Riff 1
+
+E|-----------3-2-0- (Cai no Em)
+A|---2/3\2-0-------
+
+(Parte I)
+                 Em
+To na mesa de um bar
+                                    B7
+Bebendo e chorando, já são 6h da manhã
+             Am
+O boteco fechando
+               B7                                     Em    Em7
+O garçom já pediu pra eu pagar a comanda e não tem saideira.
+
+(Parte II)
+Am                                          Em
+Ah! se ele soubesse a metade da minha tristeza
+                               B7
+Me deixava beber a semana inteira
+
+                                Em  Em7
+Se sentava comigo e chorava também.
+
+Am                                        Em
+Sinto uma coisa estranha invadindo meu peito
+                                          B7
+Não consigo esquecer, e é por isso que eu bebo
+                          Em    (Riff 1)
+Pra anestesiar esse meu coração.
+
+
+Refrão:
+Em7                Am
+E dessa vez foi tiro e queda
+                Em
+Foi uma queda ligeira
+                           B7
+Se essa saudade fosse passageira
+                         Em
+A dor não ia durar tanto tempo
+                                    B7
+E se quiser saber por quem é que eu bebo
+                             Em   (riff 1)
+É por alguém que não merece meu amor.
+
+
+(Repete parte II e Refrão)
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+Am*  = X 0 2 2 1 0 - (*A#m na forma de Am)
+B7*  = X 2 1 2 0 2 - (*C7 na forma de B7)
+Em*  = 0 2 2 0 0 0 - (*Fm na forma de Em)
+Em7*  = 0 2 2 0 3 0 - (*Fm7 na forma de Em7)

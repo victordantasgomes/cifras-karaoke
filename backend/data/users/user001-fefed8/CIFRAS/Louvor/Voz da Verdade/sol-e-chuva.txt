@@ -1,0 +1,68 @@
+@titulo: sol-e-chuva
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Sol e Chuva
+
+Intro: C(9)
+
+C(9)                       Dm    F(9)           G                C(9)
+Devemos proseguir em conhecer o Deus que fez o céu, a terra e o mar
+                            Dm      F(9)       G           C(9)
+No micro ou no macro tem poder, em todos os lugares Ele está
+                           Dm      F(9)          G          C(9)
+E quanto mais eu lhe conhecer, o fruto da minha terra se dará
+                               Dm       F(9)     G          C(9)
+O sol e a chuva dentro do seu tempo, fará a alegria do meu lar
+    E                      Am
+Formigas trabalhando antes do inverno chegar
+    E                      Am          G
+Estrelas vão voando quando Ele assim chamar
+   E                                Am
+O sol que esquenta a terra com o calor do seu carinho
+F        G          C(9)
+A chuva cai no meu ninho
+
+SOLO: C(9)
+
+
+VOLTA EM: E quanto mais eu lhe....
+
+C          G         Am       F    C    G       C  G7
+Basta só crer, pro fruto crescer, abençoado ele é
+C        G    Am         F     C      G        C
+A chuva cai e a bênção vem, brilha o sol em Jerusalém
+D          A         Bm       G    D    A       D  A7
+Basta só crer, pro fruto crescer, abençoado ele é
+D        A    Bm         G     D      A        G    Bm      G      Bm A
+A chuva cai e a bênção vem, brilha o sol em Jerusalém em Jerusalém
+
+
+SOLINHO: D
+
+D          A         Bm       G    D    A       D  A7
+Basta só crer, pro fruto crescer, abençoado ele é
+D        A    Bm         G     D      A        G      D
+A chuva cai e a bênção vem, brilha o sol em Jerusalém
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C(9) = X 3 5 5 3 3
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F(9) = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

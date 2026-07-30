@@ -1,0 +1,164 @@
+@titulo: toma-o-teu-lugar
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Toma o Teu Lugar
+
+[IntrO] G  G  G  G  G  D/F#  C  G  D/F#  C  G
+
+Riff Intro Parte 01:
+E|--------------------------| --12--10--|--------------------------|
+B|--12--13----15--12--10----| ----------|--12--13----15--12--10----|
+G|---------12---------------| ----------|---------12---------------|
+D|--------------------------| ----------|--------------------------|
+  (4X-Palhetada Alternada)              (4X-Palhetada Alternada)
+
+
+Riff Intro Parte 02:
+E|----------------| --------------|----------------|------------------------------|--------12----12-10-12--|
+B|--12--13----15--| ---12---10----|--12--13----15--|--12-12-12-12-12-12-12-12-12--|--10-10----10-----------|
+G|---------12-----| --------------|---------12-----|------------------------------|------------------------|
+D|----------------| --------------|----------------|------------------------------|------------------------|
+  (4X cada nota)   (8x cada nota)  (4X cada nota)
+
+
+Primeira Parte:
+G           C9/G          G
+Estamos reunidos para adorar
+
+G               C9/G      G
+Ao único que é digno exaltar
+
+Sequência de Harmônicos:
+E|---------7| H-------------|---------7H-------------|
+B|---7| H-------------------|---7H-------------------|
+G|------5| H-----5H---8H----|------5H-----5H---8H----|
+D|------------------------| ------------------------|
+
+Pré-Refrão:
+Em                               D9
+Entronizado nos louvores do Teu povo
+
+Sequência de Harmônicos: (Palhetada alternada rapidamente)
+E|-------------------------|
+B|---7...------------------|
+G|------| 5...4...5...8...--|
+D|-------------------------|
+
+Riff 2ª Guitarra:
+E|--------------------------------| -----------------|
+B|--------------------------------| -----------------|
+G|--9---11-12---19--16--12--7...--| --5...---7...----|
+D|--------------------------------| -----------------|
+A|--7---9--10---17--14--10--5...--| --3...---5...----|
+E|--------------------------------| -----------------|
+
+ C      D9
+Reina, reina!
+
+Refrão:
+              G            D9/F#
+Toma o Teu lugar na minha vida
+              Em             C
+Toma o Teu lugar na minha família
+              Am           C         Em  D/F#
+Toma o Teu lugar, Rei da glória, reina!
+              G           D9/F#
+Toma o Teu lugar nesta cidade
+              Em          C
+Toma o Teu lugar nesta nação
+              Am           C         Em  D/F#
+Toma o Teu lugar, Rei da Glória, reina!
+
+( G  D/F#  Em  C ) (2x)
+
+Pré-Refrão:
+Em                               D9
+Entronizado nos louvores do Teu povo
+ C      D9
+Reina, reina!
+
+Refrão:
+              G            D9/F#
+Toma o Teu lugar na minha vida
+              Em             C
+Toma o Teu lugar na minha família
+              Am           C         Em  D/F#
+Toma o Teu lugar, Rei da glória, reina!
+              G           D9/F#
+Toma o Teu lugar nesta cidade
+              Em          C
+Toma o Teu lugar nesta nação
+              Am           C         Em  D/F#
+Toma o Teu lugar, Rei da Glória, reina!
+
+( G  D/F#  C )
+( G  D/F#  C )
+
+E|-----------| ------------|----------------------10--|
+B|---5--5-0--| --8--7-7-5--|--12--10--10-8--8-7-8-8---|
+G|-----------| ------------|--------------------------|
+D|
+A|
+E|
+
+Ponte:
+      C              Em
+Levantai, ó portas, vossas cabeças
+      C                   Em
+Levantai-vos, ó portais eternos
+
+ C
+Para que entre o Rei da glória
+  Am
+Quem é esse Rei da glória?
+C                          Em
+O Senhor dos exércitos, Jesus!
+
+ C
+Para que entre o Rei da glória
+  Am
+Quem é esse Rei da glória?
+C                          G      D
+O Senhor dos exércitos, Jesus!
+
+              G            D9/F#
+Toma o Teu lugar na minha vida
+              Em             C
+Toma o Teu lugar na minha família
+              Am           C         Em  D/F#
+Toma o Teu lugar, Rei da glória, reina!
+              G           D9/F#
+Toma o Teu lugar nesta cidade
+              Em          C
+Toma o Teu lugar nesta nação
+              Am           C         Em  D/F#
+Toma o Teu lugar, Rei da Glória, reina!
+
+( G  D/F#  C )
+( G  D/F#  C )
+
+Em                               D
+Entronizado nos louvores do Teu povo
+ C      D9/F#
+Reina, reina!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C9/G = 3 X 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+D9/F# = 2 X 0 2 3 0
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

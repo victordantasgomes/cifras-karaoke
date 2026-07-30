@@ -1,0 +1,125 @@
+@titulo: ainda-me-pergunto(versão 2)
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Ainda Me Pergunto
+
+Intro Solo:               [Bem Mascado aqui]
+E|--------------------------------------------------------
+B|-------------------------11^-11^-11^-11^-11^-9-11b9b7p9-
+G|-9^-9^-9^-9^-9^b7b6~~~~---------------------------------
+D|--------------------------------------------------------
+A|--------------------------------------------------------
+E|--------------------------------------------------------
+
+Intro Base: (C#5 C#5b C#5 B5 B5/F# C#5/G#)3x  C#5  C#5b  C#5  B5  B5/F#
+
+E              F#                    A9
+EM MINHA DIREÇÃO ANDOU E DE MIM SE APROXIMOU
+             F#m                     (C#5 C#5b C#5 B B/F# C#5/G# C#5 C#5b C#5 B5 B5/F#)
+FALAR NÃO PRECISOU, UM OLHAR ME LANÇOU
+E             F#                     A9
+MINHAS COISAS LÁ DEIXEI, PARA TRÁS EU NÃO OLHEI
+             F#m                         C#5 C#5b  C#5   G#5  G5  Gb5    Eº
+A ELE NADA EU PERGUNTEI, O OLHAR ME BASTOU
+
+
+E ATÉ HOJE AINDA ME PERGUNTO:
+
+
+QUAL O MOTIVO?
+
+C#9
+PORQUE EU?  JUSTO EU?  EU NÃO SEI!
+      B9                         F#5
+PORQUE EU SE EU NÃO SEI NEM FALAR?
+C#9
+PORQUE EU, EU NÃO SEI
+                B9                 F#5
+EU SÓ SEI QUE A ELE UM DIA EU NEGUEI
+C#9                                                                     B9                                      F#
+MAS SERÁ QUE UM DIA EU VOU CONSEGUIR ENCARAR QUEM EU SOU DE VERDADE?
+E                 F#5                        A9
+SE AINDA QUISER CAMINHAR, PRECISO OS PASSOS  APERTAR
+                  B4
+E QUANDO EU O ALCANÇAR,
+              (C#5 C#5b C#5 B5 B5/F# C#5/G#) 3x C#5 C#5b C#5 B5 B5/F#
+EU VOU ENTENDER
+
+E           F#                    A9
+MUITAS VEZES DUVIDEI, NELE EU NÃO CONFIEI
+              F#m                     (C#5 C#5b C#5 B B/F# C#/G# C#5 C#5b C#5 B5 B5/F#)
+AINDA ASSIM NADA MUDOU, ENTÃO ME CHAMOU
+E                     F#                  A9
+AGORA ONDE QUER QUE EU ESTEJA SUA MÃO ESTARÁ LÁ
+             F#m              C#5  C#5b  C#5  G#5 G5 Gb5   Eº
+E NÃO HÁ COMO EVITAR O SEU AMOR
+
+
+E ATÉ HOJE AINDA ME PERGUNTO:
+
+QUAL O MOTIVO?
+
+C#9
+PORQUE EU?  JUSTO EU?  EU NÃO SEI!
+      B9                         F#5
+PORQUE EU SE EU NÃO SEI NEM FALAR?
+C#9
+PORQUE EU, EU NÃO SEI
+                 B9                F#5
+EU SÓ SEI QUE A ELE UM DIA EU NEGUEI
+C#9                                                                     B9                              F#5
+MAS SERÁ QUE UM DIA EU VOU CONSEGUIR ENCARAR QUEM EU SOU DE VERDADE?
+E                F#5                          A9
+SE AINDA QUISER CAMINHAR, PRECISO OS PASSOS  APERTAR
+                     B4
+E QUANDO EU O ALCANÇAR,
+
+EU VOU ENTENDER
+
+Base Solo:E5 F#5 A5 B5
+
+C#9
+PORQUE EU?  JUSTO EU?  EU NÃO SEI!
+       B9                         F#5
+PORQUE EU SE EU NÃO SEI NEM FALAR?
+C#9
+PORQUE EU, EU NÃO SEI
+                B9               F#5
+EU SÓ SEI QUE A ELE UM DIA EU NEGUEI
+C#9                         B9                                    F#
+MAS SERÁ QUE UM DIA EU VOU CONSEGUIR ENCARAR QUEM EU SOU DE VERDADE?
+E                F#5                         A9
+SE AINDA QUISER CAMINHAR, PRECISO OS PASSOS  APERTAR
+               B4
+E QUANDO EU O ALCANÇAR,
+               (C#5 C#5b C#5 B5 B5/F# C#5/G#) 3x C#5 B5 F#5
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/F# = X X 4 4 4 2
+B4 = X 2 4 4 5 2
+B5 = X 2 4 4 X X
+B9 = X 2 4 4 2 2
+C#/G# = 4 X 3 1 2 X
+C#5 = X 4 6 6 X X
+C#5b = X 4 5 6 6 4
+C#9 = X 4 6 6 4 4
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+Eº = X X 2 3 2 3
+F# = 2 4 4 3 2 2
+F#5 = 2 4 4 X X X
+F#m = 2 4 4 2 2 2
+G#5 = 4 6 6 X X X
+G5 = 3 5 5 X X X
+Gb5 = 2 4 4 X X X

@@ -1,0 +1,98 @@
+@titulo: a-camisa-e-o-botao
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - A Camisa e o Botão
+
+essa musica é do Babado Novo...ela esta na versão do estudio coca-cola Babado Novo e CPM 22...
+
+   D/C#     D5      B5     G5     A5     E5     F#5
+  e|-x-|  e|-x-|  e|-x-| e|-x-| e|-x-| e|-x-| e|-x-|
+  B|-x-|  B|-x-|  B|-x-| B|-x-| B|-x-| B|-x-| B|-x-|
+  G|-x-|  G|-x-|  G|-x-| G|-x-| G|-x-| G|-x-| G|-x-|
+  D|-7-|  D|-7-|  D|-4-| D|-5-| D|-7-| D|-2-| D|-4-|
+  A|-4-|  A|-5-|  A|-2-| A|-5-| A|-7-| A|-2-| A|-4-|
+  E|-x-|  E|-x-|  E|-x-| E|-3-| E|-5-| E|-0-| E|-2-|
+
+
+Introdução: D5 D/C# B5 G5 (abafado) - 2x
+
+(D5 D/C# B5 G5) (abafado)                                 |
+Quando o sol sair me beije, me beije mais, me beije logo  |--> 2x
+Quando o sol sair me beije, me beije antes que escureça   |
+
+(D5 D/C# B5 G5) (abafado)
+Não me deixe só em outro planeta
+Se a gente quiser, o mundo se ajeita
+
+
+G5                    D5
+Como a camisa e o botão
+A5                       B5
+ Como as estrelas lá no céu
+         G5               A5
+Como a estrada e o caminhão
+B5            G5
+Como você e eu...
+
+(D5 D/C# B5 G5) (abafado)
+Quando o sol sair me beije, me beije mais, me beije logo
+Quando o sol sair me beije, me beije antes que escureça
+Não me deixe só em outro planeta
+Se a gente quiser, o mundo se ajeita
+
+G5                       D5
+Como a saudade e o coração
+A5                     B5
+ Como a caneta e o papel
+G5           A5        B5
+Como a chuva no verão
+G5
+Como você e eu
+
+D5                           E5
+Vamos sair para ver o sol
+F#5              E5
+  Do nosso planeta
+D5                   E5
+Sim meu amor quando a gente quer
+G5                A5
+   O mundo se ajeita
+
+                     D5
+Como a camisa e o botão
+        A5               B5
+Como as estrelas lá do céu
+          G5             A5
+Como a estrada e o caminhão
+B5           G5
+Como você e eu
+
+D5           A5            D5
+   Como a saudade e o coração
+          A5          B5
+Como a caneta e o papel
+       G5           B5
+Como a chuva no verão
+  G5
+Como você e eu
+B5       G5     A5
+  Como você e eu
+B5       G5     A5    D5
+  Como você e eu
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+B5 = X 2 4 4 X X
+D/C# = X 4 0 2 3 2
+D5 = X 5 7 7 X X
+E5 = 0 2 2 X X X
+F#5 = 2 4 4 X X X
+G5 = 3 5 5 X X X

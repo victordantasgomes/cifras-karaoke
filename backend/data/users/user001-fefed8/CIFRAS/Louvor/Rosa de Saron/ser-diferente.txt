@@ -1,0 +1,51 @@
+@titulo: ser-diferente
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Ser Diferente
+
+(intro)  Gm Bb Bb Bb
+
+Gm           Ab      Cm   Bb
+Eu tenho que ser diferente
+Gm    Ab       Cm   Bb
+E ser o mesmo também
+               Fm
+Amar sem preconceito
+                 Ab
+Viver os teus preceitos
+         Eb
+Não rotular ninguém
+ Ab                 Bb7sus4                  Ab
+Hoje eu acordei com vontade de viver
+Ie Ie Ie Ie...
+
+Cm/Eb  Fm         Ab
+Livre           para amar
+Cm/Eb Fm          Ab
+ Livre           pra perdoar
+Cm/Eb  Cm4          Bb9  Fm
+Livre           pra respeitar
+
+Ab              Fm      Gm   Ab       Bb7
+Ser livre e nunca desistir de sonhar
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Bb = X 1 3 3 3 1
+Bb7 = X 1 3 1 3 1
+Bb7sus4 = X 1 3 1 4 1
+Bb9 = X 1 3 3 1 1
+Cm = X 3 5 5 4 3
+Cm/Eb = X X 1 0 1 3
+Cm4 = X 3 3 5 4 3
+Eb = X 6 5 3 4 3
+Fm = 1 3 3 1 1 1
+Gm = 3 5 5 3 3 3

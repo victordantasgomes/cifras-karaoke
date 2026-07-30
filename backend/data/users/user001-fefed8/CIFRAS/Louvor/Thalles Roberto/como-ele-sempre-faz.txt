@@ -1,0 +1,88 @@
+@titulo: como-ele-sempre-faz
+@autor:
+@intérprete: Thalles Roberto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Thalles Roberto - Como Ele Sempre Faz
+
+Intro 2x: Em7/9 Em7 Am7/9  Bm7  Em7
+
+            Em7(9)  Em7        Am7(9)           Bm7                            Em7
+|-------------------------------7------------------------------------------------------------|
+|---5--5/7---7-7----5----5------8---8---7-5-----10-8-8-7------7--7h8p7---------8-------------|
+|-4----------7-7----7--7--------5---------------7--7-7-7----7----------7-------7-------------|
+|------------5-5----5-----------7---5---5-5-----7--7-7-7--7--------------7-----5-------------|
+|--------------------------------------------------------------------------------------------|
+|------------0-0----0---------------------------7--7-7-7-------------------0-0---------------|
+
+  Em7/9                         Am7
+O pássaro espera o sol nascer     pra cantar
+  Bm7                                     Em7/9
+O galo, a madrugada, pra um novo dia anunciar
+       Em7/9                    E7    Am7
+O sentinela espera um novo dia         pra descansar
+       D9
+A natureza não se cansa de esperar
+            G                      F             Am
+Porque ela sabe que O que fez a aliança nunca irá falhar
+
+
+          A                                     G
+Quando espero no Deus Criador, a minha fé é o alento, vou
+       A                              G
+E Ele vem no tempo certo pra me socorrer
+                  Em7/9  Am7/9  Bm7                 Em7/9
+Como Ele sempre faz                  Como ele sempre faz
+
+     Em7/9                           E7         Am7
+Se a dor da espera eu não puder mais            suportar
+         Bm7                         Am7
+Se o coração não quiser mais aguentar na força
+      A
+Do Espírito, vou me lembrar
+                            G6
+Que apesar do aparente abandono que, na cruz, me deixou
+            Bm7
+Ao terceiro dia, a minha espera termina
+                   D/E
+E, do túmulo, meu Deus vai me tirar
+
+ B               A
+Vou com a minha voz um canto entoar
+   B                     A
+Valeu a pena esperar nAquele que nunca falhará
+    B                                       A
+Já posso sentir no meu espírito, é hora da nuvem anunciar
+           C#m7
+A espera acabou e debaixo da chuva de benção eu vou celebrar
+E/F#
+   E Deus fará um milagre em mim
+                  Em7/9  Am7/9  Bm7                     Em7/9
+Como Ele sempre faz                  Como ele sempre faz
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am7(9) = X X 7 5 8 7
+Am7/9 = X X 7 5 8 7
+B = X 2 4 4 4 2
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+D/E = X X 2 2 3 2
+D9 = X X 0 2 3 0
+E/F# = X X 4 4 5 4
+E7 = 0 2 2 1 3 0
+Em7 = 0 2 2 0 3 0
+Em7(9) = X 7 5 7 7 X
+Em7/9 = X 7 5 7 7 X
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G6 = 3 X 2 4 3 X

@@ -1,0 +1,101 @@
+@titulo: medieval-ii
+@autor:
+@intérprete: Cazuza
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cazuza - Medieval II
+
+Intro:  B4  C#m7  Aadd9  E
+
+B           Aadd9
+ Você me pede,
+B                Aadd9
+ Prá ser mais moderno:
+B                        Aadd9
+ Que culpa que eu tenho?
+ C#m7   Aadd9      B
+ É só você que eu quero.
+
+             Aadd9
+ Às vezes eu amo,
+B              Aadd9
+ E construo castelos;
+B                Aadd9
+ Às vezes eu amo tanto,
+                 C#m7
+ Que tiro férias,
+     Aadd9                B
+ E embarco num tour pro inferno.
+
+
+C#m           A        B
+ Será que eu sou medieval?
+ C#m         A                    B
+ Baby, eu me acho um cara tão atual.
+F#          A          B
+ Na moda da nova Idade Média,
+F#           A        B
+ Na mídia da novidade média.
+
+  Solo:
+E|-------------------------------------------------------------------------------------|
+B|------12~---12b12b~---9---12b14r12—10------------------------------------------------|
+G|-----------------------------------------9~--9------9------9--11b--------------------|
+D|------------------------------------------------10-----10----------------------------|
+A|-------------------------------------------------------------------------------------|
+E|-------------------------------------------------------------------------------------|
+
+ Olha prá mim, me dê a mão,
+           Aadd9
+ Depois um beijo:
+B
+ Em homenagem a toda,
+    Aadd9
+ Distância e desejo.
+ B
+ Mora em mim,
+                               Aadd9
+ Que eu deixo as portas sempre abertas -
+C#m7                    Aadd9
+ Onde ninguém vai te atirar,
+     B
+ As mãos vazias nem pedras.
+
+ Eu acredito nas besteiras,
+        Aadd9
+ Que eu leio no jornal;
+B
+ Eu acredito no meu lado,
+      Aadd9
+ Português, sentimental;
+B                                Aadd9
+ Eu acredito em paixão e moinhos lindos.
+C#7m                     Aadd9
+ Mas a minha vida sempre brinca comigo,
+B                                C#m
+ De porre em porre, vai me desmentindo.
+
+C#m           A        B
+ Será que eu sou medieval?
+ C#m         A                    B
+ Baby, eu me acho um cara tão atual.
+F#          A          B
+ Na moda da nova Idade Média,
+F#           A        B
+ Na mídia da novidade média.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Aadd9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2

@@ -1,0 +1,132 @@
+@titulo: sou-de-jesus
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Sou de Jesus
+
+Int:   :  G/C  G/B  :  D/A  D/F#   G  : (4X)
+2ª vez: (D/E )           (Am7)  (D/F#)
+
+                   C/G     D/G           Gsus4   G
+           Em meio a solidão eu vi  a tua mão
+
+               Am7/G     D/G     G
+         A Tua voz me     restaurou
+
+                D/F#    Em      G/D        C#m 7 5b
+        -   " Filho meu, confia em mim
+
+                     Am7/C    Bsus4   B7     D/E   E7
+          Ainda não terminei a obra em sua     vida
+
+                      Am7
+         Levanta e recebe o meu poder
+
+               G2/B
+         Creia em mim,
+
+
+                   G/A   A7     Dsus
+         Tenho milagres pra você.”
+
+                    G      B7 5         C7  9       C#m7/5-    G/D
+           Não há vento ou tempestade que me possa   derro    tar
+
+       Em7         Am7  Dsus  D/C  G/B  Bb9  13   Am7 9
+           Sou de Jesus,        sou de Jesus!
+
+             Dsus   G             B7 5         C7   9    C#º     G/D
+           Escolhido e chamado por Deus para ser co-herdeiro com Jesus
+
+      Em7     Am7    Dsus      :  G/C   G/B    :     Bb9 7   Dsus  :
+           Sou de Jesus, sou de Jesus
+
+          D/E      Am7       D/F#                 Gsus4   G
+        Ele me faz viver  em suas promessas
+
+                Am7/G     D/G     G
+       Além de tudo       que pedi...
+
+       D/F#    Em         G/D        C#m 7 5b
+        Ele me faz dos céus embaixador
+
+               Am7/C     Bsus4  B7    D/E   E7
+        Eu tudo posso,  posso pelo seu poder
+
+                Am7                   G2/B
+        Os feitos de Jesus , a comunhão com o Pai
+
+              G/A       A7             Dsus
+        Sua glória a todos mostrará!
+
+
+ Sobe meio
+
+                    Ab      C7 5         C#7  9       Dm7/5-    Ab/Eb
+           Não há vento ou tempestade que me possa   derro    tar
+
+                  Fm7   Bbm7  D#sus  D#/C#  Ab/Bb  B9 13   Bbm7 9
+           Sou de Jesus,      sou de Jesus!
+
+           D#sus    Ab             C7 5        C#7   9    Do     Ab/Eb
+           Escolhido e chamado por Deus para ser co-herdeiro com Jesus
+
+       Fm7     Bbm7    D#sus
+           Sou de Jesus, sou de Jesus
+
+
+ Final: Ab/Db   Ab/C    -     Eb/Bb   Eb/G   Ab
+
+            Ab/Db    Ab/C   -    F#/B    -       Ab
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Ab = 4 3 1 1 1 4
+Ab/Bb = X 1 1 1 1 X
+Ab/C = X 3 X 1 4 4
+Ab/Db = X 4 6 5 4 4
+Ab/Eb = X 6 6 5 4 4
+Am7 = X 0 2 0 1 0
+Am7/C = X 3 2 0 1 0
+Am7/G = 3 0 2 0 1 0
+B7 = X 2 1 2 0 2
+B9 = X 2 4 4 2 2
+Bb9 = X 1 3 3 1 1
+Bbm7 = X 1 3 1 2 1
+Bsus4 = X 2 4 4 5 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+C#m7/5- = X 4 5 4 5 X
+C#º = X 4 5 3 5 3
+C/G = 3 3 2 X 1 X
+C7 = X 3 2 3 1 X
+D#/C# = X 4 5 3 4 X
+D#sus = X 6 5 3 4 3
+D/A = X 0 X 2 3 2
+D/C = X 3 X 2 3 2
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+D/G = 3 X X 2 3 2
+Dm7/5- = X X 0 1 1 1
+Dsus = X X 0 2 3 2
+E7 = 0 2 2 1 3 0
+Eb/Bb = X X 8 8 8 6
+Eb/G = 3 X 1 3 4 X
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#/B = X 2 4 3 2 2
+Fm7 = 1 X 1 1 1 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G/C = X 3 5 4 3 3
+G/D = X 5 5 4 3 X
+G2/B = 7 X X 7 8 5
+Gsus4 = 3 5 5 5 3 3

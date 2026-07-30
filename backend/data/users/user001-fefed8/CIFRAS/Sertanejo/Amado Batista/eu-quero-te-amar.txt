@@ -1,0 +1,53 @@
+@titulo: eu-quero-te-amar
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Eu Quero Te Amar
+
+(intro 4x) G C D C
+
+C        G
+Ai, ai, ai, eu quero te amar
+           C               G  D7
+Ai, ai, ai, eu quero te amar..!
+
+G                          C  D7 G
+Eu deito e rolo na minha cama
+              C   D7
+imaginando você
+                      C
+Meu pensamento te chama,
+              A7                     C7
+Eu sonho acordado, não dá pra esquecer -
+G                 C  D7  G
+Olhar de doce pecado,
+                 C  D7 G
+sorriso de sedução
+                    C
+Fiquei tão apaixonado
+                A7                D7
+E agora o que faço com o meu coração.
+
+C                        G
+Tudo o que é bom dura pouco
+C                   G
+Quero você muito mais
+C                    G
+Eu já to ficando louco
+            A7            D7     G
+Preciso do amor que só você me faz.
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3

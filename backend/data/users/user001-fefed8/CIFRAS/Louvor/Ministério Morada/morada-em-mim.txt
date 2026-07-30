@@ -1,0 +1,65 @@
+@titulo: morada-em-mim
+@autor:
+@intérprete: Ministério Morada
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Morada - Morada Em Mim
+
+(intro) C#m  G#m  F#m
+
+C#                   B                F#m
+Leva-me Senhor ao lugar de intimidade, leva-me
+        C#m              B     A
+Onde eu posso ouvir a Tua voz e me entregar
+         C#m       B
+Pois não posso ficar longe de Ti
+     A
+Não quero viver sem Teu amor
+       C#m       B
+Eu não posso ficar longe de Ti
+     F#m
+Não quero viver sem Teu amor
+
+B                    C#m
+Abro o coração pra Te adorar
+B                      A
+Sempre vou dizer: Eis-me aqui!
+B                     F#m
+Abro o coração pra Te adorar
+
+B                     A           B
+Sempre vou dizer: Eis-me aqui! Eis-me aqui!
+
+E               B/D#
+VEM FAZER MORADA EM MIM
+   C#m           B
+EU ABRO A PORTA, PODE ENTRAR
+      A         B
+VEM CEAR COMIGO MEU JESUS
+E               B/D#
+QUERO MAIS, CONHECER-TE MAIS
+    C#m            B
+E ABRIR A PORTA DA SALA DO TRONO
+           A
+E AOS TEUS PÉS ME DERRAMAR, ME HUMILHAR
+B
+DIZER: VEM!
+
+A                                  B
+E aos Teus pés me derramar e me humilhar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

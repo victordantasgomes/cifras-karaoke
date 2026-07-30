@@ -1,0 +1,55 @@
+@titulo: serpentes-no-deserto
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Serpentes No Deserto
+
+Intro: A7  B  A9  B  A9  B  A9  B  C#m
+       A  G#  C#m  (4x)
+
+               A
+Serpentes no deserto
+               C#m
+Um caminho a seguir
+                A
+A morte sempre perto
+                    C#m
+O que mais vou descobrir
+                       B G#
+Quanto mais vão me roubar
+                 C#m
+Quanto abuso permiti
+
+Solo: A  G#  C#m  A
+
+     C#m
+Fui brava, fui valente
+       A         G#
+Nessa luta do Senhor
+
+  C#m
+Lutei com muita gente
+    A           G#
+Resisti a muita dor
+   C#m                  A           G#
+E nessa luta veio o cavaleiro do Senhor
+  D#m                     A           G#
+E com seu braço forte destruiu o opressor
+
+Solo: C#m  A  G#  C#m  A  C#m
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+D#m = X X 1 3 4 2
+G# = 4 3 1 1 1 4

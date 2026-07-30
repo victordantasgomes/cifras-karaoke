@@ -1,0 +1,212 @@
+@titulo: evidencias
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Evidências
+
+[Intro] C  F  Dm  F/G  C  F  C/E  Dm  F/G C  F/G
+
+           C                  G/B
+Quando eu digo que deixei de te amar
+         Am7   C7(9)  C
+É porque eu te amo
+           F
+Quando eu digo que não quero
+      A7
+Mais você
+   Dm
+É porque eu te quero
+          G7
+Eu tenho medo de te dar meu
+ G#º
+Coração
+         Am7
+E confessar   que eu estou
+         Am7/G
+Em tuas mãos
+         D7         C/E
+Mas não posso imaginar
+
+           D/F#
+O que vai ser de mim
+             G      F/A  G/B
+Se eu te perder um dia
+
+        C
+Eu me afasto e me defendo
+    G/B
+De você
+     Am           C7(9)  C
+Mas depois me entrego
+      F
+Faço tipo, falo coisas que
+    A7
+Eu não sou
+     Dm
+Mas depois eu nego
+          G7
+Mas a verdade é que sou
+       G#º
+Louco por você
+         Am
+E tenho medo de pensar
+       Fm
+Em te perder
+       C                       F/G
+Eu preciso aceitar que não dá mais
+                C4     C    C4  C  F/G
+Pra separar as nossas vidas
+
+C
+E nessa loucura de dizer
+Que não te quero
+       E
+Vou negando as aparências
+Disfarçando as evidências
+          F
+Mas pra que viver fingindo
+           Dm
+Se eu não posso enganar
+         G7
+Meu coração
+    Dm        G7
+Eu sei que te amo
+
+  C
+Chega de mentiras
+De negar o meu desejo
+        E
+Eu te quero mais que tudo
+Eu preciso do seu beijo
+       F
+Eu entrego a minha vida
+       Dm
+Pra você fazer o que quiser
+    G7
+De mim
+     Dm           G7
+Só quero ouvir você dizer
+     C
+Que sim
+              C7
+Diz que é verdade que tem
+    F   C/E
+Saudade
+    Dm          G7
+Que ainda você pensa muito
+    C
+Em mim
+              C7
+Diz que é verdade que tem
+     F  C/E
+Saudade
+    Dm           G7
+Que ainda você quer viver
+     C
+Pra mim
+
+         D#
+Eu me afasto e me defendo
+    A#/D
+De você
+     Cm            D#7(9) G#7M G#9
+Mas depois me entrego
+      G#
+Faço tipo, falo coisas que
+    C7
+Eu não sou
+     Fm
+Mas depois eu nego
+          A#7
+Mas a verdade é que sou
+       Bº
+Louco por você
+         Cm
+E tenho medo de pensar
+         G#m
+Em te perder
+       D#                       G#/A#
+Eu preciso aceitar que não dá mais
+                D#4     D#    D#4  D# G#/A#
+Pra separar as nossas vidas
+
+D#
+E nessa loucura de dizer
+
+Que não te quero
+       G
+Vou negando as aparências
+
+Disfarçando as evidências
+          G#
+Mas pra que viver fingindo
+           Fm
+Se eu não posso enganar
+         A#7
+Meu coração
+    Fm       A#7
+Eu sei que te amo
+
+  D#
+Chega de mentiras
+
+De negar o meu desejo
+        G
+Eu te quero mais que tudo
+
+eu preciso do seu beijo
+       G#
+Eu entrego a minha vida
+       Fm
+Pra você fazer o que quiser
+    A#7
+De mim
+     Fm          A#7
+Só quero ouvir você dizer
+     D#
+Que sim
+              D#5+
+Diz que é verdade que tem
+    G#   G#9
+Saudade
+    Fm         A#7
+Que ainda você pensa muito
+    D#
+Em mim
+              D#5+
+Diz que é verdade que tem
+     G#  G#9
+Saudade
+    Fm          A#7
+Que ainda você quer viver
+Pra mim
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am7/G = 3 0 2 0 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C4 = X 3 3 0 1 X
+C7 = X 3 2 3 1 X
+C7(9) = X 3 2 3 3 X
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F/G = 3 X 3 2 1 X
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G#º = 4 X 3 4 3 X
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

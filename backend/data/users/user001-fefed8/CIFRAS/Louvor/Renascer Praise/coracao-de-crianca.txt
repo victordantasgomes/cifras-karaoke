@@ -1,0 +1,83 @@
+@titulo: coracao-de-crianca
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Coração de Criança
+
+(intro) F#m7 A/E D9 E F#m7 A/E D9 A/C# Bm7 C#m7 E/D D E/D D
+
+        D             E         E/G#
+ Senhor dá me um coração de criança
+     A4       A                 F#m7
+ Que busca no pai sempre a solução
+          D               E     E/G#           E
+ Que ouve o que está pra acontecer
+        A4           A          F#m7
+ E se alegra e prepara-se pra viver
+          Bm7       Bm/A   Bm/G#    Fdim
+ Que sabe que na correção há amor
+     F#m7                    D#°
+ E na disciplina um futuro melhor
+         D                         E/D       C#m7
+ Não teme que algo lhe vai faltar
+             Bm7 Bm/G#   C#/F            F#m B/D#     Bm7  D/E  E  A  C#7
+ Pois o Pai,     Tu,      Deus Pai     sempre   tudo     suprirá!
+     A/G#   E/F#  D  A/C#  Bm7  A  G#dim  Fdim
+
+(solo)
+
+(F#m7 G#7sus4 F#m/A  B7/5b  B7 Bm7  D/E  A   C#7)
+
+     F#m7                 A/E    D                           C#m7
+  Um coração de criança busca seu pai agradar
+    F#m7                  A/E   D                             A/C#
+  Um coração de criança anda sem se preocupar
+    Bm7                     G#7sus4  C#7/F
+  Um coração de criança
+   F#m7                     B/D#
+   Fala pra todos que tem
+           Bm7    D/E   E      A      C#7
+   Um Pai, um Pai   de amor....
+           Bm7    D/E   E      A   E/G#    F#m7
+   Um Pai, um Pai   de amor....
+
+ ( A/G# E/F#  D  A/C#  Bm7  A  E7/G#  A)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A/G# = 4 X 2 2 2 X
+A4 = X 0 2 2 3 0
+B/D# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+B7/5b = X 2 3 2 3 X
+Bm/A = X 0 4 4 3 X
+Bm/G# = X X 6 4 3 2
+Bm7 = X 2 4 2 3 2
+C#/F = X 8 X 6 9 9
+C#7 = X 4 3 4 2 X
+C#7/F = X X 3 4 2 4
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D#° = X X 1 2 1 2
+D/E = X X 2 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E/F# = X X 4 4 5 4
+E/G# = 4 X 2 4 5 X
+E7/G# = 4 X 2 4 3 X
+F#m = 2 4 4 2 2 2
+F#m/A = X 0 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+Fdim = X X 3 4 3 4
+G#7sus4 = 4 6 4 6 4 X
+G#dim = 4 X 3 4 3 X

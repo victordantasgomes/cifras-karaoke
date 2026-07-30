@@ -1,0 +1,96 @@
+@titulo: somos-um
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Somos Um
+
+[INT] ->  D  -  Bm  -  D
+          D  -  Bm  -  A
+
+D      A/C#   Bm - Bm/A
+Pai, estamos aqui
+  G             D/F#         Em - A4 - A
+Sabemos que foi pago um alto preço
+         Bm          Bm/A#
+Preço de morte e de cruz
+         Bm/A      Bm/G#
+Preço de ressurreição
+        Em                A
+Para haver uma grande comunhão
+D       A/C#   Bm - Bm/A
+Pai, estamos aqui,
+  G             D/F#         Em  - A4 - A
+Sabemos que foi pago um alto preço
+      Bm       Bm/A#
+Para viver em amor
+        Bm/A     Bm/G#
+Pra repartir  o  pão
+
+     G       Em    A
+Numa mesa de comunhão
+
+      D - D/C# -  Bm -  Bm/A
+Somos um...........só corpo,
+          G - Em             A4 - A
+Somos     u............ma   família
+D/F#        G           A/G
+Cora.......ções transformados
+      F#m     Bm
+Vidas restau..radas
+       Em               A
+Pela unção e poder de Jesus
+
+PARA SUBIR O
+
+       Em       G        D   -   B
+Pela unção e poder de Jesus
+      E - E/D# -  C#m -  C#m/B
+Somos um...........só corpo,
+       A - F#m             B
+Somos  u............ma   família
+
+
+E/G#        A           B/A
+Cora.......ções transformados
+       G#m    C#m
+Vidas restau..radas
+        F#m      A        B
+Pela unção e poder de Jesus
+        F#m     B        C#m
+Pela unção e poder de Jesus
+        F#m      B      F#/B#
+Pela unção e poder de Jesus
+
+final:   A - C#m9 - A - C#m9 - E
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+A4 = X 0 2 2 3 0
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+Bm/A# = X X 8 7 7 7
+Bm/G# = X X 6 4 3 2
+C#m = X 4 6 6 5 4
+C#m/B = 7 X 6 6 5 X
+C#m9 = X 4 6 8 5 4
+D = X X 0 2 3 2
+D/C# = X 4 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/D# = X X 1 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

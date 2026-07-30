@@ -1,0 +1,47 @@
+@titulo: este-hino-de-louvor
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Este Hino de Louvor
+
+      C             Em         Am           G7     Dm   G  C7     C            Em      Am
+1 - Este hino de louvor que envolve o meu ser / É de gratidão / a bondade do Senhor é tão
+              G7     Dm    G7    C    C7
+grande, sem confim / Veio até a mim.
+
+    F           C   F            C    Dm     G7   C    (C7)
+Glória ao Senhor, glória ao Senhor, Deus Criador!
+
+      C             Em         Am           G7     Dm   G  C7         C
+2 - Ao Deus Pai que nos criou, a ternura filial / Deus é nosso Pai / Jesus Cristo nosso
+  Em     Am              G7     Dm    G7    C    C7
+Irmão, deu a vida pelos seus / Nós somos de Deus.
+
+  F            C   F             C  Dm   G7      C    (C7)
+Glória ao Senhor, glória ao Senhor, Deus Salvador!
+
+      C             Em         Am           G7     Dm   G  C7         C                Em      Am
+3 - Deus é fonte de amor, santifica o nosso ser / Espírito de amor / Nós, Igreja militante, o
+              G7     Dm    G7    C    C7
+amor de Deus cantamos / Para sempre, amém.
+
+
+F              C   F             C  Dm  G7   C    (C7)
+Glória ao Senhor, glória ao Senhor, Deus Amor!
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

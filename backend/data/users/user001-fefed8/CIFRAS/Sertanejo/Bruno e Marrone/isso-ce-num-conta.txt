@@ -1,0 +1,152 @@
+@titulo: isso-ce-num-conta
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Isso Cê Num Conta
+
+Intro: Dm  C/E  (Passagem)  G
+
+Passagem:
+       G
+E|-----3------------------------------------|
+B|-----3------------------------------------|
+G|-----0------------------------------------|
+D|-----0------------------------------------|
+A|-----2------------------------------------|
+E|-0-2-3------------------------------------|
+
+Primeira Parte:
+
+         C                        G
+Fala pra elas que o fim de semana
+              Am7
+Foi o melhor da sua vida
+        Dm                  G
+Que voltou a sorrir porque tava sem mim
+
+         C               Em7
+Faz elas acreditarem que era
+
+                 Am7
+De dó que ainda tava comigo
+        Dm              C/E  F
+Que eu sempre fui um cara  chato
+              G
+Que nem sabe como tava do meu lado
+
+Refrão:
+
+                         C
+Que a gente foi no motel ontem
+             G                  Am7
+Isso cê num conta, isso cê num conta
+                    Dm
+E que você pagou a conta
+             F                  G
+Isso cê num conta, isso cê num conta
+
+                      C
+Que ainda chora escondida
+             G                  Am7
+Isso cê num conta, isso cê num conta
+                        Dm
+Que pediu pra voltar comigo
+             F                  G
+Isso cê num conta, isso cê num conta
+      C           G  Am7  Dm  F  G
+Aí você não conta
+
+Primeira Parte:
+
+         C                        G
+Fala pra elas que o fim de semana
+              Am7
+Foi o melhor da sua vida
+        Dm                  G
+Que voltou a sorrir porque tava sem mim
+
+         C               Em7
+Faz elas acreditarem que era
+                 Am7
+De dó que ainda tava comigo
+        Dm                  F
+Que eu sempre fui um cara chato
+
+Que nem sabe como
+   G             Am7  G/B  G
+Tava do meu lado
+
+Refrão:
+
+                         C
+Que a gente foi no motel ontem
+             G                  Am7
+Isso cê num conta, isso cê num conta
+                    Dm
+E que você pagou a conta
+             F                  G
+Isso cê num conta, isso cê num conta
+
+                      C
+Que ainda chora escondida
+             G                  Am7
+Isso cê num conta, isso cê num conta
+                        Dm
+Que pediu pra voltar comigo
+             F                  G
+Isso cê num conta, isso cê num conta
+
+                         C
+Que a gente foi no motel ontem
+             Em7                  Am7
+Isso cê num conta, isso cê num conta
+                    Dm
+E que você pagou a conta
+             F                  G
+Isso cê num conta, isso cê num conta
+
+                      C
+Que ainda chora escondida
+             G                  Am7
+Isso cê num conta, isso cê num conta
+                        Dm
+Que pediu pra voltar comigo
+             F                  G
+Isso cê num conta, isso cê num conta
+                  Dm  C  G/B  G  C
+Aí você não conta
+
+Final: Parte 1 de 2
+            Dm  C  G/B  G
+E|----------1---0---3---3-------------------|
+B|----------3---1---3---3-------------------|
+G|-0--------2---0---0---0-------------------|
+D|---3-2-0--0---2---0---0-------------------|
+A|--------------3---2---2-------------------|
+E|----------------------3-------------------|
+
+Parte 2 de 2
+           C
+E|---------0-0-0-0------0-------------------|
+B|---------1-1-1-1------1-------------------|
+G|---------0-0-0-0------0-------------------|
+D|-3-2-0-2-2-2-2-2--2-0-2-------------------|
+A|---------3-3-3-3------3-------------------|
+E|------------------------------------------|
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C/E = X X 2 0 1 0
+Dm = X X 0 2 3 1
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 3 3
+G/B = X 2 0 0 3 3

@@ -1,0 +1,105 @@
+@titulo: por-voce
+@autor:
+@intérprete: Frejat
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Frejat - Por Você
+
+(intro) E  A5(9)  E  A5(9)
+
+        E          A5(9)        E
+ Por você eu dançaria tango no teto
+          E/D               D5(9)
+ Eu limparia os trilhos do metrô
+      C           D5(9)      E   A5(9)
+ Eu iria a pé do Rio a Salvador
+           E     A5(9)        E
+ Eu aceitaria a vida como ela é
+       E/D               D5(9)
+ Viajaria à prazo pro inferno
+         C           D5(9)     E
+ Eu tomaria banho gelado no inverno
+
+
+        C#m        A9       C#m   B5(9)
+ Por você eu deixaria de beber
+        C#m       A9           C#m
+ Por você eu ficaria rico num mês
+          B5(9)         A9           E
+ Eu dormiria de meia pra  virar burguês
+
+A5(9)         B5(9)         E
+      Eu mudaria até o meu nome
+         B5(9)           A5(9)
+ Eu viveria em greve de fome
+        B4         A9/C# B5(9)    E   A5(9)
+ Desejaria todo o dia a mesma mulher
+
+
+        E   A5(9)        E  A5(9)
+ Por você,        por você
+        E   A5(9)        E  A5(9)
+ Por você,        por você
+
+
+        E          A5(9)          E
+ Por você conseguiria até ficar alegre
+       E/D                  D5(9)
+ Pintaria todo o céu de vermelho
+       C           D5(9)          E    A5(9)
+ Eu teria mais herdeiros que um coelho
+           E     A5(9)        E
+ Eu aceitaria a vida como ela é
+       E/D               D5(9)
+ Viajaria à prazo pro inferno
+         C           D5(9)        E
+ Eu tomaria banho gelado no inverno
+
+
+solo:  C#m   A9   C#m  B5(9)
+       C#m   A9   C#m  B5(9)  A9  E
+
+11--11h12p11-------------------11--11h12p11--------
+-------------12--9/12-----------------------12-----
+-----------------------11p9--8-----------------9/12
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+
+11h12p11------11h12p11-----------------------------
+----------12------------12--9---5------------------
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+
+A5(9)         B5(9)         E
+      Eu mudaria até o meu nome
+         B5(9)           A5(9)
+ Eu viveria em greve de fome
+        B4         A9/C# B5(9)    E   A5(9)
+ Desejaria todo o dia a mesma mulher
+
+        E   A5(9)        E  A5(9)
+ Por você,        por você
+        E   A5(9)        E  A5(9)
+ Por você,        por você
+
+----------------- Acordes -----------------
+A5(9) = X 0 2 2 0 0
+A9 = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+B4 = X 2 4 4 5 2
+B5(9) = X 2 4 4 2 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D5(9) = X 5 7 9 X X
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4

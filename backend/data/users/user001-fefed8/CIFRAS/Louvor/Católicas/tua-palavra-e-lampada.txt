@@ -1,0 +1,50 @@
+@titulo: tua-palavra-e-lampada
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Tua Palavra É Lâmpada
+
+C             G/B               Am      G
+Tua palavra é lâmpada para meus pés Senhor,
+ F      G/F        Em      Am7       Dm         G7    Gm7  C79
+lâmpada para meus pés,   Senhor,     luz para o meu caminho.
+F       G/F        Em      Am7      Dm        G7     C       G/A
+lâmpada para meus pés,  Senhor ,   luz para o meu caminho.
+
+D             A/C#              Bm      A
+Tua palavra é lâmpada para meus pés Senhor,
+ G      A/G       F#m       Bm7      Em         A7    Am7    D79
+lâmpada para meus pés,   Senhor,     luz para o meu caminho.
+G       A/G       F#m      Bm7     Em         A7     D
+lâmpada para meus pés,  Senhor ,   luz para o meu caminho.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C79 = X 3 2 3 3 X
+D = X X 0 2 3 2
+D79 = X 5 4 5 5 X
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G/F = 1 X X 0 0 3
+G7 = 3 5 3 4 3 3
+Gm7 = 3 X 3 3 3 X

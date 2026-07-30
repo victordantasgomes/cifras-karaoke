@@ -1,0 +1,83 @@
+@titulo: a-ti-seja-a-gloria
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - A Ti Seja a Glória
+
+(intro) D  Gm/D  D  Gm/C
+
+D       Gm9/D    D          Gm9/D
+Todo o louvor,  toda a adoração
+      F#m7       Bm
+Sejam dados a   Jesus
+       F#m7             Bm
+Nos prostramos aos teus pés
+             G  -  D/F#  -  Em7        G  -  D/F#  -  Em7
+a Ti seja a gló-------------ria,      gló-------------ria,
+
+Para sempre,
+D  Gm9/D    D    Gm9/D    Gm9/D    D    Gm7/C
+Amém
+
+D  A/B  B7
+Amém
+E       Am9/E  E                Am7/E
+Todo o louvor, toda a adoração
+      G#m7      C#m
+Sejam dados a   Jesus
+
+        G#m7            C#m
+Nos prostramos aos teus pés
+            A  -  E/G#  -  F#m7        A  -  E/G#  -  F#m7
+a Ti seja a gló-------------ria,      gló-------------ria,
+
+Para sempre,
+ Cmaj7  -  D  -  C/E  -  D/F#  -  A/B  -  B/A  -
+Amém
+      G#m7      C#m7
+Sejam dados a Jesus
+        G#m             C#m
+Nos prostramos aos teus pés
+            A  -  E/G#  -  F#m7        A  -  E/G#  -  F#m7
+a Ti seja a gló-------------ria,      gló-------------ria,
+
+A  E/G#  F#m7        A    E/G#    F#m7
+gló-------------ria,      gló-------------ria
+
+Para sempre,
+E  Am9/E  E  Am9/E  E
+Amém
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+Am7/E = X X 2 2 1 3
+Am9/E = 0 0 2 4 1 0
+B/A = X 0 4 4 4 X
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+C/E = 0 3 2 0 1 0
+Cmaj7 = X 3 2 0 0 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4
+G#m7 = 4 X 4 4 4 X
+G/A = 5 X 5 4 3 X
+Gm/C = X 3 5 3 3 3
+Gm/D = X 5 5 3 3 3
+Gm7/C = X 3 3 3 3 3
+Gm9/D = 10 10 12 14 11 10

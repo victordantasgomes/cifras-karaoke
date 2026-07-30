@@ -1,0 +1,49 @@
+@titulo: derrama-tua-shekinah
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Derrama Tua Shekinah
+
+Intro: C#m  A9  E  C#m  A9  B9  G#/C  C#m  A9  B9  E
+
+           C#m     A9          E
+Derrama tua She Kinah sobre nós
+            C#m     A9        B9
+Derrama tua She  Kinah sobre nós
+            G#/C            C#m
+Não conseguiremos ficar de pé
+                 A9  B9      E
+Tamanha é Sua Glória sobre nós
+
+             C#m    A9        E
+Derrama Teu Espí rito sobre nós
+             C#m  A9         B
+Derrama teu Espí rito sobre nós
+             G#/C           C#m
+Não conseguiremos ficar de pé
+                A9  B9       E
+Tamanho é Seu Poder sobre nós
+
+Solo:
+
+E|---------------7-------------------------7----------------------------------------------------------------
+B|---4/5-5-5-4-5---5-5-4-5-5---4/5-5-5-4-5---5-5-7-9-7~--7-7-9-10-9-7-5-7-7/9-5~----------------------------
+G|-------------------------------------------------------------------------------6h8/9-9-8-6------8h9~-8h9~-
+D|-------------------------------------------------------------------------------------------9-7------------
+A|----------------------------------------------------------------------------------------------------------
+E|----------------------------------------------------------------------------------------------------------
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+G#/C = X 3 X 1 4 4

@@ -1,0 +1,51 @@
+@titulo: outra-cancao-de-amor
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Outra Canção de Amor
+
+(intro)  D A E7 A D A D E7 A
+
+A          D          A              E7
+Que dia lindo, meu bem, raios de sol na cidade
+A          D          A            E7
+Um passarinho cantou existe a felicidade
+    F#m     D              A            E7
+Nas ruas cheias de luz o sofrimento acabou
+   Fm         F            E7             A
+Acho que dá pra cantar outra canção de amor.
+
+A          D              A            E7
+Que dia lindo, meu bem valeu a pena esperar
+A                D      A            E7
+Pra ver desaparecer toda a miséria que há
+  F#m       D               A         E7
+Não há criança infeliz a fome se acabou
+   Fm        F            E7             A
+A multidão vai cantar outra canção de amor.
+
+A        D         A             E7
+Não mais poluição, vi peixes no Tiete
+A            D                A               E7
+Ninguém precisa de lei, ninguém faz ninguém sofrer.
+    F#m   D              A            E7
+O homem deixa afinal sua história de dor
+   Fm         F          E7              A
+Para aprender a cantar outra canção de amor.
+
+ 
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+Fm = 1 3 3 1 1 1

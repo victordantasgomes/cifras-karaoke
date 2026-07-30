@@ -1,0 +1,68 @@
+@titulo: solidao-a-tres
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Solidão a Três
+
+Intro: D  Bm  G  A4  A
+
+  D            A/C#       G/B          G  D/F#      Em
+Você me disse que não se lembrava mais que aquele
+                      A              Em         G
+antigo amor não tinha nada a ver que era apenas um amigo um
+ A        A4  A        G                    D    A4  A
+bom rapaz perdidamente apaixonado por você
+
+    D           A/C#          G/B    G  D/F#      Em
+Não quero tomar conta do seu coração mas vejo um
+        G            A        Em         G
+brilho diferente em seu olhar pode ser até que eu não tenha
+A     A4      A          G        Em     A4       A
+razão mas sei que às vezes ele vem aqui te procurar
+
+  D                         A/C#                      C6
+Se ele vem existe algum motivo esse amor ainda está vivo
+           D7    G         Gm/A                 D
+dentro do seu coração você não esqueceu esse sujeito e ainda
+ Bm7          E/G#       E        A4    A
+guarda no seu peito um pedaço de paixão
+
+D                        A/C#                     C6
+Eu não vou ficar no seu caminho não vou dividir carinho ser
+   D7              G    Gm/A                       D   A/C#
+um outro nessa história solidão a três não faz sentido
+     Bm       Bm/A   E/G#      A               G/D  D
+se o amor ta dividido ele fica e eu vou embora
+
+Solo: C  E/B  Em/B  D/A  E/G#  Em  E/A  A/C#  D  G/D  D  G/D
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C6 = 8 X 7 9 8 X
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E/B = X 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+Em/B = X 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+Gm/A = 5 X 5 3 3 X

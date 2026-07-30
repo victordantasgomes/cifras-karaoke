@@ -1,0 +1,43 @@
+@titulo: bebedeira
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Bebedeira
+
+Intro: B7 E B7 E B7 E B7 A G#m F#m E
+
+                     E
+Não entendo por que é
+                           B7
+Que o coração da gente
+
+Quando menos esperamos
+                            E
+Por alguém ele se prende...
+
+Por exemplo, esse é meu caso
+       E7              A
+Vacilei, marquei bobeira
+                        B7
+E agora, meus amigos
+                   E   B7
+É aquela bebedeira!
+               E
+Apaixonado, alucinado
+     B7              E
+E dominado, por esse amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,17 @@
+@titulo: Yellow
+@autor:
+@intérprete: Coldplay
+@tom: B
+@velocidade: 55
+@ritmomusical: pop rock
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+B
+Look at the stars
+F#
+Look how they shine for you
+E                    B
+And everything you do

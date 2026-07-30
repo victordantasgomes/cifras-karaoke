@@ -1,0 +1,41 @@
+@titulo: felizes
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - Felizes
+
+E F#m       G#m    A       E       A        B
+Felizes, Senhor, os que habitam em vossa casa!
+E F#m       G#m    A       E       B        A E
+Felizes, Senhor, os que habitam em vossa casa!
+A             B       E       A   B           E            A      B
+Minha alma anseia até desfalecer, pelos átrios do Senhor, meu Deus
+A         E/G#  F#m   E       A      F#m        B
+Meu coração e minha carne exultam pelo Deus vivo.
+A             B       E         A     B               E            A     B
+Mesmo o pardal se abriga em vossa casa e a andorinha faz um ninho para si
+A         E/G#     F#m      E       A           F#m        B
+Eu encontrei     vossos altares, Senhor, meu Deus e meu Rei
+A        B             E      A     B             E                A      B
+Felizes todos que habitam vossa casa sem cessar podem louvar-vos, ó Senhor
+A         E/G#    F#m       E              A         F#m       B
+Feliz de quem vós sois a força, pois caminha crescente em vigor
+A                    B       E      A      B          E               A    B
+Um dia em vossos átrios vale mais que mil, eu desejo em vossa casa repousar
+A             E/G#     F#m      E       A    F#m     B
+Senhor, vós sois meu sol e escudo, felicidade sem fim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,58 @@
+@titulo: seu-nome-e-jesus
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Seu Nome É Jesus
+
+Intro:  Em    C    G   D
+
+E|---------12-------------|---------12----------------------|
+B|------12---------10h12--|------12------10h12--12h13--12~--|
+G|---12-------------------|---12----------------------------|
+D|------------------------|---------------------------------|
+A|------------------------|---------------------------------|
+E|------------------------|---------------------------------|
+
+Em              C
+ Os que andavam desgarrados como ovelhas
+Em             C
+ Os que viviam encarcerados em prisões
+Em               C
+ Os que choravam e não tinham consolo
+Em            C             (Em    C     G    D)
+ Os cansados, Viram a grande luz
+C               (Em    C     G    D)
+ Viram a grande luz (2x)
+
+Em                     C
+Onde está, oh morte,a sua vitória?
+
+G                  D
+Meu senhor ressuscitou
+Em                 C
+Apanhou a chave da morte e do inferno
+G                  D
+Meu senhor ressuscitou (2x)
+
+           Am   Em
+Seu nome é Jesus
+           G     D
+Seu nome é Jesus
+           Am   Em
+Seu nome é Jesus
+           G     D
+Seu nome é Jesus
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

@@ -1,0 +1,65 @@
+@titulo: a-comecar-em-mim
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - A Começar Em Mim
+
+Intro: D G D/F# G G/A D
+
+  D   A/C#   Bm   D/A
+A começar em mim
+G  D/F#  Em7      A7
+Quebra   corações,
+    D     A/C#  G/B     D/A
+Pra que sejamos todos um,
+G          G/A      D
+Como Tu és em nós
+
+F#m7                      Bm7
+Onde há frieza que haja amor,
+          Em7                  A
+Onde há ódio o perdão
+F#m7                      Bm7
+Para que Teu corpo cresça, sim,
+       G        G/A     D
+Rumo à perfeição.
+
+  D   A/C#   Bm   D/A
+A começar em mim
+G  D/F#  Em7      A7
+Quebra   corações,
+    D     A/C#  G/B     D/A
+Pra que sejamos todos um,
+G          G/A      D
+Como Tu és em nós
+
+F#m7                      Bm7
+Onde há frieza que haja amor,
+          Em7                  A
+Onde há ódio o perdão
+F#m7                      Bm7
+Para que Teu corpo cresça, sim,
+       G        G/A     D
+Rumo à perfeição.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3

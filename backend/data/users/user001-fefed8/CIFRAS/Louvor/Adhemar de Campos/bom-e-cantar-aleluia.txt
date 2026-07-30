@@ -1,0 +1,41 @@
+@titulo: bom-e-cantar-aleluia
+@autor:
+@intérprete: Adhemar de Campos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Adhemar de Campos - Bom É Cantar Aleluia
+
+Em7/9              A    Em7/9             A
+Bom é cantar aleluia, bom é louvar a Deus 
+Em7/9               A        D7+      D#°
+Sim, com toda alegria a ele bendizer 
+Em7/9              A    Em7/9             A
+Bom é cantar aleluia, bom é louvar a Deus 
+Em7/9               A        D7+                 Am7  D
+Sim, com toda alegria a ele bendizer, bendizer 
+          G7+        C7/9         D             B
+  Deus é minha fortaleza, meu refugio e protecao 
+          Em             A               D7+   Am7  D
+  Transformou minha tristeza em nova cancao 
+          G7+        C7/9         D             B
+  Deus é minha fortaleza, meu refugio e protecao 
+          Em             A               D7+
+  Transformou minha tristeza em nova cancao
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+C7/9 = X 3 2 3 3 X
+D = X X 0 2 3 2
+D#° = X X 1 2 1 2
+D7+ = X X 0 2 2 2
+Em = 0 2 2 0 0 0
+Em7/9 = X 7 5 7 7 X
+G7+ = 3 X 4 4 3 X

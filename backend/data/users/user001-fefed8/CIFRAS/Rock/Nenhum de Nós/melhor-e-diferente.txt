@@ -1,0 +1,143 @@
+@titulo: melhor-e-diferente
+@autor:
+@intérprete: Nenhum de Nós
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nenhum de Nós - Melhor e Diferente
+
+Intro: D   C  B  A  D   C B A  F#   C B A  A  D   D4   D   D4
+
+D                                   Gm
+ A mesma tela que ilumina o seu olhar
+D                                                   F#m
+ Lança uma sombra estranha no seu coração
+Gm                                                   D
+ Não tenha medo, chegue um pouco mais pra perto
+E                                    A
+ Estou apenas a um toque de suas mãos
+
+D                                     Gm
+ Essa distância que insiste em separar
+D                                                F#m
+ É uma língua estranha que não tem tradução
+Gm                                      D
+ Mesmo sem dominar atalhos e formatos
+E                                                     A
+ Eu sei a forma exata de mandar a informação
+
+D                     C/D
+Vivo em uma rede
+
+G/D                        Bb/D
+Amo de um jeito urgente
+D                                     C/D
+Se um nome não me serve
+                G/D                 Bb/D
+Se um perfil não me preenche
+D                  C/D
+Invento um novo eu
+G/D              Bb/D
+Invento um outro alguém
+         D    C
+Diferente
+     G/B             Bb     D   C
+Melhor e diferente
+     G/B             Bb       D
+Melhor e diferente
+
+D                                     Gm
+ Me sinto perto de um dia te encontrar
+D                                                 F#m
+ Mas já não sei se quero, distância é proteção
+Gm                              D
+ Sei que pareço diferente nesta foto
+E                                 A
+ Preciso alimentar a sua ilusão
+
+D                     C/D
+Vivo em uma rede
+G/D                        Bb/D
+Amo de um jeito urgente
+D                                     C/D
+Se um nome não me serve
+                G/D                 Bb/D
+Se um perfil não me preenche
+D                  C/D
+Invento um novo eu
+G/D              Bb/D
+Invento um outro alguém
+         D    C
+Diferente
+   G/B             Bb     D   C
+Melhor e diferente
+      G/B           Bb     Em   A   Em   A
+Melhor e diferente
+
+Em                                      A
+ Essa ânsia incontrolável de conectar
+Em                                        A
+ Uma vida devotada a teclar e deletar
+Em                                         A
+ Baixar o mundo inteiro, falar e terminar
+Em                                         A
+ Te entregar a minha vida, mas nunca te tocar
+
+D                     C/D
+Vivo em uma rede
+G/D                        Bb/D
+Amo de um jeito urgente
+D                                     C/D
+Se um nome não me serve
+                G/B                 Bb/D
+Se um perfil não me preenche
+D                  C/D
+Invento um novo eu
+G/B               Bb/D
+Invento um outro alguém
+         D    C
+Diferente
+      G/B           Bb
+Melhor e diferente
+D                     C
+Vivo em uma rede
+G/B                        Bb
+Amo de um jeito urgente
+D                                     C
+Se um nome não me serve
+                G/B                 Bb
+Se um perfil não me preenche
+D                  C
+Invento um novo eu
+G/B              Bb
+Invento um outro alguém
+         D    C
+Diferente
+      G/B           Bb     D   C
+Melhor e diferente
+      G/B           Bb     D   C
+Melhor e diferente
+      G/B           Bb     D   C  B  A  D   C B A  F#   C B A  A
+Melhor e diferente
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+Bb/D = X 5 X 3 6 6
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+Gm = 3 5 5 3 3 3

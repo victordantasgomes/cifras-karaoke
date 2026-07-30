@@ -1,0 +1,57 @@
+@titulo: paraiso
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - Paraíso
+
+Intro 2x: G  G7  C  D7  C  Bm  Am  G  D7
+
+             G                        C
+   Quando o Sol se esconde, no meu paraíso
+          D7    C   Bm     Am    G   D7
+   Vem a lua cheia mostrar o sorriso
+         G                C
+   Conto as estrelas, sentado no chão
+           D7  C    Bm     Am     G  D7
+   Toda a natureza canta esta canção
+          G                C               D7     C    Bm   Am   G  D7
+   La la la la la,   la la la la la, la la la la la la la la la  la
+          G                C                D7    C     Bm   Am   G  D7
+   La la la la la,   la la la la la , la la la la la la la la la la,
+        G                 C
+   Tem uma casinha e uma caboclinha
+          D7       C       Bm   Am     G    D7
+   Pelos campos , nós brincamos de esconder
+              G                   C
+   Todos os passarinhos, vem nos visitar
+          D7    C     Bm   Am    G
+   Fazem festa para o dia amanhecer
+
+
+          G                C               D7     C    Bm   Am   G  D7
+   La la la la la,   la la la la la, la la la la la la la la la  la
+          G                C                D7    C     Bm   Am   G  D7
+   La la la la la,   la la la la la , la la la la la la la la la la,
+          G                C               D7     C    Bm   Am   G  D7
+   La la la la la,   la la la la la, la la la la la la la la la  la
+          G                C                D7    C     Bm   Am   G  D7
+   La la la la la,   la la la la la , la la la la la la la la la la,
+          G                C               D7     C    Bm   Am   G  D7
+   La la la la la,   la la la la la, la la la la la la la la la  la
+          G                C                D7    C     Bm   Am   G  D7
+   La la la la la,   la la la la la , la la la la la la la la la la,
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

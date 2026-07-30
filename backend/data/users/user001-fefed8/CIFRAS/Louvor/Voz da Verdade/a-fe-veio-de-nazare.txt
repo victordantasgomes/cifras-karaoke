@@ -1,0 +1,51 @@
+@titulo: a-fe-veio-de-nazare
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - A Fé Veio de Nazaré
+
+INTRO: D, D4, D, D4, D, D4, D, D4, D
+
+   D       A       D         A
+Jesus é a rosa, a rosa de Saron
+   D                 A        E          A
+Jesus é o Lírio dos Vales, a paz do coração
+
+   G     D   E              A
+A fé, a fé, veio lá de Nazaré
+       G           D         E                A
+E o caminho, a verdade, e a vida veio de Nazaré
+
+SOLO: MESMAS NOTAS DA INTRODUÇÃO
+
+   D       A          D         A
+Jesus é a paz, que o mundo não tem
+   D       A          E              A
+Jesus é a paz, que o mundo não pode dar
+
+   G     D   E              A
+A fé, a fé, veio lá de Nazaré
+
+       G           D         E                A
+E o caminho, a verdade, e a vida veio de Nazaré
+   G     D   E              A
+A fé, a fé, veio lá de Nazaré
+       G           D         E                A
+E o caminho, a verdade, e a vida veio de Nazaré
+
+SOLO: D7
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3

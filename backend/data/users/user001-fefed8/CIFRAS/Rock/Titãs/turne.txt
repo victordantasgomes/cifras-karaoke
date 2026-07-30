@@ -1,0 +1,87 @@
+@titulo: turne
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Turnê
+
+Intro: (G F) (G G#) (G Bb C Eb)
+
+(G Bb C Eb)
+ Vôo quatro, cinco, sete
+ Galeão, Guarulhos
+ Vôo sete, meia, cinco
+ Confins, dois de Julho
+ Dia treze de Setembro
+ Ao meio dia e meio
+ Dia quinze de Agosto
+ Às quinze para as oito
+
+(G Bb Eb Db)
+ Não sei quando nem aonde
+ Não sei como nem porque
+ Não sei quando nem aonde
+ Não sei, não quero saber
+
+(G G#)
+ Um dia cospem na minha cara
+ Um dia beijam o meu pé
+
+ Meia hora pra comer
+ Qualquer coisa o que tiver
+ Um dia cospem na minha cara
+ Um dia beijam minha mão
+ Meia hora pra dormir
+ Isso é tudo o que me dão
+
+(G Bb Eb D)
+
+(G Bb C Eb)
+ Vitória, Maceió, São José Dos Campos
+ Goiânia, Cuiabá, Juiz De Fora, Santos
+ Quarto dois, zero, meia
+ Quilômetro vinte e três
+ Quarto nove, zero, sete
+ Quilômetro vinte e seis
+
+(G Bb Eb Db)
+ Não sei quando nem aonde
+ Não sei como nem porque
+ Não sei quando nem aonde
+ Não sei, não quero saber
+
+(G F)
+
+(G G#)
+ Um dia cospem na minha cara
+ Um dia beijam o meu pé
+ Meia hora pra comer
+ Qualquer coisa o que tiver
+ Um dia cospem na minha cara
+ Um dia beijam minha mão
+ Meia hora pra dormir
+ Isso é tudo o que me dão
+
+(G Bb C Eb)
+ Não sei de onde estou vindo
+ Não sei pra onde estou indo
+ Não sei de onde estou vindo
+ Não sei pra onde estou indo
+
+(G F)
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Db = X 4 6 6 6 4
+Eb = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

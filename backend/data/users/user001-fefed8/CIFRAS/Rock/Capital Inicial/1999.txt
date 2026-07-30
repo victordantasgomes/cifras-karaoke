@@ -1,0 +1,61 @@
+@titulo: 1999
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - 1999
+
+Intro: D A F#m G D A G
+
+ D    A          F#m              G
+Se eu pedisse,   Pra você guardar um segredo.
+D        A        G
+ Onde você guardaria?
+D          A         F#m   G
+ Nós todos cometemos erros
+D         A         G   Em            A
+ E o meu foi acreditar, O passado é seguro,
+F#m          G
+ Por isso estamos aqui.
+ D A
+ 1999
+ G A
+ 1999
+D         A         G   A
+ Vai ser só mais um ano
+     D                A         G   A
+ Um dia na vida, uma gota no oceano
+ D    A         F#m                 G
+Se eu pedisse,  Pra você duvidar do que eu digo
+
+D            A        G
+ Por onde você começaria?
+D     A           F#m  G
+ Nós todos temos medo
+D         A         G   Em                  A
+ E o meu pode me cegar, Ninguém sabe as respostas
+F#m          G
+ Então por que perguntar.
+(Refrão)
+ G            A
+ Amantes em silêncio
+ G            A
+ Estradas sem saída
+ G            A
+ Poetas sem palavras
+      F#m   G        A
+ Em busca do tempo perdido em mim
+(Refrão)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

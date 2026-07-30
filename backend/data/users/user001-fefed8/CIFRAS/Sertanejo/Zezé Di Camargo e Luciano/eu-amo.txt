@@ -1,0 +1,122 @@
+@titulo: eu-amo
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Eu Amo
+
+(Intro)
+
+Asus2  Asus2/G#  F#m  E  Dsus2  E
+
+Asus2  Asus2/G#  F#m  E  Dsus2  E   Asus2
+
+(VERSO)
+Asus2   Asus2/G#  Dsus2   E   F#m
+Eu sei tudo que passa na tua cabeça,
+E/G#   Dsus2       E
+Baby são coisas naturais
+Asus2     Asus2/G#      Dsus2
+Mas o que quer que aconteça,
+       F#m                          E/G#
+você vai ver as respostas vão ser sempre iguais
+
+(Ponte)
+Asus2        Asus2/G#      Dsus2   E   F#m E/G#  Dsus2  E
+Nossa casa foi feita sobre pedra dia a dia mês a mês Hum...
+Asus2         Asus2/G#  Dsus2          F#m
+No passado nem tudo foram flores mas tudo bem
+
+                          E/G#
+me pergunte então mais uma vez...
+
+(REFRÃO)
+A               E          D          E
+Se eu vou ser pra todo sempre teu melhor amigo
+A           A/G#      Dsus/F#        E
+se eu quero ir até o fim da vida contigo
+C#m                   D            D/C#
+Se eu ainda sou apaixonado por você
+     Bm         Bm/A              E/G#   E
+e te amo mais do que qualquer ser humano...
+   D  D/C# Bm Bm/A E/G# E  Asus2  Asus2/G# F#m E D   E
+eu vou, eu quero eu sou eu amo!
+
+(VERSO)
+Asus2 Asus/G# Dsus2  E                 F#m
+Você tem seus motivos nada a ver com a gente,
+E/G#   Dsus2     E
+Baby o tempo vai mostrar ,( eu prometo )
+Asus2   Asus2/G#      Dsus2
+Mas se quiser , vá em frente ( ok! Pode perguntar )
+   F#m                          E/G#
+se eu vou estar te esperando do lado de lá...
+
+(REFRÃO)
+A               E          D          E
+Se eu vou ser pra todo sempre teu melhor amigo
+A           A/G#      Dsus/F#        E
+se eu quero ir até o fim da vida contigo
+C#m                   D            D/C#
+Se eu ainda sou apaixonado por você
+     Bm         Bm/A              E/G#   E
+e te amo mais do que qualquer ser humano...
+   D  D/C# Bm Bm/A E/G# E  F
+eu vou, eu quero eu sou eu amo!
+
+(PONTE)
+                     C         F
+E é mais simples que parece eu cuido de você,
+     C
+você cuida de mim
+F                      C
+eu te aqueço e você me aquece
+           F
+pra sempre vai
+        E
+vai ser assim Oh...
+
+(REFRÃO)
+A               E          D          E
+Se eu vou ser pra todo sempre teu melhor amigo
+A           A/G#      Dsus/F#        E
+se eu quero ir até o fim da vida contigo
+C#m                   D            D/C#
+Se eu ainda sou apaixonado por você
+     Bm         Bm/A              E/G#   E
+e te amo mais do que qualquer ser humano...
+   D  D/C# Bm Bm/A E/G# E  Asus2  Asus2/G#
+eu vou, eu quero eu sou eu amo!
+             F#m           E
+Me pergunte então mais uma vez
+D  D/C# Bm Bm/A E/G# E  Asus2  Asus2/G#
+Eu vou , eu quero eu sou eu amo!
+             F#m            E
+As respostas vão ser sempre iguais
+D  D/C# Bm Bm/A E/G# E     D   A
+eu vou eu quero eu sou eu amo!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/G# = 4 X 2 2 2 X
+Asus/G# = 4 X 2 2 2 X
+Asus2 = X 0 2 2 0 0
+Asus2/G# = 4 0 2 2 0 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/C# = X 4 0 2 3 2
+Dsus/F# = 2 X 0 2 3 2
+Dsus2 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2

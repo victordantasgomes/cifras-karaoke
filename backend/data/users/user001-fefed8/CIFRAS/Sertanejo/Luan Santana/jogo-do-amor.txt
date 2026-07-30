@@ -1,0 +1,116 @@
+@titulo: jogo-do-amor
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Luan Santana - Jogo do Amor
+
+Capo Casa 2
+
+Solo: C  Am  F  Dm  G
+E|-----------------------------------------------------------------------------|
+B|-1-1-1-1-1h3-1--1-1-1-1-3-3/5-1--1-1-1-1-1h3-5---1---------------1-3/6-5-1-3-|
+G|-0-0-0-0-0---0--0-0-0-0-0-0---0--0-0-0-0-0---0-----2----2-2-2-2--0-0---0-0-0-|
+D|-----------------------------------------------------3--3-3-3-3--------------|
+A|-----------------------------------------------------------------------------|
+E|-----------------------------------------------------------------------------|
+
+E|-----------------------------------------------------------------------------|
+B|-1-1-1-1-1h3-1--1-1-1-1-3-3/5-1--1-1-1-1-1h3-5---1------0-0-0-0-3-3/6-5-1-3--|
+G|-0-0-0-0-0---0--0-0-0-0-0-0---0--0-0-0-0-0---0-----2----0-0-0-0-0-0---0-0-0--|
+D|-----------------------------------------------------3-----------------------|
+A|-----------------------------------------------------------------------------|
+E|-----------------------------------------------------------------------------|
+
+  C         F                (riff 7)
+Joguei como manda o coração
+      Dm                               C          C4  (riff 1)
+Li as regras, aprendi os truques loucos da paixão
+   C           C7
+Tentei, fiz de tudo pra te conquistar de um jeito que você
+
+   F
+não me esquecesse mais
+          Dm                                              G
+Mostrei o jogo, dei as cartas, fiz de tudo e mais um pouco do que fui capaz
+
+Refrão:
+      C                                       Am
+Mas o jogo do amor é mais difícil que pensei
+                              F
+Você é tudo o que eu sempre sonhei
+         G   F G
+Olha pra mim
+C
+Linda, deusa, fada
+                    Am
+nuvem de amor, pura magia
+                                           F
+Quero você, meu sol, minha luz, a minha alegria
+      Dm                         G
+Com você sinto de volta a minha paz
+        Dm              G       C
+Ninguém me faz tão feliz como você me faz
+
+( C Am F Dm G )
+
+      D                                       Bm
+Mas o jogo do amor é mais difícil que pensei
+                              G
+Você é tudo o que eu sempre sonhei
+         A    G A
+Olha pra mim  uouo
+D
+Linda, deusa, fada
+                         Bm
+nuvem de amor, pura magia
+                                       G
+Quero você meu sol, minha luz, a minha alegria
+      Em                         A
+Com você sinto de volta a minha paz
+        Em              A       D
+Ninguém me faz tão feliz como você me faz
+
+Final: ( D  Bm  D )
+E|----------------------------------------------|
+B|-3-3-3-3-5-3-5--5/7-3--3-3-3-3-5-3------3---3-|
+G|-2-2-2-2-2-2-2--2/4-2--2-2-2-2-2-2--2-4---2-2-|
+D|----------------------------------------------|
+A|----------------------------------------------|
+E|----------------------------------------------|
+
+   (riff 1)                 (riff 3)          (riff 4)
+E|-0-1-0-----|-------------------------|-5-5--7-5--3-1--3/8--8-|
+B|-------3-1-|-------------------------|-----------------------|
+G|-----------|-----5-4-----------------|-5-5--7-5--4-2--4/9--9-|
+D|-----------|-5h7-----7-5---7-5-4---4-|-----------------------|
+A|-----------|-------------7-------7---|-----------------------|
+E|-----------|-------------------------|-----------------------|
+
+(riff 5)     (riff 6)         (riff 7)
+E|-8-7-|-------------------|-0h1p0---------|
+B|-----|-------------------|-------3-1-1h3-|
+G|-9-7-|-----4-----------4-|---------------|
+D|-----|-5h7---7-5---5-7---|---------------|
+A|-----|-----------7-------|---------------|
+E|-----|-------------------|---------------|
+
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+A*  = X 0 2 2 2 0 - (*B na forma de A)
+Am*  = X 0 2 2 1 0 - (*Bm na forma de Am)
+Bm*  = X 2 4 4 3 2 - (*C#m na forma de Bm)
+C*  = X 3 2 0 1 0 - (*D na forma de C)
+C4*  = X 3 3 0 1 X - (*D4 na forma de C4)
+C7*  = X 3 2 3 1 X - (*D7 na forma de C7)
+D*  = X X 0 2 3 2 - (*E na forma de D)
+Dm*  = X X 0 2 3 1 - (*Em na forma de Dm)
+Em*  = 0 2 2 0 0 0 - (*F#m na forma de Em)
+F*  = 1 3 3 2 1 1 - (*G na forma de F)
+G*  = 3 2 0 0 0 3 - (*A na forma de G)

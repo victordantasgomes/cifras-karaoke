@@ -1,0 +1,85 @@
+@titulo: quem-sabe
+@autor:
+@intérprete: Los Hermanos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Los Hermanos - Quem Sabe
+
+(intro 4x) Cm  Cm/G#
+
+(Cm  Cm/G#)
+ Quem sabe o que é ter e perder alguém
+ Quem sabe o que é ter e perder alguém
+
+(riff metais)
+E|--------------------------------------|
+B|--------------------------------------|
+G|-------------------------------13-12--|
+D|-10-10-10-13--------------------------|
+A|-------------10/11-11-10-11-10--------|
+E|--------------------------------------|
+
+Cm                                 Fm
+ Quem sabe o que é ter e perder alguém
+           Bb          Cm
+Sente a dor que senti
+                                      Fm
+Quem sabe o que é ver quem se quer partir
+        Bb               D#
+E não ter pra onde ir
+
+D#          G             Cm           G#      D#
+ Faz tanta falta o teu amor   e te esperar...
+     G     G#
+Não sei viver sem te ter
+    B                    Cm
+Não dá mais pra ser      assim
+
+(riff - metais)
+E|---------9/8----------9/8----|
+B|-----------------------------|
+G|------8-------------8--------|
+D|-9/10----------9/10----------|
+A|-----------------------------|
+E|-----------------------------|
+
+Cm                                    Fm
+ Quem sabe o que é ter sem querer pra si
+            Bb            Cm
+Não quer ver outro em mim
+                           Fm
+Não fala do que eu deveria ser
+   Bb                      D#
+Pra ser alguém mais feliz
+
+(refrão)
+( Cm  G# ) (4x)
+
+(repete tudo)
+
+(riff final - guitarra)
+E|-----------------------------|
+B|-----------------------------|
+G|-----------------------------|
+D|-----------------------------|
+A|-------4-3-------------4-3---|
+E|-1-3-4-------4---1-3-4-------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+Cm = X 3 5 5 4 3
+Cm/G# = 4 X 5 5 4 X
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+E = 0 2 2 1 0 0
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

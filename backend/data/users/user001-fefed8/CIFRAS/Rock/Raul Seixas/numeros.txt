@@ -1,0 +1,78 @@
+@titulo: numeros
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Números
+
+Intro: A
+
+        A        E7                       A
+Meus amigos essa noite eu tive uma alucinação
+                        E7                       A
+Sonhei com um bando de número invadindo o meu sertão
+     A7           D           E7          A
+E de tanta coincidência que eu fiz essa canção
+
+-Falar do número um
+              E7                         A
+Falar do número um não é preciso muito estudo,
+              E7                            A
+Só se casa uma vez e foi um Deus que criou tudo,
+   A7           D         E7             A
+Uma vida só se vive, só se usa um sobretudo.
+
+-Agora o doze
+                 E7                      A
+É só de pensar no doze que então quase desisto,
+                 E7                     A
+São doze meses do ano, doze apóstolos de Cristo,
+
+      A7       D            E7         A
+Doze hora é meio-dia, haja dito e haja visto.
+
+-Agora o sete
+              E7                      A
+Sete dias da semana, sete notas musicais,
+                 E7                     A
+Sete cores do arco-íris nas regiões divinais,
+    A7            D          E7           A
+E se pintar tanto sete, eu já não agüento mais.
+
+-Dois
+                   E7                       A
+E no dois o homem luta entre coisas diferente,
+                    E7                             A
+Bem e mal, amor e guerra, preto e branco, bicho e gente
+      A7              D             E7            A
+Rico e pobre, claro, escuro, noite e dia, corpo e mente.
+
+-Agora o quatro
+                 E7                      A
+E o quatro é importante, quatro ponto cardeal,
+                   E7                      A
+Quatro estação do ano, quatro pé tem um animal,
+       A7          D          E7          A
+Quatro perna tem a mesa, quatro dia o carnaval.
+
+- Pra encerrar
+                E7                         A
+Eu falei de tanto número, talvez esqueci algum,
+                   E7                         A
+Mas as coisas que eu disse não são lá muito comum,
+       A7              D           E7            A
+Quem souber que conte outra, ou que fique sem nenhum
+
+-Quem souber  da história que me conte outra.....
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+D = X X 0 2 3 2
+E7 = 0 2 2 1 3 0

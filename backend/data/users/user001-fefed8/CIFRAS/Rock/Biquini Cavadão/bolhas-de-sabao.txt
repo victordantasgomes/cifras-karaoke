@@ -1,0 +1,83 @@
+@titulo: bolhas-de-sabao
+@autor:
+@intérprete: Biquini Cavadão
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Biquini Cavadão - Bolhas De Sabão
+
+[Intro] A9  E/G#  F#m  D
+
+A9      E/G#
+Tudo que mereço
+F#m      D                      A9
+teve um preço que não cabe discutir
+     E/G#                 F#m
+O que passou não vale a pena
+  D                   A9
+Quero o que tem por vir
+         E/G#                 F#m
+Foi sempre assim e sempre vai ser
+     D               A9
+Nós queremos sempre mais
+   E/G#       F#m
+Tudo não satisfaz
+                D
+Tudo não satisfaz
+F#     C#           B
+Não me venha com a dor
+  B                F#
+De quem não conseguiu
+
+  C#          B       B
+Quero insatisfação
+ F#    C#           B
+Não me venha com a dor
+ B                 F#
+De quem não conseguiu
+  C#          B      Bm7
+Quero insatisfação
+A(add9)     E/G#         F#m
+Tudo que preciso é impreciso
+    D             A(add9)   E/G#
+Não me cabe definir de antemão
+          F#m         D
+Os meus desejos, eles surgem
+   A(add9)     E/G                     F#m
+Como bolhas de sabão da mão de uma criança
+D           A9     E/G#
+Como ondas, como nuvens
+F#m                D
+Como qualquer coisa viva
+F#     C#           B
+Não me venha com a dor
+  B              F#
+De quem não conseguiu
+  C#          B       B
+Quero insatisfação
+ F#     C#           B
+Não me venha com a dor
+  B               F#
+De quem não conseguiu
+  C#          B      Bm7
+Quero insatisfação
+
+[Ponte] F#m7  C#m7  Bm7  Bm7
+
+----------------- Acordes -----------------
+A(add9) = X 0 2 2 0 0
+B = X 2 4 4 4 2
+Bm7 = X 2 4 2 3 2
+C# = X 4 6 6 6 4
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+E/G = 3 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X

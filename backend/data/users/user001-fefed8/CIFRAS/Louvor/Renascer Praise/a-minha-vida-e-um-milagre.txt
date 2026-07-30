@@ -1,0 +1,54 @@
+@titulo: a-minha-vida-e-um-milagre
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - A Minha Vida É Um Milagre
+
+INTRO: { E F#m B G#m C#9  F#m B E  A G#m F#m B E }
+
+E                             F#m  B                          G#m
+  SE QUISER SABER DE ONDE EU VENHO,  SE QUISER SABER QUEM EU SOU
+C#9                   F#m                    B
+     EU SOU FILHO DA LUZ, GERADO POR JESUS CRISTO
+                  E
+EM SUA MORTE NA CRUZ
+                          F#m  B                              C#m
+SE QUISER SABER O QUE EU FAÇO,   SE QUISER SABER PRÁ ONDE EU VOU
+C#9                   F#m                       B
+     SOU GUIADO POR CRISTO, EU SOU TEMPLO DO ESPÍRITO
+                 E
+FEITO PARA O LOUVOR
+
+E   D/F# E/G# A   D7/9                       G#m    C#9
+EU SOU   A__QUELE      PRÁ QUEM AS PORTAS SE ABREM
+                    F#m B                        Bm7
+JESUS É A MINHA VERDADE   E A MINHA VIDA É UM MILAGRE
+E   D/F# E/G# A   D7/9                       G#m   C#9
+EU SOU   A__QUELE       QUE NÃO CONHECE O DIFÍCIL
+
+                           F#m  B
+MEU DEUS É O DEUS DO IMPOSSÍVEL
+                         E
+E EU VIVO DE GLÓRIA EM GLÓRIA
+   F#m             B             E
+{       E EU VIVO DE GLÓRIA EM GLÓRIA  }3x
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm7 = X 2 4 2 3 2
+C#9 = X 4 6 6 4 4
+C#m = X 4 6 6 5 4
+D/F# = 2 X 0 2 3 2
+D7/9 = X 5 4 5 5 X
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

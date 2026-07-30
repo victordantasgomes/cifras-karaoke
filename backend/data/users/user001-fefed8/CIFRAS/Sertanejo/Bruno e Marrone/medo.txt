@@ -1,0 +1,87 @@
+@titulo: medo
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Medo
+
+(Nelson Ned)
+
+
+Intro: E G#m A G#m F#m B7
+
+
+E
+Você quer falar de amor
+     F#m
+Fale suavemente
+ B7
+E quando fizermos amor
+             E
+Faça bem docemente
+  C#m
+Pois eu ando bem machucado
+        G#m
+Estou me curando
+A                         B7             E
+Agora que as marcas de amor estão cicatrizando
+
+   E                                    F#m
+Por isso eu te peço não brinque com meu sentimento
+    B7                                 E
+Pois um velho amor me deixou um espinho por dentro
+     C#m                                        G#m
+Se é só pra matar seu prazer não dê nem mais um passo
+A                       B7                  E
+Pois o meu coração não agüenta um novo fracasso
+       F#m                  B7
+Porquê eu já passei desse tempo
+    G#m                 C#7
+De amar e perder o meu tempo
+  F#7
+Por isso eu te peço cuidado
+          B7
+Com meu coração
+
+Refrão
+
+| B7                      E
+|Pois eu fiquei com medo, medo
+
+|              C#m 
+|Seu amor me dá medo, medo
+
+|                  A
+|Acho que é muito cedo, cedo
+
+|B7                E
+|Para eu me entregar
+
+|B7                 E 
+|Pois eu fiquei com medo, medo
+
+(Alan Wervin Armôa Martos)
+|               C#m   
+|Seu amor me dá medo, medo
+
+|                   A
+|Deixe que o tempo passe, passe
+
+|B7                    E 
+|Pra que eu te possa amar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

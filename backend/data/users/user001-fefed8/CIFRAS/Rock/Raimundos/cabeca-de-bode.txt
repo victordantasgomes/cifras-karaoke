@@ -1,0 +1,134 @@
+@titulo: cabeca-de-bode
+@autor:
+@intérprete: Raimundos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raimundos - Cabeça de Bode
+
+Tab: Wanderson Henrique
+
+Obs:Afine a 6a. corda em D(1 tom abaixo)
+    p.m.=>(palm muted)corda/nota abafada
+    / =>arrastar de uma nota p/ outra(slide)
+    ~ => deixar a nota tocando
+
+Intro:
+e|----------------------------------
+B|----------------------------------
+G|----------------------------------
+D|----------------------------------
+A|-5-5-5-0-3-3--0-0-0---5-5-5-0-3-3-
+D|-5-5-5-0-3-3--0-0-0---5-5-5-0-3-3-
+
+
+Riff1
+e|---------------------------------------------
+B|---------------------------------------------
+G|--------------5-5-8-8---------------3-3------
+D|--------------5-5-8-8---------------3-3------
+
+A|-5-5-5-0-3-3--3-3-6-6--5-5-5-0-3-3--1-1-3-3--
+D|-5-5-5-0-3-3-----------5-5-5-0-3-3------3-3--
+  |--2 vezes--|         |--2 vezes--|
+  |----p.m.---|         |----p.m.---|
+
+"Em uma noite abençoada eu acordei de madrugada com a fome de comer alguma
+ coisa forte. Fome da porra e que agonia, não adiantava eu não esquecia,eu
+ ia ter que apelar pras comida do norte."
+
+Riff2
+e|----------------------------------------
+B|----------------------------------------
+G|-------------------------------8-8-8-8--
+D|-------------------------------8-8-8-8--
+A|-0-0-0-3-3--1-1-1-1--0-0-0-3-3-6-6-6-6--
+D|-0-0-0-3-3--1-1-1-1--0-0-0-3-3----------
+
+
+"Eu só sabia que o meu jantar ia ser a parte do animal que é mais dura que
+ o meu pau, com uma catinga assim só sendo rango de homem, não fode, meta
+ o pau na aranha e coma a cabeça do bode."
+
+Riff3
+e|-----------------------------
+B|-----------------------------  
+G|-7-8-9-10--7-7-8-8-9-9-10-10-
+D|-7-8-9-10--7-7-8-8-9-9-10-10-
+A|-5-6-7-8---5-5-6-6-7-7-8--8--   enquanto isso o baixo faz:
+D|-----------------------------   D|-5-6-7-8-| (3X)
+
+
+"Vou comer a cabeça do bode!"
+
+Riff4
+e|-------------------------
+B|-------------------------
+G|-------------------------
+D|-------------------------
+A|-0-8-6-3-5-0-3-0-3-5--0--
+D|-0-8-6-3-5-0-3-0-3-5--0--
+
+
+ ==>"a peixeira do pernambucana não dá"
+
+Riff5
+e|-----------------------
+B|-----------------------
+G|-----------------------
+D|-----------------------
+A|-----------------------
+D|-0-3-5-3-5-3-5-6-5--0--
+
+
+ ==>"...acha no abdôme e tira o coro do seu umbigo"
+                     "Ahhhhhhhhhhhhhhh!!!"-->guitarra durante grito: 
+                                                          e|-10/12~~
+Riff6(2X)                                                 
+e|-------------------------------------
+B|-------------------------------------
+G|-------------------------------------
+D|------------------------------------- 
+A|-0-3-5-3-5-3-5-6-5--0-3-5-3-5-3-5-0--
+D|-0-3-5-3-5-3-5-6-5--0-3-5-3-5-3-5-0--
+
+
+"Comida boa é meu prato preferido, e eu não duvido duvido que não me faça
+ suar. Me olhe nos olhos, tô sorrindo, sinto os ouvido entupindo e não dá
+ pra disfarçar, dá licença olha pra lá. Primeiro naco, pela tua careta tu
+ é fraco, é chapéu de couro de saco, olhe o que tem lá no buraco. E não
+ merece, sem o poder do bicho tu não desce, é preciso relaxar."
+
+(Riff4-tocando só na 6a. corda e palhetando mais vezes as notas)(4X)
+"E como o olho do bode!"
+
+(Riff6)(2X)
+"Pode crer véi a idéia é essa eu digo, é isso aí mesmo. X chegando na área
+ e falando na cara, tomamos muita porrada no decorrer desses anos, com o
+ suor de nossos corpos chegamos onde estamos. Espalhando nossas idéias de
+ norte a sul, leste oeste. Só moleque de presa somos do DF. Idéias das mais
+ diversas vindo de nossas entranhas,pra segurar a onda tem que ter as manha"
+
+Pequeno riff "de passagem":
+e|-----------------
+B|-----------------
+G|-7-8-9-10--------
+D|-7-8-9-10--------
+A|-5-6-7-8--0-0-0--
+D|----------0-0-0--
+           | p.m.|
+
+Final:
+e|--------------
+B|--------------
+G|--------------
+D|--------------
+A|-5-5-5-0-3-3--  (várias vezes até acabar)
+D|-5-5-5-0-3-3--  (enquanto isso a outra guitarra faz "barulhos")
+
+----------------- Acordes -----------------

@@ -1,0 +1,77 @@
+@titulo: carta-branca
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Carta Branca
+
+Intro 2x: D D4
+
+ D                                      A
+Por amor eu faço mil loucuras se você quiser
+                                 G
+Me sirvo de bandeja pra você mulher
+                                    D
+Só pra te ver feliz e mais apaixonada
+
+                                                 A
+Por esse amor entrego a minha vida toda em suas mãos
+                                  G
+Abro todas as portas do meu coração
+                                   D
+Enfrento vendaval topo qualquer parada
+      A                               Em
+UoUuOuOu boto a mão no fogo por essa paixão
+                             G
+Pois sei que você me tem no coração
+                                    D
+Eu vejo em teus olhos ao tocar meu corpo
+
+        E       G            D     A
+UoUoOuOuuu Amo você, eu amo você
+
+ D                           A/C#     B
+Você tem carta branca nesse meu coração
+        Em                      B                   Em
+Eu amo você estou de corpo e alma entregue em tuas mãos
+         A                  F#7                 Bm     G
+Quero dizer que ninguem no mundo vai te amar assim (assim)
+   D                A            D
+É tanto amor que esqueço até de mim
+
+ D                         A/C#     B
+Você tem carta branca nesse meu coração
+        Em                   B                      Em
+Eu amo você estou de corpo e alma entregue em tuas mãos
+         A                 F#7               Bm     G
+Quero dizer q ninguem no mundo vai te amar assim (assim)
+D                A                D
+É tanto amor que esqueço até de mim
+
+      A                               Em
+UoUuOuOu boto a mão no fogo por essa paixão
+
+                            G
+Pos sei que você me tem no coração
+                                      D
+Eu vejo em teus olhos ao tocar o meu corpo
+        E       G               D      A
+UoUuOuOuuu amo você, eu amo você
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#7 = 2 4 2 3 2 2
+G = 3 2 0 0 0 3

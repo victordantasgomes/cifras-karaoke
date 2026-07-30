@@ -1,0 +1,65 @@
+@titulo: invoca-me
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Invoca-me
+
+[Intro] A9  D9  F#m7  E4
+        A9  D9  F#m7  G9  E4
+
+A9       E         F#m7
+Filho meu, estou aqui
+C#m7   Bm7                   A/C#      D9
+   Esperando o momento de te encontrar
+              E4  E
+Quero te abraçar
+A9       E         F#m7    E/G#   A
+Filho meu, não desisti
+         Bm7
+Os meus braços
+                 A/C#   D9
+Estão estendidos para   ti
+      D9/F#    E4           E
+Vem correndo, vem pra mim
+
+
+     A      F#m         E
+Invoca-me,        Eu te ouvi - rei
+
+C#m7     D9         Bm7(add4)
+Serei achado de ti
+             E4      E   D/F#  E/G#
+Tua sorte eu mudarei
+   A            F#m
+Achega-te a mim
+                        E
+      Eu também me achegarei
+C#m7                  D9    Bm7(add4)
+    Te tomarei em meu colo
+Bm7              Esus4    E          A
+    Novas vestes te darei... filho amado!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+Bm7 = X 2 4 2 3 2
+Bm7(add4) = 7 X 7 7 5 X
+C#m7 = X 4 6 4 5 4
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+D9/F# = 2 X 0 2 3 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+Esus4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G9 = 3 X 0 2 0 X

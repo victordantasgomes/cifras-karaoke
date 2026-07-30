@@ -1,0 +1,52 @@
+@titulo: mais-forte-que-a-morte
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - Mais Forte Que a Morte
+
+[Intro] F  F/A  Bb  F  
+        C/E  C  D  D/F#
+
+  F           F/A         Bb                  F
+Não há nada, Senhor que se compare ao Teu amor
+  C/E      C             F             F/A
+Pois é tão profundo, não há como entender
+
+Bb       C/Bb       A4   A       Dm
+Amor tão paciente, amor tão sofredor
+    Gm              F/A        Bb            C
+Que faz tão bem pra gente, nos faz ser vencedor
+
+F                 Dm  Bb            F/A   
+Amor que tudo espera, amor que tudo crê 
+C/E         C           F              Em    A
+Amor que se revela, inundando o nosso ser
+Dm                Dm/C#       Dm/C              G4/B
+Mais vivo do que o fogo, mais forte do que a morte
+Gm                 F/A  Bb          C     F
+Nos fez nascer de novo, restaurou a nossa sorte
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C/Bb = X 1 2 0 1 X
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+Dm/C# = X 4 3 2 3 X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+G4/B = X 2 0 0 1 X
+Gm = 3 5 5 3 3 3

@@ -1,0 +1,70 @@
+@titulo: imperfeito
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Imperfeito
+
+Intro: G  D  E  A4  A
+
+D                                F#m
+Uma Chuva de Lembanças    Invade a minha solidão
+G                   D                   A4        A
+Chega junto uma esperança   acende a luz do meu coração
+D                            F#m
+Tua foto no espelho  um pedacinho de ilusão
+  G                  D             A4       A
+A cama ainda tem seu cheiro   perfume de sedução
+  G                  D        E              A
+E nessa noite embriagante até a lua quer você aqui
+  G                  D        E                     A
+Paixão a gente não esconde  perdão e que eu não sei fingir
+     D                 Bm  B7     Em                 A
+Meu delirio repete seu nome  meu desejo so quer seu calor
+     D                 Bm     B7        Em            A
+Imperfeito sou carme sou homem  me alimento so do seu amor
+   D       Bm   G  A4  A
+Do seu amor
+
+
+ D                                  F#m
+Você me ve de outro jeito  ja não me vejo em seu olhar
+ G                    D                   A4    A
+Agora e inverno no meu peito que vontade de chorar
+ D                             F#m
+O ceu e a terra que se juntam por que eu não posso mais te amar
+ G                    D                   A4       A
+Vivo e morro entre perguntas sem respostas pra me dar
+
+ G                   D        E              A
+E nessa noite embriagante até a lua quer você aqui
+ G                   D        E                   A
+Paixão a gente não esconde  perdão e que eu não sei fingir
+      D               Bm   B7     Em                 A
+Meu delirio repete seu nome  meu desejo so quer seu calor
+      D                Bm     B7      Em              A
+Imperfeito sou carme sou homem  me alimento so do seu amor
+
+      D                Bm  B7      Em                 A
+Meu delirio repete seu nome  meu desejo so quer seu calor
+      D                Bm     B7   Em                    A
+Imperfeito sou carme sou homem  me alimento so do seu amor
+      D    Bm  G  A4  A  D
+Do seu amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

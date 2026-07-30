@@ -1,0 +1,76 @@
+@titulo: quem-e-voce
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Quem É Você
+
+    G7M               B7        Em7           D
+          Depois de pregar seu lindo sermão
+    C7M         G/B    Am7     Cm7  
+         E de cantar a última canção
+                Bm7            C7M
+        Quando você volta pra casa
+          Am7              C
+       E ninguém mais que você 
+                     Bm7(9)     C9Add        
+       Precisa impressionar está por perto
+           D
+      Quem é você?
+            Bm7 C   D             D9Add/C       Bm7   C     Cm7(9)              
+      Quem é você        quando ninguém vê? Quem é você?
+
+  G7M               B7   Em7             D
+         Só você mesmo pode responder
+  C7M                  G/B      Am7         Cm7  
+         Por trás da aparência, onde só Deus vê
+                   Bm7       C7M
+        Bem no seu intimo sombrio
+             Am7              Cm7(9)
+        Sufocado e trancado a sete chaves
+              Bm7(9)      C        
+        Maquiando o teu vazio
+                     D
+        Deus e o travesseiro sabem
+                 Bm7  C   D            D/C
+        Quem é você           quando ninguém vê?
+               Bm7  C            D
+        Quem é você,        Quem é você?
+               G    D/F#        Em7(9)  D           C9          G/B        Am7        D 
+       Quem é você?    Longe do altar,       o que Deus vai ver quando Te sondar
+               G    D/F#             Em7(9)      D                     
+      Quem é você        além de um domingo
+                   C         G/B         Am7        Cm7(9)
+      Depois das luzes, do discurso e da máscara
+              Bm7  C     Am7              D         D/C          
+       Quem é você             quando ninguém vê
+             Bm7   C         D4
+     Quem é você? 
+            Bm7   C       Cm7(9)
+     Quem é você?
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+Bm7(9) = X 2 0 2 2 X
+C = X 3 2 0 1 0
+C7M = X 3 2 0 0 X
+C9 = X 3 5 5 3 3
+Cm7 = X 3 5 3 4 3
+Cm7(9) = X 3 1 3 3 X
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+Em7 = 0 2 2 0 3 0
+Em7(9) = X 7 5 7 7 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7M = 3 X 4 4 3 X

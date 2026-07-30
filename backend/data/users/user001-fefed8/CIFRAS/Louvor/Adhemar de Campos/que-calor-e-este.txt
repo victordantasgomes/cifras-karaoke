@@ -1,0 +1,57 @@
+@titulo: que-calor-e-este
+@autor:
+@intérprete: Adhemar de Campos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Adhemar de Campos - Que Calor É Este?
+
+F7M            C/E
+Que calor é este ? 
+Dm7            C13
+Que calor é este ? 
+Bb  F/A   Gm   F/A  C4/7/9
+Invadindo este lugar. 
+ 
+F7M           C/E
+Que perfume é este ? 
+Dm7           C13
+Que perfume é este ? 
+Bb  F/A   Gm   F/A C4/7/9
+Inundando este lugar. 
+ 
+Am          Dm7     Gm   F/A  Bb7M      
+É o Senhor Jesus em meio ao seu povo 
+C4/7/9  Am  Dm7     Gm   F/A  Bb7M 
+É o Senhor Jesus trazendo o vinho novo 
+C4/7/9  Am  Dm7     Gm   F/A  Bb7M Bº C4/7/9 
+É o Senhor Jesus presente para nos salvar 
+ 
+Gm   F/A   Bb7M G/B C4/7/9 
+A Ele vamos adorar 
+Gm   F/A   Bb7M G/B C4/7/9
+Como todo o coração louvar 
+Gm   F/A   Bb7M G/B C4/7/9
+Com alegria celebrar 
+ 
+Final - Gm, Am Bb G/B C13 F
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+Bb7M = X 1 3 2 3 1
+Bº = X 2 3 1 3 1
+C/E = 0 3 2 0 1 0
+C13 = 8 X 7 9 8 X
+C4/7/9 = X 3 3 3 3 3
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F7M = 1 X 2 2 1 X
+G/B = X 2 0 0 3 3
+Gm = 3 5 5 3 3 3

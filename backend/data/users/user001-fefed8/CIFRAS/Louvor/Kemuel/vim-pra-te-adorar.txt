@@ -1,0 +1,78 @@
+@titulo: vim-pra-te-adorar
+@autor:
+@intérprete: Kemuel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kemuel - Vim Pra Te Adorar
+
+B                    B/D#
+Eu vim para Te Adorar
+E                    B/D#   F#/A#
+Eu vim para te Exaltar
+G#m            F#
+Mesmo pequeno, necessitado
+E                  B
+Eu vim para te Adorar
+
+F#
+EXALTADO
+  E       G#m
+E PODEROSO DEUS
+F#
+MAJESTOSO
+  E       B/D#
+E GRANDIOSO ÉS
+
+      B
+Tu És Santo
+      E
+Tu És Santo
+
+      B   F#7    B
+Tu És Santo, meu Jesus
+
+F#
+EXALTADO
+  E       G#m
+E PODEROSO DEUS
+F#
+MAJESTOSO
+  E       B/D#
+E GRANDIOSO ÉS
+
+    E    B/D#
+EXALTADO ÉS
+    E    B/D#
+EXALTADO ÉS
+    E    B/D#
+EXALTADO ÉS
+
+      B
+Tu És Santo
+      G#m   F#
+Tu És Santo
+      E   F#7      B   A/C#  B/D#
+Tu És Santo, meu Jesus-us----us
+
+      E
+Eu te Amo
+     G#m  F#
+Te Adoro
+    E  F#       B
+Te Exalto, meu Jesus
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#7 = 2 4 2 3 2 2
+G#m = 4 6 6 4 4 4

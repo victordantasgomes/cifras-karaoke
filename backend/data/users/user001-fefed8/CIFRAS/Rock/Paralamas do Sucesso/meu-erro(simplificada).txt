@@ -1,0 +1,116 @@
+@titulo: meu-erro(simplificada)
+@autor:
+@intérprete: Paralamas do Sucesso
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Os Paralamas do Sucesso - Meu Erro
+
+[Intro] A  E  D
+        A  E  D
+        A  E  D
+        A  E  D  Dm
+
+[Primeira Parte]
+
+A
+Eu quis dizer
+           C#m
+Você não quis escutar
+  D
+Agora não peça
+        Dm
+Não me faça promessas
+
+         A
+Eu não quero te ver
+          C#m
+Nem quero acreditar
+         D
+Que vai ser diferente
+
+     Dm
+Que tudo mudou
+
+[Pré-Refrão]
+
+   C#m
+Você diz não saber
+       F#m
+O que houve de errado
+        D
+E o meu erro foi crer
+       Dm
+Que estar ao seu lado
+
+[Refrão]
+
+      A   E
+Bastaria
+        D
+Ah meu Deus, era tudo
+           A  E
+Que eu queria
+      D                 Dm
+Eu dizia o seu nome, não
+
+Me abandone
+
+[Segunda Parte]
+
+ A
+Mesmo querendo eu
+     C#m
+Não vou me enganar
+       D
+Eu conheço os seus passos
+    Dm
+Eu vejo os seus erros
+
+        A
+Não há nada de novo
+       C#m
+Ainda somos iguais
+   D
+Então não me chame
+    Dm
+Não olhe pra trás
+
+[Pré-Refrão]
+
+   C#m
+Você diz não saber
+       F#m
+O que houve de errado
+         D
+E o meu erro foi crer
+       Dm
+Que estar ao seu lado
+
+[Refrão]
+
+      A   E
+Bastaria
+        D
+Ah!meu Deus era tudo que eu
+    A    E
+Queria
+      D
+Eu dizia o seu nome
+   Dm
+Não   me abandone
+    A  E  D  A  E  D
+Jamais
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,73 @@
+@titulo: eu-quero-ser-santo
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Eu Quero Ser Santo
+
+INTRO:  F#m  D  A  E
+
+
+F#m            D
+Eu não quero perder tempo
+A           E
+Com palavras vãs
+F#m            D
+Eu não quero me envolver
+A           E        D E A E
+Com o que não for de Deus
+
+Base do solo: F#m D A E 3X
+
+2ª PARTE
+
+F#m            D
+Eu não quero perder tempo
+A           E
+Com palavras vãs
+F#m            D
+Eu não quero me envolver
+
+A           E        A
+Com o que não for de Deus
+
+F#m             D        A
+Eu quero ser santo
+             E      F#m
+Eu quero ser puro
+               D       A
+Cobrir com Teu manto
+                E
+Erguer os meus muros
+
+CORO
+
+      F#m   D   A  E        A/C#    D   A E
+O meu coração         Te entregarei
+       F#m   D   A E        A/C#    D   A E
+O meu coração         Te consagrarei
+
+F7+            G7+             A7+
+O meu falar, o meu pensar, E o meu sentir
+F7+            G7+             A7+
+O meu olhar, O meu tocar e o meu agir
+             F7+  G7+      A7+
+Tudo que eu fizer Será pra Ti
+             F7+     G7+      E
+Tudo que eu fizer Será pra Ti
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7+ = X 0 2 1 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+F7+ = 1 X 2 2 1 X
+G7+ = 3 X 4 4 3 X

@@ -1,0 +1,110 @@
+@titulo: adorai-adonai
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Adorai, Adonai
+
+[Intro]
+
+      Am        Em        Am        G/B       C9
+E|---------------------------0---------3-0-------0---|
+B|-----1-0---------3-1---------3-------------------3-|
+G|-----------------------------------0---------------|
+D|---2-----------2---------2-------------------2-----|
+A|-0---------------------0---------2---------3-------|
+E|-------------0-------------------------------------|
+
+     G/B        Am        Em     Am
+E|-----------------------------------|
+B|---1-0-1---------1-0---------------|
+G|-------------------------2-0-2-----|
+D|---------------2-------------------|
+A|-2-----------0-------------------0-|
+E|-----------------------0-----------|
+
+Am9                   F          G        Am9
+   Meus pés pisaram Seol, minha mente morreu
+                     F          G           C
+   Angústia me dominou, já não sou nem mais eu
+
+         G/B           Am7         Em          Am9
+Meus olhos buscam teu rosto, onde está o meu Deus
+      Am9/G             F              G
+Que ungiu a minha ca----beça e me chamou filho meu
+
+      Am        Em        Am      G/B
+E|---------------------------0---------3-|
+B|-----1-0---------3-1---------3---------|
+G|-----------------------------------0---|
+D|---2-----------2---------2-------------|
+A|-0---------------------0---------2-----|
+E|-------------0-------------------------|
+
+Am9                    F          G           Am9
+   Estou no ventre do peixe, o terror me engoliu
+                         F         G        C
+  No mais profundo dos mares tua mão me cobriu
+               G/B      Am         Em      Am
+Por mais que eu fuja de tudo tu me alcançarás
+                     F             G4
+A tua Unção não me deixa, não me deixa nunca
+
+C   G       Dm           Am        G
+Adorai, eu digo à minha alma, eu grito
+C    G        Dm              Am        G
+Aba Pai, que quebra minhas correntes, clamo
+F   Am   F  Am            G4
+Adonai, Adonai tu és meu dono
+
+Am                    F
+  Estou no ventre do peixe
+
+C   G       Dm           Am       G
+Adorai, eu digo à minha alma eu grito
+
+[Solo] Bb/F  F  Am  Em  Am  D/F#  G  D/F#  Em  A4  D  F/G  G  G/B
+
+C   G       Dm           Am       G
+Adorai, eu digo à minha alma eu grito
+
+      Am        Em        Am        G/B       C9
+E|---------------------------0---------3-0-------0---|
+B|-----1-0---------3-1---------3-------------------3-|
+G|-----------------------------------0---------------|
+D|---2-----------2---------2-------------------2-----|
+A|-0---------------------0---------2---------3-------|
+E|-------------0-------------------------------------|
+
+     G/B        Am        Em   Am9
+E|----------------------------------|
+B|---1-0-1---------0-1----0-------1-|
+G|--------------------------2-0---4-|
+D|---------------2----------------2-|
+A|-2-----------0------------------0-|
+E|------------------------0---------|
+
+----------------- Acordes -----------------
+A4 = X 0 2 2 3 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am9 = X 0 2 4 1 0
+Am9/G = 3 0 2 4 1 0
+Bb/F = X 8 8 7 6 X
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F/G = 3 X 3 2 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G4 = 3 5 5 5 3 3

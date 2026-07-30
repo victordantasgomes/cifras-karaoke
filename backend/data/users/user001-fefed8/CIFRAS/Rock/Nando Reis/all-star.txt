@@ -1,0 +1,122 @@
+@titulo: all-star
+@autor:
+@intérprete: Nando Reis
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nando Reis - All Star
+
+[Intro] E7M  A7M/E
+        E7M  A7M/E
+        E7M  A7M/E
+        E7M  A7M/E
+
+E7M                                       A7M/E
+    Estranho seria se eu não me apaixonasse por você
+E7M                                 A7M/E
+    O sal viria doce para os novos lábios
+E7M
+    Colombo procurou as Índias
+            A7M/E
+Mas a Terra avistou em você
+E7M
+    O som que eu ouço são as gírias
+          A7M/E
+Do seu vocabulário
+
+[Refrão]
+
+C            D9(11)             E
+ Estranho é gostar tanto do seu All Star azul
+
+C            D9(11)                G5
+ Estranho é pensar que o bairro das   Laranjeiras
+ G5/F#  Em7
+Satis__feito, sorri
+         C
+Quando chego ali
+  G4/B      Am7
+E entro no elevador
+                       G5
+Aperto o doze que é o teu andar
+            G5/F#     Em7
+Não vejo a hora de te encontrar
+               C
+E continuar aquela conversa
+         G4/B  Am7
+Que não termi_namos ontem
+           E7M  A7M/E  E7M  A7M/E
+Ficou pra hoje
+
+E7M
+    Estranho, mas já me sinto
+         A7M/E
+Como um velho amigo seu
+E7M
+    Seu All Star azul combina com o meu
+  A7M/E
+Preto, de cano alto
+E7M
+    Se o homem já pisou na Lua
+                   A7M/E
+Como eu ainda não tenho o seu endereço?
+E7M
+    O tom que eu canto as minhas músicas
+         A7M/E
+Pra tua voz parece exato
+
+[Refrão]
+
+C            D9(11)             E
+ Estranho é gostar tanto do seu All Star azul
+C            D9(11)                G5
+ Estranho é pensar que o bairro das   Laranjeiras
+ G5/F#  Em7
+Satis__feito, sorri
+         C
+Quando chego ali
+  G4/B      Am7
+E entro no elevador
+                       G5
+Aperto o doze que é o teu andar
+            G5/F#     Em7
+Não vejo a hora de te encontrar
+               C
+E continuar aquela conversa
+         G4/B  Am7
+Que não termi_namos ontem
+
+Ficou pra
+G5             G5/F# Em7
+  Laranjeiras satis_feito, sorri
+         C
+Quando chego ali
+  G4/B      Am7
+E entro no elevador
+                       G5
+Aperto o doze que é o teu andar
+            G5/F#     Em7
+Não vejo a hora de te encontrar
+               C
+E continuar aquela conversa
+         G4/B  Am7
+Que não termi_namos ontem
+           E7M  A7M/E  E7M  A7M/E  E7M
+Ficou pra hoje
+
+----------------- Acordes -----------------
+A7M/E = 0 P4 7 6 5 P4
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+D9(11) = X 5 4 0 3 0
+E = 0 2 2 1 0 0
+E7M = 0 7 6 P4 P4 P4
+Em7 = 0 2 2 0 3 0
+G4/B = X 2 0 0 1 X
+G5 = 3 X 0 0 3 3
+G5/F# = 2 X 0 0 3 3

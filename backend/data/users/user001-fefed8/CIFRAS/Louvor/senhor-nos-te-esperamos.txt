@@ -1,0 +1,25 @@
+@titulo: senhor-nos-te-esperamos
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Senhor Nos Te Esperamos
+
+Am          Dm    Am      F        Dm     E
+Senhor nós te esperamos, Senhor não tardes mais
+Am          Dm       Am        B    E7          Am
+Senhor nós te esperamos, vem logo, vem nos salvar.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1

@@ -1,0 +1,41 @@
+@titulo: o-anjo-do-senhor
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - O Anjo do Senhor
+
+Introdução:F A# F Dm Gm C F
+
+    F         A#        F           Dm
+O Anjo do senhor acampará ao seu redor
+          Gm    C          F C
+pra lhe ajudar,pra lhe ajudar
+  F           A#        F           Dm
+O Anjo do Senhor Acampará ao seu redor
+           Gm   C         F7
+Pra lhe ajudar,pra lhe ajudar
+ A#                     Am
+Não Vos Assusteis com a tormenta deste mar
+ A#                      Am
+Não vos Pertubeis com o vento a bramar
+       A#     C              F   C
+Se o Anjo do senhor contigo está
+
+          F
+Contigo está
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F7 = 1 3 1 2 1 1
+Gm = 3 5 5 3 3 3

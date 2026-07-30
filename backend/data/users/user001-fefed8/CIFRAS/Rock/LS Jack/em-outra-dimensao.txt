@@ -1,0 +1,52 @@
+@titulo: em-outra-dimensao
+@autor:
+@intérprete: LS Jack
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+LS Jack - Em Outra Dimensão
+
+Intro: E  D  D9 (2x)
+
+E    D         E        D
+Nas mãos que desenham a si mesmas
+E    D        E   D
+Um não é um sim
+E      D      E         D
+Aqui onde o tempo é espelho
+E   D        E   D
+O meio é o fim
+G                 Em
+É desigual, é irreal
+         C           G
+Todo inverso é verdade
+G                   Em
+É mundial, é virtual
+       C
+Todo inverso é verdade
+A                C
+Eu vejo o meu rosto no ar
+A           C
+Estrelas no chão
+
+A                 C
+Em outra dimensão
+F
+Em você
+F
+Sem você
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

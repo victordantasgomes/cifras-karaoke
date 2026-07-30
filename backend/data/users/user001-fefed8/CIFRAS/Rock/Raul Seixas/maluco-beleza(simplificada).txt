@@ -1,0 +1,95 @@
+@titulo: maluco-beleza(simplificada)
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Maluco Beleza
+
+[Primeira Parte]
+
+    C               G/B
+Enquanto você se esforça pra ser
+Am                F
+   Um sujeito normal
+G                 C   G
+  E fazer tudo igual
+C                    G/B
+Eu do meu lado aprendendo a ser louco
+Am              F
+   Um maluco total
+G              C   Am
+  Na loucura real
+
+[Segunda Parte]
+
+Dm                      G
+   Controlando a minha maluquez
+Dm                      G
+   Misturada com minha lucidez
+
+
+[Refrão]
+
+       C   E7
+Vou ficar
+              F             G
+Ficar com certeza maluco beleza
+          C   E7
+Eu vou ficar
+              F             G   G7
+Ficar com certeza maluco beleza
+
+[Primeira Parte]
+
+C                    G/B
+Esse caminho que eu mesmo escolhi
+Am                 F
+   É tão fácil seguir
+G                  C   Am
+  Por não ter onde ir
+
+[Segunda Parte]
+
+Dm                      G
+   Controlando a minha maluquez
+Dm                      G
+   Misturada com minha lucidez
+
+[Solo] C  E7  F  G  C  Am  Dm
+
+[Segunda Parte]
+
+Dm                      G
+   Controlando a minha maluquez
+Dm                      G
+   Misturada com minha lucidez
+
+[Refrão]
+
+       C   E7
+Vou ficar
+              F             G
+Ficar com certeza maluco beleza
+          C   E7
+Eu vou ficar
+              F              G
+Ficar com certeza maluco beleza
+
+        ( C  E7  F  G )
+Eu vou ficar
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+E7 = 0 2 0 1 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 2 0 0 0 1

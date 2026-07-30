@@ -1,0 +1,157 @@
+@titulo: eu-vou
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Eu Vou
+
+Intro:
+E|-------------------|--------------11-----------|
+B|-14-12-14-12-14-12-|-14-12-14-12-----14-12-h14-|
+G|-13-13-13-13-13-13-|-4--4--4--4----------------|
+D|-12-12-12-12-12-12-|-13-13-13-13---------------|
+A|-14-14-14-14-14-14-|-14-14-14-14---------------|
+E|-------------------|---------------------------|
+
+E|---------------------------------------------------|
+B|-14-12-14-12-14-12-14-12--14/16--14h16p14----14----|
+G|-13-13-13-13-13-13-13-13------------------16----16-|
+D|-12-12-12-12-12-12-12-12---------------------------|
+A|-14-14-14-14-14-14-14-14---------------------------|
+E|---------------------------------------------------|
+
+      G         Em7   C9 D/F#   G
+E|---7-----|-----|-7-|-----|---7-|
+B|-----7---|---7-|-7-|---7-|---7-|
+G|-------4-|---4-|-4-|---6-|---4-|
+D|-4-------|---6-|-6-|---4-|---4-|
+A|---------|-6---|-7-|-4---|-6---|
+E|---------|-4---|---|-6---|-7---|
+
+
+
+ G
+Não adianta se esconder de mim
+ Em7
+Não adianta tentar me evitar,
+ C9                      D/F#            G  D/F#
+Eu tenho mais de mil motivos pra você me amar
+
+G
+Não adianta me tratar assim
+ Em7
+Não adianta não se entregar,
+ C9                     D/F#                 G
+Pois no final dessa novela eu sei que vai rolar,
+             D/F#
+E vai rolar porque..
+
+Refrão:
+ G
+Eu vou fazer você olhar pra mim
+  Em7
+Eu vou ouvir você dizendo sim
+  C                  Am7
+Eu vou fazer o tempo me ajudar
+ D/F#
+E aos poucos vou te conquistar
+  G
+Eu vou, vou despertar sua paixão
+  Em7
+Eu vou sintonizar seu coração
+  C            D/F#
+Eu vou em tudo te surpreender
+C9               D
+Espere e você vai ver
+       C9
+Que eu vou ...
+D/F#          G
+Vou ganhar você
+
+Solo:
+      G          C9           D9   C9  G  (D D4 D D9)
+E|----------------------------|
+B|----------------------7/9-7-|
+G|-6h8-6h8--6-8-9-8-6-4-6/8-6-|
+D|-4---4----4-4---4-4-4-------|
+A|----------------------------|
+E|----------------------------|
+
+
+G
+Não adianta se esconder de mim
+ Em7
+Não adianta tentar me evitar,
+ C9                      D/F#            G  D/F#
+Eu tenho mais de mil motivos pra você me amar
+
+G
+Não adianta me tratar assim
+ Em7
+Não adianta não se entregar,
+ C9                     D/F#                 G
+Pois no final dessa novela eu sei que vai rolar,
+             D/F#
+E vai rolar porque..
+
+Refrão:
+ G
+Eu vou fazer você olhar pra mim
+  Em7
+Eu vou ouvir você dizendo sim
+  C                 Am7
+Eu vou fazer o tempo me ajudar
+ D/F#
+E aos poucos vou te conquistar
+  G
+Eu vou, vou despertar sua paixão
+  Em7
+Eu vou sintonizar seu coração
+  C            D/F#
+Eu vou em tudo te surpreender
+C9               D
+Espere e você vai ver
+       A    E/Ab
+Que eu vou ...
+                D9             Bm7
+Eu vou fazer o tempo me ajudar
+                       E
+E aos poucos vou te conquistar
+  A9
+Eu vou, vou despertar sua paixão
+  F#m7
+Eu vou sintonizar seu coração
+  Bm7            E/Ab
+Eu vou em tudo te surpreender
+  D9              E
+Espere e você vai ver
+       D
+Que eu vou ...
+  E              ( D9  D  D9 )
+Vou ganhar você
+             A
+Vou ganhar você
+
+----------------- Acordes -----------------
+Capotraste na 4ª casa
+A*  = X 0 2 2 2 0 - (*C# na forma de A)
+A9*  = X 0 2 2 0 0 - (*C#9 na forma de A9)
+Am7*  = X 0 2 0 1 0 - (*C#m7 na forma de Am7)
+Bm7*  = X 2 4 2 3 2 - (*D#m7 na forma de Bm7)
+C*  = X 3 2 0 1 0 - (*E na forma de C)
+C9*  = X 3 5 5 3 3 - (*E9 na forma de C9)
+D*  = X X 0 2 3 2 - (*F# na forma de D)
+D/F#*  = 2 X 0 2 3 2 - (*F#/A# na forma de D/F#)
+D4*  = X X 0 2 3 3 - (*F#4 na forma de D4)
+D9*  = X X 0 2 3 0 - (*F#9 na forma de D9)
+E*  = 0 2 2 1 0 0 - (*G# na forma de E)
+E/Ab*  = 4 X 2 4 5 X - (*G#/C na forma de E/Ab)
+Em7*  = 0 2 2 0 3 0 - (*G#m7 na forma de Em7)
+F#m7*  = 2 X 2 2 2 X - (*A#m7 na forma de F#m7)
+G*  = 3 2 0 0 0 3 - (*B na forma de G)

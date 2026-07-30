@@ -1,0 +1,85 @@
+@titulo: faca-alguma-coisa
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Faça Alguma Coisa
+
+(intro)  G  D  Em     C  G/B  Am  D
+
+G          D/F#
+Faça alguma coisa
+          Em
+Enquanto é tempo
+C             G/B
+Tô perdendo o jogo
+        D
+Pra mim mesmo
+G           D/F#
+Você sempre faz
+            Em
+Tudo que eu quero
+C              G/B
+Mesmo assim procuro
+            D
+O que eu já tenho
+
+          Em     Bm      C
+Como explicar pro meu olhar
+
+           G          D/F#
+Que não se vê um sentimento
+            Em                Bm
+Que a chuva cai lá do céu no azul do mar
+      C      G/B  Am  G       D
+E dos olhos de quem tá sofrendo?
+        G         C       D
+Perdi você sem a gente brigar
+        G          C        D
+Perdi você com meu medo de amar
+        G        C     D
+Perdi você e nem sei o lugar
+      Am                 D           G
+Me desculpe se eu não soube te encontrar
+
+(base solo) ( G  D  Em     C  G/B  Am  D )
+
+          Em     Bm      C
+Como explicar pro meu olhar
+           G          D/F#
+Que não se vê um sentimento
+            Em                Bm
+Que a chuva cai lá do céu no azul do mar
+      C      G/B  Am  G       D
+E dos olhos de quem tá sofrendo?
+        G         C       D
+Perdi você sem a gente brigar
+        G          C        D
+Perdi você com meu medo de amar
+        G        C     D
+Perdi você e nem sei o lugar
+      Am                 D           G
+Me desculpe se eu não soube te encontrar
+
+( G  D  Em     C  G/B  Am  D )
+
+G          D/F#
+Faça alguma coisa
+          Em
+Enquanto é tempo
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

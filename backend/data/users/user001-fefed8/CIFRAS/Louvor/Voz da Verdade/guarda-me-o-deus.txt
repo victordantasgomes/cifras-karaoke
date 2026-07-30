@@ -1,0 +1,66 @@
+@titulo: guarda-me-o-deus
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Guarda-me Ó Deus
+
+Intro: D
+
+E          B      E               B
+D          A      D               A
+Guarda-me Ó Deus, porque em ti confio
+C#m    G#m    A E/G#    F#m7           B
+Bm    F#m   G D    Em           A
+Não me deixarás     nunca confundido
+
+E          B    E         B
+D          A    D         A
+Envia tua luz,  e tua verdade
+   C#-    G#    A E    F#-           B
+   Bm     F#m   G D    Em            A
+Me guia e me leve   ao monte da santidade
+
+    Bm       F#m  G D  Em    A
+Porque estás abatida,ó minha alma
+     Bm   F#m    G  D     Em        A
+Porque tu te perturbas    dentro de mim
+Bm7  F#m7  G        Em           A
+Espera em Deus,    ainda o louvarei
+
+    Bm7     F#m G       Em           A
+No Deus da salvação,     meu Senhor e Rei
+
+     G              D                G
+Eu o louvarei, eu o louvarei, eu o louvarei,
+   F#        B
+   E-        A
+O Deus da salvação
+
+( E  A  B  E )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C#- = X 4 6 6 5 4
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E- = 0 2 2 0 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#- = 2 4 4 2 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4

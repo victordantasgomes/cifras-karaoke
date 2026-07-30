@@ -1,0 +1,72 @@
+@titulo: tarde-demais(versão 2)
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nx Zero - Tarde Demais
+
+Intro.. A9, A9/C#, A9, A/B
+
+(A9, A/B, C#m, C#m)x8
+Às vezes perco a noção do tempo
+O mundo gira e eu não vejo
+As horas passam pra mim e pra você (e nada muda)
+Me olho no espelho e não consigo entender
+Um dia, um erro, um final pra nós dois
+Seu olhar me diz adeus
+O que passou, passou e não vai mais voltar
+E já não há nada que você possa falar
+
+(E, F#m, C#m, A)x2
+Não, parece que foi tudo em vão
+Sei que dessa vez não fui eu que errei
+
+(A9, A/B, C#m, C#m)x6
+Às vezes fico em silêncio
+E meus dias são iguais
+O tempo passa mas eu fico aqui (e nada muda)
+Me olho no espelho e não consigo entender
+
+O que passou, passou e não vai mais voltar
+E já não há nada que você possa falar
+
+(E, F#m, C#m, A)x2
+Não, parece que foi tudo em vão
+Sei que dessa vez não
+
+(F#m, G#m7, A, B)x2
+Por mais que tente relevar e esquecer os erros
+Os sonhos sempre acabam sendo o mesmo pesadelo
+De que adianta você me dizer que se importa
+Se o que tivemos ficou apenas na memória
+
+(A9, B, C9, C9) abafado...
+
+(E, F#m, C#m, A)...uma par de vez
+Não, parece que foi tudo em vão
+Sei que dessa vez não fui eu que errei
+Não, parece que foi tudo em vão
+Sei que dessa vez não fui eu que errei
+que dessa vez não fui eu que errei
+
+Final E, E, E, E, E(deixa soar o ultimo)
+
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A9 = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+C9 = X 3 5 5 3 3
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m7 = 4 X 4 4 4 X

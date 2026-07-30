@@ -1,0 +1,122 @@
+@titulo: pra-te-abracar
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Pra Te Abraçar
+
+Base ; E C#m A B
+
+Solo:
+
+E|----------------------------------------------------------------------------------------------|
+B|--7-9-7------7-9-7------7-9-7-------------7--9--7--------7-9-7------7-9-7------7-9-9/10-9-7-5~|
+G|--------9-9---------9-9--------9-9-----------------9-9---------9-9--------9-9-----------------|
+D|-----------------------------------9/11-9-----------------------------------------------------|
+A|----------------------------------------------------------------------------------------------|
+E|----------------------------------------------------------------------------------------------|
+
+E             A          E    A
+Chego em casa já é de manhã
+     E          C#m        B
+Depois de uma noite de amor
+E       A
+Do pensamento não sai
+C#m               A
+Se eu pudesse voltar atrás
+G#m                 B
+Pra sentir o seu calor
+
+
+(refrão)
+            E
+Pra te abraçar
+          C#m
+Pra te beijar
+        A          B    E
+Pra saciar essa louca paixão
+     C#m       A
+Te quero pra mim
+    B            E
+Viajar no seu prazer
+            C#m
+No seu mar azul
+        A                  B     E
+Então acender ainda mais esse tesão
+         C#m       A
+Eu nem quero dormir
+        B       E
+Eu te quero pra mim
+
+ase ; E C#m A B
+
+Solo:
+
+E|----------------------------------------------------------------------------------------------|
+B|--7-9-7------7-9-7------7-9-7-------------7--9--7--------7-9-7------7-9-7------7-9-9/10-9-7-5~|
+G|--------9-9---------9-9--------9-9-----------------9-9---------9-9--------9-9-----------------|
+D|-----------------------------------9/11-9-----------------------------------------------------|
+A|----------------------------------------------------------------------------------------------|
+E|----------------------------------------------------------------------------------------------|
+
+E           A            E
+Na minha camisa o seu batom
+E         A            B
+O cheiro do suor do nosso amor
+E             A
+Mas o que eu vou fazer
+C#m         A
+Pra esquecer você
+G#m                      B
+Sei que não vou mais te ver
+
+(refrão)
+            E
+Pra te abraçar
+          C#m
+Pra te beijar
+        A          B    E
+Pra saciar essa louca paixão
+     C#m       A
+Te quero pra mim
+    B            E
+Viajar no seu prazer
+            C#m
+No seu mar azul
+        A                  B     E
+Então acender ainda mais esse tesão
+         C#m       A
+Eu nem quero dormir
+        B       E
+Eu te quero pra mim
+           E
+Pra te abraçar
+          C#m
+Pra te beijar
+        A          B    E
+Pra saciar essa louca paixão
+     C#m       A
+Te quero pra mim
+    B            E
+Viajar no seu prazer
+            C#m
+No seu mar azul
+        A                  B     E
+Então acender ainda mais esse tesão
+         C#m       A
+Eu nem quero dormir
+        B        E
+Eu te quero pra mim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+G#m = 4 6 6 4 4 4

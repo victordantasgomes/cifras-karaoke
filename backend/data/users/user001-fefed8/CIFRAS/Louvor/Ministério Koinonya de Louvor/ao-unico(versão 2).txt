@@ -1,0 +1,56 @@
+@titulo: ao-unico(versão 2)
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - Ao Único
+
+C               G/B      Am7    C/G
+Ao único que é digno de receber
+   F          C/E
+A honra e a glória,
+   F            F/G     G
+A força e o poder
+    C            C/Bb
+Ao rei, eterno, imortal
+F/A        F/G     G
+Invisível, mas real
+  F         F/G        G       C    (F - 1°.Vez)
+A Ele ministramos o louvor
+
+    Am7  Em7    F            C
+Coroa    mos a  ti, ó Rei Jesus
+    Am7  Em7     F           G4   G
+Coroa    mos a  ti, ó Rei Jesus
+    F           G 
+Adoramos o teu nome
+        E            Am    C/G
+Nos rendemos a teus pés
+        Dm7        F/G  G#° Am   C/G
+Consagramos todo nosso     ser a ti.
+        Dm7       F/G      G  C
+Consagramos todo nosso ser a ti
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C/Bb = X 1 2 0 1 X
+C/E = 0 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F/G = 3 X 3 2 1 X
+G = 3 2 0 0 0 3
+G#° = 4 X 3 4 3 X
+G/B = X 2 0 0 3 3
+G4 = 3 5 5 5 3 3

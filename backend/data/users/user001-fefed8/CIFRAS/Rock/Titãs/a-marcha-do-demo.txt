@@ -1,0 +1,133 @@
+@titulo: a-marcha-do-demo
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - A Marcha do Demo
+
+Intro:
+    E
+E|---------------------------
+B|---------------------------
+G|---------------------------
+D|-2-2-2--2-2-2--2-2-2-0-----
+A|-----------------------3-2-
+E|---------------------------
+
+  Am
+E|----------------------------------------
+B|----------------------------------------
+G|----------------------------------------
+D|-----2------2-0----------2------2-0-----
+A|-0-3----0-3-----3-2--0-3----0-3-----3-2-
+E|----------------------------------------
+
+  Dm
+E|-----------------------------------------
+B|-----------------------------------------
+G|-----2------2-0----------2------2-0------
+D|-0-3----0-3-----3-2--0-3----0-3-----3-2--
+A|-----------------------------------------
+E|-----------------------------------------
+
+
+Refrão:
+    Am
+Não foi por falta de aviso
+
+Não foi por falta de alarde
+ Dm                  Am
+Agora nas chamas do inferno
+F     E     Am
+O seu corpo arde
+
+                 Dm
+Já dizia Capitão Nemo
+              G                   Am
+Cuidado com o demo, cuidado com o Demo
+              Dm
+Já dizia Pero Vaz
+    E7              Am
+Cuidado com o Satanás
+
+(Refrão)
+                    Dm
+Já dizia Maria Antonieta
+                 G                    Am
+Cuidado com o capeta, cuidado com o Capeta
+              Dm
+Já dizia pai Jeú
+   E7
+Cuidado com o Belzebu
+
+  Am
+E|----------------------------------------
+B|----------------------------------------
+G|----------------------------------------
+D|-----2------2-0----------2------2-0-----
+A|-0-3----0-3-----3-2--0-3----0-3-----3-2-
+E|----------------------------------------
+
+  Dm
+E|----------------------------------------
+B|----------------------------------------
+G|-----2------2-0----------2------2-0-----
+D|-0-3----0-3-----3-2--0-3----0-3-----3-2-
+A|----------------------------------------
+E|----------------------------------------
+
+(Refrão)
+              Dm
+Já dizia Napoleão
+               G                  Am
+Cuidado com o Cão, cuidado com o Cão
+                  Dm
+Já dizia Santo Antônio
+   E7              Am
+Cuidado com o Demônio
+
+(Refrão)
+                   Dm
+Já dizia Lamartine Babo
+                G                    Am
+Cuidado com o diabo, cuidado com o Diabo
+                   Dm
+Já dizia Simbá o Marujo
+    E7              Am
+Cuidado com o Dito Cujo
+
+    Am
+Não foi por falta de aviso
+
+Não foi por falta de alarde
+ Dm                  Am
+Agora nas chamas do inferno
+F     E     Am
+O seu corpo arde
+ Dm                  Am
+Agora nas chamas do inferno
+F     E     Am
+O seu corpo arde
+
+    E                         A
+E|-------------------------------
+B|-------------------------------
+G|----------------------------2--
+D|-2-2-2--2-2-2--2-2-2-0---------
+A|-----------------------3-2--0--
+E|-------------------------------
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

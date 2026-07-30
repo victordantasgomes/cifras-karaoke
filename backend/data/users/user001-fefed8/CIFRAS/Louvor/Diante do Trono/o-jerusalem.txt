@@ -1,0 +1,113 @@
+@titulo: o-jerusalem
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Ó Jerusalém
+
+Intro:
+Em7   Em7  C#m5- Bm7  Bm7  G/A C#m5-   C#dim  F#7 Bm7  B7
+Em7   Em7  C#m5- Bm7  Bm7  G/A C#m5-   C#dim  F#7 Bm7  Bm7 Bm7 Bm7 Bm7
+
+
+(Verso 1)
+Bm7      F#7
+Óóóóóó
+Em   F#7    Bm7 B7
+Ó, Jerusalém
+Em                   Bm7
+Que matas os profetas
+F#7                    Bm7
+Desprezas Teu Messias
+Em                      Bm7
+Tu não o verás de novo
+G7    F#7        Bm7
+Até que digas
+Em                      Bm7
+Tu não o verás de novo
+G7    F#7        Bm7 F#7
+Até que digas
+
+
+Refrão:
+Bm7       Em7
+Baruch Haba
+A                  F#7
+B'shem Adonai
+Bm7       Em7
+Baruch Haba
+A                  F#7
+B'shem Adonai
+Em7                  Bm7
+Bendito é o que vem
+            G7     F#7    Bm7
+Em nome do Senhor
+Em7                  Bm7
+Bendito é o que vem
+            G7     F#7    Bm7
+Em nome do Senhor
+
+Verso 2:
+Bm7    F#7
+Óóóóóó
+Em     F#7    Bm B7
+Ó, Jerusalém
+
+Em                     Bm7
+Que os corações se abram
+            F#7                Bm7  B7
+Que o véu seja removido
+Em              Bm7
+Yeshua Hamashia
+  G7  F#7      Bm7
+ó Israel querido
+Em              Bm7
+Yeshua Hamashia
+  G7  F#7      Bm7 F#7
+ó Israel querido
+
+Repete (Refrão)
+
+Bm7    F#7
+Óóóóóó
+Em     F#7    Bm  B7
+Ó, Jerusalém
+
+Em                     Bm7
+Que haja paz em Teus muros
+          F#7                Bm7  B7
+Yeshua Sar Shalom aqui
+Em              Bm7
+Isaque e Ismael se beijem
+ G7  F#7      Bm7
+E venha paz sem fim
+Em              Bm7
+Isaque e Ismael se beijem
+ G7  F#7      Bm7      F#7
+E venha paz sem fim
+
+
+Repete (Refrão)
+Bm7    F#7
+Óóóóóó
+Em     F#7    Bm
+Ó, Jerusalém
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C#dim = X 4 5 3 5 3
+C#m5- = X 4 5 6 5 4
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+G/A = 5 X 5 4 3 X
+G7 = 3 5 3 4 3 3

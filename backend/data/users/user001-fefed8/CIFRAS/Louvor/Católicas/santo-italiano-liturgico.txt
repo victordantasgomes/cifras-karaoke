@@ -1,0 +1,35 @@
+@titulo: santo-italiano-liturgico
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Santo Italiano Litúrgico
+
+[Intro] G  Em  C  D  D4
+
+  G Em C    D   G              Em  A7                D
+Santo, Santo, Santo, Senhor, Deus do Universo!
+      G        Am          A7                       D
+O céu e a terra proclamam a vossa glória
+      G Em     C  D        G    Em     C D G
+Hosana! Hosana! Hosana nas alturas!
+
+       G               Am          A7                D
+Bendito o que vem, em nome do Senhor!
+      G Em     C  D        G    Em     C D G
+Hosana! Hosana! Hosana nas alturas!
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

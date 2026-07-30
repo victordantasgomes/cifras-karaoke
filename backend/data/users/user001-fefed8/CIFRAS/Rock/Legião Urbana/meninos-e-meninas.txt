@@ -1,0 +1,118 @@
+@titulo: meninos-e-meninas
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Meninos e Meninas
+
+Intro 2x: D  D5(9) G  G7M  A
+
+Primeira parte:
+  D                  D5(9)   G  G7M     A
+Quero me encontrar, mas não sei onde estou
+       D                   D5(9) G   G7M  F
+Vem comigo procurar algum lu____gar mais calmo
+ C  C9       D    C C9          D
+Longe dessa confusão   e dessa gente
+     Em        A
+Que não se respeita
+        G       D         G/B      C9     D
+Tenho quase certeza que eu    não sou daqui
+
+Refrão:
+          A                 A5(9)
+Acho que gosto de São Paulo
+    C          D
+Gosto de São João
+ A                    A5(9)    C         D
+Gosto de São Francisco      e São Sebastião
+
+      Em                   G    A
+E eu gosto de meninos e meninas
+
+Segunda parte:
+     D                  D5(9)
+Vai ver que é assim mesmo
+       G        G7M      A
+E vai ser assim     pra sempre
+       D                     D5(9) G       G7M  F
+Vai ficando complicado e ao mesmo tempo dife___rente
+          C C9      D         C C9    D
+Estou cansado de bater e ninguém   abrir
+            Em     A     G      D
+Você me deixou sentindo tanto frio
+ G/B     C9      D
+Não sei mais o que dizer
+
+Terceira parte:
+A             A5(9) C            D
+  Te fiz comida,      velei teu sono
+A             A5(9) C          D
+  Fui teu amigo,   te levei comigo
+         Em                        G   A
+E me diz:   pra mim o que é que ficou?
+
+Quarta parte:
+D                 D5(9)   G     G7M A
+  Me deixa ver como    viver é bom
+         D                 D5(9)  G      G7M  F
+Não é a vida como está, e sim as coisas como são
+           C  C9     D     C C9   D
+Você não quis    tentar me a___judar
+      Em A                G   D
+Então,     a culpa é de quem?
+               G/B  C9  D
+A culpa é de quem?
+
+Quinta parte:
+    A           A5(9)    C   D
+Eu canto em português errado
+           A           A5(9)    C            D
+Acho que o imperfeito não participa do passado
+             Em
+Troco as pessoas
+               G  A
+Troco os pronomes
+
+Sexta parte:
+    D               D5(9)     G    G7M  A
+Preciso de oxigênio,      preciso ter amigos
+    D                D5(9)    G    G7M  F
+Preciso ter dinheiro,     preciso de carinho
+C  C9         D      C   C9            D
+Acho que te amava, agora acho que te odeio
+      Em           A
+São tudo pequenas coisas
+   G    D       G/B  C9  D
+E tudo deve passar
+
+Refrão:
+         A            A5(9)
+Acho que gosto de São Paulo
+    C          D
+Gosto de São João
+ A                    A5(9)    C         D
+Gosto de São Francisco      e São Sebastião
+      Em                   G    A
+E eu gosto de meninos e meninas
+
+( D  D5(9) G  G7M  A ) (2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5(9) = X 0 2 2 0 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D5(9) = X 5 7 9 X X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7M = 3 X 4 4 3 X

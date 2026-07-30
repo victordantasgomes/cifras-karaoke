@@ -1,0 +1,61 @@
+@titulo: que-seja-bem-vinda
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Que Seja Bem-vinda
+
+INTRO: C  G  F  G  C  G7  F
+
+    C                                      C     F C
+Eu quero esse amor que desperta as minhas manhãs      que traz
+                C  C4  C           G   Dm                  F
+no brilho dos olhos...   tanta certeza que me faz ser e sentir
+                    G7
+o mais forte dos homens mas é uma dor de cabeça quando você
+  Dm              F  G7                  C  F  C
+some e me deixa aqui   chutando tudo pro ar
+
+
+2° PARTE
+
+C                                               C    F  C
+É sempre assim que eu me sinto quando vejo teus olhos
+                  C   C4  C           G   Dm
+feito farol de neblina...   a me procurar feito vinho,
+     F              G7                               Dm
+embriaga o meu coração é meu elo com Deus, minha oração meu
+             F   G7            C  F  C
+amor, minha vida   minha salvação
+
+C     G                                 C        F  C     G
+ Que seja bem-vinda a mulher que me dá tudo isso     que seja
+                                  C   F  C      Em
+bem-vindo esse amor esse doce feitiço      que seja bem-vindo
+     E7          Am       F       C               G
+esse tempo esse amor tão meu que seja bem-vinda você meu
+         F
+presente de Deus...
+SOLO: ( Dm  F  G )  F  G
+REPETE 2° PARTE
+REPETE Refrão 2 VEZES
+
+     C               G                   F      G7   C  F  C
+Que seja bem-vinda você meu presente de De...us
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C4 = X 3 3 0 1 X
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

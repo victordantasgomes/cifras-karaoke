@@ -1,0 +1,90 @@
+@titulo: vai-passar(1)
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Vai Passar
+
+E|------7-------5-------3--------------8--------7--------10-----------------12---------14--------15--|
+B|---------------------------------------------------------------------------------------------------|
+G|---6h7-----4h5-----3h4------------8h9-----6h7-----10h11--------------11h12------12/14-----15h16----|
+D|---------------------------------------------------------------------------------------------------|
+A|---------------------------------------------------------------------------------------------------|
+E|---------------------------------------------------------------------------------------------------|
+
+      G
+Vai passar
+                                     D9
+É claro que isso passa do jeito que veio
+                                     Am7
+De todo esse vazio eu já tô ficando cheio
+               C                   D9
+Depois da tempestade vem o vento brando
+ G/B
+Vai passar
+            C                     D9
+O jejum de dengo, de beijo, de abraço
+                                          Am7
+Caso a dor não passe, eu não dou mais um passo
+
+              C                        D9
+Meu passado estou com o que estou passando
+
+      G
+Vai passar
+              C       G/B       Am7
+A minha ansiedade de ver sua imagem
+                C          G/B       Am7
+Nas noites de sonho, eu receber mensagem
+                             D7
+Nos dias de banzo, lhe telefonar
+       G
+Vai passar
+       G
+Vai passar
+                              D9
+Meu desejo grande por amor pequeno
+                                    Am7
+Enquanto eu fui remédio, você foi veneno
+            C                D7
+De gato e sapato só você me fez
+       G/B
+Vai passar
+              C                 D7
+A mágoa que deixa minha alma doente
+                                   Am7
+Eu já errei tanto, que daqui pra frente
+                                  D7
+Não tenho direito de errar outra vez
+      G
+Vai passar
+             C        G/B       Am7
+A minha ansiedade de ver sua imagem
+                C          G/B      Am7
+Nas noites de sonho, eu receber mensagem
+                            D7
+Nos dias de banzo, lhe telefonar
+       G
+Vai passar
+             C        G/B       Am7
+A minha ansiedade de ver sua imagem
+                 C          G/B     Am7
+Nas noites de sonho, eu receber mensagem
+                           D7
+Nos dias de banzo, lhe telefonar
+        G
+Vai passar
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+D7 = X X 0 2 1 2
+D9 = X X 0 2 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

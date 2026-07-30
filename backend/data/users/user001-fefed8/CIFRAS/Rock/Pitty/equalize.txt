@@ -1,0 +1,195 @@
+@titulo: equalize
+@autor:
+@intérprete: Pitty
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Pitty - Equalize
+
+[Intro]
+
+Parte 1 de 2
+E|------------------------------------------|
+B|------------3----------3------------------|
+G|------0--4----------0----4----------------|
+D|-2h4------------2h4-----------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+Parte 2 de 2
+                   D
+E|-----------------2------------------------|
+B|------------3----3------------------------|
+G|------0--4-------2------------------------|
+D|-2h4-------------0------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Primeira Parte]
+
+
+    D       D/C#       Bm
+As vezes se eu me distraio
+                E
+Se eu não me vigio um instante
+         F#m                D
+Me transporto pra perto de você
+               D/C#    Bm
+Já vi que não posso ficar tão solta
+               E
+Me vem logo aquele cheiro
+                F#m
+Que passa de você pra mim
+      G       A
+Num fluxo perfeito
+
+Em
+  Enquanto você conversa e me beija
+
+Ao mesmo tempo eu vejo
+               D
+As suas cores no seu olho tão de perto
+Em
+  Me balanço devagar
+
+Como quando você me embala
+              G
+O ritmo rola fácil
+   A              Bm
+Parece que foi ensaiado
+
+[Segunda Parte]
+
+Bm                        A
+  E eu acho que eu gosto mesmo de você
+G                   G7
+  Bem do jeito que você é
+
+[Refrão]
+
+                                 D
+E|-------------------------------2----------|
+B|-------------------------------3----------|
+G|---------------------------7---2----------|
+D|-------------------7-7-7h9-----0----------|
+A|-----------5-5-7/9------------------------|
+E|-3-3-3-5/7--------------------------------|
+
+
+D     Bm        D     Bm
+  Eu vou equalizar você
+D              Bm      A          G
+  Numa freqüência que só a gente sabe
+D         Bm            D     Bm
+  Eu te transformei nessa canção
+D        Bm        A      G   D
+  Pra poder te gravar em mim
+
+[Repete a Primeira Parte]
+
+  D         D/C#   Bm
+Adoro essa sua    cara de sono
+               E
+E o timbre da sua voz
+          F#m                     D
+Que fica me dizendo coisas tão malucas
+        D/C#    Bm
+E que quase me mata de rir
+                 E
+Quando tenta me convencer
+              F#m
+Que eu só fiquei aqui
+     G             A
+Porque nós dois somos iguais
+
+Em
+   Até parece que você já tinha
+
+O meu manual de instruções
+               D
+Porque você decifra os meus sonhos
+Em
+   Porque você sabe o que eu gosto
+
+E porque quando você me abraça
+         G        A
+O mundo gira devagar
+
+[Terceira Parte]
+
+Em                 D
+   E o tempo é só meu
+                      Em
+E ninguém registra a cena
+                       D
+De repente vira um filme
+                     Bm
+Todo em câmera lenta
+
+[Repete a Segunda Parte]
+
+Bm                        A
+  E eu acho que eu gosto mesmo de você
+G                   G7
+  Bem do jeito que você é
+
+[Refrão Final]
+
+Parte 1 de 3
+E|------------------------------------------|
+B|------------------------------------------|
+G|---------------------------7--------------|
+D|-------------------7-7-7h9----------------|
+A|-----------5-5-7/9------------------------|
+E|-3-3-3-5/7--------------------------------|
+
+Parte 2 de 3
+E|------------------------------------------|
+B|------------------------------------------|
+G|---------------------------7--------------|
+D|-------------------7-7-7h9----------------|
+A|-----------5-5-7/9------------------------|
+E|-3-3-3-5/7--------------------------------|
+
+Parte 3 de 3
+                                 D
+E|-------------------------------2----------|
+B|-------------------------------3----------|
+G|---------------------------7---2----------|
+D|-------------------7-7-7h9-----0----------|
+A|-----------5-5-7/9------------------------|
+E|-3-3-3-5/7--------------------------------|
+
+D     Bm        D     Bm
+  Eu vou equalizar você
+D              Bm      A          G
+  Numa freqüência que só a gente sabe
+D         Bm            D     Bm
+  Eu te transformei nessa canção
+D        Bm        A      G
+  Pra poder te gravar em mim
+
+D     Bm        D     Bm
+  Eu vou equalizar você
+D              Bm      A          G
+  Numa freqüência que só a gente sabe
+D         Bm            D     Bm
+  Eu te transformei nessa canção
+D        Bm        A      G   D
+  Pra poder te gravar em mim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/C# = X 4 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

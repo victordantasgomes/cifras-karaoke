@@ -1,0 +1,35 @@
+@titulo: rocha-eterna
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Rocha Eterna
+
+Intro: A  F#m  E  A
+
+B                  G#m
+A                  F#m
+ele é o reidos Reis, Senhor dos senhores
+      F#                  B
+      E                   A
+Ele é Santo, Principe da paz
+A               F#m    A              E
+Ele é a rocha eterna, Ele jamais perecerá
+A            F#m          A           E         A
+Ele é o meu fundamento e Nele minha casa se erguerá
+A           F#m      A            E  A
+aleluia, aleluia, aleluia, Ele é Deus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

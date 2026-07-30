@@ -1,0 +1,60 @@
+@titulo: falta-voce
+@autor:
+@intérprete: Rionegro e Solimões
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rionegro e Solimões - Falta Você
+
+Intro: E4 E E4 E A E A E B7 E A E
+Vocalização Uuu... uuu...
+                 E
+O dia vai se acabando
+A tarde vai se afastando
+A                  E  A E
+Outra noite vai chegar
+Lembranças vão se apossando
+Solidão vai dominando
+A                   E   A E F#m G#m
+Não consigo mais pensar
+ A              E/G#
+É difícil caminhar
+ A/B    B7        E    F#m G#m
+Controlar a ansiedade
+ A                    E/G#  A/B    B7         A   B7
+Quando o coração não pode se livrar de uma saudade
+ E       A           E           B7
+Ah, eu sei, eu não sei viver assim
+ E        A          E           B7
+Falta você, falta você, falta você
+A/B      E
+Você em mim
+            E  A E
+Vocalização Uuu...
+A  E  B7 E A E F#m G#m
+uuu...
+
+Repete: Refrão
+
+A        E  E7
+Você em mim
+A       E           B7
+Falta você, falta você
+A/B      E  A E
+Você em mim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

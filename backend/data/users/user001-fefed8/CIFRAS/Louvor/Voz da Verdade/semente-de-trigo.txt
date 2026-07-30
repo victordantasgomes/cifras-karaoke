@@ -1,0 +1,60 @@
+@titulo: semente-de-trigo
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Semente de Trigo
+
+intro: C Am C Am F G7 F G
+
+C                   Am
+A semente de trigo caída no chão,
+C                  Am
+Trás a paz ao meu coração!
+F                       G7
+Jesus é a semente que morreu,
+F                  G
+E o produto dela sou eu (2X)!
+
+C                    Am
+Cada dia morro com Cristo!
+C        F   G7    C  Bb F
+Cada dia eu novo sou!
+C
+Não sou eu quem vivo,
+Am
+Mas Cristo vive em mim!
+F                G7     C
+Pois seu sangue ja me lavou!
+
+
+C
+Morri pra egoísmo!
+Am
+Morri pro desamor!
+F
+E quanto mais eu morro,
+G7
+Conheço o meu Senhor!
+C
+Morri para mim mesmo!
+Am
+Morri pra vaidade!
+F
+E quanto mais eu morro,
+G
+Conheço a liberdade!
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

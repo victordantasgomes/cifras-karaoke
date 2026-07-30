@@ -1,0 +1,61 @@
+@titulo: veste-me
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Veste-me
+
+B       F#/B   E/B         E
+Faz-me senhor ouvir a Tua voz
+B              F#/B        E/B
+Voz  que lança fora todo  medo
+   B             F#/B        E/B
+Me ensina a Te buscar, Ter o mesmo sentimento
+  B               F#/B   E/B
+Esvaziar-me e  assumir a forma de servo
+C#m7          G#m     F#
+Me humilhar diante de Ti
+ C#m7                   G#m7   F#
+E buscar ser mais semelhante a Ti
+    C#m7     G#m      F#
+Me humilhar diante de Ti
+    E/G#  E                  F#sus F#
+E buscar ser mais semelhante a Ti
+
+ B              F#/A#
+Veste-me com a Tua santidade
+ G#m  F#       E
+Enche-me com a unção do Teu poder
+
+B              F#/A#
+Veste-me com a Tua santidade
+G#m  F#     E                  B
+Usa-me da maneira o que quiser, Senhor
+
+G#m  F#     E
+Usa-me da maneira que quiser 3X
+G#m  F#
+Usa-me
+G#m   F#   E
+Veste-me, Veste-me
+G#m  F#  E
+Usa-me Senhor
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#/B = X 2 4 3 2 2
+F#sus = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4
+G#m7 = 4 X 4 4 4 X

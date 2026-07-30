@@ -1,0 +1,96 @@
+@titulo: amiga-amigo
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Amiga ,amigo
+
+intr. Dm  Dm/C E7/B Bb* A7/13 Dm Cm D/F#
+(* diminuto)
+
+ Gm                 Bb/C         F7+        Dm
+AMIGA ME PERDOA POR EU TE TRATAR DESSE JEITO
+               Bb7+                  E7   E7/G#
+MAS NAO TEVE PERDAO TE MATEI NO MEU PEITO
+             A7               Dm             Cm D/F#
+DESCOBRI QUE TE AMO MAS GOSTO BEM MAIS DE MIM
+
+ Gm                 Bb/C           F7+          Dm
+AMIGO, TO DEIXANDO VOCE, SOMOS DOIS   EX-AMANTES
+                Bb7+               E7
+NADA MAIS ENTRE NOS PODE SER COMO ANTES
+                A7               D    Em A7
+SE ME FIZ ENTENDER NOS CHEGAMOS AO FIM
+
+D   F*                       F#m
+AI, ME DOI MAS VOU VER MINHA VIDA
+              D7
+EU TE AMEI DE PAIXAO MAS NAO TIVE SAIDA
+
+                G7+            G6
+EU FUI SEMPRE A RESERVA NO SEU CORACAO
+       G#*
+SE EU LUTEI POR TE TER POR INTEIRA
+      D              E7
+E NAO TIVE SE FUI CAPAZ
+               G7+                      A7    D    Bm Em7
+A VERDADE EX-AMOR E QUE A METADE EU NAO QUERO MAIS
+
+A7        D          D7+         E7
+ACEITE O MEU SOLENE ADEUS  FELICIDADE
+           G               G/A        D7+    Bm Em7
+NAO VOU NEGAR EU VOU CHORAR    SENTIR SAUDADE
+A7          D             D7+
+NAO SE PREOCUPE EU NAO SAI
+           E/D            E/G#
+POR OUTRO AMOR NAO FOI ASSIM
+         G    G7+         A7          D
+ SO TE DEIXEI PORQUE TROQUEI VOCE POR MIM
+
+solo: Bb7+ G/A D D5 D6 D7 G7+ F#m7 Em7 G/A D Em7 A7
+
+D  F*                            Gm7 Am7 Bb7 G/A D7+
+AI ME DOI...        ...VOCE POR MIM
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7/13 = X 0 X 0 2 2
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+Bb/C = X 3 X 3 3 1
+Bb7 = X 1 3 1 3 1
+Bb7+ = X 1 3 2 3 1
+Bm = X 2 4 4 3 2
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D5 = X 5 7 7 X X
+D6 = X 5 4 2 0 X
+D7 = X X 0 2 1 2
+D7+ = X X 0 2 2 2
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+E7/B = X 2 2 1 3 X
+E7/G# = 4 X 2 4 3 X
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G/A = 5 X 5 4 3 X
+G6 = 3 X 2 4 3 X
+G7+ = 3 X 4 4 3 X
+Gm = 3 5 5 3 3 3
+Gm7 = 3 X 3 3 3 X

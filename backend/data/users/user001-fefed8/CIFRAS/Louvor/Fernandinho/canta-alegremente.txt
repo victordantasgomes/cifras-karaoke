@@ -1,0 +1,49 @@
+@titulo: canta-alegremente
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Canta Alegremente
+
+Introd: (Base) Em G/D Em G/D Am G Am Em Am Em Am
+
+  Em         G/D          C    Em
+Canta alegremente ó filha de Sião
+  Am         G            Em   D
+Canta alegremente ó filha de Sião
+ Am   G      Em7      C
+Celebrai a Deus com júbilo
+ Am   G      Em7      C    ( Em  Am  Em  Am) Passagem
+Celebrai a Deus com júbilo
+ Em         G/D        C      Em
+Subirei ao monte santo do Senhor
+ Am         G           Em   D
+Buscarei a face do meu Salvador
+ Am   G      Em      C
+Cantarei em Tua presença
+ Am   G      Em      C
+Dançarei em Tua presença
+    Em      G
+Cantai, Dançai
+ Am                       Em
+Na presença do Deus de Israel
+
+
+Passagem ( Em Am Em Am ) se repete em várias partes da música
+
+Volta ao início
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/D = X 5 5 4 3 X

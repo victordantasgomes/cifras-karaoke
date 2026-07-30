@@ -1,0 +1,91 @@
+@titulo: interior
+@autor:
+@intérprete: Anjos de Resgate
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Anjos de Resgate - Interior
+
+A9      A9/C#   D               E
+O teu rio afogou meus medos,
+A9      A9/C#              D9      E
+Libertou da dor meu coração.
+F#m    F5+                A/E   B/D#      Bm
+Fez nascer dentro de mim santificação,
+                       E4     E
+Sementes de adoração.
+
+A9      A9/C#        D        E4
+Se em mim ainda há vestígios,
+A9      A9/C#        D            E
+Revelando o pecador que sou,
+D            A/C#   Bm   F#m     G              D/F#       E
+Vem, Senhor, e outra vez      lava esse meu interior.
+
+
+A          Bm          A/C#        D     E   F#m
+Quero te apresentar frutos de adoração,
+            Bm            A/C#             E4      E      A
+Como árvore plantada à beira de um ribeirão.
+
+         Bm             A/C#         C#4   C#/F  F#m
+E assim permanecer, avançando as estações.
+        Bm              A/C#             E4   E      A
+Abastece-me, Senhor, no teu rio de unção.
+
+
+A9      A9/C#        D        E4
+Se em mim ainda há vestígios,
+A9      A9/C#        D            E
+Revelando o pecador que sou,
+D            A/C#   Bm   F#m     G              D/F#       E
+Vem, Senhor, e outra vez      lava esse meu interior.
+
+A          Bm          A/C#        D     E   F#m
+Quero te apresentar frutos de adoração,
+            Bm            A/C#             E4      E      A
+Como árvore plantada à beira de um ribeirão.
+         Bm             A/C#         C#4   C#/F  F#m
+E assim permanecer, avançando as estações.
+        Bm              A/C#             E4   E      A
+Abastece-me, Senhor, no teu rio de unção.
+
+A    E/G#    D/F#   A/C#   Bm  D/A   E
+Dá-me        ri   -   os,      abastece-me
+A    E/G#    D/F#   A/C#  D     E      D/F#   E/G#
+Dá-me       dá   -   me,   rios de unção
+
+A          Bm          A/C#        D     E   F#m
+Quero te apresentar frutos de adoração,
+            Bm            A/C#             E4      E      A
+Como árvore plantada à beira de um ribeirão.
+         Bm             A/C#         C#4   C#/F  F#m
+E assim permanecer, avançando as estações.
+        Bm              A/C#             E4   E      A
+Abastece-me, Senhor, no teu rio de unção.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A9 = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+B/D# = X 6 X 4 7 7
+Bm = X 2 4 4 3 2
+C#/F = X 8 X 6 9 9
+C#4 = X 4 4 1 2 X
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2
+F5+ = X X 3 2 2 1
+G = 3 2 0 0 0 3

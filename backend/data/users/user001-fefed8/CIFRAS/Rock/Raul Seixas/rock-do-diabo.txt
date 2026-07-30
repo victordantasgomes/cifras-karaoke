@@ -1,0 +1,110 @@
+@titulo: rock-do-diabo
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Rock do Diabo
+
+[Intro] E  E°  E4  E
+
+   E           E°        E4           E                   E
+E|--------------------0------0----0--|
+B|---5------5----5-----0----0--0--0--|
+G|--4------3----2----1-----1------1--|
+D|--------------------------------2--|
+A|--------------------------------2--|
+E|--------------------------------0--|
+
+   E
+Me dê um porco vivo
+           C
+Para eu encher minha pança
+     B7
+Três quilos de alcatra
+
+Com muqueca de esperança
+A                    E
+Diabo, o diabo usa capote
+         F     E
+É rock é toque é forte
+
+A
+Diabo foi ele mesmo que
+                E
+Me deu um toque
+                 G
+Enquanto Freud explica as coisas
+  D                 E
+O diabo fica dando toques
+                           C
+Existe dois diabos só que um
+                  B7
+Parou na pista um deles é do toque
+
+O outro é aquele do exorcista
+A                    E
+Diabo, o diabo usa capote
+         F     E
+È rock é toque é forte
+A
+Diabo foi ele mesmo que
+                E
+me deu um toque
+                 G
+Enquanto Freud explica as coisas
+  D                 E
+O diabo fica dando toques
+
+[Solo] E  C  E
+       C  B7  A
+       E  B7  A  E
+
+E
+Mamãe disse a Zequinha
+      C
+Nunca pule aquele muro
+   B7
+Zequinha respondeu
+
+Mamãe aqui tá mais escuro
+A                    E
+Diabo, o diabo usa capote
+
+ F     E
+É rock é toque é forte
+A
+Diabo foi ele mesmo que
+                E
+Me deu um toque
+                 G
+Enquanto Freud explica as coisas
+  D                 E
+O diabo fica dando toques
+  E
+O diabo é o pai do rock
+O diabo é o pai do rock
+       A
+Então é everybody rock
+   E
+O diabo é o pai do rock
+   B7            C
+Enquanto Freud explica!
+   D            A  C  B7  A  E
+O diabo dá uns toques
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+Edim = X X 2 3 2 3
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

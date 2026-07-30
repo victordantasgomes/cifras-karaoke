@@ -1,0 +1,90 @@
+@titulo: tentei-fugir
+@autor:
+@intérprete: Nando Reis
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nando Reis - Tentei Fugir
+
+ A               G
+Queria consegui dizer
+ D             A  G  D
+O quanto eu sofri
+ A                   G
+E a falta de você me faz
+       D          A  G  D
+Diferente até de mim
+ A                G
+Tentei fugir pra longe
+        D       A  G  D
+Mas não saí daqui
+ A                 G
+Estradas não faltavam
+     D          G    D
+Faltava o combustível
+  A                      G
+Sozinho eu me confundo e dói
+ D              A G D
+Olhar e achar ruim
+   A                  G
+Pois tudo fica muito pior
+
+    D                 A G D
+Sua voz eu preciso ouvir
+   A            G
+Tentei fugir, pra onde?
+    D         A G D
+De casa não saí
+   A                  G
+Drogadas madrugadas sobravam
+   D           A G D
+Sobrava um vazio
+
+solo: E G7+ A  E G7+ A
+
+  E                 F5
+Mas não vou mais deixar
+          E6
+Passar o tempo
+  A6      A7+         E
+Sem sentir o que ele faz
+    F#m
+Pra onde?
+  E/G#
+Eu não sei
+      D/A
+Se foi ontem
+ E/B
+Virá
+         Bm
+Perto ou longe
+
+Onde esconde
+  D                A               E G7+ A  E G7+ A
+Vou pra onde ela estiver
+
+   A         G       D
+  {Tentei fugir pra onde?
+ 2x A         G       D
+  {Tentei fugir pra onde?
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A6 = 5 X 4 6 5 X
+A7+ = X 0 2 1 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E6 = X X 2 4 2 4
+F#m = 2 4 4 2 2 2
+F5 = 1 3 3 X X X
+G = 3 2 0 0 0 3
+G7+ = 3 X 4 4 3 X

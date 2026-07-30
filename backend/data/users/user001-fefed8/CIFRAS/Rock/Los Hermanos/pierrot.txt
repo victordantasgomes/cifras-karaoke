@@ -1,0 +1,83 @@
+@titulo: pierrot
+@autor:
+@intérprete: Los Hermanos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Los Hermanos - Pierrot
+
+[afinação Bb - diminua 1/2 tom dos acordes)
+
+(intro) A
+
+Eb|-----7-9-7-5------------------7-9-7-5-------9-7-5--|
+Bb|-5-7---------7-5----------5-7---------7-5----------|
+Gb|-----------------7--7-6-------------------7--------|
+
+      A                                       E
+O pierrot apaixonado chora pelo amor da colombina
+         Bm      A      G      F#       Bm
+E é sua sina chorar a ilusão em vão, em vão
+
+(riff)
+Eb|--------------------------|
+Bb|--------------------------|
+Gb|--------------------------|
+Db|----4----7------4-2-------|
+Ab|-2----5------2-------5-4--|
+Eb|--------------------------|
+
+
+( F# )
+          Bm      A       G
+E a colombina só quer um amor
+            Bm         A         G
+Que não encontra num braço qualquer
+        Bm        A        G              F#
+Essa menina não quer mais saber de mal-me-quer
+            Bm      G
+Só do pierrot, pierrot
+      A       Bm        G     A  F#
+Pierrot, pierrot, pierrot, pierrot...
+
+       A                                     E
+O pierrot apaixonado chora pelo amor da colombina
+         Bm     A       G            F#             Bm
+E na esquina se mata a beber pra esquecer, pra esquecer
+
+(riff)
+Eb|--------------------------|
+Bb|--------------------------|
+Gb|--------------------------|
+Db|----4----7------4-2-------|
+Ab|-2----5------2-------5-4--|
+Eb|--------------------------|
+
+( F# )
+
+         Bm        A    G
+E o pierrot só queria amar
+          Bm          A          G
+E dar um basta a esta dor já sem fim
+          Bm     A        G          F#
+Mas colombina trocou seu amor por arlequim
+         Bm
+E o pierrot, chora!
+         G
+E o pierrot, chora!
+         A
+E o pierrot, chora!...
+     Bm    F# Bm
+Pierrot...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

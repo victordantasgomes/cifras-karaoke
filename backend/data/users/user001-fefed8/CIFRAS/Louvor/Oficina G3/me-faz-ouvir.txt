@@ -1,0 +1,85 @@
+@titulo: me-faz-ouvir
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - Me Faz Ouvir
+
+(intro) E B/D# B E A E/G# C9 D E
+
+ E        B/D#                C#m7   C#m7/B
+ Dos meus ombros o peso tirado
+ A9      E/G#          C#m7     B9
+ O alto preço não foi pago em vão
+ E        B/D#            C#m7   C#m7/B
+ Por seu sangue fui comprado
+ A9        E/G#        C#m7     B9
+ Sinto as correntes caírem no chão
+ F#m       C#m7        E/G#    A9
+ Não tenho forças pra continuar
+     F#m       D        B9
+ Mas me faz seguir tua voz
+
+ E           B/D#
+ Mata minha sede
+ E/G#                B     A9
+ Apenas me faz poder ouvir
+              E/G#
+ O som da Sua voz
+
+    C#m7      B9
+ A Sua doce voz
+ E               B/D#
+ Perdão que não mereço
+E/G#                   B    A9
+ Amor que me faz poder ouvir
+              E/G#
+ O som da Sua voz
+    C#m7      D B9   A9  (Ô Ô Ô Ô)  E/G#  C9  D
+ A Sua doce voz
+
+ E        B/D#             C#m7   C#m7/B
+ Por seu sangue fui comprado
+ A9           E/G#     C#m7     B9
+ Sinto as correntes caírem no chão
+ F#m          C#m7     E/G#      A9
+ Uma voz tão suave me faz renascer
+     F#m       D        B9
+ Faz o velho homem morrer
+
+ E           B/D#
+ Mata minha sede
+ E/G#                B     A9
+ Apenas me faz poder ouvir
+              E/G#
+ O som da Sua voz
+    C#m7      B9
+ A Sua doce voz
+ E               B/D#
+ Perdão que não mereço
+ E/G#                  B    A9
+ Amor que me faz poder ouvir
+              E/G#
+ O som da Sua voz
+    C#m7      B9   A9  (Ô Ô Ô Ô)  E/G#  C9  D  C9  D  C9  D (fim)
+ A Sua doce voz...leozynho"guitar"
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B9 = X 2 4 4 2 2
+C#m7 = X 4 6 4 5 4
+C#m7/B = 7 4 6 4 5 4
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

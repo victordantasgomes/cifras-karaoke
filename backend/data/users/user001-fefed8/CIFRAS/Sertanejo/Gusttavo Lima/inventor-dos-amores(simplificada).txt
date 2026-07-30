@@ -1,0 +1,63 @@
+@titulo: inventor-dos-amores(simplificada)
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Inventor Dos Amores
+
+(intro 2x) F#m A E B5(9)
+
+(primeira parte)
+F#m
+  Eu já não sei mais o que faço com meu coração,
+A
+  Eu não tenho mais o controle da situação,
+E                                          B5(9)
+  Todo caminho que eu sigo me leva a você.
+F#m
+  E quanto mais tento fugir eu me aproximo mais,
+A
+  Não tem mais jeito já se foi razão ficou para trás,
+E                                               B5(9)
+  Eu já não sigo meus instintos, medo de sofrer.
+F#m                                   A
+  E se eu me entregar será que vai rolar,
+                                        E   B5(9)
+  Sou um doente apaixonado e ela tem razão, ão,
+F#m                                     A
+  Se for pra ser assim eu vou cuida de mim,
+
+                                    B5(9)
+Eu penso em desistir e ela diz que não.
+
+(refrão)
+E
+  Meu coração apaixonado atormentado em dores,
+B5(9)
+  Procura entre os outros, um inventor dos amores
+F#m                   C#m                B5(9)
+  Espero que essa paixão nunca me deixe mal.
+E
+  Eu quero te amar e também quero ser amado,
+B5(9)
+  Desejo ser o seu amor e não o seu escravo.
+F#m                   C#m                   B5(9)
+  Espero que essa paixão não tenha ponto final
+      A                  E
+  Se não adeus, tchau tchau!
+
+(repete 2ª estrofe da primeira parte)
+(repete refrão 2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B5(9) = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

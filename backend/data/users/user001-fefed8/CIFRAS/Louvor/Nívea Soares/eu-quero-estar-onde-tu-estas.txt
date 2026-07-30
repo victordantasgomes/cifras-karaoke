@@ -1,0 +1,78 @@
+@titulo: eu-quero-estar-onde-tu-estas
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Eu Quero Estar Onde Tu Estás
+
+( - 146 BEAT )
+
+INTRO : Dm F C G
+                Dm F C G
+Dm
+  Com o pequenino Tu estás
+F9
+  Com o humilde Tu estás
+C9
+  Com o desamparado Tu estás
+Bb9                       C9/A
+  Com o necessitado Tu estás
+
+
+INTRO : Dm C D   Dm C D F  Dm  Dm C D G9      C Dm
+
+Dm
+  Com o rejeitado Tu estás
+F9
+  Com o ferido Tu estás
+C9
+  Com o abatido Tu estás
+
+Bb9           C9/A          Dm7 C9  G/B
+  Com o doente Tu estás
+
+Dm7
+  Eu quero estar onde Tu estás
+F9         G  C
+  Senhor
+Dm
+  E conhecer Teu coração
+F9           G       frase : C A C D
+  Senhor
+
+Dm7
+  Amar aqueles que Tu amas
+F9         G
+  Senhor
+F/A                        G/B
+  Eu quero estar onde Tu estás
+Dm7    G9
+  Senhor
+
+INTRO : Dm F C G
+                frase : F E D C D
+
+2 ESTROFES COM INTRO ENTRE ELAS MAIS CURTO
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+C9/A = X 0 5 5 3 3
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G9 = 3 X 0 2 0 X

@@ -1,0 +1,41 @@
+@titulo: salve-regina
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Salve Regina
+
+ C       F  G  F           Dm   G
+Salve, Regina, Mater misericordiae
+C     F    Dm   Am              G   C
+Vita, dulcedo,  et spes nostra, salve
+G        C      Am      Em    F  G
+Ad te clamamus, exsules filii Hevae
+C    F     Dm  Am       Dm      F   G
+Ad te suspiramus, gementes et flentes
+Dm                G  C
+In hac lacrimarum valle
+G     Am             F  G   C     Dm
+Eia, ergo, advocata nostra, illos tuos
+             G      Dm        Em G  C
+Misericordes oculos ad nos conve-erte
+G    Am Em                            F G
+Et Jesum, benedictum fructum ventris tu-i
+ C     F        Dm   Em        Dm     G    C
+Nobis post hoc exi - lium      oste - e - nde
+C             G  F   G  C F  Dm     G  F        G C
+O cle - mens, O pi - a, O       dulcis Virgo Mari-a
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

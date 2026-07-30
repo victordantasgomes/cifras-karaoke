@@ -1,0 +1,61 @@
+@titulo: avenida-central
+@autor:
+@intérprete: Trio Parada Dura
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trio Parada Dura - Avenida Central
+
+Intro: E  F#7  B  F#7  B
+
+    B            F#7               B
+Alguém batizou a casa de Avenida Central
+                  B7                   E
+Porque fica na avenida principal da cidade
+               E                    B
+Ali como todo mundo, nós dois divertimos
+             B                   F#7
+Bebemos, dançamos, nós dois nos unimos
+                            B     B7
+Passamos momentos de felicidade
+
+Refrão:
+B7               E                                 B
+Como tudo acaba, tudo acabou e adeus pra nós dois
+                                 F#7
+Só me resta passar pela casa e depois
+                                  B     B7
+Chorar de saudade do que já não existe
+            E                               B
+Como tudo acaba, tudo acabou nós mudamos a vida
+
+                                 F#7
+Você transformou-se em mulher perdida
+                         B
+Eu sou apenas um homem triste
+
+(Intro)
+
+    B              F#7               B
+Alguém se diverte ainda na Avenida Central
+   B             B7                   E
+Porém já não interessa para dois separados
+                      E                 B
+Existe a orquestra tocando boleros de amor
+                B                 F#7
+As valsas mais lindas que você dançou
+                                 B     B7
+Feliz em meus braços, o seu namorado
+
+(Refrão)
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+F#7 = 2 4 2 3 2 2

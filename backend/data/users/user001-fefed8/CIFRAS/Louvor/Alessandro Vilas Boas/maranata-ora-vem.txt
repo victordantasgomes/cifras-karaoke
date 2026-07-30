@@ -1,0 +1,40 @@
+@titulo: maranata-ora-vem
+@autor:
+@intérprete: Alessandro Vilas Boas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Alessandro Vilas Boas - Maranata, Ora Vem!
+
+C
+ E me mostrou um rio
+G                     Am
+ Um rio de águas vivas
+          G            F
+ Brilhante como um cristal
+C
+ E do outro lado estava
+G                 Am
+ A árvore da vida
+           G           F
+ Trazendo cura pro seu povo
+ C  G/B Am   G    F
+ Nunca  mais haverá dor!
+ C  G/B   Am  G  F
+ No trono Ele está!
+      C         G
+ Maranata, Maranata, ora vem!
+      Am        F
+ Maranata, Maranata, ora vem!
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

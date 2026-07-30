@@ -1,0 +1,102 @@
+@titulo: redeas-do-possante
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Rédeas do Possante
+
+Intro: G C D
+
+G                  C                G C D
+Cada palmo dessa estrada eu conheço bem
+G                 C                D
+Vou levando minha vida nesse vai e vem
+C                     G
+Não tem chuva não tem sol
+B7                      Em
+Não tem noite e não tem dia
+C               Am            D
+Cada cidade que passo levo alegria
+
+G                   C               G C D
+Quantas estrelas já vi iluminando o céu
+G              C                 D
+Madrugada de sereno molha meu chapéu
+C                  G
+Já passei tantos janeiros
+B7                Em   Em D
+Já senti tanta saudade
+
+C               D                G
+Cada ida e cada volta é só felicidade
+
+G F#m Em
+
+D                C                  G
+Minha vida é segurar as rédeas do possante
+                           D
+Lobo da estrada, fera do volante
+            C               G
+Louco apaixonado mais um viajante
+
+G F#m Em
+
+D                 C                 G
+Minha vida é igualzinha a vida de um peão
+                              D
+Também tem saudade no seu coração
+               C                G
+Onde vai seu cavalo vai meu caminhão
+
+D A C#7 F#m D E A
+
+A                   D               A D E
+Quantas estrelas já vi iluminando o céu
+A              D                 E
+Madrugada de sereno molha meu chapéu
+D                  A
+Já passei tantos janeiros
+C#7                F#m F#m E
+Já senti tanta saudade
+D               E                A
+Cada ida e cada volta é só felicidade
+
+A G#m F#m
+
+:E                D                  A
+:Minha vida é segurar as rédeas do possante
+:                           E
+:Lobo da estrada, fera do volante
+:            D               A
+:Louco apaixonado mais um viajante
+:
+:A G#m F#m
+:
+:E                 D                 A
+:Minha vida é igualzinha a vida de um peão
+:                              E
+:Também tem saudade no seu coração
+:               D                A
+:Onde vai seu cavalo vai meu caminhão
+
+A                  D                A
+Cada palmo dessa estrada eu conheço bem
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+C#7 = X 4 3 4 2 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

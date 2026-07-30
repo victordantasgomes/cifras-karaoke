@@ -1,0 +1,100 @@
+@titulo: imperfeito
+@autor:
+@intérprete: Anderson Freire
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Anderson Freire - Imperfeito
+
+[Intro] D  G  C9  D9/G
+        D  G  C9  D9
+
+[Primeira Parte]
+
+                  D         D7            G
+Pai perdoa o meu jeito  de achar que sou perfeito
+                 A4     A                 D
+Vejo erro nas pessoas e não olho os meus defeitos
+                   Am7  D7             G
+Justifico-me com o bem quando o mal eu pratiquei
+                 A4     A               D
+No final eu reconheço quando erro outra vez
+
+               D/C                      G/B
+Estou sempre declarando quero ser como criança
+                 G/Bb                    D/A
+com o coração tão cheio de maldade e de vingança
+                  Am7      D7           G
+Pai perdoa o meu jeito de achar que sou perfeito
+     D/F#       Em7    A4   A    G    A4/7  A7
+Sou tão falho e pecador detalhado de defeitos
+
+
+[Refrão]
+
+ D       D/F#  G  A4
+Pai       meu pai
+      A         D
+Tenho muito que mudar
+ D/F#    ( Em7 )   G  C9
+Pai          meu pai
+      G9        D
+Me ajude a melhorar
+
+( D  G  C9 )
+
+[Segunda Parte]
+
+               D        D7           G
+Pai a minha oração pode parecer tão dura
+                A4          A        D
+É que essa realidade no meu peito só machuca
+              Am7    D7            G
+Não dava pra esperar amanhã seria tarde
+                   A4      A        D
+Te entregar meu coração é minha prioridade
+
+                 D/C                G/B
+Me olhando nessa hora ainda não sou perfeito
+                    G/Bb                   D/A
+Mas eu sinto que me amas mesmo sendo desse jeito
+                Am7           D7      G
+Obrigado por me ouvir não vou nem me despedir
+     D/F#      Em7           A4    A    G   A4/7  A7
+Fica aqui dentro de mim para nunca mais sair
+
+[Refrão]
+
+ D   D/F#     G   A4
+Pai       meu pai
+       A        D
+Tenho muito que mudar
+ D/F#    ( Em7 )   G  C9
+Pai          meu pai
+    G9       D
+Me ajude a melhorar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A4/7 = X 0 2 0 3 0
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+D9 = X X 0 2 3 0
+D9/G = 3 X X 2 3 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/Bb = X 1 0 0 3 3
+G9 = 3 X 0 2 0 X

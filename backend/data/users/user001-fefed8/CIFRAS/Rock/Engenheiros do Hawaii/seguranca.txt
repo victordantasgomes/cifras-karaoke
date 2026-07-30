@@ -1,0 +1,122 @@
+@titulo: seguranca
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Segurança
+
+Inttro: A E (5x)
+
+             A             E               F#m   C#m
+   Você precisa de alguém   que te dê segurança      |
+               D     F#m            B      E          | 2x
+   Senão você dança,    senão você dança.            |
+
+F#m                               E            Fm5-
+   Ele era o tal, cheio de moral,  "bon vivant"
+F#m                                 E
+   Parecia um galã, usando óculos "Ray-Ban"
+    Fm5-
+   (Don Juan)
+F#m                                  E
+   Corria em Tarumã, combateu no Vietnã
+    Fm5-
+   (ra ta ta ta)
+F#m                      E
+   Vestia "Yves Saint-Laurent"
+   (Pierre Cardin).
+
+
+             A             E               F#m   C#m
+   Você precisa de alguém   que te dê segurança      |
+               D     F#m            B      E          | 2x
+   Senão você dança,    senão você dança.            |
+
+F#m                                  E               Fm5-
+   Ele era o tal, um cara tão legal, e fascinava você
+F#m                              E   Fm5-
+   Tinha um Puma-GT com vidro fumê
+F#m                               E             Fm5-
+   Tinha sauna no ap, só pra você ver (pode crer)
+F#m                                  E
+   Lutava karatê como nos filmes da TV.
+
+            A             E                F#m   C#m
+   Você precisa de alguém   que te dê segurança      |
+               D     F#m            B      E          | 2x
+   Senão você dança,    senão você dança.            |
+
+F#m                                    E   Fm5-
+   E o que mais emociona é que tudo nasceu
+F#m                       E   Fm5-
+   Numa carona que ele te deu
+F#m                                        E   Fm5-
+   O que mais me impressiona é que tudo se deu
+F#m                               E
+   No banco traseiro de um Alfa Romeo.
+
+
+           A             E                F#m   C#m
+   Você precisa de alguém   que te dê segurança
+              D     F#m            B      E
+   Senão você dança,    senão você dança.
+
+           A                           E                           F#m                          C#m
+   Você precisa, você precisa, você precisa, você precisa, você precisa, você precisa de alguém
+              D     F#m               B            E
+   Senão você dança,    senão você se cansa e rança!
+
+
+   Intro pro solo: A E(2x) B F#(2x) C# G#(2x)
+
+   Solo: A E F#m C#m D F#m B E
+
+
+           A             E                F#m   C#m
+   Você precisa de alguém   que te dê segurança
+              D     F#m            B   C   A
+   Senão você dança,    senão você...
+
+
+   *senão você...
+
+                B           C           A
+
+            E |-------------------------0|
+            B |-------------------------2|
+            G |-------------------------2|
+            D |-4-4-4-4-4-4-5-5-5-5-2-4-2|
+            A |-2-2-2-2-2-2-3-3-3-3-0-2-0|
+            E |--------------------------|
+
+
+   *ACORDES
+
+       E   Fm5-  D
+
+   E |-4--|-4--|-5--|---|
+   B |-5--|-6--|-7--|---|
+   G |-4--|-4--|-7--|---|
+   D |-x--|-x--|-7--|---|
+   A |-x--|-x--|-5--|---|
+   E |-x--|-x--|-x--|---|
+
+*O acorde "E" representado nessa parte, indica o acorde tocado nas partes dos chorus, no refrão, o acorde é      tocado em sua forma comum.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+Fm5- = 1 2 3 1 1 1
+G = 3 2 0 0 0 3

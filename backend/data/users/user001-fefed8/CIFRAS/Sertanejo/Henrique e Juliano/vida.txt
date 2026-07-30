@@ -1,0 +1,94 @@
+@titulo: vida
+@autor:
+@intérprete: Henrique e Juliano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Henrique e Juliano - Vida
+
+Intro: E  A/C#  D  Bm    E
+
+A          C#7               F#m
+Já era amor antes de ser
+             A7                 D
+Já era seu antes de sim
+           A/C#                Bm                        E
+Já era nós antes que eu pudesse escolher
+A                   C#7           F#m
+Eu te encontrei e me perdi
+              A7           D              A/C#          Bm
+Eu permiti acontecer, aconteceu sem avisar
+                      E
+Isso que é amar
+
+D                   C#7                 F#m
+Vida você entrou na minha vida
+              A7                 D
+E mesmo com tanta feridas
+                    A/C#         Bm7            E
+Você me aceitou o seu amor cicatrizou
+
+D                     C#7                    F#m
+Tanto eu errei tanto e tanto perdoou
+              A7                            D
+Será que eu mereço tanto amor
+                E                              A   A7
+Onde fui pedra você plantou flor
+
+                              D                       C#7                                F#m
+E vou seguindo assim um passo atrás do outro e não pela razão
+                A7                                  D
+E graças a você eu sou mais coração
+                                 E                                          A                      A7
+Dizem que a vida ensina, mas você que me ensinou o que é o amor
+                              D                             C#7                         F#m
+E vou seguindo assim me desculpe por tudo que eu te fiz passar
+                        A7           D                           E                              D  Dm
+Era meu jeito torto de amar, eu agradeço a Deus por ter você aqui
+                      A   A7
+E ser o teu amor
+
+Passagem: ( D  C#7  F#m  A  D  E  A  A7 )
+
+D                   C#7               F#m
+Vida você entrou na minha vida
+               A7               D
+E mesmo com tanta feridas
+         A/C#              Bm7                   E
+Você me aceitou o seu amor cicatrizou
+D                      C#7                    F#m
+Tanto eu errei tanto e tanto perdoou
+                A7                         D
+Será que eu mereço tanto amor
+               E                              A  A7
+Onde fui pedra você plantou flor
+
+                              D                                 C#7                        F#m
+E vou seguindo assim um passo atrás do outro e não pela razão
+                      A7                            D
+E graças a você eu sou mais coração
+                                E                                           A                     A7
+Dizem que a vida ensina, mas você que me ensinou o que é o amor
+                             D                              C#7                          F#m
+E vou seguindo assim me desculpe por tudo que eu te fiz passar
+                       A7            D                           E                              D  Dm
+Era meu jeito torto de amar, eu agradeço a Deus por ter você aqui
+                       A
+E ser o meu amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

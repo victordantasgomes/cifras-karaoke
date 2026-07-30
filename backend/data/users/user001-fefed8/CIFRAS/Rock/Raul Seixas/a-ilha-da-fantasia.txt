@@ -1,0 +1,100 @@
+@titulo: a-ilha-da-fantasia
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - A Ilha da fantasia
+
+Introdução:(E F#7 A E) 2x
+
+Solo
+E|-------------0--0---0---0-----------|
+B|--------------0------0---0----------|
+G|-0h1-2-3-3/4---4---3---2------------| 2x
+D|------------------------------------|
+A|------------------------------------|
+E|------------------------------------|
+
+E     Abm   A             B7          E
+Vamos logo que já está na hora de zarpar
+
+E|-------12---------------12----------|
+B|------------------------------------|
+G|-11/13----13\11-9-11b13----13r11p9--|
+D|------------------------------------|
+A|------------------------------------|
+E|------------------------------------|
+
+E        Abm  A       B            E
+Vem sem medo que não vamos naufragar
+
+
+E|-------12-------------12------------|
+B|------------------------------------|
+G|-11/13----13\11--9/11---------------|
+D|------------------------------------|
+A|------------------------------------|
+E|------------------------------------|
+
+Navegador!
+           B        C#m
+Não se esqueça meu amigo
+                  Abm  E
+de chamar o seu vizinho
+       A
+Navegador!
+           B          E        C#m
+Vê se na praça tem alguém para vir
+   A        B          E          C#m
+A barca de Noé tá pra sair, navegador
+   A        B             E    Solo Introdução
+A barca de Noé já vai partir
+ E     Abm  A          B          E
+Vamos escolher bem melhores condições
+       Abm  A           B          E
+Longe desse triste carnaval de ilusões
+      A
+Navegador!
+              B               C#m
+Deixe os que sonham em ser felizes
+                Abm  E
+habitando o paraíso
+       A
+Navegador!
+       B             E  C#m
+Já faz tempo que esperou
+  A          B             E
+vivendo sob leis que não criou,
+      C#m
+navegador
+ A          B             E
+vivendo sob leis que não criou,
+      C#m
+navegador
+   A         B             C    D E
+Vivendo sob leis que não criou
+
+                  E
+E|-------------0----------------------|
+B|-------------0----------------------|
+G|-3h4-3-2-1-2-1----------------------|
+D|-------------2----------------------|
+A|-------------2----------------------|
+E|-------------0----------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Abm = 4 6 6 4 4 4
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#7 = 2 4 2 3 2 2

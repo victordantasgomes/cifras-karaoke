@@ -1,0 +1,76 @@
+@titulo: heranca
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Herança
+
+[Intro] F7+  Dm7  Gm7  C7  F7+
+
+  F7+                    Dm7
+  Meus pais me deram a vida então
+           Gm7       C7          F7+  C7
+Pra ser livre e poder me expressar
+  F7+                Dm7
+ Nós com os punhos de cidadão
+         Gm7       C7      F7+  A7
+Com direitos de não aceitar
+     Dm7       Dm7+    Dm7          Dm6
+A guerra nuclear, sorrisos nunca mais
+     Bb7+      C7         Gm7      A7
+Nossos filhos correm o risco de ver
+    Dm7         Dm7+         Dm7          Dm6
+O início, a criação, de um mundo bem melhor
+   Bb7+        C7           Gm7     A7      Dm7
+De homens que pensam nos homens Não só no poder
+F7+           Dm7
+ Cadê o gênio da invenção
+      Gm7       C7       F7+  C7
+Que sumiu e a semente ficou
+
+F7+            Dm7
+ Não depender de uma decisão
+     Gm7    C7      F7+  A7
+Um botão e sonho acabou
+  Dm7     Dm7+   Dm7         Dm6
+Hiroshima flor, mais uma vez não
+  Bb7+      C7       Gm7    A7
+Nuvens, tempestades de radiação
+ Dm7        Dm7+     Dm7         Dm6
+Onde estão vocês, me digam por favor
+ Bb7+         C7         Gm7         A7        Dm7
+Homens que só pensem nos homens, na vida e no amor
+
+( F7+  Dm7  Gm7  C7  F7+ )
+
+  Bb7+        C7           Gm7       A7
+De homens que pensam nos homens, na vida
+Dm7        Dm7+
+Ambição demais
+    Dm7         Dm6
+Aos loucos satisfaz
+ Bb7+       C7      Gm7        A7
+Todo esse cenário terrível de ver
+Dm7           Dm7+
+E que venha a paz
+Dm7          Dm6
+Abaixo os ideais
+     Bb7+       C7      Gm7      A7           Dm7
+De homens que não sabem que pode ser tarde demais
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bb7+ = X 1 3 2 3 1
+C7 = X 3 2 3 1 X
+Dm6 = X 5 X 4 6 5
+Dm7 = X 5 7 5 6 5
+Dm7+ = X X 0 2 2 1
+F7+ = 1 X 2 2 1 X
+Gm7 = 3 X 3 3 3 X

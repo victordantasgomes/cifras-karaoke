@@ -1,0 +1,73 @@
+@titulo: blackout(simplificada)
+@autor:
+@intérprete: Cristiano Araújo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cristiano Araújo - Blackout
+
+[Intro]  G  Am7  C9
+
+G   Am7  C9
+Eu sei
+G                Am7         C9
+Que eu não tenho mais razões   pra me preocupar
+G      Am7     C9
+Eu sei, que não sei
+G           Am7           C9
+Da sua nova vida se tem outro em meu lugar
+Em                  D9/F#                       Am7
+Mas depois daquele dia que você não quis me ouvir
+                   C9                          Em7
+Me deixando aqui jogado sem motivos pra existir
+                D9/F#              Am7
+Só no meio da semana eu ainda sobrevivo
+                  C                       G
+Mas na sexta madrugada já começa o meu castigo
+     D
+Castigo
+
+
+G               D
+E eu fico aqui sozinho
+                    Am7
+No meu quarto imaginando
+              G/B   C9
+Aonde você possa estar
+G                  D
+Torcendo por um blackout na cidade
+              Am7
+Que seu carro quebre na garagem
+   G/B     C9
+E ninguém venha lhe buscar
+G                   D                         Am7
+E assim eu vou traçando a sua rota em minha mente
+                   C                          G
+Assim meio impaciente, sem certeza, sem radar
+                          D
+Pedindo a Deus que mande uma tempestade
+          Am7                           C
+Que alague toda a cidade, que você não saia do sofá
+C/D                          G    Am7   C9
+Pra que ninguém roube o meu lugar
+                             G    Am7    C9
+Pra que ninguém roube o meu lugar
+                             G    Am7   C9
+Pra que ninguém roube o meu lugar
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D9/F# = 2 X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

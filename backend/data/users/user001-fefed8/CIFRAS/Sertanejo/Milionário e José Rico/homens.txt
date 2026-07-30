@@ -1,0 +1,51 @@
+@titulo: homens
+@autor:
+@intérprete: Milionário e José Rico
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Milionário e José Rico - Homens
+
+Intro: Am  E7  Am  A7  Dm  Am  F  E7  Am
+
+Am             G                   C
+Homens, por favor ouçam minha canção
+               E7          Am
+Que fiz com a alma e o coração
+             E7          A
+Para o exemplo de todos nós....
+
+A                  E7
+Não façam como eu fiz
+   D             A
+Sejam como hoje sou
+             E7              A
+Não se entregam de corpo e alma
+         F        E7       A
+A uma fêmea que não tem amor
+
+A
+Se tenho marcas no rosto
+                       E7 D E7
+Em minha mente muito mais....
+
+  D                 A
+Amar  o quanto eu amei,
+         E7         A
+Neste mundo nunca mais.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

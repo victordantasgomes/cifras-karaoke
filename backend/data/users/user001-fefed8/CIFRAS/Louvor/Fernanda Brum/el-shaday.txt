@@ -1,0 +1,91 @@
+@titulo: el-shaday
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - El Shaday
+
+Intro:C#m7 C#m7/9/11 A7+/9 G#4/7
+     (C#m7 C#m7/9/11 A7+/9 G#4/7 G#5+/7 C#m7/9)
+
+F#m7
+Redentor fiel
+       B4/7/9
+E protetor Tu és
+F#m7                      B4/7/9
+Me guardas de tropeçar no dia mal
+  C#m7
+E quando me encontro
+        C#m7/9/11
+Em descaminhos
+    A7+/9                  G#4/7
+Que não me levam a lugar seguro
+
+          C#m7
+Tua forte mão
+            C#m7/9/11
+Vem me resgatar
+      F#m7     G#4/7  G#7 C#m7
+Destruindo o poder do inimigo
+
+           C#m7             C#m7/9/11
+Fazendo brilhar a glória do Pai
+     A7+/9
+Nome poderoso
+G#4/7 G#5+/7 C#m7/9
+Seja Deus bendito
+
+F#m7
+El Shaday
+               B4/7/9
+Jesus é nossa doce paz
+F#m7
+Aquele que acalmou
+        B4/7/9
+A tempestade
+C#m7                     C#m7/9/11
+Que valorizou a fé de um homem
+A7+/9
+E que numa palavra
+     G#4/7
+Um milagre fez
+
+           C#m7
+Como não amar
+            C#m7/9/11
+Esse grande Deus
+       F#m7
+Fez de mim o que
+     G#4/7  G#7 C#m7
+Ninguém jamais faria
+            C#m7
+Derramou na cruz
+            C#m7/9/11
+Sangue carmesim
+    A7+/9
+Perdoou pecados
+G#4/7 G#5+/7 C#m7/9
+Pagou minha dívida
+
+Base Solo:F#m7/9 B4/7/9
+         (C#m7/9)
+         (A7+/9 F#m7/9)
+         (C#m7/9)
+
+----------------- Acordes -----------------
+A7+/9 = X 0 2 1 0 0
+B4/7/9 = X 2 2 2 2 2
+C#m7 = X 4 6 4 5 4
+C#m7/9 = X 4 2 4 4 X
+C#m7/9/11 = X 4 2 4 4 2
+F#m7 = 2 X 2 2 2 X
+F#m7/9 = X X 4 2 5 4
+G#4/7 = 4 6 4 6 4 X
+G#5+/7 = 4 7 6 5 4 X
+G#7 = 4 6 4 5 4 4

@@ -1,0 +1,123 @@
+@titulo: uma-grande-mentira
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Uma Grande Mentira
+
+Intr.:   F  C  G  Am
+
+                             Am
+Por que é que eu fico tão calado
+
+Se não fiz nada de errado
+                Dm
+E você briga comigo
+                       G
+Eu te dei tudo que eu tinha
+
+O meu mundo, a vida minha
+           Am              G
+Sempre fui seu ombro amigo
+                      Am
+A gente não é mais a gente
+
+Por que é que tá tão diferente
+                 Dm
+Do que era no começo
+                    G
+Tá tudo de ponta cabeça
+
+
+E por incrível que pareça
+                    C        E
+Nosso amor tá pelo avesso, Pelo amor de Deus
+A      E/G#          F#m        E
+Diga que já não quer mais esse amor
+        Bm  Bm7+  Bm7  Bm6
+Que queria
+E      E/D             Bm        E         A   E7
+Que já não tem mais em mim o prazer que sentia
+A          E/G#    F#m         E    A  E
+Diga que o tempo passou e que o vento levou,
+             Bm  Bm7+  Bm7  Bm6
+Nossa felicidade
+D                 A                    E
+Diga que chegou a hora, que tá indo embora
+               A
+Deixando a saudade
+Dm
+Diga que foi ilusão
+A           E/G#         F#m
+Que não dá mais, que não virá
+D                   E                   A
+Diga que entre nós dois é uma grande mentira
+
+SOLO:  Bm  E  A    E  D - E  A - E/G# - F#m D  E
+
+A        E/G#        F#m        E
+Diga que já não quer mais esse amor
+        Bm  Bm7+  Bm7  Bm6
+Que queria
+E      E/D             Bm        E          A  E7
+Que já não tem mais em mim o prazer que sentia
+A          E/G#    F#m         E    A  E
+Diga que o tempo passou e que o vento levou,
+             Bm  Bm7+  Bm7  Bm6
+Nossa felicidade
+D                 A                    E
+Diga que chegou a hora, que tá indo embora
+               A
+Deixando a saudade
+Dm
+Diga que foi ilusão
+A            E/G#        F#m
+Que não dá mais, que não virá
+D                  E
+Diga que entre nós dois
+                A       Cm7  F7
+É uma grande mentira
+
+Bb  F/A Gm F  Cm  Cm7+ Cm7 Cm6   F  F/Eb Cm F Bb F7 // Bb F/A Gm F Cm Cm7+ Cm7 Cm6
+Lá,lá,raia,lá,raia,lá,raia,lá,láiaia ...
+
+D#                  F
+Diga que entre nós dois
+                 F#   D#m  Bb  F - Bb
+É uma grande mentira
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+Bm6 = 7 X 6 7 7 X
+Bm7 = X 2 4 2 3 2
+Bm7+ = X 2 4 3 3 2
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+Cm6 = X 3 X 2 4 3
+Cm7 = X 3 5 3 4 3
+Cm7+ = X 3 5 4 4 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D#m = X X 1 3 4 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+F/A = 5 X 3 5 6 X
+F/Eb = X X 1 2 1 1
+F7 = 1 3 1 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

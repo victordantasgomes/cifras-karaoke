@@ -1,0 +1,70 @@
+@titulo: vida(simplificada)
+@autor:
+@intérprete: Henrique e Juliano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Henrique e Juliano - Vida
+
+E|--------------------2/4---2h4p2-----0-----|
+B|---3----5----7----3/5---------------------|
+G|------------------------------------------|
+D|------------------------------------------|
+A|---2----4----5----------------------------|
+E|--------------------0---------------------|
+
+A       C#          F#m
+Já era amor antes de ser
+       A7
+Já era seu antes de sim
+D          A/C#        Bm        D        E
+  Já era nós antes que eu pudesse escolher
+A           C#          F#m
+Eu te encontrei e me perdi
+        A7          D       A/C#        Bm
+Eu permiti acontecer, aconteceu sem avisar
+      D        E
+Isso que é amar
+
+D            C#            F#m
+Vida você entrou na minha vida
+
+        A              D
+E mesmo com tanta feridas
+  A                    Bm          E
+Você me aceitou o seu amor cicatrizou
+    D          C#                 F#m
+Tanto eu errei tanto e tanto perdoou
+         A                  D
+Será que eu mereço tanto amor
+         E                    A     A7
+Onde fui pedra você plantou flor
+
+                  D                      C#               F#m
+E vou seguindo assim um passo atrás do outro e não pela razão
+              A                  D
+E graças a você eu sou mais coração
+                     E                         A               A7
+Dizem que a vida ensina, mas você que me ensinou o que é o amor
+             D                       C#                   F#m
+E vou seguindo assim me desculpe por tudo que eu te fiz passar
+               A           D                E                  D
+Era meu jeito torto de amar, eu agradeço a Deus por ter você aqui
+Dm           A     A7
+E ser o teu amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

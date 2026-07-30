@@ -1,0 +1,60 @@
+@titulo: nao-preciso-de-voce
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Não Preciso de Você
+
+(intro) F#m  D  F#m  E
+
+A                         D     Bm
+Não pergunte porque vou embora, estou apaixonado por
+  E   A                       D
+você,  mas a sua falta de interesse em minha vida, me
+     A                 E        A  E  A
+fez crer que eu não preciso de você
+
+(2° parte)
+
+A                               D             Bm
+Quando fico do seu lado estou sozinho, se estou longe
+                E          A        C#7         F#m
+fico perto de você, pois você esta comigo, na cabeça
+              D                        A
+e no meu coração,( coração ) mais me desculpe amor,
+ E                 A  E
+não tem mais condição
+
+(refrão)
+
+     E      A                  E               D
+De viver contigo, já não faz sentido, eu não consigo
+                        A  E
+ser tratado desse jeito não...
+                    A                 E
+Se eu ficar ao seu lado vai ser um castigo, vou
+     D         E                   A
+machucar ainda mais o meu pobre coração....
+
+( F#m  D  F#m  E )
+
+(repete 2° parte)
+
+(repete refrão 2x)
+
+D  E               A  D  E               A
+     meu pobre coração....   meu pobre coração....
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C#7 = X 4 3 4 2 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

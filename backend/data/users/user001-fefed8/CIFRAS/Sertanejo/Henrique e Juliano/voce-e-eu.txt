@@ -1,0 +1,61 @@
+@titulo: voce-e-eu
+@autor:
+@intérprete: Henrique e Juliano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Henrique e Juliano - Você e Eu
+
+E            A
+ Apaguei Tudo o que eu Vivi
+E                   A
+ Já não faz mais sentido lembrar
+E              A
+ Você não teve pena de mim
+E                  A           E E7
+ Sinto mas não dá pra te perdoar
+
+Pré-refrão:
+A                                E
+ Hoje eu descobri que foi só ilusão
+A                             E
+ Quanto tempo eu perdi com você
+A                             B
+ Mas eu já tirei você do coração
+F#m             A                   B
+ E juro, nunca mais eu choro por Você
+
+Refrão:
+                                             F#m
+Você um dia vai olhar pra trás e ver tudo o que perdeu
+
+   A          B
+Você e eu, vacilo seu
+                                            F#m
+Um dia a vida vai cobrar o preço do erro que cometeu
+  A           E
+Você e eu, pecado meu
+                                          F#m
+Agora tem outra pessoa que me dá o que você não deu
+   A           B
+Você e eu, Já me perdeu
+                                                 F#m
+Vai se entregar a outra pessoa tentando sentir o gosto meu
+     A         Am
+Mas não sou eu
+
+E              A       B    E
+ Você foi o maior dos erros meus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

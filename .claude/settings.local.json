@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./env/Scripts/python.exe backend/seed.py)",
+      "Bash(curl -s http://localhost:5000/api/health)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:5000/api/health)",
+      "Bash(curl -s -w \"\\\\nHTTP %{http_code}\\\\n\" -X POST http://localhost:5000/api/auth/login -H \"Content-Type: application/json\" -d '{\"username\":\"demo\",\"password\":\"demo123\"}')",
+      "Bash(curl -s -w \"\\\\nHTTP %{http_code}\\\\n\" -X POST http://localhost:5173/api/auth/login -H \"Content-Type: application/json\" -d '{\"username\":\"demo\",\"password\":\"demo123\"}')",
+      "Bash(curl -s http://localhost:5000/api/songs -H 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMDAxLWZlZmVkOCIsInVzZXJuYW1lIjoiZGVtbyIsImlhdCI6MTc4NDQ5MTc3MCwiZXhwIjoxNzg0NTM0OTcwfQ.arl_cHvPmi0V4pftL2R6VxqZYL37wF9eIoCkxu9VAQg')",
+      "Bash(SCRATCH=\"/c/Users/victo/AppData/Local/Temp/claude/C--Users-victo-OneDrive--rea-de-Trabalho-WORKSPACE-cifras-karaoke/afbb2df9-5b6b-449c-b76b-8b9ccbc41ceb/scratchpad\" *)",
+      "Bash(./env/Scripts/python.exe -m pytest backend/tests/test_parser.py backend/tests/test_services.py -q)",
+      "Bash(./env/Scripts/python.exe -m pytest backend/tests -q)",
+      "Bash(npx vite *)",
+      "Bash(grep -rhoE \"^\\\\s*\\\\[[^]]+\\\\]\\\\s*$\" \"backend/data/users/user001-fefed8/CIFRAS/\")",
+      "Bash(node /c/Users/victo/AppData/Local/Temp/claude/C--Users-victo-OneDrive--rea-de-Trabalho-WORKSPACE-cifras-karaoke/afbb2df9-5b6b-449c-b76b-8b9ccbc41ceb/scratchpad/test_editor_helpers.mjs)",
+      "Bash(./env/Scripts/python.exe -c ' *)",
+      "Bash(curl -s -X POST http://localhost:5000/api/auth/login -H \"Content-Type: application/json\" -d '{\"username\":\"demo\",\"password\":\"demo123\"}')",
+      "Bash(DATA_DIR=__TRACKED_VAR__/testdata PORT=5051 ./env/Scripts/python.exe -c ' *)",
+      "Bash(curl -s --max-time 5 http://127.0.0.1:5051/api/health -w \"\\\\nHTTP:%{http_code}\\\\n\")",
+      "Read(//c/Users/victo/OneDrive/Área de Trabalho/WORKSPACE/cifras-karaoke/**)",
+      "Read(//c/Users/victo/OneDrive/Área de Trabalho/WORKSPACE/cifras-karaoke/frontend/**)",
+      "Bash(VITE_API_URL=http://127.0.0.1:5051 npx vite build --outDir /c/Users/victo/AppData/Local/Temp/claude/C--Users-victo-OneDrive--rea-de-Trabalho-WORKSPACE-cifras-karaoke/afbb2df9-5b6b-449c-b76b-8b9ccbc41ceb/scratchpad/test-dist)",
+      "Read(//c/Users/victo/AppData/Local/Temp/claude/C--Users-victo-OneDrive--rea-de-Trabalho-WORKSPACE-cifras-karaoke/afbb2df9-5b6b-449c-b76b-8b9ccbc41ceb/scratchpad/test-dist/**)",
+      "Bash(python -m http.server 5199)",
+      "Bash(VITE_API_URL=http://127.0.0.1:5051 npx vite build --outDir /c/Users/victo/AppData/Local/Temp/claude/C--Users-victo-OneDrive--rea-de-Trabalho-WORKSPACE-cifras-karaoke/afbb2df9-5b6b-449c-b76b-8b9ccbc41ceb/scratchpad/test-dist --emptyOutDir)",
+      "Bash(\"/c/Users/victo/OneDrive/Área de *)",
+      "Bash(cd \"/c/Users/victo/OneDrive/Área de Trabalho/WORKSPACE/cifras-karaoke\" && grep -n \"DBG\\\\|console.log\" frontend/src/pages/SongEditor.jsx)",
+      "Bash(netstat -ano)",
+      "Bash(powershell -Command \"Stop-Process -Id 45996 -Force; Stop-Process -Id 5728 -Force\")",
+      "Bash(rm -rf /c/Users/victo/AppData/Local/Temp/claude/C--Users-victo-OneDrive--rea-de-Trabalho-WORKSPACE-cifras-karaoke/afbb2df9-5b6b-449c-b76b-8b9ccbc41ceb/scratchpad/testdata /c/Users/victo/AppData/Local/Temp/claude/C--Users-victo-OneDrive--rea-de-Trabalho-WORKSPACE-cifras-karaoke/afbb2df9-5b6b-449c-b76b-8b9ccbc41ceb/scratchpad/test-dist /c/Users/victo/AppData/Local/Temp/claude/C--Users-victo-OneDrive--rea-de-Trabalho-WORKSPACE-cifras-karaoke/afbb2df9-5b6b-449c-b76b-8b9ccbc41ceb/scratchpad/src)",
+      "Read(//c/c/Users/victo/AppData/Local/Temp/claude/C--Users-victo-OneDrive--rea-de-Trabalho-WORKSPACE-cifras-karaoke/afbb2df9-5b6b-449c-b76b-8b9ccbc41ceb/scratchpad/**)"
+    ]
+  }
+}

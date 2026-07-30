@@ -1,0 +1,136 @@
+@titulo: porque-estas-comigo
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Porque Estás Comigo
+
+Intro: Am F C/E G
+       Am F C/E G
+       Am F C/E G
+
+ Am
+Mil cairão ao meu lado
+    F/A
+Dez mil à minha direita
+    G/B
+Mas eu não serei atingido
+          Am
+Diz o Senhor
+
+ Am
+Mil cairão ao meu lado
+    F/A
+Dez mil à minha direita
+    G/B
+Mas eu não serei atingido
+          Am
+Diz o Senhor
+
+
+Am           C  F
+  Porque estás comigo
+G               Am
+  Porque estás comigo
+C               F
+  Porque estás comigo
+G            Am
+  Eu não temerei
+                F
+  Porque estás comigo
+G               Am
+  Porque estás comigo
+C               F
+  Porque estás comigo
+G            Am
+  Eu não temerei
+
+Instrumental: Am F C/E G
+              Am F C/E G
+
+ Am
+Se me permites passar pelo fogo
+ Am
+Tua promessa é que a chama não arderá
+ Am                                Am
+Se me permites passar pelas muitas águas
+     F       G    Am
+Elas não me afogarão
+
+Am           C  F
+  Porque estás comigo
+G               Am
+  Porque estás comigo
+C               F
+  Porque estás comigo
+G            Am
+  Eu não temerei
+                F
+  Porque estás comigo
+G               Am
+  Porque estás comigo
+C               F
+  Porque estás comigo
+G            Am
+  Eu não temerei
+
+ Am
+Vou passar pelo fogo, não vou me queimar
+ Am
+Vou passar pelas águas, não vou me afogar
+ Am
+Vou saltar as muralhas, eu vou conquistar
+ Am
+Vou correr, vou voar, vou vencer
+ Bm
+Vou passar pelo fogo, não vou me queimar
+ Bm
+Vou passar pelas águas, não vou me afogar
+ Bm
+Vou saltar as muralhas, eu vou conquistar
+ Bm                              (stop)
+Vou correr, vou voar, vou vencer
+ Bm                             Bm A/C#
+Vou vencer, vou vencer, vou vencer
+
+             D  G
+  Porque estás comigo
+A               Bm
+  Porque estás comigo
+D               G
+  Porque estás comigo
+A            Bm
+  Eu não temerei
+                G
+  Porque estás comigo
+A               Bm
+  Porque estás comigo
+D               G
+  Porque estás comigo
+A
+  Eu não temerei
+
+Fim: Bm G D/F# A
+     Bm G D/F# A
+                Bm
+     Eu não temerei
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

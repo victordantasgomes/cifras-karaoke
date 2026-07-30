@@ -1,0 +1,105 @@
+@titulo: senhor-da-guerra
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Senhor da Guerra
+
+ Intr.: A D E7
+
+A7
+Muito prazer, eu sou o senhor da guerra
+Eu vou lhes dizer o que a guerra encerra
+                                B7
+Abra os olhos, vê se presta atenção
+Atenção!
+Atenção!
+
+    D                       A
+A guerra traz um pouco de ação
+    D                 A
+Evita o fim da população
+    D                       A
+É dinheiro pra quem sabe ganhar
+    D                 A
+E isso faz o mundo girar
+   D                  A
+Aquele que luta pela paz
+  B7                  E7                  A
+Aposto que ainda não sabe a besteira que faz
+
+                D
+Pois guerra é guerra
+       E            A
+Que sacode a nossa terra
+         F#m          D
+Quem se vira aqui se ferra
+     E              A    A7
+O negócio é se dar bem
+            D
+Se a barra pesa
+       E             A
+O escarola entra na reta
+      F#m           D
+Bom gorila que se presa
+        E            A    F7
+Não dá bola pra ninguém
+
+Bb7
+Muito prazer eu sou o senhor da guerra
+E vou lhes dizer o que a guerra encerra
+                                C7
+Abra os olhos, vê se presta atenção
+Atenção!
+Atenção!
+   Eb                  Bb
+Levanta pelo mundo na mão
+   Eb                         Bb
+É lança, arco e flecha ou canhão
+  Eb                   Bb
+Agora nosso pique é total
+   Eb                    Bb
+Terceira estrela no sideral
+    C7                     F7
+E o velho Harlley que se cuide
+                      Bb
+Ou pegue o rabo e se mude
+
+                Eb
+Pois guerra é guerra
+       F            Bb
+Que sacode a nossa terra
+         Gm          Eb
+Quem se vira aqui se ferra
+     F              Bb    Bb7
+O negócio é se dar bem
+            Eb
+Se a barra pesa
+       F             Bb
+O escarola entra na reta
+      Gm           Eb
+Bom gorila que se presa
+        F            Bb
+Não dá bola pra ninguém
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+Bb = X 1 3 3 3 1
+Bb7 = X 1 3 1 3 1
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Eb = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F7 = 1 3 1 2 1 1
+Gm = 3 5 5 3 3 3

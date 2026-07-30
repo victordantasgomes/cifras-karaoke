@@ -1,0 +1,75 @@
+@titulo: entrada-franca
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Entrada Franca
+
+Intro:
+    C#          F#  G#  C#               F#      G#  C#
+E|--------------------4---|--------------------4---4---|
+B|----2-4-6-7-6---4---4---|----2-4-6-7-6-----------4---|
+G|--------------------6---|----------------2/5-----6---|
+D|----3-4-6-8-6---4---6---|----3-4-6-8-6-----------6---|
+A|--------------------4---|------------------------4---|
+E|--------------------x---|------------------------x---|
+
+(1ª parte)
+                                           Bbm                    G#
+Eu queria cantar pra você pra tentar te dizer que as noites são frias
+      F#                                                         G#
+Que o meu coração tá vazio, que quem tá perdido não escolhe o caminho
+         C#                                  C#                    F#
+Mas nem tudo vai à ferro e fogo, você faz o jogo que a mágoa te ordena
+        Eb                    Eb/G              F#                    G#
+E as palavras são folhas ao vento, não podem dizer que chorar vale a pena
+
+(2ª parte)
+        C#                                                          F#
+Mas dos palcos dessa solidão, sem você na platéia ninguém vai me ouvir
+
+       Ebm                                          F#                    G#
+E por mais que eu aumente o som, você de braços cruzados não vai me aplaudir
+             C#                                          F#                       F#m
+Sei que as frases são balas perdidas que alguém deixou cair entre os vãos das poltronas
+       C#                       G#               F#           C#     G#
+E o silêncio é o bilhete de entrada do arrependimento de quem abandona
+
+Refrão:
+ C#                                           Ebm
+Vem que a porta está aberta, que a entrada é franca
+                                    F#
+A dor de uma saudade só um beijo arranca
+                                    C#     G#
+Que a paixão é o petisco pra o coração que ama
+ C#                                            Ebm
+Vem que longe dos seus olhos qualquer filme é triste
+                                F#                  G#        C#
+Se a solidão me vaia, o amor insiste em decorar os palcos pra outra canção
+
+solo: C# F# G# Bbm Ab/C
+
+Repete 2ª parte
+
+Refrão 2x
+
+(Para terminar)
+C# F#           C#
+      Outra canção...
+
+----------------- Acordes -----------------
+Ab/C = X 3 X 1 4 4
+Bbm = X 1 3 3 2 1
+C# = X 4 6 6 6 4
+Eb = X 6 5 3 4 3
+Eb/G = 3 X 1 3 4 X
+Ebm = X X 1 3 4 2
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G# = 4 3 1 1 1 4

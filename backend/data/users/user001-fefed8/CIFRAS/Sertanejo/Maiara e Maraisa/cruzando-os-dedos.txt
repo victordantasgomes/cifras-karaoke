@@ -1,0 +1,113 @@
+@titulo: cruzando-os-dedos
+@autor:
+@intérprete: Maiara e Maraisa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Maiara e Maraisa - Cruzando Os Dedos
+
+Intro: E
+
+E|----------------------------------------------------|
+B|-5h7-5-7/10-9~--------------------------------------|
+G|----------------------------------------------------|
+D|-6h7-6----------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+Primeira parte:
+
+     A9
+Você acha que me tem a hora que cê quer
+                            E
+Aceito isso só porque eu te amo
+Por enquanto ainda te amo
+
+         A9
+Já sabe que eu tô sofrendo
+
+Mesmo assim faz o que quer
+
+                        C#m
+Toma cuidado um dia eu canso
+             Am
+E seu eu cansar
+
+Refrão 2x:
+
+                 E
+Vai cruzando os dedos pra eu não encontrar
+Outra boca, outro beijo, outra cama
+         C#m
+Outro alguém que vai te superar
+Um dia eu troco esse medo de te perder
+ B9     A9
+Pela coragem de arriscar
+        Am
+Vai cruzando os dedos pra eu não me apaixonar
+
+Base Solo: E  C#m  B9  A9
+
+Solo:
+
+      E             C#m  B     A9
+E|----------------------------------------------------|
+B|-5-7-5-9/10-9--5-7-5-9/10-9--7h9p7-5----------------|
+G|----------------------------------------------------|
+D|-6-7-6-9/11-9--6-7-6-9/11-9-------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+Primeira parte:
+
+     A9
+Você acha que me tem a hora que cê quer
+                            C#m
+Aceito isso só porque eu te amo
+Por enquanto ainda te amo
+
+B9          A9
+   Já sabe que eu tô sofrendo
+
+Mesmo assim faz o que quer
+                 B9     C#m
+Toma cuidado um dia eu canso
+             Am
+E seu eu cansar
+
+Refrão 2x:
+
+                 E
+Vai cruzando os dedos pra eu não encontrar
+Outra boca, outro beijo, outra cama
+         C#m
+Outro alguém que vai te superar
+Um dia eu troco esse medo de te perder
+ B9     A9
+Pela coragem de arriscar
+        Am
+Vai cruzando os dedos pra eu não me apaixonar
+
+Frase Final:
+
+E|-8-7-5-4-0-----------------------------------|
+B|---------------------------------------------|
+G|-9-7-5-4-1-----------------------------------|
+D|---------------------------------------------|
+A|---------------------------------------------|
+E|---------------------------------------------|
+
+( E )
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0

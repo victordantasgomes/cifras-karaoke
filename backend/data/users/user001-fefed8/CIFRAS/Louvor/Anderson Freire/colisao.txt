@@ -1,0 +1,182 @@
+@titulo: colisao
+@autor:
+@intérprete: Anderson Freire
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Anderson Freire - Colisão
+
+[Intro] D5  E5
+
+E|----------------0-0-0-0-0------0--|
+B|----------------9-7-0-0-0------0--|
+G|-7\9---------------9-9-9-8-9---1--|
+D|-7\9---------------------------2--|
+A|-5\7---------------------------2--|
+E|-------------------------------0--|
+
+[Primeira Parte]
+
+E                       C#m
+ Preciso ser o oposto do que o mundo é
+               B9    A9
+Bater de frente com os meus desejos
+           E/G#     F#m
+Resistir o mal até   o   fim
+      B9
+Que uma hora ele fugirá de mim
+
+E                      C#m
+ Preciso ser preservador de bons costumes
+
+       B9      A9
+Evitar as más conversações
+    E/G#              F#m
+Me policiar quando os meus impulsos
+       B9
+Ultrapassam o limite da emoção
+
+[Pré-Refrão]
+
+F#m
+ Preciso guardar meu corpo
+  B9
+Lembrar que ele é o templo santo do Pai
+F#m        E/G#
+ Preciso ter atitude
+  A9              B9
+Largar o meu assento e caminhar com Deus
+
+[Refrão]
+
+E                   C#m
+ Hoje é tempo de fortalecer a fé
+          B9        A9
+Colidir com o mundo e ficar de pé
+        E/G#        F#m
+Mais que conhecer, preciso viver
+        B9
+A verdade revelada
+E                  C#m
+ Hoje é tempo de renunciar meu eu
+                B9       A9
+Lembrar que numa cruz alguém por mim morreu
+        E/G#       F#m
+Hoje é minha vez, agora sou eu
+         B9
+Vou morrer pro mundo
+      A9
+E viver pra Deus
+
+[Solo] B  F#m  A
+
+[Primeira Parte]
+
+E                       C#m
+ Preciso ser o oposto do que o mundo é
+               B9    A9
+Bater de frente com os meus desejos
+           E/G#     F#m
+Resistir o mal até   o   fim
+      B9
+Que uma hora ele fugirá de mim
+
+E                      C#m
+ Preciso ser preservador de bons costumes
+       B9      A9
+Evitar as más conversações
+    E/G#              F#m
+Me policiar quando os meus impulsos
+       B9
+Ultrapassam o limite da emoção
+
+[Pré-Refrão]
+
+F#m
+ Preciso guardar meu corpo
+  B9
+Lembrar que ele é o templo santo do pai
+F#m        E/G#
+ Preciso ter atitude
+  A9              B9
+Largar o meu assento e caminhar com Deus
+
+[Refrão]
+
+E                   C#m
+ Hoje é tempo de fortalecer a fé
+          B9        A9
+Colidir com o mundo e ficar de pé
+        E/G#        F#m
+Mais que conhecer, preciso viver
+        B9
+A verdade revelada
+E                  C#m
+ Hoje é tempo de renunciar meu eu
+                B9       A9
+Lembrar que numa cruz alguém por mim morreu
+        E/G#       F#m
+Hoje é minha vez, agora sou eu
+         B9
+Vou morrer pro mundo
+      A9
+E viver pra Deus
+
+[Solo] B  F#m  A
+
+[Refrão]
+
+E                   C#m
+ Hoje é tempo de fortalecer a fé
+          B9        A9
+Colidir com o mundo e ficar de pé
+        E/G#        F#m
+Mais que conhecer, preciso viver
+        B9
+A verdade revelada
+E                  C#m
+ Hoje é tempo de renunciar meu eu
+                B9       A9
+Lembrar que numa cruz alguém por mim morreu
+        E/G#       F#m
+Hoje é minha vez, agora sou eu
+         B9
+Vou morrer pro mundo
+      A9
+E viver pra Deus
+
+E                   C#m
+ Hoje é tempo de fortalecer a fé
+          B9        A9
+Colidir com o mundo e ficar de pé
+        E/G#        F#m
+Mais que conhecer, preciso viver
+        B9
+A verdade revelada
+E                  C#m
+ Hoje é tempo de renunciar meu eu
+                B9       A9
+Lembrar que numa cruz alguém por mim morreu
+        E/G#       F#m
+Hoje é minha vez, agora sou eu
+         B9
+Vou morrer pro mundo
+      A9
+E viver pra Deus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+D5 = X 5 7 7 X X
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E5 = 0 2 2 X X X
+F#m = 2 4 4 2 2 2

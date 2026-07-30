@@ -1,0 +1,93 @@
+@titulo: um-sonho-a-dois
+@autor:
+@intérprete: KLB
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+KLB - Um Sonho à Dois
+
+Intro:    C7M   /   F7M   /   C7M   /   F7M
+
+C7M
+  Ele sabe o jeito de agradar
+Dm7
+  Um sorriso brincando no olhar
+Em7
+  Me fascina com seu jeito de ser
+          F7M                  Gsus          C7M
+  Ele é tudo enfim que eu preciso ter...
+
+  Ela passa e o tempo faz parar
+Dm7
+  Quando fala é música no ar
+Em7
+  Me conquista querendo não querer
+           F7M                 Gsus        C7M
+  Ela é tudo enfim que eu preciso ter...
+
+ F7M                                   G
+    Quando bater na porta deixa entrar
+ F7M                                   G
+    Pra te ganhar de norte a sul
+ F7M                                   G    Am7
+    No mundo da lua tudo vai ficar
+          D7                        Gsus
+ Descobrir que o amor é azul
+  Dm7                                G
+ Quando a gente gosta o amor é um caso sério
+            Em                               Am7
+ Que tem lá os seus mistérios pra mostrar
+   Dm7             G 
+ Mas você dividi na metade um desejo 
+       Em    A7   G/B   C#º
+ no olhar
+    Dm7                                       G
+ Quando a gente gosta vale a pena qualquer coisa
+        Em                                Am7
+ Vale tudo num cantinho pra ficar
+          F7M                        Gsus
+ Um sorriso pra te convencer
+                  C7M
+ Na luz do luar...
+
+( C7M  /  Dm7  /  Em7 )
+( Sha na na na      Sha na na na na )  3 X
+               F7M              Gsus       C7M
+       Ele é tudo que faz bem ao coração...
+
+  Ela sabe que brinca com os meus sonhos
+ Dm7 
+  Todo tempo nos versos que componho...
+ Em7
+  Ele sabe que estou em suas mãos
+         F7M              Gsus         C7M
+  Ele é tudo que faz bem ao coração...
+
+(refrão).....
+
+          F7M                 Gsus
+Ela é tudo enfim que eu preciso ter...
+
+(FINAL)...
+
+( C7M  /  F7M ) 2X
+ (  Sha na na na    Sha na na na....)
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+C#º = X 4 5 3 5 3
+C7M = X 3 2 0 0 X
+D7 = X X 0 2 1 2
+Dm7 = X 5 7 5 6 5
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F7M = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+Gsus = 3 2 0 0 0 3

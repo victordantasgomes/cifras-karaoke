@@ -1,0 +1,58 @@
+@titulo: a-melodia-que-vem-do-ceu
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - A Melodia Que Vem do Céu
+
+INTRODUÇÃO -> [ C E7 Am Abm7/9- Gm7 F#7/9- : F7+ Em Dm : Em7 F7+ F/G ]
+
+       C7+        E7       Am7       Abm7/9- Gm  F#7/9-
+TE OFERECEMOS SENHOR SACRIFÍCIOS DE LOU_____VOR
+        F7+      E7            Am           D/F#  F/G
+QUE É FRUTO DOS LÁBIOS QUE CONFESSAM TEU NOME
+      C7+             E7          Am7       E7  F#7/9-
+TUA GRAÇA ESTÁ ENTRE NÓS,  UMA ALIANÇA DE AMOR
+     F7+        E7       Am
+NOS FAZ CANTAR,     NOS FAZ CANTAR
+
+     F7+                 E7          F7+              E7
+A MELODIA QUE VEM DO SENHOR, MOVE A TERRA, O CÉU E O MAR
+ G#7+          A#7+        F/G
+COM  OS ANJOS VAMOS TE LOUVAR
+         F7+         E7         F7+       E7
+EM HARMONIA TE OFERECEMOS O MELHOR DO LOUVOR
+      G#7+          A#7+              F/G
+TODA LÍNGUA QUE CONFESSA TEU NOME TE LOUVARÁ
+
+      Gm7      F7+  E7               Am7
+[ ALELUIA, ALELUIA,    SANTO É O SENHOR  ]4x
+
+
+Gm  F7+  E7  Am
+ALELUIA  ALELUIA
+
+----------------- Acordes -----------------
+A#7+ = X 1 3 2 3 1
+Abm7/9- = 4 2 4 2 4 2
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#7/9- = X X 4 3 5 3
+F/G = 3 X 3 2 1 X
+F7+ = 1 X 2 2 1 X
+G#7+ = 4 X 5 5 4 X
+Gm = 3 5 5 3 3 3
+Gm7 = 3 X 3 3 3 X

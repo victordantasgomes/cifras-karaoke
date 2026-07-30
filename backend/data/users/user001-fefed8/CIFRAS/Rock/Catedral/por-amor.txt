@@ -1,0 +1,83 @@
+@titulo: por-amor
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Por Amor
+
+Intro.: D9 Bm7(9) Bm7 G7M A4 G/A
+
+          D9                 A/D D9
+Faz tanto tempo mas não esqueci
+        Bm7(9)               Bm7
+O Teu carinho tão grande por mim
+              G7M
+Eu sei que um dia eu quis Te esquecer
+         A4
+Outros caminhos eu quis percorrer
+          D9
+E a gente pensa que vai ser feliz
+         Bm7(9)           Bm7
+Que para tudo  há uma solução
+        G7M
+Mas solução não existe sem Ti
+          A4
+Preenche agora o meu coração
+
+D9       Bm7        G7M      A4          Bm7
+ Por amor   Teu amor   modificou o meu viver
+
+         F#m7         G     A4
+O meu ser    Teu poder iluminou o meu olhar
+D9        Bm7          G7M        A4
+ Céu e mar   Teu querer   é tanto bem querer
+    Bm7                       G          D
+Pra mim eu sei que não mereço mas tu és amor
+ G               Bm7        G          D
+Amor, eu sei que não mereço mas Tu és amor
+ G  G/A
+Amor
+    A na 2ª vez
+
+    D                        G7M
+Faz tanto tempo mas não esqueci...
+
+Sobe 1 tom
+
+
+E        C#m7        A9      B5         C#m7
+ Por amor    Teu amor  modificou o meu viver
+         G#m7         A9     B5
+O meu ser    Teu poder  iluminou o meu olhar
+E         C#m7          A9        B5
+ Céu e mar    Teu querer  é tanto bem querer
+    C#m7                      A9         E
+Pra mim eu sei que não mereço mas Tu és amor
+ A9             C#m7       A9         E
+Amor eu sei que não mereço mas Tu és amor
+ A9  B5  E C#m7 A9 B5 C#m7 G#m7 A9 B5 E
+Amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/D = X X 0 6 5 5
+A4 = X 0 2 2 3 0
+A9 = X 0 2 2 0 0
+B5 = X 2 4 4 X X
+Bm7 = X 2 4 2 3 2
+Bm7(9) = X 2 0 2 2 X
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G#m7 = 4 X 4 4 4 X
+G/A = 5 X 5 4 3 X
+G7M = 3 X 4 4 3 X

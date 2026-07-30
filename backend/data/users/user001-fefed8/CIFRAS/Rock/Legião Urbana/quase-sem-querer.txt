@@ -1,0 +1,143 @@
+@titulo: quase-sem-querer
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Quase Sem Querer
+
+[Intro] G5  G5(9)
+        G5  G5(9)
+        G5  G5(9)
+        G5  G5(9)
+        G  C  D9(11)
+        G  C  D9(11)
+
+   G5 G5(9)              G5
+E|-3--3----3--3--3--3----3--3--3--3------|
+B|-3--3----3--3--3--3----3--3--3--3------|
+G|----0h2--2--2--2--2p0------------------| (4x)
+D|---------------------------------------|
+A|---------------------------------------|
+E|-3-3-----3--3--3--3----3--3--3--3------|
+
+[Primeira Parte]
+
+G          Am7  C    D9(11)
+  Tenho andado distraído
+G       Am7    C    D9(11)
+  Impaciente e indeciso
+
+   G              Am7
+E ainda estou confuso
+         C          D9(11)
+Só que agora é diferente
+G                Am7
+ Estou tão tranquilo
+   C      D9(11)
+E tão contente
+
+[Segunda Parte]
+
+C           D9(11)
+  Quantas chances
+    C    G
+Desperdicei
+                 Em      Bm7(11)  Am7
+Quando o que eu mais queria
+
+Era provar pra todo o mundo
+    D9(11)
+Que eu não precisava
+
+Provar nada p'ra ninguém
+
+    G            Am7
+Me fiz em mil pedaços
+  C          D9(11)
+Pra você juntar
+      G            Am7
+E queria sempre achar
+        C                  D9(11)
+Explicação p'ro que eu sentia
+        G      Am7
+Como um anjo caído
+         C           D9(11)
+Fiz questão de esquecer
+        G           Am7
+Que mentir para si mesmo
+         C          D9(11)    C
+É sempre a pior mentira
+ D9(11)   C       G
+Mas      não sou mais
+ Em    Bm7(11)  Am7             D9(11)
+Tão criança         a ponto de saber tudo
+
+[Refrão]
+
+    F
+Já não me preocupo
+           G
+Se eu não sei porquê
+    F                         G
+Às vezes o que eu vejo, quase ninguém vê
+      F
+E eu sei que você sabe
+       G
+Quase sem querer
+ F                         G
+Que eu vejo o mesmo que você
+
+        Am7   C          D9(11)
+Tão correto e   tão bonito
+       G          Am7
+O infinito é realmente
+        C           D9(11)
+Um dos deuses mais lindos
+ G               Am7
+Sei que às vezes uso
+   C          D9(11)
+Palavras repetidas
+      G             Am7
+Mas quais são as palavras
+     C         D9(11)  C
+Que nunca são ditas?
+       D9(11) C    G
+Me disseram que você
+   Em      Bm7(11)  Am7
+Estava chorando
+                      D9(11)
+E foi então que percebi
+
+Como te quero tanto
+
+[Refrão]
+
+    F
+Já não me preocupo
+           G
+Se eu não sei porquê
+    F                         G
+Às vezes o que eu vejo, quase ninguém vê
+      F
+E eu sei que você sabe
+       G
+Quase sem querer
+ F                         G
+Que eu quero o mesmo que você
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bm7(11) = 7 X 7 7 5 X
+C = X 3 2 0 1 0
+D9(11) = X 5 4 0 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 3 3
+G5 = 3 X 0 0 3 3
+G5(9) = 3 X 0 2 3 3

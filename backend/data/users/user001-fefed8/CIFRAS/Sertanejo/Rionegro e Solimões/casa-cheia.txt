@@ -1,0 +1,73 @@
+@titulo: casa-cheia
+@autor:
+@intérprete: Rionegro e Solimões
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rionegro e Solimões - Casa cheia
+
+Intro: G
+G
+Hoje a casa tá cheia            (Refrão 4 vezes)
+                D7
+Hoje eu não vou mal
+Tem mulher pra todo lado
+                  G
+Nunca vi coisa igual            (fim do refrão)
+D7           G                 C
+Tem mulher mineira e sul-mato-grossense
+             D7                   G
+Tem mulher goiana, gaúcha e catarinense.
+           G7                C
+Tem do Paraná, paulista e carioca.              (inicio1)
+                    G
+Mulher do Espírito Santo
+      D                   G
+Do jeito que a gente gosta
+(fim1) repete 2 vezes
+
+Repete refrão
+
+Solo:    C  D7  G  D7
+
+        G   C   D7  G
+
+            G7  C  D7
+
+              G                        C
+Tem mulher baiana, do Sergipe e de Alagoas.
+            D7                     G
+Tem pernambucana e paraibana muito boa
+                         G7      C
+Rio Grande do Norte, Piauí e Ceará.             (inicio2)
+                   G          D7            G
+Só mandou mulher bonita pra nossa festa animar  (fim2) repete 2 vezes
+
+Repete: refrão
+
+Repete: solo
+
+                G                        C
+Mulher do Pará, Tocantins e Maranhão.
+                   D7                     G
+Mulher do Amapá, de Roraima é só avião.
+                               G7               C
+Mulher do Amazonas, do Acre e do Mato Grosso.     (inicio3)
+                        G
+De Rondônia e de Brasília
+          D7           G
+Coisa linda que dá gosto                                   (fim3) repete 2 vezes
+
+Repete: refrão
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

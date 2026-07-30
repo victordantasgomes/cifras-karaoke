@@ -1,0 +1,69 @@
+@titulo: leva-me-alem
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Leva-me Além
+
+[Intro]  D  A/C#  G  D4  D  A/C#  G  G/B  A/C#
+
+          D    A/C#
+Render a ti, Adoração
+   Bm      Bm7/A      G  D/F#
+E derramar,      meu ser
+Em7          A   G   Em     A    G/B  A/C#
+É o que meu coração deseja toda manhã
+     D            A/C#
+Te imaginar, é me inspirar
+     G       D/F#
+Pra te dizer
+   G    A/G       F#m7     Bm   Bm7/A
+Estou apaixonado cada vez mais por ti
+          Em7      D/F#
+Senhor Tu és incomparavel
+     G      Em     A7(4)  G  A7
+Teu Nome é maravilhoso!
+ G/B  A/C#   D  A/D  G/D  A/D  D/F#     G   G9  D/F#
+Leva-me    alem,              Leva-me alem
+      Em7         D/F#
+A um nivel mais profundo
+      G        Em        A7(4)  G  A
+De intimidade contigo ó Senhor
+ G/B  A/C#  D  A/D  G/D  A/D  D/F#     G  G9  D/F#
+Leva-me   alem               Leva-me alem
+             Em7       D/F#
+Que a minha vida flua mais da tua
+G      A7            D
+Unção mais do teu poder
+ G9          D9
+Mais do Teu poder
+
+ G       A   D
+Mais do Teu poder
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/D = X X 0 6 5 5
+A/G = 3 X 2 2 2 X
+A7 = X 0 2 0 2 0
+A7(4) = X 0 2 0 3 0
+Bm = X 2 4 4 3 2
+Bm7/A = 5 2 4 2 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G9 = 3 X 0 2 0 X

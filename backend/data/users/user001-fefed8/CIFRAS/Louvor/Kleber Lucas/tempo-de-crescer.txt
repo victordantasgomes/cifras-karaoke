@@ -1,0 +1,75 @@
+@titulo: tempo-de-crescer
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Tempo de Crescer
+
+ G9                Cm6
+Eu vou te amar pra sempre meu Senhor
+ G9                     Bm9+
+E vou andar contigo seja aonde for
+ C9    G/B    D   Bm7
+No mais alto monte estarei
+ Em           Em7
+No vale mais profundo irei
+ A7/4 A    D7/4    D9 D
+Onde for te seguirei
+
+ G9                F7/6   F7/6-
+E neste andar contigo eu ouço o sim
+ G9                     Bm9+
+Mas é verdade que às vezes eu ouço não
+ C9      G/B     D    Bm7
+Mas se você me diz sim ou não
+ Em             Em7
+Eu não desisto, eu não abro mão
+ A7/4   A    D7/4   D
+Nada vai me separar de Ti
+
+
+(refrão)
+ G9     D/F#       Em
+É despojar tudo o que sou
+ E      E7         Am7
+É ser bem muito mais que ter
+ G/B        C
+Se a gente entrega o coração
+ D
+Agente entrega pra valer
+ G9      D/F#    Em
+É ter a vida no altar
+ E    E7      Am7
+E ver a chama acender
+ G/B          C
+E a cada dia mais e mais
+ D             G9
+Saber que é tempo de crescer
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7/4 = X 0 2 0 3 0
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+Bm9+ = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Cm6 = X 3 X 2 4 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7/4 = X X 0 2 1 3
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F7/6 = 1 X 1 2 3 X
+F7/6- = 1 X 1 2 2 1
+G/B = X 2 0 0 3 3
+G9 = 3 X 0 2 0 X

@@ -1,0 +1,181 @@
+@titulo: cidade-acordada
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Cidade Acordada
+
+[Intro] E B9 C#m A9
+
+E|--4--4/7-7--5-5--4--5-5/7-7--------------|
+B|--5--5/9-9--7-7--5--7-7/9-9--------------|
+G|--4--------------------------------------|
+D|-----------------------------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+
+E|--4-4-4/10-10-10-10--12-12--7------------|
+B|--5-5-5/9--9--9--9---14-14--9------------|
+G|-----------------------------------------|
+D|-----------------------------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+E|--2p4-2-----------5-7-7/9------7-4-------|
+B|---------5p7-5--4/5--------4/5-----------|
+G|-----------------------------------------|
+D|-----------------------------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+
+E          B9             C#m
+É, tá tão gata que chega doer
+    A9                E
+Qualidades definem você
+        B9                C#m
+Linda, perfeita, meiga demais
+     A9                    E
+Seu sorriso me trás tanta paz
+    B9                  C#m
+É, o amor me pediu pra te amar
+          A9              E
+Não adianta querer discordar
+     B9                 C#m
+Só deixei a paixão me querer
+         A9                 F#m
+Me envolvi e fui parar pra ver
+
+                    C#m
+Descobri tô amando você
+                       A9
+Sinceramente acho tão bom
+                            B9
+Quando ligo e pergunta se quero
+                            F#m
+ir pro barzinho encher o caneco
+                        C#m
+Fala hora que eu passo agora
+                                A9
+Fica até tarde lembrando da história
+                         B9
+Depois disso já sabe o final
+      A9            E  B9
+Todo dia termina igual
+
+E                   C#m             B9
+O calor, o carro parado no meio da rua
+                           F#m
+O vidro embaça e daí continua
+              E/G#
+Se amando, virando
+               A9
+Em plena madrugada
+        B9                E
+Nem querendo terminar em casa
+
+E                C#m      B9
+Olha a cena que tá acontecendo
+
+Sei que é loucura
+             F#m
+O amor tá valendo
+            E/G#                A9
+A noite passou, não pensamos em nada
+             B9                 E
+A gente dormiu e a cidade acordada
+
+[E B9 C#m A9]
+
+E|--4--4/7-7--5-5--4--5-5/7-7--------------|
+B|--5--5/9-9--7-7--5--7-7/9-9--------------|
+G|--4--------------------------------------|
+D|-----------------------------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+
+E|--4-4-4/10-10-10-10--12-12--4------------|
+B|--5-5-5/9--9--9--9---14-14--5------------|
+G|-----------------------------------------|
+D|-----------------------------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+E|--2p4-2---------5-7-7/9----7-------------|
+B|--0------5p7-5--5--------5---------------|
+G|---------6-------------------------------|
+D|-----------------------------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+E          B9             C#m
+É, tá tão gata que chega doer
+    A9                E
+Qualidades definem você
+        B9                C#m
+Linda, perfeita, meiga demais
+     A9                    E
+Seu sorriso me trás tanta paz
+    B9                  C#m
+É, o amor me pediu pra te amar
+          A9              E
+Não adianta querer discordar
+     B9                 C#m
+Só deixei a paixão me querer
+         A9                 F#m
+Me envolvi e fui parar pra ver
+
+                    C#m
+Descobri tô amando você
+                       A9
+Sinceramente acho tão bom
+                            B9
+Quando ligo e pergunta se quero
+                            F#m
+ir pro barzinho encher o caneco
+                        C#m
+Fala hora que eu passo agora
+                                A9
+Fica até tarde lembrando da história
+                         B9
+Depois disso já sabe o final
+      A9            E  B9
+Todo dia termina igual
+
+E                   C#m             B9
+O calor, o carro parado no meio da rua
+                           F#m
+O vidro embaça e daí continua
+              E/G#
+Se amando, virando
+               A9
+Em plena madrugada
+        B9                E
+Nem querendo terminar em casa
+
+E                C#m      B9
+Olha a cena que tá acontecendo
+
+Sei que é loucura
+             F#m
+O amor tá valendo
+            E/G#                A9
+A noite passou, não pensamos em nada
+             B9                 E
+A gente dormiu e a cidade acordada
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

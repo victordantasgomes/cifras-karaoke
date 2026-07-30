@@ -1,0 +1,193 @@
+@titulo: ce-que-sabe
+@autor:
+@intérprete: Cristiano Araújo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Cristiano Araújo - Cê Que Sabe
+
+Capo Casa 3
+
+Introdução:
+1
+
+E|------------------------------------------|
+B|-0------0h1---0---------------------------|
+G|---0----0h2---0---------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+
+2
+       G
+E|------------------------------------------|
+B|------------------------------------------|
+G|------0h2--0-----x-x-------0h2--0-----x-x-|
+D|---0--0----0--x--x-x----0--0----0--x--x-x-|
+A|--------------x--x-x---------------x--x-x-|
+E|-3------------x-------3------------x------|
+
+
+
+Primeira Parte:
+1
+       G
+E|------------------------------------------|
+B|------------------------------------------|
+G|------0h2--0------0h2--0------------------|
+D|---0--0----0------0----0------------------|
+A|------------------------------------------|
+E|-3-------------3--------------------------|
+
+
+2
+       D/F#
+E|------------------------------------------|
+B|------------------------------------------|
+G|------0h2--0------0h2--0------------------|
+D|---0--0----0------0----0------------------|
+A|------------------------------------------|
+E|-2-------------2--------------------------|
+
+
+3
+       C
+E|------------------------------------------|
+B|------------------------------------------|
+G|------0h2--0------------------------------|
+D|---0-------0------------------------------|
+A|-3----------------------------------------|
+E|------------------------------------------|
+
+
+4
+       D#5         F
+E|------------------------------------------|
+B|------------------------------------------|
+G|---0--3p2----2---0h2--0-------------------|
+D|-1-----------3----------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+
+G                            D/F#
+  O que temos pra hoje é saudade
+C
+  Mas qual de nós vai procurar
+D#5                  F
+  Um pretexto, um motivo pra voltar
+
+G                               D/F#
+  Foi ontem mas eu já sinto vontade
+C
+  Das bocas juntas e o calor
+D#5              F
+  Do nosso lugarzinho de amor
+
+
+Segunda Parte:
+G
+  Já é tarde, tá frio
+D
+  É noite, eu sozinho
+C9
+  Minhas mãos tão comichando pra ligar
+D5
+  Final 1504 pra falar
+
+
+Refrão:
+G      D             Am
+  Ôuô,Cê que sabe, amor
+                                C
+Se a gente fica junto ou dá um tempo
+                     D
+Mesmo assim eu te espero, te espero
+
+G      D             Am
+  Ôuô,Cê que sabe, amor
+                                C
+Nossa relação tem tudo pra dar certo
+                    D
+Nós já estamos tão perto, tão perto
+ G      D  Am  C  D
+Coração
+
+
+Repete a Segunda Parte:
+G
+  Já é tarde, tá frio
+D
+  É noite, eu sozinho
+C9
+  Minhas mãos tão comichando pra ligar
+D5
+  Final 1504 pra falar
+
+
+Refrão Final:
+                    G
+E|------------------------------------------|
+B|-0------0h1---0---------------------------|
+G|---0----0h2---0---------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|--------------3---------------------------|
+
+
+G      D             Am
+  Ôuô,Cê que sabe, amor
+                                C
+Se a gente fica junto ou dá um tempo
+                     D
+Mesmo assim eu te espero, te espero
+
+G      D             Am
+  Ôuô,Cê que sabe, amor
+                                C
+Nossa relação tem tudo pra dar certo
+                    D
+Nós já estamos tão perto, tão perto
+
+G      D             Am
+  Ôuô,Cê que sabe, amor
+                                C
+Se a gente fica junto ou dá um tempo
+      D
+Te espero
+
+G      D             Am
+  Ôuô,Cê que sabe, amor
+                                C
+Nossa relação tem tudo pra dar certo
+                    D
+Nós já estamos tão perto, tão perto
+ G      D/F#
+Coração
+
+C                                 D#
+  Nossa relação tem tudo pra dar certo
+                    F
+Nós já estamos tão perto, tão perto
+
+G
+  O que temos pra hoje é saudade
+
+----------------- Acordes -----------------
+Capotraste na 3ª casa
+Am*  = X 0 2 2 1 0 - (*Cm na forma de Am)
+C*  = X 3 2 0 1 0 - (*D# na forma de C)
+C9*  = X 3 5 5 3 3 - (*D#9 na forma de C9)
+D*  = X X 0 2 3 2 - (*F na forma de D)
+D#*  = X 6 5 3 4 3 - (*F# na forma de D#)
+D#5*  = X 6 8 8 X X - (*F#5 na forma de D#5)
+D/F#*  = 2 X 0 2 3 2 - (*F/A na forma de D/F#)
+D5*  = X 5 7 7 X X - (*F5 na forma de D5)
+F*  = 1 3 3 2 1 1 - (*G# na forma de F)
+G*  = 3 2 0 0 0 3 - (*A# na forma de G)

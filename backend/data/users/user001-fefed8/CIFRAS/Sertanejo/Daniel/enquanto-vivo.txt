@@ -1,0 +1,123 @@
+@titulo: enquanto-vivo
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Enquanto Vivo
+
+Intro: D  A/C#  Bm  F#m  G  D  G/D  D7M(9)  G  D  G/D  D7M(9)
+
+1ª parte:
+      D
+Por amor eu vou errar
+
+O quanto for preciso
+    D7M(9)
+Nada pode me parar
+
+Barrar o que eu sinto
+    G/D
+Se amar, vou me arriscar
+
+Eu vou amar eu me proponho
+   D                     A
+A me arriscar, enquanto vivo
+
+
+2ª parte:
+    G
+Eu me apaixono mesmo
+
+
+Um carinho já me deixa
+       D/F#
+Desse jeito assim perdido
+
+Eu me empolgo num alerta
+         A
+Corto o mundo com meu grito
+     G/A
+E assim eu vou amando
+    D          A
+Enquanto vivo...
+
+Refrão:
+     D
+Foi seu olhar que fez meu coração ficar assim
+ A
+Louco, dependente, um cara a ponto de explodir
+  G
+Cheio de desejo
+       G/A
+Minha vida no seu beijo
+    D       A
+Eu tô assim
+ D
+Feito bobo cego alucinado e sem juízo
+    A
+Alguém à flutuar pensando estar no paraíso
+     G
+E assim eu vou seguindo
+         G/A
+Me arriscando, e vou te amando
+    D
+Enquanto vivo...
+          A    G/A
+Enquanto vivo...
+    D
+Enquanto vivo...
+
+Passagem: D  G/D  D7M(9)  G  D  G/D  D7M(9)
+
+Repete 2ª parte
+
+Refrão 2X:
+     D
+Foi seu olhar que fez meu coração ficar assim
+ A
+Louco, dependente, um cara a ponto de explodir
+  G
+Cheio de desejo
+       G/A
+Minha vida no seu beijo
+    D       A
+Eu tô assim
+ D
+Feito bobo cego alucinado e sem juízo
+    A
+Alguém à flutuar pensando estar no paraíso
+     G
+E assim eu vou seguindo
+         G/A
+Me arriscando, e vou te amando
+    D          A
+Enquanto vivo...
+
+
+Para terminar:
+D          A    G/A
+ Enquanto vivo...
+    D
+Enquanto vivo...
+          A    G/A
+Enquanto vivo...
+    D       G/D  D7M(9)  G  D
+Enquanto vivo...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7M(9) = X 5 4 6 5 X
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/D = X 5 5 4 3 X

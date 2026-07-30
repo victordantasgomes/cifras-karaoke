@@ -1,0 +1,89 @@
+@titulo: instinto-selvagem
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Instinto Selvagem
+
+(Pit Passarell / Yves Passarell)
+
+INTRO - F#m (F#m E A) 4x
+
+F#m                    E
+Quando os dias são só datas nos jornais
+F#m          E
+E horas e minutos são iguais
+F#m                  E
+E seus amigos não te dizem nada demais
+F#m
+Quando tudo vira um enorme tanto faz
+
+
+A           F#m
+É preciso coragem
+           E                  D
+Pra recuperar seu instinto selvagem
+Bm              E                 A
+E não importa quantos vão se machucar
+      E/G#   F#m
+Não importa quantos vão te escutar
+
+Bm             E                  A
+E não importa quantos vão se machucar
+      E/G#   F#m                  E
+Não importa quantos vão te escutar
+
+INTRO
+
+F#m                   E
+Pode esperar que vai chegar a sua vez
+F#m                   E
+Nada no mundo vale o que você me fez
+F#m                   E
+Eu não preciso gritar só pra você me ver
+F#m
+Eu não quero mudar só pra te merecer
+
+A           F#m
+É preciso coragem
+           E                  D
+Pra recuperar seu instinto selvagem
+Bm              E                 A
+E não importa quantos vão se machucar
+      E/G#   F#m
+Não importa quantos vão te escutar
+Bm             E                  A
+E não importa quantos vão se machucar
+      E/G#   F#m                E
+Não importa quantos vão te escutar
+
+SOLO
+
+A           F#m
+É preciso coragem
+           E                  D
+Pra recuperar seu instinto selvagem
+Bm              E                 A
+E não importa quantos vão se machucar
+      E/G#   F#m
+Não importa quantos vão te escutar
+Bm             E                  A
+E não importa quantos vão se machucar
+      E/G#   F#m                E
+Não importa quantos vão te escutar
+
+INTRO  F#m
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

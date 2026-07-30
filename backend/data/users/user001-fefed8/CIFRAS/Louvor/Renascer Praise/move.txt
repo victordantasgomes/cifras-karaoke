@@ -1,0 +1,52 @@
+@titulo: move
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Move
+
+D           G/A        D
+MOVE  TEU ESPÍRITO SENHOR
+D     A/C# Bm7       C    G/A
+MOVE -TE ESPÍRITO DE DEUS
+      D     C/D
+COMO BRISA
+     G      D/F#
+COMO BÁLSAMO
+        Em7
+COM TEU FOGO,
+        G/A         D  G/A
+MARCA O NOSSO INTERIOR
+
+
+  D              D/C
+ESPÍRITO!SANTO ESPÍRITO!
+    G          D/F#
+CAPACITA-NOS À OBRA
+    Em7        G/A
+UMA OBRA DE PODER
+  D              D/C
+ESPÍRITO,SANTO ESPÍRITO
+
+    G       D/F#
+ÉS TODO DESEJÁVEL
+        Em7          G/A
+TUA PRESENÇA TRAZ PRAZER!
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X

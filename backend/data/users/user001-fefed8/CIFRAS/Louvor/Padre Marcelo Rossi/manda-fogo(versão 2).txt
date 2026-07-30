@@ -1,0 +1,67 @@
+@titulo: manda-fogo(versão 2)
+@autor:
+@intérprete: Padre Marcelo Rossi
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Padre Marcelo Rossi - Manda Fogo
+
+INTRO: G ( C C9  D9 D4  C9 ) (2x)
+       D9  D4  D
+
+          G           C     C9     D9  D4  D      G         C    C9
+Quem se prosta na presença de meu Deus,      beberá da sua fonte e
+      D9      D4       D            G           C    C9      D9  D4  D
+Transbordará do Espírito, quem se prosta na presença de meu Deus
+       G           C  C9    D9  D4  D  D4 D
+Se consumirá no Espírito Santo
+       G            C C9       D9    D4     D          G            C C9
+Manda fogo, meu Senhor, manda fogo, meu Senhor, manda fogo, meu Senhor
+       D9    D4     D
+Manda fogo, meu Senhor
+         Am  C C9       D9 D4 D          Am  C C9       D9 D4 D
+Fogo do céu,   fogo do céu,     fogo do céu,   fogo do céu
+       G            C    C9          D9    D4     D             G
+Manda bênçãos, meu Senhor, manda bênçãos, meu Senhor, manda bênçãos, meu
+ C    C9       D9       D4     D
+Senhor, manda bênçãos, meu Senhor
+            Am  C C9            D9 D4 D            Am  C C9            D9
+Bençãos do céu,     bençãos do céu,    bençãos do céu,     bençãos do céu
+
+
+SOLO: G  C C9  D9 D4  C9   D9  D4  D
+
+          G           C     C9     D9  D4  D      G         C    C9
+Quem se prosta na presença de meu Deus,      beberá da sua fonte e
+      D9      D4       D            G           C    C9      D9  D4  D
+Transbordará do Espírito, quem se prosta na presença de meu Deus
+       G           C  C9    D9  D4  D  D4 D
+Se consumirá no Espírito Santo
+       G            C C9       D9    D4     D          G            C C9
+Manda fogo, meu Senhor, manda fogo, meu Senhor, manda fogo, meu Senhor
+       D9    D4     D
+Manda fogo, meu Senhor
+         Am  C C9       D9 D4 D          Am  C C9       D9 D4 D
+Fogo do céu,   fogo do céu,     fogo do céu,   fogo do céu
+       G            C    C9          D9    D4     D             G
+Manda bênçãos, meu Senhor, manda bênçãos, meu Senhor, manda bênçãos, meu
+ C    C9       D9       D4     D
+Senhor, manda bênçãos, meu Senhor
+            Am  C C9            D9 D4 D            Am  C C9            D9
+Bençãos do céu,     bençãos do céu,    bençãos do céu,     bençãos do céu
+       D4        D     G     C  D  G
+E me inunda com teu Espírito
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D9 = X X 0 2 3 0
+G = 3 2 0 0 0 3

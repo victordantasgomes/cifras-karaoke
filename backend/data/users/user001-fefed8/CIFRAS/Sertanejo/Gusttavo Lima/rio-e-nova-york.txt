@@ -1,0 +1,120 @@
+@titulo: rio-e-nova-york
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Rio e Nova York
+
+[Intro]  G  Am7  C  Am  G  C
+
+G            C                       G
+Eu sei que a minha estrela vai brilhar
+C           D7              G
+E vai fazer você voltar pra mim
+C            G                         Am7
+Lá fora a solidão vai esperar um de nós dois
+C                              D
+Mas não vou deixar você sair daqui
+
+G               D            G
+Do meu orgulho nada vai sobrar
+C             D7                G
+Vou me entregar de alma e coração
+C               G                    Am7
+Reacender a luz que ilumina o nosso amor
+C                              G
+Tirar nosso querer da escuridão
+
+C                   D
+Comprei flores pra ela
+
+G          Bm           Em
+Saudade ardendo em meu peito
+C                 D
+Iluminei tudo a vela
+Am    D           G  C
+Era um plano perfeito
+
+G                 Am7
+Telefonei, mas ela viajou
+D
+Ninguém sabe onde ela foi
+            G           D
+Nem quando vai voltar
+G
+Quem sabe foi pro Rio
+Am7
+Nova York, sei lá...
+          D
+Acender a estrela de outro alguém
+       G
+Noutro lugar
+
+[Solo]  Bb F GM7 Eb ( Bb/D Cm Bb/C D )
+
+C                   D
+Comprei flores pra ela
+G          Bm           Em
+Saudade ardendo em meu peito
+C                 D
+Iluminei tudo a vela
+Am    D           G  C
+Era um plano perfeito
+
+G                 Am7
+Telefonei, mas ela viajou
+D
+Ninguém sabe onde ela foi
+             G           C
+Nem quando vai voltar
+G
+Quem sabe foi pro Rio
+Am7
+Nova York, sei lá...
+ D
+Acender a estrela de outro alguém
+       G
+Noutro lugar
+
+Ab                 Bbm7
+Telefonei, mas ela viajou
+
+Eb
+Ninguém sabe onde ela foi
+Ab
+Nem quando vai voltar
+
+Quem sabe foi pro Rio
+Bbm7
+Nova York, sei lá...
+          Eb
+Acender a estrela de outro alguém
+       C#
+Noutro lugar
+       Ab
+Noutro lugar
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+Bb/C = X 3 X 3 3 1
+Bb/D = X 5 X 3 6 6
+Bbm7 = X 1 3 1 2 1
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Eb = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

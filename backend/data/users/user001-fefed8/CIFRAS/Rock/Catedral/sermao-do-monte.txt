@@ -1,0 +1,55 @@
+@titulo: sermao-do-monte
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Sermão do Monte
+
+
+
+INTRO: Dm C Bb A (4x)
+
+Dm        C             Bb   A   Dm
+Bem aventurados são os pobres
+         C         Bb       A
+Por que deles é o reino de Deus
+Dm        C             Bb   A   Dm
+Bem aventurados os que choram
+       C      Bb        A  Dm C Bb A
+Porque eles serão consolados
+
+Dm        C                Bb      A         Dm   C Bb
+Bem aventurados os que tem fome e sede de justiça
+        A           Dm    C Bb A
+Porque todos serão fartos
+Dm             C      Bb    A
+Felizes são os misericordiosos
+Dm          C         Bb  A  Dm C Bb A
+Pois alcançarão misericóooordia
+
+
+F                       C           F
+Bem aventurados os que lutam pela paz
+                C
+Serão chamados filhos de Deus
+F                       C
+Bem aventurados os que são perseguidos
+                Bb C Dm C Bb A
+Por causa da justiçaaaa
+       Dm         C        Bb  A
+Porque deles é o reino de Deus
+       Dm         C Bb  A      Dm
+Porque deles é o reeeeeino de Deus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1

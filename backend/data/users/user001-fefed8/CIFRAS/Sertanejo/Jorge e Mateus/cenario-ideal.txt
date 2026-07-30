@@ -1,0 +1,185 @@
+@titulo: cenario-ideal
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Cenário Ideal
+
+[Intro] Am  C  G
+        Am  C  G
+
+E|--5/7--5--3--5---------------3/5/3------------|
+B|--5----5--3--5--5--3----2----3/5/3------------|
+G|-------------------2h4--4---------------------|
+D|--------------------------5-------------------|
+A|----------------------------------------------|
+E|----------------------------------------------|
+
+                                             H.N.
+E|--5/7--5--3--5-----------3------5--3--5b------|
+B|--5----5--3--5--5---3/5----3/5-------------12-|
+G|-------------------------------------------12-|
+D|-------------------------------------------12-|
+A|----------------------------------------------|
+E|----------------------------------------------|
+
+[Primeira Parte]
+
+              G                           D
+Meu cenário ideal tem um céu cheio de estrelas
+
+                Am                          C   D
+Barulho de cachoeira  e o grilo é nosso cantor
+               G                     D
+Meu cenário ideal tem a lua sempre cheia
+                 Am                              C   D
+E um cafuné na orelha e o sonho vai se tornando real
+
+[Pré-Refrão]
+
+      G
+E a grama vira nosso tapete
+                  Em
+Balançar naquela rede embaixo do coqueiro
+   Am                    C
+Fazer o que fazermos melhor
+                         G    D
+Que é namorar o tempo inteiro
+
+      G
+E a grama vira nosso tapete
+                  Em
+Balançar naquela rede embaixo do coqueiro
+   Am                    C
+Fazer o que fazermos melhor
+                         G    D
+Que é namorar o tempo inteiro
+
+[Refrão]
+
+                  G
+Sem sinal de celular, sem ninguém pra atrapalhar
+                      Em
+Só nós dois de ser humano
+                    C
+Ai que vontade que dá de ficar aqui
+                    G   D
+Só o restinho desse ano
+
+                 G
+Sem sinal de celular, sem ninguém pra atrapalhar
+                      Em
+Só nós dois de ser humano
+                    C             D
+Ai que vontade que dá de ficar aqui
+                    G
+Só o restinho desse ano
+
+[Solo] Am  C  G
+       Am  C  G
+
+E|--5/7--5--3--5---------------3/5/3------------|
+B|--5----5--3--5--5--3----2----3/5/3------------|
+G|-------------------2h4--4---------------------|
+D|--------------------------5-------------------|
+A|----------------------------------------------|
+E|----------------------------------------------|
+
+                                             H.N.
+E|--5/7--5--3--5-----------3------5--3--5b------|
+B|--5----5--3--5--5---3/5----3/5-------------12-|
+G|-------------------------------------------12-|
+D|-------------------------------------------12-|
+A|----------------------------------------------|
+E|----------------------------------------------|
+
+[Primeira Parte]
+
+              G                           D
+Meu cenário ideal tem um céu cheio de estrelas
+                Am                          C   D
+Barulho de cachoeira  e o grilo é nosso cantor
+               G                     D
+Meu cenário ideal tem a lua sempre cheia
+                 Am                              C   D
+E um cafuné na orelha e o sonho vai se tornando real
+
+[Pré-Refrão]
+
+      G
+E a grama vira nosso tapete
+                  Em
+Balançar naquela rede embaixo do coqueiro
+   Am                    C
+Fazer o que fazermos melhor
+                         G    D
+Que é namorar o tempo inteiro
+
+      G
+E a grama vira nosso tapete
+                  Em
+Balançar naquela rede embaixo do coqueiro
+   Am                    C
+Fazer o que fazermos melhor
+                         G    D
+Que é namorar o tempo inteiro
+
+[Refrão]
+
+                  G
+Sem sinal de celular, sem ninguém pra atrapalhar
+                      Em
+Só nós dois de ser humano
+                    C
+Ai que vontade que dá de ficar aqui
+                    G   D
+Só o restinho desse ano
+
+                 G
+Sem sinal de celular, sem ninguém pra atrapalhar
+                      Em
+Só nós dois de ser humano
+                    C             D
+Ai que vontade que dá de ficar aqui
+                    G
+Só o restinho desse ano
+
+                  G
+Sem sinal de celular, sem ninguém pra atrapalhar
+                      Em
+Só nós dois de ser humano
+                    C
+Ai que vontade que dá de ficar aqui
+                    G   D
+Só o restinho desse ano
+
+                 G
+Sem sinal de celular, sem ninguém pra atrapalhar
+                      Em
+Só nós dois de ser humano
+                    C             D
+Ai que vontade que dá de ficar aqui
+                    G
+Só o restinho desse ano
+
+[Final] Am  C  G
+
+E|--5/7--5--3--5---------------3--5--3----------|
+B|--5----5--3--5--5--3----2----3--5--3----------|
+G|-------------------2h4--4---------------------|
+D|--------------------------5-------------------|
+A|----------------------------------------------|
+E|----------------------------------------------|
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

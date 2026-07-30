@@ -1,0 +1,69 @@
+@titulo: conquistou-meu-coracao
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Conquistou Meu Coração
+
+C                C/E     F              F/G
+Tu que estas entronizado entre os querubins
+C                C/E       F           G
+Cuja a gloria e majestade nunca terá fim
+   Am             Am7+
+Tu és o Senhor a quem eu amo,
+Am7               D/F#
+Filho de Deus a quem adoro
+  C/G     F/G
+Jesus, Jesus
+
+    C              C/E        F             F/G
+Venceste a morte e o inferno pra me dar guarida
+ C          C/E       F             G
+Pelas tuas pisaduras hoje eu tenho vida
+   Am             Am7+
+Tu es o Senhor a quem eu amo,
+Am7               D/F#
+Filho de Deus a quem adoro
+  C/G     G  E/G#
+Jesus, Jesus
+
+    Am       Am/G  F7+            F/G  G/B    C   G/B
+Teu nome eh sobre todo o nome na terra ceu e mar
+Am              Am/G         D/F#         G  E
+Todo joelho em tua presenca hah de se dobrar
+   Am Em    F F/G C
+Jesus,   Jesus
+   Dm     F/G        C  E
+Autor da minha salvacao
+   Am Em    F F/G C
+Jesus,   Jesus
+       Dm       G#m7(b5) Am  Em
+Conquistou meu   co  racao
+       Dm       G   C
+Conquistou meu coracao
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+Am7+ = X 0 2 1 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F/G = 3 X 3 2 1 X
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G#m7(b5) = 4 X 4 4 3 X
+G/B = X 2 0 0 3 3

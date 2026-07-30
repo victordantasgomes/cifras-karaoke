@@ -1,0 +1,65 @@
+@titulo: as-vezes
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Às Vezes
+
+Intro: Em G
+    Em
+Às vezes é melhor deixar o barco correr
+    G
+Às vezes é melhor não ter o que dizer
+    Em
+Às vezes é melhor não confiar em alguém
+    G
+Às vezes pode ser um risco a correr.
+
+ Am
+Sabe aquelas horas que são eternidades
+      Em
+Que trazem só distâncias e nunca a verdade.
+ Bm                   A          Am
+Sabe aquele medo que não pede licença
+     G
+Que te soca dormindo, sem tempo de ter reação.
+
+    Em
+Às vezes é melhor se esconder,
+
+     G
+Mas como então viver e aprender sem se machucar
+    Em
+Às vezes é melhor se esconder,
+     G
+Mas como então viver e aprender sem se machucar
+
+
+Solo
+
+    Em
+Às vezes eu não quero parar de acreditar,
+    G
+Às vezes dá uma vontade louca de parar
+    Em
+Às vezes em me sinto livre e quero ir pro mar
+    G
+Às vezes eu não quero nem mesmo sonhar
+
+Am
+Sabe aquelas horas...
+       Em
+Às vezes é melhor se esconder...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

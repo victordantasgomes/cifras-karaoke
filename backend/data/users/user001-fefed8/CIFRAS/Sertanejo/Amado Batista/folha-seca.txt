@@ -1,0 +1,74 @@
+@titulo: folha-seca
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Folha Seca
+
+[Intro] E  B7  E  A  E  B7  E  B7
+
+ E              B7                 E  E7
+Fazia um dia bonito quando ela chegou
+  A                 B7                   E  E7
+Trazia no rosto as marcas que o sol queimou
+ A                   B7   E                A
+Disse que estava cansada sem lugar para ficar
+ E                 B7            E          B7
+Tive pena do teu pranto e disse pode entrar
+
+ E               B7              E  E7
+Como se me conhecesse ela me contou
+ A                  B7
+Seu passado de aventuras
+             E  E7
+Onde ela passou
+  A                    B7
+E eu sem nem um preconceito
+      E           A  E                    B7
+Com amor lhe aceitei um mês e pouco mais tarde
+         E       E7
+Com ela me casei
+
+ A                               E
+Mas um dia sem motivos ela me falou
+ A                                  B7
+Vou me embora desta casa e do teu amor
+  A                              E
+Pra dizer mesmo a verdade eu nunca te amei
+ E                 B7          E         C
+Por teu pão e tua casa foi que eu fiquei
+
+F                   C                   F  F7
+Era uma tarde tão triste quando ela partiu
+ Bb9                 C                F  F7
+Na curva daquela estrada ela então sumiu
+Bb9               C        F                 Bb9
+Ela é como folha seca que vai onde o vento quer
+ F                   C          F        C
+Me enganei quando dizia tenho uma mulher
+
+ F              C                  F
+Fazia um dia bonito quando ela chegou
+  F                   C                   F
+E era uma tarde tão triste quando ela partiu
+
+ F              C                  F
+Fazia um dia bonito quando ela chegou
+  F                   C                   F
+E era uma tarde tão triste quando ela partiu
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+F7 = 1 3 1 2 1 1

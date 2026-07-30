@@ -1,0 +1,58 @@
+@titulo: som-de-adorador
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Som de Adorador
+
+Introdução:   Gm    |     Eb      |     Bb      |   F  :||
+
+Gm       Eb             Bb          F
+Um adorador faz com seu canto estremecer muralhas
+Gm       Eb         Bb       F
+Um adorador faz prisões caírem
+           Cm            Gm
+Glória de Deus,vem sobre a terra
+         Eb            Am7 Am   Dsus4 D7
+Ter para Tí sempre o som de um vencedor!
+
+Gm     Eb           Bb           F
+O incensário enche e a garganta aperta
+   Gm          Eb       Bb         F
+O coração estremece e da boca sai um canto
+   Cm               Gm             Eb Cm     Fsus4 F Bb/D
+Poderoso,que está no trono, e para sempre triunfou!
+
+                                     Eb         Bb/D      Cm7 Bb/D
+                       Te adorar pela manhã e ao anoitecer
+                       Eb        Bb/D        Cm7    F     Bb ( Gm )
+                       Na alegria e na dor um canto a Ti oferecer
+
+
+Final:
+             Gm    Eb     Bb   F
+             Gb      Ebm        B      B    Bb
+                                      (Te adorar)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+Bb/D = X 5 X 3 6 6
+Cm = X 3 5 5 4 3
+Cm7 = X 3 5 3 4 3
+D7 = X X 0 2 1 2
+Dsus4 = X X 0 2 3 3
+Eb = X 6 5 3 4 3
+Ebm = X X 1 3 4 2
+F = 1 3 3 2 1 1
+Fsus4 = 1 3 3 3 1 1
+Gb = 2 4 4 3 2 2
+Gm = 3 5 5 3 3 3

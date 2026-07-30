@@ -1,0 +1,92 @@
+@titulo: igual-a-voce-tambem
+@autor:
+@intérprete: Mr. Gyn
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Mr. Gyn - Igual a Você Também
+
+(intro 2x) G (dedilhado)
+           C* Em* (D6) D*
+
+G                     D
+  Sem saber pra onde ir
+G                               D
+  Sem respostas que me tirem daqui
+        C            Em                       D
+  Mil idéias que me trazem sempre ao mesmo lugar
+         C             Em                    D
+  Pra poder olhar pra mim vendo meu filme passar
+
+G                            D
+  Tanto tempo pra me reconhecer
+G                                 D
+  Minhas culpas eu escondia em você
+        C           Em                   D
+  E perdia tantas chances de poder aprender
+          C              Em                      D
+  Com alguém que estava perto e agora nem posso ver
+
+
+        C          Em
+  E me ver aqui assim
+               D
+  Sem poder dizer
+          C           Em
+  Tudo o que eu descobri
+                      D
+  Depois de tanto perder
+        C              Em
+  E pensar que o tempo todo
+                   D
+  Eu não ouvi ninguém
+       C            Em
+  E estou sozinho aqui
+                   D
+  Igual a você também
+
+(solo) C Em D C Em D
+
+G                           D
+  Tanto tempo pra me reconhecer
+G                                 D
+  Minhas culpas eu escondia em você
+       C           Em                    D
+  E perdia tantas chances de poder aprender
+          C              Em                      D
+  Com alguém que estava perto e agora nem posso ver
+
+        C          Em
+  E me ver aqui assim
+               D
+  Sem poder dizer
+          C           Em
+  Tudo o que eu descobri
+                      D
+  Depois de tanto perder
+        C               Em
+  E pensar que o tempo todo
+                  D
+  Eu não ouvi ninguém
+       C            Em
+  E estou sozinho aqui
+                   D
+  Igual a você também
+
+( C* Em (D6) D* ) (4x)
+
+(obs.:) C*= C na 8°casa
+        Em*= Em na 7°casa
+        D*= D na 5°casa
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D6 = X 5 4 2 0 X
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

@@ -1,0 +1,71 @@
+@titulo: no-mesmo-lugar
+@autor:
+@intérprete: LS Jack
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+LS Jack - No mesmo lugar
+
+Intro: B B4 B B4 E E (2x)
+
+B  B4 B  B4     E
+ Voltei aqui    só pra me lembrar
+ B  B4  B  B4  E
+ Ninguém sabe   porque eram raros os dias
+ B              B4     B        B4
+  Quero ouvir no rádio  ou ver na TV
+ E                                B B4
+  Quando eu me calo vc quer me ensinar como dançar
+C#m            A             E
+   Posso te ouvir dentro de mim
+                            C#m
+Com os olhos cheios vou sorrir
+          A                E
+Vem me falar que vamos chegar
+No rio, na correnteza
+
+   A                        E  E4  E
+Eu vou te levar, vou te levar
+   A                               D        B
+Eu vou te encontrar no mesmo lugar  Ohhhhhhh
+
+
+ B   B4 B B4    E
+ Voltei aqui     pra te procurar
+B  B4    B  B4  E
+Eu quis te ver   andando ao redor da casa
+B          B4        B          B4
+ Vou dizer bem alto: "Eu conto com você,
+E                                 B B4
+ Para todo o sempre vc vai me ensinar como dançar"
+C#m            A             E
+   Posso te ouvir dentro de mim
+                            C#m
+Com os olhos cheios vou sorrir
+  A                E
+Vem me falar que vamos chegar
+No rio, na correnteza
+
+   A                        E  E4  E
+Eu vou te levar, vou te levar
+   A                            E
+Eu vou te encontrar no mesmo lugar
+   A                        E  E4  E
+Eu vou te levar, vou te levar
+            A                              D        B
+Eu sei que vou te encontrar no mesmo lugar  Ohhhhhhh
+A E A E A E
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0

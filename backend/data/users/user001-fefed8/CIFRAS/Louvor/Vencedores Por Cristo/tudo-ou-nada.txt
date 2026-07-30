@@ -1,0 +1,128 @@
+@titulo: tudo-ou-nada
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Tudo Ou Nada
+
+Intro: D A/D Bm/D F/D C/D G/D C/D G/D D (2x)
+
+D       A/D
+Tudo ou nada,
+Bm/D    F/D
+Pega ou larga de vez.
+C/D     G/D
+Tudo ou nada,
+C/D     G/D      D
+Pega ou larga de vez.
+D       A/D
+Tudo ou nada,
+Bm/D       F9/C
+Pega ou larga de vez.
+C/A     G/A
+Tudo ou nada,
+C/A     G/A      D
+Pega ou larga de vez.
+
+(Intro)(2x)
+
+D             A/D
+Quem lançar a mão no arado
+    D4    G/D      G
+Não pode olhar pra trás.
+D/A           Am7/11
+O trabalho é pesado
+    G9/B     G7 /9
+E será ainda mais.
+D            A/D
+Quando for demais o fardo,
+      D4      G/D  F/A
+Há em quem descan--sar.
+D/F#           G9
+Cristo, sempre pronto e perto,
+Bb   Am7 D
+Vai aju--dar.
+
+  Bm7  Bm6           Bm6-  D/C  D4
+A quem   realmente assumir,
+  Em7/11         D/F#
+Diante Dele e de todos,
+            G/D  A/D       D/F#  D/G  D/A
+Compromisso de seguir Seus pas---sos
+  D/B    D/F# D/G
+Fielmente até o fim.
+A4
+Até o fim
+
+D       A/D
+Tudo ou nada,
+Bm/D    F/D
+Pega ou larga de vez.
+C/D     G/D
+Tudo ou nada,
+C/D     G/D      D
+Pega ou larga de vez.
+
+Tudo ou nada,
+Pega ou larga de vez.
+Tudo ou nada,
+Pega ou larga de vez
+
+Bm7     A/B
+Tudo ou nada,
+Bm      F/B
+Pega ou larga de vez.
+Am7     G/A
+Tudo ou nada,
+Am7     G/A      D/A
+Pega ou larga de vez.
+
+D/G     A/G
+Tudo ou nada,
+Bm/G    F/G
+Pega ou larga de vez.
+Tudo ou nada,
+                   A4  D
+Pega ou larga de vez
+
+----------------- Acordes -----------------
+A/B = X 2 2 2 2 X
+A/D = X X 0 6 5 5
+A/G = 3 X 2 2 2 X
+A4 = X 0 2 2 3 0
+Am7 = X 0 2 0 1 0
+Am7/11 = 5 X 5 5 3 X
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+Bm/D = X 5 X 4 7 7
+Bm/G = 3 X 4 4 3 X
+Bm6 = 7 X 6 7 7 X
+Bm6- = X 2 0 0 0 3
+Bm7 = X 2 4 2 3 2
+C/A = X 0 2 0 1 0
+C/D = X X 0 0 1 0
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/B = X 2 0 2 3 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D/G = 3 X X 2 3 2
+D4 = X X 0 2 3 3
+Em7/11 = X 7 X 7 8 5
+F/A = 5 X 3 5 6 X
+F/B = X 2 3 2 1 1
+F/D = X X 0 5 6 5
+F/G = 3 X 3 2 1 X
+F9/C = X 3 X 5 6 3
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/D = X 5 5 4 3 X
+G7 = 3 5 3 4 3 3
+G9 = 3 X 0 2 0 X
+G9/B = 7 X X 7 8 5

@@ -1,0 +1,107 @@
+@titulo: via-dolorosa
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Via Dolorosa
+
+[Intro] Am  Em  D/A  Fm/C# Am  Em  F
+
+  Am          Em         F
+Pela Via Dolorosa, em Jerusalém se viu
+       Am         Em       F
+Os soldados conduziam meu Jesus
+       Dm         Am
+Mas o povo se juntava
+      F#m°          E         Am   Em
+Para ver Aquele que levava a cruz
+
+         Am         Em
+Com seu corpo já ferido
+      F
+E marcado pela dor
+     Am       Em            F
+A coroa de espinhos, viu então
+       Dm          Am
+Mas ouvia, a cada passo
+   F#m°          E            Am
+Escárnios a ferir-lhe o coração
+
+
+      Dm      E          Am           A7
+Pela Via Dolorosa, a sofrer terrível dor
+       Dm          E            Am      A7
+Como ovelha veio Cristo, Rei e Senhor
+             Dm            E            Am
+Mas quanto amor Jesus mostrou morrendo ali
+  G      F
+Por ti, por mim
+
+      Am      Em          F  E
+Pela Via Dolorosa, ao calvário
+        Am   G  D  F#4  F#
+Segue enfim
+
+         Bm         A          G
+Com seu corpo já ferido  E marcado pela dor
+     Bm       A            G
+A coroa de espinhos viu então
+      Em           Bm      A          F#            Bm    B7
+Mas ouvia, a cada passo Escárnios a ferir-lhe o coração
+
+      Em      F#         Bm           B7
+Pela Via Dolorosa, a sofrer terrível dor
+       Em          F#           Bm     B7
+Como ovelha veio Cristo, Rei e Senhor
+             Em            F#            Bm     A       G
+Mas quanto amor Jesus mostrou morrendo ali  Por ti, por mim
+
+      Bm      A          G   F#         Bm
+Pela Via Dolorosa, ao calvário Segue enfim
+
+     F#               Bm/G
+Seu sangue, porém, a muitos também
+  A            D    B7/F#
+Iria remir a Jerusalém
+
+     Fm       G          Cm           C/Bb
+Pela Via Dolorosa, a sofrer terrível dor
+       Fm          G              Cm    C/Bb
+Como ovelha veio Cristo, Rei e Senhor
+             Fm            G             Cm  Bb      G#
+Mas quanto amor Jesus mostrou morrendo ali  Por ti, por mim
+
+      Cm      Bb       G#   G           Cm  Bb  G#
+Pela Via Dolorosa, ao calvário, segue enfim
+
+[Final] Cm  Bb  G#  Cm  G  Cm
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+B7/F# = X X 4 4 4 5
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+Bm/G = 3 X 4 4 3 X
+C/Bb = X 1 2 0 1 X
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F#4 = 2 4 4 4 2 2
+Fm = 1 3 3 1 1 1
+Fm/C# = 1 4 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

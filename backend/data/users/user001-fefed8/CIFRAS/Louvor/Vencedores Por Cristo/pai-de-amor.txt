@@ -1,0 +1,84 @@
+@titulo: pai-de-amor
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Pai de Amor
+
+       F#           B        F#
+Pai de amor, gosto tanto de Ti,
+       F#           D#m       G#m C#7
+Pai de amor, gosto tanto de Ti,
+   F#       F#7          B          Bm
+Te amo, te quero e prostrado, te adoro,
+       F#           C#7       B  F# G#m F#
+Pai de amor, gosto tanto de Ti.
+
+    F#         B       F#
+Meu Jesus, amoroso Tu és,
+    F#         D#m      G#m C#7
+Meu Jesus, amoroso Tu és,
+    F#           F#7          B          Bm
+Minh´alma já limpaste e o Espírito enviaste,
+      F#       C#7      B  F# G#m F#
+Meu Jesus, amoroso Tu és.
+
+         F#     B      F#
+Santo Espírito Consolador,
+         F#     D#m     G#m C#7
+Santo Espírito Consolador,
+    F#         F#7       B           Bm
+Tu nos santificas e em nós sempre habitas,
+      F#       C#7      B  F# G#m F#
+Santo Espírito Consolador.
+
+Sobe meio tom
+
+       G           C        G
+Pai de amor, gosto tanto de Ti,
+       G           Em       Am D7
+Pai de amor, gosto tanto de Ti,
+   G       G7          C          Cm
+Te amo, te quero e prostrado, te adoro,
+       G           D7       C  G Am G
+Pai de amor, gosto tanto de Ti.
+
+    G         C       G
+Meu Jesus, amoroso Tu és,
+    G         Em      Am D7
+Meu Jesus, amoroso Tu és,
+    G           G7          C          Cm
+Minh´alma já limpaste e o Espírito enviaste,
+      G       D7      C  G Am G
+Meu Jesus, amoroso Tu és.
+
+         G     C      G
+Santo Espírito Consolador,
+         G     Em     Am D7
+Santo Espírito Consolador,
+    G         G7       C           Cm
+Tu nos santificas e em nós sempre habitas,
+      G       D7      C  G Am G
+Santo Espírito Consolador.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#7 = X 4 3 4 2 X
+Cm = X 3 5 5 4 3
+D#m = X X 1 3 4 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4
+G7 = 3 5 3 4 3 3

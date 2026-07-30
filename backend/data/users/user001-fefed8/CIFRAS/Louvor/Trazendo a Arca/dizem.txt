@@ -1,0 +1,74 @@
+@titulo: dizem
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Dizem
+
+Intro: 
+
+E|-------------------------------------4----------------|
+B|--5------5-------7------7-------5--7---5---2------2---|
+G|-----2-----2-------4-------4------------------2-----2-|
+D|------2------2-------4-------4------------------2-----|
+A|--4------4-------6------6------------------0----------|
+E|------------------------------------------------------|
+
+E|-------------------------------------4-7---0-----0----|
+B|--5------5-------7------7-------5--7---------2----2---|
+G|-----2-----2-------4-------4------------------2-------|
+D|------2------2-------4-------4------------------------|
+A|--4------4-------6------6------------------0----------|
+E|------------------------------------------------------|
+
+A/C# B/D#           E    A9
+ Di zem que eu não sou capaz
+A/C# B/D#           E    A9
+ Di zem que eu não vou vencer
+A/C# B/D#  E    A9
+Não  é na minha força
+A/C# B/D#       E     A9
+Mas sim em nome do meu Deus
+
+D           C             D     E
+O poder da unção que está sobre mim
+            D       D
+Me adestra pras batalhas
+
+G      G       G            G
+Não importa o que pensam de mim
+G        G         G         G
+Vou deixar pra trás minhas limitações
+D#m     G#m                  A    F#m
+Pois o Senhor não vê como o homem vê
+                 A       B
+Ele está atento  ao coração
+
+E     B       A       B
+Ele exalta o puro de coração
+E       B            A          B
+E se revela aos que buscam Sua face
+D#m    G#m        A          F#m
+Fui atraído pelo poder desse amor
+                   B
+Tudo posso com meu Deus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D#m = X X 1 3 4 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

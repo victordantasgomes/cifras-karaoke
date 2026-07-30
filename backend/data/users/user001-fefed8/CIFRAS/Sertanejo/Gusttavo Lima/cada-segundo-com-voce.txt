@@ -1,0 +1,56 @@
+@titulo: cada-segundo-com-voce
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Cada Segundo Com Você
+
+Intro 2x: E F#m G# A
+
+E                        B
+Tudo aconteceu tão de repente
+           C#m                         A
+Fiquei te olhando ali parada em minha frente
+E                             B
+Imaginando uma maneira de poder chegar
+       C#m                     A
+E te dizer o quanto desejava te beijar
+
+F#m     G#m      A           B
+  Como mágica você olhou pra mim
+F#m     G#m            A            B
+Se aproximando e também disse estar a fim
+F#m     G#m            A          B
+Sem perceber então um beijo aconteceu
+F#m     G#m     A         B
+Meu universo agora é só você e eu
+
+Refrão
+
+
+E                                B
+Quero ter pra sempre você do meu lado
+            C#m                     A
+Se estou sonhando não quero ser acordado
+               E               B
+Mudou minha vida, me fez renascer
+              C#m                   A
+Quero aproveitar cada segundo com você
+
+
+(Repete-se a música mais uma vez e o refrão mais duas vezes no final)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,89 @@
+@titulo: 220-volts
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - 220 Volts
+
+Intro. Riff
+Riff.
+E|------------------------------|
+B|-----------------------2p0----|
+G|-----------------------2p0----|
+D|----------------------------2-|
+A|----------------------------2-|
+E|-0-2-0-3-0--0-3-0-5-0---------|
+
+Em
+Mãos no volante
+Duzentos metros atras     Riff
+E5
+pés no espelho
+duzentos cigarros depois  Riff
+
+B5
+Dedos na parede
+    C5
+Tubarões na minha rede
+     B5
+Gasolina mata a sede
+
+  G5      A5      E5
+Duzentos e vinte volts    Riff
+
+Em
+freios sem controle
+milhões de cilindradas na mão   Riff
+Em
+Fogo no asfalto
+Queimando borracha e metal  Riff
+
+B5
+Dedos na parede
+    C5
+Tubarões na minha rede
+     B5
+Gasolina mata a sede
+  G5     A5       E5
+Duzentos e vinte volts    Riff
+
+Em
+Cento e dez, Cento e trinta
+         A
+megaheats, meia pista
+       Em           B5
+Decibéis, mega bytes
+  C5        D5    Em
+Duzentos e vinte volts
+
+E|------------------------------|
+B|-----------------------0------|
+G|-----------------------2bp0---|
+D|----------------------------2-|
+A|----------------------------2-|
+E|-0-2-0-3-0--0-3-0-5-0---------|
+
+B5
+Dedos na parede
+    C5
+Tubarões na minha rede
+     B5
+Gasolina mata a sede
+  G5      A5      E5
+Duzentos e vinte volts
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+B5 = X 2 4 4 X X
+C5 = X 3 5 5 X X
+D5 = X 5 7 7 X X
+E5 = 0 2 2 X X X
+Em = 0 2 2 0 0 0
+G5 = 3 5 5 X X X

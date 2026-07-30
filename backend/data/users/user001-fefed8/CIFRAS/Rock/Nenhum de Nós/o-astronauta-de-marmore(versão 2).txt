@@ -1,0 +1,117 @@
+@titulo: o-astronauta-de-marmore(versão 2)
+@autor:
+@intérprete: Nenhum de Nós
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nenhum de Nós - O Astronauta de Mármore
+
+[Intro] Bb  F
+
+[Primeira Parte]
+
+Gm
+  A lua inteira agora é um manto negro
+F
+  O fim das vozes no meu rádio
+C                        C7              F   G# Bb
+ São quatro ciclos no escuro deserto do céu
+Gm
+  Quero um machado pra quebrar o gelo
+F
+  Quero acordar do sonho agora mesmo
+C                         C7            A  G
+  Quero uma chance de tentar viver sem dor
+
+[Refrão]
+
+          F         Dm
+Sempre estar lá, e ver ele voltar
+
+    Am                       C
+Não era mais o mesmo, mas estava em seu lugar
+          F         Dm
+Sempre estar lá, e ver ele voltar
+   Am                        C
+O tolo teme a noite, como a noite vai temer o fogo
+
+Bb       Bbm
+ Vou chorar sem medo
+F          Dm
+  Vou lembrar do tempo
+Gm            C            Bb
+  De onde eu via o mundo azul
+
+[Solo] Bb  F  C  F
+       Bb  F  C  F
+
+[Segunda Parte]
+
+Gm
+  A trajetória escapa o risco nú
+F
+  As nuvens queimam o céu, nariz azul
+C                           C7               F   G#  Bb  G#m
+  Desculpe estranho, eu voltei mais puro do céu
+Gm
+  Na lua o lado escuro é sempre igual
+F
+  No espaço a solidão é tão normal
+C                           C7               A   G
+  Desculpe estranho, eu voltei mais puro do céu
+
+[Refrão]
+
+          F         Dm
+Sempre estar lá, e ver ele voltar
+    Am                       C
+Não era mais o mesmo, mas estava em seu lugar
+          F         Dm
+Sempre estar lá, e ver ele voltar
+   Am                        C
+O tolo teme a noite, como a noite vai temer o fogo
+
+Bb       Bbm
+ Vou chorar sem medo
+F          Dm
+  Vou lembrar do tempo
+Gm            C            Bb
+  De onde eu via o mundo azul
+
+          F         Dm
+Sempre estar lá, e ver ele voltar
+    Am                       C
+Não era mais o mesmo, mas estava em seu lugar
+          F         Dm
+Sempre estar lá, e ver ele voltar
+   Am                        C
+O tolo teme a noite, como a noite vai temer o fogo
+
+Bb       Bbm
+ Vou chorar sem medo
+F          Dm
+  Vou lembrar do tempo
+Gm            C            Bb
+  De onde eu via o mundo azul
+
+[Final] Bb  F  C  F
+        Bb  F  C  F
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+Bbm = X 1 3 3 2 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4
+Gm = 3 5 5 3 3 3

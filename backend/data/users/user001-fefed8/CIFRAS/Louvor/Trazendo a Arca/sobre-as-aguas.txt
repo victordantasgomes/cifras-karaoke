@@ -1,0 +1,45 @@
+@titulo: sobre-as-aguas
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Sobre As Águas
+
+ E4          E      C#m
+Se o sol se por e a noite chegar,
+ A            B
+Tú és quem me guia.
+E4      E         C#m
+Se a tempestade me alcançar,
+A            B
+Tú és meu abrigo
+A                C#m      B  A
+Se o mar, me submergir a tua mão
+           C#m   B      A
+Me traz à tona prá respirar,
+          E     C#m    B
+E me faz andar, sobre as águas,
+E/G# A             C#m     B
+Tú és o deus da minha salvação,
+A         C#m   B     A
+És o meu dono minha paixão
+       E/G#             B A B
+Minha canção, e o meu louvor.
+F#m C#m B/D#   E
+Aleluia, aleluia, (2x).
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2

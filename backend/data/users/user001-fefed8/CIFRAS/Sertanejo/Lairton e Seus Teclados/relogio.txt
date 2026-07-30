@@ -1,0 +1,41 @@
+@titulo: relogio
+@autor:
+@intérprete: Lairton e Seus Teclados
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lairton - Relogio
+
+A          F#m      Bm    E7  A      F#m        Bm  E7
+Porque não paras relógio,    não me faças padecer
+A    F#m      Bm      E7  A       F#m        Bm  E7
+Ela irá para sempre,    breve o sol vai nascer
+A          F#m         Bm    E7   A     F#m         Bm  E7
+Não vês só tenho esta noite     para viver nosso amor
+A       F#m       Bm    E7 A        F#m        Bm   E7
+Teu badalar me recorda    que sentirei tanta dor
+   F#m            C#m     D                   A
+Detém as horas relógio pois minha vida se apaga
+Bm       E7        A        F#m    Bm        E7          A
+Ela é a luz que ilumina meu ser,  sem seu amor não sou nada
+   F#m                C#m
+Detém  o tempo eu te peço
+D                 A      F#m
+Faz esta noite perpétua
+Bm           E7          A        F#m
+Pra que meu bem não se afaste de mim
+Bm        E7     A
+Para que não amanheça
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

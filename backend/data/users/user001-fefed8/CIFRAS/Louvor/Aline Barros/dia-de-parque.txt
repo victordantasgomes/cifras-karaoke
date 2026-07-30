@@ -1,0 +1,59 @@
+@titulo: dia-de-parque
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Dia de Parque
+
+[Intro] C  G  D  C
+
+G                             G/B            Am
+Hoje é dia de alegria e vai rolar muita diversão
+C            A/C#
+Vamos para o parque
+     D       Em       Am                         D
+Com toda a família, mamãe, papai, vovô, vovó, titia
+G
+Churros, pipoca com guaraná
+        G/B              Am
+Algodão doce pra se lambuzar
+C             A/C#   D
+Vou na roda gigante, e no
+       Em  Am                       D
+Pula pula, e no carrossel vamos girar
+D     D/F#   D/A  C9  D
+Gira, gira, gira, oh
+
+                    G                         D
+Sobe, desce, sobe, desce, pula, pula, escorrega
+
+        Am    D         G     D
+Dia de parque,  tudo é festa
+                    G                      C   Cm
+Sobe, desce, sobe, desce, pula, pula, escorrega
+            G     Em
+Jesus com a gen - te
+  Am      D      G    D
+A vida é sempre festa
+
+D    D/F#  D/A  C9   D
+Ahhh Ahhh Ahhh Ahhh Ahhhhh
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

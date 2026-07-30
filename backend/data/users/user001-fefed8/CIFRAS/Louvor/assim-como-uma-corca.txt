@@ -1,0 +1,47 @@
+@titulo: assim-como-uma-corca
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Assim Como Uma Corça
+
+ E    B/D#   C#m   C#m/B
+Assim como a corça
+    A   E/G#   F#m B
+Suspira pelas  águas
+    E     B/D#   C#m  C#m/B
+Por ti suspira minh`alma
+   A  B       E   B
+Espírito de   Deus
+
+       E          B/D#
+Oh, oh enche-me Espírito
+       C#m     C#m/B
+Oh, oh enche Espírito
+       A    F#m D    B7
+Oh, enche Espírito de Deus
+
+       E          B/D#
+Oh, oh enche-me Espírito
+       C#m     C#m/B
+Oh, oh enche Espírito
+       A    B7        E    B7
+Oh, enche Espírito de Deus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+C#m/B = 7 X 6 6 5 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

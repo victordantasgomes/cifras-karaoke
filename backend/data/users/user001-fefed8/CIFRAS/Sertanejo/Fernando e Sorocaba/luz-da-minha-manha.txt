@@ -1,0 +1,82 @@
+@titulo: luz-da-minha-manha
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - Luz da Minha Manhã
+
+[Refrão]
+
+A               E                D
+Luz da minha manhã, brilho do meu luar
+  C#m     D         E   E7
+Todo dia quero te amar
+ A                E            D
+Volta pros meus braços quero te dizer
+ Bm         D          E
+Eu preciso tanto de você
+ Bm         D          E
+Eu preciso tanto de você
+
+[Solo] A  E  D  C#m  D  E
+
+E|--------------------------------------------------|
+B|-----------2-3-3/5-----10-9--5-5--2-3-3/10-10->---|
+G|-------2-4----------------------------------------|
+D|---2-4--------------------------------------------|
+A|--------------------------------------------------|
+E|--------------------------------------------------|
+
+
+E|-----------------------------------------|
+B|-----------2h3-2--2h3-2------------------|
+G|-------2-4--------------4----------------|
+D|---2-4--------------------2--------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+       A                          E
+Quando olho nos seus olhos tenho medo
+         F#m                      E
+Ninguém nesse mundo mais me fez chorar
+       D          E           A    E    F#m
+O meu coração dispara se embriaga de paixão
+     D                            E
+Das lembranças não consigo me livrar
+
+        A                       E
+Já não sei se estou certo ou errado
+      F#m                    E
+É um fogo que não sei como apagar
+      D            E            A     E      F#m
+Minha alma queima de saudades, sem você não dá,
+         D           E            A     E E7
+Ninguém nesse mundo toma o seu lugar
+
+[Refrão]
+
+ A               E               D
+Luz da minha manhã, brilho do meu luar
+ C#m       D         E   ( E7 )
+Todo dia quero te amar
+ A                E            D
+Volta pros meus braços quero te dizer
+ Bm         D          E
+Eu preciso tanto de você
+ Bm         D          E
+Eu preciso tanto de você
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,98 @@
+@titulo: anjo-protetor
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Anjo Protetor
+
+Intro:
+      B              F#
+E|---------2-2-----2-2-----4-4-6-6-|
+B|---------------------------------|
+G|---4-3-4-----3-4-----3-4---------|
+D|---------------------------------|
+A|---------------------------------|
+E|---------------------------------|
+
+        C#m7                 E                    B
+E|--7-7-7-6-6-4-----|---------------------------------|
+B|--------------7~~-|---4-5-5/7-7-5-4-----------------|
+G|------------------|-4---------------6-4-------------|
+D|------------------|---------------------6-----------|
+A|------------------|-----------------------2-4-4/6---|
+E|------------------|---------------------------------|
+
+B                        F#
+Em meu peito sinto tudo fora de lugar
+          C#m
+Foi só um dia sem te amar
+
+          E
+E não consigo disfarçar meu medo
+ B                        F#
+Como se um silêncio me tirasse até o ar
+       C#m
+Está difícil respirar
+          E                       F#
+Pois não posso ter você aqui comigo
+          G#m  B  F#
+Vem me buscar
+                    E
+Vem salvar meu coração
+
+Refrão:
+ G#m                     E
+Não como, não bebo, não posso dormir
+           B               F#
+Nada me agrada sem você aqui
+ G#m                   E
+Fujo dos amigos tento me esconder
+       B                F#
+Gosto deles mais amo você
+         G#m             E
+Quem vai me acalmar, me suportar
+   B            F#
+Me adoçar meus beijos
+  C#m               B/D#
+Você que é meu anjo
+      E           F#         B
+Só você que é meu anjo protetor
+
+(solo da intro) B F# C#m E
+
+Repete 1ª parte
+
+Repete refrão
+
+E     B  F#
+Ou ou ou...
+ G#m                   E
+Fujo dos amigos tento me esconder
+       B                F#
+Gosto deles mais amo você
+         G#m             E
+Quem vai me acalmar, me suportar
+   B            F#
+Me adoçar meus beijos
+  C#m               B/D#
+Você que é meu anjo
+      E           F#         B        F#
+Só você que é meu anjo protetor... uouou
+     C#m
+Só você que é meu anjo
+      E           F#         B
+Só você que é meu anjo protetor
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

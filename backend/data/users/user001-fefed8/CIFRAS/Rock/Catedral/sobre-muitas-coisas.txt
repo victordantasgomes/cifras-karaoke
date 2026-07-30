@@ -1,0 +1,50 @@
+@titulo: sobre-muitas-coisas
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Sobre Muitas Coisas
+
+[Intro] A  F#m  D  E
+
+A F#m              D         E         A F#m
+    Por falar de amor por falar de paixão,   por
+          D         E   A F#m              D
+Falar de coisas do coração,   por falar de mim
+     E        A F#m                 D     E
+Lembrei de você,   faz tempo que a gente não se
+ A F#m D E
+Vê
+A F#m            D       E        A F#m
+   Por falar de vida, falar de razão,   falar de
+    D      E   A F#m                  D          E
+Amizade,de emoção,   por falar de esperança lembrei
+      A F#m                    D    E     A F#m D E
+De você, mas faz tempo que a gente não se vê
+Bb7M       Am         Bb7M             F Bb7M
+Ah!sobre muitas coisas eu quero te falar ah! Sobre
+ Am          Gm7         D    E   A F#m D E
+Tudo enfim que lembre o nosso amor
+A F#m                 D     E       A F#m
+     Por falar de verdade real solução,   falar de
+
+  D       E    A F#m              D          E
+Saída de salvação,    falo com ternura pois tenho
+   A F#m                D          E     A F#m D E
+Você,    a verdade e a vida que a gente vê
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bb7M = X 1 3 2 3 1
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+Gm7 = 3 X 3 3 3 X

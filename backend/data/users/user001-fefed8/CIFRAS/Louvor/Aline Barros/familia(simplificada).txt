@@ -1,0 +1,68 @@
+@titulo: familia(simplificada)
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Família
+
+ D                        G
+Vem desfrutar do amor de Deus
+   A        D4  D
+Você e sua ca___sa,
+D                 G           D                A7
+Deixe Jesus que é Rei entrar em teu coração
+D                        G         A            D4 D
+Vida melhor Ele quer te dar, restaurar teu lar
+D                   G           D    A   D
+Paz a harmonia Ele quer trazer pra vo_ce
+
+D                         G
+Vem desfrutar do amor de Deus
+   A        D4  D
+Você e sua ca___sa,
+D                  G     D                     A7
+Deixe Jesus que é Rei entrar em teu coração
+D                        G         A           D4 D
+Vida melhor Ele quer te dar, restaurar teu lar
+D                     G         D A   D
+Paz a harmonia Ele quer trazer pra vo_ce
+
+
+  Bm    A    F#m       G9     Bm   E4   G      A7    Bm
+Lá,lá,lá,lá,lá, lá,lá,lá  || Lá,lá,lá,lá,lá, lá,lá, lá
+  Bm    A    F#m       G9     Bm   E4   G      A7    Bm
+Lá,lá,lá,lá,lá, lá,lá,lá  || Lá,lá,lá,lá,lá, lá,lá, lá
+
+ D                G
+Deus alcançou e modificou
+A              D4  D
+Toda a minha ca__sa,
+               D       G          D            A7
+Ainda que venha a tempestade, não nos abalará
+D                        G          A             D4  D
+Vida melhor Ele quer te dar, restaurar teu lar
+               D          G          D  A7  D
+Paz a harmonia Ele quer trazer pra vo_ce
+               D          G         D   A7  D
+Paz a harmonia Ele quer trazer pra vo_ce
+               D          G        D   A7  D
+Paz a harmonia Ele quer trazer pra vo_ce
+
+( D   G   A   D4   D   D   G   D   A   D )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G9 = 3 X 0 2 0 X

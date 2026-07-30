@@ -1,0 +1,76 @@
+@titulo: eu-so-penso-em-voce
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Eu Só Penso Em Você
+
+ D              A/C#        Bm     Bm/A         G   A7
+Maybe i didn't love you   quite is oftem as i could
+D                A/C#     Bm       Bm/A     G#m7/5-
+Maybe i didn't treat you quite is good as i should
+G                           D      G        D/F#        Em  D  Bm
+If i made you feel the second best girl I'm sorry i was blind
+A7      G/B    A/C#      D Em D/F#  G
+You are always on my mind
+          A7         D      G A
+You are always on my mind
+D                   A/C#  Bm     Bm/A        G   A7
+Sei que eu estive ausente quando precisou de mim
+D                 A/C#   Bm   Bm/A      G#m7/5-    D/F#
+Eu fui tão inconsequente insensível te perdi assim
+G                D              G         D/F#             Em D Bm
+Hoje estou consciente que errei de todo o mal que te causei
+A7    G/B    A/C#  D          Em D/F#  G              A7         D  G  A7
+Vim aqui pra te dizer (vim aqui pra te dizer)   eu só penso em você
+D A/C# Bm Bm/A G            D/F#               Em A4/7
+Tell  me tell me that your sweet love hasn't die
+D A/C# Bm Bm/A G           D/F#          Em A4/7 A7 D     G#
+Dá pra  mim uma chance de poder te compensar e de te amar
+
+D#              Bb/D      Cm     Cm/A#          G#
+Maybe i didn't love you quite is oftem as i could
+D#                Bb/D   Cm Cm/A#            Am7/5- D#/G
+Eu não tenho te amado tanto quanto poderia amar
+G#                      D#        G#        D#/G       Fm  D# Cm
+If i made you feel the second best tente ao menos perdoar
+Bb7     G#/C   A#/D D#             Fm     D#/G   G#
+You are always on my mind (You are always on my mind)
+          A#7                D#
+You are always on my mind
+Bb7   G#/C   A#/D D#         Fm     D#/G  G#
+Vim aqui pra te dizer (Vim aqui pra te dizer)
+        A#7       D#
+Eu só penso em você
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#/D = X 5 X 3 6 6
+A#7 = X 1 3 1 3 1
+A/C# = X 4 X 2 5 5
+A4/7 = X 0 2 0 3 0
+A7 = X 0 2 0 2 0
+Am7/5- = 5 X 5 5 4 X
+Bb/D = X 5 X 3 6 6
+Bb7 = X 1 3 1 3 1
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+Cm = X 3 5 5 4 3
+Cm/A# = X 1 1 0 1 X
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D#/G = 3 X 1 3 4 X
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#/C = X 3 X 1 4 4
+G#m7/5- = 4 X 4 4 3 X
+G/B = X 2 0 0 3 3

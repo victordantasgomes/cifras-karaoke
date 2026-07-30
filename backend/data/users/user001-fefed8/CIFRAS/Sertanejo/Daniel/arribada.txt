@@ -1,0 +1,97 @@
+@titulo: arribada
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Arribada
+
+(intro 2x) E B7 E B7 A E
+
+                  B7         E
+Quando a saudade no peito fez morada
+           B7        A            E
+Foi na arribada da paixão que desgarrou
+       B7                 A             E
+Eu aboiei eu madrinhei estrada afora
+        B7                 E
+E o berrante da tristeza repicou
+
+                      B7                  E
+Parei na sombra da incerteza e me deitei
+           B7        A           E
+Nas folhas secas que cairam sobre o chão
+        B7          A            E
+Ali peguei no sono então sonhei com ela
+               B7                  E    (riff)
+E acordei com soluço no coração
+
+B7  A  E
+Ai ai ai
+
+          B7      A             E   (riff)
+Saudade é feito boiada que vem e vai
+B7  A  E
+Ai meu bem
+          A       B7     E
+Saudade volta mas você não vem
+
+(intro) B7 E B7 A E  B7 E B7 G# E
+
+                  B7            E
+Mato fechado busco brilho de outro olhar
+        B7      A                   E
+Abro picadas caminho sem direção
+        B7       A         E
+E de repente vejo que todo caminho
+               B7                    E
+Me leva sempre rumo ao seu coração
+
+             B7            E
+Hoje eu sou boiadeiro sem boiada
+        B7       A            E
+Montado na vontade de te encontrar
+     B7          A             E
+Amargando uma saudade eu vou vivendo
+         A          B7        E
+Buscando seu amor eu vivo a caminhar
+
+B7  A  E
+Ai ai ai
+          B7      A             E   (riff)
+Saudade é feito boiada que vem e vai
+B7  A  E
+Ai meu bem
+          A       B7     E
+Saudade volta mas você não vem
+
+B7  A  E
+Ai ai ai
+          B7      A             E   (riff)
+Saudade é feito boiada que vem e vai
+B7  A  E
+Ai meu bem
+          A       B7     E
+Saudade volta mas você não vem
+
+          A       B7     E      A Em E
+Saudade volta mas você não vem
+
+(riff)
+E|-----------------------5--|
+B|-----------------------4--|
+G|--1s3--1p0-------------3--|
+E|--2s4--2p0---2---------2--|
+B|-------------4--2--0---0--|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G# = 4 3 1 1 1 4

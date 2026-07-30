@@ -1,0 +1,83 @@
+@titulo: jogo-da-vida
+@autor:
+@intérprete: Victor e Leo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Victor e Leo - Jogo da Vida
+
+(capo 3ªcasa)
+
+(intro) D C G D
+
+E|---5------     |---3------
+B|--5-------(3x) |--5------ (3x)
+G|-7--------     |-7--------
+
+D
+Ela estava linda
+     C
+Em plenitude infinda
+        G                 D
+Foi a primeira vez que a vi
+
+D
+Era madrugada
+      C
+Era quase manhã raiada
+      G             D
+E eu ainda estava ali
+
+
+Am                     C                G
+   Se fosse pra te deixar, te deixaria dentro de mim
+Am                       C
+   Se fosse pra te esquecer, te esqueceria
+G                             G7    C
+Só pra lembrar outra vez e ficar assim, como se nada
+      G
+fosse ruim
+
+Tudo é tão bom entre você e eu
+
+(refrão 2x)
+            Am
+No jogo da vida
+                C                            G
+O que acontece gira em torno dos pontos que você me deu
+
+(com vocalização) D C G 2x
+
+ Am                    C                G
+   Se fosse pra te deixar, te deixaria dentro de mim
+ Am                      C
+   Se fosse pra te esquecer, te esqueceria
+ G                           G7     C
+Só pra lembrar outra vez e ficar assim, como se nada
+      G
+fosse ruim
+
+Tudo é tão bom entre você e eu
+
+(refrão 2x)
+              Am
+No jogo da vida
+                C                            G
+O que acontece gira em torno dos pontos que você me deu
+
+(final com vocalização) D C G
+
+----------------- Acordes -----------------
+Capotraste na 3ª casa
+Am*  = X 0 2 2 1 0 - (*Cm na forma de Am)
+B*  = X 2 4 4 4 2 - (*D na forma de B)
+C*  = X 3 2 0 1 0 - (*D# na forma de C)
+D*  = X X 0 2 3 2 - (*F na forma de D)
+E*  = 0 2 2 1 0 0 - (*G na forma de E)
+G*  = 3 2 0 0 0 3 - (*A# na forma de G)
+G7*  = 3 5 3 4 3 3 - (*A#7 na forma de G7)

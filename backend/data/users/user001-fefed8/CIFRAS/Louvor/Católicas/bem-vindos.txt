@@ -1,0 +1,44 @@
+@titulo: bem-vindos
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Bem-Vindos
+
+G             Am                 D
+Você que está chegando, bem-vindo, seja
+      G     D
+bem-vindo! (bis)
+G                 Am              D
+Só estava faltando você aqui.  Só estava
+    G         D
+faltando você, irmão.
+ G                Am              G
+Só estava faltando você aqui, bem-vindo à
+D      G     D
+Celebração!
+
+G             Am                 D
+Você que está chegando, bem-vindo, seja
+      G    D
+bem-vindo! (bis)
+G                 Am             D
+Só estava faltando você aqui.  Só estava
+  G            D
+faltando você, irmão.
+
+G                  Am             G
+Só estava faltando você aqui, bem-vindo à
+D      G
+Celebração!
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3

@@ -1,0 +1,65 @@
+@titulo: fogo-e-paixao
+@autor:
+@intérprete: Nando Reis
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nando Reis - Fogo e Paixão
+
+ C
+Você é luz
+               E7
+é raio estrela e luar
+   Am
+Manhã de sol
+              Gm   C7
+Meu iaiá meu ioiô
+  F         (G)
+Você é sim
+           C   Am
+Nunca meu não
+             Dm
+Quando tão louca
+             G               C   G7
+Me beija na boca me ama no chão
+
+(repete tudo)
+
+F#m     B
+Me suja de carmim
+
+ Em
+Me põe na boca o mel
+ D
+Louca de amor
+             G
+Me chama de céu oh! oh! oh!
+
+ F#m      B
+E quando sai de mim
+ Em
+Leva meu coração
+ D       G             C   (G)
+Você é fogo eu sou paixão
+
+(repete tudo)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

@@ -1,0 +1,57 @@
+@titulo: desperta-me(versão 2)
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Desperta-me
+
+Intro: Am  F  C  F
+
+  C         G/B         Am       F
+Desperta-me, antes que anoiteça
+             Dm Am       G
+Antes que o azeite se acabe
+      Dm            Am         G
+E se apague a chama dentro de mim
+   C       G/B           Am       F
+Desperta-me, antes que seja tarde
+          Dm Am       G
+Antes que tu vás embora
+     Dm        Am       G
+E só reste a saudade de ti
+G
+Desperta-me
+
+   C      Dm      G         C           Dm      G
+Desperta o meu amor, eu não quero me perder de ti
+             Am       G/B   F       G
+Estar longe sem perceber a distância
+   C      Dm      G     C         F    G
+Desperta o meu amor, e acorde o meu coração
+      Am    G/B     F       G
+Ressuscita minha paixão por ti Jesus
+
+Am           Em7        Am            Em7
+Antes que a indiferença e a frieza Apague a chama
+       F   Dm   G4  G
+Que arde em meu peito
+Am             Em7          Am             Em7
+Antes que a humildade ceda e o orgulho me domine
+F    Dm      G4  G
+Toma-me levanta-me.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G4 = 3 5 5 5 3 3

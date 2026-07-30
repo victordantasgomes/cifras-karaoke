@@ -1,0 +1,87 @@
+@titulo: se-clamares
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Se Clamares
+
+
+(intro 2x) ( Dm  Bb9  Dm  Bb9  C )
+
+F            Am
+Não me clamou
+                   Bb9
+Naquele dia em que dor chegou
+  Bb/C
+Invadiu teu peito
+F
+Não me clamou
+   Am                     Bb9
+No dia em que alguém que confiou
+Gm7      C
+Te enganou
+Am
+E no prazer de uma grande conquista
+Bb9                  Gm7          C
+Alguém chegou e matou tua alegria
+    F        Am      Dm       Bb9
+Em tudo te espero ouvir clamar
+
+       C7    Bb9        F      Bb  Bb  C  F
+Não me canso de te ajudar.
+                   Bb   C    Bb  C  F
+Tudo acontece se clama-res
+                         Bb   C Bb  C F
+Vitórias tem se a mim clama - res
+                          Bb   C
+Eu quero ouvir-te então clamando
+        Bb  C           Bb9
+Então cla   ma e depois
+               Dm
+Serás feliz demais.
+
+(intro) ( Bb9  Dm  Bb9  C )
+        ( Dm  Bb9  Dm  Bb9  C )
+
+F           Am
+É só clamar
+                 Bb9
+E nunca vou deixar na mão
+     Bb/C
+Seja onde fores
+F
+Eu Sou Jesus
+  Am                 Bb9
+E pelo teu bem vou pelejar
+        Gm7 C
+Sobre o que quiseres
+Am
+Te amo demais
+Te corrijo e conforto
+Bb9                   Gm7         Bb/ C
+E ai de quem tentar contra tua sorte
+    F     Am        Dm       Bb9
+Em tudo te quero ouvir clamar
+        C7     Bb9     F   Bb   Bb  C   F
+Não me canso de te ajudar.
+
+(refrão 2x)
+( Bb9  Dm  Bb9  C Dm  Bb9  Dm  Bb9  ) ( Eb  Bb  Eb  Bb  C  F )
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+Bb/C = X 3 X 3 3 1
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+Eb = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+Gm7 = 3 X 3 3 3 X

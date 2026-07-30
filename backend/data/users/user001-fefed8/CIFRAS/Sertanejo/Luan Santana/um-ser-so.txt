@@ -1,0 +1,71 @@
+@titulo: um-ser-so
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Um Ser Só
+
+ G                 Dm7    G     C7+
+ Que bom se você fosse como a lua
+                    Bm7              Em7
+Que onde quer que esteja possa enxergar
+                Dm7    G     C7+
+Ou quem sabe, fosse como o sol
+                 Bm7                    Em7
+Que me aquece o peito aonde quer que eu vá
+                Dm7     G     C7+
+ Teu beijo poderia ser o infinito
+                Bm7                Em7
+E ainda mais bonito e nunca se acabar
+         Dm7         G       C7+
+A tua beleza como a das estrelas
+             Bm7
+Só que permanece quando a noite vai
+ C7+       D9/C        Em7
+  E deixa a mesma tristeza
+      Dm7     G       C7+
+Em saber que não és minha
+Eb7M                 G
+ Que não te posso alcançar
+
+
+   C
+E vem a chuva, molha o meu rosto
+Bm                      Em
+ Provo do mel, me lembro do seu gosto
+     Am           D        G
+Olho da janela, vejo o jardim
+  C
+Vou a praia a tarde cai, que maravilha
+  Bm                        Em
+O vento traz o teu perfume de baunilha
+   Am                    D         G
+É como se o mar quebrasse só pra mim
+         C
+Vou me emaranhar por entre seus cabelos
+   Bm                   Em
+Dormir contigo, afastar seus pesadelos
+Am              Bm             C7+
+ E quando o sol chegar, seremos um
+    D       Am Bm Em Am D G Am Bm C D
+Um ser só!
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+D = X X 0 2 3 2
+D9/C = X 3 0 2 3 0
+Dm7 = X 5 7 5 6 5
+Eb7M = X X 1 3 3 3
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3

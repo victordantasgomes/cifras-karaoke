@@ -1,0 +1,158 @@
+@titulo: cacador-de-coracoes
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Caçador de Corações
+
+[Intro] F#7  Bm  A7  D
+        F#7  Bm  A7  G  A7  D  A7
+
+E|----------------------------------------------------|
+B|----------------------------------------------------|
+G|-----------3---------------4---------------4/6------|
+D|-4-4-4/3-4-------4-4-4/3-4-------4-4-4/3-4----------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|----------------------------------------------------|
+B|-------5-7-7h8-7----7-7-7-8-7-5----5-5-5-7-5-3------|
+G|-4-6-7----------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|----------------------------------------------------|
+B|-0-2-3-3-3-2----3-2-3--2-0-2-3-------3/5-3-2~-------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+
+[Primeira Parte]
+
+    D               F#7                 Bm
+Ás vezes me pego sozinho pensando em você
+    G                 A7                D  A7
+Me bate a saudade no peito querendo te ver
+    D                 F#7                 Bm
+Eu saio entre a multidão de uma rua qualquer
+    G                 A7                    D  D4 D
+Querendo encontrar o seu rosto em outra mulher
+
+[Pré-Refrão]
+
+     F#7
+Mas nada que eu vejo é igual a você
+     Bm                 Bm/A
+Não sinto nas outras o mesmo prazer
+    E7                                     A4  A7
+Tá sempre faltando uma coisa pra me completar
+    F#7
+Por isso é que eu fico pensando em nós dois
+    Bm              Bm/A
+Do jeito que era durante e depois
+E7                                A7
+O cheiro gostoso do amor solto no ar
+
+[Refrão]
+
+D7       G        A7              F#m7
+ Cadê você, onde foi que se escondeu
+       Bm           Em
+Sem você eu não sou eu
+        A7       D
+Tudo aqui é solidão
+D7       G           A7            F#m7
+ Cadê você, que não vi por onde andei
+       Bm          Em
+Sem você eu me tornei
+     A7         D
+Caçador de corações
+
+[Solo] F#7  Bm  A7  D
+       F#7  Bm  A7  G  A7  D  A7
+
+E|----------------------------------------------------|
+B|----------------------------------------------------|
+G|-----------3---------------4---------------4/6------|
+D|-4-4-4/3-4-------4-4-4/3-4-------4-4-4/3-4----------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|----------------------------------------------------|
+B|-------5-7-7h8-7----7-7-7-8-7-5----5-5-5-7-5-3------|
+G|-4-6-7----------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|----------------------------------------------------|
+B|-0-2-3-3-3-2----3-2-3--2-0-2-3-------3/5-3-2~-------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+[Primeira Parte]
+
+    D               F#7                 Bm
+Ás vezes me pego sozinho pensando em você
+    G                 A7                D  A7
+Me bate a saudade no peito querendo te ver
+    D                 F#7                 Bm
+Eu saio entre a multidão de uma rua qualquer
+    G                 A7                    D  D4 D
+Querendo encontrar o seu rosto em outra mulher
+
+[Pré-Refrão]
+
+     F#7
+Mas nada que eu vejo é igual a você
+     Bm                 Bm/A
+Não sinto nas outras o mesmo prazer
+    E7                                     A4  A7
+Tá sempre faltando uma coisa pra me completar
+    F#7
+Por isso é que eu fico pensando em nós dois
+    Bm              Bm/A
+Do jeito que era durante e depois
+E7                                A7
+O cheiro gostoso do amor solto no ar
+
+[Refrão]
+
+D7       G        A7              F#m7
+ Cadê você, onde foi que se escondeu
+       Bm           Em
+Sem você eu não sou eu
+        A7       D
+Tudo aqui é solidão
+D7       G           A7            F#m7
+ Cadê você, que não vi por onde andei
+       Bm          Em
+Sem você eu me tornei
+     A7         G7   D
+Caçador de corações
+
+----------------- Acordes -----------------
+A4 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D7 = X X 0 2 1 2
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F#7 = 2 4 2 3 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

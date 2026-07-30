@@ -1,0 +1,98 @@
+@titulo: criacao
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - Criação
+
+Intro 2x: Bb9  C/G
+E|----------|
+B|----------|
+G|----------|
+D|---0------|
+A|----3-1--1|
+E|----------|
+
+
+    C/G           Bb9
+Me lembro o dia em que acordei
+   F              C/G
+Ouvindo o som dos pássaros
+    Gm7          F             Bb9      C/G
+E a luz do sol entrando pela janela do quarto
+
+C/G          Bb9
+Como é bom poder saber
+        F             C/G
+Que são obras de Tuas mãos
+     Gm7             F
+E sentir o prazer em te dizer
+
+    Bb9     C/G
+Obrigado Senhor
+
+  G      C/G (Am)     F
+   Minha gratidão te dou Senhor
+  G        C/G (Am)     F
+   Pois em tudo vejo o teu amor
+  G        C/G (Am)        F        C/G
+   Com meu coração quero te dizer
+              Bb9  F
+   Te amo, Senhor
+
+(Intro 4x)
+
+C/G           Bb9
+Me lembro o dia em que acordei
+   F              C/G
+Ouvindo o som dos pássaros
+   Gm7          F             Bb9      C/G
+E a luz do sol entrando pela janela do quarto
+C/G          Bb9
+Como é bom poder sentir
+    F                C/G
+O calor do sol sobre mim
+  Gm7         F                  Bb9    C/G
+E ver a perfeição em tudo o que você criou
+
+(Refrão)
+
+C/G                   Bb9 F   C/G
+ E se um dia eu não puder mais ver
+                  Bb9 F C/G
+A luz do sol brilhando
+                 Bb9 F C/G
+E se a voz não saísse mais dos meus lábios
+C/G      G               F          C/G
+ Meu coração jamais deixará de te dizer
+            Bb9
+Obrigado Senhor
+
+(Refrão)
+
+Solo: C/G  Bb9  F  C/G (2x)
+      C/G  Gm7  F  C/G
+      Gm7  F
+
+C/G      G               F          C/G
+ Meu coração jamais deixará de te dizer
+            Bb9
+Obrigado Senhor
+
+(Refrão 2x)
+
+(Intro)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb9 = X 1 3 3 1 1
+C/G = 3 3 2 X 1 X
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm7 = 3 X 3 3 3 X

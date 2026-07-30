@@ -1,0 +1,98 @@
+@titulo: sinais
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Luan Santana - Sinais
+
+Capo Casa 3
+
+(violão 1)
+Solo Intro:
+Primeira Parte:
+E|-8-----3--------------------------------------------|
+B|---3-----3---6-----5-----3---5----------------------|
+G|-----5-----5---5-5---5-5---5---5--------------------|    (3x)
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|-8-----3------3--3----------------------------------|
+B|---3-----3----6--6----------------------------------|
+G|-----5-----5--5--5----------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+Segunda Parte:
+E|-8-8-8--3-3-3--3-3-3--3-3-3--3-3--3-3---------------|
+B|-3-3-3--3-3-3--6-6-6--5-5-5--3-3--5-5---------------|
+G|-5-5-5--5-5-5--5-5-5--5-5-5--5-5--5-5---------------|     (3x)
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+
+E|-8-8-8--3-3-3--3-3----------------------------------|
+B|-3-3-3--3-3-3--6-6----------------------------------|
+G|-5-5-5--5-5-5--5-5----------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+Primeira Parte:
+A9                       F#m7(11)
+  Vi seu sorriso em meu sonho
+D9                      E
+  Segui seu rastro na areia do deserto
+A9                       F#m7(11)
+  Eu escutei sua voz ao vento
+D9                       E
+  Senti seu cheiro cada vez de mim mais perto
+
+F#m7(11)                E
+  Virei um louco meio obsecado
+     D9
+Pra te encontrar em algum lugar do mundo
+F#m7(11)                 E
+  E mesmo sem nunca ter te tocado
+    D9      Bm           E
+Me pertencia bem lá no fundo
+
+Pré-Refrão:
+   D9                                 F#m7(11)
+Sinais, me mostraram o caminho até você
+                             D9
+Vagalumes guiam-me sem perceber
+                Bm       E
+E no fim da estrada uma luz parece ser você
+
+Refrão:
+   A9          E       F#m7(11)         D9
+Sinais, me ajudaram a perceber o meu caminho é você
+D9/C#  Bm                                           E   D9   E
+E ninguém no mundo vai fazer eu me sentir denovo assim
+
+   A9             E             F#m7(11)            D9
+Sinais, vindos de um lugar tão longe às vezes se encondem
+ D9/C#  Bm                                          E
+No   farol em uma ilha, numa noite tão vazia eu beijei você
+        A9
+Até o amanhecer
+
+(segunda parte solo intro)
+
+----------------- Acordes -----------------
+Capotraste na 3ª casa
+A9*  = X 0 2 2 0 0 - (*C9 na forma de A9)
+Bm*  = X 2 4 4 3 2 - (*Dm na forma de Bm)
+D9*  = X X 0 2 3 0 - (*F9 na forma de D9)
+D9/C#*  = X 4 0 2 3 0 - (*F9/E na forma de D9/C#)
+E*  = 0 2 2 1 0 0 - (*G na forma de E)
+F#m7(11)*  = 2 X 2 2 0 0 - (*Am7(11) na forma de F#m7(11))

@@ -1,0 +1,115 @@
+@titulo: fome-de-ti
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Fome de Ti
+
+(intro 2x)  C D G/B C C9 D C D/F#
+
+E|---10-10------------10-10---------10-10---------------7----------
+B|-8-------8-8/10---8-------8-----8-------8-8/10---8-10---8-8/10---
+G|----------------------------9------------------------------------
+D|-----------------------------------------------------------------
+A|-----------------------------------------------------------------
+E|-----------------------------------------------------------------
+
+G                       D/F#     Em
+ Por um momento em tua presença (aa)
+                      C
+Por um instante do teu amor...
+G                        D/F# Em
+ Por ver a luz da tua glória (aa)
+                    C
+Por um minuto nada mais...
+
+          G               D/F#
+Tudo eu daria, não importaria.
+       Am
+O que tenho que passar
+
+       D              C
+O que tenha que esperar
+
+D            G
+Tenho fome de ti
+          D/F#                Em              C
+Da tua presença, da tua fragrância, do teu poder.
+ D       G
+Fome de ti
+         D/F#            Em      C
+Que desespera por tua gloria senhor.
+  D            G
+Tenho fome de ti
+          D/F#                Em              C
+Da tua presença, da tua fragrância, do teu poder.
+ D      G
+Fome de ti
+       D/F#              Em      C
+Que desespera por tua gloria senhor.
+
+E|-------10-10---------------7----------
+B|-----8-------8-8/10---8-10---8-8/10---
+G|--------------------------------------
+D|--------------------------------------
+A|--------------------------------------
+E|--------------------------------------
+
+G                       D/F#     Em
+ Por um momento em tua presença (aa)
+                       C
+Por um instante do teu amor...
+G                        D/F# Em
+ Por ver a luz da tua glória (aa)
+                    C
+Por um minuto nada mais...
+
+          G               D/F#
+Tudo eu daria, não importaria.
+       Am
+O que tenho que passar
+       D              C
+O que tenha que esperar
+
+D            G
+Tenho fome de ti
+          D/F#                Em              C
+Da tua presença, da tua fragrância, do teu poder.
+ D       G
+Fome de ti
+         D/F#            Em      C
+Que desespera por tua gloria senhor.
+  D            G
+Tenho fome de ti
+          D/F#                Em              C
+Da tua presença, da tua fragrância, do teu poder.
+ D      G
+Fome de ti
+       D/F#              Em      C
+Que desespera por tua gloria senhor.
+
+(ministração) G D/F# Em C
+
+(final)
+E|---10-10------------10-10---------10-10---------------7----------|
+B|-8-------8-8/10---8-------8-----8-------8-8/10---8-10---8-8/10---|
+G|----------------------------9------------------------------------|
+D|-----------------------------------------------------------------|
+A|-----------------------------------------------------------------|
+E|-----------------------------------------------------------------|
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

@@ -1,0 +1,51 @@
+@titulo: com-voce
+@autor:
+@intérprete: Detonautas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Detonautas - Com Você
+
+A
+Com você vou aonde for
+         D F#m        D
+Sinto no ar,    deixo rolar
+   E   A
+A cor do meu céu não é mais azul
+          D F#m              D
+Com seu olhar      longe do meu
+ E    F#m               A
+Amor, quem me dera ter um segundo
+ F°         F#m
+pra não te perder
+  Db/F D Dm
+Só você
+ F#m                        A
+me desperta a intenção
+           F°                    F#m
+de pra sempre te querer
+  Db/F  D  Dm
+ Só você
+A           F
+Vou além do céu
+
+            D/F#
+E posso me perder
+            F                      A
+Aonde você for eu vou estar com você
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Db/F = X 8 X 6 9 9
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2

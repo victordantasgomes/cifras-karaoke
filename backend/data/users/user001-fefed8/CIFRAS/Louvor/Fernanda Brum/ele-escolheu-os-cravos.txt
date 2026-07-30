@@ -1,0 +1,74 @@
+@titulo: ele-escolheu-os-cravos
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Ele Escolheu Os Cravos
+
+Intro:  G  A
+
+A9               E
+O que levaria um Pai
+       Bm         D                 E4    E D/F#  E/G#
+A entregar e dar a vida do Teu próprio filho
+A9               E
+O que levaria um filho
+   Bm          D                 E4   E
+A obedecer seu Pai se entregando a morte
+Bm           F#m      E                 Bm
+Mesmo sendo Deus se doou da cruz nao fugiu
+        D          E                     A
+Ele me amou de tal maneira que escolheu os cravos
+
+                D         E         Bm    E   A
+A mão que segurou o martelo, era a mão de Deus
+                 D              E         Bm   E    A
+Os cravos que feriram o seu corpo, eram meus e seus
+                D         E         Bm    E    A
+A mão que segurou o martelo, era a mão de Deus
+
+                 D              E              G   (intro) (repete tudo)
+Os cravos que feriram o seu corpo, eram meus e seus
+
+                D       E           Bm  E   A
+A mão que segurou o martelo, era a mão de Deus
+                D            E            Bm    E     B
+Os cravos que feriram o seu corpo, eram meus e seus
+                E          F#          C#m  F#   B
+A mão que segurou o martelo, era a mão de Deus
+                E              F#       C#m     F#
+Os cravos que feriram o seu corpo, eram meus e seus
+
+Solo: G#  G#  C#m  G#   E   F#   F#    B
+
+                E          F#          C#m  F#   B
+A mão que segurou o martelo, era a mão de Deus
+                E              F#       C#m     F#    B/D#
+Os cravos que feriram o seu corpo, eram meus e seus
+                E          F#          C#m  F#   B/D#
+A mão que segurou o martelo, era a mão de Deus
+                E              F#       C#m     F#
+Os cravos que feriram o seu corpo, eram meus e seus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

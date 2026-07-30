@@ -1,0 +1,82 @@
+@titulo: sono-profundo
+@autor:
+@intérprete: Fresno
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Fresno - Sono Profundo
+
+Intro: D F#m G Em A
+
+e|--6-6-6-6-6-6-6-6-6-| 
+B|-4-4-4-4-4-4-4-4-4--| 
+
+e|------------------------------------10-11----|      
+B|-----11------13-11-9--9-8-9-11---11-------11-|  Teclado 
+G|-8-8----8-8--------------------8-------------|
+D|--8------8-----------------------------------| 
+
+    D
+E agora que você compôs essa canção
+   F#m
+Esvaziou o ódio do seu coração
+ G              Em                      A
+Viu que não é assim que você vai parar de chorar?
+
+          D
+E os teus olhos que não podem nem mais se fechar
+
+    F#m
+Se toda vez que fecham te fazem lembrar
+   G                    Em                        A
+Memórias que a mente insiste em guardar pra te fazer chorar
+
+ Bm   A     G A
+Pare de chorar
+           D        D/C#
+Feche seus olhos e durma
+Bm   A     G      Em          A
+  E vá sonhar no seu sono profundo
+
+ D                        G
+Você sem querer mais acordar
+         Em          A           D
+Quer um sonho que você nunca sonhou
+                           G
+E uma razão pra voltar a amar
+   Em          A      D
+Aquele que nunca te amou
+
+       D
+Então deixa eu cantar
+     Bm
+Pra você dormir
+   G
+E nunca mais acordar
+    Em        A
+Do sonho que eu fiz pra ti
+
+ D
+Deixa eu cantar
+     Bm
+Pra você dormir
+   G
+E nunca mais acordar
+    Em        A
+Do sonho que eu fiz pra ti
+
+(D F#m G Em A)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/C# = X 4 0 2 3 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

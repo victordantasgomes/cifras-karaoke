@@ -1,0 +1,81 @@
+@titulo: chora-viola
+@autor:
+@intérprete: Tião Carreiro e Pardinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Tião Carreiro e Pardinho - Chora Viola
+
+[Intro]
+
+E|---4/10---10---9----7---000---10---10---9----7-----000----|
+B|---5/12---12---10---9---000---12---12---10---9-----000----|
+G|------------------------000------------------------000----|
+D|------------------------000------------------------000----|
+A|------------------------000------------------------000----|
+E|----------------------------------------------------------|
+
+E|----------------------000---------------------------------|
+B|----------------------000-----------------------0---------|
+G|---3---3---1---0------000---3---3---1---0------------6----|
+D|---4---4---2---0------000---4---4---2---0------0--4-----4-|
+A|----------------------000-----------------------5---------|
+E|----------------------------------------------------------|
+
+E|--------------------------------------------------------------|
+B|-----0-------------0----------------0-------------0-----------|
+G|---------------------------6------------------------------6---|
+D|----------2p0---------0--4---4-----------2p0---------0--4---4-|
+A|---0---4------2h4--5--------------0---4------2h4--5-----------|
+E|--------------------------------------------------------------|
+
+
+E|-------------------------0--0--0-----0--0--0------------------|
+B|-----0---0---0---0--0----0--0--0-----0--0--0------------------|
+G|-------------------------6--6--6-----6--6--6------------------|
+D|---------2---4---2-/4----4--4--4-----4--4--4------------------|
+A|-----0---4---2---4-/5----5--5--5-----5--5--5------------------|
+E|--------------------------------------------------------------|
+
+E7
+Eu não caio do cavalo  nem do burro e nem do galho
+Ganho dinheiro cantando a viola é meu trabalho
+                   A                      B7   A  B7
+No lugar onde tem seca eu de sede lá não caio
+                 E                      B7      E
+Levanto de madrugada e bebo pingo de orvalho  chora viola !
+
+ E7
+Não como gato por lebre  não compro cipó por laço
+Eu não durmo de botina  não dou beijo sem abraço
+                    A                       B7  A  B7
+Fiz um ponto lá na mata caprichei e dei um nó
+                 E                   B7   E
+Meus amigos eu ajudo  inimigo tenho dó  chora viola !
+
+E7
+A lua é dona da noite e o sol é dono do dia
+Admiro as mulheres que gostam de cantoria
+                      A                            B7    A  B7
+Mato a onça e bebo o sangue  furo a terra e tiro o ouro
+                    E                    B7         E
+Quem sabe agüentar saudade  não agüenta desaforo  chora viola !
+
+E7
+Eu ando de pé no chão  piso por cima da brasa
+Quem não gosta de viola que não ponha o pé lá em casa
+                A                      B7   A  B7
+A viola está tinindo o cantador tá de pé
+                    E                       B7   E
+Quem não gosta de viola  brasileiro bom não é  chora viola !
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0

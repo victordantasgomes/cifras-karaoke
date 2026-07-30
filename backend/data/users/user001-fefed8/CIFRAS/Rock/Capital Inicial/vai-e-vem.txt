@@ -1,0 +1,122 @@
+@titulo: vai-e-vem
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Vai e Vem
+
+Intro: G
+
+G                               C9
+Nem sempre o céu sorri pra mim
+                  D9
+Nem sempre eu sou tão livre assim
+G                       C9
+Quem não pensa em parar
+         D9
+Quem não pensa em fugir
+
+Em             C
+        Sem destino
+Em             C
+        Dá vontade de sair
+Em             C
+        Sem destino
+Em             C
+        Sem saber aonde ir
+
+G          C9     D9
+Para onde vai o tempo
+
+G          C9     D9
+Para onde vão os sonhos
+Em        C               Em
+Pra onde foi o que eu sentia
+     C
+De repente
+Em     C        Em
+Tudo muda sem aviso
+     C
+De repente
+
+                  C
+A vida é um vai e vem
+G/B        Am
+Nada é pra sempre
+G                 C
+A vida é um vai e vem
+G/B        Am
+Nada é pra sempre
+G                 C
+A vida é um vai e vem
+G/B        Am   G
+Nada é pra sempre
+G                 C     G/B     Em  G/F#  G
+A vida é um vai e vem
+
+G                     C9
+Quanto mais parece o fim
+          D9
+Quanto mais ninguém diz sim
+G                 C9
+Mas nunca me ensinaram
+        D9
+E eu nunca aprendi
+
+Em              C
+        Mesmo assim
+Em              C          Em
+        Mesmo assim sobrevivi
+        C
+Mesmo assim
+Em
+Eu ainda estou aqui
+
+G                    C9   D9
+De vez em quando me sinto bem
+G                    C9   D9
+De vez em quando me sinto mal
+Em        C               Em
+De vez em quando tudo igual
+     C
+De repente
+Em     C        Em
+Tudo muda sem aviso
+     C
+De repente
+
+                  C
+A vida é um vai e vem
+G/B        Am
+Nada é pra sempre
+G                 C
+A vida é um vai e vem
+G/B        Am
+Nada é pra sempre
+                  C
+A vida é um vai e vem
+G/B        Am
+Nada é pra sempre
+G                 C
+A vida é um vai e vem
+G/B        Am
+Nada é pra sempre
+G                 C     G/B     Em  G/F#  G
+A vida é um vai e vem
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+Am*  = X 0 2 2 1 0 - (*A#m na forma de Am)
+C*  = X 3 2 0 1 0 - (*C# na forma de C)
+C9*  = X 3 5 5 3 3 - (*C#9 na forma de C9)
+D9*  = X X 0 2 3 0 - (*D#9 na forma de D9)
+Em*  = 0 2 2 0 0 0 - (*Fm na forma de Em)
+G*  = 3 2 0 0 0 3 - (*G# na forma de G)
+G/B*  = X 2 0 0 3 3 - (*G#/C na forma de G/B)
+G/F#*  = X X 4 4 3 3 - (*G#/G na forma de G/F#)

@@ -1,0 +1,50 @@
+@titulo: a-felicidade-e
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - A Felicidade É...
+
+(intro) C   G   C   G   Am   G   Am    G   F   G
+
+ C        G            C
+De manhã me lembro de você
+          G                 Am
+Não tem jeito nenhum de esquecer
+          G                   Am
+Dos teus olhos, teu jeito, tua voz
+         G            F
+Do amor que habita em nós
+  F                 Am
+Deus me fez pra te amar
+   G
+Eu sei...
+F                G
+que a felicidade é...
+ C        G            C
+Hoje eu quero poder construir
+      G                  Am
+Um Castelo de sonhos pra nós
+          G             Am
+Pra que agente pudesse fugir
+
+       G               F
+Com o nosso tesouro a sós
+ F                        Am
+Sei que Deus fez você pra mim
+     G
+Sei sim...
+F                G
+Que a felicidade é...
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

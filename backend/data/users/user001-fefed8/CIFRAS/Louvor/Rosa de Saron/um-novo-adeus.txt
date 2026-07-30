@@ -1,0 +1,81 @@
+@titulo: um-novo-adeus
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Um Novo Adeus
+
+Intro: D  F#m
+
+           D9
+Passa os dias
+                      F#m
+e olho sempre em minha janela
+         D9
+E eu conto
+                            F#m
+cada hora pra que Você volte aqui
+         D9
+enquanto isso,
+                    F#m
+eu aceito a minha sentença
+         D9
+E peço a Deus
+                            F#m
+que venha aqui e ajude a me recompor
+
+Refrão:
+D9               Em7
+Vem me abraçar depressa
+
+               G
+Nesse doce reencontro
+D                     Em7
+Sente aqui bem ao meu lado
+                 G
+E me conte uma história
+    Bb            C     D         (D D11)
+Que logo chega um novo adeus
+
+( D9  F#m )
+Aqui dentro
+Tudo está do jeito que Você deixou
+O mesmo jeito
+Que me ensinou a Te esperar,
+Mas minha vida
+Corre com tanta pressa lá fora
+Fotos passadas
+Retratam toda a Sua ausência
+
+(Refrão)
+
+D
+nanananá...
+nanananá...
+nanananá...
+
+D                                 F#m                    D
+E quando ouço o barulho da porta, eu sinto a casa iluminar...
+                           F#m                           D
+E quando ouço o barulho da porta, eu sinto a casa iluminar ...
+                          F#m                            D    F#m
+e quando ouço o barulho da porta, eu sinto a vida iluminar...
+
+
+(refrão)
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D11 = X 5 4 0 3 5
+D9 = X X 0 2 3 0
+Em7 = 0 2 2 0 3 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

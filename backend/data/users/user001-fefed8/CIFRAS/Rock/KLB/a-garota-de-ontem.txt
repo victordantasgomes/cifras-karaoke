@@ -1,0 +1,89 @@
+@titulo: a-garota-de-ontem
+@autor:
+@intérprete: KLB
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+KLB - A Garota de Ontem
+
+Capo Casa 5
+
+(intro) G C D/F# G   D
+
+(riff)
+E|-------------------------------------
+B|-------------------------------------
+G|-------------------------------------
+D|---5-4-2-0--5-----0-4--4-4-2-4-4/5---
+A|-------------------------------------
+E|-------------------------------------
+
+   G                           C
+Adeus é sempre triste, quando um se vai
+   D/F#                   G          D
+Aquele que ficar sozinho vai chorar
+  G                           C
+Ele levou seus sonhos mas deixou alguém
+    G        D/F#                G   D
+A garota de ontem hoje é de ninguém
+ G                       C
+Ele cruzou o céu e foi pra outro lugar
+   D/F#                    G          D
+E ela sempre procurando aquele olhar
+     G                                  C
+Tão perto e agora, assim, tão longe, só a saudade vem
+    G        D/F#                G
+A garota de ontem hoje é de ninguém
+
+    D/F#
+She doesn't know what's right
+    C                   G
+She doesn't know what's wrong
+                   D/F#                   C              D/F#
+She only knows the pain that comes from waiting for so long
+        C                 G
+And she doesn't count the teardrops
+           C                G
+That she's cried while he's away
+   C        D/F#        C      G
+Because she knows deep in her heart
+       Am              D/F#
+That he'll be back someday
+
+( G C G D G     E )
+
+(solo)
+E|-----------------------------------------------------------------------------------------
+B|-----------------------------------------------------------------------------------------
+G|--4-5/7--7/9^--7-------------------------------------------------------------------------
+D|------------------10--9-9----5-6^--5-5----2-0-----2-----2-0-----5-5----0-4--4-4-2-4--4/5-
+A|------------------------------------------------3----------------------------------------
+E|-----------------------------------------------------------------------------------------
+
+ A                           D
+Mas, quem sabe, amanhã ao tocar o telefone
+E                    A             E
+Ela volte a ouvir a voz daquele homem
+    A                                D
+She dreams of his returnig and the things that he might say
+    A        E                   A   A7 D
+A garota de ontem hoje é de ninguém
+              A            E              D     Dm E A
+Yeah, she'll always be the girl from yesterday...
+
+----------------- Acordes -----------------
+Capotraste na 5ª casa
+A*  = X 0 2 2 2 0 - (*D na forma de A)
+A7*  = X 0 2 0 2 0 - (*D7 na forma de A7)
+Am*  = X 0 2 2 1 0 - (*Dm na forma de Am)
+C*  = X 3 2 0 1 0 - (*F na forma de C)
+D*  = X X 0 2 3 2 - (*G na forma de D)
+D/F#*  = 2 X 0 2 3 2 - (*G/B na forma de D/F#)
+Dm*  = X X 0 2 3 1 - (*Gm na forma de Dm)
+E*  = 0 2 2 1 0 0 - (*A na forma de E)
+G*  = 3 2 0 0 0 3 - (*C na forma de G)

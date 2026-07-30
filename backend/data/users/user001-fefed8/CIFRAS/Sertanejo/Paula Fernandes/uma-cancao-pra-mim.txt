@@ -1,0 +1,71 @@
+@titulo: uma-cancao-pra-mim
+@autor:
+@intérprete: Paula Fernandes
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Paula Fernandes - Uma Canção Pra Mim
+
+Capo Casa 3
+
+Intro: G C9
+
+G         C9
+Aqui, sozinha
+G                                C9
+Eu que sempre tive medo de um dia ficar só
+G         C9
+Aqui, minh'alma
+G                             C9
+Calada pelo tempo que eu perdi o tempo só
+Em7  D4/F#     G
+Aqui, tão calma
+Em7                  D4/F#       G
+Eu que a vida inteira tive medo de pirar
+Em7  D4/F#     G
+Aqui, tão minha
+Em7                D4/F#             C9
+Eu que muitas vezes me entreguei sem me amar
+
+refrão:
+
+
+G                            C9
+Há tempos se esperava um sorriso ou um carinho meu
+Em7
+Olhar pra dentro e me assumir
+D4/F#
+Dizer pra mim essa sou eu
+G                          C9
+Há tempos se esperava um momento de ficar assim
+Em7
+Olhar bem fundo e permitir
+D4/F#
+Meu coração olhar pra mim
+
+(repete tudo)
+
+    Am               C            Em7           D4/F#
+Há tempos que eu me nego essa coragem de me revelar
+    G             D4/F#           Em7           D4/F#
+Há tempos que eu desejo muito mais do que me apaixonar
+    Am               C            Em7           D4/F#
+Há tempos que eu caminho em linha reta sem poder parar
+     C9                         D4/F#
+Há tempos que eu não paro pra pensar
+     C9             D4/F#          G
+Há tempos que eu tô louca pra me amar
+
+----------------- Acordes -----------------
+Capotraste na 3ª casa
+Am*  = X 0 2 2 1 0 - (*Cm na forma de Am)
+C*  = X 3 2 0 1 0 - (*D# na forma de C)
+C9*  = X 3 5 5 3 3 - (*D#9 na forma de C9)
+D4/F#*  = 2 X X 2 3 3 - (*F4/A na forma de D4/F#)
+Em7*  = 0 2 2 0 3 0 - (*Gm7 na forma de Em7)
+G*  = 3 2 0 0 0 3 - (*A# na forma de G)

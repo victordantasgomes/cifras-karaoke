@@ -1,0 +1,87 @@
+@titulo: 1000-coracoes
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - 1000 Corações
+
+Intro: G C G/B D G C Em D4 D
+E|--2-3-5-3----------------|--2-3-5-3-----------------|
+B|----------3--------------|----------3--------3/5-3--|
+G|------------4--4/5--4-2--|------------4-4/5---------|
+D|-------------------------|--------------------------|
+A|-------------------------|--------------------------|
+E|-------------------------|--------------------------|
+
+    G                   Bm7        Em   G7/4(9) G
+Já faz tanto tempo que saí da sua vida
+  C                G/B             D    Em7  D/F# D7
+Sei o quanto eu errei, e foi por isso que parti
+     G                       Bm7      Em    G7/4(9) G
+O mundo aqui de fora não me deu outra saída
+          C         G/B        Am7                   D4   D
+Você não sai do pensamento, e hoje sei o tempo que perdi
+  G                 Am7         Em             C  D
+Mas confesso que eu tenho tanto medo de voltar
+Em                   D/F#           G            C
+Medo de encontrar alguém que está toman...do o meu lugar
+     Am                         Em
+Não sei se ainda quer que eu volte
+
+      C                  D          C                   Em
+É um risco que eu vou correr, se quer me dar mais uma chance
+      D4                D
+Um pedido eu quero te fazer
+            G       C           D                G
+Se ainda me ama, desenhe um coração com o meu nome
+    C          D       C      G        C                    D
+E deixe no portão se ainda me ama...a...a......a....a....a...a
+
+(Solo)
+
+       G          Bm7              Em        G7/4(9)  G
+Hoje sou um prisioneiro do que eu mesmo fiz
+    C                G/B            D7/4        Em7   D/F#  D7
+A porta da prisão fechada, e eu não via a hora de     sair
+   G                  Bm7             Em       G7/4(9) G
+Agora está em suas mãos, a chave que eu perdi
+C                 G/B   Am7         D4  D
+É um simples coração desenhado que pedi
+   G            Am7             Em
+Eu mal podia esperar a hora de chegar
+                 C      D           Em          D/F#
+E assim poder te ver..........Mas quanto mais chegava perto
+               G                 C           Am
+Não sabia ao certo o que ia acontecer, de repente, eu vi de
+  Em          C                  D
+Longe alguma coisa que me fez chorar
+      C              Em                D4        D
+A surpresa foi tão grande, que eu não pude acreditar
+         G       C           D               G
+Mil corações, deixados no portão com o meu nome
+    C          D
+Escrito com Batom
+C       G                                   C                      D
+Mil coraçõ.......õ........õ..........õ.......õ..........õ.......õ...ões
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+D7 = X X 0 2 1 2
+D7/4 = X X 0 2 1 3
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7/4(9) = 3 X 3 2 1 X

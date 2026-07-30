@@ -1,0 +1,102 @@
+@titulo: duas-metades(simplificada)
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Duas Metades
+
+[Intro] C9  G/B  D  G/B  C9  D
+
+E|---------------------------------------------------|
+B|---------------------------------------------------|
+G|-2h4-5--4--2----0-2-4---2--0-----------------------|
+D|------------------------------4---2---4-5----------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+[Primeira Parte]
+
+  G                      C9
+Pra falar do amor de verdade
+     G                     C9
+Vou começar pela melhor metade
+ Am                         C9
+Te mostrar tudo de bom que tenho
+Am                     C9
+E se for preciso eu desenho
+         G
+Que eu amo você
+
+         D
+Que eu quero você
+
+G                   C9
+A outra metade é defeito
+ G                          C9
+Você vai saber de qualquer jeito
+        G             D
+Anjo ou animal, suave ou fatal
+
+[Segunda Parte]
+
+Am                                C9
+O que de um grande amor     se espera
+       C9        Am
+É que tenha     fogo
+
+Que domine o pensamento
+c9          D
+E traga sentido novo
+
+  G           D
+Que tenha paixão, desejo
+  Em         C9
+Que tenha abraço e beijo
+Am                    C9  D
+E seja a melhor sensação
+      G           D
+Que preencha a vida vazia
+ Em            C9
+Mande embora a agonia
+Am                       C9
+E que traga paz pro coração
+
+[Refrão]
+
+     G G5(7M) G5(6) G5(7M)
+É você
+     G G5(7M) C9
+É você
+      G           D
+Que preenche a vida vazia
+ Em            C9
+Manda embora a agonia
+Am                        C9
+E que trouxe paz pro coração
+      G           D
+Que preenche a vida vazia
+ Em            C9
+Manda embora a agonia
+Am                       C9  D
+E que é dona do meu coração
+
+     G G5(7M) G5(6) G5(7M)
+É você
+     G G5(7M) C9
+É você
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G5(6) = 3 X 2 0 3 X
+G5(7M) = 3 X 4 0 3 X

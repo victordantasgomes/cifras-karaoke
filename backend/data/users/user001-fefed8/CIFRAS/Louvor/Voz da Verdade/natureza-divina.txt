@@ -1,0 +1,38 @@
+@titulo: natureza-divina
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Natureza Divina
+
+Introdução: Gm A# D Gm
+
+     Gm              A#
+Mas que beleza a natureza
+   D             Gm
+De Jesus meu Criador
+     Gm          A#
+Que beleza a natureza
+    D             Gm
+De Jesus meu Criador
+     Cm         Gm
+Ele gerou sua semente em mim
+       D                    Gm
+Agora sou produto do seu jardim
+        Cm              G
+Eu crescerei darei os frutos
+            D          Gm
+Pela eternidade sem fim
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

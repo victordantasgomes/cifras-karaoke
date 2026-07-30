@@ -1,0 +1,48 @@
+@titulo: renova-me
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Renova-me
+
+[Intro] D  G  A
+        Bm  A  G  A
+        D  G  A
+        Bm  A  G  A
+
+ D     G    A      Bm ( Bm/A )
+Renova-me, Senhor Jesus
+G      D           A
+Já não quero ser igual
+D      G     A      Bm  ( Bm/A )
+Renova-me Senhor Jesus
+G      D            A
+Põe em mim Teu coração
+
+[Refrão]
+
+         D       A    Bm      F#m
+Por que tudo que há dentro de mim
+G   Em           G      A7
+Precisa ser mudado Senhor
+        D       A            Bm      F#m
+Porque tudo que há dentro do meu coração
+
+G       A      D
+Precisa mais de Ti
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

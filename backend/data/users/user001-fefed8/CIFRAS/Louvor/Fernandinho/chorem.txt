@@ -1,0 +1,89 @@
+@titulo: chorem
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Chorem
+
+Intro: F Am
+
+      F                          Am
+E|-----------------------------------|
+B|-10----8----10----8----10----8-----|
+G|----10---10----10---10----10---9---|
+D|-----------------------------------|
+A|-----------------------------------|
+E|-----------------------------------|
+
+     F
+E|-----------------------------------|
+B|-10----8----10----8----10----8-----|
+G|----10---10----10---10-------------|
+D|-----------------------------------|
+A|-----------------------------------|
+E|-----------------------------------|
+
+          F       Am
+Livra Teu povo  Senhor
+          F            Am
+Livra Teu povo  Pai de Amor
+
+   G              Am                   G      Em
+Não deixes cair a vergonha sobre a Tua igreja
+
+         F          Am
+Secou a alegria dos homens
+          F          Am
+Se foi o alimento da terra
+G         Am              G     Em
+Volta e restitui ó Pai de Amor!
+
+            Am  F      G
+Chorem os ministros de Deus
+        Am    F     G
+Os sacerdotes do Senhor
+Dm                  Am
+Toca a trombeta em Sião
+              F           G
+Daí voz de jejum e de orações
+
+(ministração) Am  F  G  Em  - 3x
+              Dm  F  G
+
+             Am F      G
+Chorem os ministros de Deus
+        Am    F     G
+Os sacerdotes do Senhor
+Dm                  Am
+Toca a trombeta em Sião
+              F          G
+Daí voz de jejum e de orações
+
+(Solo Final) F Am F Am F
+
+E|-----------------------------------|
+B|-10----8----10----8----10----8-----| (2x)
+G|----10---10----10---10----10---9---|
+D|-----------------------------------|
+A|-----------------------------------|
+E|-----------------------------------|
+
+E|-----------------------------------|
+B|-10----8----10----8----10----8-----| (2x)
+G|----10---10----10---10----10-------|
+D|-----------------------------------|
+A|-----------------------------------|
+E|-----------------------------------|
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

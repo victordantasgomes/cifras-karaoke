@@ -1,0 +1,167 @@
+@titulo: festa
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Festa
+
+Intro: ::  D/A  A  :  Am   G/A   Am   D/A  :    D/A    A    :   F/A   G/A   :
+       :   D/A  A  :  Am   G/A   Am   D/A  :    F/A    G/A  :   A    G/A    ::
+
+
+A                   A/C#
+ESTE É UM TEMPO DE FESTA
+
+D                A/C#
+ESTE É UM TEMPO DE LOUVOR
+
+    Bm7        D/E                 A          D/F#
+PRÁ CELEBRAR AQUELE QUE PRIMEIRO NOS AMOU
+
+E/G#     A                   G/A
+TRANSFORMOU NOSSO CHORO EM RISO
+
+    D                 C#m7  F#m7
+NOS DEU NOVAS VESTES DE LOUVOR
+
+    G2   D/F#  D/E                 A
+PRÁ CELEBRAR AQUELE QUE PRIMEIRO NOS AMOU
+
+
+    E F#m7                 C#m7
+NOS TIROU DO IMPÉRIO DAS TREVAS
+
+      D             D/E
+E NOS DEU PERDÃO E PAZ
+
+C#7(9b)  Fdim    F#m7           C#m7
+AR  -    RAN -   COU TODAS AS FERIDAS
+
+           Bm7
+NOS FEZ FELIZES DEMAIS
+
+
+Asus A     D/F#   F#m7
+FESTA  ALEGRIA
+
+      D           E/D
+É UMA DANÇA DE CELEBRAÇÃO
+
+   D/F#    F#m7        D/E        F#m7/E
+AO Ú   -   NI  -  CO   DIG   -   NO
+
+
+  Bm7  D                  Esus    E/G#
+JESUS.      SEU NOME É JESUS
+
+
+Asus A    D/F#   F#m7
+FESTA ALEGRIA
+
+     D              E/D
+É UM POVO QUE SE REÚNE AQUI
+
+     D/F#   F#m7       D/E     F#m7/E
+DI - AN  -  TE   DO   TRO  -  NO
+
+   Bm7    D             Esus    E    [STOP]
+DO REI,     DO REI DOS REIS
+
+              A              ...
+SEU NOME É JESUS
+
+
+                A                    D2/A
+CANTAMOS DE ALEGRIA          Ô  Ô  Ô ...
+
+                A          A/C#        D2        [STOP]
+DANÇAMOS DE ALEGRIA          Ô  Ô  Ô ...
+
+               B                     E2/B
+PULAMOS DE ALEGRIA           Ô  Ô  Ô ...
+
+                B          B/D#         E2
+GRITAMOS DE ALEGRIA          Ô  Ô  Ô ...
+
+
+Bsus B     E/G#    G#m7
+FESTA  ALEGRIA
+
+      E           F#/E
+É UMA DANÇA DE CELEBRAÇÃO
+
+   E/G#     G#m7        E/F#       G#m7/F#
+AO Ú   -   NI  -  CO   DIG   -   NO
+
+   C#m7   E               F#sus      F#/A#
+JESUS.      SEU NOME É JESUS
+
+
+Bsus B    E/G#    G#m7
+FESTA ALEGRIA
+
+     E             F#/E
+É UM POVO QUE SE REÚNE AQUI
+
+      E/G#   G#m7      E/F#    G#m7/F#
+DI - AN  -  TE   DO   TRO  -  NO
+
+   C#m7    E            F#sus    F#    [STOP]
+DO REI,     DO REI DOS REIS
+
+                B                    E2/B
+CANTAMOS DE ALEGRIA          Ô  Ô  Ô ...
+
+                B          B/D#        E2
+DANÇAMOS DE ALEGRIA          Ô  Ô  Ô ...
+
+               B                      E2/B
+PULAMOS DE ALEGRIA            Ô  Ô  Ô ...
+
+                B          B/D#         E2
+GRITAMOS DE ALEGRIA          Ô  Ô  Ô ...
+
+[STOP]          B
+SEU NOME É JESUS
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+Asus = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+Bm7 = X 2 4 2 3 2
+Bsus = X 2 4 4 4 2
+C#7(9b) = X 4 3 4 3 X
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+D2 = X X 0 2 3 0
+D2/A = X 0 X 2 3 0
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E/F# = X X 4 4 5 4
+E/G# = 4 X 2 4 5 X
+E2 = 0 2 4 1 0 0
+Esus = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#/E = X X 2 3 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7/E = X X 2 2 5 2
+F#sus = 2 4 4 3 2 2
+F/A = 5 X 3 5 6 X
+Fdim = X X 3 4 3 4
+G#m7 = 4 X 4 4 4 X
+G#m7/F# = X X 4 4 7 4
+G/A = 5 X 5 4 3 X
+G2 = 3 X 0 2 0 X

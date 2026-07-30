@@ -1,0 +1,57 @@
+@titulo: como-a-corca
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Como a Corça
+
+     A                C7M     Bm
+Como a corça suspira pelas águas
+              C/E     G
+Por Ti Senhor suspirou eu
+            C7M  D/F#        G
+Minha alma busca os teus átrios
+           C/E      D7   G
+Meu espírito quer Te adorar
+   C               D/F#    Em
+Tu Senhor fonte de água viva
+               C              D7   G    C  G  C  D  E
+No meu ser faz meu rio transbordar
+
+    A                  Em
+O Senhor é a minha força
+        F#m     C#m
+E a minha salvação
+        D               A
+Fortaleza da minha vida
+         E           A
+Meu escudo e proteção
+
+F#m C#m  C#  F#m
+Jesus          Jesus
+       D          A    D
+Fortaleza da minha vida
+            E      A
+Meu escudo e proteção
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+C/E = 0 3 2 0 1 0
+C7M = X 3 2 0 0 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

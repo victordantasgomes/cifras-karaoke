@@ -1,0 +1,33 @@
+@titulo: deixa-o-rio-fluir
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Deixa o Rio Fluir
+
+          E    E7+          E    E7+       E     E7+        E    E7+
+Que o perdido diga "nele achado sou”  e o pobre diga "nele rico sou”
+A9                E   E7+  E  E7+
+   deixa o rio fluir
+       E    E7+        E     E7+      E     E7+        E    E7+
+Que o cego diga "nele posso ver” e o morto diga "nele vida posso ter”
+A9                E   E7+  E  E7+    A9               B
+   deixa o rio fluir                   deixa o rio fluir
+   E             B    A             B
+  deixa o rio fluir  deixa o rio fluir
+E                 B       A         B            F#m7     E E7+ E E7+
+  santo espírito venha mover com poder  deixa o rio  fluir
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+E = 0 2 2 1 0 0
+E7+ = X X 2 4 4 4
+F#m7 = 2 X 2 2 2 X

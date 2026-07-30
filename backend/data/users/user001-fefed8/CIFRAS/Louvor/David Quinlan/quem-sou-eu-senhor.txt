@@ -1,0 +1,61 @@
+@titulo: quem-sou-eu-senhor
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Quem Sou Eu Senhor?
+
+C
+    Quem sou eu, senhor?
+ D
+    Quem sou eu?
+C
+    Um filho de Homem
+        D
+    Pra que me visites
+ Em7
+    Fizeste me por um pouco
+ C
+    Menor do que os anjos
+ Am         G                D/F#
+    Com a Tua Glória  Tens me coroado {2x}
+
+    Em          D/F#      G
+E hoje dentro em meu coração
+     Am           C
+Eu pergunto, Senhor
+          G/B     Am             D/F#
+O que posso fazer para Te Servir Melhor?
+
+   Em7          D/F#         G
+E toda glória que Tu me destes,
+         A    C
+Eu devolvo a Ti
+        G/B            D
+Me rendendo aos Teus Pés!
+
+ G                   C
+Rei sobre todos os Reis
+ Am        G           D/F#
+Senhor sobre todos os Anjos
+ G                     C
+Tu Reinas sobre as Nações
+ Am        G       D
+Glorioso Filho do Homem!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

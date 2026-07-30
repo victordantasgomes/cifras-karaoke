@@ -1,0 +1,108 @@
+@titulo: quatro-estacoes
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Quatro Estações
+
+Intro: F G A G A A Bb C D C Bb A G F G
+
+F               C
+Flores de Maio, Sol de Verão
+Cm                   F/A              Bb
+ A primavera está chegando é o fim da solidão
+     Gm                       Gm/F             C
+O pardal encontrou casa e andorinha ninho para si
+  Bb
+E eu os teus altares
+
+F              C
+Nuvens e raios sobre o Sertão
+Cm                 F/A               Bb
+ Avisa lá que está chovendo é o fim da sequidão
+  Gm                    Bb          C
+Diz ainda que a gente conseguiu sobreviver à dor
+  Bb
+E Deus mandou a chuva
+
+F               F/C    Cm    F          Bb
+ Primavera e verão,  no outono ou no inverno então...
+
+Gm    Gm/F          C
+o Senhor é meu Pastor
+F           F/C        Cm     F/A     Bb
+ Na alegria e na dor, eu confio em Ti Senhor
+Gm      Gm/F      C
+Nada vai me separar do Teu amor
+
+E|--------------------8------------------------------------
+B|--------6--8--8/10-----6/8--6--6/8--6-----8/10--6--8--6--
+G|--5--7---------------------------------7-----------------
+D|---------------------------------------------------------
+A|---------------------------------------------------------
+E|---------------------------------------------------------
+
+E|-----------------|-----5--6--6/8--6--5--------8/12--8----
+B|-----6--6--------|--6-------------------7--6-------------
+G|--7--------7--5--|---------------------------------------
+D|-----------------|---------------------------------------
+A|-----------------|---------------------------------------
+E|-----------------|---------------------------------------
+
+E|--10------------8--------------|-------------------------
+B|------8------8-----8--6--8--6--|-----6--6----------------
+G|---------10--------------------|--7--------7--5--7--5----
+D|-------------------------------|-------------------------
+A|-------------------------------|-------------------------
+E|-------------------------------|-------------------------
+
+E|--------------------------8------13--15--10--|
+B|---------------------6/8-----13--------------|
+G|---------------5--7--------------------------|
+D|--7/5--3/5--7--------------------------------|
+A|---------------------------------------------|
+E|---------------------------------------------|
+
+E|--8----------------|
+B|-----8--6----------|
+G|-----------5p7--5--|
+D|-------------------|
+A|-------------------|
+E|-------------------|
+
+F              C
+Nuvens e raios sobre o Sertão
+Cm                 F/A               Bb
+ Avisa lá que está chovendo é o fim da sequidão
+  Gm                    Bb          C
+Diz ainda que a gente conseguiu sobreviver à dor
+  Bb
+E Deus mandou a chuva
+
+F               F/C   Cm    F          Bb
+ Primavera e verão,  no outono ou no inverno então...
+Gm    Gm/F          C
+o Senhor é meu Pastor
+F         F/C        Cm     F/A     Bb
+ Na alegria e na dor, eu confio em Ti Senhor
+Gm      Gm/F      C
+Nada vai me separar do Teu amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F/C = X 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3
+Gm/F = X X 3 3 3 3

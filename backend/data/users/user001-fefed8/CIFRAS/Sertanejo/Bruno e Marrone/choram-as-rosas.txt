@@ -1,0 +1,156 @@
+@titulo: choram-as-rosas
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Choram As Rosas
+
+[Intro] G  D  Em  C9  G  D  Em
+
+   G      D     Em     C9
+E|-3------2------0------3-------------------|
+B|-3------3------0------3-------------------|
+G|-0------2------0------0-------------------|
+D|-0------0------2------2-------------------|
+A|-2--0-2--------2--0-2-3-3-3-3-3-2-0h2p0---|
+E|-3---------3-2-0--------------------------|
+
+   G      D     Em
+E|-3------2------0------2-3-0---------------|
+B|-3------3------0------3-3-3---------------|
+G|-0------2------0------0-0-0---------------|
+D|-0------0------2------0-0-0---------------|
+A|-2--0-2--------2--0-2-3-3-3---------------|
+E|-3---------3-2-0--------------------------|
+
+[Primeira Parte]
+
+G            D/F#
+  Choram as rosas
+
+        C9
+Seu perfume agora
+                  G
+Se transforma em lágrimas
+                    D/F#  C9
+Eu me sinto tão perdi____do
+           G
+Choram as rosas
+
+            D/F#
+Chora minha alma
+         C9                   G
+Como um pássaro de asas machucadas
+                       D/F#  C9
+Nos meus sonhos te procu____ro
+            G
+Chora minha alma
+
+[Dedilhado Primeira Parte]
+
+   G               D/F#
+E|------------------------------------------|
+B|---------3----------------3---------------|
+G|-----0-------0--------2-------2-----------|
+D|---0---0---0---0----0---0---0---0---------|
+A|------------------------------------------|
+E|-3----------------2-----------------------|
+
+   C9               G
+E|------------------------------------------|
+B|---------3----------------3---------------|
+G|-----0-------0--------0-------0-----------|
+D|---2---2---2---2----0---0---0---0---------|
+A|-3----------------------------------------|
+E|------------------3-----------------------|
+
+[Pré-Refrão]
+
+C9                 Em       D
+   Lágrimas que invade meu coração
+C9             G        D
+   Lágrimas palavras da alma
+ C9         Em       D         C9
+Lágrimas a pura linguagem do amor
+
+[Refrão]
+
+G            D
+  Choram as rosas
+Em              C9
+   Porque não quero estar aqui
+G             D
+  Sem seu perfume
+C9               Am      D     G
+   Porque já sei    que te perdi
+                Bm   C9
+E entre outras coi__sas
+              G  D/F#  C9
+Eu choro por ti
+
+[Segunda Parte]
+
+G             D/F#
+  Falta seu cheiro
+        C9                        G
+Que eu sentia quando você me abraçava
+
+Sem teu corpo
+         D/F#
+Sem teu beijo
+C9              G
+   Tudo é sem graça
+
+[Pré-Refrão]
+
+C9                 Em       D
+   Lágrimas que invade meu coração
+C9             G        D
+   Lágrimas palavras da alma
+ C9         Em       D         C9
+Lágrimas a pura linguagem do amor
+
+[Refrão Final]
+
+G            D
+  Choram as rosas
+Em              C9
+   Porque não quero estar aqui
+G             D
+  Sem seu perfume
+C9               Am      D     G
+   Porque já sei    que te perdi
+                Bm   C9
+E entre outras coi__sas
+              G  D  Em  C9
+Eu choro por ti
+
+G            D
+  Choram as rosas
+Em              C9
+   Porque não quero estar aqui
+G             D
+  Sem seu perfume
+C9               Am      D     G
+   Porque já sei    que te perdi
+                Bm   C9
+E entre outras coi__sas
+              G
+Eu choro por ti
+
+( D  Em  C9  G  D  Em )
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C9 = X 3 2 0 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 3 3

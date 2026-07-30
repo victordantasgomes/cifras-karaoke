@@ -1,0 +1,144 @@
+@titulo: voce-vai-de-limusine-eu-vou-de-trem
+@autor:
+@intérprete: Charlie Brown Jr
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Charlie Brown Jr. - Você Vai de Limusine, Eu Vou de Trem
+
+Versão 3
+-======-
+Melodia:
+(Base 1)
+                      C#5
+Você me diz que sou desajeitado
+       F#
+Eu não sou ninguém
+ Bbm                     G#
+   Me tira o sono só pra se sentir bem
+  C#5
+Desajeitado
+       F#
+Eu não sou ninguém
+ Bbm                     G#
+   Me tira o sono só pra se sentir bem
+
+(Base 2)
+(C#5,F#,Bbm,G#)
+O mundo dá várias voltas
+Tomara que um dia ele leve meu caminho a você
+
+Não tenho grana não
+Mas quando tu chegar
+Já vou tá lá tu vai me ver
+
+(Solo 1)
+
+
+(Base 1)(C#5,F#,Bbm,G#)
+Desajeitado
+Eu não sou ninguém
+Me tira o sono só pra se sentir bem
+Desajeitado
+Eu não sou ninguém
+Me tira o sono só pra se sentir bem
+
+(Base 2)(C#5,F#,Bbm,G#)
+O mundo dá várias voltas
+Tomara que um dia ele leve meu caminho a você
+Não tenho grana não
+Mas quando tu chegar
+Já vou tá lá tu vai me ver
+
+(Solo 2)(C#5,F#,Bbm,G#)
+Sei que um sorriso seu faria bem
+Tu vai de limusine eu vou de trem
+Sei que um sorriso seu faria bem
+Tu vai de limusine eu vou de trem
+
+(Base 2)(C#5,F#,Bbm,G#)-
+Mas se eu sou um, em um milhão
+O que fazer então
+Não tenho grana, tenho um grande coração
+Não quero ver, quero botar a mão
+Pode acreditar, tu vai comer na minha mão
+
+(Solo 2)(C#5,F#,Bbm,G#)
+Sei que um sorriso seu faria bem
+Tu vai de limusine eu vou de trem
+Sei que um sorriso seu faria bem
+Tu vai de limusine eu vou de trem
+
+(Solo 3)
+
+(C#5,F#,Bbm,G#)
+O mundo dá várias voltas
+Tomara que um dia ele leve meu caminho a você
+Pois com você estou em casa
+
+(Solo 4)
+--->Base 1:
+Eb|-------------------------------|
+Bb|-------------------------------|
+Gb|14-14-14--7-7-7--11-11-11-9-9-9|
+Db|12-12-12--5-5-5--9--9--9--7-7-7|
+Ab|12-12-12--5-5-5--9--9--9--7-7-7|
+Eb|-------------------------------|
+
+--->Base 2:
+Eb|-------------------------------|
+Bb|-------------------------------|
+Gb|14-14-14--7-7-7--11-11-11-9-9-9|
+Db|12-12-12--5-5-5--9--9--9--7-7-7|
+Ab|-------------------------------|
+Eb|-------------------------------|
+
+--->Solo 1:
+
+Eb|10-------10--------10-----7----------------------|
+Bb|--7--7-8----8--8-7---7---7-----------------------|
+Gb|---7---------7--------7-7--2h4-4p2p0-------------|
+Db|------------------------------------4-4h5-5p4p2p0|
+Ab|-------------------------------------------------|
+Eb|-------------------------------------------------|
+
+Eb|-----------------10----------------------------------------|
+Bb|---7--7h8p7-7-8-7----7h8p7-7-7h8p7-7-----------------------|
+Gb|2s7--7-----7--------7----------------2h4-4p2p0-------------|
+Db|--------------------------9-9-----9-----------4-4h5-5p4p2p0|
+Ab|-----------------------------------------------------------|
+Eb|-----------------------------------------------------------|
+
+--->Solo 2 (Refrão)
+
+Eb|-----------------10---------------------10------|10-10-10|
+Bb|---7--7h8p7-7-8-7----7h8p7-7-7h8p7-7-8-7--7h8p7-|--8--8--|
+Gb|2s7--7-----7--------7-------------9------------7|--------|
+Db|--------------------------9-9-------------------|--------|
+Ab|------------------------------------------------|--------|
+Eb|------------------------------------------------|--------|
+
+Eb|---------------------------------------------------------------|
+Bb|---------------------------------------------------------------|
+Gb|-----------------7-----7----7h9--------------------------------|
+Db|-----4-4-4-4-5-5-5-5-5-5-5-5---7-7-7-7-7-7-7h9-5-5-5-4-4-4-----|
+Ab|5-5-5-----------------------------------------------------7-7-5|
+Eb|---------------------------------------------------------------|
+
+Eb|---------------------------------------------------------------|
+Bb|---------------------------------------------------------------|
+Gb|-----------------7-----7----7h9-11-----11----11-9-----7-----7--|
+Db|-----4-4-4-4-5-5-5-5-5-5-5-5----9--9-9-9-9-9-9--7-7-7-7-7-7-7--|
+Ab|5-5-5----------------------------------------------------------|
+Eb|---------------------------------------------------------------|
+
+----------------- Acordes -----------------
+Bbm = X 1 3 3 2 1
+C#5 = X 4 6 6 X X
+F# = 2 4 4 3 2 2
+G# = 4 3 1 1 1 4

@@ -1,0 +1,78 @@
+@titulo: briga
+@autor:
+@intérprete: João Paulo e Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+João Paulo e Daniel - Briga
+
+ introdução:  A          D        A        E7     A
+             D-C#-Bm-A    E7
+
+A                 D-A
+BRIGA ENVENENA A ALMA
+           A
+TE LEVA A ESTUPIDEZ E TRAUMA
+          A               E7
+E DEIXA DENTRO DO PEITO TANTO SOFRER
+         D
+COM A CABEÇA TÃO CONFUSA
+          A
+A GENTE IMPLORA AMOR,AJUDA
+         B7
+AO VER JOGADO AO CHAO TAO DE REPENTE,TANTO AMOR
+  E    E7
+TANTO QUERER
+
+A               D-A
+BRIGA SÓ TE TRAZ REVOLTA
+           A
+MACHUCA QUANDO A GENTE GOSTA
+
+           A    A7
+REDUZ Á SOLIDÃO,Á NADA
+       D
+A PAIXÃO PREFERIDA
+            A
+FAZ A GENTE CHORAR
+            E
+FAZ A GENTE CHORAR
+  D - C#m - Bm - A  A7
+COM MEDO DA VIDA
+
+    D                          A
+BRIGA NAO VAI RESOLVER SUA SITUAÇÃO
+   A                            E
+NINGUEM VAI TE QUERER SE NAO HÁ MAIS PAIXÃO
+     E7                    A              A7
+DAR UM TEMPO É O MELHOR PARA O SEU CORAÇÃO
+
+      D                             A
+BRIGA É O FIM DO CAMINHO,É PAIXÃO DESCARTADA
+      A                            E
+É O FIM DA CONVERSA,É O FINAL DA ESTRADA
+        E
+NAO VAI PERDER SEU AMOR...
+         D - C#m - Bm - A
+...POR MAIS UMA BRIGA!!!!
+
+INTRO
+           A
+BRIGA SÓ TE TRAZ REVOLTA...
+(REPETE A MÚSICA DAÍ ATÉ O FINAL,E A MÚSICA CESSA NO ÚLTIMO ACORDE COM A FRASE"POR MAIS UMA BRIGA")
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0

@@ -1,0 +1,49 @@
+@titulo: como
+@autor:
+@intérprete: Papas da Língua
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Papas da Língua - Como
+
+INTRODUÇÃO: C7+ Bm7 C7+ Bm7
+
+C7+                       Bm7
+Como vou deixar você, se eu te amo?
+C7+                       Bm7
+Como vou deixar você, se eu te amo?
+Am7                        Bm7
+Sei que minha vida anda errada
+Am7                           Bm7
+que já deixei mil furos e mancadas
+Am7                                 Bm7
+Talvez eu esteja andando em linhas tortas
+           Am7
+mas por enquanto eu vou te amando
+          Bm7
+é o que importa
+C                    F
+Mas você também não é rota principal
+Am                  G
+Toda estrada tem final
+       Bm7
+Hoje eu quero saber...
+
+(VOCALIZAÇÃO - C7+  Bm7)
+REPETE A MÚSICA
+
+
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

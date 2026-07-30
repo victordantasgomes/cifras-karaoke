@@ -1,0 +1,106 @@
+@titulo: chama-por-ela
+@autor:
+@intérprete: Rick e Renner
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rick e Renner - Chama Por Ela
+
+Intro: Am  G  Dm7  F  G  Am  G  F  E
+
+[Rick 1ª voz]
+  Am       G/A   Am      Dm
+Chora coração, chama por ela
+  E                ( E/G# )
+Pra voltar pra mim
+ Am          G/A   Am     Dm
+Não deixe fugir   pela janela
+     E                   ( G/B )
+Um amor tão lindo assim
+
+C                                 G
+  Eu amei, eu amei juro que só amei
+
+Me entreguei, me entreguei
+                     F                Bm7(5-)   E      Am  F  G
+Sem pensar me entreguei e jamais esperava por   esse adeus
+C                                            G
+  E não dá pra aceitar que esse amor foi em vão
+
+
+Eu abri, confiei
+               F               Bm7(5-)   E   Am   ( G/B  C )
+Dei o meu coração e agora onde anda   você e eu
+
+G                          C4     C
+  Doce paixão que o tempo não desfaz
+G                          Bb         F      E
+  Vou te esperar porque te amo e te quero demais
+
+Passagem: C  G  Am  Em  F  Dm  E
+
+[Renner 1ª voz]
+  Am       G/A   Am      Dm
+Chora coração, chama por ela
+  E                ( E/G# )
+Pra voltar pra mim
+ Am          G/A   Am     Dm
+Não deixe fugir   pela janela
+     E                   ( G/B )
+Um amor tão lindo assim
+
+C                                 G
+  Eu amei, eu amei juro que só amei
+
+Me entreguei, me entreguei
+                     F                Bm7(5-)   E      Am  F  G
+Sem pensar me entreguei e jamais esperava por   esse adeus
+C                                            G
+  E não dá pra aceitar que esse amor foi em vão
+
+Eu abri, confiei
+               F               Bm7(5-)   E   Am   ( G/B  C )
+Dei o meu coração e agora onde anda   você e eu
+
+G                          C4     C
+  Doce paixão que o tempo não desfaz
+G                          Bb         F      E    Am  G  Dm7
+  Vou te esperar porque te amo e te quero demais
+
+[Renner]
+           E           Am             G           Dm7
+Agora onde anda você e eu (Agora onde anda você e eu)
+
+[Rick]
+            Bm7(5-)  E      Am  G  Dm7
+Jamais esperava por  esse adeus
+
+[Renner]
+           E              Am             G              Dm7
+Agora onde anda você não sei (Agora onde anda você não sei)
+
+[Rick]
+            Bm7(5-)  E      C    F  G  Am7
+Jamais esperava por  esse adeus
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+Bm7(5-) = X 2 3 2 3 X
+C = X 3 2 0 1 0
+C4 = X 3 3 0 1 X
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3

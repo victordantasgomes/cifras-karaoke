@@ -1,0 +1,61 @@
+@titulo: que-pais-e-esse
+@autor:
+@intérprete: Renato Russo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renato Russo - Que País é Esse
+
+     Introdução: (Em C D)12x
+
+     Em          C    D
+  Nas favelas, no Senado
+ Em                C    D
+  Sujeira pra todo lado
+             Em                C  D
+  Ninguém respeita a Constituição
+      Em                   C       D Em  C D
+  Mas todos acreditam no futuro da nação
+        Em        C D     (Em C D)4x
+  Que país é este    (3x)
+        Em             C   D      Em              C D
+  No Amazonas, no Araguaia, na Baixada Fluminense
+        Em            C  D        Em                C D
+  Mato Grosso, nas Gerais e no Nordeste tudo em paz
+           Em          C D
+  Na morte eu descanso
+        Em                C D
+  Mas o sangue anda solto
+            Em        C D
+  Manchando os papéis
+
+      Em           C D
+  Documentos fiéis
+        Em              C D
+  Ao descanso do patrão
+        Em        C D     (Em C D)4x
+  Que país é este    (4x)
+           Em          C D      Em          C D
+  Terceiro mundo se for   piada no exterior
+           Em                 C D
+  Mas o Brasil vai ficar rico
+            Em            C D
+  Vamos faturar um milhão
+            Em              C     D
+  Quando vendermos todas as almas
+             Em               C  D
+  Dos nossos índios em um leilão
+        Em        C D
+  Que país é este    (3x)
+        Em   C    D Em
+  Que país é este
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0

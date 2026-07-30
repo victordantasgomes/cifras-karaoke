@@ -1,0 +1,77 @@
+@titulo: convite
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Convite
+
+E        F#m7
+Eu te convido para cearmos
+G#m7
+A mesa está posta
+A9     B7
+Escolha o lugar
+E           F#m7
+Esta é a festa do pão e do vinho
+G#m7   A     B7       E
+Que eu ofereço a quem mais chegar
+
+Bm7     A9
+Vamos celebrar
+E
+Minha hora, o meu amor
+Bm7         A9
+Que nos torna irmãos
+E
+Refazendo a paz
+Bm7     A9
+Vamos celebrar
+E
+Vida nova neste amor
+D     A/C#    B4 B7
+Reconciliação na cruz
+
+E           F#m
+Isto é meu corpo, trigo moído
+G#m7        A9     B7
+Vida doada, o pão do perdão
+E           F#m
+Isto é meu sangue, nova aliança
+G#m      A      B7   E
+Tornado em vinho de libertação
+
+Bm7     A9
+Vamos celebrar
+E
+Minha hora, o meu amor
+Bm7         A9
+Que nos torna irmãos
+E
+Refazendo a paz
+Bm7     A9
+Vamos celebrar
+E
+Vida nova neste amor
+D     A/C#    B4 B7
+Reconciliação na cruz
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+B4 = X 2 4 4 5 2
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G#m = 4 6 6 4 4 4
+G#m7 = 4 X 4 4 4 X

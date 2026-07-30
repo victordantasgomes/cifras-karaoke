@@ -1,0 +1,56 @@
+@titulo: heranca
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Herança
+
+Intro: D  D/C  G/B  G  A  D  A
+
+              D   F#m                 Bm    Bm7
+No circo em chamas sou o palhaço que chora
+       G                                               Em
+Sou a página esquecida de um livro que alguém não quis ler
+       F#7                                  Bm
+Sou a nuvem que vaga no espaço procurando memórias
+      D                 A              D    A7
+Sou aquele que tanto lutou por sua vitória
+
+   D               F#m               Bm
+Você com suas trapaças se veste de santa
+                   G              A
+E eu assumo as heranças que você deixou
+       G                      Gm         D
+Seus gestos estudados,seus suspiros ensaiados
+        G               A       D     A7
+Tem o dom de fazer de mim o que sou           (2x)
+
+             D   F#m            Bm
+Você é a verdade que só me enganou
+
+      G                                       Em
+Dos amores que eu tive você foi o que mais marcou pra mim
+      F#7                                     Bm
+Seu porte de dama,sua falsa alegria me custa a vida
+       D                         A                  D     A7
+Estou num labirinto e sei que jamais vou achar a saída
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2
+Em = 0 2 2 0 0 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+Gm = 3 5 5 3 3 3

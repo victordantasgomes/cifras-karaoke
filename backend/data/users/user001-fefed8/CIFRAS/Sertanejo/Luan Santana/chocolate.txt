@@ -1,0 +1,77 @@
+@titulo: chocolate
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Chocolate
+
+Refrão:
+A                      E             D                  A
+  De chocolate nosso amor é feito então não tem jeito gruda em mim.
+                  E                    D                   A
+Isso não é só confetti me abraça enlouquece meu vicio sem fim.
+
+Base Solo: ( A  E  D  A  A  E  D  A  D A )
+Solo:
+E|-----------------------------------------------------9-7--12-12-12-10-9-10-10-10-9-7-7-5-5-|
+B|-------------------------------------------------------------------------------------------|
+G|-6-6-6-6--7-9-9/11-9-------------------------------9----7----------------------------------|
+D|----------------------9-11/12-12-12-11-9-11/12-11------------------------------------------|
+A|-------------------------------------------------------------------------------------------|
+E|-------------------------------------------------------------------------------------------|
+
+Primeira Parte:
+  A                E               F#m
+Alo doçura isso é mais que uma serenata de amor
+       D               A
+Com você tenho a sensação que o nosso lance
+       E
+É pra vida inteira
+
+
+       A                  E
+Seu olhar é meu sonho de valsa
+                F#m
+É o doce que eu sempre quis
+         D                   E
+Meu prestígio é estar com você
+                A
+E pedir sempre bis
+
+                 E                   D
+Você é mais preciosa e bem mais brilhante
+                 A
+Que um diamante negro
+                    E
+Penso em você todo tempo
+             D                 A
+Nesse seu talento de me fazer feliz
+
+A                    E             D                  A
+De chocolate nosso amor é feito então não tem jeito gruda em mim
+                  E                   D                   A
+Isso não é só confete me abraça enlouquece meu vicio sem fim
+
+Base Solo: ( A  E  D  A  A  E  D  A  D  A )
+
+Solo Inicial:
+E|-----------------------------------------------------9-7--12-12-12-10-9-10-10-10-9-7-7-5-5-|
+B|-------------------------------------------------------------------------------------------|
+G|-6-6-6-6--7-9-9/11-9-------------------------------9----7----------------------------------|
+D|----------------------9-11/12-12-12-11-9-11/12-11------------------------------------------|
+A|-------------------------------------------------------------------------------------------|
+E|-------------------------------------------------------------------------------------------|
+
+(repete primeira parte)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

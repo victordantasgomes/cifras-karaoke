@@ -1,0 +1,30 @@
+@titulo: nos-queremos-ver
+@autor:
+@intérprete: Alessandro Vilas Boas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Alessandro Vilas Boas - Nós Queremos Ver
+
+C      Em
+Santo, Santo
+F
+Mostra-nos Sua Face
+G
+Mostra-nos Sua Face
+        Am               G
+Nós Queremos Ver Os Seus Olhos
+     F
+Como Chamas, Como Chamas
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

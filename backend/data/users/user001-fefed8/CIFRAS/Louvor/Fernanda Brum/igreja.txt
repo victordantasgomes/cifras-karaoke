@@ -1,0 +1,39 @@
+@titulo: igreja
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Igreja
+
+C#m                                 D#°                              G#                                    C#m
+COMO UM VENTO IMPETUOSO DOS QUATRO CANTOS VEM SOPRAR
+                                                D#°                        G#                                E
+QUE POVO É ESSE QUE TEM DONO É A TERRA NÃO PODE CALAR
+                  B           C#m            A               B        E
+SÃO TESTEMUNHAS PROPRIEDADES DO REI
+                 B         C#m             A              B                   E
+ESSE É O FOLEGO QUE LEVARÁ A VOZ DE DEUS
+    B   C#m              A
+IGREJA CANTAI A MÚSICA DO CÉU
+F#m7       G#m7                   A          B                               E
+OUÇA O SOM DE MUITAS ÁGUAS VINDO SOBRE TI
+  B      C#m                   A
+IGREJA VOCÊ TEM O SOM QUE RASGA O CÉU
+F#m7           G#m7           A                             B
+OUÇA OS ANJOS ADORANDO O PAI SE INCLINA PRA TE OUVIR
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+D#° = X X 1 2 1 2
+E = 0 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X
+G# = 4 3 1 1 1 4
+G#m7 = 4 X 4 4 4 X

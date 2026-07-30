@@ -1,0 +1,57 @@
+@titulo: uma-brasileira(simplificada)
+@autor:
+@intérprete: Paralamas do Sucesso
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Os Paralamas do Sucesso - Uma Brasileira
+
+D             F#m7         Bm7             F#m7
+Rodas em sol, trovas em dó uma brasileira, oooo
+Bm7                F#m7   G   F#m7  Em   A7
+Uma forma inteira, oooo  You, you, you
+ D           F#m7         Bm7               F#m7
+Nada demais, nada através uma légua e meia, ooo
+Bm7         F#m7           G   F#m7  Em  A7
+Uma frase incendeia, ooo  You, you, you
+
+
+ G              A    /
+Deixa o sol no mar
+        Bm7   F#m7       E   /
+Deixe tocar   aquela canção
+          G      A7             G      A7
+One more time ai ai   One more time ai ai
+          G      A7      Bm7   /
+One more time ai ai   ai ai
+
+
+ D          F#m7            Bm7                F#m7
+Tatibitate, trate-me, trate como um candeeiro, ooo
+
+Bm7           F#m7   G    F#m7    Em      A7
+Somos do interior,   Do....mi.....lho
+  G           A   /            Bm7            E7
+E esse ão de são     hei de cantar aquela canção
+
+
+          G      A7             G      A7
+One more time ai ai   One more time ai ai
+          G      A7      Bm7   /
+One more time ai ai   ai ai
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

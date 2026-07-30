@@ -1,0 +1,83 @@
+@titulo: so-agora
+@autor:
+@intérprete: Pitty
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Pitty - Só Agora
+
+[Intro]  A  A9  A  A9  E
+
+ A
+Baby
+      E
+Tanto a aprender
+ A                       E
+Meu colo alimenta a você e a mim
+          F#m            F
+Deixa eu mimar você, adorar você
+A           A7
+Agora, só agora
+        F#m
+Por que um dia eu sei
+ E                   A
+Vou ter que deixá-lo ir!
+
+ A                       E
+Sabe, serei seu lar se quiser
+      A                        E
+Sem pressa, do jeito que tem que ser
+
+          F#m
+Que mais posso fazer?
+      F
+Só te olhar dormir
+  A           A7
+Agora, só agora
+          F#m
+Correndo pelo campo
+E                 A
+Antes de deixá-lo ir!
+
+ Bm    E
+Muda a estação
+   A          F
+Necessário e são
+     Bm       E
+Você a florescer
+      F         G
+Calmamente, lindamente
+
+ A                       E
+Mesmo quando eu não mais estiver
+ A                   E
+Lembre que me ouviu dizer
+       F#m                 F
+O quanto me importei e o que eu senti
+A       A9    A7
+Agora, só agora
+        F#m
+Talvez você perceba
+        E                 A
+Que eu nunca vou deixá-lo ir!
+        E                 A
+Que eu nunca vou deixá-lo ir!
+    D               Dm  A
+Eu não vou deixa-lo ir
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

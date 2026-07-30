@@ -1,0 +1,100 @@
+@titulo: tony-galano-acustico
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Tony Galano (acústico)
+
+Intro: E B4 F#4 E B F#
+      (E B4 F#4 A5(9))
+
+                           B4
+E aí eu deixo o mundo pra trás
+                      A5(9)
+O pouco que me resta
+                            B4
+Só paro quando a estrada acabar
+                       A5(9)
+Sem previsão de volta
+
+
+Refrão:
+             B4
+Com o pé em baixo
+                     E
+Eu vou queimando o asfalto
+                         C#m7
+Eu ligo o rádio e ouço a música
+     B4        A5(9)    B
+Que lembra nós dois
+
+
+Intro: E B4 F#4 E B F#
+      (E B4 F#4 A5(9))
+
+                           B4
+Desculpe mais eu tenho que ir
+                     A5(9)
+Já deu a minha hora
+                           B4
+Prometa que não vai se perder
+                          A5(9)
+Depois que eu for embora
+
+Refrão:
+             B4
+Com o pé em baixo
+                     E
+Eu vou queimando o asfalto
+                         C#m7
+Eu ligo o rádio e ouço a música
+     B4        A5(9)    B
+Que lembra nós dois
+
+E B4 A5(9)             B4
+           Então até o ano que vem
+E   B4    A5(9)
+(Oh oh oh oh)
+                     B4
+Fronteiras eu vou cruzando
+E   B4    A5(9)
+(Oh oh oh oh)
+            B4
+Então até o ano que vem
+E   B4    A5(9)
+(Oh oh oh oh)
+                  B4
+E a vida eu vou levando
+
+Solo: C#m7 A5(9) E B4 (4X) B4
+
+Refrão:
+E B4 A5(9)             B4
+           Então até o ano que vem
+E   B4    A5(9)
+(Oh oh oh oh)
+                     B4
+Fronteiras eu vou cruzando
+E   B4    A5(9)
+(Oh oh oh oh)
+            B4
+Então até o ano que vem
+E   B4    A5(9)
+(Oh oh oh oh)
+               B4    E
+Eu juro que eu volto
+
+----------------- Acordes -----------------
+A5(9) = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#4 = 2 4 4 4 2 2

@@ -1,0 +1,105 @@
+@titulo: o-rei-esta-voltando
+@autor:
+@intérprete: Thalles Roberto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Thalles Roberto - O Rei Está Voltando
+
+Intro:   D,  G,  Em,  A,  G,  D,  A
+      D                       G
+O mercado está vazio  seu trabalho já parou
+     A9          A             G            D
+O martelo dos obreiros  seu barulho   já cessou
+      D                   D/F# G
+Os ceifeiros lá no campo  terminaram seu labor
+     A9                A         G            D
+Toda Terra está em suspense  é a volta   do Senhor
+
+
+A D                    G           Em
+O Rei está voltando  o Rei está voltando
+      A9          A           G           D
+A trombeta está soando  o meu no-me   a chamar
+  D            Em D/F# G           Em
+O Rei está voltando  o Rei está voltando
+   A9         G    D/F#  Em  D
+Aleluias Ele vem  me    bus-car
+
+
+
+      D                           G
+Os vagões de trens vazios  passam ruas e quarteirões
+   A9             A            G        D
+Aviões sem seus pilotos  voam pra  destruição
+     D                     G
+A cidade está deserta  sua agitação parou
+      A9       A             G               D
+Sai a última notícia  Jesus Cristo   já voltou
+
+
+A D           D/F#     G           Em
+O Rei está voltando  o Rei está voltando
+      A9          A            G          D
+A trombeta está soando  o meu no-me   a chamar
+  D            Em D/F# G          Em
+O Rei está voltando  o Rei está voltando
+    A        G   D/F# Em  D
+Aleluias Ele vem  me  bus-car
+
+
+Solo:  D/B A9 D/F# G 2x
+       G A9 A
+
+
+        D                       G
+Vejo a multidão subindo  ouço o coro angelical
+        A9          A                 G          D
+Todo o céu está se abrindo  em um bem vindo sem igual
+       Bm             Fm7          G
+Como o som  de muitas águas  nós ouvimos ecoar
+    A9         A       C/B   C              C/G
+Aleluias ao cordeiro  nós chegamos   para o lar
+
+
+G D           D/F#     G
+O Rei está voltando  o Rei está voltando
+      A9         A      D/F#  G            A9 A
+A trombeta está soando  o meu no-me   a chamar
+      Bm        D7          G
+Sim O Rei está voltando  o Rei está voltando
+   A9         G           D    B
+Aleluias Ele vem  me  bus-car
+
+
+  E           F#m E/G# A           Fm7
+O Rei está voltando  o Rei está voltando
+   B9                     C#m7 Eb5+ E A C#m7 B E/G# A
+Aleluias Ele vem  me  bus-car
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m7 = X 4 6 4 5 4
+C/B = X 2 2 0 1 0
+C/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+D/B = X 2 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Eb5+ = X 6 5 4 4 X
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+Fm7 = 1 X 1 1 1 X
+G = 3 2 0 0 0 3

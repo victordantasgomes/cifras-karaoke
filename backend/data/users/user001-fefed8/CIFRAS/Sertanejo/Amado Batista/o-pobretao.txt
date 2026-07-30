@@ -1,0 +1,91 @@
+@titulo: o-pobretao
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - O Pobretão
+
+Intro:
+   E    A          E        A
+E|--------------------------------------|
+B|--------------------------------------|
+G|--------------------------------------|
+D|--------------------------------------|
+A|-----0---0--0-2----------0---0--0-2---|
+E|0--4------4-----0---0--4------4-----0-|
+
+     E                     A
+ Que pena que eu não posso ser
+            E                   B
+ O namorado rico que você quer ter
+               C#m                A
+ Dou um duro danado pra ganhar o pão
+    B               E  B
+ E não tenho um tostão
+     E                     A
+ Que pena que eu não posso dar
+             E                     B
+ O anel de brilhantes que te faz sonhar
+              C#m              A
+ A minha bicicleta é o meu carrão
+     B           E
+ Eu sou um pobretão
+      B
+ Mas se você quiser ganhar um grande amor
+    E
+ Prometo a minha vida inteira pra você
+    B
+ Eu juro ser sincero no riso e na dor
+    A       B       E
+ Enquanto a gente viver
+     B
+ Eu quero trabalhar e me esforçar bastante
+     C#m                    A
+ Pra ficar a altura da sua ambição
+     E                 B             E   A
+ Mas hoje só posso te dar o meu coração
+     E                 B             E   B
+ Mas hoje só posso te dar o meu coração
+
+   E    A          E        A
+E|--------------------------------------|
+B|--------------------------------------|
+G|--------------------------------------|
+D|--------------------------------------|
+A|-----0---0--0-2----------0---0--0-2---|
+E|0--4------4-----0---0--4------4-----0-|
+
+     E                     A
+ Que pena que eu não posso dar
+             E                     B
+ O anel de brilhantes que te faz sonhar
+              C#m              A
+ A minha bicicleta é o meu carrão
+     B           E
+ Eu sou um pobretão
+      B
+ Mas se você quiser ganhar um grande amor
+    E
+ Prometo a minha vida inteira pra você
+    B
+ Eu juro ser sincero no riso e na dor
+    A       B       E
+ Enquanto a gente viver
+     B
+ Eu quero trabalhar e me esforçar bastante
+     C#m                    A
+ Pra ficar a altura da sua ambição
+    E                 B             E   A
+ Mas hoje só posso te dar o meu coração... (4x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0

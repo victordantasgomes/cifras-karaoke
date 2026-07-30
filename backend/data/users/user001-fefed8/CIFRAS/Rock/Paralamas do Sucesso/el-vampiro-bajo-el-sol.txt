@@ -1,0 +1,71 @@
+@titulo: el-vampiro-bajo-el-sol
+@autor:
+@intérprete: Paralamas do Sucesso
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Os Paralamas do Sucesso - El Vampiro Bajo El Sol
+
+A            G              D        A
+  Ya se hizo noche, se que debo hacer
+             G         D           Bm
+  Tengo mis cortes bajo una nueva piel
+              C              D    A
+  Los que me siguen no me alcanzarán
+     E
+hasta el amanecer.
+
+Ya tuve todo, hoy tengo 'la sed'
+Probé de todo, al menos una vez,
+Y aunque me digan "¡nunca cambiarás!”
+Yo ya no soy el mismo que ayer
+
+Am7                E
+Dejé al miedo, la sombra del dolor
+          Gm           D
+Dejé mi nueva piel quemarse bajo el sol
+Dm7                       E
+Dejé a los que dicen que nada va a cambiar
+    A     E/G#   F#m   F#m/E
+Y algo ya se cambió
+
+        D      E
+Acá dentro en mi
+       A        E/G#     F#m    F#m7
+Las luces de mi vida mortal
+     D        A/C#
+Acá dentro en mi
+     B7                  E
+Las luces de un día normal
+             A
+En mi eternidad
+
+Sigue con acordes de 1º estrofa(Solo de guitarra)
+
+Acá dentro en mi
+Las luces de mi vida mortal
+Acá dentro en mi
+Las luces de un día normal
+En mi eternidad
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+F#m/E = X X 2 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

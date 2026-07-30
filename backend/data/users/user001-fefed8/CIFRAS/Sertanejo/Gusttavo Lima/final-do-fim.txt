@@ -1,0 +1,154 @@
+@titulo: final-do-fim
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Final do Fim
+
+[Intro] D  Bm7
+
+E|------------------------------------------|
+B|-----8/10-5h7~------8/10-5h7-7/10---------|
+G|-6/7------------6/7-----------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Primeira Parte]
+
+ D9
+Sinto a boca secando
+Tá acontecendo de novo
+G
+E meu rosto molhando
+E a mão enxugando o olho
+
+[Pré-Refrão]
+
+Bm7                   A9                G
+   A culpa é dessa cidade que é tão pequena
+
+                                    Em
+Faz a gente se esbarrar direto por aí
+                          G
+Ainda bem que só te vi sozinha, ai, ai
+Em                                 G
+   É que aqui dentro você ainda é minha, ai, ai
+         A9
+Ainda é minha
+
+[Refrão]
+
+    G6
+Confere no seu coração o pedaço que falta
+    A9
+Que eu corto do meu
+E te entrego de volta
+F#m7                                    G
+Antes que alguém apareça e te roube de mim
+
+    G6
+É questão de detalhe
+Isso a gente resolve
+     A9
+Não vou ficar parado
+Enquanto o amor se move
+   F#m                                    G
+A gente se acertando, vai ser o final do fim
+   Em                  A9
+A gente se acertando, vai ser o final do fim
+
+[Solo] D9  G  Bm7  A9  G
+
+E|------------------------------------------|
+B|-----8/10-5h7~------8/10-5h7--------------|
+G|-6/7------------6/7-----------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|-----8/10-5h7~------8/10-5h7-7/10---------|
+G|-6/7------------6/7-----------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|-9-10-9-10-9-10-9h10p9--------------------|
+B|------------------------------------------|
+G|------------------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|----------------------14-14-14-14---------|
+B|-10-10-10-7h10-10/12--15-15-15-15---------|
+G|------------------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Pré-Refrão]
+
+Bm7                   A9                G
+   A culpa é dessa cidade que é tão pequena
+                                    Em
+Faz a gente se esbarrar direto por aí
+                          G
+Ainda bem que só te vi sozinha, ai, ai
+Em                                 G
+   É que aqui dentro você ainda é minha, ai, ai
+         A9
+Ainda é minha
+
+[Refrão]
+
+    G6
+Confere no seu coração o pedaço que falta
+    A9
+Que eu corto do meu
+E te entrego de volta
+F#m7                                    G
+Antes que alguém apareça e te roube de mim
+
+    G6
+É questão de detalhe
+Isso a gente resolve
+     A9
+Não vou ficar parado
+Enquanto o amor se move
+   F#m                                    G
+A gente se acertando, vai ser o final do fim
+
+    G6                                    A9
+Confere no seu coração o pedaço que falta
+F#m7                                    G
+Antes que alguém apareça e te roube de mim
+
+    G6
+É questão de detalhe
+Isso a gente resolve
+     A9
+Não vou ficar parado
+Enquanto o amor se move
+   F#m                                    G
+A gente se acertando, vai ser o final do fim
+   Em                  A9                 D
+A gente se acertando, vai ser o final do fim
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G6 = 3 X 2 4 3 X

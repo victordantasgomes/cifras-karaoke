@@ -1,0 +1,162 @@
+@titulo: coisas-de-quem-ama
+@autor:
+@intérprete: Matheus e Kauan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Matheus e Kauan - Coisas de Quem Ama
+
+[Primeira Parte]
+
+ A9     D9                A9
+Lembra,    ou procura não esquecer
+E
+  De tudo que eu já fiz
+         D9                A9        E
+E ainda posso fazer por você, por você
+
+A9
+Lembra que foi eu
+                    A9/C#
+Não esquece que fui eu
+     D6(9)
+Que te amou demais
+                            F#m7(11)
+Desde o dia em que te conheceu
+Sempre te fez sorrir
+E
+Admite eu sei
+        D              A9/C#  Bm7
+Que também sente falta
+
+
+ A9                              A9/C#
+Dos dias difíceis, da falta de grana
+ D6(9)
+De pipoca e filme todo fim de semana
+   F#m               F5+
+Eu ia de comédia, você sempre de drama
+A/E                  Ebm7(b5)
+Um colchão na sala, nós dois de pijama
+Bm7         A9/C#  D6(9)
+    Coisas de quem ama
+                  A9  E
+Coisas de quem ama
+
+  A9                   G
+Mas o último filme não chegou ao final
+   F#m                   F9
+A gente apagou bem na bri__ga do casal
+     A9      D9                   E
+E depois de discutir vários assuntos
+          F9
+Deram um beijo de amor
+G
+  E terminaram
+    F9           G
+Um beijo de amor
+          F9
+Deram um beijo
+G
+  E terminaram juntos
+
+( A9  G9  F#m  F  A9  D )
+
+[Segunda Parte]
+
+ A9
+Lembra que foi eu
+                    A9/C#
+Não esquece que fui eu
+     D6(9)
+Que te amou demais
+                            F#m7(11)
+Desde o dia em que te conheceu
+
+Sempre te fez sorrir
+E
+Admite eu sei
+        D              A9/C#  Bm7
+Que também sente falta
+
+[Terceira Parte]
+
+ A9                              A9/C#
+Dos dias difíceis, da falta de grana
+ D6(9)
+De pipoca e filme todo fim de semana
+   F#m               F5+
+Eu ia de comédia, você sempre de drama
+A/E                  Ebm7(b5)
+Um colchão na sala, nós dois de pijama
+Bm7         A9/C#  D6(9)
+    Coisas de quem ama
+                  A9  E
+Coisas de quem ama
+
+[Refrão]
+
+      A9                   G
+Mas o último filme não chegou ao final
+   F#m                   F9
+A gente apagou bem na bri__ga do casal
+     A9      D9                   E
+E depois de discutir vários assuntos
+          F9           G
+Deram um beijo de amor
+    F9           G
+Um beijo de amor
+          F9           G
+Deram um beijo de amor
+
+[Refrão]
+
+      A9                   G
+Mas o último filme não chegou ao final
+   F#m                   F9
+A gente apagou bem na bri__ga do casal
+     A9      D9                   E
+E depois de discutir vários assuntos
+          F9           G
+Deram um beijo de amor
+    F9           G
+Um beijo de amor
+          F9
+Deram um beijo de amor
+G                     A7M(9)  D7M
+  E terminaram juntos
+
+[Final]
+
+    A7M(9)       D7M
+E|-----------0---2--------------------------|
+B|-------0-2-----2--------------------------|
+G|-----1---------2--------------------------|
+D|---2-----------0--------------------------|
+A|-0----------------------------------------|
+E|------------------------------------------|
+
+----------------- Acordes -----------------
+A/E = 0 X 2 2 2 0
+A7M(9) = X 0 2 1 0 0
+A9 = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D6(9) = X 5 4 2 0 0
+D7M = X X 0 2 2 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+Ebm7(b5) = X X 1 2 2 2
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F#m7(11) = 2 X 2 2 0 X
+F5+ = X X 3 2 2 1
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G9 = 3 X 0 2 0 X

@@ -1,0 +1,108 @@
+@titulo: digno-e-o-cordeiro
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Digno É o Cordeiro
+
+ Intro: C9  F  A7sus4  G  C9  F  A7sus4  G  G/F
+E|---8--8--8--8--8--8--8--8--8--8--8--8---8-----|
+B|----------------------------------------------|
+G|---5--5--5--5--5--5--5--5--5--5--5--5---------|
+D|----------------------------------------------|
+A|----------------------------------------------|
+E|----------------------------------------------|
+
+E|---------3---1---------3---1--------3---1-----|
+B|------3--------------3-------------3----------|
+G|-5--5-------------5--------------5------------|
+D|----------------------------------------------|
+A|----------------------------------------------|
+E|----------------------------------------------|
+
+E|--1---6------8--------------------------------|
+B|-----------6----------------------------------|
+G|----------------------------------------------|
+D|----------------------------------------------|
+A|----------------------------------------------|
+E|----------------------------------------------|
+
+
+Solo:
+   C9
+De todas as nações
+     Am7
+Teus filhos se unirão
+        F      F7M 1°vez    F/A   F9/A  F/A  2°vez
+Para adorar a Ti
+
+F                G
+Todos os povos e raças
+F/A               G    G7M
+Todas as tribos e línguas
+Dm7               G                  Am7
+Diante do Trono fazendo uma festa ao Rei
+
+F/A              G   G4   G/F
+Fazemos festa ao Rei
+
+Refrão:
+C             F     G
+Digno é o Cordeiro
+Am7          F     G  G4  G
+Digno é o Cordeiro
+     Dm7         C
+Foi morto mas venceu
+       F      Am7         G    G9   G
+E a muitos recebeu como herança
+
+Reintro:  C9  F  C  F  A7sus4  G  G/F  F7M  G  G4  A7sus4  G  G/F
+
+Digno é o Cordeiro
+E|----8--------------------------------------------------|
+B|-------5---6-------------------------------------------|
+G|-------------------------------------------------------|
+D|-------------------------------------------------------|
+A|-------------------------------------------------------|
+E|-------------------------------------------------------|  (4x)
+
+Refrão:
+C  C/G          F
+Digno é o Cordeiro ..
+Am7 Am7/G   F    G
+Digno é o Cordeiro ..
+C  C/G          F    G/F
+Digno é o Cordeiro ..
+Am7 Am7/G  F     G
+Digno é o Cordeiro ..
+   Dm7            C
+Foi morto mas venceu
+       F      Am7         G    G9   G
+E a muitos recebeu como herança
+
+Final:  C9  C  G9  G  C9  F  C  F9  G/F  C9  F  Am7 F9  G/F  G  F  G  C
+
+----------------- Acordes -----------------
+A7sus4 = X 0 2 0 3 0
+Am7 = X 0 2 0 1 0
+Am7/G = 3 0 2 0 1 0
+C = X 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+C9 = X 3 5 5 3 3
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F7M = 1 X 2 2 1 X
+F9 = 1 3 5 2 1 1
+F9/A = 5 X X 5 6 3
+G = 3 2 0 0 0 3
+G/F = 1 X X 0 0 3
+G4 = 3 5 5 5 3 3
+G7M = 3 X 4 4 3 X
+G9 = 3 X 0 2 0 X

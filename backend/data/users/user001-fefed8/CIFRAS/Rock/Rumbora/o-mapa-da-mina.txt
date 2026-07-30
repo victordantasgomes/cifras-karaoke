@@ -1,0 +1,95 @@
+@titulo: o-mapa-da-mina
+@autor:
+@intérprete: Rumbora
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rumbora - O Mapa Da Mina
+
+Intro: E5
+
+  D5                       B5
+O mapa da minha mina tá no sul
+              A5
+mas ela só me estiga, estiga, estiga
+   D5                       B5
+já to ficando liso, leso e louco
+               A5
+mas ela nem me liga, liga, liga
+
+riff 1
+     F#5   D5
+E eu...
+F#5             D5
+passo os dias viajando
+F#5             D5
+minhas chances terminando
+F#5        A5
+paciência do xadrez
+B5              C#5
+espero a minha vez
+
+
+    A5                  D5
+E aí quando ela for só minha
+      A5                        D5
+vo pro mato ou viro um pescador
+    A5                      E5
+não quero mas nada da vida
+
+só quero teu amor
+
+Bridge: A5  E5  A5  D5  A5  E5  E5
+
+O mapa da minha mina tá no sul
+mas ela só me estiga, estiga, estiga
+se dela um dia eu ouvir um "I Luv U"
+não quero mas nada da vida, vida, vida
+
+riff 1
+E eu...
+passo os dias viajando
+minhas chances terminando
+esqueço e conto até três
+e espero a minha vez
+
+A5  E5  A5  D5
+
+Base fica D5 B5 A5
+SOLO:
+
+E|-----------------------------------------------------------------------------------------|
+B|-----------------------------------------------------------------------------------------|
+G|---7-6-4-7-6-4-6-7-4--4-4-4-4-4-4--9-9-9--8-8-8-8-8--9-9-9--8-8-8-8-8--7-6-4-7-6-4-6-7-4-|
+D|-----------------------------------------------------------------------------------------|
+A|-----------------------------------------------------------------------------------------|
+E|-----------------------------------------------------------------------------------------|
+
+A dor que mói meu peito vem do sul
+mas ela nem se liga, liga, liga
+se ela descobrir o que eu faço
+talvez seja minha saída, ida, ida
+
+(A5 E5 B5 F#5 D5 E5)
+Só quero teu amor (na na na na na na)
+
+Riff: (essa primeira partezinha 5x depois só continua o resto. ;)
+|-----------------|---------------------------------------------------------------------------|
+|-2-2-0-0-----0-0-|-3-3-2-2-----0-0-2-2-0-0--------------------2-2-0-0-3-3-2-2-----0-0--222---|
+|---------2-2-----|---------2-2-------------2-2-4-4------2-2-------------------2-2------------|
+|-----------------|----------------------------------4-4--------------------------------------|
+|-----------------|---------------------------------------------------------------------------|
+|-----------------|---------------------------------------------------------------------------|
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+B5 = X 2 4 4 X X
+C#5 = X 4 6 6 X X
+D5 = X 5 7 7 X X
+E5 = 0 2 2 X X X
+F#5 = 2 4 4 X X X

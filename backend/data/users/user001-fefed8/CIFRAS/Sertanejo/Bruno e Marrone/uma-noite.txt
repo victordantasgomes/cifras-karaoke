@@ -1,0 +1,132 @@
+@titulo: uma-noite
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Uma Noite
+
+(intro)
+
+     C         Am      F      G         C       Am      F      G          Em
+E|----------------------------------------------------------------------3h5h3------------------
+B|-0h1-0-1-0-1-0-1-0-1-1-1-3-1-0------1-0-1-0-1-0-1-0-1-1-1-3-1-0------------------------------
+G|-------------------------------2--0------------------------------2--0------------------------
+D|---------------------------------------------------------------------------------------------
+A|---------------------------------------------------------------------------------------------
+E|---------------------------------------------------------------------------------------------
+
+  Dm           G
+  Depois de sonhar
+C           Dm
+  Depois de ver a minha dor andar
+G          F      Em
+  Sobre as águas do mar
+F              Em    Dm
+  Vi a luz brilhar ali
+       C       Dm
+  Pela rua passar
+             G
+  Sem saber o que
+
+         F        Em
+  Me sentindo tão só
+F               Em    G Am
+  Mas sinto que é ....a-mor
+           Em    G Am
+ Sinto que é ....a-mor
+        Dm   F         G
+ Sigo 'aman'-amando te assim
+
+(refrão)
+     C       Am     Dm  G
+ Nós dois, amor que doi
+                  C
+ Seu corpo em minhalma
+       Am     Dm   G
+ Se esconde do sol
+               C
+ De noite se escapa
+    Am       Dm  G
+ em sonho me dou
+            C
+ E acordo sozinha
+    Am      Dm  G
+ E grito de dor
+
+(2ª Parte - Em )
+
+  Dm      G    C
+ Que esconde a noite
+           Dm            G
+ vai guarda só para nos dois
+      F         Em
+ E sentir sem pensar
+F            Em      Dm G
+ É só acreditar no amor
+      C               Dm
+ Digo que não vim falar
+                    G
+ Mas sim ouvir tua voz
+       F       Em
+ e sentir sem pensar
+F               Em    G Am
+ Pois sinto que é ....a-mor
+           Em    G Am
+ sinto que é ....a-mor
+        Dm   F         G
+ Sigo 'aman'-amando te assim
+
+(refrão)
+     C       Am     Dm  G
+ Nós dois, amor que doi
+                  C
+ Seu corpo em minhalma
+       Am     Dm   G
+ Se esconde do sol
+               C
+ De noite se escapa
+    Am       Dm  G
+ em sonho me dou
+            C
+ E acordo sozinho
+    Am      Dm  G
+ E grito de dor
+
+Em  Am           Em    G Am
+ Amor, Sinto que é ....a-mor
+        Dm  F        G
+ Sigo 'aman-ando' te assim
+
+(refrão)
+     C       Am     Dm  G
+ Nós dois, amor que doi
+                  C
+ Seu corpo em minhalma
+       Am     Dm   G
+ Se esconde do sol
+               C
+ De noite se escapa
+    Am       Dm  G
+ em sonho me dou
+            C
+ E acordo sozinho
+    Am      Dm  G
+ E grito de dor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

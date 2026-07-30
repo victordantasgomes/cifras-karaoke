@@ -1,0 +1,145 @@
+@titulo: whisky-e-gelo
+@autor:
+@intérprete: Zé Neto e Cristiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Zé Neto e Cristiano - Whisky e Gelo
+
+Capo Casa 2
+
+[Intro] F#m  E  D9
+
+E|----------------------------------------------------|
+B|----------------------------------------------------|
+G|-------2--2h4-2-1-----1/2---------------------------|
+D|-2/4----------------2-----4~------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+[Primeira Parte]
+
+ A
+Felicidade é um caminho simples
+D9
+ Mas não tem placa, é fácil se perder
+F#m         E
+ Você errou,  errou comigo
+D9
+ Eu não esperava isso
+
+[Pré-Refrão]
+
+
+F#m
+ Foi covardia
+E
+ Da sua parte
+D9
+ Doeu saber
+
+Que não me amava de verdade
+
+[Refrão]
+
+ A
+Se eu te ligar, não atende, é desespero
+D9
+É culpa desse copo com Whisky e gelo
+F#m          E
+E amanhã eu volto a te odiar
+     D9
+Mas basta eu beber que eu volto a te amar
+
+ A
+Se eu te ligar, não atende, é desespero
+D9
+É culpa desse copo com Whisky e gelo
+F#m          E
+E amanhã eu volto a te odiar
+     D9
+Mas basta eu beber que eu volto a te amar
+
+[Solo] A  D9  F#m  E  D9
+
+E|----------------------------------------------------|
+B|------------------------------5---------------------|
+G|-/6-6-4-4-2-2-----2-2-2-4-4/6---2h4~p2--------------|
+D|--------------2h4-----------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|----------------------------------------------------|
+B|-----------------3h5p3-3-3p2------------------------|
+G|-/6-6-4-4-2-2-----------------4/5/4p2--2h4-2-x-2----|
+D|--------------4------------------------2h4-2-x-2----|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|----------------------------------------------------|
+B|-5/7-5---------5-------------------------5/7-5~-----|
+G|-------4p2-4~--2------2h4p2---2-4h6p4p2-------------|
+D|------------------2-4-------4-----------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|----------------------------------------------------|
+B|---5/7/5--------------------------------------------|
+G|-4-------4/2----------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+[Pré-Refrão]
+
+F#m
+ Foi covardia
+E
+ Da sua parte
+D9
+ Doeu saber
+
+Que não me amava de verdade
+
+[Refrão]
+
+ A
+Se eu te ligar, não atende, é desespero
+D9
+É culpa desse copo com Whisky e gelo
+F#m          E
+E amanhã eu volto a te odiar
+     D9
+Mas basta eu beber que eu volto a te amar
+
+ A
+Se eu te ligar, não atende, é desespero
+D9
+É culpa desse copo com Whisky e gelo
+F#m          E
+E amanhã eu volto a te odiar
+     D9
+Mas basta eu beber que eu volto a te amar
+
+( A  D9 )
+
+[Final] F#m  E  D9
+
+E|----------------------------------------------------|
+B|----------------------------------------------------|
+G|-------2--2h4-2-1-----1/2---------------------------|
+D|-2/4----------------2-----4~------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+A*  = X 0 2 2 2 0 - (*B na forma de A)
+D9*  = X X 0 2 3 0 - (*E9 na forma de D9)
+E*  = 0 2 2 1 0 0 - (*F# na forma de E)
+F#m*  = 2 4 4 2 2 2 - (*G#m na forma de F#m)

@@ -1,0 +1,60 @@
+@titulo: ave-maria
+@autor:
+@intérprete: Chitãozinho & Xororó
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Chitãozinho & Xororó - Ave Maria
+
+(intro) G Am/G D7/F# G
+
+G  Am/G    D7/F#  G   (G  D/F#)
+A___ve   Mari_____a
+Em       A/C#   D7   D/C     G/B (G D/F#)
+Mãe abençoada,  virgem   imaculada
+Em         A   A/C#  D
+É santa semente do amor
+  Bº          Am    F#º          G  (G D/F#)
+Maria, mãe de Deus, és cheia de graça
+C/E  (C G/B)   Am           D7 D/C    G
+Santo    é o  fruto do teu ventre,  Jesus
+Dm/F G/F    C   C#º   Gm/D   Cm6/Eb
+A____ve  Maria, Ave Maria, Maria
+D  D/C    G         Am  C          D     D/F#
+Que concebeu o amor em    Cristo Nosso Senhor
+C#º       G/D             Am
+Madre generosa, rogai por nós
+        D7
+Os pecadores, Mãe querida
+C9   C9(13)     G
+Amém,         amém
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Bº = X 2 3 1 3 1
+C = X 3 2 0 1 0
+C#º = X 4 5 3 5 3
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+C9(13) = X 3 2 2 3 3
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+D7/F# = X X 4 5 3 5
+Dm/F = X X 3 2 3 1
+Em = 0 2 2 0 0 0
+F#º = 2 X 1 2 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G/F = 1 X X 0 0 3
+Gm/D = X 5 5 3 3 3

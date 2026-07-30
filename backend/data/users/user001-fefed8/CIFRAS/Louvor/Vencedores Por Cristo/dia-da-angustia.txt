@@ -1,0 +1,66 @@
+@titulo: dia-da-angustia
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Dia da Angustia
+
+Introdução:E7+ D/E  F#m7 B7/9-
+
+ E7+                      D/E        F#m/E   F#m
+Quando a luz da esperança Apagar-se ao redor 
+        B7/9                  B7/9-            C#m7 B/C# C#7/9-
+Quando o olhar explicar para a mente Que está só 
+       F#m7       B/A    B7/9-         G#m7           B/C#  C#7/9-
+Quando o pé não tiver mais apoio Nem a mão outra mão por socorro 
+F#m7                   F7/9          B7/9  E7+ A6/E E7+ A/E
+Quando o dia da angústia chegar O que será? 
+E7+                     D/E        E7+  F#m/E F#m
+Quando tudo o que tem de valor Se perder 
+    B7/9             B7/9-    C#m B/C# C#7/9- F#m        B7/9 B7/9-
+E consolo nenhum lhe fizer esquecer Quando toda a defesa murchar 
+G#m7             C#7/9  C#7/9-               F7/9  B7/9    E7+   A6/E Bm7/E E
+Só desgosto seu rosto expressar Quando o dia da angústia chegar O que será 
+Am7    D7/9      G7+  C7+   F#m5-/7   B7/9  Em7
+Cristo morreu pra salvar E da angústia livrar
+Am   Am/G F#m5-/7  B7B   Em7  C7+  F#m5-/7 B7 Em7
+ A todo que Nele crer  A todo que o recebe
+Em7      A7/9    Em7      A7/9
+A Cristo a cristo a cristo a cristo
+
+----------------- Acordes -----------------
+A/E = 0 X 2 2 2 0
+A6/E = X X 2 2 2 2
+A7/9 = 5 X 5 4 2 X
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+B/A = X 0 4 4 4 X
+B/C# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+B7/9 = X 2 1 2 2 X
+B7/9- = X 2 1 2 1 X
+Bm7/E = X 7 7 7 7 7
+C#7/9 = X 4 3 4 4 X
+C#7/9- = X 4 3 4 3 X
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+C7+ = X 3 2 0 0 X
+D/E = X X 2 2 3 2
+D7/9 = X 5 4 5 5 X
+E = 0 2 2 1 0 0
+E7+ = X X 2 4 4 4
+Em7 = 0 2 2 0 3 0
+F#m = 2 4 4 2 2 2
+F#m/E = X X 2 2 2 2
+F#m5-/7 = 2 X 2 2 1 X
+F#m7 = 2 X 2 2 2 X
+F7/9 = X X 3 2 4 3
+G#m7 = 4 X 4 4 4 X
+G7+ = 3 X 4 4 3 X

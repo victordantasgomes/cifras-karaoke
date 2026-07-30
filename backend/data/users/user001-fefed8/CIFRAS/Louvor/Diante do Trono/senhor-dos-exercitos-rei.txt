@@ -1,0 +1,89 @@
+@titulo: senhor-dos-exercitos-rei
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Senhor Dos Exércitos, Rei
+
+INTRO: : Am F : C G : Am F : C E :
+       : Am Am/G# : Am/G Am/F# : F : E :
+
+   Am         E       Am   G/B   C      D
+SOCORRE-ME SENHOR,  ESCUTA  O    MEU CLAMOR
+   Am  Am/G     D7(9)/F# Am/E   Am   Am/G      D7(9)/F# Am/E
+O INIMIGO QUER ME OPRIMIR,   PROCURA SEMPRE ME DESTRUIR
+    Am                 F   C
+COM COISAS VÃS QUER ME SEDUZIR
+    Dm             E
+COM SEUS ENGANOS SUTIS
+       Dm                  E           Am
+NÃO ME DEIXES CAIR, NÃO ME DEIXES TROPEÇAR
+  Dm                   Esus  E      G#dim       E/B  E
+ESCONDE-ME EM TI, POIS SÓ ASSIM ELE NÃO VAI ME ACHAR
+
+             Am                        Em7        Am
+GUERREIA POR MIM, GLORIOSO SENHOR, PODEROSO NAS BATALHAS
+   Dm       C/E F            Am     E
+TU ES O MEU ESCUDO E ARMA DE GUERRA
+           Am            F           G             C
+ENVIA TEUS ANJOS PRA PELEJAR, EM MEU FAVOR NESTA BATALHA
+
+   Dm              C/E  F    Am   Am/G   D/F#
+TU ÉS O SENHOR DOS EXÉRCITOS REI
+   Dm              C/E  F    [Reintro]
+TU ÉS O SENHOR DOS EXÉRCITOS REI
+
+Reintro: : Am F : C G : Am F : C E :
+         : Am Am/G# : Am/G Am/F# : F : E :
+
+   Am           E      Am  G/B  C      D
+EU SOU O TEU SENHOR, OUVI   O   TEU CLAMOR
+    Am    Am/G      D7(9)/F#  Am/E    Am    Am/G   D7(9)/F#  Am/E
+NÃO TEMAS POIS EU ESTOU     AQUI, COM MEU PODER TE REVES  -  TI
+  Am          F    C
+O INIMIGO EU JÁ VENCI
+   Dm           E
+MAIOR SOU EU EM TI (3X)
+       Dm                 E          Am
+NÃO TE DEIXO CAIR, NÃO TE DEIXO TROPEÇAR
+     Dm                 Esus      E        G#dim    E/B
+EM JESUS TE ESCONDI, E ASSIM O INIMIGO NÃO VAI TE ACHAR
+
+E            Am                           Em7         Am
+GUERREIO POR TI, SOU GLORIOSO SENHOR, PODEROSO NAS BATALHAS
+   Dm        C/E F            Am     E
+EU SOU O TEU ESCUDO E ARMA DE GUERRA
+              Am            F            G             C
+ENVIO OS MEUS ANJOS PRA PELEJAR, EM TEU FAVOR NESTA BATALHA
+   Dm              C/E F      Am   Am/G  D/F#
+EU SOU O SENHOR DOS EXÉRCITOS REI
+   Dm              C/E F      Am
+EU SOU O SENHOR DOS EXÉRCITOS REI
+(LALARAILA...)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/E = 0 X 2 2 1 0
+Am/F# = 2 X 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Am/G# = X X 6 5 5 5
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7(9)/F# = 5 7 5 9 5 6
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+Em7 = 0 2 2 0 3 0
+Esus = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G#dim = 4 X 3 4 3 X
+G/B = X 2 0 0 3 3

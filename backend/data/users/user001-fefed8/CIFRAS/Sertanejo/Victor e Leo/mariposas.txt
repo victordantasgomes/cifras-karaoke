@@ -1,0 +1,99 @@
+@titulo: mariposas
+@autor:
+@intérprete: Victor e Leo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Victor e Leo - Mariposas
+
+(intro)
+
+E |---------------------------------
+B |---------------------------------
+G |--2-4-4-2--4-2---4-4-2---4-4-2---
+D |-4-------4-----4-------4------4--
+A |---------------------------------
+E |---------------------------------
+
+E |--------------------------------
+B |--------------------------------
+G |-2-2----2-----2-2----2----------
+D |----4-2---4-2----4-2--4-2-------
+A |--------------------------------
+E |--------------------------------
+
+E |--------------------------------
+B |-3-3-2---3-2---3-3-2---2-3-2----
+G |-------2-----2-------2-------2--
+D |--------------------------------
+A |--------------------------------
+E |--------------------------------
+
+
+E |-------------
+B |-------------
+G |-2--2-0-2-0--
+D |-2--2-0-2-0--
+A |-------------
+E |-------------
+
+E |---3-3-3----0-0-0------------
+B |---3-3-3----2-2-2---2-3-2----
+G |---0-0-0----2-2-2---4-4-4----
+D |---2--------2----------------
+A |---2------0-------2----------
+E |-3---------------------------
+
+         Bm                      D
+Lo siento que lo tiempo ya no pasas
+                         A
+Dices que no sabias a nada
+  Bm
+Amar asi
+  Bm
+Fue todo tan bonito
+        D
+Que volaste al infinito
+      A                          Bm
+Casi como Las mariposas de un jardin
+Em          G
+Ahora que regresas
+ D                               A
+Y confundes lo que en otra encontre tambien
+Em                 G
+Dividido entre dos mundos
+             A
+Se que estoy amando
+                 Bm
+Pero aun no se a quien...
+
+       G             D
+No se decir lo que cambio
+     A               Bm
+Mas nada ha quedado igual
+     G           D
+Una noche nos buscamos
+      A              Bm
+Y al final todo esta mal
+   G               D
+Pues tu quieres provar
+    A         Bm
+Si esto ya termino
+   G                D
+Mariposas siempre vuelven
+       A              Bm
+Y tu jardin siempre soy yo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

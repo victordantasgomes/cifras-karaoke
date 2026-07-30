@@ -1,0 +1,135 @@
+@titulo: esta-escrito
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Está Escrito
+
+Riff 1
+E|------------------|-7--------|
+B|-7---7----7---7---|---10-8~~-| (2X)
+G|---9---9----9---9-|----------|
+D|------------------|----------|
+A|------------------|----------|
+E|------------------|----------|
+
+E|-------------------------|-7--------|
+B|-7~----7~----7~----7~----|---10-8~~-| (2X)
+G|----9~----9~----9~----9~-|----------|
+D|-------------------------|----------|
+A|-------------------------|----------|
+E|-------------------------|----------|
+
+Está escrito
+Ao senhor teu deus adoraras
+Adorarei, adorarei,...ei,ei
+
+(Em  G  F#  D  Am  G )
+
+
+Riff 2
+E|-------------------------------------|-------------|
+B|-------------------------------------|----12-------|
+G|----------12-12-12-11-11-11----------|-14----14-12-|
+D|-14-14-14-------------------12-12-12-|-------------|
+A|-------------------------------------|-------------|
+E|-------------------------------------|-------------|
+
+Em         C
+ Ouve, Israel
+G          D
+ O senhor é o nosso Deus
+Em      C
+ Emanuel,
+G            D
+ Deus suficiente Deus
+
+Em              C
+ E não preciso do Egito
+G                 D
+ Não vou sair do meu lugar
+Em                 C
+ Eu sou herdeiro da promessa
+    A                   Bm
+ E Deus mandará do céu o que eu preciso
+
+Em         G
+ É teu senhor o reino,
+Am
+ A glória
+C    D
+ E o poder
+
+(Em  G  C  C#)
+
+Em
+ Está escrito
+        C
+ Ao senhor teu deus adoraras
+G            D
+ Adorarei, adorarei,...ei,ei
+
+Em  G  F#  D  ( Am  G )
+Riff 2
+
+Em         C
+ Ouve, Israel
+G          D
+ O senhor é o nosso deus
+Em      C
+ Emanuel,
+G            D
+ Deus suficiente Deus
+
+Em              C
+ E não preciso do Egito
+G                 D
+ Não vou sair do meu lugar
+Em                 C
+ Eu sou herdeiro das promessas
+    G       Am       C      Bm
+ E Deus mandará do céu o que eu preciso
+
+ Em         G
+ É teu senhor o reino,
+A
+ A glória
+C    D
+ E o poder
+
+(Em)
+
+Solo(Em  G  C  C#)
+
+Em              C
+ E não preciso do Egito
+G                 D
+ Não vou sair do meu lugar
+Em                 C
+ Eu sou herdeIro das promessas
+       A          Bm
+ E Deus mandará do céu o que eu preciso
+
+Em         G
+ É teu senhor o reino,
+A
+ A glória
+C    D         Em
+ E o poder
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

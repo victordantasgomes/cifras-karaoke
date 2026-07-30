@@ -1,0 +1,155 @@
+@titulo: pra-mudar-minha-vida
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Pra Mudar Minha Vida
+
+[Intro] F#m  A  E
+        F#m  A  E
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|-------4----------------------------------|
+D|-2-4/6---6\4-2-4--4-6-7-------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|-----9-7-5-4------4-2-0--0----------------|
+B|-----------5-------------0----------------|
+G|-7/9-9-7-6-4--2/4-4-2-1--1----------------|
+D|-------------------------2----------------|
+A|-------------------------2----------------|
+E|-------------------------0----------------|
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|-------4----------------------------------|
+D|-2-4/6---6\4-2-4--4-6-7-------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+
+E|-----9-7-5-4------4---2--0----------------|
+B|-----------5-------------0----------------|
+G|-7/9-9-7-6-4--2/4-4-2-2--1----------------|
+D|-------------------------2----------------|
+A|-------------------------2----------------|
+E|-------------------------0----------------|
+
+[Primeira Parte]
+
+                                       E  E4
+Queria tanto te dizer que eu já não te amo
+     E                                    B7
+Que seu amor em minha vida foi mais um engano
+      F#m
+Até quando eu tenho que fingir
+            A                B7          E
+Se a minha boca morre de vontade do seu beijo
+                                      E4
+Queria esquecer você apenas um momento
+
+     E                                 B7
+Mas nunca consegui tirar você do pensamento
+           F#m
+Quando eu digo que não devo te amar
+       A                  B7             E   F#m  G#m
+O meu coração me diz te quero e não tem jeito
+
+[Pré-Refrão]
+
+    A
+Eu sempre fiz de tudo pra me apaixonar
+                                         E
+Até um dia alguém deixar saudade no meu peito
+                B7  A                E
+Agora eu tenho medo, agora eu tenho medo
+
+[Refrão]
+
+                            A   B
+Você chegou me deixou sem saída
+                                        E
+Me fez te querer quando eu não mais queria
+                                  B
+Você me fez amar quando eu dizia não
+                            A
+E acreditar que no seu coração
+                  B                    E
+Tinha um grande amor que eu sonhei um dia
+                                A  B
+Você chegou quando a dor mais doía
+                                E
+E me encontrou quando eu me perdia
+                                     B
+Acho que foi Deus que te mandou pra mim
+                            A
+Pra recomeçar e me fazer feliz
+     B    E
+Por toda vida
+
+[Solo] F#m  A  E  F#m  G#m
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|-------4----------------------------------|
+D|-2-4/6---6\4-2-4--4-6-7-------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|-----9-7-5-4------2-4-5-------------------|
+B|-----------5------------------------------|
+G|-7/9-9-7-6-4--1/2-2-4-6-------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Pré-Refrão]
+
+    A
+Eu sempre fiz de tudo pra me apaixonar
+                                         E
+Até um dia alguém deixar saudade no meu peito
+                B7  A                E
+Agora eu tenho medo, agora eu tenho medo
+
+[Refrão]
+
+                            A   B
+Você chegou me deixou sem saída
+                                        E
+Me fez te querer quando eu não mais queria
+                                  B
+Você me fez amar quando eu dizia não
+                            A
+E acreditar que no seu coração
+                  B                    E
+Tinha um grande amor que eu sonhei um dia
+                                A  B
+Você chegou quando a dor mais doía
+                                E
+E me encontrou quando eu me perdia
+                                     B
+Acho que foi Deus que te mandou pra mim
+                            A
+Pra recomeçar e me fazer feliz
+     B    E
+Por toda vida
+
+[Final] A  B  E
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

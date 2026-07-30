@@ -1,0 +1,39 @@
+@titulo: como-as-aguas
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Como As Águas
+
+         F#m
+Como as águas
+  Bm      F#m
+Cobrem o mar
+         Bm     F#m
+O conhecimento
+           C#
+Da minha glória
+          A  E  F#m
+Há de encher
+        D  C#  Bm
+Toda a terra
+          C#
+Diz o Senhor
+          F#m
+Diz o Senhor
+  Bm    F#m
+{Diz o Senhor}
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

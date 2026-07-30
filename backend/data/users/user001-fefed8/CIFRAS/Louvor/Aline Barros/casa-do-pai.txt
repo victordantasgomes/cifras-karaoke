@@ -1,0 +1,143 @@
+@titulo: casa-do-pai
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Casa do Pai
+
+[Intro] G  Cm6  G  Cm6
+
+E|----------------------------------------|
+B|------1-0h1-----------------------------|
+G|----------------------------------------|
+D|---0------------------------------------|
+A|----------------------------------------|
+E|-3--------------------------------------|
+
+G          D/F#
+  Me conheces
+                      Em7
+Sabes tudo que eu preciso
+       Em/D        C9
+Antes mesmo de falar
+G
+  Me amas
+D/F#                   Em7
+     Teu amor é bem maior
+           Em/D       C9
+Do que eu possa imaginar
+
+
+           D                   C9
+Não quero ser só apenas o teu servo
+          D                         C9
+Quero atrair Teu olhar de amor, Senhor
+            D                      C9
+Eu venho a Ti como um filho que te ama
+              D                     D4  D
+Tudo que eu quero é estar perto de Ti
+
+Em7            D    C9       D
+    Nos Teus braços eu quero descansar
+Em7        D   C9       D    D#º      Em7
+    Correndo irei pra te abraçar, meu Pai
+                 D
+Tu és a minha herança, meu Pai
+C9                 G/B
+   Razão da minha vida meu Pai
+Am                 C/G          D  D#º
+   Tudo que eu preciso está em Ti
+
+Em7                    D
+    Eu quero estar na casa do Pai
+C9               G/B
+   Comer em Tua mesa meu Pai
+Am              C/G        D4  D
+   Tudo que eu sou é para Ti
+Vivo só pra Ti
+
+G          D/F#
+  Me conheces
+                      Em7
+Sabes tudo que eu preciso
+       Em/D       C9
+Antes mesmo de falar
+G
+  Me amas
+D/F#                   Em7
+     Teu amor é bem maior
+           Em/D
+Do que eu possa imaginar
+
+           D                   C9
+Não quero ser só apenas o teu servo
+          D                         C9
+Quero atrair Teu olhar de amor, Senhor
+            D                      C9
+Eu venho a Ti como um filho que te ama
+              D                     D4  D
+Tudo que eu quero é estar perto de Ti
+
+Em7            D    C9        D
+    Nos Teus braços eu quero descansar
+Em7        D   C9        D    D#º      Em7
+    Correndo irei pra te abraçar, meu Pai
+                 D
+Tu és a minha herança, meu Pai
+C9                 G/B
+   Razão da minha vida meu Pai
+Am                 C/G          D  D#º
+   Tudo que eu preciso está em Ti
+
+Em7                    D
+    Eu quero estar na casa do Pai
+C9               G/B
+   Comer em Tua mesa meu Pai
+Am              C/G        D4  D
+   Tudo que eu sou é para Ti
+Vivo só pra Ti
+
+[Solo] Em7  D  C9  G/B  Am  C/G  D
+
+Em7                 D
+Tu és a minha herança, meu Pai
+C9                 G/B
+   Razão da minha vida meu Pai
+Am                 C/G          D  D#º
+   Tudo que eu preciso está em Ti
+
+Em7
+    Eu quero estar na casa do Pai
+C9               G/B
+   Comer em Tua mesa meu Pai
+Am              C/G        D4  D
+   Tudo que eu sou é para Ti
+Vivo só pra Ti
+
+[Final] G
+
+E|----------------------------------------|
+B|------1-0h1-----------------------------|
+G|----------------------------------------|
+D|---0------------------------------------|
+A|----------------------------------------|
+E|-3--------------------------------------|
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C/G = 3 3 2 X 1 X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D#º = X X 1 2 1 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+Em/D = X X 0 4 5 3
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

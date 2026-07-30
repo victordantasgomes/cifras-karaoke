@@ -1,0 +1,89 @@
+@titulo: mais-uma-vez
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Mais uma vez
+
+(Renato Russo - Flávio Venturini)
+
+Introdução:
+
+3ª|<---- 3ª|<----
+  ||||||   ||||||
+  ||000|   ||005|
+  ||||||   |||||| (dedilhar)
+
+      C
+Mas é claro que o sol
+            Am
+vai voltar amanhã
+         F       G
+mais uma vez, eu sei.
+C
+Escuridão já vi pior,
+              Am
+de endoidecer gente sã.
+             F       G
+Espera que o sol já vem...
+
+
+
+  C              G
+Tem gente que está do mesmo lado
+      Am                       F
+que você mas deveria estar do lado de lá.
+  C                G
+Tem gente que machuca os outros
+Am                 F
+tem gente que não sabe amar.
+ C             G
+Tem gente enganando a gente,
+Am                F
+veja nossa vida como está
+C                       G
+mas eu sei que um dia a gente aprende.
+Am                  F     Gm
+Se você quiser alguém em quem confiar,
+ F           G
+confie em si mesmo.
+C              Gm         F
+ Quem acredita sempre alcança.
+
+C                       G
+  Nunca deixe que lhe digam que não vale a pena
+  Am                  F
+  acreditar no sonho que se tem
+C                    G
+  ou que seus planos nunca vão dar certo
+Am                           F
+  ou que você nunca vai ser alguém.
+C                G
+ Tem gente que machuca os outros
+Am                  F
+ tem gente que não sabe amar.
+C             G
+ Tem gente enganando a gente,
+Am                F
+ veja nossa vida como está
+C                       G
+ mas eu sei que um dia a gente aprende.
+Am                  F      Gm
+ Se você quiser alguém em quem confiar,
+F            G
+confie em si mesmo.
+C            Gm          F
+ Quem acredita sempre alcança.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

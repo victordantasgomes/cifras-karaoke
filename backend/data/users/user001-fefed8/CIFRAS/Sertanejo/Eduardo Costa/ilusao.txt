@@ -1,0 +1,58 @@
+@titulo: ilusao
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Ilusão
+
+[Intro] F  F4  F  Bb
+        C  F  F4  F
+
+[Primeira Parte]
+
+F                                F4  F
+Eu te quero como o rio quer o mar     te desejo muito mais
+              F4  F         Bb         F  F4  F
+Que próprio ar     eu te venero, te quero
+
+[Segunda Parte]
+
+F                                     F4  F
+ Toda noite eu te espero como um louco     coração bate
+                    F4  F       Bb        F  F4  F      C
+Apressado e que sufoco   e eu choro, eu choro...  isso não é
+                   Bb        F
+Uma declaração de amor só estou te confessando a minha dor, a
+      C            Bb           F    F4  F
+Minha dor, a minha dor, dor de amor
+
+
+[Refrão]
+
+     C                                   Bb
+Seu amor pra mim é uma necessidade não entendo porque tanta
+             F4 F        C
+Crueldade comigo      o amor que eu te dei foi tudo em vão e
+ Bb                      Bb Am    Gm              Bb
+Hoje vejo que você foi ilusão e apesar de te amar sei que
+            C         F  F4  F
+Posso suportar a solidão
+
+[Solo] F  F4  F
+
+      F   F4  F
+A solidão
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+F = 1 3 3 2 1 1
+F4 = 1 3 3 3 1 1
+Gm = 3 5 5 3 3 3

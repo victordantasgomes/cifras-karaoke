@@ -1,0 +1,105 @@
+@titulo: o-barco-balancou
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - O Barco Balançou
+
+INTRO    F G Am   F G   F G C
+         G
+Deus mandou,
+                   C
+Mas jonas não quis ir
+       G
+Deus falou
+                 C
+Jonas não quis ouvir
+
+REF:
+       Am
+E o barco balançou
+               Em
+E o barco balançou
+                F
+Quando lançaram jonas
+          G          C
+Foi que o mar se acalmou
+
+                  Am
+E na barriga da baleia
+
+            Em
+Jonas foi parar
+             F
+Naquele barrigão
+       G     C
+Pra lá e pra cá
+                 Am
+Três dias e três noites
+          Em
+E ela enjoou
+
+Deus disse:
+              F
+"deixa ele na praia
+      G          C
+Pra falar do meu amor
+
+REF:
+    Am
+E o barco balançou
+               Em
+E o barco balançou
+                F
+Quando lançaram jonas
+          G          C
+Foi que o mar se acalmou
+
+                    Am
+E na barriga da baleia
+            Em
+Jonas foi parar
+             F
+Naquele barrigão
+       G     C
+Pra lá e pra cá
+                 Am
+Três dias e três noites
+          Em
+E ela enjoou
+
+Deus disse:
+              F
+"deixa ele na praia
+      G          C
+Pra falar do meu amor
+
+                    Am
+REFÃO: O BARCO BALANÇ
+
+depois o refrão aumenta um
+            Bm
+E o barco balançou
+               F#m
+E o barco balançou
+                G
+Quando lançaram jonas
+          A          D
+Foi que o mar se acalmou ...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

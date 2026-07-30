@@ -1,0 +1,77 @@
+@titulo: sempre-ao-seu-lado
+@autor:
+@intérprete: Vitor Kley
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vitor Kley - Sempre Ao Seu Lado
+
+[Intro] C  F7M/C  Am7  G4  F7M
+
+[Primeira Parte]
+
+C                   F7M/C          Am7          G4    F7M
+  Eu nunca tive respostas pras perguntas que você me fez
+C                F7M/C        Am7           G4   F7M
+  Foram tantas apostas abandonadas todas de uma vez
+
+[Refrão]
+
+C          F7M/C            Am7               G4   F7M
+  Quero ser      quero estar   sempre ao seu lado
+C             F7M/C           Am7           G4       D7(9)
+  Quero sentir     quero tocar   teu corpo como namorado
+
+( Bb9  G )
+
+[Segunda Parte]
+
+C                 F7M/C        Am7      G4           F7M
+  Todos os nossos sonhos enterrados no fundo de um quintal
+
+C               F7M/C           Am7   G4       F7M
+  E os nossos planos que nunca deram certo no final
+
+[Refrão]
+
+C          F7M/C            Am7               G4   F7M
+  Quero ser      quero estar   sempre ao seu lado
+C             F7M/C           Am7           G4       D7(9)
+  Quero sentir     quero tocar   teu corpo como namorado
+
+( Bb9  G )
+
+[Primeira Parte]
+
+C                   F7M/C          Am7          G4    F7M
+  Eu nunca tive respostas pras perguntas que você me fez
+C                F7M/C        Am7           G4   F7M
+  Foram tantas apostas abandonadas todas de uma vez
+
+[Refrão]
+
+C          F7M/C            Am7               G4   F7M
+  Quero ser      quero estar   sempre ao seu lado
+C             F7M/C           Am7           G4       F7M
+  Quero sentir     quero tocar   teu corpo como namorado
+C          F7M/C            Am7               G4   F7M
+  Quero ser      quero estar   sempre ao seu lado
+C             F7M/C           Am7           G4       D7(9)  Bb9  G
+  Quero sentir     quero tocar   teu corpo como namorado
+
+[Final] C  F7M/C  C  F7M/C  C
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+D7(9) = X 5 4 5 5 X
+F7M = 1 X 2 2 1 X
+F7M/C = X 3 3 2 5 X
+G = 3 2 0 0 0 3
+G4 = 3 5 5 5 3 3

@@ -1,0 +1,79 @@
+@titulo: invocamos
+@autor:
+@intérprete: Padre Marcelo Rossi
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Padre Marcelo Rossi - Invocamos
+
+Intro. :E E/G# :A    A    A/B:C#m   A :E/G#  C#m :B4  :B    :
+
+e|-7-5-4-5/7~--7-5-4---5 ~--------------------------------------------------
+B|--------5----------------5-----5-7-7b9-9r7-5----4h5/7-5p4h5~ ----4/12~----
+G|-----------------------------------------------4~-----------------2/4-----
+D|--------------------------------------------------------------------------
+A|--------------------------------------------------------------------------
+E|--------------------------------------------------------------------------
+
+    E9          E7M     E/G#  C#m     A    G#m
+Invocamos o Teu nome    Invo..camos o teu poder
+     A             C#m              B4  B     {E/G#  A  B }
+Invocamos a tua Presença no meio de nós
+    E9          E7+      E/G#    C#m         A G#m
+Invocamos o Teu nome     Invo....camos o teu poder
+    A      F#m    C#m       G#m      B     { C#m  B    F#/A#   A}
+Invocamos a tua Presença no meio de nós
+    E       E/G#         A9
+Manifesta Senhor o Teu Poder
+    C#m       B       F#/A# A
+Manifesta Senhor a Tua força
+
+    G#m     A9           F#m    Cº        C#m          F#m     B
+Manifesta Senhor neste lugar o Teu grande amor que tudo pode curar.
+    E       E/G#          A9
+Manifesta Senhor o Teu poder
+       C#m      B      F#/A#   A
+Com prodígios milagres sinais
+     G#m    A9           F#m    Cº        C#m           A        B4  B
+Manifesta Senhor neste lugar o Teu grande amor que tudo pode curar.
+
+Solo quase igual a introdução
+
+           E  E/G#      A  A A/B  C#m   A        E/G#    C#m   A     C  Bb  F/A    Gm F
+e|-7-5-4---5/7~---7-5-4-5~----------------------------------------------------------------
+B|--------5-------------5-----5-7-7b9-9r7-5------4h5/7-5p4h5~-----------------5---6---9-6-
+G|------------------------------------------4~------------------------3-5-7---------------
+D|----------------------------------------------------------------------------------------
+A|----------------------------------------------------------------------------------------
+E|----------------------------------------------------------------------------------------
+
+Sobe ½ tom
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+Cº = X 3 4 2 4 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E7+ = X X 2 4 4 4
+E7M = X X 2 4 4 4
+E9 = 0 2 4 1 0 0
+F = 1 3 3 2 1 1
+F#/A# = 6 X 4 6 7 X
+F#m = 2 4 4 2 2 2
+F/A = 5 X 3 5 6 X
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4
+Gm = 3 5 5 3 3 3

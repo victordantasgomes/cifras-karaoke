@@ -1,0 +1,91 @@
+@titulo: sejam-um
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Sejam Um
+
+(intro 2x) F7M Em7 Dm7 Gsus G
+
+          Csus/G           C
+ Se alguem deixou de ser aquilo
+           Csus/G    G/B   C
+que  você um dia imaginou
+         Csus/G               G/B     Am7
+Se houve algum motivo incerto ou justo
+           F9         Gsus  G
+Não leve a mal não julgue
+        Csus/G          G/B
+Se você tentar vai ver
+      C                 Csus    G/B
+Que é fácil amar o seu irmão
+         Am7
+Sem criticá-lo
+             Em                  F9
+mesmo que aos olhos seus haja um erro
+             C
+Interceda por ele
+ Dm7                   G
+Entregue a sua vida a Deus
+
+              C7+              Am7
+Deus quer que você e seu irmão
+      Dm7
+Sejam um
+           C7+             Am7           Dm7
+compreendam todas as diferenças e sejam um
+        F7+         F/G
+O mesmo corpo no Senhor
+       Em7
+Uma só voz
+          F7+
+O mesmo louvor
+Dm7                  G
+Abram seus corações
+        C
+E sejam um
+
+(intro)
+
+Se alguem deixou de ser aquilo....
+
+(base solo) F/A G Em F G A F/A G Em F G A# A
+
+               D7+        Bm
+Deus quer que vc e seu irmao...
+
+(final) G7M F#m7 Em7 Asus A
+        G7M F#m7 Em7
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A# = X 1 3 3 3 1
+Am7 = X 0 2 0 1 0
+Asus = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+Csus = X 3 2 0 1 0
+Csus/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+D7+ = X X 0 2 2 2
+Dm7 = X 5 7 5 6 5
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F#m7 = 2 X 2 2 2 X
+F/A = 5 X 3 5 6 X
+F/G = 3 X 3 2 1 X
+F7+ = 1 X 2 2 1 X
+F7M = 1 X 2 2 1 X
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7M = 3 X 4 4 3 X
+Gsus = 3 2 0 0 0 3

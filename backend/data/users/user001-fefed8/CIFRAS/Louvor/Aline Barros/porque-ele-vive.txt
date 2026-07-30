@@ -1,0 +1,62 @@
+@titulo: porque-ele-vive
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Porque Ele Vive
+
+Intro.:   C#m7   A   E   B/D#  (3x)
+             C#m7   A   E   B9
+
+                     E                                 A
+Porque Ele vive, posso crer no amanhã
+                     E/G#  C#m7                    F#m7   B9
+Porque Ele vive,               temor não há
+                     (E  E/F#  E/G#)                  A
+Mas eu bem sei, eu sei que a minha vida
+                 E/G#                     B9                     C#m7    A    E    B/D#    C#m7    A    E    B9
+Está nas mãos do meu Jesus, que vivo está
+
+                   E                       A
+Deus enviou Seu filho amado
+                  E/G#  C#m7           F#m7   B9
+Pra me salvar                e perdoar
+                     E                            A
+Na cruz morreu por meus pecados
+                  E/G#            B9                 E    B9
+Mas ressurgiu e vivo com o Pai está
+
+
+                     E                                 A
+Porque Ele vive, posso crer no amanhã
+                     E/G#  C#m7                    F#m7   B9
+Porque Ele vive,               temor não há
+                     (E  E/F#  E/G#)                  A
+Mas eu bem sei, eu sei que a minha vida
+                 E/G#                     B9                        E    B9
+Está nas mãos do meu Jesus, que vivo está
+
+                     E                                 A
+Porque Ele vive, posso crer no amanhã
+                     E/G#  C#m7                    F#m7   B9
+Porque Ele vive,               temor não há
+                     (E  E/F#  E/G#)                  A
+Mas eu bem sei, eu sei que a minha vida
+                 E/G#                     B9                     C#m7    A    E    B/D#  (7x)  /  C#m7    A    E    B9    E
+Está nas mãos do meu Jesus, que vivo está
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B/D# = X 6 X 4 7 7
+B9 = X 2 4 4 2 2
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E/F# = X X 4 4 5 4
+E/G# = 4 X 2 4 5 X
+F#m7 = 2 X 2 2 2 X

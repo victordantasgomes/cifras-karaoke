@@ -1,0 +1,141 @@
+@titulo: na-hora-de-amar
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Na Hora de Amar
+
+[Intro] Em  C9  D9
+        Em  C9  D9
+
+E|----------------------------------------------------|
+B|----7-7h8---7---5-5--7--7h8-7-----------------------|
+G|-/9-7-7h9---7---5-5--7--7h9-7--9--7/9-7-------------|
+D|-/9----------------------------9--7/9-7-------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|----------------------------------------------------|
+B|----7-7h8---7---5-5--7--7h8-7-----------------------|
+G|-/9-7-7h9---7---5-5--7--7h9-7--9--7/9-7-------------|
+D|-------------------------------9--7/9-7-------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+[Primeira Parte]
+
+       Em           C9       D9
+Seu olhar sempre está muito longe
+
+         Em          Am7      D9
+Em um lugar que se chama solidão
+            Em   C9           D9
+Chego a pensar que você se esconde
+             A9  Am
+Da minha paixão
+
+           Em        C9           D9
+Sempre a voar, pensamento tão distante
+            Em    C9             D9
+E eu me pergunto: o que foi que fiz?
+           Em      C9            D9
+Mas são palavras que ninguém responde
+             A  Am
+Te vejo infeliz
+
+[Refrão]
+
+             D9           A9
+Você deve estar com medo de contar
+          Bm7            G
+Que seu amor por mim acabou
+           Em  D9/F#  G       A9
+Sempre fingiu,       nada sentiu
+             Bm7  A9
+Na hora de amar
+
+[Segunda Parte]
+
+           Em         C9           D9
+Eu vejo o sol se afastando no horizonte
+         Em       C9           D9
+Igual você que se escondeu de mim
+             Em     C9               D9
+Não sei porque um amor que era tão grande
+               A9  Am
+Foi ficando assim
+
+[Refrão]
+
+             D9           A9
+Você deve estar com medo de contar
+          Bm7            G
+Que seu amor por mim acabou
+           Em  D9/F#  G       A9
+Sempre fingiu,       nada sentiu
+
+             D9            A9
+Na hora de amar, tem medo de contar
+          Bm7            G
+Que seu amor por mim acabou
+           Em  D9/F#  G       A9
+Sempre fingiu,       nada sentiu
+             Bm7  A9
+Na hora de amar
+
+E|----------------/9-9~~------------------------------|
+B|----3-5-5/7-7\5-------------------------------------|
+G|-/4-------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+[Ponte]
+
+Em         G            D9      C9
+  A gente sente quando tudo acabou
+Em            G           D9
+  Quando o encanto da paixão sumiu, oh, oh
+Em         G            D9      A         C9
+  Um sentimento que só meu coração descobriu
+           A9
+Uoh, oh oh oh oh
+
+[Refrão]
+
+   Bb9         Eb9               Bb9
+Você deve estar, com medo de contar
+          Cm             Ab             Fm  Ab      Bb9
+Que seu amor por mim acabou, sempre fingiu nada sentiu
+             Eb9
+Na hora de amar (insensível)
+          Bb9
+Tem medo de contar
+          Cm             Ab             Fm  Ab      Bb9
+Que seu amor por mim acabou, sempre fingiu nada sentiu
+             Cm  Ab7M
+Na hora de amar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+Ab = 4 3 1 1 1 4
+Ab7M = 4 X 5 5 4 X
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bb9 = X 1 3 3 1 1
+Bm7 = X 2 4 2 3 2
+C9 = X 3 5 5 3 3
+Cm = X 3 5 5 4 3
+D9 = X X 0 2 3 0
+D9/F# = 2 X 0 2 3 0
+Eb9 = X 6 8 8 6 6
+Em = 0 2 2 0 0 0
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3

@@ -1,0 +1,73 @@
+@titulo: eu-fecho-o-bar
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Eu Fecho o Bar
+
+Intro: E B E B E B7
+
+              E
+Depois da cachaça, com cabeça inchada
+                B
+Nunca mais eu bebo
+                F#m                    A                  E  B7
+Depois no outro dia, to em outro buteco mandando pra dentro
+            E                   E7                   A
+Mamãe me dizia pra eu tomar cuidado pra não passar mal
+               E               B7                 E
+Não sou exagerado só tomo um bucado pra ficar legal
+
+(Refrão)
+
+                     E                                 F#m
+Desce mais uma por favor garçom, que a moreninha tá querendo aqui
+                    B                                  E          B7
+E a loirinha tá querendo lá, e nóis que é homem tá doidinho pra amar
+                     E                          F#m
+E a mulherada tá querendo lá e desse jeito vai ser bom pra lá, a vida é curta
+
+B                                        E
+Vamo aproveitar, deixa comigo eu fecho o bar
+
+(Intro)
+
+                  E                                         B
+Eu sei que tem gente que é muito certinho e que dorme mais cedo
+               F#m                    A                  E   B7
+A noite eu não durmo, não gosto do escuro, eu morro de medo
+          E               E7                 A                      E
+Medo de acabar, medo de faltar cerveja pro povo, se tem dor de cabeça
+             B7                  E
+Nóis toma remédio e começa de novo
+
+
+(Refrão)
+
+                    E                                 F#m
+Desce mais uma por favor garçom, que a moreninha tá querendo aqui
+                    B                                  E          B7
+E a loirinha tá querendo lá, e nóis que é homem tá doidinho pra amar
+                     E                          F#m
+E a mulherada tá querendo lá e desse jeito vai ser bom pra lá, a vida é curta
+B                                        E
+Vamo aproveitar, deixa comigo eu fecho o bar  (2x)
+
+B                        E
+Deixa comigo eu fecho o bar..
+B                        E
+Deixa comigo eu fecho o bar..
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

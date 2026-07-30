@@ -1,0 +1,76 @@
+@titulo: 3x4
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - 3x4
+
+Intro 2x: E  B5(9) C#m
+
+E                         G#
+  Diga a verdade ao menos uma vez na vida
+   A5(9)          A#°
+você se apaixonou    pelos meus erros
+     E
+Não fique pela metade
+        G#
+Vá em frente, minha amiga
+     A5(9)             A#°           E B5(9) C#m
+Destrua a razão desse beco sem saída
+E
+ Diga a verdade
+         G#
+Ponha o dedo na ferida
+   A5(9)          A#°
+você se apaixonou   pelos meus erros
+E
+Eu perdi as chaves
+      G#
+Mas que cabeça a minha!
+
+  A5(9)                A#°             E B5(9) C#m
+Agora vai ter que ser para toda a vida
+
+Refrão:
+A5(9) B5(9)                      C#m
+           Somos o que há de melhor
+A5(9) B5(9)                      C#m
+           Somos o que dá pra fazer
+           F#m
+O que não dá pra evitar
+          G#          ( E B5(9) C#m ) (2x)
+E não se pode escolher
+
+   E                         G#
+Se eu tivesse a força que você pensa que eu tenho
+         A5(9)                 A#°
+Eu gravaria no metal da minha pele o teu desenho
+  E                     G#
+Feitos um pro outro... feitos pra durar
+     A5(9)              A#°     B5(9)   ( E B5(9) C#m ) (2x)
+Uma luz que não produz     sombra
+
+Refrão:
+A5(9) B5(9)                      C#m
+           Somos o que há de melhor
+A5(9) B5(9)                      C#m
+           Somos o que dá pra fazer
+           F#m
+O que não dá pra evitar
+          G#          ( E B5(9) C#m ) (2x)
+E não se pode escolher
+
+----------------- Acordes -----------------
+A#° = X 1 2 0 2 0
+A5(9) = X 0 2 2 0 0
+B5(9) = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G# = 4 3 1 1 1 4

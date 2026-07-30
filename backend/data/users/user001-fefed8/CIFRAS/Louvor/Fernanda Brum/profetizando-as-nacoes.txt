@@ -1,0 +1,73 @@
+@titulo: profetizando-as-nacoes
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Profetizando Às Nações
+
+[Intro] Bm9  A9  Bm9
+
+E|--------------------------------|
+B|--------------------------------|
+G|--------------9-9-9-------------|
+D|--12-12-12-11-------12----------|
+A|--------------------------------|
+E|--------------------------------|
+
+E|--------------------------------|
+B|--------------------------------|
+G|--11-9--------------------------|
+D|-------12-11-9------------------|
+A|----------------9h-11-11-12-12--|
+E|--------------------------------|
+
+E|--------------------------------|
+B|--------------------------------|
+G|--11-9--------------------------|
+D|-------12-11-9------------------|
+A|----------------9h-11-11-12-9---|
+E|--------------------------------|
+
+
+ Bm9  B/A          B/G        Bm9    G9/E      F#       Bm9   Bm9
+ O dia chegou, um estrondo se ouviu, mais uma trombeta soou, profetas se
+ B/A          B/G        G9         A         B        Em9
+Levantam com autoridade, dizendo assim diz o Senhor: profetas que não
+          G9             Em9                   Bm9            Em9
+Vendem o seu ministério e nem negociam a sua unção, o seu compromisso
+     G9                 Em9               F#4      F#
+É pregar o evangelho, o arrependimento à todas as nações
+
+[Refrão]
+
+   B9                A/F#           E     A9       B9
+Ecoa do Sul, ecoa do Norte, de Leste a Oeste a voz do Senhor, derrete os
+            A/F#            Em9                      G9          A9
+Montes, estremece a terra, ressuscita os mortos, profetizando vida as
+    B9      Em9      F#m9      Bm9
+Nações, profetizando vida as nações
+
+( Bm9  A9  Bm9 )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/F# = 2 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+B/G = 3 X 4 4 4 X
+B9 = X 2 4 4 2 2
+Bm9 = X 2 4 6 3 2
+E = 0 2 2 1 0 0
+Em9 = 0 2 4 0 0 0
+F# = 2 4 4 3 2 2
+F#4 = 2 4 4 4 2 2
+F#m9 = 2 4 6 2 2 2
+G9 = 3 X 0 2 0 X
+G9/E = 0 2 0 2 0 3

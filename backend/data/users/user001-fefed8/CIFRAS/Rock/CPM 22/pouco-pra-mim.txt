@@ -1,0 +1,69 @@
+@titulo: pouco-pra-mim
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Pouco Pra Mim
+
+Intro 4x: D5  G5  E5  A5
+E|-------------------------------------------------------------|
+B|-------------------------------------------------------------|
+G|-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7...--------------------|
+D|-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-----------------------|
+A|-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5...--------------------|
+E|-------------------------------------------------------------|
+
+D5     E5                 A5      G5
+Sinto que tudo vai terminar
+D5          E5                A5   G5
+E por isso agora vou te contar
+B5              G5                  D5    A5
+O que eu sinto e nunca pude te falar
+B5             G5                         D5           A5
+O meu coração sempre foi seu, mais você não soube valorizar
+( D5 G5 E5 A5 )
+Se é bom pra você, é pouco pra mim
+Eu te dei o céu mais você não quis
+G5                  A5
+Todo mundo tem um sonho eu também tenho o meu
+
+G5                    A5
+De achar alguém pra sempre, e eu pensei que era você
+G5                   A5
+Mais o meu não pode ser você (cê você)
+G5                A5
+Um dia agente se vê está tudo bem
+
+Solo: D5  G5  E5  A5
+E|-------------------------------
+B|-------------------------------
+G|-7-9-7--7-9-7-11-9-7-9-7-9-7---
+D|-------------------------------
+A|-------------------------------
+E|-------------------------------
+
+G5                  A5
+Todo mundo tem um sonho eu também tenho o meu
+G5                    A5
+De achar alguém pra sempre, e eu pensei que era você
+G5                    A5
+Mais o meu não pode ser você (cê você)
+G5                A5
+Um dia agente se vê está tudo bem
+( D5  G5  E5  A5 )
+Se é bom pra você, é pouco pra mim
+
+Eu te dei o céu mais você não quis   (2x)
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+B5 = X 2 4 4 X X
+D5 = X 5 7 7 X X
+E5 = 0 2 2 X X X
+G5 = 3 5 5 X X X

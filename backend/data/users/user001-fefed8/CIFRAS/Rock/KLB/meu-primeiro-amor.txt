@@ -1,0 +1,70 @@
+@titulo: meu-primeiro-amor
+@autor:
+@intérprete: KLB
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+KLB - Meu Primeiro Amor
+
+  Intro:                                                                                 A   E
+  E|----------------------------------------------------7-----------------------------|-0-|-0-|
+  B|-6-8-9------------------------6---------5---5-7-8-----9-7-8-9---------------------|-2-|-0-|
+  G|-------8----6-8-9-5-3---3-5-6-----3-4-5-----------7-----------8--5-7-8-8-10-8-7-8-|-2-|-1-|
+  D|---------9------------------------------------------------------------------------|-2-|-2-|
+  A|----------------------------------------------------------------------------------|-0-|-2-|
+  E|----------------------------------------------------------------------------------|-x-|-0-|
+
+                C
+ Meu primeiro amor
+               A
+ Tem raios de luz
+             B   C
+ O verde do maaaaaar
+             A    D - A
+ O sol no olhar
+
+                C
+ Meu primeiro amor
+           B
+ É uma oração
+           C     D
+ É uma cançããããããão
+               B
+ Que vem me ninar
+
+                E
+ Meu primeiro amor
+             C
+ Parece uma festa
+               D   E
+ Chegou tão depressa
+             C     C7
+ Nem pude notar
+
+
+
+ Refrão
+
+
+   B       C#m            A
+ Amor que vem pra me ensinar
+             D         B
+ O que é saudade, solidão
+           C#m          A
+ Amor que vem pra me tocar
+           D          B
+ Amor que vem do coração (2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0

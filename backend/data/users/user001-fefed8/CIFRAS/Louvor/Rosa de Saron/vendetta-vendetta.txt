@@ -1,0 +1,143 @@
+@titulo: vendetta-vendetta
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Vendetta! Vendetta!
+
+Intro: C#5 B5 C#5 B5 A5 F#5 A5 F#5 (2x)
+      ( B5 G5 E5 A5 )
+
+B5
+O seu limite é o que te faz sentir que há uma saída
+                                       A5 ( E5 F#5 )
+Quando tudo o que vê é uma chance de se vingar?
+B5
+O sangue sobe e você corre atrás de quem te feriu, ok
+                                A5  ( E5 F#5 B5 )
+E depois de tudo acabar, o que vem depois?
+
+( C#5 B5 F#5 )(8x)
+
+Nunca será fácil controlar o ódio, nunca foi
+
+Da força à injustiça há somente um passo
+
+     G5                                E5
+E então, antes que embarque em uma vingança
+                     B5                         A5
+Lembre-se, antes de sair, que você cave duas covas
+
+     G5                        E5
+E assim feito, mais rápido do que a luz
+                      B5                    A5
+Mais rápido do que o som, virá o arrependimento
+        G5                     E5
+Fica o aviso: Aqui, quem zela pelo outro,
+                    B5 ( G5 E5 A5 )
+preserva seu maior bem
+
+B5
+Ultrapassar os seus limites
+                                           A5 ( E5 F#5 )
+Não é um erro menor do que ficar aquém deles
+B5
+Se o que quer é redenção então vire a outra face
+        A5  E5 F#5 B5
+E a única marca que vai te sobrar é o perdão
+
+( C#5 B5 F#5 )(8x)
+
+Nunca será fácil controlar o ódio, nunca foi
+Da força à injustiça há somente um passo
+     G5                                E5
+E então, antes que embarque em uma vingança
+
+                     B5                         A5
+Lembre-se, antes de sair, que você cave duas covas
+     G5                        E5
+E assim feito, mais rápido do que a luz
+                      B5                    A5
+Mais rápido do que o som, virá o arrependimento
+        G5                     E5
+Fica o aviso: Aqui, quem zela pelo outro,
+                    B5
+preserva seu maior bem
+
+Base: G5 E5 B5 (2x)
+    ( C#5 A5 B5 )
+
+ Solo: G5
+E|---------------------------------
+B|---------------------------------
+G|-4-4-4-4-6-6-6-6-7-7-7-7-9-9-9-9-
+D|---------------------------------
+A|---------------------------------
+E|---------------------------------
+
+    E5
+E|-----------------------------------------------
+B|-----------------------------------------------
+G|-14-14-14-14-12-12-12-12-11-11-11-11-9-9-9-9-4-
+D|-----------------------------------------------
+A|-----------------------------------------------
+E|-----------------------------------------------
+
+    B5
+E|-------------------------------------9h10r9--9------------
+B|-7------7------7------7------7-----------------10-7-10p7--
+G|-9h11r9-9h11r9-9h11r9-9h11r9-9h11r9---------------------9~
+D|----------------------------------------------------------
+A|----------------------------------------------------------
+E|----------------------------------------------------------
+
+    G5
+E|---------------------------------
+B|---------------------------------
+G|-4-4-4-4-6-6-6-6-7-7-7-7-9-9-9-9-
+D|---------------------------------
+A|---------------------------------
+E|---------------------------------
+
+   E5                               B5
+E|--------------------------------------
+B|--------------------------------------
+G|-4-4-4-4-6-6-6-6-7-7-7-7-9-9-9-9-14~~-
+D|--------------------------------------
+A|--------------------------------------
+E|--------------------------------------
+
+     C#5     A5      B5
+E|--------------------
+B|--------------------
+G|-6-6-6-6-2-2-2-2-4~~
+D|--------------------
+A|--------------------
+E|--------------------
+
+     G5                                E5
+E então, antes que embarque em uma vingança
+                    B5                         A5
+Lembre-se, antes de sair, que você cave duas covas
+     G5                        E5
+E assim feito, mais rápido do que a luz
+                      B5                    A5
+Mais rápido do que o som, virá o arrependimento
+        G5                     E5
+Fica o aviso: Aqui, quem zela pelo outro,
+                    B5
+preserva seu maior bem
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+B5 = X 2 4 4 X X
+C#5 = X 4 6 6 X X
+E5 = 0 2 2 X X X
+F#5 = 2 4 4 X X X
+G5 = 3 5 5 X X X

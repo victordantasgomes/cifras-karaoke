@@ -1,0 +1,116 @@
+@titulo: quebrantado-coracao
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Quebrantado Coração
+
+[Intro] Bm7  A6(9)  G9
+        Bm7  A6(9)  G9
+
+E|-----------------------------------------|
+B|-5-7-5-7-2-3-2-3------2-3-2-4------------|
+G|-----------------4--4---------4----------|
+D|-----------------------------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+E|---------------5-2-0-2-------------------|
+B|-5-7-5-7-2-3-5---------------------------|
+G|-----------------------------------------|
+D|-----------------------------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+ Bm7         A6(9)         G9
+Tudo que eu tenho a Te ofertar
+Bm7           A6(9)   G9
+É  um quebrantado coração
+
+Em             F#4          F#
+Eu queria ter muito, muito mais
+     Bm7         A6(9)
+Mas tudo que eu tenho é
+     G9         F#  F#/A#  Bm7  A/C#
+Um quebrantado co__ra_____ção
+
+     D          A
+Um quebrantado coração
+ Bm7        G
+Move o coração de Deus
+     D          A
+Um quebrantado coração
+        G    D/F#  Bm7  A/C#
+Traz o céu pra    nós
+
+     D          A
+Um quebrantado coração
+ Bm7        G
+Move o coração de Deus
+     D          A
+Um quebrantado coração
+        G    A/G  G
+Traz o céu pra   nós
+
+      Em              D/F#
+Conhecer a Deus é ir mais além
+      G               D/F#
+É rasgar o céu com o coração
+     Em              D/F#
+É tocar a Deus com uma canção
+        G  A/G  G  A/G  B4  B
+De um quebran__ta_do   coração
+
+     E          B
+Um quebrantado coração
+ C#m7       A
+Move o coração de Deus
+     E          B
+Um quebrantado coração
+        A    E/G#  C#m7  B/D#
+Traz o céu pra    nós
+
+     E          B
+Um quebrantado coração
+ C#m7       A
+Move o coração de Deus
+     E          B
+Um quebrantado coração
+        A    B/A  A  B/A
+Traz o céu pra   nós
+        A    B/A  A  B/A
+Traz o céu pra   nós
+        F#m  E/G#  A  B  E
+Move o co___ra____ção de Deus
+
+[C#m7  A  F#m  B]
+[E  C#m7  A  F#m  B  E]
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+A6(9) = 5 4 4 4 X X
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+B/D# = X 6 X 4 7 7
+B4 = X 2 4 4 5 2
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#4 = 2 4 4 4 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G9 = 3 X 0 2 0 X

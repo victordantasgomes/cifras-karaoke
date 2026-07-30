@@ -1,0 +1,197 @@
+@titulo: tarde-vazia
+@autor:
+@intérprete: Ira!
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ira! - Tarde Vazia
+
+Intro 2x: D  G5/D
+
+
+Intro e Primeira Parte:
+
+Parte 1 de 2
+
+   D
+E|-----2-0------------2-0---------------------------|
+B|---3-------2-3----3-------2-3---------------------|
+G|-2--------------2---------------------------------|
+D|-0-------0------0-------0-------------------------|
+A|--------------------------------------------------|
+E|--------------------------------------------------|
+
+Parte 2 de 2
+
+   G5/D
+E|-------2h3---------2h3---------2h3---------3p2----|
+B|-----3-----3-----3-----3-----3-----3-----3-----3--|
+G|---0-----------0-----------0-----------0----------|
+D|-0-----------0-----------0-----------0------------|
+A|--------------------------------------------------|
+E|--------------------------------------------------|
+
+
+Primeira Parte:
+
+D                                   G5/D
+  Pela janela vejo fumaça, vejo pessoas
+D                             G5/D
+  Na rua os carros, no céu o sol e a chuva
+D               G5/D
+  O telefone tocou
+D                 G5/D
+  Na mente fantasia
+
+Refrão:
+
+G7M        F#m7(11)/E    Em7
+     Você me          ligou
+   A4
+Naquela tarde vazia
+G7M    F#m7(11)/E   Em7   F#m7(11)/E
+    E me         valeu o dia
+
+G7M       F#m7(11)/E    Em7
+    Você me          ligou
+   A4
+Naquela tarde vazia
+G7M     F#m7(11)/E   Em7    F#m7(11)/E  Em7
+     E me         valeu o dia
+
+Passagem:
+
+E|------------------------------------------------|
+B|------------------------------------------------|
+G|-7--6--4--------0-------------------------------|
+D|-9--7--5--7--5--4-------------------------------|
+A|----------9--7--5-------------------------------|
+E|------------------------------------------------|
+
+Primeira Parte - Com Variação:
+
+D9(11)                                   G5
+       Pela janela vejo fumaça, vejo pessoas
+D            D/F#             G5
+  Na rua os carros, no céu o sol e a chuva
+D        D/F#   G5
+  O telefone tocou
+D           D/F#  G5
+  Na mente fantasia
+
+Repetições - Primeira Parte:
+
+D9(11)
+↓↓↑ ↓↑↓ ↓↓↑ ↓↑↓
+
+Parte 1 de 3
+
+   G5
+E|-----------------------------------------|
+B|-0--------3-------3-------3--------------|
+G|-0----2h4-----2h4-----2h4---4-2-0--------|
+D|-0--------------------------------4-2-0--|
+A|-----------------------------------------|
+E|-3----------3-------3--------------------|
+
+D        D/F#
+↓↓↑ ↓↑↓  ↓↓↑ ↓↑↓
+
+Parte 2 de 3
+
+   G5
+E|----------------------------2h3-2--0-----|
+B|---------3-------3--------3-3---3--3--3--|
+G|-----2h4-----2h4------2h4----------------|
+D|-0---------------------------------------|
+A|-----------------------------------------|
+E|-3---------3-------3---------------------|
+
+D        D/F#
+↓↓↑ ↓↑↓  ↓↓↑ ↓↑↓
+
+Parte 3 de 3
+
+   G5
+E|-----------------------------------------|
+B|-0--------3-------3-------3--------------|
+G|-0----2h4-----2h4-----2h4---4-2-0--------|
+D|-0--------------------------------4-2-0--|
+A|-----------------------------------------|
+E|-3----------3-------3--------------------|
+
+D        D/F#
+↓↓↑ ↓↑↓  ↓↓↑ ↓↑↓
+G5
+↓↓↑ ↓↑↓ ↓↓↑ ↓↑↓
+
+Refrão - Com Variação na Letra:
+
+G7M        F#m7(11)/E    Em7
+     Você me          ligou
+   A4
+Naquela tarde vazia
+
+G7M      F#m7(11)/E   Em7  F#m7(11)/E
+     Na mente        fantasia
+G7M        F#m7(11)/E    Em7
+     Você me          ligou
+   A4
+Naquela tarde vazia
+G7M     F#m7(11)/E   Em7  F#m7(11)/E  Em7(9)
+    Na mente        fantasia
+
+Segunda Parte:
+
+( D  D/A  D/C  D/B ) (2x)
+
+D          D/A           D/C
+  Você me ligou naquela tarde vazia
+   D/B        D   D/A
+E me valeu o dia
+D/C              D/B
+    Valeu o dia,     valeu o dia
+D            D/A         D/C
+  Você me ligou naquela tarde vazia
+    D/B        D  D/A
+Na mente fantasia
+D/C                    D/B
+    Na mente fantasia,     na mente fantasia
+D9        G6/B         C4+(9)
+   Podia ter muitas garotas
+     Em7(9)     D9
+Mas você é diferente
+           G6/B        C4+(9)
+Você me ligou naquela tarde vazia
+   Em7(9)     D9  G6/B
+E me valeu o dia
+C4+(9)              Em7(9)
+       Valeu o dia,        valeu o dia
+
+( D9  G6/B  C9  Em7(9) ) (3x)
+
+( D  D/A  C9  G6/B  D9 )
+
+----------------- Acordes -----------------
+A4 = X 0 2 2 3 0
+C4+(9) = X 3 4 0 3 X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/B = X 2 0 2 3 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+D9(11) = X 5 4 0 3 0
+Em7 = 0 2 2 0 3 0
+Em7(9) = X 7 5 7 7 X
+F#m7(11)/E = 0 X 2 2 0 X
+G5 = 3 5 5 X X X
+G5/D = X X 0 0 3 3
+G6/B = 7 5 5 7 5 X
+G7M = 3 X 4 4 3 X

@@ -1,0 +1,80 @@
+@titulo: meu-piano
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Meu Piano
+
+De: Raul Seixas/ Cláudio Roberto/ Kika Seixas
+
+
+Intr.: E7 Eb7 D7 C#7
+
+C#7
+   Nada mais é coerente
+Se virar de trás pra frente
+Tanto fez como tanto faz
+F#7
+   Já experimente a casa inteira
+E não achei um lugar pro meu piano
+B7
+  Entra ano e sai ano
+Não cogito em fazer planos
+                                     E7 Eb7 D7
+E eu só gostei do quadro que não pintei!
+C#7
+   Lá pras três da madrugada
+A síndica embriagada
+Resolveu escancarar
+
+F#7
+   Numa briga com o marido
+Num acorde sustenido
+E o meu piano fora do lugar
+B7
+  Haja santo e haja vela
+Mesmo assim a cinderela
+                       E7
+Meia-noite vai desencantar
+ A7     E7
+Desencantar!!!
+      F#m7  B7      E7  C#7       F#m7
+Cinderela,    Cinderela,    Cinderela
+B7                   E7
+Bota meu piano no lugar
+A7   E7
+No lugar
+(Solo sobre harmonia da 1ª parte - E7 Eb7 D7)
+C#7
+   Eis que a noite se fez dia
+E eu naquela agonia
+Vi pela janela um velho entrar
+F#7
+   Se dizendo faxineiro, um "expert" em banheiro
+Pra meu piano afinar
+B7
+   E aos trancos e barrancos
+Vasculhei todos os cantos
+                              E7
+E o meu piano sempre fora do lugar!!!
+A7   E7
+Do lugar
+
+REFRÃO
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+C#7 = X 4 3 4 2 X
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Eb7 = X 6 5 6 4 X
+F#7 = 2 4 2 3 2 2
+F#m7 = 2 X 2 2 2 X

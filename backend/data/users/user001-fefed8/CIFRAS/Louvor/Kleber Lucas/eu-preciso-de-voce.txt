@@ -1,0 +1,70 @@
+@titulo: eu-preciso-de-voce
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Eu Preciso de Você
+
+[Intro]: Cadd9 G/B Am F/G G
+
+Cadd9          G/B        Am   C/Bb
+Eu preciso de você aqui comigo
+                F    G
+Pois não posso ver além
+      Cadd9   G/B     Am7
+se Você não está por perto
+       Dm7
+Sem a Tua direção
+     F/G
+Tudo fica sem razão
+     C      G74 G
+não dá, não dá
+
+ Cadd9  G/B  Am  Am/G
+Como viver a vida
+        F                  G  Gsus4  G
+se não tenho um motivo melhor?
+ Cadd9      G/B      Am  Am/G
+Como ver sentido na noite
+
+        F               G74      G
+se não há esperança no amanhecer?
+
+   F             G
+Viver só faz sentido
+    Cadd9    G/B      Am  Am/G
+se Você está sempre comigo
+       F                        C/E
+Eu me sinto mais forte quando estou com Você
+          F
+e não há nada, nada, nada não
+    Dm7                      F
+melhor que Tua presença pra mim
+       G
+Eu preciso de você
+
+[Solo]:  F  G  F  Dm  G74  G
+
+Como viver a vida...
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C/Bb = X 1 2 0 1 X
+C/E = 0 3 2 0 1 0
+Cadd9 = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+F/G = 3 X 3 2 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+Gsus4 = 3 5 5 5 3 3

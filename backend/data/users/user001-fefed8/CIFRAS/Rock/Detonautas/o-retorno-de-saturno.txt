@@ -1,0 +1,105 @@
+@titulo: o-retorno-de-saturno
+@autor:
+@intérprete: Detonautas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Detonautas - O Retorno de Saturno
+
+[Intro]  A  C#m
+
+ A          C#m                    A
+Visão do espaço estamos tão distantes
+               C#m                          A
+Se acelero os passos sigo a voz do meu coração
+                 C#m                  E
+Ontem eu fui dormir mais tarde um pouco
+
+E                A
+E tudo vai indo bem
+ A            C#m              A
+Venço o cansaço e medo do futuro
+          C#m                           A
+No teu abraço é que encontro a cura do mal
+             C#m                  E
+Hoje eu acordei e te quis por perto
+
+          A             F#m
+Você não sai do meu pensamento
+                  C#m                E
+E eu me questiono aqui se isso é normal
+
+
+[Guitarra 1]
+
+E|----------------------------|
+B|--4/6--6/7--7/9--14--7~~----|
+G|----------------------------|
+D|--2/4--4/5--5/7--12--9~~----|
+A|----------------------------|
+E|----------------------------|
+
+ B  C#  D      E                           A
+Nãooo    precisa ser de novo assim tudo igual
+
+( A  F#m  C#m )
+
+A          C#m                  A
+Entre o retorno de Saturno e o seu
+              C#m                        A
+Busco uma resposta que acalme o meu coração
+               C#m                 E
+Do amanhã não sei o que posso esperar
+
+          A             F#m
+Você não sai do meu pensamento
+             C#m                     E
+E eu me questiono aqui se isso é normal
+          A             F#m
+Você não sai do meu pensamento
+            C#m                 E
+E eu me pergunto aqui se o Natural
+ B C# D    E                          A
+Vaaai   dizer que o amor chegou no final
+
+( A  C#m  F#m )
+
+ B  C# D      E                           A
+Nãooo   precisa ser de novo assim tudo igual
+
+( A  F#m  C#m )
+
+ A      F#m                           C#m
+Não precisa ser de novo assim tudo igual
+
+[Riff]
+
+E|---------------------------|
+B|---------------------------|
+G|--6h7-6~~------------------|
+D|---------------------------|
+A|---------------------------|
+E|---------------------------|
+
+[Riff 2]
+
+E|---------------------------|
+B|---------------------------|
+G|--6h7-6~~--6h7-6~~---------|
+D|--------------------6h7-6~~|
+A|---------------------------|
+E|---------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

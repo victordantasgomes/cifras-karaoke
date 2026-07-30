@@ -1,0 +1,72 @@
+@titulo: nova-historia
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Nova História
+
+Intro: F#m E
+
+F#m            E
+Sai de tua tenda
+   B4 B    Bm    A/B
+Oh filho meu, te mostrarei as
+
+estrelas do céu
+
+F#m             E
+Sai de tua tenda
+              B/D# Bm/D
+Oh filho meu, te mostrarei a areia do mar
+F#m   E/F# B4/F# B/F# Bm/F# B/A(F#)
+Será que podes contar?
+F#m  E/F#  B4/F#
+Será que podes imaginar?
+   B/F# Bm/F# B/A(F#)
+Tudo aquilo que sonhei para ti
+F#m
+Filho meu?
+
+
+                         E
+O que minhas mãos fizeram para ti
+       D
+Filho meu?
+                Bm          D
+Minha benção será sobre ti
+A       D              E D/E
+Uma nova história Deus tem pra mim
+A/C#                  D       E
+Um novo tempo Deus tem pra mim
+                        A
+Tudo aquilo que perdido foi
+D                       E
+Ouvirei de sua boca, te abençoarei
+
+Final: A  A4
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B/F# = X X 4 4 4 2
+B4 = X 2 4 4 5 2
+B4/F# = 2 2 4 4 5 2
+Bm = X 2 4 4 3 2
+Bm/D = X 5 X 4 7 7
+Bm/F# = X X 4 4 3 2
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+E = 0 2 2 1 0 0
+E/F# = X X 4 4 5 4
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2

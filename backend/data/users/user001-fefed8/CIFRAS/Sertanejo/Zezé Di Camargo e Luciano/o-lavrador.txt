@@ -1,0 +1,65 @@
+@titulo: o-lavrador
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - O Lavrador
+
+INTRO: ( G  Am  C  G ) ( D  D4  D )
+
+G                 D  D4  D  C                G   G/C  G
+ Sou apenas lavrador...      moro lá no infinito       na
+                   D  D4  D  C                     G   G/C  G
+inchada eu sou doutor....     no machado eu sou perito
+G                 A7     C                     D
+os meus versos semeei no rancho no balanço do garrancho que
+        G   G/C G  A7                             C
+sol queimou         no laço do pataxo no riacho no braço da
+         D                 G  G/C  G                  C
+viola que consola um cantador       minha vida pelos campos
+                    G                         C
+que são tantos pirilampos entre troncos e barrancos sou feliz
+          G                D  D4  D  C     D              G
+e por enquanto até o presidente       come do que eu planto
+G/C  G             D  D4  D  C     D             G  G/C  G
+       até o presidente       come do que eu planto
+G                 D  D4  D  C                G    G/C  G
+ Sou apenas sonhador...      da raiz e da semente        não
+                 D  D4  D  C                     G    G/C  G
+há terra meu Senhor...      que eu não faça obediente
+
+G                  A7  C                      D
+ tantos anos já gastei  no gado no arado e no chachado de um
+     G     G/C  G        A7
+sanfoneiro        fiz um filho sou o livro planto arvores e o
+C                     D                     G  G/C  G
+resto dos pecados por ser macho também desejei
+G                 C                            G
+minha vida pelos campos se chover não tem quebranto há
+                  C                    G                D  D4
+colheita vai ser boa tem fartura eu garanto até o presidente
+D  C     D             G  G/C  G             D  D4  D  C
+    come do que eu planto        até o presidente       come
+D             G  G/C  G            D    D4            D
+do que eu planto       todos presidentes (todos presidentes)
+C                 D             G  G/C  G  D  D4  D
+ todos brasileiro todos eles comem         Oh...    o que eu
+  C    D            G  G/C  G  D  D4  D            C    D
+planto e que eu semeio....     oh...    o que eu planto e que
+       G  G/C  G  D  D4  D            C    D            G
+eu semeio....     oh...    o que eu planto e que eu semeio...
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+G = 3 2 0 0 0 3
+G/C = X 3 5 4 3 3

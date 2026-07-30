@@ -1,0 +1,88 @@
+@titulo: super-amor
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Super Amor
+
+Solo Inicial:
+E|----3/5----12-12-10-9-----|--3/5----10-10-9-7------|--3/5----12-12-10-9--9-10-12\2-2/17--|
+B|----3/5-5-------------12--|--3/5-5-----------10-7--|--3/5-5------------12----------2/17--|
+G|--------6-----------------|------6-----------------|------6------------------------------|
+D|--------------------------|------------------------|-------------------------------------|
+A|--------------------------|------------------------|-------------------------------------|
+E|--------------------------|------------------------|-------------------------------------|
+
+Intro 3x: ( A9  E  F#m )
+
+A             E                 F#m
+ Eu já desafiei a lei da gravidade
+              D
+Já voei sem asas pra te procurar
+A                    E                   F#m
+ Tenho um radar no peito batendo de saudade
+             D                      E
+É o meu coração querendo te encontrar
+Solo 2:
+E|-----------------|
+B|-10-9------------|
+G|-----11-9-7-7/9--|
+D|-----------------|
+A|-----------------|
+E|-----------------|
+
+
+C#m                F#m      D         E
+ É só fechar os olhos e imaginar você
+Solo 3:
+E|-------7-9-10-9-|
+B|-7-9-10---------|
+G|----------------|
+D|----------------|
+A|----------------|
+E|----------------|
+
+C#m                F#m      D         E
+Que eu sinto a energia como um super poder
+
+Refrão 2x:
+     A               E
+Eu quero ser o seu super-herói
+  F#m                    D                   E
+Te dar um super amor que nem o tempo destrói
+A              E
+Quero mil anos pra te amar
+       F#m
+Só uma vida não basta
+            D             E    A
+Pro amor que eu tenho pra te dar
+
+(Repete tudo)
+
+(Solos)
+
+Refrão:
+     A               E
+Eu quero ser o seu super-herói
+  F#m                    D                   E
+Te dar um super amor que nem o tempo destrói
+A              E
+Quero mil anos pra te amar
+       F#m
+Só uma vida não basta
+            D             E    A
+Pro amor que eu tenho pra te dar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

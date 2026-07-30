@@ -1,0 +1,126 @@
+@titulo: maior-abandonado
+@autor:
+@intérprete: Cazuza
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cazuza - Maior Abandonado
+
+[Intro]
+
+E|------------------------------------------------------------------|
+B|------------------------------------------------------------------|
+G|------------------------------------------------------------------|
+D|------3--0-----0-3------3--0------0-3------3--0---0---------3--5--|
+A|--3---------3--------3---------3--------3-------3---3-3-0---1--3--|
+E|--1------------------1------------------1-------------------------|
+
+[Solo]
+
+E|-------------------------------------------------------|
+B|-------------------------------------------------------|
+G|-------------------------------------------------------|
+D|-------------------------------------------------------|
+A|--7-7-5---5-7---7-7-5---5-7---7-7-5---5-7--5-2-2/4-2---|
+E|--------7-------------7-------------7------------------|
+
+E               C#m              B                     C#m  B
+  Eu tô perdido, sem pai nem mãe, bem na porta da sua ca---sa
+E               C#m                             C#m B
+  Eu tô pedindo, a tua mão, e um pouquinho do bra--ço
+
+A              G#m          F#m  B  A  F#m
+  Migalhas dormidas do teu pão
+A           G#m           F#m
+  Raspas e restos me interessam
+A              G#m        F#m  B
+  Pequenas porções de ilusão
+
+Riff 1
+E|------------------|
+B|--5/7-7-5-4-0-4/5-|
+G|------------------|
+D|------------------|
+A|------------------|
+E|------------------|
+
+A              G#m          F#m            C#m  B
+  Mentiras sinceras me interessam, me interes--sam
+
+E               C#m        B                       C#m  B
+  Eu tô pedindo, a tua mão, me leve para qualquer la--do
+E                C#m         B                C#m  B
+  Só um pouquinho de proteção ao maior abandona---do
+A      G#m        F#m    B  A  F#m
+  Teu corpo com amor ou não
+
+Riff 1
+E|------------------|
+B|--5/7-7-5-4-0-4/5-|
+G|------------------|
+D|------------------|
+A|------------------|
+E|------------------|
+
+A           G#m           F#m
+  Raspas e restos me interessam
+A         G#m         F#m
+  Me ame como a um irmão
+
+Riff 2
+E|--14--12-11--|
+B|-------------|
+G|-------------|
+D|-------------|
+A|-------------|
+E|-------------|
+
+A              G#m          F#m            B
+  Mentiras sinceras me interessam, me interessam
+
+[Solo] E  C#m  B
+
+E|------------------------------------------------------|
+B|--5-5-3---3-5---5-5-3---3-5---5-5-3---3-5--3----------|
+G|--------4-------------4-------------4--------4--4/6-4-|
+D|------------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+A              G#m          F#m  B  A  F#m
+  Migalhas dormidas do teu pão
+A           G#m           F#m
+  Raspas e restos me interessam
+A              G#m        F#m  B  A  F#m
+  Pequenas porções de ilusão
+
+Riff 1
+E|------------------|
+B|--5/7-7-5-4-0-4/5-|
+G|------------------|
+D|------------------|
+A|------------------|
+E|------------------|
+
+A              G#m          F#m            B
+  Mentiras sinceras me interessam, me interessam
+
+E              C#m       B                      C#m  B
+  Estou pedindo a tua mão me leve pra qualquer la---do
+E                C#m         B                C#m  B
+  Só um pouquinho de proteção ao maior abandona---do
+
+[Final] E  C#m  B  E
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

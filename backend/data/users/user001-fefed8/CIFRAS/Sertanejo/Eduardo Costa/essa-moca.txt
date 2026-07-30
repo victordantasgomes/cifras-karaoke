@@ -1,0 +1,87 @@
+@titulo: essa-moca
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Essa Moça
+
+C
+Deus eu quero ver aquela moça
+Bem mais perto de mim
+  F
+Teus olhos tem um verde
+                           C/E F
+Bem mais verde que o verde capim
+G
+Quando eu lhe vejo
+  F             C/E          Am
+Até pareço um beija-flor de manha
+     G
+Sobrevoando os campos
+      F           C/E         Fm6
+Pra beijar a doce flor da maça
+C
+Deus, por essa moça eu me arrasto
+                Dm C/E
+Feito cobra no chão
+  F
+Escondo meu veneno e me entrego
+
+             Dm C/E F
+Com amor e paixão
+   G
+Sem ela eu me perco
+ F              C/E        G/A Am
+Fico feito sabiá sem laranjeira
+  G                        F/A
+Sem ela sou bom dia de ressaca
+           C       Dm    C/E F F/G
+Em dia de segunda-feira
+  C             C7+        C       Dm
+Sem ela sou alguém pela metade
+                 Dm7/C  G/B
+Sou um grito de saudade
+ F/G                     C      F/G G
+Sufocado e sem razão, sem ela
+      C            C7+      C    Dm
+Sem ela eu me sinto uma cidade
+       F        G
+Destruída na maldade
+ F/G                  C   Gm7 C/E
+Pela força de um vulcão
+  F            Dm        C
+Com ela posso ser um colibri
+   C7+        Am         G
+Canarinho ou bem te vi
+  G/F                   C/E  Bb/C C
+Preso ou livre mundo afora
+   F/A     F             C
+Com ela sou visita inesperada
+                   G
+Que não tem hora marcada
+     F/A     G/B      C
+E nem pressa de ir embora
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb/C = X 3 X 3 3 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+Dm = X X 0 2 3 1
+Dm7/C = X 3 0 2 1 1
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F/G = 3 X 3 2 1 X
+Fm6 = 1 X 0 1 1 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G/F = 1 X X 0 0 3
+Gm7 = 3 X 3 3 3 X

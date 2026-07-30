@@ -1,0 +1,82 @@
+@titulo: fica-comigo
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Fica Comigo
+
+Intro: C Am F G7 (2x)
+
+e|-----0-------------0---------------3-3-1-1-0-0-----3-1-0---
+B|-------3-1-1---------3-1-3-3/5-----------------3-1-------3-
+G|-2-0-----------2-0-----------------------------------------
+
+C                       F  G7
+  Quando o sol invade a noite
+Am            F     Dm
+  E o dia já vem
+                     F   G7
+Eu percebo você cada vez mais
+                C
+Se afastando de mim
+               F  G7
+O amor que era nosso
+Am               F     Dm
+   E agora é só meu
+                         F    G7
+No silêncio o olhar é de quem traz
+                    C
+Num só beijo um adeus
+
+
+       Am     Em
+Fica comigo, deixa eu provar
+       F                         G7
+Que os planos, nossos sonhos vão continuar                REFRÂO
+       Am     Em
+Fica comigo, deixa eu dizer
+       F                        G7
+Que as cartas são marcadas pra mim e você
+
+C                    F G7
+   Se a rotina é o motivo
+Am                  F    Dm
+   Que gelou seu calor
+                             F    G7
+Não se esqueça que sempre te quis mais
+              C
+E você nem ligou
+
+Solo: Am  Em  F  G7 (2x)
+
+e|-3--5------------5-7-8-7-5-3-1-0-----0----5/3-5/3-5/3-5/3-12-
+B|------3/5/3---5------------------3-1---3---------------------
+G|------------5------------------------------------------------
+
+e|-10--------------------------------------8-10-12-10-
+B|----13-12-10-----------------------10-12------------         a Segunda parte do solo está 
+G|-------------12-10---------9-10-12------------------                  simplificada.
+D|-------------------12---12--------------------------         Se ouvirem o solo vão saber porque!
+
+Se sentir que a dor de voltar atrás
+                 G7       C  Am
+É menor que seu amor, não vá
+Dm                          Am
+Se sentir que pode se arrepender
+               G7     C
+É melhor o coração mandar
+REFRÂO (varias vezes)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G7 = 3 5 3 4 3 3

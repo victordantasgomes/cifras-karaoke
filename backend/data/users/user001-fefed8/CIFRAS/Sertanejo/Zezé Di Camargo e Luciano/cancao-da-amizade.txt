@@ -1,0 +1,134 @@
+@titulo: cancao-da-amizade
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Canção da Amizade
+
+Intro:  E B A B
+
+E
+A terra precisa da chuva
+B
+A rosa precisa do espinho
+A                                          B
+Ninguém pode existir nesse mundo vivendo sozinho...
+
+
+E
+Um amigo é uma joia tão rara
+B
+Não se encontra em qualquer lugar
+    A
+É um tesouro guardado na alma
+        B
+de quem sabe amar...
+
+
+C#m
+Alegria quando é pra sorrir
+
+G#m
+Na tristeza quando é pra chorar
+A                                   B
+Um amigo é a força que leva você a lutar
+     C#m
+No momento em que a solidão
+      C#m
+Faz silêncio no seu coração
+        A                B                  E     B
+Sempre existe um amigo trazendo carinho nas mãos...
+
+
+       E
+Somos amigos pra valer
+       B
+Amigos sempre vamos ser
+        A                           B
+E entre nós não pode haver nenhum perigo
+       E
+Somos amigos pra valer
+         B
+Por toda vida até morrer
+        A          B
+E quem duvida pode ver
+       E
+Somos Amigos...
+
+
+C#m
+Na alegria quando é pra sorrir
+    G#m
+Na tristeza quando é pra chorar
+A                                    B
+Um amigo é a força que leva você a lutar
+     C#m
+No momento em que a solidão
+      G#m
+Faz silêncio no seu coração
+        A                 B                 E     B
+Sempre existe um amigo trazendo carinho nas mãos...
+
+
+     E
+Somos amigos pra valer
+       B
+Amigos sempre vamos ser
+        A                           B
+E entre nós não pode haver nenhum perigo
+       E
+Somos amigos pra valer
+         B
+Por toda vida até morrer
+        A          B
+E quem duvida pode ver
+       E
+Somos Amigos...
+
+
+     E
+Somos amigos pra valer
+       B
+Amigos sempre vamos ser
+        A                           B
+E entre nós não pode haver nenhum perigo
+       E
+Somos amigos pra valer
+         B
+Por toda vida até morrer
+        A          B
+E quem duvida pode ver
+       E       F
+Somos Amigos...
+
+
+       F#
+Somos amigos pra valer
+        C#
+Amigos sempre vamos ser
+        B                           C#
+E entre nós não pode haver nenhum perigo
+       F#
+Somos amigos pra valer
+         C#
+Por toda vida até morrer
+         B          C#
+E quem duvida pode ver
+       F#    B  F#  B          F#
+Somos Amigos___________somos amigos...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

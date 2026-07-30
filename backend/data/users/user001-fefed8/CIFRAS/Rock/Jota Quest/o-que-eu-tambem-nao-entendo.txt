@@ -1,0 +1,111 @@
+@titulo: o-que-eu-tambem-nao-entendo
+@autor:
+@intérprete: Jota Quest
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jota Quest - O Que Eu Também Não Entendo
+
+(intro)  A  D9  B5(9)
+
+E|------------------------------------------
+B|-2-2-0-2----3-3-2-3-2-2-0-----------------
+G|-2-2-2-2----2-2-2-2-2-2-2-----------------
+D|-2-2-2-2----0-0-0-0-0-0-0-----------------
+A|-0-0-0-0----------------------------------
+E|------------------------------------------
+
+A                      D9
+  Essa não é mais uma carta de amor,
+A                  D9
+  São pensamentos soltos, traduzidos em palavras
+A                       D9
+  Pra que você possa entender,
+A                        D9
+  O que eu também não entendo
+
+C                    C11
+ Amar não é ter que ter sempre certeza
+C                   C11
+ É aceitar que ninguém, é perfeito pra ninguém,
+
+C                  C11
+ É poder ser você mesmo e não precisar fingir,
+C               C11                    F      G
+ É tentar esquecer, e não conseguir fugir, fugir!
+
+A                    D9
+ Já pensei em te largar,
+                            A
+ Já olhei tantas vezes pro lado,
+                         D9
+ Mas quando penso em alguém,
+                            A
+ É por você que fecho os olhos,
+                       D9
+ Sei que nunca fui perfeito,
+                        A
+ Mas com você eu posso ser
+         D9
+ Até eu mesmo,
+
+                    C
+ Que você vai entender,
+                         C11
+ Posso brincar de descubrir desenho em nuvens,
+C                C11
+ Posso contar meus pesadelos,
+                      C
+ E até minhas coisas fúteis,
+                    C11
+ Posso tirar a tua roupa,
+                          C
+ Posso fazer o que eu quiser,
+                  C11                    F
+ Posso perder o juízo, mas com você eu tô tranquilo
+       G
+ Tranquilo.
+
+(refrão)
+
+F          Em         Dm7        C
+ Agora o que vamos fazer, eu também não sei
+F    Em             Dm7         C   Dm7  C/E
+ Afinal, será que amar é mesmo tudo,
+F                Em  Dm7      C
+ Se isso não é amor,   o que mais pode ser,
+F         Em       Dm7   E
+ Tô aprendendo também
+
+A                    D9
+ Já pensei em te largar,
+                            A
+ Já olhei tantaz vezes pro lado
+                         D9
+ Mas quando penso em alguém,
+                            A
+ É por você que fecho os olhos,
+                       D9
+ Sei que nunca fui perfeito,
+                        A
+ Mas com você eu posso ser
+         D9
+ Até eu mesmo.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B5(9) = X 2 4 4 2 2
+C = X 3 2 0 1 0
+C/E = X X 2 0 1 3
+C11 = X 3 3 0 1 0
+D9 = X X 0 2 3 0
+Dm7 = X X 0 2 1 X
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 3 3

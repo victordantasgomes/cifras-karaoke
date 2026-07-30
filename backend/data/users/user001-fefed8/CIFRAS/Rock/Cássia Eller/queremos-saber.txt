@@ -1,0 +1,93 @@
+@titulo: queremos-saber
+@autor:
+@intérprete: Cássia Eller
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cássia Eller - Queremos Saber
+
+Intro.: Em7 Am7 Em7 Am7 Cm6
+
+G               G/F
+Queremos saber,
+O que vão fazer
+C/E    D4/7        G
+Com as novas invenções
+C
+Queremos notícia mais séria
+F7M                       Em7
+Sobre a descoberta da antimatéria
+  Bm7
+e suas implicações
+C  Am7            Bm7
+Na emancipação do homem
+C   Am7            Bm7
+Das grandes populações
+C      Am7           Bm7
+Homens pobres das cidades
+C      C#º          C/D  Am7
+Das estepes dos sertões
+
+G               G/F
+Queremos saber,
+Quando vamos ter
+C/E  D4/7         G
+Raio laser mais barato
+    C
+Queremos, de fato, um relato
+F7M          Bb7M        Em7
+Retrato mais sério do mistério da luz
+       Bm7
+Luz do disco voador
+C   Am7           Bm7
+Pra iluminação do homem
+C      Am7         Bm7
+Tão carente, sofredor
+C       Am7        Am7
+Tão perdido na distância
+C    C#º         C/D  Am7
+Da morada do senhor
+G               G/F
+Queremos saber,
+Queremos viver
+C/E  D4/7        G
+Confiantes no futuro
+C   Am7                        F7M
+Por isso se faz necessário prever
+                        Em7
+Qual o itinerário da ilusão
+     Bm7
+A ilusão do poder
+C       Am7              Bm7
+Pois se foi permitido ao homem
+C      Am7         Bm7
+Tantas coisas conhecer
+C     Am7           Bm7
+É melhor que todos saibam
+C     C#º         C/D  Am7
+O que pode acontecer
+G7M            F7M
+Queremos saber, queremos saber
+G7M            F7M                    G7M
+Queremos saber, todos queremos saber
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bb7M = X 1 3 2 3 1
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#º = X 4 5 3 5 3
+C/D = X X 0 0 1 0
+C/E = 0 3 2 0 1 0
+Cm6 = X 3 X 2 4 3
+D4/7 = X X 0 2 1 3
+Em7 = 0 2 2 0 3 0
+F7M = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G/F = 1 X X 0 0 3
+G7M = 3 X 4 4 3 X

@@ -1,0 +1,67 @@
+@titulo: nao-a-nos-senhor
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Não a Nós, Senhor
+
+  A       E/A             D/A     A
+Não a nós, Senhor, Não a nós, Senhor
+E/G#     F#m7    B7  A/E  E
+Mas, ao Teu nome dá gló-ria.
+A     A7     Fm    C#7      F#m7    E        D/A       A
+Por amor da Tua misericórdia e da Tua fidelida- de.
+
+D        E/D       C#m7      F#m7    Bm7    E7       D/A    A
+Por que perguntam as nações: "Onde está o vosso De- us"?
+D       E/D        C#7         F#m7    Bm7     B7     D/E      E7
+No céu está o nosso Deus, que tudo faz como lhe agra- da.
+
+  A       E/A             D/A     A
+Não a nós, Senhor, Não a nós, Senhor
+E/G#     F#m7    B7  A/E  E
+Mas, ao Teu nome dá gló-ria.
+A     A7     Fm    C#7      F#m7    E        D/A       A
+Por amor da Tua misericórdia e da Tua fidelida- de.
+
+D        E/D       C#m7      F#m7    Bm7    E7       D/A    A
+Por que confiam as nações em ouro, prata e rique-zas,
+D       E/D        C#7         F#m7    Bm7     B7     D/E      E7
+E se afastam do Senhor, que é fonte de todas as bên-çãos?
+
+  A       E/A             D/A     A
+Não a nós, Senhor, Não a nós, Senhor
+E/G#     F#m7    B7  A/E  E
+Mas, ao Teu nome dá gló-ria.
+A     A7     Fm    C#7      F#m7    E        D/A       A
+Por amor da Tua misericórdia e da Tua fidelida- de.
+
+  A       E/A             D/A     A
+Não a nós, Senhor, Não a nós, Senhor
+E/G#     F#m7    B7  A/E  E
+Mas, ao Teu nome dá gló-ria...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/E = 0 X 2 2 2 0
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/E = X X 2 2 3 2
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+F#m7 = 2 X 2 2 2 X
+Fm = 1 3 3 1 1 1

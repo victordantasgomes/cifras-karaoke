@@ -1,0 +1,60 @@
+@titulo: nenhuma-esperanca
+@autor:
+@intérprete: Milionário e José Rico
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Milionário e José Rico - Nenhuma Esperança
+
+[Intro] C  Dm  F  G  A7
+        F  C  G  C
+
+C
+Você tem meu endereço
+                                  Dm F   G7
+Voce tem meu telefone quase nao me procura
+Simplesmente me deixa
+                               C
+Me fundi cabeça me leva a loucura
+Voce gosta de brincar
+                        C7                F
+De esconder e procurar mas eu nunca te acho
+                  C      G7   Am
+To cansado desse jogo seu
+                       Dm       Em         G7   Em     C
+Quem nao quer mais te encontrar sou eu to cruzando meus braços
+
+              Dm
+Pode me esquecer
+                  G7                   C
+Quero te perder dessa vez pra nunca mais
+
+               Dm
+Rasgue o telefone
+            G7    C   G7   C        C7    F
+Rabisque o meu nome é assim que a gente faz
+                     C
+Quando a gente esquece
+                G7                C   Am7
+A gente não guarda nehuma lembrança
+                            Dm
+Se não quer mais me ver
+              G7               C   Am7
+Então não me dê nenhuma esperança
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

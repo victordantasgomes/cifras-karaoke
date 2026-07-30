@@ -1,0 +1,106 @@
+@titulo: novo-mandamento
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Novo Mandamento
+
+[Intro] A  F#m7  B4  B  E  B7
+
+    E
+Não é qualquer amor
+     G#m
+Não apenas um pedaço
+ A9
+Amor sem medida
+      B7
+Que inunda todo espaço
+
+ E               G#m7
+Eis um novo mandamento
+      A9          B7
+Pra curar o sofrimento
+
+     A
+Que haja amor entre vós
+    F#m7
+Que haja amor entre vós
+  B4            B         E
+E não vos sentireis mais sós
+
+
+     A
+Que haja amor entre vós
+    F#m7
+Que haja amor entre vós
+  B4            B         E     B7
+E não vos sentireis mais sós
+
+      E
+Inspirai-vos no Senhor
+      G#m
+Para amar sem distinção
+ A9
+Amor que liberta
+     B7
+Traz paz ao coração
+
+ E               G#m7
+Eis um novo mandamento
+      A9          B7
+Pra curar o sofrimento
+
+     A
+Que haja amor entre vós
+    F#m7
+Que haja amor entre vós
+  B4            B         E
+E não vos sentireis mais sós
+
+     A
+Que haja amor entre vós
+    F#m7
+Que haja amor entre vós
+  B4            B         E
+E não vos sentireis mais sós
+
+  E              G#m
+Amor que se pode ver
+    A      B7
+Sentir e tocar
+C#m      G#m
+É deste amor
+        A       B
+Que eu quero falar
+
+     A
+Que haja amor entre vós
+    F#m7
+Que haja amor entre vós
+  B4            B         E
+E não vos sentireis mais sós
+
+     A
+Que haja amor entre vós
+    F#m7
+Que haja amor entre vós
+  B4            B         E
+E não vos sentireis mais sós
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X
+G#m = 4 6 6 4 4 4
+G#m7 = 4 X 4 4 4 X

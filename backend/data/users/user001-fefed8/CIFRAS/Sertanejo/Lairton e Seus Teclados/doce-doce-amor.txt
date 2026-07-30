@@ -1,0 +1,55 @@
+@titulo: doce-doce-amor
+@autor:
+@intérprete: Lairton e Seus Teclados
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lairton - Doce, Doce Amor
+
+Intro: E F# B E B E F# E B
+
+Refrão:
+                E              F#                B
+   Doce, doce amor onde tens andado? Diga por favor
+         E     B
+   Doce, doce amor
+                E                      F#
+   Doce, doce amor que eu vou te encontrar, meu
+                E         B
+bem, seja onde for. Oh oh oh oh
+
+(parte I)
+     B                D#7                   E
+   Está fazendo uma semana que sem mais nem menos
+      F#    B
+eu perdi você.
+                              E
+   Mas não sei determinar ao certo qual foi a
+  F#                     B
+razão. Meu bem vem me dizer.
+
+(refrão)
+         B                 D#7              E
+   Já andei por todos os lugares que antigamente ia
+  F#     B
+te encontrar.
+                                 E
+   E nas ruas que passava só lembrava você que foi
+  F#              B
+embora sem me avisar
+(refrão)
+(solo: E F# B E B E F# E B)
+(refrão)
+(parte I)
+(refrão)3x
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+D#7 = X 6 5 6 4 X
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2

@@ -1,0 +1,88 @@
+@titulo: sete-mares
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Sete Mares
+
+Intro: E B9 F#m A
+
+E|---------------5-4----|
+B|-5-7-5-7-5-7-5-----5~-|
+G|----------------------|
+D|----------------------|
+A|----------------------|
+E|----------------------|
+
+E                                  B9
+Já naveguei o sete mares atrás de você
+                                         F#m
+Eu viajei o mundo inteiro e não te encontrei
+                               A
+Me dê algum sinal, onde você está?
+
+Eu passo dia, eu passo noites, a te procurar
+
+ E
+Eu resolvi ir pra um lugar bem distante
+ B9
+Me afastar da multidão que está me sufocando
+
+ F#m
+E se nesse caminho eu não te encontrar
+ A
+Eu entro em desespero, cadê o seu olhar?
+
+ B                 A
+E todo dia quando eu acordo
+ E                   B
+Olho pro lado e o silêncio vem e me traz você
+                   A
+Reviro as fotos e me bate o medo
+ E                  B                   D
+E a incerteza será que um dia eu vou te ver? iê, iê..
+
+Refrão(2X):
+ E                 F#m
+E toda noite antes de dormir
+ A                   B
+Peço pra uma estrela me guiar até você
+ E                F#m
+E juro que nunca vou desistir
+ A                      B
+O amor que eu sinto é o que me faz sobreviver.
+
+Solo: E B9 F#m A
+
+B                 A
+E todo dia quando eu acordo
+ E                   B
+Olho pro lado e o silêncio vem e me traz você
+                   A
+Reviro as fotos e me bate o medo
+ E                  B                   D
+E a incerteza será que um dia eu vou te ver? iê, iê..
+
+Refrão(2X):
+ E                 F#m
+E toda noite antes de dormir
+ A                   B
+Peço pra uma estrela me guiar até você
+ E                F#m
+E juro que nunca vou desistir
+ A                      B
+O amor que eu sinto é o que me faz sobreviver.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

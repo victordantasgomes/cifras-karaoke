@@ -1,0 +1,94 @@
+@titulo: e-agora
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - E Agora
+
+Intro: G D/F# Em C G/B Am G D/F# Em D C
+
+     G
+Faz tempo
+            C                        G
+Que eu não vejo mais seus olhos me olhando
+            Am                         C
+Que eu não sinto mais seu coração me amando
+        Am                             G    D
+Eu não sei até que ponto eu posso suportar
+
+       Em
+O seu jeito indiferente
+    Bm
+Dia-a-dia castigando
+   C           G         D
+O sonho foi virando pesadelo
+        Em
+Nossas juras de amor
+      Bm
+De repente se quebrou
+
+    C   Am   D
+E agora? E agora?
+
+           G
+Onde deu errado?
+           D
+Será que vacilei
+             C                         G
+Ou será que foi amor demais que eu te dei
+             D       Am
+Você não me entendeu
+
+            G
+E se for embora
+            D
+Leva meu coração
+             C            D        G
+Não preciso dele pra viver de solidão
+
+( G D/F# Em C G/B Am G D/F# Em C D )
+
+       Em
+O seu jeito indiferente
+    Bm
+Dia-a-dia castigando
+   C           G         D
+O sonho foi virando pesadelo
+        Em
+Nossas juras de amor
+      Bm
+De repente se quebrou
+    C   Am   D
+E agora? E agora?
+
+           G
+Onde deu errado?
+           D
+Será que vacilei
+             C                         G
+Ou será que foi amor demais que eu te dei
+             D       C
+Você não me entendeu
+
+            G
+E se for embora
+            D
+Leva meu coração
+             C            D        G
+Não preciso dele pra viver de solidão
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

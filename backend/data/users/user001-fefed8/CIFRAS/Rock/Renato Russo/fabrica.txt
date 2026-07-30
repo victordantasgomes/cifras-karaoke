@@ -1,0 +1,106 @@
+@titulo: fabrica
+@autor:
+@intérprete: Renato Russo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renato Russo - Fábrica
+
+Introd.: (D G D G)
+
+
+ D     G           D     G           D
+
+ Nosso dia vai chegar, teremos nossa vez
+
+     G          D         G
+
+ Não é pedir demais quero justiça
+
+ C           Bm
+
+ Quero trabalhar em paz
+
+ Am           G
+
+ Não é muito o que lhe peço
+
+
+ D           C
+
+ Eu quero trabalho honesto
+
+    E             A
+
+ Em vez de escravidão
+
+
+ D       G          D       G
+
+ Deve haver algum lugar onde o mais forte
+
+ D      G            D         G
+
+ Não consegue escravizar quem não tem chance
+
+ D       A       F#m A
+
+ De onde vem a indiferença
+
+ G    G7+    Em      A
+
+ Temperada a ferro e fogo?
+
+D A    F#m       A       G  D        Em A
+
+  Quem guarda os portões da fábrica?
+
+
+   D       G        D     G
+
+ O céu já foi azul, mas agora é cinza
+
+ D                      G
+
+ E o que era verde aqui já não existe mais
+
+ C             Bm
+
+ Quem me dera acreditar
+
+ Am          G        D             C
+
+ Que não acontece nada de tanto brincar com fogo
+
+     E               A
+
+ Que venha o fogo então
+
+ D    A     F#m        A       G    D Em
+
+ Esse ar deixou minha vista cansada
+
+ A      D    A F#m A
+
+ Nada demais
+
+        G    D Em A D
+
+ Nada demais
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G7+ = 3 X 4 4 3 X

@@ -1,0 +1,74 @@
+@titulo: tocou-me
+@autor:
+@intérprete: Thalles Roberto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Thalles Roberto - Tocou-me
+
+Intro: A  A4
+
+A        A4     A   A4
+Algemado por um peso
+A               A4    A   A  Bm  A/C#
+Oh! Quão triste eu andei
+D                    A
+Até sentir a mão de Cristo
+E4                E        A  A  E/G#  F#m7
+Não sou mais como era  eu sei
+E4           E     A     A  Bm  A/C#
+Tocou-me  Jesus tocou-me
+D             A           E4 E
+De paz Ele encheu meu coração
+A         Bm      A/C#      D
+Quando  o Senhor Jesus me tocou
+A         E4     E  A  E  F#m7  E/G#
+Livrou-me da escuridão
+
+A              E      F#m7   E/G#
+Desde que encontrei a Cristo
+
+A           A4     A   A  Bm  A/C#
+E senti seu terno amor
+D                  A/C#  F#m7 E/G#
+Tenho achado paz e vida
+    A           E4  E            A    A  E/G#  F#m7
+Pra sempre eu cantarei em seu louvor
+
+E4         E       A     A  Bm  A/C#
+Tocou-me  Jesus tocou-me
+   D          A           E4  E
+De paz Ele encheu meu coração
+A/C#       Bm    A/C#      D
+Quando o Senhor Jesus me tocou
+   A      E4     E  A   A  E/G#  F#m7
+Livrou-me da escuridão
+
+E4         E      F#m7 A7
+Tocou-me  Jesus tocou-me
+   D         A/C#         Bm A/C# D E4 E
+De paz Ele encheu meu coração
+F#m7              A/C#     D
+Quando o Senhor Jesus me tocou
+   A      E4     E  F#m7 B
+Livrou-me da escuridão
+   A      E        D   D  A/C#  Bm  A  A4  A
+Livrou-me da escuridão.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+F#m7 = 2 X 2 2 2 X

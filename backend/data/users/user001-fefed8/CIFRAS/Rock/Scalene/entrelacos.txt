@@ -1,0 +1,98 @@
+@titulo: entrelacos
+@autor:
+@intérprete: Scalene
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Scalene - Entrelaços
+
+[Intro] Am  Em  D
+
+E|----5-5----5-5----5-5-5-5-----------|
+B|--5------5------7-------------------|
+G|------------------------------------|
+D|--7------5------5-------------------|
+A|------------------------------------|
+E|------------------------------------|
+
+Am                                             Em
+Raro encontrar alguém que raramente faz questionar
+D                                           Am
+Se encontrar alguém na minha idade é fantasiar
+Am                                              Em
+Tem vezes que parece que ela já viveu tantas versões
+D                                                 Am
+De histórias de mulheres que criei na mente com adições
+F                                           C
+Gestos e olhares delicados que até fazem enganar
+Am                                    D7
+O bobo que não vê debaixo disso sua força
+
+
+Dm7                  C7M
+Ó meu bem quero estar ao seu lado
+        Dm7                  C7M
+Quando amanhecer quero estar ao seu lado
+        Dm7                 C7M
+Quando florescer o de melhor em nós dois
+        Dm7               E7
+Quero percorrer o seu corpo inteiro
+
+( Am  Em  D )
+
+Am
+Logo se fez necessário, lugar e horário
+Em
+Espaço e tempo pra nós dois
+D
+É tanto tempo na estrada, adianta nada
+Am
+Deixar pra acertar depois
+Am     Em
+Sabe, quando
+D                   Am
+Não cabe dentro do corpo?
+
+F                                                    C
+Surge um sentimento, um crescimento, uma vontade de ser
+Am                             D
+Algo bem maior, pois é isso que merece
+
+Dm7                  C7M
+Ó meu bem quero estar ao seu lado
+        Dm7                  C7M
+Quando amanhecer quero estar ao seu lado
+        Dm7                 C7M
+Quando florescer o de melhor em nós dois
+        Dm7               E7
+Quero percorrer o seu corpo inteiro
+
+( F  Dm  Am  Em )
+
+F              Dm
+Em seus braços eu me perco
+Am         Em
+Entrelaços perigosos?
+F              Dm
+Mas me entrego tão sem medo
+Am           Em          F
+Se há risco, é de eterno ser
+
+[Final] Am  Em  F
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7M = X 3 2 0 0 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1

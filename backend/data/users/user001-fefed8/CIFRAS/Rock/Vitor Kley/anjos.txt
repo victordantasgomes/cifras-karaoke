@@ -1,0 +1,131 @@
+@titulo: anjos
+@autor:
+@intérprete: Vitor Kley
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Vitor Kley - Anjos
+
+Capo Casa 3
+
+[Intro] Em  C7M  Em  C7M
+
+[Primeira Parte]
+
+Em                    C7M
+  Nunca pensei em te ter longe de mim
+Em                 C7M
+  Mas esse dia chegou
+Em                       C7M
+  Nunca pensei que tudo fosse ser assim
+Em
+  Mas é o fim do nosso amor
+
+[Refrão]
+
+Am7             D9(11)
+Anjos desceram do céu
+Am7                   D9(11)
+   Pra me ajudar a te encontrar
+  Am7              D9(11)
+Flores com cheiro de mel
+
+Am7                    D9(11)
+   Vieram até mim pra me contar
+
+[Segunda Parte]
+
+     Em
+Que houve
+     C7M
+Um grito de dor
+      Em               C7M
+E eu senti, que era o fim do nosso amor
+     Am7          D9(11)
+Mas sei bem, qual é o seu valor
+ Am7         D9(11)
+Dance, na batida forte de um tambor
+
+( Em  C9  D9(11) )
+( Em  C9 )
+
+[Riff 1]
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|------------------------------------------|
+D|---------0--------------------------------|
+A|-----0h2----------------------------------|
+E|-0h3--------------------------------------|
+
+[Riff 2]
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|-----0-----0------------------------------|
+D|-0h2---0h2---0h2--------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Primeira Parte]
+
+Em                    C7M
+  Nunca pensei em te ter longe de mim
+Em                 C7M
+  Mas esse dia chegou
+Em                       C7M
+  Nunca pensei que tudo fosse ser assim
+Em
+  Mas é o fim do nosso amor
+
+[Refrão]
+
+Am7             D9(11)
+Anjos desceram do céu
+Am7                   D9(11)
+   Pra me ajudar a te encontrar
+  Am7              D9(11)
+Flores com cheiro de mel
+Am7                    D9(11)
+   Vieram até mim pra me contar
+
+[Segunda Parte]
+
+     Em
+Que houve
+     C7M
+Um grito de dor
+      Em               C7M
+E eu senti, que era o fim do nosso amor
+     Am7          D9(11)
+Mas sei bem, qual é o seu valor
+ Am7         D9(11)              Em
+Dance, na batida forte de um tambor
+      C9      D9(11)      Em
+Na batida forte de um tambor
+      C9      D9(11)      Em
+Na batida forte de um tambor
+      C9      D9(11)      Em
+Na batida forte de um tambor
+      C9      D9(11)      Em
+Na batida forte de um tambor
+
+[Final] Em  C/G  D9/A
+        Em  C/G  D9/A
+        Em  C/G  D9/A
+        Em  C/G  D9/A  Em
+
+----------------- Acordes -----------------
+Capotraste na 3ª casa
+Am7*  = X 0 2 0 1 0 - (*Cm7 na forma de Am7)
+C/G*  = 3 3 2 X 1 X - (*D#/A# na forma de C/G)
+C7M*  = X 3 2 0 0 X - (*D#7M na forma de C7M)
+C9*  = X 3 5 5 3 3 - (*D#9 na forma de C9)
+D9(11)*  = X 5 4 0 3 0 - (*F9(11) na forma de D9(11))
+D9/A*  = X 0 X 2 3 0 - (*F9/C na forma de D9/A)
+Em*  = 0 2 2 0 0 0 - (*Gm na forma de Em)

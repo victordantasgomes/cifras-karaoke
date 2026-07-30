@@ -1,0 +1,102 @@
+@titulo: a-resposta-de-um-desejo
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - A Resposta de um Desejo
+
+Intro: G
+
+ 1ª Parte                        2ª Parte
+          C9               G              C9                  G
+E|-10101010\777\555\333-5--------|--10101010\777\555\333--3h5-5/7~------|
+B|------------------------3/5~---|--------------------------------------|
+G|-------------------------------|--------------------------------------|
+D|-------------------------------|--------------------------------------|
+A|-------------------------------|--------------------------------------|
+E|-------------------------------|--------------------------------------|
+
+3ª Parte
+           C9           Am     C         G
+E|-10101010\77\55\33-3h5p3----------------------------------------------|
+B|-------------------------5-5/7---------5/7/9~~------------------------|
+G|-------------------------------7-7\5-5--------------------------------|
+D|----------------------------------------------------------------------|
+A|----------------------------------------------------------------------|
+E|----------------------------------------------------------------------|
+
+
+
+G                        C9                G
+Se um de nós errou sem ter como saber que tudo
+              C9                  Am
+Que podia então viver não foi miragem nenhuma
+    C                G C9
+Ilusão comum, bobagem
+
+G                       C9                G
+Se um de nós errou em ter que negar tudo que
+              C9                Am
+Sentia preso no olhar faltou coragem uma
+    C              G C9     G
+Atitude de verdade,     verdade.
+
+                              C9
+Deixa eu te ver destranque a porta
+                            G
+Nosso sentimento e o que importa
+                     C9
+Pra você eu dei minha resposta
+      Am   C          G
+Meu desejo, meu desejo.
+
+                          C9
+Deixa de mistério e vem sem medo
+                         G
+Vou te revelar os meus segredos
+                       C9
+Matar a saudade do teu beijo
+       Am   C        G
+Vem responde, meu desejo.
+
+(Intro)
+
+G                       C9                G
+Se um de nós errou em ter que negar tudo que
+              C9                Am
+Sentia preso no olhar faltou coragem uma
+   C              G C9       G
+Atitude de verdade,     verdade.
+
+                              C9
+Deixa eu te ver destranque a porta
+                            G
+Nosso sentimento e o que importa
+                         C9
+Pra você eu dei minha resposta
+      Am   C       G
+Meu desejo, meu desejo.
+
+                            C9
+Deixa de mistério e vem sem medo
+                            G
+Vou te revelar os meus segredos
+                       C9
+Matar a saudade do teu beijo
+       Am   C         G
+Vem responde, meu desejo.
+
+(Refrão 2x)
+(Intro)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+G = 3 2 0 0 0 3

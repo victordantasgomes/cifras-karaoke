@@ -1,0 +1,78 @@
+@titulo: minha-estrela-perdida
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Minha Estrela Perdida
+
+(intro) D A/C# Bm Bm/A G Em A D
+
+E |--14--12-12---------------
+B |-------------15-15--14-15-
+G |--------------------------
+
+E |--14--12-12---------------
+B |-------------15-15--14-15-
+G |--------------------------
+
+E |--12-14-15--14-14--12-12-------12--------
+B |-------------------------15-15----15-14~-
+G |-----------------------------------------
+
+   D                 F#m
+Você vai rir, quando eu pedir
+    G             A
+Pra me fazer mais um favor
+      D            F#m
+Deixa eu sonhar, acreditar
+     G             A
+Mais uma vez, num grande amor
+
+
+ D                         A             Bm
+Mente que eu finjo que acredito no seu coração
+             Bm/A               G
+Conte uma mentira pra minha paixão
+               D                  Em   A
+Diz que ainda sou o que você mais quis
+
+ D                        A/C#             Bm
+Mente que eu sou o sonho lindo que você sonhou
+             Bm/A               G
+Que a vida inteira você me esperou
+             D               Em    A7
+Basta seu sorriso pra me ver feliz
+
+(refrão)
+      D            A/C#
+Só um beijo e nada mais
+        Bm         Bm/A
+Pra deixar você em paz
+         G          Em          A
+E encontrar a minha estrela perdida
+
+       D           A/C#
+Só um sonho e nada mais
+       Bm          Bm/A
+Depois disso tanto faz
+    G              Em          A
+Uma noite pra esquecer de uma vida
+                 D
+Minha estrela perdida.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

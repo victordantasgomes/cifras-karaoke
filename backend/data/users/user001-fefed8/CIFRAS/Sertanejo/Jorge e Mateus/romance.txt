@@ -1,0 +1,70 @@
+@titulo: romance
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Jorge e Mateus - Romance
+
+Capo Casa 1
+
+Intro
+Em F#m G Bm A9
+
+Verso
+
+Em               G                    Bm
+Chega mais perto vai quero te encontrar
+       A9
+Quero saber onde você está
+Em               G                     Bm
+Chega mais perto vai quero te ouvir falar
+       A9                              Em
+Falar de amor pra quem não sabe amar
+                   G
+Não quero mais saber de nada
+D                       A9             Em
+Nem mesmo te deixar e fugir na hora errada
+              G              A9                    Bm
+Entenda a melhor saída é te ter de vez na minha vida (aaa)
+
+Refrão:
+
+Bm
+Tá afim de um romance?
+              G
+Compra um livro
+             A9                      Bm
+Se quer felicidade vem me ver de novo
+
+Mas se quer amor...
+G            A
+Mas se quer amor...
+Bm
+Tá afim de um romance?
+              G
+Compra um livro
+             A9                      Bm
+Se quer felicidade vem me ver de novo
+
+Mas se quer amor...
+G            A
+Mas se quer amor...
+
+
+Repete tudo
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+A*  = X 0 2 2 2 0 - (*A# na forma de A)
+A9*  = X 0 2 2 0 0 - (*A#9 na forma de A9)
+Bm*  = X 2 4 4 3 2 - (*Cm na forma de Bm)
+D*  = X X 0 2 3 2 - (*D# na forma de D)
+Em*  = 0 2 2 0 0 0 - (*Fm na forma de Em)
+F#m*  = 2 4 4 2 2 2 - (*Gm na forma de F#m)
+G*  = 3 2 0 0 0 3 - (*G# na forma de G)

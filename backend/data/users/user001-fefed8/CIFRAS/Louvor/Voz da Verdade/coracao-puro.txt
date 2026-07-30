@@ -1,0 +1,58 @@
+@titulo: coracao-puro
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Coração Puro
+
+Intro: A  F#m  C#m  D  A
+
+A9
+Lava-me no sangue vertido lá na cruz, sangue
+              E
+imaculado de Jesus
+A9
+Cria em mim Ó Deus um coração tão puro, mais puro
+                          E
+do que a neve ou a branca lã
+
+D              A    F#m            C#m  D
+Faz de mim sua paz, faz de mim sua mão, faz de mim
+  A          E
+o óleo da unção
+
+   C#                     F#m       B
+De tarde ou de manhã eu orarei, eu clamarei e tu me
+ E4   E        C#                     F#m
+atenderás, meu coração que estava dolorido, já não
+E           D          B         E
+é mais oprimido, encontrei a solução
+
+
+
+Base do Solo: D  Bm  F#m C#m D  Bm  A
+
+E|----------------------------------------------------------|
+B|----------------------------------------------------------|
+G|---6b7--7-6-4---------------------14/19-19-18-16-14-------|
+D|--------------7-6-4--6-7-6-6/7----------------------------|
+A|--------------------7-------------------------------------|
+E|----------------------------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2

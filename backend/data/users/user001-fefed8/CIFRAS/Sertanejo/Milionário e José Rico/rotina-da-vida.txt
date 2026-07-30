@@ -1,0 +1,113 @@
+@titulo: rotina-da-vida
+@autor:
+@intérprete: Milionário e José Rico
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Milionário e José Rico - Rotina da Vida
+
+Intro: A  A7  D  D7M  F#m  Em  D  D7
+       D  D7M  A  A7  F#m  Em  D  D7  D  D7
+
+    A          A7     D          D7M    F#m      Em      D        D7
+E|---------------------------------------------------------------------|
+A|----------------------------------5--------------------------5~------|
+D|-------------------2/4-4-4-4--2-4-4--5-5/7-4--4-4/5-2--2-2/4-4~------|
+G|-4/6-6-6-6--4-6-2--0/2-2-2-2--0-2----4-4/6-2--2-2/4-0--0-0/2---------|
+B|---------------------------------------------------------------------|
+E|-3/5-5-5-5--3-5-2----------------------------------------------------|
+
+    D          D7M    A          A7     F#m      Em      D        D7
+E|---------------------------------------------------------------------|
+A|----------------5--------------------------------------------5~------|
+D|-2/4-4-4-4--2-4-4--------------------5-5/7-4--4-4/5-2--2-2/4-4~------|
+G|-0/2-2-2-2--0-2----4/6-6-6-6--4-6-2--4-4/6-2--2-2/4-0--0-0/2---------|
+B|---------------------------------------------------------------------|
+E|-------------------3/5-5-5-5--3-5-2----------------------------------|
+
+    D           D7
+E|-------------------|
+A|-------------------|
+D|-------------------|
+G|--------------19~--|
+B|-14/---14/----19~--|
+E|-12/---12/----19~--|
+
+
+      D                    Bm7
+Sou o homem mais pobre dos homens
+          G               Em/G
+Sempre lutando pra sobreviver
+       A7                    A/F#
+Na esperança de alcançar a vitória
+       A7                D       D7
+Esta batalha eu hei de vencer
+
+   A7
+No corre-corre da vida
+               G                   D
+Um sobe outro desce, um vai outro vem
+        A7
+Nesta rotina também me encontro
+              G                  D
+Vou ser vitorioso, sem ferir ninguém
+
+( A  A7  D  D7M  F#m  Em  D  D7 )
+( D  D7M  A  A7  F#m  Em  D  D7  D  D7 )
+
+       D                 Bm7
+Mesmo sendo entendido de tudo
+       G                   Em/G
+Ainda falta aprender com alguém
+        A7                 A/F#
+Este alguém que criou o universo
+           A7                   D        D7
+Este foi o homem mais rico dos homens
+
+   A7
+No corre-corre da vida
+               G                   D
+Um sobe outro desce, um vai outro vem
+        A7
+Nesta rotina também me encontro
+              G                  D
+Vou ser vitorioso, sem ferir ninguém
+
+( A  A7  D  D7M  F#m  Em  D  D7 )
+( D  D7M  A  A7  F#m  Em  D  D7  D  D7 )
+
+       D                 Bm7
+Mesmo sendo entendido de tudo
+       G                   Em/G
+Ainda falta aprender com alguém
+        A7                 A/F#
+Este alguém que criou o universo
+           A7                   D        D7
+Este foi o homem mais rico dos homens
+
+   A7
+No corre-corre da vida
+               G                   D
+Um sobe outro desce, um vai outro vem
+        A7
+Nesta rotina também me encontro
+              G                  D     ( A7 D )
+Vou ser vitorioso, sem ferir ninguém
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/F# = 2 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+D7M = X X 0 2 2 2
+Em = 0 2 2 0 0 0
+Em/G = 3 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

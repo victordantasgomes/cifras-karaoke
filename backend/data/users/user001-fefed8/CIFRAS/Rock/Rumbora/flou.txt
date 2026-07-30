@@ -1,0 +1,96 @@
+@titulo: flou
+@autor:
+@intérprete: Rumbora
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rumbora - Flou
+
+Intr: A G# E    A G# E    A G# E
+   E--5>4--0-0--5>4--0-0--5>4-0----|...
+
+
+(A G# E)
+Eu vou subir vou mudar
+Evoluir e voar
+
+
+F#                             A             E
+E aí quando eu puder eu vou fazer o chão tremer
+
+
+F#
+Só preciso de você
+Pra fazer o chão tremer
+Só preciso de vocês
+Pra fazer tremer de vez
+
+
+
+   A                  E
+A vida às vezes surpreende
+           B               E B
+Com um presente que eu sonhei
+        A                  E
+Eu esperei pro isso tanto tempo
+         B            E B
+Foi tão lento mas cheguei
+  A                     E
+Aonde eu sempre quis estar
+         B
+Quero ficar pra sempre
+
+
+Introdução
+
+
+(A G# E)
+Eu vou subir me largar
+E fiz tremer flutuar
+
+
+F#                             A             E
+E aí quando eu puder eu vou fazer o chão tremer
+
+
+F#
+Só preciso de você
+Pra fazer o chão tremer
+Só preciso de vocês
+Pra fazer tremer de vez
+
+
+   A                  E
+A vida às vezes surpreende
+           B              E B
+Com um presente que eu sonhei
+        A                  E
+Eu esperei por isso tanto tempo
+         B            E B
+Foi tão lento mas cheguei
+  A                     E
+Aonde eu sempre quis estar
+         B
+Quero ficar pra sempre
+
+
+Introdução
+
+
+Final: A E C# E B G# B F# D# F# G -> 2x
+       A E C# E B F#
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+D# = X 6 5 3 4 3
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

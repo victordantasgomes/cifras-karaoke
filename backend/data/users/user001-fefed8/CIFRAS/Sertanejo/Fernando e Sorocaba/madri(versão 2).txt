@@ -1,0 +1,65 @@
+@titulo: madri(versão 2)
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - Madri
+
+(intro 2x)  G D4 C9 Em7 D4
+
+(parte 1)
+G         D4
+  Que saudade amor
+C9
+  Estou sabendo que ai na Espanha tudo é lindo
+G             D4
+  Você me deixou
+C9
+  E aqui dentro meu coração ficou partido
+
+(parte 2)
+Em7        D4/F#              C9
+  Nessa cidade, não vou mais sorrir
+Em7          D4/F#       C9
+  Que bom seria, se São Paulo fosse do lado de Madri
+
+(refrão)
+G     D4  C9
+  Iêêêê Uôôôôô
+
+G              D4       C9       Em7           D4/F#
+  No puedo más mi corazón, ta doendo aqui na solidão
+G             D4/F#       C9
+  No puedo más vivir sin ti, volta logo pra São Paulo ou eu vou pra Madri
+
+(parte 3)  (tocar igual às partes 1 e 2)
+G         D4
+  Que saudade amor
+C9
+  Volta logo pro hemisfério sul do mundo
+G            D4
+  Ficar sem você
+C9
+  Me mostrou o quanto é bom estarmos juntos
+Em7         D4/F#           C9
+  Sonho tão lindo é ter você aqui
+Em7          D4/F#          C9                     G
+  Que bom seria, se São Paulo fosse do lado de Madri
+      D4    C9
+  Iêêêê   Uôôôôô
+
+(refrão)
+(base do solo 2x)  Em7 D4/F# C9
+
+----------------- Acordes -----------------
+C9 = X 3 2 0 3 3
+D4 = X X 0 2 3 3
+D4/F# = 2 0 0 2 3 3
+Em7 = 0 2 2 0 3 3
+G = 3 2 0 0 3 3

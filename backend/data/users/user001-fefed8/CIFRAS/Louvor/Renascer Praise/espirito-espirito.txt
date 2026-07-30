@@ -1,0 +1,62 @@
+@titulo: espirito-espirito
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Espirito, Espirito
+
+E         F#m7
+ESPÍRITO, ESPÍRITO
+G#m7       C#m7
+VEM PARA FICAR
+  A         E
+ESPÍRITO, ESPÍRITO
+F#sus F#   A/B
+VEM MANIFESTAR
+       E       (G#7/5+)
+TODA GLÓRIA E PODER
+    A          E
+SANTIDADE E LOUVOR
+   A        E
+PIEDADE GENUÍNA
+     F#m7 A/B E
+HUMILDADE E AMOR
+A           B/A
+SINAIS E MARAVILHAS
+G#sus  G#/B C#m7 Cm7/B
+HÃO DE APARECER
+A         E
+VIDAS TOCADAS
+
+       D          A/B
+CURADAS PELO AMOR
+E         F#m7
+TODA ESSA GENTE
+     G#m7 C#m7
+SACIADA SERÁ
+    A         E
+NA ALMA E NO CORPO
+           D        A/B
+EM NOME DA COMPAIXÃO
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+B/A = X 0 4 4 4 X
+C#m7 = X 4 6 4 5 4
+Cm7/B = 7 3 5 3 4 3
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m7 = 2 X 2 2 2 X
+F#sus = 2 4 4 3 2 2
+G#/B = X 2 1 1 4 4
+G#7/5+ = 4 X 4 5 5 4
+G#m7 = 4 X 4 4 4 X
+G#sus = 4 3 1 1 1 4

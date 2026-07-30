@@ -1,0 +1,49 @@
+@titulo: no-way-out
+@autor:
+@intérprete: Detonautas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Detonautas - No Way Out
+
+ INTRO
+
+ e|-----0---0---0---0---0---0---0---0----| 
+ b|-------0---0---0---0---0---0---0---0--|
+ G|--7h9-9-9-9-7-7-7-7-6-6-6-6-5-5-5-5---| ( repete várias vezes)
+ D|--------------------------------------|
+ A|--------------------------------------|
+ E|--------------------------------------|
+
+Em             Am       C        Em
+Já é tarde. Vou embora daqui. Tire as mãos de mim.
+   Am                   C                  Em
+Que direito você tem pra me impedir ?
+                     Am      C           Em
+Já dei chances e você nem ligou.
+                            Am
+Nosso fim é certo. ACABOU
+
+(Refrão)
+
+ Em      G A                          C
+Eu nem sei porque é que eu fui embora
+
+ Em       G A                C
+O que eu sei é que chegou a hora
+ Em     G  A             C
+Já notei que te dei muita chance
+ Em      G A         C
+Cê não merece chance.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

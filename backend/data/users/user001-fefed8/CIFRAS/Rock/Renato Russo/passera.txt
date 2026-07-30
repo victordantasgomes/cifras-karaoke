@@ -1,0 +1,164 @@
+@titulo: passera
+@autor:
+@intérprete: Renato Russo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renato Russo - Passerà
+
+Intr.: F/G G
+
+C                 C7+
+Le canzoni non si scrivono
+    C6         C
+Mas nascono da sè
+Dm                Dm7+
+Son le cose che succedono
+             Dm7      Dm6
+Ogni giorno intorno a noi
+Am               Am7+
+Le canzoni basta coglierle
+Am7              Am6
+Ce n'è una anche per te
+G                    F/G
+Che fai più fatica a vivere
+ G            C    E
+E non sorridi mai
+Am              Am7+
+Le canzoni sono zingare
+Am7      Dm      Dm7+  Dm6
+E rubano poesie
+
+G
+Sono iganni come pilole
+             C
+Della felicità
+F                  Dm7
+Le canzoni non guariscono
+             E
+Amori e malattie
+Am              Am7+
+Ma quel piccolo dolore
+      Am7         F/G
+Che l'esistere ci dà
+G     C        C7+
+Passerà, passerà
+        C6          C             Dm
+Se un Ragazzo e una chitarra sono li
+     Dm7+     Dm7
+Come te, in città
+    G             E            Am    Am7+
+A guardare questa vita che non và
+         Am7          Am6
+Che ci ammazza d'illusioni
+         F/G          G
+E com l'età delle canzoni
+    C         C7+
+Passerà su di noi
+C6                C             Dm
+Finiremo tutti in banca prima o poi
+Dm7+          Dm7
+Coi perchè, i chissà
+       G                    E    Am  Am7+
+E le angoscie di una ricca povertà
+Am7              Am6          G     G7+
+A parlare degli amore che non hai
+G7               F/G      C  E     Am  Am7+
+A cantare una canzone che sai come fa
+Am7                 C/D
+Perchè l'hai perduta dentro
+  F/G            G
+E ti ricordi solamente
+    C
+Passerà
+
+(Solo: C7+ C6 C Dm Dm7+ G7 E Am)
+
+Am                  Am7
+In un mondo di automobile                Dm  Dm7+ Dm7
+E di gran velocità
+G
+Per chi arriva sempre ultimo
+                 C   C/Bb
+E per chi si dice addio
+F                          Dm
+Per chi sbatte negli ostacoli
+             E
+Della diversità
+
+
+Am         Am7+
+Le canzoli sono luccile
+Am7             F/G
+Che cantano nel buio
+G    C        C7+
+Passerà primo o poi
+C6             C              Dm
+Questo piccolo dolore che c'è in te
+     Dm7+                 Dm7
+Che c'è in me, che c'è in noi
+   G7                E    Am Am7+
+E ci fai sentire come marinai
+Am7                  Am6       G    G7+
+In balia del vento e della nostalgia
+G7               F/G   G      C     E
+A cantare una canzone che no sai
+     Am
+Come fa
+        Am7     C/D           F/G              G
+Ma quel piccolo dolore che sia odio, o che sia amore
+  Fm7    Bb7
+Passerà
+Eb       Eb7+
+Passerà, passerà
+   Cm
+Anche se farai
+       Fm
+Sotanto la la la
+     Fm7+     Fm7
+Passerà, passerà
+       Dm5-/7       G7        Cm  Cm7+
+E a qualcosa una canzone servirá
+          Cm7       Cm6
+Se il tuo piccolo dolore
+        Bb7
+Che sia odio, o che sia amore
+      Eb
+Passerà
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+Am7+ = X 0 2 1 1 0
+Bb7 = X 1 3 1 3 1
+C = X 3 2 0 1 0
+C/Bb = X 1 2 0 1 X
+C/D = X X 0 0 1 0
+C6 = 8 X 7 9 8 X
+C7+ = X 3 2 0 0 X
+Cm = X 3 5 5 4 3
+Cm6 = X 3 X 2 4 3
+Cm7 = X 3 5 3 4 3
+Cm7+ = X 3 5 4 4 3
+Dm = X X 0 2 3 1
+Dm5-/7 = X X 0 1 1 1
+Dm6 = X 5 X 4 6 5
+Dm7 = X 5 7 5 6 5
+Dm7+ = X X 0 2 2 1
+E = 0 2 2 1 0 0
+Eb = X 6 5 3 4 3
+Eb7+ = X X 1 3 3 3
+F = 1 3 3 2 1 1
+F/G = 3 X 3 2 1 X
+Fm = 1 3 3 1 1 1
+Fm7 = 1 X 1 1 1 X
+Fm7+ = 1 X 1 1 1 X
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3
+G7+ = 3 X 4 4 3 X

@@ -1,0 +1,82 @@
+@titulo: quando-a-tempestade-vem
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Quando a Tempestade Vem
+
+Intro  :: C ::
+       :: C  G/B : C G/B :  Bb  :  F/A  G/B ::
+
+C                       G/B  C
+Quando a tempestade vem,     quando a tempestade vem
+     C4  C    Bb      F/A  G
+tudo se  transtorna
+Am7                     G/B  C
+Quando a tempestade vem,     quando a tempestade vem
+     C4  C    Bb      F/A  G   C/E
+tudo se  transtorna
+     F2             C/E            Am7  G    G/B
+E eu corro para o esconderijo do altíssimo
+     Am7            Am7/G          Dm7  G    Dm7
+E eu corro para o esconderijo do altíssimo
+  C/E        F           G         Dm7
+é ali que derramo minhas lágrimas
+  C/E      F     F/A      G/B
+é ali, prostrado aos teus pés, Senhor
+           Dm7     C/E    F     G4   G
+que te apresento o meu clamor
+
+
+Mod : Dm7  C/E  F :  F/A  G/B  G/A  A/C# :
+
+D                       A/C#  D
+Quando Tua presença vem,      quando Tua presença vem
+     D4  D    C       G/B   A
+tudo se  transforma
+Bm7                     A/C#  D
+Quando Tua presença vem,      quando Tua presença vem
+     D4  D    C       G/B   A   D/F#
+tudo se  transforma
+  G2             D/F#            Bm7   A    A/C#
+e eu me rendo ao doce vento do Espíri--to
+  Bm7            Bm7/A           Em7   A    Em7
+e eu me rendo ao doce vento do Espíri--to
+       D/F#       G           A        Em7
+e é assim que meu coração recebe paz
+      D/F#           G  G/B     A/C#
+minha mente e minhas emoções descansam
+       Em7      D/F#   G         A4   A
+na segurança do colo   do pai
+
+Fim ::  Em7  D/F#  G  : Bm7  A  G  :  D  ::
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+Am7 = X 0 2 0 1 0
+Am7/G = 3 0 2 0 1 0
+Bb = X 1 3 3 3 1
+Bm7 = X 2 4 2 3 2
+Bm7/A = 5 2 4 2 3 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C4 = X 3 3 0 1 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+Dm7 = X 5 7 5 6 5
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G4 = 3 5 5 5 3 3

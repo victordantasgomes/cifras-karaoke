@@ -1,0 +1,87 @@
+@titulo: me-apaixonei
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Me Apaixonei
+
+[Intro]
+                A   E             A   E
+E|----------------|----------------------|----------------|
+B|----------------|----------------------|----------------|
+G|----------------|----------------------|----------------|
+D|---4/6\4-2h4-2--|----4/6\4-2h4-2-------|----------------|
+A|-2--------------|--2-------------------|----------------|
+E|----------------|----------------------|----------------|
+
+                B          A      E  A E
+E|----------------|----------------------|----------------|
+B|----------------|----------------------|----------------|
+G|----------------|-----------------2-1--|----------------|
+D|---4/6\4-2-6-4--|-4h6p4-2--4-2-2-------|----------------|
+A|-2--------------|----------------------|-----2----------|
+E|----------------|----------------------|-2h4---2b3r2-0--|
+
+E                   A            E                       A
+A primeira vez que eu te vi, pensei até que fosse uma miragem
+E                         A
+Ao me aproximar tentei falar faltou coragem...
+
+E                      B/D#                       A/C#
+A primeira vez que eu te vi, gamei, apaixonei, senti que era
+  E
+Amor de verdade
+E                      B/D#                       A/C#
+A primeira vez que eu te vi, gamei, apaixonei, senti que era
+  E              A
+Amor de verdade
+
+          E  A             E                           B
+Me apaixoneeeei... Quando vi os teus lindos olhos brilhando, em outra direção
+   A                E            B  A
+Olhando, e eu não existia pra voceeee
+         E  A             E                      B/D#                   A/C#
+Me apavoreeeei... Quando vi o teu sorriso lindo se abrindo, despedindo e indo,
+        E
+Chorei sem querer
+        E                      B/D#                   A/C#          E
+Quando vi o teu sorriso lindo se abrindo, despedindo e indo, chorei sem querer
+    A                        E    A/B           E
+Pensei que nunca mais ia te ver, chorei sem querer
+  A                        E       B                       E
+E eu sem uma chance pra dizer, o quanto estava apaixonado por você
+
+[Solo]
+                B          A      E  A E
+E|----------------|----------------------|----------------|
+B|----------------|----------------------|----------------|
+G|----------------|-----------------2-1--|----------------|
+D|---4/6\4-2-6-4--|-4h6p4-2--4-2-2-------|----------------|
+A|-2--------------|----------------------|-----2----------|
+E|----------------|----------------------|-2h4---2b3r2-0--|
+
+E                   A            E                       A
+A primeira vez que eu te vi, no peito o coração bateu a mil e explodiu
+E                         A
+Ao me aproximar senti no corpo um arrepio
+E                      B/D#                       A/C#            E
+A primeira vez que eu te vi apaixonei, sonhei, tentei falar a voz não saiu
+E                         B/D#                   A/C#                    E         A
+A primeira vez que eu te vi gamei, apaixonei, sonhei, tentei falar a voz não saiu
+
+A         E
+  Chorei sem querer...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+E = 0 2 2 1 0 0

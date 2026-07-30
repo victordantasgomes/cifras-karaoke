@@ -1,0 +1,27 @@
+@titulo: jesus-liberta-nos
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Jesus Liberta-nos
+
+  A                  F#m                E                  D
+Jesus liberta-nos, Jesus liberta-nos, Jesus liberta-nos agora
+ A                  F#m                E                  D
+Jesus liberta-nos, Jesus liberta-nos, Jesus liberta-nos agora
+ A                  F#m                E                  D
+Jesus Free us,     Jesus Free us,     Jesus Free us,    tonight
+ A                  F#m                E                  D
+Jesus Free us,     Jesus Free us,     Jesus Free us,    tonight
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

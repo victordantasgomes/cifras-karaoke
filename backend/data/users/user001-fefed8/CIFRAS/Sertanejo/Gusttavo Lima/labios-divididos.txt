@@ -1,0 +1,58 @@
+@titulo: labios-divididos
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Lábios Divididos
+
+          C#m  E
+ Estou sozinho,
+B                F#m                 C#m    E
+ sem você do meu lado sei que não é destino
+B                F#m            C#m     E
+ Sem beijar seus lábios é um desatino
+B F#m               C#m  E    B F#m
+ eu estou sendo sincero
+             C#m  E
+ Estou apaixonado
+    B               F#m                  C#m    E
+ a soma de três corações, todos são enganados
+      B                       F#m                C#m  E
+ Um não sabe o que os outros pensam vivendo a fingir
+     B          F#m        C#m E  B
+ As vezes me pergunto Por que?
+
+  G#m                    A
+ Quando você volta insensata
+         E              B
+ eu vou cair, mais uma vez
+
+ G#m                          A
+ Fecho os olhos, beijo sua boca
+         E                                B
+ eu vou cair, em seus braços peço pra dormir
+            A              B
+ Coração partido lábios divididos,de amor
+
+E             B             C#m
+ eu não quero dividir seus lábios
+              A                   B
+ Me diz o que faço ter você só pra mim, meu amor
+E                  B             C#m
+ Não quero mais compartilhar seus lábios
+   A      B
+ O amor, o amor dividido
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

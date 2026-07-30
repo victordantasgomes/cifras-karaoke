@@ -1,0 +1,98 @@
+@titulo: o-verdadeiro-adorador
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - O Verdadeiro Adorador
+
+(intro 4x)  C#m7  A
+
+B           B/A            E/G#       A C#m7 B
+Aqui estou diante do Senhor
+B           B/A           E/G#  A C#m7 B
+Quero ver a tua glória
+B          B/A                 E/G#      A C#m7 B
+Nada tenho pra te oferecer
+B       B/A                     E/G#
+Somente o meu louvor
+F#m7  F#m/E                B/D#
+Tira tudo que há de mal em mim
+C#m7       C#m/B           A
+Vem limpar meu coração
+F#m7      F#m/E               B/D#
+Para entrar em tua presença
+C#m7    C#m/B           A
+Venho te pedir perdão
+F#m7      F#m/E         B/D#
+Limpa me com tuas águas
+C#m7  C#m/B      A
+Purifica me Senhor
+
+F#m7      F#m/E               B/D#
+Corpo e alma eu te entrego
+C#m7      C#m/B         A
+Meu espírito em louvor
+
+C#m   B         E/G#  A      C#m  B       E/G#   A
+Toda honra, toda glória, toda força, e o poder
+C#m     B        E/G#  A          C#m  B    E/G#     A
+Sejam dados para sempre, a Jesus, Rei dos reis
+
+(solo 2x) C#m7   A
+
+B      B/A              E/G#           A C#m7 B
+Obrigado por fazer de mim
+B               B/A             E/G#  A C#m7 B
+Um verdadeiro adorador
+B            B/A               E/G#       A C#m7 B
+Faz de mim um novo homem
+B                   B/A              E/G#    A C#m7 B
+Renova me sempre Senhor
+F#m7      F#m/E               B/D#
+Para entrar em tua presença
+C#m7    C#m/B           A
+Venho te pedir perdão
+F#m7      F#m/E         B/D#
+Limpa me com tuas águas
+C#m7  C#m/B      A
+Purifica me Senhor
+F#m7      F#m/E               B/D#
+Corpo e alma eu te entrego
+C#m7      C#m/B         A
+Meu espírito em louvor
+
+C#m   B         E/G#  A      C#m  B       E/G#   A
+Toda honra, toda glória, toda força, e o poder
+C#m     B        E/G#  A          C#m  B     E/G#   A
+Sejam dados para sempre, a Jesus, Rei dos reis
+
+(solo 2x)   Cm Bb   Eb/G Ab
+
+Cm    Bb       Eb/G  Ab    Cm    Bb     Eb/G   Ab
+Toda honra, toda glória, toda força, e o poder
+Cm       Bb       Eb/G Ab       Cm    Bb   Eb/G     Ab
+Sejam dados para sempre, a Jesus, Rei dos reis
+
+( Cm  Bb )  (várias vezes)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Ab = 4 3 1 1 1 4
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+B/D# = X 6 X 4 7 7
+Bb = X 1 3 3 3 1
+C#m = X 4 6 6 5 4
+C#m/B = 7 X 6 6 5 X
+C#m7 = X 4 6 4 5 4
+Cm = X 3 5 5 4 3
+E/G# = 4 X 2 4 5 X
+Eb/G = 3 X 1 3 4 X
+F#m/E = X X 2 2 2 2
+F#m7 = 2 X 2 2 2 X

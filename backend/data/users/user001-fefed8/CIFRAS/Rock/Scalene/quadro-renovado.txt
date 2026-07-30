@@ -1,0 +1,98 @@
+@titulo: quadro-renovado
+@autor:
+@intérprete: Scalene
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Scalene - Quadro Renovado
+
+F#m
+Meu amor foi definido
+D                         A
+Pelas noites que me fez passar
+          B
+Pensando estar sempre errado
+F#m
+Meu costume de ser atraída
+D                          A
+Por pessoas que me fazem amar
+       B                   D
+Seus defeitos e seu passado.
+            E
+Que eu não quero mais lidar
+
+A                      D
+Nunca mais vou me iludir
+A                       D
+Em achar que eu posso ser
+F#m
+A razão e solução
+
+E                     D   (C)
+Dos problemas de alguém, oooooh
+
+F#m
+Sua personalidade não me atrai
+D                   A
+Mais como antes atraiu.
+           B
+Vejo com novos olhos
+F#m
+E nesse quadro renovado
+D                           A
+Não há espaço e tempo pra perder
+          B
+Com sua ausência
+D            E
+Que eu não quero mais lidar
+
+A                      D
+Nunca mais vou me iludir
+A                       D
+Em achar que eu posso ser
+F#m
+A razão e solução
+E                     D   (C)
+Dos problemas de alguém
+
+(F#5,D5,A5,B5)
+
+(ESSA PARTE FICA MELHOR EM POWERCHORDS)
+F#m                  D
+Ainda me sinto por baixo
+A
+E que tenho que recuperar
+B
+A minha honra e o meu lugar
+F#m         D           A          B----C#m-D
+Esse é um jogo, que eu não quero mais.
+D                   B               D
+As regras falham e me deixam para trás.
+E
+E me deixam para trás.
+
+A                      D
+Nunca mais vou me iludir
+A                       D
+Em achar que eu posso ser
+F#m
+A razão e solução
+E                     D   (C)
+Dos problemas de alguém
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+B = X 2 4 4 4 2
+B5 = X 2 4 4 X X
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+E = 0 2 2 1 0 0
+F#5 = 2 4 4 X X X
+F#m = 2 4 4 2 2 2

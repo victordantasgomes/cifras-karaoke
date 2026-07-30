@@ -1,0 +1,79 @@
+@titulo: resposta
+@autor:
+@intérprete: Nando Reis
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nando Reis - Resposta
+
+G                    G(#5)
+ Bem mais que o tempo que nós perdemos
+C                         Eb
+ ficou pra trás também o que nos juntou
+G               G(#5)
+ Ainda lembro, que eu estava lendo
+C                   Eb
+ Só pra saber o que você achou
+      Em          Em7M
+ dos versos que eu fiz
+    C6              G     C
+ e ainda espero resposta
+
+
+SOLO (G  C) Cm
+
+
+G               G(#5)
+ desfaz o vento, o que há por dentro
+C                        Eb
+ neste lugar que ninguém mais pisou
+
+G                         G(#5)
+ você está vendo o que está acontecendo
+C                      Eb
+ neste caderno sei que ainda estão
+     Em    Em7M      C6
+ os versos seus tão meus que peço
+     Em    Em7M     C6                        G
+ dos versos meus tão seus que esperem que os aceite
+            Am                   C                   G
+ em paz eu digo o que eu sou o antigo do que vai adiante
+                Am                  C                G    C
+ sem mais, eu fico onde estou, prefiro continuar distante
+
+
+SOLO  (G  C) Cm
+
+
+G                    G(#5)
+ Bem mais que o tempo que nós perdemos
+C                         Eb
+ ficou pra trás também o que nos juntou
+G                 G(#5)
+ Ainda lembro que eu estava lendo
+C                      Eb
+ só pra saber o que você achou
+      Em     Em7M    C6
+ dos versos seus tão meus que peço
+      Em   Em7M        C6                    G
+ dos versos meus tão seus que esperem que os aceite
+            Am                   C                   G
+ em paz eu digo o que eu sou o antigo do que vai adiante
+               Am                  C                   G   C
+ sem mais, eu fico onde estou, prefiro continuar distante
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C6 = 8 X 7 9 8 X
+Cm = X 3 5 5 4 3
+Eb = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+Em7M = X X 2 4 4 3
+G = 3 2 0 0 0 3
+G(#5) = 3 X 1 0 0 X

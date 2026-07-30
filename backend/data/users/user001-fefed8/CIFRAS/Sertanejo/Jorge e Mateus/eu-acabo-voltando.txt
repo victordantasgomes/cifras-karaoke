@@ -1,0 +1,90 @@
+@titulo: eu-acabo-voltando
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Eu Acabo Voltando
+
+Intro: G  B7  Em  G7  C  G/B  Am  D
+E|---------------------------------------------------------------|
+B|-------8-8~-7b-7-5-4-7-5~--5-3----------5----5-----------------|
+G|-5/7-7-----------------------5-4~---5-7--4-7------4/5-5/4---7~-|
+D|----------------------------------------------7~-----------7---|
+A|---------------------------------------------------------------|
+E|---------------------------------------------------------------|
+
+                    G               D
+Não me venha outra vez me tirar o juízo
+                Am                 G    G7
+Me falando de amor, com aquele sorriso
+                    C                      G
+Não me venha outra vez, te esqueci eu não nego
+                  D          D7           G   G7
+Mas se você me tocar, outra vez eu me entrego
+                    C                     G
+Não me tente outra vez, ainda estou me curando
+               D                  C
+Vá embora porque se eu olhar pra você
+     D       G     D
+Eu acabo voltando
+
+
+Refrão:
+        G        B7         Em
+Você levou um pedacinho de mim
+        G7      C             G              D    D4  D
+Você quase pôs um fim, na minha vida, na minha vida
+         G      B7            Em
+Você deixou a saudade me pegar
+      C           G            D             G
+Você conseguiu levar, a minha vida, a minha vida
+
+Intro: G  B7  Em  G7  C  G/B  Am  D
+E|---------------------------------------------------------------|
+B|-------8-8~-7b-7-5-4-7-5~--5-3----------5----5-----------------|
+G|-5/7-7-----------------------5-4~---5-7--4-7------4/5-5/4---7~-|
+D|----------------------------------------------7~-----------7---|
+A|---------------------------------------------------------------|
+E|---------------------------------------------------------------|
+
+Não me venha outra vez me tirar o juízo
+                Am                 G    G7
+Me falando de amor, com aquele sorriso
+                    C                      G
+Não me venha outra vez, te esqueci eu não nego
+                  D          D7           G   G7
+Mas se você me tocar, outra vez eu me entrego
+                    C                     G
+Não me tente outra vez, ainda estou me curando
+               D                  C
+Vá embora porque se eu olhar pra você
+     D       G     D
+Eu acabo voltando
+
+Refrão 2x:
+              G        B7         Em
+Você levou um pedacinho de mim
+        G7      C             G              D    D4  D
+Você quase pôs um fim, na minha vida, na minha vida
+         G      B7            Em
+Você deixou a saudade me pegar
+      C           G            D             G
+Você conseguiu levar, a minha vida, a minha vida
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

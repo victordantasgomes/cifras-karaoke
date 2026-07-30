@@ -1,0 +1,75 @@
+@titulo: rancho
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Rancho
+
+Intro: G  D  G  A  D
+
+E|---------------------------------7---7-10-9----9-12-10-10------|
+B|-------7-8-7---------7-7-8-7-------8--------10-----------------|
+G|-7-7h9-------9-7-7-----------9-7-------------------------------|
+D|---------------------------------------------------------------|
+
+D
+Vamô cair na balada
+
+Convidei a mulherada
+                   A
+To no rancho esperando
+             Em      Em/D
+Já tá tudo arrumado
+               A
+Tira-gosto preparado
+                   D
+A cerveja tá trincando
+                    D
+Tem piscina, tem lagoa
+
+                   D7
+Tem um jet, tem canoa
+                  G
+Pra quem quiser pescar
+                   D
+A minhoca tá no jeito
+                  A
+A tequila faz efeito
+G       F#m   Em   D
+Hoje o bicho vai pegar!
+            D
+Vem, vem, vem
+                    A
+Que eu to te esperando
+                   A7
+Rasga que eu vou costurando
+                  D
+Tá parecendo um Harém
+                   D7
+Hoje não tem pra ninguém
+G
+Vem, vem, vem
+                D
+Que a festa é boa
+                   A   G
+Só não traz sua patroa
+   F#m        Em     A  D
+Que aqui muié nóis tem!
+
+Solo: G  D  A  D  G  D  A  G  F#m  Em  A  D  A  D
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

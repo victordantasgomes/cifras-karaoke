@@ -1,0 +1,83 @@
+@titulo: exclusivamente-seu
+@autor:
+@intérprete: Anderson Freire
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Anderson Freire - Exclusivamente Seu
+
+Em              C
+ Senhor me capacita
+    Am              Bm                        Em
+ O mundo me oferece o melhor de tudo que ele tem
+                    C
+ Não quero ser meu dono
+  Am                        D
+ Quebra minhas cadeias, resgata-me Senhor
+            Em
+ Não quero ser refém
+
+Não vou invalidar Teu sangue, ó Jesus:
+ C
+Morte, sacrifício, naquela cruz
+D                               Am
+O maior investimento que alguém já realizou
+     Em
+Não vou invalidar Teu saldo de amor
+      C                                 Am
+Num preço incalculável, o Senhor me colocou
+                     D                         C   D
+Novo homem, separado, exclusivo para o Seu louvor
+
+
+ Em       C          G
+ Exclusivo é meu coração
+             D
+ Não vou vender minha adoração
+ Em         C             G/B
+ Exclusivo sou, comprado fui
+          D/F#           A
+ Posso dizer sou livre (Sou de Jesus)
+
+Solo: A  C  G  B
+
+Em         C            G
+ Sou livre, sou livre, sou de Jesus
+ D                  Em         C            G          D
+ Exclusivamente Seu, sou livre, sou livre, sou de Jesus
+
+ F#m       D         A
+ Exclusivo é meu coração
+             E
+ Não vou vender minha adoração
+ F#m         D             A/C#
+ Exclusivo sou, comprado fui
+          E
+ Posso dizer sou livre (Sou de Jesus)
+
+F#m         D           A/E
+ Sou livre, sou livre, sou de Jesus
+ C#m                  F#m         D         A/E          E
+ Exclusivamente Seu, sou livre, sou livre, sou de Jesus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

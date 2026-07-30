@@ -1,0 +1,118 @@
+@titulo: por-um-minuto
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Por Um Minuto
+
+[Intro] G  D  C9  G  D  C9
+        G  D  C9  G  D  C9
+
+[Primeira Parte]
+
+G              D/F#            C9
+  E todos os amantes já adormeceram
+G               D/F#           C9
+  E todas as palavras já se calaram
+G                D/F#               C9
+  Já não vive o mundo em que se perderam
+G              D/F#             C9
+  Nem as madrugadas em que se amaram
+           G D/F# C9
+Quero sentir
+         G D/F# C9
+Quero ouvir
+
+[Segunda Parte]
+
+G                 D             C9
+  Seus passos de volta a minha porta
+
+
+G                    D                  C9
+  Pra dizer que me amava quando estava longe
+G                   D               C9
+  E deixar que amanhã juntos nos encontre
+G                    D                    C9
+  E que passe a ser vida o que hoje é só sonho
+
+[Pré-Refrão]
+
+C            Am         D      D4
+  E que se acabe os segredos
+C             Am         D    D9
+  E que se aumente os desejos
+
+[Refrão]
+
+G           D           Em
+E assim enquanto eu te beijo
+     Bm        Am            D   D4  D  D9  D
+Que mude o destino por um minuto
+  Am             Am7M         Am7  Am6
+Que meu corpo encontre o seu corpo
+C            D    G    C9
+  Num prazer absoluto
+
+G           D             Em
+E assim enquanto eu te abraço
+     Bm             Am
+Me aperte em seus braços
+          D   D4  D  D9  D
+Por um minuto
+
+ C               Bm      Em   G6/E
+De um jeito que só você sabe
+ C            D        G
+De um jeito que só eu sei
+
+( A  C#m  F#m )
+( C#m  Bm  E )
+
+  Bm             Bm7M         Bm7  Bm6
+Que meu corpo encontre o seu corpo
+ D         E    A   D9
+Num prazer absoluto
+
+A           C#m           F#m
+E assim enquanto eu te abraço
+     C#m            Bm             E
+Me aperte em seus braços por um minuto
+
+ D               C#m     F#m   F#m11
+De um jeito que só você sabe
+ D            E        A
+De um jeito que só eu sei
+
+[Final] A  E  D9
+        E  A  D9  A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+Am7M = X 0 2 1 1 0
+Bm = X 2 4 4 3 2
+Bm6 = 7 X 6 7 7 X
+Bm7 = X 2 4 2 3 2
+Bm7M = X 2 4 3 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+F#m11 = 2 2 4 2 2 2
+G = 3 2 0 0 0 3
+G6/E = 0 2 0 0 0 0

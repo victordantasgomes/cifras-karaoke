@@ -1,0 +1,98 @@
+@titulo: 18
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - 18
+
+REFRÃO: (2X)
+   A            E/G#        F#m
+Parece que acabei de chegar
+  E
+Tenho dezoito
+E não sei por onde começar
+
+Solo 1 (2X)
+
+E|--------------------------------------------------------------------------------------------------|
+B|--12h14--12-10--12--10---------------12h14-12-10--12--10------------------------------------------|
+G|---------------------------------9-11--11-----------------------------------9-11-14---------------|
+D|--------------------------------------------------------------------------------------------------|
+A|--------------------------------------------------------------------------------------------------|
+E|--------------------------------------------------------------------------------------------------|
+
+   A                           E
+Quando você não sabe aonde vai
+  F#m
+Qualquer caminho te leva
+   A                          E
+Quando você não sabe o que quer
+
+  F#m
+Qualquer bobagem te pega
+   D               E
+Acabei de me vestir
+   D                   E
+Sem nenhum lugar pra ir
+   D              E
+Gastar o dinheiro que eu não tenho
+           F#m
+Pra me divertir
+
+REFRÃO: (2X)
+
+Solo 1 (2X)
+
+   A                     E
+Quando a festa vai começar
+  F#m
+Acabou a bebida
+   A                     E                  F#m
+Quando você percebe, está de castigo
+P'ro resto da vida
+   D                   E
+Meus amigos vão dizer
+   D                E
+Os vizinhos vão saber
+   D                          E
+Ninguém entende nada
+                        F#m
+Somos todos iguais a você
+
+REFRÃO: (2X)
+
+(A   E   F#m)   (4 X)
+
+   D               E
+Acabei de me vestir
+   D                   E
+Sem nenhum lugar pra ir
+   D              E
+Gastar o dinheiro que eu não tenho
+           F#m
+Pra me divertir
+   D                   E
+Meus amigos vão dizer
+   D                E
+Os vizinhos vão saber
+   D                          E
+Ninguém entende nada
+                        F#m
+Somos todos iguais a você
+
+REFRÃO: (4X)
+
+(A   E   F#m)   (4 X)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

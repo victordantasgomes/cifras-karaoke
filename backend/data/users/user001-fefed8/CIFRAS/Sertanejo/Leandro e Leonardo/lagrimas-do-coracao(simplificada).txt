@@ -1,0 +1,62 @@
+@titulo: lagrimas-do-coracao(simplificada)
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - Lágrimas do Coração
+
+(intro 2x) C Em F G
+
+        C                      G/B   E7
+Hoje eu acordei tão triste de manhã
+       Am                    C7
+Duas lágrimas caíram do meu coração
+         F             D7           C  G/B  Am
+Pois a noite inteira, sonhei com você
+          D7                          G
+Oh, que sonho bom de amor, que noite linda
+
+        C                G/B  E7
+Neste abandono fiquei a olhar
+       Am                       C7
+Nossas coisas desprezadas no mesmo lugar
+         F       D7         C  G/B  Am
+Este desencanto parece dizer:
+       D7                      G
+Pra você voltar e muito nos querer
+
+(refrão)
+
+C     F           C     F          C
+Vem, mata essa saudade, traz felicidade
+F             A#     G
+Me ajude a vivee...eer.
+
+C     F           C     F          C
+Vem, mata essa vontade, faz realidade
+F           C
+Este sonho meu.
+
+( F Em Dm C A# Am G B C )
+
+(repete tudo)
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

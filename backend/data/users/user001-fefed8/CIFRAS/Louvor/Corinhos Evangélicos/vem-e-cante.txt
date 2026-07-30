@@ -1,0 +1,36 @@
+@titulo: vem-e-cante
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Vem e Cante
+
+Em       Am       D         G         Em      Am   B7 Em C D Em
+Aleluia, Aleluia, Aleluia, Aleluia, Aleluia, Aleluia
+                    Am        D7                 G
+Venha    e    cante   ao  Senhor, venha  e  cante  ao
+    Em                  Am       B7           Em     Em C D Em
+Senhor. Venha  e   cante   na   presença  de  Jesus!
+             Am       D7              G
+Venha e louve ao senhor, Venha e louve ao
+    Em               Am     B7          Em Em C D Em
+Senhor. Venha e louve na presença de Jesus
+            Am       D7              G
+Venha e dance ao Senhor, Venha e dance ao
+   Em               Am     B7         Em   Em C D Em
+Senhor. Venha e dance na presença de Jesus!
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

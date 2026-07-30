@@ -1,0 +1,42 @@
+@titulo: tabernaculo
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Tabernáculo
+
+C               Am             F                    G
+Passo pelo holocausto e eu me limpo no sangue de Jesus
+C             Am            F                     G
+Entro no santuário, como os pães e acende-se uma luz
+ F                               C                    G
+Entro no santíssimo e vejo o cordeiro assentado como Deus
+C         Am               F   G  C
+E o meu caminho é de sacerdote à Rei
+ G#           D#          A#m              Fm
+Cura e perdão já recebi , pois o véu se rasgou
+G#           D#         A#m            Fm
+Vi a face do meu Jesus, que todo mal levou
+ C#               G#        C#               G#
+Cheio do Espírito hoje sou, pois pelo véu passei
+ C#          G#         D#            G#
+Hoje o meu caminho é : de sacerdote a Rei
+
+( G )
+
+----------------- Acordes -----------------
+A#m = X 1 3 3 2 1
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+D# = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

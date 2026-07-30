@@ -1,0 +1,73 @@
+@titulo: prato-do-dia(simplificada)
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Prato do Dia
+
+Intro: C G G7 C G C
+
+C                                                G7                                            C
+Sobre as margens de uma estrada uma simples pensão existia
+       C7                         F                           C F                              G7
+a comida era tipo caseira e o frango caipira era o prato do dia
+ C                                          F                  G7                           C
+Proprietário homem de respeito ali trabalhava com sua família
+                                       G7                                                      C
+cozinheira era a sua esposa e a garçonete era uma das filhas
+
+Intro: C G G7 C G C
+
+C                                           G7                                          C
+Foi chegando naquela pensão um viajante já fora de hora
+          C7                        F                                  C                             G7
+foi dizendo para a garçonete me traga um frango vou jantar agora
+                                     C                G7                             C
+Eu estou bastante atrasado terminando eu já vou embora
+                                                 F           G7                                                  C
+ela então respondeu num sorriso mamãe tá de pé, pode crer, não demora
+
+ (Intro) C G G7 C G C
+C                                         G7                                                 C
+Quando ela foi servir a mesa delicada e com muito bom jeito
+             C7                                      F                             C                    G7
+me desculpe mas trouxe uma franga talvez não esteja cozida direito
+                                                          C                                      G7
+para mim franga crua talvez eu aceite sendo uma igual a você
+                                                             C
+seja a qualquer hora também não enjeito
+
+Intro: C G G7 C G C
+
+C                                      G7                                                 C
+Foi saindo de cabeça baixa pra queixar ao seu pai a mocinha
+                     C7                F                     C                                 G7
+minha filha mate outra franga pode temperar porém não cozinha
+                                               C                            G7                                 C
+Vou levar essa franga na mesa se bem que comigo a conversa é curtinha
+                                          G7                                                            C
+é a coisa que mais eu detesto ver homem barbado fazendo gracinha
+
+Intro: C G G7 C G C
+
+C                                          G7                                                 C
+Foi chegando o velho e dizendo vim trazer o pedido que fez
+                                            F                          G7
+quando o cara tentou recusar já se viu na mira de um Schmitt inglês
+                                           C                            G7
+O negócio  foi limpar o prato quando o proprietário lhe disse Cortez
+                                              C                            G7                            C
+nós estamos de portas abertas pra servir a moda que pede o freguês
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

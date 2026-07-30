@@ -1,0 +1,66 @@
+@titulo: hora-de-acordar
+@autor:
+@intérprete: Matheus e Kauan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Matheus e Kauan - Hora de Acordar
+
+Intro:  F#m  A  E  (2x)
+
+    E
+Viajei!
+A
+Eu pensei que era você
+     E
+Encantei!
+A
+Mas agora nada a ver
+
+F#m
+Cadê aquele frio na barriga?
+A
+A dor da despedida?
+              E
+Agora não tem mais
+            B
+Agora tanto faz
+
+F#m
+Quando eu te via
+
+                     A
+eu ficava mesmo balançado
+                                   E
+A voz sumia, eu tremia e a boca secava
+                B
+Hoje, não sinto nada
+
+            F#m
+Hora de acordar o coração desocupado
+                 A
+que não soube julgar
+                              E
+o que seria amor ou mera distração
+          E
+Foi só ilusão
+
+            F#m
+Hora de acordar e não me leve a mal
+              A
+Eu não sei fingir
+                            E
+Siga o seu caminho e seja feliz
+       E
+Seja feliz!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

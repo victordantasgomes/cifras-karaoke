@@ -1,0 +1,36 @@
+@titulo: alegrem-se-os-ceus
+@autor:
+@intérprete: Adhemar de Campos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Adhemar de Campos - Alegrem-se Os Céus
+
+[Intro] C  G  C 
+        G  C  G
+        Am  D  G
+
+C              G
+Alegrem-se os céus
+C           G
+Regozije-se a terra
+C                G
+E diga-se entre as nações
+Am    D     G
+O Senhor reina
+        
+C    G    C   G   C    G
+Aleluia, aleluia, aleluia
+Am   D    G
+O Senhor reina
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3

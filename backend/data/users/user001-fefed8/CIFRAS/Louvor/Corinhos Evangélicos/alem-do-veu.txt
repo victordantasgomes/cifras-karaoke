@@ -1,0 +1,36 @@
+@titulo: alem-do-veu
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Alem do Véu
+
+(intro)  C9 F7M G C9
+         C9     F7M  G       C7M B/D Am7
+
+Além do véu agora eu entro,
+      Dm7  G           C9
+E no santo lugar a ti contemplo
+C7      F7M        G         C7M B/D Am7
+Tanta beleza e luz não há no mundo igual
+        Dm7  G             C9
+Adoro a ti jesus, além  do véu.
+
+( Dm7 G7/13 C9 )
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+B/D = X 5 4 4 4 X
+C7 = X 3 2 3 1 X
+C7M = X 3 2 0 0 X
+C9 = X 3 5 5 3 3
+Dm7 = X 5 7 5 6 5
+F7M = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G7/13 = 3 X 3 4 5 X

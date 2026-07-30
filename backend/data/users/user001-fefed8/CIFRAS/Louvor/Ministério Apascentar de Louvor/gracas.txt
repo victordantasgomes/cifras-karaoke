@@ -1,0 +1,77 @@
+@titulo: gracas
+@autor:
+@intérprete: Ministério Apascentar de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Apascentar de Louvor (Toque No Altar) - Graças
+
+Introdução [Am7 G D/F#][Am7 G D/F#][F/A G][ C/E F ] [ C/E F ] [D/F# G][ D/F# G]
+
+D/F#             C9/E         D/F#      Em   D
+Pra que me preocupar com as adversidades
+D/F#        C9/E          D/F#          Em   D
+Pra que me abater com a língua mentirosa
+      Am7        G         D/F#
+Se o Senhor já preparou
+     G9   G9/B    C         Am7        D
+Uma mesa diante dos meus      inimigos
+D/F#        C9/E          D/F#          Em   D
+Não posso recuar e abandonar meus sonhos
+D/F#        C9/E          D/F#          Em   D
+A cura sempre será maior do que as feridas
+      Am7     G       D/F#            G9  G9/B
+Vou deixar o que passou, pois eu creio
+     C9              Am7               D
+Que Deus tem pra mim     sempre o melhor
+
+C9               D/C      Bm7      Em7
+Pra que me afligir com o futuro
+
+         C9       D/C   Bm7           Em7
+E a ansiedade deixar dominar a minha alma
+       Am7               G    D/F#    G9
+Se eu tenho a promessa que diz Que o Senhor
+G9/B   C9                    D
+abençoará A obra das minhas mãos,
+                 G9  D/F#
+Eu tenho que dar Graças
+            Em7    C9
+Só posso te dar Graça               (2x)
+        G9        D/F#    C9
+Eu vivo pra dar Graças, a ti Senhor
+     Solo e volta
+
+Solo  [ Am     G     D/F# ]  [Am   G   C9/E   D/F# G/B C9 ]
+
+Final
+Am7          G/B    C9
+A  Ti Senhor  oooo
+Am7         G/E   D/F#  G  C9
+A  Ti Senhor  oooo
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+C9/E = X X 2 5 3 0
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/E = 0 2 0 0 3 3
+G9 = 3 X 0 2 0 X
+G9/B = 7 X X 7 8 5

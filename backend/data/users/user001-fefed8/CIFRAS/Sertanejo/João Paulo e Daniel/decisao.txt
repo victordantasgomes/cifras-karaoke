@@ -1,0 +1,63 @@
+@titulo: decisao
+@autor:
+@intérprete: João Paulo e Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+João Paulo e Daniel - Decisão
+
+Intro: Bb C F Dm C7 F
+
+ F              C7             F
+Mulher agora é hora de nossa verdade
+                       F7             Bb
+Verdade que por muito tempo não quis aceitar
+                   C7                   F
+Vivi muito tempo tentando enganar a mim mesmo
+                                        C
+Unindo minha esperança ilusões de seus erros
+   Bb                           C7        F   (F7)
+E assim construiu meu mundo em somente te amar
+
+Refrão:
+
+ Bb          C7                             F
+Agora estou vendo as coisas de um modo mais claro
+   G7                                      C
+E vi que há um grande contraste entre eu e você
+ Bb                                          F
+Você é insensível demais pra minhas horas de dor
+
+                                  C7
+Eu sou amoroso demais e em você falta amor
+   Bb                                    F
+E assim desse modo infantil não podemos viver
+
+(Intro)
+
+F               C7                   F
+Por isso é que estou tomando esta decisão
+                  F7           Bb
+E foi usando bom senso que me decidi
+             C7                      F
+Procura seu mundo e viva seus modos reais
+                                       C
+Que eu viverei o meu, pois nós somos iguais
+   Bb                       C7        F
+A água e o óleo que nunca poderão se unir
+
+(Refrão)
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F7 = 1 3 1 2 1 1
+G7 = 3 5 3 4 3 3

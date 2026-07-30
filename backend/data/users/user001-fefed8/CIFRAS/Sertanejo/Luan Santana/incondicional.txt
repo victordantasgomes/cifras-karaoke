@@ -1,0 +1,161 @@
+@titulo: incondicional
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Incondicional
+
+Intro:  D5(9)  A4  Em7  G
+   D5(9)            A4
+E|-------0-----------------0-----0h2p0-----|
+B|-3-----------3----3------------------3---|
+G|-2---2-----2------2--2-----2-----------2-|
+D|-0-0-----0-----0--2----2-----2-----------|
+A|------------------0----------------------|
+E|-----------------------------------------|
+
+   Em                   G
+E|-------------------------------2--5------|
+B|---h3------------------------3-3--3------|
+G|-0-h2----2---2-----2--4--2-4-------------|
+D|---------------0-------------------------|
+A|-----------------------------------------|
+E|-0-----0---0-----0----3--------3---------|
+
+
+Primeira Parte:
+   D5(9)              A4
+E|---------0-----------------0-------------|
+B|-3-------3-----3----3------------2-0-----|
+G|-2-----2-----2---2--2----2-----2---------|
+D|-0-2h4-----4--------2--2-----2-----------|
+A|--------------------0--------------------|
+E|-----------------------------------------|
+
+
+   Em7         D6(9)/F#  G
+E|-------3------------------5--------------|
+B|-----3---3--------------0-------0--------|
+G|---0-------0-----2--2h4-------2---2------|
+D|-------------2h4-------------------------|
+A|-----------------------------------------|
+E|-0-----------2------3-------3------------|
+
+
+    D5(9)
+Eu vou pedir ao Sol,Pra iluminar nosso caminho
+   A4
+E todas as estrelas,Pra enfeitar nosso destino
+    Em
+Me leve onde for, segure a minha mão
+      G
+Pois sei que você vai ser a minha direção
+
+   D5(9)
+A gente é assim, temos tanta coisa em comum
+   A4
+Você tem marca em mim, e pra você não sou mais um
+    Em7                                D6(9)/F#  G
+Nascia o nosso amor, Tão forte como a noite
+
+Perfeito como o dia.
+
+Refrão:
+    D5(9)
+Eu vou subir as nuvens, Pra desenhar o teu sorriso
+   A4
+E no azul do céu, Vou ver os seus olhos brilhando
+    Em7                     D6(9)/F#  G7M
+Em meio às estrelas, fico flutuando
+    D5(9)
+Em minhas digitais já tem um pouco de você
+    A4
+Eu sigo seus sinais, assim nunca vou te perder
+  Em7                               D6(9)/F#  G7M
+É incondicional, você tem a forma exata pra  me prender
+      D5(9)  A4  Em7   D6(9)/F#  G7M
+Em você!
+
+Primeira Parte:
+   D5(9)
+A gente é assim, temos tanta coisa em comum
+   A4
+Você tem marca em mim, e pra você não sou mais um
+    Em7                                D6(9)/F#  G
+Nascia o nosso amor, Tão forte como a noite
+
+Perfeito como o dia
+
+Refrão:
+    D5(9)
+Eu vou subir as nuvens, Pra desenhar o teu sorriso
+   A4
+E no azul do céu, Vou ver os seus olhos brilhando
+    Em7                     D6(9)/F#  G7M
+Em meio às estrelas, fico flutuando
+    D5(9)
+Em minhas digitais já tem um pouco de você
+    A4
+Eu sigo seus sinais, assim nunca vou te perder
+  Em7                               D6(9)/F#  G7M
+É incondicional, você tem a forma exata pra  me prender
+      D5(9)
+Em você!
+Passagem Refrão:
+   D5(9)
+E|-0-0-------------------------------------|
+B|-3-3-------------------------------------|
+G|-2-2-------------------------------------|
+D|-0-0-4P0---------------------------------|
+A|---------5P0--5-7\-----------------------|
+E|-----------------------------------------|
+
+Refrão:
+    D5(9)
+Eu vou subir as nuvens, Pra desenhar o teu sorriso
+   A4
+E no azul do céu, Vou ver os seus olhos brilhando
+    Em7                     D6(9)/F#  G7M
+Em meio às estrelas, fico flutuando
+    D5(9)
+Em minhas digitais já tem um pouco de você
+    A4
+Eu sigo seus sinais, assim nunca vou te perder
+  Em7                               D6(9)/F#  G7M
+É incondicional, você tem a forma exata pra  me prender
+      D5(9)
+Em você!
+
+Final:
+   D5(9)            A4            D5(9)
+E|-------0-----------------0---------------|
+B|-3-----------3----3-------------3--------|
+G|-2---2-----2------2--2-----2----2--------|
+D|-0-0-----0-----0--2----2-----2--2h4------|
+A|------------------0----------------------|
+E|-----------------------------------------|
+
+    D5(9)
+Em minhas digitais já tem um pouco de você
+    A4
+Eu sigo seus sinais, assim nunca vou te perder
+  Em7                               D6(9)/F#  G7M
+É incondicional, você tem a forma exata pra  me prender
+      D5(9)   A4   D9
+Em você!
+
+----------------- Acordes -----------------
+A4 = X 0 2 2 3 0
+D5(9) = X 5 7 9 X X
+D6(9)/F# = 2 X 0 2 0 0
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G7M = 3 X 4 4 3 X

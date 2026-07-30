@@ -1,0 +1,63 @@
+@titulo: ouvir-estrelas
+@autor:
+@intérprete: Kid Abelha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kid Abelha - Ouvir Estrelas
+
+(adaptação da poesia ORA DIREIS, OUVIR ESTRELAS do poema VIA LÁCTEA de OLAVO BILAC)
+George Israel / Paula Toller
+
+[Intro:] D G6
+
+D       D(#5)    D   D(#5) D
+Direis ouvir estrelas
+        D(#5)     C   D
+Certo perdeste o senso
+          D(#5)       D   D(#5) D
+E eu vos direi, no entanto
+           D(#5)           C          Gm7
+Que, para ouvi-las, muita vez desperto
+             C      D               Bm6 Bb A
+E abro as janelas, pálido de espanto
+
+Enquanto conversamos
+Cintila a Via Láctea
+Como um pátio aberto
+E ao vir do Sol, saudoso e em pranto
+Inda as procuro pelo céu deserto
+
+
+Bm    Bm7M       Bm7
+Que conversas com elas
+   Bm6       Gm7         C      D  A/C# Bm Bm7/A G#m7(b5) G7M Em7
+O que te dizem quando estão contigo Ah!...
+          A7    D    A/C# Bm Bm7/A G#m7(b5) G7M
+Amai para entendê-las Ah!...
+            Em7          A7     D
+Pois só quem ama pode ouvir estrelas
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+Bm6 = 7 X 6 7 7 X
+Bm7 = X 2 4 2 3 2
+Bm7/A = 5 2 4 2 3 2
+Bm7M = X 2 4 3 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D(#5) = X 5 4 3 3 X
+Em7 = 0 2 2 0 3 0
+G#m7(b5) = 4 X 4 4 3 X
+G6 = 3 X 2 4 3 X
+G7M = 3 X 4 4 3 X
+Gm7 = 3 X 3 3 3 X

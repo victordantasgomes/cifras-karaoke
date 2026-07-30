@@ -1,0 +1,64 @@
+@titulo: eu-aposto
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Eu Aposto
+
+[Intro] F  Gm7  F  Gm7
+          C  Bb  C
+
+      F          F4                                                           Gm
+Eu aposto...., a minha vida,   meu sorriso, o meu dinheiro
+                                       F/A                    Bb
+Quando seu rosto encostar ........ .no travesseiro
+                 Gm                           C
+Seus pensamentos vão tentar achar os meus
+
+F              F4                                                         Gm
+Eu aposto.... que a sua paz vai guerrilhar com a saudade
+                                          F/A             Bb
+Seu coração vai descobrir....  toda verdade
+                Gm                                      C
+Na minha falta vai buscar ajuda em Deus
+
+                 Bb                                                                   Am
+Ah!.... eu aposto...que as suas noites vão ser longas e vazias
+                Dm                  C#                  Gm
+Vai me lembrar, chorar, até contar os dias
+
+       Ab                                             C7
+A solidão não vai caber em nossa casa
+
+               F                  F4                                              Gm
+Se eu perder..... vai doer menos do que está doendo agora
+                                               F/A             Bb
+Quando você me disse: chega!. tô indo embora
+          C                                                    F
+Meu coração me  disse : aposta que ela volta
+                F                                                                 Gm
+Mas se eu ganhar ... logo  vou vêr aquela porta se abrindo
+                                       F/A                 Bb
+Você entrar, me abraçar, ......   dizer sorrindo
+        Gm                    C7                              F
+Que eu sou tudo,tudo que você, mais gosta
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F4 = 1 3 3 3 1 1
+Gm = 3 5 5 3 3 3
+Gm7 = 3 X 3 3 3 X

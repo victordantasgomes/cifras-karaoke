@@ -1,0 +1,88 @@
+@titulo: ela-e-o-castelo
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Ela e o Castelo
+
+Intro: C#m  B  A
+
+
+    C#m       B          A9
+Ela vem com flores nas mãos
+     C#m     B           A9
+Ela tem esmeraldas no olhar
+     E*         B*   C°
+Ela sabe o que quer
+            C#m
+E como conseguir
+          A    B     E
+E a todos sabe encantar
+          E*       B*   C°
+Tem um sorriso incomum
+               C#m
+E sabe que é capaz
+       A     B     E
+De seduzir e enganar
+
+
+
+A    E       B   C°
+Na areia eu fiz
+                C#m
+Um castelo de sonhos
+       B       E
+Para o meu amor
+A    E       B  C°
+Na areia eu vi
+             C#m
+Meu castelo ruir
+             B*      E*
+Depois de um vendaval
+          A
+Estou tão só
+       C#m             B      A
+Ela entende o que eu nunca falei
+     C#m     B            A
+Ela sabe o que existe em mim
+     E*         B*   C°
+Ela vem de um lugar
+              C#m
+Que nunca conheci
+           A       B    E
+Mas juro que já estive lá
+E*             B* C°                C#m
+Ela é o meu amor,    e eu nunca imaginei
+         A   B     E
+Que poderia encontrar
+
+
+A    E       B    C°
+Na areia eu fiz
+                C#m
+Um castelo de sonhos
+       B*       E*
+Para o meu amor
+A    E       B   C°
+Na areia eu vi
+             C#m
+Meu castelo ruir
+             B*      E*            A
+Depois de um vendaval, estou tão só
+
+
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+C° = X 3 4 2 4 2
+E = 0 2 2 1 0 0

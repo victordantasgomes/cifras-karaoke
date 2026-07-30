@@ -1,0 +1,81 @@
+@titulo: oracao-de-sao-francisco
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Oração de São Francisco
+
+     E
+Senhor, fazei-me um instrumento de vossa paz!
+
+E           E/G#          A      E/G#
+Onde houver ódio, que eu leve o Amor
+G/D            E/B       A/C#         B/D#
+Onde houver ofensas, que eu leve o perdão
+E              E/G#            A      E/G#
+Onde houver discórdia, que eu leve a união
+A            E/G#    F#m    B        E
+Onde houver dúvidas, que eu leve  a  fé
+
+E           E/G#          A      E/G#
+Onde houver erros, que eu leve a verdade
+G/D            E/B       A/C#         B/D#
+Onde houver desespero, que eu leve esperança
+E              E/G#            A      E/G#
+Onde houver tristeza, que eu leve   alegria
+A            E/G#    F#m    B        E    Dsus4
+Onde houver trevas, que eu leve a luz
+
+
+  G   G/F#  Em         G/D        C  C/E
+Ó Mestre, fazei que eu procure mais
+    B/D#       B/F#     G  Em
+Consolar, que ser consolado
+        C        Am              D/F#   D
+Compreender, que ser    compreendido
+ D/C    B/D#      Em
+Amar,   que ser Amado
+
+        B4     B       C   G/B
+Pois é dando, que se recebe
+      Am           Am/G         D/F#   D
+É perdoando, que se é    perdoado
+        G/D   B/D#   Em
+E é morrendo que se vive
+C            G/D  G   D
+Para a vida eterna
+        G/D   B/D#   Em
+E é morrendo que se vive
+C            G/D  G
+Para a vida eterna
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B/F# = X X 4 4 4 2
+B4 = X 2 4 4 5 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+Dsus4 = X X 0 2 3 3
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G/F# = X X 4 4 3 3

@@ -1,0 +1,108 @@
+@titulo: se-o-rei-mandar
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Se o Rei Mandar
+
+(intro) C Am7 Dm G C
+
+E |---7-7-7--8--10-10--8--7-7----7-7-7--8--10-10--8--7-7----8--8--8---10-12-12--10-8--8---
+B |---8-8-8--10-12-12--10-8-8----8-8-8--10-12-12--10-8-8----10-10-10--12-13-13--12-10-10--
+G |---------------------------------------------------------------------------------------
+D |---------------------------------------------------------------------------------------
+A |---------------------------------------------------------------------------------------
+E |---------------------------------------------------------------------------------------
+
+E |---7-7-7--8--10-10---------------------------------------------------------------------
+B |---8-8-8--10-12-12---------------------------------------------------------------------
+G |---------------------------------------------------------------------------------------
+D |---------------------------------------------------------------------------------------
+A |---------------------------------------------------------------------------------------
+E |---------------------------------------------------------------------------------------
+
+C                             G/B
+Vamos fazer uma brincadeira agora
+                Am7
+Voltar a ser criança
+              Am7/G
+Pegue a minha mão
+
+                  F
+Vamos entrar na dança
+       G
+Tão gostoso era quando a paixão
+        C9  G F
+Era só mel
+C9
+Eu te pergunto
+          G/B
+Você me responde
+                  Am7
+mas não é pique-esconde
+          Am7/G
+Não fuja de mim
+              F
+Quero você aqui
+                   G
+Esta sempre do seu lado
+                C    E7
+Ontem,hoje e amanha
+                  Am
+Seu rei mandou dizer
+Que não me deixe
+Que me dê carinho
+                Em
+Que você me aqueça
+Quando estiver frio
+F
+E quem não for apanha
+ G                     C  E7
+Saudade não tem graça,não
+               Am
+Seu rei mandou dizer
+Que você pense
+Pense direitinho
+               Em
+Vem,meu beija-flor
+me leva pro seu ninho
+F
+E se bater as asas
+G                    C
+Que voe em minha direção
+F       G             C
+Se o rei mandar
+me amar,me amar
+           G
+E você não for me amar,me amar (2x)
+             Am
+Vai fazer chorar
+          F
+O meu coração
+ G                      C
+mas seu castigo é a solidão
+
+Se o rei mandar...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am7/G = 3 0 2 0 1 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

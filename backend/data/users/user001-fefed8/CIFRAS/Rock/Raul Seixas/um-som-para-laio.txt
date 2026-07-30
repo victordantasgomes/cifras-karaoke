@@ -1,0 +1,57 @@
+@titulo: um-som-para-laio
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Um Som Para Laio
+
+De: Raul Seixas
+
+Int: B/D
+
+A7
+Na minha cabeça
+Uma guitarra toca sem parar
+Trago uma para de fones nos ouvidos
+Pra não lhe escutar
+ F#                      (B A)
+O que você tem pra dizer
+ F#                      (B A)
+Ouvi a cem anos atrás
+      B
+O que eu faço agora
+             C   Db
+Você  não sabe mais
+F#7/A
+Hey man! Hey man!
+Uou man! Uoo man!
+Crazy man! Crazy man!
+
+Yeah!
+A7
+I'm all right !
+      F#7/A
+Yeah! Yeah!
+                    (B E)
+Listen to the music
+F#7
+Yeah! Yeah! Man
+                          B C Db
+Listen to the music! Yeah!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B = X 2 4 4 4 2
+B/D = X 5 4 4 4 X
+C = X 3 2 0 1 0
+Db = X 4 6 6 6 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2

@@ -1,0 +1,60 @@
+@titulo: aquele-que-me-ama
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Aquele Que Me Ama
+
+Intro: A9 E/A D/A A9 E/A D/A A9
+
+
+A9             E/A          D7+
+Aquele que tem os meus mandamentos e os guarda
+
+A9            D7+
+Este é o que me ama
+
+A9             E/A          D7+
+Aquele que tem os meus mandamentos e os guarda
+
+A9        E    A9
+Este é o que me ama
+
+
+   D7+               C#m
+E aquele que me ama será amado por meu pai
+
+  C9
+E eu também o amarei
+
+    Bm          E
+E me manifestarei a ele.
+
+
+A9             E/A          D7+
+Aquele que tem os meus mandamentos e os guarda
+
+A9            D7+
+Este é o que me ama
+
+A9             E/A          D7+
+Aquele que tem os meus mandamentos e os guarda
+
+A9        E    A9
+Este é o que me ama
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+C9 = X 3 5 5 3 3
+D/A = X 0 X 2 3 2
+D7+ = X X 0 2 2 2
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0

@@ -1,0 +1,144 @@
+@titulo: amor-incandescente
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Amor Incandescente
+
+Intro: D A E D A
+
+     A      E    A
+Seu amor é feito água
+      E        F#m
+Escorrendo pela vida
+    Em      A7           D
+Escapando entre os meus dedos
+        A7         Bm
+Com um cheiro de partida
+        E
+Como a chuva ele molha
+   C#m        F#m
+E alaga o meu peito
+         B7           B7/4 B7
+Feito um rio em correntezas
+     Bm           E7
+Navegando no seu leito
+
+     A     E    A
+Seu amor é como fogo
+
+        E        F#m
+Feito tocha de balão
+        Em     A7     D
+Vai queimando tudo em volta
+       A/C#    A7    Bm
+Queima até meu coração
+          E
+Põe mais lenha na fogueira
+     C#m            F#m
+Arde mais que ferro quente
+          A     E     A
+Quero as lavas do vulcão
+      E            A     A7
+Desse amor incandescente
+
+             D
+Seu amor me faz bem
+            A
+Não fuja de mim não
+            E                  D
+Sou feliz assim, você manda em mim
+         A      A7
+No meu coração
+
+             D
+Seu amor me faz bem
+             A
+Não fuja de mim não
+             E                 Bm
+Tá no seu olhar, tá no meu olhar
+  E        A    F7
+A nossa paixão
+
+     Bb    F     Bb
+Seu amor é feito ar
+        F            Gm
+Transformado em ventania
+     Fm      Bb7  Eb
+Vem soprando meu amor
+      Bb7       Cm
+Me trazendo alegrias
+      F
+Tem a força de um ciclone
+     Dm             Gm
+Leva tudo que encontrar
+      C7       C7/4   C7
+Esse amor roda-moinho
+          Cm    F
+Faz meu coração voar
+     Bb     F     Bb
+Seu amor é feito terra
+     F          Gm
+Germinando a semente
+     Fm    Bb7      Eb
+Cava fundo no  meu peito
+        Bb7            Cm
+Faz crescer minhas nascentes
+     F
+Eu me planto todo dia
+     Dm            Gm
+Cada dia um pouco mais
+      Bb      F       Bb
+Quero ver crescer de perto
+      F               Bb
+Esse amor que a gente faz
+
+             Eb
+Seu amor me faz bem
+            Bb
+Não fuja de mim não
+            F                  Eb
+Sou feliz assim, você manda em mim
+         Bb      Bb7
+No meu coração
+
+             Eb
+Seu amor me faz bem
+             Bb
+Não fuja de mim não
+             F                 Cm
+Tá no seu olhar, tá no meu olhar
+  F        Bb    G7
+A nossa paixão
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+B7/4 = X 2 4 2 5 2
+Bb = X 1 3 3 3 1
+Bb7 = X 1 3 1 3 1
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+C7 = X 3 2 3 1 X
+C7/4 = X 3 3 3 1 X
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Eb = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F7 = 1 3 1 2 1 1
+Fm = 1 3 3 1 1 1
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

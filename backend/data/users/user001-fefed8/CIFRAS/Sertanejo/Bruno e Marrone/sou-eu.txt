@@ -1,0 +1,145 @@
+@titulo: sou-eu
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Sou Eu
+
+[Intro] E  G#m  A  B  A  B  A
+
+E|-----7--7-5-4--------7----5-4-5-4------4-------------|
+B|-4/5----------7-4-----------------5---7--7----4-5-7--|
+G|-------------------------------------------6---------|
+D|-----------------------------------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+E
+Ele te provoca
+E
+Pra mostrar
+                 G#m
+Que é melhor que eu
+A                        Am
+Joga todo o charme que puder
+                E     B
+Pra ver se me venceu
+E
+Olha pra você
+
+E
+Com aquele jeito
+                 G#m
+De quem vai te amar
+           A   F#7          B
+Mais do que eu, mais do que eu
+E
+Ele sempre chega
+                       G#m
+Nos lugares que você está
+A                         Am
+Quer aparecer de qualquer jeito
+           E   B
+Pra você notar
+E
+Pra quem sabe ler
+E
+Um pingo é letra
+           G#m                    A   B
+Eu posso decifrar se é jogo de amor
+             E
+Também sei jogar
+C#m
+Quando o telefone toca
+                    G#m
+Você já não quer atender
+G#m
+Pode ser ele do outro lado
+                A
+Pra falar com você
+B      E
+Não sou eu
+C#m
+Acho que é melhor
+                           G#m
+Você contar pra ele de uma vez
+                                             F#7
+Que esse amor é todo meu e eu não divido por três
+     B      B7
+Sou eu, sou eu
+  E          C#m
+Sou eu quem faz
+ A          B
+Amor com você à noite
+  E         C#m     A            B
+Sou eu quem dá, a vida se preciso for
+ G#7                 C#m          Am
+Faz ele ver, que o seu grande amor
+   E               B                E
+Sou eu, sou eu, sou eu, sou eu, sou eu
+
+[Solo]
+
+E|-----7--7-5-4--------7----5-4-5-4------4--------------|
+B|-4/5----------7-4-----------------5---7--7----4-5-7---|
+G|-------------------------------------------6----------|
+D|------------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+C#m
+Quando o telefone toca
+                     Abm
+Você já não quer atender
+Abm
+Pode ser ele do outro lado
+                A
+Pra falar com você
+B      E
+Não sou eu
+C#m
+Acho que é melhor
+                            Abm
+Você contar pra ele de uma vez
+                                                     F#7
+Que esse amor é todo meu e eu não divido por três
+     B      B7
+Sou eu, sou eu
+  E          C#m
+Sou eu quem faz
+ A           B
+Amor com você à noite
+  E         C#m     A             B
+Sou eu quem dá, a vida se preciso for
+ Ab7                 C#m          Am
+Faz ele ver, que o seu grande amor
+   E               B               E
+Sou eu, sou eu, sou eu, sou eu, sou eu
+
+[Final]
+
+E|-----7--7-5-4--------7----5-4-5-4------4------------5-4-2----|
+B|-4/5----------7-4-----------------5---7--7----4-5-7-------5--|
+G|-------------------------------------------6-----------------|
+D|-------------------------------------------------------------|
+A|-------------------------------------------------------------|
+E|-------------------------------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Ab7 = 4 6 4 5 4 4
+Abm = 4 6 6 4 4 4
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#7 = 2 4 2 3 2 2
+G#7 = 4 6 4 5 4 4
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,63 @@
+@titulo: a-gloria-do-pai
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - A Glória do Pai
+
+Intro D9     D9  G  A
+         G7M D/F# Em   F#m A Bm   Bm D9 Em   A9
+
+D9                               A                                   Bm    G
+Eu já cheguei até aqui eu conheci o Teu poder.
+D9                           A                                  Bm   G
+Eu vi o céu se abrir, eu vi a sarça acender.
+
+
+D9                            A                                 Bm
+Eu vi o mar se abrir, eu vi o céu se rasgar.
+                                G                                 D/F#
+Eu vi o coxo andar, eu vi o surdo ouvir.
+                           A/C#                       Em
+Eu vi Lázaro sair, vi Faraó se prostrar.
+                                             G                  A                        D
+Mas o que eu quero é a glória eu quero Te contemplar.
+
+Refrão:
+                            A                         Bm                                G                  D/F#
+A glória que vem,  a glória que vai, a glória que desce direto do pai.
+
+                          A/C#                   Em                                          G                       A
+A glória que vem, a glória que vai, que se manifestou na cruz foi a glória do Pai.
+
+Intro: G7M D/F# Em   F#m A Bm   Bm D9 Em   A9
+
+D D/F# G Bm A
+Que se manifestou na cruz foi a glória do pai, Jesus sofreu por mim, Jesus sofreu por mim, Ele sangrou por mim Oooooh
+
+ E                        B                         C#m                               A                     E
+A glória que vem, a glória que vai, a glória que desce direto do pai.
+ B                         F#m                                               A                 B           E
+A glória que vem, a glória que vai, Que se manifestou na cruz Foi a glória do Pai.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G7M = 3 X 4 4 3 X

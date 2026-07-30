@@ -1,0 +1,53 @@
+@titulo: consagracao
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Consagração
+
+[Intro] C  Em/B  Am  G  C 
+
+C    Em/B    Am  G       Em   Em7M   Em7   A7
+Seja o meu canto para sempre só pra te louvar
+Dm    Dm/C  G/B  G7       C    Em/B    A7
+Seja, tão somente, eternamente pra te adorar
+Dm       D#º         C    Em/B   A7
+Seja o recado que tu tens hoje aqui pra dar
+     Dm   G7    C       A7
+Mas possa eu trazer na mente
+    Dm     G7    C         F7M  C  G7 
+Que tu és quem o dá!
+
+ C   Em/B   Am  G    Em     Em7M    Em7   A7
+Seja minha vida o padrão naquilo que eu falar
+Dm   Dm/C  G/B  G7   C          Em/B   A7
+No procedimento, o exemplo aos fiéis levar
+Dm         D#º        C      Em/B  A7
+Na pureza grande e também na fé e no amor
+   Dm     G7     C        A7
+Mas possa eu lembrar-me sempre
+     Dm       G7       C          F/C  C 
+Que dependo de ti, Senhor!
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D#º = X X 1 2 1 2
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+Em = 0 2 2 0 0 0
+Em/B = X 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+Em7M = X X 2 4 4 3
+F/C = X 3 3 2 1 1
+F7M = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

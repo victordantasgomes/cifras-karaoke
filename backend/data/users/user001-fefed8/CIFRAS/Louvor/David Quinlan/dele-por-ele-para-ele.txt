@@ -1,0 +1,46 @@
+@titulo: dele-por-ele-para-ele
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Dele, Por Ele, Para Ele
+
+[Intro]  Em  D/F#  G  Am  G  D
+
+ Em  D/F# G   Am G D
+Je|--e|--sus  Je-e-sus
+
+ Em  D/F# G   Am Em D
+Je|--e|--sus  Je|--e-sus
+
+D'Ele, por Ele, para Ele são todas as coisas
+      Em                 D/F# G      Am   G   D/F#   Em7 D/F#
+Por que D'Ele, por Ele, para Ele são todas as coisas
+
+          G/B  C9
+A Ele a glória
+         Em   D
+A Ele a honra
+         G/B  C9
+A Ele a força
+     Em    D
+E o louvor
+       G/B           C9             Am7          D
+Sabedoria riqueza e poder são para Ele, só para Ele
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

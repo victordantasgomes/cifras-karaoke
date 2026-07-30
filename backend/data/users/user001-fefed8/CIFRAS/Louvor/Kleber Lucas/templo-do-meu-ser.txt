@@ -1,0 +1,49 @@
+@titulo: templo-do-meu-ser
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Templo do Meu Ser
+
+Intro 2x: A  A/E  D  D4
+
+  A   A/E    A    A/E         D D4
+ Templo que habita em meu ser
+ A A/E    A A/E            D D4
+ vida que vive em meu viver
+
+ F#m          E          D D4
+ Graça que me traz perdao
+
+ F#m       E              D  D4
+ fogo que queima meu coraça--------o
+ A   A/E A A/E                 E
+ Jesus o amado da minha alma Jesus
+
+                         Bm
+  O Cordeiro imolado Jesus o meu
+                C#m D D4
+  Sumo sarcedote Jesus que venceu a
+            E
+  minha morte
+
+  F#m       E         D D4
+  Estou apaixonado por ti
+    F#m       E         D D4
+  Estou apaixonado por ti
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/E = 0 X 2 2 2 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

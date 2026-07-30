@@ -1,0 +1,61 @@
+@titulo: peter
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Peter
+
+Intro: C,G,E,F,G (2X)
+
+e|-8-8-8-8-8-8-...--7-7-7-...--12/13----15----------------------------|
+B|--8-8-8-8-8-8...---8-8-8...-----------------------------------------|
+G|--------------------------------------------------------------------|
+D|--------------------------------------------------------------------|
+A|--------------------------------------------------------------------|
+E|--------------------------------------------------------------------| 
+
+   C                           G                        F                       G
+O dia hoje está quente, vou curtir enquanto é tempo porque hoje é domingo eu vou aproveitar
+    C                       G                         F                     G
+Eu pego a minha bike  vou andando pelo mundo  vejo os pássaros voando pra nenhum lugar.
+ C                           E                       F         G
+Tenho a minha chance, todos tem alguma chance, de poder, endoidar.
+    C                   E                          F         G
+Eu vejo uma garota passeando com o cachorro e ela diz ''Até Mais!''
+
+F,E,D,C
+       por trás dos pensamentos!
+F,E,D,F
+       está um sentimento!
+
+F,E,D,C
+       que faz seguir em frente.
+G                          F                         C
+Muita coisa já ficou pra trás só que eu não quero voltar.
+G                           F
+Mas eu nunca sei para onde ir!
+(C,F,E,D,C,F,G)
+
+F,E,D,C
+       por trás dos pensamentos!
+F,E,D,F
+       está um sentimento!
+F,E,D,C
+       que faz seguir em frente.
+G                     F
+Sigo pedalando sem parar e eu não vou parar,
+G                          F                        C, G, C
+Sei que ainda vou te encontrar e lembrar que foi assim!
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

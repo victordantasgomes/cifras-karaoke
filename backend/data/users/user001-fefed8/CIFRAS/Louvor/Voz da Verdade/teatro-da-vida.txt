@@ -1,0 +1,78 @@
+@titulo: teatro-da-vida
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Teatro da Vida
+
+G                      D
+Te agradeço Deus,por me emprestar
+                  Em        (2x)
+Um coração,que pulsa
+C                   G
+O ar que eu respiro,que dá sentido a vida
+C                           G
+Em todos os caminhos,da existência
+C                       G         Em
+Me sinto jóia rara,no teatro desta vida
+      F          Em
+O meu produtor,É o meu Senhor
+Am                       D
+Não o vejo,mas Ele está lá
+G                       C
+O diabo quis apagar,as luzes do meu palco
+Am              Am/G               D
+Fechar minhas cortinas,sem eu terminar meu ato
+G                       G/B              C
+Minha história era interrompida,quando uma luz brilhou
+Am             F      C           D
+Tomou em minha mão,e disse:aqui estou
+
+           Em     C          G        Em
+Não há sombra sem sol,não há dia sem luz
+        F                  C           D
+E por traz dessa cortina,quem assina é Jesus
+         Em  C
+Vou viver,               2 vezes
+         Em  C
+vou viver,
+         G           D               C
+Meu coração que pulsa diz que eu vou viver
+         Fm  C#
+Vou viver,               2 vezes
+         Fm  C#
+vou viver,
+         G#          D#              C#
+Meu coração que pulsa diz que eu vou viver
+       F#m  D
+Vou viver,               2 vezes
+       F#m  D
+vou viver,
+         A           E               D
+Meu coração que pulsa diz que eu vou viver
+
+A                       E                        F#m
+Te agradeço Deus,por me emprestar,um coração que pulsa
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G/B = X 2 0 0 3 3

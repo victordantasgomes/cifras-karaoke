@@ -1,0 +1,83 @@
+@titulo: rios-de-amor(simplificada)
+@autor:
+@intérprete: Victor e Leo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Victor e Leo - Rios de Amor
+
+(primeira parte)
+
+(intro) G ↓(4x)
+
+G           C9             G
+Eu estava ali, aos pés do vento
+G                 C9       D
+Enquanto o vento me acariciava
+   G            C9       G      C9
+Estava no céu, longe do tempo   uuu
+G            C9       D
+Uma estrela me cadenciava
+ Em                         C9
+Vagas lembranças de um coração
+C9                        G
+Fui o campo verde onde você descansou
+ B7                     Em
+Fui a voz que lá do sertão te chamou
+      C9
+Você disse: "Não, não"
+      D
+E chorou
+
+
+(refrão)
+C9  G/B   G/A   G
+A__ves   can___tantes
+C9  G/B  G/A   G
+Ma_tas  gi____gantes
+C9  G/B   G/A   G          D
+So_los  plan___tantes em flor
+
+C9  G/B   G/A   G
+A__ves   can___tantes
+C9  G/B  G/A   G
+Ma_tas  gi____gantes
+C9  G/B   G/A   G          D
+So_los  plan___tantes em flor
+
+Rios de amor
+
+(repete a primeira parte, com a letra diferente)
+
+ G          C9        G
+Caso te acometa a saudade
+ G           C9         D
+Vou deixar aberta a porteira
+ G           C9      G    C9
+Tão sozinha nesta cidade  aaa
+G            C9            D
+A pensar em mim a noite inteira
+      Em                   C9
+Você diz que quer mas não vem
+C9                            G
+Eu não posso te obrigar a tentar ser feliz
+ B7                       Em
+Se você vier, meu bem, virá porque quis
+       C9                    D
+Só te peço: "Vem, vem, meu amor"
+
+(repete refrão)
+
+----------------- Acordes -----------------
+B7 = X 2 1 2 0 2
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3

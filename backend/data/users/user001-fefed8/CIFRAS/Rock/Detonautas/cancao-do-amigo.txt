@@ -1,0 +1,97 @@
+@titulo: cancao-do-amigo
+@autor:
+@intérprete: Detonautas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Detonautas - Canção do Amigo
+
+[Intro] Dm7  Bb6  F9/A  C9
+        Dm7  Bb6  F9/A  C9
+        Dm7  Bb6  F9/A  C9
+        Dm7  Bb6  F9/A  C9
+
+Dm7          Bb6              F9/A    C9
+Os tempos são outros e ainda estamos aqui
+ Dm7            Bb6           F9/A      C9
+A distância é grande mas eu nunca te esqueci
+         Dm7          Bb6        F9/A        C9
+A gente quase não se fala mas quando a gente se vê
+   Dm7      Bb6          F9/A    C9
+O coração acelera é tudo tão natural
+     Dm7          Bb6               F9/A    C9
+Dos nossos banhos de chuva e outros tantos carnavais
+    Dm7        Bb6         F9/A    C9
+Das férias na praia ainda somos iguais
+Dm7        Bb6            F9/A   C9
+Os tempos mudaram e nós mudamos também
+        Dm7           Bb6
+Mas isso aqui é mais forte
+
+       F9/A      C9
+Uma corrente do bem
+
+F         A7                    Dm7
+Você é o amigo que eu guardo no peito
+                     G
+Porque ninguém é perfeito
+                 Bb
+E o amor é assim
+       C        F
+Também ama os defeitos
+      A7                      Dm
+Entre idas e vindas, altos e baixos
+              G
+Você sempre esteve aqui
+          Bb          C
+Sempre esteve aqui e sempre vai estar
+
+Dm7          Bb6                F9/A
+Lembro o primeiro porre, a primeira ressaca
+            C9
+O primeiro beijo da primeira namorada
+Dm7           Bb6             F9/A
+A gente costumava passar horas conversando
+        C9
+Vários assuntos, vários discos rolando
+Dm7           Bb6                F9/A
+Nosso próprio mundo era uma revolução
+                     C9
+Foi você que me ensinou a tocar violão
+Dm7            Bb6                   F9/A
+Muitas dificuldades e muitos sonhos também
+                        C9
+Mas isso aqui sempre foi forte
+Uma corrente do bem
+
+F         A7                    Dm7
+Você é o amigo que eu guardo no peito
+                     G
+Porque ninguém é perfeito
+                 Bb
+E o amor é assim
+       C        F
+Também ama os defeitos
+      A7                      Dm
+Entre idas e vindas, altos e baixos
+              G
+Você sempre esteve aqui
+          Bb          C
+Sempre esteve aqui e sempre vai estar
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Bb = X 1 3 3 3 1
+Bb6 = X 1 3 0 3 X
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+F9/A = 5 X X 5 6 3
+G = 3 2 0 0 0 3

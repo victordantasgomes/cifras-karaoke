@@ -1,0 +1,85 @@
+@titulo: vida-cigana
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Vida Cigana
+
+Intro: G  Am  G/B  C  G  Am  G/B  C  D7
+
+(1ª Parte)
+
+G        Am            G/B
+Oh! Meu amor não fique triste
+         C                   G
+Saudade existe pra quem sabe ter
+             Am                   G/B
+Minha vida cigana me afastou de você
+          C                      F
+Por algum tempo eu vou ter que viver
+     D          G       Em
+Por aqui, longe de você
+               Am   D               G
+Longe do seu carinho e do seu olhar
+           Am                 G/B
+Que me acompanha já tem muito tempo
+           C           G
+Penso em você a cada momento
+            Am                 G/B
+Sou água de rio que vai para o mar
+
+          C
+Sou nuvem nova
+
+
+(2ª Parte)
+
+              F
+Que vem pra molhar
+     D             G  Em
+Essa noiva que é você
+               Am    D
+Pra mim você é linda
+              G
+A dona do meu coração
+         Am              G/B
+Que bate tanto quando te vê
+       C           D     G
+É a verdade que me faz viver
+
+
+(Refrão)
+
+          Am             G/B
+O meu coração bate tanto quando te vê
+       C           D     G
+É a verdade que me faz viver
+
+
+Introdução
+
+
+Repete: 1ª Parte
+
+
+              G
+Que vem pra molhar
+
+
+Repete: Refrão 6x
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

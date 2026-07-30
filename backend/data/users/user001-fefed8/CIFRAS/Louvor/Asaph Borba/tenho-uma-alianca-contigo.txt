@@ -1,0 +1,79 @@
+@titulo: tenho-uma-alianca-contigo
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Tenho Uma Aliança Contigo
+
+G/B  A/C#   D                     A/C#
+Te__nho     uma aliança eterna contigo
+F#sus4     F#7                  Bm
+   Uma aliança de amor
+Bm7  Bm/A   G                     D/F#                         Em7  A7sus4  A7
+Te___nho       uma aliança eterna contigo Senhor
+  G/B    A/C#    D                      A/C#
+  Te___nho       uma aliança eterna contigo
+C#7(b5)        F#7               Bm7
+      Uma aliança de amor
+Bm7   Dmaj7/A      G                     D/F#      Asus4   A7           D
+ Te__nho                uma aliança eterna     contigo       Senhor
+G                                        D/F#
+Desde o princípio dos tempos
+        B/F#                     Em7    D
+Me deste as tuas promessas
+C                      G/B           Am7                     Dsus4      D
+Tu me criaste para viver unido contigo em amor
+Em                               Eb° 
+Fazer parte da Tua família
+      Em/D                           C#m7(b5)
+Teu corpo Teu Reino e altar
+C                               G/B                         Fmaj7     Am7
+Para Louvor da tua Glória pra Te adorar
+             G                            D/F#   B/F#                   Em7
+Quando viste em mim o pecado ferindo o Teu coração
+D    C                            G/B
+Porém da aliança lembraste Senhor
+Am7                            Dsus4     D
+E me estendeste o perdão
+      Em                      Ebdim
+Por isso enviaste a Jesus
+   Em/D                   C#m7(b5)
+Por isso a obra da Cruz
+   C                         G/B                            Fmaj7 Am7
+Selaste-a nossa aliança em total comunhão
+D
+     Tenho
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+A7sus4 = X 0 2 0 3 0
+Am7 = X 0 2 0 1 0
+Asus4 = X 0 2 2 3 0
+B/F# = X X 4 4 4 2
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#7(b5) = X 4 5 4 6 X
+C#m7(b5) = X 4 5 4 5 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dmaj7/A = 5 5 4 2 2 2
+Dsus4 = X X 0 2 3 3
+Ebdim = X X 1 2 1 2
+Eb° = X X 1 2 1 2
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+F#sus4 = 2 4 4 4 2 2
+Fmaj7 = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

@@ -1,0 +1,47 @@
+@titulo: o-senhor-e-bom
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - O Senhor É Bom
+
+[Intro]  G  A  D/F#  G  A  Bm
+
+ G       A9     Bm7
+Pai eu quero estar
+  G     A9  Bm7
+Diante de  ti
+     G   A9 Em
+E te adorar
+           G         A9
+Como fosse a ultima vez
+      G  A9   Bm7
+Pelo seu amor 
+   G     A9  Bm7
+E tudo que   és
+     G     A9  Em
+Vou me derramar
+            G      A9
+Como oferta em seu altar
+
+            G
+O senhor é bom
+        D/F#
+E o seu amor 
+           A9  Bm7
+Dura para sempre
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

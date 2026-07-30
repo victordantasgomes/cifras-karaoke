@@ -1,0 +1,92 @@
+@titulo: um-pedacinho-do-seu-coracao
+@autor:
+@intérprete: Gilberto e Gilmar
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gilberto e Gilmar - Um Pedacinho do Seu Coração
+
+Intro: B
+
+B                      F#        E
+  Um pedacinho do seu coração é meu, é meu, é meu
+B                      F#        E
+  Um pedacinho do meu coração é seu, é seu, é seu
+
+Refrão:
+B                      F#        E             F#
+  Um pedacinho do seu coração é meu, é meu, é meu
+B                      F#        E             F#  F#/A#
+  Um pedacinho do meu coração é seu, é seu, é seu
+
+Parte 1:
+B                   F#/A#       G#m
+  Vou pintar um coração na sua rua
+         E        F#
+Com seu nome e o meu
+B                       F#/A#      G#m
+  Se quiser te dou todo brilho da Lua
+    E     F#
+Presente meu
+
+B                  F#/A#       G#m
+  Acho que no dia que você nasceu
+               D#m7          E
+Os anjos foram ver o rosto seu
+             C#m     F#   F#4  F#
+Por isso você é tão linda
+B                 F#/A#       G#m
+  Primeiro beijo que você me deu
+            D#m7          E
+Parece que foi um sonho meu
+                  C#m        F#            E/F#  F#/A#
+Tanto tempo e eu gosto dele ainda, só porque...
+
+(Repete refrão)
+
+Parte 2:
+G#m                                       E
+    Vou dizer o quanto eu gosto de te gostar
+                          C#
+Some as gotas de água do mar
+            C#/F          F#
+Com todas as estrelas do céu (do céu)
+G#m                         E
+    Deve ser amor gostar assim
+                          C#
+Só vejo você se olho pra mim
+               C#/F     F#             E/F#
+Meu sorriso depende do seu, só porque...
+
+(Repete refrão)
+
+Solo de passagem: G  D  Am  Em  D  D/F#  G  E/F#  F#  B
+
+(Repete refrão e Parte 1)
+
+(Refrão 2x)
+
+Para terminar: E/F#  B
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+C#/F = X 8 X 6 9 9
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D#m7 = X X 1 3 2 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/F# = X X 4 4 5 4
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#4 = 2 4 4 4 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

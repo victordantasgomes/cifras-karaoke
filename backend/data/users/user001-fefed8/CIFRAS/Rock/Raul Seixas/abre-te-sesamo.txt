@@ -1,0 +1,83 @@
+@titulo: abre-te-sesamo
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Abre-te Sésamo
+
+Intr.: 4x(Riff 1)
+
+  (Riff 01)         (Riff 02)        (Riff 03)         (Riff 04)
+G|-------------    G|------------   G|-----------   G|---------------------7-5-------------
+D|---------7---    D|------------   D|-----------   D|---------7-5------5-7----------------
+A|-5--7--------    A|--5--7---7--   A|--------7--   A|------5-7----5-5-7-------5-4-2-4-2-0-
+E|------5------    E|-------0----   E|--5-7-0----   E|-5-5-7-------------------------------
+
+(Riff 1) A
+Lá vou eu de novo
+um tanto assustado
+                      (Riff 2) (Riff 3) E
+com Ali-Babá e os 40 ladrões
+Já não querem nada
+com a Pátria Amada
+e cada dia mais
+       (Riff 1) A
+enchendo meus botões
+Lá vou eu de novo
+Brasileiro nato
+Se eu não morro eu mato
+
+(Riff 2)(Riff 3) E
+essa desnutrição
+Minha teimosia braba de guerreiro
+                                 (Riff 1) A
+é que me faz o primeiro dessa procissão
+
+    :  (Riff 4)
+    : (A A7)
+    : Fecha a porta !
+Bis :        D
+    : Abre a porta !
+    : D C# B      A
+    : Abre-te Sésamo !
+
+(Riff 1) A
+E vamos nós de novo
+Vamos na gangorra
+no meio da zorra
+(Riff 2) (Riff 3) E
+desse vai e vem
+É tudo mentira
+Quem vai nessa, pira
+                     (Riff 1) A
+atrás do tesouro de Ali-bem-bem
+Lá vou eu de novo
+Brasileiro nato
+Se eu não morro eu mato
+(Riff 2) (Riff 3) E
+essa desnutrição
+Minha teimosia braba de guerreiro
+                                 (Riff 1)  A
+é que me faz o primeiro dessa procissão
+
+    : (Riff 4)
+    : (A A7)
+    : Fecha a porta !
+Bis :        D
+    : Abre a porta !
+    : D C# B      A
+    : Abre-te Sésamo !
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0

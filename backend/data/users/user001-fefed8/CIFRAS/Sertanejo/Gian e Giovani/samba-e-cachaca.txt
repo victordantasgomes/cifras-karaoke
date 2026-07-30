@@ -1,0 +1,51 @@
+@titulo: samba-e-cachaca
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Samba e Cachaça
+
+Intro. D7,  G.  D7,  G.
+
+
+      G                        D7
+ESSA NOITE EU NAO QUERO FICAR SO
+                              G
+VOU AMANHECER NA FOLIA DO FORRO
+                    G7         C
+ESSA NOITE EU NAO QUERO FICAR SO
+           G        D7        G
+VOU AMANHECER NA FOLIA DO FORRO
+
+
+       G                        D7
+ESSA NOITE EU QUERO CAIR NA GANDAIA VOU ME AQUECER
+                  G
+NO CALOR DE UMA SAIA APERTO A NEGA
+        G7         C              G
+BEM NO RUMO DAS CADEIRAS E NO VAIVEM
+         D7               G
+A GENTE PASSA A NOITE INTEIRA              (refrao)
+
+
+
+             G               D7
+O SOM DA SANFONA ESQUENTA O BARRACO
+                                  G
+A MULHERADA DEIXA TUDO E CHEGA O TACO
+                          G7        C
+A POEIRA LEVANTA E SE MISTURA COM FUMACA
+          G          D7            G
+E A NOITE TODA SO SE VE SAMBA E CACHACA        (refrao)
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

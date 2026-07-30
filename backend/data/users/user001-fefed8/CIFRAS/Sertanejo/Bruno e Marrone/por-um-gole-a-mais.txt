@@ -1,0 +1,147 @@
+@titulo: por-um-gole-a-mais
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Por Um Gole a Mais
+
+[Intro] G  G11  G5  G11
+        G  G11  G5  G11
+
+[Primeira Parte]
+
+    G   C9
+Paguei
+      G                             D
+Eu assumo, eu admito que foi ilusão   errei
+                                        C9
+Um descuido, um deslize do meu coração te magoei
+                                   G
+Fiz exatamente o que devia pra te ver chorar
+      D
+E me ver chorar
+
+     G  C9
+Não sei
+          G                              D
+Se te imploro de joelhos o perdão ou se te deixo ir
+                                       C9
+Mas eu vou lutar  te procurar, tentar me redimir
+
+                                            G
+De um erro, uma loucura dessas que a gente faz
+        B
+Por um gole a mais
+
+[Refrão]
+
+           E   A/E
+Foi nessa hora
+           E                              B
+Que eu me vi ali sentado feito um bobo e sem reação
+                                          A
+E você na minha frente docemente me estendeu a mão
+
+E com os olhos cheios d'água
+                    E              B
+Disse que foi covardia o que eu fazia
+
+A     B  E   A/E
+E foi embora
+       E                    E/G#   A          B
+Foi levando a minha paz, o meu sorriso e desapareceu
+                                               A
+Já não sei mais o que faço dessa vida, já não sou mais eu
+                                           E
+Se tiver um jeito me perdoa pelo amor de Deus
+
+[Solo] G  D/F#  C  G  F  D
+       G  D/F#  C  Cm
+
+E|-------------------------------------|
+B|-------------5----------8/10~--------|
+G|-------/4--7-----7p4h7---------------|
+D|-4/5-5-------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+
+E|-------------------------------------|
+B|-------------------------------------|
+G|---5p4--5p4------5p4--5p4------------|
+D|------------5-------------5----3-4---|
+A|-------------------------------------|
+E|-------------------------------------|
+
+E|-------------------------------------|
+B|---------5----------5/10-10~---------|
+G|--/4--7-----7p4h7--------------------|
+D|-------------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+
+E|-------------------------------------|
+B|-------------------------------------|
+G|---5p4--5p4------5p4--5p4------------|
+D|------------5-------------5----------|
+A|-------------------------------------|
+E|-------------------------------------|
+
+[Segunda Parte]
+
+     G  C9
+Não sei
+          G                                 D
+Se te imploro de joelhos o perdão ou se te deixo ir
+                                           C
+Mas eu vou voltar  te procurar, tentar me redimir
+                                            G
+De um erro, uma loucura dessas que a gente faz
+        B7
+Por um gole a mais
+
+[Refrão]
+
+ B         E   A/E
+Foi nessa hora
+           E                              B
+Que eu me vi ali sentado feito um bobo e sem reação
+                                          A
+E você na minha frente docemente me estendeu a mão
+
+E com os olhos cheios d'água
+                    E              B
+Disse que foi covardia o que eu fazia
+
+A     B  E   A/E
+E foi embora
+       E                    E/G#   A          B
+Foi levando a minha paz, o meu sorriso e desapareceu
+                                               A
+Já não sei mais o que faço dessa vida, já não sou mais eu
+
+Se tiver um jeito me perdoa pelo amor de Deus
+
+[Final] E
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/E = 0 X 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G11 = 3 5 5 5 3 3
+G5 = 3 5 5 X X X

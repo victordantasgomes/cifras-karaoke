@@ -1,0 +1,158 @@
+@titulo: me-adora(versão 2)
+@autor:
+@intérprete: Pitty
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Pitty - Me Adora
+
+(intro) ( B E B E A9 F#  E )
+
+ B5
+Tantas decepções eu já vivi
+ G#m
+Aquela foi de longe a mais cruel
+ E5
+Um silêncio profundo e declarei:
+ F#5
+"Só não desonre o meu nome”
+
+ B5
+Você que nem me ouve até o fim
+ G#m
+Injustamente julga por prazer
+ E5
+Cuidado quando for falar de mim
+ F#5
+E não desonre o meu nome
+
+( pré-refrão )
+
+ E5
+Será que eu já posso enlouquecer?
+ B5
+Ou devo apenas sorrir?
+ E5
+Não sei mais o que eu tenho que fazer
+ F#5
+Pra você admitir
+
+(refrão)
+              B5  E5
+Que você me adora
+             B5  E5
+Que me acha foda
+                   C#m             F#5
+Não espere eu ir embora pra perceber
+               B5  E5
+Que você me adora
+             B5  E5
+Que me acha foda
+                   C#m            F#5
+Não espere eu ir embora pra perceber
+
+(solo)
+
+Uuuu.. uuu...
+
+(abafa as cordas)
+E |-----7------7------7----------9---------9----------9---------7------7------7------------------|
+B |-------7------7-----------------7---------7--------------------8------8-----------------------|
+G |---------8------8----8------------8---------8---------8----------8------8----8----------------|
+D |----------------------------------------------------------------------------------------------|
+A |----------------------------------------------------------------------------------------------|
+E |----------------------------------------------------------------------------------------------|
+
+ B5
+Perceba que não tem como saber
+ G#m
+São só os seus palpites na sua mão
+ E5
+Sou mais do que o seu olho pode ver
+ F#5
+Então não desonre o meu nome
+
+ B5
+Não importa se eu não sou o que você quer
+ G#m
+Não é minha culpa a sua projeção
+ E5
+Aceito a apatia, se vier
+ F#5
+Mas não desonre o meu nome
+
+ E5
+Será que eu já posso enlouquecer?
+ B5
+Ou devo apenas sorrir?
+ E5
+Não sei mais o que eu tenho que fazer
+ F#5
+Pra você admitir
+
+              B5   E5
+Que você me adora
+             B5  E5
+Que me acha foda
+                   C#m             F#5
+Não espere eu ir embora pra perceber
+               B5  E5
+Que você me adora
+             B5  E5
+Que me acha foda
+                   C#m            F#5
+Não espere eu ir embora pra perceber
+
+(solo)
+
+Auuu.. auuu...
+(3x)
+E |-----7------7------7----------9---------9----------9---------7------7------7------------------|
+B |-------7------7-----------------7---------7--------------------8------8-----------------------|
+G |---------8------8----8------------8---------8---------8----------8------8----8----------------|
+D |----------------------------------------------------------------------------------------------|
+A |----------------------------------------------------------------------------------------------|
+E |----------------------------------------------------------------------------------------------|
+
+
+E |---7------7------7---------7---------7---------7----------------------------------|
+B |-----8------8----------------8---------8------------------------------------------|
+G |-------8------8----------------8---------8----------------------------------------|
+D |----------------------------------------------------------------------------------|
+A |----------------------------------------------------------------------------------|
+E |----------------------------------------------------------------------------------|
+
+
+(refrão)
+              B5   E5
+Que você me adora
+             B5  E5
+Que me acha foda
+                   C#m             F#5
+Não espere eu ir embora pra perceber
+
+               B5  E5
+Que você me adora
+             B5 E5
+Que me acha foda
+                   C#m            F#5
+Não espere eu ir embora pra perceber     (2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B5 = X 2 4 4 X X
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+F# = 2 4 4 3 2 2
+F#5 = 2 4 4 X X X
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,23 @@
+@titulo: por-nos-fez-maravilhas
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Por Nós Fez Maravilhas
+
+ G7             Am
+Por nós fez maravilhas
+   D           G
+Louvemos ao senhor
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

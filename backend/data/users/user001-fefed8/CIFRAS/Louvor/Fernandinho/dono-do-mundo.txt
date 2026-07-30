@@ -1,0 +1,94 @@
+@titulo: dono-do-mundo
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Fernandinho - Dono do Mundo
+
+Capo Casa 2
+
+Intro:G#m B G#m B C#m7 E9 C#m7 E9
+
+B
+ Dono do mundo
+E9
+ Dono do meu coração
+B
+ És soberano
+E9                          C#m7
+ O domínio está em Tuas mãos
+
+             G#m   F#/A#  B
+Não há nada que eu possa fazer
+             F#
+sem Tua presença
+C#m7          G#m  F#/A#   B
+   És a minha força o meu refúgio
+       F#
+Libertador
+
+      B         F#/B
+Grandioso, Vencedor
+
+       G#m        E9
+Em Teu nome há poder
+     B           F#/B
+Glorioso, Majestoso
+       G#m     G#m/F#   E9
+Minha vida eu Te dou
+
+Intro:   G#m   F#/A#  B
+         C#m7  B/D#  E9
+
+B
+  Dono do mundo
+E9
+  Dono do meu coração
+B
+ És soberano
+B9                           C#m7
+  O domínio está em Tuas mãos
+
+
+               G#m   F#/A#  B
+Não há nada que eu possa fazer
+             F#
+sem Tua presença
+C#m7          G#m     F#/A#   B
+   És a minha força o meu refúgio
+        F#
+Libertador
+
+      B         F#
+Grandioso, Vencedor
+      G#m          E9
+Em Teu nome há poder
+     B         F#
+Glorioso, Majestoso
+       G#m  G#m7/F# E9
+Minha vida eu Te dou
+
+Solo:  B F#/B A E9 B F#/B E9 F#
+
+Fim:  G#m   B (2x)
+
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+A*  = X 0 2 2 2 0 - (*B na forma de A)
+B*  = X 2 4 4 4 2 - (*C# na forma de B)
+B/D#*  = X 6 X 4 7 7 - (*C#/F na forma de B/D#)
+B9*  = X 2 4 4 2 2 - (*C#9 na forma de B9)
+C#m7*  = X 4 6 4 5 4 - (*D#m7 na forma de C#m7)
+E9*  = 0 2 4 1 0 0 - (*F#9 na forma de E9)
+F#*  = 2 4 4 3 2 2 - (*G# na forma de F#)
+F#/A#*  = 6 X 4 6 7 X - (*G#/C na forma de F#/A#)
+F#/B*  = X 2 4 3 2 2 - (*G#/C# na forma de F#/B)
+G#m*  = 4 6 6 4 4 4 - (*A#m na forma de G#m)
+G#m/F#*  = X X 4 4 4 4 - (*A#m/G# na forma de G#m/F#)
+G#m7/F#*  = X X 4 4 7 4 - (*A#m7/G# na forma de G#m7/F#)

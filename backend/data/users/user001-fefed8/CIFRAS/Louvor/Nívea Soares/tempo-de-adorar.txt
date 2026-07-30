@@ -1,0 +1,95 @@
+@titulo: tempo-de-adorar
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Tempo de adorar
+
+    D9
+  Ouço a voz do meu Amado
+        C9 Em7             D9 C9 G9/B
+  E Ele vem saltando pelos montes
+                D9
+  Com olhos de fogo e pés reluzentes
+            C9          G9/B
+  Sua face brilha como o Sol
+            C9            G9/B   C9 C9 D9 D9
+  E com Sua voz de muitas águas,  Ele me diz
+  D9     C9       Em7           D/F#
+  Vem amada minha   Vem me encontrar
+          Bm7       C9
+  Faz me ouvir a Tua voz
+             Em7        D9   C9 C9 D9 D9
+  Pois já é tempo de cantar, Ele me diz
+  D9       C9  Em7           D/F#
+  Vem povo meu  Vem me encontrar
+       Bm7        C9            Em7        D9
+  Faz ouvir a tua voz, pois já é tempo de adorar
+       Bm7        C9            Em7         D9
+  Faz ouvir a tua voz, pois já é tempo de adorar
+
+
+Ponte: C9 G9/B D9 F9 G9
+
+      D9
+  O inverno já passou
+         C9 Em7            D9 C9 G9/B
+  E a videira      está em flor
+        D9
+  Um perfume enche a terra
+      C9       G9/B         C9 (Bb A Ab) G9 Bb Bb C9 D9 D9
+  Eu sou do meu amado e o meu amado é meu     Ele me diz
+  D9     C9       Em7           D/F#
+  Vem amada minha   Vem me encontrar
+          Bm7       C9
+  Faz me ouvir a Tua voz
+             Em7        D9   C9 C9 D9 D9
+  Pois já é tempo de cantar, Ele me diz
+  D9       C9  Em7           D/F#
+  Vem povo meu  Vem me encontrar
+       Bm7        C9            Em7        D9
+  Faz ouvir a tua voz, pois já é tempo de adorar
+       Bm7        C9            Em7         D9
+  Faz ouvir a tua voz, pois já é tempo de adorar
+
+Solo: D9 C9 Em7 D/F# Bm7 C9 Em7 D9
+      D9 C9 Em7 D/F# Bm7 C9
+      Em7 Em7 G9 G9 D9 (pausa)
+
+             D9 C9                   Em7       D/F#
+  Seu nome é santo  Seu nome é santo de Israel
+           Bm      C9               Em7       D/F#
+  Seu nome é santo  Seu nome é santo de Israel
+
+D9 C9 Em7 D/F# (4x)  Bm  C9  Em7  D/F#
+Santo, Santo, Santo é o Senhor dos Exércitos (3x)
+Santo, Santo, Santo é o Senhor
+
+D Em  Bm  C  D (4x)
+E toda Terra está cheia da Sua glória
+E toda Terra está cheia da Sua glória
+E a minha vida está cheia da Sua glória
+E a minha vida está cheia, E vai ser cheia a cada dia
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Ab = 4 3 1 1 1 4
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F9 = 1 3 5 2 1 1
+G9 = 3 X 0 2 0 X
+G9/B = 7 X X 7 8 5

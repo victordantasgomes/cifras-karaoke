@@ -1,0 +1,92 @@
+@titulo: pao-vivo
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Pão Vivo
+
+[Intro] E  B/D#  C#  B  A  E/G#  B  E
+        E  B/D#  C#  B  A  E/G#  B  E
+
+E                         B/D#
+Pode a porta fechar e a minh'alma chorar
+           C#5   B       A9
+Mas estou comendo do pão vivo
+      E3            B     E
+Do pão vivo do pão vivo
+
+                           B/D#
+Pode alguém me dizer chuva não haverá
+          C#5    B3      A9
+Mas estou comendo do pão vivo
+      E3           B5
+Do pão vivo do pão vivo
+
+( C#m  B/D#  C#m  B  A  E3  B )
+( C#m  B/D#  C#m  B  A  E3  B )
+
+       E                  B/D#
+Pode a porta fechar e a minh'alma chorar
+
+           C#5   B       A9
+Mas estou comendo do pão vivo
+      E/G#         B5    E
+Do pão vivo do pão vivo
+
+                           B/D#
+Pode alguém me dizer chuva não haverá
+          C#5    B/D#     A9
+Mas estou comendo do pão vivo
+      E3           B/D#
+Do pão vivo do pão vivo
+
+A9      E                   C#5     B/D#
+Nunca retires de mim seu espírito senhor
+A9        E        B/D#        C#5
+Pois eu seria como nuvens sem águas
+              B                        A
+Como estrelas errantes na negrura das trevas
+
+E        B/D#  A/C#       E
+Não posso viver sem o teu pão
+E        B/D#  A/C#       E
+Não posso viver sem o teu pão
+E        B     A          E
+Não posso viver sem o teu pão
+E        B     A          E
+Não posso viver sem o teu pão
+
+[Solo]
+
+E                   B3                A3
+Estou comendo desse pão, Ele é a salvação
+               E
+O Seu nome é Jesus
+E                   B                 A
+Estou comendo desse pão, Ele é a salvação
+               E
+O Seu nome é Jesus
+
+E        B/D#  A/C#       E
+Não posso viver sem o teu pão
+E        B3    A/C#       E
+Não posso viver sem o teu pão
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B5 = X 2 4 4 X X
+C# = X 4 6 6 6 4
+C#5 = X 4 6 6 X X
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X

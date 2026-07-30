@@ -1,0 +1,39 @@
+@titulo: minha-vida-e-tua
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Minha Vida É Tua
+
+ B                                A
+Este é o dia, a hora da minha entrega total
+B                        A
+Te seguirei, eu viverei pelo que é real
+B                                   A
+Não posso mais continuar se ao meu lado não estás
+B                          A
+Contigo eternamente vou viver
+
+B                      G#m
+Jesus, meu mundo transformou
+                F#                   A
+E agora Ele é o centro de tudo o que tenho e o que sou
+    B                 G#m
+Eu vou deixar a luz brilhar
+               F#     E
+Nada vai me fazer parar
+             B
+Minha vida é tua
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

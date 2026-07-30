@@ -1,0 +1,153 @@
+@titulo: kgb
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - KGB
+
+Riff 1
+E|------------------------------------------------
+B|-/9-9--12--9--------------------------------    4x
+G|----------------------------------------------
+D|----------------------------------------------
+A|-----------------------------------------------
+E|------------------------------------------------
+
+Riff 2
+E|-----------12------------------------------------
+B|----11-11------11---------------------------    4x
+G|-----------------------------------------------
+D|-------------------------------------------------
+A|------------------------------------------------
+E|------------------------------------------------
+
+
+Intro: E Riff1
+
+E
+São todos ex-agentes da KGB
+
+Que não tem mais o que fazer
+    F#m      A
+Em tempos de paz
+
+E
+São ex-agentes do SNI
+Que não tem mais aonde ir
+    F#m        A
+Em tempos de amor
+
+E  Riff1
+
+E
+São todos ex-agentes do DOPS
+Que não tem mais, que agora estão sós
+    F#m       A
+Em tempos de paz
+
+E
+São todos ex-agentes da CIA
+Que não tem mais onde trabalhar
+    F#m        A
+Em tempos de amor
+
+               G#m   F#m           G#m
+E mesmo em tempos de paz e amor
+D                A
+Ainda querem salvar o mundo
+
+A                F#m      D        E
+Ainda estão enterrados debaixo da cama
+A        F#m       D         E
+Desaparecidos generais de pijama
+A              F#m      D          E
+Estão bem guardados no fundo do armário
+A         F#m  D         A
+Seqüestradores e seqüestrados
+
+A          F#m
+Ainda vão todos voltar
+D             E
+E vão voltar todos juntos
+A          F#m
+Ainda vão todos voltar
+D                 A
+Para assombrar o mundo
+A          F#m
+Ainda vão todos voltar
+D             E
+E vão voltar todos juntos
+A          F#m
+Ainda vão todos voltar
+D                 A
+Para assombrar o mundo
+
+A#  Riff2
+
+E
+Simpatizantes do Terceiro Reich
+Que agora juram que não são mais
+    F#m       A
+Em tempos de paz
+
+E
+Ex-integrantes da Ku-Klux-Klan
+
+    F#m        A
+Em tempos de amor
+
+               G#m   F#m           G#m
+E mesmo em tempos de paz e amor
+D                A
+Ainda querem salvar o mundo
+
+A              F#m   D     E
+Ainda estão vagando desocupados
+A          F#m   D     E
+Ex-torturadores aposentados
+
+Estão enterrados junto aos indigentes
+A          F#m     D        A
+Ex-guerrilheiros e ex-presidentes
+
+A          F#m
+Ainda vão todos voltar
+D             E
+E vão voltar todos juntos
+A          F#m
+Ainda vão todos voltar
+D                 A
+Para assombrar o mundo
+A          F#m
+Ainda vão todos voltar
+D             E
+E vão voltar todos juntos
+A          F#m
+Ainda vão todos voltar
+D                 A
+Para assombrar o mundo
+A          F#m
+Ainda vão todos voltar
+D             E
+E vão voltar todos juntos
+A          F#m
+Ainda vão todos voltar
+D                 A
+Para assombrar o mundo
+
+A9   A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A# = X 1 3 3 3 1
+A9 = X 0 2 2 0 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

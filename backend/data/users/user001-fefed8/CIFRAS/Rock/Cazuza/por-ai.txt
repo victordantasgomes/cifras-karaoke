@@ -1,0 +1,93 @@
+@titulo: por-ai
+@autor:
+@intérprete: Cazuza
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cazuza - Por Aí
+
+
+B
+ Se você me encontrar assim
+F#
+ Meio distante
+D
+ Torcendo cacho
+               A
+ Roendo a mão
+B
+ É que eu tô pensando
+        F#
+ Num lugar melhor
+D
+ Ou eu tô amando
+               A
+ E isso é bem pior, é
+B
+ Se você me encontrar
+   A
+ Rodando pela casa
+
+    G
+ Fumando filtro
+   B
+ Roendo a mão
+A
+ É que eu não tô sonhando
+             G
+ Eu tenho um plano
+ Que eu não sei achar
+B
+ Ou eu tô ligado
+        D          C#
+ E o papel, e o papel
+        C          B    B7/4(9)   B   B7/4(9)
+ E o papel pra acabar
+B
+ Se você me encontrar
+         F#
+ Num bar,   desatinado
+D                        A
+ Falando alto coisas cruéis
+B                           F#
+ E que eu tô querendo Um cantinho ali
+D
+ Ou então descolando
+                   A
+ Alguém pra ir dormir
+
+B
+ Mas se eu tiver nos olhos
+     F#7/4
+ Uma luz bonita
+Em
+ Fica comigo
+             B
+ E me faz feliz
+F#
+ É que eu tô sozinho
+          E/G#
+ Há tanto tempo
+ Que eu me esqueci
+            A
+ O que é verdade
+              D       C#        B     B7/4(9)
+ E o que é mentira em volta de mim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7/4(9) = X 2 2 2 2 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#7/4 = 2 4 2 4 2 X
+G = 3 2 0 0 0 3

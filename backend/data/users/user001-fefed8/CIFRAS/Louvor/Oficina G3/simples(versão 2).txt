@@ -1,0 +1,128 @@
+@titulo: simples(versão 2)
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Oficina G3 - Simples
+
+(afinação 1 tom abaixo D|G|C|F|A|d)
+
+(intro)
+
+Am        D
+  Já fui criança
+  C9          G C9
+  Hoje sou homem
+Am            D               F
+  Me lembro de como tudo era simples
+                   A  C  A  G (notas simples c/ distorção)
+  Eu via assim
+
+(guitar c/ distorção)
+
+Am        D5
+  Já fui criança
+  C5          G5 C5
+  Hoje sou homem
+
+Am            D5               Eb5 / F5  Eb5 / F5 (/ = slide pra frente)
+  Me lembro de como tudo era simples
+                  A  C  A  G (notas simples c/ distorção)
+  Eu via assim
+
+Am        D5
+  Tive que crescer
+  C5          G5 C5
+  Endureci meu coração
+Am          D5            F5
+  O mundo disse que era assim
+
+G5          Bb5            C5 / D5 \C5 (\ = slide pra trás)
+  Como posso conquistar o céu
+  Se nem sei viver aqui
+G5          Bb5            C5 / D5 \C5
+  Eu só posso conquistar o céu
+  Se for como criança aqui
+
+(interlúdio)
+  A5  D5   C5    (G5 G5) C5
+  A5  D5  C D F (a)  D C F (g) - C D G (a)  (4x)
+
+Como posso conquistar...
+
+G5         Bb5      C5
+  Na-narun-Na-narun-Na-narun-na-narun-naum
+
+G5         Bb5      C5
+  Na-narun-Na-narun-Na-narun-naran-naum
+
+G5         Bb5      C5
+  Na-narun-Na-narun-Na-narun-na-narun-naum
+
+G5         Bb5      C5
+  Na-narun-Na-narun-Naum
+
+     G5   D5   C5  Bb5  Eb5   F5
+D|---X----X----X----X----X----X-------------
+A|---X----X----X----X----X----X-------------
+F|---X----7----5----3----8----10------------
+C|---5----7----5----3----8----10------------
+G|---5----5----3----1----6----8-------------
+D|---3----X----X----X----X----X-------------
+
+(versão 2)
+
+Gm7     C      Bb          F
+Já fui criança hoje sou homem
+Gm7               C                           D#
+Me lembro de como tudo era simples eu via assim
+Gm7            C              Bb             F
+Tive de crescer endureci meu coração
+Gm7        C                     D#
+O mundo disse que era assim
+
+F                   G#                 Bb
+Como posso conquistar o céu se nem sei viver aqui
+F                   G#              C Bb
+Eu só posso conquistar o céu se for como criança aqui
+
+( Gm7 C Bb F Gm7 C D# )
+
+Gm7         C             Bb              F
+Hoje sinto falta de viver como vivia
+Gm7            C           D#
+Onde não havia sem solução
+Gm7          C                  Bb              F
+Hoje sinto falta de enxergar como criança
+Gm7             C                                   D#
+Amar intensamente quem sempre cuidou de mim
+
+(solo teclado) Gm7 C Bb F Gm7 C D# Gm7 C Bb F Gm7 C D#
+(solo guitarra 2x) F G# Bb F G# C Bb
+(instrumental final 2x) F G# Bb F G# C Bb
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+Bb5 = X 1 3 3 X X
+C = X 3 2 0 1 0
+C5 = X 3 5 5 X X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D5 = X 5 7 7 X X
+Eb5 = X 6 8 8 X X
+F = 1 3 3 2 1 1
+F5 = 1 3 3 X X X
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G5 = 3 5 5 X X X
+Gm7 = 3 X 3 3 3 X

@@ -1,0 +1,66 @@
+@titulo: se-for-preciso-chorar
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - Se For Preciso Chorar
+
+(intro) D G/D A/D G/D
+
+D         G/D            D/F#
+Se for preciso chorar eu vou
+          Bm            G
+Se for preciso pedir eu vou
+     Em               A
+Faço tudo pra você voltar
+          D
+Se ainda mais
+       G/D           D/F#
+For preciso até rastejar
+     Bm            G
+Implorar seja como for
+      Em            A
+Eu preciso do seu amor
+Bm     G       A/C#       D
+Ando e ando procuro encontrar
+Bm     G       G/D         D
+Aquele mesmo sorriso no olhar
+Bm          A/C#       G/D
+Mais não adianta é a você
+
+          Bm       A4 A
+Que eu só quero me dar
+D        G/D             D/F#
+Se outra vez eu pUder provar
+     Bm              G
+um calor de um beijo seu
+    Em               A
+Uma vida eu iria ganhar
+         D
+Se ainda mais
+     G/D          D/F#
+Eu pudesse tocar você
+    Bm            G
+E ouvir você me dizer
+   Em                  A
+Te amo e só quero te amar
+
+(solo) Bm A/C# G/D D    Bm A/C# G/D A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/D = X X 0 6 5 5
+A4 = X 0 2 2 3 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/D = X 5 5 4 3 X

@@ -1,0 +1,47 @@
+@titulo: graca
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Graça
+
+  G                                  Bm
+A Graça desce das alturas e vem como chuva
+  G                                        Bm
+Lavando as vestes, removendo as manchas da culpa
+  Em      F#m      Bm
+Graça, receba da Graça
+  Em     F#m       Bm Bm/A
+Graça, receba da Graça
+
+ G                                  Bm
+A Graça absolve o culpado e rasga a sentença
+ G                              Bm
+Adota o abandonado faz dele seu filho
+ Em       F#m      Bm
+Graça, receba da Graça
+ Em       F#m      Bm
+Graça, receba da Graça
+
+          G    F#m      Em
+Receba da Graça, da     Graça
+   G        A
+Da Graça de Deus
+          G         Em
+Receba da Graça, da Graça
+   G        A
+Da Graça de Deus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

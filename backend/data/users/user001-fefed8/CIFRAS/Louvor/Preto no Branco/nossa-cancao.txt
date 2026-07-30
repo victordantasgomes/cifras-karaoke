@@ -1,0 +1,87 @@
+@titulo: nossa-cancao
+@autor:
+@intérprete: Preto no Branco
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Preto No Branco - Nossa Canção
+
+[Intro] B  E  G#m  F#
+        B  E  G#m  F#
+
+B    E
+  Somos estrangeiros
+G#m              F#
+  Cansados de andar
+B     E
+  Procurando abrigo
+G#m           F#
+  A terra, o lar
+
+  B             E
+Que possamos ouvir
+           G#m           F#
+Tua voz ecoando nos corações?
+ B                  E
+Lança ao pó nossa glória
+            G#m              F#
+Faz o Teu trono em nossa canção
+
+
+( B  E  G#m  F# )
+
+B       E
+  Somos o Teu povo
+G#m        F#
+  Santa nação
+B       E
+  Sacerdócio eterno
+G#m            F#
+  E pó desse chão
+
+  B             E
+Que possamos ouvir
+           G#m           F#
+Tua voz ecoando nos corações?
+ B                  E
+Lança ao pó nossa glória
+            G#m              F#
+Faz o Teu trono em nossa canção
+
+    E B      G#m  F#
+Aleluia, alelu----ia
+    E B         F#
+Aleluia, nosso Deus
+             E B      G#m  F#
+Cantamos aleluia, alelu----ia
+    E B         F#
+Aleluia, nosso Deus
+
+ B               E
+Somos pó desse chão
+                G#m              F#
+Pai Faz o teu trono em nossa canção
+ B                  E
+Lança ao pó nossa glória
+            G#m              F#
+Faz o teu trono em nossa canção
+
+    E B      G#m  F#
+Aleluia, alelu----ia
+    E B         F#
+Aleluia, nosso Deus
+ G#m        F#
+Faz o teu trono em nossa canção
+
+[Final] B  E  G#m  F#
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

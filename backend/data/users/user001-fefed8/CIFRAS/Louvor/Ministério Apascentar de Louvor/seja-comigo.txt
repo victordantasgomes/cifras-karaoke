@@ -1,0 +1,76 @@
+@titulo: seja-comigo
+@autor:
+@intérprete: Ministério Apascentar de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Apascentar de Louvor (Toque No Altar) - Seja Comigo
+
+(intro) (A7M   Bm   A7M   D7M   F#m   Bm  E)
+
+         A7M
+Meu sonho não termina aqui
+     D7M
+O milagre que preciso é o senhor
+        F#m
+No seu tempo eu sei vai me honrar
+    D          E
+E jamais me deixará
+
+        F#m
+Eu vou chegar até o fim
+        D
+Todos saberão que és senhor
+       F#m
+O meu nome eu sei não esqueceu
+    D       E
+E comigo estará
+
+      Bm    Bm/A    E/G#
+Mais clamo a Ti outra vez
+
+   Bm      A/C#             B/D#      E
+E vejo me levantar com seus braços de amor
+
+(refrão)
+A A/G#  A4 A
+  Seja comigo
+F#m       E   D
+  Sei que bastará
+A A/G#  A4 A
+  Seja comigo
+F#m     E    D
+  E vou alcançar
+
+(ponte)
+
+G        D/F#
+Nunca vi fracassar
+Dm/F       C/E
+   A quem decides honrar
+G          D/F#       E
+    Fui escolhido por Ti
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/G# = 4 X 2 2 2 X
+A4 = X 0 2 2 3 0
+A7M = X 0 2 1 2 0
+B/D# = X 6 X 4 7 7
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7M = X X 0 2 2 2
+Dm/F = X X 3 2 3 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

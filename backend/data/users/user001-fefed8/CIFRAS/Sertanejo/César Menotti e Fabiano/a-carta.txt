@@ -1,0 +1,110 @@
+@titulo: a-carta
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - A Carta
+
+[Intro]  A  Bm  C#  D  E7
+         A  Bm  C#  D  Esus
+
+A                                Bm
+Escrevo-te estas mal traçadas linhas meu amor
+ E7                        A           A  E/G#
+Porque veio a saudade visitar meu coração
+   F#m                   Bm7
+Espero que desculpes os meus erros por favor
+      E7                           A
+Nas frases desta carta que é uma prova de atenção
+                                 Bm
+Talvez tu não a leias, mas quem sabe até dará
+    E7                   A            A  E/G#
+Resposta imediata me chamando de meu bem
+ F#m                         Bm7
+Porém o que importa é confessar-te uma vez mais
+     E7                    A   A7
+Não sei amar na vida mais ninguém
+
+    D                   A
+E quanto tempo faz que vi no teu olhar
+
+   E7                         A   A7
+A vida cor de rosa que eu sonhava
+D                     A
+E guardo a impressão de que já vi passar
+   B                       E
+Um ano sem te ver, um ano sem te amar
+  D                     A
+E ao me apaixonar, por ti não reparei
+     E                   A   A7
+Que tu tivestes só entusiasmo
+   D               A         F#m
+E para terminar, amor assinarei
+    Bm            E
+Do sempre sempre teu
+
+( A  Bm  C#m  D  E7 )
+( A  Bm  C#m  D  E )
+
+E|----------------------------------------------|
+B|----------------------------------------------|
+G|---------6-6-6--4--2--1------------------4-4--|
+D|----2---------------------4--2---0----0-------|
+A|-----------------------------------4----------|
+E|----------------------------------------------|
+
+E|----------------------------------------------|
+B|---------------5--3--5--7--5--3--2------------|
+G|--4h6--7--6--7---------------------4---2------|
+D|----------------------------------------------|
+A|----------------------------------------------|
+E|----------------------------------------------|
+
+ A                               Bm
+Talvez tu não a leias, mas quem sabe até dará
+    E7                      A         A  E/G#
+Resposta imediata me chamando de meu bem
+ F#m                         Bm7
+Porém o que importa é confessar-te uma vez mais
+     E7                    A   A7
+Não sei amar na vida mais ninguém
+
+( D  Bm  D  A )
+
+      D                   A
+E quanto tempo faz que vi no teu olhar
+   E7                         A   A7
+A vida cor de rosa que eu sonhava
+D                     A
+E guardo a impressão de que já vi passar
+   B                       E
+Um ano sem te ver, um ano sem te amar
+  D                     A
+E ao me apaixonar, por ti não reparei
+     E                   A   A7
+Que tu tivestes só entusiasmo
+   D               A         F#m
+E para terminar, amor assinarei
+    Bm            E
+Do sempre sempre teu
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+Esus = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

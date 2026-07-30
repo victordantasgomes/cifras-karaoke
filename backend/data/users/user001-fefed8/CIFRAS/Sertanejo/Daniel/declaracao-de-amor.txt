@@ -1,0 +1,119 @@
+@titulo: declaracao-de-amor
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Declaração de Amor
+
+[Intro] D  A/C#  Bm  Bm/A  G  D/F#  Em7  A7/4  A7
+
+E|---14~--12-10-12~--10-9-10~-------------10-12-14--15--17--19---17-15-17---15-14-15---10-9-10-|
+B|-----------------------------10-12-14----------------------------------------------------------|
+G|-----------------------------------------------------------------------------------------------|
+D|-----------------------------------------------------------------------------------------------|
+A|-----------------------------------------------------------------------------------------------|
+E|-----------------------------------------------------------------------------------------------|
+
+D                 A/C#   Bm       Bm/A       G  A4  A/C#
+  Minha vida e o meu mundo   são vazios sem você
+D                      A/C#   Bm
+  Nosso amor foi tão profundo
+   A6/9        G#m7(b5)
+Impossível esquecer
+G                      D    A/D  D  D/F#
+  No meu corpo tem as suas digitais
+G     G/B               D  A/D   D    D/F#
+  Na jaqueta jeans, um beijo de batom
+G#m7(b5)                      D/A
+        Estou pensando em escrever
+
+         B7/4(9)   Bm7   A7/4  A7  D   Em7  A
+Volta, que eu te amo em luzes de neon
+D                       A/C#  Bm
+  Hoje eu encontrei no carro
+    Bm/A         G  A4  A/C#
+Um bilhete de motel
+D                  A/C#    Bm
+  Minhas lágrimas molharam
+     A6/9    G#m7(b5)
+O pedaço de papel
+G                      D    A/D   D   D/F#
+  São retratos, vídeo tapes e postais
+G         G/B       D    A/D     D  D/F#
+É uma confissão na capa de um CD
+G#m7(b5)                D/A
+  E essa música que eu canto
+          B7/4(9)  Bm7    A7/4  A7   D  Em7  A
+Fiz aos prantos   com saudades de você
+ D          A                Bm      F#m
+Você vai ouvir minha declaração de amor
+G          A7/4(9)     D  D/F#
+Onde você, estiver eu vou
+ G        A7/4(9)  D  A/C#      Bm   Bm/A   G
+Você vai saber    nas ondas do rádio ou da Tevê
+    A7/4(9)  D    A4  A
+Que eu amo  você
+ D          A                Bm      F#m
+Você vai ouvir minha declaração de amor
+G          A7/4(9)     D  D/F#
+Onde você, estiver eu vou
+ G        A7/4(9)  D  A/C#      Bm   Bm/A   G
+Você vai saber    nas ondas do rádio ou da Tevê
+    A7/4(9)  D
+Que eu amo  você
+    F#m      G  A7/4(9)  D   G/D  A/D
+Que eu não existo sem   você
+ D                    A/C#  Bm     Bm/A      G
+Hoje eu encontrei no carro, um bilhete de motel
+
+ D          A                Bm      F#m
+Você vai ouvir minha declaração de amor
+G          A7/4(9)     D  D/F#
+Onde você, estiver eu vou
+ G        A7/4(9)  D  A/C#      Bm   Bm/A   G
+Você vai saber    nas ondas do rádio ou da Tevê
+    A7/4(9)  D   A4  A
+Que eu amo  você
+ D          A                Bm      F#m
+Você vai ouvir minha declaração de amor
+G          A7/4(9)     D  D/F#
+Onde você, estiver eu vou
+ G    A7/4(9)   D  A/C#      Bm   Bm/A   G
+Você vai saber nas ondas do rádio ou da Tevê
+    A7/4(9)  D
+Que eu amo  você
+
+    F#m      G  A7/4(9)  D  A/C#  Bm
+Que eu não existo sem   vo__________ocê
+Bm/A              G    Gm6  D
+     Oh, oh, oh, não, sem  você
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/D = X X 0 6 5 5
+A4 = X 0 2 2 3 0
+A6/9 = 5 4 4 4 X X
+A7 = X 0 2 0 2 0
+A7/4 = X 0 2 0 3 0
+A7/4(9) = 5 X 5 4 3 X
+B7/4(9) = X 2 2 2 2 2
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+Em7 = 0 2 2 0 3 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m7(b5) = 4 X 4 4 3 X
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+Gm6 = 3 X 2 3 3 X

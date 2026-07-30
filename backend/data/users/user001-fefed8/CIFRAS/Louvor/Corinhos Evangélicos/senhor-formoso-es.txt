@@ -1,0 +1,87 @@
+@titulo: senhor-formoso-es
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Senhor Formoso És
+
+[Intro] E
+
+[Refrão]
+
+    E       A   B  B4  B
+Senhor, formoso és
+     E        A  E  B  B4  B
+Tua face eu que_ro ver
+       C#m     G#m     A  B  E  C#m      F#m    B    E  A  B
+Pois quando estás  neste lu_gar,   tua graça invade-me
+
+[Primeira Parte]
+
+  E        A      B  B4  B
+Acende a chama ó Pai
+    E    A       B  B4  B
+Que uma vez brilhou
+        C#m      G#m      A  B  E  C#m   F#m    B      E  A  B
+Vem limpar, brilhar, resplande_cer    o meu primeiro amor
+
+[Refrão]
+
+
+    E       A   B  B4  B
+Senhor, formoso és
+     E        A  E  B  B4  B
+Tua face eu que_ro ver
+       C#m     G#m     A  B  E  C#m      F#m    B    E  A  B
+Pois quando estás  neste lu_gar,   tua graça invade-me
+
+[Primeira Parte]
+
+  E        A      B  B4  B
+Acende a chama ó Pai
+    E    A       B  B4  B
+Que uma vez brilhou
+        C#m      G#m      A  B  E  C#m   F#m    B      E  A  B
+Vem limpar, brilhar, resplande_cer    o meu primeiro amor
+
+[Refrão]
+
+    F       Bb  C  C4  C
+Senhor, formoso és
+     F        Bb  F  C  C4  C
+Tua face eu que__ro ver
+       Dm      Am      Bb  C  F  Dm      Gm     C    F  Bb  C
+Pois quando estás  neste  lu_gar,  tua graça invade-me
+
+[Primeira Parte]
+
+  F        Bb     C  C4  C
+Acende a chama ó Pai
+    F    Bb      C  C4  C
+Que uma vez brilhou
+        Dm       Am       Bb  C  F  Dm   Gm     C      F
+Vem limpar, brilhar, respla_nde_cer   o meu primeiro amor
+        Dm       Am       Bb  C  F  Dm   Gm     C      F
+Vem limpar, brilhar, respla_nde_cer   o meu primeiro amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+C4 = X 3 3 0 1 X
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4
+Gm = 3 5 5 3 3 3

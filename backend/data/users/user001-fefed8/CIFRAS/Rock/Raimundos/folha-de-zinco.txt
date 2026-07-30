@@ -1,0 +1,91 @@
+@titulo: folha-de-zinco
+@autor:
+@intérprete: Raimundos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raimundos - Folha de Zinco
+
+( Digão / Denis Porto )
+
+   D                A
+Você pode me encontrar, sem cheiro de borracha
+ E         D
+Fora isso tudo bem
+ E            D                     A
+ruim é vir depois de alguém tão depressa
+G                  D
+ amanhã é um novo dia
+                      A
+não importa o que tu fez
+    G                 D
+acabou o cheiro de latex
+ G                           D
+não botou fé que eu ia perceber
+                       A
+se não é eu então é você
+        G                 D
+mas no fundo achei bem legal
+   A                G
+estar contigo essa noite
+
+
+[Refrão]
+     G                 D
+Meu uivo quebrou a vidraça
+   G               D
+Virei e voaram as taças
+ E                   G               D
+Folha de zinco na escada deixou ela bamba
+
+E                            B
+ Quase despenca da rampa foi por um tris
+A                    E
+ Amanhã tu vai esquecer
+                  B
+Zerou tudo outra vez
+      A                 E
+Cada canto volta pro lugar
+ A                    E
+Bom, tudo pode acontecer
+                          B
+Com qualquer um ou com você
+           A                 E
+E hoje em dia isso é tão normal
+ B                A
+Ser o Segundo da noite
+
+[Base do solo]
+C G D C E
+
+[Refrão]
+     A                 E
+Meu uivo quebrou a vidraça
+   A               E
+Virei e voaram as taças
+ F#                  A               E
+Folha de zinco na escada deixou ela bamba
+    A                E
+No fim lá da rua fechada
+   A                      E
+Arranha a marcha na arrancada
+ F#                  A               E
+Folha de zinco na escada deixou ela bamba
+ F#               A              B
+Folha de zinco sacode e bota de banda
+
+E
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

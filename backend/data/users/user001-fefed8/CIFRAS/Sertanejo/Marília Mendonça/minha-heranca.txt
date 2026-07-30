@@ -1,0 +1,81 @@
+@titulo: minha-heranca
+@autor:
+@intérprete: Marília Mendonça
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Marília Mendonça - Minha Herança
+
+Intro: A  F#m  D  Bm  A  D  A
+
+                Bm
+Seis horas da manhã
+                D
+Vi despertar o sol
+               A                       E
+Sozinho nesse quarto, lágrimas no meu lençol
+                  Bm
+Lembranças vem e vão
+                  D
+Me aquecem sem querer
+             A                        E
+São a minha herança, o que restou de você
+
+       Bm
+Me olho no espelho, meu cabelo
+D                        A
+E os meus olhos trazem você pra mim
+                 E
+E eu não quero mais viver assim
+
+        Bm
+Vou esperar você chegar
+D
+E te dizer
+Dm                          A   E
+Por que não dá pra esconder
+
+              A
+Vai senta aqui do meu lado
+
+Me deixa te olhar
+    F#m
+E sentir o seu cheiro
+
+Pra me renovar
+        D
+Fale do que você quiser
+         Bm
+Eu quero ouvir sua voz
+            D
+Fale do mundo, dos seus planos
+  Dm
+Fale de nós
+
+          A
+Senta aqui do meu lado
+                        F#m
+Leve essa herança que ficou em mim
+
+Não quero esperança
+         D
+E nesse último pedido
+         Bm
+Eu quero só te abraçar
+         D
+Dez minutos já me bastam
+  Dm
+Eu vou me conformar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

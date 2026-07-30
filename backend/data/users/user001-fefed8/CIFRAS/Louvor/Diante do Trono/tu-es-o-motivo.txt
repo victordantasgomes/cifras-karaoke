@@ -1,0 +1,107 @@
+@titulo: tu-es-o-motivo
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Tu És o Motivo
+
+Intro: A9  E/G#  A7(9)/G  F#m7  A9  A7M(9)/G#  A7(9)/G  D9/F#
+       F7M  G9(13)
+
+   A9              E/G#
+Tu és o motivo, Tu és a razão,
+   A7(9)/G             F#m7(11)    Esus
+Tu és o sentido, és  a direção
+   D7M(9)            A9/C#
+Tu és o princípio o meio e o fim
+   Bm7                Esus      E       D/F#     E/G#
+Tu és o caminho o destino para mim
+
+   A9      E/A  D9/A  F#m7        E    D9
+Senhor meu coração      bate pela Tua presença
+   A9/C#       D7M(9)        F#m7          Esus    E
+O meu vazio só é preenchido pela Tua perfeição
+   A9      E/A  D9/A  F#m7        E    D9
+Senhor meu coração      bate pela Tua presença
+   A9/C#      D7M(9)        F#m7          Esus    E
+O meu vazio só é preenchido pela Tua perfeição
+
+
+( A9  E/G#  A7(9)/G  D9/F#  F7M(9)  G9(13) )
+
+   A9              E/G#
+Tu és o motivo, Tu és a razão,
+   A7(9)/G             F#m7(11)    Esus
+Tu és o sentido, és  a direção
+   D7M(9)            A9/C#
+Tu és o princípio o meio e o fim
+   Bm7                Esus        E       D/F#     E/G#
+Tu és o caminho o destino para mim
+   A9      E/A  D9/A  F#m7        E    D9
+Senhor meu coração      bate pela Tua presença
+  A9/C#        D7M(9)        F#m7          Esus    E
+O meu vazio só é preenchido pela Tua perfeição
+   A9      E/A  D9/A  F#m7        E    D9
+Senhor meu coração      bate pela Tua presença
+  A9/C#        D7M(9)        F#m7          Esus    E
+O meu vazio só é preenchido pela Tua perfeição
+
+Instrumental: D7M(9)  Bm7(9)  C#m7  F#m7  E9  D7M(9)
+              Bm7(9)  C#m7  F#m7  E/G#  A9  G9/B  Esus  E
+
+   D7M(9)    Bm7(9)                       C#m7
+Perdão, pois tantas vezes procuro em vão
+   D7M(9)     Bm7(9)                      C#m7   F#m7   E/G#  A9
+Perdão, pois tantas vezes procuro em vão
+             Bm7                 A/C#    D7M(9)        Esus  E
+Porque só encontro em Ti     Porque só encontro em Ti
+   A9      E/A  D9/A  F#m7        E        D9
+Senhor meu coração      bate pela Tua presença
+   A9/C#       D7M(9)        F#m7         Esus    E
+O meu vazio só é preenchido pela Tua perfeição
+   A9      E/A   D9/A  F#m7        E       D9
+Senhor meu coração       bate pela Tua presença
+  A9/C#        D7M(9)       F#m7           Esus    E
+O meu vazio só é preenchido pela Tua perfeição
+   A9       E/A  D9/A  F#m7        E        D9
+Senhor meu coração        bate pela Tua presença
+   A9/C#       D7M(9)        F#m7           Esus    E
+O meu vazio só é preenchido pela Tua perfeição
+
+   A9       E/A  D9/A  F#m7        E        D9
+Senhor meu coração        bate pela Tua presença
+   A9/C#   D9   Esus       F#m7(11) G7M(9)            Esus    E
+O meu vazio só é preenchido pela Tua perfeição
+
+Final: A9  E/G#  A7(9)/G  D9/F#  F7M(9)  G9(13)  A9
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+Bm7 = X 2 4 2 3 2
+Bm7(9) = X 2 0 2 2 X
+C#m7 = X 4 6 4 5 4
+D/F# = 2 X 0 2 3 2
+D7M(9) = X 5 4 6 5 X
+D9 = X X 0 2 3 0
+D9/A = X 0 X 2 3 0
+D9/F# = 2 X 0 2 3 0
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E9 = 0 2 4 1 0 0
+Esus = 0 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X
+F#m7(11) = 2 X 2 2 0 X
+F7M = 1 X 2 2 1 X
+F7M(9) = X 8 7 9 8 X
+G7M(9) = 3 2 4 2 X X
+G9(13) = X X 5 4 5 5
+G9/B = 7 X X 7 8 5

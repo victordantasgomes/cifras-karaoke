@@ -1,0 +1,101 @@
+@titulo: coracao-de-menino
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Coração de Menino
+
+Intr.: C Dm G C Dm G C
+
+C                  Dm
+Um dia vai e outro vem
+G                  C
+Espero o tempo que for
+                   Dm
+Vivendo longe de alguém
+G                    C
+Sou beija-flor sem a flor
+                      G
+Quem parte, leva a certeza
+               F               C
+Mas deixa a saudade coberta de dor
+                   G
+Quem fica, dorme sozinho
+              F                   C
+Chorando os espinhos morrendo de amor
+                   Dm
+Um dia vai e outro vem
+G                   C
+Espero o tempo que for
+
+                    Dm
+Vivendo longe de alguém
+G                    C
+Sou beija-flor sem a flor
+G                     C
+Coração de menino esperando na janela
+       Dm          G         C
+Lá vem ela, lá vem ela, toda bela
+G                       C
+Coração de menino é uma porta sem tramela
+       Dm           G        C
+Lá vem ela, lá vem ela, toda bela
+D                  Em
+Um dia vai e outro vem
+A                  D
+Espero o tempo que for
+                   Em
+Vivendo longe de alguém
+A                    D
+Sou beija-flor sem a flor
+                      A
+Quem parte, leva a certeza
+               G               D
+Mas deixa a saudade coberta de dor
+                   A
+Quem fica, dorme sozinho
+              G                  D
+Chorando os espinhos morrendo de amor
+D                  Em
+Um dia vai e outro vem
+A                  D
+Espero o tempo que for
+                   Em
+Vivendo longe de alguém
+A                    D
+Sou beija-flor sem a flor
+A                     D
+Coração de menino esperando na janela
+       Em          A         D
+Lá vem ela, lá vem ela, toda bela
+A                       D
+Coração de menino é uma porta sem tramela
+       Em           A        D
+Lá vem ela, lá vem ela, toda bela
+A                     D
+Coração de menino esperando na janela
+       Em          A         D
+Lá vem ela, lá vem ela, toda bela
+A                       D
+Coração de menino é uma porta sem tramela
+       Em           A        D
+Lá vem ela, lá vem ela, toda bela
+       Em           A        D
+Lá vem ela, lá vem ela, toda bela
+       Em           A        D
+Lá vem ela, lá vem ela, toda bela
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

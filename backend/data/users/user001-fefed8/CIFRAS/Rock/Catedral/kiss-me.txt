@@ -1,0 +1,61 @@
+@titulo: kiss-me
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Kiss Me
+
+(intro) Eb Eb7+ Eb7 Eb7+
+
+Eb        Eb7+
+ Kiss me I'm out of the bearded barley
+Eb7       Eb7+
+ Nightly beside the green green grass
+Eb                    Eb7+
+ Swim, swim, swimming the spinning step
+Eb7
+ I wear those shoes and you
+         Ab
+ Will wear that dress
+
+(coro)
+ Fm     Bb    Eb           Cm
+ Oh kiss me beneath the milk twilight
+ Fm     Bb    Eb           Cm
+ Leave me      out on the moonlit floor
+ Fm          Bb                Eb
+ Lift your open hand
+                 Eb/D              Cm
+ Strike up the band and make the fireflies
+
+         Bb                   Ab     Bb
+ Dance silver moon's sparkling
+             Eb Eb7+ Eb7 Eb7+
+ So, kiss me
+
+Eb           Eb7+
+ Kiss me down by the broken tree house
+Eb7         Eb7+
+ Swing me upon its hanging tire
+Eb                  Eb7+
+ Bring, bring, bring your flowered hat
+Eb7                Ab
+ We'll take the trail marked on your father's map
+
+(coro)
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Bb = X 1 3 3 3 1
+Cm = X 3 5 5 4 3
+Eb = X 6 5 3 4 3
+Eb/D = X 5 5 3 4 3
+Eb7 = X 6 5 6 4 X
+Eb7+ = X X 1 3 3 3
+Fm = 1 3 3 1 1 1

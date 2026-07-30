@@ -1,0 +1,72 @@
+@titulo: eu-te-louvarei
+@autor:
+@intérprete: Kemuel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Kemuel - Eu Te Louvarei 
+
+Capo Casa 2
+
+[Intro] D  C  D  C
+        G  Am  G
+        G  Am  G
+
+G           D/F#            Cm       D   G  G7
+Eu te louvarei, Senhor, de todo meu coração
+G           D/F#            Cm       D   G  G7
+Eu te louvarei, Senhor, de todo meu coração
+
+       C         B7        Em      A      G D G
+Na presença dos deuses, a Ti cantarei louvo-o-res
+       C         B7        Em      A      G D G
+Na presença dos deuses, a Ti cantarei louvo-o-res
+
+( D  C  D  C )
+
+G           D/F#            Cm       D   G  G7
+Eu te louvarei, Senhor, de todo meu coração
+G           D/F#            Cm       D   G  G7
+Eu te louvarei, Senhor, de todo meu coração
+
+
+       C         B7        Em      A      G D G
+Na presença dos deuses, a Ti cantarei louvo-o-res
+       C         B7        Em      A      G D G
+Na presença dos deuses, a Ti cantarei louvo-o-res
+
+ G    D  G
+Louvo-o-res
+ G    D  G
+Louvo-o-res
+
+       C         B7        Em      A      G D G
+Na presença dos deuses, a Ti cantarei louvo-o-res
+       C         B7        Em      A      G D G
+Na presença dos deuses, a Ti cantarei louvo-o-res
+
+[Final] C  B7  Em  A  G  D  G
+
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+A*  = X 0 2 2 2 0 - (*B na forma de A)
+A7*  = X 0 2 0 2 0 - (*B7 na forma de A7)
+B*  = X 2 4 4 4 2 - (*C# na forma de B)
+B7*  = X 2 1 2 0 2 - (*C#7 na forma de B7)
+C*  = X 3 2 0 1 0 - (*D na forma de C)
+C#7*  = X 4 3 4 2 X - (*D#7 na forma de C#7)
+Cm*  = X 3 5 5 4 3 - (*Dm na forma de Cm)
+D*  = X X 0 2 3 2 - (*E na forma de D)
+D/F#*  = 2 X 0 2 3 2 - (*E/G# na forma de D/F#)
+D7*  = X X 0 2 1 2 - (*E7 na forma de D7)
+E*  = 0 2 2 1 0 0 - (*F# na forma de E)
+E/G#*  = 4 X 2 4 5 X - (*F#/A# na forma de E/G#)
+Em*  = 0 2 2 0 0 0 - (*F#m na forma de Em)
+F#m*  = 2 4 4 2 2 2 - (*G#m na forma de F#m)
+G*  = 3 2 0 0 0 3 - (*A na forma de G)
+G7*  = 3 5 3 4 3 3 - (*A7 na forma de G7)

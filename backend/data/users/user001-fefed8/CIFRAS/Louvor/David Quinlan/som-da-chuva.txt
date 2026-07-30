@@ -1,0 +1,50 @@
+@titulo: som-da-chuva
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Som da Chuva
+
+Dm7
+He will come
+        C9
+-Ele virá
+          Dm7
+In the storm
+             C9
+-Numa tempestade
+          Gm
+Powring down
+         Dm7  E  Am7
+-Em abundância
+         Dm7
+He will fly
+           C9
+-Sobre os ceus
+              Dm7
+Through the skies
+         C9
+-Ele voará
+         Gm
+On the sound
+
+          Dm   E
+-Sobre o som
+              Gm
+The sound of rain
+
+-O som da chuva
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C9 = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+Gm = 3 5 5 3 3 3

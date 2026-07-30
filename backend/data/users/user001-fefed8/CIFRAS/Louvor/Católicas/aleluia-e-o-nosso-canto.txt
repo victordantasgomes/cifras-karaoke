@@ -1,0 +1,32 @@
+@titulo: aleluia-e-o-nosso-canto
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Aleluia É o Nosso Canto
+
+ Refrão
+    E               G#7           A            E         C#m
+Aleluia! É o nosso canto, Jesus Cristo vai falar: e o Espírito que
+   F#m          B7           E
+é Santo é quem vai nos explicar!
+
+G#m              C#m                  B7
+Santo e santificador, iluminai nossa mente, e o fogo do vosso
+  E          F#m     B7     E             F#m    B7     E
+amor encha o cora...ção da gente, encha o coração da gente
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#7 = 4 6 4 5 4 4
+G#m = 4 6 6 4 4 4

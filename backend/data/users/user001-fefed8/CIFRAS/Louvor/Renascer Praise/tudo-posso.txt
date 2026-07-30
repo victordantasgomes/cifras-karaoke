@@ -1,0 +1,141 @@
+@titulo: tudo-posso
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Tudo Posso
+
+[Intro] Gm  Bb/F  Cm9  G#7+/9
+        Gm7  D#/F  G#7+/9
+        Gm7  D#/F  F/D#
+
+Bb9              Cm
+Te louvar, Te agradecer
+   Bb9/D              D#7+
+Há tantas formas e expressões
+Bb/F          Gm    Cm F    Bb       Cm9
+Para retribuir o amor, realizar os sonhos
+ Bb9/D         D#7+         Bb/F       Gm        Cm   F
+Teu amor me faz estar sempre de pé continuar
+
+Bb           Bb/D             D#7+     Eb/F  F
+Tudo posso, Deus me fortalece
+Bb             Bb/D
+As coisas velhas se foram
+D#7+          G#7+
+Tudo novo fará
+Gm      Dm          Cm Cm/Bb  Cm6/A     D7/9-/5+
+Descobri o sentido de viver
+
+Gm    Dm              Cm      Fsus
+Esta é a razão que me faz cantar
+  Esus           D#               Bb/D
+Tudo posso em Deus que me fortalece
+        Cm           Fsus       Cm   Bb/D   D#7+    Asus4 A
+A cada dia tudo novo se fará
+
+D               Em
+Te louvar, Te agradecer
+   D/F#               G7+
+Há tantas formas e expressões
+D/A           Bm     Em Asus     D          Em
+Para retribuir o amor,       realizar os sonhos
+
+D/F#          G7+       D/A        Bm         Asus
+Teu amor me faz estar sempre de pé continuar
+D            D/F#            G7+    Asus    A
+Tudo posso, Deus me fortalece
+D              D/F#
+As coisas velhas se foram
+G7+            C7/9/13
+Tudo novo fará
+Bm      F#m        Em Em/D Em/C#  F#5+/9+/7
+Descobri o sentido de viver
+Bm     F#m              Em     Asus
+Esta é a razão que me faz cantar
+    G#7/13          G                   D/F#
+Tudo posso em Deus que me fortalece
+       Em            A      D   Bb  Asus  ( Asus  Bsus )
+A cada dia tudo novo se fará
+
+              G                 D/F#
+Tudo posso em Deus que me fortalece
+       Em            Asus        Bsus
+A cada dia tudo novo se fará
+              Em               D/F#
+Tudo posso em Deus que me fortalece
+
+        G                Asus   Bsus
+A cada dia tudo novo se fará
+
+             Em               D/F#
+Tudo posso em Deus que me fortalece
+       G              Asus      Bsus
+A cada dia tudo novo se fará
+              Em              D/F#
+Tudo posso em Deus que me fortalece
+        G                A     Bm   F#m  Em7/9
+A cada dia tudo novo se fará
+Asus   Bm   F#m   Em7/9
+Se fará
+Asus   Bm   F#m    Em7/9
+Se fará
+Asus   Bm   F#m  Em7/9
+Se fará
+               Em              D/F#
+Tudo posso em Deus que me fortalece
+          Gm7/9                     C7/9/13    Bm7   F#m7  Em7/9/11
+A cada   dia        tudo   novo     se       fará
+            Asus4   A      D9
+Tudo novo se          fará
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Asus = X 0 2 2 2 0
+Asus4 = X 0 2 2 3 0
+Bb = X 1 3 3 3 1
+Bb/D = X 5 X 3 6 6
+Bb/F = X 8 8 7 6 X
+Bb9 = X 1 3 3 1 1
+Bb9/D = X 5 3 3 1 1
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Bsus = X 2 4 4 4 2
+C7/9/13 = X 3 2 P3 3 5
+Cm = X 3 5 5 4 3
+Cm/Bb = X 1 1 0 1 X
+Cm9 = X 3 1 0 3 X
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D#/F = X 8 8 8 8 X
+D#7+ = X X 1 3 3 3
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+Dm = X X 0 2 3 1
+Eb/F = X 8 8 8 8 X
+Em = 0 2 2 0 0 0
+Em/C# = X 4 2 0 0 X
+Em/D = X X 0 4 5 3
+Em7/9 = X 7 5 7 7 X
+Em7/9/11 = X 7 5 7 7 5
+Esus = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F/D# = X X 1 2 1 1
+Fsus = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G#7+ = 4 X 5 5 4 X
+G#7+/9 = 4 3 5 3 X X
+G#7/13 = 4 X 4 5 6 X
+G7+ = 3 X 4 4 3 X
+Gm = 3 5 5 3 3 3
+Gm7 = 3 X 3 3 3 X
+Gm7/9 = X X 5 3 6 5

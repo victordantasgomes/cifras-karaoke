@@ -1,0 +1,96 @@
+@titulo: a-voz
+@autor:
+@intérprete: Gabriela Rocha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gabriela Rocha - A Voz
+
+[Intro]  D9  E  F#m7(11)  E
+         D9  E  F#m7(11)  E
+
+   D9                           A9
+A voz do Senhor faz tremer o deserto
+   D9                            A9
+A voz do Senhor quebra todos os cedros
+     D9            A9
+Tua voz ecoa majestade
+     D9            C#m7
+Tua voz ecoa santidade
+
+       D9              F#m7(11)   E
+Com poder, como um trovão, ouço Tua voz
+          D9            F#m7(11)   E
+Trazendo cura e libertação, ouço Tua voz
+
+  A9
+Quebra os grilhões, alivia os aflitos
+      E
+Transforma os doentes e oprimidos
+
+           F#m7(11)           D9/F#
+Ao som da Tua voz, ao som da Tua voz
+A9                   Bm7(11)  A9/C#
+O teu poder faz o inferno tremer
+        E/G#
+Nada e nenhum mal pode prevalecer
+           F#m7(11)           D9/F#  E
+Ao som da Tua voz, ao som da Tua voz
+
+       D9              F#m7(11)   E
+Com poder, como um trovão, ouço Tua voz
+          D9            F#m7(11)   E
+Trazendo cura e libertação, ouço Tua voz
+
+  A9
+Quebra os grilhões, alivia os aflitos
+      E
+Transforma os doentes e oprimidos
+           F#m7(11)           D9
+Ao som da Tua voz, ao som da Tua voz
+A9                   Bm7(11)  A9/C#
+O Teu poder faz o inferno tremer
+        E
+Nada e nenhum mal pode prevalecer
+           F#m7(11)           D9/F#
+Ao som da Tua voz, ao som da Tua voz
+
+A9        E
+Oh, Oh... Oh, Oh
+           F#m7(11)           D9
+Ao som da Tua voz, ao som da Tua voz
+A9        E/G#
+Oh, Oh... Oh, Oh
+           F#m7(11)           D9
+Ao som da Tua voz, ao som da Tua voz
+
+  A9
+Quebra os grilhões, alivia os aflitos
+      E
+Transforma os doentes e oprimidos
+           F#m7(11)           D9/F#
+Ao som da Tua voz, ao som da Tua voz
+A9                   Bm7(11)  A9/C#
+O Teu poder faz o inferno tremer
+        E/G#
+Nada e nenhum mal pode prevalecer
+           F#m7(11)           D9/F#
+Ao som da Tua voz, ao som da Tua voz
+
+[Final] E  D9  E  D9
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+Bm7(11) = 7 X 7 7 5 X
+C#m7 = X 4 6 4 5 4
+D9 = X X 0 2 3 0
+D9/F# = 2 X 0 2 3 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m7(11) = 2 X 2 2 0 X

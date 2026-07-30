@@ -1,0 +1,81 @@
+@titulo: voce-chegou
+@autor:
+@intérprete: LS Jack
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+LS Jack - Você Chegou
+
+Intro:
+E|-8-8-|-10-10-|-13h15-15-15-|-----4-------|
+B|-8-8-|-10-10-|-13h15-15-15-|-4h6---4h6-4-|
+G|-5-5-|--7--7-|-------------|-------------|
+D|-X-X-|--X--X-|-------------|-------------|
+A|-X-X-|--X--X-|-------------|-------------|
+E|-X-X-|--X--X-|-------------|-------------|
+
+E|-8-8-|-10-10-|-13h15-15-13-|
+B|-8-8-|-10-10-|-13h15-15-13-|
+G|-5-5-|--7--7-|-------------|
+D|-X-X-|--X--X-|-------------|
+A|-X-X-|--X--X-|-------------|
+E|-X-X-|--X--X-|-------------|
+
+
+----------Refrão------------------
+
+Lembra então daquela vez que te vi
+            C         Dm7    Bb
+Caminhando sob o sol de manhã
+
+           C            Dm7     Bb
+Tudo que eu sempre quis tava ali
+         C   Dm7   Bb
+Você chegou
+
+  C           Dm7         Bb
+Você sorriu mas não deixou
+ C     Dm7     F
+   Eu  terminar
+C              Dm7     Bb
+Quis dizer que era você
+    C         Dm7 F
+Que vim procurar
+C          Dm7         Bb
+Nem a rosa que comprei ,  yeeah...
+C  Dm7      F
+Te fez parar
+    C             Dm7       Bb
+Mas só o beijo que eu roubei
+     C        Dm7       F
+Fez você me olhar
+
+Refrão
+
+  C           Dm7         Bb
+Você sorriu mas não deixou
+ C     Dm7     F
+   Eu  terminar
+C              Dm7     Bb
+Quis dizer que era você
+    C         Dm7   F
+Que vim procurar
+C          Dm7         Bb
+Nem a rosa que comprei ,  yeeah...
+C  Dm7     F
+Te fez parar
+    C             Dm7       Bb
+Mas só o beijo que eu roubei
+     C        Dm7       F
+Fez você me olhar
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1

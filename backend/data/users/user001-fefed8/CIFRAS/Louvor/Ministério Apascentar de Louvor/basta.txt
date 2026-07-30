@@ -1,0 +1,80 @@
+@titulo: basta
+@autor:
+@intérprete: Ministério Apascentar de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Apascentar de Louvor (Toque No Altar) - Basta
+
+Intro: C  D  Em  C/E  D/F#  G4  C  D  Em  C  D  Am
+
+C9    D/C    Em
+Deus de Abraão
+C/E    D/F#   G4   G
+Não vou fugir mais
+F/G          Am
+Sei quer me curar
+C9                         D/C
+Minha história ainda pode mudar
+
+       C9  D/C Em
+Clamo a Ti Senhor
+C/E   D/F#   G4 G
+Fala comigo outra vez
+F/G          Am
+Não vou mais lamentar
+     C9              D/C
+Tua palavra não pode mudar
+
+       C9
+O meu sonho não morreu
+
+       C9
+És o mesmo Deus
+    Em
+Me chamou de Israel
+Am            D9
+Vem e me faz reviver
+
+G
+Basta                       (2x)
+F              Am
+Decido lutar e ver o Senhor
+    C9        D9
+Me chamar de Israel
+
+C9
+O meu sonho não morreu
+C9
+És o mesmo Deus
+Em
+O meu sonho não morreu
+Am           D9
+Vem e me faz reviver
+
+G
+Basta
+F             Am
+Decido lutar e ver o Senhor
+     C9      D9
+Me chamar de Israel
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F/G = 3 X 3 2 1 X
+G = 3 2 0 0 0 3
+G4 = 3 5 5 5 3 3

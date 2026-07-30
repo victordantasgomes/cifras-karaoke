@@ -1,0 +1,54 @@
+@titulo: porque-es-senhor
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Porque És, Senhor
+
+  D          B7         Em
+Porque és, Senhor , o Caminho,
+      A7          D       D7
+que devemos nós seguir:
+
+Refrão:
+         G     A7     D
+Nós te damos, hoje sempre,
+ B7   Em    A7  D
+toda glória e louvor. (x2)
+
+   D         B7        Em
+Porque és, Senhor, a Verdade,
+      A7       D      D7
+que devemos aceitar:
+
+Refrão:
+         G     A7     D
+Nós te damos, hoje sempre,
+ B7   Em    A7  D
+toda glória e louvor. (x2)
+
+
+   D         B7           Em
+Porque és, Senhor, plena Vida,
+      A7          D     D7
+que devemos nós viver:
+
+Refrão:
+         G     A7     D
+Nós te damos, hoje sempre,
+ B7   Em    A7  D
+toda glória e louvor. (x2)
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

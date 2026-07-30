@@ -1,0 +1,49 @@
+@titulo: tic-tac
+@autor:
+@intérprete: Felipe Araújo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Felipe Araújo - Tic Tac
+
+Capo Casa 3
+
+               A
+Já faz Algum tempo
+             E               Bm
+Que estou tentando me aproximar de você
+      D
+Quero te conhecer
+           A
+Esta escancarado
+        E                   Bm
+No meu olhar não da pra disfarça
+           D
+Preciso dizer
+F#m         C#m                    D
+E no teu sorriso que eu me perco todo
+                E
+Estou ficando bobo
+               A
+Refrao. No tic tac do relógio
+                  E
+         o tempo vai passando
+                        Bm                    D
+         eu contando as horas pra tiver de novo 2X
+
+                             E
+    FINAL.     pra tiver de novo
+
+----------------- Acordes -----------------
+Capotraste na 3ª casa
+A*  = X 0 2 2 2 0 - (*C na forma de A)
+Bm*  = X 2 4 4 3 2 - (*Dm na forma de Bm)
+C#m*  = X 4 6 6 5 4 - (*Em na forma de C#m)
+D*  = X X 0 2 3 2 - (*F na forma de D)
+E*  = 0 2 2 1 0 0 - (*G na forma de E)
+F#m*  = 2 4 4 2 2 2 - (*Am na forma de F#m)

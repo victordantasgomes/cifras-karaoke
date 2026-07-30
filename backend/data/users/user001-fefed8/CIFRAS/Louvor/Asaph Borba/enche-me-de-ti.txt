@@ -1,0 +1,69 @@
+@titulo: enche-me-de-ti
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Enche-me de Ti
+
+INT.:  D9  G9  Em7  G9  A4 (2x)
+
+  D9                 A/C#             Bm7    G9                  A4    Bm7
+  Enche-me de Ti Senhor Jesus  -  Enche-me de Ti Senhor
+   G9                                 D/F#
+  Seja minha vida um manancial
+                       C9                Em7    A4     A
+  Sempre a jorrar Teu precioso amor 
+
+                       Em7                A       D9     A/C#
+  Sempre a jorrar Teu precioso amor
+
+   Bm7                      F#m7        G                A        D9   A/C#
+  Rios de água viva fluirão  -  Para vidas restaurar
+   Bm7                       F#m7         G                                           A4     A
+  Ossos secos ressuscitarão  -  Quando a água sobre eles jorrar
+
+
+  Enche-me de Ti Senhor Jesus... (2x)
+
+   Bm7                            F#m7   G                 A              D9   A/C#
+  Todo aquele que tem sede  -  Desta água poderá beber
+   Bm7                      F#m7            G                                A4    A
+  Todo aquele que assim fizer  - Sede nunca mais vai ter 
+
+        F#4  F#7  Bm         F#4  F#7  G9   D/F#
+  Eu tenho        sede, eu tenho       sede
+  Em7     A      Bm     G9  Em7   F#m7 F#7  Bm
+  Dá-me de beber Jesus, dá-me de beber 
+                                                             (G9  A4  A) última vez!
+
+    D9                 A/C#             Bm7    G9                  A4    Bm7
+  Enche-me de Ti Senhor Jesus  -  Enche-me de Ti Senhor
+   G9                                 D/F#
+  Seja minha vida um manancial
+                       C9                Em7    A4     A
+  Sempre a jorrar Teu precioso amor 
+
+                       Em7                A       D9    G9  Em7  G9  A4   D9
+  Sempre a jorrar Teu precioso amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C9 = X 3 5 5 3 3
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+Em7 = 0 2 2 0 3 0
+F#4 = 2 4 4 4 2 2
+F#7 = 2 4 2 3 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G9 = 3 X 0 2 0 X

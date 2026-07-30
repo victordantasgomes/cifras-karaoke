@@ -1,0 +1,85 @@
+@titulo: seja-bem-vinda
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - Seja Bem Vinda
+
+(intro): A  D  A/C#  Bm  Bm7/G
+             D/F#  G#m7  C#7  F#m  D
+
+F#m
+Não importa quem te fez
+                                                Bm
+Quem foi a primeira vez, seu dono
+                                          E
+Quem achou os seus caminhos
+                                        E/G#
+Quem ganhou os seu carinhos
+                              A
+E depois tirou seu sono
+
+                                     D
+O importante é que eu sou
+
+Quem você tanto sonhou
+                             C#m  G  F#
+E pra mim você é linda
+                               Bm
+Se ele não te deu valor
+
+                               E
+Se ele apenas te usou
+          A             A7
+Seja benvinda!
+
+          D
+Não quero uma santa do meu lado
+        A                                           C#m   F#m
+Que faça todas as coisas que eu quiser
+     Bm                                     E4
+Te quero desse jeito que eu gosto
+        E/G#                 A        A7M  A7
+Simplesmente uma mulher
+        D
+Não quero ter você como troféu
+    A                                   C#m   F#m
+Apenas por capricho da paixão
+                 Bm                                     D/E
+O que eu sinto é muito mais do que tesão
+                  A
+É amor de coração
+
+E                  D
+Fica comigo, fica comigo
+A                              E
+Cola o seu corpo no meu
+E                     D
+Deita comigo, sonha comigo
+A           E                      A
+Você é minha, eu sou seu
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+A7M = X 0 2 1 2 0
+Bm = X 2 4 4 3 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m7 = 4 X 4 4 4 X

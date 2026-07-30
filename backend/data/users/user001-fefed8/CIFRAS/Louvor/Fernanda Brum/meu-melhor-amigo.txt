@@ -1,0 +1,69 @@
+@titulo: meu-melhor-amigo
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Meu Melhor Amigo
+
+Intro: Bm  E  Bm   E   Bm  E  D  A/C#  Bm  D/E   E   A
+
+A7M            E/G#     F#m
+            Meu amor, Jesus
+D/E               A7M
+Autor da minha vida
+E/G#        F#m      D   A7M      E/G#
+Salvador, Messias, Rei,     Consolador
+   F#m
+Tudo que eu preciso
+D   A/C#    Bm7
+Pra viver, Senhor
+D/E           E
+Meu melhor amigo
+Bm7                           E
+Eu não preciso de mais ninguém
+Bm7
+Se tenho a Ti
+        E
+Está tudo bem
+Bm7                      E
+És meu pastor, nada faltará
+
+D     A/C#    Bm7   D/E       E    A   D/F#   E/G#
+Meu  me      lhor     a       mi  go
+A7M  E       F#m        C#m
+Meu Jesus, meu melhor amigo
+D        A/C
+Meu Emanuel
+           E
+Deus comigo
+A7M  E        F#m       C#m
+Meu Jesus, príncipe da paz
+D           A/C#
+Doce como mel
+            E
+Deus e comigo
+
+D     A/C#    Bm7   D/E    E   A     D/F#   E/G#
+Meu  me      lhor     a    mi  go
+
+Solo: F#m    C#m    D  A/C#   D   A/C#   E  D/F#  E/G#
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7M = X 0 2 1 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

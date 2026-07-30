@@ -1,0 +1,162 @@
+@titulo: hoje-eu-acordei-feliz
+@autor:
+@intérprete: Charlie Brown Jr
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Charlie Brown Jr. - Hoje Eu Acordei Feliz
+
+(intro)
+E |-----------10-----------10/12--10-------10-------------|
+B |--10----------10--8--10-----------10-10----10--8-7-7-8-|
+G |-----7-7-7---------------------------------------------| (4x)
+D |-------------------------------------------------------|
+A |-------------------------------------------------------|
+E |-------------------------------------------------------|
+
+(riff 1)
+E |---------------------------|
+B |---------------------------|
+G |--7xxx---------------------|
+D |--7xxx--5xxx--2xxx--7xxx---|
+A |--5xxx--5xxx--2xxx--7xxx---|   x = abafado
+E |--------3xxx--0xxx--5xxx---|
+
+(riff 2)
+E |------------------------------------------------------------|
+B |------------------------------------------------------------|
+G |-7-7-7-7-7-7/9-9-9-9-9-9/12-12-12-12-12-12--9-9-11-11-11-11-|
+D |-x-x-x-x-x-x-x-x-x-x-x-x-xx-xx-xx-xx-xx-xx--x-x-xx-xx-xx-xx-|
+A |-5-5-5-5-5-5/7-7-7-7-7-7/10-10-10-10-10-10--7-7-09-09-09-09-|
+E |------------------------------------------------------------|
+
+
+E |------------------------------------------------------|
+B |------------------------------------------------------|
+G |-7-7-7-7-7-7/14-14-14-14-14/16-14-14-14-14--9-9-11-11-|
+D |-x-x-x-x-x-x-xx-xx-xx-xx-xx-xx-xx-xx-xx-xx--x-x-xx-xx-|
+A |-5-5-5-5-5-5/12-12-12-12-12/14-12-12-12-12--7-7-09-09-|
+E |------------------------------------------------------|
+
+(riff 1)
+Hoje eu acordei para sorrir mostrar os dentes
+Hoje eu acordei para matar o presidente
+
+(riff 2)
+Hoje tem festa, ela vai tar eu vou Vai ser perfeito
+eu vou fazer o que você jamais teria feito
+
+(refrão)
+D5                G5  A5
+Hoje eu acordei feliz
+           D5
+Sonhei com ela a noite inteira
+          G5   A5
+Eu sempre quis
+D5                G5  A5
+Hoje eu acordei feliz
+           D5
+Sonhei com ela a noite inteira
+          G5   A5
+Eu sempre quis
+Só não quero acordar!
+
+E |-----------10-----------10/12--10-------10-------------|
+B |--10----------10--8--10-----------10-10----10--8-7-7-8-|
+G |-----7-7-7---------------------------------------------|
+D |-------------------------------------------------------|
+A |-------------------------------------------------------|
+E |-------------------------------------------------------|
+
+E |------------------------------------------|
+B |-10-------8-7---7--10/12-10-------8-7-----|
+G |----7-7-7-----9-------------7-7-7-----9^^-|
+D |------------------------------------------|
+A |------------------------------------------|
+E |------------------------------------------|
+
+(riff 1)
+Chegou ficou do lado não parou de olhar pra mim
+Eu sinto lhe dizer mas sou o cara que ela é a fim
+
+(riff 2)
+O sexo é bom o amor, melhor, os dois então perfeito
+Eu vou fazer o que você jamais teria feito
+
+D5                G5  A5
+Hoje eu acordei feliz
+           D5
+Fiquei com ela a noite inteira
+          G5   A5
+Eu sempre quis
+D5                G5  A5
+Hoje eu acordei feliz
+           D5
+Fiquei com ela a noite inteira
+          G5   A5
+Eu sempre quis
+Só não quero acordar!
+
+E |--x--10~~---------------------------------||
+B |--x-----10~~------------------------------|
+G |------------------------------------------| - (2x)
+D |-----------------7/9-9-9-9-9/12-12-12-12--|/
+A |-----------------5/7-7-7-7-7/10-10-10-10--||
+E |------------------------------------------|/
+
+D5 G5 A5
+Não, não importa que muda, te livre,
+Skate is my life, skate te destrói!
+
+D5                G5  A5
+Hoje eu acordei feliz
+           D5
+Fiquei com ela a noite inteira
+          G5   A5
+Eu sempre quis
+D5                G5  A5
+Hoje eu acordei feliz
+           D5
+Fiquei com ela a noite inteira
+          G5   A5
+Eu sempre quis
+Só não quero acordar!
+
+(intro 3x - na 4ª vez ele faz assim)
+E |-17--15-14-15-14------------------------------------------|
+B |----------------15----------------------------------------|
+G |-------------------12--11--11-12--14--12--11-12-11---14^^-|
+D |----------------------------------------------------------|
+A |----------------------------------------------------------|
+E |----------------------------------------------------------|
+
+Com algumas variações no final
+Chegou ficou do lado
+Já sentiu um pouco daquele efeito
+Eu vou fazer o que você jamais teria feito
+Não quero acordar...Não!
+Não quero acordar...Não!
+Não quero acordar...Não!
+
+(final)
+E |------------------------------------|
+B |------------------------------------|
+G |--7-7--9-9--12-12--14-14----6/7~----|
+D |--7-7--9-9--12-12--14-14----6/7~----|
+A |--5-5--7-7--10-10--12-12----4/5~----|
+E |------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+B = X 2 4 4 4 2
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X

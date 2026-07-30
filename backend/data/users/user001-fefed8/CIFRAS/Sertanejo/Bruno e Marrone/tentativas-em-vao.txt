@@ -1,0 +1,54 @@
+@titulo: tentativas-em-vao
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Tentativas Em Vão
+
+Intro 2x: Dm Am Bb C
+
+F                                                    Am
+Se eu soubesse o que fazer pra tirar você da minha cabeça
+F                                                    Am
+Um lado diz que quer ficar com você e o outro diz: esqueça (2x)
+        Dm                       Am
+Mas acontece que o meu coração não é de papel
+             Bb                     C
+Que a chuva molha e as palavras apagam
+          Dm            Am
+A minha mente gira feito um carrossel
+   Bb
+Tentando buscar a saída
+      C
+Pra tirar você da minha vida
+
+Refrão 2x:
+               F
+Tentativas em vão
+                        Dm
+Tentar tirar você do coração
+
+                        Bb
+E como vou viver sem respirar
+                 c
+É como querer apagar a chama de um vulcão
+
+( F  Am )
+
+(repete tudo)
+
+Final: Bb  C  Bb  F/A  Bb  F
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X

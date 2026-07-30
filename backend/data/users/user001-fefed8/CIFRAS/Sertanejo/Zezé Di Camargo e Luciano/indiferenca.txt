@@ -1,0 +1,81 @@
+@titulo: indiferenca
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Indiferença
+
+Intro: E  F#  B  F#/Bb  G#m  E  F#  B  E  B
+
+E|------------|--------------------------|------------|---------------------|
+B|------------|--------------------------|------------|---------------------|
+G|-8-9-11-----|--------------------------|---8-9-11\--|---------------------|
+D|------------|--------------------------|-11---------|-------8/9-8---------|
+A|--------9-11|-(11)~----------2-2-2/4-4~|------------|----6--------9-9/11~-|
+E|------------|-------2b(4)r2------------|------------|-/7------------------|
+
+
+E|----------------|--------------|-----------|----------|------|------------|
+B|-----------8/9~-|---------9/11~|-----------|----------|------|------------|
+G|------9/11-8/9~-|-13\11-9-9/11~|-9/11\9----|----------|------|------------|
+D|-9/11-----------|--------------|--------11\|----------|------|------------|
+A|----------------|--------------|-----------|-4b(6)r4-2|------|-2~~--------|
+E|----------------|--------------|-----------|----------|-2b(4)|------------|
+
+          B
+Fala pra mim, diz a verdade
+                            C#m
+O que mudou assim tão de repente
+
+                     F#
+Quero saber de onde vem
+C#m         F#              B
+Esse medo que machuca a gente
+
+           B
+Tá tudo errado, fogo cruzado
+     B7                      E
+E a gente não consegue se entender
+        Em
+Porque não me telefona
+        B       G#m
+De notícias de você
+          C#7
+Ligue ao menos pra dizer
+          F#
+Que o melhor é te esquecer
+
+     E                        B
+É a sua indiferença é que me mata
+         C#m       F#           B  B7
+É uma invasão, um nó dentro de mim
+     E                         B     G#m
+Coração divide em dois na sua falta
+     C#m         F#             B
+Uma parte é o começo a outra o fim
+
+     E                      B
+É a sua indiferença que me mata
+        F#           B   B7
+Que me mata, que me mata
+     E                         B
+Coração divide em dois na sua falta
+        F#            B
+Na sua falta, na sua falta
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#/Bb = 6 X 4 6 7 X
+G#m = 4 6 6 4 4 4

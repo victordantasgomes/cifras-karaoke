@@ -1,0 +1,129 @@
+@titulo: ate-o-final
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - Até o Final
+
+[Intro]  D  Bm7  G  A
+
+E|-5/7\5-2------------------|
+B|-5/7\5-2--4/6\4--------3--|
+G|----------3/5\3------2----|
+D|-----------------2h4------|
+A|--------------------------|
+E|--------------------------|
+
+      D
+No começo eu tentava te fazer me amar
+      Bm7
+Mas agora estamos juntos
+E posso confessar
+        G
+Eu não gosto de cinema
+        D/F#
+Eu não sei cozinhar
+       E7
+Nunca fui tão cavalheiro
+          A7
+Eu jurei nunca casar
+
+   D
+A carta que mandei
+Não fui eu que escrevi
+      Bm7
+E o poema que te recitei num livro eu li
+         G
+Não sou bom de futebol
+         D/F#
+E por você já chorei
+       E7
+Mas é de verdade estou te amando
+   A7
+E me apaixonei
+
+   D
+O doce do seu beijo
+        G
+Enfeitiçou meu coração
+ Bm                    A
+Vivo noite e dia numa nuvem de paixão
+ D                     G
+Nunca vou te fazer sofrer
+Não quero seu mal
+ Bm                      A          D
+Vem meu anjo sigo com você até o final
+G          Bm  A
+  Até o final
+
+    D
+Eu já chorei sozinho
+Quando a gente brigou
+      Bm
+E confesso sou ciumento
+E sempre escondo minha dor
+    G
+As datas importantes
+      D/F#
+Vivo sempre a esquecer
+       E7
+Machuquei muitas mulheres
+      A7
+Procurando você
+
+E|-------------------------|
+B|--3-2--------------------|
+G|------4-2h4h2------------|
+D|--------------5-4-2------|
+A|--------------------5----|
+E|-------------------------|
+
+   D
+O doce do seu beijo
+        G
+Enfeitiçou meu coração
+ Bm                    A
+Vivo noite e dia numa nuvem de paixão
+ D                     G
+Nunca vou te fazer sofrer
+Não quero seu mal
+ Bm                      A          D
+Vem meu anjo sigo com você até o final
+G          Bm  A
+  Até o final
+
+[Solo] E  C#m  A  B
+       E  C#m  A  B
+
+   D
+O doce do seu beijo
+        G
+Enfeitiçou meu coração
+ Bm                    A
+Vivo noite e dia numa nuvem de paixão
+ D                     G
+Nunca vou te fazer sofrer
+Não quero seu mal
+ Bm                      A          D
+Vem meu anjo sigo com você até o final
+G          Bm  A
+  Até o final
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+G = 3 2 0 0 0 3

@@ -1,0 +1,88 @@
+@titulo: quando-voce-quiser
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Quando Você Quiser
+
+(intro 2x) A  F#m  D  E  A  F#m  D  E  F#m  E
+
+E|-9h7--5-7---------10-9-7--5-7---------|
+B|-----------5h7-7---------------7h9-5--|
+G|-9h7--7-7---------10-9-7--7-7---------|
+D|-----------5h7-7---------------7h9-5--|
+A|--------------------------------------|
+E|--------------------------------------|
+
+E|-9h7--5-7---------10-9-7--5--------|
+B|-----------5h7-7------------5-7-9--|
+G|-9h7--7-7---------10-9-7--7--------|
+D|-----------5h7-7------------5-7-9--|
+A|-----------------------------------|
+E|-----------------------------------|
+
+A
+Quando você quiser me encontrar
+F#m
+Vai consegui, sou fácil de achar
+     D                             A
+No mesmo lugar eu vou ficar te esperando
+
+
+A
+O bar tá legal, não saio daqui
+   F#m
+O fim de semana pra me divertir
+         D                E
+Quando você quiser me encontrar
+          A
+Vai conseguir
+
+D                               A
+Eu nunca vi um anjo assim tão perto
+D             Bm                 E
+Não vai embora, fique um pouco mais
+
+A           E           F#m
+Vem que a noite é uma criança
+       C#m               D
+Que a gente fala e dança
+         A  E
+Só nós dois
+A        E              F#m
+Não, não vá dormir tão cedo
+        C#m          D         A      E
+Que eu tenho tanto medo de acordar e não te ver nunca mais.
+
+( A  F#m  D  E  A  F#m  D  E  F#m  E ) (2x)
+
+E|-9h7--5-7---------10-9-7--5-7---------|
+B|-----------5h7-7---------------7h9-5--|
+G|-9h7--7-7---------10-9-7--7-7---------|
+D|-----------5h7-7---------------7h9-5--|
+A|--------------------------------------|
+E|--------------------------------------|
+
+E|-9h7--5-7---------10-9-7--5--------|
+B|-----------5h7-7------------5-7-9--|
+G|-9h7--7-7---------10-9-7--7--------|
+D|-----------5h7-7------------5-7-9--|
+A|-----------------------------------|
+E|-----------------------------------|
+
+A
+O bar tá legal, não saio daqui..
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

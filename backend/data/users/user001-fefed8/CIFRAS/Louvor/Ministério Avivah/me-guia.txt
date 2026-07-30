@@ -1,0 +1,65 @@
+@titulo: me-guia
+@autor:
+@intérprete: Ministério Avivah
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Avivah - Me Guia
+
+[Intro]  G  Em7  C9  G
+
+G
+Os teus olhos me vêem em todo lugar
+ Em7
+Por onde ando sabes aonde vou chegar
+ C9                G
+Tu me sondas, me conheces tão bem
+ G
+Nos teus planos sabes o que vou passar
+ Em7
+Me guias, Cuidas do meu caminhar
+  C9                        G
+Por onde quer que eu vá sei que estarás também
+
+ D        Em7
+De dia uma nuvem eu verei
+D          Am7
+À noite uma coluna de fogo
+ D            Em7
+Não me faças levantar deste lugar
+
+ F9         C       D4  D
+Se comigo tua presença não habitar
+
+  G     D/F#    Em7     C     G     D/F#
+Me gui.....a, me gui.....a, me gui.....a
+    Am7
+Me carrega em teus braços
+G/B  C9      D
+Escreve os meu passos
+  G
+Senhor
+
+  G   D  Em7   C
+Me guia,me gui____a
+     Am7            G/B    C9
+Me carrega em teus braços, escreve os meu passos
+  G/B  Am7       G/B    C9       D      G
+Me carrega em teus braços, escreve os meu passos, Senhor
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+Em7 = 0 2 2 0 3 0
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

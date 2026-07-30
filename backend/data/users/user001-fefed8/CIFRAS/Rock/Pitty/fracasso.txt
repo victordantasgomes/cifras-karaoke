@@ -1,0 +1,142 @@
+@titulo: fracasso
+@autor:
+@intérprete: Pitty
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Pitty - Fracasso
+
+[Intro]  F#  A  F#  A
+
+E|------------------------------|
+B|------------------------------|
+G|------------------------------|
+D|--4-4-2-0---0-----------------| 
+A|----------4---4-0-------------|
+E|------------------------------|
+
+F#m                 C#m
+O êxito tem vários pais
+                 F#m
+Orfão é o seu revés
+                           C#m
+Aos que sofrem, por fim o céu, Abranda a raiva
+
+        D
+O que trago sobre os ombros
+   A
+É meu e é só meu
+    D                    A
+Sustento sem implorar a benção e o pesar
+
+      D
+Mais vil é desdenhar
+        E
+Do que não se pode ter
+
+ A
+Vive tão disperso, Olha pros lados demais
+ F#m
+Não vê que o futuro é você quem faz
+ E
+Porque o fracasso lhe subiu a cabeça
+A
+Atribui ao outro a culpa por não ter mais
+ F#m
+Declara as uvas verdes, mas não fica em paz
+ E
+Porque o fracasso lhe subiu a cabeça
+
+F#  A  F#  A
+
+F#m              C#m
+O maestro bem falou
+                F#m
+A ofensa é pessoal
+                   C#m
+Quem aponta o traidor é quem foi traído
+
+    D
+Já sabe o que é cair
+             A
+Ao menos tentou ficar de pé
+    D                 A
+E, vítima de si, despreza o que nunca vai ter
+        D
+O mais verde é sempre além
+     E
+Do que se pode ver
+
+ A
+Vive tão disperso, Olha pros lados demais
+ F#m
+Não vê que o futuro é você quem faz
+ E
+Porque o fracasso lhe subiu a cabeça
+A
+Atribui ao outro a culpa por não ter mais
+ F#m
+Declara as uvas verdes, mas não fica em paz
+ E
+Porque o fracasso lhe subiu a cabeça
+
+[Solo]  F#  A
+
+E|-------9-10-9-------9-10-9------------------------------|
+B|-10-10--------10-10-------------------------------------|
+G|----------------------------10-10-9/10-9/10-10-9/10-9/10|
+D|--------------------------------------------------------|
+A|--------------------------------------------------------|
+E|--------------------------------------------------------|
+
+E|----9-10-9-------9-10-9----------------------12-12------|
+B|-10--------10-10--------10-10-9/10-9/10-10--------------|
+G|--------------------------------------------------------|
+D|--------------------------------------------------------|  
+A|--------------------------------------------------------|
+E|--------------------------------------------------------|
+
+E|-------9-10-9--------9-10-9-----------------------------|
+B|-10-10---------10-10------------------------------------|
+G|--------------------------------------------------------|
+D|--------------------------------------------------------|
+A|--------------------------------------------------------|
+E|--------------------------------------------------------|
+
+E5  G5
+
+ A
+Vive tão disperso, Olha pros lados demais
+ F#m
+Não vê que o futuro é você quem faz
+ E
+Porque o fracasso lhe subiu a cabeça
+A
+Atribui ao outro a culpa por não ter mais
+ F#m
+Declara as uvas verdes, mas não fica em paz
+ E                                 F#m
+Porque o fracasso lhe subiu a cabeça
+ E                                 F#m
+Porque o fracasso lhe subiu a cabeça
+ E
+Porque o fracasso lhe subiu a cabeça
+
+F5  G5  A5
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+F5 = 1 3 3 X X X
+G5 = 3 5 5 X X X

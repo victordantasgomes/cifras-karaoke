@@ -1,0 +1,189 @@
+@titulo: coracao-balada-part-dilsinho
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - Coração Balada (part. Dilsinho)
+
+[Intro] C#m7  A7M  B9  G#m7  C#m
+
+E|------------------------------------------|
+B|-----4-5-7-7/9--7/9-9-7-7-----------------|
+G|-4/6--------------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|-------4-5-5/7--4h5-5-4\2-----------------|
+G|-3/4-6------------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Primeira Parte]
+
+   A7M
+É gata
+ B9                                       G#m7
+Você chegou colocando ordem na minha quebrada
+
+    C#m                                     A7M
+Em casa ou balada nossa parceria tá sempre fechada
+   B9                       G#m7
+O som que batia no paredão tá no coração
+C#m
+    Tá no coração
+
+[Refrão]
+
+                A7M
+O que cê fez comigo
+            B9
+Do funk ao romantismo
+           G#m7                C#m
+Coração balada ficou todo apaixonadinho
+
+               A7M
+Olha o que cê fez comigo
+            B9
+Do funk ao romantismo
+           G#m7                C#m
+Coração balada ficou todo apaixonadinho
+
+      A7M         B9
+Oh oh oh oh uo uo ô
+             G#m7                C#m
+O coração balada ficou todo apaixonadinho
+      A7M         B9
+Oh oh oh oh uo uo ô
+             G#m7                C#m
+O coração balada ficou todo apaixonadinho
+
+[Solo] Ab7M  Bb9  Gm7  Cm
+       Ab7M  Bb9  Gm7  Cm
+
+E|------------------------------------------|
+B|-----3-4-6-6/8--6/8-8-6-6-----------------|
+G|-3/5--------------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|-------3-4-4/6--3h4-4-3\1-----------------|
+G|-2/3-5------------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|-----3-4-6-6/8--6/8-8-6-6-----------------|
+G|-3/5--------------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|-------3-4-4/6--3h4-4-3\1-----------------|
+G|-2/3-5------------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Segunda Parte]
+
+   Ab7M
+É gata
+         Bb9                              Gm7
+Você chegou colocando ordem na minha quebrada
+              Cm                            Ab7M
+Em casa ou balada nossa parceria tá sempre fechada
+             Bb9            Gm7
+O som que batia no paredão tá no coração
+Cm            G
+   Tá no coração
+
+[Refrão]
+
+                Ab7M
+O que cê fez comigo
+            Bb9
+Do funk ao romantismo
+           Gm7                 Cm
+Coração balada ficou todo apaixonadinho
+
+               Ab7M
+Olha o que cê fez comigo
+            Bb9
+Do funk ao romantismo
+           Gm7                 Cm
+Coração balada ficou todo apaixonadinho
+
+      Ab7M        Bb9
+Oh oh oh oh uo uo ô
+             Gm7                 Cm
+O coração balada ficou todo apaixonadinho
+      Ab7M        Bb9
+Oh oh oh oh uo uo ô
+             Gm7                 Cm
+O coração balada ficou todo apaixonadinho
+
+[Solo] Ab7M  Bb9  Gm7  Cm
+
+E|------------------------------------------|
+B|-----3-4-6-6/8--6/8-8-6-6-----------------|
+G|-3/5--------------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|-------3-4-4/6--3h4-4-3\1-----------------|
+G|-2/3-5------------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Refrão]
+
+                Ab7M
+O que cê fez comigo
+            Bb9
+Do funk ao romantismo
+           Gm7                 Cm
+Coração balada ficou todo apaixonadinho
+
+               Ab7M
+Olha o que cê fez comigo
+            Bb9
+Do funk ao romantismo
+           Gm7                 Cm
+Coração balada ficou todo apaixonadinho
+
+      Ab7M        Bb9
+Oh oh oh oh uo uo ô
+             Gm7                 Cm
+O coração balada ficou todo apaixonadinho
+      Ab7M        Bb9
+Oh oh oh oh uo uo ô
+             Gm7                 Cm
+O coração balada ficou todo apaixonadinho
+
+----------------- Acordes -----------------
+A7M = X 0 2 1 2 0
+Ab7M = 4 X 5 5 4 X
+B9 = X 2 4 4 2 2
+Bb9 = X 1 3 3 1 1
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+Cm = X 3 5 5 4 3
+G = 3 2 0 0 0 3
+G#m7 = 4 X 4 4 4 X
+Gm7 = 3 X 3 3 3 X

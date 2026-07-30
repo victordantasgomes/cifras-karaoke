@@ -1,0 +1,59 @@
+@titulo: vermelho-leite
+@autor:
+@intérprete: Milionário e José Rico
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Milionário e José Rico - Vermelho Leite
+
+Intro: A  E/G#  F#m  F#m/E  D  A/C#  Bm  A  G  E4  E  A  D/A  A  D/A
+
+ A
+Terra sobre terra ,ódio sobre os olhos
+                    A7+             A6                Bm
+Cada palmo desta estrada uma dor chorada uma vontade morta
+ D               E
+Medo tanto medo,sonhos tantos sonhos
+ Bm           E               A      D  E
+Deus à ti proponho,me abrir a porta
+    A
+Se aqui meu filho chora
+                           A/G     D/F#   D
+E o poder ignora improdutivamente humana
+                  A
+Nunca foi doce a bala
+                 Bm       E           A     D/A  A
+Mais uma voz se cala e o leite se derrama
+
+          E             A
+Vermelho leite,fome de tantos
+
+         E                   D                  A
+É tanta guerra e tão pouca terra pra me dar um canto
+
+            E                A
+Poucos tem muito,muitos sem nada
+          E               D/F#       E/G#   A
+Povo que sonha dorme a vergonha da pátria amada
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+A6 = 5 X 4 6 5 X
+A7+ = X 0 2 1 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2
+F#m/E = X X 2 2 2 2
+G = 3 2 0 0 0 3

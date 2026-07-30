@@ -1,0 +1,43 @@
+@titulo: massacre
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Massacre
+
+Introdução (4x): F# E F# E G
+
+Versos: F# E
+
+Massacre! Massacre de uomo!
+Matança! Matança de dona!
+Eu vi! Eu vi!
+Eu vi, eu vi, eu vi en jornal nacionale!
+
+Interlúdio: E
+(Repete Versos)
+
+El Duce! El Duce en Itália!
+El führer! El führer en Germânia!
+Brazil! Brazil!
+Brazil, Brazil, Brazil, Aldeia Globale!
+
+Interlúdio: E
+(Repete Base)
+
+Massacre! Massacre de uomo!
+
+Matança! Matança de dona!
+Eu vi! Eu vi!
+Eu vi, eu vi, eu vi en jornal nacionale!
+
+----------------- Acordes -----------------
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

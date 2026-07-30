@@ -1,0 +1,162 @@
+@titulo: acrilic-on-canvas
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Acrilic on Canvas
+
+Intro: (Dm Bb)
+Baixo:
+    Dm         Bb
+G|----------------------------------------------------------|
+D|----------------------------------------------------------|
+A|-5--5-----0-1--1-1-1--------------------------------------|
+E|--------3------------1-1----------------------------------|
+
+Guitarra:
+E|----------------------------------------------------------|
+B|-11--10--11-11-10---11--10--11-13-10----------------------|       INTRO
+G|-12--12--12---------12--12--12----------------------------|
+D|----------------------------------------------------------|
+A|----------------------------------------------------------|
+E|----------------------------------------------------------|
+
+
+(Obs:Essa parte é tocada durante toda a música junto com os acordes "Dm Bb F".
+se vc ouvir a música , vc perceberá que ela não vai assim por toda a música,
+tem algumas variações, mas da pra tocar só isso nessas partes que variam que fica legal.)
+
+
+O ritmo da 1ª 3ª e 5ª estrofe da Música é assim:
+
+Dm:BBB                                  B= Baixo
+                                        C= Cima
+Bb:B C C B
+
+F: C C B
+
+
+   (Dm Bb F)
+- É saudade então
+E mais uma vez
+De você fiz o desenho mais perfeito que se fez:
+Os traços copiei do que não aconteceu
+As cores que escolhi entre as tintas que inventei
+Misturei com a promessa que nós dois nunca fizemos
+De um dia sermos três
+Trabalhei com você em luz e sombra
+
+riff 1
+    (Dm G Bb)                Eb                 Cm        F
+E|-----------------8---------------------------------------8--8--8-|
+B|-8-8-6--8-6-8/10---10-10--8-8-6--8-6-6-------4-6-4-6-6-10-10-10--|
+G|----------------------------------------8----5-5-5-5-5-----------|2x
+D|-----------------------------------------------------------------|
+A|-----------------------------------------------------------------|
+E|-----------------------------------------------------------------|
+
+riff 1
+Dm G Bb
+  Era sempre:
+             Eb
+-Não foi por mal.
+   Cm
+Eu juro que nunca
+                       F
+quis deixar você tão triste
+Dm                   G
+Sempre as mesmas desculpas
+Bb              Eb
+E desculpas nem sempre
+       Cm
+são sinceras
+       F
+Quase nunca são
+
+  (Dm Bb F)
+Preparei a minha tela
+Com pedaços de lençóis
+Que não chegamos a sujar
+A armação fiz com madeira
+Da janela do seu quarto
+Do portão da sua casa
+Fiz paleta e cavalete
+E com lágrimas que não brincaram com você
+Destilei óleo de linhaça
+E da sua cama arranquei pedaços
+Que talhei em estiletes de tamanhos diferentes
+E fiz então
+Pincéis com seus cabelos
+Fiz carvão do batom
+Que roubei de você
+E com ele marquei
+Dois pontos de fuga
+E rabisquei no horizonte
+
+ riff 1
+    (Dm G Bb)                Eb                 Cm        F
+E|-----------------8---------------------------------------8--8--8-|
+B|-8-8-6--8-6-8/10---10-10--8-8-6--8-6-6-------4-6-4-6-6-10-10-10--|
+G|----------------------------------------8----5-5-5-5-5-----------|2x
+D|-----------------------------------------------------------------|
+A|-----------------------------------------------------------------|
+E|-----------------------------------------------------------------|
+
+riff 1
+Dm G Bb
+  Era sempre:
+
+  Eb
+- Não foi por mal.
+   Cm
+Eu juro que não foi por mal.
+                          F
+Eu não queria machucar você:
+Prometo que isso nunca vai acontecer
+         Dm   G
+Mais uma vez
+Bb
+E era sempre, sempre o
+Eb        Cm
+mesmo novamente
+         F
+A mesma traição
+  (Dm Bb F)
+Às vezes é difícil esquecer:
+- Sinto muito, ela não mora mais aqui.
+Mas então porque eu finjo
+Que acredito no que invento?
+Nada disso aconteceu assim
+- Não foi desse jeito
+Ninguém sofreu:
+É só você que provoca
+Essa saudade vazia
+Tentando pintar essas flores com o nome
+De "amor-perfeito"
+E "não-te-esqueças-de-mim"
+
+Guitarra do final:
+E|--------------------------------|
+B|-6/8-8--6/8-8------7/8-8--6-5-6-|
+G|-7/9-9--7/9-9--9--6/9-9--7---7--| REPETIR ATÉ O FINAL
+D|--------------------------------|
+A|--------------------------------|
+E|--------------------------------|
+
+
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+Dm = X X 0 2 3 1
+Eb = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

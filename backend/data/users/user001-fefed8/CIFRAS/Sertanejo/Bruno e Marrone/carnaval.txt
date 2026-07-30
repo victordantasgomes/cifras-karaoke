@@ -1,0 +1,114 @@
+@titulo: carnaval
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Carnaval
+
+Intro: D G  Em A G D
+
+e|-----------------2-3-5-------5-7-5--5-7-5--|
+B|---3-5-7---3-5-7------5--3-3------8--------|
+G|-------------------------------------------|
+D|-------------------------------------------|
+A|-------------------------------------------|
+E|-------------------------------------------|
+
+                  Em7                   A9
+Só depois do carnaval, na maior cara de pau
+                  D9                    Em7
+Você vem me procurar, vem dizendo me perdoa
+                  G  A9                       D9
+Que ta tudo numa boa, que seu grande amor sou eu
+
+               Em7
+Tanta falta senti,
+           A9               D9
+E você por ai, sorrindo a toa
+              Em7
+Fantasiado me vi,
+
+                   A9           D9  A
+Palhaço que não sorri e nem perdoa
+   A/C#  D
+Carnaval
+                               A/C#  Bm7
+É a palavra que eu não quero escutar
+                          Bm7/A       G   D/F#
+Quando lembro só me dá vontade de chorar
+       Em           G              A
+Quatro dias, Quatro Noites te esperei aqui
+   A/C#  D
+Carnaval
+                   A/C#  Bm7
+Alegria, fantasias pra quê?
+                            Bm7/A        G
+Se eu não tive o melhor pra mim, que é você
+D/F#      Em            A
+Não quero mais me ver sofrer
+         D9
+Em outro carnaval.
+
+Solo: D G D
+
+e|-----------5-7-5--5-7-5--|
+B|---3-5-7--------8--------|
+G|---------4---------------|
+D|-------------------------|
+A|-------------------------|
+E|-------------------------|
+
+               Em7
+Tanta falta senti,
+           A9               D9
+E você por ai, sorrindo a toa
+              Em7
+Fantasiado me vi,
+                   A9           D9  A
+Palhaço que não sorri e nem perdoa
+   A/C#  D
+Carnaval
+                               A/C#  Bm7
+É a palavra que eu não quero escutar
+                          Bm7/A       G   D/F#
+Quando lembro só me dá vontade de chorar
+       Em           G              A
+Quatro dias, Quatro Noites te esperei aqui
+   A/C#  D
+Carnaval
+                   A/C#  Bm7
+Alegria, fantasias pra quê?
+                            Bm7/A        G
+Se eu não tive o melhor pra mim, que é você
+D/F#      Em            A
+Não quero mais me ver sofrer
+         G       Em  D
+Em outro carnaval.
+
+Solo: G Em D
+
+e|---3-5-7--3----5-7-5--5-7-5--|
+B|--------------------8--------|
+G|-----------------------------|
+D|-----------------------------|
+A|-----------------------------|
+E|-----------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+Bm7 = X 2 4 2 3 2
+Bm7/A = 5 2 4 2 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3

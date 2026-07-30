@@ -1,0 +1,124 @@
+@titulo: sobre-as-aguas
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Sobre As Águas
+
+Intro: A E/G# F#m   Bm7 E
+
+A7M                   F7M/A  G7/A
+  Estar aqui é sempre tão    difícil
+A7M                        F7M/A          G7/A
+  Olhar em volta e não ver mais que a escuridão
+A                     E/G#     F#m7
+ As ondas vem a cada dia sobre mim
+Bm7                  Esus4             E
+  Ventos incessantes não me deixam descansar
+
+D7M       A/C#       F#m7
+Mesmo assim estou de pé
+G7M      D/F#                       Esus4         E
+Não tenho nada além de um sonho e uma inesgotável fé
+D7M         A/C#              F#m7
+Isso me faz insistir em estar aqui
+G7M       D/F#                  Esus4     E
+Você sabe  eu quero fazer mais que apenas viver
+
+A7M                      E/G# F#m7  Bm7              E4 E
+Eu quero andar sobre as águas       sem medo de me afogar
+
+D                   A/C#         F#m
+Mesmo que os ventos me façam tremer
+                 D
+Olhando em teus olhos
+                    Eadd4 E                     A
+E segurando em Tuas mãos  eu sei que está tudo bem
+
+(arranjo piano) A7M   F7M/A   G7/A
+
+A7M                   F7M/A  G7/A
+As ondas tentam me desesperar
+A7M                   F7M/A  G7/A
+Me desacreditar
+A                     E/G#     F#m7
+Os ventos dizem que tudo isso é bobagem
+Bm7             Esus4  E
+E o que vale é a realidade
+D7M       A/C#       F#m7
+Mas em Tuas mãos eu posso ter
+G7M       D/F#                Esus4  E
+Força pra seguir e não olhar pra trás
+D7M                     A/C#     F#m7
+Só quero ouvir Tua doce voz a me dizer:
+G7M       D/F# Esus4  E
+"Vem sem medo  vem!"
+
+A7M                      E/G# F#m7  Bm7              Eadd4 E
+Eu quero andar sobre as águas       sem medo de me afogar
+D                   A/C#         F#m
+Mesmo que os ventos me façam tremer
+                 D
+Olhando em teus olhos
+                    Eadd4 E
+E segurando em Tuas mãos  eu sei
+
+D7M      E           Bm7
+sim  eu sei Não é ilusão
+   Bm7/A          E
+Pai Eu sei que nossos sonhos são reais
+D7M               A/C#           F#m7
+E quando tudo parecer tão frio e só
+                Bm7         Bm7/A         E    F G
+Me leve em Teus braços e me faz descansar
+C                       G/B Am7      F/A        Gsus4 G
+Eu quero andar sobre as águas sem medo de me afogar
+F/A                    C        Am7/4
+Mesmo que os ventos me façam tremer
+                Dm7
+Olhando em teus olhos
+        Dm7/C             G               C9     C4/G#
+E segurando em Tuas mãos  eu sei que está tudo bem
+    C9   G#6 Gm11
+Tudo bem
+                        C9
+Eu quero andar sobre as águas
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7M = X 0 2 1 2 0
+Am7 = X 0 2 0 1 0
+Am7/4 = 5 X 5 5 3 X
+Bm7 = X 2 4 2 3 2
+Bm7/A = 5 2 4 2 3 2
+C = X 3 2 0 1 0
+C4/G# = 4 X 5 5 5 X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7M = X X 0 2 2 2
+Dm7 = X 5 7 5 6 5
+Dm7/C = X 3 0 2 1 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+Eadd4 = 0 2 2 2 0 0
+Esus4 = 0 2 2 2 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F/A = 5 X 3 5 6 X
+F7M/A = 5 X 3 5 5 X
+G = 3 2 0 0 0 3
+G#6 = 4 X 3 5 4 X
+G/B = X 2 0 0 3 3
+G7M = 3 X 4 4 3 X
+Gm11 = 3 X 0 3 1 X
+Gsus4 = 3 5 5 5 3 3

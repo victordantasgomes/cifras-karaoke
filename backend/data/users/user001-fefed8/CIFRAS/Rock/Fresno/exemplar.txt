@@ -1,0 +1,87 @@
+@titulo: exemplar
+@autor:
+@intérprete: Fresno
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fresno - Exemplar
+
+Intro:
+(guitarra sem distorção)
+Em C9 D
+Em C9 D <- riff 1
+
+* riff 1
+G|--5--4-----------
+D|-------7-5---7-4-
+
+entra guitarra com distorção
+(E5 C5 B5  E5 C5 B5  C5 <- riff 2)
+
+* riff 2
+      C5
+B|-------3--
+G|----------
+D|--4-5-----
+
+* riff 3
+        C5              E5
+G|-------7-5---------7--4--------
+D|--4-5------(2x)--5-------(2x)--
+
+
+(E5 C5)
+Opniões descompassadas
+Você bem sabe qual é
+o meu papel como homem
+e o seu como mulher
+
+de estar sempre ao meu lado
+assim como eu estou do seu
+Tudo é sem significado
+como Cristo a um ateu
+
+(C5 E5) <- riff 3
+
+Eu não vou mais negar
+que eu não sou exemplar
+E é ruim de acreditar
+que eu fui capaz de errar
+tantas vezes...
+
+(E5 C5 B5  E5 C5 B5  C5)
+E a cada chance que eu perdi
+de dizer que foi um engano
+Antigamente eramos um
+mas hoje somos dois estranhos
+sem nada a dizer
+
+(E5 C5 B5  E5 C5 B5  C5)
+(E5 C5)
+
+(C5 E5)
+E eu não vou mais negar
+que eu nao sou um cara muito exemplar
+E é ruim de acreditar
+que eu fui capaz de errar
+
+(E5 C5 B5  E5 C5 B5  C5)
+E a cada chance que eu perdi
+de dizer que eu te amo
+que antigamente eramos um
+mas hoje somos dois estranhos
+sem nada a dizer
+
+----------------- Acordes -----------------
+B5 = X 2 4 4 X X
+C5 = X 3 5 5 X X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+E5 = 0 2 2 X X X
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

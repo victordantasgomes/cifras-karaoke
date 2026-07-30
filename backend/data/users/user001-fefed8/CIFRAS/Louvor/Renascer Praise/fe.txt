@@ -1,0 +1,81 @@
+@titulo: fe
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Fé
+
+[Intro]  D+  A/C#   D+  F#m7   C+   F7+   Esus4  E
+         D+  A/C#   D+  F#m7   C+   F7+   Esus4  E
+
+F#m                             E/G#    A
+Fé... é a certeza do que não pode  se  ver
+        Am                   G/B     C
+A esperança que do céu vem pra acender
+              Bm7(5b)   E7          Am7    - Am/G    - D/F#
+Chama viva em nós, que move o coração ....          de Deus
+               Gm7    Bb/C  - C    F
+E traz à existência até o   impossível
+        F#m7(5b)                 C/G
+Fé que muda a historia de quem crê
+     E7/G#     E7          Am7
+E o tempo faz até retroceder
+     C/G       F             Esus4   E7   A   D/E - E
+Pela fé tenho forças para tocar em       Deus
+
+     A             C#m7        F#m A/E
+Pela fé  eu posso ver o impossível
+         D         A/C#          Bm7            Esus4 - E
+Já me enxergo no milagre, que eu sei que vou viver
+
+     A           C#7        F#m7
+É a fé que me protege do inimigo
+      D            A/C#     D     E      F#m7
+Pela fé eu  vou lutar pela fé eu vou vencer
+     Bm7         Esus4    - E7    ( A/D A/C# C9 Esus4 )
+Pela fé em ti Jesus,       vou viver
+
+( D+  A/C#   D+  F#m7   C+  F7+   Esus4  E )
+
+D+  A/C#     D+   F#m7     C+     F7+    Esus4      E
+A Le  lu  ia    A Le  lu  ia      A le      lu    -      ia
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/D = X X 0 6 5 5
+A/E = 0 X 2 2 2 0
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+Bb/C = X 3 X 3 3 1
+Bm7 = X 2 4 2 3 2
+Bm7(5b) = X 2 3 2 3 X
+C = X 3 2 0 1 0
+C#7 = X 4 3 4 2 X
+C#m7 = X 4 6 4 5 4
+C+ = X 3 2 1 1 X
+C/G = 3 3 2 X 1 X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D+ = X 5 4 3 3 X
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+E7/G# = 4 X 2 4 3 X
+Esus4 = 0 2 2 2 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7(5b) = 2 X 2 2 1 X
+F7+ = 1 X 2 2 1 X
+G/B = X 2 0 0 3 3
+Gm7 = 3 X 3 3 3 X

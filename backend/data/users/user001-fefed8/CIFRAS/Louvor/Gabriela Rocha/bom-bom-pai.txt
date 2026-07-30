@@ -1,0 +1,74 @@
+@titulo: bom-bom-pai
+@autor:
+@intérprete: Gabriela Rocha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gabriela Rocha - Bom, Bom Pai
+
+[Intro] E5  C#m7  A9  B4
+
+                   A9
+Tu es um bom, bom pai
+          E           C#m7            B9
+É quem tu és, é quem tu és, é quem tu és
+                    A9
+E eu sou amado por ti
+           E              C#m7           B9
+É quem eu sou, é quem eu sou, é quem eu sou
+
+           A9
+Tu es um bom, bom pai
+          E           C#m7            B9
+É quem tu és, é quem tu és, é quem tu és
+                    A9
+E eu sou amado por ti
+           E              C#m7           B9
+É quem eu sou, é quem eu sou, é quem eu sou
+
+       A9                E
+Es perfeito em tudo que faz
+
+       C#m7              B9   G#m
+Es perfeito em tudo que faz
+       A9               C#m7     B9
+Es perfeito em tudo que faz, pra nós
+
+                  A9
+Tu es um bom, bom pai
+          E           C#m7            B9
+É quem tu és, é quem tu és, é quem tu és
+          G#m          A9
+E eu sou amado por ti
+           E              C#m7           B9
+É quem eu sou, é quem eu sou, é quem eu sou
+
+      A9                E
+Es perfeito em tudo que faz
+       C#m7              B9
+Es perfeito em tudo que faz
+       A9               C#m7     B9
+Es perfeito em tudo que faz, pra nós
+
+                   A9
+Tu es um bom, bom pai
+          E           C#m7            B9
+É quem tu és, é quem tu és, é quem tu és
+                    A9
+E eu sou amado por ti
+           E              C#m7           B9
+É quem eu sou, é quem eu sou, é quem eu sou
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B4 = X 2 4 4 5 2
+B9 = X 2 4 4 2 2
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+F#m7 = 2 X 2 2 2 X

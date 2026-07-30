@@ -1,0 +1,31 @@
+@titulo: pelo-som-do-meu-coracao
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Pelo som do meu coração
+
+Intro: (Dm) dedilhado: (DFEFD)
+
+Dm Am C Dm
+Pelo som do meu coração, pulsação que é de viver
+Bb Am C Dm
+Dos meus olhos vive a emoção, sigo a tua luz que ilumina o chão
+Dm Am C Dm
+Pelo som do meu coração a certeza que tu estás
+Bb Am C Dm
+ao meu lado nessa imensidão, desejo maior, tua criação
+Bb Am C Dm
+Pelo som que sai dentro de mim, te amo demais, o amor sem fim!
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1

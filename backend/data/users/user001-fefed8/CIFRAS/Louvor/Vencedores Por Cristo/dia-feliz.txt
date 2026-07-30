@@ -1,0 +1,60 @@
+@titulo: dia-feliz
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Dia Feliz
+
+Intro:  C   F 
+
+C               F      Am
+DIA FELIZ DE UM RAPAZ, SONHOS DE AMOR DA MENINA 
+                  G                   C     Fm7
+FLORES CANTIGAS E PAZ NA UNIÃO DESTAS VIDAS 
+C                      F   Am
+QUEM TEM AS FESTAS E A LUZ GENTE BARULHO NA AR 
+                G               C   C7
+CHEGA O AMIGO JESUS PARA PARTICIPAR 
+ 
+F                  G/F Bm5-/7      E7       Am
+MAS DE REPENTE FALTOU VINHO QUE A FESTA ALEGRAVA 
+  F#º                 F    G
+E MÃE DE JESUS LHE AVISOU: EIS QUE A BEBIDA SE ACABA 
+C                   F   Am
+AI COMO É TRISTE CHEGAR AO FIM DE TODA ALEGRIA 
+                      G                   C   Fm7
+NÃO TER MAIS COMO BRINDAR A BELEZA E A POESIA 
+C               F     Am
+LOGO CHAMARAM JESUS E ELE ORDENOU NUM INSTANTE 
+                  G                   C   C7
+ENCHAM DE ÁGUA AS TALHAS E SIRVAM ADIANTE 
+ 
+F                     G/F Bm5-/7 E7          Am
+EIS QUE UM MILAGRE SE FEZ A ÁGUA SE TRANSFORMOU 
+F#º               F     G                C
+TEM VINHO AINDA MELHOR  TODA ALEGRIA VOLTOU 
+F                     G/F Bm5-/7 E7          Am
+EIS QUE UM MILAGRE SE FEZ A ÁGUA SE TRANSFORMOU 
+F#º               F     G                C ( F C F )
+TEM VINHO AINDA MELHOR  TODA ALEGRIA VOLTOU 
+ 
+C               F       Am
+ DIA FELIZ DE UM RAPAZ, SONHOS DE AMOR DA MENINA
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm5-/7 = X 2 3 2 3 X
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+F#º = 2 X 1 2 1 X
+Fm7 = 1 X 1 1 1 X
+G = 3 2 0 0 0 3
+G/F = 1 X X 0 0 3

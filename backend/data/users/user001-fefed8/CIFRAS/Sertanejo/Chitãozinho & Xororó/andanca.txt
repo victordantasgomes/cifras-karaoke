@@ -1,0 +1,77 @@
+@titulo: andanca
+@autor:
+@intérprete: Chitãozinho & Xororó
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Chitãozinho & Xororó - Andança
+
+Intro: (A7M  F7M)
+
+A7M               F7M                 Bb7M         Bm5-/7   E7
+Vim, tanta areia andei, da lua cheia eu sei, uma saudade imensa
+A7M                  F7M              Bb7M
+Vagando em verso, eu vim vestido de cetim,
+                Bm5-/7  E7    A   A9 A
+Na mão direita   ro.....sas   vou levar
+A                                                        B7
+Olho a lua mansa a se derramar, ao luar descansa meu caminhar
+                         Bm7                                 E
+Seu olhar em festa se fez feliz lembrando a seresta que um dia eu fiz
+                          A
+Por onde for quero ser seu par
+A                                                          B7
+Já me fiz a guerra por não saber que esta terra encerra meu bem querer
+                      Bm7                                 E
+E jamais termina meu caminhar só o amor ensina onde vou chegar
+                          A
+Por onde for quero ser seu par
+A7M               F7M              Bb7M
+Rodei de roda, andei, dança da moda eu sei
+
+      Bm5-/7   E7   E
+Cansei de ser sozinho
+A7M              F7M                Bb7M
+Verso encantado usei, meu namorado é rei
+            Bm5-/7    E7  A    A9  A
+Nas lendas do cami....nho onde andei
+A                                                          B7
+No passo da estrada só faço andar, tenho a minha amada a me acompanhar
+                                  Bm7
+Vim de longe, léguas, cantando eu vim,
+                                 E
+Vou não faço tréguas sou mesmo assim
+                          A
+Por onde for quero ser seu par
+
+         E----e
+
+F7M    = 003210
+Bb7M   = 113231
+Bm5-/7 = 023230
+Bm7    = 224232
+B7     = 021202
+A      = 002220
+A9     = 002200
+E      = 022100
+E7     = 020100
+
+*** Mari, te amo ***
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7M = X 0 2 1 2 0
+A9 = X 0 2 2 0 0
+B7 = X 2 1 2 0 2
+Bb7M = X 1 3 2 3 1
+Bm5-/7 = X 2 3 2 3 X
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F7M = 1 X 2 2 1 X

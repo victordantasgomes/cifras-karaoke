@@ -1,0 +1,140 @@
+@titulo: giz
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Giz
+
+[Intro] D4  A  D4  A  D4  E  D4  A
+        D4  A  D4  A  D4  E  D4  A
+
+[Riff 1]
+
+   D4    A     D4    A     D4    E       D4    A
+E|-----2-0---------2-0---------2----4--------2-0-----|
+B|---3------2----3------2----3---0----3----3------2--|
+G|-2-----------2-----------2-------------2-----------|
+D|---------------------------------------------------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+[Primeira Parte]
+
+D4 A   D4    A
+    E mesmo sem te ver
+D4     E          D4       A
+  Acho até que estou indo bem
+D4     A         D4       A
+  Só apareço por assim dizer
+
+D4        E
+  Quando convém
+D4    A
+Aparecer
+
+[Refrão]
+
+            E/G# F#m D
+Ou quando que_____ro
+         A   E/G#    F#m D
+Quando que__________ro
+
+[Riff 2]
+
+    A          E/G#         F#m          D
+E|-----9----9----9-12-9-----------9-----------10-----|
+B|-10---10----9--------10-----10----10-----10----10--|
+G|-------------------------11-----------11-----------|(2x)
+D|---------------------------------------------------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+[Segunda Parte]
+
+Bm      D4           E F#m
+  Desenho toda a calçada
+         Bm       D4        E      F#m
+Acaba o giz, tem tijolo de construção
+              Bm D4                E
+Eu rabisco o sol   que a chuva apagou
+
+D4       A        D4       A
+ Quero que saibas  que me lembro
+D4      E          D4     A
+ Queria até que pudesses me ver
+D4      A        D4        A
+ És parte ainda do que me faz forte
+D4          E
+ E pra ser honesto
+           D4      A
+Só um pouquinho infeliz
+
+[Riff 3]
+
+     Bm    D4      E       A       Bm    D4      
+E|----------2-------0-------5-------------2----------|
+B|-----3------3-------0-------5------3------3--------|
+G|---4---2---------------6---------4---2-------------|
+D|-4-------------2---------------4-------------2-----|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+   E       F#m             Bm          D4      E
+E|-0-------2--------------------------------2------4-|
+B|---0-------2------2---2--------3------3----3-5----5|
+G|------2------2--2---2-------4----4-----------------|
+D|-------------------------4-------------------------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+[Refrão]
+
+A          E/G#
+ Mas tudo bem
+      F#m       D
+Tudo bem, tudo bem
+A          E/G#
+ Mas tudo bem
+      F#m       D
+Tudo bem, tudo bem
+
+[Segunda Parte]
+
+    Bm      D4      E
+Lá vem, lá vem, lá vem
+    F#m
+De novo
+Bm     D4          E       F#m
+Acho que estou gostando de alguém
+        Bm     D4            E
+E é de ti que não me esquecerei
+
+( A  E/G#  F#m  D4)
+
+      A  E/G#  F#m  D
+Tudo bem
+      A  E/G#  F#m  D
+Tudo bem
+
+( A  E/G#  F#m  D4 )
+
+A                  E/G#        F#m  D4 A
+Acho que estou gostando de alguém
+
+
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/G# = 4 X 2 2 2 X
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,352 @@
+import { useEffect, useMemo, useRef, useState } from 'react'
+import { useNavigate, useParams } from 'react-router-dom'
+import { useQuery } from '@tanstack/react-query'
+import api from '../services/api'
+import { usePlaylistStore } from '../store/playlistStore'
+import { useZoomStore } from '../store/zoomStore'
+import { useHotkeys } from '../hooks/useHotkeys'
+
+const CHORD_LIKE = new Set(['acorde', 'solo', 'riff', 'tab'])
+const MIN_RATE = 0.5
+const MAX_RATE = 2
+const MIN_DURATION_MS = 3000
+
+function formatTime(totalSeconds) {
+  const s = Math.max(0, Math.round(totalSeconds))
+  const m = Math.floor(s / 60)
+  const r = s % 60
+  return `${m}:${String(r).padStart(2, '0')}`
+}
+
+/**
+ * PLAYER MODO ROLAGEM (padrão de @modoexecucao) — tela cheia, fundo preto.
+ * Rola a página com a cifra inteira (letra, acordes, solos, riffs,
+ * tablaturas, observações normais — mesma filtragem de `visivel` do modo
+ * karaokê, ver backend/services/karaoke_service.py::payload) do início ao
+ * fim, SEM trocar a cor de nenhum caractere: branco (cor padrão) para
+ * letra/observações, âmbar para acordes/solos/riffs/tablaturas — ao
+ * contrário do modo Karaokê (KaraokeStage.jsx), nenhuma linha "ativa" é
+ * destacada aqui.
+ *
+ * Duas frentes de sincronismo pro avanço da rolagem:
+ *  - `hasAudio` (há faixa de referência enviada, ver AudioService): a
+ *    rolagem segue o `currentTime` real do elemento `<audio>` (evento
+ *    `timeupdate`) — mesma faixa que toca no modo Karaokê, aqui tocando
+ *    junto com a rolagem em vez de linha a linha. Play/pause, velocidade
+ *    (`rate`) e busca (clique na barra de progresso, scroll manual) todos
+ *    agem sobre o elemento `<audio>`, não sobre um cronômetro.
+ *  - modo legado (sem áudio): cronômetro fixo baseado em `@tempoexecucao`
+ *    (ou estimativa), como sempre funcionou — inalterado.
+ * `getElapsedMs`/`seekToMs` abstraem qual das duas frentes está no comando,
+ * então o resto do componente (scroll, progress bar, hotkeys) não precisa
+ * saber a diferença.
+ *
+ * A rolagem usa `scrollTop` de verdade em `.scroll-viewport` (não um
+ * `translateY` fake) — assim o músico ganha de graça o scroll do mouse e a
+ * barra de rolagem nativa da tela pra avançar/voltar na música manualmente,
+ * além das setas ↑/↓ (ver `nudgeScroll`/hotkeys abaixo). `applyOffset`
+ * escreve `scrollTop` a cada atualização de posição (marcando
+ * `programmaticScroll` pra `handleUserScroll` não confundir com scroll do
+ * usuário); qualquer scroll que NÃO passou por `applyOffset` é do usuário —
+ * `handleUserScroll` então busca (seek) pra posição nova, de forma que
+ * retomar o play (ou a faixa de áudio) continua dali, sem saltar de volta.
+ */
+export default function ScrollPlayer({ data }) {
+  const { slug } = useParams()
+  const navigate = useNavigate()
+  const playlist = usePlaylistStore()
+  const { zoom, zoomIn, zoomOut } = useZoomStore()
+  const hasAudio = Boolean(data.has_audio)
+  const [playing, setPlaying] = useState(false)
+  const [controlsVisible, setControlsVisible] = useState(true)
+  const [rate, setRate] = useState(1)
+  const [elapsedDisplay, setElapsedDisplay] = useState(0)
+  const [audioDuration, setAudioDuration] = useState(null)
+  const [audioReady, setAudioReady] = useState(false)
+  const stageRef = useRef(null)
+  const viewportRef = useRef(null)
+  const sheetRef = useRef(null)
+  const progressFillRef = useRef(null)
+  const hideTimer = useRef(null)
+  const audioRef = useRef(null)
+  const elapsedRef = useRef(0) // ms decorridos no modo legado (sem áudio)
+  const intervalRef = useRef(null)
+  const programmaticScroll = useRef(false) // true enquanto applyOffset() está escrevendo scrollTop
+
+  const inPlaylist = playlist.active && playlist.queue[playlist.index]?.song?.slug === slug
+  const canPlay = !hasAudio || audioReady
+
+  // a rota /karaoke/:slug não desmonta este componente ao trocar de música
+  // dentro de uma playlist com duas músicas seguidas em modo rolagem (mesmo
+  // elemento de rota, mesmo tipo de componente) — precisa resetar
+  // manualmente o que é específico da faixa anterior a cada troca de slug.
+  useEffect(() => {
+    elapsedRef.current = 0
+    setElapsedDisplay(0)
+    setPlaying(false)
+    setRate(1)
+    setAudioDuration(null)
+    setAudioReady(false)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [slug])
+
+  // faixa de referência: buscada como Blob (autenticado via axios — o store
+  // do Vercel Blob é privado, então o backend faz a leitura autenticada e
+  // devolve os bytes, igual fazia com o disco local antes), só quando a
+  // música tem áudio. Nunca refetcha sozinha (foco de janela etc.): trocar
+  // o <audio src> no meio de uma apresentação reseta a reprodução pro início.
+  const { data: audioBlob } = useQuery({
+    queryKey: ['karaoke-audio', slug],
+    queryFn: () => api.get(`/songs/${slug}/audio`, { responseType: 'blob' }).then((r) => r.data),
+    enabled: hasAudio,
+    staleTime: Infinity,
+    refetchOnWindowFocus: false,
+    refetchOnReconnect: false,
+  })
+
+  useEffect(() => {
+    if (!audioBlob || !audioRef.current) return undefined
+    const url = URL.createObjectURL(audioBlob)
+    audioRef.current.src = url
+    setAudioReady(true)
+    return () => URL.revokeObjectURL(url)
+  }, [audioBlob])
+
+  const totalMs = useMemo(() => {
+    if (hasAudio) return audioDuration ? audioDuration * 1000 : 0
+    const seg = data.tempo_execucao_segundos
+    if (seg != null && seg > 0) return seg * 1000
+    return Math.max(MIN_DURATION_MS, data.lines.length * data.ms_per_line)
+  }, [data, hasAudio, audioDuration])
+
+  // ms decorridos, venha de onde vier (áudio real ou cronômetro legado)
+  const getElapsedMs = () => (hasAudio ? (audioRef.current?.currentTime || 0) * 1000 : elapsedRef.current)
+
+  const applyOffset = () => {
+    const viewport = viewportRef.current
+    const sheet = sheetRef.current
+    if (!viewport || !sheet) return
+    const maxOffset = Math.max(0, sheet.scrollHeight - viewport.clientHeight)
+    const frac = totalMs > 0 ? Math.min(1, getElapsedMs() / totalMs) : 0
+    const targetTop = frac * maxOffset
+    if (Math.abs(viewport.scrollTop - targetTop) > 0.5) {
+      programmaticScroll.current = true
+      viewport.scrollTop = targetTop
+    }
+    if (progressFillRef.current) progressFillRef.current.style.width = `${frac * 100}%`
+  }
+
+  // busca (seek) pra uma posição em ms — no elemento <audio> real quando a
+  // música tem faixa, ou no cronômetro (elapsedRef) no modo legado.
+  const seekToMs = (ms) => {
+    const clamped = Math.max(0, Math.min(totalMs || 0, ms))
+    if (hasAudio) {
+      if (audioRef.current) audioRef.current.currentTime = clamped / 1000
+    } else {
+      elapsedRef.current = clamped
+    }
+    setElapsedDisplay(clamped / 1000)
+    applyOffset()
+  }
+
+  useEffect(() => { applyOffset() }, []) // eslint-disable-line
+
+  // o zoom muda o font-size do texto, logo a altura total da cifra
+  // (scrollHeight) — recalcula a posição em px pra não deslocar a rolagem
+  // quando o usuário aumenta/diminui o zoom no meio da música
+  useEffect(() => { applyOffset() }, [zoom]) // eslint-disable-line
+
+  // scroll do mouse, arrasto na barra de rolagem, ou nudgeScroll (setas) —
+  // qualquer scrollTop que não veio de applyOffset() é o músico navegando
+  // manualmente; busca (seek) pra posição nova, real ou do cronômetro.
+  const handleUserScroll = () => {
+    if (programmaticScroll.current) { programmaticScroll.current = false; return }
+    const viewport = viewportRef.current
+    const sheet = sheetRef.current
+    if (!viewport || !sheet || !totalMs) return
+    const maxOffset = Math.max(0, sheet.scrollHeight - viewport.clientHeight)
+    const frac = maxOffset > 0 ? viewport.scrollTop / maxOffset : 0
+    seekToMs(Math.max(0, Math.min(1, frac)) * totalMs)
+  }
+
+  // avança/volta a rolagem por uma fração da tela — usado pelas setas
+  // ↑/↓ (não existe scroll nativo por teclado sem o elemento estar focado)
+  const nudgeScroll = (deltaFrac) => {
+    const viewport = viewportRef.current
+    const sheet = sheetRef.current
+    if (!viewport || !sheet) return
+    const maxOffset = Math.max(0, sheet.scrollHeight - viewport.clientHeight)
+    viewport.scrollTop = Math.max(0, Math.min(maxOffset, viewport.scrollTop + deltaFrac * viewport.clientHeight))
+  }
+
+  const goNextSong = () => {
+    const nextSlug = playlist.advance()
+    if (nextSlug) navigate(`/karaoke/${nextSlug}`, { replace: true })
+    else navigate(`/setlists/${playlist.setlistId}`)
+  }
+  const goPrevSong = () => {
+    const prevSlug = playlist.back()
+    if (prevSlug) navigate(`/karaoke/${prevSlug}`, { replace: true })
+  }
+  const stopPlaylist = () => {
+    playlist.stop()
+    navigate(`/setlists/${playlist.setlistId}`)
+  }
+  const onSongEnd = () => {
+    setPlaying(false)
+    if (inPlaylist) goNextSong()
+  }
+
+  // laço de rolagem legado (sem áudio): avança `elapsedRef` pelo tempo real
+  // decorrido entre ticks × velocidade — setInterval (não
+  // requestAnimationFrame) porque uma apresentação ao vivo não pode
+  // congelar a rolagem se a aba perder o foco (rAF pausa por completo em
+  // abas em segundo plano; setInterval só sofre throttling, continua
+  // avançando). O cálculo por delta real (não um incremento fixo de 100ms)
+  // absorve esse throttling sem perder tempo. Com áudio real, quem avança a
+  // rolagem é o evento `timeupdate` do `<audio>` (ver efeito abaixo).
+  useEffect(() => {
+    if (!playing || hasAudio) return undefined
+    let last = Date.now()
+    intervalRef.current = setInterval(() => {
+      const now = Date.now()
+      const dt = now - last
+      last = now
+      elapsedRef.current = Math.min(totalMs, elapsedRef.current + dt * rate)
+      applyOffset()
+      setElapsedDisplay(elapsedRef.current / 1000)
+      if (elapsedRef.current >= totalMs) {
+        clearInterval(intervalRef.current)
+        onSongEnd()
+      }
+    }, 100)
+    return () => clearInterval(intervalRef.current)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [playing, hasAudio, rate, totalMs, inPlaylist])
+
+  // com áudio real: a rolagem segue o currentTime de verdade a cada
+  // `timeupdate` (dispara continuamente durante a reprodução)
+  useEffect(() => {
+    const audio = audioRef.current
+    if (!hasAudio || !audio) return undefined
+    const onTimeUpdate = () => {
+      applyOffset()
+      setElapsedDisplay(audio.currentTime)
+    }
+    audio.addEventListener('timeupdate', onTimeUpdate)
+    return () => audio.removeEventListener('timeupdate', onTimeUpdate)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [hasAudio, totalMs])
+
+  // play/pause da store (via `playing`) controla o elemento <audio> de verdade
+  useEffect(() => {
+    if (!hasAudio || !audioRef.current) return
+    if (playing) audioRef.current.play().catch(() => setPlaying(false))
+    else audioRef.current.pause()
+  }, [hasAudio, playing])
+
+  // velocidade (`rate`, mesmo controle −/+ dos dois modos) também rege o
+  // <audio> de verdade quando ele existe
+  useEffect(() => {
+    if (hasAudio && audioRef.current) audioRef.current.playbackRate = rate
+  }, [hasAudio, rate])
+
+  const poke = () => {
+    setControlsVisible(true)
+    clearTimeout(hideTimer.current)
+    hideTimer.current = setTimeout(() => setControlsVisible(false), 2500)
+  }
+  useEffect(() => { poke(); return () => clearTimeout(hideTimer.current) }, [])
+
+  const toggleFullscreen = () => {
+    if (document.fullscreenElement) document.exitFullscreen()
+    else stageRef.current?.requestFullscreen?.()
+  }
+
+  const togglePlay = () => { if (canPlay) setPlaying((p) => !p) }
+  const restart = () => seekToMs(0)
+  const adjustRate = (delta) => setRate((r) => Math.min(MAX_RATE, Math.max(MIN_RATE, +(r + delta).toFixed(2))))
+  const seekToFraction = (frac) => seekToMs(Math.max(0, Math.min(1, frac)) * totalMs)
+
+  useHotkeys({
+    Space: togglePlay,
+    ArrowUp: () => nudgeScroll(-0.2),
+    ArrowDown: () => nudgeScroll(0.2),
+    r: restart,
+    R: restart,
+    Escape: () => navigate(-1),
+    f: toggleFullscreen,
+    F: toggleFullscreen,
+    '+': zoomIn,
+    '=': zoomIn,
+    '-': zoomOut,
+    '_': zoomOut,
+    // totalMs entra nas deps porque, com áudio, ele começa em 0 e só vira o
+    // valor real quando os metadados carregam (onLoadedMetadata) — sem
+    // isso, restart() (via seekToMs) ficaria preso usando um totalMs de 0
+    // (closure velha) até a próxima mudança de canPlay.
+  }, [canPlay, totalMs])
+
+  return (
+    <div ref={stageRef}
+      className={`karaoke-stage${controlsVisible ? ' controls-visible' : ''}`}
+      style={{ '--k-zoom': zoom }}
+      onMouseMove={poke} onClick={poke}>
+
+      {hasAudio && (
+        <audio ref={audioRef} preload="auto"
+          onLoadedMetadata={(e) => setAudioDuration(e.target.duration)}
+          onEnded={onSongEnd} />
+      )}
+
+      <div className="k-header">
+        <div>
+          {inPlaylist && <>Setlist: {playlist.setlistNome} · música {playlist.index + 1}/{playlist.queue.length} · </>}
+          {data.titulo} — {data.interprete} {data.tom && <>· Tom: {data.tom}</>} · 📜 rolagem
+        </div>
+        <div>
+          {formatTime(elapsedDisplay)} / {formatTime(totalMs / 1000)} · {rate.toFixed(1)}x · zoom {Math.round(zoom * 100)}%
+          {hasAudio && !audioReady && ' · carregando áudio…'}
+        </div>
+      </div>
+
+      <div className="scroll-viewport" ref={viewportRef} onScroll={handleUserScroll}>
+        <div className="scroll-sheet" ref={sheetRef}>
+          {data.lines.map((l, i) => (
+            <div key={i} className={`scroll-line${CHORD_LIKE.has(l.tipo) ? ' chord' : ''}`}>
+              {l.text || ' '}
+            </div>
+          ))}
+        </div>
+      </div>
+
+      <div className="k-progress audio-mode"
+        onClick={(e) => {
+          const rect = e.currentTarget.getBoundingClientRect()
+          seekToFraction((e.clientX - rect.left) / rect.width)
+        }}>
+        <div ref={progressFillRef} />
+      </div>
+
+      <div className="k-controls no-print">
+        {inPlaylist && (
+          <button className="btn" onClick={goPrevSong} disabled={playlist.index === 0} title="Música anterior">⏮</button>
+        )}
+        <button className="btn" onClick={restart} title="Reiniciar (R)">⟲</button>
+        <button className="btn primary" onClick={togglePlay} disabled={!canPlay} title="Play/Pause (Espaço)">
+          {playing ? 'Pausar' : 'Tocar'}
+        </button>
+        <button className="btn" onClick={() => adjustRate(-0.1)} title="Mais lento">−</button>
+        <button className="btn" onClick={() => adjustRate(0.1)} title="Mais rápido">+</button>
+        <button className="btn" onClick={zoomOut} title="Diminuir zoom (-)">A−</button>
+        <button className="btn" onClick={zoomIn} title="Aumentar zoom (+)">A+</button>
+        {inPlaylist && <>
+          <button className="btn" onClick={goNextSong} title="Próxima música">⏭</button>
+          <button className="btn danger" onClick={stopPlaylist} title="Parar playlist">■</button>
+        </>}
+        <button className="btn" onClick={toggleFullscreen} title="Tela cheia (F)">⛶</button>
+        <button className="btn ghost" onClick={() => navigate(-1)} title="Voltar (ESC)">Sair</button>
+      </div>
+    </div>
+  )
+}

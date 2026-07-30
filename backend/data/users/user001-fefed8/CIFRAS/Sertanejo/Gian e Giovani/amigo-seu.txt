@@ -1,0 +1,60 @@
+@titulo: amigo-seu
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Amigo Seu
+
+D                        G
+ Eu sei é muito tarde, não é hora de chegar
+            D                        A7
+ Sei que estava me esperando pra jantar
+         D                            G
+ Mas eu tenho um bom motivo, sobre o que aconteceu
+        D           A7           D    G/A
+ É que hoje eu conheci um amigo seu
+      D                         G
+ Eu saí do meu trabalho, e num bar então passei
+       D                      A7
+ Eu pedi uma cerveja "e" junto à mesa me sentei
+           D                         G
+ Quando ouvi alguém dizer, seu nome bem ao lado meu
+      D             A7           D    D7
+ Foi aí que eu conheci um amigo seu
+       G                            F#m
+ Eu ouvi toda conversa,que eu não pensava ouvir jamais
+         E7                               A7            G    A7
+ E descobri que aquele estranho, te conhecia bem demais
+
+
+        D                   G
+ Não adianta chorar, não adianta sofrer
+       D                     A7
+ Você sabe muito bem, quem falava de você
+        D           D7           G               Gm
+ Vou embora agora é tarde,e a razão por que você me perdeu
+        D           A7           D    A7
+ É que hoje eu conheci um amigo seu
+
+ D7      G                            F#m
+   Eu ouvi toda conversa,que eu não pensava ouvir jamais
+         E7                               A7            G    A7
+ E descobri que aquele estranho, te conhecia bem demais
+
+(refrão)
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+Gm = 3 5 5 3 3 3

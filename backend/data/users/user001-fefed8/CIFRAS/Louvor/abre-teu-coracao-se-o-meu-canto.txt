@@ -1,0 +1,56 @@
+@titulo: abre-teu-coracao-se-o-meu-canto
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Abre Teu Coração (Se o Meu Canto)
+
+Intro: A C#m D E
+
+ A           C#m
+Se o meu canto,
+ D             E
+Não serve para anunciar
+A       C#m    D          E
+O encanto das coisas que Deus quer falar
+F#m      D  E                  A          C#m
+Eu te peço, esquece as minhas falhas tão comuns
+D                E            A C#m
+E ouve o que Deus tem pra te falar...
+D                  E            A (A C#m F#m)
+E ouve o que Deus tem pra te falar
+
+ F#m                              C#m
+Se a mensagem que eu transmito é dura,
+ D     A     F#m Bm        E
+Dê um desconto, torne-a pura.
+F#m           C#m         D
+Deus falou através de um gago
+
+A        F#m        Bm  E
+E disse tudo o que queria (Não importa não)
+
+ A        C#m  D               E
+Não importa a voz, o tom ou a canção,
+A         C#m    D            E
+O que eu sei é que já sinto a emoção
+F#m      D     E                   A       C#m
+Na certeza que um dia há de abrir seu coração
+  D       E           A          C#m
+Pra ouvir o que Deus tem pra te falar,
+  D       E           A
+Pra ouvir o que Deus tem pra te falar.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

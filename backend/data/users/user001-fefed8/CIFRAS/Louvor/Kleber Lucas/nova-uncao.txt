@@ -1,0 +1,59 @@
+@titulo: nova-uncao
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Nova Unção
+
+(intro) E F#M E/G# A9 B9 C#m7 B9 A9 B9 E/G# A9
+
+E            G#m7   D#     C#m7 G#m7   D#
+Eu quero me esvaziar de mim
+E       G#m7   D#       C#m7  B9 A9
+de toda vaidade e orgulho
+A9             E/G#        F#M
+eu quero quebrantar meu coração
+E              D             B9
+reconhecer que só tu és Senhor
+E            G#m7   D#     C#m7 G#m7   D#
+eu quero ter um coração limpo
+E             G#m7   D#  C#m7  B9 A9
+pois quero ver a tua face
+A9             E/G#        F#M
+eu quero estar atento à sua voz
+E              D             B9      E
+ser ovelha do Senhor, o meu pastor
+
+E F#M E/G# A        B9      E
+Eu reconheço que nasci de novo
+
+E F#M E/G# A        B9      C#m7
+mas necessito de uma nova unção, Senhor
+
+B9           A9
+ensina-me o teu caminho
+E/G#             A9
+da minha vida vou fazer
+E/G#         F#M
+mais de ti, Senhor
+A9 B9     E
+eu quero ser
+
+(solo) E F#M E/G# A9 B9 C#m7 B9 A9 B9 E/G# A9
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+G#m7 = 4 X 4 4 4 X

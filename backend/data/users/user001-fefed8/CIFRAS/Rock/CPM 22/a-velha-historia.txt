@@ -1,0 +1,77 @@
+@titulo: a-velha-historia
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - A Velha História
+
+Baixo: ( varias vezes )
+G|-------------------------------|
+D|--------2----------------------|
+A|----------3-3-2-0-------555-5--|
+E|--3-3-5-----------0-00---------|
+
+riff1
+                 3 vezes                       2 vezes
+e|--10-7-10-7-10-7-10-7-10-7--10-10/12--10-7-|-7-8-10--|
+B|-------------------------------------------|---------|                     
+G|-------------------------------------------|--essa---|  
+D|-------------------------------------------|--parte--|
+A|-------------------------------------------|----é----|
+E|-------------------------------------------|-+rápida-|
+
+riff 2:
+e|-7-8-7-|---7-----------------------------------------|
+B|-------|-10--10-8~--8-10-10/12-12-10-12-10-8-10--8~~-|                     
+G|-essa--|---------------------------------------------|
+D|-parte-|---------------------------------------------|
+A|---é---|---------------------------------------------|
+E|+rápida|---------------------------------------------|
+
+
+           ( G C E D )
+Vem cá, diz com está
+Faz tempo que agente não se vê,por isso resolvi ligar
+         ( G C E D )
+Vem cá, diz que vai dar
+Pra gente sair juntos, só me diz a hora, que eu vou te buscar
+C            D             G
+Te esperei por todos estes anos
+      E                     C      D
+E agora não vou mais me enganar
+ ( G C E D )
+Desde que eu te vi não paro de pensar
+Se não for você não vale nem tentar
+( G C E D )
+Desde que eu te vi não paro de pensar
+Se não for você não vale nem tentar
+RIFF1: (1X) RIFF2: (1X)
+         ( G C E D )
+Então ta, vou te buscar
+Agora a distancia não me importa mais, sei que vai rolar
+         ( G C E D )
+Então ta, vou te buscar
+Agora que nos encontramos, nunca mais vou te largar
+
+C            D              G
+Te esperei por todos estes anos
+      E                     C      D
+E agora não vou mais me enganar
+ ( G C E D )
+Desde que eu te vi não paro de pensar
+Se não for você não vale nem tentar
+( G C E D )
+Desde que eu te vi não paro de pensar
+Se não for você não vale nem tentar
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3

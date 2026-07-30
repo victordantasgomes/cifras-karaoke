@@ -1,0 +1,43 @@
+@titulo: santo(versão 2)
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Santo
+
+G
+Santo, Santo, Santo,
+Em
+Santo, Santo, Santo,
+C      Am          D D7
+Senhor Deus do universo.
+G               Em                 C  Am          D D7
+O céu e a terra,céu e a terra proclamam a Vossa glória.
+C    D  G   Em     C      D       G
+Hosana, Hosaana, Hosana nas alturas.
+C    D  G   Em     C      D       G
+Hosana, Hosana, Hosana nas alturas.
+G
+Bendito o que vem
+Em                   C Am  D     D7
+Bendito o que vem,em nome do Senhor.
+Em                   C Am  D     D7
+Bendito o que vem,em nome do Senhor.
+C    D  G   Em     C      D       G
+Hosana, Hosaana, Hosana nas alturas.
+C    D  G   Em     C      D       G
+Hosana, Hosana, Hosana nas alturas.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

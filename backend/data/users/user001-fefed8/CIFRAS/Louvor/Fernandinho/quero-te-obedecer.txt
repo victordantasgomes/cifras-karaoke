@@ -1,0 +1,46 @@
+@titulo: quero-te-obedecer
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Quero Te Obedecer
+
+(intro 2x) Em D/F# G A G/B C Em D/F#
+
+G     D/F#     Em            C
+Nova Criatura sou teu sangue me lavou
+G     D/F#     Em            C
+Tenho vestes de louvor minha vida restaurou
+Am                        Em
+Me tira do vale de ossos secos
+Am                     C     D
+Me leva a pastos verdejantes
+          G   D/F#  Em    C
+Quero te obedecer, obedecer
+          G               D/F#       Em    C
+Teus mandamentos são mais doce do que o mel
+           G   D/F#  Em    C
+Quero Te obedecer, obedecer
+       G     D/F#            Em     C
+Tua palavra me leva a Tua vontade
+
+( Em   D   G   A   G/B   C   Em   D ) (2x)
+
+
+(repete tudo)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

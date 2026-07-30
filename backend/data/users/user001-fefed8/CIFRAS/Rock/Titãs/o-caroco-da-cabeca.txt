@@ -1,0 +1,70 @@
+@titulo: o-caroco-da-cabeca
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - O Caroço da Cabeça
+
+( Marcelo Fromer / Nando Reis / Herbert Vianna )
+
+
+Introdução: (D D7 D6 D)
+
+Verso
+
+D         D7
+P'rá ver
+                     D6             D9
+Os olhos vão de bicicleta até enxergar
+D          D7
+P'rá ouvir
+                      D6           D9
+As orelhas dão os talheres de escutar
+D         D7
+P'rá dizer
+                        D6         D9
+Os lábios são duas almofadas de falar
+D
+P'rá sentir
+
+      D7                  D6           D
+As narinas não viram chaminés sem respirar
+     A
+P'ra ir
+                   G          D        D7 D6 D D D7 D6 D
+As pernas estão no automóvel sem andar
+
+(Repete o Verso)
+
+Refrão:
+
+      C
+E os ossos serão nossas sementes
+        D   C
+Sob o chão
+
+E dos ossos as novas sementes
+       E  E7 E6 E
+Que virão
+
+(Repete o Verso)
+
+(Solo sobre a harmonia da introdução)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D6 = X 5 4 2 0 X
+D7 = X X 0 2 1 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E6 = X X 2 4 2 4
+E7 = 0 2 2 1 3 0
+G = 3 2 0 0 0 3

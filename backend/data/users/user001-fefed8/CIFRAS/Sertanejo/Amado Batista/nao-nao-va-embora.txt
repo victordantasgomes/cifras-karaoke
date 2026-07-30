@@ -1,0 +1,37 @@
+@titulo: nao-nao-va-embora
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Não, Não Vá Embora
+
+Intro:  C  G  C  G  D  G
+
+G               D7     Am          Em
+Uma noite como esta tinha que se repetir
+C       D7            G
+É uma pena você ter que ir
+                          D7   Am              Em
+Diz como é que eu te encontro juro que eu vou atrás
+C            G           D7        G
+Olha eu não vou te esquecer nunca mais
+
+     G7          C               G
+Não, não vai embora não desapareça
+              D7        C    D7        G
+Pense nessa noite e nunca mais me esqueça.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

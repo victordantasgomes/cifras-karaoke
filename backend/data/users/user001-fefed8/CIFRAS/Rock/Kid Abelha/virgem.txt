@@ -1,0 +1,65 @@
+@titulo: virgem
+@autor:
+@intérprete: Kid Abelha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kid Abelha - Virgem
+
+de: Marina Lima/Antônio Cícero
+
+[Intro:] D A/C# Bm7
+
+D                A/C#       Bm7
+As coisas não precisam de você
+D             A/C# Bm7
+Quem disse que eu tinha que precisar
+           G         D9/F#
+As luzes brilham no Vidigal
+          F         D9/F#
+E não precisam de você
+G        D9/F# C              A7/4 A7
+Os dois irmãos também não precisam
+
+D9        A/C#          Bm7
+O hotel Marina quando acende
+D9            A/C#
+Não é por nós dois
+        Bm7
+Nem lembra o nosso amor
+
+       G           D9/F#
+Os inocentes do Leblon
+           F         D9/F#
+Esses nem sabem de você
+G            D9/F#          C  A4/7 A7
+E o farol da ilha só gira agora
+
+Bb9        Bm7(b5) F         G
+Por outros olhos e armadilhas
+Bb9    Bm7(b5) F         G
+Outros olhos e armadilhas
+D      Bb   F  G
+Outros olhos e armadilhas
+D      Bb      F    G    D A/C# Bm7
+Outros olhos e armadilhas
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A4/7 = X 0 2 0 3 0
+A7 = X 0 2 0 2 0
+Bb = X 1 3 3 3 1
+Bb9 = X 1 3 3 1 1
+Bm7 = X 2 4 2 3 2
+Bm7(b5) = X 2 3 2 3 X
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+D9/F# = 2 X 0 2 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

@@ -1,0 +1,61 @@
+@titulo: melhor-e-dar
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Melhor É Dar
+
+C               Am
+Melhor é dar do que receber
+F       C/E    D/F#        G
+Como jesus assim quero ser
+ F          C/E    E7          Am
+Dar quem pede, ao que tem fome
+F                       Em       Am
+Contudo é possível dar sem amar
+             Dm7     G        C
+Mas impossível amar sem dar
+
+C                    Am
+Dar minha vida, meu coração
+   F          C/E         D/F#    G
+A mão estendida de amor e perdão
+   F         C/E               E7      Am
+Assim foi jesus quando a vida nos deu
+    F                   Em        Am
+Contudo é possível dar sem amar
+           Dm7        G      C
+Mas impossível amar sem dar
+
+E/G#                Am       F      G7sus4  C
+Tanto deus me amou por isso ele    deu
+E/G#           Am       Am7/G   D/F#          G
+Não o que sobrou mas o melhor do que era seu
+  E7sus4      E7         Am        F      Gsus4    C
+Assim como deus me amou também eu quero amar
+   F                          Em       Am
+Pois sei que é possível dar sem amar
+           Dm7        G      C
+Mas impossível amar sem dar
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7/G = 3 0 2 0 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+D/F# = 2 X 0 2 3 2
+Dm7 = X 5 7 5 6 5
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+E7sus4 = 0 2 0 2 0 X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7sus4 = 3 5 3 5 3 X
+Gsus4 = 3 5 5 5 3 3

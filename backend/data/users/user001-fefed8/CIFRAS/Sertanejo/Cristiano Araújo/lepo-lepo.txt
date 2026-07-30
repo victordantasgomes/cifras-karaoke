@@ -1,0 +1,63 @@
+@titulo: lepo-lepo
+@autor:
+@intérprete: Cristiano Araújo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cristiano Araújo - Lepo Lepo
+
+Intro: A  E  F#m  D
+
+E|---5-5-5-5-4-4-4-2-4-2-5-2---|
+B|-----------------------------|
+G|-----------------------------|
+D|-----------------------------|
+A|-----------------------------|
+E|-----------------------------|
+
+
+A              E
+Ah, eu já não sei o que fazer
+ F#m                       D
+Duro, pé-rapado e com o salário atrasado
+A                 E
+Ah, eu não tenho mais pra onde correr
+ F#m                         D
+Já fui despejado, o banco levou o meu carro
+
+Pré-refrão:
+
+
+  Bm                    F#m
+Agora vou conversar com ela
+   A             E
+Será que ela vai   me querer
+  Bm                  F#m
+Agora vou saber a verdade
+         A                    E
+Se é dinheiro, ou é amor, ou cumplicidade
+
+Refrão:
+
+              A                E
+Eu não tenho carro, não tenho teto
+        F#m                 D
+E se ficar comigo é porque gosta
+        A           E              F#m
+Do meu ranranranranranranran lepo lepo
+D
+  É tão gostoso quando eu
+ A           E                F#m  D
+Ranranranranranranran o lepo lepo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

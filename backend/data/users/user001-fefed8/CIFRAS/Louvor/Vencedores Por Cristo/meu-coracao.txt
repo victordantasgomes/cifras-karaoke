@@ -1,0 +1,50 @@
+@titulo: meu-coracao
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Meu Coração
+
+E   B7   E        A        G#m C#m
+Meu coração transborda de amor
+           F#m B7             E A E
+Porque meu Deus é um Deus de amor
+    B7     E      A        G#m C#m
+Minh'alma está repleta de paz
+          F#m  B7       Bm7   E7
+Porque Jesus é a minha paz.
+
+          A7      A#º
+Eu digo:  aleluia, aleluia, aleluia,
+G#m      C#m    F#m       B7
+Aleuia, aleluia, aleluia amém
+            E  E7
+Eu digo porque
+          A        D#7
+Eu digo:  aleluia, aleluia,
+G#m      C#7    F#m       B7
+Aleuia, aleluia, aleluia
+          C  D/F#  E
+Aleluia, amém!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#º = X 1 2 0 2 0
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+D#7 = X 6 5 6 4 X
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

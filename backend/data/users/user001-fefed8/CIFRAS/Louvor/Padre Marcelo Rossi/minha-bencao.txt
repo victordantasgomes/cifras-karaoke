@@ -1,0 +1,64 @@
+@titulo: minha-bencao
+@autor:
+@intérprete: Padre Marcelo Rossi
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Padre Marcelo Rossi - Minha Benção
+
+Intro 4x: Dm  Dm(9)
+
+Dm          Bb     F     C
+Já na alva luz do dia raiar
+     Dm      Bb          F        C
+La estava e cena Que me impressionou
+    Dm    C/E     F
+Um anjo preso a Jacó
+                    C/E           Bb9      C  Dm  Dm(9)
+Que por sua benção lutou Jamais desistiu
+
+      Dm       Bb       F/A        C
+Não largava o anjo ele muito insistiu
+      Dm    Bb            F        C
+Não sairia dali Sem sua benção na mão
+
+    Dm   C/E     F
+De tanto ele insistir
+            C/E                  Bb9  F/A  Gm7  C/E  F
+O anjo lhe tocou E abençoado ele foi
+
+
+  (F)                            C
+Preciso de uma benção não vou desistir
+                         Gm7
+Sem ela eu não vou sair daqui
+                             Dm  C9
+Só saio quando o Senhor me tocar
+
+  F                           C/E
+Não posso mais ficar sem te sentir
+           Gm7
+Nada vai impedir
+    C            Bb9    F/A
+A unção de Deus sobre mim
+
+Intro:  Dm  Dm(9)  (4x)
+
+(Repete tudo)
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+Dm(9) = X 5 7 9 6 5
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+Gm7 = 3 X 3 3 3 X

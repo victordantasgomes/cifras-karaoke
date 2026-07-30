@@ -1,0 +1,47 @@
+@titulo: pessoas-vem-pessoas-vao
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Pessoas Vem, Pessoas Vão
+
+
+INTRO: Bm CM7 Bm Em G
+
+                 A9               Bm7                 D9             G9           A9
+Pessoas vêm, pessoas vão Não me deixe endurecer o coração
+                 A9               Bm7                 D9             G9        Em7   A9
+Pessoas vêm, pessoas vão Tão presentes e diferentes outras são
+   Bm9                        A/C#   D9                     GM7                    A4  A
+E eu amadureço, percebo o valor De cada encontro, cada irmão.
+
+   D9                        A/C#   Bm7           F#m7                  GM7
+A vida é mesmo assim Pessoas vêm e vão Se não te deixei se aproximar
+       D/F#   Em7                                         D9                           A/C#
+Romper as paredes do meu coração Perdão, mas mesmo assim
+  Bm7            F#m7         GM7 D/F# Em7 D/F#                 GM7
+Saiba que jamais te quis mal                        Deus te abençoe onde for
+    D/F#     Em7       A                  Bm9 CM7 Bm A
+Ele é a fonte do Amor, te dê amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Bm9 = X 2 4 6 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G9 = 3 X 0 2 0 X

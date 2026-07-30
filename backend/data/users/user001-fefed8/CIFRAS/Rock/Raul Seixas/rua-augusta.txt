@@ -1,0 +1,133 @@
+@titulo: rua-augusta
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Rua Augusta
+
+(intro) A   C  D
+
+A
+Entrei na Rua Augusta a 120 por hora
+Botei a turma toda do passeio pra fora
+      D
+Com três pneus carecas sem usar a buzina
+                           E
+Parei a quatro dedos da esquina falou
+
+   D
+  Vai, vai, Johnny
+   A
+ Vai, vai, Alfredo
+      A7                       E
+ Quem é da nossa gang não tem medo
+  D
+ Vai, vai, Johnny
+  A
+ Vai, vai, Alfredo
+                  E             (A C D)
+ Quem é da nossa gang não tem medo
+
+
+ A
+Meu carro não tem breque, não tem luz, não tem buzina
+Tem três carburadores, todos os três envenedados
+   D
+Só para na subida quando falta a gasolina
+                           E
+Só passa se tiver sinal fechado tremendão
+
+ D
+  Vai, vai, Johnny
+   A
+ Vai, vai, Alfredo
+      A7                       E
+ Quem é da nossa gang não tem medo
+  D
+ Vai, vai, Johnny
+  A
+ Vai, vai, Alfredo
+                  E             ( A   C   D ) (2x)
+ Quem é da nossa gang não tem medo
+
+A
+Meu carro é vermelho
+                           D
+Não uso espelho pra me pentear
+A
+Botinha sem meia
+                           A7
+E só na areia eu sei trabalhar
+        D
+Cabelo na testa
+            D#°
+Sou o dono da festa
+             A          F#
+Pertenço aos 10 ma-a-ais
+         Bm          F7             E7         A
+Se você quiser experimentar sei que vou gostar
+D
+Ele é o bom
+é o bom
+é o bom
+é o bom
+    A
+é o bomoooooom
+        D
+Ele é o bom
+é o bom
+é o bom
+é o bom
+       (F F#  G G# A)
+é o  booooooooooooooooom
+A
+Meu carro é vermelho
+                           D
+Não uso espelho pra me pentear
+A
+Botinha sem meia
+                           A7
+E só na areia eu sei trabalhar
+              D
+C|-C-Cabelo na testa
+
+Sou o dono da festa
+             A          F#
+Pertenço aos 10 ma-a-ais
+         Bm          F7             E7         A
+Se você quiser experimentar sei que vou gostar
+D
+Ele é o bom
+é o bom
+é o bom
+é o bom
+    A
+é o bomoooooom
+        D
+Ele é o bom
+é o bom
+é o bom
+é o bom
+       ( F F#  G G# A )
+é o  booooooooooooooooom
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D#° = X X 1 2 1 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F7 = 1 3 1 2 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

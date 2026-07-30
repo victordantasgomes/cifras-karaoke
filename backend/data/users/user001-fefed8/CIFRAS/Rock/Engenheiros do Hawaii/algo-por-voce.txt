@@ -1,0 +1,98 @@
+@titulo: algo-por-voce
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Algo Por Você
+
+Intro:
+
+RIFF
+E|--------------------------------------------------
+B|--------------------------------------8-----------
+G|--------7--------------------7----------7---------
+D|------7---7----7h8-7--------7---7----7------------
+A|----5-------5--------10-8-5--------8--------------  Esse Riff é tocado durante quase toda a música,
+E|--------------------------------------------------  na Intro, nos verso principal e no refrão,só
+
+                                                       não é tocada nas partes de base (G Bb C).
+E|--------------------------------------------------
+B|--------------------------------------------------
+G|--------7--------------------7--------------------
+D|------7---7----7h8-7--------7----7----------------
+A|----5-------5--------10-8-5--------8-7b8b7-3------
+E|--------------------------------------------------
+
+SOLO(INTRO)
+E|----------------------------------------------------
+B|----------------------------------------10-8--------
+G|--7h9-10-9-7-5-2--/7-5~----7h9-10-9-7-5-------10-9~~
+D|----------------------------------------------------
+A|----------------------------------------------------
+E|----------------------------------------------------
+
+
+E|-----------------------------------------------------17-15-13-12~~
+B|--15h17-18-17-15-13-10--/15-13~----15h17-18-17-15-13--------------
+G|------------------------------------------------------------------
+D|------------------------------------------------------------------
+A|------------------------------------------------------------------
+E|------------------------------------------------------------------
+
+Intro 2x: Dm F G
+
+Dm                F         G          Dm          F  G
+Hey, garota, não fique esperando o telefone tocar
+           Dm                  F       G
+Os homens são o que são e são todos iguais
+    Dm                    F         G   Dm F G
+O difícil é saber quem é clone de quem
+Dm                F         G          Dm          F  G
+Hey, garota, não fique esperando o telefone tocar
+   Dm                  F       G
+De volta ao passado, tecendo tapetes,
+     Dm                   F   G
+Esperando o guerreiro voltar
+
+         Bb              C
+Já lhe fizeram sofrer demais
+G        Bb             C
+Já lhe fizeram feliz demais
+G      Bb        C
+Tá na hora de você mesma fazer
+           G    Bb
+Algo por você
+    A
+Só você pode fazer
+
+Dm                  F     G        Dm              F   G
+Hey, garota, o dia já passou, não deixe a noite passar
+            Dm                  F     G
+Passe um baton, ou não, e vá se divertir
+      Dm                   F       G     Dm F G
+Você vai descobrir quem é clone de quem
+Dm            F         G        Dm
+Hey, garota, faça o favor: não fique esperando
+F          G     Dm
+Faça algo por você
+Dm            F         G        Dm
+Hey, garota, faça o favor: não fique esperando
+F          G     Dm
+Faça algo por você
+F       G        Dm
+E só você pode fazer
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

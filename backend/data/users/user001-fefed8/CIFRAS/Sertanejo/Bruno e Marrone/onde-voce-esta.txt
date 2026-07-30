@@ -1,0 +1,81 @@
+@titulo: onde-voce-esta
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Onde Você Está
+
+(intro) E  B     E  G#m     E  A/B  B7    E     A/B
+
+E                   B               C#m      A
+Eu espero a todo instante ver teu sorriso
+E                   B              C#m     B  C#m
+Me desespero quando você não esta comigo
+                 F#m           A                E
+Não da mais pra ficar nem um minuto sem o seu carinho
+                F#m         A                    B
+Preciso te encontrar pra sentir que não estou sozinho
+
+(refrão)
+            E
+Onde você está?
+                B               C#m
+Porque não telefona, me de um sinal
+              G#m                A
+Ao menos um recado na caixa postal
+              E                   B7
+Eu não me acostumei a ficar sem você
+            E
+Onde você está?
+
+              B                 C#m
+Porque não aparece pra dizer um oi
+            B                  A
+Faz cinco minutos que você se foi
+        B7                     E
+tempo demais pra eu ficar sozinho
+
+(solo)
+
+E                   B               C#m
+Eu espero a todo instante ver teu sorriso
+E                   B               C#m
+Me desespero quando você não esta comigo
+                 F#m           A                E
+Não da mais pra ficar nem um minuto sem o seu carinho
+                F#m         A                    B
+Preciso te encontrar pra sentir que não estou sozinho
+
+(refrão 2x)
+           E
+Onde você está?
+                B               C#m
+Porque não telefona, me de um sinal
+              G#m                A
+Ao menos um recado na caixa postal
+              E                   B7
+Eu não me acostumei a ficar sem você
+            E
+Onde você está?
+              B                 C#m
+Porque não aparece pra dizer um oi
+            G#m                A
+Faz cinco minutos que você se foi
+        B7                   E
+tempo demais pra eu ficar sozinho
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,50 @@
+@titulo: eu-te-exalto
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Eu Te Exalto
+
+A             E/G#           G
+Conselheiro,       príncipe da paz,
+             Bm7       Esus   E
+Consolador , Filho de Deus
+A                   E/G#      G
+Senhor dos exércitos,     conquistador,
+             Bm7    D/A   D/E.
+Rei que vem, eternamente es Deus
+
+        A
+Eu te exalto,
+              E
+Senhor eu te exalto,
+    Dmaj7     A/C#
+Es exaltado em toda terra,
+      Bm7 D/E    E
+A criação de dá louvor.
+       A
+Eu te exalto,
+              E
+Senhor eu te exalto,
+
+      Bm7  D/A     E       D   A
+Te exal  - to    Cristo, Meu Rei.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/E = X X 2 2 3 2
+Dmaj7 = X X 0 2 2 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Esus = 0 2 2 1 0 0
+G = 3 2 0 0 0 3

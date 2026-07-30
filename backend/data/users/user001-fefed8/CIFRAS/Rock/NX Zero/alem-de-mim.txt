@@ -1,0 +1,171 @@
+@titulo: alem-de-mim
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Nx Zero - Além de Mim
+
+Afinação Meio Tom Abaixo
+
+[Intro]
+
+Riff 1
+
+E|-------------------------------------------|
+B|-5-5-5-5-5-9-9-9-9-9-7-7-7-7-7-5-7-7-7-7-7-|
+G|-------------------------------------------|
+D|-------------------------------------------|
+A|-------------------------------------------|
+E|-------------------------------------------|
+
+E|-------------------------------------------|
+B|-10-10-10-10-10-9-9-9-9-9-7-9-9-9-9-9------|
+G|-------------------------------------------|
+D|-------------------------------------------|
+A|-------------------------------------------|
+E|-------------------------------------------|
+
+Riff 2
+
+E|----------------------------------------------------|
+B|----------------------------------------------------|
+G|-9-9-9-9-9--13-13-13-13--11-11-9-9--11-11-11-11-----|
+D|----------------------------------------------------|
+A|-7-7-7-7-7--11-11-11-11--9--9--7-7--9--9--9--9------|
+E|----------------------------------------------------|
+
+
+E|---------------------------------------------------------------|
+B|---------------------------------------------------------------|
+G|-14-14-14-14-13-13-11-11---13-13-13-13-13-13-16-16-16-16-16-16-|
+D|---------------------------------------------------------------|
+A|-12-12-12-12-11-11-9--9----11-11-11-11-11-11-14-14-14-14-14-14-|
+E|---------------------------------------------------------------|
+
+[Primeira Parte]
+
+A5                                 E5
+ Não olhe para mim fingindo não saber
+ Quem realmente sou
+A5
+ Se nada está tão bem só estou perdendo tempo
+E5
+ Só me responda agora
+
+[Pré-Refrão]
+
+       B5
+Eu te fiz feliz (eu te fiz feliz)
+ C#m5
+Fiz feliz (eu te fiz feliz)
+ A5
+Todo esse tempo que esteve aqui
+       B5
+Eu te fiz feliz (eu te fiz feliz)
+ C#m
+Fiz feliz (eu te fiz feliz)
+    A5
+Responda
+
+[Refrão]
+
+E5                   B5               C#5
+ Tantas vezes você precisou e eu não pude ver
+A5
+ Nada além de mim
+E5                 B5                 C#5
+ E eu não deveria me explicar nem voltar atrás
+         A5
+ Pra te convencer que foi só no início
+
+Riff 2
+
+E|----------------------------------------------------|
+B|----------------------------------------------------|
+G|-9-9-9-9-9--13-13-13-13--11-11-9-9--11-11-11-11-----|
+D|----------------------------------------------------|
+A|-7-7-7-7-7--11-11-11-11--9--9--7-7--9--9--9--9------|
+E|----------------------------------------------------|
+
+E|---------------------------------------------------------------|
+B|---------------------------------------------------------------|
+G|-14-14-14-14-13-13-11-11---13-13-13-13-13-13-16-16-16-16-16-16-|
+D|---------------------------------------------------------------|
+A|-12-12-12-12-11-11-9--9----11-11-11-11-11-11-14-14-14-14-14-14-|
+E|---------------------------------------------------------------|
+
+[Segunda Parte]
+
+A5                                      E5
+  Não fale de nós dois como se fosse fácil
+  Jogar tudo pro alto
+A5
+  Se Nada esta tão bem, só estou perdendo tempo
+E5
+ Só me responda agora
+
+[Pré-Refrão]
+
+       B5
+Eu te fiz feliz (eu te fiz feliz)
+ C#5
+Fiz feliz (eu te fiz feliz)
+  A5
+Quando Ninguém estava aqui
+       B5
+Eu te fiz feliz (eu te fiz feliz)
+ C#5
+Fiz feliz (eu te fiz feliz)
+    A5
+Se lembra?
+
+[Refrão]
+
+E5                   B5               C#5
+ Tantas vezes você precisou e eu não pude ver
+A5
+ Nada além de mim
+E5                 B5                 C#5
+ E eu não deveria me explicar nem voltar atrás
+        A5
+Pra te convencer que foi só no início
+
+( E5 )
+
+[Ponte]
+
+E5            B5                     A5
+  Eu nunca mudei, eu só não estou igual ao que conhece
+F#
+  Não tente me entender
+ E5         B5            A5
+Tente ver além do que passou
+   A5    B5     C#5  D#5
+E Por favor responda
+
+[Refrão]
+
+E5                   B5               C#5
+ Tantas vezes você precisou e eu não pude ver
+A5
+ Nada além de mim
+E5                 B5                 C#5
+ E eu não deveria me explicar nem voltar atrás
+        A5
+Pra te convencer que foi só no início
+
+----------------- Acordes -----------------
+A5*  = X 0 2 2 X X - (*G#5 na forma de A5)
+B5*  = X 2 4 4 X X - (*A#5 na forma de B5)
+C#5*  = X 4 6 6 X X - (*C5 na forma de C#5)
+C#m*  = X 4 6 6 5 4 - (*Cm na forma de C#m)
+C#m5*  = X 4 6 6 5 4 - (*Cm5 na forma de C#m5)
+D#5*  = X 6 8 8 X X - (*D5 na forma de D#5)
+E5*  = 0 2 2 X X X - (*D#5 na forma de E5)
+F#*  = 2 4 4 3 2 2 - (*F na forma de F#)

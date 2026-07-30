@@ -1,0 +1,57 @@
+@titulo: pai-eu-te-louvo
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - Pai Eu Te Louvo
+
+C7M(9)        F7M
+Pai, eu Te louvo
+Am7        G9
+Pai, eu Te exalto
+D     D/F#     G4(7/9)   G7(b9)
+Pai, porque Tu vives
+
+C7M(9)        F7M
+Pai eu Te louvo
+Am7        G9
+Pai, eu Te exalto
+D     D/F#     G4   G
+Pai, porque Tu reinas
+
+       Am           Am/G      F7M
+Pois a morte o seu corpo não podia segurar
+      D           D/F#          G          E4  E
+Pela força de tua destra que o fez ressuscitar
+      Am         Am/G          F7M
+E o inferno derrotado aos seus pés reconheceu
+         D         D/F#        G4       G
+Que Ele reina para sempre o Cordeiro de Deus.
+
+C7M(9)   F7M    D    G     E      Am7
+Amém,         amém,       amém
+ D9        G4   G
+Aquele que é
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+C7M(9) = X 3 2 4 3 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F7M = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G4 = 3 5 5 5 3 3
+G4(7/9) = 3 X 3 2 1 X
+G7(b9) = 3 X 3 1 0 X
+G9 = 3 X 0 2 0 X

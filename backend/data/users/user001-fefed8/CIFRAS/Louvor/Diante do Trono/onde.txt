@@ -1,0 +1,109 @@
+@titulo: onde
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Onde?
+
+Intro: A  A7M  A6  A  A7M  A6
+
+A              A7M           A6
+Onde pode o perdido se encontrar?
+A             A7M        A6
+Onde pode o doente ser curado?
+D               A/C#        Bm7
+Onde pode a tristeza se alegrar?
+D              A/C#                 Bm7
+Onde pode a fraqueza em força se tornar?
+
+A             A7M         A6
+Onde pode a ferida cicatrizar?
+A              A7M         A6
+Onde pode o passado ser apagado?
+D            A/C#   Bm7
+Onde pode o luto acabar?
+D             A/C#          Bm7    A/C#
+Onde pode a vitória me alcançar?
+
+D              A/C#
+Só existe um lugar
+
+Bm7                    A/C#
+Onde o meu gozo é completo
+D             E/D
+Tua presença é o meu refúgio
+Bm   A/C#          D
+Teu amor    me refaz
+
+    D  E        A/C#       D
+Alelu-ia, misericórdia e graça
+    D  E        A/C#      D
+Alelu-ia, cura e salvação
+   D  E      A/C#    D
+Alelu-ia, alegria e força
+   D  E          F#m  A/C#  D
+Alelu-ia, mais de Ti
+
+A                A7M         A6
+Onde pode o não crente acreditar?
+A             A7M        A6
+Onde pode o cativo ser liberto?
+D             A/C#       Bm7
+Onde pode a igreja se avivar?
+D              A/C#     Bm7
+Onde pode tua glória brilhar?
+     A/C#
+Brilhar...
+                D     E
+Tua glória brilhar...
+               D/F#   E/G#
+Tua glória brilhar...
+
+Ponte: D  E  A/C#  D  D  E  D/F#  E/G#
+
+D              A/C#
+Só existe um lugar
+Bm7                   A/C#
+Onde o meu gozo é completo
+D            E/D
+Tua presença é o meu refúgio
+Bm    A/C#        D
+Teu amor    me refaz
+
+   D  E          A/C#     D
+Alelu-ia, misericórdia e graça
+   D  E        A/C#    D
+Alelu-ia, cura e salvação
+   D  E      A/C#    D
+Alelu-ia, alegria e força
+   D  E           F#m  D/F#  E/G#  A
+Alelu-ia, mais de Ti
+
+   D  E          A/C#     D
+Alelu-ia, misericórdia e graça
+   D  E        A/C#    D
+Alelu-ia, cura e salvação
+   D  E      A/C#    D
+Alelu-ia, alegria e força
+   D  E           D/F#  E/G#  D
+Alelu-ia, mais de Ti
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A6 = 5 X 4 6 5 X
+A7M = X 0 2 1 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,52 @@
+@titulo: voo-livre
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Vôo Livre
+
+(refrão)
+F#m       B7        D      A E/G#
+Alçar um vôo livre, se lançar
+F#m7     B7          D     F#m
+No mar azul do vento, velejar
+A          E/G#  F#m7 E/G# A              E/G#          Bm7/9 F/G
+Quando o coração acende, explode como um brilho de cristal
+E/F#                    Bm7/9 E/F#
+Lança nas manhãs a primavera, é como um arco-íris
+      F/G               A          E/G#  F#m7 E/G#
+Na janela do quintal, quando o coração atende
+A              E/G#   Bm7/9 F/G E/F#                Bm7/9
+Se atira e se deixa levar, abre suas asas contra o vento
+E/F#                  F/G           A Bm7/9
+É como uma ave que começa a se soltar
+
+(refrão)
+A            E/G# F#m7 E/G# A        D/G#        F#m7 F/G
+Quando  coração aprende e toma de assalto a direção
+D/F#                   Bm7/9 E/F#
+Dispara de tanta felicidade, respira a liberdade
+
+        F/G
+Que desponta como o sol
+
+(refrão)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+Bm7/9 = X 2 0 2 2 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D/G# = 4 X X 2 3 2
+E/F# = X X 4 4 5 4
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F/G = 3 X 3 2 1 X

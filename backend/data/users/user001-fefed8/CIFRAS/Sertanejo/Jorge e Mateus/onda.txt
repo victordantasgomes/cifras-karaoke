@@ -1,0 +1,82 @@
+@titulo: onda
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Onda
+
+ Intro 2x: G C D C
+E|--5-3-5-3-5/7-7------------------------------------5-3-5-3-5/7-7----------------7--7-|
+B|-------------------6/8-8-8----------------------------------------10/12--------------|
+G|--5-4-5-4-5/7-7---------------7-7-7--4-7-7/9--77---5-4-5-4-5/7-7--------9-7--5/7--7--|
+D|-------------------------------------------------------------------------------------|
+A|-------------------------------------------------------------------------------------|
+E|-------------------------------------------------------------------------------------|
+
+    G
+Afogado eu to jogado
+Coração em pedaço
+Só o seu beijo tira essa agonia
+           C
+E me faz respirar
+
+ D                    C
+Chega remando devagarinho
+D                     C
+Olha fica mandando beijinho
+
+     G
+Brisa leve trás seu cheiro
+
+Me dá um desespero
+Fico contando as horas
+                C
+Pra ver se a maré te trás
+
+ D                     C
+Chega jogando esse charminho
+ D                      C
+Tô correndo um grande perigo
+
+Em                  D
+ Toda vez dava um frio na barriga
+C                   G
+Todo encontro era uma despedida
+Am                             F
+ Se quiser eu te levo pro meu mar
+
+Refrão:
+         G        Em       C          D
+Passou a onda, balança, levou o amor pra bem longe
+G                     D                C
+ Como um peixe fui fisgado ao te encontrar
+            G         Em       C             D
+Mas não passou de um sonho, queria te encontrar de novo
+Em        D        C            D          G
+ Minha sereia preferida, volta logo desse mar
+
+Intro 2x: G C D C
+
+    Intro 2x: G C D C
+E|--5-3-5-3-5/7-7------------------------------------5-3-5-3-5/7-7----------------7-7--|
+B|-------------------6/8-8-8----------------------------------------10/12--------------|
+G|--5-4-5-4-5/7-7---------------7-7-7--4-7-7/9--77---5-4-5-4-5/7-7-------9-7---5/7-7---|
+D|-------------------------------------------------------------------------------------|
+A|-------------------------------------------------------------------------------------|
+E|-------------------------------------------------------------------------------------|
+
+(Repete Tudo)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

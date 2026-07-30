@@ -1,0 +1,110 @@
+@titulo: efesios
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Efésios
+
+Intro 2x: ( Am   F   C   Em )
+
+E|----------------------------------------------------------|
+B|-10(15x)-13(8x)-15(8x)-17(8x)-12(8x)-13(2x)-12(2x)-13(8x)-|
+G|----------------------------------------------------------|
+D|----------------------------------------------------------|
+A|----------------------------------------------------------|
+E|----------------------------------------------------------|
+
+E|-----------------------------------------------|
+B|-15(8x)-17(8x)-12(8x)-13(2x)-12(2x)-10~--------|
+G|-----------------------------------------------|
+D|-----------------------------------------------|
+A|-----------------------------------------------|
+E|-----------------------------------------------|
+
+VERSO 1:
+Am             F
+  Conhecer a Cristo
+C             Em
+  Desejar segui-Lo até o fim
+
+Am               F
+  Confessar Seu nome
+C              Em          Am      F
+  Eu não posso me calar, e assumir
+                  C          Em
+As consequências desse amor seja onde for
+ Am        F           C
+Me entregar como Ele se entregou
+ E
+Mártir do amor
+
+CORO:
+ Am            F
+Roma, Babilônia, o Rei está voltando
+C              Em
+ O sangue dos justos ainda está clamando
+ Am            F
+Roma, Babilônia, o Rei está voltando
+C                 E
+ E a noiva do Cristo está se preparando
+
+INTERLUDIO:  (F  C  G) 2x
+
+VERSO 2:
+Am           F
+  Adorar a Cristo
+C               Em
+  Seja em liberdade ou prisões
+Am              F
+  Pertencer a Cristo
+C                Em
+  Ter as marcas do Seu nome
+  Am     F                  C
+E assumir as consequências desse amor
+ Em
+Seja onde for
+ Am        F           C
+Se entregar como ele se entregou
+ E
+Mártir do amor
+
+CORO
+
+INTERLUDIO 2: (F Dm C Am B° E/G# E Am B° E/G# E)
+
+PONTE:
+ Am            F           C          Em
+Só o Senhor é Deus, El Shaddai, Adonai, Adonai
+
+ Am           F
+Rio, Nova York, o Rei está voltando
+C               Em
+O sangue dos justos ainda está clamando
+ Am            F
+Roma, Babilônia, o Rei está voltando
+  C/E                    Em
+E a noiva do Cristo está se preparando
+
+( F  D/F#  C  E )
+"Prepara-nos, Senhor
+Debaixo do Seu sangue
+Oh, leva-nos, Jesus"
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B° = X 2 3 1 3 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

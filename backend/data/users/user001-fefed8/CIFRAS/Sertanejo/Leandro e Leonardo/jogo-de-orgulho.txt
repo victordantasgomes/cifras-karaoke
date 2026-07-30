@@ -1,0 +1,71 @@
+@titulo: jogo-de-orgulho
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - Jogo de Orgulho
+
+Intro:  F C F C Dm C Dm C Bb C C F Bb C
+
+F                        Bb
+Não vou ficar até amanhecer
+    C                  F            Dm
+De cara amarrada brincando com você
+                    Gm
+To  noutra praia mudei de opinião
+        C
+O amor é coisa boa
+         F
+Se pros dois for muito bom
+   C              Bb
+Se vier venha sorrindo
+           F               Dm
+Me conquistar,  me pertencer
+Gm                C
+Não vou ficar fingindo
+                  F
+Que aceito tudo de você
+  C                Bb
+Dessa vez tenho razão
+
+           F           Dm        Gm
+De não querer voltar atrás
+                      C
+Você passou dos limites
+            F              A
+Seu ciúme foi demais
+                Dm
+O amor é perigoso
+                        Bb
+Pra quem só quer guerrear
+A                Dm
+É uma arma poderosa
+                          Bb
+Nas mãos de que não sabe amar
+             F                   Bb
+Jogo de orgulho        Nada a ver
+             F                  Bb
+Tentei de tudo          Pode crer
+           Am
+Pra se ter paz no amor
+    Bb             C
+Os dois tem que ceder
+  F                       Bb
+Não vou ficar até amanhecer
+    C            C      F
+De cara amarrada
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

@@ -1,0 +1,72 @@
+@titulo: nao-ha-nada-mais-doce
+@autor:
+@intérprete: Gabriela Rocha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gabriela Rocha - Não Há Nada Mais Doce
+
+Intro: G   C  G  C
+
+G                            C          G/B
+Não há nada mais doce, que a tua presença
+Am7           G/B        C
+Minha riqueza é o teu altar, Senhor!
+G                    D9/F#        C      G/B
+Não há nada mais precioso, que ouvir tua voz
+     Am7     G/B          Em7
+E correr para ti, como um filho que corre para os
+ Am7                   G/B      C9       D9
+Braços de seu pai, eu quero correr, para ti!
+
+G                            C          G/B
+Não há nada mais doce, que a tua presença
+Am7           G/B        C           (F)
+Minha riqueza é o teu altar, Senhor!
+G                    D9/F#        C      G/B
+Não há nada mais precioso, que ouvir tua voz
+     Am7     G/B          Em7
+E correr para ti, como um filho que corre para os
+
+ Am7                   G/B      C9       D9
+Braços de seu pai, eu quero correr, para ti!
+
+        Em7                          Am7/E
+Pois não há nada melhor que estar contigo
+           F                      D
+E em teus braços poder te chamar de pai
+
+Bm5+
+Não há lugar melhor pra estar
+C7M
+Não há lugar melhor..
+Em7              D                   C
+Não há lugar melhor pra estar que a Tua presença.
+
+Em7
+Não há lugar melhor pra estar
+Am7/E
+Não há lugar melhor..
+Em7              D                   C           Am
+Não há lugar melhor pra estar que a Tua presença.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am7/E = X X 2 2 1 3
+Bm5+ = 7 10 9 7 8 7
+C = X 3 2 0 1 0
+C7M = X 3 2 0 0 X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+D9/F# = 2 X 0 2 3 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

@@ -1,0 +1,52 @@
+@titulo: alma-minha
+@autor:
+@intérprete: Ministério Morada
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Morada - Alma Minha
+
+(intro) B/E  A/D
+
+B/E             A/D
+Alma minha, sim, adore ao Senhor
+B/E              A/D
+Alma minha, sim, celebre ao meu Pai
+             C#m           B            A
+Com ações de graça e expressão de amor
+            C#m      B          A
+Não só com palavras darei o meu louvor
+
+G#m7(b13)                          A
+Na presença do Senhor não me canso de estar
+      C#m               G#m7           A
+Na presença do Senhor é o meu melhor lugar
+G#m7(b13)                           A
+Na presença do Senhor não me canso de estar
+      C#m                G#m7       A
+Na presença do Senhor o meu melhor vou dar
+
+         E
+ENTÃO EU DANÇAREI COMO NUNCA DANCEI
+
+        B
+ENTÃO EU PULAREI COMO NUNCA PULEI
+          C#m
+ENTÃO EU GRITAREI COMO NUNCA GRITEI:
+      A
+EU TE AMO MEU SENHOR!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/D = X X 0 6 5 5
+B = X 2 4 4 4 2
+B/E = X 7 9 8 7 7
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+G#m7 = 4 X 4 4 4 X
+G#m7(b13) = X X 6 9 7 7

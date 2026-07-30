@@ -1,0 +1,94 @@
+@titulo: era-uma-vez
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Era Uma Vez
+
+Intr: B  F#m  B  F#m  A  E  E4  E
+
+solo intro:
+e|-0-2-4-0-0-2-4-2-0-0-0-0-2-0-
+B|-0-0-0-0-0-0-0-0-0-2-0-0-0-0-
+G|-----------------------------
+D|-----------------------------
+A|-----------------------------
+E|-----------------------------
+
+B     F#m  A             E
+  Uma Lua que nasceu de dia
+B    F#m    A           G#m
+  Um poeta que bebeu perfume
+B    F#m   A            E
+  Um gota que secou na pia
+B       F#m    A          G#m
+  Uma estrela que era vagalume
+B      F#m   A           E
+  Uma fruta que ficou madura
+B     F#m    A             G#m
+  Um cavalo que dormiu de quatro
+
+B      F#m    A              E
+  Um covarde que partiu pra luta
+B    F#m       A         B      F#m  A
+  Um Deus que cometeu pecado
+
+E
+Era uma vez...
+Era uma vez...
+    B     F#m     B      F#m  A   E                   refrão
+Que é, que é, que é, que era uma vez
+
+B      F#m    A             E
+  Um segredo que ninguém sabia
+B     F#m   A            G#m
+  Uma onda que morreu na praia
+B     F#m      A           E
+  Um problema que não existia
+B        F#m    A          G#m
+  Uma estrela quando o dia raia
+B     F#m    A           E
+  Uma roupa que saiu de moda
+B      F#m   A         G#m
+  Um camelo que sentia sede
+B      F#m    A            E
+  E um sonho que já não importa
+B     F#m    A           B    F#m     A
+  Uma pedra que virou parede
+
+
+(Refrão)
+
+  F#m               G#m     B
+Fugiu de casa muito cedo
+   A                     G#m
+O trem levou pra muito longe
+     F#m                G#m     B
+Uma nuvem que pousou na Terra
+     A               G#m
+Um amigo que virou amante
+     F#m             G#m
+Uma cena que saiu da tela
+     A                B            E
+Um vida que seguiu adiante
+
+
+Solo:  B  F#m  A  E  B  F#m  A  G#m   2x
+
+Refrão
+
+Solo:  B  F#m  B  F#m  A  E
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

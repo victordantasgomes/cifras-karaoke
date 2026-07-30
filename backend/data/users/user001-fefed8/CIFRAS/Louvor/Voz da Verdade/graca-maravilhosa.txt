@@ -1,0 +1,90 @@
+@titulo: graca-maravilhosa
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Graça Maravilhosa
+
+     __
+     | Amazing grace, how sweet the sound
+     | That saved a wretched like me
+ E   | I once was lost but now I'm found         só teclado em E os refroes todos
+     | I was blind but now I see
+     --
+
+   E                 A         E
+Graça maravilhosa, quão doce canção
+                  C#m           B
+Que me diz vem descansar em meu Deus
+   E                 A             E
+Mui perdido andava, mas eu me encontrei
+                  B   A G#m F#m E
+Era cego até que Jesus enxerguei
+   E                     A             E
+Eu era pobre e cego, mas agora posso ver
+                C#m          B
+Pois a minha alma encontrou a paz
+   E                         A          E
+Pois seu sangue me lavou, e agora novo sou
+
+                   B   A G#m F#m E
+Pois a graça de Jesus me alcançou
+
+
+   E                 A            E
+Graça maravilhosa, quão doce canção
+                  C#m           B
+Que me diz vem descansar em meu Deus
+   E                 A             E
+Mui perdido andava, mas eu me encontrei
+                    B   A G#m F#m E
+Era cego até que Jesus enxerguei
+
+
+   E                         A           E
+Através de muitos perigos, laços e tentações
+               C#m        B
+Eu vivi sem encontrar solução
+  E                      A          E
+Mas sua graça me trouxe salvo até aqui
+                       B      A G#m F#m E
+Libertou-me e hoje eu sou feliz
+
+SOLO STRINGS: Em Am Bm Em Bm Em
+
+   Em                        Am           Bm
+Quando lá no céu chegar e contemplar o meu Jesus
+   Em     Am     Bm       C F
+Eu irei agradecer pela cruz
+
+SOLO TECLADO: F-Bb-F-C Bb Am Gm F
+
+  F                          Bb             F
+Quando lá no céu chegar e contemplar o meu Jesus
+                    C Bb Am Gm F
+Eu irei agradecer pela cruz
+  F                     Bb            F
+Pela paz, pela vida, que não terá mais fim
+                             C Bb Am Gm F
+Pois todo o mal, ele já sofreu por mim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4
+Gm = 3 5 5 3 3 3

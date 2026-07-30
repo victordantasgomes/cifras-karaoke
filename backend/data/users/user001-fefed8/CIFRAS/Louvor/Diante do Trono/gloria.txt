@@ -1,0 +1,125 @@
+@titulo: gloria
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Glória
+
+(intro 2x) Em7 D/E C/E Am9 D/E C/E G/E
+
+Em7/9                D/E     C/E
+Alguém pergunta onde Deus está
+Em7/9                 D/E     C/E
+Nações se abalam tudo passará
+Am7/9                  Em7/9
+Mas minha rocha não se moverá
+Am7/9                 G9        D/F#
+Meu coração não vai parar de adorar
+Am7/9               G9/B
+Eu vou dançar sobre toda dor
+C                   D
+O Senhor deu e o Senhor tomou
+Am7/9              G9/B
+Eu vou dançar sobre toda dor
+C                   Bsus4/C D
+Bendito seja o nome do Senhor
+C9      C       Cmaj7
+Glória, Glória, Glória a Ti Senhor
+Asus4/7 Am7     Am7/9
+Glória, Glória, Glória a Ti Senhor
+
+
+(reintro 2x) Em7 D/E C/E Am9 D/E C/E G/E
+
+Em7/9                D/E     C/E
+Alguém pergunta onde Deus está
+Em7/9                 D/E     C/E
+Nações se abalam tudo passará
+Am7/9                  Em7/9
+Mas minha rocha não se moverá
+Am7/9                 G9        D/F#
+Meu coração não vai parar de adorar
+Am7/9               G9/B
+Eu vou dançar sobre toda dor
+C                   D
+O Senhor deu e o Senhor tomou
+Am7/9              G9/B
+Eu vou dançar sobre toda dor
+C                   Bsus4/C D
+Bendito seja o nome do Senhor
+
+C9      C       Cmaj7
+Glória, Glória, Glória a Ti Senhor
+Asus4/7 Am7     Am7/9
+Glória, Glória, Glória a Ti Senhor
+
+F#m7            E/G#          A
+Glória, Glória, Glória a Ti Senhor
+D               Bm             A   E/G#
+Glória, Glória, Glória a Ti Senhor
+E9              C#m7
+Glória, Glória, Glória a Ti Senhor
+G#m             F#                  (F# C# F# E)
+Glória, Glória, Glória a Ti Senhor
+E/B             C#m          E
+Glória, Glória, Glória a Ti Senhor
+G#m7/D#         E           F#
+Glória, Glória, Glória a Ti Senhor
+
+(solo base) G#m7  (F# F# G#)  F#/A#    F#/A#  E/B (G# G#) E/B C#m7  C#m7   E/G#  C#m7
+G#m7  (F# F# G#)  F#/A#    F#/A#  E/B (G# G#) E/B C#m7  C#m7   E/G#  F#/C#
+
+C#m                 B/D#
+Eu vou dançar sobre toda dor
+E                   F#
+O Senhor deu e o Senhor tomou
+C#m                B/D#
+Eu vou dançar sobre toda dor
+E                   D#sus4/E
+Bendito seja o nome do Senhor
+
+( G#m )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am7 = X 0 2 0 1 0
+Am7/9 = X X 7 5 8 7
+Am9 = X 0 2 4 1 0
+Asus4/7 = X 0 2 0 3 0
+B/D# = X 6 X 4 7 7
+Bm = X 2 4 4 3 2
+Bsus4/C = X 3 4 4 4 X
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Cmaj7 = X 3 2 0 0 X
+D = X X 0 2 3 2
+D#sus4/E = X X 2 3 4 3
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E9 = 0 2 4 1 0 0
+Em7 = 0 2 2 0 3 0
+Em7/9 = X 7 5 7 7 X
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#/C# = X 4 4 3 2 2
+F#m7 = 2 X 2 2 2 X
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4
+G#m7 = 4 X 4 4 4 X
+G#m7/D# = X 6 4 4 4 4
+G/E = 0 2 0 0 3 3
+G9 = 3 X 0 2 0 X
+G9/B = 7 X X 7 8 5

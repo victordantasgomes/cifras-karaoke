@@ -1,0 +1,80 @@
+@titulo: eu-creio-nas-promessas-de-deus
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Eu Creio Nas Promessas de Deus
+
+   D9         A/C#                 Bm7          A
+Eu creio nas promessas de Deus, eu creio nas promessas de Deus,
+     G         G/A              D9
+Eu creio nas promessas do meu Senhor. (x2)
+
+Refrão:
+   A/C#   Bm      F#m        G            D9
+Se sou    fiel no pouco, Ele me confiará mais,
+   A/C#   Bm       Em           G     A  D9
+Se sou    fiel no pouco, meus passos guiará. (x2)
+
+    D9          A/C#                  Bm7            A
+Eu creio na misericórdia de Deus, eu creio nas misericórdia de Deus,
+     G           G/A               D9
+Eu creio nas misericórdia do meu Senhor. (x2)
+
+Refrão:
+   A/C#   Bm      F#m        G            D9
+Se sou    fiel no pouco, Ele me confiará mais,
+   A/C#   Bm       Em           G     A  D9
+Se sou    fiel no pouco, meus passos guiará. (x2)
+
+
+    D9      A/C#              Bm7      A
+Eu creio no amor de Deus, eu creio no amor de Deus,
+     G      G/A           D9
+Eu creio no amor do meu Senhor. (x2)
+
+Refrão:
+   A/C#   Bm      F#m        G            D9
+Se sou    fiel no pouco, Ele me confiará mais,
+   A/C#   Bm       Em           G     A  D9
+Se sou    fiel no pouco, meus passos guiará. (x2)
+
+Modulação: G/D  D  G/D  B7
+
+    E9          B/D#               C#m7          B
+Eu creio nas promessas de Deus, eu creio nas promessas de Deus,
+    A9          A/B             E9
+Eu creio nas promessas do meu Senhor. (x2)
+
+Refrão:
+   B/D#   C#m     G#m        A            E9
+Se sou    fiel no pouco, Ele me confiará mais
+   B/D#   C#m     F#m           A    B7 E9
+Se sou    fiel no pouco, meus passos guiará. (x2)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E9 = 0 2 4 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4
+G/A = 5 X 5 4 3 X

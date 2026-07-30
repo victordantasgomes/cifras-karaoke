@@ -1,0 +1,60 @@
+@titulo: todas-as-coisas(simplificada)
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Fernandinho - Todas As Coisas
+
+Capo Casa 1
+
+[Intro] C  G  F
+
+C   G                      Am       F
+Eu sei que sempre estás comigo, Senhor
+C             G      Am                    F
+Também sei que nada acontece sem a Tua vontade
+Am                G                F
+Mas preciso aprender a confiar em Ti
+                  G                  Am
+Mas preciso aprender a descansar em Ti
+   F       G
+Tu és meu Senhor
+
+[Refrão]
+
+C           G                     Am                  F
+  Todas as coisas cooperam para o bem daqueles que Te amam
+C           G                     Am                  F
+  Todas as coisas cooperam para o bem daqueles que Te amam
+C           G                     Am                  F
+  Todas as coisas cooperam para o bem daqueles que Te amam
+
+C           G                     Am                  F
+  Todas as coisas cooperam para o bem daqueles que Te amam
+
+( Am  G  F )
+( Am  G  F )
+( Am  G  F )
+
+C            Dm
+Tudo entregarei
+G           Am
+Tudo entregarei
+C               F     Dm
+Sim, por Ti Jesus bendito
+G                   C
+Tudo eu dei - xa - rei
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+Am*  = X 0 2 2 1 0 - (*A#m na forma de Am)
+C*  = X 3 2 0 1 0 - (*C# na forma de C)
+Dm*  = X X 0 2 3 1 - (*D#m na forma de Dm)
+F*  = 1 3 3 2 1 1 - (*F# na forma de F)
+G*  = 3 2 0 0 0 3 - (*G# na forma de G)

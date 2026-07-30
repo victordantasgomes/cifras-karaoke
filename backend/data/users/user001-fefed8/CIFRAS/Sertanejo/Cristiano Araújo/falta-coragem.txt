@@ -1,0 +1,121 @@
+@titulo: falta-coragem
+@autor:
+@intérprete: Cristiano Araújo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cristiano Araújo - Falta Coragem
+
+Intro: C G Dm F G
+
+
+E|---------------------------------------------------------------0-1-0-------|
+B|----5-5-5-5-5-5p1-1-1/3-3-1-3-1-3-1-3--1---1h3---1-3-3-3-3-3-3-------3-1---|
+G|-----------------------------------------2---------------------------------|
+D|---------------------------------------------------------------------------|
+A|--3------------------------------------------------------------------------|
+E|---------------------------------------------------------------------------|
+
+
+Am
+Entrando dentro meu quarto
+        Em7
+vejo o teu rosto dando aquele abraço
+         F                      Dm         E7
+me bate forte uma saudade não consigo respirar
+
+Am
+Lembrando do seu jeito meigo e lindo
+          Em7
+fazendo tudo pra mim agradar
+
+   F                           Dm                   E7
+sozinho na minha cama sinto o cheiro e aquela voz que me chama
+
+Dm            F             G
+fui me entregando pouco a pouco a você
+Dm            F        G   F     G
+tentando te falar tentando te convencer
+
+ C                                     G
+  Que quando vejo a lua brilhar la no céu
+                            Dm
+escrevo meu amor relato no papel
+                              C           F
+tentar falar de tudo que eu sinto numa frase
+   G           C
+eu tô com saudade
+                                 G
+já tentei mil formas pra te descrever
+                                     Dm
+mais em tudo que eu vejo só me faz querer
+            C    F   G            C
+voltar pra você mais me falta coragem
+                     G          C  G Am F
+que vontade de acontecer eu e você
+
+Dm            F             G
+fui me entregando pouco a pouco a você
+Dm            F        G   F       G
+tentando te falar tentando te convencer
+
+ C                                     G
+ Que quando vejo a lua brilhar la no céu
+                            Dm
+escrevo meu amor relato no papel
+                              C           F
+tentar falar de tudo que eu sinto numa frase
+   G           C
+eu tô com saudade
+                                 G
+já tentei mil formas pra te descrever
+                                    Dm
+mais em tudo que eu vejo só me faz querer
+            C     F  G
+voltar pra você mais
+
+C#                                   G#
+  E quando vejo a lua brilhar la no céu
+                            D#m
+escrevo meu amor relato no papel
+                              C#         F#
+tentar falar de tudo que eu sinto numa frase
+   G#          C#
+eu tô com saudade
+                                 G#
+já tentei mil formas pra te descrever
+D#m                 F#
+    voltar pra você mais
+            C#   F# G#
+me falta coragem
+            C#   F# G#
+me falta coragem
+       C#
+eu e você
+
+
+  ( F# C# )
+E|--------------|
+B|--------------|
+G|--------------|
+D|------3-6-----|
+A|--4-6----4----|   
+E|--------------|
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+D#m = X X 1 3 4 2
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

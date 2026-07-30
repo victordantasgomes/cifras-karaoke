@@ -1,0 +1,61 @@
+@titulo: aleluia
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Aleluia
+
+Intro: C   C/G   Am   Gsus4
+       F   Am   G   Dm
+
+C         G/B    Dm                   F      C      G/B     Am               F      C/E
+Como descrever a unção que vem do Teu altar. Como falar, se agora só desejo  adorar
+Dm         Am    G Dm    C/E - F               Am   Dm
+Estar contigo vale mais,       Nada mais  importa
+Dm        Am   G   F     Am            G
+Tua presença satisfaz... Eu só quero falar
+
+   C      G/B      Am    (G) F          C        G/B      Am    (G) F
+Aleluia, Aleluia, aleluia, Aleluia... Aleluia, Aleluia, aleluia, Aleluia
+
+
+C         G/B    Dm                   F      C      G/B     Am               F      C/E
+Como descrever a unção que vem do Teu altar. Como falar, se agora só desejo  adorar
+Dm         Am    G Dm    C/E - F               Am   Dm
+Estar contigo vale mais,       Nada mais  importa
+Dm     Am     G    Bb        Gsus4       G
+Tua presença satisfaz... Eu só quero falar
+
+
+
+   C      G/B      Am    (G) F          C        G/B      Am    (G) F
+Aleluia, Aleluia, aleluia, Aleluia... Aleluia, Aleluia, aleluia, Aleluia
+
+
+   D       A/C#      Bm    (A)  G
+Aleluia, Aleluia, aleluia,     Aleluia...
+   Bm      A/C#     D/F#     G
+Aleluia, Aleluia, aleluia, Aleluia...       (4x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+Gsus4 = 3 5 5 5 3 3

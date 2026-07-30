@@ -1,0 +1,106 @@
+@titulo: da-vida-o-amor
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Da Vida o Amor
+
+INTRO: F9 Am7 C/Bb Bb9 F/A C/G Gsus G9
+           F9 Am7 C/Bb Bb9 Dm7 C/G G9 F9
+
+C9             F/C          C9                  F9       C9/E         F9       C9 C9/E
+Todas as fontes do amor se encontram em ti se beijam em ti
+C9/E    F9                     C/G            F/A                  C/Bb   Bb9 Gsus G9
+És o amor encarnado sangue que foi derramado só por amor
+           F9                    G/F       Em7     G/A Am7 Dm7      C9/E        Bb9         F/A
+Meu Deus meu salvador teu amor se reflete em todas as cores perfumes sabores
+             Gsus       G F/A
+Da vida tu és o amor
+
+     C/G    C/E C9               C9/E             F9                Gsus G9
+Tu és o meu pai, minha mãe, meu irmão, meu marido
+     G/F           C9              C9/E               F9       Gsus G9
+Tu és o meu sol, minha luz, o ar que eu respiro
+     G/F           C9/E             G9/B                      Am7 C/G
+Tu és o meu pão, minha água e minhas delícias
+                      C9/E                   F9         C/G      Am7           G/B
+Tu és o meu tudo Senhor, principio meio e fim da vida o amor
+
+
+SOLO: Ab9 Bb9 C9  AbM7/9 Bb9/D C9/E  F9 C/G F/A (A G E F E D C)
+
+C9                  Am7      G/B   C9         F9                                        Gsus   G9 G/F
+Meu tesouro minha porção todas as bençãos vem de ti das tuas boas mãos
+C9            C/G Am7 G/B         C9                   F9   Dm7/9              Gsus G9 G/A
+Te agradeço   todo amor que deste ao meu coração   és da vida o amor
+
+D9            G/D            D9           G9              D9/F#     G9     D9 D9/F#
+Todas as fontes do amor se encontram em ti se beijam em ti
+D9/F#   G9                  D/A             G/B                 D/C   C9  Asus A9
+És o amor encarnado sangue que foi derramado so por amor
+           G9                 A/G         F#m7       A/B Bm7 Em7      D9/F#      C9           G/B
+Meu Deus meu salvador teu amor se reflete   em todas as cores, perfumes, sabores.
+         Asus           A9 G/B
+Da vida tu és o amor
+
+    D/A            D9              D9/F#           G9               Asus A9
+Tu és o meu pai, minha mãe, meu irmão, meu marido
+     A/G           D9             D9/F#             G9     Asus A9
+Tu és o meu sol, minha luz, o ar que eu respiro
+     A/G           D9/F#          A9/C#                    Bm7 D/A
+Tu és o meu pão, minha água e minhas delícias
+                      D9/F#                  G9        D/A      Bm7        A/C#   Bm7 Bb6 D9/A
+Tu és o meu tudo Senhor, principio, meio e fim Da vida o amor
+        G9      D/A    Bm7      A/C#      D9
+Principio meio e fim da vida o amor
+
+FIM: G9 Bm7 D/C C9 G/B Asus A9  G9 G9/B A9 G9  D9
+
+----------------- Acordes -----------------
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+A9 = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+Ab9 = 4 6 8 5 4 4
+Am7 = X 0 2 0 1 0
+Asus = X 0 2 2 2 0
+Bb6 = X 1 3 0 3 X
+Bb9 = X 1 3 3 1 1
+Bb9/D = X 5 3 3 1 1
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/Bb = X 1 2 0 1 X
+C/E = 0 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+C9 = X 3 5 5 3 3
+C9/E = X X 2 5 3 0
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/C = X 3 X 2 3 2
+D9 = X X 0 2 3 0
+D9/A = X 0 X 2 3 0
+D9/F# = 2 X 0 2 3 0
+Dm7 = X 5 7 5 6 5
+Dm7/9 = X 5 3 5 5 X
+E = 0 2 2 1 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F#m7 = 2 X 2 2 2 X
+F/A = 5 X 3 5 6 X
+F/C = X 3 3 2 1 1
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G/F = 1 X X 0 0 3
+G9 = 3 X 0 2 0 X
+G9/B = 7 X X 7 8 5
+Gsus = 3 2 0 0 0 3

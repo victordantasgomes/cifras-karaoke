@@ -1,0 +1,176 @@
+@titulo: sonhos-e-planos
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Sonhos e Planos
+
+Versão 1
+-======-
+
+Intro: C
+
+G
+  Ao mesmo tempo
+                         F
+  Que tudo se encaixe em seu lugar
+         C
+  Vou continuar
+G
+  Com os meus planos
+                     F
+  De ter algo pra poder viver
+           C
+  Sem ter que sofrer
+Am                      C
+  Mas insistem em jogar
+                       G
+  Nosso orgulho em algum lugar
+
+          D
+  Que não tem mais como
+    F                        C
+  Levar adiante o sonho de viver
+
+
+ G
+  Ao mesmo tempo
+                           F
+  Que tudo se encaixe em seu lugar
+          C
+  Vou continuar
+G
+  Com os meus planos
+                       F
+  De ter algo pra poder viver
+             C
+  Sem ter que sofrer
+Am                      C
+  Mas insistem em jogar
+                       G
+  Nosso orgulho em algum lugar
+             D
+  Que não tem mais como
+    F                        C
+  Levar adiante o sonho de viver  (eeeeeeee)
+
+                  G   D
+  Quero viver em paz
+F    C             G  D    F C    G   D     F
+  Sonho de viver em paz,          em paz
+
+    C             G  D F C
+  Sonho de viver em pazzzzzzz
+
+(solo...) G D F C 4x
+
+Am                 C
+  Mas não vou desanimar
+                    G
+  Isso tudo vai ter que mudar
+        D
+  Onde vai parar?
+       F                      C
+  A verdade tem que um dia aparecer  (eeeeeeee)
+
+(refrão denovo 2x)
+
+
+___________________________________________________________________
+
+
+Versão 2
+-======-
+
+
+verso: G, F, C
+e||-------------------------------------------------------||
+B||-------------------------------------------------------||
+G||-12-12-12-12---12-12-12-12---12-12-12-12---------------||
+D||-12-12-12-12---12-12-12-12---10-10-10-10---10-10-10-10-||
+A||-10-10-10-10---10-10-10-10---8--8--8--8----10-10-10-10-||
+E||-------------------------------------------8--8--8--8--||
+
+que tudo se encaixa em seu lugar vou cotinuar
+com meus planos
+de ter algo pra poder viver sem ter que sofrer
+
+riff
+e||-5/7-------7-----||
+B||-----7-5-7-------||
+G||-----------------||
+D||-----------------||
+A||-----------------||
+E||-----------------||
+
+prerefrao: so os acordes
+e||-----------------------------||
+B||-----------------------------||
+G||-2----5---------7----10----5-||
+D||-2----5----5----7----10----5-||
+A||-0----3----5----5----8-----3-||
+E||-----------3-----------------||
+
+que nao tem mais como levar adiante sonho de viver
+
+Riff2: Distorcido
+e||---------||
+B||---------||
+G||-5-5-5-5-||
+D||-5-5-5-5-||
+A||-3-3-3-3-||
+E||---------||
+
+verso2: G, F, C
+e||---------------------------------||
+B||---------------------------------||
+G||-------------------------5-5-5-5-||
+D||-5-5-5-5-5-5-5-5-3-3-3-3-5-5-5-5-||
+A||-5-5-5-5-5-5-5-5-3-3-3-3-3-3-3-3-||
+E||-3-3-3-3-3-3-3-3-1-1-1-1---------||
+  |
+e||---------------------------------------------------||
+B||---------------------------------------------------||
+G||-12-12-12-12---12-12-12-12---12-12-12-12---5-5-5-5-||
+D||-12-12-12-12---12-12-12-12---10-10-10-10---5-5-5-5-||
+A||-10-10-10-10---10-10-10-10---8--8--8--8----3-3-3-3-||
+E||---------------------------------------------------||
+ao mesmo tempo
+que tudo se encaixa em seu lugar vou cotinuar
+com meus planos
+de ter algo pra poder viver sem ter que sofrer
+
+prerefrao
+
+refrao: G, D, F, C
+e||------------------||
+B||------------------||
+G||-----7---10---5---||
+D||-5---7---10---5---||
+A||-5---5---8----3---||
+E||-3----------------||
+
+sonho de viver em paz
+em paz sonho de viver em paz
+
+solo: G, D, F
+e||----------------------------------------------------------------------------------------||
+B||----------------------------------------------------------------------------------------||
+G||----------------------------------------------------------------------------------------||
+D||-10-9--9-10-12---9-10-9--9-10-12~---9-10-9-7-9-7-5--2-5-0-2-0---9t-10t-12t-10t-9t-7t-5t-||
+A||----------------------------------------------------------------------------------------||
+E||----------------------------------------------------------------------------------------||
+
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

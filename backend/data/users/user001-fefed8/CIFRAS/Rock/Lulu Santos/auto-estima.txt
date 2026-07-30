@@ -1,0 +1,92 @@
+@titulo: auto-estima
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - Auto-Estima
+
+Intro: D11/F#  G
+
+D11/F#  G
+         Eu falo com você
+D11/F#  G                 D11/F# A D A
+         até quando você não está.
+D11/F#  G
+         E mesmo sem te ouvir,
+D11/F#  G               D11/F# A D A
+         eu já conheço a resposta.
+C        Am7         G
+É claro que eu te quero,
+D           D/C#     C6(9)
+mais do que você à mim..
+G
+Que filme mais antigo..
+E/G#                  A  G  F            G A
+que teatrinho mais chinfrim .. que texto ruim...
+
+D11/F# G
+        Eu vou pedir pra alguém,
+
+D11/F# G                        D11/F# A D A
+        pra alguém reescrever minha vida.
+D11/F# G
+        Quem sabe o Adnet,
+D11/F# G                       D11/F# A D A
+        que tem tempo de humor na lata.
+C      Am7        G11
+Eu nunca mais quero escrever
+D         D/C#  C6(9)
+outra canção assim...
+G
+Não quero mais sofrer,
+E/G#                        A G   F            G  A
+não faz bem o tipo, eu digo não.. não tô nem afim...
+
+(solo 2x) D11/F#  G  D11/F#  G  D11/F#  A  D  A
+
+C        Am7           G
+É claro que eu te quis,
+D           D/C#     C6(9)
+mais do que você à mim..
+G
+Que filme mais antigo..
+E/G#                  A  G  F            G A
+que teatrinho mais chinfrim... que texto ruim...
+
+D11/F# G
+        Eu vou pedir pra alguém,
+D11/F# G                        D11/F# A   D A
+        pra alguém reescrever minha vida.
+D11/F# G
+        Quem sabe o Adnet,
+D11/F# G                       D11/F# A    D A
+        que tem tempo de humor na lata.
+C      Am7        G
+Eu nunca mais quero escrever
+D         D/C#  C6(9)
+outra canção assim...
+G
+Não quero mais sofrer,
+E/G#                        A G   F            G  A
+não faz bem o tipo, eu digo não.. não tô nem afim...
+
+( D11/F#  G )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C6(9) = X 3 2 2 3 3
+D = X X 0 2 3 2
+D/C# = X 4 0 2 3 2
+D11/F# = 2 X X 2 3 3
+E/G# = 4 X 2 4 5 X
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G11 = 3 5 5 5 3 3

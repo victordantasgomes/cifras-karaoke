@@ -1,0 +1,77 @@
+@titulo: sentido-do-natal
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Sentido do Natal
+
+int.  F#  F#4  F#  F#4 F#  F#4  F#  F#4
+
+F#          B        C#      F#
+Quanta lembrança me traz o Natal
+B           Bbm7     Abm7        C#
+Parte da infância que não volta mais
+F#        B        C#      F#
+Arvores, luzes me fazem sonhar
+B         Bbm7    Abm7    C#     F#
+sinto que algo preci.......sa   mudar
+
+B  C#    Bbm7 Ebm7     Abm7   C#       F#
+Onde       está       o verdadeiro sentido?
+B  C#    Bbm7 Ebm7     Abm7   C#         F#
+Natal      real       é ter Jesus como amigo!
+
+G       C      D       G
+Há correria em todo lugar
+C         Bm7    Am7        D
+Tanta euforia me faz questionar
+G           C         D       G
+Se a humanidade entendeu o porque
+
+C          Bm7         Am7 D   G
+De Deus enviar-nos tão lindo bebe
+
+C  D   Bm7 Em7   Am7     D       G
+Onde    está     o verdadeiro sentido?
+C  D   Bm7 Em7   Am7     D         E7
+Natal    real    é ter Jesus como amigo!
+
+A          D       E     A
+Quando se crê no motivo real
+D       Dbm7        Bm7      E
+De comemorar com alegria o Natal
+A        D        E        A
+Um sentimento de paz e de amor
+D          Dbm7       Bm7   E     A
+Vem logo habitar nosso in...terior
+
+D  E  Dbm7 F#m7     Bm7      E        A
+Ale.....luia!      sim encontrei o sentido
+D  E    Dbm7 F#m7     Bm7   E          A
+Natal      real     é ter Jesus como amigo!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Abm7 = 4 X 4 4 4 X
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+Bbm7 = X 1 3 1 2 1
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+Dbm7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Ebm7 = X X 1 3 2 2
+Em7 = 0 2 2 0 3 0
+F# = 2 4 4 3 2 2
+F#4 = 2 4 4 4 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

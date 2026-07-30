@@ -1,0 +1,65 @@
+@titulo: e-a-presenca
+@autor:
+@intérprete: Thalles Roberto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Thalles Roberto - É a Presença
+
+Verso 1:
+
+           D9                       Em
+Eu queria tanto, queria tanto conseguir
+                    A4   A              G  D/F# Em  D9
+Traduzir pro mundo inteiro o que só ela me faz sentir
+                       D9                          Em
+Minhas palavras não conseguem porque não têm comparação
+                 A4  A               G  D/F# Em  D9
+Só vivendo pra entender o que só ela me faz viver
+
+Pré-Coro
+Bm7 F#m7 Em
+Não vivo sem
+   Bm7 F#m7 E7 G  A
+A|- mo demais
+
+Refrão
+        D7  D
+É a presença
+       Em
+É a presença
+
+        A
+É a presença
+                D
+É a presença de Deus
+
+Repetir Tudo
+
+Refrão (com finalização    A)
+
+
+Solo Metais: D  Em  A  G  F#m7  Em  D9
+
+Refrão (com finalização    A)
+
+Refrão (com terminação    D7(9)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+D7(9) = X 5 4 5 5 X
+D9 = X X 0 2 3 0
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

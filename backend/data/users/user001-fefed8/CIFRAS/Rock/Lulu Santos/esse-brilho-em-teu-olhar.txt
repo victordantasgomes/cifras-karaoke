@@ -1,0 +1,50 @@
+@titulo: esse-brilho-em-teu-olhar
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - Esse Brilho Em Teu Olhar
+
+Intro: E C#m E C#m (4x)
+
+E     A/E     B/E   A/B             E  A/E B/E A/E
+Eu te procuro quando me sinto em perigo
+E     A/E   B/E    A/B        E    A/E B/E A/E
+Quando cai um raio e soa um trovão
+E     A/E      B/E     A/E       E  A/E B/E A/E
+Eu te procuro quando alegria eu sinto
+E     A/B   B/E A/E  E    A/B B/E  A/B
+Só você traduz  a  sensação
+  A     B/A      C#m/A
+Contigo eu me esparramo
+  A     B/A    C#m/A        E  A/E B/E A/E           E
+Não tem engano não, nem erro não, nem ilusão, nesta canção
+ G#m                 B                     (E A/E B/E A/B) E
+Esta canção quer você e todo tempo que eu perdi
+ G#m             B    C#m           Am           E
+Todo lance que rolar, cada momento e em qualquer lugar
+    C#7        F#7         A6     (E A/B B/E A/E) (E C#m E C#m)
+Ou enquanto acender esse brilho em teu olhar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/E = 0 X 2 2 2 0
+A6 = 5 X 4 6 5 X
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+B/E = X 7 9 8 7 7
+C = X 3 2 0 1 0
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+C#m/A = X 0 2 1 2 0
+E = 0 2 2 1 0 0
+F#7 = 2 4 2 3 2 2
+G#m = 4 6 6 4 4 4

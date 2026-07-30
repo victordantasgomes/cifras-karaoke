@@ -1,0 +1,69 @@
+@titulo: fui-fiel
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Fui Fiel
+
+Intro:
+
+E|------7--------------------------------5/7-----7-----------------|  
+B|--7/6---7-9-7------7-9-7------10-9-10------7/9---7-9-7-----7-9-7-|  
+G|--------------9-6--------9-6---------------------------9-6-------|  
+D|-----------------------------------------------------------------|  
+A|-----------------------------------------------------------------|  
+E|-----------------------------------------------------------------|  
+
+E|-----------|  
+B|-----------|  
+G|--9-6-6/9--|  
+D|-----------|  
+A|-----------|  
+E|-----------| 
+
+
+Primeira Parte:
+
+E              B
+  Foi bonito, foi, foi intenso
+
+ F#m             A
+Foi verdadeiro, mais sincero
+E                B              F#m
+  Sei que fui capaz, fiz até demais
+         A
+Te quis do teu jeito
+
+E         B            F#m
+  Te amei,  te mostrei     que o meu amor
+       A
+Foi o mais profundo
+E         B                     F#m
+  Me doei,  me entreguei, fui fiel
+    A
+Chorei, chorei
+
+Refrão 2x:
+
+ E                          B
+Hoje eu acordei, me veio a falta de você
+    F#m              A
+Saudade de você, saudade de você
+     E                         B
+Lembrei que me acordava de manhã só pra dizer
+     F#m              A
+Bom dia, meu bebê, te amo, meu bebê
+
+(repete tudo)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

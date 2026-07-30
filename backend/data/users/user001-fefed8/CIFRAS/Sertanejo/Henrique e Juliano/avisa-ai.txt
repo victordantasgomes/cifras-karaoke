@@ -1,0 +1,115 @@
+@titulo: avisa-ai
+@autor:
+@intérprete: Henrique e Juliano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Henrique e Juliano - Avisa Aí
+
+Intro:
+   Am                      E                          Am
+E|---------------------|--------------------------------------|
+B|----------6-6-6-6-5--|-----5-5h6p5----5-6-5h6p5-------------|
+G|-------5-----------5-|--7-7-------5--7---------7-5-4h5p4----|
+D|--7-7-7--7-----------|----------------------------------7---|
+A|---------------------|--------------------------------------|
+E|---------------------|--------------------------------------|
+
+
+      Am
+ Não vou negar
+                          F
+ Que eu mudei demais por você
+
+ Que nesse um ano e meio
+               Dm
+ Até parei de beber
+
+ Eu apostei tudo que tinha
+            E
+ Nessa relação
+
+
+  Am
+ E se tratando de amor
+                F
+ Não posso reclamar
+
+ Carinho e atenção
+                     Dm
+ Você nunca deixou faltar
+
+ Me põe contra a parede
+              E
+ Quer explicação
+
+ Dm
+ Você fez a sua parte
+ Am
+ Me desculpe eu sou assim
+ E
+ Um safado sem vergonha
+
+                             Am
+ Eu gosto é de beber e de curtir
+                                 E
+ Eu tô voltando, pra vida que eu amo
+                                                Am
+ Avisa aí que eu vou pro show do Henrique e Juliano
+                             E
+ Eu tô voltando, sou feliz assim
+
+ Tentei sair da farra
+                          Am
+ Mas a farra não saiu de mim
+
+                           E
+Eu tô voltando pra vida que eu amo
+                                           Am
+Farrero, solteiro o povo que eu tô barulhando
+                          E
+Eu tô voltando sou feliz assim
+
+Tentei sair da farra
+                         Am
+Mas a farra não saiu de mim
+
+E|---------------------|
+B|----------6-6-6-6-5--|
+G|-------5-----------4-|
+D|--7-7-7--7-----------|
+A|---------------------|
+E|---------------------|
+
+E|------------------------------------------------|
+B|-----5-5h6p5----5-6-5h6p5-------------6-6-6-6-5-|
+G|--7-7-------5--7---------7-5-4------5----------4|
+D|-------------------------------7-7-7-7----------|
+A|------------------------------------------------|
+E|------------------------------------------------|
+
+E|--------------|----------------------|
+B|-----5-5h6p5--|--5-6-5h6p5-----------|
+G|--7-7-------5-|-7---------7-5-4h5p4--|
+D|--------------|--------------------7-|
+A|--------------|----------------------|
+E|--------------|----------------------|
+
+Final:
+E|-------------------x-x-x-x/---|
+B|-------------------x-x-x-x/---|
+G|-------5-----------x-x-x-x/---|
+D|--7-7-7--7---------x-x-x-x/---|
+A|-------------------x-x-x-x/---|
+E|------------------------------|
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1

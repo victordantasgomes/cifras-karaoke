@@ -1,0 +1,47 @@
+@titulo: uma-noite-sem-voce
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Uma Noite Sem Você
+
+(intro 6x) F#7 B
+
+B
+Eu não posso, não aceitar que vai embora
+                                              F#7
+Porque meu coração chora, posso morrer de saudade -
+
+Eu não posso, não você é o meu chamego
+                                           B
+Toda noite o aconchego que me mata de vontade.
+
+                                    F#7
+Me diga amor, que você vai fugir de mim
+                                    B
+Eu tenho sede desse amor que me devora
+                                   F#7
+O que eu faço pra provar que eu te amo
+                                      B
+Só de pensar em te perder coração chora.
+
+G#m            F#7
+Um noite sem você
+                                   B
+Eu já sofri e senti o quanto é triste
+G#m               F#7
+Fico imaginando então
+                        E          B
+Se eu te perder minha vida não existe.
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+E = 0 2 2 1 0 0
+F#7 = 2 4 2 3 2 2
+G#m = 4 6 6 4 4 4

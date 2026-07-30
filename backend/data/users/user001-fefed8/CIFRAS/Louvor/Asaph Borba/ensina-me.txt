@@ -1,0 +1,62 @@
+@titulo: ensina-me
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Ensina-me
+
+          Am
+Ensina-me amar,
+              Am/G              F    C/E   Dm
+Mesmo quando só há ódio ao meu redor
+G
+Ensina-me a dar,
+                E               Am    Gm  Gm/C
+Mesmo quando não há nada a receber
+F
+Ensina-me aceitar
+     G/F                        Em   A11   A7
+Tudo o que tens preparado para mim
+    Dm                           G
+Confiando que tudo está nas Tuas mãos,
+        Dm                G     C    E
+E que tudo vem de Ti Jesus.
+Am
+Ensina-me adorar
+                   Am/G          F   C/E   Dm
+Mesmo quando há pranto em meu coração
+G
+Também a perdoar
+              E                 Am   Gm  Gm/C
+Como a mim tens revelado o Teu perdão
+F                                       E11     E
+E que eu possa ter mais sede de ti conhecer melhor,
+        Am           Am/G               F
+Cada dia mais vontade de estar ao teu redor
+     C                     Dm
+Escutando teu falar, sentindo teu amor,
+F         C/E   Dm   C     G   C
+viven   do    jun   to a Ti Senhor
+
+----------------- Acordes -----------------
+A11 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E11 = 0 2 2 2 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/F = 1 X X 0 0 3
+Gm = 3 5 5 3 3 3
+Gm/C = X 3 5 3 3 3

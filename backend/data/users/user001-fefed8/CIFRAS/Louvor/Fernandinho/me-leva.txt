@@ -1,0 +1,79 @@
+@titulo: me-leva
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Me Leva
+
+(intro) (piano)  C9 G G C9 (2x) G
+        (arpejo) C C G G C C D D
+                 C C D D G G Em7 D
+
+      G
+Minh'alma engrandece ao Senhor
+     C9     G
+Minh'alma engrandece ao Senhor
+              Am7  D/F#
+Tenho sede de Ti
+              Am  D/F#
+Tenho sede de Ti
+
+     G
+Para onde irei, meu Senhor?
+     G
+Para onde irei, meu Senhor?
+               Am  D
+Teu amor me atrai
+               Am  D4 D
+Teu amor me atrai
+
+
+    G                    D/F#                 Am  D
+Me leva, me leva pra perto de Ti, meu Senhor
+    G                 D/F#                    Am  D
+Me leva, me leva pra perto de Ti, meu Senhor
+    G                                     Am  D
+Me leva, me leva pra perto de Ti, meu Senhor
+                      C G  C D Em7  C G  C D C5
+Quero estar junto a Ti
+
+( E G A )
+
+( G/B C D9/F# )
+
+    A                 D/F#
+Me leva, me leva, me leva
+    A                 D/F#
+Me leva, me leva, me leva
+        E
+Meu Senhor!
+
+    A                   E/G#                  Bm7  E
+Me leva, me leva pra perto de Ti, meu Senhor    (4x)
+                      D A  D E F#m7  D A  D E D
+Quero estar junto a Ti
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C5 = X 3 5 5 X X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+D9/F# = 2 X 0 2 3 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

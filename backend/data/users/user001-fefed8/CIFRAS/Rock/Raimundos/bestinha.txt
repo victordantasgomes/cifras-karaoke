@@ -1,0 +1,76 @@
+@titulo: bestinha
+@autor:
+@intérprete: Raimundos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raimundos - Bestinha
+
+[Intro]  A  C  D
+
+   A     C            D
+ Ela me viu tanto que eu me esforcei
+ A       C               D
+ Ela sorriu hoje eu nem me atrasei
+  F                                  A
+ Tão novinha, era a minha, era a melhor
+   Em                            C#5  D5
+ Que bundinha, redondinha e tão só
+
+   A    C               D
+ Ela pediu, pra ir com calma eu fui
+   A     C            D
+ Ela sorriu, bem devagar eu pus
+     F                              A
+ Eu só queria que todo dia fosse igual
+  Em
+ Ralaria, lavava a cozinha
+ C#5  D5
+ Oh! Minha ruivinha tu transforma em festa um funeral
+
+
+ A         G          C          D
+Não tô cansado mas assim me esfola
+ A        G         C   D
+Como na areia do Havaí
+  A             G                 C    D
+Quem me faz falta é quem não vai na bola
+  A          G        C    D
+Quem me segura se eu cair
+
+[Solo]  A5  G5  A5
+        Em
+        C#5  D5
+
+ F                                A
+Tão novinha era a minha era a melhor
+  Em                            C#5  D5
+Que bundinha, redondinha e tão só
+
+  A        G                C    D
+Pra ser ditado eu não vou pra escola
+ A         G           C   D
+Sem professor eu aprendi
+  A           G                    C    D
+Que quem faz falta é quem não vai na bola
+  A          G        C    D
+Quem me segura se eu cair
+
+A5  G5  A5
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+C = X 3 2 0 1 0
+C#5 = X 4 6 6 X X
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X

@@ -1,0 +1,105 @@
+@titulo: bete-balanco
+@autor:
+@intérprete: Cazuza
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cazuza - Bete Balanço
+
+(intro) E7   Am7   E7
+
+(riffs na intro e quase toda a música menos no refrão,
+mas sempre acompanhado das notas)
+(fazer o acorde de B7 com pestana)
+
+(riff 1)
+E|----------------------------------|
+B|----------------------------------|
+G|----------------------------------|
+D|--9x---6/7---------9x---6/7/6/7---|     (2x)
+A|--7x---4/5---------7x---4/5/4/5---|
+E|----------------------------------|
+
+(riff 2)
+E|----------------------------------|
+B|----------------------------------|
+G|----------------------------------|
+D|-------4/5--------------4/5/4/5---|     (1x)
+A|--7x---2/3---------7x---2/3/2/3---|
+E|--5x---------------5x-------------|
+
+
+Em
+Pode seguir a tua estrela
+O teu brinquedo de 'star'
+       Am
+Fantasiando em segredo
+                       Em
+O ponto aonde quer chegar
+O teu futuro é duvidoso
+Eu vejo grana eu vejo dor
+       Am
+No paraíso perigoso
+                            Em
+Que a palma da tua mão mostrou
+              Bm7
+Quem vem com tudo não cansa
+ C         Am       Bm7
+Bete balanço meu amor
+     C           B7       Em
+Me avise quando for  a  hora
+
+Bm7           F#m7
+Não ligue pra essas caras tristes
+Bm7                           Em
+  Fingindo que a gente não existe
+Bm7          F#m7
+Sentadas são tão engraçadas
+Bm7             C       (Em)
+Donas de suas sa...las
+
+Em
+Pode seguir a tua estrela
+O teu brinquedo de 'star'
+       Am
+Fantasiando em segredo
+                       Em
+O ponto aonde quer chegar
+O teu futuro é duvidoso
+Eu vejo grana eu vejo dor
+       Am
+No paraíso perigoso
+                            Em
+Que a palma da tua mão mostrou
+              Bm7
+Quem vem com tudo não cansa
+ C       Am         Bm7
+Bete balanço meu amor
+     C           B7       Em
+Me avise quando for  a  hora
+             Bm7
+Quem tem um sonho não dança
+C        Am         Bm7
+Bete balanço, por favor
+     C           B7     Em
+Me avise quando for embora
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

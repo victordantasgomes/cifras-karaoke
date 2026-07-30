@@ -1,0 +1,80 @@
+@titulo: garanhao-da-madrugada
+@autor:
+@intérprete: Teodoro e Sampaio
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Teodoro e Sampaio - Garanhão da Madrugada
+
+INTRO:   C# - F# -  C# - F# -
+
+F#                                        C#
+Sou um homem ciumento,  amo e quero ser amado.
+                                          F#
+Neste mundo não existe  alguém mais apaixonado.
+                           F#7             B
+Toda noite estou aqui, venho ver a minha amada,
+                   F#             C#           F#
+Por isso todos me chamam o "garanhão da madrugada".
+
+           C#                F#
+Eu sou teu homem, eu sou teu cacho
+             C#
+Sou quem te ama não me engano ,
+           F#
+Eu sou teu macho.
+                C#        F#
+Machucado de paixão e solidão.
+
+intro.
+
+
+                                         C#
+Eu estou desconfiado, que existe outro alguém.
+                                          F#
+Mas um homem apaixonado, não divide o que tem.
+                          F#7             B
+Eu sou mesmo egoísta, e não te troco por nada,
+                 F#          C#          F#
+Você já conhece bem o "garanhão da madrugada"
+
+           C#                F#
+Eu sou teu homem, eu sou teu cacho
+             C#
+Sou quem te ama não me engano ,
+           F#
+Eu sou teu macho.
+                C#         F#
+Machucado de paixão e solidão.
+
+intro.
+                                           C#
+Deus me livre se um dia, alguém tirá-la de mim.
+                                               F#
+Eu faço o mundo explodir, eu ponho fogo no estopim.
+                             F#7              B
+A verdade é que eu não posso é ficar sem namorada,
+                   F#           C#          F#
+Não pode ficar sozinho o "garanhão da madrugada".
+
+           C#                F#
+Eu sou teu homem, eu sou teu cacho
+             C#
+Sou quem te ama não me engano ,
+           F#
+Eu sou teu macho.
+                C#         F#
+Machucado de paixão e solidão.
+
+(Intro)
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2

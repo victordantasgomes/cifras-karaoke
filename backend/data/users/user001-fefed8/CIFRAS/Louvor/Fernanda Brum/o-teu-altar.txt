@@ -1,0 +1,55 @@
+@titulo: o-teu-altar
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - O Teu Altar
+
+Intro: F#m D Bm E F° F#m Bm D/E E
+
+A   E/G#         D    F#m
+Amo estar na Tua casa Ó Pai
+D              A
+Lugar onde permanece
+E4     E
+Tua glória
+A       E/G#
+O meu prazer
+D       F#m
+E estar no Teu altar
+D          A           E
+Contemplar a tua face oh! Pai
+E/G#         A
+Quero ter minha vida
+     D
+Em teu altar
+A/C#     Bm
+Ser livre pra adorar
+Bm/A  E/G#     E
+Sem nada a me impedir
+
+E/G#      A          D
+Quero ser canal do Teu fluir
+A/C#     Bm
+Senhor estou aqui
+D/E     E      A
+Quero Tua vida em mim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2
+F° = X X 3 4 3 4

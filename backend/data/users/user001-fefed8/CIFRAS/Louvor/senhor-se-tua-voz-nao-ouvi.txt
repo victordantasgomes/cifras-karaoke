@@ -1,0 +1,29 @@
+@titulo: senhor-se-tua-voz-nao-ouvi
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Senhor, Se Tua Voz Não Ouvi
+
+  Dm            A7       Dm         C         C7        F
+Senhor, se tua voz não ouvi e por caminhos do mal me perdi
+   Gm       Dm     A7     Dm
+Piedade Senhor, Piedade Senhor
+  Dm                A7      Dm              C      C7      F
+Senhor, se não te amei no irmão, fechando a ele o meu coração
+  Dm               A7       Dm         C         C7        F
+Senhor, se não cumpri meu dever e se o bem eu deixei de fazer
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

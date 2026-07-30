@@ -1,0 +1,93 @@
+@titulo: instante-magico
+@autor:
+@intérprete: Rick e Renner
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rick e Renner - Instante mágico
+
+Intro: E B A E B A/C# B/D# E A E
+
+ E
+É mágico o instante
+             A
+Que eu te encontro
+  B7                       E
+É Bálsamo que invade o meu peito
+     C#m                    A
+Me sinto tão feliz que fico tonto
+     B7                        E
+Por mais que eu evite não tem jeito
+    C#m                    B
+Você tem um poder que me domina
+    B7
+Me ama quando quer
+      E       A
+E eu aceito
+E                          A
+Sou sempre levado por seu beijo
+    B7                       E
+Que tem sempre a emoção da primeira vez
+
+     C#m                      A
+Que deixa as mãos suadas de desejos
+    B7                  E
+Eu quero sempre mais te amar outra vez
+    C#m                          B
+Você tem tudo a ver com a minha vida
+                     E
+Não é mais impressão agora eu sei
+
+         B7                        :
+Sabe de mim                        :
+         A             E           :
+Como se lesse meus pensamentos     :
+             B7                    :
+Fala com os olhos                  :
+           A/C#        E4   E      :
+Quando me olha eu não agüento      : Refrão
+          B7                       :
+E fico assim                       :
+         A               E4  E     :
+Em suas mãos feito um meni...no    :
+          B7                       :
+As vezes acho                      :
+           A/C# B/D#      E        :
+Que você é dona do meu destino     :
+
+  E                                 A
+É mágico o instante em que eu te encontro
+Solo: B/A G#m C#m A B7 E E4 E
+E           E/G#      A
+Sou sempre levado por seu beijo
+    B7                       E
+Que tem sempre a emoção da primeira vez
+                   E/G#        A
+Que deixa as mãos suadas de desejos
+    B7                   E
+Eu quero sempre mais te amar outra vez
+   C#m                    B7
+Você tem tudo a ver com a minha vida
+                       E
+Não é mais impressão, agora eu sei
+Repete: Estribilho 2 vezes
+  E                                 A      E A E E4 E
+É mágico este instante que eu te encontro
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+B/D# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+G#m = 4 6 6 4 4 4

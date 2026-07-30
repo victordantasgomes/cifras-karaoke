@@ -1,0 +1,84 @@
+@titulo: meu-vicio-agora
+@autor:
+@intérprete: Kid Abelha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kid Abelha - Meu Vício Agora
+
+George Israel / Paula Toller
+
+Intro:                  solo:
+E|-7/8-8-7---0-----0----|--------------------------------------------
+B|-------------6-----6--|---3-5-3------------------------------------
+G|---------5-----5------|-5--------5-4-2---2-4-5-4---4-2-------------
+D|----------------------|----------------5---------------5-3-2-------
+A|----------------------|--------------------------------------5-----
+E|----------------------|----------------------------------------3---
+
+[Intro:] C Em Am
+
+C        G/B   Dm7/9
+Não vou mais falar de amor
+C           G/B       D#º
+De dor, de coração, de ilusão
+F       C/E    Dm7
+Não vou mais falar de sol
+Bb9
+Do mar, da rua,
+                  G
+Da lua ou da solidão
+
+
+Meu vício agora é a madrugada
+Um anjo, um tigre e um gavião
+Que desenho acordada
+Contra o fundo azul
+Da televisão
+
+    Dm       G
+Meu vício agora
+Em            F
+É o passar do tempo
+    Dm      G
+Meu vício agora
+C4/G C    C4/G   C
+Movimento, é o vento
+   Am7/G  F
+É voar
+Em   G
+É voar
+
+Solo: F G F G
+
+Não vou mais verter
+Lágrimas baratas sem nenhum porquê
+Não vou mais vender
+Melôs manjadas de karaokê
+E mesmo assim fica interessante
+
+Não ser o avesso do que eu era antes
+De agora em diante
+Ficarei assim
+Desedificante
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7/G = 3 0 2 0 1 0
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C4/G = 3 3 5 5 6 3
+D#º = X X 1 2 1 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Dm7/9 = X 5 3 5 5 X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

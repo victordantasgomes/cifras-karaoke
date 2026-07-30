@@ -1,0 +1,58 @@
+@titulo: alo
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Alô
+
+C  G         C                      D
+A.lô ... Tô ligando pra saber como você está
+           Em        D          C
+Eu `tava à toa e por isso resolvi ligar
+        G                  D
+Pra contar que sonhei com você
+  G          C                   D
+Alô ... É tão bom ouvir de novo a sua voz
+Em             D          C
+Apesar da distância que há entre nós
+         G                    D
+Tem uma coisa que eu preciso dizer:
+      Am
+Na verdade eu liguei
+      G                     D
+Esse sonho inventei pra te ouvir
+         Am
+E pra contar que chorei
+         G                D
+E a solidão tava doendo em mim
+C    G       C         D
+Oh, ah ! ... Eu só menti pra não sofrer
+
+ C    G      C        D
+Oh, ah ! ... Eu só queria te dizer:
+       Am        D      G    D  E
+Tô morrendo de saudade de você !
+
+Solo para mudança de música
+    A      D         E
+Oh, ah ! ... Eu só menti pra não sofrer
+    A      D         E
+Oh, ah ! ... Eu só queria te dizer:
+      Bm           E         A
+Tô morrendo de saudade de você !
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

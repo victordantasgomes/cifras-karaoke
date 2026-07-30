@@ -1,0 +1,103 @@
+@titulo: campos-praias-e-paixoes
+@autor:
+@intérprete: Ira!
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ira! - Campos, Praias e Paixões
+
+[Intro]  D5  G5  A5  D5  G5  A5
+         A  B  C#  D5  D  C#  B  A5
+         A  B  C#  D5  D  C#  B  A5
+
+D                 G
+Quando acordado ele vive tristeza
+A7             D
+Rotina e poluição
+                      G
+Trabalha dobrado, mas ganha metade
+A7                                 D
+Salário de fome... mal paga o seu pão
+A7               D   A7              D    A7
+Mal paga o seu pão, mal paga o seu pão
+
+D                   G
+Seu rosto cansado esconde
+           A7        D
+A idade de seu coração
+
+G                      D
+E quando ele dorme, ele sonha com
+
+         A7                  D
+Campos, praias e loucas paixões
+
+G                      D
+E quando ele dorme, ele sonha com
+         A7                  D  D7
+Campos, praias e loucas paixões
+
+         G   D             G   D  A7
+Loucas paixões, loucas paixões
+
+D
+Seus passos velozes
+     G         A7
+Seu voto de silêncio
+              D
+Se perde em milhões
+
+Na corda ele anda
+     G
+Na vida ele é bamba
+A7
+E quando ele acorda
+
+G                         D
+E quando ele acorda, ele sonha com
+         A7                 D
+Campos, praias e loucas paixões
+
+G                         D
+E quando ele acorda, ele sonha com
+        A7                   D    D7
+Campos, praias e loucas paixões
+
+          G   D           G   D  A7  D7
+Loucas paixões, loucas paixões
+
+            G
+Dentro do metro
+A7          D
+Andando de ônibus
+           G
+Ou então `a pé
+A7           D
+Debaixo da chuva
+        G
+Fazendo amor
+A7       D
+No elevador
+                G
+Em terrenos baldios
+A7        D               G5  D5  A5
+Campos, praias e paixões
+
+( A  B  C#  D5  G5  A5  A  B  C#  D5 )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+A7 = X 0 2 0 2 0
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X

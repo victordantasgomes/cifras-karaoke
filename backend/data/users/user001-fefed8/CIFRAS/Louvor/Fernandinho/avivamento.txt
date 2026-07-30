@@ -1,0 +1,73 @@
+@titulo: avivamento
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Avivamento
+
+Intro:  Em  A7
+
+ Em7          A7      D/A              G/B
+Aviva-nos senhor, oh dai-nos teu poder.
+   Em7        D/G          D/A             Em7  A7
+De santidade fé e amor reveste nosso ser
+   Em7            A7    D/A          G/B
+Desperta-nos senhor oh faz-nos fluir
+   Em7             D/G       D/A            G
+As ricas bênçãos divinas primícias do por vir
+
+Em          C9       G         D9
+Aviva-nos senhor eis nossa petição
+  Am               G/B              D9        G
+Envia teu fogo do alto dos céus em cada coração
+Em          C9       G         D9
+Aviva-nos senhor eis nossa petição
+  Am               G/B              D9        Em7  A7  Em7  A7
+Envia teu fogo do alto dos céus em cada coração
+
+  Em7          A7    D/A              G/B
+Renova-nos senhor inspira mais fervor
+
+  Em7          D/G           D/A         G
+Aumenta nossa compaixão por todo pecador
+
+Em          C9       G         D9
+Aviva-nos senhor eis nossa petição
+  Am               G/B              D9        G
+Envia teu fogo do alto dos céus em cada coração
+Em          C9       G         D9
+Aviva-nos senhor eis nossa petição
+  Am               G/B              D9        Em7  A7  Em7  A7
+Envia teu fogo do alto dos céus em cada coração
+
+ Em                      A7       D4 D
+Aviva-nos, aviva-nos senhor  (3x)
+
+Em          C9       G         D9
+Aviva-nos senhor eis nossa petição
+  Am               G/B              D9        G
+Envia teu fogo do alto dos céus em cada coração
+Em          C9       G         D9
+Aviva-nos senhor eis nossa petição
+  Am               G/B              D9          C9  D  C9  D  C9  D
+Envia teu fogo do alto dos céus em cada coração
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/G = 3 X X 2 3 2
+D4 = X X 0 2 3 3
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

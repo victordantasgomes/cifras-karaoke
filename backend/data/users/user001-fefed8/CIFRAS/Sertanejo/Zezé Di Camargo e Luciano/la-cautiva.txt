@@ -1,0 +1,53 @@
+@titulo: la-cautiva
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - La Cautiva
+
+INTRO: ( A  C#m  Bm  E )  A
+
+A
+Oi mêne ôi Côpê jaíre pête in guira nhô míva amburrêia
+           C#m     Bm       E  Bm
+la cautiva ôi coreinhá putinbú Chêpu are diátapú  vaca num
+           E   Bm                E                     A
+duin chenharôva borai rrú chêarê côva Rrá êma nhanga tupú
+                 A
+Rrá cunhaipê árrátáva borai rrú icô a se íva che corazón on
+        C#m      Bm           E  Bm
+iô tíva kiu sêi chá uá borai rrú ôi corrângua cutú manterei
+          E   Bm              E                     A
+rrai rrú papê oúranguî xêrendapé rrai pêpopê xê pê jiú
+
+
+INTRO: ( A  C#m  Bm  E )  A
+
+A
+Oi mêne ôi Côpê jaíre pête in guira nhô míva amburrêia
+           C#m     Bm       E  Bm
+la cautiva ôi coreinhá putinbú Chêpu are diátapú  vaca num
+
+           E   Bm                E                     A
+duin chenharôva borai rrú chêarê côva Rrá êma nhanga tupú
+                 A
+Rrá cunhaipê árrátáva borai rrú icô a se íva che corazón on
+        C#m      Bm           E  Bm
+iô tíva kiu sêi chá uá borai rrú ôi corrângua cutú manterei
+          E   Bm              E                     A
+rrai rrú papê oúranguî xêrendapé rrai pêpopê xê pê jiú
+
+Solo final:  A  E  A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0

@@ -1,0 +1,62 @@
+@titulo: parede-do-destino
+@autor:
+@intérprete: Gilberto e Gilmar
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gilberto e Gilmar - Parede do Destino
+
+Introdução: E7 D A D E7 A
+
+A               E7             F#m            D         E7            A
+Eu pintei na tela do meu pensamento o mais lindo quadro que já se pintou
+      D           E7            A              B7             E7
+Uma casa com varanda e dentro dela alguém me completando no amor
+A               E7        F#m           D          E7            A
+E lá fora uma rede a balançar sobre o som da cachoeira cor de prata
+     D         E7              A            D        E7           A
+Era ali o paraíso em plena terra sobre o verde colorido de uma mata.
+
+       E7           D             A
+(Eu ficava sem ter dia, sem ter hora
+             E7                   A
+Nos braços dela ou no braço da viola
+       E7           D            A
+Eu ficava sem ter dia, sem ter hora
+             E7                   A
+Nos braços dela ou no braço da viola)
+
+A                 E7       F#m       D           E7      A
+E assim a minha vida eu levava duetando com o dolente sabiá
+
+       D          E7      A           B7              E7
+O rangido da porteira ecoava com o vento solto sob o luar
+A                 E7        F#m       D        E7          A
+Da janela lá de casa eu avisava a boiada que sumia no espigão
+         D         E7          A        D          E7           A
+E aos poucos a poeira ia baixando deixando acidentado o meu pingão.
+
+(...)
+
+A                       E7            F#m            D           E7          A
+Passo a passo nossos corpos se encontravam se entregavam sem deixar pára depois
+     D            E7        A       B7                           E7
+Parecia que a própria natureza caminhava de mãos dadas com nós dois
+A                      E7          F#m          D         E7       A
+Se eu pudesse transformar em realidade esse quadro existiria para mim
+       D         E7         A              D       E7         A
+Pendurado na parede do destino com certeza eu não sofreria assim.
+
+(...)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+D = X X 0 2 3 2
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

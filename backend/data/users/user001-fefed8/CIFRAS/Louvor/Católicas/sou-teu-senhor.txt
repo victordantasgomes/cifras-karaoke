@@ -1,0 +1,35 @@
+@titulo: sou-teu-senhor
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Sou Teu Senhor
+
+G            Am C         G   Em      C    D7                G
+O teu amor, a tua paz, a tua graça, meu Senhor me fazem tão bem.
+                 Am   D7              G      G/B         Em
+Tudo me das, Senhor Jesus, tudo que é bom tu tens pra mim
+            C          Am           D7
+Pensei  te dar a minha vida, mas também já era tua.
+      G      Am      D7      G
+O que ofertar, Senhor se nada tenho eu? Se tudo que hoje sou, é obra tua?
+G/B      Am          C      D7      G          G7
+Aceita então Senhor, ao menos a canção, que vem também do dom que Tu me deste.
+       C    Cm     G   Em       C      D7      G
+És grande,és dono, és meu viver, meu Deus e Senhor.     (bis)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

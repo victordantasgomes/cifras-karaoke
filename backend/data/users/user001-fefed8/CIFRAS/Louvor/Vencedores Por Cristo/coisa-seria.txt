@@ -1,0 +1,91 @@
+@titulo: coisa-seria
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Coisa Séria
+
+ Intro 4x:  Dm  Dm/F , E°  A7/C#
+
+Dm          Dm/F    E°    A7/C#
+Olhe que a coisa é séria, maninho,
+Dm     Dm/F  D/C D/F#
+É para vivenciar
+Gm7    A7     Dm     Dm/F
+E não pra falar apenas certinho
+E7(b9) Bb7(b5)  A7    A7/C#
+Sem ter vida pra mostrar.
+Dm      Dm/F  E°    A7/C#
+Pois o tempo passa logo, maninho
+Dm     Dm/F   D/C   D/F#
+E essa de aproveitar
+Gm7    A7  Dm  Dm/C
+Pode parecer até bom caminho
+Bb7M    A7    D4  D
+Mas, no fim, amargará
+
+D/F#   Em7     D    A/C#   Bm7
+Olhe, está em tuas mãos, abre o teu coração
+A7    G7M   D/F#
+Para o que Deus falou
+Em   Em/D    C#m7(b5)    G/B  A7
+Responderes sim ou não, é tua decisão
+      A7/G    D/F# A7
+Ao Seu imenso amor
+D/F#   Em7     D    D/C    B7
+Preste muita atenção, não é religião
+    B7/D# Em      D/F#
+E nem novas éticas
+G7M     G#°     D/A     B7      Em7
+
+Falo ao teu coração de uma direção
+      A7      D        D7/F#
+Pra uma vida autêntica
+G7M     G#°   D/A     B7    Em7
+Falo de ser um cristão, mas de viver pra Cristo
+A7    D    D7/F#
+E não de uma fé sem logica
+
+Falo ao teu coração de uma direção
+      A7      D        D7/F#
+Pra uma vida autêntica
+G7M     G#°   D/A     B7    Em7
+Falo de ser um cristão, mas de viver pra Cristo
+A7    D    D4  D
+E não de uma fé sem logica
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+A7/C# = X 4 5 2 5 X
+A7/G = 3 X 2 2 2 X
+B7 = X 2 1 2 0 2
+B7/D# = X X 1 2 0 2
+Bb7(b5) = X 1 2 1 3 X
+Bb7M = X 1 3 2 3 1
+Bm7 = X 2 4 2 3 2
+C#m7(b5) = X 4 5 4 5 X
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+D7/F# = X X 4 5 3 5
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+Dm/F = X X 3 2 3 1
+E7(b9) = X X 2 1 3 1
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+Em7 = 0 2 2 0 3 0
+E° = X X 2 3 2 3
+G#° = 4 X 3 4 3 X
+G/B = X 2 0 0 3 3
+G7M = 3 X 4 4 3 X
+Gm7 = 3 X 3 3 3 X

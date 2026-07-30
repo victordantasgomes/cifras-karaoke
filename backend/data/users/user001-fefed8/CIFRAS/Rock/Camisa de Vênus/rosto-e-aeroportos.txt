@@ -1,0 +1,70 @@
+@titulo: rosto-e-aeroportos
+@autor:
+@intérprete: Camisa de Vênus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Camisa de Vênus - Rosto e Aeroportos
+
+Intro 4x: Em C
+
+(obs: a parte do contra-baixo repete varias vezes na musica,
+Coloquei apenas num lugar, mas se quiser, toque onde tiver.)
+
+                 Em  C
+E|--------------0---0------------------
+B|--------------0---1------------------
+G|--------------0---0------------------
+D|------2-0-----2---2--(4x)----2-0-----
+A|-----2----2---2---3---------2----2---
+E|--------------0---0------------------
+
+Em            C
+   vou vestir a minha sombra
+   Em           C
+Preciso me proteger
+     G                      D
+Eu sempre manejei bem as palavras
+     C                  Em
+Mas agora não sei o que dizer
+
+                Em   C
+E|--------------0---0------------------
+B|--------------0---1------------------
+G|--------------0---0------------------
+D|------2-0-----2---2----------2-0-----
+A|-----2----2---2---3---------2----2---
+E|--------------0---0------------------
+
+Em             C
+  sua voz tão calma e fria
+Em        C
+  penetrou tão lentamente
+G           D
+ congelou o meu orgulho
+C       Em            Em  C
+ embaçou a minha mente
+
+Am                   C
+ vejo seu rosto nos aeroportos
+      F
+ nas ruas, nos cinemas, nos jornais
+Am                      C
+ vejo seus olhos nos faróis de meu carro
+   F
+À noite eles sempre brilham mais
+
+(solo) repete as notas da musica, em algumas partes, o contra-baixo
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

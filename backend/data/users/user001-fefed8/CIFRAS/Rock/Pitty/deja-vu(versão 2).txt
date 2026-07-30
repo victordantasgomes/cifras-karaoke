@@ -1,0 +1,131 @@
+@titulo: deja-vu(versão 2)
+@autor:
+@intérprete: Pitty
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Pitty - Déjà Vu
+
+Obs: Esse riff é tocado na introdução e acompanha a música quase toda, salvo o refrão;
+ouça a música e vc vai ver onde e como ele se encaixa.
+
+Afinação: Standard [ eBGDAE ]
+
+  RIFF                                                                             x2
+ e|----------------------------------------------------------------------------------|
+ B|---0----0----0----0----0----0----0----0----0----0----0----0----0----0----0-0h1p0--|
+ G|----------------------------------------------------------------------------------|
+ D|-2----2----0----0-----------------------------------------------------------------|
+ A|---------------------3----3----0----0-----------------------0----0----3-----------|
+ E|----------------------------------------0----0----3----3--------------------------|
+
+  RIFF 2ª Parte
+ e|---0-----------0----------0--------------------|
+ B|-----0-----------0----------0---------0-0h1p0--|
+ G|-------0-----------0----------0----------------|
+ D|-----------------------------------------------|
+ A|------------------------0----------3-----------|
+ E|-0-----------3---------------------------------|
+
+
+  Riff + Base
+
+  Em*     D          C       Am
+  Nenhuma verdade me machuca
+  Em       G           Am C
+  nenhum motivo me corrói
+  Em*        D    C           Am         Em G Am C
+  Até se eu ficar só na vontade já não dói
+  Em*      D          C       Am
+  Nenhuma doutrina me convence
+  Em        G         Am      C
+  Nenhuma resposta me satisfaz
+  Em*         D     C        Am        Em G Am C
+  Nem mesmo o tédio me surpreende mais
+
+          D                 Em
+           Mas eu sinto que eu tô viva
+ REFRÃO:  D                 Em       C     Cm              G
+          A cada banho de chuva que chega molhando o meu corpo
+
+ Riff2
+
+ b|-8-8-7-7-10-10-8-8-----------8-7-|                                          
+ G|------------------9-9-5-5-4-4----| 
+
+  Em*         D         C   Am
+  Nem um sofrimento me comove
+  Em         G          Am  C
+  Nem um programa me distrái
+  Em*       D        C         Am       Em G Am C
+  Eu oouvi promessas e isso não me atrái
+  Em*      D             C    Am
+  E não há razão que me governe
+  Em       G         Am   C
+  Nenhuma lei pra me guiar
+  Em*      D      C          Am         Em G Am C
+  eu tô exatamente aonde eu queria estar
+
+           REFRÃO
+
+  D               Em
+  A minha alma nem me lembro mais                Riff3
+  D                Em     C
+  Em que esquina se perdeu                       e|-8-7----------|
+  Cm                     G                       B|-----10-------|
+  Ou em que mundo se enfiou                      G|--------------|
+
+                   Am  C + Riff3                 D|------------2-|
+  Mas já faz algum tempo                         A|--------3-5---|
+
+  Já faz algum tempo
+                 G
+  Já faz algum tempo
+
+Solo
+Escute bem o solo pra entender como funciona.
+
+e|----8\7-5h7p5-------8\7-5h7p5------8\7-5h7p5-7\11~~11~~11/15~~--|
+B|--------------(5*)------------(5*)------------------------------|
+G|----------------------------------------------------------------|
+D|----------------------------------------------------------------|
+A|----------------------------------------------------------------|
+E|----------------------------------------------------------------|
+
+(5*) ou toque esse acorde (fica melhor)
+
+ Em/D
+e|-3-|
+B|-5-|
+G|-4-|
+
+Solo - Igor
+
+  D               Em
+  A minha alma nem me lembro mais
+  D                Em     C
+  Em que esquina se perdeu
+             Cm           G
+  Ou em que mundo se enfiou
+                    Am  C + Riff3
+  Mas eu não tenho pressa
+                 Am  C + Riff3
+  Já não tenho pressa
+                Am  C  + Riff3
+  Eu não tenho pressa
+               G
+  Não tenho pressa
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+G = 3 2 0 0 0 3

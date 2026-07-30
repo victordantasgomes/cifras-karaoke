@@ -1,0 +1,91 @@
+@titulo: aleluia
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Aleluia
+
+INTRO: :: C  G/C   C :  Am7 G/A Am7  :  Dm7 C/D Dm7  :  C/E F C/F F  : (2x)
+
+
+    C  G/C   C     Am7   G/A  Am7  Dm7   C/D  Dm7   C/E F  C/F  F
+ALELUIA         ALELUIA         ALELUIA              ALELUIA   (2X)
+
+        C  G/C  C         G/A    Am7
+LOUVADO SEJA,      MEU SENHOR E REI
+     Dm7   C/D  Dm7  C/E F2
+PARA SEMPRE,       ETERNAMENTE
+  F/G    C  G/C  C        G/A  Am7
+É BOM LOUVAR-TE,  ENGRANDECER-TE
+        Bb2   C/Bb  Bb2         Dm7  C/E  F2
+EM TODA TERRA           LOUVADO SEJA
+
+    C  G/C   C     Am7   G/A  Am7  Dm7   C/D  Dm7   C/E F  C/F  F
+ALELUIA         ALELUIA         ALELUIA              ALELUIA   (2X)
+
+        C  G/C  C        G/A    Am7
+LOUVADO SEJA,     MEU SENHOR E REI
+     Dm7   C/D  Dm7  C/E F2
+PARA SEMPRE,       ETERNAMENTE
+
+  F/G    C   G/C  C        G/A  Am7
+É BOM LOUVAR-TE,   ENGRANDECER-TE
+        Bb2   C/Bb  Bb2        Dm7 C/E F2
+EM TODA TERRA          LOUVADO SEJA
+
+Ponte: : F2  G  F/A  G/B :  (Tu somente...)
+
+
+C              F        Am7   G/B  C
+TU SOMENTE ÉS DIGNO DE RECEBER
+C/E           F       Am7
+GLÓRIA, MAJESTADE E DOMÍNIO
+     Dm7     C/D Dm7
+LEVANTAMOS NOSSAS MÃOS
+C/E     F          F/G : C  G/C  C : G/A  G/A Am7
+NOS PROSTRAMOS EM ADORAÇÃO
+     Dm7    C/D  Dm7
+LEVANTAMOS NOSSA VOZ
+C/E     F      1: Am7      Gsus      G   [ Aleluia...]
+               2: Am7    Am/G  : D/F# D/F# G : G/B A Bm7 A/C# : [Mod.]
+PARA EM TODA A TERRA PROCLAMAR
+
+MOD.:
+    D  A/D  D    Bm7  A/B  Bm7   Em7  D/E  Em7 D/F#  G D/G  G
+ALELUIA       ALELUIA         ALELUIA            ALELUIA  (2X)
+
+FIM: :  G/B  G/B  A/C#  :  D  ::
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A/D = X X 0 6 5 5
+Am/G = 3 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/Bb = X 1 2 0 1 X
+C/D = X X 0 0 1 0
+C/E = 0 3 2 0 1 0
+C/F = X 8 10 9 8 8
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+D/G = 3 X X 2 3 2
+Dm7 = X 5 7 5 6 5
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F/G = 3 X 3 2 1 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G/C = X 3 5 4 3 3
+Gsus = 3 2 0 0 0 3

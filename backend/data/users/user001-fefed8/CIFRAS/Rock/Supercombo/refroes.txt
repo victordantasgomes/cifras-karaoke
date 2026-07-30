@@ -1,0 +1,88 @@
+@titulo: refroes
+@autor:
+@intérprete: Supercombo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Supercombo - Refrões
+
+ Intro 4x: Am  C
+E|-----------------------------------------
+B|---/5-5-5--------------------------------
+G|---------4-4-4-4-4-4--7-7-7---------------
+D|---------------------------7-7-7---------
+A|-----------------------------------------
+E|-----------------------------------------
+
+
+Am          Em                Am         Em
+  Eu sou tão capaz quanto você de operar este coração
+Am
+ Não há mistério não
+Em
+É muito fácil de usar
+Am                Em7
+É só andar devagar cair em qualquer ilusão
+
+F     Dm                  Am    C
+ Refrões não fazem mais nada
+F     Dm      Am      C
+ Por nós, por nós
+
+
+( Am  C ) (2x)
+
+Am      Em
+ Você é quem faz tudo fluir
+Am            Em
+ Dois pontos e um travessão
+Am                Em
+ Não quero impedir a porta de se fechar
+Am                   Em7
+Talvez em outro lugar eu encontre algo de bom
+F     G Am C
+ Eu ouvi    você chorar ao sair
+
+F     Dm                  Am    C
+ Refrões não fazem mais nada
+F     Dm      Am      C
+ Por nós, por nós
+
+Am             Am                  Dm
+Quando me ver, lembre de que não sou mais o mesmo
+    F
+Rompemos o lacre (2x)
+
+Am7                  F7+            Dm                 Am7              C
+  Mas quem vai te ajudar quando o som dos trilhos te perturbar a noite inteira
+F7+  Dm
+Quem vai?
+Am   C
+Quem vai?
+
+F     Dm                  Am    C
+ Refrões não fazem mais nada
+F     Dm      Am      C
+ Por nós, por nós
+
+Am             Am                  Dm
+Quando me ver, lembre de que não sou mais o mesmo
+    F          G9    Am ~
+Rompemos o lacre
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G9 = 3 X 0 2 0 X

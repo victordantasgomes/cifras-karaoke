@@ -1,0 +1,73 @@
+@titulo: amar-voce
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Amar você
+
+[Intro] A  C#m  D9  E  E/D  C#m  F#m  D  E  E4 (A) E/A D/A A E/A D/A
+
+  A        E/G#  F#m     A/E
+Quando o amor toca o coração
+  D9        A/C#     Bm           E4 E
+Traz um sentimento maior que a paixão
+ A       E/G#       F#m          A/E
+Basta um olhar, um toque e nada mais
+  D9       A/C#       Bm         E4 C#/F
+Pra fazer feliz, como só você me faz
+ F#m                 C#m
+Deus uniu as nossas vidas de uma vez
+G6/A    A7         D
+E cada dia é o primeiro outra vez
+     Dm/B                    C#m7        F#m
+Como o primeiro olhar, nada nunca vai mudar
+     Bm7        E4       E
+Não vai mudar, não vai mudar
+
+  A            C#m    F#m   Bm
+Quando o amor toca o coração
+
+E        E/D    C#m              Bm  E7
+O tempo pára, a vida vira uma canção
+G6/A     A7              D         Dm/B
+E não há nada melhor do que amar você
+A/E                 D/E
+Eu nunca vou te perder
+ A/E                  D/E
+Foi Deus quem me deu você
+A/E              D/E
+É como poder sonhar
+   E E/G#      A
+E nunca acordar
+
+[A  C#m  D9  E  E/D  C#m  F#m  D  E  E4 (A) E/A  D/A  A  E/A  D/A]
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C#/F = X 8 X 6 9 9
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/E = X X 2 2 3 2
+D9 = X X 0 2 3 0
+Dm/B = X 2 X 2 3 1
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+G6/A = X 0 0 0 0 0

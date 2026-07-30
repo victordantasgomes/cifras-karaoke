@@ -1,0 +1,102 @@
+@titulo: pop-star
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - Pop Star
+
+Intro: Bb F Eb7+ F (4X) Ebm7
+
+Bb9                F      Gm                 Dm7
+Peguei uma onda "Manera", dei "Cutback, hang five, hang ten".
+Gm                 Dm7             Eb7+      D#5 C#5
+Eu sou o melhor surfista da minha rua.
+Bb9                  F       Gm                      Dm7
+Não tenho saco pra escola,    as minhas notas sempre são vermelhas.
+Gm                Dm7               Eb7+                         Eb/F               F5 D#5 D5 C5
+Mas eu não tô nem aí,    arrumo as malas e me mando pro Hawaii.
+
+Bb9             F      Gm                     Dm7
+A sua mãe não entende,   o feeling da minha guitarra no dez,
+Gm            Dm7         Eb7+       D#5 C#5
+e ela vendo  novela no onze.
+Bb9                   F      Gm                         Dm7
+Acho que ninguém me entende.   Me dizem que eu sou "new wave "demais.
+Gm                      Dm7       Eb7+      Cm7
+Eu vou na onda que mais alto me levar, me levar
+     Gm
+Me levar...
+
+
+Dm7                  Cm7          C#m7 Dm7                   Cm7
+A sua mãe diz que eu sou vagabundo       e o seu pai é tão esnobe:
+ Gm     F           Eb7+          Gm        F          Eb7+
+"Esse garoto não combina contigo, a gente arruma pra você um partido."
+Dm7              Cm7         C#m7 Dm7                          Cm7      C#m7     Dm7
+Mas, quando eu virar um astro,     com a minha guitarra e uma prancha ao lado,
+                      Cm7             Bb9           F        Eb7+              Eb/F
+Eu quero ver na hora do jantar, o seu pai sentado à mesa ao lado de um "pop star".
+
+( F5 D#5 D5 C5)
+
+         Bb          F            Eb7+    F        Bb          F      Eb7+
+E o neto dele também vai ser "new wave', filho de "pop star", "pop star" é.
+    F   Bb      F         Eb7+    F     Bb       F         Eb7+
+E vamos todos morar no Hawaii, tocar guitarra às três da manhã.
+      F  Bb         F       Eb7+
+E a vizinhança de cabelo em pé.
+   F   Bb          F        Eb7+     Ebm7
+E da maneira que a gente quiser.
+
+BASE DO SOLO :
+(Bb  F)  (Gm  Dm7)  (Gm  Dm7)  (Eb7+)   (D#5 C#5)
+
+Bb9                   F      Gm                         Dm7
+Acho que ninguém me entende.   Me dizem que eu sou "new wave "demais.
+Gm                      Dm7       Eb7+      Cm7
+Eu vou na onda que mais alto me levar, me levar
+     Gm
+Me levar..
+
+Dm7                    Cm7           C#m7 Dm7          Cm7
+A sua mãe diz que eu sou vagabundo      e o seu pai é tão esnobe:
+ Gm     F           Eb7+          Gm        F          Eb7+
+"Esse garoto não combina contigo, a gente arruma pra você um partido."
+Dm7              Cm7       C#m7 Dm7                          Cm7        C#m7
+Mas, quando eu virar um astro,    com a minha guitarra e uma prancha ao lado,
+   Dm7               Cm7              Bb9           F       Eb7+             Eb/F
+Eu quero ver na hora do jantar, o seu pai sentado à mesa ao lado de um "pop star".
+
+(F5 D#5 D5 C5)
+
+         Bb          F             Eb7+   F        Bb         F          Eb7+
+E o neto dele também vai ser "new wave', filho de "pop star", "pop star" é.
+  F     Bb      F        Eb7+     F     Bb       F         Eb7+
+E vamos todos morar no Hawaii, tocar guitarra às três da manhã.
+  F      Bb         F          Eb7+
+E a vizinhança de cabelo em pé.
+ F     Bb          F         Eb7+     Ebm7
+E da maneira que a gente quiser.
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+Bb9 = X 1 3 3 1 1
+C#5 = X 4 6 6 X X
+C#m7 = X 4 6 4 5 4
+C5 = X 3 5 5 X X
+Cm7 = X 3 5 3 4 3
+D#5 = X 6 8 8 X X
+D5 = X 5 7 7 X X
+Dm7 = X 5 7 5 6 5
+Eb/F = X 8 8 8 8 X
+Eb7+ = X X 1 3 3 3
+Ebm7 = X X 1 3 2 2
+F = 1 3 3 2 1 1
+F5 = 1 3 3 X X X
+Gm = 3 5 5 3 3 3

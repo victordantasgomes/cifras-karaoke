@@ -1,0 +1,87 @@
+@titulo: senhor-tu-que-es-amor
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Senhor, Tu Que És Amor
+
+[Intro] A9  F#m7  D9  E4/7
+        A9  F#m7  D9  E4/7
+
+   A9    F#m7       Bm7
+Senhor, tu que és amor
+     D/E         A
+Nos acolhe por favor
+  F#m7         Bm7
+Ensina que é preciso
+    E           C#m7
+Crescer em tua luz
+   F#m7      Bm7
+Viver em tua luz
+E            A
+Amar em tua luz
+
+( D/F#  Dm/F  E4/7  E7 )
+
+A9       F#7/A#          Bm7
+Cristo segura a minha mão
+      E4/7  E/D       C#m7
+Junto ao teu coração
+
+         F#m7  F#7/A#  Bm7
+Olha por mim e meus irmãos
+     E   E/G#    A
+Vem dar o teu perdão
+F#7/A#        Bm7
+Sinal do teu amor
+E4/7          A
+Sinal do teu amor
+
+( A9  F#m7  D9  E4/7 )
+
+   A   D7+/B       A/C#       D      E7
+Senhor,              tu que és amor
+      D/F#  E/G#  A
+Nos acolhe por favor
+  F#m7  F#m7/E   D6
+Ensina que é preciso
+    E7     E7/D    C#m7
+Crescer em tua luz
+ F#4/7  F#7/A#   Bm7  Dm6/F
+Viver em tua    luz
+E4/7    D/F#    E/G#   E/G#   A
+Amar    em       tu-----a   luz
+
+( Dm6/F  Dm7  A )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+D6 = X 5 4 2 0 X
+D7+/B = X 2 0 P2 P2 2
+D9 = X X 0 2 3 0
+Dm/F = X X 3 2 3 1
+Dm6/F = 1 X 0 2 0 X
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+E4/7 = 0 2 0 2 0 X
+E7 = 0 2 2 1 3 0
+E7/D = X 5 X 4 5 4
+F#4/7 = 2 4 2 4 2 X
+F#7/A# = 6 X 4 6 5 X
+F#m7 = 2 X 2 2 2 X
+F#m7/E = X X 2 2 5 2

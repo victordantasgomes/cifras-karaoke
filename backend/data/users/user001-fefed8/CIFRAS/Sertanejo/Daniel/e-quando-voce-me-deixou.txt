@@ -1,0 +1,110 @@
+@titulo: e-quando-voce-me-deixou
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - E Quando Você Me Deixou
+
+[Intro] A9  E  A  E
+        A9  E  A  E
+
+    E
+E quando você me deixou, fiquei ali passando mal
+    A9                     F#m7(11)    E/G#
+Fiquei um tempo...  sem sair
+    A9
+E como era de se esperar
+     B9                         E       A E
+Eu passei longas noites sem dormir
+
+     E
+Um outro alguém me viu assim, sentiu algum amor por mim
+     A9                    F#m(11)   E/G#
+E quis comigo...  se deitar
+      A9
+Eu contei tudo sobre nós
+    B9                         E           A        E           ( passagem:  E   F#m7(11)  E/G#  )
+E mesmo assim ela topou me acompanhar      (me acompanhar)
+
+
+     A9
+Eu não queria te encontrar, eu tinha medo de te ver
+  G#m                         C#7/4        C#7
+Medo de me descontrolar, de me trair, de me perder
+     F#m                            B7/4
+Que bom poder ter olhar assim nos olhos
+     B7               E          ( E  F#m7(11) E/G# )
+E sentir que pude te esquecer
+     A9
+Eu não queria me arriscar, eu não queria reviver
+   G#m                   C#7/4         C#7
+Agora posso relaxar, me entregar, me desprender
+    F#m                                       A9
+É muito bom te olhar assim de frente
+      B9              E               A        E             (  E  D/F# )
+E saber que pude te esquecer   (que pude te esquecer)
+
+[Solo] G  Em  C  Am  B7/4  B7
+
+     E
+Um outro alguém me viu assim, sentiu algum amor por mim
+     A9                 F#m(11)   E/G#
+E quis comigo...  se deitar
+     A9
+Eu contei tudo sobre nós
+    B9                        E         A          E          ( E  F#m7(11)  E/G# )
+E mesmo assim ela topou me acompanhar      (me acompanhar)
+
+    A9
+Eu não queria te encontrar, eu tinha medo de te ver
+ G#m                         C#7/4         C#7
+Medo de me descontrolar, de me trair, de me perder
+      F#m                            B7/4
+Que bom poder ter olhar assim nos olhos
+       B7               E          ( E  F#m7(11)  E/G#  )
+E sentir que pude te esquecer
+     A9
+Eu não queria me arriscar, eu não queria reviver
+  G#m                    C#7/4         C#7
+Agora posso relaxar, me entregar, me desprender
+   F#m                           A9
+É muito bom te olhar assim de frente
+      B9              E        A        E            (  E   F#m7(11)  E/G#  )
+E saber que pude te esquecer     (que pude te esquecer)
+
+A9
+Na na na    na na na na,  na na na    na na na na
+   G#m                        C#7/4         C#7
+Na na na    na na na na,  me entregar, me desprender
+    F#m                                       A9
+É muito bom te olhar assim de frente
+     B9              E                        E           A9
+E saber que pude te esquecer    (que pude te esquecer)
+             E
+Que pude te esquecer
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+B7/4 = X 2 4 2 5 2
+B9 = X 2 4 4 2 2
+C = X 3 2 0 1 0
+C#7 = X 4 3 4 2 X
+C#7/4 = X 4 6 4 7 4
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+F#m(11) = 2 2 4 2 2 2
+F#m7(11) = 2 X 2 2 0 X
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

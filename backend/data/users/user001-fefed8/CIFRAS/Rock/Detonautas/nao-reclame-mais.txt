@@ -1,0 +1,100 @@
+@titulo: nao-reclame-mais
+@autor:
+@intérprete: Detonautas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Detonautas - Não Reclame Mais
+
+(intro 2x) (riff 1)
+
+(riff 1)
+  F# E F# E F# E  B   C    D          B   F# E F# E F# E           D       A
+|---------------------------------------------------------------------------------|
+|---------------------------------------------------------------------------------|
+|-----------------4--------7-7-7-7---4-4------------------------7-7-7-7-----------|
+|---4-x-4-x-4-x---4--------7-7-7-7---4-4----4-x-4-x-4-2---------7-7-7-7----7-7----|
+|---4-4-4-4-4-4---2--------5-5-5-5---2-2----4-4.4-4-4-2---------5-5-5-5----7-7----|
+|---2-0-2-0-2-0-----------------------------2-0-2-0-2-0..------------------5-5----|
+
+ (riff 1)
+Não reclame mais  no meu ouvido  eu não aguento mais ouvi você fala de mim.. (2x)
+
+F#                               E
+ Pra onde vou  aonde estou  aonde vou
+                  B/D#                        D
+ aonde estou aonde vou aonde estou  você não pode ir..
+F#                     E
+Me deixa queto  me deixa em paz
+        B/D#                          D
+aonde agente se diverte é aonde eu quero ficar...
+
+
+ (riff 1)
+Não reclame mais  no meu ouvido  eu não aguento mais ouvi você fala de mim.. (2x)
+
+F#                               E
+ Pra onde vou  aonde estou  aonde vou
+                  B/D#                        D
+ aonde estou aonde vou aonde estou  você não pode ir..
+F#                     E
+Me deixa queto  me deixa em paz
+        B/D#                           D
+aonde agente se diverte é aonde eu quero ficar...
+
+(solo base) riff 1
+
+F#                             E
+Porque eu só quero brincar com você ee
+         B/D#                  D
+Mas eu só quero ficar com você ee
+   F#                     E
+Mas eu só quero brincar com você
+   B/D#                    D
+Mas eu só quero ficar com você..
+
+(riff 1)
+Se tu não quer entao me deixe em paz
+se não quizer entao me deixe em paz
+se tu não quer entao me deixe em paz
+entao me deixe em paz  Ôô..
+
+(ponte) F#
+
+ (riff 1)
+Não reclame mais  no meu ouvido  eu não aguento mais ouvi você fala de mim.. (2x)
+
+F#                             E
+Porque eu só quero brincar com você ee
+         B/D#                  D
+Mas eu só quero ficar com você ee
+   F#                     E
+Mas eu só quero brincar com você
+   B/D#                    D
+Mas eu só quero trepar com você..
+
+(riff 1)
+Se tu não quer entao me deixe em paz
+se não quizer entao me deixe em paz
+se tu não quer entao me deixe em paz
+entao me deixe em paz
+entao me deixe em paz
+entao me deixe em paz
+entao me deixe em paz
+entao me deixe em paz
+                   F#
+entao me deixe em paz!!!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2

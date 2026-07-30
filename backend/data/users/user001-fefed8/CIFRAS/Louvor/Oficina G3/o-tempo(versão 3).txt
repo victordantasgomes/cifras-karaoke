@@ -1,0 +1,116 @@
+@titulo: o-tempo(versão 3)
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - O Tempo
+
+Intro: Gm7  C9  F  Bb9
+
+ Gm7                 C9
+O vento toca o meu rosto
+      F                         Bb9
+Me lembrando que o tempo vai com ele
+  Gm                         C9
+Levando em suas asas os meus dias,
+     F          Bb9
+Desta vida passageira
+ Gm
+Minhas certezas, meus conceitos,
+          C9
+Minhas virtudes, meus defeitos
+F          Bb9
+Nada pode detê-lo...
+   Gm       F/A
+...O tempo se vai
+Bb9
+mas algo sempre guardarei...
+  Gm     F/A         Bb9           C9 C4 C9
+..O Teu amor, que um dia eu encontrei
+
+F        Gm        F/A         Bb9
+Os meus sonhos, o vento nao pode levar
+Dm     C9         F/A           Bb9
+A esperança, encontrei no Teu olhar
+F       Gm        F/A            Bb9
+Os meus sonhos, a areia não vai enterrar
+Dm       C          F/A            Bb9
+Porque a vida recebi ao Te encontrar...
+Gm                       C9
+...Nos Teus braços não importa o tempo
+     F              Bb9
+Só existe o momento de sonhar
+     Gm            C9
+E o medo que está sempre à porta
+         F
+Quando estou com Você
+        Bb9
+Ele não pode entrar...
+   Gm       F/A
+...O tempo se vai
+Bb9
+Mas algo sempre guardarei...
+  Gm     Am         Bb9           C9 C4 C9
+..O Teu amor, que um dia eu encontrei
+F        Gm        F/A         Bb9
+Os meus sonhos, o vento nao pode levar
+Dm     C         F/A            Bb9
+A esperança, encontrei no Teu olhar
+F       Gm        F/A            Bb9
+Os meus sonhos, a areia não vai enterrar
+Dm       C          Am             Bb9
+Porque a vida recebi ao Te encontrar...
+
+Solo:
+
+E|--------------------5-6-6a8-----6a8-----6-5---------|
+B|-----------5-6-8----------------------------6a8-----|
+G|--5----7---------------------5------------------5---|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|----------5-5---------5------6a8-------------5-6-8-6-5------------------------|
+B|---5-6-8------8-6-8----6-5----------------------8-6-5h6-8-6-5-----------------|
+G|-7--------------------------------------------------------------7-5-----------|
+D|------------------------------------------------------------------------------|
+A|------------------------------------------------------------------------------|
+E|------------------------------------------------------------------------------|
+
+E|--5-6-8h10h8-6-5-------------------------------------|
+B|---------------6-------------------------------------|
+G|---------------7-------------------------------------|
+D|-----------------------------------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+/ 35 37 25 26 28 15 16 18 25 18  / 16 15 28  /  35 37 25 26 28 15
+15 28 26 28 15 26 25 18 / 15 16 18 16 15 27 25 37 35 35  / 16 18 110 18 15 26 37 /
+
+F        Gm        F/A        Bb
+os meus sonhos, o vento nao pode levar
+Dm     C         F/A           Bb
+a esperança, encontrei no Teu olhar
+F       Gm        F/A            Bb9
+os meus sonhos, a areia não vai enterrar
+Dm       C          F/A             Bb9
+porque a vida recebi ao Te encontrar...
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+C4 = X 3 3 0 1 X
+C9 = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+Gm = 3 5 5 3 3 3
+Gm7 = 3 X 3 3 3 X

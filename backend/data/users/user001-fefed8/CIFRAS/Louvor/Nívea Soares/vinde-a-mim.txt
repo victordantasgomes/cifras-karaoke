@@ -1,0 +1,114 @@
+@titulo: vinde-a-mim
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Vinde a Mim
+
+Intro: Bb9  B9/G  F/Eb  Bb/D  Bbm/C#   Cm7  Fsus4/9  F9
+
+Bb              Gm7           F/Eb          Eb
+  Vinde a mim todos vos que estais cansados
+Bb/D   Cm7    Bb9/D     Eb  Fsus4/9 F9
+  e Eu vos aliviarei Tudo novo Eu farei
+Bb                 Gm7      F/Eb        Eb
+  Vinde a mim todos vos que tendes sede
+ Bb/D  Cm7    Bb9/D     Ab9       Bb9/G  F/A
+  e Eu vos saciarei águas vivas vos darei
+     Ab9                    Eb/G
+  Descanso achareis pra vossas almas
+     Ab9              Eb/G
+  e todas as feridas sararei
+     Gb9               Db/F
+  Um novo nome nova vida vos darei
+   Gb9               F7sus4   F9/A
+  e vos mostrarei o meu amor
+
+Bb9      Dm7   Eb9         Bb9/D
+  Vinde e bebei  das aguas que vem
+
+         Cm7      Bb9/D        Ab9     F7sus4  F9
+  do Meu trono de amor do Meu trono de amor
+ Bb9      Dm7     Eb9        Bb9/D
+  Vinde e vivei da alegria que vem
+         Cm7      Bb9/D        Ab9     Eb/G   F9/A
+  do meu trono de amor do meu trono de amor
+
+Intro 2: Bb  Bb/G  Bbm/C#
+
+(Estrofe)
+
+(Ponte 1)
+
+(Refrão)
+
+( Bb9 )
+
+(Ponte 2)
+
+          Gb9    F7     Bb9
+  Sim eu venho a Ti    senhor
+        Gb9       F7          Bb9
+  pois eu quero viver em tuas águas
+  F/A   Gm   F9
+ Tomo sobre  mim
+    Eb9 Bb9/D  Db9          G#/C  F7sus4         F/G G
+  Teu jugo     ensina me a ser manso e humilde de coracao
+
+ C9       C9/E       F         C9/E
+  Vinde e bebei  das águas que vem
+         Dm7       C9/E       Bb9      G7sus4  G9
+  do meu trono de amor do meu trono de amor
+ C9       C9/E       F         C9/E
+  Vinde e vivei da alegria que vem
+         Dm7       C9/E       Bb9      F/A  G9
+  do meu trono de amor do meu trono de amor
+
+( C  C/E  F  C/E  A7(13) (Dm C/E F/G C9 C4 C9)
+
+----------------- Acordes -----------------
+A7(13) = X 0 X 0 2 2
+Ab9 = 4 6 8 5 4 4
+B9/G = 3 2 4 4 2 2
+Bb = X 1 3 3 3 1
+Bb/D = X 5 X 3 6 6
+Bb/G = 3 X 3 3 3 X
+Bb9 = X 1 3 3 1 1
+Bb9/D = X 5 3 3 1 1
+Bb9/G = 3 X 3 3 1 1
+Bbm/C# = X 4 X 3 6 6
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C4 = X 3 3 0 1 X
+C9 = X 3 5 5 3 3
+C9/E = X X 2 5 3 0
+Cm7 = X 3 5 3 4 3
+Db/F = X 8 X 6 9 9
+Db9 = X 4 6 6 4 4
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Eb = X 6 5 3 4 3
+Eb/G = 3 X 1 3 4 X
+Eb9 = X 6 8 8 6 6
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F/Eb = X X 1 2 1 1
+F/G = 3 X 3 2 1 X
+F7 = 1 3 1 2 1 1
+F7sus4 = 1 3 1 3 1 X
+F9 = 1 3 5 2 1 1
+F9/A = 5 X X 5 6 3
+Fsus4/9 = 1 1 3 3 1 3
+G = 3 2 0 0 0 3
+G#/C = X 3 X 1 4 4
+G7sus4 = 3 5 3 5 3 X
+G9 = 3 X 0 2 0 X
+Gb9 = 2 4 6 3 2 2
+Gm = 3 5 5 3 3 3
+Gm7 = 3 X 3 3 3 X

@@ -1,0 +1,67 @@
+@titulo: seu-nome
+@autor:
+@intérprete: KLB
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+KLB - Seu Nome
+
+Intro: F7+ Gm7 F7+ Gm7 
+
+ F7+            Gm7
+Quando escuto a sua voz
+F7+          Gm7
+Estremeço me dá um nó
+Bb      Am7       Dm  C
+Sinto o tempo me tocar
+Bb       Am7        Dm       G
+Como um beijo que ficou no ar
+        Bb Am Gm7 C7
+Foi bom
+ F7+        Gm7
+Como posso te esquecer
+ F7+             Gm7
+Se o teu perfume está em mim
+Bb      Am7       Dm7  C
+Invadindo sem querer
+Bb    Am7          Dm7        G
+Tudo passa e eu só sei dizer
+    F         Gm7   C7
+Seu nome, seu nome
+ F                 C
+Tudo aquilo que senti
+Gm7                    C7
+Não dá mais pra se apagar
+F               Bb        Am7              Gm7
+Fecho os olhos não  te esqueço deito e amanheço
+                C7
+Como é bom lembrar
+
+ F                 C
+Tudo aquilo que senti
+Gm7                   C7
+Não dá mais pra se apagar
+F              Bb         Am7              Gm7
+Fecho os olhos não  te esqueço deito e amanheço
+                C7
+Como é bom lembrar
+      F        Gm7      Dm7 Am7    F7+ INTRO.
+Seu nome, seu nome seu nome,   amooor
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+Gm7 = 3 X 3 3 3 X

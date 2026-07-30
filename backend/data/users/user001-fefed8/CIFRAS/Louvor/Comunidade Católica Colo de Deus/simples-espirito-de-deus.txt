@@ -1,0 +1,53 @@
+@titulo: simples-espirito-de-deus
+@autor:
+@intérprete: Comunidade Católica Colo de Deus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Colo de Deus - Simples Espirito de Deus
+
+[Intro] C  G  F7/C
+        C  C7M  F7/C
+
+ C     C/E          F7M
+Santo Espírito de Deus
+ C      C/E        F7M
+Doce Espírito de Deus
+ Am7     G           F
+Simples Espírito de Deus
+ Am7     G           F
+Santo Espírito de Deus
+
+ Am     G           F
+Ooh, ooh, ooh, ooh
+
+  Am7     G           F
+Aquece outra vez meu coração
+ Am7     G           F
+Aquece outra vez meu coração
+ Am7     G           F
+Aquece outra vez meu coração
+
+Am7     G           F
+Aquece outra vez meu coração
+
+  C      G        Am          F
+Atraido fui, pelo som da Tua voz
+  C        G         Am          F
+Alcançado fui, pelo Teu imenso amor
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C7M = X 3 2 0 0 X
+F = 1 3 3 2 1 1
+F7/C = X 3 3 2 4 X
+F7M = 1 X 2 2 1 X
+G = 3 2 0 0 0 3

@@ -1,0 +1,201 @@
+@titulo: atrasadinha-part-ferrugem
+@autor:
+@intérprete: Felipe Araújo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Felipe Araújo - Atrasadinha (part. Ferrugem)
+
+[Intro]
+C9  D9
+
+[TAB da Intro]
+
+Parte 1 de 2
+   C9                    D9        H.N.
+E|-------3-x--------3-x--------5-x----------|
+B|-------3-x--------3-x--------5-x--7-------|
+G|-----5---x------5---x------7---x--7-------|
+D|---5-----x----5-----x----7-----x--7-------|
+A|-3-------x--3-------x--5-------x----------|
+E|---------x----------x----------x----------|
+
+Parte 2 de 2
+E|------------------------------------------|
+B|------------------------------------------|
+G|------------------------------------------|
+D|-------------5--4--4/7--------------------|
+A|-----5----2--2--2-------------------------|
+E|-5h7---7--0-------------------------------|
+
+
+[Primeira parte]
+
+   C9
+Botei a melhor roupa
+
+Pra esconder os meus defeitos
+D9
+   Exagerei no perfume
+
+Pra te impressionar
+Bm7                                  Em7
+    Cheguei mais cedo pra te ver chegar
+
+[DEDILHADO - Primeira parte]
+
+Parte 1 de 2
+   C9                    D9                     
+E|-------3-x-------3-x-------5-x-------5-x--|
+B|-------3-x-------3-x-------5-x-------5-x--|
+G|-----5---x-----5---x-----7---x-----7---x--|
+D|---5-----x---5-----x---7-----x---7-----x--|
+A|-3-------x-3-------x-5-------x-5-------x--|
+E|---------x---------x---------x---------x--|
+
+Parte 2 de 2
+   Bm7                  Em7                    
+E|-------2-x-------2-x---3------------------|
+B|-------3-x-------3-x---3------------------|
+G|-----2---x-----2---x---0------------------|
+D|---4-----x---4-----x---2------------------|
+A|-2-------x-2-------x---2------------------|
+E|---------x---------x---0------------------|
+
+
+[Pré-refrão]
+
+           C9
+E você chegou
+                       D9
+Atrasadinha, mas tava linda
+            Bm7
+E a boca calou
+                            Em7
+Mas meu coração gritou por cima
+ C9
+Vai na fé, aposta nela
+                     D9
+Que ela é uma boa menina
+
+[Refrão]
+
+            C9
+Vamos pular
+                                     D9
+A parte que eu peço aquele vinho do bom
+                               Bm7
+A taça não merece tirar seu batom
+                                      Em7
+Deixa comigo que pra isso eu tenho o dom
+
+            C9
+Vamos pular
+                                     D9
+A parte que eu peço aquele vinho do bom
+                               Bm7
+A taça não merece tirar seu batom
+                                      Em7
+Deixa comigo que pra isso eu tenho o dom
+    Am7
+E daí que é nosso primeiro encontro?
+ Cm                       G9  C9  G9  C9
+Hoje eu te beijo e pronto
+
+
+[DEDILHADO DO FINAL DO REFRÃO]
+Parte 1 de 2
+   G9                  C9                    
+E|-------5-x-------5-x-------3-x-------3-x--|
+B|-------3-x-------3-x-------3-x-------3-x--|
+G|-----4---x-----4---x-----5---x-----5---x--|
+D|---5-----x---5-----x---5-----x---5-----x--|
+A|---------x-3-------x-3-------x-3-------x--|
+E|-3-------x---------x---------x---------x--|
+
+Parte 1 de 2
+   G9                  C9                    
+E|-------5-x-------5-x-------3-x-------3-x--|
+B|-------3-x-------3-x-------3-x-------3-x--|
+G|-----4---x-----4---x-----5---x-----5---x--|
+D|---5-----x---5-----x---5-----x---5-----x--|
+A|---------x-3-------x-3-------x-3-------x--|
+E|-3-------x---------x---------x---------x--|
+
+[Pré-refrão]
+
+           C9
+E você chegou
+                       D9
+Atrasadinha, mas tava linda
+            Bm7
+E a boca calou
+
+                            Em7
+Mas meu coração gritou por cima
+ C9
+Vai na fé, aposta nela
+                     D9
+Que ela é uma boa menina
+
+
+[Refrão]
+
+            C9
+Vamos pular
+                                     D9
+A parte que eu peço aquele vinho do bom
+                               Bm7
+A taça não merece tirar seu batom
+                                      Em7
+Deixa comigo que pra isso eu tenho o dom
+
+            C9
+Vamos pular
+                                     D9
+A parte que eu peço aquele vinho do bom
+                               Bm7
+A taça não merece tirar seu batom
+                                      Em7
+Deixa comigo que pra isso eu tenho o dom
+
+            C9
+Vamos pular
+                                     D9
+A parte que eu peço aquele vinho do bom
+                               Bm7
+A taça não merece tirar seu batom
+                                      Em7
+Deixa comigo que pra isso eu tenho o dom
+    Am7
+E daí que é nosso primeiro encontro?
+ Cm                       G  C9  G
+Hoje eu te beijo e pronto
+ C9                     G  C9  G
+Hoje eu te beijo e pronto
+ C9                       (frase final)
+Hoje eu te beijo e pronto
+
+[TAB - Frase Final]
+
+E|-8p7-------------------------------------------------|
+B|-----8-----------------------------------------------|
+G|-------7---------------------------------------------|
+D|---------10-9-9--------------------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C9 = X 3 5 5 3 3
+Cm = X 3 5 5 4 3
+D9 = X 5 7 7 5 5
+Em7 = 0 2 2 0 3 3
+G = 3 2 0 0 3 3
+G9 = 3 X 5 4 3 5

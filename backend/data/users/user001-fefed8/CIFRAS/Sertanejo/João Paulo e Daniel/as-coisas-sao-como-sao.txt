@@ -1,0 +1,63 @@
+@titulo: as-coisas-sao-como-sao
+@autor:
+@intérprete: João Paulo e Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+João Paulo e Daniel - As Coisas São Como São
+
+  C                                          Am Dm
+Às vezes quando agente sonha, sai fora da realidade
+                          G                                         C
+E cai nas armadilhas do coração, e finge que não vê as coisas como são
+                     C7                F            Fm
+Fui eu que estraguei tudo, fui eu que viajei na imaginação
+                     C      G7                 C G7
+Fui eu que fiz gol contra, fui o meu próprio vilão
+C                 G7                            C
+Você até que me queria, mas nunca disse que me amava
+                   Dm      G7       F                 C
+Eu tinha em minhas mãos um boi, achei que tinha uma boiada
+                     G7         F                C
+Não jurou amor pra sempre, não quis nem quer me enganar
+                        G7         F         C
+Fui fundo neste amor sozinho e sozinho vou voltar
+
+(Intro)
+
+                     C7                F            Fm
+Fui eu que estraguei tudo, fui eu que viajei na imaginação
+
+                     C      G7                 C G7
+Fui eu que fiz gol contra, fui o meu próprio vilão
+C                 G7                            C
+Você até que me queria, mas nunca disse que me amava
+                   Dm      G7       F                 C
+Eu tinha em minhas mãos um boi, achei que tinha uma boiada
+                     G7         F                C
+Não jurou amor pra sempre, não quis nem quer me enganar
+                        G7         F         C
+Fui fundo neste amor sozinho e sozinho vou voltar
+C                 G7                            C
+Você até que me queria, mas nunca disse que me amava
+                   Dm      G7       F                 C
+Eu tinha em minhas mãos um boi, achei que tinha uma boiada
+                     G7         F                C
+Não jurou amor pra sempre, não quis nem quer me enganar
+                        G7         F         C
+Fui fundo neste amor sozinho e sozinho vou voltar
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

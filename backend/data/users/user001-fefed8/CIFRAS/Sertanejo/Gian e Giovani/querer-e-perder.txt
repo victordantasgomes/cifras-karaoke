@@ -1,0 +1,96 @@
+@titulo: querer-e-perder
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Querer e perder
+
+ Intro D7 G  G6 G7+ G6 D D6 D7+ D6 A Em A D D4 D
+
+                   D D7+ D6                 Em Em/Eb Em/D Em/Db
+QUANDO EU TE CONHECI        A VIDA ME ENSINOU
+                A4/7  A7  A4/7           A7   D  D4 A4/7
+QUE CUSTA CARO SER FELIZ       O PRECO E A DOR
+                 D D7+ C/D                   G G7+ G6
+SABER QUE TE PERDI         NAO FOI UM MAL PIOR
+                 D A* A4/7                       D D7+
+PIOR FOI DESCOBRIR         QUE OUTRA IGUAL NAO HA
+
+C/D     D7        G     G6        G7+  G6
+ MAS E MELHOR QUERER E DEPOIS PERDER
+G               G  D6 D7+          D6     A7
+QUE NUNCA TER AMADO       ESTEJA ONDE ESTIVER
+            Em       A7     D   D7+
+EU TEREI VOCE SEMPRE AO MEU LADO
+C/D     D7      G      G6       G# G6
+MAS E MELHOR QUERER E DEPOIS PERDER
+G               D  D6 D7+          D6     A7
+QUE NUNCA TER AMADO       ESTEJA ONDE ESTIVER
+
+             Em      A7     D   D9 D
+EU TEREI VOCE SEMPRE AO MEU LADO
+
+solo. D7 G G6 G7+ G6 D D6 D7+ D6 A Em A D D4 D
+
+B4 7           Eb Eb7+ Eb6              Fm   Fm/E Fm/Eb Fm/D
+O QUE SERA DE MIM          SE COM O SEU ADEUS
+                 Bb4/7   Bb7 Bb7/9
+SE VAO TODOS OS SONHOS MEUS
+                Eb Eb4 Eb Bb4/7
+E AS MINHAS ILUSOES
+               Eb Eb7+ Db/Eb          Ab Ab7+ Ab6
+SE EU ERREI DEMAIS      POR TE AMAR ASSIM
+                Eb Bb* Bb4/7                    Eb Eb7+
+CONDENE-ME A VIVER           COM ESSE AMOR EM MIM
+
+Db/Eb     Eb7       Ab    Ab6      Ab7+ Ab6
+   MAS E MELHOR QUERER E DEPOIS PERDER
+A6             Eb  Eb6 Eb7+          Eb6    Bb7
+QUE NUNCA TER AMADO         ESTEJA ONDE ESTIVER
+            Fm       Bb7     Eb  Eb7+
+EU TEREI VOCE SEMPRE AO MEU LADO
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4/7 = X 0 2 0 3 0
+A6 = 5 X 4 6 5 X
+A7 = X 0 2 0 2 0
+Ab = 4 3 1 1 1 4
+Ab6 = 4 X 3 5 4 X
+Ab7+ = 4 X 5 5 4 X
+B4 = X 2 4 4 5 2
+Bb = X 1 3 3 3 1
+Bb4/7 = X 1 3 1 4 1
+Bb7 = X 1 3 1 3 1
+Bb7/9 = X 1 0 1 1 X
+C/D = X X 0 0 1 0
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D6 = X 5 4 2 0 X
+D7 = X X 0 2 1 2
+D7+ = X X 0 2 2 2
+D9 = X X 0 2 3 0
+Db/Eb = 11 X 11 10 9 X
+Eb = X 6 5 3 4 3
+Eb4 = X 6 8 8 9 6
+Eb6 = X X 1 3 1 3
+Eb7 = X 6 5 6 4 X
+Eb7+ = X X 1 3 3 3
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+Em/Db = X 4 2 0 0 X
+Em/Eb = X X 1 0 0 0
+Fm = 1 3 3 1 1 1
+Fm/D = X 5 X 5 6 4
+Fm/E = X X 2 1 1 1
+Fm/Eb = X 6 X 5 6 4
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G6 = 3 X 2 4 3 X
+G7+ = 3 X 4 4 3 X

@@ -1,0 +1,52 @@
+@titulo: sopra-espirito-de-deus
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Sopra, Espírito de Deus
+
+INT -> [ Dm7 A#7+ | A#7+ Am7 Gm7 Am7 | Dm7 Dm/C A#7+ Gm7 Am7 A#7+ ]
+
+ Dm            C  A#7+           Am  Gm      Am        Dm A#7+ C Dm
+SOPRA DOS QUATRO CANTOS ESPÍRITO,   SOPRA ESPÍRITO DE DEUS
+
+ Dm          C    A#7+          Am     Gm                 A#7+
+SOPRA VENTO DO ESPÍRITO! ENCHE TODA A TERRA COM A GLÓRIA DO
+ C/A#  A#/C C
+SE___NHO_____R
+ Dm             C  A#7+     Am7     Gm  Am7            Dm A#7+ C Dm
+SOPRA, VENTO IMPETUOSO E ESPALHA O FOGO,   FOGO ABRASADOR
+
+ Dm             C      A#7+       Am7     Gm7
+SOPRA, SOBRE OS OSSOS SECOS, E RENOVA AS FORÇAS AO CANSADO E
+ A#7+  C/A#  A#/C C
+SEM   VI____GO_____R
+ Dm        C     A#7+        Am7      Gm7 Am7                 Dm
+SOPRA FÔLEGO DE VIDA E TRANSFORMA OS VALES   EM FONTES DE LOUVOR
+
+ Gm                 Dm        Gm                        Dm /E /F /G
+SOPRA COMO EM PENTECOSTES UM SOM DO CÉU, UM HINO DE LOUVOR
+
+/A /G /F /G  Gm                   Dm      Gm         A#7+         A7
+            SOPRA UM GRANDE AVIVAMENTO, AVIVA-NOS, AVIVA-NOS, SENHOR
+
+----------------- Acordes -----------------
+A#/C = X 3 X 3 3 1
+A#7+ = X 1 3 2 3 1
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C/A# = X 1 2 0 1 X
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+Gm = 3 5 5 3 3 3
+Gm7 = 3 X 3 3 3 X

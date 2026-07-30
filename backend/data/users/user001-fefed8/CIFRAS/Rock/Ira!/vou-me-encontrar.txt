@@ -1,0 +1,85 @@
+@titulo: vou-me-encontrar
+@autor:
+@intérprete: Ira!
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ira! - Vou Me Encontrar
+
+Intro: E
+
+ E         C#m          A
+ Tudo na cidade tem seu preço
+ E/G#        B7
+ Vou me encontrar
+ E              C#m            A
+ As ruas do meu bairro são meu berço
+ E/G#        B7
+ Vou me encontrar
+ E              C#m               A
+ Não vou mais sofrer nas mãos dos outros
+ E/G#        B7
+ Vou me encontrar
+ E            C#m           A
+ Nunca vou deixar de ser eu mesmo
+ E/G#        B7
+ Vou me encontrar
+
+ F#m
+ Nos jornais
+
+       E
+ Há notícias más e boas
+ F#m
+ Na manhã
+      D        Bm   A  B7
+ Para por meus pés  no chão
+
+ E                 C#m         A
+ Entre o velho e o novo sou ciumento
+ E/G#        B7
+ Vou me encontrar
+ E           C#m            A
+ Todo dia um prédio vai crescendo
+ E/G#        B7
+ Vou me encontrar
+
+ F#m
+ Nos jornais
+       E
+ Há notícias más e boas
+ F#m
+ Na manhã
+       D       Bm   A  B7
+ Para por meus pés  no chão
+       D       Bm   A  B7
+ Para por meus pés  no chão
+
+E
+
+ E                 C#m         A
+ Entre o velho e o novo sou ciumento
+ E/G#        B7
+ Vou me encontrar
+ E           C#m            A
+ Todo dia um prédio vai crescendo
+ E/G#        B7
+ Vou me encontrar
+
+ F#m E A (D Bm B) D Bm A B E
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

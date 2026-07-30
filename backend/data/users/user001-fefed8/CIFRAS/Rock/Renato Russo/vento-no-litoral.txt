@@ -1,0 +1,113 @@
+@titulo: vento-no-litoral
+@autor:
+@intérprete: Renato Russo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renato Russo - Vento no Litoral
+
+Intro: Am Em Am Em F C F C
+
+   Am                Em
+E|-----0----------|------7----5---3-|
+B|----------3---1-|---------5---5---|
+G|--2-----2---2---|---9-------------|
+D|----------------|-----------------|
+A|----------------|-----------------|
+E|----------------|-----------------|
+
+       F                 C
+E|-----------------|----------------|
+B|-----6----5----3-|----5----3----1-|
+G|-----------------|----------------|
+D|--7----5----3----|-5----3----2----|
+A|-----------------|----------------|
+E|-----------------|----------------|
+
+    Am                       Em
+De tarde quero descansar, chegar até a praia
+         Am
+Ver se o vento ainda está forte
+
+          Em
+E vai ser bom subir nas pedras
+        C
+Sei que faço isso pra esquecer
+   Bb
+Eu deixo a onda me acertar
+    Am                       F    G Am F G C F
+E o vento vai levando tudo embora.
+
+                Em
+Agora está tão longe
+                   Dm
+Vê, a linha do horizonte me distrai:
+           G                          F
+Dos nossos planos é que tenho mais saudade,
+                 Em                   Dm
+Quando olhávamos juntos na mesma direção.
+
+      Bb
+Aonde está você agora
+         Am
+Além de aqui, dentro de mim?
+
+(Intro) F G Am F G Am
+
+C
+Agimos certo sem quere
+G/B
+Foi só o tempo que errou
+Bb
+Vai ser dificil sem você
+   A4              A            Dm
+Porque você está comigo o tempo todo.
+
+Quando vejo o mar
+C
+Existe algo que diz:
+     G/B      Am            G           F
+- A vida continua e se entregar é uma bobagem
+
+Em          A7        Dm
+Já que você não está aqui,
+             Dm/C    Bb        G
+O que posso fazer é cuidar de mim.
+      C
+Quero ser feliz ao menos.
+F             Bb           G
+Lembra que o plano era ficarmos bem?
+
+  Am  Em                Am   G G7  C                F E4 E
+- Ei, olha só o que eu achei:    cavalos-marinhos
+
+(Intro 2x) Am Em
+
+Em        C
+Sei que faço isso pra esquecer
+   Bb
+Eu deixo a onda me acertar
+    Am                       F   G C
+E o vento vai levando tudo embora
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

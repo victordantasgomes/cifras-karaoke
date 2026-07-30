@@ -1,0 +1,101 @@
+@titulo: a-outra(simplificada)
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - A Outra
+
+    G
+Trouxe o meu colchão pra sala
+  C                      Cm
+Hoje eu vou dormir aqui
+     Em           A9
+Pois não quero relembrar
+    C9         D
+Os momentos que vivi
+       G
+O lençol que a gente usava
+  C               Cm
+Tem perfume de jasmim
+  Em                 A
+O que tanto me agradava
+C9                     D
+Hoje não faz bem pra mim
+                 Em
+Depois que você foi embora
+           A
+Entrou outra em seu lugar
+     C                  Am                  D
+E é só quando eu me deito que ela vem me visitar
+
+
+      G
+Passa a mão em meus cabelos
+    Em              Bm
+Insiste muito em me beijar
+    C            Em           D
+E eu com delicadeza peço pra se afastar
+  Em                 D
+Eu não quero compromissos
+  Em              Bm
+Nem tão pouco me apegar
+   C             Am
+Nem novela tenho visto
+  D                       G D
+Dá vontade de chorar, de  chorar
+
+ G               B              Em
+Tenho medo de acordar de madrugada
+     C#m  G  C
+E uma luz  semi apagada
+      Am             D
+Refletir ela pra mim
+  G          B7                 Em             G
+Sei que está tão curiosa e louca pra me perguntar
+   C               G
+Quem está no seu lugar
+C              D                      G
+Quem roubou me coração se chama solidão
+
+  Em                 D
+Eu não quero compromissos
+  Em              Bm
+Nem tão pouco me apegar
+   C             Am
+Nem novela tenho visto
+  D                       G D
+Dá vontade de chorar, de  chorar
+
+ G               B              Em
+Tenho medo de acordar de madrugada
+     C#m  G  C
+E uma luz  semi apagada
+      Am             D
+Refletir ela pra mim
+  G          B7                 Em             G
+Sei que está tão curiosa e louca pra me perguntar
+   C               G
+Quem está no seu lugar
+C              D                      G
+Quem roubou me coração se chama solidão
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+C9 = X 3 5 5 3 3
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

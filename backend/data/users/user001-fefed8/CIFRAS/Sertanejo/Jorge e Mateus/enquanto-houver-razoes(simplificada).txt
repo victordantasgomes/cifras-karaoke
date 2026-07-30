@@ -1,0 +1,127 @@
+@titulo: enquanto-houver-razoes(simplificada)
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Enquanto Houver Razões
+
+Intro: E  F#  B5(9)  F#  E
+
+Primeira Parte:
+
+G#m
+  Eu já fiz de tudo pra te convencer
+E                                      B5(9)
+  Mandei rosas vermelhas lindas pra você
+           F#              G#m
+Falei de amor  fiz uma canção
+
+A lua se foi  nem vi o sol chegar
+E                                  B5(9)
+  Acreditei que o tempo não ia passar
+        F#
+Foi ilusão
+
+Segunda Parte:
+C#m
+  Enquanto houver razões eu não vou desistir
+E                                     B5(9)
+  Se for pra eu chorar  quero chorar por ti
+
+                  F#
+Porque não te esqueço
+C#m
+  Vou te esperar passe o tempo que for
+E                               B5(9)
+  Deixe bem guardado esse nosso amor
+                 F#
+Sei que eu te mereço
+
+Refrão:
+B5(9)                  F#
+  Eu vou deixar você voar
+              G#m             E
+Bater as suas asas pra longe de mim
+B5(9)                     F#
+  Mas só pra ver você voltar
+               G#m
+E toda arrependida me dizer
+  E
+Amor te quero sim
+B5(9)                  F#
+  Eu vou deixar você voar
+              G#m             E
+Bater as suas asas pra longe de mim
+B5(9)                     F#
+  Mas só pra ver você voltar
+               G#m
+E toda arrependida me dizer
+  E
+Amor te quero sim
+
+B5(9) F# G#m E
+
+Repete a Primeira Parte:
+G#m
+  Eu já fiz de tudo pra te convencer
+E                                      B5(9)
+  Mandei rosas vermelhas lindas pra você
+           F#              G#m
+Falei de amor  fiz uma canção
+
+A lua se foi  nem vi o sol chegar
+E                                  B5(9)
+  Acreditei que o tempo não ia passar
+        F#
+Foi ilusão
+
+Repete a Segunda Parte:
+C#m
+  Enquanto houver razões eu não vou desistir
+E                                     B5(9)
+  Se for pra eu chorar  quero chorar por ti
+                  F#
+Porque não te esqueço
+C#m
+  Vou te esperar passe o tempo que for
+E                               B5(9)
+  Deixe bem guardado esse nosso amor
+                 F#
+Sei que eu te mereço
+
+Refrão Final:
+B5(9)                  F#
+  Eu vou deixar você voar
+              G#m             E
+Bater as suas asas pra longe de mim
+B5(9)                     F#
+  Mas só pra ver você voltar
+               G#m
+E toda arrependida me dizer
+  E
+Amor te quero sim
+B5(9)                  F#
+  Eu vou deixar você voar
+              G#m             E
+Bater as suas asas pra longe de mim
+B5(9)                     F#
+  Mas só pra ver você voltar
+               G#m
+E toda arrependida me dizer
+  E
+Amor te quero sim
+
+B5(9) F# G#m E B5(9)
+
+----------------- Acordes -----------------
+B5(9) = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

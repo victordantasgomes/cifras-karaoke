@@ -1,0 +1,170 @@
+@titulo: retrato
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - Retrato
+
+Introdução: Dm Bb
+
+Guitarra:
+
+    P.M
+E|---------------------------------------------------|
+B|---------------------------------------------------|
+G|--5xxx5xx5xx5xxxx55--------------------------------|
+D|---------------------------------------------------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+E|---------------------------------------------------|
+B|---------------------------------------------------|
+G|---5--2--------5--2----------5-5---5--5/6/5--------|
+D|---------5--3--------5--3-------7---7-------6p5\3--|
+A|--------------------------5------------------------|
+E|---------------------------------------------------|
+
+E|---------------------------------------------------|
+B|---------------------------------------------------|
+G|---5--2--------5--2----------5-5---5--5/6/5--------|
+D|---------5--3--------5--3-------7---7-------6p5\3-0|
+A|--------------------------5------------------------|
+E|---------------------------------------------------|
+
+
+
+Dm                            Bb
+Quem vê o retrato e o sorriso largo
+                           Dm
+Não enxerga o choro dissimulado
+
+(Introdução): Dm Bb
+
+Dm                          Bb
+Caiu do móvel, encontrou o chão
+                            C
+A vida em cacos por todo lado
+             Bb
+A vida é frágil
+
+(Passagem): Bb F Bb F F Gm (slide do F pro Gm)
+
+Gm                     Bb F Bb F
+Emoldurados em uma prisão
+  G                   F
+É ilusão, é escuridão
+C  (riff abaixo, ele é feito todas as vezes nessa parte)
+Deixe o Filho entrar
+E|------------|
+B|------------|
+G|------------|
+D|---2-3-2-0--|
+A|-3---------3|
+E|------------|
+
+(Frase, e a janela...)
+E|--------------------------|
+B|--------------------------|
+G|--5-3-2---3---------------|
+D|--------5-----------------|
+A|--------------------------|
+E|--------------------------|
+
+             Gm               Dm9
+E a janela abrir pro sol iluminar
+            C
+A verdade trás
+          Gm         Bb       C  Dm
+O sorriso que um dia escondeu a dor
+
+(Introdução)
+
+Dm                      Bb
+Em meio a fios emaranhados
+                                    Dm
+Que clamam por seus nós serem desatados
+
+(Introdução normal pra todos, a guitarra faz essa passagem)
+Passagem guitarra:
+E|--------------------------------------------------|
+B|--------------------------------------------------|
+G|--9--9/-10---5-5-5/--7----------------------------|
+D|------------------------7-7-7h8--3-3-3/-5-3-5-2-0-|
+A|--12-12-12---7-7-7/--8----------------------------|
+E|------------------------6-6-6----3-3-3/-5---------|
+
+Dm                         Bb/D
+A mão gentil teceu um novo dia
+                    F
+Desfez os nós que agora são passado
+
+(Passagem):  Bb G
+
+E|---------------------------------------------------|
+B|---------------------------------------------------|
+G|---5--2~-------5--2~-----------5--4-------5--4-----|
+D|--------5--3-------5-33-----------5--3-------5--3~-|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+(Passagem) Bb F Bb F F Gm (slide do F pro Gm)
+
+Gm                              Bb F Bb F
+O que passou Ele já não lembra mais
+G                          F
+Um novo olhar, um novo dia
+
+C
+Deixe o Filho entrar
+
+             Gm              Dm9
+E a janela abrir pro sol iluminar
+            C
+A verdade trás
+          Gm         Bb          Dm
+O sorriso que um dia escondeu a dor
+
+(Interlúdio): Dm D#7(9-) Bb7+ F Bbº
+
+Bb+7     A7(13-)    F
+A casa é sua
+
+C
+Deixe o Filho entrar
+             Gm              Dm9
+E a janela abrir pro sol iluminar
+            C
+A verdade trás
+          Gm         Bb          F
+O sorriso que um dia escondeu a dor
+
+C
+Deixe o Filho entrar
+             Gm              Dm9
+E a janela abrir pro sol iluminar
+            C
+A verdade trás
+          Gm         Bb       C Dm
+O sorriso que um dia escondeu a dor
+
+(Introdução) Dm Bb
+
+----------------- Acordes -----------------
+A7(13-) = X 0 X 0 2 1
+Bb = X 1 3 3 3 1
+Bb/D = X 5 X 3 6 6
+Bb7+ = X 1 3 2 3 1
+Bbº = X 1 2 0 2 0
+C = X 3 2 0 1 0
+D#7(9-) = X 6 5 6 5 X
+Dm = X X 0 2 3 1
+Dm9 = X 5 7 9 6 5
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

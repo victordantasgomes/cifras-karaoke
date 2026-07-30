@@ -1,0 +1,57 @@
+@titulo: de-musica-ligeira
+@autor:
+@intérprete: Paralamas do Sucesso
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Os Paralamas do Sucesso - De Música Ligeira
+
+Introd.: ( Am  F  C  G )
+
+            Am       F  C       G               Am   F C    G
+            Ela deitou, seu calor se espalhava
+            Am          F   C       G      Am   F C   G
+            Eu despertei, e ainda sonhava
+Am                  F   C      G           Am  F C  G
+            Algum tempo atrás, escrevi uma carta
+Am                   F  C                 G
+            Que nunca escolhi as armas do amor
+    Am              F C     G           Am    F C  G
+E daquele amor    De música ligeira
+Am                F C          G         Am   F C   G
+            Nada nos livra      Nada mais resta
+
+Solo:
+
+e|------------------------------|
+B|------------------------------|
+D|------------------------------|
+G|------------------------------|
+A|-0-0-2-3~--3-3-2-0------0-----|
+E|-------------------3-2--------|
+
+
+e|------------------------------|
+B|------------------------------|
+D|------------------------------|
+G|-----------2~-2/5-5/7~--------|
+A|---0-2-3-5--------------------|
+E|------------------------------|
+
+            Am              F     C       G         Am    F  C    G
+Não lhe enviarei      Mentiras e rosas
+Am                F     C    G          Am     F  C   G
+Nem penso evitar     o toque secreto
+
+REFRÃO
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

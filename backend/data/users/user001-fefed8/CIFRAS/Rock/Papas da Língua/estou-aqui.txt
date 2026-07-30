@@ -1,0 +1,81 @@
+@titulo: estou-aqui
+@autor:
+@intérprete: Papas da Língua
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Papas da Língua - Estou Aqui
+
+Intro: C#m C#m B A9
+
+E
+Estou aqui
+F#m       E        F#m
+Sem saber como vai você
+E         F#m
+Que deixou para trás
+E            F#m
+Tudo o que sonhei
+
+Vocalização: C#m C#m B A9
+
+E
+Estou aqui
+F#m       E        F#m
+Sem saber como vai você
+E         F#m
+Que deixou para trás
+E            F#m
+Tudo o que sonhei
+
+
+Pré-refrão:
+
+C#m          A9            E
+De saudades vai enlouquecer
+F#m                 G#m
+Quem sabe o que é sofrer
+F#m                G#m
+Já sabe o que é o amor
+
+C#m        A9           E
+A tristeza vai adormecer
+F#m                   G#m
+Quem sabe o que é sonhar
+F#m               E
+Já sabe que é feliz
+
+Refrão:
+
+A         E               B        F#m
+Quando o amor chegar você vai saber
+A         E                B
+Pelos sinais que o mundo ao seu redor
+F#m
+O amor chegou
+A   E     B    F#m
+Pra te levar (2x)
+            E
+Pra outro lugar...
+
+Vocalização: C#m C#m B A9
+
+Pré-Refrão
+Refrão
+
+
+Termina em C#m
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

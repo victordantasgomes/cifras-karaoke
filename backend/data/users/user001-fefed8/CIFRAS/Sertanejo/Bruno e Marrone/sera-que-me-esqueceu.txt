@@ -1,0 +1,69 @@
+@titulo: sera-que-me-esqueceu
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Será Que Me Esqueceu
+
+Intro: G C D7 G
+
+ G                                    Em
+Vem que eu quero te dizer que a minha vida
+             C          D
+não tem graça não sem você
+Am                           D
+Vem que eu tô num beco sem saida
+       G
+é saudade que não para de me aborrecer
+  Am                          C
+Será que aonde estás, estás sofrendo
+     G
+como eu (ai.. hum.. ai..)
+  Am                           C
+Será que estás feliz será meu Deus
+          G
+e me esqueceu
+F                         G7
+Baby sem o afago dos seus braços
+      C
+fico só (pa..pa..papa..para..)
+
+A7
+Ai! é um loucura eu não me acho
+       D7
+deu um nó
+.................
+Refrão
+   G         Em
+É amor, é saudade de você
+     C                    D
+é vontade de te ver, meu amor
+   G         Em
+É amor, é saudade de você
+     C                     D                         G
+é vontade de te ver, sem o seu amor não posso mais viver
+.................
+-INTRO
+-Repete música toda
+-Repete Refrão
+   D                     G
+        não posso mais viver....
+   D                     G
+        não posso mais viver...
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

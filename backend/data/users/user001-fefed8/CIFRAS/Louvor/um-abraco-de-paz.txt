@@ -1,0 +1,31 @@
+@titulo: um-abraco-de-paz
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Um Abraço de Paz
+
+    Em       Am     D            G       Em               G            Bm G
+Um abraço de paz, um abraço de irmão, um abraço que vá alegrar teu coração (2x)
+
+            Am             D                G
+1. Paz pra você, paz para nós, paz para o mundo
+         D            Bm                      G
+Onde há dor, melancolia, nós vamos cantar a paz!
+            Am             D                G
+Paz pra você, paz para nós, paz para o mundo
+         D            Bm                      G
+Onde há dor, melancolia, nós vamos cantar a paz!
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

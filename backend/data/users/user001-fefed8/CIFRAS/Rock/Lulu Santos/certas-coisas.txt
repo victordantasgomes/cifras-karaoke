@@ -1,0 +1,84 @@
+@titulo: certas-coisas
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - Certas Coisas
+
+[Intro]  G7(9)  C4/G  C/G  G5M/9  G
+
+ G7(9)           C4/G  C/G       G5M/9          G
+Não   existiria som      se não houvesse   o silêncio
+ G7(9)         C4/G   C/G  G5M/9             G   D/F#
+Não   haveria luz se não  fosse     a escuridão
+Em7                Aadd9           Amadd9             Em7 D
+    A vida é mesmo assim    dia e noite    não e sim
+
+G7(9)  C4/G  C/G  G5M/9  G
+
+ G7(9)                  C4/G C/G         G5M/9                   G
+Cada  voz que canta o amor      não diz tudo       o que quer dizer
+ G7(9)          C4/G  C/G    G5M/9           G   D/F#
+Tudo  que cala fala  mais alto       ao coração
+Em7            Aadd9         Amadd9              Em7  D
+    Silenciosamente   eu te falo     com paixão
+
+G            A/G          B7(4)    B7   Em   Dm  C  G/B   C
+  Eu te amo calado como quem ouve  uma sinfonia
+      C/D   D  C  D  Em   Em(7M)   Em7   Em6
+De silêncio   e  de luz
+
+
+C7(13)                   F#m7    B7    Em         Em(7M)  Em7  C7(13)
+       Nos somos medo e desejo  somos feito de silêncio e     som
+Aadd9               F#m7(11)            B7    G7(9)     C4/G   C/G
+        Tem certas coisas   que eu não sei dizer
+
+G5M/9  G  G7(9)  C4/G  C/G  G5M/9  G
+
+D/F# / Em7                Aadd9           Amadd9             Em7  D
+           A vida é mesmo assim    dia e noite    não e sim
+
+G            A/G          B7(4)    B7   Em   Dm  C  G/B   C
+  Eu te amo calado como quem ouve  uma sinfonia
+      C/D   D  C  D  Em   Em(7M)   Em7   Em6
+De silêncio   e  de luz
+
+C7(13)                   F#m7    B7    Em         Em(7M)  Em7  C7(13)
+       Nos somos medo e desejo  somos feito de silêncio e     som
+Aadd9               F#m7(11)            B7    G7(9)
+        Tem certas coisas   que eu não sei dizer
+
+C4/G  C/G  G5M/9  G  G7(9)  C4/G  C/G  G5M/9  Gadd9
+
+----------------- Acordes -----------------
+A/G = 3 X 2 2 2 X
+Aadd9 = X 0 2 2 0 0
+Amadd9 = X 0 2 4 1 0
+B7 = X 2 1 2 0 2
+B7(4) = X 2 4 2 5 2
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+C/G = 3 3 2 X 1 X
+C4/G = 3 3 5 5 6 3
+C7(13) = X 3 X 3 5 5
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+Em(7M) = X X 2 4 4 3
+Em6 = X 7 X 6 8 7
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+F#m7(11) = 2 X 2 2 0 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G5M/9 = 3 X 1 2 0 X
+G7(9) = 3 X 3 2 0 X
+Gadd9 = 3 X 0 2 0 X

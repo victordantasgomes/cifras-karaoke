@@ -1,0 +1,96 @@
+@titulo: tudo-o-que-e-meu(versão 2)
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Tudo o Que É Meu
+
+(intro) E C#m A
+
+E|--------------------------------------------------------|
+B|-5-5-5--5--4-4-4--4---7-7-7--7--5-5-5--5----------------|
+G|--------------------------------------------------------|
+D|--------------------------------------------------------|
+A|--------------------------------------------------------|
+E|--------------------------------------------------------|
+
+E|--------------------------------------------------------|
+B|-4-4-4--4--5-5-5--5---7-7-7--7--5-5-5--5----------------|
+G|--------------------------------------------------------|
+D|--------------------------------------------------------|
+A|--------------------------------------------------------|
+E|--------------------------------------------------------|
+
+E
+Você pode me fazer sorrir / e não há mais nada a acrescentar
+C#m                      A                        E
+Hoje vivo sem nenhum vazio / Agora tudo tanto faz
+
+
+Se minha paciência longe vai / Posso ouvir um "fica um pouco mais”
+C#m                                   A
+E o eco que sua voz produz
+                                              E                    B A
+Me da mais motivos pra estar (tão bem)
+
+(refrão 2x)
+    E                         B
+Tudo o que é meu
+                   D                              A5     B5 C5 G5 F5 E5
+A você eu dou não importa o que
+                        B
+Tudo o que é seu
+                             D        A5 B5 C5 G5 F5 E5 A B B A E/G# A B
+Quero que seja meu não importa o que
+
+E          A             B                               E/G#
+e assim eu vivo tão feliz  /  Só mudei meu jeito de enxergar
+             A           B
+E esse pouco se tornou muito pra mim
+                  E
+Não posso esquecer jamais
+    A          B                           E/G#
+De onde vim e quem eu sou / É que eu voltei
+              A              B
+Aprendi na estrada o preço que paguei
+                               C#m A E B
+Por tudo aquilo que eu não vivi
+
+(refrão 2x)
+    E                         B
+Tudo o que é meu
+                   D                              A5  B5 C5 G5 F5 E5
+A você eu dou não importa o que
+                        B
+Tudo o que é seu
+                             D                    A5  B5 C5 G5 F5 E5
+Quero que seja meu não importa o que
+
+(solo 2x)  E C#m A
+
+(refrão 2x)
+
+E5 A5 C#m  A5    E5 A5 B5
+yeah
+A E
+yeah
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+B = X 2 4 4 4 2
+B5 = X 2 4 4 X X
+C#m = X 4 6 6 5 4
+C5 = X 3 5 5 X X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E5 = 0 2 2 X X X
+F5 = 1 3 3 X X X
+G5 = 3 5 5 X X X

@@ -1,0 +1,43 @@
+@titulo: salmo-15
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - Salmo 15
+
+Intro: A B/A C#m7 B9
+
+A            B/A             C#m7        B   E
+Guardai-me ó Deus, porque em vós me refúgio!
+
+   B                      A                  B                   E            B/C# C#m7                G#m
+1. Ó senhor sois minha herança e minha taça, meu destino está seguro em vossa mãos! Tenho sempre o senhor ante
+                      A           B            E  (D,E)
+meus olhos, pois se o tenho a meu lado não vacilo.
+
+   B                   A                B               E         B/C# C#m7                  G#m
+2. Eis porque meu coração está em festa minha alma rejubila de alegria e até meu corpo no repouso está
+          C#m7                      G#m                               A         B           E   (D,E)
+tranqüilo; pois não haveis de me deixar entregue à morte, nem vosso amigo conhecer a corrupção.
+
+   B                        A                 B                   E         B/C# C#m7                     G#m
+3. Vós me ensinais vosso caminho para a vida; junto a vós, felicidade sem limites, delícia eterna e alegria ao
+                     A          B           E   (D,E)
+vosso lado! Junto a vós felicidade sem limites.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+B/C# = X 6 X 4 7 7
+B9 = X 2 4 4 2 2
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+G#m = 4 6 6 4 4 4

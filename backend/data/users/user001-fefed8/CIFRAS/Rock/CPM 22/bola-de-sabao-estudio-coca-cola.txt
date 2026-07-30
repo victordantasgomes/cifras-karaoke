@@ -1,0 +1,83 @@
+@titulo: bola-de-sabao-estudio-coca-cola
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Bola de Sabão (estudio Coca-cola)
+
+intro: D5 G5 E5 A5 2x
+
+Solo que acompanha a introdução.
+
+B|---10-8-7-8---------7-3-5---------- 2x
+
+A MUSICA VOCÊ TOCA ABAFANDO AS CORDAS EXCETO O REFRÃO.
+
+D5
+Baby! Baby!
+                 G5
+Queria tanto te ver
+                   E5
+Vê se me liga às vezes
+                  A5
+Só para dizer um "oi"
+
+Talvez quem sabe
+
+D5                    G5
+Não seja assim tão tarde
+
+                 E5
+Queria ter uma nave
+
+Prá te levar
+   A5
+Prá dar um rolé...
+F#5
+Nas nuvens
+                   B5
+E te vestir com a luz do sol
+              E5
+Te beijar infinito
+                 A5
+Admirar as suas asas...
+F#5
+Anjo
+             B5
+Venha voar só no meu céu
+                 E5
+Me pegue no teu colo
+
+Que eu viajo
+A5
+Além do horizonte
+
+D5
+Pirou!
+
+Minha cabeça
+        G5
+E o coração
+                E5
+Feito bola de sabão
+                   A5
+Me desmancho por você...(2x)
+
+            D5 G5 E5 A5
+b---10-8-7-8---------7-3-5---------- 2x
+
+REPETE A MÚSICA.
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+B5 = X 2 4 4 X X
+D5 = X 5 7 7 X X
+E5 = 0 2 2 X X X
+F#5 = 2 4 4 X X X
+G5 = 3 5 5 X X X

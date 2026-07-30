@@ -1,0 +1,59 @@
+@titulo: teu-e-o-reino
+@autor:
+@intérprete: Ministério Apascentar de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Apascentar de Louvor (Toque No Altar) - Teu É o Reino
+
+Intro: B  D  G  A
+
+    B     D9
+Ôuo uou  Teu é o reino
+ G                  A
+Tua é a glória pra sempre
+
+Solo: B C# D G A
+
+E
+ Há muito pra fazer  eu sei
+           G
+ Não posso me calar
+E
+ O mundo tem que saber
+             G        A         C#m
+ De onde eu vim  quem me salvou
+              E
+ Que há um Rei que governa
+C#m           A9
+ Sua palavra move os céus
+
+C#m          A9        F#m7 E/G# G9
+ E as nações se rendem aos Teus pés
+
+    B     D9
+Ôuo uou  Teu é o reino
+ G                  A
+Tua é a glória pra sempre
+
+
+Final: B C# D G G A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G9 = 3 X 0 2 0 X

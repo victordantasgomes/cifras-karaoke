@@ -1,0 +1,55 @@
+@titulo: nao-suporto-mais
+@autor:
+@intérprete: Matheus e Kauan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Matheus e Kauan - Não Suporto Mais
+
+[Intro]  F#m  D  A  E
+
+        F#m
+Eu busco nas estrelas encontrar você
+     D                                   A
+A lua clara sobre o mar vai se esconder
+            E
+Falta respiração
+         F#m
+Eu tento imaginar o que será de mim
+         D                               A
+E um dia que se vai e eu sofrendo assim
+            E
+Preciso flutuar
+Bm         D               A           E
+E todo dia eu conto as horas pra te vê
+Bm           D          A         E
+Eu não consigo viver longe de você iê iê
+
+               F#m                  D
+Entenda de uma vez aqui é o seu lugar
+
+                A                      E
+Em cada amanhecer eu tento te encontrar
+                 F#m               D
+Te espero todo dia, já ouço os sinais
+                   A                    E
+Que sem você por perto eu não suporto mais
+              F#m          D    A     E
+Eu não suporto mais! [ iêê, iêê ]
+
+Bm         D               A           E
+E todo dia eu conto as horas pra te vê
+Bm           D          A         E
+Eu não consigo viver longe de você iê iê
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

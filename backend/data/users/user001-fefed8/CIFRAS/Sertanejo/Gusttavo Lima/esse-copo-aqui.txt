@@ -1,0 +1,104 @@
+@titulo: esse-copo-aqui
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Esse Copo Aqui
+
+Intro: B  F#  C#m  E G#m F#
+
+F#              B
+Sabe onde eu estou?
+       F#
+Tô num bar
+                      C#m
+Sabe o que eu tô fazendo?
+      E                     G#m         F#
+Tô bebendo e vou beber até o dia clarear
+                       B
+Mas quer saber onde estou?
+          F#
+Eu tô num bar
+                  C#m
+Sabe o que tá doendo?
+      E             G#m                   F#
+É saudade de você tô te ligando pra te avisar
+
+Pré-refrão:
+
+
+
+ G#m              E                  F#                G#m
+Ficou lembrança sua o cheiro da sua pele ainda está no ar
+        E
+Eu vou beber
+         F#
+Pra não chorar
+
+
+Refrão:
+
+
+             B
+Esse copo aqui
+                                              F#
+Eu vou tomar pensando em noites que eu passei com você
+              C#m
+Esse outro aqui
+                  E                          G#m      F#
+É pra lembrar dos beijos que eu te dei até o amanhecer
+             B
+Esse copo aqui
+                                           F#
+É pra lembrar dos sonhos que eu sonhei com você
+       E                   F#
+Esse outro aqui eu bebo pra ver
+                   B
+Se eu consigo te esquecer
+
+Intro: B  F#  C#m  E   G#m  F#
+
+
+Pré-refrão:
+
+
+  G#m              E                  F#                G#m
+Ficou lembrança sua o cheiro da sua pele ainda está no ar
+        E
+Eu vou beber
+         F#
+Pra não chorar
+
+
+Refrão:
+
+
+             B
+Esse copo aqui
+                                              F#
+Eu vou tomar pensando em noites que eu passei com você
+              C#m
+Esse outro aqui
+                  E                          G#m      F#
+É pra lembrar dos beijos que eu te dei até o amanhecer
+             B
+Esse copo aqui
+                                           F#
+É pra lembrar dos sonhos que eu sonhei com você
+       E                    F#
+Esse outro aqui eu bebo pra ver
+                   B
+Se eu consigo te esquecer
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

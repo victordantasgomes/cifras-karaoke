@@ -1,0 +1,171 @@
+@titulo: roda-gigante(versão 2)
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Roda Gigante
+
+(afinação 1/2 tom abaixo)
+
+(intro 4x)  D   A   G
+
+(parte 1) (dica - quando for fazer o bend note(b) faz so 1/2)
+E|---------------------|-----------------
+B|---------------------|-----------------
+G|-7-9b-7-9-9~--9b-7~--|---12-12-12-12-11
+D|---------------------|-----------------
+A|---------------------|-----------------
+E|---------------------|-----------------
+
+(parte 2) (dica - quando chegar no ultimo sete(7) trisque com a ponta
+do dedo na corda que vai sair um som mais fino)
+E|---------------------
+B|---------------------
+G|-7-9b-7-9-9~--9b-7---
+D|---------------------
+A|---------------------
+E|---------------------
+
+
+(parte 3)
+E|-----------------------
+B|-----------------------
+G|-7-9b-7-9-9~--9b-7h--14
+D|-----------------------
+A|-----------------------
+E|-----------------------
+
+D                  A                      G
+    Sinto um cansaço que me tira a paz
+D                   A                      G          A
+    Finjo e disfarço mas não agüento mais
+D                      A            G
+    Medos e angústias se sobressaem
+D                 A                      G             A
+    Sinto sua falta as minhas lágrimas caem
+
+Bm            A               G
+    Com você eu descobri o meu melhor
+Bm               A              G
+    Vi que havia muito mais ao meu redor
+Bm           A                 G
+    Sem você há um vazio bem maior
+A                               G                                 Em
+    Onde perco o rumo numa estrada bem pior
+
+                         Bm        A
+Fui preso numa roda gigante
+            F#m          G
+Que insiste em rodar, me consumindo a todo instante
+            F#m      Em
+Preciso me libertar
+                         Bm        A
+Fui preso numa roda gigante
+            F#m          G
+Que insiste em rodar, me consumindo a todo instante
+            F#m      Em    G    A
+Preciso me libertar
+
+D                               A                  G
+    Vejo o tempo escorrendo pelas minha mãos
+D                               A                        G      A
+    Não consigo dar descanso pro meu coração
+
+D                           A                    G
+    Centenas de detalhes corroem o que sou
+D                         A                     G                 A
+    Preciso de um caminho saber onde aonde vou
+
+Bm            A               G
+    Com você eu descobri o meu melhor
+Bm               A              G
+    Vi que havia muito mais ao meu redor
+Bm           A                 G
+    Sem você há um vazio bem maior
+A                               G                                 Em
+    Onde perco o rumo numa estrada bem pior
+
+(refrão)
+
+(solo 4x)    D    A   G
+
+(parte 4)
+E|-----------------
+B|-14h15-14--------
+G|----------14-----   2x
+D|-----------------
+A|-----------------
+E|-----------------
+
+E|-----------------
+B|-14h15-14--------
+G|----------14-16--
+D|-----------------
+A|-----------------
+E|-----------------
+
+(parte 5)
+E|----------------
+B|----------------
+G|---------------- 2x
+D|-11h12-11-------
+A|----------12----
+E|----------------
+
+E|-----------------------
+B|-----------------------
+G|-----------------------
+D|11h12-11-12-12h14-14-12
+A|-----------------------
+E|-----------------------
+
+(parte 6)
+E|-------------------------------------------------------
+B|-------------15--17-17b~--21b21~-19-19b----------------
+G|-------14h16---------------------------19~-------------
+D|-14h16-------------------------------------------------
+A|-------------------------------------------------------
+E|-------------------------------------------------------
+
+E|-------------------------------------------------------
+B|-------------15--17b-17b-17-15----15_14-13_12-11_10----
+G|-------14h16-------------------16----------------------
+D|-14h16-------------------------------------------------
+A|-------------------------------------------------------
+E|-------------------------------------------------------
+
+                         Bm        A
+Fui preso numa roda gigante
+            F#m          G
+Que insiste em rodar, me consumindo a todo instante
+            F#m      Em
+Preciso me libertar
+                         Bm        A
+Fui preso numa roda gigante
+            F#m          G
+Que insiste em rodar, me consumindo a todo instante
+            F#m      Em    G    A    Bm    G    A
+Preciso me libertar
+
+(aqui faz POWER CHORDS que seria elevar as notas a 5°
+    Bm                      G                   A
+E|-------------------------------------------------------
+B|-------------------------------------------------------
+G|-4-4-4-4-4-4-------------------------------------------
+D|-4-4-4-4-4-4-------------5-5-5-5-5-5-5-------7-7-7-7-7-
+A|-2-2-2-2-2-2--5p4-2-4----5-5-5-5-5-5-5-------7-7-7-7-7-
+E|----------------------3--3-3-3-3-3-3-3--3-5--5-5-5-5-5-
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

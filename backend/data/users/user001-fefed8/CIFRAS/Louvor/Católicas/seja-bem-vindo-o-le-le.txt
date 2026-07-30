@@ -1,0 +1,31 @@
+@titulo: seja-bem-vindo-o-le-le
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Seja Bem Vindo Ô Lê Lê!
+
+Intro: C F G C
+
+C                  G     F                C
+Sejam bem-vindos olêlê, seja bem vindo olálá!
+
+Am              Dm      G7         C
+Paz e bem pra você que veio participar! (Bis)
+
+C                          G                          C
+Um abraço dado de coração é como bênção, para o irmão!(Bis)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

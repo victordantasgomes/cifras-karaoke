@@ -1,0 +1,60 @@
+@titulo: telao
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Telão
+
+Intro: E A9 B9
+
+E                                           B9
+Eu que ja bebi em quase todos bares desse mundo
+  C#m                                          G#m
+Pra tentar te esquecer mais continuo o mesmo vagabundo
+      A9             E
+Não te esqueci, não não
+        B9
+Não consegui
+E                                               B9
+Eu que ja saí com quase todas as mulheres da cidade
+ C#m                                        G#m
+Mais você é a unica que me faz sentir saudade
+      A9             E
+Não te esqueci, não não
+        A9    B9
+Não consegui
+
+C#m                                   G#m
+Eu vejo a imagem dela no fundo da garrafa
+
+                             A9
+Se eu não beber ela morre afogada
+ F#m               B9
+Então desce mais uma rodada
+
+
+                  E                      C#m
+E pra arrebentar meu coração, põe a foto dela no telão
+                F#m                             B9
+Quero que todo mundo veja a cara da mulher que eu choro de paixão
+
+                  E                      C#m
+E pra arrebentar meu coração, põe a foto dela no telão
+                F#m                             B9
+Quero que todo mundo veja a cara da mulher que eu choro de paixão
+        F#m                  B9              E
+E quem tiver sofrendo mais que eu levante a mão
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

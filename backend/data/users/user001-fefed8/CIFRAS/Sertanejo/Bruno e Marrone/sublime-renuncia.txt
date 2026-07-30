@@ -1,0 +1,47 @@
+@titulo: sublime-renuncia
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Sublime Renúncia
+
+Intro: E7  D  A  C  Dm  G7
+
+C                             Em         Dm
+   Hoje meus dias são de tristeza e solidão
+                 G7           F             C
+   Trago em minh´alma uma profunda conformação
+      Am                  Em     Dm
+   Renunciei meu grande amor um dia
+               G7               F          C
+   Nos braços dela em que tão triste eu dizia
+                E                           Am
+   Beijando os lábios do meu amor com frenesi
+                     Dm             G7      C  E
+   Não chores por favor, porque preciso partir
+         Am               G7                     F
+   Esse foi o meu último beijo satisfiz o meu desejo
+                     E
+   O pior foi te perdeeeeeeer
+         Am                 G7               F
+   Resignemos, ó, querida, não lamentemos a vida
+       G7              C
+   Nosso destino é sofrer
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G7 = 3 5 3 4 3 3

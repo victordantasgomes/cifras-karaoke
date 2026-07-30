@@ -1,0 +1,52 @@
+@titulo: voce-nao-presta
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Você Não Presta
+
+(intro) A B E C#m F#m B E B
+
+  E                                   B7
+A gente dá muitas mancadas, tentando acertar
+                     A                E
+Um caminho pra felicidade, em algum lugar
+                         E7                    A
+Se entrega a primeira ilusão, e depois se arrepende
+                 E  C#m               F#m B7
+Não estou reclamando, eu sei que é errando
+             E
+Que a gente aprende
+
+          A    B7                 E  C#m
+Você não presta, só agora que eu vejo
+                F#m   B7               E
+Você apenas me usava, pra matar seus desejos
+
+     E                                         B7
+Eu nem quero lembrar o passado, pra não sofrer mais
+                  A                   E
+Preciso tentar esquecer, para viver em paz
+                             E7                     A
+Eu nem quero lembrar nesse instante, que um dia te amei
+                C#m               F#m   B7
+E para não chorar,   não vou mais voltar
+               E
+Lá onde te encontrei
+
+Você não presta, só agora que eu vejo...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

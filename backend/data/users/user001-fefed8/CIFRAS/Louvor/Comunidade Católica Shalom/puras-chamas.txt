@@ -1,0 +1,75 @@
+@titulo: puras-chamas
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - Puras Chamas
+
+Intro: E     B/D#     Bm/D     A/C#     Am/C     E/B     F#/A#     Am     E/G#     F#m     E
+
+E       B/D#        Bm/D               A/C#
+  Como fogo que me atrai, Aquecendo me, forjando em mim o amor
+ Am/C         E/B   F#/A#               Bsus
+Eu sei tu és bem mais, Que toda minha fraqueza E o meu desamor
+E        B/D#         Bm/D           A/C#
+  Purifica mais e mais, Esse fogo tem poder criador
+ Am/C        E/B    F#/A#           A/B
+Rebrilha e arde mais, Nas tuas puras chamas, a vida se refaz
+
+A/C#    B/D#   E      B/D#      D              A
+       Ó inflama me, consome enfim, A minha oferenda é todo o meu ser
+   E           F#/E            A       A  E/G#   F#m   E
+Transforma tudo em ti, e perde me em ti, Escondido em ti,     quero   eu viver
+
+A/C#   B    E     B/D#      D             A/C#
+ Ó   in  flama me, consome enfim, A minha oferenda é todo o meu ser
+   E/B          F#/A#           A        D  A/C#  F#m    E
+Transforma tudo em ti, e perde me em ti, Escondido em ti,     quero   eu viver
+
+
+E        B/D#         Bm/D           A/C#
+  Purifica mais e mais, Esse fogo tem poder criador
+ Am/C        E/B    F#/A#           A/B      C
+Rebrilha e arde mais, Nas tuas puras chamas, a vida se refaz
+
+C/E    D/F#    G       D/F#     F              C
+      Ó   inflama me, consome enfim, A minha oferenda é todo o meu ser
+   G            A/G            C      C   G/B  Am   G
+Transforma tudo em ti, e perde me em ti, Escondido em ti,    quero   eu viver
+
+C/E   D    G     D/F#      F             C/E
+ Ó  in  flama me, consome enfim, A minha oferenda é todo o meu ser
+   G/D           A/C#           C        F C/E   Am  G
+Transforma tudo em ti, e perde me em ti, Escondido em ti,    quero   eu viver
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+Am = X 0 2 2 1 0
+Am/C = X 3 2 2 5 X
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+Bm/D = X 5 X 4 7 7
+Bsus = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F = 1 3 3 2 1 1
+F#/A# = 6 X 4 6 7 X
+F#/E = X X 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X

@@ -1,0 +1,70 @@
+@titulo: tempo-de-viver
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - Tempo de Viver
+
+Intro:  E  F#m  A   A/C# Bsus4   E F#m D  A/C#
+           E  F#m  A   A/C# Bsus4   E F#m G#m7   A
+
+E        F#m             A         Bsus4
+Teu sorriso tem algo a me dizer
+E        F#m7        A  A/C# Bsus4
+Só o amor me dirá por quê
+E        F#m            A         Bsus4
+Teu olhar tem algo a revelar
+C#m      G#m            F#7/9                    A   E         B
+Teu coração é um tesouro que eu preciso encontrar
+
+F#m7/9                    G#m7  C#m7
+Tudo o que temos agora
+D      Bm7            A E/G#
+É o agora pra se viver
+F#m7/9                    G#m7  C#m7
+Viver de dentro pra fora
+D9
+E não perder a hora
+     A(add9)/C#          Bsus4
+De dar-se pra não perder
+
+D Bsus4
+O tempo de viver
+
+ E9 F#m7         A  Bsus4
+Viver é dar-se pra não perder
+ E9      F#m7   C#m7 Bsus4
+A graça de hoje poder te ter
+ E9 F#m7         A  Bsus4
+Viver é dar-se pra não perder
+ E9      F#m7   C#m7 Bsus4
+Viver é dar sem esperar receber
+A  Bsus4
+É tempo de viver
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A(add9)/C# = X 4 2 2 0 X
+A/C# = X 4 X 2 5 5
+B = X 2 4 4 4 2
+Bm7 = X 2 4 2 3 2
+Bsus4 = X 2 4 4 5 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E9 = 0 2 4 1 0 0
+F#7/9 = X X 4 3 5 4
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7/9 = X X 4 2 5 4
+G#m = 4 6 6 4 4 4
+G#m7 = 4 X 4 4 4 X

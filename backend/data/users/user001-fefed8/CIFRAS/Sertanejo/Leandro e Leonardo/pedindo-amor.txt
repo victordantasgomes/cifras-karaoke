@@ -1,0 +1,71 @@
+@titulo: pedindo-amor
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - Pedindo Amor
+
+Intro: E  E/G#  A  E  E/G#  A  D7(9)
+
+          E         G#m                       A
+Mais uma noite,não pude te esquecer um só instante
+           E                                  A
+Lembrei assim,de todos os momentos que eu te fiz sofrer
+     F#m                    B7
+Duvidei do teu amor a cada dia
+ G#m                       C#m      F#m
+Quis ser dono do seu pensamento,ilusão
+ A                          B7
+Hoje veja o que restou  de mim
+
+         E      G#m                       A
+Talvez agora,depois que tanto tempo se passou
+        E       G#m                  A
+No seu coração,a mesma saudade fez você lembrar
+ F#m                     B7
+Quando a gente ama enlouquece
+ G#m                      C#m
+Quase sempre esquece de dizer
+
+      F#m       A         B7        E
+Então vem amor,vamos acender nossa paixão
+
+                    F#m       B7
+Meu coração está pedindo amor
+                      E          C#m
+E é só você que pode me entregar
+                      F#m
+Qualquer dia,qualquer hora
+                 B7             E
+Vem amor e não demora,venha me amar
+
+                     F#m          B7
+Não tenha medo de voltar pra mim
+                     E       C#m
+É tão bonito a gente perdoar
+                 F#m                  A
+Eu te amo de verdade,é a nossa felicidade
+      B7        E
+Te pedindo pra ficar
+
+                         G#m             A
+Meu coração está pedindo amor,pedindo amor
+               B/A
+Está pedindo amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B/A = X 0 4 4 4 X
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+D7(9) = X 5 4 5 5 X
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

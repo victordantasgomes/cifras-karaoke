@@ -1,0 +1,43 @@
+@titulo: desde-a-antiguidade
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Desde a Antiguidade
+
+Intro 2x: G  C  D  D#  Em  D  C  G  C  G
+
+              Am
+Desde antigüidade
+              C
+Ainda não se viu
+                G C G
+Ainda não se ouviu
+
+                   D/F#
+Um Deus que trabalha
+                   C/E       G C G
+Por aqueles que nele esperam
+                   D/F#
+Um Deus que trabalha
+                   C/E       (G Am G/B G/B Am)
+Para aqueles que nele esperam
+
+( G C )
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

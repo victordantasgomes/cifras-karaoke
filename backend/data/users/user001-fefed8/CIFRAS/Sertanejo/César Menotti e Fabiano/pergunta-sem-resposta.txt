@@ -1,0 +1,56 @@
+@titulo: pergunta-sem-resposta
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Pergunta Sem Resposta
+
+[Intro] G#  A#  C
+
+G#              A#
+Você vive perguntando
+                C
+Porque de eu gostar tanto de você
+G#              A#               C
+Essa pergunta é fácil pra eu responder
+             Dm         F
+Gosto quando chora e reclama
+    C                     G
+E depois vem dizer que me ama
+              Dm         F
+Eu gosto das brigas que acabam
+     C                   G
+No sofá, no tapete ou na cama
+               C
+Eu amo seus defeitos
+       G
+Seus ciúme
+           Am              F
+Quando se atrasa e fica nervosa
+
+             C                G
+Quando fica louca e diz vou embora
+    Am                     F
+E depois vem dizer que me adora
+       Fm                    C
+São perguntas que não tem respostas
+
+( Dm  F  C  G )
+( Dm  F  C  G )
+( G#  A#  C )
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

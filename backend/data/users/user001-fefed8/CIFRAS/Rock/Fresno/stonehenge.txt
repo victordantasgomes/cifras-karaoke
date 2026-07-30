@@ -1,0 +1,96 @@
+@titulo: stonehenge
+@autor:
+@intérprete: Fresno
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fresno - Stonehenge
+
+Intro: E E4 B4/E C#m11/E
+         Em5+ A4/E E4/A A6/E (2x)
+         A6/E  A  F#m  E
+
+      E
+E talvez você estranhe ao me ouvir
+        A
+Não costumo me comunicar assim
+           F#m                    B
+Mas preste atenção quando a chuva cair,
+             E
+você vai me ver
+
+       E
+Já tentei ser mais do que eu sempre fui,
+          A
+mas esqueci que é impossível crescer,
+            F#m
+pois todo o sangue que nas minha veias flui
+ A9                      B7
+ainda não conseguiu aquecer
+
+         E
+meu coração
+
+E
+Inabalável...
+    F#m                  A          B
+Não há como fazer você parar pra pensar
+         E     E/D#     C#m      B   A
+como eu tenho agido nos últimos dias
+   B7         E
+em que eu le vi?
+
+F#m                 G#m         A9
+      Você não merece tudo que eu
+         E
+ouso sentir
+F#m             G#m            A           B
+    Você não merece tudo o que eu ouso sentir
+         E
+e dói demais
+
+         E
+E dói demais ter você assim
+          A
+Nunca há paz pra você nem pra mim
+              F#m    B           E
+Por isso, eu quero saber o que fazer
+
+        E
+E nada mais parece te abalar
+       A
+E Nada mais te faz rir ou chorar
+            F#m   B
+Não há ninguém aqui
+                      E
+pra você provar que existe
+
+            F#m    B
+Não há ninguém   aqui
+                      A   A9 B E
+pra você provar que existe
+
+( F#m   G#m   A9    Am9 )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4/E = 0 0 2 2 3 0
+A6/E = X X 2 2 2 2
+A9 = X 0 2 2 0 0
+Am9 = X 0 2 4 1 0
+B = X 2 4 4 4 2
+B4/E = 0 2 4 4 5 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E/D# = X X 1 1 0 0
+E4 = 0 2 2 2 0 0
+E4/A = X 0 2 2 0 0
+Em5+ = X X 2 0 1 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

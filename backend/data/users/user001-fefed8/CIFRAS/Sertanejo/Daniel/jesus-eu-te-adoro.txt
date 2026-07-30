@@ -1,0 +1,27 @@
+@titulo: jesus-eu-te-adoro
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Jesus Eu Te Adoro
+
+ D        F#m     G      Gm         D  A7
+Jesus,    Jesus,  eu     te       adoro! (bis)
+Bm           F#m      G      A7        D
+Com todos os anjos, eu quero te contemplar.
+Bm       F#m         G    A7     D
+Jesus,   Jesus, meu Deus, meu Senhor!
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

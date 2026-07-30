@@ -1,0 +1,68 @@
+@titulo: catarse
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Catarse
+
+[Intro] D  A  Bm  A  G
+
+D                F#      Bm
+Tenho uma dor no peito retida
+G             D         Em               A
+Levarei até o último suspiro de minha vida
+D               F#           Bm
+Nela o doce amargou em uma palavra!
+G                D     Em       A
+Nela eu me fiz defesas em uma batalha
+
+   D                     A                 A#m
+Você me ensinou o que é ter força e coragem
+Bm                 D                 G
+Me deu asas para fugir das minhas maldades
+   D                 A                         A#
+Queria entender a razão de certas coisas na vida!
+   Bm                    D                 G
+Queria que não houvesse dor muito menos feridas
+
+     D                   A#m     Bm
+Aprendi a lidar com essa dor nos braços quentes do amor
+
+    G             D      Em                A
+Obrigado pelos desertos, pelos caminhos incertos
+ D               A#m       Bm
+Sou apenas o que sou, nem errado nem certo
+ G                 D   Em             A     G
+Apenas um ser inquieto que só quer te ver feliz!
+
+( D  A  A#m  Bm  A  G)
+
+   D                 A                         A#
+Queria entender a razão de certas coisas na vida!
+   Bm                    D                 G
+Queria que não houvesse dor muito menos feridas
+
+     D                   A#m     Bm
+Aprendi a lidar com essa dor nos braços quentes do amor
+    G             D      Em                A
+Obrigado pelos desertos, pelos caminhos incertos
+ D               A#m       Bm
+Sou apenas o que sou, nem errado nem certo
+ G                 D   Em             A     G      D
+Apenas um ser inquieto que só quer te ver feliz!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A# = X 1 3 3 3 1
+A#m = X 1 3 3 2 1
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

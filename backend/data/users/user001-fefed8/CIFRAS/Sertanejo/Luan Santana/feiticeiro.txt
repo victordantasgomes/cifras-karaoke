@@ -1,0 +1,40 @@
+@titulo: feiticeiro
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Feiticeiro
+
+          B         F#   C#m           E
+ Pra você ver,     você ta pagando pelo que me fez
+B          F#   C#m              E
+ Me fez sofrer,      Mas o mundo gira e agora é sua vez
+
+B         F#   C#m                  E
+  De acertar      As contas com sua própria consciência
+B         F#   C#m              E
+  E entender      Que cada ato gera uma conseqüência
+
+C#m                           G#m
+ Será que dessa vez você aprendeu a lição
+E                  C#m             F#
+ Quem planta indiferença colhe solidão
+
+Refrão:
+B            F#                    C#m                  E
+ O feitiço virou contra o feiticeiro   Dá pra ver na sua cara o desespero
+B            F#                    C#m                       E
+ Você fez de tudo pra me ver sofrer    E hoje quem sofre e chora é você
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

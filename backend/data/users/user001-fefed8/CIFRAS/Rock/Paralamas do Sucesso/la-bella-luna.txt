@@ -1,0 +1,75 @@
+@titulo: la-bella-luna
+@autor:
+@intérprete: Paralamas do Sucesso
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Os Paralamas do Sucesso - La Bella Luna
+
+[Intro]  E  B7
+
+[Solo]
+
+E|-----7--------------5-------------4---------7-5-| -7-4----4---7-4---------4-|--------------------|
+B|-7/9---9---9----5/7---7---7---3/5--5---5-2/4----| ----5-7---7-----7-5-7--5--|-5/9-9-7-7-7-7-9-7-5|
+G|---------9----9---------8---8---------4-4-------| --------------------------|--------------------|
+D|------------------------------------------------| --------------------------|--------------------|
+A|------------------------------------------------| --------------------------|--------------------|
+E|------------------------------------------------| --------------------------|--------------------|
+
+     E
+Por mais que eu pense
+        B7
+Que eu sinta que eu fale
+     E                   B7
+Tem sempre alguma coisa por dizer
+     E                   B7                 E
+Por mais que o mundo dê voltas em torno do Sol
+                    B7
+Vem a Lua me enlouquecer
+
+
+   E            B7
+A noite passada
+              E      B7
+Você veio me ver
+
+E|-0----------------2---|
+B|-0----------------0---|
+G|-1------1---------2---|
+D|-2----2---4-2-4---1---|
+A|-2--2-----------2-2---|
+E|-0----------------0---|
+
+   E            B7
+A noite passada
+                 E    B7
+Eu sonhei com você
+
+E|-0----------------2---|
+B|-0----------------0---|
+G|-1------1---------2---|
+D|-2----2---4-2-4---1---|
+A|-2--2-----------2-2---|
+E|-0----------------0---|
+
+   E               B
+Ó Lua de cosmo no céu estampada
+    E                  B7
+Permita que eu possa adormecer
+      E            B7
+Quem sabe de novo nessa madrugada
+E              B7
+ Ela resolva aparecer
+
+[Solo]  E  B7
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0

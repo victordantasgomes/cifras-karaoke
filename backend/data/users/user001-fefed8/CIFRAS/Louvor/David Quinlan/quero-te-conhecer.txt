@@ -1,0 +1,41 @@
+@titulo: quero-te-conhecer
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Quero Te Conhecer
+
+[Intro]  G9  A/C#  F#m  Bm
+
+              G9M A/C#
+Quero te conhecer
+              F#m      Bm7
+Quero te conhecer mais e mais
+              G9M A/C#
+Quero te conhecer
+              F#m       Bm7
+Quero te conhecer como tu és
+                        G9M  A/C#
+Eu Quero Olhar nos Teus olhos
+                   F#m Bm7
+Ser consumido pelo Teu olhar
+                   G9M A/C#
+Quero Subir em Teu colo
+                      F#m
+Como criança me embriagar
+         Bm7
+No Teu amor
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+F#m = 2 4 4 2 2 2
+G9 = 3 X 0 2 0 X
+G9M = 3 X X 4 3 6

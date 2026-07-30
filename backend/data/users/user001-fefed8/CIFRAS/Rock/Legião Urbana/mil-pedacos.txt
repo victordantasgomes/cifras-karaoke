@@ -1,0 +1,95 @@
+@titulo: mil-pedacos
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Mil Pedaços
+
+G       Bm     C   G/Bb                     Am   D4 D
+ Eu não me perdi e mesmo assim você me abandonou
+G       Bm     C      G/Bb         Am
+ Você quis partir e agora estou sozinho
+ G          Bm    C           G            F             Am        D4 D
+Mas vou me acostumar com o silêncio em casa com um prato só na mesa
+Em             Am   Em          C  D     G     Bm    C
+  Eu não me perdi o Sândalo perfuma o machado que o feriu
+
+(riff 1)
+       Am      Bm      C       D7             G
+E|-----5-------7-------8---------10-----------|
+B|---5---5---7---7---8---8----10----10--------|
+G|-5-------7-------9-------11----------11/12--|
+D|--------------------------------------------|
+A|--------------------------------------------|
+E|--------------------------------------------|
+
+(riff 1)
+ Am     Bm    C    D          G
+Adeus adeus adeus meu grande amor
+
+C#m      F#    Bm           E   Am                D4 D
+E tanto faz de tudo o que ficou guardo um retrato teu
+        C             D
+E a saudade mais bonita
+G       Bm     C     G/Bb             Am
+ Eu não me perdi e mesmo assim ninguém me perdoou
+G    Bm    C                G/Bb        Am          C     (D4 1) D G
+ Pobre coração - quando o teu estava comigo era tão bom.
+Ab             Bb     Eb     Db             Fm
+  Não sei por quê acontece assim e é sem querer
+
+(riff 2)                         (riff 3)
+        C
+E|-------------------------|    e|--5-5-5---5-3---3-1-----|
+B|-----5-5-5-3-3-3-2-2-2h4-|    B|3-------3-----3------3--|
+G|-3/5---------------------|    G|------------------------|
+D|-------------------------|    D|------------------------|
+A|-------------------------|    A|------------------------|
+E|-------------------------|    E|------------------------|
+
+          Bb       C (riff 2)  G         Em
+O que não era pra ser: Vou fugir dessa dor.
+      Am        Bb (riff 3)  Bº     Am
+Meu amor, se quiseres voltar - volta não
+       Bb               G
+Porque me quebraste em mil pedaços.
+
+( C  Bb  Dm  G )
+
+(solo final)
+E|-------------------------------------------|
+B|-5---5-6-8-8/11-13-10---------10-8---8-8---|
+G|----------------------10-7-10------7-------|
+D|-------------------------------------------|
+A|-------------------------------------------|
+E|-------------------------------------------|
+
+( D4 )
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+Bº = X 2 3 1 3 1
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D7 = X X 0 2 1 2
+Db = X 4 6 6 6 4
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+Eb = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G/Bb = X 1 0 0 3 3

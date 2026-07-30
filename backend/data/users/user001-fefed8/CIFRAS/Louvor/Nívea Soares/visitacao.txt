@@ -1,0 +1,108 @@
+@titulo: visitacao
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Visitação
+
+INTRO: : Cm : Cm9,Bb  F9 : Cm : Cm9,Bb  F9 :
+
+                              Bb                                Cm
+Que não passe de mim o tempo da Tua visitação
+                              Bb9      Bb9/D               Eb
+Que não passe de mim o tempo da Tua visitação
+
+           Cm     Bb/D        Ab7M               Cm  Bb/D
+Quero abrir a porta adorando a Ti Senhor
+           Eb           Bb9                      Ab7M/F  Gm7  Ab9
+Eu me rendo a Tua voz, que me  chama   pelo nome
+          Cm        Bb/D                             Eb      F9           Ab9
+Pois o que eu quero mais ser, e'  habitado por Tua Gloria
+          Fm7              Bb9/G                          Cm   Gm6/C  Gm7/Eb F9
+Estabelece o Teu trono sobre esta geração
+
+             Ab9            Bb                             Cm
+Espírito Santo de Deus sopra sobre mim
+                Cm/Bb                  Ab7M      Bb                   Cm  Gm6/C  Gm7/Eb
+Como um vento impetuoso        Oh vem , vivifica-me
+   F9       Ab9           Bb                             Cm
+Espírito Santo de Deus sopra sobre mim
+
+                Cm/Bb                  Ab7M     Gm7                  : Cm : Cm :
+Como um vento impetuoso        Oh vem , vivifica-me
+
+INTRO :  : Cm Cm9 : Cm/Bb F9 : Cm Cm9 : Cm/Bb F9 :
+
+                              Bb                                Cm
+Que não passe de mim o tempo da Tua visitação
+                              Bb9      Bb9/D               Eb
+Que não passe de mim o tempo da Tua visitação
+
+           Cm     Bb/D        Ab7M              Cm  Bb/D
+Quero abrir a porta adorando a Ti Senhor
+           Eb           Bb9                      Ab7M/F  Gm7  Ab9
+Eu me rendo a Tua voz, que me  chama   pelo nome
+          Cm        Bb/D                             Eb      F9           Ab9
+Pois o que eu quero mais ser, é  habitado por Tua Glória
+          Fm7              Bb9/G                               Cm   Gm6/C  Gm7/Eb F9
+Estabelece o Teu trono sobre esta geração
+
+      Ab9            Bb                             Cm
+Espírito Santo de Deus sopra sobre mim
+                  Cm/Bb                  Ab7M      Bb                   Cm  Gm6/C  Gm7/Eb
+Como um vento impetuoso        Oh vem , vivifica-me
+     F9       Ab9           Bb                             Cm
+Espírito Santo de Deus sopra sobre mim
+                  Cm/Bb                  Ab7M     Gm7                  : Cm Gm6/C :  Gm7/Eb  F9 :
+Como um vento impetuoso        Oh vem , vivifica-me                    2x
+
+
+                                    Ab9      Bb9
+Que não passe de mim a Tua presença
+                                   Cm               Cm/Eb
+Que não passe de mim a Tua glória
+       F9                   Ab9                                 Bb9           Csus4  : C9 C9/D  C/Bb C/F  :
+Preciso tanto de Ti, que não passe de mim,  Senhor                     2x
+
+SOLO: : Ab9 : Ab9/F : Cm : Cm/Eb  F9     :
+            : Ab9 : Ab9/F : Cm : Gm6/C  Gm7/Eb :
+
+     Ab9            Bb                             Cm
+Espírito Santo de Deus sopra sobre mim
+                  Cm/Bb                  Ab7M       Bb                   Cm  Gm6/C  Gm7/Eb
+Como um vento impetuoso        Oh vem , vivifica-me
+     F9       Ab9           Bb                             Cm
+Espírito Santo de Deus sopra sobre mim
+                  Cm/Bb                  Ab7M      Gm7                  : Cm Gm6/C :  Gm7/Eb  F9 :
+
+EnD : : Cm : Cm/Eb F9 Bb6 : Cm :
+
+----------------- Acordes -----------------
+Ab7M = 4 X 5 5 4 X
+Ab9 = 4 6 8 5 4 4
+Ab9/F = X 8 X 8 9 6
+Bb = X 1 3 3 3 1
+Bb/D = X 5 X 3 6 6
+Bb6 = X 1 3 0 3 X
+Bb9 = X 1 3 3 1 1
+Bb9/D = X 5 3 3 1 1
+Bb9/G = 3 X 3 3 1 1
+C/Bb = X 1 2 0 1 X
+C/F = X 8 10 9 8 8
+C9 = X 3 5 5 3 3
+C9/D = X 5 5 5 3 3
+Cm = X 3 5 5 4 3
+Cm/Bb = X 1 1 0 1 X
+Cm/Eb = X X 1 0 1 3
+Cm9 = X 3 1 0 3 X
+Csus4 = X 3 3 0 1 X
+Eb = X 6 5 3 4 3
+F9 = 1 3 5 2 1 1
+Fm7 = 1 X 1 1 1 X
+Gm7 = 3 X 3 3 3 X

@@ -1,0 +1,81 @@
+@titulo: ceu
+@autor:
+@intérprete: Kemuel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kemuel - Céu
+
+A                       E
+Sonhei com      o   Céu
+       F#m           E          D
+Pude ver, que era tão real, chorei
+A                   E        F#m
+Os anjos a     destra do Pai
+          E             D
+Em adoração, sem fim.
+
+(interlúdio)  A  E  F#m D
+E|---------------------------------7-9-9-10-7------12----------12-|
+B|-----------------10-9-10----10-----------------------10-9-10----|
+G|-----5-7--9-9---------------------------------------------------|
+D|---7------------------------------------------------------------|
+A|----------------------------------------------------------------|
+E|----------------------------------------------------------------|
+
+        A         E
+Eu andava tão feliz
+          F#m   E               D
+Por caminhos de ouro e marfim
+
+                        A          E
+E um lindo coral a cantar
+A
+Aleluia, aleluia, aleluia, aleluia
+A                         B
+Nem dores nem mágoas
+C#m                     B
+            tristezas, rancor
+ A                       E
+        Em meu coração
+     Bsus4
+Reflete o amor
+
+C#              Eb                    Fm
+Com cristo vou morar no céu
+                Eb                   C#
+Com cristo vou morar no céu
+                Eb            Fm
+Com cristo vou morar no céu
+                Eb                   C#
+Com cristo vou morar no céu
+
+C#                     Eb
+O som da trombeta
+Fm                      Eb
+        sei que vai soar
+C#                           Cm
+        Jesus em Sua Glória
+                        Eb
+Pra sempre reinar (vem senhor nos buscar)
+
+(retorna ao coro)
+Com cristo vou morar...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bsus4 = X 2 4 4 5 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Eb = X 6 5 3 4 3
+F#m = 2 4 4 2 2 2
+Fm = 1 3 3 1 1 1

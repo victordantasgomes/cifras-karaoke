@@ -1,0 +1,57 @@
+@titulo: solidao
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Solidão
+
+D                    F#m
+Vai solidão dar um tempo
+G              Em          A
+Não me faça sofrer tanto assim
+D                               F#m
+Você fez morada aqui dentro de mim
+G              Em           A       F#
+Nem sequer me pediu e me faz infeliz
+
+Bm                           F#m
+Vai solidão diz pra ela voltar
+G                       Em       A   F#
+Diz que eu preciso dela junto de mim
+Bm                          F#m
+Sai solidão deixa o meu coração
+G                  Em         A     F#
+Viver sem ela é morrer de saudade
+Bm                            F#m
+Vai solidão que ta difícil demais
+G                 Em               A
+Viver sem ela longe dos seus carinhos
+
+Em                  G        A        D
+Diz solidão que eu não sei viver sozinho
+D                        F#m
+Se a solidão desse um tempo
+G               Em               A
+Eu seria mais feliz te amando mais
+
+D                      F#m
+Mas a solidão não me deixa
+G                    Em
+Nem sequer por um momento
+                  A
+Já não agüento mais
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

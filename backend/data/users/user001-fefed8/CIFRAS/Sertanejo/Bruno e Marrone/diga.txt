@@ -1,0 +1,58 @@
+@titulo: diga
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Diga
+
+Em
+Quando eu lhe falar meu grande amor
+                                B
+De toda essa falta que você me faz
+   Am
+Não, não diga nada por favor
+  B                         Em
+Que venha me fazer sofrer ainda mais
+
+E7                        Am
+Eu pensei que o mundo era todo meu
+  B
+Mesmo sem você eu entendo agora...
+Am
+Que eu me perdi...
+Em
+Ao perder você...
+B                       E            B
+E o mundo que era meu, eu joguei fora
+
+(refrão)
+
+
+E                              G#7
+Diga, que entre nós não mudou nada
+                              C#m
+Que a minha estrada é a sua estrada
+             F#7                  B
+Que os meus sonhos são os sonhos seus
+E                              G#7
+Diga, que tudo está do mesmo jeito
+                         C#m
+Que ainda existe no seu peito
+       F#7      B                 E
+Aquele mesmo coração que nunca me esqueceu
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F#7 = 2 4 2 3 2 2
+G#7 = 4 6 4 5 4 4

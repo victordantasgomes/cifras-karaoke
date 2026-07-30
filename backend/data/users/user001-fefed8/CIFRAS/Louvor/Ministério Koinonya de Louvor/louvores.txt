@@ -1,0 +1,49 @@
+@titulo: louvores
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - Louvores
+
+[Intro] B7   
+
+[Primeira Parte]
+
+ B7            A    E
+     Louvores ao Senhor
+ E             F#m
+      Queremos entoar
+ F#m             A          A               B
+        E levan..tar as mãos     pra Te adorar
+
+[Segunda Parte]
+
+ B7               A   E
+     Pois não há outro Deus
+ E                  A
+     Que reina .....sobre nós
+ Am                    E            B           B/A
+     Tu és........o... único que é digno, que é santo
+     A/C#       Am       E
+Que reina para sempre, amém
+      F#m      B7
+Para sempre, amém
+
+ B7            A E     E
+     Louvores ao Senhor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

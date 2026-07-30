@@ -1,0 +1,89 @@
+@titulo: o-lobo
+@autor:
+@intérprete: Pitty
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Pitty - O Lobo
+
+INTRO:
+
+(E   G E) 4x
+                                         - 1a vez -         - 2a vez -
+E|-----------------------------------|-----------------|---------------------
+B|-----------------------------------|-9/10-10-10-9----|-9/10-10-10-10/12~---
+G|-9-9-9-7-9~--9-9-9-7---------------|--------------9~-|---------------------
+D|---------------------10-9/10/9-7-9-|-----------------|---------------------
+A|-----------------------------------|-----------------|---------------------
+E|-----------------------------------|-----------------|---------------------
+
+    00:25
+   (E  G E)
+   Houve um tempo em que os homens em suas tribos eram iguais
+   Veio a fome e então a guerra, pra alimenta-los como animais, não
+   Houve tempo em que o homem por sobre a terra viveu em paz
+   Desde sempre tudo é motivo pra jorrar sangue cada vez mais
+
+   00:57
+     A          B       A        B
+   O homem é, o lobo do homem, o loboo
+
+     A          B       A        B C
+   O homem é, o lobo do homem, o loboo
+
+   01:21
+   (E  G E)
+   Sempre em busca do próprio gozo, e todo zelo ficou pra trás
+   Nunca sede e nem esquece o que aprendeu com seus ancestrais
+   Não perdoa e nem releva, nunca vê que já é demais
+
+   01:44
+     A          B       A        B
+   O homem é, o lobo do homem, o loboo
+     A          B       A        B C
+   O homem é, o lobo do homem, o loboo
+
+    02:01
+   (E  G E)
+
+SOLO:
+    - 4x cada  -                                - 4X a sequencia -   - 4x -
+E|-|19-19-19-19-|1912---12---------------------|---15/17-17------|---17/19-|-19/7--
+B|--------------------12~--12-12-15-12-15/17-15-|-12--------------|---------|-------
+G|----------------------------------------------------------------------------------
+D|----------------------------------------------------------------------------------
+A|----------------------------------------------------------------------------------
+E|----------------------------------------------------------------------------------
+
+    02:18
+   (E  G E)
+   Houve um tempo em que os homens em suas tribos eram iguais
+   Veio a fome e então a guerra, pra alimenta-los como animais, não
+   Houve tempo em que o homem por sobre a terra viveu em paz
+   Desde sempre tudo é motivo pra jorrar sangue cada vez mais
+
+   02:49
+     A          B       A        B
+   O homem é, o lobo do homem, o loboo
+     A          B       A         B
+   O homem é, o lobo do homem, o loboo
+
+     A          B       A        B
+   O homem é, o lobo do homem, o loboo
+     A          B       A        B C
+   O homem é, o lobo do homem, o loboo
+
+   03:21
+   (E  G E)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3

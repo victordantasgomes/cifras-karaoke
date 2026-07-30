@@ -1,0 +1,120 @@
+@titulo: vacilei
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - Vacilei
+
+(intro)
+
+E|-10/12-12-12-|
+B|-12/14-14-14-|
+G|-------------|
+D|-------------|
+E|-------------|
+A|-------------|
+
+A
+Vacilei
+E
+Me perdi
+Bm               D9
+Voce estava bem aqui
+    A      E     D9
+Mas eu nem dei valor
+A
+Vacilei
+E
+Vou sofrer
+
+Bm                D9
+Posso até enlouquecer
+A     E      D9
+Volta por favor
+
+( A  E  Bm  D9  ) (2x)
+
+A       E     Bm            D9
+Caiu a ficha, deu tudo errado pra mim
+A         E   Bm         D9
+Demorei muito, pra perceber que era o fim
+A       E    Bm         D9
+Caiu a ficha, agora que eu me toquei
+A         E              Bm        D9
+Que podia ser feliz, mas reconheço que vacilei
+D9                              E
+No começo era facil, eu não te dava nem moral
+Bm                            E
+Mas se te vejo com outro agora, fico passando mal
+
+(refrão)
+A
+Vacilei
+E
+Me perdi
+Bm               D9
+Voce estava bem aqui
+    A              E     D9
+Mas eu nem dei valor
+A
+Vacilei
+E
+Vou sofrer
+Bm                D9
+Posso até enlouquecer
+A     E      D9
+Volta por favor
+
+(  A  E  Bm  D9  ) (2x)
+
+A       E     Bm          D9
+Caiu a ficha, deu tudo errado pra mim
+A         E   Bm        D9
+Demorei muito, pra perceber que era o fim
+A       E    Bm         D9
+Caiu a ficha, agora que eu me toquei
+A        E               Bm         D9
+Que podia ser feliz, mas reconheço que vacilei
+D9                               E
+No começo era facil, eu não te dava nem moral
+Bm                            E
+Mas se te vejo com outro agora, fico passando mal
+
+(refrão)
+A
+Vacilei
+E
+Me perdi
+Bm               D9
+Voce estava bem aqui
+       A          E      D9
+Mas eu nem dei valor
+A
+Vacilei
+E
+Vou sofrer
+Bm                D9
+Posso até enlouquecer
+A     E      D9
+Volta por favor
+D9                              E
+No começo era facil, eu não te dava nem moral
+Bm                            E
+Mas se te vejo com outro agora, fico passando mal
+
+(refrão 3x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3

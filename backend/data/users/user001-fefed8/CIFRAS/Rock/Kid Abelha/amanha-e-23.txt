@@ -1,0 +1,88 @@
+@titulo: amanha-e-23
+@autor:
+@intérprete: Kid Abelha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kid Abelha - Amanhã É 23
+
+[Intro]  Am  Em  Dm  F
+
+Am           Em
+As entradas do meu rosto
+Dm            F    G
+Eos meus cabelos brancos
+Am          Em
+Aparecem a cada ano
+ Dm                F    G
+No final do mês de agosto
+ Am7
+Há vinte anos, você nasceu
+Em
+Ainda guardo o retrato antigo
+ Dm
+Mas agora que você cresceu
+ F             G
+Não se parece nada comigo
+Am
+Esse seu ar de tristeza
+Em
+Alimenta a minha dor
+
+ Dm
+Tua pose de princesa
+ F         G
+De onde você tirou
+C       F       C
+Amanhã, amanhã, amanhã
+F       C
+Amanhã, amanhã é 23
+ F
+São 8 dias para o fim do mês
+ C
+Faz tanto tempo que eu não te vejo
+  F
+Queria teu beijo outra vez
+
+[Solo]
+
+      Am            Em          Dm         F     G            Am
+E|-----------------------------------------------------------------------------|
+B|---8-5---8-5-8----8---8-------8-8---8--5-5h6p5-------------------------------|
+G|-------5--------7---7---7---5-----5------------7-5-7/9-7-5--2/4--------------|
+D|-----------------------------------------------------------------------------|
+A|-----------------------------------------------------------------------------|
+E|-----------------------------------------------------------------------------|
+
+      Em             Dm        F       G                C
+E|----5---------5----------------------7---5---3---1---------------------------|
+B|--5---5-8-8-5---5-8--6p5-6p5-------5---3---1---3-----------------------------|
+G|-----------------------------7-5---------------------------------------------|
+D|-----------------------------------------------------------------------------|
+A|-----------------------------------------------------------------------------|
+E|-----------------------------------------------------------------------------|
+
+C       F       C
+Amanhã, amanhã, amanhã
+F       C
+Amanhã, amanhã é 23
+ F
+São 8 dias para o fim do mês
+ C
+Faz tanto tempo que eu não te vejo
+  F
+Queria teu beijo outra vez
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

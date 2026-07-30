@@ -1,0 +1,98 @@
+@titulo: amanha
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Amanhã
+
+Solo Intro:
+E|----------------------------------------------------|
+B|----------------------------------------------------|
+G|----7-7----7-9-7---------------------7-9-7----------|
+D|-7h9----7h9-----9-9-7-5-7h9-7-5-5-7h9-----9-9-7-5-7-|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|------------------------------------8-7-------------|
+B|----------------------------------------------------|
+G|-5-4-------5-4--------5/7--5/7-5-7/9---9-7----------|
+D|----7-5-5-7---7-5-5/75------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+Intro: ( G G Em Em C C D D )
+
+G              Em
+Me deu Carinho e foi embora
+ C                D
+tão de repente me disse adeus
+
+
+G             Em
+Levou contigo a nossa história
+C             D
+Nossos desejos todos sonhos meus
+Em                     Bm                 C
+Me deixou aqui sem nenhuma esperança somente a lembrança
+ D
+Ficou desse amor
+    Em                      Bm
+Coração tá chorando agora feito criança
+    C                  D
+Brinquedo quebrado não tem mais valor
+
+   G                              Em
+Amanhã vai lembrar do que foi nós dois
+                          C
+descobrir que me ama e depois
+       Am                       D
+Vai saber que fui seu melhor caminho
+
+    G                              Em
+Amanhã solidão vai estar no seu peito e voltar
+                      C
+desculpa não vai ter jeito não
+       Am                   D
+Você brincou com o meu coração
+ C       D      G
+Fique com a solidão
+
+Intro: ( G G Em Em C C D D )
+
+       Em                               C
+Me deixou aqui sem nenhuma esperança somente a lembrança
+  D
+Ficou desse amor
+     Em
+Coração tá chorando agora feito criança
+     C                  D
+Brinquedo quebrado não tem mais valor
+
+    G                             Em
+Amanhã vai lembrar do que foi nós dois
+                           C
+descobrir que me ama e depois
+                               D
+Vai saber que fui seu melhor caminho
+G                        Em
+Amanhã solidão vai estar no seu peito e voltar
+                      C
+desculpa não vai ter jeito não
+                          D
+Você brincou com o meu coração
+ C        D       G
+Fique com a solidão
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

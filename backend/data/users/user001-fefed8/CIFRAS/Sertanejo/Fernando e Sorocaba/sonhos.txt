@@ -1,0 +1,104 @@
+@titulo: sonhos
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - Sonhos
+
+Intro: F#  C#  D#m  B
+       F#  C#  D#m  C#m
+E|-------2-----9---7----6---4----2---4--|
+B|-2--2---------------------------------|
+G|--------------------------------------|
+D|--------------------------------------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+E|------2-----9---7----6---4----2--4-2--|
+B|--2-----------------------------------|
+G|--------------------------------------|
+D|--------------------------------------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+E|----2---9---7----6---4---2--1-2-1/2-1-|
+B|-2------------------------------------|
+G|--------------------------------------|
+D|--------------------------------------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+
+F#  C#     D#m     B
+Ela chegou, está na hora de subir
+F#     C#    D#m        B
+A cama queima sempre que ela está aqui
+F#    C#     D#m      B
+E as paredes da minha casa vem ao chão
+F#       C#   D#m         B
+Eu sinto fogo nas batidas do seu coração
+
+Solo: F#  C#  B  C#
+
+F#     C# D#m        B
+Meu violão só quer falar do meu amor
+F#      C#    D#m       B
+Dama da noite eu vou contigo aonde for
+F#         C#  D#m        B
+Sinto o perfume meu mundo gira por você
+F#      C#  D#m        B
+A noite cala a voz que chama o amanhecer
+
+( F#  C#  D#m  C#  B )
+
+Refrão:
+F# C# D#m
+Sonhos...
+B                    F#
+Asas que me deixam voar
+           C#
+Meu quarto gira
+       D#m
+A cama treme
+          B
+As coisas voam... (e tudo sai do lugar)
+F# C# D#m
+Sonhos....
+B                     F#
+Eu não quero mais acordar
+         C#
+Rosa do amor
+         D#m            B
+O seu perfume, o seu espinho
+                F# C# D#m B F# C# D#m C#m
+Faz a cabeça girar...
+
+F#     C# D#m        B
+Meu violão só quer falar do meu amor
+F#      C#    D#m       B
+Dama da noite eu vou contigo aonde for
+F#         C#  D#m        B
+Sinto o perfume meu mundo gira por você
+F#      C#  D#m        B
+A noite cala a voz que chama o amanhecer
+
+( F#  C#  D#m  C#  B )
+
+(Refrão 2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D#m = X X 1 3 4 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

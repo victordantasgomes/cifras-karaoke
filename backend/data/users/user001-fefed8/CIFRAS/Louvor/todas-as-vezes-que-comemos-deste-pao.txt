@@ -1,0 +1,30 @@
+@titulo: todas-as-vezes-que-comemos-deste-pao
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Todas As Vezes Que Comemos Deste Pão
+
+(intro) D
+
+          G           Em          Am
+Todas as vezes que comemos deste pão
+    D                G
+e bebemos deste cálice,
+      Em                  Am
+anunciamos senhor a vossa morte
+    D         D7          G
+enquanto esperamos vossa vinda.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

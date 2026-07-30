@@ -1,0 +1,58 @@
+@titulo: assino-com-x
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Assino Com X
+
+Intro:  E  B  F#7  B  F#7  B
+
+B
+Não sei de onde vim, não sei pra onde vou
+                                   E
+Perdi a memória, não sei quem eu sou
+                                     F#7
+Estou preso num quarto com grades de aço
+                              B
+Estão dizendo que matei por amor
+
+B
+Não lembro o que eu fiz, ninguém eu matei
+                B7             E
+Meu nome eu não sei, assino com X
+                                    B
+Meu Deus não fiz nada que fosse errado
+             F#7               B
+Não sou o culpado me tirem daqui
+B                         E                      B
+Eles pensam que estou fingindo mas é a pura verdade
+
+                     F#7                       B
+Perdi o sentido de tudo minha mente está apagada
+                            E                                  B
+Hoje é o dia do meu julgamento estou doente, não lembro o passado
+                        F#7                         B
+Não tenho nenhuma resposta certamente serei condenado
+
+( E  B  F#7  B  F#7  B )
+
+B                         E                      B
+Eles pensam que estou fingindo mas é a pura verdade
+                     F#7                       B
+Perdi o sentido de tudo minha mente está apagada
+                            E                                  B
+Hoje é o dia do meu julgamento estou doente, não lembro o passado
+                        F#7                         B
+Não tenho nenhuma resposta certamente serei condenado
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+F#7 = 2 4 2 3 2 2

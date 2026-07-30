@@ -1,0 +1,80 @@
+@titulo: moca
+@autor:
+@intérprete: Milionário e José Rico
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Milionário e José Rico - Moça
+
+ Cm                 G
+Moça me espere amanhã
+               Bb                   F
+levo o meu coração pronto pra te entregar
+ G#   Dm        G7     Cm
+Moça,  moça eu te prometo
+  Cm            D7      G#7           G7
+Eu me viro do avesso, só pra te abraçar
+Cm                     G7
+Moça ,sei que já não é pura,
+                   Bb               F
+teu passado é tão forte pode ate machucar
+G#    Dm        G7           Cm
+Moça, dobre as mangas do tempo
+   Cm           D7    G#7        G7     C   G7
+jogue o teu sentimento todo em minhas mãos
+     C        E7            Am
+Eu quero me enrolar nos teus cabelos
+    C7                F
+abraçar teu corpo inteiro,
+            G7                 C      G7
+morrer de amor, de amor me perder
+
+    C         E7               Am
+Eu quero me enrolar nos teus cabelos
+    C7            F                    G7
+abraçar teu corpo inteiro, morrer de amor,
+               C
+de amor me perder
+Cm                       G7
+Moça eu sei que já não é pura,
+                   Bb               F7
+teu passado é tão forte pode ate machucar
+
+G#   Dm5       G7           Cm
+Moça, dobre as mangas do tempo
+    Cm           D7    G#7        G7     C   G7
+jogue o teu sentimento todo em minhas mãos
+     C        E7            Am
+Eu quero me enrolar nos teus cabelos
+    C7                F
+abraçar teu corpo inteiro,
+            G7                 C      G7
+morrer de amor, de amor me perder
+    C         E7               Am
+Eu quero me enrolar nos teus cabelos
+    C7            F                    G7
+abraçar teu corpo inteiro, morrer de amor,
+               C
+de amor me perder
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Cm = X 3 5 5 4 3
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+Dm5 = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+F7 = 1 3 1 2 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#7 = 4 6 4 5 4 4
+G7 = 3 5 3 4 3 3

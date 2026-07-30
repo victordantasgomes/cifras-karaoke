@@ -1,0 +1,38 @@
+@titulo: cantar-da-ciriema
+@autor:
+@intérprete: Tião Carreiro e Pardinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Tião Carreiro e Pardinho - Cantar da Ciriema
+
+(intro) B7 E B7 E B7 E B7 E
+
+E                B7                        E
+Canta canta Siriema, seu cantar me faz chorar.
+                  B7                       E
+Que saudade da morena que não pôde me esperar. (2x)
+
+E                                      B7
+Recordo Porto Murtinho, Aquidauna e Coxím.
+                                           E
+Eu lhe dei tanto carinho e ela se esqueceu de mim.
+                     E7                 A
+Siriema não existe canto triste como o teu.
+                     E            B7          E
+Minha vida ficou triste quando o meu amor morreu.
+
+(intro)
+
+(repete tudo)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0

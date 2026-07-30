@@ -1,0 +1,116 @@
+@titulo: mulher-da-vida
+@autor:
+@intérprete: Supercombo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Supercombo - Mulher da Vida
+
+Intro: ( Cm D7 Fm Cm G )
+      Cm         D7         Fm             Cm    G
+E|--3-----3----2-----2----1-----1----1-0--------------|
+B|---------------1-1--------1-1-----------4-----------|
+G|----5-5--------------------------------------3------|
+D|-------------0-----0----3-----3---------------------|
+A|--3-----3-------------------------------3-----------|
+E|---------------------------------------------3------|
+
+
+Fm                             Cm
+Ela mudou de nome, quis se aventurar
+                          Fm
+Já não tinha medo de se machucar
+                                        Cm
+Sem os pés no chão, pés no chão, pés no chão
+        C7
+Sempre andou de costas
+
+Cm               D7
+E não aprendeu, quis inventar
+
+Fm              Cm    G
+Desculpas pra ignorar
+Cm                    D7
+O fato de que sempre, deixa pra lá
+Fm                       Cm      G
+As coisas que te impedem de amar
+
+
+Fm                             Cm
+Ela tentou a sorte, quis se libertar
+                        Fm
+Escapar da morte espiritual
+                                       Cm
+Não é fácil, não é fácil, não é fácil não
+               C7
+Sempre dá errado, sempre diz que
+
+Cm               D7
+Não aprendeu, quis inventar
+Fm              Cm    G
+Desculpas pra ignorar
+Cm                    D7
+O fato de que sempre, deixa pra lá
+Fm                       Cm      G
+As coisas que te impedem de amar
+Cm            D7
+Não aprendeu, quis inventar
+Fm             Cm    G
+Desculpas pra ignorar
+
+Fm                    Cm
+E o tempo ela não soube segurar
+                                              Fm
+Tava lá na frente, já não tinha mais pra onde ir
+                 D7
+E não mais se abriu pra ninguém
+
+
+Solo: ( Cm Fm D# Eº )
+      Cm         Fm               D#                     Eº
+E|----------------------1h3-1-3---------1-------3-1---------------------|
+B|---3---4--6---3---1------------3--3-4-------------4--6-4-3--3---------|
+G|-----------------------------------------3-3-3-----------------4------|
+D|-------------------------------1--------------------------------------|
+A|---3-------------------------------------------------2----------------|
+E|--------------1-------------------------------------------------------|
+
+
+Cm                         Fm
+E o tempo, ela não soube segurar
+                D#
+E não mais se abriu pra ninguém
+                 A#º
+Não vai mais recomeçar
+
+Cm               D7
+Não aprendeu, quis inventar
+Fm              Cm    G
+Desculpas pra ignorar
+Cm                    D7
+O fato de que sempre, deixa pra lá
+Fm                       Cm      G
+As coisas que te impedem de amar
+Cm            D7
+Não aprendeu, quis inventar
+Fm             Cm    G
+Desculpas pra ignorar
+Cm                    D7
+O fato de que sempre, deixa pra lá
+Fm                       Cm
+As coisas que te impedem de amar
+
+----------------- Acordes -----------------
+A#º = X 1 2 0 2 0
+C7 = X 3 2 3 1 X
+Cm = X 3 5 5 4 3
+D# = X 6 5 3 4 3
+D7 = X X 0 2 1 2
+Eº = X X 2 3 2 3
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3

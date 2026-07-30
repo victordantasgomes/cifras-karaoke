@@ -1,0 +1,113 @@
+@titulo: a-metade-da-maca
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - A Metade da Maçã
+
+Intro: G  C  G
+
+E|-10----------7-10------10h12-10-8-7----7-8----7--7---------------|
+B|----8-10--10------8-10--------------10-----10------10-8----------|
+G|--------------------------------------------------------7h9p7-7--|
+D|-----------------------------------------------------------------|
+
+E|-10----------7-10------10h12-10-8-7----7-8----7------------------|
+B|----8-10--10------8-10--------------10-----10--------------------|
+G|-----------------------------------------------------------------|
+D|-----------------------------------------------------------------|
+
+G         G/F#
+ Eu sou a voz amiga
+G/E       G/B
+ Eterna, apaixonada
+C        Am          G C G
+Eu nasci junto de você
+
+G      G/F#
+ Imaginando amores
+
+G/E      G/B
+ Harmonizando as dores
+C         Cm         G
+Eu cresci perto de você
+Am              D7
+ Afagando suas mãos
+Am            C           D7
+ Tudo o que pedir seu coração
+
+Refrão:
+Em  C           G      D7
+ Em nome desse amor eu vou
+Em         C
+Recriar o mundo
+G        D7
+ Cada segundo
+Em  C           G      D7
+ Em nome desse amor eu vou
+F              F/E         D7
+Te entregar um sol toda manhã
+
+A           A/G#
+ Eu canto o teu futuro
+A/F#       A/C#
+ Tocando o teu passado
+D        Bm         A D A
+Eu venci tudo por você
+
+A         A/G#
+ Eu danço nos teus sonhos
+A/F#       A/C#
+ Tornando eternos beijos
+D            Dm           A
+Sempre aqui, pronto pra você
+
+Bm            E7
+A metade da maçã
+Bm            D         E
+Juntos ontem, hoje e amanhã
+
+Refrão:
+F#m D           A      E
+ Em nome desse amor eu vou
+F#m        D
+Recriar o mundo
+A       E
+ Cada segundo
+F#m D           A      E
+ Em nome desse amor eu vou
+G              D       E
+Te entregar um sol toda manhã
+G             D       E
+Tudo o que precisa o coração
+G         D      E
+A outra metade da maçã
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/F# = 2 0 2 2 2 0
+A/G# = 4 X 2 2 2 X
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F/E = 0 X X 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/E = 0 2 0 0 3 3
+G/F# = X X 4 4 3 3

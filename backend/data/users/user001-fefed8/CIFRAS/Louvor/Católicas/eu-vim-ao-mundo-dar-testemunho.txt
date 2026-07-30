@@ -1,0 +1,40 @@
+@titulo: eu-vim-ao-mundo-dar-testemunho
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Eu Vim Ao Mundo Dar Testemunho
+
+[Intro]  Dm  Am  E  A7
+           Dm  Am  E  Am
+
+Am                                  E7                                                        Am
+Eu vim ao mundo dar testemunho, do Pai o Reino comunicar
+              F                              Dm7             E                                   A
+A vida plena eu trouxe a todos, feliz daquele que me escutar
+ A             D             Bm        A                  D                  A              E               A
+Provai e vede: Eu sou o caminho, a verdade e a vida; eu sou vossa luz
+ Am                                           E7                                                   Am
+Eu fui plantado bem nesta terra, lancei raízes beijando o chão
+                      F                             Dm            E7                 A
+Quem se alimenta da minha seiva, já frutifica em profusão
+A             D             Bm        A                  D                  A              E               A
+Provai e vede: Eu sou o caminho, a verdade e a vida; eu sou vossa luz
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1

@@ -1,0 +1,53 @@
+@titulo: dominio-e-poder
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Domínio e Poder
+
+  D         A       G        D
+Domínio e poder pertencem a Jesus
+              A       G         D
+Louvores em Sião sejam dados a ele
+     G              A
+Seu trono está nos céus
+      F#m        Bm
+Seus pés aqui na terra
+    Em        A  A7       D
+E o pai o coroou rei de Israel
+     G      A     F#m         Bm
+E o pai o coroou E o pai o coroou
+    Em        A  A7       D
+E o pai o coroou Rei de Israel
+
+  D         A       G         D
+Domínio e poder pertencem a Jesus
+              A       G         D
+Louvores em Sião sejam dados a ele
+     G              A
+Seu trono está nos céus
+
+      F#m        Cm
+Seus pés aqui na terra
+    Em        A  A7       D
+E o pai o coroou rei de Israel
+     G      A     F#m         Cm
+E o pai o coroou E o pai o coroou
+    Em        A  A7       D
+E o pai o coroou Rei de Israel
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

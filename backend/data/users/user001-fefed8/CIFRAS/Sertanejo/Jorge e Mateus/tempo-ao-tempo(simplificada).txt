@@ -1,0 +1,66 @@
+@titulo: tempo-ao-tempo(simplificada)
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Tempo Ao Tempo
+
+(intro) A5(9) E F#m D5(9) E F#m A5(9) E F#m D5(9) E
+
+(primeira parte)
+   A5(9)                                            D5(9)
+Você já percebeu que quando eu te vejo eu perco o chão
+       A5(9)                                         D5(9)
+Que o simples fato de te ouvir me faz perder toda razão
+  F#m                    E                         A5(9)
+Quando você chega minha mão transpira minha mente pira
+                       D5(9)
+Eu já não sei o que fazer
+    F#m                    E
+Já vi que esse lance ta ficando chato
+                 A5(9)                     D5(9)
+Pois até os meus atos não consigo mais conter
+     A5(9)                 E                           D5(9)
+Não ligo se você nem tá ligando nem tão pouco se importando
+                 D5(9)
+mesmo assim vou te dizer
+
+(refrão)
+
+    A5(9)                    E
+Já dei tempo ao tempo mas o tempo não me ajuda
+    D5(9)
+Se tento te esquecer só faço te querer
+    A5(9)                  E
+Tá no meu pensamento sentimento que não muda
+    D5(9)
+Tô louco pra te ver Só quero amar você.
+
+(repete a primeira parte e depois toca o refrão 2 vezes)
+
+     A5(9)                 E                           D5(9)
+Não ligo se você nem tá ligando nem tão pouco se importando
+                 D5(9)
+mesmo assim vou te dizer
+
+(refrão final)
+    A5(9)                  E
+Tá no meu pensamento sentimento que não muda
+    D5(9)
+Tô louco pra te ver Só quero amar você.
+    A5(9)                  E
+Tá no meu pensamento sentimento que não muda
+    D5(9)
+Tô louco pra te ver Só quero amar você.
+
+----------------- Acordes -----------------
+A5(9) = X 0 2 2 0 0
+D5(9) = X X 0 2 3 0
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,127 @@
+@titulo: deus-extraordinario
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Deus Extraordinário
+
+Intro 2x: G  A  E
+
+E            B                     A
+  Em toda história não se ouviu falar
+                 B             E
+De um Deus mais forte e poderoso
+          B                  A
+Nome que abala terra, céu e mar
+              B            F#m
+Jesus, o Teu nome é sobre todos
+            A              C#m7
+Pelos Teus feitos extraordinários
+          B       A           B
+Eu Te exaltarei,    grande Tu És
+
+Refrão 2x:
+E         B
+  Te amo Deus
+        C#m
+Te honrarei
+  G#m           A
+Hosana nas alturas
+
+             B           E
+Teu nome é poder pra sempre
+
+E               G#m         C#m
+  Que habite em nós o Teu poder
+          B
+Deus de sinais e maravilhas
+E         G#m                 C#m
+  Obras maiores em Teu nome eu farei
+         B
+Pra revelar Teu filho amado Jesus
+F#m        A7M       C#m          B
+  E anunciar a salvação e o Teu grande amor
+A              B
+  Por onde eu for
+
+Refrão 2x:
+E         B
+  Te amo Deus
+         C#m
+Te honrarei
+  G#m           A
+Hosana nas alturas
+             B            E
+Teu nome é poder pra sempre
+
+Interlúdio: C#m A E G#m
+
+C#m        A/C#
+   Teu nome é Poder
+E          G#m
+   Teu nome é Poder
+
+C#m                A
+   Refez minha história
+              E
+Apagou meu passado
+             G#m
+Tu és o Deus extraordinário. (2x)
+
+C#m              A/C#
+   Refez minha história
+             B
+Apagou meu passado
+             G#m
+Tu és o Deus extraordinário.
+
+C#m               A/C#
+   Refez minha história
+              B4
+Apagou meu passado... Jesus.
+
+E         B
+  Te amo Deus
+         C#m
+Te honrarei
+  G#m           A
+Hosana nas alturas
+A              B
+  Teu nome é poder pra sempre
+
+Refrão 2x:
+F         C
+  Te amo Deus
+         Dm
+Te honrarei
+  Am
+Hosana nas alturas
+Bb             C
+  Teu nome é poder pra sempre
+
+Final 2x: G#  Bb  F
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7M = X 0 2 1 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4

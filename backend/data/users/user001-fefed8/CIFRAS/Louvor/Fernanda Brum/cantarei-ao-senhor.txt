@@ -1,0 +1,74 @@
+@titulo: cantarei-ao-senhor
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Cantarei Ao Senhor
+
+F#m    E        D      A
+PORQUE CLAMAS A MIM MOISÉS?
+Bm          Db            F#m     Db
+DIZ AO POVO DE ISRAEL QUE MARCHEM
+F#m       E        D           A
+LEVANTA A VARA E ESTENDE A TUA MÃO
+  Bm                Db
+E TOCA NO MAR E O MILAGRE VERÁS
+
+  D       A       E       F#m
+O MAR SE ABRIU, O POVO PASSOU
+    D     A     Db          F#m
+MAS A FARAÓ O SENHOR NÃO POUPOU
+   D        A     E         F#m
+MOISÉS PÔDE VER A GLÓRIA DE DEUS
+  G                 Db
+E COMPREENDER A VOZ DO "GRANDE EU SOU"
+
+     F#m
+CANTAREI AO SENHOR
+      A
+MINHA FORÇA É O SENHOR
+
+     Bm              F#m      Db
+DERROTOU, AFOGOU O IMPÉRIO DO MAL
+
+     F#m
+CANTAREI AO SENHOR
+     A
+DANÇAREI AO SENHOR
+      Bm                 Db    F#m
+QUE SOPROU E O INIMIGO CAIU, CAIU
+
+INTROD.: G#m A Bm F#m G#m A Bm Db F#m
+
+F#m    E                        Db
+PORQUE CLAMAS A ... O INIMIGO CAIU
+
+     F#m                         Db    F#m
+CANTAREI AO SENHOR ... INIMIGO CAIU, CAIU
+  A         Bm                F#m
+CAIU, QUE SOPROU O INIMIGO, CAIU
+  A         Bm        Db
+CAIU, QUE SOPROU O INIMIGO
+      D         E
+QUE SOPROU O INIMIGO
+      Bm        Db      (solo: F# E D Db E D Db B A Ab E) F#m
+QUE SOPROU O INIMIGO, CAIU
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Ab = 4 3 1 1 1 4
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Db = X 4 6 6 6 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

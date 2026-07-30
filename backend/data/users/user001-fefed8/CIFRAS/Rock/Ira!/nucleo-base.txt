@@ -1,0 +1,78 @@
+@titulo: nucleo-base
+@autor:
+@intérprete: Ira!
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ira! - Núcleo Base
+
+E                  A            B7             E    A   B7
+Meu amor eu sinto muito, muito, muito, mas vou indo
+E                   A            B7       E    A    B7
+Pois é tarde, muito tarde e preciso ir embora
+E               A              B7            E    A   B7
+Sinto muito meu amor mas acho que já vou andando
+E             A          B7        E    A   B7
+Amanhã acordo cedo e preciso ir embora
+E                A          B7            E    A   B7
+Eu queria ter você mas acho que já vou andando
+E               A               B7            E    A       B7
+Outro dia pode ser mas não vai dar pra ser agora...la lala lalalala
+
+E  D#m   C#m       B                    A
+Eu tentei fugir   não queria me alistar
+       G#m     F#m     B            E
+Eu quero lutar ...mas não com essa farda
+  D#m    C#m       B                    A
+Eu tentei fugir   não queria me alistar
+       B       A       B7          (E    A B7)
+Eu quero lutar ...mas não com essa farda
+
+
+E                 A            B7            E   A  B7
+E já esta ficando tarde e eu estou muito cansado
+E                      A       B7              E   A  B7
+Minha mente está tão cheia e estou me transbordando
+E                   A          B7          E   A  B7
+Você pensa que sou louco mas estou só delirando
+E                  A          B7          E     A       B7
+Você pensa que sou tolo mas estou só te olhando la lala lalalala
+
+E    D#m C#m       B                    A
+Eu tentei fugir   não queria me alistar
+       G#m     F#m     B            E
+Eu quero lutar ...mas não com essa farda
+  D#m    C#m       B                    A
+Eu tentei fugir   não queria me alistar
+       B       A       B7           E    A
+Eu quero lutar ...mas não com essa farda
+     B7           E    A
+Mas não com essa farda
+     B7           E    A
+Mas não com essa farda
+     B7    A G#m F#m E
+Mas não
+
+[Final]
+
+E|-7-5-4-5-7-7-5-4-5-7-7-5-4-5---7-5-4-5-7-7-5-4-5-7-----5-4-5-5-4-5-5-4-----------|
+B|-----------------------------5---------------------5-7-----------------5-7-5-----|
+G|---------------------------------------------------------------------------------|
+D|---------------------------------------------------------------------------------|
+A|---------------------------------------------------------------------------------|
+E|---------------------------------------------------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#7 = 4 6 4 5 4 4
+G#m = 4 6 6 4 4 4

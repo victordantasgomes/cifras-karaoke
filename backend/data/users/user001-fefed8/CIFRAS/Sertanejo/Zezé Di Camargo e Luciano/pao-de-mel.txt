@@ -1,0 +1,70 @@
+@titulo: pao-de-mel
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Pão de Mel
+
+     E                          B/D#
+Você é minha luz, estrada, meu caminho
+ B7                       A/C#
+Sem você não sei andar sozinho
+ A9                      B7
+Sou tão dependente de você
+  E                              B/D#
+Chama que alimenta o fogo da paixão
+  B7                      A/C#
+Chuva que molhou meu coração
+ A9                      B7    E7   E/G#
+Sou tão dependente de você
+
+     F#m          E/G#       A
+Vem meu céu, meu pão de mel
+           E   E7   E/G#
+Meu bem, querer
+         F#m       E/G#      A
+Vem meu céu, meu pão de mel
+          E      Bsus
+Meu bem querer
+
+
+E                                B7          E/G#
+Ai, ai, ai, ai, ai, esse amor é bom demais
+F#m              B7                     E
+Ai, ai, ai, ai, ai, esse amor marcou demais
+                                 B7          E/G#
+Ai, ai, ai, ai, ai, esse amor ficou em mim
+F#m              B7                 E         E  Bsus
+Ai, ai, ai, ai, ai, esse amor não vai ter fim
+
+E                                B7       E/G#
+ai, ai, ai, ai, ai, esse amor é bom demais
+F#m              B7                     E
+Ai, ai, ai, ai, ai, esse amor marcou demais
+                                 B7        E/G#
+Ai, ai, ai, ai, ai, esse amor ficou em mim
+F#m              B7                        E    E7
+Ai, ai, ai, ai, ai, esse amor não vai ter fim
+
+       A       B7      E  E7
+Esse amor não vai ter fim
+       A       B7  E
+Esse amor não vai ter fim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+B/D# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+Bsus = X 2 4 4 4 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

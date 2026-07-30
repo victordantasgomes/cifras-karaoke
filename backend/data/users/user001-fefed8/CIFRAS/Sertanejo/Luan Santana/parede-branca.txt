@@ -1,0 +1,104 @@
+@titulo: parede-branca
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Parede Branca
+
+[Intro] F#m A E B
+        F#m A E B
+
+F#m                    A        E            B
+Não adiantaria se eu mudasse montanhas de lugar
+F#m                    A        E    B
+Não adiantaria se eu fizesse nevar
+
+     F#m  A  E                    B
+Pra você...  eu não existo e ponto
+     F#m  A  E            B
+Pra você...  eu não existo
+
+C#m                       B           (B)       F#m
+Mas eu não vou sofrer por isso não (mentira, eu vou sim!)
+A             F#m
+Mas não na sua frente
+A             B
+Mas não na sua frente
+
+        F#m   A
+Você me vê
+
+ E              B
+Como uma parede branca
+   F#m   A
+Me vê
+  E    B
+Assim
+       F#m   A
+Você me vê
+ E              B
+Como uma parede branca
+   F#m   A
+Me vê
+  E    B
+Assim
+
+( F#m A E B )
+( F#m A E B )
+
+F#m                    A        E            B
+Não adiantaria se eu mudasse montanhas de lugar
+F#m                    A        E    B
+Não adiantaria se eu fizesse nevar
+
+     F#m  A  E                    B
+Pra você...  eu não existo e ponto
+     F#m  A  E            B
+Pra você...  eu não existo
+
+C#m                       B           (B)       F#
+Mas eu não vou sofrer por isso não (mentira, eu vou sim!)
+A             F#m
+Mas não na sua frente
+A             B
+Mas não na sua frente
+
+[refrão]
+
+        F#m   A
+Você me vê
+ E              B
+Como uma parede branca
+   F#m   A
+Me vê
+  E    B
+Assim
+       F#m   A
+Você me vê
+ E              B
+Como uma parede branca
+   F#m   A
+Me vê
+  E    B
+Assim
+
+F#m                    A        E            B
+Não adiantaria se eu mudasse montanhas de lugar
+F#m                    A        E    B
+Não adiantaria se eu fizesse nevar
+     F#m  A  E               (B)
+Pra você...  eu não existo e ponto
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2

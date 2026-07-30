@@ -1,0 +1,64 @@
+@titulo: experiencia
+@autor:
+@intérprete: Nenhum de Nós
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nenhum de Nós - Experiência
+
+B               F#/Bb                  B/G#         F#
+Ela perguntou:  Será que nós perdemos nossa inocência
+B                    F#/Bb
+Nós brigamos tanto   Nós mentimos tanto
+ B/G#                   F#
+ levamos tanto tempo pra descobrir
+     B          F#           G#m          F#
+O tamanho do universo    O tamanho do universo
+B               F#/Bb                  B/G#         F#
+Eu quero saber:   O que vai acontecer depois da adolescência?
+B                    F#/Bb
+Nós sorrimos tanto   Nós corremos tanto
+ B/G#                   F#
+esperamos tantos anos pra encontrar
+     B          F#           G#m          F#
+O sentido do silêncio          O sentido do silêncio
+
+F#5
+Abra a sua mente
+F#5/F
+Sem pressa Sem mais
+
+F#5/E
+Há tanto que eu não sei
+F#5/Eb                  B         C#5
+as palavras podem esperar,   esperar    (bis)     (solo 2x) E B F# G#m E B C#5
+
+B               F#/Bb                  B/G#         F#
+Ela perguntou:   Quando é que vai chegar a idade da experiência?
+B                    F#/Bb
+Nós bebemos tanto    Nós choramos tanto
+B/G#
+Nós sonhamos tanto
+F#                    B              F#
+Que não conseguimos esconder nossa loucura
+
+(refrão 2x)
+(solo)
+(vocalização)
+
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B/G# = 4 X 4 4 4 X
+C#5 = X 4 6 6 X X
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#/Bb = 6 X 4 6 7 X
+F#5 = 2 4 4 X X X
+F#5/F = 1 4 4 X X X
+G#m = 4 6 6 4 4 4

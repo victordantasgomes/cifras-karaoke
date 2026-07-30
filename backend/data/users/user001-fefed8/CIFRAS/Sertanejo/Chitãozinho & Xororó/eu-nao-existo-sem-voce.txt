@@ -1,0 +1,99 @@
+@titulo: eu-nao-existo-sem-voce
+@autor:
+@intérprete: Chitãozinho & Xororó
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Chitãozinho & Xororó - Eu Não Existo Sem Você
+
+Intro: F# B9 F# B9
+
+    F#                      B9
+Eu sei e você sabe, já que a vida quis assim
+    B                    F#
+Que nada nesse mundo levará você de mim
+    D#m                     Bbm
+Eu sei e você sabe que a distância não existe
+B
+Que todo grande amor
+          F#
+Só é bem grande se for triste
+G#m
+Por isso, meu amor
+   C#
+Não tenha medo de sofrer
+ B9                           B           B9    B
+Que todos os caminhos me encaminham pra você
+
+   F#
+Assim como o oceano
+
+      B9
+Só é belo com luar
+ B
+Assim como a canção
+          F#
+Só tem razão se se cantar
+
+
+  D#m
+Assim como uma nuvem
+       Bbm
+Só acontece se chover
+  B
+Assim como o poeta
+       F#
+Só é grande se sofrer
+G#m
+Assim como viver
+         C#
+Sem ter amor não é viver
+B9
+Não há você sem mim
+ B               B9
+E eu não existo sem você
+
+
+F#  B  F# B B9 G#m D#m G#m B9 B
+
+
+   F#
+Assim como o oceano
+      B9
+Só é belo com luar
+ B
+Assim como a canção
+          F#
+Só tem razão se se cantar
+
+
+  D#m
+Assim como uma nuvem
+       Bbm
+Só acontece se chover
+  B
+Assim como o poeta
+       F#
+Só é grande se sofrer
+G#m
+Assim como viver
+         C#
+Sem ter amor não é viver
+B9
+Não há você sem mim
+                       F#
+E eu não existo sem você
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+Bbm = X 1 3 3 2 1
+C# = X 4 6 6 6 4
+D#m = X X 1 3 4 2
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

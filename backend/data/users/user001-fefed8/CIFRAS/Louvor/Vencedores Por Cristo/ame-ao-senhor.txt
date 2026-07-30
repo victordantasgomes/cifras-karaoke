@@ -1,0 +1,41 @@
+@titulo: ame-ao-senhor
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Ame Ao Senhor
+
+D7M/9                   C7/9 
+    Ame ao Senhor com todo o seu coração 
+     Ab5-/7     G7M      A7/9 A7/9-      D7M/9    Am7  D7/9 
+    com toda força e razão, com todo o seu desejar 
+        G7M              G#m5-/7 C#7/9- E/F# F#m7  B4/7 
+    2x Ame ao seu próximo     como se fosse você 
+             B7        E4          Em    A7/9-        Am7     D7/9     
+    1º vez  Como se a dor que ele sente, fosse a que sente você 
+             B7        E4          Em   A7/9-   D7M/9        
+    2º vez  Como se a dor que ele sente doesse mais em você
+
+----------------- Acordes -----------------
+A7/9 = 5 X 5 4 2 X
+A7/9- = 5 X 5 3 2 X
+Ab5-/7 = 4 X 4 5 3 X
+Am7 = X 0 2 0 1 0
+B4/7 = X 2 4 2 5 2
+B7 = X 2 1 2 0 2
+C#7/9- = X 4 3 4 3 X
+C7/9 = X 3 2 3 3 X
+D7/9 = X 5 4 5 5 X
+D7M/9 = X 5 4 6 5 X
+E/F# = X X 4 4 5 4
+E4 = 0 2 2 2 0 0
+Em = 0 2 2 0 0 0
+F#m7 = 2 X 2 2 2 X
+G#m5-/7 = 4 X 4 4 3 X
+G7M = 3 X 4 4 3 X

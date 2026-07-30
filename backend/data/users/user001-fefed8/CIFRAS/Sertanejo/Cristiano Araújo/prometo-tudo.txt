@@ -1,0 +1,55 @@
+@titulo: prometo-tudo
+@autor:
+@intérprete: Cristiano Araújo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cristiano Araújo - Prometo Tudo
+
+
+Intro: C#m A9 E
+
+C#m
+A gente se empolga demais
+                            G#7
+É coisa de louco até parece que sai do corpo nunca satisfaz
+                        C#m
+Deixo você bem à vontade, me chama de amor
+                    G#7
+Eu juro que sou só seu seu seu
+                      C#m
+E você fala que é só minha
+ A
+Coloco minha língua no céu da sua boca
+                                             E
+Cê tá sem saída eu arranco sua roupa, eu começo a mentir
+ A
+Passa a mão na minha nuca, arrepio por dentro
+                                E
+Quase não aguento, peço em casamento
+
+                        B
+Depois cê vem cobrar de mim
+
+E                                             B
+Mas o problema é que eu empolgo e te prometo tudo
+                C°                      C#m
+E te ofereço o mundo, você inocente aceita
+                             A
+Engole minhas besteiras, faceira
+      B                E
+Dá dó de desmentir depois
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+C° = X 3 4 2 4 2
+E = 0 2 2 1 0 0
+G#7 = 4 6 4 5 4 4

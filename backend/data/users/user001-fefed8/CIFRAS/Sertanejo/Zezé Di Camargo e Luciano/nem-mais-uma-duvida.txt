@@ -1,0 +1,75 @@
+@titulo: nem-mais-uma-duvida
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Nem Mais Uma Dúvida
+
+(intro) A D7+ E D7+ A D/A
+
+ A                                         D
+  Quero acabar com essa duvida do meu sentimento
+ E                     D                    A
+  Por que sera que voce nao sai do meu pensamento
+ A                                          D
+  Quando eu te vejo fico leve feito folha ao vento
+ E              D                  A
+  Um arrepio na pele e um fogo por dentro
+Bm7                                      C#m7
+  É um desejo que faz meu coração disparar
+                                       F#m
+  Acendem mil estrelas dentro do meu olhar
+      D7+                E
+  É sempre assim, não muda
+Bm7                                      C#m7
+  É uma coisa estranha que eu nunca senti
+                                       F#m
+  O amor e a paixao jogando flechas em mim
+   D7+              E
+  Nem mais uma duvida
+
+ A                                        C#m7
+  Descobri que a minha outra metade é você
+                    D            E
+  Quero te dizer te amo,te a....mo!
+ A                                               C#m7
+  Tá na cara que eu te quero já não da pra esconder
+                     D           E
+  Preciso de você,te amo,te a...mo!
+ A            E/G#            F#m
+  Como eu poderia um dia imaginar
+                    C#m7            D
+  Que de repente eu fosse me apaixonar
+              A                Bm7    E
+  Que era o começo de um amor sem fim
+ A           E/G#                 F#m
+  Perto de você não vejo mais ninguém
+               C#m7                   D
+  Quero esse teu beijo que me faz tão bem
+            A              Bm7 E        A
+  O meu coração vive dizendo assim:"I love you!"
+         C#m7             D E              A
+  Só eu sei como eu te amo,te amo tanto assim
+  ( A D7+ E D7+ A D/A )
+ Bm
+  É um desejo.....
+    A        C#m7          D   E     A C#m7    D   E  A
+  ....Só eu sei como eu te amo,te amo,     te amo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D7+ = X X 0 2 2 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

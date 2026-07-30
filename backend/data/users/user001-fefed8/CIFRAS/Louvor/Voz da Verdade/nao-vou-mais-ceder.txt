@@ -1,0 +1,84 @@
+@titulo: nao-vou-mais-ceder
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Não Vou Mais Ceder
+
+INTRO: F#m7, E/G#, B, E/G#, A(9), G#m7, A(9), B4, B
+
+            E(9)     A(9)                                  C#m7                 A(9)
+Não vale a pena trocar as coisas de Deus por coisas que passam, por coisas que morrem
+                D(9)  A/B
+Por coisas tão fúteis
+            E(9)     A(9)                            C#m7              A(9)              D(9)  A/B
+Não vale a pena por um prazer passageiro perder sua paz, perdeu o seu sono, perder a si mesmo
+
+SOLO: E(9), A(9)/E, E(9), A(9)/E
+
+                E(9)              C#m7
+Não vou mais ceder, Cristo tem poder
+                A(9)                 F#m7                  B
+Seu poder me domina, por isto me fascina ser possuído por Deus
+                  E(9)       C#m7
+Eu nele e ele em mim, até o fim
+                 A(9)                 F#m7                   B
+Este fim não termina, por isto me fascina ser possuído por Deus
+               A(9)                        C#m7
+Por coisas melhores vou lutar, resistir sempre, entregar jamais
+
+            A(9)         B                 A(9)        B
+Se perco o mundo, perco nada, se eu acho Cristo, acho tudo
+                E(9)            B
+Não vou mais ceder, Não devo temer
+              F#m7  B             E(9)
+Se Cristo venceu,    também vencerei
+                E(9)            B
+Não vou mais ceder, não devo temer
+              F#m7  B            E(9)  C
+Se Cristo venceu,    também vencerei
+
+SOLO: F, C, Gm, C, F, C, Gm, C, F, D
+
+              G(9)              D
+Não vou mais ceder, Não devo temer
+              Am7  D             G(9)
+Se Cristo venceu,   também vencerei
+                                D
+Não vou mais ceder, não devo temer
+              Am7  D             Eb(9) - ai já imenda com o solo
+Se Cristo venceu,   também vencerei
+
+SOLO: Eb(9), Bb/D, Db(9), Ab(9)/C, Abm/B, E(9), Gb, Ab
+
+----------------- Acordes -----------------
+A(9) = X 0 2 2 0 0
+A(9)/E = 0 X 2 2 0 0
+A/B = X 2 2 2 2 X
+Ab = 4 3 1 1 1 4
+Ab(9)/C = 8 X X 8 9 6
+Abm/B = X 2 X 1 4 4
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+Bb/D = X 5 X 3 6 6
+C = X 3 2 0 1 0
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D(9) = X X 0 2 3 0
+Db(9) = X 4 6 6 4 4
+E(9) = 0 2 4 1 0 0
+E/G# = 4 X 2 4 5 X
+Eb(9) = X 6 8 8 6 6
+F = 1 3 3 2 1 1
+F#m7 = 2 X 2 2 2 X
+G#m7 = 4 X 4 4 4 X
+G(9) = 3 X 0 2 0 X
+Gb = 2 4 4 3 2 2
+Gm = 3 5 5 3 3 3

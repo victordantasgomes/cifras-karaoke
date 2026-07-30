@@ -1,0 +1,78 @@
+@titulo: do-alto-da-pedra(versão 2)
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Do Alto da Pedra
+
+Intro: C#9  A9 (2x)
+       B5  C#5  A5 (2x)
+
+E                 A9
+ Encontro e sinto
+                      C#m
+Você é tudo o que sonhei
+                   A9
+Não posso me conter
+                          E
+E mais que tudo eu quero ir
+                               A9
+Uma vez que faz-me sentir alguém
+                 C#m
+É pra todo sempre
+                 A9         B              E   A9  E  A9
+Não quero minha vida igual a tudo que se vê...
+
+Refrão:
+
+E
+Em você eu se me sinto forte
+
+A9
+Com você não temo minha sorte
+C#m          A9              E     F#5   G#5
+E eu sei que isso veio de você
+
+E
+Em você eu se me sinto forte
+A9
+Com você não temo minha sorte
+C#m           A9              E     F#5   G#5 A9
+E eu sei que isso veio de você
+
+E               A9                        C#m
+Do alto da pedra eu busco impulso pra saltar
+                    A9
+mais alto que antes , e mais que tudo eu quero ir
+E                      A9                        C#m
+Uma vez que faz-me sentir alguem é pra todo sempre
+                    A9                 E     A    E   A
+Não quero minha vida igual a tudo que se vê
+
+(Refrão)
+
+Solo: E   A9   C#m   A9   E   F#5  G#5
+      E   A9   C#m   A9   E   F#5  G#5   A9
+
+(Refrão)
+
+( B5  C#5  A5 ) 2x
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B5 = X 2 4 4 X X
+C#5 = X 4 6 6 X X
+C#9 = X 4 6 6 4 4
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#5 = 2 4 4 X X X
+G#5 = 4 6 6 X X X

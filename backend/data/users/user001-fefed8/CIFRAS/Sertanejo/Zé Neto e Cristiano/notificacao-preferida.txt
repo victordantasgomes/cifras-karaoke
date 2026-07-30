@@ -1,0 +1,185 @@
+@titulo: notificacao-preferida
+@autor:
+@intérprete: Zé Neto e Cristiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Zé Neto e Cristiano - Notificação Preferida
+
+Capo Casa 4
+
+[Intro]  C9  D  Bm7  Em7
+
+[TAB - Dedilhado intro]
+
+Parte 1 de 2
+   C9              D  
+E|------------------------------------------|
+B|-------3-------------3--------------------|
+G|-----0---0---------2---2---2--------------|
+D|---2-------2-----0-------0---0------------|
+A|-3-----------3----------------------------|
+E|------------------------------------------|
+
+Parte 2 de 2
+   Bm7             Em7
+E|------------------------------------------|
+B|-------3---------------3------------------|
+G|-----2---2-----------0---0----------------|
+D|---4-------4-------2-------2--------------|
+A|-2-----------2---------------2------------|
+E|-----------------0------------------------|
+
+
+[Primeira Parte]
+
+ C9     D
+Já doeu
+           Bm7        Em7
+Mas hoje não dói mais
+ C9       D
+Tanto fiz
+           Bm7      Em7
+Que agora tanto faz
+
+[TAB - Dedilhado primeira parte]
+
+Parte 1 de 2
+   C9              D  
+E|------------------------------------------|
+B|-------3-------------3--------------------|
+G|-----0---0---------2---2---2--------------|
+D|---2-------2-----0-------0---0------------|
+A|-3-----------3----------------------------|
+E|------------------------------------------|
+
+Parte 2 de 2
+   Bm7             Em7
+E|------------------------------------------|
+B|-------3---------------3------------------|
+G|-----2---2-----------0---0----------------|
+D|---4-------4-------2-------2--------------|
+A|-2-----------2---------------2------------|
+E|-----------------0------------------------|
+
+[Pré-Refrão]
+
+                  C9
+O nosso amor calejou
+                      D
+Apanhou, apanhou que cansou
+                            Bm7
+Na minha cama cê fez tanta falta
+                        Em7
+Que o meu coração te expulsou
+
+             C9
+Não tem mais eu e você
+      D
+Tá facin de entender
+   C9
+Você me deu aula
+                          D  C9/E  D/F#
+De como aprender te esquecer
+
+[Refrão]
+
+                C9
+Foi, mas não é mais
+                          D
+A minha notificação preferida
+                Bm7
+Já foi, mas não é mais
+                      Em7
+A número um da minha vida
+             C9  D
+Sinto em te diz__er
+                   Em7
+Mas eu já superei você
+
+[Solo]
+
+C9  D  Em7
+
+[TAB - Solo Refrão]
+
+E|-----------------------------------------------------|
+B|-----------------------------------------------------|
+G|-----0-2/4~------0-4/7~--5/7-5-2-2h4~----------------|
+D|-2-4--------2-4--------------------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+[Pré-Refrão]
+
+                  C9
+O nosso amor calejou
+                      D
+Apanhou, apanhou que cansou
+                            Bm7
+Na minha cama cê fez tanta falta
+                        Em7
+Que o meu coração te expulsou
+
+             C9
+Não tem mais eu e você
+      D
+Tá facin de entender
+   C9
+Você me deu aula
+                          D  C9/E  D/F#
+De como aprender te esquecer
+
+[Refrão final]
+
+                C9
+Foi, mas não é mais
+                          D
+A minha notificação preferida
+                Bm7
+Já foi, mas não é mais
+                      Em7
+A número um da minha vida
+             C9  D
+Sinto em te diz__er
+                   Em7
+Mas eu já superei você
+
+                C9
+Foi, mas não é mais
+                          D
+A minha notificação preferida
+                Bm7
+Já foi, mas não é mais
+                      Em7
+A número um da minha vida
+             C9  D
+Sinto em te diz__er
+                   Em7
+Mas eu já superei você (Solo final)
+ C9     D            Em7
+Já doeu,  mas hoje não dói mais
+
+[TAB - Solo Final]
+
+E|---------------x-x-----------------------------------|
+B|---------------x-x-----------------------------------|
+G|-0-2-4-4/7\4~--x-x--2h4p2~---------------------------|
+D|---------------x-x---------4b5r4--0h2----------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+
+----------------- Acordes -----------------
+Capotraste na 4ª casa
+Bm7*  = X 2 4 2 3 2 - (*D#m7 na forma de Bm7)
+C9*  = X 3 2 0 3 3 - (*E9 na forma de C9)
+C9/E*  = 0 3 2 0 3 3 - (*E9/G# na forma de C9/E)
+D*  = X X 0 2 3 2 - (*F# na forma de D)
+D/F#*  = 2 X 0 2 3 X - (*F#/A# na forma de D/F#)
+Em7*  = 0 2 2 0 3 3 - (*G#m7 na forma de Em7)

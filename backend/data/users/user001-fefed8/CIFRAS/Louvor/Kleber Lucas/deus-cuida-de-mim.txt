@@ -1,0 +1,139 @@
+@titulo: deus-cuida-de-mim
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Deus Cuida de Mim
+
+[Intro] C#9  D#/C#  Cm7  Fm  Bbm7  C#/D#  C#/G#  G#9
+
+ G#9                            D#/G
+Eu preciso aprender um pouco aqui
+        Fm7                    Fm7/D#
+Eu preciso aprender um pouco ali
+        C#                      Bbm
+Eu preciso aprender mais de Deus
+        C#                    D#6  D#
+Porque Ele é quem cuida de mim
+         G#
+Se uma porta se fecha  aqui
+            Cm7          C#
+Outras portas se abrem ali
+       G#/C                    Fm
+Eu preciso aprender mais de Deus
+  C#                Bbm7      Fm
+Porque Ele é quem cuida de mim
+
+  C#   C#/D#    G#
+Deus cuida de mim
+
+      C#/D#    G#      C#
+Deus cuida de mim na sombra das
+        G#/C
+Suas asas
+               Fm7     C           Fm
+Deus cuida de mim, eu amo a sua casa
+       C#                G#/C
+E não ando sozinho não estou sozinho
+    Bbm Bbm/G#                 D#
+Pois sei, Deus cuida de mim
+
+      C#/D#   G#       C#
+Deus cuida de mim na sombra das
+        G#/C
+Suas asas
+               Fm7     C           Fm
+Deus cuida de mim, eu amo a sua casa
+       C#                G#/C
+E não ando sozinho não estou sozinho
+     Bbm    C#  D#4/7/9  G#
+Pois sei: Deus cuida de mim
+
+     G#9                  D#/G
+Se na vida não tenho direção
+      Fm7              Fm7/D#
+E preciso tomar uma decisão
+             C#                   Bbm
+Eu sei que existe alguém que me ama
+      C#            D#6  D#
+Ele quer me dar a mão
+ G#
+Se uma porta se fecha  aqui
+            Cm7          C#
+Outras portas se abrem ali
+       G#/C                    Fm
+Eu preciso aprender mais de Deus
+  C#                Bbm7      Fm
+Porque Ele é quem cuida de mim
+  C#   C#/D#    G#
+Deus cuida de mim
+
+      C#/D#    G#      C#
+Deus cuida de mim na sombra das
+        G#/C
+Suas asas
+               Fm7     C           Fm
+Deus cuida de mim, eu amo a sua casa
+       C#                G#/C
+E não ando sozinho não estou sozinho
+    Bbm Bbm/G#                 D#
+Pois sei, Deus cuida de mim
+      C#/D#    G#      C#
+Deus cuida de mim na sombra das
+        G#/C
+Suas asas
+               Fm7     C           Fm
+Deus cuida de mim, eu amo a sua casa
+       C#                G#/C
+E não ando sozinho não estou sozinho
+    Bbm Bbm/G#                 D#
+Pois sei, Deus cuida de mim
+
+----------------- Acordes -----------------
+Am/G = 3 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+B/D# = X 6 X 4 7 7
+Bbm = X 1 3 3 2 1
+Bbm/G# = 4 X 3 3 2 X
+Bbm7 = X 1 3 1 2 1
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#/D# = 11 X 11 10 9 X
+C#/G# = 4 X 3 1 2 X
+C#9 = X 4 6 6 4 4
+C/D = X X 0 0 1 0
+C/E = 0 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+C9 = X 3 5 5 3 3
+Cm7 = X 3 5 3 4 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D#/C# = X 4 5 3 4 X
+D#/G = 3 X 1 3 4 X
+D#4/7/9 = X X 1 1 2 1
+D#6 = X X 1 3 1 3
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+D7 = X X 0 2 1 2
+D7/4 = X X 0 2 1 3
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+Fm = 1 3 3 1 1 1
+Fm7 = 1 X 1 1 1 X
+Fm7/D# = X X 1 1 4 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#/C = X 3 X 1 4 4
+G#9 = 4 6 8 5 4 4
+G/B = X 2 0 0 3 3
+G9 = 3 X 0 2 0 X
+Gadd9 = 3 X 0 2 0 X

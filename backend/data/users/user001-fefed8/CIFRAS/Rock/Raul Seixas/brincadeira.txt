@@ -1,0 +1,72 @@
+@titulo: brincadeira
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Brincadeira
+
+Intro: (G#m C# G#m C# F#m B F#m B)2x E A B E A B
+
+
+     G#m   C#       G#m          C#        F#m B F#m B
+Brincadeira com meu amor, não dá certo meu bem
+       G#m  C#    G#m        C#       F#m B F#m B
+Eu não quero que você fique triste também
+            E  A B E A B
+Como já fiquei
+
+     G#m  C#   G#m      C#       F#m B F#m B
+A primeira namorada que tive, chorei
+      G#m C#       G#m      C#    F#m B F#m B
+É por isso que lhe peço com o coração
+              E  A B E A B
+Para não brincar
+
+    Am        D7  G Em
+Eu gosto de você
+     Am           D7          G    D7
+Não quero nem pensar em lhe perder
+
+
+       G#m C#   G#m      C#    F#m B F#m B
+Um beijinho de amor para recomeçar
+     G#m   C#     G#m    C#        F#m B F#m B
+Para sempre eu prometo irei lhe adorar
+             E      62 63
+Pare de brincar
+
+(G#m C# G#m C# F#m B F#m B)2x E A B E A B
+
+    Am        D7  G Em
+Eu gosto de você
+     Am           D7          G    D7
+Não quero nem pensar em lhe perder
+
+       G#m C#   G#m      C#    F#m B F#m B
+Um beijinho de amor para recomeçar
+     G#m   C#     G#m    C#        F#m B F#m B
+Para sempre eu prometo irei lhe adorar
+             E  A B  E
+Pare de brincar
+ A    B      E  A B  E
+Pare de brincar
+ A    B     G#m
+Pare de brincar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

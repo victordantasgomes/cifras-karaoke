@@ -1,0 +1,140 @@
+@titulo: por-um-momento-assim
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Por Um Momento Assim
+
+INTROD: G#m9  E9  :  B7M/D#  E9  :  B7M/D#  E9  F#9
+
+1ª ESTROFE
+
+B9            E/B  B9        E/B
+Construí uma casa  em uma ladeira
+G#m         E     C#m7       F#4   F#
+De um alto monte muito especial
+B9       E/B  B9      E/B
+Tenho vivido  tão boa vida
+G#m              E       C#m7        F#4   F#
+Mais do que eu pedi, mas não o que sonhei
+B/G#            E             B        F#/A#
+Quantas vezes ouvi tua voz chamando-me:
+G#m         E         E/C#         F#
+"sobe mais alto e maravilhas tu verás
+      B/A   B4/A  A        B/A    A
+Mas a tem...pes...tade poderá chegar”
+
+REFFRÃO
+         G#m7 E   B
+Por um momento assim,
+
+              G#m7       E
+Não há grande risco para mim
+            G#m7 F#         E9
+Não tenho andado vazio a chorar,
+          C#m7            F#
+Mas não caminho sobre as águas
+          G#m7  E  B            G#m7         E
+Mas se eu volto   atrás, como saber o que perdi?
+            G#m7  F#           E9
+Depois de haver esperado até aqui
+         F#
+Por um momento assim
+
+MODULAÇÃO:  G#m9  E9  :  Bm9  G9
+
+2ª ESTROFE
+
+D9       G/D    D9              G/D
+Eu me contento  em não fazer perguntas
+Bm7         G        Em7     A4   A
+Que agitem rios, que movam o mar
+D9         G/D  D9             G/D
+As águas quietas são mais tranquilas
+Bm7             G          Em7    A    A#°
+Acalmam o meu espírito com seu cantar
+D/B          G             D     A/C#
+Que está impedindo-me de desejar
+Bm         G          Em7            A
+ser livre dessa indiferença espiritual
+        D/C    D4/C  C        D/C   C
+É que a tem....pes...tade poderá chegar
+
+REFRÃO
+         Bm7  G  D
+Por um momento assim,
+              Bm7        G
+Não há grande risco para mim
+            Bm7  A         G9
+Não tenho andado vazio a chorar,
+          Em7             A
+Mas não caminho sobre as águas
+          Bm7  G  D            Bm7         G
+Mas se eu volto  atrás, como saber o que perdi?
+            Bm7   A           G9
+Depois de haver esperado até aqui
+         A
+Por um momento assim
+D                D/F#       Bm7     A
+Às vezes há momentos de começar a voar
+            G
+Em meio a temores
+
+SOLO:  Em  D  :  Gm  F  :  Bb  F/A  :  G/B  A
+(VOLTA AO REFRÃO)
+
+FINAL:  Bm9  G9  :  Bbm  F#9  :  Am9  F9  G  :  C9
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#° = X 1 2 0 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+Am9 = X 0 2 4 1 0
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+B/G# = 4 X 4 4 4 X
+B4/A = 5 X X 4 5 7
+B7M/D# = X 6 X 4 7 6
+B9 = X 2 4 4 2 2
+Bb = X 1 3 3 3 1
+Bbm = X 1 3 3 2 1
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Bm9 = X 2 4 6 3 2
+C = X 3 2 0 1 0
+C#m7 = X 4 6 4 5 4
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/B = X 2 0 2 3 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D4/C = X 3 0 0 1 X
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/C# = X 4 2 1 0 0
+E9 = 0 2 4 1 0 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#4 = 2 4 4 4 2 2
+F#9 = 2 4 6 3 2 2
+F/A = 5 X 3 5 6 X
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4
+G#m7 = 4 X 4 4 4 X
+G#m9 = 4 6 8 4 4 4
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G9 = 3 X 0 2 0 X
+Gm = 3 5 5 3 3 3

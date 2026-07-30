@@ -1,0 +1,59 @@
+@titulo: nao-identificado
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - Não Identificado
+
+[Intro:] E E4 E
+
+E            A              C#m
+Eu vou fazer uma canção prá ela
+F#7/4   F#7  F#m7  B7     E4
+Uma canção singela, brasileira
+A                      E      A B
+Para lançar no espaço sideral
+E            A             C#m
+Eu vou fazer um iê-iê-iê romântico
+   F#7/4  F#7  F#m7  B7    E4 E
+Um anticomputador sentimental
+
+A                    A4
+Eu vou fazer uma canção de amor
+A                      A4
+Para lançar num disco voador
+A                    A4
+Eu vou fazer uma canção de amor
+A                      A4    B  Bm
+Para lançar num disco voador
+
+
+Uma canção falando tudo a ela
+Que ainda estou sozinho, apaixonado
+Para lançar depois do carnaval
+Minha paixão há de brilhar na noite
+No céu de uma cidade do interior
+
+Um objeto não identificado
+Um objeto não identificado
+Que ainda estou sozinho e apaixonado
+Como um objeto voador não identificado
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F#7 = 2 4 2 3 2 2
+F#7/4 = 2 4 2 4 2 X
+F#m7 = 2 X 2 2 2 X

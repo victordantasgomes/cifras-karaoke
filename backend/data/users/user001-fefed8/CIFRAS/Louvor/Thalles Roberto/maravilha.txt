@@ -1,0 +1,72 @@
+@titulo: maravilha
+@autor:
+@intérprete: Thalles Roberto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Thalles Roberto - Maravilha
+
+Intro: D  G  A  G  D  G  A  G
+      (F#m G  A  F#m G  A D) Segure mais um tempo nesse D ao final da Intro.
+
+     D
+Maravilha
+   D/F#     G    A  Bm
+Esse Deus é bom  de_mais
+           Em                     G
+E agora eu sei que seus caminhos são especiais
+       D
+Coisa linda
+  D/F#   G    A   Bm
+É ver o agir de  Deus
+                Em                    A
+Desenhando os caminhos em forma de milagres
+
+        G
+Como só Ele faz
+        G
+Não vigiei, caí
+         A
+Como chorei, sofri demais
+
+         Em       D/F#
+Caído eu não ficarei
+             G             A
+Vou me encontrar com meu Deus
+   G
+É nEle que seguro estou
+F#m7                    Bm
+Foi nEle que encontrei o amor
+
+    Em        G
+Meu Deus é demais
+         A
+Ele é demais
+    G
+E é nEle que seguro estou
+      F#m7              Bm
+Foi nEle que encontrei o amor
+     Em         D/F#
+Meu Deus é demais
+   G           A
+E nEle eu vou viver
+          G                 A
+Viver, viver, viver, viver
+
+Fim: G A Bm A/C# D A/C# Bm A G
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

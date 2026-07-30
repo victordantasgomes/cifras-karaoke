@@ -1,0 +1,63 @@
+@titulo: ja-deu-tudo-certo
+@autor:
+@intérprete: Padre Marcelo Rossi
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Padre Marcelo Rossi - Já Deu Tudo Certo
+
+ Int: G Am7 C9 D
+
+  G9                                                   Am7
+ não desanime não, já deu tudo certo
+                      D/F# D                   G9
+ você determinou,já deu tudo certo
+                           D   G9  G7                  C9   F C9
+ não se preocupe não.já deu tudo certo
+                                                   G9
+ você não tem que se preocupar
+                     Am7 D                         G9
+ e nem desanimar, já deu tudo certo!
+
+ G/F               C9  D/F# D                 G       D/F# Em
+ já deu tudo certo,      já deu tudo ce...e..er...rto
+                      D/F#                           C9
+ pode descansar e somente confiar
+       D             G9  G/F (G9)
+ já deu tudo certo  (2x)
+
+ G9                                                           Am7
+ sua benção já chegou, já deu tudo certo
+
+                                       D/F#    D                      G9
+ você muito a Deus buscou, pra dar tudo certo
+              D/F#               G9      G7                 C9  F  C9
+ Deus contigo caminhou, por isso deu certo
+                                                  G9
+ você não tem que se preocupar
+                     Am7  D                      G9
+ e nem desanimar,já deu tudo certo
+
+G/F               C9  D/F# D                  G        D/F# Em
+já deu tudo certo,       já deu tudo ce...e...er...rto
+                    D/F#                      C9
+pode se alegrar e a Deus louvar
+              D             G9 G/F (G9)
+que já deu tudo certo (2x)
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/F = 1 X X 0 0 3
+G7 = 3 5 3 4 3 3
+G9 = 3 X 0 2 0 X

@@ -1,0 +1,105 @@
+@titulo: logo-eu(simplificada)
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Logo Eu
+
+[Intro] F#m  A  E
+        F#m  A  E
+
+[Primeira Parte]
+
+  Eu te vi e já te quis
+A
+  Me vi tão feliz
+C#m                           A
+    Um amor que para mim era sonho
+
+E                      A
+  Surpreendente provar   do que eu só ouvi falar
+C#m       B5(9)         A
+E você resolveu me mostrar
+
+[Refrão]
+
+     F#m
+Logo eu que nem pensava
+       A               E
+Eu não   imaginava te merecer
+
+    B5(9)
+E agora sou o dono desse amor
+
+F#m                        A
+Eu nem quero saber por que
+                 E
+Eu só preciso viver
+   B5(9)                  F#m
+O resto dessa vida com você
+  A   E  B5(9)
+Eie eie
+
+[Primeira Parte]
+
+E
+  Te vi e já te quis
+A
+  Me vi tão feliz
+C#m                          A
+    Um amor que pra mim era sonho
+
+E                      A
+  Surpreendente provar   do que eu só ouvi falar
+C#m          B5(9)      A
+E você resolveu me mostrar
+
+[Refrão]
+
+     F#m
+Logo eu que nem pensava
+       A               E
+Eu não   imaginava te merecer
+    B5(9)
+E agora sou o dono desse amor
+
+F#m                      A
+Eu nem quero saber por quê
+                 E
+Eu só preciso viver
+   B5(9)                  F#m
+O resto dessa vida com você
+
+F#m
+Eu que nem pensava
+ A
+Não imaginava
+    E
+Te merecer
+    B5(9)
+E agora sou o dono desse amor
+
+F#m                      A
+Eu nem quero saber por que
+                 E
+Eu só preciso viver
+   B5(9)                F#m
+O resto dessa vida com você
+  A   E  B5(9)
+Eie eie
+
+   B5(9)           F#m
+O resto dessa vida     com você
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B5(9) = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

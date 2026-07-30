@@ -1,0 +1,151 @@
+@titulo: seu-olhar
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Seu Olhar
+
+Intro:
+
+Parte 1
+
+E|-10-10--8p7-----------------------------------------|
+B|--8--8--8-----10-8---8h10p8-------------------------|
+G|------------7------9--------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+Parte 2
+
+E|-10-10--8p7---8p7-8p7-------------------------------|
+B|--8--8--8-----8---8---------------------------------|
+G|------------7---------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+Parte 1
+
+
+E|-10-10--8p7-----------------------------------------|
+B|--8--8--8-----10-8---8h10p8-------------------------|
+G|------------7------9--------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+Parte 3
+
+E|-10-10--8p7-----------------------------------------|
+B|--8--8--8-----10h8---8------------------------------|
+G|------------7------9--------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+Primeira Parte:
+
+    G
+Os pensamentos vão te buscar
+
+Em um segundo encontrar
+C9
+   O sorriso que me encantou
+   G
+Rever o brilho dos teus olhos
+   C9
+Me ensinou o que é o amor
+
+G
+O primeiro beijo ainda está na mente
+C9
+O seu cheiro ainda está presente em mim
+   G
+Parece que foi ontem que me conheceu
+   C9
+E hoje é o meu amor
+           D
+E seu amor   sou eu
+
+Refrão:
+
+    G
+Me pede o mundo e eu dou
+                        G/B   C9
+Me pede a lua e eu não vou negar
+     G
+Não vou medir esforços
+                  G/B     C9
+Faço tudo que quiser pra te fazer feliz
+     Am7                          G/B
+Não dá mais pra negar que eu me apaixonei
+   C9                        D
+Te amo agora e pra sempre te amarei
+
+(G  C9  G  C9)
+
+Repetição Primeira Parte:
+
+G
+O primeiro beijo ainda está na mente
+C9
+O seu cheiro ainda está presente em mim
+   G
+Parece que foi ontem que me conheceu
+   F9            C/E
+E hoje é o meu amor
+           D
+E seu amor   sou eu
+
+Refrão Final:
+
+    G
+Me pede o mundo e eu dou
+                        G/B   C9
+Me pede a lua e eu não vou negar
+     G
+Não vou medir esforços
+                  G/B     C9
+Faço tudo que quiser pra te fazer feliz
+     Am7                          G/B
+Não dá mais pra negar que eu me apaixonei
+   C9                   D
+Te amo agora e pra sempre
+
+    Em7               D/F#
+Me pede o mundo e eu dou
+           G            G/B   C9
+Me pede a lua e eu não vou negar
+     G
+Não vou medir esforços
+                  G/B     C9
+Faço tudo que quiser pra te fazer feliz
+     Am7                          G/B
+Não dá mais pra negar que eu me apaixonei
+   C9                   D
+Te amo agora e pra sempre te amarei
+
+     Am7                          G/B
+Não dá mais pra negar que eu me apaixonei
+         C9             D
+Te amo agora e pra sempre te amarei
+
+(C9  G/B  Am7  C9  G/B  D) 2x
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em7 = 0 2 2 0 3 0
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

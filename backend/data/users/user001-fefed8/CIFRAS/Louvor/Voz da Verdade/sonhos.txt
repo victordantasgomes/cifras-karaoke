@@ -1,0 +1,67 @@
+@titulo: sonhos
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Sonhos
+
+Intro: F#m  Bm  F#m  Bm  G  A  D  Em  D  Em
+
+ D                 Em       D             Em
+Deus sonhe os meus sonhos, Deus cuide de mim
+ D                     Em             D   A      D
+Deus me leve em seus braços, me faz voar até o fim
+
+   F#m                Bm             F#m             Bm
+O sol brilhará muito mais amanha, o sonho se realizará
+      F#m                 Bm          G  A          D
+Pois Deus sonhou os meus sonhos e em paz eu vou chegar
+
+C             Bm             C                 Bm
+Este projeto real há de ser, pois o meu Deus é fiel
+ C             Bm            E                  A
+Sonhos em vida se tornarão, foi Deus quem prometeu
+
+D                   A   Bm              F#m
+Sonhe os sonhos de Deus pois reais eles são
+ G                    D        G  A     D
+Sonhos que tornam em vida a palavra de Deus
+
+                          A     Bm               F#m
+Sonhos que não ficam nos sonhos, essa promessa é real
+G              D              G  A      D
+A cada dia se cumpre para os filhos de Deus
+
+ E                  B   C#m             G#m
+Sonhe os sonhos de Deus pois reais eles são
+ A                    E        A  B     E
+Sonhos que tornam em vida a palavra de Deus
+                          B     C#m               G#m
+Sonhos que não ficam nos sonhos, essa promessa é real
+A              E              A  B      E
+A cada dia se cumpre para os filhos de Deus
+
+( C  A#  Am  Fm  C  D  F  G  A )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A# = X 1 3 3 3 1
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

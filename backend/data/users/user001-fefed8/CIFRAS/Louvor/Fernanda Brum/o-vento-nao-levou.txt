@@ -1,0 +1,85 @@
+@titulo: o-vento-nao-levou
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - O Vento Não Levou
+
+[Intro]  D  F#m  G  A  B  D#m  E  F#  E
+
+B
+ Te conheço como alguém que não vai desistir
+E
+ De um juramento confirmado há muito tempo atrás
+C#m                   B/D#
+ Uma tardinha em Grumari, um compromisso
+F#                                              E
+ Promessas feitas junto ao mar que o vento não levou
+
+B
+ Passam dias, passam anos, passa o tempo
+E
+ A cada dia a vida a dois se torna bem melhor
+C#m                   B/D#
+ É bem assim essa loucura, o casamento
+    F#      E/G# F#/A#
+ Sorrir, chorar  e tudo suportar
+
+B         D#m         E
+É amar, é ter um coração
+
+            F#              G#m
+Que não se rende a fracassos
+            D#m          E
+Que vence a dor e o dia mal
+         C#m        F#
+Na contramão desse mundo
+B        D#m         E
+É amar você foi pra mim
+        F#4           G#m
+Um refrigério pra alma
+         D#m        E        F#               B
+Adormecer e acordar na imensidão dos seus braços
+
+C         Em          F
+É amar, é ter um coração
+            G               Am
+Que não se rende a fracassos
+             Em          F
+Que vence a dor e o dia mal
+         Dm         G
+Na contramão desse mundo
+C        Em          F
+É amar você foi pra mim
+        G4            Am
+Um refrigério pra alma
+          Em        F         G               C
+Adormecer e acordar na imensidão dos seus braços
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D#m = X X 1 3 4 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#4 = 2 4 4 4 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4
+G4 = 3 5 5 5 3 3

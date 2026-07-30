@@ -1,0 +1,65 @@
+@titulo: grata-nova
+@autor:
+@intérprete: Harpa Cristã
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Harpa Cristã - Grata Nova
+
+Dm     Dm7M         Dm7    Dm       D7/F#      Gm Gm7M
+Grata nova Deus proclama. Hoje ao mundo peca - dor
+      Gm7  Gm6  Em7/5-    Bb7M    A7    Dm  A7/5+
+Doce nova revelada, Lá na cruz do Salvador
+Dm     Dm7M      Dm7    Dm       D7/F#      Gm Gm7
+Cego e desviado o homem dos caminhos do Senhor
+Gm7    Gm6        Em7/5-    Bb7M    A7        Dm     C/E
+Desconhece e desconfia. Deste Deus, O Deus de amor
+
+(coro)
+       F    C/E   F    F7M     F6     D/F#  Gm  Gm7M
+Grata nova, doce nova. Vem dos lábios do Senhor
+   Gm7     Gm6   C/E         F        C/E   F  A7/5+
+Escutai com Alegria: "Deus é luz, Deus é amor".
+
+Dm     Dm7M         Dm7    Dm       D7/F#      Gm Gm7M
+Com ofertas e obras mortas. Sacrificios sem valor
+  Gm7      Gm6    Em7/5-    Bb7M    A7    Dm  A7/5+
+Enganado, pensa o homem, propiciar seu Criador
+Dm     Dm7M         Dm7    Dm       D7/F#      Gm Gm7M
+Meios de salvar-se inventa; Clama, roga em seu favor.
+
+Gm7    Gm6        Em7/5-    Bb7M    A7        Dm     C/E
+A supostos mediadores, desprezando  o Deus de amor.
+
+Dm     Dm7M         Dm7    Dm       D7/F#      Gm Gm7M
+Luz divina resplandece, Mostra ao triste pecador.
+Gm7      Gm6    Em7/5-    Bb7M    A7    Dm  A7/5+
+Que na cruz estão unidos. A justiça e o amor
+Dm     Dm7M         Dm7    Dm       D7/F#      Gm Gm7M
+Fala aos coraçaoes feridos, mostra-Te Deus Salvador
+Gm7    Gm6        Em7/5-    Bb7M    A7        Dm     C/E
+E sem fim procalamaremos: "Deus é luz, Deus é Amor".
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7/5+ = X 0 X 0 2 1
+Bb7M = X 1 3 2 3 1
+C/E = 0 3 2 0 1 0
+D/F# = 2 X 0 2 3 2
+D7/F# = X X 4 5 3 5
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Dm7M = X X 0 2 2 1
+Em7/5- = X X 2 3 3 3
+F = 1 3 3 2 1 1
+F6 = 1 X 0 2 1 X
+F7M = 1 X 2 2 1 X
+Gm = 3 5 5 3 3 3
+Gm6 = 3 X 2 3 3 X
+Gm7 = 3 X 3 3 3 X
+Gm7M = 3 5 4 3 3 3

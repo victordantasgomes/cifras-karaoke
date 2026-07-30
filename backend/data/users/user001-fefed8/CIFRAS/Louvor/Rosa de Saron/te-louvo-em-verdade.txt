@@ -1,0 +1,60 @@
+@titulo: te-louvo-em-verdade
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Te Louvo Em Verdade
+
+[Intro]  E  F#m  G#m  A  E  B9  E  B9
+
+ E              F#m   G#m                  A9
+Mesmo na tempestade, mesmo que se agite o mar
+ E            B9          E    B9
+Te louvo, te louvo em verdade
+
+ E               F#m      G#m       A9
+Mesmo longe dos meus, mesmo na solidão
+ E            B9          E   E7
+Te louvo, te louvo em verdade
+
+        A9            B9    G#m           C#m
+Pois somente tenho a Ti, Tu és a minha herança
+ A9           B9          E   E7
+Te louvo, te louvo em verdade
+
+        A9            B9    G#m           C#m
+Pois somente tenho a Ti, Tu és a minha herança
+ A9           B9
+Te louvo, te louvo em verdade
+
+
+E  F#m  G#m  A  E  B9  E  B9
+
+ E                     F#m
+Mesmo que me faltem palavras
+ G#m                    A9
+Mesmo que eu não saiba louvar
+ E            F#m         E   B9
+Te louvo, te louvo em verdade
+ E                     F#m
+Mesmo que me faltem palavras
+G#m                     A9
+Ainda que eu não saiba louvar
+ E            F#m         E   E7
+Te louvo, te louvo em verdade
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

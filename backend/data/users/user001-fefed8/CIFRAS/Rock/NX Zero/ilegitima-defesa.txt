@@ -1,0 +1,37 @@
+@titulo: ilegitima-defesa
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nx Zero - Ilegítima Defesa
+
+Base|- B F# G A 2x
+
+Segunda guitarra toca junto na segunda vez da base
+
+e|--10-14-----------10-14-------------------10-14----12~17---:
+B|----------10---------------10~15------------------10-------:
+
+G|- 4x6-6-6-6-6-7-7-7-7-7-7-7-7:
+D|- 4xxxxxxxxxxxxxxxxxxxxxxxxxx
+A|- 2x4-4-4-4-4-5-5-5-5-5-5-5-5:
+
+G|-11-11-11-11-11-11-7-9-11-9-7-4-4-4-4-4-4-6-6-6-6
+D|-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+A|-9-9-9-9-9-9-9-9-9-9-5-7-9-7-5-2-2-2-2-2-2-4-4-4-4
+
+ou faça assim
+
+B|-7-7-7-7-7-7-7-3-5-7-5-0-0-0-0-2-2-2-2 
+
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

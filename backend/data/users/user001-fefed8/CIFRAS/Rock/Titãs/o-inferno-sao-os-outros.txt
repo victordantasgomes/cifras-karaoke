@@ -1,0 +1,108 @@
+@titulo: o-inferno-sao-os-outros
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - O Inferno São Os Outros
+
+Intro: F#
+
+F#
+Não quero rotina, nem disciplina,
+Não tenho hora, pra ir embora
+Não vou pro trabalho, não ganho dinheiro
+Não ando na moda, não olho no espelho
+F#m
+
+B                                 E
+Não tenho endereço, casa, nome e sobrenome
+Bm              B                           E
+Não tenho documento, carro, conta e telefone
+D                 Am              C
+Se todo mundo acha, que estou errado, eu acho que não
+Am                   C                   Em         E
+Se todo mundo acha, que estou louco, eu acho que não
+
+E              B
+O problema não é meu
+A                   F#
+O paraíso é para todos
+
+E                B
+O problema não sou eu
+A                          F#
+O inferno são os outros, o inferno são os outros
+
+SOLO:F# F#m F#
+
+F#
+Não tenho amigo, nem inimigo
+
+Não me engano mais
+
+Ninguém vive em paz
+
+Não uso relógio
+
+Não escondo a idade
+
+Não ouço conselho
+
+Nem falo a verdade
+
+B                                        E
+Não tenho endereço, casa, nome e sobrenome
+G                             A            E
+Não tenho documento, carro, conta e telefone
+A               Gm            Am                  C Am
+Se todo mundo acha, que estou errado, eu acho que não
+Am                   Em                   E
+Se todo mundo acha, que estou louco, eu acho que não
+
+E                  B
+O problema não é meu
+A                   F#
+O paraíso é para todos
+E                   B
+O problema não sou eu
+A
+O inferno são os outros, o inferno são os outros
+F#
+
+E                  B
+O problema não é meu
+A                   F#
+O paraíso é para todos
+E                   B
+O problema não sou eu
+A
+O inferno são os outros, o inferno são os outros
+
+E                  B
+O problema não é meu
+A                   F#
+O paraíso é para todos
+E                   B
+O problema não sou eu
+A
+O inferno são os outros, o inferno são os outros
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

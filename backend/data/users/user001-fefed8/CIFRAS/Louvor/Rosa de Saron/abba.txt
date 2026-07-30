@@ -1,0 +1,83 @@
+@titulo: abba
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Abba
+
+[Intro]  G  Am  C
+         G  Am  C
+         G  Am  Em
+         D  C  G
+
+G
+Maior que o amor em mim
+Em              D
+Maior que o bem-estar
+         C          G/B
+Maior que o passar
+Am
+Que o apressar
+C9
+Que o pesar
+Que a dor
+Que eu
+
+G/B C
+Abba
+G/B Am
+Abba
+
+G/B C
+Abba
+G/B Am
+Abba
+Elohim
+
+G
+Maior que o horizonte em si
+Em               D
+Maior que o inverno
+        C           G/B
+Maior que o breve
+            Am
+Que o amanhã
+       C9
+O acaso
+O impossível
+
+G/B C
+Abba
+G/B Am
+Abba
+G/B C
+Abba
+G/B Am
+Abba
+
+Em
+Ohhhhhh
+C
+Ohhhhhh
+G
+Ohhhhhh
+D
+Ohhhhhh
+
+G Am C
+G Am C
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

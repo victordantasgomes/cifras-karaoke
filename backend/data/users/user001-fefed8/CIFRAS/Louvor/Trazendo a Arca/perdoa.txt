@@ -1,0 +1,72 @@
+@titulo: perdoa
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Perdoa
+
+(intro 2x) E   A   F#m 
+
+    E              B/E
+Perdoa, quando eu disse te servir
+       A                 F#m7
+Me servindo de você, maculando teu altar
+    C#m7                        B
+E dizendo ser pra Ti, mas querendo
+              G#m7    A9       A/B
+Ter pra mim a glória
+
+   E           B/E
+Perdoa, se de mim me orgulhei
+     A
+Esquecendo quem sou eu
+      F#m7
+Desprezando quem és Tu
+         E/C#
+Eu sou o barro e sou pó
+         B
+E o tesouro que há em mim
+  G#m7    A9     B
+É teu Senhor
+
+   E          F#m7
+Perdoa, me desfaz e me refaz
+        C#m7           B
+Mas não deixe que eu perca
+             A9
+Em minhas vaidades
+
+    E             G#m
+Perdoa, ressucita-me pra Ti
+       C#m7             B          A9
+Quero estar no centro de Tua vontade
+
+       F#m7     B                   E
+Me perdoa,         me livra de mim mesmo
+
+(intro)
+
+(solo) E/C#  A9  A/F#    B
+
+(intro)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/F# = 2 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/E = X 7 9 8 7 7
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E/C# = X 4 2 1 0 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G#m = 4 6 6 4 4 4
+G#m7 = 4 X 4 4 4 X

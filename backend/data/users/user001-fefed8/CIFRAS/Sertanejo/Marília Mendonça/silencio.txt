@@ -1,0 +1,79 @@
+@titulo: silencio
+@autor:
+@intérprete: Marília Mendonça
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Marília Mendonça - Silêncio
+
+Intro: A9  C#m7  A9  B4
+
+Primeira Parte:
+
+      A9             C#m7
+Se você chorar em silêncio
+      A9
+Como vou saber
+           B4
+Que sente minha falta?
+   A9              C#m7
+Ouvi dizer que cansou de bancar o forte
+     A9                                 B4
+Sua bússola aponta pro norte do nosso amor
+
+Pré-Refrão:
+
+    A9                  B4
+Nossas promessas não me interessam
+      C#m7
+Foi a última coisa que ouvi você falar
+
+           A9          F#m7(11)/C#
+Pediu pra não te procurar
+       A9         B4
+Pra sumir da sua vida
+
+Refrão:
+
+      F#m7(11)/C#
+Tô sabendo
+                    C#m7
+Que não para de chorar
+                        E
+Que pediu pro vento soprar
+                      B4
+Meu perfume da sua cama
+
+      F#m7(11)/C#
+Tô sabendo
+                          C#m7
+Que anda ouvindo a minha voz
+                              E
+Que sentiu meu cheiro nos lençóis
+                       B4
+Abraçado no seu travesseiro
+                        F#m7(11)/C#
+A saudade apertando no peito
+    B4
+Oh oh
+
+( F#m7(11)/C#  C#m7  E  B4 )
+
+(Repete Pré-Refrão)
+
+(Repete Refrão 2x)
+
+                            E
+Por que não me pede pra voltar
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B4 = X 2 4 4 5 2
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+F#m7(11)/C# = X 4 4 2 0 0

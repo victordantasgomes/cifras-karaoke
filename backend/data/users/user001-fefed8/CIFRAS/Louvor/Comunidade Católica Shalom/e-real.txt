@@ -1,0 +1,96 @@
+@titulo: e-real
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - É Real
+
+Intro: Bm7  G9  D9  A9  (3x)  G9  %
+
+Bm7      G9       D9          A   Bm7          G9 D9 A
+Tudo parece um sonho,      o que em mim aconteceu.
+D9       A9/C#         Bm7       Bm7/A   Em7        G9 D9
+Ah! Uma porta se abriu.            Vejo Jesus afinal!
+Bm7       G9           D9        A  Bm7              G9  D9 A
+Eu era triste e cansado,      atormentado      pela dor.
+D9      A9/C#  Bm7    Bm7/A    Em7         G9     A %
+Veio Jesus e me chamou: "Filho, vem em mim morar!”
+
+Inter 1: D9  Em7  G9  A  D  Em7  G9  Em  A9
+
+Bm7      G9       D9          A   Bm7          G9 D9 A
+Tudo parece um sonho,      o que em mim aconteceu.
+D9       A9/C#         Bm7       Bm7/A   Em7        G9 D9
+Ah! Uma porta se abriu.            Vejo Jesus afinal!
+Bm7       G9           D9        A  Bm7              G9  D9 A
+Eu era triste e cansado,      atormentado      pela dor.
+D9      A9/C#  Bm7    Bm7/A    Em7         G9     Asus A#º
+Veio Jesus e me chamou: "Filho, vem em mim morar!”
+
+
+Bm7              F#m7      G9            D/A A9/C#
+Tudo parece um sonho, mas vejo que é real
+D9          A             Bm7        F#m7    G9        E/G# Asus A#º
+Sinto uma paz tão perfeita,          que eu rejeito o mal.
+
+Bm7             F#m7     G9                 D/A A9/C#
+Até parece um sonho, tamanha é minha alegria
+D9          A            Bm7       F#m7  G9         A    D9 %
+A luz que vêem meus olhos         venceu a escuridão (2x)
+
+       G9    A      D9 A9/C# Bm7 Bm7/A
+Jesus Cristo é real.
+    G9         A        Em7      Asus           D9 %
+Ele vive em mim! Venceu         todo o mal.
+       G9    A      D9 A/C# Bm7 Bm7/A
+Jesus Cristo é real.
+    G9    Asus      Em7    Asus     D9*
+Ressuscitou! Venceu      todo o mal.
+
+Inter 2:  D9*  Em7  G9  Asus  (2x)  D9  Em7  G9  Bm7  Asus  Em  Asus  A
+
+Bm7             E/B     Bm7                 D/A A9/C#
+Até parece um sonho, tamanha é minha alegria
+
+D9          A            Bm7       F#m7  G9         Asus D9 G/D A/D G/D A/D G/D D
+A luz que vêem meus olhos         venceu a escuridão (2x)
+
+Jesus cristo é real...(2x)
+
+Jesus cristo e real...(bateria/vozes)
+
+       G9   A       D9 A/C# Bm7 Bm7/A
+Jesus Cristo é real.
+    G9     A       Em7     Asus     Bm7*
+Ressuscitou! Venceu      todo o mal.
+
+Fine: Bm7*  G9  D  A  (3x)  G  D/F#  Em7  D9.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#º = X 1 2 0 2 0
+A/C# = X 4 X 2 5 5
+A/D = X X 0 6 5 5
+A9 = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+Asus = X 0 2 2 2 0
+Bm7 = X 2 4 2 3 2
+Bm7/A = 5 2 4 2 3 2
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+E/B = X 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G/D = X 5 5 4 3 X
+G9 = 3 X 0 2 0 X

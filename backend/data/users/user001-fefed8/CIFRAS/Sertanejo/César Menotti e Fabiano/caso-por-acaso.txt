@@ -1,0 +1,155 @@
+@titulo: caso-por-acaso
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Caso Por Acaso
+
+[Intro] G  C9  G  C9  G  C9  G  C9
+
+[Primeira Parte]
+
+         G            C9        G   C9
+Eu não quero mais um caso por acaso
+         G                      D  Eb°
+Eu não quero mais viver uma ilusão
+         Em          Em/D#
+Quero um amor de verdade
+   Em/D         Em/C#
+A minha cara metade
+          C
+Quero alguém pra me acordar
+         Am          D  C  D
+E me chamar de meu amor
+
+[Segunda Parte]
+
+         G           C9            G    C9
+Eu não quero uma paixão sem compromisso
+
+         G                         D  Eb°
+Eu não quero ter alguém só por prazer
+          Em                    Em/D#
+Quero alguém para estar ao meu lado
+      Em/D             Em/C#
+De aliança e papel passado
+          C
+Quero alguém pra me acordar
+         Am          D
+E me chamar de meu amor
+  C      D  G  D7
+Quero um a-mor
+
+[Refrão]
+
+          G
+Quero alguém pra me abraçar
+           D/F#     Em
+E andar comigo por aí
+            Bm          C
+Alguém pra me fazer sorrir
+                    G/B         Am  C  D
+Que faça dos seus braços meu abrigo
+          G
+Quero alguém para acabar
+            D/F#          Em
+Com este vazio que me consome
+                Bm            C
+Pra dar o meu amor, meu sobrenome
+          Am         D     G     C9
+Quero alguém pra se casar comigo
+
+( G  C9  G  C9  G  C9  G  C9 )
+
+[Segunda Parte]
+
+         G           C9            G    C9
+Eu não quero uma paixão sem compromisso
+         G                         D  Eb°
+Eu não quero ter alguém só por prazer
+          Em                    Em/D#
+Quero alguém para estar ao meu lado
+      Em/D             Em/C#
+De aliança e papel passado
+          C
+Quero alguém pra me acordar
+         Am          D
+E me chamar de meu amor
+  C      D  G  D7
+Quero um a-mor
+
+[Refrão]
+
+          G
+Quero alguém pra me abraçar
+           D/F#     Em
+E andar comigo por aí
+            Bm          C
+Alguém pra me fazer sorrir
+                    G/B         Am  C  D
+Que faça dos seus braços meu abrigo
+          G
+Quero alguém para acabar
+            D/F#          Em
+Com este vazio que me consome
+                Bm            C
+Pra dar o meu amor, meu sobrenome
+          Am         D     G     Eb
+Quero alguém pra se casar comigo
+
+          Ab
+Quero alguém pra me abraçar
+           Eb       Fm
+E andar comigo por aí
+            Cm          Db
+Alguém pra me fazer sorrir
+                    Ab          Bbm  Db  Eb
+Que faça dos seus braços meu abrigo
+          Ab
+Quero alguém para acabar
+            Eb            Fm
+Com este vazio que me consome
+                Cm            Db
+Pra dar o meu amor, meu sobrenome
+          Bbm        Eb    Ab
+Quero alguém pra se casar comigo
+
+( Cm  Db )
+
+          Bbm        Eb    Ab
+Quero alguém pra se casar comigo
+
+( Cm  Db )
+
+          Bbm        Eb
+Quero alguém pra se casar comigo
+
+[Final] Ab  Db  Ab  Db
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Am = X 0 2 2 1 0
+Bbm = X 1 3 3 2 1
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+Db = X 4 6 6 6 4
+Eb = X 6 5 3 4 3
+Eb° = X X 1 2 1 2
+Em = 0 2 2 0 0 0
+Em/C# = X 4 2 0 0 X
+Em/D = X X 0 4 5 3
+Em/D# = X X 1 0 0 0
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

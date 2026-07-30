@@ -1,0 +1,85 @@
+@titulo: fiel-e-verdadeiro
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Fiel e Verdadeiro
+
+Intro: E7SUS4  A9  G  F  E  F  E  F  E  Am  Bb9  A9  Bb9
+
+                A9                      D9
+Quando Jesus voltar aqui, morte jamais existira.
+             Bm7                D9
+A dor dara lugar, a um rio de amor,
+                     E9
+Vindo da mão do salvador.
+                A9                         D9
+A hora que ele voltar, e o céu não mais conter Jesus.
+                Bm7             D9
+Sorriso em toda parte, total amizade,
+                        E     E7SUS4
+Tudo que o homem já sonhou.
+
+Refrão:
+            A9                        D9
+Espera um pouquinho mais e lute pela sua fé.
+               Bm7
+Não olhe para trás, mas olhe para cima
+                   E            E7SUS4
+Que vem chegando à salvação.
+
+            A9                      D9
+Estrelas cairão do céu, abrindo um caminho então.
+                Bm7                                    E       E7SUS4
+Os anjos la no céu no céu cheio de luz mostrando quem é Jesus.
+                A9                       D9
+O Deus da nossa salvação, o nosso amado e Senhor
+        A9         E7             F#m    D9
+Ele é fiel vem do céu para sempre vencedor.
+        A9         E7             A9       F
+Ele é fiel vem do céu para sempre vencedor.
+
+( Bb9  Eb9  Cm7  F  F7sus4 )
+
+             Bb9                     Eb9
+Espera um pouquinho mais e lute pela sua fé.
+              Cm7
+Não olhe para trás, mas olhe para cima
+                    F       F7sus4
+Que vem chegando à salvação.
+           Bb9                       Eb9
+Estrelas cairão do céu, abrindo um caminho então.
+               Cm7                                     F     F7sus4
+Os anjos la no céu no céu cheio de luz mostrando quem é Jesus.
+                Bb9                     Eb9
+O Deus da nossa salvação, o nosso amado e Senhor
+       Bb9        F7              Gm      Eb9
+Ele é fiel vem do céu para sempre vencedor.
+       Bb9        F7
+Ele é fiel vem do céu.
+
+( Gm  Eb9  Bb9  F7  Gm  Eb9  Bb9  F7  Bb9 )
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+Am = X 0 2 2 1 0
+Bb9 = X 1 3 3 1 1
+Bm7 = X 2 4 2 3 2
+Cm7 = X 3 5 3 4 3
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+E9 = 0 2 4 1 0 0
+Eb9 = X 6 8 8 6 6
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F7 = 1 3 1 2 1 1
+F7sus4 = 1 3 1 3 1 X
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

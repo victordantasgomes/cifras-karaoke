@@ -1,0 +1,106 @@
+@titulo: se
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Se
+
+[Intro]  Bb  C#  F#  Ab  F  Eb  C#
+
+ F#9     C#              G#9
+Se eu tivesse olhos para olhar
+         F#9                      C#             G#9
+Se eu tivesse pernas que me levassem para um outro lugar
+ Ebm           F#9            C#
+Neve, leve chuva, vento, pôr-do-sol
+ Ebm                 F#      C#
+Sonho, riso, choro, compreensão
+ F#9     C#            G#9
+Se eu tivesse ouvidos para ouvir
+       F#9                    C#           G#9
+Se eu tivesse boca, talvez pudesse um dia tentar proferir
+Ebm             F#9           C#
+Algo tão leve, leve, como um leve: "Oi amor"
+  Ebm             F#9         C#   G#
+"Leve-me onde possa me encontrar"
+
+ Bbm
+Mais amor, mais perdão, mais tempo,
+
+ F#9            C#          G#9         Bbm
+Mais um algo a mais, menos Lá-Lá-Lá-Lá-Lá
+
+Mais fervor, mais cor, mais luz,
+      C#               G#9              F#9
+Mais fé, mais Deus, menos Blá-Blá-Blá-Blá-Blá
+
+Se é altar, qual lugar mais apropriado que este
+     Ebm        C#
+Pra se dizer: "Sou eu"?
+
+ F#9         C#             G#9
+Se eu não tivesse orgulho pra ferir
+       F#9
+Se eu não tivesse vaidade
+        C#     G#9
+Estivesse na idade de quem pode rir
+    Ebm         F#9          C#
+Eu diria: "Oi amor, já disse amo você?"
+       Ebm
+Se eu não coubesse em mim
+       F#9            C#   G#9
+Se eu não tivesse o que falar
+
+ Bbm
+Mais amor, mais perdão, mais tempo,
+ F#9            C#          G#9         Bbm
+Mais um algo a mais, menos Lá-Lá-Lá-Lá-Lá
+
+Mais fervor, mais cor, mais luz
+          C#                G#9             F#9
+Mais fé, mais Deus, menos Blá-Blá-Blá-Blá-Blá
+
+Se é altar, qual lugar mais apropriado que este?
+     Ebm        C#                   F#9
+Pra se dizer: "Sou eu, quem pode ser aquele que
+   C#                     F#9
+Mudou, aquilo que antes era
+   Ebm          F#9
+E hoje é muito mais
+          C#  F#9  C#
+Mais que eu
+
+ Bbm
+Mais amor, mais perdão, mais tempo,
+ F#9                C#         G#9      Bbm
+Mais um algo a mais, menos Lá-Lá-Lá-Lá-Lá
+
+Mais fervor, mais cor, mais luz
+      C#       G#9            F#9
+Mais fé, mais Deus, Blá-Blá-Blá-Blá-Blá
+
+Se é altar, qual lugar mais apropriado que este?
+     Ebm        C#
+Pra se dizer: "Sou eu"
+
+Bb  C#  F#  G#  F  Eb  C#
+Bb
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Bb = X 1 3 3 3 1
+Bbm = X 1 3 3 2 1
+C# = X 4 6 6 6 4
+Eb = X 6 5 3 4 3
+Ebm = X X 1 3 4 2
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F#9 = 2 4 6 3 2 2
+G# = 4 3 1 1 1 4
+G#9 = 4 6 8 5 4 4

@@ -1,0 +1,68 @@
+@titulo: rio-de-vida
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Rio de Vida
+
+Rio de Vida
+Asaph Borba
+
+
+Intro:  D/G  Em4 Am Cadd9 D4 G C G C
+
+ G          Cadd9 D            G9
+Jesus tu és        um rio de vida |
+ G            Cadd9     D        G
+Que corre do trono, do trono de Deus |
+ G         Cadd9    C/A    D4             G
+Jesus tu és o que era      e o que há de vir |
+ G                  Cadd9    C/A    D4         G  Cm/Eb  D
+E em ti todas as coisas          vieram a existir |
+ G         C/E    D            G9
+Jesus tu és        um rio de vida |
+ G/F            C/E      Cm/Eb    G/D
+ Que corre do trono, do trono de Deus |
+ A/C#     Cadd9           Am    D4       Am/F#  B
+Jesus tu és o que era      e o que há de vir |
+ C                 Am7   D4              G
+E em ti todas as coisas vieram   a existir |
+
+ B            Em   B/D#                  Em  Bm/D  C
+Pois tu nos amas     e o teu sangue nos libertou |
+                G            Am        D
+E nos constituíste reino e sacerdotes para Deus |2x
+
+C   D     G   G/F Em7 Cm/Eb   G
+Jesus, Jesus, Jesus,          Jesus (2x)
+Repete o louvor (a 1ª estrofe só 1x e o coro 4x)
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+Am/F# = 2 X 2 2 1 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+Bm/D = X 5 X 4 7 7
+C = X 3 2 0 1 0
+C/A = X 0 2 0 1 0
+C/E = 0 3 2 0 1 0
+Cadd9 = X 3 5 5 3 3
+Cm/Eb = X X 1 0 1 3
+D = X X 0 2 3 2
+D/G = 3 X X 2 3 2
+D4 = X X 0 2 3 3
+Em = 0 2 2 0 0 0
+Em4 = 0 0 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/D = X 5 5 4 3 X
+G/F = 1 X X 0 0 3
+G9 = 3 X 0 2 0 X

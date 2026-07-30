@@ -1,0 +1,48 @@
+@titulo: varal
+@autor:
+@intérprete: Paralamas do Sucesso
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Os Paralamas do Sucesso - Varal
+
+Intro: G A
+
+G      B7         Em
+Arame tenso sob o sol
+C             D   D#º7
+Quem vê amor ali?
+    A7                             D
+Quarando, secando, esticado sob o sol
+                      G    C
+Pronto prá molhar de amor
+
+G       B7            Em
+Arame espesso risca o céu
+c              D   D#º7
+Quem vê a dor ali?
+A7                                  D
+Rasgando, rompendo, atravessando o véu
+                  G    C
+Pra descansar da dor
+
+G
+Rebenta a bolsa, revela ao mundo a cabeça
+
+G
+Quem tiver que mereça a coroa (2X)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D#º7 = X X 1 2 1 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

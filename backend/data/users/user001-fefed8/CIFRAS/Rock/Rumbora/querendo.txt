@@ -1,0 +1,62 @@
+@titulo: querendo
+@autor:
+@intérprete: Rumbora
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rumbora - Querendo
+
+(intro)
+
+E|----------|
+B|----------|
+G|----------| (4x)
+D|----------|
+A|----------|
+E|-5-4-2-0--|  
+
+E|-----------------|
+B|-----------------|
+G|-----------------|
+D|-----------------|
+A|-----------------|
+E|-5-4-2-0-0-0-2-4-|
+
+Durante o verso, a guitarra repete esse primeiro riff apenas duas vezes, nas frases:
+"Ta um tédio isso aqui" e "Que desde então eu nunca consegui"
+enquanto o baixo fica repetindo durante todo o verso.
+
+(refrão)
+
+
+(reggae)
+E|--7--|
+B|--9--|
+G|--9--|
+D|--x--|
+A|-----|
+E|-----|
+
+(baixo)
+G|---------------|
+D|--2-2-2-----2--|
+A|--------2-2----|
+E|---------------|
+
+Depois é só repetir isso a música toda, e quando chega a parte que ele canta
+"hey som na caixa, rumbora com voces"
+
+(riff)
+E|----------------------------------------------|
+B|----------------------------------------------|
+G|--4/6-6-6-6-6-6-6-6-6-6/4-4-4-4-4-4-4-4-4-4---|
+D|--4/6-6-6-6-6-6-6-6-6-6/4-4-4-4-4-4-4-4-4-4---|
+A|--2/4-4-4-4-4-4-4-4-4-4/2-2-2-2-2-2-2-2-2-2---|
+E|----------------------------------------------|
+
+----------------- Acordes -----------------

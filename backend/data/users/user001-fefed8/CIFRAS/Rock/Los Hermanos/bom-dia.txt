@@ -1,0 +1,64 @@
+@titulo: bom-dia
+@autor:
+@intérprete: Los Hermanos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Los Hermanos - Bom Dia
+
+(o acorde F pode ser substituído por Bbm7+ )
+(baixar a afinação 1/2 tom)
+
+C#    C#7+  F#
+bom dia,
+                      F#m           C#         C#7+   F#
+olha as flores que eu trouxe pra você,amor..
+               F#m        Bbm
+são pra comemorar aquele dia
+       F       F#          F#m
+que passei a viver do teu lado
+      Bbm            F
+eu me lembro,entre nós
+      F#         F#m
+não havia quase nada
+
+                C#        Ab      F#
+e agora é só você que me faz cantar...
+       C#         Ab      F#
+é só você que me faz cantar...  (2x)
+
+
+  C#    C#7+  F#
+havia,
+                   F#m          C#            C#7+  F#
+mil motivos pra eu não estar naquele show..
+               F#m         Bbm
+mas o nosso destino foi escrito
+      F          F#         F#m
+sob o som de uma banda qualquer
+      Bbm             F
+eu me lembro.. em setembro
+     F#          F#m
+conheci minha mulher
+
+               C#         Ab      F#
+e agora é só você que me faz cantar..
+       C#         Ab      F#
+é só você que me faz cantar..
+       C#         Ab      F#
+é só você que me faz cantar..  (2x)
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Bbm = X 1 3 3 2 1
+Bbm7+ = X 1 3 2 2 1
+C# = X 4 6 6 6 4
+C#7+ = X 4 6 5 6 4
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,81 @@
+@titulo: a-bencao-de-jose
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - A Benção de José
+
+[Intro] A/C#  D11  F#m7  A  E
+
+     F#m7               E
+Que o todo poderoso, a rocha de Israel
+    Bm7                   D11
+Derrame suas bençãos sobre a tua cabeça
+
+       F#m
+Que as bênçãos das alturas,
+    E
+As bênçãos das profundezas
+        Bm7                D11
+Bênçãos da fertilidade, e a benção da fartura
+
+A/C#  E  D11   F#m7 A   E
+Que o Senhor  te  a  bençoe
+A/C#  E  D11   F#m7 A   E
+Que o Senhor  te  a  bençoe
+                  Bm7
+Seja cheio de sua glória
+                  D
+Seja cheio de sua vida
+
+A/C#  E   D      F#m7 A  E
+Que o senhor  te  a   bençoe
+A/C#  E  D       F#m7 A  E
+Que o senhor  te  a   bençoe
+                    Bm7
+Seja a força do seu braço
+                   D   E
+Seja aquele que te guia
+
+[Solo] A/C#  E  D  F#M7  A  E
+       A/C#  E  D  F#M7  A  G  Em  D
+
+Bm A/C#  E  D      F#m7 A   E
+      Que o Senhor  te  a  bençoe
+A/C#  E  D      F#m7 A   E
+Que o Senhor  te  a  bençoe
+                  Bm7
+Seja cheio de sua glória
+                  D11
+Seja cheio de sua vida
+
+A/C#     E   D F#m7 A  E
+Que o Senhor  te  a   bençoe
+A/C#  E  D       F#m7 A  E
+Que o Senhor  te  a   bençoe
+                    Bm7
+Seja a força do seu braço
+                   D   E
+Seja aquele que te guia
+
+[Final] D  F#m  A  E
+        D  F#m  A  E  D
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D11 = X 5 4 0 3 5
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

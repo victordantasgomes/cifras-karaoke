@@ -1,0 +1,91 @@
+@titulo: tu-es-a-minha-coroa
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Tu És a Minha Coroa
+
+TU ÉS A MINHA COROA
+
+INTRO: [frase]   G     F#     D     ::     Em7     D/F#   :     G     :      Bm7     A   :     G2     Asus    :
+                                                       :     Bm7      A/C#   :     G     :      Em7           :     Asus     A     ::
+
+
+D                                         Dsus   D
+QUERO SEGUIR TEUS PASSOS
+G                                             Asus     A
+QUERO LEVAR A MINHA CRUZ
+G                                 D/F#        Em7                               Bm7                     Asus      A   D/F#  G  A
+QUERO DEIXAR A MINHA GLÓRIA E O MEU LOUVOR AOS TEUS PÉS
+    Em7                       D/F#   G                   Bm7                A       G
+O BRILHO DESTE MUNDO TODA A GLÓRIA QUE ELE TEM
+       Em7                          G2/B                        D2
+AS TENTAÇÕES DAS TREVAS SÃO SÓ ILUSÃO
+Em7                                     D/F#   G                 Bm7          A         G
+TODO O LOUVOR DOS HOMENS COMO NÉVOA PASSARÁ
+             Em7                           G                   Bm7                   Asus        A     D/F#
+MAS ETERNAMENTE EM TI A MINHA VIDA OCULTA ESTÁ
+
+
+Coro:   :  G   GM7   Em7   [stop]  :
+
+
+D                                   D/F#
+TU ÉS A MINHA COROA
+Bm7                            D/F#
+TU ÉS A MINHA HERANÇA
+D/A         D/F#                 G
+TU ÉS A MINHA PORÇÃO
+Gsus   G          G                          G/B      D*              Estrofe:  :   Em7   D/F#     :    G2      Asus   :
+JESUS, SENHOR DO MEU CORAÇÃO            Coro:       :   D*       G/D     :    C2    G/B   G :
+
+
+Ponte: :    D/F#*     :     G2     :       G2/F     :      C/E      A/C#  :
+
+
+[violão + pad + chimbal]
+
+Bm7                                                Em7
+POIS NÃO HÁ OUTRO COMO TU
+                                               Bm7
+NENHUM OUTRO COMO TU
+                                     [bumbo]  Em7
+POIS NÃO HÁ LINDO COMO TU
+G                             [todos]   D
+NENHUM LINDO COMO TU
+D/F#                                               Em7
+POIS NÃO HÁ SANTO COMO TU
+G                                           Bm7     A/C#
+NENHUM SANTO COMO TU
+D                        D/F#                    Em7
+POIS NÃO HÁ DIGNO COMO TU
+G                                            Bm7       A/C#
+NENHUM DIGNO COMO TU
+
+Fim:  [frase]   G     F#     D   :   Em7     D/F#      G    :    D    ::
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Asus = X 0 2 2 2 0
+Bm7 = X 2 4 2 3 2
+C/E = 0 3 2 0 1 0
+C2 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D2 = X X 0 2 3 0
+Dsus = X X 0 2 3 2
+Em7 = 0 2 2 0 3 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G2 = 3 X 0 2 0 X
+Gsus = 3 2 0 0 0 3

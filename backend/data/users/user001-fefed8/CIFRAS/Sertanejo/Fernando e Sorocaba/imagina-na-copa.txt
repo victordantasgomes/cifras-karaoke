@@ -1,0 +1,59 @@
+@titulo: imagina-na-copa
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - Imagina Na Copa
+
+Intro: B F# G#m E [2x]
+
+    B     F#           G#m
+Se hoje a mulherada já topa
+E              B     F#            G#m      E
+    Imagina na copa,    imagina na copa
+   B      F#            G#m
+Se hoje a mulherada já gosta
+E              B     F#            G#m      E
+    Imagina na copa,    imagina na copa
+
+
+B              F#               G#m
+   Aeroporto lotado, trânsito parado
+              E               B     F#            G#m    E
+o caos ta implatado, ai ai ai,          ai ai ai
+B                   F#                     G#m
+   É gente pra todo lado, os hotéis tão bombado
+           E              B       F#            G#m    E
+Metro tá socado, ai ai ai,             ai ai ai
+
+
+B                      F#
+   E nosso inglês tá bonito, tá bacana
+G#m                 E
+   Tô fluente igual o Joel Santana
+B                     F#
+   Eu vou sempre empurrando com a barriga
+G#m                    E
+   Vou fazer um intensivão só pra pegar as gringas
+
+B                F#
+   E as casas de entreterimento
+G#m                   E
+   Tão bombando no maior movimento
+B                 F#
+   O povão tá rasgando muita grana
+G#m            E                B    F#7
+   É cincão na água e deizão na brahma
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2
+G#m = 4 6 6 4 4 4

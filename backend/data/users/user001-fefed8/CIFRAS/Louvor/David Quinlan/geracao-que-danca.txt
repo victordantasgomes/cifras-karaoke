@@ -1,0 +1,85 @@
+@titulo: geracao-que-danca
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Geração Que Dança
+
+[Intro]  D  D  C  G
+         D  D  C  G
+
+[Intro]
+
+E|-------------------------------------------------|
+B|-------------------------------------------------|
+G|-------------------------------------------------|
+D|---------------------3~--------------------------|
+A|-5-3-5--5-3-5--5-3-5-----------------------------|
+E|-------------------------7-5-7--7-5-7--7-5-7--1~-|
+
+E|-------------------------------------------------|
+B|-------------------------------------------------|
+G|-------------------------------------------------|
+D|---------------------3~--------------------------|
+A|-5-3-5--5-3-5--5-3-5-----------------------------|
+E|-------------------------7-5-7--7-5-7--7-5-7--1~-|
+
+   D
+A Tua graça nos faz dançar
+
+     Bm
+Com toda a força celebrar
+      G                      D
+Dançaremos gratos por teu amor
+
+[Riff]
+E|-----------------------------------|
+B|-----------------------------------|
+G|-------------------7---------------|
+D|-------------------7---------------|
+A|-0-2-3--3-2-0------5---------------|
+E|--------------1~-------------------|
+
+   D
+A Tua glória nos faz cantar
+     Bm
+Por toda terra  te exaltar
+      G                   D
+Cantaremos glórias a ti, Senhor
+
+      Em
+É o transbordar
+         D/F#
+Por nos perdoar
+        G
+Por te conhecer
+       A4           A
+Não podemos nos calar
+
+   D
+E seremos a geração que dança
+     Em                           G
+Por causa da tua misericórdia, ó Deus
+                     D  [Riff]
+Tua misericórdia, ó Deus
+     D
+E seremos a geração que canta
+    Em                         G
+E que celebra a Tua glória, ó Deus
+                 D
+A Tua glória, ó Deus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

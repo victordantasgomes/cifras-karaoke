@@ -1,0 +1,30 @@
+@titulo: santo-sertanejo
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Santo Sertanejo
+
+Int: A7 D G D A7 D G D A7 D
+
+A7                          D                       A7
+Santo, Santo é o Senhor, Senhor Deus do Universo
+                                          D
+Céus e Terras proclamam Sua Glória para Sempre
+          D                 G
+Hosana Hosana Hosana nas alturas
+              D      A7         D       G
+Bendito o que vem Em nome do Senhor!
+               D     A7        D
+Bendito o que vem Em nome do Senhor!
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3

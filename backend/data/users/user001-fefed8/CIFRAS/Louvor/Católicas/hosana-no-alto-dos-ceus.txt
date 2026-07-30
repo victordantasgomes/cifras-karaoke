@@ -1,0 +1,35 @@
+@titulo: hosana-no-alto-dos-ceus
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Hosana No Alto Dos Céus
+
+ G        Em      Bm  C                 D
+Santo, Santo, Santo / É o Senhor Deus do Universo.
+ C     D7     C   Em           A7       D7
+Os Céus e terra / Resplandecem da tua glória.
+
+ G   D  G    D      C             D
+Hosana, Hosana / Hosana no Alto dos Céus  (2x)
+
+ G           Em     C           D         D7
+Bendito e aquele que vem / em nome do Senhor
+
+ G   D  G    D      C             D
+Hosana, Hosana / Hosana no Alto dos Céus  (2x)
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

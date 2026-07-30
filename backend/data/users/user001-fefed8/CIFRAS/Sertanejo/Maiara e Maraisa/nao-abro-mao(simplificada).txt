@@ -1,0 +1,135 @@
+@titulo: nao-abro-mao(simplificada)
+@autor:
+@intérprete: Maiara e Maraisa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Maiara e Maraisa - Não Abro Mão
+
+[Intro] A  C#m7
+
+[Primeira Parte]
+
+A                            B
+ Você já conhece todos os defeitos dela
+E                                    C#m7
+ Foi por isso que você largou pra ficar comigo
+A                                     B
+ Tá mais que provado que não vai dar certo com ela
+C#m                                  C#
+   Outra vez você vai sair no prejuízo
+
+[Pré-Refrão]
+
+    A
+Mas eu te entendo bem
+      B
+Sei que você tem medo
+   G#m7
+De apostar no novo
+
+       C#m7
+E assumir nosso desejo
+
+     A
+Não posso interferir
+    B
+Na sua decisão
+        F#
+Mas de nós dois
+       A     B
+Eu não abro mão
+
+[Refrão]
+
+               A     B
+Quer ficar com ela, fica
+             G#m7
+Mas fique sabendo
+                                      Bm7
+Que eu vou ser seu caso pro resto da vida
+
+               A     B
+Quer ficar com ela, fica
+             G#m7
+Mas fique sabendo
+                                      C#m7
+Que eu vou ser seu caso pro resto da vida
+
+               A     B
+Quer ficar com ela, fica
+             G#m7
+Mas fique sabendo
+                                      C#m7
+Que eu vou ser seu caso pro resto da vida
+
+( A  F#m  A  B  C#m )
+
+[Pré-Refrão]
+
+    A
+Mas eu te entendo bem
+      B
+Sei que você tem medo
+   G#m7
+De apostar no novo
+       C#m7
+E assumir nosso desejo
+
+     A
+Não posso interferir
+    B
+Na sua decisão
+        F#
+Mas de nós dois
+       A     B
+Eu não abro mão
+
+[Refrão]
+
+               A     B
+Quer ficar com ela, fica
+             G#m7
+Mas fique sabendo
+                                      C#m7
+Que eu vou ser seu caso pro resto da vida
+
+               A     B
+Quer ficar com ela, fica
+             G#m7
+Mas fique sabendo
+                                      C#m7
+Que eu vou ser seu caso pro resto da vida
+
+               A     B
+Quer ficar com ela, fica
+             G#m7
+Mas fique sabendo
+                                      Bm7
+Que eu vou ser seu caso pro resto da vida
+
+               A     B
+Quer ficar com ela, fica
+             G#m7
+Mas fique sabendo
+                                      C#m7
+Que eu vou ser seu caso pro resto da vida
+
+[Final] A  B  C#m7
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm7 = X 2 4 2 3 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G#m7 = 4 X 4 4 4 X

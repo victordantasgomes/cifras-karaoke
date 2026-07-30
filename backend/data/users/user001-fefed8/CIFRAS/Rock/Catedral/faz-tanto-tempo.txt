@@ -1,0 +1,83 @@
+@titulo: faz-tanto-tempo
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Faz Tanto Tempo
+
+(intro) D Bm G A
+
+            D
+Faz tanto tempo mas não esqueci
+        Bm
+O seu carinho tão grande por mim
+               G                Em
+Eu sei que um dia eu quis te esquecer
+            A
+Outros caminhos eu quis percorer
+
+          D
+A gente pensa que vai ser feliz
+          Bm
+Que para tudo há uma solução
+        G                Em
+Mas solução não existe sem ti
+          A
+Preenche agora o meu coração
+
+(refrão)
+
+D    F#m         G
+Por Amor, Teu amor
+    A             Bm
+Modificou o meu viver
+     F#m          G
+O meu ser, Teu poder
+       A
+Iluminou o meu olhar
+ D     F#m
+Céu e mar, Teu querer
+G          A
+É tanto bem querer para mim
+Bm                     G          D     G
+Eu sei que não mereço mais Tu és amor,
+Bm                     G          D     G     A
+Eu sei que não mereço mas Tu és amor. Amor.
+
+E    G#m
+Por Amor, Teu amor
+A    B
+Modificou o meu viver
+C#m    G#m
+O meu ser, Teu poder
+A       B
+Iluminou o meu olhar
+ E     G#m
+Céu e mar, Teu querer
+A          B
+É tanto bem querer para mim
+C#m                    A          E     A
+Eu sei que não mereço mais Tu és amor,
+C#m      B              A          E     A     B
+Eu sei que não mereço mas Tu és amor. Amor.
+
+(final) E   C#m   A   B (x2)
+       (E   C#m   A   B   E)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,121 @@
+@titulo: ao-meu-lado-outra-vez
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Ao Meu Lado Outra Vez
+
+Introdução: A C#m/G# F#m A/E D F#m/C# Bm Bm/A E E/D
+            C#m E/B A D E D/F# E/G#
+
+Solo da introdução:
+
+E|-----------------------------14--16-17-----------|
+B|--14--14-12-10-9-10-12-14-10-----------15-14-15--|
+G|-------------------------------------------------|
+D|-------------------------------------------------|
+A|-------------------------------------------------|
+E|-------------------------------------------------|
+
+E|------16--17-19----------------------------------|
+B|---12-----------17p15h17-17-15-14-15-15-14-12----|
+G|-------------------------------------------------|
+D|-------------------------------------------------|
+A|-------------------------------------------------|
+E|-------------------------------------------------|
+
+E|-------------------------------------------------|
+B|--10-10-12-14-15-12-10-12-14-15-14-15-12-14------|
+G|-------------------------------------------------|
+D|-------------------------------------------------|
+A|-------------------------------------------------|
+E|-------------------------------------------------|
+
+
+A  C#m/G#       F#m A/E
+ Caminhos tem o céu
+D   F#m/C#       Bm  Bm/A
+ Mistérios tem o mar
+E    E/D          C#m E/B
+ E a sombra do desejo
+A       C#m/G#    F#m A/E
+ Que me vem assediar
+D F#m/C#        Bm    Bm/A
+  Flores que se mexem
+E      E/D        C#m E/B
+ Com o vento noturnal
+A    C#m/G#       F#m   A/E
+ Exalando seus perfumes
+D        F#m/C#     Bm
+ Num prelúdio sem final
+E          A  E/G# F#m       A/E
+Entre meus sonhos... te vejo
+D       F#m/C#      Bm Bm/A
+ Ao meu lado outra vez
+E/G#      E/D         C#m
+ Com teu rosto tão sereno
+Bm    A    D        A  E
+ Me amando, sem talvez...
+
+Introdução e vocalização sobre a introdução
+
+A  C#m/G#         F#m   A/E
+ Estrelas que se apagam
+D F#m/C#       Bm  Bm/A
+ Amores que se vão
+E     E/D          C#m   E/B
+ Pensamentos que divagam
+A       C#m/G#        F#m  A/E
+ Sempre com o mesmo refrão
+D  F#m/C#         Bm  Bm/A
+ Soando em meus ouvidos
+E       E/D          C#m  E/B
+ Com a força da obsesseção
+A      C#m/G#       F#m   A/E
+ E chorando como um órgão
+D  F#m/C#     Bm
+ Está meu coração
+
+E          A  E/G# F#m       A/E
+Entre meus sonhos... te vejo
+D       F#m/C#      Bm Bm/A
+ Ao meu lado outra vez
+E/G#      E/D         C#m
+ Com teu rosto tão sereno
+Bm    A    D        A  E
+ Me amando, sem talvez...
+
+Introdução e vocalização sobre a introdução
+
+Bm    E        A  E/G# F#m       A/E
+En....tre meus sonhos... te vejo
+D       F#m/C#      Bm Bm/A
+ Ao meu lado outra vez
+E/G#      E/D         C#m
+ Com teu rosto tão sereno
+Bm    A    D        A  E
+ Me amando, sem talvez...
+
+Introdução e vocalização sobre a introdução
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/E = 0 X 2 2 2 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+C#m = X 4 6 6 5 4
+C#m/G# = X X 6 6 5 4
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+F#m/C# = X 4 4 2 2 2

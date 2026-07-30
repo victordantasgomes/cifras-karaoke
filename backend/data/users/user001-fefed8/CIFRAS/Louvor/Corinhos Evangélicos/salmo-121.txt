@@ -1,0 +1,27 @@
+@titulo: salmo-121
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Salmo 121
+
+   G         C              G      C  D
+Elevo meus olhos para os montes
+G        C            D
+De onde virá o meu socorro    2x
+
+         C              G
+O meu socorro vem do senhor
+         C              D
+Minha alegria vem do senhor    2X
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3

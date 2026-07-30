@@ -1,0 +1,84 @@
+@titulo: Cheia de charme
+@autor: Guilherme Arantes
+@intérprete: Guilherme Arantes
+@tom: D
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita: sim
+@bpm:
+@bateria:
+@guitarra:
+@baixo:
+@teclado:
+@modoexecucao: rolagem
+@tempoexecucao:
+
+Tom: D
+[Intro] G  A  Bm 
+        G  A  Bm
+
+D              F#m         Bm
+Quando a vi, logo ali tão perto
+ Em          A           D4            G
+Tão ao meu alcance, tão distante, tão real
+            Em  F#7  Bm  F#m  G  A
+Tão bom perfume, sei lá
+ D       F#m           Bm
+Investi tudo naquele olhar
+ Em        A        D4       G
+Tantas palavras num breve sussurar
+ Em                  A          D  F#m  G
+Paixão assim não acontece todo dia
+                D  F#m  G                D  F#m  G
+Cheia de charme,      um desejo enorme
+      Bm     G
+De se aventurar
+                D  F#m  G                D  F#m  G
+Cheia de charme,       um desejo enorme
+       Bm   G      D 
+De revolucionar   ooo
+D         F#m           Bm
+Me perdi entre os seus cabelos
+Em        A               D4        G
+Pela sua pele, nos seus lábios tão macios
+            Em  F#7  Bm  F#m  G  A
+Tão bom perfume, sei lá
+D       F#m           Bm
+Investi tudo naquele olhar
+ Em        A        D4       G
+Tantas palavras num breve sussurar
+ Em                  A          D  F#m  G
+Paixão assim não acontece todo dia      
+              D  F#m  G               D  F#m  G
+Cheia de charme,       um desejo enorme
+          Bm  G
+De se aventurar
+              D  F#m  G               D  F#m  G
+Cheia de charme,      um desejo enorme
+             Bm  G 
+De revolucionar....ooo
+
+[Solo] G  A  Bm 
+       G  A  Bm
+       D  D Bm Bm G D A G
+
+Em                  A           D  F#m  G
+Paixão assim não acontece todo dia
+             D  F#m  G                D  F#m  G
+Cheia de charme,      um desejo enorme
+           Bm  G
+De se aventurar
+             D  F#m  G                D  F#m  G
+Cheia de charme,      um desejo enorme
+          Bm  G 
+De revolucionar
+             D  F#m  G                D  F#m  G
+Cheia de charme,      um desejo enorme
+          Bm  G
+De se aventurar uou
+
+[Solo] D  F#m  G  D 
+       F#m  G  Bm  G

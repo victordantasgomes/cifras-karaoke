@@ -1,0 +1,43 @@
+@titulo: cidade
+@autor:
+@intérprete: Rionegro e Solimões
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rionegro e Solimões - Cidade
+
+(intro) G C G D7 G
+
+G       D7            Am         G
+Esta cidade, nao é cidade, sem voce.
+        D7               Am             G
+Nesta cidade, tudo é saudade, a me envolver,
+ D7          C           G
+Pois todo lugar lembra voce.
+    D7      C             G
+Na rua, no bar so sei te ver,
+ C             G   D7         C              G
+No agito da praça sem voce comigo nao tem graça.
+
+G      D7            Am         G
+Esta cidade, nao é cidade sem voce,
+        D7              Am              G
+Nesta cidade, tudo é saudade, a me envolver,
+ D7          C           G
+pois todo lugar lembra voce.
+
+D7      C             G
+Na rua, no bar so sei te ver,
+ C             G   D7         C              G
+No agito da praça sem voce comigo nao tem graça.(bis)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3

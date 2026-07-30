@@ -1,0 +1,109 @@
+@titulo: a-geracao-da-luz
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - A Geração da Luz
+
+[Intro] G  G#  A  A#  B  E7
+
+[Riff]
+
+E|--------12-10-----10-12-----10-12-----10-12-12-12--------|
+B|---9-12--------12--------12--------12--------------------|
+G|-9-------------------------------------------------------|
+D|---------------------------------------------------------|
+A|---------------------------------------------------------|
+E|---------------------------------------------------------|
+
+    A          G                 A
+Eu já ultrapassei a barreira do som
+           G                     A
+Fiz o que pude às vezes fora do tom
+        B7                       E7
+Mas a semente que eu ajudei a plantar já nasceu
+    A
+Eu vou
+            G                   A
+Eu vou m'embora apostando em vocês
+
+          G                      A
+Meu testamento deixou minha lucidez
+           B7                 E7
+Vocês vão ver um mundo bem melhor que o meu
+F#m                   E7
+Quando algum profeta vier lhe contar
+F#m                        E7
+Que o nosso sol tá prestes a se apagar
+ D                        A
+Mesmo que pareça que não há mais lugar
+   B7
+Vocês ainda têm
+Vocês ainda têm
+                 E7           A    F#7
+A velocidade da luz pra alcançar
+   B7
+Vocês ainda têm
+Vocês ainda têm
+                 E7           A
+A velocidade da luz pra alcançar
+
+Então vai lá!
+
+[Solo] G  A  G  A
+       G  A  G  A
+       B  D  C#  B  A
+       B  C#  D  B
+
+  A               G                     A
+Além, depois dos velhos preconceitos morais
+         A                     G
+Dos calabouços, bruxas e temporais
+           B7                      E7
+Onde o passado transcendeu a um reinado de paz
+   A            G                 A
+Vocês serão o oposto dessa estupidez
+       G                  A
+Aventurando tentar outra vez
+      B7                  E7
+A geração da luz é a esperança no ar
+F#m                   E7
+Quando algum profeta vier lhe contar
+F#m                        E7
+Que o nosso sol tá prestes a se apagar
+ D                        A
+Mesmo que pareça que não há mais lugar
+   B7
+Vocês ainda têm
+Vocês ainda têm
+                 E7           A    F#7
+A velocidade da luz pra alcançar
+   B7
+Vocês ainda têm
+Vocês ainda têm
+                 E7           A    F#7
+A velocidade da luz pra alcançar
+   B7
+Vocês ainda têm
+Vocês ainda têm
+                 E7
+A velocidade da luz pra alcançar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A# = X 1 3 3 3 1
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+E7 = 0 2 2 1 3 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

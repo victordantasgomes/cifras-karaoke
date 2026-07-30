@@ -1,0 +1,86 @@
+@titulo: aos-teus-pes
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Aos Teus Pés
+
+Aos Teus Pés – Fernanda Brum
+INTRO: F, C/E, Dm, C/E, F, G
+
+                 F   G/B               C9 C/E
+Somente por Tua graça eu me achego a Ti
+                 F     G/B          C9
+E clamo por Teu sangue: "Purifica-me"
+  G/B     Am7         F            C9
+Estou humilhado, meu rosto toca o chão
+ G/B   Am7      Em      G4 G
+Meu Senhor, responda-me
+
+                 F    G/B             C9  C/E
+Te trago minhas vestes, preciso me lavar
+                    F   G/B              C9
+Te mostro minhas feridas, Tu podes me curar
+   G/B         Am7      F           C9
+A dor do meu pecado consome meu coração
+G/B  Am7      Em7     G4 G
+Me enxuga as lágrimas
+
+
+                  Am7                    Em7
+Me lanço aos Teus pés, me prostro ante a Ti
+                   F     G/B     C9
+Eu sei que tens o bálsamo, Senhor
+                Am7
+Tua cura, Teu favor
+                Em7
+Tua graça, Teu perdão
+               F    G       C9
+Teu sangue derramado sobre mim
+    Dm7          C/E          F
+Purifica-me, restaura-me, Senhor
+             G                C9 (2° vez Segurar no G > Solo)
+Eu quero voltar ao primeiro amor
+
+                  Am7                    G/B
+Me lanço aos Teus pés, me prostro ante a Ti
+                   F     G     (C B G E F G A A (Melódica))
+Eu sei que tens o bálsamo, Senhor
+                Am7
+Tua cura, Teu favor
+                Em7
+Tua graça, Teu perdão
+               F    G       C9
+Teu sangue derramado sobre mim
+    Dm7          C/E          F
+Purifica-me, restaura-me, Senhor
+             G                G9
+Eu quero voltar ao primeiro amor
+
+
+Solo: Am7, F, C9, F, G | Am7, F, C9, G4, G
+Fim: F, C/E, Dm, C/E, F, G4, G, C9
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G4 = 3 5 5 5 3 3
+G9 = 3 X 0 2 0 X

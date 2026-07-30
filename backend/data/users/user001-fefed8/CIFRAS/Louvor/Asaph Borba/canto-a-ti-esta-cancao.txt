@@ -1,0 +1,42 @@
+@titulo: canto-a-ti-esta-cancao
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Canto a Tí Esta Canção
+
+   Dm        C         Dm
+Aleluia, Aleluia, Aleluia
+                            C
+Canto a Ti Senhor esta canção
+   Dm        C         Dm
+Aleluia, Aleluia, Aleluia
+             C              Dm
+Canto a Ti Senhor com meu coração
+
+     Dm
+Porque me deste vida
+                C
+Quando havia morte em mim
+         Gm
+Me deste alegria
+               Dm
+Quando havia pranto em mim
+                  A7   Dm
+Por isso o meu cantar
+                  A7   Dm
+Por isso o meu louvor
+                              A7
+Por isso é que te dou o meu amor
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Gm = 3 5 5 3 3 3

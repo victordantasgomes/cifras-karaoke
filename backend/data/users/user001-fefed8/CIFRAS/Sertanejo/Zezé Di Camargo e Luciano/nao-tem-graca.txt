@@ -1,0 +1,50 @@
+@titulo: nao-tem-graca
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Não Tem Graça
+
+[Intro] G  C  D
+        G  C  D
+        G  C  D
+
+       G       C              D
+Você vive dentro de mim todo tempo
+      G                 C              D
+Na luz dos meus olhos, corpo, alma e sentimento
+       G       C              D
+Eu sou livre, você é minha liberdade
+   G               C                  D
+Prisioneiro solto que só faz suas vontades
+    Em      Bm     C           G    G  D/F#  Em
+Sou você, metade, sou metade sem você
+      Em   Bm        C    G/B  Am  Am/G  D
+Solidão à tarde e paixão no amanhecer
+
+        G          C                D
+Eu amo você e a fome de amor não passa
+        G          C                    D
+Prazer por prazer, nenhuma paixão me arrasta
+
+        G        C                    D
+Começo a viver depois que você me abraça
+C   D  C     D              G
+E fazer sem você não tem graça
+
+----------------- Acordes -----------------
+Am*  = X 0 2 2 1 0 - (*Gm na forma de Am)
+Am/G*  = 3 X 2 2 1 X - (*Gm/F na forma de Am/G)
+Bm*  = X 2 4 4 3 2 - (*Am na forma de Bm)
+C*  = X 3 2 0 1 0 - (*A# na forma de C)
+D*  = X X 0 2 3 2 - (*C na forma de D)
+D/F#*  = 2 X 0 2 3 2 - (*C/E na forma de D/F#)
+Em*  = 0 2 2 0 0 0 - (*Dm na forma de Em)
+G*  = 3 2 0 0 0 3 - (*F na forma de G)
+G/B*  = X 2 0 0 3 3 - (*F/A na forma de G/B)

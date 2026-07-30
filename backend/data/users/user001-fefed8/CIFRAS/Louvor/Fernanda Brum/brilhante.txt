@@ -1,0 +1,66 @@
+@titulo: brilhante
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Brilhante
+
+ Intro: Am Em F C
+
+C                                       Em      Am
+Existe um brilho que eu não posso ver
+            F              Dm                      G
+Mas está em mim para que o mundo possa crer
+
+C                                    Em            Am
+Que existe um Deus que mudou meu ser
+            F               Dm            G
+Que dá paz e o caminho para quem o receber
+             Am             Am/G#          Am/G     Am/F#
+Ninguém crê na força da persuasão
+          F             Dm             G                  G#m
+Na sabedoria humana não está a solução
+          Am             Am/G#             Am/G      Am/F#
+Eles querem ver o brilho em meu viver
+
+         F                    Dm
+Para crer que existe luz
+             G                            F G
+Querem ver em mim Jesus
+
+
+     C  Em   Dm            G
+Brilhante será o meu viver
+    C               Em                Dm                   G
+É o mais puro brilho que os homens querem ver
+     C  Em  Dm             G
+Brilhante será o meu viver
+   C                   Em             Dm                   G
+É o mais puro brilho que os homens querem ver
+
+      Am                                 Em
+Quando o poder de Deus transforma o coração
+         F                        C/E
+Faz surgir um novo brilho
+           Dm             G                 C
+Faz o mundo acreditar na salvação
+C Em Dm G
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/F# = 2 X 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Am/G# = X X 6 5 5 5
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

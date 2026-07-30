@@ -1,0 +1,42 @@
+@titulo: aleluia
+@autor:
+@intérprete: Thalles Roberto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Thalles Roberto - Aleluia
+
+         A   A5(9)
+TU és maior,
+        E4(7/9)                         Dm7
+Que a capacidade que eu tenho de TE entender,
+   E4(7/9)                    A
+Eu sou tão limitado pra explicar
+               E4(7/9)
+Então eu canto aleluia.
+          A
+TU és melhor,
+      E4(7/9)                 A
+Que a alegria e a felicidade juntas,
+E4(7/9)
+TU éS melhor que bençãos,
+                        Dm7
+ÉS melhor que ser,e que ter, és melhor
+E4(7/9)                        A   A5(9)
+Por isso eu largo tudo pra servir,
+              E4(7/9)
+Servir cantando aleluia.
+  A    Bm7       A    Bm7        A     Bm7       A     E4(7/9)
+A|-le-lu-ia,    a-le-lu-ia,     a-le-lu-ia,     a-le-lu-ia.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5(9) = X 0 2 2 0 0
+Bm7 = X 2 4 2 3 2
+Dm7 = X 5 7 5 6 5
+E4(7/9) = X X 2 2 3 2

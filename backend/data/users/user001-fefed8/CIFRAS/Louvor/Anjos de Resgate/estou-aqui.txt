@@ -1,0 +1,82 @@
+@titulo: estou-aqui
+@autor:
+@intérprete: Anjos de Resgate
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Anjos de Resgate - Estou Aqui
+
+[Intro] G9  C/G  D/F#  G  G/B  C  D4  D
+        C/E  D/F#  G9  C/G  D/F#  G  G/B  C  D4  D
+
+         G
+Estou aqui
+        D/F#
+Pra ser amado e te amar
+          C9          Am7          D7/11   D7
+Te olhar nos olhos e deixar-me   apaixonar
+           G
+Diante de ti
+           D/F#
+Pra me render ao teu amor
+      C9             G/B  Am7       D7/11   D7
+E confessar minhas fraquezas,  sou pecador!
+    Am7
+Também estou aqui
+     Em7/9
+Pra pedir perdão
+      Am7       G/B    C9              D7/11   D
+Pelas almas que ainda não  buscam teu coração
+
+
+     G         D/F#                      C9
+Te amar    (te amar)     por quem não te ama
+       G/B  Am   Am7/G                 F   D
+Te adorar              por quem não te adora
+     G    D/F#             C9         G/B
+Esperar       por quem não espera em ti
+        Am7             D
+Pelos que não creem em Deus, estou aqui
+
+     G       D/F#                   C9
+Te amar  (te amar)  por quem não te ama
+       G/B  Am  Am7/G                F   D
+Te adorar            por quem não te adora
+     G   D/F#              C9         G/B
+Esperar       por quem não espera em ti
+        Am7             D
+Pelos que não crêem em Deus, estou aqui
+     G       D/F#                    C9
+Te amar  (te amar)   por quem não te ama
+       G/B  Am   Am7/G                F   D
+Te adorar             por quem não te adora
+     G   D/F#               C9         G/B
+Esperar        por quem não espera em ti
+        Am7          D          G
+Pelos que não crêem  eu   estou aqui
+            Em7/9
+Estou aqui, estou aqui
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am7/G = 3 0 2 0 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+D7 = X X 0 2 1 2
+D7/11 = X X 0 2 1 3
+Em7/9 = X 7 5 7 7 X
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G9 = 3 X 0 2 0 X

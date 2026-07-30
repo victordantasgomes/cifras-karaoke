@@ -1,0 +1,88 @@
+@titulo: casa-dos-espelhos
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Casa Dos Espelhos
+
+
+(intro 4x) ( D5  Bb5  Bb5/F  Bb5  Bb5  Bb5/F  Bb5 D5  Bb5  F5 )
+
+D5                Bb5
+    Sem paz e sem desejo
+     G5             F5         ( F5  G5  F5  D5  F5  G5  F5  G5 )
+Distante de você
+D5                     Bb5             F5
+    Me perco em pensamentos
+    G5                      F5        ( F5  G5  F5  D5  F5  G5  F5  D5 )
+Ditados por alguém
+G5  F5         Eb5
+    Imagens que eu vejo
+G5    F5         Eb5
+    Enganam, mentem
+
+   D5             Bb5  Bb5/F  Bb5
+Agora eu sei
+            F5    Bb5  Eb5  C5  D5  C5
+Que os o___lhos  são como espelhos
+   D5             Bb5  Bb5/F  Bb5
+Agora eu sei
+
+     F5  Bb5  Eb5  C5  D5  C5
+Revelam coragem e medo
+
+( D5    F5    D5    Eb5 )  (2x)
+
+D5                Bb5
+    Nem tudo que se vê
+    G5            F5        ( F5  G5  F5  D5  F5  G5  F5  G5 )
+Reflete a verdade
+D5               Bb5
+    Uma casa de espelhos
+         G5             G5  F5  G5  F5  G5  F5  G5
+Num jogo de vaida________des
+G5     F5     Eb5
+    Eu quero sentimentos
+G5   F5         Eb5
+    E fazer o bem
+
+(refrão)
+
+(solo 2x) ( D5  C#5  C5  B5  A#5  A5  G#5  F5  G5 )
+
+Bb5       G5
+    Veja além do que se vê
+D5
+    Arranque fora o que não é você           Bb5
+    Antes que o tempo passe a lhe entristecer
+               G5
+Existe alguém dentro de você
+D5
+    Deus me deu a vida pra que eu vá viver
+    De coração aberto sem se esconder
+
+( D5  C#5  C5  B5 )
+
+(refrão)
+
+( D5  D5  F5  D5  F5  G5 )
+( D5  D5  Eb5  D5  Eb5  F5 D5)
+
+----------------- Acordes -----------------
+A#5 = X 1 3 3 X X
+A5 = X 0 2 2 X X
+B5 = X 2 4 4 X X
+Bb5 = X 1 3 3 X X
+C#5 = X 4 6 6 X X
+C5 = X 3 5 5 X X
+D5 = X 5 7 7 X X
+Eb5 = X 6 8 8 X X
+F5 = 1 3 3 X X X
+G#5 = 4 6 6 X X X
+G5 = 3 5 5 X X X

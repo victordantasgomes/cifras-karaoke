@@ -1,0 +1,144 @@
+@titulo: pro-nosso-bem
+@autor:
+@intérprete: Gustavo Mioto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gustavo Mioto - Pro Nosso Bem
+
+[Intro] D  E  C#m7  F#m
+
+   D                     E               
+E|----------------------------------------------------|
+B|-7---x--7---x--7-------7/9---x--9---x---9/5---------|
+G|---x-x------x--------------x-x------x---------------|
+D|-----x----5-x----5-----------x----7-x---------------|
+A|-5---------------------5/7------------7-------------|
+E|----------------------------------------------------|
+
+   C#m7               F#m
+E|----------------------------------------------------|
+B|-5----x--5----------12-10---------------------------|
+G|----x-x--------6/11-11-10---------------------------|
+D|------x---------------------------------------------|
+A|-4----x---------------------9~----------------------|
+E|----------------------------------------------------|
+
+[Primeira Parte]
+
+                   D
+Tira uma dúvida aqui
+
+   E                         F#m
+O tempo que passou longe de mim
+        A
+Fez bem   ou não te fez tão bem assim
+          E                      F#m
+O que eu sei é que tá bad por aqui
+
+[Pré-Refrão]
+
+                      D
+Será que já se acostumou
+                            E
+A dormir com os dois travesseiros
+                           F#m
+Não disputar espaço no chuveiro
+                     A                      D
+E acordar sem o meu beijo chato de despertador
+                      E
+Será que já se acostumou
+
+[Refrão]
+
+                       D
+Como é que tá seu coração
+                E
+Sozinho sem mim
+                     C#m7
+E se tiver igual ao meu
+           F#m
+Que dó, tadinho
+                        D
+Pro nosso bem escuta a dica
+          E                        F#m7
+Pega sua vida e traz de volta pra minha
+
+E traz de volta
+
+                       D
+Como é que tá seu coração
+                E
+Sozinho sem mim
+                     C#m7
+E se tiver igual ao meu
+           F#m
+Que dó, tadinho
+                        D
+Pro nosso bem escuta a dica
+          E                        F#m7
+Pega sua vida e traz de volta pra minha
+
+E traz de volta
+
+( D  E  C#m7  F#m )
+
+[Pré-Refrão]
+
+                      D
+Será que já se acostumou
+                            E
+A dormir com os dois travesseiros
+                           F#m7
+Não disputar espaço no chuveiro
+                     A                      D
+E acordar sem o meu beijo chato de despertador
+                      E
+Será que já se acostumou
+
+[Refrão]
+
+                       D
+Como é que tá seu coração
+                E
+Sozinho sem mim
+                     C#m7
+E se tiver igual ao meu
+           F#m
+Que dó, tadinho
+                        D
+Pro nosso bem escuta a dica
+          E                        F#m7
+Pega sua vida e traz de volta pra minha
+
+E traz de volta
+
+                       D
+Como é que tá seu coração
+                E
+Sozinho sem mim
+                     C#m7
+E se tiver igual ao meu
+           F#m
+Que dó, tadinho
+                        D
+Pro nosso bem escuta a dica
+          E                        F#m7
+Pega sua vida e traz de volta pra minha
+
+E traz de volta
+
+( D  E  C#m7  F#m )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X

@@ -1,0 +1,112 @@
+@titulo: enquanto-houver-sol
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Enquanto Houver Sol
+
+Intro:
+E|-4-5-4---4-5-4--------7-2-4-2-0-------------------
+B|-5-----5-5----5-5-4-5-----------0-----------------
+G|-6-------5------4-------4-------------------------
+D|--------------------------------------------------
+A|-0-------0----------------------------------------
+E|----------------0-------4-------------------------
+
+                         E       E4
+E|-4-5-4---4-5-4---------0--------------------------
+B|-5-----5-5-----5-5/7-5-0-0------------------------
+G|-6-------5-------------1-----1h2-1----------------
+D|---------------------------2----------------------
+A|-0-------0----------------------------------------
+E|--------------------------------------------------
+
+        A               B
+Quando não houver saída
+        A                   B
+Quando não houver mais solução
+ A                  G#m
+Ainda há de haver saída
+
+ F#m      A    B        E
+Nenhuma idéia vale uma vida
+        A                  B
+Quando não houver esperança
+        A                 B
+Quando não restar nem ilusão
+ A                     G#m
+Ainda há de haver esperança
+    F#m        A           B    E
+Em cada um de nós, algo de uma criança
+
+Refrão: guitarra 2 - riff da intro
+
+    A                    Am
+Enquanto houver sol, enquanto houver sol
+ E           G#m
+Ainda haverá
+    A                    Am              E  E4  E
+Enquanto houver sol, enquanto houver sol
+
+Solo: E7(4/9)  E
+E|--------------------------------------------------|
+B|-7-7-7/9-9-9-7-7-9-7-7-5-5------------------------|
+G|-7-7-7/9-9-9-7-7-9-7-7-4-4------------------------|
+D|--------------------------------------------------|
+A|--------------------------------------------------|
+E|--------------------------------------------------|
+
+        A                 B
+Quando não houver caminho
+       A                   B
+Mesmo sem amor, sem direção
+   A                  G#m
+A sós ninguém está sozinho
+F#m     A            B       E
+É caminhando que se faz o caminho
+        A               B
+Quando não houver desejo
+        A                    B
+Quando não restar nem mesmo dor
+ A                   G#m
+Ainda há de haver desejo
+    F#m        A          B        E
+Em cada um de nós, aonde Deus colocou
+    A                    Am
+Enquanto houver sol, enquanto houver sol
+ E           G#m
+Ainda haverá
+    A                    Am            E  E4  E
+Enquanto houver sol, enquanto houver sol
+
+Solo: E7(4/9)  E
+E|--------------------------------------------------|
+B|-7-7-7/9-9-9-7-7-9-7-7-5-5------------------------|
+G|-7-7-7/9-9-9-7-7-9-7-7-4-4------------------------|
+D|--------------------------------------------------|
+A|--------------------------------------------------|
+E|--------------------------------------------------|
+
+Refrão:
+    A                    Am
+Enquanto houver sol, enquanto houver sol
+ E           G#m
+Ainda haverá
+    A                    Am            E  E4  E
+Enquanto houver sol, enquanto houver sol
+
+----------------- Acordes -----------------
+A = 5 7 7 6 5 5
+Am = X 0 2 2 1 0
+B = 7 6 4 4 4 7
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+E7(4/9) = X X 2 2 3 2
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

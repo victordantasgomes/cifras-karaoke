@@ -1,0 +1,118 @@
+@titulo: onde-eu-tocar
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Onde Eu Tocar
+
+INTRO:          ::   C    :      C/E    :     F9    :     F/G      :
+:   C    :      C/E    :     F9    :     Bb9      Gsus
+
+C                                    Bb                             C             Bb        F
+QUERO SER UM INSTRUMENTO EM TUAS MÃOS
+C                                    Bb                             C             Bb        F/A      F
+A COMEÇAR EM MINHA VIDA JÁ LIBERTAÇÃO
+C                                    Bb                             C             Bb        F
+QUERO SER UM TESTEMUNHO DE TRANSFORMAÇÃO
+C                                    Bb                             C             G/B        F/A
+A COMEÇAR EM MINHA VIDA JÁ RESTAURAÇÃO
+
+                             G                 F           C/E                   F              C/E
+E ONDE EU TOCAR HAVERÁ MUDANÇA HAVERÁ TUA BENÇÃO
+                Dm7                                F                         Gsus         F/G
+POIS ESTAS COMIGO E TUA GLÓRIA SE REVELARÁ
+                 G/F        C/E              F             C/G             Am7      Em7
+E ONDE EU PASSAR HAVERÁ ALEGRIA HAVERÁ JUSTIÇA
+           Dm7    F                                G              C
+POIS TUA SANTIDADE EM MIM SE MOSTRARÁ
+
+
+Reintro: :    C9   :    C9    :    C9    :   Bb9    Gsus   :
+
+(ESTROFE)
+
+                             G                 F           C/E                   F              C/E
+E ONDE EU TOCAR HAVERÁ MUDANÇA HAVERÁ TUA BENÇÃO
+                Dm7                                F                         Gsus            F/G
+POIS ESTAS COMIGO E TUA GLÓRIA SE REVELARÁ
+                 G/F        C/E              F             C/G             Am7      Em7
+E ONDE EU PASSAR HAVERÁ ALEGRIA HAVERÁ JUSTIÇA
+
+Coro:  :    Am7   :    G/B    C/E   :
+
+                    Dm7    F                                G   :  :    C
+POIS TUA SANTIDADE EM MIM SE MOSTRARÁ
+
+Bb                                  C                                             Bb                F/A    F/A
+FAZ-ME UM INSTRUMENTO EM TUAS MÃOS
+             Bb   Bb            C   C   C                                              F/A   Bb    C  C
+FAZ-ME UM TESTEMUNHO DE TRANSFORMAÇÃO
+Bb                                  C                                             Bb                F/A    F/A
+FAZ-ME UM INSTRUMENTO EM TUAS MÃOS
+             Bb   Bb            C   C   C                                              F/A   Bb    C     D
+FAZ-ME UM TESTEMUNHO DE TRANSFORMAÇÃO
+
+C                                   D                                             C                 G/B        G/B
+FAZ-ME UM INSTRUMENTO EM TUAS MÃOS
+C                                   D                                                          C     G/B      G
+FAZ-ME UM TESTEMUNHO DE TRANSFORMAÇÃO
+C                                   D                                             C                 G/B        G/B
+FAZ-ME UM INSTRUMENTO EM TUAS MÃOS
+C                                   D                                                          C     G/B      G
+FAZ-ME UM TESTEMUNHO DE TRANSFORMAÇÃO
+
+
+                             A                 G           D/F#                  G              D/F#
+E ONDE EU TOCAR HAVERÁ MUDANÇA HAVERÁ TUA BENÇÃO
+                Em7                                G                         Asus         G/A
+POIS ESTAS COMIGO E TUA GLÓRIA SE REVELARÁ
+                 A/G        D/F#            G             D/A             Bm7      F#m7
+E ONDE EU PASSAR HAVERÁ ALEGRIA HAVERÁ JUSTIÇA
+                                                    Coro:  :   Bm7   :    A/C#    D/F#   :
+                    Em7    G                               A    Fim:  :   D   :    D   :   D/F#   :   G9   :    C9    G/B    :
+POIS TUA SANTIDADE EM MIM SE MOSTRARÁ
+
+C                                   D                                             C                 G/B        G/B
+FAZ-ME UM INSTRUMENTO EM TUAS MÃOS
+Tag:  :   C   :       G/B      G      :
+C                                   D                                           Fim: :   C     G/B    :   G    A    :
+FAZ-ME UM TESTEMUNHO DE TRANSFORMAÇÃO
+
+Fim:  :    Dm7   :    G    A7    :   Dm7  :   G     A7   :    Dm7   ::
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+Asus = X 0 2 2 2 0
+Bb = X 1 3 3 3 1
+Bb9 = X 1 3 3 1 1
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm7 = X 5 7 5 6 5
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F#m7 = 2 X 2 2 2 X
+F/A = 5 X 3 5 6 X
+F/G = 3 X 3 2 1 X
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G/F = 1 X X 0 0 3
+G9 = 3 X 0 2 0 X
+Gsus = 3 2 0 0 0 3

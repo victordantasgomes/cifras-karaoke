@@ -1,0 +1,102 @@
+@titulo: consagracao
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Consagração
+
+[Intro] A
+
+[Primeira Parte]
+
+    A               E/G#  Em/G       D/F#
+Ao Rei dos reis consagro tudo o que sou
+     Dm/F                A/E         Bm       E
+De gratos louvores transborda o meu coração
+   A         E/G#        Em/G               D/F#
+A minha vida eu entrego nas Tuas mãos, meu Senhor
+  Dm/F      A/E          Bm        E
+Pra Te exaltar com todo meu amor
+A           E/G#           Em/G   D/F#
+Eu Te louvarei conforme a Tua justiça
+   Dm/F        A/E           B          E
+E cantarei louvores, pois Tu és altíssimo
+
+[Pré-Refrão]
+
+        D     E               F#m        E  F#m
+Celebrarei a Ti, ó Deus, com meu viver
+
+      D          E          A      D9/B
+Cantarei e contarei as Tuas obras
+ A9/C#    D         E
+Pois por Tuas mãos foram criados
+ C#           F#m        D    E        F#7
+Terra, Céu e mar e todo ser que neles há
+
+[Refrão]
+
+      D               E       A    E/G#   F#m F#m/E
+Toda terra celebra a Ti, com cânticos de júbilo
+        D     E      F#7
+Pois Tu és o Deus Criador
+      D               E       A    E/G#   F#m F#m/E
+Toda terra celebra a Ti, com cânticos de júbilo
+        D     E        A
+Pois Tu és o Deus Criador
+
+[Pré-Refrão]
+
+        D     E               F#m        E  F#m
+Celebrarei a Ti, ó Deus, com meu viver
+      D          E          A
+Cantarei e contarei as Tuas obras
+          D         E
+Pois por Tuas mãos foram criados
+ C#m           F#m       D    E        F#7
+Terra, Céu e mar e todo ser que neles há
+
+[Refrão]
+
+      D               E       A    E/G#   F#m F#m/E
+Toda terra celebra a Ti, com cânticos de júbilo
+        D     E      F#7
+Pois Tu és o Deus Criador
+      D               E       A    E/G#   F#m F#m/E
+Toda terra celebra a Ti, com cânticos de júbilo
+        D     E        A
+Pois Tu és o Deus Criador
+
+[Final]
+
+  A        E/G#       F#m    C#m             D    A/C#
+A honra, a glória, a força e o poder ao Rei Jesus
+       Bm  A     G   D/F#    E
+E o louvor,  ao Rei,     Jesus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A9/C# = X 4 2 2 0 X
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9/B = X 2 0 2 3 0
+Dm/F = X X 3 2 3 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em/G = 3 X 2 4 5 X
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+F#m/E = X X 2 2 2 2
+G = 3 2 0 0 0 3

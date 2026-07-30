@@ -1,0 +1,51 @@
+@titulo: compadece-te
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Compadece-te
+
+D              E/D
+Senhor, tem piedade
+  C#m7        F#m F#/A#     Bm7  Bm7/A
+Senhor, tem pieda..de    de nós
+      C
+Compadece-te
+    Em D/F# G        A
+Senhor       tem piedade
+
+D              E/D
+Cristo, tem piedade
+  C#m7        F#m F#/A#     Bm7  Bm7/A
+Cristo tem pieda...de    de nós
+      C
+Compadece-te
+Em     D/F# G        A
+Cristo        tem piedade
+
+D              E/D
+Senhor, tem piedade
+  C#m7        F#m F#/A#     Bm7  Bm7/A
+Senhor, tem pieda...de   de nós
+
+      C
+Compadece-te
+    Em D/F# G        A
+Senhor       tem piedade
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

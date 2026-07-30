@@ -1,0 +1,58 @@
+@titulo: sou-igualzinho-a-voce
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Sou Igualzinho a Você
+
+[Intro] D  F#m  G  A
+        Em  Bm  A
+
+      D           G           A          Bm
+Todo dia a mesma coisa tudo era sempre igual
+ F#m               G         Em       A
+De repente ali na rua num encontro casual
+ D                 G              A          Bm
+Você perguntou as horas meio sem jeito no olhar
+       F#m           G       Em          A  A7
+Dei um toque em sua mão começamos conversar
+
+                        D                         F#m
+Falei dos meus sentimentos que estavam preso por dentro
+    G             Em          A  A7
+Eu queria só um minuto lhe falar
+                  D                         F#m
+Se essa conversa incomoda numa cadeira de rodas
+      G          Em         A       A7
+É apenas o seu jeito de andar
+     D                   G
+Mas isso não me faz um grande perdedor
+        D                   A
+Nem tão pouco estou fora de forma
+    D                    G
+Eu sou um cidadão como outro qualquer
+      D                     A
+Te respeito como manda as normas
+    G                   D            
+Se Deus é por nós quem será contra nós
+ A                     D
+Você vai ter que entender
+G                       D                 
+O preconceito fez você me ver como um talvez
+    A                      D
+Mas eu sou igualzinho a você
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

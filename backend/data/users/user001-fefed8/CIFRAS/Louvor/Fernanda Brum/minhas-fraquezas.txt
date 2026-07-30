@@ -1,0 +1,70 @@
+@titulo: minhas-fraquezas
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Minhas Fraquezas
+
+INTRO: F#, D#m, G#m, C#
+
+    F#                 C#
+Eu não consigo ser perfeito
+      D#m              A#m
+Minha alma vive a reclamar
+    B                   F#
+De dores cavando o meu peito
+      G#m              C#
+São pecados a me machucar
+ F#                  C#      D#m             A#m
+Mas aqueles que não choram, consolados não serão
+     B                    F#        G#m             C#
+Mas quem confessa o seu pecado, de amor e graça é curado
+
+    F#
+Se minhas fraquezas me fazem chorar
+    D#m                 A#m
+Eu tenho um remédio que vai me curar
+      B                 F#
+É um Deus tão acima do bem e do mal
+
+      G#m                C#
+É um Deus que me ama. Incondicional
+     F#
+Seus olhos penetram no meu coração
+   D#m                   A#m
+Buscando os detalhes da minha emoção
+    B               F#
+Pra me examinar, sarar minha dor
+     G#m                 C#   F#
+O melhor remédio do mundo. Amor
+
+ G#m           F#
+Deus ama o pecador
+            D#m           C#
+Pelos seus braços eu sou acolhido
+ G#m                    F#
+Deus não se esquece de mim
+            D#m               C#
+Quando por muitos eu sou esquecido
+ G#m           F#
+Deus ama o pecador
+            D#m             C#
+Pelos seus braços eu sou acolhido
+ B                      F#
+Deus não se esquece de mim
+           G#m  C#             F#
+Mesmo imperfeito  me chama de amigo
+
+----------------- Acordes -----------------
+A#m = X 1 3 3 2 1
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+D#m = X X 1 3 4 2
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

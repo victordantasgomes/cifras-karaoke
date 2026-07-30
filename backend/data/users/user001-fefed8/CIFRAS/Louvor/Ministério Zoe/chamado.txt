@@ -1,0 +1,98 @@
+@titulo: chamado
+@autor:
+@intérprete: Ministério Zoe
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Zoe - Chamado
+
+Intr: Bb7M(9) C9 Dm7 C9
+
+Bb7M       C
+ O chamado queima em meu peito
+Dm7                    C
+ É minha razão pra continuar
+BbM          C                 Dm         C     Bb7M  C  Dm7  C
+ Eu continuo sendo pequeno, eu ainda não sei falar
+Bb7M               C
+ Eu sou o menor da casa do meu pai
+Dm7                    C
+ Não, eu não passo de uma criança
+Bb7M                   C
+ Mas eu sei que eu fui escolhido
+   Dm7    C        Bb7M  C  Dm7  C
+No ventre da minha mãe
+
+F                         Bb    C
+ Um fogo queima em meu coração (ooh...)
+F                             Bb
+ Restaurar os muros da minha nação
+
+            C
+Não envia outro não, envia-me
+F                          Bb   C
+ Um fogo queima em meu coração
+F                                Bb
+ Restaurar os altares da minha nação
+           C                Bb7M
+Não envia outro não, envia-me
+
+C
+ Meu chamado é maior que a minha vida
+Bb
+ Tua vontade é melhor que a minha
+
+C                               Bb
+ Meu chamado é maior que a minha vida
+         C
+Eis-me aqui! OOhh
+
+F                          Bb
+ Um fogo queima em meu coração
+F                              Bb
+ Restaurar os muros da minha nação
+            C
+ Não envia outro não, envia-me
+F                          Bb   C
+ Um fogo queima em meu coração
+F                                Bb
+ Restaurar os altares da minha nação
+            C
+ Não envia outro não, envia-me
+
+Dm             Am11                             Bb
+ Faz desta nação, um motivo de glória pro teu nome
+                    G
+Faz que esta nação creia que só tu és senhor.
+
+Solo: (Dm Am11 Bb G)
+
+F                          Bb
+ Um fogo queima em meu coração
+F                              Bb
+ Restaurar os muros da minha nação
+            C
+ Não envia outro não, envia-me
+F                          Bb   C
+ Um fogo queima em meu coração
+F                                Bb
+ Restaurar os altares da minha nação
+            C
+ Não envia outro não, envia-me
+
+----------------- Acordes -----------------
+Am11 = X 0 0 2 1 0
+Bb = X 1 3 3 3 1
+Bb7M = X 1 3 2 3 1
+Bb7M(9) = X 1 0 2 1 X
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

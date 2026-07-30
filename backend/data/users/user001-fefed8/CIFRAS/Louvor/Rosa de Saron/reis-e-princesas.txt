@@ -1,0 +1,219 @@
+@titulo: reis-e-princesas
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Reis e Princesas
+
+Intro: Dm  F  Bb  Gm  Dm  F  Bb  Gm
+
+Riff no Bb, Gm e intro cantada
+
+Riff-1
+E|------------------------------
+A|------------------------------
+D|--0--3--5-----0--3--5---------
+G|-----------2-----------2------
+B|------------------------------
+E|------------------------------
+
+Riff uma vez antes da intro cantada e
+uma vez na intro cantada
+
+Riff-2
+E|--------------------------------
+A|--------------------------------
+D|--------------------------------
+G|-7--10----------7--10---------7-
+B|--------8--10----------8--10----
+E|--------------------------------
+
+
+Dm                C9         Bb
+Eu não sei se eu sigo a ver navios
+
+    Gm                Dm
+Ou se ponho neles os animais
+
+      C9      Bb            Gm
+E deixo pra nós o que nos cabe, porque
+
+
+Intro base: Dm  Bb  Gm
+
+Riff-3/1
+E|--------------------------------
+A|--------------------------------
+D|--------------------------------
+G|-7--10--------------------------
+B|--------8-----10--10---10-------
+E|-----------8-----8---8----8-----
+
+Guitarra 2 fazendo Riff-1
+
+Riff 3/2
+E|--------------------------------
+A|--------------------------------
+D|--------------------------------
+G|-7-----------------7---------------
+B|----8--6--8--8/10------------------
+E|--------------------------------
+
+
+Intro: Dm  F (faz slide do Dm até F)  Bb  Gm
+
+
+Dm                        Bb
+Eu não sei se eu sigo a ver navios
+
+    Gm               Dm
+Ou se ponho neles os animais
+
+             Bb           Gm
+E deixo pra nós o que nos cabe, porque
+
+Bb                      Gm
+Se na briga entre dois elefantes
+
+                   Dm
+Quem se ferra é a grama
+
+                   F          Bb
+Diga-me: qual é o rato que irá apartar a nossa ira?
+
+Gm                       Dm
+Antes que acabem minhas lágrimas
+
+
+permita-me dizer
+
+Gm
+Eu tenho fé
+
+
+Dm
+Me tornei cego, surdo e mudo
+
+F                 Bb                 Gm
+Se isso não te acalma, então não sei o que!
+
+      Dm                     F
+Se você não entende o meu silêncio
+
+            Bb               Gm
+Como entenderia as minhas palavras?
+
+             Dm
+Minhas razões?
+
+Bb  Gm
+
+
+Dm
+Já propus nossa paz
+
+Bb         Gm
+Já tentei uma trégua
+
+Dm                      Bb
+Eu fui João, fui Felipe e não deu
+
+Gm
+Troquei o bairro
+
+Bb
+Mudei de cidade
+
+Gm
+E cá estou numa nação
+
+          Dm                       F
+Que sofre de câncer e se luta por dor de cotovelo
+
+Bb                Gm
+Onde não se sabe lidar com Reis e Princesas
+
+Dm
+Aqui só damos valor aos bobos da corte
+
+
+Dm                   F
+Me tornei cego, surdo e mudo
+
+                 Bb               Gm
+Se isso não te acalma, então não sei o que!
+
+Dm                         F
+Se você não entende o meu silêncio
+
+             Bb             Gm
+Como entenderia as minhas palavras?
+
+Bb                         Gm
+Sei que as lágrimas são o sangue da alma
+
+Dm                 F
+Deus as entende e eu as entrego
+
+Dm
+Enquanto formos maus aos outros
+
+          Bb         Gm
+Seremos piores para nós mesmos
+
+      Bb       Gm        Dm          F
+Tudo passa, difícil é saber o que sobra
+
+         Bb
+O que restou de nós
+
+   Gm
+Só o tempo irá dizer
+
+Intro pré solo:
+
+E|--------------------------------
+A|--------------------------------
+D|-5-Delay--5--8--------5---------
+G|----------------5--6------------
+B|--------------------------------
+E|--------------------------------
+
+
+Base solo: Dm  C  Dm  Bb  Gm  F  Gm  2x
+
+( Atenção nas trocas de notas do solo, pois
+o tempo é mais curto que o normal da música )
+
+Dm
+Me tornei cego, surdo e mudo
+
+F                 Bb                 Gm
+Se isso não te acalma, então não sei o que!
+
+      Dm
+Se você não entende o meu silêncio
+
+F            Bb               Gm
+Como entenderia as minhas palavras?
+
+             Dm
+Minhas razões?
+
+
+Base final: Dm F Bb   Gm Dm  Bb  Gm  Dm ( FEITA COM O RIFF-1 e RIFF-3/1 E 3/2 )
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

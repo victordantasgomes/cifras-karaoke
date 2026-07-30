@@ -1,0 +1,97 @@
+@titulo: vinho-e-pao
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Vinho e Pão
+
+[Intro] G  G4  G
+
+          G               Em7
+Na mesa o pão, o vinho também
+             C      G/B              Am7 C/D
+No peito uma dor______ com aquilo que vem
+                 G                  Em7
+De um lado um sorriso, do outro traição
+        C9)     G/B         Am7 C/D
+Ele abençoa______ e parte o pão
+
+          G              Em7
+E lava os pés daqueles fiéis
+              C9)     G/B        Am7 C/D
+E mesmo o traidor______ recebe assim
+              G9                Em7
+Deu vinho e o pão ao invés de rancor
+            C9 G/B               Dsus4 D
+Lavou nosso pés______ e enxugou com a dor
+
+           G                   D(add9)
+Naquele partir estava todo meu ser
+
+            Em7               Em7/D
+Partido por mim e pelo meu viver
+            C                   G/B
+No vinho o amor, no sangue o perdão
+              Am7               C/D
+Em seu meigo olhar a minha salvação
+
+           G                   D(add9)
+Naquele partir estava todo meu ser
+            Em7               Em7/D
+Partido por mim e pelo meu viver
+            C                   G/B
+No vinho o amor, no sangue o perdão
+              Am7               C/D   D
+Em seu meigo olhar a minha salvação
+           G9         Em7
+Um hino cantou depois de cear
+           C9 G/B              Am7 C/D
+E era o louvor______ que vinha preparar
+           G9         Em7
+A maior canção, cantada na cruz
+           C9 G/B           Dsus4   D
+Escrita na ceia______ pelo meu Jesus
+
+           G                   D(add9)
+Naquele partir estava todo meu ser
+            Em7               Em7/D
+Partido por mim e pelo meu viver
+              C                   G/B
+No vinho o amor, no sangue o perdão
+              Am7               C/D
+Em seu meigo olhar a minha salvação
+
+             G                   D(add9)
+Naquele partir estava todo meu ser
+            Em7               Em7/D
+Partido por mim e pelo meu viver
+            C                   G/B
+No vinho o amor, no sangue o perdão
+              Am7               C/D   D
+Em seu meigo olhar a minha salvação
+
+            G G9
+Ele veio a mim
+        G4          G9
+O meu Jesus pensava em mim
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C(add9) = X 3 5 5 3 3
+C/D = X X 0 0 1 0
+D = X X 0 2 3 2
+D(add9) = X X 0 2 3 0
+Dsus4 = X X 0 2 3 3
+Em7 = 0 2 2 0 3 0
+Em7/D = X X 0 0 3 0
+G = 3 2 0 0 0 3
+G(add9) = 3 X 0 2 0 X
+G/B = X 2 0 0 3 3
+Gsus4 = 3 5 5 5 3 3

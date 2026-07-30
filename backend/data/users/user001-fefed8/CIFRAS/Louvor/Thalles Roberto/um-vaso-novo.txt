@@ -1,0 +1,80 @@
+@titulo: um-vaso-novo
+@autor:
+@intérprete: Thalles Roberto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Thalles Roberto - Um Vaso Novo
+
+[Intro] G  C  D4 D
+        G  C  D4 D
+        G  C  D4 D
+        G  C  D4 D
+
+          G  Em7         Am7  E7(#9)
+Eu quero ser,    Senhor amado
+         Am7      D4 D D9  G   G4 G
+Como um vaso nas mãos do oleiro
+              Dm7 E7            Am7  Cm
+Quebra minha vida   e faze-a de novo
+          G  Em            Am7          C/D
+Eu quero ser,     eu quero ser um    vaso novo
+
+( G  C  D4  D )
+( G  C  D4  D )
+( G  C  D4  D )
+( G  C  D4  D )
+
+          G    Em7           Am7 E7(#9)
+Como tu queres,    Senhor amado
+
+          Am7  D4 D D9   G    G4 G
+Tu és o oleiro    e eu o vaso
+              Dm7 E7              Am7 Cm
+Quebra minha vida   e faze-a de novo
+          G  Em          Am7        C/D
+Eu quero ser,     eu quero ser um vaso novo
+
+( G  C  D4  D )
+( G  C  D4  D )
+( G  C  D4  D )
+( G  C  D4  D )
+( A  D  E4  E )
+
+          A  F#m         Bm7  Bm7+
+Eu quero ser,    Senhor amado
+         Bm7      E        A  A7
+Como um vaso nas mãos do oleiro
+              Em7      F#7         Bm Dm
+Quebra minha vida   e faze-a de novo
+          A  F#m            Bm7           A
+Eu quero ser,     eu quero ser um    vaso novo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+Am7+ = X 0 2 1 1 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Bm7+ = X 2 4 3 3 2
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

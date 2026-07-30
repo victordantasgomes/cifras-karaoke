@@ -1,0 +1,71 @@
+@titulo: deixa-o-sol-entrar
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Deixa o Sol Entrar
+
+(intro 2x) A A4 A A9
+
+               A                  E
+Eu não tenho grana, mas eu tenho paz
+               F#m               E
+Dentro do meu peito eu não quero nada mais
+               D                 A
+Além do seu amor que me deixa assim
+                   E                 A
+Cada vez que eu penso que você vai estar aqui
+
+( A A4 A9 )
+
+              A                 E
+Eu não tenho culpa, mas peço perdão
+            F#m                 E
+Eu nunca lamento nada tira meus pés do chão
+               D                 A
+Além do seu amor que me deixa assim
+                   E                  A       E
+Cada vez que eu penso que você vai estar aqui
+
+
+A               E              F#m
+Deixa o sol entrar vou te esperar
+             E
+Pra sempre amor
+A          E           F#m
+Se você vier eu vou estar
+           E   D          A
+Seja onde for, seja como for
+
+(intro 2x)
+              A                 E
+Eu não tenho culpa, mas peço perdão
+            F#m                 E
+Eu nunca lamento nada tira meus pés do chão
+               D                 A
+Além do seu amor que me deixa assim
+                   E                  A       E
+Cada vez que eu penso que você vai estar aqui
+
+                E              F#m
+Deixa o sol entrar vou te esperar
+             E
+Pra sempre amor
+ A          E           F#m          (2x)
+Se você vier eu vou estar
+            E   D          A
+Seja onde for, seja como for
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A9 = X 0 2 2 0 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

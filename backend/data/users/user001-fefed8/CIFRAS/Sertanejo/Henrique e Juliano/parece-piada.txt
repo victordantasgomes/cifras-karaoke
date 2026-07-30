@@ -1,0 +1,177 @@
+@titulo: parece-piada
+@autor:
+@intérprete: Henrique e Juliano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Henrique e Juliano - Parece Piada
+
+Intro: E  B
+
+Primeira parte:
+E
+  Então tá, fica combinado
+
+Só mais essa noite vai acontecer
+B
+  Depois é cada um pra um lado
+
+Você me esquece e eu esqueço você
+
+Segunda parte:
+F#m7(11)               A9
+         E a gente promete mas
+       E
+O coração nunca deixa cumprir
+
+O beijo é bom e o abraço não deixa fugir
+        F#m7(11)   A9        E
+E a história se repete no final
+
+   B9
+A gente não é normal
+
+Refrão:
+            F#m                     A9
+Longe um do outro o coração pede socorro
+          E                        B9
+E a boca pede o gosto da noite passada
+                  F#m
+A gente não se assume, não
+                   A9
+Mas também não se larga, não
+            E
+Num dia dá pause, no outro dá play
+   B9
+E parece piada
+
+            F#m                     A9
+Longe um do outro o coração pede socorro
+          E                        B9
+E a boca pede o gosto da noite passada
+                  F#m
+A gente não se assume, não
+                   A9
+Mas também não se larga, não
+            E
+Num dia dá pause, no outro dá play
+           B9
+E parece piada
+            F#m         A9
+Só dando risada de nós dois
+
+( E  B9 )
+Intro: ( E  B )
+
+Primeira parte (Variação):
+E
+  Então tá, fica combinado
+
+ Só mais essa noite vai acontecer
+B9
+   Depois é cada um pra um lado
+
+Você me esquece e eu esqueço você
+
+Segunda Parte (Variação):
+F#m               A9
+    E a gente promete mas
+       E
+O coração nunca deixa cumprir
+
+O beijo é bom e o abraço não deixa fugir
+        F#m        A9        E
+E a história se repete no final
+   B9
+A gente não é normal
+
+Refrão:
+            F#m                     A9
+Longe um do outro o coração pede socorro
+          E                        B9
+E a boca pede o gosto da noite passada
+                  F#m
+A gente não se assume, não
+                   A9
+Mas também não se larga, não
+            E
+Num dia dá pause, no outro dá play
+   B9
+E parece piada
+
+            F#m                     A9
+Longe um do outro o coração pede socorro
+          E                        B9
+E a boca pede o gosto da noite passada
+                  F#m
+A gente não se assume, não
+                   A9
+Mas também não se larga, não
+            E
+Num dia dá pause, no outro dá play
+           B9
+E parece piada
+            F#m         A9
+Só dando risada de nós dois
+
+Final: ( E )
+
+Intro e Primeira Parte:
+Parte 1 de 2:
+    E
+E|----------------7-----------------------7------|
+B|-----9---7-7h9-------9------9---7-7h9-------9--|
+G|---9----------------------9--------------------|
+D|-------9-------9---9----------9-------9---9----|
+A|-7----------------------7----------------------|
+E|-----------------------------------------------|
+
+Parte 2 de 2:
+    B
+E|-----------------2----------------------2------|
+B|-----4---2-2h4-------4------4---2-2h4-------4--|
+G|---4----------------------4--------------------|
+D|-------4-------4---4----------4-------4---4----|
+A|-2----------------------2----------------------|
+E|-----------------------------------------------|
+
+Segunda Parte:
+Parte 1 de 2:
+    F#m7(11)       A9
+E|-----------------------------------------------|
+B|---------0---------------0---------------------|
+G|-----2-----2--------2------2-------------------|
+D|---2---2-----2----2----2-----2-----------------|
+A|----------------0------------------------------|
+E|-2---------------------------------------------|
+
+Parte 2 de 2:
+    E
+E|-----------------------------------------------|
+B|-------0----------0----------------------------|
+G|-----1---1------1---1--------------------------|
+D|-----------------------------------------------|
+A|---2----------2--------------------------------|
+E|-0----------0----------------------------------|
+
+Final:
+    E
+E|----------------7------------------------------|
+B|-----9---7-7h9-------9-------------------------|
+G|---9-------------------------------------------|
+D|-------9-------9---9---------------------------|
+A|-7----------------------7----------------------|
+E|-----------------------------------------------|
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+F#m7(11) = 2 X 2 2 0 X

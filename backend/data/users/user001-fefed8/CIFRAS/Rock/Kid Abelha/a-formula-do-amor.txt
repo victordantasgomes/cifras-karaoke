@@ -1,0 +1,60 @@
+@titulo: a-formula-do-amor
+@autor:
+@intérprete: Kid Abelha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kid Abelha - A Fórmula do Amor
+
+[Intro]  G  D  Em7  D
+
+G           D            Em7      D
+Eu tenho o gesto exato, sei como devo andar
+G     D              Em7      D
+Aprendi nos filmes pra um dia usar
+C                      Cmaj7
+Um certo ar cruel de quem sabe o que quer
+       Am7                      D
+Tenho tudo planejado pra te impressionar
+ G      D             Em7          D
+Luz de fim de tarde, meu rosto em contra-luz
+ G         D            Em7        D
+Não posso compreender, não faz nenhum efeito
+C                 Cmaj7
+A minha aparição será que errei na mão
+    Am7                         D
+As coisas são mais fáceis na televisão
+
+ Bm7                 C
+Mantenho o passo alguém me vê
+
+          G         C
+Nada acontece, não sei porque
+           G                 C
+Se eu não perdi nenhum detalhe
+                   D
+Onde foi que eu errei
+
+         G        D           C  D
+Ainda encontro a fórmula do amor
+         G        D           C  D
+Ainda encontro a fórmula do amor
+         Ebº    Em7
+Ainda encontro, ô, ô, ô,
+   C                    G    D
+A fórmula, a fórmula do amor
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+Cmaj7 = X 3 2 0 0 X
+D = X X 0 2 3 2
+Ebº = X X 1 2 1 2
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
