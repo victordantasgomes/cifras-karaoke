@@ -1,0 +1,94 @@
+@titulo: meu-mundo-e-nada-mais
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Meu Mundo e Nada Mais
+
+Intro: D  Dº  D  Dº
+
+"Quando as luzes se apagam o artista fica sozinho"
+
+ D              Dº   D        F#m  Am7          D7       G  ( C7+)
+Quando eu fui ferido vi tudo mudar das verdades que eu sabia
+D             Dº     D             F#m   Am7       D7           G  (G D/F# G D/F# G A)
+Só sobraram restos que eu não esqueci toda aquela paz que eu tinha
+
+Bm7            A/C#            D/F#         Em
+Eu que tinha tudo hoje estou mudo estou mudado
+        D/F#        G       E/G#
+À meia-noite à meia luz pensando
+      A7           A#º           Bm   G/A A/C#
+Daria tudo por um modo de esquecer
+
+D         Em7             D/F#          G
+Eu queria tanto estar no escuro do meu quarto
+        Bm7         Em7      E/G#
+À meia-noite à meia luz sonhando
+      A7               G/A         D   (Into.)
+Daria tudo por meu mundo e nada mais
+
+
+ D             Dº       D          F#m  Am7          D      G   (G D/F# Em G/A)
+Não estou bem certo se ainda vou sorrir sem um traço de amargura
+D             Dº     D        F#m  Am7         D7       G  (G D/F# G D/F# G A)
+Como ser mais livre como ser capaz de enxergar um novo dia
+
+Bm7            A/C#            D/F#         Em
+Eu que tinha tudo hoje estou mudo estou mudado
+        D/F#        G       E/G#
+À meia-noite à meia luz pensando
+      A7           A#º           Bm   G/A A/C#
+Daria tudo por um modo de esquecer
+
+D         Em7             D/F#          G
+Eu queria tanto estar no escuro do meu quarto
+        Bm7         Em7      E/G#
+À meia-noite à meia luz sonhando
+       A7               G/A        D  A/B  B7
+Daria tudo por meu mundo e nada mais
+
+C#m            B/Eb            E        F#m
+Eu que tinha tudo hoje estou mudo estou mudado
+        E/G#         A       F#/A#
+À meia-noite à meia luz pensando
+       B7          Cº   G#7      C#m  B/Eb
+Daria tudo por um modo de esquecer
+
+E            F#m7             E/G#        A
+Eu queria tanto estar no escuro do meu quarto
+       C#m7         F#m7      F#/A#
+À meia-noite à meia luz sonhando
+       B7              A/B       E
+Daria tudo por meu mundo e nada mais
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#º = X 1 2 0 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+B/Eb = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+Cº = X 3 4 2 4 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dº = X X 0 1 0 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#/A# = 6 X 4 6 7 X
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X

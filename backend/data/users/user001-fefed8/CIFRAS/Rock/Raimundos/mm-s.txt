@@ -1,0 +1,129 @@
+@titulo: mm-s
+@autor:
+@intérprete: Raimundos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raimundos - MM's
+
+
+Obs.:Quando o acorde E5 estiver c/ um asterisco(*)é p/ tocar apenas a
+     6a. corda(E) solta.
+     ~ ->toque a nota várias vezes
+     15(17) -> bend da 15a. casa à 17a.
+     15(17) -> bend da 15a. casa à 17a. e depois volta p/ a 15a.
+
+Intro:
+e|-------------|
+B|-2--0--2--0--|
+G|-2--2--2--2--|
+D|-2--2--2--2--|
+A|-0--0--0--0--|
+E|-------------|
+
+F#5    F#5 A5 F#5 E5*(4X)
+
+  F#5                   F#5 A5  E5* F#5
+Menina mentirosa veio correndo
+F#5                        A5 F#5 E5* F#5
+veio correndo de dentro do mato,
+
+F#5                     F#5 A5  E5* F#5
+disse que viu dente em pato
+                    F#5 A5 F#5 E5*(2X)
+e uma tal cobra que avoa
+           F#5      A5
+Caralho de asa é o que tu viu menina
+      C5                      F#5 A5 F#5 E5*(4X)
+É uma cobra serpentina que só ataca mulher boa
+
+
+    E5         G5         D5   F5    E5t2
+Não venha me falar pelo buraco seu baitola,
+     E5         G5            D5     E5t2  F5
+baba ovo,cheira rola,raça que tem que se matar
+    E5         G5           D5     F5   E5t2
+Seu filho duma égua,ô filho de uma rapariga,
+     E5          G5            D5      E5t2 F5
+você só pensa em briga e deixa as mulher pastar
+
+
+       A5         A5t2 G5t2     F5
+Mas se ela quiser encancrar tem que ser bem
+    A5    A5t2  G5t2  E5t2 G5t2
+lavadinha muito,muito,muito
+      A5  A5t2 G5t2 F5                 A5  A5t2 G5t2 E5t2 G5t2
+cheirosinha         e sem feder a roquefort
+
+       A5         A5t2 G5t2     F5
+Mas se ela vier e trouxer na bagagem seus
+ A5    A5t2  G5t2  E5t2 G5t2
+amigos já sei como combater os
+   A5 A5t2 G5t2 F5  A5  A5t2 G5t2  E5t2         G5t2
+inimigos:               Vou soltar um peido bem forte
+
+
+Riff:[toque 4 vezes]
+e|----------------------|
+B|----------------------|
+G|----------------------|
+D|-7--7-7-7-------------|
+A|-7--7-7-7--8-7-5-3-5--|
+E|-5--5-5-5-------------|
+
+"Vou soltar peido bem forte
+ É isso aí sua nêga véia,
+ dessa vez vou ter mais sorte,
+ vou soltar um peido bem forte"
+
+
+     E5     G5    A5     A#5     A5      G5 A5
+Se você não entendeu olhe só como é que eu faço
+      E5     G5    A5     A#5     A5      G5 A5
+Eu te levo para a moita sem fazer estardalhaço
+         E5     G5    A5     A#5     A5      G5 A5
+Quando você menos espera eu arranco-lhe o cabaço
+       E5    F#5    G5          A5             A#5
+E se você olhar em volta só vai encontrar os pedaços
+
+
+SOLO
+e|-12-----12-----12---------------------------------------------------------
+B|-15(17)-15(17)-15(17)--15(17)(15)-12-15(17)(15)-12------------------------
+G|---------------------------------------------------14-12------------------ 
+D|--------------------------------------------------------14---12----12-14--
+A|----------------------------------------------------------14-12-14-12-14--
+E|--------------------------------------------------------------------------
+
+e|-------------------------------------------------------------------------
+B|-----------------------------------------12~-15---Não consegui tirar-----
+G|------------------------------11~-12~-14~---------o resto do solo.-------
+D|-------------------11~-12~-14~--------------------De qualquer jeito, só--
+A|------------12~-14~-------------------------------por esse começo já dá--
+E|-12~-14~-15~--------------------------------------pra ter uma boa noção--
+
+Guitarra base durante solo:
+F#5 G5 A#5 A5 G5 A5
+E5 G5 A5 A#5 A5 G5 A5(3X)
+A5 C5 D5 D#5 D5 C5 D5(2X)
+E5 G5 A5 A#5 A5 G5 A5(2X)
+A#5 A5
+
+E p/ terminar: F#5 G5 C5  F#5 G5 E5
+
+
+Acordes:
+  F#5  A5 A5t2 E5  E5t2 G5  G5t2  F5  A#5 C5  D5  D#5
+e|---|---|----|---|----|---|----|----|---|---|---|---|
+B|---|---|-10-|---|----|---|-8--|----|---|---|---|---|
+G|---|---|-9--|---|-9--|---|-7--|-10-|---|-5-|-7-|-8-|
+D|-4-|-7-|-7--|-2-|-9--|-5-|-5--|-10-|-8-|-5-|-7-|-8-|
+A|-4-|-7-|----|-2-|-7--|-5-|----|-8--|-8-|-3-|-5-|-6-|
+E|-2-|-5-|----|-0-|----|-3-|----|----|-6-|---|---|---|
+
+----------------- Acordes -----------------

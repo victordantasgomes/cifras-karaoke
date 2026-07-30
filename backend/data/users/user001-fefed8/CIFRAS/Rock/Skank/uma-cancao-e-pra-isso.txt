@@ -1,0 +1,116 @@
+@titulo: uma-cancao-e-pra-isso
+@autor:
+@intérprete: Skank
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Skank - Uma Canção É Pra Isso
+
+(intro)  Bm A G A Bm A G A Bm A G A
+
+D                     G
+Uma canção é pra acender o Sol
+C     G           A
+No coração da pessoa
+D                      G
+Pra fazer brilhar como um farol
+C       G            A
+O som depois que ressoa
+
+( D D4 )
+
+D                     G
+Uma canção é pra trazer calor
+C        G            A
+Deixar a vida mais quente
+D                     G
+Pra puxar o fio da paixão
+C           G        A
+No labirinto da gente
+
+
+G       F#m
+Pra consertar
+      Em          A     A4   A
+Pra defender a cidadela
+G       Bm
+Pra celebrar
+      Em     G               A
+Pra reunir bairro e favela
+
+D                        G
+Uma canção me veio sem querer
+C       G         A
+Naquela hora difícil
+D                        G
+Joguei-a logo nesse iê iê iê
+C       G             A
+Por profissão ou por vício
+
+G          F#m
+Pra clarear a escuridão
+Em             A    A4  A
+Que o mundo encerra
+G      Bm
+Pra balançar
+Em            G
+Pra reunir o céu e a terra
+
+(intro)  Bm A G A Bm A G A Bm A G A
+
+D                   G
+Uma canção é pra fazer o Sol
+C     G      A
+Nascer de novo
+D                   G
+Pra cantar o que nos encantou
+C      G          A
+Na companhia do povo
+
+G       F#m
+Pra consertar
+Em               A      A4
+Pra defender a cidadela
+G      Bm
+Pra celebrar
+Em            G               A
+Pra reunir bairro e favela
+
+( D D4 D D9 D D4 D D9 )
+
+D                     G
+Uma canção é pra acender o Sol
+C      G          A
+No coração da pessoa
+D                      G
+Pra fazer brilhar como um farol
+C      G             A
+O som depois que ressoa
+
+G
+Pra clarear a escuridão
+Em             A    A4
+Que o mundo encerra
+G
+Pra balançar
+Em            G               A
+Pra reunir o céu e a terra
+
+( Bm A G A Bm A G A Bm A G A ) (2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

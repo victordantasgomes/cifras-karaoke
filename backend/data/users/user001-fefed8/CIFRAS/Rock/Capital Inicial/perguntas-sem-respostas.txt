@@ -1,0 +1,102 @@
+@titulo: perguntas-sem-respostas
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Perguntas Sem Respostas
+
+Intro: Riff 2x  (C Em Am C Em Am) (2X)
+
+Riff
+E|-----------------------------------|
+B|-3s5-8-8-5-8-5-5s3-3-3-3s1-1-1-3-1-|
+
+E|----------------------------------------|
+B|-3s5-8-8-5-8-5-8s10-10-10-12-12-10-10-8-|
+
+(C Em Am)
+O que o futuro reserva pra mim
+Uma vida de tédio ou diversão sem fim
+Ser o primeiro a nunca envelhecer
+Não precisar de ninguém
+Não ter nada a perder
+
+D        D4
+ Se você hesitar
+D       D4         C      Cadd9
+ A vida vai passar ah, ah ahahah
+
+
+Refrão:
+G                C9          D/F#
+ Solitários rejeitados esquecidos
+    Am                     C
+ A vida e inventada e descoberta
+G                   C9           D/F#
+ Eu não tenho as respostas e também não sei
+    C         Am           G
+ Se essas são as perguntas certas
+
+Intro
+
+(C Em Am)
+Onde o destino vai me levar
+A uma rua escura ou de frente pro mar
+Eu vou mandar ou ser mandado
+Ser livre e despreocupado
+
+D        D4
+ Se você hesitar
+D       D4         C      Cadd9
+ Ninguém vai esperar ah, ah ahahah
+
+Refrão
+
+Solo
+E|-----------------------------------|
+B|-----------------------------------|
+G|-7s9-7-7-5-5-7-7-7s9-9-7-7-5-5-7-7-|
+
+E|------------------------------------------|
+B|-8s10-8---8s10-8---8s10-10-10-12-12-10-10-|
+G|--------9--------9------------------------|
+
+E|-----------------------------------|
+B|-----------------------------------|
+G|-7s9-7-7-5-5-7-7-7s9-9-7-7-5-5-7-7-|
+
+E|-----------------------------------------------|
+B|-8s10-8---8s10-8---8s10-10-10-12-12-10-10-8s10-|
+G|--------9--------9-----------------------------|
+
+D        D4
+ Se você hesitar
+D       D4         C      Cadd9
+ Ninguém vai esperar ah, ah ahahah
+
+G                C9           D/F#
+ Solitários rejeitados esquecidos
+    Am                     C
+ A vida e inventada e descoberta
+G                   C9            D/F#
+ Eu não tenho as respostas e também não sei
+    C         Am           G
+ Se essas são as perguntas certas
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Cadd9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

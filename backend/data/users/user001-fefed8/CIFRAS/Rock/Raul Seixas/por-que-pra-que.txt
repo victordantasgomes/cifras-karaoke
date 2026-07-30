@@ -1,0 +1,75 @@
+@titulo: por-que-pra-que
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Por Que, Pra Que?
+
+[Intro]   A  A°  A  A°
+
+     A            F#m
+Por que o azul é azul?
+     A              F#m  C°
+Por que o lilás é lilás?
+    Bm7              E7
+Por que o sim não é sul?
+    Bm              E
+Por que não, não é mais?
+     A  A°  A  A°
+Por que?
+
+     A            F#m
+Pra que definir o azul?
+     A             F#m  C°
+Pra que definir o lilás?
+    Bm7                   E
+Pra que destinguir sim de sul?
+    Bm                E
+Pra que igualar não e mais?
+
+     A
+Pra que?
+
+Em7                  D    Bm
+Será que um dia poderei saber
+Em7           A   Em         F#/E
+Por que, pra que, pra que, porque
+             Bm      A7
+Por que? pra que?
+
+     D            Bm
+Por que o azul é azul?
+     A              F#m  C°
+Por que o lilás é lilás?
+    Bm               E
+Por que o sim não é sul?
+    Bm              E
+Por que não, não é mais?
+
+     A  A°
+Por que?
+     A  A°
+Pra que?
+     A     F
+Por que?
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C° = X 3 4 2 4 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F#/E = X X 2 3 2 2
+F#m = 2 4 4 2 2 2

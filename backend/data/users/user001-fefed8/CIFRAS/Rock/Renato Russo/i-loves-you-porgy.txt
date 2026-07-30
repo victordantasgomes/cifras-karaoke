@@ -1,0 +1,150 @@
+@titulo: i-loves-you-porgy
+@autor:
+@intérprete: Renato Russo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renato Russo - I Loves You Porgy
+
+(intro) Bm7  D/E
+
+                    A7+                  D7+
+I loves you Porgy don't let him take me
+                      Bm7             D/E
+Don't let him handle me
+                        A7+
+And drive me mad
+                 C#m7   F#7                   Bm7/4
+If you can keep me        I wants to stay here
+                  D/E      E                       A7+
+With you forever       and I'll be glad
+
+                  A7+                    D7+
+I loves you Porgy don't let him take me
+                     Bm7              D/E
+Don't let him handle me
+                    A7+
+With his hot hand
+                C#m7    F#7                    Bm7/4
+If you can keep me        I wants to stay here
+
+                  D/E     E                       A7+
+With you forever         I got my man
+C#m                                                       G          C#m/G#
+        Someday, I know he's coming back to call me
+C#m                                                Cm        D7/F#
+        He's gonna handle me and hold me so
+Em                                             Em/C#    Em/C      Em9/B
+        It's gonna be like dying, Porgy,    deep    inside me
+E7/D                           A/C#  A/C     D/B     D/A#    Am7/13
+        But when he calls           I  know I have to go
+Ab        Bbm                   Ab/C       Db
+Porgy, I is your brother now          I is
+Dbm   Fm                                      Fm/Eb   Fm/D
+I isn't dying, never going nowhere
+Fm/Db                    Eb/C   F#   B7+/F#   Eb
+Less he shares the farm
+Ab             Bbm                    Ab/C
+Want no wrinkle on my brow
+             Dm G
+Know how?
+    C/E            C/F                          C/G
+Because the sorrow of the past is all done done
+      F#m7  B    B/Ab               A                        A/B    B E9  Bb   D/E   E
+My Por  -  gy, now the real happiness has just    begun
+   A         Bm                    A/C#
+Want no wrinkle on your brow
+           D#m
+Know how?
+       C#    C#7+  G#7                 C#6
+And I ain't go  -  ing, your hear me saying
+    C#         C#7+  G#7              C#6
+If you ain't going      with you I'm staying
+Bb/F  Bb4/F                    Bb/F
+Porgy, I is your brother now
+      Bb4/F
+I is yours forever
+Bb/F
+Morning time and evening time
+        D7+                                          Bb/F   Dm/F   D#7+
+And summer time and winter time
+F#m          F#m7+   Dm7+    F#m7  F
+Oh, my Porgy,         my man Por  -  gy
+Bb9
+        From this minute I'm telling you
+Bb9/Ab
+I keep this vow
+Gb7+  F7                        Bb9
+Porgy, I is your brother now
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C = X 3 2 2 2 X
+A/C# = X 4 X 2 5 5
+A7+ = X 0 2 1 2 0
+Ab = 4 3 1 1 1 4
+Ab/C = X 3 X 1 4 4
+Am7/13 = X 0 X 0 1 2
+B = X 2 4 4 4 2
+B/Ab = 4 X 4 4 4 X
+B7+/F# = X X 4 4 4 6
+Bb = X 1 3 3 3 1
+Bb/F = X 8 8 7 6 X
+Bb4/F = X 8 X 8 6 6
+Bb9 = X 1 3 3 1 1
+Bb9/Ab = 4 X 3 3 1 1
+Bbm = X 1 3 3 2 1
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Bm7/4 = 7 X 7 7 5 X
+C# = X 4 6 6 6 4
+C#6 = 9 X 8 10 9 X
+C#7+ = X 4 6 5 6 4
+C#m = X 4 6 6 5 4
+C#m/G# = X X 6 6 5 4
+C#m7 = X 4 6 4 5 4
+C/E = 0 3 2 0 1 0
+C/F = X 8 10 9 8 8
+C/G = 3 3 2 X 1 X
+Cm = X 3 5 5 4 3
+D#7+ = X X 1 3 3 3
+D#m = X X 1 3 4 2
+D/A# = X 1 X 2 3 2
+D/B = X 2 0 2 3 2
+D/E = X X 2 2 3 2
+D7+ = X X 0 2 2 2
+D7/F# = X X 4 5 3 5
+Db = X 4 6 6 6 4
+Dbm = X 4 6 6 5 4
+Dm = X X 0 2 3 1
+Dm/F = X X 3 2 3 1
+Dm7+ = X X 0 2 2 1
+E = 0 2 2 1 0 0
+E7/D = X 5 X 4 5 4
+E9 = 0 2 4 1 0 0
+Eb = X 6 5 3 4 3
+Eb/C = X 3 5 X 4 3
+Em = 0 2 2 0 0 0
+Em/C = 8 7 5 X 8 X
+Em/C# = X 4 2 0 0 X
+Em9/B = 7 7 9 11 8 7
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7+ = X X 4 6 6 5
+F7 = 1 3 1 2 1 1
+Fm = 1 3 3 1 1 1
+Fm/D = X 5 X 5 6 4
+Fm/Db = 1 4 3 1 1 1
+Fm/Eb = X 6 X 5 6 4
+G = 3 2 0 0 0 3
+G#7 = 4 6 4 5 4 4
+Gb7+ = 2 X 3 3 2 X

@@ -1,0 +1,61 @@
+@titulo: eu-jamais-serei
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Eu Jamais Serei
+
+D             G/D    G/B A/C#  D   D/F#
+ Eu jamais serei o  me - es - mo
+G2           A        G/B  A/C#  D
+ A porta fechei, não volto a - trás
+D            G/D       G/B   A/C#  D  D/F#
+ A minha carreira comple  - ta -  rei
+  G     A            G/B  A/C#  D
+E eu jamais serei o me  - es - mo  (2x)
+
+Coro:
+
+ C    G/B  A        D
+Como fogo, arde em mim
+ C       G/B    A     A/C#  D    D/C
+Rio poderoso, inun - da - me
+ Bb             C/Bb    Am7        D/A
+Destruindo as trevas, queima todo mal
+    Em7      D/F#      G          Asus   A
+E acende a chama que glorifica a Ti
+
+D           G/D  G/B  A/C#  D   D/F#
+ Nas maiores  altu  - u -  ras
+
+     G2             A     G/B A/C# D
+Eu quero viver, Senhor, opera em  mim
+    D        G/D       G/B A/C# D D/F#
+A glória de Deus enche o  meu  ser
+  G     A            G/B  A/C#  D
+E eu jamais serei o me  - es - mo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Am7 = X 0 2 0 1 0
+Asus = X 0 2 2 2 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C/Bb = X 1 2 0 1 X
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G2 = 3 X 0 2 0 X

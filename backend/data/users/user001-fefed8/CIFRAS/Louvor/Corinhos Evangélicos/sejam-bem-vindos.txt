@@ -1,0 +1,99 @@
+@titulo: sejam-bem-vindos
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Sejam Bem-vindos
+
+Intro: Am Dm  Em Am
+
+Am        Dm       Em        Am
+Sejam bem vindos à paz do senhor
+Am         Dm       Em     Am
+Nós te saudamos com muito amor (2x)
+
+ Am               G
+Oh quão bom e tão suave é
+                        Am
+Que os irmãos vivam em união
+                             G                       Am
+Assim o senhor ordena a benção e vive em paz para sempre
+                       G
+E vive em paz para sempre
+                       Am
+E vive em paz para sempre
+
+Intro: ( C#m F#m G#m C#m )
+
+C#m        F#m      G#m      C#m
+Sejam bem vindos à paz do senhor
+
+C#m         F#m       G#m    C#m
+Nós te saudamos com muito amor (2x)
+
+ C#m               B
+Oh quão bom e tão suave é
+                        C#m
+Que os irmãos vivam em união
+                             B                       C#m
+Assim o senhor ordena a benção e vive em paz para sempre
+                       B
+E vive em paz para sempre
+                       C#m
+E vive em paz para sempre
+
+Intro: ( Dm Gm Am Dm )
+
+Dm        Gm       Am      Dm
+Sejam bem vindos à paz do senhor
+Dm         Gm       Am      Dm
+Nós te saudamos com muito amor (2x)
+
+ Dm               C
+Oh quão bom e tão suave é
+                        Dm
+Que os irmãos vivam em união
+                             C                       Dm
+Assim o senhor ordena a benção e vive em paz para sempre
+                       C
+E vive em paz para sempre
+                       Dm
+E vive em paz para sempre
+
+Intro: ( Em Am Bm Em )
+
+Em        Am       Bm      Em
+Sejam bem vindos à paz do senhor
+Em        Am       Bm      Em
+Nós te saudamos com muito amor (2x)
+
+ Em               D
+Oh quão bom e tão suave é
+                        Em
+Que os irmãos vivam em união
+                             D                       Em
+Assim o senhor ordena a benção e vive em paz para sempre
+                       D
+E vive em paz para sempre
+                       Em
+E vive em paz para sempre
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4
+Gm = 3 5 5 3 3 3

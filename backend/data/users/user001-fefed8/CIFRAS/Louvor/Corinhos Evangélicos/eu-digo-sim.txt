@@ -1,0 +1,32 @@
+@titulo: eu-digo-sim
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Eu Digo Sim
+
+         C   G/B   Am
+Eu digo sim, sim senhor
+         C    F    C/E
+Eu digo sim, sim senhor
+        Am    F
+Eu digo sim senhor
+        C/E   Am
+Eu digo sim senhor
+         Dm   G    C
+Eu digo sim, sim senhor
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

@@ -1,0 +1,83 @@
+@titulo: agua-viva
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Água Viva
+
+(intro) G  C  D  G
+
+(dedilhado)
+      G                     C    D      G
+E|-----3-----------------------2-------|
+B|----3-3----------------1----3--2-----|
+G|---0---0------------0-----2-----2----|
+D|-0----------------2------0-----------|
+A|-2----------0-2-3--------------------|
+E|-3-------3---------------------------|
+
+      G
+Eu conheço bem a fonte
+                 C
+Que desce aquele monte
+D                 G
+Ainda que seja de noite
+Nessa fonte está escondida
+                C
+O segredo dessa vida
+D                 G
+Ainda que seja de noite
+
+"Êta" fonte mais estranha
+               C
+Que desce pela montanha
+D                 G
+Ainda que seja de noite
+                           Am
+Sei que não podia ser mais bela
+                C
+Que os céus e a terra, bebem dela
+D                 G
+Ainda que seja de noite
+                          Am
+Sei que são caudalosas as correntes
+             C
+Que regam os céus, infernos
+Regam gentes
+D                 G
+Ainda que seja de noite
+                             Am
+Aqui se está chamando as criaturas
+                  C
+Que desta água se fartam mesmo
+       às escuras
+Am                 D
+Ainda que seja de noite
+Am                 D
+Ainda que seja de noite
+      G
+Eu conheço bem a fonte
+                  C
+Que desce daquele monte
+D                 G
+Ainda que seja de noite
+       D     C    G
+Porque ainda é de noite
+       C     D     G
+No dia claro dessa noite
+       D     C    G
+Porque ainda é de noite
+       C     D     G
+No dia claro dessa noite.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3

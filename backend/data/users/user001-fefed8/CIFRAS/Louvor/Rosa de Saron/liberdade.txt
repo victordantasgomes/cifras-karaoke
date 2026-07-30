@@ -1,0 +1,139 @@
+@titulo: liberdade
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Rosa de Saron - Liberdade
+
+Afinação Violão: D G C F A D
+
+Afinação Guitarra: E A D G B E
+
+Riff Guitarra:
+E|------------|----5h6p5------------------------5h6p5----------------------|
+B|---1/6--6~--|--6-------6---------6~-8b-6~---6-------6---------6~--8~--6--|
+G|------------|------------7~--5h7----------------------7~--5h7------------|   (2x)
+D|------------|------------------------------------------------------------|
+A|------------|------------------------------------------------------------|
+E|------------|------------------------------------------------------------|
+
+
+Intro: C  Am  Am7  Dm  Em
+
+         Bb
+Um velho olhar
+
+Um Triste Adeus
+   Gm      Dm
+Um longo Fim
+                  Bb                   Gm    Dm
+Até quando voltarei a ver cenas de um filme que vi
+
+            Bb                  Gm       Dm
+E não dá mais pra me envolver, pra te ouvir
+                      Bb
+Hoje Eu sou um homem livre
+   Gm     Dm
+Eu aprendi
+
+Gm           Bb
+Não Sufoque, Não sufoque
+
+Refrão:
+F             C/E                Dm
+Por onde eu passe, Não Te encontrarei
+Bb
+Eu não vou, eu não vendo liberdade
+F             C/E                   Dm
+E não me compare, não estou com vontade
+Bb
+Isso é Tudo! Eu não vendo liberdade!
+Riff Guitarra: C  Am  Am7  Em  Dm
+
+E|----5h6p5------------------------5h6p5----------------------|
+B|--6-------6---------6~-8b-6~---6-------6---------6~--8~--6--|
+G|------------7~--5h7----------------------7~--5h7------------|
+D|------------------------------------------------------------|
+A|------------------------------------------------------------|
+E|------------------------------------------------------------|
+
+
+         C                             Am
+Eu renovei o sentimento que havia em mim
+      Am7                Dm
+Eu não to aqui pra me vender,
+                  Em
+Não há tarifas aqui.
+      C                       Am
+Já cansei, já ponderei, pode sair
+         Am7             Dm
+Quero dizer que já escolhi
+             Em
+Quem vou seguir
+
+C           Am
+O meu preço já foi pago
+
+Refrão:
+G               D/F#               Em
+Por onde eu passe, Não Te encontrarei
+C
+Eu não vou, eu não vendo liberdade
+G              D/F#                   Em
+E não me compare, não estou com vontade
+C
+Isso é Tudo! Eu não vendo liberdade!
+
+E|-------------13--------------|-------------------------------------------------------------------------|E
+B|14b-14b-14~~----15-----------|---------------13-14-14b-14-14--------18-20-22-b-b-22-20-22-20-22-20-22~~|B
+G|-------------------14-14/17-b|-/12-10-12b-12-----------------/17-19------------------------------------|G
+D|-----------------------------|-------------------------------------------------------------------------|D
+A|-----------------------------|-------------------------------------------------------------------------|A
+E|-----------------------------|-------------------------------------------------------------------------|E
+
+E|---------------------|
+B|------17-15-------15-|Falta o finalzinho do solo tirei do youtube pelo video (se estiver errado é só
+G|15-15-------17-15----| ir uma casa pra frente ok!
+D|---------------------|
+A|---------------------|
+E|---------------------|
+
+
+Solo: G  D/F#  Em  C
+
+A5
+Por onde eu passe
+                Em
+Não te encontrarei
+C
+Eu não vou, eu não vendo liberdade
+G              D/F#                   Em
+E não me compare, não estou com vontade
+C                                 G
+Isso é Tudo! Eu não vendo liberdade!
+D/F#   Em
+Iê Iêêê
+C     G D/F# Em
+Uooôô
+
+Riff Guitarra: C  Am  Am7  Dm  Em
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

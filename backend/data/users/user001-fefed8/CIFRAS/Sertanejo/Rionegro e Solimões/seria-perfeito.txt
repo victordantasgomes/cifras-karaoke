@@ -1,0 +1,45 @@
+@titulo: seria-perfeito
+@autor:
+@intérprete: Rionegro e Solimões
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rionegro e Solimões - Seria Perfeito
+
+intro: A E F#m D (3x)
+
+A            E         D
+Hoje amanheceu tão lindo
+   E                         A   E
+O sol até parece estar sorrindo
+A               E                D
+O vento frio bem mansinho soprando
+  E                                A
+O doce perfume das flores espalhando
+Bm                   E
+Como é bom curtir um novo amanhecer
+D                E
+Celebrar a vida, como é bom viver!
+A            E      D
+Seria perfeito se eu tivesse você
+A             D              E
+Mais belo seria cada amanhecer
+A         E        D
+Vem ficar comigo, vamos caminhar
+E                  D
+Pra ver a cada dia nosso amor brilhar
+A      E        F#m   D
+Uou, uou. Uou, uou.. Tchururururu
+Repete intro e repete tudo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

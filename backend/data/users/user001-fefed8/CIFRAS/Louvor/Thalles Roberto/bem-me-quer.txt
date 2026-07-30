@@ -1,0 +1,60 @@
+@titulo: bem-me-quer
+@autor:
+@intérprete: Thalles Roberto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Thalles Roberto - Bem Me Quer
+
+Intro: G7M F#7(#5) F#m7 B7   Em7 C7M(9) C/D   D7M(9)  C7M(9)
+
+D7M(9)           D7M(9)
+Brilho da noite, minha estrela azul
+E7(9)                Em7(9)
+Pedaço do arco-íris,    Amor por amar
+Dm7(9)                D7M(9)        C7M(9)
+Eu vi o sol quando beijei você a primeira vez
+
+D7M(9)                  D7M(9)
+Eu tenho todo tempo pra brincar
+E7(9)
+Com você sou apenas um menino
+Em7(9)
+Desfaço e faço outra vez
+Dm7(9)
+Me escondo e te deixo me encontrar
+Cm7(9)               C/D
+Sou seu super-herói, deixa pra lá
+
+          G7M               F#7(#5)
+Já fiz de tudo pra encontrar você
+
+              F#m7                        B7
+Joguei bem me quer, se o bem me quer não quis
+             Em7(9)        Cm7       C/D   D7M(9)
+Pra eu ser feliz, eu quero amar, amar      você
+
+Instrumental maior:E7(9) Em7(9) Dm7(9) D7M(9) C7M(9)
+
+Instrumental final: G7M F#7(#5) F#m7 B7   Em7 Cm7(9) C/D   D7M(9) C/D C7M(9)
+                    G7M F#7(#5) F#m7 B7   Em7 Cm7(9) C/D   D7M(9) C7M(9)
+
+----------------- Acordes -----------------
+B7 = X 2 1 2 0 2
+C/D = X X 0 0 1 0
+C7M(9) = X 3 2 4 3 X
+Cm7 = X 3 5 3 4 3
+Cm7(9) = X 3 1 3 3 X
+D7M(9) = X 5 4 6 5 X
+Dm7(9) = X 5 3 5 5 X
+E7(9) = X X 2 1 3 2
+Em7 = 0 2 2 0 3 0
+Em7(9) = X 7 5 7 7 X
+F#7(#5) = 2 X 2 3 3 2
+F#m7 = 2 X 2 2 2 X
+G7M = 3 X 4 4 3 X

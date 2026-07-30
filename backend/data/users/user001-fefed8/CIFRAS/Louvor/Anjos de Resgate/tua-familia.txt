@@ -1,0 +1,116 @@
+@titulo: tua-familia
+@autor:
+@intérprete: Anjos de Resgate
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Anjos de Resgate - Tua Família
+
+[Intro] F#m7  E/G#  Am7
+        B7(9)  B  B7(9)  B
+
+[Primeira Parte]
+
+    E        Am                     E
+Percebe e entende que os melhores amigos
+       Am                 C#m      B         A
+São aqueles que estão em casa esperando por ti
+     E          Am                        E/G#
+Acredita nos momentos mais difíceis da vida
+      F#m7  E/G#  A9  Cº  C#m           B         A
+Eles sempre estarão  por perto pois só sabem te amar
+
+[Pré-Refrão]
+
+   F#m            E/G#              A          C#m  B/C#
+E se por acaso a dor chegar ao teu lado vão estar
+       F#m          E/G#                 A            B4  B
+Pra te acolher e te amparar pois não há nada como um lar
+
+
+[Refrão]
+
+     F#m A              B/A
+Tua fa__mília volta pra ela
+       G#m                 C#m
+Tua família te ama e te espera
+             F#m           B
+Para ao teu lado sempre estar
+
+     F#m A              B/A
+Tua fa__mília volta pra ela
+       G#m                 C#m
+Tua família te ama e te espera
+             F#m           B
+Para ao teu lado sempre estar
+       E
+Tua família!
+
+( Am6  E/G#  Bm  E )
+
+[Segunda Parte]
+
+    A            Dm                   A
+Às vezes muitas pedras surgem pelo caminho
+        Dm                     F#m   E      D
+Mas em casa alguém feliz te espera pra te amar
+     A               D                 A
+Não deixa que a fraqueza tire a tua visão
+          Bm7    A/C#    D9    F° F#m
+Que um desejo engane o  teu cora_ção
+    E         D
+Só Deus não é ilusão
+
+[Pré-Refrão]
+
+   Bm7            A/C#              D          F#m  E/F#
+E se por acaso a dor chegar ao teu lado vão estar
+       Bm7          A/C#                 D            E4  E
+Pra te acolher e te amparar pois não há nada como um lar
+
+[Refrão]
+
+     Bm  D              E/D
+Tua fa__mília volta pra ela
+       C#m                 F#m
+Tua família te ama e te espera
+             Bm7           E
+Para ao teu lado sempre estar
+       A
+Tua família!
+
+[Final] Dm  A  Dm  A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+Am = X 0 2 2 1 0
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+B/C# = X 6 X 4 7 7
+B4 = X 2 4 4 5 2
+B7(9) = X 2 1 2 2 X
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+Cº = X 3 4 2 4 2
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E/F# = X X 4 4 5 4
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F° = X X 3 4 3 4
+G#m = 4 6 6 4 4 4

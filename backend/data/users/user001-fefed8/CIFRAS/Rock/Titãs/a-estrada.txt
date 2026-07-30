@@ -1,0 +1,100 @@
+@titulo: a-estrada
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - A Estrada
+
+(intro)
+
+E |-----------------------------------------------------------------------
+B |-----------------------------------------------------------------------
+G |-----------------------------------------------------------------------
+D |-----------------------------------------------------------------------
+A |---------1--3-3------------1--3--3------------1--3--3----------1--3--3-
+E |-3--1--3----------3--1--3------------3--1--3-----------3--1--3---------
+
+(G5 F5 C)
+Estou na estrada
+Ou a estrada é que está em mim
+Tenho pressa
+Será que a estrada é que não tem fim
+
+(C5 Bb5 ambos na corda lá)
+Em cada curva uma vontade
+Em cada reta uma ilusão
+Se eu queria uma resposta
+Só encontro interrogação
+
+
+(G5 F5 C)
+O tempo passa
+Ou será que quem passou fui eu
+Vou em frente
+Não conheço outra direção
+
+(C5 Bb5)
+Se estou sozinho não é meu destino
+Se estou perdido sinto a solidão
+Se estou sozinho não é por acaso
+Se estou perdido entrei na contra-mão
+
+(D5 C5 B5 Bb5)
+Ela não acaba,
+Ela não acaba,
+Ela não acaba,
+Quando chego em casa
+Ela não acaba
+Quando chego
+
+(riff)
+E |-----------------------------------------------------------------------
+B |-----------------------------------------------------------------------
+G |-----------------------------------------------------------------------
+D |-----------------------------------------------------------------------
+A |---------1--3-3------------1--3--3------------1--3--3----------1--3--3-
+E |-3--1--3----------3--1--3------------3--1--3-----------3--1--3---------
+
+(G5 F5 C)
+Estou na estrada
+Ou essa estrada passa onde estou
+Tenho pressa
+Não interessa até aonde eu vou
+
+(C5 Bb)
+O tempo passa
+Ou foi o vento que passou então
+Vou em frente
+Aonde foi que eu perdi o chão
+
+(D5 C5 B5 Bb5)
+Ela não acaba,
+Ela não acaba,
+Ela não acaba,
+Quando chego em casa
+Ela não acaba
+Quando chego
+
+(solo baixo)
+(guitarra base) C G
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B5 = X 2 4 4 X X
+Bb = X 1 3 3 3 1
+Bb5 = X 1 3 3 X X
+C = X 3 2 0 1 0
+C5 = X 3 5 5 X X
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+E = 0 2 2 1 0 0
+F5 = 1 3 3 X X X
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X

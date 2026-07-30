@@ -1,0 +1,56 @@
+@titulo: bilhetinho-azul
+@autor:
+@intérprete: Cazuza
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cazuza - Bilhetinho Azul
+
+E|-------------------------
+B|-------------------------
+G|-2 4-7--2--0-------------
+D|--------------2----------
+A|-----------------4--2----
+E|-------------------------
+
+(Em  Em F#  Em G  Em F# )  Hoje eu acordei com sono sem vontade de acordar
+                                              G               Bm
+O meu amor foi embora e só deixou pra mim um bilhetinho todo azul
+                 A
+com seus garranchos (Em  Em F#  Em G  Em F# )
+
+Que dizia assim xuxu, vou me mandar é
+     G                     Bm                A
+Eu vou pra Bahia talvez eu volte qualquer dia
+                    C
+O certo é que eu tô vivendo
+      G       D            A
+Eu tô tentando o nosso amor (Em  Em F# Em G Em F#) B7 Bb A foi engano
+
+
+(Em  Em F#  Em G  Em F# ) Hoje eu acordei com sono sem vontade
+                                       C
+De acordar como pode alguém ser tão demente
+   G                  D                A
+Porra louca, inconseqüente e ainda amar
+       C            G B              A
+Veio amor como um abraço curto pra não sufocar
+      C                    G B               A     C  G B  A  Em
+Veio amor feito um abraço curto pra não sufocar
+
+Hoje eu acordei com sono.....
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

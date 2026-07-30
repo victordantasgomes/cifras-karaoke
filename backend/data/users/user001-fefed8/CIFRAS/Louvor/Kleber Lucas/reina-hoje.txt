@@ -1,0 +1,45 @@
+@titulo: reina-hoje
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Reina Hoje
+
+(intro) G G/D G/C Am C/D G
+
+       G                 Bm7           Am       C/D  D4
+Os Reis da terra se prostrarão, ante a ti, Senhor
+          G           Bm7
+Sim, os poderosos virão a ti
+Am           D4     D/C   Bm7   Em7     Am    D
+E confessarão o teu poder,         Senhor
+     G             D/F#      C/E     C/D
+Não apenas de palavras, reina hoje,
+    G             D/F#             C/D
+Não apenas de palavras, reina hoje
+G      Bm7   Am   C/D  G  Bm       C     C/D
+Reina hoje, reina hoje entre nós,     Senhor
+G      Bm7   Am   C/D  G  Bm      C     Am    D    G
+Reina hoje, reina hoje entre nós,     Senhor
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/C = X 3 5 4 3 3
+G/D = X 5 5 4 3 X

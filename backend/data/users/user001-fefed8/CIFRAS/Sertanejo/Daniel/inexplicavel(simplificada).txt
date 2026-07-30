@@ -1,0 +1,67 @@
+@titulo: inexplicavel(simplificada)
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Inexplicável
+
+Intro: E
+
+  E                   A
+É inevitável pensar, como estaríamos hoje
+  C                 Am
+Será que casados ou só namorados
+ Am                D
+Ainda muito apaixonados
+
+E
+Será que você tá feliz
+A
+Faz tempo que não dá notícias
+ Am                C
+Eu sofro calado, sempre preocupado
+ Am                  D
+E nunca mais dormi sossegado
+
+Bb                      C
+O tempo vai passando e esse amor não sai de mim
+An                     D
+E no meio do caminho a vida teve que seguir
+
+C                       Am                   C
+Mas eu juro por Deus e por tudo que é mais sagrado
+     Am          D  ( AM D )
+Teu lugar está aqui
+
+C                           G/B
+Pode ser que nunca mais a gente se esbarre
+C                     G
+Essa carta pode nem chegar até você
+Am                      C
+Ou quem sabe estava só faltando esse detalhe
+A                        C             D
+Depois de milhares que enviei você vai ler
+C                            G/B
+Eu nem sei se estou sentindo tudo isso sozinho
+C                       G
+Pense com carinho e se coloque em meu lugar
+Am                          C
+Eu tô feito um pássaro que não encontra o ninho
+A                               C       D
+Mesmo que você não volte eu vou te esperar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

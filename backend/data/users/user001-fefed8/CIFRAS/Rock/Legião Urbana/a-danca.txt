@@ -1,0 +1,176 @@
+@titulo: a-danca
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - A Dança
+
+ Versão 1
+
+
+Introdução - E7
+
+E7
+Não sei o que é direito
+Só vejo preconceito
+C
+E a sua roupa nova
+É só uma roupa nova
+E7
+Você não tem idéias
+Pra acompanhar a moda
+C
+Tratando as meninas
+Como se fossem lixo
+E7
+Ou então espécie rara
+Só a você pertence
+C
+Ou então espécie rara
+
+Que você não respeita
+E7
+Ou então espécie rara
+Que é isso um objeto
+C
+Pra usar e jogar fora
+Depois de ter prazer.
+C7
+Você é tão moderno
+Am
+Se acha tão moderno
+Bm              Cm
+Mas é igual a seus pais
+G
+É só questão de idade
+F
+Passando dessa fase
+D
+Tanto fez e tanto faz.
+E7
+Você com as suas drogas
+E as suas teorias
+C
+E a sua rebeldia
+E a sua solidão
+E7
+Vive com seus excessos
+Mas não tem mais dinheiro
+C
+Pra comprar outra fuga
+Sair de casa então
+E7
+Então é outra festa
+É outra sexta-feira
+C
+Que se dane o futuro
+Você tem a vida inteira
+E7
+Você é tão esperto
+Você está tão certo
+C
+Ah você nunca dançou
+Com ódio de verdade.
+C7
+Você é tão esperto
+Am
+Você está tão certo
+Bm              Cm
+Que você nunca vai errar
+G
+Mas a vida deixa marcas
+F
+Tenha cuidado
+D               E7
+Se um dia você dançar
+C7
+Nós somos tão modernos
+Am
+Só não somos sinceros
+Bm                      Cm
+Nos escondemos mais e mais
+G
+É só questão de idade
+F
+Passando dessa fase
+D
+Tanto fez e tanto faz
+C7
+Você é tão esperto
+Am
+Você está tão certo
+Bm              Cm
+Que você nunca vai errar
+G
+Mas a vida deixa marcas
+F
+Tenha cuidado
+D
+Se um dia você dançar.
+
+ Versão 2 (baixo)
+-=======-
+
+  (introdução) (E7)
+G|----------------------------------------------------------|
+D|-----------------------------------------------------------|
+A|--7-7-7/7------------7-7-7/7---------------------------|
+E|-----------0-0-0-0-------------0-0-0-0-----------------|
+
+G|-----------------------------------------------------------|
+D|-----------------------------------------------------------|
+A|-6/7-7-0-7-6/7-7-0-7-0-7-----------------------------|2x
+E|-----------------------------------------------------------|
+
+   Verso: durante as notas (E7, C).
+G|-----------------------------------------------------------|
+D|-----------------------------------------------------------|
+A|6/7-7-0-7-6/7-7-0-7-0-7-3-3-3-3-0-3-5-7----------|4X
+E|-----------------------------------------------------------|
+
+  ESTREBILHO (C7, Am, Bm, Cm,G,F, D).
+G|--------------------------------------------------------------------------------------------------------|
+D|-------------------------------------------------------------------------7-5-7-5-5-----7-5-7-5-5---|
+A|3-3-3-3-0-0-0-0-2-2-2-5-5-3-3---5-3-5-3-3-----3-1-3-1-1---5--------------5----------------|
+E|-------------------------------------3--------------1--------------------------------------------------|
+
+  Variação em (E7)
+G|----------------------------------------------------------|
+D|----------------------------------------------------------|
+A|6/7-7-0-7-6/7-0-7-0-7--------------------------------|2X
+E|-----------------------------------------------------------|
+
+REPETE A INTRODUÇÃO
+SOLO:
+G|--------------------------------------------------------------------|
+D|--------------------------------------------------------------------|
+A|7-7-5-3-5-7-7-9/10-9-------------------------------------------| -
+E|---------------------------------------------------------------------|
+
+INTERCULE
+G|----------------------------------------------------------------------|
+D|----------------------------------------------------------------------|
+A7/12-12-12\7-7---------------7/12-12/10\13/7------------------|
+E|-------------------0-0-0-0-0-0---------------------0-0-0-0-0-0---|
+
+G|-------------------------------------------------------------|
+D|-------------------------------------------------------------|
+A|-------------------------------------------------------------|5X
+E|-0-0-0-0-0-0-0-0-0-0-0----------0-0-0-0-0-0-0-0-0--|
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

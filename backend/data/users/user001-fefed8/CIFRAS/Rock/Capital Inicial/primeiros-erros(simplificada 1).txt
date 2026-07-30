@@ -1,0 +1,109 @@
+@titulo: primeiros-erros(simplificada 1)
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Primeiros Erros
+
+[Intro] D9  E/D
+        D9  E/D
+( D  A  G  D  A  G )
+
+D     D9              D
+Meu caminho é cada manhã
+       D9                Bm
+Não procure saber onde estou
+
+Meu destino não é de ninguém
+        A                        D
+Eu não deixo os meus passos no chão
+      D9                D
+Se você não entende não vê
+           D9            Bm
+Se não me vê não entende
+
+Não procure saber onde estou
+                        G
+Se o meu jeito te surpreende
+                        G
+Se o meu corpo virasse sol
+
+                    Em
+Minha mente virasse sol
+        Em             Em
+Mas só chove e chove
+Em
+Chove e chove
+
+( D  A  G  D  A  G/B )
+
+D      D9            D
+Se um dia eu pudesse ver
+       D9           Bm
+Meu passado inteiro
+
+E fizesse parar de chover
+                     G
+Nos primeiros erros, ou
+                     G
+O meu corpo viraria sol
+                     Em
+Minha mente viraria sol
+        Em           Em
+Mas só chove e chove
+Em
+Chove e chove
+
+( D9  E/D )
+( D9  E/D )
+
+D      D9            D
+Se um dia eu pudesse ver
+       D9           Bm
+Meu passado inteiro
+
+E fizesse parar de chover
+                     G
+Nos primeiros erros, ou
+      G              G
+O meu corpo viraria sol
+      G              Em
+Minha mente viraria sol
+        Em           Em
+Mas só chove e chove
+Em             G
+Chove e chove
+    G              G
+Meu corpo viraria sol
+      G              Em
+Minha mente viraria
+        Em           Em
+Mas só chove e chove
+Em             G
+Chove e chove
+    G              G
+Meu corpo viraria sol
+      G              Em
+Minha mente viraria sol
+        Em           Em
+Mas só chove e chove
+Em           D A G D A G
+Chove e chove
+
+( D9  E/D  D )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E/D = X X 0 4 5 4
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 0 3

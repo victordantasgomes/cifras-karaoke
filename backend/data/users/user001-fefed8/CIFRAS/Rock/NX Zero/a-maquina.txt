@@ -1,0 +1,101 @@
+@titulo: a-maquina
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nx Zero - A Máquina
+
+Intro: Em  F#5
+       A5  F#5  A5  F#5  A5  F#5
+       A5  B5  D5
+       F#5  G5  F#5  G5  F#5  G5
+       F#5  A5  F#5  A5  F#5  A5  F#5  A5
+
+F#5                     A5
+Pense na sua forma de agir
+                 E5        D5      E5
+Você é eficiente ou reage sem pensar
+F#5           A5                   E5
+As consequências podem ser problemas
+             D5       E5
+Com soluções impossíveis
+
+D5          E5            D5
+Uma semente que nunca brotou
+             E5
+que surpreende a antiga forma
+        D5
+de organizar
+
+      E5
+E pode ser a engrenagem
+F#5               D5
+que faz parar...
+     E5               F#5
+a continuidade da máquina
+D5         E5
+Repetiremos até tudo parar
+F#5                       F#5
+Os mesmos erros, as boas intenções
+F#5        G5     F#5      G5
+    Repetiremos...    Repetiremos...
+
+F#5                A5
+Ações sem importância
+                         B5
+e o costume de deixar de lado
+D5        E5    F#5
+sentimentos maus
+              A5
+Toda energia acumulada
+          E5
+e o equlibrio frágil
+      D5 E5
+que pode abalar
+
+D5          E5            D5
+Uma semente que nunca brotou
+             E5
+que surpreende a antiga forma
+        D5
+de organizar
+      E5
+E pode ser a engrenagem
+F#5               D5
+que faz parar...
+     E5               F#5
+a continuidade da máquina
+D5         E5
+Repetiremos até tudo parar
+F#5                       F#5
+Os mesmos erros, as boas intenções
+D5        E5   F#5
+Repetiremos...
+
+( F#5  G#5  A5  B5  D5  E5  G5 )
+
+( F#5  G#5  A5  B5  D5  E5  G5 )
+Repetiremos até tudo parar
+Os mesmos erros, as boas intenções
+Repetiremos...
+
+( F#5  G5  F#5  G5 )
+
+( F#5  G5  F#5  G5 )
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+B5 = X 2 4 4 X X
+D5 = X 5 7 7 X X
+E5 = 0 2 2 X X X
+Em = 0 2 2 0 0 0
+F#5 = 2 4 4 X X X
+G = 3 2 0 0 0 3
+G#5 = 4 6 6 X X X
+G5 = 3 5 5 X X X

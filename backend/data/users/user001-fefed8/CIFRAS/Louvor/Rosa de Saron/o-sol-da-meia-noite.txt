@@ -1,0 +1,138 @@
+@titulo: o-sol-da-meia-noite
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - O Sol da Meia Noite
+
+[Intro] Bm11  A4/C#  D9  Bm11  A4/C#  D9
+        Bm11  A4/C#  D9  Bm11  A4/C#  D9
+        B5  A5  D5  B5  A5  D5
+        B5  A5  D5  B5  A5  D5
+
+[Primeira Parte]
+
+      D9         Bm11
+É estranho e difícil
+      G
+Me dizer que está tudo bem
+    D9/F#                  D9
+Se há alguma coisa, então venha entender
+    Em                 D/F#                    G9
+O quanto só você pode dar um simples passo de cada vez
+
+[Pré-Refrão]
+
+   Bm11        G           D9
+O sol da meia noite aqui existe
+      A             Bm11        G
+Você pense, pare e veja que o amor resiste
+
+D9            A
+Olhe, prova, sente, toque é
+
+[Refrão]
+
+ D9
+Deus
+                             G9
+Que te faz entender toda poesia
+                        Em
+E torna mais valiosa a vida
+                                 A
+E prova que ainda dar pra ser feliz
+                     D9
+Apenas atenda quem chama
+
+      Bm11       G
+E perceba que só Ele pode compreender
+   D9/F#                 D9
+O seu interior, as suas dores afastar
+       Em                    D/F#
+O seu sonho realizar, a sua vida transformar
+        G9
+Basta que você entenda que é
+
+ D9
+Deus
+                             G9
+Que te faz entender toda poesia
+                        Em
+E torna mais valiosa a vida
+                                 A
+E prova que ainda dar pra ser feliz
+                       D9
+Apenas atenda quem chama
+                         G
+E peça que nessa noite Ele te toque
+                     Em
+E cure todas suas feridas
+                         A
+E vele o sono e espere acordar
+                     D9
+Amanhã será um novo dia
+
+[Ponte]
+
+B5  C#5  D5      B5  C#5
+Amanhã,     á demain
+D5     B5  C#5  D5          B5
+A domani,      morgen, zavtra
+ C#5      D5
+Jutro, demà
+                 B5        C#5     D5
+Aúpio, ashita, ghadaan, mañana, tomo_rrow
+
+( Bm11  A4  D9 )
+( Bm11  A4  D9 )
+
+[Pré-Refrão]
+
+   Bm11        G           D9
+O sol da meia noite aqui existe
+      A        Bm11
+Você pense, pare
+
+[Refrão]
+
+  D9
+Que é Deus
+                             G
+Que te faz entender toda poesia
+                        Em
+E torna mais valiosa a vida
+                                 A
+E prova que ainda dar pra ser feliz
+                       D9
+Apenas atenda quem chama
+                       G
+E peça que nessa noite Ele te toque
+                     Em
+E cure todas suas feridas
+                         A
+E vele o sono e espere acordar
+                     Em  D
+Amanhã será um novo dia
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A4/C# = X 4 2 2 3 0
+A5 = X 0 2 2 X X
+B5 = X 2 4 4 X X
+Bm11 = X 2 2 4 3 2
+C#5 = X 4 6 6 X X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D5 = X 5 7 7 X X
+D9 = X X 0 2 3 0
+D9/F# = 2 X 0 2 3 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G9 = 3 X 0 2 0 X

@@ -1,0 +1,340 @@
+@titulo: infinita-highway
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Infinita Highway
+
+(intro)
+
+(1ª parte da intro)
+
+     A5        C#5   D5     E5
+E|------------------------------------------|
+B|------------------------------------------|
+G|-----2----4/6----7-6-4-7/9-9-9------------|
+D|---2------4/6----7-----7/9-9-9------------|
+A|-0--------2/4----5-----5/7-7-7------------|
+E|------------------------------------------|
+
+
+     A5     C#5  D5       E5
+E|------------------------------------------|
+B|------------------------------------------|
+G|-2----4/6--6/7-7-7--7/9-9-9-9-9-9-9-------|
+D|-2----4/6--6/7-7-7--7/9-9-9-9-9-9-9-------|
+A|-0----2/4--4/5-5-5--5/7-7-7-7-7-7-7-------|
+E|------------------------------------------|
+
+
+
+(2ª parte da intro)
+
+     A5           C#5            D5
+E|------------------------------------------|
+B|------------------------------------------|
+G|-----2-----2-4/6---6-----6-6/7---7-----7--|
+D|---2---2---2-4/6-6---6---6-6/7-7---7---7--|
+A|-0-------0---2/4-------4---4/5-------5----|
+E|------------------------------------------|
+
+
+(1ª vez)
+       E5
+E|------------------------------------------|
+B|------------------------------------------|
+G|-7/9---9-----9----------------------------|
+D|-7/9-9---9---9----------------------------|
+A|-5/7-------7------------------------------|
+E|------------------------------------------|
+
+
+(2ª vez)
+       E5
+E|------------------------------------------|
+B|------------------------------------------|
+G|-7/9-9-9-9-9-9----------------------------|
+D|-7/9-9-9-9-9-9----------------------------|
+A|-5/7-7-7-7-7-7----------------------------|
+E|------------------------------------------|
+
+
+(1ª parte)
+   A5           C#5
+Você me faz correr demais
+    E5
+Os riscos desta highway
+   A5           C#5
+Você me faz correr atrás
+        E5
+Do horizonte desta highway
+     A5               C#5
+Ninguém por perto, silêncio no deserto
+   E5
+Deserta highway
+   A5             C#5
+Estamos sós e nenhum de nós
+ E5
+Sabe exatamente onde vai parar
+
+(2ª parte)
+ D5                   E5
+Mas não precisamos saber pra onde vamos
+ F#m
+Nós só precisamos ir
+ D5           E5
+Não queremos ter o que não temos
+ F#m
+Nós só queremos viver
+ D5             E5
+Sem motivos nem objetivos
+   A       C#m/G#       F#5
+Estamos vivos e isto é tudo
+               D5  E
+É sobretudo a lei
+             A5     C#5     D5     E5
+Da infinita highway
+
+  A5                  C#5
+Quando eu vivia e morria na cidade
+E5
+Eu não tinha nada, nada a temer
+ A5                 C#5
+Mas eu tinha medo, medo desta estrada
+E5
+Olhe só, veja você
+  A5                  C#5
+Quando eu vivia e morria na cidade
+E5
+Eu tinha de tudo, tudo ao meu redor
+     A5                        C#5
+Mas tudo que eu sentia era que algo me faltava
+     E5
+E à noite eu acordava banhado em suor
+
+ D5               E5
+Não queremos lembrar o que esquecemos
+ F#m
+Nós só queremos viver
+ D5                E5
+Não queremos aprender o que sabemos
+ F#m
+Não queremos nem saber
+ D5             E5
+Sem motivos nem objetivos
+   A       C#m/G#  F#m
+Estamos vivos e é só
+                 D5  E
+Só obedecemos à lei
+             A5       C#5      D5 E5
+Da infinita highway
+
+   A5                    C#5
+Escute garota, o vento canta uma canção
+ E5
+Dessas que a gente nunca canta sem razão
+    A5                        C#5
+Me diga, garota: _Será a estrada uma prisão?
+   E5
+Eu acho que sim, você finge que não
+     A5                C#5
+Mas nem por isso ficaremos parados
+         E5
+Com a cabeça nas nuvens e os pés no chão
+ A5                                       C#5
+Tudo bem, garota, não adianta mesmo ser livre
+    E5
+Se tanta gente vive sem ter como comer
+
+   D5              E5
+Estamos sós e nenhum de nós
+ F#m
+Sabe onde quer chegar
+   D5           E5
+Estamos vivos sem motivos
+       F#m
+Que motivos temos pra estar?
+   D5                    E5
+Atrás de palavras escondidas
+          A5             C#5   F#m     D5   E5
+Nas entrelinhas do horizonte desta highway
+            A5       C#5      D5      E5
+Silenciosa highway
+
+( A5 C#5 D5 E5 ) (2x)
+
+(3ª parte)
+    A5                 C#5
+Eu vejo o horizonte trêmulo
+    D5                 E5
+Eu tenho os olhos úmidos
+    A5                   C#5
+Eu posso estar completamente enganado
+            D5                E5
+Eu posso estar correndo pro lado errado
+       A5                     C#5
+Mas a dúvida é o preço da pureza
+      D5                E5
+E é inútil ter certeza
+    A5                C#5
+Eu vejo as placas dizendo "Não corra",
+D5            E5
+ "Não morra",  "Não fume"
+    A5                 C#5
+Eu vejo as placas cortando o horizonte
+        D5            E5
+Elas parecem facas de dois gumes
+
+(base do solo) D   E   F#m (2x)
+               D   E   A   C#m   F#m   D   E
+
+(solo)
+     D           E               F#m
+E|------------------------------------------|
+B|-5h7p5------10----------------------------|
+G|-------7----9-----------------------------|
+D|---------7--7h9p7\6-6----9/11-------------|
+A|----------------------9--7/9--------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|-----10-10-----10-------------------------|
+G|---11--------11---11\9-11-11p9\6----------|
+D|-11--------11-----11\9-11-11p9\7----------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+     D            E               F#m
+E|------------------------------------------|
+B|---------7-----------9-10-10-------2------|
+G|-9p7----7-------9----9-11-9----2---2------|
+D|-----7-9---9/11------9-11-9--4-2-4---4----|
+A|------------------11----------------------|
+E|------------------------------------------|
+
+                               D
+E|----------------------9-12-------9-12-----|
+B|--9/10~----10-12-12b14------12b14---------|
+G|-10/11~-11--------------------------------|
+D|-10/11~-----------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+                E                     A
+E|-------9-12-------9-12-------9-9-9--------|
+B|-12b14------12b14------12b14-----14r12----|
+G|------------------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+     C#m    F#m                D
+E|-7------5---------------------------------|
+B|-10b12~-8b10~-----------------------------|
+G|------------------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+     E
+E|------------------------------------------|
+B|-10-9--------7---7-------7--9h10-9-9------|
+G|------11-9---7---7-------7--9h11-9-9------|
+D|-----------9---9-------7----9h11-9-9------|
+A|-------------------7h9--------------------|
+E|------------------------------------------|
+
+       A5                            C#5
+Minha vida é tão confusa quanto a América Central
+    E5
+Por isso não me acuse de ser irracional
+   A5              C#5
+Escute garota, façamos um trato
+         E5
+Você desliga o telefone se eu ficar muito abstrato
+    A5                       C#5
+Eu posso ser um Beatle, um beatnik,
+       E5
+Ou um bitolado
+    A5                C#5               E5
+Mas eu não sou ator, eu não 'tô à toa do teu lado
+    A5                C#5
+Por isso, garota, façamos um pacto
+    E5
+De não usar a highway pra causar impacto
+
+D5
+ Cento e dez
+E5
+ Cento e vinte
+F#m
+ Cento e sessenta
+D5           E5            F#m
+ Só pra ver até quando   o motor agüenta
+    D5              E5
+Na boca, em vez de um beijo, um chiclete de menta
+     A5               B5             C#5 D5 E5
+E a sombra de um sorriso que eu deixei
+                     A5     D5  A5       E5
+Numas das curvas da highway
+          A5     D5  A5       E5
+Infinita highway
+         (A     D  A       E)4X    A
+Infinita highway
+
+(tabs)
+
+(3ª parte - guitarra)
+     A      C#m    D         E
+E|------------------------------------------|
+B|------------------------------------------|
+G|-6-4-6--6-4-4--7-6-----7/9-9-9------------|
+D|-7---7--6---7--7---9-7-7/9-9-9------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+
+(final - riff no E)
+     E
+E|-----4---2---0----------------------------|
+B|------------------------------------------|
+G|-2/4---2---1------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+(intro - riff de Contrabaixo)
+
+     A           C#m         D
+B|------------------------------------------|
+G|---2---2-------6---6-------7---7----------|
+D|------------------------------------------|
+A|-0---0---0-2/4---4---0-4/5---5------------|
+E|------------------------------------------|
+
+         E
+B|------------------------------------------|
+G|-------9---9------------------------------|
+D|------------------------------------------|
+A|-0-5/7---7---7/---------------------------|
+E|------------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+B5 = X 2 4 4 X X
+C#5 = X 4 6 6 X X
+C#m = X 4 6 6 5 4
+C#m/G# = X X 6 6 5 4
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+F#5 = 2 4 4 X X X
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,113 @@
+@titulo: rubao(simplificada)
+@autor:
+@intérprete: Charlie Brown Jr
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Charlie Brown Jr. - Rubão
+
+intro: (B D E F# B)
+
+        B         D
+Desempregado e falido
+   E
+Andava pela rua
+   B         D   E
+Largado e fudido
+          B          D
+Achou na rua uma carteira
+     E
+Recheada de dólar
+   B           D
+Acabou-se a miséria
+           E         G
+Foi-se o tempo da esmola
+   B         D
+Rubao, um rapaz
+  E          B        D
+Vive desempregado e falido
+E         B           D
+achou na rua uma carteira
+
+    E
+Recheada de dólar
+    B         D
+Acabou-se a miséria
+           E        G
+Foi-se o tempo da esmola
+  B       D
+Rubão, Rubão
+   E
+Pagou pra vê tharroladrão
+B           D        E
+Qual é o sentido da vida??
+   B      D
+Rubão, Rubão
+  E
+Pagou pra vê tharroladrão
+B     D        E
+Desiludido da vida
+
+B
+Pretty bitch for fun
+Pretty bitch for fun
+Pretty bitch for fun
+For fun, forfun
+Pretty bitch for fun
+Pretty bitch for fun
+Pretty bitch for fun
+For fun, for fun
+
+          B       D
+Comprou varias mulheres
+    E
+Convocou amigos
+          B       D
+comprou todo o sistema
+         E
+Mandou matar seus inimigos
+         B
+Catou varias mulheres
+    E
+Convocou os amigos
+          B       D
+Comprou todo o sistema
+         E
+Mandou matar inimigos
+  B      D
+Rubão, Rubão
+  E
+Pagou pra vê tharroladrão
+B     D         E
+Desiludido da vida!
+  B       D
+Rubão, Rubão
+  E
+Pagou pra vê tharroladrão
+B           D         E
+Qual é o sentido da vida?
+
+Solo: (B D E F#)
+
+Pretty bitch for fun
+Pretty bitch for fun
+Pretty bitch for fun
+For fun, for fun
+Pretty bitch for fun
+Pretty bitch for fun
+Pretty bitch for fun
+For fun, for fun
+
+Intro: (B D E F# B)
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

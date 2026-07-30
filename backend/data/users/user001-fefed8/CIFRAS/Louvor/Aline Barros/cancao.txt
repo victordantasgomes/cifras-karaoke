@@ -1,0 +1,111 @@
+@titulo: cancao
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Canção
+
+E               B9                C#m
+ Existe uma canção em cada um de  nós
+                     A9
+ Foi Deus quem escreveu
+                  E
+ Pra Ele Mesmo ouvir
+            B9                C#m G#m
+ O inimigo quer tirar ela de  mim
+             A   B9    E
+ Mas serei fiel até o fim
+
+             B9                C#m
+ Integrante sou do coral celestial
+                  A9                  E
+ O meu Maestro disse que eu sou especial
+               B9
+ Não vivo mais eu
+                    C#m
+ Quem vive em mim é Ele
+             C           D              E
+ Estou ensaiando pra cantar no Céu pra Ele
+
+
+                      B9
+ No coral eu quero cantar
+
+ Declarar que Ele é Santo  Santo
+                 C#m
+ Infinitamente adorar
+                   G#m            A
+ Dizendo que Jesus  é  Santo  Santo
+                  B9
+ A composição do Céu
+                      F#m
+ Vai cantar quem for  fiel
+    A           E
+ O hino da vitória será o meu troféu
+
+                      B9
+ No coral eu quero cantar
+
+ Declarar que Ele é Santo  Santo
+                  C#m
+ Infinitamente adorar
+                   G#m            A
+ Dizendo que Jesus  é  Santo  Santo
+                  B9
+ A composição do Céu
+                       F#m
+ Vai cantar quem for fiel
+         A
+ Vou erguer o meu troféu
+
+ C#m
+ Adorado  Exaltado  Poderoso
+ A
+ Magnificado Jesus Cristo  Glorioso
+ F#m
+ No grande dia esperado vou louvar
+ B9
+ Santo é o Senhor
+
+ C#m
+ Adorado  Exaltado  Poderoso
+ A
+ Magnificado Jesus Cristo  Glorioso
+ F#m
+ No grande dia esperado vou louvar
+ B9               A B9 E
+ Santo é o Senhor
+
+                      B9
+ No coral eu quero cantar
+
+ Declarar que Ele é Santo  Santo
+                  C#m
+ Infinitamente adorar
+                   G#m            A
+ Dizendo que Jesus  é  Santo  Santo
+                  B9
+ A composição do Céu
+                       F#m
+ Vai cantar quem for fiel
+         A             C#m   A   E
+ Vou erguer o meu troféu
+B9                    C#m
+ Vou erguer o meu troféu
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,125 @@
+@titulo: dizem-que-um-homem-nao-deve-chorar
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Dizem Que Um Homem Não Deve Chorar
+
+(intro) ( A B7 G#m C#m7 F#m7 B7 F#m7 E E7M E7 E )
+
+E |-------------------------------------------------------------------------
+B |------------------------------------------------------------------------
+G |------------------------------------------------------------------------
+D |------------------------------------------------------------------------
+A |-7-7-7-6-4------4-7-6-9--9---7-6-4-2---2-6-4-7--7-7-6-5-4-2-----2-4-2-6-
+E |-------------5-----------------------4----------------------5-2---------
+
+E |----------------------------------------
+B |---------------------------------------
+G |---------------------------------------
+D |---------------------------------------
+A |-2-4-6-4-2---2-4-6-4-7---6---4--6------
+E |---------------------------------------
+
+              E E7M
+Quando te perdi
+          E7 E
+Nao compreendi
+            F#m
+Tua ingratidao
+
+             B7(9)
+Fiquei a chorar
+             B7(9)
+Sem me conformar
+             E E7M E7 E
+Com a solidao
+           C#m                                   B7(9)
+A nossa casinha na beira da linha tao triste ficou
+             F#m7                             E E7M E7
+So o teu perfume fazendo ciume foi o que restou
+
+            A                B7
+Teu procedimento me fez infeliz
+                G#m             C#m7
+Deixando em meu peito uma cicatriz
+               F#m7                 B7
+Ao te ver de bracos com um outro amor
+              E E7M E7
+Nao sei como pude suportar a dor
+               A                 B7
+Eu sei que um homem nao deve chorar
+           G#m        C#m7
+Por uma mulher lhe abandonar
+           F#m7                B7
+Mas acreditando nos carinhos teus
+           F#m7                   E E7M E7 E
+Com o desencanto quem chorou fui eu
+
+            E E7M
+Hoje faz um ano
+          E7 E
+Que o desengano
+         F#m
+E a solidao
+            B7(9)
+Tiveram um fim
+               B7(9)
+Ao chegar pra mim
+         E E7M E7 E
+Nova ilusao
+
+              C#m                          B7(9)
+No jardim do amor uma nova flor veio florecer
+            F#m7                                E E7M E7
+Trazendo bonanças e nova esperanca para o meu viver
+
+              A                  B7
+Dizem que ha males que vem para bem
+            G#m              C#m7
+Um amor se vai e outro logo vem
+             F#m7                B7
+Como nao ha mal que nao tenha fim
+           E E7M E7
+Oque me fizestes foi um bem pra mim
+             A                  B7
+Nao venho pedir nao venho implorar
+              G#m             C#m7
+Venho aqui somente para te contar
+             F#m7               B7
+Que nao interessa mais o seu amor
+              F#m7            E E7M
+Pois tenho comigo uma nova flor
+
+(solo)  ( A B7 G#m C#m7 F#m7 B7 F#m7 E E7M E7 E )
+
+               A                 B7
+Eu sei que um homem nao deve chorar
+           G#m        C#m7
+Por uma mulher lhe abondonar
+           F#m7                B7
+Mas acreditando nos carinhos teus
+           F#m7                   E E7M E7 E
+Com o desencanto quem chorou fui eu
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+B7(9) = X 2 1 2 2 X
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+E7M = X X 2 4 4 4
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

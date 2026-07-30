@@ -1,0 +1,63 @@
+@titulo: sempre-sim
+@autor:
+@intérprete: Nenhum de Nós
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nenhum de Nós - Sempre Sim
+
+Intro:  Gm7 C9  Gm7 C9
+
+Gm7                   C9                  Gm7               C9
+ Eu quero te pedir um tempo sem afastamento,
+Gm7                                      C9                      Gm7    C9
+ Na verdade eu quero um tempo pra nós dois,
+Gm7          C9                 Gm7          C9
+ Vamos sair pra dançar, sair para conversar
+Gm7                           C9                               Gm7          C9
+ Quem sabe caminhar e o resto a gente vê depois
+Bb                        F                          Gm
+ O que faz pensar que eu quero tanto assim,
+Bb                                  F                  C                                 D
+ Será que eu vou sentir saudade, saudade que não tem mais fim
+
+  G
+Sim, é sempre sim, a resposta é sim, sempre sim
+                      G                        F                Em               D#
+E sendo assim, eu quero ser para você o que você é para mim
+
+( Gm7 C9  Gm7 C9 )
+
+
+Gm7                   C9                 Gm7         C9
+ Eu quero te pedir que deixe a porta aberta
+Gm7                            C9          Gm7                            C9
+ Eu quero entrar em sua vida, entrar em seus lençóis
+Bb                       F                Gm
+ Vamos começar de novo sem ressentimento
+Bb                        F            C                      D
+ Faz de conta que já desatamos os nós
+
+  G
+Sim, é sempre sim, a resposta é sim, sempre sim
+                      G                         F                Em              D#
+E sendo assim, eu quero ser para você o que você é para mim
+
+Solo 4x: G  F  Em  D#
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3
+Gm7 = 3 X 3 3 3 X

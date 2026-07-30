@@ -1,0 +1,72 @@
+@titulo: telefone-mudo
+@autor:
+@intérprete: Victor e Leo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Victor e Leo - Telefone Mudo
+
+(intro 2x) (Bb F C Bb Am Gm F)
+
+E |-5-5-6-6/8------8-----10-----12---12---12---12---12------13-----15-----|
+B |-6-6-8-8/10--10----11------13----13---13---13---13-----15-----17-------|
+G |-----------------------------------------------------------------------|
+D |-----------------------------------------------------------------------|
+A |-----------------------------------------------------------------------|
+E |-----------------------------------------------------------------------|
+
+(continuação)
+E |--17-------17-----15-----13-----12-----10-----8--|
+B |-18-------18-----17-----15-----13-----11-----10--|
+G |-------------------------------------------------|
+D |-------------------------------------------------|
+A |-------------------------------------------------|
+E |-------------------------------------------------|
+
+    Bb                                F
+Eu quero que risque meu nome da sua agenda
+   C            Bb                 F     F7
+Esqueça meu telefone, não me ligue mais
+
+    Bb                               F
+Porque já estou cansado de ser o remédio
+               C
+Pra curar seu tédio
+              Bb                  F
+Quando seus amores não lhe satisfaz
+   C
+Cansei de ser o seu palhaço
+   Bb                 F
+Fazer o que sempre quis
+                     C
+Cansei de curar sua fossa
+             Bb      C        F
+Quando você não se sentia feliz
+     C
+Por isso é que decidi
+   Bb            F
+O meu telefone cortar
+                        C
+Você vai discar várias vezes
+          Bb        C     F
+Telefone mudo não pode chamar.
+
+(repete tudo)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F7 = 1 3 1 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

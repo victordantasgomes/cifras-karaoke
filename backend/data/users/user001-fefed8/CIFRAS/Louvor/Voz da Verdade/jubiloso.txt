@@ -1,0 +1,93 @@
+@titulo: jubiloso
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Jubiloso
+
+D         F#m7
+  Oh Deus, meu Deus
+F                      C
+  De madrugada te buscarei
+A                               F#m  Bm7
+  Pois a minha alma tem sede de ti
+G         A          G      D    (D4 D5 D4)
+  A minha terra está seca demais
+D                     F#m
+  Quero ver tua fortaleza
+F                     C
+  E tua glória no santuário
+A                        F#m   Bm7
+  E os meus lábios te louvarão
+G         A          G      D    (D4 D5 D4 D D4 F#)
+  Te bendirei enquanto viver
+
+
+       Bm7              Em
+  Jubiloso cantarei,jubiloso cantarei
+         F#           Bm  F#
+  Sob as asas do meu rei
+
+       Bm7              Em
+  Jubiloso cantarei,jubiloso cantarei
+         F#           Bm   G
+  Sob as asas do meu rei
+
+
+     Cm7              Fm
+  Jubiloso cantarei,jubiloso cantarei
+          G           Cm   G
+  Sob as asas do meu rei
+     Cm7              Fm
+  Jubiloso cantarei,jubiloso cantarei
+          G           Cm   G#
+  Sob as asas do meu rei
+
+
+     C#m7              F#m
+  Jubiloso cantarei,jubiloso cantarei
+          G#           F#m   G#
+  Sob as asas do meu rei
+     C#m7              F#m
+  Jubiloso cantarei,jubiloso cantarei
+         G#           C#m   A
+  Sob as asas do meu rei
+
+
+final:
+              Dm7
+Para ra ra ra ra
+              Gm
+Para ra ra ra ra
+               A  Dm  A
+Para ra ra ra ra
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+Cm = X 3 5 5 4 3
+Cm7 = X 3 5 3 4 3
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D5 = X 5 7 7 X X
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+Gm = 3 5 5 3 3 3

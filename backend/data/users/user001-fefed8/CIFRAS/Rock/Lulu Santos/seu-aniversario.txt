@@ -1,0 +1,82 @@
+@titulo: seu-aniversario
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - Seu Aniversário
+
+(intro) Bm7  C#m7  D7+
+        D7+  C#m7  Bm7  A7M  Bm7  C#m7
+
+D7+
+Hoje é seu dia
+         C#m7
+É muito justo
+         F#7
+Que seja tão especial
+D7+
+Toda a sua tribo
+           C#m7
+Também concorda
+        F#7
+E acha supernatural...
+Bm7                 C#m7
+A gente quer tanto bem a você
+F#7                           Bm7
+Sua alegria contagia a todos nós
+                C#m7
+A gente quer é lhe devolver
+
+F#7
+Parte do que você
+Traz pra gente...
+D7+      C#m7
+Parabéns! Parabéns!
+         Bm7        A7M    (Bm7 C#m7)
+Hoje é o seu aniversário
+D7+      C#m7
+Parabéns! Parabéns!
+          Bm7          A7M
+Mais uma volta no calendário...
+D7+
+Que você sorria
+          C#m7
+É o que importa
+       F#7
+Baby! todo dia
+D7+
+Ter você presente
+         C#m7
+É nossa sorte
+             F#7
+É o que nos faz potentes...
+Bm7                 C#m7
+A gente quer tanto bem a você
+F#7                           Bm7
+Sua inocência purifica todos nós
+                 C#m7
+A gente quer é lhe devolver
+F#7
+Parte do que você
+Faz pra gente...
+D7+      C#m7
+Parabéns! Parabéns!
+         Bm7       A7M    (Bm7 C#m7)
+Hoje é o seu aniversário
+D7+      C#m7
+Parabéns! Parabéns!
+          Bm7           A7M     (Bm7 C#m7)
+Mais uma volta no calendário...
+
+----------------- Acordes -----------------
+A7M = X 0 2 1 2 0
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+D7+ = X X 0 2 2 2
+F#7 = 2 4 2 3 2 2

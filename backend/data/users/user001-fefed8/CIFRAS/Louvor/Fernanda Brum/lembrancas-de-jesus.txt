@@ -1,0 +1,65 @@
+@titulo: lembrancas-de-jesus
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Lembranças de Jesus
+
+Am7           G       F         G              C
+Como vai a sua vida, é bom desabafar tudo o que sentes
+     F                  Dm                Em7
+Não podes desanimar, precisa suportar até o fim
+   Am7             Em           Dm              F    G   C
+Imagine lá no Calvário, Jesus Cristo foi por ti crucificado
+    F                        Dm                 Em
+Os cravos em suas mãos com amor no coração, tudo isso por você
+
+Am7     F       G       C          F          B            Em   Em7
+É difícil carregar a cruz que ele levou carregou sem reclamar
+ Am7    F           G      C            F
+É impossível esquecer sua morte lá na cruz
+      Dm        Em         Em7       Am7
+Lembranças de Jesus, lembranças de Jesus.
+
+Am7                Em           Dm           F       G       C
+Imagine lá no Calvário, Jesus Cristo foi por ti crucificado
+    F                      Dm                    Em
+Os cravos em suas mãos com amor no coração, tudo isso por você
+
+
+Am7     F         G     C             F       Dm             Em   Em7
+É    difícil carregar a cruz que ele levou carregou sem reclamar
+ Am7    F          G        C           F
+É impossível esquecer sua morte lá na cruz
+      Dm         Em        Em7        Am7
+Lembranças de Jesus, lembranças de Jesus.
+
+Solo:  Bm G  A  D  G  Em  F#m  F#m7
+
+ Bm     G         A     D               G      Em           F#m   F#m7
+É    difícil carregar a cruz que ele levou carregou sem reclamar
+ Bm    G          A       D            G
+É impossível esquecer sua morte lá na cruz
+    Em         F#m      F#m7         Bm
+Lembranças de Jesus, lembranças de Jesus.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

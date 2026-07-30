@@ -1,0 +1,45 @@
+@titulo: hino-eucaristico-de-aparecida
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Hino Eucarístico de Aparecida
+
+     A                                            E                 Bm7            E                A
+1- Nessa curva do rio tão mansa, onde o pobre seu pão foi buscar
+             A7            A7/C#              D               E           Esus4               A
+O Brasil encontrou a esperança: Esta mãe que por nós vem rezar!
+
+F#7                   F#/A              Bm                E                          A
+O mistério supremo do amor, com Maria viemos cantar!
+F#m       F#m/E                          D     Bm                   E                     E/G#            A  E/G#
+A nossa alma engrandece o Senhor,   Deus que salva, hoje é Pão neste altar
+F#m       F#m/E                          D     Bm                   E                     E/G#            A  Esus
+A nossa alma engrandece o Senhor,   Deus que salva, hoje é Pão neste altar
+
+     A                                            E                 Bm7            E                A
+2- Nosso altar tem um jeito de mesa, e aqui somos um só coração
+               A7            A7/C#           D               E           Esus4               A
+Que esta festa nos dê a certeza: Não teremos mais mesa sem pão
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+A7/C# = X 4 5 2 5 X
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Esus = 0 2 2 1 0 0
+Esus4 = 0 2 2 2 0 0
+F#/A = X 0 4 3 2 X
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+F#m/E = X X 2 2 2 2

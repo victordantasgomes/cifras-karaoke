@@ -1,0 +1,62 @@
+@titulo: samuel(simplificada)
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Samuel
+
+ A
+Samuel, Samuel
+
+ A
+Era uma vez um menino que ainda pequenino
+       D                            A
+Foi escolhido pra morar na casa de Deus
+     E                     D
+Mas ele não sabia que um profeta seria
+ E                    D
+Toda a Israel a ele obedeceria
+ E                                 A
+Quando foi dormir, uma voz então ouviu:
+ E        A               E          A
+Samuel, Samuel, Deus te chama lá do céu
+ E       F#m         D      E    A
+Samuel, Samuel, sê profeta de Israel
+
+ A
+Samuel, Samuel
+
+
+ A
+Era uma vez um menino que ainda pequenino
+       D                            A
+Foi escolhido pra morar na casa de Deus
+     E                     D
+Mas ele não sabia que um profeta seria
+ E                    D
+Toda a Israel a ele obedeceria
+ E                                 A
+Quando foi dormir, uma voz então ouviu:
+ E        A               E          A
+Samuel, Samuel, Deus te chama lá do céu
+ E       F#m         D            A
+Samuel, Samuel, sê profeta de Israel
+ E        A                          A
+Samuel, Samuel, Deus te chama lá do céu
+ E        F#m        D           A
+Samuel, Samuel, sê profeta de Israel
+
+A
+Samuel, Samuel
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

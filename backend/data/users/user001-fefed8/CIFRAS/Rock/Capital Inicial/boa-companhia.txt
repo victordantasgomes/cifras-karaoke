@@ -1,0 +1,80 @@
+@titulo: boa-companhia
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Boa Companhia
+
+Int: (B F#m) (2X)
+
+  B                  F#m
+Eu não sei dizer não
+  B                  F#m
+Eu não tenho opinião
+  E                          G#m
+Não tenho personalidade
+Eu mudo de lado
+                C#m        F#m
+Sem a menor dificuldade
+  B                     F#m
+Eu não quero incomodar
+  B                     F#m
+Longe de mim atrapalhar
+  E                          G#m
+Só digo o que querem ouvir
+O que você quiser
+
+   C#m        F#m
+É só, é só pedir
+
+REFRÃO:
+                   B
+Pode falar mal
+           F#m
+Eu não ligo
+              B
+Pode confiar
+                      G#m
+Sua filha vai estar
+               C#m
+Segura comigo
+                    F#m
+Sozinha comigo
+  B                       F#m
+Eu não quero ter razão
+  B                       F#m
+Eu sou só em um milhão
+  E                       G#m
+É só pedir, eu digo sim
+                                 C#m
+O que você disser tá bom
+F#m
+Tá bom pra mim
+  B                       F#m
+Você vai me adorar
+  B                       F#m
+Vou saber me comportar
+  E                       G#m
+Eu quero muito concordar
+Com o que todo mundo
+      C#m     F#m
+Vai, vai achar
+REFRÃO:
+Solo
+(B  F#m  B  F#m  E  G#m  C#m  F#m)
+
+REFRÃO:
+(B  F#m)
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

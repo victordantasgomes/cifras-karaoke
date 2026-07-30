@@ -1,0 +1,87 @@
+@titulo: fui-eu
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Fui eu
+
+Intro: (A E F#m D A E/G# D/F# E/G#) 2x (A G) 4x
+
+A                      E
+  Os pés descalços queimam no asfalto
+F#m                D
+  Os carros passam - vêm e vão
+A                        E/G#
+  Eu dobro a esquina, eu vou na onda
+D/F#
+  Pego carona na multidão
+
+A                     E
+  Você olhou, fez que não me viu
+F#m                 D
+  Virou de lado, acenou com a mão
+A                E/G#
+  Pegou um táxi, entrou, sumiu
+D/F#
+  Deixou o resto de mim no chão
+
+F#m   C#m       D#m7/5-
+  Vai ver que a confusão
+
+      Dm             A  F#m F#7 Bm7 G G#
+  Fui eu que fiz fui eu
+
+(A G) 4x
+
+e|-----------------------------------------------------------------------------|
+B|-----------------------------------------------------------------------------|
+G|-------------------5--------------------------------------4-4-6-6-6----------|
+D|-7-7-7--5-5----5-7---7-7-7--------------------7-7---5-5----------------------|
+A|-------------7-------------7--5-4-5------------------------------------------|
+E|-----------------------------------------------------------------------------|
+
+A                   E
+  Há algo errado no paraíso
+F#m                   D
+  É muito mais que contradição
+A                   E/G#
+  Sou eu caindo num precipício
+D/F#
+  Você passando num avião
+
+A                     E
+  Você olhou, fez que não me viu
+F#m                  D
+  Foi como se eu não estivesse ali
+A                 E/G#
+  Desligou a luz, deitou, dormiu
+D/F#
+  Nem pensou em se divertir
+
+F#m   C#m       D#m7/5-
+  Vai ver que a confusão
+      Dm             A  F#m F#7 Bm7 G G#
+  Fui eu que fiz fui eu
+
+(A E F#m D A E/G# D/F# E/G#) 2x (A G) 8x
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D#m7/5- = X X 1 2 2 2
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

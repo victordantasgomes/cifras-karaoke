@@ -1,0 +1,24 @@
+@titulo: amem
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - Amém
+
+E C#m   A       F#m             B7
+Amém, amém. ah ah ah ah ah ah amém !
+E C#m       A      F#m    B7        E
+Amém, a-a-amém. ah ah ah ah ah ah amém !
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,58 @@
+@titulo: minha-viola
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Minha Viola
+
+(intro) C
+
+               C         G       C
+Eu tenho uma viola, que canta assim
+                  C        G       C            C7
+Minha dor ela consola, de lim, de lim,   de lim
+                         F  G                   Em  A
+Quando eu saí do meu sertão, Não tinha nada de meu
+                 Dm G                         C  C7
+A não ser esta viola que foi meu pai quem me deu
+                       F    G                   Em   A
+E pelo mundo eu vou andando. Subo monte, desço serra
+                   Dm   G                     C   C7
+Minha viola vou tocando, relembrando a minha terra
+                         F    G                    Em   A
+E quando a tarde vai morrendo, vou pegando minha viola
+                      Dm   G                  C    C7
+Se estou triste e sofrendo, ela é quem me consola
+
+                  F   G                    C
+Cada nota é um gemido. Cada gemido uma saudade
+
+      Bb             F                   G          C
+De saudade estou perdido, viola, nessa eterna "solidade"
+      Bb             F                   G          C     C7
+De saudade estou perdido, viola, nessa eterna "solidade"
+
+                          F    G                     Em  A
+E nesse sertão dos meus amores, quando me ponho a tocar
+                  Dm  G                   C   C7
+Emudecem seus cantores para nos ouvir cantar
+                   F  G                      Em  A
+Canta a minha alegria, canta para eu não chorar
+                    Dm  G                 C
+Entrarei no céu contigo, quando minha hora chegar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

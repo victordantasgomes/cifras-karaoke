@@ -1,0 +1,85 @@
+@titulo: alianca
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Aliança
+
+(intro) Gm  F  C/E  Bb/D | Cm  Bb  Aº  D7
+
+  Gm           F         Eb        Bb/D
+Jesus tomou o pão e repartiu a cada um
+          Cm                Bb         Aº        D
+Tomai e comei, este é o meu corpo oferecido por vós
+      Bb       Eb/Bb     G/A  D7
+Fazei isto em memória de mim
+      Bb       Eb/Bb     G/A  D7
+Fazei isto em memória de mim
+
+   Gm           F         Eb        Bb/D
+Também tomou o cálice e o deu a cada um
+          Cm                Bb          Aº        D
+Tomai e bebei, este é o meu sangue oferecido por vós
+      Bb       Eb/Bb   G/A  D7
+Este sangue é a nova aliança
+      Bb       Eb/Bb   G/A
+Este sangue é a nova aliança
+
+       D             G/D             D   C/E
+Como igreja nos levantamos em teu louvor
+        F          Bb/F        D/E       A7
+No teu corpo e teu sangue nos unimos no amor
+      Dm            Dm/C             Bb       Eb
+Te adoramos, te bendizemos, Rei dos reis e Senhor
+       F/C          C        F ...
+Desde agora e para sempre, amém
+
+F/Eb  B/D  C/E  |  F  F/A  Bb  Eb  Cm
+
+       D             G/D             D   C/E
+Como igreja nos levantamos em teu louvor
+        F          Bb/F        D/E       A7
+No teu corpo e teu sangue nos unimos no amor
+      Dm            Dm/C             Bb       Eb
+Te adoramos, te bendizemos, Rei dos reis e Senhor
+       F/C          C
+Desde agora e para sempre
+       F/A          Bb
+Desde agora e para sempre
+       F/C          C        Db  Ab  Bbm  Ab  Gb   F
+Desde agora e para sempre, amém
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Ab = 4 3 1 1 1 4
+Aº = 5 X 4 5 4 X
+B/D = X 5 4 4 4 X
+Bb = X 1 3 3 3 1
+Bb/D = X 5 X 3 6 6
+Bb/F = X 8 8 7 6 X
+Bbm = X 1 3 3 2 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+D7 = X X 0 2 1 2
+Db = X 4 6 6 6 4
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+Eb = X 6 5 3 4 3
+Eb/Bb = X X 8 8 8 6
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F/C = X 3 3 2 1 1
+F/Eb = X X 1 2 1 1
+G/A = 5 X 5 4 3 X
+G/D = X 5 5 4 3 X
+Gb = 2 4 4 3 2 2
+Gm = 3 5 5 3 3 3

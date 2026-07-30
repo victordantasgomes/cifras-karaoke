@@ -1,0 +1,96 @@
+@titulo: coca-cola
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Coca-Cola
+
+Intro 2x: Em  C  G  D
+
+                 Em                   C
+Se não quer me amar, então pode ir embora
+                     G
+Um novo amor vai chegar
+                     C                   G
+Já ta passando da hora eu vou me recuperar,
+                    D                  C        D
+E você pode ter certeza nunca vai, me ver chorar.
+Solo:
+E|--6/7-7-7-7-7-7-7-8-8-8-8-8-7-5-5/7---|-6/7-7-7-7-7-7-7-8-8-8-8--10/12\10-10---|
+B|--7/8-8-8-8-8-8-8-8-8-8-8-8-8-7-7/8---|-7/8-8-8-8-8-8-8-8-8-8-8--10/12\10-10---|
+G|--------------------------------------|----------------------------------------|
+D|--------------------------------------|----------------------------------------|
+A|--------------------------------------|----------------------------------------|
+E|--------------------------------------|----------------------------------------|
+
+G            Em
+Liguei, mas não me atendeu
+G         Em
+Falei, e não me respondeu
+
+C          Cm                     G
+Escrevi, você não leu mais não importa
+  C                          Em
+Você não vai bater na minha porta
+    D
+Cansei de implorar
+Am                  C                  G
+Quando você tava carente eu fiquei contigo
+                                 Am
+Na madrugada fria eu cuidei de você
+                  C                   G
+Agora virou coca cola e ta cheia de amigos
+                                C
+Passa e até fingi não me reconhecer
+    Am         Bm
+Normal... de boa
+  C                  D
+Também nem sei quem é você!
+
+Refrão:
+                 Em                   C
+Se não quer me amar, então pode ir embora
+                     G
+Um novo amor vai chegar
+                     C                   G
+Já ta passando da hora eu vou me recuperar,
+                    D                  C        D
+E você pode ter certeza nunca vai, me ver chorar.
+
+Am                  C                  G
+Quando você tava carente eu fiquei contigo
+                                 Am
+Na madrugada fria eu cuidei de você
+                  C                   G
+Agora virou coca cola e ta cheia de amigos
+                                C
+Passa e até fingi não me reconhecer
+    Am         Bm
+Normal... de boa
+   C                  D
+Também nem sei quem é você!
+
+Refrão:
+                 Em                   C
+Se não quer me amar, então pode ir embora
+                     G
+Um novo amor vai chegar
+                     C                   G
+Já ta passando da hora eu vou me recuperar,
+                    D                  C        D
+E você pode ter certeza nunca vai, me ver chorar.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

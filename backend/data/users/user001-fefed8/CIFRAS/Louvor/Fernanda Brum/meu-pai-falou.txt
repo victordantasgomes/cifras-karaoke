@@ -1,0 +1,101 @@
+@titulo: meu-pai-falou
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Meu Pai Falou
+
+INTRO: E
+
+              A9
+Meu pai me falou
+        B/D#            E
+Pra eu namorar na hora certa
+      E/          A9
+Minha avó me ensinou
+      C°                  C#m7
+Quem não quer casar não namora
+               A9          E/G#
+Mas eu me envolvi com um rapaz
+           A9          C°   C#m7
+Perdi a inocência e a minha paz
+   F#m7
+Histórias de ilusões e decepções
+             B4     B
+Que não imaginei jamais
+
+             E                   B
+Ele brinca comigo e com meu coração
+
+          C#m7               B
+Termina comigo e me pede perdão
+               A9
+Eu tenho um chamado
+      F#m7              B
+E ele vive dizendo que não
+
+             E                   B
+Ele brinca comigo e com meu coração
+          C#m7               B
+Termina comigo e me pede perdão
+               A9
+Eu tenho um chamado
+      F#m7      C°         C#m7
+Eu preciso guardar meu coração
+
+              A9
+Eu vou te contar
+    B/D#                 E    E/G#
+Um pouco dessa minha história
+            A9       C°               C#m7
+Sofri por amor, por não esperar minha hora
+            A9              E
+Amiga, o passado ficou pra trás
+              A9        C°     C#m7
+Com Deus aprendi que a vida é muito mais
+F#m7                                B4 B
+Que as ilusões e decepções que eu vivi
+    F#m7                                   B4
+No coração de Deus sei, que há alguém especial pra mim
+
+ B          A     E
+Que não brinca comigo
+               B
+E com meu coração
+            C#m7               B
+Parceiro e amigo, irmão de oração
+              A9  E/G#
+Que tem um chamado
+             F#m7                B A
+(E seguimos juntos na mesma unção)-1ª
+      F#m7         C°          E
+(Você tem que guardar teu coração)-2ª
+
+          C                 D
+Pode esperar o teu grande amor
+             E  B4
+Deus vai mandar
+
+Solo: E, B, C#m, A, E/G#, F#m, B  2x
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B4 = X 2 4 4 5 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+C° = X 3 4 2 4 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X

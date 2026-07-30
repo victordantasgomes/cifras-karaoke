@@ -1,0 +1,57 @@
+@titulo: meu-pastor
+@autor:
+@intérprete: Harpa Cristã
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Harpa Cristã - Meu Pastor
+
+A       D  A       E7    A   D         E7   A
+Meu pastor  é jesus cris--to nele quero con--fiar;
+      D    A         C#7 F#m    D     A       E7      A
+Com jesus, não tenho fal---ta, junto a ele eu quero andar;
+F#m    C#7   F#m      C#7   A     D    A   B7       E7
+Me conduz ao bom descanso; para o cam--po verde em flor,
+A   D    A        C#7    F#m   D   A  E7      A
+Refrige--ra, sim, minh'alma, saciando-me de amor.
+
+A    D      A  E7 A   D         E7    A
+Ele é meu companheiro; com jesus desejo andar;
+        D   A    C#7 F#m  D           A    E7  A
+Pois me da vigor e for--ça, p'ra que eu possa caminhar;
+F#m   C#7      F#m   C#7    A  D  A B7  E7
+Ele    é    quem dá coragem, para na--da eu temer;
+A  D  A      C#7  F#m  D  A E7     A
+Mesmo próprio à morte certo estou que vou vencer.
+
+A      D  A     E7  A  D        E7   A
+Caminhando ao seu lado não mais temerei o mal;
+D   A         C#7 F#m   D    A     E7       A
+Seu bordão e seu cajado dão- me proteção real;
+
+F#m    C#7   F#m       C#7 A    D    A   B7  E7
+Contra o meu inimigo o senhor sempre virá;
+A  D  A      C#7   F#m D   A  E7  A
+Me prepara uma mesa e comigo nela está.
+
+A       D A      E7   A  D        E7  A
+Unge a cabeça minha, com óleo do seu amor;
+D   A        C#7  F#m  D     A      E7       A
+O meu gozo é transbordante, pois meu cálice tem dulçor;
+F#m    C#7   F#m      C#7  A     D   A   B7      E7
+Por sua misericórdia e por seu sublime bem
+A   D   A       C#7   F#m D  A  E7    A
+Habitarei em sua casa eternamente, amém!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+C#7 = X 4 3 4 2 X
+D = X X 0 2 3 2
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

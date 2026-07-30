@@ -1,0 +1,96 @@
+@titulo: forca-de-um-furacao
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - Força de Um Furacão
+
+(intro 2x) D
+
+D    A  Bm     G
+Não dá, já chega!
+D                 A
+Uma tola conversa de louco
+         G
+E tudo teve um fim.
+
+D|-----|
+A|2p0--|
+E|----0|
+
+D    A   Bm   G
+Já não me aceita,
+D                A
+Você olha com desprezo
+             Bm             G A
+E só enxerga as coisas ruins.
+
+      Bm
+Todo mundo tem defeitos,
+
+      A                 G
+Me perdoe se não sou perfeito assim!
+
+E|---------|
+B|------2--|
+G|0h2-4---2|
+
+(refrão)
+D             A                 Bm
+Me desculpe se não sou de ferro!
+              G
+Me perdoe se não sou de aço!
+D            A               Bm
+Toda vez a tempestade passa
+             G               D
+E você volta para os meus braços!
+
+D            A            Bm
+A vida não é só fantasia,
+              G
+A vida não é feita de ilusão.
+D            A         Bm
+O amor é bem mais forte
+           G         D
+que a força de um furacão!
+
+(solo 2x) D  A  Bm  G
+
+E|------------------------------------------------------------------|
+B|------------------------------------------------------------------|
+G|---7--9--9/11--9--7--7/9--7---------------------------------------|
+D|-7----------------------------------------------------------------|
+A|----------------------------4h5-5-5-4h5-5-5-4h5-5-5-4h5-5-5-2---5-|
+E|--------------------------------------------------------------5---|
+
+E|------------------------------------------|
+B|----------------------/12-----------------|
+G|---7--9--9/11--9--7-----------------------|
+D|-7------------------------------2-2/4-(5)-|
+A|--------------------------2-4-5-----------|
+E|------------------------------------------|
+
+(repete tudo)
+
+ Bm          A              G
+Mas quando acaba nossas brigas, você me traz a paz.
+Bm           A      G
+Se eu tento te esquecer,
+           A             D
+Sigo te amando mais e mais!
+
+(refrão)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3

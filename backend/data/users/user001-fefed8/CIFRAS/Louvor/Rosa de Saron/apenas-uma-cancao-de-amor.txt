@@ -1,0 +1,77 @@
+@titulo: apenas-uma-cancao-de-amor
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Apenas Uma Canção de Amor
+
+Riff Intro:
+
+E|-0---0-0--0---0---0-0----0------0-4-4---0---
+B|-0---0-0--0---0---0-0----0----0-0-4-0---0---
+G|-2/4-4-2--2/4-2/6-6-4/9--9/2--2---2-2-1-1---
+D|-2/4-4-2--2/4-2/7-7-6/11-11/4-4---4-4-2-----
+A|-0---0-0--0---0---0-0----0----4---4-4-2---2-
+E|--------------------------------------0---0-
+
+Primeira Parte:
+A5(9)                E4
+  Enquanto a chuva, molha meu rosto.
+F#m7(11)/E    D6(9)                 A5(9)
+  Ela esconde       a minha lágrima.
+            E4                F#m7(11)/E  D6(9)
+  Que insiste   encontrar o chão.
+A5(9)          E4
+  Enquanto o frio toma meu corpo.
+F#m7(11)/E     D6(9)                  A5(9)
+    Eu aprendi       sem a gramática.
+              E4               F#m7(11)/E  D6(9)
+  Que saudade    não tem tradução.
+
+
+Refrão:
+A9             A9/E
+   Eu preciso tanto de você.
+F#m7(11)            D5(9)
+   O seu amor e o que me faz crescer.
+A9            A9/E           F#m7(11)
+   E conhece como a própria mão.
+      D5(9)
+Cada medo do meu coração.
+
+A9              A9/E
+   Hoje pensei tanto em nos dois.
+F#m7(11)          D5(9)
+   Que não podia deixar pra depois.
+A9             A9/E        F#m7(11)  D5(9)
+   E eu vim aqui só pra dizer.
+    D5(9)
+Que eu sou louco pôr você.
+
+A9              A9/E
+   Hoje pensei tanto em nos dois.
+F#m7(11)          D5(9)
+   Que não podia deixar pra depois.
+A9             A9/E        C#m7   C#m7(11)
+   E eu vim aqui só pra dizer.
+
+    D5(9)               C#m7 C#m7(11)
+Que eu sou louco pôr você.
+
+----------------- Acordes -----------------
+A5(9) = X 0 2 2 0 0
+A9 = X 0 7 6 0 5
+A9/E = 0 0 7 6 0 5
+C#m7 = X 4 2 1 0 0
+C#m7(11) = X 4 2 2 0 0
+D5(9) = X X 0 2 3 5
+D6(9) = X X 0 2 0 0
+E4 = 0 2 2 2 0 0
+F#m7(11) = 2 X 2 2 0 0
+F#m7(11)/E = 0 4 4 2 0 0

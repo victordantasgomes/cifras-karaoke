@@ -1,0 +1,77 @@
+@titulo: cantai
+@autor:
+@intérprete: Ministério Apascentar de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Apascentar de Louvor (Toque No Altar) - Cantai
+
+Intro: :: Gm  Am7  C/D : Gm  F9/A  Dm7 : Gm  F/A  C/D : Bb9  C ::
+
+F          Am7
+  És minha força
+Bb         C#dim
+  És minha rocha
+F          Am7
+  És meu escudo
+Bb          C#dim
+  Minha cidadela
+F          Am7
+  És meu socorro
+Bb           C#dim
+  Minha segurança
+F          Am7
+És meu refúgio
+Bb           C#dim
+  Minha fortaleza
+
+Bb9          Am7 Bb9           Am7
+És o meu amado,   o Cordeiro Santo
+
+
+Gm7    Am7    Bb9        C
+Santo, santo, santo és Senhor Jesus
+
+Bb9               Am7
+  Os meus olhos estão em Ti
+Bb9              Am7  Dm7   C    Bb9
+  A minha alma deseja Te adorar
+                    Am7
+Em tua presença sou como criança
+     Bb9      Am7
+Procurando os Teus braços
+    Dm7      C
+Pra me entregar
+Bb9                        Am7
+  Quero encostar-me em Teu peito
+Bb9                   Am7     Dm7     C   Bb9
+  Só para ouvir as batidas do Teu coração
+                   Am7
+E transbordando no Teu amor
+Eb7M            Dm7   C
+Declarar que Te amo Senhor 2x
+Voltar:  :: F  Bb  Am : C/D  F/A  Bb  C ::
+       Jesus
+
+Final: :: Gm  Am7  C/D : Gm  F9/A  Dm7 : Gm  F/A  C/D : Bb9  C ::
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+C#dim = X 4 5 3 5 3
+C/D = X X 0 0 1 0
+Dm7 = X 5 7 5 6 5
+Eb7M = X X 1 3 3 3
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F9/A = 5 X X 5 6 3
+Gm = 3 5 5 3 3 3
+Gm7 = 3 X 3 3 3 X

@@ -1,0 +1,483 @@
+import { useEffect, useMemo, useRef, useState } from 'react'
+import { useNavigate, useParams } from 'react-router-dom'
+import { useQuery } from '@tanstack/react-query'
+import api from '../services/api'
+import { usePlayerStore } from '../store/playerStore'
+import { usePlaylistStore } from '../store/playlistStore'
+import { useZoomStore } from '../store/zoomStore'
+import { useHotkeys } from '../hooks/useHotkeys'
+import { useAudioSync } from '../hooks/useAudioSync'
+import { resolveTimeline, estimateSynthDuration } from '../utils/timeline'
+import { buildStepWindow } from '../utils/steps'
+import { playClick } from '../utils/clickSound'
+import { buildChordTimeline } from '../utils/chordTimeline'
+import { buildBeatGrid } from '../utils/beatGrid'
+import { BandSynth } from '../utils/bandSynth'
+import { SynthClock } from '../utils/synthClock'
+import KaraokeLines from '../components/KaraokeLines'
+
+const ROW_BUDGET = 16
+const COUNTDOWN_SECONDS = 3
+
+/**
+ * PLAYER KARAOKÊ (modo "karaoke", ver @modoexecucao) — tela cheia, fundo
+ * preto, fonte branca. Montado por KaraokePlayer.jsx quando a música está
+ * marcada para esse modo; o modo padrão "rolagem" usa ScrollPlayer.jsx.
+ * Janela por orçamento de linhas físicas (ver utils/steps.js): um passo
+ * acorde+letra ocupa 2 linhas, os demais 1. O passo em execução (pos-0) é
+ * destacado em âmbar/amarelo. O tipo de cada linha (letra/acorde/
+ * observação/solo/riff/tab/secao/sample) já vem classificado pelo backend.
+ *
+ * Três frentes de sincronismo:
+ *  - `hasAudio` (há faixa de referência enviada): o áudio real toca via
+ *    <audio>, e o índice de linha + a varredura de cor estilo CDG + o
+ *    disparo de samples seguem o `currentTime` real (useAudioSync).
+ *  - `synthMode` (sem áudio, mas com @bpm + algum instrumento ligado): um
+ *    `SynthClock` (utils/synthClock.js) imita a mesma interface de
+ *    <audio> que `useAudioSync` consome, tocando de verdade um
+ *    acompanhamento sintetizado (utils/bandSynth.js) a partir dos acordes
+ *    da cifra — o resto do motor de sincronismo nem sabe a diferença.
+ *  - modo legado (nem um nem outro): cronômetro fixo de `ms_per_line`,
+ *    como sempre funcionou — inalterado, para não regredir o acervo
+ *    existente. `audioMode` = `hasAudio || synthMode` liga as duas
+ *    primeiras frentes; só `hasAudio` decide se o elemento `<audio>` real
+ *    é montado.
+ */
+export default function KaraokeStage() {
+  const { slug } = useParams()
+  const navigate = useNavigate()
+  const player = usePlayerStore()
+  const playlist = usePlaylistStore()
+  const { zoom, zoomIn, zoomOut } = useZoomStore()
+  const [progress, setProgress] = useState(0) // modo legado (progresso dentro da linha)
+  const [controlsVisible, setControlsVisible] = useState(true)
+  const [audioDuration, setAudioDuration] = useState(null)
+  const [audioReady, setAudioReady] = useState(false)
+  const [rate, setRate] = useState(1)
+  const [sampleUrls, setSampleUrls] = useState({})
+  const hideTimer = useRef(null)
+  const stageRef = useRef(null)
+  const audioRef = useRef(null)
+  const sweepRootRef = useRef(null)
+  const progressFillRef = useRef(null)
+  const sampleAudioRefs = useRef({})
+  const autoStartedRef = useRef(null)
+  const [countdown, setCountdown] = useState(null) // null = sem contagem; número = segundos restantes
+  const countdownTimer = useRef(null)
+
+  // a rota /karaoke/:slug não desmonta o componente ao trocar de música
+  // (mesmo elemento de rota) — precisa resetar manualmente o que é
+  // específico da faixa anterior a cada troca de slug (ex.: tocando uma
+  // playlist, música após música).
+  useEffect(() => {
+    setAudioDuration(null)
+    setAudioReady(false)
+    clearInterval(countdownTimer.current)
+    setCountdown(null)
+  }, [slug])
+
+  // só considera "dentro de uma playlist" se a música atual da tela é
+  // mesmo a música atual da fila — evita ativar os controles de playlist
+  // por causa de um estado esquecido de uma sessão anterior
+  const inPlaylist = playlist.active && playlist.queue[playlist.index]?.song?.slug === slug
+
+  // staleTime/refetchOnWindowFocus desligados: um refetch em segundo plano
+  // (ex.: o navegador recupera o foco durante o show) chamaria player.load()
+  // de novo e resetaria a reprodução para o início — não é o que se quer
+  // no meio de uma apresentação.
+  const { data, isLoading } = useQuery({
+    queryKey: ['karaoke', slug],
+    queryFn: () => api.get(`/karaoke/${slug}`).then((r) => r.data),
+    staleTime: Infinity,
+    refetchOnWindowFocus: false,
+    refetchOnReconnect: false,
+  })
+
+  useEffect(() => {
+    if (data) player.load(data)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [data])
+
+  // faixa de referência: buscada como Blob (autenticado via axios — o store
+  // do Vercel Blob é privado, então o backend lê autenticado e devolve os
+  // bytes, igual fazia com o disco local antes) — só quando existe, e sem
+  // travar o resto da tela enquanto baixa. Nunca refetcha sozinha (foco de
+  // janela, remount etc.) — trocar o <audio src> no meio de uma
+  // apresentação reseta a reprodução (volta pro início).
+  const { data: audioBlob } = useQuery({
+    queryKey: ['karaoke-audio', slug],
+    queryFn: () => api.get(`/songs/${slug}/audio`, { responseType: 'blob' }).then((r) => r.data),
+    enabled: Boolean(data?.has_audio),
+    staleTime: Infinity,
+    refetchOnWindowFocus: false,
+    refetchOnReconnect: false,
+  })
+
+  useEffect(() => {
+    if (!audioBlob || !audioRef.current) return
+    const url = URL.createObjectURL(audioBlob)
+    audioRef.current.src = url
+    setAudioReady(true)
+    return () => URL.revokeObjectURL(url)
+  }, [audioBlob])
+
+  // samples: cada um vira um <audio> próprio, pré-carregado como Blob
+  useEffect(() => {
+    let cancelled = false
+    setSampleUrls({})
+    if (!data?.has_audio || !player.samples.length) return undefined
+    Promise.all(player.samples.map((s) =>
+      api.get(`/songs/${slug}/samples/${s.id}`, { responseType: 'blob' })
+        .then((r) => [s.id, URL.createObjectURL(r.data)])
+        .catch(() => [s.id, null]),
+    )).then((pairs) => { if (!cancelled) setSampleUrls(Object.fromEntries(pairs)) })
+    return () => { cancelled = true }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [slug, data?.has_audio, player.samples.length])
+
+  useEffect(() => () => {
+    Object.values(sampleUrls).forEach((u) => u && URL.revokeObjectURL(u))
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
+
+  // duração real (via onLoadedMetadata, só quando há áudio de verdade) ou
+  // estimada (sem âncora suficiente pra saber o fim exato da música só-
+  // sintetizada, ver utils/timeline.js::estimateSynthDuration)
+  const synthDuration = useMemo(
+    () => (player.synthMode ? estimateSynthDuration(player.steps, player.bpm) : null),
+    [player.synthMode, player.steps, player.bpm],
+  )
+  const effectiveDuration = player.hasAudio ? audioDuration : synthDuration
+
+  // passos (acorde+letra já agrupados, ver utils/steps.js) com tempo
+  // resolvido (âncoras [t=SEG] + interpolação) — só em modo áudio
+  const resolvedSteps = useMemo(
+    () => (player.audioMode ? resolveTimeline(player.steps, effectiveDuration, player.msPerLine) : []),
+    [player.audioMode, player.steps, effectiveDuration, player.msPerLine],
+  )
+
+  // linha do tempo de acordes + grade de batidas do acompanhamento
+  // sintetizado — só quando ele está de fato ligado nesta música
+  const chordTimeline = useMemo(
+    () => (player.synthMode && effectiveDuration != null ? buildChordTimeline(resolvedSteps, effectiveDuration) : []),
+    [player.synthMode, resolvedSteps, effectiveDuration],
+  )
+  const beatGrid = useMemo(
+    () => (player.synthMode && player.bpm && effectiveDuration != null ? buildBeatGrid(player.bpm, effectiveDuration) : null),
+    [player.synthMode, player.bpm, effectiveDuration],
+  )
+
+  // cria/destrói o AudioContext + BandSynth + SynthClock a cada troca de
+  // música (a rota não desmonta o componente numa playlist) — precisa vir
+  // ANTES do useAudioSync(...) abaixo na ordem dos hooks, pra garantir que
+  // audioRef.current já aponte pro SynthClock quando o efeito dele rodar.
+  useEffect(() => {
+    if (!player.synthMode || effectiveDuration == null || !beatGrid) return undefined
+    const Ctor = window.AudioContext || window.webkitAudioContext
+    const ctx = new Ctor()
+    const bandSynth = new BandSynth(ctx, {
+      chordTimeline, beatGrid: beatGrid.beats, instruments: player.instrumentos, duration: effectiveDuration,
+    })
+    const clock = new SynthClock(ctx, bandSynth, { duration: effectiveDuration })
+    audioRef.current = clock
+    return () => { clock.pause(); ctx.close() }
+  }, [player.synthMode, slug, chordTimeline, beatGrid, effectiveDuration, player.instrumentos])
+
+  useAudioSync({
+    audioRef, resolvedLines: resolvedSteps, samples: player.samples, sampleAudioRefs,
+    sweepRootRef, progressFillRef, audioDuration: effectiveDuration, onIndexChange: player.setIndex,
+  })
+
+  // relógio legado: avança 1 linha a cada msPerLine (só quando não há áudio)
+  useEffect(() => {
+    if (player.audioMode) return
+    if (!player.playing) return
+    const startedAt = performance.now()
+    const tick = setInterval(() => {
+      setProgress(Math.min(1, (performance.now() - startedAt) / player.msPerLine))
+    }, 100)
+    const step = setTimeout(() => {
+      if (player.atEnd()) onSongEnd()
+      else player.next()
+      setProgress(0)
+    }, player.msPerLine)
+    return () => { clearTimeout(step); clearInterval(tick) }
+  }, [player.audioMode, player.playing, player.index, player.msPerLine]) // eslint-disable-line
+
+  // modo áudio: play/pause da store controla o elemento <audio>
+  useEffect(() => {
+    if (!player.audioMode || !audioRef.current) return
+    if (player.playing) audioRef.current.play().catch(() => player.pause())
+    else audioRef.current.pause()
+  }, [player.audioMode, player.playing]) // eslint-disable-line
+
+  // auto-ocultar controles
+  const poke = () => {
+    setControlsVisible(true)
+    clearTimeout(hideTimer.current)
+    hideTimer.current = setTimeout(() => setControlsVisible(false), 2500)
+  }
+  useEffect(() => { poke(); return () => clearTimeout(hideTimer.current) }, [])
+  useEffect(() => () => clearInterval(countdownTimer.current), [])
+
+  const toggleFullscreen = () => {
+    if (document.fullscreenElement) document.exitFullscreen()
+    else stageRef.current?.requestFullscreen?.()
+  }
+
+  const canPlay = !player.audioMode || (player.hasAudio ? audioReady : effectiveDuration != null)
+
+  const seekToIndex = (i) => {
+    if (!resolvedSteps.length) return
+    const clamped = Math.max(0, Math.min(i, resolvedSteps.length - 1))
+    if (audioRef.current) audioRef.current.currentTime = resolvedSteps[clamped].t
+  }
+  const seekToFraction = (frac) => {
+    if (!audioRef.current || !effectiveDuration) return
+    audioRef.current.currentTime = Math.max(0, Math.min(1, frac)) * effectiveDuration
+  }
+  const restart = () => {
+    if (player.audioMode) { if (audioRef.current) audioRef.current.currentTime = 0 }
+    else { player.restart(); setProgress(0) }
+  }
+  const goPrev = () => {
+    if (player.audioMode) seekToIndex(player.index - 1)
+    else { player.prev(); setProgress(0) }
+  }
+  const goNext = () => {
+    if (player.audioMode) seekToIndex(player.index + 1)
+    else { player.next(); setProgress(0) }
+  }
+  const adjustRate = (delta) => {
+    if (player.audioMode) {
+      if (!audioRef.current) return
+      const next = Math.min(1.5, Math.max(0.5, +(rate + delta).toFixed(2)))
+      audioRef.current.playbackRate = next
+      setRate(next)
+    } else if (delta > 0) player.faster()
+    else player.slower()
+  }
+  // contagem regressiva antes de CADA execução de uma música sincronizada
+  // (áudio real) — dispara sempre que o áudio está no começo (currentTime
+  // ~0), tanto ao abrir/retomar a música manualmente quanto ao avançar
+  // automaticamente pra próxima música de uma playlist. Retomar de uma
+  // pausa no meio da música não conta (currentTime já não está no início).
+  // Cada número (3, 2, 1) vem com um clique de baqueta — inclusive o
+  // instante final, quando a contagem acaba e a música começa de verdade,
+  // como um baterista contando "1-2-3-4" com a última batida coincidindo
+  // com a entrada da banda.
+  const startCountdown = (onDone) => {
+    setCountdown(COUNTDOWN_SECONDS)
+    playClick()
+    clearInterval(countdownTimer.current)
+    countdownTimer.current = setInterval(() => {
+      playClick()
+      setCountdown((c) => {
+        if (c <= 1) {
+          clearInterval(countdownTimer.current)
+          onDone()
+          return null
+        }
+        return c - 1
+      })
+    }, 1000)
+  }
+  const skipCountdown = () => {
+    clearInterval(countdownTimer.current)
+    setCountdown(null)
+    player.play()
+  }
+  const beginPlayback = () => {
+    if (countdown != null) return
+    const nearStart = !audioRef.current || audioRef.current.currentTime < 0.5
+    if (player.audioMode && nearStart) startCountdown(() => player.play())
+    else player.play()
+  }
+  const togglePlay = () => {
+    if (!canPlay) return
+    if (countdown != null) { skipCountdown(); return }
+    if (player.playing) player.pause()
+    else beginPlayback()
+  }
+
+  // navegação entre músicas de uma playlist ativa — distinta da navegação
+  // por linha (← →) já existente
+  const goNextSong = () => {
+    const nextSlug = playlist.advance()
+    if (nextSlug) navigate(`/karaoke/${nextSlug}`, { replace: true })
+    else navigate(`/setlists/${playlist.setlistId}`)
+  }
+  const goPrevSong = () => {
+    const prevSlug = playlist.back()
+    if (prevSlug) navigate(`/karaoke/${prevSlug}`, { replace: true })
+  }
+  const stopPlaylist = () => {
+    playlist.stop()
+    navigate(`/setlists/${playlist.setlistId}`)
+  }
+  const onSongEnd = () => { if (inPlaylist) goNextSong(); else player.pause() }
+
+  // fim de música em modo sintetizado: não existe elemento <audio> real
+  // pra disparar onEnded, então escuta o evento 'ended' que o SynthClock
+  // já dispara sozinho (ver utils/synthClock.js)
+  useEffect(() => {
+    const clock = audioRef.current
+    if (!player.synthMode || !(clock instanceof SynthClock)) return undefined
+    const handler = () => onSongEnd()
+    clock.addEventListener('ended', handler)
+    return () => clock.removeEventListener('ended', handler)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [player.synthMode, slug])
+
+  // reprodução contínua: ao entrar numa música nova dentro de uma playlist
+  // ativa, retoma o play assim que ela estiver pronta. Precisa esperar
+  // `data.slug === slug` (ou seja, que o efeito de player.load(data) já
+  // rodou pra ESTA música) — senão o load() que ainda vai rodar reseta
+  // playing:false por cima do play() que acabamos de disparar aqui.
+  useEffect(() => {
+    if (!data || data.slug !== slug) return
+    if (!inPlaylist || !canPlay) return
+    if (autoStartedRef.current === slug) return
+    autoStartedRef.current = slug
+    beginPlayback()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [data, inPlaylist, canPlay, slug])
+
+  useHotkeys({
+    Space: togglePlay,
+    ArrowLeft: goPrev,
+    ArrowRight: goNext,
+    ArrowUp: () => adjustRate(0.1),
+    ArrowDown: () => adjustRate(-0.1),
+    r: restart,
+    R: restart,
+    Escape: () => navigate(-1),
+    f: toggleFullscreen,
+    F: toggleFullscreen,
+    '+': zoomIn,
+    '=': zoomIn,
+    '-': zoomOut,
+    '_': zoomOut,
+  }, [player, canPlay, resolvedSteps, rate, countdown])
+
+  if (isLoading || !data) {
+    return <div className="karaoke-stage controls-visible"
+      style={{ display: 'grid', placeItems: 'center' }}>Carregando cifra…</div>
+  }
+
+  // JANELA POR ORÇAMENTO DE LINHAS FÍSICAS — um passo 'pair' (acorde+letra)
+  // ocupa 2 linhas; um passo 'single' ocupa 1. Nunca ultrapassa ROW_BUDGET.
+  const lineWindow = buildStepWindow(player.steps, player.index, ROW_BUDGET)
+
+  // mesma janela, mas a partir dos passos com TEMPO RESOLVIDO — só em modo
+  // áudio, pra desenhar a mini-linha do tempo vertical (item 6) com o
+  // espaçamento proporcional ao tempo real entre os passos visíveis.
+  const timelineWindow = player.audioMode ? buildStepWindow(resolvedSteps, player.index, ROW_BUDGET) : []
+
+  return (
+    <div ref={stageRef}
+      className={`karaoke-stage${controlsVisible ? ' controls-visible' : ''}`}
+      style={{ '--k-zoom': zoom }}
+      onMouseMove={poke} onClick={poke}>
+
+      {player.hasAudio && (
+        <audio ref={audioRef} preload="auto"
+          onLoadedMetadata={(e) => setAudioDuration(e.target.duration)}
+          onEnded={onSongEnd} />
+      )}
+      {player.audioMode && player.samples.map((s) => (
+        <audio key={s.id} ref={(el) => { sampleAudioRefs.current[s.id] = el }}
+          src={sampleUrls[s.id] || undefined} preload="auto" />
+      ))}
+
+      <div className="k-header">
+        <div>
+          {inPlaylist && <>Setlist: {playlist.setlistNome} · música {playlist.index + 1}/{playlist.queue.length} · </>}
+          {data.titulo} — {data.interprete} {data.tom && <>· Tom: {data.tom}</>}
+          {player.synthMode && <> · 🎸 acompanhamento sintetizado</>}
+        </div>
+        <div>
+          {player.audioMode
+            ? <>linha {player.index + 1}/{player.steps.length} · {rate.toFixed(1)}x{player.hasAudio && !audioReady && ' · carregando áudio…'}</>
+            : <>linha {player.index + 1}/{player.steps.length} · {(player.msPerLine / 1000).toFixed(1)}s/linha</>}
+          {' · zoom '}{Math.round(zoom * 100)}%
+        </div>
+      </div>
+
+      <div className="k-lines" ref={sweepRootRef}>
+        <KaraokeLines window={lineWindow}
+          sweep={player.audioMode} keyPrefix={player.index} />
+      </div>
+
+      {typeof timelineWindow[0]?.tEnd === 'number' && (() => {
+        // buildStepWindow completa o fim da janela com passos de
+        // preenchimento (fim da música) que não têm tEnd real — filtra
+        // fora antes de calcular o intervalo total, senão um único NaN
+        // contamina a proporção de todos os segmentos.
+        const realSteps = timelineWindow.filter((s) => typeof s.tEnd === 'number')
+        const start = realSteps[0].t
+        const span = Math.max(0.001, realSteps[realSteps.length - 1].tEnd - start)
+        return (
+          <div className="k-timeline">
+            {realSteps.map((step, i) => {
+              const top = ((step.t - start) / span) * 100
+              const height = Math.max(2, ((step.tEnd - step.t) / span) * 100)
+              return (
+                <div key={i} className={`k-timeline-seg${i === 0 ? ' active' : ''}`}
+                  style={{ top: `${top}%`, height: `${height}%` }}>
+                  {i === 0 && <div className="k-timeline-fill" />}
+                </div>
+              )
+            })}
+          </div>
+        )
+      })()}
+
+      {player.audioMode ? (
+        <div className="k-progress audio-mode"
+          onClick={(e) => {
+            const rect = e.currentTarget.getBoundingClientRect()
+            seekToFraction((e.clientX - rect.left) / rect.width)
+          }}>
+          <div ref={progressFillRef} />
+          {audioDuration && player.samples.map((s) => (
+            <div key={s.id} className="k-progress-tick"
+              style={{ left: `${Math.min(100, (s.t / audioDuration) * 100)}%` }}
+              title={s.nome} />
+          ))}
+        </div>
+      ) : (
+        <div className="k-progress"><div style={{ width: `${progress * 100}%` }} /></div>
+      )}
+
+      <div className="k-controls no-print">
+        {inPlaylist && <>
+          <button className="btn" onClick={goPrevSong} disabled={playlist.index === 0} title="Música anterior">⏮</button>
+        </>}
+        <button className="btn" onClick={restart} title="Reiniciar (R)">⟲</button>
+        <button className="btn" onClick={goPrev} title="Linha anterior (←)">←</button>
+        <button className="btn primary" onClick={togglePlay} disabled={!canPlay} title="Play/Pause (Espaço)">
+          {countdown != null ? `Pular (${countdown})` : player.playing ? 'Pausar' : 'Tocar'}
+        </button>
+        <button className="btn" onClick={goNext} title="Próxima linha (→)">→</button>
+        <button className="btn" onClick={() => adjustRate(-0.1)} title="Mais lento (↓)">−</button>
+        <button className="btn" onClick={() => adjustRate(0.1)} title="Mais rápido (↑)">+</button>
+        <button className="btn" onClick={zoomOut} title="Diminuir zoom (-)">A−</button>
+        <button className="btn" onClick={zoomIn} title="Aumentar zoom (+)">A+</button>
+        {inPlaylist && <>
+          <button className="btn" onClick={goNextSong} title="Próxima música">⏭</button>
+          <button className="btn danger" onClick={stopPlaylist} title="Parar playlist">■</button>
+        </>}
+        <button className="btn" onClick={toggleFullscreen} title="Tela cheia (F)">⛶</button>
+        <button className="btn ghost" onClick={() => navigate(-1)} title="Voltar (ESC)">Sair</button>
+      </div>
+
+      {countdown != null && (
+        <div className="k-countdown" onClick={skipCountdown}>
+          <div key={countdown} className="k-countdown-number">{countdown}</div>
+          <div className="k-countdown-label">Prepare-se… (clique ou Espaço pra pular)</div>
+        </div>
+      )}
+    </div>
+  )
+}

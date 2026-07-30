@@ -1,0 +1,58 @@
+@titulo: um-anjo
+@autor:
+@intérprete: KLB
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+KLB - Um anjo
+
+E                                 A        B
+Hoje eu sonhei com um anjo feito só pra mim
+            E                                        A  B
+Quem vai dizer pra onde a gente vai quando acaba o amor
+             F#m      A            C#m     A
+Se tudo terminou suas asas vão me proteger
+            D                  A/C#
+E quando a noite chega aqui eu deito pra pensar
+    E                   D    A/C#       E
+Na luz que se perdeu um anjo vem me beijar
+
+           B               C#m
+(E o seu amor suave como o vento
+                 A                 E
+Prazer sem julgamento que me faz voar
+            B                  C#m
+E quando a dor me torna mais covarde
+              A                  E/G#
+Eu sinto a coragem pra ser o que sou
+            F#m   D         A         E
+Por que pra sempre um anjo vem me beijar)
+
+E                                  A           B
+Quando eu fico mal e a dor parece não ter final
+          E                                A            B
+Olho pro céu , eu sei que as estrelas sempre vão brilhar
+    D                        A/C#
+E quando a noite vem estou sozinho sem ninguém
+   E           D        A/C#       E
+O céu se apagou um anjo vem me beijar
+( )
+
+Guita: Bm A E Bm F#m E
+
+( )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

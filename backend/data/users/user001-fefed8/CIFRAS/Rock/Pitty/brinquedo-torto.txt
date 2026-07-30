@@ -1,0 +1,125 @@
+@titulo: brinquedo-torto
+@autor:
+@intérprete: Pitty
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Pitty - Brinquedo Torto
+
+(intro)
+
+(Guitarra 1)
+
+E|--555555555555555----333333333333---555555555----------------------
+B|--555555555555555----333333333333---555555555----------------------
+G|-------------------------------------------------------------------
+D|-------------------------------------------------------------------
+A|-------------------------------------------------------------------
+E|-------------------------------------------------------------------
+
+(Guitarra 2)
+
+E|----------15-15--------
+B|-------13-------15-----
+G|-12-14--------------14-
+D|-----------------------
+A|-----------------------
+E|-----------------------
+
+(primeira parte)
+
+A5                       G5
+Esqueci as regras do jogo
+                    A5
+E não posso mais jogar
+A5
+Veio escrito na embalagem
+G5                  A5
+"Use e saia pra agitar"
+A5
+Vou com os outros pro abate
+G5                 A5
+O meu dono vai lucrar
+A5
+Seja cedo ou seja tarde
+G5                  A5
+Quando isso vai mudar?     (2x) A5 G5 A5 (abafando)
+
+( A5 G5 A5 ) (2x)
+
+A5
+Não me diga: "eu te disse"
+G5                  A5
+Isso não vai resolver
+A5
+Se eu explodo o meu violão
+G5                   A5
+O que mais posso fazer?
+A5
+Isso é tão desconfortável
+G5                  A5
+Me ensinaram a fingir
+A5
+E se eu for derrotado
+G5                   A5
+Nem sei como me render      (A5  G5  A5) (2x) (abafando)
+
+(refrão 2x)
+
+A5                 G5             A5
+E eu me vendo como um brinquedo torto
+A5                 G5
+E eu me vendo como uma estátua
+
+(guitarra 1)
+
+E|--555555555555555----333333333333---555555555----------------------
+B|--555555555555555----333333333333---555555555----------------------
+G|-------------------------------------------------------------------
+D|-------------------------------------------------------------------
+A|-------------------------------------------------------------------
+E|-------------------------------------------------------------------
+
+(guitarra 2)
+
+E|----------15-15--------
+B|-------13-------15-----
+G|-12-14--------------14-
+D|-----------------------
+A|-----------------------
+E|-----------------------
+
+A5                       G5
+Esqueci as regras do jogo
+                    A5
+E não posso mais jogar
+A5
+Veio escrito na embalagem
+G5                  A5
+"Use e saia pra agitar"
+A5
+Vou com os outros pro abate
+G5                 A5
+O meu dono vai lucrar
+A5
+Seja cedo ou seja tarde
+G5                  A5
+Quando isso vai mudar?
+
+( A5 G5 A5 ) (2x) (abafando)
+
+(refrão 4x)
+
+A5                 G5             A5
+E eu me vendo como um brinquedo torto
+A5                 G5
+E eu me vendo como uma estátua
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+G5 = 3 5 5 X X X

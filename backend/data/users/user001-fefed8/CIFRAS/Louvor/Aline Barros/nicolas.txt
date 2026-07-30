@@ -1,0 +1,112 @@
+@titulo: nicolas
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Nicolas
+
+INTRO:     D9     G/D     D9     A/C#   G/B  A/C#
+
+(Parte A)
+D                                                 G/D            D
+Nasce um fruto de um grande amor, pai.
+D                                               A            G/A       D
+Os meus olhos podem contemplar
+D                                        G/D            D
+Expressão maior do teu poder, pai.
+D                                     A
+É tanta alegria no meu coração
+       G/B                            A/C#
+E mesmo chorando ou sorrindo
+       G/D                                 A4          A        D
+Tua doce voz me diz que és fiel
+
+(Parte B)
+D                                  G/D            D
+O maior milagre aconteceu pai
+D                                     A                  G/A      D
+Novo coração pulsando como o teu
+
+D                                           G              D
+Momento lindo em que recebemos
+D                                   A
+Nicolas é o fruto que o Senhor nos deu
+    G/B                             A/C#
+Vitorioso quer dizer seu nome
+     G/D                                 A4        A
+Menino precioso aos olhos teus
+
+(CORO)
+G    D    G        A       G
+Eu vou profetizar
+        D     G          A
+Sua vida frutos dará
+G    D                G           A
+Eu sei que por onde passar
+          G/B               A/C#              D
+Uma nova história, Deus escreverá.
+
+INTRO     D9     G/D     D9     A/C#   G/B  A/C#
+
+(parte B)
+O maior milagre aconteceu...
+
+(CORO)
+Eu vou profetizar....
+
+(Ponte)
+C                                            G/B
+Consagramos nosso filho
+G/B
+Nos teus braços o entregamos
+D/A
+Bem cuidado estará
+           A4                   A            A  G/B  C
+Se estiver em tuas mãos
+C                                              G/B
+Muito mais do que palavras
+G/B
+São teus planos e projetos
+A4                              A
+Creio em Ti, pois infinitamente mais fará.
+F#m7    E    A        B       A
+Eu        vou profetizar
+        E     A            B
+Sua vida frutos dará
+A    E                 A           B
+Eu sei que por onde passar
+          A/C#             B/D#              E
+Uma nova história, Deus escreverá.
+          A/E               B/E              C#m7     E/B
+Uma nova história, Deus escreverá.
+          A                    A/B                            E          A/E       E        A/E         E
+Uma nova história, Deus escreverá.
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A4 = X 0 2 2 3 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B/E = X 7 9 8 7 7
+C = X 3 2 0 1 0
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X

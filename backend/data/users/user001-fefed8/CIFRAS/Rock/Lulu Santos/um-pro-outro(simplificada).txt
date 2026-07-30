@@ -1,0 +1,53 @@
+@titulo: um-pro-outro(simplificada)
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - Um Pro Outro
+
+[Intro] G  A7  Em  A7  G  A7  D
+
+G                A7            D
+  Foi bom te ver de novo aqui
+G              A7                D             G
+  A gente tinha mesmo tanta razão pra seguir
+              Em              C                 E/G#                Am7   D
+  Fora o som dessa guitarra a voz sempre rouca e o coração na mão
+G                  A7            D  G         A7           D              G
+  Surpresa certa te encontrar a tua onda pega bem mesmo em qualque lugar
+                 Em           C              E/G#          Am7   D
+  Até na esquina do pecado o que for da vida não nos deterá
+C                   D                 Em  D        C  Am7              B7  Em
+  Nós somos feitos um pro outro, pode crer por isso é que eu estou aqui
+C             D              Em D   C    Am7          B7    Em
+  E não há lógica que faça desandar o que o acaso decidir
+
+( G  A7  Em  A7  G  A7  D )
+
+G             A7         D   G               A7            D       G
+  Tanta certeza no olhar, tamanha pressa de chegar a nenhum lugar
+
+            Em           C                 E/G#           Am7     D
+  Só pra ter a sensação de que a vida passa assim como um tufão
+C                   D                 Em  D        C  Am7              B7   Em
+  Nós somos feitos um pro outro, pode crer por isso é que eu estou aqui
+C             D              Em D   C    Am7          B7    Em
+  E não há lógica que faça desandar o que o acaso decidir
+
+ ( G  A7  Em  A7  G  A7  D )
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

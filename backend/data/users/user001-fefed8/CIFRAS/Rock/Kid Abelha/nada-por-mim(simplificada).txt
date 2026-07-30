@@ -1,0 +1,57 @@
+@titulo: nada-por-mim(simplificada)
+@autor:
+@intérprete: Kid Abelha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kid Abelha - Nada Por Mim
+
+[Intro]   D7+  Em7  Am  D7  Bm  Gm  D
+
+D7+       Em7         Am
+Você me tem fácil demais
+         D7      Bm      Gm               D
+Mas não parece capaz de cuidar do que possui
+ D7+     Em7        Am                 D7       Bm
+Você sorriu e me propôs que eu te deixasse em paz
+          Gm          D
+Me disse vá e eu não fui
+
+ D7+         Em7   Am          D7      Bm
+Não faça assim,     não faça nada por mim
+           Gm               D
+Não vá pensando que eu sou seu
+
+ D7+     Em7       Am
+Você me diz o que fazer
+          D7         Bm            Gm             D
+Mas não procura entender que eu faço só prá te agradar
+ D7+     Em7         Am              D7        Bm
+Me diz até o que vestir, com quem andar, aonde ir
+
+            Gm          D
+Mas não me pede prá voltar
+
+ D7+         Em7   Am          D7       Bm
+Não faça assim,     não faça nada por mim
+           Gm               D
+Não vá pensando que eu sou seu
+
+ D7+         Em7   Am          D7      Bm
+Não faça assim,     não faça nada por mim
+           Gm               D
+Não vá pensando que eu sou seu
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+D7+ = X X 0 2 2 2
+Em7 = 0 2 2 0 3 0
+Gm = 3 5 5 3 3 3

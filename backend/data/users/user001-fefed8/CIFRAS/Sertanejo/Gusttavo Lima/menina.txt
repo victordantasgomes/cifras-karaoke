@@ -1,0 +1,108 @@
+@titulo: menina
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Gusttavo Lima - Menina
+
+Capo Casa 2
+
+    G                  D4/F#            Em7         C9
+E|---3------------------3-----------------3----------3-x--3/5--|
+B|---3---3--------------3---3-------------3---3------3-x--3/5--|
+G|---0---0--------------2---2-------------0---0------0-x-------|
+D|--------------0h2----------------0-------------------x-------|
+A|----------0h2----------------0h2-----------------3---x--3/5--|
+E|-3---3--------------2---2-------------0---0------------------|
+
+    G           D4/F#         Em7         G/B C9
+E|---------------------------------------------------|
+B|---3---1--0----3---3\5/3-----3---3------3----3--3--|
+G|---0---0--0----2---2\4/2-----0---0------0----0--0--|
+D|---------------------------------------------------|
+A|----------------------------------------2--3----3--|
+E|-3---3-------2-------------0---0-------------------|
+
+G                           G   D4/F#
+Ainda sinto o gosto desse beijo seu
+Em7                        G/B
+Sinto o teu corpo colado no meu
+C9                                  G (solo 1)
+E as minhas mãos suando de tanto desejo
+
+
+E|-8-8h7p8-------------------|
+B|----------8----------------| (solo 1)
+G|--------------5\7--4--2h4--|
+D|---------------------------|
+
+G                             G   D4/F#
+O tempo vai passando e eu te amo mais
+Em7                         G/B
+Amores e paixões você é minha paz
+C9                            G  (Riff 1)
+Você no coração te amo em segredo
+
+E|--------------------|
+B|-------3p1----------| Riff 1
+G|-----0-----0--------|
+D|-0h2---------0h2p0--|
+A|--------------------|
+
+Am                    C                 G
+Nunca imaginei que um dia eu ia amar assim
+Am            G/B   C9                  D4  (Riff 2)
+O teu sorriso me completa vem cuidar de mim
+
+G|-----------|
+D|------0----| Riff 2
+A|--0h2------|
+E|-----------|
+
+Refrão:
+G                                G   D4/F#
+Menina se soubesse o quanto eu te amo é
+Em7                               G/B   C9
+Do tamanho do universo é praia é maré
+                                        D4  (Riff 3)
+Te amo mais que ontem menos do que amanhã
+
+B|------------------|
+G|---------------0--|
+D|------0--0-0h2----| Riff 3
+A|--0h2-------------|
+E|------------------|
+
+G                                     G     D4/F#
+Menina eu não tenho tantas palavras pra expressar
+Em7                     Em7
+Minhas palavras são de amor eu só sei cantar
+C9                                       D4/F#
+Declaro aqui agora que eu sou sempre seu fã,
+   G  Em7  C9  G  D4/F#  (Solo final)
+Menina...
+
+     D4               G
+E|--3--3-2h3p2-------3--|
+B|--3----------3-----3--|
+G|--2------------2---0--| Solo final
+D|--0----------------0--|
+A|-------------------2--|
+E|-------------------3--|
+
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+Am*  = X 0 2 2 1 0 - (*Bm na forma de Am)
+C*  = X 3 2 0 1 0 - (*D na forma de C)
+C9*  = X 3 5 5 3 3 - (*D9 na forma de C9)
+D4*  = X X 0 2 3 3 - (*E4 na forma de D4)
+D4/F#*  = 2 X X 2 3 3 - (*E4/G# na forma de D4/F#)
+Em7*  = 0 2 2 0 3 0 - (*F#m7 na forma de Em7)
+G*  = 3 2 0 0 0 3 - (*A na forma de G)
+G/B*  = X 2 0 0 3 3 - (*A/C# na forma de G/B)

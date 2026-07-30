@@ -1,0 +1,66 @@
+@titulo: dependente
+@autor:
+@intérprete: Anderson Freire
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Anderson Freire - Dependente
+
+  E                 B9                    A9
+Há como eu queria fazer, as coisas certas sem correr riscos
+ E                  B9                    A9
+Há como eu queria amar, e não ligar se eu não fosse correspondido
+
+C#m           E/G#              A5(9)                E/G#                  F#m
+Mais se fosse assim não haveria favor, não havia sob em mim o agir do Senhor
+      B9
+Grato sou pelo teu amor...
+
+  E                 B9                    A9
+Há como eu queria andar, em um corpo que so fosse incorruptível
+  E                 B9                    A9
+Há como eu queria colher, apenas frutos bons mais eu não consigo
+
+C#m             E/G#                A9     E/G#                             F#m
+Talvez se fosse assim eu não daria valor não buscaria em Deus melhorar o que sou
+A9                B9
+Ele é tudo o que eu preciso
+
+Refrão:
+
+E                      B9        C#m   A9  E           B9    C#m    A9
+Por mais que eu cresça sou uma criança, buscando no maior confiança
+E         B9          C#m    B9       A9
+Sou um aprendiz, o agir de deus em mim, por toda minha vida
+
+E          B9       C#m  A9  E            B9             C#m   A9
+Ele me fez ser dependente, de um pai que nunca esteve ausente
+       E      B    C#m      B    F#m   E/G#
+Sou um aprendiz, o agir de deus em mim...
+
+por toda minha vida
+
+  E                 B9                    A9
+Há como eu queria sorrir, na certeza que a dor não voltaria
+  E                 B9                    A9
+Há como eu queria chorar, so por motivos de grandes alegrias
+C#m           E/G#              A                E/G#                  F#m
+Mais se fosse assim não haveria favor, não haveria no meu peito o consolador
+      B9
+Grato sou pelo teu amor...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5(9) = X 0 2 2 0 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

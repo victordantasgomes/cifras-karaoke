@@ -1,0 +1,72 @@
+@titulo: eu-queria-uma-bomba
+@autor:
+@intérprete: Frejat
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Frejat - Eu Queria Uma Bomba
+
+Intro:  E  D F#m B7
+
+E          D          F#m                 B7
+Solidão a dois de dia, faz calor depois faz frio
+E          D                     F#m
+Você diz já foi e eu concordo contigo
+            B7/4           B7       E7/4 E7 D7/4 D7
+Você sai de perto eu penso em suicídio
+F#m                 B7/4      B7
+Mas no fundo eu nem ligo
+
+A           B7                  C#m      C#m/B
+Você sempre volta com as mesmas notícias
+A          B7
+Eu queria ter uma bomba,
+A            B7
+um flit paralisante qualquer
+A            G#m                   F#m    G#m
+Prá poder me livrar bem no último instante
+A                    B7
+Das tuas frases feitas,
+
+A                    E     D      E
+das tuas noites perfeitas, perfeitas
+
+E          D          F#m                 B7
+Solidão a dois de dia, faz calor depois faz frio
+E          D                     F#m
+Você diz já foi e eu concordo contigo
+            B7/4           B7       E7/4 E7 D7/4 D7
+Você sai de perto eu penso em suicídio
+F#m                 B7/4      B7
+Mas no fundo eu nem ligo
+
+A           B7                  C#m      C#m/B
+Você sempre volta com as mesmas notícias
+A          B7
+Eu queria ter uma bomba,
+A            B7
+um flit paralisante qualquer
+A               G#m                  F#m   G#m
+Pra poder te negar, bem no último instate
+A                     B7    A                E        D       E
+Meu mundo que você não vê, meu sonho que você não crê, não crê
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+B7/4 = X 2 4 2 5 2
+C#m = X 4 6 6 5 4
+C#m/B = 7 X 6 6 5 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+D7/4 = X X 0 2 1 3
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+E7/4 = 0 2 0 2 0 X
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,89 @@
+@titulo: pulsos
+@autor:
+@intérprete: Pitty
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Pitty - Pulsos
+
+[Intro]  E5  C5
+
+E5                  C5
+   E um dia se atreveu
+   A olhar pro alto
+E5                            C5
+   Tinha um céu mas não era azul
+E5                   C5
+   No cansaço de tentar
+   Quis desistir
+E5         G5           B5  D5  A#5
+   Se é coragem eu não sei
+
+ C5
+Tenta achar que não é assim tão mal
+E5
+  Exercita a paciência
+  C5
+Guarda os pulsos pro final
+E5
+  Saída de emergência
+
+
+E5  C5
+
+[Solo]
+
+E|--------------------------------------------------------------------------------------------|
+B|-12\8--10\7----7-7-7/8---12\8--10\7----7-7-7\5---12\8---10\7----7-7-7/8---12\8--10\7-7b~~~~-|
+G|-------------7-----------------------7------------------------7-----------------------------|
+D|--------------------------------------------------------------------------------------------|
+A|--------------------------------------------------------------------------------------------|
+E|--------------------------------------------------------------------------------------------|
+
+E5                C5
+   E um dia desistiu
+Quis terminar
+E5                                C5
+   Só mais um gole e duas linhas horizontais
+E5               C5
+   Sem a menor pressa
+Calculadamente
+E5          G5           B5  D5  A#5
+  Depois do erro a redenção
+
+
+ E5  F#5  G#5  A5  E5  D5  C#5
+"AH Ha....Ah  HA...Ah HAAaaAAa"
+
+E|-7-7-7-7-5-5-5-5----------------------|
+B|---5--5--5--5--5--5--5--5-------------|
+G|--------------------------------------|
+D|--------------------------------------|
+A|--------------------------------------|
+E|_-------------------------------------|
+
+C5                  E5
+   Saída de emergência
+                 C5
+Saída de emergência
+                 E5
+Saída de emergência
+
+C5  E5
+
+----------------- Acordes -----------------
+A#5 = X 1 3 3 X X
+A5 = X 0 2 2 X X
+B5 = X 2 4 4 X X
+C#5 = X 4 6 6 X X
+C5 = X 3 5 5 X X
+D5 = X 5 7 7 X X
+E5 = 0 2 2 X X X
+F#5 = 2 4 4 X X X
+G#5 = 4 6 6 X X X
+G5 = 3 5 5 X X X

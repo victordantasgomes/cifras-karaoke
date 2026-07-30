@@ -1,0 +1,124 @@
+@titulo: rise
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Rise
+
+Solo-> (G C9 D)
+
+Riff 1
+
+E|-----10----|
+B|---8-------|
+G|-7---------|
+D|-----------|
+A|-----------|
+E|-----------|
+
+G               C9   D          G  C9 D
+I could be wrong, I could be right
+G               C9   D          G  C9 D
+I could be wrong, I could be right
+
+Riff 2
+E|-5--7-7-7-5-7-7-7-7-5|
+B|-8--8-8-8-8-8-8-8-8-8|
+G|---------------------|
+D|---------------------|
+A|---------------------|
+E|---------------------|
+
+
+G                   C9
+I could be wrong, I could be right
+D                   G
+I could be black, I could be white
+G                   C9
+I could be right, I could be wrong
+D                  G
+I could be white, I could be Black
+                                       C9
+Your time has come, your second skin
+D                    G
+The cost so high the gain so low
+                 C9
+Walk through the valley
+    D            G
+The written work is a lie
+<-- 4x
+             D         G
+May the road rise with you
+    D        G 
+E|--10----|--7--|
+B|--10----|--8--|
+G|--11----|--7--|
+D|--------|-----|
+A|--------|-----|
+E|--------|-----|
+
+<-
+Solo:(G C9 D) riff 1
+I Could be wrong, I could be right
+I could be black, I could be white
+
+G                   C
+I could be wrong, I could be right
+D                   G
+I could be black, I could be white
+G                   C9
+I could be right, I could be wrong
+D                  G
+I could be black, I could be white
+                               C9
+They put a hot wire to my head
+D                           G
+Cos of the things I did and said
+                               C9
+They made these feelings go away
+D                        G
+Model citizen in every way
+             D         G
+May the road rise with you
+
+(E Bm)
+
+e|-4---|--7--|
+B|-5---|--7--|
+G|-4---|--7--|
+D|-----|-----|
+A|-----|-----|
+E|-----|-----|
+
+E            Bm
+Anger is an energy
+E            Bm
+Anger is an energy
+E            Bm
+Anger is an energy
+E            Bm
+Anger is an energy
+Solo
+  Renato         Dado
+E|-3-*-*-*-*-3-|---10--------------------------------------|
+B|-3-*-*-*-*-3-|--8-----------3-----0----------------------|
+G|-0-*-*-*-*-0-|-7--------------------1h2p1-1---0----------|
+D|-0-*-*-*-*-0-|----------2-2---2-2-----------2------------|
+A|-2-*-*-*-*-2-|-------------------------------------------|
+E|-3-*-*-*-*-3-|-------------------------------------------|
+
+End: riff 1 (solo)
+
+----------------- Acordes -----------------
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3

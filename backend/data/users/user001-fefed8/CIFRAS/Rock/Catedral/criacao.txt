@@ -1,0 +1,64 @@
+@titulo: criacao
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Criação
+
+INTRO: 3X(G/C G/B) G/A G C
+C                     G/B
+Um dia discursa outro dia
+     Am          Em
+E a noite conhecimento
+         F        G
+A outra noite distante
+C                      G/B
+Fixos os meus olhos se orientam
+      Am         Em
+Nas estrelas, profundas,
+   F        G
+Intensas, imensas
+F             G      G/C G/B G/A
+E o que eles querem inventar?
+F         G         G/C     G/B  G/A
+Teorias inertes, se perdem em vão
+F         G         G/C G/B G/A
+Qual é o fundamento disso tudo?
+     F
+E a minha resposta
+
+        G
+Não me dão explicação
+G/C            G/B    F D/F#    G
+Quem criou o céu, a água e o ar?
+      G/C         G/B      F
+As estrelas e a fonte da vida
+D/F#        G
+Quem descobriu?
+    C    G/B           F
+Porque você teima em dizer
+    G              C
+Que é fruto de um nada?
+        G/B                  F
+Se esse nada você não sabe esconder
+     G
+Ele existe
+        3X(G/C G/B)G/A G
+Ele é Deus.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G/C = X 3 5 4 3 3

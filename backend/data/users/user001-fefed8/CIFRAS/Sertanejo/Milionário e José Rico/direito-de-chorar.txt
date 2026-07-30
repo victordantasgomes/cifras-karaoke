@@ -1,0 +1,47 @@
+@titulo: direito-de-chorar
+@autor:
+@intérprete: Milionário e José Rico
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Milionário e José Rico - Direito de Chorar
+
+(intro)  A E7 A E7 Bm7 E7 A C#m E7 Bm A E A
+
+A                               E7                   A
+Saudade por que você me judia tanto.
+                                   A7                           D
+Por que não acaba comigo, logo de uma vez.
+                       E7        Bm               E7                              A
+Quando vai o dia, quando vem a noite, é mais um tormento.
+                            E7                         D                   E7         A
+Se deito não durmo, e se durmo sonho com meu sofrimento.
+
+     E7     A
+Senhor!
+                            D                    E7
+Porque esse homem merece sofrer,
+                          A
+Tanto porque será?
+E7
+Senhor!
+D                                             E7
+Não suporto mais, tenha piedade.
+
+                                                      A
+Me de o direito, ao menos de chorar.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0

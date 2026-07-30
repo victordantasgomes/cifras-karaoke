@@ -1,0 +1,118 @@
+@titulo: a-fabula
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - A Fábula
+
+ [Intro] C#m
+
+E|----------4-x-4-|
+B|----------5-x-5-|
+G|-------4--6-x-6-|
+D|---4h6----6-x-6-|
+A|----------4-x-4-|
+E|----------------|
+
+C#m               A7+    G#m
+Era uma vez um planeta mecânico
+ B               A         Bbº
+Lógico, onde ninguém tinha dúvidas
+      C#m                  A7+        G#m
+Havia nome pra tudo e para tudo uma explicação
+      B                   A           Bbº
+Até o pôr-do-sol, sobre o mar era um gráfico
+
+    C#m                    A7+        G#m
+Adivinhar o futuro não era coisa de mágico
+       B           A        Bbº
+Era um hábito burocrático, sempre igual
+
+    C#m                   A7+      G#m
+Explicar emoções não era coisa ridícula
+       B           A       Bbº
+Havia críticos e métodos práticos
+
+       E                   C#m
+Cá pra nós, tudo era muito chato
+                A7+                    D  C#m  Bm  A
+Era tudo tão sensato, difícil de aguentar
+       E             E7
+Todos nos sabíamos de cor
+               A7+                   D  D7+  Bm7  A
+Como tudo começou e como iria terminar
+
+          C#m
+Mas de uma hora pra outra
+           A7+     G#m     B             A         Bbº
+Tudo o que era tão sólido desabou, no final de um século
+C#m                  A7+        G#m     B
+Raios de sol na madrugada de um sábado radical
+      A          Bbº
+Radical, foi a pá de cal
+
+Solo Bandolim
+        E                       C#m
+Não sei mais de onde foi que eu vim
+                     A7+                        D  F#m  Bm
+Por que é que estou aqui, para onde devo ir
+        E                 G#m
+Cá pra nós, é bem melhor assim
+               A7+              D  D7+  Bm7  A
+Desconhecer o início e ignorar o fim
+
+E|--------------------12-14--------|
+B|-14-12-14---12-14-----------14~--|
+G|---------------------------------|
+D|---------------------------------|
+A|---------------------------------|
+E|---------------------------------|
+
+E|-----------------------------------------------|
+B|-14-12-14------------------------------15~~~---|
+G|------------13-12-11-----11-14---11-14---------|
+D|----------------------14-----------------------|
+A|-----------------------------------------------|
+E|-----------------------------------------------|
+
+E|-------------------------------------------------------------------|
+B|-14-12-14-12-14-14-12-14-12-14-12-14-12-14-12-14-12-14-12-14-12-14-|
+G|-------------------------------------------------------------------|
+D|-------------------------------------------------------------------|
+A|-------------------------------------------------------------------|
+E|-------------------------------------------------------------------|
+
+E|-----------------------------------------------|
+B|-14-12-14------------------------------15~~~---|
+G|------------13-12-11-----11-14---11-14---------|
+D|----------------------14-----------------------|
+A|-----------------------------------------------|
+E|-----------------------------------------------|
+
+E|-----------|
+B|-14-12-14--|
+G|-----------|
+D|-----------|
+A|-----------|
+E|-----------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7+ = X 0 2 1 2 0
+B = X 2 4 4 4 2
+Bbº = X 1 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D7+ = X X 0 2 2 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

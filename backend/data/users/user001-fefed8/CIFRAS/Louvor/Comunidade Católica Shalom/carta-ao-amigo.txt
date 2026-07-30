@@ -1,0 +1,63 @@
+@titulo: carta-ao-amigo
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - Carta Ao Amigo
+
+Intro: F Am7 Bb7+ Bbm7
+
+F         F9           Bb7+          Bbm7
+A simplicidade de ser, gesto sincero de amor
+F               F9     Bb7+          C9
+Traz a beleza de Deus, numa pequena flor
+
+ C#º          Dm7           Am7
+olhar mais singelo, toque simples
+             Bb7+         C9
+tão belo, com voz no coração
+                Dm7            Am7
+te amar é expressar o mais profundo desejar
+       Bb7+                     Csus
+transformar minha vida na mais bela canção.
+
+           F         Am7           Bb7+               C9
+mostrar a ti a gratidão, viver bem mais do que a intenção
+ C#º   Dm7      Am7     Bb7+   C9
+de te amar, de todo o coração.
+           F         F9           Bb7+               C9
+mostrar a ti a gratidão, viver bem mais do que a intenção
+
+C#º   Dm7      Am7     Bb7+   C9
+de te amar, de todo o coração.
+
+Bb9         Bbm7              Am7        Dm7
+és a beleza tens a riqueza do meu jardim
+     Bb9       Am7     Gm7               C9
+és a flor mais bela que Deus colheu pra mim
+
+Bb9         Bbm7              Am7        Dm7
+           tens a riqueza do meu jardim
+     Bb9       Am7     Gm7               C9
+és a flor mais bela que Deus colheu pra mim.
+
+Final: Bb7+ Bbm7 F
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bb7+ = X 1 3 2 3 1
+Bb9 = X 1 3 3 1 1
+Bbm7 = X 1 3 1 2 1
+C#º = X 4 5 3 5 3
+C9 = X 3 5 5 3 3
+Csus = X 3 2 0 1 0
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+F9 = 1 3 5 2 1 1
+Gm7 = 3 X 3 3 3 X

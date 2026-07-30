@@ -1,0 +1,57 @@
+@titulo: quao-formoso-es
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - Quão Formoso És
+
+C            C/e
+Quão formoso és
+F     G/B   C
+Rei do universo
+F           C/E       
+Tua glória enche a terra
+Dm   Dm/C   G
+E enche os céus
+
+F                  G/F
+Tua glória enche a terra
+      Em    E/G#     Am
+Tua glória enche os céus
+                    C/D
+Tua glória enche minha vida
+G        ( Em  D/F# )
+Senhor
+
+      C         C/E            F        A
+Maravilhoso é estar em tua presença
+      Dm       Dm/C      G
+Maravilhoso é poder te adorar
+      Em       E      E/G#    Am
+Maravilhoso é tocar em tuas vestes
+      Dm       G              C
+Maravilhoso é te contemplar Senhor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+C/E = 0 3 2 0 1 0
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/F = 1 X X 0 0 3

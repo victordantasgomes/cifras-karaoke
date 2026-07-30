@@ -1,0 +1,70 @@
+@titulo: meu-tesouro
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Meu Tesouro
+
+Intro: F#  B  G#m  B
+
+      F#
+Há um lugar de paz
+
+E descanso em ti
+      B
+Onde chamas o meu nome
+
+   D#m
+Um amor maior
+       C#
+Nunca conheci
+    B
+Me apego ao teu abraço
+
+ C# F#/A# B                  D#m       C#
+Me satisfaz      um relance do teu amor
+ C# F#/A# B                D#m        C#
+Transformado sou pelo teu sangue Senhor
+
+
+Refrão:
+F#                      B
+Jesus, tu és o meu tesouro
+                  D#m        B
+Tudo o que sou eu rendo a ti
+F#                      B
+Jesus, tu és minha alegria
+               D#m         B
+Em gratidão me rendo a ti
+
+Intro: B  D#m  C#  B  F#  G#m  B
+
+  C#         D#m           F#/A#      B
+Maravilhoso é ser lugar da tua habitação
+   G#m                F#/A#
+Profundo e grande é o teu amor,
+    B     B/D#      C#
+Não há ninguém como tu
+
+Solo: B  D#m  C#      B  F# G#m  B
+         B  D#m  C#      E  B/D#  C#
+
+(Refrão)
+
+Final:  B
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C# = X 4 6 6 6 4
+D#m = X X 1 3 4 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+G#m = 4 6 6 4 4 4

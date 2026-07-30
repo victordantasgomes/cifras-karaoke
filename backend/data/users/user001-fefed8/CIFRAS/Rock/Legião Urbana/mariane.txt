@@ -1,0 +1,109 @@
+@titulo: mariane
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Mariane
+
+Intro: D5
+
+D5                      G
+ I've been working all day
+A4         A           D
+ I've been thinking a lot
+                       G
+ I've been doing some things
+A4         A        D5
+ That are not quite right
+ Bm                       G
+ I've been thinking about you
+   A4       A             D5
+ I've been thinking about you
+ Bm        Em   A      A4 A A7
+ When will you return?
+
+ D5                     G
+ I've been working all day
+   A4       A         D5
+ I've been thinking a lot
+
+                        G
+ I've been lost in the morning
+ A4       A           D5
+ I don't know what it costs
+ Bm       G        A     A4 A A7
+ Will you find me there?
+
+A           G
+ And I guess it's just a phase
+F#m                     Bm
+ I don't know where I'm going
+A           G
+ And I guess it's just a phase
+F#m                      Bm
+ I don't know where I'm going
+A            G
+ And I guess it's just a phase
+F#m                     Bm
+ I don't know where I'm going
+A              G
+ And I guess it's just a phase
+F#m                     Bm    A A4 A A7
+ I don't know where I'm going
+
+ D5                     G
+ I've been working all day
+ A                    D4  D
+ I've been thinking a lot
+   D5                   G
+ I've been lost in the morning
+  A                   D5
+ I don't know what it costs
+ Bm                  G
+ I don't think about you
+ A4        A       D5
+ I will be able to do
+   Bm      G     A   A4 A A7
+ Will you let me be?
+
+A              G
+ And I don't know where I'm going
+F#m                  Bm
+ I guess it's just a phase
+A            G
+ And I don't know where I'm going
+F#m                  Bm
+ I guess it's just a phase
+
+A             G
+ And I don't know where I'm going
+F#m                  Bm
+ I guess it's just a phase
+A             G
+ And I don't know where I'm going
+F#m                  Bm    A A4 A7
+ I guess it's just a phase
+
+             ( A  A4  A  A7 )
+ Vocalização Ooo... Ooo...
+
+        A
+ Just a phase
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D5 = X 5 7 7 X X
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

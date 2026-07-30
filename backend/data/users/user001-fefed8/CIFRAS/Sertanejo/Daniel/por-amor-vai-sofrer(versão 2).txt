@@ -1,0 +1,138 @@
+@titulo: por-amor-vai-sofrer(versão 2)
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Por Amor Vai Sofrer
+
+Tom: G#
+
+Intro: G  D/F#  Em  C
+
+Solo da intro:
+         G     D/F#   Em            C
+E|-----------------------|----------------------|
+B|-----------------------|----------------------|
+G|---2h4--7\2-2--7\2-2---|----------------------|
+D|-----------------------|---0---0h2-0---0h2-0--|
+A|-----------------------|-2---2-------2--------|
+E|-----------------------|----------------------|
+
+riff 1:
+E|------------------|
+B|-------1-----1-1--|
+G|-----0------------|
+D|---2-----0h2------|
+A|------------------|
+E|------------------|
+
+
+riff 2:
+
+E|------------|
+B|------------|
+G|------------|
+D|-0h2-2-2-0--|
+A|------------|
+E|------------|
+
+riff 3:
+
+E|-------------------------|
+B|-------------------------|
+G|-------0----------0------|
+D|---2-4---4-2--2-4---4-2--|
+A|-------------------------|
+E|-------------------------|
+
+1ª parte:
+G                    D/F#
+Por amor não vou morrer
+                   Em
+Mas eu posso te dizer
+(riff 1)  C
+  Vou sentir a sua falta
+     Am
+Vai doer, eu vou sofrer
+         C/D     (riff 2)
+Mas isso passa
+
+2ª parte:
+G                 D/F#
+Eu fiz tudo por você
+                    Em
+Mas agora eu posso ver
+(riff 3)  C
+   Que você nem ligou
+        Am                     C/D  ( C/E D/F# )
+Sou um caso que passou e vai embora
+
+Refrão:
+ G                         C
+Mas se um dia eu te encontrar
+                 Am
+E você quiser voltar
+                         C/D
+Talvez não esteja te esperando
+        C/E    D/F#      G
+Alguém tomou o seu lugar
+                     C
+E se você se arrepender
+                      Am
+Vai saber o que é sofrer
+     C/D  D         G
+Por amor,   vai sofrer.
+
+(Solo da Intro)
+
+Repete 2ª parte e Refrão
+
+(Sobe para G#, com solo) G# C# A#m C#
+
+ G#                         C#
+Mas se um dia eu te encontrar
+                 A#m
+E você quiser voltar
+                         C#/D#
+Talvez não esteja te esperando
+        C#/F    Eb/G     G#
+Alguém tomou o seu lugar
+                     C#
+E se você se arrepender
+                     A#m
+Vai saber o que é sofrer
+     C#/D# D#      G#
+Por amor,   vai sofrer.
+
+Solo final:
+         G#     Eb/G   Fm            C#           G#
+E|-----------------------|-----------------------4-|
+B|-----------------------|-----------------------4-|
+G|---3h5--8\3-3--8\3-3---|-----------------------5-|
+D|-----------------------|---1---1h3-1---1h3-1---6-|
+A|-----------------------|-3---3-------3---------6-|
+E|-----------------------|-----------------------4-|
+
+----------------- Acordes -----------------
+A#m = X 1 3 3 2 1
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#/D# = 11 X 11 10 9 X
+C#/F = X 8 X 6 9 9
+C/D = X X 0 0 1 0
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D/F# = 2 X 0 2 3 2
+Eb/G = 3 X 1 3 4 X
+Em = 0 2 2 0 0 0
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

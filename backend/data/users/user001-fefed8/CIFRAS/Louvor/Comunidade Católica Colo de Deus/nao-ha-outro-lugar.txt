@@ -1,0 +1,64 @@
+@titulo: nao-ha-outro-lugar
+@autor:
+@intérprete: Comunidade Católica Colo de Deus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Colo de Deus - Não Há Outro Lugar
+
+Intro: A9                    A9/C#                F#m7                A5/F
+E|-----------0---------|---------------------|---------------------|---------------------|
+B|----------------0----|-----------0---------|-----------0---------|-----------0---------|
+G|------2--------------|------2---------2----|------2---------2----|------2---------2----|
+D|---------------------|---------------------|---------------------|---------------------|
+A|-0-------------------|-4-------------------|---------------------|---------------------|
+E|---------------------|---------------------|-2-------------------|-1-------------------|
+
+                A9 A9/C# F#m7 A5/F             A9 A9/C# F#m7 A5/F
+    Em nome do Pai,                 e do seu Filho,
+                     A9 A9/C# F#m7 A5/F            A9 A9/C# F#m7 A5/F
+      do teu Santo Espírito              estamos aqui Senhor. (2x)
+
+          Bm7           A9        F#m7            E
+Pra te louvar, te bendizer, te adorar, te encontrar,
+         Bm7            A9
+pra te dizer: és meu Senhor!
+       G                                  A9 A9/C# F#m7 A5/F
+Não há outro lugar que eu possa estar, Senhor!
+       G                                  A9 A9/C# F#m7 A5/F
+Não há outro lugar que eu possa estar, Senhor!
+
+       G                                  A9 A9/C# F#m7 A5/F
+Não há outro lugar que eu possa estar, Senhor!
+
+Intro: A9                    A9/C#                F#m7                A5/F
+E|-----------0---------|---------------------|---------------------|---------------------|
+B|----------------0----|-----------0---------|-----------0---------|-----------0---------|
+G|------2--------------|------2---------2----|------2---------2----|------2---------2----|
+D|---------------------|---------------------|---------------------|---------------------|
+A|-0-------------------|-4-------------------|---------------------|---------------------|
+E|---------------------|---------------------|-2-------------------|-1-------------------|
+
+          Bm7           A9        F#m7           E
+Pra te louvar, te bendizer, te adorar, te encontrar,
+         Bm7            A9
+pra te dizer: és meu Senhor!
+       G                                  A9 A9/C# F#m7 A5/F
+Não há outro lugar que eu possa estar, Senhor!
+       G                                  A9 A9/C# F#m7 A5/F
+Não há outro lugar que eu possa estar, Senhor!
+       G                                  A9 A9/C# F#m7 A5/F
+Não há outro lugar que eu possa estar, Senhor!
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+Bm7 = X 2 4 2 3 2
+E = 0 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

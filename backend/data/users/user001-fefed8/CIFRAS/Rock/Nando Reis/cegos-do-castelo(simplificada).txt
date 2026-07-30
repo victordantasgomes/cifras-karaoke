@@ -1,0 +1,84 @@
+@titulo: cegos-do-castelo(simplificada)
+@autor:
+@intérprete: Nando Reis
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nando Reis - Cegos do Castelo
+
+Intro: C Fm (3x)
+
+C       Fm             C      Fm
+ Eu não quero mais mentir
+C       Fm                    C      Fm
+ Usar espinhos que só causam dor
+C                         Fm              C   Fm
+ Eu não enxergo mais o inferno que me atraiu
+C                Fm                 Am
+ Dos cegos do castelo me despeço e vou
+       F
+A pé até encontrar
+     Fm
+Um caminho, o lugar
+           (C  Fm)
+Pro que eu sou
+
+C       Fm             C      Fm
+ Eu não quero mais dormir
+C          Fm                    C    Fm
+ De olhos abertos me esquenta o sol
+
+C                       Fm                 C     Fm
+ Eu não espero que um revólver venha explodir
+C         Fm            Am
+ Na minha testa se anunciou
+        F
+ A pé a fé devagar
+           Fm
+ Foge o destino do azar
+         C    Fm
+ Que restou
+
+   C         F         C   F
+ E se você puder me olhar
+ C          F         C   F
+ Se você quiser me achar
+   C           Bb5(9)        G
+ E se você trouxer o seu lar
+
+C                            F
+  Eu vou cuidar, eu cuidarei dele
+           Bb5(9)
+ Eu vou cuidar
+    C
+ Do seu jardim
+                                 F
+Eu vou cuidar, eu cuidarei muito bem dele
+          Bb5(9)
+Eu vou cuidar
+                   Dm
+Eu cuidarei do seu   jantar
+            F                   C
+Do céu e do mar, e de você e de mim.
+
+
+E|-----------|
+B|-----------|
+G|-----------|
+D|-----------|
+A|-------1-3-|
+E|-0-1-3-----|
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb5(9) = X 1 3 3 1 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3

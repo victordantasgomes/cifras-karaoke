@@ -1,0 +1,39 @@
+@titulo: bom-dia-meu-irmao
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Bom Dia Meu Irmão
+
+E
+Bom dia, meu irmão, bom dia, meu irmão
+         A           B        E
+Esse é o dia que o Senhor nos deu.
+E
+Bom dia, meu irmão, bom dia, meu irmão
+        A            B       E
+Esse é o dia que o Senhor nos deu.
+
+A                  G#m       C#m
+Alegremo-nos, regozijemo-nos,
+         F#m           B       E  E7
+Esse é o dia que o Senhor nos deu.
+A                  G#m       C#m
+Alegremo-nos, regozijemo-nos,
+         F#m           B       E E7
+Esse é o dia que o Senhor nos deu
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

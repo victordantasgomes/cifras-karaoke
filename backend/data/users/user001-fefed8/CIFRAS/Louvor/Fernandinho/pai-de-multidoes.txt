@@ -1,0 +1,57 @@
+@titulo: pai-de-multidoes
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Pai de Multidões
+
+      B           F#
+Eu serei pai de multidões
+    G#m               E
+Tocarei em muitas gerações... (2x)
+
+[Solo] G#m  E
+
+E|--------------|           E|-----------|
+B|-----9--------|           B|-7--5------|
+G|-7/9---7h9-7h9|    3x     G|-----------|
+D|--------------|           D|-----------|
+A|--------------|           A|-----------|
+E|--------------|           E|-----------|
+
+            B          F#
+Eu vejo um povo tão distante
+          C#m             E
+Tão sozinho, buscando salvação
+           B        F#
+Eu vejo órfãos e viúvas
+         C#m                E
+Filhos pródigos tão longe do Pai
+
+
+      F#           E
+Consolar os que choram
+     B         F#
+Libertar os cativos
+    C#m       E
+Preparar o caminho
+     B          F#
+Anunciar tua salvação
+
+      B             F#
+Eu serei pai de multidões
+     G#m              E
+Tocarei em muitas gerações... (4x)
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,48 @@
+@titulo: ao-unico
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Ao Único
+
+ G           D/F#     Em      Em/D
+Ao único que é digno de receber
+   C         G/B      Am           D
+A honra e a Glória, a força e o poder.
+    G          G7
+Ao Rei Eterno, imortal,
+C          Cm
+invísivel, mas real.
+   Am        D          G   (D)   (D/F#)<-Segunda vez
+A Ele ministramos o louvor. (2x)
+
+   Em D     C            G
+Coroamos a Ti, oh Rei Jesus. (2x)
+    C           D
+Adoramos o Teu Nome,
+        B7             Em   Em/D
+nos rendemos aos Teus pés,
+       C            D           G  Em
+Consagramos todo o nosso ser a Ti.
+
+       C            D           G
+Consagramos todo o nosso ser a Ti.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

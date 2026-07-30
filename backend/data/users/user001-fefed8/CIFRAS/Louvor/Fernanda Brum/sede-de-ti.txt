@@ -1,0 +1,61 @@
+@titulo: sede-de-ti
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Sede de Ti
+
+Intro 2x:  C#m7  D9  E  F#m  C#m  D9  E4
+
+           C#m7      D9         E         F#m7
+sei que existe um rio que jorra de ti
+             C#m          D9            E      F#m
+Sei que existe uma fonte pra nos saciar
+         F#m7                        E     D9           C#m
+No      deserto         que um dia esteve em mim
+         Bm7          E4 E
+Uma fonte fez jorrar
+              F#m       D9       E             F#m
+Quero estar no teu rio        e   mergulhar
+          C#m7          D9      E               F#m
+Conhecer mais de ti e     me aprofundar
+     F#m7         E          C#m7               D9
+Navegar em tuas águas     ate    te encontrar
+
+                        A9
+Tenho cede de ti
+                E
+Do teu amor
+
+            F#m       F#m      D
+Sede da tua presença    senhor
+                  A9
+Vem me saciar
+                        E/G#
+Me faz transbordar
+                     F#m                        D9
+Me faz novamente uma fonte a jorrar
+
+Solo: F#m E C#m D9
+
+     D9                        F#m                     Bm7          E4 E
+A jorrar... a jorrar... a jorrar... a jorrar... a jorrar... a jorrar
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X

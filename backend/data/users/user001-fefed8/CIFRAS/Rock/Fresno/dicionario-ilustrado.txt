@@ -1,0 +1,58 @@
+@titulo: dicionario-ilustrado
+@autor:
+@intérprete: Fresno
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fresno - Dicionário Ilustrado
+
+
+Intro: (Eb  Ab  Fm  Bb  G7  Cm  Bb  Ab  Bb7)
+
+ Eb
+Mais de dois mil quilômetros longe daqui
+          Ab
+Não vejo jeito de me aproximar de ti
+          Fm
+Mas tu terás que me escutar,
+   Bb
+"mp3" vou te mandar
+      Ab    Bb         Eb
+pra que tu lembres de mim
+
+    Cm           Ab             Bb             Eb  Eb/D
+Fui eu que coloquei o meu sentimento na tua janela
+   Cm           Bb       Ab     Bb7
+Tu só disseste O.K. pra mim
+
+    Eb               Ab            F7                 Bb
+Se caso as minhas palavras não bastarem pra te convencer,
+
+               G7                 Cm
+saiba que nem mesmo toda essa distância
+     Bb     Ab         Bb   Bb7
+vai me separar do meu sonho
+
+             Eb          Ab            F7                Bb
+Que é de um dia eu me mudar de Porto Alegre pro teu coração
+    G7              Cm       Bb       Ab
+E você no meu imaginário do meu dicionário
+     Bb                  Ab      Gm Fm Eb
+ilustrando a palavra "razão" do meu viver
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Bb = X 1 3 3 3 1
+Bb7 = X 1 3 1 3 1
+Cm = X 3 5 5 4 3
+Eb = X 6 5 3 4 3
+Eb/D = X 5 5 3 4 3
+F7 = 1 3 1 2 1 1
+Fm = 1 3 3 1 1 1
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

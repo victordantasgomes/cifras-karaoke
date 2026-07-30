@@ -1,0 +1,65 @@
+@titulo: novo-som
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Novo Som
+
+     E          B/D# C#m
+Há sobre a terra um novo som
+        E   B/D#  C#m
+Há uma voz nova  a        soar
+     E          A    E/G#       B
+Uma perfeita sinfonia de       louvor.
+B    A/C#         B/D#      B
+Anjos  a            can      tar
+   B      A/C#  B/D#      B
+Com poder a pro      cla     mar
+B              A/C#       B/D#
+Posso ouvir os          céus
+   B              E    A/E E A/E
+Rompendo em louvor a Deus!
+ E
+Podes tu ouvir
+             E/G#
+O som que vem dos céus,
+A    E/G#
+Do trono de Deus
+F#m7         B
+Proclamando glória,
+   E       B/D#  C#m B/D# E
+Aleluia ao nosso Rei
+F#m7          B
+Proclamando glória,
+    E       E/G#      A9
+Aleluia ao nosso       Rei
+E  B/D#    C#m       B/D#        E     F#m      F#m/E        B/D#        B       E    E/G#    A9
+Alelu             ia,           a          le    lu                     ia,     a    lelu       ia
+
+         ( E  F#m7 E/G# A9 )
+Ao grande Deus...
+Ao príncipe da paz...
+
+Ao grande Deus...
+
+Ao Rei dos reis...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+F#m/E = X X 2 2 2 2
+F#m7 = 2 X 2 2 2 X

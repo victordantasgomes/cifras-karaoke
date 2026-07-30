@@ -1,0 +1,59 @@
+@titulo: grandes-sao-as-tuas-obras
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Grandes São As Tuas Obras
+
+A              A9/7M
+Grandes são as tuas obras
+F#/A#            A/B  B7
+Senhor todo podero - so
+Bm7         A/C#      D7M D#º        D/E E7(9) D/E E7(9)
+Justos e verdadeiros são os teus caminhos.
+
+    Aadd9          C#m
+Ó Rei das nações, quem não temerá
+          F#                Bm
+Quem não glorificará teu nome;
+   D                 Bm7M
+Ó Rei das nações, quem não te louvará,
+         E    D/E     Dm/A A D/E
+Pois só teu nome é san - to.
+
+A                A7M(9)
+Todas as nações virão
+       F#/A#       A/B B7
+E adorarão diante de ti,
+Bm7       A/C#        D7M
+Pois os teus atos de justiça
+ D#º           D/E      E7(9)
+Se fizeram manifestos.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A7M(9) = X 0 2 1 0 0
+A9/7M = X 0 2 1 0 0
+Aadd9 = X 0 2 2 0 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Bm7M = X 2 4 3 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D#º = X X 1 2 1 2
+D/E = X X 2 2 3 2
+D7M = X X 0 2 2 2
+Dm/A = X 0 X 2 3 1
+E = 0 2 2 1 0 0
+E7(9) = X X 2 1 3 2
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X

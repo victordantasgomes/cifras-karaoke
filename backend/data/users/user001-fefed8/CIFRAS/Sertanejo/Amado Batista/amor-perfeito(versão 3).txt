@@ -1,0 +1,44 @@
+@titulo: amor-perfeito(versão 3)
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Amor Perfeito
+
+(intro 2x)
+
+E|---10--------10---9--------9---7-----7----7-------7-
+B|-------10------------10----------9-----------8------
+G|-----------9-------------9----------8-----------7---
+D|----------------------------------------------------
+A|----------------------------------------------------
+E|----------------------------------------------------
+
+         D                      G                        A7                   D   A7
+Amor perfeito existia entre nós dois, sem esperar que depois fosse tudo se acabar
+ D                                        G                      A7                    D   A7
+Mas neste mundo em que o perfeito não tem vida, não merecemos querida viver juntos e amar
+ D                            G                     A7                      D  A7
+Nosso senhor para sempre te levou nem ao menos me deixou o fruto do nosso amor
+ D                             G                    A7                          D  D7
+Aquele filho seria a nossa alegria, eu senti naquele dia ser um pai, ser o Senhor
+       G                                           A7                      D  A7
+No hospital, na sala de cirurgia, pela vidraça eu via você sofrendo a sorrir
+ D                             G                        A7                         D
+E seu sorriso aos poucos se desfazendo, então vi você morrendo sem poder me despedir
+       G                                           A7                      D  A7
+No hospital, na sala de cirurgia, pela vidraça eu via você sofrendo a sorrir
+ D                             G                        A7                         D
+E seu sorriso aos poucos se desfazendo, então vi você morrendo sem poder me despedir
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3

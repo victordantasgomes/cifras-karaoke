@@ -1,0 +1,68 @@
+@titulo: acima-de-tudo
+@autor:
+@intérprete: Ministério Apascentar de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Apascentar de Louvor (Toque No Altar) - Acima de Tudo
+
+INTRO: A9    D/A    E/A
+
+
+A9        D/A   A9        D/A G9
+Acima de todos, acima de tudo
+       D/F#           E
+Está o senhor entronizado
+A9            D/A     A9          D/A  G9
+Os anjos e os homens, os céus e a terra
+           D/F#                E4 E
+Montanhas e mares declaram que tú és
+
+   A9  A/C#    D9 D/F# E/G#  A9      A/C#         D9  A/C#
+Tú és senhor e rei,         governas sobre o universo
+Bm7 Bm/A E/G#   A/C#      E/D      A/C#  Bm7
+Justo e fiel, vestido de glória e poder
+Bm/A     E/G#  A4   A    A/C#  D9   E/G#
+Coroado estás pra sempre reinarás
+
+  A       A/C#      D  E  A       A/C#     D       D/C#
+prostrados aos seus pés, erguemos o teu santo nome
+
+Bm Bm/A     E   C#m      D   D/C#     Bm
+   em adoração, nos entregamos a tí
+Bm/A        E      A4  A         D9
+Toma o teu lugar e habita entre nós
+E         Bm   F#m
+óh Santo Deus-
+E         Bm   F#m
+Óh Santo Deus
+
+ E       Bm   F#m     E      Bm  F#m        E     Bm      F#m
+(Santo Deus,         Santo Deus,           Santo Deus)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/C# = X 4 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2
+G9 = 3 X 0 2 0 X

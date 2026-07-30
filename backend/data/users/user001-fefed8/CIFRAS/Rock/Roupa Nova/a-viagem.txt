@@ -1,0 +1,175 @@
+@titulo: a-viagem
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - A Viagem
+
+[Intro]  A  F#m  Bm  E7  A  F#m  Bm  E7
+         C#m7  F#m7  D/E  E7  A7+/E  F#m7  E4/7
+
+ F#m
+Há tanto tempo que eu
+ C#/F
+Deixei você
+ A/E                B/D#
+Fui chorando de saudade
+ Bm/D                  A/E   F#m7
+Mesmo longe não me conformei
+ F#m/D#  B/D#
+Pode   crer
+     D/E            E7
+Eu viajei contra a vontade
+F#m
+O teu amor chamou e
+    C#/F
+Eu regressei
+ A/E           B/D#
+Todo amor é infinito
+
+ Bm/D                   A/E  F#m7
+Noite e dia no meu coração
+  F#m/D#  B/D#
+Trouxe a luz
+             E7/4         E7
+Do nosso instante mais bonito
+ A        A/C#        E/D
+Na escuridão o teu olhar
+       D   A/C#
+Me iluminava
+   Bm             D
+E minha estrela-guia era
+       E4/7 E7
+O teu riso
+ C#m7         F#m7      D/E
+Coisas do passado são alegres
+        E7          C#m/E
+Quando lembram novamente
+    F#m/E         E4/7  E7
+As pessoas que se amam
+A        A/C#       E/D
+Em cada solidão vencida
+        D   A/C#
+Eu desejava
+   Bm         D
+O reencontro com teu
+         E4/7  E7
+Corpo abrigo
+C#m7          F#m7
+Ah! Minha adorada
+    D/E          E7
+Viajei tantos espaços
+     C#m/E     F#m7         D/E
+Pra você caber assim no meu abraço
+   A9    D/A  A  E/G#
+Te amo!
+
+C#m7  F#m
+          Há tanto tempo que eu
+ C#/F
+Deixei você
+A/E                 B/D#
+   Fui chorando de saudade
+
+[Solo]  Bm  A/C#  D  D  A/C#  Bm  D  E4/E7  (F4  F  F9  F)
+
+
+E|----------------------------|----------9-----12-10-9-12-10~~-|
+B|----------------------------|-------10---10------------------|
+G|--4/7~--6-7-7/9~--7-9-9/11~-|--9/11--------------------------|
+D|----------------------------|--------------------------------|
+A|----------------------------|--------------------------------|
+E|----------------------------|--------------------------------|
+
+E|--10-12-14-10------------------------------------------------|
+B|--------------12-10-10~--12-10-9~----------------------------|
+G|-------------------------------------------------------------|
+D|-------------------------------------------------------------|
+A|-------------------------------------------------------------|
+E|-------------------------------------------------------------|
+
+E|--------13--------------13-15-17-18--20-21-22~~~-------------|
+B|------13--13---13-15-16--------------------------------------|
+G|-12/14------14-----------------------------------------------|
+D|-------------------------------------------------------------|
+A|-------------------------------------------------------------|
+E|-------------------------------------------------------------|
+
+ Bb       Bb/D        F/Eb
+Na escuridão o teu olhar
+       Eb    Bb/D
+Me iluminava
+   Cm             Eb
+E minha estrela-guia era
+       F4/7  F7
+O teu riso
+ Dm7          Gm7       Eb/F
+Coisas do passado são alegres
+        F7          Dm/F
+Quando lembram novamente
+    Gm7         F4/7
+As pessoas que se amam
+Bb         Bb/D       F/Eb
+Em cada solidão vencida
+        Eb   Bb/D
+Eu desejava
+   Cm         Eb
+O reencontro com teu
+         F4/7  F7
+Corpo abrigo
+
+Dm7         Gm7
+Ah! Minha adorada
+    Eb/F         F7
+Viajei tantos espaços
+     Dm/F   Gm7          F4/7
+Pra você caber assim no meu abraço
+
+ Bb9     Bb9
+Te amo! te amo!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A7+/E = X X 2 2 2 4
+A9 = X 0 2 2 0 0
+B/D# = X 6 X 4 7 7
+Bb = X 1 3 3 3 1
+Bb/D = X 5 X 3 6 6
+Bb9 = X 1 3 3 1 1
+Bm = X 2 4 4 3 2
+Bm/D = X 5 X 4 7 7
+C#/F = X 8 X 6 9 9
+C#m/E = X 7 6 6 9 X
+C#m7 = X 4 6 4 5 4
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/E = X X 2 2 3 2
+Dm/F = X X 3 2 3 1
+Dm7 = X 5 7 5 6 5
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+E4/7 = 0 2 0 2 0 X
+E7 = 0 2 2 1 3 0
+E7/4 = 0 2 0 2 0 X
+Eb = X 6 5 3 4 3
+Eb/F = X 8 8 8 8 X
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F#m/D# = X 6 0 6 7 5
+F#m/E = X X 2 2 2 2
+F#m7 = 2 X 2 2 2 X
+F/Eb = X X 1 2 1 1
+F4 = 1 3 3 3 1 1
+F4/7 = 1 3 1 3 1 X
+F7 = 1 3 1 2 1 1
+F9 = 1 3 5 2 1 1
+Gm7 = 3 X 3 3 3 X

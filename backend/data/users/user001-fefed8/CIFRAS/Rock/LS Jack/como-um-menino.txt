@@ -1,0 +1,84 @@
+@titulo: como-um-menino
+@autor:
+@intérprete: LS Jack
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+LS Jack - Como um menino
+
+(intro 2x)  E B F#m A B
+
+E|-----------------------------------
+B|--10/--12~~-12b-10--9h10--9--------
+G|-9---------------------------------
+D|-----------------------------------
+A|-----------------------------------
+E|-----------------------------------
+
+E     B             F#m        A    B
+Eu sei, que voce me faz tão bem.
+E              B           F#m
+Perco toda a razão enlouquecido...
+  A           B
+entregue em suas mãos.
+
+E              B
+Assim como um menino...
+F#m              A    B
+que não sabe esperar...
+E           B
+vivo cada segundo ...
+
+               F#m   A  B
+só pra te encontrar.
+
+E     B              F#m         A   B
+Eu sei, que juntos sonhamos igual.
+E                B
+O mundo é de nós dois...
+       F#m  A        B
+e tudo mais fica pra depois.
+
+E              B
+Assim como um menino...
+F#m              A    B
+que não sabe esperar...
+E           B
+vivo cada segundo ...
+               F#m   A  B
+só pra te encontrar.
+
+Não existe dor, e o teu jeito sorrir
+Faz com que eu ame só voce.
+
+E              B
+Assim como um menino...
+F#m              A    B
+que não sabe esperar...
+E           B
+vivo cada segundo ...
+               F#m   A  B
+só pra te encontrar.
+E              B
+Assim como um menino...
+F#m              A    B
+que não sabe esperar...
+E           B
+vivo cada segundo ...
+               F#m   A  B
+só pra te encontrar.
+E     B             F#m        A    B
+Eu sei que voce me faz tão bem
+E     B             F#m        A    B
+Eu sei que voce me faz tão bem...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,52 @@
+@titulo: o-muro
+@autor:
+@intérprete: Pitty
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Pitty - O Muro
+
+(Vinheta gravada para uma promoção da MTV)
+
+_Intro:
+   Am                   F F F
+e|-----------------------------|
+B|-----------------------------|
+G|----------------------2-2-2--|   x2
+D|----- 2-----2-----2---3-3-3--|
+A|--0--0-0---0-0---0-0--3-3-3--|
+E|-----------------------------|
+
+     Am    C          B                      Bb
+Se você quiser,    eu posso mostrar que não tem
+      Am     C          B                      Bb
+Mas motivo algum    pra você se deixar ser também
+     Am            C        B                       Bb
+Um inconformado comum,  que nunca pensa em chegar além
+       Am           C           B                  Bb
+Desses muros construídos pela visão limitada de alguém
+
+_Repete Intro:
+
+   Am                   F F F
+e|-----------------------------|
+B|-----------------------------|
+G|----------------------2-2-2--|   x4
+D|----- 2-----2-----2---3-3-3--|
+A|--0--0-0---0-0---0-0--3-3-3--|
+E|-----------------------------|
+
+      Am           C           B                  Bb      Am
+Esses muros construídos pela visão limitada de alguém.....Foi!
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+F = 1 3 3 2 1 1

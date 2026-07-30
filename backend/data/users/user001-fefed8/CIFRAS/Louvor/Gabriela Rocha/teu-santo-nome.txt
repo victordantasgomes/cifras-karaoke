@@ -1,0 +1,135 @@
+@titulo: teu-santo-nome
+@autor:
+@intérprete: Gabriela Rocha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gabriela Rocha - Teu Santo Nome
+
+[Intro] C9  G
+
+E|-------------------------------------------------|
+B|---------------8-7-------------------------------|
+G|-7\4--7/9----------7-----------------------------|
+D|----------7h9--------7---------------------------|
+A|-------------------------------------------------|
+E|-------------------------------------------------|
+
+[Primeira Parte]
+
+              Am7
+Todo ser que vive
+               Em7
+Louve ao nome do Senhor
+          C9
+Toda criatura se derrame
+     G      D9
+Aos Seus pés
+
+               Am7
+Ao som da Sua voz
+
+            Em7
+O universo se desfaz
+              C9
+Não há outro nome
+                      G   D9
+Comparado ao grande Eu Sou
+
+[Pré-Refrão]
+
+Am7              C9
+  E mesmo sendo pó
+              G
+Com tudo que há em mim
+    D9
+Confessarei
+Am7                 C9
+  Que céus e terra passarão
+    G          D9
+Mas o Teu nome é eterno
+
+[Refrão]
+
+ Em7              C9
+Todo joelho dobrará
+              G
+Ao ouvir Teu nome
+           D9
+Teu Santo nome
+ Em7
+Todo ser confessará
+C/E                   G/D
+  Louvado seja o Teu nome
+           D9
+Teu santo nome
+
+[Pré-Refrão]
+
+Am7              C9
+  E mesmo sendo pó
+              G
+Com tudo que há em mim
+    D9
+Confessarei
+Am7                 C9
+  Que céus e terra passarão
+    G          D9
+Mas o Teu nome é eterno
+
+[Refrão]
+
+ Em7              C9
+Todo joelho dobrará
+              G
+Ao ouvir Teu nome
+           D9
+Teu Santo nome
+ Em7
+Todo ser confessará
+C/E                   G/D
+  Louvado seja o Teu nome
+           D9
+Teu santo nome
+
+ Em7              C9
+Todo joelho dobrará
+              G
+Ao ouvir Teu nome
+           D9
+Teu Santo nome
+ Em7
+Todo ser confessará
+C/E                   G/D
+  Louvado seja o Teu nome
+           D9
+Teu santo nome
+
+ Em7              C9
+Todo joelho dobrará
+              G
+Ao ouvir Teu nome
+           D9
+Teu Santo nome
+ Em7
+Todo ser confessará
+C/E                   G/D
+  Louvado seja o Teu nome
+           D9
+Teu santo nome
+
+[Final] C9  Am7  C9
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D9 = X X 0 2 3 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/D = X 5 5 4 3 X

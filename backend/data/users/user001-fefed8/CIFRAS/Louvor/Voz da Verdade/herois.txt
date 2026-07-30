@@ -1,0 +1,94 @@
+@titulo: herois
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Heróis
+
+Intro 4x: A4  A
+
+               A                  F#m
+Quando a gente nasce, já vencemos milhões,
+         D                  E4 E
+E o povo grita: "lá vem o herói".
+            A     D            A
+Mas a gente cresce e vem os problemas,
+        F#m              E4   E
+Algumas pedras nos jogam no chão.
+         D     E            A
+E o povo grita: "projeto perdido".
+G        D          E4 E
+Mas os heróis dizem: Não!
+G        D          E4 E
+Mas os heróis dizem: Não!
+
+A              E   F#m        C#m
+ Heróis também caem, mas se levantam.
+D           A    F#m      E
+ Não tem instinto de perdedor.
+
+           A     E        F#m
+Seguem a carreira rumo ao alvo.
+D          A  E           A
+ Pois eles têm a marca da fé.
+
+         G    D          A
+Voam sem asas, e têm luz própria.
+        G    D              A
+Têm uma força que não tem limites.
+           G     D          A
+E seguem correndo, e não se cansam.
+       G        D        A
+Eles esperam, esperam em Deus.
+
+( G  D  A )
+
+A              E   F#m        C#m
+ Heróis também caem, mas se levantam.
+D           A    F#m      E
+ Não tem instinto de perdedor.
+           A     E        F#m
+Seguem a carreira rumo ao alvo.
+D          A  E           A
+ Pois eles têm a marca da fé.
+
+         G    D          A
+Voam sem asas, e têm luz própria.
+        G    D              A
+Têm uma força que não tem limites.
+           G     D          A
+E seguem correndo, e não se cansam.
+       G        D        A
+Eles esperam, esperam em Deus.
+
+
+A               C         D               F
+ Somos mais que vencedores por aquele que nos amou.
+A           C     D         F
+ Somos invencíveis, super-heróis.
+
+A               C         D               F
+ Somos mais que vencedores por aquele que nos amou.
+A           C     D       F
+ Somos invencíveis, super-heróis.
+
+( B  D  E  G )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

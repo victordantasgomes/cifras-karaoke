@@ -1,0 +1,80 @@
+@titulo: a-oracao-do-profeta
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - A Oração do Profeta
+
+Intro: F  Am  Dm  A/C#  Am/C
+       Bb  F/A  Bb  C  F
+32 33 35 23 25 26 32 35 33
+26 25 30 33 32
+43 45 47 45 43 42 43 (2x)
+
+26 25 23 35 45 47 45 43
+43 45 33
+
+F                    F4
+Eu abro mão dos meus sonhos
+F                     F4
+Eu abro mão da minha vida
+Bb         F/A        Gm
+Vou me gastar por inteiro
+Bb        F/A       C9
+Realizar teus desejos
+F                      F4
+Eu não quero nada em troca
+F                        F4
+Me deixe ficar aos teus pés
+
+Bb          C/Bb
+Cercado por muitos
+ Am           Dm
+Amado por poucos
+G#   Eb          F
+É assim que me sinto
+G#         Eb     C4 C
+Me deixe ficar aqui
+
+F             C/E    Dm
+Pois sei que Deus está
+            Am
+Sempre a me proteger
+Bb         F/A   Gm            ( Eb )  C
+Meu choro cessará sempre ao amanhecer
+F            C/E
+Eu sei que nada
+Dm       Am
+Vai me afastar de Ti
+Bb       F/A
+Cordeiro e o Leão
+Gm        C    F   Bb  F/A  Gm  Dm  C  G/B  Bb  F/A  G#  Eb/G  C
+Meu tudo, meu amor
+
+Eu não quero nada em troca...
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+Am/C = X 3 2 2 5 X
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C/Bb = X 1 2 0 1 X
+C/E = 0 3 2 0 1 0
+C4 = X 3 3 0 1 X
+C9 = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+Eb = X 6 5 3 4 3
+Eb/G = 3 X 1 3 4 X
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F4 = 1 3 3 3 1 1
+G# = 4 3 1 1 1 4
+G/B = X 2 0 0 3 3
+Gm = 3 5 5 3 3 3

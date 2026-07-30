@@ -1,0 +1,84 @@
+@titulo: teletema
+@autor:
+@intérprete: Kid Abelha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kid Abelha - Teletema
+
+E|--------------------------|--------------
+A|--------------------------|--------------
+D|--------------------------|--------------    
+G|--------------------------|--------------
+B|-----------5-5-3-5-3------|-----5-5-3----
+E|-7-7-5-7-5------------7-7-5-7-5----------
+
+Obs: repetir o solo 2 vezes, no início e no fim da música.
+
+Antônio Adolfo / Tibério Gaspar
+
+[Intro:] G7M C/D
+
+G7M            G6              Am
+Rumo, estrada turva, sou despedida
+           Aº                  Em7
+Por entre lenços brancos de partida
+       A7(9)             D7          F7
+Em cada curva sem ter você vou mais só
+
+Bb7M           Bb6              Cm
+Corro rompendo laços, abraços, beijos
+
+         Cº               Gm7
+Em cada passo é você quem vejo
+         C7(9)             F7        D7
+No tele-espaço pousado em cores no além
+G7M            G6              Am
+Brando, corpo celeste, meta metade
+         Aº                  Em7
+Meu santuário, minha eternidade
+     A7(9)          D7      F7
+Iluminando o meu caminho e fim
+Bb7M           Bb6         Cm
+Dando a incerteza tão passageira
+        Cº               Gm7
+Nós viveremos uma vida inteira
+      C7(9)             F7            D7
+Eternamente, somente os dois mais ninguém
+
+G  G7M    C7M    C
+Eu vou de sol a sol
+             Am              A7
+Desfeito em cor, refeito em som
+             D      G#
+Perfeito em tanto amor
+
+[Intro:] G7M C/D
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(9) = 5 X 5 4 2 X
+Am = X 0 2 2 1 0
+Aº = 5 X 4 5 4 X
+Bb6 = X 1 3 0 3 X
+Bb7M = X 1 3 2 3 1
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+C7(9) = X 3 2 3 3 X
+C7M = X 3 2 0 0 X
+Cm = X 3 5 5 4 3
+Cº = X 3 4 2 4 2
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em7 = 0 2 2 0 3 0
+F7 = 1 3 1 2 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G6 = 3 X 2 4 3 X
+G7M = 3 X 4 4 3 X
+Gm7 = 3 X 3 3 3 X

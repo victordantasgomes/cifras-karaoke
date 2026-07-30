@@ -1,0 +1,79 @@
+@titulo: algo-mais
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Algo Mais
+
+[Intro] Dm  E7  A
+        Dm  E7  A
+        Dm  E7  A
+        Dm  E7  A
+
+      Am                                  E/G#
+Antes mesmo que eu fosse alguém
+           E/G                D9/F#
+Tu me amaste e me disseste:  vem!
+      Dm/F                              A      F#m7
+Mesmo sendo tão rebelde e vão
+             B7                         E7
+Tu me amaste e me estendeste a mão
+
+      Am                 E/G#
+Já me deste tanto amor e paz
+            E/G                            D9/F#
+Eu só te peço uma coisinha a mais
+        Dm/F                   A    F#m7
+Pra que eu possa cumprir a minha parte
+    Bm                E7       A
+Ensina-me, Senhor, a amar-Te
+
+( Dm  E7  A )
+( Dm  E7  A )
+( Dm  E7  A )
+( Dm  E7  A )
+
+      Am                   E/G#
+Antes mesmo que eu fosse alguém
+        Am/G                D/F#
+Tu me amaste e me disseste:  vem!
+      Dm/F                A
+Mesmo sendo tão rebelde e vão
+       B7                      E
+Tu me amaste e me estendeste a mão
+
+      Am                 E/G#
+Já me deste tanto amor e paz
+         Am/G                D/F#
+Eu só te peço uma coisinha a mais
+        Dm/F                   A    F#m7
+Pra que eu possa cumprir a minha parte
+    Bm                E7       A
+Ensina-me, Senhor, a amar-Te
+    Bm                E7       A
+Ensina-me, Senhor, a amar-Te
+    Bm                E7       A7+
+Ensina-me, Senhor, a amar-Te
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7+ = X 0 2 1 2 0
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+D/F# = 2 X 0 2 3 2
+D9/F# = 2 X 0 2 3 0
+Dm = X X 0 2 3 1
+Dm/F = X X 3 2 3 1
+E = 0 2 2 1 0 0
+E/G = 3 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+F#m7 = 2 X 2 2 2 X

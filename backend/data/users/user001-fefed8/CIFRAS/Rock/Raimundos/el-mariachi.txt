@@ -1,0 +1,108 @@
+@titulo: el-mariachi
+@autor:
+@intérprete: Raimundos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raimundos - El Mariachi
+
+(intro violão)
+
+    Bb                   Am      C    C4
+E|-1--------------------0-------0----0---|
+B|-3--------------------1-------1----6---|
+G|-3--------------------2-------0----5---|
+D|-3---3-3-3-2-0-3-2-0--2--3-2--2----0---|
+A|-1--------------------0-------3--------|
+E|---------------------------------------|
+
+ F
+Quantos motivos estão escondidos
+         Am
+Olha que a vida ainda nem começou
+  Dm                                    G5
+Quantas histórias nessa trajetória pequena. Que o tempo levou
+ F
+O velho abrigo, não está destruído
+ Am
+Nem digo onde vou
+ Dm
+Nem toda derrota precede a vitória
+
+ F                   G5
+Quem foi quem perdeu? Quem ganhou?
+
+(riff)
+
+   F5
+G|--------3-|
+D|-3-2-0--3-|
+A|--------1-|
+E|----------|
+
+(refrão)
+
+ Bb                          Am
+Quando as gotas de lágrimas caem
+ C                                Dm
+São pelas mesmas palavras dos lábios que saem
+ Bb                     Am
+Sinceridade nem sempre faz bem
+  C
+E se a verdade não vai libertar!?
+
+ F            Am            Dm
+Ontem eu vi você sorrir pra mim
+ G5
+Como num sonho
+ F            Am         Dm   G5
+Distorcido e sem final feliz...
+
+(riff)
+
+(refrão)
+
+(solo)
+      F                Am              Dm             C
+E|-------------------------------------------------------|
+B|--------------------5-6--8-6-5-6-5----5-5-5------------|
+G|----------------5-7-----------------7-------7---5--5-7-|
+D|----0-2-3--5-7-----------------------------------------|
+A|--3----------------------------------------------------|
+E|-------------------------------------------------------|
+
+                F                       Am             D
+E|---------------------------------------------------------|
+B|---------------------------------------------------------|
+G|--5---7--------------------------------------------------|
+D|---------5s7--7-8-10-8-7----7--7-8--10-8-7---------------|
+A|-------------------------10----------------10--8-7--8-12-|
+E|---------------------------------------------------------|
+
+                 C
+E|-----------------------|
+B|-----------------------|
+G|-----------------------|
+D|-----------------------|
+A|---10--8--7---8--7--5--|
+E|-----------------------|
+
+(refrão)
+
+( F )
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C4 = X 3 3 0 1 X
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F5 = 1 3 3 X X X
+G5 = 3 5 5 X X X

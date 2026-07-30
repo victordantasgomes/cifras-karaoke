@@ -1,0 +1,78 @@
+@titulo: faz-nos-ser-um
+@autor:
+@intérprete: Ministério Avivah
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Avivah - Faz-nos Ser Um
+
+Intro: :: D Em : Bm7  G :: Em Bm7 : C7M Em :: A ::
+
+D        Em      Bm7   G
+Deus, faz-nos ser um ó Pai
+Em       Bm7       A
+ Como tu és em Jesus
+           Em    D/F#  G       Bm7
+ Que o Espírito Santo sobre nós
+ 1ªvez [ Em             D               A]  2ª e 3ª vez [ C7M      Em      A]
+ Tuas bênçãos nos dará sem fim
+
+D          D/F#           G
+Queremos ver os Teus milagres
+D            D/F#  A    F#7(b13)
+Queremos ver o Teu fluir
+Bm               Bm7           Bm7            E/G#
+Não sei de onde vens, nem sei pra onde vais
+        Em               A        D
+Mas eu sei que tu estás aqui
+
+Instrumental ::: D G ::: D G : Bm7  G ::
+
+
+(..........Deus, faz-nos ser um ó Pai........)
+
+D          D/F#           G
+Queremos ver os Teus milagres
+D            D/F#  A    F#7(b13)
+Queremos ver o Teu fluir
+Bm            Bm7            Bm7            E/G#
+Não sei de onde vens, nem sei pra onde vais
+        Em                       ::A , B , A/C# , A ::
+Mas eu sei que tu estás aqui
+
+D/A               G/A
+Queremos ver os Teus milagres
+D/F#             A/C#   F#7(b13)
+Queremos ver o Teu fluir
+Bm            Bm7M       Bm7/A            E/G#
+Não sei de onde vens, nem sei pra onde vais
+        Em               A         [D]
+Mas eu sei que tu estás aqui
+
+Instrumental: ::: D Em : Bm7  G ::: -2x
+
+Final: :: D : E/D :: D ::
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Bm7/A = 5 2 4 2 3 2
+Bm7M = X 2 4 3 3 2
+C7M = X 3 2 0 0 X
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F#7(b13) = 2 X 2 3 3 2
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X

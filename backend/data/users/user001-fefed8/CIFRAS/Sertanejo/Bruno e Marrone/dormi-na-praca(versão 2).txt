@@ -1,0 +1,39 @@
+@titulo: dormi-na-praca(versão 2)
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Dormi Na Praça
+
+Intro: E  G#  C#m  A  E  B  E  B
+
+   E          B           C#m  A              G#            C#m
+Eu Caminhei sozinho pela rua, falei com as estrelas e com a lua
+    A              G#        C#m           A  E           B            E
+Deitei no banco da praça tentando te esquecer adormeci e sonhei com você
+    E          B         C#m    A              G#            C#m
+No sonho você veio provocante, me deu um beijo doce e me abraçou
+   A           G#        C#m         A     E             B          E   B
+E bem na hora "H" no ponto alto do amor já era dia e o guarda me acordou
+
+     E                                          B
+Seu guarda eu não sou vagabundo eu não sou delinqüente
+                                  A   B            E  B
+Sou um cara carente eu dormi na praça   pensando nela
+     E                                 B
+Seu guarda seja meu amigo me bata me prenda faça tudo comigo
+              A   B            E
+Mas não me deixe   ficar sem ela
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+G# = 4 3 1 1 1 4

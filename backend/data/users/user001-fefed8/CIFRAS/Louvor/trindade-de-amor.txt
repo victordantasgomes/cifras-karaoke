@@ -1,0 +1,42 @@
+@titulo: trindade-de-amor
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Trindade de Amor
+
+Intro: C C7
+
+            F       G
+Em nome do Pai que nos criou
+             Em         Am
+Em nome do Filho que nos salvou
+              Dm         G7
+Em nome do Espírito consolador
+       Gm             C7
+Toda honra, glória e louvor
+            F           G
+Em nome do Pai que nos criou
+               Em        Am
+Em nome do Filho que nos salvou
+              Dm       G7
+Em nome do Espírito consolador
+      F        G7        C
+Toda honra a Trindade de amor.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

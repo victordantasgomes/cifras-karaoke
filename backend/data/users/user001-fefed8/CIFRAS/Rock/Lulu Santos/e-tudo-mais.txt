@@ -1,0 +1,53 @@
+@titulo: e-tudo-mais
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - E Tudo Mais
+
+D                 A7
+Tudo o que eu sonhei
+Bm                Gm
+Está na minha frente
+F#m         B7          Em                 Eb
+Tudo caminhando num processo longo de ser gente
+D               A7
+Está em nossas mãos
+Bm          Gm
+É a nossa vida
+F#m           B7          Em
+Cada escolha sempre determina
+       Eb       D    D7
+O que vem em seguida
+
+G                A7        F#m
+E do outro lado dessa linha
+              Bm
+Aonde está você?
+    Em            Gm
+Que é pra onde eu miro
+
+      D            D7
+Que é quem pode me ler
+G            A7         F#m       Bm
+Mas se por acaso falhar esta ligação
+   Em        Eb        D
+A minha casa cai do chão
+
+----------------- Acordes -----------------
+A7*  = X 0 2 0 2 0 - (*G7 na forma de A7)
+B7*  = X 2 1 2 0 2 - (*A7 na forma de B7)
+Bm*  = X 2 4 4 3 2 - (*Am na forma de Bm)
+D*  = X X 0 2 3 2 - (*C na forma de D)
+D7*  = X X 0 2 1 2 - (*C7 na forma de D7)
+Eb*  = X 6 5 3 4 3 - (*Db na forma de Eb)
+Em*  = 0 2 2 0 0 0 - (*Dm na forma de Em)
+F#m*  = 2 4 4 2 2 2 - (*Em na forma de F#m)
+G*  = 3 2 0 0 0 3 - (*F na forma de G)
+Gm*  = 3 5 5 3 3 3 - (*Fm na forma de Gm)

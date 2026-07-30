@@ -1,0 +1,72 @@
+@titulo: mais-uma-cancao
+@autor:
+@intérprete: Los Hermanos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Los Hermanos - Mais Uma Canção
+
+Fica tocando em A e fazendo o seginte:
+
+E|---0-0---0-0---0-0---------0-0---0-0---0-0-------|
+B|---2-2---2-2---2-2---------2-2---2-2---2-2-------|
+G|---2-2---2-2---2-2---------2-2---2-2---2-2-------|
+D|-------------------------------------------------|
+A|-0-----0-----0-----------0-----0-----0-----------|
+E|-------------------0-2-4-------------------0-2-4-|
+
+depois vem o solinho enquanto toca-se os quatro acordes da introdução(A Bm D E):
+
+[RIFF 1]
+E|--9--7-9-7-9--7-9-7-9--5-5--9--7-9-7-9--7-9-7-9--5-5-7-9-10--9-7--5---| 
+B|--------------------------------------------------------------------7-|
+
+E finaliza com:
+
+|--10--9-7--5-------5-7-5--|
+|-------------7-5-7--------|
+
+A                  Bm                D     E          A          E
+Nada vai mudar entre nós, como eu sei,      eu só sei
+
+
+A                              Bm             D    E       A      A7
+Tudo vai permanecer igual, afinal, não há nada    a fazer
+
+       D            Dm          A      A/G#     F#m          Bm       E       A      A7
+Eu não nego, eu me entrego, você é meu grande amor, e hoje eu vou te dizer "eu te amo"
+
+   D              Dm        A         A/G#  F#m    Bm        E              A
+Eu imploro eu te adoro, você tem meu coração a bater pra você mais uma canção
+
+A                                    Bm            D  E         A     E
+Como pode alguém perder você como eu fiz. Como eu quis   não te Ter?
+
+A                               Bm          D  E      A      A7
+Vivo iludido a acreditar que o amor não se pôs   em você
+
+         D            Dm        A       A/G#   F#m       Bm      E        A     A7
+Mas me entrego eu não nego eu errei mas sou   capaz de fazer sua vida melhor
+
+       D            Dm            A      A/G#  F#m       Bm         E
+Tô voltando não sei quando pra roubar teu coração, vou chegar no final de mais uma
+
+   A
+canção.
+
+Repete intro com o RIFF 1
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/G# = 4 X 2 2 2 X
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,70 @@
+@titulo: caminhada
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Caminhada
+
+Intro: E7
+
+
+Am                         C9        Dm7
+Vou caminhar por essa estrada e para trás não vou
+        Am                                C9
+mais olhar pois o deserto já ficou para trás e o
+    Dm7            Am
+Jordão vou atravessar
+
+
+SOLO: Am, C9, Dm7, Am } 2 VEZES
+
+                      C9         Dm7          Am
+Se há muralhas em Jericó nada temerei não estou só
+                      C9         Dm7          Am
+O seu poder comigo está, em Jerusalém eu vou chegar
+
+G           Dm7          F         G         Dm7
+Podem os inimigos virem contra mim querendo destruir
+   F        G               Dm7            E7
+a minha fé, maior é o que está comigo é Jesus de
+
+
+Nazaré
+
+         F9  G        Am
+Ele é o Rei, Leão de Judá } 4 vezes
+
+
+SOLO: A#m
+
+                     C#(9)         D#m7        A#m
+Se há muralhas em Jericó nada temerei não estou só
+                      C#(9)       D#m7          A#m
+O seu poder comigo está, em Jerusalém eu vou chegar
+
+
+       F#(9)  G#        A#m
+Ele é o Rei, Leão de Judá } 4 vezes
+
+ULTIMO ACORDE: A#
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+A#m = X 1 3 3 2 1
+Am = X 0 2 2 1 0
+C#(9) = X 4 6 6 4 4
+C9 = X 3 5 5 3 3
+D#m7 = X X 1 3 2 2
+Dm7 = X 5 7 5 6 5
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+F#(9) = 2 4 6 3 2 2
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

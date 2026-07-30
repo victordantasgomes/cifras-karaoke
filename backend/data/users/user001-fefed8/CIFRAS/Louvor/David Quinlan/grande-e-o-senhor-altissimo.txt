@@ -1,0 +1,34 @@
+@titulo: grande-e-o-senhor-altissimo
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Grande É o Senhor Altíssimo
+
+INT -> E/G#  A  E  F#m  A  E
+
+    F#m A                  E
+| GRAN____DE É O SENHOR ALTÍSSIMO  |2x
+
+        A       E           A               E
+MARAVILHOSO ÉS CONSELHEIRO  ASSOMBROSO DEUS E GUERREIRO
+  C#m7              G#m7
+PRÍNCIPE DA PAZ O GRANDE EU SOU
+ F#m7                A               B
+PODEROSO DEUS TU ÉS SANTO  SANTO CORDEIRO
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G#m7 = 4 X 4 4 4 X

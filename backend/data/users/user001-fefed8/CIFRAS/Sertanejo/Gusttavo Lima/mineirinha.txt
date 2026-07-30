@@ -1,0 +1,53 @@
+@titulo: mineirinha
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Mineirinha
+
+(intro) D A D A D A G D A D
+
+D                                       A
+No triângulo mineiro tem alguém a me esperar
+                                        D
+Naquela rua da mata Esse alguém mora lá
+                                        G
+Olhos da cor da lua cabelos cor de carvão
+
+                D               A               D D#
+Mineirinha mais bonita que domou meu coração
+E                                               A
+Saudade está me matando de paixão eu vou morrer
+                E                       A
+Somente essa pessoa poderá me socorrer
+ G              D                    A                  D  ( passagem A B C# )
+Apaixonado demais acaba não Minas Gerais
+
+D                       A
+Ah! Esse amor me invade
+                D
+Ah! Agora é tarde
+
+D               A
+Ah! Estou no sufoco
+G           D                   A
+Por uma menina de Patos de Minas
+                        A
+Que me deixou louco.
+
+(repete tudo)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3

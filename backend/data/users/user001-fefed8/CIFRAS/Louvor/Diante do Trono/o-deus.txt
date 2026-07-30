@@ -1,0 +1,51 @@
+@titulo: o-deus
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Ó Deus!
+
+Intro: D G A D
+
+D9    G   A    D9    G/D
+BATE NO CORAÇÃO UM VAZIO TÃO GRANDE
+ D        G
+MAS SEI ONDE O PREENCHER:
+ A     D
+EM TUA PRESENÇA!
+D/F#  G    D/F#
+OUÇO TUA VOZ ME CHAMANDO:
+ Em7        D
+"MEU FILHO VEM ME BUSCAR!"
+  G9          D/F#
+FAZ OS MEUS PÉS COMO OS DA CORÇA
+     C   G/A
+PRA TE ENCONTRAR.
+ G D     A      D
+Ó DEUS! TU ÉS O MEU PRAZER,
+ G    D/F#       A
+VOU CORRENDO PRA EM TI ME ACOLHER
+E/G#  G D     A     D
+Ó    DEUS! MINHA ALEGRIA É TE AMAR
+
+   G   A     D
+TE CONHECER, SER AMIGO TEU!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+E/G# = 4 X 2 4 5 X
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/D = X 5 5 4 3 X
+G9 = 3 X 0 2 0 X

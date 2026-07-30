@@ -1,0 +1,68 @@
+@titulo: alcancar-teu-coracao
+@autor:
+@intérprete: Ministério Apascentar de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Apascentar de Louvor (Toque No Altar) - Alcançar Teu Coração
+
+[Intro] A5  Em7  D  Dm
+        F/A  G/F  D/A
+        A5  Em7  D  Dm
+
+Bm7                          D6(9) A  E/G#
+Permita-me saber os teus segredos
+F#m7       E          D9
+Eu quero preciso te ouvir
+Bm7                          D6(9) A  E/G#
+Me diz a onde os teus pés desejam ir
+F#m7       E          D9
+Eu quero preciso te seguir
+      Bm7                A/C#
+Onde o fogo está, onde a nuvem for
+     E5             D5
+Eu quero estar, eu quero estar
+      Bm7                A/C#
+Onde o fogo está, onde a nuvem for
+      D                    Dm/F      E
+Eu quero pra sempre junto a ti, Senhor
+
+
+A                  Em
+Meu Deus leva me além
+           D
+Do que os olhos podem ver
+           Dm      G/F
+E nem um coração sentiu
+A                  Em
+E me dar asas pra voar
+           D
+Eu vou deixar o natural
+           Dm/F          A Em7 D Dm
+Para alcançar teu coração
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A5 = X 0 2 2 X X
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D5 = X 5 7 7 X X
+D6(9) = X 5 4 2 0 0
+D9 = X X 0 2 3 0
+Dm = X X 0 2 3 1
+Dm/F = X X 3 2 3 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E5 = 0 2 2 X X X
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+F/A = 5 X 3 5 6 X
+G/F = 1 X X 0 0 3

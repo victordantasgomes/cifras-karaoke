@@ -1,0 +1,88 @@
+@titulo: bohrizloser
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Bohrizloser
+
+(intro abafado)  A D F# E
+
+ (base) A D F# D
+E|--9----9----12----12---
+B|----10---10----10---10-
+G|-----------------------  (4x) (2ª parte)
+D|-----------------------
+A|-----------------------
+E|-----------------------
+
+A                            D                     F#
+algo como se enforcar em seu proprio orgulho e eh tarde
+               D                              A
+pra se arrepender, e muito tarde pra entender
+                  A         D           F#
+algo como discordar sobre tudo que te falam
+                 E                              A
+depois vai perceber, q eh muito tarde pra entender
+             E
+nao vai voltar
+            F#
+nao vai mudar
+
+           D
+de onde esta
+              A
+ele nunca saira
+            E
+nao vai mudar
+                  F#
+ele nunca ira voltar
+           E
+mais uma vez... nunca ira ter vez
+
+(repete segunda parte da intro 4x)
+
+(abafado)
+A              E
+nao vai voltar!!
+              F#
+nao vai mudar!!
+             D
+de onde esta!!
+
+(normal)
+         A
+nao saira
+            E
+nao vai voltar
+            F#
+nao vai mudar
+           E
+de onde esta
+             A
+ele nunca saira
+
+             E
+nao vai mudar
+                    F#
+ele nunca ira voltar
+            E
+mais uma vez... nunca ira ter vez!
+
+E|----------------
+B|----------------
+G|-9---14-13-11---
+D|-x---xx-xx-x----     nunca ira ter vez!!
+A|-7---12-11-9----
+E|----------------
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2

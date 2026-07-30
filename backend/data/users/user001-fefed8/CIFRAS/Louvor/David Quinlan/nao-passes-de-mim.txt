@@ -1,0 +1,53 @@
+@titulo: nao-passes-de-mim
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Não Passes de Mim
+
+INTRO C Am C Am
+                F9
+Quero tocar em Tuas veste
+                Dm
+Quero tocar em Teu coração
+       C
+Te quero
+      Am
+Te anelo
+    C
+Suspiro
+            Am
+Te espero
+
+Refrão
+            F9
+Não passe de mim
+           Dm
+Preciso de ti
+   C       Am
+Jesus , Jesus
+
+     C
+Te quero
+      Am
+Te espero
+    C
+Suspiro
+     Am
+Te anelo
+           F9
+Não passe de mim
+           Dm
+Preciso de Ti
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F9 = 1 3 5 2 1 1

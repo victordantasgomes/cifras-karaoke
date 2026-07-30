@@ -1,0 +1,136 @@
+@titulo: essencia-da-adoracao
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Essência da Adoração
+
+[Intro]  F#m  A9  E  B9
+         F#m  A9  E  B9
+         F#m  A9  E  B9
+         F#m  A9  E  B9
+         A9
+
+E                      B9/E
+  Quando a música esmorece
+                 F#m
+E o resto desaparece
+                        B9
+Simplesmente a ti me achego
+E                B9/E          F#m
+  Ansiando Oferecer algo de valor
+                        B9
+Pra abençoar o teu coração
+
+F#m                  E           B9
+    Mais que uma canção eu te darei
+                    F#m
+Pois apenas uma canção
+
+              C#m      B9
+Não é o que queres de mim
+F#m                E         B9
+    Mais profundo busca, Senhor
+                       F#m
+Do que os olhos podem ver
+        E/G#     B9
+Queres meu  coração
+
+E                     B9
+  Estou voltando a essência da Adoração
+       F#m
+E a essência és Tu
+     A9        B9
+A essência és Tu, Jesus
+E                        B9
+  Oh, me perdoa pelo que eu fiz dela
+            F#m
+Quando a essência és Tu
+     A9        B9
+A essência és Tu, Jesus
+
+F#m  A9  E  B9
+F#m  A9  E  B9
+A9
+
+E                     B9/E
+  Rei de Imensurável valor
+                    F#m              B9
+Ninguém pode expressar quanto és digno
+E                          B9/E
+  Embora eu seja pobre e fraco
+                  F#m
+Tudo que tenho é Teu
+             B9
+Cada fôlego meu
+
+A9                  E/G#        B9
+   Mais que uma canção eu te darei
+                    F#m
+Pois apenas uma canção
+              C#m      B9
+Não é o que queres de mim
+A9                C#m       B/D#
+   Mais profundo busca, Senhor
+                       F#m
+Do que os olhos podem ver
+        E/G#    B9
+Queres meu coração
+
+E                     B9
+  Estou voltando a essência da Adoração
+       F#m
+E a essência és Tu
+     A9        B9
+A essência és Tu, Jesus
+E                        B9
+  Oh, me perdoa pelo que eu fiz dela
+            F#m
+Quando a essência és Tu
+     A9        B9
+A essência és Tu, Jesus
+
+E  B9  F#m  A9  B9
+E  B9  F#m  A9  B9
+
+[Pré-Solo]  Am  C  G  D/F#
+            Am  C  G  D
+
+[Solo]  F#m  A9  E  B/D#
+        F#m  A9  E  B9
+
+E                     B9
+  Estou voltando a essência da Adoração
+       F#m
+E a essência és Tu
+     A9        B9
+A essência és Tu, Jesus
+E                        B9
+  Oh, me perdoa pelo que eu fiz dela
+            F#m
+Quando a essência és Tu
+     A9        B9    E  A9  E  A9
+A essência és Tu, Jesus
+
+[Bm  F#m  E]
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+Am = X 0 2 2 1 0
+B/D# = X 6 X 4 7 7
+B9 = X 2 4 4 2 2
+B9/E = 0 2 4 4 2 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

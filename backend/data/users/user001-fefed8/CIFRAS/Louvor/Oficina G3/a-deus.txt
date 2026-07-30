@@ -1,0 +1,116 @@
+@titulo: a-deus
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - A Deus
+
+Intro 2x: C#m  B  F#m  A9
+    C#m          B                  F#m           A9                          C#m         B
+E|-------------------------------------------------------------------------------------------------|
+B|-------------------------------------------------------------------------------------------------|
+G|-------------------------------------------------------------------------------------------------|
+D|--s6--s6-4--6-4-4---4--6-4-4---6-4-4----------------------------------4-2-s6-6--6-4-4--6-4-4--4--|
+A|----------7-------7----------7-------7-4---4-6-7-6-4-2----------2-4-2----------------7------7----|
+E|------------------------------------------4-----------4-2-0-2-4----------------------------------|
+
+               F#m      A9
+E|--------------------------------------------------|
+B|--------------------------------------------------|
+G|--------------------------------------------------|
+D|--6-4-4--6-4-4------------------------------------|
+A|-------7------7-4--7-7-7-4-2----------------------|
+E|--------------------5--------2-0-2-0--------------|
+
+    C#m                          B
+Em passos largos mudo Minha direção
+      F#m               A9
+Será mesmo tempo de voltar
+
+   C#m                     B
+Procuro uma saída uma solução
+      E              F#
+Mais fácil é dizer adeus
+     C#m    B         A9
+Adeus,             Adeus
+     C#m    B         A9
+Adeus,             Adeus
+
+     C#m                                 B
+Por Amor a ti Eu Me entreguei, foi por Amor, Meu sangue Eu derramei
+       F#m                               A
+Me humilharam, Me surraram, desprezaram, Me pregaram numa Cruz
+        C#m                             B
+Foi o preço pra poder te libertar e uma nova historia escrever
+      E                      F#
+Eu morri em teu lugar, por amar tanto você
+     A              C#m
+Não é tempo de dizer Adeus
+   A                   E
+A Deus pertence todo o tempo
+       C#m                B
+Sempre que quiser dizer Adeus
+   A                      B
+A Deus entregue o seu sofrimento
+  C#m B A
+A Deus
+
+   C#m                          B
+Em passos largos quero te encontrar
+       F#m                A9
+Pra poder então voltar a ver
+   C#m                          B
+Olhar pra luz que mostra a direção
+      E               F#
+É o tempo de me entregar
+     C#m    B         A9
+A Deus,             A Deus
+     C#m    B         A9
+A Deus,             A Deus
+
+     C#m                                 B
+Por Amor a ti Eu Me entreguei, foi por Amor, Meu sangue derramei
+       F#m                               A9
+Me humilharam, Me surraram, desprezaram, Me pregaram numa Cruz
+        C#m                             B
+Foi o preço pra poder te libertar e uma nova historia escrever
+      E                     F#            (C#m)
+Eu morri em teu lugar, por amar tanto você
+      A9              C#m
+Não é tempo de dizer adeus,
+   A9                  E
+A Deus pertence todo o Tempo,
+       C#m                B
+Sempre que quiser dizer adeus,
+   A9                      E
+A Deus entregue o seu sofrimento
+      A9              C#m
+Não é tempo de dizer Adeus,
+   A9                  E
+A DEUS pertence todo o Tempo,
+       C#m                B
+Sempre que quiser dizer Adeus,
+   A9                      B
+A Deus entregue o seu sofrimento
+
+     C#m    B         A9
+Adeus,             Adeus
+     C#m    B         A9
+Adeus,             Adeus
+
+Final: B  A  B  A  A9
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2

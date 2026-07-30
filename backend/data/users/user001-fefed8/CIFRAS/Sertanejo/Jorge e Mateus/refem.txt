@@ -1,0 +1,54 @@
+@titulo: refem
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Refém
+
+Intro: A   E   F#m   D
+
+F#m                               A
+Não sei explicar como foi que aconteceu
+F#m                               A
+O que já não brilhava em mim você acendeu
+Bm                         F#m
+A chama do amor apagada no coração
+Bm                            F#m
+Eu já tava perdido no meio da solidão
+
+A                                 B
+Feito um anjo da guarda você veio me salvar
+D                          A   E
+Das garras do medo a me torturar
+F#m                                      B
+Sei que existe milhões de maneiras de agradecer
+D                                  E
+Escolhi me entregar totalmente a você
+
+A              E            F#m
+Eu quero seu amor, não abro mão
+
+              D
+Você que libertou meu coração
+A            E               F#m
+Meu amor é seu e de mais ninguém
+                   D          A
+Pra sempre quero ser o seu refém  (2x)
+
+(repete tudo)
+
+Fim: D E D E A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

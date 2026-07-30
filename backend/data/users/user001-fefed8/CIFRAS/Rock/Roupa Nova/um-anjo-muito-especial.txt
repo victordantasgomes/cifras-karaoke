@@ -1,0 +1,98 @@
+@titulo: um-anjo-muito-especial
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Um Anjo Muito Especial
+
+ D     Bm   G      A
+(Anjo, anjo, whoa-oh-oh-oh, oh, oh oh, oh)
+
+ D     Bm   G      A
+(Anjo, anjo, whoa-oh-oh-oh, oh, oh oh, oh)
+
+D            F#m
+  Eu vim pra ser seu anjo
+G          A   D
+  Pra lhe proteger
+Em    A         D      Bm
+  Do céu de onde eu desci
+  E7                 A
+  Eu vim cuidar de você
+
+D             F#m
+  Quem sabe ouvir um anjo
+G       A7  D
+  Sabe adivinhar
+Em   A  D    Bm
+  E ver o caminho
+
+  E7       A7     D
+  Por onde deve andar
+
+    Em       A          F#m     Bm
+Sorrir é melhor quando soma e traz
+    Em       A         D
+Um outro sorriso em alguém
+  F#m      C#m   F#m     C#m
+O que você dá, o mal e o bem,
+    E7               A7
+Que vai mas volta também
+
+D             F#m
+  Por isso eu sou seu anjo
+G        A    D
+  Só pra você ver
+Em     A           D      Bm
+  Por mais que eu seja um anjo
+  E7    A7        D
+  Meu milagre é você
+
+    Em       A          F#m     Bm
+Sorrir é melhor quando soma e traz
+    Em       A         D
+Um outro sorriso em alguém
+  F#m      C#m   F#m     C#m
+O que você dá, o mal e o bem,
+    E7               A7  Bb7
+Que vai mas volta tambééééém
+
+Eb            Gm
+  Por isso eu sou seu anjo
+Ab       Bb   Eb
+  Só pra você ver
+Abm    Bb         Eb      Cm
+  Por mais que eu seja um anjo
+  F7    Bb7       Eb
+  Meu milagre é você
+F7      Bb7       Eb
+O meu milagre é você
+       Cm7  Ab Bb7/F                      Eb
+(Anjo, anjo, whoa-oh-oh-oh, oh, oh oh, oh) (2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Ab = 4 3 1 1 1 4
+Abm = 4 6 6 4 4 4
+Bb = X 1 3 3 3 1
+Bb7 = X 1 3 1 3 1
+Bb7/F = X X 3 3 3 4
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+Cm = X 3 5 5 4 3
+Cm7 = X 3 5 3 4 3
+D = X X 0 2 3 2
+E7 = 0 2 2 1 3 0
+Eb = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+F7 = 1 3 1 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

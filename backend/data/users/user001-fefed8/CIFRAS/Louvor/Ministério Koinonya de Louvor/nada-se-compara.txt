@@ -1,0 +1,53 @@
+@titulo: nada-se-compara
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - Nada Se Compara
+
+intro: D  G/D  D  A9  :  D  G/D  D  A9
+
+     D             G            D    A9
+Nada se compara a Glória do Senhor
+       D           G          A9   A#º
+Que criou o céu, a terra e o mar
+       Bm       F#m       G         D/F#
+Que criou o universo, estabeleceu o mundo
+      Em       D/F#       G           A9           D    G/D   D   A9
+Sobretudo me criou maravilhoso fez a mim, e fez você
+(DA 1ª VEZ REPETE)
+
+REFRÃO
+    D                 A9             Bm               F#m
+Senhor tu me sondas, tu me conheces, sabes o meu caminhar
+     G         A9           F#m           Bm      Em      G            F#4  F#
+Nos meus pensamentos, esquadrinhas meu querer, de ti nada posso esconder
+G         A9     F#m           Bm
+Do teu Espírito, não me ausentarei
+         Em                D/F#                  G
+Pois se subo ao céu, ou se desço ao mar, em qualquer lugar
+        A9           D   G/D   D   A9  D  G/D   D   A9
+O teu amor comigo está
+
+DA 2ª VEZ REPETE O REFRÃO DEPOIS TOCA A PARTE FINAL
+
+PARTE FINAL: D    G/D   D   A9  D   G/D   D   A9  G  G   D
+
+----------------- Acordes -----------------
+A#º = X 1 2 0 2 0
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#4 = 2 4 4 4 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/D = X 5 5 4 3 X

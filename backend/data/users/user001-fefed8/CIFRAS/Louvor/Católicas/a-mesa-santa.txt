@@ -1,0 +1,67 @@
+@titulo: a-mesa-santa
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - A Mesa Santa
+
+[Intro]  D  E  F#m  C#m  D  E7   A
+
+       F#m            C#m
+A mesa santa que preparamos
+              D       E        A  E
+Mãos que se elevam a Ti, Ó Senhor
+          F#m              C#m
+O pão e o vinho, frutos da Terra
+         D        B7       C#
+Duro trabalho, carinho e amor
+
+ D   E   F#m            C#m
+ Ô,  ô,  ô, recebe, Senhor
+ D   E7              A
+ Ô,  ô,  recebe, Senhor
+
+          F#m               C#m
+Flores, espinhos, dor e alegria
+              D       E          A  E
+Pais, mães e filhos diante do altar
+         F#m           C#m
+A nossa oferta em nova festa
+
+         D           B7           C#
+A nossa dor vem, Senhor, transformar
+
+ D   E   F#m            C#m
+ Ô,  ô,  ô, recebe, Senhor
+ D   E7              A
+ Ô,  ô,  recebe, Senhor
+
+       F#m          C#m
+A vida nova, nova família
+          D       E        A  E
+Que celebramos aqui tem lugar
+       F#m             C#m
+Tua bondade vem com fartura
+        D      B7         C#
+É só saber reunir, partilhar
+
+ D   E   F#m            C#m
+ Ô,  ô,  ô, recebe, Senhor
+ D   E7              A
+ Ô,  ô,  recebe, Senhor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

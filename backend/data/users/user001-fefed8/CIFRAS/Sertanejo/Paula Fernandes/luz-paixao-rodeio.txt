@@ -1,0 +1,82 @@
+@titulo: luz-paixao-rodeio
+@autor:
+@intérprete: Paula Fernandes
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Paula Fernandes - Luz, Paixão, Rodeio
+
+Intro 2x: Em  C  G  D
+Riff 1:
+E|------------------
+B|------------12----
+G|------------------
+D|--10--10/12-------
+A|------------------
+E|------------------
+
+Riff 2:
+E|--8h7--------------
+B|------10--8--------
+G|------------9--7---
+D|-----------------9-
+A|-------------------
+E|-------------------
+
+
+G               C         D           G
+Luz, Paixão, Rodeio sempre alguém me amando
+                C         D                G
+Beija a minha boca e diz que não estou sonhando  (riff 1)
+
+                C          D         G
+Diga se as estrelas nascem aqui no chão  (riff 2)
+C    D
+ Oh não
+
+C              D    Bm             Em       C        D
+Luz, Paixão, Rodeio, pé na estrada céu azul, azul é rodeio
+Bm               G   Em          Am     D         G
+Esporas que não ferem, não rodam nessa história de amor
+
+( Em  C  G  D )
+
+Solo: Em C G D Em C D D
+
+G               C           D           G
+Solte os seus cavalos loucos e não se prenda
+                C           D           G
+Se cair de um touro bravo não se arrependa (riff 1)
+               C          D          G
+Diga-se quem vence entende a lei do chão (riff 2)
+C    D
+Oh não
+
+C              D    Bm             Em       C        D
+Luz, Paixão, Rodeio, pé na estrada céu azul, azul é rodeio
+Bm               G   Em          Am     D         G
+Esporas que não ferem, não rodam nessa história de amor
+
+C              D    Bm             Em       C        D
+Luz, Paixão, Rodeio, pé na estrada céu azul, azul é rodeio
+Bm               G   Em          Am     D         G
+Esporas que não ferem, não rodam nessa história de amor
+
+Riff: Em  C  G  D  Em  C  G  D
+
+( Em  C  G  D )
+
+Final: Em  C  D  D  Em
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

@@ -1,0 +1,59 @@
+@titulo: gratidao
+@autor:
+@intérprete: Adhemar de Campos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Adhemar de Campos - Gratidão
+
+(intro) Em  Em(add9) D C7M   G/B  Am7    Am(add9)/G
+        F#m7(b5)  B7(#9)  Em(add9)
+
+           Em7             Bm/D             C7M                Bm7    Am7
+Como esquecer o dia           quando tudo começou
+         G/B        D      Bm7     Em7
+Minha vida totalmente ali mudou
+        Em7                           Bm/D
+Encontrei o que eu queria
+       C7M                            Bm7     Am7
+Algo que me transformou
+        G/B                     D     Bm7    Em7
+Encontrei um Deus que tanto me     amou
+
+          C7M                  D/C
+Agora minha vida é pra Ti Senhor
+        Bm7    D#º        Em7             Em/D
+Tu és digno   de todo o meu louvor
+          C7M            D/C
+Venho dedicar a ti essa canção
+    Bm7     D#º     Em7
+E dizer da minha   gratidão
+Am7           C/D        G7M     B7(#9)  (voltar ao começo)
+Te adorar de todo coração
+
+ Am7            C/D       G7M       C7M
+Te adorar de todo coração      (na 2ª repetição)
+
+----------------- Acordes -----------------
+Am(add9)/G = 3 0 2 4 1 0
+Am7 = X 0 2 0 1 0
+B7(#9) = X 2 1 2 3 X
+Bm/D = X 5 X 4 7 7
+Bm7 = X 2 4 2 3 2
+C/D = X X 0 0 1 0
+C7M = X 3 2 0 0 X
+D = X X 0 2 3 2
+D#º = X X 1 2 1 2
+D/C = X 3 X 2 3 2
+Em = 0 2 2 0 0 0
+Em(add9) = 0 2 4 0 0 0
+Em/D = X X 0 4 5 3
+Em7 = 0 2 2 0 3 0
+F#m7(b5) = 2 X 2 2 1 X
+G/B = X 2 0 0 3 3
+G7M = 3 X 4 4 3 X

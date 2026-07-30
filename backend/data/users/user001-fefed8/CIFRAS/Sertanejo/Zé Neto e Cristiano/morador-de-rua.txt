@@ -1,0 +1,131 @@
+@titulo: morador-de-rua
+@autor:
+@intérprete: Zé Neto e Cristiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zé Neto e Cristiano - Morador de Rua
+
+[Intro] G#m  E  B  F#
+
+[Riff da intro]
+
+E|------------------------------------|
+B|------------------------------------|
+G|------------------------------------|
+D|--8/9--8--9~--8--9~--11\8~----------|
+A|------------------------------------|
+E|------------------------------------|
+
+[Primeira Parte]
+
+   G#m                  E
+Eu to sofrendo tanto, ela nem faz ideia
+   B                     F#
+Cabelo tá crescendo e a barba igual do Enéas
+    G#m                      E
+Já perdi o emprego e a casa vai hipotecar
+     B                     F#
+Não tenho o que comer não tenho onde morar
+
+
+[Pré-Refrão]
+
+C#m                 E
+   E o dinheiro gastei tudo no bar
+     B                       F#
+Não tem pra quem correr não tem pra quem chorar
+   C#m                    E
+Cade os meus amigos, meu pai me deserdou
+    B                      F#
+To virando mendigo por causa do seu amor
+
+[Refrão]
+
+      B  C#5  D#5  F#5 C#m
+Se a gente   não  volt-ar
+                 E                      B
+A cidade vai ganhar mais um morador de rua
+      B  C#5  D#5  F#5 C#m
+Se a gente   não  volt-ar
+                     E
+Na calçada eu vou morar
+                    B
+E o banho é só de chuva
+
+      B  C#5  D#5  F#5 C#m
+Se a gente   não  volt-ar
+                 E                      B
+A cidade vai ganhar mais um morador de rua
+      B  C#5  D#5  F#5 C#m
+Se a gente   não  volt-ar
+                     E
+Na calçada eu vou morar
+                   B
+E a culpa vai ser sua
+
+( B  C#5  D#5  F#5  C#m  E  B )
+( B  C#5  D#5  F#5  C#m  E )
+
+[Primeira Parte]
+
+   G#m                  E
+Eu to sofrendo tanto, ela nem faz ideia
+   B                     F#
+Cabelo tá crescendo e a barba igual do Enéas
+    G#m                      E
+Já perdi o emprego e a casa vai hipotecar
+     B                     F#
+Não tenho o que comer não tenho onde morar
+
+[Pré-Refrão]
+
+C#m                 E
+   E o dinheiro gastei tudo no bar
+     B                       F#
+Não tem pra quem correr não tem pra quem chorar
+   C#m                    E
+Cade os meus amigos, meu pai me deserdou
+    B                      F#
+To virando mendigo por causa do seu amor
+
+[Refrão]
+
+      B  C#5  D#5  F#5 C#m
+Se a gente   não  volt-ar
+                 E                      B
+A cidade vai ganhar mais um morador de rua
+      B  C#5  D#5  F#5 C#m
+Se a gente   não  volt-ar
+                     E
+Na calçada eu vou morar
+                    B
+E o banho é só de chuva
+
+      B  C#5  D#5  F#5 C#m
+Se a gente   não  volt-ar
+                 E                      B
+A cidade vai ganhar mais um morador de rua
+      B  C#5  D#5  F#5 C#m
+Se a gente   não  volt-ar
+                     E
+Na calçada eu vou morar
+                   B
+E a culpa vai ser sua
+
+[Final] B  C#5  D#5  F#5  C#m  E  B
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C#5 = X 4 6 6 X X
+C#m = X 4 6 6 5 4
+D#5 = X 6 8 8 X X
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#5 = 2 4 4 X X X
+G#m = 4 6 6 4 4 4

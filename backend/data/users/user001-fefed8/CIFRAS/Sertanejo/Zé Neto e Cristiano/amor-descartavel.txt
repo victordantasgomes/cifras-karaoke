@@ -1,0 +1,153 @@
+@titulo: amor-descartavel
+@autor:
+@intérprete: Zé Neto e Cristiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Zé Neto e Cristiano - Amor Descartável
+
+Capo Casa 1
+
+[Intro] C  G4  Am7  F9
+
+   C                  G4
+E|------------------------------------------|
+B|-0h1-1-1-1-1-0-0h1--0h1-1-1-1-1-0-0h1-----|
+G|-0------------------0---------------------|
+D|-2------------------0---------------------|
+A|-3----------------------------------------|
+E|--------------------3---------------------|
+
+   Am7                      F9
+E|--------------------------3---------------|
+B|-0h1-1-1-1-1-0-1/3-1-0-1--1---------------|
+G|-0------------------------2---------------|
+D|-2------------------------3---------------|
+A|-0----------------------------------------|
+E|------------------------------------------|
+
+[Primeira Parte]
+
+ C
+Vai ensaiando aí
+
+     G4
+As frases pra me iludir
+    Am7
+Já foi e voltou tantas vezes
+      F9
+Que a última eu nem percebi
+
+     F           G4          Am7
+Mais uma vez, você jurando que mudou
+     F           G4         Am7
+Mais uma vez, você me prometendo amor
+
+[Pré-Refrão]
+
+   F                  G
+Mudar desse jeito em tão pouco tempo
+   Am7
+Eu acho improvável
+   F                G
+E já tô cansado de tanto
+           Am7
+Eu te amo descartável
+
+[Refrão]
+
+     C           G4
+Que dá vontade, dá
+                               Dm7
+De fingir que eu te aceito de novo
+                              F
+Só por hoje te amar feito um louco
+                   C
+E amanhã te mandar ir embora
+              G4
+Colocar suas malas pra fora
+       Dm7
+Te tratar feito uma qualquer
+                F
+Só pra você sentir na pele como é
+
+[Solo] C  G4  Dm7  F
+
+E|------------------------------------------|
+B|---------5-8-8--3h5p3-1--1h3-3-3-3-1-1h3--|
+G|-----5h7-----x-----------0h2-2-2-2-0-0h2--|
+D|-5h7---------x----------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|-3h5p3-1------------5-8-8/10--3/5\3\1-----|
+G|---------2------5h7-----------------------|
+D|------------5h7---------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|---------5-6-6-5--------------------------|
+G|-----5-7---------7-5----------------------|
+D|-5-7--------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Pré-Refrão]
+
+   F                  G
+Mudar desse jeito em tão pouco tempo
+   Am7
+Eu acho improvável
+   F                G
+E já tô cansado de tanto
+           Am7
+Eu te amo descartável
+
+[Refrão]
+
+     C           G4
+Que dá vontade, dá
+                               Dm7
+De fingir que eu te aceito de novo
+                              F
+Só por hoje te amar feito um louco
+                   C
+E amanhã te mandar ir embora
+              G4
+Colocar suas malas pra fora
+       Dm7
+Te tratar feito uma qualquer
+                F
+Só pra você sentir na pele como é
+
+     C           G4
+Que dá vontade, dá
+                               Dm7
+De fingir que eu te aceito de novo
+                              F
+Só por hoje te amar feito um louco
+                   C
+E amanhã te mandar ir embora
+              G4
+Colocar suas malas pra fora
+       Dm7
+Te tratar feito uma qualquer
+                F                 C
+Só pra você sentir na pele como é
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+Am7*  = X 0 2 0 1 0 - (*A#m7 na forma de Am7)
+C*  = X 3 2 0 1 0 - (*C# na forma de C)
+Dm7*  = X 5 7 5 6 5 - (*D#m7 na forma de Dm7)
+F*  = 1 3 3 2 1 1 - (*F# na forma de F)
+F9*  = 1 3 5 2 1 1 - (*F#9 na forma de F9)
+G*  = 3 2 0 0 0 3 - (*G# na forma de G)
+G4*  = 3 5 5 5 3 3 - (*G#4 na forma de G4)

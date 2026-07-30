@@ -1,0 +1,71 @@
+@titulo: setembro
+@autor:
+@intérprete: LS Jack
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+LS Jack - Setembro
+
+(intro 8x) ( D  E  F#m )
+
+     D      E    F#m              D    E   F#m
+a desordem na janela   /   a tristeza na TV
+      D   E    A        E/G#   D    E    F#m
+Esse dia de setembro   que não para de doer
+   D      E    F#m             D     E     F#m
+Atrás daquela porta   /   Tudo em contradição
+       D     E     A       E/G#  D       E    F#m
+Uma guerra se diz santa   Mas o ódio é a direção
+
+(refrão)
+    A  E/G#      F#m F#m/E
+Na paz       do amor
+          D          A/C#          Bm   G   E
+Eu vou vivendo como Bob Marley me ensinou
+    A  E/G#      F#m  F#m/E
+Na paz       do amor
+   D        A/C#   Bm    Bm/A  G        Gm
+Correndo em minhas veias sujas pela dor
+
+
+( D E F#m ) (2x)
+
+      D      E     F#m           D      E     F#m
+O suspeito de um aperto  /  e no peito uma pressão
+         D     E    A       E/G#    D   E      F#m
+Que me queima destruindo    Como o fogo do dragão
+    D      E  F#m            D     E      F#m
+Às vezes violenta  /  Outras vezes com perdão
+    D       E    A        E/G#   D      E   F#m
+Uma onda que te afoga    Quando chora o coração.
+
+(refrão)
+
+( D E F#m ) (8x)
+
+    D      E  F#m            D     E      F#m
+Às vezes violenta  /  Outras vezes com perdão
+    D       E    A        E/G#   D      E   F#m
+Uma onda que te afoga    Quando chora o coração.
+
+(refrão) (4x)
+(na segunda parte não faz o Gm, faz o G e E, o Gm é só do final)
+(finaliza com um D após o refrão)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+F#m/E = X X 2 2 2 2
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

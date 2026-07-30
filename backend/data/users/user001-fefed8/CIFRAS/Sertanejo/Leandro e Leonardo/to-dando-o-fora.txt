@@ -1,0 +1,63 @@
+@titulo: to-dando-o-fora
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - Tô Dando o Fora
+
+Intro: D G A7 D G A7 G A7 D
+
+    D               G          D
+    Tô dando o fora,chega de sofrer
+                          G            A7
+    Vai ser bom pra mim e melhor pra você
+      Bm                     F#m    G               D
+    A gente não se parece em nada , duas metades trocadas
+        G                   A4/7  A7
+    História que ninguém contou
+    Bm                 F#m       G                D
+    Somos a flor e o espinho , ficamos no sonho sozinhos
+       G             A7    D    Am7 D7
+    Num sono que não despertou
+            G
+    Ninguém perde o que não tem
+    Um amor vai e o outro vem
+         D
+    Você teve o meu corpo e não tocou meu coração
+         Em                    A7
+    Insistir no mesmo erro é viver em desespero
+
+            D       Am7 D7
+    Não tem solução
+       G
+    Avisei diversas vezes , o nosso amor corre perigo
+           D                                Bm
+    Mas me ver jogado ao chão ao chão era o seu objetivo
+           Em         A7           G/B       A/C#
+    Não adianta fazer cena , por você senti amor
+         D           A4/7 A7
+    Hoje sinto pena
+  SOLO: D G A7 Bm Bm7+ D/A E7/G# A4/7 A7 D Em A7
+  REPETE DO INÍCIO AO FIM
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A4/7 = X 0 2 0 3 0
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+Bm = X 2 4 4 3 2
+Bm7+ = X 2 4 3 3 2
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D7 = X X 0 2 1 2
+E7/G# = 4 X 2 4 3 X
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

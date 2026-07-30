@@ -1,0 +1,81 @@
+@titulo: lua-cheia
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Lua Cheia
+
+
+Intro: B Bm7
+
+  B                    A/B
+Mulher, tal qual Lua cheia
+            G/B
+Me ama e me odeia
+             F#m
+Meu ninho de amor
+  B                  A/B
+Luar é meu nome aos avessos
+                  G/B
+não tem fim nem começo
+             F#m
+Ó megera do amor!
+ B               A/B
+Você é a vil caipora
+                 G/B
+Depois que me devora
+            F#m
+Ó gibóia do amor!
+
+    E                     F#7
+Negar que me cospe aos bagaços
+                        E
+Que me enlaça em seus braços
+                     F#7
+tal qual uma lula do mar ...
+D        G             A7
+ Ó Lua Cheia, veve piscando
+                 D
+os seus óios para mim
+D7      G              A7
+ Ó Lua Cheia, cê me ajudeia
+                   D     F#7
+desde o dia qu'eu nasci
+   B                  A/B
+O Sol me abandona no escuro
+              G/B
+do teu reino noturno
+               F#m
+ó feiticeira do amor
+  B                    A/B
+Ouvir o teu canto de sereia
+              G/B
+é cair na tua teia
+                F#m
+ó fada bruxa do amor
+        E                     F#7
+Uhm, negar que me cospe aos bagaços
+                       E
+Que me enlaça em seus braços
+                   F#7
+Tal qual uma lula do mar
+              Refrão
+
+----------------- Acordes -----------------
+A/B = X 2 2 2 2 X
+A7 = X 0 2 0 2 0
+B = X 2 4 4 4 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

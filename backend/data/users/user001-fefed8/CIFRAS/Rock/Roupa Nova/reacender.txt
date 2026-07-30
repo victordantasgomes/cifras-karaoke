@@ -1,0 +1,10 @@
+@titulo: reacender
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:

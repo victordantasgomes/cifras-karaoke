@@ -1,0 +1,64 @@
+@titulo: vem-ficar-comigo
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Vem Ficar Comigo
+
+(intro) E E4
+
+
+( E           E4 )
+Olho em seus olhos
+Sinto o coração bater
+De amor enfeitiçado
+Com vontade de te ver
+        ( A    A4 )
+Porque te amo
+        ( E    E4 )
+Porque te amo
+
+( E         E4 )
+Uma luz de fogo
+O meu corpo vem queimar
+Louco de desejo
+Tô querendo te encontrar
+        ( A     A4 )
+Porque te amo
+        ( E     E4 )
+Porque te amo
+
+
+C#m                  B
+Quero ficar ao seu lado
+A                    E
+Fonte de amor meu pecado
+C#m              B
+Quero você todo dia
+A
+Uma chance pra dizer
+     ( E    E4 )
+Eu te amo
+            F#m   A     E
+Ô,ô,ô,ô,    vem ficar comigo   (bis)
+            F#m
+Ô,ô,ô,ô     vem ficar,vem ficar
+A                     E
+Vem ficar,vem ficar comigo     (bis)
+
+Introdução e volta ao começo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2

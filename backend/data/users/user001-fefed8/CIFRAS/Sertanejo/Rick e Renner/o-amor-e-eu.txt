@@ -1,0 +1,71 @@
+@titulo: o-amor-e-eu
+@autor:
+@intérprete: Rick e Renner
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rick e Renner - O amor e eu
+
+Intro: A F#m Bm F#m C#m D Bm D/F# D/E A
+
+         A                    D
+ O amor e eu , somos mesmo parecidos
+                  E/G#             D/E       A
+ Somos velhos conhecidos , feito vinho e o pão
+          A7         D/F#           D/E        F#m7  E
+ Feito o trigo e a cevada , feito a dor e a paixão
+          A                                 D/F#
+ O amor e eu(o amor e eu) , somos mesmo parecidos
+                  E/G#               D/E         A
+ Somos velho conhecidos , feito o leite e o café
+         A7        D             E/G#           A
+ Feito o sol e o verão , feito a praia e a maré
+        E                           A
+{Amor e eu , sempre andamos de mãos dadas
+{     A7            D            D/E          A
+{Por atalhos,por estradas , procurando por você
+{        E/G#                         A
+{O amor e eu , estamos loucos de saudade
+{      A7        D             D/E         A  D/F# E
+{Dessa tal felicidade , que só chega com você
+
+   E      A                     D
+ O amor e eu , somos mesmo parecidos
+                   E/G#                         A
+ Somos velhos conhecidos , feito a fêmea e o cio
+         A7           D             D/E      A   D/E
+ Feito a lava e o vulcão , feito o peixe e o rio
+          A                    D/F#
+ O amor e eu , somos mesmo parecidos
+                   E/G#              D/E             A
+ Somos velhos conhecidos , feito o sangue e o coração
+          A7          D              E/G#              A
+ Feito o sorriso e os dentes , feito a maçã e a sedução
+    Repete Estribilho
+    Solo : D E/D C#m F#m Bm D/A G E A
+    Repete 2ª parte , repete estribilho 2 vezes
+
+ A         F#m    Bm  D/E  A
+ (O amor e eu), o amor   e eu
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

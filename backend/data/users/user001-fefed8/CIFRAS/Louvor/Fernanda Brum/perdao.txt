@@ -1,0 +1,71 @@
+@titulo: perdao
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Perdão
+
+Intro: F  G  Em  Am  F  G  C
+       F  G  Em  Am  F  G  C4  C
+
+G          F
+Perdoai nossos pecados
+
+Como temos perdoado
+C        G  F
+A quem nos tem ofendido
+C         G          F
+Perdoai nossos pecados
+
+Como temos perdoado
+C         G F
+A quem nos tem atingido
+Dm           G              C        G     F
+Se o teu inimigo tiver fome, dá-lhe de comer
+Dm     Dm/C   G             C        Em    F
+Se o teu inimigo tiver sede, dá-lhe de beber
+Am                G
+Somos filhos de Deus
+
+
+C                    F
+E prá nós o mais importante é o amor
+Dm                G
+Somos filhos de Deus
+C                    F
+E prá nós o mais importante é o amor
+C       G         F               G
+Perdão, perdão! Quero te pedir perdão
+C        G         F                   G
+Perdoar, perdoar! Quero aprender a perdoar
+Am    Em    F                 G
+Amar, amar! Sim, eu quero te amar
+Dm         C/E        F              G  F
+Ser amado, ser amado! Eu preciso ser amado
+C       G     F                  G
+Perdão, perdão antes do partir do pão
+C        G      F                 G
+Perdoar, perdoar antes do vinho tomar
+Am     Em    F                G
+Amar, amar! sim eu quero te amar
+Dm         C/E        F              G  F
+Ser amado, ser amado, Eu preciso ser amado
+
+Solo: G  Em  Am  F  G  C
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C4 = X 3 3 0 1 X
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

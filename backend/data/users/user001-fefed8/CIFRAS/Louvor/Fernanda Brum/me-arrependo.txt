@@ -1,0 +1,67 @@
+@titulo: me-arrependo
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Me Arrependo
+
+          C#m            B
+Por ter manchado o Teu altar
+           A
+Eu me arrependo
+       C#m          B
+Envergonhado o Teu nome
+        A
+Me arrependo
+    C#m  A    C#m   E
+Por impedir o Teu fluir
+   A                    Bsus4
+E por negociar a Tua unção
+                    G#
+Me sinto tão arrependido
+                     C#m
+Vem lavar os meus vestidos
+       A          A/E           E
+Restaurar a minha honra de ser servo
+     C#m
+E beijar Teus pés
+    A
+Beijar Teus pés
+
+
+       Bsus4
+Beijar...
+        E       B/D#
+Me arrependo
+        C#m   C#m/B
+Me arrependo
+        A      E/G#
+Me arrependo
+        A
+Me arrependo
+B   B/D#  E
+Eu me arrependo
+       C#m   C#m/B
+Me arrependo
+        A      E/G#
+Me arrependo
+        A
+Me arrependo....
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/E = 0 X 2 2 2 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+Bsus4 = X 2 4 4 5 2
+C#m = X 4 6 6 5 4
+C#m/B = 7 X 6 6 5 X
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+G# = 4 3 1 1 1 4

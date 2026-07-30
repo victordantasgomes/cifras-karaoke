@@ -1,0 +1,55 @@
+@titulo: consequencia-de-te-amar
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - Consequência de Te Amar
+
+(intro) F#m E D D E F#m F#m E D E
+
+E|-5-4-2-------|
+B|-------5-5h7-|
+G|-------------|
+D|-------------|
+A|-------------|
+E|-------------|
+
+(riff 2)
+E|-----5-4-------|
+B|-0h2-----5-5h7-|
+G|---------------|
+D|---------------|
+A|---------------|
+E|---------------|
+
+F#m                 E                    D
+Outra noite outro caos minha vida fica mal se eu brigo com você
+F#m              E                    D
+Um ciúme acelerado faz meu peito detonar, ao cansaço se render    RIFF 2
+
+F#m                  E                           D
+E que peço pra mim mesmo que a vergonha me dê jeito, eu não mando mais em mim
+F#m                E                      D                    E
+Sou vidrado em você e mesmo sem você querer, vou seguir seus passos sim
+A                  E                    D              E
+Você trapaça me ilude faz seu jogo usa truques, sabe me enganar
+A                    E                          D              E
+Já não é surpresa alguma se eu te encontrar na rua, bebendo em algum bar
+A                 E                        D              E
+Tá na noite ta pirada já não liga mais pra nada, quer se divertir
+A                      E                      D           E
+Se envolveu com meus amigos vive a vida em perigo, louca por aí
+F#m     E      D                             E
+Mas eu amo, eu te amo, estou disposto a pagar as consequências de te amar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,51 @@
+@titulo: deixa-meu-rio
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Deixa Meu Rio
+
+         F         F#º Gm
+Existe um rio puro
+  Bb              C
+Rio da água da vida
+      F         F7    B  Bbm
+Que procede do meu coração
+      Gm        Bb        C
+Te envolve, te cura, te limpa
+
+  F         F#º    Gm Bb/C
+Deixa meu rio passar
+  Bb      C     F
+Deixa meu rio fluir
+ F         F7     Bb        Bbm
+O que não podes fazer eu farei
+  F        C     Bb  F/A Gm F
+Deixa meu rio passar
+
+    F         F#º   Gm Bb/C
+Deixa meu rio Curar
+  Bb      C     F
+Deixa meu rio limpar
+  F         F7     Bb        Bbm
+O que não podes fazer  eu farei
+ F       C      Bb  F/A Gm F
+Deixa meu rio passar
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+Bb/C = X 3 X 3 3 1
+Bbm = X 1 3 3 2 1
+C = X 3 2 0 1 0
+F = 1 3 3 2 1 1
+F#º = 2 X 1 2 1 X
+F/A = 5 X 3 5 6 X
+F7 = 1 3 1 2 1 1
+Gm = 3 5 5 3 3 3

@@ -1,0 +1,64 @@
+@titulo: saudade
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Saudade
+
+E
+Meus olhos estão mergulhados
+ G#m
+Num pranto que não tem mais fim
+  E                  E7             A
+E isso aconteceu porque você foi embora
+ F#m                 B7          G#m
+Eu fiz de tudo pra você ficar comigo
+            C#m               F#m
+Quem sente amor não sabe ser amigo
+        B7              E  B7
+E sem você o que faço agora
+
+  E                               G#m
+Os dias vão passando e lembro dos nossos momentos de amor
+      E                  E7                 A
+E um beijo sempre acompanhado de fogo e paixão
+ F#m               B7           G#m
+A minha vida sem você está tão fria
+        C#m              F#m
+A nossa casa sempre tão vazia
+
+             B7                   E   B7
+Volte pra esquentar de vez meu coração
+
+E      F#m
+Ah, saudade
+   B7                               E
+Sem ela o meu coração agora está sofrendo
+ C#m                                  F#m
+E sinto dentro do meu peito um fogo ardendo
+     B7                                        E  B7
+E a minha vida deste jeito vai morrendo aos poucos
+
+ E     F#m
+Ah, saudade
+     B7                              E
+Não dá pra segurar comigo tanto sofrimento
+ C#m                                  F#m
+Me leva pra ficar com ela apenas um momento
+  B7                                    E
+Senão essa paixão ainda vai me deixar louco
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

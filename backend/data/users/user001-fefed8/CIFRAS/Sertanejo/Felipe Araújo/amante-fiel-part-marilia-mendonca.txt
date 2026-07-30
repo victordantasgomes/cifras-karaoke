@@ -1,0 +1,118 @@
+@titulo: amante-fiel-part-marilia-mendonca
+@autor:
+@intérprete: Felipe Araújo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Felipe Araújo - Amante Fiel (part. Marília Mendonça)
+
+[Intro] C#  Fm  D#m  F#  G#
+
+E|---------------------------------------------|
+B|-------9-9~--7p6-7p6-7p6-7~--7p6---------9~--|
+G|-6-6-6---------------------------8-6-6-6-----|
+D|---------------------------------------------|
+A|---------------------------------------------|
+E|---------------------------------------------|
+
+E|-------------------------------------------------|
+B|-7p6-7p6-7p6-7~--7p6-----------6~------6~-7/9-9~-|
+G|---------------------8-6-6-6-8---6~-8~-----------|
+D|-------------------------------------------------|
+A|-------------------------------------------------|
+E|-------------------------------------------------|
+
+            C#
+Ela não reclama quando chego tarde
+                     G#
+Me abraça e diz que ta morrendo de saudade
+                 D#m                 F#
+Que tava me esperando e arrumou a cama
+
+                 Bbm             G#
+De um jeito diferente mas ela me ama
+
+           C#
+Morre de ciúmes mais guarda pra ela
+                G#
+Ta sempre sorridente ela ta sempre bela
+           D#m               F#
+Sabe exatamente tudo que eu gosto
+                 Bbm                    G#
+Não tem meu telefone, mais sabe que eu volto
+
+F#            G#                  Bbm
+Ela sabe o poder que ela tem nas mãos
+                               D#m
+Bagunça minha mente vira confusão
+                              G#
+Com ela eu faço amor até no chão
+
+         C#                                             Fm
+Amante fiel, esse nosso compromisso não depende de um anel
+                                              D#m
+Vai me dando desespero quando é hora de ir embora
+                            F#                 G#
+Eu troco minha vida por um pouco de nós dois agora
+         C#                                             Fm
+Amante fiel, esse nosso compromisso não depende de um anel
+                                          D#m
+Somos preso por esse nosso relacionamento aberto
+                   F#      G#
+Nem preciso me chamar, eu vou estar sempre por perto
+
+[Solo] C#  Fm  D#m  F#  G#  A  B
+
+E|---------------------------------------------|
+B|-------9-9~--7p6-7p6-7p6-7~--7p6---------9~--|
+G|-6-6-6---------------------------8-6-6-6-----|
+D|---------------------------------------------|
+A|---------------------------------------------|
+E|---------------------------------------------|
+
+E|------------------------------------|
+B|-7p6-7p6-7p6-7~--7p6-----------6~---|
+G|---------------------8-6-6-6-8------|
+D|------------------------------------|
+A|------------------------------------|
+E|------------------------------------|
+
+G             A                   Bm
+Ele sabe o poder que ele tem nas mãos
+                               Em
+Bagunça minha mente vira confusão
+                              A
+Com ele eu faço amor até no chão
+
+         D                                              F#m
+Amante fiel, esse nosso compromisso não depende de um anel
+                                              Em
+Vai me dando desespero quando é hora de ir embora
+                            G                  A
+Eu troco minha vida por um pouco de nós dois agora
+         D                                              F#m
+Amante fiel, esse nosso compromisso não depende de um anel
+                                            Em
+Somos preso por esse nosso relacionamento aberto
+                   G       A                    D
+Nem precisa me chamar, eu vou estar sempre por perto
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+A#m = X 1 3 3 2 1
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+D#m = X X 1 3 4 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

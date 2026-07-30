@@ -1,0 +1,154 @@
+@titulo: tao-diferente
+@autor:
+@intérprete: Nando Reis
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nando Reis - Tão Diferente
+
+Intro: A7  B/A  A7
+       A7  B/A  A7  B/A  Dm/A  A
+
+E|----------------------------------------------|
+B|--2--2/5--5--5/4--5/7--7/5--------------------|
+G|----------------------------------------------|
+D|--2--2/5--5--5/4--5/7--7/5--------------------|
+A|----------------------------------------------|
+E|----------------------------------------------|
+
+E|----------------------------------------------|
+B|--2--2/5--5--5/4--5--5/7--7/8--8/7--7/5--5/7--|
+G|----------------------------------------------|
+D|--2--2/5--5--5/4--5--5/7--7/8--8/7--7/5--5/7--|
+A|----------------------------------------------|
+E|----------------------------------------------|
+
+          B/A  Dm/A  A
+E|---------x----1----0--------------------------|
+B|--7/5----4----3----2--------------------------|
+G|---------4----2----2--------------------------|
+D|--7/5----4----x----2--------------------------|
+A|---------0----0----0--------------------------|
+E|---------x----x----x--------------------------|
+
+
+  A                            E
+Estou com vontade de te dizer agora
+G             D       A
+  Agora que você está   na minha frente
+A                           E
+O que passa no meu coração agora
+G             D          A
+  Agora que você me fez   tão  diferente
+
+C                      Bm
+Tão bom como estar com frio
+F     G              A
+ E o amor trazer nas mãos um cobertor
+C                              Bm
+Ou ver as lágrimas descer  os  olhos
+F        G            A7       B/A
+ E ter alguém pra enxugar essa dor
+
+    A7           B/A    A
+Mas eu  estou   aqui
+    A7
+Sou esse ar
+      B/A         A7    B/A    Dm/A     A
+Que você vai respirar   ah     ah       ah
+
+A                                 E
+Dentro do meu peito ou do lado de fora
+G                 D              A
+ Mesmo o que esse jeito esconde   tão diferente
+A                               E
+Deixe que eu mesmo te responda agora
+G            D        A
+ Agora que você está   na minha frente
+
+      C                        Bm
+O que é tão bom como ficar com frio
+F         G             A
+ E o teu amor fazer das mãos cobertor
+C                                  Bm
+Ou ver as lágrimas como nascer dos olhos
+F        G             A7       B/A
+ E ter alguém pra entregar essa dor
+
+     A7          B/A    A
+Pois eu estou   aqui
+   A7
+No mesmo ar
+      B/A         A7      B/A    Dm/A     A
+Que você vai respirar     ah     ah       ah
+
+A                                 E
+Dentro do meu peito ou do lado de fora
+G                 D              A
+ Mesmo o que esse jeito esconde   tão diferente
+A                               E
+Deixe que eu mesmo te responda agora
+G            D        A
+ Agora que você está   na minha frente
+
+      C                        Bm
+O que é tão bom como ficar com frio
+F         G             A
+ E o teu amor fazer das mãos cobertor
+C                                  Bm
+Ou ver as lágrimas como nascer dos olhos
+F        G             A7       B/A
+ E ter alguém pra entregar essa dor
+
+     A7          B/A    A
+Pois eu estou   aqui
+   A7
+No mesmo ar
+      B/A         A7      B/A    Dm/A     A
+Que você vai respirar     ah     ah       ah
+
+    A7           B/A    A
+Mas eu  estou   aqui
+    A7
+Sou esse ar
+      B/A         A7    B/A    Dm/A     A
+Que você vai respirar   ah     ah       ah
+
+ B/A    Dm/A     A
+ ah     ah       ah
+
+    A7           B/A    A
+Mas eu  estou   aqui
+    A7
+Sou esse ar
+      B/A         A7    B/A    Dm/A     A
+Que você vai respirar   ah     ah       ah
+
+B/A    Dm/A     A
+ah     ah       ah
+
+B/A    Dm/A     A
+ah     ah       ah
+
+B/A    Dm/A     A
+ah     ah       ah.......
+
+( A7   B/A  A7 )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm/A = X 0 X 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

@@ -1,0 +1,98 @@
+@titulo: aviso
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Aviso
+
+(KIm, Cezar, Júlio)
+Intr.: (F#m E)
+
+solo 1.: (F#m E)
+
+e|-------------------------------------------------
+B|-------------------------------------------------
+G|------------------------------------------------- 
+D|-----------------------7-6-7-6-4-2---------9~----
+A|-------------------------------------------------
+E|---2---------------------------------------------
+
+e|-------------------------------------------------
+B|-------------------------------------------------
+G|-------------------------------------------------
+D|-----------------------7-6-7-6-4-2---------------
+A|-------------------------------------------------
+E|---2---------------------------------------------
+
+F#m                 E
+Não garota anda devagar
+
+
+Que o medo pode dizer não
+F#m              E
+A tudo que existirá
+                     B
+Na face louca do teu ser
+        F#m
+Que tem fome
+E              F#m
+E vê sua indecisão
+  B           F#m
+E crê que já era
+E
+E foge sem pedir perdão
+
+    F#m     A                 E
+----Não, destrói a mola da paixão
+                                             2x
+----Não desperta um sentimento em vão
+
+
+solo 1.:(F#m E)
+
+F#m                  E
+Não, garota anda devagar
+
+Você está na contramão
+F#m                 E
+E tudo que te dá prazer
+                   B
+Te fere e você não vê
+         F#m
+Que a distância
+E              F#m
+Não é a melhor opção
+  B            F#m
+O amor mora ao lado
+E
+Basta seguir o coração
+
+repete refrão (2x)
+
+Solo.: (F#m A E) 2x
+
+repete refrão (4x)
+
+
+Solo 3.:(F#m E)3X 
+e|-------------------------------------------------
+B|-------------------------------------------------
+G|-------------------------------------------------
+D|-------------------------------------------------
+A|--------------------7-6-7-6-4--------------------
+E|---2---------------------------------------------
+
+Final.: F#m
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

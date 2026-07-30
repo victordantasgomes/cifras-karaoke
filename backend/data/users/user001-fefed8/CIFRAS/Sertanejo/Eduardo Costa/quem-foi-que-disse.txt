@@ -1,0 +1,55 @@
+@titulo: quem-foi-que-disse
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Quem Foi Que Disse
+
+(intro) A  E  F#m  D  A  E  A  E
+
+A                                       E                              F#m
+Quem foi que disse que beleza é assim que se mede?
+D                         A                                     E
+Num formato de rosto ou numa Branca de Neve?
+A                                            E                            F#m
+Quem foi que disse que esse corpo é mais-que-perfeito?
+
+Pra quem gosta de cheio o vazio é defeito
+D                 E                    A         E        F#m
+Eu prefiro olhar nos olhos e então descobrir
+D                       E                    A        E         F#m
+Que pra mim a mais bonita é quem me faz sorrir
+D                               E               A           E        F#m
+Que me importa se a bela é feia ou se a feia é assim
+D                     E                              A    E
+Diferente pro mundo se é bom pra mim
+
+(intro)
+(repete tudo)
+
+
+D                 E                    A         E        F#m
+Eu prefiro olhar nos olhos e então descobrir
+D                       E                    A     E            F#m
+Que pra mim a mais bonita é quem me faz sorrir
+D                               E               A      E                F#m
+Que me importa se a bela é feia ou se a feia é assim
+D                     E                              A    A7
+Diferente pro mundo se é bom pra mim
+D                     E                              A    A7
+Diferente pro mundo se é bom pra mim
+D                     E                              A
+Diferente pro mundo se é bom pra mim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,121 @@
+@titulo: bebado-mais-bebado
+@autor:
+@intérprete: Felipe Araújo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Felipe Araújo - Bêbado Mais Bêbado
+
+[Intro] F9  G  Am  C
+
+   C           G           Am   
+E|------------------------------------------|
+B|---------8~----------8~--------8~--3/5-1~-|
+G|-----------------------------5------------|
+D|---7-10---------9-10-------7--------------|
+A|-8-----------10---------------------------|
+E|-------------------------5----------------|
+
+[Primeira Parte]
+
+ F9                  G9
+Da uma olhada no estoque pra ver se tem cerveja
+Am7              G/B   C
+O suficiente pra essa noite
+     F9               G9
+Tô precisando de um choque
+                        Am7                 G/B       C
+Pra aceitar que aquilo não foi pé na bunda foi um coice
+
+
+[Pré-Refrão]
+
+             F9                  G
+Enquanto eu bebo um copo vai enchendo o outro
+                      Am7         G/B         C
+Pra não dar ter intervalo de lembrar daquele rosto
+       F9
+E que rosto
+      G
+E que boca
+       Am7
+E que corpo
+
+E que gosto
+ F                     G                     Am7
+Vai vai enche enche o copo que ainda não tô louco
+
+[Refrão]
+
+                   F
+Hoje a cidade vai ver
+               G                   Am7  C
+O bêbado mais bêbado chorar por você
+                    F
+Se não voltar por amor
+            G                 Am7  C
+Volta pelo menos pra me socorrer
+                   F
+Hoje a cidade vai ver
+               G                   Am7  C
+O bêbado mais bêbado chorar por você
+                  F
+Coração não entendeu
+               G                 Am7     C
+Como cê tem coragem de abandonar um bebê igual eu
+
+( F  G  Am  C )
+( F  G  Am7 )
+
+[Pré-Refrão]
+
+             F9                  G
+Enquanto eu bebo um copo vai enchendo o outro
+                      Am7         G/B         C
+Pra não dar ter intervalo de lembrar daquele rosto
+       F9
+E que rosto
+      G
+E que boca
+       Am7
+E que corpo
+
+E que gosto
+ F                     G                     Am7
+Vai vai enche enche o copo que ainda não tô louco
+
+[Refrão]
+
+                   F
+Hoje a cidade vai ver
+               G                   Am7  C
+O bêbado mais bêbado chorar por você
+                    F
+Se não voltar por amor
+            G                 Am7  C
+Volta pelo menos pra me socorrer
+                   F
+Hoje a cidade vai ver
+               G                   Am7  C
+O bêbado mais bêbado chorar por você
+                  F
+Coração não entendeu
+               G                 Am7     C
+Como cê tem coragem de abandonar um bebê igual eu
+
+[Final] F  G  Am
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+F = 1 3 3 2 1 1
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G9 = 3 X 0 2 0 X

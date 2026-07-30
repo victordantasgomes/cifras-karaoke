@@ -1,0 +1,101 @@
+@titulo: eu-juro
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Eu Juro
+
+Intro: G  Em  Bm  C/D
+       G  Em  Bm  C/D
+
+G           C      D     G
+ Eu vejo a luz do teu olhar
+          C    D    Em
+Como uma noite de luar
+             C            C/D
+ Luz que me guia onde eu for
+  G
+Você
+       C    D      G
+Meu motivo pra sorrir
+         C     D     Em
+Caminho certo pra seguir
+         G/D
+Saiba que é só teu
+ A/C#            C/D  D
+Meu verdadeiro amor
+    G
+Eu juro
+         Em
+Por mim mesmo
+                    Bm
+Por Deus, por meus pais
+         C
+Vou te amar
+    G
+Eu juro
+           Em               Bm
+Que esse amor não acaba jamais
+         C
+Vou te amar
+   Am             C/D
+É tanto querer, é tanta paixão
+   Am              C/D
+Te amo do fundo do meu coração
+     G    Em Bm C/D
+Eu juro
+G         C     D  G
+ Um homem e uma mulher
+            C      D   Em
+Juntos pro que der e vier
+        C              C/D
+A meia luz, a dois, a sós
+   G
+Então
+   C     D     G
+A gente vai sonhar
+        C     D  Em
+E conseguir realizar
+             G/D
+Um mundo de amor sem fim
+   A/C#               C/D
+Porque só depende de nós
+    G
+Eu juro
+          Em
+Por mim mesmo,
+                     Bm
+Por Deus, por meus pais
+         C    D
+Vou te amar
+    G
+Eu juro
+           Em              Bm
+Que esse amor não acaba jamais
+        C
+Vou te amar
+  Am               C/D
+É tanto querer, é tanta paixão
+   Am               C/D
+Te amo do fundo do meu coração
+    G   C  D
+Eu juro
+    G
+Eu juro
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/D = X 5 5 4 3 X

@@ -1,0 +1,47 @@
+@titulo: amigo-locutor
+@autor:
+@intérprete: Victor e Leo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Victor e Leo - Amigo Locutor
+
+A
+Tô no celular falando de um bar
+      D
+Bebi todas pra poder ligar
+                A
+Perdi um grande amor não sei o que fazer
+         D
+Amigo locutor liguei pra te dizer.
+           C#m
+Manda um recado e um beijo meu
+                F#m
+Sei que ela não perde um programa seu
+                  D
+Mas não me abre a porta nem tem celular
+                 E
+Então só tem um jeito dela me escutar
+A             E                F#m              D
+Vai locutor, diz que eu tô completamente apaixonado
+      A            E
+Louco de amor diga por favor
+ F#m                D              A
+Fala ai no ar: 'não sei viver sem ela'
+
+.         E           F#m             D           A    E
+Que tem um cara aqui com saudade dela, cheio de desejos
+         F#m             D              A
+Diz pra ela locutor, só quero mais um beijo!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

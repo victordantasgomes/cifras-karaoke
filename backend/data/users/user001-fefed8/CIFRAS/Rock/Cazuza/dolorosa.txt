@@ -1,0 +1,82 @@
+@titulo: dolorosa
+@autor:
+@intérprete: Cazuza
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cazuza - Dolorosa
+
+Intro.: E A B C
+
+E    A    D        A/C#
+Fim,  a  noite acabou
+          E  A
+Feito o gim
+D
+Espuma  branca
+    C
+varrendo o meu pé
+G                F#m                  A
+Os amigos de sempre já estão indo embora
+G                   F#m
+E o garçom fecha o bar
+                    A
+Mal humorado e cansado
+C                   B
+Será que você não vê ?
+Em                         G  A
+Que o teu lugar é do meu lado
+Em                         G  A
+Nós dois indo juntos pra casa
+
+Em                         G  A
+Eu já tô vendo o meu fantasma
+     B                  C7+
+Guardando lugar pra amanhã.
+     B                    A
+Guardando o lugar pra amanhã.
+         E   A      D       A/C#
+Mas se você  por acaso voltasse
+     E  A
+Pra mim
+      D         A/C#
+Por baixo da mesa
+     C
+Chutando o meu pé
+G            F#m
+Piscando o olho
+                A
+Pra gente ir embora
+G               F#m
+Doce ar de chantagem
+                  A
+Por uma noite melhor
+C                   B
+Nós dois e mais ninguém
+Em                     G  A
+O teu lugar é do meu lado
+Em                         G  A
+Nós dois indo juntos pra casa
+Em                         G  A
+Eu já tô vendo o meu fantasma
+     B                  C7+
+Guardando lugar pra amanhã.
+     B                    A
+Guardando o lugar pra amanhã...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

@@ -1,0 +1,83 @@
+@titulo: a-batalha-e-do-senhor
+@autor:
+@intérprete: Adhemar de Campos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Adhemar de Campos - A Batalha É do Senhor
+
+(intro)   : (solo bateria)
+G9/E   :   A9  :  A9/F#   :   G9   :  Bm7  D/E   :  A9  : A9/F#   :   G9   :   G9/E   :
+
+           A9/F#                  D7+           Bm7 C#m7
+Quando os grandes homens de Judá viram o inimigo
+    A9/F#
+O Senhor mandou que eles não temessem
+      D7+          (D7+ C#m7 Bm7)
+Pois daria a vitória
+            C#m7              D7+ (D7+ C#m7 Bm7)
+E chamou a cantar uma nova canção
+           C#m7                    D/E
+Abaixar a espada e levantar o louvor
+
+A9          A9/F#            G9
+    Cante ao Senhor com alegre som
+                Bm7    D/E  A9
+    Erga a voz para o seu louvor
+               A9/F#           G9 (refrão 2x)
+    Um canto vencedor na tribulação
+               Bm7         D/E     A9 -------->> (SOLO BATERIA) G9/E
+    Crê somente a batalha é do Senhor
+
+      A9/F#
+Quando algum mal te encontrar
+   D9        Bm7 C#m7
+Confia no Senhor
+       A9/F#
+Crê em Deus que nunca te deixará
+     D7+            (D7+ C#m7 Bm7)
+Ele sempre perto está
+            C#m7             D7+ (D7+ C#m7 Bm7)
+Você pode erguer uma nova canção
+                  C#m7              D/E                  final    ( A9    G      A9     F#     G9   Em)
+A9
+Porque a batalha é do Senhor
+[A batalha é do Senhor]                           3X
+
+(refrão)
+G/A               G/A                G/A G9/E A9/F# G9 Bm7
+Cantai------------Cantai------------ Cantai
+G/A              G/A G/A G9/E A9/F# G9 Bm7 A/C# D
+Cantai------------ Cantai------------Cantai
+
+      G/A    D/A     Dm/A            A9    C#m D
+Porque ele é bom, Seu amor dura para sempre
+       G/A    D/A     Dm/A            A9/F#
+Porque ele é bom, Seu amor dura para sempre
+             D/E
+Pra sempre e sempre          (refrão)
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+A9/F# = 2 X 2 2 0 0
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/E = X X 2 2 3 2
+D7+ = X X 0 2 2 2
+D9 = X X 0 2 3 0
+Dm/A = X 0 X 2 3 1
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G9 = 3 X 0 2 0 X
+G9/E = 0 2 0 2 0 3

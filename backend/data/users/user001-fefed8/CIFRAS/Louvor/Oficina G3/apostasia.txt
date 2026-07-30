@@ -1,0 +1,103 @@
+@titulo: apostasia
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - Apostasia
+
+introd: (com distorção)
+     (3x)       riff 1  (1º parte)                    riff 1 (2º parte)
+E|-------------|-------------------------------------|-------------------------------|
+B|-------------|-------------------------------------|-------------------------------|
+G|-------------|-------------------------------------|-------------------------------|
+D|-------------|-------------------------------------|-------------------------------|
+A|--0-3--0-5b--|--------3-------4-3-----1------------|--------3-------4-3-----1------|
+E|--0-5--0-7b--|-1-3-3----1-3-3-----1-3---0-1-3-0-1-3|-1-3-3----1-3-3-----1-3---0-1-3|
+
+ faz riff 1 até "vergonha pode ser" e depois faz o seguinte riff:
+
+riff 2
+E|------------|
+B|------------|
+G|------------|
+D|--------5b--|
+A|--3-5b--3b--|
+E|--1-3b------| (4x)
+
+depois repete o riff 1 até o refrão que é  feito com o seguinte riff:
+
+
+riff 3
+E|--------------------------------|
+B|--------------------------------|
+G|--------------------------------|
+D|-----------3--------------3-----|
+A|---3-3-3-3-1-5-3--3-3-3-3-1-5---|
+E|---1-1-1-1---6-1--1-1-1-1---6---|
+
+depois do refrão faz o riff 1 com uma modificação:
+
+riff 4
+E|----------------------------------------|
+B|----------------------------------------|
+G|----------------------------------------|
+D|------------------------------1--2-1----|
+A|--------3-------4-3-----1-2-4-------1~--|
+E|-1-3-3----1-3-3-----1-3-----------------|
+
+apos feito isso faz o riff 1(1º parte) e depois muda ele de P/ G. dessa forma:
+
+riff 5                                      antes do refrão é feito 1 rifizinho:
+E|-----------------------------------------|------------------------------------|
+B|-----------------------------------------|------------------------------------|
+G|-----------------------------------------|------------------------------------|
+D|-----------------------------------------|------------------------------------|
+A|--------5-------6-5-----3----------------|-0-3-3--0-3-3--5-5------------------|
+E|-3-5-5----3-5-5-----3-5---2-3-5--1-3-5---|-0-1-1--0-1-1--3-3------------------|
+
+obs: o tambem para Am e é feito com  a mesma digitação, vc saberá quando muda observando a
+     cifra a seguir.
+
+Depois faz o riff 1 e fica mudando de havia falado
+
+vai para o refrão, a introd,  depois faz o solo de guitarra, depois volta ao refrão
+e para finalizar faz o rifizinho.
+
+cifra:
+Fm
+TANTAS COISAS VEJO, TANTAS COISAS OBSERVO
+MAS SERÁ APOSTASIA, CAUTERIZAÇÃO
+NEM A MENTE, NEM O CORAÇÃO, NÃO CONSIGO FALAR
+Gm                 riff 2
+VERGONHA? PODE SER
+Fm
+MUITOS MORREM AO MEU LADO, E VOCÊ ? FICA PRA DEPOIS
+EU NÃO TINHA NADA A DIZER  É APENAS MAIS UM QUE SE VAI
+E EU NÃO DEI ATENÇÃO
+Gm        C    A#    F     Gm         C    A#
+PARE DE PEDIR, FAÇA!     JESUS ESTÁ À PORTA
+Gm         C    A#   F  Gm          C   A#
+PARE DE ACUSAR, PARE!    OLHE PRA VOCÊ
+Fm Gm
+VOCÊ ACHA LINDA A ETIQUETA DA SUA ROUPA
+OLHA O PRÓXIMO E O JULGA POR SER POBRE
+Am
+VIRA O ROSTO, FALAR POR QUÊ ?  ELE É POBRE, NÃO VAI ME ENTENDER
+Fm
+VOCÊ VÊ O RICO E O CHAMA DE LADRÃO. ACHA QUE SUA ALMA ESTÁ PERDIDA
+SÓ QUE VOCÊ VIVE IMPLORANDO PERDÃO
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

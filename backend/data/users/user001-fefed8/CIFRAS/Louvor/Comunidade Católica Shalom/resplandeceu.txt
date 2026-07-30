@@ -1,0 +1,59 @@
+@titulo: resplandeceu
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - Resplandeceu
+
+Intro: D   A/D   C7M/D  G9/D   D   A/D   C7M/D  Csus4
+
+    D            A/D              G9/D            D
+A|----le|--------luia,           a----le|-----luia,
+
+    D             A/D                G9/B         Asus4
+A|-----le|--------luia,          alelui-----------a
+
+   D            A/D              G9/D            D
+A|----le|--------luia,           a----le|-----luia,
+
+    D             A/D                G9/B         Asus4
+A|-----le|--------luia,          alelui-----------a
+
+
+G7M           F#7(#5)
+O que vimos e ouvimos
+Bm7(9)                     E7(9)
+Com nossas mãos tocamos
+G7M        D/F#
+O Verbo da vida
+
+  E/Ab             A9
+A verdadeira luz
+     C7M                   G9/B
+Resplandeceu entre nós
+      Em7(9)             G7M            Asus4
+E dá vida eterna a quem ouve e crê em sua voz
+
+----------------- Acordes -----------------
+A/D = X X 0 6 5 5
+A9 = X 0 2 2 0 0
+Asus4 = X 0 2 2 3 0
+Bm7(9) = X 2 0 2 2 X
+C7M = X 3 2 0 0 X
+C7M/D = 10 X 9 9 8 8
+Csus4 = X 3 3 0 1 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E/Ab = 4 X 2 4 5 X
+E7(9) = X X 2 1 3 2
+Em7(9) = X 7 5 7 7 X
+F#7(#5) = 2 X 2 3 3 2
+G7M = 3 X 4 4 3 X
+G9/B = 7 X X 7 8 5
+G9/D = X 5 X 7 8 5

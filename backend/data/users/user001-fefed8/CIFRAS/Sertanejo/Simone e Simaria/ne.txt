@@ -1,0 +1,156 @@
+@titulo: ne
+@autor:
+@intérprete: Simone e Simaria
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Simone e Simaria - Né
+
+[Intro] C#m7  A9  E  B9
+
+[Primeira Parte]
+
+C#m7            A9
+    Como é que foi
+    E                   B9
+Me ver morando em outro endereço? E aí?
+C#m7            A9
+    Como é que foi
+    E                     B9
+Entrar no nosso quarto e não sentir meu cheiro
+C#m7       A9                           E
+    As coisas sei que não tão do mesmo jeito
+                B9
+Os livros na estante, as fotos no espelho
+C#m7       A9                        E
+    As roupas já não tão no mesmo lugar
+         B9
+Mas sinto  te informar
+   A9                                 B9
+Criar um cenário diferente não vai adiantar
+
+
+[Refrão]
+
+                    A9
+Me tirar de casa é fácil, né?
+                       B9
+Mas tá ruim sem meu abraço, né?
+             G#m
+Levou o que construímos juntos
+             C#m7
+Ficou com o carro, com a casa
+                          A9
+Saudade, com tudo, e foi fácil, né?
+                             B9
+Mas ficar sozinha, e ai como é que é?
+             G#m
+Que tal por tudo no lugar de sempre
+       C#m7
+As coisas, as fotos, as roupas e a gente
+
+[Solo] A9  B9 G#m  C#m7
+
+E|------------------------------------------|
+B|-7/9-9-9-9-9-10-9-------------------------|
+G|------------------6-6/9-------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|-7/9-9-9-9-9-10-9-7-7--------7------------|
+G|-----------------------6-8-9--------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|-9-9-9-10-9--7/9-9-9-10-12-10-9-9---------|
+G|------------------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|-7/10-9-----------------------------------|
+G|--------9-8-6~----------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Primeira Parte]
+
+C#m7            A9
+    Como é que foi
+    E                   B9
+Me ver morando em outro endereço? E aí?
+C#m7            A9
+    Como é que foi
+    E                     B9
+Entrar no nosso quarto e não sentir meu cheiro
+C#m7       A9                           E
+    As coisas sei que não tão do mesmo jeito
+                B9
+Os livros na estante, as fotos no espelho
+C#m7       A9                        E
+    As roupas já não tão no mesmo lugar
+         B9
+Mas sinto  te informar
+   A9                                 B9
+Criar um cenário diferente não vai adiantar
+
+[Refrão]
+
+                    A9
+Me tirar de casa é fácil, né?
+                       B9
+Mas tá ruim sem meu abraço, né?
+             G#m
+Levou o que construímos juntos
+             C#m7
+Ficou com o carro, com a casa
+                          A9
+Saudade, com tudo, e foi fácil, né?
+                             B9
+Mas ficar sozinha, e ai como é que é?
+             G#m
+Que tal por tudo no lugar de sempre
+       C#m7
+As coisas, as fotos, as roupas
+
+                    A9
+Me tirar de casa é fácil, né?
+                       B9
+Mas tá ruim sem meu abraço, né?
+             G#m
+Levou o que construímos juntos
+             C#m7
+Ficou com o carro, com a casa
+                          A9
+Saudade, com tudo, e foi fácil, né?
+                             B9
+Mas ficar sozinha, e ai como é que é?
+             G#m
+Que tal por tudo no lugar de sempre
+       C#m7
+As coisas, as fotos, as roupas e a gente
+
+( A9  B9  G#m )
+
+C#m7            A9
+    Como é que foi
+    E                   B9        C#m7
+Me ver morando em outro endereço?     E aí?
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+G#m = 4 6 6 4 4 4

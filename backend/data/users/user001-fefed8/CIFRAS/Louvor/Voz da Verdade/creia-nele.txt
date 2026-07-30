@@ -1,0 +1,32 @@
+@titulo: creia-nele
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Voz da Verdade - Creia Nele
+
+Introdução: G / A# / C / G
+
+    G              C     G
+Se queres a Paz creia nele
+                   A      D
+Se queres o amor Creia Nele
+          G        C      G
+Se queres a vida creia nele
+               D           G
+Pois Ele é a razão do meu viver
+  G    A#  C  G       A#   C   G
+Creia nele,Creia nele,Creia nele
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A# = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3

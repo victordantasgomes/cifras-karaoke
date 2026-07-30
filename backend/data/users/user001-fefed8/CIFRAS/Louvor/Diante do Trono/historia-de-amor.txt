@@ -1,0 +1,100 @@
+@titulo: historia-de-amor
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - História de Amor
+
+INTRO: GM7 A9/F# Em7 Bm7 A9/C# C7M B7/9  Em7 A7sus  A/B B°
+              Em7 Asus GM7 D/F# Em7 G9/A
+
+        D9                D9/F#     Bm7                      Am7 C°/G# GM7 D/F#
+Em busca de amor      em busca de paz e alegria    eu  me feri
+Em7                      CM7               A7sus A9
+Nas ilusões desta vida quase morri
+        D9                 D9/F#  Bm7                   C6   D9           GM7 D/F#
+Foi quando escutei        aquilo que um dia tu fizeste por mim
+Em7             CM7                   A7sus Bm7
+Me apaixonei     e não volto atrás
+
+    Em7                A7sus      A/B B° Em7        G9/A                D9
+A mais linda historia de amor       foi o Senhor quem contou
+        A9/C#     CM7       A/B Bm7        Em7       A7sus Bm7          A#M7/5# Am7  D7/9
+E viveu e morreu por mim        me amando até   o fim    como não me apaixonar
+    Em7                A7sus      A/B A°/B        Em7        G9/A   Bm7
+A mais linda historia de amor         ao mundo eu contarei
+        A9/C#      CM7    C/D D          Em7    A7sus
+Viverei  morrerei por ti      te amando até o fim
+
+
+REINTRO: GM7 A9/F# Em7  CM7 Bm7 FM7 G9/A
+
+     D9           D9/F#     Bm7                Am7  C°/G#   GM7 D/F#
+Quero alegrar        o teu coração trazendo muitos a ti
+Em7                    CM7                              A7sus A9
+A nova vida que tenho não posso esconder
+     D9           D9/F#   Bm7                         C6      D9           GM7 D/F#
+Deixar brilhar        a luz a esperança que tenho dentro de mim
+Em7             B(#5)/C#   CM7    G9/13/B     A7sus   Frase: A B A D D E
+Nos quatro cantos da terra quero anunciar
+
+    Em7                A7sus      A/B B° Em7        G9/A                D9
+A mais linda história de amor       foi o Senhor quem contou
+        A9/C#     CM7       A/B Bm7        Em7       A7sus Bm7          A#M7/5#  Am7  D7/9
+E viveu e morreu por mim        me amando até   o fim    como não me apaixonar
+    Em7                A7sus      A/B A°/B        Em7        G9/A   Bm7    A9/C#      CM7     C/D D
+A mais linda história de amor         Ao mundo eu contarei viverei   morrerei por ti
+        Em7      A7sus Bm7          A#M7/5# Am7 D7/9
+Te amando até o fim     como não me apaixonar
+    Em7                 A7sus    A/B A°/B        Em7       G9/A   Bm7
+A mais linda historia de amor        ao mundo eu contarei
+       A9/C#       CM7    C/D D          Em7     A7sus
+Viverei  morrerei por ti      te amando até o fim
+
+Dance Music.
+
+G9 D9/F# Em7  G9 D9/F# Em7  G9 D9/F# Em7  Bm7 A/C# C/D D
+
+     Em7/9            G9/A        A/B B°/D#     Em7/9        A7sus
+A mais linda história de amor           ao mundo eu contarei
+
+G9 D9/F# Em7  G9 D9/F# Em7  G9 D9/F# Em7  Bm7 A/C# C/D D
+
+     Em7/9            G9/A        A/B B°/D#     Em7/9        A7sus
+A mais linda história de amor           ao mundo eu contarei
+
+FIM: G9 D9/F# Em7 G9  D/F#  FM7  A#7(#5)/G#
+    G9 D9/F# Em7   C6  G/B  FM7  G9/A    D9
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A7sus = X 0 2 0 2 0
+A9 = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+A9/F# = 2 X 2 2 0 0
+Am7 = X 0 2 0 1 0
+Asus = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7/9 = X 2 1 2 2 X
+Bm7 = X 2 4 2 3 2
+C/D = X X 0 0 1 0
+C6 = 8 X 7 9 8 X
+C7M = X 3 2 0 0 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+D9/F# = 2 X 0 2 3 0
+E = 0 2 2 1 0 0
+Em7 = 0 2 2 0 3 0
+Em7/9 = X 7 5 7 7 X
+G/B = X 2 0 0 3 3
+G9 = 3 X 0 2 0 X
+G9/A = X X 7 7 8 5

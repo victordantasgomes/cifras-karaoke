@@ -1,0 +1,49 @@
+@titulo: a-cada-manha
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - A Cada Manhã
+
+          E                       A
+A cada manhã, a cada manhã;
+          E            C#m7 F#m7     A/B
+As misericórdias se renovam a cada manhã.
+
+   C               D          Bm7          Em7
+Olhai os lírios do campo e os pássaros no céu:
+     C              D        G              E
+Deus cuida de todos eles com fidelidade e amor.
+      Am7       D             B                  Em7
+Não semeiam nem ceifam mas refletem a glória de Deus
+     C   D             E
+A cada dia, a cada manhã.
+
+   C             D     Bm7              Em7
+Assim como o Senhor alimenta as aves do céu,
+ C                   D           G            E
+Veste os lírios dos campos de beleza e esplendor,
+    Am7               D      B              Em7
+Ele cuida das nossas vidas, supre as necessidades
+     C   D             E
+A cada dia, a cada manhã.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

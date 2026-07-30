@@ -1,0 +1,91 @@
+@titulo: cartas-ao-remetente
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Cartas Ao Remetente
+
+Intro: D9  Em7  G9  D9
+
+A9/C#  D9  F#m7 G   D9
+  À   quem  amou demais
+A9/C#  D9  F#m7 G9   D9
+  À   quem chorou demais
+             C7M     Bm7             G9        D9
+Quanto tempo não dão atenção ao seu pobre coração?
+
+A9/C#  D9  F#m7 G9   D9
+Não se  atreve a falar
+A9/C#  D9  F#m7 G9   D9
+Não   se   permite errar
+                 C7M
+Quem inventou a dor?
+     Bm7             Bb9
+Esqueça o ardor, afinal
+
+D9                       F#m7
+Se Deus te desse só o amanhã
+                          Bm7        G9
+Pra sentir o que nunca sentiu, sentiria?
+
+       Em7         G9     D9
+Qual seria sua última oração?
+
+A9/C# D9  F#m7 G9   D9
+  Doeu,    deixe curar
+A9/C# D9  F#m7 G9   D9
+  Ficou,  deixe  passar
+              C7M
+O árduo é trivial
+    Bm7           Bb9
+Mas a afeição é etérea
+
+D9                       F#m7
+Se Deus te desse só o amanhã
+                          Bm7 A9     G9
+Pra sentir o que nunca sentiu,  sentiria?
+       Em7         G9     D9
+Qual seria sua última oração?
+
+( Em7  G9  D9 )
+
+A9/C#                        Bm7
+ Mais que uma razão pra se viver
+                            G9     D9
+Uma verdadeira causa pela qual morrer
+A9/C#                      Bm7
+ Seja o prólogo de quem viveu a preparar o seu epílogo
+   G9
+E dito, deu fé
+
+D9                       F#m7
+Se Deus te desse só o amanhã
+                          Bm7        G9
+Pra sentir o que nunca sentiu,  sentiria?
+D9                             F#m/E  F#m7
+Se de fato fosse mesmo o último adeus
+                         Bm7 A9
+Onde há de estar o seu amor?
+          G9        Em7        G9          D9
+E assim, viva como quem soube que vai morrer
+      Em7           G9          D9
+Morra como quem um dia soube viver
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+Bb9 = X 1 3 3 1 1
+Bm7 = X 2 4 2 3 2
+C7M = X 3 2 0 0 X
+D9 = X X 0 2 3 0
+Em7 = 0 2 2 0 3 0
+F#m/E = X X 2 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G9 = 3 X 0 2 0 X

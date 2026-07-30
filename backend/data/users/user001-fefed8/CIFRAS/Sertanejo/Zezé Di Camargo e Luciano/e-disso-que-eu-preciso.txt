@@ -1,0 +1,80 @@
+@titulo: e-disso-que-eu-preciso
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - É Disso Que Eu Preciso
+
+Intro: A A/G# F#m F#m/E Bm Bm/A E/G# E A A/G# F#m F#m/E D D/F# E D/E D A/C# Bm E A
+
+  A                                  E
+Quando a distância machucar teu coração
+        Bm           D            A/C#   D/E
+E te pedir mais uma vez pra me esquecer
+            A             F#m          Bm  ( A/C# D )
+Não fique triste, guarde bem nossa paixão
+           E             D/E         A
+Feche teus olhos, pare e conte até três
+
+
+2ª parte:
+
+           F#m                Bm
+Um, dois, três é o que eu preciso
+     E            A
+Pra verdade aparecer
+      F#m           Bm
+Põe amor no teu sorriso
+        D/E          A
+Não me faça mais sofrer
+
+       F#m        Bm
+Somos dois apaixonados
+     E           A
+Abraçados na ilusão
+     A/C#      D
+Pela vida separados
+     D/E         A  ( A E/G# G D/F# A )
+Namorando a solidão
+
+Refrão:
+
+      B7                         E
+Não imagino a minha vida sem te ver
+          B7                         E
+Não me enxergo longe assim do teu olhar
+           D                    A
+Por isso, deixe a saudade te dizer
+           B7           E          A   A4 A
+Se eu sou mesmo quem você deseja amar
+
+Repete intro e 2ª parte
+
+Refrão 2x
+
+(para terminar)
+           B7           E             D  A/C# Bm E A
+Se eu sou mesmo quem você... Deseja amar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/G# = 4 X 2 2 2 X
+A4 = X 0 2 2 3 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+F#m/E = X X 2 2 2 2
+G = 3 2 0 0 0 3

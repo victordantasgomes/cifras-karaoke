@@ -1,0 +1,50 @@
+@titulo: eu-sigo
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Eu Sigo
+
+[Intro]  A#  Dm  F
+
+A#           Dm    A#                   Dm
+Eu continuo firme mesmo após a noite escura
+     D#               A#              Gm
+Eu guardei o meu coração dos intentos do mal
+ D#                  A#               C
+Fiz da Tua glória refúgio e abrigo pra mim
+
+ Gm
+Laços de morte cercaram minh'alma
+ Am
+Tentando emudecer meu chamado
+ A#                               C
+Mas escoltado com poder e graça venci
+
+    F            C
+Eu sigo, vou gritando
+         Dm                  A#
+Eu continuo de pé, estou firmado na fé
+    F            C
+Eu sigo, vou gritando
+
+       Dm                   A#
+Nada irá me parar, até na glória chegar
+
+( Dm  F  C )
+( Dm  F  A# )
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D# = X 6 5 3 4 3
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

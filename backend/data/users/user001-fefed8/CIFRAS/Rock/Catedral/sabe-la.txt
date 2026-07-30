@@ -1,0 +1,101 @@
+@titulo: sabe-la
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Sabe Lá...
+
+Intro: D D4 D D4
+
+D                    G
+Tenho a voz do meu amor
+A                  D  D4
+Dentro do meu coração
+D                   G
+Livre, forte, sem temor
+Em      A     D
+Melodia da canção
+
+     G        D
+Sabe lá, sabe lá
+     Em        A    D D4
+Sabe lá o que é amar?
+     G        Bm
+Sabe lá, sabe lá
+    Em     A    D D4
+É difícil explicar
+
+D                    G
+É ceder, mais que querer
+
+A                D  D4
+É um eterno aprender
+D                G
+É preciso mesmo sem
+A           A    D
+Necessariamente ser
+
+D              G
+É poesia e emoção
+A                D  D4
+É razão sem perceber
+D                   G
+É sonhar sem medo algum
+Em            A    D D4
+É não querer entender
+
+     G        D
+Sabe lá, sabe lá
+ Em        A    D D4
+Onde mora a paixão?
+     G        Bm
+Sabe lá, sabe lá
+ Em          A   D D4
+Confundir a ilusão...
+
+
+Solo: D G Em A D 2x
+
+
+D                     G
+Tenho o amor que me dá paz
+A                   D  D4
+Que dá força pra seguir
+D                   G
+Que me tira da aflição
+     Em        A      D  D4
+Que me mostra aonde ir
+
+     G        D
+Sabe lá, sabe lá
+  Em          A    D D4
+O que é não ser feliz?
+     G        Bm
+Sabe lá, sabe lá
+ Em             A   D D4
+Não ser livre num país?
+
+
+Solo: D G Em A D 2x
+
+E|-------------10---------------------------------------------------------10---------7-9-10-10/12-10-10-
+B|-7-7/10---10----10/12-12-7h8p7-----10---10---10---10---10--7-7/10-10-10----10/12-12-------------------
+G|-------11----------------------9-7-9h11-9h11-9h11-9h11-9h11-------------------------------------------
+D|------------------------------------------------------------------------------------------------------
+A|------------------------------------------------------------------------------------------------------
+E|------------------------------------------------------------------------------------------------------
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

@@ -1,0 +1,100 @@
+@titulo: maio(simplificada)
+@autor:
+@intérprete: Kid Abelha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kid Abelha - Maio
+
+  F7M  E7  F7M  E7  F7M  E7
+
+G             D
+ Maio já está no final
+   C                Am7
+ O que somos nós afinal
+    C                 Am7
+ Se já não nos vemos mais
+   C               Em
+ Estamos longe demais
+          D
+ longe demais
+
+ G            D
+ Maio já está no final
+   C             Am7
+ É hora de se mover
+     C                Am7
+ Pra viver mil vezes mais
+   C
+ Esqueça os meses
+
+   Am7              Em
+ Esqueça os seus finais
+                D
+ Esqueça os finais
+
+       Am7         D7
+ Eu preciso de alguém
+         Am7          D7
+ Sem o qual eu passe mal
+         C        G/B       D
+ Sem o qual eu não seja ninguém
+        Am7        D
+ Eu preciso de alguém
+
+ G            D
+ Maio já está no final
+    C             Am7
+ É hora de se mover
+     C                Am7
+ Pra viver mil vezes mais
+   C
+ Esqueça os meses
+   Am7              Em
+ Esqueça os seus finais
+                D
+ Esqueça os finais
+
+       Am7         D7
+ Eu preciso de alguém
+         Am7          D7
+ Sem o qual eu passe mal
+         C         G/B       D
+ Sem o qual eu não seja ninguém
+        Am7        D
+ Eu preciso de alguém
+
+       Am7         D7
+ Eu preciso de alguém
+         Am7          D7
+ Sem o qual eu passe mal
+         C         G/B       D
+ Sem o qual eu não seja ninguém
+        Am7        D
+ Eu preciso de alguém
+
+ G
+ Maio, uh uh, Maio, uh uh
+ Maio, uh uh, Maio, uh uh
+
+ F        Am7    F       Am7
+ Junho, julho, agosto, setembro
+  F         Am7           D  G
+ Outubro, novembro, dezembro
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F7M = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

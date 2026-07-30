@@ -1,0 +1,36 @@
+@titulo: aleluia-jesus-e-rei
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Aleluia, Jesus É Rei
+
+E      C#m
+Aleluia
+E                A
+Aleluia,Jesus é Rei
+E                B
+Aleluia,Jesus é Rei
+A                  B      E
+Aleluia, Jesus Cristo é Rei
+A                  B      E  E7
+Aleluia, Jesus Cristo é Rei
+         A                Cº          C#m         G#m     A      B      E  E7
+Ao Rei dos reis todos os povos se submeterão ora vem, ora vem Senhor Jesus
+         A                Cº          C#m         G#m     A      B      A  E
+Ao Rei dos reis todos os povos se submeterão ora vem, ora vem Senhor Jesus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+Cº = X 3 4 2 4 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+G#m = 4 6 6 4 4 4

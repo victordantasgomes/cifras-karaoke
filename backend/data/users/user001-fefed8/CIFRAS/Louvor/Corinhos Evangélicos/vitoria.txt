@@ -1,0 +1,31 @@
+@titulo: vitoria
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Vitória
+
+          G
+Sou um soldado, não vivo ao léu,
+                           Am
+Meu comandante mora lá no céu.
+         D             G
+Eu tenho paz, sou triunfante.
+          D                  G
+Só cumpro ordens do meu comandante.
+  C         G        D              G
+Vitórias eu tenho e sei a espada usar.
+   C         G         D               G
+Eu venço a batalha, Jesus é o meu general.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3

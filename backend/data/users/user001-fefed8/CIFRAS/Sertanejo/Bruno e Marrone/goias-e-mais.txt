@@ -1,0 +1,79 @@
+@titulo: goias-e-mais
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Goiás É Mais
+
+   Intro: A9  E  A9  E  A9  E  A9
+E|-5-5-5-4-4-2-2-2-0-0--------------------------|
+B|-7-7-7-5-5-3-3-3-2-2-3-3-3-2-2-------5-3-2----|
+G|---------------------4-4-4-2-2--4-4--6-4-2----|  (2x)
+D|--------------------------------6-6-----------|
+A|----------------------------------------------|
+E|----------------------------------------------|
+
+E|---------------------------------------------------|
+B|---------------------------------------------------|
+G|----------------------------------------2-2-2-2-2--|
+D|----------------------------------------2-2-2-2-2--|
+A|--0--------0h2---0-0----0--------0h2----0-0-0-0-0--|
+E|----4h2-0------4----------4h2-0------4-------------|
+
+A9            E                      A9
+Deus me deu a chance de andar pelo mundo
+             E                  A9
+De voar bem alto mergulhar bem fundo
+          F                    C
+Já domei leão já brinquei na neve
+
+          F                  E
+China e japão eu disse até breve
+
+Refrão:
+                           A9
+Esse é meu pais sem comparação já tem o formato do
+  B9
+coração
+D                                A9
+Todo canto é lindo pra mim tanto faz quando eu quero
+E                A9
+Mais eu vou pra goiás
+
+(Intro)
+
+            E                A9                  E
+Rasguei o amazonas para o litoral me benzi nas ondas de
+         A9
+Areia e sal
+          F                      C                F
+Abracei cantando de São Paulo ao Sul já chorei em Minas
+              E
+Na montanha azul
+
+(Refrão)
+
+            E                A9             E
+Ouro de Rondônia flor do cariri peixe de vitória boi do
+    A9
+Piauí
+            F             C                   F
+Namorar no Rio viver carnaval a mulher de  bronze lá do
+      E
+Pantanal
+
+(Refrão)
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1

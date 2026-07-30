@@ -1,0 +1,64 @@
+@titulo: cante
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - Cante
+
+Intro: Am7 C G
+
+ Am          C
+Cante, ó minh'alma
+       G                   D4  D
+Que nasceu pra cantar e louvar
+     Am          C
+Esse Deus que me deu
+      G               F
+A razão de cantar, de louvar
+       G        Am  F G
+De sorrir e de ser
+
+  Am          C
+Cante, ó minh'alma
+       G                   D4  D
+Que nasceu pra cantar e louvar
+     Am          C
+Esse Deus que me deu
+      G               F
+A razão de cantar, de louvar
+
+   G            Am   F G
+De sorrir e de ser
+             ( D D4 D D9 )
+Cante, ó minh'alma
+ F            G         Am
+Cante a esse Deus verdadeiro
+      ( D D4 D D9 )     E
+Que foi ontem, que é hoje
+                Am7  C G
+E que sempre será
+                Am7  C G
+E que sempre será
+     Am7 C G
+Cante
+     Am7 C G
+Cante
+     Am7 C G Am
+Cante
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

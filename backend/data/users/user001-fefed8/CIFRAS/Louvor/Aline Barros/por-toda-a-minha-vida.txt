@@ -1,0 +1,121 @@
+@titulo: por-toda-a-minha-vida
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Por Toda a Minha Vida
+
+Intro.: Dm7 Em7 F7M F7M Em7 Dm7
+        F/G C9 Ab7M Fm6 A7M A9
+
+A             A9 A         C#m7(b5)
+Não me olhe assim com esse ar      de quem
+  F#7(b9) F#/A#  Bm7              Bm(7M)
+Sonhou    a    inteira em me encontrar
+          Bm7       E4
+Porque eu vou acreditar
+
+    A9          E/G#       C#m7(b5)
+Pra que falar assim, nesse tão
+   F#7(b9) F#/A#    Bm7
+Mistério   se   o silêncio vai dizer
+    D7M         E/D         C#m7
+Coração tá acelerado não dá mais pra
+                    C#m7(b5)     F#7(b9)
+Pra esconder e as palavras  são iguais
+F#/A#     Bm7                      D/E
+     Numa frase ou na canção mas é nova
+             A7M 60 62 Em7 62 63 A7 Eb7(9)
+Emoção eu e você
+
+
+D7M                E/D
+Meu amor eu te decorei só num olhar o que
+C#m7         Em/G  F#7 F#/A#     Bm7
+Deus uniu e abenço-ou       nada pode
+               D/E
+Separar nosso amor é como um rio que se
+  A7M            60 62 Em7 62 63 A7 Eb7(9)
+Entrega para o mar
+
+D7M                E/D
+Meu amor eu te decorei só num olhar
+  C#m7        Em/G  F#7 F#/A#      Bm7
+É pra valer é pra ficar      eu preciso
+                   D/E
+Te aprender porque toda minha vida eu
+        D7M  D7M C#m7 Bm7 D/E
+Vou te amar
+
+A9            E/G#          Em/G
+Não me olhe assim, com esse ar  de quem
+  F#7    F#/A#  Bm7              Bm(7M)
+Sonhou a vida inteira em me encontrar
+          Bm7       D/E E/F# 17
+Porque eu vou acreditar
+(Solo)
+D#m7 Fm7 F#7M F#/G# G#/F# D7M C#m7 D7M
+D7M C#m7 Bm7 D/E
+
+    A9          E/G#       C#m7(b5)
+Pra que falar assim, nesse tão     doce
+   F#7(b9)   F#/A#  Bm7
+Mistério  se o    silêncio vai dizer
+    D7M         E/D         C#m7
+Coração tá acelerado não dá mais pra
+                C#m7(b5)     F#7(b9) F#/A#
+Esconder e as palavras  são iguais
+     Bm7                       D/E
+Numa frase ou na canção mais é nova
+                A7M          60 62
+A emoção eu e você, eu e você
+Em7 62 63 A7 Eb7(9)
+Eu  e  vo-cê
+
+D7M                E/D
+Meu amor eu te decorei só num olhar..
+
+         D/E                        D7M
+..Porque toda minha vida eu vou te amar
+C#m7 Bm7  Bm7 C#m7 D7M D/E            A9
+                       Hum! Eu e você
+E/G# C#m7(b5) F#7(b9) Bm7 Bm(7M) Bm7 E4
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+A7M = X 0 2 1 2 0
+A9 = X 0 2 2 0 0
+Ab7M = 4 X 5 5 4 X
+Bm(7M) = X 2 4 3 3 2
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+C#m7(b5) = X 4 5 4 5 X
+C9 = X 3 5 5 3 3
+D#m7 = X X 1 3 2 2
+D/E = X X 2 2 3 2
+D7M = X X 0 2 2 2
+Dm7 = X 5 7 5 6 5
+E/D = X 5 X 4 5 4
+E/F# = X X 4 4 5 4
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+Eb7(9) = X 6 5 6 6 X
+Em/G = 3 X 2 4 5 X
+Em7 = 0 2 2 0 3 0
+F#/A# = 6 X 4 6 7 X
+F#/G# = 4 X 4 3 2 X
+F#7 = 2 4 2 3 2 2
+F#7(b9) = X X 4 3 5 3
+F#7M = 2 X 3 3 2 X
+F/G = 3 X 3 2 1 X
+F7M = 1 X 2 2 1 X
+Fm6 = 1 X 0 1 1 X
+Fm7 = 1 X 1 1 1 X
+G#/F# = 2 X 1 1 1 X

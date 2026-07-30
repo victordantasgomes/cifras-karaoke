@@ -1,0 +1,55 @@
+@titulo: salmo-3
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Salmo 3
+
+Intro: E  B9  A9  B9  E  B9  A9
+
+E          F#   C#m        B9
+Multiplicam-se, os inimigos que,
+C#m      B9  F#        A9
+Se levantam contra mim.
+E            F#      C#m       B9
+Muitos são os que, dizem não há mais,
+C#m     B9           F# A9
+Salvação pra ele em Deus.
+
+E         F#/E          G
+Mas Tu Senhor, És para mim,
+A9
+Escudo e Glória!
+
+E           B9    A9            B9
+Em Paz eu deitarei, e me levantarei,
+E           B9            A9
+Pois Tu me guardas Oh Senhor!
+F#m       G#m      A9           B9
+E jamais temerei, os dez milhares e,
+C#m     B9           A9 ( 2ª C#m  G#m  C#m  F# )
+A ameaça ao meu redor!
+
+C#m                             G#m
+Tu quebras e desfaz o poder dos maus,
+F#m7  G#m7       A9 B9        F#
+E de cabeça erguida me fazes andar!
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#/E = X X 2 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4
+G#m7 = 4 X 4 4 4 X

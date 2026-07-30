@@ -1,0 +1,71 @@
+@titulo: graca
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Graça
+
+(intro)   Cm  D#/C  A#/C
+             Cm  D#/C  A#/C
+
+Cm
+Homem de dores
+        D#/C                   A#/C
+Que sabe o que é padecer
+Cm     A#       G#
+Por amor se deu
+    Fm                  Gm
+O santo filho de Deus
+
+Cm
+Pelos meus pecados
+  D#/C         A#/C
+Suportou a cruz
+Cm  A#   G#
+Ressucitou
+    Fm             Gm
+E vida concedeu
+
+
+                  C
+Me deste graça
+           Cm                      A#/C
+O que eu não poderia fazer
+        Fm                 Gm     G#                Gm
+Tu fizeste por mim,     fizeste por mim
+                 C
+Me deste graça
+           Cm                       A#/C
+O que eu não merecia ter
+       Fm             Gm      G#                Gm
+Tu deste a mim,     tu deste a mim
+
+(intro)  Cm  D#/C  A#/C
+
+Am                      G/B
+     Que darei a Ti    ,pelo teu amor?
+C                               F
+     Tão pequeno sou,    de tudo és Senhor
+Am                            G/B
+      Não mais vivo eu,    que tua vida se
+Fm                    Gm         G#                  Gm
+Mostre em mim,       se mostre em mim
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+A#/C = X 3 X 3 3 1
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D#/C = X 3 5 X 4 3
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G# = 4 3 1 1 1 4
+G/B = X 2 0 0 3 3
+Gm = 3 5 5 3 3 3

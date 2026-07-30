@@ -1,0 +1,52 @@
+@titulo: ao-teu-nome-da-gloria
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Ao Teu Nome Dá Glória
+
+  C            G/B
+Não a nós, Senhor
+       Am    Am/G
+Não a nós,
+   F               Dm         G4   G
+Mas ao Teu nome dá glória
+
+  G#º        Am     Em       F  G    C
+Porque só Tu és digno de receber
+      F                         C
+O louvor, a glória e a honra
+            Dm      F         G
+Que temos prá Te dar
+
+     C        G/B      Am    Am/G
+Se eu tomar as asas da alva
+          F                     Dm        G4    G
+Se habitar nas profundezas do mar
+
+G#º   Am         Em
+Até    ali a tua mão
+      F  G  C
+Me guiará
+    F     C
+E a tua destra
+Dm      F     G
+Me sustentará
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G#º = 4 X 3 4 3 X
+G/B = X 2 0 0 3 3
+G4 = 3 5 5 5 3 3

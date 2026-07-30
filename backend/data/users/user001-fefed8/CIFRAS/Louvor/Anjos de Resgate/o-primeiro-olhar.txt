@@ -1,0 +1,85 @@
+@titulo: o-primeiro-olhar
+@autor:
+@intérprete: Anjos de Resgate
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Anjos de Resgate - O Primeiro Olhar
+
+[Intro]  D/E  A7+  E/F#  F#m  Bm  Dm6  E
+
+        A                      Dm/A
+Quando nós trocamos o primeiro olhar
+       A                     Dm/A
+O meu coração pediu pra se apaixonar
+          A                              Dm/A
+Igual ao sol que nasce e só pertence ao dia
+           A                      Dm/A
+Quando nasci o meu amor já te pertencia
+         A                    Dm/A
+Se não existisses eu te inventaria
+    A/E                        Dm
+As estrelas se eu pudesse te daria
+    A/C#                          Dm
+Prometi a Deus que ao céu vou te levar
+          A/E                              Esus
+E vou gritar pro mundo ouvir que sempre te amei e vou te amar
+          E/A     A                  E/F#       F#m
+Foi no primeiro olhar que eu te consagrei o meu amor
+                 D/B               E     E/D
+E nada vai nos separar na alegria ou na dor
+
+        A/C#                      Dm7
+O mundo não verá o nosso amor se acabar!
+      A/E                          Dm7/E
+Logo no primeiro olhar Deus nos casou
+        A/E                           Bm/E       Esus           A
+E escreveu seu nome e o meu no azul do  céu! Pra sempre vou te amar
+
+Riff
+E|-------------------------------------------------------------------|
+B|-------------------------------------------------------------------|
+G|--------7-7-7-7-7--12-12----7-7-5/7/5------------------------------|
+D|---7-9-------------------------------------------------------------|
+A|-------------------------------------------------------------------|
+E|-------------------------------------------------------------------|
+
+E|----------------------------------------------------------------------------|
+B|-----------------------------------------10-10-10-8/10/8-10-6---------------|
+G|------7-7-7/9-7/9/7---7-7->12-12-----------------------------------7-7-7-7-7|
+D|-7-9------------------------------------------------------------------------|
+A|----------------------------------------------------------------------------|
+E|----------------------------------------------------------------------------|
+
+E|---------------------7/10-9-6-3/5----------------------|
+B|-------------------------------------------------------|
+G|----7-7/8/7-5------------------------------------------|
+D|-------------------------------------------------------|
+A|-------------------------------------------------------|
+E|-------------------------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A7+ = X 0 2 1 2 0
+Bm = X 2 4 4 3 2
+Bm/E = X X 2 4 3 2
+D/B = X 2 0 2 3 2
+D/E = X X 2 2 3 2
+Dm = X X 0 2 3 1
+Dm/A = X 0 X 2 3 1
+Dm6 = X 5 X 4 6 5
+Dm7 = X 5 7 5 6 5
+Dm7/E = 0 0 0 2 1 1
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E/D = X 5 X 4 5 4
+E/F# = X X 4 4 5 4
+Esus = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,76 @@
+@titulo: sei-que-me-ama
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Sei Que Me Ama
+
+ intro  C/G D/G Bm Em Em/D Am D G D
+
+       G                                    C/G G
+QUERO VER VOCE OLHAR NOS MEUS OLHOS E DIZER
+               D
+QUE NAO ME QUER MAIS
+       C
+QUERO VER VOCE DIZER ADEUS DEPOIS SAIR
+             G
+SEM OLHAR PRA TRAS
+                           G7
+VOCE PODE DIZER QUE NAO PRESTO
+           C
+E QUE NAO SIRVO PRA VOCE
+         G                  D               C
+MAS SE ACASO A SAUDADE APERTAR VOCE PODE LIGAR
+               G   D
+QUE EU VENHO TE VER
+
+      G
+VOCE PODE DEITAR EM OUTRA CAMA E LIBERAR
+
+            D
+OS DESEJOS SEUS
+        C
+MAS EU SEI SEUS MELHORES DESEJOS SEUS SONHOS SEUS BEIJOS
+            G  D
+AINDA SAO MEUS
+      G                    G7
+VOCE PODE DIZER QUE ESTA CHEIA DE MIM QUE ME ODEIA
+                   C
+MAS VOCE NAO ME ENGANA
+           G                    D
+A SUA TRISTEZA ME DIA COM FRANQUEZA
+            G               D
+QUE VOCE ME AMA SEI QUE ME AMA
+
+ G
+E SE ME AMA PORQUE JOGA FORA
+                             D
+O AMOR QUE TE QUEIMA E TE DEVORA
+                         G
+QUANDO A SAUDADE TRAS VOCE PRA MIM
+           D
+SEI QUE TE AMO
+                        G
+E PORQUE TE AMO E QUE ACEITO
+                             D
+PORQUE SEI QUE NINGUEM E PERFEITO
+                             G
+TE AMO MESMO ASSIM COM SEUS DEFEITOS
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+D/G = 3 X X 2 3 2
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

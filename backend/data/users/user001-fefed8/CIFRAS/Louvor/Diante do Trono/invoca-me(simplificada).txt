@@ -1,0 +1,62 @@
+@titulo: invoca-me(simplificada)
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Invoca-me
+
+A        E         F#m
+Filho meu, estou aqui
+       Bm                A       D9
+Esperando o momento de te encontrar
+              E  E4  E
+Quero te abraçar
+A        E         F#m
+Filho meu, não desisti
+         Bm
+Os meus braços
+                        D9
+Estão estendidos para   ti
+                E4           E
+Vem correndo, vem pra mim
+
+     A      F#m         E
+Invoca-me,        eu te ouvi - rei
+        D9         Bm
+Serei achado de ti
+             E4      E   D  E
+Tua sorte eu mudarei
+
+   A            F#m
+Achega-te a mim
+                        E
+Eu também me achegarei
+                      D9    Bm
+Te tomarei em meu colo
+                  E4    E          A
+Novas vestes te darei... filho amado!
+
+( Bm  F#m  E4  E )
+( Bm  F#m  E4  E )
+
+A         Bm  F#m  E
+Eu te abraço
+A         Bm  F#m  E
+Eu te limpo
+A        Bm  F#m  E
+Te acaricio
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2

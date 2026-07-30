@@ -1,0 +1,127 @@
+@titulo: vida-sem-alma
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Vida Sem Alma
+
+Intro:
+             C        G/B        F/A             G
+E|-----------------------------------------------|
+B|--------------8h10-8---------------------------|
+G|----5-7-7/9-----------7h9-9p7-5----------------|
+D|--5-------------------------------5-5-5-5h7----|
+A|-----------------------------------------------|
+E|-----------------------------------------------|
+
+             C        G/B            F/A
+E|----------------------10h12-10h12-8-----|
+B|--------------8h10-8--------------------|
+G|----5-7-7/9-----------------------------|
+D|--5-------------------------------------|
+A|----------------------------------------|
+E|----------------------------------------|
+
+       C                   C7M(9)
+Foram tantas ilusões, agora só desilusões
+      Bb/C                        F/C
+A distância não me fez bem e você foi
+
+       C                   C7M(9)
+Eu me sinto um menino abandonado sem destino
+      Bb/C                 F/C
+Caminhando por ai pensando em nós dois
+         G#7M                       C/G
+A noite traz a escuridão, a dor, o frio e a solidão
+      F/G
+Oh vida sem alma, estou perdendo a calma
+
+
+(refrão)
+C             G/B
+Ahh eu não aguento mais,
+       F/A                           C/G G ( F/A G/B )
+O meu coração vai explodir de tanto amor
+C           G/B
+Ahh me diga onde está,
+     F           F/G           C          F/G G
+Atravesso o oceano só pra te encontrar.
+
+             C        G/B        F/A             G
+E|-----------------------------------------------|
+B|--------------8h10-8---------------------------|
+G|----5-7-7/9-----------7h9-9p7-5----------------|
+D|--5-------------------------------5-5-5-5h7----|
+A|-----------------------------------------------|
+E|-----------------------------------------------|
+
+             C        G/B            F/A
+E|----------------------10h12-10h12-8-----|
+B|--------------8h10-8--------------------|
+G|----5-7-7/9-----------------------------|
+D|--5-------------------------------------|
+A|----------------------------------------|
+E|----------------------------------------|
+
+       C                   G/B
+Foram tantas ilusões, agora só desilusões
+      Bb                      F/A
+A distância não me fez bem e você foi
+       C                   G/B
+Eu me sinto um menino abandonado sem destino
+      Bb                  F/A
+Caminhando por ai pensando em nós dois
+         G#7M                       C/G
+A noite traz a escuridão, a dor, o frio e a solidão
+      F/G
+Oh vida sem alma, estou perdendo a calma
+
+(refrão)
+
+C             G/B
+Ahh eu não aguento mais,
+       F/A                           C/G G ( F/A G/B )
+O meu coração vai explodir de tanto amor
+C           G/B
+Ahh me diga onde está,
+     F           F/G           C          F# G#
+Atravesso o oceano só pra te encontrar.
+
+C#           G#/C
+Ahh eu não aguento mais,
+       F#/A#                         C#/G#           G#
+O meu coração vai explodir de tanto amor, de tanto amar
+C#           G#/C
+Ahh me diga onde está,
+     F#        F#/G#
+Atravesso o oceano... só pra te encontrar.
+F#        D#m       C#
+   Só pra te encontrar.
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+Bb/C = X 3 X 3 3 1
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#/G# = 4 X 3 1 2 X
+C/G = 3 3 2 X 1 X
+C7M(9) = X 3 2 4 3 X
+D#m = X X 1 3 4 2
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#/G# = 4 X 4 3 2 X
+F/A = 5 X 3 5 6 X
+F/C = X 3 3 2 1 1
+F/G = 3 X 3 2 1 X
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#/C = X 3 X 1 4 4
+G#7M = 4 X 5 5 4 X
+G/B = X 2 0 0 3 3

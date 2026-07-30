@@ -1,0 +1,89 @@
+@titulo: palacios-e-castelos(simplificada)
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Palácios e Castelos
+
+Intro: E  F#  B  E  F#  B  E  B  F#
+
+Primeira parte:
+ B                 E
+Te pedi, que me levasse a sério
+ B                 E
+Construí, palácios e castelos
+B                   E           C#m   F#
+Esperei, por muito tempo antes de te ver
+
+ B                 E
+Li, re-li, seu manual inteiro
+ B                  E
+Descobri, todos os seus segredos
+ B                 E         C#m  F#
+Desenhei, o mapa que me leva a você
+
+Pré-refrão:
+   C#m
+A gente se conheceu na escola
+      G#m            F#
+Eu pegando onda e jogando bola
+
+       C#m
+Você era modelo e adorava dançar
+    E                       B
+Praia, cinema, festinhas no ar
+
+Refrão:
+Se tá com dor eu sou doutor
+ E
+Tá com frio eu sou calor
+                         B
+Mando flores, dou beijinho em sua mão
+     G#m
+Se quer brincar de se esconder
+ C#m
+No escurinho eu e você
+   F#                 B
+É só pedir com o coração
+
+    B7
+Se tá com dor eu sou doutor
+ E
+Tá com frio eu sou calor
+                         B
+Mando flores, dou beijinho em sua mão
+     G#m
+Se quer brincar de se esconder
+ C#m
+No escurinho eu e você
+   F#                 B
+É só pedir com o coração
+
+(repete tudo)
+
+Refrão 2x:
+Se tá com dor eu sou doutor
+ E
+Tá com frio eu sou calor
+                         B
+Mando flores, dou beijinho em sua mão
+     G#m
+Se quer brincar de se esconder
+ C#m
+No escurinho eu e você
+   F#                 B
+É só pedir com o coração
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B7 = X 2 4 2 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,62 @@
+@titulo: depois-das-seis
+@autor:
+@intérprete: Kid Abelha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kid Abelha - Depois Das Seis
+
+Solo:
+E|------------------------------------------8----5-7-5-------------------8-10-12-10-8-10--
+B|-5--------5-5---------6--5------6--5---------8-------8-6-(5h6p5h6)-6-6------------------
+G|----7-5--------7-5---------7-5-------7-5------------------------------------------------
+D|--------7----------7--------------------------------------------------------------------
+A|----------------------------------------------------------------------------------------
+E|----------------------------------------------------------------------------------------
+
+obs: sequencia entre () repetida várias vezes
+
+E|-8-7-8-7/8-7-8-7/8-7-8-7/8-7-8---5-7-8-7-5----------------------------------------------
+B|-------------------------------------------8-6-5-6-5-3-5-3------------------------------
+G|-----------------------------------------------------------5-5-4-2...-------------------
+D|----------------------------------------------------------------------------------------
+A|----------------------------------------------------------------------------------------
+E|----------------------------------------------------------------------------------------
+
+[Intro:] C G F
+
+C        G        Bb         F      C G Bb F
+Desorientada esperei a Lua aparecer
+
+C              G              Bb          F  C G Bb F
+Mergulhei nas suas sombras tentando entender
+C                      Bb
+Você foi embora e eu quis saber "Por que?"
+Dm                            G
+Ela, teimosa e cinza, quis se esconder
+
+C              Dm
+Talvez seja só a primeira vez
+Bb             C
+Talvez seja só a segunda-feira
+                Dm
+Talvez um acesso de insensatez
+Bb                   C
+Talvez porque já passou das seis
+
+De tão esgotada decidi subir voltar à tona
+Desisti de perguntar tanta pergunta tola
+A solidão do amor é uma solidão tão boa
+Quem ama ama o amor, e não outra pessoa
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

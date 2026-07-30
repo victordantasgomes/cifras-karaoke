@@ -1,0 +1,50 @@
+@titulo: homem-passaro
+@autor:
+@intérprete: Gilberto e Gilmar
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gilberto e Gilmar - Homem Pássaro
+
+Introdução: (A B7 E B7 E)
+
+E                               A      B7        E
+Se eu tivesse que ir nase estrelas pra ter seu amor
+                                        B7
+E tivesse um par de asas pra chegar ao céu
+A                 B7              E
+Alcançaria as nuvens tão rapidamente
+          C#m             F#m               B7               E     E7
+Me realizava mas infelizmente voce me despreza de um modo cruel
+
+A                                   B7                   E
+Eu queria ser um homem pássaro pra voar pelo espaço sozinho
+                              B7                                   E
+Ir em busca da estrela mais alta que toda noite brilha em seu caminho.
+            A                                              E
+Se eu tivesse essa foça maior de pegar esse estrela com a mão
+                     B7                                  E
+Lhe daria como presente em troca um cantinho do meu coração.
+
+E                           A       B7         E
+Se eu pudesse aquecer-me um pouco deste seu calor
+
+                                           B7
+Este homem que muito te ama não sofreria assim
+A                    B7                   E
+Apertaria em meus braços quem eu tanto quis
+            C#m            F#m                B7               E    E7
+Por um momento eu seria feliz mas você é teimosa não olha pra mim.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

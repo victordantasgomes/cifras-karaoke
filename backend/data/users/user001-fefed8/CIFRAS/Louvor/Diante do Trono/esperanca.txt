@@ -1,0 +1,113 @@
+@titulo: esperanca
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Esperança
+
+Intro:  : Bm : F#m : D7M : Esus4 E :
+        : Bm :E/F# : D9 : A/C# : F9 : G9 : F9 : Esus4 E :
+
+              A9  D9/A           E9/G#
+Quando estou só e o choro parece querer chegar
+          D/F#
+E um sentimento de temor
+      A9        D9/F#                      E/G#
+Como será o amanhã que eu não vejo e quer me assustar
+       Bm7         G9     Esus4 E9
+Oh, meu Deus! Ajuda-me a confiar
+
+C#m7                   D9
+Quando os sonhos se frustram
+C#m7               D9
+Ou parecem não se realizar
+E/G#                  D/F#
+Quando as forças se acabam
+   Bm7                    Esus4 E : Bm7 E/F# F#m7 : Esus4 E :
+Tudo o que eu sei é te adorar
+
+
+            A9              D9/A         E/G#
+Quando as feridas no meu coração  não querem sarar
+      D9/F#
+E me atrapalham a visão
+        A/E              D9                    E/G#
+Tuas promessas são tão grandes e as lutas querem me esmagar
+        Bm7       G9      Esus4 E
+Oh, meu Deus! Ajuda-me a avançar
+
+C#m7                   D9
+Quando os sonhos se frustram
+C#m7                D9
+Ou parecem não se realizar
+E/G#                    D/F#
+Quando as forças se acabam
+Bm7                      Esus4 E : Bm7 A/C# D9 : Esus4 E9 :
+Tudo o que eu sei é te adorar
+
+      A            D/A                E/G#
+Tua presença me aquieta a alma e me faz ninar
+         D9/F#            D   Bm7      A/C# A/E A
+Como um bebê que não precisa se preocupar
+         D9/A                    E/G#   A
+A minha vida escondida em tuas mãos esta
+        Bm7            G9           Esus4 E9
+Oh, meu Deus! Em Ti eu posso descansar
+
+C#m7           D9
+A esperança renasce
+C#m7                D9
+E a certeza de que perto estás
+E/G#         D/F#
+Tua paz me invade
+      Bm7                   Esus4 E : Bm7 A/C# D9 : Esus4 E9 :
+Pois tudo o que sei é te adorar
+
+
+C#m7           D9
+A esperança renasce
+C#m7                D9
+E a certeza de que perto estás
+E/G#         D/F#
+Tua paz me invade
+      Bm7                   Esus4 E
+Pois tudo o que sei é te adorar
+      Bm7                     D9 A/G G D/F# Esus4 E
+Pois tudo o que sei é te adorar
+        A/D : Bm7 : A/C# : D9 Bm7 : A9 :.....
+É te adorar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/D = X X 0 6 5 5
+A/E = 0 X 2 2 2 0
+A/G = 3 X 2 2 2 X
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D7M = X X 0 2 2 2
+D9 = X X 0 2 3 0
+D9/A = X 0 X 2 3 0
+D9/F# = 2 X 0 2 3 0
+E = 0 2 2 1 0 0
+E/F# = X X 4 4 5 4
+E/G# = 4 X 2 4 5 X
+E9 = 0 2 4 1 0 0
+E9/G# = 4 X 4 4 5 X
+Esus4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G9 = 3 X 0 2 0 X

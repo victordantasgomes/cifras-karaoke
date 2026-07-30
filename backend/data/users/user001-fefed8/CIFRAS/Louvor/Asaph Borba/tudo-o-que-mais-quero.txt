@@ -1,0 +1,77 @@
+@titulo: tudo-o-que-mais-quero
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Tudo o Que Mais Quero
+
+INT.:  Em7  Am7  D9  G7M  B7  Em7  Am7  B7
+
+      Em7                                      Am7
+  Quando a dor e a angústia estão a me cercar
+         D9                              G7M
+  E a minha fé parece não mais alcançar
+       Em7                                Am7
+  O que mais quero é saber onde Tu estás
+   D9                         C     B7
+  Onde Tu estás Jesus
+
+  Em7                             Am7
+  Fico então prostrado sem saber agir
+        D9                                G7M
+  As lutas me impedem de prosseguir
+          Em7                      Am7
+  É difícil oh Senhor sentir Tua presença
+          D 9                                 C       D          Em7
+  Por isso eu derramo o coração diante de Ti
+
+           Am7                   D9       G      D/F#  Em7   D
+  Pois tudo o que acontece debaixo dos céus
+       C                                  D
+  É conduzido por Teu cuidado
+           Am7           D9        G     D/F#  Em7  D
+  O homem nada tem debaixo dos céus
+  C                                  D       D4    D
+  Se do alto não lhe for dado
+
+                   G                           D/F#
+  Mas ao final será muito melhor o que virá
+               Am7                                C                        D
+  Tudo é parte do propósito que tens pra minha vida
+     G                                D/F#
+  Até aqui Tua palavra nunca falhou
+      Am7                             B4     B
+  E sei que ela nunca falhará
+
+        C                 D9        G         D/F#         Em7    D
+  De coração sincero - Tudo o que mais quero
+        C                         D                   E4     E
+  É por minha confiança em Ti Senhor
+        Am7           D9         G         D/F#        Em7    D
+  De coração sincero - Tudo o que mais quero
+       C                       D                      Em7   1ªv.: Em7  Am7  D9  G7M  B7  Em7  Am7  B7
+  É por minha confiança em Ti Senhor   
+                                                  2ªv.: Em C/D  G Mas ao final...
+                                                  3ªv.: Em7  Am7  D9  G7M  B7  Em7  Am7  B7  Em7/9
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G7M = 3 X 4 4 3 X

@@ -1,0 +1,74 @@
+@titulo: la-vem-o-sol
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - Lá Vem o Sol
+
+Intro: G C D7
+
+ G                C            A7
+Lá vem o sol......lá vem o sol, eu já sei...
+
+ G
+tá legal  C G/B Am7 G D/F# G D7
+ G                     C             D7
+Minha linda...foi um inverno tão comprido
+ G                    C           D7
+Minha linda faz eras que você partiu
+G                C            A7
+Lá vem o sol....lá vem o sol...eu já sei.
+ G
+tá legal C G/B Am7 G D/F# G D7
+ G                  C            D7
+Minha linda o velho gelo derretendo
+ G                  C             D7
+Minha linda o riso retornando as bocas
+G                     C          D7
+Minha linda tem sido raramente assim
+
+G              C            A7
+Lá vem o sol..lá vem o sol.....eu já sei
+G
+ta legal  C G/B Am7 G D/F# G D7
+Bb   F    C
+Sol, sol sol G D7
+Bb     F   C
+Sol, sol, sol G D7
+Bb    F     C
+Sol, sol, sol
+      G
+Temporão D7
+Bb   F     C
+Sol, sol, sol
+          G  D7
+Brilha então
+G                       C              D7     G
+Minha linda, não nunca mais volte a partir porque
+                   C           A7
+Lá vem o sol......lá vem o sol..eu já sei..
+G
+tá legal  C G/B Am7 G D/F#
+G              C            A7
+Lá vem o sol...lá vem o sol.. eu já sei.
+G
+Tá legal.....D G/B Am7 G D/F#
+G
+Tá legal..C G/B Am7 G D/F# Bb F C G
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

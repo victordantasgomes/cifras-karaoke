@@ -1,0 +1,68 @@
+@titulo: me-leva
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Me Leva
+
+(intro 2x) E D A E
+
+E                           B7
+Trago no peito um coração magoado
+                    A
+Que sabe o amargo gosto
+     D             E
+De amar sem ser amado
+                             B7
+Nuvem negra sobre o ceu estrelado
+               A
+Um sertão sem lua
+    D           E
+Presente sem passado
+B7                           C#m
+Fonte seca assim sou eu sem você
+       B7
+Bixo acoado
+A              E
+Tentando esquecer o que passou
+           B7                     C#m
+Só não passou do peito ainda a saudade
+
+          B7         A
+Solidão invade a falta
+G#m    F#m    E     B7
+Do meu bem querer
+E     G#m  A               G#m
+Ai paixão faz assim comigo não
+  A               G#m        B7
+Deixa eu abrir a porta e te ver voltar
+E    G#m   A                  G#m
+Ah paixão não da mais pra suportar
+    A                    G#m
+Se pra você nao tem mais volta
+             A G#m F#m E
+Então me leeeeeeeeeeeeeva
+
+(repete tudo)
+
+E    G#m   A                  G#m
+Ah paixão não da mais pra suportar
+    A                    G#m
+Se pra você nao tem mais volta
+             A G#m F#m E
+Então me leeeeeeeeeeeeeva
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,51 @@
+@titulo: perdoado
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Perdoado
+
+Intro 2x: C9  Em  F  G
+
+C9      Em
+Eu tenho as marcas de quem
+ F            G              C9
+Tinha tudo pra viver, longe do altar de deus
+    Em       F
+Longe da graça... quem me vê assim cantando
+  Fm           Am
+Não sabe o que eu sofri
+
+Am         D/F#        F           C9   C9  G/B Am
+Mas eu atravessei o rio... e o que passou, passou
+      D/F#       F
+Fui resgatado... das amarras do pecado
+ G              Em7   Am
+E eu não devo nada pro inimigo
+    F
+Estou coberto e lavado
+ G              C9        G
+Fui justificado pelo sangue... pelo sangue
+
+
+     C9        Em
+Eu fui perdoado... aleluia
+    F      G
+Eu sou livre...
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C9 = X 3 5 5 3 3
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

@@ -1,0 +1,63 @@
+@titulo: passaro-veloz
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Pássaro Veloz
+
+INTRO: D
+
+        G           D         A            Bm
+Vai chover, vai chover, toda benção pra você
+        G      D        A         Bm
+Pois Jesus é Fiel, Ele faz acontecer
+        G         D          A          Bm
+Quem pedir receberá, quem bater se abrirá
+         G        D       A             Bm           A
+Quem procura achará toda sorte que vem lá do céu de Deus
+   Bm         A        Em          Bm
+A porta se abriu, e a benção vem voando igual
+      Em   C    G       A
+A um pássaro veloz pra mim
+
+Bm         G         D      A
+Vem, vem, vem, toda benção vem
+ Bm    G          D      A
+Sobre mim vem pousar também
+ Bm     G            D        A
+Vem, veloz, sobre as asas de Deus
+
+Bm      G       D        A
+Vem trazer aquilo que é meu
+
+VOLTA EM: Vai chover...
+
+SOLO: A, E, B, C#m, A, E, B
+
+C#m        A         E      B
+Vem, vem, vem, toda benção vem
+ C#m   A          E      B
+Sobre mim vem pousar também
+C#m     A            E        B
+Vem, veloz, sobre as asas de Deus
+C#m     A       E        B
+Vem trazer aquilo que é meu
+
+FINAL: Bm
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

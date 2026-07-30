@@ -1,0 +1,129 @@
+@titulo: sensacoes(versão 2)
+@autor:
+@intérprete: Paula Fernandes
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Paula Fernandes - Sensações
+
+Capo Casa 5
+
+(Introdução)
+C9   C9/B  F5(9)
+
+(Primeira Parte)
+C9              C9/B
+   Eu me perdi,      perdi você
+Am7                  F9
+    Perdi a voz , o seu querer
+C9        C9/B
+Agora sou      somente um
+Am7                  F9
+    Longe de nós um ser comum
+
+(Segunda Parte)
+Dm7                     C/E
+    Agora sou um vento só. a escuridão.
+          F5(9)
+Eu virei pó, fotografia,
+         F5(9)/G
+Sou lembrança do passado
+D4(7)                  C/E
+    Agora sou a prova viva
+
+                   F5(9)
+De que nada nessa vida
+C9/G
+É pra sempre até que prove o contrário
+
+(Refrão)
+C9              C9/B
+   Estar assim,      sentir assim
+Am7                             F5(9)
+    Turbilhão de sensações dentro de mim
+C9                     C9/B
+   Eu amanheço, eu estremeço, eu enlouqueço
+         Am7
+Eu te cavalgo embaixo do cair
+     F5(9)
+Da chuva eu reconheço
+C9              C9/B
+   Estar assim,      sentir assim
+Am7                             F5(9)
+    Turbilhão de sensações dentro de mim
+C9                       C9/B
+   Eu me aqueço, eu endureço
+                      Am7
+Eu me derreto, eu evaporo
+                      F5(9)
+Eu caio em forma de chuva eu reconheço
+
+Eu me transformo
+
+D4(7)  C/E  F5(9)  F5(9)/G
+
+(Introdução)
+C9  C9/B  F5(9)
+(Segunda Parte)
+D4(7)                   C/E
+    Agora sou um vento só. a escuridão.
+          F5(9)
+Eu virei pó, fotografia,
+         C9/G
+Sou lembrança do passado
+D4(7)                  C/E
+    Agora sou a prova viva
+                   F5(9)
+De que nada nessa vida
+                       C9/G
+É pra sempre até que prove o contrário
+
+(Refrão)
+D5(9)              D5(9)/C#
+      Estar assim,          sentir assim
+Bm7(11)                             G6(9)
+        Turbilhão de sensações dentro de mim
+D5(9)                       D5(9)/C#
+      Eu amanheço, eu estremeço, eu enlouqueço
+         Bm7(11)
+Eu te cavalgo embaixo do cair
+     G6(9)
+Da chuva eu reconheço
+D5(9)              D5(9)/C#
+      Estar assim,          sentir assim
+Bm7(11)                             G6(9)
+        Turbilhão de sensações dentro de mim
+D5(9)                       D5(9)/C#
+      Eu me aqueço, eu endureço
+
+Eu me derreto, eu evaporo
+
+Eu caio em forma de chuva
+
+D5(9)  D5(9)/C#  Bm7(11)  G6(9)
+Agora sou um vento só, a escuridão
+
+Eu virei pó, fotografia,
+
+Sou lembrança do passado...
+
+----------------- Acordes -----------------
+Capotraste na 5ª casa
+Am7*  = X 0 2 0 1 0 - (*Dm7 na forma de Am7)
+Bm7(11)*  = 7 X 7 7 5 X - (*Em7(11) na forma de Bm7(11))
+C/E*  = 0 3 2 0 1 0 - (*F/A na forma de C/E)
+C9*  = X 3 5 5 3 3 - (*F9 na forma de C9)
+C9/B*  = X 2 2 0 3 3 - (*F9/E na forma de C9/B)
+C9/G*  = 3 X 5 5 3 3 - (*F9/C na forma de C9/G)
+D4(7)*  = X X 0 2 1 3 - (*G4(7) na forma de D4(7))
+D5(9)*  = X 5 7 9 X X - (*G5(9) na forma de D5(9))
+D5(9)/C#*  = X 4 0 2 3 0 - (*G5(9)/F# na forma de D5(9)/C#)
+Dm7*  = X 5 7 5 6 5 - (*Gm7 na forma de Dm7)
+F5(9)*  = X X 3 5 6 3 - (*A#5(9) na forma de F5(9))
+F9*  = 1 3 5 2 1 1 - (*A#9 na forma de F9)
+G6(9)*  = X X 5 4 5 5 - (*C6(9) na forma de G6(9))

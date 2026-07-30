@@ -1,0 +1,82 @@
+@titulo: amor-nao-vai-faltar
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Amor Não Vai Faltar
+
+[Intro] Bm  A/C#  D A
+        Bm  A/C#  D A
+
+A                                                    Bm   A/C#
+Me diz o que você quer que eu te faça, e eu te faço amor
+   D                             E                   A     D E
+Me diz o que você quer que eu te diga, e eu te digo sim
+    A                            A7                  D            Dm
+Me diz o que você quer que eu te dê, e eu te dou meu bem, tudo de mim
+    A         F#m     Bm         E        A     E
+Eu faço o que você quiser só pra te ver feliz
+
+             A                                       E/G#
+Eu não vou parar, eu vou mimar você até quando eu puder
+                                Bm           A/C#       D E
+Se isso é um defeito você pode até pedir pra eu parar, aaaa
+                 A                                   E/G#
+Mais isso é tão bom, eu cuido de você, você cuida de mim
+                                   D      C#m    Bm      E
+Se existe outro jeito eu prefiro assim, e quer saber, eu vou
+    A     F#m    Bm     E      A      F#m
+Te amar assim, você quem vai cuidar de mim
+
+     Bm  E    A    F#m    Bm     E      A
+Eu cuido de você enfim, amor não vai faltar
+
+( Bm  A/C#  D A )
+( Bm  A/C#  D A )
+
+A                                                    Bm   (A/C#)
+Me diz o que você quer que eu te faça, e eu te faço amor
+   D                             E                   A     D E
+Me diz o que você quer que eu te diga, e eu te digo sim
+    A                            A7                  D            Dm
+Me diz o que você quer que eu adivinhe, e eu posso até tentar, descobrir
+        F#m     Bm         E        A     E
+Eu faço o que você quiser só pra te ver feliz
+
+             A                                       E/G#
+Eu não vou parar, eu vou mimar você até quando eu puder
+                                Bm           A/C#       D E
+Se isso é um defeito você pode até pedir pra eu parar, aaaa
+                 A                                   E
+Mais isso é tão bom, eu cuido de você, você cuida de mim
+                                   D      C#m    Bm      E
+Se existe outro jeito eu prefiro assim, e quer saber, eu vou
+    A     F#m    Bm     E      A      F#m
+Te amar assim, você quem vai cuidar de mim
+     Bm  E    A    F#m    Bm     E      A
+Eu cuido de você enfim, amor não vai faltar
+
+ F#m      Bm   E    A    F#m   Bm      E       A
+Assim, eu cuido de você enfim, amor não vai faltar
+  F#m   Bm        E     A
+Assim, amor não vai faltar
+
+( Bm  A/C#  D A )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

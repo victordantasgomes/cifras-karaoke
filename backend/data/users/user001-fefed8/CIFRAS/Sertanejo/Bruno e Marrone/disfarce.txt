@@ -1,0 +1,52 @@
+@titulo: disfarce
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Disfarce
+
+
+ Fm                      C7
+Você vê esse meu jeito de pessoa liberada
+        F7                     Bbm7
+Mas não sabe que por dentro não é isso, não sou nada
+                C7            Fm     Fm7
+Tenho ares de serpente mas em casos de amor
+      G7                          C7
+Sou pequeno sou carente sou um frágil sonhador
+       Fm7                      C7
+Eu me pinto e me disfarço companheiro do perigo
+        F7                    Bbm7
+Eu me solto em sua festa mas sozinho eu não consigo
+       Bbm/G          C7         Fm            Fm7
+Digo coisas que eu não faço, faço coisas que não digo
+        G7                     C             C7
+Quero ser o seu amado, não somente seu amigo
+     Bbm          D#7                       G#7M
+Cada vez que eu sinto um beijo seu na minha face
+     Fm7                    Bbm       C7                       Fm      Fm7
+Eu luto pra manter o meu disfarce e não deixar tão claro que te quero
+
+F7     Bbm     D#7                       G#7M     Fm7                         Bbm
+Cada vez se torna mais difícil o meu teatro, não dá mais pra fugir do seu contato
+  C7                  Fm   C7
+Estou apaixonado por você
+
+----------------- Acordes -----------------
+Bbm = X 1 3 3 2 1
+Bbm/G = X X 5 3 2 1
+Bbm7 = X 1 3 1 2 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D#7 = X 6 5 6 4 X
+F7 = 1 3 1 2 1 1
+Fm = 1 3 3 1 1 1
+Fm7 = 1 X 1 1 1 X
+G#7M = 4 X 5 5 4 X
+G7 = 3 5 3 4 3 3

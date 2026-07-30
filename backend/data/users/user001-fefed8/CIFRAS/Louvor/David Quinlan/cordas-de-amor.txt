@@ -1,0 +1,73 @@
+@titulo: cordas-de-amor
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Cordas de Amor
+
+Intro 2x: Ab  Ab/C  C#
+
+Primeira Parte:
+
+Ab              C#
+Vazio estou, Senhor
+Ab       Ab/C    C#
+Carente do Teu amor
+Fm            Eb/G    C#
+Tudo que já provei de Ti
+Eb            Fm      C#
+Só me fez depender de Ti
+
+Segunda Parte:
+Ab              C#
+Com cordas de amor
+Ab         Ab/C    C#
+Você me amarrou
+Fm            Eb/G    C#
+E me prendeu a Ti
+Eb                  Fm        Eb/G
+Minh'alma está apegada a Ti
+
+
+Refrão:
+                     Ab
+Abraça-me e eu te abraçarei
+                    C#
+Beija-me e eu te beijarei
+             Fm
+Inunda o meu ser com
+             Eb/G        C#/Ab   Ab
+Teu amor completamente
+               Ab
+Satura-me com o Teu coração
+                       C#
+Aperta-me com toque de Tuas mãos
+        Fm                    Eb/G      Ab
+E eu destilarei toda doçura do Teu ser
+
+Terceira Parte:
+            Ab       C#
+Abraça-me, Beija-me
+         Fm    Eb/G
+Inunda-me
+             C#/Ab   Ab
+Completamente
+            Ab       C#
+Satura-me, aperta-me
+         Fm                  Eb/G     Ab
+Adoça-me com a doçura do Teu Ser
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Ab/C = X 3 X 1 4 4
+C# = X 4 6 6 6 4
+C#/Ab = 4 X 3 1 2 X
+Eb = X 6 5 3 4 3
+Eb/G = 3 X 1 3 4 X
+Fm = 1 3 3 1 1 1

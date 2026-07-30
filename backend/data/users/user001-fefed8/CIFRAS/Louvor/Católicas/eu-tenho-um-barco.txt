@@ -1,0 +1,49 @@
+@titulo: eu-tenho-um-barco
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Eu Tenho Um Barco
+
+            Am                       E7
+Eu tenho um barco que navega sobre o mar
+                    Am
+e que Jesus é o capitão.
+
+            Am                       E7
+Eu tenho um barco que navega sobre o mar
+                    Am   A7
+e que Jesus é o capitão.
+
+          Dm                        Am
+E os marinheiros que navegam ao seu lado
+            E7                   Am   A7
+dizem ser lavado o seu pobre coração.
+
+           Dm                        Am
+E os marinheiros que navegam ao seu lado
+            E7                   Am
+dizem ser lavado o seu pobre coração.
+
+      Am              E7                           Am
+Jerusalém, que bonita és, ruas de ouro, mar de cristal.
+
+      Am              E7                           Am    A7
+Jerusalém, que bonita és, ruas de ouro, mar de cristal.
+
+           Dm                  Am           E7               Am   A7
+Por estas ruas, estas ruas andarei, ruas de ouro, mar de cristal.
+           Dm                  Am           E7               Am
+Por estas ruas, estas ruas andarei, ruas de ouro, mar de cristal.
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0

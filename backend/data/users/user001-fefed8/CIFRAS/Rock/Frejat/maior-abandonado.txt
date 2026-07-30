@@ -1,0 +1,68 @@
+@titulo: maior-abandonado
+@autor:
+@intérprete: Frejat
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Frejat - Maior Abandonado
+
+Intro: (E C#m B)
+
+E                                            C#m     B
+Eu to perdido, sem pai nem mãe, bem na porta da sua ca     sa
+E                                          C#m     B
+Eu to pedindo, a tua mão, e um pouquinho do bra     ço
+A          B7          A      B7
+Migalhas dormidas do te pão
+A           G#m               F#
+Raspas e restos, me interessam
+A            B7         A      B7
+Pequenas porções de ilusão
+A              G#m           F#           B7
+Mentiras sinceras, me interessam
+E                                            C#m    B
+Eu tô pedindo, a tua mão, me leve pra qualquer la     do
+E                                     C#m   B
+Só um pouquinho de proteção ao maior abandona     do
+A         B7          A      B7
+Teu corpo com amor ou não
+A              G#m                F#
+Raspas e restos me interessam
+
+A       B7           A    B7
+Me ame como a um irmão
+A                   G#m             F#
+Mentiras sinceras me interessam
+            B7
+Me interessam
+
+SOLO
+
+A            B7           A        B7
+Migalhas dormidas do teu pão
+A              G#m         F#
+Raspas e restos me interessam
+A            B7         A      B7
+Pequenas porções de ilusão
+A             G#m            F#
+Mentiras sinceras me interessam
+         B7
+Me interessam
+E                                           C#m    B
+Eu to pedindo a tua mão me leve pra qualquer la     do
+E                                       C#m    B
+Só um pouquinho de proteção ao maior abandona      do
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

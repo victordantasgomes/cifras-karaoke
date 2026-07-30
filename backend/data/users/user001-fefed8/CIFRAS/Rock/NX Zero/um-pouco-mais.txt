@@ -1,0 +1,114 @@
+@titulo: um-pouco-mais
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nx Zero - Um Pouco Mais
+
+Introdução: G#, E, B, F#
+
+e|-------------------------------------------------------------------|
+B|----4--------------------------------4-----------------------------|
+G|-----4-------------6-4----------------4------------6-4-------------| 
+D|-6-6-----------2-2---------------4-4-----------4-4-----------------| 
+A|-------------------------------------------------------------------|
+E|-------------------------------------------------------------------|
+
+  G#                     E
+Sempre escondo o meu sorriso
+                  G#
+quando passo por você
+                     E
+Nossos olhos se encontram
+                  G#
+Você finge não me ver
+
+  e|---------------------------------
+r B|--4--4--5--5--4--4--X--4--X--4---
+i G|--4--4--4--4--4--4--X--4--X--4--- 2x
+f D|---------------------------------
+f A|---------------------------------
+  E|---------------------------------
+
+
+         B          F#m
+Talvez esteja tão vazio
+ G#     B      F#m      E
+Que já não sou mais ninguém
+ E
+Então
+
+(G#, E, B, F#)
+Desfaz o nó em minha garganta e deixa eu te dizer...
+o quanto é difícil eu tentar viver
+enquanto cada dia longe de você
+me mata um pouco mais
+
+Intro:(G#, E, B, F#) 2 vezes
+
+G#              E                    G#
+Continuo sem saber onde foi que te perdi
+                        E      E-G#
+Houve um tempo onde pensei que era feliz
+
+  e|---------------------------------
+r B|--4--4--5--5--4--4--X--4--X--4---
+i G|--4--4--4--4--4--4--X--4--X--4--- 2x
+f D|---------------------------------
+f A|---------------------------------
+  E|---------------------------------
+
+            B        F#m     G#
+E houve um tempo onde te abracei
+       B            F#m    E
+E prometi nunca te abandonar
+  E
+Então
+
+(G#, E, B, F#)
+Desfaz o nó em minha garganta e deixa eu te dizer...
+o quanto é difícil eu tentar viver
+enquanto cada dia longe de você
+me mata um pouco mais
+
+
+(G#, E, B, F#)
+Um pouco mais
+(G#, E, B, F#)
+Um pouco mais
+(G#, E, B, F#)
+
+e|-----------------------------------------------------------|
+B|-----------------------------------------------------------|
+G|--11-11-x-11-xx--6/-8--8-8--xx--6/-8--8-8-xx--6/-8--8-8----|
+D|--x--x--x-x--xx--x/-x--x-x--xx--x/-x--x-x-xx--x/-x--x-x----|2x
+A|--9--9--x-9--xx--4/-6--6-6--xx--4/-6--6-6-xx--4/-6--6-6----|
+E|-----------------------------------------------------------|
+
+(G#, E, B, F#)
+Dias ensinam tudo para nós
+talvez nos façam perceber
+que ainda pode ser só eu e você
+ E
+Então
+
+Refrão:(G#, E, B, F#)
+Desfaz o nó em minha garganta e deixa eu te dizer...
+o quanto é difícil eu tentar viver
+enquanto cada dia longe de você
+(Me mata um pouco mais)
+                             G#-B-E
+o quanto é difícil eu tentar viver!!!
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G# = 4 3 1 1 1 4

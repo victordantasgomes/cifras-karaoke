@@ -1,0 +1,110 @@
+@titulo: uma-noite
+@autor:
+@intérprete: Tihuana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Tihuana - Uma Noite
+
+int: Em C D ( a música toda é assim, só muda a batida e dedilhado em algumas partes)
+
+
+Introdução: (Dedilhada)
+G|-----0-------0----0------------
+D|---5--5----2----4--------------
+A|-7-------3----5----------------
+
+G|----0-------0-------0---------
+D|---5--5---2---2---4---4--------
+A|-7------3-------5--------------
+
+G|-----0----0-----0-----0-------
+D|---5--5------2-----4----------
+A|-7------7---3-----5------------
+
+G|---0----0---0
+D|--5-----2---4
+A|-7--7---3---5
+
+(Em C D)
+Custei para acreditar,
+
+No mal que você me fez
+Mas percebi, agora dessa vez
+Vou me libertar, vou me libertar
+Pra poder viver, vou me libertar
+
+A tua ausência eu já me acostumei
+Minha inocência, agora eu já provei
+Vou me libertar, vou me libertar
+pra poder viver, vou me libertar
+
+Uma noite pra nós dois
+Deixa o resto pra depois
+
+Mas eu nunca quis, a segurança de quem
+Não arrisca nada
+Mas eu já senti, a ilusão de quem perde
+Uma jogada
+Vou me libertar, vou me libertar
+
+Hoje olho para trás, superei, já é passado
+Aprendi porque vivi, e não porque
+Me foi contado
+Vou me libertar, vou me libertar
+pra poder viver, vou me libertar
+
+Uma noite pra nós dois
+
+Guitar  Egypicio
+intro
+e|-------------------------
+B|-------------------------
+G|---0-----0--0------------
+D|--2-2---2--4-------------
+A|-------3--5--------------
+E|-0-----------------------
+
+A música fica assim quase inteira. Só o refrão muda.
+Refrão:
+e|-------------------------
+B|-------------------------
+G|-9--5--7-----------------
+D|-9--5--7-----------------
+A|-7--3--5-----------------
+E|-------------------------
+
+
+Guitar Léo:
+e|-------------------------
+B|-------------------------
+G|---0-----0--0------------
+D|--5-5---2--4-------------
+A|-7-----3--5--------------
+E|-------------------------
+
+
+Depois do refrão:
+e|--------------------------
+B|-12~~~~~---8---8----------
+G|--------7h9-7h9-7-------7-
+D|-----------------7---7/9--
+A|------------------5h7-----
+E|--------------------------
+
+e|-------------------------------------------
+B|----------------------13~~~~-15-13-10-13-8~
+G|-7-7-7/5-9/7-9/11/9------------------------
+B|-------------------------------------------
+A|-------------------------------------------
+E|-------------------------------------------
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0

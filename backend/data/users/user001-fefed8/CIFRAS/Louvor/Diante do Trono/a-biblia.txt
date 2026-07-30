@@ -1,0 +1,99 @@
+@titulo: a-biblia
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - A Bíblia
+
+Intro: A#  Cm7  A#/D#  Fm  D#/G#  Fm  A#  D#  Cm7  A#
+
+ D#     A#/D Cm7 D#/G G#            D#sus     A#sus A#
+A bíblia é um livro especial       com ela aprendo mais sobre jesus
+D#    D#/C#        G#/C                     B6
+Ele é meu grande amigo  eu quero o conhecer mais
+D#/A#   Cm7 Fm  A#sus/F   A#   Cm7   A#/D  A#
+Vou ler a bíblia        todo dia mais e mais
+
+D#                                Fm
+Vou entrar no meu quarto fechar minha porta
+D#/G        Cm7          C# A#sus A#
+Vamos ficar juntinho só eu e o senhor
+Cm7         A#/D  D#      Fm          D#/G  G#
+Vou pegar minha bíblia  vou ler com carinho
+D#/A#      A#     Cm7  A#/D     D#    G#   Fm     A#sus A#
+Sei que deus vai falar comigo
+
+D#  A#/D  Cm7 A#/D D#/G  G#   Fm7               A#sus A#
+A bíblia é o pão que alimenta        a fome que está em meu coração
+D#          D#/C#          G#/C            B6
+É a palavra de jesus que me cura e fortalece
+
+D#/A#         Cm7  Fm        A#       Cm7      C#  A#
+Vou ler a bíblia        todo dia mais e mais
+
+D#                               Fm
+Vou entrar no meu quarto fechar minha porta
+D#/G              Cm7          C#  A#sus  A#
+Vamos ficar juntinhos só eu e o senhor
+Cm7           A#/D D#           Fm         D#/G G#
+Vou pegar minha bíblia  vou ler com carinho
+D#/A#  A#  D#  A#/D  A#     G#     A#
+Sei que deus vai falar comigo
+
+D#   Cm7  A#  G#m7    A#m7   B9  A#m7  G#m7  A#m7 B9  C#   D#
+Sei que deus vai falar comigo
+
+D#   A#           D#          G#                  A#
+Gênesis êxodo levítico números deuteronómio  josué  juízes rute
+Fm    D#     D#/G    G#      D#/G      A#      D#
+Samuel samuel reis reis e crônicas crônicas esdras neemias ester jó
+A#                   D#  G#                 A#
+Salmos provérbios eclesiastes cantares isaías jeremias e lamentações
+Fm   D#  D#/G  G#  D#/G   A#   D#      A#
+Ezequiel e daniel  oséias joel amós obadias  jonas  miqueias naum
+D#                      G#                    A#
+Habacuque  sofonias ageu zacarias malaquias
+
+Fm  D#     D#/G G#      D#/G      A#         D#    Cm7    A#
+Os 39 livros então     do velho testamento aqui estão
+
+D#      A#             D#        G#                 A#
+Mateus marcos lucas e joão atos romanos coríntios, coríntios.
+Fm   D#       D#/G G#       D#/G           A#       D#
+Gálatas efésios filipenses colossenses tessalonicenses, tessalonicenses.
+A#       D#  G#          A#      Fm  D#               D#/G
+Timóteo timóteo tito filemom  hebreus  tiago  pedro  pedro  joão joão joão
+G#    D#/G    A#       D#        Fm   D#            D#/G
+Judas apolocalipse de joão  os 27 livros então
+G#     D#/G      A#    D#    G#    D#/G  A#   Cm7   A#/D     D#
+Do novo testamento aqui estão
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+A#/D = X 5 X 3 6 6
+A#/D# = X 6 X 7 6 6
+A#m7 = X 1 3 1 2 1
+A#sus = X 1 3 3 3 1
+A#sus/F = X 8 8 7 6 X
+B6 = X 2 4 1 4 X
+B9 = X 2 4 4 2 2
+C# = X 4 6 6 6 4
+Cm7 = X 3 5 3 4 3
+D# = X 6 5 3 4 3
+D#/A# = X X 8 8 8 6
+D#/C# = X 4 5 3 4 X
+D#/G = 3 X 1 3 4 X
+D#/G# = 4 X X 3 4 3
+D#sus = X 6 5 3 4 3
+Fm = 1 3 3 1 1 1
+Fm7 = 1 X 1 1 1 X
+G# = 4 3 1 1 1 4
+G#/C = X 3 X 1 4 4
+G#/D# = X 6 6 5 4 4
+G#m7 = 4 X 4 4 4 X

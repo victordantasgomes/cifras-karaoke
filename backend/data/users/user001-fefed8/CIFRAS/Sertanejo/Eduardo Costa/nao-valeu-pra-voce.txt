@@ -1,0 +1,73 @@
+@titulo: nao-valeu-pra-voce
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Não Valeu Pra Você
+
+(intro) E G#m7 A9 B
+
+               E    B/D#            C#m G#m7
+Não valeu pra você, foi uma noite apenas
+               A                   F#m                 B
+Mais uma aventura , dessas que só duram  até alguém sofrer.
+               E    B/D#            C#m G#m7
+Não valeu pra você, foi só um momento
+            A                  F#m                B
+Nenhum sentimento,só durou o tempo que dura o prazer
+      A9                                       E
+Foi desejo daqueles que correm queimando nas veias
+              C#m                 A      B              E   B
+Um rio que transborda com a maré cheia e seca no amanhecer
+
+(refrão)
+             E                          B              C#m
+Pois só eu te amei de um jeito que só Deus consegue explicar
+       G#m7                A9                    E
+Esse desejo aceso em meu olhar ,Febre que não passa
+             B
+Sem você comigo
+
+             E                        B              C#m
+Pois só eu te amei de um jeito que jamais eu poderia amar
+         G#m7                A9           E                  B
+Porque deixei meu coração ficar na tempestade desse amor bandido
+             A    G#m7 F#m B E
+Foi tempo perdido
+
+(repete 1ª parte)
+
+(refrão)
+             E                          B              C#m
+Pois só eu te amei de um jeito que só Deus consegue explicar
+       G#m7                A9                    E
+Esse desejo aceso em meu olhar ,Febre que não passa
+             B
+Sem você comigo
+             E                        B              C#m
+Pois só eu te amei de um jeito que jamais eu poderia amar
+         G#m7                A9           E                  B
+Porque deixei meu coração ficar na tempestade desse amor bandido  (2x)
+
+             E                        B              C#m
+Pois só eu te amei de um jeito que jamais eu poderia amar
+         G#m7                A9           E                  B
+Porque deixei meu coração ficar na tempestade desse amor bandido
+             A    G#m7 F#m B E
+Foi tempo perdido
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m7 = 4 X 4 4 4 X

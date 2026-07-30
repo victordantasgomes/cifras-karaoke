@@ -1,0 +1,78 @@
+@titulo: entrada-franca
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Entrada Franca
+
+Intro:
+E|--------------------0------------------5--0---|
+B|-3-5-7-8-7-------5--3--3-5-7-8-7----------3---|
+G|--------------------2-------------5/6-----2---|
+D|-4-5-7-9-7--4/5-----0--4-5-7-9-7----------0---|
+A|----------------------------------------------|
+E|----------------------------------------------|
+
+D9                                        Bm7
+Eu queria cantar pra você pra tentar te dizer
+                    A
+Que as noites são frias
+      G
+Que o meu coração tá vazio
+              Em                A
+Que quem tá perdido não escolhe caminho
+        G
+Mas nem tudo vai à ferro e fogo
+            Bm7        A          G
+Você faz o jogo que a mágoa te ordena
+        Em
+E as palavras são folhas ao vento
+
+             G                    A
+não pode dizer que chorar vale a pena
+        D
+Mas dos palcos dessa solidão
+               Bm7                    G
+Sem você na platéia ninguém vai me ouvir
+        Em
+E por mais que eu aumente o som
+                   G                     A
+Você de braços cruzados não vai me aplaudir
+         D
+Sei que as frases são balas perdidas
+                    G                        Gm
+Que alguém deixou cair entre o vãos das poltronas
+       D                        A
+E o silêncio é o bilhete de entrada do
+          G
+Arrependimento
+            D    A
+De quem abandona
+D                                              Em
+Vem qua a porta está aberta, que a entrada é Franca
+                                    G
+A dor de uma saudade só um beijo arranca
+                                D         A
+E a paixão é o petisco pra o coração que ama
+D                                               Em
+Vem que longe dos seus olhos qualquer filme é Triste
+                         D/F#  G
+Se a solidão me vaia o amor insiste
+    A                       D
+Em decorar os palcos pra outra canção
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

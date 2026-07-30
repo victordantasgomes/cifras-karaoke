@@ -1,0 +1,83 @@
+@titulo: contigo-habitarei
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Contigo Habitarei
+
+Intro:  D/A  E/A  D/A  A  D  G/D  D
+
+   G7+        G6    G7+      G6              D4      D
+Meu Senhor, meu Pastor, meu provedor
+  G7+  G6      G7+         G6     A
+Só tu         me fazes descansar
+   G7+  G6         G7+  G6             D4  D
+Me leva      as águas,       tranquilas
+         Em7      Em6  Em                        Bm
+Sara-a minh'alma,         com teu amor me guia
+                      G                         A
+Em teu caminho, meu Senhor
+
+Refrão:
+   D            D4    D9    D/F#          D4/F# D9/F#         G
+Dura pra sempre, não tem limites                    o teu amor
+     A4   A    A4  A                    G/D                     D    A/C#
+E tua fidelidade vai muito além dos altos céus
+  Bm                       D/F#                     G                   Gm6
+Tua bondade e misericórdia me seguiram, até o fim
+         G/A  Em/A G/A         A     D
+Contigo para  sempre habitarei
+
+D4/B  D9/B  D4/B - D9/B  D4/F#  D9/F#
+Mesmo         quando eu        andar
+                 G/E  G6/E  G/E  G6/E  A4 A  A/C#
+Pelo vale da   sombra  da  morte eu não
+ D4/B  D9/B  D4/B  D9/B D4/F#  D9/F#
+Te|-- me|--rei  mal              nenhum
+                        Em
+Pois comigo tu estas
+                           G/A  A
+Tua mão me guiará
+
+   D            D4    D9    D/F#          D4/F# D9/F#         G
+Dura pra sempre, não tem limites                    o teu amor
+     A4   A    A4  A                    G/D                     D    A/C#
+E tua fidelidade vai muito além dos altos céus
+  Bm                       D/F#                     G                   Gm6
+Tua bondade e misericórdia me seguiram, até o fim
+         G/A  Em/A G/A         A     D    D/F#  G  A  D
+Contigo para  sempre habitarei
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+D4/B = X 2 0 2 P3 3
+D4/F# = 2 X X 2 3 3
+D9 = X X 0 2 3 0
+D9/B = X 2 0 2 3 0
+D9/F# = 2 X 0 2 3 0
+E/A = X 0 2 1 0 0
+Em = 0 2 2 0 0 0
+Em/A = X 0 2 0 0 X
+Em6 = X 7 X 6 8 7
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/D = X 5 5 4 3 X
+G/E = 0 2 0 0 3 3
+G6 = 3 X 2 4 3 X
+G6/E = 0 2 0 0 0 0
+G7+ = 3 X 4 4 3 X
+Gm6 = 3 X 2 3 3 X

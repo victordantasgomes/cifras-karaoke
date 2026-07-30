@@ -1,0 +1,62 @@
+@titulo: se-nao-vai-eu-vou
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Se Não Vai, Eu Vou
+
+Intro:  E
+
+                          E E4 E
+Alguém vai ter que ir embora
+                          B
+Um de nós dois não vai poder ficar
+ A                      E
+Dizer adeus chegou a hora
+                      A                    B
+Amor só da boca pra fora é impossível segurar
+
+E          A        E           A  E
+Vivemos juntos separados
+   E7                  A         D  A
+O seu olhar já não provoca o meu
+                           E
+Apenas bons amigos nós ficamos
+                              B             A
+E aqueles nossos sonhos que sonhamos com o tempo
+B        E
+desapareceu
+
+
+E               F#m
+Se não vai, eu vou.
+                                B
+Buscar a qualquer preço a felicidade
+          Abm
+Se tudo acabou
+                               C#m
+Pra que ficar fugindo da realidade
+         F#m
+Se nada restou
+                            E/Ab  A               B
+Daquele sentimento que a gente viveu e tudo se perdeu
+         E       A
+Se não vai, eu vou.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Abm = 4 6 6 4 4 4
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/Ab = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

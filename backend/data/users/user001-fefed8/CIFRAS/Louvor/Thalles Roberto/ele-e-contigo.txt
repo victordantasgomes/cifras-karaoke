@@ -1,0 +1,70 @@
+@titulo: ele-e-contigo
+@autor:
+@intérprete: Thalles Roberto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Thalles Roberto - Ele É Contigo
+
+[Intro]
+
+E|-7---------7----------|
+B|-7---------7----------|
+G|-7-(10x)---7h9--------|
+D|-7---------7----7/9---|
+A|-7---------7----5/7---|
+E|-X--------------------|
+
+D7+  E4(7/9)    A9
+Ele é contigo
+D7+   E4(7/9)    A9
+Onde você estiver
+D7+  E4(7/9)    A9
+Ele é Abrigo, seu Amigo
+         Gmaj7  D/F#      Gmaj7  E4(7/9)       A9
+Deus provedor,   pode confiar,   pode confiar
+           D/F#   E5   A
+Lara,la la la...
+
+D7+  E4(7/9)    A9
+    Deus poderoso...
+
+D7+  E4(7/9)    A9
+  O Deus que tudo pode fazer
+D7+     E4(7/9)         A9
+e o controle do mundo (de tudo) está
+
+    Bm                   C#m
+Nas mãos desse Deus, nas mãos de Deus
+    Bm
+Nas mãos de Deus
+D7+  E4(7/9)    A9
+  É maravilhoso...
+D7+     E4(7/9)       A9
+  Saber que não há impossível pra Deus
+D7+  E4(7/9)    A9       Bm              C#m
+  Então, não duvida, confia em Deus, confia em Deus
+   Bm
+Confia em Deus
+
+Final:
+           D7+  E4(7/9)    A9
+Lara,la la la...          (3x)
+          D7+  E4(7/9)    A9
+Lara,la la la...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D/F# = 2 X 0 2 3 2
+D7+ = X X 0 2 2 2
+E4(7/9) = X X 2 2 3 2
+E5 = 0 2 2 X X X
+Gmaj7 = 3 X 4 4 3 X

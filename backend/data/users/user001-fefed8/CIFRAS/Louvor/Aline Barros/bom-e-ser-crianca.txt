@@ -1,0 +1,83 @@
+@titulo: bom-e-ser-crianca
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Bom É Ser Criança
+
+[Intro] Bb  Eb  Bb  Eb  Cm  F
+
+ Bb               Gm       Eb         F        Bb
+Já é hora de dormir, ter um sonho bom
+  Bb              Dm      Eb         F         Bb
+Numa noite de luar, nos braços do senhor
+ Bb              Gm        Eb          F        Bb
+Já é hora de dormir, ter um sonho bom
+  Bb              Dm        Eb        F         Bb        (D)
+Numa noite de luar, nos braços do senhor
+
+Gm                 Dm       Eb       F      Bb
+Amanhã vou acordar, com o meu Jesus
+ Gm        Bb        Dm     Eb    F    Bb
+Mais um dia despertar, com a tua luz
+
+  C             Dm       Eb     F    Bb
+Vou beijar o papai, e o meu irmão
+   C            Dm       Eb       F      Bb
+Abraçar a mamãe, e depois brincar
+
+
+Bb              Gm       Eb         F        Bb
+Já é hora de dormir, ter um sonho bom
+  Bb              Dm      Eb         F         Bb
+Numa noite de luar, nos braços do senhor
+ Bb              Gm        Eb          F        Bb
+Já é hora de dormir, ter um sonho bom
+  Bb             Dm        Eb        F           Bb        (D)
+Numa noite de luar, nos braços do senhor
+
+Gm             Dm          Eb       F      Bb
+Bom é ser criança, ter a paz no coração
+Gm                  Dm       Eb       F      Bb
+Um sonho de criança, como na canção
+
+  C             Dm       Eb     F    Bb
+Vou beijar o papai, e o meu irmão
+  C              Dm       Eb     F    Bb        (G)
+Abraçar a mamãe, e depois brincar
+
+ C                Am            F         G       C
+Já é hora de dormir, ter um sonho bom
+ Am                Em       F          G          C
+Numa noite de luar, nos braços do senhor
+
+ C                Am            F         G       C
+Já é hora de dormir, ter um sonho bom
+ Am                Em       F          G          C
+Numa noite de luar, nos braços do senhor
+
+Am   F          G           C
+Nos braços do senhor
+Am   F          G           C
+Nos braços do senhor
+Am   F          G           C
+Nos braços do senhor
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Eb = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

@@ -1,0 +1,50 @@
+@titulo: salvacao-poderosa
+@autor:
+@intérprete: Adhemar de Campos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Adhemar de Campos - Salvação Poderosa
+
+(intro 3x)C#m7  F#7/9 C#m7  F#7/9  F#  G#m7  B B°
+
+E               G#m7/D#             C#m7     C        E
+    Salvação poderosa      nos concedeu      o     Senhor
+       D         A/C#       B     C°
+Pra livrar-nos de todos inimigos
+      C#m7        F#7
+Pois havia um juramento
+     C#m7       F#7
+Do Senhor uma palavra
+      F#    G#m          A       B       1ª (B°)
+Somos livres      pra louvá-lo a cada dia
+                                         2ª ( C#m7  F#7/9 )
+
+(final)
+      F#    G#m          A       B    (C7+ G7+ )  E7+
+Somos livres      pra louvá-lo a cada     dia
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+B = X 2 4 4 4 2
+B° = X 2 3 1 3 1
+C = X 3 2 0 1 0
+C#m7 = X 4 6 4 5 4
+C7+ = X 3 2 0 0 X
+C° = X 3 4 2 4 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7+ = X X 2 4 4 4
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2
+F#7/9 = X X 4 3 5 4
+G#m = 4 6 6 4 4 4
+G#m7 = 4 X 4 4 4 X
+G#m7/D# = X 6 4 4 4 4
+G7+ = 3 X 4 4 3 X

@@ -1,0 +1,67 @@
+@titulo: senhor-do-universo
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Senhor do Universo
+
+intro: (B9) (A) E A9 E A9
+
+         E       A               E
+  Eu sou, o alimento que mata a fome
+       A                       E           B
+  A alegria que dá força ao homem, para caminhar
+ A      E        A           E
+  Eu sou, a esperança no horizonte
+ A                      E         B
+  A água da mais pura fonte, para sede saciar
+       A        B            E
+Eu sou, a semente em terra fértil
+  G#                   A            B         E
+Que brota o fruto mais certo para o homem desfrutar
+       A  B                E
+Eu sou, o sol que ilumina a terra
+  G#              A          B                E
+A paz que alivia a guerra o amor para o homem amar
+
+ A    E      A         E      A                 E
+Eu sou, o senhor do universo estou sempre por perto
+
+         B    A    E     A          E
+Para te ajudar eu sou, a luz das estrelas,
+ A            E       B
+A força da natureza o brilho num lindo olhar
+  A         B        E     G#                 A
+Eu sou, o criador de tudo, fui eu quem fez o mundo
+       B        E       A   B
+para o homem habitar fui eu quem disse:
+      E    G#          A      B           E
+Haja luz, meu nome é Jesus  você pode acreditar (2x)
+
+  A      B      G#m                C#m
+Sou a esperança, daquele que está só
+ A        F#m           B
+Tenho muito amor para você
+   A        B       G#m          C#m
+Eu também fui homem e hoje eu bem sei
+ A    F#m            B
+Toda tua dor eu já levei
+
+           Repete - Eu sou o criador...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,97 @@
+@titulo: adeus-voce
+@autor:
+@intérprete: Los Hermanos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Los Hermanos - Adeus Você
+
+Intro: B7    E7 (2x)
+
+Bm7     Em7
+Adeus Você
+                Bm7     Em7
+Eu hoje vou pro lado de lá
+              Bm7     Em7
+Eu tô levando tudo de mim
+                    Bm7        Em7
+Que é pra não ter razão pra chorar
+            A7/F#                    A7/Bb F#7(#5)
+Vê se te alimenta e não pensa que eu fui
+            Bm7      Em7
+Por não te amar
+
+Bm7      Em7
+Cuida do teu
+                   Bm7      Em7
+Pra que ninguém te jogue no chão
+            Bm7         Em7
+Procure dividir-se em alguém
+
+                  Bm7       Em7
+Procure-me em qualquer confusão
+                A7/F#                    A7/Bb F#7(#5)
+Levanta e te sustenta e não pensa que eu fui
+
+Por não te
+ G#m7  C#7(9)     F#7   B7      E  F#7     Bm  Gm6 F#7
+Amar        Quero ver   você maior     meu bem
+              Bm   Gm6     Bm   Gm6 F#7  (2x)
+Pra que minha vida siga adiante
+
+
+Bm7     Em7
+Adeus você
+                  Bm7   Em7
+Não venha mais me negacear
+                 Bm7      Em7
+Teu choro não me faz desistir
+                Bm7      Em7
+Teu riso não me faz reclinar
+               A7/F#  A7/Bb  F#7(#5)
+Acalma esta tormenta e se aguenta
+       F#7(#5)       Bb
+Que eu vou pro meu lugar
+  A      Dm    F#°   Gm7
+É bom as vezes se perder
+    C7(9)    F7+      E°    Bb
+Sem ter  por que, sem Ter razão
+     A     Dm    F#°  Gm7      C7(9)
+É um dom saber envaidecer, por si
+  F7+   E°
+Saber mudar de
+
+
+G#m7  C#7(9)
+Tom,
+      F#7   B7     E  F#7   Bm  Gm6  F#7
+Quero não saber de cor   também
+              Bm   Gm6     Bm   Gm6 F#7 (repete)
+Pra que minha vida siga adiante
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7/Bb = 6 7 5 6 5 5
+B7 = X 2 1 2 0 2
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C#7(9) = X 4 3 4 4 X
+C7(9) = X 3 2 3 3 X
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Em7 = 0 2 2 0 3 0
+E° = X X 2 3 2 3
+F#7 = 2 4 2 3 2 2
+F#7(#5) = 2 X 2 3 3 2
+F#° = 2 X 1 2 1 X
+F7+ = 1 X 2 2 1 X
+G#m7 = 4 X 4 4 4 X
+Gm6 = 3 X 2 3 3 X
+Gm7 = 3 X 3 3 3 X

@@ -1,0 +1,39 @@
+@titulo: gloria-a-deus
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Glória a Deus
+
+Bm                            Em        Bm
+Glória a Deus, glória a Deus, glória ao Pai. (2x)
+Bm   Em  F#     Bm
+A... Ele seja a glória (2x)
+   Bm   A Bm
+Aleluia, amém. (4x)
+
+Bm                            Em        Bm
+Glória a Deus, glória a Deus, glória ao Filho. (2x)
+Bm   Em  F#     Bm
+A... Ele seja a glória (2x)
+   Bm   A Bm
+Aleluia, amém. (4x)
+
+Bm                              Em     Bm
+Glória a Deus, glória a Deus, Espírito Santo (2x)
+Bm   Em  F#     Bm
+A... Ele seja a glória (2x)
+   Bm   A Bm
+Aleluia, amém. (4x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2

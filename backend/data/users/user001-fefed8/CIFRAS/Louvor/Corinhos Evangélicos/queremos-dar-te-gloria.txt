@@ -1,0 +1,48 @@
+@titulo: queremos-dar-te-gloria
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Queremos Dar-te Glória
+
+Intro: A C#m D Bm E
+
+                  A         F#m
+Queremos dar-Te glória e adoraçao
+      D           Bm        E
+Levantamos nossas mãos exaltamos, só a ti: 2x
+
+  D/F#    E/G#  A
+Por que tu es grande
+                E/G#       F#m
+Fazes grandes milagres grandes
+                      D   Bm
+Não há outro igual a Ti
+       E             E7
+Não há outro igual a Ti
+  D/F#    E/G#  A
+Por que tu es grande
+                 E/G#           F#m
+Fazes grandes  milagres grandes
+                      D   Bm
+Não há outro igual a Ti
+
+        E             A
+Não há outro igual a Ti: 2x  D/F#  E/G#
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

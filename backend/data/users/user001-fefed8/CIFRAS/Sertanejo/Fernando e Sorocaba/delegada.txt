@@ -1,0 +1,81 @@
+@titulo: delegada
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - Delegada
+
+(intro) E C#m7 A9
+        E C#m7 A9 E
+
+(primeira parte)
+     E                                    B9
+Delegada será que sou motivo de investigaçao?
+                               A9
+Segue pelas ruas vive de marcaçao
+           E    B9
+Assim não da
+     E                                       B9
+Delegada quem procura acha , saia já do meu pé
+                                   A9
+Juro que tentei te fazer minha mulher
+           E   B9
+Assim não da
+A9
+  Me persegue quando vou sair
+E
+  Será que ela é do fbi
+A9
+  Na internet ela vive a fuça
+
+B9                                A9
+  Desse jeito não da pra aguentar
+
+(refrão)
+            E               C#m7
+Eu me rendo,  me entreguei
+      A9                                 B9
+Mais para de ficar investigando a minha vida
+     E                C#m7
+Meu bem , brinca não
+  A9                                B9           E
+Chega dessa historia de bancar a delegada da paixão
+
+(repete intro sem o ritmo especial)
+
+(terceira parte - repetição)
+
+     E                                    B9
+Delegada será que sou motivo de investigaçao?
+                               A9
+Segue pelas ruas vive de marcaçao
+           E    B9
+Assim não da
+     E                                       B9
+Delegada quem procura acha , saia já do meu pé
+                                   A9
+Juro que tentei te fazer minha mulher
+           E   B9
+Assim não da
+A9
+  Me persegue quando vou sair
+E
+  Será que ela é do fbi
+A9
+  Na internet ela vive a fuça
+B9                                A9
+  Desse jeito não da pra aguentar
+
+(repete refrão 3x)
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0

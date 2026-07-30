@@ -1,0 +1,68 @@
+@titulo: muda-me
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Muda-me
+
+(intro) C#/F#   D7+   C#7   C#/F#   D7+   Bm7   G7
+
+    C#/F#         E7/D  D7+
+Não há mais como  adi--ar
+  Bm7         C#7       F#m9
+Hojé é o dia preciso decidir
+ C#/F#         E7/D     D9
+Resolvi não me escon   der
+   Bm7        C#7      F#m7
+Se já não há tempo a perder
+
+ F#m/E          D7+    Bm7    C#7           F#m7
+E quando não há mais lugar seguro pra se estar
+F#m/E      D7+  Bm7   C#7        F#m7 F#m7/E  D7+
+O que resta é deixar tudo para trás e lutar
+
+D  E  F#m7
+Mu da-me,
+           D  F#m7  E
+Não posso mais fu  gir
+     E/D      C#m7 D9      Bm7          C#7
+Não tenho medo de sair marcado,desde que me mudes
+D  E  F#m7
+Mu da-me
+          D  F#m7 E          E/D  C#m7  D9
+Eu vou lutar   a-té    que me abençoes
+         Bm7             C#7
+Muda meu nome, Muda minha sorte
+E/D   D7+  ( Bm7   C# )
+Muda-me...
+
+    E/D  D7+     Bm7         F#m7  F#m/E      E/D
+Só quem tiver coragem pra enfrentar a dor de ser
+ D
+marcado...
+ Bm7  C#7
+Pode ser mudado
+
+----------------- Acordes -----------------
+Bm7 = X 2 4 2 3 2
+C# = X 4 6 6 6 4
+C#/F# = X X 4 6 6 4
+C#7 = X 4 3 4 2 X
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D7+ = X X 0 2 2 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E7/D = X 5 X 4 5 4
+F#m/E = X X 2 2 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7/E = X X 2 2 5 2
+F#m9 = 2 4 6 2 2 2
+G7 = 3 5 3 4 3 3

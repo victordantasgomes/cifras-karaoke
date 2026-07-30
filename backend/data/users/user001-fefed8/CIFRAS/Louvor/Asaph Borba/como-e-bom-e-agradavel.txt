@@ -1,0 +1,39 @@
+@titulo: como-e-bom-e-agradavel
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Como É Bom e Agradável
+
+A     E            A     E   A E     A 
+Oh! Como é bom  _   e   agradável 
+                 D              C#m  F#m   Bm  E       A7  
+Viverem unidos os irmãos, os irmãos, os irmãos! 
+                  D            C#m   F#m   Bm  E      A 
+Viverem unidos os irmãos, os irmãos, os irmãos! 
+
+          D            E/D 
+Ali ordena o Senhor 
+          C#m       F#m 
+A sua bênção   _ 
+      B 
+E a vida 
+        E 
+Para sempre
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+F#m = 2 4 4 2 2 2

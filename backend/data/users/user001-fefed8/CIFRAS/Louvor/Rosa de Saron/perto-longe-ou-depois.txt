@@ -1,0 +1,125 @@
+@titulo: perto-longe-ou-depois
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Perto, Longe Ou Depois
+
+Intro: B  G#m  A  C#m  E
+E|---12-12-12--12/11-|-11-11--11/9-|-9-9--9/7--7-7----|
+B|---x--x--x----x/x--|-x--x----x/x-|-x-x--x/x--x-x----|
+G|---9--9--9----9/8--|-8--8----8/6-|-6-6--6/4--4-4----|
+D|-------------------|-------------|------------------|
+A|-------------------|-------------|------------------|
+E|-------------------|-------------|------------------|
+
+E|---14-14-14--14/12-|-12-12--12/11-|-11-11--11/9-|-9---9/7--7--|
+B|----x--x--x---x/x--|-x--x----x/x--|-x--x----x/x-|-x---x/x--x--|
+G|---11-11-11--11/9--|-9--9----9/8--|-8--8----8/6-|-6---6/4--4--|
+D|-------------------|--------------|-------------|-------------|
+A|-------------------|--------------|-------------|-------------|
+E|-------------------|--------------|-------------|-------------|
+
+E|----7---7---7----7---5---5---5--|
+B|--5---5---5---5----5---5---5----|
+G|--------------------------------|
+D|--------------------------------|
+A|--------------------------------|
+E|--------------------------------|
+
+
+C#m                    E             F#
+Hoje amanheceu tão cinza quando acordei
+C#m                 E F#
+Liguei a Tv e as luzes
+C#m                 E            F#
+Episódios se repetem, eu preciso ter
+C#m                       E     F#
+alguns extras nessa vida sem cor
+C#m                          G#m
+Os fantasmas e os heróis querem aparecer
+D#7                E
+Peço, me ajude a levantar,
+
+eu errei
+
+  B                  F#m
+Só quero saber de alguém
+                      D
+Que me mostre o grande amor
+         A9         E
+que eu quero   alcançar
+  B               F#m
+E se tentar seguir além
+                 D          A9        E
+perto, longe ou depois Hoje eu vou procurar
+
+Solo: C#m  E  F#m
+
+C#m                     E               F#
+Penso onde vou prender os anjos que aqui vem
+C#m                      E  F#
+Tranco mesmo e jogo as chaves
+C#m                             E  F#
+Porque se antes eu errei tentando quase ser alguém
+C#m                      E  F#
+Agora ao menos quero acertar
+C#m            G#m
+A vida é filme, sempre tem alguém
+D#7                       E
+Querem prender não vão me encontrar
+
+Fui além
+
+B                  F#m
+Só quero saber de alguém
+                      D
+Que me mostre o grande amor
+         A9       E
+que eu quero   alcançar
+  B               F#m
+E se tentar seguir além
+                 D           A9     E
+perto, longe ou depois Hoje eu vou procurar
+
+(Intro 2x)
+
+C#m                     E               F#
+Folhas na calçada dizem: Perto está o fim
+C#m                    E F#
+Onde leis, espaços falhos
+C#m                     E               F#
+E enquanto todos correm, procurando um álibi
+C#m                     E   F#
+Eu procuro apenas um pouco de paz
+
+B                  F#m
+Só quero saber de alguém
+                      D
+Que me mostre o grande amor
+         A9         E
+que eu quero   alcançar
+  B               F#m
+E se tentar seguir além
+                 D           A9      E
+perto, longe ou depois Hoje eu vou procurar
+
+Solo: B  F#m  A  C#m  E
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D#7 = X 6 5 6 4 X
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

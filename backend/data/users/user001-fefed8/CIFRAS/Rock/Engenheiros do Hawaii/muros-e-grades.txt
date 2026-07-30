@@ -1,0 +1,157 @@
+@titulo: muros-e-grades
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Muros e Grades
+
+[Intro]
+
+E|------4-5-5/7---4-5-5/7-5-4-----4/6-6-6-5------------|
+B|----5-----------------------7---------------7---5----|
+G|--4--------------------------------------------------| (2x)
+D|-----------------------------------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+E              E/G#        A           F#
+ Nas grandes cidades do pequeno dia-a-dia
+E                  E/G#        A           F#
+ O medo nos leva a tudo, sobretudo a fantasia
+                C#m                       B
+ Então erguemos muros que nos dão a garantia
+                    F#m                     A
+ De que morreremos cheios de uma vida tão vazia
+
+E              E/G#           A         F#
+ Nas grandes cidades de um país tão violento
+E               E/G#          A              F#
+ Os muros e as grades nos protegem de quase tudo
+
+             C#m                       B
+ Mas o quase tudo quase sempre é quase nada
+              F#                        A
+ E nada nos protege  de uma vida sem sentido
+
+   E/G#            A
+Um dia super, uma noite super
+    E/G#           A
+Uma vida superficial
+         E/G#              A
+Entre as sombras, entre as sobras
+   F#        B
+Da nossa escassez
+   E/G#            A
+Um dia super, uma noite super
+    E/G#           A
+Uma vida superficial
+         E/G#              A
+Entre as cobras, entre escombros
+   F#        B
+Da nossa solidez
+
+E|------4-5-5/7---4-5-5/7-5-4-----4-5-5/7-5-4----------|
+B|----5-----------------------7---------------7--------|
+G|--4--------------------------------------------------|
+D|-----------------------------------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+E|------4-5-5/7----4-5-5/7-5-4-----4-5-5/7-5-4---------|
+B|----5------------------------7---------------7-------|
+G|--4--------------------------------------------4-----|
+D|-----------------------------------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+E              E/G#         A            F#
+ Nas grandes cidades de um país tão irreal
+E              E/G#           B              A       F#
+ Os muros e as grades nos protegem de nosso próprio mal
+            C#m                      B9
+ Levamos uma vida que não nos leva a nada
+              F#m               A
+ Levamos muito tempo pra descobrir
+              C#m
+ Que não é por aí
+                 B
+ Não é por nada não
+                   F#m
+ Não não não pode ser
+               A
+ É claro que não é, será
+E           E/G#    A           F#
+ Meninos de rua, delírios de ruína
+E                E/G#      A           F#
+ Violência nua e crua, verdade clandestina
+               C#m             B
+ Delírios de ruína delitos e delícias
+                   F#m               A
+ A violência travestida faz seu trottoir
+                 C#m                 B
+ Em armas de brinquedo, medo de brincar
+                 F#m                    A
+ Em anúncios luminosos, lâminas de barbear
+    E/G#            A
+ Um dia super, uma noite super
+     E/G#           A
+ Uma vida superficial
+          E/G#              A
+ Entre as sombras, entre as sobras
+    F#         B
+ Da nossa escassez
+    E/G#            A
+ Um dia super, uma noite super
+     E/G#           A
+ Uma vida superficial
+       E/G#              A
+ Entre cobras, entre escombros
+    G#       C#
+ Da nossa solidez
+
+E|------6-7-7/9---7/9-9-7-7-6-6-4-2/4-------|
+B|----7--------------------------------2----|
+G|--6---------------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------6-7-7/9----9-9-7-7-6-6-4-4----------|
+B|----7------------9-9-7-7-6-6-4-4----------|
+G|--6---------------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+                    D#m                    C#
+Viver assim é um absurdo, como outro qualquer
+                  G#m                   B
+Como tentar o suicídio, ou amar uma mulher
+
+                   D#m                     C#
+Viver assim é um absurdo, como outro qualquer
+                   G#    B             F#
+Como lutar pelo poder, lutar como puder
+
+( D#m  C#  G#  B  A#m  G#m  F# )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#m = X 1 3 3 2 1
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+D#m = X X 1 3 4 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4

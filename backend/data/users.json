@@ -1,0 +1,8 @@
+{
+  "demo": {
+    "id": "user001-fefed8",
+    "name": "Usuário Demo",
+    "password_hash": "scrypt:32768:8:1$VJFALBj9blPwIEwc$ce90e3865b39c33a1b287a347f81d838393681f14f2bf11fba40c89aafff6ae09b2b9a7c71ae8c1f4f2e7dedb394b913d234f466b7cdf276d7a3a822bd280680",
+    "created_at": "2026-07-07T13:34:11.461636+00:00"
+  }
+}

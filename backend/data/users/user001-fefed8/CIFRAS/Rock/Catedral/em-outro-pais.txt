@@ -1,0 +1,40 @@
+@titulo: em-outro-pais
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Em Outro País
+
+E       D9       E            D9         A         G       D      E
+O teu sorriso é maior o meu destino é um só na ilusão coração sou eu
+        D9    E          D9     A            G         D      Em
+na fantasia maior a rebeldia no ar, sonhos verões, emoções e você
+ D        Em    C             G            D              Em
+onde está você? não te vejo aqui perto de mim, me diz por quê?
+ D          Em C         G        D
+não se é feliz em outro país meu amor
+E          D9       E             D9        A
+o que te impede de olhar um pouco mais para mim
+           G            D           E
+vejo que sinto eu não minto eu diz não
+           D9       E            D9        A            G         D         Em
+pra uma distância maior pelo infinito do olhar te obeservar só me faz muito bem
+  D       Em  C            G             D             Em
+onde vai você não te vejo aqui perto de mim me diz por quê?
+ D        Em   C         G        D
+não se é feliz em outro país meu amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

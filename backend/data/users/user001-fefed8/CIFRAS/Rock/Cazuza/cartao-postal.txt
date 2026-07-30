@@ -1,0 +1,81 @@
+@titulo: cartao-postal
+@autor:
+@intérprete: Cazuza
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cazuza - Cartão Postal
+
+Intro: D7  A7
+
+         D7
+Pra que sofrer com despedida
+F#m7               Bm7
+Se quem parte não leva
+F#m7               Bm7
+Nem o sol, nem as trevas
+E7               Bb7
+E quem fica não se esquece
+G7          D7   G7
+Tudo que sonhou,I know
+D7                                     G7
+Tudo é tão simples que cabe num cartão postal
+D7                                     G7
+E se a história é de amor, Não pode acabar mal
+D7                        G7       G#
+O adeus traz a esperança escondida
+A7                        D7
+Pra que sofrer com despedida?
+F#m7              Bm7
+Se só vai quem chegou
+
+F#7                    Bm7
+E quem vem vai, vai partir
+E7        Bb7
+Você sofre, se lamenta
+G7              D7
+Depois vai dormir
+G7
+Sabe
+D7                                                G7
+Alguém quando parte é por que outro alguém vai chegar
+D7                                                G7
+Num raio de lua, na esquina, no vento ou no mar
+D7                         G7   G#
+Pra que querer ensinar a vida?
+A7                 D7
+Pra que sofrer?
+F#M7                    Bm7
+Baby só vai quem chegou
+F#m7                  Bm7
+E que vem vai partir
+E7            Bb7
+Você sofre, se lamenta
+G7               D7
+Depois vai dormir
+G7
+Sabe
+D7                                                 G7
+Alguém quando parte é por que outro alguém vai chegar
+D7                                              G7
+Num raio de lua, na esquina, no vento ou no mar
+D7                            G7 G#
+Pra que querer ensinar a vida?
+A7                         D7
+Pra que sofrer com despedida?
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Bb7 = X 1 3 1 3 1
+Bm7 = X 2 4 2 3 2
+D7 = X X 0 2 1 2
+E7 = 0 2 2 1 3 0
+F#7 = 2 4 2 3 2 2
+F#m7 = 2 X 2 2 2 X
+G# = 4 3 1 1 1 4
+G7 = 3 5 3 4 3 3

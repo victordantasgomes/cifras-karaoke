@@ -1,0 +1,96 @@
+@titulo:
+@autor:
+@intérprete:
+@tom:
+@velocidade:
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+@bpm: 120
+@bateria: sim
+@guitarra:
+@baixo:
+@teclado:
+
+[t=38.82] [@observacao] A FRANCESA – MARINA LIMA - CIFRACLUB
+[@observacao] Tom: C
+
+
+Am           Am7M           Am7
+[t=17.74] Meu amor se você for embora
+
+
+                 Am6
+[t=20.56] Sabe lá o que será de mim
+
+
+ Dm7            F/G
+[t=26.56] Passeando pelo mundo a fora
+
+Am                 Am7M        Am7
+[t=30.36] Na cidade que não tem mais fim
+
+                  Am6
+[t=34.57] Hora dando fora hora bola
+
+Dm7                F/G
+[t=43.84] Uma irresponsável pobre de mim
+
+F
+[t=46.50] Se eu te peço para ficar ou não
+C                   C7
+[t=51.00] Meu amor eu lhe juro
+F
+[t=56.00] Que não quero deixá-lo na mão
+
+   C
+[t=61.00] E nem sozinho no escuro
+
+         D7
+[t=66.00] Mas os momentos felizes
+
+         D7
+[t=71.00] Não estão escondidos
+
+  G               G7
+[t=76.00] Nem no passado e nem no futuro
+
+
+ Am                 Am7M        Am7
+[t=81.00] Meu amor não vai haver tristeza
+
+                      Am6
+[t=0.00] Nada além de fim de tarde a mais
+
+Dm7                  F/G
+[t=0.00] Mas depois as luzes todas acesas
+
+ Am            Am7M  Am7
+[t=0.00] Paraísos artificiais
+
+
+                 Am6
+[t=0.00] E se você saísse à francesa
+
+Dm7                  F/G     G7
+[t=0.00] Eu viajaria muito mais muito mais
+F
+[t=0.00] Se eu te peço para ficar ou não
+
+C                   C7
+[t=0.00] Meu amor eu lhe juro
+
+F
+[t=0.00] Que não quero deixá-lo na mão
+   C                    C7
+[t=0.00] E nem sozinho no escuro
+
+         D7
+[t=0.00] Mas os momentos felizes
+         D7
+[t=0.00] Não estão escondidos
+
+ G               G7
+[t=0.00] Nem no passado e nem no futuro

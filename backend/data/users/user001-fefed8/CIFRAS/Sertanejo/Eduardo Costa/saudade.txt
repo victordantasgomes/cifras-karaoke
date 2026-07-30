@@ -1,0 +1,89 @@
+@titulo: saudade
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Saudade
+
+[Intro]  G  C  F  C  G
+
+   G
+Você sempre fez os meus sonhos
+
+Sempre soube dos meus segredos
+              C    F  C
+Já faz muito tempo
+                         G
+Eu nem me lembro quanto tempo faz
+
+O meu coração não sabe contar os dias
+
+E a minha cabeça já está tão vazia
+        C          F  C
+Mas a primeira vez
+          G
+Ainda me lembro bem
+
+C            D              G
+  Talvez eu seja no seu passado
+
+          C
+Mais uma página
+G           C                  D
+  Que foi, do seu diário arrancada
+ C              D
+Sonho, choro e sinto
+     G                C
+Que resta alguma esperança
+G            C                  D
+  Saudade, quero arrancar essa página
+          G
+Da minha vida
+
+[Solo] G
+
+   G
+Você sempre fez os meus sonhos
+
+Sempre soube dos meus segredos
+              C    F  C
+Já faz muito tempo
+                         G
+Eu nem me lembro quanto tempo faz
+
+O meu coração não sabe contar os dias
+
+E a minha cabeça já está tão vazia
+        C          F  C
+Mas a primeira vez
+          G
+Ainda me lembro bem
+
+C            D              G
+  Talvez eu seja no seu passado
+          C
+Mais uma página
+G           C                  D
+  Que foi, do seu diário arrancada
+ C              D
+Sonho, choro e sinto
+     G                C
+Que resta alguma esperança
+G            C                  D
+  Saudade, quero arrancar essa página
+          G
+Da minha vida
+
+[Final] G
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

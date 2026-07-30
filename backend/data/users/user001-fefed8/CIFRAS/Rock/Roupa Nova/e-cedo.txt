@@ -1,0 +1,153 @@
+@titulo: e-cedo
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - É Cedo
+
+Intro: D7+   Bm  G7+  G/A  Bm7/9  G/A
+
+Solo:
+
+    D7+                      Bm7
+E|-9-9h10-----10-9----------9-9h10------------|
+B|--------10-------10--------------10---------|
+G|--------------------11----------------------|
+D|-----------------------12-------------------|
+
+                    G7+  G/A         Bm7/9  G/A
+E|--------------------------7-----------------|
+B|--------------10-10-12-8----10-8-7----------|
+G|-----6-7-9-11----------------------9p7h9----|
+D|-7-9----------------------------------------|
+
+
+Dm7*    Dm7/F*     Bb7+
+Pode acordar que é cedo
+Dm7*    Dm7/F*     Bb7+
+Pra aliviar meu pranto
+
+Dm7*    Dm7/F*    Cm7      G/B
+Pra me levar pra longe do medo
+Bb7+            Eb7/9/11+
+E me juntar a você.
+
+Dm7*    Dm7/F*     Bb7+
+Deixe eu contar segredos
+Dm7*    Dm7/F*     Bb7+
+Que me tiraram o sono
+Dm7*    Dm7/F*     Cm7         G/B
+Deixe eu mostrar o quanto eu desejo
+Bb7+            F/A
+Ter você do meu lado
+Em7               G/A
+Sempre que eu merecer.
+
+     D7+                        Bm7
+Me chama, me faz acreditar nos sonhos
+                 Bm7/A     G7+
+Saber que ainda existe um mundo
+    G/A                   Bm7/9    G/A
+Que vai salvar a nossa história.
+
+    D7+                      F#7/5+  Bm7
+Me chama, me olha e diz que é tudo engano
+               Bm7/A       G7+
+Que a vida vai mudar meus planos
+  G/A               Bm7/9  G/A
+E não será melhor fugir.
+
+
+Dm7*    Dm7/F*     Bb7+  (2X)
+
+Pedro Mariano...
+
+Dm7*    Dm7/F*     Bb7+
+Pode acordar que é cedo
+Dm7*    Dm7/F*     Bb7+
+Pra aliviar meu pranto
+Dm7*    Dm7/F*    Cm7      G/B
+Pra me levar pra longe do medo
+Bb7+            Eb7/9/13
+E me juntar a você.
+
+Dm7*    Dm7/F*     Bb7+
+Deixe eu contar segredos
+Dm7*    Dm7/F*     Bb7+
+Que me tiraram o sono
+Dm7*    Dm7/F*     Cm7         G/B
+Deixe eu mostrar o quanto eu desejo
+Bb7+            F/A
+Ter você do meu lado
+Em7               G/A
+Sempre que eu merecer.
+
+     D7+                        Bm7
+Me chama, me faz acreditar nos sonhos
+                 Bm7/A     G7+
+Saber que ainda existe um mundo
+    G/A                   Bm7/9
+Que vai salvar a nossa história.
+
+    D7+                      F#7/5+  Bm7
+Me chama, me olha e diz que é tudo engano
+               Bm7/A       G7+
+Que a vida vai mudar meus planos
+  G/A               Bm7/9  G/A
+E não será melhor fugir.
+
+
+Dm7   C/E   Bb7+
+
+Dm7   C/E   Bb7+  (A7/5+)
+
+Dm7   C/E   Bb7+
+
+Dm7   C/E   Bb7+  (G/A)
+
+
+   D7+                        Bm7
+Me chama, me faz acreditar nos sonhos
+                 Bm7/A     G7+
+Saber que ainda existe um mundo
+    G/A                   Bm7/9
+Que vai salvar a nossa história.
+
+    D7+                      F#7/5+  Bm7
+Me chama, me olha e diz que é tudo engano
+               Bm7/A       G7+
+Que a vida vai mudar meus planos
+  G/A               Bm7/9  G/A
+E não será melhor fugir.
+
+
+Dm7   C/E   Bb7+
+
+Dm7   C/E   Bb7+  (A7/5+)
+
+----------------- Acordes -----------------
+A7/5+ = X 0 X 0 2 1
+Bb7+ = X 1 3 2 3 1
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Bm7/9 = X 2 0 2 2 X
+Bm7/A = 5 2 4 2 3 2
+C/E = 0 3 2 0 1 0
+Cm7 = X 3 5 3 4 3
+D7+ = X X 0 2 2 2
+Dm7 = X 5 7 5 6 5
+Dm7/F = 1 X X 2 1 1
+Eb7/9/11+ = X X 1 2 2 1
+Eb7/9/13 = X 6 5 P6 6 8
+Em7 = 0 2 2 0 3 0
+F#7/5+ = 2 X 2 3 3 2
+F/A = 5 X 3 5 6 X
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G7+ = 3 X 4 4 3 X

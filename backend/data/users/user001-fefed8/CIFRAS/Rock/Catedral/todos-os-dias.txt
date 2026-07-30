@@ -1,0 +1,106 @@
+@titulo: todos-os-dias
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Todos os Dias
+
+INTRO: G D/F# Em Bm C Bm Am Bm C Bm Am C D
+
+e|-10----10-8----8-7---7-5---5-3---3-1---1-0-2-3---2-3-0-2-3---2-3-1-------0-2-3-5~~--
+B|----12------10-----8-----7-----5-----3---------3-----------3------------------------
+G|------------------------------------------------------------------------------------
+D|------------------------------------------------------------------------------------
+A|------------------------------------------------------------------------------------
+E|------------------------------------------------------------------------------------
+
+INTRO: G D/F# Em Bm C Bm Am Bm C Bm Am C D
+
+
+G                  D/F#        Em
+Todos os dias quando o sol se põe
+                    Bm      C
+Vem a verdade ao escurecer
+              Bm    Am
+Eu sinto que existo
+                         Bm        C
+Mas falta alguém para me resolver
+                 Bm    Am
+Em tudo o que eu vivo
+
+                    D         G
+P'ra realmente eu me entender
+
+
+Todos os dias quando eu vejo o mar
+Me dá vontade de tentar viver
+Tudo o que acredito
+Mas falta alguém para me resolver
+Eu sinto que existo
+Mas falta alguém p'ra chegar e dizer
+
+G                 G
+Se a loucura atingiu
+                C
+O meu senso de ter
+      D                  G      D/F#      Em
+Um espaço fechado de um tempo marcado p'ra mim
+     C                 D
+Não quero a dor como amiga
+         G    D/F#   Em
+Sei que posso prosseguir
+
+   C         G/B
+E sem querer fim
+       Am     G/B
+Não há o que temer
+      C       G/B
+Procurando alguém
+        Am   D    G
+Quero encontrar você
+
+G
+Poetiza o amor
+               C
+Tudo vai renascer
+         D
+Leva os sonhos no peito,
+   G      D/F#       Em
+Relembra o que se perdeu
+   C                D
+Terás a maior das moradas
+     G   D/F#  Em
+E a vida voltará!
+
+ C          G/B
+Não há mais frio
+   Am      G/B
+O sol já raiou
+      C       G/B
+A verdade escreveu
+     Am      G/B
+Um poema de amor
+   C         G/B
+E sem querer fim
+       Am      G/B
+Não há o que temer
+        C      G/B
+Não procuro alguém
+     Am         G D/F# Em Bm C Bm Am Bm C Bm Am C
+Já encontrei você
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

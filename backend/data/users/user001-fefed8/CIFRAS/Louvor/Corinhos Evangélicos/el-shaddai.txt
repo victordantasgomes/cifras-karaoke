@@ -1,0 +1,73 @@
+@titulo: el-shaddai
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - El Shaddai
+
+D7+ D# Em   Em/D    A/C#
+    El Shaddai, El Shaddai,
+A     D     A/C#  G/B
+Elelyonna Adonai.
+        C 7+                 F#7/A#
+Para sempre não tem fim
+            Bm        A/C#    B/D#
+Teu poder e tua majestade
+
+    D#o    Em   Em/D    A/C#
+    El Shaddai, El Shaddai
+A           D  A/C#  G/B
+Era Kamkana Adonai
+           C7+              A/C#
+Te exaltarei e louvarei
+           D9   G/A  D9
+El Shaddai.
+
+
+           Em7             A7               D9          A/C#   Bm
+O Cordeiro não poupaste, mas o filho de Abraão livraste
+
+              G                         A7   F#7   Bm      A/C#   B/D#
+Com tua destra o mar se abriu, e teu povo em seco passou
+       Em           A7          D9    A/C#  Bm
+A judia que pecou, teu amor a perdoou
+        C7+              A7                 D9   G/D   D9
+Liberdade pra teu povo conquistou.
+
+           Em7         A7     D9    A/C#  Bm
+Tantos anos se falou da vinda do Senhor
+           G                    A7  F#7        Bm   A/C#   B/D#
+Mas o povo não quis ver nem o Messias entender
+       Em                   A7                D9  A/C#  Bm
+A palavra tinha um plano, do que iria acontecer
+       C7+                                  G7+         A7
+Sua obra terminou quando seu Filho expirou.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+B/D# = X 6 X 4 7 7
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D7+ = X X 0 2 2 2
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+F#7/A# = 6 X 4 6 5 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G7+ = 3 X 4 4 3 X

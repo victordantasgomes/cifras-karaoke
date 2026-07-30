@@ -1,0 +1,10 @@
+@titulo: mundo-ao-redor-de-mim
+@autor:
+@intérprete: Fresno
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:

@@ -1,0 +1,46 @@
+@titulo: aleluia-maranata
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Aleluia Maranata
+
+[Intro]  C  D Em  G C  D Em  G   C  D Em  G C  D Em  G
+
+      C              D    Em    C                          G                 Em               G
+Aleluia meu redentor aleluia seu sangue derramou aleluia ressuscitou.
+      C               D               Em               G        C                D
+Aleluia o pai o exaltou aleluia ressuscitou aleluia o pai o exaltou
+
+C  D Em  G C  D Em
+
+          C     D    Em        C                        G                 Em                 G
+Maranata voltará Maranata pra sempre reinará Maranata o céu se abrirá
+          C              D                                  Am C       Em                 G
+Maranata para sempre com ele vamos estar Maranata o céu se abrirá.
+         C                D Building
+Maranata para sempre com ele vamos estar.
+
+Am D Em  D/F# G  D    Am D Em  D/F# G  D
+
+      Am G D         Am Em D            Am G D                 Am Em D
+Aleluia       Maranata,        Cristo vive, reina, e voltará.
+      Am G D         Am Em D            Am G D                 Am Em D
+Aleluia       Maranata,        Cristo vive, reina, e voltará.
+
+      Am G D        Am G D       Am G D         Am G D
+Aleluia,      Maranata,     Aleluia,        Maranata
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

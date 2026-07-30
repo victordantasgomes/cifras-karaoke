@@ -1,0 +1,84 @@
+@titulo: meu-disfarce
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Meu Disfarce
+
+ Intro:  Fm                          C7                     D#7
+E|----- ------------------------------------------------------------|
+B|------9----9---9-----9-------8----8----8----8-------8---8---8---8-|
+G|------------------------------------------------------------------|
+D|---10--10---10---10-------10---10---10---10------8---8---8---8----|
+A|-8---------------------7----------------------6-------------------|
+E|------------------------------------------------------------------|
+     Bb7                  C#7              D#7
+
+E|------------------------------------------------------------|
+B|-9-8----------------------6----6----6---6---6/8--11---------|
+G|----10--8-8/10--8--7~------------------------------8~-------|
+D|------------------------6---6----6----6---------------------|
+A|----------------------4-------------------------------------|
+E|------------------------------------------------------------|
+
+   Fm                      C7
+Você vê esse meu jeito de pessoa liberada
+        F7                        Bbm               Bbm7
+Mas não sabe que por dentro não é isso,eu não sou nada
+       C       C7             Fm
+Tenho ares de serpente mas em casos de amor
+
+      G7                         C7
+Sou pequeno sou carente sou tão frágil sonhador
+Fm*                      C7                      *bater nas cordas de baixo pra cima*
+Eu me pinto e me disfarço companheiro do perigo
+        F7                    Bbm             Bbm7
+Eu me solto em sua festa mas sozinho eu não consigo
+        C            C7        Fm
+Digo coisas que não faço, faço coisas que eu não digo
+        G7                   C7              F7
+Quero ser o seu amado, não somente seu amigo
+     Bbm          D#7                       G#7M
+Cada vez que eu sinto um beijo seu na minha face
+     Fm                    Bbm       C7                       Fm      F7
+Eu luto pra manter o meu disfarce e não deixar tão claro que te quero
+      Bbm     D#7                     G#7M     Fm                         Bbm
+Cada vez se torna mais difícil o meu teatro, não dá mais pra fugir do seu contato
+  C7                      Fm C7 D#7 Bb7 C#7 D#7
+Estou apaixonado por você...
+Fm*                        C7
+Eu me pinto e me disfarço companheiro do perigo
+        F7                    Bbm            Bbm7
+Eu me solto em sua festa mas sozinho eu não consigo
+        C           C7         Fm
+Digo coisas que não faço, faço coisas que eu não digo
+        G7                   C7              F7
+Quero ser o seu amado, não somente seu amigo
+     Bbm          D#7                       G#7M
+Cada vez que eu sinto um beijo seu na minha face
+     Fm                    Bbm       C7                       Fm      F7
+Eu luto pra manter o meu disfarce e não deixar tão claro que te quero
+      Bbm     D#7                      G#7M     Fm                         Bbm
+Cada vez se torna mais difícil o meu teatro, não dá mais pra fugir do seu contato
+  C7                      Fm C7 C# C C7 Fm*
+Estou apaixonado por você...
+
+----------------- Acordes -----------------
+Bb7 = X 1 3 1 3 1
+Bbm = X 1 3 3 2 1
+Bbm7 = X 1 3 1 2 1
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#7 = X 4 3 4 2 X
+C7 = X 3 2 3 1 X
+D#7 = X 6 5 6 4 X
+F7 = 1 3 1 2 1 1
+Fm = 1 3 3 1 1 1
+G#7M = 4 X 5 5 4 X
+G7 = 3 5 3 4 3 3

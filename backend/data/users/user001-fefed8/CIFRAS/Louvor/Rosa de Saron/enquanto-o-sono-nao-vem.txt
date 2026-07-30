@@ -1,0 +1,57 @@
+@titulo: enquanto-o-sono-nao-vem
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Enquanto o Sono Não Vem
+
+(intro 2x) C  Am  G  F
+
+C         Am
+Chove noite adentro.
+      G                       F
+Me perco em meus pensamentos.
+C        Am
+Minto pra mim mesmo.
+      G                               F
+Disfarço e finjo que não conheço você.
+
+C                    G           F                  G                      C
+   Me escondo, dizendo que nunca nada aconteceu,
+             G                     F
+E nego que o erro foi meu.
+C                  G               F                   G                  C
+   Me encolho chorando e grito: preciso de você
+                  G                F
+Não tenho pra onde correr.
+
+(intro)
+
+
+C            Am
+Deito. O sono não vem.
+     G                    F
+Percebo que não sou ninguém,
+C               Am
+Temo não agüentar,
+      G                               F
+Ter forças pra esperar a chuva terminar.
+
+(refrão)
+(solo 4x)
+ C  G  F
+
+(refrão)
+(intro)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

@@ -1,0 +1,62 @@
+@titulo: paixao
+@autor:
+@intérprete: Gilberto e Gilmar
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gilberto e Gilmar - Paixão
+
+(intro) A B7 E
+
+E                                 B7                     E
+Daqui pra frente eu quero muito mais me perder no seu amor
+     A                           E7                     A   D   A
+De hoje em diante eu quero esquecer todo o pranto que chorei
+        B7                     G#7                  C#m
+Você é minha fonte de carinho você é meu desejo meu prazer
+  E                            B7                     E    B7  E
+Daqui pra frente eu quero caminhar lado a lado com você
+
+(refrão)
+     B7             E
+Paixão que coisa linda
+             B7                         E
+Quando acontece pega a gente e deixa assim
+     B7         E
+Paixão me alucina
+            B7                 E
+De corpo e alma põe você dentro de mim
+
+
+E                             B7                         E
+Daqui pra frente eu quero viajar nos teus beijos e abraços
+        A                   E7                         A   D   A
+Eu quero caminhar pra onde for o destino dos seus passos
+        B7                              G#7               C#m
+Sorrir, até chorar se for preciso e dividir contigo o cobertor
+     E                           B7                        E   B7  E
+Daqui pra frente eu quero me guardar nos teus braços meu amor
+
+(refrão)
+     B7             E
+Paixão que coisa linda
+             B7                         E
+Quando acontece pega a gente e deixa assim
+     B7         E
+Paixão me alucina
+            B7                 E
+De corpo e alma põe você dentro de mim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+G#7 = 4 6 4 5 4 4

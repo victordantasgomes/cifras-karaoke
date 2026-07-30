@@ -1,0 +1,40 @@
+@titulo: farol
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - Farol
+
+(intro) A E  A E C#m G#m A D E
+    A                                       E
+Naqueles momentos de tristezas e nas más notícias
+    C#m        G#m   A              D                E
+Naqueles momentos  que você suplicaria para o sol parar
+ A                                E
+Tudo parece tão distante e o fim nunca chega
+ C#m             G#m A                    D
+Tudo se transforma__ria se as rédeas dos seus caminhos
+     E
+Estivessem com o Senhor
+
+   F#m          D           E
+Jesus  lugar seguro futuro certo onde bem chegar
+      F#m           D                    E
+Um farol  no mar escuro para nos dar destino, onde bem chegar
+    A      D         E    D           A  ( A G D E A ) 1ª vez
+Aleluias, vive o Senhor, meu forte lugar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,86 @@
+@titulo: a-voz-do-velho
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - A VOZ DO VELHO
+
+intr.C F C G4/7 G7
+
+C                 F         C
+A GENTE QUANDO E JOVEM NAO ENXERGA
+                 F             G
+AS COISAS QUE A VIDA QUER MOSTRAR
+   F
+A GENTE QUANDO E JOVEM NAO ACEITA
+                       G             C
+CONSELHOS QUE OS MAIS VELHOS QUEREM DAR
+
+  D               C/D  D/F#  G
+A GENTE QUANDO E JOVEM ACREDITA
+            F                         C
+QUE O MAIS VELHO TEM A MENTE ULTRAPASSADA
+   F            G           Am
+DEPOIS O TEMPO PASSA VEM A DUVIDA
+        F               G             C
+QUANDO TEM QUE ANDAR SOZINHO PELA ESTRADA
+
+         C                      F
+SE EU PUDESSE ESCUTAR A VOZ DO VELHO
+
+         C                       G/B Am G° G/F
+SE EU PUDESSE PERGUNTAR O QUE FAZER
+       C          Dm    C/E   F   F#°
+MAS O VELHO SE CALOU E FOI EMBORA
+       C/G          G7            C   F C G4/7 G7
+E NAO PODE MAIS VOLTAR PRA RESPONDER
+
+     C            F              C
+QUE FALTA TEM ME FEITO A VOZ DO VELHO
+              F          G
+AGORA NAO ME CANSO DE DIZER
+     F
+E O TEMPO NAO TEM JEITO DE VOLTAR
+             G            C
+AGORA NAO ADIANTA ARREPENDER
+   D              C/E   D/F#  G
+A GENTE QUANDO E JOVEM NAO ESPERA
+       F                       C
+ENCONTRAR AS CURVAS MAL SINALIZADAS
+      F            G            Am
+E AS VEZES SEM QUERER ERRA O CAMINHO
+       F           G              C
+QUANDO BATE A SOLIDAO NA ENCRUZILHADA
+
+         C                      F
+SE EU PUDESSE ESCUTAR A VOZ DO VELHO
+         C                       G/B Am G° G/F
+SE EU PUDESSE PERGUNTAR O QUE FAZER
+       C         Dm    C/E    F  F#°
+MAS O VELHO SE CALOU E FOI EMBORA
+      C/G           G7            C
+E NAO PODE MAIS VOLTAR PRA RESPONDER
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+C/E = 0 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F#° = 2 X 1 2 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/F = 1 X X 0 0 3
+G4/7 = 3 5 3 5 3 X
+G7 = 3 5 3 4 3 3
+G° = 3 X 2 3 2 X

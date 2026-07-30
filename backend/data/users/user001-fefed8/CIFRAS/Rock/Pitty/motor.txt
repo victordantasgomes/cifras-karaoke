@@ -1,0 +1,81 @@
+@titulo: motor
+@autor:
+@intérprete: Pitty
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Pitty - Motor
+
+[Intro] B  B/A  B/G#  G7
+
+B                        B/A
+Não reconheço mais o meu coração
+B/G#                              G7
+Mas não que ele se recusasse a bater
+B                                    B/A
+Nem faço questão de lembrar dos seus desacatos
+B/G#                                G7
+Nem de outras mulheres que vi com você
+B                         B7
+Você me sugou e me deixou cansada
+E/G#                                 F#
+E se esconde em palavras de me querer bem
+
+     B        B/A          B/G#     G7
+E assim como o tempo um motor ao relento
+B               F#4                  B
+Sinto saudades já não me recordo porque
+
+B                    B/A
+Só entendi como tudo acabou
+
+B/G#                               G7
+Quando não vi pedaços de mim em você
+B                              B/A
+Hoje eu passo com risos a sua afobação
+B/G#                                G7
+Como quem já tivesse sempre o que prever
+
+B                                 B7
+Você me provou que ainda não mudou nada
+E/G#                                     G7
+E quando se olha no espelho é você quem me vê
+B                             B7
+Vem abrir as feridas me deixar calada
+E/G#                                     F#
+Venha ver dos meus olhos que hoje estou bem
+
+     B        B/A          B/G#     G7
+E assim como o tempo um motor ao relento
+B               B/C#                  B
+Sinto saudades já não me recordo porque
+     B        B/A          B/G#     G7
+E assim como o tempo o motor ao relento
+     B                      F#4                  B
+Você disfarça a tristeza e sorrisos pra fingir viver
+
+B        B/A          B/G#     G7
+Nananana nanana nanana nananananananana
+B        B/A          B/G#     G7
+Nananana nanana nanana nananananananana
+
+B        B/A          B/G#     G7
+E assim como o tempo um motor ao relento
+B               B/C#                  B
+Sinto saudades já não me recordo porque
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+B/C# = X 6 X 4 7 7
+B/G# = 4 X 4 4 4 X
+B7 = X 2 1 2 0 2
+E/G# = 4 X 2 4 5 X
+F# = 2 4 4 3 2 2
+F#4 = 2 4 4 4 2 2
+G7 = 3 5 3 4 3 3

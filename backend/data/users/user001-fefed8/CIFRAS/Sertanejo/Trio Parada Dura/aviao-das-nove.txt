@@ -1,0 +1,37 @@
+@titulo: aviao-das-nove
+@autor:
+@intérprete: Trio Parada Dura
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trio Parada Dura - Avião Das Nove
+
+ B                             F#                                   B
+Já comprei passagem para ir embora, só me resta agora apertar-te a mão
+                                   F#                                    B
+Se já me trocaste por um outro alguém, já não me convém ficar aqui mais não
+                           F#                                  B
+Levo comigo deste amor desfeito, solidão, despeito e cruel desgosto
+              C#               F#7                                     B
+No avião das nove partirei chorando, por deixar quem amo nos braços de outro
+         F#                                     E
+  Ao chorar lhe darei meu adeus porém juro por Deus que não quero piedade
+         F#7                    B                  F#7                B
+  Se o pranto de quem mais te quis te faz muito feliz faça tudo a vontade
+        F#7           B                B7                     E
+  E ao ver o avião subir, no espaço sumir, não vai chorar também
+   E      F#7           B                 F#7               B
+  Deixe que eu choro sozinho a dor dos espinhos que a vida tem
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C# = X 4 6 6 6 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2

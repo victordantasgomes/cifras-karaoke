@@ -1,0 +1,58 @@
+@titulo: enamorado-e-sonhador
+@autor:
+@intérprete: Chitãozinho & Xororó
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Chitãozinho & Xororó - Enamorado e Sonhador
+
+A                                  E
+    DO JEITO QUE VOCÊ ME TOCA, NINGUEM TOCOU
+    Em               A7        D
+DO JEITO QUE VOCÊ ME OLHA, NINGUEM ME OLHOU
+    Dm7                        A9   G#m  F#m
+DO JEITO QUE VOCÊ ME BEIJA, NINGUEM BEI JOU
+    B                B7      E           E7
+DO JEITO QUE VOCÊ ME AMA, NINGUEM ME AMOU
+
+   A                              E
+PROVEI NO GOSTO DESSE AMOR TANTA SEDUÇÃO
+     Em                   A7          D
+QUE AGORA JÁ NÃO SOU MAIS DONO DO MEU CORAÇÃO
+      Dm                     A9  G#m  F#m
+A HISTÓRIA JÁ ME LEVA A CRER QUE SOU SEU
+   D             B7            E7
+APAIXONADO POR VOCÊ, ASSIM SOU EU.
+
+      A             A5+       F#m        A9
+APAIXONADO ASSIM EU SOU, ENAMORADO, SONHADOR
+   D                  A          E7
+DE CARA E CORAÇÃO, EU SEI, AMO VOCÊ
+
+       A9           A5+       F#m        A7
+APAIXONADO ASSIM EU SOU, ENAMORADO, SONHADOR
+D                A                E  E7
+ONDE VAI O SEU OLHAR, VAI NOSSO AMOR
+            A
+VAI NOSSO AMOR.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5+ = X 0 3 2 2 0
+A7 = X 0 2 0 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

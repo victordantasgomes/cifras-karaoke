@@ -1,0 +1,134 @@
+@titulo: boemia
+@autor:
+@intérprete: Teodoro e Sampaio
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Teodoro e Sampaio - Boemia
+
+Intro:
+     Gm         Cm                                                F7                   Bb       G7 C D
+E|--------------------------------------------------------------------------------------------------
+A|--------------------------------------------------------------------------------------------------
+D|-----------------------------------------------------5---3------3--5------------------------------
+G|----------------5-4-5-------------------------5--3-----------------3-4-5--------------------------
+B|--------------------3-4-6-----------6-4-3--------------------------------3-4-5-6-----3-4-4p3-----
+E|-3--5-6-5p3---------------3-4-4p3----------------------------------------------------------------
+
+G
+Toda noite saiu eu pelas noitadas
+                            Em              Am
+Milhares de madrugadas para andar de bar em bar
+         D7                      Am
+sem encontrar a mulher que é meu premio
+                      D                       G     C   D
+essa é a vida de um boemio que nasceu para chorar
+           G
+Por coincidencia todos bares que frequento
+           G7         C
+99% sempre tocam a canção
+
+          Cm                 G
+e eu me envolvo naquela melodia
+      Em        Am         D            G     ( Am  D5/F#  Gm )
+e ao ouvir a boemia me entrego ao garrafao
+E|-----7---10-8-8p7------------7/8-----------
+B|-8-10---------------10--8-7--------11-10-8-
+G|-------------------------------------------
+D|-------------------------------------------
+A|-------------------------------------------
+E|-------------------------------------------
+
+ Gm                         Cm
+Boemia, aqui me tens de regresso
+                 D7                     Gm   G7
+E suplicante te peço a minha nova inscrição
+        Cm7                 Gm
+E eles dizem: Ele voltou e alguem vem me consolar
+            D#              D
+E a minha conta alguem ja pagou e me convidam pra ir pra outro
+ G      C D
+bar
+
+              G     G5/F# G/E               G     G5/F#   G/E
+   E quando chego no outro bar, a mesma canção   a     tocar
+G              D/F#      D7
+   vai   ate  raiar  o   dia
+       Am                 D7/9            Am7          D7
+E a canção assim me diz que eu troquei quem mais me quis
+               G
+pra viver na boemia
+
+              G     G5/F# G/E        G          G5/F#   G/E
+   E quando chego no outro bar, a mesma canção   a     tocar
+G             D/F#        D7
+   vai   ate  raiar  o   dia
+     Am              D7            D7/9              Am7
+E a canção assim me diz que eu troquei quem mais me quis
+                G
+pra viver na boemia
+E|----3--5/6-6/5--3-5/6-6/5--3---------
+B|--3----------------------------4-4p3-
+G|-------------------------------------
+D|-------------------------------------
+A|-------------------------------------
+E|-------------------------------------
+
+     Gm              Cm                                         F7                       Bb              G7
+E|-----3----5-6-5p3------------------3-4-4p3----------------------------------------------------------------
+B|----------------------------3-4-6----------6-4-3--------------------------3--4-5-6---------34-4p3---------
+G|-----------------------3-2-3--------------------5--3-----------------3-4-5--------------------------------
+D|----------------------------------------------------5---3--------3--5-------------------------------------
+A|----------------------------------------------------------------------------------------------------------
+E|----------------------------------------------------------------------------------------------------------
+
+        Cm7                    Gm
+E eles dizem: Ele voltou e alguem vem me consolar
+            D#                          D
+E a minha conta alguem ja pagou e me convidam pra ir pra outro
+ G    C D
+bar
+
+               G    G5/F# G/E             G      G5/F#   G/E
+   E quando chego no outro bar, a mesma canção   a     tocar
+G               D/F#      D7
+   vai   ate  raiar  o   dia
+      Am            D7            D7/9               Am7
+E a canção assim me diz que eu troquei quem mais me quis
+                 G
+pra viver na boemia
+
+             G      G5/F# G/E            G          G5/F# G/E
+   E quando chego no outro bar, a mesma canção   a     tocar
+G              D/F#      D7
+   vai   ate  raiar  o   dia
+            Am       D7            D7/9              Am7
+E a canção assim me diz que eu troquei quem mais me quis
+      D7        G       D#    D   G
+pra viver na boemia
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+Cm7 = X 3 5 3 4 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D/F# = 2 X 0 2 3 2
+D5/F# = 2 X 0 2 3 X
+D7 = X X 0 2 1 2
+D7/9 = X 5 4 5 5 X
+Em = 0 2 2 0 0 0
+F7 = 1 3 1 2 1 1
+G = 3 2 0 0 0 3
+G/E = 0 2 0 0 3 3
+G5/F# = 2 5 5 X X X
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

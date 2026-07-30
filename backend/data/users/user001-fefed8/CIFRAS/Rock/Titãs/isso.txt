@@ -1,0 +1,171 @@
+@titulo: isso
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Titãs - Isso
+
+Capo Casa 4
+
+Primeira Parte:
+
+1
+   C          C/Bb       Am7       C/Ab
+E|------------------------------------------|
+B|-----1----------1----------1---------1----|
+G|-----0----------0----------0---------0----|
+D|---2----------2----------2---------2------|
+A|-3-----3----1-----1----0-----0------------|
+E|---------------------------------4-----4--|
+
+2
+   C          C/Bb       Am7       G
+E|------------------------------------------|
+B|-----1----------1----------1--------------|
+G|-----0----------0----------0---------0----|
+D|---2----------2----------2---------0------|
+A|-3-----3----1-----1----0-----0------------|
+E|---------------------------------3-----3--|
+
+3
+
+   C          C/Bb       Am7   G
+E|-------------------------------3-3-3-3-3-3|
+B|-----1---------1---------1-----3-3-3-3-3-3|
+G|-----0---------0---------0-----0-0-0-0-0-0|
+D|---2---------2---------2-----0-0-0-0-0-0-0|
+A|-3-----3---1-----1---0-----0-2-2-2-2-2-2-2|
+E|-----------------------------3-3-3-3-3-3-3|
+
+
+C     C/Bb
+Isso
+         Am7        C/Ab
+Que acontece com a gente
+C         C/Bb
+Acontece sempre
+          Am7   G
+Com qualquer casal
+C     C/Bb
+Isso
+  Am7       C/Ab
+Ataca de repente
+ C            C/Bb
+Não respeita cor
+           Am7      G
+Credo ou classe social
+C     C/Bb  Am7  C/Ab
+Isso,       isso
+
+C  C/Bb  Am7  G
+
+
+Refrão:
+
+ C        E7
+Parecia que não ia
+   F             G
+Acontecer com a gente
+ C           E7
+Nosso amor era tão firme
+ F           G
+Forte e diferente
+ C   Em   F
+Não vá dizer
+  Dm                 G
+Que eu não avisei você
+Dm                G
+Olha o que vai fazer
+     Em   G
+Não vá dizer
+ C   Em   F
+Não vá dizer
+  Dm                 G
+Que eu não avisei você
+Dm                G
+Olha o que vai fazer
+     Em   G
+Não vá dizer
+
+
+Segunda Parte:
+
+Dm  F  G  (2x)
+
+ Dm          F          G
+Não adianta mesmo reclamar
+   Dm          F
+Acreditar que basta
+        G
+Apenas se deixar levar
+
+
+Repete a Primeira Parte:
+
+C     C/Bb
+Isso
+         Am7           C/Ab
+Que atrapalha nossos planos
+ C          C/Bb
+Derrubou o muro
+     Am7           G
+Invadiu nosso quintal
+C     C/Bb
+Isso
+ Am7         C/Ab
+Passam-se os anos
+ C            C/Bb
+Sempre foi assim
+        Am7      G
+E será sempre igual
+C    C/Bb  Am7  G
+Isso       isso
+
+
+Repete o Refrão:
+
+ C        E7
+Parecia que não ia
+   F             G
+Acontecer com a gente
+ C           E7
+Nosso amor era tão firme
+ F           G
+Forte e diferente
+ C   Em   F
+Não vá dizer
+  Dm                 G
+Que eu não avisei você
+Dm                G
+Olha o que vai fazer
+     Em   G
+Não vá dizer
+ C   Em   F
+Não vá dizer
+  Dm                 G
+Que eu não avisei você
+Dm                G
+Olha o que vai fazer
+     Em   G
+Não vá dizer
+
+C    C/Bb  Am7  C/Ab  C
+Isso       isso
+
+----------------- Acordes -----------------
+Capotraste na 4ª casa
+Am7*  = X 0 2 0 1 0 - (*C#m7 na forma de Am7)
+C*  = X 3 2 0 1 0 - (*E na forma de C)
+C/Ab*  = 4 X 2 0 1 0 - (*E/C na forma de C/Ab)
+C/Bb*  = X 1 2 0 1 X - (*E/D na forma de C/Bb)
+Dm*  = X X 0 2 3 1 - (*F#m na forma de Dm)
+E7*  = 0 2 0 1 0 0 - (*G#7 na forma de E7)
+Em*  = 0 2 2 0 0 0 - (*G#m na forma de Em)
+F*  = 1 3 3 2 1 1 - (*A na forma de F)
+G*  = 3 2 0 0 3 3 - (*B na forma de G)

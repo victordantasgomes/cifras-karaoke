@@ -1,0 +1,79 @@
+@titulo: nosso-lar
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Nosso Lar
+
+Intro:     A     F#m     D     E4     A     F#m     F7M     E4
+
+  A        E/G#         E/G              F#4  F#       Bm         G               D
+    Você é meu e eu sou sua juntos pertencemos a um só Deus o alicerce da nossa casa
+      G      D/F#    A          E/G#         E/G     F#4      F#    Bm
+Fortaleza do nosso amor. Nossa família é moradia da sabedoria do Senhor
+        Bm7+                     D                   D/F#        E/G#       A4     A
+Um dia vamos colher o que nossa lágrima plantou no momento mais difícil da dor
+    A                F#m           D         A/C#         Bm     E4
+Nossos celeiros transbordarão das bênçãos de Deus que nos alcançarão
+E    A           F#m            D     A/C#     Bm      D   A/C#        Bm
+O   nosso lar, bendito será e a nossa descendência também será uma bênção
+       E4           A      F#m     F     E4
+Que herdada foi de nós
+  A         E/G#         E/G     F#4      F#    Bm          Bm7+
+     Nossa família é moradia da sabedoria do Senhor. Um dia vamos colher
+             D                   D/F#        E/G#       A4      A
+o que nossa lágrima plantou no momento mais difícil da dor
+    A                F#m           D         A/C#         Bm     E4
+Nossos celeiros transbordarão das bênçãos de Deus que nos alcançarão
+E    A           F#m            D     A/C#     Bm      D   A/C#        Bm
+O   nosso lar, bendito será e a nossa descendência também será uma bênção
+
+       E4           A      A4  A7
+Que herdada foi de nós
+  F                     C                         Em                     Am     G
+    Nossa família, o maior dos patrimônios pra mantê-la salva temos que orar
+  F                     C                      F                      E4     E
+    Nossa família sobreviverá aos danos que a vida nos insiste em causar
+    A                F#m           D         A/C#         Bm     E4
+Nossos celeiros transbordarão das bênçãos de Deus que nos alcançarão
+E    A           F#m            D     A/C#     Bm      D   A/C#        Bm
+O   nosso lar, bendito será e a nossa descendência também será uma bênção
+       E4           A
+Que herdada foi de nós
+    A                F#m           D         A/C#         Bm     E4
+Nossos celeiros transbordarão das bênçãos de Deus que nos alcançarão
+E    A           F#m            D     A/C#     Bm      D   A/C#        Bm
+O   nosso lar, bendito será e a nossa descendência também será uma bênção
+       E4           A     F#m     F7M     E4     A
+Que herdada foi de nós
+
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+Bm7+ = X 2 4 3 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G = 3 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F#4 = 2 4 4 4 2 2
+F#m = 2 4 4 2 2 2
+F7M = 1 X 2 2 1 X
+G = 3 2 0 0 0 3

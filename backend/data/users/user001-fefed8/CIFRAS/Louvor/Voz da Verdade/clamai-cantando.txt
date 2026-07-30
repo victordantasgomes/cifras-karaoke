@@ -1,0 +1,69 @@
+@titulo: clamai-cantando
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Clamai Cantando
+
+Intro: C, F, C, F, C, F, C
+
+C                 F/C         C  F/C
+Clamai cantando, desperta do pó
+             C               F/C    C
+Solta as ataduras do teu pescoço e cante
+           G                           Am        F
+Pois o Senhor consolou o seu povo e remiu Jesusalém
+    C                   G7         C  G7
+Trocando o seu mal por todo o seu bem
+
+           C       F       C  F  C
+Clamai cantando Ó povo de Deus
+                              F       G
+Pois a vitória é nossa e ninguém nos tirará
+              Bb
+Mesmo que ás vezes pareçam derrotas mas são
+   G
+momentos pra crescer
+           Bb                                G
+Pra ser gigante tens que lutar, cantar e vencer
+
+      C        F         C  F  C
+Venceremos em nome de Jesus
+                  F            G
+Esta bandeira, o símbolo é a cruz
+          Bb                           G
+Mesmo morrendo ao terceiro dia ressucitou
+            Bb                            G
+E vivo nos diz: Todos os dias convosco estou
+
+Solo: as mesmas notas da introdução, mas a ultima nota é A aí aumenta pra D
+
+           D       G       D  G  D
+Clamai cantando Ó povo de Deus, pois a vitória é
+             G       A
+nossa e ninguém nos tirará
+          C                            A
+Mesmo morrendo ao terceiro dia ressucitou
+            C                             A
+E vivo nos diz: todos os dias convosco estou
+           D        G       D  G  D
+Clamai cantando, Ó povo de Deus } 3 Vezes
+
+Final: G, D
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+F = 1 3 3 2 1 1
+F/C = X 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

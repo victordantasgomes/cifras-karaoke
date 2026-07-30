@@ -1,0 +1,55 @@
+@titulo: bobo
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - Bobo
+
+
+   E           C#m            F#m7           B7          E
+  bobo    você diz que eu sou bobo    não consegue entender
+          C#m7           F#m7            B7          E  E7
+  que no fundo eu sou um louco    muito louco por você
+   A           B                         G#m7
+  louco    eu solto seus cabelos tiro a roupa
+      C#m                   F#m7
+  mergulho outra vez em sua boca
+       B7                        E  E7
+  pra' te fazer sentir o meu prazer
+   A          B                      G#m7
+  louco    assim é que eu fico a seu lado
+    C#m                  F#m7
+  maluco um eterno apaixonado
+       B7                         E
+  sou louco mais sei como te prender
+     B7
+  bobeira de amor é uma chama
+      A7
+  que entra pelos poros de quem ama
+
+     E                                 B7
+  depois dos poros vai parar    no coraçã...a-ão
+
+  bobeira de amor é um sentimento
+       A7
+  que faz a gente delirar por dentro
+        E                   B7            E
+  quem é que nunca foi um bobo    de paixão
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m7 = 2 X 2 2 2 X
+G#m7 = 4 X 4 4 4 X

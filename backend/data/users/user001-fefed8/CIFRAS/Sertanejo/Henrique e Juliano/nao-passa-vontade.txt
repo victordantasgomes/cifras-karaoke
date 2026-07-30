@@ -1,0 +1,56 @@
+@titulo: nao-passa-vontade
+@autor:
+@intérprete: Henrique e Juliano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Henrique e Juliano - Não Passa Vontade
+
+Intro:  E A9 E A9
+
+E                                                     A9
+Tô com tanta saudade que sinto seu cheiro pelo telefone
+E
+Pelo seu tom de voz
+                          A9
+Já sei que essa noite, aiaiai, o coro come
+C#m                                                    G#m
+      Deixa que eu vou cuidando aqui das preliminares
+C#m                                          G#m
+        E em cada canto vai ter um detalhe
+      F#m                              B9
+É hoje que a saudade não passa vontade
+E                                                               F#m
+     Se ontem já foi bom hoje eu sei que cê volta
+                     A9                                     E
+Te espero na porta, cê tá com a faca e o queijo na mão
+Só me diga se vem ou se não
+                      F#m                      A9
+Eu sei que cê volta, te espero na porta
+
+                                  E
+Porque eu sei que cê volta, volta
+E                                                               F#m
+      Se ontem já foi bom, hoje eu sei que cê volta
+                     A9                                     E
+Te espero na porta, cê tá com a faca e o queijo na mão
+Só me diga se vem ou se não
+                                           F#m                      A9
+Eu sei que cê volta, te espero na porta
+                              E
+Porque eu sei que cê volta, volta
+
+( F#m A9 E )
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

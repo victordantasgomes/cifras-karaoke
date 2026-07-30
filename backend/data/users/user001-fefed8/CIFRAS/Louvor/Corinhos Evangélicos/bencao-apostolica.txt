@@ -1,0 +1,37 @@
+@titulo: bencao-apostolica
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Benção Apostólica
+
+D9          F#m Bm           Bm/A
+que a graça do Senhor Jesus Cristo
+Em7   A7     D    A4  A
+E o amor de Deus.
+D9      F#m    Bm      Bm/A
+A comunhão do Espírito Santo
+Em        A7    D9  D7
+Seja com todos nós.
+G A G   D
+A a a  mem.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

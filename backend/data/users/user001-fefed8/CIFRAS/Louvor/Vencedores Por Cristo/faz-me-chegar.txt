@@ -1,0 +1,59 @@
+@titulo: faz-me-chegar
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Faz-me Chegar
+
+Intro: G  Am  G/B  Dm  G  C  G  C
+
+C                                  G
+Faz-me chegar aos Teus rios Senhor
+F                                   C
+Faz-me chegar aos Teus rios Senhor
+C7                                 F  Fm
+Faz-me chegar aos Teus rios Senhor
+C              Am           G
+Faz-me chegar, faz-me beber
+F            C
+Faz-me viver
+
+C                                 G
+Faz-me beber dos Teus rios Senhor
+F                                 C
+Faz-me beber dos Teus rios Senhor
+C7                                F  Fm
+Faz-me beber dos Teus rios Senhor
+C               Am          G
+Faz-me chegar, faz-me beber
+F            C
+Faz-me viver
+
+C                               G
+Faz-me viver nos Teus rios Senhor
+F                               C
+Faz-me viver nos Teus rios Senhor
+C7                             F  Fm
+Faz-me viver nos Teus rios Senhor
+C               Am          G
+Faz-me chegar, faz-me beber
+F            C
+Faz-me viver
+
+Final: G  Am  G/B  F  G  C
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

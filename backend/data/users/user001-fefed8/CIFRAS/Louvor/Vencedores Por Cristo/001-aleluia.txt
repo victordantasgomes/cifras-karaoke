@@ -1,0 +1,57 @@
+@titulo: 001-aleluia
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - 001 - Aleluia
+
+Intro: D D7M D7 F#  F#7  B7+
+
+D  D7M         D7         F#
+Tão calmo como a chuva de verão, 
+     B         C#m   A  F#
+Tu me tocas e me enches de gozo. 
+D   D7M        D7            F#
+Tão suave como a brisa que aqui passa 
+         B         C#m  A    F#
+Deixas de graça e o amor de um esposo. 
+
+   B           C°        C#m         F#
+Aleluia! eu te louvo e te canto porque dizes, 
+D      D7M       D7         F#        B     B7+
+Que tão linda como esta benção me será a de amanhã. 
+
+D        D7M          D7              F#              B      B7+
+Tchu     ru  ru ru ru ru ru ...                              
+
+D  D7M        D7             F#
+Tão doce como o som que vem do mar, 
+    B            C#m   A   F#
+Tu me falas pra mostrar o caminho. 
+D  D7M            D7           F#
+Tão manso que eu me calo pra escutar 
+    B       C#m   A  F#  F#7
+Tua voz de perdão e carinho. 
+
+   B           C°        C#m         F#
+Aleluia! eu te louvo e te canto porque dizes, 
+   D   D7M       D7         F#        B     B7+
+Que tão linda como esta benção me será a de amanhã.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7+ = X 2 4 3 4 2
+C#m = X 4 6 6 5 4
+C° = X 3 4 2 4 2
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+D7M = X X 0 2 2 2
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2

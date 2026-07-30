@@ -1,0 +1,75 @@
+@titulo: vem-espirito
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Vem Espirito
+
+Intro: G  A  G/B  A9/C#  D9  G  A  D4   D9  D (2x)
+
+               G            A
+Espírito de Deus, eis-me aqui
+             G/B   A9/C#  D
+Toca-me  com brasas do altar
+               G      A              D4  D9  D
+Me enche com a Tua unção, faz transbordar
+
+                 G      A
+Estendo a Ti as minhas mãos
+                G/B  A9/C#   D
+Do Teu óleo eu que|---ro    mais
+                 G      A        D4  D9  D
+No rio do Teu poder eu quero navegar
+
+D9   Em7    A9/C#      D9
+Vem, vem, Espírito    Santo, vem
+D9    Em7   A9/C#      D9         (2x)
+Vem, vem, unção derramar
+
+
+(do começo e Depois)
+
+D9   Em7    A9/C#      D9
+Vem, vem, Espírito    Santo, vem
+D9    Em7   A9/C#      D9         (2x)
+Vem, vem, unção derramar
+
+D/F#   G   E/G#  A
+Vem,  vem, vem, vem
+D/F#   G     B4 B4 B4 B
+Vem, vem, unção derramar
+
+E9   F#m7   B9/D#      E9
+Vem, vem, Espírito    Santo, vem
+E9    F#m7  B9/D#     E9         (2x)
+Vem, vem, unção derramar
+
+E/G#   A  F#/A#  B
+Vem,  vem, vem, vem              (3x)
+E/G#   A     B4 B4 B4 E
+Vem, vem, unção derramar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9/C# = X 4 2 2 0 X
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+B9/D# = X 6 4 4 2 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E9 = 0 2 4 1 0 0
+Em7 = 0 2 2 0 3 0
+F#/A# = 6 X 4 6 7 X
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

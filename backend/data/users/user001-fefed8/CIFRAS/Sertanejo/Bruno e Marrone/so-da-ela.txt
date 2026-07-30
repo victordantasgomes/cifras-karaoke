@@ -1,0 +1,47 @@
+@titulo: so-da-ela
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Só Dá Ela
+
+[Intro] Bb  F  C  F  C
+
+   F             C                   Dm
+Eu tenho algo no peito que não me pertence
+Bb                   Gm             C
+Mas não consigo arrancar do meu coração
+F                A7
+Ela que vive com outro
+                 Dm
+Não sai da minha mente
+   Bb              C7                 F      C7
+Em toda porta de saída encontro a solidão
+               F
+Nas madrugadas tristes
+            C           Dm         Bb   Gm
+No meu pensamento só dá ela, só dá ela
+           C
+No meu coração
+            F                C            Dm
+E quando amanhece na minha cabeça ainda é ela
+        Bb           C              F   Dm
+Ainda é ela, ainda é ela no meu coração
+
+        Bb           C              F   Dm
+Ainda é ela, ainda é ela no meu coração
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

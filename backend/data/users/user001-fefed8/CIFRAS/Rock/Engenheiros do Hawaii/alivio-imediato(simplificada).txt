@@ -1,0 +1,97 @@
+@titulo: alivio-imediato(simplificada)
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Alívio Imediato
+
+Intro:  A D (2x)
+
+    A                               D
+o melhor esconderijo, a maior escuridão
+       A                                 D
+já não servem de abrigo, já não dão proteção
+    Bm                          D
+holofotes iluminam a libido e o vírus
+    Bm                            G
+o poder, o pudor, os lábios e o batom
+
+      A                             D
+há um muro de concreto entre nossos lábios
+      A                        D
+há um muro de Berlim dentro de mim
+Bm                         D
+tudo se divide, todos se separam
+      Bm                       G
+a diferença é o que temos em comum
+
+      A
+que a chuva caia como uma luva
+
+     C#
+um dilúvio, um delírio
+      D                     F#m           E
+que a chuva traga alívio imediato
+      A
+que a noite caia, de repente
+           C#
+caia tão demente quanto um raio
+      D                     F#m  E  D  E
+que a noite traga alívio imediato
+
+       A                             D
+não há nada de concreto entre nossos lábios
+      A                          D
+só um muro de batom e frases sem fim
+    Bm
+holofotes nos meus olhos
+                     D
+cegam mais do que iluminam
+Bm                             G
+nem caiu a ficha e já caiu a ligação
+
+      A
+que a chuva caia como uma luva
+     C#
+um dilúvio, um delírio
+      D                     F#m        E
+que a chuva traga alívio imediato
+      A
+que a noite caia, de repente
+           C#
+caia tão demente quanto um raio
+      D                     F#m  E  D  E
+que a noite traga alívio imediato
+
+Solo: F#m  E  D  E (2x)
+
+      A
+que a chuva caia como uma luva
+     C#
+um dilúvio, um delírio
+      D                     F#m        E
+que a chuva traga alívio imediato
+      A
+que a noite caia, de repente
+           C#
+caia tão demente quanto um raio
+      D                     F#m          E
+que a noite traga alívio imediato
+
+Solo final: A D (4x)
+            A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

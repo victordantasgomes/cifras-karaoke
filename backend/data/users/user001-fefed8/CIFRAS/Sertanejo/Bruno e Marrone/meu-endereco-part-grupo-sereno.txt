@@ -1,0 +1,101 @@
+@titulo: meu-endereco-part-grupo-sereno
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Meu Endereço (part. Grupo Sereno)
+
+[Intro] E  E7  A  F#m  Bm  E  A  A7  D  E  A  F#m  Bm  E  A  E
+
+A
+Eu vou lhe dar o endereço onde moro
+                    F#m        Bm
+Será meu gosto se você me visitar
+       Bm/A                    E
+Pelo caminho onde a juriti passeia
+                      D
+Mais o menos légua e meia
+    E          A   E
+É ali o meu lugar
+         A
+O sol penetra entre as folhas da candeia
+                  A7                     D
+Vai formando na areia mil desenhos pelo chão
+          Dm             E      A
+E logo adiante quando ralear o mato
+      F#m      Bm           E          A
+Pode tirar o sapato pra passar o ribeirão
+        E             D        A
+Meu endereço não tem rua asfaltada
+
+A                   E
+Não tem farol de parada
+         E7           A  A7
+Nen tão pouco contra mão
+          D        E          A
+É a lua branca o farol da avenida
+     F#m              Bm
+Clareando a estrada batida
+      E            A
+Que existe no meu sertão
+
+( E  E7  A  F#m  Bm  E  A  A7  D  E  A  F#m  Bm  E  A  E )
+
+A
+A grama verde é o tapete da chegada
+                 F#m         Bm
+O gado manso ruminando no curral
+         Bm/A                E
+O vento agita a copada da palmeira
+                 D         E                A  E
+Como se fosse bandeira hasteada em meu quintal
+          A
+Não bata forte quando passar a porteira
+                   A7                     D
+Que a pancada da madeira machuca meu coração
+           Dm              E            A
+Lembra a batida que alguem deu na despedida
+   F#m           Bm     E        A
+Fazendo da minha vida morada da solidão
+        E        D            A
+Meu endereço não tem rua asfaltada
+                    E
+Não tem farol de parada
+         D           A   A7
+Nem tão pouco contra mão
+         D        E          A
+É a lua branca o farol da avenida
+     F#m              Bm
+Clareando a estrada batida
+      E               A
+Que existe no meu sertão
+
+        E        D            A
+Meu endereço não tem rua asfaltada
+                    E
+Não tem farol de parada
+         D           A   A7
+Nem tão pouco contra mão
+         D        E          A
+É a lua branca o farol da avenida
+     F#m              Bm
+Clareando a estrada batida
+      E               A
+Que existe no meu sertão
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

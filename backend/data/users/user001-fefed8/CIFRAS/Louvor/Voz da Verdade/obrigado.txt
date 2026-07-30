@@ -1,0 +1,53 @@
+@titulo: obrigado
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Obrigado
+
+Intro 2x: D E A
+
+D      E                      A
+Obrigado meu Jesus
+D         E                 A
+Pelo dia que passou
+D              E                    F#m
+Te agradeço meu Senhor
+Bm     A/C#               Esus  E
+Pelo teu imenso amor
+D             E                  A
+Te agradeço pela paz
+D                E                        A
+Pelas bênçãos que me traz
+D          E                  F#m
+Tua cruz me abraçou
+Bm         A/C#              Esus  E
+Minha vida transformou
+          D    E        A             D  Bm       Esus
+Aleluia, aleluia, aleluia, aleluia
+D          E                  A   D E                         A
+Pois agora aprendi o grande amor viver
+
+D  E                             F#m  Bm  A/C#              Esus
+E hoje eu tenho a paz pra tudo agradecer
+D      E                  A       D        E                        A
+Por isso eu te louvo sem nunca me cansar
+D           E                    F#m  Bm     A/C#         Esus  E
+Como águia me renovo pois alto vou voar
+           D   E        A             D  Bm       E
+Aleluia, aleluia, aleluia, aleluia
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Esus = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

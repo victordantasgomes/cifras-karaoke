@@ -1,0 +1,327 @@
+@titulo: fome-do-cao
+@autor:
+@intérprete: Raimundos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raimundos - Fome do Cão
+
+Versão 1:
+
+Afinação Normal: E A D G B e
+
+Riff 1:                          Riff 2:
+   C#   D/C# A G#   A G#           C#   D/C# E D#   E D#
+|--------------------------|     |-------------------------|
+|--------------------------|     |-------------------------|
+|--------------------------|     |-------------------------|
+|-------7/6----------------|     |------7/6----------------|
+|--4-4--5/4--7-6-6--7-6-6--|     |-4-4--5/4--7-6-6--7-6-6--|
+|--4-4-------5-4-4--5-4-4--|     |-4-4-------7-6-6--7-6-6--|
+
+Riff 3:                        Riff 4:
+  C#    E/F# E/F# E/F#           C#   D/C#     D/C# B\G
+|----------------------|       |-------------------------|
+|----------------------|       |-------------------------|
+|----------------------|       |-------------------------|
+|-------2/4--2/4--2/4--|       |-------------------------|
+|-4-4---2/4--2/4--2/4--|       |-4-4--5p4-x4x4-5p4-------|
+|-4-4------------------|       |-4-4----------------7\3--|
+
+
+Riff 5 (Base durante o solo):
+  C#   D/C#     D/C# F#  E F#
+|-----------------------------|
+|-----------------------------|
+|-----------------------------|
+|------7/6-x6x6-7/6--4~--2-4--|
+|-4-4--5/4-x4x4-5/4--4~--2-4--|
+|-4-4----------------2~--0-2--|
+
+Solo 1:
+|--------------------------------|
+|-12-12-12-12---12-11---9-11-12--|
+|--------------------------------|
+|--------------------------------|
+|--------------------------------|
+|--------------------------------|
+
+Solo 2:
+|-----------------------------12--------17^-17^-17^--14--------------------|
+|-12^12r-12---10-9-7--8-10-12^--12r-10------------------17-15--13--12------|
+|----------------------------------------------------------------------14--|
+|--------------------------------------------------------------------------|
+|--------------------------------------------------------------------------|
+|--------------------------------------------------------------------------|
+
+
+
+End solo (toque abafado):
+|------------------------------------|
+|-15-15-15-15-15-15-15-15----15--15--|
+|------------------------------------|
+|------------------------------------|
+|------------------------------------|
+|------------------------------------|
+
+Termine a música com C#
+A|--4--|
+E|--4--|
+
+Sequência:
+Riff 1 3x
+Riff 2
+Riff 1
+Riff 2
+Riff 3 6x
+Riff 4 8x
+Riff 1 3x
+Riff 2
+Solo 1 4x
+Riff 3 8x
+Riff 4 4x
+Riff 5 4x ou Solo 2
+End solo
+Riff 1 3x
+Riff 2
+Riff 1 3x
+Riff 2
+
+================================================================
+
+Versão 2:
+
+Afinação: C#
+
+Introdução: Baixo: C#)-0--0---6-5---0-3-5---0-3-5---|
+
+          Riff1         3x                                        Riff2
+C#)---------------------------------------|      C#)------------------------------------|
+G#)-------------------6-/-5---6-/-5-------|      G#)------------------------------------|
+E)-----------5-/-4----5-/-4---5-/-4-------|      E)-------------------------------------|
+B)-----------5-/-4----3-/-2---3-/-2-------|      B)----------8-/-7------5-/-7-----5-/-7-|
+F#)-2---2----3-/-2------------------------|      F#)---------8-/-7------5-/-7-----5-/-7-|
+C#)-0---0---------------------------------|      C#)-0--0----6-/-5----0-3-/-5---0-3-/-5-|
+p.m---------------------------------------   
+
+                   1x
+C#)---------------------------------------| 
+G#)---------------------------------------|
+E)-----------5-/-4------------------------|      
+B)-----------5-/-4----5-/-4----5-/-4------|
+F#)-2---2----3-/-2----5-/-4----5-/-4------|
+C#)-0---0-------------3-/-2----3-/-2------|
+
+
+
+                Riff3                                           Riff4
+C#)---------------------------------------|     C#)----------------------------------------------------------------|
+G#)---------------------------------------|     G#)----------------------------------------------------------------|
+E)----------------------------------------|     E)-----------------------------------------------------------------|
+B)----------------------------------------|     B)------ 10-/-9---9------------------------------------------------|
+F#)---------7-8-7-----7--7---5-7-5--------|     F#)-7-----8-/-7---7--7------5-7-5------7----5-/-7---7------7-7-5-5-|
+C#)-0---0----------------------------7----|     C#)-0-------------------0----------7---5----3-/-5---5------5-5-3-3-|
+
+
+
+Toque o baixo introdução nesse primeiro verso:
+
+A FILA É CIRCULAR E SÓ ACABA QUANDO O PRIMEIRO CHEGAR
+COMEDOR DE JACA, MÃO-DE-COLA
+PRA ELA ME DAR O ENDEREÇO É SÓ VER DE ONDE O VENTO VEM SE FIZER DE REFÉM NUNCA MAIS TÔ DE BEM
+
+
+Toque Riff2:
+
+BOMBOM, CAMARÃO, MULHER BOA É VIOLÃO,
+BICHO BOM LÁ DO SERTÃO QUE CAIU NA MINHA MÃO
+QUEM SABE ELE AINDA DÊ A VOLTA CERTA
+ANTES QUE DÊ MERDA E EU ENGULA DE CAMBOTA
+MAS EU TÔ SOSSEGADO, BARRUNFEIRO VÉIO DO ROCK,
+PRA GATA PAGA UM BOCK ATÉ TOREI OS DREDLOCK
+PRESENTINHO DA
+
+
+Toque Riff3:
+
+MOÇA , ELA TIRA DA CALCINHA E A GENTE SORRI
+HOJE EM DIA A COISA PURA É NOVIDADE
+E EU ACEITO DE CORAÇÃO O CAMARÃO COM CATUPIRY
+E NÃO QUERO NEM SABER DA SUA IDADE
+
+PODE VIR, BOTA FÉ,
+QUE EU BOTO A ROUPA, / SE ALGUÉM JÁ BEIJOU É SOPA,
+BOCA DA MENINA É MÉ / E EU VOU, LEXOTAN, SOLTO NA VIDA,
+DONO DAS PUTA PARIDA / SÓ PEGANDO AQUELA QUE NÃO DER
+
+
+Toque Riff1: REFRÃO
+
+FOME DO CÃO / O RONCO DA "LARA" É DA FOME DO CÃO
+O RONCO DO BUCHO É DA FOME DO CÃO
+
+
+Toque introdução:4X
+
+
+Toque Riff2:
+
+O FIM VEM LOGO ANTES DO COMEÇO E UM RELÓGIO DO AVESSO
+DÁ O SENTIDO NATURAL
+PROS AMIGOS "QUE É DE PRESSA", TODA A NOITE A GENTE REZA
+E PEDE SEMPRE O BEM PRA ELE QUE TEM A FORÇA MAIORAL
+É LÁ NO "BUCO"QUE O "FEELING" SE FAZ PRESENTE,
+UNINDO O CORPO A MENTE, / E QUANDO EU DESCER QUE ELA RODE
+EU VOU TRANQÜILO COM A PULSAÇÃO "A MIL" / E SE EU VER O QUE NINGUÉM VIU, DESCULPA AÍ, MULEK, NÃO FODE
+
+
+Toque Riff3:
+
+DO CERRADO COM  MINHA VARA
+EU VOU TOCANDO A ONÇA E ASSUMO A RESPONSA
+PRA NO FIM DO DIA DERRUBAR UMA CERVA
+COMO UM AMIGO VELHO ME FALOU:
+"-DESSA VIDA, MULEK, TU SÓ LEVA A VIDA QUE TU LEVA."
+
+
+Base do solo Riff4:
+
+
+Toque Riff1: REFRÃO
+
+FOME DO CÃO / O RONCO DA "LARA" É DA FOME DO CÃO
+O RONCO DO BUCHO É DA FOME DO CÃO
+
+
+_______________________________________________________
+
+
+Versão 3
+-======-
+
+Intro: riff1 (8x) + riff2 (3x) + riff2a
+       riff1 (2x) + riff2 + riff2a
+
+
+  riff1
+G|--------------------------|
+D|--------------------------|
+A|--------------------------|
+E|-0---0-5-4-4--1-2-2-1-2-2-|
+
+
+  riff2
+e|---------------------------|
+B|---------------------------|
+G|---------------------------|
+D|------7-6-6-6--------------|
+A|-2-2--5-4-4-4--7-6-6-7-6-6-|
+E|-0-0-----------5-4-4-5-4-4-|
+
+
+  riff2a
+e|---------------------------|
+B|---------------------------|
+G|---------------------------|
+D|------7-6-6-6--------------|
+A|-2-2--5-4-4-4--3-2-2-3-2-2-|
+E|-0-0-----------1-0-0-1-0-0-|
+
+
+ (riff1)
+A fila é circular e só acaba quando o primeiro chegar
+Comedor de jaca, mão-de-cola
+Pra ela me dar o endereço é só ver de onde o vento vem
+Se fizer de refém, nunca mais tô de bem
+
+
+  riff2b
+e|-------------------------|
+B|-------------------------|
+G|-------------------------|
+D|-------------------------|
+A|-2-2--7-6-6--3-4-4-3-4-4-|
+E|-0-0--5-4-4--1-2-2-1-2-2-|
+
+
+ (riff2b)
+Bombom, camarão, mulher boa é violão,
+Bicho bom lá do sertão que caiu na minha mão
+Quem sabe ele ainda dê a volta certa
+Antes que dê merda e eu engula de cambota
+Mas eu tô sossegado, barrunfeiro véi do rock,
+Pra gata pagar um bock até torei os dreadlock
+
+
+  riff2c
+e|----------------------------|
+B|----------------------------|
+G|------7-6-6-6--6--6-6p7p6-0-|
+D|----------------------------|
+A|-2-2------------------------|
+E|-0-0------------------------|
+
+
+ (riff2c)
+Presentinho da moça, ela tira da calçinha e a gente sorri
+Hoje em dia a coisa pura é novidade
+E eu aceito de coração o camarão com catupiry
+E não quero nem saber da sua idade
+Pode vir, bota fé,
+Que eu boto a roupa, se alguém já beijou é sopa,
+Boca da menina é mé. E eu vou, lexotan, solto na vida,
+Dono das puta parida, Só pegando aquela que não der
+
+
+ (riff2 (3x) + riff2a)
+Fome do cão, fome do cão, fome do cão, fome do cão
+O ronco da "Lara" é da fome do cão
+O ronco do bucho é da fome do cão
+
+
+  solinho (o baixo acompanha com o riff1)
+e|-7-7-7-7-7-6--5-6-7~-|
+B|---------------------|
+G|---------------------|
+D|---------------------|
+A|---------------------|
+E|---------------------|
+
+
+ (riff2b)
+O fim vem logo antes do começo
+E um relógio do avesso dá o sentido natural
+Pros amigos "que é de presa", toda noite a gente reza
+E pede sempre o bem pra ele que tem a força maioral
+É lá no "buco" que o "feeling" se faz presente,
+Unindo o corpo e a mente,
+E quando eu descer que ela rode
+Eu vou tranqüilo com a pulsação "a mil"
+E se eu ver o que ninguém viu, desculpa aí, mulek, não fode
+
+
+ (riff2c)
+Do cerrado com a minha vara
+Eu vou tocando a onça e assumo a responsa
+Pra no fim do dia derrubar uma cerva
+Como um amigo velho me falou:
+"-Dessa vida, mulek, tu só leva a vida que tu leva"
+
+
+(solo)-(quem souber, mande para o meu e-mail)
+
+
+(riff1)
+
+
+ (riff2 (3x) + riff2a)
+Fome do cão, fome do cão, fome do cão, fome do cão
+O ronco da "Lara" é da fome do cão
+O ronco do bucho é da fome do cão
+
+----------------- Acordes -----------------

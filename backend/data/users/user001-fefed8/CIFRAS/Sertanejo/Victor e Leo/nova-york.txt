@@ -1,0 +1,58 @@
+@titulo: nova-york
+@autor:
+@intérprete: Victor e Leo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Victor e Leo - Nova York
+
+Intro:  G  D  Am  C  G  (2X)
+
+E|-3-3-3-3-3-3-2-0-------------------------------|
+B|------------------3-1-0---------0-1------0-1---|
+G|------------------------2----2------2-2------2-|
+D|-----------------------------------------------|
+A|-----------------------------------------------|
+E|-----------------------------------------------|
+
+Am           C           G
+Essa é a história de um novo herói
+Am          C         G
+Cabelos compridos a rolar no vento
+Am       C          G
+Pela estrada no seu caminhão
+Am          C                G
+Cravado no peito a sombra de um dragão
+C                     G
+Tinha um sonho ir pra Nova York
+G
+levar a namorada
+
+C                   G
+Fazer seu caminhão voar nas nuvens
+C                 G
+Mas enquanto isso na estrada
+         Am
+Saudade vai, vai, vai
+         C                 G
+Saudade vem, vem, vem te buscar
+
+Solo:  D  Am  C  G
+
+E|-3-3-3-3-3-3-2-0-------------------------------|
+B|------------------3-1-0---------0-1------0-1---|
+G|------------------------2----2------2-2------2-|
+D|-----------------------------------------------|
+A|-----------------------------------------------|
+E|-----------------------------------------------|
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3

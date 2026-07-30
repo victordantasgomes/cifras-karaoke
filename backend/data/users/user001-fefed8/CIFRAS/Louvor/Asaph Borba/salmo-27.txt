@@ -1,0 +1,49 @@
+@titulo: salmo-27
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Salmo 27
+
+         D9                  F#m7
+Uma coisa te peço e a buscarei
+            G7+              A/C#  A7
+Que eu possa morar na casa do Senhor
+   D9                F#m7
+E contemplar a tua beleza
+G7                   A/C#  A7
+Todos os dias da minha vida.
+
+
+A9  Bbº  Bm Bm/A         F#m7 F#m6
+Contemplar        no seu tempo
+     Em7  G      D7+
+A beleza do Senhor
+A Bbº Bm7 Bm/A F#m7  F#m6
+E adorar      o seu nome
+        Em7      D9
+Com todo o meu ser.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+A9 = X 0 2 2 0 0
+Bbº = X 1 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+Bm7 = X 2 4 2 3 2
+D7+ = X X 0 2 2 2
+D9 = X X 0 2 3 0
+Em7 = 0 2 2 0 3 0
+F#m6 = 2 X 1 2 2 X
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3
+G7+ = 3 X 4 4 3 X

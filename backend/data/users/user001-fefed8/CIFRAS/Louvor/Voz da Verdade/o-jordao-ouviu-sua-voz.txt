@@ -1,0 +1,64 @@
+@titulo: o-jordao-ouviu-sua-voz
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - O Jordão Ouviu Sua Voz
+
+Intro: D7
+
+                    G7                       C7
+O Jordão ouviu sua voz, o mar da Galiléia parou
+                  D7            G7
+Uma estrela anunciou que o Rei vive
+C7              G7
+Nasceu em Belém, criou-se em Nazaré
+D7                      G7
+Fez crescer o amor e a fé } 2 vezes
+
+       G        Bm        Em            Bm
+Aconteceu na cidade de Belém quando os sinos din
+ C        Am      F  D
+dén anunciavam o Rei
+       G        Bm        Em             Bm
+Aconteceu na cidade de Belém quando so sinos din
+ C        D       G
+dén anunciavam o Rei
+
+Em                              Bm
+No campo os pastores ouviram os anjos cantarem
+
+C                                 G
+Hosana nas alturas, nas terra há paz
+Em                                   Bm
+No caminho os magos incenso, ouro e mirra a levar
+D                 C C# D             G
+Ao Rei que nasceu       para nos salvar
+
+
+Aconteceu...
+
+No campo...
+
+Aconteeu...
+
+Final: Em, G, Em, G, Em, G, Em, G7
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

@@ -1,0 +1,69 @@
+@titulo: tua-palavra
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - Tua Palavra
+
+[Intro]  D9  A/D  D  G  A  Bm7  Em  D/F#  G
+
+D      A/D  D   D/G  D9/G  A    Bm    Em7   D/F#  A
+Ale...lui...a,   A....le...lui...a,   Ale...lui...a!
+D      A/D  D   D/G  D9/G  A    Bm    Em7   D/F#  A
+Ale...lui...a,   A....le...lui...a,   Ale...lui...a!
+
+       G            D/F#
+Tua palavra é como fogo
+           Em        D/F#
+Que faz arder o coração
+           G        D/F#          A
+Traz a verdade  e ilumina a nossa vida
+
+   G                B7/4  B7
+Tua palavra é como fogo
+           Em       D/F#
+Que faz arder o coração
+           G      D/F#         A
+Traz a verdade  e ilumina a nossa vida
+
+
+D      A/D  D   D/G  D9/G  A    Bm    Em7   D/F#  A
+Ale...lui...a,   A....le...lui...a,   Ale...lui...a!
+D      A/D  D   D/G  D9/G  A    Bm    Em7   D/F#  A
+Ale...lui...a,   A....le...lui...a,   Ale...lui...a!
+
+E      C°       C#m     Bm  E/G#  A     C#m7  D7+  Bsus
+Ale...lui...a,   Ale...lui...a,   Ale...lui...a!
+E/B    C°       C#m     Bm  E/G#  A    E/G#  F#m7  D7+ Bsus  E
+Ale...lui...a,   Ale...lui...a,   Ale...lui...a!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/D = X X 0 6 5 5
+B7 = X 2 1 2 0 2
+B7/4 = X 2 4 2 5 2
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Bsus = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+C° = X 3 4 2 4 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D/G = 3 X X 2 3 2
+D7+ = X X 0 2 2 2
+D9 = X X 0 2 3 0
+D9/G = 3 X X 2 3 0
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

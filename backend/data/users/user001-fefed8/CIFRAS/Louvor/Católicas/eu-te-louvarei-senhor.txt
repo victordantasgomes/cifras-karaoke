@@ -1,0 +1,47 @@
+@titulo: eu-te-louvarei-senhor
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Eu Te Louvarei, Senhor
+
+    A          C#m             D               Dm           A      E
+1. Eu te louvarei Senhor, de todo meu coração
+       A          C#m             D              Dm         A
+   Eu te louvarei Senhor, de todo meu    coração
+
+
+       D        C#7           F#m          B/D#  A  E  A
+Na presença dos anjos, a Ti  cantarei  louvo - o - ores
+
+       D        C#7           F#m          B/D#  A  E  A
+Na presença dos anjos, a Ti  cantarei  louvo - o - ores
+
+
+    A          C#m             D              Dm   A    E
+ 2.Eu te bendirei Senhor, de todo meu coração
+    A          C#m             D              Dm   A    E
+   Eu te bendirei Senhor, de todo meu coração
+
+
+    A          C#m             D              Dm   A    E
+3.Eu te exaltarei Senhor, de todo meu coração
+
+    A          C#m             D              Dm   A    E
+  Eu te exaltarei Senhor, de todo meu coração
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B/D# = X 6 X 4 7 7
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

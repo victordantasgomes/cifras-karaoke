@@ -1,0 +1,63 @@
+@titulo: livre
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Livre
+
+Intro: D Bm A/B G A4 A
+
+D
+Por onde eu tenho andado
+             Bm
+Todos têm as mesmas dúvidas e medos
+               G                                 G/B              A/C#
+De não encontrar a paz, onde está nosso refúgio?
+           D
+Só se vê violência e confusão
+       Bm
+A falta de esperança na vida
+   G                        G/B                             A    A/C#
+E a desilusão sem amor vamos ficar sozinhos
+
+     D
+Voar, como pássaros no ar
+  G
+Livres, pra poder cantar
+            Em
+Mergulhar no infinito
+
+                                                      D
+Nas mãos de quem nos fez pra amar
+
+D
+Alguns ainda esperam
+             Bm
+Encontrar um caminho
+        G                                         G/B          A/C#
+Mas vivem sem a fé, vendo suas vidas passarem
+D
+Tudo deve ser tão triste
+          Bm
+Pra quem deixou de acreditar
+      G                          G/B                             A  A/C#
+E se esqueceu que alguém morreu pra nos salvar
+
+(Refrão 2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

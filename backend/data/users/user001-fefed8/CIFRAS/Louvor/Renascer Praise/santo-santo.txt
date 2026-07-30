@@ -1,0 +1,145 @@
+@titulo: santo-santo
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Santo, Santo
+
+[Intro]  D A E A/C#
+         D9 A E D9
+
+       E/G#
+Santo, Santo
+     D/A   A9
+Deus Tremendo
+     D9       A9
+Consagramos a Ti
+          E4  E
+Nosso louvor
+
+       E/G#
+Rei da Glória
+     D/A   A9
+Majesto  - so
+    D9     A9        E4  E
+Coroado de Verdade e Luz
+
+A/C#      D9        A9
+Ale -     lu    -   ia
+
+D9        E        F#m7
+Ale -     lu    -   ia
+E         D9        A9
+Ale -     lu    -   ia
+          E4 E
+Ao que venceu
+
+       E/G#
+Santo, Santo
+     D/A   A9
+Deus Tremendo
+     D9       A9
+Consagramos a Ti
+          E4  E
+Nosso louvor
+
+       E/G#
+Rei da Glória
+     D/A   A9
+Majesto  - so
+    D9     A9        E4  E
+Coroado de Verdade e Luz
+
+A/C#      D9        A9
+Ale -     lu    -   ia
+D9        E        F#m7
+Ale -     lu    -   ia
+E         D9        A9
+Ale -     lu    -   ia
+          E4 E
+Ao que venceu
+
+          F7+    Em7   Dm7
+O que das trevas fez a luz
+      F7+   G9     A9
+Deu motivos pra viver
+       F7+    Em7   Dm7
+Me deu vestes de louvor
+Em7       A9
+Pra te adorar
+
+          F7+    Em7   Dm7
+O que das trevas fez a luz
+      F7+   Em7  F#m7(9)(11)
+Deu motivos pra viver
+       F7+    Em7   Dm7
+Me deu vestes de louvor
+Em7         A9
+Pra te adorar
+
+A/C#      D9        A9
+Ale -     lu    -   ia
+D9        E        F#m7
+Ale -     lu    -   ia             2x
+E         D9        A9
+Ale -     lu    -   ia
+          E4 E
+Ao que venceu
+
+D9               A9
+Oh!      Oh!     Oh!
+E                F#m7  E
+Oh!      Oh!     Oh!
+D9               A9
+Oh!      Oh!     Oh!
+      E4    (F#m7 A/C# E/G# A Bm7 C#m7 C#m7 D9)
+Santo Deus
+
+D9               A9
+Oh!      Oh!     Oh!
+E                D9
+Oh!      Oh!     Oh!
+D7+(9)/F#       A7+(9)/C#
+Oh!      Oh!     Oh!
+        E4  E
+Santo Deus
+   A9
+Jesus
+
+( F7+  Em7  Dm7 )
+( F7+  Em7  A9 )
+( F7+  Em7  Dm7  Em7 )
+( F7+  Em7  Dm7 )
+( F7+  Em7  F#m7(9)(11)  A(b13)/Eb )
+( C/D  D/E  E/F#  F#/G#  F9  G9  A9 )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+C/D = X X 0 0 1 0
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/E = X X 2 2 3 2
+D7+(9)/F# = 2 0 0 2 2 0
+D9 = X X 0 2 3 0
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E/F# = X X 4 4 5 4
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+Em7 = 0 2 2 0 3 0
+F#/G# = 4 X 4 3 2 X
+F#m7 = 2 X 2 2 2 X
+F#m7(9)(11) = 2 0 2 1 0 X
+F7+ = 1 X 2 2 1 X
+F9 = 1 3 5 2 1 1
+G9 = 3 X 0 2 0 X

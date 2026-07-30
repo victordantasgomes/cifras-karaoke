@@ -1,0 +1,73 @@
+@titulo: ima
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Imã
+
+C               Am            Dm
+As vezes eu nem sei, o que pensar
+   F                     C
+Tentando encontrar a solução
+   Am
+O tempo quase já não passa
+               Dm                 F
+A vida não tem graça sem você não dá
+     C                    G                 C    G7
+Não dá pra ser feliz, não dá, não vejo condição
+
+C               Am              Dm
+As vezes eu nem sei, por onde andar
+  F                     C
+Tentando espantar a solidão
+   Am
+Te vejo em tudo o que eu faço
+                 Dm                       F
+Em todos os meus passos, onde quer que eu vá
+C                      G                C
+Você não sai nenhum instante do meu coração
+
+
+|        G               F          C
+|Tem uma força que me arrasta pra você
+
+|       G             F            C   C7
+|E essa força não me deixa te esquecer
+
+|           F             Fm
+|Parece um imã que coisa louca
+
+|   C        G           Am
+|Loucura que não vai ter fim
+
+|  F               G            C
+|É impossível arrancar você de mim
+
+Am
+Quanto mais a vida passa
+                         Dm
+Mais eu sinto a falta de você
+F                C
+ Meu coração te chama
+Am
+Traz de volta nossos sonhos
+                          Dm
+Tantas coisas temos pra viver
+F             G      C
+ Por que a gente se ama
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

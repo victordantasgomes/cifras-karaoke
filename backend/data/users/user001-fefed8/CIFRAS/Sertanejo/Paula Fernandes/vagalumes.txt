@@ -1,0 +1,56 @@
+@titulo: vagalumes
+@autor:
+@intérprete: Paula Fernandes
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Paula Fernandes - Vagalumes
+
+(intro) Em C Em C Em C Em
+
+Em                    C                  Em
+Vaga-lumes brilhavam nas estrelas
+ C                    Em         B7            Em    D7
+tentavam comovê-las, apaixonadamente
+             Em        C
+essa história começa
+                   Em    C          Em
+quando um dia senti sua magia
+      B7                         D
+pulsando em minha frente
+G              D7             B7
+alegria e medo se juntaram
+  Em                 Am     C        D
+dentro do meu peito onde um coração
+        G          D              Em    D
+não sabia o que havia acontecido,
+       C9               D                G
+mas aquilo só podia ser paixão
+    D                   Em            C
+amores que se acendem ao céu azul
+
+        Em            D                Em
+se rendem mistérios e perfumes
+        C              Em    D
+dos seres vaga-lumes
+G                    D
+que fazem da noite
+                    Em       B7              Em
+o seu sertão cercado de beleza e luzes
+
+( Em C Em C Em )
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

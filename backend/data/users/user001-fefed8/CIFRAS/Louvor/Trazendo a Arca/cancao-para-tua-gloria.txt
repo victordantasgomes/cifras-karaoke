@@ -1,0 +1,63 @@
+@titulo: cancao-para-tua-gloria
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Canção Para Tua Glória
+
+A               A4
+    O que te daria 
+E/A          D/A              A
+    Sendo eu pobre e tão pecador? 
+         Esus4
+    Nada tenho 
+ 
+A              A4
+    Toma minha vida, 
+E/A            D/A                 A
+    Toma o meu tudo e inunda o meu ser 
+               A#5
+    Com tua presença 
+A6             Dm/A
+    Com tua presença 
+ 
+  A               E/A
+Ó Deus toma minha vida 
+  Fm          E4   E
+E enche-me de ti 
+A/C#     D7M         A/C#             Bm7     Esus4
+A        té não mais haver espaço pra mim 
+ 
+   A/E           E/A
+Me faz teu instrumento 
+   Fm            E4      E
+Me toca com tuas mãos 
+  A/C#     D7M            A/C#
+Que eu     seja em uma canção 
+        Bm           Dm6      A
+Pra tua glória, tua glória senhor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#5 = X 1 3 3 X X
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A4 = X 0 2 2 3 0
+A6 = 5 X 4 6 5 X
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+D/A = X 0 X 2 3 2
+D7M = X X 0 2 2 2
+Dm/A = X 0 X 2 3 1
+Dm6 = X 5 X 4 6 5
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E4 = 0 2 2 2 0 0
+Esus4 = 0 2 2 2 0 0
+Fm = 1 3 3 1 1 1

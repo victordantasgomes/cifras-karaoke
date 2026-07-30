@@ -1,0 +1,47 @@
+@titulo: a-fe-move-montanhas
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - A Fé Move Montanhas
+
+A               D
+Um raio, um trovão
+F#m           E4 E
+Clareou a escuridão
+A            D
+Eu temi, eu admirei
+F#m              E4    E
+Como é grande o Teu poder
+ D                    F#m
+Que bom andar do Teu lado
+        E4 E
+Ser Teu amigo
+Bm              F#m
+Nas horas de perigo
+              E4
+Eu chamo, eu clamo
+     E
+Teu nome
+
+ A D   F#m              E4      E
+Jesus, Te amo mais que tudo na vida
+
+ A D   F#m           E4
+Jesus, a fé move montanhas
+      E          A
+Cura qualquer ferida
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2

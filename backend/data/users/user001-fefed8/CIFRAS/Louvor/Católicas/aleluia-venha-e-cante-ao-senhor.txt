@@ -1,0 +1,37 @@
+@titulo: aleluia-venha-e-cante-ao-senhor
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Aleluia, Venha e Cante Ao Senhor
+
+
+Dm       Gm        C            F           Dm     Gm   A7     Dm  Bb  C  Dm
+Aleluia, Aleluia, Aleluia, Aleluia, Aleluia, Aleluia
+                              Gm            C7                        F
+Venha    e    cante   ao  Senhor, venha  e  cante  ao
+        Dm                          Gm       A7                Dm      Dm  Bb  C  Dm
+Senhor. Venha  e   cante   na   presença  de  Jesus!
+                       Gm          C7                     F
+Venha e louve ao senhor, Venha e louve ao
+        Dm                      Gm       A7                Dm             Dm  Bb  C  Dm
+Senhor. Venha e louve na presença de Jesus
+                      Gm            C7                     F
+Venha e dance ao Senhor, Venha e dance ao
+       Dm                       Gm       A7              Dm            Dm  Bb  C  Dm
+Senhor. Venha e dance na presença de Jesus!
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

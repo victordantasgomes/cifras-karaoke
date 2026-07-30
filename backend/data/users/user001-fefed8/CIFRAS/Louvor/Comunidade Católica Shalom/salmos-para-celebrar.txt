@@ -1,0 +1,43 @@
+@titulo: salmos-para-celebrar
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - Salmos Para Celebrar
+
+C C7M C         Am Asus Am                F              Dm      G 
+É assim         a gera-----ção dos que buscam vossa face! 
+
+C C7M C         Am Asus Am                F     C/E   Dm   G F      C 
+É assim         a gera-----ção dos que buscam vossa face! 
+
+Ao senhor pertence a terra e o que ela encerra, o mundo inteiro com os seres que o povoam
+F                  G            Em                        Am                          Dm                                    G      Gsus
+Porque ele a tornou firme sobre os mares e sobre as águas a mantém inabalável
+F                 G             Em                   Am                   Dm              G                     C          Csus
+Quem subirá até o monte do Senhor, quem ficará em sua santa habitação?
+F                             G                Em              Am                       Dm                                       G      Gsus
+Quem tem mãos puras e inocente coração, quem não dirige sua mente para o crime
+F         G                     Em                       Am                   Dm                    G                         C          Csus
+Sobre este desce a benção do Senhor, e a recompensa de seu Deus e Salvador
+F     G                 Em                                            Dm                                            G      Gsus
+É assim a geração dos que o procuram e do Deus de Israel buscam a face.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Asus = X 0 2 2 2 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C7M = X 3 2 0 0 X
+Csus = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gsus = 3 2 0 0 0 3

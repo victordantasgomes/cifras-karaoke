@@ -1,0 +1,10 @@
+@titulo: dias-atras
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:

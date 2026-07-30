@@ -1,0 +1,66 @@
+@titulo: ultimo-adeus
+@autor:
+@intérprete: Trio Parada Dura
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trio Parada Dura - Último Adeus
+
+[Intro]  B  B  C#  C#  F#  F#  B  B  B7  B7  E  E  B  F#  B
+
+B                          C#
+Esta é última vez que lhe vejo
+ F#                        B
+Somente vim dizer adeus e partir
+                    B7       E
+Não vou nem sequer pedir um beijo
+ C#                     F#
+Sei que seria inútil pedir
+ B                           C#
+Não precisa mais virar me o rosto
+ F#                           B
+Nem tratar-me com desprezo assim
+                  B7       E
+Sei que em seu coração tem outro
+ B               F#        B
+Não existe mais lugar pra mim
+ F#                     B
+Perdi a ilusão da vida porque
+ F#                         B
+Seu carinho para sempre eu perdi
+
+C#                   F#
+O meu sonho de amor morreu
+  B                F#        B
+Quando no seu coração eu morri
+
+( B  B  C#  C#  F#  F#  B  B  B7  B7  E  E  B  F#  B )
+
+                             C#
+Não precisa mais virar me o rosto
+ F#                           B
+Nem tratar-me com desprezo assim
+                  B7       E
+Sei que em seu coração tem outro
+ B               F#        B
+Não existe mais lugar pra mim
+ F#                         B
+Perdi a ilusão da vida porque
+ F#                            B
+Seu carinho para sempre eu perdi
+C#                      F#
+O meu sonho de amor morreu
+  B                F#        B
+Quando no seu coração eu morri
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C# = X 4 6 6 6 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2

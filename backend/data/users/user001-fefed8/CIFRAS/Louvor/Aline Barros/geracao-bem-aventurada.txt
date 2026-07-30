@@ -1,0 +1,159 @@
+@titulo: geracao-bem-aventurada
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Geração Bem-Aventurada
+
+Intro: C9  G  C9
+E|-----------------|
+B|-----------------|
+G|--4h6--5-5-4--4--|  (3x)
+D|--5----5-5-5--5--|
+A|--3----3-3-3--3--|
+E|-----------------|
+
+E|-----------------|
+B|-----------------|
+G|-----------5-5-4-|
+D|--5-5-5-5--x-x-x-|
+A|--5-5-5-5--5-5-5-|
+E|--3-3-3-3--3-3-3-|
+
+G                      D
+ Eu faço parte de uma geração
+      Em7               C9
+ Que busca, clama e se arrepende
+G
+ Que adora ao Senhor
+
+D
+ Que busca santidade
+    Em7                C9
+ E vive as promessas de um Deus fiel
+C9                D
+ Eu quero receber das mãos do meu Senhor
+  Em             D/F#
+ Minha parte, a minha coroa
+C9               D                   Am7
+ Eu faço tudo que for preciso para ser
+              C9             D
+ Bem aventurado - pelo meu Sen-nhor
+
+Refrão:
+G                 D
+Bem aventurados são
+                      Em7
+Os que buscam o Teu Reino
+                   C9           D
+Que têm fome e têm sede de justiça
+G                   D
+Esses então receberão
+                    Em7
+O que Deus tem prometido
+                  C9                   D
+Uma herança que deixou para os seus filhos
+G                 D
+Bem aventurados são
+                Em7
+Os misericordiosos
+                 C9              D
+Os de coração humilde, manso e puro
+G                D/F#
+Eles serão como farol
+                   Em                 C9            D  C
+Como torre bem erguida a cidade edificada sobre o monte
+(repete tudo)
+E|-----------------|
+B|-----------------|
+G|--4h6--5-5-4--4--|  (3x)
+D|--5----5-5-5--5--|
+A|--3----3-3-3--3--|
+E|-----------------|
+
+E|-----------------|
+B|-----------------|
+G|-----------5-5-4-|
+D|--5-5-5-5--x-x-x-|
+A|--5-5-5-5--5-5-5-|
+E|--3-3-3-3--3-3-3-|
+
+Interlúduio: Em  D/F#
+
+ C9
+ Eu tenho fome
+                  Em                D
+ Eu tenho sede de Deus (Eu tenho fome, eu tenho sede)
+
+ C9
+ Eu tenho fome
+                  Em          D
+ Eu tenho sede de Deus    ( de Deus )
+
+Am7
+ Eu tenho fome
+C9                 Em  D/F#
+ Eu tenho sede de Deus
+
+Am7
+ Eu tenho fome
+C9                 D
+ Eu tenho sede de Deus
+
+                 D9
+Bem aventurados são
+
+Refrão:
+G                 D/F#
+Bem aventurados são
+                    Em7
+Os que buscam o Teu Reino
+                   C9          D
+Que têm fome e têm sede de justiça
+G                  D/F#
+Esses então receberão
+                    Em7
+O que Deus tem prometido
+                C9                     D
+Uma herança que deixou para os seus filhos
+G                 D/F#
+Bem aventurados são
+              Em7
+Os misericordiosos
+                 C9              D
+Os de coração humilde, manso e puro
+G                D/F#
+Eles serão como farol
+                   Em                 C9          D    C
+Como torre bem erguida a cidade edificada sobre o monte
+E|-----------------|
+B|-----------------|
+G|--4h6--5-5-4--4--|  (3x)
+D|--5----5-5-5--5--|
+A|--3----3-3-3--3--|
+E|-----------------|
+
+E|-----------------|
+B|-----------------|
+G|-----------5-5-4-|
+D|--5-5-5-5--x-x-x-|
+A|--5-5-5-5--5-5-5-|
+E|--3-3-3-3--3-3-3-|
+
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3

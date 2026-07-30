@@ -1,0 +1,110 @@
+@titulo: casino-boulevard
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Casino Boulevard
+
+[Intro]  A9  F#m  C#m  E
+
+E|-----------------------------------------------------------------------|
+B|----------0-------------0----------------------------------------------|
+G|------0-----0-------0-----0------------0-------------0-----------------|
+D|----2---2---------2---2-----2------4-----4-------0-----0---0-----------|
+A|--3-----------3-0----------------2---2---------2---2-----2-------------|
+E|-------------------------------0-----------0-3-------------------------|
+
+E|-----------------------------------------------------------------------|
+B|----------0------------------------------------------------------------|
+G|------0-----0------------2-------------------0-------------0-----------|
+D|----2---2----------0h2-4---4-2-0--------4------4-------0-----0---0-----|
+A|--3-----------3-0---------------------2---2----------2---2-----2-------|
+E|------------------------------------0------------0-3-------------------|
+
+ A9    F#m          C#m         E
+Se ganhou suspire, Se perdeu aprenda
+ A9       F#m     C#m      E
+Porque é hora de ser, Não demore ou vai
+ A9     F#m      C#m     E
+Vai perder sua aposta, Agora é a hora
+
+A9       F#m         C#m        E           F#     A9
+Escolha bem suas cartas, O seu jogo já vai co...meçar
+
+E               B/D#                  C#m
+O lance está no ar, é só você gritar bem alto, alto
+ A9
+Mas se prepare, Prepare
+ E
+Porque nada no mundo é de graça
+ B/D#                    C#m                A9
+Você pode até ter medo, mas ande, caminhe, só não pare, Não pare
+
+  A9          F#m    C#m      E
+Qual é o seu limite? Até onde aguenta?
+ A9        F#m            C#m     E
+Se tudo aqui tem prazo, qual é o seu?
+ A9             F#m           C#m                      E
+Pois tudo aqui tem um porque, A vida é o casino e você a fixa
+ A9       F#m             C#m        E         F#              A9
+Nunca permita que a sua, Felicidade dependa de algo que possa perder
+
+E               B/D#                  C#m
+O lance está no ar, é só você gritar bem alto, alto
+ A9
+Mas se prepare, Prepare
+ E
+Porque nada no mundo é de graça
+ B/D#                C#m                    A9
+Você pode até ter medo, mas ande, caminhe, só não pare, Não pare, Nunca
+
+[Solo]  A9  F#m  C#m  E
+
+E|-----------------------------------------------------------------------------------------------------|
+B|----------------7-7-7-7-9-9-9-9----------------------9-10-9----9-------------------------------------|
+G|6-6-6-6-9-9-9-9-----------------4-4-4-4-4/6-6~-----9--------11---------------------------------------|
+D|------------------------------------------------11---------------9------------9-9H11-----------------|
+A|-------------------------------------------------------------------11-9-7-/11--------11P9-7---7/-----|
+E|--------------------------------------------------------------------------------------------9--------|
+
+
+E|-------------------------------------------------------------------|
+B|-----------------------------------------------16/17-16--------14~~|
+G|------------------------------------11-11-11-11--------18/16-13----|
+D|11-11-11-11-13-13-13-13-14-14-14-14--------------------------------|
+A|-------------------------------------------------------------------|
+E|-------------------------------------------------------------------|
+
+                    A9  F#m       C#m
+Todos querem uma fatia da sua glória
+ E            A9        F#m  C#m    E
+Todos todos querem apostar, sua    vida
+ A9   F#m   C#m    E   A9  F#m    C#m   B9
+Sua graça, sua culpa, sua calma, sua alma
+
+E             B/D#                       C#m
+O lance está no ar, é só você gritar bem alto, alto
+ A9
+Mas se prepare, Prepare
+ E
+Porque nada no mundo é de graça,
+ B/D#                C#m                    A9
+Você pode até ter medo, mas ande, caminhe, só não pare
+
+ E    B9    C#m  A9   F#m   A9   F#m  C#m  E
+Nada no mundo é de graaaaça
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B/D# = X 6 X 4 7 7
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2

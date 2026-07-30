@@ -1,0 +1,123 @@
+@titulo: jogo-e-jogo
+@autor:
+@intérprete: Maiara e Maraisa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Maiara e Maraisa - Jogo é Jogo
+
+Capo Casa 4
+
+[Intro] Em7  Bm7  D  A
+
+E|-3-2------2-0-----------------------------|
+B|--------------2-0h2-----------------------|
+G|-----4-2----------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Primeira Parte]
+
+ Em7               Bm7
+Você gosta do mal feito
+                  A
+Mesmo com ela do lado
+                 Bm7
+Sua noite só melhora quando eu apareço
+
+ Em7             Bm7
+Sua cara não disfarça
+                   A
+Sou a peça que faltava
+
+                 Bm7
+Pra formar seu trio perfeito
+
+[Pré-Refrão]
+
+Em7              Bm7
+Eu, você e a inocente aí
+            D                         A9
+Beijando a boca que não dispensa meu beijo
+             Em7                     Bm7
+Sei que é errado, mas dá vontade de rir
+                 D                   A9
+A mão que ela segura ontem puxava o meu cabelo
+
+[Refrão]
+
+                    Em7
+E treino é treino, jogo é jogo
+               G
+Ela é fumaça e eu sou fogo
+                     D
+Eu principal, ela é dublê
+                    A9
+Ela é do papai e mamãe e eu do vamo vê
+
+                    Em7
+E treino é treino, jogo é jogo
+               G
+Ela é fumaça e eu sou fogo
+                     D
+Eu principal, ela é dublê
+                    A9
+Ela é do papai e mamãe e eu do vamo vê
+
+                           Em7  G
+E treino é treino, jogo é jogo
+                    D        A9
+Ela é do treino eu sou do jogo
+
+[Pré-Refrão]
+
+Em7              Bm7
+Eu, você e a inocente aí
+            D                         A9
+Beijando a boca que não dispensa meu beijo
+             Em7                     Bm7
+Sei que é errado, mas dá vontade de rir
+                 D                   A9
+A mão que ela segura ontem puxava o meu cabelo
+
+[Refrão]
+
+                    Em7
+E treino é treino, jogo é jogo
+               G
+Ela é fumaça e eu sou fogo
+                     D
+Eu principal, ela é dublê
+                    A9
+Ela é do papai e mamãe e eu do vamo vê
+
+                    Em7
+E treino é treino, jogo é jogo
+               G
+Ela é fumaça e eu sou fogo
+                     D
+Eu principal, ela é dublê
+                    A9
+Ela é do papai e mamãe e eu do vamo vê
+
+                    Em7        G
+E treino é treino, jogo é jogo
+                     D    A9
+Eu principal, ela é dublê
+                    Em7      G
+E treino é treino, jogo é jogo
+
+----------------- Acordes -----------------
+Capotraste na 4ª casa
+A*  = X 0 2 2 2 0 - (*C# na forma de A)
+A9*  = X 0 2 2 0 0 - (*C#9 na forma de A9)
+Bm7*  = X 2 4 2 3 2 - (*D#m7 na forma de Bm7)
+D*  = X X 0 2 3 2 - (*F# na forma de D)
+Em7*  = 0 2 2 0 3 0 - (*G#m7 na forma de Em7)
+G*  = 3 2 0 0 0 3 - (*B na forma de G)

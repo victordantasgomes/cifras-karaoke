@@ -1,0 +1,40 @@
+@titulo: tambau
+@autor:
+@intérprete: Kid Abelha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kid Abelha - Tambaú
+
+Em       A   Em         A
+Tomei um gole de café quente
+Em       A          Em    A
+jangada passando em frente
+C          D       C   D
+triângulo em água verde
+C       D     Em  G F
+você desapareceu
+
+Tomei um gole de vinho tinto
+vi uma estrela cadente
+escureceu de repente
+C      D       C D
+você reapareceu
+D     C G    E
+você reapareceu
+
+Solo:A D
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

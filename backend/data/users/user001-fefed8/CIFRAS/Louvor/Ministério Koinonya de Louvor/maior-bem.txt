@@ -1,0 +1,49 @@
+@titulo: maior-bem
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - Maior Bem
+
+Intro: /  D  /  G  /  A  / 
+ 
+    D             G            A/C#      Bm     
+?O que eu vou ganhar?? E o que querem saber 
+  G            F#m   Em          A        A7 
+?Não posso esperar!? Ninguém tem tempo. 
+    D            G          A/C#     Bm 
+Correr e não chegar, muitas vezes se vê; 
+             G            F#m  Em        A       A7 
+Tudo que alguém sempre sonhou, vai com o vento. 
+        G        Em           A       G        Em             A 
+        Onde estiver o seu maior bem, lá vai estar o seu coração também. 
+         Em        F#m   G          A 
+        Chega de buscar, coisas que vão e vem. 
+   G          A        Bm  Bm/A 
+Guarde o que não se desfaz. 
+   G      A             Bm 
+Guarde o bem que não se vai. 
+C 
+  Guarde o maior bem. 
+G/B                  G/Bb  A 
+  Guarde o maior bem.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/Bb = X 1 0 0 3 3

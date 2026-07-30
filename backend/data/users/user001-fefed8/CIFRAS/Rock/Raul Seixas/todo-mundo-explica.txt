@@ -1,0 +1,111 @@
+@titulo: todo-mundo-explica
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Todo Mundo Explica
+
+[Intro] F#  G
+                     C7
+Não me pergunte  porquê
+Quem, como, onde, qual, quando, o quê?
+Deus, Buda, o tudo, o nada, o ocaso,
+Como o cosmonauta busca o nada, o nada
+               G      D7
+Seja lá o que for, já é
+                    C7
+Não me obrigue a comer
+O seu escreveu, não leu
+Papai nos deu a cabeça
+De Dr. Don Sigismundo
+Porque sem querer cantou de galo que
+                  G
+Cada cabeça é um mundo
+    D7
+Gismundo
+          G
+Antes de ler o livro que o guru lhe deu
+Você tem que escrever o seu
+
+Am7/5-
+Chega a um ponto que eu sinto e
+Gm
+Que eu pressinto
+   Am7/5-                       Gm
+Lá dentro, não do corpo, mas lá dentro-fora
+G       C       F           Bb       Eb
+No coração, no sol, no meu peito eu sinto
+       Ab       Db        Gb
+A estrela, na testa eu farejo
+    B        D7
+Em todo o universo
+           G               C7
+Que eu tô vivo, que eu tô vivo
+           G                         C7
+Que eu tô vivo, vivo, vivo como uma rocha
+             G
+E eu não pergunto
+                C7                           G
+Porque hoje eu sei que a vida não é uma resposta
+             C7
+E se eu aconteço aqui
+            G°        F#°           G
+Se deve ao fato de eu simplesmente ser
+            G°        F#°
+Se deve ao fato de eu simplesmente
+                  C7
+Mas todo mundo explica
+Explica Freud, o papa explica
+Krishnamurti tá vendendo a explicação na livraria
+Que lhe faz a prestação
+Que tem platão que explica
+                      G        D7
+Que explica tudo tão bem, vai lá que
+                              C7
+Que todo mundo, todo mundo explica
+O protestante, o auto-falante, o zen-budismo, Brahma, Skol
+Capitalismo oculta um cofre de fa, fa, fe, finalismo
+Hare Krisna dando a dica enquanto aquele
+              G        D7
+Papagaio curupaca e implica
+E com o carimbo positivo da ciência
+                        G
+Que aprova e classifica
+      D7               G6
+O que é que a ciência tem?
+     D7            G6
+Tem lápis de calcular
+     D7                 G6
+Que mais que a ciência tem?
+    D7                  G6
+Borracha pra depois apagar
+    D7
+Você já foi ao espelho, nego?
+         G
+Não? Então vá!
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Am7/5- = 5 X 5 5 4 X
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D#° = X X 1 2 1 2
+D7 = X X 0 2 1 2
+Db = X 4 6 6 6 4
+Eb = X 6 5 3 4 3
+E° = X X 2 3 2 3
+Eº = X X 2 3 2 3
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G6 = 3 X 2 4 3 X
+Gb = 2 4 4 3 2 2
+Gm = 3 5 5 3 3 3

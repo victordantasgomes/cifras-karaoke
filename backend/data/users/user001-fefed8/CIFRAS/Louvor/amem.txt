@@ -1,0 +1,22 @@
+@titulo: amem
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Amém
+
+ E  B7  C#M G#M
+A|-mem  a-mem
+ A F#M E  B7  E
+A|--a--a--a--mem (BIS)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0

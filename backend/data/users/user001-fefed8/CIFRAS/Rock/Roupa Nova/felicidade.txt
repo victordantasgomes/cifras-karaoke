@@ -1,0 +1,83 @@
+@titulo: felicidade
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Felicidade
+
+Intro: D Em F#m Em (6x)
+
+
+D               Em/D    F#m          Em/D
+O meu coração deserto você fez uma cidade
+D               Em/D     F#m         Em/D
+Veloz um amor esperto, total na cumplicidade
+         G                   A7
+Quando o raio do amor nos feriu
+     G                    A7
+A felicidade então nos sorriu
+           D     G               A7
+Eu quero só você, longe perto ao lado
+Bm            F#m        Em
+Eu só penso estar com você
+               A7
+Eu só penso estar com você
+          D     A   G        A         Bm
+Eu quero só você, sonho as noites acordado
+      F#m       Em              A          D
+Só pensando em você eu só penso estar com você
+
+
+D              Em/D     F#m          Em/D
+Seja descomplicado, feroz e na hora exata
+       D                 Em/D        F#m                Em/D
+Que não exista certo e errado, na lua, na noite prata
+           G               A7
+Quando o raio do amor nos feriu
+     G                    A7
+A felicidade então nos sorriu
+
+Refrão
+        D     G               A7
+Eu quero só você, longe perto ao lado
+Bm            F#m        Em
+Eu só penso estar com você
+               A7
+Eu só penso estar com você
+          D     A   G        A         Bm
+Eu quero só você, sonho as noites acordado
+      F#m       Em              A          D
+Só pensando em você eu só penso estar com você
+
+ G                   A7
+Quando o raio do amor nos feriu
+     G                    A7
+A felicidade então nos sorriu
+           D     G               A7
+Eu quero só você, longe perto ao lado
+Bm            F#m        Em
+Eu só penso estar com você
+               A7
+Eu só penso estar com você
+          D     A   G        A         Bm
+Eu quero só você, sonho as noites acordado
+      F#m       Em              A          D
+Só pensando em você eu só penso estar com você
+
+Só você ...............
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

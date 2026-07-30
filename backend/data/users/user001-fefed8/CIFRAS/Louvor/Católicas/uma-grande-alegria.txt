@@ -1,0 +1,48 @@
+@titulo: uma-grande-alegria
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Uma Grande Alegria
+
+E             A
+Uma grande alegria,
+   B7        E
+Aleluia, aleluia!
+
+A                  E
+O anjo de Deus anuncia,
+   B7        E
+Aleluia, aleluia!
+
+E                  A
+Nasceu hoje o salvador,
+   B7        E
+Aleluia, aleluia!
+
+A                    E
+Nosso irmão, nosso Senhor,
+   B7        E
+Aleluia, aleluia!
+
+E           A
+Aleluia, aleluia!
+
+   B7        E
+Aleluia, aleluia!
+
+A           E
+Aleluia, aleluia!
+   B7        E    B7  E
+Aleluia, aleluia!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0

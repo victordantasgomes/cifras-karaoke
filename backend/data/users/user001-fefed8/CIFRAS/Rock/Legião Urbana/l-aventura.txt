@@ -1,0 +1,116 @@
+@titulo: l-aventura
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - L´Aventura
+
+      A    A7     G   G7   F7+
+E|------------------------------
+B|---10----8-----8----6----5----
+G|----9-9--9-----7-7--7----5----
+D|------------------------------
+A|------------------------------
+E|------------------------------
+
+Intro: A  A7  G  G7  F7+
+
+Am
+Quando não há compaixão
+
+Ou mesmo um gesto de ajuda
+F
+O que pensar da vida
+Am
+E daqueles que sabemos que amamos?
+     Dm
+Quem pensa por si mesmo é livre
+       F
+E ser livre é coisa muito séria
+
+       C
+Não se pode fechar os olhos
+       Eb
+Não se pode olhar pra trás
+             G
+Sem se aprender alguma coisa
+       F
+Pro futuro
+    C                     G/B        Am
+Corri pro esconderijo e olhei pela janela
+   F                            Em              Am
+O sol é um só mas que sabe são duas manhãs
+       Bb
+Não precisa vir se não for pra ficar
+F                       Eb               Bb
+Pelo menos uma noite e três semanas
+
+Solo: G
+
+C            G
+Nada é fácil, nada é certo
+       F            Am
+Não façamos do amor algo desonesto
+C                    G
+Quero ser prudente e sempre ser correto
+F                            Am
+Quero ser constante e sempre tentar ser sincero
+   C
+E queremos fugir
+G                         F       Am
+Mas ficamos sempre sem saber
+Am
+Seu olhar não conta mais estórias
+F                          Am
+Não brota o fruto e nem a flor
+   Dm                     F
+E nem o céu é belo e prateado
+
+           C
+E o que eu era eu não sou mais
+Eb                       G
+E não tenho nada pra lembrar
+C                     G/B
+Triste coisa é querer bem
+           Am        F
+A quem não sabe perdoar
+                       Em
+Acho que sempre lhe amarei
+       Am             Bb
+Só que não lhe quero mais
+             F
+Não é desejo,  nem é saudade
+Eb                 Bb
+    Sinceramente      nem é verdade
+
+Solo: G
+
+C                  G
+E eu sei porque você fugiu
+                      F    Am
+Mas não consigo entender
+C                 G
+E eu sei porque você fugiu
+                      F    Am
+Mas não consigo entender
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Eb = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

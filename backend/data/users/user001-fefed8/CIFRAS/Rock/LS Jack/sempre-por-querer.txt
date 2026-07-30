@@ -1,0 +1,123 @@
+@titulo: sempre-por-querer
+@autor:
+@intérprete: LS Jack
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+LS Jack - Sempre por querer
+
+Introdução: (A A4 A A4)
+
+A                 Bm
+  Você deixou sinais pelo caminho
+             C#m                   D        D9
+  Que eu não quis enxergar, fiz que não vi
+A                     Bm
+  Pequenos gestos tortos sem motivo
+       C#m                  D
+  Me diziam todo o tempo pra eu fugir
+
+
+   Bm
+  Avisos luminosos, meus alarmes
+          E
+  Que eu desligava sempre que tocavam
+      C#m                       D    D9
+  Por livre e meia estúpida vontade
+      Bm
+  Se agora eu cato a alma pelos cantos
+     E
+  A culpa não foi sua eu te garanto
+
+     C#m                   D
+  Eu sei e você não vai querer saber
+
+*/
+    C
+  A gente sempre sofre
+    D
+  A gente sofre sempre
+            A
+  Por querer
+
+*/
+
+
+A                       Bm
+  Me deixa aqui no escuro por enquanto
+     C#m                      D       D9
+  Eu sei que por um tempo, vai doer
+A                 Bm
+  Pode levar o seu olhar de espanto
+      C#m              D
+  É a única maneira de aprender
+
+
+   Bm
+  Avisos luminosos, meus alarmes
+          E
+  Que eu desligava sempre que tocavam
+      C#m                       D    D9
+  Por livre e meia estúpida vontade
+      Bm
+  Se agora eu cato a alma pelos cantos
+     E
+  A culpa não foi sua eu te garanto
+     C#m                   D
+  Eu sei e você não vai querer saber
+
+
+*/
+    C
+  A gente sempre sofre
+    D
+  A gente sofre sempre
+            A
+  Por querer
+    C
+  A gente sempre sofre
+    D
+  A gente sofre sempre
+            A
+  Por querer
+
+*/
+      Bm
+  Se agora eu cato a alma pelos cantos
+     E
+  A culpa não foi sua eu te garanto
+     C#m                   D
+  Eu sei e você não vai querer saber
+
+*/
+    C
+  A gente sempre sofre
+    D
+  A gente sofre sempre
+            A
+  Por querer
+    C
+  A gente sempre sofre
+    D
+  A gente sofre sempre
+            A
+  Por querer
+
+*/
+
+( C D )...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0

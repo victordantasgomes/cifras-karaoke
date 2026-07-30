@@ -1,0 +1,52 @@
+@titulo: sonda-me
+@autor:
+@intérprete: Thalles Roberto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Thalles Roberto - Sonda-me
+
+Intro: D#  F  Gm  Bb9  3x  D# F
+
+   Gm                    Cm7
+Senhor eu sei que tu me sondas
+ F4(7)  F7                 Bb9
+Sei também que me conhece
+Gm                   Cm7
+Se me assento ou me levanto
+ D                 Gm
+Conhece meus pensamentos
+ Gm                   Cm7
+Quer deitado ou quer andando
+ F4(7) F7                 Bb9
+Sabe   todos os meus passos
+Gm                    Cm7
+Antes que aja em mim palavras
+ D                    Gm
+Sei que em tudo me conhece
+
+ G7                      Cm7
+Senhor eu sei que tu me sondas
+
+ F4(7)  F7                  Bb9
+Senhor  eu sei que tu me sondas
+ Gm                      Cm7
+Senhor eu sei que tu me sondas
+    D                     D#    D
+Senhor, eu sei que tu me sondas.
+
+----------------- Acordes -----------------
+Bb9 = X 1 3 3 1 1
+Cm7 = X 3 5 3 4 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+F4(7) = 1 3 1 3 1 1
+F7 = 1 3 1 2 1 1
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

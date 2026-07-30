@@ -1,0 +1,73 @@
+@titulo: eu-adoro-minha-televisao
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Eu Adoro Minha Televisão
+
+intro: Em
+
+e|-------------------------
+B|-------------------------
+G|-------------------------2x
+D|-------2-----------------
+A|-------------------------
+E|--0-3-------0-3--0-------
+
+
+      Em
+Eu adoro a minha televisão
+Ela me conta as coisas como elas são
+Se as coisas vão mal
+É só mudar de canal
+     Em
+Eu adoro minha televisão
+Ela é: meus olhos, meu coração
+Estando triste ou contente
+O que eu sinto, ela sente
+       Am
+Eu prefiro ficar
+
+        Em
+Deitado no sofá
+           C           D
+Olhando a maravilhosa vida dos outros
+   A
+Passar
+     Em
+Eu adoro minha televisão
+Diante dela eu fico sem ação
+Ela me faz muito bem
+Eu não preciso de mais ninguém
+      Em
+Eu adoro a minha televisão
+Felicidade apertando um botão
+Vejo o que eu nunca vou ter
+Vejo quem eu nunca vou ser
+
+Eu prefiro ficar......
+
+solo: Em
+
+e|-------------------------
+B|-------------------------
+G|-------------------------2x
+D|-------2-----------------
+A|-------------------------
+E|--0-3-------0-3--0-------
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

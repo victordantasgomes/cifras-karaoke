@@ -1,0 +1,50 @@
+@titulo: no-principio
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - No Princípio
+
+Intro: Eb9  , C9  , Eb9  , C9   } 2 Vezes
+
+                    C9               Dm7
+No princípio criou Deus os céus e a terra
+   F9                                   G
+E tudo que eu posso ver foi Jesus quem fez
+     C9           G          C9          G
+Tudo isso e algo mais, tudo isso e algo mais,
+      C9          G          C9
+Tudo isso e algo mais, tudo isso
+
+ F9   Dm7         C9   Am7         Dm7  G
+Fez    todo firmamento, a lua e o sol, a terra e o
+ C9
+mar
+ F9   Dm7             C9   Am7               Dm7
+Fez   o homem a sua imagem, eu só espero a viagem
+          G7              C9           G7      C9
+De encontrar com meu Criador, meu Criador é Jesus
+          G       C9            G        C9
+Meu Salvador é Jesus, meu Algo Mais é Jesus
+
+
+
+SOLO: IGUAL A INTRODUÇÃO
+
+       Eb9     C9
+Final: Je-e-e-sus (está separado para ser melhor entendido)
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C9 = X 3 5 5 3 3
+Dm7 = X 5 7 5 6 5
+Eb9 = X 6 8 8 6 6
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

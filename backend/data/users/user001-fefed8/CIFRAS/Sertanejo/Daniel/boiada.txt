@@ -1,0 +1,95 @@
+@titulo: boiada
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Boiada
+
+(intro 2x) Am G F E
+
+ Am
+Tem boiada aqui, tem boiada ali
+                                          G
+Tem boiada por todo esse sertão
+                                           F
+Tem tropa arriada nesse estradão
+                                           E
+Dá pra ver de longe pelo poeirão
+
+ Am
+Toque de berrante tem madrinheiro
+                                          G
+Tem mula de trote, potro ligeiro
+                                       F
+Peão desgarrado sem paradeiro
+                                    E
+Esta é a vida de um boiadeiro
+
+ Am                    G
+Ei corre e cerca, atalha...É boi
+
+                     F
+Que se não espalha...É boi
+                   E
+E gado espalhado é trabalho dobrado
+
+Am                    G
+Ei corre e cerca, atalha...É boi
+                     F
+Que se não espalha...É boi
+                   E
+E gado espalhado é trabalho dobrado
+ Am       G       F E F
+E boi, e boi, e boi.
+
+(Intro 2x)
+
+ Am
+Para o gado aqui, desarreia a tropa
+                                              G
+Acende a fogueira, vê sê não enrola
+                                              F
+Que mágoa de boiadeiro só consola
+                                            E
+Com pinga da boa e moda de viola
+
+ Am
+Deixa a noite linda, toda estrelada
+                                                  G
+Cobrir com seu manto toda essa boiada
+                                                 F
+E amanhã bem cedo acorda a peonada
+                                                       E
+Quero a nuvem branca de gado na estrada
+
+Am                    G
+Ei corre e cerca, atalha...É boi
+                     F
+Que se não espalha...É boi
+                   E
+E gado espalhado é trabalho dobrado
+
+Am                    G
+Ei corre e cerca, atalha...É boi
+                     F
+Que se não espalha...É boi
+                   E
+E gado espalhado é trabalho dobrado
+ Am       G       F E F
+E boi, e boi, e boi.
+
+ Am                                       Dm E Am
+Tem boiada aqui, tem boiada ali.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

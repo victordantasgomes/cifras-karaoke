@@ -1,0 +1,107 @@
+@titulo: descompasso
+@autor:
+@intérprete: Nenhum de Nós
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nenhum de Nós - Descompasso
+
+Intro: (G  Em  A7)
+
+C
+As peças se encaixam com perfeição
+                                    D7/9
+Seu sorriso largo e pouco sincero
+C
+Suas palavras curvas de ilusão
+                                        D7/9
+Seu olhar milimetricamente distante
+
+Am
+Eu penso que estou próximo
+F#m                                   Bm
+Tanto que eu posso até te tocar
+               Em
+Mas eu sei que não devo
+           A
+Eu entendo os seus sinais
+               Em
+Eu sei que não devo
+
+           A
+Eu entendo os seus sinais
+
+                       G
+Um descompasso entre nós
+                    Em
+Você querendo que eu seja
+     A7
+Apenas mais um,
+     A7
+Apenas mais um
+
+                       G
+Um descompasso entre nós
+                    Em
+Você querendo que eu seja
+     A7
+Apenas mais um, e eu querendo
+               G           Em        A7
+Muito mais
+
+C
+Saímos tantas noites
+                                                 D7/9
+Bebemos e falamos alto demais
+C
+Quem nos olhasse assim de longe
+                                                                    D7/9
+Teria certeza que a gente até se divertia
+
+Am
+Mas quem chegasse mais perto
+F#m                              Bm
+Poderia até pensar que ali
+Em
+Existia amor entre as veias
+
+A
+Amor correndo entre nós
+Em
+Existia amor entre as teias
+A
+Amor correndo entre os nós
+
+                       G
+Um descompasso entre nós
+                    Em
+Você querendo que eu seja
+     A7
+Apenas mais um,
+     A7
+Apenas mais um
+
+                       G
+Um descompasso entre nós
+                    Em
+Você querendo que eu seja
+     A7
+Apenas mais um, e eu querendo
+               G           Em        A7
+Muito mais
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D7/9 = X 5 4 5 5 X
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

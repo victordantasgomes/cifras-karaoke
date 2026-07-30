@@ -1,0 +1,59 @@
+@titulo: agora-eu-sei-que-eu-te-amava
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Agora Eu Sei Que Eu Te Amava
+
+[Intro] C  G  Am  Em
+        F  C  D7  G7
+
+     C7M                                Em
+No começo você me queria e eu não te queria
+       F                                      G7   E7
+Eu brincava com seus sentimentos, zombava do amor
+     Am               G         Am                  G
+Eu sabia que você me amava, era fácil demais, nem ligava
+      Dm                                        G7
+Eu pensava que o mundo era meu e que eu era o maior
+
+       C7M                                    Em
+Quanto mais eu negava me dar, mais você me queria
+     F                         G7            E7
+Eu usei, abusei de você e você sempre ali
+        Am              G           Am                G
+Mas a roda do mundo nao para e a verdade é um soco na cara
+      Dm                                     G7
+Eu só vi que te amava na hora em que eu te perdi
+
+
+          C             E7             Am    Gm
+Eu me enganei, agora eu sei que eu te amava
+    C7   F7M            C           D4    G7
+Nao percebi e quando eu vi não dava mais
+     C            E7          Am
+Eu faria qualquer coisa pra poder voltar atrás
+         Dm                      G7
+Agora eu sei a falta que você me faz
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+C7M = X 3 2 0 0 X
+D4 = X X 0 2 3 3
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F7M = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

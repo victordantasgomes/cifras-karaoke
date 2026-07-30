@@ -1,0 +1,77 @@
+@titulo: o-chao-que-ela-pisa
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - O Chão Que Ela Pisa
+
+Intro:
+
+Base: F#5 B5 - 2x
+
+E|--------------------------------------------------------------------------------|
+B|---6p7-6-4-6-4-2-4-(2)----------------------------------------------------------|
+G|-------------------3-43-(3)-44-33----------------------------------------------| 2x
+D|-------------------------------------44-66--------------------------------------|
+A|--------------------------------------------------------------------------------|
+E|--------------------------------------------------------------------------------|
+
+F#5
+  Por trás de cada passo seu
+B5
+  Retratos e histórias
+C#5         D#5 C#5
+  Vão lembrar
+B5
+  Sempre estarei bem perto de você
+F#5
+  Por trás de cada passo seu
+
+B5
+  Sempre escuto as ruas
+C#5          D#5  C#5
+  Pra lembrar
+B5
+  O dia andamos junto por aqui
+D#5
+  em tardes tristes eu pensei
+C#5    B5
+  Onde foi que eu errei
+D#5
+  Mas um dia ruim
+C#5       B5
+  Andado só pelas ruas
+
+    B5
+   Se eu puder
+   F#5
+   Te encontrar
+   D#5
+   Qualquer hora em
+        C#5
+   Qualquer lugar
+   B5
+   Aonde vou estar
+
+Final:
+F#5 C#5 B5
+
+No finalzinho tem esse solinho (Enviado por Jamilie)
+E|-----------------------------------------------|
+B|-----------------------------------------------|
+G|-------------------3/43------------------------| 2x
+D|-------------------------4---------------------|
+A|---------------------------2-------------------|
+E|-----------------------------------------------|
+
+----------------- Acordes -----------------
+B5 = X 2 4 4 X X
+C#5 = X 4 6 6 X X
+D#5 = X 6 8 8 X X
+F#5 = 2 4 4 X X X

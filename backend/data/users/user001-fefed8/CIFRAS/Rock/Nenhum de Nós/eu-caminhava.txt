@@ -1,0 +1,55 @@
+@titulo: eu-caminhava
+@autor:
+@intérprete: Nenhum de Nós
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nenhum de Nós - Eu Caminhava
+
+(intro 2x) C D
+
+G
+Eu caminhava
+Minhas pernas se encontravam,se despediam
+C                D
+Vencendo cruzamentos,ganhando esquinas
+C                    D             G
+Chegando a lugares que de longe eu enxergava
+Um estranho,encostado na parede mostrou os braços
+C                     D
+Longos brancos braços marcados,ofereceu-lhe a prisão
+C            D                     G             Am D    G Am D
+Longos dias contados,entre um tiro e um espelho eu o deixei
+C              Am               D
+Eu caminhava e fingia que o tempo passava
+C              Am    D  (2x)
+Eu caminhava e fingia...
+
+(solo) G Em C D
+
+
+G                                 Em
+Eu caminhava e fingia que conhecia as pessoas
+                     C                        D              (2x)
+E fingia que gostava de alguém e fingia que o tempo passava
+
+(solo 2)  F Bm F Bm
+
+(intro 2x) C D
+
+C
+Eu caminhava...(refrão)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

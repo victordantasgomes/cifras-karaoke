@@ -1,0 +1,98 @@
+@titulo: retrato-pra-iaia
+@autor:
+@intérprete: Los Hermanos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Los Hermanos - Retrato Pra Iaiá
+
+[Intro] E7M  C#7  F#m7  B7
+
+E|--9-7-4--7-----------7---7---7----9-7-4-7-6-------------|
+B|-10-9-5----9-7-7-7h9---9---9---9-10-9-5--9-7-7-7h9------|
+G|---------------------------------------------------9-6--|
+D|--------------------------------------------------------|
+A|--------------------------------------------------------|
+E|--------------------------------------------------------|
+
+E7M   C#7       F#m7         B7
+    Iaiá se eu peco é na vontade
+E7M     C#7   F#m7        B7
+    De Ter um amor de verdade
+E7M      C#7   F#m7              B7
+    Pois é que assim em ti eu me atirei
+E7M   C#7    F#m7         B7
+          E fui te encontrar
+E7M      C#7   F#m7     B7   E7M   C#7  F#m7  B7
+    Pra ver   que eu me enganei
+
+E7M     F°           F#m7      G#7
+    Depois de ter vivido o óbvio utópico te beijar
+
+E7M       F°           F#m7          G#7
+    E de ter    brincado sobre a sinceridade e dizer
+A7M              Am6         E7M     F°
+    Quase tudo quanto fosse     natural
+F#m7                   G#7           G#7(#5)
+    Eu fui praí te ver     te dizer
+
+       E          G#                C#m      B
+Deixa ser como será quando a gente se encontrar
+    F#m            B               E
+No pé o céu de um parque a nos testemunhar
+       E          G#                C#m  B
+Deixa ser como será eu vou sem me preocupar
+    F#m            B               E
+E crer pra ver o quanto eu posso adivinhar
+
+( E7M  C#7  F#m7  B7 )
+
+E7M              F°               F#m7        G#7
+    De perto eu não quis ver que toda anunciação era vã
+E7M        F°            F#m7          G#7
+    Fui saber tão longe mesmo você viu antes de mim
+A7M                   Am6     E7M     F°
+   Que eu te olhando via uma outra mulher
+F#m7                  G#7                      G#7(#5)
+   E agora o que sobrou?   um filme no close pro fim
+E7M   C#7        F#m7   B7
+         Num retrato falado eu
+    E7M    C#7      F#m7   B7   E7M  C#7
+Fichado exposto em diagnóstico
+   F#m7       B7  E7M     C#7   F#m7  G#7    G#7(#5)
+Especialistas analisam e sentenciam  (oh não)
+
+       E          G#                C#m   B
+Deixa ser como será, tudo posto em seu lugar
+   F#m           B                   E
+Então tentar prever serviu pra eu me enganar
+       E          G#                 C#m   B
+Deixa ser como será, eu já posto em meu lugar
+     F#m           B          F#m                B
+Num continente ao revés, em preto e branco em hotéis
+ F#m                  B             E
+Numa moldura clara e simples sou aquilo que se vê
+
+[Final] E  G#  C#m  B
+        F#m  B  E
+
+----------------- Acordes -----------------
+A7M*  = X 0 2 1 2 0 - (*G#7M na forma de A7M)
+Am6*  = 5 X 4 5 5 X - (*G#m6 na forma de Am6)
+B*  = X 2 4 4 4 2 - (*A# na forma de B)
+B7*  = X 2 1 2 0 2 - (*A#7 na forma de B7)
+C#7*  = X 4 3 4 2 X - (*C7 na forma de C#7)
+C#m*  = X 4 6 6 5 4 - (*Cm na forma de C#m)
+E*  = 0 2 2 1 0 0 - (*D# na forma de E)
+E7M*  = X X 2 4 4 4 - (*D#7M na forma de E7M)
+F#m*  = 2 4 4 2 2 2 - (*Fm na forma de F#m)
+F#m7*  = 2 X 2 2 2 X - (*Fm7 na forma de F#m7)
+F°*  = X X 3 4 3 4 - (*E° na forma de F°)
+G#*  = 4 3 1 1 1 4 - (*G na forma de G#)
+G#7*  = 4 6 4 5 4 4 - (*G7 na forma de G#7)
+G#7(#5)*  = 4 X 4 5 5 4 - (*G7(#5) na forma de G#7(#5))

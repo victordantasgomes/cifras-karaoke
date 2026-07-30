@@ -1,0 +1,69 @@
+@titulo: tornado
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Tornado
+
+Intro 4x: A  D
+E|---9--9--10---9--9--10-9---------------------------------|
+B|---10-10-10---10-10------12-10---------------------------|
+G|-------------------------------11-9----9-----------------|
+D|------------------------------------12---11--------------|
+A|---------------------------------------------------------|
+E|---------------------------------------------------------|
+
+E|---9--9--10-----4h5-5-5h7-5--9--9------------------------|
+B|---10-10-10-----4h5-5-5h7-5--10-10-----------------------|
+G|-------------------------------------11-9-7-9-11-9-7-9-6-|
+D|---------------------------------------------------------|
+A|---------------------------------------------------------|
+E|---------------------------------------------------------|
+
+A                   E
+Você não vale nada, mais eu te quero bem
+F#m                      D
+Vale menos que um real, mais pra mim vale cêm
+A                      E
+Não quero seu passado, só quero seu presente
+
+F#m                 D                A
+Fazer nosso futuro pensar no bem da gente
+
+G                     D                  A
+Nesse momento estou a ponto de te assumir
+G                  D                       E
+Decida de uma véz, que rumo você quer seguir
+
+Refrão:
+  A
+É amor, o que eu sinto por você não tem tamanho não
+C#m                                    D
+Tem a força de um tornado no meu coração
+                     Bm                   E
+E os meu olhos vão chorando feito cachoeira
+     A                                           C#m
+Solidão, tá rasgando o meu peito, não dá pra aguentar
+                                        D
+Tá queimando feito brasa, não vou suportar
+               Bm                    E
+Não posso continuar, já virou brincadeira
+               A     A
+Viver dessa maneira
+
+( G D A ) (2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

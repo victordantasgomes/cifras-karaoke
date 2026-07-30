@@ -1,0 +1,44 @@
+@titulo: amor-perfeito
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Amor Perfeito
+
+[Intro]  D  A  G  D  A  G  D  A
+
+E|-10-------10-9------9-7-----7-5-----5-9------9-7-----7-5-----5-9~----|
+B|----10---------10-------8-------7-------10-------8-------7-----------|
+G|-------11---------9-------7-------7--------9-------7-------7---------|
+D|---------------------------------------------------------------------|
+A|---------------------------------------------------------------------|
+E|---------------------------------------------------------------------|
+
+         D                       G                       A                   D   A
+Amor perfeito existia entre nós dois, sem esperar que depois fosse tudo se acabar
+        D                                  G                      A                    D   A
+Mas neste mundo em que o perfeito não tem vida, não merecemos querida viver juntos e amar
+          D                    G                      A                     D  A
+Nosso senhor para sempre te levou nem ao menos me deixou o fruto do nosso amor
+     D                       G                     A                          D  D7
+Aquele filho seria a nossa alegria, eu senti naquele dia ser um pai, ser o Senhor
+       G                                           A                      D  A
+No hospital, na sala de cirurgia, pela vidraça eu via você sofrendo a sorrir
+       D                        G                      A                          D  D7
+E seu sorriso aos poucos se desfazendo, então vi você morrendo sem poder me despedir
+       G                                           A                      D  A
+No hospital, na sala de cirurgia, pela vidraça eu via você sofrendo a sorrir
+       D                        G                      A                        D
+E seu sorriso aos poucos se desfazendo, então vi você morrendo sem poder me despedir
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3

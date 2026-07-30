@@ -1,0 +1,128 @@
+@titulo: o-amor-do-nosso-deus
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - O Amor do Nosso Deus
+
+INTRO: || D | D/C | G/B | Gm ||
+
+D            A/C#       Bm7  Bm7/A
+Jesus deixou toda Sua glória,
+G             D/F#         G/B         A/C#
+Veio ao mundo como homem pra nos salvar!
+D             A/C#            Bm7  Bm7/A
+Viveu aqui e conheceu nossas dores,
+     G          D/F#              Em7      A/C#
+Mas tudo Ele sofreu e venceu em nosso lugar
+
+     G                A/G         Em7   A/C#  A
+Pra nos mostrar que o criador, o único Deus,
+    D       A/C#        D/B  D/A
+Nos ama e deseja restaurar.
+        G       A/G
+Seu perdão vai além dos céus,
+        A#º         Bm7
+Nenhum monte é tão alto,
+        G          D/F#          Em7     G/A    G/B  A/C# A
+Nenhum vale tão profundo como o amor do nosso Deus!
+
+
+
+ D                   A/C#
+Grande, tão grande, alto, tão alto!
+D/B       G2      Em7           A4   A
+Fundo, profundo, é maior que o mundo,
+ D              A             A#º
+Mas é pequeno, cabe lá dentro
+Bm7     G2         A     G/B      A/C#  D/C  G/B D/B Gm/A G/A
+Do coração de quem se entrega ao Salvador.
+
+ D
+Jesus deixou...
+
+D                    A/C#
+Grande, tão grande, alto, tão alto!
+D/B       G2      Em7           A4   A
+Fundo, profundo, é maior que o mundo,
+ D              A             A#º
+Mas é pequeno, cabe lá dentro
+Bm7     G2         A     G/B     A/C#  D  D/B D/G G/A A C/E D
+Do coração de quem se entrega ao Salvador.
+
+G                 D/F#
+Você também, meu amigo,
+   Em7                D   D/F#
+Precisa abrir o seu coração
+   G         G/A
+E receber o amor de Deus,
+        G/B     A    D  A/B B
+Se entregando a Jesus.
+
+
+E                   B/D#
+Grande, tão grande, alto, tão alto!
+ E/C#      A     F#m7           B4  B
+Fundo, profundo, é maior que o mundo,
+ E              B            Cº
+Mas é pequeno, cabe lá dentro
+C#m7    A           B     A/C#    B/D#   A  B
+Do coração de quem se entrega ao Salvador.
+
+E                   B/D#
+Grande, tão grande, alto, tão alto!
+ E/C#      A     F#m7           B4  B
+Fundo, profundo, é maior que o mundo,
+ E              B            Cº
+Mas é pequeno, cabe lá dentro
+C#m7    A           B     F#m      A/B   E
+Do coração de quem se entrega ao Salvador.
+
+
+        A       B/A
+Seu perdão vai além dos céus,
+        Cº         C#m7
+Nenhum monte é tão alto,
+        A           E/G#         F#m7     A/B    E
+Nenhum vale tão profundo como o amor do nosso Deus!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#º = X 1 2 0 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+A4 = X 0 2 2 3 0
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+B/D# = X 6 X 4 7 7
+B4 = X 2 4 4 5 2
+Bm7 = X 2 4 2 3 2
+Bm7/A = 5 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+C/E = 0 3 2 0 1 0
+Cº = X 3 4 2 4 2
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/B = X 2 0 2 3 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D/G = 3 X X 2 3 2
+E = 0 2 2 1 0 0
+E/C# = X 4 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em7 = 0 2 2 0 3 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G2 = 3 X 0 2 0 X
+Gm = 3 5 5 3 3 3
+Gm/A = 5 X 5 3 3 X

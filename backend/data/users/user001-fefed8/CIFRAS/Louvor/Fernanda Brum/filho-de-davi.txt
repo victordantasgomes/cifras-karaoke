@@ -1,0 +1,35 @@
+@titulo: filho-de-davi
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Filho de Davi
+
+          E               G#m            A9       B9
+Ele não mudou, ele é o mesmo Deus que cura... que cura
+          E               G#m          A9          B9
+Ele não mudou, ele é o mesmo Deus que cura... que cura
+
+           C#m   A               E/G#    B
+Filho de Davi        tenha compaixão de mim
+           C#m    A               E/G#    B
+Filho de Davi        tenha compaixão de mim
+
+Ministração: C#m  A  E9  B9
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E9 = 0 2 4 1 0 0
+G#m = 4 6 6 4 4 4

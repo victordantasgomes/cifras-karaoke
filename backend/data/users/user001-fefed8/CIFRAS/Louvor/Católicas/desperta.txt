@@ -1,0 +1,41 @@
+@titulo: desperta
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Desperta
+
+[intro] C  F  G
+
+    C               Em7                      F                  G        F                   G              C     Am
+Levanta, és Igreja também! E Deus quer fazer uma obra acontecer na tua vida
+G      C                     Em7          F                     G
+    Desperta tu que dormes, e a luz do Senhor
+           F                   G           C
+Encherá de esplendor a tua vida
+G/B     Am               Em         Am            Em
+Somos povo de Deus, Ele espera de nós
+              F                  G4    G#º
+Uma resposta, nosso sim
+            Am             Em7      Am         Em7
+Somos povos de Deus, Ele luta por nós
+         F  Dm                  C
+E a vitória já foi conquistada
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G#º = 4 X 3 4 3 X
+G/B = X 2 0 0 3 3
+G4 = 3 5 5 5 3 3

@@ -1,0 +1,67 @@
+@titulo: quando-uniam-se-os-musicos
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Quando Uniam-se Os Músicos
+
+ E            B/D#    F#m            C#m
+Foi num santo lugar   que a alegria chegou
+E            B   A  C#m             B  (B9  B4  B)
+Celebravam a festa  na presença de Deus
+E        B/D#     F#m           C#m
+Harmonia assim   ninguém jamais ouviu
+E                  B    A    C#m        B     A/B
+Quando uniam-se os músicos entoando o louvor (x2)
+
+F#m               G#m                C#m    A
+Todo o templo se enchia da glória de Deus
+F#m               G#m                C#m   (A  B)
+Todo o templo se enchia da glória de Deus
+
+Refrão:
+E            B/D#        C#m         G#m
+Rendei graças ao Senhor porque ele é bom
+A            E    F#m   C#m   (B4 B  A/C#  B/D#)
+Exaltai seu nome porque vivo   está
+E          B/D#        C#m     G#m
+Infinito é seu amor... Quem o poderá medir?
+
+A                  E        F#m       B7(4)  B7  A/B
+Nunca em toda a história   houve amor assim
+
+F#m               G#m                C#m    A
+Todo o templo se enchia da glória de Deus
+F#m               G#m                C#m   (A  B)
+Todo o templo se enchia da glória de Deus (x2)
+
+Refrão:
+E            B/D#        C#m         G#m
+Rendei graças ao Senhor porque ele é bom
+A            E    F#m   C#m   (B4 B  A/C#  B/D#)
+Exaltai seu nome porque vivo   está
+E          B/D#        C#m     G#m
+Infinito é seu amor... Quem o poderá medir?
+A                  E        F#m       B7(4)  B7  A/B
+Nunca em toda a história   houve amor assim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B4 = X 2 4 4 5 2
+B7 = X 2 1 2 0 2
+B7(4) = X 2 4 2 5 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

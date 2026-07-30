@@ -1,0 +1,215 @@
+@titulo: tudo-que-vai
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Tudo Que Vai
+
+(solo intro)
+
+(1ª parte)
+   A                 Bm/A
+E|----------9-------------------10----------|
+B|-----10-----10----------12-------12-------|
+G|---9----9------9-9---11----11-------11-11-|
+D|------------------------------------------|
+A|-0-----------------0----------------------|
+E|------------------------------------------|
+
+(2ª parte)
+   D                    Dm7(6)
+E|------------12-10----------------7--------|
+B|------10----------12-10------6-----6------|
+G|---11----11----------------7---7-----7-7--|
+D|-0-----------------------0----------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+(3ª parte)
+
+   A                   Bm/A
+E|----------10h9-----------------10---------|
+B|-----10-------10----------12-----12-------|
+G|---9----9--------9-9---11----11-----11-11-|
+D|------------------------------------------|
+A|-0-------------------0--------------------|
+E|------------------------------------------|
+
+(4ª parte)
+   D                      Dm7(6)
+E|------------12-10---------7---------------|
+B|------10----------12-10---6---------------|
+G|---11----11---------------5---------------|
+D|-0------------------------0---------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+(primeira parte)
+ A9       A7M(9)
+Hoje é o dia
+     D               Dm
+Eu quase posso tocar o silêncio
+   A9     A7M(9)
+A casa vazia
+ D                  Dm
+Só as coisas que você não quis
+    A9          A7M(9)
+Me fazem companhia
+    D
+Eu fico à vontade
+       Dm             Bm       D
+Com a sua ausência aaaahhhh...
+           Bm        D         Dm
+Eu já me acostumei a esquecer
+
+(refrão)
+          A9
+Tudo que vai
+         A5+(9)          D7M
+Deixa o gosto, deixa as fotos
+  E           A9
+Quanto tempo faz
+          A5+(9)           D7M
+Deixa os dedos, deixa a memória
+    E
+Eu nem me lembro
+
+(segunda parte)
+ A9       A7M(9)
+Salas e quartos
+ D                   Dm
+Somem sem deixar vestígio
+     A9         A7M(9)
+Seu rosto em pedaços
+ D                   Dm
+Misturado com o que não sobrou
+     A9       A7M(9)
+Do que eu sentia
+    D                        Dm    Bm
+Eu lembro dos filmes que eu nunca vi
+D           Bm             D         Dm
+  Passando sem parar em algum lugar
+
+(refrão)
+          A9
+Tudo que vai
+         A5+(9)          D7M
+Deixa o gosto, deixa as fotos
+  E           A9
+Quanto tempo faz
+          A5+(9)           D7M
+Deixa os dedos, deixa a memória
+    E             A9
+Eu nem me lembro mais
+
+        A5+(9)          D7M
+Fica o gosto, ficam as fotos
+  E           A9
+Quanto tempo faz
+          A5+(9)          D7M
+Ficam os dedos, fica a memória
+    E
+Eu nem me lembro mais
+
+(repete intro com partes invertidas)
+
+(3ª parte)
+   A                    Bm/A
+E|----------10h9-----------------10---------|
+B|-----10-------10----------12-----12-------|
+G|---9----9--------9-9---11----11-----11-11-|
+D|------------------------------------------|
+A|-0-------------------0--------------------|
+E|------------------------------------------|
+
+(4ª parte)
+   D                      Dm7(6)
+E|------------12-10---------7---------------|
+B|------10----------12-10---6---------------|
+G|---11----11---------------5---------------|
+D|-0------------------------0---------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+(terceira parte)
+
+"Quanto tempo eu já nem sei..."
+
+(1ª parte)
+   A                  Bm/A
+E|----------9-------------------10----------|
+B|-----10-----10----------12-------12-------|
+G|---9----9------9-9---11----11-------11-11-|
+D|------------------------------------------|
+A|-0-----------------0----------------------|
+E|------------------------------------------|
+
+(2ª parte)
+   D                    Dm7(6)
+E|------------12-10----------------7--------|
+B|------10----------12-10------6-----6------|
+G|---11----11----------------7---7-----7-7--|
+D|-0-----------------------0----------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+        A                Bm/A
+Quanto tempo, eu já nem sei
+              D  Dm6
+mais o que é meu
+      A        A5-  A11  Dm7
+Nem quando, nem onde
+
+(refrão)
+          A9
+Tudo que vai
+         A5+(9)          D7M
+Deixa o gosto, deixa as fotos
+  E           A9
+Quanto tempo faz
+          A5+(9)           D7M
+Deixa os dedos, deixa a memória
+    E             A9
+Eu nem me lembro mais
+
+        A5+(9)             D7M
+Fica o gosto, ficam as fotos
+  E           A9
+Quanto tempo faz
+          A5+(9)          D7M
+Ficam os dedos, fica a memória
+    E             A9
+Eu nem me lembro mais
+    A5+(9)        D7M
+Eu nem me lembro mais
+    E             A9
+Eu nem me lembro mais
+    A5+(9)        D7M
+Eu nem me lembro mais
+    E
+Eu nem me lembro mais
+
+(repete intro)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 X
+A11 = X 0 0 2 2 0
+A5+(9) = X 0 7 6 6 7
+A5- = X 0 1 2 2 0
+A7M(9) = X 0 6 6 0 4
+A9 = X 0 7 6 0 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 X 11 12 10
+D = X X 0 2 3 2
+D7M = X 5 7 6 7 5
+Dm = X X 0 2 3 1
+Dm6 = X X 0 7 6 7
+Dm7 = X X 0 2 1 1
+Dm7(6) = X X 0 5 6 7
+E = 0 2 2 1 0 0

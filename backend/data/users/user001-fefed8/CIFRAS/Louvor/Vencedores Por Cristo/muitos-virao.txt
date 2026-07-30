@@ -1,0 +1,56 @@
+@titulo: muitos-virao
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Muitos Virão
+
+C              C7/9+   F/C     Dm7
+De  todas  as  tribos  povos  e  raças
+ C        C7/9+      F/C
+Muitos  virão  te  louvar.
+      C       C7/9+      F/C    G7/4 G7
+De  tantas  culturas, língua  e  nações,
+      Dm            Bb       F         G7(4)  G7
+No  tempo  e  no  espaço  virão  te  adorar.
+
+Refrão:
+C                C7/9+    F     Em
+Bendito  seja  sempre  o  cordeiro,
+ Am         Am/G           G7/4  G7
+Filho  de  deus  raiz  de  davi.
+C                C7/9+         F
+Bendito  seja  sempre  o  seu  nome
+  Am     Am/G  F G7/4 G7  C
+Cristo  jesus, presente     aqui.
+
+C           C7/9+      F     G7/4  G7
+Remidos, comprados, grande  multidão,
+ C         C7/9+      F
+Muitos  virão  te  louvar
+ C       C7/9+         F      G7/4 G7
+Povo  escolhido, teu  reino  e  nação
+     Dm             Bb      F/A       G7/4 G7
+No  tempo  e  no  espaço  virão  te  adorar.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C7/9+ = X 3 2 3 4 X
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F/C = X 3 3 2 1 1
+G7 = 3 5 3 4 3 3
+G7(4) = 3 5 3 5 3 X
+G7/4 = 3 5 3 5 3 X

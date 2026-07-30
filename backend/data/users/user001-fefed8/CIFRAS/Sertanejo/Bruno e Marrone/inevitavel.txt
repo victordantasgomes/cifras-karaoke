@@ -1,0 +1,165 @@
+@titulo: inevitavel
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Inevitável
+
+[Intro] C  G  F
+        C  G  Bb9  F  G
+
+E|----------------------------------------------------|
+B|-6-6-6-6-----5-5~-----5-5-5-5--3-3~-----------------|
+G|-5-5-5-5-----5-5~-----5-5-5-5--4-4~-----------------|
+D|-5-5-5-5-----5-5~-----5-5-5-5--5-5~-----------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|----------------------------3-----------------------|
+B|----3-3h5---1-1~------------3-----------------------|
+G|----4-4-4---2-2~---------4--------------------------|
+D|----5-5-5---3-3~----3/5-----------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+[Primeira Parte]
+
+      C
+É animal
+
+
+É tão voraz
+          F  F4  F
+Essa paixão
+        C
+É vendaval
+
+Me tira a paz
+          F  F4  F
+Faz confusão
+          G
+Chega dá medo
+           F               C   Bb9  F  G
+Sabe o segredo do meu coração
+
+[Segunda Parte]
+
+            C
+É sempre assim
+
+Sem avisar
+            F
+Me surpreende
+            C
+Demais pra mim
+  G/B        Am
+Quando, sei lá
+  Am/G      F    F4  F
+Chega e me rende
+      G            F    G        C
+Me devora, depois some, a alma chora
+
+[Refrão]
+
+C                       Em
+É inevitável te amar assim
+                                  F
+Quantas vezes digo não mas lá no fim
+ G            C
+Sempre me entrego
+
+                           Em
+É inevitável o poder da paixão
+                                   F   G
+Se tento esquecer lá dentro o coração
+      C           G          C
+Fica surdo, fica mudo, fica cego
+
+[Solo] Ab  F  C  Ab  F  C  F  G
+
+E|----------------------------------------------------|
+B|---------------------------------6-5---6-5---6-5----|
+G|------------------------10~------5-5---5-5---5-5----|
+D|-10p8--------------8/10-10~-------------------------|
+A|------11-8----8h11----------------------------------|
+E|-----------11---------------------------------------|
+
+E|----------------------------------------------------|
+B|-8-8-8-8-8-8----------------------------------------|
+G|-5-5-5-5-5-5----------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|-------------------------------7-7-10p7-------------|
+B|-------------------------------8--------8/10/8~-----|
+G|------------------------10~----7--------------------|
+D|-10p8--------------8/10-10~-------------------------|
+A|------11-8----8h11----------------------------------|
+E|-----------11---------------------------------------|
+
+[Segunda Parte]
+
+            C
+É sempre assim
+
+Sem avisar
+            F
+Me surpreende
+            C
+Demais pra mim
+  G/B        Am
+Quando, sei lá
+  Am/G      F    F4  F
+Chega e me rende
+      G            F    G        C
+Me devora, depois some, a alma chora
+
+[Refrão]
+
+C                       Em
+É inevitável te amar assim
+                                  F
+Quantas vezes digo não mas lá no fim
+ G            C
+Sempre me entrego
+
+                           Em
+É inevitável o poder da paixão
+                                   F   G
+Se tento esquecer lá dentro o coração
+      C           G          C
+Fica surdo, fica mudo, fica cego
+
+C                       Em
+É inevitável te amar assim
+                                  F
+Quantas vezes digo não mas lá no fim
+ G            C
+Sempre me entrego
+
+                           Em
+É inevitável o poder da paixão
+                                   F   Fm
+Se tento esquecer lá dentro o coração
+      C           G          C
+Fica surdo, fica mudo, fica cego
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F4 = 1 3 3 3 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

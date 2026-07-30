@@ -1,0 +1,62 @@
+@titulo: nos-o-vimos
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - Nós o Vimos
+
+A9             A7+(9)   D9/A     E                F#m
+Homens de toda Terra, ouvi as palavras que vou dizer:
+  E          D9/F#     A9     E4        F#m
+Alegre-se o vosso coração! Exulte vossa língua!
+   C#m          D          F#m   E4  E
+Repouse na esperança vossa carne.
+
+F#m                E     D              A9
+Tu que anda nas trevas, vê esta grande Luz!
+F#m                 A9   E            E/B
+Toca as Chagas gloriosas, recebe a Vida!
+            F#m            E            D     A9
+Dize-me, ó morte, onde estás? Qual a tua vitória?
+D9/B                 A/C#             G         E
+Pelo Rei da Glória fostes vencida na Cruz (na Cruz).
+
+
+  A/C# A/D     A    E/G#              F#m  E        A9
+Jesus  ressuscitou! Disto somos testemunhas, nós o vimos!
+         A/D        A9        E/G#       F#m E
+Ele é Cristo e Senhor, Majestoso! Glorioso!
+
+             F#m  E
+Príncipe da Paz! (Repete tudo + refrão 2x)
+
+   A/C# A/D     A    E/G#              F#m  E        A9
+Jesus ressuscitou! Disto somos testemunhas, nós o vimos!
+         A/D      A9        E/G#                F#m E
+Ele é Cristo e Senhor, admirável de Força invencível,
+             F#m  E
+Príncipe da Paz!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/D = X X 0 6 5 5
+A7+(9) = X 0 2 1 0 0
+A9 = X 0 2 2 0 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D9/A = X 0 X 2 3 0
+D9/B = X 2 0 2 3 0
+D9/F# = 2 X 0 2 3 0
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

@@ -1,0 +1,145 @@
+@titulo: dia-lugar-e-hora(simplificada)
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Dia, Lugar e Hora
+
+Intro: ( E  Am  E  Am  E  A )
+       ( E  A )
+
+Primeira Parte:
+      E
+Se a moça do café não demorasse tanto
+               E7
+Pra me dar o troco
+             A
+Se eu não tivesse
+
+Discutido na calçada
+                 Am
+Com aquele cara louco
+                       E
+E ó que eu nem sou de rolo
+
+       E
+Se eu não tivesse atravessado
+                         E7
+Aquela hora no sinal vermelho
+
+             A
+Se eu não parasse bem na hora do almoço
+                Am
+Pra cortar o cabelo
+                       E
+E ó que eu nem sou vaidoso
+
+Pré-refrão:
+    E         B
+Eu não teria te encontrado
+    Bm            E
+Eu não teria me apaixonado
+    A
+Mas   aconteceu
+             Am            E  B
+Foi mais forte que eu e você
+
+Aí eu disse
+
+Refrão:
+ E                     F#m
+Quer que eu faça um café?
+               B
+Ou faça minha vida
+                C#m
+Se encaixar na sua?
+  B            A
+Aqui mesmo na rua
+  E           F#m
+Era pra ser agora
+                    A
+Quando é pra acontecer
+     B
+Tem dia, lugar e tem hora
+
+Intro: ( E  Am  E  Am  E  A )
+       ( E  A  E )
+
+Primeira Parte:
+       E
+Se eu não tivesse atravessado
+                         E7
+Aquela hora no sinal vermelho
+             A
+Se eu não parasse bem na hora do almoço
+                Am
+Pra cortar o cabelo
+                       E
+E ó que eu nem sou vaidoso
+
+Pré-refrão:
+    E         B
+Eu não teria te encontrado
+    Bm            E
+Eu não teria me apaixonado
+    A
+Mas   aconteceu
+             Am            E  B
+Foi mais forte que eu e você
+
+Aí eu disse
+
+Refrão:
+ E                     F#m
+Quer que eu faça um café?
+               B
+Ou faça minha vida
+                C#m
+Se encaixar na sua?
+  B           A
+Aqui mesmo na rua
+  E           F#m
+Era pra ser agora
+                    A
+Quando é pra acontecer
+     B
+Tem dia, lugar e tem hora
+B
+Eu disse
+
+ E                     F#m
+Quer que eu faça um café?
+               B
+Ou faça minha vida
+                C#m
+Se encaixar na sua?
+  B            A
+Aqui mesmo na rua
+  E           F#m
+Era pra ser agora
+                    A
+Quando é pra acontecer
+     B
+Tem dia, lugar e tem hora
+
+Intro: ( E  Am  E  Am  E  A )
+       ( E  A  E )
+
+      E
+Se a moça do café não demorasse tanto
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

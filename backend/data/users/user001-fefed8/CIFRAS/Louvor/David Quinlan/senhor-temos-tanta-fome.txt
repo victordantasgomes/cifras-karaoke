@@ -1,0 +1,33 @@
+@titulo: senhor-temos-tanta-fome
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Senhor Temos Tanta Fome
+
+
+     E               A7M(9)   A
+  Senhor temos tanta fo   -   me, de ti
+E            A7M(9)    A
+  Temos Tanta Se   -   de, de ti
+    E/G#    A     E/G#    A
+  De ti, De ti, De ti, De ti...
+
+      E            A7M(9)    A
+  Oh Lord, We're so Hun  -  gry, for you
+E           A7M(9)      A
+  We're so thirs   -   ty, for you
+     E/G#      A       E/G#      A
+  For you, for you, for you, for you...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7M(9) = X 0 2 1 0 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X

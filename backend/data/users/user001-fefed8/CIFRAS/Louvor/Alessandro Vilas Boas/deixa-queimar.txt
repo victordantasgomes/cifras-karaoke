@@ -1,0 +1,78 @@
+@titulo: deixa-queimar
+@autor:
+@intérprete: Alessandro Vilas Boas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Alessandro Vilas Boas - Deixa Queimar
+
+[Intro] G  G/B  Em7  C
+
+G         D           Em7
+  Ouvi o meu Senhor bater na porta
+       C9
+E o meu coração queimou
+G         D           Em7
+  Ouvi o meu Senhor bater na porta
+     C9
+E o meu coração queimou
+
+G              D
+  Eu não vou parar
+      Em7                     C9
+Gastarei minha vida aos teus pés
+G              D
+ Eu não vou parar
+     Em7                     C9
+Gastarei minha vida aos teus pés
+
+Em7                                 D/F#
+ Eu tenho fogo cerrado em meu peito
+
+                 G                   C9
+Que não me dá descanso eu não tenho descanso
+Em7                                 D/F#
+ Eu tenho fogo cerrado em meu peito
+                G                    C9
+Que não me dá descanso eu não tenho descanso
+
+G/D
+  Deixa queimar, deixa queimar
+D/F#
+  Deixa queimar, deixa queimar
+Em7                           C
+  Deixa queimar, deixa queimar
+G
+  Deixa queimar, deixa queimar
+D/F#
+  Deixa queimar, deixa queimar
+Em7                           C
+  Deixa queimar, deixa queimar
+
+G
+  Larará larararará
+D
+  Larará larararará
+Em7                 C
+  Larará larararará
+G
+  Larará larararará
+D
+  Larará larararará
+Em7                 C
+  Larará larararará
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X

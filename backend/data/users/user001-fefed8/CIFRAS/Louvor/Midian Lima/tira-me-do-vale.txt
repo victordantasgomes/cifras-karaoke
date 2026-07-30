@@ -1,0 +1,135 @@
+@titulo: tira-me-do-vale
+@autor:
+@intérprete: Midian Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Midian Lima - Tira-me do Vale
+
+[Intro]  C#m  E  A  B
+         C#m  E  A  B
+
+              E               C#m
+Eu sei que errei, sei que pequei
+           F#m           B
+Ninguém é santo como ele é
+             E               C#m
+Sei que sou barro, vaso quebrado
+     F#m                G#7
+Mas Deus me colocou de pé
+      C#m
+O inimigo foi envergonhado
+           Cm#7            F#7
+Não sou escrava do Egito jamais
+           F#m              B
+Os meus pecados ele perdoou
+                    E
+Há dois mil anos atrás
+
+            F#m7  B/D#
+Tira-me do vale
+
+               G#m  C#m7
+Vale de ossos secos
+         F#m7
+Tira-me do vale
+          B              C#m7
+Pois eu quero ouvir tua voz
+            F#m7  B
+Tira-me do vale
+               G#m  C#m7
+Vale de ossos secos
+            F#m7
+Tira-me do vale
+        B                 C#m7
+Eu era cego mas agora eu vejo
+
+( E  A  B )
+
+              E               C#m
+Eu sei que errei, sei que pequei
+           F#m           B
+Ninguém é santo como ele é
+             E               C#m
+Sei que sou barro, vaso quebrado
+ F#m                    G#7
+Mas Deus me colocou de pé
+      C#m
+O inimigo foi envergonhado
+           Cm#7            F#7
+Não sou escrava do Egito jamais
+           F#m             B
+Os meus pecados ele perdoou
+                    C  D  E  C#m
+Há dois mil anos atrás
+
+            F#m7  B/D#
+Tira-me do vale
+               G#m  C#m7
+Vale de ossos secos
+         F#m7
+Tira-me do vale
+          B              C#m7
+Pois eu quero ouvir tua voz
+            F#m7  B
+Tira-me do vale
+               G#m  C#m7
+Vale de ossos secos
+            F#m7
+Tira-me do vale
+        B                 C#m7
+Eu era cego mas agora eu vejo
+
+[Solo]  Em  G  C  D  Em  G  C  F
+
+            Gm7  C
+Tira-me do vale
+               Am7  Dm7
+Vale de ossos secos
+            Gm7  C
+Tira-me do vale
+          Dm7
+Pois eu quero ouvir tua voz
+            Gm7  C
+Tira-me do vale
+               Am7  Dm7
+Vale de ossos secos
+            Gm7
+Tira-me do vale
+        C                  Dm7
+Eu era cego mais agora eu vejo
+
+[Final]  Dm  F  Bb  C
+         Dm  F  Bb  C  Dm
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Ab = 4 3 1 1 1 4
+Abm = 4 6 6 4 4 4
+Abm7 = 4 X 4 4 4 X
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F/C = X 3 3 2 1 1
+F6 = 1 X 0 2 1 X
+G = 3 2 0 0 0 3
+Gm7 = 3 X 3 3 3 X

@@ -1,0 +1,116 @@
+@titulo: se-ela-voltar
+@autor:
+@intérprete: Gustavo Mioto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gustavo Mioto - Se Ela Voltar
+
+[Intro] C#m  B  A
+
+ C#m            B             A         E
+Meu violão tá cheio de pó, jogado no porão
+     C#m           B
+Não posso ouvir, Bruno e Chitão
+     A             E
+Que dói o meu coração
+        A             E
+Porque lembro de nós dois
+     C#m                  B
+Briguei com o carteiro semana passada
+     A               E
+Porque ele trouxe aqui
+ C#m                 B
+Teu nome escrito na conta de água
+    A              E
+Chorei quando recebi
+        A              E
+Porque lembrei de nós dois
+
+
+    B                    A       E
+Desculpa, carteiro, ela saiu daqui
+   B                   A         E
+Mudou de endereço, nunca mais a vi
+           C#m  B           A
+Até emagreci e nunca mais saí
+           C#m  B
+Até emagreci
+
+    A                     E
+Alguém, outro rosto, não vai me ganhar
+   C#m               B
+Sozinho em casa não vai melhorar
+    A                     E
+Alguém, outro rosto, não vai me ganhar
+   C#m               B
+Sozinho em casa não vai melhorar
+
+               C#m      B  A                E
+Mas se ela voltar, meu violão vai desempoeirar
+           C#m       B     A
+Se ela voltar, Bruno e Chitão
+Vão cansar de cantar
+
+( C#m  B  A  E/B  E )
+( C#m  B  A  E/B  E )
+
+ C#m            B             A         E
+Meu violão tá cheio de pó, jogado no porão
+     C#m           B
+Não posso ouvir, Bruno e Chitão
+     A             E
+Que dói o meu coração
+        A             E
+Porque lembro de nós dois
+     C#m                  B
+Briguei com o carteiro semana passada
+     A               E
+Porque ele trouxe aqui
+ C#m                 B
+Teu nome escrito na conta de água
+    A              E
+Chorei quando recebi
+        A              E
+Porque lembrei de nós dois
+
+    B                    A       E
+Desculpa, carteiro, ela saiu daqui
+   B                   A         E
+Mudou de endereço, nunca mais a vi
+           C#m  B           A
+Até emagreci e nunca mais saí
+           C#m  B
+Até emagreci
+
+    A                     E
+Alguém, outro rosto, não vai me ganhar
+   C#m               B
+Sozinho em casa não vai melhorar
+    A                     E
+Alguém, outro rosto, não vai me ganhar
+   C#m               B
+Sozinho em casa não vai melhorar
+
+               C#m      B  A                E
+Mas se ela voltar, meu violão vai desempoeirar
+           C#m       B     A
+Se ela voltar, Bruno e Chitão
+                  E
+Vão cansar de cantar
+         C#m  B A E
+Pra nós dois
+         C#m  B A E
+Pra nós dois
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0

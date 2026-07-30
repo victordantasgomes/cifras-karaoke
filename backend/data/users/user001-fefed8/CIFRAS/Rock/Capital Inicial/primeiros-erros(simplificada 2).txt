@@ -1,0 +1,141 @@
+@titulo: primeiros-erros(simplificada 2)
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Primeiros Erros
+
+[Intro] D  E/D
+        D  E/D
+        D  D5(7M/9)  G/B
+        D  D5(7M/9)  G/B
+
+[Primeira Parte]
+
+D        D5(7M/9)
+  Meu caminho é cada manhã
+D         D5(7M/9)
+  Não procure saber onde estou
+Bm7(11)         Bm7(9/11)
+        Meu destino não é de ninguém
+Bm7(11)           A4(7)                    D
+        E eu não deixo os meus passos no chão
+      D5(7M/9)             D
+Se você não entende não vê
+           D5(7M/9)
+Se não me vê não entende
+Bm7(11)         Bm7(9/11)         Bm7(11)
+        Não procure saber onde estou
+
+          Bm7(9/11)     G7M
+Se o meu jeito te surpreende
+
+[Segunda Parte]
+
+          G4+(6)        G7M
+Se o meu corpo virasse sol
+            G4+(6)        Em7
+Se a minha mente virasse sol
+         Em7(13)    Em7
+Mas só chove, chove
+  Em7(13)
+Chove, chove
+
+( D  D5(7M/9)  G/B )
+( D  D5(7M/9)  G/B )
+
+[Primeira Parte]
+
+D        D5(7M/9)
+  Se um dia eu pudesse ver
+D         D5(7M/9)
+  Meu passado inteiro
+Bm7(11)      Bm7(9/11)         Bm7(11)
+        E fizesse parar de chover
+        Bm7(9/11)
+Nos primeiros erros
+
+[Segunda Parte]
+
+G7M      G4+(6)        G7M
+    Meu corpo virasse sol
+       G4+(6)        Em7
+Minha mente virasse sol
+         Em7(13)    Em7
+Mas só chove, chove
+  Em7(13)
+Chove, chove
+
+G7M      G4+(6)        G7M
+    Meu corpo virasse sol
+       G4+(6)       Em7
+Minha mente viraria
+         Em7(13)    Em7
+Mas só chove, chove
+  Em7(13)
+Chove, chove
+
+( D  E/D )
+( D  E/D )
+
+[Primeira Parte]
+
+D        D5(7M/9)
+  Se um dia eu pudesse ver
+D         D5(7M/9)
+  Meu passado inteiro
+Bm7(11)      Bm7(9/11)         Bm7(11)
+        E fizesse parar de chover
+        Bm7(9/11)
+Nos primeiros erros
+
+[Segunda Parte]
+
+G7M      G4+(6)        G7M
+    Meu corpo virasse sol
+       G4+(6)        Em7
+Minha mente virasse sol
+         Em7(13)    Em7
+Mas só chove, chove
+  Em7(13)
+Chove, chove
+
+G7M      G4+(6)        G7M
+    Meu corpo virasse sol
+       G4+(6)       Em7
+Minha mente viraria
+         Em7(13)    Em7
+Mas só chove, chove
+  Em7(13)
+Chove, chove
+
+G7M      G4+(6)        G7M
+    Meu corpo virasse sol
+       G4+(6)        Em7
+Minha mente virasse sol
+         Em7(13)    Em7
+Mas só chove, chove
+  Em7(13)
+Chove, chove
+
+( D  D5(7M/9)  G/B )
+( D  D5(7M/9)  G/B )
+( D  E/D  D )
+
+----------------- Acordes -----------------
+A4(7) = X 0 2 0 3 0
+Bm7(11) = X 2 0 2 3 0
+Bm7(9/11) = X 2 0 2 2 0
+D = X X 0 2 3 2
+D5(7M/9) = X X 0 2 2 0
+E/D = X X 0 4 5 4
+Em7 = 0 2 2 0 3 0
+Em7(13) = 0 2 2 0 2 0
+G/B = X 2 0 0 3 3
+G7M = 3 X 0 0 0 2

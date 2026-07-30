@@ -1,0 +1,146 @@
+@titulo: contramao
+@autor:
+@intérprete: Gustavo Mioto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gustavo Mioto - Contramão
+
+[Intro] G  D9  Em  C9
+
+                G     D9      Em     C9 
+E|---------------------------------------------------|
+B|--0---0---------3-x-3-x-3p0------------------------|
+G|--0h2-0-----0---0-x-2-x---------0------------------|
+D|--------0h2-------x---x--------2-------------------|
+A|------------------x---x------------3---------------|
+E|--------------3-------------0----------------------|
+
+[Primeira Parte]
+
+G          D9               Em
+ Me fala qual é o seu perfume
+     C9
+Que ainda hoje eu vou comprar
+G             D9                  Em
+ Tô sentindo minha vida tão sem cheiro
+  C9
+E eu já sei qual quero dar
+
+
+[Segunda Parte]
+
+Am
+  Não quero ser precipitado
+C9
+  Muito menos te assustar
+Am                    C9
+  Mas é nesse teu sorriso
+         D            Em
+Que meu beijo quer morar
+
+[Pré-Refrão]
+
+                     Bm7
+E nas curvas do seu corpo
+                 Am
+Invadir a contramão
+                       C9
+Dar de frente com seu peito
+    D      G
+S.o.s coração
+
+[Refrão]
+
+            C9
+Conheci o amor
+ B7         Em
+Só de te olhar
+                 C9
+Tava quase congelando
+      D              G
+Você veio pra esquentar
+            C9
+Conheci o amor
+  B7          Em
+E ele me fez ver
+                D9   C9
+Que eu voei tempo demais
+      D
+Deixa eu pousar em você
+
+( G  D  Em  C )
+( G  D  Em  C )
+
+[Primeira Parte]
+
+G          D9               Em
+ Me fala qual é o seu perfume
+     C9
+Que ainda hoje eu vou comprar
+G             D9                  Em
+ Tô sentindo minha vida tão sem cheiro
+  C9
+E eu já sei qual quero dar
+
+[Segunda Parte]
+
+Am
+  Não quero ser precipitado
+C9
+  Muito menos te assustar
+Am                    C9
+  Mas é nesse teu sorriso
+         D            Em
+Que meu beijo quer morar
+
+[Pré-Refrão]
+
+                     Bm7
+E nas curvas do seu corpo
+                 Am
+Invadir a contramão
+                       C9
+Dar de frente com seu peito
+    D      G
+S.o.s coração
+
+[Refrão]
+
+            C9
+Conheci o amor
+ B7         Em
+Só de te olhar
+                 C9
+Tava quase congelando
+      D              G
+Você veio pra esquentar
+            C9
+Conheci o amor
+  B7          Em
+E ele me fez ver
+                D9   C9
+Que eu voei tempo demais
+      D               G  D9
+Deixa eu pousar em você
+                      Em
+Deixa eu pousar em você
+
+C9      D               G
+  Deixa eu pousar em você
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

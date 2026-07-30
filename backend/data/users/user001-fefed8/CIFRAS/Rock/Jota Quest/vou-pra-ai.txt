@@ -1,0 +1,61 @@
+@titulo: vou-pra-ai
+@autor:
+@intérprete: Jota Quest
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jota Quest - Vou Pra Aí
+
+Intro:  D#m7 | F#m7 | D#m7 | F#m7 |
+
+e|-----------------|---9--9--9--9--x-x-9----9--9----9--9----------
+B|--6h7--7-6-6-----|---10-10-10-10-x-x-10---10-10---10-10---------
+G|--6----6-6-6-----|---9--9--9--9--x-x-9----9--9----9--9----------
+D|--6h8--8-6-6-----|---11-11-11-11-x-x-11---11-11---11-11---------
+A|-----------------|----------------------------------------------
+E|-----------------|----------------------------------------------
+
+
+C#7M                 F#m7    A#m7        F#m7
+Se você for ficar em casa Eu vou pra aí
+
+C#7M                 F#m7    A#m7        F#m7
+Se você jurar que espera Eu vou pra aí
+D#m7           G#7    Fm7           A#m7
+E a gente se juntando Isso não vai passar
+D#m7               F#m7        G#7
+Mas se você quiser fugir Só me diz pra onde você vai
+
+
+
+C#
+Eu quero o teu amor sincero
+F#m7
+Eu quero ter o teu amor espero
+A#m7
+Eu quero o teu amor sincero
+F#m7
+Espero eu conto com você
+C#
+Eu quero o teu amor sincero
+F#m7
+Eu quero ter o teu amor espero
+A#m
+Eu quero o teu amor sincero
+G#7
+Espero eu conto com você
+
+----------------- Acordes -----------------
+A#m = X 1 3 3 2 1
+A#m7 = X 1 3 1 2 1
+C# = X 4 6 6 6 4
+C#7M = X 4 6 5 6 4
+D#m7 = X X 1 3 2 2
+F#m7 = 2 X 2 2 2 X
+Fm7 = 1 X 1 1 1 X
+G#7 = 4 6 4 5 4 4

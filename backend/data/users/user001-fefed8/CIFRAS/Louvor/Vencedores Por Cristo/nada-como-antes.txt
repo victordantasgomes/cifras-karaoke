@@ -1,0 +1,60 @@
+@titulo: nada-como-antes
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Nada como Antes
+
+Intro: Em D9/E Em D9/E
+
+ Em                        A/E
+O que se passa atrás do seu olhar 
+ G                       A      Am7        C   D Em D9/E
+Neste lugar onde o meu olhar não pode penetrar 
+ Em                            A/E
+O que se esconde atrás do seu sorrir 
+ G                  A          Am7       C D Em D9/E ...
+Neste lugar onde o mentir não pode enganar 
+       A            G    D4  D   G     G/B    A4 A
+Pois mesmo que a cada dia vista-se roupa nova 
+     Am7       Am/G         Em
+Ou seja perseguida a alegria  
+    Am7          Am/G        F#m/11 B7/4 Em
+Carrega-se a si mesmo como prova  
+          C       D         Em
+De que tudo será como antes 
+ 
+D9/E Em D9/E Em A/E  G A Am7 C D Em D9/E Em D9/E
+
+       A          G    D4 D G       G/B    A4 A
+Mas pode haver novo dia com esperança nova 
+     Am7          Am/G        Em
+Se cristo é a razão da alegria 
+   Am7            Am/G        F#m B7/4 Em
+Carrega-se a si mesmo como prova  
+         C       D       Em            C  D E
+De que nada será como antes    o    -    -
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/E = 0 X 2 2 2 0
+A4 = X 0 2 2 3 0
+Am/G = 3 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+B7/4 = X 2 4 2 5 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D9/E = X X 2 2 3 0
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+F#m/11 = 2 2 4 2 2 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

@@ -1,0 +1,70 @@
+@titulo: como-eu-te-amo
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Como Eu Te Amo
+
+(intro) 4x: E A E
+
+
+E|-------------------------------------------------------------------------------------|
+B|---------4-5-6-7---11-9-6-7-6--9-11---11-9-6-7-----------2-4-6-7-----------4-5-6-7---|
+G|-3-4-5-6--------------------------------------------------4-----------3-4-5-6--------|
+D|------------------------------------------------/------------------------------------|
+A|-------------------------------------------------------------------------------------|
+E|-------------------------------------------------------------------------------------|
+
+
+E              A            E
+Tão perto e tão distante de mim
+E                        B
+É certo que eu me apaixonei
+C#m             G#m       C#m
+E tudo fiz por essa paixão
+                  G#m          A
+Eu me arrisquei demais na ilusão
+          F#m       F#m7
+Porque eu te queria também
+
+
+ E           A          E
+Você é tão fugaz nos  sentimentos
+E                            B
+Com essa indiferença você teima em machucar
+   C#m            G#m      C#m
+Estamos quase a beira do fim
+                    G#m         A
+Por que você não olha pra mim
+                        B7
+Põe de vez essa cabeça no lugar
+E                       G#m     C#m
+Só quero te dizer que o meu coração
+        G#m        A
+Está pedindo atenção
+                        B B7
+Como eu sinto a sua falta
+                E            G#m   C#m
+Só quero te dizer  que isso pode mudar
+           G#m             A        E        F#m
+Basta a gente se acertar e viver esse amor
+                B
+Como eu te amo
+                E  A G#m F#m E
+Não vivo sem você
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G#m = 4 6 6 4 4 4

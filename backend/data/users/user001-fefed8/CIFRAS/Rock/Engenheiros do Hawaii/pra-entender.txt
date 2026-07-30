@@ -1,0 +1,115 @@
+@titulo: pra-entender
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Pra Entender
+
+Ton: G
+
+(intro) A E 4x antes do solo
+
+   ( E   A     E  A)
+E I--12-15-14-----14-14-12--14-14-12-14-12-------------------10-12-15-14----------
+B I-------------------------------------------------10-12-13---------------
+G I------------12--------------------------10-12-13----------------------------
+
+E I-----14-14-12-14/16-16-14-------------------14-15-16-------
+B I--------------------------16-14----14-15-16-----
+G I--12----------------------------15----------
+
+          E
+Pra entender
+                     G     F#
+Basta um tapa num cigarro
+               E            G F#
+Uma olhada no mapa do Brasil
+         E                    G    F#
+Uma caminhada por qualquer caminho
+
+      E              G F#
+Um caminho qualquer
+       E                      G  F#
+Basta ver o que não se enxerga
+               E
+O que só se enxerga nos olhos de
+              G    F#
+     uma mulher
+         E                   G  F#
+Basta olhar pr'oque acontece
+  E                 G  A
+Esteja onde estiver
+         D                    C
+Pra enteder  E I-2/3---------------
+             B I----2/3----------1-
+             G I--------2/3-O------  (inves de fazer o D
+             D I-----------------2-    faz esse solinho e cai pro C)
+             A I-----------------3-
+             E I------------------
+      D  C
+Pra entender
+      G
+Nada disso é tudo
+     F#        F     E  (G A)
+Tudo isso é fundamental    solo da intro:
+          E
+Pra entender
+                     G   F#
+Basta a cara e a coragem
+          E
+A cor, o corpo,o coração
+          G          F#
+A cor, o corpo, o coração
+        E                    G  F#
+Uma canção da banda preferida
+        E           G  F#
+Uma descida ao porão
+      E                   G  F#
+Seis pilhas pr'o meu rádio
+        E               G  F#
+Seis minutos pra canção
+        E                     G  F#
+Basta olhar pro o que acontece
+     E                  G  A
+Aconteça o que acontecer
+        D  C           D  C
+Pra entender, pra entender
+      G
+Nada disso é tudo
+      F#        F    E
+Tudo isso é fundamental
+         E
+Pra entender
+Basta uma noite de insônia
+Um sonho que não tem fim
+Um filme sem muita graça
+Uma praça sem muito sol
+                   (E)
+Seis cordas pra guitarra
+Seis sentidos na mesma direção
+Seiscentos anos de estudo
+Ou seis segundos de atenção
+         D   C
+Pra entender
+         D   C
+Pra entender
+      G
+Nada disso é tudo
+     F#        F    E
+Tudo isso é fundamental
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

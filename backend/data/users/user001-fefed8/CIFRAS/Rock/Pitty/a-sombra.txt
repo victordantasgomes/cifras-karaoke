@@ -1,0 +1,91 @@
+@titulo: a-sombra
+@autor:
+@intérprete: Pitty
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Pitty - A Sombra
+
+Intro: Dm  Bb  Gm  Dm
+       Dm  Bb  Am  Dm
+
+
+Dm                     Bb
+Pra quê dissimular?
+           Gm                       Dm
+Se ela me segue aonde quer que eu vá?
+               Bb
+Melhor encarar
+               Am          Dm
+E aprender com ela a caminhar
+                    Bb
+Não vou mais negar
+            Gm                  Dm        Bb      Am       Dm
+Por todo caminho, minha sombra está
+        Bb            Gm
+Eu quero saber me querer
+              Dm  Bb        Am  Dm
+Com toda a beleza e abominação
+
+
+               Bb      Am       Dm
+Que há em mim
+               Bb
+Isso nunca se desfaz
+         Gm             Dm
+Enquanto há desejo, não há paz
+               Bb
+Isso nunca se desfaz
+         Am             Dm     Bb      Am       Dm
+Enquanto há desejo não há paz
+
+        Bb            Gm
+Eu quero saber me querer
+              Dm  Bb        Am  Dm
+Com toda a beleza e abominação
+        Bb            Gm
+Eu quero saber me querer
+              Dm  Bb        Am  Dm
+Com toda a beleza e abominação
+             Bb
+Que há em mim
+Am              Dm
+Que há em mim
+
+Que há em mim
+
+
+--[Riff tocado em toda a música]--
+
+Legenda: b = Bend
+         r = Release
+         / = Slide
+        () = A nota entre parênteses é para ser tocada suavemente,
+             ficando quase imperceptível
+[Pt.1]
+E|---------------------------|-----------------------------------|
+B|---6----6-8-10-------------|-----------------------------------|
+G|---------------------2b3r2-|--------2-3------------------------|
+D|---0----3-5-7-----(2)------|------(0)--------------------------|
+A|-----------------1---------|-----------------------------------|
+E|---------------------------|----3------------------------------|
+
+[Pt.2]
+E|---10---17---12------------|------------------12----10---------|
+B|---6-----------------------|--------------13--------6----------|
+G|-------------10----5-7/9---|-----2b3r2-------------------------|
+D|---0-----------------------|--(2)-------------------0----------|
+A|-------------------3-5/7---|-1------------12-------------------|
+E|---------------------------|-----------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+Dm = X X 0 2 3 1
+Gm = 3 5 5 3 3 3

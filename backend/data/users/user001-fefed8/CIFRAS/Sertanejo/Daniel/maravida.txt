@@ -1,0 +1,88 @@
+@titulo: maravida
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Maravida
+
+Am7               D7(9)
+Era uma vez eu no meio da vida
+     Am7              D7(9)
+Essa vida assim, tanto mar, tanto mar
+Am7               D7(9)
+Coisa de doce e de sal
+          Am7                D7(9)
+Essa vida assim, tanto mar, tanto mar
+Dm7                 F/G
+Sempre o mar, cores indo
+             Bm7(11)              E7/B
+Do verde mais verde ao anil mais anil
+Dm7                F/G
+Cores do sol e da chuva
+          Bm7(11)             E7/B
+Do sol e do vento, do sol e o luar
+
+Am7                      D7(9)
+Era o tempo na rua e eu nua
+         Am7              D7(9)
+Usando e abusando do verbo provar
+
+Am7                          D7(9)
+Um beija-flor, flor em flor, bar em bar
+Am7             D7(9)
+Bem ou mal margulhar
+Dm7                     F/G
+Sempre menina franzina, traquina
+         Bm7(11)             E7/B
+De tudo querendo, provar e provar
+Dm7                         F/G
+Sempre garota, marota, tão louca
+      Bm7(11)             E7/B
+
+A boca de tudo querendo levar
+
+A                       Abm7(11)       Db7/Ab
+Vida, vida, vida Que seja do jeito que for
+F#m     F#m7M   F#m7
+Mar,      amar,    amor
+F#m6          Em7        A7(b9)
+Se a dor quer o mar dessa dor, ah!
+D7M                   D#°
+Quero no meu peito repleto
+            A/E       Db7/F#
+De tudo que possa abraçar
+B7(9)
+Quero a sede e a fome eternas
+  Bm7(9)           D/E
+De amar, e amar e amar...
+Vida, vida, vida.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/E = 0 X 2 2 2 0
+A7(b9) = 5 X 5 3 2 X
+Abm7(11) = 4 X 4 4 2 X
+Am7 = X 0 2 0 1 0
+B7(9) = X 2 1 2 2 X
+Bm7(11) = 7 X 7 7 5 X
+Bm7(9) = X 2 0 2 2 X
+D#° = X X 1 2 1 2
+D/E = X X 2 2 3 2
+D7(9) = X 5 4 5 5 X
+D7M = X X 0 2 2 2
+Db7/Ab = 4 X 3 4 2 X
+Db7/F# = 2 4 3 4 2 X
+Dm7 = X 5 7 5 6 5
+E7/B = X 2 2 1 3 X
+Em7 = 0 2 2 0 3 0
+F#m = 2 4 4 2 2 2
+F#m6 = 2 X 1 2 2 X
+F#m7 = 2 X 2 2 2 X
+F#m7M = X X 4 6 6 5
+F/G = 3 X 3 2 1 X

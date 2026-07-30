@@ -1,0 +1,111 @@
+@titulo: ser-mais-simples
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Ser Mais Simples
+
+Intro: G
+
+G                     C         Cm
+Estou saindo e vou sozinho sem discutir
+Am                  D  ( D#(5b) )
+Hoje eu acordei em paz
+Em
+E não me venha com listas de mágoas
+           Bm
+Só pra me deter
+         C
+Sempre existe o momento adequado
+ G        D
+Do outro lado a refletir
+G   F                 C           Cm
+No caminho penso se ainda quero voltar
+Am                 D           Bm
+Eu te amava tanto, nem dá para acreditar
+
+Em
+E Não adianta insistir
+
+             Bm
+Em olhar pra trás
+             C
+Mais um instante foi liquidado
+ G             D        C              Cm
+Sufocado pela raiz (nossos laços, em pedaços)
+
+Refrão:
+
+G              Am
+Vou seguir, enfrentar
+Bm          C                   G
+Vou pagar, pelas escolhas que eu fiz
+    Em                    Cm
+Preenchi a licença pra conduzir
+G        C   Cm    G       C  Cm
+     Não adianta insistir
+
+   G                         C        Cm
+Tenho a certeza de que não vamos mais brigar
+Am                    D    ( D#(5b) )
+Essa disciplina não vou mais aceitar
+Em                            Bm
+E não adianta competir, quem magoa mais
+        C
+Suas manias sempre em destaque
+G           D        C
+Virou desgaste para mim
+       C           Cm
+(Estou num estado lamentável)
+
+Refrão:
+
+G              Am
+Vou seguir, enfrentar
+Bm          C                   G
+Vou pagar, pelas escolhas que eu fiz
+    Em                    Cm
+Preenchi a licença pra conduzir
+
+Refrão:
+
+Base Solo: G C G Cm
+
+G  C  Cm                G   C  Cm
+      Não adianta insistir
+
+Refrão:
+
+G              Am
+Vou seguir, enfrentar
+Bm          C                   G
+Vou pagar, pelas escolhas que eu fiz
+    Em                    Cm
+Preenchi a licença pra conduzir
+G            Am
+Consegui superar
+Bm           C                   G
+Vou guardar cada verdade que aprendi
+    Em                       Cm
+Foi preciso dar mais atenção pra mim
+G     Em                     Cm
+Vou provar pra mim que eu posso ser assim
+ F          G
+Ser mais simples
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D#(5b) = X 6 7 8 8 6
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

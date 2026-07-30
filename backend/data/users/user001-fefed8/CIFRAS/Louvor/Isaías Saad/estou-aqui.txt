@@ -1,0 +1,145 @@
+@titulo: estou-aqui
+@autor:
+@intérprete: Isaías Saad
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Isaías Saad - Estou Aqui
+
+[Intro] E  A9
+
+E
+Estou aqui
+
+Para ouvir
+
+O som
+    A9
+Da Tua voz
+
+E
+Estou aqui
+
+Para sentir
+
+O toque
+ A9
+Das tuas mãos
+
+A9
+E eu sei
+
+       E
+Que você
+   C#m            A9
+Virá com o Teu poder
+        E
+Me mostrar
+     B9       A9
+O caminho do Teu coração
+
+( E  A9  E  A9 )
+
+E
+Estou aqui
+
+Para ouvir
+
+O som
+    A9
+Da Tua voz
+
+E
+Estou aqui
+
+Para sentir
+
+O toque
+ A9
+Das tuas mãos
+
+A9
+E eu sei
+       E
+Que você
+   C#m            A9
+Virá com o Teu poder
+        E
+Me mostrar
+     B9               A9
+O caminho do Teu coração
+
+A9
+E eu sei
+       E
+Que você
+   C#m            A9
+Virá com o Teu poder
+        E
+Me mostrar
+     B9               A9
+O caminho do Teu coração
+
+      A9
+Então abra
+        E9
+Os meus olhos
+       C#m
+Quero ver
+        B9
+A Tua glória
+
+      A9
+Então abra
+           B9
+O meu coração
+       C#m
+Quero sentir
+        B9
+Tua presença em mim
+
+( A9  E9  C#m7  B )
+
+      A9
+Então abra
+        E9
+Os meus olhos
+       C#m7
+Quero ver
+        B4  B
+A Tua glória
+
+      A9
+Então abra
+           C#m7
+O meu coração
+         B9
+Quero sentir
+         B9
+Tua presença em mim
+
+A9
+E eu sei
+       E
+Que você
+   C#m            A9
+Virá com o Teu poder
+        E
+Me mostrar
+     B9               A9
+O caminho do Teu coração
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E9 = 0 2 4 1 0 0

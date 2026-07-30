@@ -1,0 +1,138 @@
+@titulo: te-amo-te-amo
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Te Amo Te Amo
+
+SOLO:
+                       F#m G#m A                  E E4 E
+E|------------------------------------------------------
+B|------------------------------------------------------
+G|------------------------------------------------------
+D|-------2-4/6-4-2-2h4-2-------------------2-4/6-4-2----
+A|--2h4----------------------4---------2h4-----------2--
+E|------------------------------------------------------
+
+
+                      F#m G#m A                  E E4 E
+E|-------------------------------------------------------------------
+B|-------------------------------------------------------------------
+G|-------------------------------------------------------------------
+D|--------2-4/6-4-2-2h4-2------------------2-4/6-4-2-----------------
+A|--2h4-------------------4-----------2h4------------------2---------
+E|-------------------------------------------------------------------
+
+
+
+PARTE 1
+
+
+                                   E
+Quantas noites lindas esse amor viveu
+             E9               E
+E no seu abraço o dia amanheceu
+                                     F#m Fº F#m
+Quantos compromissos eu perdendo a hora
+                B7                  F#m
+Mais um beijo roupas jogadas no chão
+               B7             F#m
+Seu abraço forte bate coração
+              B7                     E F#m G#m A
+Hoje uma saudade que não tem mais fim.
+
+PARTE 2
+
+A                              E
+   Se a minha vida é a sua vida
+                               B7
+Estamos separados não vejo saída
+                                E F#m G#m A
+Olha é tão difícil ficar sem você
+A                                      E
+  Até o seu perfume está na minha roupa
+                                         B7
+Se alguém falar seu nome a alma fica louca
+               A        B7        E F#m G#m A
+Se amar é meu destino só amo você.
+
+REFRÃO:
+
+A    A4 A                   E E4 E
+Te amo, Te amo Te amo Te amo
+                    B7
+Está escrito nas estrelas
+                             E F#m G#m A
+Que eu não sei viver sem você.
+A    A4 A                   E E4 E
+Te amo, Te amo Te amo Te amo
+                    B7
+Está escrito nas estrelas
+     A   B7              A G#m F#m E
+Que eu não sou nada sem você.
+ SOLO:
+                        F#m G#m A                  E E4 E
+E|------------------------------------------------------
+B|------------------------------------------------------
+G|------------------------------------------------------
+D|-------2-4/6-4-2-2h4-2---------------2-4/6-4-2--------
+A|--2h4------------------4---------2h4-----------2------
+E|------------------------------------------------------
+
+
+                      F#m G#m A                  E E4 E
+E|-------------------------------------------------------------------
+B|-------------------------------------------------------------------
+G|-------------------------------------------------------------------
+D|--------2-4/6-4-2-2h4-2------------------------2-4/6-4-2-----------
+A|--2h4-------------------4------------------2h4-----------2---------
+E|-------------------------------------------------------------------
+
+
+
+PARTE 2
+
+A                              E
+   Se a minha vida é a sua vida
+                               B7
+Estamos separados não vejo saída
+                                E F#m G#m A
+Olha é tão difícil ficar sem você
+A                                      E
+  Até o seu perfume está na minha roupa
+                                         B7
+Se alguém falar seu nome a alma fica louca
+               A        B7        E F#m G#m A
+Se amar é meu destino só amo você.
+
+REFRÃO:
+
+A    A4 A                   E E4 E
+Te amo, Te amo Te amo Te amo
+                    B7
+Está escrito nas estrelas
+                             E F#m G#m A
+Que eu não sei viver sem você.
+A    A4 A                   E E4 E
+Te amo, Te amo Te amo Te amo
+                    B7
+Está escrito nas estrelas
+     A   B7              A               E
+Que eu não sou nada sem você.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+E9 = 0 2 4 1 0 0
+F#m = 2 4 4 2 2 2
+Fº = X X 3 4 3 4
+G#m = 4 6 6 4 4 4

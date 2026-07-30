@@ -1,0 +1,43 @@
+@titulo: nome-excelso
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Nome Excelso
+
+  D                                          A
+Quão excelso é o seu nome mais lindo que o lindo céu
+ Bm                                A
+Nome que varre os seculos sem se desfazer
+ D                                 G             D7
+Nome que quebra as muralhas que os reis tentam impor
+D                G          D  A
+Nome cheio de delicias de amor
+ D                G        D
+Jesus é o seu nome além da estrelas
+ F#                        E
+Vai seu poderio nunca nos deixa só
+ D              G      D
+Jesus é o nome cheio de poder
+F#                             E
+Dá vida ao homem e todo o que crê
+  G         D          A         E
+Exaltai o nome entre todas as nações
+                             G         D
+Nome que dá vida ao mundo e paz aos corações
+A        D       G        D                A               D
+Paz aos corações paz aos coraçôes paz aos coraçôes paz aos corações
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

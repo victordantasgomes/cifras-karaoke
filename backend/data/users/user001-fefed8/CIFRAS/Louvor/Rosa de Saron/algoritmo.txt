@@ -1,0 +1,73 @@
+@titulo: algoritmo
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Algoritmo
+
+B       C#                 D#m
+Há o finito Ele então caminhará sob o luar
+B       C#                 D#m
+Se o vir, decore onde ele está
+B       C#                D#m
+Porque ao vê-lo, indicará por onde deve ir
+B       C#            D#m
+não espere a noite terminar
+B       C#                D#m
+É onde o sereno chora em seu lugar
+
+B       C#                 D#m             (4x)
+Não existe um jeito certo de fazer uma coisa errada,
+ou se acerta, ou se erra e se pode ser melhor que é.
+Evidente que ainda não é tão bom assim.
+
+( B  C#9/G#  D#m   B  C#9/G#  D#m )
+
+(Mesmos acordes do primeiro verso)
+Ao infinito há um céu e há o discurso de quem perdeu seu custo
+e agora está aí, a deriva, 777 luzes não puderam iluminar
+
+A sombra que escondeu-se no seu lar
+
+B       C#                 D#m            (3x)
+Não existe um jeito certo de fazer uma coisa errada,
+ou se acerta, ou se erra e se pode ser melhor que é.
+  D#m                B      C#
+Evidente que ainda não é tão bom
+     D#m                     B        C#
+Há o erro e outra vez Outra chance, outro lugar
+             D#m                     B          C#
+E enquanto o sábio aponta o céu, o idiota olha o dedo
+             D#m                     B          C#
+Mas estrela já não há Explodiu, não existe mais
+       D#m                 B              C#
+O algoritmo venceu Sinal, síntese, sintomatismo
+D#m
+Meu      a       mor,
+B           C#
+veja bem Diga amém
+D#m
+Durma bem
+
+B             C#         D#m
+Não existe um jeito certo de fazer uma coisa errada,
+B             C#         D#m                     B   C#
+ou se acerta, ou se erra e se pode ser melhor que é.
+D#m                    B    C#
+Evidente que ainda não é tão bom
+D#m
+assim.
+B         C#9/G#          D#m
+Veja bem, diga amém, durma bem.
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+C#9/G# = 4 X 6 6 4 4
+D#m = X X 1 3 4 2

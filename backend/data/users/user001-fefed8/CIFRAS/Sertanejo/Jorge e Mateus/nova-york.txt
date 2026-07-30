@@ -1,0 +1,54 @@
+@titulo: nova-york
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Nova York
+
+(intro 2x)  G  D   Am C  Am  C
+                                                           RITMO: BBCCB  B=BAIXO  C=CIMA
+(solo)
+E|-3-3-3-3-3-3-3-2-0-------------------------------|
+B|-------------------3-3-1-0-----0-1-----0-1-0-----|
+G|---------------------------2-2-----2-2-------2-0-| (2x)
+D|-------------------------------------------------|
+A|-------------------------------------------------|
+E|-------------------------------------------------|
+
+Am           C           G
+Essa é a história de um novo herói.
+Am          C         G
+Cabelos compridos a rolar no vento.
+Am       C          G
+Pela estrada no seu caminhão.
+Am          C                G
+Cravado no peito a sombra de um dragão.
+
+C                     G
+Tinha um sonho ir pra Nova York
+
+G
+levar a namorada.
+C                   G
+Fazer seu caminhão voar nas nuvens.
+C                 G
+Mas enquanto isso na estrada.
+        Am           C
+Saudade vai, vai, vai.
+        Am         C       G
+Saudade vem, vem, vem te buscar.
+
+(G  D   Am C  Am  C) (G)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3

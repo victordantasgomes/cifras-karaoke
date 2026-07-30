@@ -1,0 +1,58 @@
+@titulo: comeco-do-fim
+@autor:
+@intérprete: Tião Carreiro e Pardinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Tião Carreiro e Pardinho - Começo do Fim
+
+(intro 4x) D A7
+
+E              B7               E
+Pra cantar gostoso de longe eu vim
+                              B7
+Pagode bonito tem que ser pra mim
+             A                 E
+O fim do começo tem que ser assim
+              B7                 E   (intro)
+O que tem começo tem que ter um fim
+
+E             B7              E
+Lá no fim do sul começo do norte
+                                B7
+Fim da colheita começa o transporte
+             A               E
+O fim da boiada começa no corte
+           B7                  E   (intro)
+O fim do azar é o começo da sorte
+
+E              B7               E
+Bem no fim do cabo começa o arreio
+
+                              B7
+É no fim dá rédea começo do freio
+                A                E
+No fim da confiança começa o receio
+             B7                 E   (intro)
+O fim da metade é o começo do meio
+
+E             B7             E
+No fim da cachaça vem a gandaia
+                            B7
+É no fim do mar começo da praia
+               A                 E
+É no fim do joelho o começo da saia
+             B7                  E
+O fim do artista é o começo da vaia
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0

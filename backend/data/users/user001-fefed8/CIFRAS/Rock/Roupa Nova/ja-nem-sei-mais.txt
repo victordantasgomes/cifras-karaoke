@@ -1,0 +1,124 @@
+@titulo: ja-nem-sei-mais
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Já Nem Sei Mais
+
+Intro: C9  C5+(9)  C9  C5+(9)
+Intro:
+E|------------------------------------------------------------------|
+B|-----3-------3-------3-------3-------3-------3-------3-------3----|
+G|---5---5---5---5---5---5---5---5---5---5---5---5---5---5---5---5--|
+D|-5-------5-------6-------6-------5-------5-------6-------6--------|
+A|------------------------------------------------------------------|
+E|------------------------------------------------------------------|
+
+(riff durante a primeira estrofe, para em: De manhã buscando a minha paz...)
+E|-------------------------------------------------------------------------------------------------|
+B|-----3-------3-------3-------3-------3-------3-------3-------3-------3-------3-------3-------3---|
+G|---5---3---5---5---5---5---5---5---5---5---5---5---5---3---5---5---5---5---5---5---5---5---5---5-|
+D|-5-------5-------7-------7-------6-------6-------5-------5-------7-------7-------6-------6-------|
+A|-------------------------------------------------------------------------------------------------|
+E|-------------------------------------------------------------------------------------------------|
+
+(1ª Parte)
+C                  F/C          Fm/C            C
+As vezes eu não entendo, o frio que o silêncio tras
+                 F/C         Fm/C
+Me leva a sonhos tão vazios, já nem sei mais
+
+Am                  Am/G              F7M         Dm7  G4
+De manhã buscando a minha paz, meu desejo vai te procurar
+
+(Refrão)
+           Am        F         C       G
+Eu tenho a luz das estrelas na palma da mão
+    Am                F           C        G
+Mas tudo e que eu mais quero, é o seu coração
+         Am            F        C          G
+eu posso andar no arco-íris, dar prata ao luar
+      F            C            G              C
+Mas no céu azul, no azul do mar, quero poder te tocar
+
+( C9  C5+(9)  C9  C5+(9) )
+2ª Parte:
+  (riff durante a segunda estrofe, para em: amanhã quem sabe eu possa te achar...)
+E|-------------------------------------------------------------------------------------------------|
+B|-----3-------3-------3-------3-------3-------3-------3-------3-------3-------3-------3-------3---|
+G|---5---3---5---5---5---5---5---5---5---5---5---5---5---3---5---5---5---5---5---5---5---5---5---5-|
+D|-5-------5-------7-------7-------6-------6-------5-------5-------7-------7-------6-------6-------|
+A|-------------------------------------------------------------------------------------------------|
+E|-------------------------------------------------------------------------------------------------|
+
+C               F/C          Fm/C         C
+Me pego olhando tão distante quanto tempo faz
+             F/C             Fm/C
+Será que vai ser como antes, ja nem sei mais
+Am                  Am/G
+Amanhã quem sabe eu possa te achar
+      F7M            Dm7      G4
+Tanta coisa eu tenho pra falar
+
+Refrão
+           Am        F         C       G
+Eu tenho a luz das estrelas na palma da mão
+    Am                F           C        G
+Mas tudo e que eu mais quero, é o seu coração
+         Am            F        C          G
+Eu posso andar no arco-íris, dar prata ao luar
+       F            C/E            G4
+Mas no céu azul, no azul do mar, quero poder te tocar
+
+Solo: Cm  Ab/C  Bb/C  Gm/C  Ab/C  Fm/C  Cm  G
+      Cm  Ab/C  Bb/C  Gm/C  Ab/C  Fm/C  Cm  C
+
+Pré-Refrão:
+Am                  Am/G
+Amanhã quem sabe eu possa te achar
+      F7M              Dm7    G4
+Tanta coisa eu tenho pra falar
+
+Refrão 2x:
+           Am        F         C        G
+Eu tenho a luz das estrelas na palma da mão
+    Am                F           C        G
+Mas tudo e que eu mais quero, é o seu coração
+         Am            F        C          G
+Eu posso andar no arco-íris, dar prata ao luar
+      F            C/E            G4
+Mas no céu azul, no azul do mar, quero poder te tocar
+
+           Am        F         C        G
+Eu tenho a luz das estrelas na palma da mão
+    Am                F           C        G
+Mas tudo e que eu mais quero, é o seu coração
+         Am            F        C          G
+Eu posso andar no arco-íris, dar prata ao luar
+      F            C/E            G4                    Cm C5+(9) C9
+Mas no céu azul, no azul do mar, quero poder te tocar
+
+----------------- Acordes -----------------
+Ab/C = X 3 X 1 4 4
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Bb/C = X 3 X 3 3 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C5+(9) = X 3 6 5 3 3
+C9 = X 3 5 5 3 3
+Cm = X 3 5 5 4 3
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+F/C = X 3 3 2 1 1
+F7M = 1 X 2 2 1 X
+Fm/C = X 3 3 1 1 1
+G = 3 2 0 0 0 3
+G4 = 3 5 5 5 3 3
+Gm/C = X 3 5 3 3 3

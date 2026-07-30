@@ -1,0 +1,102 @@
+@titulo: chamado-de-amor
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Chamado de Amor
+
+Fm
+Quem é você
+     C#7+
+Que acende outra vez
+ Fm                 C#
+Dentro de mim essa fome de sonhar?
+ D#          G#          D#/A#       G#/C
+Como quem conhece a fundo cada sensação
+       C#9                       C7/4         C7
+Que eu soube esconder pra não perder a paz
+
+ Fm               C#7+
+Com seu poder de menina e mulher
+ Fm                    C#
+Musa do olhar de quem chega pra ficar
+ D#     G#            D#/A#     G#/C
+Desimaginando inteira toda proteção
+       C#9                    C7/4         C7
+Que eu só inventei pra não sofrer demais
+
+         Fm
+E ser chamado de amor
+
+           C#
+Quanta esperança traz
+      A#m         G#/C            D#7/4       D#7
+As tormentas do passado já não me molham mais
+
+G#
+Anda...
+   A#m         G#/C        C#      G#/D#
+Preciso te entregar o que resta de mim
+ A#        D#7/4 D#7
+Pega minha mão
+G#
+Anda...
+    A#m          G#/C
+Teu corpo pode achar
+C#        G#/D#       D#7/4   D#7  G#  D#/G
+Luz ainda acesa dentro do meu coração
+
+Fm
+Quem é você
+        C#7+
+Que pretende afogar
+Fm                  C#
+Alguém tão só numa fonte de desejo?
+
+SOLO: D# G# D#/A# G#/C C# C7/4 C7
+
+          Fm
+E ser chamado de amor
+         C#
+Melhor é não pensar
+       A#m         G#/C            D#7/4        D#7
+As lembranças do passado já não me prendem mais
+
+G#
+Anda...
+   A#m          G#/C       C#      G#/D#
+Preciso te entregar o que resta de mim
+A#         D#7/4 D#/G
+Pega minha mão
+G#
+Anda...
+     A#m         G#/C
+Teu corpo pode achar
+C#        G#/D#       D#7/4   D#7  G#
+Luz ainda acesa dentro do meu coração
+      C#        G#/D#       D#7/4  D#7   Fm  C# G#
+Vai achar a luz acesa dentro do meu coração
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+A#m = X 1 3 3 2 1
+C# = X 4 6 6 6 4
+C#7+ = X 4 6 5 6 4
+C#9 = X 4 6 6 4 4
+C7 = X 3 2 3 1 X
+C7/4 = X 3 3 3 1 X
+D# = X 6 5 3 4 3
+D#/A# = X X 8 8 8 6
+D#/G = 3 X 1 3 4 X
+D#7 = X 6 5 6 4 X
+D#7/4 = X X 1 3 2 4
+Fm = 1 3 3 1 1 1
+G# = 4 3 1 1 1 4
+G#/C = X 3 X 1 4 4
+G#/D# = X 6 6 5 4 4

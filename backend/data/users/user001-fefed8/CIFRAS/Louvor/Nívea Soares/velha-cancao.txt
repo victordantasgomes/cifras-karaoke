@@ -1,0 +1,73 @@
+@titulo: velha-cancao
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Velha Canção
+
+Intro: B  F#/A#  C#m  E9
+       B  F#/A#  C#m  E9
+
+ B9                            F#/A#
+Existe uma velha canção
+                 C#m9                E9
+Que o teu coração anseia ouvir
+    B9                           F#/A#
+Regada pelo som das lágrimas
+         C#m9                     E9
+De alguém que retorna a ti
+
+          B9/D#             E9
+E eu ouço tua voz dizer
+            B9/F#                F#9
+Sim, eu ouço tua voz dizer
+
+                 G#m7
+Se o meu povo
+              F#/A#       B
+Que se chama por mim
+
+           C#m9
+Se humilhar
+                        E9
+E orando se arrepender
+         G#m7
+Eu ouvirei dos céus
+      F#9/A#  B
+Perdoarei
+          C#m9      E9
+E sararei sua terra
+
+             G9                          F#m
+Quero cantar essa nova canção
+             G9                          F#m
+Me humilhar, quebrar meu coração
+            G9                               A9
+Reconhecer, tu és Deus e eu não
+             Em7                               F#sus4 F#
+O meu orgulho entrego em tuas mãos
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+B9/D# = X 6 4 4 2 2
+B9/F# = 2 X 4 4 2 2
+C#m = X 4 6 6 5 4
+C#m9 = X 4 6 8 5 4
+E9 = 0 2 4 1 0 0
+Em7 = 0 2 2 0 3 0
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#9 = 2 4 6 3 2 2
+F#9/A# = 6 X X 6 7 4
+F#m = 2 4 4 2 2 2
+F#sus4 = 2 4 4 4 2 2
+G#m7 = 4 X 4 4 4 X
+G9 = 3 X 0 2 0 X

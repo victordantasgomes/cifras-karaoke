@@ -1,0 +1,53 @@
+@titulo: forca-minha
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Força Minha
+
+        Cm                   Gm
+Eu te amo, o Senhor, força minha
+      Ab7M                 Fm      G4  G7
+Porque Tu es minha rocha e minha cidadela
+    Cm    Gm    D7 G
+E o meu libertador
+      Cm                               Gm
+O meu Deus e o meu rochedo em quem me refugio
+       Ab7M             Fm         G7  C
+O meu escudo, a forca da minha salvação
+
+ F              G                   Am
+Tu que fazes resplandecer a minha lâmpada
+ F                    G               A
+Tu, Senhor, derramas luz nas minhas trevas
+  Dm                E4     E7      Am
+Vive o Senhor,  e bendita seja a minha rocha
+    F            C      Dm        G
+Exaltado seja o Deus da minha salvação
+        Dm          G      E4     E7     Am
+Sei que vive o Senhor, e bendita seja a minha rocha
+    F     C              Dm           G C
+Exaltado seja o Deus da minha salvação
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Ab7M = 4 X 5 5 4 X
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+E4 = 0 2 2 2 0 0
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G4 = 3 5 5 5 3 3
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

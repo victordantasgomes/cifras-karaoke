@@ -1,0 +1,156 @@
+@titulo: cegos-do-castelo
+@autor:
+@intérprete: Nando Reis
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nando Reis - Cegos do Castelo
+
+[Intro] C  Fm13/C
+
+[Primeira Parte]
+
+C         Fm13/C       C   Fm13/C
+ Eu não quero mais mentir
+C        Fm13/C               C  Fm13/C
+ Usar espinhos que só causam dor
+C                         Fm13/C          C   Fm13/C
+ Eu não enxergo mais o inferno que me atraiu
+C                 Fm13/C            Am7   Am6
+ Dos cegos do castelo me despeço e vou
+       F
+A pé até encontrar
+      Fm
+Um caminho, o lugar
+            C  Fm13/C
+Pro que eu sou
+
+( C  Fm13/C )
+
+
+[Segunda Parte]
+
+C         Fm13/C       C  Fm13/C
+ Eu não quero mais dormir
+C           Fm13/C               C  Fm13/C
+ De olhos abertos me esquenta o sol
+C                        Fm13/C            C  Fm13/C
+ Eu não espero que um revólver venha explodir
+C          Fm13/C        Am7   Am6
+ Na minha testa se anunciou
+        F
+A pé a fé devagar
+           Fm6
+Foge o destino do azar
+        C  Fm13/C
+Que restou
+
+[Pré-Refrão]
+
+   C       F/C        C   F/C
+E se você puder me olhar
+ C          F/C      C   F/C
+Se você quiser me achar
+   C           Bb        G
+E se você trouxer o seu lar
+
+[Refrão]
+
+C                            F
+ Eu vou cuidar, eu cuidarei dele
+           Bb
+Eu vou cuidar
+    C
+Do seu jardim
+                                  F
+Eu vou cuidar, eu cuidarei muito bem dele
+           Bb
+Eu vou cuidar
+                Dm
+Eu cuidarei do seu jantar
+             F
+Do céu e do mar, e de você e de mim
+
+( C )
+
+[Riff]
+
+E|---------------------|
+B|----------1----------|
+G|------0-3------------|
+D|--2-3----------------|
+A|---------------------|
+E|---------------------|
+
+[Primeira Parte]
+
+C         Fm13/C       C   Fm13/C
+ Eu não quero mais mentir
+C        Fm13/C               C  Fm13/C
+ Usar espinhos que só causam dor
+C                         Fm13/C          C   Fm13/C
+ Eu não enxergo mais o inferno que me atraiu
+C                 Fm13/C            Am7   Am6
+ Dos cegos do castelo me despeço e vou
+       F
+A pé até encontrar
+      Fm
+Um caminho, o lugar
+            C  Fm13/C
+Pro que eu sou
+
+[Pré-Refrão]
+
+   C       F/C        C   F/C
+E se você puder me olhar
+ C          F/C      C   F/C
+Se você quiser me achar
+   C           Bb        G
+E se você trouxer o seu lar
+
+[Refrão]
+
+C                            F
+ Eu vou cuidar, eu cuidarei dele
+           Bb
+Eu vou cuidar
+    C
+Do seu jardim
+                                  F
+Eu vou cuidar, eu cuidarei muito bem dele
+           Bb
+Eu vou cuidar
+                Dm
+Eu cuidarei do seu jantar
+             F
+Do céu e do mar, e de você e de mim
+
+[Final] C
+
+[Riff]
+
+E|---------------------|
+B|----------1----------|
+G|------0-3------------|
+D|--2-3----------------|
+A|---------------------|
+E|---------------------|
+
+----------------- Acordes -----------------
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F/C = X 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+Fm13/C = X 3 3 1 3 X
+Fm6 = 1 X 0 1 1 X
+G = 3 2 0 0 0 3

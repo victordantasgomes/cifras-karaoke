@@ -1,0 +1,118 @@
+@titulo: sob-controle
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Sob Controle
+
+(intro) Dm Am Gm Dm Am C Am
+
+(riff inicial)
+      Q    Q    Q    E  E     Q    Q    Q    E  E     Q    Q    E   E   E  E
+E|-----------------------|-----------------------|--------------------------|
+B|-------6----5----6--8--|-------6----5----6--8--|-------6----5h--6p--5--6--|
+G|--5--------------------|-----------------------|--------------------------|
+D|-----------------------|-----------------------|--------------------------|
+A|-----------------------|-----------------------|--------------------------|
+E|-----------------------|-----------------------|--------------------------|
+
+   H        H           Q    Q    Q    E  E     Q    Q    Q    E  E
+--------------------|-----------------------|-----------------------|
+--------------------|-------6----5----6--8--|-------6----5----6--8--|
+--------------------|--5--------------------|-----------------------|
+--------------------|-----------------------|-----------------------|
+--------------------|-----------------------|-----------------------|
+--------------------|-----------------------|-----------------------|
+
+  Q    Q    E   E   E  E     H        H
+--------------------------|--------------------||
+-------6----5h--6p--5-----|--------------------||
+-----------------------5--|--------------------||
+--------------------------|--------------------||
+--------------------------|--------------------||
+--------------------------|--------------------||
+
+
+Dm                 Am
+    Você fala, você fala
+Gm
+    Eu simulo interesse
+Dm                   Am
+    Tenho mil estratégias
+C
+    De médio alcance
+Dm                 Am
+   Você fala, você fala
+Gm
+   Eu simulo interesse
+Dm                   Am
+   Tenho mil estratégias
+C
+   De médio alcance
+  Dm
+Só preciso de você quando eu
+      Am        Gm
+Me sinto indefeso
+      Dm                  Am
+Sei bem que existe um limite
+          C
+Mas você insiste, você persiste
+ Dm         Em                Dm     Em
+    Você acha que tem tudo
+Dm        Em                Dm            Em
+   Você acha que tem tudo sob controle
+Dm         Em                Dm   Em
+    Você acha que tem tudo
+Dm        Em              Dm             Em     (intro)
+  Você acha que tem tudo sob controle
+Dm            Am
+Você fala, você fala
+Gm
+     Mas sei bem a quem pertenço
+Dm                                 Am
+     Tá escrito nos meus olhos
+         C
+Olhe mais de perto
+Dm                Am
+    Você fala, você fala
+Gm
+Nós buscamos outros caminhos
+Dm                             Am            C
+  E acabamos sempre no mesmo lugar
+Dm                     Am
+Você jjogou só pra ganhar
+
+        Gm
+M as suas idéias se perderam no ar
+     Dm                        Am
+Sei bem que existe um limite
+         C
+Mas você insiste, você
+                Dm Am Gm Am C Am Dm
+ persiste
+Dm         Em                Dm     Em
+    Você acha que tem tudo
+Dm        Em                Dm            Em
+   Você acha que tem tudo sob controle
+Dm         Em                Dm   Em
+    Você acha que tem tudo
+Dm        Em              Dm             Em
+  Você acha que tem tudo sob controle
+Dm         Em                Dm   Em
+    Você acha que tem tudo
+Dm        Em              Dm             Em
+  Você acha que tem tudo sob controle ....
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+Gm = 3 5 5 3 3 3

@@ -1,0 +1,70 @@
+@titulo: pra-ficar-contigo
+@autor:
+@intérprete: Lairton e Seus Teclados
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lairton - Pra Ficar Contigo
+
+[Intro] G  Em7  F#m  Bm
+        F#7  Bm7  Em 
+        G  A  D  G 
+
+       D     G      Bm
+Ai que vontade de te ver de novo
+      Am      C   G
+Não vejo a hora de te abraçar
+      A     F#     Bm
+Eu tô doidinho pra ficar contigo
+  E      Bm       Em  A
+Agarradinho e nunca mais largar
+     D       G     Bm
+Ai que vontade de ganhar teu beijo 
+     Am      C    G
+E nesse beijo a gente viajar
+       A    F#   Bm
+Rolar na grama na beira do rio
+    G        A   D     D7
+Amar gostoso e depois descansar
+       G     Bm    G
+Ah se eu pudesse eu pedia ao tempo 
+         Em       A   D
+Pra dar mais um tempo pra ficar contigo
+      D           Em
+Porque não dá vontade de ir embora 
+         G       A    D    B7
+O que eu mais quero é ter você comigo
+    Em       A    F#m
+O nosso amor é lenha na fogueira
+    Bm     Em         A   D  B7
+Quando a gente esquenta não quer mais parar
+    Em        A      F#m
+Quero ficar contigo a vida inteira
+ Bm    Em    A     D  G  A
+Amor não demora eu quero te amar
+ D   Bm     Em   A   D
+Vem prá cá meu amor vamos namorar
+  Bm   Em      A   D
+Vem cá meu amor vamos aproveitar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

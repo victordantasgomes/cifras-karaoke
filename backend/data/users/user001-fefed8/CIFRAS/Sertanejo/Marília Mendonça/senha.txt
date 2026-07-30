@@ -1,0 +1,62 @@
+@titulo: senha
+@autor:
+@intérprete: Marília Mendonça
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Marília Mendonça - Senha
+
+Intro: C#m A E B
+
+C#m                                            A
+E tao difícil perceber o que o seu olhar ta tentando dizer
+C#m                                            A
+as vezes penso, isso e bobagem mas me perco e não consigo esconder
+C#m                                            A
+esse enigma confunde a minha mente eu vou lutar pra entender
+C#m                                            A
+e coisa sobrenatural não é normal esse meu jeito de te ver
+
+Refrão 2x:
+E                B              F#m
+Vou desvendar a senha do seu coração
+                 A               E
+eu vô fazer de tudo pra te ter na mão
+                 B               F#m
+pra que tanto mistério chega de segredo
+                 A
+eu to aqui pra te amar não tem porque ter medo.
+
+
+Intro: ( C#m A E B )
+
+C#m                                            A
+E tao difícil perceber o que o seu olhar ta tentando dizer
+C#m                                            A
+as vezes penso, isso e bobagem mas me perco e não consigo esconder
+C#m                                            A
+esse enigma confunde a minha mente eu vou lutar pra entender
+C#m                                            A
+é coisa sobrenatural não é normal esse meu jeito de te ver
+
+Refrão 4x:
+E                B              F#m
+Vou desvendar a senha do seu coração
+                 A               E
+eu vô fazer de tudo pra te ter na mão
+                 B               F#m
+pra que tanto mistério chega de segredo
+                 A                        E     ( B E C#m )
+eu to aqui pra te amar não tem porque ter medo.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

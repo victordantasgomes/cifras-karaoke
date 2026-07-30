@@ -1,0 +1,154 @@
+@titulo: seguindo-estrelas
+@autor:
+@intérprete: Paralamas do Sucesso
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Os Paralamas do Sucesso - Seguindo Estrelas
+
+Intro:
+   D                   D5(9)/C
+E|----------2--3/5-3------2--0--0h2--------
+B|-----3----3-------------0--0-------------
+G|---2---2--2-----------2------------------
+D|0---------0------------------------------
+A|--------------------3--------------------
+E|-----------------------------------------
+
+   G6/B            Gm6/Bb          D5(9)
+E|--------0-----------------0--------------
+B|----3-----3-----------3-----3-------3----
+G|------0-----0-------0---0-----0---2--2---
+D|--0---------------0-------------0--------
+A|2-------------0-1------------------------
+E|-----------------------------------------
+
+         D5(9)/C         G6/B
+E|0---------------0---------------0--------
+B|----3-------3-------3-------3-------3----
+G|--2-------2---2---2-------0---0---0------
+D|--------0---------------0----------------
+A|------3---------------2------------------
+E|-----------------------------------------
+
+
+   Gm6/Bb
+E|---------0-------------------------------
+B|----3--------3---------------------------
+G|--0---0----0-----------------------------
+D|-----------------------------------------
+A|1----------------------------------------
+E|----------------------------------------
+
+D5(9)
+ Sigo palavras e busco estrelas
+      D7M(9)
+O que é que o mundo fez
+Pra você rir assim
+Bm7(11)
+  Pra não tocá-la, melhor nem vê-la
+Como é que você pôde se perder de mim
+G5
+ Faz tanto frio, faz tanto tempo
+            G5(7M)
+Que no meu mundo algo se perdeu
+Em7
+  Te mando beijos
+Em outdoors pela avenida
+E você sempre tão distraída
+   F#5+         F#     G7M
+Passa e não vê,    e não vê
+
+D5(9)
+ Fico acordado noites inteiras
+    D7M(9)
+Os dias parecem não ter mais fim
+Bm7(11)
+  E a esfinge da espera
+Olhos de pedra sem pena de mim
+G5
+  Faz tanto frio, faz tanto tempo
+            G5(7M)
+Que no meu mundo algo se perdeu
+Em7
+  Te mando beijos
+Em outdoors pela avenida
+Você sempre tão distraída
+F#5+         F#      G7M
+Passa e não vê,   e não vê
+
+Refrão 2x:
+D            D5(9)/C     G6/B  Gm6/Bb    D
+  Já não consigo não pensar       em você
+D5(9)/C     G6/B  Gm6/Bb
+D            D5(9)/C     G6/B  Gm6/Bb    D
+  Já não consigo não pensar       em você
+
+( D5(9)/C     G6/B  Gm6/Bb D )
+
+D5(9)
+ Fico acordado noites inteiras
+    D7M(9)
+Os dias parecem não ter mais fim
+Bm7(11)
+  E a esfinge da espera
+Olhos de pedra sem pena de mim
+G5
+  Faz tanto frio, faz tanto tempo
+            G5(7M)
+Que no meu mundo algo se perdeu
+Em7
+  Te mando beijos
+Em outdoors pela avenida
+Você sempre tão distraída
+F#5+         F#      G7M
+Passa e não vê,   e não vê
+
+D5(9)
+ Sigo palavras e busco estrelas
+      D7M(9)
+O que é que o mundo fez
+Pra você rir assim
+Bm7(11)
+  Pra não tocá-la, melhor nem vê-la
+Como é que você pôde se perder de mim
+G5
+ Faz tanto frio, faz tanto tempo
+            G5(7M)
+Que no meu mundo algo se perdeu
+Em7
+  Te mando beijos
+Em outdoors pela avenida
+E você sempre tão distraída
+   F#5+         F#     G7M
+Passa e não vê,    e não vê
+
+Refrão:
+D            D5(9)/C     G6/B  Gm6/Bb    D
+  Já não consigo não pensar       em você
+D5(9)/C     G6/B  Gm6/Bb
+D            D5(9)/C     G6/B  Gm6/Bb    D
+  Já não consigo não pensar       em você
+
+( D5(9)/C     G6/B  Gm6/Bb D )
+
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+Bm7(11)*  = 7 X 7 7 5 X - (*C#m7(11) na forma de Bm7(11))
+D*  = X X 0 2 3 2 - (*E na forma de D)
+D5(9)*  = X 5 7 9 X X - (*E5(9) na forma de D5(9))
+D5(9)/C*  = X 3 0 2 3 0 - (*E5(9)/D na forma de D5(9)/C)
+D7M(9)*  = X 5 4 6 5 X - (*E7M(9) na forma de D7M(9))
+Em7*  = 0 2 2 0 3 0 - (*F#m7 na forma de Em7)
+F#*  = 2 4 4 3 2 2 - (*G# na forma de F#)
+F#5+*  = 2 5 4 3 2 X - (*G#5+ na forma de F#5+)
+G5*  = 3 5 5 X X X - (*A5 na forma de G5)
+G5(7M)*  = 3 X 4 0 3 X - (*A5(7M) na forma de G5(7M))
+G6/B*  = 7 5 5 7 5 X - (*A6/C# na forma de G6/B)
+G7M*  = 3 X 4 4 3 X - (*A7M na forma de G7M)
+Gm6/Bb*  = X 1 2 0 3 0 - (*Am6/C na forma de Gm6/Bb)

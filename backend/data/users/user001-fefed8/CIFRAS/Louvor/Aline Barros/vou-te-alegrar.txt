@@ -1,0 +1,75 @@
+@titulo: vou-te-alegrar
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Vou Te Alegrar
+
+[Intro] E  B9  C#m7  A9
+
+E                              B9
+  Eu me rendo a ti perante os homens
+            C#m7
+Perante tudo    quero que o universo seja
+A9              E/G#
+Minha testemunha    vou erguer perante o
+    B/D#              C#m7
+Teu trono minha adoração    e levar com ela
+     A9
+Toda minha gratidão
+
+  C#m7         B9               A9   ( E B/D# C#m )
+Senhor, és o motivo da minha alegria
+      C#m7         B9                 A9
+Deus  meu, és o caminho distante do mundo
+
+[Refrão]
+          E                  F#m
+Vou te alegrar, com o meu louvor
+
+               E/G#         A9
+Eu quero te tocar, com o meu amor
+             C#m7                 B9
+Poder te abraçar, sentir o teu pulsar teu
+          A9        B C#m7 A9
+Coração bater ao meu
+
+   E   B9    C#m7 A9   E/G# B/D#
+Te amo   te adoro   me prostro
+    C#m7           A9
+Pra te  adorar, te alegrar
+   E   B9    C#m7 A9   E/G# B/D#
+Te amo   te adoro   me prostro
+          A9
+Só pra te adorar, te alegrar
+
+          E                  F#m
+Vou te alegrar, com o meu louvor
+               E/G#         A9
+Eu quero te tocar, com o meu amor
+             C#m7                 B9
+Poder te abraçar, sentir o teu pulsar teu
+          A9        B C#m7 A9
+Coração bater ao meu
+
+[Final] A9  B  A/C#  A9  A9  D  A/C#  A9  B  A9  G  E  E  E
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

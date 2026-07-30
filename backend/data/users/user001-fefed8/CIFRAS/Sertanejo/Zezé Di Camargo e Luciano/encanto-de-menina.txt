@@ -1,0 +1,59 @@
+@titulo: encanto-de-menina
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Encanto de Menina
+
+Acordes entre() é do refrão meio tom acima, tocar na ultima vez que repetir o refrão.
+
+
+INTRO - F / Bb / Bb / Gm / Am7 / Gm / C / F / Bb / F / Bb / Gm / Am7 / Gm / C / Bb / C
+
+  F           Bb         F
+Esconde seu encanto de menina
+   F          Bb         F
+Esconde seu feitiço de mulher
+ Bb        Am7      Gm               Am7         Eb
+Não quero ser um pecador, Deus me proteja desse amor
+       Gm           C
+Desse fogo em seu olhar...
+   F            Bb
+Mas quando ti desenho em minha mente
+    Eb       Bb           F
+E deixo o coração se aproveitar
+ Bb         Am7          Gm              Am7
+Feito uma luz no amanhecer, claro e vidente da pra
+  Eb      Gm      C    Bb
+ver, sua pele arrepiar...
+
+
+REFRÃO
+         F (F#)   Bb (B) F (F#)
+Te amo menina, te amo menina
+ Bb (B)       Gm (G#m)        Bb (B)          C (C#)
+NO olhar estampado a cor do pecado desejo de amar
+Bb (B)   F (F#) Bb (B)     F (F#)
+Te amo menina,te amo menina
+Bb (B)       Gm (G#m)             C (C#)
+Voce tem o brilho do a amor que domina
+         F (F#)  para terminar G#m / B / G#m / B / F#
+Te amo menina
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+Eb = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4
+Gm = 3 5 5 3 3 3

@@ -1,0 +1,96 @@
+@titulo: tchau
+@autor:
+@intérprete: Maiara e Maraisa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Maiara e Maraisa - Tchau
+
+[Intro] E  C#m  B
+
+[Primeira Parte]
+
+    C#m              B             A
+Às vezes, falar um tchau é mais difícil
+
+Que um eu te amo vinte vezes
+        C#m       E
+Nessas horas, a calmaria vira um terror
+  B              F#m  A
+Tipo sexta-feira 13
+
+[Pré-refrão]
+
+E                            B
+Eu não queria, mas tô te largando sem querer
+   F#m                                   A
+Eu não queria, mas é o que eu tenho que fazer
+
+[Refrão]
+
+
+  E            B
+Tchau, não dá mais pra acontecer
+ F#m                  A                               E
+Não dá pra deixar na mão quem estava comigo antes de você
+        B                         F#m
+Não dá mais, é assim que a gente fica
+           A
+Até nunca mais, amor da minha vida
+
+  E            B           F#m
+Tchau, não dá mais pra acontecer
+                      A                               E
+Não dá pra deixar na mão quem estava comigo antes de você
+        B                         F#m
+Não dá mais, é assim que a gente fica
+            A                  E
+Até nunca mais, amor da minha vida
+
+( B  F#m  A )
+
+[Pré-refrão]
+
+    E                                   B
+Eu não queria, mas tô te largando sem querer
+   F#m                                    A
+Eu não queria, mas é o que eu tenho que fazer
+
+[Refrão]
+
+  E            B             F#m
+Tchau, não dá mais pra acontecer
+                      A                               E
+Não dá pra deixar na mão quem estava comigo antes de você
+        B                         F#m
+Não dá mais, é assim que a gente fica
+           A
+Até nunca mais, amor da minha vida
+
+  E            B           F#m
+Tchau, não dá mais pra acontecer
+                      A                               E
+Não dá pra deixar na mão quem estava comigo antes de você
+        B                         F#m
+Não dá mais, é assim que a gente fica
+            A
+Até nunca mais, amor da minha vida
+
+( E  B  F#m )
+
+           A
+Até nunca mais amor da minha vida
+
+( E )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

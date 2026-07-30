@@ -1,0 +1,75 @@
+@titulo: a-valsa-do-inferno
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - A Valsa do Inferno
+
+[Intro]  C  D  Am
+
+ ( C     D       Am )
+os nomes foram trocados pra proteger os culpados
+ um drinque ou dois ou vinte depois,
+ um passo pra lá, dois passos pra cá
+bebida à mentira, um dia vira verdade
+ um passo pra lá, dois passos pra cá
+ não sei se é sonho ou realidade
+
+ F     G      Am     G
+e vem e vai, e sobe e cai
+   F     G      Am     G
+pra todo sempre e nunca mais
+   F     G      Am     G   E
+dançando o retorno eterno sem movimento
+     E7         C  D  Am
+uma valsa do inferno
+
+  ( C           D      Am )
+essa dança ninguém conhece
+
+ é mais intensa que uma prece
+ um segredo guardado e nunca contado
+ é só começar, não vai mais parar
+  ( C   D      Am )
+escolha o seu par
+ procure o seu lugar
+ olho no olho, se deem as mãos
+ e se deixem levar pelo salão
+
+F     G      Am     G
+e vem e vai, e sobe e cai
+   F     G      Am     G
+pra todo sempre e nunca mais
+   F     G      Am     G   E
+dançando o retorno eterno sem movimento
+     E7         C  D  Am
+uma valsa do inferno
+
+[Solo]  C  D  Am
+        E  E7
+
+F     G      Am     G
+e vem e vai, e sobe e cai
+   F     G      Am     G
+pra todo sempre e nunca mais
+   F     G      Am     G   E
+dançando o retorno eterno sem movimento
+     E7         C  D  Am
+uma valsa do inferno
+
+( C  D  Am )
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

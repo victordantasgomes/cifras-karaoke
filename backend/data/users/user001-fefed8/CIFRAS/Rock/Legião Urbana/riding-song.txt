@@ -1,0 +1,66 @@
+@titulo: riding-song
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Riding Song
+
+[Intro]  D  G  F  Am  C
+
+E|----------------------------------|
+B|-3---1---3---1--3-1---------------|
+G|---2---2---2--------5~-5-5-4-2-4~-|
+D|----------------------------------|
+A|----------------------------------|
+E|----------------------------------|
+
+"Eu sou o Renato Russo
+Eu escrevo as letras, eu canto
+Nasci no dia 27 de março, eu tenho 23 anos
+E sou Áries e ascendente em Peixes
+Eu trabalhava com Jornalismo, rádio, era professor de Inglês também
+E ... comecei a trabalhar com 17 anos e tudo
+Mas só que de repente tocar Rock era uma coisa que eu gostava mais de fazer
+E como deu certo eu continuo fazendo isso até hoje"
+
+"Meu nome é Dado Villa-Lobos
+Sou guitarrista da Legião Urbana
+Nasci dia 29 de Junho de 65, tenho 21 anos
+
+Cheguei em Brasília em torno de 79
+Cursei meu segundo grau, consegui entrar na faculdade de Sociologia
+Só que não era exatamente o lance que eu tava a fim de fazer
+Muito teórico, não tem nada de praticidade
+Aí meu lance era de repente fazer música"
+
+"Eu sou o Renato Rocha
+Baixista do Legião Urbana
+Tenho 25 anos, adoro esportes, adoro corrida de automóvel
+Sou de Brasília também, adoro música, Jazz, Rock
+Adoro Dead Kennedys
+Cursei metade do meu segundo grau
+Parei de estudar, por que eu gostava de fazer esportes"
+
+"Oi, meu nome é Marcelo Bonfá
+Nasci em 65, sou do signo de Aquários
+Gosto de esportes aquáticos, gosto de desenhar
+E gosto de música
+Saí da escola depois que eu terminei meu segundo grau
+Agora eu toco bateria na Legião Urbana"
+
+Eu já sei o que eu vou ser
+Ser quando eu crescer
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

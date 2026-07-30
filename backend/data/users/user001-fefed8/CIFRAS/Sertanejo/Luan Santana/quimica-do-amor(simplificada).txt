@@ -1,0 +1,103 @@
+@titulo: quimica-do-amor(simplificada)
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Química do Amor
+
+Intro: E  A5(9)
+
+Primeira Parte:
+    E
+Queria ser um peixe e mergulhar no seu aquário
+    B5(9)
+Queria ser a data pra marcar seu calendário
+F#m           Am
+Eu e você, espera pra ver
+    E
+Que tal, a gente agora misturar a nossa cor
+     B5(9)
+Pra ver a combustão, a química do nosso amor
+F#m              Am
+Eu e você, quer pagar pra ver?
+
+    B5(9)                              A5(9)
+Me diga, que você vai entrar na minha vida
+                            E
+Que eu sou a sua musa preferida
+                                   B5(9)
+Diga que sou seu bem me quer , seu anjo sua fada,  o que você quiser
+
+ B5(9)                                  A5(9)
+Fala, no meu ouvido bem baixinho que me ama,
+                              E
+E me leva de uma vez pra sua cama,
+                       B5(9)
+Me dá uma noite de prazer.
+    A5(9)  B5(9)      E
+Eu topo tudo com você
+
+Refrão:
+ E                                         A5(9)  B5(9)
+Vão bora, não demora, eu quero ser o seu amor ôô ôô
+                      E      C#m
+Tô louco pra me entregar aa aa
+   B5(9)             A5(9)         E
+E aí, paixão, o meu coração, tá xonado de tanto desejo
+                     A5(9)  B5(9)
+Eu quero ser o seu amor ôô ôô
+                      E      C#m
+Tô louca pra me entregar aa aa
+       A5(9)                      Am
+Tudo que eu quero agora, é tá contigo e te amar!
+
+Solo: E  B5(9)  A5(9)  Am
+
+(repete a primeira parte)
+
+    B5(9)                              A5(9)
+Me diga, que você vai entrar na minha vida
+                            E
+Que eu sou a sua musa preferida
+                                   B5(9)
+Diga que sou seu bem me quer , seu anjo sua fada,  o que você quiser
+ B5(9)                                  A5(9)
+Fala, no meu ouvido bem baixinho que me ama,
+                              E
+E me leva de uma vez pra sua cama,
+                       B5(9)
+Me dá uma noite de prazer.
+    A5(9)  B5(9)      E
+Eu topo tudo com você
+
+Refrão:
+ E                                         A5(9)  B5(9)
+Vão bora, não demora, eu quero ser o seu amor ôô ôô
+                      E      C#m
+Tô louco pra me entregar aa aa
+   B5(9)             A5(9)         E
+E aí, paixão, o meu coração, tá xonado de tanto desejo
+                     A5(9)  B5(9)
+Eu quero ser o seu amor ôô ôô
+                      E      C#m
+Tô louca pra me entregar aa aa
+       A5(9)                      Am
+Tudo que eu quero agora, é tá contigo e te amar!
+
+*Depois do último refrão, tocar:
+
+E:↓↓↓ A5(9): ↓ B5(9): ↓ E: ↓↓↓
+
+----------------- Acordes -----------------
+A5(9) = X 0 2 2 0 0
+Am = X 0 2 2 1 0
+B5(9) = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

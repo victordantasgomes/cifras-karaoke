@@ -1,0 +1,73 @@
+@titulo: nao-tente-me-impedir
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Não Tente Me Impedir 
+
+Introdução: Bm G A F#m (2x)
+Solo:
+   Bm         G           A            F#m
+e|---------2-----------3----------0--0-2------|
+B|-----3-----------3----------2------2-2---2--|
+G|---4---4------0----0------2---2----------2--|
+D|--------------------------------------------|
+A|-2----------------------0-------------------|
+E|------------3--------------------------2----|
+
+Bm            G                 A
+Dum de ra ri rum, dum de ra ri rum, dum de ra ri rum (2x)
+
+Bm        A          G         F#            Bm
+Eu,jurar amor, para que, você não me engana mais.
+      A          G         F#         D
+Me anulei por você só pra ter desilusão,
+      G           A        F#          Bm
+Você pode até chorar, de joelhos implorar,
+      G                A                Bm
+E eu não vou voltar atrás na minha decisão.
+
+
+Bm            G                 A
+Dum de ra ri rum, dum de ra ri rum, dum de ra ri rum.
+
+Bm         A        G          F#             Bm
+Eu sempre fui tão fiel e você nem pensou em mim.
+         A         G        F#         D
+Me envolveu e mentiu mas agora que acabou,
+      G         A    F#               Bm
+Se recusa entender não aceita e não crê,
+        G           A                    Bm
+Mas de fato não da mais pra mim e pra você.
+
+                        G              A
+      Nem que o mundo acabe eu vou partir pro seu próprio bem,
+                           Bm
+R     Não tente me impedir.
+e                G          A                                  Bm
+f     Chega de amor unilateral, só vivi um sonho nunca foi real.
+r                       G              A
+ã     Nem que o mundo acabe eu vou partir pro seu próprio bem,
+o                           Bm
+      Não tente me impedir.
+                  G         A                          Bm
+      Você só me deu desilusão, agora eu te dou a solidão.
+
+Bm            G                 A
+Dum de ra ri rum, dum de ra ri rum, dum de ra ri rum.
+Bm         A       G          F#             Bm
+Eu sempre fui tão fiel e você nem pensou em mim.........
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

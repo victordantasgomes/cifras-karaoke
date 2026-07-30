@@ -1,0 +1,44 @@
+@titulo: bem-vindo-a-familia
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Bem Vindo À Família
+
+ E                       A9        B             G#m7
+Bem vindo à família, é bom estar aqui
+              C#m F#m               A9        B
+Para compartilhar       e aprender a amar
+E                    A9              B                        G#m7
+Que sejamos pra você o que Deus quer de nós
+        C#m7 F#m7            A9 G#m7  F#m7  B9      E    D/E
+Uma família       em que possa          com    fi        ar
+
+A                    B/A                    G#m7               C#m7
+Que amemos uns aos outros como ele nos amou
+         A                 B/A           G#m7          D/E
+Que só falemos coisas boas e de seu amor
+ A                      B/A           G#m7        C#m7
+Que o Santo Espírito nos guie em oração
+    F#m7          B9           F#m7     B9
+Então vamos ser da famí            lia
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D/E = X X 2 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G#m7 = 4 X 4 4 4 X

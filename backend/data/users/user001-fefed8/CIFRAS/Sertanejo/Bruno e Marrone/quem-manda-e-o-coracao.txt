@@ -1,0 +1,85 @@
+@titulo: quem-manda-e-o-coracao
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Quem Manda É o Coração
+
+Intro: D9 Em7 G D9  G6
+
+                     D
+Não vai dar pra segurar
+                Em7
+A saudade machucando o coração
+                G
+Faço tudo para não te procurar
+                   D                   A9
+Mas não posso inventar outra paixão
+              D
+Desde que te conheci
+                Em7
+Toda minha vida se modificou
+                   G
+Eu já não consigo mais me aventurar
+                    D               Am7 D7
+Outra vez eu fui tocado pelo amor
+
+ G
+Fui invadido, atingido, fisgado,
+
+  F#m
+Surpreendido, vencido, laçado,
+ G
+Eu que pensava que fosse
+              D         Am7 D7
+Só um momento a mais
+ G
+Vivo perdido, sonhando acordado
+ F#m
+A cada dia mais apaixonado
+G                A
+Te desejando de novo
+              D          A
+Te querendo demais
+
+   D
+É tarde pra voltar atrás,
+    Em
+É tarde pra te esquecer
+     A                    A7
+Não posso mais conter no peito
+             D      A
+A falta de você
+     D
+Meu corpo chama pelo teu,
+    Em
+Como é que eu posso dizer não,
+       G                  A
+Pois quando tratasse de amor,
+                    D
+Quem manda é o coração.
+
+D9   Em7  G   D  Am7 D7
+
+ G
+Fui invadido, atingido, fisgado...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+A9 = X 0 2 2 0 0
+Am7 = X 0 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G6 = 3 X 2 4 3 X

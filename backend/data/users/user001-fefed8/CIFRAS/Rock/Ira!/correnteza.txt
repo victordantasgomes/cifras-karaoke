@@ -1,0 +1,127 @@
+@titulo: correnteza
+@autor:
+@intérprete: Ira!
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ira! - Correnteza
+
+[Intro]  A7
+
+               Dm     G7     A7
+Sei, os velhos vícios que herdei
+         Dm    G7     A
+Se multiplicam no meu sangue
+      F6    G7       A7
+Correnteza que me arrasta
+        F6    C7+    A7
+Sem ter onde me agarrar
+     F6      G7     A
+É a queda incontrolável
+  Dm9/A   G7  A7
+Ver-ti-gi-no-sa
+
+( Dm  Bbm7(5-)  Dm  F7+  A  F7+  Bb  Dm )
+
+A7         Dm     G7    A7
+Sei, tudo está em seu lugar
+            Dm      G7     A7
+A terra e o sol, o céu e o mar
+
+      F6      G7      A
+E a razão sempre me atrai
+            Bm7(5-)      A7
+Nos velhos vícios que herdei
+    Dm9/A   G7    A7
+É a queda incontrolável
+  Dm9/A     G7
+E ver-ti-gi-no-sa
+
+Oooooh, oh
+
+Bb7    Dm    A       Dm     Bb7    Dm
+             Oooooh, oh
+
+F#m            E
+Mais e mais e mais
+                  F#m6       E
+Mergulho em meus dramas pessoais
+F#m             E
+Mais e mais e mais
+                  F#m6       E
+Mergulho em meus dramas pessoais
+B7    A        Abm7         E
+Ah!      fico cego, surdo, mudo
+Bm   D/A         E7
+Ah!,     a correnteza leva tudo.
+
+[Solo]  A  Dm  Bbm7(5-)  Dm  A7
+        F7+  F6  Bb  Dm
+
+A7               Dm     G     A7
+Sei, os velhos vícios que herdei
+         Dm    G7     A
+Se multiplicam no meu sangue
+      F6    G7       A7
+Correnteza que me arrasta
+        F6    C7+      A7
+Sem ter onde me agarrar
+     F6      G7     A
+É a queda incontrolável
+  Dm9/A   G7
+Ver-ti-gi-no-sa
+
+A       Dm    Bb7    Dm
+Oooooh, oh
+A       F6     Bbm7    Dm
+Oooooh, oh
+
+F#m            E
+Mais e mais e mais
+                  F#m6       E
+Mergulho em meus dramas pessoais
+F#m             E
+Mais e mais e mais
+                  F#m6       E
+Mergulho em meus dramas pessoais
+B7    Bm7      Abm7         E
+Ah!      fico cego, surdo, mudo
+Bm   D           E7         E
+Ah!,     a correnteza leva tudo
+
+[Solo Final]  A  Dm  Bb7  Dm  A  F7+  Bb7+
+              Dm  A7  F  Bb7  Dm  A  Dm
+              Bb  Dm  A7  F  Bb7+  Dm
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Abm7 = 4 X 4 4 4 X
+B7 = X 2 1 2 0 2
+Bb = X 1 3 3 3 1
+Bb7 = X 1 3 1 3 1
+Bb7+ = X 1 3 2 3 1
+Bbm7 = X 1 3 1 2 1
+Bbm7(5-) = X 1 2 1 2 X
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Bm7(5-) = X 2 3 2 3 X
+C7+ = X 3 2 0 0 X
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+Dm = X X 0 2 3 1
+Dm9/A = 5 5 7 9 6 5
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F#m6 = 2 X 1 2 2 X
+F6 = 1 X 0 2 1 X
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

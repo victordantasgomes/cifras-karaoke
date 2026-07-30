@@ -1,0 +1,89 @@
+@titulo: nao-vou-calar-meus-labios
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Não Vou Calar Meus Lábios
+
+Intro: Bm     A    G7M(9)
+        D/F#   Em   C9    G/A    A
+
+Verso 1:
+
+D9                               A/C#   C#º/G   D/B            D/A      C/D
+Não vou calar meus lábios              vou profetizar
+ G7M(9)          D/F#
+Manifestar a graça
+        Em                      E                    G/A     A     C#º/G
+E abençoar a quem Deus quer libertar
+
+D9                              A/C#   C#º/G   D/B             D/A      C/D
+Não vou calar meus lábios             vou profetizar
+   G                  D/F#
+Manifestar a graça 
+        E4                      E       E/G#     G/A     A     C#º/G
+E abençoar a quem Deus quer libertar
+
+Refrão 1:
+
+                  Bm    A/F#         G
+Sobre tua vida, vou profetizar
+      D/F#             Em   Em7/D        C    A
+Nenhuma maldição      te alcançará
+                D9               C/A      D          G
+Sei que Deus tem pra ti um manancial
+          D/F#    G/E   G/D      A     D9     A   C#º/G
+Cujas águas   nun---ca      faltarão
+
+(Verso 1)       
+
+Refrão 2:
+
+                  Bm    A/F#         G
+Sobre tua vida, vou profetizar
+     D/F#             Em    Em7/D         C    A
+Nenhuma maldição      te alcançará
+                D9               C/A      D          G
+Sei que Deus tem pra ti um manancial
+          D/F#     G/E   G/D   C9    A4  A
+Cujas águas   nun---ca      faltarão
+
+                D9               C/A       D         G
+Sei que Deus tem pra ti um manancial
+          D/F#     G/E   G/D     A     D9
+Cujas águas   nun---ca      secarão
+
+(Refrão 2)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/F# = 2 0 2 2 2 0
+A4 = X 0 2 2 3 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#º/G = X 10 8 9 8 X
+C/A = X 0 2 0 1 0
+C/D = X X 0 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/B = X 2 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+Em = 0 2 2 0 0 0
+Em7/D = X X 0 0 3 0
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/D = X 5 5 4 3 X
+G/E = 0 2 0 0 3 3
+G7M(9) = 3 2 4 2 X X

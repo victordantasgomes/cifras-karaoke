@@ -1,0 +1,97 @@
+@titulo: independencia(simplificada)
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Independência
+
+Intro: C  C4 (2x)
+       Am F7M (2x)
+
+Primeira parte:
+C             C4        C                     C4
+   Toda essa curiosidade  que você tem pelo que eu faço
+Am                    F7M      Am                   F7M
+   Eu não gosto de me explicar,  eu não gosto de me explicar
+C               C4      C            C4
+   Toda essa intensidade  buscamos identidade
+
+Bb5(9)             F7M      Bb5(9)            F7M
+   Mas não sabemos explicar,      não sabemos explicar
+C             C4         C                    C4
+   Se paro e me pergunto:  será que existe alguma razão
+Am              F7M     Am                F7M         C
+   Prá viver assim, se não estamos de verdade juntos
+
+Refrão:
+Am               G          F7M                                  Am
+   Procuramos independência,   acreditamos na distância entre nós
+
+              G          F7M
+Procuramos independência,   acreditamos na distância entre nós
+
+( C C4 ) (2x)
+
+C             C4         C                   C4
+   Toda essa meia-verdade, a qual temos nos conformado
+Am                    F7M     Am                  F7M
+   Só conseguimos nos afastar,   nós aprendemos a aceitar
+C                C4       C             C4
+   Tantas coisas pela metade,  como essa imensa vontade
+Bb5(9)             F7M      Bb5(9)                 F7M
+   Que não sabemos explicar,      que não sabemos saciar
+C
+   Se paro e me pergunto: será que existe alguma razão
+Am              F7M     Am                F7M       C
+   Prá viver assim, se não estamos de verdade juntos
+
+Refrão:
+Am               G          F7M                                  Am
+   Procuramos independência,   acreditamos na distância entre nós
+              G          F7M
+Procuramos independência,   acreditamos na distância entre nós
+
+(base solo) C (4x) Am  F7M (2x)
+ C  (2x)
+
+Refrão 2x:
+Am               G          F7M                                  Am
+   Procuramos independência,   acreditamos na distância entre nós
+              G          F7M                  Am      G
+Procuramos independência,   acreditamos na distância entre nós
+
+ F7M               Am   G      F        C
+Nananara nananara  ahh yehh   nananara nananara
+
+Trecho final 8x:
+C            C4
+  Toda essa curiosidade
+C              C4
+  Toda essa intensidade
+C            C4
+  Toda essa meia-verdade
+C                  C4
+  Tantas coisas pela metade
+C            C4
+  Toda essa curiosidade
+C              C4       ( C C4 )  (2x)
+  Toda essa intensidade
+
+Final:
+C              C4       ( C )
+  Toda essa intensidade
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb5(9) = X 1 3 3 1 1
+C = X 3 2 0 1 0
+C4 = X 3 3 0 1 0
+F = 1 3 3 2 1 1
+F7M = X X 3 2 1 0
+G = 3 2 0 0 3 3

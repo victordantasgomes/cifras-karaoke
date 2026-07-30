@@ -1,0 +1,10 @@
+@titulo: nova-ordem
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:

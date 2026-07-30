@@ -1,0 +1,81 @@
+@titulo: verde-vinho
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Verde Vinho
+
+[Intro] C#m  E  G#  C#m
+
+C#m                                       B  E
+Ninguém na rua, na noite fria só eu e o luar
+                                               E      B
+Voltava a casa quando vi que havia luz no velho      bar
+G#    C#m             G#m          C#m
+Não hesitei, fazia frio e nele entrei
+                                         B     E
+Estava tão longe da minha terra tive a sem...sação
+                                    E       B
+De ter entrado numa taberna de Bragão ou Monsão
+G#          C#m          G#m     C#m
+E um homem velho se acercou e assim falou
+A                                        E
+Vamos brindar um vinho verde que é do meu Portugal
+                      B7
+E o vinho verde me fará recordar
+                      E               Bm7  E7
+Aldeia branca que deixei pra trás no mar
+A                                            E
+Vamos brindar com verde vinho pra que eu possa cantar
+
+                         B7
+Canções do ninho que fazem sonhar
+                    C#m
+Com o momento de voltar ao lar
+                                           B  E
+Falou me então daquele dia triste o velho Luiz
+                                         E         B
+Em que deixara tudo quanto existe pra ser fé.....liz
+G#         C#m             G#m            C#m
+A noiva, a mãe, a casa, o pai e o cão também
+                                      B      E
+Pensando agora naquela cena que na estran...ja vi
+                                            E     B
+Recordo a mágoa , recordo a pena que com e...le    vivi
+G#      C#m             G#m             C#m
+Bom Português regressa breve e vem de vez
+A                                        E
+Vamos brindar um vinho verde que é do meu Portugal
+                      B7
+E o vinho verde me fará recordar
+                      E               Bm7 E7
+Aldeia branca que deixei pra trás no mar
+A                                            E
+Vamos brindar com verde vinho pra que eu possa cantar
+                         B7                             C#m
+Canções do ninho que fazem sonhar   com o momento de voltar ao lar
+A                                        E                                   B7
+Vamos brindar um vinho verde que é do meu Portugal   e o vinho verde me fará recordar
+                      E               Bm7 E7
+Aldeia branca que deixei pra trás no mar
+A                                            E
+Vamos brindar com verde vinho pra que eu possa cantar
+                         B7                             C#m
+Canções do ninho que fazem sonhar   com o momento de voltar ao lar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4

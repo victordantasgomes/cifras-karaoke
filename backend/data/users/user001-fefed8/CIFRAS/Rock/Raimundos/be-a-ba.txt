@@ -1,0 +1,140 @@
+@titulo: be-a-ba
+@autor:
+@intérprete: Raimundos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raimundos - Bê a Bá
+
+Obs.: ~ =>deixe a nota tocando
+      / =>deslize de uma nota p/ outra(slide)
+
+Intro: baixo:A|-0-0-7-5-8-0-8-|(várias vezes)
+
+       Guitarra:           e depois:(c/ wah-wah)[4X]
+       e|---------------|  e|-------------|
+       B|---------------|  B|-------------|
+       G|---------------|  G|------10-10--|
+       D|-3-2-0~--------|  D|-7-7--10-10--|
+       A|-------3-2-0~--|  A|-7-7--8--8---|
+       E|---------------|  E|-5-5---------|
+
+------------------------------------------------------
+Riff1                      Riff "de passagem"
+e|--------------|          e|-----------------|          
+B|--------------|          B|-----------------|          
+G|---------5-5--|          G|-2~-------2-3-2--|
+D|-2-2-----5-5--|          D|-2~--2-3-2-------|          
+A|-2-2-2-0-3-3--|          A|-0~--------------|         
+E|-0-0----------|          E|-----------------|          
+
+
+(riff1)[4X] => (riff "de passagem")[1X]
+"Esse é o Bê a Bá que eu aprendi lá no sertão,
+ enchendo a cara de cana e a barriga de pão
+ Para um melhor resultado eu dei um trato no pulmão
+ e se o cabra for safado a culpa é do Lampião"
+
+(riff1)[4X]
+"Eu já conheço as pistoleira e cansei de mulher rampeira
+ A única que não me cansa é a tal de Maria Tonteira
+ Por ela eu como vidro, subo a nado cachoeira
+ Se ela vier prensada apertada é mais maneira"
+
+Riff2[1X]
+e|----------------|
+B|----------------|
+G|------7-7-9-10--|
+D|-5-5--7-7-9-10--|
+A|-5-5--5-5-7-8---|
+E|-3-3------------|
+
+Riff3
+e|------------------------|
+B|------------------------|
+G|------------------------|
+D|-2-2-5-----7-----7-7-7--|
+A|-2-2-5-----7-----7-7-7--|
+E|-0-0-3-0-0-5-0-0-5-5-5--|
+
+(riff3)[4X]
+"Cala boca abestado, deixa de falar besteira
+ Solução de emaconhado é tapar o sol com a peneira
+ E quando tu tiver crescido e teu pinto tiver comprido
+ a vida lhe será cruel"
+
+Riff4
+e|--------0--0--|
+B|--------0--0--|
+G|--------------|
+D|-5-5---4--3---|
+A|-5-5---4--3---|
+E|-3-3-0-2--1---|
+
+ e amargando como fel"
+
+Riff5(c/ wah-wah)[4X]
+e|-----------|
+B|-----------|
+G|------5-5--|
+D|-2-2--5-5--|
+A|-2-2--3-3--|
+E|-0-0-------|
+
+Riff6
+e|--------------|
+B|---------6-6--|
+G|-2-2-----5-5--|     nota "de passagem":
+D|-2-2-2-0-3-3--|     D|-7~-|
+A|-0-0----------|
+E|--------------|
+
+(riff6)[4X] => (nota "de passagem")[1X]
+"Obrigado, sim senhor, por se mostrar preocupado
+ Só que essa conversa velha é coisa de bebum safado
+ que num fez nada na vida e com essa língua comprida
+ só quer atrasar o meu lado"
+
+(riff6)[4X]
+"E pra completar a história eu vou chamar um cheira-fundo
+ o nariz é de batata e a fama é de vagabundo
+ Ele acredita em besta-fera e também no fim do mundo
+ pra vocês eu apresento: Raimundo"
+
+(riff1)[8X]
+"O meu nome é Raimundo e comigo não tem vêiz
+ Se vocês arengarem comigo eu vou lá e mato vocês
+ porque eu não penso duas vêiz só conto até três
+ se tu quer saber o que eu faço fale tudo que tu fez
+ falo da vida nordestina porque a Morte Severina
+ é sempre o mesmo negócio
+ se eu posso logo faço só não faço quando não posso
+ menina se eu te pego eu não respeito nem os ossos
+ e se perguntarem quem me viu..."
+
+Riff7[8X]
+e|-(0~)-------------------------|
+B|-(0~)-------------------------|
+G|-(0~)-------------------------|
+D|-(0~)---------8---------------|
+A|-------------------------8-7--|
+E|-----0-0-5-6-7--0-0-5-6-7-----|
+
+     Na terceira e quarta vez que se toca o Riff7, a 2a. guitarra
+     toca 4 vezes: G|-9-|
+                   D|-9-|
+                   A|-7-|
+
+A música termina com: D|-2-|
+                      A|-2-|
+                      E|-0-|
+
+___________________
+Por: Arthur Bueno
+
+----------------- Acordes -----------------

@@ -1,0 +1,10 @@
+@titulo: camisa-manchada
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:

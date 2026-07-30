@@ -1,0 +1,54 @@
+@titulo: ha-um-rio
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Há Um Rio
+
+            A                    Cm
+Há um rio cujas águas
+                   F#m
+Alegram a cidade de Deus
+    D                             E (2x)
+O santuário do Altíssimo
+             A
+Onde o Rei está
+E                                  F#m
+Assentado a destra do Pai
+        D                        Cm (2x)
+Poderoso pra derramar
+                      D
+Águas que saram
+ C#m                   F#m
+Águas que lavam
+F#m7                      D
+Águas que refrigeram
+   E                                      A   A7
+Águas que quebram maldições
+                             D    F°
+Águas que moldam
+
+           F#m                D#°
+Águas que purificam
+                   A            E
+Águas que santificam
+                    D      A
+Águas de paz
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+C#m = X 4 6 6 5 4
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D#° = X X 1 2 1 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F° = X X 3 4 3 4

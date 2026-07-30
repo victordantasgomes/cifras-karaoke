@@ -1,0 +1,137 @@
+@titulo: faz-parte
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Faz Parte
+
+(intro 2x)
+    C                 E               F7+             G/B
+E|--------0-----------------0---------------0---------------3----
+B|----------1---1---------0---0-----------1---1-----------3------
+G|------0---------0-----1-------1-------2-------2----------------
+D|----2-------2-------2-----------2---------------2-----0--------
+A|--3-------------------------------------------------2----------
+E|------------------------------------1--------------------------
+
+(parte 1 - 4x)
+    C                 Bb       E7        C
+E|----0--------0---------------------------0--------0-------------
+B|------1--------1------3--------0-----------1--------1-----------
+G|--------0--------0------3--------1-----------0--------0---------
+D|--------------------------3--------0----------------------------
+A|--3--------3--------1--------2---------3---------3--------------
+E|----------------------------------------------------------------
+
+(parte 2 - 2x)
+    F     Em     Dm                F      Em   Dm
+E|-----5-----3---------1--------|--------------------------------
+B|-----6-----5-------3---3------|-----10----8--------6-----------
+G|--5-----4--------2-------2----|-----10----9------7---7---------
+D|--3-----2------0-----------0--|--10-----9------7-------7-------
+A|------------------------------|--8------7----5-----------5-----
+E|------------------------------|--------------------------------
+
+
+(parte 3)
+    F       Em    Dm   C     Bm    Am     G
+E|------5------3--------------------------------3----------------
+B|------6------5----3----1------------1-------0------------------
+G|--5-------4-------2----0-----4------2-----0--------------------
+D|--3-------2-----0------------4------2--------------------------
+A|---------------------3-----2-----0-----------------------------
+E|----------------------------------------3----------------------
+
+(refrão) intro
+
+(parte 1)
+
+(parte 2)
+
+(parte 3)
+
+(refrão)
+
+(intro 2x) C E F G/B
+
+C                 Bb G/B                     C
+por um pedaço de pão, por uma stória pra contar
+                  Bb G/B               C           Bb G/B
+por acaso, por um triz, só pra contrariar tua direção
+               C          Bb  G/B               C
+tua mão a indicar o rumo certo, o caminho mais curto
+
+     F            Em                   Dm
+não vou agora, não: não quero te encontrar
+    F            Em               Dm
+preciso me perder como preciso de ar
+    F              Em                     Dm    C
+perder o rumo é bom se perdido a gente encontra
+      G/B           C            G
+um sentido escondido em algum lugar
+
+   C                     E
+devolva-me o que você levou... ou
+ F                G/B
+leve-me contigo: perca-se comigo
+   C                     E
+devolva-me o que você levou... ou
+ F                G/B
+leve-me contigo: perca-se comigo
+
+C          Bb G/B             C
+sempre me perco pelas mesmas ruas
+           Bb G/B              C
+não trago mapas, não leio as placas
+           Bb           G/B          C    Bb G/B C
+não sigo pegadas quando sei que são tuas
+
+     F            Em                   Dm
+não vou agora, não: não quero te encontrar
+    F            Em               Dm
+preciso me perder como preciso de ar
+ F            Em           Dm C           G/B
+se perdi o pra escapar da tua atração:
+ C                       G
+canto de sereia em alto mar
+
+   C                     E
+devolva-me o que você levou... ou
+ F                G/B
+leve-me contigo: perca-se comigo
+   C                     E
+devolva-me o que você levou... ou
+ F                G/B
+leve-me contigo: perca-se comigo
+
+( C E F G/B ) (2x)
+
+   C                     E
+devolva-me o que você levou... ou
+ F                G/B
+leve-me contigo: perca-se comigo
+   C                     E
+devolva-me o que você levou... ou
+ F                G/B            C
+leve-me contigo: leve-me contigo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

@@ -1,0 +1,79 @@
+@titulo: veraneio-vascaina
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Veraneio Vascaína
+
+(intro 4x) B5 A5 C5 B5
+
+(1ª estrofe)
+    B5       C5         A5          B5
+Cuidado pessoal lá vem vindo a veraneio
+      B5          C5            A5         B5
+Toda pintada de preto branco e cinza e vermelho
+     E5         F5           D5        E5
+Com números do lado e dentro 2 ou 3 tarados
+      B5      C5       A5   B5
+Assassinos armados uniformizados
+
+(refrão)
+ G5        A5      C5          D5
+Veraneio vascaína vem dobrando a esquina
+
+(intro 4x) B5  A5  C5  B5
+
+(2ª estrofe)
+        B5           C5           A5         B5
+Porque pobre quando nasce com instinto assassino
+
+ B5             C5             A5          B5
+Sabe o que vai ser quando crescer desde menino
+    E5         F5       D5        E5
+Ladrão pra roubar marginal pra MATAR
+   G5                    A5
+Papai eu quero ser policial quando eu crescer
+
+(intro 4x) B5  A5  C5  B5
+
+(1ª estrofe)
+
+(refrão
+
+(intro)
+
+(3ª estrofe)
+         B5               C5        A5           B5
+Se eles vêm com  fogo em cima e melhor sair da frente
+       B5               C5         A5      B5
+Tanto faz ninguém se importa se você é inocente
+        E5       F5          D5       E5
+Com uma arma na mão eu boto fogo no país
+   G5                               A5
+E não vai ter problema eu estou do lado da lei
+
+(intro)
+
+(1ª estrofe)
+
+ G5       A5       C5          D5
+Veraneio vascaína vem dobrando a esquina
+ G5       A5       C5          D5
+Veraneio vascaína vem dobrando a esquina
+ G5       A5       C5          D5
+Veraneio vascaína vem dobrando a esquina
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+B5 = X 2 4 4 X X
+C5 = X 3 5 5 X X
+D5 = X 5 7 7 X X
+E5 = 0 2 2 X X X
+F5 = 1 3 3 X X X
+G5 = 3 5 5 X X X

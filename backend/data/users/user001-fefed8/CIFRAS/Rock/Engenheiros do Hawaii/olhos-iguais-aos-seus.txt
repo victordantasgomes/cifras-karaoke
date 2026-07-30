@@ -1,0 +1,123 @@
+@titulo: olhos-iguais-aos-seus
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Olhos Iguais Aos Seus
+
+(Humberto Gessinger)
+
+Introdução: E
+
+                     F#
+uma nuvem encobre o céu
+A                    E
+uma sombra envolve o seu olhar
+                    F#
+você olha ao seu redor
+  A              E
+e acha melhor parar de olhar
+                     F#
+são olhos iguais aos seus
+   A
+iguais ao céu
+   E
+ao seu redor
+                     F#   A E
+são olhos iguais aos seus
+
+
+                     F#
+uma nuvem encobre o céu
+A                     E
+uma sombra envolve o seu olhar
+                    F#
+você olha ao seu redor
+  A              E
+e acha melhor parar de olhar
+                     F#
+são olhos iguais aos seus
+   A
+iguais ao céu
+   E
+ao seu redor
+                     F#   A E
+são olhos iguais aos seus
+
+...
+
+C#m               E                 A       B
+?o que faz as pessoas parecerem tão iguais?
+C#m               E                 A       B
+?o que faz as pessoas parecerem tão iguais?
+C#m               E                 A       G#m
+?o que faz as pessoas parecerem tão iguais?
+F#m                                 A
+?porque razão essa igualdade se desfaz?
+F#m                      C#m        E    F#m
+?qual é a razão desse disfarce no olhar?
+     E   F#m       C#m
+No olhar,    no olhar?
+
+...
+
+                     A#dim
+uma nuvem encobre o céu
+A                     E
+uma sombra envolve o seu olhar
+                    A#dim
+você olha ao seu redor
+  A              E
+e acha melhor parar de olhar
+                     A#dim
+são olhos iguais aos seus
+   A
+iguais ao céu
+   E
+ao seu redor
+                     A#dim A E
+são olhos iguais aos seus
+
+C#m               E                 A       B
+?o que faz as pessoas parecerem tão iguais?
+C#m               E                 A       B
+?o que faz as pessoas parecerem tão iguais?
+C#m               E                 A       G#m
+?o que faz as pessoas parecerem tão iguais?
+F#m                                 A
+?porque razão essa igualdade se desfaz?
+F#m                      C#m        E    F#m
+?qual é a razão desse disfarce no olhar?
+     E   F#m G#m A B solo C#m A
+No olhar,
+
+C#m               E                 A
+?o que faz as pessoas parecerem tão iguais?
+C#m               E                 A
+?o que faz as pessoas parecerem tão iguais?
+C#m               E                 A
+?o que faz as pessoas parecerem tão iguais?
+C#m               E                 A
+?o que faz as pessoas pareceram tão iguais?
+
+...
+
+E
+?o que fazem as pessoas para seram tão iguais?
+?o que fazem as pessoas para seram tão iguais?
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#dim = X 1 2 0 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

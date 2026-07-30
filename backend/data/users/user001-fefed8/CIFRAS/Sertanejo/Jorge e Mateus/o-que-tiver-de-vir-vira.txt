@@ -1,0 +1,64 @@
+@titulo: o-que-tiver-de-vir-vira
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - O Que Tiver de Vir Virá
+
+(intro) F#  Bm G A D
+
+D                     A             G         A            D  D9 D
+Você não sabe que eu sei,que você sente amor por outra pessoa
+                  A                G                 A         D D9 D
+e finjo que não notei,que o seu pensamento comigo voa
+                                     Bm
+Fecha os olhos diz,que ao meu lado sempre está feliz
+G                            A
+mas seu coração está em outra direção
+D                              Bm
+Na hora de amar,faz tudo pra poder me agradar
+       G                                A
+mas vejo em seu olhar,a pressa de ver tudo acabar
+D                                   A
+Olha,eu já fiz tudo que podia ser feito
+                                   G
+mas meu amor não tem lugar no seu peito
+                                D       A
+tambem não posso te obrigar a gostar de mim
+
+
+(parte 2)
+D                                   A
+Olha,mesmo te amando não te quero sofrendo
+                                G
+entrego os pontos mas não saio perdendo
+           A            G        D
+um grande amor a gente ganha no fim
+                F#                                 Bm
+E do jeito que tiver que ser será,só Deus muda as coisas de lugar
+                 E                               A
+nem tudo que se perde tem valor,nem tudo que é bonito é amor
+                 F#                                 Bm
+E o que passou passou não voltará,e o que tiver que vir virá virá
+                E           A                  D
+com toda força que tem a paixão,que vai seu coração.
+
+(solo 2x) F#   Bm  A  D
+
+(repete parte 2)
+( F#   Bm  A  D ) (2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

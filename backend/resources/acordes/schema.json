@@ -1,0 +1,276 @@
+{
+  "versao": "1.0.0",
+  "encoding": "UTF-8 com BOM",
+  "delimitador_csv": ";",
+  "orientacao_cordas": {
+    "violao": "grave para agudo: E-A-D-G-B-E",
+    "ukulele": "ordem física: G-C-E-A",
+    "simbolos": {
+      "X": "corda abafada/não tocada",
+      "0": "corda solta"
+    }
+  },
+  "contagens": {
+    "violao": 540,
+    "ukulele": 540,
+    "teclado": 1260,
+    "unificado": 2340
+  },
+  "qualidades": {
+    "maior": {
+      "name": "maior",
+      "intervals": [
+        0,
+        4,
+        7
+      ],
+      "formula": "1 3 5"
+    },
+    "m": {
+      "name": "menor",
+      "intervals": [
+        0,
+        3,
+        7
+      ],
+      "formula": "1 b3 5"
+    },
+    "7": {
+      "name": "sétima dominante",
+      "intervals": [
+        0,
+        4,
+        7,
+        10
+      ],
+      "formula": "1 3 5 b7"
+    },
+    "maj7": {
+      "name": "sétima maior",
+      "intervals": [
+        0,
+        4,
+        7,
+        11
+      ],
+      "formula": "1 3 5 7"
+    },
+    "m7": {
+      "name": "menor com sétima",
+      "intervals": [
+        0,
+        3,
+        7,
+        10
+      ],
+      "formula": "1 b3 5 b7"
+    },
+    "6": {
+      "name": "sexta",
+      "intervals": [
+        0,
+        4,
+        7,
+        9
+      ],
+      "formula": "1 3 5 6"
+    },
+    "m6": {
+      "name": "menor com sexta",
+      "intervals": [
+        0,
+        3,
+        7,
+        9
+      ],
+      "formula": "1 b3 5 6"
+    },
+    "dim": {
+      "name": "diminuto",
+      "intervals": [
+        0,
+        3,
+        6
+      ],
+      "formula": "1 b3 b5"
+    },
+    "dim7": {
+      "name": "diminuto com sétima",
+      "intervals": [
+        0,
+        3,
+        6,
+        9
+      ],
+      "formula": "1 b3 b5 bb7"
+    },
+    "aug": {
+      "name": "aumentado",
+      "intervals": [
+        0,
+        4,
+        8
+      ],
+      "formula": "1 3 #5"
+    },
+    "sus2": {
+      "name": "suspenso com segunda",
+      "intervals": [
+        0,
+        2,
+        7
+      ],
+      "formula": "1 2 5"
+    },
+    "sus4": {
+      "name": "suspenso com quarta",
+      "intervals": [
+        0,
+        5,
+        7
+      ],
+      "formula": "1 4 5"
+    },
+    "add9": {
+      "name": "com nona adicionada",
+      "intervals": [
+        0,
+        2,
+        4,
+        7
+      ],
+      "formula": "1 3 5 9"
+    },
+    "9": {
+      "name": "nona dominante",
+      "intervals": [
+        0,
+        2,
+        4,
+        7,
+        10
+      ],
+      "formula": "1 3 5 b7 9"
+    },
+    "maj9": {
+      "name": "nona maior",
+      "intervals": [
+        0,
+        2,
+        4,
+        7,
+        11
+      ],
+      "formula": "1 3 5 7 9"
+    },
+    "m9": {
+      "name": "menor com nona",
+      "intervals": [
+        0,
+        2,
+        3,
+        7,
+        10
+      ],
+      "formula": "1 b3 5 b7 9"
+    },
+    "11": {
+      "name": "décima primeira",
+      "intervals": [
+        0,
+        2,
+        4,
+        5,
+        7,
+        10
+      ],
+      "formula": "1 3 5 b7 9 11"
+    },
+    "m11": {
+      "name": "menor com décima primeira",
+      "intervals": [
+        0,
+        2,
+        3,
+        5,
+        7,
+        10
+      ],
+      "formula": "1 b3 5 b7 9 11"
+    },
+    "13": {
+      "name": "décima terceira",
+      "intervals": [
+        0,
+        2,
+        4,
+        7,
+        9,
+        10
+      ],
+      "formula": "1 3 5 b7 9 13"
+    },
+    "m13": {
+      "name": "menor com décima terceira",
+      "intervals": [
+        0,
+        2,
+        3,
+        7,
+        9,
+        10
+      ],
+      "formula": "1 b3 5 b7 9 13"
+    },
+    "7b5": {
+      "name": "sétima com quinta diminuta",
+      "intervals": [
+        0,
+        4,
+        6,
+        10
+      ],
+      "formula": "1 3 b5 b7"
+    },
+    "7#5": {
+      "name": "sétima com quinta aumentada",
+      "intervals": [
+        0,
+        4,
+        8,
+        10
+      ],
+      "formula": "1 3 #5 b7"
+    },
+    "7b9": {
+      "name": "sétima com nona menor",
+      "intervals": [
+        0,
+        1,
+        4,
+        7,
+        10
+      ],
+      "formula": "1 b9 3 5 b7"
+    },
+    "7#9": {
+      "name": "sétima com nona aumentada",
+      "intervals": [
+        0,
+        3,
+        4,
+        7,
+        10
+      ],
+      "formula": "1 #9 3 5 b7"
+    },
+    "5": {
+      "name": "quinta (power chord)",
+      "intervals": [
+        0,
+        7
+      ],
+      "formula": "1 5"
+    }
+  }
+}

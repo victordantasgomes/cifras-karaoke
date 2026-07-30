@@ -1,0 +1,157 @@
+@titulo: vivendo-aqui-no-mato
+@autor:
+@intérprete: Trio Parada Dura
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trio Parada Dura - Vivendo Aqui No Mato
+
+[Intro] C  E  F  G  C  F  C  G  C
+
+ C             E
+Não troco seu despertador
+             Am
+Pelo cantar do galo
+ F                   C
+Não troco seu carro bonito
+          Dm
+Pelo meu cavalo
+
+ E
+Não troco seu ar poluído
+           Am
+Pelo pó da estrada
+          F
+Aqui não tem trânsito
+        C
+Só tem boiada
+          G
+Nosso céu é limpo
+
+        C
+E a noite enluarada
+
+C            E
+Aqui o nosso alimento
+            Am
+É a gente que faz
+  F
+Plantamos de tudo
+  C
+Pro gasto
+            Dm
+E um pouco mais
+
+E
+E se vier fazer visita aí que
+         Am
+A gente gosta
+      F
+Moda de viola
+          C
+Uma boa prosa
+          G
+Em volta da fogueira
+   F        C      G
+Então a gente mostra
+
+           C
+O meu amanhecer
+Tem o cantar do galo
+          E
+O cheiro do mato
+Com gota de orvalho
+
+         F
+E é tão gostoso
+      G
+Beber um café
+           C      G
+Olhando o sol nascer
+
+      C
+Pego meu cavalo
+E saio pelo pasto
+      E
+Toco meu berrante
+Apartando o gado
+
+         F
+Sei que sou caipira
+       G
+Mas vivo melhor
+              C    G
+Morando aqui no mato
+
+( C  E  F  G  C  B  A  B )
+
+E            G#
+Aqui o nosso alimento
+            C#m
+É a gente que faz
+  A
+Plantamos de tudo
+     G#m
+Pro gasto
+            F#m
+E um pouco mais
+
+G#
+E se fizer visita aí que
+         C#m
+A gente gosta
+      A
+Moda de viola
+      E
+Uma boa prosa
+          B
+Em volta da fogueira
+      A     E
+Então a gente mostra
+
+        E
+O meu amanhecer
+Tem o cantar do galo
+          G#
+O cheiro do mato
+Com gota de orvalho
+
+     A
+E é tão gostoso
+      B
+Beber um café
+           E      B
+Olhando o sol nascer
+
+      E
+Pego meu cavalo
+E saio pelo pasto
+      G#
+Toco meu berrante
+Apartando o gado
+
+         A
+Sei que sou caipira
+       B
+Mas vivo melhor
+              E    B
+Morando aqui no mato
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4

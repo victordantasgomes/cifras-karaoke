@@ -1,0 +1,80 @@
+@titulo: meu-senhor
+@autor:
+@intérprete: Anjos de Resgate
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Anjos de Resgate - Meu Senhor
+
+( DALVIMAR GALLO / ADELSO FREIRE )
+
+
+F4    F
+MEU SENHOR
+       F4              F
+COMO O RIO AO MAR SE ENTREGA
+      F4/D        F/D         C4 C
+SOU O BARCO QUE NAVEGA EM TEU MAR
+
+          F4    F
+POR ISSO: MEU SENHOR
+      F4          F
+SOU O NINHO QUE ESPERA
+    F4/D            F/D        G/B
+PELO PÁSSARO QUE UM DIA IRÁ VOLTAR
+
+           Bb        C/Bb       Bb           F
+JÁ POSSO OUVIR A TUA VOZ ME EMBALANDO O CORAÇÃO
+ F/A   Bb             Bb/D        C4 C
+VEM CANTANDO EM MEU OUVIDO UMA CANÇÃO
+
+
+        F           Bb/F
+ESTÁ NO SOL QUE ME AQUECE
+        F          Bb/F
+ESTÁ NA BRISA DO VERÃO
+        F            Bb/D        C4  C Bb
+ESTÁ NA CHUVA QUE UMIDECE O MEU CORAÇÃO
+       F/A           Bb
+ESTÁ NA VOZ QUE INTERPRETA
+          F/C        Dm
+OS VERSOS DO MAIOR POETA
+      Em7   A7     Dm7       F/C      G/B
+QUE CRIOU O CÉU E O MAR E EM MIM A CANTAR
+      Bb/C    C     F
+QUE EM BREVE IRÁ VOLTAR
+
+
+ESTÁ NA MÃE QUE UM FILHO ESPERA
+ESTÁ NA FLOR QUE ME REVELA
+O CARINHO ESCONDIDO EM MEU CORAÇÃO
+
+ESTÁ NAS NUVENS QUE SE FORMAM
+E ENFEITAM TODO O CÉU
+NA BELEZA DO LUAR E EM MIM A CANTAR
+QUE EM BREVE IRÁ VOLTAR
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Bb = X 1 3 3 3 1
+Bb/C = X 3 X 3 3 1
+Bb/D = X 5 X 3 6 6
+Bb/F = X 8 8 7 6 X
+C = X 3 2 0 1 0
+C/Bb = X 1 2 0 1 X
+C4 = X 3 3 0 1 X
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F/C = X 3 3 2 1 1
+F/D = X X 0 5 6 5
+F4 = 1 3 3 3 1 1
+F4/D = X 5 3 5 P6 6
+G/B = X 2 0 0 3 3

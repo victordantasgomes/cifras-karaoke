@@ -1,0 +1,44 @@
+@titulo: poderoso
+@autor:
+@intérprete: Adhemar de Campos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Adhemar de Campos - Poderoso
+
+  Em
+Ele é poderoso
+
+Ele é o Rei dos reis
+
+Sempre vitorioso
+
+Exaltado nos céus
+
+Am
+Com triunfo eterno obtido na cruz
+
+                          B7(9)   B/D#
+Derrotou o inimigo o seu nome é Jesus
+
+Em            D/F#            G           E/G#
+Quem não te temerá não glorificará teu nome
+
+Am            F#/A#        B
+Todos te declaram Rei das nações
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B7(9) = X 2 1 2 2 X
+D/F# = 2 X 0 2 3 2
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F#/A# = 6 X 4 6 7 X
+G = 3 2 0 0 0 3

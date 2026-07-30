@@ -1,0 +1,34 @@
+@titulo: amem-isso-mesmo-amem
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Amém Isso Mesmo Amém
+
+  D  D7                G
+Amém       isso mesmo amém
+          Em        A7    D   B7
+   Muito bem assim seja amém
+
+  E  E7                 A
+Amém       isso mesmo amém
+      F#m        B7    E
+Muito bem assim seja amém
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

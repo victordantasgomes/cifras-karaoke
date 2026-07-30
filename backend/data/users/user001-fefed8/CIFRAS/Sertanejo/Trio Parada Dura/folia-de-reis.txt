@@ -1,0 +1,71 @@
+@titulo: folia-de-reis
+@autor:
+@intérprete: Trio Parada Dura
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trio Parada Dura - Folia de Reis
+
+      G        G7           C          D7           G
+01-//:Deus que salve a casa santa onde Deus fez a morada,
+           D7           G
+      Onde Deus fez a morada.// a, a, a, a, a.
+
+      G    G7           C         D7           G
+02-//:Onde mora o Calix Bento e a Hóstia Consagrada,
+          D7           G
+      E a Hóstia Consagrada.// a, a, a, a, a.
+
+      G       G7               C           D7         G
+03-//:Os três Reis tiveram a notícia que havia o nascimento,
+            D7         G
+      Que havia o nascimento.// a, a, a, a, a.
+
+      G    G7         C           D7             G
+04-//:Eles seguiram viajem com um grande contentamento,
+             D7             G
+      Com um grande contentamento.// a, a, a, a, a.
+
+      G  G7          C         D7         G
+05-//:Viajaram dia e noite a caminho de Belém,
+
+
+      A caminho de Belém.// a, a, a, a, a.
+
+      G   G7             C          D7               G
+06-//:Visitaram o Deus Menino que nasceu pra o nosso bem,
+
+      Que nasceu pra o nosso bem.// a, a, a, a, a.
+
+      G      G7          C             D7         G
+07-//:Num instante nas alturas brilhou a estrela-guia,
+              D7         G
+      Brilhou a estrela-guia.// a, a, a, a, a.
+
+      G      G7            C      D7                G
+08-//:Pra mostrar a onde estava o Filho da Virgem Maria,
+        D7                G
+      O Filho da Virgem Maria.// a, a, a, a, a.
+
+      G   G7          C        D7          G
+09-//:Agradecemos a esmola e o seu amor também,
+
+      E o seu amor também.// a, a, a, a, a.
+
+      G       G7           C     D7               G
+10-//:Os três Reis que abençoe e volta no ano que vem,
+        D7               G
+      E volta no ano que vem.// a, a, a, a, a.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C = X 3 2 0 1 0
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

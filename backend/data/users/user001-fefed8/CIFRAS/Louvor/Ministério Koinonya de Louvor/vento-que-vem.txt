@@ -1,0 +1,43 @@
+@titulo: vento-que-vem
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - Vento Que Vem
+
+Am                 Am/G          F           Em7
+Vento que vem dos quatro cantos, sopra sobre nós
+  Dm7        C/E          G   E/G#    Am7      E7
+E leva-nos a possuir a herança    que temos em ti
+Am7             Em7
+Toca em mim, Espírito
+Am7             Em7
+Toca em mim, Espírito
+F             G   E/G#  Am7     
+Vivifica minh'alma,  Espírito
+Am      Am/G    F     Em7  Dm7      G          Am7      
+Deixa fluir no meu interior   tua palavra e poder
+Bb           Am7
+Rios de água viva, fonte de alegria
+D               G    E/G#
+Flui em mim, Senhor
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+Dm7 = X 5 7 5 6 5
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

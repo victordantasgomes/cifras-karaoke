@@ -1,0 +1,186 @@
+@titulo: nao-sei-viver-sem-ter-voce
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Não Sei Viver Sem Ter Você
+
+(intro)
+
+(riff 1)
+       E5                             G5
+E |------------------------------------------------------------------------|
+B |------------------------------------------------------------------------|
+G |-x-x-9-9-x-x-9-9-x-x-9-9-x-x-9-9-x-x-12-12-x-x-12-12-x-x-12-12-x-x-12-12|
+D |-x-x-9-9-x-x-9-9-x-x-9-9-x-x-9-9-x-x-12-12-x-x-12-12-x-x-12-12-x-x-12-12|
+A |-x-x-7-7-x-x-7-7-x-x-7-7-x-x-7-7-x-x-10-10-x-x-10-10-x-x-10-10-x-x-10-10|
+E |------------------------------------------------------------------------|
+
+        D5                             C5
+E |----------------------------------------------------------------|
+B |----------------------------------------------------------------|
+G |-x-x-7-7-x-x-7-7-x-x-7-7-x-x-7-7-x-x-5-5-x-x-5-5-x-x-5-5-x-x-5-5|
+D |-x-x-7-7-x-x-7-7-x-x-7-7-x-x-7-7-x-x-5-5-x-x-5-5-x-x-5-5-x-x-5-5|
+A |-x-x-5-5-x-x-5-5-x-x-5-5-x-x-5-5-x-x-3-3-x-x-3-3-x-x-3-3-x-x-3-3|
+E |----------------------------------------------------------------|
+
+        A5                             C5              D5
+E |--------------------------------------------------------|
+B |--------------------------------------------------------|
+G |-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-5-5-x-x-5-5-x-x-7-7|
+D |-x-x-7-7-x-x-7-7-x-x-7-7-x-x-7-7-x-x-5-5-x-x-5-5-x-x-7-7|
+A |-x-x-7-7-x-x-7-7-x-x-7-7-x-x-7-7-x-x-3-3-x-x-3-3-x-x-5-5|
+E |-x-x-5-5-x-x-5-5-x-x-5-5-x-x-5-5-x-x--------------------|
+
+
+(riff 2) (dedilhado com efeito phaser
+E |-0-------0--------0-----0-----|
+B |-0-------0--------3-----0-----|
+G |-0----0--0----0---2--2--0----0|
+D |-2--2----0--0-----0-----2--2--|  (2x)
+A |-2-------2--------------2-----|
+E |-0-------3--------------0-----|
+
+(riff 3)
+E |-----------|
+B |-----------|
+G |9-10-9-10-9|
+D |-----------|  
+A |7--8-7--8-7|
+E |-----------|
+
+(toca-se este solo antes de entrar no verso "Acreditar que pode ser...")
+
+E5                    G5
+   Não há mais descul   -pas
+                             D5
+Você vai ter que me entender
+                      C5
+Quando olhar pra trás
+                        A5
+Procurando e não me ver
+         C5                E5
+Chegou a hora de recomeçar
+
+E5          G5                 D5
+   Ter cada coisa em seu lugar
+         C5                      E5
+Tentar viver sem recordar jamais
+          G5                    D5
+E se a saudade me deixar falhar
+         C5                     A5
+Deixar o tempo tentar te apagar
+
+B5                   C5                     G5
+   Te ligar de madrugada sem saber o que dizer
+                    D5                    B5
+Esperando ouvir sua voz e você nem me atender
+       C5               D5
+Nem ao me   -nos pra dizer
+
+    G5
+Que não vai voltar
+           D5
+Não vai tentar me entender
+               C5            E5
+Que eu não fui nada pra você
+           C5        D5
+Que eu deveria te deixar em paz
+   G5
+Eu já não sei mais
+          D5
+Não sei viver sem ter você
+           C5              E5
+Hoje eu queria te esquecer
+           C5            D5             G5
+Mas quanto mais eu tento mais eu lembro
+          D5               (C5 E5 C5 D5)   G5
+Não sei viver sem ter você
+          D5               (C5 E5 C5 D5)   E5
+Não sei viver sem ter você
+
+(só o baixo)
+                     G5   D5
+É difícil de aceitar
+                C5
+Recomeçar do ze   -ro
+                    E5
+Levantar e caminhar
+
+E5                       G5
+Perceber que quem se a   -ma
+                           D5
+Já não se importa com você
+            C5                            A5
+E acordar sozinho ouvindo o som da sua tv
+         C5
+Chegou a hora de recomeçar
+
+G|-9-10-9-10-9|
+D|------------|
+A|-7--8-7--8-7|
+
+E5           G5                          D5                         C5
+   Acreditar    (acreditar) que pode ser    (pode ser) melhor assim    (melhor assim)
+               E5                  G5
+Tentar crescer    (tentar crescer)    fingir feliz
+                  D5                           C5
+Te deixar para depois a cada dia que eu morrer
+                      A5
+Espero que você morra após
+
+B5                     C5                     G5
+  Seu eu ligar de madrugada sem saber o que dizer
+                    D5                    B5
+Esperando ouvir sua voz e você nem me atender
+       C5               D5
+Nem ao me   -nos pra dizer
+
+(pausa) (o tel toca 2x)
+
+    G5
+Que não vai voltar
+           D5
+Não vai tentar me entender
+           C5            E5
+Eu não fui nada pra você
+           C5        D5
+Que eu deveria te deixar em paz
+   G5
+Eu já não sei mais
+          D5
+Não sei viver sem ter você
+           C5              E5
+Hoje eu queria te esquecer
+           C5            D5             G5
+Mas quanto mais eu tento mais eu lembro
+          D5               (C5 E5 C5 D5)   G5
+Não sei viver sem ter você
+          D5               (C5 E5 C5 D5)   G5
+Não sei viver sem ter você
+
+               D5      C5  D5       C5
+Preciso reaprender a viver pra esquecer
+    D5     (G5 E5 C5 D5 C5)
+Pra te esquecer
+D5              G5
+Pra te esquecer
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+B = X 2 4 4 4 2
+B5 = X 2 4 4 X X
+C5 = X 3 5 5 X X
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X

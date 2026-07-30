@@ -1,0 +1,84 @@
+@titulo: filho-meu
+@autor:
+@intérprete: Thalles Roberto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Thalles Roberto - Filho Meu
+
+[Intro] Bm7  E
+
+E|---------------------------------------------------------------------|
+B|---------------------------------------------------------------------|
+G|--------------------------------------------7/9---------9~-7~--------|
+D|--------7/9--7-------------7/9--7----------------7-------------------|
+A|---------------9-7----------------9-7--7-7---------9-7---------------|
+E|-5p7-7--------------7-7----------------------------------------------|
+E|---------------------------------------------------------------------|
+B|---------------------------------------------------------------------|
+G|----------------------------------9-9-7/9-7--------------------------|
+D|-9-9--7/9--7------9-9---7/9-7-----9-9-------9-7----------------------|
+A|-9-9---------9-7--9-9---------9-7-7-7-----------7-7-7-x-x-x----------|
+E|-7-7--------------7-7------------------------------------------------|
+
+       Bm        A                   G
+Filho meu! Ta fugindo de mim? Já tentei procurei
+       A         A#°     Bm    A
+Outra vez  você me rejeitou
+                G                           A                A#°
+Porta na cara doeu, porta na cara de filho dói  você nem imagina
+       Bm         A                      G
+Filho meu! Ta correndo de mim é?  Ontem eu me lembrei
+          A               A#°         Bm
+De uma antiga oração que você fez no monte
+ A                  G                          A        A#°
+Lembra filho eu chorei, enquanto eu viajava nesse flashback
+   Bm                       A
+Eu acho que paguei um preço alto demais
+    G                         A         A#°
+Eu tenho tantas coisas pra viver com você
+  Bm                        A                      G    A  A#°
+Promessas e promessas arquivadas te esperando  filho
+         Bm                     A
+Você ta dirigindo cego em alta velocidade
+    G                       A        A#°
+Daqui de cima eu vejo a pancada que vem
+       Bm                       A                G       A          A#°
+Então passa sua vida pro meu nome que eu assumo tudo... tudo, tudo, tudo
+ Bm            A                   G  A A#°
+Faz o seguinte,Oh! levante a mão, agora!
+ Bm        A                  G  A A#°
+ E me aceita como o seu salvador
+ Bm            A                   G              A A#°
+Depois me abraça E a gente vence  junto essa parada
+     Bm     A                 G                    A A#°
+Sou seu Deus to cuidando de ti, to cuidando de tudo   yeah...
+
+[Solo]
+
+E|-----2------2---------------------------------------------------|
+B|---3------3------5----3------5--7-7-7-7-------------------------|
+G|-4------4------6----4------6------------------------------------|
+D|-------------7----5------7--------------------------------------|
+A|----------------------------------------------------------------|
+E|----------------------------------------------------------------|
+
+E|-----2------2---------------------------------------------------|
+B|---3------3------5-----3-------8--7-7-7-7-----------------------|
+G|-4------4------6-----4-----6-9----------------------------------|
+D|-------------7-----5--------------------------------------------|
+A|----------------------------------------------------------------|
+E|----------------------------------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#° = X 1 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3

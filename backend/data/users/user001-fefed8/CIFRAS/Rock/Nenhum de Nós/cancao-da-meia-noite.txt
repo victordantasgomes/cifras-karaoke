@@ -1,0 +1,76 @@
+@titulo: cancao-da-meia-noite
+@autor:
+@intérprete: Nenhum de Nós
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nenhum de Nós - Canção da Meia-Noite
+
+intr.: (G F C G)
+
+Solo gaita/violino:
+
+E|---------3-5-7-8/7-5--7-5-7-3-5-3-----------------3-5-7-8/7-5--7-5-7-3-5-3-3--|
+B|---3-5-3--------------------------5--3-5-3---3-5-3------------------------5---|
+G|------------------------------------------------------------------------------|
+D|------------------------------------------------------------------------------|
+A|------------------------------------------------------------------------------|
+E|------------------------------------------------------------------------------|
+
+  G                    F
+Quando a meia-noite me encontrar
+ C         G
+Junto a você
+G               F
+Algo diferente vou sentir
+          C           D
+Vou precisar me esconder
+    Em             D
+Na sombra da lua cheia
+
+      C
+Este medo de ser
+
+Refrão:
+          G            G°           C       G
+    Um vampiro, um lobisomem, um saci-pererê
+          G            G°           C       G
+    Um vampiro, um lobisomem, um saci-pererê
+
+         C                   F
+Dona senhora, meia-noite eu canto
+         Bb      G
+Essa canção anormal
+         C                F
+Dona senhora, nesta lua cheia
+            Bb                  G
+Meu corpo treme, o que será de mim?
+
+          C              G         D          Em
+Que faço força pra resistir a toda essa tentação
+    C              G          D      Em        C
+Na sombra da lua cheia, esse medo de se........r
+
+
+Refrão:
+          G            G°           C       G
+    Um vampiro, um lobisomem, um saci-pererê
+          G            G°           C       G
+    Um vampiro, um lobisomem, um saci-pererê
+
+
+(Repete tudo de novo)
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G° = 3 X 2 3 2 X

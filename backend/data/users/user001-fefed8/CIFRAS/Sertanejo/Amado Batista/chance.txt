@@ -1,0 +1,53 @@
+@titulo: chance
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Chance
+
+[Intro]  A  E  D  A  E7
+                                                         
+  A
+Quero,
+             D
+Te dizer baixinho
+              E
+Com todo o carinho
+                 A   E7
+O que sinto por ti
+   A
+Espero
+            D
+Uma chance sua
+                E
+Nesta noite de lua
+         A    E7
+Ter você aqui
+    A
+E quando essa chance chegar
+                            E       E7
+Eu vou me apossar do seu coração
+  E
+Nesta hora nem quero pensar
+            D        E            A      E
+Só quero tocar o seu corpo com as mãos
+    A
+E quando essa chance chegar
+                            E       E7
+Eu vou me apossar do seu coração
+  E
+Nesta hora nem quero pensar
+            D        E            A      E
+Só quero tocar o seu corpo com as mãos
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0

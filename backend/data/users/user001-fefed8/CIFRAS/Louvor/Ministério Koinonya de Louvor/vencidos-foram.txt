@@ -1,0 +1,35 @@
+@titulo: vencidos-foram
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - Vencidos Foram
+
+A                      Dm
+VENCIDOS FORAM OS MEUS INIMIGOS
+A                     Dm
+QUANDO EU CLAMEI AO SENHOR
+A                   Dm
+ENVERGONHADOS FORAM TODOS
+A                   Dm
+QUANDO EU CLAMEI AO SENHOR
+D      E/D C#m    F#m         Bm
+E UM A UM SE DESFIZERAM COMO PÓ
+         D/E                A
+NA PRESENÇA DE DEUS OS MEUS INIMIGOS
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+Dm = X X 0 2 3 1
+E/D = X 5 X 4 5 4
+F#m = 2 4 4 2 2 2

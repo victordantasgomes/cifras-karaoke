@@ -1,0 +1,85 @@
+@titulo: codinome-beija-flor(simplificada)
+@autor:
+@intérprete: Barão Vermelho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Barão Vermelho - Codinome Beija-Flor
+
+Intr.: A F#m7 D9 E4/7
+
+A            A7+
+Pra que mentir
+                A  A7+
+Fingir que perdoou
+D7+                E/D      D7+
+Tentar ficar amigos sem rancor
+             E7
+A emoção acabou
+    D7+                 E/D
+Que coincidência é o amor
+  Bm7   C#m7   D7+    D/E F7+
+A nossa música nunca mais tocou
+A         A7+                A A7+
+Pra que usar de tanta educação
+   D7+          E/D         F#m7
+Pra destilar terceiras intenções
+D7+                 E/D
+Desperdiçando meu meu
+D7+                  E/D
+Devagarinho flor em flor
+
+Bm7        C#m7     D7+
+  Entre os meus inimigos,
+   D/E   F/G
+   Beija-flor
+C7+                         Bm7  E7
+  Eu protegi teu nome por amor
+Am          Em9/7        A7+
+  Em um codinome beija-flor
+C7+                       E4/7
+Não responda nunca   meu amor, nunca
+F7+                  G         A7+
+Pra qualquer um na rua beija-flor
+F7+              G
+Que só eu que podia
+F7+                  G
+Dentro da tua orelha fria
+F7+                  G       A7+
+Dizer segredos de liquidificador
+F7+              G
+Você sohava acordada
+F7+                     G
+Um jeito de não sentir dor
+F7+
+  Prendia o choro
+    G               A7+
+E aguava o bom do amor.
+F7+
+  Prendia o choro
+    G               A7+
+E aguava o bom do amor.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7+ = X 0 2 1 2 0
+Am = X 0 2 2 1 0
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+C7+ = X 3 2 0 0 X
+D/E = X X 2 2 3 2
+D7+ = X X 0 2 2 2
+D9 = X X 0 2 3 0
+E/D = X 5 X 4 5 4
+E4/7 = 0 2 0 2 0 X
+E7 = 0 2 2 1 3 0
+Em9/7 = X 7 5 7 7 X
+F#m7 = 2 X 2 2 2 X
+F/G = 3 X 3 2 1 X
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3

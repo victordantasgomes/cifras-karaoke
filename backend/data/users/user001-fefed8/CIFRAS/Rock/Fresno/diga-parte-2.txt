@@ -1,0 +1,10 @@
+@titulo: diga-parte-2
+@autor:
+@intérprete: Fresno
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:

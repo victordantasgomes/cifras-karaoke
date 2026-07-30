@@ -1,0 +1,79 @@
+@titulo: o-nardo
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - O Nardo
+
+[Intro]  F#m  D  A  E
+
+          F#m         D
+Sobre os cansados,sobrecarregados
+            F#m           E
+Sobre os aflitos e amargurados
+            F#m             D
+Sobre os enfermos, feridos de alma
+              A  E
+Faz descer o nardo
+
+              F#m
+Faz descer o nardo
+   D
+O nardo
+   A  E
+O nardo
+
+( F#m  D  A  E )
+
+               F#m              D
+Sobre os que choram,os abandonados
+            F#m               E
+Sobre os cativos,sobre o solitário
+            F#m         D
+Sobre o fracassado,o dilacerado
+              A  E
+Faz descer o nardo
+
+              F#m
+Faz descer o nardo
+      D
+O nardo
+   A  E
+O nardo
+
+             Bm                A
+Pra tirar a dor, pra fechar o corte
+             E                     Bm
+Pra banhar a alma, fazer do fraco forte
+              A                 E           C#
+O nardo que exala pra tirar o cheiro da morte
+
+[Solo]  F#m  D  A  E  F#m  D  Bm  C#
+
+              F#m
+Faz descer o nardo
+      D
+O nardo
+   A  E
+O nardo
+
+             Bm                A
+Pra tirar a dor, pra fechar o corte
+             E                     Bm
+Pra banhar a alma, fazer do fraco forte
+              A                 E           C#
+O nardo que exala pra tirar o cheiro da morte
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

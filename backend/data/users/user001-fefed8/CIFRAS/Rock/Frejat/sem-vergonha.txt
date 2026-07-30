@@ -1,0 +1,73 @@
+@titulo: sem-vergonha
+@autor:
+@intérprete: Frejat
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Frejat - Sem Vergonha
+
+Intro: Em7 D/E  G4/7 Gm7
+
+Em7                  C9          Am7
+Eu sei que esses encontros por acaso
+            C/D
+São coincidências demais
+Em7                  C9          Am7
+Eu sento na mesa eu viro a cabeça
+      F7     D7
+Você vem atrás
+Em7        C9          Am7
+E tantos elogios pro acaso
+            C/D
+São coincidências demais
+Em         C9
+O olho acesso
+             Am7
+Café, sobremesa
+      F7     D7
+Você vem atrás
+G4/7            Gm7
+Eu armo o picadeiro
+
+        Cm7                 F7
+Mas no fim, no fim você tropeça e cai
+G4/7         Gm7       F7
+E perde a canastra e ri
+             A7
+E diz até mais
+Em            G/A
+Pra me provocar
+Em             G/A
+Me deixar maluco
+Em7            G/A
+E eu volta atrás
+G                     A7
+Sem vergonha e sem culpa
+       B7  B4/7
+Na paz.  (intr.)
+
+E tantos elogios... na paz.
+Pra me provocar...na paz
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+B4/7 = X 2 4 2 5 2
+B7 = X 2 1 2 0 2
+C/D = X X 0 0 1 0
+C9 = X 3 5 5 3 3
+Cm7 = X 3 5 3 4 3
+D/E = X X 2 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F7 = 1 3 1 2 1 1
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G4/7 = 3 5 3 5 3 X
+Gm7 = 3 X 3 3 3 X

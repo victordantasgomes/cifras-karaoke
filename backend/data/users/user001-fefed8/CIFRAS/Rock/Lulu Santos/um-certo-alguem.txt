@@ -1,0 +1,150 @@
+@titulo: um-certo-alguem
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - Um Certo Alguém
+
+Intro:  A  Bm/A  A  Bm/A
+
+
+Primeira Parte:
+
+A          C#7     F#m
+  Quis evitar teus olhos
+         F#m7    G  Bm
+Mas não pude reagir
+G            E4     E   E4  E
+  Fico à vontade então
+A          C#7  F#m
+  Acho que é bobagem
+     F#m7      G  Bm
+A mania de fingir
+G           E4    E  E4  E
+  Negando a intenção
+
+
+Refrão:
+
+
+Bm              C#m   Dm
+  Quando um certo alguém
+    A           F#m
+Cruzou o teu caminho
+       C#m        E4   E  E4  E
+E te mudou a direção
+
+
+Repete a Primeira Parte:
+
+A            C#7     F#m
+  Chego a ficar sem jeito
+        F#m7        G  Bm
+Mas não deixo de seguir
+G         E4  E  E4  E
+  A tua aparição
+
+
+Repete Refrão:
+
+Bm              C#m   Dm
+  Quando um certo alguém
+    A            F#m
+Desperta o sentimento
+      C#m          E4  E E4
+É melhor não resistir
+   E
+E se entregar
+
+
+Segunda Parte:
+
+A         F#m
+  Me dê a mão
+     C#m            E4   E
+Vem ser a minha estre...la
+A          F#m
+  Complicação
+     C#m           E4   E
+Tão fácil de entender
+A           F#m
+  Vamos dançar
+   C#m        E4   E
+Luzir a madruga...da
+A         F#m
+  Inspiração
+     C#m           E4   E  E4  E
+Pra tudo que eu viver
+
+
+Base do Solo: A  C#7   F#m  F#m7  G  Bm  G
+              E4  E  E4  E
+
+
+Repete o Refrão:
+
+Bm              C#m   Dm
+  Quando um certo alguém
+    A           F#m
+Cruzou o teu caminho
+      C#m          E4  E E4
+É melhor não resistir
+   E
+E se entregar
+
+
+Variação Segunda Parte:
+
+A          F#m
+  Me dê a mão
+     C#m            E4   E
+Vem ser a minha estre...la
+A          F#m
+  Complicação
+     C#m           E4   E
+Tão fácil de entender
+A           F#m
+  Vamos dançar
+   C#m        E4   E
+Luzir a madruga...da
+A         F#m
+  Inspiração
+     C#m           E4   E  E4  E
+Pra tudo que eu viver
+          F#
+Que eu viver
+
+
+Refrão Final:
+
+Bm              C#m   Dm
+  Quando um certo alguém
+    A            F#m
+Desperta o sentimento
+     C#m           E4  E E4
+É melhor não resistir
+   E
+E se entregar
+
+A  C#7 (3x)  F#m
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+C# = X 4 6 6 6 4
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

@@ -1,0 +1,65 @@
+@titulo: to-solteiro-de-novo
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Tô Solteiro de Novo
+
+Intro: C#m A E B
+
+G#m               A
+Eu comecei a namorar
+E                     B
+Pra tentar me concertar
+C#m                  A
+Eu fiz de tudo pra mudar
+B
+Só que deu errado, deixa eu te contar
+C#m
+Eu no cineminha
+ A
+Meus amigos na balada
+      E
+Eu tomando sorvete
+          B
+E eles tomando cachaça
+C#m
+Pois é meu amigo
+ A
+Não deu certo não
+
+E
+É melhor mexer com o fígado
+B                    C#m
+Do que com o coração
+
+REFRÃO
+          B    A
+Meus amigos, voltei!
+                  E
+Eu tava ficando doido
+       B
+Bora beber
+                       C#m
+Que eu tô solteiro de novo
+          B    A
+Meus amigos, voltei!
+                  E
+Eu tava ficando doido
+       B
+Bora beber
+                       C#m
+Que eu tô solteiro de novo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+G#m = 4 6 6 4 4 4

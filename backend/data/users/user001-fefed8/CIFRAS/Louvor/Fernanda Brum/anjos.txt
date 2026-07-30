@@ -1,0 +1,50 @@
+@titulo: anjos
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Anjos
+
+INT - > E  B  C#m  G#  A  B  E  E7+/9  D/E  A  E7+/9  D/E  A
+
+     E        E7+/9   D/E   A       E  E7+/9 D/E  A        E
+UMA PARTE DOS ANJOS  SAIU PRÁ GUERREAR              OUTRA PARTE DOS
+E7+/9   D/E   A      E  E7+/9  D/E         A        B/A   G#
+ANJOS SAIU   PARA CURAR            E O SENHOR DA IGREJA  VEIO  PRÁ
+ G#/C  C#m7  B          A                 D               B
+RESTAURAR      E O TEU POVO OH DEUS SE LEVANTA  PRÁ  TE  ADORAR
+
+     E        E7+/9  D/E   A       E  E7+/9  D/E  A        E
+UMA PARTE DOS ANJOS SAIU PRÁ GUERREAR               OUTRA PARTE DOS
+E7+/9   D/E   A       E  E7+/9 D/E          A        B/A       G#
+ANJOS SAIU  PRÁ LIBERTAR            E O SENHOR DA IGREJA LEVANTOU-SE
+ G#/C     C#m7 B       A                         D     B
+PARA  REINAR     E AS PORTAS DO INFERNO  NÃO  PUDERAM  SUPORTAR
+
+         A E           G# G#/C  C#m C#m/B     A
+SEJA BENDITO  SEJA BENDI_______TO          BENDITO SENHOR É O TEU
+ D               B             A E            G#  G#/C  C#m  C#m/B
+NOME  EM TODO LUGAR  SEJA  BENDITO  SEJA  BENDI________TO
+    A                       A/B                 E  E7+/9  D/E  A
+BENDITO  SENHOR  É O  TEU  NOME  NA  TERRA  E  MAR
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+C#m = X 4 6 6 5 4
+C#m/B = 7 X 6 6 5 X
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+E = 0 2 2 1 0 0
+E7+/9 = X 7 6 8 7 X
+G# = 4 3 1 1 1 4
+G#/C = X 3 X 1 4 4

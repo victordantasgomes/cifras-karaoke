@@ -1,0 +1,84 @@
+@titulo: fora-do-normal
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Fora do Normal
+
+Intro: F#  C#  G#  B  D
+
+     F#m                  A                     B                  D A/C# F#m
+Pra mim já não há mais segredo e hoje eu tenho medo de me arriscar
+                      A                    B                         D A/C# A
+Já vasculhei o seu passado e descobri mil coisas pra não me entregar
+  Bm                    F#m                    E                F#m
+E vejo, agora está tão claro, preciso do seu amor pra me recuperar
+   Bm                  F#m                     E             D      E
+E quanto mais eu fico longe o meu pensamento insiste em te procurar
+
+    F#m                  A             B                  D A/C# A
+Sei que também sente saudade, fica esperando minha reação
+F#m                        A                   B
+Minha mente agora está confusa e não agüenta mais tanta indecisão
+       Bm               F#m               E                  F#m
+Vou deixar todo medo de lado e parar de agir sempre com a razão
+       Bm               F#m                            E               D   C#
+E me entrego todo por inteiro e o que eu sinto é verdadeiro nesse meu coração
+
+F#                                    C#
+To procurando uma palavra, um adjetivo
+
+                                    G#
+Que possa te dizer que sem você não vivo
+         F#      B
+Que eu fico tão mal
+F#                                          C#
+Não posso mais viver sozinho sem você comigo
+                                        G#
+Meu coração está fechado, está tão vazio
+                               F#      B
+Não uso mais o singular, só falo no plural
+G#m                  C#                  F#
+E esse amor é tão intenso, fora do normal
+
+( C#  G#  B )
+
+A      Bm               F#m               E                  F#m
+Vou deixar todo medo de lado e parar de agir sempre com a razão
+       Bm               F#m                            E               D   C#
+E me entrego todo por inteiro e o que eu sinto é verdadeiro nesse meu coração
+
+F#                                    C#
+To procurando uma palavra, um adjetivo
+                                    G#
+Que possa te dizer que sem você não vivo
+         F#      B
+Que eu fico tão mal
+F#                                          C#
+Não posso mais viver sozinho sem você comigo
+                                        G#
+Meu coração está fechado, está tão vazio
+                               F#      B
+Não uso mais o singular, só falo no plural
+G#m                  C#                  Ebm
+E esse amor é tão intenso, fora do normal
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Ebm = X X 1 3 4 2
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,71 @@
+@titulo: tempo-contado
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Tempo Contado
+
+(intro) D A E A E
+
+   A
+Eu sei que um dia eu nasci
+          F#m                    E
+E agora cresci, mas não posso ficar
+
+Que um dia ao cair da tarde
+               Bm    E       A
+Eu perco a coragem e posso chorar
+
+A
+O mundo tem muitas surpresas
+            F#m                     E
+Cheio de incertezas, posso até te contar
+
+Exemplos que me deixam triste
+               Bm          E       A
+Mas eu sei que existe, não posso fugir
+
+D                       A
+Sei, minha vida é um espaço
+            E                 A A7
+De tempo contado, que não descobri
+D                      A
+Posso estar vivo aqui hoje
+             E                  A
+Amanhã muito longe, eu posso morrer
+
+(intro)
+
+A
+Por isso quando chega a tardinha
+          F#m                    E
+Na beira da linha, eu torno a pensar
+
+A vida pode ser interna
+             Bm         E      A
+Mas nunca eterna, e me deixo no ar
+
+A
+E saber que não pedi pra nascer
+          F#m                   E
+E nem pra morrer, mas isso é normal
+
+Normal para quem não morreu
+           Bm    E        A
+E não entendeu, o que eu sofri
+
+Sei, minha vida é um espaço...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

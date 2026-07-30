@@ -1,0 +1,42 @@
+@titulo: u-que-fazer
+@autor:
+@intérprete: LS Jack
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+LS Jack - U que fazer
+
+Am    Gm          C         F
+Procurava o que fazer
+     E7                      Am
+então sentia uma saudade imensa
+  Gm     C        F   E7
+pensando só em você
+Am
+amor é flor que dá até na pedra
+F7M                               Em
+é poeira que se alegra com o pé de vento
+Dm
+que se apaixona pelo pé de vento
+E7
+ao levantar do chão
+Am
+domingo choveu à beça
+F7m                 Em        Dm
+até pensei em ficar quieto ou não
+E7
+você estava certa,você estava certa
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

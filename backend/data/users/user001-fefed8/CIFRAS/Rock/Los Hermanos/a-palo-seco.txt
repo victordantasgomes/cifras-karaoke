@@ -1,0 +1,93 @@
+@titulo: a-palo-seco
+@autor:
+@intérprete: Los Hermanos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Los Hermanos - À Palo Seco
+
+[Intro]  G
+
+ G                     Bm
+Se você vier me perguntar por onde andei
+    C                 D
+No tempo em que você sonhava
+ G                    Bm
+De olhos abertos lhe direi
+  C                 D
+Amigo eu me desesperava
+
+ Em                    A7
+Sei que assim falando pensas
+       Am                 G
+Que esse desespero é moda em 73
+ C                    A
+Mas ando mesmo descontente
+            Am                      G
+Desesperadamente eu grito em português
+
+ G         Bm             C
+Tenho 25 anos de sonho e de sangue
+
+   D
+E de América do Sul
+ G               Bm
+Por força desse destino
+               C
+Um tango argentino
+               D
+Me vai bem melhor que o blues
+
+ Em                    A7
+Sei que assim falando pensas
+          Am                  G
+Que esse desespero é moda em 73
+         C                     A
+Mas eu quero é que esse canto torto feito faca
+ Am                 G
+Corte a carne de vocês
+
+C                                A
+Eu quero é que esse canto torto feito faca
+ Am                 G
+Corte a carne de vocês
+
+[Solo]
+
+E|----6--5-6-5----5-------------------6--5-6-5----5---------7/8-7--3-6-8----|
+B|-6------------8---8-6-4-6-8-6--8-6------------8---8--8-6---------------6--|
+G|--------------------------------------------------------------------------|
+D|--------------------------------------------------------------------------|
+A|--------------------------------------------------------------------------|
+E|--------------------------------------------------------------------------|
+
+G  Bm  C  D
+G  Bm  C  D
+C  A  Am  G
+
+C                          A
+Eu quero é que esse canto torto feito faca
+ Am               G
+Corte a carne de vocês
+
+C                                A
+Eu quero é que esse canto torto feito faca
+ Am               G
+Corte a carne de vocês
+
+[G  Bm  C  D]
+
+----------------- Acordes -----------------
+A*  = X 0 2 2 2 0 - (*G# na forma de A)
+A7*  = X 0 2 0 2 0 - (*G#7 na forma de A7)
+Am*  = X 0 2 2 1 0 - (*G#m na forma de Am)
+Bm*  = X 2 4 4 3 2 - (*A#m na forma de Bm)
+C*  = X 3 2 0 1 0 - (*B na forma de C)
+D*  = X X 0 2 3 2 - (*C# na forma de D)
+Em*  = 0 2 2 0 0 0 - (*D#m na forma de Em)
+G*  = 3 2 0 0 0 3 - (*F# na forma de G)

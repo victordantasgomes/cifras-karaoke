@@ -1,0 +1,39 @@
+@titulo: obrigado
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Obrigado
+
+F#
+Obrigado
+B
+de nada
+F#
+Obrigado
+B
+a nada    (4X)
+
+(Solo) F# E (Obs) fazer essa passagem de maneira bem rapida
+
+G       C
+Obrigado
+  G   C
+de nada
+G      C
+Obrigado
+  G   C
+a nada
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

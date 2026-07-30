@@ -1,0 +1,49 @@
+@titulo: procissao-da-biblia
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Procissão da Bíblia
+
+INTRO: ( D  D4  D )
+
+D           G        D    G     D        E        A    Em
+Daí-me a palavra certa na hora certa do jeito certo e pra
+    A      D  D         G       D        G    D        E
+pessoa certa  Daí-me a cantiga certa na hora certa do jeito
+    A    Em     A      D  D7
+certo e pra pessoa certa
+
+ESTRIBILHO 2 VEZES
+
+G                              D        A                  G
+Palavra é como pedra preciosa sim quem sabe o valor cuida bem
+        D  D7  G                                  D
+do que diz     Palavra é como brasa queima até o fim quem
+ A                    G        D    D7
+sabe o que diz há de ser mais feliz
+
+D              G        D    G     D        E        A    Em
+Vai levar a palavra certa na hora certa do jeito certo e pra
+    A      D  D            G       D        G    D
+pessoa certa  Vai levar a cantiga certa na hora certa do
+
+ E        A    Em            D  D7
+jeito certo e pra pessoa certa
+
+REPETE ESTRIBILHO
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

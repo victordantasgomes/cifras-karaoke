@@ -1,0 +1,51 @@
+@titulo: contra-cultura
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - Contra-Cultura
+
+Intro: Bm F#m A E E4 (2x)
+
+     Bm                        F#m
+O mundo não consegue entender
+ A                         E E4
+O motivo que nos faz viver
+    Bm                       F#m
+Olhando sempre para frente
+  A                       E E4
+Ter algo mais, ser tão diferente
+
+        Bm                   F#m
+Dos homens de suas más ações
+  A                      E E4
+Grande fonte de decepções
+ Bm                             A
+Onde não há vida pra se enxergar
+  F#m                             G        A
+Mas um motivo que nos faz cantar
+
+ Bm  F#m    A                  E E4
+Vida,         nós temos vida, com Jesus
+
+ Bm  A   F#m                G          A
+Vida,        Ele nos trouxe lá na cruz
+
+Solo: Bm A E/G# G
+
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

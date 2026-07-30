@@ -1,0 +1,76 @@
+@titulo: perdao
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Perdão
+
+INTRODUÇÂO:  A E/A D/A E/A
+
+ A       E/A           D/A                 E/A
+PERDOAI NOSSOS PECADOS     COMO TEMOS PERDOADO A QUEM NOS TEM
+
+     A    E/A  D/A  E/A
+OFENDIDO
+
+ A       E/A           D/A             E/A                 A
+PERDOAI NOSSOS PECADOS     COMO TEMOS PERDOADO A QUEM NOS TEM
+
+          E/A   D/A  E/A
+ATINGIDO
+
+
+Bm       Bm/A     E/G#    E       A  C#m7        D
+   SE O TEU   INIMIGO  TIVER FOME   DÁ-LHE DE COMER
+
+Bm       Bm/A     E/G#    E       A  C#m7        D
+   SE O TEU   INIMIGO  TIVER SEDE   DÁ-LHE DE BEBER
+
+
+Bm        Bm/A      E/G#        E     A         C#m7       D
+   SOMOS FILHOS DE DEUS  E PRA NÓS O MAIS IMPORTANTE É O AMOR
+
+Bm        Bm/A      E/G#        E     A         C#m7       D
+   SOMOS FILHOS DE DEUS  E PRA NÓS O MAIS IMPORTANTE É O AMOR
+
+
+ A       E/A      D/A              E/A
+PERDÃO, PERDÃO  QUERO TE PEDIR PERDÃO
+
+     A        E/A   D/A               E/A
+PERDOAR, PERDOAR  QUERO APRENDER PERDOAR
+
+A     E/A   D/A               E/A
+AMAR, AMAR SIM, EU QUERO TE AMAR
+
+ A          E/A      D/A              E   A  E/A  D/A E
+SER AMADO, SER AMADO EU PRECISO SER AMA__DO
+
+ A       E/A    D/A                 E/A
+PERDÃO, PERDÃO  ANTES DO PARTIR DO PÃO
+
+    A     E/A    D/A               E/A
+PERDOAR, PERDOAR ANTES DO VINHO TOMAR
+
+A     E/A   D/A              E/A
+AMAR, AMAR SIM EU QUERO TE AMAR
+
+ A          E/A        D/A              E   A
+SER AMADO, SER AMADO , EU PRECISO SER AMA__DO
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E/G# = 4 X 2 4 5 X

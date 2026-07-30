@@ -1,0 +1,98 @@
+@titulo: aqui
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Aqui
+
+(intro)
+E E4 (2x)
+E F#m A E E4
+E|------12ha-------12ha--------|
+
+B|-12ha-----------------12ha---|
+G|-----------------------------|
+D|-----------------------------|
+A|-----------------------------|
+E|-----------------------------|
+
+E                             F#m
+  Às vezes acho que eu fiquei louco
+A                               E
+  Me dando conselhos até ficar rouco
+E                              F#m
+  Às vezes acho que eu perdi a memória
+A                              E
+  Contando de novo a mesma história
+
+(refrão)
+
+  F#m                   E
+Aqui onde as horas não passam
+  F#m                   E
+Aqui onde o Sol não me vê
+  F#m                G#m
+Aqui onde eu não moro
+ A                E     B
+Não existo sem você
+
+E                                  F#m
+  Me olho no espelho e me vejo do avesso
+A                               E
+  O mesmo rosto que eu não reconheço
+E                           F#m
+  O rádio ligado, chuva e calor
+A                                  E
+  As gotas me ferem mas não sinto dor
+
+(refrão)
+  F#m                   E
+Aqui onde as horas não passam
+  F#m                   E
+Aqui onde o Sol não me vê
+  F#m               G#m
+Aqui onde eu não moro
+ A               E     B
+Não existo sem você
+(solo)  A E A E C#m F#m C#m F#m C#m F#m B
+                                     (2x)                         (3x)
+E|---------------------------------------||---7/9--7--4-5-4---4------|
+B|-7/9--7--5---5---7/9--7--5---5---------||-----------------5--------|
+G|-----------6---------------6-----------||--------------------------|
+D|---------------------------------------||--------------------------|  
+A|---------------------------------------||--------------------------|
+E|---------------------------------------||--------------------------|
+
+E|--7/9--7--4-5-4------------------------------|
+B|----------------5------5--7--8-7-8-----------|
+G|------------------4--6--------------9-6-5/6--|
+D|---------------------------------------------|
+A|---------------------------------------------|
+E|---------------------------------------------|
+
+(refrão 2x - solo)
+  F#m                   E
+Aqui onde as horas não passam
+  F#m                   E
+Aqui onde o Sol não me vê
+  F#m               G#m
+Aqui onde eu não moro
+ A               E
+Não existo sem você
+
+( E E4 ) (4x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,53 @@
+@titulo: fidelidade
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Fidelidade
+
+D        F#7                 Bm
+Sem fé é impossivel agradar a Deus.
+      G       A          D
+Fidelidade é fruto de fé,
+     G/A     Gm/A   D  A7
+Fidelidade é confiar
+   D        F#7                       Bm
+É crer em um Deus que não se pode ver,
+        G     A        D/F#
+Mas que tudo pode fazer.
+       G/A    Gm/A   D D7
+Basta apenas confiar.
+       G7M            A/G
+Quando cremos de coração
+     F#m          Bm
+Na palavra do Senhor,
+  G             G/A
+À Ele entregamos nossa vida,
+      F#m               Bm
+Nosso cântico, nosso louvor.
+G           A/G    F#m  Bm
+Ele nos faz livres, livres.
+Gm     A     Bm         G     A    D
+Livres para amar, para crer e confiar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/G = 3 X 2 2 2 X
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G7M = 3 X 4 4 3 X
+Gm = 3 5 5 3 3 3
+Gm/A = 5 X 5 3 3 X

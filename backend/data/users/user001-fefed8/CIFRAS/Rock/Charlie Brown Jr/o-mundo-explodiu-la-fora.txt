@@ -1,0 +1,76 @@
+@titulo: o-mundo-explodiu-la-fora
+@autor:
+@intérprete: Charlie Brown Jr
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Charlie Brown Jr. - O Mundo Explodiu Lá Fora
+
+(riff 1 - 3x)
+    Cm          G#
+E|----3----------------------|
+B|-------------4-------------|
+G|--5---5--------------------|
+D|-----------6---6-----------|
+A|-3-----3-------------------|
+E|---------4-------4---------|
+
+(riff 2 - 3x)
+    Cm          G#
+E|------3333---------------------|
+B|---------------4444------------|
+G|-5555--------------------------|
+D|-5555-----6666-----------------|
+A|-3333-----6666-----------------|
+E|----------4444-----------------|
+
+(intro) C5 G#5
+
+C5                   G#5
+O mundo explodiu lá fora
+
+C5                       G#5
+A vida não é mais como devia ser
+C5               G#5
+O futuro é aqui agora(Parte Abafada)
+C5                                   G#5
+Você sorri mais uma noite mesmo sem saber
+
+  Cm                       G#
+Pra onde vai esse mundo hostil (riff 1)
+
+(riff 2)
+C5                         G#5
+Vivo pra acreditar que um dia a vida vai mudar
+C5
+Mas realmente é muito difícil
+              G#5
+Uma visão otimista do mundo em que vivo
+C5
+Vendo varias pessoas no lixo
+G#5
+Voltamos a viver como bichos
+C5                        G#5
+Voltamos ao início do fanatismo ao sacrifício
+
+(refrão)
+D#5                    Bb5
+Síndrome da dúvida absoluta
+G5
+Um bom guerreiro
+C5
+Não foge da luta
+
+----------------- Acordes -----------------
+Bb5 = X 1 3 3 X X
+C5 = X 3 5 5 X X
+Cm = X 3 5 5 4 3
+D#5 = X 6 8 8 X X
+G# = 4 3 1 1 1 4
+G#5 = 4 6 6 X X X
+G5 = 3 5 5 X X X

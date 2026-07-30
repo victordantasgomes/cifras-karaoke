@@ -1,0 +1,82 @@
+@titulo: livre-para-amar
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - Livre Para Amar
+
+(intro 2x) E9 E/G# A B9
+
+E9          E/G#         A           B9
+  Com Teu amor, Senhor, vem surpreender-me
+E9           E/G#        A          B9
+  Com Teu olhar, Jesus, vem conquistar-me
+       A   E/G#       F#m   B9
+  E Te amarei  sem medi... das
+  B4 B A   E/G#       F#m    B9
+  Te adorarei  sempre mais e mais
+
+E9         E/G#         A         B9
+  Com Tua voz, Senhor, rasga meu coração
+E9             E/G#  A        B9
+  Sim, vem romper   minha surdez
+              A   E/G#      F#m      B9
+  Então, seduzir-me,  arrastar-me a Ti
+   B4 B A   E/G#      F#m B9    A9  B9
+  Desposar-me   para sempre, Jesu...us
+
+(refrão)
+
+                E9
+  Vem com Teu amor
+                 B9
+  Vem com Teu poder
+                 F#m
+  Vem em mim vencer
+             A           B9         A/C#
+  Pois não quero mais lutar contra Ti
+      B/D#     E9
+  Quero    perder
+                 B9
+  Perder pra ganhar
+                  F#m
+  Pobre, me entregar
+   A               E/G#      F#m
+  Pois só preso a Ti   eu serei
+   B4    B     E9
+  Livre para amar
+
+  A9  A7M(9)  A9
+  Eu sou     Teu
+   A9 A7M(9)  E/G#
+  Tu  és     meu
+   F#m   A            B9
+  Vem e toma o Teu lugar
+  A9  A7M(9)  A9
+  Eu sou     Teu
+   A     E/G#
+  Tu és meu
+   F#m   A            B9
+  Vem e toma o Teu lugar
+
+(refrão)
+(final) A B9 E9
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7M(9) = X 0 2 1 0 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B4 = X 2 4 4 5 2
+B9 = X 2 4 4 2 2
+E/G# = 4 X 2 4 5 X
+E9 = 0 2 4 1 0 0
+F#m = 2 4 4 2 2 2

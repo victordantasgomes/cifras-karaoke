@@ -1,0 +1,66 @@
+@titulo: salmo-134
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Salmo 134
+
+     F         C
+Bendizei ao Senhor
+     F           C
+Vós todos bendizei
+    F          C
+Bendizei ao Senhor
+     F           C C7
+Vós todos bendizei
+
+        F                    Fm7
+Servos do Senhor que assistis
+        Em                  Am7
+Em sua casa nas horas da noite
+      Dm7          D7          Eb G7/4 G7
+Bendizei, para pa pa pa ao Senhor
+
+           C                  F
+Erguei as mãos para o santuário
+        C          F
+E bendizei ao Senhor
+           C                 F
+Erguei as mãos para o santuário
+        C          C7
+E bendizei ao Senhor
+
+    F                  Fm7
+De Sião Te abençoe o Senhor
+   Em                   Am7
+Criador dos céus e da terra
+    Dm7            D7          Eb G7/4 G7
+Bendizei, para pa pa pa ao Senhor
+
+    F         C
+Bendizei ao Senhor
+     F           C
+Vós todos bendizei
+    F          C
+Bendizei ao Senhor
+     F           C C7
+Vós todos bendizei
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D7 = X X 0 2 1 2
+Dm7 = X 5 7 5 6 5
+Eb = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+Fm7 = 1 X 1 1 1 X
+G7 = 3 5 3 4 3 3
+G7/4 = 3 5 3 5 3 X

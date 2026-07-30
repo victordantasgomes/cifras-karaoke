@@ -1,0 +1,77 @@
+@titulo: onde-voce-mora
+@autor:
+@intérprete: Nando Reis
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nando Reis - Onde Você Mora?
+
+Intro: A x2 E x2 Bm x2
+
+  A     E
+Amor igual ao seu
+    D            Bm
+Eu nunca mais terei
+  A                E
+Amor que eu nunca vi igual
+        D            Bm
+Que eu nunca mais verei
+                 A
+Amor que não se mede
+                 E
+Amor que não se pede
+              D  Bm
+Que não se repete
+                 A
+Amor que não se mede
+                 E
+Amor que não se pede
+              D  Bm
+Que não se repete
+
+
+(repete desde o começo)
+
+E
+ Você vai chegar em casa
+ Eu quero abrir a porta
+ Aonde você mora
+                 D  F#m Bm
+Aonde você foi morar
+Aonde foi?
+
+E
+ Não quero estar de fora
+ Aonde esta você
+Eu tive que ir embora
+
+                  D  F#m Bm
+Mesmo querendo ficar
+Agora eu sei
+
+F#
+  Eu sei que eu fui embora
+    F               E
+  Agora eu quero você
+              A
+De volta pra mim
+
+           E             D            Bm
+   Amor igual ao seu eu nunca mais terei
+A                     E                 D           Bm          G            A
+   Amor que eu nunca vi igual e que eu nunca mais, nunca mais, nunca mais verei
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

@@ -1,0 +1,68 @@
+@titulo: nao-importa-o-dia
+@autor:
+@intérprete: Ministério Apascentar de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Apascentar de Louvor (Toque No Altar) - Não Importa o Dia
+
+Intro: F#  E  D  C#7
+
+F#              E
+__Não importa o dia __ou a situação
+D               C#7
+__Eu quero Te adorar
+F#             E
+__A tempestade não vai abalar minha Fé__
+D              C#7
+Eu posso confiar
+
+ Bm                 C#m
+Seguindo Seus princípios, Seus mandamentos
+   D        E
+Minha sorte Deus mudará
+ Bm      C#m     D                E
+Em grandes bênçãos, festa,   juntos a Ele louvar
+
+F#m       A          Bm  C#7
+__Eu cantarei do Teu amor
+F#m        A          B/D# C#7
+__A minha sorte já mudou
+
+F#m       A       Bm  C#7
+__Com alegria celebrar
+F#m     A             B/D# C#7
+__A Tua graça me alcançou
+
+F#4     F#    E4      E     Bm
+Gra    ças,   gra    ças,    graças
+            C#m
+Por tudo Te dou
+F#4     F#    E4      E     Bm
+Gra    ças,   gra    ças,    graças
+                C#m
+Te dou o meu louvor
+
+F#m          A         Bm         C#7
+Pra Tia eu cantarei,Pra Ti eu dançarei Pra Ti eu saltarei
+F#m      A              B/D#      C#7
+Pra Tia eu cantarei,Pra Ti eu dançarei Pra Ti eu saltarei
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B/D# = X 6 X 4 7 7
+Bm = X 2 4 4 3 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F# = 2 4 4 3 2 2
+F#4 = 2 4 4 4 2 2
+F#m = 2 4 4 2 2 2

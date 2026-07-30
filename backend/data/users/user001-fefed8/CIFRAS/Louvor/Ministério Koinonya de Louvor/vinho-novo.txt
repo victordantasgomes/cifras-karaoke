@@ -1,0 +1,60 @@
+@titulo: vinho-novo
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - Vinho Novo
+
+   C9                           Em7 Am7
+EU QUERO, Ó SENHOR, TEU VINHO NOVO
+  F9                    F/D         G9
+EU QUERO, Ó SENHOR, A TUA UNÇÃO
+C9                             Am7
+EU QUERO EM MINHA VIDA, O TEU FOGO
+  D/F#                        G9
+TUA GLÓRIA INUNDANDO O MEU CORAÇÃO
+  C9                         Em7 Am7
+DERRAMA, Ó SENHOR, TEU VINHO NOVO
+  F9          G9             C9
+DERRAMA, Ó SENHOR, O TEU PODER
+      C/A#                  C/A
+EU QUERO TEUS SINAIS E MARAVILHAS
+  F9          D/F#          G9
+TUA GLÓRIA INUNDANDO O MEU SER
+ Am7           Am/G            D/F#
+VINHO NOVO SE DERRAMA EM ODRES NOVOS
+  Dm/F                            C/E
+QUEBRANTADO AOS TEUS PÉS EU QUERO ESTAR
+ Am7          Em7            F9           C9
+VEM SARAR A MINHA VIDA, E CURAR TODA FERIDA
+ F/D          F/G             C9
+TEU AVIVAMENTO, Ó PAI, VEM DERRAMAR
+  C9        Em7                F9     C/E
+ESPÍRITO SANTO, TU ÉS O VINHO NOVO
+ F/D          G9           C9
+QUE ANELA ARDENTEMENTE O MEU SER
+   C9          Em7          F9    C/E
+ESPÍRITO SANTO, TU ÉS O VINHO NOVO
+F/D             G9                C9
+TUA UNÇÃO EU QUERO SEMPRE EM MEU SER
+
+----------------- Acordes -----------------
+Am/G = 3 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+C/A = X 0 2 0 1 0
+C/A# = X 1 2 0 1 X
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D/F# = 2 X 0 2 3 2
+Dm/F = X X 3 2 3 1
+Em7 = 0 2 2 0 3 0
+F/D = X X 0 5 6 5
+F/G = 3 X 3 2 1 X
+F9 = 1 3 5 2 1 1
+G9 = 3 X 0 2 0 X

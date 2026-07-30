@@ -1,0 +1,37 @@
+@titulo: assim-como-a-corsa
+@autor:
+@intérprete: Harpa Cristã
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Harpa Cristã - Assim Como a Corsa
+
+D  A/C#    Bm        G     Em    A7
+Assim como a corça suspira pelas águas
+       D    A/C#           Bm            G   A7    D
+Por ti suspira  a minh'alma oh Espírito de Deus.
+
+D                      Em
+Oh enche-me Espírito
+    F#m             Bm
+Oh enche-me Espírito
+      Em7            A7
+Oh enche-me Espírito
+      D9
+De Deus.
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

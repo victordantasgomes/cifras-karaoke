@@ -1,0 +1,70 @@
+@titulo: aproximacao
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Aproximação
+
+INTRO: "DEPOIS DA BATERIA": C, Gm7, C, Gm7
+
+C                          Gm7
+Disseram que você não existia
+C                   Gm7
+Impossível nisso acreditar
+C                                Gm7
+Por tudo que vejo, por tudo que sinto
+C                    Gm7
+Você setá em todo lugar
+C                           Gm7
+Disseram que você mora tão longe
+C                 Gm7
+Que só o céu é o seu lugar
+C                              Gm7
+Mas vejo na terra as águas jorrando
+C                             Gm7
+Fazendo os rios correrem pro mar
+
+F9                     Am7
+Ouço sua voz não temas amigo
+
+F9                 Am7
+Estou contigo até o fim
+Dm7                 Am7
+E quando tudo terminar
+Dm7                  Am7
+Quero você todo pra mim
+
+C9       G/B              Am7  F9
+Abre um caminho no meu coração
+C9      G/B    Am7
+Vejo a face de Deus
+Dm7    C             G
+Nem o sol tem essa luz
+Dm7     C       G
+Vejo a face de Jesus
+       F9               C/E
+Que mudou de lugar, antes era o céu
+     Am        G            F9
+Hoje o seu lar é o meu coração
+
+
+TODOS OS SOLOS QUE EXISTEM NESSA MUSICA SÃO SOMENTE NAS NOTAS:
+C, Gm7, REPETIDAS VÁRIAS VEZES
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Dm7 = X 5 7 5 6 5
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+Gm7 = 3 X 3 3 3 X

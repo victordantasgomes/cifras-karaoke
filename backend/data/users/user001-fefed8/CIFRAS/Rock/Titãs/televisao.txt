@@ -1,0 +1,72 @@
+@titulo: televisao
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Televisão
+
+[Intro]
+
+E|--------------------------------------------------------|-9-12-9----9--9------------------|
+B|-10-----------------------------------10----10----10----|--------10------12-10-12---------|
+G|----11-9-11----11-9-11-9-11---11-9-11----11----11----11-|-------------------------11-9-11-|
+D|------------11------------------------------------------|---------------------------------|
+A|--------------------------------------------------------|---------------------------------|
+E|--------------------------------------------------------|---------------------------------|
+
+E|---------------------------------------------------------|
+B|-9/11-----8---8---8---8----------------------------------|
+G|--------9---9---9---9---6-----11-11-11-11-9------9/11----|
+D|--------------------------7-----------------11-----------|
+A|---------------------------------------------------------|
+E|---------------------------------------------------------|
+
+[Intro] A  F#
+
+A                                           F#
+A televisão me deixou burro, muito burro demais
+A                                          F#
+Agora todas coisas que eu penso me parecem iguais
+
+A                                          F#
+O sorvete me deixou gripado pelo resto da vida
+    A                                          F#
+E agora toda noite quando deito é boa noite, querida
+
+E
+Ô cride, fala pra mãe
+        F#
+Que eu nunca li num livro que um espirro
+                    E
+Fosse um virus sem cura
+ F#                                       E
+Vê se me entende pelo menos uma vez, criatura
+    A              F#
+Ô cride, fala pra mãe!
+A                                                    F#
+A mãe diz pra eu fazer alguma coisa mas eu nao faço nada
+A                                                F#
+A luz do sol me incomoda, entao deixa a cortina fechada
+A                                               F#
+É que a televisão me deixou burro, muito burro demais
+A                                              F#
+E agora eu vivo dentro dessa jaula junto dos animais
+E
+Ô cride, fala pra mãe
+     F#                                      E
+Que tudo que a antena captar meu coração captura
+ F#                                       E
+Vê se me entende pelo menos uma vez, criatura
+    A              F#
+Ô cride, fala pra mãe
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2

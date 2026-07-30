@@ -1,0 +1,135 @@
+@titulo: demais-da-conta
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Demais da Conta
+
+Intro:
+    E             B               A               B
+E|---------------------------------------------------------|
+B|--5/9--9/12--12/14--12--9h10p9--5/7--9--5---12/16-17-14~-|
+G|---------------------------------------------------------|
+D|---------------------------------------------------------|
+A|---------------------------------------------------------|
+E|---------------------------------------------------------|
+
+E|---------------------------------------------------------|
+B|--5/9--9/12--12/14--12--9h10p9--5/7--9--5---12/16-17-14~-|
+G|---------------------------------------------------------|
+D|---------------------------------------------------------|
+A|---------------------------------------------------------|
+E|---------------------------------------------------------|
+
+C#m
+Procuro todo dia e não te vejo
+   E
+O sonho distancia em cada olhar
+    B
+Na boca sempre vem aquele beijo
+
+    F#               (A - B)
+O gosto sempre faz arrepiar
+
+C#m
+Parece que foi ontem que te vi
+   E
+A primeira vez me entreguei
+   B                                   F#    (A - B)
+Sentindo a pele e não resisti, me apaixonei
+
+   C#m
+Procuro pra tentar te convencer
+        A
+Que o amor de sua vida será eu
+    E                               B
+O que você precisa tem haver, todo amor meu
+
+Refrão:
+
+E                       B
+A quanto tempo a gente não se encontra
+A                       B
+A quanto tempo a gente nem se fala
+E                    B
+Essa saudade tá de mais da conta
+A                   B
+Só de pensar o coração dispara
+
+
+E                       B
+A quanto tempo a gente não se encontra
+A                       B
+A quanto tempo a gente nem se fala
+E                    B
+Essa saudade tá de mais da conta
+A                   B
+Só de pensar o coração dispara
+
+Solo:
+   E             B               A               B
+
+E|---------------------------------------------------------|
+B|--5/9--9/12--12/14--12--9h10p9--5/7--9--5---12/16-17-14~-|
+G|---------------------------------------------------------|
+D|---------------------------------------------------------|
+A|---------------------------------------------------------|
+E|---------------------------------------------------------|
+
+    E             B               A               B
+E|-------------------------------------------------------------------|
+B|--5/9--9/12--12/14--12--9h10p9--5/7--9-9-------14/16-17-14~--14/17-|
+G|-----------------------------------------12/14---------------------|
+D|-------------------------------------------------------------------|
+A|-------------------------------------------------------------------|
+E|-------------------------------------------------------------------|
+
+
+   C#m
+Procuro pra tentar te convencer
+        A
+Que o amor de sua vida será eu
+    E                               B
+O que você precisa tem haver, todo amor meu
+
+Refrão:
+
+E                       B
+A quanto tempo a gente não se encontra
+A                       B
+A quanto tempo a gente nem se fala
+E                    B
+Essa saudade tá de mais da conta
+A                   B
+Só de pensar o coração dispara
+
+
+E                       B
+A quanto tempo a gente não se encontra
+A                       B
+A quanto tempo a gente nem se fala
+E                    B
+Essa saudade tá de mais da conta
+A                   B
+Só de pensar o coração dispara
+
+                       B
+E|---------------------|
+B|-12\10-9\7-5-7/9-7-5-|
+G|---------------------|
+D|---------------------|
+A|---------------------|
+E|---------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2

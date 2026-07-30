@@ -1,0 +1,54 @@
+@titulo: paixao-de-rodeio
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - Paixão de Rodeio
+
+Intro: G C G C
+
+    G           C     G       C   G        C       G
+    Já estou de malas prontas , rodeio é minha paixão
+               C                   Am          C/D         G C      G   C
+    Chapéu pra cima vou jogar , tô louco pra laçar um coração,(coração)
+      G        C      G      G            C     G
+    Rodeio é o meu destino , vou seguir a tradição
+               C                           Am         C/D         G   C G
+    Não vejo a hora de chegar , e ser mais um a me juntar à multidão
+      D                       C                          G  C G
+  * Aqui nesse lugar mulher bonita a gente vê de quarteirão
+      D                           C                           G  Em
+    E de repente eu sei que um olhar vai despertar minha atenção
+        C                D
+    Não penso um segundo pra me aproximar
+         C                     D                        G    C G C
+    Se a dona de um sorriso me chama pra dançar , aí então...
+  G       Bm           Em                   |
+   Na solidão já não estou                  |
+
+
+   Vai começar na mesma hora um grande amor |bis
+           Bm         Em                    |
+   E se rolar uma paixão                    |
+
+   Eu vou deixar ela laçar meu coração      |
+            (G C)
+    Meu coração...
+
+  REPETE DESDE *
+  SOLO: G Bm Em C D G C G
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

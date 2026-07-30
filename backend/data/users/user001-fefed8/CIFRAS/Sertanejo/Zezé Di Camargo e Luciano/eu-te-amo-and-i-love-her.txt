@@ -1,0 +1,112 @@
+@titulo: eu-te-amo-and-i-love-her
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Eu Te Amo (And I Love Her)
+
+[Intro] G  Am
+        G  Am
+        G  Am
+
+ Am           Em
+Foi tanto que eu te amei
+Am       Em
+E não sabia
+Am           Em
+Que pouco a pouco eu
+C        D7
+Eu te perdia
+      G
+Eu te amo
+Am        Em
+E aquele louco amor
+Am      Em
+Inesquecível
+Am       Em      C
+Tirar do coração
+        D7
+É impossível
+
+       G
+Eu te amo
+Em         D7
+Te amei demais
+Em       Bm
+Enlouqueci
+  Em      Bm
+Brigas banais
+     D7
+Te perdi
+Am       Em
+O tempo já passou
+Am           Em
+E eu não consigo
+Am         Em
+Calar meu coração
+ C         D7
+E às vezes digo
+        G
+Eu te amo
+
+A#m      Fm
+O tempo já passou
+A#m          Fm
+E eu não consigo
+A#m        Fm
+Calar meu coração
+ C#m        D#m
+E às vezes digo
+       G#  A#m
+Eu te amo
+       G#   A#m F
+Eu te amo
+
+[Solo]
+E|---------------------------|
+B|-----------3--1--4---------|
+G|-----0--1------------------|
+D|--3------------------------|
+A|---------------------------|
+E|---------------------------|
+
+E|---------------------------|
+B|-----------3--1------------|
+G|-----0--1------------------|
+D|--3------------------------|
+A|---------------------------|
+E|---------------------------|
+
+E|---------------------------|
+B|-----------3--1--4---------|
+G|-----0--1------------------|
+D|--3------------------------|
+A|---------------------------|
+E|---------------------------|
+
+E|---------------------------------|
+B|--4--1---------------------------|
+G|--------1--0----------------0----|
+D|--------------3------------------|
+A|-------------------3--1--3-------|
+E|---------------------------------|
+
+----------------- Acordes -----------------
+A#m = X 1 3 3 2 1
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D#m = X X 1 3 4 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

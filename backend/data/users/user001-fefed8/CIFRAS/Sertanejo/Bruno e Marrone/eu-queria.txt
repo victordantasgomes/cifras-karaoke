@@ -1,0 +1,102 @@
+@titulo: eu-queria
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Eu Queria
+
+(intro) D  A  Bm  D  G  Em  A
+
+D          A/C#             Bm
+ Tantas promessas feitas por nós dois
+G      D/F#         Em
+ Não sabemos nem por quê
+ A        F#7           Bm
+ Por que o amor foi acabar assim?
+E                  A
+ A cada novo amanhecer
+D          A/C#            Bm
+ Tantos momentos que se vão de nós
+G        D/F#           Em
+ Sonhos, planos, fantasias
+ A       F#7        Bm
+ Tantos amores a passar por nós
+  E4     E                A
+ Todas canções e as poesias
+        D
+ Vou tentar parar o tempo
+       A
+ Num abraço te prender
+
+        Bm
+ Com as garras afiadas
+        F#/A#
+ Pra não te perder
+      G           A/G
+ E apagar do pensamento
+      F#m          Bm
+ Toda vez que você ia
+        E          A
+ Eu queria, se queria
+         D
+ Mas se não te dei o mundo
+          A
+ Hoje eu sei bem como é
+      Bm                      F#/A#
+ Como faz a sua falta em minh´alma
+        G         A/G        F#m        Bm
+ Eu queria nessa hora te sentir a cada dia
+        E4   E       A
+ Eu queria, se queria
+D          A/C#            Bm
+ Tantos momentos que se vão de nós
+G        D/F#            Em
+ Sonhos, planos, fantasias
+A         F#7             Bm
+ Tantas promessas de um grande amor
+E                      A
+ Que com o tempo se dilacerou.
+
+(refrão)
+
+             F            C    Dm   A/C#
+ ...e eu queria... se queria
+
+E|--10--12--13-13--12--10--8--8/10--15/16--16--15--17br--|
+
+      Bb          C/A#        Am           Dm
+ E apagar do pensamento toda vez que você ia
+         G4      G     C
+  Eu queria, se queria
+F          C              Dm
+  Tantos momentos que se vão de nós
+         Bb          F
+  A cada novo amanhecer
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C/A# = X 1 2 0 1 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#/A# = 6 X 4 6 7 X
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G4 = 3 5 5 5 3 3

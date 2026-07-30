@@ -1,0 +1,89 @@
+@titulo: vim-para-adorar(versão 2)
+@autor:
+@intérprete: Padre Marcelo Rossi
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Padre Marcelo Rossi - Vim Para Adorar
+
+C           Am      F         G
+VIM PARA ADORAR-TE, VIM PARA DIZER
+         Em           Am
+TE AMO JESUS, ÉS TUDO PARA MIM
+F         G
+EU EXALTO O TEU NOME
+Em        A
+EU EXALTO O TEU NOME
+F         G             C          A7
+EU EXALTO O TEU NOME, JESUS
+D           Bm      G         A
+VIM PARA ADORAR-TE, VIM PARA DIZER
+         F#m           Bm
+TE AMO JESUS, ÉS TUDO PARA MIM
+G         A
+EU EXALTO O TEU NOME
+F#m        B
+EU EXALTO O TEU NOME
+G         A             D             B7
+EU EXALTO O TEU NOME, JESUS
+E           C#m      A         B
+VIM PARA ADORAR-TE, VIM PARA DIZER
+
+         G#m           C#m
+TE AMO JESUS, ÉS TUDO PARA MIM
+A         B
+EU EXALTO O TEU NOME
+G#m        C#
+EU EXALTO O TEU NOME
+A         B             E
+EU EXALTO O TEU NOME, JESUS
+E      C#m         A  B
+REINA, REINA, SIM REINA
+E      C#m         A  B     E      C7
+REINA, REINA, SIM REINA, JESUS
+F       Dm          Bb   C
+CRESÇA, CRESÇA, SIM CRESÇA
+F       Dm          Bb   C     F       D7
+CRESÇA, CRESÇA, SIM CRESÇA, JESUS
+G       Em          C  D
+BRILHA, BRILHA, SIM BRILHA
+G       Em          C  D      G                E7
+BRILHA, BRILHA, SIM BRILHA, JESUS
+  A       F#m      D E
+IMPERA, IMPERA, IMPERA
+  A       F#m      D       A            F#7
+IMPERA, IMPERA, IMPERA, JESUS
+  B       G#m      E F#
+IMPERA, IMPERA, IMPERA
+  B       G#m      E       B
+IMPERA, IMPERA, IMPERA, JESUS
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

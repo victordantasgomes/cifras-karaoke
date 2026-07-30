@@ -1,0 +1,145 @@
+"""Faixa de áudio de referência + samples/solos por música — bytes no Vercel
+Blob (ver blob_client.py), metadado nas tabelas `audio_tracks`/`samples`
+(ver schema.sql). Fase 2 da migração pra Vercel (ver plano em .claude/plans)
+— substitui o disco local usado na Fase 1.
+
+O store deste projeto é privado (toda leitura exige autenticação — ver
+blob_client.py), então `track_bytes`/`sample_bytes` buscam o conteúdo aqui
+no backend (que já tem o token) pra servir pro cliente via rota — igual o
+`send_file` fazia sobre o disco local antes da migração."""
+from __future__ import annotations
+
+from pathlib import Path
+
+import db
+from services import blob_client
+from services.songs_service import SongNotFound
+from utils.slug import slugify
+
+
+class AudioService:
+    def __init__(self, songs=None):
+        self.songs = songs  # injetado depois pra evitar ciclo com SongsService
+
+    def _require_song_id(self, user_id: str, slug: str) -> str:
+        song_id = self.songs.get_id(user_id, slug)
+        if not song_id:
+            raise SongNotFound(slug)
+        return song_id
+
+    # ---------- faixa de referência ----------
+    def save_track(self, user_id: str, slug: str, file_storage) -> None:
+        song_id = self._require_song_id(user_id, slug)
+        ext = Path(file_storage.filename or "").suffix.lower() or ".mp3"
+        content_type = file_storage.mimetype or None
+        blob = blob_client.put(f"audio/{user_id}/{slug}/track{ext}", file_storage.read(), content_type)
+        with db.get_pool().connection() as conn:
+            conn.execute(
+                """insert into audio_tracks (song_id, blob_url, content_type) values (%s, %s, %s)
+                   on conflict (song_id) do update
+                       set blob_url = excluded.blob_url, content_type = excluded.content_type, uploaded_at = now()""",
+                (song_id, blob["url"], content_type or ""),
+            )
+
+    def delete_track(self, user_id: str, slug: str) -> None:
+        song_id = self.songs.get_id(user_id, slug)
+        if not song_id:
+            return
+        with db.get_pool().connection() as conn:
+            row = conn.execute("select blob_url from audio_tracks where song_id=%s", (song_id,)).fetchone()
+            if row:
+                blob_client.delete([row["blob_url"]])
+                conn.execute("delete from audio_tracks where song_id=%s", (song_id,))
+
+    def has_track(self, user_id: str, slug: str) -> bool:
+        return self._track_url(user_id, slug) is not None
+
+    def _track_url(self, user_id: str, slug: str) -> str | None:
+        song_id = self.songs.get_id(user_id, slug)
+        if not song_id:
+            return None
+        with db.get_pool().connection() as conn:
+            row = conn.execute("select blob_url from audio_tracks where song_id=%s", (song_id,)).fetchone()
+        return row["blob_url"] if row else None
+
+    def track_bytes(self, user_id: str, slug: str) -> tuple[bytes, str] | None:
+        url = self._track_url(user_id, slug)
+        return blob_client.get(url) if url else None
+
+    # ---------- samples ----------
+    def save_sample(self, user_id: str, slug: str, file_storage, nome: str) -> dict:
+        song_id = self._require_song_id(user_id, slug)
+        nome = (nome or "").strip()
+        sample_id = slugify(nome)
+        if not sample_id:
+            raise ValueError("Informe um nome para o sample.")
+        ext = Path(file_storage.filename or "").suffix.lower() or ".mp3"
+        content_type = file_storage.mimetype or None
+        blob = blob_client.put(f"audio/{user_id}/{slug}/samples/{sample_id}{ext}", file_storage.read(), content_type)
+        with db.get_pool().connection() as conn:
+            conn.execute(
+                """insert into samples (song_id, sample_id, nome, blob_url) values (%s, %s, %s, %s)
+                   on conflict (song_id, sample_id) do update
+                       set nome = excluded.nome, blob_url = excluded.blob_url""",
+                (song_id, sample_id, nome, blob["url"]),
+            )
+        return {"id": sample_id, "nome": nome}
+
+    def list_samples(self, user_id: str, slug: str) -> dict[str, dict]:
+        song_id = self.songs.get_id(user_id, slug) if self.songs else None
+        if not song_id:
+            return {}
+        with db.get_pool().connection() as conn:
+            rows = conn.execute("select sample_id, nome from samples where song_id=%s", (song_id,)).fetchall()
+        return {r["sample_id"]: {"nome": r["nome"]} for r in rows}
+
+    def _sample_url(self, user_id: str, slug: str, sample_id: str) -> str | None:
+        song_id = self.songs.get_id(user_id, slug)
+        if not song_id:
+            return None
+        with db.get_pool().connection() as conn:
+            row = conn.execute(
+                "select blob_url from samples where song_id=%s and sample_id=%s", (song_id, sample_id),
+            ).fetchone()
+        return row["blob_url"] if row else None
+
+    def sample_bytes(self, user_id: str, slug: str, sample_id: str) -> tuple[bytes, str] | None:
+        url = self._sample_url(user_id, slug, sample_id)
+        return blob_client.get(url) if url else None
+
+    def delete_sample(self, user_id: str, slug: str, sample_id: str) -> None:
+        song_id = self.songs.get_id(user_id, slug)
+        if not song_id:
+            return
+        with db.get_pool().connection() as conn:
+            row = conn.execute(
+                "select blob_url from samples where song_id=%s and sample_id=%s", (song_id, sample_id),
+            ).fetchone()
+            if row:
+                blob_client.delete([row["blob_url"]])
+                conn.execute("delete from samples where song_id=%s and sample_id=%s", (song_id, sample_id))
+
+    # ---------- limpeza ----------
+    def delete_all_for_slug(self, user_id: str, slug: str) -> None:
+        """Apaga a faixa + todos os samples da música, bytes e metadado.
+        Independente de a música em si estar sendo apagada ou não — apaga as
+        linhas de audio_tracks/samples explicitamente aqui (não dá pra
+        confiar só no ON DELETE CASCADE de `songs`: SongsService.delete
+        chama isto ANTES de apagar a linha em `songs`, mas o método também
+        precisa funcionar chamado sozinho, sem a música ser apagada)."""
+        song_id = self.songs.get_id(user_id, slug)
+        if not song_id:
+            return
+        with db.get_pool().connection() as conn:
+            urls = [
+                r["blob_url"]
+                for r in conn.execute(
+                    """select blob_url from audio_tracks where song_id=%s
+                       union all
+                       select blob_url from samples where song_id=%s""",
+                    (song_id, song_id),
+                ).fetchall()
+            ]
+            conn.execute("delete from audio_tracks where song_id=%s", (song_id,))
+            conn.execute("delete from samples where song_id=%s", (song_id,))
+        blob_client.delete(urls)

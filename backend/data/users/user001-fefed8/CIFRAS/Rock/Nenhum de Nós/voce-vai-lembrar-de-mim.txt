@@ -1,0 +1,179 @@
+@titulo: voce-vai-lembrar-de-mim
+@autor:
+@intérprete: Nenhum de Nós
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nenhum de Nós - Você Vai Lembrar de Mim
+
+Intro 4x: A  Dm
+
+Primeira Parte:
+  A           Dm
+Quando eu te vejo
+   A        Dm
+Espero teu beijo
+     A        Dm
+Não sinto vergonha
+  A       Dm
+Apenas desejo
+
+       A      Dm
+Minha boca encosta
+        A         Dm
+Em sua boca que treme
+     A         Dm
+Meus olhos eu fecho
+        A           Dm
+Mas os seus estão abertos
+   A       Dm
+E|-----0------------1p0--------|
+B|-----------2/3--------3------|
+G|---2------------2------------|
+D|-----------------------------|
+A|-0-------0-------------------|
+E|-----------------------------|
+
+
+Segunda Parte:
+ Bm7                 E
+Tudo bem se não deu certo
+      Bm7                      E
+Eu achei que nós chegamos tão perto
+      F#m7                    D5(9)
+Mas agora - com certeza eu enxergo
+        E       E4          E5
+Que no fim eu amei por nós dois
+   Bm             E        Bm      E
+E|-------2--------------0-------2------0---|
+B|---------3-------------------------------|
+G|----4------4----------------4------------|
+D|-------------4-----2---------------2-----|
+A|-2-----------------------2---------------|
+E|----------------0----------------0-------|
+
+   F#m            D
+E|------5-------------2--------------------|
+B|---------2--------3----3-----------------|
+G|---2-------2----2------------------------|
+D|-4-----------4---------------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+   E        E4    E5        E4
+E|-----4------5-------7-------5------------|
+B|-------5------5---5---5---5---5---5------|
+G|-2/4------4-----4-------4-------4--------|
+D|-----------------------------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+Primeira Parte - com variação na letra:
+A            Dm    A       Dm
+Esse foi um beijo de despedida
+  A            Dm        A   Dm
+Que se dá uma vez só na vida
+        A     Dm   A      Dm
+Que explica  tudo sem   brigas
+      A             Dm       A   Dm
+E clareia o mais escuro dos dias
+
+Segunda Parte:
+ Bm7                 E
+Tudo bem se não deu certo
+      Bm7                      E
+Eu achei que nós chegamos tão perto
+      F#m7                    Bm7
+Mas agora - com certeza eu enxergo
+        E
+Que no fim eu amei por nós dois
+
+Refrão:
+          A5(9)         E                 Bm7
+Mas você lembra! Você vai lembrar de mim
+              D5(9)
+Que o nosso amor valeu a pena
+ A5(9)           E             Bm7
+Lembrar é o nosso final feliz
+      D5(9)                       E
+você vai lembrar...vai lembrar...sim...
+você vai lembrar de mim
+   E        E4    E5        E4
+E|-----4------5-------7-------5------------|
+B|-------5------5---5---5---5---5---5------|
+G|-2/4------4-----4-------4-------4--------|
+D|-----------------------------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+Intro 4x: A  Dm
+
+(Primeira Parte)
+
+(Segunda Parte)
+
+(Refrão)
+
+(Intro)
+
+Solo 3x: Bm7  E
+E|-----------------------------------------|
+B|-3p2-3p2---------------------------------|
+G|--------4-2-------------------2----------|   (2x)
+D|------------4-2h4-2-------2-4------------|
+A|--------------------4-2-4----------------|
+E|-----------------------------------------|
+
+E|-----------------------------------------|
+B|-3p2--3/5-3-2----------------------------|
+G|--------------4-2h4-2--------------------|
+D|-----------------------------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+E|-----------------------------------------|
+B|-------------------------2-3-3/5~--------|
+G|--------1--1-1-2-4--4-4------------------|
+D|-4-2-4-----------------------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+Refrão:
+          A5(9)     E                 Bm7
+Mas você lembra! Você vai lembrar de mim
+              D5(9)
+Que o nosso amor valeu a pena
+ A5(9)       E             Bm7
+Lembrar é o nosso final feliz
+      D5(9)
+você vai lembrar...
+
+  A5(9)     E                 Bm7
+Mas você lembra! Você vai lembrar de mim
+              D5(9)
+Que o nosso amor valeu a pena
+ A5(9)       E             Bm7
+Lembrar é o nosso final feliz
+      D5(9)                       E
+você vai lembrar...vai lembrar...sim...
+                     A5(9)
+você vai lembrar de mim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5(9) = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D5(9) = X X 0 2 3 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+E5 = 0 2 2 X X X
+F#m = X X 4 P2 2 5
+F#m7 = 2 X 2 2 2 X

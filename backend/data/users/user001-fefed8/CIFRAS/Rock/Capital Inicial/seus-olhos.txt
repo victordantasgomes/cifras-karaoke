@@ -1,0 +1,93 @@
+@titulo: seus-olhos
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Seus Olhos
+
+Intro: RIFF 2X
+
+RIFF
+e|0---0---3-1-0-1-0---------|
+B|-1---1------------1-------|
+G|--2---2-------------------|
+D|--------------------------|
+A|--------------------------|
+E|--------------------------|
+
+OBS: Os versos são só no baixo mas se preferir pode tocar
+     com os acordes que eu vou colocar, dedilhando eles.
+
+Am
+Você já me viu sério
+F
+Já me viu de porre
+Am
+Me viu fazendo drama
+F
+por sua desordem
+
+      C     Bb                       Am
+Mas triste, isso nunca quis que você visse
+
+REFRÃO
+F              G                 C
+Os meus olhos sentem a falta dos seus
+       G     Am               F
+o meu corpo sente a falta do seu
+              Bb               Am
+a minmha alma sente a sua falta
+
+RIFF
+Am                               F
+Quis que o nosso mundo fosse um conto de fadas
+  Am                         F
+amando o tempo todo em todo canto da casa
+    C     Bb                  Am
+Mas isso, hoje eu aprendi que não existe
+
+REFRÃO
+
+    Em                          Am
+Mas nada vai fazer com que eu desista
+            Dm                      G
+Nada é pra sempre eu sei que sou capaz
+   Em                    Am
+A vida não é isso ela é muito mais
+   F
+Só tenho que dormir de novo
+Fm
+  Pra sonhar de novo
+
+REFRÃO 2X
+
+RIFF 3X (depois toco pela quarta vez
+         o Riff abaixo)
+
+RIFF de encerramento
+e|0--0---3-1-0-1-0------------|
+B|-1--1------------1-1--------|
+G|--2--2----------------------|
+D|----------------------------|
+A|----------------------------|
+E|----------------------------|
+
+OBS: É praticamente idêntico ao da introdução
+     só que possui uma nota a mais no final.
+
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3

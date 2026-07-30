@@ -1,0 +1,77 @@
+@titulo: hello
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Hello
+
+[Intro] Am  G  F9  G
+        F9  Am  G  F9
+        G  Am  G  F9
+        G  Am  G  F9
+
+Am             G           F9  G F9
+Você não pode ver o meu olhar
+         Am     G              F9        G   F9
+Mais pode me enxergar com os olhos do coração
+        Am          G        F9     G  F9   Am  Am/G    F9         A
+Faz tempo que eu queria te ligar,         hello me responda por favor
+       Dm            G          C          F7M
+Eu ti vi nunca mais, esqueci do seu sorriso
+    Bb            E4 E      Am   G/B    C      Am7
+Com todas as palavras, eu preciso te falar
+         Dm         G             C         C/E       F9
+Que em você eu encontrei o meu horizonte azul
+Bb                 E           Am G F9
+Te amo amor Je T'alme, I love you
+       Am    G               F9  G
+Me deixa só tocar em suas mãos
+
+   Am        G            F9   G     Am      G    F9          G
+E te fazer acreditar no meu amor, escuta o grito do meu coração
+   Am         G/B          A7
+Hello, não desliga, por favor
+         F9        G        C             Am
+Quero ouvir a sua voz, só não fale dessas nuvens
+         Dm                 E7          Am       G/B  C
+Que me escondem dos seus olhos, mais já mais conseguiram.
+Dm                 G             C          Am
+Esconder do coração que eu serei seu anjo azul
+   Dm             E           Am
+Te voillo tanto bene, I love you
+
+                           A
+Hello, não desliga, por favor
+       Dm         G          C                Am
+Quero ouvir a sua voz, só não fale dessas nuvens
+           Dm                E7        Am              C
+Que me escondem dos seus olhos, mais já mais conseguiram
+Dm            G                 C           Am
+Esconder do coração que eu serei seu anjo azul
+       Dm        E            Am
+Te voillo tanto bene, I love you
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+A*  = X 0 2 2 2 0 - (*A# na forma de A)
+A7*  = X 0 2 0 2 0 - (*A#7 na forma de A7)
+Am*  = X 0 2 2 1 0 - (*A#m na forma de Am)
+Am/G*  = 3 X 2 2 1 X - (*A#m/G# na forma de Am/G)
+Am7*  = X 0 2 0 1 0 - (*A#m7 na forma de Am7)
+Bb*  = X 1 3 3 3 1 - (*B na forma de Bb)
+C*  = X 3 2 0 1 0 - (*C# na forma de C)
+C/E*  = 0 3 2 0 1 0 - (*C#/F na forma de C/E)
+Dm*  = X X 0 2 3 1 - (*D#m na forma de Dm)
+E*  = 0 2 2 1 0 0 - (*F na forma de E)
+E4*  = 0 2 2 2 0 0 - (*F4 na forma de E4)
+E7*  = 0 2 2 1 3 0 - (*F7 na forma de E7)
+F7M*  = 1 X 2 2 1 X - (*F#7M na forma de F7M)
+F9*  = 1 3 5 2 1 1 - (*F#9 na forma de F9)
+G*  = 3 2 0 0 0 3 - (*G# na forma de G)
+G/B*  = X 2 0 0 3 3 - (*G#/C na forma de G/B)

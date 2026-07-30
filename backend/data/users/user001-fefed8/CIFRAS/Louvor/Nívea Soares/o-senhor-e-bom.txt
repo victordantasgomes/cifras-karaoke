@@ -1,0 +1,144 @@
+@titulo: o-senhor-e-bom
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - O Senhor É Bom
+
+[Intro] C#m  A
+        C#m  A
+
+E|-------------------------------------|
+B|----------------------7--------------|
+G|---/6-8--8/9--4--4/6-----------------| (2x)
+D|-------------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+
+ C#m            A                   C#m              A
+Bendirei ao Senhor pra sempre, proclamarei que o senhor é bom
+ C#m            A                   C#m              A
+Bendirei ao Senhor pra sempre, proclamarei que o senhor é bom
+
+          C#m         B     A
+O Senhor reina, reinará em majestade
+          C#m          B       A
+O Senhor reina, em justiça e em verdade
+          C#m         B      A
+O Senhor reina, reinará com majestade
+
+          C#m          B       A
+O Senhor reina, em justiça e em verdade
+
+      E
+O Senhor é bom
+      A
+O Senhor é bom
+       C#m         B          A
+Sua misericórdia, dura, para sempre
+      E
+O Senhor é bom
+      A
+O Senhor é bom
+       C#m         B          A
+Sua misericórdia, dura, para sempre
+
+( C#m  A )
+( C#m  A )
+
+E|-------------------------------------|
+B|----------------------7--------------|
+G|---/6-8--8/9--4--4/6-----------------| (2x)
+D|-------------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+
+ C#m            A                   C#m              A
+Bendirei ao Senhor pra sempre, proclamarei que o senhor é bom
+ C#m            A                   C#m              A
+Bendirei ao Senhor pra sempre, proclamarei que o senhor é bom
+
+          C#m         B        A
+O Senhor reina, reinará em majestade
+          C#m          B           A
+O Senhor reina, em justiça e em verdade
+          C#m         B           A
+O Senhor reina, reinará com majestade
+          C#m          B          A
+O Senhor reina, em justiça e em verdade
+
+      E
+O Senhor é bom
+      A
+O Senhor é bom
+       C#m         B          A
+Sua misericórdia, dura, para sempre
+      E
+O Senhor é bom
+      A
+O Senhor é bom
+       C#m         B          A
+Sua misericórdia, dura, para sempre
+      E
+O Senhor é bom
+      A
+O Senhor é bom
+       C#m         B          A
+Sua misericórdia, dura, para sempre
+      E
+O Senhor é bom
+      A
+O Senhor é bom
+       C#m        B/D#  E     A
+Sua misericórdia, dura, para sempre
+
+[Solo] E  A  C#m  B  A
+       E  A  C#m  B  A
+
+E|------------------------------------------------------------------------|
+B|-----------------------------------------------------------12-14-16-17--|
+G|--8-9-16--8-9-14---6---4---2------8-9-16--8-9-14---6---4----------------| (2x)
+D|-------------------6---4---2-----------------------6---4----------------|
+A|--6-7-14--6-7-12---4---2---0------6-7-14--6-7-12---4---2----------------|
+E|------------------------------------------------------------------------|
+
+          C#m         B/D#     A
+O Senhor reina, reinará em majestade
+          C#m          B/D#       A
+O Senhor reina, em justiça e em verdade
+          C#m         B         A
+O Senhor reina, reinará com majestade
+          C#m          B/D#       A
+O Senhor reina, em justiça e em verdade
+
+      E
+O Senhor é bom
+      A
+O Senhor é bom
+       C#m         B          A
+Sua misericórdia, dura, para sempre
+      E
+O Senhor é bom
+      A
+O Senhor é bom
+       C#m         B          A
+Sua misericórdia, dura, para sempre
+      E
+O Senhor é bom
+      A
+O Senhor é bom
+       C#m         B          A
+Sua misericórdia, dura, para sempre
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0

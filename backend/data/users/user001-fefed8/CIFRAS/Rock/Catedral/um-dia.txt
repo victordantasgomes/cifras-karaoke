@@ -1,0 +1,40 @@
+@titulo: um-dia
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Um dia
+
+Intro: (G,C,Am,D)
+
+G C Am D
+Tudo bem se não for em vão, hoje não há tempo a perder
+G C Am D
+Sonhos vêem, outros sonhos vão, mas é melhor não esquecer
+
+G C Am D
+Que a verdade é um pouco mais, é uma estrada a percorrer
+G C Am D
+Nela o sol brilha a canção, e é cantando que vou viver
+
+C G/B Am G
+Um dia, um sorriso, uma direção
+C G/B Am G
+Um dia, um abrigo pro meu coração
+C G/B Am G
+Unindo um encontro, uma solução
+C G/B Am G
+Um dia, um abrigo pro meu coração
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

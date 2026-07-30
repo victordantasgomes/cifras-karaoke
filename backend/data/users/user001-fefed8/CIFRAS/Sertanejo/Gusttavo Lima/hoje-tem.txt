@@ -1,0 +1,85 @@
+@titulo: hoje-tem
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Hoje Tem
+
+      E|--------------------------------------|
+      B|--------------------------------------|
+      G|--------------------------------------|
+      D|-7-8-7---3-2--------------------------|
+      A|-------5-----3-5----------------------|
+      E|--------------------------------------|﻿
+
+
+Refrão:
+Dm
+A cidade parou
+                    Bb9
+Hoje o chão vai tremer
+     A7
+Hoje tem Gusttavo Lima, bebê!
+
+Dm
+Eu tô na multidão
+           Bb9
+Esperando você
+     A7
+Hoje tem Gusttavo Lima, bebê!
+
+
+Intro(2x): Dm Bb9 Am
+
+Refrão:
+Dm
+A cidade parou
+                    Bb9
+Hoje o chão vai tremer
+     A7
+Hoje tem Gusttavo Lima, bebê!
+
+Dm
+Eu tô na multidão
+           Bb9
+Esperando você
+     A7
+Hoje tem Gusttavo Lima, bebê!
+
+Dm
+Vem pra me completar
+                  Bb9
+Vem pra gente dançar
+Gm           C9
+Vem, tô desejando você
+
+Dm
+Não paro de te olhar
+               Bb9
+O amor está no ar
+Gm                    A7
+E aí, tá faltando o quê?
+
+Dm              C        Bb9
+Seus olhos, eu já me perdi
+C                        Dm
+Me leva, me abraça e me beija
+Dm             C        Bb9
+Me apaixonei quando te vi
+Gm                  Am
+Você virou minha cabeça!!!
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+Gm = 3 5 5 3 3 3

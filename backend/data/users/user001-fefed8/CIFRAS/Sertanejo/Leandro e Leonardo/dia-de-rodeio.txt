@@ -1,0 +1,54 @@
+@titulo: dia-de-rodeio
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - Dia de Rodeio
+
+Intro: A
+      A
+    Domingo de manhã dou um trato na fivela , calça desbotada,
+                                     D                 A
+    no cordão o nome dela , eu tô no meio , é dia de rodeio
+    O sol nem bem nasceu e já me pega no caminho
+    Vou com Deus,Nossa Senhora,não sei andar sozinho
+               D                    A
+    Eu chego o reio,já tô pra lá do meio
+       E                        D                        A
+    Eu chamo na espora , vamo embora que hoje é dia de rodeio
+      A
+  * A festa tá bonita tem peão rodando o laço
+    Da loira quero um beijo,da morena um abraço
+             D               A
+    Eu tô no meio,é dia de rodeio
+    Tem um sanfoneiro pra ninguém ficar parado
+    Pro cara que é solteiro tem mulher pra todo lado
+               D                      A
+    E quem não veio,tem até pra bicho feio
+    E                      D                         A
+    Chega de conversa,vamo nessa que hoje é dia de rodeio
+
+                    D                      A
+ ** Tá bom que tá danado e a gente não tem pressa
+                     E  D                   A     A7
+    Daqui ninguém me tira,o bailão tá bom à beça
+               D                  A
+    Bota na banguela,tira o pé do freio
+                 E     D            A
+    O dia tá tão lindo , é dia de rodeio
+  SOLO: E D E A D A
+  REPETE DESDE *
+  REPETE **
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0

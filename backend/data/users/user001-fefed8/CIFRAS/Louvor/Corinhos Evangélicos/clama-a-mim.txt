@@ -1,0 +1,28 @@
+@titulo: clama-a-mim
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Clama a Mim
+
+        F           Gm              C                F
+Clama a mim, e responderte-ei e anunciarte-ei coisas grandes
+        F            Gm              C               F
+Clama a mim, e responderte-ei e anunciarte-ei coisas grandes
+        Bb            F   Dm         Gm            C           F
+Que não sabes,que não sabes, que não sabes mas que eu te mostrarei
+        Bb            F   Dm         Gm            C           F
+Que não sabes,que não sabes, que não sabes mas que eu te mostrarei
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

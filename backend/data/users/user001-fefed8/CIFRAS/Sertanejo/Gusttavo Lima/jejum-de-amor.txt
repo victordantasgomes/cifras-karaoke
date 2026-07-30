@@ -1,0 +1,208 @@
+@titulo: jejum-de-amor
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Jejum de Amor
+
+Intro: E/B
+       C#m  B9  A9  B9  E  B/D#
+       C#m  B9  A9  B9  E
+
+Solo :
+
+E|--------------------------------------|
+B|----------5-4-4/5--5-5-5-5-2/4-4-4-2--|
+G|--4-4-4-4---------------------------4-|
+D|--------------------------------------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+E|----------------------|
+B|----------------------|
+G|-4-6-4h6p4-4-4/6------|
+D|----------7-----4-4/6-|
+A|----------------------|
+E|----------------------|
+
+E|-----------------------------------------|
+B|-----------5-4-5/7\5--5-5-5-5-2/4-4-4-2--|
+G|--4-4-4-4------------------------------4-|
+D|-----------------------------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+
+E|----------------------|
+B|----------------------|
+G|--------4-4/6-4-------|
+D|-6-7-6-7-------4-4/6--|
+A|----------------------|
+E|----------------------|
+
+
+ B/D#         C#m               B9
+Não sou de ficar mais de uma semana sem amor
+ A9            B9            E
+Sem um beijo, sem um corpo, tá difícil
+ B/D#          C#m           B9
+Deixa eu te falar, eu vou fazer jejum de amor
+  A9
+Pra provar o que eu sinto
+
+E                B/D#      C#m
+ Quer saber? Eu tô arrependido
+                           B/D#
+Porque não falei no seu ouvido
+                       A9
+As frases de amor que não falei
+               E
+Em nosso cobertor
+      B/D#      C#m                   B/D#
+Sentimento proibido, até parece impossível
+                     A9                       B9
+Quer saber? Eu necessito ter de volta seu calor
+
+( A/C#  B/D# )
+
+Refrão:
+
+            C#m
+Sua boca é minha
+          A9
+Domina a minha
+                  E                        B9
+E o que é que as duas estão fazendo tão sozinhas?
+            C#m
+Sua boca é minha
+          A9
+Domina a minha
+                  E                        B9
+E o que é que as duas estão fazendo tão sozinhas?
+                  C#m
+Ai, ai, ai, boca minha
+
+Solo: B9  A9  B9  E  B/D#
+      C#m  B9  A9  B9  E
+
+E|--------------------------------------|
+B|----------5-4-4/5--5-5-5-5-2/4-4-4-2--|
+G|--4-4-4-4---------------------------4-|
+D|--------------------------------------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+E|----------------------|
+B|----------------------|
+G|-4-6-4h6p4-4-4/6------|
+D|----------7-----4-4/6-|
+A|----------------------|
+E|----------------------|
+
+E|-----------------------------------------|
+B|-----------5-4-5/7\5--5-5-5-5-2/4-4-4-2--|
+G|--4-4-4-4------------------------------4-|
+D|-----------------------------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+E|----------------------|
+B|----------------------|
+G|--------4-4/6-4-------|
+D|-6-7-6-7-------4-4/6--|
+A|----------------------|
+E|----------------------|
+
+ B/D#         C#m               B9
+Não sou de ficar mais de uma semana sem amor
+ A9            B9            E
+Sem um beijo, sem um corpo, tá difícil
+ B/D#          C#m           B9
+Deixa eu te falar, eu vou fazer jejum de amor
+  A9
+Pra provar o que eu sinto
+
+E                B/D#      C#m
+ Quer saber? Eu tô arrependido
+                           B/D#
+Porque não falei no seu ouvido
+                       A9
+As frases de amor que não falei
+               E
+Em nosso cobertor
+
+      B/D#      C#m                   B/D#
+Sentimento proibido, até parece impossível
+                     A9                       B9
+Quer saber? Eu necessito ter de volta seu calor
+
+( A/C#  B/D# )
+
+Refrão:
+
+            C#m
+Sua boca é minha
+          A9
+Domina a minha
+                  E                        B9
+E o que é que as duas estão fazendo tão sozinhas?
+            C#m
+Sua boca é minha
+          A9
+Domina a minha
+                  E                        B9
+E o que é que as duas estão fazendo tão sozinhas?
+            C#m
+Sua boca é minha
+          A9
+Domina a minha
+                  E                        B9
+E o que é que as duas estão fazendo tão sozinhas?
+                  C#m
+Ai, ai, ai, boca minha
+
+Final: B9  A9  B9  E  B/D#
+       C#m  B9  A9  B9  E
+
+E|--------------------------------------|
+B|----------5-4-4/5--5-5-5-5-2/4-4-4-2--|
+G|--4-4-4-4---------------------------4-|
+D|--------------------------------------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+E|----------------------|
+B|----------------------|
+G|-4-6-4h6p4-4-4/6------|
+D|----------7-----4-4/6-|
+A|----------------------|
+E|----------------------|
+
+E|-----------------------------------------|
+B|-----------5-4-5/7\5--5-5-5-5-2/4-4-4-2--|
+G|--4-4-4-4------------------------------4-|
+D|-----------------------------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+E|----------------------|
+B|----------------------|
+G|--------4-4/6-4-------|
+D|-6-7-6-7-------4-4/6--|
+A|----------------------|
+E|----------------------|
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+B/D# = X 6 X 4 7 7
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0

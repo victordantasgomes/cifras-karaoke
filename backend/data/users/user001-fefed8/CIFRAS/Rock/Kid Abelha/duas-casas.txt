@@ -1,0 +1,48 @@
+@titulo: duas-casas
+@autor:
+@intérprete: Kid Abelha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kid Abelha - Duas Casas
+
+( George Israel / Paula Toller )
+
+
+[Intro:] C# A#m F# G#
+
+ C#                    A#m                   F# G#
+Sábado eu fico aqui, domingo eu me mando pra lá
+ C#                      A#m                  F# G# A#m
+No natal eu passo mal, do ano-novo vou me livrar
+               F# A#m                  F#
+Lá não tem presente aqui não tem assunto
+  D#m7                                              G#7
+Vocês não têm futuro sinto muito quem mandou dormir junto
+
+     C#         G#  D#m             F# C#
+Qual é a minha casa, onde eu vou morar
+              G#    D#m             F#
+Quem me dá abrigo, quem vai me escutar
+ D#m             F#
+Quem vai me escutar
+
+
+Sábado eu fico aqui, domingo eu me mando pra lá
+Entre duas casas minha história nunca vai começar
+Lá não tem meus livros, aqui não tem respeito
+Vocês não têm mais jeito sinto muito quem mandou dormir junto
+
+----------------- Acordes -----------------
+A#m = X 1 3 3 2 1
+C# = X 4 6 6 6 4
+D#m = X X 1 3 4 2
+D#m7 = X X 1 3 2 2
+F# = 2 4 4 3 2 2
+G# = 4 3 1 1 1 4
+G#7 = 4 6 4 5 4 4

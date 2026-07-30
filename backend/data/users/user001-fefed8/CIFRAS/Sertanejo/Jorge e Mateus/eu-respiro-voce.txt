@@ -1,0 +1,91 @@
+@titulo: eu-respiro-voce
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Eu Respiro Você
+
+Intro 2x: G C Em D
+
+E|--------------------------------8--7------------|
+B|-----8--8--10~--8--------8---8--8----8--8h10----|
+G|-7/9---9-------------7/9---9----7---------------| (2x)
+D|------------------------------------------------|
+A|------------------------------------------------|
+E|------------------------------------------------|
+
+
+G              C
+O tempo para, não sei porque
+ Em                     D
+Quando estou perto de você
+G              C
+Um sentimento, que me faz bem
+ Em                     D
+Ao teu lado eu não preciso de ninguém
+Am                    F
+Quando eu te chamo, você responde
+Am                 D
+E eu me perco se você se esconde
+
+Am                    F
+Se tenho forças, são todas suas
+Am                 D
+Eu sem você sou como céu sem lua
+          C                  Em
+Mas é tão bom o que estou sentindo
+          C                  Em
+Tudo é tão bom, te vendo sorrindo
+            C                D
+Preciso de você, te fazer feliz,
+         G    D
+Me faz viver...
+
+G              D   C                  G D
+Sigo vivendo você, vivo pra poder te ter
+     Em         A
+Meu ar, to precisando respirar
+     C               D
+Mas sem você não consigo.
+
+G                 D       C                 G D
+Vivo pensando em você, é impossível te esquecer
+     Em           A
+Meu bem, eu sem você não sou ninguém
+       C              G
+Te quero pra sempre comigo.
+
+   ( G C Em D ) (2x)
+E|--------------------------------8--7----------------------|
+B|-----8--8--10^--8--------8---8--8----8--8/10---10^--8--8--|
+G|-7h9---9-------------7h9---9-------------------------9----|
+D|----------------------------------------------------------|
+A|----------------------------------------------------------|
+E|----------------------------------------------------------|
+
+(repete tudo)
+
+     Em           A
+Meu bem, eu sem você não sou ninguém
+       C      D        G
+Te quero pra sempre comigo.
+
+(arranjo no final)
+E|--------------------------------8--7-----------------------|
+B|-----8--8--10~--8--------8---8--8----8--8/10---11~-10-8--8-|
+G|-7/9---9-------------7/9---9----7----------------------9---|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

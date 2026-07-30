@@ -1,0 +1,85 @@
+@titulo: sou-vencedor
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Sou Vencedor
+
+Intro: G  C  Am7  C
+
+Verso 1:
+G
+O cântico de um salvo
+(C)
+Sobe até o céu
+G
+Eu sou livre pelo
+(C)
+sangue de cristo
+G
+O inferno estremece
+(C)
+Sem poder está
+Em7                         C
+Eu sou livre pelo sangue de cristo
+
+Refrão:
+G            C
+Sou vencedor pela Cruz
+
+Am7             C           (D)
+Os meus grilhões Todos se quebraram
+G       C
+Cantarei Té perder a voz
+Am7                C             D      G   C  Am7  C
+Vou gritar bem alto Pois eu encontrei vitória
+
+Verso 2:
+G                 C
+Oh que grande amor Meu pecado carregou
+Em7                         C
+Eu sou livre pelo sangue de cristo
+G                        C
+O poder que o ressuscitou Hoje habita em mim
+Em7                         C
+Eu sou livre pelo sangue de cristo  (3x)
+
+Refrão:
+G            C
+Sou vencedor pela Cruz
+Am7             C           (D)
+Os meus grilhões Todos se quebraram
+G       C
+Cantarei Té perder a voz
+Am7                C             D      G   C  Am7  C
+Vou gritar bem alto Pois eu encontrei vitória
+
+Ponte:
+G/B          C       Dsus   G
+O pecado não pode me dominar (8x)
+
+Refrão:
+G            C
+Sou vencedor pela Cruz
+Am7             C           (D)
+Os meus grilhões Todos se quebraram
+G       C
+Cantarei Té perder a voz
+Am7                C             D      G   C  Am7  C
+Vou gritar bem alto Pois eu encontrei vitória
+
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dsus = X X 0 2 3 2
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

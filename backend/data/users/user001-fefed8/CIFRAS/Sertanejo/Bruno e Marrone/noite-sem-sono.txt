@@ -1,0 +1,173 @@
+@titulo: noite-sem-sono
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Noite Sem Sono
+
+Tom: Gm
+
+Intro: Cm  Bb  Ab  D7  Gm  G4(7)
+
+Gm         G4(7)  Cm  D7
+Noites sem sono
+         Gm      G4(7)  Cm  D7
+Que triste passa.
+         Gm    Gm/F Eb6
+Quase me mata
+Eb         D7
+   De solidão
+
+           Cm   Cm7M  Cm7  Cm6
+Noites sem sono
+           Cm   Cm7M  Cm7  Cm6
+Que me machuca
+          Cm   Cm7M Eb
+Que não escuta
+        D4(7)  D7
+Meu coração
+
+
+Refrão:
+          G
+Olho da janela
+A lua que não leva
+A dor dessa paixão
+    G/B  Bbº   D7
+Onde e...la está?
+Am7             D7
+    Diga nessa noite
+                C/D
+Em que perdi o sono
+            Am7  D7
+Onde ela se foi?
+     Am7 Bb5+  G   D4(7)
+Com quem es...tás?
+      D7       G
+Diga que eu a quero
+Diga que eu espero
+Um dia ela voltar
+    Dm7 G7   C
+E assim se..rá...
+       Cm7            Gm
+Que eu dela não me esqueço
+          D7
+Nos meus sonhos
+    Gm
+Nos meus medos
+ D7                G
+Nos meus olhos a chorar.
+
+Solo:
+              G
+E|-2/3-3-3-3-3--2-2-2-2-2-------------|
+B|-------------------------5-5-5-5-0--|
+G|------------------------------------|
+D|-4/5-5-5-5-5--4-4-4-4-4--2-2-2-2----|
+A|---------------------------------2--|
+E|------------------------------------|
+
+    G/B  Bbº   D7  Am7
+Onde e...la está?
+              D7        C/D       Am7  D7
+E|-2/3-3-3-3-3--2-2-2-2-2--------------|
+B|-------------------------5-5-5-5-1---|
+G|-------------------------------------|
+D|-4/5-5-5-5-5--4-4-4-4-4-2-2-2-2------|
+A|---------------------------------2/3-|
+E|-------------------------------------|
+
+     Am7 Bb5+  G   D4(7)
+Com quem es...tás?
+      D7        G
+Diga que eu a quero
+Diga que eu espero
+Um dia ela voltar
+    Dm7 G7   C
+E assim se..rá...
+       Cm7            Gm
+Que eu dela não me esqueço
+          D7
+Nos meus sonhos
+    Gm
+Nos meus medos
+ D7                G
+Nos meus olhos a chorar.
+
+(Ponte para o refrão) Gm  Am7(5-)  D7  (4x)
+( E4  E7 )
+          A
+Olho da janela
+A lua que não leva
+A dor dessa paixão
+    A/C#  Cº   E7
+Onde e...la está?
+Bm7             E7
+    Diga nessa noite
+                D/E
+Em que perdi o sono
+            Bm7  E7
+Onde ela se foi?
+     Bm7 C5+   A   E4(7)
+Com quem es...tás?
+      E7        A
+Diga que eu a quero
+Diga que eu espero
+Um dia ela voltar
+    Em7 A7   D
+E assim se..rá...
+       Dm7            Am
+Que eu dela não me esqueço
+          E7
+Nos meus sonhos
+    Am
+Nos meus medos
+ E7                A
+Nos meus olhos a chorar.
+
+(Para terminar) Am  Bm7(5-) E7  (4x)  Am
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+Ab = 4 3 1 1 1 4
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am7(5-) = 5 X 5 5 4 X
+Bb = X 1 3 3 3 1
+Bb5+ = X 1 4 3 3 X
+Bbº = X 1 2 0 2 0
+Bm7 = X 2 4 2 3 2
+Bm7(5-) = X 2 3 2 3 X
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+C5+ = X 3 2 1 1 X
+Cm = X 3 5 5 4 3
+Cm6 = X 3 X 2 4 3
+Cm7 = X 3 5 3 4 3
+Cm7M = X 3 5 4 4 3
+Cº = X 3 4 2 4 2
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+D4(7) = X X 0 2 1 3
+D7 = X X 0 2 1 2
+Dm7 = X 5 7 5 6 5
+E4 = 0 2 2 2 0 0
+E4(7) = 0 X 0 2 0 X
+E7 = 0 2 2 1 3 0
+Eb = X 6 5 3 4 3
+Eb6 = X X 1 3 1 3
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G4(7) = 3 X 3 0 1 X
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3
+Gm/F = X X 3 3 3 3

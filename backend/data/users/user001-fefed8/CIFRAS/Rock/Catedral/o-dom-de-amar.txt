@@ -1,0 +1,81 @@
+@titulo: o-dom-de-amar
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - O Dom de Amar
+
+Intro: E  C#m7  A9  B4  B  A/C#  B/D#
+
+E
+As horas se passaram aqui
+      B/D#                G#m7
+Tanta coisa eu não percebi
+        F#m7
+Mais eu sei que sempre eu senti
+       B4    B       A9
+Que você me faz sempre feliz
+       E
+Me ensinando como caminhar
+       B/D#             G#m7
+Me ajudando para não errar
+      F#m7
+Estendendo a mão pra me mostrar
+     B4      B
+O maior dos dons
+   A9
+O dom de amar
+
+
+Refrão:
+
+            E
+Eu quero sentir nessa hora
+         C#m7
+A tua presença agora
+           A
+Falando ao meu coração
+            B4    B
+Com carinho e emoção
+             E
+Te quero pra sempre em minha vida
+             C#m7
+O amor cincatriza a ferida
+            A9           A9/G#
+Eu quero levar esse amor
+     F#m7            B4
+Para todos que eu encontre
+ B        A
+Aonde eu for
+
+Intro: E
+
+(repete tudo)
+
+Solo: E  C#m7  A  B4
+
+(Refrão)
+
+      F#m7           B4
+Para todos que eu encontre
+ B4       A  E
+Aonde eu for
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+A9/G# = 4 0 2 2 0 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B4 = X 2 4 4 5 2
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X
+G#m7 = 4 X 4 4 4 X

@@ -1,0 +1,87 @@
+@titulo: eu-preciso-dizer-que-eu-te-amo(acústica)
+@autor:
+@intérprete: Cazuza
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cazuza - Eu Preciso Dizer Que Eu Te Amo
+
+Intro:  Am7 G#4+(7M)
+
+ Am7     G#4+(7M)    Am7   G#4+(7M)
+Quando a gente conversa
+ E/G#
+Contando casos besteiras
+ Am7    G#4+(7M)    Am7   G#4+(7M)
+Tanta coisa em comum
+ E/G#
+Deixando escapar segredos
+
+   Fm6            Bb7(9)
+E eu não sei que hora   dizer
+          C7M      C6(9)
+Me dá um medo que medo
+Fm6         Bb7(9)
+Eu preciso dizer que eu te amo
+       C7M               C6(9)
+Te ganhar ou perder sem engano
+ Fm6          Bb7(9)            Am7
+Eu preciso dizer que eu te amo tanto
+
+
+Am7      G#4+(7M)    Am7   G#4+(7M)
+E até o tempo passa arrastado
+ E/G#
+Só prá eu ficar do teu lado
+ Am7     G#4+(7M)    Am7   G#4+(7M)
+Você me chora dores de outro amor
+ E/G#
+Se abre e acaba comigo
+  Fm6     Bb7(9)                       C7M  C6(9)
+E nessa novela eu não quero Ser teu amigo
+
+ Fm6             Bb7(9)
+Que eu preciso dizer que eu te amo
+       C7M                 C6(9)
+Te ganhar ou perder sem engano
+ Fm6            Gm                  G#6    A#6
+Que eu preciso dizer que eu te amo, tanto
+
+ C7M(9)                 F7M
+E eu já não sei se eu to misturando
+ C7M(9)          Dm7(9)  G7(13)
+ahh, eu perco o sono
+ C7M(9)                F7M         C7M(9)     F7M
+Lembrando cada riso teu qualquer bandeira,    ah
+ C7M(9)                F7M              C7M(9)
+Fechando e abrindo a geladeira a noite inteira
+
+ Fm6           Bb7(9)
+Que eu preciso dizer que eu te amo
+  C7M                       C6(9)
+Te ganhar ou perder sem engano
+ Fm6              Gm                Am7  G#4+(7M) Am7  G#4+(7M)
+Que eu preciso dizer que eu te amo tanto
+
+(Repete tudo)
+
+----------------- Acordes -----------------
+A#6 = X 1 3 0 3 X
+Am7 = X 0 2 0 1 0
+Bb7(9) = X 1 0 1 1 X
+C6(9) = X 3 2 2 3 3
+C7M = X 3 2 0 0 X
+C7M(9) = X 3 2 4 3 X
+Dm7(9) = X 5 3 5 5 X
+E/G# = 4 X 2 4 5 X
+F7M = 1 X 2 2 1 X
+Fm6 = 1 X 0 1 1 X
+G#4+(7M) = 4 X 5 5 3 X
+G#6 = 4 X 3 5 4 X
+G7(13) = 3 X 3 4 5 X
+Gm = 3 5 5 3 3 3

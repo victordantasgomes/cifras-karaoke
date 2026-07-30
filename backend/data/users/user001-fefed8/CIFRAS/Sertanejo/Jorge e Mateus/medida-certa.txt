@@ -1,0 +1,101 @@
+@titulo: medida-certa
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Medida Certa
+
+[Intro] G  D/F#  Em  D  G  D/F#  Em  D
+
+G                              D
+Oi, to te ligando pra você passar aqui em casa
+                           C
+Hoje a noite se tiver desocupada
+                  D
+Só se der, só se der
+ G                                     D
+Não, não vai dizer pra ninguém que sinto saudades
+  Em      C
+Não é verdade
+                  D
+Eu e você nada a ver
+
+     Em
+Meu pente perguntou do seu cabelo
+   G
+Ouvi reclamações do meu espelho
+    D
+Querendo saber de você
+
+
+Que dia ele vai te ver
+    Em
+Eu juro que pra mim pouco me importa
+       G
+Se eu passo toda hora na sua porta
+     D                         A9
+Meu carro que se apaixonou na rota
+
+D            A9          Em
+É... não sou eu, o meu quarto que ficou apaixonado
+D/F#     G                             D
+  Travesseiro dependente e viciado em você
+        A9          Em
+Não sou eu, meu lençol te quer agora e não depois
+D/F#     G                 A9             D
+  Minha cama tem a medida certa para nós dois
+
+( A9  Em  D/F#  G  A9 )
+
+           Em
+É que meu pente perguntou do seu cabelo
+   G
+Ouvi reclamações do meu espelho
+    D
+Querendo saber de você
+
+Que dia ele vai te ver
+    Em
+Eu juro que pra mim pouco me importa
+       G
+Se eu passo toda hora na sua porta
+     D                         A9
+Meu carro que se apaixonou na rota
+
+D            A9          Em
+É... não sou eu, o meu quarto que ficou apaixonado
+D/F#     G                             D
+  Travesseiro dependente e viciado em você
+        A9          Em
+Não sou eu, meu lençol te quer agora e não depois
+D/F#     G                 A9             D
+  Minha cama tem a medida certa para nós dois
+
+A9
+Oooo
+
+D            A9          Em
+É... não, não sou eu, o meu quarto que ficou apaixonado
+D/F#     G                             D
+  Travesseiro dependente e viciado em você
+        A9          Em
+Não sou eu, meu lençol te quer agora e não depois
+D/F#     G                 A9             D
+  Minha cama tem a medida certa para nós dois
+
+[Final] A9  Em  D/F#  G  A9  G  A  D
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

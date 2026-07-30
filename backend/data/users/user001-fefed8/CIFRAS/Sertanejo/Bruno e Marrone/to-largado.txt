@@ -1,0 +1,51 @@
+@titulo: to-largado
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Tô Largado
+
+(Refrão)
+
+           C
+Eu tô largado, tô jogado, abandonado
+                      F
+Sou mais eu do que você
+         G             F                  C  (G)
+Eu vou beber pra esquecer quem me faz sofrer
+
+( C F G F C G )
+
+  C                          F
+Quase joguei fora a minha vida
+ C                           G
+Pra poder viver um grande amor
+ C                           F
+Por que que você fez isso comigo?
+ C                        G
+Me fez sofrer sem sentir dor
+
+ C                       F
+Demorou, mas eu caí na real
+
+ C                         F
+Foi apenas um amor de carnaval
+ C                   F                 Dm
+Agora você pode implorar, chorar, espernear
+ Am                      G
+Que pra você não vou voltar
+
+(Repete tudo)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

@@ -1,0 +1,143 @@
+@titulo: a-lua-e-eu
+@autor:
+@intérprete: Gustavo Mioto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gustavo Mioto - A Lua e Eu
+
+[Intro] E  F#  G#m
+        E  F#  G#m
+
+E|-6/7-6------------6/7-6-------------------|
+B|-------7-7/9-7----------7-7/9-7-----------|
+G|---------------6----------------6/8-------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Primeira Parte]
+
+            E  F#
+Eu sei que não
+             G#m
+Sou exemplo não
+                E
+Seu que eu não tenho
+           F#                  G#m
+Nenhuma moral pra falar de paixão
+
+
+              E  F#
+Sei que eu errei
+             G#m
+E me arrependi
+           E
+A lua viu tudo parada
+       F#               G#m
+E não fez nada pra impedir
+
+[Pré-Refrão]
+
+    C#m7   G#m
+E agora a culpa
+   B9                     F#
+Assumo porque o erro foi meu
+             C#m7   G#m
+Sei que não tem desculpa
+      B9                  F#
+Eu trai e a lua foi testemunha
+
+[Refrão]
+
+        E  F#                     G#m
+A lua e eu    disputando quem perdeu
+        E  F#                    G#m
+A lua e eu    dividindo um erro meu
+              E                F#
+Aqui nessa janela era eu lua e ela
+                 G#m
+Agora é só lua e eu
+
+[Solo] E  F#  G#m
+
+E|------------------------------------------|
+B|-------------------------------4-2/4------|
+G|-3/4-3--------3/4-3--------4-6------------|
+D|-------4-4/6--------4-4/6-----------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Primeira Parte]
+
+            E       F#
+Eu sei que não não não
+             G#m
+Sou exemplo não não não
+                E
+Seu que eu não tenho
+           F#           G#m
+Nenhuma moral pra falar
+
+Pra falar de paixão
+
+              E  F#
+Sei que eu errei
+             G#m
+E me arrependi
+           E
+A lua viu tudo parada
+       F#               G#m
+E não fez nada pra impedir
+
+[Pré-Refrão]
+
+    C#m7   G#m
+E agora a culpa
+   B9                     F#
+Assumo porque o erro foi meu
+             C#m7   G#m
+Sei que não tem desculpa
+      B9                  F#
+Eu trai e a lua foi testemunha
+
+[Refrão]
+
+        E  F#                     G#m
+A lua e eu    disputando quem perdeu
+        E  F#                    G#m
+A lua e eu    dividindo um erro meu
+              E                F#
+Aqui nessa janela era eu lua e ela
+                 G#m
+Agora é só lua e eu
+              E                F#
+Aqui nessa janela era eu lua e ela
+                 G#m
+Agora é só lua e eu
+              E                F#
+Aqui nessa janela era eu lua e ela
+
+Agora é só lua e eu
+
+[Final] E  F  G#m
+
+E|-6/7-6------------6/7-6-------------------|
+B|-------7-7/9-7----------7-7/9-7-----------|
+G|---------------6----------------6/8-------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+----------------- Acordes -----------------
+B9 = X 2 4 4 2 2
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

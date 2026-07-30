@@ -1,0 +1,39 @@
+@titulo: o-semeador
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - O Semeador
+
+     D       A7     D           D7                  A7
+Um homem saiu a semear, uma parte da semente semeada
+ F#m             D             A7                      D D7
+Caiu a beira do caminho e pelas aves do céu foi devorada
+
+    G       D            A7                  D D7
+Eu sou semeador, vou semeando a palavra do Senhor
+    G       D            A7                   D
+Eu sou semeador, vou semeando a palavra do Senhor
+
+     D       A7           D            D7                          A7
+Outra parte caiu no pedregulho: Não deu raiz, veio o sol ela secou
+F#m                D                A7                         D D7
+Outra parte caiu entre os espinhos, e o espinho a semente sufocou
+
+     D         A7          D         D7                      A7
+Outra parte caiu em terra boa; esta não teve impedimento nenhum
+F#m                          D          A7                           D D7
+Ela brotou, cresceu e produziu frutos a trinta, a sessenta e cem por um
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

@@ -1,0 +1,88 @@
+@titulo: dias-atras(simplificada)
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Dias Atrás
+
+[Intro] B F# E F#  (2x)
+        E G#m E G#m (2X)
+
+E     G#m     E            G#m
+Nunca mais espero te encontrar
+     E    G#m        E            G#m
+Por tudo      que você me fez passar
+E       G#m           E
+Tantos dias sem entender
+     G#m         E G#m               F# E
+Esperando por você,  que não vai voltar
+
+     B      F#      E
+      Dias atrás pensava em você
+        F#
+      E não é assim
+      B            F#
+      mas olho pra trás
+          E
+      Mas penso e sigo em frente
+          F#                E   G#m E G#m
+      Pra nunca mais viver assim
+
+
+ E     G#m E            G#m
+ Tanto faz o que vai rolar   (o que vai rolar)
+      E  G#m      E           G#m
+ Mas nunca     espero voltar lá
+E       G#m            E
+ Sempre tento me esconder
+      G#m          E
+ Para deixar de te ver
+G#m            F#  E
+ Acho que é melhor
+
+    B      F#
+     Dias atrás
+         E
+     Pensava em você
+         F#
+     Não é assim
+      B            F#
+     mas olho pra trás
+           E
+     mais penso e sigo em frente
+          F#
+     pra nunca mais viver assim
+
+[Base do solo]
+G#m E G#m E G#m E F#
+E G#m E G#m E G#m E F# E F# E
+
+B      F#
+Dias atrás
+E
+Pensava em você
+F#
+Não é assim
+B        F#
+mas olho pra trás
+      E
+mais penso e sigo em frente
+      F#                E
+pra nunca mais viver assim
+
+(B, F#, E, F#)
+Viver assim...
+
+(E G#m E G#m) (4x)
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

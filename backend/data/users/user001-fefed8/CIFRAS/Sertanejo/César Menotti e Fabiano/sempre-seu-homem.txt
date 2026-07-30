@@ -1,0 +1,60 @@
+@titulo: sempre-seu-homem
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Sempre Seu Homem
+
+Intro:   (C#m  G#m  A   E  F#m  B)
+
+Sanfona:
+    C#m                        G#m               A        E          F#m      B
+e|-----------------------------------------------------------------------------------------|
+B|--------4--5--4-----5--4-----4--------4--------------------------------------------7/-9--|
+G|-----6-----------6--------6-----6--4-----6--4--6--4--------------------------6--9--------|
+D|--6--------------------------------------------------7--6--4-----4--6--7--9--------------|
+A|--------------------------------------------------------------7--------------------------|
+E|-----------------------------------------------------------------------------------------|
+
+
+E              B     C#m
+Olha o nosso amor valeu
+A              E  B       E      B
+Quando agente fez da primeira vez
+E              B     C#m
+Foi lindo como aconteceu
+A            E      B
+Desejo de verdade,
+           E
+Paixão sem maldade
+
+        C#m             G#m         A            E
+Quando dei por mim eu estava assim preso no teu laço
+      C#m               G#m     A              B
+Me perdi de amor quando vi você linda em meus braços.
+
+
+        E         A         B
+Não consigo esquecer esta emoção
+        E              A            B   G#m
+De uma vez vem me entregar seu coração
+      C#m          G#m        A             E
+Da paixão não sei fugir meu amor vê se não some
+       A           B               E
+Te fiz mulher pra ser sempre seu homem.
+       A           B               E
+Te fiz mulher pra ser sempre seu homem.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

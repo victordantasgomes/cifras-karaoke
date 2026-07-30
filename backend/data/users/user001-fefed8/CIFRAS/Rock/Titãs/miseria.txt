@@ -1,0 +1,76 @@
+@titulo: miseria
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Miséria
+
+Introdução: F#m7
+
+   (F#m7)
+   Miséria é miséria em qualquer canto
+   Riquezas são diferentes
+   Índio, mulato, preto, branco
+   Miséria é miséria em qualquer canto
+   Riquezas são diferentes
+   Miséria é miséria em qualquer canto
+   Filhos, amigos, amantes, parentes
+   Riquezas são diferentes
+   Ninguém sabe falar esperanto
+   Miséria é miséria em qualquer canto
+   Todos sabem usar os dentes
+
+                       (F#m7)
+   Riquezas são diferentes
+
+
+   (F#m7)
+   Miséria é miséria em qualquer canto
+
+   Riquezas são diferentes
+   Miséria é miséria em qualquer canto
+   Fracos, doentes, aflitos, carentes
+   Riquezas são diferentes
+   O Sol não causa mais espanto
+   Miséria é miséria em qualquer canto
+   Cores, raças, castas, crenças
+
+                           (F#m7)
+   Riquezas são diferenças
+
+
+   (F#m7)
+   A morte não causa mais espanto
+   O Sol não causa mais espanto
+   A morte não causa mais espanto
+   O Sol não causa mais espanto
+   Miséria é miséria em qualquer canto
+   Riquezas são diferentes
+   Cores, raças, castas, crenças
+
+             (F#m7) F#m E C# B
+   Riquezas são diferenças
+
+
+   (F#m7)
+   Índio, mulato, preto, branco
+   Filhos, amigos, amantes, parentes
+   Fracos, doentes, aflitos, carentes
+   Cores, raças, castas, crenças
+   Em qualquer canto miséria
+   Riquezas são miséria
+   Em qualquer canto miséria
+   Riquezas são misérias...
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X

@@ -1,0 +1,48 @@
+@titulo: ah-eu-quero-sim
+@autor:
+@intérprete: Adhemar de Campos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Adhemar de Campos - Ah, Eu Quero Sim
+
+Eu te quero
+Adhemar de Campos
+
+Intro: { C9 Em D }2x
+
+ C9    Em  D
+Eu te quero mais do que o ouro
+ C9    Em  D
+Eu te quero mais do que tesouros
+ C9    Em  D          C9  Em    D
+Eu te quero mais do que minha vida, Senhor
+
+ C9  Em   D
+Te desejo mais do que mil bençãos
+ C9  Em  D
+Meu anseio é agradar teu coração
+ C9   Em     D      C9  Em   D
+Outro bem não possuo além de ti, Senhor
+
+      Am7         G/B
+Tu é a porção da minha herança,
+   C9       D
+És o bem maior pra mim
+     Am7       G/B      C9          D
+O meu coração não pode mais viver sem o teu grande amor
+
+ C9    Em D
+O meu anseio, és tu Jesus...
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G/B = X 2 0 0 3 3

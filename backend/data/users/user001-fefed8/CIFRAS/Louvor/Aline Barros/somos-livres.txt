@@ -1,0 +1,111 @@
+@titulo: somos-livres
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Somos Livres
+
+D             A
+Somos filhos, somos livres
+Bm                        G
+Pra sempre vamos viver o extraordinário
+D           A
+Ooooo...   Ooooo...
+Bm               G
+Construimos pela fé o impossível
+
+Solo: C#m  A  C#m   B  C#m A  C#m  B
+
+( C#m  E  F#m  A C#m E F#m A)
+
+( C#m  E  F#m  A )
+
+C#m           A
+A Igreja celebra a liberdade
+C#m          B
+Conquistada por Jesus naquela cruz
+C#m           A
+De fé em fé descreve a história
+
+C#m          B
+Por onde passa deixa a marca de Jesus
+
+C#m      E              B
+Vamos fazer com nossas mãos
+           F#m
+Obras grandiosas que Deus planejou
+C#m      A             E
+Ele sustenta a nossa fé
+              B              ( C#m  E/G#  A  B )
+Somos igreja livre no Senhor
+
+E             B
+Somos filhos, somos livres
+C#m                        A
+Pra sempre vamos viver o extraordinário
+E           B
+Ooooo...   Ooooo...
+C#m               A
+Construimos pela fé o impossível
+
+
+E|------------------------------------------------------------|
+A|------------------------------------------------------------|
+D|------------------------------------------------------------|
+G|-------------------11^-9h11-11~~----------------------------|
+B|-12^~-----12-9----------------------17^-17~-----------------|
+E|---------9--------------------------------------------------|
+
+E|-----------------------------------|
+A|-----------------------------------|
+D|-----------------------------------|   (5x)
+G|-----------------------------------|
+B|-----------------------------------|
+E|-T16p12p11p9h11h12T116-------------|
+
+E|--------------------------------------------------------------------------------------------------------------|
+A|--------------------------------------------------------------------------------------------------------------|
+D|--------------------------------------------------------------/16-18-16---------------------------------------|
+G|---------------------------------------------9-T11p9p8h9-------------18-16------------------------------------|
+B|----------------------7h9T12p9p7-T9p9--------------------------------------17-16-16-17-19---------------------|
+E|-7h9-T12p9p7T11---------------------------------------------------------------------------------16-17-19------|
+
+
+( C#m  E  F#m  A )
+
+F#m
+Nada pode nos deter
+B
+Nada vai prevalecer
+A
+Contra os filhos do senhor
+B
+Somos livres
+F#m
+E movidos pela fé
+B
+Temos pra realizar
+A
+Grandes coisas no senhor
+B
+Em todo o tempo
+
+( C#m  E  F#m  A )
+(Pela fé o impossível, Eu sou livre... Eu sou livre...)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

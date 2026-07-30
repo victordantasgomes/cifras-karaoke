@@ -1,0 +1,95 @@
+@titulo: minha-razao-de-viver
+@autor:
+@intérprete: Lairton e Seus Teclados
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lairton - Minha Razão de Viver
+
+Intro: D A Bm F#m7 G D Em A
+
+D                A       Bm
+Como eu digo ao meu coração  
+             F#m7        G
+Que você não volta mais não 
+              D            Em
+Como eu posso me convencer 
+             A       D
+Que o amor virou ilusão 
+          A              Bm
+Se eu sobreviver mesmo assim,  
+           F#m7      G
+Um dia seguinte do fim 
+           D        Em
+E no seu lugar uma dor  
+                 A       D
+Quem vai tomar conta de mim? 
+F#m                      Bm
+E quem é que vai me abraçar  
+                       G
+Me pedindo pra não chorar 
+        Em         A
+Quando a saudade bater? 
+F#m                           Bm
+Entende que eu não vou conseguir  
+                     G
+Por isso você pode partir 
+           Em             A
+Só que eu também vou com você 
+D
+Mas se você me deixar  
+        A
+O mundo pode acabar 
+           Bm                  F#m7
+Eu não vou mais acreditar em ninguém 
+         G
+E nunca mais vou amar,  
+          Em
+Não quero me machucar 
+         G                         A
+Pra dar amor a um coração que não tem 
+    D
+Se você me deixar  
+           A
+Não quero sol nem luar 
+       Bm                   F#m7
+Pode levar minha razão de viver 
+           G
+Porque de tudo que eu quis 
+        Em
+E me entregava feliz 
+        G                  A
+Era o momento de amar com você 
+G     A    D A Bm F#m7 G D E A
+Amar com você 
+D             A       Bm
+Lembra dessa nossa paixão,  
+               F#m7       G
+Pensa quantas noites virão 
+            D         Em
+Todas tão vazias sem mim,  
+            A
+Tudo vai virar solidão 
+D          A            Bm
+Se eu sobreviver desta dor  
+           F#m7         G
+Triste de perder teu calor 
+         D          Em
+No dia seguinte do fim,  
+              A         D
+Nunca mais eu morro de amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

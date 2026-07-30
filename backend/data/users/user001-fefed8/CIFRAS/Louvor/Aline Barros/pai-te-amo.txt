@@ -1,0 +1,77 @@
+@titulo: pai-te-amo
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Pai Te Amo
+
+Intro.: B9 F#/A# F#m/A G#7 C#m7 C#m7/B F#/A#
+E/F# B9 F#/A# F#m/A G#7 C#m7 C#m7/B Em6 F#
+
+B9        E      F#4   F#/A#    B9  F#/A#
+Pai eu Te amo te louvo e    te adoro
+B9  B/D#       E    C#7/4 Db/F F#4  F# E/F#
+Gló-ria ao Teu nome em    toda terra
+B9           E/G#   F#4   F#/A#    B9  F#/A#
+Cristo eu Te amo te louvo e    te adoro
+B9 B/D#       E    C#7/4 Db/F F#4  F#° F#
+Glória ao Teu nome em    toda terra
+
+B9            E/B  D#7/4 Db/F   Eb/G
+Gloria ao Teu nome gló---ria ao Teu
+G#m9 G#m/F# E          E/G# F#
+No---me     glória  ao Teu  nome
+E/F#     B9   F# E/G# A° F#/A#
+Em  toda Terra
+
+
+B9            E/B  D#7/4 Db/F   Eb/G
+Gloria ao Teu nome gló---ria ao Teu
+
+G#m9 G#m/F# E             F#
+No---me     glória ao Teu nome
+E/F#     B9   F#/A# F#m/A G#7 C#m7 C#m7/B
+Em  toda Terra
+
+Em6 F#  B9           E/G#   F#4   F#/A#
+      Espírito eu Te amo te louvo e    te
+ B9  Db/F F#4 F#/E D G/B A4 A/C# F#4 F#° F#
+Adoro
+
+B9            E/B
+Gloria ao Teu nome...
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+A° = 5 X 4 5 4 X
+B/D# = X 6 X 4 7 7
+B9 = X 2 4 4 2 2
+C#7/4 = X 4 6 4 7 4
+C#m7 = X 4 6 4 5 4
+C#m7/B = 7 4 6 4 5 4
+D = X X 0 2 3 2
+D#7/4 = X X 1 3 2 4
+Db/F = X 8 X 6 9 9
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/F# = X X 4 4 5 4
+E/G# = 4 X 2 4 5 X
+Eb/G = 3 X 1 3 4 X
+Em6 = X 7 X 6 8 7
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#/E = X X 2 3 2 2
+F#4 = 2 4 4 4 2 2
+F#m/A = X 0 4 2 2 2
+F#° = 2 X 1 2 1 X
+G#7 = 4 6 4 5 4 4
+G#m/F# = X X 4 4 4 4
+G#m9 = 4 6 8 4 4 4
+G/B = X 2 0 0 3 3

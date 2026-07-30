@@ -1,0 +1,211 @@
+@titulo: amante-nao-tem-lar
+@autor:
+@intérprete: Marília Mendonça
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Marília Mendonça - Amante Não Tem Lar
+
+[Intro] C9  G
+
+[Solo]
+E|----------------------------------------------------|
+B|----------------------------------------------------|
+G|-5-5-5-5-7-7/9--7-9-7-9-7-9-7-9-10-9-7-7\4----------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+[Primeira Parte]
+Parte 1
+   Am7      F9       C       G/B
+E|----------------3-------------------------|
+B|-------1------1----------1--------3-------|
+G|-----0------0----------0--------0---------|
+D|---2------3----------2--------0-----------|
+A|-0-----------------3--------2-------------|
+E|------------------------------------------|
+
+Parte 2
+
+   Am7      F9       C        G
+E|----------------3-----------3-------------|
+B|-------1------1----------1--3-------------|
+G|-----0------0----------0----0-------------|
+D|---2------3----------2------0-------------|
+A|-0-----------------3--------2-------------|
+E|----------------------------3-------------|
+
+                 Am7
+Só vim me desculpar
+                F9
+Eu não vou demorar
+                         C
+Não vou tentar ser sua amiga
+                  G/B
+Pois sei que não dá
+
+               Am7
+Você vai me odiar
+                  F9
+Mas eu vim te contar
+
+Que faz um tempo
+         C                 G
+Eu me meti no meio do seu lar
+
+
+[Pré-refrão]
+
+                     Dm
+Sua família é tão bonita
+          F
+Eu nunca tive isso na vida
+            C9
+E se eu continuar assim
+            G
+Eu sei que não vou ter
+
+            Dm
+Ele te ama de verdade
+        F
+E a culpa foi minha
+          C9                     G
+Minha responsabilidade eu vou resolver
+     Dm                 F
+Não quero atrapalhar você
+
+
+[Refrão]
+
+                  C9
+E o preço que eu pago
+                             G
+É nunca ser amada de verdade
+
+Ninguém me respeita nessa cidade
+  Dm
+Amante não tem lar
+  F
+Amante nunca vai casar
+
+                  C9
+E o preço que eu pago
+                             G
+É nunca ser amada de verdade
+
+Ninguém me respeita nessa cidade
+  Dm
+Amante não vai ser fiel
+  F
+Amante não usa aliança e véu
+
+[Base Solo] C9  G  Dm  F
+[Solo]
+
+Parte 1
+E|----------------------------------------------------|
+B|----------------------------------------------------|
+G|-5-5-5-5-7-7/9--7-9-7-9-7-9-7-9-10-9-7--------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+Parte 2
+E|----------------------------------------------------|
+B|----------------------------------------------------|
+G|-7-9-7-9-7-9-7-9-10-9-7--10-9-----------------------|
+D|------------------------------7-10-10---------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+Parte 3
+E|----------------------------------------------------|
+B|----------------------------------------------------|
+G|---9/10-9-------------------------------------------|
+D|-7--------7-10-10-----------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+
+[Pré-refrão]
+
+                     Dm
+Sua família é tão bonita
+          F
+Eu nunca tive isso na vida
+            C9
+E se eu continuar assim
+            G
+Eu sei que não vou ter
+
+            Dm
+Ele te ama de verdade
+        F
+E a culpa foi minha
+          C9                     G
+Minha responsabilidade eu vou resolver
+     Dm                 F
+Não quero atrapalhar você
+
+
+[Refrão]
+
+                  C9
+E o preço que eu pago
+                             G
+É nunca ser amada de verdade
+
+Ninguém me respeita nessa cidade
+  Dm
+Amante não tem lar
+  F
+Amante nunca vai casar
+
+                  C9
+E o preço que eu pago
+                             G
+É nunca ser amada de verdade
+
+Ninguém me respeita nessa cidade
+  Dm
+Amante não vai ser fiel
+  F
+Amante não usa aliança
+
+                  C9
+E o preço que eu pago
+                             G
+É nunca ser amada de verdade
+
+Ninguém me respeita nessa cidade
+  Dm
+Amante não tem lar
+  F
+Amante nunca vai casar
+
+                  C9
+E o preço que eu pago
+                             G
+É nunca ser amada de verdade
+
+Ninguém me respeita nessa cidade
+  Dm
+Amante não vai ser fiel
+  F                       C
+Amante não usa aliança e véu
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

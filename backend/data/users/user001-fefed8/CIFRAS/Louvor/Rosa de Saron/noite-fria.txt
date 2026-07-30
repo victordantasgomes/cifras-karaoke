@@ -1,0 +1,98 @@
+@titulo: noite-fria
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Rosa de Saron - Noite Fria
+
+Afinação Meio Tom Abaixo
+
+(intro) Bm A G Em
+
+(riff intro)
+
+E|------7----0---------10---------7-------------------------|
+B|--0-------------0-----------0-----------------------------|
+
+E|--------5-----0-----------7------------5------------------|
+B|--0-----------------0------------0------------------------|
+
+E|-------3-------0---------------9-----------------7--------|
+B|0------------------------0-----------------0--------------|
+
+E|-------------2--------3---------2--------3---------2h3h2--|
+B|---0------------------------------------------------------|
+
+Bm        A     G               Em
+Na noite fria começo a pensar em quem eu sou
+Bm        A     G         Em
+Por que existo, pra que sirvo e onde vou
+Bm              A       G           Em
+Ninguém ao meu redor, vivia a me enganar
+
+Bm             A           G Em
+Andava sempre sem nunca chegar
+
+ Bm           A9
+Meu coração chorava
+ D           Em             Bm          (2x)
+Minha alma clamava por alguém
+        A9              G D/F# G
+Que me pudesse fazer viver
+
+(intro) Bm A G Em
+
+Bm        A  G              Em
+No dia a dia a rotina pegava-me em sua mãos
+Bm        A        G    Em
+Sonhos e lágrimas preenchiam o meu coração
+Bm             A         G              Em
+Ninguém pra me escutar, vivia só pra sonhar
+Bm            A            G Em
+Queria minha vida transformar
+
+ Bm           A9
+Meu coração chorava
+ D           Em             Bm          (2x)
+Minha alma clamava por alguém
+        A9              G D/F# G
+Que me pudesse fazer viver
+
+(solo)
+E|-------------------------------------------------------------------------|
+B|-------------------------------------------------------------------------|
+G|-4-4-4-4-4---2--4--7--4--2---------------------------------4-------------|
+D|-4-4-4-4-4---2--4--7--4--2--5-5-5-5-5-------------2--2--5--5-------------|
+A|-2-2-2-2-2---0--2--5--2--0--5-5-5-5-5---5-4-2-----2--2--5--5-------------|
+E|----------------------------3-3-3-3-3---------4-2-0--0--3----0-----------|
+
+Bm           A                           G
+A minha saída um homem chagado me mostrou
+                  Em
+E disse que o amor numa cruz Ele provou
+Bm              A
+Pude então sentir seu sangue a me invadir
+        G                       Em
+Minha vida desde então Ele mudou
+
+(refrão)
+
+Bm A G Em
+Me fez viver! (4x)
+
+( Bm )
+
+----------------- Acordes -----------------
+A*  = X 0 2 2 2 0 - (*G# na forma de A)
+A9*  = X 0 2 2 0 0 - (*G#9 na forma de A9)
+Bm*  = X 2 4 4 3 2 - (*A#m na forma de Bm)
+D*  = X X 0 2 3 2 - (*C# na forma de D)
+D/F#*  = 2 X 0 2 3 2 - (*C#/F na forma de D/F#)
+Em*  = 0 2 2 0 0 0 - (*D#m na forma de Em)
+G*  = 3 2 0 0 0 3 - (*F# na forma de G)

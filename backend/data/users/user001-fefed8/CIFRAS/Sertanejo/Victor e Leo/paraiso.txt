@@ -1,0 +1,103 @@
+@titulo: paraiso
+@autor:
+@intérprete: Victor e Leo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Victor e Leo - Paraíso
+
+(intro)  Bm  Bm/A  E/G#  E  A  E/G#  F#m  Bm  Bm/A  E  (E)  A
+
+A                Bm Bm/A        E
+Lá no ranchinho da serra
+               A  E/G#  F#m
+Meu paraíso primeiro
+                   E
+Corta as matas verdejantes
+            A
+E as colinas verdes
+          Bm        E         A
+Saciando a sede num riacho cristalino
+
+                 E
+Vai florindo as campinas
+               A
+Cumpre o seu destino
+             Bm
+Banhando os meninos
+          E             A
+Que em seu leito vão brincar
+
+
+(refrão)
+          E
+ Cá na paineira vem cantar
+         A
+ O companheiro, sabiá
+               E                 A
+ Que exalta os dias com suas canções
+          E
+ Cá no meu ninho ao despertar
+           A
+ No vão das palhas vem soprar
+          E                   A
+ Um cheiro puro de campinas orvalhadas
+
+        Bm                         E
+ Tem uma rede, um perdigueiro e um alazão
+        A             E/G#      F#m
+ E uma morena cheirando a flor do sertão
+          Bm        Bm/A                E/G#    E
+ Tem uma viola para as noites de luar
+         (E)                      A
+ Cantar em versos para o amor desabrochar
+
+(intro)
+                     Bm      E
+Quando a chuva molha a terra
+                      A   E/G#   F#m
+Florindo as grandes mangueiras
+                 E                    A
+E os periquitinhos verdes brincam nas palmeiras
+              Bm                   E        A
+E entre as gameleiras pula o feliz tico-tico
+                E                     A
+Brotam no seio da terra humildes grãos de milho
+              Bm                 E            A
+Verdejando os trilhos onde já muitos brotaram
+
+         E
+ Cá na paineira vem cantar
+        A
+ O companheiro, sabiá
+              E                A
+ Que exalta os dias com suas canções
+          E
+ Cá no meu ninho ao despertar
+           A
+ No vão das palhas vem soprar
+          E                   A
+ Um cheiro puro de campinas orvalhadas
+
+        Bm                        E
+ Tem uma rede, um perdigueiro e um alazão
+        A             E/G#      F#m
+ E uma morena cheirando a flor do sertão
+          Bm         Bm/A              E/G#     E
+ Tem uma viola para as noites de luar
+         (E)                    D       E       A
+ Cantar em versos para o amor desabrochar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

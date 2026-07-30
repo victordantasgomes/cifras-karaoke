@@ -1,0 +1,79 @@
+@titulo: rumo-a-goiania(simplificada)
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - Rumo À Goiânia
+
+Intro: E F#m E D A E
+
+   A                                     E
+É noite, o carro está rugindo parecendo fera
+                    D         E        A   A7
+Voando baixo em Campinas, na Via Anhanguera
+   D                                         A
+Já estou vendo ao longe a linda e doce Ribeirão
+                                 E
+Toda iluminada feito um céu no chão
+           E7                 A   E7
+Na noite azulada de uma primavera
+ A                                E
+A saudade já não cabe no meu coração
+                        D        E        A  A7
+Grudada como faz na estrada os pneus no chão
+D                                     A
+Uberaba e Uberlândia já deixei p'ra trás
+                            E
+Em Itumbiara entrando em Goiás
+               E7               A
+Quase que eu decolo feito um avião
+
+
+Refrão:
+E        A
+Ê-ê-i Goiânia....
+     E                 D                  A
+Não deu pra segurar a barra, então eu voltei
+E        F#m
+Ê-ê-i Goiânia....
+  D                  E                A
+Avisa aqueles olhos lindos que eu já cheguei
+
+(INTRO)
+
+A                                     E
+Esses olhos reluzentes que eu busco agora
+                    D         E          A    A7
+Se me chamam com desejo p'ra mim não tem hora
+D                                   A
+É por isso que eu ando em alta rotação
+                             E
+Feito um asteróide na escuridão
+            E7                A    E7
+O motor do carro parece que chora
+   A                                        E
+O sol agora está nascendo, está chegando o dia
+                     D          E    A   A7
+Mas sei que valeu a pena tanta correria
+     D                                     A
+Eu quero estar nos braços dela daqui a pouquinho
+                              E
+Pois passei a noite voando sozinho
+              E7             A
+Dentro desse carro pela rodovia
+
+(REFRÃO) 2x
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

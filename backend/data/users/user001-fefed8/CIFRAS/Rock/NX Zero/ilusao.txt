@@ -1,0 +1,142 @@
+@titulo: ilusao
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nx Zero - Ilusão
+
+[INTRODUÇÃO]
+
+||Guitarra 1 (distorcida)
+
+Parte 1
+D|----0---0-0---0---0-0-----0---0-0-----------------------(continua até chegar a segunda parte)
+A|-5-5-5-5-5---1-1-1-1---3-3-3-3-3------------------------(continua até chegar a segunda parte)
+E|--------------------------------------------------------
+
+Parte 2
+D|-----0----0--0----0----0--0------------------------------
+A|-5-5-5-5-5---7-7-7-7--8-8--9--11--9--8-------------------
+E|---------------------------------------------------------
+
+||Guitarra 2 
+
+
+Parte 1(no final, deixe soar bem de leve, para dar um tom mais parecido com a musica)
+D|---7---------3--------5------------------------------------
+A|-5--------1--------3---------------------------------------
+E|-----------------------------------------------------------
+
+
+Parte 2
+D|---7---------9-----------10----------12----------10--------9----
+A|-5--------7------------8----------14-----------8---------7------
+E|----------------------------------------------------------------
+
+Dm           Bb            C
+a vida é feita das escolhas (que fazemos)
+Dm               Bb       C
+com quem NÃO escolhemos ser
+
+Dm             Bb              C
+é uma piada que NÃO tem mais graça
+Dm                Bb             C
+e eu NÃO vejo ninguém sorrindo aqui
+
+[REFRÃO]
+===============================
+F
+Nãooooo
+C
+seiiiii
+       Dm        Bb            C
+se por mal minha vida eu perdi
+
+F
+sóóóóó
+C
+seiiiii
+        Dm       F            Bb      C
+que a verdade insiste em me iludir
+
+=================================
+
+[Toca quase a mesma coisa que a introdução]
+
+Solo tocado no meio dos versos (ouça música para perceber)
+
+e|---------15--
+B|-----13------
+G|-14----------
+
+Dm              Bb       c
+quando te achei comecei (me perder)
+Dm          Bb         C
+olha quanta paixão nos perdemos
+Dm              Bb              C
+e de frente para os abismos de ilusões
+Dm             Bb             C
+mergulhar até onde restar-lhe fôlego
+
+[REFRÃO]
+===============================
+F
+Nãooooo
+C
+seiiiii
+       Dm        Bb            C
+se por mal minha vida eu perdi
+
+F
+sóóóóó
+C
+seiiiii
+        Dm       F            Bb      C
+que a verdade insiste em me iludir
+
+=================================
+||Guitarra 1
+D|------------------------------------------------------------
+A|--1/--5-5-5-5-5-5-5-5----1--1--1--1--1/-3-3-3-3-3-3-3-3-----
+E|-----------------------0--0--0--0---------------------------
+
+D|------------------------------------------------------------
+A|--1/--5-5-5-5-5-5-5-5----------------1/-3-3-3-3-3-3-3-3-----
+E|------------------------------------------------------------
+
+Repete 2x
+D|------------------------------------------------------------
+A|--1/--5-5-5-5-5-5-5-5----1--1--1--1--1/-3-3-3-3-3-3-3-3-----
+E|-----------------------0--0--0--0---------------------------
+
+||Guitarra 2
+
+
+e|--------8-
+B|-----6----
+G|--7-------
+D|----------
+A|----------
+E|----------
+
+[REFRÃO]
+
+(F, C, Dm, Bb, C)
+
+Ohhhhh ohhhhh  ohhhh
+
+Termina com o Riff principal com uma variação
+
+[FIM]
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1

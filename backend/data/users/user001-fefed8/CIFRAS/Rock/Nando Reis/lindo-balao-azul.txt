@@ -1,0 +1,70 @@
+@titulo: lindo-balao-azul
+@autor:
+@intérprete: Nando Reis
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nando Reis - Lindo Balão Azul
+
+Intro: G  G  D4  D  Em
+
+Em                Em7M         Em7  Em6
+ Eu vivo sempre no mundo da lua
+         Am
+Porque sou um cientista
+                            F#°    B7
+O meu papo é futurista e lunático.
+Em                 G          Bm
+  Eu vivo sempre no mundo da lua
+      Am
+Tenho alma de artista
+                            F#°    B7
+Sou um gênio sonhador e romântico
+Em                 G          Bm
+  Eu vivo sempre no mundo da lua
+      Am
+Porque sou aventureiro
+                            F#°       B7
+Desde o meu primeiro passo pro infinito.
+Em                 G          Bm
+  Eu vivo sempre no mundo da lua
+
+      Am
+Porque sou inteligente
+
+Se você quer vir com a gente
+D4                 D
+Venha que será um barato
+
+G                   G4          G
+ Pegar carona nessa cauda de cometa
+D                   Bm
+Ver a via láctea estrada tão bonita
+Em                          F#°
+ Brincar de esconde esconde numa nebulosa
+Em                     Am   D
+ Voltar pra casa nosso lindo balão azul
+
+(G  G  D4  D)
+
+Nosso Lindo Balão Azul...
+
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+Em = 0 2 2 0 0 0
+Em6 = X 7 X 6 8 7
+Em7 = 0 2 2 0 3 0
+Em7M = X X 2 4 4 3
+F#° = 2 X 1 2 1 X
+G = 3 2 0 0 0 3
+G4 = 3 5 5 5 3 3

@@ -1,0 +1,53 @@
+@titulo: choro-de-amor
+@autor:
+@intérprete: João Paulo e Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+João Paulo e Daniel - Choro de Amor
+
+Intro:   A    F#m    D      A    Bm     E7     A      E7
+
+A
+Se estou longe a saudade me aperta
+                    F#m
+Eu choro demais
+                   D                             Bm
+Se estou perto só tenho alegrias
+                        E7
+Eu choro demais
+
+F#m                                    D
+E assim levo a vida sonhando
+               F#m                        D
+E no sonho eu choro demais
+                                             E7
+Com isso eu tento esquecer
+                D                               E7
+Todo instante só lembra você
+                         A                          F#m
+Eu choro demais eu tento esconder
+
+                                  D
+O meu choro de amor
+                              E7                                   A
+Mas quando me lembro eu sinto uma dor
+                     A7                                     D
+E bate tão forte, não quer mais parar
+                           E7                                     A    E7   F#m   E7
+Por isso o consolo que eu tenho é chorar.
+
+ Solo:  A    F#m    D      A    Bm     E7     A      E7
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

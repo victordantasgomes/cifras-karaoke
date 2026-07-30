@@ -1,0 +1,73 @@
+@titulo: para-querer
+@autor:
+@intérprete: Nando Reis
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nando Reis - Para Querer
+
+intro:A4  F#4  E9 F#m F#7 Bm F#
+
+ Bm                    F#  F#7
+Cascas a sua casa
+ Bm                      F#    F#7
+Pernas as suas, patas
+ Bm                        G#
+Filhos igual caroços
+ E                     G  Em7
+No berço fóssil
+ G              Bm  F#m
+Um gelo sol
+ F#7                D   Bm  Bm7
+Netos ao redor
+ G                Bm
+Saiba do pior
+ F#                A4
+Para querer
+ Bm                          F#  F#7  B
+Vacas mas sem vogal
+  Bm                       F#m  F#
+Guelra vezes pulmão
+
+  Bm              B4           G9
+Noite e adubo, irmãos
+             Bm
+O ovo minério
+   E4                   F#
+Na unha há pedra
+  F#7               B4          Bm7    G  G6  G
+Na testa tem um motor
+  Bm            F#m
+Ligado no ar
+                  Bm               G6
+Ligado, não vai desligar
+  Em7                 Bm
+Não vai desligar
+
+solo:F#m Bm Bm7 F# F#7 Bm A F# Bm     G F#m D B
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+E9 = 0 2 4 1 0 0
+Em7 = 0 2 2 0 3 0
+F# = 2 4 4 3 2 2
+F#4 = 2 4 4 4 2 2
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G6 = 3 X 2 4 3 X
+G9 = 3 X 0 2 0 X

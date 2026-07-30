@@ -1,0 +1,65 @@
+@titulo: simplesmente
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Simplesmente
+
+INTRO: G D/F# Em C D C D G
+
+G           D/F#         Em
+Tudo o que sair do azul bonito
+     C             D
+Que vive entre as nuvens
+     C    D      G
+Eu quero ver passar
+       D/F#          Em
+O expressar do teu sorriso
+    C             D
+O amor da mãe ao filho
+    C     D    G
+Eu quero festejar
+
+      C
+P'ra levar
+D          G D/F#
+Ao teu coração
+Em             C
+Simplesmente, tudo de bom
+
+        D       G
+Que um dia recebi
+      C
+P'ra falar
+D            G D/F#
+Em todo o lugar
+Em             C
+Simplesmente, quem é você
+   D            G
+E como te encontrar
+
+G           D/F#              Em
+Tudo que for flor, que mostre vida
+     C          D
+Que viva pelos campos
+     C    D      G
+Eu quero preservar
+       D/F#               Em
+E que teu amor, que teu carinho
+    C          D
+Em mim vire morada,
+   C      D      G
+E que eu possa mostrar.
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

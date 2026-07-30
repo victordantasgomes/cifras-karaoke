@@ -1,0 +1,79 @@
+@titulo: controle-remoto
+@autor:
+@intérprete: Frejat
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Frejat - Controle Remoto
+
+[Intro] E  E7/D
+
+      E                                 E/D
+Eu queria te falar de paz e amor, de filosofia
+      C#m7                             Am/C
+De cinema, de pintura, de música e de poesia
+      E                                 E7/D
+Eu queria te guardar e te proteger de todo mal
+      C#m7                                  Am/C
+Reescrever as histórias e as notícias do jornal
+
+E/G#                           Am6
+  Fazer um photoshop na realidade
+      A/C#                    Am/C
+Deletar toda miséria e a maldade
+         E/G#           Am/C          ( Am )
+Mas a verdade é que não há como fugir
+
+E                                           E7/D
+Temos que aprender a ser forte, meu amor, fortes
+      C#m7                             D
+E a lidar com as coisas da vida e da morte
+
+
+         E                          E/D
+Se eu pudesse mudaria o mundo na televisão
+     C#m7                              Am/C
+Com o toque do controle remoto aqui na minha mão
+        E                                E7/D
+Tanta morte, tanto crime nesse mundo desigual
+         C#m7                             Am/C
+Se eu pudesse acabaria com as guerras ao mudar de canal
+
+         E/G#           Am/C          ( Am )
+Mas a verdade é que não há como fugir
+
+E                                           E7/D
+Temos que aprender a ser fortes, meu amor, fortes
+      C#m7                             D
+E a lidar com as coisas da vida e da morte
+
+( E  E/D )
+
+E/G#                               Am6
+  Fazer as pazes entre árabes e judeus
+        A/C#                             Am/C
+Reconstruir mesquitas, sinagogas e museus
+         E/G#           Am/C          ( Am )
+Mas a verdade é que não há como fugir
+
+E                                           E7/D
+Temos que aprender a ser fortes, meu amor, fortes
+      C#m7                             D     E
+E a lidar com as coisas da vida e da morte
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+Am/C = X 3 2 2 5 X
+Am6 = 5 X 4 5 5 X
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+E7/D = X 5 X 4 5 4

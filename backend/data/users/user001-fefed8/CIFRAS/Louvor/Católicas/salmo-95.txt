@@ -1,0 +1,38 @@
+@titulo: salmo-95
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Salmo 95
+
+C7        F                   Am  D7
+ HOJE NASCEU PARA NÓS O SALVADOR
+       Gm    C7    F
+QUE É CRISTO O SENHOR
+
+   C7                           F
+Cantai ao Senhor Deus um canto novo
+    A7                           Dm
+Cantai ao Senhor Deus ó terra inteira
+    Bb                       F
+Cantai e bendizei seu santo nome
+   G7                        C
+Cantai e bendizei seu santo nome
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

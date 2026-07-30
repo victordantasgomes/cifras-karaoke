@@ -1,0 +1,61 @@
+@titulo: porta-do-mundo
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Porta do Mundo
+
+[Intro]  E  E7  A  Am  E  F#  A  E
+
+   E                              A         B7
+O som da viola bateu no peito e doeu meu irmão
+                                           A               E
+Assim eu me fiz cantador sem nenhum professor aprendi a lição
+                                           E7              A
+São coisas divinas do mundo que vem num segundo a sorte mudar
+                        E                   F#                 B7
+Trazendo pra dentro da gente as coisas que mente vai longe buscar
+                        E                      B7                 E
+Trazendo pra dentro da gente  as coisas que a mente vai longe buscar
+
+( B7  E )
+
+E                                     A                   B7
+Em verso se fala e canta  o mal se espanta e a gente é feliz
+                                            A                    E
+No mundo das rimas e trovas eu sempre dei provas das coisas que fiz
+                                       E7               A
+Por muitos lugares passei mas nunca pisei em falso no chão
+
+                          E                 F#              B7
+Cantando interpreto a poesia levando a alegria onde há solidão
+    A                     E                   B7              E
+Cantando interpreto a poesia   levando a alegria onde há solidão
+
+( E  E7  A  Am  E  F#  A  E )
+
+      F                                   A#               C7
+O destino é o meu calendário  o meu dicionario é a inspiração
+                                         A#                  F
+A porta do mundo é aberta minha alma desperta buscando a canção
+                                          F7                  A#
+Com minha viola no peito meus versos são feitos pro mundo cantar
+                        F                G                   C7
+É a luta de um velho talento menino por dentro sem nunca cansar
+     A#                 F                C#  C7              F
+É a luta de um velho talento menino por dentro sem nunca cansar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F# = 2 4 4 3 2 2

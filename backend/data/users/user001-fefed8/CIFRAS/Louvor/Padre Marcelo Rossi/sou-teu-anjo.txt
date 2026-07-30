@@ -1,0 +1,61 @@
+@titulo: sou-teu-anjo
+@autor:
+@intérprete: Padre Marcelo Rossi
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Padre Marcelo Rossi - Sou Teu Anjo
+
+[Intro] E  A  E  E/G#  A  B  E
+
+  E         A          C#m             B/D#     E
+Resolvi pedir a Deus      pra que eu possa te guardar
+  E             A           B/D#         E
+Ser teu anjo protetor, te velar e te cuidar
+        F#m E/Ab B            A  B      E           A           B/D# B A  E A
+Quando preci---sei, pôs tua vida em mim. Deus permita-me ser teu anjo aqui
+  E           A        C#m     B/D#       E
+Eu pedi pra Deus gravar o teu nome em minha mão
+E               A             B                E
+Deus foi muito mais além, te gravou em meu coração
+         F#m E/Ab B         A   B  E       A              B/D#  B  A   E
+Já não pos---so mais esquecer de ti. Tua vida Deus transplantou em mim
+
+[Refrão]
+
+        A               E/Ab
+Há um anjo aqui que intercede por ti
+           F#m             A9            B      B   B/D#
+Trago um pedaço do céu num olhar pra te dar
+
+        A              E/Ab                 F#m               B4 B    A  E
+Há um anjo aqui bem pertinho de ti, basta acreditar, sou teu anjo aqui
+
+[Solo] E  A  C#m  B
+       E  A  B  E  F#m
+       E/Ab  B  A  B
+       E  A  B  A  E
+
+[Refrão]
+
+        A              E/Ab                  F#m              B4 B   A  E/G#
+Há um anjo aqui bem pertinho de ti, basta acreditar, sou teu anjo aqui
+        F#m              B4 B     A
+Basta acreditar, sou teu anjo aqui
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B4 = X 2 4 4 5 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E/Ab = 4 X 2 4 5 X
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

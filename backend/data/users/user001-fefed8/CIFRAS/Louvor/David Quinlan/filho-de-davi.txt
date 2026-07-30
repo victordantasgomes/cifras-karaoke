@@ -1,0 +1,44 @@
+@titulo: filho-de-davi
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Filho de Davi
+
+[Intro]  D9  C9  G
+
+ D9                                     C9
+Sei que estás aqui, posso sentir o teu calor
+             G                            D
+Vem me envolver, me constranger com teu amor
+ D9                                 C9
+Sei que estás aqui, posso sentir o teu calor
+             G                          D
+Vem me envolver, me constranger com teu amor
+
+            D9                  C9
+Filho de Davi tem compaixão de mim
+              G                     D
+Toca nos meus olhos faz as escamas caírem
+            D9                  C9
+Filho de Davi tem compaixão de mim
+                 G                  D
+Toca nos meus olhos, pois eu quero te ver
+
+                                        D9         C9
+Te ver, quero te ver, Te ver, quero Te ver, quero Te ver
+
+              G                     D9
+Toca nos meus olhos, pois eu quero Te ver
+
+----------------- Acordes -----------------
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+G = 3 2 0 0 0 3

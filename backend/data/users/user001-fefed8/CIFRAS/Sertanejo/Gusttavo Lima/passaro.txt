@@ -1,0 +1,60 @@
+@titulo: passaro
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Pássaro
+
+Intro: A E F#m D
+
+A             E
+Ah, eu já não sei o que fazer
+F#m                    D
+puro perrapado, com salário atrasado
+A           E
+Ahh, eu não tenho mais por onde correr)
+F#m                     D
+Já fui despejado, o banco levou o meu carro
+
+Bm                      D
+Agora vou conversar com ela
+A                   E
+Será que ela vai me querer?
+Bm                D
+Agora vou saber a verdade
+A
+Se é dinheiro ou amor
+E
+(ou duplicidade)
+
+
+(Refrão)
+A
+Eu não tenho carro
+          E
+Não tenho teto
+       F#m                 D
+E se ficar comigo é porque gosta do meu
+A           E
+rá rá rá rá rá rá rá
+F#m         D
+Lepo Lepo
+
+É tão gostoso quando eu
+A           E
+Rá rá rá rá rá rá rá
+F#m
+O Lepo Lepo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,80 @@
+@titulo: quando-a-saudade-doi
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Quando a Saudade Dói
+
+(intro) D A G D A G A A7
+
+(Solo da introdução)
+
+E|--2/5-5-5--3-3-3--2/5-5-5h7h5--|--2-2-2-2-3-5-0----|
+B|--3/7-7-7--5-5-5--3/7-7-7------|--3-3-3-3-5-7-2----|
+G|-------------------------------|-------------------|
+
+E|--7-7-7-9--10-9--7-5h7h5-------|--10-10-10-9---7-7-7-5---|
+B|--8-8-8-10-12-10-8-7-----------|--12-12-12-10--8-8-8-7---|
+G|-------------------------------|-------------------------|
+
+E|--3-5-7-5-7--5-3-2-2-----------|
+B|--5-7-8-7-8--7-5-3-3-----------|
+G|-------------------------------|
+
+D                 A      G                D
+Quando a saudade dói eu passo a mão na viola
+D                     A       G               A  A7
+Seu ponteio é que consola o peito desse cantador
+D                 A      G               D
+Quando a saudade dói eu pego o retrato dele
+
+D                    A    G    A            D   A7
+E canto olhando pra ele lamentando a minha dor
+F#M                      G                D
+Quando a saudade dói eu canto feito passarinho
+D                 A          G           D
+Solitário nesse ninho tão sozinho...sigo a cantar
+F#M                      G               D
+Quando a saudade dói procuro evitar o pranto
+D                   A     G         A      D   A7
+É por isso que eu canto, canto pra não chorar
+
+(Refrão)
+D                                     A
+Quando me bate a saudade a solidão devora
+                 G                             A  A7
+Aí minha viola chora, saudade é dor que me corrói
+D                                     A
+Aí o jeito é cantar pra amenizar o tédio
+                     G    A                D
+A viola é o meu remédio, quando a saudade dói
+D                 A      G               D
+Quando a saudade dói eu pego o retrato dele
+D                    A     G   A            D  A7
+E canto olhando pra ele lamentando a minha dor
+D                                     A
+Quando me bate a saudade a solidão devora
+                 G                             A  A7
+Aí minha viola chora, saudade é dor que me corrói
+
+(Refrão)
+D                                     A
+Quando me bate a saudade a solidão devora
+                 G                             A  A7
+Aí minha viola chora, saudade é dor que me corrói
+D                                     A
+Aí o jeito é cantar pra amenizar o tédio
+                     G    A                D
+A viola é o meu remédio, quando a saudade dói
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3

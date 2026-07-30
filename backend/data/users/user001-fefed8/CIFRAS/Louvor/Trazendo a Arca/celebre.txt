@@ -1,0 +1,155 @@
+@titulo: celebre
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Celebre
+
+[Intro] F#m  D9  F#m  D9  C#7
+        F#m  D9  F#m  D9  
+       
+               F/Eb
+E|-------------5------------------|
+B|-5-----------6------5h7---------|
+G|---7-5-4-----5------------------|
+D|---------7----------------------|
+A|-------------6------------------|
+E|--------------------------------|
+
+[Primeira Parte]
+
+F#m          E
+  Alegra teu coração
+Bm7       A9  E/G#   F#m
+  Contigo está o teu Deus
+          E         Bm7        A9  E/G#
+Com seu amor renovará as tuas for_ças
+F#m        E           Bm7
+   Ele anulou tua culpa
+      A9     E/G#    F#m
+Teu inimigo já derrotou
+        G                  Bm7        E4  E  E4  E
+E no lugar da vergonha te cobrirá de honra
+
+[Refrão]
+
+F#m           E  D9          E    F#m
+   Cante alegre_mente filha de Sião
+          E   D9
+Pois Ele mudará tua sorte
+F#m            E    D9
+   Com brados de vitória
+          E    F#m        E    D9
+Saltos de alegria diante do Senhor
+
+F#m           E  D9          E    F#m
+   Cante alegre_mente filha de Sião
+          E   D9
+Pois Ele mudará tua sorte
+F#m            E    D9
+   Com brados de vitória
+          E    F#m        E    D9
+Saltos de alegria diante do Senhor
+
+( F#m  D9  F#m  D9  
+( F#m  D9  F#m  D9 C#7(9-) )
+
+[Primeira Parte]
+
+F#m          E
+  Alegra teu coração
+Bm7       A9  E/G#   F#m
+  Contigo está o teu Deus
+          E         Bm7        A9  E/G#
+Com seu amor renovará as tuas for_ças
+F#m        E           Bm7
+   Ele anulou tua culpa
+      A9     E/G#    F#m
+Teu inimigo já derrotou
+        G                  Bm7        E4  E  E4  E
+E no lugar da vergonha te cobrirá de honra
+
+[Refrão]
+
+F#m           E  D9          E    F#m
+   Cante alegre_mente filha de Sião
+          E   D9
+Pois Ele mudará tua sorte
+F#m            E    D9
+   Com brados de vitória
+          E    F#m        E    D9
+Saltos de alegria diante do Senhor
+
+F#m           E  D9          E    F#m
+   Cante alegre_mente filha de Sião
+          E   D9
+Pois Ele mudará tua sorte
+F#m            E    D9
+   Com brados de vitória
+          E    F#m        E    D9
+Saltos de alegria diante do Senhor
+
+[Ponte]
+
+      F#m  E       D9   E
+Celebre      Celebre
+      F#m  E       Bm7  E
+Celebre      Celebre
+      F#m  E/G#       A  Bm7
+Celebre         Celebre
+      F#m  E/G#       A  Bm7
+Celebre         Celebre
+
+[Refrão]
+
+F#m              D9              F#m
+   Cante alegre_mente filha de Sião
+              D9
+Pois Ele mudará tua sorte
+F#m                 D9
+   Com brados de vitória
+               F#m              F°
+Saltos de alegria diante do Senhor
+
+F#m           E  D9          E    F#m
+   Cante alegre_mente filha de Sião
+          E   D9
+Pois Ele mudará tua sorte
+F#m            E    D9
+   Com brados de vitória
+          E    F#m        E    D9
+Saltos de alegria diante do Senhor
+
+[Ponte]
+
+      F#m  E       D9   E
+Celebre      Celebre
+      F#m  E       Bm7  E
+Celebre      Celebre
+      F#m  E/G#       A  Bm7
+Celebre         Celebre
+      F#m  E/G#       A  Bm7
+Celebre         Celebre
+       F#m
+Celebre 
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+Bm7 = X 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+C#7(9-) = X 4 3 4 3 X
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2
+F/Eb = X X 1 2 1 1
+F° = X X 3 4 3 4
+G = 3 2 0 0 0 3

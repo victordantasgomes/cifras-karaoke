@@ -1,0 +1,137 @@
+@titulo: pao-de-mel-locutor-pot-pourri
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Pão De Mel / Locutor (Pot-Pourri)
+
+Intro: E B A B B9
+
+    E                          B
+Você é minha luz, estrada, meu caminho
+             B7              A
+Sem você não sei andar sozinho
+             A9       B   B9
+Sou tão dependente de você
+ E                            B
+Chama que alimenta o fogo da paixão
+           B7           A
+Chuva que molhou meu coração
+             A9       B   B9 A B
+Sou tão dependente de você
+
+     F#m             A
+Vem meu céu, meu pão de mel
+            E   E9  E7
+Meu bem, querer
+        F#m          A
+Vem meu céu, meu pão de mel
+
+         E      B B4
+Meu bem querer
+
+E                               B7
+Ai, ai, ai, ai, ai, esse amor é bom demais
+F#m              B7                    E
+Ai, ai, ai, ai, ai, esse amor marcou demais
+E                               B7
+Ai, ai, ai, ai, ai, esse amor ficou em mim
+F#m              B7                 E        E7
+Ai, ai, ai, ai, ai, esse amor não vai ter fim
+
+Passagem: B F# A G# C#m C#m7+ E F#
+
+B
+Tô no celular
+            F#
+Falando de um bar
+E
+Bebi todas pra poder ligar
+               B
+Perdi um grande amor
+                 F#
+Não sei o que fazer
+           E                   F#
+Amigo locutor, liguei pra te dizer
+          Ebm7
+Manda um recado e um beijo meu
+                G#m7
+Sei que ela não perde um programa seu
+              C#m                C#m7+
+Ela não abre a porta e não tem celular
+                E                F#
+Então só tem um jeito dela me escutar
+B
+Vai locutor
+F#
+Diz que eu estou
+    A              G#
+Completamente apaixonado
+       C#m
+Louco de amor
+      C#m7+
+Diga por favor
+E
+Fala ai no ar
+     F#           B
+Não sei viver sem ela
+         F#
+Que esse cara aqui
+    A
+Com saudade dela
+G#        C#m       C#m7+
+Cheio de desejo
+ E                     F#             B      G
+Diz pra ela locutor só quero mais um beijo
+C
+Vai locutor
+G
+Diz que eu estou
+    Bb             A
+Completamente apaixonado
+       Dm
+Louco de amor
+      Dm7+
+Diga por favor
+F
+Fala ai no ar
+     G            C
+Não sei viver sem ela
+         G
+Que esse cara aqui
+    Bb
+Com saudade dela
+A         Dm       Dm7+
+Cheio de desejo
+ F                     G              C
+Diz pra ela locutor só quero mais um beijo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+B7 = X 2 1 2 0 2
+B9 = X 2 4 4 2 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+C#m7+ = X 4 6 5 5 4
+Dm = X X 0 2 3 1
+Dm7+ = X X 0 2 2 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+E9 = 0 2 4 1 0 0
+Ebm7 = X X 1 3 2 2
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#m7 = 4 X 4 4 4 X

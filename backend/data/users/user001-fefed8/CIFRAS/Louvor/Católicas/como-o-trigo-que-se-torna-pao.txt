@@ -1,0 +1,83 @@
+@titulo: como-o-trigo-que-se-torna-pao
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Como o Trigo Que Se Torna Pão
+
+[Intro] A7  D7(9) A
+        A7  D7(9) A9
+        A7  D7(9) A
+        F   G   Am
+        G   F  E4  E
+
+   Am                G
+O trigo só pode ser pão
+      F              E4   E
+Se o sol aquecer a espiga
+   Dm               Am   Am/G
+A massa só pode crescer
+         F         E         A  A9 A
+Se o fermento for bom pra valer
+F  E
+
+       F#m7               Bm7
+Como o trigo que se torna pão
+    E    D/F# E/G#    E       A   A/C#
+Eu trago Sen--hor, o meu coração
+        D     E/D       A/C#  F#m7
+Como a uva que se torna vinho
+
+   D         E           A
+Ofereço meu amor, meu carinho
+
+( D7(9)  A )
+( F  G  Am )
+( G  F  E4  E )
+
+  Am               G
+A uva só pode ser vinho
+       F             E4   E
+Se um dia ela amadurecer
+   Dm            Am   Am/G
+Depois de esmagadinha
+         F         E      A  A9 A
+Vai pra mesa pra gente beber
+F  E
+
+       F#m7               Bm7
+Como o trigo que se torna pão
+    E    D/F# E/G#    E       A   A/C#
+Eu trago Sen--hor, o meu coração
+        D     E/D       A/C#  F#m7
+Como a uva que se torna vinho
+   D         E           A
+Ofereço meu amor, meu carinho
+
+( A7  D7(9)  A9 )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+A9 = X 0 2 2 0 0
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7(9) = X 5 4 5 5 X
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+F = 1 3 3 2 1 1
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

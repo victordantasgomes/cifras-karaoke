@@ -1,0 +1,134 @@
+@titulo: musica-urbana
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Música Urbana
+
+[Intro] Gm  Cm  Dm  Gm  Cm  Dm
+        Gm  Cm  Dm  Gm  Cm  Dm
+        Gm  Cm  Dm  Gm  Cm  Dm
+
+ Gm             Cm         Dm
+Contra todos e contra ninguém
+   Gm                       Cm    Dm
+O vento quase sempre nunca tanto diz
+   Gm                     Cm   Dm      Gm  Cm  Dm
+Estou só esperando o que vai acontecer
+ Gm               Cm              Gm                  Dm
+Tenho pedras nos sapatos onde os carros estão estacionados
+   Gm              Cm              Gm        Dm
+Andando por ruas quase escuras os carros passam
+
+ Gm             Cm         Dm
+Contra todos e contra ninguém
+   Gm                       Cm    Dm
+O vento quase sempre nunca tanto diz
+   Gm                     Cm   Dm      Gm  Cm  Dm
+Estou só esperando o que vai acontecer
+
+ Gm               Cm              Gm                  Dm
+Tenho pedras nos sapatos onde os carros estão estacionados
+   Gm              Cm              Gm        Dm
+Andando por ruas quase escuras os carros passam
+
+( Am  Em )
+( Am  Em )
+
+    Am                     C
+As ruas tem cheiro de gasolina
+  Am       G
+E óleo diesel
+     Am        C
+Por toda plataforma
+ Am        G
+Toda plataforma
+ Am        C
+Toda plataforma
+   Am               Gm   Cm    Dm
+Você não vê a torre ehhh yeah yeah
+Gm       Cm      Dm  Gm         Cm      Dm
+ou ou ou ou   ou    ou ou ou o o o  o ohu ohu
+
+E|---------------------------------|--------------------|
+B|---------------------------------|--------------------|
+G|---------------------------------|--------------------|
+D|------------------3----5-5-------|----------------3---|
+A|--------5----6-------5-----------|-------5---6--------|
+E|--3------------------------------|--3-----------------|
+
+E|---------------------------------|--------------------|
+B|---------------------------------|--------------------|
+G|---------------------------------|--------------------|
+D|------------------3----5-5-------|----------------3---|
+A|--------5----6-------5-----------|-------5---6--------|
+E|--3------------------------------|--3-----------------|
+
+ Gm          Cm        Dm
+Tudo errado mas tudo bem
+ Gm                        Cm      Dm
+Tudo quase sempre como eu sempre quis
+ Gm                       Cm       Dm   Gm  Cm    Dm
+Sai da minha frente que agora eu quero ver  ouuuu oh
+ Gm             Cm               Gm                 Dm
+Não importa os seus atos eu não sou mais um desesperado
+      Gm              Cm              Gm      Dm
+Se eu ando por ruas quase escuras as ruas passam
+
+ Gm          Cm        Dm
+Tudo errado mas tudo bem
+ Gm                        Cm      Dm
+Tudo quase sempre como eu sempre quis
+ Gm                       Cm       Dm   Gm  Cm  Dm
+Sai da minha frente que agora eu quero ver
+ Gm             Cm               Gm                 Dm
+Não importa os seus atos eu não sou mais um desesperado
+      Gm              Cm              Gm      Dm
+Se eu ando por ruas quase escuras as ruas passam
+
+( Am  Em )
+( Am  Em )
+
+    Am                     C
+As ruas tem cheiro de gasolina
+  Am       C
+E óleo diesel
+     Am        C
+Por toda plataforma
+ Am        C
+Toda plataforma
+ Am        C
+Toda plataforma
+   Am                    Gm   Cm   Dm
+Você não vê a torre ehhh yeah yeah
+Gm       Cm      Dm  Gm         Cm      Dm
+ou ou ou ou   ou    ou ou ou o o o  o ohu ohu
+
+E|---------------------------------|--------------------|
+B|---------------------------------|--------------------|
+G|---------------------------------|--------------------|
+D|------------------3----5-5-------|----------------3---|
+A|--------5----6-------5-----------|-------5---6--------|
+E|--3------------------------------|--3-----------------|
+
+E|---------------------------------|--------------------|
+B|---------------------------------|--------------------|
+G|---------------------------------|--------------------|
+D|------------------3----5-5-------|----------------3---|
+A|--------5----6-------5-----------|-------5---6--------|
+E|--3------------------------------|--3-----------------|
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

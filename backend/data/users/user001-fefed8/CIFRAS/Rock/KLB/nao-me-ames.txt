@@ -1,0 +1,81 @@
+@titulo: nao-me-ames
+@autor:
+@intérprete: KLB
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+KLB - Não Me Ames
+
+             C                    Am
+Diga por que chora se eu te quero tanto
+           Dm                    G
+Se a minha vida sempre foi te amar
+              Dm
+Diz qual é motivo
+G7         C   Am                  Dm
+Qual é seu medo   se em meus pensamentos
+    Fm            G
+Quero mais que um beijo
+
+(refrão)
+             C                     Am
+Tenho tantos sonhos deixa eu te contar tenho tantos
+Dm               G
+Planos se você ficar
+             Dm               Am
+Sei que o futuro mora tão distante
+               Dm     Fm         G
+Mas não tenho medo estou apaixonado
+       C           Am         Dm      G7
+Eu te amo e não quero que pareça diferente
+        C             Am
+E não pense que no mundo
+        Dm                G
+Outro amor vai ser tão grande
+        C         C7       F           Fm
+Eu te amo e acredito q chegou a minha vez
+      C         Am        Dm             E7    Am
+Meu amor eu te peço!não espere nascer um novo dia
+C
+Eu te amo e
+         Am                  Dm
+Quero estar contigo nem que acabe o mundo
+         Fm    G  C
+Esse é meu destino por que
+C                           Am
+Esse amor não sabe outro caminho
+          Dm                  Fm     G
+Mesmo em dias tristes eu só quero o seu caminho
+D                   Bm                 Em
+Eu te amo e não importa o tempo nada vai mudar e
+    Gm                  D
+Seguiremos sempre juntos
+                Bm                  Em
+Não me ames apenas um momento nem só um instante
+       Gm    A
+Quero que me ames pela
+C
+Vida inteira
+
+(refrão)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

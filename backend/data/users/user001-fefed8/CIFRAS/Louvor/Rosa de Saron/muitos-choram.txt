@@ -1,0 +1,94 @@
+@titulo: muitos-choram
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Muitos Choram
+
+[Intro] Am  C Em
+        Am  C Em
+
+Am
+O vento bate na janela e eu busco asas pra voar
+F                    G
+Pra bem mais perto de você
+F                G
+Bem mais perto de você
+Am                                         C9
+Estamos livres, mas sozinhos, abandonados
+F                      G          F                     G
+Por quem tinha que nos entender, por quem tinha que nos defender
+
+C9   G          Dm   Am
+Hoje muitos choram, mas não desistem de viver
+C9   G           Dm  Am
+Hoje muitos choram sorrindo
+C9   G          Dm   Am
+Hoje muitos choram, mas não desistem de viver
+C9   G           Dm  Am
+Hoje muitos choram sorrindo
+
+
+Am
+A vida passa como um rio e não é mais tudo tão lindo
+F                E9
+Nos resta apenas confiar em Deus
+F                G
+Nos resta apenas confiar
+Am                                                  C9
+São só palavras e promessas dissimuladas sem noção
+F                                G
+Que muitas vidas correm em suas mãos
+F                                G
+Que muitas vidas correm em suas mãos
+
+C9       G           F
+Hoje muitos choram, mas não desistem de viver
+C9       G           F  G
+Hoje muitos choram sorrindo
+C9       G          F
+Hoje muitos choram, mas não desistem de viver
+C9       G           F  C    F9  C  F
+Hoje muitos choram sorrindo
+
+C9                      F
+Hoje muitos choram
+C9                      F  G
+Hoje muitos choram sorrindo
+E|--9------------------------------------|
+B|-----9---------------------------------|
+G|----------11----10------------10-------|
+D|-----------------------13----------11--|
+A|---------------------------------------|
+E|---------------------------------------|
+
+E|--9--------8---------9-----------------|
+B|-----9---------------------------------|
+G|---------------------------------------|
+D|---------------------------------------|
+A|---------------------------------------|
+E|---------------------------------------|
+
+E|--9------------------------------------|
+B|-----9---------------------------------|
+G|--------11----10----10--------9/11--9--|
+D|-----------------13----11--------------|
+A|---------------------------------------|
+E|---------------------------------------|
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+E9 = 0 2 4 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3

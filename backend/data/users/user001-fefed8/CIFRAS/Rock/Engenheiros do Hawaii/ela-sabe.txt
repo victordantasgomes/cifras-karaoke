@@ -1,0 +1,70 @@
+@titulo: ela-sabe
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Ela Sabe
+
+Introdução: 4x(B B4)
+
+(B B4)
+Ela sabe muito bem o que quer
+Ela sabe o que precisa fazer
+        (A A4)      (B B4)       F# E
+E vai à luta (não escuta ninguém)
+(B B4)
+Ela sabe muito bem
+O que é que se espera de uma mulher
+        (A A4)                     (B B4) F# E - B B4 F# E
+Mas não quer nem saber...ela manda ver
+(B B4)
+Ela sabe muito bem o que quer
+Ela sabe o que precisa fazer
+      (A A4)       (B B4)       F# E
+Vai à luta e não escuta ninguém
+Nem
+
+F#                             B
+A maioria esmagadora voz da razão
+
+F#                            B
+Bom-senso, uníssono ensurdecedor
+F#                          G#m
+Na lua cheia ateia fogo às próprias vestes
+            E           F#
+Só pra acordar de bom humor
+
+(B B4)
+Pra enfrentar o que der e vier
+Só a força de uma mulher
+    (A A4)               (B B4) F# E
+Que sabe muito bem o que quer
+(B B4)
+Ela sabe...!ela sabe!
+       A
+Vai à luta e não escuta
+F#                             B
+A maioria esmagadora voz da razão
+F#                            B
+Bom-senso, uníssono ensurdecedor
+F#                          G#m
+Na lua cheia ateia fogo às próprias vestes
+            E            F#
+Só pra acordar de bom humor
+(B B4)
+[Ela sabe...ela sabe]
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,59 @@
+@titulo: videira-verdadeira
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Videira Verdadeira
+
+[Intro]  D  F#  B  Em  E  C  A
+
+     D    F#     Bm
+Só Jesus tem a paz
+      E                  A
+Uma paz que o mundo não dá
+      F#                Bm A G
+Uma paz pura e verdadeira
+
+A         D           F#   G
+Paz da videira, verdadeira
+   A7       D         F#   G
+Paz da videira, verdadeira
+
+  D        F#     Bm
+Só Jesus tem a vida
+    E         A
+Uma vida infinita
+       F#             Bm  A G
+Uma vida pura e verdadeira
+
+
+ A         D           F#   G
+Vida da videira, verdadeira
+A           D           F#  G
+Vida da videira, verdadeira
+ A          D            F# G
+Paz da videira, verdadeira
+ A          D            F# G
+E vida da videira verdadeira
+ A          D          F#   A G
+Paz da videira verdadeira
+ A          D          F#  G A
+E vida da videira verdadeira
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

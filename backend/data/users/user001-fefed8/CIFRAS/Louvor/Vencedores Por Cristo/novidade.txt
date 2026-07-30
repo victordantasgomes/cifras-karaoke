@@ -1,0 +1,71 @@
+@titulo: novidade
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Novidade
+
+Intro: Am7 B7/A Bb7M/A A (4X)
+
+Am7                 E7/B
+Toda a novidade que vem no vento
+   Dm7     E7/B   Dm7  C7    E/G#
+Ao peso da força, da rotina, cai
+Gm6             C7
+Na monotonia do pensamento
+      Am7      B7/A   Bb7M/A  A
+Que à busca de outra novidade sai
+
+Dm7        F/G            A/C#  C7
+Ânsia, insatisfação, correria
+Am/B      Bb7M        Am7
+Luta, experimentação, noite e dia
+F#m7     F7M  C          D#
+Achados, fugas, horas de sorte
+    Dm7           F#
+Tristezas, sonhos negros,
+         Am/G  F#m7  Bm7 E7
+Gosto de morte
+
+Am7                   E7/B
+Mais que novidade que vem no vento
+     Dm7    E7/B   Dm7  C7    E/G#
+Pois cada momento ensinamento traz
+Gm6               C7
+Cristo é tudo para todo tempo
+      Am7      B7/A       Bb7M/A  A
+Quem nele se encontra não procura mais
+
+Gm6               C7
+Cristo é tudo para todo tempo
+      Am7      B7/A       Bb7M/A  A
+Quem nele se encontra não procura mais
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Am/B = 4 X 4 3 1 1
+Am/G = 3 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+B7/A = X 0 4 4 4 X
+Bb7M = X 1 3 2 3 1
+Bb7M/A = X 0 3 2 3 1
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D# = X 6 5 3 4 3
+Dm7 = X 5 7 5 6 5
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+E7/B = X 2 2 1 3 X
+F# = 2 4 4 3 2 2
+F#m7 = 2 X 2 2 2 X
+F/G = 3 X 3 2 1 X
+F7M = 1 X 2 2 1 X
+Gm6 = 3 X 2 3 3 X

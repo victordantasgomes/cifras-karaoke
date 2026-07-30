@@ -1,0 +1,93 @@
+@titulo: mal-de-amor
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Mal de Amor
+
+Intro 4x: Bm  A  G
+E|---------------------------------------|
+B|---------------------------------------|
+G|---7-9-11----6-7-9--6h7p6--4--6h7p6--4-|
+D|-9---------7---------------------------|
+A|---------------------------------------|
+E|---------------------------------------|
+
+E|-------------------------------------------------------|
+B|-------------------------------------------------------|
+G|---7-9-11----6-7-9--6h7p6--4--6h7p6--4--6h7p6--4-------|
+D|-9---------7--------------------------------------7--9-|
+A|-------------------------------------------------------|
+E|-------------------------------------------------------|
+
+Bm                     G
+Eu queria agora ter um disco voador
+D                      A
+Pra ir morar de vez em marte
+Bm                     G
+Não agüento mais estou sofrendo mal de amor
+
+D                   A
+Não quero morrer de enfarte
+Em                     Bm
+Sei que a medicina não encontra a solução
+G                   A
+Pra me curar dessa paixão
+Em                 Bm
+Tá doendo tudo vai parar meu coração
+G                  A
+E você sabe que eu tô mal, muito mal
+
+Refrão 2x:
+D                          A
+E por mais que eu fuja pra longe
+            G               Bm
+Atravesse o universo pra e esquecer
+D                          A
+As estrelas que brilham no céu
+               G
+Tem a luz dos teus olhos
+          Bm  A  G  Bm  A  G
+E lembram você
+
+Bm                     G
+Eu queria agora ter um disco voador
+D                      A
+Pra ir morar de vez em marte
+Bm                     G
+Não agüento mais estou sofrendo mal de amor
+D                   A
+Não quero morrer de enfarte
+Em                     Bm
+Sei que a medicina não encontra a solução
+G                   A
+Pra me curar dessa paixão
+Em                 Bm
+Tá doendo tudo vai parar meu coração
+G                  A
+E você sabe que eu tô mal, muito mal
+
+Refrão 3x:
+D                          A
+E por mais que eu fuja pra longe
+            G               Bm
+Atravesse o universo pra e esquecer
+D                          A
+As estrelas que brilham no céu
+               G
+Tem a luz dos teus olhos
+          Bm
+E lembram você
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

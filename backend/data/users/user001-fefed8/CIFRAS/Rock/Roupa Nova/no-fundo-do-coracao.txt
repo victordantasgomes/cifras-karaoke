@@ -1,0 +1,75 @@
+@titulo: no-fundo-do-coracao
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - No Fundo do Coração
+
+A9         A7        D
+Olho a noite as estrelas
+E                D    A9
+Vejo as horas passando
+                  E
+Cada instante me faz viver
+    D          E
+Pensando em você
+
+A9                A7   D
+No silêncio da escuridão
+E                D   A9
+Teu carinho me aquece
+        A7          D
+Todo tempo ao teu lado
+  E                A
+Acende o meu coração
+
+ F                C         Am
+Vou pra sempre guardar em mim
+Dm               Am
+Teu sorriso e o teu olhar
+
+Dm         A            F#m
+O que eu quero é ter você
+         D         E   (A9)
+Sempre perto de mim
+
+A9            A7    D
+Te declaro o meu amor
+ E             D A9
+Todo o meu sentimento
+           A9        D
+Guardo as tuas palavras
+     E            A9
+No fundo do coração
+
+Dm        A            F#m
+O que eu quero é ter você
+         D        E
+Sempre perto de mim
+
+A9            A7    D
+Te declaro o meu amor
+E               D
+Todo o meu sentimento
+  A7                D
+Guardo as tuas palavras
+ E                A
+No fundo do coração
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+A9 = X 0 2 2 0 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2

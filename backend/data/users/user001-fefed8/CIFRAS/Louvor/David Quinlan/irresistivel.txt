@@ -1,0 +1,28 @@
+@titulo: irresistivel
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Irresistível
+
+  F#m C#m7                     B9
+Jesus,    eu quero ser irresistível
+        F#m C#m7                B9
+Ao teu olhar    ao toque de tua mão
+        F#m C#m7                     B9
+Quero dançar    ao ritmo do teu coração
+            F#m
+Vem neste lugar
+            C#m7    B9
+Vem neste lugar Senhor
+
+----------------- Acordes -----------------
+B9 = X 2 4 4 2 2
+C#m7 = X 4 6 4 5 4
+F#m = 2 4 4 2 2 2

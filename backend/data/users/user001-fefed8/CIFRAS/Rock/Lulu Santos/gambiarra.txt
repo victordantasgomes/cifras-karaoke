@@ -1,0 +1,72 @@
+@titulo: gambiarra
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - Gambiarra
+
+Intro 2x: G  C/G  Bb4/G  G  C/G  C4/G
+
+G  C/G
+Oi,   tudo bem?!
+    A7/G          G
+Não sei se você está me reconhecendo mas
+G7          Gm6
+  Já já lhe dou uma dica
+    G9/5+       G
+Sua ficha vai cair
+      G  C/G  A7/G  G
+Sou aquele...     Aquele
+       G7        Gm6
+que aparece na televisão
+     G9/5+  G
+Sabe qual?... Não?!!
+
+         C Bb G
+Eu sou o Dudu Sanchez
+  C Bb G
+O Bibi Gomes
+
+   C              Bb      G
+Eu sou o que todo mundo conhece
+             C   Bb   G  F
+mas não sabe bem quem é, Zé!
+D  F#    G       A    F  A  Bb
+  Como inseto em gambiarra
+B        (C C4)
+Olha eu aqui
+D  F#    G       A    F  A   Bb   C
+  Quando ligam a gambiarra
+G#  C   C#     D#   Bb  B5-
+   Eu começo a existir
+    (C C4)  Bb
+Existir
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7/G = 3 X 2 2 2 X
+B = X 2 4 4 4 2
+B5- = X 2 3 4 4 2
+Bb = X 1 3 3 3 1
+Bb4/G = X 10 8 10 P11 11
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C/G = 3 3 2 X 1 X
+C4 = X 3 3 0 1 X
+C4/G = 3 3 5 5 6 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G7 = 3 5 3 4 3 3
+G9/5+ = 3 X 1 2 0 X
+Gm6 = 3 X 2 3 3 X

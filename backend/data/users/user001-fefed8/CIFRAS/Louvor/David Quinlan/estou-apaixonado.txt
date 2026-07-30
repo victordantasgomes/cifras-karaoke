@@ -1,0 +1,59 @@
+@titulo: estou-apaixonado
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Estou Apaixonado
+
+  :  G               D/F#
+  :Estou apaixonado
+  :  Em7             C
+2x:Estou apaixonado
+  :  Am7             G/B
+  :Estou apaixonado
+  :            C9   D
+  :Por ti Jesus
+
+G  D/F#           Em7
+Jesus meu amor maior
+  C               Am7
+Jesus meu amor maior
+  G/B             C   D
+Jesus meu amor maior
+
+Solo: G D/F# Em7 C C G/B Am7 G/B C9 D 2x
+
+      G                  D/F#
+E Ele vem saltando pelos montes
+      Em7                C9 (C9 G/B)
+E Ele vem saltando pelos montes
+
+      Am7                G/B
+E Ele vem saltando pelos montes
+            C    D
+Pra me encontrar
+
+     G                  D/F#
+E eu vou saltando pelos montes
+     Em7                C9 (C9 G/B)
+E eu vou saltando pelos montes
+     Am7                G/B
+E eu vou saltando pelos montes
+            C    D
+Pra Ti encontrar
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

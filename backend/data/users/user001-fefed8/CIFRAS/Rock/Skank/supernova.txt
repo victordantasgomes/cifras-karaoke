@@ -1,0 +1,63 @@
+@titulo: supernova
+@autor:
+@intérprete: Skank
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Skank - Supernova
+
+ Intro: *F# (*1) F#
+
+(F#)
+
+É nitido, direto e inquietante
+Eu diria totalmente extravagante
+Nosso amor é agressivo no seu ímpeto lascivo
+De amizade escarnada no desejo *2
+
+Não tem calma o forte sim da tua presença
+Fecundando minha mente e o fundo desse poço
+Onde me jogo simplesmente por esporte boêmio
+Mas é tão sério e maluco tá por um fio de tensão *2
+
+
+(C# / G#m / B / F#)        |
+                           |R
+No universo das paixões    |E
+amor assim é supernova     |F
+                           |R
+
+(C# / G#m / B / F#)        |Ã
+                           |O
+
+Da alma, na carne d'alma *1|
+
+(F#)
+
+Nosso amor é agressivo no seu ímpeto lascivo
+De amizade escarnada no desejo
+Obtém aquele máximo poder de um casal
+Que é só mesmo destino de um pro outro *2
+
+REPETE REFRÃO
+
+*-desce uma vez a nota e começa o *1.
+
+ |         *1          |       *2      |
+E|---------------------|---------------|
+B|---------------------|---------------|
+G|--------4-3----------|---------------|
+D|-2-2-2/4---4-2-2-2/4-|----6-7-6-4-4~-|
+A|---------------------|---7-----7-----|
+E|---------------------|---------------|
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

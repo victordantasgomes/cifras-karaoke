@@ -1,0 +1,93 @@
+@titulo: me-diga
+@autor:
+@intérprete: Nando Reis
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nando Reis - Me Diga
+
+[Intro] E  A  F#m  B  E  F#m  G#m  A  B  B7
+
+E            F#m
+Se eu acordo preocupado com as
+G#m                   A              B
+Providências como uma conta no banco
+                          B7
+Que eu não tenho dinheiro pra pagar
+E                F#m
+Isso me aflita , e atrapalha
+        G#m
+Faz com que eu não me de conta
+A                B
+De outras coisas
+         B7
+Que eu deveria cuidar
+
+E               A F#m
+Então me diga
+B             E            A G#m F#m
+Se você ainda gosta de mim
+
+B         E            A G#m F#m
+Porque de você eu gosto
+B        E              F#m
+Isso não deve ser assim
+    G#m     A
+Tao ruim
+
+(E F#m G#m A B B7)
+Dos meus filhos eu sinto saudade
+eu tenho medo que eles achem que
+eu não sinto a falta deles
+como eu acho que eles sentem de mim
+Pego o meu carro pelo asfalto
+uso um sapato da mesma maneira
+Por influência do meu pai
+
+E               A F#m
+Então me diga
+B             E            A G#m F#m
+Se você ainda gosta de mim
+B         E            A G#m F#m
+Porque de você eu gosto
+B        E              F#m
+Isso não deve ser assim
+    G#m     A
+Tao ruim
+
+Riff 1
+                              E
+E|---------------------------------|
+B|---------------------------------|
+G|----------------------------1----|
+D|------2--4-2-----2-2p4--2---2----|
+A|--2/4---------4-------------2----|
+E|---------------------------------|
+
+F#m              E
+Ha quanto tempo eu conheço você
+       G#m                   A
+Ha quanto tempo eu ainda vou precisar
+    F#m
+E eu dependo do teu
+     G#m
+não entendo eu pretendo apenas
+         A (Riff 1)
+que você saiba que isso é meu amor
+
+[Solo] E  A  F#m  B  E  F#m  G#m  A  B  B7
+
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

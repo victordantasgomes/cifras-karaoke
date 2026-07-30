@@ -1,0 +1,58 @@
+@titulo: caleidoscopio(simplificada)
+@autor:
+@intérprete: Paralamas do Sucesso
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Os Paralamas do Sucesso - Caleidoscópio
+
+(intro 2x) D C G7 D C G
+
+D                 C
+Não é preciso apagar a luz
+G                    C
+Eu fecho os olhos e tudo vem
+D            C         G7
+Num caleidoscópio sem lógica
+D                     C
+Eu quase posso ouvir a tua voz
+G                       C
+Eu sinto a tua mão a me guiar
+D               C       G7
+Pela noite a caminho de casa
+
+      Em
+Quem vai pagar as contas desse amor pagão
+                     F#m7
+Te dar a mão, me trazer à tona prá respirar
+      A7
+Quem vai chamar meu nome ou te escutar           (3x)
+
+D                   C
+Me pedindo para apagar a luz
+G                      C
+Amanheceu, é hora de dormir
+D              C        G7
+Nesse nosso relógio sem órbita
+D                     C
+Se tudo tem que terminar assim
+G                        C
+Que pelo menos seja até o fim
+D                   C        G7
+Pra gente não ter nunca mais que terminar
+
+(repete intro)
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

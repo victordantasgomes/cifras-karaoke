@@ -1,0 +1,78 @@
+@titulo: ouviu-se-falar
+@autor:
+@intérprete: Charlie Brown Jr
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Charlie Brown Jr. - Ouviu-se Falar
+
+Intro: ( C#5    A5     B5      F#5 )4x          C#5
+
+
+_Refrão
+:C#
+: Ouviu-se  falar
+:                   A
+:Que estive pra desistir
+:      B              F#
+: Ouviu-se falar
+:  C#     A     B      F#
+:_  Desistir não , porque
+
+
+G#   F#  Em   F#   B    F#  Em  F#
+Por Deus me faça entender
+Que eu tenho algo a dizer
+Eu estive pra explodir
+Nem penso nisso mais , yeah...
+
+
+
+C#5    A5     B5      F#5
+Quero ouvir a sua voz
+Chamar por mim
+Quero ouvir você falar
+Que tem todo tempo do mundo
+Pra me ouvir falar de nós
+Desistir não , porque
+
+
+G#   F#  Em   F#   B    F#  Em  F#
+Não vou mentir
+Penso muito em nós
+Não vou mentir , nos destrói
+
+
+C#5    A5     B5      F#5
+Quero ouvir a sua voz
+Chamar por mim
+Quero ouvir você falar
+Que tem todo tempo do mundo
+Pra me ouvir falar de nós
+Desistir não , porqueeeee........
+
+
+C#5   E5    F#   G#5
+Ouviu-se falar
+Ouviu-se falar
+Ouviu-se falar
+E é só...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+B = X 2 4 4 4 2
+B5 = X 2 4 4 X X
+C# = X 4 6 6 6 4
+C#5 = X 4 6 6 X X
+E5 = 0 2 2 X X X
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#5 = 2 4 4 X X X
+G# = 4 3 1 1 1 4
+G#5 = 4 6 6 X X X

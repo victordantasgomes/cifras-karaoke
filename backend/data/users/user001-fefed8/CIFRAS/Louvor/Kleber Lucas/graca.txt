@@ -1,0 +1,85 @@
+@titulo: graca
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Graça
+
+C                F/C           G/D          C
+A Deus seja a glória por Sua graça, Seu favor
+                F/C
+Que enviou Seu filho por mim
+G/D        C  G/B Am7  Am7/G     F/C
+Eu não merecia o perdão que me comprou
+   G            C9
+O amor que me amou
+C            F/C
+Deu-me nova vida em Jesus
+G/D             C
+Deus ao mundo amou
+            F           G         Am
+Seu sangue derramou numa cruz por mim
+       Am7/G     F/C       G/D    C
+Por causa desse amor eu fui salvo sim
+C9               F/C
+Graça, graça, graça
+        G/D  G    C
+Foi a graça de Jesus
+            F/C
+Que me libertou do poder
+
+G/D    G  C    G/B
+Do pecado e da morte
+Am     D/F#    F/C  G/D         G4 G  C
+Não mais vivo eu, mas Cristo vive em mim
+C            F/C          G/D          C
+E esta vida que vou viver é pra te servir
+              F
+Seu sangue derramou..
+Bm                G           A/E       D
+Oh vinde a esta graça os famintos do Senhor
+                G/D
+Que entregou seu filho de amor
+
+A           D  A/C#    Bm7
+Pra salvar o homem pecador
+Bm7/A   G/D       A              D
+Bendita graça que na cruz manifestou
+D              G/D
+Transpassado filho de Deus
+A9                D
+A dor que nos curou
+              G     A Bm Bm7/A G/D A/E D
+Seu sangue derramou...
+D                A/C#       A      D/F#
+Eu estava Longe, dos Caminhos do Senhor
+D/F#             A9             D
+Mas o Sangue de Jesus me Purificou
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A9 = X 0 2 2 0 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am7/G = 3 0 2 0 1 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Bm7/A = 5 2 4 2 3 2
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+F = 1 3 3 2 1 1
+F/C = X 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G4 = 3 5 5 5 3 3

@@ -1,0 +1,67 @@
+@titulo: me-escolheste
+@autor:
+@intérprete: Ministério Avivah
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Avivah - Me Escolheste
+
+Intro: :: A : D : F#m7 : D ::
+
+            A4  A   F#m7       E
+Desde o ventre que me formou
+     D                             E4  E
+Tu viste em mim um coração
+            A4  A       A/C#  D           A7M/C#           Bm7
+Desde o ventre me to -  cou, me encheu, me escolheu
+Bm7/A      :: G  :  D/F#  :  Dm/F:  E  ::
+Para o teu louvor
+
+           A                   D
+Me escolheste, oh, Senhor
+        F#m7            E4   E
+Teu amor me encontrou
+           A/C#                       C#m7      F#m7
+Mesmo antes de existir já pensavas em mim
+            D      Bm7       E4  E   E4   E
+Me escolheste, oh, Senhor
+
+(...Desde o ventre que me formou...)
+
+
+(..Me escolheste, oh, Senhor..)
+
+        F#m7              G
+E não tenho o que temer
+            F#m7                D
+Pois tua graça me faz vencer
+      A/C#        C#m7     F#m7
+Tua majestade reina em mim
+              G9                  E4   E             G9               D/F#  Dm/F  E4
+Me faz andar em lugares altos, me faz viver só pra te adorar
+
+(..Me escolheste, oh, Senhor..)
+
+Final : :: A4 A : F#m7 E : A ::
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+A7M/C# = X 4 X 2 5 4
+Bm7 = X 2 4 2 3 2
+Bm7/A = 5 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm/F = X X 3 2 3 1
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G9 = 3 X 0 2 0 X

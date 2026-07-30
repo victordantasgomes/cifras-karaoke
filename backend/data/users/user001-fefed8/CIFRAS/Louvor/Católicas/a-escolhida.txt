@@ -1,0 +1,104 @@
+@titulo: a-escolhida
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - A Escolhida
+
+[Intro]
+
+          D       G                D        G                   D         G         A       D   A
+E|--------------------------------------------------------------------------------------------|
+B|--10/12-10----13-13-13-12-10-12-10----------------10----10-12-10------------------10---10---|
+G|-----------12----------------------12--12-12-12-12----12----------12--12-12-12-12----12---12|
+D|---------------------------------------------------------------------------------------------|
+A|---------------------------------------------------------------------------------------------|
+E|---------------------------------------------------------------------------------------------|
+
+D                      A
+Uma entre todas foi a escolhida
+ Bm                      F#m
+Foste tu Maria a serva preferida
+ G             D
+Mãe do meu Senhor
+ G             A  A7
+Mãe do meu salvado..or
+
+   D  Bm   G        A         D Bm
+Mariiia, cheia de graça e consolo
+
+ G          A           D  Bm
+Venha caminhar com teu poovo
+ G         A        D           A
+Nossa mãe sempre será.Sempre será
+
+ D                    A
+Roga pelos pecadores desta Terra
+ Bm                        F#m
+Roga pelo povo que em seu Deus espera
+ G             D
+Mãe do meu Senhor
+ G               A  A7
+Mãe do meu salvado..or
+
+   D  Bm   G        A         D Bm
+Mariiia, cheia de graça e consolo
+ G          A           D  Bm
+Venha caminhar com teu poovo
+ G         A        D           A  A7
+Nossa mãe sempre será sempre será
+
+[Solo]
+              D       G                D        G                   D         G         A       D   A
+E|--------------------------------------------------------------------------------------------|
+B|--10/12-10----13-13-13-12-10-12-10----------------10----10-12-10------------------10---10---|
+G|-----------12----------------------12--12-12-12-12----12----------12--12-12-12-12----12--12|
+D|--------------------------------------------------------------------------------------------|
+A|--------------------------------------------------------------------------------------------|
+E|--------------------------------------------------------------------------------------------E
+
+D                     G
+Uma entre todas foi a escolhida
+ Bm                      F#m
+Foste tu Maria a serva preferida
+ G             D
+Mãe do meu Senhor
+ G               A  A7
+Mãe do meu salvado..or
+
+   D  Bm   G        A         D Bm
+Mariiia, cheia de graça e consolo
+ G          A           D  Bm
+Venha caminhar com teu poovo
+ G         A        D           A A7
+Nossa mãe sempre será.Sempre será
+
+ D                    G
+Roga pelos pecadores desta Terra
+ Bm                        F#m
+Roga pelo povo que em seu Deus espera
+ G             D
+Mãe do meu Senhor
+ G               A  A7
+Mãe do meu salvado..or
+
+   D  Bm   G        A         D Bm
+Mariiia, cheia de graça e consolo
+ G          A           D  Bm
+Venha caminhar com teu povo
+ G         A        D           A A7
+Nossa mãe sempre será sempre será
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

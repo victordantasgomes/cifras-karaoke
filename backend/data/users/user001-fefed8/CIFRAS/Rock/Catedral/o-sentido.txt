@@ -1,0 +1,59 @@
+@titulo: o-sentido
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - O Sentido
+
+Intro: D
+
+                 D     G
+Em seu coração
+                  D       G
+Mora um abrigo
+                 D        G
+Mas está vazio
+             D            G
+Corre perigo
+              D        G
+De onde vens?
+                 D         G
+Para onde vais?
+             D          G
+O que tu tens?
+                 D          G
+O que ele traz?
+                D           G
+Qual o sentido?
+
+
+
+Bm            G        A  F#m
+Qual o sentido de  viver?
+Bm         G                   A
+O que fazer p'ra ser feliz?
+Bm            G       A  F#m
+Qual  a  noção do saber?
+Bm              G                 A
+O que o meu coração não diz
+
+
+           D       G
+É só amar, amar
+D                    G
+Cada um, por cada um
+   G            D
+É este o sentido
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

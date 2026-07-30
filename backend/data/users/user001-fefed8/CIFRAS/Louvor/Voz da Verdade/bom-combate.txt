@@ -1,0 +1,89 @@
+@titulo: bom-combate
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Bom Combate
+
+Intro: C9, F9, Am7, G/B, C9, F9, Dm7, G/B,
+C9
+
+     F9 G      Am7      F9   G     Am7
+Os mistérios de Deus não há como explicar
+       F9 G         Am7        Dm7  C9  G/B
+São mais altos que o céu, mais profundos que o mar
+   F9 G     Am7       F9 G     Am7
+Mas ainda que eu não consiga entender
+      F9 G  Am7    Dm7 C   G   E7
+Nele vou confiar enquanto viver
+
+ A9              D9 F#m7       E/G#
+Ainda que Deus me mate nele confiarei
+    A9          D9 F#m7           E/G#
+Combati o bom combate e minha fé guardei
+   A9        D9 F#m7            E/G#
+Receberei a coroa como um herói da fé
+     A9           D9  Bm7      E7  A9
+Das mãos do Rei da vida, Jesus de Nazaré
+
+
+
+Solo: as mesmas notas da introdução
+
+    F9  G    Am7     F9 G     Am7
+Desprezado eu fui, perseguido também
+      F9 G   Am7 Dm7 C9  G/B
+Ao dizer que Jesus é o meu Deus
+      F9 G     Am7        F9 G    Am7
+Este Deus me chamou, não olhei para trás
+     F9     C/E    G    E7
+E negar este nome jamais
+
+ A9              D9  F#m7      E/G#
+Ainda que Deus me mate, nele confiarei
+    A9          D9 F#m7            E/G#
+Combati o bom combate, e minha fé guardei
+   A9        D9 F#m7            E/G#
+Receberei a coroa como um herói da fé
+     A9           D9  Bm7      E7  A9 F#7
+Das mãos do Rei da vida, Jesus de Nazaré
+
+B9               E9  G#m7       F#/A#
+Ainda que Deus me mate, nele confiarei
+  B9            E9 G#m7           F#/A#
+Combati o bom combate e minha fé guardei
+   B9        E9 G#m7           F#/A#
+Receberei a coroa como um herói da fé
+     B9           E9  C#m7     F#7 B9
+Das mãos do Rei da vida, Jesus de Nazaré
+
+E9              B9 E9           B9 E9 B9
+Combati o bom combate e minha fé guardei
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+Am7 = X 0 2 0 1 0
+B9 = X 2 4 4 2 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#m7 = X 4 6 4 5 4
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D9 = X X 0 2 3 0
+Dm7 = X 5 7 5 6 5
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+E9 = 0 2 4 1 0 0
+F#/A# = 6 X 4 6 7 X
+F#7 = 2 4 2 3 2 2
+F#m7 = 2 X 2 2 2 X
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G#m7 = 4 X 4 4 4 X
+G/B = X 2 0 0 3 3

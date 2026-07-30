@@ -1,0 +1,99 @@
+@titulo: a-festa
+@autor:
+@intérprete: Ultraje a Rigor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ultraje a Rigor - A Festa
+
+Intro: E  E7  A6  B6  E (riff 1 4x)
+
+riff 1:
+E|--4---5-5/7---7-6-5---5-5/7---7--
+B|--5---7-7/9---9-8-7---7-7/9---9--
+G|--4---6-6/8---8-7-6---6-6/8---8--
+D|---------------------------------
+A|---------------------------------
+E|---------------------------------
+
+riff 2:
+E|--6---7-7/9----9--8--7---7-7/9----9---
+B|--7---9-8/11---11-10-9---9-9/11---11--
+G|--6---8-8/10---10-9--8---8-8/10---10--
+D|--------------------------------------
+A|--------------------------------------
+E|--------------------------------------
+
+E       E7         A7       B7             E
+Eu esperei o mês inteiro o dia da festa chegar
+     E7         A7     B7                   E (entra riff 1)
+Ensaiava no banheiro muxôxos só prá te agradar
+
+
+E  E7  A7  B7  E (2x + riff 1)
+uou uou uou uuhhh
+
+    E          E7            A7        B7                E
+Em frente ao espelho eu decorei mil trejeitos pra te excitar
+       E7               A7   B7                E (entra riff 1)
+Fiz roupinhas, me embonequei só pra te conquistar
+
+E  E7  A7  B7  E (2x + riff 1)
+uou uou uou uuhhh
+
+A                          Am            Am6 Am
+Eu preparei tudo, tudo que eu tinha a dizer
+     E             E7               E
+Que língua falar, aonde alizar, como me comportar
+F#
+Eu sabia tudo, tudo que eu tinha a fazer
+B7
+E só podia abafar
+
+
+solo estrambólico: F#  A#m  B  C#7
+
+
+F#                 F#7       B7   C#7         F#
+Ela gostou do meu jeito de falar dando um gemidinho
+       F#7          B7  C#7         F# (entra riff 2)
+Se amarrou no meu olhar e no meu beicinho
+
+F#  F#7  B7  C#7  F# (2x + riff 2)
+uou uou uou uuhhh
+
+F#     A#m        B              D7
+Eu fiz tudo direitinho deu tudo certo
+     F#                          A#m          B           C#7      F#
+Mas quem que eu vou ser, e o que eu vou fazer    quando a festa acabar
+
+A        Ab        G
+ UAUAUA    UAUAUA   UAUAUA
+
+F#  A#m  B  D  F#
+ooohhh
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#m = X 1 3 3 2 1
+A6 = 5 X 4 6 5 X
+A7 = X 0 2 0 2 0
+Ab = 4 3 1 1 1 4
+Am = X 0 2 2 1 0
+Am6 = 5 X 4 5 5 X
+B = X 2 4 4 4 2
+B6 = X 2 4 1 4 X
+B7 = X 2 1 2 0 2
+C#7 = X 4 3 4 2 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2
+G = 3 2 0 0 0 3

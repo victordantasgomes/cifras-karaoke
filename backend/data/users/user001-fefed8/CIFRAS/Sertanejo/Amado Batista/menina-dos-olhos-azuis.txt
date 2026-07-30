@@ -1,0 +1,57 @@
+@titulo: menina-dos-olhos-azuis
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Menina Dos Olhos Azuis
+
+(intro 2x)  C D G
+
+G
+Toda tarde as cinco horas
+                                D7
+Vou correndo pra escola só pra ver
+C         D7
+Uma menininha linda
+C            D7
+Dos cabelos cor de ouro
+G              D7
+Que me faz sofrer
+G
+Nela eu encontro tudo
+
+Nela eu faço meu mundo
+ G7           C
+Mas não posso nem falar
+                    G
+E ela nem mesmo percebe
+                      D7
+Que meus olhos se refletem
+                  G  G7
+No azul do seu olhar
+   C        D7      G  G7
+Menina dos olhos azuis
+   C        D7       G
+Menina dos olhos azuis
+  B7
+Você tem que entender
+            Em          C
+Que eu sou louco por você
+   Am       D7       G
+Menina dos olhos azuis
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

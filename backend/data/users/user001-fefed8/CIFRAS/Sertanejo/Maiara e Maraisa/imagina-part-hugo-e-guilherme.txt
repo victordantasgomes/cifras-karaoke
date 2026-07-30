@@ -1,0 +1,154 @@
+@titulo: imagina-part-hugo-e-guilherme
+@autor:
+@intérprete: Maiara e Maraisa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Maiara e Maraisa - Imagina (part. Hugo e Guilherme)
+
+Intro: C G Am F G C G Am F G
+
+Solo: E|------3-----3-------------------|
+      B|--------------------------------|
+      G|--4/5---4/5---5-5-4--2/4--------|
+      D|--------------5-5-5--3/5--------|
+      A|--------------------------------|
+      E|--------------------------------|
+
+      E|------3-----3-------------2-----------------|
+      B|----------------------2/4-------------------|
+      G|--4/5---4/5---3/5-5-4------4----0h2p0-------|
+      D|--------------3/5-5-5-----------------0h2p0-|
+      A|--------------------------------------------|
+      E|--------------------------------------------|
+
+    C                                   F
+Tá vendo esse cara aqui na sua frente
+               Am
+É melhor dar valor
+                                     F
+Ele é um dos poucos que quase não mente
+
+                                 C  G F
+Ele quer ser pai e se der tempo avô
+
+Dm                               F
+Um casal perfeito, cheio de defeitos
+                                C
+Aliança no dedo, sem medo de errar
+     G
+Imagina?
+
+              C/G
+Se o nosso filho for a sua cara
+              G
+Tiver os meus olhos e o seu nariz
+             Am               Am/G
+Se a nossa filha tiver seu sorriso
+          F
+Ah meu Deus, eu vou ser tão feliz
+              C/G
+Nas férias de janeiro, ir à uma praia
+              G
+Na de julho irmos a outro país
+             Am                     Am/G
+A gente vai pulando qualquer coisa chata
+     F                          C/G G Am F G
+Percebeu, a gente vai ser tão feliz
+
+Solo  E|------3-----3-------------------|
+      B|--------------------------------|
+      G|--4/5---4/5---5-5-4--2/4--------|
+      D|--------------5-5-5--3/5--------|
+      A|--------------------------------|
+      E|--------------------------------|
+
+      E|------3-----3-------------2-----------------|
+      B|----------------------2/4-------------------|
+      G|--4/5---4/5---3/5-5--------4----0h2p0-------|
+      D|--------------3/5-5-------------------0h2p0-|
+      A|--------------------------------------------|
+      E|--------------------------------------------|
+
+D A Bm G A
+
+Solo  E|------5-----5-------------------|
+      B|--------------------------------|
+      G|--6/7---6/7---7-7-6--4/6--------|
+      D|--------------7-7-7--5/7--------|
+      A|--------------------------------|
+      E|--------------------------------|
+
+      E|------5-----5-------------4-----------------|
+      B|----------------------4/6-------------------|
+      G|--6/7---6/7---5/7-7--------6----2h4p2-------|
+      D|--------------5/7-7-------------------2h4p2-|
+      A|--------------------------------------------|
+      E|--------------------------------------------|
+
+D                                    G
+Tá vendo essa mulher aqui na sua frente
+               Bm
+É melhor valorizar
+                              G                  A
+Ela quer ter filhos, é inteligente, ela é tão linda
+           D  A G
+E é pra casar
+
+Em                               G
+Um casal perfeito, cheio de defeitos
+                                D
+Aliança no dedo, sem medo de errar
+  A
+Imagina?
+
+              D/F#
+Se o nosso filho for a sua cara
+               A
+Tiver os meus olhos e o seu nariz
+             Bm               Bm/A
+Se a nossa filha tiver seu sorriso
+          G
+Ah meu Deus, eu vou ser tão feliz
+              D/F#
+Nas férias de janeiro, ir à uma praia
+              A
+Na de julho irmos a outro país
+             Bm                     Bm/A
+A gente vai pulando qualquer coisa chata
+     G                          D/F# A Bm G A D
+Percebeu, a gente vai ser tão feliz
+
+Solo  E|------5-----5-------------------|
+      B|--------------------------------|
+      G|--6/7---6/7---7-7-6--4/6--------|
+      D|--------------7-7-7--5/7--------|
+      A|--------------------------------|
+      E|--------------------------------|
+
+      E|------5-----5-------------4-----------------|
+      B|----------------------4/6-------------------|
+      G|--6/7---6/7---5/7-7--------6----2h4p2-------|
+      D|--------------5/7-7-------------------2h4p2-|
+      A|--------------------------------------------|
+      E|--------------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+C = X 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

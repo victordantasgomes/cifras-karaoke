@@ -1,0 +1,82 @@
+@titulo: renova-me
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Renova-me
+
+[Intro] D9  A/C#  G/B
+        D9  A/C#  G/B
+        Bm7  A9  G9  D/F#  Em  A9  D
+
+D                Em/D A/C#          D          A/C#
+ Senhor venha mudar,    mudar meus pensamentos, restaura
+         G/B   Em            A4 A
+Os meus sonhos, e meus sentimentos
+
+D              Em/D A/C#              D   A/C#
+ Vem encher o vaso,    é o que mais quero,  por onde
+         G/B Em              A4     A
+Tenho andado,  sempre estás por perto
+
+( D9  A/C#  G/B )
+( D9  A/C#  G/B )
+( Bm7  A9  G9  D/F#  Em  A9  D )
+
+D              Em/D A/C#              D   A/C#
+ Vem encher o vaso,    é o que mais quero,  por onde
+         G/B Em              A4     A
+Tenho andado,  sempre estás por perto
+
+
+        G     D/F#         G9        Em
+Renova-me senhor, venha curar as minhas
+   A               G      D/F#   Em   A
+Feridas, eu quero ser melhor, renova-me senhor
+
+[Solo] Bb  F/A  Bb  C  Bb  F/A  Gm7  C  D
+
+
+D                Em/D A/C#          D          A/C#
+ Senhor venha mudar,    mudar meus pensamentos, restaura
+         G/B   Em            A4 A
+Os meus sonhos, e meus sentimentos
+
+D              Em/D A/C#              D   A/C#
+ Vem encher o vaso,    é o que mais quero,  por onde
+         G/B Em              A4     A
+Tenho andado,  sempre estás por perto
+
+        G     D/F#         G9        Em
+Renova-me senhor, venha curar as minhas
+   A               G      D/F#   Em   A
+Feridas, eu quero ser melhor, renova-me senhor
+        G     D/F#         G9        Em
+Renova-me senhor, venha curar as minhas
+   A               G      D/F#   Em   A
+Feridas, eu quero ser melhor, renova-me senhor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+A9 = X 0 2 2 0 0
+Bb = X 1 3 3 3 1
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+F/A = 5 X 3 5 6 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G9 = 3 X 0 2 0 X
+Gm7 = 3 X 3 3 3 X

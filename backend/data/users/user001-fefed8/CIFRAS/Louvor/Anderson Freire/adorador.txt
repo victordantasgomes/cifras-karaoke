@@ -1,0 +1,80 @@
+@titulo: adorador
+@autor:
+@intérprete: Anderson Freire
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Anderson Freire - Adorador
+
+[Intro] E  D
+
+[Primeira Parte]
+
+E        E11          E  E11
+  Se tentarem me calar
+E         E11       E     A9
+  Porque sou adorador ôôô ôôô
+B9        C#m7     A9
+  Não vão conse__guir
+       E       B
+ O meu existir
+     C#m7        A
+ É ideia que surgiu em Ti
+
+[Segunda Parte]
+
+E        E11         E   E11
+  O Teu coração sentiu
+E      E11         E   A9
+  Tua mente elaborou ôôô ôôô
+
+B9     C#m       A9
+  O melhor pra mim
+       E B9       C#m   B      A
+  Meu DNA    é o san__gue carmesim
+
+[Refrão]
+
+             E       B9
+Não importa quem eu sou
+           C#m     A9
+Só importa quem Tu és
+              E       B
+Se pro mundo louco eu sou
+     C#m         A9
+Eu assumo esse amor
+
+             E       B9
+Não importa quem eu sou
+           C#m     A9
+Só importa quem Tu és
+              E       B9
+Se pro mundo louco eu sou
+     C#m         A9
+Eu assumo esse amor
+            E     B9
+Se tentarem me calar
+      F#m           A9             E
+Mesmo assim, Senhor, eu vou te adorar
+
+  A9   B9   A9
+Ohh ohh
+E  A9     F#m G#m B9 C#m
+Ohh ohh
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

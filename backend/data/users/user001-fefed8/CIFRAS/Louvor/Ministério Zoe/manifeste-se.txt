@@ -1,0 +1,78 @@
+@titulo: manifeste-se
+@autor:
+@intérprete: Ministério Zoe
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Zoe - Manifeste-se
+
+Intro 2x: D   E
+
+D                 E/D
+ Eu passei por um vale escuro
+ F#m             C#m
+ Onde a morte me cercou
+ Bm                       F#m
+ E a sombra das portas da morte
+                     Bm
+ No vale da sombra da morte
+D            E        E/D
+ Teu amor me alcançou
+D                 E/D
+ Eu me olhava no espelho e ia sumindo
+  F#m               C#m
+ Cada dia um pouco mais
+  Bm                    F#m                 Bm
+ Que você cresça e eu diminua era a minha oração
+                    D          E
+ Não sabia que doía tanto assim
+
+
+ A                                F#m
+ Pensei em ir embora mas resolvi ficar
+                    A
+ Pensei que estava esquecida
+                      Bm                             F#m
+ Mas como alguém que sabe quantos fios de cabelo eu tenho
+               D
+ Poderia me esquecer
+
+ F#m                 A           F#m7
+ Tens o controle de tudo nas mãos
+ A                     F#m                  D
+ Decidi abraçar tua vontade e lutar para ficar
+F#m                        D             E
+ Em tua alegria encontro forças para prosseguir
+ Bm                     F#m               D
+ E mesmo chorando por dentro eu vou sorrir
+
+ G                             D
+ Se é na minha fraqueza que o teu poder se aperfeiçoa
+A         E
+ Manifeste-se
+
+
+ G                             D
+ Se é na minha fraqueza que o teu poder se aperfeiçoa
+A        E
+Manifeste-se
+(G D A E)
+Manifeste se
+
+ FINAL: D  E/D  2X
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

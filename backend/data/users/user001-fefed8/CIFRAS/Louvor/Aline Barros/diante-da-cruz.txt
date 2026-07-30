@@ -1,0 +1,121 @@
+@titulo: diante-da-cruz
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Diante da Cruz
+
+Intro: D  A/C#  Bm7  Bm7/A  G  A9   G
+
+Primeira Parte:
+D/F#    G       A9 Bm7 D/F#   G     A9
+     Ó Deus me sondas,    conheces me
+D/F#         G     A9 Bm7 G         A9
+     Mesmo quando falho,  eu sei me amas
+D/F#    G      A9 Bm7  D/F#   G     A9
+     Estás presente,       a me cercar
+D/F#     G    A9 Bm7
+     Em todo tempo
+G         A9    G         A9
+Eu sei me amas, eu sei me amas
+
+Refrão:
+D                A/C#   Bm7
+ Prostro-me diante da cruz
+               Bm7/A   G
+Vejo o sangue de    Jesus
+                 A9
+Nunca houve amor assim
+
+D               A/C#  Bm7
+ Sobre a morte já venceu
+              Bm7/A  G
+Sua glória o céu encheu
+               A9
+Nada irá me separar
+
+( Em7  G  A9  Em7  G  A4  A9 )
+
+Segunda Parte:
+D    G        A9   D/F#       G   A9
+  Tu és meu guia,       meu protetor
+D/F#   G9     A9 Bm7  G         A9    G         A9
+  Tua mão me firma,   eu sei me amas, eu sei me amas
+
+Refrão 2x:
+D                A/C#   Bm7
+ Prostro-me diante da cruz
+               Bm7/A   G
+Vejo o sangue de    Jesus
+                 A9
+Nunca houve amor assim
+D               A/C#  Bm7
+ Sobre a morte já venceu
+              Bm7/A  G
+Sua glória o céu encheu
+               A9
+Nada irá me separar
+
+Ponte 2x:
+          G        A9      Bm7
+O véu rasgou, o caminho abriu
+      G    Bm7    A9
+Tudo consumado está
+
+D/F#  G     A9 Bm7  D/F#   G   A9  D/F#       G     A9    Bm7
+  E quando tudo,        se acabar,       estarei seguro
+ G          A9     G          A9
+Pois sei me amas, pois sei me amas
+
+Refrão:
+D                A/C#   Bm7
+ Prostro-me diante da cruz
+               Bm7/A   G
+Vejo o sangue de    Jesus
+                 A9
+Nunca houve amor assim
+D               A/C#  Bm7
+ Sobre a morte já venceu
+              Bm7/A  G
+Sua glória o céu encheu
+               A9
+Nada irá me separar
+
+E                B/D#   C#m7
+ Prostro-me diante da cruz
+               C#m7/B A
+Vejo o sangue de   Jesus
+                 B9
+Nunca houve amor assim
+E               B/D#  C#m7
+ Sobre a morte já venceu
+              C#m7/B    A
+Sua glória o céu    encheu
+               B9
+Nada irá me separar
+
+Final: A9  B9  A9  B9  A9  B9  E
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+A9 = X 0 2 2 0 0
+B/D# = X 6 X 4 7 7
+B9 = X 2 4 4 2 2
+Bm7 = X 2 4 2 3 2
+Bm7/A = 5 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+C#m7/B = 7 4 6 4 5 4
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G9 = 3 X 0 2 0 X

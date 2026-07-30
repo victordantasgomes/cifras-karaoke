@@ -1,0 +1,199 @@
+@titulo: ninguem-te-ama-como-eu
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Ninguem Te Ama Como Eu
+
+(versão 1)
+
+(intro) C G Am F Am G
+
+A             C#m          F#m
+ Tenho esperado este momento
+D             Bm        E      (E7)
+ Tenho esperado que viesses a mim
+A             C#m          F#m
+ Tenho esperado que me fales
+D             Bm         E      (E7)
+ Tenho esperado que estivesses assim
+
+A          C#m              F#m
+ Eu sei bem  que tens vivido
+D          Bm              E
+ Sei também que tens chorado
+A          C#m              F#m
+ Eu sei bem que tens sofrido
+D            Bm           E
+ Pois permaneço ao teu lado
+
+
+(refrão)
+           A  C#m      F#m
+Ninguém te ama como eu
+           D  Bm      E
+Ninguém te ama como eu
+           A
+Olhe pra cruz
+           C#m             F#m
+Esta é a minha grande prova
+           D   Bm     E
+Ninguém te ama como eu
+
+           A  C#m      F#m
+Ninguém te ama como eu
+           D  Bm      E
+Ninguém te ama como eu
+           A
+Olhe pra cruz
+          C#m           F#m
+Foi por ti porque te amo
+            D  Bm      E
+ Ninguém te ama como eu
+
+A          C#m           F#m
+ Eu sei bem o que me dizes
+D         Bm           E
+ Ainda que nunca me fales
+A           C#m               F#m
+ Eu sei bem o que tens sentido
+D          Bm            E
+ Ainda que nunca me reveles
+
+A            C#m         F#m
+ Tenho andado ao teu lado
+D          Bm         E
+ Junto a ti permanecido
+A          C#m           F#m
+ Eu te levo em meus braços
+D          Bm            E
+ Pois sou teu melhor amigo.
+
+(refrão)
+
+(intro) C G Am F Am G
+
+           A  C#m      F#m
+Ninguém te ama como eu
+           D  Bm      E
+Ninguém te ama como eu
+           A
+Olhe pra cruz
+           C#m             F#m
+Esta é a minha grande prova
+           D   Bm     E
+Ninguém te ama como eu
+
+           A  C#m      F#m
+Ninguém te ama como eu
+           D   Bm     E
+Ninguém te ama como eu
+           A
+Olhe pra cruz
+           C#m          F#m
+Foi por ti porque te amo
+            D  Bm      E
+ Ninguém te ama como eu
+
+(versão 2)
+
+F#m                       D
+  Tenho esperado este momento
+A                    E       (E7)
+ Tenho esperado que viesses a mim
+F#m                       D
+  Tenho esperado que me fales
+A                       E      (E7)
+ Tenho esperado que estivesses assim
+
+F#m                        D
+  Eu sei bem  que tens vivido
+A                        E
+ Sei também que tens chorado
+F#m                        D
+  Eu sei bem que tens sofrido
+A                       E
+ Pois permaneço ao teu lado
+
+(refrão)
+           A        F#m
+Ninguém te ama como eu
+           D        E
+Ninguém te ama como eu
+           A
+Olhe pra cruz
+                        F#m
+Esta é a minha grande prova
+           D        E
+Ninguém te ama como eu
+
+           A        F#m
+Ninguém te ama como eu
+           D        E
+Ninguém te ama como eu
+           A
+Olhe pra cruz
+                     F#m
+Foi por ti porque te amo
+            D        E
+ Ninguém te ama como eu
+
+F#m                     D
+  Eu sei bem o que me dizes
+A                    E
+ Ainda que nunca me fales
+F#m                          D
+  Eu sei bem o que tens sentido
+A                      E
+ Ainda que nunca me reveles
+
+F#m                     D
+  Tenho andado ao teu lado
+A                   E
+ Junto a ti permanecido
+F#m                     D
+  Eu te levo em meus braços
+A                      E
+ Pois sou teu melhor amigo.
+
+(refrão)
+           A        F#m
+Ninguém te ama como eu
+           D        E
+Ninguém te ama como eu
+           A
+Olhe pra cruz
+                        F#m
+Esta é a minha grande prova
+           D        E
+Ninguém te ama como eu
+
+           A        F#m
+Ninguém te ama como eu
+           D        E
+Ninguém te ama como eu
+           A
+Olhe pra cruz
+                     F#m
+Foi por ti porque te amo
+            D        E
+ Ninguém te ama como eu
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

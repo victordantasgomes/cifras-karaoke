@@ -1,0 +1,126 @@
+@titulo: entre-nos-dois
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nx Zero - Entre Nós Dois
+
+(intro 2x) E A C#m B
+
+E|---------------------------------------------------------------------------------------|
+B|---------------------------------------------------------------------------------------|
+G|13-13-13-11-11-13-13-13-14-14-14-14-14-14-14-14-13-13-13-13-13-13-13-13-13-13-13-13-13-|
+D|14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-14-|
+A|---------------------------------------------------------------------------------------|
+E|---------------------------------------------------------------------------------------|
+
+(base)
+
+E|-------------|
+B|---5---5-4---|
+G|--6-4-4------|  (2x) (riff 2)
+D|-6---6-------|
+A|-------------|
+E|-------------|
+
+(primeira parte)
+   C#m         E              A            B
+E|-4------------0--------------0------------2-----------|
+B|----5------------0-------------2------------4---------|
+G|------6-------------1------------2------------4-------|
+D|--------5-------------2------------2-----------4------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+
+Tem coisas que não dá pra esconder
+Que todo mundo vê
+Que se pegam pelo olhar e vive uma mentira
+Ou mentem pra viver como uma frustração
+Como uma saída
+
+B      F#m   C#m            E      A                B
+O tempo revela todas as respostas dentro de cada um
+
+(refrão)
+E               A               C#m               B
+Tem coisas em você que me fazem bem não sei por que
+
+Entre nós dois
+E                   A
+Sempre foi e sempre será assim
+        C#m                       B
+Cada vez mais(cada vez mais) te vejo em mim
+
+(riff 2)
+
+(primeira parte)
+Nem tudo é como a gente quer
+É como tem que ser
+Acho que só vou saber
+Mesmo como sou
+Quando perder pra sempre algo que realmente faz falta
+
+B     F#m   C#m       E
+O tempo revela todas as respostas
+A                  B
+dentro de cada um
+
+(refrão)
+E               A               C#m               B
+Tem coisas em você que me fazem bem não sei por que
+
+Entre nós dois
+E                   A
+Sempre foi e sempre será assim
+        C#m                       B
+Cada vez mais(cada vez mais) te vejo em mim
+
+(solo) C#m A E B
+
+E|------------------------------------------------------------------------------|
+B|------------------------------------------------------------------------------|
+G|-13-13-13/16-16-16-16-13-14-16-13-14-16--------------------------11/13/11-----|
+D|---------------------------------------13-14-16-13-14-16-11/13-14--------14-11|
+A|------------------------------------------------------------------------------|
+E|------------------------------------------------------------------------------|
+
+E|-----------------------------------|
+B|-----------------------------------|
+G|--------11/13/11-------------------|
+D|------14--------14-----------------|
+A|-14/16------------14-12/14/12-11---|
+E|--------------------------------12-|
+
+A                  B        C#m
+Não tem como esconder meu desejo (de te ter de novo)
+
+A                  B          C#m
+Tente ver em meus olhos o que sinto
+                 B
+(Vai além das palavras)
+A                B
+Preciso te dizer
+
+(refrão 2x)
+E               A                C#m             B
+Tem coisas em você que me fazem bem não sei por que
+
+Entre nós dois
+E                   A
+Sempre foi e sempre será assim
+        C#m                       B
+Cada vez mais(cada vez mais) te vejo em mim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

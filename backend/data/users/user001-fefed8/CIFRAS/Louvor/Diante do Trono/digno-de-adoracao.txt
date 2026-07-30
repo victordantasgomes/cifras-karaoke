@@ -1,0 +1,104 @@
+@titulo: digno-de-adoracao
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Digno de Adoração
+
+(intro) Am  C9  D9  E
+
+Am             C9
+Celebremos com júbilo ao nosso Deus
+G                D9
+Com danças e com brados de vitória
+F        G             Am G/B C9 D9
+Só Ele é digno de adoração
+Am7     Am9 Am   C9     Cmaj7   C
+Batendo palmas e entronizando o Rei
+Gsus4  G  Gsus4 D9/F#
+Procla-mando    Sua grandeza
+F        G              Am7 G/B C9 D9
+Só Ele é Deus em toda a terra      Digno de adoração
+F9            Dm9 Dm
+Em todas as nações
+                 Am  G Am  ( A B C D E D )
+Levantamos o Teu nome,
+  Am G Am
+Yehoshua
+G             Am
+Digno de adoração
+
+F9            Dm9 Dm
+Em todas as nações
+                 Am  G Am  ( A B C D E D )
+Levantamos o Teu nome,
+  Am G Am
+Yehoshua
+G
+Digno de adoração
+(intro)
+(solo) F Dm  C C/Bb Bb C F Dm C G
+
+         Am7             F/A           Am7   G/A
+Ao que está assentado no trono e ao cordeiro
+     Am7              F/A                 Am7  G/A
+O louvor a honra, a glória e o poder para sempre
+
+         Am7             F              C9    G9
+Ao que está assentado no trono e ao cordeiro
+     Am7            F                     C9      G9
+O louvor a honra, a glória e o poder para sempre  (2x)
+
+         Am7     Fmaj7 C9      G6 Dm7 G6/B C9    Dm7
+Ao que está assentado  no trono e ao  cor- deiro
+     Fmaj7 G6        Am7   G/B  C9  G/D  C/E    Fmaj7
+O louvor a honra, a  glória e o poder para sempre
+
+F9            Dm
+Em todas as nações
+                    C
+Levantamos o Teu nome,
+   G
+Yehoshua
+G
+Digno de adoração (2x)
+
+(final) F Dm C9 Am G F Dm C Am G Am
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am9 = X 0 2 4 1 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C/Bb = X 1 2 0 1 X
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Cmaj7 = X 3 2 0 0 X
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+D9/F# = 2 X 0 2 3 0
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Dm9 = X 5 7 9 6 5
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F9 = 1 3 5 2 1 1
+Fmaj7 = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G6 = 3 X 2 4 3 X
+G6/B = 7 5 5 7 5 X
+G9 = 3 X 0 2 0 X
+Gsus4 = 3 5 5 5 3 3

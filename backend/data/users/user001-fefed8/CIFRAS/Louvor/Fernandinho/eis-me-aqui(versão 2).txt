@@ -1,0 +1,57 @@
+@titulo: eis-me-aqui(versão 2)
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Eis-me Aqui
+
+introduçao:Bm G D/F# A/C#  (4X)
+
+e|----------------------------------------------------------------------------------------|  
+B|-14/15--14------14/15--14-------15/17--15-------17/19--17-------------------------------|   
+G|-----------14--------------14--------------14---------------14--------------------------|  
+D|----------------------------------------------------------------------------------------|   
+A|----------------------------------------------------------------------------------------|   
+E|----------------------------------------------------------------------------------------|  
+
+
+
+Bm           G                 D/F#     A
+  Quero morrer pra mim mesmo
+Bm           G              D     A/C#
+  Quero levar a minha cruz
+G            D/F#        Bm    A
+   coisas velhas ja passaram
+G           D/F#               A/C#
+   vou seguir ao meu Jesus
+
+             Bm
+Eis me aqui
+
+               G             D/F#                A
+eu quero ser afim de Deus, afim de Deus
+            Bm
+Eis me aqui
+                G             D/F#              A/C#
+eu quero ser afim de Deus, afim de Deus
+
+
+               F#m      Bm                   F#m   Bm
+Arder em tua presença de dia, e de noite,
+   G           A                  D
+estar a serviço do meu Deus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

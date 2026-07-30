@@ -1,0 +1,123 @@
+@titulo: primeiro-amor
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Primeiro Amor
+
+Primeira Parte:
+  A               A7M
+Quero voltar ao inicio de tudo
+       A7                D
+Encontrar me contigo Senhor
+  Bm                 Bm7/4
+Quero rever meus conceitos, valores
+     Bm7          E4 E
+Eu quero reconstruir
+ F#m                F#m7m
+Vou regressar ao caminho
+               A6/E          B7
+Vou ver as primeiras obras, Senhor
+D                   A/C#
+Eu me arrependo Senhor
+                 Bm7
+Me arrependo Senhor
+        Bm/A     E4 E7
+Me arrependo Senhor
+
+Refrão:
+
+     A                 A  G#4  F#m7 E
+Eu quero voltar ao primeiro    am---or
+       F°      F#m
+Ao primeiro  amor
+          D     E7 A   D/A
+Eu quero voltar a Deus
+
+     A    D/A  A         A  E/G#   F#m E
+Eu quero vol--tar ao primeiro      am--or
+       F°      F#m
+Ao primeiro  amor
+          D     E A   D/A  E/A  D/A
+Eu quero voltar a Deus
+
+Primeira Parte:
+  A               A7M
+Quero voltar ao inicio de tudo
+       A7                D
+Encontrar me contigo Senhor
+  Bm                 Bm7/4
+Quero rever meus conceitos, valores
+     Bm7          E4 E
+Eu quero reconstruir
+ F#m                F#m7m
+Vou regressar ao caminho
+               A6/E          B7
+Vou ver as primeiras obras, Senhor
+D                   A/C#
+Eu me arrependo Senhor
+                 Bm7
+Me arrependo Senhor
+        Bm/A     E4 E7
+Me arrependo Senhor
+
+Refrão 2x:
+     A                 A  G#4  F#m7 E
+Eu quero voltar ao primeiro    am---or
+       F°      F#m
+Ao primeiro  amor
+          D     E7 A   D/A
+Eu quero voltar a Deus
+
+     A    D/A  A         A  E/G#   F#m E
+Eu quero vol--tar ao primeiro      am--or
+       F°      F#m
+Ao primeiro  amor
+          D     E A   D/A  E/A  D/A
+Eu quero voltar a Deus
+
+(Solo)
+
+Refrão:
+     A                 A  G#4  F#m7 E
+Eu quero voltar ao primeiro    am---or
+       F°      F#m
+Ao primeiro  amor
+          D     E7 A   D/A
+Eu quero voltar a Deus
+
+     A    D/A  A         A  E/G#   F#m E
+Eu quero vol--tar ao primeiro      am--or
+       F°      F#m
+Ao primeiro  amor
+          D     E A   D/A  E/A  D/A
+Eu quero voltar a Deus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A6/E = X X 2 2 2 2
+A7 = X 0 2 0 2 0
+A7M = X 0 2 1 2 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+Bm7 = X 2 4 2 3 2
+Bm7/4 = 7 X 7 7 5 X
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F° = X X 3 4 3 4
+G#4 = 4 6 6 6 4 4

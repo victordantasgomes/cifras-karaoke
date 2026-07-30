@@ -1,0 +1,68 @@
+@titulo: lenha
+@autor:
+@intérprete: Rionegro e Solimões
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rionegro e Solimões - Lenha
+
+intro: B D A E E4 E (repete 2X)
+
+E            B
+Eu não sei dizer, 
+             A       
+o que quer dizer  
+               E   E4   E   
+o que eu vou dizer
+          B        
+eu amo você        
+               A
+mas não sei o que 
+            E  E4  E 
+isso quer dizer
+               B
+Eu não sei por que,
+              A
+eu teimo em dizer
+          E  E4  E
+que amo você
+                B  
+se eu não sei dizer
+             A
+o que quer dizer
+               E  E4  E
+o que eu vou dizer
+           B
+Se eu digo pare
+           A
+você não repare
+             E      E4  E
+no que possa parecer
+           B
+Se eu digo siga
+                  A
+o que quer que eu diga
+             E       E4  E
+você não vai entender
+               B   
+Mas se eu digo venha       |
+            A              |
+você traz a lenha          |  Refrão 2X 
+             E      E4  E  | 
+pro meu fogo acender       |
+E              B
+Eu não sei por que....
+
+Refrão 2X
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0

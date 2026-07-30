@@ -1,0 +1,10 @@
+@titulo: das-coisas-que-eu-entendo
+@autor:
+@intérprete: Nenhum de Nós
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:

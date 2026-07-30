@@ -1,0 +1,132 @@
+@titulo: cheia-de-vida
+@autor:
+@intérprete: Charlie Brown Jr
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Charlie Brown Jr. - Cheia de Vida
+
+Riff 1:2x
+E|--------------------------------------13b14----|
+B|-------------14-14-14----------11-11-----------|
+G|-------11-11----------13-13-13-----------------|
+D|-13-13-----------------------------------------|
+A|-----------------------------------------------|
+E|-----------------------------------------------|
+
+Riff 2:                                                                          2x
+E|--13-13-11-11-9-9-------11-11-9-9----------------------------------------------|----------------------------|
+B|------------------11-11-----------11-11-9-9-11-11-9-9-----------9h11-9---------|----------------------------|
+G|------------------------------------------------------11-11-8-8-9----9--10h11-8|---15-13h15p13-11-------11--|
+D|-------------------------------------------------------------------------------|13----------------13-15---13|
+A|-------------------------------------------------------------------------------|----------------------------|
+E|-------------------------------------------------------------------------------|----------------------------|
+
+Riff principal 1:
+      D#5             F#5             C#5             B5
+E|------------------------------------------------------------------|
+B|------------------------------------------------------------------|
+G|-8-----8-----8---11----11----11-----------------------------------|
+D|-8-----8-----8---11----11----11--11----11----11--9-----9-----9----|
+A|-6-6-6-6-6-6-6-6-9-9-9-9-9-9-9-9-11----11----11--9-----9-----9----|
+E|---------------------------------9-9-9-9-9-9-9-9-7-7-7-7-7-7-7-7--|
+
+
+
+Variação 1 do Riff principal 1:
+      D#5             F#5             C#5             B5
+E|------------------------------------------------------------------|
+B|------------------------------------------------------------------|
+G|-8-8-8-8-8-8-8-8-1111111111111111---------------------------------|
+D|-8-8-8-8-8-8-8-8-111111111111111111111111111111119-9-9-9-9-9-9-9--|
+A|-6-6-6-6-6-6-6-6-9-9-9-9-9-9-9-9-11111111111111119-9-9-9-9-9-9-9--|
+E|---------------------------------9-9-9-9-9-9-9-9-7-7-7-7-7-7-7-7--|
+
+
+Riff 3:
+      D#5             F#5              ( C#5 D#5 B5 )
+E|----------------------------------|----------|
+B|----------------------------------|----------|
+G|-8-8-8-8-8-8-8-8-1111111111111111-|----------|
+D|-8-8-8-8-8-8-8-8-1111111111111111-|-11-13-9--|
+A|-6-6-6-6-6-6-6-6-9-9-9-9-9-9-9-9--|-11-13-9--|
+E|----------------------------------|-9--11-7--|
+
+Refrão:
+      D#5   C#5   B5   ( B5 )
+E|--------------------------|
+B|--------------------------|
+G|-888888666666444444444444-|
+D|-888888666666444444444444-|
+A|-666666444444222222222222-|
+E|--------------------------|
+
+D5             F5 C5                    Bb5
+Atenção rapaziada a dona do sorriso mais lindo vai passar
+D5                  F5                       C5             Bb5
+E quando ela passar eu não quero ver ninguém perdendo a linha
+D5                 F5               C5 Bb5
+Ela vem com o seu sorriso estonteante.
+D5                     F5
+Dona de um andar que é só dela
+C5                      Bb5
+E com uma personalidade única
+
+{Refrão}
+       D5           C5 Bb5
+Você é tão cheia de vida
+                        D5  C5 Bb5
+Que ninguém resiste a você
+       D5           C5 Bb5
+Você é tão cheia de vida
+                       D5 C5 Bb5
+Que ninguém resiste a você
+
+D5                         F5                      C5                    Bb5
+Quando você encontra uma pessoa, que te faz esquecer tudo, que te faz tão bem
+D5     F5                      C5 D5 Bb5
+Seja qualquer problema e você nem lembra
+D5                         F5                      C5                   Bb5
+Quando você encontra uma pessoa, que te faz esquece tudo, que te faz tão bem
+D5     F5                      C5 D5 Bb5   C5  D5 Bb5
+Seja qualquer problema e você nem lembra.. nem lembra.
+
+D5                       F5
+Eu quero que você fique segura
+             C5                       Bb5
+Fazer amor contigo na minha cama ou na sua
+                  D5                  F5
+E uma dose muito forte não vai ser suficiente
+                  C5                   Bb5
+Me sinto mais em casa quando você está presente
+
+Então,
+     D5               F5                       C5                   Bb5
+Fica mais, fica mais um pouco, porque muito de você pra mim ainda é pouco
+           D5              F5       C5      D5     Bb5 (deixa soar)
+Então fica mais fica mais um pouco, você me deixa muito louco
+
+{Refrão}
+       D5           C5 Bb5
+Você é tão cheia de vida
+                        D5  C5 Bb5
+Que ninguém resiste a você
+       D5           C5 Bb5
+Você é tão cheia de vida
+                       D5 C5 Bb5
+Que ninguém resiste a você
+
+----------------- Acordes -----------------
+B5*  = X 2 4 4 X X - (*A#5 na forma de B5)
+Bb5*  = X 1 3 3 X X - (*A5 na forma de Bb5)
+C#5*  = X 4 6 6 X X - (*C5 na forma de C#5)
+C5*  = X 3 5 5 X X - (*B5 na forma de C5)
+D#5*  = X 6 8 8 X X - (*D5 na forma de D#5)
+D5*  = X 5 7 7 X X - (*C#5 na forma de D5)
+F#5*  = 2 4 4 X X X - (*F5 na forma de F#5)
+F5*  = 1 3 3 X X X - (*E5 na forma de F5)

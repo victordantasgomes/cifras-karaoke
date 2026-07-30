@@ -1,0 +1,103 @@
+@titulo: meu-futuro(versão 2)
+@autor:
+@intérprete: Thalles Roberto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Thalles Roberto - Meu Futuro
+
+A     B                C#m7
+Olho para o meu futuro,
+A          B              G#m   C#m7
+Simplesmente vejo a mão de Deus,
+F#m                  B
+Mas nada, mas nada,
+A     B               C#m7
+Como será meu amanhã,
+A          B            G#m C#m7
+Eu só tenho uma garantia,
+F#m                B
+É Deus, e mais nada,
+A
+Quando o céu escuro,
+                             G#m/E
+Traz a tempestade escondo,
+A
+Eu sei muito bem,
+                                 G#m/E
+A força do Deus que eu sirvo,
+   A                                             G#m/E
+Uma ordem dele faz do que não é possível,
+
+F#m                    B
+Mais um milagre, a minha vida é um milagre,
+                        E
+Quem anda com Deus,
+                  E/C#
+Não vive por si só,
+E/D                                  A
+É cuidado como criança de colo,
+B
+Que nos braços fortes do pai,
+                        G#m       C#m7
+Descansa no aconchego do amor,
+F#m
+Assim sou eu,
+B
+O meu futuro é teu,
+A
+Quando o céu escuro,
+                             G#m/E
+Traz a tempestade escondo,
+A
+Eu sei muito bem,
+                                 G#m/E
+A força do Deus que eu sirvo,
+   A                                             G#m/E
+Uma ordem dele faz do que não é possível,
+F#m                    B
+Mais um milagre, a minha vida é um milagre,
+                        E
+Quem anda com Deus,
+                  E/C#
+Não vive por si só,
+E/D                                 A
+É cuidado como criança de colo,
+B
+Que nos braços fortes do pai,
+                        G#m       C#m7
+Descansa no aconchego do amor,
+F#m                 B
+Assim sou eu, assim é
+            E
+Quem anda com Deus,
+                  E/C#
+Não vive por si só,
+E/D                                  A
+É cuidado como criança de colo,
+B
+Que nos braços fortes do pai,
+                        G#m       C#m7
+Descansa no aconchego do amor,
+F#m
+Assim sou eu,
+B
+O meu futuro é teu,
+E
+O meu futuro é.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E/C# = X 4 2 1 0 0
+E/D = X 5 X 4 5 4
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4
+G#m/E = 0 6 6 4 4 4

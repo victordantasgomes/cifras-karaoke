@@ -1,0 +1,153 @@
+@titulo: sete-mares
+@autor:
+@intérprete: Matheus e Kauan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Matheus e Kauan - Sete Mares
+
+Intro:
+      D             A9       Em            G
+E|----------------------|-----------------------|
+B|---------------8-7--|---------------8-7---|
+G|-7h9p7h9p7h9p7----9-|-7h9p7h9p7h9p7-------7-|
+D|----------------------|-----------------------|
+A|----------------------|-----------------------|
+E|----------------------|-----------------------|
+
+      D             A9       Em            G
+E|----------------------|---------------|
+B|---------------7h8-7--|---------------|
+G|-7h9p7h9p7h9p7------9-|-7h9p7h9p7h9p7-|
+D|----------------------|---------------|
+A|----------------------|---------------|
+E|----------------------|---------------|
+
+ D                                  A9
+Já naveguei o sete mares atrás de você
+                                         Em
+Eu viajei o mundo inteiro e não te encontrei
+
+                               G
+Me dê algum sinal, onde você está?
+
+Eu passo dia, eu passo noites, a te procurar
+
+ D
+Eu resolvi ir pra um lugar bem distante
+ A9
+Me afastar da multidão que está me sufocando
+ Em
+E se nesse caminho eu não te encontrar
+ G
+Eu entro em desespero, cadê o seu olhar?
+
+ A                 G
+E todo dia quando eu acordo
+ D                   A
+Olho pro lado e o silêncio vem e me traz você
+                   G
+Reviro as fotos e me bate o medo
+ D                  A                   C
+E a incerteza será que um dia eu vou te ver? iê, iê..
+
+ D                 Em
+E toda noite antes de dormir
+ G                   A
+Peço pra uma estrela me guiar até você
+ D                Em
+E juro que nunca vou desistir
+ G                      A
+O amor que eu sinto é o que me faz sobreviver
+
+ D                 Em
+E toda noite antes de dormir
+ G                   A
+Peço pra uma estrela me guiar até você
+ D                Em
+E juro que nunca vou desistir
+ G                      A
+O amor que eu sinto é o que me faz sobreviver
+Solo:
+      D             A9       Em            G
+E|---------------------|-------------------|
+B|---------------8-7---|---------------8-7-|
+G|-7h9p7h9p7h9p7-----9-|-7h9p7h9p7h9p7-----|
+D|---------------------|-------------------|
+A|---------------------|-------------------|
+E|---------------------|-------------------|
+
+     A                   G                    D                        A
+E|---------------------------|-10p9-7-----------------|
+B|--------8h10-10/12/10------|--------10-8-7h8--10-10-|
+G|-----9----------------8-8--|------------------------|
+D|-7h9-----------------------|------------------------|
+A|---------------------------|------------------------|
+E|---------------------------|------------------------|
+
+A                 G
+E todo dia quando eu acordo
+ D                   A
+Olho pro lado e o silêncio vem e me traz você
+                   G
+Reviro as fotos e me bate o medo
+ D                  A                   C
+E a incerteza será que um dia eu vou te ver? iê, iê..
+
+ D                 Em
+E toda noite antes de dormir
+ G                   A
+Peço pra uma estrela me guiar até você
+ D                Em
+E juro que nunca vou desistir
+ G                      A
+O amor que eu sinto é o que me faz sobreviver
+
+ D                 Em
+E toda noite antes de dormir
+ G                   A
+Peço pra uma estrela me guiar até você
+ D                Em
+E juro que nunca vou desistir
+ G                      A
+O amor que eu sinto é o que me faz sobreviver
+    D                 Em    G                A                  D
+E|-----------------------|-------------------------|-------10---10-10-10---|
+B|-----------------------|-----8--8/7------10-8-10-|-10/12---10------------|
+G|-----7--7/6-----9p7-9--|-7h9--------9-7----------|-----------------------|
+D|-7h9--------9-7--------|-------------------------|-----------------------|
+A|-----------------------|-------------------------|-----------------------|
+E|-----------------------|-------------------------|-----------------------|
+
+D                 Em
+E toda noite antes de dormir
+ G                   A
+Peço pra uma estrela me guiar até você
+ D                Em
+E juro que nunca vou desistir
+ G                      A
+O amor que eu sinto é o que me faz sobreviver
+
+ D                 Em
+E toda noite antes de dormir
+ G                   A
+Peço pra uma estrela me guiar até você
+ D                Em
+E juro que nunca vou desistir
+ G                      A                         (D)
+O amor que eu sinto é o que me faz sobreviver
+
+Já naveguei o sete mares atrás de você...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

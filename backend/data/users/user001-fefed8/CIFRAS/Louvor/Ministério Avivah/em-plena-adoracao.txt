@@ -1,0 +1,66 @@
+@titulo: em-plena-adoracao
+@autor:
+@intérprete: Ministério Avivah
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Avivah - Em Plena Adoração
+
+[Intro]  D/F#  Fm6  C/E  Am7  Bb7M  Dm  F/G  Fm6/G
+
+     C            G/B    G/A       A7(b9)
+Em plena adoração Eu quero me achegar
+     F               C/E      Dm7     F/G  Fm6/G
+Quebranta o meu coração Aqui neste altar
+
+    C                  G/B       G/A       A7(b9)
+Me rendo aos teus pés Te entrego o meu louvor
+      F               C/E            Dm7       F/G
+E as lágrimas que eu derramar Só tu podes enxugar
+
+C/E         F9           C/E
+    E se a resposta não vier
+    Dm7           C/E
+Continuarei a te louvar
+ F             C/E
+Pois sei que quando tu quiseres
+Dm7   F/G
+A benção chegará
+
+
+C/E         F            C/E
+    E se a resposta não vier
+ Dm7     G     Gm7
+Continuarei a te   louvar
+ C7            F             C/E
+Pois sei que quando tu quiseres
+           Bb7M   F/G
+A benção chegará
+
+[Final]  F  C/E  Dm7  F/G  C/E  Eb7M(9)  Em7  F  F/G  Fm6/G  C
+
+----------------- Acordes -----------------
+A7(b9) = 5 X 5 3 2 X
+Am7 = X 0 2 0 1 0
+Bb7M = X 1 3 2 3 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Eb7M(9) = X 6 5 7 6 X
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F/G = 3 X 3 2 1 X
+F9 = 1 3 5 2 1 1
+Fm6 = 1 X 0 1 1 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+Gm7 = 3 X 3 3 3 X

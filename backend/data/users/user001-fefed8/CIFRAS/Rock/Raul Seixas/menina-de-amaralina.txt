@@ -1,0 +1,61 @@
+@titulo: menina-de-amaralina
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Menina de Amaralina
+
+[Intro] E  C#m  A  B7  E  C#m  A  B7
+
+  E C#m A B7      E  C#m A
+Menina    de Amaralina
+                B7
+Eu quero o seu amor
+  E   C#m A
+Menina
+B7         E   C#m A
+Oh, menina linda
+            B7
+Volte por favor
+
+E    G     C    D
+Aaaaaaai menina
+               G   B7
+Eu quero lhe rever
+E   G     C    D
+aaaaaai menina
+                 G Bm
+Sou louco por você
+
+
+               Em    A
+Agora a praia chora
+               D  Bm
+Querendo lhe rever
+                G   A
+Nem mais a lua quer
+                  B E
+Lá no céu aparecer
+
+  C#m  A B7      E   C#m A
+Menina   de Amaralina
+            B7  E C#m A B7
+Volte por favor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

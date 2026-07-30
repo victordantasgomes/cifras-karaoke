@@ -1,0 +1,113 @@
+@titulo: vem-me-consolar
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Vem Me Consolar
+
+Intro: C9 D Em7 Bm7 C9 D Em7 D/F# G Am7 G D/F# G Bm7 C9 Em7 D/F# G
+
+E|--------------------5-7-8-7-5-------7-5------7-2-----| 
+B|-5-7-8---5-5-7-8-------------------0---8-8----3-8-8--|
+G|--------7-----------------------7-5------------------|
+D|-----------------------------------------------------| 
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+  G        D/F#      Em7/9
+Lembra-te de mim        B|-----3-1-0---
+                 C     G/B    Am7    D      E|--2-0--
+Toca-me agora e sararei
+G          D/F#    Em7/9
+Lembra-te de mim
+                      C        G/B          Am7
+Passa os teus dedos nos meus olhos
+           D             G D/F#  Em7/9
+Vem me consolar
+                        C G/B Am7  D         B7
+Vem me consolar
+
+      B/Eb    Em7   C          G
+O meu coração está tão aflito
+        D           Am7(9)          B7
+Vem me acalmar
+      B/Eb       Em7
+Em meu coração
+       C        G
+Há um deserto
+         D         Am7(9)        C/D
+Vem me saciar
+                        G D/F#   Em7/9
+Vem me consolar
+                        C G/B  Am7
+Vem me consolar
+      DSUS D     G D/F#  Em7/9
+Vem me consolar
+                        C G/B  Am7    D
+Vem me consolar
+
+1ªvez ( introdução )
+
+2ªvez( G D/F#  Em7/9  C G/B Am7 D
+
+  SOLO do violão e do contra-baixo em Em7/9
+
+A|-2-^-5-2-----3-----------|
+E|----------5-3------------|
+
+G D/F# Em7/9
+
+                        C G/B  Am7
+Vem me consolar
+          D           G D/F# Em7/9
+Vem me consolar
+                        C G/B Am7
+Vem me consolar
+          D        G D/F# Em7/9
+Vem me saciar
+                     C G/B Am7
+Vem me saciar
+          D             G D/F# Em7/9
+Vem me confortar
+                          C G/B Am7
+Vem me confortar
+         D            G D/F#  Em7/9
+Vem me dar calor
+                        C G/B Am7
+Vem me dar calor
+
+         D            G D/F# Em7/9
+Vem me consolar
+                       C G/B Am7    D
+vem me consolar
+
+Final: Am7 G D/F# G  G/B C9 C9 Em7 D G G
+
+E|-8-7-5----7-5-----7-2--------|
+B|-----------0---8-8---3--8-8--| 
+G|-------7-5-------------------|  
+D|-----------------------------| 
+A|-----------------------------|
+E|-----------------------------|
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Am7(9) = X X 7 5 8 7
+B/Eb = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em7 = 0 2 2 0 3 0
+Em7/9 = X 7 5 7 7 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

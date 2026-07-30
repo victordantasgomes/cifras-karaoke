@@ -1,0 +1,110 @@
+@titulo: nem-me-lembro-mais
+@autor:
+@intérprete: Detonautas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Detonautas - Nem Me Lembro Mais
+
+[Intro]  Am  C  G  Am
+
+
+E|--------------------------------|-----------------------------|
+B|--------------------------------|-----------------------------|
+G|--2-4---2-----------------------|-2-4---2---------------------|
+D|-------5---2-5--2----------0----|-----5---2-5--2----------0---|
+A|------------------0000-0-3---0--|----------------0000-0-3---0-|
+E|--------------------------------|-----------------------------|
+
+[Riff 1]
+
+         C7+           G
+E|------------|--------------|
+B|--------0---|----------0---|
+G|------0-----|--------0-----|
+D|----2-------|------0-------|
+A|--3---------|----2---------|
+E|------------|--3-----------|
+
+ Am
+Nem me lembro mais quando te conheci
+
+ C7+
+Tanto tempo faz que já mudamos nossa forma de agir
+ G
+Só me lembro bem, do preço do seu olhar
+   Am                                 G  Am
+E hoje me desfaço desse traço sem pensar
+
+ Am
+Não quero esquecer, nenhum detalhe seu
+  C7+
+Provo pra você, minha memória é maior eu acho que cresceu
+ G
+Tenho a solução para essa falta de consideração
+   Am                                           G
+Viver intensamente, novamente cada situação em paz
+ G        Am                G   Am
+Sempre e sempre em paz, em paz sempre em paz
+
+  C           G
+Pronto pra viver
+              D
+Como ninguém mais
+ Am              C
+Tudo é melhor assim
+
+              G
+Pronto pra viver
+              D
+Quando tanto faz
+ Am              C7M  Em  D  Am
+Sem permitir um fim
+
+[Riff 2]
+
+E|--------------|------------------------|-----------------|
+B|--------------|------------------------|-----------------|
+G|--------------|--12-10-9---------------|-----------------|
+D|-----9-10-9---|----------12-10-9-------|----9-10-9-------|
+A|--12----------|------------------12-10-|--12-------------|
+E|--------------|------------------------|-------------(5)-|
+
+ Am
+Não quero esquecer, nenhum detalhe seu
+  C7+
+Provo pra você, minha memória é maior eu acho que cresceu
+ G
+Tenho a solução para essa falta de consideração
+   Am                                           G
+Viver intensamente, novamente cada situação em paz
+ G        Am                G   Am
+Sempre e sempre em paz, em paz sempre em paz
+
+  C           G
+Pronto pra viver
+              D
+Como ninguém mais
+ Am              C
+Tudo é melhor assim
+
+              G
+Pronto pra viver
+              D
+Quando tanto faz
+ Am              C7M  Em  D  C  Em  D
+Sem permitir um fim
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+C7M = X 3 2 0 0 X
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

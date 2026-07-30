@@ -1,0 +1,60 @@
+@titulo: em-tua-presenca
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Em Tua Presença
+
+(intro) Bm7  G7M(9)     Em7(9)   G(addd9)/A
+
+Bm7
+Eu quero ouvir
+      G7M(9)      Em7(9)
+tua voz falando comigo
+                      G(addd9)/A
+que preciso ouvir
+Bm7                    G7M(9)
+Quero sentir teu poder,
+         Em7(9)           G7M(9)
+o fogo que arde em meu coração
+   Em7(9)    Bm7
+Preciso te sentir, ó, Pai
+   Em7(9)         Bm7
+tocar na orla das tuas vestes
+   Em7(9)   F#m7
+Eu quero ser curado
+      G7M(9) A/G
+Sei que serei
+        G7M(9)              D/F#
+Em tua presen               ça,
+
+ F#sus       F#      Bm7
+tua presen          -     ça
+       
+Em tua presen               ça,
+      Em7(9) A/G
+tua presença
+        G7M(9)              D/F#
+Em tua presen               ça,
+ F#sus       F#      Bm7
+tua presen          -     ça
+       
+Em tua presen               ça,
+      Em7(9) A/G
+tua presença
+
+----------------- Acordes -----------------
+A/G = 3 X 2 2 2 X
+Bm7 = X 2 4 2 3 2
+D/F# = 2 X 0 2 3 2
+Em7(9) = X 7 5 7 7 X
+F# = 2 4 4 3 2 2
+F#m7 = 2 X 2 2 2 X
+F#sus = 2 4 4 3 2 2
+G7M(9) = 3 2 4 2 X X

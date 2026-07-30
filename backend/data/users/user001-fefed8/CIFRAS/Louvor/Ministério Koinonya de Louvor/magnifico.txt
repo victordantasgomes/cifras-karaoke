@@ -1,0 +1,58 @@
+@titulo: magnifico
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - Magnífico
+
+Intro: E D A/C# 4x
+
+    E        A/C#   E        B9
+Magnífico és tu, maravilhoso és 
+    E        A/C#    E       B9
+Magnífico és tu, maravilhoso és
+      F#m        G#m          A           B9
+Toda terra será cheia de tua glória óh Senhor 2 vezes (na 2x C#m)
+F#m            C#m            D              A/C#
+  Quão grandes são os teus sinais, quão poderosos são
+F#m      G#m         A         B9   
+  De geração em geração dominarás
+
+  E            A/C#  E             B9
+Quão grande és tu, quão grande és tu   2x
+E D A/C#                   E D A/C#
+         Quão grande és tu
+
+Santificado...
+ E       A/C#  E       B9    C
+Santo és tu, Santo és tu 2x  
+ F       Bb/D  F       C9    D
+Santo és tu, Santo és tu 2x
+ G       C/E  G       D9
+Santo és tu, Santo és tu 3x
+
+Final: G F C/E                       G F G
+               Quão grande és tu 3x
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+B9 = X 2 4 4 2 2
+Bb/D = X 5 X 3 6 6
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

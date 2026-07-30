@@ -1,0 +1,58 @@
+@titulo: crente-nao-morre-na-praia
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Crente Não Morre Na Praia
+
+Intro: D, Bm, D, Bm, G, A, D, D, Bm, D, Bm, C, Bm, A
+
+D                     Bm    G          A         D
+Crente não morre na praia, mesmo se o barco afundar
+ D                    Bm               C Bm A C Bm A
+Crente não morre na praia, ele sabe nadar,    nadar
+D                 Bm         G     A         D
+Ele não olha pra fúria, pra fúria do grande mar
+D                 Bm               C Bm A  C Bm A
+Ele só olha pra Cristo que sabe salvar,    salvar
+
+G7                           D7
+Quando ele cansa ele sabe boiar
+G7                             D7
+Enquanto ele boia ele sabe louvar
+G7                              D7
+Enquanto ele louva ele sente a mão
+G7                          B7  E
+Que o tira do mar e o faz voar
+
+Dm    Bb       C       Dm
+Voa, voa, por cima do mar
+
+Dm                Bb      C          Dm
+Voa por cima dos montes até Sião chegar
+
+
+1º SOLO: AS MESMAS NOTAS DA INTRODUÇÃO
+
+2º SOLO: Dm, Bb, C, Dm } 2 VEZES
+
+FINAL: Dm, Bb, C, Dm 2 VEZES
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

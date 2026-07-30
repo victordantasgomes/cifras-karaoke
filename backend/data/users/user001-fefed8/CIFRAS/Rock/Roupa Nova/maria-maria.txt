@@ -1,0 +1,68 @@
+@titulo: maria-maria
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Maria, Maria
+
+INTR: (B A G#m G)
+
+
+Maria, Maria é um dom, uma certa magia
+
+Uma força que nos alerta
+
+Uma mulher que merece viver e amar
+
+Como outra qualquer do planeta
+
+   B             F#/A#    F#/A        E
+Maria, Maria é o som, é a cor, é o suor
+     C         B    F#/A# F#
+É a dose mais forte e lenta
+ G#m    F#        E                  A
+De uma gente que ri quando deve chorar
+      G#m   G        B      intr.
+E não vive, apenas agüenta
+
+ B                 F#/A#      F#/A      E
+Mas é preciso ter força, é preciso ter raça
+
+      C         B  F#/A# F#
+É preciso ter gana sempre
+ G#m          F#      E
+Quem traz no corpo a marca
+        A       G#m   G             B
+Maria, Maria mistura a dor e a alegria
+ B               F#/A#        F#/A        E
+Mas é preciso ter manha, é preciso ter graça
+      C         B  F#/A# F#
+É preciso ter sonho sempre
+  G#m        F#       E
+Quem traz a fé nessa marca
+             A       G#m G            B
+Possui a estranha mania de ter fé na vida
+
+
+Mas é preciso ter força...
+
+Mas é preciso ter manha...
+
+Ah-Eh / Ah-Eh-Ah-Ah-Eh...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#/A = X 0 4 3 2 X
+F#/A# = 6 X 4 6 7 X
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

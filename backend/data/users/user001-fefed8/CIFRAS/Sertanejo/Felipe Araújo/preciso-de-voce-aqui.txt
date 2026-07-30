@@ -1,0 +1,53 @@
+@titulo: preciso-de-voce-aqui
+@autor:
+@intérprete: Felipe Araújo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Felipe Araújo - Preciso de Você Aqui
+
+F#           C#                   D#m
+Sabe aquele amor que nós vivemos?
+             B
+Não pode acabar assim
+F#                C                       D#m
+Se algum medo consumir você por dentro
+                  B
+Lembre que eu estou aqui
+
+G#m           F#                C#
+Guardei o melhor de mim pra você
+G#m           F#               C#
+Não vou suportar ficar sem te ter
+
+         F#
+Preciso de você aqui
+              D#m
+pra esquecer tudo que eu perdi
+            B
+Vou sempre te amar
+      F#         C#
+te abraçar cada dia
+
+           F#
+Todo esse amor está em mim,
+          D#m                       A#m
+não vou deixar, que acabe assim.
+            B
+Vou cuidar de você,
+     F#             C#                 F#
+te merecer, e pra sempre ao seu lado viver.
+
+----------------- Acordes -----------------
+A#m = X 1 3 3 2 1
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+D#m = X X 1 3 4 2
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

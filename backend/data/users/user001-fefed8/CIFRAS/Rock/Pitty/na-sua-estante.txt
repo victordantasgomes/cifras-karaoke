@@ -1,0 +1,154 @@
+@titulo: na-sua-estante
+@autor:
+@intérprete: Pitty
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Pitty - Na Sua Estante
+
+Afinação Drop D: D  A  D  G  B  E
+
+Introdução: D5  B5/D  D5  B5/D
+
+(Riff da Introdução)
+
+E|-----16--17------14-----------------------16--17----|
+B|-15----------15-----------------------15------------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+
+Primeira Parte:
+
+D5
+   Te vejo errando e isso não é pecado
+   B5/D
+Exceto quando faz outra pessoa sangrar
+ D5
+Te vejo sonhando e isso dá medo
+
+    B5/D
+Perdido num mundo que não dá pra entrar
+D5
+   Você está saindo da minha vida
+B5/D
+     E parece que vai demorar
+    D5
+Se não souber voltar ao menos mande notícias
+   B5/D
+Cê acha que eu sou louca
+
+Mas tudo vai se encaixar
+A5
+   Tô aproveitando cada segundo
+
+Antes que isso aqui vire uma tragédia
+
+
+Refrão:
+
+G5                        A5
+   E não adianta nem me procurar
+   D5      A/C#    B5
+Em outros timbres, outros risos
+G5                   A5
+   Eu estava aqui o tempo todo
+      B5        (Riff 1)
+Só você não viu
+G5                        A5
+   E não adianta nem me procurar
+   D5      A/C#    B5
+Em outros timbres, outros risos
+G5                   A5
+   Eu estava aqui o tempo todo
+      B5
+Só você não viu
+
+( G5  A5  Bb5  A5 )
+
+Riff 1:
+
+E|----------------------------------------------------|
+B|----------------------------------------------------|
+G|-7\6--7--9--12--11--6--7----------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+(Adaptação)
+E|----------------------------------------------------|
+B|----------------------------------------------------|
+G|--------------9---12---11---------------------------|
+D|-12-11---12-----------------11---12-----------------|
+A|----------------------------------------------------|
+E|-------9----9---9----9----9----9--------------------|
+
+
+Segunda Parte:
+
+   D5
+Você tá sempre indo e vindo, tudo bem
+B5/D
+     Dessa vez eu já vesti minha armadura
+   D5
+E mesmo que nada funcione
+        B5/D
+Eu estarei de pé, de queixo erguido
+   D5
+Depois você me vê vermelha e acha graça
+       B5/D
+Mas eu      não ficaria bem na sua estante
+A5
+   Tô aproveitando cada segundo
+
+Antes que isso aqui vire uma tragédia
+
+
+Refrão:
+
+G5                        A5
+   E não adianta nem me procurar
+   D5      A/C#    B5
+Em outros timbres, outros risos
+G5                   A5
+   Eu estava aqui o tempo todo
+      B5        (Riff 1)
+Só você não viu
+G5                        A5
+   E não adianta nem me procurar
+   D5      A/C#    B5
+Em outros timbres, outros risos
+G5                   A5
+   Eu estava aqui o tempo todo
+      B5
+Só você não viu
+
+
+Final:
+
+ G5               A5           B5
+Só por hoje não quero mais te ver
+ G5                    A5             B5
+Só por hoje não vou tomar minha dose de você
+    G5              A5               B5
+Cansei de chorar feridas que não se fecham
+
+Não se curam
+G5                    A5        B5
+   E essa abstinência uma hora vai passar
+
+----------------- Acordes -----------------
+A/C# = X 4 7 X X X
+A5 = P7 7 7 X X X
+B5 = X 2 4 4 X X
+B5/D = 0 2 4 X X X
+Bb5 = P8 8 8 X X X
+D5 = 0 0 0 X X X
+G5 = P5 5 5 X X X

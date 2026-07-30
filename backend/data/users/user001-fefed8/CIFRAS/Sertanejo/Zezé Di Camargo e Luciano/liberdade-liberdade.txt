@@ -1,0 +1,50 @@
+@titulo: liberdade-liberdade
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Liberdade, Liberdade
+
+Intro: E7 Am D7 G Am D7 G D7
+
+    G
+  Qualquer dia eu pego a estrada
+
+  Sem destino sem parada
+                                              D7
+  Peito aberto, chuva ou sol de noite ou madrugada
+   C
+  Vou por onde o vento me tocar
+   G
+  Vou soltar as asas pra voar
+                              D7
+  Liberdade, liberdade pra sonhar
+  C
+  Solidão não vai me impedir
+  G
+  Tenho mil razões para sorrir
+                              D7
+  Liberdade, liberdade pra seguir
+     Am            C        G
+  Os sonhos que sonhei pra mim
+
+
+     D7
+  Sonhei, sonhei
+                           G
+  Assim ninguém sonhou, sonhei, sonhei
+                      D7           C  D7  G
+  Como ninguém amou, amei, amei, amei,  amei
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D7 = X X 0 2 1 2
+E7 = 0 2 2 1 3 0
+G = 3 2 0 0 0 3

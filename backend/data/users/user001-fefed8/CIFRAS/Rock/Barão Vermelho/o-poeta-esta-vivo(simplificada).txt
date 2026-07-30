@@ -1,0 +1,143 @@
+@titulo: o-poeta-esta-vivo(simplificada)
+@autor:
+@intérprete: Barão Vermelho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Barão Vermelho - O Poeta Está Vivo
+
+Intro: Dm7  Dm7/C
+
+Primeira Parte:
+ Dm7
+Baby, compra o jornal
+             F9
+E vem ver o sol
+Gm7                 Bb5(9)
+Ele continua a brilhar
+    D
+Apesar de tanta barbaridade...
+ Dm7
+Baby escuta o galo cantar
+F9
+   A aurora dos nossos tempos
+
+Gm7               Bb5(9)
+Não é hora de chorar
+       D
+Amanheceu o pensamento...
+
+
+Segunda Parte:
+Bb5(9)               C9
+       O poeta está vivo
+           D9(11)
+Com seus moinhos de vento
+Bb5(9)            C9
+       A impulsionar
+                      D9(11)
+A grande roda da história...
+
+Refrão:
+      Eb7M                 Dm7
+Mas quem tem coragem de ouvir
+       Eb7M       Dm7
+Amanheceu o pensamento
+     Bb5(9)         C9
+Que vai mudar o mundo
+                     D7
+Com seus moinhos de vento...
+
+(Primeira Parte com variação na letra)
+ Dm7
+Se você não pode ser forte
+F9
+   Seja pelo menos humana
+          Gm7                   Bb5(9)
+Quando o papa e seu rebanho chegar
+             D9(11)
+Não tenha pena...
+ Dm7
+Todo mundo é parecido
+        F9
+Quando sente dor
+     Gm7             Bb5(9)
+Mas nú e só ao meio dia
+               D9(11)
+Só quem está pronto pro amor...
+
+(Segunda Parte com variação na letra)
+Bb5(9)                C9
+         O poeta não morreu
+          D9(11)
+Foi ao inferno e voltou
+Bb5(9)                C9
+         Conheceu os jardins do Éden
+   D9(11)
+E nos contou...
+
+Refrão:
+      Eb7M                 Dm7
+Mas quem tem coragem de ouvir
+       Eb7M       D7
+Amanheceu o pensamento
+     Bb5(9)         C9
+Que vai mudar o mundo
+                     Dm7
+Com seus moinhos de vento...
+
+      Eb7M                 Dm7
+Mas quem tem coragem de ouvir
+       Eb7M       D7
+Amanheceu o pensamento
+     Bb5(9)         C9
+Que vai mudar o mundo
+                     Dm7
+Com seus moinhos de vento...
+
+Solo: Dm7  F9  Bb5(9)  Gm7  Bb5(9)  D
+
+Bb5(9)              C9
+       O poeta não morreu
+          D9(11)
+Foi ao inferno e voltou
+Bb5(9)              C9
+       Conheceu os jardins do Éden
+   D9(11)
+E nos contou...
+
+Refrão:
+      Eb7M                 Dm7
+Mas quem tem coragem de ouvir
+       Eb7M       D7
+Amanheceu o pensamento
+     Bb5(9)      C9
+Que vai mudar o mundo
+                     Dm7
+Com seus moinhos de vento...
+
+      Eb7M                 Dm7
+Mas quem tem coragem de ouvir
+       Eb7M       D7
+Amanheceu o pensamento
+     Bb5(9)      C9
+Que vai mudar o mundo
+                     Dm7
+Com seus moinhos de vento...
+
+----------------- Acordes -----------------
+Bb5(9) = X 1 3 3 1 1
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+D9(11) = X 5 4 0 3 0
+Dm7 = X X 0 2 1 1
+Dm7/C = X 3 0 2 1 1
+Eb7M = X X 1 3 3 3
+F9 = X X 3 2 1 3
+Gm7 = 3 5 3 3 3 3

@@ -1,0 +1,87 @@
+@titulo: deixa-queimar
+@autor:
+@intérprete: Gabriela Rocha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gabriela Rocha - Deixa Queimar
+
+[Intro] F#   C#/F  D#m7   B9
+
+F#              C#/F       D#m7
+  Ouvi o meu Senhor bater na porta
+     B9               F#
+E o meu coração queimou
+          C#/F          D#m7
+Ouvi o meu Senhor bater na porta
+     B9               F#
+E o meu coração queimou
+
+              C#/F
+Eu não vou parar
+      D#m7                     B9
+Gastarei minha vida aos teus pés
+F#              C#/F
+ Eu não vou parar
+      D#m7                     B9
+Gastarei minha vida aos teus pés
+
+F#
+  Larará larararará
+
+C#/F
+  Larará larararará
+D#m7                 B9
+  Larará larararará
+F#
+  Larará larararará
+C#/F
+  Larará larararará
+D#m7                 B9
+  Larará larararará
+
+F#                                 C#/F
+ Eu tenho fogo cerrado em meu peito
+                  D#m7                   B9
+Que não me dá descanso eu não tenho descanso
+F#                                 C#/F
+ Eu tenho fogo cerrado em meu peito
+                  D#m7                   B9
+Que não me dá descanso eu não tenho descanso
+
+F#
+  Deixa queimar, deixa queimar
+C#/F
+  Deixa queimar, deixa queimar
+D#m7                           B9
+  Deixa queimar, deixa queimar
+F#
+  Deixa queimar, deixa queimar
+C#/F
+  Deixa queimar, deixa queimar
+D#m7                           B9
+  Deixa queimar, deixa queimar
+
+F#
+  Larará larararará
+C#/F
+  Larará larararará
+D#m7                 B9
+  Larará larararará
+F#
+  Larará larararará
+C#/F
+  Larará larararará
+D#m7                 B9
+  Larará larararará
+
+----------------- Acordes -----------------
+B9 = X 2 4 4 2 2
+C#/F = X 8 X 6 9 9
+D#m7 = X X 1 3 2 2
+F# = 2 4 4 3 2 2

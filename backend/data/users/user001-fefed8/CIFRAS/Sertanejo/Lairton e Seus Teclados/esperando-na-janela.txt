@@ -1,0 +1,97 @@
+@titulo: esperando-na-janela
+@autor:
+@intérprete: Lairton e Seus Teclados
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lairton - Esperando Na Janela
+
+Intro:   B7  E  B7  E
+
+(introdução)
+---------------------------------------------------
+-----7--------------10-10-9-9-7-7---9--------------
+---9---9-------6------------------9-9--------------
+-9---------6h9---9---9------9---9------------------
+---------------------------------------------------
+---------------------------------------------------
+
+---------------------------------------------------
+-----7--------------10-10-9-9-7-7------------------
+---9---9-------6------------------9-9--------------
+-9---------6h9---9---9------9---9---6--------------
+---------------------------------------------------
+---------------------------------------------------
+
+E                             B7
+ Ainda me lembro do seu caminhar
+                                    E
+Do seu jeito de olhar eu me lembro bem
+                             B7
+Fico querendo sentir o seu cheiro
+                         E
+E daquele jeito que ela tem
+                            B7
+O tempo todo eu fico feito tonto
+                               E
+Sempre procurando mas ela não vem
+                         B7
+Esse aperto no fundo do peito
+                                    E
+Desses que o sujeito não pode aguentar
+                             B7
+Esse aperto aumenta o meu desejo
+                                   E   A  E
+E eu não vejo a hora de poder lhe falar
+
+(primeira parte)
+
+---------------------------------------------------
+------10-9-----------------------------------------
+--9---------9--10----------------------------------
+------7--6-----------------------------------------
+--7---------7--8-----------------------------------
+---------------------------------------------------
+
+(refrão)
+
+---------------------------------------------------
+--------------------------------------10--9--------
+-----------------------------------9---------9--10-
+-------2-1---------4----------2-1-----7---6--------
+-----4-----------6---7------4------7---------7--8--
+-2h5---------4h7--------2h5------------------------
+
+Fº                          F#m
+   Por isso eu vou na casa dela
+B7                       G#m7         C#m7
+   Falar do meu amor pra ela, ai, ai
+                    F#m
+Tá me esperando na janela
+B7                     E
+  Não sei se vou me segurar
+
+Fº                          F#m
+   Por isso eu vou na casa dela
+B7                       G#m7         C#m7
+   Falar do meu amor pra ela, ai, ai
+                    F#m
+Tá me esperando na janela
+B7                     E  A E
+  Não sei se vou me segurar
+
+introdução:
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+Fº = X X 3 4 3 4
+G#m7 = 4 X 4 4 4 X

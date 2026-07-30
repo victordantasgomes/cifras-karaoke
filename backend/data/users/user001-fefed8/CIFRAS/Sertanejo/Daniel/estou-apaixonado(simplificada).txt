@@ -1,0 +1,76 @@
+@titulo: estou-apaixonado(simplificada)
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Estou Apaixonado
+
+Intro: C F G C F C
+
+          C
+ Quero beber o mel de sua boca
+          F
+ Como se fosse uma abelha rainha
+             G                                      C F C
+ Quero escrever na areia tua história junto com a minha
+
+ E no acorde doce da guitarra
+           F
+ Tocar as notas do meu pensamento
+          G                                     C F
+ Em cada verso traduzir as fibras do meu sentimento
+
+C            F
+ Estou apaixonado
+G                     C E
+ E este amor é tão grande
+Am            F
+ Estou apaixonado
+
+              G                C F C
+ E só penso em você a todo instante
+
+
+ Eu quero ser o ar que tu respira
+           F
+ Eu quero ser o pão que te alimenta
+           G                                           C F C
+ Eu quero ser a água que refresca, o vinho que te esquenta
+
+ E se eu cair que caia em teu abraço
+           F
+ Se eu morrer, que morra de desejo
+        G                                        C F
+ Adormecer dizendo que te amo e te acordar com beijo
+
+C             F
+ Estou apaixonado
+G                     C E
+ E este amor é tão grande
+Am            F
+ Estou apaixonado
+              G                C E
+ E só penso em você a todo instante
+
+Am               D                 G
+ Quero sair contigo em noite enluarada
+              E                F
+ Dois adolescentes pela madrugada
+              G                   C F C
+ Pra viver a vida sem pensar em nada
+
+ (refrão)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

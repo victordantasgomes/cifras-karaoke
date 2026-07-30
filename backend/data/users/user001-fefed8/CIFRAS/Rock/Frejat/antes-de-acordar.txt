@@ -1,0 +1,59 @@
+@titulo: antes-de-acordar
+@autor:
+@intérprete: Frejat
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Frejat - Antes de Acordar
+
+{Intro:} G5 Am
+
+Am               Am/G        D/F#
+Antes de abrir os olhos, devagar
+Am             Am/G        D/F#
+Antes do meu corpo espreguiçar
+Dm                 A7    Dm
+Antes de pular da cama e escovar os dentes
+F                  E            Am  E G
+Antes do primeiro pensamento decente
+
+Que palavras eu direi quando minha boca se abrir
+Que sentimentos no meu coração passarão a existir
+Com quem eu sonhava, profundamente, antes de acordar
+Quando as idéias começaram a embaralhar
+
+           Em               Am          B7
+E se eu escolher que na fogueira queimarei
+          Em                  B7/D#        Dº
+Se eu voltar pra cama e me enrolar nos lençois
+             Am              B7       Em Em/D
+Se eu encontrar o gesto certo e me mover
+
+            Am            B7      Em
+Se eu me jogar pela janela e não morrer
+
+Antes do leite com café eu derramar
+Antes de me demorar nos jornais
+Antes de sentir o mundo preso na garganta
+Antes de saber que não adianta
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+B7 = X 2 1 2 0 2
+B7/D# = X X 1 2 0 2
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Dº = X X 0 1 0 1
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X

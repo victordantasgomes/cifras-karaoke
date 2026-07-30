@@ -1,0 +1,66 @@
+@titulo: ave-maria(simplificada)
+@autor:
+@intérprete: Chitãozinho & Xororó
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Chitãozinho & Xororó - Ave Maria
+
+  A  D/A  E7  A
+A|-----ve Mari--- a
+F#m             B7
+Mãe Abençoada
+E7                   A
+Virgem imaculada
+F#m          B7             E7
+És santa semente do amor
+     Bb°             Bm7
+Maria, Mãe de Deus
+Bm7/5-           A7+
+És cheia de graça
+D             Bm7
+Santo é o fruto
+            E7          A7+
+Do teu ventre Jesus
+  Em7   A7      D
+A|------ve Maria
+Eb°         Am
+Ave   Maria
+Bm7
+Maria
+
+E7            A
+Que concebeu o amor
+Bm7              E7
+Em Cristo nosso Senhor
+Eb°             A
+Madre generosa
+                 B7              E7
+Rogai por nós os pecadores
+
+Mãe querida
+A7  D
+Amém
+  E7  A
+A|--mém.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+A7+ = X 0 2 1 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+Bb° = X 1 2 0 2 0
+Bm7 = X 2 4 2 3 2
+Bm7/5- = X 2 3 2 3 X
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+E7 = 0 2 2 1 3 0
+Eb° = X X 1 2 1 2
+Em7 = 0 2 2 0 3 0
+F#m = 2 4 4 2 2 2

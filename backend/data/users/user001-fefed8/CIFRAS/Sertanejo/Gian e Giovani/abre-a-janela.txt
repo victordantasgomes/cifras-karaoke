@@ -1,0 +1,51 @@
+@titulo: abre-a-janela
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Abre A Janela
+
+Intro: F C G C (2x)
+
+                C                    G
+Abre a janela amor, vem me ouvir cantar
+                                      C
+Abra o seu coração e deixa o amor entrar  (2x)
+
+       C                       G
+É madrugada eu não dormi até agora
+                                     C
+Isso é paixão, é solidão que me maltrata
+                     C7         F               |
+Saí disposto pra ir onde você mora              | 2x
+
+          G                     C               |
+E expressar o meu amor em serenata              |
+
+(Refrão) (Intro)
+
+
+*         C                            G
+Eu quero ver o vento soprar em seus cabelos
+
+                                  C
+Abre a janela pelo menos pra me olhar
+                         C7           F        |
+Se não abrir não vou deixar você dormir        | 2x
+            G                      C           |
+Eu fico aqui e canto até o Sol raiar           |
+
+(Refrão)  (Intro)  (Volta*)
+(Refrão 2x) (Intro 1x)
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

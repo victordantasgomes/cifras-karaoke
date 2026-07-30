@@ -1,0 +1,54 @@
+@titulo: ja-posso-escutar
+@autor:
+@intérprete: Harpa Cristã
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Harpa Cristã - Já Posso Escutar
+
+[Intro] G  Am7/G
+        G  Am7/G
+        G  Am7/G
+        G  Am7/G
+        G  Am7/G
+        G  Am7/G
+        G  Am7/G
+        C7  C#7  D7
+
+   G  Am7/G       B          Em
+Já posso escutar o exército de Deus
+    Am             D
+Marchando sobre a terra
+    D#        D     G   ( C7  C#7  D7 )
+Em plano de guerra vai
+
+  G  Am7/G               B         Em
+Já ouço o louvor que é a arma de vitória
+
+   Am          D
+O exército de Deus
+
+   Am          D
+O exército de Deus
+   Am          D   D#
+O exército de Deus
+
+     D    ( G  Am7/G )
+Marchando vai
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7/G = 3 0 2 0 1 0
+B = X 2 4 4 4 2
+C#7 = X 4 3 4 2 X
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

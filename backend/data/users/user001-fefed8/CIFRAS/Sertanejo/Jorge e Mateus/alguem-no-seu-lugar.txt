@@ -1,0 +1,55 @@
+@titulo: alguem-no-seu-lugar
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Alguém No Seu Lugar
+
+Intro 2x: B Abm C#m E F# B
+
+B             F#/A#   Abm
+Chega eu não quero mais
+             E                     F#
+Ficar te esperando, pra mim tanto faz
+B               F#/A#          Abm
+Chega, um longo tempo se passou
+                E                F#
+É hora da despedida desse nosso amor
+E       C#m          E
+É um absurdo você achar
+              F#
+Que é dona de mim
+E         C#m
+Tá tudo errado
+           E                 F#
+Amor bagunçado , eu não to afim
+
+B    F#/A#        Abm
+Ah, eu quero ver
+
+         E
+Você chorar
+B/D#          C#m            F#           B
+Minha felicidade é outro alguém no seu lugar
+ F#/A#      Abm       E
+Pago pra ver, você olhar
+           B/D#      C#m             F#           B
+Ver que eu já to em outra e eu não quero mais te amar
+
+(Refrão 2x)
+(Intro 2x)
+
+----------------- Acordes -----------------
+Abm = 4 6 6 4 4 4
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X

@@ -1,0 +1,139 @@
+@titulo: do-seu-lado
+@autor:
+@intérprete: Jota Quest
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jota Quest - Do Seu Lado
+
+Intro 8x: D5(9)
+
+ D5(9)    Am7         C9       G   G/F# D5(9)
+La    La La La La La La La La La La  La
+ D5(9)  Am7     C9    G/B      D5(9)
+La La La La La La La La La La La La
+
+Primeira parte:
+     D5
+Faz muito tempo, mas eu me lembro
+                  A5
+você implicava comigo
+     C5
+Mas hoje vejo que tanto tempo
+       G5    F#5+  D5
+me deixou  muito  mais calmo
+   D5
+O meu comportamento egoísta
+                    A5
+Seu temperamento difícil
+   C5                     B5+
+Você me achava meio esquisito
+
+                   D5
+Eu te achava tão chata
+
+Segunda parte:
+     C9                   G/B
+Mas tudo que acontece na vida
+                        D5(9)
+tem um momento e um destino
+
+   C9                    G/B
+Viver é uma arte, é um ofício,
+                   D5(9)
+Só que precisa cuidado
+     C9                        G/B
+Pra perceber que olhar só pra dentro
+                 D5(9)
+É o maior desperdício
+        Em9        G7M          D5(9)
+O teu amor pode estar do seu lado
+
+Refrão:
+    D5(9)     Am7       C9  G G/F#  D5(9)
+O amor é o calor que aquece a       alma
+              Am7          C9     G/B D5(9)
+O amor tem sabor pra quem bebe a sua  água
+
+( D5(9) ) (3x)
+
+(primeira parte com variação na letra)
+   D5
+E hoje mesmo eu quase não lembro
+                 A5
+Que já estive sozinho
+        C9              B5+
+que um dia seria seu marido,
+           G5 F#5+  D5
+Seu príncipe  encantado
+
+     D5
+Ter filhos, nosso apartamento
+                  A5
+Fim de semana no sítio
+   C5
+ir ao cinema to do domingo
+                    D5
+Só com você ao meu lado
+
+Segunda parte:
+     C9                   G/B
+Mas tudo que acontece na vida
+                        D5(9)
+tem um momento e um destino
+
+   C9                    G/B
+Viver é uma arte, é um ofício,
+                   D5(9)
+Só que precisa cuidado
+     C9                        G/B
+Pra perceber que olhar só pra dentro
+                 D5(9)
+É o maior desperdício
+        Em9        G7M          D5(9)
+O teu amor pode estar do seu lado
+
+Refrão:
+    D5(9)     Am7       C9  G G/F#  D5(9)
+O amor é o calor que aquece a       alma
+              Am7          C9     G/B D5(9)
+O amor tem sabor pra quem bebe a sua  água
+
+( D5(9) ) (8x)
+
+ D5(9)    Am7         C9       G5   G/F# D5(9)
+La    La La La La La La La La La La  La
+ D5(9)  Am7     C9    G/B      D5(9)
+La La La La La La La La La La La La
+
+Refrão:
+    D5(9)     Am7       C9  G G/F#  D5(9)
+O amor é o calor que aquece a       alma
+              Am7          C9     G/B D5(9)
+O amor tem sabor pra quem bebe a sua  água
+    D5(9)     Am7       C9  G G/F#  D5(9)
+O amor é o calor que aquece a       alma
+              Am7          C9     G/B G  G/F# C9 D9(11)
+O amor tem sabor pra quem bebe a sua  água
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+Am7 = X 0 2 0 1 0
+B5+ = X 2 1 0 0 X
+C5 = X 3 5 5 X X
+C9 = X 3 5 5 3 3
+D5 = X 5 7 7 X X
+D5(9) = X 5 7 9 X X
+D9(11) = X 5 4 0 3 0
+Em9 = 0 2 4 0 0 0
+F#5+ = 2 5 4 3 2 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/F# = X X 4 4 3 3
+G5 = 3 5 5 X X X
+G7M = 3 X 4 4 3 X

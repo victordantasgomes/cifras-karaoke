@@ -1,0 +1,94 @@
+@titulo: a-procura-de-uma-flor
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - A Procura de Uma Flor
+
+F                       C           Dm
+Feito uma abelha procurando mel de flor em flor
+                 Gm           Bb        C
+Andei por tantos caminhos procurando um grande amor
+F                    C         Dm
+Mas não vou perder a minha esperança
+           Gm          Bb            C
+Pois quem crê no amor procura e não se cansa
+   Bb             Bbm       C      Am        Dm
+Em algum lugar do mundo eu sei que vou encontrar
+   Gm             C                F  F7
+Alguém assim feito eu, que queria amar
+   Bb            Bbm       C      Am      Dm
+Em algum lugar do mundo eu sei que vou encontrar
+   Gm             C                F   F7
+Alguém assim feito eu, que queria amar
+
+     Bb         C
+Tô carente de um beijo
+     A7         Dm
+Tô querendo uma paixão
+
+       Gm         C           F                 F7
+Pode ser que seja hoje, também pode ser que não
+       Bb                     C
+Mas se hoje eu encontrar alguém
+      A7            Dm
+Que o meu coração gostar
+        Gm              C               F      F7
+A esse alguém vou me entregar, vou me entregar  (2x)
+
+   Bb             Bbm       C      Am        Dm
+Em algum lugar do mundo eu sei que vou encontrar
+   Gm            C                 F  F7
+Alguém assim feito eu, que queria amar
+   Bb            Bbm       C      Am        Dm
+Em algum lugar do mundo eu sei que vou encontrar
+   Gm           C            F         F7
+Alguém assim feito eu, que queria amar
+
+     Bb         C
+Tô carente de um beijo
+     A7         Dm
+Tô querendo uma paixão
+       Gm          C           F                F7
+Pode ser que seja hoje, também pode ser que não
+       Bb                     C
+Mas se hoje eu encontrar alguém
+      A7              Dm
+Que o meu coração gostar
+        Gm              C                F    G
+A esse alguém vou me entregar, vou me entregar
+     C           D
+Tô carente de um beijo
+     B7          Em
+Tô querendo uma paixão
+     Am          D               G             G7
+Pode ser que seja hoje, também pode ser que não
+     C                   D
+Mas se hoje eu encontrar alguém
+      B7           Em
+Que o meu coração gostar
+         Am              D                G
+A esse alguém vou me entregar, vou me entregar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+Bb = X 1 3 3 3 1
+Bbm = X 1 3 3 2 1
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F7 = 1 3 1 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

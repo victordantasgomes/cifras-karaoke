@@ -1,0 +1,81 @@
+@titulo: o-teu-amor
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - O Teu Amor
+
+(intro) A9  A/C#  D Bm7  E     A9  A/C#   D  Dm
+
+             A9  E/A                                 D/A
+O Teu amor   é   maior que o meu pecado
+            A/C#  D                         E4          E
+O Teu amor é mais forte que a minha dor
+            Bm7                   A/C#      D
+O Teu amor demonstrado no Calvário
+              D/F#                                   E/G#
+Vai mais além do que eu possa imaginar
+
+             A9  E/A                              D/A
+O Teu amor    quebra todas as correntes
+           A/C#  D                                        E4          E
+O Teu amor    toca quem ninguém quer mais tocar
+           Bm7                       A/C#       D
+O Teu amor que venceu a própria morte
+               D/F#                                  E/G#     (D/F#  E)
+Vai mais além do que eu possa imaginar
+
+              A9                               A/C#
+O Teu amor, Senhor Jesus, não tem limites
+
+                 D                E4    E/D
+É incomparável, irresistível
+                 C#m7                               E/G#
+Ninguém é mais o mesmo ao se encontrar contigo
+                    G     D/F#         E4    E  1. A9  A/C#  D  Bm7  E  A9
+És incomparável,       irresistível           A9  A/C#  G  D/B  E/G#             (última vez)
+
+      C#m7                                                                                        F#m      E/G#   A         Bm    A/C#
+Ninguém tem maior amor                                                 O Teu amor,  Senhor Jesus, não tem limites
+E/G#        C#m7        D                                                                      D                E4   E/D
+Dar a vida pelo pecador                                                    É incomparável, irresistível
+   C#m7  Bm7                    A/C#      D                                                C#m7     D                           E      F#m
+O  Teu   amor demonstrado no Calvário                           Ninguém é mais o mesmo ao se encontrar contigo
+              D/F#                                  E/G#  (D/F#  E)                           G      D/F#        E4     E
+Vai mais além do que eu possa imaginar                          És incomparável,        irresistível
+     C#m7
+Ninguém tem maior amor                                                  (final) G  C  F  A
+E/G#          A  C#m7 D
+Dar a vida pelo pecador
+   C#m7  Bm7                       A/C#       D
+O  Teu    amor que venceu a própria morte
+               D/F#                                   E/G#  (D/F#  E)
+Vai mais além do que eu possa imaginar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/B = X 2 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

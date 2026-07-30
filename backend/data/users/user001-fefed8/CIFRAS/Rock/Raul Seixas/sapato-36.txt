@@ -1,0 +1,82 @@
+@titulo: sapato-36
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Sapato 36
+
+Solo Intr.
+
+E|----------------------12-12-10------------ 
+B|--------------12-10------------9---12-10-- 
+G|-13-13-11-13b----------------------------- 
+
+E|-12-12-14-16b---12- 
+B|------------------- 
+G|------------------- 
+
+
+Intro: E G A E G A E
+
+E         D    A    E
+    Eu calço é 37
+           D   A   E
+Meu pai me dá  36
+            D     A     E
+dói, mas no dia seguin..te
+  G     A           E
+Aperto o meu pé outra vez
+
+    G       A          E
+Eu aperto o meu pé outra vez
+           D          A     E
+Pai, eu já   tô crecidinho
+          D           A      E
+Paque pra ver, que eu apos...to
+      D         A      E
+Vou escolher meu sapa...to
+  G        A            E
+E andar do jeito que eu gosto
+  G        A            E
+E andar do jeito que eu gosto
+
+ :---
+ :    C                                     Bm
+ : Porque cargas d'água você acha que tem o direito
+ : Em                                        A
+ : De afogar tudo aquilo que eu sinto em meu peito
+ : C
+ : Você só vai ter o respeito que quer
+ :       Bm
+2: Na realidade
+ :    Em
+V: No dia em que você souber respeitar
+e:            A
+z: A minha vontade
+e: C   Bm   C   Bm
+s: Meu pai, meu pai
+ :  E            D          A   E
+ : Pai, eu já tô indo-me embo...ra
+ :       D          A     E
+ : Quero partir sem bri...gar
+ :           D         A       E
+ : Pois eu já escolhi meu sapato
+ : G           A        E
+ : Que não vai mais me apertar
+ : G           A        E
+ : Que não vai mais me apertar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

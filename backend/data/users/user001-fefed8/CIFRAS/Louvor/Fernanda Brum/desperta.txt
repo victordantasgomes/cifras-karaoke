@@ -1,0 +1,82 @@
+@titulo: desperta
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Desperta
+
+Intro: E  F#m  G#m  F#m  (2x)
+
+E   F#m   G#m      F#m    E     F#m  G#m
+Desperta,  que o Senhor já vem!
+E  F#m   G#m       F#m    E   F#m  G#m
+Levanta, que o Senhor já vem!
+
+tabrefrão
+
+F#m               G#m    A          B
+A glória do Senhor já Brilha!
+F#m               G#m    A          B
+A Glória do Senhor já vem!
+F#m               G#m    A        B       E
+A glória do Senhor já brilha sobre ti!!!
+
+refrão
+
+Intro:
+
+E   F#m   G#m      F#m    E    F#m  G#m
+Desperta, que o Senhor já vem!
+
+E  F#m   G#m     F#m    E      F#m  G#m
+Levanta,que o Senhor já vem!
+
+tabrefrão
+
+F#m      G#m    A          B
+A glória do Senhor já Brilha!
+      F#m     G#m    A     B
+A Glória do Senhor já vem!
+F#m               G#m    A    B     E
+A glória do Senhor já brilha sobre ti!!!
+
+refrão
+
+E   F#m   G#m            F#m    E    F#m  G#m
+Desperta,                 que o Senhor já vem!
+E  F#m   G#m    F#m    E           F#m  G#m
+Levanta,                   que o Senhor já vem!
+
+tabrefrão
+
+F#m        G#m    A        B
+A glória do Senhor já Brilha!
+F#m      G#m    A          B
+A Glória do Senhor já vem!
+F#m          G#m    A        B       E
+A glória do Senhor já brilha sobre ti!!!
+F#m               G#m    A          B
+A glória do Senhor já Brilha!
+F#m               G#m    A          B
+A Glória do Senhor já vem!
+F#m           G#m    A        B       E
+A glória do Senhor já brilha sobre ti!!!
+F#m               G#m    A          B
+A glória do Senhor já Brilha!
+F#m               G#m    A          B
+A Glória do Senhor já vem!
+F#m         G#m    A        B       E
+A glória do Senhor já brilha sobre ti!!!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,121 @@
+@titulo: lettera
+@autor:
+@intérprete: Renato Russo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renato Russo - Lettera
+
+Intro: G9/4  G9
+
+          G         C
+Volevo dirti quello che
+             F           Bb   Bb/A
+non sono ruiscita a dire mai
+        Gm7  Gm/F      C   C/E
+ed ho tenuto chiuso in me
+   F              Eb/G  F/A
+da troppo tempo ormai
+          Bb            Am  D
+ma c'è un amore che non so
+       Gm7        G/C
+più nascondere perché
+ Bb         Cm      F      Bb  Am  D
+adesso ha bisogno anche di te.
+
+        G          C
+Volevo dirti solo che
+           F              Bb   Bb/A
+sei sempre tu la mia allegria
+
+            Gm7    Gm/F     C  C/E
+che quando parli insieme a lei
+        F         Eb/G  F/A
+diventa folle gelosia
+          Bb             Am D
+per tutto quello che mi dai
+       Gm7          G/C
+anche quando non lo sai
+Bb          Cm   F      Bb Am D
+questo io volevo dire a te.
+
+        G              C
+Di come quando non ci sei
+      F               Bb  Bb/A
+io mi perdo sempre un po'
+           Gm7    Gm/F    C  C/E
+e poi mi accorgo che non so
+         F           Eb/G   F/A
+più divertirmi senza te
+       Bb              Am D
+invece quando stai con me
+          Gm7             G/C
+anche il grigio intorno a noi
+     Bb         Cm   F       Bb   Bb/A
+si colora della vita che gli dai.
+
+        Gm
+Com'è difficile
+D/F#                Eb/G
+dire tutto questo a te
+       Dm7            Cm7
+che d'amore non parli mai
+Bb                   F/A
+non ne parli mai con me
+F        Bbm
+forse perché
+F/A            Ebm/Gb
+hai paura come me
+Db              Ebm
+di una risposta che
+  Cm5-/7               F  D
+ancora tu non sai qual è.
+
+( G  C  F  Bb  Bb/A  Gm7  Gm/F  C  C/E  F  Eb/G  F/A )
+
+       Bb           Am  D
+Volevo dirti quello che
+            Gm7          G/C
+non son riuscita a dire mai
+   Bb        Cm      F      Bb
+ed ho tenuto chiuso dentro me
+          Em             Am  D
+ma c'è un amore che non so
+     Gm             G/C
+più nascondere perché
+ Bb         Cm F           Eb7+  Bb
+adesso ha bisogno anche di te.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+Bb/A = X 0 3 3 3 X
+Bbm = X 1 3 3 2 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+Cm = X 3 5 5 4 3
+Cm5-/7 = X 3 4 3 4 X
+Cm7 = X 3 5 3 4 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Db = X 4 6 6 6 4
+Dm7 = X 5 7 5 6 5
+Eb/G = 3 X 1 3 4 X
+Eb7+ = X X 1 3 3 3
+Ebm = X X 1 3 4 2
+Ebm/Gb = 2 X 1 3 4 X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+G = 3 2 0 0 0 3
+G/C = X 3 5 4 3 3
+G9 = 3 X 0 2 0 X
+G9/4 = 3 X 0 2 1 3
+Gm = 3 5 5 3 3 3
+Gm/F = X X 3 3 3 3
+Gm7 = 3 X 3 3 3 X

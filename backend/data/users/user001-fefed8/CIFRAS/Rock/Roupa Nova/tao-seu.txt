@@ -1,0 +1,121 @@
+@titulo: tao-seu
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Tão Seu
+
+INTR.: C F G C C F F G C 2x (C)
+
+C
+Sinto sua falta
+    D7/C
+Não posso esperar tanto tempo assim
+   Dm7/C
+O nosso amor é novo
+     Fm/C                C
+É o velho amor, ainda e sempre
+ C
+Não diga que não vem me ver
+D7/C
+De noite eu quero descansar
+   Dm7/C
+Ir ao cinema com você
+   Fm/C            C
+Um filme à toa no Pathé
+ C
+Que culpa a gente tem de ser feliz
+ D7/C
+Que culpa a gente tem, meu bem
+
+  Dm7/C       Em
+O mundo bem diante do nariz
+  Dm          C       E
+Feliz aqui e não além
+
+ A         E/G#        F#m            D
+Me sinto só, me sinto só, me sinto tão seu
+ A         E/G#        F#m        D        C F G C C F F G C F G C C F F G
+Me sinto tão, me sinto só e sou teu (2x)
+
+C#
+Faço tanta coisa
+D#7/C#
+Pensando no momento de te ver
+  D#m7/C#
+A minha casa sem você é triste
+    F#m/C#         C#
+A espera arde sem me aquecer
+ C#
+Não diga que você não volta
+D#7/C#
+Eu não vou conseguir dormir
+  D#m7/C#         Fm
+À noite eu quero descansar
+  D#m      C#     F
+Sair à toa por aí
+
+ Bb        F/A         Gm           D#
+Me sinto só, me sinto só, me sinto tão seu
+Bb        F/A           Gm        D#       (C#)
+Me sinto tão, me sinto só e sou teu (2x)
+
+ D
+Sinto sua falta
+     E7/D
+Não posso esperar tanto tempo assim
+   Em7/D
+O nosso amor é novo
+     Gm/D        D
+É o velho amor, ainda e sempre
+D                               E7/D
+Que culpa a gente tem de ser feliz
+
+Eu digo, eles ou nós dois
+  Em7/D       F#m
+O mundo bem diante do nariz
+  Em           D         F#
+Feliz agora e não depois
+
+ B        F#/A#        G#m           E
+Me sinto só, me sinto só, me sinto tão seu
+B         F#/A#        G#m        E
+Me sinto tão, me sinto só e sou teu (2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D#7/C# = X 4 5 3 4 X
+D#m = X X 1 3 4 2
+D#m7/C# = 9 6 8 6 7 6
+D7/C = X 3 X 2 3 2
+Dm = X X 0 2 3 1
+Dm7/C = X 3 0 2 1 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E7/D = X 5 X 4 5 4
+Em = 0 2 2 0 0 0
+Em7/D = X X 0 0 3 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#m = 2 4 4 2 2 2
+F#m/C# = X 4 4 2 2 2
+F/A = 5 X 3 5 6 X
+Fm = 1 3 3 1 1 1
+Fm/C = X 3 3 1 1 1
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4
+Gm = 3 5 5 3 3 3
+Gm/D = X 5 5 3 3 3

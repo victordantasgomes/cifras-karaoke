@@ -1,0 +1,116 @@
+@titulo: sem-voce-nao-da
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Sem Você Não Dá
+
+[Intro]  Em  A  D  Bm  B
+         Em  A  D  Bm  B
+         Em  A  D  Bm  B
+         Em  A  D  Bm  B
+         G A
+
+D   D/C#  Bm                    F#m         G
+  Elevo os olhos     para os montes onde Tu estás
+D    D/C#     Bm           F#m           G
+   O meu socorro    vem do Senhor que em guardará
+Em              A    Em                     A
+   Onde estaria eu    se não fosse a Tua graça
+ Em                    A      Em                     A
+    No profundo do meu ser      Tu conheces a minha alma
+         G                     Bm
+Então me faça entender que não dá sem Você
+         G                     Bm          B
+Entao me faça entender que não dá sem Você
+        Em     Em/D#           A
+É impossível viver sem Teu amor
+        D     D/C#         Bm    B
+Já não posso viver sem Sua graça
+
+         Em      Em/D#          A
+Em Teus braços abrigo eu encontrei
+       D       D/C#          Bm    B
+É o amigo que eu tanto procurava
+        Em      Em/D#          A
+Minha vida meu mundo então mudou
+      D   D/C#          Bm       B
+Teu amor me fez ser vencedor
+      Em        Em/D#      A               D   D/C#       Bm
+No deserto eu aprendi a crer que é impossível viver sem Você
+
+   G              A                 F#m          Bm
+Você é o meu sol quando minha vida está na escuridão
+   G                 A              F#m      Bm
+Você é o calor que aquece o inverno do meu coração
+          Cm
+Então me faça entender que não dá sem Você
+
+        Fm    Fm/E           A#
+É impossível viver sem Teu amor
+        D#    D#/D         Cm    C
+Já não posso viver sem Tua graça
+         Fm    Fm/E           A#
+Em teus braços abrigo eu encontrei
+      D#      D#/D          Cm   C
+É o amigo que eu tanto procurava
+        Fm     Fm/E            A#
+Minha vida meu mundo então mudou
+      D#  D#/D          Cm     C
+Teu amor me fez ser vencedor
+      Fm       Fm/E       A#              D#  D#/D      Cm
+No deserto eu aprendi a crer que é impossível viver sem Você
+   G#             A#                G#m          Cm
+Você é o meu sol quando minha vida está na escuridão
+   G#                A#             G#m      Cm
+Você o calor que aquece o inverno do meu coração
+          C#m
+Então me faça entender que não dá sem Você
+
+        F#m      F#m/F         B
+É impossível viver sem Teu amor
+         E     E/D#        C#m   C#
+Já não posso viver sem Tua graça
+         F#m      F#m/F          B
+Em teus braços abrigo eu encontrei
+       E       E/D#         C#m   C#
+É o amigo que eu tanto procurava
+        F#m       F#m/F          B
+Minha vida meu mundo então mudou
+       E   E/D#         C#m      C#
+Teu amor me fez ser vencedor
+       F#m        F#m/F     B               E   E/D#     C#m   C#
+No deserto eu aprendi a crer que é impossível viver sem Você
+
+[Final]  F#m  F#m/F  B  E  E/D#  C#m
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A# = X 1 3 3 3 1
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D#/G = 3 X 1 3 4 X
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+Em/G = 3 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+F#m/A = X 0 4 2 2 2
+Fm = 1 3 3 1 1 1
+Fm/G# = 4 3 3 1 X X
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4

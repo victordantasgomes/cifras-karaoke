@@ -1,0 +1,203 @@
+@titulo: o-perdedor
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - O Perdedor
+
+Versão 1
+========
+
+ 
+Intro
+e|------------------------------  |   
+B|------------------------------  |
+G|------------9-------------2-2-  |
+D|-7-7-7-7-7--9--4-4-4-4-4--2-2-  |
+A|-7-7-7-7-7--7--4-4-4-4-4--0-0-  |
+E|-5-5-5-5-5-----2-2-2-2-2------  |
+                                   |   4X
+--------------------------------|  |
+--------------------------------|  | 
+------------9-----------2-2-2-2-|  |
+-7-7-7-7-7--9--4-4-4-4--2-2-2-2-|  |
+-7-7-7-7-7--7--4-4-4-4--0-0-0-0-|  |
+-5-5-5-5-5-----2-2-2-2----------|  |
+
+Riff 1 - A  E  F#m  D
+
+e|-9--9--12--12---|
+B|--10-10--10--10-| 
+G|----------------| 4x 
+D|----------------|
+A|----------------|
+E|----------------|
+
+A A
+   Algo como se enforcar
+A A
+   Em seu próprio orgulho
+    F#m                   
+E é tarde pra se arrepender
+    E
+(E é muito tarde pra esqucer)
+
+A A
+   Algo como se discordar
+A A                   F#m
+   Sobre tudo que te falam
+                     E
+Depois vai perceber
+               
+(que é muito tarde pra entender)
+
+Refrão - (riff 2)
+A              E
+Não vai voltar    
+           F#m     
+Não vai mudar      
+             E       2x (A letra muda um pouco)
+De onde está      
+                 
+Ele nunca sairá
+A             E
+nao vai mudar
+                  F#m
+ele nunca ira voltar
+           E
+mais uma vez... nunca ira ter vez
+
+   
+
+--------
+Riff 1 4x
+--------
+
+
+(abafado)
+A                E 
+   Não vai voltar
+                 F#m
+   Não vai mudar
+                 D
+   De onde está
+
+   Não sairá
+
+------
+Refrão
+------
+
+Riff 2 (refrão)- A  E  F#m  E
+
+e|-------------------------------|
+B|-------------------------------|
+G|--13>14-------9----------------| 
+D|--------(3x)--x----------------|
+A|--11>12-------7----------------|
+E|-------------------------------|
+
+Riff 3 (final)- A  E  F#m  D
+
+e|-------------------------|
+B|-------------------------|
+G|--9---14---13----11------|
+D|--x----x----x----x-------|
+A|--7---12---11----9-------|
+E|-------------------------|
+_______________________________________________________
+
+
+
+
+
+Versão 2
+========
+
+INTRO:
+Abafado:  A E* F# E  / E|---------------------  
+                       B|---------------------
+                       G|--9>11-9-------------  
+                       D|--xxxxxx-------------
+                       A|--7>9--7-------------
+                       E|---------------------
+ 
+                       E|--9----9----12----12-    base:  A E* F# D
+                       B|----10---10----10----
+                       G|---------------------  4x (2a parte)
+                       D|---------------------
+                       A|---------------------
+                       E|---------------------
+
+
+A                    A                              F#m
+algo como se enforcar em seu proprio orgulho e eh tarde
+               D                              A
+pra se arrepender, e muito tarde pra entender
+                  A                  F#m
+algo como discordar sobre tudo q te falam
+                 D                              A
+depois vai perceber, q eh muito tarde pra entender
+             E
+nao vai voltar
+            F#m
+nao vai mudar
+           D
+de onde esta
+              A
+ele nunca saira
+            E
+nao vai mudar
+                  F#m
+ele nunca ira voltar
+           D
+mais uma vez... nunca ira ter vez
+
+
+(repete segunda parte da intro 4x)
+
+
+A              E     |
+nao vai voltar!!     |
+              F#m    |
+nao vai mudar!!      |  ABAFADO
+             D       |
+de onde esta!!       |
+         A
+nao saira
+            E
+nao vai voltar
+            F#m
+nao vai mudar
+           D
+de onde esta
+             A
+ele nunca saira
+       
+             E
+nao vai voltar
+                    F#m      
+ele nunca vai mudar
+            D                  A  
+mais uma vez... nunca ira ter vez!
+
+
+E|----------------
+B|----------------
+G|-9---14-13-11---
+D|-x---xx-xx-x----     nunca ira ter vez!!
+A|-7---12-11-9----
+E|----------------
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2

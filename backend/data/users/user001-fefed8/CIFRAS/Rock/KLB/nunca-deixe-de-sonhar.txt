@@ -1,0 +1,133 @@
+@titulo: nunca-deixe-de-sonhar
+@autor:
+@intérprete: KLB
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+KLB - Nunca Deixe de Sonhar
+
+Intro: B  F#  E  B  E  B  E  F#  B  Cdim  B
+
+ B      E
+Há uma luz
+C#m       F#
+Em algum lugar
+     G#m             E
+Que vai fazer seu sonho
+   B       F#
+Se realizar
+B       E C#m      F#
+É só você   acreditar
+    G#m
+Que uma nova estrela
+    E   F#   B
+Vai poder brilhar
+G         D
+Algo em você
+Am        Em
+Vai despertar
+G           D
+Não duvide nunca
+Am        Em
+Você vai chegar.
+      Am
+Nunca deixe de sonhar
+                 E
+Nunca deixe de sonhar.
+B       E
+Há uma luz
+C#m          F#
+  que não se vê
+   G#m         E
+Brilha o tempo todo
+       B      F#
+Dentro de você
+ B      E
+Há uma luz
+C#m           F#
+  em algum lugar
+    G#m              E
+Que vai fazer seu sonho
+  F#      B
+Se realizar.
+
+Refrão:
+     G          D
+Se está além do sol
+Em         Bm
+Ou além do mar
+C           G
+Bem além do tempo
+Am              D
+Sei que há um lugar
+G            D
+Onde eu quero ir
+Em              Bm
+Onde eu quero estar
+C         G
+Ver a fantasia
+Am   D   G
+Se realizar.
+
+   G            D
+Se está além do sol
+Em         Bm
+Ou além do mar
+C           G
+Bem além do tempo
+Am              D
+Sei que há um lugar
+G            D
+Onde eu quero ir
+Em              Bm
+Onde eu quero estar
+C         G
+Ver a fantasia
+Am   D   G
+Se realizar.
+
+     G#         D#
+Se está além do sol
+Fm        Cm
+Ou além do mar
+C#         G#
+Bem além do tempo
+Bbm           D#
+Sei que há um lugar
+G#            D#
+Onde eu quero ir
+Fm              Cm
+Onde eu quero estar
+C#        G#   Bbm  D#  G#
+Ver a fantasia se realizar.
+
+Final:
+C#        G#    Fm   Bbm     D#     G# D# G# D#
+Ver a fantasi.. ia   se re...a...li...zar.
+G#
+Se realizar...
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bbm = X 1 3 3 2 1
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+Cdim = X 3 4 2 4 2
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4

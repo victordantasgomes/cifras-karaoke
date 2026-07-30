@@ -1,0 +1,101 @@
+@titulo: maravilhado
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Maravilhado
+
+[Intro] A9  C#m/G#  F#m7  D9
+
+    F#m                 D9
+Tu reinas no trono dos céus
+               A9    E
+A criação se prostra aos Seus pés
+    F#m                D9
+Tu reinas vestido de glória
+              A9             E
+Os anjos Te adoram aos Teus pés
+
+ F#m            D9
+Pra sempre governarás
+ C#m             D9
+Teu reino não passará
+
+E         A                E/G#
+Oh Santo Deus fico maravilhado
+       F#m                              D9
+Tu és muito mais do que eu possa expressar
+E         A9                        E/G#
+Oh Santo Deus, quebro o vaso de alabastro
+
+         F#m                     D9
+Sobre o Deus que sabe me maravilhar
+
+   F#m             D9
+Tu és totalmente amável
+             A9       E
+Tesouro desejável que eu procuro
+   F#m               D9
+Tu és um fogo apaixonado
+                A9           E
+Eu sou do meu amado e Tu és meu
+
+ F#m            D9
+Pra sempre governarás
+ C#m            D9
+Teu reino não passará
+
+E         A                E/G#
+Oh Santo Deus fico maravilhado
+       F#m7                             D9
+Tu és muito mais do que eu possa expressar
+E         A9                        E/G#
+Oh Santo Deus, quebro o vaso de alabastro
+         F#m7                    D9
+Sobre o Deus que sabe me maravilhar
+
+ A  E/G#   F#m    D         A9
+Derramo o meu louvor sobre Ti
+    E/G#   F#m  D         A9
+Derramo o meu amor sobre Ti
+    E/G#   F#m    D         A
+Derramo o meu louvor sobre Ti
+    E/G#   F#m     D9
+Derramo o meu amor
+
+E         A                E/G#
+Oh Santo Deus fico maravilhado
+       F#m7                             D9
+Tu és muito mais do que eu possa expressar
+E         A9                        E/G#
+Oh Santo Deus, quebro o vaso de alabastro
+         F#m7                    D9
+Sobre o Deus que sabe me maravilhar
+E         A                E/G#
+Oh Santo Deus fico maravilhado
+       F#m7                             D9
+Tu és muito mais do que eu possa expressar
+E         A9                        E/G#
+Oh Santo Deus, quebro o vaso de alabastro
+         F#m7                    D9
+Sobre o Deus que sabe me maravilhar
+
+( A  E/G#  F#m  D )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+C#m = X 4 6 6 5 4
+C#m/G# = X X 6 6 5 4
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X

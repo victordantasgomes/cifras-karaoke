@@ -1,0 +1,68 @@
+@titulo: precipitado
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Precipitado
+
+(intro 2x) D D4 D A A6 A C D 
+
+G                          D
+Eu quero que o mundo, que sejas feliz
+G                      D
+Fiquei sem jeito, não sei o que faço
+   A               C     D
+Olhando de lado, perdi você
+   A               C     D
+Olhando de lado, perdi você
+
+(intro)
+
+  G                 D
+Primeiro fruto, precipitado
+   G              D
+Fiquei sabendo, caí sentado
+   A               C    D
+Não era hora, de você chegar
+   A               C    D
+Não era hora, de você chegar
+
+(intro)
+
+G                    D
+Um ano vivido, no espaço de tempo
+G                       D
+Duas vidas nasceram, só uma durou
+   A                 C      D
+Ficou pra trás, o primeiro amor
+   A                 C       D
+Ficou pra trás, o primeiro amor
+
+(intro)
+
+G                        D
+Fiquei sozinho, olhando as flores
+G                  D
+Um mês e pouco, entrei de novo
+  A                   C    D
+Na mesma estrada, que me queimou
+  A                   C    D
+Na mesma estrada, que me queimou
+  A                   C    D
+Na mesma estrada, que me queimou
+  A                   C    D
+Na mesma estrada, que me queimou
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A6 = 5 X 4 6 5 X
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+G = 3 2 0 0 0 3

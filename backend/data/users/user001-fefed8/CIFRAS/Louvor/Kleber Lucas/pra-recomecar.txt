@@ -1,0 +1,55 @@
+@titulo: pra-recomecar
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Pra Recomeçar
+
+    Em7                            D/F#   G
+Nessa cicatriz eu vejo o que eu já superei
+        Em7                                  G
+E aquela dor que me parava é o que me faz voar
+ Am7
+Eu vejo um novo dia, vejo o sol
+
+        Cm
+Eu dei uma virada radical
+
+Em7                                D       G
+Nessa cicatriz eu vejo o que o Senhor já fez
+Em7                        D                  G
+Não quero mais viver as dores que eu já superei
+          Am7
+Eu posso ouvir a música do céu
+         Cm
+Eu vou cantar alegremente
+
+        G               B7
+Pra recomeçar, recomeçar
+
+         C
+E não importa o que foi ontem
+      Cm
+O amanhã me espera
+        G              B7
+Pra recomeçar, recomeçar
+         C
+Me resgatou dos meus fracassos
+           Cm
+Meu Deus mudou o meu destino
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3

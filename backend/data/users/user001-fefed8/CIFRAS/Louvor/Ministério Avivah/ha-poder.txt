@@ -1,0 +1,131 @@
+@titulo: ha-poder
+@autor:
+@intérprete: Ministério Avivah
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Avivah - Há Poder
+
+[Intro] F#m7(9)  B/C#  F#m7(9)  C#7(b13)
+        F#m7(9)  G#m7  A7M(9)  G#7(b13)
+
+[Primeira Parte]
+
+F#m7(9)                           B/C#
+  Os humilhados exaltados pois serão
+F#m7(9)                             B/C#
+  Pelo Senhor que é a força e salvação
+F#m7(9)                           G#m7  A7M(9)
+  A tempestade vem e uma hora tem um   fim
+                       G#7(b13)
+Pois o meu Deus sempre olha para mim
+
+[Refrão]
+
+      C#m7
+Há poder
+         B           F#/A#  A7M
+Quando chamo o nome do  Senhor
+      C#m7      F#/A#         A7M    G#7(b13)
+Há poder quando eu entrego o meu louvor
+
+      C#m7       B          F#/A#  A7M
+Há poder em seu sacrifício de    amor
+         F#m7     E/G#            A7M     B7(4)
+Pois em todas as coisas, sim, eu sei que sou mais que vencedor
+
+( F#m7(9)  G#m7  A7M(9)  G#7(b13) )
+
+[Primeira Parte]
+
+F#m7(9)                           B/C#
+  Os humilhados exaltados pois serão
+F#m7(9)                             B/C#
+  Pelo Senhor que é a força e salvação
+F#m7(9)                           G#m7  A7M(9)
+  A tempestade vem e uma hora tem um   fim
+                       G#7(b13)
+Pois o meu Deus sempre olha para mim
+
+[Refrão]
+
+      C#m7
+Há poder
+         B           F#/A#  A7M
+Quando chamo o nome do  Senhor
+      C#m7      F#/A#         A7M    G#7(b13)
+Há poder quando eu entrego o meu louvor
+      C#m7       B          F#/A#  A7M
+Há poder em seu sacrifício de    amor
+         F#m7     E/G#            A7M     B7(4)
+Pois em todas as coisas, sim, eu sei que sou mais que vencedor
+
+[Solo] F#m7(9)  B/C#  F#m7(9)  C#7(b13)
+       F#m7(9)  G#m7  A7M(9)  G#7(b13)
+
+[Ponte]
+
+C#m7
+  Não dá pra resistir
+F#/C#
+  Não posso me negar
+A/C#
+  Preciso bater palmas
+G#7(b13)
+  E ao meu Senhor louvar
+C#m7
+  Não dá pra resistir
+F#/C#
+  Não posso me negar
+A/C#
+  Preciso bater palmas
+G#7(b13)
+  E ao meu Senhor louvar
+
+[Refrão]
+
+      C#m7
+Há poder
+         B           F#/A#  A7M
+Quando chamo o nome do  Senhor
+      C#m7      F#/A#         A7M    G#7(b13)
+Há poder quando eu entrego o meu louvor
+      C#m7       B          F#/A#  A7M
+Há poder em seu sacrifício de    amor
+         F#m7     E/G#            A7M     B7(4)
+Pois em todas as coisas, sim, eu sei que sou mais que vencedor
+      C#m7
+Há poder
+         B           F#/A#  A7M
+Quando chamo o nome do  Senhor
+      C#m7      F#/A#         A7M    G#7(b13)
+Há poder quando eu entrego o meu louvor
+      C#m7       B          F#/A#  A7M
+Há poder em seu sacrifício de    amor
+         F#m7     E/G#            A7M     B7(4)
+Pois em todas as coisas, sim, eu sei que sou mais que vencedor
+
+[Final] F#m7(9)  B/C#  F#m7(9)  C#7(b13)  F#m7(9)
+        F#m7(9)  G#m7  A7M  G#7(b13)  B  C#m7
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A7M = X 0 2 1 2 0
+A7M(9) = X 0 2 1 0 0
+B = X 2 4 4 4 2
+B/C# = X 6 X 4 7 7
+B7(4) = X 2 4 2 5 2
+C#7(b13) = X 4 X 4 6 5
+C#m7 = X 4 6 4 5 4
+E/G# = 4 X 2 4 5 X
+F#/A# = 6 X 4 6 7 X
+F#/C# = X 4 4 3 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7(9) = X X 4 2 5 4
+G#7(b13) = 4 X 4 5 5 4
+G#m7 = 4 X 4 4 4 X

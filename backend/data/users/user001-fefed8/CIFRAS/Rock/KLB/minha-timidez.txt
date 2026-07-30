@@ -1,0 +1,76 @@
+@titulo: minha-timidez
+@autor:
+@intérprete: KLB
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+KLB - Minha Timidez
+
+(intro 2x) A   Bm   D   A
+
+E|--------------------------------0------------0--------
+B|----0-2-0------0-2-3-2-0----2-3---3-2----2-3---3-2-0--
+G|--2-------2---------------------------2---------------    (2x)
+D|------------2------------4----------------------------
+A|------------------------------------------------------
+E|------------------------------------------------------
+
+(parte 1)
+     A
+Quero tanto dizer
+          Bm
+que eu só penso em você
+      D                  A
+mas a minha timidez não deixa...
+      A
+Você diz no olhar
+         Bm
+que tem medo de amar
+       D                    A
+e confundi mais a minha cabeça...
+
+(parte 2)
+      C#m             F#m
+Eu queria tanto me entregar
+        Bm                 E
+Te mostrar todo meu sentimento
+       C#m                   F#m
+já tentei mas te esquecer não dá...
+      Bm               E
+Você vive em meu pensamento...ahh..
+
+(refrão)
+ A
+Chalalálalá....
+                   Bm      D     A
+Como eu quero te amar...amar...amaaar...
+ A                           Bm          D          A
+Para de brincar com meu coraçããão.. oh..não...oh nããoo..
+
+(solo 2x)
+
+(parte 1)
+
+         C#m          F#m
+Sei que um dia você vai notar...
+       Bm                   E
+Que ninguém já te amou desse jeito..
+       C#m            F#m
+O meu sonho é poder te dar...
+       Bm                      E
+Todo amor que eu guardo em meu peito...ahh...
+
+(refrão)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

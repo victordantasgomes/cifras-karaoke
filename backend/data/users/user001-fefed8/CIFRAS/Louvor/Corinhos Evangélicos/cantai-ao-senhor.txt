@@ -1,0 +1,36 @@
+@titulo: cantai-ao-senhor
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Cantai Ao Senhor
+
+    Dm                      A7
+Cantai ao Senhor um cântico novo,
+                            Dm
+Cantai ao Senhor um cântico novo,
+                    D7      Gm
+Cantai ao Senhor um cântico novo,
+            Dm        A7     Dm
+Cantai ao Senhor, cantai ao Senhor,
+
+   Dm                       A7
+Porque ele fez, ele faz maravilhas,
+                            Dm
+Porque ele fez, ele faz maravilhas
+                     D7     Gm
+Porque ele fez, ele faz maravilhas
+             Dm      A7       Dm
+Cantai ao Senhor, cantai ao Senhor
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+Gm = 3 5 5 3 3 3

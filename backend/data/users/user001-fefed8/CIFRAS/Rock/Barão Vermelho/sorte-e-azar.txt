@@ -1,0 +1,77 @@
+@titulo: sorte-e-azar
+@autor:
+@intérprete: Barão Vermelho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Barão Vermelho - Sorte e Azar
+
+Intro:
+          E                 D               A
+E|----------2h4-----|---10---10--|---9------7h9------7h9-----|
+B|--------5-----5---|---12--12-  |---10----------10--------10|
+G|-----4------------|---11------ |---9----9-------9--------9-|
+D|-2----------------|---0------  |-0-------------------------|
+A|------------------|----------  |---------------------------|
+E|------------------|----------  |---------------------------|
+
+E         D          A
+Tudo é questão de obedecer ao instinto,
+E         D          A
+Que o coração ensina a ter, ensina a ter
+E          F#m         C#m                C
+Correr o risco, apostar num sonho de amor
+E         D          A
+O resto é sorte e azar, sorte e azar
+E         D          A
+Tudo é questão, de não se negar nada
+E         D          A
+A nenhuma força, que dê luz, que dê luz
+
+E          F#m         C#m            C
+Seja de Deus, ou do Diabo se for claro
+E         D
+É só pagar pra ver
+   A
+É só pagar pra ver
+E          D           C#m
+E se por acaso, doer de mais,
+  C               E...  A
+
+SOLO: E D A    2X
+
+E         D          A
+Tudo é questão de obedecer ao instinto,
+E         D          A
+Que o coração ensina a ter, ensina a ter
+E          F#m         C#m                C
+Correr o risco, apostar num sonho de amor
+E         D            A
+O resto é sorte e azar, sorte e azar
+E         D          C#m
+E se por acaso, for bom de mais,
+c
+É porque valeu
+E   D
+    É porque valeu
+C#m C
+    É porque valeu
+E   D
+    É porque valeu
+C#m C
+    É porque valeu
+
+E  D  C#m  C
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

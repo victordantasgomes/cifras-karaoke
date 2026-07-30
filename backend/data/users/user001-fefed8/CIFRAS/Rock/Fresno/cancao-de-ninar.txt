@@ -1,0 +1,66 @@
+@titulo: cancao-de-ninar
+@autor:
+@intérprete: Fresno
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fresno - Canção de Ninar
+
+INTRO: (E, C#m, G#m, A, F#m, B7) 2x
+
+SOLO:
+
+E|---------------7---11-12-9---11-12-7---9-7----------------------------------------
+B|---5---5-7---9-----------------------------10---12-10-9-7---9-10-9-7--9-10-7---9--
+G|---------------------------------------------------------------------------------9
+
+
+E
+Pudera eu ao menos
+C#m     G#m       (A, F#m, B7)
+no tempo voltar
+
+E
+de que adiantaria
+C#m           G#m
+você não estar lá
+     A     F#m     B7
+para mim, para mim
+
+
+E
+Sonho em dormir
+C#m
+e acordar
+        G#m
+no teu colo
+       A
+e então
+          F#m
+te pedir desculpas
+            B7
+pelo que fiz
+
+E
+Sonho em beijar
+      C#m
+a tela do computador
+  G#m             A
+e encontrar na minha boca
+     F#m
+não o vidro,
+          B7
+mas o teu amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

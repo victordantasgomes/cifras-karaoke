@@ -1,0 +1,62 @@
+@titulo: a-rotina
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - A Rotina
+
+Intro:  E  F#m  A  B7  E  B7
+
+E                                     B7                         C#m E7 A                                                    F#m      B7
+E a rotina começa de novo na segunda-feira Esperar tanto tempo sozinho não é brincadeira
+            G#7                              C#m                   A              F#7                                      Am    B7
+Terça-feira é muito pior, é difícil ficar sem você      Já é quarta e o sol outra vez    vai aparecer
+E                                       B7                    C#m  E7  A        F#m                                        B7
+E o desejo de novo em meu  peito acende a vontade De pegar o telefone e dizer: amor que saudade
+                                            G#7   C#m                            A
+Quinta-feira eu começo a viver Vem chegando o fim-de-semana
+ E                                   B7                          E B7  E                                       F#m
+Sexta-feira a gente se ama, se ama, se ama      E aí tá tudo bem, você é o que eu preciso
+           B7                             E     B7
+Tudo certo eu e você   no paraíso
+E                                      F#m                                A                          B7     E       B7
+O cinema pra curtir   e no sábado sonhar No domingo a gente volta   a chorar.
+
+Intro:  E  F#m  A  B7  E  B7
+
+E                                       B7                    C#m  E7  A        F#m                                        B7
+E o desejo de novo em meu  peito acende a vontade De pegar o telefone e dizer: amor que saudade
+
+                                            G#7   C#m                            A
+Quinta-feira eu começo a viver Vem chegando o fim-de-semana
+ E                                   B7                          E B7  E                                       F#m
+Sexta-feira a gente se ama, se ama, se ama
+E                                                           F#m               B7                            E     B7
+E aí tá tudo bem, você é o que eu preciso Tudo certo eu e você   no paraíso
+E                                           F#m                                A                          B7     E       B7
+O cinema pra curtir   e no sábado sonhar No domingo a gente volta   a chorar.
+E                                                           F#m               B7                            E     B7
+E aí tá tudo bem, você é o que eu preciso Tudo certo eu e você   no paraíso
+E                                           F#m                                A                          B7     E       B7
+O cinema pra curtir   e no sábado sonhar No domingo a gente volta   a chorar.
+A                                           B7  E   B7
+No domingo a gente volta   a chorar.
+
+Intro:  E  F#m  A  B7  E  B7
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G#7 = 4 6 4 5 4 4

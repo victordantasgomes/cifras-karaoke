@@ -1,0 +1,56 @@
+@titulo: o-celeste-diretor
+@autor:
+@intérprete: Harpa Cristã
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Harpa Cristã - O Celeste Diretor
+
+  E        A        E         B7             E
+Dia a dia vem guiar-me  meu jesus e meu senhor!
+        A                  F#m           F#7        B7
+Não sou meu, pois me compraste  com teu sangue redentor;
+           E     A   E            C#m      B
+Quero a ti viver unido, pela vida até ao fim;
+         E       E7     A              E             B    E
+Que se torne assim verdade, "não mais eu, mas cristo em mim".
+              E7        A             E         B        E
+Que se torne assim verdade,"não mais eu, mas cristo em mim".
+
+       E      A     E         B7       E
+Cada instante vem guiar-me, o celeste diretor!
+      A           F#m              F#7    B7
+Já fizeste em mim morada,  tu és meu dominador;
+          E     A    E             C#m     B
+O transforma minha vida; seja meu o teu querer;
+        E         E7   A      E              B   E
+Quero andar, passo por passo,  confiando em teu poder.
+              E7        A           E    B     E
+Quero andar, passo por passo,  confiando em teu poder.
+
+
+    E     A    E            B7      E
+Se maior intimidade para mim possível for;
+      A         F#m   F#7            B7
+Quero mais ser atraído a ti, meigo salvador!
+    E        A     E      C#m             B
+Ah! que fique em ti morando  meu secreto pavilhão,
+E      E7      A          E        B    E
+Escondido, inteiramente, em ti minha salvação.
+   E7           A        E    B        E
+Escondido, inteiramente, em ti, minha salvação.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2

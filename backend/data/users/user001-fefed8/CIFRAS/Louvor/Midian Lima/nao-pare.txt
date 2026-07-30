@@ -1,0 +1,175 @@
+@titulo: nao-pare
+@autor:
+@intérprete: Midian Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Midian Lima - Não Pare
+
+[Intro] E9  B/D#  C#m7  A
+
+[Primeira Parte]
+
+       E9            B/D#
+Amanheceu, nada pesquei
+     F#m7                   E/G#             A
+Parecia ser apenas mais um dia como qualquer outro
+           E9
+Estava cansado
+                   B/D#
+Sem forças, desanimado
+     F#m7             E/G# A
+Decidida largar tudo e  parar
+
+[Pré-Refrão]
+
+ E9
+Deus conhece tua estrutura
+ B/D#
+Sabe o que está fazendo
+
+ C#m7
+Mesmo que seja difícil
+       A
+Não pares ele está vendo
+
+ E9
+Colheu todas tuas lágrimas
+B/D#
+E mandou a ti falar
+ F#m7
+Pegue o que ele te entregou
+         E/G#   A
+E volte para o mar que é o teu lugar
+
+[Refrão]
+
+                      E9
+Quem mandou largar a rede?
+                    B/D#
+Quem mandou você parar?
+                 F#m7
+Volte para o mar alto
+                                 E/G#  A
+No lugar da tua vergonha eu vou te honrar
+
+                      E9
+Quem mandou largar a rede?
+
+Quem mandou você parar?
+                 F#m7
+Volte para o mar alto
+                                 E/G#  A
+No lugar da tua vergonha eu vou te honrar
+                 E
+Filho eu vou te honrar
+
+( B/D#  C#m7  A )
+
+[Pré-Refrão]
+
+ E9
+Deus conhece tua estrutura
+ B/D#
+Sabe o que está fazendo
+ C#m7
+Mesmo que seja difícil
+       A
+Não pares ele está vendo
+
+ E9
+Colheu todas tuas lágrimas
+B/D#
+E mandou a ti falar
+ F#m7
+Pegue o que ele te entregou
+         E/G#   A
+E volte para o mar que é o teu lugar
+
+[Refrão]
+
+                      E9
+Quem mandou largar a rede?
+                    B/D#
+Quem mandou você parar?
+                 F#m7
+Volte para o mar alto
+                                 E/G#  A
+No lugar da tua vergonha eu vou te honrar
+
+                      E9
+Quem mandou largar a rede?
+
+Quem mandou você parar?
+                 F#m7
+Volte para o mar alto
+                                 E/G#  A
+No lugar da tua vergonha eu vou te honrar
+                 E9
+Filho eu vou te honrar
+
+( B/D#  C#m7  A )
+( E9  B/D#  C#m7  A )
+
+[Ponte]
+
+ F#m7         E/G#  A
+Nada de parar
+                     B    C#m7
+Deus contemplou seu caminhar
+                         E9
+Eu sei é difícil prosseguir
+                    F#m7
+Quando tudo lhe faltar
+              E/G#   A
+Esse cenário vai  mudar
+             B   C#m7
+A tua hora chegará
+                B
+Há tempo pra tudo
+
+[Refrão]
+
+                      F9
+Quem mandou largar a rede?
+                    C/E
+Quem mandou você parar?
+                 Gm7
+Volte para o mar alto
+                                 F/A   Bb
+No lugar da tua vergonha eu vou te honrar
+
+                      F9
+Quem mandou largar a rede?
+                    C/E
+Quem mandou você parar?
+                 Gm7
+Volte para o mar alto
+                                 F/A   Bb
+No lugar da tua vergonha eu vou te honrar
+                 F9
+Filho eu vou te honrar
+
+[Final] F9  C/E  Dm7  Bb
+        F9
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+Bb = X 1 3 3 3 1
+C#m7 = X 4 6 4 5 4
+C/E = 0 3 2 0 1 0
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E9 = 0 2 4 1 0 0
+F#m7 = 2 X 2 2 2 X
+F/A = 5 X 3 5 6 X
+F9 = 1 3 5 2 1 1
+Gm7 = 3 X 3 3 3 X

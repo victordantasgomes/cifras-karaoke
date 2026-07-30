@@ -1,0 +1,51 @@
+@titulo: verdades-do-tempo
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Verdades do Tempo
+
+Intro: E C#m A B
+
+E      B/D#          C#m
+Essa é uma canção de amor
+                     F#m
+Veja onde esta o seu coração
+B4           B
+Coloque-o na palma da mão
+E
+É preciso ofertar
+B/D#        C#m
+O amor mais sincero
+A              F#m      B
+O sorriso mais puro e o olhar mais fraterno
+        E
+O mundo precisa
+B/D#      C#m
+Saber a verdade
+A           F#m               B
+Passado não volta, futuro não temos e o hoje não acabou
+E                  C#m
+Por isso ame mais, abrace mais
+
+A          F#m                      B
+Pois não sabemos quanto tempo temos pra respirar
+     E     C#m
+Fale mais, ouça mais
+A                B                      E
+Vale a pena lembrar que a vida é curta demais
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B4 = X 2 4 4 5 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

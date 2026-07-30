@@ -1,0 +1,44 @@
+@titulo: hosana
+@autor:
+@intérprete: Gabriela Rocha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Gabriela Rocha - Hosana
+
+Capo Casa 1
+
+[Intro] C9  G  Em  D
+
+C9              D
+Nós invocamos acende a chama
+       Em          D
+E que venha o teu reino
+C9                  D
+Nós nos rendemos e tudo entregamos
+       Em       D
+Pra sempre cantaremos
+
+[Refrão]
+
+  C9
+Hosana
+  Am7
+Hosana
+        Em
+O noivo vem
+         D
+O noivo vem
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+Am7*  = X 0 2 0 1 0 - (*A#m7 na forma de Am7)
+C9*  = X 3 5 5 3 3 - (*C#9 na forma de C9)
+D*  = X X 0 2 3 2 - (*D# na forma de D)
+Em*  = 0 2 2 0 0 0 - (*Fm na forma de Em)
+G*  = 3 2 0 0 0 3 - (*G# na forma de G)

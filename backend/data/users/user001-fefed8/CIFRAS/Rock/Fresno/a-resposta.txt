@@ -1,0 +1,86 @@
+@titulo: a-resposta
+@autor:
+@intérprete: Fresno
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fresno - A Resposta
+
+(intro) C5
+
+        Am9
+Te perdoar
+                               F                               Dm
+não vai ser o bastante pra me ver voltar (depois do que eu sofri)
+        Am9
+Te perdoar
+                                 F
+Não vai ser num instante que eu vou mudar
+           Dm
+Enxugue o sangue dos meus olhos!
+
+Am                                                   F
+  Você falou que dentre nós dois o melhor sempre fui eu
+                                     D5     Am
+Você faltou com a sua palavra ao mentir pra mim
+                                           F
+Eu percebi que você era humana como todos nós
+                                           D5     Dm
+E eu recebi em dobro tudo o que um dia eu fiz pra ti
+
+             F            G                        G7
+E hoje eu estou tentando ver se um dia eu vou aceitar...
+
+(refrão)
+
+(solo 4x) Am F 
+E|-0-0-0-1-3-3--1-0--------0--0-0-0-1-3-3-1-0----1-3-0--0-0-0-1-3-3-1-0--------0---|
+B|------------------1----1--------------------1-------------------------1----1-----|
+G|---------------------2---------------------------------------------------2-------|
+D|---------------------------------------------------------------------------------|
+A|---------------------------------------------------------------------------------|
+E|---------------------------------------------------------------------------------|
+
+E|-8--7-3-0------------------|
+B|-10-8-5-1------------------|
+G|--------2------------------|
+D|--------2----7-10----------|
+A|--------0--7-------8-7-3---|
+E|---------------------------|
+
+C5
+        C
+Te perdoar
+                      C/E        F
+"Dormir com a certeza de que eu vou sonhar"
+        C
+Te perdoar
+                       C/E    F
+"Mais uma chance para eu te demonstrar"
+        Am
+Te perdoar
+    G                     C
+não é a solução pra todos os problemas que existem entre nós!
+        Am
+Te perdoar
+G                      C
+é voltar a ter boas memórias ao ouvir a tua voz
+
+( C5 )
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am9 = X 0 2 4 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C5 = X 3 5 5 X X
+D5 = X 5 7 7 X X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

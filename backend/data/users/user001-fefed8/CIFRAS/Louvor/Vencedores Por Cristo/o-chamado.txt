@@ -1,0 +1,85 @@
+@titulo: o-chamado
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - O Chamado
+
+Intro: F Bb F G7
+
+  C          F  G        C
+Alguém um dia ouviu o chamado,
+F           G7               C    F  G
+Viva fé que sempre em frente vai,
+C          F    Em7               Fmaj7
+O espírito leve, por Deus, quebrantado,
+Dm7         Dm7/C        Bm7  E7
+Creu de coração aberto e foi.
+F           G7           F  Bbmaj7 C G7sus
+Creu de coração aberto e foi.
+
+
+  C          F   G         C
+Alguém um dia deixou seu regato,
+F             G7           C    F  G
+Puro amor que toca, move e atrai,
+C           F    Em7          Fmaj7
+Do Espírito Santo, recebe o recado,
+Dm7      Dm7/C         Bm7  E7
+Larga tua terra, povo e sai.
+F        G7            F  Bbmaj7 C G7sus
+Larga tua terra, povo e sai.
+
+Bb                   F/A
+Rumo aos sonhos, com Deus, partilhados
+Gm7      C7sus    F         F/A
+Rumo aos campos cobertos de flor,
+Bb                   F/A
+Para a colheita, há muitos já prontos,
+Gm7              D7sus
+Como nos disse o Senhor!
+
+  C          F   G       C
+Alguém um dia ouviu o chamado
+F           G7           C    F  G
+Creu de coração aberto e foi
+C          F    Em7          Fmaj7
+E outros ficaram com o compromisso
+Dm7         Dm7/C          Bm7  E7
+De apoiar, de orar e dizer: vai
+F           G7             F  Bbmaj7 C G7sus
+De apoiar, de orar e dizer: vai
+
+Bb                   F/A
+Rumo aos sonhos, com Deus, partilhados
+Gm7      C7sus    F         F/A
+Rumo aos campos cobertos de flor,
+Bb                   F/A
+Para a colheita, há muitos já prontos,
+Gm7              D7sus
+Como nos disse o Senhor!
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+Bbmaj7 = X 1 3 2 3 1
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C7sus = X 3 2 3 1 X
+D7sus = X X 0 2 1 2
+Dm7 = X 5 7 5 6 5
+Dm7/C = X 3 0 2 1 1
+E7 = 0 2 2 1 3 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+Fmaj7 = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3
+G7sus = 3 5 3 4 3 3
+Gm7 = 3 X 3 3 3 X

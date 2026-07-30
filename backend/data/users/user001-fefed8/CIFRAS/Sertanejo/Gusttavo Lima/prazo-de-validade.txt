@@ -1,0 +1,115 @@
+@titulo: prazo-de-validade
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Prazo de Validade
+
+ Intro 2x: A E F#m ( F#m E )
+E|-4/5-5-5-5-6-5----4/5---5-5-5-6-5-5-5/6-|
+B|----------------------------------------|
+G|----------------------------------------|
+D|----------------------------------------|
+A|----------------------------------------|
+E|----------------------------------------|
+
+E|----2---0-------------------------------|
+B|----2---0-------------------------------|
+G|----2---1-------------------------------|
+D|----4---2-------------------------------|
+A|----4---2-------------------------------|
+E|----2---0-------------------------------|
+
+A              E
+Olha eu te avisei
+                   D
+que um dia eu poderia
+            E
+deixar de amar você
+
+A                     E
+Não sou produto de vitrine
+         D               E     E F#m
+que você usa pra satisfazer
+
+     C#m              B
+Tudo tem prazo de validade
+  D         E    A
+Acorda pra realidade
+   C#m                B
+É melhor você ficar assim
+        D      E        A     E
+Rasgue sua etiqueta de mim..
+
+Refrão:
+     A                 E
+Não vale mais chorar agora
+          F#m               C#m
+Não, não jogue seu orgulho fora
+D                   A
+Aqui se faz, aqui se paga
+       Bm               E
+Foi você que pisou na bola
+     A                 E
+Não vale mais chorar agora
+   F#m                D
+A quem você quer enganar
+    A               E
+Procure alguem comandado pra
+        A
+você mandar...
+
+Intro 2x: A E F#m ( F#m E )
+E|-4/5-5-5-5-6-5----4/5---5-5-5-6-5-5-5/6-|
+B|----------------------------------------|
+G|----------------------------------------|
+D|----------------------------------------|
+A|----------------------------------------|
+E|----------------------------------------|
+
+E|----2---0-------------------------------|
+B|----2---0-------------------------------|
+G|----2---1-------------------------------|
+D|----4---2-------------------------------|
+A|----4---2-------------------------------|
+E|----2---0-------------------------------|
+
+(repete tudo)
+
+Refrão 2x:
+     A                 E
+Não vale mais chorar agora
+          F#m               C#m
+Não, não jogue seu orgulho fora
+D                   A
+Aqui se faz, aqui se paga
+       Bm               E
+Foi você que pisou na bola
+     A                 E
+Não vale mais chorar agora
+   F#m                D
+A quem você quer enganar
+    A               E
+Procure alguem comandado pra
+        A
+você mandar...
+
+    D               E
+Procure alguem comandado pra
+   E     A
+você mandar...  (2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

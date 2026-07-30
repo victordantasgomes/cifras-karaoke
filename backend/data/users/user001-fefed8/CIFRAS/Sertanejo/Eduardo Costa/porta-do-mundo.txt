@@ -1,0 +1,94 @@
+@titulo: porta-do-mundo
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Porta do Mundo
+
+Intro: D D7  G Gm D D7  E  A7 D
+
+
+E|-2---3---5---5---5---8---8---8---7--10---7---7---7---6---6---6---6---6---5|
+B|-3---5---7---7---7--10--10--10---8---8---8---8---8---8---8---8---8---8---7|
+G|--------------------------------------------------------------------------|
+D|--------------------------------------------------------------------------|
+A|--------------------------------------------------------------------------|
+E|--------------------------------------------------------------------------|
+
+
+E|-2---3---5---5---5---5---5---5---4---4---4---3---3---3---3---3---3---2-|
+B|-3---5---7---7---7---7---7---7---5---5---5---5---5---5---5---5---5---3-|
+G|-----------------------------------------------------------------------|
+D|-----------------------------------------------------------------------|
+A|-----------------------------------------------------------------------|
+E|-----------------------------------------------------------------------|
+
+
+E|-10---12---10---9---8---7---10----------------------------------------|
+B|----------------------------10----------------------------------------|
+G|----------------------------------------------------------------------|
+D|----------------------------------------------------------------------|
+A|----------------------------------------------------------------------|
+E|----------------------------------------------------------------------|
+
+
+
+ D                                G           A
+O som da viola bateu no meu peito doeu meu irmão
+                                        G                 D
+Assim eu me fiz cantador sem nenhum professor, aprendi a lição.
+                                       D7                 G
+São coisas divinas do mundo que vem num segundo a sorte mudar
+                     D                      E                 A7
+Trazendo pra dentro da gente as coisas que a mente vai longe buscar
+   G                   D                     A7                 D
+Trazendo pra dentro da gente as coisas que a mente vai longe buscar
+                                       G                   A
+Em versos se fala e canta  o mal se espanta e a gente é feliz
+                                       G                      D
+No mundo das rimas e trovas eu sempre dei provas das coisas que fiz
+                                             D7           G
+Por muitos lugares passei, mas nunca pisei em falso no chão.
+                         D               E               A7
+Cantando interpreto  a poesia levando alegria onde há solidão
+    G                   D                A7               D
+Cantando interpreto a poesia levando alegria onde há solidão.
+
+(Intro)
+
+D                                       G                A
+O destino é o meu calendário o meu dicionário é a inspiração
+                                          G                   D
+A porta do mundo é aberta minha  alma desperta buscando a canção
+                                               D7             G
+Com minha viola no peito meus versos são feitos pro mundo cantar
+                                D        E                   A7
+É a luta de um velho talento menino por dentro sem nunca cansar
+     G                         D          A#7       A7        D
+É a  luta de um velho talento menino por dentro sem nunca cansar
+
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A# = X 1 3 3 3 1
+A#7 = X 1 3 1 3 1
+A7 = X 0 2 0 2 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+Gm = 3 5 5 3 3 3

@@ -1,0 +1,63 @@
+@titulo: longe-demais
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Longe Demais
+
+
+(intro 2x) ( E5  G5  A5  B5  E5   C5  B5  G5 )
+
+E5                    G5             A5             B5 E5       C5 B5 G5
+Joelho no chão, eu vou rever a minha história e a do meu coração
+  E5                 G5         A5    B5    E5                   C5        B5 G5
+Poeira pro alto, sujeira nas mãos        e eu vi a minha fé vivida toda em vão
+  E5                 A5             E5       B5
+A vida é de quem sabe ter sinceridade     pra não viver desilusão
+
+( E5  A5  G5 )
+( E5  G5  A5  B5  A5  G5 )
+( E5  A5  G5 ) (2x)
+
+E                G             A              E
+E quando o frio me abraçar, levanto minhas mãos
+                       G     A      G      E
+E quando o sol se esconder, eu vou ouvir você
+          G           A  D    G          A         E
+Eu vou buscar a minha fé       antes do inverno passar
+           G           A  D    G           A         E
+Eu vou viver a minha fé         antes do inverno passar
+
+           G          A  D    G           A         E
+Eu vou buscar a minha fé       antes do inverno passar
+          G           A  D    G
+Eu vou viver a minha fé         antes do inverno passar
+
+(intro)
+
+   E5                 G5         A5       E5        C5 B5
+Foi longe demais a incerteza de saber se eu era capaz
+G5   E5               G5           A5     E5                           C5    B5  G5
+De cuidar de mim, esse foi o meu fim pensamentos frágeis que não me trouxeram paz
+  E5                 A5            E5    B5
+A vida é de que sabe ter a humildade     de pedir e dar perdão
+
+(refrão)
+(intro 2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+B5 = X 2 4 4 X X
+C5 = X 3 5 5 X X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X

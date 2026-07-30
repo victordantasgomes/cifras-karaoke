@@ -1,0 +1,66 @@
+@titulo: goodbye
+@autor:
+@intérprete: Matheus e Kauan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Matheus e Kauan - Goodbye
+
+Intro: G  D  Em  D  C Bm A
+
+   G       C
+Valeu, dos momentos contigo
+         G
+Não vou me esquecer
+   C                     G
+Valeu cada segundo junto de você
+        A        D
+Mas já deu, que pena
+
+
+  G        C                    G
+Adeus, não vou mentir pra te agradar
+   C                G
+Chegou a hora de terminar
+           A
+Melhor cortar pela raiz
+            D
+Eu me esforcei pra ser feliz
+        C                      D
+E só o que você queria era me ver chorar
+
+
+   G
+Tchau, cheguei no meu limite
+                   D
+Eu não aguento mais
+
+O que eu preciso agora
+                  Em
+É de um pouco de paz
+         D
+Não da mais
+  A        C
+Adeus, goodbye
+
+   G                                    D
+Tchau, mas que preguiça de recomeçar de novo
+
+Já sabendo do fim
+                 Em         D
+Eu prefiro que acabe esse amor
+ A         C
+Adeus, goodbye
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

@@ -1,0 +1,127 @@
+@titulo: ti-chiedo-onesta
+@autor:
+@intérprete: Renato Russo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renato Russo - Ti Chiedo Onestà
+
+               E
+Io stasera lo sai  Ricomincio da te
+     F#m
+E tu forse lo fai  Senza un vero perchê
+      E/G#
+Io stasera lo so  Mi rimetto nei guai
+        F#m
+Tu sai dire di no  ma perchè non lo fai
+       D7+/A
+Patti chiari fra noi  dividiamo a metà
+        E/G#
+Perchè dopo lo sai  C'è chi prende e chi da
+       F#m                  B7                    E
+Non ci credo alle grandi promesse  Ti chiedo onestà
+       C#m                F#m       A/B               E/G#
+Io ti chiedo soltanto onestà  E non voglio saper dove vai
+     C#m                   F#m             D#m     G#        C#m
+Cosa pensi e gli amici che hai  Quel che é stato  Quel che sarà
+      F#m       B          E       C#/Eb
+Io ti chiedo soltanto onestà...Onestà
+       G#                   Fm
+Questa voglia di noi  Io di te tu di me
+
+  Bbm                        Eb       Eb/C#
+    Può finire lo sai  nello stesso caffè
+     Cm                    Fm
+Dove lei mi lasciò  con la stessa bugia
+     Bbm             Eb
+Ci vediamo però  ora devo andar via
+     C#
+E stasera lo sai  ricomincio da te
+     Cm                   Fm
+Mi rimetto nei guai  di chi ama e non sa
+          Bbm                 Eb7/9               G#
+Che c'è i giorni che stiamo vivendo  c'è poca onestà
+       Fm                Bbm         Eb      Eb/C#    Cm
+E per questo pretendo onestà  perchè io sono fatto cosi
+       Fm                 Bb6        Gm         C7/9-    Fm
+Io non so dire non con un sì  e per questo se è amore sarà
+       Bbm           Eb7/9     G#     G7/4   G7
+Non ti chiedo che un pò di onestà...Onestà
+       C                    Am
+Perchè io ti darò  tutto il meglio di me
+       Dm              G        G/F
+Perchè io moriró dal bisogno di te
+      Em                  Am
+Mi concosco oramai  io do sempre di più
+          Dm                     G
+Gli altri prendono e via  non lo fare anche tu
+       F
+Non lo fare per me  per ridarmi allegria
+    Em                            Am
+Se amore non c'è  non ci vuole pietà
+       Dm               G                   C
+E per questo stasera ti chiedo soltanto onestà
+       Am                Dm          G       G/F        Em
+Io ti chiedo soltanto onestà  perchè sento che dentro ce l'hai
+        Am               Dm G
+Perchè sento che amore sarà   Io ti chiedo onestà
+
+[Solo] C  Am  Dm  G  G/F
+       Em  Am  Dm  G
+
+      F
+Io stasera lo sai  ricomincio da te
+       Em                             Am
+  Mi rimetto nei guai  qualche santo sarà
+       Dm                     G                     D
+Ma lo sento che à amore e per questo ti chiedo onestà
+
+      Bm                  Em
+Io ti chiedo soltanto onestà
+       A         A/G         F#m
+Perchè sento che dentro ce l'hai
+       Bm                Em
+Perchè sento che amore sarà
+A                  D  Bm     Em        A  A/G   F#m   Bm  Em   A   D
+ Io ti chiedo onestà...    ahh...Io ti chiedo onestá
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/G = 3 X 2 2 2 X
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+Bb6 = X 1 3 0 3 X
+Bbm = X 1 3 3 2 1
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#/Eb = 11 X 11 10 9 X
+C#m = X 4 6 6 5 4
+C7/9- = X 3 2 3 2 X
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D#m = X X 1 3 4 2
+D7+/A = 5 5 4 2 2 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Eb = X 6 5 3 4 3
+Eb/C# = X 4 5 3 4 X
+Eb7/9 = X 6 5 6 6 X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G/F = 1 X X 0 0 3
+G7 = 3 5 3 4 3 3
+G7/4 = 3 5 3 5 3 X
+Gm = 3 5 5 3 3 3

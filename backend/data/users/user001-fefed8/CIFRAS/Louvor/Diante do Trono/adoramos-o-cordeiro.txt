@@ -1,0 +1,64 @@
+@titulo: adoramos-o-cordeiro
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Adoramos o Cordeiro
+
+RIFF
+E|--------------|
+B|--------------|
+G|--------------|
+D|-------0---0--|
+A|-0-0-2---2----|
+E|--------------|
+
+D         A          [RIFF]
+ ADORAMOS O CORDEIRO
+D            A      A#º Bm
+ ADORAMOS O REI DOS RE  IS
+   Bm7M/F# E/G#        G
+ADORAMOS   O CORDEIRO
+    A       D   G   A
+ADORAMOS O REI
+
+RIFF
+E|--------------|
+B|--------------|
+G|--------------|
+D|-------0---0--|
+A|-0-0-2---2----|
+E|--------------|
+
+
+COM NOSSAS MÃOS LEVANTADAS RENDEMOS LOUVOR
+                      A        G       D
+COM NOSSAS MÃOS LEVANTADAS NOS REGOZIJAMOS
+            D7     G         D/F#
+COM NOSSAS MÃOS  LEVANTADAS AO CÉU
+       F#/A#    Bm        G         A    D
+NÓS DIZEMOS AO MUNDO QUE AMAMOS O NOSSO REI
+
+    D/F#
+Ô Ô Ô
+     G         G/A    D
+NÓS AMAMOS O NOSSO REI
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#º = X 1 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm7M/F# = 2 2 4 3 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+E/G# = 4 X 2 4 5 X
+F#/A# = 6 X 4 6 7 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X

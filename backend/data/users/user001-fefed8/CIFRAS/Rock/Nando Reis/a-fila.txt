@@ -1,0 +1,72 @@
+@titulo: a-fila
+@autor:
+@intérprete: Nando Reis
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nando Reis - A Fila
+
+ e|---------------------|                          
+ B|---------------------|
+ G|---------------------|
+ D|------2--------------|
+ A|-----2--5-5-2-5------|
+ E|0-0-3----------------|
+
+      G
+ Compramos presentes indo à feira
+                                     C
+ De chinelos mas muito bem vestidos
+
+ Atravessando a rua com cautela
+      G
+ E protegidos pela ciência
+                                 C
+ Amedrontados em fila na escola
+
+ Sem camisa a brisa, a chuva, a ventania
+
+ O venta entra dentro pela frente
+
+                   G
+ Vindo sem qualquer velocidade
+
+   Am      C
+ A fila a dúzia, o maço, um bocado
+                G
+ Um pedaço e um buquê
+
+ O pátio empresta o colo para ela
+   C
+ E ele, eles, elas somos todos outros
+                    G
+ E o pai leiteiro apaixonado
+                           C
+ Vê no filho um bezerro enquanto encosta
+
+ O ombro, as costas e as pernas
+                               G
+ No conforto do sofá de couro sem braços
+
+   Am      C
+ A fila a dúzia, o maço, um bocado
+                  G
+ Um pedaço e um buquê
+
+   Am             C
+ Avisa que eu procuro o mais barato pra sobrar
+      D/F#
+ O dinheiro que eu preciso pra comprar
+                     G
+ Muitas flores pra você
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D/F# = 2 X 0 2 3 2
+G = 3 2 0 0 0 3

@@ -1,0 +1,101 @@
+@titulo: quero-seguir-te
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Quero Seguir-te
+
+INTRO: : F#m7 : F#m7 : D2 : D2 : F#m7 : F#m7/E : D2 : Bm7 :
+
+
+        A2              F#m7
+QUERO SEGUIR-TE QUERO VIVER COMO TU
+E/G#    DM7(9)           Esus  E
+QUERO SEGUIR-TE DIA APÓS DIA
+        F#m7    E/G#     D
+QUERO SEGUIR-TE QUERO VIVER COMO TU
+        F#m7    F#m7/E          Bm7  E
+QUERO SEGUIR-TE        DIA APÓS DIA
+        A2       E/G#
+QUERO SEGUIR-TE
+
+          F#m7     D          A2    E/G#
+QUE O MEU CORAÇÃO SEJA QUEBRANTADO
+      F#m7              D            E     A Bm7 A/C# E
+QUE O MEU PRAZER SEJA FAZER A TUA VONTADE
+      F#m7     D             A2   E/G#
+QUE O TEU AMOR FLUA EM MINHA VIDA
+      F#m7                 D             E    D/F# E/G#
+QUE O TEU PERDÃO ALCANCE ATÉ OS MEUS INIMIGOS
+
+
+REINTRO: : F#m7 E :  D2  C#m7 : Bsus  B  E/G# : D/A Esus E :
+
+        A       Asus Asus A        F#m7       A/E A/E E
+QUERO SEGUIR-TE             QUERO VIVER COMO TU
+        DM7(9)  C#m7  C#m7  F#m7          Esus  E
+QUERO SEGUIR-TE                  DIA APÓS DIA
+        F#m7   E/G# E/G# A       F#m7        A/C# A/C# E/B
+QUERO SEGUIR-TE            QUERO VIVER COMO TU
+        DM7(9)  C#m7 C#m7 F#m7          Esus E
+QUERO SEGUIR-TE                DIA APÓS DIA
+        D2      F#m7  E  E/G#
+QUERO SEGUIR-TE
+
+          F#m7     D          A2   E/G#
+QUE O MEU CORAÇÃO SEJA QUEBRANTADO
+      F#m7              D            E    A Bm7 A/C# E
+QUE O MEU PRAZER SEJA FAZER A TUA VONTADE
+      F#m7     D             A2    E/G#
+QUE O TEU AMOR FLUA EM MINHA VIDA
+      F#m7       E         D    C#m7  : Bsus B E/G# : D/A B :
+QUE O TEU PERDÃO ALCANCE ATÉ OS MEUS INIMIGOS
+
+          G#m7     E          B2    F#/A#
+QUE O MEU CORAÇÃO SEJA QUEBRANTADO
+      G#m7              E            F#    B C#m7 B/D# F#
+QUE O MEU PRAZER SEJA FAZER A TUA VONTADE
+      G#m7     E             B2    F#/A#
+QUE O TEU AMOR FLUA EM MINHA VIDA
+      G#m7                  E      1: : F#  E/G# : F#/A# F#/D# : [CORO]
+                                   2: : F#  : F#/D# :  [TAG]
+QUE O TEU PERDÃO ALCANCE ATÉ OS MEUS INIMIGOS
+
+TAG:
+         E   B/D#  D  A/C#
+QUERO SEGUIR-TE
+
+FIM:
+         E  E  B/D# D D A/C# B
+QUERO SEGUIR-TE
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+Asus = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+Bm7 = X 2 4 2 3 2
+Bsus = X 2 4 4 4 2
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D2 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Esus = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#/D# = X 6 X 6 7 6
+F#m7 = 2 X 2 2 2 X
+F#m7/E = X X 2 2 5 2
+G#m7 = 4 X 4 4 4 X

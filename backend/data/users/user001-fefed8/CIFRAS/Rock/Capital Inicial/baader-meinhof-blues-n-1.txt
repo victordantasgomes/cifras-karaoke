@@ -1,0 +1,126 @@
+@titulo: baader-meinhof-blues-n-1
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Baader Meinhof Blues N°1
+
+(Renato Russo)                                                    .Capital Inicial (Aborto Elétrico)
+
+Intro.: (C5 D5 A5) - 4x sozinho
+
+[Riff] De Introdução
+   C5  D5  A5
+E|-------------|
+B|-------------| 
+G|-5/7-7-7-----| Este Riff sempre deverá ser tocado durante a canção
+
+D|-5/7-7-7-7-7-|      Quando os acordes (C5 D5 A5) aparecerem.
+A|-3/5-5-5-7-7-|
+E|---------5-5-|
+
+(C5 D5 A5)     (C5 D5 A5) - 8x
+Eh! Eh!
+
+(C5 D5 A5)                       (C5 D5 A5) - 3x
+Você! Você! Você! Você! Você!
+
+  D5            Dm7/F  D5          Dm7/F
+Você não se esqueceu, quis até lembrar
+
+  D5           Dm7/F       D5  Dm7/F
+E eu não quero mais ouvir
+        D5  Dm7/F        D5    Dm7/F   D5    Dm7/F   D5    Dm7/F
+Eu quero ver, não quero ser tão cego assim
+D5      Dm7/F D5      Dm7/F      D5         Dm7/F     D5   Dm7/F
+Como vocês, como vocês também, que nunca fazem nada mesmo
+D5      Dm7/F     D5        Dm7/F
+Controle! Auto controle visual
+D5           Dm7/F  D5     Dm7/F       (C5 D5 A5) - 4x
+Eu quero ver
+
+(C5 D5 A5)
+Você! Você! Você! Você! Você!
+
+  D5            Dm7/F  D5          Dm7/F
+Você não se esqueceu, quis até lembrar
+  D5           Dm7/F       D5  Dm7/F
+E eu não quero mais ouvir
+        D5  Dm7/F        D5    Dm7/F   D5    Dm7/F   D5    Dm7/F
+Eu quero ver, não quero ser tão cego assim
+D5      Dm7/F D5      Dm7/F      D5         Dm7/F     D5   Dm7/F
+Como vocês, como vocês também, que nunca fazem nada mesmo
+D5      Dm7/F     D5        Dm7/F
+Controle! Auto controle visual
+D5           Dm7/F  D5     Dm7/F       (C5 D5 A5) - 4x
+Eu quero ver
+
+
+[Solo] da Guitarra (C/ Distorção)
+   D5    A5        D5       A5         D5
+E|--------------||-----------------|3 ------------------------------------------|
+B|--------------||-----------------|v ------------------------------------------|
+G|-12h14--------||-12-12p14--------|e ---14--14--14--14----14----14----14----14-|
+D|-------h14p12-||----------h14p12-|z -12--12--12--12---12----12----12----12----|
+A|--------------||-----------------|e ------------------------------------------|
+E|--------------||-----------------|s ------------------------------------------|
+
+  D5  C5  A5      D5           C5          A5             D5      A5
+|------------|3 --------------------------------------|2 -----------------|4
+|---15-15-15-|v --------------------------------------|v -----------------|v
+|-14---------|e -14-14-14-14--12-12-12-12-------------|e -12-12p14--------|e
+|------------|z --------------------------12-12-12-12-|z ----------h14p12-|z
+|------------|e --------------------------------------|e -----------------|e
+|------------|s --------------------------------------|s -----------------|s
+
+ C5
+------------------------------------------|--------------|
+------------------------------------------|--------------|
+---14--14--14--14----14----14----14----14-|-14b-14......-|
+-12--12--12--12---12----12----12----12----|--------------|
+------------------------------------------|--------------|
+------------------------------------------|--------------|
+
+                                                           __
+                                                             | Guitarra pára e fica
+Você não se esqueceu, quis até lembrar                       | com o Baixo assim:
+E eu não quero mais ouvir                                    | 
+
+Eu quero ver, não quero ser tão cego assim                   |  D|-------------|
+Como vocês, como vocês também, que nunca fazem nada mesmo    |  A|-5-5-5-------|
+Controle! Auto controle visual                               |  E|-------1-1-1-|
+Eu quero ver!                                                |
+                                                           __|
+D5         Dm7/F    D5   Dm7/F
+Eu quero ver!
+(C5 D5 A5)
+Eu quero ver! Eu quero ver.....
+
+______________________________________________________________________________________
+Acordes Específicos
+
+Dm7/F - (xx3211)
+A5    - (577xxx)
+C5    - (x355xx)
+D5    - (x577xx)
+______________________________________________________________________________________
+ Notações
+
+/ ou s - Slide    - Sig: Deslizar - (Deslize o seu dedo sobre as cordas)
+h      - Hammer   - Sig: Martelo  - (Martele a corda na casa indicada)
+p      - Pull-Off - Sig: Extrair  - (Toque e largue rapidamente soando a próxima nota)
+______________________________________________________________________________________
+Trancrita por: Renan Pinto dos Santos
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+C5 = X 3 5 5 X X
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+Dm7/F = 1 X X 2 1 1

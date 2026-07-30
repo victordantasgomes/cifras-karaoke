@@ -1,0 +1,59 @@
+@titulo: filho-do-deus-vivo(versão 3)
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Filho do Deus Vivo
+
+Intro : C#m7   E   A   F#m
+       (C#m7   E   A   F#m)
+
+
+       C#m7              E               A
+ Verbo vivo, viveu entre nós, o Filho do Homem, o filho de Deus
+              C#m7               E             A
+ Curando os enfermos, livrando cativos, era chegado o reino de Deus
+         C#m7          E              A
+ Foi humilhado, crucificado, tão rejeitado pelos seus
+         C#m7         E         A
+ Ressuscitado, glorificado, o inferno e a morte venceu
+
+     E                    B9
+ E agora quem dizem que tú és?
+       A       C#m7         B9
+ Um profeta um agitador qualquer
+        E                       B9
+ Teu Espírito me revela quem Tu és
+     A9      C#m7 B9
+ O Ungido de Deus
+
+
+         C#m7                  E
+ Tu és o Cristo, filho do Deus Vivo
+            A                  F#m
+ Sobre esta rocha, tua igreja está
+         C#m7                  E
+ Tu és o Cristo, filho do Deus Vivo
+             A                     F#m
+ Rocha inabalável, outro igual não há,
+           C#m7  E  A  F#m
+ Igual não há.
+
+
+Espontâneo : C#m7  E  A
+
+END : C#m7  E  A  F#m (2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,76 @@
+@titulo: infeliz-natal
+@autor:
+@intérprete: Raimundos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raimundos - Infeliz Natal
+
+    C5       G5         A5       (4x)| C5      G5       A5   (5ªvez)|
+|-----------------|-----------------|-----------------|------------|
+|-----------------|-----------------|-----------------|------------|
+|-----5-----------|-----------------|-----5-----------|------------|
+|---5---5-----5---|-----7-------7---|---5---5-----5---|-7----------|
+|-3---------5---5-|---7---7---7---7-|-3---------5---5-|-7----------|
+|---------3-------|-5---------------|---------3-------|-5----------|
+
+intro: C5 G5 A5
+       C5 G5 A5
+       C5 G5 E5
+       C5 G5 A5
+
+C5     G5       A5
+Na sua casa tem ceia
+C5      G5        A5
+Na casa dele não tem
+C5     G5       E5
+Na sua casa tem compaixão
+C5      G5      A5
+Na casa dele incompreensão
+
+
+C5      G5 A5
+Infeliz Natal (4x)
+
+C5 G5 A5
+C5 G5 A5
+C5 G5 E5
+C5 G5 A5
+
+C5     G5       A5
+Na sua casa tem alegria
+C5      G5       A5
+Na casa dele não tem
+C5     G5          E5
+Na sua casa muitos amigos
+C5      G5               A5
+Na casa deles apenas solidão
+
+C5      G5 A5
+Infeliz Natal (4x)
+
+(E5 G5 A5 B5)
+Jingle Bells! Jingle Bells!
+Acabou o papel
+Não faz mal, não faz mal
+Limpa com jornal
+
+C5      G5 A5
+Infeliz Natal (4x)
+
+C5 G5 A5
+
+
+
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+B5 = X 2 4 4 X X
+C5 = X 3 5 5 X X
+E5 = 0 2 2 X X X
+G5 = 3 5 5 X X X

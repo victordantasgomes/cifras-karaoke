@@ -1,0 +1,75 @@
+@titulo: coracao-de-pedra
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Coração de Pedra
+
+Introdução:
+
+   G                    D                          C           G        D
+E|----7--8--7--8-7----------7------7-------------------------------------------|
+B|-----------------10-8-10-----10----10-8-7-8--10--8--10-8-7-------------------|
+G|-----------------------------------------------------------5-4--4-5-7--------|
+D|----------------------------------------------------------------------7-5-4--|
+A|-----------------------------------------------------------------------------|
+E|-----------------------------------------------------------------------------|
+
+G                D/F#                   C
+Quero você te abraçar Te envolver te sentir Onde
+            G    D C D G                    D/F#
+está seu carinho,      Sinto o teu cheiro no ar Com o
+            C                   G       D
+pranto no olhar De quem chora sozinho Perdido, sem
+ C     G    G4 G G4 G                            C
+rumo, sozinho.      Quanta indiferença você me faz,  Coração
+                G      G4 G
+de pedra me faz sofrer,   Não tem dó de mim só me faz
+ D   D9 D               C                  G  G4 G G4 G
+chorar,  Tento lhe esquecer só pra te esquecer.       Quanta
+
+                 C
+indiferença você me faz Tropeçei nas pedras do meu
+   G    G4 G                         D  D9 D
+caminho,   Fui amar a quem não devia amar,  E mais uma
+ C         G  G4  G G4
+vez acabei sozinho.
+
+   G                    D                          C           G        D           G
+E|----7--8--7--8-7----------7------7---------------------------------------------------|
+B|-----------------10-8-10-----10----10-8-7-8--10--8--10-8-7---------------------------|
+G|-----------------------------------------------------------5-4--4-5-7-------------8--|
+D|----------------------------------------------------------------------7-5-9-7-9-7----|
+A|-------------------------------------------------------------------------------------|
+E|-------------------------------------------------------------------------------------|
+
+                        C
+Quanta indiferença você me faz, Coração
+                G      G4 G
+de pedra me faz sofrer,   Não tem dó de mim só me faz
+ D   D9 D               C                  G  G4 G G4 G
+chorar,  Tento lhe esquecer só pra te esquecer.       Quanta
+                 C
+indiferença você me faz Tropeçei nas pedras do meu
+   G    G4 G                         D  D9 D
+caminho,   Fui amar a quem não devia amar,  E mais uma
+ C         G
+vez acabei sozinho.
+G                         D  D9 D
+Fui amar a quem não devia amar,  E mais uma
+ C        G   G4  G G4 G G4 G
+vez acabei sozinho.
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+G = 3 2 0 0 0 3
+G4 = 3 5 5 5 3 3

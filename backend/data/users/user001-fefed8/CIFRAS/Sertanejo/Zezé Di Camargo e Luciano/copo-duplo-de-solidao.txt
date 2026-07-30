@@ -1,0 +1,73 @@
+@titulo: copo-duplo-de-solidao
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Copo Duplo de Solidão
+
+(intro) F# B F# B F# B E B F#
+
+B
+Garçom eu passei da conta hoje fiquei de cabeça tonta
+                   F#
+E fui embora sem pagar
+       C#m          F#
+Não que eu tivesse duro tomei um litro de Whisky puro
+             E              B
+Nem sei como eu sair desse bar
+                B7                  E
+Acrescenta na despesa seus dez por cento da mesa e queira me desculpar
+                                        B
+Vê só quanto eu devo, que hoje eu não bebo nada
+                        F#                              B
+Por que a minha mulher amada ligou dizendo que vai voltar
+       E                                  B                     F#
+Não sou do tipo que se entrega na bebida mas eu não tive outra saída
+        E                B
+Pra suportar essa minha dor
+       C#                            F#         E               B
+Quando a saudade dela chega e detona joga o meu coração na lona
+
+    F#          B
+Nocautiado por amor
+
+ F#               E
+Hoje é o dia ''D'' garçom eu não vou beber
+B                                F#
+Mesmo assim eu lhe agradeço pela atenção
+                     E
+Mas se ela não cumprir amanhã eu tô aqui
+           B            F#          B
+Enchendo a cara num copo duplo de solidão
+
+     E                          B                       F#
+Não sou do tipo que e entrega na bebida mas eu não tive outra saída
+       E                 B
+Pra suportar essa minha dor
+       C#                            F#         E               B
+Quando a saudade dela chega e detona joga o meu coração na lona
+    F#         B
+Nocautiado por amor
+
+  F#              E
+Hoje é o dia ''D'' garçom eu não vou beber
+ B                              F#
+Mesmo assim eu lhe agradeço pela atenção
+                     E
+Mas se ela não cumprir amanhã eu tô aqui
+            B           F#          B
+Enchendo a cara num copo duplo de solidão
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2

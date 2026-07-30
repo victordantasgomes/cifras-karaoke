@@ -1,0 +1,39 @@
+@titulo: meu-sol-minha-lua
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Meu Sol, Minha Lua
+
+intro: D A D A G D 2X A
+
+   D                      G
+voce sente falta de mim e eu tambem sinto a sua
+   A              G                   D  A
+você é tudo pra mim é meu sol minha lua
+   D                      G
+você faz a vida melhor o seu amor me faz bem
+     A                  G                D
+não da pra pensar dividir você com ninguem
+
+refrão
+          A
+eu tenho medo de perder você
+          D
+eu tenho medo de morrer na solidão
+         A                    G
+se eu pudesse eu daria minha vida
+                     D D4 D
+pra ganhar seu coração
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+G = 3 2 0 0 0 3

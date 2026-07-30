@@ -1,0 +1,129 @@
+@titulo: memorial
+@autor:
+@intérprete: Supercombo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Supercombo - Memorial
+
+Intro: ( Gm Dm Gm Dm Gm Dm  D# )
+
+
+   (3x) Gm                   Dm          (1x) D#
+E|--------10-13-------------------------|-------10--10----10--10-----|
+B|-----11-------11----------------------|----------------------------|
+G|--12-------------12-----10-----10-----|---8--8------8--8-------8---|
+D|--------------------12-----12-----12--|----------------------------|
+A|--------------------------------------|----------------------------|
+E|--------------------------------------|----------------------------|
+
+
+Gm    Dm        Gm     Dm
+Eu furei o vermelho e fui dormir
+Gm    Dm          D#
+Larguei meu pé do freio
+Gm            Dm      Gm     Dm
+No asfalto eu consigo relaxar
+
+
+Cm   Gm
+     Agora é tarde
+
+Cm                     Gm
+O mundo inteiro girou e eu fiquei aqui
+Cm   Gm             F
+     Me deu saudade de tudo que eu não vivi
+C5  D5    D#5   F5
+Mas quero que você viva aí
+
+
+( Gm Dm Gm Dm Gm Dm  D# ) - Repete intro
+
+
+Gm    Dm        Gm     Dm
+Assinei um contrato que eu não li
+Gm    Dm          D#
+Me prendeu no passado, acho
+Gm          Dm      Gm     Dm
+Culpado é o tempo que passou
+Gm          Dm      D#
+Culpado é o tempo que passou
+
+
+Cm   Gm
+     Agora é tarde
+Cm                     Gm
+O mundo inteiro girou e eu fiquei aqui
+Cm   Gm             Cm
+     Me deu saudade de tudo que eu não vivi
+Gm                 Cm
+Mas quero que você viva aí, viva aí
+Gm              F
+Me deu saudade de tudo que eu não vivi
+C5  D5    D#5   F5
+Mas quero que você... viva aí
+
+
+      Gm
+E|------------------------------------------------------------|
+B|-----------------------------------------6-6-8-8-----6-6----|
+G|------8-7-----6---6-7------------8-7-------------7-7--------|
+D|--5-------8-5---------7-8----5-------8-5--------------------|
+A|------------------------------------------------------------|
+E|------------------------------------------------------------|
+
+( Gm )
+
+Gm
+Ficou tão tarde, ficou tão tarde
+D#7M               Cm
+Que o mundo nem me viu passar
+Gm
+Ficou tão tarde, ficou tão tarde
+
+      Gm           G5
+E|--------------------|
+B|--------------------|
+G|--3--3p2------------|
+D|----------3p0-------|
+A|---------------5----|
+E|---------------3----|
+
+Cm   Gm
+     Agora é tarde
+Cm                     Gm
+O mundo inteiro girou e eu fiquei aqui (parado, suspenso)
+Cm   Gm             Cm
+     Me deu saudade de tudo que eu não vivi
+Gm                 Cm
+Mas quero que você viva aí, viva aí
+Gm             F
+Ficou tão tarde que o mundo nem
+C5  D5    D#5   F5
+Me viu passar...    me viu passar.
+
+      Gm           G5
+E|--------------------|
+B|--------------------|
+G|--3--3p2------------|
+D|----------3p0-------|
+A|---------------5----|
+E|---------------3----|
+
+----------------- Acordes -----------------
+C5 = X 3 5 5 X X
+Cm = X 3 5 5 4 3
+D# = X 6 5 3 4 3
+D#5 = X 6 8 8 X X
+D#7M = X X 1 3 3 3
+D5 = X 5 7 7 X X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F5 = 1 3 3 X X X
+G5 = 3 5 5 X X X
+Gm = 3 5 5 3 3 3

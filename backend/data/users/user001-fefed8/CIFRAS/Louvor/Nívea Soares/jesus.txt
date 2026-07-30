@@ -1,0 +1,62 @@
+@titulo: jesus
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Jesus
+
+[Intro] C#m7  B  E/G#  A9
+        C#m7  B  E/G#  A9
+
+     C#m
+Mais doce que o mel
+   G#m/B                         A9
+Melhor   do que o vinho é o teu amor
+C#m7
+Tão amável és
+   G#m/B                  A9
+Perfume derramado é o Teu nome
+
+      F#m7          E/G#
+Tua beleza é incomparável
+            C#m7           Bsus
+Tesouro desejável Tua comunhão
+       F#m7                E/G#
+Tua presença é fogo que consome
+                    C#m7           Bsus
+Mais forte do que a morte é o Teu amor
+
+
+  C#m7   G#m/B
+Jesus
+   E/G#  A9
+Jesus
+   C#m7   G#m/B
+Jesus
+   E/G#     A9
+Jesus
+
+( C#m7  B  E/G#  A9 )
+( A9  B  C#m7  E9 )
+
+    A9                    B
+Eu quero estar contigo , amado da minh'alma
+C#m7             E9
+Tua noiva clama vem
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+Bsus = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+E/G# = 4 X 2 4 5 X
+E9 = 0 2 4 1 0 0
+F#m7 = 2 X 2 2 2 X
+G#m/B = X 2 X 1 4 4

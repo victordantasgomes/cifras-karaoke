@@ -1,0 +1,73 @@
+@titulo: tarde
+@autor:
+@intérprete: Biquini Cavadão
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Biquini Cavadão - Tarde
+
+Intro:  A(add9)      A(add9)/C#  Bm7           E7(4)
+
+A(add9)   A(add9)/C#           Bm7
+ Essa          tarde que cai é uma dor
+      E7(4)            A(add9)
+Que se apaga no anoitecer
+   A(add9)/C#            Bm7
+É uma raiva de quem não amou
+            E7(4)
+Não gastou seu querer
+A(add9)   E(11)/G#
+Viveu sonhando
+F#m7(11)       F#m7(11)
+Esperando alguém
+A(add9)  E(11)/G#        F#m7(11)
+Saiu perdendo sem nem ter apostado
+E7(4)
+Nem ter provado
+F#m7        C#m7
+Vivendo em vão
+F#m7        C#m7
+Vivendo em vão
+
+ D     A/C#   E4,7(9)
+Fotografia da solidão
+A(add9)   A(add9)/C#     Bm7
+E a      tarde caindo em dor
+  E7(4)                   A(add9)
+É  prenúncio da noite que vem
+  A(add9)/C#                Bm7
+Como a raiva que antes queimou
+     E7(4)
+Se esfria também
+  A(add9)   E(11)/G#
+Agora nem penso
+F#m7(11)       F#m7(11)
+Nem tento lembrar
+A(add9)  E(11)/G#      F#m7(11)
+Passou o tempo e o momento de amar
+    E7(4)
+Se cristalizou
+  F#m7           C#m7
+Vivendo em vão
+F#m7            C#m7
+Vivendo em vão
+   D     A/C#  E4,7(9)
+Fotografia da solidão
+
+Cifras by Rodrigo "correa"
+
+----------------- Acordes -----------------
+A(add9) = X 0 2 2 0 0
+A/C# = X 4 X 2 5 5
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+E4 = 0 2 2 2 0 0
+E7(4) = 0 2 0 2 0 X
+F#m7 = 2 X 2 2 2 X
+F#m7(11) = 2 X 2 2 0 X

@@ -1,0 +1,156 @@
+@titulo: cada-minuto
+@autor:
+@intérprete: Scalene
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Scalene - Cada Minuto
+
+G7M      A5(9)      Bm/E
+  E se o dia não che  gar
+G7M       A5(9)     Bm/E
+  Posso até me confor  mar
+G7M           A5(9)       Bm/E
+  Mas cada minuto dessa lu   ta
+G7M       A5(9)    Em  Em7
+  Vai ficar na memória
+
+Intro: Bm  G Bm  G A
+
+       Bm                 G
+E|--------------------------------------------|
+B|--------------------------------------------|
+G|--4-4-4-4-4--4-4-4-4-4--4-6-7-------------7-|
+D|------------------------------5--5-5--5-0-7-|
+A|--0h2-2-0-2--0h2-2-0-2--2-4-5---------------|
+E|------------------------------3--3-3--3-0---|
+
+    Bm       (Bm)             G            A
+E|----------------------------------------------------|
+B|----------------------------------------------------|
+G|--4-4-4-4-4--4-4-4-4-4--4-6-7-----------------------|
+D|------------------------------5--5-5--5-0--7--5-5-5-|
+A|--0h2-2-0-2--0h2-2-0-2--2-4-5-----------------------|
+E|------------------------------3--3-3--3-0--5--5-5-5-|
+
+
+Pequeno riff antes do vocal começar:
+E|--14b15b14----14----------------------------|
+B|-----------15-------------------------------|
+G|--------------------------------------------|
+D|--------------------------------------------|
+A|--------------------------------------------|
+E|--------------------------------------------|
+
+Bm             A        G    Em
+  Não ouse tentar me ini bir
+Bm            A         G         Em
+  É preciso muito para me fazer cair
+Bm               A          G     Em
+  Os passos que dou têm algo mais
+Bm          A         G       Em
+  Do que apenas uma mera direção
+
+G7M       A5(9)      Bm/E
+  Dizem que o pior é desistir
+G7M      A5(9)      Em7
+  Pior ainda não acreditar
+
+Bm
+  Por isso eu ando sem olhar pra trás
+G                            A
+  E o que me dizem não me impede mais
+Bm                                  G        A
+  De fazer apenas o que eu quero e ser quem sou
+
+Bm            A           G    Em
+  O mundo muitas vezes vai te (derrubar)
+Bm           A            G         Em
+  É preciso muito para manter seu lugar
+Bm          A            G       Em
+  Em todos nós existe um motivo pra continuar
+Bm        A           G        Em        G
+  Cada minuto dessa luta vai ficar na memória
+
+G7M       A5(9)        Bm/E
+  Dizem que o melhor é resistir
+G7M      A5(9)     Em7
+  Melhor ainda é saber lutar
+
+Bm
+  Por isso eu ando sem olhar pra trás
+G                            A
+  E o que me dizem não me impede mais
+Bm                                  G        A
+  De fazer apenas o que eu quero e ser quem sou
+Bm
+  Por isso eu ando sem olhar pra trás
+G                            A
+  E o que me dizem não me impede mais
+Bm                                  G        A
+  De fazer apenas o que eu quero e ser quem sou
+
+Interlúdio 4x: Bm  D A
+
+Riff:
+       Bm (2x)
+E|-------10------10---------------|
+B|----------0-------0----0--------|
+G|----11------11------11----------|
+D|--------------------------------|
+A|--------------------------------|
+E|--------------------------------|
+
+       C
+E|--------7-------7---------------|
+B|----------0-------0----0--------|
+G|-----7-------7-------7----------|
+D|--------------------------------|
+A|--------------------------------|
+E|--------------------------------|
+
+       A
+E|--------9-------9---------------|
+B|----------0-------0----0--------|
+G|-----9-------9-------9----------|
+D|--------------------------------|
+A|--------------------------------|
+E|--------------------------------|
+
+Este riff segura todo o refrão até o final:
+E|----7--7--7--7--7--7--7--7------|
+B|----7--7--7--7--7--7--7--7------|
+G|----7--7--7--7--7--7--7--7------|
+D|--------------------------------|
+A|--------------------------------|
+E|--------------------------------|
+
+Bm
+Por isso eu ando sem olhar pra trás
+G                            A
+E o que me dizem não me impede mais
+Bm                                  G        A
+De fazer apenas o que eu quero e ser quem sou
+Bm
+Por isso eu ando sem olhar pra trás
+G                            A
+E o que me dizem não me impede mais
+Bm                                  G        A  Bbm5- Bm
+De fazer apenas o que eu quero e ser quem sou
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5(9) = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+Bm/E = X X 2 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G7M = 3 X 4 4 3 X

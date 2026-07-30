@@ -1,0 +1,38 @@
+@titulo: general-de-guerra
+@autor:
+@intérprete: Adhemar de Campos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Adhemar de Campos - General de Guerra
+
+Em                    D/F#
+General de guerra à  frente na batalha
+G             C      B7
+Todo Poderoso é o Senhor
+
+Em                D/F#
+General de guerra que em toda batalha
+G               C        B7
+Sobre o inimigo impõe temor
+
+     C         D
+Faço parte do exército
+       C                 D    Em
+Que em Cristo é mais que vencedor
+C      D              B/D#
+Pela Palavra e pelo louvor
+
+----------------- Acordes -----------------
+B/D# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

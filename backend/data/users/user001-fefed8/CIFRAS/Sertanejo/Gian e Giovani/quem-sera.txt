@@ -1,0 +1,87 @@
+@titulo: quem-sera
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Quem Será
+
+Intro: D D/F# A/G G D
+       D/F# A/G G D/A A
+
+        D
+Quem será
+        A
+Quem será
+        Bm  Bm/A
+Quem será
+                 G
+Que te beija a boca
+              A
+E te deixa louca
+            D    G/A
+E te faz sonhar
+        D
+Quem será
+        A
+Quem será
+       Bm  Bm/A
+Quem será
+
+                G
+Que toca seu corpo
+              A
+E que fica morto
+              D
+De tanto te amar
+        E
+Quem será
+O dono desse amor
+   E/G#              A
+E viaja no seu pensamento
+                   G
+Que te arrepia a pele
+              D/F#
+E mexe por dentro
+             A
+Quem será o dono
+            D      G/A
+Do seu sentimento
+     D
+Eu aqui
+                   A/C#
+A ponto de enlouquecer
+    F#/A#           G
+Querendo saber de você
+              G/A    D   A
+Eu não aceito te perder
+     D
+Eu aqui
+ A/C#
+Morrendo,mordido por dentro
+    F#/A#
+Querendo uma chance
+       G
+Um momento
+                      D
+Preciso dizer que te amo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#/A# = 6 X 4 6 7 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X

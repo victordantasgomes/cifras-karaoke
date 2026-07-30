@@ -1,0 +1,92 @@
+@titulo: maluca
+@autor:
+@intérprete: Cássia Eller
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cássia Eller - Maluca
+
+Acordes:
+B7 = x21200
+Em = 022000
+B7/Eb = xx1202 (dedilhado)
+B7/F# = 2x120x (dedilhado)
+D = x00232
+C = x32010
+G#6? = 4xx554 (dedilhado)
+C7 = x32310
+
+
+Intro:
+E|-----------
+B|-----------
+G|-----------
+D|-----------
+A|-0-2-------
+E|-----0-2---   B7 (2x)
+
+(Nesse acorde B7 da Intro, alternar si e do na segunda corda - x21200 e
+x21210 - pra dar o efeito desejado).
+
+
+
+                 Em
+Num dia triste de chuva
+          B7/Eb     B7/F#
+Foi minha irma ... quem me chamou pra ver
+       Em                D
+Era um caminhao, era um caminhao
+     C                 G#6 (?)
+Carregado de botao de rosas
+           Em
+Eu fiquei maluca
+    D                               C
+Por flor tenho loucura, eu fiquei maluca
+B7
+Sai
+Quando voltei molhada
+              Em
+Com mais de duzias de botao
+        D                       C           C7
+Botei botao na sala, na mesa, na TV, no sofa
+B7                                    Em
+Na cama, no quarto, no chao, na penteadeira
+                  D
+Na cozinha, na geladeira, na varanda
+       C          C7                B7
+E na janela era grande o barulho da chuva
+      Em
+Da chuva
+            D
+Eu fiquei maluca
+            C    C7
+Eu fiquei maluca
+B7
+Sai
+Quando voltei molhada
+           Em
+Com mais de duzias de botao
+         D                      C            C7
+Botei botao na sala, na mesa, na TV, no sofa
+B7                                     Em
+Na cama, no quarto, no chao, na penteadeira
+                   D
+Na cozinha, na geladeira, na varanda
+        C7                          B7
+E na janela era grande o barulho da chuva
+   Em
+Da chuva
+            D
+Eu fiquei maluca
+            C      B7
+Eu fiquei maluca
+
+[Repete "Da chuva..."]
+Final: repete Intro (B7)
+
+----------------- Acordes -----------------

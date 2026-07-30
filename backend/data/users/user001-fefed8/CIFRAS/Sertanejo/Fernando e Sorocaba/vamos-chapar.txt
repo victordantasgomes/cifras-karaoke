@@ -1,0 +1,82 @@
+@titulo: vamos-chapar
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - Vamos Chapar
+
+Intro: Em  C  G  D  D4  D  D9  B7
+
+E|-------------------------7--|
+B|-----------8---8-8-8-8-8---8|
+G|-9-9-9-9-9---9--------------|
+
+[parte II]
+
+E|-----------|
+B|-7-8-7-----|
+G|-------9-7-|
+
+[parte I]
+
+Em                  C                     G
+desde que ela foi embora minha vida bagunçou
+                     D                        Em
+ diz que quem ama chora, mas nem sei se era amor
+            C                 G                     D
+ só vivo chapado, largado na rua, mas triste eu não tô
+
+
+[parte II]
+
+Em             C                      G
+só fazendo amizades pelos bares que bebi
+              D                        Em
+ e de você saudade acho que nem vou sentir
+                  C          G
+ se alguém me perguntar de você
+             D
+quem é? hum que?
+        C
+ vamo beber ê ê ê
+
+[Refrão]
+
+Em
+E quando me perguntam: cê tá sofrendo por amor?
+C
+ham? o que? traz outra que essa acabou
+G
+enche a geladeira que hoje a gente fecha o bar
+D           D#º
+vamo, vamo, vamo chapar
+Em
+se me perguntam: cê tá sofrendo por amor?
+C
+ham? o que? não sei por que ela me deixou
+G
+mas eu sei muito bem o que é que eu vim fazer no bar
+D                D#º
+vamos chapar que amar não vai rolar
+
+[Volta intro]
+[Repete Tudo]
+
+[Volta Parte II]
+[refrão 2x]
+
+----------------- Acordes -----------------
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D#º = X X 1 2 1 2
+D4 = X X 0 2 3 3
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

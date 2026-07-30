@@ -1,0 +1,88 @@
+@titulo: diferentes
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Diferentes
+
+Intro: A   Bm   G   Bm
+
+   (A   Bm   G   Bm)
+Estamos colados
+Como cacos de um vaso quebrado
+Desencontramos, na hora certa
+No dia errado
+
+Refrão:
+
+   G           Gsus4/F#         Em
+O que era muito, agora é muito pouco
+   G           Gsus4/F#             Em
+Somos perfeitos, desfeitos um pro outro
+
+Bm   G    D      A      Bm       G
+Quem vai entender, tão iguais e diferentes
+        D       A
+Quanto eu e você
+
+Bm   G    D      A      Bm       G
+Quem vai entender, tão iguais e diferentes
+
+        D       D        Em
+Quanto eu e você
+
+Inteo: A   Bm   G  Bm
+
+    A   Bm   G   Bm
+Nunca brigamos, ao mesmo tempo
+No mesmo espaço
+Inseparáveis, nos completamos
+Faltando um pedaço
+Refrão:
+   G           Gsus4/F#             Em
+O que era muito, agora é muito pouco
+   G           Gsus4/F#             Em
+Somos perfeitos, desfeitos um pro outro
+
+Bm   G    D      A      Bm       G
+Quem vai entender, tão iguais e diferentes
+        D       A
+Quanto eu e você
+
+Bm   G    D      A      Bm       G
+Quem vai entender, tão iguais e diferentes
+        D       D
+Quanto eu e você
+
+Solo: Bm  G  A
+
+   G           D/F#             E
+O que era muito, agora é muito pouco
+   G           D/F#             E
+Somos perfeitos, desfeitos um pro outro
+
+Bm   G    D      A      Bm       G
+Quem vai entender, tão iguais e diferentes
+        D       A
+Quanto eu e você
+
+Bm   G    D      A      Bm       G
+Quem vai entender, tão iguais e diferentes
+        D       D        Em
+Quanto eu e você
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+Gsus4/F# = X X 4 4 3 3

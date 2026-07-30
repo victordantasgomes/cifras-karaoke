@@ -1,0 +1,63 @@
+@titulo: bom-dia(simplificada)
+@autor:
+@intérprete: Los Hermanos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Los Hermanos - Bom Dia
+
+Capo Casa 4
+
+A    A7M  D
+bom dia,
+                      Dm           A         A7M   D
+olha as flores que eu trouxe pra você,amor..
+               Dm        A6
+são pra comemorar aquele dia
+       F#m7M       D          Dm
+que passei a viver do teu lado
+      A6            F#m7M
+eu me lembro,entre nós
+      D         Dm
+não havia quase nada
+
+                A        E      D
+e agora é só você que me faz cantar...
+       A         E      D
+é só você que me faz cantar...  (2x)
+
+  A    A7M  D
+havia,
+                   Dm          A            A7M  D
+mil motivos pra eu não estar naquele show..
+
+               Dm         A6
+mas o nosso destino foi escrito
+      F#m7M       D        Dm
+sob o som de uma banda qualquer
+      A6             F#m7M
+eu me lembro.. em setembro
+     D          Dm
+conheci minha mulher
+
+               A         E      D
+e agora é só você que me faz cantar..
+       A         E      D
+é só você que me faz cantar..
+       A         E      D
+é só você que me faz cantar..  (2x)
+
+----------------- Acordes -----------------
+Capotraste na 4ª casa
+A*  = X 0 2 2 2 0 - (*C# na forma de A)
+A6*  = 5 X 4 6 5 X - (*C#6 na forma de A6)
+A7M*  = X 0 2 1 2 0 - (*C#7M na forma de A7M)
+D*  = X X 0 2 3 2 - (*F# na forma de D)
+Dm*  = X X 0 2 3 1 - (*F#m na forma de Dm)
+E*  = 0 2 2 1 0 0 - (*G# na forma de E)
+F#m7M*  = X X 4 6 6 5 - (*A#m7M na forma de F#m7M)

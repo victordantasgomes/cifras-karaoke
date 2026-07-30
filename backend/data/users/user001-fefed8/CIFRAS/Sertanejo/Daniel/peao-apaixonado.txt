@@ -1,0 +1,47 @@
+@titulo: peao-apaixonado
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Peão Apaixonado
+
+Intro: D G A
+
+D                        D7            G
+Eu vou com tudo, hoje eu não fico de fora
+                 A            G             D
+Se a saudade apertar eu chego reio e meto espora
+D                 D7        G
+nada derruba um peão apaixonado,
+                      A        G              D
+que deixou em outro Estado a mulher que mais adora
+D                         D7           G
+Eu vou com tudo, hoje eu não fico de fora
+                 A            G             D
+Se a saudade apertar eu chego rei e meto espora
+
+(G D A) (D A D)
+
+      D                               A
+Pula boi, pula cavalo, pula cavalo de boi
+                                               D
+Coração pula no peito, lembrando o amor que se foi
+
+                           A
+Foi felicidade, felicidade sim,
+                                           D
+Coração pula no peito, saudade que não tem fim
+
+Eu vou com tudo...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3

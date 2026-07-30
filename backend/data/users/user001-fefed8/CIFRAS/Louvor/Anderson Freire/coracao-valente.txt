@@ -1,0 +1,160 @@
+@titulo: coracao-valente
+@autor:
+@intérprete: Anderson Freire
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Anderson Freire - Coração Valente
+
+[Intro] C#m  F#m7(11)  G#7(4)  G#7  A9  B4
+
+ C#m            A/C#          C#m  C#7(4/9)
+Circunstâncias dizem que não dá
+ C#m         A/C#        F#m7(11)
+Falam que você está tão perto de parar
+ B4
+Coração valente
+B4/D#                   E9
+É assim que quero hoje te chamar
+
+C#m           A/C#       C#m  C#7(4/9)
+É normal na guerra se ferir
+C#m                        F#m7(11)
+E pra não morrer às vezes pensa em fugir
+ B4
+Cego pelo medo
+     B/A                      E/G#
+Não vê que o gigante é bem menor que a mão de Deus
+ D7M          C#7              F#m7(11)
+Não quero contar na história que você morreu
+
+    Am6                   E9
+Se por um tempo você só adormeceu
+
+     C#m                  F#m7(11)          A9
+Coração, por três dias Jesus parou de respirar
+             G#7(4)     G#7
+Pra fazer você ressuscitar
+      C#m               F#m7(11)
+Tudo bem, de carne você é
+                  A9
+Mas sua estrutura é a fé
+           G#7(4)     G#7        A9  B4  C#m
+Coração valente você não pode parar
+
+C#m           A/C#       C#m  C#7(4/9)
+É normal na guerra se ferir
+C#m                        F#m7(11)
+E pra não morrer às vezes pensa em fugir
+ B4
+Cego pelo medo
+     B/A                      E/G#
+Não vê que o gigante é bem menor que a mão de Deus
+ D7M          C#7              F#m7(11)
+Não quero contar na história que você morreu
+    Am6                   E9
+Se por um tempo você só adormeceu
+
+ A9/C#  B4/D#  C#m                  F#m7(11)          A9
+Co_____ra_____ção, por três dias Jesus parou de respirar
+             G#7(4)     G#7
+Pra fazer você ressuscitar
+      C#m               F#m7(11)
+Tudo bem, de carne você é
+                  A9
+Mas sua estrutura é a fé
+           G#7(4)     G#7
+Coração valente você não pode parar
+
+[Solo] A9  B4  C#m  ( C#  D#  E  F# )  A9  B4  G#7(4)
+
+Parte 1
+
+E|-----------------------------------------------------------|
+B|-----------------------------------------------------------|
+G|-4h6~~--6-8-9-11b13--13r11p9-11--11-13b14~-14r13p11-13-----|
+D|-----------------------------------------------------------|
+A|-----------------------------------------------------------|
+E|-----------------------------------------------------------|
+
+Parte 2
+
+E|-14b16r14p12----12-----------------------------------------|
+B|-------------14----14p12----14-12\9----12-9----------------|
+G|-------------------------13---------11------11-------------|
+D|-----------------------------------------------------------|
+A|-----------------------------------------------------------|
+E|-----------------------------------------------------------|
+
+Parte 3
+
+E|-----------14----------------------------------------------|
+B|-/14-16-17----19b21-16b17-17r16-14~--19b21-16b17-17r16-14~-|
+G|-----------------------------------------------------------|
+D|-----------------------------------------------------------|
+A|-----------------------------------------------------------|
+E|-----------------------------------------------------------|
+
+Parte 4
+
+E|-------16-20-------16-20-------16-20-----------------------|
+B|-19b21-------19b21-------19b21-------19b21r19b21~~\--------|
+G|-----------------------------------------------------------|
+D|-----------------------------------------------------------|
+A|-----------------------------------------------------------|
+E|-----------------------------------------------------------|
+
+        ( F#  E  D#  C#  D#  C#  C  A  G# )
+Coração
+     C#m                  F#m7(11)          A9
+Coração, por três dias Jesus parou de respirar
+             G#7(4)     G#7
+Pra fazer você ressuscitar
+      C#m               F#m7(11)
+Tudo bem, de carne você é
+                  A9
+Mas sua estrutura é a fé
+           G#7(4)     G#7
+Coração valente você não pode parar
+
+     C#m                  F#m7(11)          A9
+Coração, por três dias Jesus parou de respirar
+             G#7(4)     G#7
+Pra fazer você ressuscitar
+      C#m               F#m7(11)
+Tudo bem, de carne você é
+                  A9
+Mas sua estrutura é a fé
+           G#7(4)     G#7        A9  B4  C#m7(9)
+Coração valente você não pode parar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+Am6 = 5 X 4 5 5 X
+B/A = X 0 4 4 4 X
+B4 = X 2 4 4 5 2
+B4/D# = X 6 4 4 5 7
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#7 = X 4 3 4 2 X
+C#7(4/9) = X 4 4 4 4 4
+C#m = X 4 6 6 5 4
+C#m7(9) = X 4 2 4 4 X
+D# = X 6 5 3 4 3
+D7M = X X 0 2 2 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E9 = 0 2 4 1 0 0
+F# = 2 4 4 3 2 2
+F#m7(11) = 2 X 2 2 0 X
+G# = 4 3 1 1 1 4
+G#7 = 4 6 4 5 4 4
+G#7(4) = 4 6 4 6 4 X

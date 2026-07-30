@@ -1,0 +1,71 @@
+@titulo: natural
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Natural
+
+Solo:
+
+e|------------------------------------------------------------5-4-2-0-0--
+B|----------2------------2-2--2-2-2-2-2-4-4-4-5-2------------------------
+G|------1-4---4------1-4--4-----------------------2-2-2------------------
+D|--2-2----------2-2-----------------------------------2-4-2-------------
+A|-----------------------------------------------------------------------
+E|-----------------------------------------------------------------------
+
+Penso em você, no seu jeito de falar
+               B           A                     E
+Sua maneira de ser e perguntar o que é muito natural
+
+                             A
+Como é natural em você acontecer
+             B              A               E
+Um desejo de ver a cor da estrada e desaparecer
+
+B7            A           E     E7 A Am E
+Vou seguir os passos e tentar saber
+B7            A            E     E7 A Am E
+Onde em que cidade se escondeu você
+
+
+E                                   A
+Quero, sem pensar, o seu jeito de calar
+                B           A                  E
+De ouvir aquele resto de canção que morre pelo ar
+
+                                  A
+Que brinca pelo ar como coisa natural
+                   B             A                 E
+Em seu corpo tão sereno acende a velha mania de cantar
+
+B7            A           E     E7 A Am E
+Vou seguir os passos e tentar saber
+B7            A            E     E7 A Am E
+Onde em que cidade se escondeu você
+
+B7         A      E        C#m  C#m C B
+Voz do coração deixou, oh, oh
+B7         A               E    E7
+E pergunta sempre onde andará você
+
+B7         A        E       C#m
+Em meu coração há razão, oh, oh
+A     B7      E
+Não esqueço você
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0

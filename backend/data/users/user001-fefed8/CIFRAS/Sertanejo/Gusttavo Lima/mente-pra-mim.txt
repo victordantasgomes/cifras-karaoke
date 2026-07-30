@@ -1,0 +1,133 @@
+@titulo: mente-pra-mim
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Mente Pra Mim
+
+Intro: C#m A E B
+
+E|------------------------------------------------------------------------------|
+B|---------------------------------------7/9-7-7-7-7-4-7-7--7-7-7-7/9-7-7-2-7-9-|
+G|------------------------------------------------------------------------------|
+D|--6-4-6-4-6-4-6---6-6-6-6/8-9-6-6-4-6-----------------------------------------|
+A|------------------------------------------------------------------------------|
+E|------------------------------------------------------------------------------|
+
+C#m
+Olha dentro dos meus olhos
+                   E
+E me conta umas mentiras
+Só pra me agradar
+B
+Fala que hoje eu tô bonito
+                   F#
+Que ainda pensa em mim quando vai se deitar
+C#m
+Diz que quando acorda todo dia
+                  E
+Seu primeiro pensamento pode ser que seja eu
+
+
+B
+Mente pra esse cara inocente
+                 F#           RIFF 01
+Fala que ele ainda vai ser seu
+C#m
+O amor da sua vida era eu
+            F#  RIFF 02
+Não era verdade
+A                F#m
+Eu vou amar doendo, eu vou amar sofrendo
+B                               RIFF 03
+Mesmo sabendo que tudo pode acabar
+
+RIFF 01
+E|-7-6-------------
+B|------7--4--4/5--
+
+RIFF 02
+E|-7-6-4-5---
+B|-----------
+
+RIFF03
+E|--------------------
+B|-----5-4------------
+G|---4-----4-----4----
+D|-4---------4/6---6--
+A|--------------------
+E|--------------------
+
+C#m
+Mente pra mim
+É o que eu gosto
+A
+Quanto mais você me ilude mais eu te adoro
+E
+Menina indecente, que finge ser carente
+B
+E é desse jeito que eu te provoco
+
+C#m
+Mente pra mim
+É o que eu gosto
+A
+Quanto mais você me ilude mais eu te adoro
+E
+Menina indecente, que finge ser carente
+B
+E é desse jeito que eu te provoco
+
+(repete a intro)
+
+Base: C#m A E B
+
+E|--------------------------4-----------------5/7-5-4---4---4-5-7-----|
+B|--5-4-5-4-5-----5-4-5-4-5-----5-4-5-4-5-4-5---------7-----------7~--|
+G|--------------------------------------------------------------------|
+D|--------------------------------------------------------------------|
+A|--------------------------------------------------------------------|
+E|--------------------------------------------------------------------|
+
+C#m
+O amor da sua vida era eu
+     B    A#  G#  A#
+Não era verdade
+A                F#m
+Eu vou amar doendo, eu vou amar sofrendo
+B                                  RIFF 04
+Mesmo sabendo que tudo pode acabar
+
+RIFF 04
+E|--------------------
+B|--4-5-4-------------
+G|-------6-4---4---4--
+D|-----------6---6----
+A|--------------------
+E|--------------------
+
+C#m
+Mente pra mim
+É o que eu gosto
+A
+Quanto mais você me ilude mais eu te adoro
+E
+Menina indecente, que finge ser carente
+B
+E é desse jeito que eu te provoco
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A# = X 1 3 3 3 1
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G# = 4 3 1 1 1 4

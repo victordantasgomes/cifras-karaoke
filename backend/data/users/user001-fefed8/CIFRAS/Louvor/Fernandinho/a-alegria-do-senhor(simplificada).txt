@@ -1,0 +1,56 @@
+@titulo: a-alegria-do-senhor(simplificada)
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - A Alegria do Senhor
+
+INTRO: Gm  Bb  G5
+
+Gm
+ Vento sopra forte
+
+ Tuas águas não podem me afogar
+Gm
+ Vento sopra forte
+
+ E em suas mãos vou segurar
+
+Solo: Gm  Bb  Gm  F  Gm  Bb
+
+Cm
+ E não me guio pelo que vejo
+Gm
+ Mas eu sigo pelo que creio
+Cm
+ Eu não olho as circunstâncias
+D#               D
+ Eu vejo o teu amor
+
+
+Gm             Bb               D#                Cm
+ A Alegria do Senhor é a nossa força, ah, ah, ah, ah, ah...
+
+        Bb                  D#
+Essa alegria não vai mais sair
+        Cm                  Gm
+Essa alegria não vai mais sair
+        Bb                  D#
+Essa alegria não vai mais sair
+    Cm               Gm
+De dentro do meu coração
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+G5 = 3 5 5 X X X
+Gm = 3 5 5 3 3 3

@@ -1,0 +1,82 @@
+@titulo: a-deriva
+@autor:
+@intérprete: Supercombo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Supercombo - A Deríva
+
+(intro)
+
+E|-2-|     e|-3-|     e|-2-|     e|-0-|
+B|-3-| x8  B|-3-| x8  B|-2-| x8  B|-2-| x8
+G|-4-|     G|-4-|     G|-2-|     G|-2-|
+
+         Bm  G       A  F#
+Eu me perdi   logo agora
+               Bm       G       A F#
+Que as ondas  batem no céu, no céu;
+
+( Bm  G  A  F# ) (2x)
+
+         Bm G        A F#
+Eu naveguei  no seu mar;
+          Bm              G     A F#
+Não te contei que eu não sei nadar;
+           Bm G       A F#
+e eu digo mais pra você... (2x)
+
+  Bm       A         G             Em
+Estava no barco, à deriva, sem as velas;
+
+ Bm       A         G            Em
+Perto do meio do oceano, sem um plano;
+
+( Bm G A F# ) (2x)
+
+                         Bm    G          A F#
+Será que o fundo é muito longe? (será? será?)
+                         Bm G          A  F#
+Será que é longe pra voltar? (será? será?)
+           Bm G       A F#
+e eu digo mais pra você... (2x)
+
+  Bm       A         G             Em
+Estava no barco, à deriva, sem as velas;
+ Bm       A         G            Em
+Perto do meio do oceano, sem um plano;
+ Bm       D          G          Em
+Como uma casa sem janela, sem janela;
+Bm      A          G           Em
+Em uma rua sem calçada, sem calçada;
+
+( G  A  Em ) (4x)
+
+Bm       A         G           Em
+Era uma casa, à deriva, sem janela;
+Bm    A           G           Em
+No oceano sem calçada, sem calçada
+Bm       D          G          Em
+Era uma casa sem janela, sem janela;
+Bm    A           G            Em
+No oceano sem calçada, sem calçada;
+
+(G  A  Em)
+
+E|-0-|
+B|-2-|
+G|-3-|
+D|-2-|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

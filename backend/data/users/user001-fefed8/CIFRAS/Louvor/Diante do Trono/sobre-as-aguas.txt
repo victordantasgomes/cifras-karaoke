@@ -1,0 +1,86 @@
+@titulo: sobre-as-aguas
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Sobre As Águas
+
+Intro: F#m  A    E    Bm
+
+F#m      A
+Tu me vês
+            E          Bm
+Quando as tempestades vem sobre mim
+F#m    A
+Me vês
+           E         Bm
+Quando o vento sopra contra mim
+D9
+E vens
+    Bm                   F#m    A    E    Bm
+Ao meu socorro na noite escura
+
+    Bm
+Eu preciso ouvir
+    F#m
+Tua voz que me diz
+           D9
+Não tenha medo
+
+E4  E
+Sou eu
+
+A9
+Se és tu, senhor
+        Bm           D9
+Manda-me ir sobre as águas
+F#m
+Ao teu encontro vou
+      E/G#          D9
+Eu andarei sobre as águas
+
+Bm  D9  F#m  E/G#   2x
+
+Bm           D9            F#m
+Sobre tua palavra eu posso andar
+           E
+Não quero duvidar
+Bm           D
+Mas se minha fé falhar
+   F#m
+Eu sei
+            E
+Tua mão me susterá
+
+A9
+Se és tu, senhor
+        Bm           D9
+Manda-me ir sobre as águas
+F#m
+Ao teu encontro vou
+      E/G#          D9
+Eu andarei sobre as águas
+
+F#m          E/G#    D       Bm
+Sobre as águas, sobre as águas
+F#m          E/G#    D       Bm
+Sobre as águas, sobre as águas
+
+Final: F#m  A    E    Bm (durante o espontâneo)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2

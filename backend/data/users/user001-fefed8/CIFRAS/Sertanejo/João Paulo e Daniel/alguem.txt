@@ -1,0 +1,121 @@
+@titulo: alguem
+@autor:
+@intérprete: João Paulo e Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+João Paulo e Daniel - Alguém
+
+[Intro]  F  Am  Bb  C  Bb/C  C
+
+[Primeira Parte]
+
+    F          Am
+Alguém, eu preciso ter alguém
+    Bb          F          Bb/C
+Alguém, que me faça ser feliz
+    F          Am
+Alguém, pra ficar junto de mim
+    Bb           Gm     C      F
+Alguém, que me queira amar também
+
+[Pré-Refrão]
+
+    C                 C/E
+De noite se a chuva cair
+     F                F/A
+Eu quero deitar e dormir
+       C
+Nos braços do amor
+
+        Bb/C               F
+Que souber navegar no meu peito
+    C                  A
+E quando o sol me acordar
+     Dm
+Eu quero voltar a sonhar
+       Bb                C
+Que a vida me deu de presente
+               F    C
+O que tinha direito
+
+[Refrão]
+
+        F          Am
+Quero amar sem pensar
+        Bb                   C
+Que um dia alguém me fez chorar
+                F    C
+Matou meu sentimento
+        F          Am
+Quero amar sem pensar
+        Bb
+Que o amor pra ser verdade
+ C                    F     Bb/C
+Tem que machucar por dentro
+
+( F  Am  Bb  C  Bb/C  C )
+
+[Pré-Refrão]
+
+    C                 C/E
+De noite se a chuva cair
+     F                F/A
+Eu quero deitar e dormir
+       C
+Nos braços do amor
+        Bb/C               F
+Que souber navegar no meu peito
+    C                  A
+E quando o sol me acordar
+     Dm
+Eu quero voltar a sonhar
+       Bb                C
+Que a vida me deu de presente
+               F    C
+O que tinha direito
+
+[Refrão]
+
+        F          Am
+Quero amar sem pensar
+        Bb                   C
+Que um dia alguém me fez chorar
+                F    C
+Matou meu sentimento
+        F          Am
+Quero amar sem pensar
+        Bb
+Que o amor pra ser verdade
+ C                    F     Bb/C
+Tem que machucar por dentro
+
+        F          Am
+Quero amar sem pensar
+        Bb                   C
+Que um dia alguém me fez chorar
+                F    C
+Matou meu sentimento
+        F          Am
+Quero amar sem pensar
+        Bb
+Que o amor pra ser verdade
+ C                    F     Bb/C
+Tem que machucar por dentro
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+Bb/C = X 3 X 3 3 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+Gm = 3 5 5 3 3 3

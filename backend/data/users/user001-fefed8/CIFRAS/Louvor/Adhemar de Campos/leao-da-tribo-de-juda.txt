@@ -1,0 +1,67 @@
+@titulo: leao-da-tribo-de-juda
+@autor:
+@intérprete: Adhemar de Campos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Adhemar de Campos - Leão da Tribo de Judá
+
+[Intro]  Em7  Em7/D  Em/Db  Em/C  Em/D
+         Em7  Em7/D  Em/Db  Em/C  Em/D
+
+          Em
+Ele é o Leão da tribo de Judá
+         Am
+Jesus tomou nossas cadeias e nos libertou
+Em             Em/D       C#7(#9) F#m7(11) B7(b13)
+Ele é a Rocha da nossa vitória
+         Em
+A nossa Força em tempos de fraqueza
+     Am
+Uma Torre em tempos de guerra
+F#m7(11)  F7(b5)    Em    Em/C  Em/D
+Ó    esperança     de Israel!
+
+          Em
+Ele é o Leão da tribo de Judá
+         Am
+Jesus tomou nossas cadeias e nos libertou
+Em             Em/D       C#7(#9) F#m7(11) B7(b13)
+Ele é a Rocha da nossa vitória
+         Em
+A nossa Força em tempos de fraqueza
+     Am
+Uma Torre em tempos de guerra
+F#m7(11)  F7(b5)    Em    Em/C  Em/D
+Ó    esperança     de Israel!
+
+         Em
+A nossa Força em tempos de fraqueza
+     Am
+Uma Torre em tempos de guerra
+
+F#m7(11)  F7(b5)      Em
+Ó    esperança de Israel
+F#m7(11)  F7(b5)      Em
+Ó    esperança de Israel
+F#m7(11)  F7(b5)  C     F#m7(11)
+Ó    esperança   de Israel
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B7(b13) = X 2 X 2 4 3
+C = X 3 2 0 1 0
+C#7(#9) = X 4 3 4 5 X
+Em = 0 2 2 0 0 0
+Em/C = 8 7 5 X 8 X
+Em/D = X X 0 4 5 3
+Em/Db = X 4 2 0 0 X
+Em7 = 0 2 2 0 3 0
+Em7/D = X X 0 0 3 0
+F#m7(11) = 2 X 2 2 0 X
+F7(b5) = 1 X 1 2 0 X

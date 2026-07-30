@@ -1,0 +1,153 @@
+@titulo: deus-e-fiel
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Deus É Fiel
+
+[Intro] D  Dadd9  G/D
+        D  Dadd9  G/D
+        D  Dadd9  G/D
+
+   D        A         Bm7
+Em meio aos muitos problemas
+   Em7               Asus4  A
+Em meio as lutas sem fim
+A/D       D7M      Bm  B7
+Por entre muitos dilemas
+Em7                    Asus4  A
+Que se apresentam para mim
+
+   D        A        Bm7
+As vezes eu posso passar
+    Em7                Asus4  A
+Uma noite inteira a chorar
+    A/D         D          G
+Mas sei que meu deus, logo pela manhã
+  E/G#            Asus4       A
+Fará novamente o sol brilhar
+
+       Bm7                   F#m7
+E encherá de alegria os meus lábios
+    G       A7        D
+E o meu coração de louvor
+      Em7       A           F#m7     G
+Assim vou descansar, sim eu vou confiar
+       Em7       Asus4  A    D
+No seu grande e imenso  amor
+
+Asus4    D  D/F#  G  A  Bm7
+Deus é fiel,      é  fi-el
+ G                D/F#
+Acima de todas as coisas, eu sei
+   Em7                  Asus4  A
+Eu sei que meu deus é fiel
+
+Asus4    D  D/F#  G  A  Bm7
+Deus é fiel,      é  fi-el
+ G                D/F#
+Acima de todas as coisas, eu sei
+   Em7         A        G/D
+Eu sei que meu deus é fiel
+
+( Dadd9  G/D )
+
+   D        A         Bm7
+Em meio aos muitos problemas
+   Em7               Asus4  A
+Em meio as lutas sem fim
+A/D       D7M      Bm  B7
+Por entre muitos dilemas
+Em7                    Asus4  A
+Que se apresentam para mim
+
+   D        A        Bm7
+As vezes eu posso passar
+    Em7                Asus4  A
+Uma noite inteira a chorar
+    A/D         D          G
+Mas sei que meu deus, logo pela manhã
+  E/G#            Asus4       A
+Fará novamente o sol brilhar
+
+       Bm7                   F#m7
+E encherá de alegria os meus lábios
+    G       A7        D
+E o meu coração de louvor
+      Em7       A           F#m7     G
+Assim vou descansar, sim eu vou confiar
+       Em7       Asus4  A    D
+No seu grande e imenso  amor
+
+Asus4    D  D/F#  G  A  Bm7
+Deus é fiel,      é  fi-el
+ G                D/F#
+Acima de todas as coisas, eu sei
+   Em7                  Asus4  A
+Eu sei que meu deus é fiel
+
+Asus4    D  D/F#  G  A  Bm7
+Deus é fiel,      é  fi-el
+ G                D/F#
+Acima de todas as coisas, eu sei
+   Em7         A        D
+Eu sei que meu deus é fiel
+
+Bsus4    E  E/G#  A  B  C#m7
+Deus é fiel,      é  fi-el
+ A                E/G#
+Acima de todas as coisas, eu sei
+   F#m7                 Bsus4  B
+Eu sei que meu deus é fiel
+
+Bsus4    E  E/G#  A  B  C#m7
+Deus é fiel,      é  fi-el
+ A                E/G#
+Acima de todas as coisas, eu sei
+   F#m7        B7       Eadd9  E/G#
+Eu sei que meu deus é fiel
+
+ A               E/G#
+Acima das circunstâncias, eu sei
+   F#m7        B7       Eadd9  E/G#
+Eu sei que meu deus é fiel
+
+ A            E/G#
+Acima dos impossíveis, eu sei
+   F#m7        B7        Eadd9
+Eu sei que meu deus é fiel
+
+[Final] E/G#  Aadd9  E/G#  F#m7  B7  Eadd9  E/G#  Aadd9  E/G#  F#m7(4)  B7  B7/D#  Eadd9  Asus9  E  Asus9  E
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/D = X X 0 6 5 5
+A7 = X 0 2 0 2 0
+Aadd9 = X 0 2 2 0 0
+Asus4 = X 0 2 2 3 0
+Asus9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+B7/D# = X X 1 2 0 2
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Bsus4 = X 2 4 4 5 2
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7M = X X 0 2 2 2
+Dadd9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Eadd9 = 0 2 4 1 0 0
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+F#m7(4) = 2 X 2 2 0 X
+G = 3 2 0 0 0 3
+G/D = X 5 5 4 3 X

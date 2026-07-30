@@ -1,0 +1,48 @@
+@titulo: cura-me
+@autor:
+@intérprete: Padre Marcelo Rossi
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Padre Marcelo Rossi - Cura-me
+
+D  F#m        Bm  Bm/A
+Hoje, Senhor Jesus,
+        G Em       A4  A
+venho aqui para louvar-Te
+D  F#m        Bm  Bm/A
+Hoje, Senhor Jesus,
+           G Em        A4  A
+com Teu poder podes curar-me
+D
+Cura-me Senhor
+Bm
+Pois quero viver
+G             Em
+Dá-me o Teu amor
+            A4          A
+Sem Ti não posso ser feliz
+D
+Cura-me Senhor
+Bm
+Livra-me do mal
+G           Em
+Toca o coração
+
+           A4        A   D
+Para alcançar a santidade
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

@@ -1,0 +1,77 @@
+@titulo: nas-estrelas
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Nas Estrelas
+
+A         F#m      D      E
+Nas estrelas vejo a Sua mão,
+A         F#m     D      E
+E no vento ouço a Sua voz.
+A      A7         D       Dm
+Deus domina sobre terra e mar.
+C#m7       C7      Bm   E
+   Tudo Ele é pra mim
+
+A      F#m       D      E
+Eu sei o sentido do natal,
+A         F#m          D      E
+Pois na história tem o seu lugar.
+A      A7        D      Dm
+Cristo veio para nos salvar.
+C#m7       C7      Bm   E
+   Tudo Ele é pra mim
+
+D                              C#m7
+Até que um dia seu amor senti, Sua imensa graça recebi.
+Bm7                                E4+               E                 E
+Descobri, então, que Deus não vive longe lá no céu, sem se importar comigo.
+
+A     F#m        D       E
+Mas agora ao meu lado está.
+A    F#m       D      E
+Cada dia sinto Seu cuidar
+A        A7    D C#m Bm7
+Ajudando-me a caminhar.
+E4+      E     A     F#m
+Tudo Ele é pra mim.
+
+D                              C#m7
+Até que um dia seu amor senti, Sua imensa graça recebi.
+Bm7                                E4+               E                 E
+Descobri, então, que Deus não vive longe lá no céu, sem se importar comigo.
+
+A     F#m        D       E
+Mas agora ao meu lado está.
+A    F#m       D      E
+Cada dia sinto Seu cuidar
+A        A7    D C#m Bm7
+Ajudando-me a caminhar.
+E4+      E     A     F#m
+Tudo Ele é pra mim.
+
+D        E     A     F#m
+Tudo Ele é pra mim.
+D       E        A
+Tudo é Jesus pra mim.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E4+ = 0 2 2 3 0 0
+F#m = 2 4 4 2 2 2

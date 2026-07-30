@@ -1,0 +1,45 @@
+@titulo: blecaute
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Blecaute
+
+(intro) E C#m B
+
+E C#m B
+Podem me atirar pedras que eu não tô nem aí
+E C#m B
+Podem até xingar que somente vou subir
+A B C#m
+Meu destino é ser livre
+A B E
+Meu caminho é maior
+
+E A B D
+Vou fugir do blecaute,
+E A B D
+Fugir do blecaute
+
+E C#m B
+Podem fazer fofocas mentiras sobre mim
+E C#m B
+Sigo a luz da verdade nunca vou me calar
+A B C#m
+O meu sonho é voar
+
+A B E
+Horizonte sem fim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0

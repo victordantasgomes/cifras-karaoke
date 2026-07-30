@@ -1,0 +1,67 @@
+@titulo: triste
+@autor:
+@intérprete: Gilberto e Gilmar
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gilberto e Gilmar - Triste
+
+Intro: Am  E
+
+Am
+Triste...
+                    C
+Eu serei sempre triste
+                E
+Porque não existe
+                   Am   ( E )
+Quem me faça entender
+
+Am
+Qual...
+                 C
+O motivo que eu dei
+                   E
+Onde foi que eu errei
+                A  ( A7 )
+Pra você me deixar
+
+D                    A
+Só que tristeza tão grande
+
+                G
+O inverno é constante
+               D  ( A )
+Tá no meu coração
+
+D                A
+Só você sabe porque
+                     G
+Porque estou sempre triste
+              D
+É preciso saber
+Am        E
+Só, só você
+               Am
+É quem pode dizer
+
+Am                   C
+Porque estou sempre triste
+               E
+Porque não existe
+                  Am
+Quem me faça entender
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3

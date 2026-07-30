@@ -1,0 +1,55 @@
+@titulo: o-tempo-se-foi
+@autor:
+@intérprete: Detonautas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Detonautas - O Tempo Se Foi
+
+(2x)
+| C                 G
+| quero ser mandado embora
+
+| Am             F
+| to afim de viajar
+
+| C                G
+| meu patrão só me explora
+
+| Am            F
+| eu não quero trabalhar
+
+
+/ Retorna
+| (2x)
+
+| | C
+| | o tempo se foi, eu quase não vi
+
+| | G
+| | do jeito que der eu vou por aí
+
+
+| | inventando uma forma diferente de viver
+|
+| (2x)
+
+| |        G
+| | eu me lembro
+
+| |        Am                         F       C
+| | ainda lembro bem como era fácil esquecer
+
+C G Am F C G/B Am F (volta no Retorna)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

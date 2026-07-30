@@ -1,0 +1,127 @@
+@titulo: confio-em-teu-amor
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Confio Em Teu Amor
+
+INTRO: ::  (piano) G(#11)   G  :  G  :  Em6   Em  :  Em  :  Bm7(11)   Bm7  :  Bm9   Bm  :
+        :  (todos) G(#11)   G  :  G  :  Em6   Em  :  Em  :  Bm7(11)   Bm7  :  Bm9   Bm  :  Bm  :  %  ::
+O n° seria corda solta
+E||-------------------------------------------------------------
+B||--14-15-12----12-14-15-12----12-17-15-14-15-0----------------
+G||-----------14-------------14---------------------------------
+D||-------------------------------------------------------------
+
+
+Bm9                    Bm7(11)
+Mesmo quando não posso entender
+       G(#11)                     G
+Minhas lágrimas me impedem de Te ver
+       Em7             G9           Bm
+Teus caminhos são mais altos que os meus
+        Em7            G9           F#/A#
+Teus mistérios mais profundos do que eu
+
+    F#        G     A9
+Te adoro, Senhor
+      D9              Bm7
+Calo meu coração e me prostro
+
+              G     A9
+Te adoro, Senhor
+       F#  F#  - G  - F#   Em    F#    A#°(b13)
+No dia mau que - ro  pro - cla - mar
+
+              Bm7
+Confio em Teu amor que não mudará
+             G
+Nem mesmo a morte pode me separar
+          Em7
+Do Teu cuidado e proteção
+                    G
+Mesmo quando não Te vejo
+                                1: Bm7 [reintro]
+                                2:  G   Em7  :  F# - F# - G - F# : [coro]
+              A#°(b13)          3: Bm7 [instrumental]
+Sei que a Tua   mão     me   sustenta
+
+REINTRO: ::  Bm7  A9  :  G  Em7  :  Bm7  A9/C#  :  (3/4) D/F#  :  (6/8) C9  :  %  ::
+
+
+INSTRUMENTAL: ::  Bm7  A9  :  G  Em7  :  Bm7  A9  :  G  Em7  :
+               :  Bm7  :  Bm7   G - A/C#  :  Bm7  :  Bm7   G - D9 :
+               :  Bm7  :  Bm7   G - A/C#  :  Bm7  :  Bm7   G - D9 :
+               :  Em7  :  C9  :  Bm7   A9  :  E/G#  G9 - D9 :
+               :  Em7  :  C9  :  G(#11)   G  :  G  :  Em6   Em  :  Em : G - F# - Em - D9 - C# :  Bm7  :  %  ::
+
+Bm
+Não temerei más notícias
+Em
+Não temerei más notícias
+          G                A9
+Mesmo no vale da sombra da morte
+            Bm                G
+Comigo Tu estás, comigo tu estás
+            Bm
+Comigo Tu estás
+       D9    A4   A    Em          G
+(Meu socorro bem pre - sente na angústia)
+
+ G               E/G#
+Não temerei más notícias
+ Bm     Em         Bm - A - G - A
+Não temerei más notícias
+         Bm7                D9
+Mesmo no vale da sombra da morte
+            A4   A     Em
+Comigo Tu estás,
+             G   E/G#             Bm
+Comigo tu estás,      comigo tu estás
+       D9    A4   A    Em          G
+(Meu socorro bem pre - sente na angústia)
+
+ G               E/G#
+Não temerei más notícias
+ Bm     Em         Bm - A - G - A
+Não temerei más notícias
+         Bm7                D9
+Mesmo no vale da sombra da morte
+            A4   A     Em
+Comigo Tu estás,
+             G   E/G#             Bm7
+Comigo tu estás,      comigo tu estás
+
+
+FINAL: ::  Bm7  A9  :  G  Em7  :  Bm7  A9/C#  :  (3/4) D/F#  :  (6/8) C9  :  %  :  Bm9  ::
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#°(b13) = X 1 X 0 2 2
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+A9 = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Bm7(11) = 7 X 7 7 5 X
+Bm9 = X 2 4 6 3 2
+C# = X 4 6 6 6 4
+C9 = X 3 5 5 3 3
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+Em6 = X 7 X 6 8 7
+Em7 = 0 2 2 0 3 0
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+G = 3 2 0 0 0 3
+G(#11) = 3 5 5 6 3 3
+G9 = 3 X 0 2 0 X

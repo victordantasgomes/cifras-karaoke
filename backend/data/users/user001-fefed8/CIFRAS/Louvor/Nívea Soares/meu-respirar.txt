@@ -1,0 +1,67 @@
+@titulo: meu-respirar
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Meu Respirar
+
+F               Bb
+  Este é o meu respirar
+F               Bb
+  Este é o meu respirar
+F      C/E     Dm   C    Bb   Dm    C
+  Teu Santo Espírito  vivendo   em mim
+
+F        Bb
+  E este é o meu pão
+F        Bb
+  E este é o meu pão
+F   C/E   Dm  C Bb   Dm     C
+  Tua vontade  feita    em mim
+
+  F  C/E  Dm  C          Bb      Dm  C
+E eu            Eu nada sou sem Ti
+  F  C/E  Dm  C     Bb     Dm      C
+E eu            Perdido estou sem Ti
+
+G        C
+  Este é o meu respirar
+
+G        C
+  Este é o meu respirar
+G   D       Em      D  C    Em        D
+  Teu Santo Espírito  vivendo   em mim
+
+G        C
+  E este é o meu pão
+G        C
+  E este é o meu pão
+G   D   Em  D  C    Em        D
+  Tua vontade  feita    em mim
+
+  G  D  Em  D         C      Em  D
+E eu            Eu nada sou sem Ti
+  G  D  Em  D         C      Em  D
+E eu            Perdido estou sem Ti
+
+C9               Em      D
+  E eu, eu nada sou sem ti
+C9               Em      D
+  E eu, perdido estou sem ti
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

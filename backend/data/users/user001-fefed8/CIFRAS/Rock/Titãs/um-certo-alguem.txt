@@ -1,0 +1,84 @@
+@titulo: um-certo-alguem
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Um Certo Algúem
+
+Intro: (A Bm/A)
+
+A        C#7      F#m
+ Quis evitar teus olhos
+       F#m7+     G  Bm
+Mas não pude reagir
+G         E7/11   E7  E7/11 E7
+ Fico à vontade então
+A        C#7  F#m
+ Acho que é bobagem
+    F#m7+      G  Bm
+A mania de fingir
+G         E7/11 E7  E7/11 E7
+ Negando a intenção
+
+Bm                   Dm
+  Quando um certo alguém
+    A          F#m
+Cruzou o teu caminho
+    C#m       E7/11 E7 E7/11 E7
+E mudou a direção
+
+
+
+A          C#7     F#m
+ Chego a ficar sem jeito
+       F#m7+        G   Bm
+Mas não deixo de seguir
+G      E7/11   E7  E7/11 E7
+ A tua apa...rição
+
+Bm                   Dm
+  Quando um certo alguém
+    A           F#m
+Desperta o sentimento
+     C#m          E7/11 E7 E7/11
+É melhor não resistir
+  E7       A
+E se entregar
+
+        F#m
+Me dê a mão
+    C#m           E7/11 E7
+Vem ser a minha estre...la
+A        F#m
+ Complicação
+    C#m     E7/11 E7
+Tão fácil de entender
+A         F#m
+ Vamos dançar,
+  C#m       E7/11 E7
+Luzir a madruga...da
+A       F#m
+ Inspiração
+    C#m        E7/11 E7
+Pra tudo que eu vi...ver
+
+(solo sobre mesma harmonia)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+E7/11 = 0 2 0 2 0 X
+F#m = 2 4 4 2 2 2
+F#m7+ = X X 4 6 6 5
+G = 3 2 0 0 0 3

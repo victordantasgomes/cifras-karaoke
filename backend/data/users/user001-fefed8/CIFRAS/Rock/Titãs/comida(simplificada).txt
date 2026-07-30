@@ -1,0 +1,172 @@
+@titulo: comida(simplificada)
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Comida
+
+Intro:
+
+E|---------------------------------------------------
+B|---------------------------------------------------
+G|---------------------------------------------------
+D|----0--2-2------0-------0--2-2------0--------------
+A|--2-----------2-------2-----------2----------------
+E|0-----------0-------0-----------0------------------
+
+E|---------------------------------------------------
+B|---------------------------------------------------
+G|----0--2-2------0-------0--2-2------0--------------
+D|--2-----------2-------2-----------2----------------
+A|0-----------0-------0-----------0------------------
+E|---------------------------------------------------
+
+Base: E  A7
+
+Primeira Parte:
+   E
+Bebida é água
+
+Comida é pasto
+A7
+   Você tem sede de que
+Você tem fome de que
+
+   E
+A gente não quer só comida
+A gente quer comida
+Diversão e arte
+   A7
+A gente não quer só comida
+A gente quer saída
+Para qualquer parte
+
+   E
+A gente não quer só comida
+A gente quer bebida
+Diversão, balé
+   A7
+A gente não quer só comida
+A gente quer a vida
+
+              E  A7
+Como a vida quer
+
+   E
+Bebida é água
+Comida é pasto
+A7
+   Você tem sede de que
+Você tem fome de que
+
+   E
+A gente não quer só comer
+A gente quer comer
+E quer fazer amor
+   A7
+A gente não quer só comer
+A gente quer prazer
+Prá aliviar a dor
+
+   E
+A gente não quer
+Só dinheiro
+A gente quer dinheiro
+E felicidade
+   A7
+A gente não quer
+Só dinheiro
+A gente quer inteiro
+E não pela metade
+
+(Segunda Parte)
+
+( F7  F#7  F7  G7  F#7  F7  E7  F7 )
+
+Terceira Parte:
+
+E|---------------------------------------------------
+B|---------------------------------------------------
+G|---------------------------------------------------
+D|0-2-0----------------------------------------------
+A|0-2-0----------------------------------------------
+E|---------------------------------------------------
+
+Ritmo: ↓  ↑↑↓   ↑↑   ↓↑↓↑   ↓  ↑↑↓  ↑
+
+(Repetir a Primeira Parte)
+
+   E
+Bebida é água
+Comida é pasto
+A7
+   Você tem sede de que
+Você tem fome de que
+
+   E
+A gente não quer só comida
+A gente quer comida
+Diversão e arte
+   A7
+A gente não quer só comida
+A gente quer saída
+Para qualquer parte
+
+   E
+A gente não quer só comida
+A gente quer bebida
+Diversão, balé
+   A7
+A gente não quer só comida
+A gente quer a vida
+Como a vida quer
+
+   E
+A gente não quer só comer
+A gente quer comer
+E quer fazer amor
+   A7
+A gente não quer só comer
+A gente quer prazer
+Prá aliviar a dor
+
+   E
+A gente não quer
+Só dinheiro
+A gente quer dinheiro
+E felicidade
+   A7
+A gente não quer
+Só dinheiro
+A gente quer inteiro
+E não pela metade
+
+(Repete o Riff da Terceira Parte)
+
+        E
+Desejo,   necessidade, vontade
+Necessidade, desejo
+A7
+   Necessidade, vontade
+Necessidade
+        E
+Desejo,   necessidade, vontade
+Necessidade, desejo
+A7
+   Necessidade, vontade
+        E   A7
+Necessidade
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+E = 0 2 2 1 0 0
+E7 = 0 2 0 1 0 0
+F#7 = 2 4 2 3 2 2
+F7 = 1 3 1 2 1 1
+G7 = 3 5 3 4 3 3

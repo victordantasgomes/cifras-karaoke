@@ -1,0 +1,50 @@
+@titulo: dia-de-festa
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Dia de Festa
+
+C  F
+Hoje é dia de festa
+C  F
+Dia de glória
+          G
+De alegria
+C            F
+Cante, exalte e se alegre
+ C                F
+Louve com palmas
+                     G
+Ao Deus dos céus
+        F        C
+Arvorai bandeiras
+        G   E7/G# Am
+Levantai as mãos
+       F Em D    C  G/B       Am        G
+Exultai perante o Deus que tudo faz
+        F        C
+Sacrifício vivo
+        G   E7/G# Am
+Culto com razão
+
+              F Em D    C  G/B
+Deixando a alma explodir
+Am G Am G/B C
+Regozijai!!!
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E7/G# = 4 X 2 4 3 X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

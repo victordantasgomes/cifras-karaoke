@@ -1,0 +1,44 @@
+@titulo: nossa-casinha
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Nossa Casinha
+
+[Intro]  C  G  F  C  C7  Am  Dm  G  C
+
+C
+Coisas que a gente não vai conseguir
+     G
+mais esquecer
+        
+Nossos momentos, o nosso tempo
+                        C   C7
+Como era lindo o nosso amor
+F              G              C     C7
+Nossa casinha lá no alto da montanha
+  F            C         F
+O nosso amor era cheio de paixão
+                             C     Am
+Mas hoje eu vejo tudo, tudo acabado
+           Dm        G         C    C7
+Você de um lado e eu em outra direção
+
+    F           G           C        Am
+E essa saudade apertando o meu peito
+  Dm               G                C     C7
+Não vejo um jeito de ainda ser feliz assim
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

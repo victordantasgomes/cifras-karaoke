@@ -1,0 +1,31 @@
+@titulo: aclamacao
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Aclamação
+
+    C       C7     F
+Aleluia! Aleluuuuuia!
+    G        F    C
+Aleluia! Aleluuuuuia!
+
+      C                                           Am
+Eu te louvo, ó Pai Santo, Deus do céu, Senhor da terra:
+Dm                                              G7
+ os mistérios do teu Reino aos pequenos, Pai, revelas.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

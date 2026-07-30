@@ -1,0 +1,256 @@
+@titulo: evidencias
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Evidências
+
+[Intro] D  D5+  G  Em  G/A
+        D  D5+  G  D/F#  Em  G/A
+        D  G/A
+
+           D                  A/C#
+Quando eu digo que deixei de te amar
+         Bm7    D7(9) G7M G9
+É porque eu te amo
+           G
+Quando eu digo que não quero
+      B7
+Mais você
+   Em
+É porque eu te quero
+          A7
+Eu tenho medo de te dar meu
+ A#º
+Coração
+         Bm7
+E confessar   que eu estou
+         Bm7/A
+Em tuas mãos
+
+         E7        D/F#
+Mas não posso imaginar
+           E/G#
+O que vai ser de mim
+             A      G/B  A/C#
+Se eu te perder um dia
+
+         D
+Eu me afasto e me defendo
+    A/C#
+De você
+     Bm            D7(9) G7M G9
+Mas depois me entrego
+      G
+Faço tipo, falo coisas que
+    B7
+Eu não sou
+     Em
+Mas depois eu nego
+          A7
+Mas a verdade é que sou
+       A#º
+Louco por você
+         Bm
+E tenho medo de pensar
+         Gm
+Em te perder
+       D                       G/A
+Eu preciso aceitar que não dá mais
+                D4     D    D4  D G/A
+Pra separar as nossas vidas
+
+[Refrão]
+
+D
+E nessa loucura de dizer
+
+Que não te quero
+       F#
+Vou negando as aparências
+
+Disfarçando as evidências
+          G
+Mas pra que viver fingindo
+           Em
+Se eu não posso enganar
+         A7
+Meu coração
+    Em       A7
+Eu sei que te amo
+
+  D
+Chega de mentiras
+
+De negar o meu desejo
+        F#
+Eu te quero mais que tudo
+
+eu preciso do seu beijo
+       G
+Eu entrego a minha vida
+       Em
+Pra você fazer o que quiser
+    A7
+De mim
+     Em          A7
+Só quero ouvir você dizer
+     D
+Que sim
+              D5+
+Diz que é verdade que tem
+    G   G9
+Saudade
+    Em         A7
+Que ainda você pensa muito
+    D
+Em mim
+              D5+
+Diz que é verdade que tem
+     G  G9
+Saudade
+    Em          A7
+Que ainda você quer viver
+Pra mim
+
+[Solo] Bm  A#5+  D/A  E/G#  Gm  G/A
+
+E|-14h15~-14~-10~-------------------------------------|
+B|-----------------12~--12/17b18/19~------------------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|-14h15~-14~10~----17b19r17---17~--------------------|
+B|----------------------------------------------------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|-13p10--------10p6-------6p3-----------------------|
+B|-------11----------8---------3---------------------|
+G|----------10----------7--------3---5p3--2~---------|
+D|---------------------------------------------------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+         D
+Eu me afasto e me defendo
+    A/C#
+De você
+     Bm            D7(9) G7M G9
+Mas depois me entrego
+      G
+Faço tipo, falo coisas que
+    B7
+Eu não sou
+     Em
+Mas depois eu nego
+          A7
+Mas a verdade é que sou
+       A#º
+Louco por você
+         Bm
+E tenho medo de pensar
+         Gm
+Em te perder
+       D                       G/A
+Eu preciso aceitar que não dá mais
+                D4     D    D4  D G/A
+Pra separar as nossas vidas
+
+[Refrão]
+
+D
+E nessa loucura de dizer
+
+Que não te quero
+       F#
+Vou negando as aparências
+
+Disfarçando as evidências
+          G
+Mas pra que viver fingindo
+           Em
+Se eu não posso enganar
+         A7
+Meu coração
+    Em       A7
+Eu sei que te amo
+
+  D
+Chega de mentiras
+
+De negar o meu desejo
+        F#
+Eu te quero mais que tudo
+
+eu preciso do seu beijo
+       G
+Eu entrego a minha vida
+       Em
+Pra você fazer o que quiser
+    A7
+De mim
+     Em          A7
+Só quero ouvir você dizer
+     D
+Que sim
+              D5+
+Diz que é verdade que tem
+    G   G9
+Saudade
+    Em         A7
+Que ainda você pensa muito
+    D
+Em mim
+              D5+
+Diz que é verdade que tem
+     G  G9
+Saudade
+    Em          A7
+Que ainda você quer viver
+Pra mim
+             D5+
+Diz que é verdade que tem
+     G  D/F#
+Saudade
+    Em          A7
+Que ainda você quer viver
+     D
+Pra mim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#5+ = X 1 4 3 3 X
+A#º = X 1 2 0 2 0
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Bm7/A = 5 2 4 2 3 2
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+D5+ = X 5 4 3 3 X
+D7(9) = X 5 4 5 5 X
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G7M = 3 X 4 4 3 X
+G9 = 3 X 0 2 0 X
+Gm = 3 5 5 3 3 3

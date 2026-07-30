@@ -1,0 +1,104 @@
+@titulo: nos-estamos-bem
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Nós Estamos Bem
+
+(Paulo Miklos/Sérgio Britto)
+
+
+~ = Passagem rápida
+Intro.:
+
+e|----------------------------------------------------------------------------
+B|------------------------------------0--------------------------------------
+G|---------------------0---------0-------------------0---------------------
+D|------------------0-----2--2-------------------0-------2-----------------
+A|----7s2--2--2------------------------2--2----------------7s2---------
+E|---------------------------------------------------------------------------
+
+B A~G E G~A B A~G E
+
+B A~G
+Hey, hey
+
+E            G~A
+Como estão vocês?
+
+
+B A~G E
+Hey, hey
+
+B               A~G    E                    G~A
+Nós estamos bem, queremos estar bem
+
+B                    A~G E
+Agora estamos muito bem
+
+B               A~G    E                    G~A
+Nós estamos bem, podemos estar bem
+
+B                    A~G E
+Agora estamos muito bem
+
+A                    G     F#           B
+Não é o mundo ideal na cabeça de ninguém
+
+B A~G
+Hey, hey
+
+E            G~A
+Como estão vocês?
+
+B A~G E
+Hey, hey
+
+B               A~G    E                    G~A
+Podemos viver sem, o que a gente não tem
+
+B                    A~G E
+Podemos ficar muito bem
+
+B               A~G    E                    G~A
+Queremos viver bem e muito mais também
+
+B                    A~G E
+Queremos ficar muito bem
+
+A                    G     F#           B
+Não é o mundo ideal na cabeça de ninguém
+
+B         A~G    E     G~A
+Sono, sede, fome, frio
+
+B       A~G        E
+Agora não dói mais
+
+B         A~G   E     G~A
+Sono, sede, fome, frio
+
+B       A~G        E
+Já ficou pra trás
+
+B A~G
+Hey, hey
+
+E            G~A
+Como estão vocês?
+
+B       A~G      E
+Nós estamos bem
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

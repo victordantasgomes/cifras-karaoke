@@ -1,0 +1,91 @@
+@titulo: duas-vidas
+@autor:
+@intérprete: Henrique e Juliano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Henrique e Juliano - Duas Vidas
+
+Intro: Dm  Bb
+Solo:
+E|---------------------------|
+B|-5/6-5-3-------------------|
+G|---------5-3/2/3-2---------|
+D|--------------------5/3----|
+A|---------------------------|
+E|---------------------------|
+
+        Dm                             Bb
+Só pelo fato de te amar me sinto uma pessoa melhor
+      F                              C
+Na certeza que você existe, na tua ausência não me sinto só
+     Dm                                   Bb
+Continuo sendo o mesmo mais em minha vida tudo mudou
+F                              C                   (C Bb Am)
+Numa noite escura e fria a melodia a canção entoou.
+
+Gm                               F
+Me diz como explicar seus gostos sendo os mesmos que os meus
+          Bb                                  F
+O que acontece toda vez que olho nesses olhos seus?
+
+Gm                              Bb
+Faço mais de mil perguntas e as vezes até acredito
+Gm                 C                F      C
+Que as nossas duas vidas já viveram juntas
+
+Refrão:
+     Dm               Bb                 Gm                   C
+Se o meu violão acaso desafinar ou se eu não tiver voz pra cantar
+     Dm               Bb                    Gm         C            F   C
+Nada vai impedir de dizer e provar que essa vida eu só vivo pra te amar
+
+Solo: ( Dm Bb Gm C (C Bb Am Gm) )
+E|--------------------------------------|
+B|---3-5/6-5\3-3-3------3-5-5/6-6-6/8-3-|
+G|-2------------------2-----------------|
+D|--------------------------------------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+Gm                               F
+Me diz como explicar seus gostos sendo os mesmos que os meus
+          Bb                                  F
+O que acontece toda vez que olho nesses olhos seus?
+Gm                              Bb
+Faço um monte de perguntas e as vezes até acredito
+Gm                 C                F      C
+Que as nossas duas vidas já viveram juntas
+
+Refrão:
+     Dm               Bb                 Gm                   C
+Se o meu violão acaso desafinar ou se eu não tiver voz pra cantar
+     Dm               Bb                    Gm         C            F   C
+Nada vai impedir de dizer e provar que essa vida eu só vivo pra te amar
+     Dm               Bb                 Gm                   C
+Se o meu violão acaso desafinar ou se eu não tiver voz pra cantar
+     Dm               Bb                    Gm         C            F   Bb
+Nada vai impedir de dizer e provar que essa vida eu só vivo pra te amar
+             Gm         C           Dm
+... que essa vida eu só vivo pra te amar
+
+Solo Final: ( Dm Bb Dm )
+E|---------------------------|
+B|-5/6-5-3-------------------|
+G|---------5-3/2/3-2---------|
+D|--------------------5/3----|
+A|---------------------------|
+E|---------------------------|
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

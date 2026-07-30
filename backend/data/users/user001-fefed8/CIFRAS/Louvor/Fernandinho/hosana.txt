@@ -1,0 +1,68 @@
+@titulo: hosana
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Hosana
+
+Intro 2x: A D A
+
+F#m      D
+Teu povo reunido
+A           E
+Um só corpo, um só Deus
+F#m       D
+Milagres, maravilhas
+A          E
+Tua glória enche o tempo
+C#m       D
+Erguemos nossos olhos
+A           E
+Levantamos nossa voz
+C#m       D        A        E
+Adoramos Bendizemos ao rei das nações
+
+Refrão:
+F#m               D   A          E
+Ô   ô   ô       Hosana           Ô ô
+
+
+F#m       D
+Teu fogo, tua glória
+A             E
+Teu espírito, teu poder
+F#m            D        A          E
+Nos prostramos  Diante do cordeiro que venceu
+
+C#m       D
+Assentado no trono
+A       E
+Rodeado de anjos
+C#m      D
+Teu nome é adorado
+A         E
+És temido em louvores
+
+Base 2x: ( A  D )
+
+      C#m     D
+És bem vindo aqui
+       A      E
+Rei dos reis, salvador
+      C#m     D
+És bem vindo aqui
+       A     E
+És meu rei, salvador
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

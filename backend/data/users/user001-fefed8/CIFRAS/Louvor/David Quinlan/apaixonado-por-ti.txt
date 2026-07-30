@@ -1,0 +1,64 @@
+@titulo: apaixonado-por-ti
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Apaixonado Por Ti
+
+Intro: F#5  E5  D5  D5
+
+      F#5                  E5                   D5
+E|--------------------------------------------------|
+B|--------------------------------------------------|
+G|11-11--13-13--14------9--9--13-13--14------7------| (2x)
+d:x--x---x--x---x-------x--x--x--x---x-------x------|
+A|9--9---11-11--12------7--7--11-11--12------5------|
+E|--------------------------------------------------|
+
+F#m7     E9                      D9
+Sobre a Terra os Teus olhos estão
+F#m7    E9            D9
+Buscando outra geração
+Bm7           D9                   E9
+Não passe de mim com Teus olhos de amor
+Bm7         D9            E9
+Preciso de ti, Amado Senhor
+
+F#m7    E9             D9
+Eu só quero estar contigo
+
+F#m7     E9                  D9
+Não importa qual seja o preço
+Bm7                       D9
+Eu te quero, te quero seguir,
+Bm9          D9                   E
+Escuta o clamor que há dentro de mim
+
+E                          A
+Apaixonado por Tua presença
+        D    F#m      E
+Desesperado por Teu amor
+                            D
+Cada dia anelo Tua fragrância
+               F#m    A       E
+Quero estar perto de Ti Senhor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm7 = X 2 4 2 3 2
+Bm9 = X 2 4 6 3 2
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+E9 = 0 2 4 1 0 0
+F#5 = 2 4 4 X X X
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X

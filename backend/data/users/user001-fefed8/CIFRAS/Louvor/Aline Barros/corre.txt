@@ -1,0 +1,62 @@
+@titulo: corre
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Corre!
+
+Intro: F#m D A E
+
+F#m      D           A          E
+Chegou o tempo de mudar a nossa geração
+F#m      D           A          E
+Viver toda palavra que o Senhor falou
+F#m        D     A
+À meia noite ouviu-se um clamor
+E                      Bm                      E
+O Noivo está chegando, acende a sua lâmpada, acende a sua lâmpada
+
+F#m     E                       Bm
+Corre e fala de Jesus para todo mundo
+F#m      E                 Bm
+Corre e anuncia o tempo da salvação
+F#m      E                      Bm
+Corre e vamos juntos espalhar o reino
+F#m    E             B4
+Corre e acende a sua lâmpada
+A    E            F#m       D
+Vou deixar a minha luz brilhar
+
+A         E         F#m     D
+Porque o Rei está chegando
+A    E            F#m       D
+Vou deixar a minha luz brilhar
+A         E         F#m    D
+Porque o Rei está voltando
+A   E/G#  F#m  D
+A   le    lu   ia!
+A    E/G#      F#m       D
+Maranata ora vem, Senhor Jesus
+A    E/G#      F#m       D
+Aleluia, o Rei está voltando
+A               E/G#                 F#m                 D
+Que todo joelho se dobre diante Dele Aleluia, o Rei está voltando
+A             E/G#            F#m          D
+Acenda a luz, acenda a sua luz, o Rei está voltando
+
+Final: F#m E Bm
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B4 = X 2 4 4 5 2
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

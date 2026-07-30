@@ -1,0 +1,57 @@
+@titulo: me-abraca
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Me Abraça
+
+Intro: C#m  A  B  A
+
+  E
+Quantas vezes me deixei
+ C#m                  B
+Ser levado por caminhos
+              A
+Distantes do Pai
+
+  E
+Quantas vezes abri mão
+ C#m                          B
+De ser filho pra seguir o mundo
+            A
+Perdido do Pai
+
+     C#m            E
+Mas vou voltar pra casa
+ C#m                B
+Vou voltar pro meu ninho
+ C#m          E
+Vou pedir perdão
+
+        A
+Eu só quero começar de novo
+Eu só quero começar de novo
+
+ C#m  B         A
+Pai,   me abraça forte
+      E       B         (2x)
+E me beija, meu Pai
+
+C#m
+Outra vez te amo
+A
+Outra vez te amo   (2x)
+B              A
+Outra vez te amo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0

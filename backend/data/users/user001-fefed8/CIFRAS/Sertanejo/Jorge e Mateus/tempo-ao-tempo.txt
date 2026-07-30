@@ -1,0 +1,78 @@
+@titulo: tempo-ao-tempo
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Tempo Ao Tempo
+
+Intro: A  E  F#m  D (2x)
+       D  E
+E|-4/5--4-----------10---9-------|
+B|-4/5--5--5/7--7/9-10--10--10---|
+G|---------6/7--------------11---|
+D|-------------------------------|
+A|-------------------------------|
+E|-------------------------------|
+
+E|-4/5--4-----------10-12--------|
+B|-4/5--5--5/7--7/9-10-12--------|
+G|---------6/7-------------------|
+D|-------------------------------|
+A|-------------------------------|
+E|-------------------------------|
+
+  A9                                           D9
+Você já percebeu que quando eu te vejo perco o chão
+        A9
+Que o simples fato de te ouvir
+                    D
+me faz perder toda razão
+
+
+ F#m
+Quando você chega
+       E                          A
+Minha mão transpira, minha mente pira
+                     D
+Eu já não sei o que fazer
+   F#m                     E
+Já vi que esse lance tá ficando chato
+              A                      D
+Pois até meus atos não consigo mais conter
+
+     A                     E
+Não ligo se você nem tá ligando
+                      D
+Nem tão pouco se importando
+                D
+Mesmo assim vou te dizer
+
+Refrão:
+    A
+Já dei tempo ao tempo
+       E
+Mas o tempo não me ajuda
+    D
+Se tento te esquecer, Só faço te querer
+    A
+Tá no meu pensamento
+      E
+Sentimento que não muda
+    D
+Tô louco pra te ver
+    D           A  E D
+Só quero amar você
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,125 @@
+@titulo: meu-carpinteiro
+@autor:
+@intérprete: Anderson Freire
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Anderson Freire - Meu Carpinteiro
+
+Intro: Em7  Em7/D#  D  A/C#  C  D/C  C  D  Em7
+
+
+       C9       G          D/F#        Em7
+Sobrevivente sou da tempestade que passou
+           C9  C/B  Am7                 D4  D
+Minha casa desabou Uma base feita de ilusões
+
+       Am7              Em7
+Em meio aos escombros, Jesus me encontrou
+         C9                    G/B
+Meu salvador, meu carpinteiro O reconstrutor
+      Am7          Em7            D
+Na adversidade descubro quem eu sou
+      C     D            C     Am7     D      G
+Humano dependente do Senhor.
+
+
+Refrão:
+O meu carpinteiro é Jesus
+                     D
+Minha casa Ele consertou
+
+                  Am7            C     G
+Se a tempestade voltar Ela não vai desabar
+                  C/G           G
+Todo sofrimento acabou
+           Em7           D                               Am7
+Como chuva de verão passou Assim como a igreja sobre a pedra
+           C     D          Em       C     Em      C
+Minha casa Ele edificou.
+
+
+       Am7              Em7
+Em meio aos escombros, Jesus me encontrou
+         C9                   G/B
+Meu salvador, meu carpinteiro O reconstrutor
+      Am7          Em7              D
+Na adversidade descubro quem eu sou
+  C          D           C     Am7     D      G
+Humano dependente do Senhor.
+
+
+Refrão:
+O meu carpinteiro é Jesus
+                     D
+Minha casa Ele consertou
+                  Am7            C     G
+Se a tempestade voltar Ela não vai desabar
+                  C/G           G
+Todo sofrimento acabou
+           Em7           D                               Am7
+Como chuva de verão passou Assim como a igreja sobre a pedra
+           C     D         G
+Minha casa Ele edificou.
+
+
+                      G
+Minha casa Ele consertou
+                        D/F#                             Am7
+Eis que tudo novo se tornou Vivo pra contar o que Ele faz
+                            C
+A tragédia não roubou minha paz
+ D           G     (C/G   G para voltar)
+Ele não deixou
+
+
+Refrão:              A
+O meu carpinteiro é Jesus
+                     E
+Minha casa Ele consertou
+                  Bm7            D     A
+Se a tempestade voltar Ela não vai desabar
+                  D/A           A
+Todo sofrimento acabou
+           F#m7           E                               Bm7
+Como chuva de verão passou Assim como a igreja sobre a pedra
+           D     E       A  (F#m)
+Minha casa Ele edificou.
+
+                      D
+Minha casa Ele edificou
+                      A
+Minha casa Ele edificou
+                           E/G#
+Vivo pra contar o que Ele faz
+             F#m  Fim(A)
+Ele é demais.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/B = X 2 2 0 1 0
+C/G = 3 3 2 X 1 X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+Em7/D# = 11 7 9 7 8 7
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

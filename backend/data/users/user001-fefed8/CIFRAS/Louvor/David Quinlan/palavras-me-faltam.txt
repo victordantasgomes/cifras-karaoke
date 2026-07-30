@@ -1,0 +1,48 @@
+@titulo: palavras-me-faltam
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Palavras Me Faltam
+
+Intro: B9 F# G#m E C#m7 F#
+       B9 F# G#m E C#m7 F#
+B9
+   Na,na,na,na,na,na,na
+ F#
+   Na,na,na,na,na,na,na
+ G#m                 E
+   Na,na,na,na,na,na,na
+               C#m7
+   Na,na,na,na,na...
+               F#
+   Na,na,na,na,na...
+
+  B9                 F#                G#m       E
+   Tu és minha canção  razão de viver  meu oxigênio
+           C#m7               F#
+   meu universo meu amor sem fim
+  B9                 F#                 G#m          E
+   Palavras me faltam não sei o que dizer  para expressar
+                C#m7           F#
+   o amor que lateja dentro de mim
+
+  B9                 F#
+   coração bate forte estou enfermo de amor
+ G#m               E           C#m7                 F#
+   quero Te encontrar pra balbuciar uma canção de amor
+   C#m7  E  G#m  F#
+   Jesus...
+
+----------------- Acordes -----------------
+B9 = X 2 4 4 2 2
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

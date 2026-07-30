@@ -1,0 +1,38 @@
+@titulo: pensando-em-nos
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Pensando Em Nós
+
+(intro)  A D E7 A D E7 A
+
+Dizer que eu sinto muito é muito pouco
+Diante do enorme sofrimento
+Que eu vejo estampado no seu rosto
+
+A                   E7               A
+Já passou da meia noite e eu estou aqui
+            E7            A A7
+Pensando em nós como vai ser
+  D              A
+Não consigo te amar
+       F#        E7     D         A E7
+Não posso te deixar eu só sei pensar
+
+Eu sempre quis fugir desse momento
+Eu adiei o quanto pude
+Porque também estou perdido, eu estou perdido
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+D = X X 0 2 3 2
+E7 = 0 2 2 1 3 0
+F# = 2 4 4 3 2 2

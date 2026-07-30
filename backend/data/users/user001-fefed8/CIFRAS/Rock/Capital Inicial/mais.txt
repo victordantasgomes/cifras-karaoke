@@ -1,0 +1,100 @@
+@titulo: mais
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Mais
+
+Introdução: (G Em Cadd9 D Cadd9 G)4x D
+
+Riff da Introdução 4x
+
+E|----------------------------|
+B|-3-3-3-------3-3-3----------|
+G|-0-0-0-------2-2-2----------|
+D|-0-0-0-------0-0-0----------|
+A|-2-2-2--2-3--0-0-0--3-2-0---|
+E|-3-3-3----------------------|
+
+Repete riff da Introdução.
+
+G             Cadd9  D
+É sempre frio, é tão estranho
+G                 Cadd9  D
+Podia ser perfeito, mas foi quebrado
+G             Cadd9  D
+Caindo no vazio, do lado errado
+
+
+
+Em                                    Am
+Não há nada que eu possa fazer a não ser
+                Bm                  A/C#
+Sair sem destino, cantando o novo hino dos descontentes
+
+                  Cadd9      D
+Eu sempre quero mais que ontem
+                 Cadd9       D
+Eu sempre quero mais que hoje
+                  Cadd9     D              (Introd.) 4X
+Eu sempre quero mais do que eu posso ter
+
+Repete riff da introdução.
+
+G             Cadd9 D
+Agora é cinza, imprevisível
+G             Cadd9 D
+Podia ser pior e remendado
+G            Cadd9 D
+É impossível, descontrolado
+
+Em                                    Am
+Não há nada que eu queira dizer a não ser
+               Bm                   A/C#
+Saia sem destino, cantando o novo hino dos descontentes
+
+                Cadd9       D
+Eu sempre quero mais que hoje
+                 Cadd9      D
+Eu sempre quero mais que ontem
+                Cadd9   D                   G
+Eu sempre quero mais do que eu posso ter
+
+
+            D                         Cadd9
+Mais do que palavras, mais do que promessas
+              D
+Mais do que o mundo pode me dar
+
+              Cadd9       D
+Eu sempre quero mais que hoje
+                 Cadd9      D
+Eu sempre quero mais que ontem
+                Cadd9   D                     Em D/F# G A
+Eu quero sempre mais do que eu posso ter
+
+                 Cadd9      D
+Eu sempre quero mais que ontem
+                Cadd9       D
+Eu sempre quero mais que hoje
+                Cadd9   D                Em D/F# G A
+Eu sempre quero mais do que eu posso ter
+
+Para a introdução use power chords.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+Cadd9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

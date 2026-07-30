@@ -1,0 +1,71 @@
+@titulo: iris
+@autor:
+@intérprete: Paula Fernandes
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Paula Fernandes - Iris
+
+Intro 2x: F#m7  F#m7(9)  D9  D7M(9)  D9
+
+         A         Bm7(11)  D9
+And I'd give up forever to touch you
+           F#m7          E           D9
+'Cause I know that you feel me somehow
+              A         Bm7(11)    D9
+You are the closest to heaven that I'll ever be
+       F#m7           E             D9
+And I don't want to go home right now
+
+    A          Bm7(11)       D9
+And all I can taste is this moment
+    F#m7         E              D9
+And all I can breathe is your life
+     A         Bm7(11)   D9
+And sooner or later it's over
+        F#m7           E          D9
+I just don't want to miss you tonight
+
+(Refrão)
+
+       F#m7            E        D9
+And I don't want the world to see me
+          F#m7                E          D9
+'Cause I don't think that they'd understand
+       F#m7         E           D9
+When everything's made to be broken
+        F#m7          E        D9
+I just want you to know who I am
+
+         A               Bm7(11)          D9
+And you can't fight the tears that ain't coming
+        F#m7        E            D9
+Or the moment of truth in your lies
+     A           Bm7(11)        D9
+When everything feels like the movies
+           F#m7           E           D9
+Yeah you bleed just to know you're alive
+
+Refrão:
+       F#m7            E        D9
+And I don't want the world to see me
+          F#m7                E          D9
+'Cause I don't think that they'd understand
+       F#m7         E           D9
+When everything's made to be broken
+        F#m7          E        D9
+I just want you to know who I am
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm7(11) = 7 X 7 7 5 X
+D7M(9) = X 5 4 6 5 X
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X
+F#m7(9) = X X 4 2 5 4

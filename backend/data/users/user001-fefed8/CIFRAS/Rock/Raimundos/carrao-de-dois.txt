@@ -1,0 +1,104 @@
+@titulo: carrao-de-dois
+@autor:
+@intérprete: Raimundos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raimundos - Carrão de Dois
+
+Por Jorge T.S.  -  20.01.00
+
+
+* - nota mais aguda
+h - hammer on
+p - pull off
+
+(A* G*)
+A                             E*
+Gatinha dos olhos de amendoim
+A                      E*
+pediu uma carona, eu dei
+A                          E*      A
+Homem, essa mulher me deu uma canseira
+                           E*
+que até hoje eu não descansei
+C                                   A  G
+E passa a quinta, é mão aqui e ali
+C                           E*    A
+apressadinha, quer engatar de primeira
+                 E*      A         E*
+Me levou pro banco de trás, velocidade
+
+D           C                  (A E*)
+Logo a pastilha do freio comeu e derreteu na gente
+D         C                 A*
+Viu a polícia e passou o sinal
+                  D           F*
+Quando eu percebi que meu motel sobre rodas
+  C
+Era movido a bafo no vidro
+G          G*            F*
+Inocente, ela deixava o motor quente
+
+C        G         A     D
+E fez voar meu corcel rumei pro norte,
+A*                           G*   F*
+vi o sertão e fiquei por ali  criando bode,
+C           G        A            D
+Como é bom amar no céu e ir pra qualquer parte,
+A*                        G* F*          (A E) 4x
+voando no chão, eu renasci  novo e forte
+
+C                                   A
+o combustível da minha vida é aquela
+    G     C                       A  G
+Mocinha linda que jamais esquecerei
+C                    A  G  C        E      A
+E desde o dia que ela se foi nunca mais voei
+
+Solo:
+  C                     A G*  C                     A G*
+|---------------------------------------------------------
+|---------------------------------------------------------
+|---------------------------------------------------------
+|---------------------------------------------------------
+|-3-3h5p3-------3-3h5p3-------3-3h5p3-------3-3h5p3-------
+|---------5-3-5---------5-3-5---------5-3-5---------5-3-5-
+
+  C     G*      D    C       (A E*) 2x         D C  A*
+----------------------------------------------------------
+----------------------------------------------------------
+-------12~~----12-10-9---10-9-7--7-9-10-9~~---------------
+-10~~~----------------------------------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+
+D F* C    G    G*   F*    C
+------------------------------|
+------------------------------|
+----------------12~~-10~~-----|
+--------------------------10~-|
+------------------------------|
+------------------------------|
+
+C        G         A     D
+E fez voar meu corcel rumei pro norte,
+A*                           G*   F*
+vi o sertão e fiquei por ali  criando bode,
+C           G        A            D
+Como é bom amar no céu e ir pra qualquer parte,
+A*                        G* F*           A>G E*  A>G E  A>G E*  A>G G E
+voando no chão, eu renasci  novo e forte
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

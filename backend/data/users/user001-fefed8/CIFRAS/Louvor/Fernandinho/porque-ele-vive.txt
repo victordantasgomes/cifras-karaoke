@@ -1,0 +1,64 @@
+@titulo: porque-ele-vive
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Porque Ele Vive
+
+       C   C7           F
+Deus enviou seu filho amado
+F#       C     Am      Dm
+Pra perdoar, pra me salvar
+G          C  C7          F
+Na cruz morreu por meu pecado
+ F#        C    Am    Dm   G    C
+Mas ressurgiu e vivo com o Pai está
+            C                      F
+Porque Ele vive, posso crer no amanhã
+F#           C    Am          Dm
+Porque Ele vive, temor não há
+G           C       C7              F
+Mas eu bem sei, eu sei, que a minha vida
+F#          C     Am      Dm         G    C
+Está nas mãos do meu Jesus, que vivo está
+G          C /C7             F
+E quando, enfim, chegar a hora
+F#        C   Am      Dm
+Em que a morte enfrentarei
+ G         C C7          F
+Sem medo, então, terei vitória
+
+F#     C         Am    Dm       G       C
+Irei à glória, ao meu Jesus que vivo está
+
+           C                      F
+Porque Ele vive, posso crer no amanhã
+F#           C    Am          Dm
+Porque Ele vive, temor não há
+G           C       C7              F
+Mas eu bem sei, eu sei, que a minha vida
+F#          C     Am      Dm         G    C
+Está nas mãos do meu Jesus, que vivo está
+            C                      F
+Porque Ele vive, posso crer no amanhã
+F#           C    Am          Dm
+Porque Ele vive, temor não há
+G           C       C7              F
+Mas eu bem sei, eu sei, que a minha vida
+F#          C     Am      Dm         G    C
+Está nas mãos do meu Jesus, que vivo está
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

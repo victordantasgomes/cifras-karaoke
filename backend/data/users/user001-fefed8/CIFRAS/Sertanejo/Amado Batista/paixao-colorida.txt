@@ -1,0 +1,40 @@
+@titulo: paixao-colorida
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Paixão Colorida
+
+ Introdução: D A7 G D A7 G D 
+ 
+  D             G                       D 
+ Você já me conhece bem e sabe como eu sou 
+                A7                        D 
+ Por você faço cair das nuvens chuva de amor 
+                  G                 D 
+ Do seu lado eu quero viver toda a vida 
+               A7                  D 
+ Vinte quatro horas de paixão colorida 
+                G                     D 
+ em mim te guardei num sentimento profundo 
+                      A7                    D 
+ Pra te amar tanto assim não há ninguém no mundo 
+         A7  G                D 
+ Adoro voar... No céu da sua boca 
+             A7             G                D 
+ Subir, flutuar, na lua pousar, numa altura louca 
+           A7  G              D 
+ E na altitude   da nossa paixão 
+           A7                  G            D 
+ Viajamos juntos e o nosso destino é o coração
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3

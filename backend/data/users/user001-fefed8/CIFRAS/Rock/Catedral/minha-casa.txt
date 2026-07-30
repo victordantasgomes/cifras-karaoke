@@ -1,0 +1,50 @@
+@titulo: minha-casa
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Minha Casa
+
+Intro: A  E
+
+   A             E                      D
+A pior coisa do mundo é fazer quem você ama sofrer
+   A             E                          D
+A maior lição é simples, é seguir vivendo e aprender
+   A            E                 D
+A maior felicidade é saber dar valor e reconhecer
+        F#m         E                       D
+Que às vezes um caminho não tem nada a ver com você
+    A             E                     D
+A melhor coisa da vida é saber que você pode escolher
+    A            E                     D
+A maior razão é simples, é aquela que só você não vê
+    A            E                     D
+A maior das alegrias é saber que Há Alguém que ama tanto você
+      F#m          E                       D
+E com Amor insuperável dá uma festa agora pra te receber! (2x)
+
+      A                     E
+Por todos os lugares que andei,
+
+      Bº                  F#m
+Eu venci, perdi, sorri, chorei
+          D         A             E
+Mas nada disso completou o meu viver
+   A             E            Bº                   F#m
+Quando se é de alguém é pra sempre e nada pode isso mover
+         A              E                D
+Estou de volta pra Minha Casa, nela eu quero viver!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bº = X 2 3 1 3 1
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

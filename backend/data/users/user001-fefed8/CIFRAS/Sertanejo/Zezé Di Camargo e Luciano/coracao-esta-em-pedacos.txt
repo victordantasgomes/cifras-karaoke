@@ -1,0 +1,112 @@
+@titulo: coracao-esta-em-pedacos
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Coração Está Em Pedaços
+
+Intro: B7 A E B7 A E
+
+E|---------------|-11---11-12-11-9----------9----9-9/11/12--17-16---16-17-16-19-17-16------|
+B|---------------|----------------12-11-12-------------------------------------------17-19-|
+G|---------------|-------------------------------------------------------------------------|
+D|-----2---------|-------------------------------------------------------------------------|
+A|-2-4---4----2--|-------------------------------------------------------------------------|
+E|-------------4-|-------------------------------------------------------------------------|
+
+Refrão:
+         E
+Hoje eu vim te procurar
+   B7
+A saudade era demais
+           F#m           B7
+Vim falar do meu amor
+   E
+Timidez deixei pra trás
+Quero te dizer que eu
+       F#m
+Sofro muito sem você
+
+     B7
+Coração tá em pedaços
+        E
+Com vontade de te ver
+      F#7                    B
+Por que  saiu assim da minha vida
+   F#7
+Sozinho sem você
+         B           A        E
+Não tem saída, por que, por que
+      B7                 A          B7       E
+Por que você não quer saber o meu amor por que
+
+Verso:
+
+ B7                        A
+Diga se te deixei faltar amor
+                        E
+Se o meu beijo é sem sabor
+                           B7
+Se eu não fui homem pra você
+                                E
+Diga que tudo não passou de um sonho
+                    B7
+E o amor que te proponho
+                   E
+É pouco pra te convencer
+
+(B7 A E B7 A E)
+
+Refrão (2x):
+
+       E
+Hoje eu vim te procurar
+   B7
+A saudade era demais
+           F#m           B7
+Vim falar do meu amor
+   E
+Timidez deixei pra trás
+Quero te dizer que eu
+       F#m
+Sofro muito sem você
+     B7
+Coração tá em pedaços
+        E
+Com vontade de te ver
+      F#7                    B
+Por que  saiu assim da minha vida
+   F#7
+Sozinho sem você
+         B           A        E
+Não tem saída, por que, por que
+      B7                 A          B7       E
+Por que você não quer saber o meu amor por que
+
+ B7                        A
+Diga se te deixei faltar amor
+                        E
+Se o meu beijo é sem sabor
+                           B7
+Se eu não fui homem pra você
+       B7                       E
+Diga que tudo não passou de um sonho
+                    B7
+E o amor que te proponho
+
+                   A  E
+É pouco pra te convencer
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2

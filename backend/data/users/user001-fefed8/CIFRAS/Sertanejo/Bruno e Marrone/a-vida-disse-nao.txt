@@ -1,0 +1,149 @@
+@titulo: a-vida-disse-nao
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - A Vida Disse Não
+
+(intro) Gm D# Cm D
+
+E|--------------------------------------------------------5--------------------------------|
+B|-----------------------------------------------------------8-----------------------------|
+G|-----------5-7--7/8-7------------5-7--7/8-7--7-----------8---5--7-8----------------------|
+D|-5-7-8------------------5-7-8-------------------------------------------7-8-10-----------|
+A|-----------------------------------------------------------------------------------------|
+E|-----------------------------------------------------------------------------------------|
+
+E|-------------10--------------------------------------------|
+B|--8-10-11-13------11-13-10-11----10------------------------|
+G|------------------------------12-----12--------------------|
+D|----------------------------------------------12H13P12-----|
+A|-----------------------------------------------------------|
+E|-----------------------------------------------------------|
+
+                    Gm Cm Gm
+Com o tempo aconteceu
+                G7  Cm7 G7
+O amor, você e eu,
+                  Cm7 Cm7/A#
+Totalmente separados
+
+                      D7
+Sem querer ficou pra trás
+
+Quem um dia amei demais
+                      Gm D7
+Não esta mais do meu lado.
+                  Gm
+Nosso beijo sem sabor,
+                 G
+Esse fogo sem calor
+                     Cm Cm7/A#
+Já não queima o coração.
+                    Gm
+Eu tentei você tentou,
+                  G#
+Aquecer o nosso amor
+        D7        G  D7
+Mais a vida disse não
+
+(refrão)
+        G   C    G
+Éramos só, nós dois,
+             C       G
+O tempo não quis depois,
+               Am7    Am7/G  Am7 Am7/G
+Os nossos sentimentos
+          D7
+Nossa paixão perdeu
+             Am7
+Não era nem seu, nem meu,
+    D7             G  D7
+Os nossos pensamentos
+       G
+Aonde foi parar
+
+Ninguém sabe explicar
+   G7         C G/B  Am
+O que aconteceu
+       D7         G
+Nunca quis imaginar
+     Em        Am7
+O destino separar
+   D7
+O amor, você e eu.
+
+(solo) D# ( G ) G# D7 G D7
+
+E|----------------------6---8-------------11-10-8-7----------------|
+B|--11-10-8------8---8---9----------------------------------8-7----|
+G|------------10--8-------------10-8-7------------------6/7-----7--|
+D|-----------------------------------------------------------------|
+A|-----------------------------------------------------------------|
+E|-----------------------------------------------------------------|
+
+(refrão)
+
+(solo) G Bm7 Am7 D7
+
+      G
+Éramos só, nós dois,
+Bm           Em
+O tempo não quis depois,
+   Em/D          Am7    Am7/G  Am7 Am7/G
+Os nossos sentimentos
+          D7
+Nossa paixão perdeu
+             Am7
+Não era nem seu, nem meu,
+    D7             G  Bm7 Am7 D
+Os nossos pensamentos
+       G
+Aonde foi parar
+    Bm7        Em
+Ninguém sabe explicar
+   G          C G/B  Am
+O que aconteceu
+       D7        G
+Nunca quis imaginar
+     Em        Am7
+O destino separar
+   D7
+O amor, você e eu.
+
+(solo) D# ( A# G# ) G
+
+E|--------------------6---8----7-|
+B|--11-10-8-------8---8---9----8-|
+G|------------10--8------------7-|
+D|-------------------------------|
+A|-------------------------------|
+E|-------------------------------|
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am7/G = 3 0 2 0 1 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+Cm7 = X 3 5 3 4 3
+Cm7/A# = 6 3 5 3 4 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

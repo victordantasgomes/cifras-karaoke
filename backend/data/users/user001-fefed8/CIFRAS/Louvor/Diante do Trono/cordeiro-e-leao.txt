@@ -1,0 +1,80 @@
+@titulo: cordeiro-e-leao
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Cordeiro e Leão
+
+INTRO: | Cm   | Fm   | Cm   | Fm   | (2xs)
+               |  Cm   | Fm   | Cm   | Fm  | (2xs)
+
+Cm                                  Fsus     F          Cm                           Gm
+ABAIXAR AS ARMAS LEVANTAR O SOM DE UM ALTO LOUVOR
+Cm                                                 Fm                            Ab          Bb
+ESPADA AFIADA EM NOSSA BOCA É A ADORAÇAO
+Cm                                              Cm                     Gm
+A VITORIA O CORDEIRO CONQUISTOU NO MONTE  SIÃO
+Cm                                 Fm                           Ab                                   G
+COM O SOPRO DE SUA BOCA ELE VEM DESTRUIR O INIMIGO PRA SEMPRE
+
+          Ab   Gm                             Ab    Gm
+ELE REINA, O NOSSO DEUS REINA
+           Fm                                               Cm
+E AO SOM DO SEU LOUVOR TODOS SE PROSTARÃO
+             Ab                    Fm             Cm
+É O RUGIDO DO LEÃO DE  JUDÁ
+           Fm                                                 Cm
+E AO SOM DA SEU LOUVOR FORTALEZAS CAIRÃO
+             Ab                   Fm            Cm  (stop)
+É O RUGIDO DO LEÃO DE JUDÁ
+
+
+                                Cm                                        Ab
+O NOSSO DEUS REINA, O NOSSO DEUS REINA,
+                               Fm        G                                Cm
+O NOSSO DEUS REINA,     O NOSSO DEUS REINA  ( 2xs )
+
+REINTRO: | Cm  | Cm7  | Cm6+  | Cm6  |
+        |Cm  | Fm  | Cm  | Fm  | Cm  | Fm  | Cm  | Fm  |  Volta Verso
+
+Cm                                                                    Ab
+DIGNO DE ADORAÇÃO, CORDEIRO E LEÃO      ( 4xs )
+
+Cm                                 Cm7               Cm7             Ab                            Gsus
+GLORIA E HONRA E FORÇA E  PODER A RIQUEZA A SABEDORIA
+Cm                           Cm7                Cm7                     Fm
+A SALVAÇÃO PERTENCE AO SENHOR NOSSO DEUS
+                                          Gsus    Gsus  (stop)
+QUE SE ASSENTA NO TRONO
+
+                               Cm                                       Ab
+O NOSSO DEUS REINA, O NOSSO DEUS REINA,
+                               Fm       G                                 Cm
+O NOSSO DEUS REINA,     O NOSSO DEUS REINA  ( 2xs )
+
+FINAL: | Cm  | Cm  | Ab   | Ab   | Cm  | Cm  | Ab   | Ab   | Cm  ||
+
+
+
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Bb = X 1 3 3 3 1
+Cm = X 3 5 5 4 3
+Cm6 = X 3 X 2 4 3
+Cm6+ = X 3 5 3 4 3
+Cm7 = X 3 5 3 4 3
+Cm7M = X 3 5 4 4 3
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+Fsus = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3
+Gsus = 3 2 0 0 0 3

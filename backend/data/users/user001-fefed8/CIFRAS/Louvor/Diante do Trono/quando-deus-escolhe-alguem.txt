@@ -1,0 +1,94 @@
+@titulo: quando-deus-escolhe-alguem
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Quando Deus Escolhe Alguém
+
+(intro) D  D/F#  G  Bm7  E/G#  G6  G/A
+
+       D               D/F#     G2
+Quando Deus escolhe alguém ele mesmo faz
+        Em7        D/F#           A
+Tudo o que determinou em seu coração
+   Bm7        F#m7
+Capacita os chamados
+     G            Bm7
+Fortalece os seus braços
+       G             Em7       A/C#      A
+Pois a obra é dele e não falhará
+
+       D               C/D          G2
+Quando Deus escolhe alguém, bom é obedecer
+        Em7           D/F#         A
+Custe o que custar é sempre o melhor
+    Bm7        F#m7
+ELE CUMPRE A PALAVRA
+        G                A    Bm7
+Que diz boa e a - gra - dá - vel
+
+   G             Em7       Asus      A
+Perfeita é a vontade do senhor
+
+           Bm7           F#m7
+Deus te criou para triunfar
+       G            Bm7
+Te escolheu para reinar
+     Em7            D/F#
+E viver como um herdeiro
+        1: G               A
+        2: G  D/F#  Em7    A/C#
+Do que jesus com - quis - tou
+
+(1ª vez) F#m7   Bm7         F#m7
+         Ele te fez um sonhador
+                    G             D/F#
+         Com um propósito, uma visão
+                Em7             D/F#          A
+         E nada vai frustrar os planos do senhor
+           G/A           D
+         Você é um vencedor
+
+(2ª vez) F#m7   Bm7         F#m7
+         Ele te fez um sonhador
+                    G             D/F#
+         Com um propósito, uma visão
+                Em7             D/F#          A
+         E nada vai frustrar os planos do senhor
+
+(solo)  Bm7  F#m7(9)  G7M  Bm7(9)
+        Em7(b5)  F#m7  G7M  A13(b9) Eb7
+        D7M  C#m(#5)  C7M  Bm7
+        Em7  Em7/D  C#m(#5)  A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A13(b9) = 5 X 4 3 5 X
+Asus = X 0 2 2 2 0
+Bm7 = X 2 4 2 3 2
+Bm7(9) = X 2 0 2 2 X
+C#m(#5) = X 4 2 2 2 5
+C/D = X X 0 0 1 0
+C7M = X 3 2 0 0 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7M = X X 0 2 2 2
+E/G# = 4 X 2 4 5 X
+Eb7 = X 6 5 6 4 X
+Em7 = 0 2 2 0 3 0
+Em7(b5) = X X 2 3 3 3
+Em7/D = X X 0 0 3 0
+F#m7 = 2 X 2 2 2 X
+F#m7(9) = X X 4 2 5 4
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G2 = 3 X 0 2 0 X
+G6 = 3 X 2 4 3 X
+G7M = 3 X 4 4 3 X

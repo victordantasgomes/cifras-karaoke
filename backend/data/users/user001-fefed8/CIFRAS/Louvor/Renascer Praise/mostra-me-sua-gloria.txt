@@ -1,0 +1,78 @@
+@titulo: mostra-me-sua-gloria
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Mostra-me Sua Glória
+
+Solo:
+E|-------------------6-4-3------4-3--------------------------------|
+B|--3h4-4---6--8--3--------3h4-4-----3-3h4-6-3h4-4--6-8-3h4--------|
+G|------------------------------------------------------------3h5--|
+D|-----------------------------------------------------------------|
+A|-----------------------------------------------------------------|
+E|-----------------------------------------------------------------|
+
+
+Intro 2x: Cm7  Gm7  Ab7M  Gm7 | Ab/C | Gm7 | Ab7M
+
+Cm7        Gm7             Ab7M         Gm7
+Se a dor vier mais forte  que eu possa suportar
+Ab/C        Gm7        Ab7M
+Se a morte vem me convidar
+Cm7       Gm7              Ab7M      Gm7
+Se a luta é mais forte que as minhas forças
+     Ab/C           Gm7       Ab7M
+E se eu não estiver mais aguentando
+
+Refrão:
+
+Cm7           Gm7      Ab7M
+Mostra-me Tua Glória Senhor
+Cm7           Gm7      Ab7M
+Mostra-me Tua Glória Senhor
+Cm7            Bb      Ab7M
+Mostra-me Tua Glória
+               Eb/G     Fm7/9
+Mostra-me Tua Glória
+               Bb/Ab     (Eb9)
+Mostra-me Tua Glória Senhor
+
+ Intro: Eb7M  Gm7  Ab7M  Gm7  Ab/C  Gm7  Ab7M
+
+(Repete tudo )
+
+Refrão 2x:
+Cm7           Gm7      Ab7M
+Mostra-me Tua Glória Senhor
+Cm7           Gm7      Ab7M
+Mostra-me Tua Glória Senhor
+Cm7            Bb      Ab7M
+Mostra-me Tua Glória
+               Eb/G     Fm7/9
+Mostra-me Tua Glória
+               Bb/Ab     Eb9
+Mostra-me Tua Glória Senhor
+
+Final:
+ Ab/C         Eb/Db        Ab/C         Eb/Db
+Maravilhoso, Maravilhoso, Maravilhoso Senhor     5X
+
+----------------- Acordes -----------------
+Ab/C = X 3 X 1 4 4
+Ab7M = 4 X 5 5 4 X
+Bb = X 1 3 3 3 1
+Bb/Ab = 4 X 3 3 3 X
+Cm7 = X 3 5 3 4 3
+Eb/Db = X 4 5 3 4 X
+Eb/G = 3 X 1 3 4 X
+Eb7M = X X 1 3 3 3
+Eb9 = X 6 8 8 6 6
+Fm7/9 = X X 3 1 4 3
+Gm7 = 3 X 3 3 3 X

@@ -1,0 +1,86 @@
+@titulo: impossibilidades
+@autor:
+@intérprete: Fresno
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fresno - Impossibilidades
+
+Em9                C5-
+   Quando você voltar
+              G9
+Não vá me avisar
+                 D
+Não vou estar aqui
+
+E|--2-3h2-2----|
+B|--3------3---|
+G|--2-------2--|
+D|--0--------0-|
+A|-------------|
+E|-------------|
+
+Em9                 C5-
+   Coisas hão de mudar
+                  G9
+Feridas hão de sarar
+                   D
+E eu hei de ser feliz
+       C
+Sem você
+
+         G  G/F#
+Sem ninguém
+
+Em               C
+  Estar feliz assim
+               G
+Depende só de mim
+                D
+Sofrer é com você
+Em                       C
+  Pois não dá pra encontrar
+                     G
+Conforto em outro lugar
+                D
+Que não seja aqui
+           C
+Dentro de mim sem ninguém
+
+G           Em
+ Não há paz   entre nós dois
+C               Am        D
+ Se não houver paz bem aqui
+G       Em
+ Espero   logo depois
+C             D
+ Já tenha forças pra sorrir
+
+(C D Em G)
+
+G           Em
+ Não há paz   entre nós dois
+C               Am        D
+ Se não houver paz bem aqui
+G       Em
+ Espero   logo depois
+C             D
+ Já tenha forças pra sorrir
+
+(G Em C D)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C5- = X 3 4 5 5 3
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em9 = 0 2 4 0 0 0
+G = 3 2 0 0 0 3
+G/F# = X X 4 4 3 3
+G9 = 3 X 0 2 0 X

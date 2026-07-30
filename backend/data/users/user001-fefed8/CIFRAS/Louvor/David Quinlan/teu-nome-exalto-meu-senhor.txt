@@ -1,0 +1,35 @@
+@titulo: teu-nome-exalto-meu-senhor
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Teu Nome Exalto Meu Senhor
+
+[INT] -> A D F#m E
+
+A          D            E D A      D
+Teu nome exalto meu Senhor   gosto de cantar teus
+    E    D A       D             E        D A
+louvores.   Por estar contigo alegre estou
+             D           E
+e ter vindo me salvar grato sou.
+A        D              E       D         A
+Do céu vieste para a terra o caminho mostrar e da
+ D             E              D        A        D
+terra para a cruz os meus pecados perdoar e da cruz
+          E                         D
+para o sepulcro do sepulcro para o cèu teu nome
+  E            A
+exalto meu Senhor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

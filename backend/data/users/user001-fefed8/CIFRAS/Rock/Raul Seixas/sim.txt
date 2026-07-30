@@ -1,0 +1,119 @@
+@titulo: sim
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Sim
+
+Está é minha música preferida. De todas as composições de Raul está é
+ a que possui a letra mais bonita e a melodia mais harmoniosa. É
+simplesmente fantástica.
+
+Abraços,
+André Vieira
+
+---------------------------------------------------------------------
+
+De: Raul Seixas/ Cláudio Roberto
+Intr.: (C G/B Am Am/G F7+ C/F/G G)
+
+  C             G/B
+A dor é uma coisa real
+      F/D                         G7
+Que a gente está aprendendo a abraçar
+  F7+
+E não temer
+   Fm7             C   Em
+A velha estória do mal
+          A    (A7 Bm E/G# Dm)
+Tão conhecida
+
+                F/A            G7
+Que já nem pode mais nos assustar
+   C                G/B
+O amor é uma coisa real
+    F/G                      G7
+E a gente nunca deve se esquecer
+   F7+
+De festejar
+Fm7              C   Em
+Cada momento pra nós
+          A    (A7 Bm E/G# Dm)
+É pura alegria
+              F9-/A        D7
+É tudo que a vida tem pra dar
+      G7  F/A
+Vem pegar
+         G7
+O que é seu
+         C
+A gente sofre
+         G/B
+A gente luta
+F/D                       G7
+Pois nossa palavra é sim, sim
+        C
+A gente ama
+         G/B
+A gente odeia
+F/D                        G7
+Mas a nossa palavra é sim, sim
+ C              G/B
+Viver é coisa irreal
+ F/D                                 G7
+Uns chamam de magia e é tudo tão normal
+      F7+
+Mas tá legal
+      Fm7            C  Em
+Tem mágica solta no ar
+                 A   (A7 Bm E/G# Dm)
+Faz parte do astral
+             F9-/A         D7
+É isso que a vida tem pra dar
+             G
+Vem conquistar
+F/G        G7
+O seu lugar
+          C
+A gente sofre
+         G/B
+A gente luta
+F/D                           G7
+Pois a nossa palavra é sim, sim
+         C
+A gente ama
+          G/B
+A gente odeia
+             F/D
+Mas sempre, sempre nossa
+           G7
+Palavra é sim
+
+SIM!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F/A = 5 X 3 5 6 X
+F/D = X X 0 5 6 5
+F/G = 3 X 3 2 1 X
+F7+ = 1 X 2 2 1 X
+F9 = 1 3 5 2 1 1
+Fm7 = 1 X 1 1 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

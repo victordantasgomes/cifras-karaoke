@@ -1,0 +1,35 @@
+@titulo: deus-trino
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Deus Trino
+
+E          A  A7           D    Bm            A            E
+Em nome do Pai  em nome do Filho   em nome do Espírito Santo
+           A (E7) A7
+Estamos aqui
+         D          E         C#m      F#m            Bm         E
+Para louvar e agradecer, bendizer e adorar, estamos aqui, Senhor, a
+       A  A7
+teu dispor
+        D           E          C#m      F#m        Bm  E
+Para louvar e agradecer, bendizer e adorar, te aclamar, Deus trino de
+A
+Amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

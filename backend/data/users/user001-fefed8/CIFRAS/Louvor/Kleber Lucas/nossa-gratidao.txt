@@ -1,0 +1,66 @@
+@titulo: nossa-gratidao
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Kleber Lucas - Nossa Gratidão
+
+Capo Casa 1
+
+[Intro] A  D/F#  E/G#  A/C#
+        D9  A/C#  Bm7  D/F
+
+   A           D/F#    E/G#     A
+Bendito seja o nome de Cristo Jesus
+D9       A/C#               Bm7    D/F# E/G#
+Rei dos reis Senhor dos senhores
+
+   A           D/F#    E/G#     A
+Bendito seja o nome de Cristo Jesus
+D9       A/C#             Bm7  D/F  A    G/B  A/C#
+Rei dos reis Senhor dos senho  o  ores
+
+  D9   E/G#    B4/G  F#7  E/G# F#/A#
+A ele seja o louvo   or
+  Bm7   D/E          A  G/B  A/C#
+E ele   seja a adoração
+
+D9        E/D    Cm7      D9
+Honra e glória nossa gratidão
+
+
+Bm7      D/E      A   Fm
+Por tão grande amor
+Bm7      D/E      A   Fm
+Por tão grande amor
+Bm7      D/E      A   Fm
+Por tão grande amor
+
+[Final] A  D/F#  E/G#  A/C#
+        D9  E9  D/A  A
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+A*  = X 0 2 2 2 0 - (*A# na forma de A)
+A/C#*  = X 4 X 2 5 5 - (*A#/D na forma de A/C#)
+B4/G*  = 3 X 4 4 4 X - (*C4/G# na forma de B4/G)
+Bm7*  = X 2 4 2 3 2 - (*Cm7 na forma de Bm7)
+Cm7*  = X 3 5 3 4 3 - (*C#m7 na forma de Cm7)
+D/A*  = X 0 X 2 3 2 - (*D#/A# na forma de D/A)
+D/E*  = X X 2 2 3 2 - (*D#/F na forma de D/E)
+D/F*  = X X 3 2 3 2 - (*D#/F# na forma de D/F)
+D/F#*  = 2 X 0 2 3 2 - (*D#/G na forma de D/F#)
+D9*  = X X 0 2 3 0 - (*D#9 na forma de D9)
+E/D*  = X 5 X 4 5 4 - (*F/D# na forma de E/D)
+E/G#*  = 4 X 2 4 5 X - (*F/A na forma de E/G#)
+E9*  = 0 2 4 1 0 0 - (*F9 na forma de E9)
+F#/A#*  = 6 X 4 6 7 X - (*G/B na forma de F#/A#)
+F#7*  = 2 4 2 3 2 2 - (*G7 na forma de F#7)
+Fm*  = 1 3 3 1 1 1 - (*F#m na forma de Fm)
+G/B*  = X 2 0 0 3 3 - (*G#/C na forma de G/B)

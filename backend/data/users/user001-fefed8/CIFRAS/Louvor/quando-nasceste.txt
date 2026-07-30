@@ -1,0 +1,66 @@
+@titulo: quando-nasceste
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Quando Nasceste
+
+D         Am         D7    G   Gm
+Quando nasceste trouxeram ouro,
+           D Bm          Em  A7
+Perfume e seda pra te servir
+         Bm  C#7           F#m   D7
+E os pobrezinhos vestindo couro
+         G    A7         D     D/C
+Veio só ver te, ver te sorrir.
+          G    Gm         D      Bm
+E os pobrezinhos vestindo couro
+         Em   A7          G   D
+Veio só ver te, ver te sorrir.
+
+D         Am     D7     G   Gm
+Hoje trazemos o pão e o vinho
+        D Bm          Em  A7
+Pomos a mesa do santo altar
+            Bm  C#7           F#m   D7
+Se a gruta ensina qual é o Caminho
+          G   A7            D     D/C
+O altar revela que a lei é amar.
+
+
+            G    Gm          D      Bm
+Se a gruta ensina qual é o Caminho
+         Em   A7            G   D
+O altar revela que a lei é amar.
+
+D         Am      D7   G    Gm
+O mundo salvas tão docemente
+        D  Bm          Em  A7
+Numa família a de São José
+           Bm  C#7        F#m   D7
+Possa esta mesa fazer da gente
+         G   A7          D     D/C
+Irmãos unidos no amor e fé.
+            G  Gm        D      Bm
+Possa esta mesa fazer da gente
+        Em   A7            G   D
+Irmãos unidos no amor e fé.
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C#7 = X 4 3 4 2 X
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

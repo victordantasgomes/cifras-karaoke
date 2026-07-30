@@ -1,0 +1,136 @@
+@titulo: rapante
+@autor:
+@intérprete: Raimundos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raimundos - Rapante
+
+Intro:
+E|-0-0-0-2-0-0-4-0(3X)-0-0-|
+
+"Eu falei que isso é uma porra"
+
+E|-0-0-0-2-0-0-4-0-|(4X)
+
+Riff1(abafe as cordas/notas)
+e|-----------------------|
+B|-----------------------|
+G|-----------------------|
+D|-2-2-2-4-----6----2-2--|
+A|-2-2-2-4-----6----2-2--|
+E|-0-0-0-2-0-0-4-0--0-0--|
+
+============================================================================
+(riff1)[4X]
+"Arrocho o jegue parto pra merma rotina
+ já são quatro da matina e eu tenho que me virar
+ Comendo a pedra eu desenvolvi a proteína
+ que nenhuma cocaína dá a força que ela dá
+
+ Lá onde eu moro é onde ninguém fica á toa
+ o rabo arranca e o peido avoa ninguém para de cagá
+ Menina linda na parada de baú
+ se pego meio tocada acho que vou te torar
+ ôôôuuu"
+
+Riff2[4X]
+e|-------------------------|    Obs.:p.m.=>(palm muted)cordas/notas abafadas
+B|-------------------------|         Na quarta vez não toque o acorde que 
+G|---------------------(3)-|         está entre parênteses().
+D|-2-2--2-2-2-2-2-2--2-(3)-|
+A|-2-2--2-2-2-2-2-2--2-(1)-|
+E|-0-0--0-0-0-0-0-0--0-----|
+       |----p.m.---| 
+
+Riff3[1X]
+e|---------------------|
+B|---------------------|
+G|---------------------|
+D|------------------2--|
+A|------------------2--|
+E|-0-0-0-2-0-0-4-0--0--|
+
+
+(riff1)[4X]
+"A tal da pedra me faz virar noite e dia
+ vou a pé até a Bahia e não páro pra descansar
+ E não ofende o aparelho digestivo
+ é só um dispositivo que eu tenho pra falar
+ Sem ela eu não falo
+ Sem ela eu não me calo
+ Menina de Brasília ou de qualquer lugar
+ ouça o que o paraíba filha da puta aqui tem pra dizer"
+
+(riff2)[4X]
+
+Riff4                         Riff5              Riff6
+e|-----------------------|    e|------------|    e|---------------|
+B|-----------------------|    B|------------|    B|---------------|
+G|--------------------1--|    G|------------|    G|---------------|
+D|-2-2-2-2-----1-0-3-0---|    D|-2-2-2-2--5-|    D|-2-2-2-2-------|
+A|-2-2-2-2--1-0----------|    A|-2-2-2-2--5-|    A|-2-2-2-2--0-1--|
+E|-0-0-0-0---------------|    E|-0-0-0-0--3-|    E|-0-0-0-0-------|
+
+
+(riff4)[3X]=>(riff5)[1X]=>(riff4)[3X]=>(riff6)[1X]
+
+
+(riff4)[3X]=>(riff5)[1X]=>(riff4)[3X]=>(riff6)[1X]
+"Arrocho o jegue parto pra merma rotina
+ já são quatro da matina e eu tenho que me virar
+ Comendo a pedra eu desenvolvi a proteína
+ que nenhuma cocaína dá a força que ela dá
+ Lá onde eu moro é onde ninguém fica á toa
+ o rabo arranca e o peido avoa ninguém para de cagá
+ Menina linda na parada de baú
+ se pego meio tocada acho que vou te torar
+ ôôôuuu"
+
+Riff7[1X]
+e|---------------------|
+B|---------------------|
+G|--------5------------|
+D|-2-2----5--------2-2-|
+A|-2-2----3--------2-2-|
+E|-0-0-3-5--5-3-2--0-0-|
+
+
+"Menina ô
+ Parada de baú"
+
+
+(riff4)[1X]=>(riff6)[1X]
+
+
+(riff4)[3X]=>(riff5)[1X]=>(riff4)[3X]=>(riff6)[1X]
+"A tal da pedra me faz virar noite e dia
+ vou a pé até a Bahia e não páro pra descansar
+ E não ofende o aparelho digestivo
+ é só um dispositivo que eu tenho pra falar
+ Sem ela eu não falo
+ Sem ela eu não me calo
+ Menina de Brasília ou de qualquer lugar
+ ouça o que o paraíba filha da puta aqui tem pra dizer"
+
+Riff7b[1X]
+e|-------------------|
+B|-------------------|
+G|--------5----------|
+D|-2-2----5--------2-|
+A|-2-2----3--------2-|
+E|-0-0-3-5--5-3-2--0-|
+
+
+"Menina ô
+ Parada de baú"
+
+
+Tab: Arthur Bueno
+
+----------------- Acordes -----------------

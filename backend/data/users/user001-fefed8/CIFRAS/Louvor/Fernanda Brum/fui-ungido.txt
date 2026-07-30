@@ -1,0 +1,80 @@
+@titulo: fui-ungido
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Fui Ungido
+
+Intro: E/G#  A  B9  B°  C#m  F#7  F#m  B9
+
+                E/G# A
+Tudo em mim mudou
+                B9
+Quando eu despertei
+                E/G# A
+Do sono que paralizou
+        F#m           B9
+Avida que eu tinha em Ti
+            E/G# A
+Foi inesquecível
+                B9  C#m
+Ver de novo a Tua mão
+       B/A - A          A/G - G
+Que me acei-tou, que me envol-veu
+   F#m    E/G#  A     C#m     B9
+Senti Teu óleo derramando em mim
+
+        E B/D#    C#m   B9
+Fui ungido, fui tocado
+
+E/G#   A E/G#   F#m    B9
+Fui amado, perdoado
+        E B/D#    C#m   B9
+Fui sarado, restituído
+E/G#   A E/G#   F#m    B9
+Fui erguido, renovado
+          E     2°vez(B/D#)
+Por Teu amor
+
+        C#m       B/D#          E
+Mãos santas que tocaram minha mente e coração
+        C#m       B/D#      E
+Arrancando todo engano e tirando maldição
+
+        F C/E      Dm   C
+Fui ungido, fui tocado
+F/A   Bb F/A    Gm    C
+Fui amado, perdoado
+        F C/E      Dm   C
+Fui sarado, restituído
+F/A   Bb F/A    Gm    C
+Fui erguido, renovado
+          F
+Por Teu amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/G = 3 X 2 2 2 X
+B/A = X 0 4 4 4 X
+B/D# = X 6 X 4 7 7
+B9 = X 2 4 4 2 2
+Bb = X 1 3 3 3 1
+B° = X 2 3 1 3 1
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+C/E = 0 3 2 0 1 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F = 1 3 3 2 1 1
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+F/A = 5 X 3 5 6 X
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

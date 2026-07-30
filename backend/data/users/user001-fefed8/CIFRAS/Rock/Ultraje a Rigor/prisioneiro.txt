@@ -1,0 +1,64 @@
+@titulo: prisioneiro
+@autor:
+@intérprete: Ultraje a Rigor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ultraje a Rigor - Prisioneiro
+
+intro (C# A)2x
+
+|---7-9-----|  (riff 1) 
+|7-9--------|
+|-----------|
+|-----------|11x   e|-12-12-|(finaliza assim) 
+|-----------|
+|-----------|
+
+Nunca soube o que era constituição
+ C#                            B
+Cresci sem mãe, sem pai e sem patrão
+ A                             C#
+Comecei desde cedo a roubar o meu pão
+ A                             C#
+E o café e o licor pra ajudar a digestão
+
+E                B                  A
+Prisioneiro, prisioneiro, prisioneiro nao
+
+             A                          (refrao)
+Se você me pegar eu vou chamar meu irmão
+
+(Riff 1)
+
+ C#                                      B
+Com tanta gente roubando ninguém vai me pegar
+ C#                                    B
+Sigo tranquilo no meio ninguém vai me dedar
+ A                                 C#
+Vivo bem com o tráfico e com a corrupção
+ A                               C#
+Se o negócio sujar é só tomar um avião
+(Refrao)
+(solo)(C# B)
+ C#                           B
+Duvido que um dia isso possa mudar
+ C#                        B
+Tem prá todos ninguém irá tentar
+ A                     C#
+Me tirar o apoio e a posição
+ A                     C#
+Me colocar enfim numa prisão
+(Refrao)
+ (Solo)(C# B-C# A)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+E = 0 2 2 1 0 0

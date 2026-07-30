@@ -1,0 +1,116 @@
+@titulo: vida-biografia-em-re-menor
+@autor:
+@intérprete: Fresno
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fresno - Vida (Biografia em Ré Menor)
+
+Intro: D D D4 D D9
+
+D                       G
+Do alto do meu sexto andar
+        A
+Eu não vejo mais o pôr-do-sol
+       Bm
+Nem o rio que eu aprendi a amar
+     D                         E
+Mas, olha onde eu fui me esconder...
+G          A   Bm
+Dentro da sua tv
+
+D                      G
+As coisas que eu aprendi...
+    A              Bbº       Bm
+Às vezes em que eu quase morri...
+D                     E
+Será que eu tinha que ficar aqui?
+           G                           A           Bm
+Será que é tanto assim que eu tenho pra falar?
+
+
+   E              G             A               Gm  Dm
+Parece que não mas eu sei que vai... Vai passar,
+      F            E  Bm
+Você nem vai perceber
+        Gm  Dm       F           E       A
+Vai mudar,     e eu sei que vai doer em mim...
+
+         D                  G
+Alguns amigos vão apenas sumir
+        A         Bbº           Bm
+E pelo menos uma vez, uma mulher vai te trair
+       D                       E
+Mas você também, um dia, trairá
+          G                 A       Bm
+Vai aprender que ainda não sabe amar
+
+  E                G          A              Gm  Dm
+Parece que não mas eu sei que vai... Vai passar
+      F            E
+E eu nem vou perceber
+        Gm  Dm      F            E        A
+Vai mudar,    e eu sei que vai doer...Demais
+
+Dm  Bb5 G  E  A  Dm  Bb5  Gm  E  A
+ooOOooOOoO....
+
+    Dm                                               Bb
+Há muito tempo, eu perdi o medo de todos os meus rivais!
+                         G   E                A
+Eu não tenho medo de brigar! Assim cheguei aqui
+
+     Dm                                                   Bb
+Há muito tempo, eu aprendi que os inimigos são pra nos testar
+                                 Gm   E                            A
+Aprenda o que ele têm pra te ensinar, porque eles sabem tudo de você!
+
+
+G5 F5 E5
+
+
+(D5 A F)  (D# D C D)          (simplificadíssimo)
+
+    D                     G
+Do alto dos meus vinte e seis
+         A           Bbº           Bm
+Eu tenho algo pra dizer, junto desses outros três
+        D                             E
+Jamais siga os passos meus, você vai ver
+              G            A        Bm
+Que eu estou tão perdido quanto você
+
+   E                   G             A          Gm  Dm
+Eu achava que não, hoje eu sei que vai, vai passar
+      F            E           Gm  Dm
+E eu nem vou perceber, vai mudar
+                              E
+Vai mudar, vai mudar, vai mudar
+        A
+E acabar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb = X 1 3 3 3 1
+Bb5 = X 1 3 3 X X
+Bbº = X 1 2 0 2 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D4 = X X 0 2 3 3
+D5 = X 5 7 7 X X
+D9 = X X 0 2 3 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+F = 1 3 3 2 1 1
+F5 = 1 3 3 X X X
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X
+Gm = 3 5 5 3 3 3

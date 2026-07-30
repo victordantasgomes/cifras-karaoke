@@ -1,0 +1,95 @@
+@titulo: furacao
+@autor:
+@intérprete: Scalene
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Scalene - Furacão
+
+Am   C    G   A#
+Como paz, tu és movimento
+Am   C   G#º  Bº
+Faz o corpo sentir
+Am   C    G   A#        Am
+Ao certo qual é a direção
+C    G#º    Bº
+Não deixe estagnar
+
+Am              Am/G
+Para que lado devo ir
+F7M              C
+Não é sempre que sei
+Am              Am/G
+Rumo é lar e eu benzo o ar
+F7M
+Descalço irei
+
+C     F     Dm    Em
+Quero algo puro, leve
+C      F
+Solto, livre
+
+Dm      Em
+Sei que mora dentro de mim
+
+( Am C G A#  Am C G#º )
+
+Am    C    G    A#
+Erro achar, silêncio
+Am    C   G#º   Bº
+Evolução, É no furacão
+Am    C    G    A#
+Que surge a porta
+Am    C
+Para um novo
+G#º       Bº
+Modo de pensar
+
+Am            Am/G
+Conseguimos suportar
+F7M             C
+Todo e qualquer fim
+Am            Am/G
+Não se opor à luz que for
+F7M
+Pra renovar
+
+C      F    Dm    Em
+Quero algo puro, leve
+C       F
+Solto, livre
+Dm      Em
+Sei que mora dentro de mim
+
+( C  F  Dm  Em ) - 2x
+
+C             F
+Bem dentro de mim
+Dm            Em
+Todo e qualquer fim
+C             F
+Bem dentro de mim
+Dm            Em    Bº
+Todo e qualquer fim
+
+( G#   G#º E )
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Bº = X 2 3 1 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F7M = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#º = 4 X 3 4 3 X

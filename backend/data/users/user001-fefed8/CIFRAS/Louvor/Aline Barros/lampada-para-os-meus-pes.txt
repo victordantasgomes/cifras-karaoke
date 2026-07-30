@@ -1,0 +1,149 @@
+@titulo: lampada-para-os-meus-pes
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Lâmpada Para Os Meus Pés
+
+[Intro] F#m  F#m/C#  D  D/A
+        F#m  F#m/C#  D  D/A
+        F#m/E  F#m
+        F#m/E  F#m
+        F#m/E  F#m
+        F#m/E  F#m
+        D/A  E/B
+
+[Primeira Parte]
+
+ F#m         D                A     E
+Lâmpada para os meus pés é a tua palavra
+ F#m        D               A     E/B
+Luz para o meu caminho é a tua palavra
+    F#m             D
+Da tua casa eu não tiro os pés
+     A              E/B
+Eu quero ouvir tua voz
+        F#m           D
+Levantarei as minhas mãos
+        A             E/B
+E bendirei teu santo nome
+
+        F#m           D
+Levantarei as minhas mãos
+        A    E
+E gritarei
+
+[Refrão]
+
+F#m  D   A          C#m
+Ôooo ôoo ôoo tu és santo
+F#m  D   A          C#m
+Ôooo ôoo ôoo tu és santo
+
+( F#m  F#m/C#  D/F#  D/A )
+
+[Primeira Parte]
+
+ F#m         D                A     E
+Lâmpada para os meus pés é a tua palavra
+ F#m        D               A     E
+Luz para o meu caminho é a tua palavra
+    F#m             D
+Da tua casa eu não tiro os pés
+     A              E
+Eu quero ouvir tua voz
+        F#m           D
+Levantarei as minhas mãos
+        A             E/B
+E bendirei teu santo nome
+        F#m           D
+Levantarei as minhas mãos
+        A    E
+E gritarei
+
+[Refrão]
+
+F#m  D   A          C#m
+Ôooo ôoo ôoo tu és santo
+F#m  D   A          C#m
+Ôooo ôoo ôoo tu és santo
+F#m  D   A          C#m
+Ôooo ôoo ôoo tu és santo
+F#m  D   A          C#m
+Ôooo ôoo ôoo tu és santo
+
+[Ponte]
+
+F#m       D/F#          A      E/G#
+ Quão formosos são os teus caminhos
+F#m      D             A   E/G#
+ Quão maravilhosa é a tua lei
+Bm          F#m  E    Bm
+ Não tenho para onde ir
+           F#m      E
+Prefiro estar contigo
+      D
+Pois só tu tens palavras
+        A/E          E
+Que me trazem vida eterna
+     Bm          D
+Nem só de pão eu viverei
+       E4    E
+Mas da tua palavra, Deus
+
+[Primeira Parte]
+
+ F#m         D                A     E
+Lâmpada para os meus pés é a tua palavra
+ F#m        D               A     E
+Luz para o meu caminho é a tua palavra
+    F#m             D
+Da tua casa eu não tiro os pés
+     A              E
+Eu quero ouvir tua voz
+        F#m           D
+Levantarei as minhas mãos
+        A             E
+E bendirei teu santo nome
+        F#m           D
+Levantarei as minhas mãos
+        A    E
+E gritarei
+
+[Refrão]
+
+F#m  D   A          C#m
+Ôooo ôoo ôoo tu és santo
+F#m  D   A          C#m
+Ôooo ôoo ôoo tu és santo
+
+[Final] F#m  D  E
+        F#m  D  E
+        F#m  D  E
+        F#m  D  E
+        Am  D  C
+        F#m  D  E  F#m
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/E = 0 X 2 2 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2
+F#m/C# = X 4 4 2 2 2
+F#m/E = X X 2 2 2 2

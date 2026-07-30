@@ -1,0 +1,156 @@
+@titulo: armas-quimicas-e-poemas
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Armas Químicas e Poemas
+
+[Intro]  G  F  C  Bb  C  Bb
+         G  F  C  Bb  C  Bb
+
+Riff 1
+E|--------------------------------|
+B|-8-----8-----8-----8-----8------|
+G|---5-----5-----5-----5-----5----| (15x)
+D|-----7-----7-----7-----7-----7--|
+A|--------------------------------|
+E|--------------------------------|
+
+G              D
+Eu me lembro muito bem
+ Am         C
+Como se fosse amanhã
+G               D
+O sol nascendo sem saber
+Am      C
+O que iria iluminar
+G              D
+Eu abri meu coração
+
+
+Riff 2
+     G5               D5
+E|-----------------------------------|
+B|-8-8-8-8-8-8-8-8--3-3-3-3-3-3-3-3--|
+G|-7-7-7-7-7-7-7-7--2-2-2-2-2-2-2-2--|
+D|-5-5-5-5-5-5-5-5--0-0-0-0-0-0-0-0--|
+A|-----------------------------------|
+E|-----------------------------------|
+
+     A5                       C5
+E|--------------------------------------------------|
+B|-10-10-10-10-10-10-10-10--10-10-10-10-10-10-10-10-|
+G|-9--9--9--9--9--9--9--9---10-10-10-10-10-10-10-10-|
+D|-7--7--7--7--7--7--7--7---8--8--8--8--8--8--8--8--|
+A|--------------------------------------------------|
+E|--------------------------------------------------|
+
+ Am         C
+Como se fosse um motor
+G          D
+E na hora de voltar
+ Am       C
+Sobravam peças pelo chão
+
+Riff 3
+E|-10-----10-----10-----10-----10-----|
+B|----9------9------9------9------9---|
+G|------8------8------8------8------8-| 15x
+D|------------------------------------|
+A|------------------------------------|
+E|------------------------------------|
+
+ B                      C
+Mesmo assim eu fui à luta
+B                  D
+Eu quis pagar pra ver
+
+Riff 4
+E|-----------------------------------------------------------------------|
+B|-----7-----7-----7-----7-----------8------8------8------8--------------|
+G|---8---8-----8-----8-----8-------9---9------9------9------9------------|
+D|-9-------9-----9-----9-----9--10-------10-----10-----10-----10---------|
+A|-----------------------------------------------------------------------|
+E|-----------------------------------------------------------------------|
+
+E|-----------------------------------------------------------------------|
+B|-----7-----7-----7-----7------------10-------10-------10-------10------|
+G|---8---8-----8-----8-----8-------11----11-------11-------11-------11---|
+D|-9-------9-----9-----9-----9--12----------12-------12-------12-------12|
+A|-----------------------------------------------------------------------|
+E|-----------------------------------------------------------------------|
+
+G       F          C      Bb C Bb G
+ Aonde leva essa loucura?
+G         F             C   Bb C Bb G
+ Qual é a lógica do sistema?
+G       F                C      Bb C Bb G
+ Onde estavam as armas químicas?
+G       F         C     Bb C Bb G
+ O que diziam os poemas?
+
+G           D
+ Afinal de contas
+Am                    C
+ O que nos trouxe até aqui ?
+G           D
+ Medo ou coragem ?
+Am          C
+ Talvez nenhum dos dois
+
+G                  D
+ Sopra o vento um carro passa pela praça
+ Am        C
+ E já foi   já foi
+
+B                    C
+ Por acaso eu fui à luta
+B                   D
+ Eu quis pagar pra ver
+
+G       F          C      Bb C Bb G
+ Aonde leva essa loucura?
+G         F             C   Bb C Bb G
+ Qual é a lógica do sistema?
+G       F                C      Bb C Bb G
+ Onde estavam as armas químicas?
+G       F         C     Bb C Bb G
+ O que diziam os poemas?
+
+( G  F  C  Bb  C  Bb  G  F  C  Bb  C  Bb )
+
+G                D
+ O tempo nos faz esquecer
+Am                  C
+ O que nos trouxe até aqui
+G               D       Am           C
+ Mas eu lembro muito bem como se fosse Amanhã
+G            F                 C      Bb C Bb G
+ Quem prometeu um descanso em paz?
+G       F              C      Bb C Bb G
+ Pra depois dos comerciais ?
+G         F           C      Bb C Bb G
+ Quem ficou pedindo mais?
+G       F           C    Bb C Bb G
+ Armas químicas e poemas?
+G       F           C    Bb C Bb G
+ Armas químicas e poemas?
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C5 = X 3 5 5 X X
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X

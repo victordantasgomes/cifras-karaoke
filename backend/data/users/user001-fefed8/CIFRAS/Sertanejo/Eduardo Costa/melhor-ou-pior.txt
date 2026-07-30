@@ -1,0 +1,51 @@
+@titulo: melhor-ou-pior
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Melhor Ou Pior
+
+Intro: D  G
+
+   D                                             A
+Vou caminhar por uma estrada que eu ainda não conheço
+                                               D
+Pra desvendar e conhecer voce eu pago qualquer preço
+                                                 A
+Eu já antei por tantos becos dessa vida, eu já sofri demais
+                                                      D          D7
+Eu sou assim inconssequente um louco, um cara que não volta atrás
+
+   G                  D
+Eu tô assim....   não mando em mim
+       A
+Bem no meio de um conflito,  onde as vezes berro e grito
+    D                     D7
+Não sei o que é melhor....
+
+   G                    D
+Eu tô assim...  já não mando em mim
+        A
+Bem no meio da tormenta , entre o mel e a pimenta
+
+    G           D       D C# B
+Não sei o que é pior....
+
+   A              G              D
+É surreal, é improvável,  é impossível
+   A               G               D             D C# B
+Te amar assim,  te amar assim,  te amar assim....       (bis)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3

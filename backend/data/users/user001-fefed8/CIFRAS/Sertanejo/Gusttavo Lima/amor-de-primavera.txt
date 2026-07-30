@@ -1,0 +1,68 @@
+@titulo: amor-de-primavera
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Amor de Primavera
+
+Intro: E  A  E  B  E  A  E
+
+E|-6p4--4--6p4--4--6p4--4--6---6--4--2---/--6p4--4--6p4--4--6p4--4--4--4--3--2--|
+B|------------------------------------------------------------------------------|
+G|-6----6--6----6--6----6--6---6--6--4---/--6----6--6----6--6----6--6--6--5--4--|
+D|------------------------------------------------------------------------------|
+A|------------------------------------------------------------------------------|
+E|------------------------------------------------------------------------------|
+
+E|-2--2--4p2-2-2-2-4/6-4--2-2-4/6-4--------------11--13-14-13-11-9--|
+B|------------------------------------11--13-14---------------------|
+G|-4--4--4---4-4-4-4/6-4--4-4-4/6-4---------------------------------|
+D|------------------------------------------------------------------|
+A|------------------------------------------------------------------|
+E|------------------------------------------------------------------|
+
+E               A                     E
+O amor de primavera não termina no verão
+                  B7                        E   E7
+No outono ele floresce, no inverno é só paixão
+                     A                      E
+Eu pensei que fosse fácil esquecer aquele amor
+
+                    B7                        E
+Mas quando veio a saudade foi demais a minha dor
+        G# A Bb B                             E  E7
+Quando vem      a saudade foi demais a minha dor
+      A  B7  E  E7
+Uuuuuuu uuu uu
+      A  B7  E  A E
+Uuuuuuu uuu uu
+
+                    A                       E
+Coração que sai vencido quase sempre tem razão
+                      B7                 E      E7
+E a razão que sempre vence nunca teve coração
+                  A                     E
+O amor é como um dia, é a luz na escuridão
+                  B7                     E
+Traz de volta a alegria onde existe solidão
+            G# A Bb B                         E    E7
+Traz de volta      a alegria onde existe solidão.
+      A   B7 E   E7
+Uuuuuuu uuu uu
+      A   B7 E
+Uuuuuuu uuu uuuuu
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+Bb = X 1 3 3 3 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+G# = 4 3 1 1 1 4

@@ -1,0 +1,177 @@
+@titulo: mesmo-sem-estar-part-sandy
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Mesmo Sem Estar (part. Sandy)
+
+Intro:
+E|---------------------------|
+B|---------------------------|
+G|-9/11-9-13--9/11-9---------|
+D|-------------------9-------|
+A|---------------------------|
+E|---------------------------|
+
+E9
+Eu tô na preguiça que sempre te dá
+Quando olha no relógio já passou das 6
+            C#m
+Eu tô na playlist do teu celular
+Escondido na história da música 3
+              A9
+Tô no teu reflexo no espelho
+                    F#m   B9
+No teu travesseiro, sonho e pesadelo
+                 E9
+E quando acordar, eu tô aí
+            Am
+Mesmo sem estar
+
+E9
+Tô naquela fome louca de manhã
+Na vontade de comer besteira no café
+             C#m
+Tô naquela blusa que eu sei que é azul
+Só pra me irritar insiste em dizer que não é
+         A9
+Tô na solidão do elevador
+           E/G#      F#m
+Do teu cobertor, no filme de amor
+B9               E9
+Seja onde for, eu tô aí
+           B7    (pausa)
+Mesmo sem estar
+     Aadd9
+Uuuuuu..
+                         E9
+Saiba que eu sempre to aí
+     Aadd9
+Uuuuuu
+                        C#m
+Saiba que eu sempre tô aí
+    Aadd9
+Uuuuu
+          B7
+Mesmo sem estar
+            E9
+Que tal apostar
+                        B/D#   C#m
+A gente não se fala mais por um mês
+Você vai ver
+                     A9
+Que o tempo não muda nada, nada
+F#m    B7
+Nada, nada
+      E9              B7
+Eu tô aí, mesmo sem estar
+
+Passagem parte Sandy:
+
+E|---------------------------|
+B|---------------------------|
+G|-9/11-11-11-11------9/11---|
+D|---------------11-9--------|
+A|---------------------------|
+E|---------------------------|  
+
+E|---------------------------|
+B|---------------------------|
+G|-8h9-8---------------------|
+D|---------------------------|
+A|---------------------------|
+E|---------------------------|
+
+(Sandy )
+
+B9
+Eu to na preguiça que sempre te dá
+Quando olha no relógio já passou das 6
+            G#m
+Eu tô na playlist do teu celular
+Escondido na história da música 3
+              E9
+To no teu reflexo no espelho
+                    C#m
+No teu travesseiro, sonho e pesadelo
+     F#           B
+E quando acordar, eu tô aí
+            Em
+Mesmo sem estar
+B9
+Tô naquela fome louca de manhã
+Na vontade de comer besteira no café
+             G#m
+Tô naquela blusa que eu sei que é azul
+Só pra me irritar insiste em dizer que não é
+         E9
+Tô na solidão do elevador
+                 C#m
+Do teu cobertor, no filme de amor
+F#             B
+Seja onde for, eu tô aí
+           F#7
+Mesmo sem estar
+     Eadd9
+Uuuuuu..
+                         B9
+Saiba que eu sempre to aí
+     Eadd9
+Uuuuuu..
+                        G#m
+Saiba que eu sempre tô aí
+    Eadd9
+Uuuuu..
+F#7
+Mesmo sem estar
+            B9
+Que tal apostar
+                       F#/A#  G#m
+A gente não se fala mais por um mês
+Você vai ver
+                     E9
+Que o tempo não muda nada, nada
+C#m    F#
+Nada, nada
+      B9             F#7
+Eu tô aí, mesmo sem estar
+
+Final:
+E|---------------------------|
+B|---------------------------|
+G|-9/11-11-11-11------9/11---|
+D|---------------11-9--------|
+A|---------------------------|
+E|---------------------------|  
+
+E|---------------------------|
+B|---------------------------|
+G|-8h9-8---------------------|
+D|---------------------------|
+A|---------------------------|
+E|---------------------------|
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+Aadd9 = X 0 2 2 0 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E/G# = 4 X 2 4 5 X
+E9 = 0 2 4 1 0 0
+Eadd9 = 0 2 4 1 0 0
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

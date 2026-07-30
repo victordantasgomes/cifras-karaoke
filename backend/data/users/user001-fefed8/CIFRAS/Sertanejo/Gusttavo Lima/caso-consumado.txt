@@ -1,0 +1,105 @@
+@titulo: caso-consumado
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Caso Consumado
+
+A           E                        F#m
+Eu te amo, eu te quero, mas assim não da
+                    D                       A
+Nosso caso é consumado e não da pra esperar.
+                    E                      F#m
+Você vai ver o que perdeu quando me encontrar
+                     D                     A
+Nos braços de outro alguém ai cê vai chorar
+
+(solo)
+
+(parte 1)
+E|--------------------------7-5--------|
+B|---5---7-5---5------5---5-----7------|
+G|-6---6-----6------6---6--------------|
+D|-------------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+
+(parte 2)
+E|--------------------------7p5--------|
+B|---5---7-5---5------5---5-----7/9--7-|
+G|-6---6-----6------6---6--------------|
+D|-------------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+
+
+(intro)
+
+A                E            F#m   D
+Tentei te procurar você se escondeu
+A                E                     F#m   D
+As vezes penso que de mim você se esqueceu.
+A                E                 D
+Suas atitudes me provaram que a paixão
+A                E                  D
+As vezes é intensa as vezes é em vão.
+
+Bm         D           A    E
+Meus pensamentos a chorar
+Bm         D                     E     E7
+Preso no tempo sem chance de voltar
+
+A           E                        F#m
+Eu te amo, eu te quero, mas assim não da
+                    D                       A
+Nosso caso é consumado e não da pra esperar.
+                    E                      F#m
+Você vai ver o que perdeu quando me encontrar
+                     D                     A
+Nos braços de outro alguém ai cê vai chorar.
+
+(solo)
+
+(parte 1)
+E|--------------------------7-5--------|
+B|---5---7-5---5------5---5-----7------|
+G|-6---6-----6------6---6--------------|
+D|-------------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+
+(parte 2)
+E|--------------------------7p5--------|
+B|---5---7-5---5------5---5-----7/9--7-|
+G|-6---6-----6------6---6--------------|
+D|-------------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+
+Bm         D           A    E
+Meus pensamentos a chorar
+Bm         D                     E     E7
+Preso no tempo sem chance de voltar
+
+A           E                        F#m
+Eu te amo, eu te quero, mas assim não da
+                    D                       A
+Nosso caso é consumado e não da pra esperar.
+                    E                      F#m
+Você vai ver o que perdeu quando me encontrar
+                     D                     A
+Nos braços de outro alguém ai cê vai chorar.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

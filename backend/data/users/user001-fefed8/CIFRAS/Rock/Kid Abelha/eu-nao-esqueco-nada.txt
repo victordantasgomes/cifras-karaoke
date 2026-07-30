@@ -1,0 +1,78 @@
+@titulo: eu-nao-esqueco-nada
+@autor:
+@intérprete: Kid Abelha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kid Abelha - Eu Não Esqueço Nada
+
+[Intro] D  D7M  E  E6  E7
+        E  Gm6  C  D
+
+D        D7M     E  E6  E7  E
+Vejo você de tão longe
+Gm          Bb         C
+Que só eu sei que é você
+  Bb     C     D
+Só eu sei te ver
+D           D7M      E  E6  E7  E
+Lembro de tudo o que houve
+Gm        Bb     C
+De tudo que ia ver
+Bb              C
+Do que não foi nada
+Bb           C           D
+Dentro dos nadas que havia
+
+D                D7M    Gm  C
+Por que eu não esqueço nada
+D           D7M         Gm
+A não ser de te esquecer
+
+C             D  D7M         E/G#
+Nem ao meio dia, nem de madrugada
+Bb        C    D
+Eu não esqueço nada
+Bb            C
+Eu  não esqueci
+
+[Solo]
+
+E|---------------------------------|
+B|---------------------------------|
+G|---------------------------------|
+D|-----------------------3----0-2--|
+A|-5-3-5-3-5---5-3-0-2-3-----------|
+E|-----------2---------------------|
+
+Nem o alívio do fim
+Nem o delírio do começo
+Nem um dia comum
+Você me trata tão bem
+Mantem meu coração ferido
+Vou lhe fazer um pedido
+Não fique perto de mim
+
+Por que eu não esqueço nada
+A não ser de te esquecer
+Nem ao fim do dia
+Nem de madrugada
+Eu não esqueço nada
+Eu não esqueci
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7M = X X 0 2 2 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E6 = X X 2 4 2 4
+E7 = 0 2 2 1 3 0
+Gm = 3 5 5 3 3 3
+Gm6 = 3 X 2 3 3 X

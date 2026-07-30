@@ -1,0 +1,116 @@
+@titulo: tem-que-ser-voce
+@autor:
+@intérprete: Victor e Leo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Victor e Leo - Tem Que Ser Você
+
+(intro) G D/F#
+
+E |-10----10-----10-----10-|
+B |----10-----8------10----|
+G |------------------------|
+D |------------------------|
+A |-10--------10-----------|
+E |----10------------10----|
+
+G  D/F#      G  D/F#
+Um dia seus pés
+G  D/F#   G  D/F#
+vão me levar
+G    D/F#       G  D/F#
+Onde as minhas mãos
+G   D/F#      G  D/F#
+não podem chegar
+
+C  G/B  Am  Am/G   D  (lick 1)
+Me leva onde você for
+C      G/B    Am      Am/G D
+Estarei muito só sem o seu amor
+
+C G/B Am  Am/G  D
+Agora é a hora de dizer
+
+(refrão)
+G     D  Em  C
+Que hoje eu te amo
+G     D  Em  C
+Não vou negar
+G    D Em  C      G  D   Em
+Que outra pessoa não servirá
+C
+Tem que ser você
+         D
+Sem por que, sem pra que
+C
+Tem que ser você
+D
+Sem ser necessário entender
+
+(intro 2x)
+
+(solo) ( G  D  Em  C ) (3x)
+       ( G  D  G )
+
+E |--------------------------------------------------------------------------|
+B |-----------------------8~---8~--8-8h10/11/12-12-12/10-8-8-----------------|
+G|7h9-7----------------9-----9----9-9----------12-12/9--9-9--9-7-7h9--------|
+D |-----9-7h9-7---7---------------------------------------------------9-7----|
+A |-------------10-10~~------------------------------------------------------|
+E |--------------------------------------------------------------------------|
+
+E |------------------10------12------14------8p7-------------10~~---------|
+B |-------------10/12---12/13---13/15--15-------8-8~----------------------|
+G |--------7h9--------------------------------------7-9-9/11--------------|
+D |------9----------------------------------------------------------------|
+A |7-9-10-----------------------------------------------------------------|
+E |-----------------------------------------------------------------------|
+
+C  G/B  Am  Am/G   D
+Me leva onde você for
+C      G/B    Am      Am/G D
+Estarei muito só sem o seu amor
+C G/B Am  Am/G  D
+Agora é a hora de dizer
+
+(refrão)
+G     D  Em  C
+Que hoje eu te amo
+G     D  Em  C
+Não vou negar
+G    D Em  C      G  D   Em
+Que outra pessoa não servirá
+C
+Tem que ser você
+         D
+Sem por que, sem pra que
+C
+Tem que ser você
+D
+Sem ser necessário entender
+
+(lick 1)
+
+E |-------------------|
+B |-7-8-8/10--7h8-7---|
+G |----------------7--|
+D |-----------------7-|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

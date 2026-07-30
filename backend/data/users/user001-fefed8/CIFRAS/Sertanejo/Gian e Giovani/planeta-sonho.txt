@@ -1,0 +1,92 @@
+@titulo: planeta-sonho
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Planeta Sonho
+
+(intro) Am Em F G C G/B Am Em F G4 G
+        Am Em F G A F C G/B Am E/G# F C G/B
+
+Am        Em            F     G      Am
+ aqui ninguem mais ficara depois do sol
+  F          C   G/B      Am       E7  F      C
+ no final sera o que nao sei mas sera tudo demais
+        F         C  Dm           G           C
+ nem o bem nem o mal so o brilho calmo dessa luz
+
+F           E          Am   G
+ o planeta calmo sera ter  ra
+C           E          Am   G
+ o planeta sonho sera ter  ra
+C         Dm          Em             Am    Em        Dm
+ e la no fim daquele mar a min ha estrela vai se apagar {vai se apagar}
+
+          G   Dm            G
+ como brilho fogo solto no caos
+Am        Em           F        G    C
+ aqui tambem e um bom lugar de se viver
+
+  F           C   G/B      Am        E7/G#
+ bom lugar sera o que nao sei mas sera
+F          C          F            C
+ algo a fazer bem melhor que a cancao
+  Dm           G             C
+ mais bonita que alguem lembrar
+
+F        E        Am   G
+ a harmonia sera ter  ra
+C        E          Am   G
+ a dissonancia sera be  la
+C         Dm           Em
+ e la no fim daquele azul
+           Am     Em       Dm
+ os meus acordes vao terminar   {vao terminar}
+
+          G  Dm             G
+ nao havera outro som pelo ar
+C           E          Am   G
+ o planeta sonho sera ter  ra
+C        E          Am   G
+ a dissonancia sera be  la
+C         Dm          Em
+ e la no fim daquele mar
+            Am    Em        Dm
+ a minha estrela vai se apagar {vai se apagar}
+
+           G    Dm            G
+ como brilhou fogo solto no caos
+
+(solo) E D/E E D/E Am Em F G C G/B Am Em F G4 G Am Em F G Cm Ab7+ Dm7/5- G
+
+C       E         Am   G
+ a harmonia sera ter  ra
+           G    Dm                  G
+ como brilhou fogo solto solto no caos
+
+( Am Em F G C G/B Am Em F G4 G A )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Ab7+ = 4 X 5 5 4 X
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D/E = X X 2 2 3 2
+Dm = X X 0 2 3 1
+Dm7/5- = X X 0 1 1 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+E7/G# = 4 X 2 4 3 X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G4 = 3 5 5 5 3 3

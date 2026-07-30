@@ -1,0 +1,84 @@
+@titulo: Codinome Beija-flor
+@autor: Cazuza
+@intérprete: Cazuza
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+@bpm:
+@bateria:
+@guitarra:
+@baixo:
+@teclado:
+@modoexecucao: rolagem
+@tempoexecucao: 2:32
+
+Tom: A
+[Intro] A2  F#m7  D2  A2
+        A2  F#m7  D2  A2
+
+[Primeira Parte]
+
+A2
+   Pra que mentir
+               A
+Fingir que perdoou
+    D2                      F#m7
+Tentar ficar amigos sem rancor
+  D2         E
+A emoção acabou
+D2                        E
+   Que coincidência é o amor
+   D2                        F7M
+A nossa música nunca mais tocou
+
+A2                             A
+   Pra que usar de tanta educação
+     D2                      F#m7
+Pra destilar terceiras intenções
+    D2             E
+Desperdiçando meu mel
+   D2                  E
+Devagarzinho flor em flor
+D2
+Entre os meus inimigos
+        F7M
+Beija-flor
+
+[Segunda Parte]
+
+C                           E
+  Eu protegi teu nome por amor
+F7M                        A
+    Em um codinome beija-flor
+ C                       E
+Não responda nunca meu amor, nunca!
+      F7M                      A
+Pra qualquer um na rua beija-flor
+
+[Terceira Parte]
+
+F7M                  Em/F
+    Que só eu que podia
+F7M                        Em/F
+    Dentro da tua orelha fria
+   F7M                Em/F    A
+Dizer segredos de liquidificador
+
+   F7M            Em/F
+Você sonhava acordada
+F7M                         Em/F
+    Um jeito de não sentir dor
+F7M
+    Prendia o choro
+     Em/F           A
+E aguava o bom do amor
+     F7M
+Prendia o choro
+                    
+E aguava o bom do amor
+
+[Final] A2  F#m7  D2  A2

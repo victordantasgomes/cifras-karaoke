@@ -1,0 +1,56 @@
+@titulo: as-mesmas-coisas
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - As Mesmas Coisas
+
+D, A/C#, A, C, G/B, D, A.
+
+    D                       A/C#
+NINGUEM JA NAO DIZ MAIS AS MESMAS COISAS
+     G/B                  D/A     A/G
+NEM SABE SE AS FLORES FLORESCERAO
+D                           A/C#
+JOGAM MINHAS SEMENTES SOBRE AS AREIAS
+     G/B                   D      A
+TAO CERTAS QUE AS ONDAS AS LEVARAO
+
+    D                       A
+ALGUEM SOLTA UM GRITO, LIBERDADE
+    G                   D        A
+DE SELA SEMI-ABERTO DE UMA PRISAO
+          D                         A
+SOBRE A FRESTA DA ESPERANCA VEM A SAUDADE
+    G                      D     A
+SOBREVOANDO O CEU DE CADA CORACAO
+
+D                          A
+VEM, SEGUINDO A LUZ DAS ESTRELAS
+
+                      G
+QUE O OURO EM CADA PENEIRA
+                       D           A
+RELUZA EM SEU COFRE COBERTO DE AMOR
+D                            D
+VEM, QUE A PAZ DO SORRISO LIBERTA
+                  G
+AQUELA CRIANCA ESPERTA QUE EXISTE NO FUNDO
+D            A
+DE CADA SENHOR
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

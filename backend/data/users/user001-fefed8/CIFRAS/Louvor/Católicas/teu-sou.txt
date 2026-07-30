@@ -1,0 +1,51 @@
+@titulo: teu-sou
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Teu Sou
+
+E     G#m      C#m    G#m
+Eu não sou nada e do pó nasci
+ E     C#m    F#m      B  B7
+Mas tu me amas e morreste por mim
+  E      G#m        C#m   G#m
+Diante da cruz   só posso exclamar
+    E       C#m        F#m  B  B7
+Teu sou          teu sou
+
+         E     E7
+Toma as minhas mãos,  te peço
+     A      Am
+Toma meus lábios, te amo
+       E     C#m
+Toma a minha vida,  oh pai
+  F#m    B7         E  C#m          F#m     B7      E
+Teu sou,        teu sou,       teu sou,      teu sou
+
+E    G#m       C#m     G#m
+Quando de joelhos te olho   oh Jesus
+ E     C#m      F#m      B  B7
+Vejo tua grandeza e a minha pequenez
+
+ E     G#m        C#m   G#m
+Que posso dar-te eu? Só meu ser
+    E       C#m        F#m  B  B7
+Teu sou         teu sou
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,58 @@
+@titulo: espelho(simplificada)
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Espelho
+
+(intro) C Am F G
+
+(primeira parte)
+C     G                    Am   F
+Baby,   as palavras estão mudas
+                    C   G
+As conversas tão vazias
+                    Am
+As explicações são vagas
+
+(segunda parte)
+F                        Dm                F
+  Só eu sei como eu queria falar do meu amor
+       G                    Dm
+Abertamente sim e até o fim.
+                 F            G        F
+Só eu conheço a dor de não acreditar que mereço ser feliz.
+
+(refrão 2x)
+C                  G
+  Como num espelho   te olhando vejo
+
+Am                     F
+  o meu proprio medo, minha indecisão
+C                 G
+  Mesmo te amando   não estou seguro
+Am                    F
+  será que é verdade ou uma ilusão.
+
+* Depois do refrão, a música repete as partes anteriores, até o segundo refrão.
+
+(terceira parte)
+   Dm            F                    G
+Seria tão bom só eu e você, mas te faço sofrer e é sem querer
+    Dm             F           G            F
+Eu fujo da dor eu tenho pavor da solidão,  me perdoa coração.
+
+(repete o refrão)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 3 3

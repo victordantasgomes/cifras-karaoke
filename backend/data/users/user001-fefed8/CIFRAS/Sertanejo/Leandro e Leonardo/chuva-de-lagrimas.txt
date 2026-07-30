@@ -1,0 +1,69 @@
+@titulo: chuva-de-lagrimas
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - Chuva de Lágrimas
+
+(intro) D A/C# Bm A G D/F# Em A4 A
+
+    D              G/D        D
+ Eu vejo a chuva caindo sem parar
+                            A           A/C#
+ Sem perceber uma lágrima cair do meu olhar
+   A                    A#°
+ Estou morrendo pouco a pouco
+        Bm    Bm7/A  G
+ triste sem você
+        D          A
+ Onde está? Vem me ver
+     D                   G/D          D
+ Por dentro me sinto tão triste tão sozinho
+                                  A           A/C#
+ Meu mundo ficou tão escuro sem a luz do teu olhar
+    A                   A#°
+ No peito o coração me pede
+          Bm
+ pra esquecer
+ Bm7/A      G
+ mas não consigo
+
+     D
+ Tem dó de mim
+     G/A       D      G/D  D
+ Não faz assim comigo
+ D A/C# Bm   A         G          D/F#
+ A c h u v a bate na vidraça da janela
+D                A
+ E eu sozinho sem ela
+A7                D
+ E eu chorando por ela
+ D   A/C#        Bm A
+ E n q u a n t o a chuva
+       G         D/F#
+ vai caindo pelo chão
+ G        D/F#
+ Chuva de lágrimas
+       G/A       D
+ Molha o meu coração
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#° = X 1 2 0 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm7/A = 5 2 4 2 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/D = X 5 5 4 3 X

@@ -1,0 +1,51 @@
+@titulo: reflexo
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Reflexo
+
+Intro 2x: F#m  E  A  D  F#m
+
+F#m         E       A
+Não, não desista jamais
+        D     F#m
+Vale a pena viver.
+F#m         E       A
+Sei que obstáculos tem
+      D      F#m     B F#m  B F#m
+É preciso vencer.
+F#m          E         A
+Saiba, que além das montanhas,
+         D      F#m  B  D
+Posso ouvir uma voz,
+E     F#m
+Tenha fé,
+            D
+Ele vive em Ti,
+             E
+Ele vive em mim
+         F#m
+Ele sabe tudo,
+
+
+Ele está aqui,
+            D              E
+E sobre as águas, existe o Sol
+           F#m
+E o seu reflexo, Ele vive em Ti.
+
+Intermezzo: D  E  F#m
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

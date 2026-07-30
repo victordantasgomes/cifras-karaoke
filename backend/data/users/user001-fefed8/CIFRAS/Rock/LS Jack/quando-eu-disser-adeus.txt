@@ -1,0 +1,128 @@
+@titulo: quando-eu-disser-adeus
+@autor:
+@intérprete: LS Jack
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+LS Jack - Quando eu disser Adeus
+
+Introdução:
+
+( simplificado )
+
+     A9                           F#m                   E4 E   A9
+E|---4--5--7--|---4--5--7---0--|--4--5--7--|--5--5--7---0--0----|-----
+B|------------|----------------|-----------|--------------------|-----
+G|------------|----------------|-----------|--------------------|-----
+D|------------|----------------|-----------|--------------------|-----
+A|------------|----------------|-----------|--------------------|-----
+E|------------|----------------|-----------|--------------------|-----
+
+
+A9
+   Chegou a hora do adeus
+F#m                         E4 E
+   nós já viramos essa página
+A9
+   separe tudo que for seu
+F#m
+   me deixe apenas nossas lágrimas
+
+
+D9               E4    E
+   de repente eu me tornei
+D9             E4    E
+   um estranho pra você
+              D9
+   dói no meu coração
+              E4  E
+   dói no seu coração
+
+Bm7           F#m    E4
+   não a nada que va nos prender
+
+REFRÃO:
+*/
+
+A9                E/G#
+   vou apagar de vez
+               F#m
+   cada passo teu
+                     E4           E
+   eu só vou me curar   quando eu disser adeus
+A9            E/G#
+   amanhã talvez
+                     F#m
+   longe em outro lugar
+                  E4
+   tudo vai passar
+             E
+   quando eu disser adeus
+
+*/
+
+( introdução )
+
+
+A9
+   quem sabe a vida vai mostrar
+F#m                               E4 E
+   os sonhos que nós dois perdemos
+A9
+   daqui pra frente vou mudar
+F#m
+   viagens, riscos outros planos
+
+D9             Esus4    E
+   guarde o melhor   de mim
+D9                     E4         E
+   que no meu peito eu vou te guardar
+              D9
+   vai ser melhor assim
+              E4      E
+   vai ser melhor pra mim
+Bm7               F#m    E4
+   um dia a gente vai se perdoar
+
+(REFRÃO)
+
+SOLO: (simplificado)
+
+  D9         E4   E   D9         E4   E   D9             E4       E      
+E|----9-7-5-7---5-9--|----9-7-5-7---5----|---------------------12-9---
+B|-------------------|----------------7--|----14-12-10-12---12--------
+G|-------------------|-------------------|----------------------------
+D|-------------------|-------------------|----------------------------
+A|-------------------|-------------------|----------------------------
+E|-------------------|-------------------|----------------------------
+
+  Bm7          F#m       E4    A9
+E|----------------|---------------------------------------------------
+B|----------------|---------------------------------------------------
+G|-----7-6-4------|---6-4---2-2---------------------------------------
+D|-----------7-4--|---------------------------------------------------
+A|----------------|---------------------------------------------------
+E|----------------|---------------------------------------------------
+
+(REFRÃO) 2x
+
+A9 E/G# F#m  E4           E
+                quando eu disser adeus
+
+( introdução )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+Bm7 = X 2 4 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+Esus4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2

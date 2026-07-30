@@ -1,0 +1,87 @@
+@titulo: alem-do-meu-jardim
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Além do Meu Jardim
+
+Intro:G D9/F# Am C
+      G D9/F# Am Cm
+
+E|----------------------------------|
+B|----------------------------3-----|
+G|-----------------0-----------0----|   (3x)
+D|----0--0--0--0----0-----0h2-------|
+A|---0--0--0--2--2---2-3--------3---|
+E|--3--2--0-------------------------|
+
+E|-------------------------------|
+B|------3----3----3----0---------|
+G|----0----0----0----0-----------|
+D|--5----4----0----2-------------|
+A|----------------------3--------|
+E|-------------------------------|
+
+G
+ Alguma coisa me aconteceu
+  D9/F#         Am                  C9
+E tudo parece fugir para outro lugar
+
+G
+ Estrelas tristes tentam me explicar
+  D9/F#              Am                  Cm
+E nada acontece se dissipam todas pelo ar
+
+G
+ Há medo em meu jardim
+Am
+ Pois uma rosa disse adeus pra mim
+G                      Am
+ Mas tudo tem um fim eu sei
+
+Só não sonhava que seria assim
+
+D9              Am
+ Aonde quer que você vá
+                 D9
+Eu quero te encontrar
+              Am  C
+Por onde você for
+
+Refrão:
+              G   Am
+Eu preciso de mais
+      D9
+Eu preciso mais
+C
+ Preciso de você aqui
+G   Am
+Mais
+      D9
+Eu preciso mais
+C9
+ Preciso de você aqui      (2x)
+
+(Intro)
+
+(Repete tudo)
+
+Base solo: G9 Am D9/F# C
+           G9 Am D9/F# C9
+
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Cm = X 3 5 5 4 3
+D9 = X X 0 2 3 0
+D9/F# = 2 X 0 2 3 0
+G = 3 2 0 0 0 3
+G9 = 3 X 0 2 0 X

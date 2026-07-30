@@ -1,0 +1,89 @@
+@titulo: sonho-de-cristo
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Sonho de Cristo
+
+Intro 4x:
+
+  D  Bm  G
+E|---------------------------------------|
+B|-5-5-5-3-3-3-5-5-5-3-3-3-8-8-7-7-------|
+G|---------------------------------------|
+D|---------------------------------------|
+A|---------------------------------------|
+E|---------------------------------------|
+
+D
+ Despertam aqueles que dormem
+                    Bm    G
+ As almas aflitas gritam por amor
+D
+ Nós somos geração eleita, o dever nos chama
+  Bm                     ( D  G )
+ Digam eis-me aqui Senhor
+Bm            G
+ Nossa juventude tem a força
+D            A/C#
+ Que os fracos precisam
+
+Bm             G
+ Nossa juventude tem a cura
+D            A/C#
+ Que os homens procuram
+Bm            G
+ Nossa juventude tem a paz
+D            A/C#
+ Que as guerras não frustram
+Bm            A           G
+ Cristo está vivo em cada um de nós
+E|----------------------------------------------------------------|
+B|----------------------------------------------------------------|
+G|----------------------------------------------------------------|
+D|---------------------------------------------4-4----------------|
+A|-2-2-2-4-4-4-5-5-------4-4-4-5-5-5-5-5-7-7-7-----4-4-4-5-5-5-7-7|
+E|-----------------3-3-3------------------------------------------|
+
+(O riff acima é executado junto com o final da estrofe acima, quando repete a música.)
+
+ E                       B
+Vem, viva o sonho do Senhor
+                    C#m
+Vamos pregar o Seu amor
+                     A          G#
+Somos a geração que neste tempo Ele levantou
+
+ E                      B
+Vamos incendiar essa nação
+                      C#m
+Vivendo o amor e o perdão
+                        A
+Cantando bem alto que Jesus,
+                D  G  D  G
+Jesus é salvação!
+(Durante as frases "Ele levantou" e "...é a salvação", é executado este riff abaixo...)
+
+E|---------------|
+B|---------------|
+G|---------------|
+D|-6-7-6---6~~---|
+A|-------7-------|
+E|---------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

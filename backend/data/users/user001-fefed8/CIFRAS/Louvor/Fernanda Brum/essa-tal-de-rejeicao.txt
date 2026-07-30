@@ -1,0 +1,96 @@
+@titulo: essa-tal-de-rejeicao
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Essa Tal de Rejeição
+
+[Intro]  E  G#m  A  Am
+         E  G#m  A  Am
+
+E      G#m
+Eu fui adotado
+A                 Am
+Deus me escolheu, Deus decidiu me amar
+E       G#m    A           Am
+Fui escolhido na multidão, fui protegido em amor
+E        G#m          A
+E agora filho sou do Senhor
+Am
+Eu fui curado dessa tal de rejeição
+
+E             G#m
+Eu sou livre, eu sou filho
+A          Am
+Eu fui curado dessa tal de rejeição
+E             G#m
+Eu sou salvo, eu sou amado
+A           Am
+Eu fui curado dessa tal de rejeição
+
+
+E      G#m
+Eu fui adotado
+A                 Am
+Deus me escolheu, Deus decidiu me amar
+E       G#m   A            F#
+Fui escolhido na multidão, fui protegido em amor
+E        G#m         A
+E agora filho sou do Senhor
+Am
+Eu fui curado dessa tal de rejeição
+
+E             G#m
+Eu sou livre, eu sou filho
+A          Am
+Eu fui curado dessa tal de rejeição
+E             G#m
+Eu sou salvo, eu sou amado
+A           Am
+Eu fui curado dessa tal de rejeição [2x]
+
+E
+Livre das dores do passado
+C#m
+Livre das algemas do pecado
+A
+Deus me escolheu
+Am              E
+Deus me salvou, eu sou livre
+
+E
+Livre das dores do passado
+C#m
+Livre das algemas do pecado
+A
+Deus me escolheu
+Am              E           E4
+Deus me salvou, eu sou livre
+
+E             G#m
+Eu sou livre, eu sou filho
+A          Am
+Eu fui curado dessa tal de rejeição
+E             G#m
+Eu sou salvo, eu sou amado
+A           Am
+Eu fui curado dessa tal de rejeição  [2x]
+
+[Final]  E  G#m  A  Am
+         E  G#m  A  Am
+         E
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

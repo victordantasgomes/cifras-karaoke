@@ -1,0 +1,106 @@
+@titulo: tu-reinas
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Tu Reinas
+
+INTRO:          :    E    B/D#    :  C#m7   C#m7/B   :    A    E/G#   :    A    A/B    :
+                :    E    B/D#    :  C#m7   C#m7/B   :    A    E/G#   :    F#m7    A/B    :
+
+       E                         A
+TU REINAS SOBERANO
+          C#m7            E/B         E/G#       F#m7(9)    A/B   B9
+TEU TRONO É ETERNO INABALÁVEL
+                A                                          F#m7          C#m7
+ESTÁS ACIMA DE TODO PRINCIPADO
+               F#m7    F#m7/E                                  B/D#         B
+SOBRE TUDO             TEU NOME É EXALTADO
+
+     E                          A/E
+JESUS FILHO DE DEUS
+                       C#m7            E/B                          F#/A#      A      B/D#
+DIANTE DE TI TODO JOELHO SE DOBRARÁ
+      E                         A/C#               A
+JESUS FILHO DE DEUS
+                    C#m7                             B                             A            F#m7
+SÓ TU ÉS DIGNO DE SER ADORADO NESTE LUGAR
+
+
+Reintro:        :    E    :   %   :    A/E   :   %   :    D6/E   :    %    :    B/E    :
+
+       E                         A
+TU REINAS SOBERANO
+          C#m7            E/B         E/G#       F#m7(9)    A/B   B9
+TEU TRONO É ETERNO INABALÁVEL
+                A                                          F#m7          C#m7
+ESTÁS ACIMA DE TODO PRINCIPADO
+               F#m7    F#m7/E                                  B/D#         B
+SOBRE TUDO             TEU NOME É EXALTADO
+
+     E                          A/E
+JESUS FILHO DE DEUS
+                       C#m7            E/B                          F#/A#      A      B/D#
+DIANTE DE TI TODO JOELHO SE DOBRARÁ
+      E                         A/C#               A
+JESUS FILHO DE DEUS
+                    C#m7                             B                             A            F#m7
+SÓ TU ÉS DIGNO DE SER ADORADO NESTE LUGAR
+
+{Coro}
+
+Ponte:  :    D6/E    :     A/E    :     E     :      A/E      :    D6/E    :     A/E    :     E     :      E      :
+
+                             B
+VENHA O TEU REINO
+                          A              E/G#    F#m7
+TOMA O TEU LUGAR   DE      HONRA
+E                             B/D#          B
+VENHA O TEU GOVERNO
+                       F#m7     E/G#   A                    Bsus               B
+TEU É O PODER  E  A     GLÓRIA PRÁ SEMPRE
+
+:    F#m7      E/G#   :    A    C#m7   :   Bsus  :    B    :
+
+{Coro}
+
+Tag:  :   E   :    E   :
+
+
+                    F#m7                             G#m7
+SÓ TU ÉS DIGNO DE SER ADORADO
+                    A                                   G#m7
+SÓ TU ÉS DIGNO DE SER ADORADO
+                    A                                    B/D#
+SÓ TU ÉS DIGNO DE SER ADORADO
+                    D6      Fim: :   A    :    E   :    E    ::
+NESTE LUGAR
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B/E = X 7 9 8 7 7
+B9 = X 2 4 4 2 2
+Bsus = X 2 4 4 4 2
+C#m7 = X 4 6 4 5 4
+C#m7/B = 7 4 6 4 5 4
+D6 = X 5 4 2 0 X
+D6/E = X 7 7 7 7 7
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#/A# = 6 X 4 6 7 X
+F#m7 = 2 X 2 2 2 X
+F#m7(9) = X X 4 2 5 4
+F#m7/E = X X 2 2 5 2
+G#m7 = 4 X 4 4 4 X

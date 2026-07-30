@@ -1,0 +1,120 @@
+@titulo: sossegai
+@autor:
+@intérprete: Harpa Cristã
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Harpa Cristã - 578 - Sossegai!
+
+C                    F            G               C
+-Ó Mestre! O mar se revolta: / As ondas nos dão pavor:
+   C                 F             G             C
+O céu se reveste de trevas: / Não temos um Salvador!
+ C        E/B      Am  G      Am      D      G
+Não se te dá que morramos? / Podes assim dormir,
+      C                F             G               C
+Se a cada momento nos vemos, / Sim, prestes a submergir?
+
+Refrão:
+      C                Dm7
+-"As Ondas Atendem ao meu mandar:
+ G    C
+Sossegai!
+ C            Dm7
+Seja o encapelado mar
+ Em7                  F
+A ira dos homens, o gênio do mal:
+     G                  Am
+Tais águas não podem a nau tragar,
+     G                      C
+Que leva o Senhor, Rei dos Céu e mar,
+
+      C             Dm
+Pois todos ouvem o meu mandar:
+ G           C
+Sossegai! - sossegai!
+    C               Dm
+Convosco estou para vos salvar:
+ G         C
+Sim, sossegai!"
+
+C                    F        G                C
+Mestre, na minha tristeza / Estou quase a sucumbir:
+   C                    F            G              C
+A dor que pertuba minha alma, / Oh! Peço-te, vem banir!
+   C        E/B      Am  G      Am        D    G
+De ondas do mar me encobrem, / Quem me fará sair?
+   C                     F             G               C
+Pereço, sem ti, oh! meu Mestre! / Vem logo, vem me acudir!
+
+Refrão:
+      C                Dm7
+-"As Ondas Atendem ao meu mandar:
+ G    C
+Sossegai!
+ C            Dm7
+Seja o encapelado mar
+ Em7                  F
+A ira dos homens, o gênio do mal:
+     G                  Am
+Tais águas não podem a nau tragar,
+     G                      C
+Que leva o Senhor, Rei dos Céu e mar,
+      C             Dm
+Pois todos ouvem o meu mandar:
+ G           C
+Sossegai! - sossegai!
+    C               Dm
+Convosco estou para vos salvar:
+ G         C
+Sim, sossegai!"
+
+  C                  F           G                 C
+-Mestre, chegou a bonança, / Em paz eis o céu e o mar!
+ C                  F           G             C
+O meu coração goza calma / Que não poderá findar.
+ C     E/B           Am  G    Am       D       G
+Fica comigo, oh! meu Mestre / Dono da Terra e Céu,
+     C                  F         G
+E assim chegarei bem seguro / Ao porto, destino meu.
+
+Refrão:
+      C                Dm7
+-"As Ondas Atendem ao meu mandar:
+ G    C
+Sossegai!
+ C            Dm7
+Seja o encapelado mar
+ Em7                  F
+A ira dos homens, o gênio do mal:
+     G                  Am
+Tais águas não podem a nau tragar,
+     G                      C
+Que leva o Senhor, Rei dos Céu e mar,
+      C             Dm
+Pois todos ouvem o meu mandar:
+ G           C
+Sossegai! - sossegai!
+    C               Dm
+Convosco estou para vos salvar:
+ G         C
+Sim, sossegai!"
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

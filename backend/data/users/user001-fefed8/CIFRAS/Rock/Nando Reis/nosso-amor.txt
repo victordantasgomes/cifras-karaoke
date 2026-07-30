@@ -1,0 +1,57 @@
+@titulo: nosso-amor
+@autor:
+@intérprete: Nando Reis
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nando Reis - Nosso Amor
+
+(Nando Reis)
+
+  G          D/F#
+O meu amor é seu amor
+   F
+Também por ele
+  C/E          E E5+  A6  A5+
+O meu amor por e______la.
+
+  G          D/F#
+O dele por você
+            F
+E o meu por ela
+      C/E     E E5+   A6  A5+
+Ele e eu você e_______la.
+
+  E7+
+É dele o seu amor
+    A6        E7+
+Sem ele o meu amor
+                A6
+
+É teu, amor sem ela.
+    E               E7+
+Sou ele e o seu amor   por ele é meu
+    A6             A
+E é seu o meu amor  por ela.
+                      Am
+Dela sou eu, dele é o seu amor
+E  E5+    A   A5+
+No________sso.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5+ = X 0 3 2 2 0
+A6 = 5 X 4 6 5 X
+Am = X 0 2 2 1 0
+C/E = 0 3 2 0 1 0
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E5+ = 0 X 2 1 1 0
+E7+ = X X 2 4 4 4
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

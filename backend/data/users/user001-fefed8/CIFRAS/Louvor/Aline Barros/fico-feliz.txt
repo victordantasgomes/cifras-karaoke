@@ -1,0 +1,33 @@
+@titulo: fico-feliz
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Fico Feliz
+
+A             D
+Fico feliz em vir em tua casa
+  A                   E
+Erguer minha voz e cantar aleluia
+A             D
+Fico feliz em vir em tua casa
+  A           E         A
+Erguer minhas mãos e adorar
+
+                      D
+Bendito é o nome do Senhor
+   A                  E
+Bendito é o nome do Senhor
+   A                  D        E    A
+Bendito é o nome do Senhor pra se_empre
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0

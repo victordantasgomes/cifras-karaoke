@@ -1,0 +1,85 @@
+@titulo: pra-ninguem
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Pra Ninguém
+
+Tom : F    Introd: (F  C4 C C9 C)  C
+
+              Gm                   C
+Ninguém pra ligar e dizer onde estou
+            Gm                 C
+Ninguém pra ir comigo onde eu vou
+           F
+Por outro lado
+C4 C C9 C                   F
+Ninguém pra abaixar o volume
+C4 C C9 C                           F
+Ninguém pra reclamar dos pratos sujos
+C4 C C9 C                        F
+Ninguém pra fingir que eu não amo
+     Gm               C
+Toda noite o mesmo lugar
+           Gm               C
+Eu abro os olhos e deixo o dia entrar
+     F   (C4 C C9 C)           F (C4 C C9 C)  --->(Passagem Rápida)
+Pra ninguém        pra ninguém
+     Gm               C
+Toda noite o mesmo lugar
+
+           Gm               C
+Eu abro os olhos e deixo o dia entrar
+F      (C4 C C9 C)                Dm
+Pra ninguém         pra ninguém
+               Gm                   C
+Ninguém pra dizer quando eu devo parar
+            Gm                 C
+Ninguém em casa pra poder acordar
+        F
+Do meu lado
+C4 C C9 C                  F
+Ninguém pra contar novidades
+C4 C C9 C                    F
+Ninguém pra fechar as cortinas
+C4 C C9 C                       F
+Ninguém pra brigar de vez em quando
+     Gm               C
+Toda noite o mesmo lugar
+           Gm               C
+Eu abro os olhos e deixo o dia entrar
+F   (C4 C C9 C)           F (C4 C C9 C)
+Pra ninguém        pra ninguém
+     Gm               C
+Toda noite o mesmo lugar
+           Gm               C
+Eu abro os olhos e deixo o dia entrar
+F   (C4 C C9 C)           F (C4 C C9 C)
+Pra ninguém         pra ninguém
+F   (C4 C C9 C)                   C
+Pra ninguém         pra ninguém
+
+solo: (F C4 C C9 C) C
+e|-10-12---------------------------------------------------------------|
+B|-------10--8-10-8--8-10-12--12-14-15--15-15/14-14/12-12/10-10/8--7-8-|
+
+     Gm               C
+Toda noite o mesmo lugar
+           Gm               C
+Eu abro os olhos e deixo o dia entrar
+F   (C4 C C9 C)           F (C4 C C9 C)
+Pra ninguém        pra ninguém
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+C4 = X 3 3 0 1 X
+C9 = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

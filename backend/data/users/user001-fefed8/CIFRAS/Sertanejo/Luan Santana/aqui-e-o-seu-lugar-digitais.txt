@@ -1,0 +1,185 @@
+@titulo: aqui-e-o-seu-lugar-digitais
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Aqui É o Seu Lugar / Digitais
+
+Intro: G  D  A5  E  F#
+
+ B                                  E
+É pra voce que eu mando flores todas as manhas viu?
+   B                                    F#
+É voce que faz meu coração bater a mais de mil
+      B                                  E
+Já nao sei o que mais eu faço pra te conquistar
+                                  B
+Se liga vem depressa aqui e seu lugar
+          F#
+Nesse coração que so quer te amar
+
+Solo:
+E|------------------------------------|
+B|-----4-3\4----4-4-4-7-7-7-7-5-4-----|
+G|---4---3\4----------------------4---|
+D|------------------------------------|
+A|------------------------------------|
+E|------------------------------------|
+
+
+E|------------------------------------|
+B|-----4-3\4----4-4-4-7-7-7-7-5-4-----|
+G|---4---3\4------------------------6-|
+D|------------------------------------|
+A|------------------------------------|
+E|------------------------------------|
+
+E|------------------------------------|
+B|-----4-3\4----4-4-4-7-7-7-7-5-4-----|
+G|---4---3\4----------------------4---|
+D|------------------------------------|
+A|------------------------------------|
+E|------------------------------------|
+
+E|------------------------------------|
+B|------5-5-5-5-7-5-4---4-4-4---------|
+G|-4-4-4-----------------------6-4-6--|
+D|------------------------------------|
+A|------------------------------------|
+E|------------------------------------|
+
+E|------------------------4-6-4-7-----|
+B|-----------------5-7-9--------------|
+G|-6-6-6-4-3--4-6---------------------|
+D|------------------------------------|
+A|------------------------------------|
+E|------------------------------------|
+
+G#m                        D#m
+Não dá pra entender esse  meu coração
+G#m                        D#m
+Mudou de amizade pra louca paixão
+C#m                                D#m
+Então foi dessa forma que eu percebi
+E                           F#     G°        G#m
+Não quero te assustar ou me iludir (não dá mais)
+G#m                             D#m          G#m
+Não dá pra enganar ou querer fugir (não dá mais)
+G#m                             D#m
+Se esse sentimento vai crescendo em mim
+C#m7                           D#m
+Mais tenho que encarar essa decisão
+E                            F#
+De me confessar e abrir meu coração
+
+Refrão:
+      B                                  E
+É pra voce que eu mando flores todas as manhas viu?
+   B                                    F#
+É voce que faz meu coração bater a mais de mil
+      B                                  E
+Já nao sei o que mais eu faço pra te conquistar
+                                  B
+Se liga vem depressa aqui e seu lugar
+          F#
+Nesse coração que so quer te amar
+
+( G  D  A  E  Bb9 )
+
+           D#m         B9
+Deixou digitais em mim
+      F#                  C#9
+Agora vem pedindo que esqueca
+           D#m         B9
+Deixou digitais em mim
+          F#                  C#9
+Procure alguem melhor que mereça
+
+( D#m  B  F#  Bb7 )(2x)
+
+D#m
+Por que você me deixa tão solto
+B9
+Vou perdendo a cabeça
+C#9                 D#m
+Se estou longe de ti
+D#m
+Eu fico desenhando o passado
+B9                   C#9             D#m
+Tudo esta atrasado sem você por aqui
+        B9                  F#
+Me beija sem medo de dizer
+             C#9                     D#m
+Estou a dois passos posso tocar em ti
+         B9             F#
+E cara a cara entender
+                  C#9             Bb7
+meu mundo girando so entorno de ti
+
+Refrão 2x:
+           D#m         B9
+Deixou digitais em mim
+      F#                  C#9
+Agora vem pedindo que esqueca
+           D#m         B9
+Deixou digitais em mim
+          F#                  C#9
+Procure alguem melhor que mereca
+
+( D#m  F#  C#  D#m )(2x)
+
+D#m
+Por que você me deixa tão solto
+B
+Vou perdendo a cabeça
+C#9                 D#m
+Se estou longe de ti
+D#m
+Eu fico desenhando o passado
+B                   C#9             D#m
+Tudo esta atrasado sem você por aqui
+        B9                  F#
+Me beija sem medo de dizer
+             C#9                     D#m
+Estou a dois passos posso tocar em ti
+         B             F#
+E cara a cara entender
+                  C#9             Bb
+Meu mundo girando so entorno de ti
+
+Refrão 2x:
+     Dº
+Se hoje eu te liguei
+      D#m         B   Bb
+Foi somente pra dizer
+                 B
+Que uma parte de mim
+          C#        ( F# )
+Quer que eu te esqueça.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+Bb = X 1 3 3 3 1
+Bb7 = X 1 3 1 3 1
+Bb9 = X 1 3 3 1 1
+C# = X 4 6 6 6 4
+C#9 = X 4 6 6 4 4
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D#m = X X 1 3 4 2
+Dº = X X 0 1 0 1
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4
+G° = 3 X 2 3 2 X

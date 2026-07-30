@@ -1,0 +1,94 @@
+@titulo: busca-teu-tesouro
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - Busca Teu Tesouro
+
+Intro: violão: C(add9)   D(add9) E Em7  (2x)   G   C(add9)
+
+Banda:  G     D/G  C/G   G     D/G  C/G   G   C(add9)   C(add9)
+        G     D/G  C/G   G     D/G  C/G   Em7/11   E9/4 C7+/E
+        G     C(add9)    C(add9)
+
+G
+Pra que perder-se em caminhos que se acabam?
+Em7                                               C9    C
+Pra que parar o olhar em coisas que passam?
+G                                                                   Em7
+Eu sou teu Deus, teu Senhor, teu Pai, teu Bem
+                                        C(add9)
+Vem, levanta ao alto o teu olhar
+              Dsus4   D
+Ergue a cabeça!
+
+[B]
+               F
+Foi para o Céu que Eu te criei
+                  G
+Para a eternidade Eu te chamei
+
+                   F C   C                     Dsus4
+De que vale tua vida parada em coisas pequenas?
+D                      F                        Dsus4
+De que vale teu coração preso no que é vão?
+
+[Refrão]
+             E     F#m7
+Busca o que já é teu
+E9 G#   C#m7
+O Amor já venceu
+A(add9)   Bsus4                          2a vez   B C#m7   A(add9)   (3x)
+Busca teu Tesouro!  (2x)
+
+[A]  [B]
+
+E     F#m7(add11)
+Busca o que já é teu
+E9  G#   C#m7
+O Amor já venceu
+A(add9)   Bsus4                          2a vez   B C#m7   D7sus4)
+Busca teu Tesouro!  (2x)
+
+             G     Am7
+Busca o que já é teu
+G(add9)/B   Em7(add11)
+O Amor já venceu
+C(add9)   Dsus4       2a vez   D Em7 C(add9)  3x   D Em7   C(add9)
+Busca teu Tesouro! (2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A(add9) = X 0 2 2 0 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+Bsus4 = X 2 4 4 5 2
+C = X 3 2 0 1 0
+C#m7 = X 4 6 4 5 4
+C(add9) = X 3 5 5 3 3
+C/G = 3 3 2 X 1 X
+C7+/E = 0 3 2 0 0 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D(add9) = X X 0 2 3 0
+D/G = 3 X X 2 3 2
+D7sus4 = X X 0 2 1 3
+Dsus4 = X X 0 2 3 3
+E = 0 2 2 1 0 0
+E9 = 0 2 4 1 0 0
+E9/4 = 0 0 2 2 0 2
+Em7 = 0 2 2 0 3 0
+Em7(add11) = X 7 X 7 8 5
+Em7/11 = X 7 X 7 8 5
+F = 1 3 3 2 1 1
+F#m7 = 2 X 2 2 2 X
+F#m7(add11) = 2 X 2 2 0 X
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G(add9)/B = 7 X X 7 8 5

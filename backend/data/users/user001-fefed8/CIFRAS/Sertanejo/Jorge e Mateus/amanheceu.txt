@@ -1,0 +1,53 @@
+@titulo: amanheceu
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Jorge e Mateus - Amanheceu
+
+Capo Casa 3
+
+Intro:  A C#m B9 E
+
+A                      C#m                              B       E
+Porque você não vem e deita aqui do meu lado
+A                      C#m                              B       E
+Acende a luz a noite, vamos ficar acordados
+A                      C#m                              B       E
+Voar num mar de estrelar e desvendar o infinito
+A                      C#m                              B       E
+Te embriagar de amor, dizer o que nunca foi dito
+
+A
+Dias que não voltam mais, tempo que ficou pra trás
+C#m                             B9
+Fotos e recordações, primaveras e verões
+A                                                                     B
+Tempos de amor sem fim, sem você tá tão ruim
+
+Refrão:
+A                                  E
+Amanheceu e no meu sonho o teu sorriso me chamando
+
+            F#m                     D
+Eu vou voando, eu vou voando
+A                                  E
+Amanheceu e no meu sonho o teu sorriso me chamando
+            F#m                     D
+Eu vou voando, eu vou voando
+
+----------------- Acordes -----------------
+Capotraste na 3ª casa
+A*  = X 0 2 2 2 0 - (*C na forma de A)
+B*  = X 2 4 4 4 2 - (*D na forma de B)
+B9*  = X 2 4 4 2 2 - (*D9 na forma de B9)
+C#m*  = X 4 6 6 5 4 - (*Em na forma de C#m)
+D*  = X X 0 2 3 2 - (*F na forma de D)
+E*  = 0 2 2 1 0 0 - (*G na forma de E)
+F#m*  = 2 4 4 2 2 2 - (*Am na forma de F#m)

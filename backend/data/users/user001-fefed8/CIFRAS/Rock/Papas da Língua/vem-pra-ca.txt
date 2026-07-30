@@ -1,0 +1,73 @@
+@titulo: vem-pra-ca
+@autor:
+@intérprete: Papas da Língua
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Papas da Língua - Vem Pra Cá
+
+(intro) C Am7 Bm7 Em
+
+      C      Am7       Bm7       Em
+E |---------------------------------
+B |---------------------------------
+G |---------------------------------     (2x)
+D |----0--2---0--5---7--4---0-------
+A |----------------------------2----
+E |---------------------------------
+
+     C    Am7     Bm7         Em
+Não ver você não tem explicação
+   C   Am7    Bm7      Em
+É caminhar pela escuridão
+ C      Am7    Bm7           Em
+Ficar afim e não poder falar
+    C    Am7    Bm7           Em
+Querer o sim e não se acostumar
+
+      C    Am7         Bm7       Em
+E |---------------------------------
+B |---------------------------------
+G |---------------------------------     (2x)
+D |--0--2-5----0-7--5-4-5-4--4/5---2
+A |---------------------------------
+E |---------------------------------
+
+
+Com a solidão, o medo de amar
+
+           Bm7           Em
+Estranho vazio no seu olhar
+           C              Am7
+Eu tento achar em algum lugar
+             Bm7             Em
+O amor que você deixou pra trás
+
+(riff 2)
+E |-7-10--7-12---7-10-8-7-8-10------
+B |---------------------------------
+G |---------------------------------   (2x)
+D |---------------------------------
+A |---------------------------------
+E |---------------------------------
+
+        C  Am7         Bm7  Em         C  Am7        Bm7
+Vem pra cá,   vem pra cá,    vem pra cá,  vem pra cá
+
+(repete tudo)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

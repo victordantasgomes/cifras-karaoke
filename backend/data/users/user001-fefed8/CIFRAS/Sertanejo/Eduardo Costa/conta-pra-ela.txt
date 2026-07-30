@@ -1,0 +1,50 @@
+@titulo: conta-pra-ela
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Conta Pra Ela
+
+                E
+Conta pra ela como é que eu estou
+                                                                         A
+Distante dela já não sei quem eu sou, conta pra ela
+                                             F#m
+Conta pra ela que já me viu chorar
+                          B7                           F#m    B7          E    B7
+Que eu não to legal, que ela precisa voltar, conta pra ela
+*  E
+Conta pra ela que o problema é serio
+                                                   E7                      A
+Até dar um fim na minha vida eu quero, conta pra ela
+                                                  E
+Conta pra ela que aproxima meu fim
+                                                    B7
+Que eu preciso muito dela junto a mim
+                    F#m  B7                   E
+Não esconda nada conta tudo pra ela
+
+Refrão:
+
+
+B7                                   E
+Vai,vai e contar tudo pra ela
+                                    B7                             A                         E
+Conta tudo e vem correndo que estou depedendo da resposta dela
+B7                                 E                                   B7
+Vai,vai e vem correndo dizer pois eu só dependo dela
+                  A              B7     E
+Da resposta dela, dela pra viver
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

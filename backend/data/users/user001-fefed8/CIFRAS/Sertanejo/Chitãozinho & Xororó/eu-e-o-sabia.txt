@@ -1,0 +1,67 @@
+@titulo: eu-e-o-sabia
+@autor:
+@intérprete: Chitãozinho & Xororó
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Chitãozinho & Xororó - Eu e o Sabiá
+
+   G             D#dim   Em  E7
+   Ahh, quem me dera sabiá
+ Am            E7       Am
+   Também ter asas pra voar
+ C           D7         Bm
+   E ver do alto a natureza,
+     Em          Am
+Perceber toda beleza
+A7                D    D7
+A razão do teu cantar
+                                        2a Parte
+G              D#dim   Em   E7
+  Ahh, quem me dera sabiá,
+Am           E7          Am
+  Ter o teu canto e arrancar
+C          D7            Bm
+   Essa tristeza do meu peito,
+        Em              D7
+De um amor que não tem jeito
+                G
+Me dê asas pra voar!
+
+D#dim              Em   D#dim                  Em
+   Tão longe eu voaria      buscando um novo amor
+D/F#               G/B   D         D/C      G
+    Mais alto eu iria       pra esquecer a dor
+B7                    Em   D#dim                 G   G7
+   Mais forte eu cantaria       essa canção de amor
+C                D7  Bm  Em  Am         D7      G    Am  G
+  Ao som da melodia,             que o sabiá cantou
+C                D7  Bm  Em  Am         D7       G
+   Ao som da melodia              que o sabiá cantou
+                     Repete a 2a parte e termina com:
+C                D7  Bm  Em  Am         D7    C   Cm G
+   Ao som da melodia              que o sabiá cantou
+
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D#dim = X X 1 2 1 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

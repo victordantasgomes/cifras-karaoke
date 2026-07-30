@@ -1,0 +1,41 @@
+@titulo: amar-voce
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Amar Você
+
+intro:A E Bm D Bm D
+
+A                         E                            D
+Diga aonde vai o meu coração que não tem mapa e nem poder
+A                           E                         D
+Diga aonde vai minha abstração que sempre acredita viver
+A                          E                            D
+Com você um toque é demolição,forte a explosão sem entender
+A                        E                     D
+Diga como pode se ter razão se é relativo o saber
+A        E         D                                               Bm
+Eu caminhei por lugares tão distantes e tão vagos que eu mesmo nem sei
+A        E           D                                          Bm
+E não pensei na distãncia entre o meu pensamento e o que não planejei
+A          G      D           Dm
+Não vou lutar contra mim digo sim
+A      E                   Bm      D                   Bm          D       A   E
+Amar você as vezes é complicado dizer,outras vezes é dificil esconder,escolher
+A      E                    Bm      D                      Bm          D       A   E
+Amar você é paixão presa,contida em mim é pensar que nunca vai ter um fim o querer.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3

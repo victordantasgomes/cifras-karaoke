@@ -1,0 +1,62 @@
+@titulo: perfume
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Perfume
+
+[Intro] A9  A9+  A9  A9+
+
+A9  A9+
+Olha ai, tanta gente
+        A/C#      D
+Mais não tem, a gente
+D  D9
+As paredes me pedem
+                   A A9
+Para mudar de assunto
+
+Bm              D                     A
+Tentar te esquecer é o mesmo que lembrar
+A                   A9
+Mudar de aparência eu consigo
+                         Bm
+Mais nada muda o sentimento
+   D                               E
+E duvido que você tenha mudado também
+
+A9
+Seu cabelo tá tão bonito
+
+A9
+Sua maquiagem tá perfeita
+E
+Esse seu perfume é novo neh?
+Bm
+Me diz ai
+
+Bm
+Porque não tem ninguém do seu lado?
+D
+Esse sorriso seu tá meio forçado
+                      Bm
+Será que o motivo sou eu?
+E                              A9
+Acho que esse coração ainda é meu
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+A*  = X 0 2 2 2 0 - (*A# na forma de A)
+A/C#*  = X 4 X 2 5 5 - (*A#/D na forma de A/C#)
+A9*  = X 0 2 2 0 0 - (*A#9 na forma de A9)
+A9+*  = 5 X 2 5 2 3 - (*A#9+ na forma de A9+)
+Bm*  = X 2 4 4 3 2 - (*Cm na forma de Bm)
+D*  = X X 0 2 3 2 - (*D# na forma de D)
+D9*  = X X 0 2 3 0 - (*D#9 na forma de D9)
+E*  = 0 2 2 1 0 0 - (*F na forma de E)

@@ -1,0 +1,38 @@
+@titulo: gloria
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Glória
+
+Refrão:
+F  Bb F Bb C  F F7
+Glooria, Glooria
+
+Bb         C
+Ao Pai, O Criador,
+    F      Dm
+ao Filho Redentor
+     Gm        C    F F7
+e ao Espírito, Glória     (2x)
+
+   F           Bb      F
+Ao Pai, O Criador do mundo,
+    Bb         C         F   F7
+ao Filho, Redentor dos homens
+        Bb  C      F         Dm    Gm  C F
+e ao Espírito de Amor deremos sempre Glória! (2x)
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F7 = 1 3 1 2 1 1
+Gm = 3 5 5 3 3 3

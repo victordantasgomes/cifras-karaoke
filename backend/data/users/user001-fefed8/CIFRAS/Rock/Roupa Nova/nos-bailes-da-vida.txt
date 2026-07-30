@@ -1,0 +1,95 @@
+@titulo: nos-bailes-da-vida
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Nos Bailes da Vida
+
+C#m7
+  Só que um sonho
+     A7+
+  Como sua forma de viver
+F#m
+  Pode desvendar o segredo
+Am         Am/13
+  de ser feliz
+
+INTRO: E
+
+E                                    E7+
+Foi nos bailes da vida ou num bar em troca de pão
+E6               E7              D
+ Que muita gente boa pôs o pé na profissão
+F#m                       B7/4   B7
+De tocar um instrumento e de cantar
+F#m               B7/4   B7         E
+Não importando se quem pagou quis ouvir
+
+Foi assim
+
+E                               E7+
+Cantar era buscar o caminho que vai dar no sol
+E6            E7                      D
+ Tenho comigo as lembranças do que eu era
+F#m                         B7/4     B7
+Para cantar nada era longe, tudo tão bom
+F#m              B7/4  B7    E
+Até a estrada de terra na boléia de um caminhão
+          E A E  E E
+Era assim
+E                               E7+
+Com a roupa encharcada e alma repleta de chão
+E6            E7                D
+ Todo artista tem de ir aonde o povo está
+F#m           B7/4    B7
+Se foi assim, assim será
+F#m            B7/4    B7        E
+Cantando me disfarço e não me canso de viver
+              E A E  E E
+Nem de cantar
+
+Solo: C#m7 A7+ F#m E   C#m7 A7+ F#m E D
+
+e|-11-12----11-12----11-12-9--12-11-7-9-12-17-16--19-17-16-14-------------
+B|-------12-------12------------------------------------------17-16-14----
+
+e|-11-12----11-12----11-12-9--9-12-16-17-19-21-17-
+B|-------12-------12------------------------------
+
+E                               E7+
+Cantar era buscar o caminho que vai dar no sol
+E6            E7                      D
+ Tenho comigo as lembranças do que eu era
+F#m                         B7/4     B7
+Para cantar nada era longe, tudo tão bom
+F#m              B7/4  B7    E
+Até a estrada de terra na boléia de um caminhão
+          E A E  E E
+Era assim
+
+E E7+ E6 E7 D  (3x)     F#m   B7/4 B7
+nanananananana          nanananananana
+
+F#m            B7/4    B7        Am          Solo final e termina em E
+Cantando me disfarço e não me canso de viver
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7+ = X 0 2 1 2 0
+Am = X 0 2 2 1 0
+Am/13 = 5 X 4 5 5 X
+B7 = X 2 1 2 0 2
+B7/4 = X 2 4 2 5 2
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E6 = X X 2 4 2 4
+E7 = 0 2 2 1 3 0
+E7+ = X X 2 4 4 4
+F#m = 2 4 4 2 2 2

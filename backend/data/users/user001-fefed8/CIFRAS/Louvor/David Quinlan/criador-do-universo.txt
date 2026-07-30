@@ -1,0 +1,39 @@
+@titulo: criador-do-universo
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Criador do Universo
+
+[INT] -> F Am F G / F D Em / F G
+
+         G        Am          D         G
+Em tua presença Senhor teu coração nos consome
+         Am        F      G                 Am
+nos deleitamos em tua bondade.Assim como o noivo
+     D        G       F        Em          F
+e a noiva se amam queremos alegrar-te e fazer-te
+    G       D   C     Em            D      C       Em
+dançar.Criador do universo te convidamos venha dançar.
+G         Am         D        G            Am
+Santo Espírito vem com tua graça caia em nós
+   F            G              Am       D
+enquanto te louvamos como uma pomba descança
+         G    F    Em     F       G
+em tua graça leva-nos ao santo lugar.
+    D    C      Em           D     C        Em
+Criador do universo te convidamos venhar dançar.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

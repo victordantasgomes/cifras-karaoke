@@ -1,0 +1,4 @@
+# A Vercel (runtime Python) procura requirements.txt na raiz do projeto
+# pra instalar as dependências da função em api/index.py — ver
+# backend/requirements.txt, que é a lista de verdade.
+-r backend/requirements.txt

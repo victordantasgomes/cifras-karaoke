@@ -1,0 +1,54 @@
+@titulo: agindo-deus
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Agindo Deus
+
+[Intro] Am  Am7
+
+[Riff]
+
+E|--------------------------------|
+B|--------------------------------|
+G|-2-2--2-2-2--2-2-2-----x-x-x-x--|
+D|-2-2--2-3-3--3-5-5-----x-x-x-x--|
+A|-0-0--0-0-0--0-0-0-----x-x-x-x--|
+E|--------------------------------|
+
+ Am                  Am7
+ As dores, as lutas, angústias e aflições
+Am               Am7                  ( Am  C9  D )
+ O choro, o medo, as perdas e solidão
+
+Am                            G
+  Somos entregue à morte todo dia
+     F    Am F G
+Por amor a Ti
+Am                         G
+  Somos a geração que se levanta
+
+                 D
+E nunca vai desistir
+
+ Am          Dm         C9   G
+Agindo Deus, quem impedira?
+ F           Dm         C9   G
+Agindo Deus, quem impedira?
+
+[Final] Am  C9  D
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

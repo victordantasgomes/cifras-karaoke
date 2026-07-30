@@ -1,0 +1,54 @@
+@titulo: razao-do-meu-cantar
+@autor:
+@intérprete: Adhemar de Campos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Adhemar de Campos - Razão do Meu Cantar
+
+[Intro] E9  G#m7  D/E
+
+      E9           G#m7      D/E
+Meu refúgio e libertação é Jesus
+A9       E9/G#       B4
+Dele o socorro me virá
+    E9         G#m7       D/E
+A razão do meu cantar é Jesus
+A9              B4            E4 E9
+Fonte de inspiração para louvar
+        D9  A/C#        C#m7 E9/G#
+Da minha vida Ele é o Senhor
+          D9  A/C#    E9  Emaj7
+Com o Seu sangue me comprou
+        D9  A/C#        C#m7 E9/G#
+Na minha vida Ele é o Senhor
+         D9  A/C#    E9   Emaj7
+Pois do pecado me resgatou
+       D/E  A/E         E9
+Da minha vida Ele é o Senhor
+          D/E A/E      E9  Emaj7
+Com o Seu sangue me comprou
+        D/E  A/E        E9
+Na minha vida Ele é o Senhor
+        D/E A9/E      E9 Emaj7
+Pois do pecado me resgatou
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A9 = X 0 2 2 0 0
+A9/E = 0 X 2 2 0 0
+B4 = X 2 4 4 5 2
+C#m7 = X 4 6 4 5 4
+D/E = X X 2 2 3 2
+D9 = X X 0 2 3 0
+E4 = 0 2 2 2 0 0
+E9 = 0 2 4 1 0 0
+E9/G# = 4 X 4 4 5 X
+Emaj7 = X X 2 4 4 4
+G#m7 = 4 X 4 4 4 X

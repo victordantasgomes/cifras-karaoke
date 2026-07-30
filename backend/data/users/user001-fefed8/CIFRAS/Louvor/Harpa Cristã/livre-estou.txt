@@ -1,0 +1,42 @@
+@titulo: livre-estou
+@autor:
+@intérprete: Harpa Cristã
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Harpa Cristã - Livre Estou
+
+           Eb             Ab                Eb
+Eu vagava pela senda de horror
+         Eb            Cm              Fm
+Oprimido pelo pecado e temor
+                   Fm               Bb
+Quando o Salvador eu vi
+        Eb                 Cm
+Sua terna voz ouvi
+              Fm              Bb                  Eb
+Meu Jesus me libertou por seu amor
+
+              Eb
+Livre estou, livre estou
+           F                                  Bb
+Pela graça de Jesus livre estou
+              Eb               Eb G7 Cm
+Livre estou, livre estou
+      Eb           Bb             Eb Ab Eb
+Aleluia! Pela fé, livre estou
+
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Bb = X 1 3 3 3 1
+Cm = X 3 5 5 4 3
+Eb = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G7 = 3 5 3 4 3 3

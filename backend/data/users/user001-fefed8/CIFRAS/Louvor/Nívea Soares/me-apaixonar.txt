@@ -1,0 +1,50 @@
+@titulo: me-apaixonar
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Me Apaixonar
+
+(intro) D9   Em7   G9    A9
+        D9   Em7   G9
+
+D A9             Bm7 G D A9       F#m    G
+ Toma as minhas mãos    leva-me além do rio.
+D A9                    F#m    G  D A9
+    Se limpo estou por tua justiça leva-me
+       Bm7    G
+    a tua presença (intro).
+ Bm7         F#m7       Bm7      F#m7
+    Quero correr para ti, quero te abraçar
+ Bm7             F#m7            Em   G A9
+    o teu rosto e beijar Jesus, Jesus.
+ Bm7        F#m7             Bm7        F#m7
+    Quero olhar em teus olhos tocar o teu
+            Bm7        F#m7           Em
+    coração, a cada segundo me apaixonar
+            G      A9
+    mais,e mais,e mais.
+ D             A9/C#            Em  G A9
+    Quero me perder de amor por ti Jesus,
+
+ D             A9/C#        Em    G     A9     D
+    e em teus braços me lançar Jesus, amado Jesus.
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G9 = 3 X 0 2 0 X

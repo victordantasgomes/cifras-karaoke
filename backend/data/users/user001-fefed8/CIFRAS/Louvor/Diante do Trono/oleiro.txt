@@ -1,0 +1,136 @@
+@titulo: oleiro
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Oleiro
+
+(intro) C9   F9   Am7   F9
+
+       C/E          F9
+Estou aqui mais uma vez pra pedir
+  Gsus         G
+Renova-me, Senhor
+   Gsus   C9/E   C/E
+Não preciso mentir
+          F9                  Gsus   G
+Diante de Ti tudo em mim se revela
+       F9             C9/E
+Vejo o Teu olhar, me iluminar
+    Am7           F
+Afastando toda treva
+        F9              C9/E
+Sinto o Teu soprar me refrigerar
+     Am7             G/B
+E me dar outra vez, mais uma vez
+                  C9
+Um novo fôlego de vida
+
+
+           C9             F9
+Preciso de Ti. dependo de Ti
+       C/E                 F9
+Só Tua graça Senhor, me sustenta
+                 Gsus   G
+É melhor que a vida
+           C9               F9
+Me rendo a Ti, trabalha em mim
+        C/E             F
+Como o oleiro que não desiste do barro
+    Gsus   G            C                 (reintro)  C9   F9   Am7   F9
+até ver,  o vaso terminado                (estou...)
+
+(solo) G#9   A#9   Cm9   G#9   A#9   C9
+
+ G#9           A#9               Cm9  Cm/Eb
+Aquele que começou a boa obra em mim
+    G#9          A#9         C9
+É fiel pra completá-la até o fim
+
+ G#9           A#9                Cm9
+Aquele que começou a boa obra em mim
+    G#9          A#9          C9   Asus
+É fiel pra completá-la até o fim
+
+           D9             G9
+Preciso de Ti. dependo de Ti
+       D/F#                G9
+Só Tua graça Senhor, me sustenta
+                 Asus   G9/B   A9/C#
+É melhor que a vida
+           D9              G9
+Me rendo a Ti, trabalha em mim
+        D/F#            G9
+Como o oleiro que não desiste do barro
+    Asus   A            D
+até ver,  o vaso terminado
+
+(ministração) D9   G9   Bm7   G9
+
+         D9           Em7
+Eu quero ser, Senhor amado
+       A4       A        Dsus   D
+Como o vaso nas mãos do oleiro
+           D/E   D/F#             G9
+Quebra a minha vida e faze-a de novo
+         Asus   Bm7      A/C#   A         G     D
+Eu quero ser,   eu quero ser    um vaso novo
+        D
+Como Tu queres
+           Em
+Senhor sou Teu
+       A9   A           D9   D
+Tu és oleiro, barro sou eu
+         D/E  D/F#
+Quebra e transforma
+          G7M   G
+Até que enfim
+       A9  A              Bm  A9/C#
+Tua vontade  se cumpra em mim
+
+         D/E  D/F#
+Quebra e transforma
+          G7M   G
+Até que enfim
+       A9/C#   A             D   D9
+Tua vontade   se cumpra em mim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#9 = X 1 3 3 1 1
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+A9 = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+Am7 = X 0 2 0 1 0
+Asus = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+C9/E = X X 2 5 3 0
+Cm/Eb = X X 1 0 1 3
+Cm9 = X 3 1 0 3 X
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+Dsus = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G#9 = 4 6 8 5 4 4
+G/B = X 2 0 0 3 3
+G7M = 3 X 4 4 3 X
+G9 = 3 X 0 2 0 X
+G9/B = 7 X X 7 8 5
+Gsus = 3 2 0 0 0 3

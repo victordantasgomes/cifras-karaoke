@@ -1,0 +1,40 @@
+@titulo: a-gente-so-andava
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - A Gente Só Andava
+
+Intro -> { Gm F Gm A# | F Gm F Gm | Gm F Gm A# }
+
+Gm
+   A GENTE SÓ ANDAVA DOIDÃO,  VALORES TODOS TROCADOS.
+QUALQUER ESTRADA QUE A GENTE PEGAVA DAVA EM LUGAR NENHUM!
+D                      D#  D                D#
+  SAQUEI A TEMPO E TÔ FORA   DESSA CANOA FURADA!
+D                      D#    Cm                     Gm   (INT)
+  SAQUEI A TEMPO E TÔ FORA; TÔ  NA CONTRAMÃO DO SISTEMA!
+                          D#                                  D
+NA CONTRAMÃO DO SISTEMA! TÔ NA CONTRAMÃO! NA CONTRAMÃO DO SISTEMA!
+Gm
+   VOCÊ NÃO PODE VIVER DE MENTIRAS,  TEM QUE CAIR NA REAL!
+VOCÊ DECIDE A VIDA QUE  QUER LEVAR OU A VIDA TE LEVA...  CORO...
+
+Cm             A#          D#
+   DEUS CONSEGUIU ME TIRAR    DESSA RUA SEM SAÍDA
+Cm            D  D#                    D
+   180 GRAUS...     TUDO MUDOU PRA MELHOR!
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

@@ -1,0 +1,79 @@
+@titulo: casa
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - Casa
+
+[Intro]  Bb/C  A/C  Bb/C  C  C
+         Bb6(9)  F9/A  F9  G7sus4(9)
+
+
+  Bb6(9)      F9/A     F9               G7sus4(9)
+Primeiro era vertigem como em qualquer paixão
+     Bb6(9)      F9/A        F9         G7sus4(9)   Bb/C   A/C   Bb/C   C
+Era só fechar os olhos e deixar o corpo ir  no  ritmo
+   Bb6(9)      F9/A      F9       G7sus4(9)
+Depois era um vício, uma intoxicação
+       Bb6(9)    F9/A        F9            G7sus4(9)
+Me corroendo as veias, me arrasando pelo chão
+            F9/A          G7/B    F9/C       G/B
+Mas sempre tinha a cama pronta e rango no fogão
+ F9/A  G/B        F9/C       G/B          C9     Bb9    F
+Luz  acesa, me espera no portão prá você ver
+  Dm7                   C9    G     C9   Bb9    F
+Que eu tô voltando prá casa, me vê
+  Dm7                   C9  G      Bb/C   A/C   Bb/C    C    Bb/C   A/C   Bb/C    C
+Que eu tô voltando prá casa outra vez
+
+
+    Bb6(9)     F9/A          F9       G7sus4(9)
+Às vezes é tormenta, fosse uma navegação
+      Bb6(9)          F9/A         F9           G7sus4(9)
+Pode ser que o barco vire, também pode ser que não
+        Bb6(9)        F9/A      F9         G7sus4(9)
+Já dei meia-volta ao mundo levitando de tesão
+       Bb6(9)    F9/A        F9           G7sus4(9)
+Tanto gozo e sussurro já impresso no colchão
+             F9/A
+Pois sempre tem
+
+  Bb6(9)      F9/A     F9               G7sus4(9)
+Primeiro era vertigem como em qualquer paixão
+     Bb6(9)      F9/A        F9         G7sus4(9)   Bb/C   A/C   Bb/C   C
+Era só fechar os olhos e deixar o corpo ir  no  ritmo
+   Bb6(9)      F9/A      F9       G7sus4(9)
+Depois era um vício, uma intoxicação
+       Bb6(9)    F9/A        F9            G7sus4(9)
+Me corroendo as veias, me arrasando pelo chão
+            F9/A          G7/B    F9/C       G/B
+Mas sempre tinha a cama pronta e rango no fogão
+ F9/A  G/B        F9/C       G/B          C9     Bb9    F
+Luz  acesa, me espera no portão prá você ver
+  Dm7                   C9    G     C9   Bb9    F
+Que eu tô voltando prá casa, me vê
+  Dm7                   C9  G      Bb/C   A/C   Bb/C    C    Bb/C   A/C   Bb/C    C
+Que eu tô voltando prá casa outra vez
+
+----------------- Acordes -----------------
+A/C = X 3 2 2 2 X
+Bb/C = X 3 X 3 3 1
+Bb6(9) = 6 5 5 5 X X
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+F9 = 1 3 5 2 1 1
+F9/A = 5 X X 5 6 3
+F9/C = X 3 X 5 6 3
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7/B = X 2 3 0 3 X
+G7sus4(9) = 3 X 3 2 1 X

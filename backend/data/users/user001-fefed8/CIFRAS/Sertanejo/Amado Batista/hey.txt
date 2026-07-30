@@ -1,0 +1,50 @@
+@titulo: hey
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Hey
+
+(intro) G D C G D G
+
+G             C
+Hey,eu estou aqui!
+          D7                          G
+Vou mentindo pra mim mesmo tentando fingir
+                                         D7
+Que você ainda se importa com o meu coração
+                                  G    D7
+Sem você no meu caminho, é rumo a solidão...
+ G
+Hey, eu estou aqui!
+                D7                     G
+Vou cantar na sua janela pra você me ouvir
+                                       D7
+Como é grande o sentimento que tenho por ti
+                                        G
+Sem você na minha estrada eu não sei seguir...
+
+     D7                                    G
+Quando a noite chegar eu quero dormir e sonhar
+        D7                                    G
+Que estou te amando outra vez aquecendo meu corpo
+               D7             G   C G
+Uma noite é pouco pra eu te amar...
+      D7                                               G
+E quando o amor acontece é assim, te amando esqueço de mim
+       D7                                     G
+Me envolvo em seu corpo e esqueço o mundo lá fora,
+                  D7                G    D7
+Mas quando eu acordo solidão me devora...
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3

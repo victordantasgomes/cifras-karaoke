@@ -1,0 +1,73 @@
+@titulo: tudo
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Lulu Santos - Tudo
+
+Capo Casa 1
+
+Intro: A
+
+  A
+Todos os gozos do mundo
+                   E7
+Cada porção do prazer
+Bm        G        E7
+Vivemos juntos na vida
+             E5+/7    A  E5+/7
+Tudo que o amor pode ser
+ A
+Tantos momentos felizes
+ F#7               Bm
+Vivendo o mesmo desejo
+ D                   F            A   F#7
+Nada que passou, passou foi esquecido
+           Bm               C#m  Dm
+Mas as tristezas que o amor nos deu
+                         A        (A)
+Ninguém vai nunca nos tirar, não
+ A
+Todas as dores do mundo
+
+                   E7
+Todos os males do amor
+ Bm      G        E7
+Vivemos em carne viva
+            E5+/7     A   E5+/7
+Tudo que o amor faz doer
+ A
+Juntos nós somos sozinhos
+F#7              Bm
+Sofrendo tudo calado
+ D                   F             A   F#7
+Nada que passou, passou, foi esquecido
+        Bm             C#m  Dm
+As alegrias que o amor nos deu
+                         A         F#7
+Ninguém nunca vai nos tirar oh não
+        Bm             C#m  Dm
+As alegrias que o amor nos deu
+                         A         F#7
+Ninguém nunca vai nos tirar oh não
+        Bm              C#m Dm  (A)
+As alegrias que o amor nos deu
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+A*  = X 0 2 2 2 0 - (*A# na forma de A)
+Bm*  = X 2 4 4 3 2 - (*Cm na forma de Bm)
+C#m*  = X 4 6 6 5 4 - (*Dm na forma de C#m)
+D*  = X X 0 2 3 2 - (*D# na forma de D)
+Dm*  = X X 0 2 3 1 - (*D#m na forma de Dm)
+E5+/7*  = 0 X 0 1 1 0 - (*F5+/7 na forma de E5+/7)
+E7*  = 0 2 2 1 3 0 - (*F7 na forma de E7)
+F*  = 1 3 3 2 1 1 - (*F# na forma de F)
+F#7*  = 2 4 2 3 2 2 - (*G7 na forma de F#7)
+G*  = 3 2 0 0 0 3 - (*G# na forma de G)

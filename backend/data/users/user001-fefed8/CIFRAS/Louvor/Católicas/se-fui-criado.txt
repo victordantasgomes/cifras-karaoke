@@ -1,0 +1,34 @@
+@titulo: se-fui-criado
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Se Fui Criado
+
+
+E                     C#m
+Se fui criado pra te louvar
+      A               B
+Estou aqui pra te Adorar
+       E            C#m
+E me render ao seu Amor
+       A                    B
+Pois não há pra mim Lugar melhor
+       G#m            C#m
+Do que está diante de ti
+      F#m B
+Meu Senhor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

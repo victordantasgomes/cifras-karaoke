@@ -1,0 +1,61 @@
+@titulo: preconceito
+@autor:
+@intérprete: Cazuza
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cazuza - Preconceito
+
+Am                Dm
+Por que você me olha
+            G           Am
+com esses olhos de loucura?
+                       G
+Por que você diz meu nome?
+F                    E7
+Por que você me procura?
+Am                     Dm
+Se as nossas vidas juntas
+          G               C   F#7
+vão ter sempre um triste fim
+     F          E7               Am
+Se existe um preconceito muito forte
+   Bm7/5-  E7     Am
+separando você de mim
+G                    C
+Pra que este beijo agora?
+Bm7/5-      E7         Am
+Por que me amor este abraço?
+   Bm7/5-    E7    Am
+Um dia você vai embora
+
+     F#m7/5-                    B7   E7
+sem sofrer os tormentos que eu passo
+         G               C
+De que vale sonhar um minuto
+        Bm7/5-   E7     A7
+se a verdade da vida é ruim?
+    Dm         G7               C     F#7
+Se existe um preconceito muito forte
+   F       E7      Am
+separando você de mim
+
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+Bm7/5- = X 2 3 2 3 X
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+F#7 = 2 4 2 3 2 2
+F#m7/5- = 2 X 2 2 1 X
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

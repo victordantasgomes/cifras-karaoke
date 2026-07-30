@@ -1,0 +1,62 @@
+@titulo: a-alegria
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - A Alegria
+
+Intro: G C/G G
+
+ G                              C/G                   G
+ A alegria está no coração, de quem já conhece a Jesus
+ G           Em7                     Am               D7
+ A verdadeira paz só tem aquele, que já conhece a Jesus
+ G                 G7           C                Cm
+ O sentimento mais precioso que vem do nosso Senhor
+        G   Em7       Am               D7         G
+ É o amor      que só tem, quem já conhece a Jesus
+    C      G
+Aleluia, amém!
+
+         G                   G7
+Posso pisar numa tropa e saltar as muralhas
+    C        Cm
+Aleluia, aleluia                                       (2X)
+
+  G                  G7                 C              Cm
+Cristo é a rocha da minha salvação, com ele não a mais condenação
+         G                   G7
+Posso pisar numa tropa e saltar as muralhas
+
+     C       Cm
+Aleluia, aleluia
+
+   G G7      C Cm
+Aleluia, Aleluia-a
+   G Em7     Am   D7
+Aleluia!  Alelu-uuia!
+
+ G                  G7            C              Cm
+ O sentimento mais precioso que vem do nosso Senhor
+       G  Em7        Am              D7        G
+ É o amor    que só tem, quem já conhece a Jesus
+
+Final: C G/B Am7 G
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+Cm = X 3 5 5 4 3
+D7 = X X 0 2 1 2
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

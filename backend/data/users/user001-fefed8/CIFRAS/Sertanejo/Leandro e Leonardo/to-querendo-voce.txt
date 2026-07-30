@@ -1,0 +1,60 @@
+@titulo: to-querendo-voce
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - Tô Querendo Você
+
+Intro: A D A D
+
+           A                    D           A    D
+    Eu não sei se é sonho ou se é apenas ilusão
+          A                       D              E
+    Mas você é o que eu mais precisava pro meu coração
+         D             E           C#m         F#m
+    Eu andava me acostumando , a viver com a solidão
+          Bm              D             E
+    Com você veio a felicidade,amor e paixão
+            A              D              E       A    D
+  * Se é loucura ou insensatez , não me importa saber
+         A                   D              E
+    Cada dia que passa eu preciso ficar com você
+             D                   E
+    Se esse amor está certo ou errado
+         F#m                D
+    Só o tempo é que pode dizer
+           A                E                 A     D  A
+    Mas enquanto você me quiser , tô querendo você
+               E
+ ** Quantas loucuras eu fiz sem pensar
+
+              F#m             D
+    E quantas vezes amei por amar
+          Bm               E                   A           D    A
+    Eu queria esconder o vazio que eu tinha no coração,(no coração)
+                 E
+    Deixa eu te amar porque agora eu já sei
+              F#m                D
+    Onde encontrar a razão pra viver
+        Bm                E                 A
+    E enquanto você me quiser , tô querendo você
+
+  SOLO : A D A D
+
+  REPETE DESDE *
+
+  REPETE DESDE ** 2 vezes
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

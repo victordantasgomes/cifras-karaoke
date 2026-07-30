@@ -1,0 +1,43 @@
+@titulo: grandes-obras
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - Grandes Obras
+
+   A                D/A
+Quero Te adorar, oh Rei Jesus
+    D        A/C#      Bm        D/E
+Com todo o meu ser declarar o meu amor
+         A  C#m7/G#  F#m    Bm     D/E  F#/A#  E/G#
+Tua glória e majestade, Santo És Senhor
+E       A         C#m
+Pois as Tuas grandes obras
+      D            E
+Todos olhos podem ver
+    D/F#      E/G#        F#/Bb
+Teu poder manifestado em toda terra
+Bm  A/C#  D  Ebo   D/E
+Se     exal  ta  do oh Deus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+C#m7/G# = 4 2 2 4 2 X
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#/A# = 6 X 4 6 7 X
+F#/Bb = 6 X 4 6 7 X
+F#m = 2 4 4 2 2 2

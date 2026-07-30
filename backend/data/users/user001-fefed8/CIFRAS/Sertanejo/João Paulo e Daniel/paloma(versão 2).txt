@@ -1,0 +1,60 @@
+@titulo: paloma(versão 2)
+@autor:
+@intérprete: João Paulo e Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+João Paulo e Daniel - Paloma
+
+Intro: E  F#m  B7  A  B7  E (2x)
+       A  G#m  F#m  E
+
+ E             E4   E             F#m
+Assim como um dia triste não tem calor
+   B7                              E    B7
+Estou me sentindo triste sem teu amor
+ E                 E4    E      F#m
+Se foi para muito longe sem um adeus
+    B7            B7/4     B7      E
+Partiu destruindo todos os sonhos meus
+             E4     E            B7
+Voa Paloma e vem devolver minha calma;
+            B7/4          B7      E        B7
+Traga o seu calor prá aquecer minh'alma
+ E             E4   E        B7
+Velhas melancolias estão de volta,
+           B7/4  B               E
+Pois sem o teu amor nada mais importa
+
+      E4         E                   F#m
+Onde quer que eu vá estou sempre esperando
+
+       B7      B7/4              B7
+Prá dizer que apesar da tua ausência
+            E
+Sempre te amarei.   (2x)
+
+Interlúdio: E  F#m  B7  A  B7  E (2x)
+            A  G#m  F#m  E
+
+ E                               F#m
+Se foi, melodia triste de uma canção
+             B7                E      B7
+Deixou toda uma poesia de solidão
+
+Voa Paloma...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+B7/4 = X 2 4 2 5 2
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

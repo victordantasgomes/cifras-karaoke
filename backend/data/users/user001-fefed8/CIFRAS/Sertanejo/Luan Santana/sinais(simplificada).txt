@@ -1,0 +1,65 @@
+@titulo: sinais(simplificada)
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Sinais
+
+(intro 2x) C  Am  F
+
+C                        Am
+  Vi seu sorriso em meu sonho
+F                       G
+  Segui seu rastro na areia do deserto
+C                        Am
+  Eu escutei sua voz ao vento
+F                        G
+  Senti seu cheiro cada vez de mim mais perto
+
+Am                      G
+  Virei um louco meio obsecado
+     F
+Pra te encontrar em algum lugar do mundo
+Am                       G
+  E mesmo sem nunca ter te tocado
+    F      Dm           G
+Me pertencia bem lá no fundo
+
+(pré-refrão)
+
+
+   F                                  Am
+Sinais, me mostraram o caminho até você
+                             F
+Vagalumes guiam-me sem perceber
+                Dm       G
+E no fim da estrada uma luz parece ser você
+
+(refrão)
+
+   C           G       Am               F
+Sinais, me ajudaram a perceber o meu caminho é você
+       Dm                                           G
+E ninguém no mundo vai fazer eu me sentir denovo assim
+
+   C              G             Am                  F
+Sinais, vindos de um lugar tão longe às vezes se encondem
+      Dm                                          G
+No farol em uma ilha, numa noite tão vazia eu beijei você
+        C
+Até o amanhecer...
+
+(repete tudo)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 3 3

@@ -1,0 +1,57 @@
+@titulo: foi-um-belo-dia
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - Foi Um Belo Dia
+
+[Intro] C9
+
+C9                     D/C                        F7M       Gsus
+Foi um belo dia que tivemos, dia lindo em que vivemos, Tua luz a clarear.
+C9                       D/C                     F7M
+Veio de mansinho e tão suave foi tirando nossas traves
+                Em  G°
+E no coração entrou
+Dm7(9)        D°   E7     Am7         Am/G        F7M
+Veio Jesus Cristo tão singelo, tão humilde e tão belo
+      D7(9)        Gsus  Asus
+Nosso Rei assim nasceu
+F7M      E7(b9)         Am7    Am/G          Dm
+Veio nos tirar da escuridão. Aleluia, meu irmão!
+       Gsus       Asus
+Nosso Salvador nasceu!
+
+F   G/F     Am  Asus  Am         Dsus  Gsus
+Oh, oh, alelu-----u-----ia! Jesus nasceu!
+
+F    G/F    Am  Asus  Am       Dsus  F  E7  Am9
+Oh, oh, alelu-----u-----ia! Jesus nasceu!
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+Am9 = X 0 2 4 1 0
+Asus = X 0 2 2 2 0
+C9 = X 3 5 5 3 3
+D/C = X 3 X 2 3 2
+D7(9) = X 5 4 5 5 X
+Dm = X X 0 2 3 1
+Dm7(9) = X 5 3 5 5 X
+Dsus = X X 0 2 3 2
+D° = X X 0 1 0 1
+E7 = 0 2 2 1 3 0
+E7(b9) = X X 2 1 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F7M = 1 X 2 2 1 X
+G/F = 1 X X 0 0 3
+Gsus = 3 2 0 0 0 3
+G° = 3 X 2 3 2 X

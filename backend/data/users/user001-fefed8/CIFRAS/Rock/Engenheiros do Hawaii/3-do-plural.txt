@@ -1,0 +1,106 @@
+@titulo: 3-do-plural
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - 3ª do Plural
+
+Intro 3x:  F  C
+
+Riff inicial:
+
+E|--13-12----------12----------------|
+B|--13----13----------13-------------|
+G|--14-------12----------12----------|
+D|--15----------14-------------------| (3x)
+A|-----------------------------------|
+E|-----------------------------------|
+
+F                  C
+   Corrida pra vender cigarro
+F                  C
+   Cigarro pra vender remédio
+F                 C
+   Remédio pra curar a tosse
+       G
+   Tossir, cuspir, jogar pra fora
+
+F                  C
+   Corrida pra vender os carros
+
+F                   C
+   Pneu, cerveja e gasolina
+F               C
+   Cabeça pra usar boné
+            G
+   E professar a fé de quem patrocina
+
+( F  Em  G )
+
+                      Dm                      C
+   Eles querem te vender, eles querem te comprar
+                Dm                             C
+   Querem te matar de rir, querem te fazer chorar
+            Gm   Bb
+   Quem são eles?
+ F                       C
+   Quem eles pensam que são? (4x)
+
+F                 C
+   Corrida contra o relógio
+F                      C
+   Silicone contra a gravidade
+F                      C
+   Dedo no gatilho, velocidade
+         G
+   Quem mente, antes diz a verdade
+
+Am             G
+   Satisfação garantida
+Am                 G
+   Obsolescência programada
+F              Em               G
+   Eles ganham a corrida antes mesmo da largada
+
+                      Dm                      C
+   Eles querem te vender, eles querem te comprar
+                Dm                           C
+   Querem te matar a sede, eles querem te sedar
+            Gm   Bb
+   Quem são eles?
+ F                       C
+   Quem eles pensam que são? (4x)
+
+       Gm              Bb
+   Vender, comprar, vedar os olhos
+      C
+   Jogar a rede contra a parede
+Gm
+   Querem te deixar com sede
+Bb            F            C
+   Não querem te deixar pensar
+
+            Gm   Bb
+   Quem são eles?
+F                        C
+   Quem eles pensam que são? (2x)
+            Gm    Bb
+   Quem são eles?
+
+(F  C  Gm  Bb  C  Dm )
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

@@ -1,0 +1,60 @@
+@titulo: o-trem-das-7(versão 2)
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - O Trem Das 7
+
+Introdução
+
+E|------------------7/9--7---75----------------------------5~---
+B|------5~-5/7--5-----------------7--5--------3/5----3-----------
+G|---/6----------------------------------7--------------6--------
+D|---------------------------------------------------------------
+A|---------------------------------------------------------------
+E|---------------------------------------------------------------
+
+  A9   D   E7   A    E   F#m
+
+   A9
+Ói, ói o trem, vem surgindo de trás das montanhas azuis, olha o trem
+Ói, ói o trem, vem trazendo de longe as cinzas do velho aeon
+
+                  D                    E7                       A
+Ói, já é vem, fumegando, apitando, chamando os que sabem do trem
+Ói, é o trem, não precisa passagem nem mesmo bagagem no trem
+
+              E               A
+Quem vai chorar, quem vai sorrir ?
+
+Quem vai ficar, quem vai partir ?
+         E            A             E             A
+Pois o trem está chegando, tá chegando na estação
+      E            A          E            A    D        E
+É o trem das sete horas, é o último do sertão,   do sertão
+
+A9
+Ói, olha o céu, já não é o mesmo céu que você conheceu, não é mais
+Vê, ói que céu, é um céu carregado e rajado, suspenso no ar
+
+A9                 D                      E7                A
+Vê, é o sinal, é o sinal das trombetas, dos anjos e dos guardiões
+Ói, lá vem Deus, deslizando no céu entre brumas de mil megatons
+                    D                       E7                  F#m
+Ói, ói o mal, vem de braços e abraços com o bem num romance astral
+E    A
+A...mém
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

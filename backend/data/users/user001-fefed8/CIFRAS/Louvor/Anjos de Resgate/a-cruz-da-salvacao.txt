@@ -1,0 +1,88 @@
+@titulo: a-cruz-da-salvacao
+@autor:
+@intérprete: Anjos de Resgate
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Anjos de Resgate - A Cruz da Salvação
+
+Intro: F#m E D F#m E B/D# Bm A/C# D E
+
+
+F#m     E             D     F#m  E             D
+Sei que ainda não fiz tudo, comparado ao que ganhei
+A/C#                     E                   Bm
+Em minhas mãos ainda não há a marca que o marcou
+               Bm6/G#  C#4  C#
+A dor que suportou Jesus.
+F#m   E            D     F#m      E          D
+Não tenho que murmurar, apenas preciso acreditar
+      A/C#            C#m5-               Bm
+Que a dor maior ele levou, na cruz crucificou
+                 E   D/F#
+Vou somente o adorar.
+A          A/C#        D                A/C#
+Adorar teu nome faz-me transcender a dor
+  Bm                      E
+Renova minhas forças para carregar a cruz
+A          A/C#            D           A/C#
+Adorar teu nome é mais que consideração
+
+  Bm                        E                  F#m  E  D  A  E/G#  F#m  D
+É não se envergonhar, é assumir a cruz da salvação
+
+F#m     E             D     F#m  E             D
+Sei que ainda não fiz tudo, comparado ao que ganhei
+A/C#                     E                   Bm
+Em minhas mãos ainda não há a marca que o marcou
+               Bm6/G#  C#4  C#
+A dor que suportou Jesus.
+F#m   E            D     F#m      E          D
+Não tenho que murmurar, apenas preciso acreditar
+      A/C#            C#m5-               Bm
+Que a dor maior ele levou, na cruz crucificou
+                 E     D/F#  E/G#
+Vou somente o adorar.
+A      Bm  A/C#        D                A/C#
+Adorar teu nome faz-me transcender a dor
+  Bm                      E              D/F#  E/G#
+Renova minhas forças para carregar a cruz
+A          A/C#            D           A/C#
+Adorar teu nome é mais que consideração
+  Bm                        C#4   C#           D  A/C#  Bm  A  E  A/C#  Bm  A/C#  D  B  E  F#  F#/A#
+É não se envergonhar, é assumir a cruz da salvação
+
+B          B/D#        E                B/D#
+Adorar teu nome faz-me transcender a dor
+  C#m                     F#4        F#  E/G#  F#/A#
+Renova minhas forças para carregar a cruz
+B      C#m B/D#            E           B/D#
+Adorar teu nome é mais que consideração
+  C#m                       F#                 G#m  F#  C#/F  C#m  B/D#  E  F#  B
+É não se envergonhar, é assumir a cruz da salvação
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+Bm = X 2 4 4 3 2
+Bm6/G# = 4 X 4 4 3 X
+C# = X 4 6 6 6 4
+C#/F = X 8 X 6 9 9
+C#4 = X 4 4 1 2 X
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#4 = 2 4 4 4 2 2
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

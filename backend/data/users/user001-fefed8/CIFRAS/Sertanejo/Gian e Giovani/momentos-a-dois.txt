@@ -1,0 +1,59 @@
+@titulo: momentos-a-dois
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Momentos a Dois
+
+E                                F#m
+Eu preciso falar com você urgentemente
+A/B              B                           E          B/D#
+Pra buscarmos os doces momentos por nós esquecidos
+C#m                    C#m7/B                  F#m7
+Eu preciso que estenda seus braços na minha frente
+      B7                                         A/E  E  A/B
+Não deixar que os sonhos que tem se façam perdidos
+
+E                                    G#7
+Esta noite te espero mais cedo pra gente sair
+         A                   A/B            E            C#7
+Pra esquecermos o tempo escondermos as preocupações
+      F#m              A/B               E  C#m  C#m7/B
+Que o presente dia de graça nos faça feliz
+    A                    B                  E   A/B
+Pra vivermos cedendo somente as nossas emoções
+
+      E                                   F#m
+Nessa noite faremos verdade os nossos desejos
+     A/B                B                  E     B/D#
+O prazer nossos corpos unidos num beijo
+
+    C#m                      C#m7/B
+Numa noite em festa o amor nos empresta
+F#m
+Momentos a dois
+     B7
+Uma nova aventura jamais nos censura
+A/E         E  A/B
+Agora e depois
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/E = 0 X 2 2 2 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+C#m7/B = 7 4 6 4 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G#7 = 4 6 4 5 4 4

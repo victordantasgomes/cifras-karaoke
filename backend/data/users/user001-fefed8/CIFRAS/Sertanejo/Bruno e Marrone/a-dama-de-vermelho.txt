@@ -1,0 +1,67 @@
+@titulo: a-dama-de-vermelho
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - A Dama de Vermelho
+
+[Intro] F  Gm  C  F  Dm  Gm  C  F
+
+    F               Am
+Garçom olhe pelo espelho
+              Bb
+A dama de vermelho
+                 C
+Que vai se levantar
+ C7                Bb
+Note que até a orquestra
+              C
+Fica toda em festa
+            C7          F
+Quando ela sai para dançar
+
+F                   Am
+Esta dama já me pertenceu
+                Bb
+E o culpado fui eu
+          Bb  Am  Gm
+Da separação
+
+ Bb    C        F
+Hoje choro de ciúmes
+  Dm             Gm
+Ciúme até do perfume
+         C          F
+Que ela deixa no salão
+
+         Gm   C
+Garçom amigo
+                       F   Dm
+Apague a luz da minha mesa
+                   Gm     C
+Eu não quero que ela note
+                  F   Dm
+Em mim tanta tristeza
+                   Gm    C
+Traga mais uma garrafa
+                F     Dm
+Hoje vou embriagar-me
+                       Gm   C7
+Quero dormir para não ver
+                    F   Bb  F
+Outro homem te abraçar
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

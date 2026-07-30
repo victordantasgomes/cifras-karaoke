@@ -1,0 +1,63 @@
+@titulo: misterios(simplificada)
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Mistérios
+
+[Intro] A  E  Bm  D
+        A  E  Bm  D
+
+[Primeira Parte]
+
+  A                    E
+Não há disfarce nesse seu olhar
+          F#m            D
+Que incendeia o meu coração
+A                 E
+Esse desejo te revelará
+               F#m                      D
+Em um simples gesto qual será sua intenção
+
+[Segunda Parte]
+
+A                    E
+  Eu só quero que você entenda
+F#m                         D
+    Que o meu sentimento é verdadeiro
+A             E              F#m       D
+  Não há segredos quando o amor chegar
+
+
+[Refrão]
+
+A                     E
+  Seu olhar foi de encontro ao meu
+Bm                       D
+   E o meu destino está junto ao teu
+A           E
+  Meu vício, mania
+Bm                     D
+   Eu desvendei os mistérios do seu coração
+
+A                     E
+  Seu olhar foi de encontro ao meu
+Bm                       D
+   E o meu destino está junto ao teu
+A           E
+  Meu vício, mania
+Bm                     D
+   Eu desvendei os mistérios do seu coração
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

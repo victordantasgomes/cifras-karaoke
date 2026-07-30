@@ -1,0 +1,70 @@
+@titulo: ceu-aberto
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Céu Aberto
+
+Tom :   G
+
+  G         D/F#               D/F        E7        E4   Am7(M)
+Vejo o Céu aberto, querubins descendo    sobre    nós    aqui
+Am        Am7(M)            Am                  D
+Como chamas vivas sinto fogo santo já ardendo em mim
+  G     D/F#               D/F               E7             Am
+Não há resistências! O meu coração se dobra sobre o lindo altar
+Am7(M)       G                 D/F#              G4     G
+E o todo poderoso se ergue do seu trono e vem me tocar
+
+C9           G       C9             G
+Vejo o Céu aberto!   O Céu está aberto!
+C9          G       C9                 G          D/F#
+Sinto o Céu aberto!       O Céu está aberto!
+
+     G               D                        G                D
+Ele vai me encher, me perdoar, sim vai me socorrer e minh'alma lavar
+    G                      D                  G                  D    C9
+Minha mente e meu ser purificar me fazendo vencer, resistir triunfar
+
+
+            G      C9                G
+Vejo o Céu aberto!      O Céu está aberto!
+C9            G      C9              G
+Sinto o Céu aberto!      O Céu está aberto!
+
+ F      Em         F         D/F#
+UH !   Aberto.      UH !     ...
+
+   G                     D                    G                 D
+Ele vai me encher, me perdoar, sim vai me socorrer e minh'alma lavar
+      G                 D                    G                    D     C9
+Minha mente e meu ser purificar me fazendo vencer, resistir triunfar
+
+            G       C9                 G
+Vejo o Céu aberto!       O Céu está aberto!
+C9          G       C9                 G
+Sinto o Céu aberto!       O Céu está aberto!
+
+ F      Em          F          G
+UH !   Aberto.      UH !   Aberto.
+ F     Em           F        G
+UH !   Aberto.      UH !   Aberto.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F = X X 3 2 3 2
+D/F# = 2 X 0 2 3 2
+E4 = 0 2 2 2 0 0
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G4 = 3 5 5 5 3 3

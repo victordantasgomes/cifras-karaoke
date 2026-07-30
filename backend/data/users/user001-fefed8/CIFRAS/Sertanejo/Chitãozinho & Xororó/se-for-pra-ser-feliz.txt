@@ -1,0 +1,81 @@
+@titulo: se-for-pra-ser-feliz
+@autor:
+@intérprete: Chitãozinho & Xororó
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Chitãozinho & Xororó - Se For Pra Ser Feliz
+
+Capo Casa 1
+
+Intro: G C
+
+
+    G                         Am7
+Se for pra fazer a guerra, que seja de travesseiro.
+    D                                   C G/B C D
+Se for pra ter solidão, que seja no chuveiro.
+    G
+Se for pra perder, que seja o medo.
+    C
+Se for pra mentir, que seja a idade.
+    D                           G    D
+Se for pra matar que seja a saudade.
+
+                  G
+Se for pra ser feliz, que seja o tempo todo.
+              D9/F#
+Se for pra morrer que seja de amor.
+             C9            D               G       D
+Se for pra tirar de alguém, que seja a sua dor.
+                G
+Se for pra ir embora, que seja a tristeza.
+
+              D/F#
+Se for pra ferir que seja sem querer.
+              C                   D                    G
+Se for pra viver, que seja, pra ficar pra sempre com você.
+
+Solo do meio: G C D G C
+
+    G                         Am7
+Se for pra chorar um dia, que seja de alegria.
+    D                               C G/B C D
+Se for pra cair, que seja cair na folia.
+    G
+Se for pra bater, que seja um bolo
+    C
+Se for pra roubar, que seja um beijo.
+    D                           G      D
+Se for pra matar, que seja de desejo.
+
+                 G
+Se for pra ser feliz, que seja o tempo todo.
+               D/F#
+Se for pra morrer que seja de amor.
+             C9           D                G    D
+Se for pra tirar de alguém, que seja a sua dor.
+                G
+Se for pra ir embora, que seja a tristeza.
+              D/F#
+Se for pra ferir que seja sem querer.
+              C                    D                 G
+Se for pra viver, que seja, pra ficar pra sempre com você.
+
+Final: G C G
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+Am7*  = X 0 2 0 1 0 - (*A#m7 na forma de Am7)
+C*  = X 3 2 0 1 0 - (*C# na forma de C)
+C9*  = X 3 5 5 3 3 - (*C#9 na forma de C9)
+D*  = X X 0 2 3 2 - (*D# na forma de D)
+D/F#*  = 2 X 0 2 3 2 - (*D#/G na forma de D/F#)
+D9/F#*  = 2 X 0 2 3 0 - (*D#9/G na forma de D9/F#)
+G*  = 3 2 0 0 0 3 - (*G# na forma de G)
+G/B*  = X 2 0 0 3 3 - (*G#/C na forma de G/B)

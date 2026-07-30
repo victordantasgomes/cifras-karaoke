@@ -1,0 +1,83 @@
+@titulo: vem-pro-meu-coracao
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Vem Pro Meu Coração
+
+Intro: E  A  E  A  C#m  E  B
+
+E           A E               A
+Quero seu amor,bem dentro de mim
+C#m          E            B
+Quero percorrer,todo esse jardim
+E           A  E              A
+Quero algo mais,sei que sou capaz
+C#m           E               B
+De olhar pro céu e ver muito mais...
+
+E             A
+Vem pro meu coração
+E            A
+Pode se aconchegar
+C#m            E
+E revire o meu viver
+c#m          E
+Faça o amor reinar
+Am            E   A
+No calor...da manhã
+
+
+E             A
+Vem pro meu coraçao
+E             A
+Ele é o teu lugar
+C#m         E
+Mim ensine a perceber
+C#m            E
+O valor de Acreditar
+Am           E  A
+Numa nova...manhã.
+
+Solo: E A E A C#m E B
+
+E           A  E              A
+Quero algo mais,sei que sou capaz
+C#m           E               B
+De olhar pro céu e ver muito mais...
+E             A
+Vem pro meu coração
+E            A
+Pode se aconchegar
+C#m            E
+E revire o meu viver
+c#m          E
+Faça o amor reinar
+Am            E   A
+No calor...da manhã
+
+E             A
+Vem pro meu coraçao
+E             A
+Ele é o teu lugar
+C#m         E
+Mim ensine a perceber
+C#m            E
+O valor de Acreditar
+Am           E  A
+Numa nova...manhã.
+Am           E
+Numa nova manhã.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0

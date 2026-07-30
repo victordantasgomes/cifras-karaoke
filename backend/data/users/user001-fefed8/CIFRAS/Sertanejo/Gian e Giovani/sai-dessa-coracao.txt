@@ -1,0 +1,59 @@
+@titulo: sai-dessa-coracao
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Sai Dessa Coração
+
+(intro) C D G Em A7 D C D
+
+ G           D      C             G
+E alta madrugada e eu contando estrelas
+ C                 Bm7     C           D   C/D  D
+Ela deve estar dormindo e eu pensando nela
+G               D        C             G
+Volto pro meu quarto converso com o espelho
+   C          Bm7      Am7        D4/7  D7
+E choro de saudades embaixo do chuveiro
+
+    G                    D       C                G
+Eu tenho solidão pra vender  eu tenho paixão pra dar
+    C                    Bm7
+Eu tenho alguém que não liga pra mim
+ Am7                  C/D  D
+Que não aprendeu me amar
+    G                    D      C                 G
+Eu tenho solidão pra vender eu tenho paixão pra dar
+    C                    Bm7
+Eu tenho alguém que não liga pra mim
+
+ Am7          D7      G  F/G
+Que não aprendeu me amar
+
+     C     D                     G
+Coração você entrou num barco furado
+ Em                  Am7    D7               G   F/G  G
+Ela tira o corpo de lado e deixa a gente na mão
+ C         D                   G
+Coração você bateu em porta errada
+    Em               C        D         G
+Procura uma nova estrada sai dessa coração
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+D = X X 0 2 3 2
+D4/7 = X X 0 2 1 3
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+F/G = 3 X 3 2 1 X
+G = 3 2 0 0 0 3

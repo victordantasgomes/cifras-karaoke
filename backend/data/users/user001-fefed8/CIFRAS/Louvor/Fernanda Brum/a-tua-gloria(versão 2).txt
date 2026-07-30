@@ -1,0 +1,86 @@
+@titulo: a-tua-gloria(versão 2)
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - A Tua Glória
+
+(intro) F Bb F/A Gm F/A Bb
+
+         F              Bb
+Faz estremecer tudo em mim
+F/A     Gm   F/A       Bb
+Faz derreter meu coração
+          F
+Me tira o medo
+           Bb
+Me conta segredos
+F/A           Gm  Dm
+Aumenta minha fé
+            C
+Revela quem És
+
+     Bb C    Dm
+Tu és Emanuel
+    C           F
+Por mim se entregou
+         Bb   C  Dm     C
+Nunca ninguém assim me amou
+
+
+      F
+A Tua glória faz
+           Dm
+Com que eu voe mais
+             Bb     Gm
+Me leva bem junto a ti
+           C4  C
+Me faz flutuar
+          F
+Ao som da Tua voz
+            Dm
+Pulsa o meu coração
+        Bb      Gm              C4  C
+Teu derramar de amor me faz dançar
+
+F        F/E       F/D       F/C        F
+Dançarei, dançarei, para Tua glória, Senhor
+F        F/E       F/D       F/C        F
+Viverei, viverei, para Tua glória, Senhor
+F        F/E       F/D       F/C        F
+Dançarei, dançarei, para Tua glória, Senhor
+Bb           Gm   Gm7/11   G
+Viverei, para Tua glória, Senhor
+G        G/F#       G/E      G/D       G
+Dançarei, dançarei, para Tua glória, Senhor
+G        G/F#       G/E      G/D       G
+Viverei, viverei, para Tua glória, Senhor
+G        G/F#       G/E      G/D       G
+Dançarei, dançarei, para Tua glória, Senhor
+
+(final) G C G/B Am G/B C
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C4 = X 3 3 0 1 X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F/C = X 3 3 2 1 1
+F/D = X X 0 5 6 5
+F/E = 0 X X 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G/E = 0 2 0 0 3 3
+G/F# = X X 4 4 3 3
+Gm = 3 5 5 3 3 3
+Gm7/11 = 3 X 3 3 1 X

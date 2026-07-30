@@ -1,0 +1,106 @@
+@titulo: amor-pra-recomecar(simplificada)
+@autor:
+@intérprete: Frejat
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Frejat - Amor Pra Recomeçar
+
+Intro 2x: G  D5(9) C9
+
+G                             A5(9)
+  Eu te desejo não parar tão cedo
+            C9
+Pois toda idade tem prazer e medo
+G                               A5(9)
+  E com os que erram feio e bastante
+       C9                  F7M
+Que você consiga ser tolerante
+
+Em7
+    Quando você ficar triste
+     D5(9)          Em7                Am7
+Que seja por um dia,    e não o ano inteiro
+Em7                          D5(9)
+    E que você descubra que rir é bom,
+         Em7                A5(9)
+mas que rir de tudo é desespero
+
+Refrão:
+
+   G   Am7                    D5(9)
+Desejo     que você tenha a quem amar
+              C9             Em7
+E quando estiver bem cansado
+ G    Am7                    D5(9)
+Ainda,    exista amor pra recomeçar
+
+       G       D5(9) C9
+Pra recomeçar
+
+( G  D5(9) C9 ) (2x)
+
+Primeira parte com variação:
+G                       A5(9)
+  Eu te desejo, muitos amigos
+           C9
+Mas que em um você possa confiar
+G                     A5(9)
+  E que tenha até inimigos
+       C9                   F7M
+Pra você não deixar de duvidar
+
+Em7
+    Quando você ficar triste
+     D5(9)          Em7                Am7
+Que seja por um dia,    e não o ano inteiro
+Em7                          D5(9)
+    E que você descubra que rir é bom,
+         Em7                A5(9)
+mas que rir de tudo é desespero
+
+Refrão:
+   G   Am7                    D5(9)
+Desejo     que você tenha a quem amar
+              C9             Em7
+E quando estiver bem cansado
+ G    Am7                    D5(9)
+Ainda,    exista amor pra recomeçar
+       G       A5(9)
+Pra recomeçar
+
+Segunda Parte:
+      D5(9)
+Eu desejo que você ganhe dinheiro
+           C9
+Pois é preciso viver também
+         D5(9)
+E que você diga a ele, pelo menos uma vez,
+        Em7            C9  D5(9) Em7 C9
+Quem é mesmo dono de quem
+
+Refrão:
+   G   Am7                    D5(9)
+Desejo     que você tenha a quem amar
+              C9             Em7
+E quando estiver bem cansado
+ G    Am7                    D5(9)
+Ainda,    exista amor pra recomeçar
+       G       A5(9)
+Pra recomeçar
+
+(Repete Introdução) F7M
+
+----------------- Acordes -----------------
+A5(9) = X 0 2 2 0 0
+Am7 = X 0 2 0 1 0
+C9 = X 3 2 0 3 3
+D5(9) = X X 0 2 3 0
+Em7 = 0 2 2 0 3 3
+F7M = X X 3 2 1 0
+G = 3 2 0 0 3 3

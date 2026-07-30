@@ -1,0 +1,37 @@
+@titulo: meu-maior-prazer
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Meu Maior Prazer
+
+Fm                      D#                   A#m
+  tudo te entrego senhor   tudo consagro no teu altar
+    C4        C A#/D C/E
+No teu altar
+Fm                 D#                       A#m                 C4
+  vida de adoração   quebranta o meu coração   com o óleo do espírito
+           C#      Cm                 G#7+
+Prá te adorar  senhor  foi que eu nasci
+         C#             D#          Fm
+E o meu maior prazer é conhecer a glória do senhor
+    C#                D#              Fm
+A glória do senhor é conhecer a tua glória
+
+----------------- Acordes -----------------
+A#/D = X 5 X 3 6 6
+A#m = X 1 3 3 2 1
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C/E = 0 3 2 0 1 0
+C4 = X 3 3 0 1 X
+Cm = X 3 5 5 4 3
+D# = X 6 5 3 4 3
+Fm = 1 3 3 1 1 1
+G#7+ = 4 X 5 5 4 X

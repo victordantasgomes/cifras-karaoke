@@ -1,0 +1,72 @@
+@titulo: estrela-solitaria
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - Estrela Solitária
+
+(riff 1)
+
+E|------5---7---8---------8--10--12--10/12---10---|
+B|------------------6-----------------------------|
+G|----4/5---7---9---------9--10--12--10/12---10---|
+D|------------------7-----------------------------|
+A|------------------------------------------------|
+E|------------------------------------------------|
+
+E|------5---7---8----------8----7----5------------|
+B|-------------------6----------------------------|
+G|----4/5---7---9--------7/9--5/7--4/5------------|
+D|-------------------7----------------------------|
+A|------------------------------------------------|
+E|------------------------------------------------|
+
+(riff 2)
+E|-3-3-3-5-5h7-5-3-3h5-8-8-|
+B|-------------------------|
+G|-------------------------|
+D|-------------------------|
+A|-------------------------|
+E|-------------------------|
+
+
+  (refrão há uma passagem do Am voltando para o F )
+E|-----------|
+B|-----------|
+G|-----------|
+D|-----------|
+A|-0-2-3-----|
+E|-------0-1-|
+
+F         C         G                    Am
+Madrugada sem você noite que não quer passar
+F         C         G
+Tudo é vazio se eu não puder te amar
+F          C           G          Am
+Madrugada sem você óh dona da paixãO
+F                G
+Estrela solitária no céu do meu coração          (riff 1)
+Am        F               C                   G
+O relógio está mentindo, ainda há tempo pra recomeçar
+Am                    F              C               G
+Sei que as horas, não voltam jamais, mas te peço uma chance a mais          (riff 2)
+Am                                      F
+Estrela solitária que habita o meu céu, força reluzente, linda flor lábios de mel
+C                                            G
+Que erradia traz pra dentro do meu coração, eu te quero tanto não preciso sim ou não
+Am                                          F
+Estrela solitária teu amor já mora em mim, volta pros meus braços não dá pra viver assim,
+C                                    G
+espere comigo até o dia amanhecer, fonte que me traz a alegria de viver
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

@@ -1,0 +1,49 @@
+@titulo: imagem-e-tudo-sua-cabeca-nao-tem-nada
+@autor:
+@intérprete: Pitty
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Pitty - Imagem É Tudo, Sua Cabeça Não Tem Nada
+
+intro.
+e|---------------------------------------------------------------
+b|---------------------------------------------------------------
+
+D| x---x---x--x-x-x-x--x-x-x-x-/x-x-x-x-x-x-x-x-x-x--x--x-x------
+A|-10-10-10-10-10-10-10--10-10-/10-10-10-10-10-10-8--8-7-7-------
+E|---------------------------------------------------------------
+Riff 1
+E|--------------
+b|--------------
+g|--------------
+D|-5-5-5-8-7-5-2-2-2-3-3-3------
+A|-5-5-5-8-7-5-2-2-2-3-3-3----        até o refrão
+E|-3-3-3-6-5-3-0-0-0-1-1-1------
+
+refrão
+e|-------------------                                                                  
+b|-------------------                                                                
+
+g|------------6------          tipo, no G fica palhetando, bem rápido, e só bate uma vez no C#
+D|-55-6-5-6-5-6------                              escute a música pra entender melhor
+A|-55-6-5-6-5-4------
+E|-33-4-3-4-3--------
+
+
+_depois vem o Riff 1 de novo
+             Refrão
+             Riff 2 (-PS: é a parte que só fica a guita, faz a mesma coisa que o refrão)
+             Refrão
+
+----------------- Acordes -----------------
+C# = X 4 6 6 6 4
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

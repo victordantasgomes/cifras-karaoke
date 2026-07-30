@@ -1,0 +1,92 @@
+@titulo: solidao-a-tres
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Solidão a Três
+
+[Intro]  C Am F G
+
+C               G                  Am
+Você me disse que não se lembrava mais
+           Dm        F           G
+Que aquele antigo amor não tinha nada a ver
+          Dm                    G
+Que era apenas um amigo, um bom rapaz
+        F             G
+Perdidamente apaixonado por você
+
+C                 G               Am
+Não quero tomar conta do seu coração
+ Dm                 F                  G
+Mas vejo um brilho diferente em seu olhar
+Dm         F                   G
+Pode ser até que eu não tenha razão
+ C                         F               G
+Mas sei que às vezes ele vem aqui te procurar
+
+C                          G
+Se ele vem, existe algum motivo
+
+                     Bb
+Esse amor ainda está vivo
+                    F
+Dentro do seu coração
+Fm                       C
+Você não esqueceu esse sujeito
+  Am                  D7
+E ainda guarda no seu peito
+                 G
+Um pedaço de paixão
+C                        G                     Bb
+Eu não vou ficar no seu caminho não vou dividir carinho ser
+                     F    Fm                   C
+um outro nessa história solidão a três não faz sentido
+     Am       D7            G          C
+se o amor ta dividido ele fica e eu vou embora
+
+( Bb C Bb C G )
+
+C                  G             Am
+Não quero tomar conta do seu coração
+ Dm          F                         G
+Mas vejo um brilho diferente em seu olhar
+Dm                             G
+Pode ser até que eu não tenha razão
+   C                       F              G
+Mas sei que às vezes ele vem aqui te procurar
+
+C                           G
+Se ele vem, existe algum motivo
+                     Bb
+Esse amor ainda está vivo
+                  F
+Dentro do seu coração
+Fm                        C
+Você não esqueceu esse sujeito
+                       D7
+E ainda guarda no seu peito
+                 G
+Um pedaço de paixão
+C                        G                     Bb
+Eu não vou ficar no seu caminho não vou dividir carinho ser
+                     F    Fm                   C
+um outro nessa história solidão a três não faz sentido
+     Am       D7            G          C
+se o amor ta dividido ele fica e eu vou embora
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3

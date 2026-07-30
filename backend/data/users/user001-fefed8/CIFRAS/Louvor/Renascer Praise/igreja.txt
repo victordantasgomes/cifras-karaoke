@@ -1,0 +1,98 @@
+@titulo: igreja
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Igreja
+
+[Intro]
+
+   G         Am7  Bm7        C           C  G/B      Am7           Eb7+   Ab7+(9) C/D
+E|------------------------------------------10------------------------10-13-11----10v--| 
+B|--10/12----10v-----10/12------------10-12----10-12------------10-11----------11------| 
+G|--------12--------------12-9v----12----------------12v-----12------------------------| 
+D|------------------------------12------------------------12---------------------------| (2X) 
+A|-------------------------------------------------------------------------------------| 
+E|-------------------------------------------------------------------------------------| 
+
+            G                Am7   G/B G7                    C7+          E7/B        Am
+Estamos todos congregados aqui.            Certamente abençoados também.
+          C7+                      Em7            A4                A7             D4    D7
+Há um clima uma esfera de amor.   Uma força que se move entre nós...
+        G             Am7        G/B Gsus                        C7+              E7/B        Am
+Algo novo Deus está por fazer,             com este povo a quem muito quer bem.
+          C7+                   Em7             Am         A7  D4    D7
+Seu Espírito Ele vai derramar, e uma Igreja forte edificar...
+ 
+         G                Am7            G/B           C7+
+Pra louvor de Tua glória, vem Senhor Tua história,
+
+G/B  Am      F7+              D4   D7
+escrever, através da nossa vida...
+         G            Am7                  G/B               C7+
+Teu querer, desejamos, cumpra em nós, os teus planos,
+G/B  Am        Dsus D7    C    G
+vem Senhor, e reina hoje aqui...     } 1º vez faz ½ introdução e volta ao inicio
+
+( Bb  D  D7 )
+ 
+       Dsus D7    C    G         ( D#7 )
+(...)e reina hoje aqui_i_i...     }2º vez repete e sobe meio tom em : "Pra louvor"
+ 
+         G#                A#m7            G#           C#7+
+Pra louvor de Tua glória, vem Senhor Tua história,
+G#  A#m      F#7+              D#sus D#7
+escrever, através da nossa vida...
+ 
+         G#            A#m7                  G#               C#7+
+Teu querer, desejamos, cumpra em nós, os teus planos,
+G#  A#m        D#sus D#7    C#    G#
+vem Senhor, e reina hoje aqui...
+ 
+        Fm7            G#/F#              C#     D#4 D#7    C#    G#
+Vem Senhor, Vem Senhor, Vem Senhor e reina hoje     aqui...
+        Fm7            G#/F#              C#     D#4 D#7    C#    G#
+Vem Senhor, Vem Senhor, Vem Senhor e reina hoje     aqui...
+        Fm7            G#/F#              C#     D#4 D#7      C#                 G#
+Vem Senhor, Vem Senhor, Vem Senhor e reina hoje      aqui...  iii...      i...
+
+----------------- Acordes -----------------
+A#m = X 1 3 3 2 1
+A#m7 = X 1 3 1 2 1
+A4 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+Ab7+(9) = 4 3 5 3 X X
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#7+ = X 4 6 5 6 4
+C/D = X X 0 0 1 0
+C7+ = X 3 2 0 0 X
+D = X X 0 2 3 2
+D#4 = X 6 8 8 9 6
+D#7 = X 6 5 6 4 X
+D#sus = X 6 5 3 4 3
+D4 = X X 0 2 3 3
+D7 = X X 0 2 1 2
+Dsus = X X 0 2 3 2
+E7/B = X 2 2 1 3 X
+Eb7+ = X X 1 3 3 3
+Em7 = 0 2 2 0 3 0
+F#7+ = 2 X 3 3 2 X
+F7+ = 1 X 2 2 1 X
+Fm7 = 1 X 1 1 1 X
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#/F# = 2 X 1 1 1 X
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3
+Gsus = 3 2 0 0 0 3

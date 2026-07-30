@@ -1,0 +1,119 @@
+@titulo: vem
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Vem
+
+ INTRO:  ||  E  B/E  A/E  |  A/E  B/E   |   E  B/E  A/E   |   A/E  B/E
+        |   E  E/D  E/C# C7M   |   F7M   ||
+
+
+E         A/E    B/E
+VEM ADORAR A DEUS
+E         A/E      B  E
+VEM CELEBRAR AQUELE
+F               Bb/F   C/F
+QUE NOS DEU NOVA VIDA
+F              Bb2   C   D2
+QUE NOS DEU ALEGRIA
+
+D   D/F#     G   D/F#   Em7  G/A   D/F#    D
+VEM DERRAMAR SEU CO - RA - ÇÃO
+          C     Bm7   G/A    D      Eb
+VEM CANTAR NO - VA  CANÇÃO
+      Ab/Eb     Bb/Eb
+AO AUTOR DA VIDA
+Eb         Ab2       Bb  C2
+QUE HOJE NOS CONVIDA
+
+
+C
+VEM ADORAR
+     Eb/G
+VEM SE ALEGRAR
+     F/A
+VEM RENOVAR
+       Fm7  Gm7   Ab7M  Ab/Bb  Eb7M       Fm7/Eb   Eb7M
+SUAS FORÇAS NA    PRE - SENÇA  DO      PAI
+       Ab/Eb    Bb/Eb
+ONDE HÁ DELÍCIAS
+Eb7M  Eb/G  Ab2          Bb    C2
+VEM,  ELE NOS CONVI -  DA
+
+C                   Eb/G
+VEM RECEBER VITÓRIA
+      F/A
+VEM PROCLAMAR
+     Fm7      Gm7   Ab7M  Ab/Bb   Eb7M   Fm7/Eb  Eb7M
+LI - BER - TA - ÇÃO  E    CE  -  LE  -  BRAR
+   Ab/Eb  Bb/Eb
+A NOVA VIDA
+Eb7M  Eb/G    Ab2        Bb      C2             HOOK: |  Ab   Bb   |  A    B  ||    Da Capo
+VEM,   ELE NOS CONVI -  DA        2: CONTINUE
+                                  3: |   Ab   Bb  |   Ab  Bb   |   C   ||
+
+
+             Cm             Ab2   Bb
+EU QUERO CELEBRAR A TUA PRESENÇA
+Ab2            Fm7         Eb/G
+CELEBRAR A TUA VITÓRIA
+Ab2            Fm     Bb      C2
+CELEBRAR A TUA LIBERTAÇÃO
+
+             Cm                Ab2        Bb
+EU QUERO CELEBRAR TEU SANGUE PRECIOSO
+Ab2             Fm7         Eb/G
+CELEBRAR TU ÉS PODEROSO
+Ab2            Fm   Eb/G       C2
+CELEBRAR A TUA SALVAÇÃO
+
+             Cm           [solo] Bateria - Guitarra
+EU QUERO CELEBRAR
+Cm/Bb                     [solo] Baixo - Órgão
+CELEBRAR
+F/A          Ab2   Gm7   C2
+CELEBRAR
+
+----------------- Acordes -----------------
+A/E = 0 X 2 2 2 0
+Ab = 4 3 1 1 1 4
+Ab/Bb = X 1 1 1 1 X
+Ab/Eb = X 6 6 5 4 4
+Ab7M = 4 X 5 5 4 X
+B = X 2 4 4 4 2
+B/E = X 7 9 8 7 7
+Bb = X 1 3 3 3 1
+Bb/Eb = X 6 X 7 6 6
+Bb/F = X 8 8 7 6 X
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/F = X 8 10 9 8 8
+C2 = X 3 5 5 3 3
+C7M = X 3 2 0 0 X
+Cm = X 3 5 5 4 3
+Cm/Bb = X 1 1 0 1 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D2 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/C# = X 4 2 1 0 0
+Eb = X 6 5 3 4 3
+Eb/G = 3 X 1 3 4 X
+Eb7M = X X 1 3 3 3
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F7M = 1 X 2 2 1 X
+Fm = 1 3 3 1 1 1
+Fm7 = 1 X 1 1 1 X
+Fm7/Eb = X X 1 1 4 1
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+Gm7 = 3 X 3 3 3 X

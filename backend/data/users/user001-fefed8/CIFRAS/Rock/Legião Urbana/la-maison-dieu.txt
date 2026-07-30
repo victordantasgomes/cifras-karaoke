@@ -1,0 +1,175 @@
+@titulo: la-maison-dieu
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - La Maison Dieu
+
+Tom: Em
+Intr.: (E5 E5(9) Em)2x  A  G
+
+Riff: esse riff é tocado quando as notas (E5 E5(9) Em)2x  A  G aparecem seguidas. O Acorde Em seguido de *(asterisco) indica que deverá ser tocado em sua posição padrão.
+
+   E5  E5(9) Em E5(9)   E5  E5(9) Em      A   G
+E|--------------------------------------|
+B|-----------0-------------------0------|
+G|-----------0-------------------0------|
+D|------4----5---4----------4----5------|
+A|-2---------2---------2---------2------|
+E|-0------0--0---------0------0--0------|
+
+E5      E5(9) Em       E5(9)      E5
+ Se dez batalhões viessem à minha rua
+        E5(9)  Em                     A
+E vinte mil soldados batessem à minha porta
+         G
+Á sua procura
+             E5   E5(9) Em  E5(9)
+Eu não diria nada
+
+E5     E5(9) Em          A    G
+ Porque lhe dei minha palavra
+E5   E5(9) Em        E5(9)   E5   E5(9) Em
+ Teu corpo branco já pegando pêlo
+                          A             G
+Me lembra o tempo em que você era pequeno
+        E5           E5(9)  Em  E5(9) E5
+Não pretendo me aprovei-----tar
+E5(9)        Em
+   E de qualquer forma quem volta
+  A                     G
+Sozinho pra casa sou eu
+
+E5      E5(9) Em          E5(9) E5 E5(9)
+Sexo compra dinheiro e companh--ia
+Em          A               G
+ Mas nunca amor e amizade, eu acho
+   E5         E5(9) Em    E5(9) E5
+E depois de um dia difícil
+ E5(9) Em       C
+Pen---sei ter visto você
+              F#
+Entrar pela janela e dizer:
+Em*       B         B5 Bb5 A5
+- Eu sou a tua morte
+                  D5  B5
+Vim conversar contigo
+  Em             B5
+Vim te pedir abrigo
+   Bb5 A5               D5  B5
+Preci--so do teu calor
+
+    E5  E5(9) Em
+Eu sou,
+ E5(9) E5 E5(9) Em
+Eu    sou
+  A    C
+Eu sou
+                              D  D4
+                          E|-2--3--5-|
+                          B|-3--3--3-|
+
+A pátria que lhe esqueceu
+Am          A9      D9         D  D4
+ O carrasco que lhe torturou
+Am         A9            D9         D  D4
+ O general que lhe arrancou os olhos
+Am                 A9              D9       D  D4
+ O sangue inocente de todos os desaparecidos
+Am         A9     D9         D  D4
+O choque elétrico e os gritos
+Am                B5 A5 G5
+- Parem por favor,
+     (E5 E5(9) Em)2x  A  G
+Isto dói
+
+    E5  E5(9) Em
+Eu sou,
+E5(9) E5 E5(9) Em
+Eu    sou
+    A
+Eu sou a tua morte
+              G
+E vim lhe visitar como amigo
+
+                              D  D4
+                           E|-2--3--5-|
+                           B|-3--3--3-|
+
+ Devemos flertar com o perigo
+Am             A9         D9         D  D4
+ Seguir nossos instintos primitivos
+Am        A9 D9      D  D4
+ Quem sabe  não serão
+Am                             B5    A  G
+ Estes nossos últimos momentos divertidos?
+
+   Em*  B                 B5 Bb5 A5   D5 B5
+Eu sou a lembrança do terror
+         Em*
+De uma revolução de merda
+        B5                      B5 Bb5
+De generais e de um exército de merda
+A5                         D5  B5
+ Não, nunca poderemos esquecer
+  Em*               B5
+Nem   devemos perdoar
+   Bb5   A5             B5 A5 G5
+Eu não anistiei ninguém
+
+                              D  D4
+                           E|-2--3--5-|
+                           B|-3--3--3-|
+
+Abra os olhos e o coração
+Am        A9 D9    D
+ Estejamos alertas
+Am                A9  D9  D
+Porque o terror continua
+Am                              Bm Am G
+ Só mudou de cheiro e de uniforme
+
+E5 E5(9) Em     E5(9) E5   E5(9) Em
+Eu sou        a tua mor---te
+A              G
+  E lhe quero bem
+   E5     E5(9) Em     E5(9) E5      E5(9)   Em
+Esqueça o mun---do, vim lhe explicar o que virá
+A            G
+  Porque eu sou
+
+    E5  E5(9) Em
+Eu sou,
+E5(9) E5 E5(9) Em    A    G
+Eu sou
+
+Final: (Em* C#7 C Bm7){Repetir até o fim...}
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+A9 = X 0 2 2 0 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B5 = X 2 4 4 X X
+Bb5 = X 1 3 3 X X
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#7 = X 4 3 4 2 X
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D5 = X 5 7 7 X X
+D9 = X X 0 2 3 0
+E5 = 0 2 2 X X X
+E5(9) = 0 2 4 4 0 0
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X

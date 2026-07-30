@@ -1,0 +1,85 @@
+@titulo: liberdade(versão 2)
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Liberdade
+
+Intro 2x: Bb9 Dm
+Riff Principal:
+
+E|----------|-----------------|-------------------|-----------------| O 5/10 não repete, o resto
+B|----------|---10b11r10------|-------------------|-10b11r10--------| toca 2x se for violão.
+G|5/10------|10----------10---|-------10---12--10-|----------10-----| Se for guitarra, continua
+D|----------|---------------12|-10-12-------------|-------------12--| tocando até "Eu aprendi."
+A|----------|-----------------|-------------------|-----------------|
+E|----------|-----------------|-------------------|-----------------|
+
+           Bb9
+Um breve olhar
+
+Um Triste Adeus
+          Dm
+Um longo Fim
+                Bb9                            Dm
+Até quando voltarei a ver cenas de um filme que vi
+          Bb9                            Dm
+E não dá mais pra me envolver, pra te ouvir
+                       Bb9
+Hoje Eu sou um homem livre
+
+        Dm
+Eu aprendi
+
+ Bb9           C9
+Não Sufoque, Não sufoque
+
+Refrão:
+F              C9                Dm
+Por onde eu passe, Não Te encontrarei
+Bb9
+Eu não vou, eu não vendo liberdade
+F              C9                  Dm
+E não me compare, não estou com vontade
+Bb9
+Isso é Tudo! Eu não vendo liberdade!
+
+        Bb9                            Dm
+Eu renovei o sentimento que havia em mim
+                   Bb9
+Eu não to aqui pra me vender,
+          Dm
+Não há tarifas aqui.
+      Bb9                    Dm
+Já cansei, já ponderei, pode sair
+                        Bb9
+Quero dizer que já escolhi
+
+ Dm
+Quem vou seguir
+Bb9          C9
+O meu preço já foi pago
+
+Solo 2x: F C9 Dm Bb9
+
+Refrão:
+F              C9                Dm
+Por onde eu passe, Não Te encontrarei
+Bb9
+Eu não vou, eu não vendo liberdade
+F              C9                  Dm
+E não me compare, não estou com vontade
+Bb9
+Isso é Tudo! Eu não devo liberdade!
+
+----------------- Acordes -----------------
+Bb9 = X 1 3 3 1 1
+C9 = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1

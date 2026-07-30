@@ -1,0 +1,157 @@
+@titulo: dezesseis
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Dezesseis
+
+Intro 4x: A9  A9/B
+
+Primeira Parte:
+
+D5                            C5
+   João Roberto era o maioral
+D5                        E5
+   O nosso Johnny era um cara legal
+
+( A9  A9/B ) (4x)
+
+     D5
+Ele tinha um Opala metálico azul
+       A5              F#5     E5
+Era o rei dos pegas na Asa Sul
+
+E em todo lugar
+
+( A9  A9/B ) (4x)
+
+       F#5
+Quando ele pegava no violão
+
+        G5
+Conquistava as meninas
+
+E quem mais quisesse ver
+   D5
+Sabia tudo da Janis
+        E5
+Do Led Zeppelin, dos Beatles e dos Rolling Stones
+
+( A9  A9/B ) (4x)
+
+            D5
+Mas de uns tempos pra cá
+                C5
+Meio sem querer
+D5                E5
+   Alguma coisa aconteceu
+
+( A9  A9/B ) (4x)
+
+ D5
+Johnny andava meio quieto demais
+A5                       F#5  E5
+   Só que quase ninguém percebeu
+
+( A9  A9/B ) (4x)
+
+          F#5
+Johnny estava com um sorriso estranho
+           G5
+Quando marcou um super pega no fim de semana
+D5
+   Não vai ser no CASEB
+             E5
+Nem no Lago Norte, nem na UnB
+
+( A9  A9/B ) (4x)
+
+    D5                                C5
+As máquinas prontas, o ronco de motor
+     D5                E5
+A cidade inteira se movimentou
+
+( A9  A9/B ) (4x)
+
+          D5
+E Johnny disse:
+
+"- Eu vou prá curva do Diabo
+A5               F#5  E5
+   Em Sobradinho e vocês?"
+
+Segunda Parte:
+
+        A9             A9/G#
+E os motores saíram ligados a mil
+        G                     D
+Pra estrada da morte o maior pega que existiu
+    A9                   A9/G#
+Só deu para ouvir, foi aquela explosão
+        G                      D
+E os pedaços do Opala azul de Johnny pelo chão
+    A9              A9/G#
+No dia seguinte, falou o diretor:
+       G                          D
+"- O aluno João Roberto não está mais entre nós
+        A9         A9/G#
+Ele só tinha dezesseis
+          G                    D
+Que isso sirva de aviso pra vocês".
+       A9                  A9/G#
+E na saída da aula foi estranho e bonito
+      G                 D
+Todo mundo cantando baixinho:
+                     A9   A9/G#
+Strawberry Fields Forever
+                  G         D
+Strawberry Fields   Forever
+       A9
+E até hoje, quem se lembra
+         A9/G#
+Diz que não foi o caminhão
+       G
+Nem a curva fatal
+   D
+E nem a explosão
+            A9
+Johnny era fera demais
+         A9/G#
+Pra vacilar assim
+         G
+E o que dizem é que foi tudo
+                     D
+Por causa de um coração partido
+        A9    A9/G#         G6    D9
+Um coração...       um coração...
+        A9    A9/G#         G6    D9
+Um coração...       um coração...
+
+ A9           A9/G#
+Bye, bye bye Johnny
+         G6
+Johnny, bye, bye
+          D9
+Bye, bye Johnny
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+A5*  = X 0 2 2 X X - (*A#5 na forma de A5)
+A9*  = X 0 2 2 0 0 - (*A#9 na forma de A9)
+A9/B*  = X 2 2 2 0 0 - (*A#9/C na forma de A9/B)
+A9/G#*  = 4 0 2 2 0 0 - (*A#9/A na forma de A9/G#)
+C5*  = X 3 5 5 X X - (*C#5 na forma de C5)
+D*  = X X 0 2 3 2 - (*D# na forma de D)
+D5*  = X 5 7 7 X X - (*D#5 na forma de D5)
+D9*  = X X 0 2 3 0 - (*D#9 na forma de D9)
+E5*  = 0 2 2 X X X - (*F5 na forma de E5)
+F#5*  = 2 4 4 X X X - (*G5 na forma de F#5)
+G*  = 3 2 0 0 0 3 - (*G# na forma de G)
+G5*  = 3 5 5 X X X - (*G#5 na forma de G5)
+G6*  = 3 X 2 4 3 X - (*G#6 na forma de G6)

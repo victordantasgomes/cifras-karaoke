@@ -1,0 +1,48 @@
+@titulo: homem-novo
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Homem Novo
+
+Intro: ( D6/G G9/E D/C C D/G D D6/G G9/E )
+       ( D/C C D G4 G G4 G )
+       ( G9  Em  C  D )(2x)
+
+   G9            C9     G9          D      D#º
+Senhor,  tem piedade de mim, misericórdia,
+       Em          C       G/B Am    C           D
+me manchei, me afastei, venho agora pedir Teu perdão.
+
+Cristo,  tem piedade de mim , misericórdia,
+pois pequei ,e machuquei Tuas chagas e o Teu coração.
+
+Senhor,  tem piedade de mim , misericórdia,
+te feri não resisti, volto agora pr'os Teus braços Senhor.
+
+G             Am             G/B
+Lava-me, purifica-me, Senhor.
+       C            Am           D
+Quero ser um homem novo, cura o meu interior. (2x)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D#º = X X 1 2 1 2
+D/C = X 3 X 2 3 2
+D/G = 3 X X 2 3 2
+D6/G = 3 X 4 2 0 X
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G4 = 3 5 5 5 3 3
+G9 = 3 X 0 2 0 X
+G9/E = 0 2 0 2 0 3

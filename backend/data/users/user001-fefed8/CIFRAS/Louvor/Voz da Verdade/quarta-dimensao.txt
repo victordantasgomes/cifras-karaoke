@@ -1,0 +1,81 @@
+@titulo: quarta-dimensao
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Quarta Dimensão
+
+[Intro] F  G  C  A  D
+
+D                       A
+ Eis que vejo os céus abertos
+G                  D
+ O esposo está chegando
+Bm                F#m
+ Rodeado por seus anjos
+E7                   A
+ Revestido de esplendor
+D                  A
+ Nunca vi tanta beleza
+G                  D
+ Ele vem ao meu encontro
+Bm                F#m
+ Minhas vestes estão brancas
+E7                 A
+ O azeite transbordando
+G                    D
+ Estou pronto prá subir
+F#7               Bm
+ Este mundo deixarei
+
+G                     D
+ Eu já tenho um novo corpo
+A                 D
+ Posso ver Jerusalém
+
+D                       A
+ Eis que vejo os céus abertos
+G                  D
+ O esposo está chegando
+Bm                F#m
+ Rodeado por seus anjos
+E7                   A
+ Revestido de esplendor
+D                  A
+ Nunca vi tanta beleza
+G                  D
+ Ele vem ao meu encontro
+Bm                F#m
+ Minhas vestes estão brancas
+E7                 A
+ O azeite transbordando
+G                    D
+ Estou pronto prá subir
+F#7               Bm
+ Este mundo deixarei
+G                     D
+ Eu já tenho um novo corpo
+A                 D
+ Posso ver Jerusalém
+
+( D  D/C  G/B  A#  C  D )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A# = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

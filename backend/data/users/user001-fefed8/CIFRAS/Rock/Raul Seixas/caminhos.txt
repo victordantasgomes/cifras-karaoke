@@ -1,0 +1,100 @@
+@titulo: caminhos
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Caminhos
+
+Abm
+Você me pergunta
+C#        F#     Abm
+Aonde eu quero chegar
+                          C#
+Se há tantos caminhos na vida
+   F#                Abm
+E pouca esperança no ar
+   Ab               C#
+E até a gaivota que voa
+   F#                 B    E
+Já tem seu caminho no ar
+              A       E
+O caminho do fogo é a água
+              B7       E
+O caminho do barco é o porto
+      A             E
+O do sangue é o chicote
+             B7        E
+O caminho do reto é o torto
+             B7         E
+O caminho do bruxo é a nuvem
+
+     B7           E
+O da nuvem é o espaço
+      A       E
+O da luz é o túnel
+              B7      E
+O caminho da fera é o laço
+             Ab
+O caminho da mão é o punhal
+     C#m
+O do santo é o deserto
+     F#
+O do carro é o sinal
+        B
+O do errado é o certo
+              A            E
+O caminho do verde é o cinzento
+      B7          E
+O do amor é o destino
+      A         E
+O do sexto é o cento
+              B7       E
+O caminho do velho é o menino
+   Ab
+O d'água é a sede
+              C#m
+O caminho do frio é o inverno
+      F#
+O do peixe é a rede
+      B
+O do vil é o inferno
+              A           E
+O caminho do risco é o sucesso
+      B7        E
+O do acaso é a sorte
+     A         E
+O da dor é o amigo
+              B7       A
+O caminho da vida é a morte
+B7
+E você ainda me pergunta
+Aonde é que eu quero chegar
+Se há tantos caminhos na vida
+E pouquíssima esperança no ar
+E até a gaivota que voa
+Já tem seu caminho no ar
+              A           E
+O caminho do risco é o sucesso
+       B7       E
+O do acaso é a sorte
+      A       E
+O da dor é o amigo
+             B7        E
+O caminho da vida é a morte
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Ab = 4 3 1 1 1 4
+Abm = 4 6 6 4 4 4
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2

@@ -1,0 +1,84 @@
+@titulo: sem-voce(versão 2)
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Rosa de Saron - Sem Você
+
+Afinação Meio Tom Abaixo
+
+Intro:
+       P-1
+E|-------------------------------|
+B|-----3-------------------------|
+G|-------------------------------|
+D|-2p4---2-0---------------------|
+A|-------------------------------|
+E|-------------------------------|
+
+                     P-2
+
+   C9   Gb     Am7   G  -   C9    Gb    Am7   D D4 Am7 Gb G Cm G4
+
+E|---3---3--3---------3-------3---3--3--------3-1-------3-------------|
+B|---3---3--3--1--1---3-------3---3--3--1--1--4-4--1-1--3-3--4-3------|
+G|---0---0--0--0--0---0-------0---0--0--0--0--3-3--0-0--0-0--5-5------|
+D|-------------2--2---------------------2--2--0-0--2-2----0--5-5------|
+A|-3-----2--2--0--0---------3-----2--2--0--0-------0-0--2----3-3------|
+E|--------------------3-----------------------------------3-----------|
+
+
+
+G           F#5+
+ Minha vida, minha história
+C9           Em D
+Só fez sentido  quando Te conheci
+G           F#5+     C9
+Seus olhos, Sua face
+           Em           D   41-42
+Me levam além do que pensei
+
+Em7     D          Em7     D9/E       C9 Gb
+Se ás vezes me escondo em Você me acho
+         Em      F#5+ 41-42
+Nem dá pra disfarçar
+
+Em7  D        Em7   D9/E         C9 Gb
+Preciso dizer Você faz muita falta
+        Em       Am7
+Não há como explicar
+
+Refrão:
+G           F#5+                Em
+Foi sem Você que eu pude entender
+ Bm          C9     Am7
+Que não é fácil viver sem Te ter
+G          F#5+           Em
+Meu coração me diz que não
+  Bm        C9     Em       Am7 Gb
+Eu não consigo viver sem Você
+Cm
+Sem Você
+
+(repete a partir da P-2)
+
+----------------- Acordes -----------------
+Am7*  = X 0 2 0 1 0 - (*G#m7 na forma de Am7)
+Bm*  = X 2 4 4 3 2 - (*A#m na forma de Bm)
+C9*  = X 3 5 5 3 3 - (*B9 na forma de C9)
+Cm*  = X 3 5 5 4 3 - (*Bm na forma de Cm)
+D*  = X X 0 2 3 2 - (*C# na forma de D)
+D4*  = X X 0 2 3 3 - (*C#4 na forma de D4)
+D9/E*  = X X 2 2 3 0 - (*C#9/D# na forma de D9/E)
+Em*  = 0 2 2 0 0 0 - (*D#m na forma de Em)
+Em7*  = 0 2 2 0 3 0 - (*D#m7 na forma de Em7)
+F#5+*  = 2 5 4 3 2 X - (*F5+ na forma de F#5+)
+G*  = 3 2 0 0 0 3 - (*F# na forma de G)
+G4*  = 3 5 5 5 3 3 - (*F#4 na forma de G4)
+Gb*  = 2 4 4 3 2 2 - (*F na forma de Gb)

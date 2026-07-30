@@ -1,0 +1,108 @@
+@titulo: esse-filho-e-meu
+@autor:
+@intérprete: Henrique e Juliano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Henrique e Juliano - Esse Filho É Meu
+
+[Intro] A E D9 A E
+
+      A
+Tudo bem
+
+Que é só uma vez
+              E
+Foi só uma ficada
+                                 Bm
+Você me convidou pra ir na sua casa
+                D               A
+E depois desse dia nunca mais ligou
+
+E
+Ligou Não
+      A
+Tudo bem
+                                    E
+Sua amiga falou que voltou pro seu ex
+                                      Bm
+Mas não se arrependeu do que a gente fez
+
+                D                    E
+E a partir de agora é cada um pra um lado
+
+C#7
+E sete anos depois
+                        F#m   E
+Te encontrei no supermercado
+D
+Você com a sua família
+                E
+Eu fiquei assustado
+
+              A
+Pelo amor de Deus
+                      E
+Esse moleque é minha cara
+                             Bm
+Não tem nada a ver com esse cara
+      D                 A
+Que ele tá chamando de pai
+    E
+Ai ai
+              A
+Pelo amor de Deus
+                      E
+Esse moleque é minha cara
+                        Bm
+Me diz porque você não fala
+     D                A
+E assume o que aconteceu
+      E                     A
+Fala logo que esse filho é meu
+
+[A E D9 A E]
+
+C#7
+E sete anos depois
+                        F#m   E
+Te encontrei no supermercado
+D
+Você com a sua família
+                E
+Eu fiquei assustado
+
+              A
+Pelo amor de Deus
+                      E
+Esse moleque é minha cara
+                             Bm
+Não tem nada a ver com esse cara
+      D                 A
+Que ele tá chamando de pai
+    E
+Ai ai
+              A
+Pelo amor de Deus
+                      E
+Esse moleque é minha cara
+                        Bm
+Me diz porque você não fala
+     D                A
+E assume o que aconteceu
+      E                     A
+Fala logo que esse filho é meu
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C#7 = X 4 3 4 2 X
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

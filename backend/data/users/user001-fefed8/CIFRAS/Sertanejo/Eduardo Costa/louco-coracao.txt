@@ -1,0 +1,107 @@
+@titulo: louco-coracao
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Louco Coração
+
+Intro: Am F C G
+
+    Am
+Passou como um furacão
+          F
+Tantos carinhos, noites de paixão
+         C                         G
+Sonhos que viraram ilusão, uma história de amor
+         Am
+Tudo acabou em desilusão
+       F
+É o desejo desse pecador
+       C                           G
+Deixa livre esse coração que o destino enganou
+
+       F
+Só restou desta lenta agonia
+ G   Am                   G
+Músicas com tristes melodias
+        F
+Que me lembram que eu não posso mais
+
+G    Am             G         F
+Entregar meu pobre louco coração
+                    G4  G
+Pra quem não sabe amar
+
+
+Refrão:
+
+ C
+Vai, vai, vai embora da minha vida,
+ G
+Vai, vai, fica com saudade
+     Dm                         C/E       F
+Não vai achar ninguém que te ame tanto assim
+    G
+Por isso, vai...
+ C
+Vai, vai, levanta e cai fora,
+ G
+Vai, vai, agora é a hora
+ Dm                               C/E      F
+Tudo o que eu preciso, tudo o que eu quero é...
+    G           Am
+Um verdadeiro amor
+           F
+Ouô ou uô uô
+          C
+Ouô ou ou ô
+            G
+Ô uô ou uô uô
+
+
+(Repete tudo até o refrão)
+
+A   D
+   Vai...
+
+(Vai, vai embora da minha vida
+ A
+Vai, vai, fica com saudade)
+     Em             D/F#     G    A                D
+Não vai achar ninguém que te ame, o quanto eu te amei...
+
+(Vai, vai, levanta e cai fora,
+ A
+Vai, vai, agora é a hora)
+ Em                             D/F#       G
+Tudo o que eu preciso, tudo o que eu quero é...
+    A          Bm
+Um verdadeiro amor...
+            G
+(Ouô ou uô uô
+          D
+Ouô ou ou ô
+             A
+Ô uô) ou uô uô
+
+Vai...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G4 = 3 5 5 5 3 3

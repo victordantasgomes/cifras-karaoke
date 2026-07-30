@@ -1,0 +1,84 @@
+@titulo: cantiga-de-ninar
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Cantiga de Ninar
+
+De: Raul Seixas/ Paulo Coelho
+
+
+Intr.: D7 Cm7 G7+ Cm7 D7/9- G7+
+
+vocalização
+         G7+         D/F#
+Nada tão belo como a criança
+        Em7   G7
+     dormindo
+            C7+       E7
+Nem tão profundo como dormir
+            Am7
+     sem sonhar
+          Cm7         B7/5+
+Nem tão antigo como o sonho
+              Em7
+     dos teus olhos
+            Am7         D7
+Nem tão distante como a hora
+            G7+
+     de acordar
+
+         Am7         D7/9-
+Dorme enquanto o teu pai  faz
+      Bm7
+     músicas
+        Am7      D7/9-  G7+
+Que é a forma dele   rezar
+         Am7       D7/9-  G7+
+Todos os sonhos na reali..dade
+     E7     Am7
+     são verdade se eu
+  D7      G7+
+puder cantar
+     G7+   D/F#       Em7  G7
+Você chora quando tem fome,
+             C7+
+     mas vem logo uma
+       E7 Am7
+     mamadeira
+     Cm7         Em7  E7
+Amanhã  se você chora,  vai
+         Am7     D7     G7+
+     chorar  tua vida inteira
+        C7+           Bbº
+Fiz meu rumo por essa terra
+        Bm7         C7+
+Entre o fogo que o amor
+        Bm7  Em7
+     consome
+      C7+     Cm7      G7+   Em7
+Eu lutei  mas perdi a guerra
+      Am7      D7/9-   C7+  G7+
+Eu só posso te dar meu no...me
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+B7/5+ = X 2 X 2 4 3
+Bbº = X 1 2 0 2 0
+Bm7 = X 2 4 2 3 2
+C7+ = X 3 2 0 0 X
+Cm7 = X 3 5 3 4 3
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+D7/9- = X 5 4 5 4 X
+E7 = 0 2 2 1 3 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3
+G7+ = 3 X 4 4 3 X

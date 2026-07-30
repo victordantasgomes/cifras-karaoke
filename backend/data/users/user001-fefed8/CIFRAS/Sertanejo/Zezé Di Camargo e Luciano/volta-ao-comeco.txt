@@ -1,0 +1,72 @@
+@titulo: volta-ao-comeco
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Zezé Di Camargo e Luciano - Volta Ao Começo
+
+Capo Casa 2
+
+[Intro] G  C  D7  Em  C  G  C  G  C  G
+
+G                         D
+Todo caminho tem,ida e volta
+                              G  C  G  C
+E um coração, alguém que já amou
+G                           D
+Um campeão se mostra na derrota
+C               D                G  C  G  Am7  G/B
+Na força pra lutar quando já cansou
+C                     D          Em  D7  G
+O quarto é frio e a cama ainda queima
+G                              D  G7
+Só de lembrar quem nela se deitou
+
+ C                 D               Em    D7  G
+Minha história é essa, esse é o problema,
+G                 D             G   C
+A ferro e fogo o amor marca deixou
+G                    D
+Toda saída tem a sua porta
+
+               D           G   C
+O que se faz aqui se vê depois
+G                          D
+A faca é cega ,mas ainda corta
+C                   D             G   C  G  Am7  G/B
+Quem disse o que já era ainda não foi
+C                     D             Em   D7  G  C
+Estou morrendo aos poucos, esse é o preço
+G                             D
+De amar quem nunca teve tal valor
+ C            D          Em  C  D7
+Um dia ainda volto ao começo
+  G               D             G  C  G  Am7  G/B
+E apago então as marcas desse amor
+C                    D            Em    D7  G
+O quarto é frio e a cama ainda queima,
+  G                            D   G7
+ só de lembrar quem nela se deitou
+ C                 D             Em   C  D7
+Minha  história é essa, esse é o problema,
+  G               D             G  C  G  Am7  G/B
+A ferro e fogo o amor marca deixou
+  C            D       Em  C   G                 D             C  G
+Um dia ainda volto ao começo   e apago então as marcas desse amor
+
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+Am7*  = X 0 2 0 1 0 - (*Bm7 na forma de Am7)
+C*  = X 3 2 0 1 0 - (*D na forma de C)
+D*  = X X 0 2 3 2 - (*E na forma de D)
+D7*  = X X 0 2 1 2 - (*E7 na forma de D7)
+Em*  = 0 2 2 0 0 0 - (*F#m na forma de Em)
+G*  = 3 2 0 0 0 3 - (*A na forma de G)
+G/B*  = X 2 0 0 3 3 - (*A/C# na forma de G/B)
+G7*  = 3 5 3 4 3 3 - (*A7 na forma de G7)

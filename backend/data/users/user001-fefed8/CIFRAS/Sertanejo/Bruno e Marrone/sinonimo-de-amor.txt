@@ -1,0 +1,127 @@
+@titulo: sinonimo-de-amor
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Sinônimo de Amor
+
+(intro) C F Dm G F
+
+(solo)
+E|-12-12-12-12-10-8-5/7-7-7-7-7-7h8-5---5-5-7-8-7--7-7-8-10-10-12-8--------|
+B|-------------------------------------------------------------------------|
+G|-------------------------------------------------------------------------|
+D|-------------------------------------------------------------------------|
+A|-------------------------------------------------------------------------|
+E|-------------------------------------------------------------------------|
+
+C           G/B                  Am
+Estou aqui olhos nos olhos com você
+      Gm7    C     F
+tô querendo te dizer
+         C/E          Dm
+O que eu sinto de verdade
+    Dm                Dm7+
+é mais bonita do que tudo
+           Dm7
+que há na terra
+       F                G7                     C   G
+Semeia a paz onde tem guerra é o sinônimo do amor
+
+         C                        A7
+Um sentimento que até junto da saudade
+                    A/C#
+tão difícil de explicar
+       A                Dm
+bem mais fácil de entender
+            F             G/F
+só sei que sou grato por tudo
+        C/E
+mãe querida
+      Am              Dm Em
+Vai durar mais de uma vida
+  F         G       C    G
+se eu começar a agradecer
+C                      C7+               Dm7
+Me deu luz me trouxe a paz / Me deu o mundo
+        F7+            G       C     G
+Eu te adoro desde o primeiro segundo
+         C            Gm7  C/E       F    Fm
+É pai e mãe / É o meu chão, / melhor amiga   és o
+    C                 Dm  G      C   (começa o solo novamente)
+meu anjo / Eu vou te amar por toda a vida
+
+(começa o solo quando fazer a ultima nota. "C")
+
+C           G/B                Am
+Estou aqui olhos nos olhos com você
+      Gm7  C7   F
+tô querendo te dizer
+           Am          Dm
+O que eu sinto de verdade
+       Dm            Dm7+
+é mais bonita do que tudo
+           Dm7
+que há na terra
+         F              G7                   C   G
+Semeia a paz onde tem guerra é o sinônimo do amor
+       C                        A7
+Um sentimento que até junto da saudade
+                 A7/C#
+tão difícil de explicar
+        A              Dm
+bem mais fácil de entender
+            F             G/F
+só sei que sou grato por tudo
+        C/E
+mãe querida
+      Am              Dm C/E
+Vai durar mais de uma vida
+ F     G          C     G
+se eu começar a agradecer
+C                      C7+            Dm
+Me deu luz me trouxe a paz / Me deu o mundo
+        F            G         C     G
+Eu te adoro desde o primeiro segundo
+         C              Gm7  C7       F  Fm
+É pai e mãe / É o meu chão, / melhor amiga   és o
+    C                 Dm     G     C   G
+meu anjo / Eu vou te amar mamãe querida
+
+C                      C7+            Dm
+Me deu luz me trouxe a paz / Me deu o mundo
+        F             G         C     G
+Eu te adoro desde o primeiro segundo
+         C            Gm7    C7       F   Fm
+É pai e mãe / É o meu chão, / melhor amiga   és o
+    C                  G7           C   F     C   F                C
+meu anjo / Eu vou te amar mamãe queridaaaaa....        por toda vida.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+A7/C# = X 4 5 2 5 X
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C7 = X 3 2 3 1 X
+C7+ = X 3 2 0 0 X
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Dm7+ = X X 0 2 2 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F7+ = 1 X 2 2 1 X
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/F = 1 X X 0 0 3
+G7 = 3 5 3 4 3 3
+Gm7 = 3 X 3 3 3 X

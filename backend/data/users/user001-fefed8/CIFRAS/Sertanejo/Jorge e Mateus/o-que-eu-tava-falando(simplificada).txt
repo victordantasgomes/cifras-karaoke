@@ -1,0 +1,10 @@
+@titulo: o-que-eu-tava-falando(simplificada)
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:

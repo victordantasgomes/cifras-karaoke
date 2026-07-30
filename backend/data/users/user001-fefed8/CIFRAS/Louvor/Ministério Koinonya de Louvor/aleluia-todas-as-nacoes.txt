@@ -1,0 +1,38 @@
+@titulo: aleluia-todas-as-nacoes
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - Aleluia, Todas As Nações
+
+G A D Bm G    A  D 
+ALELUIA, ALELUIA
+G                D/F#
+AO QUE NO TRONO ESTÁ
+C            A4 D/F#
+HONRA E LOUVOR
+G        C      G       A   D/F#
+E AO CORDEIRO FILHO DE DEUS
+G A D Bm G   A  D 
+ALELUIA, ALELUIA
+G           D/F#           C     A4  D/F#
+TODAS AS NAÇÕES VIRÃO E ADORARÃO
+G           C        G     A   D/F#
+AQUELE QUE VENCEU E RESSUSCITOU
+G A D Bm G    A  D 
+ALELUIA, ALELUIA
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+G = 3 2 0 0 0 3

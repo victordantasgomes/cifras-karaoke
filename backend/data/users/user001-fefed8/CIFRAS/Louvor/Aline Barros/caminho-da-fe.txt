@@ -1,0 +1,76 @@
+@titulo: caminho-da-fe
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Caminho da Fé
+
+[Intro] B9  D#m7/9  G#m  A#m7  D#m7/9
+        B9  D#m7/9  G#m  A#m/F#  B/E  B6/C#  E/D  D  B/C#
+
+      F#                   B9/C#      C#
+Cada dia que se passa, são lutas sem cessar
+         F#         F#/A#        B  F#/A#     G#m         C#/F
+Que as vezes você pensa em desistir, mas Deus está contigo
+    A#m7     D#m7              B        G#m         E7M   B/C# C#7
+Por onde tu andares vai nessa força que você vai conseguir
+       F#     A#m7       B7M       B/C#      F#        E/G#
+Eu nao vejo o porque, de você abandonar tudo aquilo que Jesus
+F#/A#        B  F#/A#      G#m    C#/F  A#m7           D#m7
+Tem pra te dar, mas olhe para o alto e veja o céu tao perto
+   B           G#m        E7M    C# B/D# C#/F
+Jesus estar juntinho de você, você!
+F#         B           C#9
+Quero ver você sempre sorrindo
+    F#   G#m7 F#/A#  B7M  C#9
+Coração que se abre pra fé
+  F#/A#          B7M        C#9
+E mesmo que haja pedras no caminho
+
+      F#      G#m7 F#/A# B7M  C# F#
+Jesus Cristo sempre te põe de pé
+
+[Solo] G  C9/D  D  G  G/B  C  G/B
+
+( Am7  D/F#  Bm7  B/D#  Em7  C  Am7  F7M  C/D  D  C )
+
+----------------- Acordes -----------------
+A#m7 = X 1 3 1 2 1
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+B/C# = X 6 X 4 7 7
+B/D# = X 6 X 4 7 7
+B/E = X 7 9 8 7 7
+B6/C# = X 4 4 4 4 4
+B7M = X 2 4 3 4 2
+B9 = X 2 4 4 2 2
+B9/C# = X 4 4 4 2 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#/F = X 8 X 6 9 9
+C#7 = X 4 3 4 2 X
+C#9 = X 4 6 6 4 4
+C/D = X X 0 0 1 0
+C9/D = X 5 5 5 3 3
+D = X X 0 2 3 2
+D#m7 = X X 1 3 2 2
+D#m7/9 = X 6 4 6 6 X
+D/F# = 2 X 0 2 3 2
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+E7M = X X 2 4 4 4
+Em7 = 0 2 2 0 3 0
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F7M = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4
+G#m7 = 4 X 4 4 4 X
+G/B = X 2 0 0 3 3

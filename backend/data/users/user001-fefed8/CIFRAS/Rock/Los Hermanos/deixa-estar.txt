@@ -1,0 +1,105 @@
+@titulo: deixa-estar
+@autor:
+@intérprete: Los Hermanos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Los Hermanos - Deixa Estar
+
+Intro:
+(Guitarra e Baixo)
+E|-------------------------------|
+B|-------------------------------|
+G|-------------------------------|   (6x)
+D|---------2------9-9-9-9-9-9-9--|
+A|-----2-3-----------------------|
+E|--0----------------------------|
+
+(Guitarra)
+e|----------------------------------------------------------------|
+B|----------------------------------------12----------------------|
+G|------------------------------11-----12----12-11-12-9-11--------|
+D|-------9-11-12-11-----9--11-12----------------------------12-9--|
+A|------------------12--------------------------------------------|
+E|----------------------------------------------------------------|
+
+e|-----------------------------------------10---------------------|
+B|-------------------------------12----12-----12-10-12-8-10-------|
+G|----9--9-9-11-12-11----9-11-12----------------------------11-9--|
+D|--------------------12------------------------------------------|
+A|----------------------------------------------------------------|
+E|----------------------------------------------------------------|
+
+
+( Fm  F#m  F#m  F#m  F#m ) (3x)
+
+( Fm  F#m  Fm  Em )
+
+Dm
+Ligue (5x) para mim
+                                Gm
+Diga (5x) que me ama que eu não vou mais implorar
+   C      A7           Dm   A
+Se quer saber, deixa estar
+Dm
+Digo que não ligo mas não vivo sem você.. Falo, não me calo, tiro sarro só pra ver se eu con-
+Gm               C    A7           Dm7     C7 Dm G Dm7 C7      (4 acordes aleatórios)
+sigo despertar o seu amor, deixa estar
+
+   Dm7 C7 Dm G (2x)
+Eu sei, que na verdade eu não consigo entender o nosso amor,
+   Dm7 C7 Dm G (2x)
+Que teu silêncio fala alto no meu peito e que nós
+Em7  D Em7 A7 (2x)                                    B
+Dois, estamos juntos na distância, discrepância do destino
+
+Dm
+Ziguezaguiando zonzo de te procurar
+                                                       Gm
+eu tranco no meu pranto o canto alto de euforia que eu queria te cantar
+    C      A7
+Guardo pra mim,
+        Dm
+Deixa estar
+Dm
+Sei que fez um mês entre vocês de união
+
+                                                  Gm
+Pouco muito pouco quase nada, nesta estrada você está na contramão
+    C   A7           Dm7 C7 Dm G Dm7 C7 Dm7 A7
+E a solidão, deixa estar
+
+Dm7 C7 Dm G (2x)
+Vocês, vão aprender que nesta vida não se pode mais errar,
+Dm7 C7 Dm G (2x)
+Vão descobrir que entre as estrelas e o chão existe o mar
+Em7  D Em7 A7 (4x)                                                                      B
+E aí então a euforia um belo dia vai passar.. E cairá sobre seu mundo num segundo a traição
+
+( Dm )
+
+( Em )
+
+           Dm
+Deixa estar...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#m = 2 4 4 2 2 2
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

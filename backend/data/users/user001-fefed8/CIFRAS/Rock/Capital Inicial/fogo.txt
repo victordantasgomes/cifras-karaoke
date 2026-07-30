@@ -1,0 +1,122 @@
+@titulo: fogo
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Fogo
+
+(dedilhado intro 2x)
+
+  Gm7       Bb7M      Am7
+E|------------------------------------------|
+B|-----3---------3---------1---------2------|
+G|-------3---------2---------0---------0----|
+D|---3---------3---------2---------2--------|
+A|-----------1-------1-0-------0-0-------0--|
+E|-3-------3--------------------------------|
+
+(primeira parte)
+
+ Gm7            Bb7M      Am7                 Gm7  Bb7M  Am7
+Humm... Você é tão acostumada a sempre ter razão
+ Gm7            Bb7M      Am7                      Gm7     Bb7M  Am7
+Humm... Você é tão articulada quando fala não pede atenção
+
+(ritmo primeira parte)
+
+   Gm7             Bb7M
+E|--------x---------------x-----------------|
+B|--3-----x-3-------3-----x-3---------------|
+G|--3---3-x-3-------2---2-x-2---------------|
+D|----3---x-----------3---x-----------------|
+A|--------x---0-----1-----x---1-------------|
+E|--3-----x---------------x-----------------|
+
+
+   Am7
+E|--------x--------------x------------------|
+B|--1-----x-1------1-----x-1----------------|
+G|--0---0-x-0------0---0-x-0----------------|
+D|----2---x----------2---x------------------|
+A|--0-----x---0----0-----x---0--------------|
+E|--------x--------------x------------------|
+
+
+     Gm7    Bb7M      Am7
+O poder de dominar é tentador
+           Gm7   Bb7M Am7         Gm7  Bb7M  Am7
+Eu já não sinto nada sou todo torpor
+
+       Gm7    Bb7M             Am7
+É tão certo quanto o calor do fogo
+       Gm7    Bb7M             Am7
+É tão certo quanto o calor do fogo
+           Gm7             Bb7M      Am7
+Eu já não tenho escolha e participo do seu jogo
+
+Eu participo...
+
+(refrão)
+Dm               C/D             Dm
+  Não consigo dizer se é bom ou mau
+             C/D
+Assim como o ar me parece vital
+Bb9                 C/Bb                 Bb9
+  Onde quer que eu vá o que quer que eu faça
+       Gm7   Am7
+Sem você,   não tem graça
+
+(repete intro)
+
+(segunda parte)
+
+ Gm7          Bb7M        Am7
+Humm... você sempre surpreende
+                 Gm7  Bb7M  Am7
+E eu tento entender
+ Gm7          Bb7M         Am7
+Humm... você nunca se arrepende
+                     Gm7       Bb7M  Am7
+Você gosta e sente até prazer
+          Gm7   Bb7M         Am7
+Mas se você me perguntar eu digo sim
+         Gm7           Bb7M     Am7
+Eu continuo porque a chuva não cai
+          Gm7  Bb7M  Am7
+Só sobre mim
+
+        Gm7     Bb7M           Am7
+Vejo os outros todos estão tentando
+       Gm7    Bb7M             Am7
+É tão certo quanto o calor do fogo
+           Gm7             Bb7M      Am7
+Eu já não tenho escolha e participo do seu jogo
+
+Eu participo...
+
+(refrão)
+Dm               C/D             Dm
+  Não consigo dizer se é bom ou mau
+             C/D
+Assim como o ar me parece vital
+Bb9                 C/Bb                 Bb9
+  Onde quer que eu vá o que quer que eu faça
+       Gm7   Am7       Gm7  Bb7M  Am7
+Sem você,   não tem graça
+
+(revisão - Leo Eymard)
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bb7M = X 1 3 2 3 1
+Bb9 = X 1 3 3 1 1
+C/Bb = X 1 2 0 1 X
+C/D = X 5 5 5 5 5
+Dm = X 5 7 7 6 5
+Gm7 = 3 X 3 3 3 X

@@ -1,0 +1,105 @@
+@titulo: mais-uma-vez(simplificada)
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Mais Uma Vez
+
+Intro 4x: A5(9)
+
+Primeira parte:
+         A5(9)
+ Mas é claro que o sol
+         B4
+ vai voltar amanhã
+           C#m7    F#m7  E
+ mais uma vez, eu sei
+        A5(9)
+ Escuridão já vi pior
+            B4
+ de endoidecer gente sã
+               C#m7   F#m7  E
+ espera que o sol já vem
+
+Segunda parte:
+A5(9)
+ Tem gente que está do mesmo lado
+ que você mas deveria estar do lado de lá
+F#m7
+ Tem gente que machuca os outros
+
+D5(9)               E
+ tem gente que não sabe amar
+A5(9)
+ Tem gente enganando a gente
+F#m7
+ veja nossa vida como está
+D5(9)                     E
+ mas eu sei que um dia a gente aprende
+A5(9)                                  F#m7
+ Se você quiser alguém em quem confiar
+ confie em si mesmo
+D5(9)              E
+ Quem acredita sempre alcança
+
+( A5(9) )(3x)
+
+Primeira parte:
+         A5(9)
+ Mas é claro que o sol
+         B4
+ vai voltar amanhã
+           C#m7    F#m7  E
+ mais uma vez, eu sei
+        A5(9)
+ Escuridão já vi pior
+            B4
+ de endoidecer gente sã
+               C#m7   F#m7  E
+ espera que o sol já vem
+
+Segunda Parte (variação):
+A5(9)
+ Nunca deixe que lhe digam que não vale a pena
+ acreditar no sonho que se tem
+F#m7
+  ou que seus planos nunca vão dar certo
+D5(9)                       E
+  ou que você nunca vai ser alguém
+A5(9)
+ Tem gente que machuca os outros
+F#m7
+ tem gente que não sabe amar
+D5(9)                     E
+ mas eu sei que um dia a gente aprende
+A5(9)                                  F#m7
+ Se você quiser alguém em quem confiar
+ confie em si mesmo
+D5(9)              E
+ Quem acredita sempre alcança
+
+Instrumental: ( A5(9)  F#m7 D5(9)  E )
+
+Final 2x:
+A5(9)
+quem acredita sempre alcança
+F#m7
+quem acredita sempre alcança
+D5(9)             E
+quem acredita sempre alcança
+
+( A5(9) )
+
+----------------- Acordes -----------------
+A5(9) = X 0 2 2 0 0
+B4 = X 2 4 4 5 2
+C#m7 = X 4 6 4 5 4
+D5(9) = X 5 7 9 X X
+E = 0 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X

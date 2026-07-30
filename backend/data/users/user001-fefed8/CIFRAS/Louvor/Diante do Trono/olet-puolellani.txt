@@ -1,0 +1,137 @@
+@titulo: olet-puolellani
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Olet Puolellani
+
+Intro: Am F C/E G
+       Am F C/E G
+       Am F C/E G
+
+ Am
+Tuhat kaatu vierelläni
+       F/A
+Tuhansittain ympärilläni
+       G/B
+Mutta minuun kosketa ei
+             Am
+Niin sanoo Herra
+
+ Am
+Tuhat kaatu vierelläni
+       F/A
+Tuhansittain ympärilläni
+       G/B
+Mutta minuun kosketa ei
+             Am
+Niin sanoo Herra
+
+
+Am            C   F
+  Olet puolellani
+G             Am
+  Olet puolellani
+C             F
+  Olet puolellani
+G           Am
+  En pelkää
+              F
+  Olet puolellani
+G             Am
+  Olet puolellani
+C             F
+  Olet puolellani
+G           Am
+  En pelkää
+
+Instrumental: Am F C/E G
+              Am F C/E G
+
+ Am
+Jos sallit mun kulkea läpi tulen
+ Am
+Olet luvannut, liekit mua polta ei
+ Am                                 Am
+Jos sallit mun kulkea läpi suurten vetten
+     F       G     Am
+Tiedän ne hukuttaa mua ei voi
+
+Am            C   F
+  Olet puolellani
+G             Am
+  Olet puolellani
+C             F
+  Olet puolellani
+G           Am
+  En pelkää
+              F
+  Olet puolellani
+G             Am
+  Olet puolellani
+C             F
+  Olet puolellani
+G           Am
+  En pelkää
+
+Am
+Läpi tulen mä käyn mutta pala en
+Am
+Läpi vietten mä meen mutta huku em
+Am
+Herran voimassa hyppään yli muurien
+Am
+Taistelen, valloitan ja voitaa saan
+Bm
+Läpi tulen mä käyn mutta pala en
+Bm
+Läpi vietten mä meen mutta huku em
+Bm
+Herran voimassa hyppään yli muurien
+Bm                              (stop)
+Taistelen, valloitan ja voitaa saan
+Bm      Bm  A/C#
+Voitaa saan
+
+              D   G
+  Olet puolellani
+A             Bm
+  Olet puolellani
+D             G
+  Olet puolellani
+A           Bm
+  En pelkää
+              G
+  Olet puolellani
+A             Bm
+  Olet puolellani
+D             G
+  Olet puolellani
+A
+  En pelkää
+
+Fim: Bm G D/F# A
+            Bm G D/F# A
+     En pelkää
+            Bm
+     En pelkää
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

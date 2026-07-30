@@ -1,0 +1,54 @@
+@titulo: mel-e-aveloz
+@autor:
+@intérprete: Lairton e Seus Teclados
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lairton - Mel e Aveloz
+
+Intro: C G/B Am Em F C G/B Am Am/G D/F# G7+
+
+C                   G   Am               Em
+Eu não sei viver sofrendo, deixa disso e vem me ver
+F              C  G/B   Am  Am/G D/F#
+Vamos tentar novamente amor
+              G7       C               G/B
+Não eiste eu sem você, tua falta me tonteia
+Am              Em
+Tira o sol do meu viver
+F        C   G/B   Am Am/G  D/F#    G7         C
+Teu amor pegou na veia,     causa dor, causa prazer
+E/G#                 Am                       D7
+Eu me perco em teu caminho, já nem sei andar sozinho
+       G7             F                       C
+Vem correndo me buscar, traz o mel do teu sorriso
+                 D/G            G/B
+Pro meu coração menino se ninar quando sonhar
+E/G#        Am                       D7
+Não tem hora nem idade, pra se ter felicidade
+     G7
+Apesar do aveloz
+F        C        Am              D7
+Eu quero beber de novo, toda dor e todo gozo
+G7                     C
+Desse amor que somos nós
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+C = X 3 2 0 1 0
+D/F# = 2 X 0 2 3 2
+D/G = 3 X X 2 3 2
+D7 = X X 0 2 1 2
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3
+G7+ = 3 X 4 4 3 X

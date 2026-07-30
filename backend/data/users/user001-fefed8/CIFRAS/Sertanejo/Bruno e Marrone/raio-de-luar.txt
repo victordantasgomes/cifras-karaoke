@@ -1,0 +1,60 @@
+@titulo: raio-de-luar
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Raio de Luar
+
+(Bruno/ Felipe)
+
+Introdução: (G C9) D7
+
+      G                         C9
+ Não posso acreditar, parece um sonho
+    D/F#                      G
+ Daqueles que dá medo de acordar
+                        C9
+ Estrela cadente, que caiu do céu
+     D/F#        C9          D/F#         C9 D/F#
+ Um brilho, uma luz, um raio      de luar
+    G                    C9
+ Você apareceu tão de repente
+    D/F#                           G
+ Na paz do seu sorriso eu me entreguei
+                          C9
+ Seu beijo açucarado me levou no céu
+     D/F#                    G        D
+ Num toque de magia, eu me apaixonei
+             G
+ Você me prendeu
+
+                             D
+ Me surpreendeu, me tirou o sono
+                 Am           C
+ E eu não sei fingir nem admitir
+                G     D
+ Que tem outro dono
+             G
+ Fogo da paixão
+            G7               C
+ Pura sedução que ninguém esquece
+              G                 D
+ É uma coisa louca, me adoça a boca
+        G
+ E desaparece.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

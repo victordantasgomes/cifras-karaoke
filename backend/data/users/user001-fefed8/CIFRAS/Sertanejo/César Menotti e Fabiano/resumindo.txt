@@ -1,0 +1,78 @@
+@titulo: resumindo
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Resumindo
+
+[Intro] E  F#  A  Am  E  E
+
+E|--------------------------|
+B|--------------------------|
+G|--------------------------|
+D|--2--2--2--4--6--4--------|
+A|--------------------4--4--|
+E|--------------------------|
+
+E|-------------------------------4h5--2-----------------------------------|
+B|-----------------------6h7--5----------5--------------------------------|
+G|-----------------4--6-------------------4h6-----------------------------|
+D|--------3--4--6------------------------------7--6--6--4--6--4--2--1--2--|
+A|--4--6------------------------------------------------------------------|
+E|------------------------------------------------------------------------|
+
+E                              F#
+Já não falo com os amigos, nem jogo mais meu futebol
+   A              Am
+Me pego falando sozinho
+      E
+Não importa se é chuva ou sol
+
+
+E
+Nem tô dormindo direito
+       F#
+Você está até nos sonhos meus
+   A                    Am
+Só sei que fiquei desse jeito
+       E
+Quando seu olhar cruzou com o meu
+    C#m               B
+Resumindo estou apaixonado
+A                E
+Como todos podem ver
+    C#m               B
+Resumindo estou apaixonado
+        A                B7
+E só consigo pensar em você
+  E                   A              B
+Bateu a paixão entrou no coração, e agora?
+A           B        E
+Não dá mais pra esconder
+                A                B
+Seu olhar me flechou acertou, e agora?
+A     B         E
+Me amarrei em você
+                A              B
+A paixão entrou no coração, e agora?
+A           B        E
+Não dá mais pra esconder
+                A                B
+Seu olhar me flechou acertou, e agora?
+A     B         E
+Me amarrei em você
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2

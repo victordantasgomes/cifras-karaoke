@@ -1,0 +1,103 @@
+@titulo: a-mina
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - A Mina
+
+Intro: G  G5+  Em  C  Am  C9  Em
+
+  G       G5+      Em     C
+A luz te queima, a dor te cala
+  C#m7(b5)    C9                     Em
+Curar feridas de um grande amor
+
+  G    G5+     Em      C
+A água seca, o sol se apaga
+  C#m7(b5)       C9               Em
+O mundo inteiro perdeu a cor
+
+Refrão:
+               Am          G Em
+E a vida continua mas você não vê
+                 Am             G Em
+Que ainda existe muita vida para viver
+               Am            G Em
+E o medo do futuro vai fazer nascer
+              C9
+A mina de respostas
+
+
+     G     G5+        Em     C
+Não tem segredo, se é tudo escuro
+  C#m7(b5)    C9                Em
+E nem o fogo pode aquecer
+
+     G       G5+        Em    C
+Foi tanto e pouco, foi sempre nunca
+   C#m7(b5)     C9              Em
+Já não há nada a lhe dizer
+
+Refrão:
+               Am          G Em
+E a vida continua mas você não vê
+                  Am             G Em
+Que ainda existe muita vida para viver
+               Am            G Em
+E o medo do futuro vai fazer nascer
+              C9
+A mina de respostas
+
+               Am          G Em
+E a vida continua mas você não vê
+                 Am             G Em
+Que ainda existe muita vida para viver
+               Am            G Em
+E o medo do futuro vai fazer nascer
+              C9
+A mina de respostas
+
+( G  G5+  Em  C  C#m7(b5)  C9  Em )
+
+     G       G5+        Em    C
+Foi tanto e pouco, foi sempre nunca
+   C#m7(b5)     C9              Em
+Já não há nada a lhe dizer
+
+Refrão :
+               Am          G Em
+E a vida continua mas você não vê
+                 Am             G Em
+Que ainda existe muita vida para viver
+               Am            G Em
+E o medo do futuro vai fazer nascer
+              C9
+A mina de respostas
+
+               Am          G Em
+E a vida continua mas você não vê
+                 Am             G Em
+Que ainda existe muita vida para viver
+               Am            G Em
+E o medo do futuro vai fazer nascer
+              C9
+A mina de respostas
+              C9
+A mina de respostas
+        G  G5+  Em  C  C#m7(b5)  C9  Em
+A mina de respostas
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C#m7(b5) = X 4 5 4 5 X
+C9 = X 3 5 5 3 3
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G5+ = 3 X 1 0 0 X

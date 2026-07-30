@@ -1,0 +1,84 @@
+@titulo: estou-aqui
+@autor:
+@intérprete: Ana Nóbrega
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ana Nóbrega - Estou Aqui
+
+[Intro] F  G4  Am7  G4/B  G4/C
+        F  G4  Am7  G4/B  G4/C
+
+     F           G4    Am7         G4/B  G4/C
+Me sinto tão seco, me sinto sedento
+        Dm                 F7M                C
+Nestas horas pra quem eu irei, se só tenho a Ti
+
+    F           G4   Am7          G4/B  G4/C
+No lugar secreto, o teu refrigério
+         Dm                F7M              C
+Traz a paz ao meu pequeno ser que só tem a Ti
+
+       F9                         C9
+Eu preciso ajustar a visão, aquietar este meu coração
+              Dm                      C
+Preciso te ouvir falar, preciso te ouvir falar
+        F9                          C9
+Vem Senhor segurar minha mão, me tirar desta agitação
+            Dm           G4     G
+Vem me desacelerar, desacelerar
+
+
+         F7M         G4    G
+Estou aqui, és meu amado
+            F7M                   G4   G
+Me rendo a Ti, me toma em Teus braços
+        Em                 Am
+O Teu amor me deixa encharcado, me faz saciado
+                  Em            G4    G
+Quando olhas pra mim sou restaurado
+
+( F  G4  Am7  G4/B  G4/C )
+( F  G4  Am7  G4/B  G4/C )
+
+       F9                         C9
+Eu preciso ajustar a visão, aquietar este meu coração
+              Dm                      C
+Preciso te ouvir falar, preciso te ouvir falar
+        F9                          C9
+Vem Senhor segurar minha mão, me tirar desta agitação
+            Dm           G4     G
+Vem me desacelerar, desacelerar
+
+( F9  C9  Dm  G4  G )
+
+         F7M         G4    G
+Estou aqui, és meu amado
+            F7M                   G4   G
+Me rendo a Ti, me toma em Teus braços
+        Em                 Am
+O Teu amor me deixa encharcado, me faz saciado
+                  Em            G4    G
+Quando olhas pra mim sou restaurado
+         C
+Estou aqui
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C9/E = X X 2 5 3 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F7M = 1 X 2 2 1 X
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+Gsus = 3 2 0 0 0 3
+Gsus/B = X 2 0 0 3 3
+Gsus/C = X 3 5 4 3 3

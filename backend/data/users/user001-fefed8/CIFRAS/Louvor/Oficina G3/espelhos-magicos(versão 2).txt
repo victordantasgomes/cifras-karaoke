@@ -1,0 +1,60 @@
+@titulo: espelhos-magicos(versão 2)
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - Espelhos Mágicos
+
+Intro: Piano [Bm A F#m G Em A B7m]2x
+
+Bm             A      G        Bm      G   A
+  Os homens e seus espelhos mágicos.
+Bm     A     G          Bm     G   A   (G F#m Em)
+  Nada vêem além de si mesmos.
+Em              F#m           G                 A
+ Se esqueceram daquele que um dia esteve entre nós.
+Em      F#m        G         A          Bm
+ E que veio cumprir, segundo já estava escrito.
+   G      A      F#m     G                   A            Bm
+Nasceu, sofreu, morreu por nós,  seu sangue lá na cruz derramou
+   G        A
+Nasceu, sofreu...
+Bm             A      G        Bm      G  A
+  Os homens e seus espelhos mágicos.
+Bm             A       G       Bm     G   A  (G F#m Em)
+  Só vêem um Cristo vencido em dor.
+Em              F#m        G              A
+ Não conhecem a cruz vazia, pois ressuscitou.
+Em      F#m            G             A   Bm
+ E nem o toque de vida, do Filho do Amor
+
+   G      A      F#m      G                   A            Bm
+Nasceu, sofreu, morreu por nós,  seu sangue lá na cruz derramou (2x)
+   G             A                    F#7
+Na cruz lutou, na cruz venceu e Sua vida nos deu
+          Bm       A         G  A
+Prá que a vida estivesse em nós.
+
+SOLO: G A F#m7 G F#m Em A Bm
+
+   G      A      F#m      G                   A            Bm
+Nasceu, sofreu, morreu por nós,  seu sangue lá na cruz derramou   (2x)
+   G              A                   F#7
+Na cruz lutou, na cruz venceu e Sua vida nos deu                 FINAL
+          Bm       A        G  A                 [Bm A G Bm G A Bm] 2x (termina no ultimo "A")
+Prá que a vida estivesse em nós   estivesse em nós...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+Em = 0 2 2 0 0 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

@@ -1,0 +1,88 @@
+@titulo: sou-feliz
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Sou Feliz
+
+[Intro] D#9  D#4  D#  D#9
+        D#9  D#4  D#  D#9
+        D#/A#  D#/G  G#  Fm
+        D#/A#  D#/G  G#  Fm
+
+    D#         D#9    D#4       D#
+Se paz a mais doce me deres gozar
+    Fm         C#       A#        D#        Fm
+Se dor a mais forte sofrer, oh! seja o que for
+       C#    A#            D#      D#4          D# D#4
+Tu me fazes saber que feliz com Jesus sempre sou!
+
+        D#  D#4       A#   Eb/G
+Sou feliz,      com Jesus
+      G#         A#           D#  D#4
+Sou feliz com Jesus, meu Senhor!
+        D#  D#4       A#   Eb/G
+Sou feliz,      com Jesus,
+      G#         A#
+Sou feliz com Jesus, meu Senhor!
+
+
+( D#  D#4 )
+
+  D#        Fm        C#        D#
+Embora me assalte o cruel Satanás
+   Fm         C#       A#
+E ataque com vis tentações
+     D#        Fm       C#         A#
+Oh! certo eu estou, apesar de aflições
+       D#     D#4         D#    D#4
+Que feliz eu serei com Jesus!
+
+        D#  D#4       A#   Eb/G
+Sou feliz,      com Jesus
+      G#         A#           D#  D#4
+Sou feliz com Jesus, meu Senhor!
+        D#  D#4       A#   Eb/G
+Sou feliz,      com Jesus
+      G#         A#
+Sou feliz com Jesus, meu Senhor!
+
+[Solo] Cm  G#  Cm   G#
+       Fm  Cm  Cm/D#
+       Fm  Cm  G#  A#
+
+    D#       Fm        C#       A#
+Ao céu onde vou para sempre morar
+     D#          D#4        ( D#  Fm  Eb/G  G# )
+Com remidos na luz do Senhor
+
+       D#         A#   Eb/G
+Sou feliz, com Jesus
+      G#       A#           D#  D#4
+Sou feliz com Jesus, meu Senhor!
+       D#         A#   Eb/G
+Sou feliz, com Jesus
+      G#       A#
+Sou feliz com Jesus, meu Senhor!
+
+( D#/A#  D#/G  G#  Fm )
+( D#/A#  D#/G  G#  Fm )
+( D# )
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+C# = X 4 6 6 6 4
+Cm = X 3 5 5 4 3
+D# = X 6 5 3 4 3
+D#/G = 3 X 1 3 4 X
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+Gm = 3 5 5 3 3 3

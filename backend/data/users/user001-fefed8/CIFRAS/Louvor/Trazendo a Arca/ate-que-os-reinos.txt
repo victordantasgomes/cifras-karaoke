@@ -1,0 +1,61 @@
+@titulo: ate-que-os-reinos
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Até Que Os Reinos
+
+Tom: E
+
+Intro: A B F#m E/G#
+
+                  B C#m  A
+Até que os reinos desse mundo
+            F#m G#m            C#m   B C#m
+Sejam do senhor,    sejam do senhor
+                    A
+E todos os seus inimigos
+               F#m G#m                C#m   B C#m
+Caiam aos teus pés,    caiam aos seus pés
+                           A  G#m  A
+Até que os reinos desse mundo
+            F#m G#m            C#m   B  C#m
+Sejam do senhor,    sejam do senhor
+                   A  G#m  A
+E todos os seus inimigos
+              F#m G#m               C#m
+Caiam aos seus pés,   caiam aos seus pés
+
+               A              B/A
+Disse o meu Senhor, ao meu Senhor
+  G#m               C#m
+Assenta-te a minha destra
+      B    A             B/A
+E eu colocarei aos seus pés
+G#m        C#m
+Os teus inimigos
+
+     A       G#m       A                 C#m   E B
+Teu reino virá e tua glória encherá toda terra
+A       G#m       A                   C#m   E B
+E as nações servirão ao cordeiro pra sempre
+
+[1ª Vez: Intro direto   ]
+[2ª Vez: C#m D#m E  G#m ]
+[    ou: C#5 D#5 E5 G#m ]
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

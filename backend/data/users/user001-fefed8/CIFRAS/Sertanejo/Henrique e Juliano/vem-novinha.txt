@@ -1,0 +1,78 @@
+@titulo: vem-novinha
+@autor:
+@intérprete: Henrique e Juliano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Henrique e Juliano - Vem Novinha
+
+Intro: D#m  B   F#   C#
+
+Solo intro - 1ª parte:
+E|--------------------------------------------------------|
+B|--------------------------------------------------------|
+G|--------------------------------------------------------|
+D|--------------------------------------------------------|
+A|6--6-8-9-8-6---4h6~--9-8-6--------------------8---6-8---|
+E|-------------9-------------9-6--6-8-9-8-6-4-9---9-----9-|
+
+Solo intro - 2ª parte:
+E|--------------------------------------------------------|
+B|--------------------------------------------------------|
+G|--------------------------------------------------------|
+D|--------------------------------------------------------|
+A|6--6-8-9-8-6---4h6~--9-8-6----------------8-------------|
+E|-------------9-------------9-6--6-8-9-6-9---9~----------|
+
+D#m                     B
+Ai novinha você vai me matar desse jeito
+F#                    C#
+Eu tô viajando vendo você rebolar
+
+D#m                      B
+Os cara tudo pira nesse teu corpo perfeito
+F#                      C#
+No arrocha você sobe e desce sem parar
+D#m                     B
+E você chega na balada cheia de má intenção
+F#                  C#
+De vestido curto, chamando atenção
+D#m
+Consegue tudo que quer
+B
+Com esse seu jeito de olhar
+F#              C#                     B      C#
+E quando rebola, ai ai ai isso não vai prestar
+
+Refrão:
+D#m       B
+Vem novinha delícia do papai
+F#                         C#
+Que as mina tudo pira no jeito que o papai faz
+D#m                B
+Vem novinha que eu tô louco pra ver
+F#                           C#
+O que esse teu corpo gostoso é capaz de fazer
+D#m           B
+Vem novinha delícia do papai
+F#                        C#
+Que as mina tudo pira no jeito que o papai faz
+D#m                B
+Vem novinha que eu tô louco pra vê
+F#                           C#
+O que esse teu corpo gostoso é capaz de fazer
+D#m  B      F#    C#
+Êê            êê êê é hoje que eu vou arrochar você
+D#m  B      F#     C#                           D#m
+Êê            êê êê me provocou agora cê vai ver
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+D#m = X X 1 3 4 2
+F# = 2 4 4 3 2 2

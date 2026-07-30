@@ -1,0 +1,95 @@
+@titulo: cavalo-preto
+@autor:
+@intérprete: Victor e Leo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Victor e Leo - Cavalo Preto
+
+Intro: D A D A G F#m Em D
+
+ D                    A
+Eu tenho um cavalo preto
+                 D
+Por nome de ventania
+ G                  A
+Um laço de doze braças
+                  D
+Do couro de uma novilha
+G                    A
+Tenho um cachorro bragado
+                      D
+Que é prá minha companhia
+                  A
+Sou um caboclo folgado
+               D
+Ai eu não tenho família.
+
+ D                  A
+No lombo do meu cavalo
+
+                    D
+Eu viajo o dia inteiro
+G                       A
+Vou de um estado pro outro
+                    D
+Eu não tenho paradeiro
+ G                    A
+Quem quiser ser meu patrão
+                     D
+Me ofereça mais dinheiro
+                   A
+Eu sou muito conhecido
+                   D
+Por esse Brasil inteiro
+
+ D                  A
+Tenho uma capa gaúcha
+                          D
+Que eu troquei num boi carreiro
+  G                    A
+Tenho dois pelego grande
+
+                      D
+Que é pura lã de carneiro
+ G                  A
+Um me serve de colchão
+                    D
+E outro de travesseiro
+                    A
+Com a minha capa gaúcha
+                       D
+Eu me cubro o corpo inteiro
+
+ D                        A
+Adeus que eu já vou partindo
+                      D
+Vou pousar noutra cidade
+ G                     A
+Depois de amanhã bem cedo
+                   D
+Quero estar em Piedade
+G                     A
+Deus me deu esse destino
+                D
+E muita felicidade
+                        A
+Quando eu passo com meu Pingo
+                      D
+Deixo um rastro de saudade
+              A
+Saudadeeeeeeeeeee
+                    D
+Saudadeeeeeeeeeeeeeeeee
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

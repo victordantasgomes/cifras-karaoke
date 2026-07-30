@@ -1,0 +1,76 @@
+@titulo: incondicionalmente
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Incondicionalmente
+
+Intro 2x: G G7+ C C7+
+
+E|--------10-------------|---3---|------3-----------|---0---|
+B|-----------------------|---3---|------------------|---1---|
+G|-11h12------11--12--11-|---0---|-4h5-----4--5--4--|---0---|
+D|-----------------------|---0---|------------------|---2---|
+A|-----------------------|---2---|------------------|---3---|
+E|-----------------------|---3---|------------------|-------|
+
+G    G7+        G     G7+
+Eu sigo você aonde você for
+C          C7+              C      C7+
+Eu preciso de você para aliviar a minha dor
+G      G7+          G        G7+
+Eu já estive aqui e ouço a sua voz
+C             C7+         C          C7+
+me dizendo que há um oceano entre nós
+
+(Intro 2x)
+
+G      G7+        G     G7+
+Eu sigo você aonde você for
+
+C         C7+         C        C7+
+Eu preciso de você para aliviar a minha dor
+
+C     D         Em
+Te incomoda que eu fale assim
+C     D         Em
+O que mais você quer mudar em mim
+
+Am      Bm        Em
+Você me quer incondicionalmente
+Am      Bm        Em
+ou me quer mais um pouco diferente
+
+(Intro 2x)
+
+G       G7+         G     G7+
+Eu já estive aqui e ouço a sua voz
+C        C7+         C     C7+
+me dizendo que há um oceano entre nós
+
+C        D        Em
+Que tipo de poder te satisfaz
+C        D        Em
+Por que você quer que sejamos tão iguais
+C     D         Em
+Te incomoda que eu fale assim
+C     D         Em
+O que mais você quer mudar em mim
+
+(Refrão 2x)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G7+ = 3 X 4 4 3 X

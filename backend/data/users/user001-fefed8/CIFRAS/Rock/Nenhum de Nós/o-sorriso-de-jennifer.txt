@@ -1,0 +1,93 @@
+@titulo: o-sorriso-de-jennifer
+@autor:
+@intérprete: Nenhum de Nós
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nenhum de Nós - O Sorriso de Jennifer
+
+      Intro: ( E E7+ F#m B E E7+ F#m B  B/A  B/G#  B/F# )
+
+G
+Jennifer
+    D
+Decidiu Sair
+        Em
+Com sua roupa nova
+  C
+Extravagante
+Am              Am/G
+Muita maquiagem
+    D/F#     D
+Decidiu sair
+
+G
+Jennifer
+         D
+Sempre andava só
+      Em
+A qualquer hora do dia
+
+  C
+A sua companhia
+ Am              Am/G
+Apenas o sorriso
+          D/F#    D
+Quando andava só
+
+G
+Jennifer
+     D
+É um pouco tarde
+       Em          C
+Para andar sozinha
+          Am        Am/G
+A noite está escura
+                D/F#  D
+Sem brilho, sem lua
+        B
+Agora é tarde
+
+        E       E7+  A
+        Jennifer
+          F#m        B
+        O mundo é cruel
+        E       E7+  A
+        Jennifer
+          F#m         A           B
+        O teu sorriso não te protegeu
+              C#m        A
+        Dessa falta de amor
+              G#m      F#m
+        Da estupidez humana
+              A       A/G#   A/F#
+        De alguém que não consegue
+        A/E   B
+        Ver você feliz
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/E = 0 X 2 2 2 0
+A/F# = 2 0 2 2 2 0
+A/G# = 4 X 2 2 2 X
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+B/F# = X X 4 4 4 2
+B/G# = 4 X 4 4 4 X
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E7+ = X X 2 4 4 4
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

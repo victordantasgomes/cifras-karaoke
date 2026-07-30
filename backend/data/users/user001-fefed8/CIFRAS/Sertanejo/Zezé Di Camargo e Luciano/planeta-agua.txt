@@ -1,0 +1,79 @@
+@titulo: planeta-agua
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Planeta Água
+
+INTRO: A7  D
+
+A4/7       A7        D                A7
+Água que nasce na fonte serena do mundo  E que abre
+um
+     D4      D  A4/7      A7       D               A7
+profundo grotão Água que faz inocente riacho e
+
+deságua na
+           D4     D
+corrente do ribeirão
+Bm                 F#7             A4/7    A7         G
+Águas escuras dos rios que levam a fertilidade ao
+
+sertão
+Bm                 F#7               A4/7   A7     G
+Águas que banham aldeias e matam a sede da população
+D                    G/D                  A/C#
+Águas que caem das pedras no véu das cascatas, ronco de
+   Bm  F#/Bb                 Bm      Bm/A     G7+      G6
+Trovão E depois dormem tranqüilas no leito dos lagos, no
+
+       D4    D
+leito dos lagos
+
+INTRO: A4/7  A7  D
+
+A4/7       A7     D                   A7             D4
+Água dos igarapés, onde Iara, a mãe d'água é misteriosa
+     D  A4/7        A7       D                 A7
+Canção  Água que o sol evapora, pro céu vai embora, virar
+      D4      D
+nuvem de algodão
+Bm               F#7               A4/7       A7        G
+Gotas de água da chuva, alegre arco-íris sobre a plantação
+Bm               F#7                    A4/7
+Gotas de água da chuva, tão tristes, são lágrimas na
+A7      G  D                   G/D                     A7
+Inundação  Águas que movem moinhos são as mesmas águas que
+            Bm   F#/Bb               Bm       Bm/A     G7+
+encharcam o chão E sempre voltam humildes pro fundo da terra,
+   G6        D       Bm   F#m        G  D    Bm  F#m
+pro fundo da terra  Terra,    planeta água  Terra,   planeta
+G  D    Bm   F#m       G   A4/7  D
+ água  Terra ,  planeta á...gua
+ Bm  F#m         G  D    Bm   F#m        G   D
+Terra,    planeta água  Terra,    planeta água
+ Bm  F#m        G   A4/7   D  A
+Terra ,  planeta á...gua
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4/7 = X 0 2 0 3 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+F#/Bb = 6 X 4 6 7 X
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/D = X 5 5 4 3 X
+G6 = 3 X 2 4 3 X
+G7+ = 3 X 4 4 3 X

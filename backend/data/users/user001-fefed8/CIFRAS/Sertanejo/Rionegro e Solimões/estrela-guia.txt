@@ -1,0 +1,55 @@
+@titulo: estrela-guia
+@autor:
+@intérprete: Rionegro e Solimões
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rionegro e Solimões - Estrela Guia
+
+  Introdução: G Am C D7  D7 G Am C D G
+
+
+
+             G
+  Eu não sei
+                                    Am
+  Que vou fazer da vida sem o seu amor
+                                    D7 
+  Não sei viver um dia sem o seu calor
+                 C                G
+  Me sinto abandonado nessa solidão
+  D7       G 
+  Eu não sei achar o meu caminho 
+                  Am
+  E nem te esquecer sem minha estrela guia
+                D7
+  Eu não sei viver
+               C        D7    G  G7
+  Falta a metade do meu coração
+        C                       D7
+  Seu olhar farol da minha estrada 
+                    G
+  pra eu não me perder
+            D7                                 G  G7
+  Quero amar a falta do seu beijo vai me enlouquecer
+            C
+  Vem pra mim 
+                 D7             G
+  vem matar a fome da minha paixão
+                              D7
+  Todo seu carinho e sua atenção 
+               C         D7     G
+  Vai iluminar a minha escuridão 
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

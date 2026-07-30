@@ -1,0 +1,53 @@
+@titulo: meu-lugar
+@autor:
+@intérprete: Gabriela Rocha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gabriela Rocha - Meu Lugar
+
+Intro: A9  E  F#m  E  D9
+
+      A9
+Aqui em meu lugar
+          E
+Os meus medos se vão
+       F#m
+Só teu amor prevalece
+         D9
+Só teu amor prevalece
+      A9
+Teu sangue me lavou
+       E
+Em ti seguro estou
+     F#m
+Me abraça bem forte
+          D9
+Não me deixe
+
+Refrão:
+
+
+   A9    E
+Eu te amo
+ F#m    D9
+Eu te amo
+          A9
+Acima de tudo
+           E
+Acima de todos
+   F#m
+Eu te amo
+    D9
+Te amo
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,66 @@
+@titulo: nao-mais(simplificada)
+@autor:
+@intérprete: Victor e Leo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Victor e Leo - Não Mais
+
+Intro 2x: Am  C  G  Am
+E|-------------------------------------|
+B|--------------6p5--------------------|
+G|------7-0---------5-7p5-5------------|
+D|--5h7-----7--------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+
+C
+Hei
+G                    Am  F
+Foi tudo tão de repente
+          C           G
+Simplesmente não mais
+Am          F
+Ficaria sem você
+Dm        F    G
+Sem você não mais
+
+C
+Hei
+
+G               Am     F
+Tem coisas que a gente
+        C        G
+Faz e diz tanto faz
+Am                 F
+Só diria pra você:
+Dm
+Sem você,
+F      G
+não mais
+   F
+Sem você
+                   C
+Eu era sozinho sem saber
+      F
+Sem você
+                         C
+Nada inesquecível pra viver
+        Am
+Sem você,
+    F        G  Am
+Não mais não mais
+
+Intro: Am  C  G  Am
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

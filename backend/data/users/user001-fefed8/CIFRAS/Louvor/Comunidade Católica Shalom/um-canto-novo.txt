@@ -1,0 +1,63 @@
+@titulo: um-canto-novo
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - Um Canto Novo
+
+INTRO:  A9  A11  F#m7  G   E/G#  D6/A   Am7(9)
+
+A9                       A11 F#m7 G9
+Eu cantarei um Canto Novo
+Bm7                     C#m7
+Mesmo que tudo concorra pra não
+D7M                   Esus
+Mesmo que tudo queira me destruir
+     A9          Aalt A6 A7
+Deus vê e cuida de mim
+D9               C#m7          Bm7 Esus
+E nada vai me impedir de cantar
+         A9 Aalt
+Um canto novo ao Rei dos reis
+    A6           A7
+Sua glória entoarei
+D                   C#m7
+Grandes e admiráveis são tuas obras
+   Bm7                     Esus
+Senhor meu Deus, teu nome é Santo
+         A9 Aalt
+Quem não glorificará?
+
+       A6          A7
+E quem não te temerá?
+     Bm7           C#m7
+Todos hão de se prostar
+      D9          A9
+Ó cordeiro ante a Ti
+Bm7           Esus                A
+Tua justiça é eterna, Rei das nações.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A11 = X 0 2 2 3 0
+A6 = 5 X 4 6 5 X
+A7 = X 0 2 0 2 0
+A9 = X 0 2 2 0 0
+Am7(9) = X X 7 5 8 7
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D6/A = X 0 4 4 3 X
+D7M = X X 0 2 2 2
+D9 = X X 0 2 3 0
+E/G# = 4 X 2 4 5 X
+Esus = 0 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G9 = 3 X 0 2 0 X

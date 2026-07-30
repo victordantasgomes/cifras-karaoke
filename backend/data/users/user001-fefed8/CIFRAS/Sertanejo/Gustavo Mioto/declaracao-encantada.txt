@@ -1,0 +1,50 @@
+@titulo: declaracao-encantada
+@autor:
+@intérprete: Gustavo Mioto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gustavo Mioto - Declaração Encantada
+
+Intro: Em  C  G  D
+
+Em    C
+ Para de sonhar
+     G                         D              Em
+Eu não sou nenhum príncipe que veio te acordar
+                    C              G
+Não tenho um castelo, nem um alazão
+                      D                      Em
+Mas dentro da minha bolsa eu trouxe um violão
+                   C
+Se você gosta de conto de fadas
+     G                        D                Em
+Não vou ser o vilão, não vô te assusta nem nada
+                 C              G
+Mais pra te conquista faço de tudo
+               D                    C  D
+Então eu fiz esta declaração encantada
+Em                          C
+Eu sou seu Peter Pan e você é minha Wendy
+    G             D
+Eu sou seu Tarzan é você minha Jane
+
+Em                        C
+Eu sou seu Romeu é você minha Julieta
+       G                    D
+Num sapato de cristal você é minha Cinderela
+Em                           C
+Eu sou o seu anão e você é minha Branca de Neve
+    G                      D                         Em C G D
+E você é minha Rose e mesmo afundando eu sou seu Jack
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

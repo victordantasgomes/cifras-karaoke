@@ -1,0 +1,174 @@
+@titulo: raridade
+@autor:
+@intérprete: Anderson Freire
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Anderson Freire - Raridade
+
+Intro: G5  D/F#  Em  D9
+       G5  D/F#  Em
+
+
+Primeira Parte:
+
+D9             A9/C#             Bm7
+   Não consigo ir além do teu olhar
+                  A9          G5
+Tudo o que eu consigo é imaginar
+        D/F#          Em          A9
+A riqueza que existe dentro de você
+D9               A9/C#
+   O ouro eu consigo só admirar
+Bm7                    A9              G5
+    Mas te olhando eu posso a Deus adorar
+         D/F#          Em         A9
+Sua alma é um bem que nunca envelhecerá
+
+
+Segunda Parte:
+
+
+Bm7           G5
+    O pecado não consegue esconder
+D9                  A9                  Bm7
+   A marca de Jesus    que existe em você
+            G5
+O que você fez ou deixou de fazer
+D9                     A9                  Em
+   Não mudou o inicio,    Deus escolheu você
+         D/F#            G5
+Sua raridade não está naquilo que você possui
+Bm7                Em
+    Ou que sabe fazer
+           D/F#                G5
+Isso é mistério de Deus com você
+
+
+Refrão:
+
+             D9               A9/C#           Bm7
+Você é um espelho que reflete a imagem do Senhor
+                A9                G5
+Não chore se o mundo ainda não notou
+                        D/F#  Em          A9
+Já é o bastante Deus reconhe_cer o seu valor
+            D9
+Você é precioso
+                A9/C#          Bm7
+Mais raro que o ouro puro de Ofir
+              A9                     G5
+Se você desistiu, Deus não vai desistir
+           D/F#            Em
+Ele está aqui pra te levantar
+            A9      Bm7
+Se o mundo te fizer     cair
+
+
+Repete Primeira Parte:
+
+D9               A9/C#
+   O ouro eu consigo só admirar
+Bm7                    A9              G5
+    Mas te olhando eu posso a Deus adorar
+         D/F#          Em         A9
+Sua alma é um bem que nunca envelhecerá
+
+
+Repete Segunda Parte:
+
+Bm7           G5
+    O pecado não consegue esconder
+D9                  A9                  Bm7
+   A marca de Jesus    que existe em você
+            G5
+O que você fez ou deixou de fazer
+D9                     A9                  Em
+   Não mudou o inicio,    Deus escolheu você
+         D/F#            G5
+Sua raridade não está naquilo que você possui
+Bm7                Em
+    Ou que sabe fazer
+           D/F#                G5
+Isso é mistério de Deus com você
+
+
+Refrão:
+
+             D9               A9/C#           Bm7
+Você é um espelho que reflete a imagem do Senhor
+                A9                G5
+Não chore se o mundo ainda não notou
+                        D/F#  Em          A9
+Já é o bastante Deus reconhe_cer o seu valor
+            D9
+Você é precioso
+                A9/C#          Bm7
+Mais raro que o ouro puro de Ofir
+              A9                     G5
+Se você desistiu, Deus não vai desistir
+           D/F#            Em
+Ele está aqui pra te levantar
+            A9       Em  G5  D9  Am
+Se o mundo te fizer cair
+
+( Em  G5  A9  B4 )
+
+Refrão +1 Tom :
+
+             E                B4/D#           C#m7
+Você é um espelho que reflete a imagem do Senhor
+                B4                A9
+Não chore se o mundo ainda não notou
+                        A9/G#  F#m7(11)/C#  A9
+Já é o bastante Deus reconhe__cer o seu  valor
+            E
+Você é precioso
+                B4/D#          C#m7
+Mais raro que o ouro puro de Ofir
+              B4                     A9
+Se você desistiu, Deus não vai desistir
+           A9/G#           F#m7(11)/C#
+Ele está aqui pra te levantar
+            B4       F#m7(11)/C#  A9/G#
+Se o mundo te fizer cair
+
+             E                B4/D#           C#m7
+Você é um espelho que reflete a imagem do Senhor
+                B4                A9
+Não chore se o mundo ainda não notou
+                        A9/G#  F#m7(11)/C#  A9
+Já é o bastante Deus reconhe__cer o seu  valor
+            E
+Você é precioso
+                B4/D#          C#m7
+Mais raro que o ouro puro de Ofir
+              B4                     A9
+Se você desistiu, Deus não vai desistir
+           A9/G#           F#m7(11)/C#
+Ele está aqui pra te levantar
+            B4      A9  A9/G#  F#m7(11)/C#  Em
+Se o mundo te fizer    cair
+
+( A9  A9/G#  F#m7(11)/C#  E )
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+A9/G# = 4 0 2 2 0 0
+Am = X 0 2 2 1 0
+B4 = X 2 4 4 5 2
+B4/D# = X 6 4 4 5 7
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m7(11)/C# = X 4 4 2 0 0
+G5 = 3 5 5 X X X

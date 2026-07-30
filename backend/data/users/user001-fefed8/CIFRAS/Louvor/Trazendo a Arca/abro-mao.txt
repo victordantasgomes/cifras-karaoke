@@ -1,0 +1,68 @@
+@titulo: abro-mao
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Abro Mão
+
+Intro 2x: F#m E D
+
+F#m             F#m/E         D         E
+   A quem tenho eu nos céus além de Ti
+F#m            F#m/E               Bm7              Esus E
+   E não há na terra alguém que eu queira mais que a Ti
+
+Bm7              C#m  Bm7                Esus E
+   Estou apaixonado,    desesperado de amor
+
+F#m            F#m/E       D            E
+   Eu estou disposto a morrer por Ti
+F#m            F#m/E         Bm7        E
+   E construirei no cume do monte um altar
+
+Bm7                 C#m7(9)
+   O sacrifício sou eu
+Bm7                 Esus E/D
+   O sacrifício sou eu
+
+     C#m
+Abro mão dos meus sonhos
+     F#m
+Abro mão dos meus planos
+     Bm7                    Esus  E/D
+Abro mão da minha vida por Ti
+     C#m                    F#m
+Abro mão dos prazeres e das minhas vontades
+     Bm7                   Esus  E
+Abro mão das riquezas por Ti
+
+             F#m   F#m/E  D  C#7(b9)
+Estou apaixonado
+
+Ministração: F#m   F#m/E  D  C#7(b9)
+
+  F#m    F#m/E   D    C#7(b9)
+O que fazer? pra onde ir?
+          F#m       F#m/E         D    C#7(b9)
+Se só Tu tens as palavras de vida eterna?
+
+             F#m   F#m/E  D  C#7(b9)
+Estou apaixonado
+
+----------------- Acordes -----------------
+Bm7 = X 2 4 2 3 2
+C#7(b9) = X 4 3 4 3 X
+C#m = X 4 6 6 5 4
+C#m7(9) = X 4 2 4 4 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+Esus = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+F#m/E = X X 2 2 2 2

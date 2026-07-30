@@ -1,0 +1,63 @@
+@titulo: noite-e-dia
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Noite e Dia
+
+Intro.: D C#m7 F# A9
+
+D             C#m7       F#             A9
+Longe da confusão de fora um momento perfeito
+D         C#m7   F#           A9
+parece estar aqui e depois evapora
+D             C#m7       F#             A9
+Longe da confusão de fora passa uma centelha
+D                C#m7     F#   A9
+e pega fogo como gasolina
+
+C#m7        B               E                 F#
+Conheço as noites do fim do mundo, mas não consigo evitar
+C#m7      B             E              F#
+Palavras cruzam o ar e queimam, não há como me esquivar
+
+G               A
+Por mais que eu tente
+     G             Cadd9
+Me acertam em cheio
+G               A
+Por mais que eu tente
+
+          G              Cadd9
+É como um carro sem freio
+
+Cadd9   D
+Noite e dia
+Em          A9
+O refrão é sempre assim
+Cadd9   D
+Noite e dia
+    Em                    A9           Cadd9  D
+Eu faço por você o que você fizer por mim
+    Em                    A9           Cadd9  D
+Eu faço por você o que você fizer por mim
+          Em
+Fizer por mim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+C#m7 = X 4 6 4 5 4
+Cadd9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

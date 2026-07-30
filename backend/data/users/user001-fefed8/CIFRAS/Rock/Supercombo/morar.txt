@@ -1,0 +1,124 @@
+@titulo: morar
+@autor:
+@intérprete: Supercombo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Supercombo - Morar
+
+[Primeira Parte]
+
+E|--------------------|   E|--------------------|  E|--3-3-----3/5-5-5------|
+A|--5-5-----5-5-5-----|   A|--2-2-----2-2-2-----|  A|------2-2---------4-4--|
+D|------4-4-------4-4-|   D|------0-0-------0-0-|  D|-----------------------|
+G|--------------------|   G|--------------------|  G|-----------------------|
+B|--------------------|   B|--------------------|  B|-----------------------|
+E|--------------------|   E|--------------------|  E|-----------------------|
+
+[Pré-refrão]
+
+E|--------------------|   E|--2-2-----2-2-2-----|  E|--3-3-----3/5-5-5------|
+A|--7-7-----7-7-7-----|   A|------0-0-------0-0-|  A|------2-2---------4-4--|
+D|------5-5-------5-5-|   D|--------------------|  D|-----------------------|
+G|--------------------|   G|--------------------|  G|-----------------------|
+B|--------------------|   B|--------------------|  B|-----------------------|
+E|--------------------|   E|--------------------|  E|-----------------------|
+
+
+ D                    Bm7
+Sermão é só pra quem tem
+
+   D    Bm7   G     A
+Envergadura moral você não tem
+ D                  Bm7
+De perto todos são doidão
+D     Bm7       G      A
+A louça cresce as roupa fede
+Lá vem o palavrão
+ Em                G  Gm
+Pasta de dente sem tampa
+ Em                G  A
+Sujeira debaixo da cama
+
+ D                                        Bm7
+Desde que você veio morar minha vida é um inferno
+G             A             D
+O inferno mais bonito que se há
+ D          Bm7
+No planeta terra
+                G           A
+Às vezes eu reclamo mas eu to sempre de pé
+
+E|----------------------------------------|
+A|----------------------------------------|
+D|----------------------------------------|
+G|--7-7-----7-7-7-----7-7-7-----7-7-7-----|
+B|------7-7-------7-7-------7-7-------7-7-|
+E|----------------------------------------|
+
+D            Bm   D       Bm           G
+O dia mal começou eu vejo 20 shampoos vazios no
+ A         Bbº
+Box do banheiro
+ D                 Bm
+Cabelo no ralo da pia
+   D  Bm   G         A
+Em 2012 o mundo não se acabou
+Mas a paciência sim
+ Em7                G
+Pasta de dente sem tampa
+ Em7                G    A
+Sujeira debaixo da cama ah ah
+
+ D                                        Bm7
+Desde que você veio morar minha vida é um inferno
+G               A             D
+O inferno mais bonito que se há
+ D          Bm7
+No planeta terra
+                G           A            D
+Às vezes eu reclamo mas eu to sempre de pé
+
+( Bm7  D  Em7  Bbº )
+
+E|--------------------|   E|--------------------|
+A|--5-5-----5-5-5-----|   A|--2-2-----2-2-2-----|
+D|------4-4-------4-4-|   D|------0-0-------0-0-|
+G|--------------------|   G|--------------------|
+B|--------------------|   B|--------------------|
+E|--------------------|   E|--------------------|
+
+ D                                        Bm7
+Desde que você veio morar minha vida é um inferno
+G              A             D
+O inferno mais bonito que se há
+ D          Bm7
+No planeta terra
+                G           A            D
+Às vezes eu reclamo mas eu to sempre de pé
+
+ D                                        Bm7
+Desde que você veio morar minha vida é um inferno
+G          A              D
+O inferno mais bonito que se há
+ D          Bm
+No planeta terra
+                G           A            D
+Às vezes eu reclamo mas eu to sempre de pé
+           D
+Sempre de pé
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bbº = X 1 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3

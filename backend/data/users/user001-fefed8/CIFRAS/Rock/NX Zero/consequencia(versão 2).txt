@@ -1,0 +1,99 @@
+@titulo: consequencia(versão 2)
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nx Zero - Consequência
+
+Intro
+C# A E B C# A E Eb (2x)
+
+  C#                                   A
+Não quero entender a razão de estar aqui.
+             E        B
+Pois simplesmente estou.
+   C#                             A
+Não quero saber até onde vou chegar.
+
+A       E                   B
+Porque, sei que a vida vai me mostrar,
+A      E        B     E Eb
+uma, consequência.
+C#       A
+É minha vez,
+     E         B
+vou sair do início,
+  C#       A
+Mais uma vez,
+       E     B
+posso ver agora
+
+C#      A       E  B
+Só {só} eu {eu} sei.
+F#                A  B
+ninguém pode me falar.
+  C#                               A
+Não quero pensar no que vai acontecer,
+          E     B
+se um dia eu cair.
+   C#                             A
+não quero saber até onde vou chegar!
+A         E               B
+Porque, sei que a vida vai me mostrar,
+A    E          B  E Eb
+uma, consequência.
+C#       A
+É minha vez,
+     E         B
+vou sair do início,
+  C#       A
+Mais uma vez,
+       E     B
+posso ver agora
+C#      A       E  B
+Só {só} eu {eu} sei.
+F#                A  B
+ninguém pode me falar.
+C#         A E      B
+Eeeeu nunca tenho certeza,
+C#   A  E       B C#  A
+estou, totalmente certo,
+    E     B   C#  A  E       B
+ou realmente perto, do que sou,
+A                E      B
+mais vou tentar, só viver,
+A               E        B
+talvez assim, na hora certa
+A              E     B
+vou saber, o que fazer,
+  A                 E Eb
+e no fim acreditar.
+(2x)
+C#       A
+É minha vez,
+     E         B
+vou sair do início,
+  C#       A
+Mais uma vez,
+       E     B
+posso ver agora
+C#      A       E  B
+Só {só} eu {eu} sei.
+F#                A  B
+ninguém pode me falar.
+-----------------------  
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+E = 0 2 2 1 0 0
+Eb = X 6 5 3 4 3
+F# = 2 4 4 3 2 2

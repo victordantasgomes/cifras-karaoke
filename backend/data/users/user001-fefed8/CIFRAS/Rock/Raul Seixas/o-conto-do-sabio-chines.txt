@@ -1,0 +1,56 @@
+@titulo: o-conto-do-sabio-chines
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - O Conto do Sábio Chinês
+
+[Intro] G  C   G  C
+        G  C  G  C  G
+
+C       G F             G
+Era uma vez um sábio chinês
+              D                     C
+Que um dia sonhou que era uma borboleta
+            G                     D
+Voando nos campos, pousando nas flores
+          C             G
+Vivendo assim um lindo sonho
+            A
+Até que um dia acordou
+       C
+E pro resto da vida
+    D                 G
+Uma dúvida lhe acompanhou
+       C               G
+Se ele era um sábio chinês
+       C                     G
+Que sonhou que era uma borboleta
+
+      C       D    G
+Ou se era uma borboleta
+   Em        Am      D       G
+Sonhando que era um sábio chinês
+       C             G
+Se ele era um sábio chinês
+       C                    G
+Que sonhou que era uma borboleta
+      C       D    G
+Ou se era uma borboleta
+    Em        Am      D       G
+Sonhando que era um sábio chinês
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

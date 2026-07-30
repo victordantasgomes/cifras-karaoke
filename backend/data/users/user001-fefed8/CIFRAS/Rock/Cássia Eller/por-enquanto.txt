@@ -1,0 +1,96 @@
+@titulo: por-enquanto
+@autor:
+@intérprete: Cássia Eller
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cássia Eller - Por Enquanto
+
+[Intro] G  Am7  D9(11)/A  Am7
+        G  Am7  D9(11)/A  Am7
+        G  Am7  D9(11)/A  Am7
+        D9(11)/A  Am7  D9(11)/A  Am7
+
+[Primeira Parte]
+
+    G       D9/F#
+ Mudaram as estações
+C        G6/B
+ Nada mudou
+        C                     G6/B
+Mas eu sei que alguma coisa aconteceu
+      F7M(#11)            Am  F#7(b5)
+Está tudo assim tão diferente
+
+[Refrão]
+
+Em                    Em7      C           G4/B   Am  D9/F#  G
+  Se lembra quando a gente chegou um dia a acreditar
+Em                  Em7
+  Que tudo era pra sempre
+
+ C     G/B           Am7    Am7/G   D9/F#
+Sem saber que o pra sempre sempre acaba
+
+[Segunda Parte]
+
+     G              D9/F#
+Mas nada vai conseguir mudar
+C         G/B
+ O que ficou
+        C                  G/B
+Quando penso em alguém só penso em você
+   F7M(#11)     Am    F#7(b5)
+E aí, então, estamos bem
+
+[Refrão]
+
+Em                    Em7          C        G4/B   Am  D9/F#  G
+  Mesmo com tantos motivos pra deixar tudo como está
+Em                      Em7
+  Nem desistir, nem tentar
+       C     G/B
+Agora tanto faz
+        Am7      C  D9(11) G   D9/F#
+Estamos indo de volta pra casa
+
+( C  G/B  C  G/B )
+( F7M(#11)  Am  F#m7(b5) )
+
+[Refrão]
+
+Em                    Em7          C        G4/B   Am  D9/F#  G
+  Mesmo com tantos motivos pra deixar tudo como está
+Em                      Em7
+  Nem desistir, nem tentar
+       C     G/B
+Agora tanto faz
+        Am7      C  D9(11) G
+Estamos indo de volta pra casa
+
+( C  G/B  E  D )
+( C  G/B  E )
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am7/G = 3 0 2 0 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D9(11) = X 5 4 0 3 0
+D9(11)/A = X 0 4 0 3 0
+D9/F# = 2 X 0 2 3 0
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#7(b5) = 2 X 2 3 1 X
+F7M(#11) = 1 X X 2 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G4/B = X 2 0 0 1 X
+G6/B = 7 5 5 7 5 X

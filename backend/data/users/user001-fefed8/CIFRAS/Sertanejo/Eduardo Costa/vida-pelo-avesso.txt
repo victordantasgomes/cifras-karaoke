@@ -1,0 +1,96 @@
+@titulo: vida-pelo-avesso
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Vida Pelo Avesso
+
+Intro: A5  A5  E  E  F#  A5  E/A  A5  E  A5  E
+
+                   E
+Deixe tudo como está
+                          E4(6) F#4 F#m F#4
+Faz de conta que não vai, em....bora
+                 F#m
+De nós dois quem vai chorar
+            F#4          E
+Ninguém vai poder dizer, agora
+
+               A5
+Amanhã é outro dia
+                  Bbº      E            G#4
+E quem tem esta mania de amar, igual a mim
+     E4(6)         F#4
+Por maior que seja a queda
+F#m            F#4
+No amor jamais se entrega
+E                  D5(9)  E7
+Quando chega ao fim
+
+
+(Refrão):
+   A5
+Não vou dizer
+                           E
+Que a tua ausência não vai machucar
+                            F#4
+Que não vou morrer um pouco ao te perder
+     F#m     F#4            E        D5(9)  E7
+Que esse teu adeus não vai me derrubar
+
+        A5
+Prefiro assim
+                         E
+Do que ter você aqui nos braços meus
+                        F#
+Sonhando com alguém que não sou eu
+F#4
+Amando que não sou
+ A5      E7M   E4(6)  E
+Querendo outro em meu lugar
+
+(Introdução)
+
+                  E
+Deixe tudo como está
+                     E4(6) F#4 F#m F#4
+Não precisa arrumar, a    casa
+               F#m
+Vá sem pressa de voltar
+               F#m4      E
+Tem espaço pra soltar, as suas asas
+
+                    A5
+Não lamente a nossa vida
+                   Bbº       E            G#4
+Se não foi tão colorida como a gente imaginou
+     C#4      F#m4
+Foi tão linda no começo
+F#m            F#m4
+Mas depois virou do avesso
+E              E4(6)
+E tudo terminou.
+
+(Refrão)
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+Bbº = X 1 2 0 2 0
+C#4 = X 4 4 1 2 X
+D5(9) = X 5 7 9 X X
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E4(6) = 12 11 9 9 10 9
+E7 = 0 2 2 1 3 0
+E7M = X X 2 4 4 4
+F# = 2 4 4 3 2 2
+F#4 = 2 4 4 4 2 2
+F#m = 2 4 4 2 2 2
+F#m4 = 2 2 4 2 2 2
+G#4 = 4 6 6 6 4 4

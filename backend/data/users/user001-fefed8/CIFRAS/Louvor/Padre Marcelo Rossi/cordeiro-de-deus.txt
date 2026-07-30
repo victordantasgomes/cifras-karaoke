@@ -1,0 +1,61 @@
+@titulo: cordeiro-de-deus
+@autor:
+@intérprete: Padre Marcelo Rossi
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Padre Marcelo Rossi - Cordeiro de Deus
+
+ Am          G
+Cordeiro de Deus
+       C                Dm   F  E7
+Que tirais o pecado do mundo
+ Am       Dm
+Tende piedade
+ G7       C  Am
+Tende piedade
+        Dm
+Tende piedade
+ F    E7    Am  E7
+Piedade de nós
+
+ Am       G
+Cordeiro de Deus
+       C                Dm  F  E7
+Que tirais o pecado do mundo
+ Am       Dm
+Tende piedade
+ G7       C   Am
+Tende piedade
+
+        Dm
+Tende piedade
+ F  E7      Am  E7
+Piedade de nós
+
+    Am       G
+Cordeiro de Deus
+       C                Dm  F  E7
+Que tirais o pecado do mundo
+ Am        Dm
+Dai-nos a paz
+ G7        C  Am
+Dai-nos a paz
+           Dm
+Dai-nos a paz senhor
+F  E7    Am
+A vossa paz
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

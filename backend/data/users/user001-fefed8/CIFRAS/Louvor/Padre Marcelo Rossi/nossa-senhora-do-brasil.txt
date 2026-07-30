@@ -1,0 +1,56 @@
+@titulo: nossa-senhora-do-brasil
+@autor:
+@intérprete: Padre Marcelo Rossi
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Padre Marcelo Rossi - Nossa Senhora do Brasil
+
+INTRO: ::: D :  A : G : Em  A7 :::  D  D9 : D4  D :
+
+D         D7+   D6           D      D7+                A      A9  A4  A
+Fonte de amor e luz, estrela que conduz aonde vai a estrada,
+  Em                G                  A7                       D     D9 D4 D
+a fé que alimenta a alma, e o poder da palma, a quem não crê em nada
+
+    D            D7+ D6            D     D7                   G  C/G
+É a força de uma oração, é a prova do perdão, seu manto azul anil
+      Em             D         Bm
+ é a salvação a toda hora, é a lagrima de quem não
+ A      Em7         A7    D  D9 D4 D
+chora Nossa Senhora do Brasil
+
+-- Refrão --
+G                                                                   D   D9  D4 D
+Me cobre com seu manto, enxuga o meu pranto, perdoa se eu não sei rezar
+   A               G                    A7            D     D9 D4  D
+estenda sua mão me abra o coração, me ensina a saber amar
+
+   G                                                           D     D9 D4  D
+Estenda o seu manto de paz e acalanto, o amor mais puro e verdadeiro
+
+
+   A                   G             A7             D
+bendito é o perdão que abre o coração  do povo brasileiro  INTROD: REPETE AO FIM
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+C/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D6 = X 5 4 2 0 X
+D7 = X X 0 2 1 2
+D7+ = X X 0 2 2 2
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3

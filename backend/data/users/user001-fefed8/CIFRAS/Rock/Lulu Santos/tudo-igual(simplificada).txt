@@ -1,0 +1,80 @@
+@titulo: tudo-igual(simplificada)
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - Tudo Igual
+
+Intro: G7M D7M F7M D7M
+       G7M D7M G7M D7M
+       G7m D7M F7M D7M
+
+         G7M              D7M
+Então é assim que a vida faz
+         G7M        D7M
+e sempre have rá um fim
+       G7M            D7M
+Um pano rápido ou um plano
+                 C7M             D7M/A
+longínquo do horizonte, e os créditos
+        G7M            D7M
+Os personagens se revelam
+           G7M       D7M
+atores no aplauso final
+          G7M      D7M
+pra cada interpretação
+              C7M      D7M/A
+O que lhe for proporcional
+
+
+Bb7+                Bm7
+Fica muito bem no cinema
+  Bb7+             Bm7
+Romance do romance ideal
+   Bb7+                  Bm7
+Só vamo então deixar combinado
+        Am7      Bm7
+Aqui a vida é real
+    Bb7+                   Bm7
+Não leve o personagem pra cama
+Bb7+                       Bm7
+Pode acabar sendo fatal
+  Bb7+                        Bm7
+Então desmonta logo esta máscara
+              Am7             Bm7
+Voltemos à estaca zero, fica tudo igual
+   C/D
+Normal
+
+         G7M              D7M
+Então é assim que a vida faz
+         G7M        D7M
+e sempre have rá um fim
+       G7M            D7M
+Um pano rápido ou um plano
+                 C7M             D7M/A
+longínquo do horizonte, e os créditos
+        G7M            D7M
+Os personagens se revelam
+           G7M       D7M
+atores no aplauso final
+          G7M      D7M
+pra cada interpretação
+              C7M      D7M/A
+O que lhe for proporcional
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bb7+ = X 1 3 2 3 1
+Bm7 = X 2 4 2 3 2
+C/D = X X 0 0 1 0
+C7M = X 3 2 0 0 X
+D7M = X X 0 2 2 2
+D7M/A = 5 5 4 2 2 2
+F7M = 1 X 2 2 1 X

@@ -1,0 +1,90 @@
+@titulo: assim-como-o-sol
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Assim Como o Sol
+
+[Intro]  B Gº G#m F#m B7 E B/D# A F#4 F#
+
+B
+Olha só o jeito que eu fiquei aqui
+G#m
+Nessa noite fria, nessa solidão
+C#m                       F#4         F#      G#m
+Eu já nem sei mais o que fazer e você dizendo não
+    D#m            G#m
+Por que você foi embora e não quer mais voltar?
+    D#m              E/G#            F#/A#
+Por quê? Assim sem motivo, sem me avisar
+
+              B
+Assim como o sol, uma escuridão
+                F#/A#
+Eu sei que eu preciso do seu coração
+             G#m                    F#/A#
+Te quero, te sinto, te vejo em meus sonhos
+               C#m                  F#/A#
+Te abraço e te beijo e não quero acordar
+
+            B
+Mas você demora e não quer nem saber
+              A#m7(b5)           D#7(4)
+Que eu fico chorando esperando você
+  D#7    G#m              G#m7     G#m6
+E nem imagina que eu te preciso, preciso
+      C#m  F#           B
+E não vivo   sem você aqui
+
+              B
+Assim como o sol, uma escuridão
+                F#/A#
+Eu sei que eu preciso do seu coração
+             G#m                    F#/A#
+Te quero, te sinto, te vejo em meus sonhos
+               C#m                  F#/A#
+Te abraço e te beijo e não quero acordar
+
+           C#
+Mas você demora e não quer nem saber
+              Cm7(b5)           F7(4)
+Que eu fico chorando esperando você
+  F7    Bbm              Bbm7     Bbm6
+E nem imagina que eu te preciso, preciso
+      D#m  G#          C#
+E não vivo   sem você aqui
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#m7(b5) = X 1 2 1 2 X
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+Bbm = X 1 3 3 2 1
+Bbm6 = 6 X 5 6 6 X
+Bbm7 = X 1 3 1 2 1
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+Cm7(b5) = X 3 4 3 4 X
+D#7 = X 6 5 6 4 X
+D#7(4) = X X 1 3 2 4
+D#m = X X 1 3 4 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#4 = 2 4 4 4 2 2
+F#m = 2 4 4 2 2 2
+F7 = 1 3 1 2 1 1
+F7(4) = 1 3 1 3 1 X
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4
+G#m6 = 4 X 3 4 4 X
+G#m7 = 4 X 4 4 4 X
+Gº = 3 X 2 3 2 X

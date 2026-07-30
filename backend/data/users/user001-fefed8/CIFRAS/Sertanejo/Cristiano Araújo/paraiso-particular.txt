@@ -1,0 +1,112 @@
+@titulo: paraiso-particular
+@autor:
+@intérprete: Cristiano Araújo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cristiano Araújo - Paraíso Particular
+
+E|------------------|-----------------|-------------------------------------------------------|
+B|-7-7-6-6----------|-9-9-4-4---------|-------------------------------------------------------|
+G|------------------|-----------------|-9s11-10------9s11-10---------9s11-10------------------|
+D|------------------|-----------------|--------11-----------11--------------9-10-11-----------|
+A|------------------|-----------------|-------------------------------------------------------|
+E|------------------|-----------------|-------------------------------------------------------|
+
+Base: ( D#m F# G# F# G# C# )
+
+C#                                              F# F# C#
+Sei que a nossa história foi um pouco conturbada,
+C#
+Cheia de divergências, de cenas inusitadas.
+F# D#m             F# D#m
+O mundo só nosso, nosso próprio universo,
+    F# D#m          F# D#m
+Nossas juras, nosso próprio dialeto
+          F#                   C#     C# C#
+E dias de loucuras que não vão voltar.
+    F#                   D#m
+E pior é que ainda dá um nó,
+
+                     F#
+Quando eu lembro de nós,
+
+          C#
+Mas tipo, nada a vê.
+    F#                    D#m
+É só o que eu gosto de lembrar
+                        F#
+Fechar os olhos, te tocar
+F#                        G# G# G#
+Por um instante ainda te ter.
+
+G#                    C#
+Problema meu se ainda amo,
+               G#
+Se ainda ouço a tua voz,
+G# F# C#                   D#m
+Que vira e mexe eu penso em nós,
+F#                     G#
+Como eu queria que não fosse assim.
+G#                      C#
+Mas não controlo essa saudade,
+                       G#
+Quando bem quer ela me invade,
+G# F# C#                D#m
+É madrugada ou fim de tarde,
+F#                       G#
+Eu juro que já tentei resistir.
+G# G# - Duas batidas       C#
+Não dá pra te arrancar de mim...
+
+Base: ( C# G# D#m F# G# C# G# C# )
+
+    F#                   D#m
+E pior é que ainda dá um nó,
+                     F#
+Quando eu lembro de nós,
+
+          C#
+Mas tipo, nada a vê.
+    F#                    D#m
+É só o que eu gosto de lembrar
+                        F#
+Fechar os olhos, te tocar
+F#                        G# G# G#
+Por um instante ainda te ter.
+
+Refrão 2x:
+G#                    C#
+Problema meu se ainda amo,
+               G#
+Se ainda ouço a tua voz,
+G# F# C#                   D#m
+Que vira e mexe eu penso em nós,
+F#                     G#
+Como eu queria que não fosse assim.
+G#                      C#
+Mas não controlo essa saudade,
+                       G#
+Quando bem quer ela me invade,
+G# F# C#                D#m
+É madrugada ou fim de tarde,
+F#                       G#
+Eu juro que já tentei resistir.
+G# G# - Duas batidas       C#
+Não dá pra te arrancar de mim...
+
+C#
+Sei que a nossa história foi um pouco
+F# F#    C#
+conturbada...
+
+----------------- Acordes -----------------
+C# = X 4 6 6 6 4
+D#m = X X 1 3 4 2
+F# = 2 4 4 3 2 2
+G# = 4 3 1 1 1 4

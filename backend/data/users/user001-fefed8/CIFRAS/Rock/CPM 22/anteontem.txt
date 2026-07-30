@@ -1,0 +1,87 @@
+@titulo: anteontem
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Anteontem
+
+[Intro] F  C  Em  C  Am  Em  G  C  Em  C  Am  G
+
+E|--------------------------------------------------------- |
+B|--------------------------------------------------------- |
+G|-----10-9---------------10-9-----------10-9-12--12-12-12- |  2X
+D|-10--10-9-10--10-10-10--10-9-7--7-7-7--10-9-12--12-12-12- |
+A|-10---8-7-10--10-10-10---8-7-7--7-7-7---8-7-10--10-10-10- |
+E|--8--------8---8--8--8-------5--5-5-5-------------------- |
+
+C             G                     D                     F
+   Estava tão triste quando você me disse que havia algo errado entre nós
+C              G                  D                    F
+   Meu mundo girava e o seu controlava o que havia de errado no meu
+C                 G                  D                  F                        C
+   Eu descia as escadas, as velhas escadas sem medo de olhar o que eu deixei pra trás
+           G            D                F
+   Eu continuo do mesmo lado e não vou mudar minha opinião
+
+SOLINHO 1 (4x)
+E|------------------------
+B|------------------------
+G|------------------------
+D|--2/3--2/3--5--5--5--5--
+A|------------------------
+E|------------------------
+
+
+C          G                D                 F            C
+   Tênis furado e alguns trocados, relógio quebrado e poluição
+                      G                D                      F
+   Eu sentia em minha volta a dor da derrota quem foi que escolheu...
+
+C           G             D     F
+   Sobre os meus próprios passos vou caminhar
+C           G             D     F
+   Sobre os meus próprios passos nunca mais vou errar           2x
+
+(C)
+
+SOLINHO 2 (2x)
+E|------------------------------------------------
+B|------------------------------------------------
+G|5-4-----5-4-----5-4------5-4-------5-4-5--5-5-5-
+D|----5~------3~------5~-------3~-----------------
+A|------------------------------------------------
+E|------------------------------------------------
+
+C  B  G  C  B  F  C  B  G  C  B  F
+
+C           G             D     F
+   Sobre os meus próprios passos vou caminhar
+C           G             D     F
+   Sobre os meus próprios passos nunca mais vou errar           2x
+
+(C  G  D  F)
+
+SOLINHO 3 (2x)
+E|-------------------------------------------------------------------------------------
+B|-------------------------------------------------------------------------------------
+G|-------------------------------------------------------------------5--4--------------
+D|-2/3--2/3--5--5--5--5--2/3--2/3--5--5--5--5--2/3--2/3--5--5--5--5--------5--5--5--5--
+A|-------------------------------------------------------------------------------------
+E|-------------------------------------------------------------------------------------
+
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

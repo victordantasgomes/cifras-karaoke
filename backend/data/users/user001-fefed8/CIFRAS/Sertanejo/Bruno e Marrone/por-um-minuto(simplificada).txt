@@ -1,0 +1,149 @@
+@titulo: por-um-minuto(simplificada)
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Por Um Minuto
+
+[Intro] G  D  C  G  D  C
+        G  D  C  G  D  C
+
+[Primeira Parte]
+
+G              D               C
+  E todos os amantes já adormeceram
+G               D              C
+  E todas as palavras já se calaram
+G                D                  C
+  Já não vive o mundo em que se perderam
+G              D                C
+  Nem as madrugadas em que se amaram
+           G  D  C
+Quero sentir
+         G  D  C
+Quero ouvir
+
+[Segunda Parte]
+
+G                 D             C
+  Seus passos de volta a minha porta
+
+G                    D                  C
+  Pra dizer que me amava quando estava longe
+G                   D               C
+  E deixar que amanhã juntos nos encontre
+G                    D                    C
+  E que passe a ser vida o que hoje é só sonho
+
+[Pré-Refrão]
+
+C            Am         D
+  E que se acabe os segredos
+C             Am         D
+  E que se aumente os desejos
+
+[Refrão]
+
+G           D           Em
+E assim enquanto eu te beijo
+     Bm        Am            D
+Que mude o destino por um minuto
+  Am
+Que meu corpo encontre o seu corpo
+C            D    G    C
+  Num prazer absoluto
+
+G           D             Em
+E assim enquanto eu te abraço
+     Bm             Am
+Me aperte em seus braços
+          D
+Por um minuto
+
+ C               Bm      Em   G
+De um jeito que só você sabe
+ C            D        G
+De um jeito que só eu sei
+
+( G  D  C  )
+( G  D  Am )
+
+[Terceira Parte]
+
+G              D                   C
+  Já não há razão pra não ser pra sempre
+G                  D                    C
+  Dessa vez há de ser, tem que ser diferente
+G                 D                  C
+  Não me deixe sozinho nem mesmo um pouco
+G                    D                   C
+  Que esse pouco me deixa cada vez mais louco
+
+[Pré-Refrão]
+
+C            Am         D
+  E que se acabe os segredos
+C             Am         D
+  E que se aumente os desejos
+
+[Refrão]
+
+G           D           Em
+E assim enquanto eu te beijo
+     Bm        Am            D
+Que mude o destino por um minuto
+  Am
+Que meu corpo encontre o seu corpo
+C            D    G    C
+  Num prazer absoluto
+
+G           D             Em
+E assim enquanto eu te abraço
+     Bm             Am
+Me aperte em seus braços
+          D
+Por um minuto
+
+ C               Bm      Em   G
+De um jeito que só você sabe
+ C            D        G
+De um jeito que só eu sei
+
+( A  C#m  F#m )
+( C#m  Bm  E )
+
+  Bm
+Que meu corpo encontre o seu corpo
+ D         E    A   D
+Num prazer absoluto
+
+A           C#m           F#m
+E assim enquanto eu te abraço
+     C#m            Bm             E
+Me aperte em seus braços por um minuto
+
+ D               C#m     F#m
+De um jeito que só você sabe
+ D            E        A
+De um jeito que só eu sei
+
+[Final] A  E  D
+        E  A  D  A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

@@ -1,0 +1,70 @@
+@titulo: apaziguar
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Apaziguar
+
+Intro:(G D Em D C G D Em D G)
+
+===============
+Solo (violão):
+E| -5-----5-------7-----7-------5--------------------------5-----5-------7-----7-------
+B| ---7-----7---5---8-----8-------7-----7--------------7-----7-----7---5---8-----8-----
+G| -----7-----7-------9-----9-7-----7-5---5-4-5-7--7-7---7-----7-----7-------9-----9-7-
+
+E|---------------------  |
+B|---------------------  | (CONTINUAÇÃO)
+G|-7-7-7-9-9-11-11-12--  | 
+
+===============
+Solo(acordeon):
+
+34,35,36,37,15,27,37,15,27,37,39,17,28,39,17,28,39,37,15,27,37,35,28,25,35,34,32,30,
+34,35,36,37,15,27,37,15,27,37,39,17,28,39,17,28,39,37,39,27,37,27,28,15,17,13
+===============
+
+G
+Outra vez nós dois brigamos,outra vez nos machucamos
+
+                      D
+sem ninguém pra apaziguar.
+
+Coração se arrependeu,dói no meu e dói no seu sem
+                  G    C   G
+ninguém pra apaziguar.
+    G7            C          G           C
+Você manda um amigo pra tentar falar comigo,
+     D                G
+tá sofrendo e quer perdão,
+D
+também fico atraz dos outros
+                                       G
+procurando feito louco nossa reconciliação.
+        D                             Em
+R  Apaziguar, não tem ninguém pra apaziguar,
+e                      C              D          G
+f  dois malucos pra amar mas por frescura pra dizer.
+r       D                             Em
+ã  Apaziguar não tem ninguém pra apaziguar,
+o                          C          D         G
+   enquanto a gente não voltar chora eu chora você
+
+REPETE O REFRÃO
+REPETE INTRO
+
+G
+Outra vez nós dois brigamos,outra vez nos machucamos...
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

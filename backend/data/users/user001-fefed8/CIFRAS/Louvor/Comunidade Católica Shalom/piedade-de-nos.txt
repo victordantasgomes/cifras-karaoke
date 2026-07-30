@@ -1,0 +1,25 @@
+@titulo: piedade-de-nos
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - Piedade de Nós
+
+(intro) Em Bm C D Em
+
+Em      Bm                C  D    Em
+Senhor, tende piedade, piedade de nós
+Em      Bm                C  D    Em
+Cristo, tende piedade, piedade de nós
+
+----------------- Acordes -----------------
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0

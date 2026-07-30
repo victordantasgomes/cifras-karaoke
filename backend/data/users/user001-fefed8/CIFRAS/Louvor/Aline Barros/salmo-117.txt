@@ -1,0 +1,74 @@
+@titulo: salmo-117
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Salmo 117
+
+F                               Bb        Gm           C
+- Dai graças ao Senhor, porque ele é bom!
+    F         Bb      Gm       C
+Eterna é a sua misericórdia!
+
+
+       Bb                              Dm
+- A casa de Israel agora o diga:
+    Bb                             C7
+"Eterna é a sua misericórdia!'
+        Bb                              Dm
+A casa de Aarão agora o diga:
+    Bb                             C7
+"Eterna é a sua misericórdia!"
+  Gm                                        Dm  C  F
+Os que temem o Senhor, agora o digam:
+    Bb                             C7
+"Eterna é a sua misericórdia!"
+
+
+        A                              C#m
+- "A pedra que os pedreiros rejeitaram
+
+    A                             B7
+Tornou-se agora pedra angular.
+        A                              C#m
+Pelo Senhor é que foi feito tudo isso:
+    A                             B7
+Que maravilhas ele fez a nossos olhos!
+  F#m                                        C#m  B  E
+Este é o dia queo Senhor fez para nós,
+    A                             B7
+Alegremo-nos e nele exultemos!
+
+
+        A                              C#m
+- Ó Senhor, dai-nos a vossa salvação,
+    A                             B7
+Ó Senhor, dai-nos também prosperidade!"
+        A                              C#m
+Bendito seja, em nome do Senhor,
+    A                             B7
+Aquele que em seus átrios vai entrando!
+  F#m                                        C#m  B  E
+Destacasa do Senhor vos bendizemos.
+    A                             B7
+Que o Senhor e nosso Deus nos ilumine!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+Gm = 3 5 5 3 3 3

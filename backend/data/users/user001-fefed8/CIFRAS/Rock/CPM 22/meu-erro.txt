@@ -1,0 +1,115 @@
+@titulo: meu-erro
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Meu Erro
+
+Solinho do início...
+e|---------------------------------------------------------|
+B|---------------------------------------------------------|
+G|------------16-14----------------------------16-14-------|
+D|----------14-----12--12h14-12-11-----------14-----12-16~-|
+A|--12-14-16-------------------------12-14-16--------------|
+E|---------------------------------------------------------|
+
+Intro: A5 E5 D5 D5 A5 E5 D5 Dm
+
+
+A5
+Eu quis dizer
+         E5
+Você não quis escutar
+D5
+Agora não peça
+       E5
+Não me faça promessas
+       A5
+Eu não quero te ver
+
+           E5
+Nem quero acreditar
+        D5
+Que vai ser diferente
+    E5
+Que tudo mudou
+     C#5
+Você diz não saber
+      F#5
+O que houve de errado
+        D5
+E o meu erro foi crer
+      Dm
+Que estar
+ao seu lado,bastaria!
+
+      A5    E5
+D5
+Ah! Meu Deus , era tudo
+          A5    E5
+que eu queria!
+     D5
+Eu dizia o seu nome, não
+Dm            A5
+Me abandone jamais
+
+
+Mesmo querendo eu
+    E5
+não vou me enganar
+     D5
+Eu conheço os seus passos
+   E5
+Eu vejo os seus erros
+         A5
+Não há nada de novo
+      E5
+Ainda somos iguais
+  D5
+Então não me chame
+     E5
+Não olhe pra trás.
+
+   C#5
+Você diz não saber
+        F#5
+O que houve de errado
+        D5
+E o meu erro foi crer
+      Dm
+que estar ao seu lado, bastaria!
+     A5    E5
+
+       D5
+Ah!meu Deus era tudo que eu
+   A5    E5
+queria.
+
+     D5
+Eu dizia o seu nome
+   Dm
+Não me abandone, jamais
+  A5    E5
+
+D5                A5    E5
+Não me abandone jamais
+D5                A5    E5
+Não me abandone jamais
+D5                A5    E5
+Não me abandone jamais
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+C#5 = X 4 6 6 X X
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+Dm = X X 0 2 3 1
+E5 = 0 2 2 X X X
+F#5 = 2 4 4 X X X

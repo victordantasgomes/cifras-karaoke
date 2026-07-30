@@ -1,0 +1,97 @@
+@titulo: dormir
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Dormir
+
+intro: C,Am,Am/F,C,C,Am,F,C
+
+C  Am              Am/F   C
+Eu sonhei que eu podia voar
+          C  Am          F   C
+Eu conseguia ir a qualquer lugar
+           C      Am
+Dentro das casas das pessoas
+  Am/F   C
+E suas vidas
+    C         Am
+Solitárias e confusas
+  F        C
+Todas parecidas
+C    Am          Am/F      C
+Abri os olhos de volta ao chão
+        C   Am       F       C
+Vi que era só minha imaginação
+         Em
+Sem conseguir me mexer
+  Am/F
+Sair do lugar
+
+        Em              Am/F
+A gravidade me fez, me fez acordar
+Am      Dm  G     Am
+Eu não quero acordar
+       Am    Dm
+Eu quero dormir
+G     Am
+E sonhar
+
+C,Am,Am/F,C,C,Am,F,C
+
+C        Am    Am/F    C
+Às vezes sonho colorido
+    C       Am        F      C
+É uma bagunça, tudo distorcido
+C    Am        Am/F    C
+Nada parece fazer sentido
+  C     Am        F      C
+É tão real que eu acredito
+C    Am         Am/F   C
+Eu adoro ver você dormir
+   C       Am      F      C
+O mundo inteiro parece sumir
+Em               Am/F
+Tranquilidade e tanta paz
+       Em
+Por favor, me explique
+ Am/F
+Como se faz
+Am       Dm  G    Am
+Eu não quero acordar
+        Am    Dm
+Eu quero dormir
+G     Am
+E sonhar
+
+solo:C,Am,Am/F,C,C,Am,F,C   2x
+
+Em              Am/F
+Às vezes sonho acordado
+          Em           Am/F
+Eu penso no futuro e no passado
+Em               Am/F
+Mas nada é mais divertido
+       Em
+Do que fechar os olhos
+          Am/F
+Deixar o mundo de lado
+Am       Dm   G    Am
+Eu não quero acordar
+        Am   Dm G     Am
+Eu quero dormir e sonhar
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/F = 1 X 2 2 1 X
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

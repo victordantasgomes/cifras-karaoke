@@ -1,0 +1,119 @@
+@titulo: depende
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Depende
+
+
+
+G         C9    Am7        Em
+Outra vez você quer ficar comigo
+Bm         C             Am      C
+Quer me namorar quer se reaproximar
+
+Depende
+
+G           C   Am             Em
+Se for pra valer, se for de verdade
+Bm               C        Am          C
+Posso até tentar, outra vez me apaixonar
+Depende
+
+Gm               D#   Bb          F
+Não vou passar a mão, na tua cabeça não
+Gm              D#     Bb         F
+Custe o que custar, nem sonhando nem pensar
+Gm                 D#    Bb                     F
+Se eu não fizer assim, vou me arrepender do fim
+
+Gm             D#  Bb           F
+Não dou permissão pra ferir um coração
+
+G          D4  Am            C       G
+Qualquer preço eu não tô a fim de pagar
+D                     Am   C            G
+Cresce um pouco amadurece vê se aprende
+    D4       Am             C           G
+Garantias sei que a gente não tem pra dar
+   D              Am                 C
+De repente é por isso que pra me arriscar
+G
+Depende
+
+G             C   Am              Em
+Se for pra valer, se for de verdade
+Bm            C           Am          C
+Posso até tentar, outra vez me apaixonar
+Depende
+
+Gm               D#9   Bb            F9
+Não vou passar a mão, na tua cabeça não
+Gm             D#9   Bb             F9
+Custe o que custar, nem sonhando nem pensar
+Gm               D#9   Bb             F9
+Se eu não fizer assim, vou me arrepender do fim
+Gm             D#9   Bb         F
+Não dou permissão pra ferir um coração
+
+G           D   Am          C          G
+Qualquer preço eu não tô a fim de pagar
+D4                    Am    C          G
+Cresce um pouco amadurece vê se aprende
+    D4   Am                C           G
+Garantias sei que a gente não tem pra dar
+        D4        Am             C
+De repente é por isso que pra me arriscar
+G  D/F    Em4       Bm
+Depende, depende, depende
+
+C               C/B Am                      G
+Mas se a gente tá pronto pra se amar não depende
+          D  Am                   C
+De mais nada pra recomeçar desta vez me entende
+A        E      Bm7         D        A
+Qualquer preço eu não tô a fim de pagar
+ E                    Bm D           A
+Cresce um pouco amadurece vê se aprende
+    E       Bm             D           A  E
+Garantias sei que a gente não tem pra dar
+                  Bm          D
+De repente é por isso que depende
+
+A          E    Bm7              D4                A
+Qualquer preço não tô a fim de pagar
+E                     Bm D                       A
+Cresce um pouco amadurece toma Jeito ver se aprende
+      E    Bm       D           A
+Garantias  a gente não tem pra dar
+       E           Bm            D              A
+De repente é por isso que pra me arriscar depende
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/B = X 2 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D#9 = X 6 8 8 6 6
+D/F = X X 3 2 3 2
+D4 = X X 0 2 3 3
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+Em4 = 0 0 2 0 0 0
+F = 1 3 3 2 1 1
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

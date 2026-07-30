@@ -1,0 +1,89 @@
+@titulo: nao-temas
+@autor:
+@intérprete: Kemuel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kemuel - Não Temas
+
+Intro 2x: Am  Em  F  G
+
+Em                 Am
+Gritos, rumores de guerra
+Em                Am
+Uma angústia sem fim
+Em                    Am
+O que acontece com a terra?
+Am            G      F
+A natureza caminha ao fim
+Am                F
+O homem perde a razão
+Am            G           F
+Ganância, violência, prostituição
+Am            Em      F        G
+O mal vence o bem, justiça não tem
+Am        E          F
+Muitos distantes de Deus
+Am                Em
+O amor não existe mais
+F            G
+Filhos matam os pais
+
+      Am       Em       F
+A frieza tomou conta do coração
+   Am             Em
+O amor não existe mais
+F            G
+Filhos matam os pais
+      Am       G        F
+A frieza tomou conta do coração
+
+    Am              Em
+Pra onde fugir? Pra onde correr?
+F              G
+Quem irá nos socorrer?
+   Am             Em
+Terá salvação para a geração
+F                   A    B
+Onde estamos eu e você?
+
+C#m     A  E            B
+Não temas, eis que logo venho
+C#m    A     E            B                (A)       (2ªX usar o A depois do B para ponte)
+Sou Jesus, aquele que morreu pra te salvar (2x)
+
+C#m                A      E         B
+Voltarei pra te buscar, esteja preparado! (4x)
+
+C#m    A   E            B
+Não temas, eis que logo venho
+C#m    A     E           B
+Sou Jesus, aquele que morreu pra te salvar (4x)
+
+C#m     A    E     B      C#m     A    E     B
+O o     o... O o o o o... O o     o... O o o o o...
+
+Intro Final: F#m G#m A             B
+                     Eis que logo vem o meu jesus
+Anseio sua volta (volta... volta...)
+Jesus...
+
+F#m G#m A B - Pra todo sempre amém...
+(até eu dizer chega)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,88 @@
+@titulo: velha-carta
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Velha Carta
+
+Intro: 
+      C                                      G
+E|---------------------------------------------------------------------------|
+B|----------------------------------------------------------------0----------|
+G|------0-0h2-0-----0------0-0h2-0-----0----------------------------2-0------|
+D|----2---------0h2------2---------0h2---------0-2/3-2-0-------0--------0-2--|   2x
+A|--3------------------3---------------------2-----------2---2---------------|
+E|-----------------------------------------3---------------3-----------------|
+
+C                   G
+Hoje me veio  à cabeça
+                  C
+E uma velha mala abri
+                        G
+Que eu guardava os meus segredos
+                      C
+Dos bons tempos que vivi
+C7                    F
+Encontrei uma velha carta
+G                    C
+Da mulher que mais amei
+                 G
+Cada frase uma saudade
+                   C
+Que sempre carregarei
+C  G/B  Am   G
+        Só ela
+                      C
+Me fez o homem mais feliz
+C  G/B  Am   G
+        Foi ela
+                      C
+A mulher que eu mais quis
+
+      C                                      G
+E|---------------------------------------------------------------------------|
+B|----------------------------------------------------------------0----------|
+G|------0-0h2-0-----0------0-0h2-0-----0----------------------------2-0------|
+D|----2---------0h2------2---------0h2---------0-2/3-2-0-------0--------0-2--|   2x
+A|--3------------------3---------------------2-----------2---2---------------|
+E|-----------------------------------------3---------------3-----------------|
+
+ C                    G
+Ela vive em outros braços
+                     C
+O seu corpo já tem dono
+                  G
+No seu dedo uma aliança
+                     C
+Destruindo os meus planos
+C7                    F
+De olhos baixos  nas ruas
+G                 C
+Já estou pra me apagar
+                  G
+Disfarço minha tristeza
+Com meus amigos na mesa
+                     C
+Na mesa de qualquer bar
+C  G/B  Am   G
+        Só ela
+                     C
+Me fez o homem mais feliz
+C  G/B  Am   G
+        Foi ela
+                      C
+A mulher que eu mais quis (3x)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

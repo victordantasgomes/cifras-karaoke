@@ -1,0 +1,100 @@
+@titulo: pode-ser-pra-valer
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Pode Ser Pra Valer
+
+Intro: G D C Am D A
+E|----------------------------------|
+B|---------7-8--8-8-8\7-------------|
+G|-----7-9--------------9-7---7/9\7-|
+D|-7h9----------------------9-------|
+A|----------------------------------|
+E|----------------------------------|
+
+E|-----------------------------------------------------------------------------|
+B|-------------------------------------10/12-10-10-8-7---7/10-8--8\7-------7---|
+G|-7-9-7-9/11--11-11-11/9\7-7---7h9-7------------------9-------------9-7-9---9-|
+D|----------------------------9------------------------------------------------|
+A|-----------------------------------------------------------------------------|
+E|-----------------------------------------------------------------------------|
+
+E|------12-10-9-7----7/9-|
+B|-8/10-----------10-----|
+G|-----------------------|
+D|-----------------------|
+A|-----------------------|
+E|-----------------------|
+
+
+D                                    A
+Se você está aí sozinha em plena madrugada
+Bm                                   F#m
+Eu também estou aqui à toa sem fazer nada
+G                                            D
+Que tal sairmos pra bater um papo e tomar um vinho
+                 A      G               D      A4 A
+Estamos mesmo sozinhos, estamos mesmo sozinhos
+
+      D                            A
+Se você perdeu o seu amor e está magoada
+ Bm                                          F#m
+Por coincidência eu também gostei da pessoa errada
+       G                                          D
+E de repente no final da noite a gente acha um caminho
+                 A      G               D      D7
+Estamos mesmo sozinhos, estamos mesmo sozinhos
+
+    G                                    D
+Se acaso isso acontecer, não fique de bobeira e venha me encontrar
+             A                                   D    D7
+Se rolar um clima tudo que pintar pode ser pra valer
+     G                              D
+Se acaso isso acontecer, a gente se ama e sai da solidão
+                A                                   D    G D C Am D A
+Quem sabe nos amando renasce a paixão do amor e o prazer
+
+      D                            A
+Se você perdeu o seu amor e está magoada
+ Bm                                          F#m
+Por coincidência eu também gostei da pessoa errada
+       G                                          D
+E de repente no final da noite a gente acha um caminho
+                 A      G               D      D7
+Estamos mesmo sozinhos, estamos mesmo sozinhos
+
+    G                                    D
+Se acaso isso acontecer, não fique de bobeira e venha me encontrar
+             A                                   D    D7
+Se rolar um clima tudo que pintar pode ser pra valer
+     G                              D
+Se acaso isso acontecer, a gente se ama e sai da solidão
+                A                                   D   D7
+Quem sabe nos amando renasce a paixão do amor e o prazer
+
+    G                                    D
+Se acaso isso acontecer, não fique de bobeira e venha me encontrar
+             A                                   D    D7
+Se rolar um clima tudo que pintar pode ser pra valer
+     G                              D
+Se acaso isso acontecer, a gente se ama e sai da solidão
+                A                                   G  D
+Quem sabe nos amando renasce a paixão do amor e o prazer
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

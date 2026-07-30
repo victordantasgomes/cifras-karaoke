@@ -1,0 +1,156 @@
+@titulo: amor-de-violeiro
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Amor de Violeiro
+
+[Intro] C  F  C  F  C
+
+   C         F              C             
+E|-0----1/3--5-5-5-5--3--1--3-3-3-3--1--0-----------|
+B|-1-1--3/5--6-6-6-6--5--3--5-5-5-5--3--1-----------|
+G|-0------------------------------------------------|
+D|-2------------------------------------------------|
+A|-3------------------------------------------------|
+E|--------------------------------------------------|
+
+   F             C
+E|-5-5-5-5--3-1--0----------------------------------|
+B|-6-6-6-6--5-3--1----------------------------------|
+G|---------------0----------------------------------|
+D|---------------2----------------------------------|
+A|---------------3----------------------------------|
+E|--------------------------------------------------|
+
+[Primeira Parte]
+
+ C
+Moça eu não sei falar
+
+          G
+Coisas bonitas pra te conquistar
+          F                       C        G
+Eu tenho só uma viola moça eu só sei cantar
+
+[Segunda Parte]
+
+ C           F        C
+Moça eu não tenho dinheiro
+          G
+Minha riqueza eu vou te contar
+      F                        C
+É o braço da viola moça eu só sei cantar
+
+[Pré-Refrão]
+
+ G              F                     C
+Moça se você parar um pouco pra me ouvir
+                                G
+Em alguns minutos vai me descobrir
+            F                C  F  C
+Enxergar o fundo do meu coração
+
+ G                    F                 C
+Moça eu já sei que o papo agora é só ficar
+                                 G
+Mas eu to querendo mesmo é me casar
+               F                  C  C7
+Se me achar careta eu te peço perdão
+         F                  G                C   F  C  G/B  Am
+Mas eu quero falar com seu pais pedir a sua mão
+
+[Refrão]
+
+G              F                    C
+E se vocë aceitar um amor de um violeiro
+                               G
+O seu coração vai ser meu paradeiro
+         F                    C
+Eu e a viola e uma eterna canção
+ G                  F                   C
+Moça eu não tenho pressa pra te conquistar
+             C7               F
+O braço da viola vai me consolar
+            G                  C   F
+Até você abrir de vez seu coração
+   C          F  C
+O seu coração
+
+[Solo]
+
+E|-0-0-0-0--1-3-5---0-0-0-0---1-3-5--7--0------------|
+B|-1-1-1-1--3-5-6---1-1-1-1---3-5-6--8--1------------|
+G|---------------------------------------------------|
+D|---------------------------------------------------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+[Segunda Parte]
+
+ C           F        C
+Moça eu não tenho dinheiro
+          G
+Minha riqueza eu vou te contar
+      F                        C
+É o braço da viola moça eu só sei cantar
+
+ G              F                     C
+Moça se vocë parar um pouco pra me ouvir
+                                G
+Em alguns minutos vai me descobrir
+            F                C  F  C  G/B  Am
+Enxergar o fundo do meu coração
+
+[Refrão]
+
+ G                    F                 C
+Moça eu já sei que o papo agora é só ficar
+                                 G
+Mas eu to querendo mesmo é me casar
+               F                  C  C7
+Se me achar careta eu te peço perdão
+         F                  G                C   F  C  G/B  Am
+Mas eu quero falar com seu pais pedir a sua mão
+
+G              F                    C
+E se vocë aceitar um amor de um violeiro
+                               G
+O seu coração vai ser meu paradeiro
+         F                    C
+Eu e a viola e uma eterna canção
+ G                  F                   C
+Moça eu não tenho pressa pra te conquistar
+             C7               F
+O braço da viola vai me consolar
+            G                  C   F  C  G/B  Am
+Até você abrir de vez seu coração
+
+G              F                    C
+E se vocë aceitar um amor de um violeiro
+                               G
+O seu coração vai ser meu paradeiro
+         F                    C
+Eu e a viola e uma eterna canção
+ G                  F                   C
+Moça eu não tenho pressa pra te conquistar
+             C7               F
+O braço da viola vai me consolar
+            G                  C
+Até você abrir de vez seu coração
+
+( F  C  F  C  F  C )
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

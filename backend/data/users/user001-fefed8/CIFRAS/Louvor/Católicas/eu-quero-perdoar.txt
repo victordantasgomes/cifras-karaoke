@@ -1,0 +1,45 @@
+@titulo: eu-quero-perdoar
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Eu Quero Perdoar
+
+A              D                A
+Se o meu pai, um dia me fez chorar
+  D           A       Bm
+Chegar perto mim, eu quero
+     E      A
+Abraçar, esquecerei de tudo, de
+  D           A      D
+Tudo que ele fez, e assim pensando
+    A              Bm  E
+Em Deus, papai eu quero
+        A   A7
+Te perdoar
+
+[Refrão]
+
+    Bm        E       A        F#m
+Eu quero perdoar, eu quero perdoar
+    D         E           A   A7
+Eu quero perdoar o meu irmão
+    Bm        E       A        F#m
+Eu quero perdoar, eu quero perdoar
+
+    D         E           A
+Eu quero perdoar o meu irmão
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

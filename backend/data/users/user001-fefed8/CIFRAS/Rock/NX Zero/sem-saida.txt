@@ -1,0 +1,121 @@
+@titulo: sem-saida
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nx Zero - Sem Saída
+
+Intro:
+E|--------------------------------------------------|
+B|-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10--|
+G|-7--7--7--7--7--7--7--7--7--7--7--7--7--7--7--8---|
+D|--------------------------------------------------|
+A|--------------------------------------------------|
+E|--------------------------------------------------|
+
+E|--------------------------------------------------------------------------------------------------------|
+B|-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10--|
+G|-7--7--7--7--7--7--7--7--7--7--7--7--7--7--7--7--8--8--8--7--7--7--7--7--7--7--7--7--7--7--7--7--7--7---|
+D|--------------------------------------------------------------------------------------------------------|
+A|--------------------------------------------------------------------------------------------------------|
+E|--------------------------------------------------------------------------------------------------------|
+
+C#                       F#
+Às vezes as coisas mais simples
+                         D#
+são as mais difíceis de ver,
+                    F#
+são as mais difíceis de entender.
+
+
+C#                  F#
+A resposta está escrita
+                      D#
+em um livro que eu não li,
+                       F#
+em um filme que eu não vi.
+
+C#                        D#
+Estamos em um beco sem saída.
+ F#
+Tudo não passa de um sonho.
+C#                  D#
+A realidade está aqui
+ F#
+em outras circunstâncias.
+
+ A#             F#             C#
+Eu queria que você estivesse aqui.
+          D#
+Me diga de que vale um momento bom
+A#              F#          C#
+se não tem ninguém pra dividir
+D#
+yeah...
+E|--------------------------------------------|
+B|--------------------------------------------|
+G|-12-12-12-12--10-10-10-10-10-10-6-6-6-6-6-6-|
+D|--------------------------------------------|
+A|-10-10-10-10--8--8--8--8--8--8--4-4-4-4-4-4-|
+E|--------------------------------------------|
+
+C#                       F#
+Às vezes o que é bom pra mim
+                   D#
+pode não ser pra você,
+                      F#
+mas a vida é mesmo assim.
+
+C#                        D#
+Estamos em um beco sem saída.
+ F#
+Tudo não passa de um sonho.
+C#                  D#
+A realidade está aqui
+ F#
+em outras circunstâncias.
+
+ A#             F#             C#
+Eu queria que você estivesse aqui.
+          D#
+Me diga de que vale um momento bom
+A#              F#          C#
+se não tem ninguém pra dividir
+D#
+yeah...
+
+(Solo)
+
+C#                        D#
+Estamos em um beco sem saída.
+ F#
+Tudo não passa de um sonho.
+C#                  D#
+A realidade está aqui
+ F#
+em outras circunstâncias.
+
+ A#                  F#             C#
+E eu que não tenho ninguém pra dividir
+                 D#
+Me diga de que vale um momento bom.
+A#                F#           C#
+Só queria que você estivese aqui.
+D#
+yeah...
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

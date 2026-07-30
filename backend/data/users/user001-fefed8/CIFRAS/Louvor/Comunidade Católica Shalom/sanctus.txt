@@ -1,0 +1,56 @@
+@titulo: sanctus
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - Sanctus
+
+[Intro] Gm  Eb7  Bb  F
+        Gm  Eb7  Bb  F
+        Eb  Bb  Cm  Bb  F
+
+Gm  Eb      Bb   F        Gm   Eb         F   F
+Sa..aaanctus, Sa..aaanctus, Sa..aaanctus, Dominus
+Gm   Eb      Bb   F        Gm   Eb         F   F
+Sa..aaanctus, Sa..aaanctus, Sa..aaanctus, Dominus
+Gm   Eb    Bb   F
+Deus Sabaoth
+
+Bb                    Eb   Gm      F
+Pleni sunt cæli et terra gloria tua
+Bb  Eb       Gm  F    Cm  Bb      Eb  F
+Hosanna, Hosanna, Hosanna in excelsis
+
+Bb                    Eb   Gm      F
+Benedictus, qui venit in nomine Domini
+Bb  Eb       Gm  F    Cm  Bb      Eb  F
+Hosanna, Hosanna, Hosanna in excelsis
+
+
+( D   C   Bb   A )
+
+Gm   Eb      Bb   F        Gm   Eb         F   F
+Sa..aaanctus, Sa..aaanctus, Sa..aaanctus, Dominus
+Gm   Eb      Bb   F        Gm   Eb         F   F
+Sa..aaanctus, Sa..aaanctus, Sa..aaanctus, Dominus
+Gm   Eb    Bb   F
+Deus Sabaoth
+
+[Final] Bb  Bb  Bb
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+Eb = X 6 5 3 4 3
+Eb7 = X 6 5 6 4 X
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

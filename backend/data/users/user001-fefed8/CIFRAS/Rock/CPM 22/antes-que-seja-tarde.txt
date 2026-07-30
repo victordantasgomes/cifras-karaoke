@@ -1,0 +1,90 @@
+@titulo: antes-que-seja-tarde
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Antes Que Seja Tarde
+
+" No começo tem um riff q sera repetido no final da musica "
+
+     RIFF
+
+ 1| --------------------------------------------------------------------------------------------
+ 2| --------------------------------------------------------------------------------------------
+ 3| --------------------------------------------------------------------------------------------
+ 4| ------4-----4---4------4-----4---4------4-----4---4------4-----4---4------------------------
+ 5| --4-4---4-4---4----2-2---2-2---2---------------------2-2---2-2---2--------------------------
+ 6| ------------------------------------4-4---4-4---4-------------------------------------------
+
+              Não quero me perder
+              Pensando em você
+    RIFF   Olho pro nada sem porquê
+              Às vezes te ligo
+              Nem sempre consigo
+              Não escolhi te conhecer
+
+F#   B      G#            B   F#
+         Espero sem saber
+           B     G#       B                F#
+         O que diabos vai acontecer
+
+         B         G#       B                             F#
+         Não tenho mais o tempo que passou
+         B        G#          B            C#
+         E agora só me resta te dizer
+
+             DAI PARA TUDO E O REFRAO VEM
+
+           ( F# B G# B ) essa sequencia de notas é do refrao
+
+               REFRAO
+
+        O que sinto por você
+        Nada me importa mais
+        Tarde demais
+        Onde você está?
+         DAI VEM O SOLINHO
+
+        base (F# B C )
+
+     2| -7-7-6-7-6-7-9--9-9--7-6-7-6--7-7-7-6-7-6-7-9--9-9--7-6-7-6-7
+       -7-7-6-7-4-4-4-6-6-6-7-7-6-7-4-4-4-2-2-2-7-7-7-7-7-7-7-7|
+
+ F#  B     G#             B  F#
+       Espero sem saber
+       B      G#     B               F#
+       Que diabos vai acontecer
+       B       G#        B                         F#
+        Será que nossa história terminou
+       B          G#         B           C#
+        Não pode acabar sem te dizer
+
+        DAI PARA TUDO DE NOVO E VEM O REFRAO
+
+                 ( F# B G# B )
+
+                 O que sinto por você
+                 Nada me importa mais
+                 Tarde demais
+                 Onde você está?
+
+
+ 1| -------------------------------------------------------2-------------------------------------
+ 2| -------------------------------------------------------2-------------------------------------
+ 3| -------------------------------------------------------3-------------------------------------
+ 4| ------4-----4---4------4-----4---4------4-----4---4/6--4-------------------------------------
+ 5| --4-4---4-4---4----2-2---2-2---2-----------------------4-------------------------------------
+ 6| ------------------------------------4-4---4-4---4------2-------------------------------------
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+F# = 2 4 4 3 2 2
+G# = 4 3 1 1 1 4

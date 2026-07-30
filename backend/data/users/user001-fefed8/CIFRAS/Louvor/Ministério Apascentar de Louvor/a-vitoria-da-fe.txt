@@ -1,0 +1,68 @@
+@titulo: a-vitoria-da-fe
+@autor:
+@intérprete: Ministério Apascentar de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Apascentar de Louvor (Toque No Altar) - A Vitoria da Fé
+
+[Intro] A/C#  D  F#m  E
+        A/C#  D  F#m  E
+        D
+
+E/G#  A9  A/C#  D
+  Confio só em Ti
+E/G#  A9     D
+  Tu és minha esperança
+E/G#  A9  A/C#  D
+  Sozinho não estou
+     Bm7  A/C#    E
+  Contigo vou chegar
+E/G#  A9  A/C#  D
+  Hoje decido crer
+E/G#  A9     D
+  Além das circunstâncias
+E/G#  A9  A/C#  D
+  E o que eu declarar
+      Bm7  A/C#    E
+  Deus faz acontecer
+G              D/F#
+  Sei que Tua voz
+
+         A9              E
+  É a certeza do meu milagre
+G              D/F#
+  Não vou me calar
+           A9           E
+  Preciso Te ouvir, Senhor
+    G#m  A6      C#m        B9
+  Eu vejo, Deus vem me socorrer
+    G#m  A6      C#m        B9
+  Eu creio, mesmo se ninguém crer
+    G#m  A6      C#m        B9
+  Eu ouço, Sua voz me dizer
+  F#m      E/G#    A9      B9
+  Te dou hoje a vitória da fé
+
+[Final] G#m  A  C#m  B9  F#m  A  D
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A6 = 5 X 4 6 5 X
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

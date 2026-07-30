@@ -1,0 +1,84 @@
+@titulo: comunhao
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Comunhão
+
+Introdução:  D : Bm   :  G   :  A :
+             F  :  Bb   :   Gm7  : Asus : A ::
+
+    D   A/B  Bm7
+Me santificar
+       G                  A
+Quero ser mais Teu, Senhor
+  Gm/D D    A/B   Bm7    A/G  G         Asus A
+A Tu - a presença é o     meu maior prazer
+       G             D/F#
+Ser melhor pra Te servir
+       Em             Bsus  Bm7
+Ser melhor pra Te adorar
+     G            D/F#
+Apostolicamente conquistar
+         Em     G     Asus A
+Pra Teu nome engrandecer
+
+      D D/F#       G              Asus A
+Comunhão,    como Tu e o Pai são um
+  D  D/F#    G                Asus
+União,    e com a Trindade andar
+
+           Bm  Bm7+        Bm7          E7
+Teus caminhos   são mais altos que os meus
+          Em           Asus         D
+Ser reconhecido por ser somente Teu...
+
+     Eb     Eb/G   Ab             Bbsus Bb
+Comunhão,    como Tu e o Pai são um
+  Eb  Eb/G     Ab                Bbsus
+União,      e com a Trindade andar
+ G7/B      Cm    Cm7+       Cm7            F7
+Teus caminhos      são mais altos que os meus
+        Fm Ab           Bbsus        Eb    Bb/D   Cm  Bb
+Ser reconhecido por ser somente Teu...
+       Ab Eb/G      Fm    Bbsus    Eb    Bb/D   Cm   Bb
+Ser reconhecido por ser somente Teu...
+       Ab Eb/G      Fm    Bbsus    Eb      Eb4   Eb   Eb4   Eb
+Ser reconhecido por ser somente Teu...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/G = 3 X 2 2 2 X
+Ab = 4 3 1 1 1 4
+Asus = X 0 2 2 2 0
+Bb = X 1 3 3 3 1
+Bb/D = X 5 X 3 6 6
+Bbsus = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Bm7+ = X 2 4 3 3 2
+Bsus = X 2 4 4 4 2
+Cm = X 3 5 5 4 3
+Cm7 = X 3 5 3 4 3
+Cm7+ = X 3 5 4 4 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E7 = 0 2 2 1 3 0
+Eb = X 6 5 3 4 3
+Eb/G = 3 X 1 3 4 X
+Eb4 = X 6 8 8 9 6
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F7 = 1 3 1 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G7/B = X 2 3 0 3 X
+Gm/D = X 5 5 3 3 3
+Gm7 = 3 X 3 3 3 X

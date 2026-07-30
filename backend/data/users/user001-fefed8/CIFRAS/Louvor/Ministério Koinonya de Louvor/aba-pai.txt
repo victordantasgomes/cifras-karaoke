@@ -1,0 +1,40 @@
+@titulo: aba-pai
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - Aba Pai
+
+D9            A/C#             G           D/F#
+Pai venho te dizer que tu és o meu lugar seguro
+  Em      Em/D      A     A4  A
+O  motivo da minha canção
+   D9               A/C#                 G9          Em     A  A7
+E com meu coração quero te adorar   /   exaltar teu Santo Nome
+Bm7      G9         A                 G     G4   D/F#
+Pai, te louvo, as palavras não podem dizer
+  Em           D9    Em      C       A
+O quanto eu te amo e como preciso de ti
+      G9      A         D9   A/C#   G   A
+Só me resta dizer:  Aba Pai!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+G = 3 2 0 0 0 3
+G4 = 3 5 5 5 3 3
+G9 = 3 X 0 2 0 X

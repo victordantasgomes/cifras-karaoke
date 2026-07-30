@@ -1,0 +1,85 @@
+@titulo: ate-voce-voltar
+@autor:
+@intérprete: Chitãozinho & Xororó
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Chitãozinho & Xororó - Até Você Voltar
+
+De: Carlos Cesar/Vírginia Kheer
+
+Introd.: E4 E B/E A E4 E C#m F#m B
+
+    E       B/D#
+Eu hoje perguntei para o meu
+ C#m
+coração
+   C#74         C#7
+Se ele te esqueceu
+          F#m
+Ou ainda gosta de você
+     G#
+Tão claramente ele
+        C#m
+Sem pensar me respondeu
+     F#74      F#7
+Que pulsa diferente desde
+B74          B7
+que te conheceu
+ E           B/D#        C#m
+Ainda conversando eu tentei
+
+lhe explicar
+    G#m7           C#7
+Que estou fazendo tudo
+      F#m
+Para ver você voltar
+        G#
+Que os nossos bons momentos
+   C#m          C6
+Poderão se repetir
+   E/B       B7         E  B7
+É só você parar e refletir
+          E
+Que eu te amo
+                   G#
+E esse coração só quer você
+                   A
+Fica tão contente quando vê
+A/B            E         B7
+Você se aproximar de mim
+          E
+E vou gritando
+                  G#
+Até você ouvir a minha voz
+                    A
+Até você pensar um pouco em nós
+A/B
+Até você meu bem,
+    E
+voltar pra mim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B/E = X 7 9 8 7 7
+B7 = X 2 1 2 0 2
+B74 = X 2 4 2 5 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+C6 = 8 X 7 9 8 X
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F#7 = 2 4 2 3 2 2
+F#74 = 2 4 2 4 2 X
+F#m = 2 4 4 2 2 2
+G# = 4 3 1 1 1 4
+G#m7 = 4 X 4 4 4 X

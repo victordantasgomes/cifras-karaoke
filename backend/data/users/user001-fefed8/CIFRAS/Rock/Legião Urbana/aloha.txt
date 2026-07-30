@@ -1,0 +1,118 @@
+@titulo: aloha
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Aloha
+
+Intro: F  C  G (4x)
+       G  F  C  F  G (2x)
+
+Riff 1 - 4x:                              Riff 2 - 2x:
+     F          C     G                   G            F     C       F
+E|-------0---------------0------------3--|--------------------------------|
+B|--3------3--------3------3----------3--|------------------5---6---6---5-|
+G|----0------4--------0------4--------0--|-4---5/7-7-7--5-----5-------5---|
+D|-3---3-------5--2----2-------5------0--|--------------------------------|
+A|--------------------------------0-2-2--|--------------------------------|
+E|------------------------------------3--|--------------------------------|
+
+   G               Bb
+Será que ninguém vê
+   C              F
+O caos em que vivemos
+    Bb      Bb/A    Gm   F
+Os jovens são tão jovens
+   C    Dm           C
+E fica tudo por isso mesmo
+   G            Bb     C            F
+A juventude é rica, a juventude é pobre
+
+  Bb     Bb/A  Gm    F     C     Dm        C
+A juventude sofre e ninguém parece perceber
+    D            C
+Eu tenho um coração
+    G        C
+Eu tenho ideais
+   D           C
+Eu gosto de cinema
+     G          C
+E de coisas naturais
+  D                              ( B5  A5 ) (2x)
+E penso sempre em sexo, oh yeah!
+( B5  A5 )
+Todo adulto tem inveja, Todo adulto tem inveja
+Todo adulto tem inveja dos mais jovens             ( B5  A5 ) (2x)
+  G                    Bb
+A juventude está sozinha
+          C                  F
+Não há ninguém para ajudar
+         Bb        Bb/A         Gm      F
+A explicar por que é que o mundo
+            C           Dm    C
+É este desastre que aí está
+         Bb          Bb/A  Gm  F C  Dm  C   ( F5  Bb5  D5 ) (4x)
+Eu não sei, eu não sei
+( F  Bb  D )
+Dizem que eu não sei nada
+Dizem que eu não tenho opinião
+Me compram, me vendem, me estragam
+E é tudo mentira, me deixam na mão
+Não me deixam fazer nada
+E a culpa é sempre minha, oh yeah!
+
+( Ab  Eb  C  Ab  Eb  F ) (2x)
+
+           C                    Bb
+E meus amigos parecem ter medo
+          F                 Bb
+De quem fala o que sentiu
+          C           Bb
+De quem pensa diferente
+    F                  Bb
+Nos querem todos iguais
+ C                   Bb             F
+Assim é bem mais fácil nos controlar
+        Bb               C
+E mentir, mentir, mentir
+    Bb        F
+E matar, matar, matar
+           Bb           C                        ( B5  A5 ) (8x)
+O que eu tenho de melhor: minha esperança
+( B5  A5 )
+Que se faça o sacrifício
+E cresçam logo as crianças
+
+( B5  A5 )
+
+( B5  A5 )
+E|---------------|
+B|---------------|
+G|---------------|
+D|---------------|
+A|---------------|
+E|--7-7-7-7--5---|
+
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+Ab = 4 3 1 1 1 4
+B5 = X 2 4 4 X X
+Bb = X 1 3 3 3 1
+Bb/A = X 0 3 3 3 X
+Bb5 = X 1 3 3 X X
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+Dm = X X 0 2 3 1
+Eb = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+F5 = 1 3 3 X X X
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

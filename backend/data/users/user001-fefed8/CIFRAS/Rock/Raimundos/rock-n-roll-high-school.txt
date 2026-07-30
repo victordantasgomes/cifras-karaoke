@@ -1,0 +1,113 @@
+@titulo: rock-n-roll-high-school
+@autor:
+@intérprete: Raimundos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raimundos - Rock 'N' Roll High School
+
+Os acordes são:
+
+  A         C        G        F
+
+e|---|   e|----|   e|----|   e|----|
+B|---|   B|----|   B|----|   B|----|
+G|---|   G|-10-|   G|-12-|   G|-10-|
+D|-7-|   D|-10-|   D|-12-|   D|-10-|
+A|-7-|   A|-8--|   A|-10-|   A|--8-|
+E|-5-|   E|----|   E|----|   E|----|
+
+Intro:
+
+"Rock, rock, rock'n'roll high school"
+G
+
+Verso 1:
+
+   C
+Well I don't care about history
+C
+Rock, rock, rock'n'roll high school
+
+F
+'cause that's not where I wanna be
+C
+Rock, rock, rock'n'roll high school
+
+Verso 2:
+
+ C
+Well the girls out there knock me out, you know
+C
+Rock, rock, rock'n'roll high school
+F
+Cruisin' around in my GTO
+C
+Rock, rock, rock'n'roll high school
+
+Verso3
+
+ A                  F
+ I just wanna have some kicks
+ A                  F
+ I just wanna get some chicks
+ C           A           F           G
+ Rock, rock, rock, rock, rock'n'roll high school
+ C           A           F           G
+ Rock, rock, rock, rock, rock'n'roll high school
+
+Verso4
+
+ A                  F
+ I hate the teachers and the principal
+ A                  F
+ Don't wanna be taught to be no fool
+ C           A           F           G
+ Rock, rock, rock, rock, rock'n'roll high school
+ C           A           F           G            C
+ Rock, rock, rock, rock, rock'n'roll high school
+
+Refrão:
+
+   G
+   Fun fun rock'n'roll high school
+   C
+   Fun fun rock'n'roll high school
+   G
+   Fun fun rock'n'roll high school
+   C                 F
+   Fun fun, oh baby, fun fun, oh baby
+   C       A
+   Fun fun fun fun
+
+C           A           F           G
+Rock, rock, rock, rock, rock'n'roll high school
+C           A           F           G
+Rock, rock, rock, rock, rock'n'roll high school
+D           B           G           A
+Rock, rock, rock, rock, rock'n'roll high school
+
+
+Ordem:
+
+|-Intro
+|-Verso 1
+|-Verso 2
+|-Verso 3
+|-Refrão
+|-Verso 1 (sobe 1 tom)
+|-Verso 3 (sobe 1 tom)
+|-Refrão  (sobe 1 tom)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

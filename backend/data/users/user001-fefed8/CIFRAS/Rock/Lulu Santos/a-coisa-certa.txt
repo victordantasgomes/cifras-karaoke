@@ -1,0 +1,81 @@
+@titulo: a-coisa-certa
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - A Coisa Certa
+
+[Intro] A  C#m  E  A  F#m  G
+
+A                           B/A
+Quero lhe oferecer o meu presente
+D                Dm         A        C     Bm
+que você aceite, que fique contente
+A                B/A
+Então rasgue o embrulho simplesmente
+Bm        Dm
+Depois me diga baby
+      A
+O que é que você sente
+D          E        F#m     Em
+Todo mundo deveria oferecer
+D              E         F#m
+Acho mesmo que é a coisa certa
+D          E       F#m       Em
+Todo mundo deveria dar e receber
+D                    F      G A
+Presentes mísseis de significados
+
+
+( A  C#m  E  A  F#m  G )
+
+A                      B/A
+Mas se por ventura não for do seu agrado
+D                 Dm
+Sempre se pode trocar
+         A          C       Bm
+Portanto guarde com cuidado
+A                   B/A
+Ninguém jamais enjoaria de um presente
+Bm        Dm             A
+Pois todo dia haveria um novo diferente
+D          E        F#m     Em
+Todo mundo deveria oferecer
+D              E         F#m
+Acho mesmo que é a coisa certa
+D          E       F#m       Em
+Todo mundo deveria dar e receber
+D                    F      G A
+Presentes mísseis de significados
+
+( A  C#m  E  A  F#m  G )
+
+D          E        F#m     Em
+Todo mundo deveria oferecer
+D              E         F#m
+Acho mesmo que é a coisa certa (a coisa certa)
+D          E       F#m       Em
+Todo mundo deveria dar e receber
+D                    F      G A
+Presentes mísseis de significados
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Ab = 4 3 1 1 1 4
+B/A = X 0 4 4 4 X
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

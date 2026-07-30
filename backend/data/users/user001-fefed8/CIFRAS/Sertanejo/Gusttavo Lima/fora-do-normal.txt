@@ -1,0 +1,84 @@
+@titulo: fora-do-normal
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Fora do Normal
+
+Intro: E  B  F#  A  C
+
+     Em                  G                     A                  C G/B Em
+Pra mim já não há mais segredo e hoje eu tenho medo de me arriscar
+                      G                    A                         C G/B G
+Já vasculhei o seu passado e descobri mil coisas pra não me entregar
+  Am                    Em                    D                Em
+E vejo, agora está tão claro, preciso do seu amor pra me recuperar
+   Am                  Em                     D             C      D
+E quanto mais eu fico longe o meu pensamento insiste em te procurar
+
+    Em                  G             A                  C G/B G
+Sei que também sente saudade, fica esperando minha reação
+Em                        G                   A
+Minha mente agora está confusa e não agüenta mais tanta indecisão
+       Am               Em               D                  Em
+Vou deixar todo medo de lado e parar de agir sempre com a razão
+       Am               Em                            D               C   B
+E me entrego todo por inteiro e o que eu sinto é verdadeiro nesse meu coração
+
+E                                    B
+To procurando uma palavra, um adjetivo
+
+                                    F#
+Que possa te dizer que sem você não vivo
+         E      A
+Que eu fico tão mal
+E                                          B
+Não posso mais viver sozinho sem você comigo
+                                        F#
+Meu coração está fechado, está tão vazio
+                               E      A
+Não uso mais o singular, só falo no plural
+F#m                  B                  E
+E esse amor é tão intenso, fora do normal
+
+( B  F#  A )
+
+G      Am               Em               D                  Em
+Vou deixar todo medo de lado e parar de agir sempre com a razão
+       Am               Em                            D               C   B
+E me entrego todo por inteiro e o que eu sinto é verdadeiro nesse meu coração
+
+E                                    B
+To procurando uma palavra, um adjetivo
+                                    F#
+Que possa te dizer que sem você não vivo
+         E      A
+Que eu fico tão mal
+E                                          B
+Não posso mais viver sozinho sem você comigo
+                                        F#
+Meu coração está fechado, está tão vazio
+                               E      A
+Não uso mais o singular, só falo no plural
+F#m                  B                  C#m
+E esse amor é tão intenso, fora do normal
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

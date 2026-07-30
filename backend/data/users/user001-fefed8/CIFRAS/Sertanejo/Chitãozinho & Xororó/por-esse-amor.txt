@@ -1,0 +1,102 @@
+@titulo: por-esse-amor
+@autor:
+@intérprete: Chitãozinho & Xororó
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Chitãozinho & Xororó - Por Esse Amor
+
+INTR. G D/F# Em C D7 G9
+
+G                                  Em
+PARECE QUE EU ANDO LARGADO DA VIDA
+                                    Bm
+PARECE QUE EU ANDO DISTANTE DE TUDO
+                                    C
+NÃO SAIO DE CASA NOS FINS DE SEMANA
+                          D             G
+DEPOIS DE VOCÊ OUTRO AMOR NÃO FOI FUNDO
+                                      Em
+PARECE QUE EU BEBO MAS NÃO FAZ EFEITO
+                                       Bm
+PARECE QUE EU GRITO MAS NINGUEM ESCUTA
+                                       C9
+ALGUEM ARRANCOU ESSE AMOR DO MEU PEITO
+                               D   D7
+EU VIVO TENTANDO NÃO PERDER A LUTA
+
+Refrão
+          G                 D/F#              E7
+POR ESSE AMOR, EU PERDÍ O JUIZO, QUEBREI A CABEÇA
+
+          Am                    Am/G
+POR ESSE AMOR QUE ME DEU DE PRESENTE
+               D9/F#  D7
+OS MELHORES MOMENTOS
+          Dm                   G7
+POR ESSE AMOR EU PASSEI TEMPESTADES
+             C     Cm
+DE CHUVAS E VENTOS
+           G
+POR ESSE AMOR
+              D/F#           G            C D
+UM PEDAÇO DE MIM JÁ NÃO MORA EM MEU PEITO.
+
+
+INTR.G D/F# Em Am Am/G D G G7 Cm G D G D
+
+
+PARECE QUE EU BEBO MAS..........
+
+E           A                E/G#               F#m F#7
+  POR ESSE AMOR, EU PERDÍ O JUIZO, QUEBREI A CABEÇA
+         Bm                   Bm7/A
+POR ESSE AMOR QUE ME DEU DE PRESENTE
+               E7
+OS MELHORES MOMENTOS
+Em7                            A7
+POR ESSE AMOR EU PASSEI TEMPESTADES
+             D     Dm
+DE CHUVAS E VENTOS
+          A9
+POR ESSE AMOR
+              E7                    A
+UM PEDAÇO DE MIM JÁ NÃO MORA EM MEU PEITO
+
+          A9
+POR ESSE AMOR
+              E7                    A     D Dm7 A9
+UM PEDAÇO DE MIM JÁ NÃO MORA EM MEU PEITO.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+A9 = X 0 2 2 0 0
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Bm = X 2 4 4 3 2
+Bm7/A = 5 2 4 2 3 2
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+D9/F# = 2 X 0 2 3 0
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3
+G9 = 3 X 0 2 0 X

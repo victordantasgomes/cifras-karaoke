@@ -1,0 +1,151 @@
+@titulo: seu-sangue
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Seu Sangue
+
+[Intro] F#m
+
+E|-12----------------12---------------------|
+B|----10-12------10-----10-12------10-------|
+G|----------9-11--------------9-11----------|(3x)
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Primeira Parte]
+
+A9           E
+  Seu sangue, Sua cruz
+F#m              D
+    Me levam de volta pra Deus
+A9           E
+   Sua morte,  Sua vida
+F#m           D
+    As trevas,  ele já venceu
+
+E5             D5        E5            D5
+  Seu amor me conquistou,  sou eterno devedor
+
+
+[Segunda Parte]
+
+G              D
+  O véu se rasgou
+                    F#m
+Sua luz em mim brilhou
+                  E
+Sua glória me cobriu
+                      Bm  E
+Mais que vencedor eu sou
+                      Bm  E
+Mais que vencedor eu sou
+
+[Refrão]
+
+A9                            E
+  Sei que na sala do trono está
+                 F#m
+Eu quero ir pra lá
+             D9
+Pelo novo e vivo caminho
+
+A9                            E
+  Sei que na sala do trono está
+                 F#m
+Eu quero ir pra lá
+             D9
+Pelo novo e vivo caminho
+
+[Solo] F#m
+
+E|-12----------------12---------------------|
+B|----10-12------10-----10-12------10-------|
+G|----------9-11--------------9-11----------|(2x)
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Primeira Parte]
+
+A9           E
+  Seu sangue, Sua cruz
+F#m              D
+    Me levam de volta pra Deus
+A9           E
+   Sua morte,  Sua vida
+F#m           D
+    As trevas,  ele já venceu
+
+E5             D5        E5            D5
+  Seu amor me conquistou,  sou eterno devedor
+
+[Segunda Parte]
+
+G              D
+  O véu se rasgou
+                    F#m
+Sua luz em mim brilhou
+                  E
+Sua glória me cobriu
+                      Bm  E
+Mais que vencedor eu sou
+                      Bm  E
+Mais que vencedor eu sou
+
+[Refrão]
+
+A9                            E
+  Sei que na sala do trono está
+                 F#m
+Eu quero ir pra lá
+             D9
+Pelo novo e vivo caminho
+
+A9                            E
+  Sei que na sala do trono está
+                 F#m
+Eu quero ir pra lá
+             D9
+Pelo novo e vivo caminho
+
+A9                            E
+  Sei que na sala do trono está
+                 F#m
+Eu quero ir pra lá
+             D9
+Pelo novo e vivo caminho
+
+A9                            E
+  Sei que na sala do trono está
+                 F#m
+Eu quero ir pra lá
+             D9
+Pelo novo e vivo caminho
+
+[Final] F#m
+
+E|-12----------------12---------------------|
+B|----10-12------10-----10-12------10-------|
+G|----------9-11--------------9-11----------|(2x)
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

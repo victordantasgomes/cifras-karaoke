@@ -1,0 +1,120 @@
+@titulo: fogo-de-amor
+@autor:
+@intérprete: João Paulo e Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+João Paulo e Daniel - Fogo de Amor
+
+introdução: (C F G7 F) 6 vezes (C Am Dm G7) 2 vezes
+
+Tablatura da introdução:
+
+  (C   F     G7    F)    4x     
+E|--0-0-1-1-1-1-1-1-1-1-1----|
+B|--1-1-1-1-1-0-0-0-1-1-1----|
+G|--0-0-2-2-2-0-0-0-2-2-2----|
+D|--2-2-3-3-3-0-0-0-3-3-3----|
+A|--3-3-3-3-3-2-2-2-3-3-3----|
+E|------1-1-1-3-3-3-1-1-1----|
+
+ (C   F        G7    F     C) 2x 
+E|--------------------------------|
+B|--------------------------------|
+G|--9--7--5-----------------------|
+D|-----------5--7--7--9--9--10----|
+A|--------------------------------|
+E|--------------------------------| 
+
+  (C  Am       Dm    G7) 2x 
+E|---------------------------|
+B|-----------5--6--5--3------|
+G|--------5------------------|
+D|--5--7---------------------|
+A|---------------------------|
+E|---------------------------|  
+
+
+C        F       G7
+ Ela arrepia meu corpo
+       F        C
+Quando olha pra mim
+        F         G7
+Eu ando a mil por hora
+   F        C
+Eu estou a fim
+            F          G7
+De abrir as portas pra ela
+    F       C
+Do meu coração
+           F         G7
+Deixar meu corpo no seu
+      F         C
+Descobrir a paixão
+         F          G7
+Ela tem charme é bonita
+      F         C
+E tem fogo de amor
+         F          G7
+Quero provar do seu beijo
+    F         C
+Sentir seu calor
+            F        G7
+Não dá mais pra segurar
+                Am
+Esse desejo em mim
+                  G7
+A ela vou me entregar
+                                   _
+           C       F           G7   |
+Quando o amor é de dentro pra fora  |
+        F           C               | 
+A gente tem que assumir             |
+
+        F         G7                | Estribilho 2x
+A gente ama se enrola               |
+
+E não tá nem aí                    _|
+
+             C    F   G7            |     
+A ela vou me entregar               |
+
+            F        C   F  G7      | Refrão
+Não da mais pra segurar             |
+
+
+Introdução:
+
+ (C   F        G7    F     C) 2x 
+E|--------------------------------|
+B|--------------------------------|
+G|--9--7--5-----------------------|
+D|-----------5--7--7--9--9--10----|
+A|--------------------------------|
+E|--------------------------------| 
+
+  (C  Am       Dm    G7) 2x 
+E|---------------------------|
+B|-----------5--6--5--3------|
+G|--------5------------------|
+D|--5--7---------------------|
+A|---------------------------|
+E|---------------------------|  
+
+Repete: Início ao fim
+
+Repete: Estribilho  2 vezes
+
+Repete: Refrão 4 vezes
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G7 = 3 5 3 4 3 3

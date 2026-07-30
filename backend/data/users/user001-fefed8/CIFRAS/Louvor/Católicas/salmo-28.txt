@@ -1,0 +1,37 @@
+@titulo: salmo-28
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Salmo 28
+
+      C  C7+/9            Am7 Asus            F                                 Dm7               Bb9 G4
+   Que            o Senhor               abençoe, abençoe com a paz, o seu povo.
+     C C7+/9             Am7 Asus            Dm7                            G4                 C
+   Que            o Senhor               abençoe, abençoe com a paz, o seu povo.
+  Dm7                       C/E                          F             Dm7           Bb9 G4 G
+1.Filhos de Deus, tributai ao Senhor, tributai-lhe a glória e o poder!
+   Dm7                    C/E                               F             Dm7               G4  G
+Dai-lhe a glória devida ao seu nome; adorai-o com santo ornamento!
+2.Eis a voz do Senhor sobre as águas, sua voz sobre as águas imensas!
+Eis a voz do Senhor com poder! Eis a voz do Senhor majestosa.
+3.Eis a voz do Senhor no trovão! No seu templo os fiéis bradam:"Glória!"
+É o Senhor que domina os dilúvios, o Senhor reinará para sempre!
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Asus = X 0 2 2 2 0
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C7+/9 = X 3 2 4 3 X
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G4 = 3 5 5 5 3 3

@@ -1,0 +1,43 @@
+@titulo: mais-alem
+@autor:
+@intérprete: Detonautas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Detonautas - Mais Além
+
+  B     A    E       B
+Se você fosse mais além
+           A              E         B
+Talvez pudesse descobrir algo legal em mim
+      A    E         B
+E se isso te fizesse bem
+                   A           E        B
+Quem sabe a gente poderia se encontrar enfim
+(Refrão)
+  B      E       C#m   B
+Ah! Cada dia num novo lugar
+          A           D       B
+Eh! O Tempo passa sem se perceber
+   B B A B D B
+B        A          E      B
+Se você fosse mais além
+                  A                   E    B
+Quem sabe a gente não parasse mais de ser feliz
+   A       E         B
+A noite num segundo vem
+         A                     E        B
+E deixa tudo preparado como eu sempre quis
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0

@@ -1,0 +1,79 @@
+@titulo: aquele-que-e
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Aquele Que É
+
+Intro:       | Dm7 |  %  | % |  %  |
+                | Dm7 | C/E | F | G9 |
+                | Dm7 | C/E | F | G9 |
+
+                 Dm7                                            C9/D
+Posso ouvir o som das águas do rio de Deus que vem chegando
+                Bb9                                           F/A                  Am
+Posso ouvir o som da chuva que vem sobre a Terra seca
+                  Dm7                                            C9/D
+Posso sentir o vento do Espírito sobre o vale de ossos secos
+                  Bb9                                                     F/A                        Am
+Posso sentir o tremor dos montes ao ouvir a voz do todo poderoso
+              | Dm7 | C | F | G9 |
+o nosso Deus
+
+(Refrão)
+                    Dm7  C/E               Bb9  F/A
+Aquele que era      Aquele que é
+                   Gm7        C4 C
+Aquele que há   de vir
+                   Dm7  C/E                Bb9  F/A
+Aquele que era      Aquele que é
+
+                  Gm7        C4 C
+Aquele que há   de vir
+
+Ele Vem sobre mim
+
+ INTRO: | Dm7 | C/E | F9 | G9 |
+
+Repete do início
+
+| Dm7 | Dm7 | G/D | G/D |
+
+Dm7       Bb9                       F          C4
+Esta é a geracao dos que amam Tua presenca                     2X
+Dm7       Bb9                      F/A               C9
+Esta é a geracao dos que buscam Tua face
+
+     Dm7       C/E           F            G9
+Jesus     Jesus     Jesus     Jesus           ( 3x)
+
+    (GUITARRA FAZ FRASE SOBRE DA MELODIA ACIMA)
+
+Volta para o Refrão repetindo 3x
+
+Espontâneo | Dm7 | C/E | F9 | G9 |
+
+ FINALIZAÇÃO | F/A | C | F | G | Dm7
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C4 = X 3 3 0 1 X
+C9 = X 3 5 5 3 3
+C9/D = X 5 5 5 3 3
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G/D = X 5 5 4 3 X
+G9 = 3 X 0 2 0 X
+Gm7 = 3 X 3 3 3 X

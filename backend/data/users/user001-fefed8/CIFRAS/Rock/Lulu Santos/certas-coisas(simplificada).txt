@@ -1,0 +1,66 @@
+@titulo: certas-coisas(simplificada)
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - Certas Coisas
+
+Intr.: Am G Gm D (2x)
+
+Am                    G
+Nao existiria som
+Gm               D
+Se não houvesse o silencio
+ Am                  G
+Não haveria luz se não
+Gm                   D
+Fosse a escuridão
+  Bm             E
+A vida é mesmo assim
+       Em                    Bm    A
+Dia e noite , não e sim
+Am                                 G
+Cada voz que canta o amor
+     Gm                                  D
+Não diz tudo o que quer dizer
+Am                         G
+Tudo que cala fala mais
+Gm          D
+Alto ao coração
+
+Bm                 E         Em                Bm        A
+Silenciosamente eu te falo com Paixão
+
+ D                     E
+Eu te amo calado
+                           F#                      Bm   G
+Como quem houve uma sinfonia
+      A                    Bm      Gm Bm E
+De silencio e de luz
+                       G             F#
+Nós somos medo e desejo
+         Bm                                 E
+Somos feitos de silencio e som
+ G                      E
+Tem certas coisas
+                     G     D
+Que eu não sei dizer
+
+(G  Gm  D  Am  G  Gm  D)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

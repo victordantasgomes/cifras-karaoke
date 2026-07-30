@@ -1,0 +1,66 @@
+@titulo: acordar-pra-sempre-com-voce
+@autor:
+@intérprete: Biquini Cavadão
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Biquini Cavadão - Acordar Pra Sempre Com Você
+
+(intro)  B9*  A9  C#m*  C#m/A
+
+B9*                                     A9
+Flores nascem e morrem no jardim
+                               C#m
+Assim o dia acaba em Noite
+                  C#m/A
+E o céu parece não ter fim
+
+B9*                                     A9
+Estrelas sempre mudam de lugar
+                               C#m*
+Fazendo curvas no destino
+                  C#m/A
+Aonde vai nos levar
+
+               G
+Eu só queria
+E                                 B
+Acordar pra sempre com você
+          G
+Até diria
+
+  E                                    B
+Qualquer coisa pra te convencer
+
+           G#m
+Que os dias passam
+            E
+As pessoas mudam
+         A                                    B
+Por que é tão difícil acreditar em nós
+                        G#m
+Quando estamos sós
+   E
+A sua voz
+A9                         B9*               (intro)
+Faz o meu tempo parar
+
+(intro)
+(repete tudo)
+(refrão 2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+C#m/A = X 0 2 1 2 0
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

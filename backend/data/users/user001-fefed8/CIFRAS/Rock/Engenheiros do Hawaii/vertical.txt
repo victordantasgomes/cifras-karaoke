@@ -1,0 +1,100 @@
+@titulo: vertical
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Vertical
+
+Intro 2x: F#m  Ebº/A
+
+       F#m
+  Tá legal
+          G#m7/D#
+  Eu tô ligado
+    D              E         F#m
+  Saber o que é possível é legal
+         G#m7/D#
+  Eu tô ligado
+      D         E         F#m
+  Querer o impossível é legal
+          G#m7/D#
+  Eu tô ligado
+  D
+  Vai chegar a hora
+    E              F           F#m
+  E quando chega a hora é mais legal
+Bm                A
+  Saber todo mundo sabe
+                    E
+  Querer todo mundo quer
+
+Bm            A            E
+  Mais fácil falar do que fazer
+Bm                A
+  Saber todo mundo sabe
+                    E
+  Querer todo mundo quer
+Bm            A            E  F F#m  G#m7/D#  F#m  G#m7/D#
+  Mais fácil falar do que fazer
+       F#m      G#m7/D#
+  Vertical... de corpo e alma
+     D            E
+  Mergulho ou decolagem
+        F#m
+  Tanto faz
+          G#m7/D#
+  Eu tô ligado
+        D             E
+  Lá no alto ou lá no fundo
+          F#m
+  É  vertical
+          Ebº/A
+  Eu tô ligado
+  D
+  Já chegou a hora
+     E             F        F#m
+  E quando chega a hora é radical
+Bm                A
+  Saber todo mundo sabe
+                    E
+  Querer todo mundo quer
+Bm            A            E
+  Mais fácil falar do que fazer
+Bm                A
+  Saber todo mundo sabe
+                    E
+  Querer todo mundo quer
+Bm            A            E  F  F#m  G#m7/D# F#m  G#m7/D#
+  Mais fácil falar do que fazer
+Bm                A
+  Saber todo mundo sabe
+                    E
+  Querer todo mundo quer
+Bm            A            E
+  Mais fácil falar do que fazer
+Bm                A
+  Saber todo mundo sabe
+                    E
+  Querer todo mundo quer
+Bm            A            E   F  F#m  G#m7/D#  F#m G#m7/D#
+  Mais fácil falar do que fazer
+       F#m
+  Tá legal
+          G#m7/D#
+  Eu tô ligado
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Ebº/A = X 12 10 11 10 X
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G#m7/D# = X 6 4 4 4 4

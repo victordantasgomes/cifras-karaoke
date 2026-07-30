@@ -1,0 +1,231 @@
+@titulo: gaveta
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Fernando e Sorocaba - Gaveta
+
+Capo Casa 2
+
+Intro: E5(9)  C#m7  A5(9)  E5(9)
+
+Dedilhado Padrão:
+
+Parte 1
+
+  E5(9)
+E|------------------------------------------|
+B|------------------------------------------|
+G|-4-4-x-x-4--4-4-x-x-x-x-------------------|
+D|-4-4-x-x-4--4-4-x-x-x-x-------------------|
+A|-2---x---2------x---x---------------------|
+E|-0---x---0------x---x---------------------|
+
+Parte 2
+
+  C#m7
+E|------------------------------------------|
+B|------------------------------------------|
+G|-4-4-x-x-4--4-4-x-x-x-x-------------------|
+D|-2-2-x-x-2--2-2-x-x-x-x-------------------|
+A|-4---x---4------x---x---------------------|
+E|-----x----------x---x---------------------|
+
+
+Parte 3
+
+  A5(9)
+E|------------------------------------------|
+B|------------------------------------------|
+G|-4-4-x-x-4--4-4-x-x-x-x-------------------|
+D|-2-2-x-x-2--2-2-x-x-x-x-------------------|
+A|-0---x---0------x---x---------------------|
+E|-----x----------x---x---------------------|
+
+Variação Intro:
+
+  E5(9)
+E|------------------------------------------|
+B|------------------------------------------|
+G|-4-4-x-x-4--4-4-x-x-----------------------|
+D|-4-4-x-x-4--4-4-x-x-----------------------|
+A|-2---x---2------x-------------------------|
+E|-0---x---0------x---7\--------------------|
+
+Primeira Parte:
+
+E5(9)
+      Quando a praia se esquecer do mar
+                     C#m7
+E o mar desistir das ondas
+
+As ondas vão se acalmar
+                            A5(9)
+E aos poucos vão deixar a prancha
+                        E5(9)  (passagem 1)
+Nesse dia eu vou te esquecer
+
+
+Quando a prancha esquecer dos pés
+                         C#m7
+E os pés não deixarem pegadas
+
+Pegadas não serão vestígios
+                               A5(9)
+De alguém que cruzou nossa estrada
+                        B4
+Nesse dia eu vou te esquecer
+
+Passagem 1:
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|-4/6-4-x-x-x-4----------------------------|
+D|-------x---x---6\4p2h4p2------------------|
+A|-------x---x------------------------------|
+E|-------x---x------------------------------|
+
+Refrão:
+
+E5(9)
+      Tá duvidando, é? Cuidado
+
+Que eu te esqueço e você cai do cavalo
+C#m7
+     Tá se achando, é? Aproveita
+                               A5(9)
+Que um dia eu te esqueço na gaveta
+                               B4
+Que um dia eu te esqueço na gaveta
+
+Variação Refrão:
+
+  B4
+E|------------------------------------------|
+B|------------------------------------------|
+G|-4-4-x-x-x-4-x-x-x-x----------------------|
+D|-4-4-x-x-x---x-x-x-x----------------------|
+A|-2---x---x---x---x------------------------|
+E|-----x---x---x---x---10\------------------|
+
+Segunda Parte:
+
+E5(9)
+      Quando a lua se esquecer do sol
+                          C#m7
+O sol não der chance pra sombra
+
+E a sombra deixar o coqueiro
+                   A5(9)
+Bem onde a rede balança
+                        E5(9)  (passagem 2)
+Nesse dia eu vou te esquecer
+
+
+Quando a rede se esquecer da bola
+                            C#m7
+A bola que o goleiro não alcança
+
+E o grito esquecer do gol
+                            A5(9)
+E o gol parar bem na garganta
+                        B4
+Nesse dia eu vou te esquecer
+
+Variação Dedilhado Padrão:
+
+Parte 1
+
+  E5(9)
+E|---0--------0-0---------------------------|
+B|---0--------0-0---------------------------|
+G|-4-4-x-x-4--4-4-x-x-x-x-------------------|
+D|-4-4-x-x-4--4-4-x-x-x-x-------------------|
+A|-2---x---2------x---x---------------------|
+E|-0---x---0------x---x---------------------|
+
+Parte 2
+
+  C#m7
+E|---0--------0-0---------------------------|
+B|---0--------0-0---------------------------|
+G|-4-4-x-x-4--4-4-x-x-x-x-------------------|
+D|-2-2-x-x-2--2-2-x-x-x-x-------------------|
+A|-4---x---4------x---x---------------------|
+E|-----x----------x---x---------------------|
+
+Parte 3
+
+  A5(9)
+E|---0--------0-0---------------------------|
+B|---0--------0-0---------------------------|
+G|-4-4-x-x-4--4-4-x-x-x-x-------------------|
+D|-2-2-x-x-2--2-2-x-x-x-x-------------------|
+A|-0---x---0------x---x---------------------|
+E|-----x----------x---x---------------------|
+
+Passagem 2
+
+E|-------------0---0---0---0----------------|
+B|---------------2---0----------------------|
+G|-4/6-4-x-x-x-----------2---1--------------|
+D|-------x---x------------------------------|
+A|-------x---x------------------------------|
+E|-------x---x------------------------------|
+
+Refrão:
+
+E5(9)
+      Tá duvidando, é? Cuidado
+
+Que eu te esqueço e você cai do cavalo
+C#m7
+     Tá se achando, é? Aproveita
+                               A5(9)
+Que um dia eu te esqueço na gaveta
+                               B4
+Que um dia eu te esqueço na gaveta
+
+E5(9)
+      Tá duvidando, é? Cuidado
+
+Que eu te esqueço e você cai do cavalo
+C#m7
+     Tá se achando, é? Aproveita
+                               A5(9)
+Que um dia eu te esqueço na gaveta
+      B4
+Na gaveta
+
+Variação Repetição Refrão:
+
+  B4
+E|----------------0--0-0-0-0-0-0-0----------|
+B|----------------0--0-0-0-0-0-0-0----------|
+G|-4-4-x-x-4--4-4-4--4-4-4-4-4-4-4----------|
+D|-4-4-x-x-4--4-4-4--4-4-4-4-4-4-4----------|
+A|-2---x---2------2--2-2-2-2-2-2-2----------|
+E|-----x------------------------------------|
+
+
+Final:
+
+(E5(9)  C#m7  A5(9) )
+
+E5(9)
+      Quando a praia se esquecer do mar
+
+E o mar desistir das ondas
+
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+A5(9)*  = X 0 2 4 0 0 - (*B5(9) na forma de A5(9))
+B4*  = X 2 4 4 0 0 - (*C#4 na forma de B4)
+C#m7*  = X 4 2 4 0 0 - (*D#m7 na forma de C#m7)
+E5(9)*  = 0 2 4 4 0 0 - (*F#5(9) na forma de E5(9))

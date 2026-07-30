@@ -1,0 +1,87 @@
+@titulo: de-repente-california
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - De Repente, Califórnia
+
+(intro) D5+
+
+                        G7M
+Garota, eu vou pra Califórnia
+                      C#°
+Viver a vida sobre as ondas
+                      Cm
+Vou ser artista de cinema
+Eb         D           C9 G/B  A4(7) G5  D5+
+ O meu destino é ser star
+
+                      G7M
+O vento beija meus cabelos
+                        C#°
+As ondas lambem minhas pernas
+                    Cm
+O sol abraça o meu corpo
+Eb        D           C9 G/B  A4(7) G5
+ Meu coração canta feliz
+
+             B          C
+Eu dou a volta, pulo o muro
+
+               Eb             G7M
+Mergulho no escuro, salto de banda
+                   A7
+Na Califórnia é diferente, irmão
+   A7(4/6)              D5(9)  D5+
+É muito mais do que um sonho
+
+                        G7M
+   E a vida passa lentamente
+                        C#°
+E a gente vai tão de repente
+                        Cm
+Tão de repente que não sente
+Eb         D             C9 G/B  A4(7) G5
+ Saudades do que já passou
+
+
+             B          C
+Eu dou a volta, pulo o muro
+               Eb             G7M
+Mergulho no escuro, salto de banda
+                       A7
+Na minha vida ninguém manda, não
+    A7(4/6)        D5(9) D5+
+Eu vou além desse sonho
+
+                        G7M
+Garota, eu vou pra Califórnia
+                      C#°
+Viver a vida sobre as ondas
+                      Cm
+Vou ser artista de cinema
+Eb         D           C9 G/B  A4(7) G5  D5+
+ O meu destino é ser star
+
+----------------- Acordes -----------------
+A4(7) = X 0 0 0 3 3
+A7 = X 0 2 0 2 0
+A7(4/6) = X 0 4 0 3 0
+B = X 2 4 4 4 2
+C = X 3 5 5 5 3
+C#° = X 4 5 3 5 3
+C9 = X 3 2 0 3 3
+Cm = X 3 5 5 4 3
+D = X 5 7 7 7 5
+D5(9) = X X 0 2 3 0
+D5+ = X X 0 3 3 2
+Eb = X 6 8 8 8 6
+G/B = X 2 0 0 3 3
+G5 = 3 X 0 0 3 3
+G7M = 3 X 4 0 3 X

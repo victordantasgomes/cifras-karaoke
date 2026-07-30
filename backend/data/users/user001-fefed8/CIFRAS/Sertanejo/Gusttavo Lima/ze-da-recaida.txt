@@ -1,0 +1,174 @@
+@titulo: ze-da-recaida
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Zé da Recaída
+
+[Intro] F  C  Dm  Bb
+
+E|-5-8-----------8---------------5-5h6p5--------------|
+B|-6---8/10-8--8---8/10-8--8\6-8---------8-8\6/10-6~--|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+[Riff Guitarra]
+
+E|---13---12---10~------------------------------------|
+B|-x----x----x----------------------------------------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+[Primeira Parte]
+
+ F             C
+To há mais de duas horas
+
+Dm                Bb
+Ensaiando uma recaída
+ F         C
+Número já tá na tela
+Dm                        Bb
+É só apertar o verde que liga
+
+[Pré-Refrão]
+
+    Gm           C
+Me vê uma dose pra mudar minha vida
+Dm                    F
+  Da melhor que você tem
+     Bb                C                    Dm
+Pra ver se com inspiração em Old Parr, ela vem
+                     F           Bb
+O empurrãozinho que falta, ai ai ai
+                       C
+Pra completar essa chamada, ah
+
+[Refrão]
+
+  F
+Atende aí
+                      C
+O Zé da recaída tá ligando aí
+Eu não to nem aí
+       Dm
+Se salvou meu nome assim
+O importante é que ao vivo
+        Bb         C
+Cê me chama de benzim
+
+  F
+Atende aí
+                      C
+O Zé da recaída tá ligando aí
+Eu não to nem aí
+       Dm
+Se salvou meu nome assim
+O importante é que ao vivo
+        Bb         C
+Cê me chama de benzim
+
+[Solo] F  C  Dm  Bb
+       F  C  Dm  Bb
+
+E|-5-8-----------8---------------5-5h6p5--------------|
+B|-6---8/10-8--8---8/10-8--8\6-8---------8-8\6/10-6~--|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|-5-8-----------8---------------5-5h6p5--------------|
+B|-6---8/10-8--8---8/10-8--8\6-8---------8-8\6/10-6~--|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|-12/13-13-13-13--12-10h12p10-8--8/10----------------|
+B|----------------------------------------------------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+[Pré-Refrão]
+
+    Gm           C
+Me vê uma dose pra mudar minha vida
+Dm                    F
+  Da melhor que você tem
+     Bb                C                    Dm
+Pra ver se com inspiração em Old Parr, ela vem
+                     F           Bb
+O empurrãozinho que falta, ai ai ai
+                       C
+Pra completar essa chamada, ah
+
+[Refrão]
+
+  F
+Atende aí
+                      C
+O Zé da recaída tá ligando aí
+Eu não to nem aí
+       Dm
+Se salvou meu nome assim
+O importante é que ao vivo
+        Bb         C
+Cê me chama de benzim
+
+  F
+Atende aí
+                      C
+O Zé da recaída tá ligando aí
+Eu não to nem aí
+       Dm
+Se salvou meu nome assim
+O importante é que ao vivo
+        Bb         C  C#
+Cê me chama de benzim
+
+  F#
+Atende aí
+                      C#
+O Zé da recaída tá ligando aí
+Eu não to nem aí
+       D#m
+Se salvou meu nome assim
+O importante é que ao vivo
+        B          C#
+Cê me chama de benzim
+
+  F#
+Atende aí
+
+[Final]
+
+E|-6-9-----------9------------------------------------|
+B|-7---9/11-9--9---9/11-9--7~-------------------------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+D#m = X X 1 3 4 2
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+Gm = 3 5 5 3 3 3

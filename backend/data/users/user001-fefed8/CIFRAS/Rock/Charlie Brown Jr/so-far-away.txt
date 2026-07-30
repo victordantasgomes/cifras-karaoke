@@ -1,0 +1,81 @@
+@titulo: so-far-away
+@autor:
+@intérprete: Charlie Brown Jr
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Charlie Brown Jr. - So Far Away
+
+(intro 8x)
+
+(riff)
+E |--------------------------------------------------
+B |--------------------------------------------------
+G |--------------------------------------------------
+D |--------------------------------------------------
+A |---------88--6--8-6--8--6--8-6--8--6--8--6--8--88-
+E |--------------------------------------------------
+
+C# G# F
+So far away but it´s ok
+C# D# F
+It´s all right, I´m gonna live my life
+C# G# F
+You´re not with me today but I try to understand
+C# D# F
+It´s All right, I´m gonna live my life
+
+C# G# A# F   C# G# A# (2x)
+I don´t wanna let you go...
+
+
+F         D#
+So far away I´m missing you
+C          C#
+That´s aways you
+You´re so far away
+
+(riff 4x)
+
+C# G# F
+Behind the wall so many dreams fall down
+C# D# F
+It´s all right, I´m gonna live my life
+C# G# F
+You said to me you´re out you´ve just cried enough
+C# D# F
+It´s all right, I´m gonna live my life
+
+C# G# A# F   C# G# A# (2x)
+I don´t wanna let you go...
+
+F         D#
+So far away I´m missing you
+C          C#
+That´s aways you
+
+You´re so far away (bis)
+
+(riff 8x)
+
+(final)
+D F F#m G#  A#
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A# = X 1 3 3 3 1
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

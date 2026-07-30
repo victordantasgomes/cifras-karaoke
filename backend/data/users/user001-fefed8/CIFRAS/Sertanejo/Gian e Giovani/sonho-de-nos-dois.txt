@@ -1,0 +1,77 @@
+@titulo: sonho-de-nos-dois
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Sonho de Nós Dois
+
+G/B, Am, Gm7, C7, F, E.
+
+     Am
+SEPARAR OS MEUS SONHOS DOS SEUS
+     E/G#
+DIVIDIR NOSSO LEITO DE AMOR
+      G*                          Dm/F   Dm
+TE TIRAR DA CABECA DE VEZ E DO CORACAO
+     Fm/Ab
+E SENTENCA DE MORTE PRA MIM
+       C             E7      Am
+TE PERDER SE EU NAO POSSO FICAR
+      D7
+UM MINUTO SE QUER SEM VOCE
+        G                G#*
+O AMOR TEM QUE ME ESCUTAR
+
+     Am
+DIVIDIR O MEU MUNDO COM DEUS
+      E/G#
+FOI O QUE ME RESTOU AFINAL
+
+         G*                              Dm/F
+PRA TENTAR EVITAR ENTRE NOS ESSE GOLPE FATAL
+       Fm/Ab
+A ESPERANCA ME FAZ RESISTIR
+       C      E7         Am
+MINHA FE ME OBRIGA A FICAR
+       D7                  G              C     G
+NA CERTEZA DE QUE CEDO OU TARDE VOCE VAI VOLTAR
+
+       C
+EU TE SEGUI AMOR
+     E7        Am     Gm7
+POR TODO SEU CAMINHO
+   C7     F
+NO SONHO DE NOS DOIS
+    C/E          Dm    G
+NAO VOU FICAR SOZINHO
+       C
+EU TE SEGUI AMOR
+     E7         Am             Fm
+POR TODO SEU CAMINHO EU AMO VOCE
+     C              G            F  C
+VAI SER DEMAIS PRA MIM EU TE PERDER
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+Dm/F = X X 3 2 3 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+Fm/Ab = 4 3 3 1 X X
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G/B = X 2 0 0 3 3
+Gm7 = 3 X 3 3 3 X

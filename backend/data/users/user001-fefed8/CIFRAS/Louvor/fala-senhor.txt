@@ -1,0 +1,36 @@
+@titulo: fala-senhor
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Fala Senhor
+
+    A                          E7                                   A     A7
+1 - Fala, Senhor, pela Bíblia: tu és a palavra que salva!
+
+Refrão:
+
+D              E   A    F#7       Bm      E7             A
+Em mim é tudo silêncio... eu quero ouvir tua voz.
+
+     A                     E7              A        A7
+2 - Fala, Senhor, pela Igreja: é tua presença no mundo!
+     A                     E7              A        A7
+3 - Fala, Senhor, pela vida: é tua vida nos homens!
+     A                     E7              A        A7
+4 - Fala, Senhor, pelas coisas: são teus sinais de bondade!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#7 = 2 4 2 3 2 2

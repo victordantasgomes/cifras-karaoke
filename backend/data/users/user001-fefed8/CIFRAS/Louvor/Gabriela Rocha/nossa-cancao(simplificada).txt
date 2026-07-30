@@ -1,0 +1,92 @@
+@titulo: nossa-cancao(simplificada)
+@autor:
+@intérprete: Gabriela Rocha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gabriela Rocha - Nossa Canção
+
+Intro: B9  E  G#m  F#
+
+B9     E
+  Somos estrangeiros
+G#m             F#
+   Cansados de andar
+
+B9       E
+  Procurando abrigo
+G#m            F#
+   A terra, o lar
+
+  B9
+Que possamos ouvir
+E           G#m           F#
+  Tua voz ecoando nos corações
+ B9              E
+Lança ao pó nossa glória
+            G#m
+Faz o teu trono
+              F#
+ Em nossa canção
+
+
+B9  E  G#m  F#
+
+B9      E
+  Somos o teu povo
+G#m         F#
+   Santa nação
+B9   E
+  Sacerdócio Eterno
+G#m             F#
+   E pó desse chão
+
+  B9
+Que possamos ouvir
+E           G#m           F#
+  Tua voz ecoando nos corações
+ B9               E
+Lança ao pó nossa glória
+            G#m              F#
+Faz o teu trono em nossa canção
+
+    E   B9     G#m  F#
+Alelu___ia,    alelu__-ia
+    E   B9      F#
+Alelu___ia,    Nosso   Deus
+
+             E   B9     G#m  F#
+Cantamos alelu___ia,    alelu__-ia
+    E   B9      F#
+Alelu___ia,    Nosso   Deus
+
+ B9              E
+Somos pó desse chão, Pai
+            G#m              F#
+Faz o teu trono em nossa canção
+   B9              E
+e lança ao pó nossa glória
+            G#m              F#
+Faz o teu trono em nossa canção
+
+    E   B9     G#m  F#
+Alelu___ia,    alelu__-ia
+    E   B9      F#
+Alelu___ia,    Nosso   Deus
+
+
+B9  E            G#m            F#
+      Faz o teu trono, nossa canção
+         B9  E  G#m  F#
+Lança o pó
+
+----------------- Acordes -----------------
+B9 = X 2 4 4 2 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

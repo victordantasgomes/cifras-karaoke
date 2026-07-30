@@ -1,0 +1,85 @@
+@titulo: pela-fe
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Kleber Lucas - Pela Fé
+
+Capo Casa 1
+
+Intro: F#m  D  E  C#M
+
+
+F#m              D
+Pela fé, pela fé entregaram suas vidas
+A                     C#m
+Pela fé, pela fé eles viram o invisível
+F#m              D
+Pela fé, pela fé entregaram os seus filhos
+A                     C#m
+Pela fé, pela fé eles foram perseguidos pela fé
+
+Passagem: F#m  D  E  C#M
+
+F#m              D
+Pela fé, pela fé suportaram os maus tratos
+A                     C#m
+Pela fé, pela fé eles foram tolerantes
+F#m              D
+Pela fé, pela fé eles foram torturados
+A                     C#m                    F#m
+Pela fé, pela fé eles foram desonrados pela fé
+
+
+Deixa Soar: F#m
+
+         E
+E como Estevão padeceu
+       C#m                    D
+Pela Palavra suportou e não negou a confissão
+                        E
+Da cruz, da morte e da ressurreição
+   E                                  C#m
+A voz do mártir abriu o céu, a testemunha foi fiel
+        D
+E e não negou a confissão
+                            E
+Da cruz, da morte e da ressurreição
+
+   A9                 F#m         D
+Eu vejo o céu aberto, céu aberto, céu aberto
+             E
+E o Filho do Homem de pé à direita de Deus
+   A9                 F#m         D
+Eu vejo o céu aberto, céu aberto, céu aberto
+             E                         A9
+E o Filho do Homem de pé à direita de Deus
+
+Passagem: A9  F#m D E
+
+     A9                     F#m
+Então minh'alma canta a Ti, Senhor
+          D                 E
+Grandioso és Tu, grandioso és Tu
+    Bb9                     Gm
+Então minh'alma canta a Ti, Senhor
+          D#                F
+Grandioso és Tu, grandioso és Tu
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+A*  = X 0 2 2 2 0 - (*A# na forma de A)
+A9*  = X 0 2 2 0 0 - (*A#9 na forma de A9)
+Bb9*  = X 1 3 3 1 1 - (*B9 na forma de Bb9)
+D*  = X X 0 2 3 2 - (*D# na forma de D)
+D#*  = X 6 5 3 4 3 - (*E na forma de D#)
+E*  = 0 2 2 1 0 0 - (*F na forma de E)
+F*  = 1 3 3 2 1 1 - (*F# na forma de F)
+F#m*  = 2 4 4 2 2 2 - (*Gm na forma de F#m)
+Gm*  = 3 5 5 3 3 3 - (*G#m na forma de Gm)

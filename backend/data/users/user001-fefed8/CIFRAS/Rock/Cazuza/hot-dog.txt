@@ -1,0 +1,50 @@
+@titulo: hot-dog
+@autor:
+@intérprete: Cazuza
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cazuza - Hot Dog
+
+Introdução: A  D  A  E  D  A
+
+65 65 54 57 45 45 44 57 65  65
+65 65 54 57 45 45 44 57 65  65
+55 55 44 47 35 35 34 47 55  55
+65 65 54 57 45 45 44 57 65  65
+57 57 46 49 37 37 36 49 57  57
+65 65 54 57 45 45 44 57 65  65
+
+                      A
+Eu não te pago nem um hot-dog
+Não te quero mais
+                      D
+Ficar contigo sempre foi um bode
+               A
+Eu não suporto mais
+                      E
+Você cortava a minha onda
+      D                  A
+Agora vê se me deixa em paz
+
+
+Eu não te pago nem um hot-dog
+Eu te quero mal
+                         D
+Cansei de ouvir essa conversa mole
+               A
+Você não é normal
+                    E
+E agora vou saindo fora
+     D                    A
+Que eu já estou passando mal
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0

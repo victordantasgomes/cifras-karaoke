@@ -1,0 +1,72 @@
+@titulo: minha-razao
+@autor:
+@intérprete: Mr. Gyn
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Mr. Gyn - Minha Razão
+
+Introdução A9 B A9 B A9 C#m B A9 B A9 B A9 E E4 E
+
+A9          B            A9
+PRA CADA ESCOLHA, UMA RAZÃO
+             B              A9
+TODA CONSEQÜÊNCIA MUDA A DIREÇÃO
+                 B                 C#m7  B
+DE QUALQUER DESTINO, ATÉ DE NÓS DOIS
+A9            B                  A9
+EXISTEM OS DIAS EM QUE NADA VAI BEM
+             B              A9
+UMA SÓ PALAVRA, MACHUCA ALGUÉM
+                B              E     E4     E
+QUE SEMPRE SE QUIS E VOCÊ MAGOOU
+
+SEGUNDA PARTE
+
+C#m7            B         A9
+A BELEZA GUARDADA EM TEU SER
+         B                 C#m7
+NÃO EXPLICA A DOR NEM A RAZÃO
+
+         B                  A9 B
+DO QUE SINTO A CADA AMANHECER
+
+
+REFRÃO
+
+        E
+QUERO VOCÊ
+        A9   B
+VOLTA PRA MIM
+A9
+QUERO VOCÊ
+            E
+VOLTA PRA MIM
+           A9
+VOU TE ENTENDER
+            E
+VOLTA PRA MIM
+    A9
+VENHA ME VER
+           A9   B4  A9
+EU NÃO VOU TE ESQUECER
+
+SOLO ( C#m B A9 B C#m B A9 B E E4 E)
+
+REPETE SEGUNDA PARTE
+REPETE REFRÃO
+FIM
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0

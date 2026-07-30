@@ -1,0 +1,57 @@
+@titulo: eu-vou-botar-pra-ferver
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Eu Vou Botar Pra Ferver
+
+intro: (G  C  D)
+
+Refrão:
+G                    C
+Eu vou botar pra ferver
+         D          G
+No carnaval que passou (4x)
+
+G                   C
+Quero ver o sol fervendo
+      D        G
+No salão entediado
+                  F
+Quero ver as menininha
+      C          G
+No salão desarrumado
+                    C
+Quero ver gente cantando
+      D        G
+No salão entediado
+                    C
+Muita gente se afirmando
+
+      D        G   (C  G)
+No salão entediado
+
+Refrão.
+
+Quero ver o dia entrando
+No salão do lado errado
+Quero ver muitas cadeiras
+No salão desarrumado
+Quero ver por quatro noites
+No salão partido-alto
+Quero ver você sambando
+No salão entediado
+
+Refrão. (repete e fade-out)
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

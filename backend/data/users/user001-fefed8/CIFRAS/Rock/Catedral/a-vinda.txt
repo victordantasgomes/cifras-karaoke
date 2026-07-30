@@ -1,0 +1,51 @@
+@titulo: a-vinda
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - A Vinda
+
+E|-----------------------------------------------------|
+B|-------9-9/11--11-11-11-12-11-9-7-7--7-7-9-9/11-9----|
+G|-11-11--------------------------------------------11-|
+D|-----------------------------------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+E|--------------------------------------------|
+B|-9/11-11-11-11-12-11-9-7-7--7-7-9-9/11-9----|
+G|-----------------------------------------11-|
+D|--------------------------------------------|
+A|--------------------------------------------|
+E|--------------------------------------------| 
+
+E   A                E  A
+Virá entre nuvens além
+  C#m  A             E  A
+O rei para nós resgatar
+     A4              A         A4        A
+E será o dia mais feliz para quem o aceitou
+      A4                    A           E  A
+Todos nós iremos juntos exaltando o Senhor
+
+
+E       A                 E  A
+Eu sei que muitos vão ficar
+C#m   A                E  A
+Tomára que não seja você
+      A4           A          A4         A
+Novos céus e nova terra com o rei habitarão
+       A4                         A          E  A
+As pessoas que entregaram para Cristo o coração
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0

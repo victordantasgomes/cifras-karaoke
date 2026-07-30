@@ -1,0 +1,61 @@
+@titulo: muito-estranho
+@autor:
+@intérprete: KLB
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+KLB - Muito Estranho
+
+[Intro] G/D  F/C  E/B  
+        D#  G  Em  C 
+        A7  D7  C
+
+G                                     C
+Ah! Mas se um dia eu chegar muito estranho
+D7                                    G      C/D
+Deixa essa água no corpo lembrar nosso banho
+G               G7                 C
+Ah! Mas se um dia eu chegar muito louco
+D7                                  G      G7
+Deixa essa noite saber que um dia foi pouco
+       C        G/B  Am
+Cuida bem de mim
+          D7        A          C
+Então misture tudo dentro de nós
+               D7        G           C/D
+Porque ninguém vai dormir nosso sonho
+G                               C    G/B
+Ah! Minha cara prá que tantos planos
+    Am                 D7                 G      C/D
+Se quero te amar e te amar e te amar muitos anos
+G           G7           C           G/B
+Ah! Tantas vezes eu quis ficar solto
+Am                 D7                G      G7
+Como se fosse uma lua a brincar no teu rosto
+       C        G/B   Am
+Cuida bem de mim
+          D7        A           C
+Então misture tudo dentro de nós
+               D7        G            C/D
+Porque ninguém vai dormir nosso sonho
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+D# = X 6 5 3 4 3
+D7 = X X 0 2 1 2
+E/B = X 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F/C = X 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G7 = 3 5 3 4 3 3

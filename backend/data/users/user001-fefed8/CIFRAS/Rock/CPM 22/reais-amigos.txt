@@ -1,0 +1,66 @@
+@titulo: reais-amigos
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Reais Amigos
+
+Intro: G F# G F# G F# D A G G F# G F# G F# D A G G F# G F# G F# D
+
+(abafado) D          A          C             G  G F# G F# D
+Mais uma vez caí no chão e me estenderam a mão
+            D           A              C             G  G F# G F# D
+Num mundo cheio de traições nós somos mais que irmãos
+D                     A                     C
+Tem algo errado, mas vejo o meu lado ainda bem que eu
+         G D                     A           C               G
+Tenho vocês mas a verdade é que lealdade ou você tem ou não tem...
+
+Refrão:
+D      A C        G            D        A       G
+Heeerrêêê,quero dizer que você pode contar comigo
+D   A         C           G            D             A       G
+Heeeerrêêêrrêi, e quando infraquecer quem são seus reais amigos?
+
+D G B C D G B C  D G C C  D G C C
+
+D        G     B       C
+E o que nós fizemos até aqui?
+
+D           A            C           G
+Velhas lembranças que me fazem chorar de rir
+D                   A           C     G
+Estamos aqui pro que dé e vier até o fim
+D        A             C             G
+É um por um e Deus por nós então que seja assim
+
+Refrão:
+D      A C        G            D        A       G
+Heeerrêêê,quero dizer que você pode contar comigo
+D   A         C           G            D             A       G
+Heeeerrêêêrrêi, e quando infraquecer quem são seus reais amigos?
+
+Baixo:
+D G B C D G B C
+Base:
+D G B C D G B C
+
+Refrão:
+D      A C        C            D        A       G G
+Heeerrêêê,quero dizer que você pode contar comigo
+D   A         C           C            D             A       G G
+Heeeerrêêêrrêi, e quando infraquecer quem são seus reais amigos?
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

@@ -1,0 +1,70 @@
+@titulo: a-cor-do-dinheiro
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - A Cor do Dinheiro
+
+(intro) E (4x)
+
+E
+Investi tudo de mim
+A9
+No meu sonho material
+C#m         B9
+O banqueiro do momento
+    A9
+E assim perdi a conta do teu sentimento
+E
+Entre nós era real
+A9
+Já nem soma nem dá sinal
+C#m              B9
+Fui ganhando e não sabia
+A9                            B9
+O quanto era importante a tua companhia
+
+REFRAO E                     B
+     I  Que vale a cor do dinheiro
+
+     I          A                   D       A/C#
+     I Se o coração, tá sozinho, cobrando carinho?
+     I  E                      B
+     I  Que vale a cor do dinheiro
+     I           A                    F#m     E
+     I  Se o coração tá sozinho, ele acaba vendido
+     I      D      A/C#
+     I  Cobrando carinho?
+E
+Eu gastei, me fiz notar
+A9
+Nosso amor não quis declarar
+C#m             B9
+Mas poupei na hora do beijo
+      A9
+Não tenho nem ação pra te cobrar desejo
+E
+Eu sonhei, paguei pra ver
+A9
+Se mais vier, mais quero ter
+C#m                B9
+Mas vou vivendo essa carência
+A9                      B9
+Sem o teu balanço acabo na falência
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

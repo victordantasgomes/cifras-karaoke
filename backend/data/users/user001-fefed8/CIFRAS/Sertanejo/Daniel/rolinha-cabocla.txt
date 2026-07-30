@@ -1,0 +1,10 @@
+@titulo: rolinha-cabocla
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:

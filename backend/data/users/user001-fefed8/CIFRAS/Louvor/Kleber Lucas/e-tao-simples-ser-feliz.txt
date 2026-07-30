@@ -1,0 +1,66 @@
+@titulo: e-tao-simples-ser-feliz
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - É Tão Simples Ser Feliz
+
+(Mariana de oliveira e kleber Lucas - É tao simples ser feliz)
+
+Intro: F#9  D#m7(9)   B9  C#7(4)  C#7
+            F#9
+Cada palavra que eu falar
+                  D#m7(9)
+preste a atençao em meu olhar
+      B9                 F#/A#
+E tente ouvir meu coraçao
+       G#m7(4)     B9/C#
+chamando por voce
+            F#9
+eu ja chorei,nao vou negar
+               D#m7(9)
+mas no invisivel acreditei
+    B9          F#/A#
+e essa fé te trouxe aqui
+   1º B9           C#7(4)
+pra eu me declarar
+  2º G#m7(4)
+
+
+Refrão ------------- F#9     F#/A#               B9               C#7(4)
+Te amarei enquanto houver vida em mim
+F#9   F#/A#       B9               C#7(4)
+na alegria e na dor eu vou te amar
+D#m7  C#         B9             F#/A#
+na poesia do amor te encontrei
+G#m7      F#/A#            B9
+nao ha misterio ao seu lado,
+        C#7(4)          F#9   Intro
+e tao simples ser feliz
+       D9                      E/D         F#9
+te darei meu ombro amigo se quiser chorar
+       D9           E9         C#7(4)
+acredite na puresa do amor..
+REPETE REFRAO
+
+----------------- Acordes -----------------
+B9 = X 2 4 4 2 2
+B9/C# = X 4 4 4 2 2
+C# = X 4 6 6 6 4
+C#7 = X 4 3 4 2 X
+C#7(4) = X 4 6 4 7 4
+D#m7 = X X 1 3 2 2
+D#m7(9) = X 6 4 6 6 X
+D9 = X X 0 2 3 0
+E/D = X 5 X 4 5 4
+E9 = 0 2 4 1 0 0
+F#/A# = 6 X 4 6 7 X
+F#9 = 2 4 6 3 2 2
+G#m7 = 4 X 4 4 4 X
+G#m7(4) = 4 X 4 4 2 X

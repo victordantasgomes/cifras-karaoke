@@ -1,0 +1,67 @@
+@titulo: com-voce-faz-sentido
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Com Você Faz Sentido
+
+Intro:  E  B7  A  B4/7  B7  E  B7  C#m  E/D  A  E
+
+E           B7                      F#m
+Mais um sinal, pessoas passam por mim
+     A               B4/7  E                  B4/7           B7
+e eu ligo o rádio sem querer.  Pela janela o guarda manda seguir
+F#m     A         E          B7
+Faço de conta que você está aqui.
+C#m  A            G#m                    A
+Te falo dos meus planos onde você sempre está
+  F#m         B7          A     E  A
+e se tudo foi engano quero acertar.
+
+B4/7     E           B7
+    Com você faz sentido,
+A        B4/7        E
+tudo pode mudar eu sei.
+           B7     C#m            E/D               A
+Vem, vem comigo, não me deixe nunca mais, nunca mais.
+
+E            B7               F#m
+Mais um sinal nesse calor de verão
+
+     A              B4/7
+eu quase sinto a tua mão
+E            B4/7          B7
+Pelo espelho vejo você me olhar
+F#m     A         E             B4/7  C#m
+Você se esconde pra depois me tocar
+      A          G#m                  F#m
+Uma canção no rádio não sei o que fazer
+     E         B4/7         A   E  A  E
+Na fumaça do cigarro quero você.
+
+REFRÃO
+C#m     A         G#m                  F#m
+Uma canção no rádio, não sei o que fazer
+   E               B4/7           E        C
+E no vidro do meu carro, na fumaça do cigarro
+    E            B4/7               A    E  A  E
+tua imagem me deixa louco, quero você.
+
+REFRÃO
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B4/7 = X 2 4 2 5 2
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

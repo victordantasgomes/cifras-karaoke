@@ -1,0 +1,61 @@
+@titulo: as-cores-do-amor
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - As Cores do Amor
+
+Intro: C  Em  Am  Dm  G  Em  Am  Dm  G  C  F  C  F
+
+         C           Am           Dm         G
+Se eu pudesse descobrir todas as cores do amor
+G/F         Em           Am       Dm             G   Gm  C7
+Saber se é branco como a paz ou azul da cor do mar.
+         F          Dm         Gm        C
+Se eu pudesse descobrir os segredos do amor
+C/Bb  Am         Dm             Gm          C
+Seria como desvendar mistérios deste teu olhar.
+
+   Am         Dm           Gm      C
+O amor não é cor ele é simples demais
+        Am        Dm        Gm         C   C#º
+Como a brisa ele vem no frescor da manhã
+     Dm          Dm/C#           Dm/C         G
+Mas foi no teu olhar então que eu pude perceber
+         Gm       C7            F
+Que as cores do amor vejo em você.
+
+( Dm )
+
+
+          Gm         C7               F      Dm
+Não há mistérios no amor que há em você
+          Gm        C7             F    Dm
+Porque as cores do amor vejo em você
+          Gm              Am7
+Não há mistérios nem segredos
+     Bb            C         F
+No amor que agora vejo em você.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C#º = X 4 5 3 5 3
+C/Bb = X 1 2 0 1 X
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+Dm/C# = X 4 3 2 3 X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/F = 1 X X 0 0 3
+Gm = 3 5 5 3 3 3

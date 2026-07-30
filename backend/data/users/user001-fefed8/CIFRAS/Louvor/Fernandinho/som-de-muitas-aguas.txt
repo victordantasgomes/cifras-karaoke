@@ -1,0 +1,25 @@
+@titulo: som-de-muitas-aguas
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Som de Muitas Águas
+
+          Am              G
+Já ouço o som de muitas águas
+ Am              G
+som de muitas águas
+ Am           G         D9/F# Em
+caindo sobre ti meu irmão
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+D9/F# = 2 X 0 2 3 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

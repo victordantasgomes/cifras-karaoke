@@ -1,0 +1,145 @@
+@titulo: um-bom-perdedor
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Um Bom Perdedor
+
+[Intro] C  Fm6(9)  C  Fm6(9)
+
+   C          Fm6(9)  C          Fm6(9)
+E|------------3--1---------------3--1-----------------|
+B|-------1----3----3--------1----3----3---------------|
+G|-----0------1-----------0------1--------------------|
+D|---2--------3---------2--------3--------------------|
+A|-3------------------3-------------------------------|
+E|----------------------------------------------------|
+
+[Primeira Parte]
+
+Am              Dm             G
+  Sei que você pensa em me deixar
+  C          G/B  F    D7/F#         G
+E eu não vou impedir, siga a sua estrela
+         Am               Dm        G                C
+Em todo caso eu digo que ficarei aqui neste mesmo lugar
+         F                  Dm
+Se quem vai pode um dia voltar
+         E      E4  E
+Então esperarei
+
+         Am                   Dm
+E quando alguém conquistar o seu amor
+ G                   E
+Não serei mais quem hoje eu sou
+
+Am               Dm
+Acho que sei perder
+G                C   Fm6(9)  C  Fm6(9)
+Acho que sei perder
+
+[Segunda Parte]
+
+Am             Dm         G
+  Já não é preciso disfarçar
+       C          G/B    F
+Essas lágrimas estão de mais
+      D7/F#     G
+Se é hora de ir então vai
+        Am                  Dm
+Sim é claro eu esperava te convencer
+       G                    C  G/B
+Mas é bom deixar a água correr
+         F                 Dm                E         E4  E
+O que importa agora, as palavras que eu não pude dizer
+        Am                 Dm
+E se o vento hoje sopra a seu favor
+G             E          F
+Eu não guardarei rancor
+
+[Refrão]
+
+G                C
+Acho que sei perder
+ G/B     Am     Am/G   Dm  Dm/C
+E não será a primeira vez
+ Bb       Am     Gm       C7  F
+Hoje é você amanhã será quem for, for
+
+ G                 C  G/B
+Serei um bom perdedor
+Am             Am/G    Dm  Dm/C
+E meu mundo não vai mudar
+  Bb        Am   Gm   C7    F
+Até que alguém ocupe seu lugar
+
+( G  C  G/B  Am  Am/G  Dm  Dm/C  Bb  Am  Gm  C  F  C )
+
+[Segunda Parte]
+
+        Am                  Dm
+Sim é claro eu esperava te convencer
+       G                    C  G/B
+Mas é bom deixar a água correr
+         F                 Dm                E         E4  E
+O que importa agora, as palavras que eu não pude dizer
+        Am                 Dm
+E se o vento hoje sopra a seu favor
+G             E          F
+Eu não guardarei rancor
+
+[Refrão]
+
+G                C
+Acho que sei perder
+ G/B     Am    Am/G    Dm  Dm/C
+E não será a primeira vez
+ Bb       Am     Gm       C7  F
+Hoje é você amanhã será quem for, for
+ G                 C  G/B
+Serei um bom perdedor
+Am             Am/G    Dm  Dm/C
+E meu mundo não vai mudar
+  Bb        Am   Gm   C7    F
+Até que alguém ocupe seu lugar
+
+( G  C  G/B  Am  Am/G  F )
+
+ G                 C   G/B
+Serei um bom perdedor
+   Am          Am/G    Dm  Dm/C
+E meu mundo não vai mudar
+Bb          Am   Gm   C7    F  G  C  G/B
+Até que alguém ocupe seu lugar
+
+[Primeira Parte]
+
+ Am           Dm             G
+Sei que você pensa em me deixar
+C         G/B     F    D/F#          G
+E eu não vou impedir, siga a sua estrela
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D/F# = 2 X 0 2 3 2
+D7/F# = X X 4 5 3 5
+D7/F# = X X 4 5 3 5
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F = 1 3 3 2 1 1
+Fm6(9) = 1 X 0 1 3 3
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+Gm = 3 5 5 3 3 3

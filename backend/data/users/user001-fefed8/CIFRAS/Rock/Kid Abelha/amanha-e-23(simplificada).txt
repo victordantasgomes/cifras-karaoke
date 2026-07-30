@@ -1,0 +1,91 @@
+@titulo: amanha-e-23(simplificada)
+@autor:
+@intérprete: Kid Abelha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kid Abelha - Amanhã É 23
+
+Int:Am7 Em7 Dm7 F G
+
+ Am7         Em7
+As entradas do meu rosto
+ Dm7                F  G
+E os meus cabelos brancos
+ Am7        Em7
+Aparecem a cada ano
+ Dm7                F  G    G
+No final do mês de agosto,
+
+ Am7
+Há vinte anos você nasceu
+ Em7
+Ainda guardo um retrato antigo
+ Dm7
+Mas agora que você cresceu
+ F             G
+Não se parece nada comigo
+
+ Am7
+Esse seu ar de tristeza
+
+ Em7
+Alimenta a minha dor
+ Dm7
+Tua pose de princesa
+ F        G
+De onde você tirou
+
+ C      F       C       F
+Amanhã, amanhã, amanhã, amanhã
+ C
+Amanhã é 23
+ F
+são oito dias para o fim do mês
+ C
+Faz tanto tempo que eu não te vejo
+ F
+Queria teu beijo outra vez
+Solo:Am7 Em7 Dm7 F G 2x
+e/--------------------------------3---3-----------------------/
+b/-------8-------8-------8------------------5h6p5-3-5-6-5-----/
+g/-----------9-------9--------7-----------5---------------5-4-/
+d/-----7---7---7---7---5---5----3---3---3---------------------/
+a/------------------------------------------------------------/
+e/------------------------------------------------------------/
+
+e/---5---3-3---5---3-------------7-5-3-1--/
+b/-5---5-----5---5---6-5-6-5-3------------/
+g/------------------------------7-5-3-2---/
+d/----------------------------------------/
+a/----------------------------------------/
+e/----------------------------------------/
+
+ C       F       C       F
+Amanhã, amanhã, amanhã, amanhã
+
+ C
+Amanhã é 23
+ F
+São oito dias para o fim do mês
+ C                                    2x
+Faz tanto tempo que eu não te vejo
+ F
+Queria teu beijo outra vez
+
+ C       F       C
+Amanhã, amanhã, amanhã  3x
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+Dm7 = X 5 7 5 6 5
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

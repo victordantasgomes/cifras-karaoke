@@ -1,0 +1,91 @@
+@titulo: luz-paixao-rodeio
+@autor:
+@intérprete: Victor e Leo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Victor e Leo - Luz, Paixão, Rodeio
+
+Capo Casa 4
+
+(intro 2x) (C#m A E B)
+
+(o Victor toca com o capotraste na 4ª. Então se for utiliza-lo abaixe 2 tons)
+(vocalização junto com intro)
+
+(riff 1)
+E |--------------
+B |---------9----
+G |--------------
+D |--7--7/9------
+A |--------------
+E |--------------
+
+(riff 2)
+
+E |--5h4-------------
+B |------7--5--------
+G |-----------6--4---
+D |----------------6-
+A |------------------
+E |------------------
+
+
+E               A         B           E
+Luz, Paixão, Rodeio sempre alguém me amando
+                A         B                E
+Beija a minha boca e diz que não estou sonhando  (riff 1)
+                A          B         E
+Diga se as estrelas nascem aqui no chão  (riff 2)
+A    B
+ Oh não
+
+A              B    G#m             C#m       A        B
+Luz, Paixão, Rodeio, pé na estrada céu azul, azul é rodeio
+G#m               E   C#m          F#m     B         E
+Esporas que não ferem, não rodam nessa história de amor
+
+(intro - vocalização 2x) (C#m A E B)
+
+(solo) C#m A E B C#m A B B
+
+E               A           B           E
+Solte os seus cavalos loucos e não se prenda
+                A           B           E
+Se cair de um touro bravo não se arrependa (riff 1)
+               A          B          E
+Diga-se quem vence entende a lei do chão (riff 2)
+A    B
+Oh não
+
+A              B    G#m             C#m       A        B
+Luz, Paixão, Rodeio, pé na estrada céu azul, azul é rodeio
+G#m               E   C#m          F#m     B         E
+Esporas que não ferem, não rodam nessa história de amor
+
+A              B    G#m             C#m       A        B
+Luz, Paixão, Rodeio, pé na estrada céu azul, azul é rodeio
+G#m               E   C#m          F#m     B         E
+Esporas que não ferem, não rodam nessa história de amor
+
+(riff) C#m A E B  C#m A E B
+
+(intro - vocalização 2x) (C#m A E B)
+
+(final) C#m A B B C#m
+
+----------------- Acordes -----------------
+Capotraste na 4ª casa
+A*  = X 0 2 2 2 0 - (*C# na forma de A)
+B*  = X 2 4 4 4 2 - (*D# na forma de B)
+C#m*  = X 4 6 6 5 4 - (*Fm na forma de C#m)
+D*  = X X 0 2 3 2 - (*F# na forma de D)
+E*  = 0 2 2 1 0 0 - (*G# na forma de E)
+F#m*  = 2 4 4 2 2 2 - (*A#m na forma de F#m)
+G*  = 3 2 0 0 0 3 - (*B na forma de G)
+G#m*  = 4 6 6 4 4 4 - (*Cm na forma de G#m)

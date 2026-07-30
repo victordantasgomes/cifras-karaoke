@@ -1,0 +1,130 @@
+@titulo: ainda-que-a-figueira(simplificada)
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Ainda Que a Figueira
+
+[Intro] F#m  A  E
+        F#m  A  E
+
+[Primeira Parte]
+
+F#m             E
+    Tu és a minha porção
+Bm          D
+   Tu és a minha herança
+F#m          E
+    Tu és o meu socorro
+     Bm             D
+Nos dias de tribulação
+
+A                 E
+  Mesmo que meus pais me deixem
+Bm             D
+   Mesmo que amigos me traiam
+A                      E
+  Eu sei que em Seus braços
+      Bm          D
+Eu encontro salvação
+
+
+[Refrão]
+
+ A                    E
+Ainda que a figueira não floresça
+ Bm                      D
+Ainda que a videira não dê o seu fruto
+ A                     E
+Mesmo que não haja alimento nos campos
+        G           D
+Eu me alegrarei em Ti
+
+ A                    E
+Ainda que a figueira não floresça
+ Bm                      D
+Ainda que a videira não dê o seu fruto
+ A                     E
+Mesmo que não haja alimento nos campos
+        G           D
+Eu me alegrarei em Ti
+
+( F#m  A  E )
+( F#m  A  E )
+
+[Primeira Parte]
+
+F#m             E
+    Tu és a minha porção
+Bm          D
+   Tu és a minha herança
+F#m          E
+    Tu és o meu socorro
+     Bm             D
+Nos dias de tribulação
+
+A                 E
+  Mesmo que meus pais me deixem
+Bm             D
+   Mesmo que amigos me traiam
+A                      E
+  Eu sei que em Seus braços
+      Bm          D
+Eu encontro salvação
+
+[Refrão]
+
+ A                    E
+Ainda que a figueira não floresça
+ Bm                      D
+Ainda que a videira não dê o seu fruto
+ A                     E
+Mesmo que não haja alimento nos campos
+        G           D
+Eu me alegrarei em Ti
+
+ A                    E
+Ainda que a figueira não floresça
+ Bm                      D
+Ainda que a videira não dê o seu fruto
+ A                     E
+Mesmo que não haja alimento nos campos
+        G           D
+Eu me alegrarei em Ti
+
+( F#m  A  E )
+( F#m  A  E )
+
+[Refrão Final]
+
+ A                    E
+Ainda que a figueira não floresça
+ Bm                      D
+Ainda que a videira não dê o seu fruto
+ A                     E
+Mesmo que não haja alimento nos campos
+        G           D
+Eu me alegrarei em Ti
+
+ A                    E
+Ainda que a figueira não floresça
+ Bm                      D
+Ainda que a videira não dê o seu fruto
+ A                     E
+Mesmo que não haja alimento nos campos
+        G           D  A
+Eu me alegrarei em Ti
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 3 3

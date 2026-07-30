@@ -1,0 +1,15 @@
+@titulo: Grandes Coisas
+@autor:
+@intérprete: Fernandinho
+@tom: G
+@velocidade: 50
+@ritmomusical: adoração
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+G           D/F#
+Grandes coisas fez o Senhor
+Em7           C
+Por isso estamos alegres

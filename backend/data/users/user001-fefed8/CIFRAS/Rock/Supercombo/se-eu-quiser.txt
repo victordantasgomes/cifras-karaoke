@@ -1,0 +1,100 @@
+@titulo: se-eu-quiser
+@autor:
+@intérprete: Supercombo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Supercombo - Se Eu Quiser
+
+[Intro] A  D7M  A  D7M  A
+
+F#5                B5
+Oi, eu tenho problemas
+         D5     C#5   B5 E5 A
+Pra acordar e sobreviver
+          F#5
+Na minha jaula
+            B5
+Falar em trabalho
+             D5
+Eu mal comecei
+          C#5 B5 E5 A
+Já quero me aposentar
+
+( A  D7M  A  D7M  A )
+
+F#5                    B5
+Tava em pensando em batalhar, casar
+Com meu dinheiro
+    D5         C#5 B5 E5 A
+E acordar só seis da manhã
+
+
+F#5                B5
+Talvez assim eu consiga mostrar
+     D5         C#5 B5 E5 A
+Que eu também posso ser igual
+
+A             F#m  D7M    A     E   F#m   D7M     A
+Se eu quiser (uhh aaah uhhh aaaah uhhh aaaah uhhh )
+A             F#m  D7M    A     E   F#m   D7M     A
+Se eu quiser (uhh aaah uhhh aaaah uhhh aaaah uhhh )
+A             F#m  D7M    A     E   F#m   D7M     A
+Se eu quiser (uhh aaah uhhh aaaah uhhh aaaah uhhh )
+
+( A  D7M  A  D7M  A )
+
+F#m5             B5
+Água na cara e partiu pro busão
+D5         C#5 B5 E5 A
+Atrasado com muita fome
+F#5
+Pra chegar lá
+               B5
+Fazer o que eu não gosto
+                       D5    C#5 B5 E5 A
+Com pessoas que eu nunca quero interagir
+Nunca
+
+( F#m  B5  D5  C#5  B5  A )
+
+A             F#m  D7M    A     E   F#m   D7M     A
+Se eu quiser (uhh aaah uhhh aaaah uhhh aaaah uhhh )
+A             F#m  D7M    A     E   F#m   D7M    A
+Se eu quiser (uhh aaah uhhh aaaah uhhh aaaah uhhh )
+
+F#m    D7M        A       E       F#m
+Se eu olho pro lado tem sempre alguém
+D              A
+Esticando uma perna pra eu cair
+F#m     D7M       A       E           F#m
+Mas eu tenho certeza que se eu não morrer
+D7M              A
+Nada nessa vida vai me surpreender
+
+F#m   D7M
+(Uhh aah)
+A    E
+(Uhh aah)
+F#m   D7M
+(Uhh aah)
+   A
+(Uhh)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B5 = X 2 4 4 X X
+C#5 = X 4 6 6 X X
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+D7M = X X 0 2 2 2
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+F#5 = 2 4 4 X X X
+F#m = 2 4 4 2 2 2
+F#m5 = 2 4 4 2 2 2

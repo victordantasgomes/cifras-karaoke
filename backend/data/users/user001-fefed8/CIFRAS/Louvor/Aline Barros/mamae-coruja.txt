@@ -1,0 +1,80 @@
+@titulo: mamae-coruja
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Mamãe Coruja
+
+Intro:  A  E  F#m  E (2x)
+        A  E  F#m  D (4x)
+
+A                               E
+  Se estou disperso, chama a minha atenção
+F#m                                    D
+  Os seus conselhos, saudáveis pro meu coração
+F#m                       E
+  É mãe coruja, as vezes ciumenta
+G                                 D
+  Essa é a minha mãe, ela é uma bênção
+
+A                               E
+  Se estou na igreja, sempre fica a me alertar
+F#m                  D
+  Fica ligada, pra ouvir Jesus falar
+F#m                           E
+  Eu tenho orgulho, ela é mulher de oração
+G                                 D
+  Nos seus conselhos, eu presto bem atenção
+
+
+Refrão 2x:
+
+A             E                 F#m    D
+  A minha mãe é uma bênção
+A             E             C#m D
+Ela é mulher de oração
+A             E                 F#m        D
+  Mamãe coruja eu sei, mas é para o meu bem
+A          E                      C#m     D
+  Ela é orgulho do meu coração,  Essa é minha mãe
+
+A E F#m  D (2x)
+  Essa é minha mãe
+
+(  A  E  F#m  D)  (2x)
+
+A                                E
+  E quando lembro de tudo que enfrentou
+F#m                            D
+  Com muitas lutas, mas não me faltou amor
+F#m                            E
+  Mamãe guerreira, não deixou de acreditar
+G                      D
+Venceu na vida, minha mãe é bênção
+
+(Repete Refrão 2x)
+
+A
+ A minha mãe me disse que eu preciso estudar
+Me alimentar certinho
+Antes de dormir, orar
+Pra crescer saudável eu preciso
+Obedecer os conselhos da mamãe
+Mamãe coruja, eu amo você
+
+Solo Base:  A  E F#m  D(4x)
+(Repete Refrão 2x) - A  E  F#m  D(4x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

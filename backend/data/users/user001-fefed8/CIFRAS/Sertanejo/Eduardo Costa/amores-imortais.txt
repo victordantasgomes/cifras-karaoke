@@ -1,0 +1,82 @@
+@titulo: amores-imortais
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Amores Imortais
+
+  Intro: F C Dm Am Bb Gm C C7
+E|----------9--------9----14-13-11--11-----|--------------------------------------------------------|
+B|-11-9-11-----9-7-9--------------------14-|--------------------------------------------------------|
+G|-----------------------------------------|--------10-9-10-----------10-9-10------10-9------9-10-9-|
+D|-----------------------------------------|--9-9-8---------8---8-8-7---------7---------10-9--------|
+A|-----------------------------------------|------------------------------------10------------------|
+E|-----------------------------------------|--------------------------------------------------------|
+
+ F9
+Amores imortais,
+             C
+Não é só na letra da canção
+          Bb9
+Como um seriado cheio de paixão
+              F         C7
+Que a gente assiste na TV
+  F
+As suas digitais,
+             C
+Estão empreguinadas no meu coração
+             Bb               Gm
+Vai além da pele tenho a sensação
+
+              C               C7
+Que em outras vidas eu amei você
+
+C|5-  Dm             Dm7+                   F           G/B
+Meu desejo fica reclamando, só me perguntando onde você está?
+  Bb9                  Gm         Bb                      Gm
+Pensamento ainda te desenha, só você mas ninguém sabe a senha
+               C   C7
+Quando vai me amar
+
+   F          C        Dm   F/A           Bb       F/A    Gm           C  C7
+Amanheceu e ainda nao dormi, olhei no espelho e vi você no meu olhar
+    F            C         Dm  F/A  Bb
+Foi Deus quem mandou você até aqui
+         F            C     C7     F
+Justo na hora em que eu ia te procurar.
+
+Intro: F C Dm Am Bb Gm C C7
+
+C|5-     Dm            Dm7+                    F                  G/B
+Meu desejo fica reclamando, só me perguntando onde você esta
+  Bb9                  Gm         Bb                      Gm
+Pensamento ainda te desenha, só você mas ninguém sabe a senha
+               C   C7
+Quando vai me amar
+
+   F          C       Dm    F/A          Bb       F/A    Gm           C  C7
+Amanheceu e ainda não dormi, olhei no espelho e vi você no meu olhar
+    F            C        Dm  F/A  Bb
+Foi Deus quem mandou você até aqui
+         F             C     C7      F
+Justo na hora em que eu ia te procurar.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+Dm7+ = X X 0 2 2 1
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F9 = 1 3 5 2 1 1
+G/B = X 2 0 0 3 3
+Gm = 3 5 5 3 3 3

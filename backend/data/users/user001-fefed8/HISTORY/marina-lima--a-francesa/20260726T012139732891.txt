@@ -1,0 +1,103 @@
+@titulo: A Francesa
+@autor: Marina Lima
+@intérprete: Marina Lima
+@tom: Am
+@velocidade:
+@ritmomusical: MPB
+@introdução:
+@tags: MPB
+@nota:
+@favorita: sim
+@bpm:
+@bateria: sim
+@guitarra:
+@baixo:
+@teclado:
+@modoexecucao:
+@tempoexecucao:
+
+[t=39.31] [@observacao] A FRANCESA – MARINA LIMA - CIFRACLUB
+[@observacao] Tom: C
+
+
+Am           Am7M           Am7
+[t=17.74] Meu amor se você for embora
+
+
+                 Am6
+[t=20.77] Sabe lá o que será de mim
+
+
+ Dm7            F/G
+[t=26.56] Passeando pelo mundo a fora
+
+Am                 Am7M        Am7
+[t=30.36] Na cidade que não tem mais fim
+
+                  Am6
+[t=34.57] Hora dando fora hora bola
+
+Dm7                F/G
+[t=44.74] Uma irresponsável pobre de mim
+
+F
+[t=76.22] Se eu te peço para ficar ou não
+
+C                   C7
+[t=84.85] Meu amor eu lhe juro
+
+F
+[t=91.72] Que não quero deixá-lo na mão
+
+   C
+[t=101.47] E nem sozinho no escuro
+
+         D7
+[t=111.06] Mas os momentos felizes
+
+         D7
+[t=120.33] Não estão escondidos
+
+  G               G7
+[t=128.00] Nem no passado e nem no futuro
+
+
+ Am                 Am7M        Am7
+[t=137.42] Meu amor não vai haver tristeza
+
+                      Am6
+[t=146.53] Nada além de fim de tarde a mais
+
+Dm7                  F/G
+[t=155.48] Mas depois as luzes todas acesas
+
+ Am            Am7M  Am7
+[t=164.59] Paraísos artificiais
+
+
+                 Am6
+[t=171.62] E se você saísse à francesa
+
+Dm7                  F/G     G7
+[t=179.13] Eu viajaria muito mais muito mais
+
+F
+[t=188.88] Se eu te peço para ficar ou não
+
+C                   C7
+[t=200.38] Meu amor eu lhe juro
+
+F
+[t=209.33] Que não quero deixá-lo na mão
+
+   C                    C7
+[t=218.44] E nem sozinho no escuro
+
+         D7
+[t=227.55] Mas os momentos felizes
+
+         D7
+[t=235.54] Não estão escondidos
+
+ G               G7
+[t=242.41] Nem no passado e nem no futuro

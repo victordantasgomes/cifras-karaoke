@@ -1,0 +1,57 @@
+@titulo: sereia
+@autor:
+@intérprete: Henrique e Juliano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Henrique e Juliano - Sereia
+
+Intro: C G Dm F
+
+  C              G
+Eu já virei dependente
+                Dm                   F       G
+Tô mais do que doente com esse novo amor
+C            G
+Sorriso envolvente
+              Dm                    F       G
+Olhar transparente é o que me enfeitiçou
+
+ Dm           F                       G
+Pele cor de maçã, sou mais do que seu fã
+                G
+Cabelos cor de areia
+ Dm             F
+Paraíso é seus braços
+                     G                C
+Eu já comprei meu barco pra te buscar sereia
+
+  G       Dm              F
+Amor, me leva junto com você
+
+               C          G
+Seja pra onde for que eu vou
+     Dm                   F
+Pois sem você não tem sentido
+                 C
+O mundo perde a cor
+
+      G       Dm              F
+Meu amor, me leva junto com você
+      G         C          G
+Seja pra onde for que eu vou
+     Dm                  F
+Pois sem você não tem sentido
+          G       C
+O mundo perde a cor
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

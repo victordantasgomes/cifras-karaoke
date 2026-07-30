@@ -1,0 +1,55 @@
+@titulo: a-honra
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - A Honra
+
+Intro   Dm     Bb7+      Gm7/9        Dm      Dm7/9/11
+
+  Dm7         Bb7+
+A honra,  a glória,
+  Gm7  Am7    Dm
+A força   a    ti.
+Dm7
+A honra,
+ Bb7+
+A glória,
+  Gm7  Am7    Dm
+A força   a         ti.
+      C    Dm7
+Santo Pai adoro a Ti
+     C/E    F   A7
+Precioso Jesus
+          Bb7+    C/Bb
+Santo Espírito espero em ti
+          Bb7+    C/Bb
+Santo Espírito espero em ti
+         Gm7  Gm/F
+Santo Espírito
+  C      C#º
+Espero em ti
+  Dm     Dm7/9/11
+Por fogo
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+Bb7+ = X 1 3 2 3 1
+C = X 3 2 0 1 0
+C#º = X 4 5 3 5 3
+C/Bb = X 1 2 0 1 X
+C/E = 0 3 2 0 1 0
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Dm7/9/11 = X 5 3 5 5 3
+F = 1 3 3 2 1 1
+Gm/F = X X 3 3 3 3
+Gm7 = 3 X 3 3 3 X
+Gm7/9 = X X 5 3 6 5

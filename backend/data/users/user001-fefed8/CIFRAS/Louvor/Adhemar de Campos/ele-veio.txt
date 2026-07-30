@@ -1,0 +1,76 @@
+@titulo: ele-veio
+@autor:
+@intérprete: Adhemar de Campos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Adhemar de Campos - Ele Veio
+
+[Intro] D  E/D  G/D  D
+
+   D/B        G
+Ele veio, e mudou minha vida
+                        D
+Agora eu sei o que é viver
+   D/B          E/G#
+Ele veio, e tomou minha vida
+   G                  D
+Deu sentido ao meu viver
+
+    D          E/D         G/D         D
+Jesus, meu salvador, libertador, conselheiro
+D/F#          E/G#
+Jesus, meu bom pastor
+    G                D
+A quem me dou por inteiro
+
+    Bm           A         E/G#    G
+São tantos os caminhos da vida 
+       D
+Para se perder
+    Bm                D/F#
+Mas a palavra viva me leva
+          G
+A Cristo conhecer
+
+     E       F#/E
+Ele veio, perdoou meus fracassos
+      A/E                   E
+A escuridão em luz transformar
+   E/G#        F#/A#
+Ele veio, corrigiu os meus passos
+  A/E                  E
+Já sei agora aonde chegar
+
+  E      F#/E          A/E              E
+Jesus cristo Senhor, o Deus amor verdadeiro   
+  E/G#      F#/A#       A/E                   E
+Jesus      Cristo senhor, de paz e luz é o seu reino
+   F#      G#/F#       B/F#            F#
+Jesus cristo Senhor, o Deus amor verdadeiro   
+  F#/A#     G#/C       B/F#
+Jesus       Cristo senhor, de paz e luz é o seu reino
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/E = 0 X 2 2 2 0
+B/F# = X X 4 4 4 2
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/B = X 2 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#/E = X X 2 3 2 2
+G = 3 2 0 0 0 3
+G#/C = X 3 X 1 4 4
+G#/F# = 2 X 1 1 1 X
+G/D = X 5 5 4 3 X

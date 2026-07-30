@@ -1,0 +1,95 @@
+@titulo: solidao-que-nada
+@autor:
+@intérprete: Cazuza
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cazuza - Solidão Que Nada
+
+[Intro]  A7+  D7+
+
+E|------------9--9--------------------|
+B|--3s-5--7---------7s---5------------|
+G|---------------------------7---6--6-|
+D|------------------------------------|
+A|------------------------------------|
+E|------------------------------------|
+
+Ela é um satélite
+E|----7-------|
+B|--9---8---7-|
+G|------------|
+D|------------|
+A|------------|
+E|------------|
+
+A7M
+ Cada aeroporto
+      D7M
+ É um nome num papel
+
+A7M
+ Um mesmo rosto
+  D7M
+ Atrás do mesmo véu
+G#m7          G
+Alguém me espera
+F#m7           B7/4   B7
+ E adivinha no céu
+G7M                Bm7
+ Que meu novo nome é
+       G7M           E7/4  E7
+ Um estranho que me quer
+A7M
+ E eu quero tudo
+    D7M
+ No próximo hotel
+A7M
+ Por mar, por terra
+    D7M
+ Ou via Embratel
+G#m7         G
+ Ela é um satélite
+F#m7               B7/4  B7
+ E só quer me amar
+G7M                    Bm7
+ Mas não há promessas, não
+   G7M         E7/4  E7
+ É só um novo lugar
+D        Bm7
+ Viver é bom
+E7/4             E7
+ Nas curvas da estrada
+D    Bm7           E7/4  E7
+ Solidão, que nada
+D        Bm
+ Viver é bom
+E7/4          E7
+ Partida e chegada
+D    Bm7             E7/4
+ Solidão, que nada
+E7            A
+ Solidão, que nada
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7+ = X 0 2 1 2 0
+A7M = X 0 2 1 2 0
+B7 = X 2 1 2 0 2
+B7/4 = X 2 4 2 5 2
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D7+ = X X 0 2 2 2
+D7M = X X 0 2 2 2
+E7 = 0 2 2 1 3 0
+E7/4 = 0 2 0 2 0 X
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G#m7 = 4 X 4 4 4 X
+G7M = 3 X 4 4 3 X

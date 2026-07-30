@@ -1,0 +1,48 @@
+@titulo: a-barca(simplificada)
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - A Barca
+
+ C  G/B                   Am     C7          F        Dm         G
+ Tu,    te abeiraste da praia,      não buscaste nem sábios nem ricos
+          C    G/B            C    C7
+Somente queres      que eu te siga
+
+     F  G                 C  Am        Dm G                  C C7
+Senhor, Tu me olhaste nos olhos, a sorrir, pronunciaste meu nome
+          F G                 C     Am         Dm  G                  C F
+Lá na praia, eu larguei o meu barco,   junto a Ti,    buscarei outro mar
+
+ C  G/B                      Am    C7        F        Dm           G
+Tu,     sabes bem que em meu barco,  eu não tenho nem ouro e nem espadas
+         C G/B               C C7
+Somente redes e o meu trabalho
+
+C  G/B                Am   C7        F            Dm          G
+Tu, minhas mãos solicitas,    meu cansaço que a outros descanse, amor que
+ C    G/B              C C7
+Almejas, seguir te amando
+
+C G/D                   Am    C7         F         Dm         G
+Tu, pescador de outros lagos,    Ânsia eterna de almas que esperam
+
+         C  G/B                C C7
+Bondoso amigo que assim me chamas
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X

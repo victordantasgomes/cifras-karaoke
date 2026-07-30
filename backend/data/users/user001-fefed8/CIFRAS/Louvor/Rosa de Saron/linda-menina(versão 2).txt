@@ -1,0 +1,63 @@
+@titulo: linda-menina(versão 2)
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Linda Menina
+
+INTRO : B4 - A - G - Em
+
+B4         A
+Menina, quando a noite vier
+      G                         Em
+Perturbar sua vida, destruir seus sonhos
+B4              A
+Menina, há quanto tempo estás
+     G                       Em                         (Bm - A - Bm - A - G - F#m)
+Perdida e sozinha marcando seu destino
+
+Bm - D/C# - D - G - F#m - A
+Linda menina
+Bm            D/C# D    A                G
+Seus olhos podem brilhar sem mentiras
+                                  A
+Sem ter que doar sua pureza
+                        Bm - A - E - G - A
+Seus sonhos de amor
+Bm                      A
+Há uma outra mulher que menina
+
+G                    Em
+Soube um dia viver sua sina
+           G                          A                  Bm A
+Criar o Filho de Deus para todos libertar
+       Bm A        G  A        E  G  A
+Libertar, libertar, libertar
+
+Bm             A                               G                       Em
+Não chore linda menina mas clame sem cessar    (4X)
+
+(A Bm)
+Ave, Ave,
+A Bm A G Em  (D - C#m )        4X
+Ave Mari - a
+( Bm - A - G - E ) B4
+Ave
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B4 = X 2 4 4 5 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/C# = X 4 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

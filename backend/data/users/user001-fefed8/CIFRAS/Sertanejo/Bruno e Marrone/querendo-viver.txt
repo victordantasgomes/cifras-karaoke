@@ -1,0 +1,62 @@
+@titulo: querendo-viver
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Querendo Viver
+
+Intro: Am  G
+
+        Am     F           G
+A vida passa e eu sem você
+        Am     F           G
+O mundo muda e só eu continuo aqui
+
+Refrão:
+             C               Am
+Tentando acordar, querendo viver
+            F                         G
+Tentando pensar outra coisa que não seja você
+         C        Am  G
+Pra escapar, esquecer você
+
+Solo: C  Am  F  G
+
+       Am     F    G
+A vida passa e eu sem você
+        Am     F           G
+O mundo muda e só eu continuo aqui
+
+
+Refrão 2 - 2x:
+             C               Am
+Tentando acordar, querendo viver
+            F                         G
+Tentando pensar outra coisa que não seja você
+         C        Am  G
+Pra escapar, esquecer
+
+F          Am          G
+Você que me levou no céu e me soltou no ar
+F          Am          G
+Você que me tirou do chão e me jogou no mar
+
+(Refrão)
+
+(Solo)
+
+C    Am  F
+Você!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

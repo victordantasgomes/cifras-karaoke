@@ -1,0 +1,36 @@
+@titulo: santo-quaresma
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Santo Quaresma
+
+Dm     Am    A#
+Santo Santo Santo
+       Gm         Am
+Senhor Deus do universo
+  Dm      Gm        C             F
+O céu e a terra proclamam vossa glória
+  Dm         F
+Hosana nas alturas
+   Dm         Gm     C          F
+Bendito o que vem em nome do Senhor
+  Dm         F
+Hosana nas alturas
+  Am        D
+Hosana nas alturas
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

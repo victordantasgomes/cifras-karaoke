@@ -1,0 +1,82 @@
+@titulo: todo-azul-do-mar
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Todo Azul do Mar
+
+ E         F#m        G#m
+Foi assim como ver o mar
+C#m         G#m
+A primeira vez
+         A/C#   F#m               B
+Que meus olhos se viram no seu olhar
+           E         F#m         G#m
+Não tive a intenção de me apaixonar
+ C#m        G#m     A/C#
+Mera distração e já era
+ F#m              B
+Momento de se gostar
+  A    B   C#m
+Quando eu dei por mim
+ A            E
+Nem tentei fugir
+    G#               C#m
+Do visgo que me prendeu
+ F#m             B
+Dentro do seu olhar
+  A    B   C#m       A          E
+Quando eu mergulhei no azul do mar
+
+   G#           C#m
+Sabia que era amor
+F#m            B
+E vinha pra ficar
+
+        E         F#m          G#m
+Daria pra pintar todo azul do céu
+ C#m         G#m      A/C#
+Dava pra encher o universo
+ F#m                     B
+Da vida que eu quis pra mim
+
+ A   B   C#m       A            E
+Tudo   que eu fiz foi me confessar
+    G#           C#m
+Escravo do seu amor
+ F#m        B
+Livre pra amar
+  A    B   C#m       A             E
+Quando eu mergulhei fundo nesse olhar
+     G#           C#m
+Fui dono do mar azul
+ F#m             B
+De todo azul do mar
+
+ E     A
+Foi assim como ver o mar
+Foi a primeira vez que eu vi o mar
+E           C#m          B  A
+Onda azul, todo azul do mar
+        E        C#m          B  A  B
+Daria pra beber todo azul do mar
+            E         C#m        B  A
+Foi quando mergulhei no azul do mar
+E                  C#m          B  A  B  E
+Onda que vem azul,todo azul do mar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4

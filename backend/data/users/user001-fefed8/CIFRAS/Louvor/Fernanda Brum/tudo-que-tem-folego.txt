@@ -1,0 +1,76 @@
+@titulo: tudo-que-tem-folego
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Tudo Que Tem Fôlego
+
+Intro: E  E D9 A9
+
+A9             G
+Tudo que tem Fôlego
+D/F#             G  D/F#  A
+Louve ao Senhor
+A9          G
+Erga Suas mãos
+D/F#              G  E/G#  A
+E Louve ao Senhor
+A        G
+Com sua vida
+D/F#
+Louve ao Senhor
+G   D9       A9  G  D9        A9
+Louve ao Senhor, Louve ao Senhor
+
+C#m7         F#m7           Bm7       E  D
+Dai Graças ao Senhor, pois Ele é bom
+
+C#m7          F#m7  Bm7               E  D
+Seu amor é imenso e dura para sempre
+
+
+C#m7          F#m7
+Todo poderoso é o Senhor
+
+       E                   E4
+Vou Erguer minha voz,Para Sempre
+
+    E              A9   G  D/F#
+Vou Louvar ao meu Deus
+        G   D/F#   A9   G  D/F#
+Vou Louvar ao meu Deus
+                   A9   G  D/F#
+Vou Louvar ao meu Deus
+        G   D/F#   A9   G  D/F#
+Vou Louvar ao meu Deus
+
+ A9                   C9
+   Vou Erguer minhas mãos, vou Louvar ao meu Deus
+ D9                  F
+   Vou Cantar pro Senhor, vou Louvar ao meu Deus
+ A9                  C9
+   Só pra Ele Vou viver, vou Louvar ao meu Deus
+ D9                   E4
+   Vou Louvar ao meu Deus,
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+F = 1 3 3 2 1 1
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

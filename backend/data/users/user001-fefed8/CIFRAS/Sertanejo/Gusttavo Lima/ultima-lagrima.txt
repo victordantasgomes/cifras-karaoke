@@ -1,0 +1,84 @@
+@titulo: ultima-lagrima
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Última Lagrima
+
+E                 F#m     A9
+Vai ser a ultima lágrima
+         B9          E    C#m
+Eu vou chorar por você
+                   A9
+Mesmo te amando demais
+    B9                                E   A9
+Te quero demais não vou chorar por você
+
+    E               F#m   B9
+Te dar mais uma chance
+                             E   C#m
+Presta atenção que eu vou falar
+         A9
+Te amo demais
+    B9
+Te quero demais
+                     E  E F# G#
+Mais eu posso te deixar
+        G#            C#m
+Eu não vou mais aguentar os seus deslizes
+
+A9       B9       E   E F# G#
+Preste muita atenção
+     G#           C#m
+Se você pisar na bola outra vez
+              A9
+Não tem mais volta
+                         B9     E
+Não vou te dar o meu perdão
+
+( E  F#m  A9  B9  E  C#m  A9  B9  E  A9  E )
+
+        E               F#m    B9
+Vou te dar mais uma chance
+                                E    C#m
+Presta atenção no que eu vou dizer
+            A9
+Te quero demais
+    B9
+Te amo demais
+                       E   E F# G#
+Mais eu posso te esquecer
+        G#            C#m                   A9
+Eu não vou mais aguentar os seus deslizes
+         B9     E      E F# G#
+Preste muita atenção
+     G#           C#m
+Se voce pisar na bola outra vez
+              A9
+Não tem mais volta
+                         B9    E
+Não vou te dar o meu perdão
+
+           E      F#m     A9
+Vai ser a ultima lágrima
+        B9           E   C#m
+Eu vou chorar por você
+                   A9
+Mesmo te amando demais
+     B9                               E
+Te quero demais não vou chorar por você.
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G# = 4 3 1 1 1 4

@@ -1,0 +1,61 @@
+@titulo: feira-moderna
+@autor:
+@intérprete: Paralamas do Sucesso
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Os Paralamas do Sucesso - Feira Moderna
+
+( Fernando Brant / Beto Guedes / Lô Borges )
+
+
+[Intro:] G C Cm G Em Cm D7
+
+ G                         C     Cm
+Tua cor é o que eles olham, velha chaga
+ G                             C     Cm   D7
+Teu sorriso é o que eles temem, medo, medo
+
+ G                  G7M         G7
+Feira moderna, o convite sensual
+                      C             Am
+Oh! telefonista, a palavra já morreu
+              Em7    Am           Em7
+Meu coração é novo, meu coração é novo
+  Am              C
+E eu nem li o jornal
+
+G                   G7M                G7
+Nessa caverna, o convite é sempre igual
+
+                         C                Am
+Oh! telefonista, se a distância já morreu
+                Em7 .  Am                Em7
+Indepedência ou morte, descansa em berço forte
+Am                C
+A paz na Terra amém
+
+Solo: D C# C B Bb A G# G
+      Am Em7 Am Em7 Am C
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G7 = 3 5 3 4 3 3
+G7M = 3 X 4 4 3 X

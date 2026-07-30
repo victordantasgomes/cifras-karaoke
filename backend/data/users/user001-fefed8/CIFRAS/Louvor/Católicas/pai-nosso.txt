@@ -1,0 +1,39 @@
+@titulo: pai-nosso
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Pai Nosso
+
+C              G/B      Am Am/G
+Pai nosso que estais no ceu
+        F     C         G
+Santificado seja o teu nome
+        Am          Em
+Venha a nós o teu reino
+       F            C                 G           C  G
+Seja feita a tua vontade assim na terra como no céu
+       C            G/B         Am  Am/G
+O pão nosso de cada dia nos dai hoje
+
+      F            C         G
+Perdoai-nos as nossas ofenças
+           Am     Em        F             C
+Assim como nós perdoamos a quem nos tem ofendido
+    Am       Em      F        C           F            G   C
+E não nos deixeis  cair em tentaçao mas livrai-nos do mal amem.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+C = X 3 2 0 1 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

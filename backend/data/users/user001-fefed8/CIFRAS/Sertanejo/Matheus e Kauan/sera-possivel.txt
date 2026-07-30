@@ -1,0 +1,68 @@
+@titulo: sera-possivel
+@autor:
+@intérprete: Matheus e Kauan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Matheus e Kauan - Será Possível
+
+Intro 2x: E C#m A B
+
+E                   C#m
+Ás vezes o amor se desgasta
+A                 B
+E o meu se desgastou
+E                          C#m
+É quando as coisas não se encaixam mais
+A                  B
+Já não tem mais calor
+
+C#m                       A
+Você implica com tudo que faço
+                   E                   B
+E eu sempre me disfarço pra não te ofender
+C#m                           A
+Mas é que a gente não dá mais certo
+                      E                 B
+Acho que é melhor manter distancia de você
+
+E                              C#m
+Será possível que eu não posso mais me envolver
+
+A                         B
+Com outra pessoa que não seja mais você
+E                            C#m
+Será que nunca mais eu vou poder me libertar
+A                         B
+Dessa mania doida que eu tenho de te amar (2x)
+
+( E C#m A B ) (2x)
+
+C#m                       A
+Você implica com tudo que faço
+                   E                   B
+E eu sempre me disfarço pra não te ofender
+C#m                           A
+Mas é que a gente não dá mais certo
+                      E                 B
+Acho que é melhor manter distancia de você
+
+E                              C#m
+Será possível que eu não posso mais me envolver
+A                         B
+Com outra pessoa que não seja mais você
+E                            C#m
+Será que nunca mais eu vou poder me libertar
+A                         B
+Dessa mania doida que eu tenho de te amar (4x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0

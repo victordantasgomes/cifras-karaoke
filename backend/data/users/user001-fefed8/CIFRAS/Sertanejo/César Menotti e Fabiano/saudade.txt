@@ -1,0 +1,73 @@
+@titulo: saudade
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Saudade
+
+Intro 2x: C#  G#  C#  G#
+
+C#                 G#
+É madrugada e a saudade tá grudada em mim
+C#                 G#
+Meu corpo treme imaginando ter você aqui
+A#m                G#                    F#
+Meu coração tá disparado não da pra controlar
+F#                 G#
+Será que eu vou aguentar
+A#m                G#                    F#
+Me envolvo todo numa busca bem mais forte que eu
+F#                 G#
+Só pode ser amor de Deus.
+
+Refrão 2x:
+C#                  F#
+Aí eu choro, choro, choro de saudade
+A#m                 G#
+Eu tô gritando o seu nome na cidade
+C#                  F#
+Eu tô maluco, pirado tentando te encontrar
+
+A#m        G#       F#
+Só mais uma vez te amar
+
+Intro 2x: C#  G#  C#  G#
+
+C#                 G#
+É madrugada e a saudade tá grudada em mim
+C#                 G#
+Meu corpo treme imaginando ter você aqui
+A#m                G#                    F#
+Meu coração tá disparado não da pra controlar
+F#                 G#
+Será que eu vou aguentar
+A#m                G#                    F#
+Me envolvo todo numa busca bem mais forte que eu
+F#                 G#
+Só pode ser amor de Deus.
+
+Refrão 3x:
+C#                  F#
+Aí eu choro, choro, choro de saudade
+A#m                 G#
+Eu tô gritando o seu nome na cidade
+C#                  F#
+Eu tô maluco, pirado tentando te encontrar
+A#m        G#       F#
+Só mais uma vez te amar
+A#m        G#       F#
+Só mais uma vez te amar
+
+Final: C#  G#  C#  G#  F#
+
+----------------- Acordes -----------------
+A#m = X 1 3 3 2 1
+C# = X 4 6 6 6 4
+F# = 2 4 4 3 2 2
+G# = 4 3 1 1 1 4

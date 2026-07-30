@@ -1,0 +1,104 @@
+@titulo: uma-coisa-puxa-outra
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Uma Coisa Puxa Outra
+
+(intro) E B7 E B7 E (2x)
+        B7 E
+
+E|-------------------------------------------------------------|
+B|----0--------------0---------------0--------------0----------|
+G|-------------------------------------------------------------|
+E|---------2s7-7-----------2s5-5----------2s5-4----------2p0-0-|
+B|-0----4---------0----4----------0----4---------0----4--------|
+
+                                 |       3x      |Harm|
+E|-------------------------------|---------------|-12-|
+B|----0--------------0-----------|----0----------|-12-|
+G|-------------------------------|---------------|-12-|
+E|---------2s7-7-----------2s5-5-|---------2s7-7-|-12-|
+B|-0----4---------0----4---------|-0----4--------|----|
+
+ E                         B7            E
+O machado sem o cabo, não bota mata no chão,
+    B7            E          B7            E
+comandante sem soldado, não forma seu batalhão,   (riff)
+       F#            B       F#              B    B F# B
+sem bagunça sem baderna, quero ver minha nação.
+
+ E                         B7            E
+Uma coisa puxa outra, vai aqui minha opnião,
+   B7               E         B7           E
+traidor da minha patria, não mereçe meu perdão.
+
+(intro)
+                            B7             E
+Sem o policial na rua, não trabalha o escrivão,
+     B7           E         B7          E
+sem juiz sem delegado, não existe a prisão,     (riff)
+    F#           B        F#                B   B F# B
+o juiz e o delegado, faz a lei entra em ação.
+  E                        B7            E
+Uma coisa puxa outra, vai aqui minha opnião,
+   B7              E       B7               E
+o malandro vira santo, quando o advogado é bom.
+
+(intro)
+                           B7           E
+Sem o animal de raça, não existe exposição,
+     B7              E         B7        E
+sem disputa sem torneio, não existe campeão,     (riff)
+    F#              B        F#             B    B F# B
+sem boiada e sem tropa, não tem festa do peão,
+  E                        B7            E
+Uma coisa puxa outra, vai aqui minha opnião,
+     B7          E         B7            E
+o rodeio de Barretos, da um show de tradição.
+
+(intro)
+                             B7         B   E
+Sem o braço do caboclo, não existe produção,
+    B7                E          B7             E
+não tem soja não tem trigo, nem arroz e nem feijão, (riff)
+     F#             B         F#             B      B F# B
+sem auxilio da lavoura, não vai nada pro fogão.
+  E                        B7           E
+uma coisa puxa outra, vai aqui minha opnião,
+       B7         E          B7         E
+o que seria da cidade, sem ajuda do sertão.
+
+(intro)
+                              B7              E
+Sem trabalhao e sem luta, a gente não ganha o pão,
+     B7               E         B7          E
+sem preguiça e sem moleza, a gente vira patrão,    (riff)
+     F#               B        B7              B   B F# B
+pra quem gosta de moleza, eu dou sopá de algodão.
+   E                        B7           E
+uma coisa puxa outra, vai aqui minha opnião,
+     B7                E        B7              E
+todos que vivem na sombra, derramou o suor no chão.
+
+(riff)
+              b c b
+E|-----------7-7-7-|
+B|-----------7-7-7-|
+G|-----------7-7-7-|
+E|--2--------7-7-7-|
+B|--4--0--2--7-7-7-|
+
+(viola Afinada em Cebolão Mi)
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2

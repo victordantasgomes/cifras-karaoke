@@ -1,0 +1,10 @@
+@titulo: entre-um-gole-e-outro
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:

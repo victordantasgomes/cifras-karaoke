@@ -1,0 +1,96 @@
+@titulo: se-nao-tivesse-ido
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Se Não Tivesse Ido
+
+Introdução:
+
+                  2 vezes
+ |---------------------------------------|
+
+ |         Bm                  D/F#      |     Bm
+E|-----------|-------|-----------|-------|-------7-7-|
+B|-----------|-------|-----------|-------|-----------|
+G|-----4-7-4-|-7-7-6-|-7-6-4-----|-6h7---|-----4-----|
+D|-4-7-------|-9-9-7-|-------7-4-|-----9-|-4-7-------|
+A|-----------|-------|-----------|-------|-----------|
+E|-----------|-------|-----------|-------|-----------|
+
+Bm               G        A        D D4 D D4 D F#
+ E eu pensei que nunca ia te perder
+Bm               G        A       D D4 D D4 D
+ Mais tudo que vejo faz lembrar você
+A                               D
+ Espero outro dia para te ver aqui
+F#                    Bm  A      G
+ De um jeito tão carente, sorriso transparente
+
+A                 D D4 D D4 D F#
+ Se agarrando em mim
+
+2ª Parte:
+
+Bm                G            A     D D4 D D4 D F#
+ A vida vai passando e tudo é tão igual
+Bm                G                A     D D4 D D4 D
+ Um pranto no meu rosto é feito um temporal
+A                                        D  F#  Bm  A G
+ É o vinho que embriaga é o pão de cada dia
+G             A                  D D4 D
+ Eu era tão feliz e juro não sabia
+
+Refrão:
+
+A                                     D  D4  D
+ E nada é mais difícil que viver sem ti
+A                                     D  D4  D  D4  D
+ Sofrendo pela espera de te ver voltar
+A                                  D        F#         Bm  A  G
+ O frio do meu corpo pergunta por ti e não sei onde está
+G                A                 D    F#    Bm
+ Se não tivesse ido eu era tão feliz
+
+Repete: 2ª Parte
+
+Refrão:
+
+A                                     D  D4  D
+ E nada é mais difícil que viver sem ti
+A                                     D  D4  D  D4  D
+ Sofrendo pela espera de te ver voltar
+A                                  D        F#         Bm  A  G
+ O frio do meu corpo pergunta por ti e não sei onde está
+G                A                 D  D4  D
+ Se não tivesse ido eu era tão feliz
+
+A                                     D  D4  D
+ E nada é mais difícil que viver sem ti
+A                                     D  D4  D  D4  D
+ Sofrendo pela espera de te ver voltar
+A                                  D        F#         Bm  A  G
+ O frio do meu corpo pergunta por ti e não sei onde está
+G                A               G   F# Em          Bm
+ Se não tivesse ido eu era tão feliz     E|-------------|
+                                         B|------0-3-0--|
+                                         G|---2---------|
+                                         D|-4-----------|
+                                         A|-------------|
+                                         E|-------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

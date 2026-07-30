@@ -1,0 +1,51 @@
+@titulo: amar-nao-e-pecado
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Amar Não É Pecado
+
+Intro 2x: G#m7  E  B5  F#11
+Dedilhado:
+   G#m7            E              B5              F#11
+E|-----------------------------------------------------------|
+B|--------0--------------0--------------0--------------0-----|
+G|------4---4----------1---1----------4---4----------3---3---|
+D|----4-------4------2-------2------4-------4------4-------4-|
+A|--------------------------------2--------------------------|
+E|-4---------------0------------------------------2----------|
+
+G#m7        E                   B5          F#11
+  Eu não sei de onde vem essa força que me leva pra você
+G#m7       E                     B5           F#11
+  Eu só sei que faz bem, mas confesso que no fundo eu duvidei
+G#m7       E             B5                     F#11
+  Tive medo e em segredo,  guardei o sentimento e me sufoquei
+G#m7       E                     B5                        F#11
+  Mas agora é a hora, eu vou gritar pra todo mundo de uma vez
+
+Refrão:
+             B5(9)
+Eu tô apaixonado
+
+                F#                  G#m                 E
+Eu tô contando tudo e não tô nem ligando pro que vão dizer
+               B5(9)
+Amar não é pecado
+                 F#                  G#m                  E
+E se eu tiver errado, que se dane o mundo, eu só quero você
+
+----------------- Acordes -----------------
+B5 = X 2 4 4 X X
+B5(9) = X 2 4 4 2 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#11 = 2 4 4 4 2 2
+G#m = 4 6 6 4 4 4
+G#m7 = 4 X 4 4 4 X

@@ -1,0 +1,121 @@
+@titulo: pare
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Pare
+
+Intro: E F#m A B E  B7
+
+E                                               B
+Pare! Até quando você quer mandar e mudar minha vida
+F#m           A              B               E      E7
+Pare!  Meus desejos e sua vontades estão divididas
+    A        C#7        Ab       C#m            F#m   B
+Solidão está matando a gente sufocando a nossa paixão
+       E        A      B7      E B7
+Então Pare! Liberta o meu coração
+    E                A     B7         E    A E
+Se fosse uma ou duas vezes eu não ligaria
+E                 A                  B
+Ciúme e alguns defeitos todo mundo tem
+     C#7                               F#m
+Mas quando um amor machuca e passa da conta
+B                B7                  E  A B
+Fica como eu querendo ficar sem ninguem
+   E                 A       B7      E  A E
+Se fosse falta de carinho eu entenderia
+    C#7                                  F#m
+Mas todos os meus pensamentos foram pra você
+
+   A                     B              E
+Sozinho eu vi chegar a noite vi raiar o dia
+    C#7        F#m          B           E    B7
+Ir embora a alegria, que eu tinha de viver
+           E  E7          F#m
+Um grande amor, não faz assim,
+            A        B            E    B7
+Você se esconde de você dentro de mim
+      E   E7          F#m
+Não é amor, tente entender,
+
+          A                 B          E    B7
+digo uma vez que eu não fui feito pra você
+
+Solo  E F#m A B E  B7
+
+Versão 2
+---------
+PARE
+ZEZÉ DI CAMARGO  E  LUCIANO  -  118
+
+F                                                C
+Pare,  até quando você quer mandar e mudar minha vida,
+Gm                    Gm/F     C/             F           Gm    F/A
+Pare,  meus desejos e suas vontades estão divididas,
+  Bb                   A7       Dm        Dm/C    G/B
+Solidão está matando a gente, sufocando a nossa paixão,
+      F     Bb/C              F              Bb/C
+Então pare, liberta o meu coração....
+
+
+F                      F4              F           Bb     F
+Se fosse uma ou duas vezes, eu não ligaria,
+                                   C
+Ciúme e alguns defeitos todo mundo tem,
+    Gm              D7               Gm
+Mas quando o amor machuca e passa da conta,
+C               C/E                F                 Bb/C
+Fica como eu querendo, fica sem ninguém...
+
+
+       F                      F4                F
+Se fosse falta de carinho eu entenderia,
+    D7                                  Gm
+Mas todos os meus pensamentos foram pra você,
+  Bb                   Bº                F
+Sozinho eu vi chegar a noite, vi raiar o dia,
+     Dm        Gm           Bb/C  C    F      Bb/C
+Ir embora a alegria, que eu tinha de viver....
+
+
+          F        D7               Gm
+Um grande amor,           não faz assim,
+          C             C/E       F         Bb/C
+Você se esconde de você dentro de mim,
+      F         D7                   Gm
+Não é amor,               tente entender,
+       Bb                 C           F            Bb/C
+De uma vez que eu não fui feito pra você.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Ab = 4 3 1 1 1 4
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+Bb = X 1 3 3 3 1
+Bb/C = X 3 X 3 3 1
+Bº = X 2 3 1 3 1
+C = X 3 2 0 1 0
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+C/E = 0 3 2 0 1 0
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F/A = 5 X 3 5 6 X
+F4 = 1 3 3 3 1 1
+G/B = X 2 0 0 3 3
+Gm = 3 5 5 3 3 3
+Gm/F = X X 3 3 3 3

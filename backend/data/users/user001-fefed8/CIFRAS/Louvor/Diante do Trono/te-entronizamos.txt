@@ -1,0 +1,99 @@
+@titulo: te-entronizamos
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Te Entronizamos
+
+INTRO:       F#m7/E    E         A/C#     C#m7    B/C#       A9    E/G#          F#m7    F#m7/E
+                       G   G9                   D6/F#     D/F#                       Bsus                     B
+
+E         A11+ A  B/D#
+TE ENTRONIZAMOS
+B           A/E E  C#m7
+ENTRE OS LOUVORES
+E/G#       A9       F#m7
+POIS TU ÉS SANTO E DIGNO
+    Esus   E    C#m13  C#m          A9
+DE SER ENGRANDECIDO,              Ó DEUS
+  F#m7         B      Estrofe:     F#m7/E   E  B/E  A/E
+                      Coro:          F#m7/E         Teu povo...
+RECEBE NOSSA ADORA  -    ÇÃO
+
+E
+B/D# } E/C#   B
+TEU    POVO   CANTA A TI
+A/C# B/D#   A9
+SE PROSTRA DIANTE DE TI
+F#m7   A/B    Esus E  E B/D# A/C# F#/A#
+DIANTE DO TEU TRONO
+
+B    B/A      G#m7
+NA BELEZA DA SANTIDADE
+A     E/G#   D/F# D9
+TE ADORAMOS, MAJESTADE
+F#m7   B/D# Esus  E    Estrofe:  C#m7 B A/B
+                        Coro:      E E/G# A A/C#
+REI DE TODA GLÓRIA     Ponte:    F#m7 E E E  F#m7 E E
+
+
+E   F#m7   E/G#  E/B  B     B   A/C#   B/D#   A/E  E
+A   TI     A     GLÓRIA,    A   TI     A      GLÓRIA
+E   B/D#   A/C#   F#9/A#  F#/A#           A  B/A   E
+A   TI     A      GLÓ  -  RIA        PRA SEMPRE, AMÉM
+
+E   F#m7   E/G#  E/B B     B   A/C#   B/D#   A/E E
+A   TI     A     HONRA,    A   TI     A      HONRA
+E   B/D#   A/C#   F#9/A#  F#/A#          A  B/A   E
+A   TI     A      HON  -  RA         PRA SEMPRE, AMÉM
+
+E   F#m7   E/G#  E/B    B       B   A/C#    B/D#   A/E   E
+A   TI  O  DO  - MÍ  -  NIO,    A   TI  O   DO  -  MÍ  - NIO
+E   B/D#   A/C#   F#9/A#  F#/A#          A  B/A     E      Tag:      F#m7/E   /E   E
+A   TI  O  DO  -  MÍ  -   NIO        PRA SEMPRE, AMÉM
+
+Tag:
+B/D#        A/C#      E     C#m7 B A
+TEU DOMÍNIO NÃO TERÁ FIM
+
+Fim:  ralentando
+B/D#        A/C#      E    E
+TEU DOMÍNIO NÃO TERÁ FIM
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A11+ = X 0 7 6 4 X
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+B/C# = X 6 X 4 7 7
+B/D# = X 6 X 4 7 7
+B/E = X 7 9 8 7 7
+Bsus = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+C#m13 = X 4 X 3 5 4
+C#m7 = X 4 6 4 5 4
+D/F# = 2 X 0 2 3 2
+D6/F# = 2 X 0 2 0 X
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/C# = X 4 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Esus = 0 2 2 1 0 0
+F#/A# = 6 X 4 6 7 X
+F#9/A# = 6 X X 6 7 4
+F#m7 = 2 X 2 2 2 X
+F#m7/E = X X 2 2 5 2
+G = 3 2 0 0 0 3
+G#m7 = 4 X 4 4 4 X
+G9 = 3 X 0 2 0 X

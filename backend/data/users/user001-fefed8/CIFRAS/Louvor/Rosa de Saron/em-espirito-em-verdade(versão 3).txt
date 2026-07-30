@@ -1,0 +1,62 @@
+@titulo: em-espirito-em-verdade(versão 3)
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Em Espírito Em Verdade
+
+     A             C#m7
+Em Espírito, em verdade
+      D7M  Dm7      A     D/E
+Te adoramos,  te adoramos
+     A             C#m7
+Em Espírito, em verdade
+      D7M  Dm7      A
+Te adoramos,  te adoramos
+
+       F#m      F#m/E
+Rei do reis, e Senhor
+        D     E       A
+Te entregamos nosso viver
+       F#m7      F#m/E
+Rei do reis, e Senhor
+        D     Bm7     E
+Te entregamos nosso viver
+
+          D        Bm7     E
+Pra te adorar, oh! Rei dos reis,
+              D       Bm7   E
+Foi que eu nasci, oh! Rei Jesus,
+
+      E          Am
+Meu prazer é te louvar;
+       Em  F       G           C
+Meu prazer é estar nos átrios do senhor.
+       E     Am     G          C
+Meu prazer  é viver na casa de Deus,
+     D/E     A
+Onde flui o amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+D7M = X X 0 2 2 2
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F#m/E = X X 2 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

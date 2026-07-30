@@ -1,0 +1,83 @@
+@titulo: o-escudo
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - O Escudo
+
+[Intro] D  Em  A  D
+
+                 D                     Em
+Por toda minha vida, ó Senhor te louvarei
+                       A                     D
+Pois meu fôlego é tua vida, e nunca me cansarei
+                                             Em
+Posso ouvir a sua voz, é mais doce do que o mel
+                   A                     D
+Que me tira desta cova, e me leva até o céu
+                                            Em
+Já ví fogo e terremoto, vento forte que passou
+                  A                         D
+Já vivi tantos perigos, mas tua voz me acalmou
+                                              Em
+Tú dás ordem as estrelas, e ao mar os seus limites
+                   A                     D
+Eu me sinto tão seguro, no teu colo ó altíssimo
+
+[Refrão]
+
+
+           Bm          F#m            G       A
+Não há ferrolhos, nem portas, que se fechem diante
+        D            Bm          F#m         G
+Da tua voz, não há doenças, nem culpas, que fiquem
+    A            D              Bm        F#m
+De pé diante de nós, e a tempestade, se acalma, na
+ G            A         D               Bm       F#m
+Voz daquele que tudo criou, pois sua palavra, é pura
+   G             A        D
+Escudo para os que nele crêem
+
+[Solo] Bm  F#m  G  A  D
+
+E|-----------------------------------------------|
+B|-----7---------10--7---10-10-8-8-7-7--5-5---7--|
+G|-7-9---9-7~--7----------------------------7----|
+D|-----------------------------------------------|
+A|-----------------------------------------------|
+E|-----------------------------------------------|
+
+E|-----------------------------------------------|
+B|-----7---------10--7---10-10-8-8-7-7--5-5------|
+G|-7-9---9-7~--7----------------------------7-7--|
+D|-----------------------------------------------|
+A|-----------------------------------------------|
+E|-----------------------------------------------|
+
+[Refrão]
+
+           Bm          F#m            G       A
+Não há ferrolhos, nem portas, que se fechem diante
+        D            Bm          F#m         G
+Da tua voz, não há doenças, nem culpas, que fiquem
+    A            D              Bm        F#m
+De pé diante de nós, e a tempestade, se acalma, na
+ G            A         D               Bm       F#m
+Voz daquele que tudo criou, pois sua palavra, é pura
+   G             A        D
+Escudo para os que nele crêem
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

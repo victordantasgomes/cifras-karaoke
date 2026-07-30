@@ -1,0 +1,68 @@
+@titulo: pra-tocar-no-manto
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Pra Tocar No Manto
+
+[Intro]  F/A  G/B  D/F#
+         Dm  Em  Am
+         F  G  Am  G/B  C  F
+
+  F  G     Am
+Pra tocar no manto
+ Am   G/B   C9
+Na orla do manto
+ Dm7    Am7     F
+Tem que estar prostrado
+  Em7  Dm7   Em
+Pra   tocar no manto
+  F  G        Am
+Pra Tocar no manto
+ Am   G/B   C
+Na orla do manto
+ Dm7      Am7   F9
+Tem que quebrantar-se
+  Em7  Dm7    Em  D
+Pra tocar no manto
+
+ Am       Em7  F           G       Am
+Só quem crê e tem coragem de estender a mão
+ Am      Em7  F         G          Am
+Só quem vê  além do que enxerga a multidão
+Dm7                      Em
+O que se quebranta e se lança até o chão
+ F9                   E4        E
+Recebe a cura e a virtude de Jesus
+
+  F9   G9     Am9
+Pra Tocar no manto
+
+( Am  Em  F  C  Dm  G  Am  G  F9 )
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am9 = X 0 2 4 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G9 = 3 X 0 2 0 X

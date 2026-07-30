@@ -1,0 +1,89 @@
+@titulo: maluco-por-voce
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Maluco Por Você
+
+(intro) A E/G# F#m D A E/G# F#m E/G# D
+
+(solo)
+E|--------------------0--2--0--0--2--4--5--4--2--0--0--2--0------0--0-------0--2--0---------------------
+B|--2--3--5--5--2------------------------------------------3--2--------2----------------3--2--0------------
+G|-----------------2--------------------------------------------------2--------------------------2--1------
+D|-----------------------------------------------------------------------------------------------------2--4
+A|------------------------------------------------------------------------------------------------
+E|------------------------------------------------------------------------------------------------
+
+A               E/G#
+Seu sorriso é tão bonito
+F#m                  D
+Esse seu jeito meigo de menina
+A           E/G#              F#m
+Me deixa sem palavras quando o seu olhar
+           D
+Se encontra com o meu
+A              E/G#                       F#m
+ Eu adoro fazer graças pra te ver  sorrir
+                   D
+E me sinto muito bem com você
+
+A               E/G#          F#m
+ Não sei o que você sente mais
+                  D
+Sei que não devia te querer
+F#m        D                A
+  O tempo passou eu nunca imaginei
+           D
+Que fosse amar tanto assim
+F#m           D
+São coisas do coração
+        E/G#        D E
+Acho que eu estou...
+
+(refrão)
+        A             E/G#
+Apaixonado, descontrolado
+F#m           D
+Maluco por você.
+             A
+É tanta paixão
+          E/G#         F#m           D
+Meu coração não consegue te esquecer.
+
+        A             E/G#
+Apaixonado, descontrolado
+F#m           D
+Maluco por você.
+             A
+É tanta paixão
+          E/G#         F#m           D
+Meu coração não consegue te esquecer.
+
+(intro) A E/G# F#m D A E/G# F#m E/G# D
+
+F#m        D                A
+  O tempo passou eu nunca imaginei
+           D
+Que fosse amar tanto assim
+F#m           D
+São coisas do coração
+        E/G#        D E
+Acho que eu estou...
+
+(refrão)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

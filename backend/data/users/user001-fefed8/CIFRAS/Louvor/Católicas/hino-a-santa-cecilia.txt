@@ -1,0 +1,61 @@
+@titulo: hino-a-santa-cecilia
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Hino a Santa Cecília
+
+    E           B7        E          F#m       B7        E  B7 E
+Que cantos, que luzes que festa, que deslumbrante animação!
+   E       B7       E      G#m     D#7      G#m
+A corte do céu manifesta a mais atraente união!
+ F#m    B7              E     E      C#m          B7
+A quem vai celebrar a glória: o povo eleito do Senhor?
+   E        B7           E         F#M      F#7     B7
+A quem seus hinos de vitória, as ovações de seu louvor? (Bis)
+          E                F#m
+Refrão.: Cecília Triunfou, ganhou celeste palma
+  F#7            B7     E
+Catemos seus louvor! Peçamos que na vida
+  F#m                     B7       A   A#°  E     B7     E
+Amparo de nossa alma, nos seja seu favor! nos seja seu favor!
+
+  E           B7        E          F#m       B7        E  B7 E
+O lírio da bela pureza prendeu teu nobre coração.
+E       B7       E      G#m     D#7      G#m
+E deu-te a constância, a firmeza, o santo valor do cristão;
+F#m    B7              E     E      C#m          B7
+Cecília a nossa protetora: no pelejar da vida atroz,
+
+ E        B7           E         F#M      F#7     B7
+Na tentação perseguidora roga do céu a Deus por nós.(Bis)
+
+(Refrão)
+
+  E           B7        E          F#m       B7        E  B7 E
+A lira pulsava sublime sabias nela interpretar.
+E       B7       E      G#m     D#7      G#m
+A fé que nossa alma redime, o amor dom de Deus singular.
+F#m    B7              E     E      C#m          B7
+Teu valimento nos aplica; Jesus ouvindo a tua voz.
+ E        B7           E         F#M      F#7     B7
+A graça dê que santifica, roga do céu a Deus por nós! (Bis)
+
+(Refrão)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#° = X 1 2 0 2 0
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+D#7 = X 6 5 6 4 X
+E = 0 2 2 1 0 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

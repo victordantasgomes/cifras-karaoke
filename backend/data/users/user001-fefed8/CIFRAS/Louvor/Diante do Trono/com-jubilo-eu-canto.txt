@@ -1,0 +1,132 @@
+@titulo: com-jubilo-eu-canto
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Com Júbilo Eu Canto
+
+G
+Intro:   D   D   D C   C G  D   D   D   D C   C D  stop  (todos) D
+  D   D   D C   C G  D   D   D   D C   C G Eb   Eb Bb F   F C G   G4   G
+
+  G              C/G
+TU ÉS O MEU AUXÍLIO
+  G                C/G
+TUA DESTRA ME AMPARA
+    G/F               C/E    D    D
+A SOMBRA DE TUAS ASAS EU CANTO
+               D/F#   ( D/F#    D/F#    D/F# )
+COM JÚBILO EU CANTO
+  G              C/G
+ROCHA EM QUEM HABITO
+  G                  C/G
+FORTALEZA QUE ME ACOLHE
+  G/F                 C/E         D               D
+EM TEU ESCONDERIJO EU CANTO
+                D/F#    ( D/F#    D/F#    D/F# )
+COM JÚBILO EU CANTO
+   C                   Am7
+QUE O TEU POVO CELEBRE COMIGO
+
+   G                   D
+ESTIVE AMARGURADO E AFLITO
+  F                   F
+MAS O DEUS EM QUEM ME APOIO
+  C              C
+DEUS DA MINHA ESPERANÇA
+   Am             Am          G       G
+O DEUS DA MINHA CONFIANÇA ME SALVOU
+  Am7                 C             D4   D ( G F# B E D A )  "G”
+E OS MEUS LÁBIOS SE ENCHERAM DO SEU LOUVOR
+ G                      G/F
+O CHORO PODE DURAR UMA NOITE
+    G/F                 C/E
+MAS A ALEGRIA VEM PELA MANHÃ
+   C/E              Eb7+           G/B
+NÓS CELEBRAMOS A MISERICÓRDIA QUE SE RENOVA
+   C                        D   ( D D ) D  - ( D D ) D
+MÃO PODEROSA, SEMPRE SE LEVANTARÁ
+
+1ª  Hook:   G      F       ( C B E D D C B )    "G”
+             C            D
+2ª  Reintro
+
+E NOS DARÁ A VITÓRIA!
+Reintro:   G   G   G  F   F C G   G   G   G  F   F C    -  Verso
+Solo Teclado:   Em   D4 D   C   Am   G   D/F#
+   Em        D4  D
+CANTEM DE JÚBILO
+  C                Am      G          D/F#
+DEUS QUE NOS LIVRA DA MORTE
+   Em      D4  D
+CANTEM DE JÚBILO
+   C          Am          G                D/F#
+DEUS QUE É O PAI DOS ÓRFÃOS
+   Em        D4  D
+CANTEM DE JÚBILO
+  C                   Am       G         D/F#
+AO DEUS QUE JUÍZ DAS VIÚVAS
+   Em          D4  D
+CANTEM DE JÚBILO
+  C             Am           G         D/F#
+AO DEUS QUE LIBERTA O POBRE
+   Em          D4  D
+CANTEM DE JÚBILO
+  C          Am            G          D/F#
+AO DEUS QUE SARA O DOENTE
+   Em        D4 D    Am7              D/F#
+CANTEM DE JÚBILO, CANTEM DE JÚBILO,
+   Em        D4 D   Am7              D/F#
+CANTEM DE JÚBILO, CANTEM DE JÚBILO,
+   Em        D/F#
+CANTEM,   CANTEM
+   G9        Am7
+CANTEM,   CANTEM
+  Em      G           D4        D ( G F# B E D A )  "G”
+CANTEM, COM JÚBILO EU CANTO!!!!
+   G             G/F
+O CHORO PODE DURAR UMA NOITE
+  G/F                 C/E
+MAS A ALEGRIA VEM PELA MANHÃ
+    C/E           Eb7+                   G/B
+NÓS CELEBRAMOS A MISERICÓRDIA QUE SE RENOVA
+  C                     D   ( D D ) D  - ( D D ) D
+MÃO PODEROSA, SEMPRE SE LEVANTARÁ
+
+ 1ª  Hook: G      F       ( C B E D D C B )     "G”
+           C            D
+2ª Fim
+
+E NOS DARÁ A VITÓRIA!
+Fim:     G   G   G F   F C  G   G   G   G F   F C Ab   Ab Eb Bb   Bb F C   "C”
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Ab = 4 3 1 1 1 4
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+E = 0 2 2 1 0 0
+Eb = X 6 5 3 4 3
+Eb7+ = X X 1 3 3 3
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/F = 1 X X 0 0 3
+G4 = 3 5 5 5 3 3
+G9 = 3 X 0 2 0 X

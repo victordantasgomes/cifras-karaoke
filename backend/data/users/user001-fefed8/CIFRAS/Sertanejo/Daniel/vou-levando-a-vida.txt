@@ -1,0 +1,51 @@
+@titulo: vou-levando-a-vida
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Vou Levando a Vida
+
+(intro 4x) D A Bm G
+
+D         A             Bm G
+Eu gosto de andar sozinho
+D          A            Bm G
+Eu creio em disco voador
+D           A            Bm  G D A Bm G
+Sou eu quem faz o meu destino  ô ô ô
+D          A           Bm  G
+Não gosto muito de política
+D          A              Bm G
+Tô procurando um grande amor
+D          A            Bm G D A Bm
+Sou um sujeito meio tímido   ô ô ô
+G          D/F#        Em  C   D
+Quem fala pouco saca tudo, Baby
+G       D/F#          Em  C D
+Saber ouvir é mais saber
+D       A               Bm G       D A Bm G
+Sou aprendiz desses mistérios do viver
+D          A               Bm      G
+Eu vou levando a vida, a vida me levando
+
+D         A         Bm G
+Eu vou levando a vida
+D          A               Bm      G
+Eu vou levando a vida, a vida me levando
+D         A         Bm G
+Eu vou levando a vida
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

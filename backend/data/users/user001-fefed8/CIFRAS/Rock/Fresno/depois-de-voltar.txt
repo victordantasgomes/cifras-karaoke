@@ -1,0 +1,81 @@
+@titulo: depois-de-voltar
+@autor:
+@intérprete: Fresno
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fresno - Depois de Voltar
+
+(intro) F7+  Dm7/9
+        C Am F C/B G G (2x)
+
+C
+  O tempo vai
+Am
+  A noite cai
+Dm             F                G
+ Eu bebo só pra esquecer que perdi voce
+
+C               G/B
+  Você chegou
+Am              G
+  Cumprimentou
+Dm                F
+  E eu já fico tenso
+            G
+só de observar você
+
+F7+     Dm7/9      C
+  E se você retribuísse
+
+F7+     Dm7/9    C
+  E seu eu conseguisse
+F7+      Dm7/9        C     G/B  Am
+  Não ia ter motivos pra te escrever
+   G          F   G7
+depois de voltar (depois de voltar..)
+
+           C
+Então por que eu não cheguei e falei
+    G/B      Am                        G    F
+o que eu tinha pra dizer pra você? (para você)
+        F
+E por que você fica tão longe
+     Fm
+escondendo o que não se esconde
+         C
+( de ninguém? )
+
+     C
+Por que eu não cheguei e falei
+    G/B      Am                        G   Dm7
+o que eu tinha pra dizer pra você? (para você)
+      Dm7
+E por que você fica tão longe
+      G
+escondendo o que não se esconde
+        C
+de ninguém?
+        Am      F       G
+de ninguém..
+
+(C  Am  F  G  C)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C/B = X 2 2 0 1 0
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Dm7/9 = X 5 3 5 5 X
+F = 1 3 3 2 1 1
+F7+ = 1 X 2 2 1 X
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

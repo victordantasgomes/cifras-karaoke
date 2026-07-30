@@ -1,0 +1,73 @@
+@titulo: eu-te-busco
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Eu Te Busco
+
+[Intro]  G  C  Em  D  C
+
+G                             C
+  Eu te busco, te procuro oh Deus
+Em              D    C
+   No silêncio tu estás
+G                           C
+  Eu te busco, toda hora espero em ti
+Revela-te a mim
+Em                  D    C
+   Conhecer-te eu quero mais
+
+G             D
+  Senhor te quero
+Em          C
+   Quero ouvir tua voz
+G             D    C
+  Senhor te quero mais
+G          D     Em               C
+  Quero tocar-te,   tua face eu quero ver
+G             D    C
+  Senhor te quero mais
+
+
+G                               C
+  Prosseguindo, para o alvo eu vou
+Em          D      C
+   A coroa conquistar
+G                         C9
+  Vou lutando, nada pode me impedir
+Eu vou te seguir
+Em                  D    C9
+   Conhecer-te eu quero mais
+
+G             D
+  Senhor te quero
+Em          C9
+   Quero ouvir tua voz
+G             D    C9
+  Senhor te quero mais
+G          D     Em               C9
+  Quero tocar-te,   tua face eu quero ver
+G             D    C9
+  Senhor te quero mais
+
+[Solo]  D  C9  G
+        D  C9  G
+        F  C9
+        F
+
+[Final]  D  C9  G
+         D  C9  G
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

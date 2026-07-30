@@ -1,0 +1,89 @@
+@titulo: a-solidao-e-uma-ressaca
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - A Solidão É Uma Ressaca
+
+(intro)
+
+           D               Em            C        D      G     D
+E |--------------------------------------------------------------------|-2-|
+B |-----------10-8-7-------8~---7-8-7----------------------------------|-3-|
+G |------------------9-8-9----9-------9-7~--7/9-7----------------------|-2-|
+D |-----------------------------------------------10-9~-9/7-5-4-4/7~-5-|-0-|
+A |--------------------------------------------------------------------|---|
+E |--7-8-9-10~---------------------------------------------------------|---|
+
+
+G      Am           Bm
+Hoje  quando eu acordei
+           Am          G
+Olhei pra mim e perguntei
+       E7              Am  E7
+Aonde foi que eu me perdi
+  Am         Am/G#      Am/G
+Sozinho  eu saí da casa dela
+      Am/F#           D
+Acho que briguei com ela
+
+                      G  (D D4 D)
+Lembro que foi bem assim
+   G          Am           Bm
+Depois que brigamos fui embora
+   Am           G         E7           Am
+Decidi naquela hora tomar uma pra esquecer
+    C         Cm           G
+Coração apaixonado mais bandido
+     E7           Am
+Encontrou outro ferido
+        D7         G
+E era linda de morrer
+
+           D
+Eu nem me lembro
+                  Em
+Como foi que terminou
+                 C           D          G
+Se a gente fez amor ou só falou de solidão
+             D
+Só sei que agora
+                  Em
+Eu estou tão dividido
+                   C             D7       G
+Acordei fiquei perdido com o coração na mão
+
+(refrão)
+         D                    Em
+Tanta paixão  loucura que não passa
+        C          D           G
+Amor bandido e solidão é uma ressaca
+
+(repete tudo)
+(repete refrão 3x)
+
+( G  Bm  Am  C  D  G )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am/F# = 2 X 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Am/G# = X X 6 5 5 5
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

@@ -1,0 +1,43 @@
+@titulo: meu-coracao-transborda
+@autor:
+@intérprete: Thalles Roberto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Thalles Roberto - Meu Coração Transborda
+
+Intro: A  D  A
+
+        A         D         C#m    F#m
+Meu coração transborda de amor
+            Bm E               A    D  A
+Porque meu Deus é um Deus de amor
+            A      D        C#m    F#m
+Minh'alma está repleta de paz
+         Bm  E            A    A7
+Porque Jesus é a minha paz
+
+         D       Dm         C#m       F#m
+Eu digo Aleluia, Aleluia, Aleluia,
+           Bm      E            Em   A
+Aleluia, Aleluia! Eu digo por quê
+         D       Dm         C#m       F#m
+Eu canto Aleluia, Aleluia, Aleluia,
+           Bm      E        A
+Aleluia, Aleluia! Aleluia! Amém.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2

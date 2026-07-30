@@ -1,0 +1,91 @@
+@titulo: meu-tributo
+@autor:
+@intérprete: Kemuel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kemuel - Meu Tributo
+
+[Intro] E  B/D#  Bm/D  A/C#
+        E  B/D#  Bm/D  A/C#
+
+ E          B/D#     Bm/D      C#7(4)  C#7
+Como agradecer pelo bem que fizeste a mim?
+ F#m       F#m7M       F#m7       Am
+Não merecedor, mas provaste Seu amor sem fim
+    E           B/D#      C#m  E/B
+As vozes de milhões de anjos
+        F#/A#               Am
+Não expressam a minha gratidão
+       E          B/D#       Bm/D  A/C#
+Tudo que sou e o que almejo ser
+Am                E  ( A/C#  B/D# )
+   Eu agradeço a Ti
+
+[Refrão]
+
+   E            C#7(4)  C#7   F#m          Am  B
+A Deus seja a gló_____ria, a Deus seja a gló__ria
+   G#7(4)  G#7             C#m          F#4    F#      Am
+A De___________us seja a glória, pelas bençãos    sem fim
+
+         E        C#7(4)  C#7       F#m       Am  B
+Com Seu sangue lavou_____me, seu poder restaurou-me
+   G#7(4)  G#7             C#m  F#/A#    E/B  B  E
+A De___________us seja a gló__ria, para sempre amém
+
+         G#7(4)  G#7           C#m   G#7/C  C#m
+Quero viver só pra Ti, Tua vontade obe___decer
+          A            C#m               F#/A#      Am
+E se o aplauso eu receber, no calvário irei me gloriar
+
+[Refrão]
+
+         E        C#7(4)  C#7       F#m       Am  B
+Com Seu sangue lavou_____me, seu poder restaurou-me
+   G#7(4)  G#7             C#m  F#/A#    E/B  B  E
+A De___________us seja a gló__ria, para sempre amém
+
+         G#7(4)     G#7        C#m   G#7/C  C#m
+Quero viver só pra Ti, Tua vontade obe___decer
+          A            C#m               F#/A#      Am
+E se o aplauso eu receber, no calvário irei me gloriar
+
+[Refrão]
+
+   E            C#7(4)  C#7   F#m          Am  B
+A Deus seja a gló_____ria, a Deus seja a gló__ria
+   G#7(4)  G#7             C#m  F#/A#
+A De___________us seja a gló__ria
+E/B           B
+   Para sempre amém
+
+( E  B/D#  Bm/D  A/C# )
+( E )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+Bm/D = X 5 X 4 7 7
+C#7 = X 4 3 4 2 X
+C#7(4) = X 4 6 4 7 4
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#4 = 2 4 4 4 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7M = X X 4 6 6 5
+G#7 = 4 6 4 5 4 4
+G#7(4) = 4 6 4 6 4 X
+G#7/C = X 3 4 1 4 X

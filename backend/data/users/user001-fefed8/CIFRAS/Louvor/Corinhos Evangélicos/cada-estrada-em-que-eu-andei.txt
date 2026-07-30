@@ -1,0 +1,49 @@
+@titulo: cada-estrada-em-que-eu-andei
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Cada Estrada Em Que Eu Andei
+
+          A              C#m
+Cada estrada em que eu andei
+             D    E
+Eu pensei daria certo
+        A              C#m
+Toda terra em que habitei
+    D             E
+Terminou em um deserto
+F#m                       F#m7       D        E
+Quando Deus achou  me em trevas disse : haja luz
+F#m                      F#m7         D      B        E7
+Quando Deus achou me em guerras :disse haja paz
+        A
+Quando Deus acho
+     C#m        D           E
+Em negras nuvens de tribulação
+        A          C#m        D           E
+Fez nascer um arco íris no céu do meu coração
+       A             C#m      D             E  A E/G# F#m
+Toda vez que eu tive sede, Ele deu me de beber
+     D       E           A  E/G# F#m
+Agua viva , deu me de beber
+
+     D      E          A
+Agua viva, deu me de beber
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X

@@ -1,0 +1,80 @@
+@titulo: eu-quero-apenas-falar-de-amor
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Eu quero apenas falar de amor
+
+Intro : C5 D5 E5 }4x
+
+
+G         D/F#          Em C
+Eu quero apenas falar de amor
+    G        D/F#
+Falar de nós dois
+     Em               C
+Do mundo que temos que viver
+G       D/F#               Em C
+Do muito que vamos aprender
+     G    D/F#
+Falar de infância
+   Em             C
+E ver a criança brincar
+G            D/F#                 Em C
+Buscar na criança um recomeçar
+G         D/F#          Em C
+Eu quero apenas falar de amor
+         G              D/F#
+Sem medo e sem raiva
+
+           Em        C
+De um mundo que é injusto
+            G         D/F#
+De um mundo que tem fome
+      Em                     C
+Um mundo que é cego e não quer ver
+G         D/F#          Em C
+Eu quero apenas falar de amor
+G        D/F#        Em          C
+Cantar pelas ruas o amor de quem vive
+G           D/F#                 Em     C
+O amor que você pode encontrar
+        G                 D/F#
+Sem muros em mim
+   Em            C
+Amar a quem me odeia
+       G                 D/F#
+Mostrar a outra face
+   Em        C
+A face verdadeira do amor
+G         D/F#          Em C
+Eu quero apenas falar de amor
+      G         D/F#
+De como eu te amo
+       Em                  C
+Meu Deus como eu te amo
+( Intro )
+ solo : G D/F# Em C
+ sem muros em mim ...
+
+Final : G Am7 G/B C9 / C9 G/B Am7 G
+          G Am7 G/B C9 G/B Am7 Em7
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C5 = X 3 5 5 X X
+C9 = X 3 5 5 3 3
+D/F# = 2 X 0 2 3 2
+D5 = X 5 7 7 X X
+E5 = 0 2 2 X X X
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

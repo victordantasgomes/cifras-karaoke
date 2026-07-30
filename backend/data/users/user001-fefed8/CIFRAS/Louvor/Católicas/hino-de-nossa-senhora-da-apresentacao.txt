@@ -1,0 +1,63 @@
+@titulo: hino-de-nossa-senhora-da-apresentacao
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Hino de Nossa Senhora da Apresentação
+
+                  C              Am     A7       Dm  Dm7+  Dm7  Dm7/C
+1.Tu quiseste um dia trazer alegria ao nosso cantar
+            Dm                 G                   C  Eb7+
+E vieste Maria com Jesus nos braços, nas ondas do mar
+
+                 C                      Gm       C7        F  Fm
+Pescadores te acharam, com amor te acolheram, Ó Mãe sem igual
+              C      Am          Dm        G        C
+Entre o Potengi e as águas tranquilas do mar de Natal
+
+      G           C   Am     Dm          G         C
+Escolheste, por amor, nossa terra pra aqui, vir morar
+        G         C   Am     Dm        G      C    Eb7+
+Virgem Mãe do Senhor a teus pés nós viemos rezar
+
+                    C              Am      A7     Dm  Dm7+  Dm7  Dm7/C
+2.Vinte e um de novembro, o dia feliz de tua aparição
+               Dm                G                C   Eb7+
+E nós te festejamos, ó Nossa Senhora da Apresentação
+
+              C                  Gm      C7      F  Fm
+Hoje a felicidade traz toda a cidade à tua Catedral
+
+                 C          Am          Dm       G         C
+Pra louvar-te Maria, que escolheste um dia teu trono em Natal
+
+                      C              Am     A7     Dm  Dm7+  Dm7  Dm7/C
+3.Tens na fronte a coroa, Rainha da Paz do amor e do perdão
+                  Dm              G                    C  Eb7+
+És a Mãe terna e boa, Rainha que reina com o terço na mão
+
+                 C                  Gm       C7       F  Fm
+Teu olhar de bondade, onde a serenidade, nos dá proteção
+                     C         Am       Dm        G      C
+Tens Jesus em teus braços, és Nossa Senhora da Apresentação
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Dm7+ = X X 0 2 2 1
+Dm7/C = X 3 0 2 1 1
+Eb7+ = X X 1 3 3 3
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

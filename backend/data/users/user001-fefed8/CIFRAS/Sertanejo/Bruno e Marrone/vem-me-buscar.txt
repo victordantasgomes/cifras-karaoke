@@ -1,0 +1,67 @@
+@titulo: vem-me-buscar
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Vem Me Buscar
+
+G       D5/F#        Em  C       G/D         Am    D
+Tanto tempo a gente não se vê, me pergunto se já me esqueceu
+G      D5/F#          Em  C        G/D        Am   D
+Será que tem alguém no meu lugar, desfrutando sonho que era meu
+G        B        C          Cm
+Teu sorriso, teu desejo o doce do teu beijo
+G         Am    D/A    G   D7
+Onde foi que a gente se perdeu
+G       D5/F#         Em     C      G/D       Am   D
+Quanta coisa eu tinha pra falar, pena que você não quis ouvir
+G      D5/F#         Em  C      G/D       Am   D
+Já sofri demais vem me buscar, nada existe sem você aqui
+G        B      C       Cm7
+Não me deixe é tempo ainda, salva minha vida
+G       Am    D/A    G   D7
+Não me deixe tão sozinho aqui
+
+G               Am7                 C              D7          G  D7
+Vem pra me dizer ,    que ainda existe uma esperança de recomeçar
+G              Am7             C       D7            G   D
+Vem diga que sim, diz que me ama e que vai voltar pra mim
+
+
+G       D5/F#         Em     C      G/D         Am   D
+Quanta coisa eu tinha pra falar, pena que você não quis ouvir
+G      D5/F#         Em  C      G/D         Am  D
+Já sofri demais vem me buscar, nada existe sem você aqui
+G         G7(#5)     C        Cm7
+Não me deixe é tempo ainda, salva minha vida
+G       Am    D/A    G   D7
+Não me deixe tão sozinho aqui
+
+G               Am7                 C              D7          G  D7
+Vem pra me dizer ,    que ainda existe uma esperança de recomeçar
+G              Am7             C       D7            G   D
+Vem diga que sim, diz que me ama e que vai voltar pra mim
+
+( G  Am7  C  D  G )
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+Cm7 = X 3 5 3 4 3
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D5/F# = 2 X 0 2 3 X
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/D = X 5 5 4 3 X
+G7(#5) = 3 X 3 4 4 3

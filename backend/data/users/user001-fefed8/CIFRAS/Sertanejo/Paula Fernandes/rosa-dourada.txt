@@ -1,0 +1,75 @@
+@titulo: rosa-dourada
+@autor:
+@intérprete: Paula Fernandes
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Paula Fernandes - Rosa Dourada
+
+(intro)  C F   C F
+
+C                 F
+Viajei céus e planetas
+C                   F
+Vim de longe pra te encantar
+Dm          F             C
+Sim eu sonhei ser tua estrela
+Dm      F             C
+Eu sonhei ser tua estrela
+Am                D
+Iluminar o teu sorriso
+Am                     D
+Alegria é um sol que acende o teu olhar
+Dm          F             C
+Sim eu sonhei sonhos da terra
+Dm      F             C
+Eu sonhei sonhos da terra
+    G
+Da terra
+Em       Bm
+Eu sou o fogo desse amor
+
+Em       Bm
+Eu sou a cura, da tua dor
+Am                  Em
+Rosa dourada é a cor do sonho meu
+Am                 Em
+Rosa dourada magia do amor
+G                  D
+Quero o beijo que você não me deu
+Am                  Em
+Navegar nesse sentimento bom
+G                D
+Fascinante fonte de inspiração
+F         Am         D  D4
+É conquistar o teu amor
+Dm          F             C
+Sim eu sonhei ser tua estrela
+Dm      F             C
+Eu sonhei sonhos da terra
+F             C
+Sem limites pra sonhar
+F                    C
+Rosa em ouro em teu olhar
+F                      C
+Passa o tempo o tempo passará
+F                C
+Essa luz contigo irá
+F                 C
+Essa luz contigo irá
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

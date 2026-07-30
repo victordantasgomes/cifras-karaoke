@@ -1,0 +1,190 @@
+@titulo: infinita-highway(simplificada)
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Infinita Highway
+
+(intro 2x)  A C#m D E
+
+   A            C#m
+Você me faz correr demais
+    E
+Os riscos desta highway
+   A            C#m
+Você me faz correr atrás
+        E
+Do horizonte desta highway
+     A                C#m
+Ninguém por perto, silêncio no deserto
+   E            E
+Deserta highway
+   A              C#m
+Estamos sós e nenhum de nós
+ E                     E
+Sabe exatamente onde vai parar
+
+ D                    E
+Mas não precisamos saber pra onde vamos
+
+ F#m
+Nós só precisamos ir
+ D            E
+Não queremos ter o que não temos
+ F#m
+Nós só queremos viver
+ D              E
+Sem motivos nem objetivos
+   A          C#m       F#m
+Estamos vivos e isto é tudo
+               D  E
+É sobretudo a lei
+             A     C#m     D     E
+Da infinita highway
+
+  A                   C#m
+Quando eu vivia e morria na cidade
+E                   E
+Eu não tinha nada, nada a temer
+ A                  C#m
+Mas eu tinha medo, medo desta estrada
+E         E
+Olhe só, veja você
+  A                   C#m
+Quando eu vivia e morria na cidade
+E                  E
+Eu tinha de tudo, tudo ao meu redor
+     A                         C#m
+Mas tudo que eu sentia era que algo me faltava
+     E          E
+E à noite eu acordava banhado em suor
+
+ D                E
+Não queremos lembrar o que esquecemos
+ F#m
+Nós só queremos viver
+ D                 E
+Não queremos aprender o que sabemos
+ F#m
+Não queremos nem saber
+ D              E
+Sem motivos nem objetivos
+   A          C#m  F#m
+Estamos vivos e é só
+                 D  E
+Só obedecemos à lei
+             A      C#m     D     E
+Da infinita highway
+
+   A                    C#m
+Escute garota, o vento canta uma canção
+ E                 E
+Dessas que a gente nunca canta sem razão
+    A                        C#m
+Me diga, garota: _Será a estrada uma prisão?
+   E            E
+Eu acho que sim, você finge que não
+     A                C#m
+Mas nem por isso ficaremos parados
+         E             E
+Com a cabeça nas nuvens e os pés no chão
+ A                                       C#m
+Tudo bem, garota, não adianta mesmo ser livre
+    E             E
+Se tanta gente vive sem ter como viver
+
+   D              E
+Estamos sós e nenhum de nós
+ F#m
+Sabe onde quer chegar
+   D           E
+Estamos vivos sem motivos
+       F#m
+Que motivos temos pra estar?
+   D                    E
+Atrás de palavras escondidas
+          A             C#m   F#m     D   E
+Nas entrelinhas do horizonte desta highway
+            A       C#m      D      E
+Silenciosa highway
+
+( A C#m D E ) (2x)
+
+    A                 C#m
+Eu vejo o horizonte trêmulo
+    D                 E
+Eu tenho os olhos úmidos
+    A                   C#m
+Eu posso estar completamente enganado
+            D                E
+Eu posso estar correndo pro lado errado
+       A                     C#m
+Mas a dúvida é o preço da pureza
+      D                E
+E é inútil ter certeza
+    A                C#m
+Eu vejo as placas dizendo "Não corra",
+D            E
+ "Não morra",  "Não fume"
+    A                 C#m
+Eu vejo as placas cortando o horizonte
+        D            E
+Elas parecem facas de dois gumes
+
+(solo base) D   E   F#m (2x)
+            D   E   A   C#m   F#m   D   E
+            A    C#m    D    E
+
+       A                            C#m
+Minha vida é tão confusa quanto a América Central
+    E
+Por isso não me acuse de ser irracional
+   A              C#m
+Escute garota, façamos um trato
+         E
+Você desliga o telefone se eu ficar muito abstrato
+    A                       C#m
+Eu posso ser um Beatle, um beatnik,
+       E
+Ou um bitolado
+    A                C#m               E
+Mas eu não sou ator, eu não 'tô à toa do teu lado
+    A                C#m
+Por isso, garota, façamos um pacto
+    E
+De não usar a highway pra causar impacto
+
+D
+ Cento e dez
+E
+ Cento e vinte
+F#m
+ Cento e sessenta
+D           E            F#m
+ Só pra ver até quando   o motor agüenta
+    D              E
+Na boca, em vez de um beijo, um chiclete de menta
+     A               Bm             C#m D E
+E a sombra de um sorriso que eu deixei
+                     A     D  A       E
+Numas das curvas da highway
+          A     D  A       E
+Infinita highway
+          A     D  A       E    A
+Infinita highway
+
+(revisão - Philippe Lobo)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

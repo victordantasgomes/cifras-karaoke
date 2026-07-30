@@ -1,0 +1,41 @@
+@titulo: baruk-raba
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Baruk Raba
+
+(intro) Gm  Gm  Gm  Gm Cm
+        G  Bb  A   F  G  Bb  A  F G  Bb A  F  G  D  Eb  D (2x)
+
+  Gm            Cm      Gm
+Baruk  Raba  Beshen Adonai
+   Gm          Dm       Gm
+Baruk Raba  Beshen Adonai
+   Gm                      Cm        Gm
+Bendito é o que vem em nome do Senhor
+    Gm                      Dm7   Gm
+Bendito é o que vem em nome do Senhor
+          Gm                 Bb
+Cante aleluia, Daí glória a Deus
+       Cm7     Gm       Bb       Gm
+Salmodiai, dançai a Yeshua Hamashia
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb = X 1 3 3 3 1
+Cm = X 3 5 5 4 3
+Cm7 = X 3 5 3 4 3
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Eb = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

@@ -1,0 +1,62 @@
+@titulo: papo-cabeca
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - Papo Cabeça
+
+(intro) F  E  D  G (3x)
+        D#  C  G
+
+G            Em        Bm  Dm  G
+Como vai você hoje em dia,
+Am          F          D
+Espero que esteja tudo bem
+B7         C     D#º        Em  G    A4           A
+Eu ando tentando ver o lado zen,     o que é que nos ensinam
+Am            D
+Nossos mesmos velhos males
+G         Em    Bm  Dm   G
+Aonde você tem andado?
+Am           F           D
+Sempre me perguntam por você
+B7            C           D#º       Em      G
+Eu tô indo a vida com a determinação de um trem
+A4        A      Am        B7    Em
+Como um faminto em um prato de comida
+             C       G        B7                   Em
+Pois sempre houve espinhos nas rosas de qualquer jardim
+
+          F      C          D
+E se há calor no ninho há pedras no caminho
+               C Bm Am G      ( F  E  D  G ) (3x)   ( D#  C  G )
+E ainda sim é belo    Se é
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C5 = X 3 5 5 X X
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D#5 = X 6 8 8 X X
+D#º = X X 1 2 1 2
+D5 = X 5 7 7 X X
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F5 = 1 3 3 X X X
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X

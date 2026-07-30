@@ -1,0 +1,76 @@
+@titulo: aonde-esta-voce
+@autor:
+@intérprete: Thalles Roberto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Thalles Roberto - Aonde Está Você?
+
+Intro: A7M Am7 G#m7 C#7 - A7M Am7
+
+E7M
+Faz tanto tempo que eu não te vejo,
+A7M
+Ainda ouço a sua voz...
+E7M
+Tenho as suas cartas procuro seu sorriso,
+A7M
+e sinto falta de nós dois
+Am6                       G#m7
+Falar baixinho de coisa de quem tá com medo,
+      C#4(7)   C#7            C#m7     G5/E D#7(9)
+Ou tem segredo eu preciso te contar
+
+A7M                              A9/B
+Que a noite nem disfarça, sente falta de nós dois.
+G#m7                  C#7(9)          F#m7     E7M
+A lua me perguntou cadê você, pra onde foi o meu amor?
+
+A7M
+Aonde está você?
+
+Am6
+O sonho que sonhei,
+G#m               C#7(9)
+Preciso te dizer, te amo!
+A7M
+Eu quero te encontrar agora,
+Am6
+Eu estou sentindo tanta falta.
+G#m
+Só quero te amar,
+C#7(9)
+Mais nada não
+
+(F#m7 B7)
+
+Inicio
+
+Final:
+
+F#m7 B7(9)                             G#m7 C#7(9)
+Não, eu não quero nada, eu só quero amar você
+F#m7               B7(9)           E7M
+Eu não quero nada, só quero amar você
+
+----------------- Acordes -----------------
+A7M = X 0 2 1 2 0
+A9/B = X 2 2 2 0 0
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+B7(9) = X 2 1 2 2 X
+C#4(7) = X 4 4 6 0 X
+C#7 = X 4 3 4 2 X
+C#7(9) = X 4 3 4 4 X
+C#m7 = X 4 6 4 5 4
+D#7(9) = X 6 5 6 6 X
+E7M = X X 2 4 4 4
+F#m7 = 2 X 2 2 2 X
+G#m = 4 6 6 4 4 4
+G#m7 = 4 X 4 4 4 X

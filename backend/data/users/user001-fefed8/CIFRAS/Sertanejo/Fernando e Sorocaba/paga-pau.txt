@@ -1,0 +1,102 @@
+@titulo: paga-pau
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Fernando e Sorocaba - Paga Pau
+
+E|-1/2-x-1/2-2-x-x-|
+B|-2/3-x-2/3-3-x-x-|
+G|-1/2-x-1/2-2-x-x-|
+D|-0-----0---0-----|
+A|-----------------|
+E|-----------------|
+
+(refrão)
+   C# D                   A
+      Você diz que não me ama,
+                     Bm
+Você diz que não me quer
+                   G
+Mas ficar pagando pau... hammm
+           C#  D
+Qual é que é?
+
+                A
+Todo dia seu teatro é
+
+             Bm
+Exatamente igual,
+                    G
+Você finge que me odeia
+                    D
+Mas no fundo Paga pau!
+
+(solo 2x) D   A   Bm   G   D   A   Bm   G
+
+E|--------5--3--2----------------------------------|
+B|--2--3----------3--------5--3--2-----------------|
+G|-------------------1/2-------------4------2-2h4--|
+D|-------------------------------------2h4---------|
+A|-------------------------------------------------|
+E|-------------------------------------------------|
+
+D                     A
+Ela é atriz, ela faz cena,
+                  Bm
+Ela mete uma pressão
+                   G
+Se joga na minha frente... hammm
+            D
+Não engana não!
+
+D                  A
+Feito cobra mal matada,
+                      Bm
+Ela rebola, eu passo mal,
+                 G
+Com o nariz empinado...
+         D
+Ela é a tal!
+
+D                 A
+Se eu mando um xaveco,
+                 Bm
+Ela finge não ouvir,
+                           G
+Mas se eu grito: "Olha a bruxa!”
+            D
+Vem discutir
+
+D           A
+Sua psicologia
+                      Bm
+Tá um tanto quando errada,
+                     G
+Ou me aceita de uma vez...
+         D
+Ou tá danada!
+
+(refrão)
+
+(solo)
+
+"Ela é atriz, ela faz cena (...)"
+
+(refrão) (2x)
+
+(solo) C  G  A  D  C  G  A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3

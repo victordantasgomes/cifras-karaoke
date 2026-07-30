@@ -1,0 +1,115 @@
+@titulo: danse-macabre
+@autor:
+@intérprete: Scalene
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Scalene - Danse Macabre
+
+Mizona Dropada em C
+Afinação C A D G B E
+
+Intro: Cm  Ebm
+
+Cm
+Sou o começo e o fim
+Ebm
+O que há de bom e ruim
+Cm
+Um pedaço de ti
+Ebm
+Forçado a se reprimir
+Cm
+Sem nem mesmo poder
+
+Te ter sem me conter
+Cm
+Me limitar a um ser
+Ebm                    G
+Medíocre, com pudor
+
+
+E|------------------------------------------------------------|
+B|------------------------------------------------------------|
+G|------------------------------------------------------------|
+D|------------------------------------------------------------|
+A|------------------------------------------------------------|
+C|---3p0---12/5--- 3p0---12/5---3p0---12/5---3p6-6-6-3p0------|
+
+Cm
+És o pedaço de mim
+Ebm
+Verdadeiro e ruim
+Cm                Ebm
+Preso em um manequim
+               Cm
+Diga que vai cair
+(Suma, logo)
+              C# G#
+Me deixar em paz
+              Cm
+Diga que vai sumir
+(Caia, logo)
+             C# G#
+Se você for real
+Cm
+Sei, você não quer lutar
+E quer me avocar
+Cm
+Então me deixe assumir
+Ebm
+E prometo suprir
+Cm
+O vazio que consome
+Ebm
+O que resta de ti
+Cm
+A incerteza é forte
+G
+Cortante sem cessar
+               Cm
+Diga que vai cair
+(Suma, logo)
+              C# G#
+Me deixar em paz
+              Cm
+Diga que vai sumir
+(Caia, logo)
+             C# G#
+Se você for real
+
+( Cm C# )
+
+E|------------------------------------------------------------------|
+B|------------------------------------------------------------------|
+G|-5-5--------5-5---------6-6--6-6-6---5-5-------5--------------5~~-|
+D|-5-5--------5-5---------6-6--6-6-6---5-5-------5--------------5~~-|
+A|-3-3--------3-3---------4-4--4-4-4---3-3-------3--------------3~~-|
+C|-----6h7p6-------6h7p6-------------------6h7p6---0-0-0-0-0-0------|
+
+Riff do final da música:
+
+E|------------------------------------------------------------|
+B|------------------------------------------------------------|
+G|------------------------------------------------------------|
+D|------------------------------------------------------------|
+A|------------------------------------------------------------|
+C|---3p0---12/5--- 3p0---12/5---3p0---12/5---3p6-6-6-3p0------|
+
+Sou o começo e o fim
+Verdadeiro e ruim
+                     Cm
+O que você mais quer
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+Cm = X 3 5 5 4 3
+Ebm = X X 1 3 4 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

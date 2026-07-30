@@ -1,0 +1,10 @@
+@titulo: todas-as-janelas
+@autor:
+@intérprete: Jota Quest
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:

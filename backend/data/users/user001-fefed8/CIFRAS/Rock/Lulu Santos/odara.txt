@@ -1,0 +1,40 @@
+@titulo: odara
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - Odara
+
+Intro: Am7 G6
+
+F6             G              Am7         G6  (G7+/4)
+Deixa eu dançar pro meu corpo ficar odara.
+C6        G7             Am7       G6 (G7+/4)
+Minha cara minha cuca ficar odara.
+F6             G               D/F#
+Deixa eu cantar que é pro mundo ficar odara.
+F7+               Em7
+   Pra ficar tudo joia rara.
+A7                Dm           G
+Qualquer coisa que se sonhara.
+                  Am7
+Canto e danço que dara.
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+C6 = 8 X 7 9 8 X
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Em7 = 0 2 2 0 3 0
+F6 = 1 X 0 2 1 X
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G6 = 3 X 2 4 3 X
+G7 = 3 5 3 4 3 3

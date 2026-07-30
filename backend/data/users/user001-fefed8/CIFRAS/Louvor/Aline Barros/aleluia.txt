@@ -1,0 +1,74 @@
+@titulo: aleluia
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Aleluia
+
+Intro: C G F  (2x)
+       C G Am7 F G  (4x)
+
+  C           G    Am7            F
+  É o meu prazer estar, em Tua presença,
+  C         G    Am7          F
+  Eu vou me deleitar, meu coração te adora,
+  C        G       Am7              F
+  Eu quero te encontrar oh, meu Senhor,
+  C         G    Am7            F
+  Erguer a minha voz, eu vou cantando
+         C G Am7 F    C G Am7 F
+  Alel - uia,  Alel - uia,
+  C G Am7 F    C G Am7 F
+  Alel - uia,  Alel - uia,
+
+  C         G        Am7          F
+  Eu vou dançar pra Deus, somente para Deus
+  C       G      Am7         F
+  E levantar as mãos, e declarar vitória,
+  C         G      Am7       F
+  Pois o Senhor me deu autoridade
+
+  C            G    Am7           F
+  De entrar no santuário, dando glória
+
+         C G Am7 F     C G Am7 F
+E Alel - uia,  Alel - uia,
+        C G Am7 F    C G Am7 F
+Alel - uia,  Alel - uia,
+
+(solo violão 2x) C  F  G
+(solo guitarra 4x) C  F  G
+
+  Dm                   Bb
+  O poder, o louvor,
+               C
+  A glória e honra,
+  Am   C Dm C  G  Am    Bb  C
+  Ao nome do Senhor
+  Dm                     Bb
+  Que sofreu, que morreu
+            C
+  Nossa vergonha
+  Gm              C
+  Mas ele ressuscitou
+
+C G Am7 F G  C G Am7 F  G
+e Alel - uia,  Alel - uia,    (2x)
+C G Am7 F    C G Am7 F
+Alel - uia,  Alel - uia,
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

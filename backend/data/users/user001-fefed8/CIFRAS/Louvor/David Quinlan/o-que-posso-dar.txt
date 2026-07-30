@@ -1,0 +1,48 @@
+@titulo: o-que-posso-dar
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - O Que Posso Dar
+
+[INT] -> -> D9 E F#m/A E
+
+       D9            E  F#m/A       E
+Se preciso de um pastor,     tu me guias
+       D9         E  F#m/G       E
+Se preciso de um pai,     tu me adotas
+       D9       E   F#m/G   E     D9 E
+Se preciso de abrigo,    me cobres
+       F#m/G   E
+Eu só quero saber.
+ E        F#m     D9           A9
+O que posso dar ao Deus que tem tudo
+   E        F#m     D9          A9
+O que posso dar ao criador dos céus
+   E        F#m     D9           A9
+O que posso dar ao Deus que tem tudo
+   E        F#m  D9 A9
+Te dou meu coração.
+
+       D9         E  F#m/A       E
+Se preciso ser curado,     tu me curas
+
+       D9         E    F#m/G       E
+Se preciso de um salvador,  tu me salvas
+       D9         E   F#m/G    E    D9 E
+Se preciso de conforto,   me envolves
+       F#m/G   E
+Eu só quero saber.
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+F#m/A = X 0 4 2 2 2

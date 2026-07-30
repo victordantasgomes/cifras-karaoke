@@ -1,0 +1,38 @@
+@titulo: nao-temas(versão 2)
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - Não Temas
+
+C               G#              A#  D# Cm
+Lutar ou fugir, qual tem sido a sua    opção
+                    G#              A#
+Ganhar ou desistir, o que tem feito do teu coração
+G#         A#      Gm          G#          A#
+Problemas, o medo, algemas, te prendendo
+G#                    A#
+Não se esqueça da promessa
+       G/B         Cm
+Que um dia lhe foi feita
+
+F/A A#        Gm G#
+     Não temas,   estarei sempre contigo
+F/A A#        Gm G#
+    Não temas,     sempre estou contigo
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D# = X 6 5 3 4 3
+F/A = 5 X 3 5 6 X
+G# = 4 3 1 1 1 4
+G/B = X 2 0 0 3 3
+Gm = 3 5 5 3 3 3

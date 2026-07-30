@@ -1,0 +1,31 @@
+@titulo: mais-de-ti(simplificada)
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Mais de Ti
+
+   G            D/F      E
+   o que eu te darei senhor
+            C              G
+   o que eu oferecerei de mim
+                   D/F  E       C
+   tudo pertence a ti jesus,jesus...
+   G
+  menos de mim,mais de ti,
+  D/F
+  menos de mim,mais de ti,
+  E           C
+  mais de ti,jeusus
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D/F = X X 3 2 3 2
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3

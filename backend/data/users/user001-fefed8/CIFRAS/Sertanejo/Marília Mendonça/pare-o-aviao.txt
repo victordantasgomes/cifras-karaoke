@@ -1,0 +1,82 @@
+@titulo: pare-o-aviao
+@autor:
+@intérprete: Marília Mendonça
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Marília Mendonça - Pare o Avião
+
+G          (D/F#)
+Pare o avião!
+      Em7
+Meu grande amor está aí
+   C9             (G/B)
+E se eu ficar sem ele
+            Am7       D/F#
+Meu mundo acaba hoje aqui
+
+ G               D/F#
+Sete e meia já passou
+      Em7
+E o telefone tocou
+           C9           (G/B)
+Seu número eu tinha apagado
+       Am7           D/F#
+E uma voz me disse alô
+
+G               D/F#
+Desligou o telefone
+      Em7
+E um print eu recebi
+
+     C9 (G/B)    Am7           D/F#
+Voou 3067 e o destino é longe daqui
+
+Em
+Voando pro aeroporto
+             Am7
+Meu Deus que sufoco
+         A7
+Me desesperei
+
+C                     G/B
+Chorando no portão de embarque
+            Am7
+Eu já tava louca
+    (G)     D/F#
+Então eu gritei
+
+G         (D/F#)
+Pare o avião!
+            Em7
+Meu grande amor está aí
+    C9            (G/B)
+E se eu ficar sem ele
+           Am7        D/F#
+Meu mundo acaba hoje aqui
+
+G         (D/F#)
+Pare o avião!
+     Em7
+Seu comandante por favor
+        C9                D/F#
+O anjo da poltrona 7 na janela
+        G   C9   G
+É meu amor oooooh.
+
+----------------- Acordes -----------------
+Capotraste na 7ª casa
+A7*  = X 0 2 0 2 0 - (*E7 na forma de A7)
+Am7*  = X 0 2 0 1 0 - (*Em7 na forma de Am7)
+C*  = X 3 2 0 1 0 - (*G na forma de C)
+C9*  = X 3 5 5 3 3 - (*G9 na forma de C9)
+D/F#*  = 2 X 0 2 3 2 - (*A/C# na forma de D/F#)
+Em*  = 0 2 2 0 0 0 - (*Bm na forma de Em)
+Em7*  = 0 2 2 0 3 0 - (*Bm7 na forma de Em7)
+G*  = 3 2 0 0 0 3 - (*D na forma de G)
+G/B*  = X 2 0 0 3 3 - (*D/F# na forma de G/B)

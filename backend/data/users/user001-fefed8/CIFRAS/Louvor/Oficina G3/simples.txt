@@ -1,0 +1,108 @@
+@titulo: simples
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Oficina G3 - Simples
+
+Am        D
+  Já fui criança
+  C9          G C9
+  Hoje sou homem
+Am            D               F
+  Me lembro de como tudo era simples
+                   A - C - A - G notas simples c/ distorção.
+  Eu via assim
+
+********  Guitar c/ distorção  **********
+
+Am        D5
+  Já fui criança
+  C5          G5 C5
+  Hoje sou homem
+Am            D5               Eb5 / F5  Eb5 / F5 (/ = slide pra frente)
+  Me lembro de como tudo era simples
+
+                  A - C - A - G notas simples c/ distorção.
+  Eu via assim
+
+Am        D5
+  Tive que crescer
+  C5          G5 C5
+  Endureci meu coração
+Am          D5            F5
+  O mundo disse que era assim
+
+
+G5          Bb5            C5 D5 C5 ( = slide pra trás)
+  Como posso conquistar o céu
+  Se nem sei viver aqui
+G5          Bb5            C5 D5 C5
+  Eu só posso conquistar o céu
+  Se for como criança aqui
+
+Interlúdio:
+  A5 -  D5  -  C5  -  (G5 G5) C5
+  A5 -  D5  - -> C D  - D C  - C D  <- (a=agudo - g=grave)
+
+Am            D5
+  Hoje sinto falta
+      C5            G5 C5
+  De viver como vivia
+Am            D5               Eb5 / F5  Eb5 / F5 (A C A G notas simples)
+  Onde não havia problema sem solução
+
+Am           D5
+  Hoje sinto falta
+       C5               G5 C5
+  De enxergar como criança
+Am            D5           F5
+  Amar intensamente quem sempre cuidou de mim
+
+
+Como posso conquistar...
+
+Solo 1: Piano e baixo
+        Am - D - C9 - G9 - Am - D - F -
+
+Solo 2: Guitarra
+        G5 - Bb5 - C5 D5 C5 -> 4x
+
+Como posso conquistar...
+
+G5         Bb5      C5 
+  Na-narun-Na-narun-Na-narun-na-narun-naum 
+
+G5         Bb5      C5 
+  Na-narun-Na-narun-Na-narun-naran-naum 
+
+G5         Bb5      C5 
+  Na-narun-Na-narun-Na-narun-na-narun-naum 
+
+G5         Bb5      C5 
+  Na-narun-Na-narun-Naum 
+
+Acordes usado neste música:
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+Am = X 0 2 2 1 0
+Bb5 = X 1 3 3 X X
+C = X 3 2 0 1 0
+C5 = X 3 5 5 X X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+Eb5 = X 6 8 8 X X
+F = 1 3 3 2 1 1
+F5 = 1 3 3 X X X
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X
+G9 = 3 X 0 2 0 X

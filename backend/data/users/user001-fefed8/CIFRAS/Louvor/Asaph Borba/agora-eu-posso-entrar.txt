@@ -1,0 +1,96 @@
+@titulo: agora-eu-posso-entrar
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Agora Eu Posso Entrar
+
+Intro 2x: D  G/B  A/C#  Bm7  Em7  A7(9)
+
+                  D   A/B   D       Em7   D7(9)  D7(9b)
+Agora eu posso entrar   em tua presença
+        Em7 G/A A/G          D   G/D  D
+E te adorar        em tua presença
+           G/B Am7 C/D      D       G7M  Gm6/Bb
+Através de Jesus,    novo e vivo caminho
+              D/A A/B Em7     G/A    D
+Para os teus átrios,     meu amado Pai.
+
+( E  A/C#  B/D#  E  F#m7  A/B )
+
+                   E  B/C# C#m       F#m7 G#°
+Não há mais separação      da tua presença
+       C#7      F#m7 A/B   E       E  A/E E
+Tenho plena comunhão, em tua presença
+          A/C# Bm7 D/E       E      A7M  Am6/C
+Através de Jesus,     novo e vivo caminho
+             E/B C#m F#m7    A/B    E
+Para os teus átrios,    meu amado Pai
+
+            G#7(4) Cº             C#m7         A
+Este é o lugar      onde irei habitar (Vou habitar...)
+F#m7     E C#m D#° G#7     C#m7(9) D/E E
+Com alegria,      cheio de paz
+         A7M(9)      A#°        E/B  C#m7(9)
+Onde as lágrimas e a dor terminarão
+        F#m7   A/B        C#m
+E para sempre     vou te adorar
+     C#m/B           A7M(9)  B
+E para sempre vou te adorar
+
+Solo: C#m7(9) B A7M(9) B
+
+Volta a “Este é o lugar..."
+
+Final:
+         C#m7(9) G#m7        A7M(9)  B          C#m7(9)
+Vou te adorar,       Vou te adorar,    Vou te adorar.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#° = X 1 2 0 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A/G = 3 X 2 2 2 X
+A7(9) = 5 X 5 4 2 X
+A7M = X 0 2 1 2 0
+A7M(9) = X 0 2 1 0 0
+Am6/C = X 3 4 2 5 2
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+B/C# = X 6 X 4 7 7
+B/D# = X 6 X 4 7 7
+Bm7 = X 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+C#m/B = 7 X 6 6 5 X
+C#m7 = X 4 6 4 5 4
+C#m7(9) = X 4 2 4 4 X
+C/D = X X 0 0 1 0
+Cº = X 3 4 2 4 2
+D = X X 0 2 3 2
+D#° = X X 1 2 1 2
+D/A = X 0 X 2 3 2
+D/E = X X 2 2 3 2
+D7(9) = X 5 4 5 5 X
+D7(9b) = X 5 4 5 4 X
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+G#7 = 4 6 4 5 4 4
+G#7(4) = 4 6 4 6 4 X
+G#m7 = 4 X 4 4 4 X
+G#° = 4 X 3 4 3 X
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G7M = 3 X 4 4 3 X
+Gm6/Bb = X 1 2 0 3 0

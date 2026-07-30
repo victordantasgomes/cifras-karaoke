@@ -1,0 +1,101 @@
+@titulo: antonimos
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Jorge e Mateus - Antônimos
+
+Capo Casa 4
+
+Intro:
+         G               G4  G
+E|-------------------------------------------------------|
+B|---10-12----12-12-10-12-10--12/13-12h13p12-------------|
+G|-12---12----12-12-12-12-12----------------14-12--------|
+D|------12-12-12-12-12-12-12----------------------10-----|
+A|------10-----------------------------------------------|
+E|-------------------------------------------------------|
+
+Primeira Parte:
+ C                          G
+ Eu só queria ter o seu abraço
+                       Bm
+ Pra ver se eu disfarço
+                   Em
+ Essa falta de você
+
+           C
+ Poder tocar
+                            G
+ Sentir o gosto do seu lábio
+
+                   Bm
+ Entrar no compasso
+                      C
+ e seu o coração bater
+                 Cm
+ Olhar nos teus olhos e dizer
+
+ Refrão:
+            G
+ Sem você não importa se é doce ou salgado
+                                               D
+ Se tá quente ou gelado, se faz sol ou vai chover
+                                                                           Am
+ Eu achei que tava certo, fui errado, era leve tá pesado ficar longe de você
+                                          C
+ No escuro ficar claro, o sozinho acompanhado
+                                           G
+ É só a gente ficar junto e não separado
+                                D
+ Eu só existo se for do seu lado
+
+Primeira Parte:
+ C                          G
+ Eu só queria ter o seu abraço
+                       Bm
+ Pra ver se eu disfarço
+                   Em
+ Essa falta de você
+
+           C
+ Poder tocar
+                            G
+ Sentir o gosto do seu lábio
+                   Bm
+ Entrar no compasso
+                      C
+ e seu o coração bater
+                 Cm
+ Olhar nos teus olhos e dizer
+
+ Refrão 2x:
+            G
+ Sem você não importa se é doce ou salgado
+                                               D
+ Se tá quente ou gelado, se faz sol ou vai chover
+                                                                           Am
+ Eu achei que tava certo, fui errado, era leve tá pesado ficar longe de você
+                                          C
+ No escuro ficar claro, o sozinho acompanhado
+                                           G
+ É só a gente ficar junto e não separado
+                                D
+ Eu só existo se for do seu lado
+
+----------------- Acordes -----------------
+Capotraste na 4ª casa
+Am*  = X 0 2 2 1 0 - (*C#m na forma de Am)
+Bm*  = X 2 4 4 3 2 - (*D#m na forma de Bm)
+C*  = X 3 2 0 1 0 - (*E na forma de C)
+Cm*  = X 3 5 5 4 3 - (*Em na forma de Cm)
+D*  = X X 0 2 3 2 - (*F# na forma de D)
+Em*  = 0 2 2 0 0 0 - (*G#m na forma de Em)
+G*  = 3 2 0 0 0 3 - (*B na forma de G)
+G4*  = 3 5 5 5 3 3 - (*B4 na forma de G4)

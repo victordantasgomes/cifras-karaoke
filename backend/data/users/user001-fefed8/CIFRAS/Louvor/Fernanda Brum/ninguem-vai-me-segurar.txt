@@ -1,0 +1,78 @@
+@titulo: ninguem-vai-me-segurar
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Ninguém Vai Me Segurar
+
+Intro 2x: D/F#  C#7  F#m9
+          Bm  C#m  F#m
+
+Bm7     C#m7        F#m7
+ Você falou me prometeu
+                    Bm7
+ Eu acredito em tudo
+          C#m7        F#m7
+ Me convenceu que Tua mão
+
+ É tudo que eu preciso
+Bm7    C#m7    F#m7               Bm7
+ Meu maior desafio é vencer o medo
+      C#m7           F#m7
+ Atravessar a corda bamba
+
+ Dos meus pensamentos
+
+  D7+  C#4    C# D7+                    Bm
+ Acreditar  nem sempre é tão fácil confiar
+       D7+    C#4 C#
+ Mas decidi lutar
+
+       D7+                  Bm
+ Pela palavra eu posso declarar
+
+             D7+
+ Eu sou Teu filho  eu sou herdeiro
+         C#4          C#
+ Eu sou guerreiro  eu sou
+  D7+                       Bm
+ Pela palavra eu posso declarar
+             D7+
+ Eu sou Teu filho  eu sou herdeiro
+         C#4          C#
+ Eu sou guerreiro  eu sou
+  D7+                       E4
+ Pela palavra eu posso declarar
+
+A    E        F#m
+ Eu sei quem sou
+          D          A
+ Ninguém vai me segurar
+     E      F#m
+ Eu sou de Deus
+        D           A
+ Vou tomar o meu lugar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C# = X 4 6 6 6 4
+C#4 = X 4 4 1 2 X
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7+ = X X 0 2 2 2
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F#m9 = 2 4 6 2 2 2

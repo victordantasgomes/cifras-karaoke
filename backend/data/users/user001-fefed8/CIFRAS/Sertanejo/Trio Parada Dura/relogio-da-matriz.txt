@@ -1,0 +1,64 @@
+@titulo: relogio-da-matriz
+@autor:
+@intérprete: Trio Parada Dura
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trio Parada Dura - Relógio da Matriz
+
+(intro) G D7 G A7 D A G D A7 D
+
+D               A7                D
+O relógio na matriz lá do meu bairro
+       G             D            A7
+As badaladas estão me deixando louco
+                                   D
+Eu me recordo de uma triste despedida
+            E7            A7             D
+Por isso mesmo estou morrendo pouco a pouco
+
+(refrão)
+A7
+Ô Relógio...
+              G          A7            D
+Por que não para pelos menos um instante
+                    D7            G
+Não dá sossego ao meu pobre coração
+               D         A7                 D  D7 G A7 D
+Que está morrendo por alguém que está distante
+
+
+D                  A7              D
+Todos os dias quando chega à tardinha
+         G             D         A7
+Que o relógio bate às dezoito horas
+                              D
+Meu coração acompanha as batidas
+            E7              A7           D
+Desde o momento em que o meu bem foi embora
+
+(refrão)
+
+D                 A7                 D
+É um martírio gostar de quem ama outro
+          G           D              A7
+Meu sofrimento um dia tem que ter um fim
+                             D
+A esperança é a última que morre
+        E7        A7           D
+Talvez um dia ela volte para mim
+
+(refrão)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+E7 = 0 2 2 1 3 0
+G = 3 2 0 0 0 3

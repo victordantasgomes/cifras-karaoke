@@ -1,0 +1,100 @@
+@titulo: principe-da-paz(simplificada)
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Príncipe da Paz
+
+Intro: G    D     F     C      G      D     D#      D/G  D
+
+     G              C/G      G
+Tu és o Príncipe da paz
+                                         D
+Tu és o desejado das nações
+           Am         B/G     C
+Só Tu tens palavras de vida
+         Am                             D/G      D
+Esperança para os nossos corações
+
+     G                C/G        G
+Tu és socorro bem presente
+   B/G            Em            Am
+Tu és auxílio nas tribulações
+           F                             Em
+Só Tu tens o bálsamo de cura
+         D#                             D/G      D
+O remédio para os nossos corações
+
+G                C/G  G
+Príncipe da pa - az
+
+                      C
+Reina sobre nós
+Am   Em    C     Em
+Rei - na,    rei - na
+             D/G     D     D/G    D
+Toma o Teu lugar
+
+Intro: G    D     F     C      G      D     D#      D/G  D
+                     Volta para 2ª estrofe
+
+                Am
+Que se estenda o Teu governo
+ B/G           C
+Que se aumente o Teu domínio
+D                Em    Am     D
+Que venha paz   sem    fim
+           Am     C
+Vem Jesus, vem
+           Am     C
+Vem Jesus, vem
+            D#     D                          C          (PARA SUBIR 1 TOM)   Bm   D   E   A
+Vem Jesu  -  us, o príncipe da paz                           Volta Refrão
+
+
+A                D/A  A
+Príncipe da pa - az
+                      D
+Reina sobre nós
+Bm   F#m   D     F#m
+Rei - na,    rei - na
+             E/A     E     E/A    D
+Toma o Teu lugar
+
+                Bm
+Que se estenda o Teu governo
+ C#/A           D
+Que se aumente o Teu domínio
+E                F#m    Bm     E
+Que venha paz   sem    fim
+           Bm     D
+Vem Jesus, vem
+           Bm     D
+Vem Jesus, vem
+              F     E                           D                      Fim:  A
+Vem Jesu  -  us, o príncipe da paz
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B/G = 3 X 4 4 4 X
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#/A = X 0 X 1 2 1
+C/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D/A = X 0 X 2 3 2
+D/G = 3 X X 2 3 2
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

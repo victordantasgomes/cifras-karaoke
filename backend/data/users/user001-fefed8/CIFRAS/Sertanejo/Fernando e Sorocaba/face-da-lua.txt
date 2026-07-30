@@ -1,0 +1,85 @@
+@titulo: face-da-lua
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - Face da Lua
+
+Intro: Bm D F#m E  Bm D F#m E
+
+Riff:
+Intro:
+E|--------------------------------|
+B|--------------------------------|
+G|--------------------------------|
+D|--------------------------------|2x
+A|--2--2-4-5--5-4-0--7------------|
+E|--------------------------------|
+
+[parte I]
+
+Bm
+Tava tudo mais ou menos combinado
+   D
+Faltava pouco eu só não tinha falado
+F#m                                      E
+É que eu tava ensaiando o que eu ia dizer
+
+[parte II]
+
+
+Bm
+Sabe quando o nosso olhar se fixa em alguém
+  D
+e a gente percebe que tá sendo olhado também
+F#m                                E
+Ainda não é amor, mas pode um dia ser
+
+[pré refrão]
+
+D                                                      Bm             E
+Deus me livre se ela for embora agora eu acho que não acho ela nunca mais
+D                                         E
+Fico a mercê do acaso, mas em todo caso, eu vou te procurar
+
+[refrão]
+
+                         Bm      G
+E se eu não encontrar eu vooo...ooou
+                   D              A
+Pintar o rosto dela na face da lua
+A                    Bm         G
+Vou divulgar o meu amoo.........or
+                   D                     A
+Eu pago recompensa por qualquer notícia sua [2x]
+     (solo 1)    Bm
+eu vou onde você for
+
+(solo 1)
+B|-----------10-8-9/11-------------------|
+G|-10-8-9/11-----------------------8-6-7-|
+D|---------------------8h10p8-9/11-------|
+
+(Bm D A E )(2x)
+
+[repete parte II]
+
+[repete pré refrão]
+
+[repete refrão 4x]
+                    Bm
+eu vou aonde você for...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

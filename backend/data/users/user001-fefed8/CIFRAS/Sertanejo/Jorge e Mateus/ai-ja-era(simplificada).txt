@@ -1,0 +1,84 @@
+@titulo: ai-ja-era(simplificada)
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Aí Já Era
+
+Intro: C D Am7 C D Em (2x) C
+
+Primeira Parte:
+ G                      C9
+Para pra pensar, porque eu já me toquei
+G                       C9
+Eu te escolhi e você me escolheu, eu sei
+ G                     C9
+Tá escancarado, vai negar pro coração?
+        G         D           C9
+E você tá com sintomas de paixão!
+
+            Em                     D
+É quando os olhos se caçam em meio à multidão
+          C9                           D
+Quando a gente se esbarra andando em qualquer direção
+       G                        D                                 C9
+Quando indiscretamente a gente vai perdendo o chão e vai ficando bobo
+            C9       D
+Vai ficando bobo
+
+
+Refrão:
+        G           D          C9
+E aí já era é hora de se entregar
+              G                D        C9
+O amor não espera, só deixa o tempo passar
+                Bm       B7        Em
+E fica pro coração a missão de avisar
+                    C9          D         G
+E o meu tá dando sinal e tá querendo te amar!
+
+        G           D          C9
+E aí já era é hora de se entregar
+    D         G                D        C9
+O amor não espera, só deixa o tempo passar
+         D      Bm       B7        Em
+E fica pro coração a missão de avisar
+            D       C9          D         G
+E o meu tá dando sinal e tá querendo te amar!
+
+(repete tudo)
+
+Refrão 2x:
+        G           D          C9
+E aí já era é hora de se entregar
+              G                D        C9
+O amor não espera, só deixa o tempo passar
+                Bm       B7        Em
+E fica pro coração a missão de avisar
+                    C9          D         G
+E o meu tá dando sinal e tá querendo te amar!
+
+            D       C9          D         Am Em
+E o meu tá dando sinal e tá querendo te amar!
+            D       C9          D
+E o meu tá dando sinal e tá querendo te amar!
+
+Intro: ( C D Am7 C D Em )(2x)
+       ( C G )
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C9 = X 3 2 0 3 3
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 3 3

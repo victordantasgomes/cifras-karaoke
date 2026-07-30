@@ -1,0 +1,48 @@
+@titulo: de-amanha-eu-nao-passo
+@autor:
+@intérprete: Zé Neto e Cristiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zé Neto e Cristiano - De Amanhã Eu Não Passo
+
+Intro: F#m D A E
+
+        F#m                             D
+Já me avisaram que hoje eu não posso beber
+                         A                       E
+Dizem que ontem eu aprontei, mas não lembro de nada não
+         F#m                          D
+Disseram que eu fiz de tudo, que abracei todo mundo,
+       A                 E
+Bebi todas e até cai no chão.
+         Bm                    F#m
+Subi no palco e dancei com a banda
+        Bm                   F#m
+Os seguranças já queriam me tirar
+        D                                     C#
+Bebi demais, só lembro de acordar na minha cama a a
+
+                      F#m            D
+Tira o copo da minha mão senão eu regaço,
+                A                     E
+Se eu encher a cara de amanhã eu não passo.
+
+
+                     F#m            D
+Tira o copo da minha mão senão eu regaço,
+                A                     E
+Se eu encher a cara de amanhã eu não passo.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

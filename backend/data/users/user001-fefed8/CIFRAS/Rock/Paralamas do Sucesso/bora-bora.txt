@@ -1,0 +1,73 @@
+@titulo: bora-bora
+@autor:
+@intérprete: Paralamas do Sucesso
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Os Paralamas do Sucesso - Bora Bora
+
+( Herbert Vianna )
+
+[Intro:] B B/D# B/F# B/A B
+         E D/E E D/E
+         E A C#m B7 E D/E
+         E D/E E D/E
+
+       E       D      C
+Te imagino com outro cara
+ B     A       G   F#m    E  D/E
+Numa praia em Bora-Bora agora
+       E
+Me imagino embriagado
+           D/E                   E    D/E
+Jogado no chão de uma espelunca nunca!
+
+        E
+Já não penso em nada disso
+             D/E                 E D/E
+O ciúme é um laço, um artifício meu
+           E
+Eu já não sou mais tão menino
+
+          D/E                        E D/E
+Pra me pintar da cor do teu destino teu
+
+      C#m
+Te imagino com outro cara
+      B/C#               C#m B/C#
+Numa praia em Bora-Bora agora
+      C#m
+Me imagino embriagado
+           B/C#                 C#m   B/C#
+Jogado no chão de uma espelunca nunca!
+
+
+Acordes:
+
+E    022100     G#m/C#  x46444
+B7   x21201     G       355433
+D/E  xx2232     C       x32010
+A    x02220     D       xx0232
+C#m  x46654
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+B/C# = X 6 X 4 7 7
+B/D# = X 6 X 4 7 7
+B/F# = X X 4 4 4 2
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m/C# = X 4 6 4 4 4

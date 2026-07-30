@@ -1,0 +1,113 @@
+@titulo: manifesto
+@autor:
+@intérprete: Fresno
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fresno - Manifesto
+
+Intro: G#m7  G#m7(9) B9  F#   C# (2x)
+
+          G#m7                      G#m7(9)
+A gente acorda pra vida e não quer sair da cama
+        B9
+A gente abre a ferida na pele de quem nos ama
+         F#
+A gente vive na guerra, a gente luta por paz
+         C#
+A gente pensa que sabe, mas nunca sabe o que faz
+         G#m7                      G#m7(9)
+A gente nega o que nunca teve forças pra dizer
+         B9
+A gente mostra pro mundo o que se quer esconder
+         F#
+A gente finge que vive até o dia de morrer
+            C#                                  B  C#11/B B9
+E espera a hora da morte pra se arrepender de tudo
+
+        G#m7                   G#m7(9)
+E todas essas pessoas que passaram por mim
+           B9
+Alguns querendo dinheiro, outros querendo o meu fim
+          F#
+Os meus amores de infância e os inimigos mortais
+       C#
+Todas as micaretas, todos os funerais
+      G#m7                G#m7(9)
+Todos os ditadores e sub-celebridades
+    B9
+Farsantes reais encobertando verdades
+          F#
+Pra proteger um vazio, um castelo de papel
+             C#                        C#4             B9
+Sempre esquecendo que o mundo é só um ponto azul no céu
+
+     D#m                B9
+Quem é que vai ouvir a minha oração?
+    F#                  C#
+E quantos vão morrer até o final dessa canção?
+   D#m                        B9
+E quem vai prosseguir com a minha procissão
+     F#                   C#                       G#m7  G#m7(9) B9  F#   C#
+Sem nunca desistir, nem sucumbir a toda essa pressão?
+
+   G#m7
+No escuro, a sós com a minha voz... por nós, quem? Quem? Quem?
+B9
+Antes, durante e após, desatando os nós, hein? Hein? Hein?
+F#
+Sente no corpo uma prisão, correntes, vendas na visão
+     C#
+Os caras não avisam, balas não alisam, minas e manos brisam
+    G#m7           G#m7(9)
+E precisam de mais,  mais visão, ter paz
+    B9
+Mas note que o holofote e o vício nele em si te desfaz
+ F#
+Menos é mais, e o que segue é a lombra
+   C#
+Onde se vacilar os verme leva até sua sombra
+
+( B )
+Cada qual com seu caos
+O inferno particular
+Tempo, individual
+E o amor, impopular
+
+     D#m                B9
+Quem é que vai ouvir a minha oração?
+    F#                  C#
+E quantos vão morrer até o final dessa canção?
+   D#m                        B9
+E quem vai prosseguir com a minha procissão
+     F#                   C#                       G#m7  G#m7(9) B9  F#   C#
+Sem nunca desistir, nem sucumbir a toda essa pressão?
+
+
+( G#m7  G#m7(9) B9  F#   C#  G#m7  G#m7(9) B9  F#   C# )
+
+(Só existe uma maneira de se viver pra sempre, irmão
+Que é compartilhando a sabedoria adquirida
+E exercitando a gratidão, sempre
+É o homem entender que ele é parte do todo
+É sobre isso que o Manifesto fala
+Nem ser menos e nem ser mais, ser parte da natureza, certo?
+Ao caminhar na contramão disso
+G# gente caminha pra nossa própria destruição)
+
+----------------- Acordes -----------------
+G#*  = 4 3 1 1 1 4 - (*G na forma de G#)
+G#m7*  = 4 X 4 4 4 X - (*Gm7 na forma de G#m7)
+G#m7(9)*  = X X 6 4 7 6 - (*Gm7(9) na forma de G#m7(9))
+B*  = X 2 4 4 4 2 - (*A# na forma de B)
+B9*  = X 2 4 4 2 2 - (*A#9 na forma de B9)
+C#*  = X 4 6 6 6 4 - (*C na forma de C#)
+C#11/B*  = 7 X X 6 7 9 - (*C11/A# na forma de C#11/B)
+C#4*  = X 4 4 1 2 X - (*C4 na forma de C#4)
+D#m*  = X X 1 3 4 2 - (*Dm na forma de D#m)
+F#*  = 2 4 4 3 2 2 - (*F na forma de F#)

@@ -1,0 +1,168 @@
+@titulo: jeito-de-mato
+@autor:
+@intérprete: Paula Fernandes
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Paula Fernandes - Jeito de Mato
+
+Capo Casa 2
+
+[Intro] G  Em7  C9  Am7
+        G  Em7  C9  Am7  D4
+
+(Padrão dedilhado)
+
+    G
+E|-3-----5-----5-----5--------------------------------|
+B|-----0-----0-----0-----0----------------------------|
+G|---0-----0-----0-----0------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|-3--------------------------------------------------|
+
+(Variação padrão dedilhado)
+
+    Am7         D4
+E|-3-----3-----3-----3--------------------------------|
+B|-----1-----1-----3-----3----------------------------|
+G|---2-----2-----2-----2------------------------------|
+D|-------------0--------------------------------------|
+A|-0--------------------------------------------------|
+E|----------------------------------------------------|
+
+
+[Solo Intro]
+
+  (1ª parte)            (2ª parte)
+E|-5-5-4p2-------------|-2----------------------------|
+B|---------5-3p2-5-5/7-|---5-3p2---2-3h5-3------------|
+G|---------------------|---------4--------------------|
+D|---------------------|------------------------------|
+A|---------------------|------------------------------|
+E|---------------------|------------------------------|
+
+  (3ª parte)            (4ª parte)
+E|-2-------------------|-2----------------------------|
+B|---5-3p2---2-3p2-----|-----3---3-3p2-2--------------|
+G|---------4-------4---|---4---4----------------------|
+D|---------------------|------------------------------|
+A|---------------------|------------------------------|
+E|---------------------|------------------------------|
+
+[Primeira Parte]
+
+ G                       Em7
+De onde é quem vem esses olhos tão tristes?
+ G                  Em7
+Vem da campina onde o sol se deita
+      C                 Em/B
+Do regalo de terra que teu dorso ajeita
+   Am7                C
+E dorme serena, no sereno e sonha
+
+ G                        Em7
+De onde é que salta essa voz tão risonha?
+     G                  Em7
+Da chuva que teima, mas o céu rejeita
+    C                 Em/B
+No mato, do medo, da perda tristonha
+       Am7              C
+Mas, que o sol resgata, arde deleita
+
+[Segunda Parte]
+
+           G                            D4/F#
+Há uma estrada de pedra que passa na fazenda
+                      Em7
+É teu destino, é tua senda
+                        C
+De onde nascem tuas canções
+          G                                D4/F#
+As tempestades do tempo que marcam tua história
+                      Em7
+Fogo que queima na memória
+                 C
+E acende os corações
+
+[Terceira Parte]
+
+ Am7                                C
+Sim, dos teus pés na terra nascem flores
+                           Em7
+A tua voz macia aplaca as dores
+                           D4/F#
+E espalha cores vivas pelo ar
+
+ Am7                          C
+Sim, dos teus olhos saem cachoeiras
+                          Em7
+Sete Lagoas, mel e brincadeiras
+                          D4    Am7  C
+Espumas, ondas, águas do teu mar
+
+( G  Em7  C9  Am7 )
+( G  Em7  C9  Am7  D4 )
+
+[Segunda Parte]
+
+           G                            D4/F#
+Há uma estrada de pedra que passa na fazenda
+                      Em7
+É teu destino, é tua senda
+                        C
+De onde nascem tuas canções
+          G                                D4/F#
+As tempestades do tempo que marcam tua história
+                      Em7
+Fogo que queima na memória
+                 C
+E acende os corações
+
+[Terceira Parte]
+
+ Am7                                C
+Sim, dos teus pés na terra nascem flores
+                           Em7
+A tua voz macia aplaca as dores
+                           D4/F#
+E espalha cores vivas pelo ar
+
+ Am7                          C
+Sim, dos teus olhos saem cachoeiras
+                          Em7
+Sete Lagoas, mel e brincadeiras
+                          D4    Am7  C
+Espumas, ondas, águas do teu mar
+
+[Primeira Parte - Almir Sater]
+
+ G                       Em7
+De onde é quem vem esses olhos tão tristes?
+ C                  Am7
+Vem da campina onde o sol se deita
+ G                        Em7
+De onde é que salta essa voz tão risonha
+ C                Am7   D4
+Dorme serena, no sereno e sonha
+
+ G                       Em7               C
+De onde é quem vem esses olhos tão tristes
+ Am7                G
+Dorme serena e sonha
+
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+Am7*  = X 0 2 0 1 3 - (*Bm7 na forma de Am7)
+C*  = X 3 2 0 1 3 - (*D na forma de C)
+C9*  = X 3 0 0 3 3 - (*D9 na forma de C9)
+D4*  = X X 0 2 3 3 - (*E4 na forma de D4)
+D4/F#*  = 2 X X 2 3 3 - (*E4/G# na forma de D4/F#)
+Em/B*  = X 2 0 0 0 3 - (*F#m/C# na forma de Em/B)
+Em7*  = 0 2 0 0 3 3 - (*F#m7 na forma de Em7)
+G*  = 3 2 0 0 3 3 - (*A na forma de G)

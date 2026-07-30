@@ -1,0 +1,88 @@
+@titulo: olhos-certos
+@autor:
+@intérprete: Detonautas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Detonautas - Olhos Certos
+
+Intro:  C#m  A7M  C#m  A7M  C#m  A7M
+
+ C#m            A7M
+Tento te encontrar
+ C#m         F#7(11)
+tanto pra dizer
+ C#m     A7M      C#m   A7M
+Meu amor, tudo bem
+
+ C#m          A7M
+Sorte de nós dois
+       C#m         F#7(11)
+Quero te fazer feliz
+ C#m     A7M           C#m   A7M
+Meu amor,   sempre quis
+
+Refrão:
+
+C#m                        A7M
+Seus olhos certos mas não sei o que dizer
+F#7(11)            A7M
+Eu não vou mas o tempo vem
+
+C#m                     A7M
+Ta tudo certo mais não sei o que dizer
+F#7(11)            A7M                (C#m  A7M)
+Eu não vou mas o tempo vem aqui.
+
+ C#m            A7M
+Tento te encontrar
+ C#m         F#7(11)
+tanto pra dizer
+ C#m     A7M      C#m   A7M
+Meu amor,    tudo bem
+
+ C#m          A7M
+Mesmo sem te ver
+ C#m           F#7(11)
+Não chegou ao fim
+ C#m     A7M         C#m    A7M
+Seu amor,   tudo em mim.
+
+E         B4  C#m         A5(9)
+  Se não for mais do que tento ser
+E         B4    A5(9)
+  Se não for mais
+
+E         B4  C#m         A5(9)
+  Se não for mais do que tento ser
+E         B4    A5(9)
+  Se não for
+
+C#m    B4    A5(9)
+La ra ra ra La ra ra
+C#m    B4    A5(9)
+Yeah  yeeeeeahh     (2x)
+
+Refrão:
+
+C#m                        A7M
+Seus olhos certos mas não sei o que dizer
+F#7(11)            A7M
+Eu não vou mas o tempo vem
+C#m                     A7M
+Ta tudo certo mais não sei o que dizer
+F#7(11)            A7M                (C#m  A7M)
+Eu não vou mas o tempo vem aqui.
+
+----------------- Acordes -----------------
+A5(9) = X 0 2 2 0 0
+A7M = X 0 2 1 2 0
+B4 = X 2 4 4 5 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#7(11) = 2 4 2 4 2 X

@@ -1,0 +1,68 @@
+@titulo: andando-com-deus
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Andando Com Deus
+
+INT -> G  G/B  C/E  D
+
+G   D/F#       C/E D   G G/B      C   B/D#
+EU TE     CONHECIA      DE OUVIR FALAR
+      Em  Cm        G/D      Em   Am           C/D
+MAS HOJE  EU TE CONHEÇO OH! DEUS DE CONTIGO ANDAR
+G   D/F#       C/E D   G G/B      C   B/D#
+EU TE     CONHECIA      DE OUVIR FALAR
+      Em  Cm        G/D      Em   Am  C/D       G4 G
+MAS HOJE  EU TE CONHEÇO OH! DEUS DE  CONTIGO ANDAR
+
+  Cm               Cm/A#         G#7               Cm  Gm
+QUEM JÁ PROVOU A GRANDE FESTA E VIU O INIMIGO AO CHÃO
+  Cm                Cm/A#                  G#7              Cm
+QUEM INVOCOU AO SENHOR   GRANDE DEUS E COM ELE MURALHAS SALTOU
+  G#7           Gm  Cm                  Gm G#7       A#7         C
+QUEM ALEGROU-SE EM VER GRANDES COISAS QUE DEUS O SENHOR FEZ POR NÓS
+  G#7        Gm   Cm               Gm G#7     A#7        C   D
+QUEM RECEBEU A UNÇÃO DA CONQUISTA JAMAIS PODERÁ     SE CALAR
+
+  G        D/F#     C/E    D/F#    G    D/F#   C/E D/F#
+EXISTE UM DEUS  ELE É    REAL    MARAVILHOSO,  EMANUEL
+
+ Em     Bm7   C        C#º      Am    C/D      G4  G
+DEUS CONOSCO SEMPRE ESTÁ   EXALTAMOS-TE    OH! REI
+
+  Cm                Cm/A#             G#7              Cm  Gm
+QUEM JÁ CLAMOU ABA PAI  E NA MESA DE DEUS TEVE A PROVISÃO
+  Cm                Cm/A#             G#7             Cm
+QUEM JÁ SENTIU O MOVER E O FOGO DO ESPÍRITO SANTO DE DEUS
+  G#7            Gm   Cm              Gm  G#7     A#7      C
+QUEM CONFESSOU QUE JESUS É  O MESSIAS O CRISTO O FILHO DE DEUS
+  G#7          Gm    Cm          Gm   G#7      A#7      C        D
+QUEM DECLAROU SER O POVO DE DEUS    JAMAIS PODERÁ  SE CALAR,SE CALAR
+
+----------------- Acordes -----------------
+A#7 = X 1 3 1 3 1
+Am = X 0 2 2 1 0
+B/D# = X 6 X 4 7 7
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#º = X 4 5 3 5 3
+C/D = X X 0 0 1 0
+C/E = 0 3 2 0 1 0
+Cm = X 3 5 5 4 3
+Cm/A# = X 1 1 0 1 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G#7 = 4 6 4 5 4 4
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G4 = 3 5 5 5 3 3
+Gm = 3 5 5 3 3 3

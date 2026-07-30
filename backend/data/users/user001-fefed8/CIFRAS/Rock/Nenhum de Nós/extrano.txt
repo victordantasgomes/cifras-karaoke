@@ -1,0 +1,62 @@
+@titulo: extrano
+@autor:
+@intérprete: Nenhum de Nós
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nenhum de Nós - Extraño
+
+Intro: G C D
+
+         G                                C
+O que eu sinto a respeito dos homens é extranho
+      G             D        Em                 C
+É extranho como é frio é extranho como perdi a fé
+      G               D                 C Bm Am 2XC Bm Am G
+É extranho como é extranho perguntar o nome
+          G                            C
+O que eu sinto a respeito de nós é extranho
+      G             D          Em                    C
+É extranho como é triste é extranho como olhar pra trás
+      G               D                C Bm Am 2XC G F Em Am
+É estranho como é extranho esquecer o nome
+F             G           C                     F
+Eu amei e acho que algumas vezes ela também me amou
+           G           Am
+Só que o prazer é tão curto
+                G           Am
+(só que esquecimento é tão longo)na segunda passagem
+
+
+G C D
+
+       G                                C
+O que penso a respeito de tudo é tão estranho
+      G            D            Em                C
+É estranho como é simples é estranho como essa canção
+      G               D                 C Bm Am 2XC G F Em Am
+É estranho como é estranho sussurar o nome
+
+
+Repete refrao.
+
+F             G           C                     F
+Eu amei e acho que algumas vezes ela também me amou
+           G           Am
+Só que o prazer é tão curto
+                G           Am
+(só que esquecimento é tão longo)na segunda passagem.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

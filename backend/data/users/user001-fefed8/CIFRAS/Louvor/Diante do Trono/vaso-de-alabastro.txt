@@ -1,0 +1,93 @@
+@titulo: vaso-de-alabastro
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Vaso de Alabastro
+
+(intro 2x) G Bm/D Em7 C7+
+
+(verse 1)
+C7+              G                      Bm/D
+Um vaso de alabastro é o que eu tenho de valor
+                Em7                             C7+
+Mereces muito mais, mas quebro aos Teus pés, Senhor
+              G                         Bm/D
+Tu És maravilhoso, mais que o óleo precioso
+                 Em7                      C7+
+Toda a minha alegria e meu desejo está em Ti
+         G/B                    C7+
+O Teu sangue por mim se derramou
+   Em7            D/F#
+Minha vida eu Te dou
+
+(refrão)
+       G       Bm/D     Em7      C7+
+Eu me entrego aqui como oferta a Ti
+       G             Bm/D      Em7                C7+
+Recebe-me pra Tua glória
+
+  Em7              C7+           G  Bm/D Em7 C7+
+As batidas do meu peito, rendo a Ti
+
+(verse 2)
+C7+                     G                       Bm/D
+O tempo que me resta é o que eu tenho de valor
+                   Em7                               C7+
+Mereces muito mais, mas deixo aos Teus pés, Senhor
+                           G/B                           Bm/D
+Meus dias não são muitos, eu sei que fraco sou
+                        Em7                        C7+
+Mas deste Tua vida e eu me entrego a Ti, Senhor
+         G/B                    C7+
+O Teu sangue por mim se derramou
+      Em7              D/F#
+Minha vida eu Te dou
+
+(refrão)
+       G       Bm/D     Em7      C7+
+Eu me entrego aqui como oferta a Ti
+       G     Bm/D      Em7     C7+
+Recebe-me pra Tua glória
+       G       Bm/D     Em7      C7+
+Eu me entrego aqui como oferta a Ti
+       G      Bm/D         Em7               C7+         G
+Recebe-me pra Tua glória, as batidas do meu peito, rendo a Ti
+
+(bridge 1)
+G             D            Em7           C7+
+Digno, digno, Tu és digno, Digno é o Senhor
+(repeat 4x)
+(2)
+Bm/D          Em7          Bm7           C7+
+Digno, digno, Tu és digno, Digno é o Senhor
+(repeat 2x)
+
+(refrão)
+       G       Bm/D     Em7      C7+
+Eu me entrego aqui como oferta a Ti
+   G     Bm/D    Em7     C7+
+Recebe-me pra Tua glória
+  C2      C2      C2      C2     (C2)
+As batidas do meu peito, rendo a Ti
+
+( Am7 C7+ ) (6x)
+( C2 )
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bm/D = X 5 X 4 7 7
+Bm7 = X 2 4 2 3 2
+C2 = X 3 5 5 3 3
+C7+ = X 3 2 0 0 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

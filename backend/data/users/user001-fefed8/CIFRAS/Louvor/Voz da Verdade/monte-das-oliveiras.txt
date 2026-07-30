@@ -1,0 +1,39 @@
+@titulo: monte-das-oliveiras
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Monte Das Oliveiras
+
+Intro: Em D G A Bm 2x
+
+D                       Em
+É no Monte das Oliveiras,
+G                              D    A
+Onde os pés do Senhor irão pisar
+Em                           G
+Só falta a trombeta soar lá no céu
+A                                      Bm
+Pra Jesus rasgar o véu e chegar aqui
+Em                        G
+Eu vejo os anjos, brancos e azuis
+A                                         Bm  A
+Chegando bem perto e anunciando Jesus
+
+Final: Em G D C B 3x
+          Em G D Em B Em C B Em
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

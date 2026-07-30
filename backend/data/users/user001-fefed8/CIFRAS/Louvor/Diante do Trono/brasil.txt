@@ -1,0 +1,148 @@
+@titulo: brasil
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Brasil
+
+Intro:   E   E9    A9/C#   D    E/F# F#m7   A9
+         F#m7/D E/D A/D A/B B7   E   A7M/E   B/E
+
+
+            A9/B        E9       Am6/E
+Nos quatro cantos desta terra
+                       F#m7     B/D#
+Pode-se ouvir alguém chorar,
+    A/C#        G#m7 A9   E/G#   F#m7
+São lágrimas de esperança
+          C#m7          Bsus         B
+Por um futuro que ainda vai chegar.
+
+
+           A9/B      E9       Am6/E
+Promessas de um Avivamento
+                         F#m7     B/D#
+Que o mundo inteiro vai tocar.
+         A/C# G#m7       A9   E/G#   F#m7
+Tomamos posse      da herança!
+              A/B  B      E9
+O que Deus falou      se cumprirá!
+
+
+
+E/G#   F#m7        Esus  E9       A9
+Bra - sil, em teu solo existe um povo;
+G#m7   F#m7     D9          E9
+Bra - sil, uma gente que te ama,
+E/G#  A9     B/A           G#7sus G#7/C  C#m7
+Que clama a Deus, que acredita   nas promessas:
+A9     B        F#m7          Bsus   B
+Ele virá restaurando a nossa terra!
+
+
+A/C# B/D# E9            A/E           E9
+Se o Meu  povo que se chama pelo Meu Nome
+   A/B E9      C#m7
+Se humilhar
+G#m7(11) A      F#m7
+E      orar,
+                    Bsus    B
+Se A Minha Face buscar...
+
+
+A/C# B/D# E9            A/E           E9
+Se o Meu  povo que se chama pelo Meu Nome
+    B/D#    C#m7          G#m7(11)   A9
+Dos seus caminhos maus se des - vi - ar,
+   E9/G#   F#m7  F#m7/E  D9
+Eu ouvi - rei,
+   A6(9)/C# F#m7    A9/B
+Perdo  -  arei,
+              TAG
+Sua terra sararei!
+
+
+Tag:  E9  Am6/E
+Instrumental:  E  Am6/E  C#m7  B7/D#
+                E/A  Am6/E  E9  Am6/C
+
+
+A/C# B/D# E9            A/E           E9
+Se o Meu  povo que se chama pelo Meu Nome
+   A/B E9      C#m7
+Se humilhar
+G#m7(11) A      F#m7
+E      orar,
+                    B7sus    B  Gm7 Am7
+Se A Minha Face buscar...
+
+
+Bb   C9   F9       Bb9/F              F9     C/E
+Se o Meu  povo que se chama pelo Meu Nome
+            Dm7            Am7(11)   Bb
+Dos seus caminhos maus se des - vi - ar,
+   F9/A    Gm7  Gm7/F  Eb9
+Eu ouvi - rei,
+   Bb6/D    Gm7    Bb9/C
+Perdo  -  arei,
+              END
+Sua terra sararei!
+
+
+End:  F9  Bbm6/F  F9  Bbm6/F  F9/D  Bbm6/Db  F9/C  Bb9
+       F9/A  Bbm6/G  F9/D  Bbm6/Db  F9/C  Bb9  F9
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A/D = X X 0 6 5 5
+A/E = 0 X 2 2 2 0
+A6(9)/C# = X 4 4 2 0 X
+A7M/E = X X 2 2 2 4
+A9 = X 0 2 2 0 0
+A9/B = X 2 2 2 0 0
+A9/C# = X 4 2 2 0 X
+Am6/C = X 3 4 2 5 2
+Am6/E = X X 2 2 1 2
+Am7 = X 0 2 0 1 0
+Am7(11) = 5 X 5 5 3 X
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+B/D# = X 6 X 4 7 7
+B/E = X 7 9 8 7 7
+B7 = X 2 1 2 0 2
+B7/D# = X X 1 2 0 2
+B7sus = X 2 1 2 0 2
+Bb = X 1 3 3 3 1
+Bb6/D = X 5 3 3 6 3
+Bb9 = X 1 3 3 1 1
+Bb9/C = X 3 3 3 1 1
+Bb9/F = 1 X 3 3 1 1
+Bbm6/Db = X 4 5 3 6 3
+Bbm6/F = X X 3 3 2 3
+Bsus = X 2 4 4 4 2
+C#m7 = X 4 6 4 5 4
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E/D = X 5 X 4 5 4
+E/F# = X X 4 4 5 4
+E/G# = 4 X 2 4 5 X
+E9 = 0 2 4 1 0 0
+E9/G# = 4 X 4 4 5 X
+Eb9 = X 6 8 8 6 6
+Esus = 0 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X
+F#m7/E = X X 2 2 5 2
+F9 = 1 3 5 2 1 1

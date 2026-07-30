@@ -1,0 +1,82 @@
+@titulo: melhor
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Melhor
+
+(intro) E        G#m        A        B      A
+
+E
+Eu tenho medo do mundo
+G#m                                            A
+Eu tenho medo do que pode acontecer
+E
+Eu tô cansado de tudo
+G#m                    A                                C#m
+De tanto lutar e nunca vencer
+E
+A raiva que eu sinto
+A
+Vem das coisas que nós
+
+Sabemos de cor
+C#m                                        E
+Quando eu vejo seu rosto
+A                            E
+Eu quero ser melhor
+G#m                                            A            B    A
+Eu quero ser melhor
+
+E
+Pense no seu futuro
+G#m                            A
+Essa conversa sempre
+E
+Me dá sono
+
+E
+Eu sou o rei da derrota
+G#m                            A
+E me sinto pequeno
+C#m
+Aqui no meu trono
+E
+A dor do fracasso
+A
+Podia ser muito maior
+C#m                                E
+Se eu não tivesse você
+A
+Prá me fazer
+E
+melhor
+
+(solo)    E    G#m      A     E       G#m        A
+
+C#m                        E
+A raiva que eu sinto
+A
+Vem das coisas que nós
+
+Sabemos de cor
+C#m                                        E
+Quando eu vejo seu rosto
+A   E            G#m
+Eu quero ser melhor
+
+A                (B       A           E)
+Eu quero ser melhor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+G#m = 4 6 6 4 4 4

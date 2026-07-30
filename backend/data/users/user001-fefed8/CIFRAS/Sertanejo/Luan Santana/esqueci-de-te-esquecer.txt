@@ -1,0 +1,75 @@
+@titulo: esqueci-de-te-esquecer
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Luan Santana - Esqueci de Te Esquecer
+
+Capo Casa 2
+
+Intro:
+    G    H.N        G       H.N
+E|---------------------------------------------|
+B|-------9-----------------7-------------------|
+G|---------9-----------------7-----------------|
+D|-----------9-----------------7---------------|   (2x)
+A|---------------------------------------------|
+E|---------------------------------------------|
+
+    G                                             C9
+Eu sei que já não tenho idade pra ficar tão dependente
+     G
+Mais eu mudei quando te olhei
+                         C9
+Você me fez pensar pra frente
+
+     Am                                     Em  D   C9
+Por mais que eu tente desviar to sempre em sua direção
+   Am                    G         D/F#          D4  D
+Parece que eu soltei do mundo e segurei só na sua mão
+
+
+   G
+Tava pensando em te roubar
+              C9
+Fugir pra longe do país
+   G
+Morar num lugarzinho em cancún
+           C9
+Não é o que você sempre quis?
+
+      Am                           Em      D    C9
+Sem precisar me preocupar em te levar pra casa cedo
+    Am                                  D  Em7      D/F#  D
+Enquanto eu tiver do seu lado nao precisa mais ter medo
+
+Refrão:
+           C        D              Em
+Porque se me perguntar quem eu respiro é você, você, você
+    C            D              Em
+Se for pra escolher,o céu ou a terra, respondo você
+     C       D              Em
+Se quiser saber, minha alegria é te ver, te ver, te ver
+
+      C                        D
+Quem sabe eu te quero tanto assim
+                              G
+Porque eu esqueci de te esquecer
+
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+Am*  = X 0 2 2 1 0 - (*Bm na forma de Am)
+C*  = X 3 2 0 1 0 - (*D na forma de C)
+C9*  = X 3 5 5 3 3 - (*D9 na forma de C9)
+D*  = X X 0 2 3 2 - (*E na forma de D)
+D/F#*  = 2 X 0 2 3 2 - (*E/G# na forma de D/F#)
+D4*  = X X 0 2 3 3 - (*E4 na forma de D4)
+Em*  = 0 2 2 0 0 0 - (*F#m na forma de Em)
+Em7*  = 0 2 2 0 3 0 - (*F#m7 na forma de Em7)
+G*  = 3 2 0 0 0 3 - (*A na forma de G)

@@ -1,0 +1,60 @@
+@titulo: irmaos-e-irmas
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Irmãos e Irmãs
+
+Intro:  G7+  Gm6  D  Gm6/E     
+        G7+  Gm6  D  A  
+
+       D                        Em
+Eu não sei o que seria de minha vida, sem irmãos e irmãs.
+     A7                                 D
+Sem amigos que como o amor de Jesus, mudaram meu coração.
+       Bm           F#m          Bm           E
+Quando sem destino algum, eu caminhava para o fim.
+     G          Em            A
+Eles estenderam suas mãos pra mim!
+
+       Dm          Am           Dm          Am
+Eu não sei o que seria de minha vida, sem irmãos e irmãs.
+       Gm                     Gm/D            Gm
+Sem a igreja de Cristo, e que está presente e viva ao meu redor!
+  Em          A7             Em          A7
+A comunhão, a oração, que nos unem ao Senhor.
+ Em           A7             D        Em  D/F#
+Trazem-me alegria e mais vontade de viver!
+
+       G        F#               Bm            E
+E se a cada dia neste amor, nos unirmos mais e mais.
+      D           A             Bm
+Nós podemos nosso mundo transformar!
+      G          Gm6     D            Bm
+E que muitos como eu, assim possam cantar:
+        G           Gm6     D                 Em  D/F# 
+"eu não sei o que seria sem irmãos e irmãs!"
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G7+ = 3 X 4 4 3 X
+Gm = 3 5 5 3 3 3
+Gm/D = X 5 5 3 3 3
+Gm6 = 3 X 2 3 3 X

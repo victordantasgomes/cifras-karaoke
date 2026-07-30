@@ -1,0 +1,42 @@
+@titulo: assaltaram-a-gramatica
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - Assaltaram a Gramática
+
+Intr: C#m   E   B
+
+E            C#m
+ Assaltaram a gramática
+E               C#m
+ Assassinaram a lógica
+A          F#m A               G#m  F#m
+ Meteram poesia, na bagunça do dia-a-dia
+E                C#m
+ Sequestraram a fonética
+E                C#m
+ Violentaram a métrica
+A           F#m A           G#m   F#m    E
+ Meteram poesia onde devia e não devia
+C#m            G#m
+  Lá vem o poeta com sua coroa de louro
+   G#                A
+Medalha, Agrião, pimentão, boldo
+    F#m        G#m        C#m
+ O poeta é a pimenta do planeta malagueta
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4

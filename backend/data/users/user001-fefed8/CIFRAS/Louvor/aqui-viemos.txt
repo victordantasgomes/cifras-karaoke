@@ -1,0 +1,29 @@
+@titulo: aqui-viemos
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Aqui Viemos
+
+ G           E-            C                 D
+Aqui viemos para Louvar, para Cantar, Dar Glória ao Senhor.
+
+  G           E-          C        D         G             D7
+Aqui viemos para Louvar, para Cantar, Dar Glória ao Senhor.
+  G    E-        C   D          G         D7
+Pra aclamar  e adorar nosso  Deus de amor
+G    E-        C   D         G
+Pra aclamar  e adorar nosso  Deus de amor.
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+E- = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

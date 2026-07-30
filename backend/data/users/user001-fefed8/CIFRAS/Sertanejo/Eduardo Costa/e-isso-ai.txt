@@ -1,0 +1,52 @@
+@titulo: e-isso-ai
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - É Isso Aí
+
+Intro: E
+
+          E             A
+É isso ai  Como a gente achou que ia ser
+                  B        A             E
+A vida tão simples é boa    Quase sempre
+         E                          A
+É isso ai  Os passos vão pelas ruas
+                       B                        C#m
+Ninguém reparou na lua    A vida sempre continua
+                            A                        G#m
+E eu não sei parar de te olhar Eu não sei parar de te olhar
+                 F#m                         E
+Não vou parar de te olhar Eu não me canso de olhar
+             A B             E
+Não sei parar    De te olhar
+          E                             A
+É isso ai   Há quem acredita em milagres
+                       B  A                                    E
+Há quem cometa maldade       Há quem não saiba dizer a verdade
+          E                       A
+É isso ai  Como um vendedor de flores
+
+                    B                         C#m
+Ensinar seus filhos    A escolher seus amores
+                          A                         G#m
+E eu não sei parar de te olhar Eu não sei parar de te olhar
+                 F#m                          E
+Não vou parar de te olhar Eu não me canso de olhar
+              A     B             E
+Não sei parar         De te olhar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

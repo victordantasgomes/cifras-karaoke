@@ -1,0 +1,85 @@
+@titulo: nao-vou-desistir
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Não Vou Desistir
+
+[Intro]  Bm7  B7/9  B4  Bm7  G  B7/9  B4  Bm  Em7  F#/A  Bm  B7/9  B4  Bm
+
+         Bm7             G           Bm7
+O tempo da dor, as frustrações, a solidão
+          G        D/F#    Em               F#m7
+Angustia de estar vivendo sem saber quando vai mudar
+
+       Bm7              G                   F#m7
+Eu nunca te vi, mais reconheço que estas aqui
+        G            D/F#   Em                      A
+Eu vou me levantar, já vejo acontecer quando eu te tocar
+            G          A
+Eu sei que posso te alcançar
+
+ A   Bm      G        A          Bm      G         A
+Decidi, não vou desistir, Vou lutar contra a multidão
+ G  F#m             G     A
+Lançar-me aos teus pés e te tocar
+
+( Bm7  B7/9  B4  Bm7  G  Em  A/F#  F#/A#  Bm7 )
+
+         Bm7             G             Bm7
+O tempo da dor, as frustrações, a solidão
+          G        D/F#    Em               F#m7
+Angustia de estar vivendo sem saber quando vai mudar
+
+       Bm7              G                   F#m7
+Eu nunca te vi, mais reconheço que estas aqui
+        G            D/F#   Em                      A
+Eu vou me levantar, já vejo acontecer quando eu te tocar
+            G          A
+Eu sei que posso te alcançar
+ 
+ A   Bm7     G        A          Bm7     G         A
+Decidi, não vou desistir, Vou lutar contra a multidão
+ G  F#m             G     A
+Lançar-me aos teus pés e te tocar
+
+ G             A      F#m         G
+Há virtude em ti pra sarar o meu mau
+              A                    G
+Transformado serei se ao menos te tocar
+
+ A   Bm      G        A          Bm      G         A
+Decidi, não vou desistir, Vou lutar contra a multidão
+ G  F#m             G     A
+Lançar-me aos teus pés e te tocar
+
+ A   Bm      G        A          Bm      G         A
+Decidi, não vou desistir, Vou lutar contra a multidão
+ G  F#m             G     A
+Lançar-me aos teus pés e te tocar
+
+[Final]  Bm7  B7/9  B4  Bm7  G  Em  A/F#  F#/A#
+         Bm7  B7/9  B4  Bm7  G  Em  A/F#  F#/A#
+         Bm7
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/F# = 2 0 2 2 2 0
+B4 = X 2 4 4 5 2
+B7/9 = X 2 1 2 2 X
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#/A = X 0 4 3 2 X
+F#/A# = 6 X 4 6 7 X
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

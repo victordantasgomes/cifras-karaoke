@@ -1,0 +1,132 @@
+@titulo: o-amor-nao-e-paixao
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - O Amor Não É Paixão
+
+[Intro] C
+
+    C
+E|----------------------------------------------------|
+B|-------1--------------------3-----------------------|
+G|-----0---0---0------0-----0-------------------------|
+D|---2-------2----2h3---3/5---------------------------|   
+A|-3--------------------------------------------------|
+E|----------------------------------------------------|
+
+E|--3-------------------------------------------------|
+B|----3h5----------5-5-5-3-1-1/3-5-5------------------|
+G|---------5/7~---------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+[Primeira Parte]
+
+     C
+Telefona quando é madrugada diz que não consegue mais dormir
+
+       F                                      C
+E pra não ficar sozinha em casa diz que vai sair
+         G                             F
+Que o desejo já tomou seu corpo pegou fogo no seu coração
+      C                     G                 C
+Você diz que é amor, eu respondo que é só paixão
+
+      C
+Tem ciúmes de tudo que eu faço de um sorriso de um simples abraço
+      C7                                       F
+Dos amigos e até nos meus sonhos você quer entrar
+
+Dividir comigo o mesmo copo
+        C             Am7      F
+Me afastar até do violão você diz que é amor
+       G                 C  C7
+Eu respondo que é só paixão
+
+[Pré-Refrão]
+
+    F
+O amor não é inconsequente só quem tem sabe entender a gente
+                                            C
+E você não sente quando eu preciso ficar sozinho
+                                D
+A paixão é muito egoísta não divide e nem sabe dar
+       F                 G                 C
+Desse jeito vai ficar difícil, eu não vou te amar
+
+[Refrão]
+
+C D9    G  F         G              C
+O amor não é paixão como um rio não é o mar
+ Am             Dm        G             C
+Ter amor não é só gostar na paixão só existe prazer
+           F        G               C
+O amor não é assim só quem tem pode entender
+  Am                 Dm            G             C
+Que a paixão quando faz sofrer passou a ser solidão
+
+[Solo] F  G  C  Am  Dm  G  C
+
+E|----------------------------------------------------|
+B|-5-6-6/8-8-6-6--8-6-6-8/10-8-6-5-5------------------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|----------------------------------------------------|
+B|-5h6-5-5-6/8-6-5-6-3--1-1-1-0-----------------------|
+G|--------------------------------2--2/5------5-4-----|
+D|-------------------------------------------------5--|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+[Pré-Refrão]
+
+    F
+O amor não é inconsequente só quem tem sabe entender a gente
+                                            C
+E você não sente quando eu preciso ficar sozinho
+                                D
+A paixão é muito egoísta não divide e nem sabe dar
+       F                 G                 C
+Desse jeito vai ficar difícil, eu não vou te amar
+
+[Refrão]
+
+C D9    G  F         G              C
+O amor não é paixão como um rio não é o mar
+ Am             Dm        G             C
+Ter amor não é só gostar na paixão só existe prazer
+           F        G               C
+O amor não é assim só quem tem pode entender
+  Am                 Dm            G             C
+Que a paixão quando faz sofrer passou a ser solidão
+
+[Final] F  G  C
+
+E|----------------------------------------------------|
+B|-5-6-8-8/10-8-8-10----------------------------------|
+G|----------------------/7-5-5-5-5-5---5-7/9-5~-------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

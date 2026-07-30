@@ -1,0 +1,100 @@
+@titulo: a-carta
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - A Carta
+
+[Intro]  G  C  Em7  C  D
+         G  C  Em7  C  D
+
+G                             Am7
+Escrevo-te essas mal traçadas linhas meu amor
+     D                      G          D9
+Por que veio a saudade visitar meu coração
+   Em7                      Am7
+Espero que desculpes os meus erros por favor
+      D                            G
+Nas frases desta carta que é uma prova de afeição
+G                          Am7
+Talvez tu não a leia mais quem sabe até darás
+ D                       G          D9
+Resposta imediata me chamando de meu bem
+  Em7                          Am7
+Porém o que me importa é confessar-te uma vez mais
+     D                           G
+Não sei amar na vida a mais ninguém
+
+          Refrão
+
+C                  G
+Quanto tempo faz que li no teu olhar
+   D                          G
+a vida cor-de-rosa que eu sonhava
+    C                    G
+E guardo a impressão de que já vi passar
+   A9                  D
+Um ano sem te ver, um ano sem te amar
+C                   G                 D                   G
+Ao me apaixonar por ti não reparei que tu tivesse só entusiasmo
+   C              G
+E para terminar, amor, assinarei
+    Am7             D
+Do sempre, sempre teu
+
+( G  C  Em7  C  D )
+( A9  D9  F#m  D9  E )
+
+ D9                 A9
+Quanto tempo faz que li no teu olhar
+   E                          A9
+a vida cor-de-rosa que eu sonhava
+    D9                    A9
+E guardo a impressão de que já vi passar
+   B                  E
+Um ano sem te ver, um ano sem te amar
+D9                   A9                 E                   A9
+Ao me apaixonar por ti não reparei que tu tivesse só entusiasmo
+   D9              A9
+E para terminar, amor, assinarei
+    Bm             E
+Do sempre, sempre teu
+
+( A9  D9  F#m  D9  E )
+
+A9                            D9
+Escrevo-te essas mal traçadas linhas
+     F#m                      E
+Por que veio a saudade visitar meu coração
+A9                              D
+Escrevo-te essas mal traçadas linhas
+     F#m                    E
+Por que veio a saudade visitar meu coração
+A9                              D9
+Escrevo-te essas mal traçadas linhas
+  F#m                       E
+Espero que desculpes os meus erros por favor
+
+A9           D9       F#m       E   A9
+meu amor, meu amor, ôôhô, ôôhô ôôôhô
+
+( A9  D9  F#m  D9  E )
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+Em7 = 0 2 2 0 3 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

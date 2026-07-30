@@ -1,0 +1,77 @@
+@titulo: borboleta-de-deus
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Borboleta de Deus
+
+(intro) G  D  A  G  D  A  G  D  A  G
+
+      D         A         G     D       A       G
+Eu vivia num casulo a sofrer e sofria sem perceber
+     D          A     G            D      A        G
+Que havia uma força extra que me fazia lutar sem parar
+     Em   Bm      A         Em             Bm     A
+E eu via o mundo debaixo, me sentia o menor dos menores
+      F#m               Bm   G     D          A    G
+Impossível pra mim era crer que um dia eu pudesse voar
+    E          B      C#m       A    E       B
+    D          A      Bm        G    D       A
+Borboleta de Deus eu sou, do casulo me libertou
+     E             A      E  B/D#       C#m
+     D             G      D  A/C#       Bm
+Vou voar sobre os montes, ir     muito além
+        E        B    E
+        D        A    D
+Pra chegar em Jerusalém
+ F       C       Gm       Dm     F        C      Gm       Dm
+Hoje eu vôo por cima dos mares, eu sou cabeça e não sou cauda
+
+F           C     Gm          Dm
+Eu sou de cima, não sou debaixo
+ A#                        A
+desde que Cristo me libertou
+F            C       Gm          Dm
+As minhas asas são grandes e coloridas,
+    F        C  Gm         Dm
+igualmente hoje é minha vida
+F       C     Gm      Dm
+Hoje eu vejo tudo de cima
+ A#                    A
+desde Cristo me libertou
+               D        A
+Volta em: Borboleta de Deus...
+
+(final) E  A
+
+(solo)
+E|----------|-----------|----------|------------|
+B|-5--------|-----------|-5--------|------------|
+G|--8-4-6---|-6-4-------|--8-4-6---|---11/13----|
+D|----------|------6----|----------|-14---------|
+A|----------|-----7-----|----------|------------|
+E|----------|-----------|----------|------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A# = X 1 3 3 3 1
+A/C# = X 4 X 2 5 5
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

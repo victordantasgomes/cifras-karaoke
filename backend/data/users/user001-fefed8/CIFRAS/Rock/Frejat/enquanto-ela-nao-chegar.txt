@@ -1,0 +1,71 @@
+@titulo: enquanto-ela-nao-chegar
+@autor:
+@intérprete: Frejat
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Frejat - Enquanto ela não chegar
+
+Intro:  G C G C
+
+G                                     Em
+  Quantas coisas eu ainda vou provar?
+                                         D
+E quantas vezes para porta eu vou olhar?
+                                        C9
+Quantos carros nessas ruas vão passar?
+
+Enquanto ela não chegar
+G                                    Em
+  Quantos dias eu ainda vou esperar?
+                                         D
+E quantas estrelas eu vou tentar contar?
+E quantas luzes na cidade vão se apagar?
+        C9
+Enquanto ela não chegar
+
+Refr.:
+Am
+Eu tenho andado tão sozinho
+
+            G  Em
+que eu nem sei no que acreditar
+Am                                              C
+e a paz que busco agora nem a dor vai me negar.
+ G
+/:Não deixe o Sol morrer
+B7                Em
+Errar é aprender
+                   D#
+Viver é deixar viver:\
+
+G                                       Em
+ Quantas besteiras eu ainda vou pensar
+                                          D
+E quantos sonhos do tempo vão se esfarelar
+Quantas vezes eu vou me criticar
+        C9
+Enquanto ela não chegar
+Refr.
+G B7 Em D# (2x)
+G
+Uuuuuuu                :b
+B7    Em   D#          :i
+Uuuuuuu, aaaanmnmnmn.  :s
+
+Refr.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

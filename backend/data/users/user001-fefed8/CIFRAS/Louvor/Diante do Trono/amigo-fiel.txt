@@ -1,0 +1,127 @@
+@titulo: amigo-fiel
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Amigo Fiel
+
+INTRO:  ::  G   D/F#  :  Em   G/D  :  Am7  :  C/D   D  :
+         :  G   D/F#  :  Em   G/D  :  Am7  :  Am7 - G/B  - C - C/D ::
+
+G      D/F#    Em
+NÃO HÁ MAIOR
+G/D       Am7        C/D      D
+NÃO HÁ IGUAL A TI
+G  D/F#       Em
+AMIGO FIEL
+G/D      Am7          C/D      D
+CONSOLADOR,  TU ÉS
+
+Am7             C/D
+EU QUERO ME ENTREGAR
+Am7         C/D         D
+EU QUERO DERRAMAR
+           G9        D/F#        Am7
+A MINHA VIDA EM TEU ALTAR
+                                  1: :  C   :  G/B  : -> to  "Eu quero me entregar..."
+                                  2: :  Am7   G/B    C    C/D : ->to  "Atrai-me..."
+     B7/D#   Em7        Em7/D     B: :  Am7  :  G/B   C  : -> to  "Tu me sondas..."
+
+
+A MINHA   VIDA EM TEU    ALTAR
+
+
+G    D/F#     Em
+  ATRAI-ME SENHOR
+G/D     Am7      C/D      D
+EU CORREREI PARA TI
+G         D/F#        Em
+  EM TEUS BRAÇOS DE AMOR
+G/D       Am7    C/D     D
+ME ESCONDEREI  ATRAI-ME
+
+C                   G/B
+   TU ME SONDAS E CONHECES
+Am7      G/B         Em7            Em7(9)
+   VÊ SE HÁ EM MIM ALGUM CAMINHO MAU
+Am7                G/B
+   ÉS O MEU ESCONDERIJO
+      F7M                Am7            C/D       D/E
+TU ME CERCAS COM ALEGRES CANTOS DE LIVRAMENTO
+
+A     E/G#  F#m
+  NÃO HÁ MAIOR
+A/E      Bm7   C#m7  D9   D/E
+NÃO HÁ IGUAL    A    TI
+A  E/G#   F#m
+  AMIGO  FIEL
+A/E    Bm7     D/E  E  D/E  E
+CONSOLADOR,  TU ÉS
+
+A    E/G#     F#m
+  ATRAI-ME SENHOR
+E       Bm7     D/E      E
+EU CORREREI PARA TI
+A         E/G#       F#m
+  EM TEUS BRAÇOS DE AMOR
+A/E       Bm7     D/E        (D - C# - B)
+ME ESCONDEREI  ATRAI-ME
+
+Bm7          D/E
+   EU QUERO ME ENTREGAR
+Bm7         D/E         E
+   EU QUERO DERRAMAR
+        A9      E/G#    Bm7
+A MINHA VIDA EM TEU   ALTAR
+      C#7/F  F#m7     F#m7/E      D  -  A/C#
+A MI - NHA   VIDA EM TEU   ALTAR
+
+Bm7          D/E
+   EU QUERO ME ENTREGAR
+Bm7         D/E         E
+   EU QUERO DERRAMAR
+        A9      E/G#    Bm7
+A MINHA VIDA EM TEU   ALTAR
+      C#7/F  F#m7      F#m7/E
+A MI - NHA   VIDA EM TEU   ALTAR
+
+FIM: :: Bm7  A/C#   D   D/E  :  A  ::
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A9 = X 0 2 2 0 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+B7/D# = X X 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#7/F = X X 3 4 2 4
+C#m7 = X 4 6 4 5 4
+C/D = X X 0 0 1 0
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+Em7(9) = X 7 5 7 7 X
+Em7/D = X X 0 0 3 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7/E = X X 2 2 5 2
+F7M = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G9 = 3 X 0 2 0 X

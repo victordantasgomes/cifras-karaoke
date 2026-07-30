@@ -1,0 +1,68 @@
+@titulo: no-mesmo-lugar
+@autor:
+@intérprete: Rionegro e Solimões
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rionegro e Solimões - No Mesmo Lugar
+
+(intro) D7 G G7 C G D7 G D7
+
+    G                    C                   G
+Nem mesmo outro rosto bonito me faz te esquecer
+                             C           D7
+Nem mesmo o sabor de outra boca te substitui
+       C                                         G
+Nem mesmo o melhor dos momentos nos braços de alguém
+   D7                                       G   F#m Em
+Fará com que eu seja outra vez o mesmo que fui.
+
+   D7                C                  G
+A vida tem horas difíceis pra gente passar
+   D7                 C               G  G7
+Pedaços quase impossíveis de se entender
+    C                 D7                G
+Porque uma coisa estranha marcou nosso fim
+              Em                 Am
+Um pobre qualquer foi tirá-la de mim
+              D7                A    
+Se nem mesmo Deus me tirou de você.
+
+( D7 G G7 C G D7 G D7 )
+
+     G                 C                  G
+Me sinto pregado em você que já é minha cruz
+                      C                 D7
+Nem mesmo com mil orações consegui me livrar
+  C                                  A
+Você se livrou facilmente e saiu por aí
+   D7                                   G    F#m Em
+Eu saio, porém não me sinto no mesmo lugar.
+
+   D7                C                  G
+A vida tem horas difíceis pra gente passar
+   D7                 C               G  G7
+Pedaços quase impossíveis de se entender
+    C                 D7                G
+Porque uma coisa estranha marcou nosso fim
+              Em                 Am
+Um pobre qualquer foi tirá-la de mim
+              D7                A
+Se nem mesmo Deus me tirou de você.
+   D7 G
+De você...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

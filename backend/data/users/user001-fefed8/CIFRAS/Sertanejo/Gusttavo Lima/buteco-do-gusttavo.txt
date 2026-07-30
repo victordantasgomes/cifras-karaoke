@@ -1,0 +1,40 @@
+@titulo: buteco-do-gusttavo
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Buteco do Gusttavo
+
+A               E
+Tem moda boa, tem
+               A
+Uísque e gelo também
+              E                                A
+Eu tô no céu, daqui ninguém me tira
+             E                             A
+O cheiro da menina, eu vou fungado em cima
+               D       E                    A
+Vem pro boteco do Gusttavo Lima
+
+
+~Refrão  (2x)
+
+A                                           E
+Ô sanfoneiro, bota o povo pra dançar
+                   D              E           A
+Quem tá solteiro vem ligeiro se arranjar
+A                                                   E
+Aqui não paga entrada, mas moça bonita
+                                           A
+Tem que rebolar na pista ouvindo nós cantar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0

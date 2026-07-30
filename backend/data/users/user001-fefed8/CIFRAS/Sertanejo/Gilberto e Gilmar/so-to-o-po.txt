@@ -1,0 +1,79 @@
+@titulo: so-to-o-po
+@autor:
+@intérprete: Gilberto e Gilmar
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gilberto e Gilmar - Só Tô o Pó
+
+intr.A E7 A E
+
+A 
+|SÓ TÔ SÓ TÔ O PÓ, SÓ TÔ SÓ TÔ O PÓ                                          
+
+                                             E 
+|TÁ TUDO EM CIMA A FESTA É LINDA HOJE EU NÃO DURMO SÓ 
+
+|SÓ TÔ SÓ TÔ O PÓ, SÓ TÔ SÓ TÔ O PÓ 
+
+|MULHER CERVEJA É MUITO BOM E QUANTO MAIS, MELHOR
+
+A
+SÓ TÔ SÓ TÔ O PÓ, SÓ TÔ SÓ TÔ O PÓ
+            A7                D
+SÃO QUATRO DIAS DE FESTA E PAIXÃO
+                             A
+EU DEI UM CHUTE NA SAUDADE DOIDA
+                 E           A A7 D
+METÍ A ESPORA BATIDA NA SOLIDÃO
+                    A               E7              A
+MANDEI PRA LONGE A DOR, SÓ FICOU O AMOR NO MEU CORAÇÃO.
+
+
+SÓ TÔ SÓ TÔ O PÓ, SÓ TÔ SÓ TÔ O PÓ.
+
+
+SOLO. A E E7 A F#
+
+           B 
+|SÓ TÔ SÓ TÔ O PÓ, SÓ TÔ SÓ TÔ O PÓ.                                          
+
+                                              F# 
+|TÁ TUDO EM CIMA A FESTA É LINDA HOJE EU NÃO DURMO SÓ 
+
+|SÓ TÔ SÓ TÔ O PÓ, SÓ TÔ SÓ TÔ O PÓ 
+
+|MULHER CERVEJA É MUITO BOM E QUANTO MAIS, MELHOR
+
+
+SÓ TÔ SÓ TÔ O PÓ, SÓ TÔ SÓ TÔ O PÓ
+         B7                     A
+TÔ NO BAGAÇO, MAS EU VOU ATÉ O FIM
+                              B
+JÁ TOMEI TODAS SE SOPRAR EU CAIO
+               F#       F#7     B B7 E
+MAS DAQUI NÃO SAIO, NÃO TÔ NEM AÍ
+                B                    F#
+A VIDA É PRA VIVER, NÃO NASCÍ PRA SOFRER
+                   B
+DEIXE QUE FALEM DE MIM.
+
+B9
+SÓ TÔ SÓ TÔ O PÓ, SÓ TÔ SÓ TÔ O PÓ, SÓ TÔ SÓ TÔ O PÓ....
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+B9 = X 2 4 4 2 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2

@@ -1,0 +1,279 @@
+@titulo: policia
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Polícia
+
+[Introdução] B5  D5  A5
+
+(Guitarra 1)
+
+     B5      D5      A5
+E|------------------------------------------|
+B|------------------------------------------|
+G|------------------------------------------|
+D|-4-4-4-4-7-7-7-7-2-2-2-2-2-2-2-2----------|
+A|-2-2-2-2-5-5-5-5-0-0-0-0-0-0-0-0----------|
+E|------------------------------------------|
+
+
+(Guitarra 2)
+
+     B5      D5      A5
+E|-----------------------5------------------|
+B|-----------------------5------------------|
+G|------------------------------------------|
+D|-1-1-1-1-0-0-0-0-2-2-2-----2-2-2----------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+
+
+
+[Primeira Parte]
+
+(Guitarra 1)
+
+     B5      D5      A5
+E|------------------------------------------|
+B|------------------------------------------|
+G|------------------------------------------|
+D|-4-4-4-4-7-7-7-7-2-2-2-2---2-2-2----------|
+A|-2-2-2-2-5-5-5-5-0-0-0-0---0-0-0----------|
+E|------------------------------------------|
+
+
+(Guitarra 2)
+
+     B5      D5      A5
+E|------------------------------------------|
+B|-7---------------5------------------------|
+G|-4---------------2------------------------|
+D|-4---------------2------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+
+ B5              D5
+Dizem que ela existe
+    A5
+Pra ajudar
+ B5             D5
+Dizem que ela existe
+      A5
+Pra proteger
+    B5          D5
+Eu sei que ela pode
+ A5
+Te parar
+    B5          D5
+Eu sei que ela pode
+ A5
+Te prender
+
+
+[Refrão]
+
+     B               A
+E|------------------------------------------|
+B|-4---4---4-4-4-4-2---2-2---2-2-2----------|
+G|-4---4---4-4-4-4-2---2-2---2-2-2----------|
+D|-4---4---4-4-4-4-2---2-2---2-2-2----------|
+A|-2---2---2-2-2-2-0---0-0---0-0-0----------|
+E|------------------------------------------|
+
+
+     B       D       A
+E|------------------------------------------|
+B|-4---4---7---7---2---2-2---2-2-2----------|
+G|-4---4---7---7---2---2-2---2-2-2----------|
+D|-4---4---7---7---2---2-2---2-2-2----------|
+A|-2---2---5---5---0---0-0---0-0-0----------|
+E|------------------------------------------|
+
+
+   B
+Polícia
+       A
+Para quem precisa
+   B
+Polícia
+       D
+Para quem precisa
+ A
+De polícia
+   B
+Polícia
+       D
+Para quem precisa
+   B
+Polícia
+       D
+Para quem precisa
+ A
+De polícia
+
+
+[Segunda Parte]
+
+ B5
+Dizem pra você
+  A5
+Obedecer
+ B5
+Dizem pra você
+ A5
+Responder
+ B5
+Dizem pra você
+ A5
+Cooperar
+ B5
+Dizem pra você
+ A5
+Respeitar
+
+
+[Refrão]
+
+   B
+Polícia
+       A
+Para quem precisa
+   B
+Polícia
+       D
+Para quem precisa
+ A
+De polícia
+   B
+Polícia
+       D
+Para quem precisa
+   B
+Polícia
+       D
+Para quem precisa
+ A
+De polícia
+
+
+[Interlúdio] E5
+             A5
+             B5  D5  A5
+
+
+[Terceira Parte]
+
+ B5              D5
+Dizem que ela existe
+    A5
+Pra ajudar
+ B5             D5
+Dizem que ela existe
+      A5
+Pra proteger
+    B5          D5
+Eu sei que ela pode
+ A5
+Te parar
+    B5          D5
+Eu sei que ela pode
+ A5
+Te prender
+
+
+[Refrão]
+
+   B
+Polícia
+       A
+Para quem precisa
+   B
+Polícia
+       D
+Para quem precisa
+ A
+De polícia
+   B
+Polícia
+       D
+Para quem precisa
+   B
+Polícia
+       D
+Para quem precisa
+ A
+De polícia
+
+
+[Quarta Parte]
+
+ B5
+Dizem pra você
+  A5
+Obedecer
+ B5
+Dizem pra você
+ A5
+Responder
+ B5
+Dizem pra você
+ A5
+Cooperar
+ B5
+Dizem pra você
+ A5
+Respeitar
+
+
+[Refrão Final]
+
+   B
+Polícia
+       A
+Para quem precisa
+   B
+Polícia
+       D
+Para quem precisa
+ A
+De polícia
+   B
+Polícia
+       D
+Para quem precisa
+   B
+Polícia
+       D
+Para quem precisa
+ A         B5  E5
+De polícia
+
+
+(Final)
+
+     B5              E5
+E|------------------------------------------|
+B|------------------------------------------|
+G|-4---4---4---4----------------------------|
+D|-4---4---4---4---2------------------------|
+A|-2---2---2---2---2------------------------|
+E|-----------------0------------------------|
+
+
+----------------- Acordes -----------------
+A = X 0 P2 2 2 X
+A5 = X 0 P2 2 X X
+B = X 2 P4 4 4 X
+B5 = X 2 4 4 X X
+D = X 5 P7 7 7 X
+D5 = X 5 7 7 X X
+E5 = X 7 9 9 X X

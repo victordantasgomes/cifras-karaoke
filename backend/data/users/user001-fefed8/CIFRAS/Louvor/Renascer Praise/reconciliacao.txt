@@ -1,0 +1,87 @@
+@titulo: reconciliacao
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Reconciliação
+
+[Intro] G  D/F#  G/B  C
+        G/D  A/E  B/F#
+        Em/G  F7M  Dsus
+
+G7M                  A/C#
+Pelo prazer de Te adorar
+       Bm7
+Posso suportar
+       F7M                  C7M
+Abrir mão do meu querer e apesar de
+          Dsus  D7/9-
+Tudo, perdoar
+ G7M                  A/C#
+Pelo prazer de Te adorar
+    Bm7
+Aprendi a esperar
+ F7M                   Am7
+Até que o Senhor, sua obra
+          Dsus   G/B
+Venha completar
+ C               D/C
+Não posso me imaginar
+
+ F#°  B7     Em  Gsus
+Sem tua presença
+ C                G/B  Asus
+E nem quero continuar, se o
+          A7       Dsus
+Senhor comigo não for
+ G/B   C   G/D       D/C         G/B
+Reconciliação é se abrir pra renascer
+ F7M               C/E
+Dom que vem de Deus, faz o
+ Dsus             G/B
+Deserto florescer
+ C            D/C        F#°
+Trazendo nova vida onde não
+    B7    Em  Gsus
+Há esperança
+ C                    G/B
+Mostrando ao mundo que é
+            Am               Esus  E7
+Possível andarmos juntos em união
+     Am  G/B  C7M   Dsus            F7M  Dsus
+No amor de Jesus,        te amo irmão
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Asus = X 0 2 2 2 0
+B/F# = X X 4 4 4 2
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C7M = X 3 2 0 0 X
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D7/9- = X 5 4 5 4 X
+Dsus = X X 0 2 3 2
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+Em/G = 3 X 2 4 5 X
+Esus = 0 2 2 1 0 0
+F#° = 2 X 1 2 1 X
+F7M = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G7M = 3 X 4 4 3 X
+Gsus = 3 2 0 0 0 3

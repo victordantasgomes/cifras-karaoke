@@ -1,0 +1,83 @@
+@titulo: flores
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Flores
+
+(intro)
+
+(riff 2x)
+D5 B E5
+D5 B E5
+B5 A5
+B5 A5
+
+D5 B E5 (2x)
+Olhei até ficar cansado
+
+B5  A5 (2x)
+De ver os meus olhos no espelho
+
+D5 B E5  (2x)
+Chorei por ter despedaçado
+
+B5  A5 (2x)
+As flores que estão no canteiro
+
+D5 B E5  (2x)
+Os punhos e os pulsos cortados
+
+
+B5  A5 (2x)
+E o resto do meu corpo inteiro
+
+D5 B E5 (2x)
+Há flores cobrindo o telhado
+
+B5  A5  (2x)
+E embaixo do meu travesseiro
+
+D5 B E5 (2X)
+Há flores por todos os lados
+
+B5  A5  (2X)
+Há flores em tudo que eu vejo
+
+E             A
+A dor vai curar essas lástimas
+E             A
+O soro tem gosto de lágrimas
+E             A
+As flores têm cheiro de morte
+E             A
+A dor vai fechar esses cortes
+
+B      B
+Flores,Flores
+G |--------------
+D |--------------
+A |-----4-5-4----
+E |-4-5-------5-7
+
+  E            A             E
+As flores de plástico não morrem
+
+(repete tudo)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+B = X 2 4 4 4 2
+B5 = X 2 4 4 X X
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+G = 3 2 0 0 0 3

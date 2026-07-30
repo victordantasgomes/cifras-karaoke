@@ -1,0 +1,131 @@
+@titulo: bem-aventurado
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Bem Aventurado
+
+Intro 2x: C/Bb  Bb9  C/Bb  Bb9  C/F  F  C/F  F
+
+Primeira Parte:
+ F         C/Bb           Bb9   C/Bb
+Bem aventurado é o que está
+    Bb9         C/F F C/F
+Firmado em tua ca--sa
+   F            C/Bb Bb9  Gm7
+Aqueles que te lou--vam
+          C4          C     F
+cujo coração está no nosso Deus
+
+Solo: C  G4  G  Am7  F  C/E  G  G4  Am7  F
+
+Primeira Parte:
+           G/F            F  G/F
+Bem-aventurado é o que está
+
+Firmado em tua ca--sa
+   C9           G/F F Dm7
+Aqueles que te lou-vam
+
+          G                 C
+cujo coração está no nosso Deus
+
+           G/F         F   G/F
+Bem-aventurado é quem tem    
+
+A sede da Justiça de Deus
+   C9            G/F        F   Dm7
+Aqueles que são filhos da luz
+              G4  G        C
+cujo a força vem do nosso Deus
+
+Pré-Refrão:
+                 F           G
+Que o teu reino venha sobre nós
+               F/A         G/B
+Queremos tua glória sobre nós
+
+Refrão:
+C         G4 G       Am7       F
+Ouve, oh Deus! nossa oração altíssimo
+C/E             G4 G         Am7
+   Sara essa nação,  é o clamor da
+         F
+Igreja que te adora
+
+Solo: G/F  F  G/F  F  G/C  C9
+
+Primeira Parte:
+           G/F            F  G/F
+Bem-aventurado é o que está
+
+Firmado em tua ca--sa
+   C9           G/F F Dm7
+Aqueles que te lou-vam
+          G                 C
+cujo coração está no nosso Deus
+
+           G/F         F   G/F
+Bem-aventurado é quem tem    
+
+A sede da Justiça de Deus
+   C9            G/F        F   Dm7
+Aqueles que são filhos da luz
+              G4  G        C
+cujo a força vem do nosso Deus
+
+Pré-Refrão:
+                 F           G
+Que o teu reino venha sobre nós
+               F/A         G/B
+Queremos tua glória sobre nós
+
+Refrão 2x:
+C         G4 G       Am7       F
+Ouve, oh Deus! nossa oração altíssimo
+C/E             G4 G         Am7
+   Sara essa nação,  é o clamor da
+         F
+Igreja que te adora
+
+Solo: C  G4  G  Am7  F  C/E  G4  G  Am7  F
+
+Ponte 4x:
+C9               G/B
+  Só tu és Santo,   só tu és Santo
+Am7                   F9
+   Só tu és Santo Senhor
+
+Refrão 2x:
+C         G4 G       Am7       F
+Ouve, oh Deus! nossa oração altíssimo
+C/E             G4 G         Am7
+   Sara essa nação,  é o clamor da
+         F
+Igreja que te adora
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+C/Bb = X 1 2 0 1 X
+C/E = 0 3 2 0 1 0
+C/F = X 8 10 9 8 8
+C4 = X 3 3 0 1 X
+C9 = X 3 5 5 3 3
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/C = X 3 5 4 3 3
+G/F = 1 X X 0 0 3
+G4 = 3 5 5 5 3 3
+Gm7 = 3 X 3 3 3 X

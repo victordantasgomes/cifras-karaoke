@@ -1,0 +1,79 @@
+@titulo: simples
+@autor:
+@intérprete: Nenhum de Nós
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nenhum de Nós - Simples
+
+Intro.: (C F) 2x
+
+    C                     F
+Queria te dizer palavras simples
+     Am                 G
+Que guardariam tudo o que eu sinto
+   C                    F
+E pelo simples fato de te dizer
+     Am                 G
+Mais forte ficaria meu sentimento
+
+     F           G         C    Dm
+Mas nada que eu diga me parece exato
+ F           G               C    Dm
+Nada que eu pense tem um sentido claro
+    F          Fm                     C
+Nenhuma canção vai me ajudar a descobrir
+
+Solinho do Piano: (C F) 2x
+
+       Am                     Em
+O que aconteceu conosco foi imenso
+
+    Am               Dm
+Um sentimento tão intenso
+              F     G
+Que eu não encontro
+             F                  G
+As palavras certas não existem
+   F   Fm      G
+No universo inteiro
+
+ F           G         C    Dm
+Nada que eu diga me parece exato
+ F           G               C     Dm
+Nada que eu pense tem um sentido claro
+ F           G         C    Dm
+Nada que eu diga me parece exato
+ F           G               C     Dm
+Nada que eu pense tem um sentido claro
+    F          Fm                     C
+Nenhuma canção vai me ajudar a descobrir
+
+(C F)
+
+    C                     F
+Queria te dizer palavras simples
+    C                     F
+Queria te dizer palavras simples
+                 C                        F
+Mas as palavras certas não existem no universo inteiro
+                 C                        F
+Mas as palavras certas não existem no universo inteiro
+    C                     F
+Queria te dizer palavras simples
+    C
+Queria te dizer...
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3

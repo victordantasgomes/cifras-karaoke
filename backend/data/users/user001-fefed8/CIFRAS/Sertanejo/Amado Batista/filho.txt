@@ -1,0 +1,73 @@
+@titulo: filho
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Filho
+
+(intro)E
+
+E                 B                   E
+Filho eu tenho pensado, muito em sua mãe
+                           A
+Que bom seria, se ela estivesse
+              E  E7
+Junto com a gente
+
+A
+Você ainda é uma criança
+           E   G#            C#m
+E o que eu sinto, você não entende
+ E                B                  E
+Filho eu estou morrendo, de saudade dela
+
+E               B                     E
+Filho não se preocupe,  tudo vai dar certo
+
+Mesmo que eu tenha
+                   A          E  E7
+Que fazer da minha vida um inferno
+
+    A                         E
+Eu estarei pra sempre do seu lado
+          E  G#          C#m
+E sei que ela,  estará por perto
+ E                 B                E
+Filho eu estou morrendo, de saudade dela
+
+        A
+Naquele dia lá no hospital
+        E         G#         C#m
+Pedi a Deus, pra me levar também
+          F#                  B
+Mas se eu morresse pra ficar com ela
+      A                E
+Você iria ficar sem ninguém
+
+ A
+A Deus então pedi perdão
+        E     G#      C#m
+E fiz a ele um novo pedido
+   E                 B
+Que olhe sua mãe por mim
+            A         B        E
+Enquanto eu cuido de você meu filho
+
+(solo)
+
+Naquele dia lá no hospital....
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F# = 2 4 4 3 2 2
+G# = 4 3 1 1 1 4

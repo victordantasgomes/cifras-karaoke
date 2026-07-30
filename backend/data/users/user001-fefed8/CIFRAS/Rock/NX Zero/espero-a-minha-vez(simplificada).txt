@@ -1,0 +1,105 @@
+@titulo: espero-a-minha-vez(simplificada)
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nx Zero - Espero a Minha Vez
+
+Intro 2x: E  B4  C#m7
+
+Primeira parte:
+E       B4          C#m7
+  Se o medo e a cobrança
+E        B4        C#m7
+  Tiram minha esperança
+                A9                 C#m7
+  Tento me lembrar, de tudo que vivi
+                   A9                      B4
+  E o que tem por dentro, ninguém pode roubar
+
+Refrão:
+                 A9         E  B4
+Descanso agora, pois os dias ruins
+ C#m7          A9
+Todo mundo tem
+       E      B4
+Já jurei pra mim
+ C#m7         A9
+Não desanimar
+
+       E         B4
+E não ter mais pressa
+              C#m7        D6(9)
+Eu sei que o mundo vai girar
+               C#m7      C7M          B4
+O mundo vai girar, eu espero a minha vez
+
+( E B4 C#m7 ) (2x)
+
+E     B4         C#m7
+  O suor e o cansaço
+E        B4             C#m7
+  Fazem parte dos meus passos
+                    A9           C#m7
+  O que nunca esqueci é de onde vim
+                   A9                      B4
+  E o que tem por dentro, ninguém pode roubar
+
+Refrão:
+                 A9         E  B4
+Descanso agora, pois os dias ruins
+ C#m7          A9
+Todo mundo tem
+       E      B4
+Já jurei pra mim
+ C#m7         A9
+Não desanimar
+       E         B4
+E não ter mais pressa
+              C#m7        D6(9)
+Eu sei que o mundo vai girar
+               C#m7      C7M          B4
+O mundo vai girar, eu espero a minha vez
+
+Segunda parte:
+  D6(9)
+E eu não to aqui pra dizer o que é certo e errado
+ C#m7                         B4
+Ninguém tá aqui pra viver em vão
+         D6(9)                      C#m7                       B4
+Então é bom valer a pena, então é pra valer a pena, ou melhor não
+
+Base solo 3x:  A9 E B4 C#m7
+               D6(9)  C#m7
+
+A9       E  B4
+  Os dias ruins
+   C#m7       A9
+  Todo mundo tem
+        E       B4
+  Já jurei pra mim
+   C#m7      A9
+  Não desanimar
+         E         B4
+  E não ter mais pressa
+                C#m7        D6(9)
+  Eu sei que o mundo vai girar
+                 C#m7      C7M          B4
+  O mundo vai girar, eu espero a minha vez
+
+( E E4 E E4 E )
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B4 = X 2 4 4 0 0
+C#m7 = X 4 6 6 0 0
+C7M = X 3 5 5 0 0
+D6(9) = X 5 X 4 5 5
+E = 0 2 2 1 0 0
+E4 = X 7 7 9 0 0

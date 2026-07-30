@@ -1,0 +1,113 @@
+@titulo: fogo
+@autor:
+@intérprete: Scalene
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Scalene - Fogo
+
+Intro: F E G F A G Bb
+
+Riff:( D E F G  D E F A )
+
+Primeira Parte:
+D       E
+Desespero urgente
+Gm        D ( F )
+Não conhece a dor
+D        E
+De vê-lo embora
+Gm        D
+Sem deixar uma flor
+
+Pré-Refrão:
+ F    E
+Não é saudade
+ G   F#
+Insanidade
+A      G   Bb
+É falta de raiz
+
+Segunda Parte:
+D          E
+Tanto a felicidade
+Gm        D  ( F )
+Quanto a sua vilã
+D           E
+As convido pra entrar
+Gm         D
+De seu gosto provar
+
+Pré-Refrão:
+F   E
+Não me iludo
+G   F#
+Não é absurdo
+ A G      Bb
+Como prefiro ver
+
+Refrão:
+       G
+Que com fogo vem
+Bb       G
+ A reconstrução
+Bb        G
+ Do medo a solução
+Bb        D E Gm D
+ Nada é em vão
+ Bb         Am
+ Me de um pouco de tempo
+
+Riff: ( D E F G D E F A )
+
+Terceira parte:
+D          E
+Feliz só serei se
+Gm         E( F )
+Deixar cada derrota
+D         E
+Ser um aprendizado
+Gm           D
+Vencer dentro de mim
+
+Pré-Refrão:
+F      E
+Não é falacia
+G    F#
+É comprovado
+A    G
+É necessário 
+Bb
+Ver
+
+Ultimo Refrão:
+       G
+Que com fogo vem
+Bb        G
+ A reconstrução
+Bb        G
+ Do medo a solução
+Bb       D E Gm D
+Nada é em vão
+Bb           Am
+Me de um pouco de tempo
+Bb         Am
+Tempo pra respirar
+Bb           Am     G
+Respirar o que a vida der
+
+----------------- Acordes -----------------
+G*  = 3 2 0 0 0 3 - (*F na forma de G)
+Gm*  = 3 5 5 3 3 3 - (*Fm na forma de Gm)
+A*  = X 0 2 2 2 0 - (*G na forma de A)
+Am*  = X 0 2 2 1 0 - (*Gm na forma de Am)
+Bb*  = X 1 3 3 3 1 - (*Ab na forma de Bb)
+D*  = X X 0 2 3 2 - (*C na forma de D)
+E*  = 0 2 2 1 0 0 - (*D na forma de E)
+F*  = 1 3 3 2 1 1 - (*D# na forma de F)
+F#*  = 2 4 4 3 2 2 - (*E na forma de F#)

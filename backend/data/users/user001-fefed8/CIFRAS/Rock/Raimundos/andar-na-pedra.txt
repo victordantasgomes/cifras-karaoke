@@ -1,0 +1,180 @@
+@titulo: andar-na-pedra
+@autor:
+@intérprete: Raimundos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raimundos - Andar Na Pedra
+
+Assim como outras músicas do grupo, a guitarra e o baixo estão afinados com a sexta corda (a
+mais grossa) em Ré (D) ao invés de Mi (E). Caso você queira tocar ouvindo a música, afine seu
+instrumento (basta afinar a 5ª corda baseando-se na 3ª casa da 6ª corda, ao invés da 5ª casa
+como é de costume, e a partir da 5ª corda afinar as outras como se afina normalmente) e consi-
+dere as notas como se a afinação fosse a normal (em Mi).
+
+A introdução é tocada por 3 guitarras. A separação por "|" indica apenas o local que inicia a
+seqüência que irá se repetir, ou seja, o baixo e a primeira guitarra iniciam no mesmo instante.
+As partes onde não consta o baixo considere as mesmas notas para o baixo e para a guitarra.
+
+Introdução:
+
+Baixo:
+ G-------  |  ---------------------------      ---------------------
+ D-------  |  ---------------------------      ---------------------
+ A-------  |  -----7---7-----7---7-----5- (x3) -----7---7-----7---7-
+ E---0---  |  -0-0---0---0-0---0---0-0---      -0-0---0---0-0---0---
+
+1ª Guitarra ("|" inicia junto com a primeira repetição da seqüência do baixo):
+ E---------------------------------  |  ---------------------------      ---------------------
+ B---------------------------------  |  ---------------------------      ---------------------
+ G---------------------------------  |  ---------------------------      ---------------------
+ D---------------------------------  |  ---------------------------      ---------------------
+ A---------------------------------  |  -----7---7-----7---7-----5- (x2) -----7---7-----7---7-
+ E---0-----------------------------  |  -0-0---0---0-0---0---0-0---      -0-0---0---0-0---0---
+
+
+2ª Guitarra (começa no momento em que a 1ª Guitarra inicia sua primeira repetição da seqüência):
+ E-----------------------------------------------
+ B-----------------------------------------------
+ G-----------------------------------------------
+ D-----6---6-----6---6-----------6---6-----6---6-
+ A-7-7---7---7-7---7---7-7-9-7-7---7---7-7---7---
+ E-----------------------------------------------
+
+3ª Guitarra (junto com a 2ª):
+
+ E-----------------------------------------------
+ B-----------------------------------------------
+ G-----------------------------------------------
+ D-------------------------------6---6-----6---6-
+ A---------------------------7-7---7---7-7---7---
+ E-----------------------------------------------
+
+
+E E G>A E E E G>A A# E E G>A E E E G Gb
+E E G>A E E E G>A A# E E G>A E E G
+
+
+      G---------------------------------      ---------------------
+      D-------------------------3-2-0-2-      ---------------------
+      A--------------------------------- (x3) ---------------------
+      E-0-0------0-0------0-0-----------      -0-0------0-0------0-
+
+Ia pra praia sempre sem chinelo
+E tinha o peito-do-pé amarelo
+A sola grossa era feito um pneu
+Corria sempre muito mais que eu
+
+         (E E G>A G>A A# A G E G>A# A G E E G>A G>A A# A G E Gb>G)
+Andar na pedra, mulek, em cima da pedra
+O novo som vem da lapada do povo falando merda
+
+                      (E E G>A G>A>A# A#    E E G>A G>A>A# F)
+Porque a planta do pé dói mais quando pisa nas pontudas
+Escolho as mais redonda que chama pedra buchuda
+
+
+               |                               --------- |
+               |                               --------- |
+               | E E        E E        E E     --------- | (X4) 
+               |                               -3-2-0-2- |
+               |                               --------- |
+               |                               --------- |
+
+Caminha pela trilha que leva por outra trilha
+E lá você vai ver a queda d'agua e que senhora queda
+Lhe peça pra limpar do mal que a tanto tempo assola a Terra.
+Pra saber só quem erra que sangra o pé na subida da serra.
+
+(E E G>A E E E G>A A# E E G>A E E E G Gb
+ E E G>A E E E G>A A# E E G>A E E G)
+Carcaça grossa deixa a marca no chão
+Andar na pedra que cê seca o pé
+Andar na pedra nêga
+Carcaça grossa deixa a marca no chão
+Andar na pedra que cê seca o pé
+Andar na pedra nêga
+
+               |                               --------- |
+               |                               --------- |
+               | E E        E E        E E     --------- |  E
+               |                               -3-2-0-2- |
+               |                               --------- |
+               |                               --------- |
+
+
+            |             ---------------              --------------- |
+            |             ---------------              --------------- |
+            | E E G>A G>A ---------------  E E G>A G>A -4-4-4-4-4-4-4- | (x4)
+            |             -3-3-3-3-3-3-3-              --------------- |
+            |             ---------------              --------------- |
+            |             ---------------              --------------- |
+
+Segura a onda, menina, levanta a saia
+Eu fico louco ela me enrola e me ensina o rumo da praia
+É que o pintor falou que o lado do quadro não tá pra cima.
+Conserta que isso é mal da parede que contamina.
+Mas feio do que chinela havaiana a farda de cana é brega
+
+
+               |                               --------- |
+               |                               --------- |
+               | E E        E E        E E     --------- | (X4) 
+               |                               -3-2-0-2- |
+               |                               --------- |
+               |                               --------- |
+
+O mato vai crescer no Samanda que ali não pega.
+Rumando a rocha eu sigo a dobra
+E deixo a onda vir como ela vier
+Água me leva e é nisso que eu ponho fé
+
+(E E G>A E E E G>A A# E E G>A E E E G Gb)
+Carcaça grossa deixa a marca no chão
+Andar na pedra que cê seca o pé
+Andar na pedra nêga
+Carcaça grossa deixa a marca no chão
+Andar na pedra que cê seca o pé
+Andar na pedra nêga
+Carcaça grossa deixa a marca no chão
+Andar na pedra que cê seca o pé
+Andar na pedra nêga
+
+(E E G>A E E E G>A A#)
+Carcaça grossa deixa a marca no chão
+
+SOLO
+
+                                        A#
+
+ G-------9------------------------------------- -------9--------------------------------------
+ D-8>9-8---8>9-8------------------------------- -8>9-8---8>9-8--------------------------------
+ A---------------9-9-9-9-9--6-6-6-6-6---------- ---------------9-9-9-9-9--6-6-6-6-6-----------
+ E-------------------------------------7-7-7-6- -------------------------------------7-7-7-6--
+
+
+ E------------------------------------------------
+ B-------------------------------------6-6-6-6----
+ G-6>8-8-8>9-8--8-8-8-6>8--6>8-8-8>9-8---------9--
+ D------------------------------------------------ (x2)
+ A------------------------------------------------
+ E------------------------------------------------
+
+
+ E-------------------------------------------
+ B-------------------------------------------
+ G-6---6---6---------------------------------
+ D---9---9---9-9-8-9-8--9-8-6>8-8-9-9-9-9-8--
+ A-------------------------------------------
+ E-------------------------------------------
+
+
+
+Tablatura feita por Rodrigo Corrêa Ribeiro
+
+----------------- Acordes -----------------

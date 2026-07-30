@@ -1,0 +1,10 @@
+@titulo: lugar-certo
+@autor:
+@intérprete: Mr. Gyn
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:

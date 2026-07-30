@@ -1,0 +1,89 @@
+@titulo: aline
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Aline
+
+Intro: C  E  F  G
+       C          Em           F            G
+E|--------------------------------------------------------------------
+B|--------------------------------------------------------------------
+G|--------------------------------------------------------------------
+D|----2---2-2----2-----2--------3---3---------------------------------
+A|--3---3------2-----2---2----3---3---3--5----------------------------
+E|-----------------0--------1-----------------------------------------
+
+
+        C
+Ontem retornei
+    E
+Na areia
+           F
+Branca e ardente
+            G
+Então te esperei
+             C
+Ouvi os teus risos
+         E
+Que eram vindos
+
+       F
+Que uma onda
+             G
+Trouxe ao meus pés
+
+Refrão:
+        C       E
+E eu chamei, chamei
+ F           G
+Aline estou aqui
+        C       E
+E eu chorei, chorei
+   F          G
+Um mar só por ti
+
+            C
+Risquei na areia
+          E
+Teu lindo rosto
+          F
+Sempre sorrindo
+         G
+Talvez de mim
+       C
+A onda mansa
+        E
+Tudo apagou
+            F
+A mesma esperança
+           G
+De te encontrar
+
+(Refrão)
+
+(Intro)
+
+          C
+Sei que ouvi
+          E
+O sino ao longe
+          F
+Que anunciava
+        G
+O amanhecer.
+
+(Refrão 2x)
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

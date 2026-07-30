@@ -1,0 +1,87 @@
+@titulo: faz-de-conta
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Faz de Conta
+
+C#m                                   F#m                                        C#m
+Pra que saber meu nome? Saber do meu passado?
+                         G#                             C#m
+Eu sou igual a tantos amei e fui amado.
+
+Solo: F#m C#m G# C#m (2x)
+
+               C#m
+Vamos fingir que já nos conhecemos,
+Que não existe mais ninguém no mundo,
+Vamos viver a vida inteira nesta noite,
+                            G#
+E tentar aproveitar cada segundo.
+E não me diga nada do que pensa,
+Pense depois seja feliz primeiro,
+Invente uns sonhos porque o mundo de mentira
+                                           C#m
+É mais bonito do que o verdadeiro.
+                   E
+E veja em mim só um desconhecido,
+                      C#m
+Quem sabe até o seu amor perdido,
+
+                 G#                          C#m
+Eu quero ser o que você quiser.
+(Refrão)
+                                F#m                                        C#m
+Pra que saber meu nome? Saber do meu passado?
+                         G#                             C#m
+Eu sou igual a tantos amei e fui amado.
+                                   F#m                                        C#m
+Pra que saber meu nome? Saber do meu passado?
+                                   G#                    C#m         A7
+Não me pergunte nada, fique do meu lado.
+
+               Dm
+Me dê a mão vamos fazer de conta,
+Que o amor existe e tudo é fantasia,
+E que a tristeza está cansada de sofrer
+                                            A
+E por nós dois se transformou em alegria.
+E pode ser que depois dessa noite,
+Venha outra noite e mais outra e quem sabe,
+Pode ser que a vida faça uma surpresa
+                                                Dm
+E que esse amor talvez nunca se acabe.
+               F
+E não serei mais um desconhecido,
+
+Dm
+Serei teu sonho de amor preferido,
+                    A                              Dm
+E o que vai ser o tempo vai dizer.
+
+(Refrão)
+                                 Gm                                         Dm
+Pra que saber meu nome? Saber do meu passado?
+                         A                                Dm
+Eu sou igual a tantos amei e fui amado.
+                                   Gm                                        Dm
+Pra que saber meu nome? Saber do meu passado?
+                                   A                                 Dm
+Não me pergunte nada, fique do meu lado.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+C#m = X 4 6 6 5 4
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G# = 4 3 1 1 1 4
+Gm = 3 5 5 3 3 3

@@ -1,0 +1,10 @@
+@titulo: intervalo-entre-carros
+@autor:
+@intérprete: O Rappa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:

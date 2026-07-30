@@ -1,0 +1,74 @@
+@titulo: nao-desanime
+@autor:
+@intérprete: Ministério Apascentar de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Apascentar de Louvor (Toque No Altar) - Não Desanime
+
+Intro: A4 A A4 A F#m E D
+
+        A
+Não desanime
+         F#m
+Siga em frente
+           E            D
+Lembra de cada promessa do Senhor
+              A
+Em tempos de afronta
+             F#m
+Em tempos de guerra
+         E
+Não retroceda, vá a luta
+           D
+Anima teu coração
+
+     Bm
+Olha para o prêmio
+     G
+Para dupla honra
+
+      Bm
+Que esta preparado
+     D             E
+Pra quem não desistir
+
+
+REFRÃO
+
+     A         D/A
+No lugar da vergonha
+         F#m       E
+Deus vai te levantar
+     A/C#     D
+No lugar da afronta
+     F#m       E
+Ele vai te honrar
+   A/C#        D
+O teu milagre vai chegar
+    Bm         E
+Com Deus você pode contar
+
+A                   C#m
+Deus tem a última palavra
+D                   E      3X
+Deus tem a última palavra
+    D             E
+Ele já decretou a tua vitória
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

@@ -1,0 +1,89 @@
+@titulo: eu-sei
+@autor:
+@intérprete: Papas da Língua
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Papas da Língua - Eu Sei
+
+[Intro]
+
+   C              G         Em      Bm
+E|-0-0------------3---------0-------2----|
+B|-1-1------------3---------0-------3----|
+G|-0-0------------0---------0-------4----|
+D|-2----2-0-0-----0------2--2-------4----|
+A|-3----3-2-0--2--2------2--2--0h2--2----|
+E|-------------3--3--3-2-0--0------------|
+
+C     G    Em              D
+  Eu sei, tudo pode acontecer
+C     G    Em                    D
+  Eu sei, nosso amor não vai morrer
+       Em      Bm7   C           G
+Vou pedir aos céus, você aqui comigo
+       Em     Bm7   C              D7     D7(11)  D7
+Vou jogar no mar, flores pra te encontrar
+
+C      G       Em             D
+  Não sei porque você disse adeus
+
+C      G     Em                D
+  Guardei o beijo que você me deu
+
+       Em      Bm7   C           G
+Vou pedir aos céus, você aqui comigo
+       Em     Bm7   C              D7     D7(11)  D7
+Vou jogar no mar, flores pra te encontrar
+
+ C            G       C         Em
+You say good-bye, and I say hello
+C               G       C         D7  D7(11)  D7
+  You say good-bye, and I say hello
+
+( C  G  Em  Bm )
+( C  G  Em  Bm )
+
+
+C      G       Em             D
+  Não sei porque você disse adeus
+C      G     Em                D
+  Guardei o beijo que você me deu
+
+       Em      Bm7   C           G
+Vou pedir aos céus, você aqui comigo
+       Em     Bm7   C              D7     D7(11)  D7
+Vou jogar no mar, flores pra te encontrar
+
+ C            G       C         Em
+You say good-bye, and I say hello
+C               G       C         D7  D7(11)  D7
+  You say good-bye, and I say hello
+
+( C  G  Em  Bm )
+( C  G  Em  Bm )
+
+[Final]
+
+   C            G
+E|-0-0----------3--|
+B|-1-1----------3--|
+G|-0-0----------0--|
+D|-2----2-0-0---0--|
+A|-3----3-2-0---2--|
+E|--------------3--|
+
+----------------- Acordes -----------------
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+D7(11) = X X 0 2 1 3
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

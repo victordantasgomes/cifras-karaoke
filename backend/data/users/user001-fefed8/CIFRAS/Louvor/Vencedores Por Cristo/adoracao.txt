@@ -1,0 +1,58 @@
+@titulo: adoracao
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Adoração
+
+[Intro] D  C#m  Bm  C#m
+
+D           C#m        Bm        C#m
+Os céus manifestam tua glória Senhor
+D           C#m        Bm        C#m
+Os céus manifestam tua glória Senhor
+D           C#m      F     Dm     E
+E todo o universo proclama teu louvor
+     A        A/C#    D   F#7        Bm  A   G     E7    A  A/C#      F#m
+E ao Deus que tudo criou,            nós exaltamos, Criador, Deus de amor
+     C#m   F#m  Bm  E7  C#m  F#m  Bm     E7   D    E  F#m  G  D  C E7
+Tuas obras manifestam    tuas maravilhas Senhooor
+
+D           C#m        Bm       C#m
+Os céus manifestam tua glória Senhor
+D           C#m        Bm       C#m
+Os céus manifestam tua glória Senhor
+D          C#m       F     Dm      E
+E todo o universo proclama teu louvor
+     A        A/C#    D   F#7    Bm  A   G    E7     A  A/C#      F#m
+E ao Deus que tudo criou,        nós exaltamos, Criador, Deus de amor
+     C#m   F#m Bm   E7  C#m  F#m Bm     E7
+Tuas obras manifestam   tuas maravilhas 
+
+     A        A/C#    D   F#7   Bm  A   G    E7    A   A/C#      F#m
+E ao Deus que tudo criou,       nós exaltamos, Criador, Deus de amor
+     C#m   F#m Bm    E7 C#m  F#m  Bm   E7   D  C#m  Bm  C#m  D
+Tuas obras manifestam   tuas maravilhas, Senhor          
+
+[Final] C#m  Bm  E7  A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

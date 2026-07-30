@@ -1,0 +1,177 @@
+@titulo: aurora
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Aurora
+
+[Intro]  E  E4
+         B  B4
+         A
+
+E  E4  E   E4    E E4
+Abra   os seus braços
+ B4  B    B4  B  B4  A9   [Riff]
+Vá  de encontro  ao redentor
+
+[Riff]
+
+E|------------0--2-------|
+B|--0--0-2-4--0--0-------|
+G|--2--2-2-2--2--2-------|
+D|--2---------2--2-------|
+A|--0---------0--0-------|
+E|-----------------------|
+
+ E  E4   E   E4     E  E4  B4  B  B4  B  B4
+Deixe para trás o que ficou
+   A9    [Riff]
+E busque o amor
+
+
+ E  E4  E   E4   E  E4
+Basta   um sorriso
+     B4     B          B4      B       B4
+E o dia vence a noite, a vida vence a morte
+      A9   [Riff]
+A fé vence a dor
+      [Riff]
+É so você acreditar
+E  E4   E   E4   E  E4   B4   B  B4    B   B4  A9   [Riff]
+Olhe a sua volta e terá tantas  razões   pra  sonhar
+ C#m7/9   B9   E           A9
+Venha sentir, venha encontrar
+ C#m7/9    B9     E
+Há uma força dentro de você
+       A9
+Só te basta por pra fora, dizendo
+
+E   B9   C#m7  A
+Aleluia, Aleluia
+E   B9    C#m7                        A9
+Aleluia, Solte sua voz, hoje é tempo de recomeçar
+E   B9   C#m7  A
+Aleluia, Aleluia
+E   B9    C#m7                        A9
+Aleluia, faça entoar pois Deus em nosso meio está
+
+  E   E4   E   E4  E  E4   B4   B    B4  B  B4  A9  [Riff]
+Transformados pela esperança e pela fé
+E   E4  E  E4    E   E4   B4  B   B4  B    B4   A9  [Riff]
+Aos   quatro cantos de todo planeta iremos   levar
+E  E4  E    E4  E   E4    B4    B   B4      B      B4     A9  [Riff]
+A sua luz que iluminou a nossa vida e fez brilhar tudo aqui
+  [Riff]
+Iremos te seguir
+
+ E   E4  E  E4   E   E4  B4  B   B4    B   B4  A9  [Riff]
+Do amor de Deus nos seremos sempre sentinelas
+  A9    [Riff]
+Uma só lingua, uma só pele, uma única bandeira
+
+ C#m7/9     B9   E9     A9   C#m7/9     B/D#
+Cada nação, o coração que bate aos pedaços
+  E9                        A9
+Quando o dia acaba e o que sobra é a aurora
+
+E   B9   C#m7  A
+Aleluia, Aleluia
+E   B9    C#m7                        A9
+Aleluia, Solte sua voz, hoje é tempo de recomeçar
+E   B9   C#m7  A
+Aleluia, Aleluia
+E   B9    C#m7                        A9
+Aleluia, faça entoar pois Deus em nosso meio está
+
+[Solo]  E  B  C#m  A
+
+E|--11b12~~---11-12-15/11~~--------------------------------~---------|
+B|----------------------------16/14—14/16/14/8~~~~-------------------|
+G|-------------------------------------------------------------------|
+D|-------------------------------------------------------------------|
+A|-------------------------------------------------------------------|
+E|-------------------------------------------------------------------|
+
+E|------------------------------------------------10-----------------|
+B|---------------------------------------------13--------------------|
+G|---10--------------------10---------------10-------14r12—10h1210~~-|
+D|-x-10h12p10-------x------10-12p1012~~--12--------------------------|
+A|-x----------12p10-x—10h12------------------------------------------|
+E|-------------------------------------------------------------------|
+
+E|-----------17~~~~~~------------------------------------------------|
+B|------10-----------------------------------------------------------|
+G|-10----------------------------------------------------------------|
+D|-------------------------------------------------------------------|
+A|-------------------------------------------------------------------|
+E|-------------------------------------------------------------------|
+
+ E
+Dear God I'm here Again
+ B9
+Dear God I'm here again
+ A9
+Dear God I'm here again
+Mais uma vez, mais uma chance para amar
+
+ E
+Dear God I'm here Again
+Sua voz, minha voz em uma só voz
+Uma só voz eu e você
+
+ B
+Dear God I'm here Again
+Sua voz, minha voz em uma só voz
+Uma só voz eu e você
+
+ E    D  C#m7   C   B
+Dear God I'm here Again
+Mais uma Vez, mais uma chance para amar
+Sua voz, minha voz em uma só voz
+
+E   B9   C#m7  A
+Aleluia, Aleluia
+E   B9    C#m7                        A9
+Aleluia, Solte sua voz, hoje é tempo de recomeçar
+E   B9   C#m7  A
+Aleluia, Aleluia
+E   B9    C#m7                        A9
+Aleluia, faça entoar pois Deus em nosso meio está
+
+ E    B9  C#m7   A9)
+Dear God  I'm here Again
+Sua voz, minha voz em uma só voz
+
+ E    B9  C#m7   A9
+Dear God  I'm here again
+Sua voz, minha voz em uma só voz
+Mais uma vez, mais uma chance para amar
+
+E|-----------2-0--|
+B|-----2-4-5------|
+G|-2-4------------|
+D|----------------|
+A|----------------|
+E|----------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B4 = X 2 4 4 5 2
+B9 = X 2 4 4 2 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+C#m7/9 = X 4 2 4 4 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+E9 = 0 2 4 1 0 0

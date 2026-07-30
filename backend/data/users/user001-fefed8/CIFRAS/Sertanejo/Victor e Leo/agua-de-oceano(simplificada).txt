@@ -1,0 +1,73 @@
+@titulo: agua-de-oceano(simplificada)
+@autor:
+@intérprete: Victor e Leo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Victor e Leo - Água de Oceano
+
+Intro 2x: Am7 C G
+
+C                  G           Am7
+ Em pleno deserto te encontrei
+            C11        C
+Nunca imaginava ser assim
+              G     Dm
+O que jamais pensei
+           C11   G     C
+foi ter você perto de mim
+   G       Am7           C11
+o sol queimava minha paz
+                C
+Quando você chegou,
+     G   Am7
+Não sabe o bem que me faz
+   C11    G      C
+a sombra desse amor
+           G           Dm
+Água de oceano, pra beber
+ C11        G       C
+vivo mergulhado em você
+
+     G        Dm
+te amo pra valer
+ C11          G           C  G Am7 C11 C G Dm C11 G
+lembre-se de não me esquecer
+C                  G           Am7
+ Em pleno deserto te encontrei
+            C11        C
+Nunca imaginava ser assim
+              G     Dm
+O que jamais pensei
+           C11   G     C
+foi ter você perto de mim
+   G       Am7           C11
+o sol queimava minha paz
+                C
+Quando você chegou,
+     G   Am7
+Não sabe o bem que me faz
+   C11    G      C
+a sombra desse amor
+           G           Dm
+Água de oceano, pra beber
+ C11        G       C
+vivo mergulhado em você
+     G        Dm
+te amo pra valer
+ C11          G           C  G
+lembre-se de não me esquecer
+
+( Am7 C G ) (3x)
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C11 = X 3 3 0 1 X
+Dm = X X 0 2 3 1
+G = 3 2 0 0 0 3

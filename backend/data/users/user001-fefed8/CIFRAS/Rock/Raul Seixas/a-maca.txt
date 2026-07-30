@@ -1,0 +1,117 @@
+@titulo: a-maca
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - A Maçã
+
+[Intro] E9  Em  E9  Em
+
+[Primeira Parte]
+
+   E9     Em  Am                  D7
+Se esse amor     ficar entre nós dois
+Dm              A7M                   B/A
+   Vai ser tão pobre amor, vai se gastar
+
+[Segunda Parte]
+
+    D
+Se eu te amo e tu me amas
+  D5+
+E um amor a dois profana
+D7                     G
+O amor de todos os mortais
+     Gm            D
+Porque quem gosta de maçã
+  Fº           E7
+Irá gostar de todas
+
+                    A7
+Porque todas são iguais
+
+   D
+Se eu te amo e tu me amas
+  D5+
+E outro vem quando tu chamas
+ D7                   G
+Como poderei te condenar
+     Gm         D
+Infinita tua beleza
+      Fº           E7
+Como podes ficar presa
+         A7         D
+Que nem santa no altar
+
+[Refrão]
+
+   Dm                        Em7(b5)      A7
+Quando eu te escolhi para morar junto de mim
+     Dm                        Em7(b5)       A7
+Eu quis ser tua alma, ter seu corpo, tudo enfim
+ Bm7(b5)                    E7           A7  A7(13-)
+Mas compreendi que além de dois existem mais
+
+[Terceira Parte]
+
+    D
+O amor só dura em liberdade
+D5+
+O ciúme é só vaidade
+ D7                       G
+Sofro mas eu vou te libertar
+      Gm                D
+O que é que eu quero se eu te privo
+ Fº               E7
+Do que eu mais venero
+           A7         D
+Que é a beleza de deitar
+
+[Refrão]
+
+   Dm                        Em7(b5)      A7
+Quando eu te escolhi para morar junto de mim
+     Dm                        Em7(b5)       A7
+Eu quis ser tua alma, ter seu corpo, tudo enfim
+ Bm7(b5)                    E7           A7  A7(13-)
+Mas compreendi que além de dois existem mais
+
+[Terceira Parte]
+
+    D
+O amor só dura em liberdade
+D5+
+O ciúme é só vaidade
+ D7                       G
+Sofro mas eu vou te libertar
+      Gm                D
+O que é que eu quero se eu te privo
+ Fº               E7
+Do que eu mais venero
+           A7         D
+Que é a beleza de deitar
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(13-) = X 0 X 0 2 1
+A7M = X 0 2 1 2 0
+Am = X 0 2 2 1 0
+B/A = X 0 4 4 4 X
+Bm7(b5) = X 2 3 2 3 X
+D = X X 0 2 3 2
+D5+ = X 5 4 3 3 X
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+E9 = 0 2 4 1 0 0
+Em = 0 2 2 0 0 0
+Em7(b5) = X X 2 3 3 3
+Fº = X X 3 4 3 4
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

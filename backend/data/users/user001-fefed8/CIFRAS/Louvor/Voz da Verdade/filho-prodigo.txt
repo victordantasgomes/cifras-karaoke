@@ -1,0 +1,71 @@
+@titulo: filho-prodigo
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Filho Pródigo
+
+Intro: Cm  D#  F
+
+      Cm                     Fm
+O mestre veio e anunciou,parábolas pro povo ouvir.
+     Bb                     D#           G
+E relatou a história de um pai cheio de amor
+      Cm                         Fm
+Dois filhos bons um lar feliz, viviam em paz até que
+        Bb                D#        G
+O mais jovem pediu-lhe a herança e partiu
+      Cm                            Fm  Fm/G  Fm/G#
+Rumou prá longe entre deleites seus bens desperdiçou
+     Bb                                D#
+Desamparado sentindo fome do lar se recordou
+            Fm           G
+Na casa do pai há pão sobrando
+                C  G
+E eu pereço de dor
+ C                E               Am  C7
+Levantar-me-ei e irei ter com meu pai
+     F           Dm           G
+E dir-lhe-ei eu pequei contra ti
+
+C           E             Am G F
+Levantar-me-ei e a ele pedirei
+ C        G         Cm        (Final: F  Fm  C)
+Faz-me um servo de ti
+    Cm                              Fm
+O jovem pôs-se a caminhar e ainda distante do seu lar
+   Bb                   D#          G
+O pai avistou, cansado e triste a retornar
+   Cm                         Fm
+Cheio de amor e compaixão, correu ao filho e o beijou
+   Bb          D#        G
+Jubilante saiu feliz a festejar
+  Cm                           Fm  Fm/G  Fm/G#
+Novas alparcas, vestes e anéis lhe ofereceu
+    Bb                            D#
+E jubilante exclamou, meu filho renasceu
+    Fm                  G
+Estava perdido, mas foi achado
+                 C G
+Meu filho renasceu
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Cm = X 3 5 5 4 3
+D# = X 6 5 3 4 3
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+Fm/G = 3 X 3 1 1 X
+Fm/G# = 4 3 3 1 X X
+G = 3 2 0 0 0 3

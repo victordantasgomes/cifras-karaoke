@@ -1,0 +1,56 @@
+@titulo: a-musica-de-deus
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - A Música de Deus
+
+Intro: Em D C9
+
+Em    E7/4/9                C9          D     Em
+QUANDO    OUVI     TUA VOZ    EU PUDE ENXERGAR
+Em      E7/4/9           C9                   D
+O CAMINHO    DA  VERDADE    PÔDE ME   LIBERTAR
+            D#°     Em            D
+ME TRANSPORTAR DA ETERNA ESCURIDÃO
+       D/C#
+PRA O REINO DE AMOR
+
+Em      E7/4/9       C9                    Em
+AO OUVIR     TUA VOZ,   MEU  MUNDO SE ACALMOU
+        E7/4/9              C9                        D
+O MAR SE     ABRIU, O CÉU    SORRIU E A LUA ME MOSTROU
+             D#°     Em               D
+MILHÕES DE ANJOS CANTANDO AO MEU REDOR
+   D/C#
+A MÚSICA DE DEUS
+
+Refrão:
+
+G       D/F#            Em             C  C/D G
+ME CHAMAM    PRA DANÇAR   AO SOM DO SHEKINAH
+G      D/F#           Em          C   C/D G
+MELODIA   DE  ALEGRIA,   JESUS É A  CANÇÃO
+G       D/F#        Em            C      G/B
+A PAIXÃO,   SALVAÇÃO,   CONVÍVIO DE JUSTIÇA
+   C Em (D C G/B)
+ALELUIA
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D#° = X X 1 2 1 2
+D/C# = X 4 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E7/4/9 = X X 2 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

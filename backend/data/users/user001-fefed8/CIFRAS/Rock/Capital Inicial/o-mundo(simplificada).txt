@@ -1,0 +1,184 @@
+@titulo: o-mundo(simplificada)
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - O Mundo
+
+Intro 2x:
+
+   E
+Tchuru tchu, tchuru tchu
+   A5(9)          C#m
+Tchuru tchuru, tchuru tchu
+
+Primeira parte:
+
+E
+  Você que já esteve no céu
+                          A5(9)
+Foi tudo divertido pra você
+
+Chega a hora então
+       C#m
+De provar tudo que existe
+E
+  Tire agora os sapatos
+
+Jogue tudo pro alto, sinta o chão
+
+A5(9)
+      Aprender a andar descalço
+                C#m
+Num mundo de asfalto e sem coração
+  B5(9)          E             A5(9)
+Até que o mundo gire ao seu redor
+
+Repete Intro 2x:
+
+   E
+Tchuru tchu, tchuru tchu
+   A5(9)          C#m
+Tchuru tchuru, tchuru tchu
+
+Segunda Parte:
+
+E
+  Obrigado por passar mas estou de saída
+                             A5(9)
+Tem alguma coisa nova pra fazer
+                       C#m
+Vamos lá então ter um dia diferente
+E
+  Eu só quero curtir, ficar à toa, viver numa boa
+A5(9)
+      E você quer respostas
+        C#m
+Exige provas e músicas novas
+  B5(9)          E             A5(9)
+Até que o mundo gire ao seu redor
+
+Refrão:
+
+F#
+   Vão falar que você não é nada
+A5(9)
+      Vão falar que você não tem casa
+E                     B5(9)
+  Vão falar que você não merece
+    C#m
+Que anda bebendo, está perdido
+F#
+   E não importa o que você dissesse
+A5(9)
+      Você seria desmentido
+E                    B5(9)
+  Vou falar que você usa drogas
+C#m
+E diz coisas sem sentido
+A5(9)              E
+      Se eu for ligar
+           C#m          B5(9)
+Para o que é que vão falar
+          A5(9)
+Não faço nada
+
+Terceira Parte:
+
+E
+  Eu procuro tentar entender
+                             A5(9)
+Porque sou importante pra você
+                              C#m
+Já que é bem melhor ser importante pra si mesmo
+E
+  Eu não quero mudar
+
+Ser mais discreto, ser mais esperto
+A5(9)
+      Já cansei de propostas
+        C#m
+Dar respostas e ter que dar certo
+  B5(9)          E             A5(9)
+Até que o mundo gire ao meu redor
+
+Refrão:
+
+F#
+   Vão falar que você não é nada
+A5(9)
+      Vão falar que você não tem casa
+E                     B5(9)
+  Vão falar que você não merece
+    C#m
+Que anda bebendo, está perdido
+F#
+   E não importa o que você dissesse
+A5(9)
+      Você seria desmentido
+E                    B5(9)
+  Vou falar que você usa drogas
+C#m
+E diz coisas sem sentido
+A5(9)              E
+      Se eu for ligar
+           C#m          B5(9)
+Para o que é que vão falar
+          A5(9)
+Não faço nada
+
+Ponte:
+
+   E            A5(9)          C#m
+Tchuru tchu, Tchuru tchuru, Tchuru tchu
+   F#         A5(9)           E
+Tchuruthu, tchu tchu tchu, tchuru
+
+Refrão:
+
+F#
+   Vão falar que você não é nada
+A5(9)
+      Vão falar que você não tem casa
+E                     B5(9)
+  Vão falar que você não merece
+    C#m
+Que anda bebendo, está perdido
+F#
+   E não importa o que você dissesse
+A5(9)
+      Você seria desmentido
+E                    B5(9)
+  Vou falar que você usa drogas
+C#m
+E diz coisas sem sentido
+A5(9)              E
+      Se eu for ligar
+           C#m          B5(9)
+Para o que é que vão falar
+          A5(9)
+Não faço nada
+
+Final:
+
+   E
+Tchuru tchu, tchuru tchu
+   A5(9)          C#m
+Tchuru tchuru, tchuru tchu
+   E
+Tchuru tchu, tchuru tchu
+   A5(9)          C#m     B5(9)  E  A5(9)
+Tchuru tchuru, tchuru tchu
+
+----------------- Acordes -----------------
+A5(9) = X 0 2 2 0 0
+B5(9) = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2

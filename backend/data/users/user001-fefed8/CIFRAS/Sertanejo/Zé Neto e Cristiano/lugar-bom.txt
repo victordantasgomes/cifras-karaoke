@@ -1,0 +1,117 @@
+@titulo: lugar-bom
+@autor:
+@intérprete: Zé Neto e Cristiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zé Neto e Cristiano - Lugar Bom
+
+[Intro] Bm7  A9
+
+   Bm7                         A9
+E|------------------------------------------|
+B|-------3--x-3-----------------------------|
+G|-----2----x-2----------------------2/4-2--|
+D|---4------x-4--0h2-4-5p4-2p0----2--2/4-2--|
+A|-2--------x-2----------------0------------|
+E|------------------------------------------|
+
+[Primeira Parte]
+
+G             D
+Eu sei que você tem
+               Bm7
+Um lugar bom pra morar
+                 A9
+Não tem porque sair de lá
+G                D
+A um cem metros tem
+                   Bm7
+Um parque bom pra caminhar
+
+                     A9
+E um shopping pra você gastar
+
+[Pré-Refrão]
+
+              Em     G
+Mas tem um lugar aqui
+                D    A9
+Que não compara esse
+                  Em        G
+E a sensação que vai sentir
+                    Em   A9
+Vai ser melhor mil vezes
+
+[Refrão]
+
+                    Em
+Vem morar no meu coração
+                     G
+No melhor lugar que tem lá
+              D                  A9
+Sem nenhum vizinho pra te perturbar
+
+                    Em
+Vem morar no meu coração
+                     G
+No melhor lugar que tem lá
+            D           A9
+Hoje só o amor pode entrar
+
+( Em  G  D  A9 )
+
+[Pré-Refrão]
+
+              Em     G
+Mas tem um lugar aqui
+                D    A9
+Que não compara esse
+                  Em        G
+E a sensação que vai sentir
+                    Em   A9
+Vai ser melhor mil vezes
+
+[Refrão]
+
+                    Em
+Vem morar no meu coração
+                     G
+No melhor lugar que tem lá
+              D                  A9
+Sem nenhum vizinho pra te perturbar
+
+                    Em
+Vem morar no meu coração
+                     G
+No melhor lugar que tem lá
+            D           A9
+Hoje só o amor pode entrar
+
+                    Em
+Vem morar no meu coração
+                     G
+No melhor lugar que tem lá
+              D                  A9
+Sem nenhum vizinho pra te perturbar
+
+                    Em
+Vem morar no meu coração
+                     G
+No melhor lugar que tem lá
+            D           A9
+Hoje só o amor pode entrar
+
+[Final] Em  G  D  A9
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

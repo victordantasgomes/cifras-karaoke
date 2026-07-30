@@ -1,0 +1,53 @@
+@titulo: tu-es-soberano
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Tu És Soberano
+
+G        D/F#           Em
+Tu és, soberano sobre a terra
+         D             C9
+Sobre o céus tu és Senhor
+D    G     D
+Absoluto
+
+G           D/F#      Em
+Tudo, que existe acontece
+     D            C9
+Tu, sabes muito bem
+D          G
+Tu, és tremendo
+
+     Am  C         G
+Mas, ape-sar dessa glória que tem
+Am        Bm  C     G          D/F#
+Tu, te impor-tas comigo também
+
+   Em7            Bm7
+E, esse amor tão grande
+  C         C#°       D
+Eleva-me amarra-me a ti
+
+C/D        D   G
+Tu és, tremen-do
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#° = X 4 5 3 5 3
+C/D = X X 0 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3

@@ -1,0 +1,68 @@
+@titulo: deve-ser-amor
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Deve Ser Amor
+
+Intro:G D G C G/B Am D4 D G C/G G C/G G
+
+     G                     D/F#
+eu tento esconder no meu olhar
+     F6                     E     D/F# E/G#
+alguma coisa que me faz sonhar
+  Am          Am7+           Am7
+deve ser você quem faz meu coração bater
+     F            C/E             D4  D
+descompassado assim , sem se conter
+  G                    D/F#
+essa doce mágica me faz
+  F6          G7       C
+desejar seu beijo só pra mim
+   Cm                       G       D/F# Em
+olhar você me faz querer bem mais
+     Am7         D7          G      F/A G/B
+viver essa emoção que não tem fim
+     C         G/B   Am        Em
+deve ser amor , deve ser amor  ,
+     C         G/B    Am      D    G
+deve ser amor , amor por você
+
+D4 D       G                            D
+explode dentro do meu peito e não se apaga
+                      D/F#        G       G4
+desejo ardente,fogo vivo no meu coração
+           G                           D
+eu sou a sede e o seu amor é o copo d´água
+                        D/F#          G4  G C/D G
+não deixe quem te ama morrer de paixão
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am7+ = X 0 2 1 1 0
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+C/E = 0 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F6 = 1 X 0 2 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G4 = 3 5 5 5 3 3
+G7 = 3 5 3 4 3 3

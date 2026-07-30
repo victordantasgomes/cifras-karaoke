@@ -1,0 +1,48 @@
+@titulo: vem-espirito(1)
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Vem, Espirito
+
+D        G/D
+Vem espírito
+       A/D
+Vem espírito
+   C9                 Bm7
+Sozinho eu não posso mais
+   C9                 Bm7
+Sozinho eu não posso mais
+   C9            G/A  A7     D
+Sozinho eu não posso mais viver
+
+ D
+Eu quero amar
+         A/C#
+Eu quero ser
+  Bm7            F#m7
+Aquilo que Deus quer
+   C9                Bm7
+Sozinho eu não posso mais
+   C9                Bm7
+Sozinho eu não posso mais
+
+   C9           G/A   A7     D
+Sozinho eu não posso mais viver.
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A/D = X X 0 6 5 5
+A7 = X 0 2 0 2 0
+Bm7 = X 2 4 2 3 2
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+F#m7 = 2 X 2 2 2 X
+G/A = 5 X 5 4 3 X
+G/D = X 5 5 4 3 X

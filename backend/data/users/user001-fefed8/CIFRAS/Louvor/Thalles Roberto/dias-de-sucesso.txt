@@ -1,0 +1,58 @@
+@titulo: dias-de-sucesso
+@autor:
+@intérprete: Thalles Roberto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Thalles Roberto - Dias de Sucesso
+
+Intro: A A7+ B4/F#  (2x)
+
+     B4/F#  Bm6    D5/B  D6(9)/B  Bm   E7/B  D5(9)
+E|---x--------x--------x--------7--------7------7------x----|
+B|---0-------7--------x--------7--------7------9------3----|
+G|---6-------7-------7--------7--------7------7------2----|Obs:Formas do Acordes!
+D|---4-------6-------7--------7--------9------9------0----|
+A|---0-------x--------x---------7-------7------7------0----|
+E|---x-------7--------7--------x--------x------x-------x----|
+
+
+A               A7+ B4/F#  A7+                               Bm7       Bm6 D5/B
+Pai eu sei,                   tenho vivido dias de sucesso
+    Bm6                                                D6(9)/B Bm E7/B
+e todo mundo chega e quer ficar perto de mim
+                                               A                       A7+ B4/F# A7+
+e eu não posso esquecer quem eu sou
+
+A                 A7+         B4/F# A7+
+Eu aprendi,  eu descobri que o sucesso verdadeiro
+          Bm7        Bm6 D5/B                   Bm6
+é ser cheio de Deus,     por que as glórias
+
+                           D6(9)/B Bm E7/B
+desse mundo passam,      eternos são os
+                               A      A7+ B4/F# A7+
+seus projetos pra mim
+
+             D5(9) D9/F#                                                           A
+Pai eu sei,       que eu sou simplesmente um servo do
+A7+ B4/F#            A7+                                  Bm7
+Rei,       e que eu existo pra servir o teu reino,
+Bm6                                                 A          A7+ B4/F#  A7+
+       e a glória que eu recebo eu te dou
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7+ = X 0 2 1 2 0
+B4/F# = 2 2 4 4 5 2
+Bm = X 2 4 4 3 2
+Bm6 = 7 X 6 7 7 X
+Bm7 = X 2 4 2 3 2
+D5(9) = X 5 7 9 X X
+D9/F# = 2 X 0 2 3 0
+E7/B = X 2 2 1 3 X

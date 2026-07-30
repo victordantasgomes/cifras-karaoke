@@ -1,0 +1,77 @@
+@titulo: saudade-brejeira
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Saudade Brejeira
+
+INTRO: D  G  Em  A7  A/G  Em  A7
+
+     D         D7+     D  D7+     F#m         Bm        Em
+Que saudade do meu alazão,    do berrante imitando o trovão,
+A7      Em      A7       Em  A7        G      A7
+   da boiada debaixo do sol,    nos caminhos gerais do
+   D   Em  A7/9     D            D6     D  D6   F#m    Bm
+sertão,         das estrelas da noite luar    capelobo na
+     Em   A7      Em       F#m       Em  A7       Em      A7
+mata azul    do arroz com pequi do ingá     dos amigos de fé
+          D            E7                    A          E7
+da minha terra. Minha terra de Ribeirão das Caldas de olho
+                   A           G                A        D
+d´água, magia e procissão, de congadas do meu chapéu de palha
+Bm        Em     A7         D    B7        E          E7+
+   desse amor natural do coração    Quando mãe traz noticias
+    E  E7+    G#m        C#m       F#m  B7      F#m      B7
+de lá      a vontade é voltar pra ficar,    me abençoa o céu
+     F#m  B7      A        B7             E
+de acauã     de ripina e pinhé num pé de serra,
+
+
+
+2° PARTE
+
+      F#7                       B           F#7
+Minha serra de ouro e de dor dourada quanta tristeza nas
+            B          A          B7         E      C#m
+tardes do sertão que a noite transforma em serenata,
+ F#m          B7          E   B7       E       E6       E
+cantoria que afasta a solidão    O meu peito goiano é assim
+E6      G#m       G°        F#m  B7        F#m        B7
+   de saudade brejeira sem fim,     quando gosta ele diz que
+     F#m          A      B7        E
+trem bão, quando canta viola é paixão
+
+
+SOLO: ( E  E7+ ) G#m  C#m ( F#m  B7 ) 3 Vezes  A  B7  E
+REPETE 2°PARTE
+SOLO: ( E  E7+ ) G#m  C#m ( F#m  B7 ) 3 Vezes  A  B7  E
+VOCALIZAÇÃO: Larara eu... lararara eu...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/G = 3 X 2 2 2 X
+A7 = X 0 2 0 2 0
+A7/9 = 5 X 5 4 2 X
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D6 = X 5 4 2 0 X
+D7+ = X X 0 2 2 2
+E = 0 2 2 1 0 0
+E6 = X X 2 4 2 4
+E7 = 0 2 2 1 3 0
+E7+ = X X 2 4 4 4
+Em = 0 2 2 0 0 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4
+G° = 3 X 2 3 2 X

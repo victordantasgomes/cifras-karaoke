@@ -1,0 +1,46 @@
+@titulo: um-e-mail
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Um E-mail
+
+C              G            Am
+Se eu deixei a porta aberta
+           Em  F           C   F          C            Dm
+do meu coração voce pode entrar sem me avisar mas so entenda
+                   G
+ja nao é facil me achar
+C              G      Am        Em
+me perdi na tempestade da desilusao
+F           C   F          C            Dm
+tudo que sofri apenas senti sem ter voce
+                   G
+mudou de vez a direção
+F            G             Am  F                 G       Am
+so sei que voce faz tanta falta so penso em como poderia ser
+F                 G         C              Dm           G
+mas sei que meu desejo é relativo em poder amar demais voce
+C              G         Am          Em
+seu eu encontrar palavras que possam fazer
+F            C   F           C            Dm                        G
+um resumo de mim tudo que sempre quis te dizer talvez eu mande um e-mail
+C
+pra voce
+
+
+Base: C G Am Em    F C F C Dm G
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

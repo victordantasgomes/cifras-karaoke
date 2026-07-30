@@ -1,0 +1,83 @@
+@titulo: a-cada-10-palavras
+@autor:
+@intérprete: KLB
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+KLB - A cada 10 palavras
+
+Intro: F G Am F G Am F G C F G C
+
+C                      F           G
+Faz tanto tempo que eu venho te seguindo 
+C                      F             G
+Conheço passo a passo todos seus caminhos 
+Am                          G                            
+Sei a hora que acorda e a hora em que vai dormir 
+F        Em            F    Em  Dm    
+Sei tudo de você, e você nada sabe sobre mim  
+C
+Eu descolei pra mim 
+F         G
+O seu telefone 
+C                               F                  G
+E te liguei, mas eu não quis falar meu nome 
+Am                                    G
+Tive medo e quando ouvi a sua voz, na hora desliguei 
+F                Em            F   Em    Dm  G
+E confesso: na verdade me faltou coragem pra dizer  
+     F                          G       Am
+Cada dez palavras que eu falo, onze é você 
+      F                           G      Am
+Cada rosto que eu olho, em todos vejo você 
+Ah, Ah, Ah! 
+ F                        G             C
+Tentei mil vezes te esquecer, mas no fim 
+F                    G           C
+Mil vezes desejei você só pra mim 
+ 
+Dei um tempo 
+Uma hora ou um pouco mais
+
+C                 F         G   
+Até criar coragem pra te falar
+           Gm    
+Mas antes ligar de novo 
+F
+Quis treinar uma vez mais 
+     Gm              F      G
+E assim ter forças pra te encarar  
+
+      F                         G        Am
+Cada dez palavras que eu falo, onze é você 
+      F                           G    Am
+Cada rosto que eu olho, em todos vejo você 
+ F                         G             C
+Tentei mil vezes te esquecer, mas no fim 
+F                    G            C
+Mil vezes desejei você só pra mim 
+      G                               A        Bm     
+Cada dez palavras que eu falo, onze é você 
+     G                            A     Bm     
+Cada rosto que eu olho, em todos vejo você 
+ G                         A           D     
+Tentei mil vezes te esquecer, mas no fim 
+ G                    A        D     
+Mil vezes desejei você só pra mim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

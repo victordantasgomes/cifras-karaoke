@@ -1,0 +1,66 @@
+@titulo: tristeza
+@autor:
+@intérprete: Milionário e José Rico
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Milionário e José Rico - Tristeza
+
+Intro: (F C7 F C7 F) F# G
+
+    G             C      D7    G
+Tristeza porque você não vai embora
+                              D7
+E faz esta saudade lhe acompanhar
+     Am          Am7M    Am7  D7
+Tristeza porque você não vai agora
+                               G  Gº
+E mande a felicidade em seu lugar
+
+    G             C      D7    G
+Tristeza porque você não vai embora
+                              D7
+E faz esta saudade te acompanhar
+     Am          Am7M    Am7  D7
+Tristeza porque você não vai agora
+                               G  Gº G7
+E mande a felicidade em seu lugar
+
+    C
+Tristeza vai pra lá
+
+   G
+Saudade vai também
+ D7
+Vem felicidade
+                     G
+Traz de volta o meu bem
+
+    C
+Tristeza vai pra lá
+   G
+Saudade vai também
+ D7
+Vem felicidade
+                     G
+Traz de volta o meu bem
+
+(F C7 F C7 F) F# G
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am7M = X 0 2 1 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D7 = X X 0 2 1 2
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3
+Gº = 3 X 2 3 2 X

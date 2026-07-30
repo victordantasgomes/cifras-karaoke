@@ -1,0 +1,50 @@
+@titulo: projeto-de-deus
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Projeto de Deus
+
+ A7M   C#m7    F#m7          C#m7
+Tu és Deus de graça e misericórdia
+    D        A/C#   Bm7      Bm/A  E/G#
+Tua vida é a grande razão do meu existir
+   Bm7   D/E  A7M     C#m7   F#m7
+E como eu Te amo, meu Senhor e Rei,
+D  A/C#  Bm7    Bm/A    D/E  E  A7M
+Toda  honra  e   glória sejam a  Ti
+
+    A7M               C#m7        F#m7
+Levantarei as minhas mãos no Santuário e verei
+               C#m7                  D
+A Tua glória, meu Senhor amado e Mestre
+ A/C#       Bm7   Bm/A      E/G#
+Pois Tu és digno de adoração
+D  E       A7M              C#m7
+E com os anjos quero ser iluminado
+     F#m7         C#m7
+Na beleza da Tua santidade
+
+            D           A/C#      Bm7
+Pois minha vida é um projeto de Deus
+
+        E    A7M
+E nada pode mudar
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A7M = X 0 2 1 2 0
+Bm/A = X 0 4 4 3 X
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m7 = 2 X 2 2 2 X

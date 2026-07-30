@@ -1,0 +1,97 @@
+@titulo: sol-entre-nuvens
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Sol Entre Nuvens
+
+Intro: F7M/C    C6/A
+
+Começo:
+
+      F7M/C                C6/A
+E|--------0------------|-----3----------------|
+B|------------1--------|---1----1-------------|
+G|----2----------2-----|-2---------2----------|
+D|--3---------------3--|--------------2-------|
+A|---------------------|----------------------|
+E|---------------------|----------------------|
+
+       C6/A
+E|---3...-------|
+B|---1...-------|
+G|---2...-------|
+D|---2...-------|
+A|---0...-------|
+E|--------------|
+
+C          Am                    C
+  Várias portas num quarto pequeno
+
+                                      F         Fm
+  Eu tenho que escolher qual delas eu vou abrir
+C           Am                C
+  Várias entradas, só uma saída
+                                      F        Fm
+  Acabei de chegar e já estou de partida
+
+G                         Em           Am     C
+ Vamos fugir, pra algum lugar longe daqui
+
+(Refrão)
+
+Am         F
+Sol entre nuvens
+Am             G
+O tempo nunca passa
+Am       F
+Longe daqui
+       Am               F
+Onde o bem e o mal se abraçam
+
+F7M/C         C6/A
+Uuuuuuh uuh uuuuuh (4x)
+
+C         Am                  C
+  Poucas cartas em cima da mesa
+                              F     Fm
+  Muitas dúvidas e poucas certezas
+C          Am                   C
+  Poucas palavras me vem à cabeça
+                                 F    Fm
+  Preciso falar antes que eu esqueça
+
+G                       Em         Am    C
+ Vamos fingir que nós sabemos onde ir
+
+(Refrão) (2x)
+
+Am         F
+Sol entre nuvens
+Am             G
+O tempo nunca passa
+Am       F
+Longe daqui
+       Am               F
+Onde o bem e o mal se abraçam
+
+F7M/C         C6/A
+Uuuuuuh uuh uuuuuh (7x)
+F7M/C          Am
+Uuuuuuh uuuuuuuh
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C6/A = X 0 2 2 1 3
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F7M/C = X 3 3 2 5 X
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3

@@ -1,0 +1,103 @@
+@titulo: tudo-em-dia
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Tudo Em Dia
+
+Intro: G (riff 1)
+
+C                    Am
+ Vou comprar uma casa, vou ganhar dinheiro
+F                       G (riff 1)
+ Vou pensar no futuro, vou fazer um seguro
+C                  Am
+ Vou ganhar o pão nosso de cada dia
+F                    G (riff 1)
+ Vou por tudo o que tenho na garantia
+Am                      C
+ Vou ter conta no banco, vou trabalhar no escritório
+Dm                  F
+ Vou tomar um chope, vou tomar sorvete
+Am                       C
+ Vou tomar remédio, que maravilha
+Dm                F
+ Vou casar e constituir família
+
+G (riff 1)
+
+
+C                 Am
+ Vou andar de táxi, vou deixar o troco
+F                      G (riff 1)
+ Vou pagar os impostos, vou por os filhos na escola
+C                   Am
+ Vou ser respeitado, vou engraxar o sapato
+F                    G (riff 1)
+ Vou botar o chinelo, vou sentar na poltrona
+Am                 C
+ Vou jantar na melhor churrascaria
+Dm              F
+ Vou pedalar domingo na ciclovia
+Am              C
+ Vou ter conta na mercearia
+Dm             F
+ Vou gozar a aposentadoria
+
+riff 1
+riff 2
+
+(Am7 Em) (riff 2)
+Vou ter cic, eleitor, reservista, rg
+Automóvel, tv, Crediário, poupança, carnê  (2x)
+
+C         Am (riff 3) C  Am
+ Tudo em dia
+C         Am C  Am
+ Tudo em dia
+C         Am C  Am
+ Tudo em dia
+C         Am C  Am
+ Tudo em dia
+
+riff 1
+   G
+E|---------------------
+B|---------------------
+G|---------------------
+D|---------------------
+A|-4/5-5-5-5-4/5-5-5-5-
+E|-2/3-3-3-3-2/3-3-3-3-
+
+riff 2
+   Am7     Em       Am7     Em
+E|-----------------------------
+B|-----------------------------
+G|---------9~~--ou-------------
+D|-5-7-5-7---------------------
+A|------------------5-7-5-7-2--
+E|------------------3-5-3-5-0~~
+
+riff 3
+   C              Am
+E|----------------------------
+B|-1--1-1---------------------
+G|-0--0-0-----0^2-2--2-2---2--
+D|-X--X-X-0^2-----2--2-2---2--
+A|-3--3-3---------0--0-0---0--
+E|----------------------------
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

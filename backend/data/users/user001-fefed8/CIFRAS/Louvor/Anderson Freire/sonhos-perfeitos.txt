@@ -1,0 +1,90 @@
+@titulo: sonhos-perfeitos
+@autor:
+@intérprete: Anderson Freire
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Anderson Freire - Sonhos Perfeitos
+
+Ton: D
+
+Int: D A9 Bm7 A9 G D A9 Bm7 G
+
+
+Em7                A9
+Embora eu tenha ciência em mim
+G                     A9
+Embora eu seja tudo o que construí
+Bm7     A9         G
+O especial está em ti
+D                    Em7
+O essencial habita em ti
+                     A
+E é isso o que me torna feliz, feliz
+      Em
+Teus sonhos não morrem
+       A9
+Mesmo que eu adormeça
+     Em
+Tão simples são os meios
+
+         A9
+Pra que eles aconteçam
+G                    D/F#
+Vou te dar o meu coração
+                  Em7
+Pra viver na sua dimensão
+                G     A9        D     A9
+Não fui gerado pra sonhar em vão
+
+
+      D               Bm7            A9      G
+Vem substituir meus sonhos guardados no peito
+             D/F#      Em7     A9
+Só o senhor tem o melhor pra mim
+      D             Bm7               G          D/F#
+Vem substituir os planos que vida traçou do seu jeito
+     Em7          A9               Bm    F#4/B
+Mas, somente os seus são os perfeitos
+      Em7           G             A9          D
+Vem substituir, senhor te dou todo o direito
+
+D A9 Bm7 A9 G D A9 Bm7 G
+
+     Em7              A9
+Problemas que não precisam existir
+    Em7                    A9
+Sorrisos que chegam pra logo partir
+Bm7             A9        G
+Coisas que se podem evitar
+          D/F#       Em
+Eu não preciso mais errar
+                     A9
+Nas mesmas coisas, eu aprendi
+         Em7                      A9
+Que teus sonhos não morrem mesmo que eu adormeça
+         Em7                      A9
+Tão simples são os meios pra que eles aconteçam
+G                    D/F#
+Vou te dar o meu coração
+                  Em7
+Pra viver na sua dimensão
+                G     A9        D     A9
+Não fui gerado pra sonhar em vão
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#4/B = X 2 4 4 2 2
+G = 3 2 0 0 0 3

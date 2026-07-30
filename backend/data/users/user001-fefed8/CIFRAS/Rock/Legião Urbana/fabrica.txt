@@ -1,0 +1,132 @@
+@titulo: fabrica
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Fábrica
+
+[Intro teclado]
+
+E|----------------------------------------------|
+B|---7---10---9---7---3---5---2-----9---14------|
+G|----------------------------------------------| (esse arranjo acompanha a
+D|----------------------------------------------| introdução da guitarra)
+A|----------------------------------------------|
+E|----------------------------------------------|
+
+[Intro Guitarra]
+
+E|----------------------------------------------|
+B|--------------------10------------------------|
+G|--------------------10------------------------| (repete isso várias vezes
+D|--------------------10------------------------| até começar a música)
+A|------------------------------------------x---|
+E|-10-10-10-10-8--10-----10-10-10-10-13-10--x---|
+
+ (D G D G)
+
+Riff 1 (Faça esse riff no lugar do acorde 'D')
+
+        D
+E|------5--------5-----5------|
+B|----7-----7------7-----7----|
+G|-7------7----7-----7-----7--|
+D|----------------------------|
+A|----------------------------|
+E|----------------------------|
+
+Riff 1
+ D      G           D    G             D
+ Nosso dia vai chegar, teremos nossa vez
+     G          D       G
+ Não é pedir demais quero justiça
+
+ C           Bm
+ Quero trabalhar em paz
+ Am           G
+ Não é muito o que lhe peço
+ D           C
+ Eu quero trabalho honesto
+    Em             A7
+ Em vez de escravidão
+
+Riff 1
+ D       G         D       G
+ Deve haver algum lugar onde o mais forte
+ D      G            D         G
+ Não consegue escravizar quem não tem chance
+
+
+D      A       F#m   A
+ De onde vem a indiferença
+ G    D/F#   Em      A
+ Temperada a ferro e fogo?
+D A    F#m       A       G  D/F#      Em A
+  Quem guarda os portões da fábrica?
+
+   D       G        D     G
+ O céu já foi azul, mas agora é cinza
+ D                     G         D     G
+ E o que era verde aqui já não existe mais
+C             Bm
+ Quem me dera acreditar
+ Am          G        D             C
+ Que não acontece nada de tanto brincar com fogo
+     Em              A7
+ Que venha o fogo então
+
+Solo:
+E|-----------------------|
+B|-4-4-4-2--4-4-4-2--4-2-|
+G|-----------------------| (9x)
+D|-----------------------|
+A|-----------------------|
+E|-----------------------|
+
+
+Riff 2
+        D                                            G          Bm
+E|-3/5-5--3-3-3/5-5--3-3-3/5-5--3-3-3/5-5--3-3-----------------------|
+B|-5/7-7--5-5-5/7-7--5-5-5/7-7--5-5-5/7-7--5-5--8-8-8-8-8--7-7-7-7-7-|
+G|----------------------------------------------7-7-7-7-7--7-7-7-7-7-|
+D|----------------------------------------------9-9-9-9-9--9-9-9-9-9-|
+A|-------------------------------------------------------------------|
+E|-------------------------------------------------------------------|
+
+        Em         A
+E|----------------------|
+B|-8-8-8-8-8--5-5-5-5-5-|
+G|-9-9-9-9-9--6-6-6-6-6-|
+D|-9-9-9-9-9--7-7-7-7-7-|
+A|----------------------|
+E|----------------------|
+
+
+Riff 2
+ D   A    F#m        A      G   D/F# Em
+ Esse ar deixou minha vista cansada
+ A     D   A F#m A
+ Nada demais
+         G   D/F#  Em A
+ Nada demais
+
+
+Tab de teclado add por: Bruno Legionários-BH.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

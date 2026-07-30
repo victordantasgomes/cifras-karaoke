@@ -1,0 +1,39 @@
+@titulo: acende-o-fogo
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Acende o Fogo
+
+C9
+Acende o Fogo em meu Coração
+F9/A
+Eu não Resistirei eu não Controlarei
+Am
+Eu quero Mais de Ti Deus
+F9/A                  C9
+Eu quero Mais de Ti Deus
+
+Intr: C9  F9/A  Am  F9/A  C9
+
+C9
+Não há Outro Lugar
+F9/A
+Onde eu queria estar
+Am
+Não há Outro Lugar
+F9/A
+Que em Teu Amor
+          C9
+Em Teu Amor
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C9 = X 3 5 5 3 3
+F9/A = 5 X X 5 6 3

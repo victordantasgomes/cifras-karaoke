@@ -1,0 +1,164 @@
+import { useEffect, useState } from 'react'
+import { useNavigate, useParams } from 'react-router-dom'
+import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
+import api from '../services/api'
+import { useDebounce } from '../hooks/useDebounce'
+import { usePlaylistStore } from '../store/playlistStore'
+
+export default function SetlistDetail() {
+  const { id } = useParams()
+  const navigate = useNavigate()
+  const qc = useQueryClient()
+  const playlist = usePlaylistStore()
+  const [items, setItems] = useState([])
+  const [nome, setNome] = useState('')
+  const [dragIdx, setDragIdx] = useState(null)
+  const [q, setQ] = useState('')
+  const dq = useDebounce(q)
+
+  const { data } = useQuery({
+    queryKey: ['setlist', id],
+    queryFn: () => api.get(`/setlists/${id}`).then((r) => r.data),
+  })
+  useEffect(() => {
+    if (data) { setItems(data.items); setNome(data.nome) }
+  }, [data])
+
+  const { data: results } = useQuery({
+    queryKey: ['songs-pick', dq],
+    queryFn: () => api.get('/songs', { params: { q: dq, page_size: 8 } }).then((r) => r.data),
+    enabled: dq.length >= 2,
+  })
+
+  const save = useMutation({
+    mutationFn: (next) => api.put(`/setlists/${id}`, { nome, items: next.map((i) => i.ref) }),
+    onSuccess: () => qc.invalidateQueries(['setlist', id]),
+  })
+
+  // move um item de `from` para `to` — usado tanto pelos botões ▲▼ quanto pelo drag-and-drop
+  const moveItem = (from, to) => {
+    if (to < 0 || to >= items.length || from === to) return
+    const next = [...items]
+    const [moved] = next.splice(from, 1)
+    next.splice(to, 0, moved)
+    setItems(next)
+    save.mutate(next)
+  }
+
+  // drag-and-drop nativo para reordenar (além dos botões ▲▼, mais confiáveis)
+  const onDrop = (target) => {
+    if (dragIdx !== null) moveItem(dragIdx, target)
+    setDragIdx(null)
+  }
+
+  const addSong = (s) => {
+    const next = [...items, { ref: `${s.interprete}/${s.titulo}`, song: s }]
+    setItems(next); setQ(''); save.mutate(next)
+  }
+  const removeAt = (i) => {
+    const next = items.filter((_, idx) => idx !== i)
+    setItems(next); save.mutate(next)
+  }
+
+  // só músicas de fato linkadas (achadas no índice) entram na fila de reprodução
+  const playableItems = items.filter((i) => i.song)
+  const thisPlaylistActive = playlist.active && playlist.setlistId === id
+
+  const playFrom = (playableIndex) => {
+    playlist.start(id, nome, playableItems, playableIndex)
+    navigate(`/karaoke/${playableItems[playableIndex].song.slug}`)
+  }
+  const resumePlaylist = () => {
+    const song = playlist.queue[playlist.index]?.song
+    if (song) navigate(`/karaoke/${song.slug}`)
+  }
+
+  if (!data) return <div className="empty">Carregando…</div>
+
+  let playableIndex = -1
+
+  return (
+    <>
+      <div className="row no-print" style={{ justifyContent: 'space-between' }}>
+        <div>
+          <input className="input" style={{ fontSize: 22, fontWeight: 700, background: 'transparent', border: 'none', padding: 0 }}
+            value={nome} title="Clique para renomear"
+            onChange={(e) => setNome(e.target.value)}
+            onBlur={() => { if (nome.trim()) save.mutate(items); else setNome(data.nome) }}
+            onKeyDown={(e) => {
+              if (e.key === 'Enter') e.target.blur()
+              else if (e.key === 'Escape') { setNome(data.nome); e.target.blur() }
+            }} />
+          <div className="page-sub">{items.length} música(s) · arraste ou use ▲▼ para reordenar</div>
+        </div>
+        <button className="btn" onClick={() => window.print()}>Imprimir</button>
+      </div>
+
+      <div className="row no-print" style={{ marginBottom: 16 }}>
+        {thisPlaylistActive ? (
+          <>
+            <button className="btn primary" onClick={resumePlaylist}>
+              ▶ Continuar (música {playlist.index + 1}/{playlist.queue.length})
+            </button>
+            <button className="btn danger" onClick={() => playlist.stop()}>■ Parar playlist</button>
+          </>
+        ) : (
+          <button className="btn primary" disabled={!playableItems.length} onClick={() => playFrom(0)}>
+            ▶ Tocar playlist ({playableItems.length} música{playableItems.length === 1 ? '' : 's'})
+          </button>
+        )}
+      </div>
+
+      <div className="card no-print" style={{ marginBottom: 16 }}>
+        <input className="input" placeholder="Buscar música para adicionar…" value={q}
+          onChange={(e) => setQ(e.target.value)} />
+        {dq.length >= 2 && results?.items.length === 0 && (
+          <div className="empty" style={{ padding: '16px 0' }}>Nenhuma música encontrada para "{dq}".</div>
+        )}
+        {results?.items.map((s) => (
+          <div key={s.slug} className="song-row" style={{ gridTemplateColumns: '1fr auto' }}
+            onClick={() => addSong(s)}>
+            <div><span className="title">{s.titulo}</span> <span className="meta">— {s.interprete}</span></div>
+            <span className="chip">adicionar</span>
+          </div>
+        ))}
+      </div>
+
+      <div className="card" style={{ padding: 0 }}>
+        {items.length === 0 && <div className="empty">Setlist vazio. Busque músicas acima para montar o repertório.</div>}
+        {items.map((item, i) => {
+          if (item.song) playableIndex += 1
+          const myPlayableIndex = playableIndex
+          return (
+            <div key={item.ref + i} className="song-row" draggable
+              style={{ gridTemplateColumns: '46px 1fr auto auto', opacity: dragIdx === i ? 0.4 : 1, cursor: 'grab' }}
+              onDragStart={() => setDragIdx(i)}
+              onDragOver={(e) => e.preventDefault()}
+              onDrop={() => onDrop(i)}
+              onDragEnd={() => setDragIdx(null)}>
+              <div className="row no-print" style={{ flexDirection: 'column', gap: 2, flexWrap: 'nowrap' }}>
+                <button type="button" className="btn ghost" style={{ padding: '1px 6px', fontSize: 11, lineHeight: 1.4 }}
+                  disabled={i === 0} title="Mover para cima"
+                  onClick={(e) => { e.stopPropagation(); moveItem(i, i - 1) }}>▲</button>
+                <button type="button" className="btn ghost" style={{ padding: '1px 6px', fontSize: 11, lineHeight: 1.4 }}
+                  disabled={i === items.length - 1} title="Mover para baixo"
+                  onClick={(e) => { e.stopPropagation(); moveItem(i, i + 1) }}>▼</button>
+              </div>
+              <div>
+                <div className="title">{i + 1}. {item.song?.titulo || item.ref}</div>
+                <div className="meta">
+                  {item.song?.interprete || ''} {item.song?.tom && <span className="chip">{item.song.tom}</span>}
+                  {!item.song && <span className="chip" style={{ background: 'var(--danger)', color: '#fff' }}>⚠ música não encontrada</span>}
+                </div>
+              </div>
+              {item.song && (
+                <button className="btn" onClick={() => playFrom(myPlayableIndex)} title="Tocar a playlist a partir daqui">▶</button>
+              )}
+              <button className="btn danger no-print" onClick={() => removeAt(i)}>×</button>
+            </div>
+          )
+        })}
+      </div>
+    </>
+  )
+}

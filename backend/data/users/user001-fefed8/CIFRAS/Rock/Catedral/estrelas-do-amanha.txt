@@ -1,0 +1,61 @@
+@titulo: estrelas-do-amanha
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Estrelas do Amanhã
+
+Intro: B  G  B  G
+
+B               G            B
+Não há mais rancor entre a gente
+        G                       B
+E nem desamor, é diferente
+             G          B
+Não quero o temor da defesa
+          G               E
+Nem a ilusão da certeza
+
+B               G
+A vida é assim, displicente.
+B          G            B
+E muda sem dar a vertente
+        G             B
+Nos leva numa correnteza
+                G       E
+Nos prende com sua destreza
+
+Coro:
+
+          G#m
+E você não vem
+              E
+E a noite chegou
+          C#m
+Estrelas no céu
+F#                  E
+Sussurram talvez amanhã
+            G#m
+E sem ter noção
+            E
+Avesso a razão
+          C#m
+O meu coração
+F#              E
+Segue as estrelas
+
+( E  G#m  E  C#m  F#  B )
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

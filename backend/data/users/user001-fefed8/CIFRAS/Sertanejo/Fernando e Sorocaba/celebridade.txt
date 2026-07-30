@@ -1,0 +1,140 @@
+@titulo: celebridade
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - Celebridade
+
+(intro)
+
+E|------------------------|
+B|---5-5-3-5--------------|
+G|---2-2-2-2----2-2-0-2---|
+D|--------------2-2-0-2---|
+A|------------------------|
+E|------------------------|
+
+     E
+Tá famosa
+F#m                 D                  A9
+Só porque eu te larguei fica fazendo show
+       E
+Barraqueira demais
+F#m                D                     A9
+Sobe na mesa, fala alto e diz que me esnobou
+
+E|-----------------|
+B|-----------------|
+G|-----------------|
+D|---2h4-2---------|
+A|---------4-2-----|
+E|-------------0---|
+
+
+E               F#m
+Cê tá virando celebridade
+D                        A9
+Desse jeito eu nunca vou te querer
+
+E|-----------------|
+B|-----------------|
+G|-----------------|
+D|---2h4-2---------|
+A|---------4-2-----|
+E|-------------0---|
+
+E                F#m
+Tá conhecida em toda a cidade
+D               E                        A
+Mas não é assim que vai me convencer
+
+(refrão)
+                 E                F#m
+Se quer aparecer, vira atriz de novela
+                 D
+Faz foto sensual, sobe na passarela
+A9                E                  F#m
+Se quer aparecer, raspa o cabelo no zero
+                    D                        A9
+Vai pra um reality show, dá o golpe no cara cego
+              E                 D
+Se quer aparecer, me tira fora dessa
+                     E
+Esse seu jeito de maluca não me interessa
+
+(repete tudo)
+
+(solo)
+
+E|--11/12-12-12--11/12-12-12---7-7-7-7--|
+B|--------------------------------------|
+G|---8/9--9--9----8/9--9--9----4-4-4-4--|
+D|--------------------------------------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+E|--9/10-10-10--9/10-10-10---10-10-10-9-9-9-7-7-7-5-5-5--|
+B|-------------------------------------------------------|
+G|--6/7---7--7--6/7---7--7----7--7--7-6-6-6-4-4-4-2-2-2--|
+D|-------------------------------------------------------|
+A|-------------------------------------------------------|
+E|-------------------------------------------------------|
+
+E|--11/12-12-12--11/12-12-12---7-7-7-7--|
+B|--------------------------------------|
+G|---8/9--9--9----8/9--9--9----4-4-4-4--|
+D|--------------------------------------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+E|-----10-10-10-9-7-5----17-17-17-16-14-12---12-12---|
+B|---------------------------------------------------|
+G|------7--7--7-6-4-2----14-14-14-13-11--9----9--9---|
+D|---------------------------------------------------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+(refrão)
+                 E                F#m
+Se quer aparecer, vira atriz de novela
+                 D
+Faz foto sensual, sobe na passarela
+A9                E                  F#m
+Se quer aparecer, raspa o cabelo no zero
+                    D                        A9
+Vai pra um reality show, dá o golpe no cara cego
+              E                 D
+Se quer aparecer, me tira fora dessa
+                     E
+Esse seu jeito de maluca não me interessa
+
+E|----9-8-7--0--|
+B|-----------2--|
+G|--6/9-8-7--2--|
+D|-----------2--|
+
+(repete o refrão)
+
+(final)
+
+E|-------------|
+B|---5-5-3-5---|
+G|---2-2-2-2---|
+D|-------------|
+A|-------------|
+E|-------------|
+
+( E A )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,71 @@
+@titulo: vitima-de-um-copo
+@autor:
+@intérprete: Zé Neto e Cristiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zé Neto e Cristiano - Vítima de Um Copo
+
+Intro: C#m E F# C#m
+
+[Solo]
+
+E|---------------------------------------3/7--6-6-7-6-4-|
+B|---5h4-2--------------5h4-2---------------------------|
+G|---------4-4/6--------------4-4/6-4/3--3/7--7-7-8-7-4-|
+D|-3/5----------6----3/5--------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+C#m                                E
+   Quem bate esquece, quem apanha não
+                           B
+Pra cada ação, tem uma reação
+
+O preço do meu erro
+       F#
+Eu tô pagando com a solidão
+
+
+
+C#m
+  E o que mais me dói é saber
+E                                 B
+ Que as noites vão amanhecer sem você
+                      F#
+Aí só Deus sabe como vai ser
+
+
+C#m
+ O brinco que você usou
+E                             B
+ Na ultima vez que a gente ficou, ainda está aqui
+         E                   F#                   G#m
+Você deixou pra trás e esqueceu como esqueceu de mim
+
+
+            C#m               E
+Aconteceu trair, até me diverti
+              G#m                 F#
+E consequentemente eu terminei sozinho
+               C#m                  E
+Eu reneguei um amor, feri a minha flor
+                     G#m                   F#
+Quando as flores se fecham sobram só espinhos
+
+         E
+Sei que perdi o foco
+ F#                       G#m
+Perdão, eu só fui vítima de um copo
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,114 @@
+@titulo: envelheco-na-cidade
+@autor:
+@intérprete: Ira!
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ira! - Envelheço na cidade
+
+(intro)
+
+E |-2---2-2-0-0--0-2-0-2-3-2-0-------3---3-3-2-0-0--0-2-0-2-3-2-0
+B |-3---3-3-3-3--3-3-3-3-3-3-3-------3---3-3-3-3-3--3-3-3-3-3-3-3
+G |-2---2-2-2-2--2-2-2-2-2-2-2-------2---2-2-2-2-2--2-2-2-2-2-2-2
+D |--------------------------------------------------------------
+A |--------------------------------------------------------------
+E |--------------------------------------------------------------
+
+E |-2---2-2-0-0--0-2-0-2-3-2-0-------3---3-3-2-0-0---------------
+B |-3---3-3-3-3--3-3-3-3-3-3-3-------3---3-3-3-3-3----2-2-2-2-2--
+G |-2---2-2-2-2--2-2-2-2-2-2-2-------2---2-2-2-2-2----2-2-2-2-2--
+D |---------------------------------------------------2-2-2-2-2--
+A |--------------------------------------------------------------
+E |--------------------------------------------------------------
+
+( G Em G A )
+( G Em G A )
+( C A C A ) C
+
+G                  Em             G          A
+Mais um ano que se passa, mais um ano sem você
+
+        G              Em         G         A   ( C  A ) C
+Já não tenho a mesma idade, envelheço na cidade
+      G           Em          G            A
+Essa vida é jogo rápido para mim ou prá você
+G                   Em             G           A
+Mais um ano que se passa e eu não sei o que fazer!
+
+C               A    C            A
+Juventude se abraça, se unem pra esquecer
+C               A     C                  A
+Um feliz aniversário  para mim ou prá você...
+
+   D         D9           D         D4
+Feliz aniversário - envelheço na cidade
+   D         D9           D         A
+Feliz aniversário - envelheço na cidade
+   D         D9           D         D4
+Feliz aniversário - envelheço na cidade
+   D              A
+Feliz aniversário
+
+       G           Em        G              A
+Meus amigos minha rua, as garotas da minha rua,
+        G             Em              G          A   ( C  A ) C
+Não os sinto, não os tenho... mais um ano sem você!
+      G          Em          G         A
+As garotas desfilando, os rapazes a beber
+        G              Em           G          A
+Já não tenho a mesma idade, não pertenço a ninguém
+
+C               A    C            A
+Juventude se abraça, se unem pra esquecer
+C               A     C                  A
+Um feliz aniversário  para mim ou prá você...
+   D         D9           D         D4
+Feliz aniversário - envelheço na cidade
+   D         D9           D        A
+Feliz aniversário - envelheço na cidade
+   D         D9           D         D4
+Feliz aniversário - envelheço na cidade
+   D              A
+Feliz aniversário
+
+E |--------------------------------------------------------------------|
+B |-----------------3-2-3-7-5--5-7-8-7-5-------------------------7-7s10|
+G |-6-6br-7-6-4-2-2----------------------7-9-7-6-----6-7-9-11-11-------|
+D |----------------------------------------------9-7-------------------|
+A |--------------------------------------------------------------------|
+E |--------------------------------------------------------------------|
+
+E |--------------------------------|
+B |--------------------------------|
+G |-19b-17h19p17-17-14-17-14-17----|
+D |--------------------------------|    (4x)
+A |--------------------------------|
+E |--------------------------------|
+
+C               A    C            A
+Juventude se abraça, SE unem pra esquecer
+C               A     C                  A
+Um feliz aniversário  para mim ou prá você...
+   D         D9           D         D4
+Feliz aniversário - envelheço na cidade
+   D         D9           D         A
+Feliz aniversário - envelheço na cidade
+   D         D9           D         D4        A
+Feliz aniversário - envelheço na cidade
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

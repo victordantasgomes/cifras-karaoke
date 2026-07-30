@@ -1,0 +1,172 @@
+@titulo: todas-as-noites
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Todas As Noites
+
+Intro 2x: F#5  E5  B5
+
+Primeira parte:
+
+ F#5         E5  B5
+Todas as noites     são iguais
+      F#5           E5
+Os meninos satisfeitos
+        B5
+E as meninas querem mais
+ F#5    E5  B5
+Sonhos caem    como chuva
+     F#5     E5
+E é tarde demais
+           B5
+Eu não consigo dizer não
+
+F#5         E5   B5                  F#5
+    Hoje à noite    tudo pode acontecer
+        E5        B5
+Quem olhar nos olhos vê bares e sedução
+
+F#5              E5      B5
+    Num canto escuro pequenos goles de solidão
+F#5         E5    B5                    F#5  E5
+    A noite esclarece o que o dia escondeu
+B5                   F#5  E5  B5
+   O que o dia escondeu
+
+Refrão:
+
+(A5(9)  E  G  D) 2x
+
+ A5(9)   E  G          D
+Meia noite,   noite inteira
+  A5(9)        E           G  D
+Três, quatro, cinco da manhã
+    A5(9)     E         G              D
+Eu vou embora   mas eu sempre volto atrás
+ A5(9)     E      G   D       A5(9)  E  G
+Porque as noites são todas iguais
+ D       A5(9)  E  G  D
+Todas iguais
+
+Segunda parte:
+
+(F#5  E5  B5) 2x
+
+ F#5         E5  B5
+Todas as noites     são iguais
+    F#5         E5
+De longe os disfarces
+   B5
+Parecem reais
+ F#5     E5    B5
+Mãos me vestem    como luva
+     F#5     E5
+E é tarde demais
+           B5
+Eu não consigo dizer não
+
+F#5         E5   B5                   F#5
+    Hoje à noite    é cedo até amanhecer
+        E5        B5
+Quem olhar nos olhos vê estrelas no chão
+F#5              E5      B5
+    Num canto escuro pequenos goles de solidão
+F#5         E5    B5                    F#5  E5
+    A noite esclarece o que o dia escondeu
+B5                   F#5  E5  B5
+   O que o dia escondeu
+
+Refrão:
+
+ A5(9)   E  G          D
+Meia noite,   noite inteira
+  A5(9)        E           G  D
+Três, quatro, cinco da manhã
+    A5(9)     E         G              D
+Eu vou embora   mas eu sempre volto atrás
+ A5(9)     E      G   D       A5(9)  E  G
+Porque as noites são todas iguais
+ D       A5(9)  E  G  D
+Todas iguais
+
+Terceira parte:
+
+(A5(9)  G  D) 2x
+
+ A5(9)   G     D
+Na nara na na na...
+ A5(9)   G     D
+Na nara na na na...
+ A5(9)   G     D
+Na nara na na na...
+ A5(9)   G     D
+Na nara na na na...
+
+Riff Terceira Parte:
+
+E|---------------------------------------------------|
+B|---------------------------------------------------|
+G|---------------------------------------------------|
+D|-------0-------------------------------------------|
+A|-0-0-3---0-2b3r2-----------------------------------|
+E|---------------------------------------------------|
+
+Refrão Final:
+
+ A5      E  G5         D
+Meia noite,   noite inteira
+  A5           E           G5  D
+Três, quatro, cinco da manhã
+    A5        E         G5             D
+Eu vou embora   mas eu sempre volto atrás
+ A5        E      G5  D       A5(9)  E  G
+Porque as noites são todas iguais
+ D       A5(9)  E  G  D
+Todas iguais
+
+ A5(9)   E  G          D
+Meia noite,   noite inteira
+  A5(9)        E           G  D
+Três, quatro, cinco da manhã
+    A5(9)     E         G              D
+Eu vou embora   mas eu sempre volto atrás
+ A5(9)     E      G   D       A5(9)  E  G
+Porque as noites são todas iguais
+ D       A5(9)  E  G
+Todas iguais
+ D       A5(9)  E  G
+Todas iguais
+ D       A5(9)  E  G
+Todas iguais
+
+(A5(9)  E  G  D) 4x
+
+A5(9)
+
+Dedilhado Refrão Final:
+
+   A5(9)    E        G        D
+E|-----0------0----------3------2----------|
+B|-------0------0----------3------3--------|
+G|---2------1-----1----0------2-----2------|
+D|-2-----------------0---------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+----------------- Acordes -----------------
+A5 = 5 7 7 X X X
+A5(9) = X 0 2 2 0 0
+B5 = X 2 4 X X X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E5 = 0 2 X X X X
+F#5 = 2 4 X X X X
+G = 3 2 0 0 3 3
+G5 = 3 5 5 X X X

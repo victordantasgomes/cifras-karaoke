@@ -1,0 +1,115 @@
+@titulo: deuteronomio-11
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Deuteronômio 11
+
+INTRO: A Asus/B     D E F#m     A/D     A/B
+
+A9                   D/A           A9
+Se tu guardares o que Deus te ordenou
+F#m7           F#m7        E    D9
+Se o amares de todo o teu coração
+     F#m7       D      Esus     E
+Se andares nos Seus caminhos
+     F#m7       D      Esus     E        A/D     A/B
+Se inclinares os teus ouvidos para obedecer.
+
+A9                  D/A     A9
+Todas as bênçãos te alcançarão
+F#m7        F#m7/E  E    D9
+Longevidade e multiplicação
+      F#m7      D      Esus   E
+Sobre ti e tua descendência
+          F#m7       D   Esus  E                  A/D       A/B
+Escolhe a vida e possuirás...     a terra das promessas.
+
+REFRÃO:
+
+        A       Asus/B  A/C#   E/G#   A      E/D  Esus/D   D9
+        Deus te pro  -  põe,    ho----je, a vida  e  o     bem
+           A/C#    G(#11)   G  E/G#
+        A morte, o ma ---- al
+        A     Asus/B  A/C#   E/G#  A      E/D             Esus/D  D9
+        Vê se es -   colhe,  ho----je, o melhor que Deus tem
+        A/C#          G(#11)  G   E/G#
+        Pa---- ra que vi -   vas
+            Bm7      A/C#     E       E/G#        (p/ PONTE)
+        E possuas a terra que te prometeu o Senhor.
+
+Ponte:  A/D    A/C#   A/B   E           A/D   A/E   A/F#   E/G#
+
+E/A   Esus/A    A     Asus  A
+Ame o Se   -   nhor
+   E/D     Esus/D   E/D     D9
+Apegue - se   a     E  -  le    (3 X)
+E/F#         E/A
+Ame o Senhor
+   E/D               A/D  Asus/D
+Apegue - se a  E --- le.
+
+E/A   Esus/A    A     Asus  A
+Ame o Se   -   nhor
+E/D   Esus/D   E/D     Dsus  D
+Ame o Se   -   nhor
+E/A  Esus/A   A      Asus        A     E/D    Esus/A    A     Asus   A
+Ame, a-------me...  a-----me...  a-----me...  Ame o Se    -   nhor...
+
+F#m7    E/G#     D9
+Disto depende a tua vida
+F#m7    E/G#     D9
+Disto depende a tua família
+F#m7    E/G#     D9
+Disto depende a tua vida
+F#m7    E/G#     D9
+Disto depende a tua vida
+
+        A       Asus/B   A/C#   E/G#   A      E/D  Esus/D  D9
+        Deus te pro  -   põe,    ho----je, a vida  e  o    bem
+             A/C#  G(#11)  G   E/G#
+        A morte, o ma ---- al
+        A     Asus/B  A/C#      E/G#   A    E/D             Esus/D  D9
+        Vê se es  -   colhe,    ho----je, o melhor que Deus tem
+        A/C#          G(#11)   G    E/G#
+        Pa---- ra que vi   -   vas
+            Bm7     A/C#      E              E/G#
+        E possuas a terra que te prometeu o Senhor.
+
+(FINAL): A Asus/B     D E F#m     A/D     A/B    A9
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A/D = X X 0 6 5 5
+A/E = 0 X 2 2 2 0
+A/F# = 2 0 2 2 2 0
+A9 = X 0 2 2 0 0
+Asus = X 0 2 2 2 0
+Asus/B = X 2 2 2 2 X
+Asus/D = X X 0 6 5 5
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D9 = X X 0 2 3 0
+Dsus = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E/D = X 5 X 4 5 4
+E/F# = X X 4 4 5 4
+E/G# = 4 X 2 4 5 X
+Esus = 0 2 2 1 0 0
+Esus/A = X 0 2 1 0 0
+Esus/D = X 5 X 4 5 4
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7/E = X X 2 2 5 2
+G = 3 2 0 0 0 3
+G(#11) = 3 5 5 6 3 3

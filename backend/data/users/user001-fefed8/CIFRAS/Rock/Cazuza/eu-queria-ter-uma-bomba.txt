@@ -1,0 +1,76 @@
+@titulo: eu-queria-ter-uma-bomba
+@autor:
+@intérprete: Cazuza
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cazuza - Eu Queria Ter Uma Bomba
+
+Intro.: (E D F#m B4/7 B7)
+
+E           D
+Solidão a dois de dia
+F#m          B4/7        B7
+Faz calor, depois faz frio
+E           D
+Você diz: já foi
+                 F#m
+Eu concordo contigo
+                B4/7
+Você sai de perto
+     B7         E    D
+Eu penso em suicídio
+          F#m            B4/7 B7
+Mas no fundo eu nem ligo
+A               B
+Você sempre volta
+                  C#m  (B C#m)
+Com as mesmas notícias
+A          B           A
+Eu queria ter uma bomba
+
+              B
+Um flit paralisante qualquer
+A                G#m
+Pra poder me livrar
+              F#m  (G#m F#m)
+Do prático efeito
+A                 B
+Das tuas frases feitas
+A                      E   D    E7
+Das tuas noites perfeitas, perfeitas.
+
+Solidão ... qualquer
+A                G#m
+Pra poder te negar
+              F#m
+Bem no último instante
+A                 B
+Meu mundo que você não vê
+A                      E   D    E7
+Meus sonhos que você não crê, não crê. (intr.)
+A          B           A
+Eu queria ter uma bomba
+              B
+Um flit paralisante qualquer
+A                G#m
+Pra poder te negar
+                  F#m  (G#m F#m)
+Bem no último instante
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B4/7 = X 2 4 2 5 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

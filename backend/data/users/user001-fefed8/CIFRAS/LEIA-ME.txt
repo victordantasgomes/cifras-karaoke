@@ -1,0 +1,23 @@
+MÚSICAS CIFRADAS SEPARADAS
+
+Cada pasta corresponde a um PDF de origem.
+Cada arquivo TXT contém somente uma música.
+O PDF de títulos foi ignorado por não conter cifras.
+
+Resumo:
+- ALCEU VALENÇA - ELBA RAMALHO - ZÉ RAMALHO.pdf: 7 música(s) (processado)
+- BEATTLES.pdf: 3 música(s) (processado)
+- BREGA (1)(1).pdf: 17 música(s) (processado)
+- BRUNO E MARRONE.pdf: 6 música(s) (processado)
+- FÁBIO JR, RITCH, WANDO.pdf: 3 música(s) (processado)
+- FAGNER.pdf: 5 música(s) (processado)
+- FORRÓ EM PDF.pdf: 17 música(s) (processado)
+- JOVEM GUARDA(1).pdf: 14 música(s) (processado)
+- PÉ DE SERRA EM PDF.pdf: 7 música(s) (processado)
+- RAUL SEIXAS.pdf: 5 música(s) (processado)
+- ROCK (1).pdf: 30 música(s) (processado)
+- SAMBA E PAGODE.pdf: 17 música(s) (processado)
+- SÃO JOÃO EM PDF.pdf: 8 música(s) (processado)
+- SERTANEJO (1).pdf: 19 música(s) (processado)
+- Set list.pdf: 61 música(s) (processado)
+- Titulos_das_Musicas_COMPLETO_NUMERADO_FONTE_MAIOR(1).pdf: 0 música(s) (índice sem cifras - não processado)

@@ -1,0 +1,69 @@
+@titulo: o-que-tens
+@autor:
+@intérprete: Victor e Leo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Victor e Leo - O Que Tens
+
+Intro: G D/F# Em  G D/F#
+
+G           Em
+Tens a lua, tens a rua
+C                 D
+tens a minha e a tua alma nua
+G           Em
+Tens o mel, tens o véu
+C                       D    D7
+tens a sombra de um chapéu, o céu
+
+Refrão
+
+              G
+Tens meus suspiro
+                       Em
+tens tudo em que me inspiro
+         C              D        D7
+tens o beijo que eu respiro e prefiro
+            G            Em
+tens o frescor, tens o calor
+
+           C                        D
+tens o que tenho e o que tenho te dou
+      D7
+tens meu amor
+
+( G  Em )
+
+G           Em
+Tens o mel, tens o véu
+C                       D     D7
+tens a sombra de um chapéu, o céu
+
+Refrão:
+
+              G
+Tens meus suspiro
+                       Em
+tens tudo em que me inspiro
+         C              D        D7
+tens o beijo que eu respiro e prefiro
+            G            Em
+tens o frescor, tens o calor
+           C                        D
+tens o que tenho, e o que tenho te dou
+      D7      C G
+tens meu amor
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

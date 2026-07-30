@@ -1,0 +1,78 @@
+@titulo: os-bons-morrem-jovens
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Os Bons Morrem Jovens
+
+Intro: D
+
+   D         A      D            A
+   É tão estranho,os bons morrem jovens
+      D          A D                  A
+   Assim parece ser,quando me lembro de você
+  Em                   D/F# G A Em         D/F# G A
+   Que acabou indo embora         cedo demais
+  D                A                       D
+   Quando eu lhe dizia "Me apaixono todo dia"
+                       A
+   E é sempre a pessoa errada
+    D              A        D                A
+   Você sorriu e disse:"Eu gosto de você também"
+   Em                 D/F# G A Em         D/F# G A
+   Só que você foi embora        cedo demais
+   G             A   G                  A
+   Eu continuo aqui,com meu trabalho e meus amigos
+   G                A             Em
+   E me lembro de você em dias assim
+       D/F#          G        A  Em A
+   Um dia de chuva,um dia de sol
+
+                    D         D/C# D/C G/B
+   E o que sinto não sei dizer
+  G            A    D       A
+   Vai com os anjos,vai em paz
+  Em
+   Era assim todo dia de tarde
+  G                    A
+   A descoberta da amizade,até a próxima vez
+  D          A       D              A
+   É tão estranho,os bons morrem antes
+  D               A        D                  A
+   Me lembro de você e de tanta gente que se foi
+             Em D/F# G A
+   Cedo demais
+              Em D/F# G A
+   E cedo demais
+   G                 A                     G
+   Eu aprendi a ter tudo o que eu sempre quis
+            A
+   Só não aprendi a perder
+   G                   A   Em  D/F# G A
+   E eu que tive um começo feliz
+    A               D      D/C# D/C G/B
+   Do resto eu não sei dizer
+   G                        A
+   Lembro das tardes que passamos juntos
+   G                   A
+   Não é sempre,mas eu sei
+   Em
+   Que você está bem agora
+    G                            A          G   D
+   É,só que este ano o verão acabou cedo demais
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2
+D/C# = X 4 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

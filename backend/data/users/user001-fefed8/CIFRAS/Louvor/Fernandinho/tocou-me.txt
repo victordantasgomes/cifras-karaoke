@@ -1,0 +1,82 @@
+@titulo: tocou-me
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Tocou-me
+
+[Intro] Em  D  C  Am
+        Em  D  C  Am
+        Em  D  C  Am
+
+E|-7---5-7---5-7---5-7-|
+B|--5-8---5-8---5-8----|
+G|---------------------|
+D|---------------------|
+A|---------------------|
+E|---------------------|
+
+G                Em
+Algemado por um peso
+G                     Em
+Oh, quão triste eu andei
+  C           D       Em
+Até sentir a mão de Cristo
+     C               D        G
+Não sou mais como eu era, eu sei
+
+[Refrão]
+
+
+   D                Em
+Tocou-me, Jesus, tocou-me
+    C         G             D
+De paz ele encheu meu coração
+  G          C   G/B        Am
+Quando o Senhor Jesus me tocou
+    G      D        Em
+Livrou-me da escuridão
+
+( D  C  Am )
+
+E|-7---5-7---5-7---5-7-|
+B|--5-8---5-8---5-8----|
+G|---------------------|
+D|---------------------|
+A|---------------------|
+E|---------------------|
+
+ G                    Em
+Desde que aceitei a Cristo
+G                   Em
+E senti seu terno amor
+ C            D     Em
+Tenho achado paz e vida
+     C           D             G
+Pra sempre cantarei em seu louvor
+
+[Refrão]
+
+   D               Em
+Tocou-me, Jesus tocou-me
+    C                      D
+De paz ele encheu meu coração
+ G           C     G/B      Am
+Quando o Senhor Jesus me tocou
+    G/D    D        G
+Livrou-me da escuridão
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X

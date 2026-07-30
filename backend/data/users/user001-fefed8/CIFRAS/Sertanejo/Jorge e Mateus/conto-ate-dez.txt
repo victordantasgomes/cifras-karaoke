@@ -1,0 +1,95 @@
+@titulo: conto-ate-dez
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Conto Até Dez
+
+Intro: G Bm G Bm A
+
+solo:
+E|-----9b10b9------------------9b10b9-------------------|
+B|-------------10-10--12-12~-----------10-10--12-7~-----|
+G|------------------------------------------------------|
+D|------------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+E|-----9b10b9------------------9b10b9-------------------|
+B|-------------10-10--12-12~-----------10-10--12-7~-5~--|
+G|------------------------------------------------------|
+D|------------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+G
+Você não sabe nada e não há nada pra saber
+Bm
+Não fica se escondendo porque eu sempre vou te achar
+
+       G                          Bm
+Aonde quer que eu vá, eu sei, vai ser você
+
+G
+Você não fala nada e nem precisa me explicar
+Bm
+Não fica procurando o que eu tenho pra mostrar
+           G                      Bm
+Só deixa acontecer, não vai se arrepender
+
+          Em                             G
+Eu sinto falta do seu cheiro, do seu contato, um desespero
+       D                       A
+Só restou pra mim, lembrar da sua voz
+        Em                             G
+Vou revirando o meu passado, vou procurando algo de errado
+D                                 C
+Nas lembranças espalhadas de nós dois
+
+Refrão:
+
+           D                                  Bm
+Conto até dez, imaginando abrir os olhos e te ver aqui
+                               G
+Amanheceu e quer saber, ainda não dormi
+           Em                         A
+Seu medo insiste em afastar meu sentimento
+
+              D                                      Bm
+Eu conto até dez, pedindo a Deus pra amenizar o sofrimento
+                                      G
+Trazer de volta seus defeitos tão perfeitos
+           Em                        A
+Pra que você entenda o quanto eu te quero
+                   G
+Saiba que ainda espero
+
+(Intro)
+
+          Em                             G
+Eu sinto falta do seu cheiro, do seu contato, um desespero
+       D                       A
+Só restou pra mim, lembrar da sua voz
+        Em                             G
+Vou revirando o meu passado, vou procurando algo de errado
+D                                 C
+Nas lembranças espalhadas de nós dois
+
+(Refrão)
+
+              D
+Eu conto até dez
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

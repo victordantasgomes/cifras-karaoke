@@ -1,0 +1,66 @@
+@titulo: quem-vai-decidir
+@autor:
+@intérprete: Detonautas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Detonautas - Quem Vai Decidir
+
+C#m        B            A           C#m
+Desde que você chegou e mudou a minha vida
+C#m        B           A        C#m
+Tudo por aqui passou a fazer sentido
+C#m             B
+Espero por nós dois
+C#m         B               A
+Quero ouvir você chegar e brigar
+    C#m
+Comigo
+          B
+Depois me dar
+        F#m       A
+O teu abrigo
+
+E           B4             A
+Quem vai decidir por nós dois
+      C#m   B    A                    E    B4 A C#m
+Não sou eu quem vai te dizer o que é certo
+
+C#m        B            A          C#m
+Desde que você chegou e mudou o meu caminho
+
+C#m           B             A              C#m
+Eu já não me sinto mais tão perdido e tão sozinho
+C#m                 B
+Eu quero é por nós dois
+C#m              B
+Difícil de esquecer você
+C#m             B                A           C#m
+Eu quero é por nós dois e vou te dar o meu abrigo
+           B         F#m         A
+Porque eu sou o seu amigo
+
+E           B4             A
+Quem vai decidir por nós dois
+      C#m   B   A           C#m   B   A                     E
+Não sou eu quem vai, não sou eu quem vai te dizer o que é certo
+
+E           B4             A
+Quem vai decidir por nós dois
+      C#m   B   A                     E
+não sou eu quem vai te dizer o que é certo
+
+( B A C#m B A E )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

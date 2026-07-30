@@ -1,0 +1,125 @@
+@titulo: nada-por-mim
+@autor:
+@intérprete: Renato Russo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renato Russo - Nada por mim
+
+(renato russo,e herbet viana)
+
+INTRO:
+e|-----------------------| 
+B|-7h8--8-8p7------------| 
+G|-7---------------------| 
+D|----------------7------| 
+A|------------7h9----9-5-| 
+E|-----------------------| 
+
+
+D7M     Em7          Am7
+Você me tem fácil demais
+           D7/9-    E/G#      Gm6          D7M A5+7 A7 D7M
+Mas não parece capaz de cuidar do que possui
+        Em7         Am7              D7/9-      E/G#
+Você sorriu e me propôs que eu te deixasse em paz
+         Gm6          D7M
+Me disse vá e eu não fui  e|--------------| 
+                          B|---7------7---| 
+                          G|-6---6--6---7-| 
+                          D|--------------| 
+                          A|--------------| 
+                          E|--------------| 
+
+
+
+G         Gm/Bb  D7M/A   E/G#      G
+Não faça assim, não faça nada por mim
+          Gm/Bb             D7  
+Não vá pensando que eu sou seu e|-----------------| 
+                               B|---7------7------| 
+                               G|-5---5--5---5--5-| 
+                               D|-----------------| 
+                               A|-----------------| 
+                               E|-----------------| 
+
+Nao faça assim, nao faça nada por mim
+          Gm6              D7M
+Nao faça pensando que sou seu e|---------------| 
+                              B|---------------| 
+                              G|---------------| 
+                              D|---------------| 
+                              A|-0h5-5h7-8-7-5-| 
+                              E|---------------| 
+
+
+
+D7M         Em7        Am7       D7/9-           E/G#
+Você me diz o que fazer, mas não procura entender
+       Gm6                    D7M 
+Que eu faço só prá , te agradar e|-------------------| 
+                                B|-------------------| 
+                                G|-------------------| 
+                                D|---7---7h9-7---7---| 
+                                A|-9---9-------9---7-| 
+                                E|-------------------| 
+
+
+         Em7        Am7             D7/9-        E/G#
+Me diz até o que vestir, por onde andar, aonde ir
+          Gm6         D7M D7
+Mas não me pede prá voltar e|--------------------| 
+                           B|---7------7-------7-| 
+                           G|-5---5--5---5---5---| 
+                           D|--------------7-----| 
+                           A|--------------------| 
+                           E|--------------------| 
+
+
+G         Gm/Bb  D7M/A   E/G#      G
+Nao faça assim, nao faça nada por mim
+          Gm/Bb          D7
+Nao va pensando que sou seu e|------------------| 
+                            B|---7------7-------| 
+                            G|-5---5--5---5-----| 
+                            D|--------------7---| 
+                            A|----------------5-| 
+                            E|------------------| 
+
+G         Gm/Bb   D7M/A   E/G#      G7M
+Nao faça assim, nao faça nada por mim
+        Gm6                 Bm7  Bm7/A  E/G#  Gm6  C7  D7
+nao va pensando que eu sou seu.
+
+
+FINAL:              D7/9 
+e|-----------------------| 
+B|-8-7-------8-7------5--| 
+G|-7-7--7h10-----9-7--5--| 
+D|--------------------4--| 
+A|--------------------5--| 
+E|-----------------------|
+
+----------------- Acordes -----------------
+A5+7 = X 0 X 0 2 1
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+Bm7/A = 5 2 4 2 3 2
+C7 = X 3 2 3 1 X
+D7 = X X 0 2 1 2
+D7/9 = X 5 4 5 5 X
+D7/9- = X 5 4 5 4 X
+D7M = X X 0 2 2 2
+D7M/A = 5 5 4 2 2 2
+E/G# = 4 X 2 4 5 X
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G7M = 3 X 4 4 3 X
+Gm/Bb = 6 5 5 3 X X
+Gm6 = 3 X 2 3 3 X

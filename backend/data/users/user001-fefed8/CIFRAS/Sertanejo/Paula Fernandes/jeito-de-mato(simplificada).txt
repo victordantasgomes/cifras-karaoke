@@ -1,0 +1,89 @@
+@titulo: jeito-de-mato(simplificada)
+@autor:
+@intérprete: Paula Fernandes
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Paula Fernandes - Jeito de Mato
+
+Intro: A F#m D Bm
+       A F#m D Bm E
+
+(primeira parte)
+A                        F#m
+De onde é quem vem esses olhos tão tristes?
+A                   F#m
+Vem da campina onde o sol se deita
+      D                 C#m
+Do regalo de terra que teu dorso ajeita.
+   Bm                 D
+E dorme serena, no sereno e sonha
+
+A                         F#m
+De onde é que salta essa voz tão risonha?
+     A                  F#m
+Da chuva que teima, mas o céu rejeita
+    D                 C#m
+No mato, do medo, da perda tristonha
+      Bm                D
+Mas, que o sol resgata, arde deleita
+
+
+(segunda parte)
+           A                            E
+Há uma estrada de pedra que passa na fazenda
+                      F#m
+É teu destino, é tua senda.
+                        D
+De onde nascem tuas canções
+          A                                E
+As tempestades do tempo que marcam tua história
+                      F#m
+Fogo que queima na memória
+               D
+E acende os corações
+
+(terceira parte)
+ Bm                                 D
+Sim, dos teus pés na terra nascem flores
+                           F#m
+A tua voz macia aplaca as dores
+                           E
+E espalha cores vivas pelo ar
+
+ Bm                           D
+Sim, dos teus olhos saem cachoeiras
+                          F#m
+Sete Lagoas, mel e brincadeiras
+                              E    Bm
+Espumas, ondas, águas do teu mar
+      C
+Ê La Ia
+
+(repete intro)
+(repete partes 2 e 3)
+
+(* da parte em que o Almir canta em diante, basta repetir a intro, e cantar junto)
+
+A                        F#m
+De onde é quem vem esses olhos tão tristes?
+D                   Bm
+Vem da campina onde o sol se deita
+   A                      F#m
+De onde é que salta essa voz tão risonha
+D                   Bm        E
+Dorme serena, no sereno e sonha
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

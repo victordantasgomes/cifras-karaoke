@@ -1,0 +1,127 @@
+@titulo: coracao-calejado
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Coração Calejado
+
+[Intro] B  F#  G#m  E
+
+E|---7--11--9--7p6-7p6--------------------------------|
+B|----------------------9~----------------------------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+[Primeira Parte]
+
+B                    F#
+  Meus fracassos amorosos
+               G#m
+Me afastam de ti
+            E
+Tenho medo de me iludir
+
+B                     F#
+  Eu já tive alguns amores
+               G#m
+Mas não tive amor
+
+           E
+E foi isso, que me deixou
+
+[Pré-Refrão]
+
+       B   F#      G#m
+Com o coração calejado
+          E
+Morre de medo de se machucar
+ B   F#      G#m
+Coração calejado, pra se entregar
+    E
+De novo tem que escutar
+
+[Refrão]
+
+B                   F#         G#m
+  Que você vai me amar com força
+                   E
+E a nossa saudade vai ser louca
+G#m                     F#        E
+  Se não for pra ser assim esquece
+
+Se me quer mesmo pra você promete
+
+[Solo] B  F#  G#m  E
+       G#m  F#  E
+
+[Primeira Parte]
+
+[Primeira Parte]
+
+B                    F#
+  Meus fracassos amorosos
+               G#m
+Me afastam de ti
+            E
+Tenho medo de me iludir
+
+B                     F#
+  Eu já tive alguns amores
+               G#m
+Mas não tive amor
+           E
+E foi isso, que me deixou
+
+[Pré-Refrão]
+
+       B   F#      G#m
+Com o coração calejado
+          E
+Morre de medo de se machucar
+ B   F#      G#m
+Coração calejado, pra se entregar
+    E
+De novo tem que escutar
+
+[Refrão]
+
+B                   F#         G#m
+  Que você vai me amar com força
+                   E
+E a nossa saudade vai ser louca
+G#m                     F#        E
+  Se não for pra ser assim esquece
+
+Se me quer mesmo pra você promete
+
+B                   F#         G#m
+  Que você vai me amar com força
+                   E
+E a nossa saudade vai ser louca
+G#m                     F#        E
+  Se não for pra ser assim esquece
+
+Se me quer mesmo pra você promete
+
+[Final] B  F#  G#m  E  B
+
+E|---7--11--9--7p6-7p6----10/12--11--9--7-------------|
+B|--------------------9-------------------------------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

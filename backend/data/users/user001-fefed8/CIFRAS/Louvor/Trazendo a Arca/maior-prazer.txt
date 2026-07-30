@@ -1,0 +1,42 @@
+@titulo: maior-prazer
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Maior Prazer
+
+ A          E/G#  F#m7        E9   B/D#  C#m7
+É meu maior prazer        Te adorar Senhor
+          F#m7      A9
+Prostrado aos Teus pés
+           B
+Canto uma nova canção 
+            E  (F#m7  E/G#)
+E adoro a Ti
+             A         E/G#   F#m7
+Levanto as minhas mãos
+             E9      B/D#    C#m7
+Te dou o meu coração
+           F#m7
+Quando Tua glória eu vir
+            B
+Quero então dizer
+             E9
+Eis-me aqui Senhor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E9 = 0 2 4 1 0 0
+F#m7 = 2 X 2 2 2 X

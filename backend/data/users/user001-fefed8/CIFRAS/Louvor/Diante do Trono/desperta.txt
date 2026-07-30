@@ -1,0 +1,97 @@
+@titulo: desperta
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Desperta
+
+Em7          C
+Desperta, desperta
+                     Am7                 Em7
+Arma-Te de força, braço do Senhor
+Em7          C
+Desperta, desperta
+                          Am7                              Em7
+Como nos dias passados, nas gerações antigas
+                  Em/C#                    C
+Não és Tu aquele que secou o mar
+           Am7                       B4         B
+A pés enxutos fez o povo passar?
+
+Em7          C
+Desperta, desperta
+                   Am7      Em7
+Veste-te de força, ó Sião
+Em7          C
+Desperta, desperta
+               Am7
+Sacode o pó
+
+                             Em7
+Levanta e toma o teu lugar
+                     Em/C#                 C
+Quebra tuas cadeias e vem celebrar
+                     Am7             B4    B
+Teu Deus te chama pra reinar
+
+         Em7
+Eis o grito dos teus atalaias
+         F7+
+Declarando que o teu Deus reina
+          Am7
+Eles erguem a voz e exultam
+                     F#                          B4    B (Solo:B, C#, D, D#).Obs.Só as notas
+Pois vêem o Senhor voltando a Sião
+
+                        Em7
+Rompei em júbilo
+                 Am7
+A uma exultai! Hei!
+                     C                  B4 B
+Ruínas de Jerusalém cantai
+                             Em7 (Solo: E, D#, C, B, D, F#, E). Obs.Só as notas
+Pois o Senhor te remiu
+
+                        Em7
+Rompei em júbilo
+                  Am7
+A uma exultai! Hei!
+                      C            B4 B
+Ruínas de Recife cantai
+                            Em7 C B4 B
+Pois o Senhor te remiu
+
+                        Em7
+Rompei em júbilo
+                  Am7
+A uma exultai! Hei!
+                       C        B4 B
+Ruínas do Brasil cantai
+                             Em7
+Pois o Senhor te remiu
+
+Ministração: Em7, Em6+, Em6, Em5-, Em. 4vezes
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+Em/C# = X 4 2 0 0 X
+Em5- = 0 1 2 0 0 0
+Em6 = X 7 X 6 8 7
+Em6+ = X X 2 4 3 3
+Em7 = 0 2 2 0 3 0
+F# = 2 4 4 3 2 2
+F7+ = 1 X 2 2 1 X

@@ -1,0 +1,102 @@
+@titulo: insensivel
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Insensível
+
+Introducão: E B/D# C#m7 F#m7 B7 (E A7+)
+
+Solinho do começo...depois da intro
+
+e|--------------------------------------
+B|---5-4-5-4---5-4-2---5-4-5-4---5-7-9--
+G|--------------------------------------
+D|--------------------------------------
+A|--------------------------------------
+E|--------------------------------------
+
+ E      A7+     E
+  Até‚ parece loucura
+      A7+      E   A7+ E A7+
+  Não sei explicar
+ F#m7              B7
+  é a verdade mais pura
+                 (E A7+)
+  Eu não consigo amar
+      A7+       E
+  Meu bem me desculpe
+
+      A7+       E   A7+ E A7+
+  Nao quis te ferir
+F#m7             B7
+  Mas dizer a verdade
+                  (E A7+)
+  é melhor que mentir
+
+(Refrão)
+[       E     A7+      E
+[  Insensível,   insensível,
+[       A7+
+[  você diz
+[       F#m7  B7
+[  Impossível   fazer você
+[  (E A7+)
+[  feliz
+[       F#m7   B7
+[  Insensível,
+[       E      B/D#
+[  Insensível,
+[       C#m7
+[  Você diz,
+[       F#m7  B4/7
+[  Impossível
+[               (E A7+)
+[  Fazer você feliz
+
+ E           A7+    E
+  As vezes você esquece
+           A7+         E  A7+ E A7+
+  O que eu finjo esquecer
+ F#m7             B7
+  Mas pra mim  difícil
+                   (E A7+)
+  Não consigo entender
+ E      A7+      E     A7+     E      A7+ E A7+
+  Entre outras pessoas  tão natural
+ F#m7                B7
+  Por que ser  que comigo
+                (E A7+)
+  Não pode ser igual
+
+Refrão
+
+          E  A7+
+  Não fui eu,
+            E           A7+
+  Não foi você quem escolheu
+  F#m7          B7
+  viver neste mundo
+        (E A7+)
+  Tão frio
+
+  repete: refrão
+ E           A7+     E  A7+
+  As vezes você esquece
+ E          A7+       C#m7  B7 A7+
+  O que eu finjo esquecer
+
+----------------- Acordes -----------------
+A7+ = X 0 2 1 2 0
+B/D# = X 6 X 4 7 7
+B4/7 = X 2 4 2 5 2
+B7 = X 2 1 2 0 2
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X

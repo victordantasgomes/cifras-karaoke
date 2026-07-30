@@ -1,0 +1,75 @@
+@titulo: como-ele-nos-amou
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Como Ele Nos Amou
+
+(intro 6x) Dm Bb F C
+
+E|--------------------------------------|
+A|--------------------------------------|
+D|-----------------------15--------15-12|
+G|----14------------14-12--12-14-12-----|
+B|--15--13-15--15-13--------------------|
+E|-----------13-------------------------|
+
+Dm   Bb  F               C
+ Nasceu Deus enviou seu filho ao mundo
+Dm  Bb     F          C
+ Viveu a exata expressão do pai
+Dm   Bb  F        C   Dm  Bb F  C
+ Sofreu homem de dores ú, ú, ú, ú
+Dm   Bb   F             C
+ Quebrou todas as portas do engano
+Dm   Bb      F            C
+ Salvou o seu povo pra ser santo
+Dm              Bb     F         C
+ Igreja do senhor santuário da adoração
+
+Dm           Bb           F       A
+ Que tráz a terra o seu trono do céu
+Dm Bb      F         C
+ Amar como Ele nos amou
+      Dm  Bb        F                C
+ Viver  a vida como Ele quer para o seu louvor
+Dm Bb      F         C
+ Amar como Ele nos amou
+     Dm     Bb     F           Am
+ Viver a vida como Ele quer para o seu louvor
+         Bb          C
+ somos feitos para O adorar
+
+(solo)  D#m  B F#m C#
+
+E|-----------------------------------------------------------|
+A|-----------------------------------------------------------|
+D|-----------------------------------------------------------|
+G|-----------------------------------------------------------|
+B|--14b--16b--17b--21b----21b-19-21-14b---14-11-14b----14-11-|
+E|--11---13---14-------19---------------11----------11-------|
+
+E|-----------------------------------------------------------|
+A|-----------------------------------------------------------|
+D|-----------------------------------------------------------|
+G|-----------------13b-13b-11-13-11-13-----------------------|
+B|-14b---14-11-14b---------------------13b-------------------|
+E|-----11----------------------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+D#m = X X 1 3 4 2
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,104 @@
+@titulo: sem-voce(1)
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Sem Você
+
+Intro:
+    Dm       Bb      F       C        Dm      Bb      F       C
+E|---------------------------------------------------------------|
+B|-6-6-------------6-6-8-8-5-5-5-5--6-6-------------6-6-8-8-5--5-|
+G|-----2-2-3-3-3-3----------------------2-2-3-3-3-3--------------|
+D|---------------------------------------------------------------|
+A|---------------------------------------------------------------|
+E|---------------------------------------------------------------|
+
+     F      C     Dm    Bb
+E|-1---|-3--0-|-5---|-3--1-|
+B|-----|------|---6-|------|
+G|---2-|------|-----|------|
+D|-----|------|-----|------|
+A|-----|------|-----|------|
+E|-----|------|-----|------|
+
+F                                         C
+ Pela janela do meu quarto eu vi o seu olhar,
+                    Dm
+ E sai pra te encontrar,
+
+                     Bb
+ Mas você não estava lá.
+
+F                                        C
+ Eu vi a lua e pensei que o brilho era você,
+                              Dm
+ Se eu enlouquecer a culpa e sua,
+                              Bb  C
+ Se eu enlouquecer a culpa suaaaa.
+Refrão:
+    Dm       Bb      F       C        Dm      Bb      F       C
+E|---------------------------------------------------------------|
+B|-6-6-------------6-6-8-8-5-5-5-5--6-6-------------6-6-8-8-5--5-|
+G|-----2-2-3-3-3-3----------------------2-2-3-3-3-3--------------|
+D|---------------------------------------------------------------|
+A|---------------------------------------------------------------|
+E|---------------------------------------------------------------|
+
+       Dm           Bb       F     C
+ Sem você, magia alguma pode me ajudar,
+       Dm              Bb         F           C
+ Sem você, confundo a lua com a luz do seu olhar,
+       Dm           Bb       F      C
+ Sem você, magia alguma pode me ajudar,
+        Gm         Dm        Bb       C      D5( 5º casa)
+ Vou ficar aqui na rua ate você voltar, pra mim.
+Intro:
+    Dm       Bb      F       C        Dm      Bb      F       C
+E|---------------------------------------------------------------|
+B|-6-6-------------6-6-8-8-5-5-5-5--6-6-------------6-6-8-8-5--5-|
+G|-----2-2-3-3-3-3----------------------2-2-3-3-3-3--------------|
+D|---------------------------------------------------------------|
+A|---------------------------------------------------------------|
+E|---------------------------------------------------------------|
+
+F                                        C
+ Eu vi a lua e pensei que o brilho era você,
+                              Dm
+ Se eu enlouquecer a culpa e sua,
+                              Bb  C
+ Se eu enlouquecer a culpa suaaaa.
+
+Refrão:
+       Dm           Bb       F     C
+ Sem você, magia alguma pode me ajudar,
+       Dm              Bb         F           C
+ Sem você, confundo a lua com a luz do seu olhar,
+       Dm           Bb       F      C
+ Sem você, magia alguma pode me ajudar,
+        Gm         Dm        Bb       C       Dm  C  A
+ Vou ficar aqui na rua ate você voltar, pra mim.
+
+       Dm           Bb       F     C
+ Sem você, magia alguma pode me ajudar,
+       Dm              Bb         F           C
+ Sem você, confundo a lua com a luz do seu olhar,
+       Dm           Bb       F      C
+ Sem você, magia alguma pode me ajudar,
+        Gm         Dm        Bb       C         D5
+ Vou ficar aqui na rua ate você voltar, pra mim.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D5 = X 5 7 7 X X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

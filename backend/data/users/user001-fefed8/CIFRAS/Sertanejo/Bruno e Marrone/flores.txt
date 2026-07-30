@@ -1,0 +1,95 @@
+@titulo: flores
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Flores
+
+Intro:
+
+       A#     F    Gm                  Eb
+E|--------------|--------------------------------|
+B|--------------|--------------------------------|
+G|--5h7-10\5-5--|-3-2h3p2---3-2h3p2---3-2h3p2----|
+D|--------------|---------3---------3---------3--|
+A|--------------|--------------------------------|
+E|--------------|--------------------------------|
+
+          A#     F    Gm                  Eb
+E|-----------------|--------------------------------|
+B|-----------------|--------------------------------|
+G|---5-5h7-10\5-5--|-3-2h3p2---3-2h3p2---3-2h3p2----|
+D|-----------------|---------3---------3---------3--|
+A|-----------------|--------------------------------|
+E|-----------------|--------------------------------|
+
+A#         F/A Gm         Eb
+Se você chorar, te faço sorrir
+A#       F/A   Gm        Eb
+Se você fugir, te faço voltar pra mim
+
+A#            F/A  Gm        Eb
+Se finge não ver, te faço enxergar
+A#         F/A  Gm            Eb
+E se for dormir, eu vou te acordar
+
+A#               F/A          Gm            Eb
+Com flores e as cores que combinam com a paixão
+A#              F/A        Gm            Eb
+E um verso rabiscado, eu te amo num cartão (2x)
+
+(Repete Intro)
+
+A#         F/A Gm         Eb
+Se você chorar, te faço sorrir
+A#       F/A   Gm        Eb
+Se você fugir, te faço voltar pra mim
+A#            F/A  Gm        Eb
+Se finge não ver, te faço enxergar
+A#         F/A  Gm            Eb
+E se for dormir, eu vou te acordar
+
+A#               F/A          Gm            Eb
+Com flores e as cores que combinam com a paixão
+A#              F/A        Gm            Eb
+E um verso rabiscado, eu te amo num cartão (2x)
+
+Cm7               F/A   A#                Eb
+Não precisa ter medo, eu vou te fazer acreditar
+Cm
+No meu amor (no meu amor)
+Eb
+No nosso amor (no nosso amor)
+F/A
+Você sempre vai lembrar
+
+A#               F/A          Gm            Eb
+Das flores e as cores que combinam com a paixão
+A#               F/A          Gm            Eb
+E um verso rabiscado, eu te amo num cartão (2x)
+
+Solo final (desacelerando):
+
+    Eb                         A#
+E|--------------------------|-1-|
+B|--------------------------|-3-|
+G|-3-2---3-2---3-2---3-2----|-3-|
+D|-----3-----3-----3-----3--|-3-|
+A|--------------------------|-1-|
+E|--------------------------|-x-|
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+Cm = X 3 5 5 4 3
+Cm7 = X 3 5 3 4 3
+E = 0 2 2 1 0 0
+Eb = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+Gm = 3 5 5 3 3 3

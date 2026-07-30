@@ -1,0 +1,133 @@
+@titulo: coisas-do-coracao
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Coisas do Coração
+
+Intro: G  C  G  C
+
+            G       C
+Quando o navio finalmente alcançar
+   G    C
+A terra
+            G           C
+E o mastro da nossa bandeira
+      D7
+Se enterrar no chão
+Em                     Bm
+Eu vou poder pegar em sua mão
+ Em                         Bm
+Falar de coisas que eu não disse
+       Bm  Bbm
+Ainda não
+ Am        C       G
+Coisas do coração!
+ Am        C       G
+Coisas do coração!
+  C       G           C
+Quando a gente se tornar rima
+
+    G    C
+Perfeita
+         G             C
+E assim virarmos de repente
+     D7
+Uma palavra só
+Em                 Bm
+Igual a um nó que nunca se desfaz
+ Em                   Bm
+Famintos um do outro como
+         Bm  Bbm
+Canibais
+ Am       C          G
+Paixão e nada mais!
+ Am       C          G
+Paixão e nada mais!
+      Em          B7              Em
+Somos a  resposta exata do que a gente
+    D7
+Perguntou
+      C       Am
+Entregues num abraço que
+   D7
+Sufoca o próprio amor
+ Em         B7           Em
+Cada um de nós é o resultado
+      D7
+Da união
+    A7                     D7
+De duas mãos coladas numa mesma
+        Bm  Bbm
+Oração!
+ Am        C       G
+Coisas do coração!
+ Am        C       G
+Coisas do coração!
+
+Solo: G C G C G C D
+E|-----------------------------------------|
+B|-----------------------------------------|
+G|-----4--7--7--7--4--5--4--7--9--7--------|
+D|---5-------------------------------9-----|
+A|-5---------------------------------------|
+E|-----------------------------------------|
+
+E|-----------------------------------------|
+B|-----------------------------------------|
+G|-----4--7--7--7--4--5--4--7--9--7--------|
+D|---5-------------------------------9/11--|
+A|-5---------------------------------------|
+E|-----------------------------------------|
+
+   Em                 Bm
+Igual a um nó que nunca se desfaz
+ Em                   Bm
+Famintos um do outro como
+         Bm  Bbm
+Canibais
+ Am       C         G
+Paixão e nada mais!
+ Am       C         G
+Paixão e nada mais
+      Em          B7              Em
+Somos a  resposta exata do que a gente
+       D7
+Perguntou
+    C         Am
+Entregues num abraço que
+     D7
+Sufoca o próprio amor
+ Em         B7           Em
+Cada um de nós é o resultado
+      D7
+Da união
+    A7
+De duas mão coladas numa
+    D7
+Mesma
+    Bm  Bbm
+Oração!
+ Am        C       G
+Coisas do coração!
+ Am        C       Cm   G
+Coisas do coração!
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+Bbm = X 1 3 3 2 1
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

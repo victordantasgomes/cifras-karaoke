@@ -1,0 +1,93 @@
+@titulo: es-o-deus-que-me-cura
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - És o Deus Que Me Cura
+
+D                  Gm, D
+  És o Deus que me cura
+Bm7              C/D D      G
+  És o Deus que sara a minha dor
+                  Em7
+  És o Deus que me ama
+G                         A
+  E este amor em Cristo me salvou
+D                  Gm, D
+  És o Deus que me sonda
+Bm7              C/D D      G
+  És o Deus que conhece tudo o que sou
+                    Em7
+  És o Deus que me ama
+G                         A                   D
+  E este amor em Cristo me restaurou
+
+( C G/B )
+
+
+D          D4, D          Bm7, D4/B, Bm7
+  Meu Deus,     meu Salvador
+
+                             G
+  Teus braços estendidos
+Em9                          A G/B A/C#
+  Me tocam com amor
+D          D4, D          Bm7, D4/B, Bm7
+  Meu Deus,    meu restaurador
+                 G
+  O túmulo vazio
+Em9                                  A
+  Me faz mais que vencedor
+
+( Csus2(13)  Gsus2/B A#7M(13)  C/D  D )
+( Csus2(13)  Gsus2/B A#7M(13)  C/D  D
+
+(repete tudo)
+
+E                           E4 E
+  És o Deus que me cura
+C#m                 B          E/G#     A
+  És o Deus que sara a minha dor
+                              F#m
+  És o Deus que me ama
+A                         B       B7
+  E este amor em Cristo me salvou
+E                           E4 E
+  És o Deus que me sonda
+C#m                         B      E/G#           A
+  És o Deus que conhece tudo o que sou
+                              F#m
+  És o Deus que me ama
+A                         B       B7            E
+  E este amor em Cristo me restaurou
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#7M(13) = X 1 X 2 3 3
+A/C# = X 4 X 2 5 5
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+C/D = X X 0 0 1 0
+Csus2(13) = X 3 2 2 3 3
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D4/B = X 2 0 2 P3 3
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+Em7 = 0 2 2 0 3 0
+Em9 = 0 2 4 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+Gm = 3 5 5 3 3 3
+Gsus2/B = 7 X X 7 8 5

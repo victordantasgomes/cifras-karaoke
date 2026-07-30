@@ -1,0 +1,64 @@
+@titulo: mais-que-vencedores
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - Mais Que Vencedores
+
+Intro: A G A G C#m - D
+
+A         A4            A
+Nós a excelência da criação
+                   G
+Um povo forte colorindo enchendo os céus
+         A/C#  D
+De uma nova canção
+       A   A4              A
+A de viver não pelo que se vê
+                       G           A/C#  D
+Acreditar onde é impossível pensar
+                            E
+Tocar aquilo que ainda não existe
+              F#m                  E
+Voar sobre os montes, vencer os problemas
+C#m (B-A)   F#m                   E
+Crer e entender, que viver vale a pena
+          A/C# D   B/D#
+Porque nem morte, tribulações
+    E        C#/F
+Nem guerras, perseguições
+
+    F#m      E           D
+Nos poderiam separar do amor de Deus
+            E
+E isto nos faz
+
+A                   G     A/C# D
+Mais, mais que vencedores
+                    A      G
+Muito mais que vencedores
+          A                   G     A/C#  D
+Nós somos mais, mais que vencedores
+                    A
+Muito mais que vencedores
+
+(Solo e sobe de tom)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C#/F = X 8 X 6 9 9
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

@@ -1,0 +1,78 @@
+@titulo: o-silencio
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - O Silêncio
+
+
+OBS: A introdução é feita da seguinte maneira: D simples sem pestana A na forma de um ré na 9ª casa e o G na forma de ré 7ª casa e depois A com pestana na 5ª casa e o G com pestana na 3ª casa
+
+obs 2: riff 1 feito em forma de D toque o acorde com o dedo 4 irá fazer as notas
+riff 1:
+E|-3-2-0-2-3--
+B|------------   riff1= D D4 D D9 D e-3/G
+G|------------
+D|------------
+A|------------
+E|------------3
+INTRO: D A G A G (4x) D,riff1 G
+
+D    riff1        G
+Uma bolha sobe do fundo do mar
+      D              riff1       G
+Uma palavra sobe das funduras do silêncio
+  Em         A
+Inesperada, emissária de um mundo esquecido
+D     riff1           G
+Nosso mistério, nossa oração
+
+     D                             G
+Há palavras que dizemos e outras que se dizem
+  Em                  A
+Existem em nós, não atendem a nossa voz
+             G
+"São como o vento que sopra onde quer
+              A        G        D
+Se ouvirmos o sopro, palavras de oração"
+
+INTRO: D A G A G (4x) D,riff1, G
+
+Pássaro selvagem que mora em nós
+Longe do que nós sabemos, no lugar dos sonhos
+Fora da morada dos pensamentos
+Temos medo das palavras que se dizem
+Por isso falamos, palavras contra palavras
+Quando orares não sejais como artistas
+"Que falam palavras que não são suas
+Que usam máscaras decoradas"
+
+INTRO: D A G A G (4x) D G
+
+D                   A
+Entra no silêncio, longe dos outros
+          Em            G      Bm        A
+Que as palavras se dirão, depois da espera
+D                   A
+Entra no silêncio, longe dos muitos
+    Em           G  Bm   A
+E escuta uma única palavra
+     D            G
+Que irá subir do fundo do mar
+   D             G       A         G  D
+Basta ouvir uma vez e depois, o silêncio.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

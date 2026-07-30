@@ -1,0 +1,123 @@
+@titulo: pedaco-de-mim
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Pedaço de Mim
+
+Intro: E F# Ebm G#m E F# A F#
+       B.....................
+
+
+       B           F#
+Minha vida tão mudada
+       G#m        Ebm
+Tão confusa, machucada
+       E           A      F#4   F#
+O meu mundo tão vazio sem você
+         B            F#
+Os meus sonhos se perderam
+        G#m          Ebm
+Noite a dentro, madrugada
+        E         C#m     F#    B    F#
+E a saudade me apertando por você
+
+
+     B             F#
+Novamente aqui sozinho
+    G#m         Ebm
+Na metade do caminho
+
+          E           A        F#4    F#
+Estou perdido, sem coragem pra seguir
+         B               F#
+Como um sol que perde o brilho
+        G#m              Ebm
+Como um pai que perde um filho
+       E         C#m    F#       B   B7
+Eu também perdi você, pedaço de mim
+
+
+Refrão:
+
+B7        E     F#            B  G#m
+Mais uma vez estou a te esprerar
+            E        F#
+E você não vem, não vem
+            B   B7
+E você não vem
+
+B7        E     F#            B   G#m
+Mais uma vez estou a te esprerar
+           E
+E você não vem, não vem, não vem
+          C#m      F#            B
+E eu a chorar, chorar, chorar, chorar
+
+
+Intro: E F# Ebm G#m E F# A F#
+       B.....................
+
+
+     B             F#
+Novamente aqui sozinho
+    G#m         Ebm
+Na metade do caminho
+          E           A        F#4    F#
+Estou perdido, sem coragem pra seguir
+         B               F#
+Como um sol que perde o brilho
+        G#m              Ebm
+Como um pai que perde um filho
+       E         C#m    F#       B   B7
+Eu também perdi você, pedaço de mim
+
+Refrão:
+
+B7        E     F#            B  G#m
+Mais uma vez estou a te esprerar
+            E        F#
+E você não vem, não vem
+            B   B7
+E você não vem
+
+B7        E     F#            B   G#m
+Mais uma vez estou a te esprerar
+           E
+E você não vem, não vem, não vem
+          C#m      F#            B     B7
+E eu a chorar, chorar, chorar, chorar
+
+
+B7        E     F#            B  G#m
+Mais uma vez estou a te esprerar
+            E        F#
+E você não vem, não vem
+            B   B7
+E você não vem
+
+B7        E     F#            B   G#m
+Mais uma vez estou a te esprerar
+           E
+E você não vem, não vem, não vem
+          C#m      F#            B    G#m
+E eu a chorar, chorar, chorar, chorar
+         C#m      F#            B    ...  C#m  B-F#-B
+E eu a chorar, chorar, chorar, chorar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+Ebm = X X 1 3 4 2
+F# = 2 4 4 3 2 2
+F#4 = 2 4 4 4 2 2
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,66 @@
+@titulo: saudade-faz-doer
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Saudade Faz Doer
+
+Intro: D  Em  A7  D  G  D
+
+                   D                       C/E  D/F#    G  C
+Não sei que horas são mas o meu coração me pede pra   sair
+G      D/F#       Em       Em/D      A/C#   A7
+  não quero nem saber se vai me receber    ou vai querer
+   D   G  D                D                    Am7     D7
+dormir      você vai me aturar vai ter que me agradar fazer
+      G       C  G                         D
+minha vontade      abra a porta e deixe entrar to chegando
+        A7     G        A7    D     G  D
+pra te amar to matando uma saudade
+
+             Em  A4/7  A7                    D            G     :
+Saudade faz doer         faz a gente ser escravo da paixão      :
+D                      A7                    G                  :
+  deixa a gente sem destino faz homem ser menino sem vergonha   :
+         D  G  D              Em  A4/7  A7                      : Refrão
+e sem razão      saudade faz doer          faz a gente          :
+     D                                 A7                       :
+enlouquecer na solidão faz a fome do desejo me trazer até seu   :
+
+ G                   D        G  D                              :
+beijo sem saber que horas são                                   :
+
+Intro: D  Em  A7  D  G  D
+
+                   D                    C/E           D/F#
+Não sei que horas são mas não diga que não, não finga que
+ G       C  G    D/F#         Em     Em/D        A/C#
+não quer      você não vai fugir meu corpo quer sentir um
+ A7        D    G  D                  D
+toque de mulher      cansei de te esperar agora eu vou
+Am7          D/F#      G    D  G                       D
+mostrar quem ama de verdade     abra a porta e deixe entrar
+                    A7     G       A7     D    G  D
+to chegando pra te amar to matando uma saudade
+
+[ Repete refrão 2X ]
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A4/7 = X 0 2 0 3 0
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+G = 3 2 0 0 0 3

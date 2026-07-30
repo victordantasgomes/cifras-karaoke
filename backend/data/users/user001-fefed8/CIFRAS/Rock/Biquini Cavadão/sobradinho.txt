@@ -1,0 +1,147 @@
+@titulo: sobradinho
+@autor:
+@intérprete: Biquini Cavadão
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Biquini Cavadão - Sobradinho
+
+[Intro] D  D9  D  D9
+        Bm  Bm11  Bm  Bm11
+        D  D9  D  D9
+        Bm  Bm11  Bm  Bm11
+
+          D
+O homem chega e já desfaz a natureza
+                      C                         G
+Tira a gente e põe represa e diz que tudo vai mudar
+          D
+O São Francisco lá pra cima da Bahia
+                   C                    G
+Diz que dia menos dia vai subir bem devagar
+          Bb                          F
+E passo a passo vai cumprindo a profecia
+               Bb                     A7
+Do beato que dizia que o sertão ia alagar
+
+[Refrão]
+
+      F#7          Bm   G         F#m
+O sertão vai virar mar, dá no coração
+
+ D              Bm            G        F#m
+O medo que algum dia o mar também vire sertão
+      Bm   G       F#m
+Vai virar mar, dá no coração
+  D              Bm           G           A7
+O medo que algum dia o mar também vire sertão
+
+( D  D9  D  D9 )
+( Bm  Bm11  Bm  Bm11 )
+( D  D9  D  D9 )
+( Bm  Bm11  Bm  Bm11 )
+
+        D
+Adeus Remanso, Casanova, Sento-Sé
+              C                      G
+Adeus pilão arcado, vem o rio te engolir
+         D
+Debaixo d'água, lá se vai a vida inteira
+                 C                    G
+Por cima da cachoeira o gaiola vai subir
+           Bb                      F
+Vai Ter barragem no salto de sobradinho
+                  Bb                     A7
+E o povo vai se embora com medo de se afogar
+
+[Refrão]
+
+      F#7          Bm   G         F#m
+O sertão vai virar mar, dá no coração
+ D              Bm            G        F#m
+O medo que algum dia o mar também vire sertão
+      Bm   G       F#m
+Vai virar mar, dá no coração
+  D              Bm           G           A7
+O medo que algum dia o mar também vire sertão
+
+( D  D9  D  D9 )
+( Bm  Bm11  Bm  Bm11 )
+( D  D9  D  D9 )
+( Bm  Bm11  Bm  Bm11 )
+( D  D9  D  D9 )
+( Bm  Bm11  Bm  Bm11 )
+( D  D9  D  D9 )
+( Bm  Bm11  Bm  Bm11 )
+
+E|-10-10-10--12--12-12--14--14-14--12-10--|
+B|-10-10-10--10--10-10--10--10-10--10-10--|
+G|-11-11-11--11--11-11--11--11-11--11-11--|
+D|----------------------------------------|
+A|----------------------------------------|
+E|----------------------------------------|
+
+E|-7-7-10-7--7-7-7--7-7-10-7--------------|
+B|-7-7-7--7--7-7-7--7-7-7--7--------------|
+G|-7-7-7--7--7-7-7--7-7-7--7--------------|
+D|-9-9-9--9--9-9-9--9-9-9--9--------------|
+A|----------------------------------------|
+E|----------------------------------------|
+
+        D
+Adeus Remanso, Casanova, Sento-Sé
+              C                      G
+Adeus pilão arcado, vem o rio te engolir
+     D
+Debaixo d'água, lá se vai a vida inteira
+               C                    G
+Por cima da cachoeira o gaiola vai subir
+        Bb                      F
+Vai Ter barragem no salto de sobradinho
+                Bb                      A7
+E o povo vai se embora com medo de se afogar
+
+[Refrão]
+
+      F#7          Bm   G         F#m
+O sertão vai virar mar, dá no coração
+ D              Bm            G        F#m
+O medo que algum dia o mar também vire sertão
+      Bm   G       F#m
+Vai virar mar, dá no coração
+  D              Bm           G           A7
+O medo que algum dia o mar também vire sertão
+
+      F#7          Bm   G         F#m
+O sertão vai virar mar, dá no coração
+ D              Bm            G        F#m
+O medo que algum dia o mar também vire sertão
+      Bm   G       F#m
+Vai virar mar, dá no coração
+  D              Bm           G           A7
+O medo que algum dia o mar também vire sertão
+
+( D  D9  D  D9 )
+( Bm  Bm11  Bm  Bm11 )
+
+Na       na na nanaa
+    D                                                  Bm
+Remanso, Casanova, Sento-sé, pilão arcado, sobradinho, adeus, adeus
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+Bm11 = X 2 2 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+F = 1 3 3 2 1 1
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

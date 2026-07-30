@@ -1,0 +1,92 @@
+@titulo: fixacao
+@autor:
+@intérprete: Kid Abelha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kid Abelha - Fixação
+
+[Intro]
+
+       Bm       G     A     A9
+E|------------------------0--------|
+B|--------------------------0------|
+G|------0---0-2------2--------2----|
+D|---4-----------------2--------2--|
+A|-2-------------0-0-----0---------|
+E|--------3------------------------|
+
+[Solo]
+
+E|-2-------------------|-5-7-5----|------7-5---7-----7-9-10-9-7----7------------------------------|
+B|---3--5-5-5-3-5-3----|-------7--|-7-7------7-----7------------10---8-7-----7----10-8-7----------|
+G|------------------4--|----------|--------------------------------------7-9-------------7-9-7-9--|
+D|---------------------|----------|--------------------------------------------9------------------|
+A|---------------------|----------|---------------------------------------------------------------|
+E|---------------------|----------|---------------------------------------------------------------|
+
+E|-14-14-14-14-12------------------------------------------------------------------------------|
+B|--------------------------------------------------------------------------------7-7-7--------|
+G|------------------9-7-6-------------------------6---9-9---7-7---7-7---7-7-7-7---------9-7----|
+D|------------------------9-7-----------------7-9-------------------------------------------9--|
+A|----------------------------10-9-7--------7--------------------------------------------------|
+E|-----------------------------------10-9-7----------------------------------------------------|
+
+
+ Bm  G     A9      Bm  G       A9
+Seu rosto na tevê parece um milagre
+Bm   G     A9      Bm  D     A9
+Uma perfeição nos mínimos detalhes
+Bm  G   A9   Bm  G       A9
+Eu mudo o canal, eu viro a página
+ Bm    G     A            Bm       D   A
+Mas você me persegue por todos os lugares
+    F#m                G
+Eu vejo seu poster na folha central
+ Em                A
+Beijo sua boca te falo bobagens
+
+ Bm  G        A
+Fixação, seus olhos no retrato
+ Bm  G    A
+Fixação, minha assombração
+ Bm  G    A
+Fixação, fantasmas no meu quarto
+ Bm  G      A
+Fixação, I want to be alone
+
+  Bm  G    A9          Bm      G   A9
+Preciso de uma chance de tocar em você
+ Bm    G     A9        Bm       D    A9
+Captar a vibração que sinto em sua imagem
+ Bm   G          A9        Bm   G      A9
+Fecho os olhos pra te ver você nem percebe
+ Bm        G            A9     Bm       D     A9
+Penso em provas de amor ensaio um show passional
+F#m                    G
+Eu vejo seu poster na folha central
+ Em                A
+Beijo sua boca te falo bobagens
+
+ Bm  G        A
+Fixação, seus olhos no retrato
+ Bm  G    A
+Fixação, minha assombração
+ Bm  G       A
+Fixação, fantasmas no meu quarto
+ Bm  G      A
+Fixação, I want to be alone
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

@@ -1,0 +1,66 @@
+@titulo: lem-casa
+@autor:
+@intérprete: Victor e Leo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Victor e Leo - Lem Casa
+
+(capo 2ª casa - diminua 1 tom)
+
+(intro) E B C#m B B/A E B C#m B E A E
+
+                             A
+Lem casa toda festa ia pra cozinha
+         B                             E
+Despensa cheia: Mel, feijão, milho e farinha
+                                  A
+E no calor do fogão à lenha e da viola
+             B                        E     E7
+Ninguém que ali tivesse tão cedo ia embora
+         A             B           C#m
+Quando nascia o sol lá no sertão mineiro
+         A              B           E       A E
+Café com broa, queijo e requeijão caseiro
+
+(refrão)
+    B                      E
+Lem casa anoitecia e eu dormia
+                     B         A             E
+Feito quem jamais queria despertar de tanta paz
+
+    B
+Lem casa o céu era mais céu
+   C#m
+E quando olho pras estrelas
+B                              E
+Penso ouvir as vozes dos meus pais
+
+                                    A
+Há muito tempo, que saudade de "lem casa"
+          B                        E
+Dos campos e do riachinho de água rasa
+                                 A
+Em que na beira eu sentava pra pescar
+      B                            E   E7
+Piaba fresca e muitos causo pra contar
+ A             B           C#m
+Quando nascia o sol lá no sertão mineiro
+         A              B           E       A E
+Café com broa, queijo e requeijão caseiro
+
+(refrão)
+
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+A*  = X 0 2 2 2 0 - (*B na forma de A)
+B*  = X 2 4 4 4 2 - (*C# na forma de B)
+B/A*  = X 0 4 4 4 X - (*C#/B na forma de B/A)
+C#m*  = X 4 6 6 5 4 - (*D#m na forma de C#m)
+E*  = 0 2 2 1 0 0 - (*F# na forma de E)
+E7*  = 0 2 2 1 3 0 - (*F#7 na forma de E7)

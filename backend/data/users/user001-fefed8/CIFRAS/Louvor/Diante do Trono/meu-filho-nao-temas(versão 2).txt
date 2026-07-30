@@ -1,0 +1,91 @@
+@titulo: meu-filho-nao-temas(versão 2)
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Meu Filho, Não Temas
+
+INTRO: [Rhodes+solo violão]
+
+1 – Violão
+
+     Dm/C   C        G/B  Am7         F9             Ab7+    Bb2  
+E||--------------------------------------------------------------| 
+B||-6-6-6h8-5------5-3--5/8-5---5-6-8-6/8---------5--8--6-4-h6---| 
+G||-7-7---------5-7---------------------5-5--5--7----------------| 
+D||--------------------------------------------------------------| 
+A||--------------------------------------------------------------| 
+E||--------------------------------------------------------------| 
+
+2 – Guitarra
+
+     Dm/C   C        G/B  Am7        F9             Dm7 C/E G4 G  
+E||----------------------------------------------------------------------| 
+B||-6-6-6h8-5-------5--3--5/8--5--5-6-8-6/8----------5--8----6---5---3---| 
+G||-------------5--7-----------------------5-5---5-7---------------------| 
+D||----------------------------------------------------------------------| 
+A||----------------------------------------------------------------------|
+E||----------------------------------------------------------------------|  
+
+
+::   Dm/C        C     :      G/B      Am7    :    F9    :     Ab7+    Bb2   :
+:    Dm/C        C     :      G/B      Am7    :    F9    :     Dm7     C/E    Gsus      G    ::
+
+                                  Dm/C                        C
+QUANDO ESTOU PRONTO A DESISTIR
+                        Dm/C                         C
+PENSANDO QUE CHEGUEI AO FIM
+             G/B                    Am9
+A TUA MÃO ME SUSTENTA
+             Em7                Am9
+A TUA VOZ ME ORIENTA
+                                 F              Gsus                   G
+DIZENDO: “NÃO TEMAS, MEU FILHO, NÃO TEMAS"
+                                                        1:  F/C   G/B   Am7   G/B -> Estrofe
+            F/A         F              Gsus          G  2:  Dm7   C/E    Gsus    G    -> Coro
+ “NÃO TEMAS,    MEU FILHO NÃO TEMAS"
+
+G                 C            G/B                F/A         F
+EU TE LEVANTO,        EU TE AJUDO
+                    Am7               G/B                        F2
+TE FORTALEÇO, MEU FILHO NÃO TEMAS
+                   C/G         G                    F/A         F
+EU TE LEVANTO,        EU TE AJUDO
+                    C/E                 G/D                      F2
+TE FORTALEÇO, MEU FILHO NÃO TEMAS
+
+Estrofe:  : Ab7+    Bb2  :  Db7+   Ab/C  :  Gsus   :    F/C     Am7     Gsus    G    :
+
+Fim:       : Ab7+    Bb2  :  Db7+   Ab/C  :  Dsus   :    D    ::
+
+----------------- Acordes -----------------
+Ab/C = X 3 X 1 4 4
+Ab7+ = 4 X 5 5 4 X
+Am7 = X 0 2 0 1 0
+Am9 = X 0 2 4 1 0
+Bb2 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+Db7+ = X 4 6 5 6 4
+Dm/C = X 3 X 2 3 1
+Dm7 = X 5 7 5 6 5
+Dsus = X X 0 2 3 2
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F/C = X 3 3 2 1 1
+F2 = 1 3 5 2 1 1
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G4 = 3 5 5 5 3 3
+Gsus = 3 2 0 0 0 3

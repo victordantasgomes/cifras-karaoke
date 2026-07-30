@@ -1,0 +1,79 @@
+@titulo: romeu-e-julieta
+@autor:
+@intérprete: Los Hermanos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Los Hermanos - Romeu e Julieta
+
+Assim que o amor entrou no meio, o meio virou amor
+( F#m7 B7 )
+O fogo se derreteu, o gelo se incendiou
+E a brisa que era um tufão
+( F#m7 B7 )
+Depois que o mar derramou, depois que a casa caiu
+O vento da paz soprou
+
+G                                           B7/F#  B7    Em
+ Clareou, refletiu, se cansou do ódio e viu que o sonho é real
+                     Am        C7+       C°
+E qualquer vitória é carnaval, carnaval, carnaval
+G                                        B7/F# B7      Em
+  Muito além da razão, bate forte emoção, ilusão que o céu criou
+                  Am      C7+    C°
+Onde apenas o meu coração amará, amará
+
+    G           D/F#  B7   Em                Am       D
+O amor não se tem na hora que se quer, ele vem no olhar
+G              D/F#   B7    Em               Am      D     G
+Sabe ser o melhor na vida e pede bis quando faz alguém feliz
+
+
+( F#m7 B7 )4x
+
+G                                           B7/F#  B7     Em
+  Vem aqui, vem viver, não precisa escolher os jardins do nosso lar
+                   Am          C7+         C°
+Preparando a festa pra sonhar, pra sonhar, pra sonhar
+G                                         B7/F#  B7    Em
+Faça chuva, vem o sol, em comum o futebol deu você e o nosso amor
+                     Am          C7+         C°
+Convidando as mágoas pra cantar, pra cantar, pra cantar
+
+    G           D/F#  B7   Em                Am       D
+O amor não se tem na hora que se quer, ele vem no olhar
+G              D/F#   B7    Em               Am      D     G
+Sabe ser o melhor na vida e pede bis quando faz alguém feliz
+
+( F#m7 B7 )4x
+
+[solo]--> ( G  B7/F#  B7  Em  Am  C7+  C° )2x
+
+    G           D/F#  B7   Em                Am       D
+O amor não se tem na hora que se quer, ele vem no olhar
+G              D/F#   B7    Em               Am      D
+Sabe ser o melhor na vida e pede bis quando faz alguém
+    G           D/F#  B7   Em                Am       D
+O amor não se tem na hora que se quer, ele vem no olhar
+G              D/F#   B7    Em               Am      D     G
+Sabe ser o melhor na vida e pede bis quando faz alguém feliz
+
+( F#m7 B )4x  G
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+B7/F# = X X 4 4 4 5
+C7+ = X 3 2 0 0 X
+C° = X 3 4 2 4 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

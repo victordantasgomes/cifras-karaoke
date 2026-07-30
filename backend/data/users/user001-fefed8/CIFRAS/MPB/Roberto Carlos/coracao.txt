@@ -1,0 +1,89 @@
+@titulo: coracao
+@autor:
+@intérprete: Roberto Carlos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roberto Carlos - Cora��o (Cifra)
+
+Introdu��o: F#  E  B  F# 
+
+
+B  F#/A#      G#m        B 
+    Com o cora��o na voz 
+           E         C#m 
+E o grito mais feroz 
+           F#        E  F#/A#  B 
+Eu canto a mesma dor 
+   F#/A#      G#m        B 
+De outros cora��es assim 
+            E          C#m 
+Que sofrem igual a mim 
+          E       G� 
+Do mesmo mal de amor 
+G#m         G#m7+            G#m7 
+As est�rias todas s�o iguais 
+           B          C#7/9 
+Eu apenas fa�o delas mais 
+         C#m7 
+Uma can��o de amor 
+E      F#7 
+Ou de dor 
+
+B  F#/A#          G#m   B    
+   O meu cora��o eu dei 
+             E        C#m 
+Foi tanto que eu amei 
+          F# 
+E muito o que sofri 
+B   F#/A#      G#m        B 
+    E no cora��o deixei 
+          E          C#m 
+Sangrar ent�o cantei 
+           E    G� 
+As dores que senti 
+E                   F� 
+   No meu peito bate forte o mesmo cora��o 
+B                                 B5+ 
+   Que depois de tudo grita por voc� 
+          G#m  G#m7 
+Nessa can��o 
+G#m      E   G� 
+Cora��o, cora��o 
+G#m        G#m7  B  C#7/9 
+Canta cora��o 
+E        E    G� 
+Cora��o, cora��o 
+G#m        G#m7  B  C#7/9  E  G�  G#m  G#m7  B  C#7/9 E 
+Canta cora��o 
+
+B      F#/A#       G#m 
+O meu cora��o eu dei... 
+
+  F#           E            B            F#/A#        G#m          C#m        
+  ||||||       |||o||       ||||||     4 ||o|||     4 o||ooo     4 |o|||o     
+  o|||oo       |oo|||       |o|||o       ||||||       ||||||       ||||o|     
+  |||o||       ||||||       ||||||       o||o||       |oo|||       ||oo||     
+  |oo|||       ||||||       ||ooo|       ||||o|       ||||||       ||||||     
+  ||||||       ||||||       ||||||       ||||||       ||||||       ||||||     
+
+
+  G�           G#m7+        G#m7         C#7/9        C#m7         F#7        
+  ||||||     6 ||o|||       ||||||       ||||||     4 |o|o|o       ||||||     
+  ||o|o|       |||||o       ||||||       ||||||       ||||o|       o|o|oo     
+  o||o||       |||oo|       ||||||       ||o|||       ||o|||       |||o||     
+  ||||||       ||||||       o|ooo|       |o|oo|       ||||||       |o||||     
+  ||||||       ||||||       ||||||       ||||||       ||||||       ||||||     
+
+
+  F�           B5+                     
+  ||||||       ||o|||     
+  ||||||       |o||||     
+  ||o|o|       ||||||     
+  |||o|o       ||||||     
+  ||||||       ||||||

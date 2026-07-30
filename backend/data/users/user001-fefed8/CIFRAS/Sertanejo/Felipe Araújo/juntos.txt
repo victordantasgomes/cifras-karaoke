@@ -1,0 +1,128 @@
+@titulo: juntos
+@autor:
+@intérprete: Felipe Araújo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Felipe Araújo - Juntos
+
+[Intro]  D  F#m7  Em7  G
+
+E|----------------------------------------5-----3-2--3-5/6-6-5--------|
+B|----------7-7----------7------------7-7---5-3----------------3-5~---|
+G|--------7-------7-7-9----6-6--7-7-9---------------------------------|
+D|--7-7-9-------------------------------------------------------------|
+A|--------------------------------------------------------------------|
+E|--------------------------------------------------------------------|
+
+    D
+Eu vi que você apagou
+                      F#m7
+As fotos com o seu namorado
+                      Em7
+E postou outra de manhã
+Com a legenda que dizia assim
+ G                           D
+Tudo tem começo, o meio e o fim
+
+                             F#m7
+Não vou negar que tô feliz agora
+
+                              G
+Mas vou te respeitar nesse momento
+                              Em7
+Quando doendo, mas não vou negar
+                                Bm7
+Só tava esperando essa hora chegar
+                            A9
+Tô indo aí pra enxugar seu rosto
+                              G  Gm
+Talvez meu ombro sirva de consolo
+
+               D
+Agora pode chorar
+               F#m7
+Agora pode chorar
+               Em7
+Agora pode chorar
+              G
+Logo a gente vai tá rindo disso tudo
+               D
+Agora pode chorar
+             F#m7
+Agora pode chorar
+               Em7
+Agora pode chorar
+        G
+Logo a gente vai tá rindo disso tudo
+    D
+Juntos
+
+[Solo] F#m7  Em7  G
+
+E|---------------------------5-----3-2--3-5/6-6-5----3-5-6-8-10/12~--|
+B|---------7-------------7-7---5-3----------------3------------------|
+G|--7-7-9----6-6--7-7-9----------------------------------------------|
+D|-------------------------------------------------------------------|
+A|-------------------------------------------------------------------|
+E|-------------------------------------------------------------------|
+
+Em7                                Bm7
+   Só tava esperando essa hora chegar
+                            A9
+Tô indo aí pra enxugar seu rosto
+                              G  Gm
+Talvez meu ombro sirva de consolo
+
+               D
+Agora pode chorar
+               F#m7
+Agora pode chorar
+               Em7
+Agora pode chorar
+              G
+Logo a gente vai tá rindo disso tudo
+               D
+Agora pode chorar
+               F#m7
+Agora pode chorar
+               Em7
+Agora pode chorar
+              G
+Logo a gente vai tá rindo disso tudo
+    D
+Juntos
+
+              D
+Agora pode chorar
+               F#m7
+Agora pode chorar
+               Em7
+Agora pode chorar
+              G
+Logo a gente vai tá rindo disso tudo
+    D
+Juntos
+
+[Solo] F#m7  Em7  G
+
+E|---------------------------5-----3-2--3-5/6-6-5------|
+B|---------7-------------7-7---5-3----------------3-5--|
+G|--7-7-9----6-6--7-7-9--------------------------------|
+D|-----------------------------------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

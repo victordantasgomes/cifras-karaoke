@@ -1,0 +1,65 @@
+@titulo: eu-busco-uma-estrela
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Eu busco uma estrela
+
+  Intro 2x C  G  Am  F  G
+E|--3----------------8-8-7-7-5-5-5h7p5-3|
+B|----5-6-8-8/10-8-8--------------------|
+G|--------------------------------------|   (2x)
+D|--------------------------------------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+C              G      Am           Em
+No que está pensando, pergunta meu coração
+F           Am              Dm        G
+eu estava sonhando e o seu pranto me despertou
+C              G      Am           Em
+Estou na tristeza e o silêncio me abraçou
+F           Am              Dm        G
+esse sonho não faz parar,todo pranto que já rolou
+
+F              Em       F             C
+Não consigo me perdoar e me culpo por essa dor
+F        C                  Dm         G
+se eu te amo tanto, por que sofrer sem seu amor
+
+
+C              G      Am           Em
+Eu busco uma estrela que um dia deixei fugir
+F           Am             Dm        G
+ela levou pro ceu a razão do meu existir
+
+C              G      Am           Em
+eu busco uma estrela que uma noite me abandonou
+F           Am              Dm        G
+uma estrela tão bela ,a mulher que me conquistou
+Solo:
+E|--3----------------8-8-7-7-5-5-5h7p5-3|
+B|----5-6-8-8/10-8-8--------------------|
+G|--------------------------------------|
+D|--------------------------------------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+(Repete tudo)
+
+   C              G      Am           Em
+...Estou na tristeza e o silêncio me abraçou
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

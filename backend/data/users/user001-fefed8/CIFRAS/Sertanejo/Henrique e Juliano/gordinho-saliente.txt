@@ -1,0 +1,66 @@
+@titulo: gordinho-saliente
+@autor:
+@intérprete: Henrique e Juliano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Henrique e Juliano - Gordinho Saliente
+
+Intro 2x: F#m D A9 E
+
+Primeira Parte:
+F#m
+  Mas não é possível
+   D                         A9
+Será que eu tô enxergando direito
+              E
+Bateu curiosidade eu vou ter que chegar
+
+F#m
+  Como é que pode
+   D                          A9
+Papai do céu, muito obrigado mesmo
+                 E
+Mas dá força pra ela poder me aguentar
+
+F#m                      D
+  Que ignorância da sua mãe
+                          A9
+Que te fez tão gostosa assim
+
+              E                       F#m
+Que covardia do seu pai deixar você sair
+                D                       A9
+Cê tem coragem de experimentar esse gordinho
+            E
+Cê é boa demais, não deu pra resistir
+
+Refrão:
+F#m            D                       A9
+  Gordinho saliente, que moleque pra frente
+                      E                        F#m
+Desculpe, esse é meu jeito e ninguém vai me mudar
+             D                       A9
+Gordinho saliente, que moleque pra frente
+               E                       F#m
+Eu sou a ferramenta de fazer mulher pirar
+
+             D                       A9
+Gordinho saliente, que moleque pra frente
+                      E                        F#m
+Desculpe, esse é meu jeito e ninguém vai me mudar
+             D                       A9
+Gordinho saliente, que moleque pra frente
+               E                       F#m
+Eu sou a ferramenta de fazer mulher pirar
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

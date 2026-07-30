@@ -1,0 +1,53 @@
+@titulo: desgramou-comigo
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Desgramou Comigo
+
+[Intro]  B  F#  G#m  E
+
+B                      F#                     E
+Outra noite que eu perdi o sono de saudade sua
+B                   F#                      E
+A TV ligada, a janela aberta e ninguém na rua
+G#m
+Eu até penso em ligar pra você
+E
+Mas acabamos de falar pelo telefone
+C#m
+Eu disfarço, às vezes minto
+E
+Tento guardar só comigo
+F#
+Mas vou dizer o que sinto
+B                      F#            G#m
+O que eu sinto dói, dói, dói, dói, dói
+E
+Se é amor que eu sinto
+B                      F#            G#m
+Então porque que dói, dói, dói, dói, dói?
+
+E
+Essa saudade desgramou comigo
+B                   F#
+Dói, dói, dói, dói, dói
+G#m
+Se é amor que eu sinto
+E                B         F#        G#m
+Então porque que dói, dói, dói, dói, dói?
+E
+Essa saudade desgramou comigo
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,153 @@
+@titulo: Hoje a noite não tem luar
+@autor: Menudo
+@intérprete: Legião Urbana
+@tom: G
+@velocidade: 50
+@ritmomusical: Rock Nacional
+@introdução:
+@tags:
+@nota:
+@favorita: sim
+@bpm:
+@bateria:
+@guitarra:
+@baixo:
+@teclado:
+@modoexecucao: rolagem
+@tempoexecucao: 3:19
+
+Tom: G
+[Intro] G  Am7  G/B  C  D
+
+[Tab - Intro]
+
+   G       Am7     G/B
+E|------------------------------------------|
+B|-0-----0-1-----0-3------3-3-3-3-----------|
+G|-----0-------0-------0--0-0-0-0-----------|
+D|---0-------2-------0----0-0-0-0-----------|
+A|---------0-------2------2-2-2-2-----------|
+E|-3----------------------------------------|
+                          ↑ ↑ ↓ ↑
+
+   C              D
+E|----------------2-2-2-2-2-2---------------|
+B|-5---5-5-5-5-5--3-3-3-3-3-3---------------|
+G|---0-0-0-0-0-0--2-2-2-2-2-2---------------|
+D|-----0-0-0-0-0--0-0-0-0-0-0---------------|
+A|-3---3-3-3-3-3----------------------------|
+E|------------------------------------------|
+       ↓ ↑ ↑ ↓ ↑  ↓ ↓ ↑ ↑ ↓ ↑          
+
+[Primeira Parte]
+
+[Tab - Primeira Parte]
+
+   G       Am7     G/B
+E|------------------------------------------|
+B|-0-----0-1-----0-3------3-3-3-3-----------|
+G|-----0-------0-------0--0-0-0-0-----------|
+D|---0-------2-------0----0-0-0-0-----------|
+A|---------0-------2------2-2-2-2-----------|
+E|-3----------------------------------------|
+                          ↑ ↑ ↓ ↑
+
+   C              D
+E|----------------2-2-2-2-2-2---------------|
+B|-5---5-5-5-5-5--3-3-3-3-3-3---------------|
+G|---0-0-0-0-0-0--2-2-2-2-2-2---------------|
+D|-----0-0-0-0-0--0-0-0-0-0-0---------------|
+A|-3---3-3-3-3-3----------------------------|
+E|------------------------------------------|
+       ↓ ↑ ↑ ↓ ↑  ↓ ↓ ↑ ↑ ↓ ↑          
+
+G       Am7        G/B
+Ela passou do meu lado
+      C              D
+Oi, amor - eu lhe falei
+ G      Am7      G/B
+Você está tão sozinha
+       C              D
+Ela então sorriu pra mim
+
+[Segunda Parte]
+
+B7                  Em
+   Foi assim que a conheci
+C              G
+  Naquele dia junto ao mar
+Am7           D         G   D9/F#   Em
+    As ondas vinham beijar  a     praia
+   C       D       G       D9/F#  Em
+O sol brilhava de tanta  emo_____ção
+    C     D         G   D9/F#  Em
+Um rosto lindo como o  ve_____rão
+      C    D      G    Am7  G/B  C  D
+E um beijo   aconteceu
+
+[Terceira Parte]
+
+[Tab - Terceira Parte]
+
+   G       Am7     G/B
+E|------------------------------------------|
+B|-0-----0-1-----0-3------3-3-3-3-----------|
+G|-----0-------0-------0--0-0-0-0-----------|
+D|---0-------2-------0----0-0-0-0-----------|
+A|---------0-------2------2-2-2-2-----------|
+E|-3----------------------------------------|
+                          ↑ ↑ ↓ ↑
+
+   C              D
+E|----------------2-2-2-2-2-2---------------|
+B|-5---5-5-5-5-5--3-3-3-3-3-3---------------|
+G|---0-0-0-0-0-0--2-2-2-2-2-2---------------|
+D|-----0-0-0-0-0--0-0-0-0-0-0---------------|
+A|-3---3-3-3-3-3----------------------------|
+E|------------------------------------------|
+       ↓ ↑ ↑ ↓ ↑  ↓ ↓ ↑ ↑ ↓ ↑          
+
+ G         Am7     G/B
+Nos encontramos à noite
+     C         D
+Passeamos por ai
+G        Am7      G/B
+E num lugar escondido
+       C           D
+Outro beijo lhe pedi
+
+[Quarta Parte]
+
+B7          Em
+   Lua de prata no céu
+C                  G
+  O brilho das estrelas no chão
+Am7           D        G   D9/F#  Em
+    Tenho certeza que não sonh____ava
+   C     D        G  D9/F#  Em
+A noite linda conti_nu______ava
+     C       D        G  D9/F#  Em
+E a voz tão doce que me fal_____ava
+   C    D          G     D  G  D     
+O mundo   pertence a nós
+
+[Refrão]
+
+C                    G
+  Hoje  à noite não tem luar
+D                G
+  E eu estou sem ela
+C                   G
+  Já não sei onde procurar
+D                     G  G/F
+  Não sei onde ela está
+C                    G
+  Hoje  à noite não tem luar
+D                G
+  E eu estou sem ela
+C                   G
+  Já não sei onde procurar
+D                 G  G/F  
+  Onde esta meu amor?
+
+[Final] C  G  D  G

@@ -1,0 +1,120 @@
+@titulo: amor-pra-recomecar
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Amor Pra Recomeçar
+
+Intro 3x:
+             A       E      D9
+E|--------------9-----7--------5------|
+B|----------10------9-------7---------|
+G|------------------------------------|
+D|------------------------------------|
+A|------------------------------------|
+E|------------------------------------|
+
+A                             B5(9)
+  Eu te desejo não parar tão cedo
+            D9
+Pois toda idade tem prazer e medo
+A                               B5(9)
+  E com os que erram feio e bastante
+       D9                 G
+Que você consiga ser tolerante
+
+F#m
+    Quando você ficar triste
+     E             F#m                 Bm7
+Que seja por um dia,    e não o ano inteiro
+
+F#m                           E
+    E que você descubra que rir é bom
+         F#m                 Bm7
+mas que rir de tudo é desespero
+
+Refrão:
+   A   Bm7                    E
+Desejo     que você tenha a quem amar
+              D9             F#m
+E quando estiver bem cansado
+ A    Bm7                   E
+Ainda,    exista amor pra recomeçar
+       A
+Pra recomeçar
+
+( A  E D9 )
+
+Primeira Parte (variação):
+A                       B5(9)
+  Eu te desejo, muitos amigos
+           D9
+Mas que em um você possa confiar
+A                    B5(9)
+  E que tenha até inimigos
+       D9               G
+Pra você não deixar de duvidar
+
+F#m
+    Quando você ficar triste
+     E              F#m                 Bm7
+Que seja por um dia,    e não o ano inteiro
+F#m                          E
+    E que você descubra que rir é bom
+         F#m                 Bm7
+mas que rir de tudo é desespero
+
+Refrão:
+   A   Bm7                    E
+Desejo     que você tenha a quem amar
+              D9             F#m
+E quando estiver bem cansado
+ A    Bm7                   E
+Ainda,    exista amor pra recomeçar
+       A
+Pra recomeçar
+
+Solo: ( A  Bm7  E  D9 F#m )
+
+Segunda Parte:
+      E
+Eu desejo que você ganhe dinheiro
+           D9
+Pois é preciso viver também
+         E
+E que você diga a ele, pelo menos uma vez
+        F#m
+Quem é dono de quem
+
+( D9  E F#m D9 )
+
+Refrão:
+   A   Bm7                    E
+Desejo     que você tenha a quem amar
+              D9             F#m
+E quando estiver bem cansado
+ A    Bm7                    E
+Ainda,    exista amor pra recomeçar
+       A      Bm7
+Pra recomeçar
+         F#m
+Pra recomeçar
+A        Bm7
+Recomeçar
+           E F#m D9
+Pra recomeçar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B5(9) = X 2 4 4 2 2
+Bm7 = X 2 4 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

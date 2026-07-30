@@ -1,0 +1,104 @@
+@titulo: se-eu-pedir-ce-volta
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Se Eu Pedir Cê Volta
+
+(intro)
+
+(solo)
+
+(parte 1)
+E|---------------------------------------------------|
+B|-5-7-5---------------2-3-5-7-5---------------2-3---|
+G|-------7-7\4-4-4-2-4-----------7-7\4-4-4-2-4-------|
+D|---------------------------------------------------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+(parte 2)
+E|---------------------------------------------------|
+B|-5-7-5-------8p7-----------------------------------|
+G|-------7-7/9-----9-7-------------------------------|
+D|---------------------7/9-7-9----7------------------|
+A|-----------------------------10--------------------|
+E|---------------------------------------------------|
+
+(base solo) G Bm E G A
+
+
+(primeira parte)
+                 G                   D
+Eu nem lembrava mais o gosto do seu beijo
+                 G           D
+Há tempo que a gente tava separado
+             G                  Em
+Eu nem imaginava o quanto te desejo
+                     G                 A
+Pensei que o nosso amor era caso encerrado
+
+(segunda parte)
+                  D
+Foi só te ver de novo pra eu perceber
+               Bm
+Que o meu coração,só sabe te querer
+              G                 Em             A
+bateu uma saudade,uma louca vontade de amar você
+
+(refrão)
+                G
+Se eu pedir cê volta pro meu coração
+              Bm
+pelo amor de Deus não me diga não
+               E                G                 A
+vem que tá na hora tá aberta a porta pra você entrar
+
+                G
+Se eu pedir cê volta pro meu coração
+              Bm
+pelo amor de Deus não me diga não
+               E              A             D
+vem que tá na hora a hora é agora pra você voltar
+
+(*agora a música repete desde a intro)
+
+(refrão final)
+                G
+Se eu pedir cê volta pro meu coração
+              Bm
+pelo amor de Deus não me diga não
+               E                G                 A
+vem que tá na hora tá aberta a porta pra você entrar
+
+                G
+Se eu pedir cê volta pro meu coração
+              Bm
+pelo amor de Deus não me diga não
+               E              A             D
+vem que tá na hora a hora é agora pra você voltar
+
+( G D D7M(9)/F# )
+
+(solo final)
+E|-----2-3-3-2-------------|
+B|-3-5---------5-3-3-2-3---|
+G|-------------------------|
+D|-------------------------|
+A|-------------------------|
+E|-------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D7M(9)/F# = 2 0 0 2 2 0
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 3 3

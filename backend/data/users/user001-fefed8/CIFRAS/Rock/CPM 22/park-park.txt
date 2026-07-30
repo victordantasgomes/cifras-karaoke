@@ -1,0 +1,117 @@
+@titulo: park-park
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Park, park
+
+(Riff 1)
+
+   C       D         F
+   Hoje, sexta feira
+   C      D      F
+   Logo pela manhã
+   C      D       F
+   Já pensava em tudo
+          C
+   Na verdade
+         D          F
+   Eu lembrava de você
+
+   Naquela praça   (Riff 1)
+
+   C D F              C D F
+   Parece quer os dias passaram
+             C
+   Rápido demais
+       D         F
+   E eu estou longe
+
+   C    D       F
+   Pra lhe contar
+
+   A verdade  (Riff 1)
+
+   C    D     F
+   Naquele dia
+           C
+   Eu tirava
+       D        F
+   Alguns retratos
+          C        D     F
+   E a fumaça cobria sua cabeça
+   C   D          F           (Riff 1) F
+   Como uma nuvem de tristeza
+          (Riff 1) F         (Riff 2)
+   É verdade...      É verdade...
+
+   C      D       F
+   Nós saímos pela rua
+   C     D       F
+   Com a mesma liberdade
+    C     D       F
+   Que poderíamos ter
+    C     D           F       C  D      F
+   Se não estivéssemos presos a nós mesmos
+   C         D        F
+   E isso tudo me leva a pensar
+   C     D     F    C     D      F
+   Não te contei, mas ontem eu te vi
+    C     D      F
+   Comprando ervas
+           C     D      F
+   Com a mesma liberdade
+
+   Num supermercado  (Riff 1)  F
+
+         (Riff 1) F       (Riff 3)
+   É verdade...     É verdade...
+
+         (Riff 4) F  F
+   É verdade...
+
+  final (C - B : - F )
+
+Riff 1
+  e|----------------------------------| 
+  B|----------------------------------| 
+  G|----------------------------------|   
+  D|-5-5-5-5-5-5-5--------------------| 
+  A|-3-2-3-2-3-2-3--------------------| 
+  D|----------------------------------| 
+
+Riff 2
+  e|----------------------------------------------| 
+  B|----------------------------------------------| 
+  G|----------------------------------------------|   
+  D|----------------------3b2----------3b2--------| 
+  A|-3b2--3b2--3b2--3b2---------3b2----------3b2--| 
+  D|----------------------------------------------| 
+
+Riff 3
+  e|----------------------------------------------| 
+  B|----------------------------------------------| 
+  G|----------------------------------------------|   
+  D|----------------------3b2----------5b3b2b0----| 
+  A|-3b2--3b2--3b2--3b2---------3b2---------------| 
+  D|----------------------------------------------| 
+
+Riff 4
+  e|----------------------------------------------| 
+  B|----------------------------------------------| 
+  G|----------------------------------------------|   
+  D|----------------------5b3b2b0--7b5b3b2--------|
+  A|-3b2--3b2--3b2--3b2---------------------------| 
+  D|----------------------------------------------| 
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+F = 1 3 3 2 1 1

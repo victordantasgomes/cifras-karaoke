@@ -1,0 +1,89 @@
+@titulo: farol
+@autor:
+@intérprete: Supercombo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Supercombo - Farol
+
+Intro: C#5  A5  G#5  F#5 (4x)
+
+Venha se sentar, te peço calma
+Pede uma água, que hoje eu vou contar
+
+(C#m)
+Com Todo esse tempão, você fez eu me sentir tão bem
+Eu nunca vou desistir, até um dia eu ser alguém
+
+ A                  G#
+Muito prazer em te com, com, conhecer
+
+C#m         A         E        B9
+  Eu vou pedir pra você desligar o farol
+C#m       A        E            B9
+  Pois daqui em diante eu sou meu próprio sol
+C#m      A       G#                    A         (G#)
+  E quem sabe um dia eu me torne um farol, pra você
+
+( C#5  A5  G#5  F#5 ) 4x
+
+
+(C#m)
+Vamos levantar, nos despedir
+Embora pra casa, e nunca mais voltar
+
+(C#m)
+Todo esse tempão, você fez eu me sentir
+Eu nunca vou desistir, até um dia, um dia
+
+           A                             F#           C#m
+Um dia eu ser alguém, as estrelas vão me aplaudir de pé
+A                  F#             C#m
+  As estrelas vão me aplaudir de pé
+ A                   G#
+Muito prazer em te com, com, conhecer
+
+C#m         A        E        B9
+  Eu vou pedir pra você desligar o farol
+C#m       A       E            B9
+  Pois daqui em diante eu sou meu próprio sol
+C#m       A       E         F#          A         (G#)
+  E quem sabe um dia eu me torne um farol, pra alguém
+
+Solo: C#m  A  E  B9  (2x)
+      C#m  A  E  F#  A  G#
+      C#m  A  E  B9  (6x)
+
+ A                   G#
+Muito prazer em te com, com, conhecer
+C#m          A        E       B9
+  Eu vou pedir pra você, apertar minha mão
+C#m        A         E         B9
+  Pois daqui em diante eu sou meu próprio sol
+C#m      A        E                  A            (G#)
+  E quem sabe um dia eu me torne um farol, pra você entender melhor
+
+C#m        A         E         B9          C#m    A     E B9
+ Eu vou pedir pra você, as estrelas vão me aplaudir de pé
+C#m        A         E         B9          C#m    A     E B9
+ Eu vou pedir pra você, as estrelas vão me aplaudir de pé
+
+(C#m E F# G#)
+  Papapaparapapá....
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+B9 = X 2 4 4 2 2
+C#5 = X 4 6 6 X X
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#5 = 2 4 4 X X X
+G# = 4 3 1 1 1 4
+G#5 = 4 6 6 X X X

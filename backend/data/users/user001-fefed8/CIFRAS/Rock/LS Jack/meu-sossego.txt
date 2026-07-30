@@ -1,0 +1,182 @@
+@titulo: meu-sossego
+@autor:
+@intérprete: LS Jack
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+LS Jack - Meu Sossego
+
+Em                     G
+ Só eu entendo a minha solidão
+           Am         C              Em F
+Tomado pela sensação de não viver mais
+
+Intro solo:
+
+Riff
+E|------------------------------|------------------------------|
+B|------------------------------|------------------------------|
+G|---------------2--4-----------|---------------2--4-4-4-4-----|  3x 
+D|------2--5--2--------------2--|------2--5--2-----------------|
+A|------------------------------|------------------------------|
+E|--0---------------------------|------------------------------|
+
+E|---------------------------------------------|
+B|---------------------------------------------|
+G|---------------2--4--------------------------|
+D|------2--5--2------------2-2/3--3-3-3/2------|
+A|---------------------------------------------|
+E|--0------------------------------------------|
+
+
+Em                      G
+ Só eu entendo a minha solidão
+            Am        C              Em F
+ Tomado pela sensação de não viver mais
+Em                        G
+ Sei eu que a minha louca insensatez
+                 Am        C
+ Me fez perder você de vez
+                  Em F
+ Não vou viver mais
+G                   D/F#
+ Que tudo que você faz
+                    Em
+ Do jeito que você faz
+                 Am
+ Me deixa pelo avesso
+     C
+ Só você me satisfaz
+G                   D/F#
+ Que tudo que você tem
+                    Em
+ Do jeito que você vem
+                 Am
+ Devolve o meu sossego
+      C
+ Só você me faz tão bem
+
+(Repete o Riff inicial)
+
+Em                          G
+ Eu sei que em troca desse seu perdão
+                Am
+ Me jogo desse avião
+C               Em F
+ Quero viver mais
+Em                      G
+ Eu só, a toda pela contra-mão
+             Am
+ Em busca de satisfação
+C              Em  D
+ Enfim, viver mais
+
+A                   E/G#
+ Que tudo que você faz
+                   F#m
+ Do jeito que você faz
+                Bm
+ Me deixa pelo avesso
+       D
+ Só você me satisfaz
+A                   E/G#
+ Que tudo que você tem
+                F#m
+ Do jeito que você vem
+              Bm
+ Devolve o meu sossego
+      D
+ Só você me faz tão bem
+
+Riff:
+
+ C5     B5      A5    C5           B5     A5    C#5
+E|-------------------|----------------------------------------------|
+B|-------------------|----------------------------------------------|
+G|-------------------|----------------------------------------------|
+D|10-10-10-9-9-9-7-7-|10-10-10-9-9-9-7-7-11-11-11-11-11-11-11-11-11-|
+A|-x--x--x-x-x-x-x-x-|-x--x--x-x-x-x-x-x--x--x--x--x--x--x--x--x--x-|2X
+E|-8--8--8-7-7-7-5-5-|-8--8--8-7-7-7-5-5--9--9--9--9--9--9--9--9--9-|
+
+                                                        Você me faz tão bem!
+ C5     B5  A5       C5  B5   A5   Ab
+E|-------------------|------------------------------|
+B|-------------------|------------------------------|
+G|-------------------|------------------------------|
+D|10-10-10-9-9-9-7-7-|10-10-10-9-9-9-7-6-6-6-6-6-7-7|
+A|-x--x--x-x-x-x-x-x-|-x--x--x-x-x-x-x-x-x-x-x-x-7-7|
+E|-8--8--8-7-7-7-5-5-|-8--8--8-7-7-7-5-4-4-4-4-4-5-5|
+
+A                   E/G#
+ Que tudo que você faz
+                   F#m
+ Do jeito que você faz
+                Bm
+ Me deixa pelo avesso
+       D
+ Só você me satisfaz
+
+B                   F#/Bb
+ Que tudo que você faz
+                   Abm
+ Do jeito que você faz
+                 C#m
+ Me deixa pelo avesso
+       E
+ Só você me satisfaz
+B                  F#/Bb
+ Que tudo que você tem
+                  Abm
+ Do jeito que você vem
+                 C#m
+ Devolve o meu sossego
+       E
+ Só você me faz tão bem
+
+        D   C#m    B       D     D#m
+E|-------------------|------------------------------|
+B|-------------------|------------------------------|
+G|--7-7-7-6-6-6-4-4--|-7-7-7-6-6-6-4-4-8-8-8-8-8-8-8|
+D|--x-x-x-x-x-x-x-x--|-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x|  2x 
+A|--5-5-5-4-4-4-2-2--|-5-5-5-4-4-4-2-2-6-6-6-6-6-6-6|
+E|-------------------|------------------------------|
+
+    D     C#m   B    Bb            B
+E|-----------------------------------|
+B|-----------------------------------|
+G|-7-7-7-6-6-6-4-4-------------------|
+D|-x-x-x-x-x-x-x-x-8-8-8-8-8-8-8-8-9-|
+A|-5-5-5-4-4-4-2-2-x-x-x-x-x-x-x-x-9-|
+E|-----------------6-6-6-6-6-6-6-6-7-|
+
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+A*  = X 0 2 2 2 0 - (*A# na forma de A)
+A5*  = X 0 2 2 X X - (*A#5 na forma de A5)
+Ab*  = 4 3 1 1 1 4 - (*A na forma de Ab)
+Abm*  = 4 6 6 4 4 4 - (*Am na forma de Abm)
+Am*  = X 0 2 2 1 0 - (*A#m na forma de Am)
+B*  = X 2 4 4 4 2 - (*C na forma de B)
+B5*  = X 2 4 4 X X - (*C5 na forma de B5)
+Bb*  = X 1 3 3 3 1 - (*B na forma de Bb)
+Bm*  = X 2 4 4 3 2 - (*Cm na forma de Bm)
+C*  = X 3 2 0 1 0 - (*C# na forma de C)
+C#5*  = X 4 6 6 X X - (*D5 na forma de C#5)
+C#m*  = X 4 6 6 5 4 - (*Dm na forma de C#m)
+C5*  = X 3 5 5 X X - (*C#5 na forma de C5)
+D*  = X X 0 2 3 2 - (*D# na forma de D)
+D#m*  = X X 1 3 4 2 - (*Em na forma de D#m)
+D/F#*  = 2 X 0 2 3 2 - (*D#/G na forma de D/F#)
+E*  = 0 2 2 1 0 0 - (*F na forma de E)
+E/G#*  = 4 X 2 4 5 X - (*F/A na forma de E/G#)
+Em*  = 0 2 2 0 0 0 - (*Fm na forma de Em)
+F*  = 1 3 3 2 1 1 - (*F# na forma de F)
+F#/Bb*  = 6 X 4 6 7 X - (*G/B na forma de F#/Bb)
+F#m*  = 2 4 4 2 2 2 - (*Gm na forma de F#m)
+G*  = 3 2 0 0 0 3 - (*G# na forma de G)

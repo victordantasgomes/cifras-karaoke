@@ -1,0 +1,61 @@
+@titulo: corsa
+@autor:
+@intérprete: Padre Marcelo Rossi
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Padre Marcelo Rossi - Corsa
+
+   E   B        C#m      A         E  B
+Assim como uma corsa suspira pelas águas
+   E      B         C#m      A   B     E   B7
+Assim suspira minha alma, Espírito de Deus
+        E                        C#m
+Oh, oh, enche-me Espírito... Oh, enche-me Espírito
+    A                     B
+Oh, enche-me Espírito de Deus
+        E                        C#m
+Oh, oh, enche-me Espírito... Oh, enche-me Espírito
+    A           B         E   B7
+Oh, enche-me Espírito de Deus
+
+
+E      B        C#m      A         E  B
+Assim como uma corsa suspira pelas águas
+   E      B         C#m      A   B     E   B7
+Assim suspira minha alma, Espírito de Deus
+        E                        C#m
+Oh, oh, enche-me Espírito... Oh, enche-me Espírito
+    A                     B
+Oh, enche-me Espírito de Deus
+
+        E                        C#m
+Oh, oh, enche-me Espírito... Oh, enche-me Espírito
+    A           B         E   B7
+Oh, enche-me Espírito de Deus
+
+
+E      B        C#m      A         E  B
+Assim como uma corsa suspira pelas águas
+   E      B         C#m      A   B     E   B7
+Assim suspira minha alma, Espírito de Deus
+        E                        C#m
+Oh, oh, enche-me Espírito... Oh, enche-me Espírito
+    A                     B
+Oh, enche-me Espírito de Deus
+        E                        C#m
+Oh, oh, enche-me Espírito... Oh, enche-me Espírito
+    A           B         E   B7
+Oh, enche-me Espírito de Deus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0

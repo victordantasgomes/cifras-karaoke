@@ -1,0 +1,76 @@
+@titulo: tu-es
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Tú És
+
+INTRO :  B9  F#9   B/C# C#m7   B/E C#m7/E
+                B9   F#9  B/C# C#m7   E9
+
+ B9                     F#9              B/E E9   B/C#  C#m7
+Tudo o que eu anseio está em Ti
+ B9           F#9                 B/E E9   B/C#  C#m7
+Minha esperança está em Ti
+                  B9/D#   E9
+Tenho saudades do Teu calor
+             B/F#              F#sus4    F#9
+Desejo tanto Tua presença e amor
+                G#m7    F#9/A# B9    B/E E9   B/C#  C#m7
+Eu tenho fome de Ti Senhor Jesus
+
+              B9
+Pois Tu És
+      F#sus4   F#9
+Tu És
+            B/E E9     B/C# C#m7
+Só Tu És Senhor
+              B9
+Pois Tu ÉS
+
+      F#sus4   F#9
+Tu És
+          B/E E9       B/C# C#m7
+Só Tu És Senhor
+
+              B9/D# E9           B9 / F#9 F#9
+E escondido estou    em Ti
+              G#m7 F#/A  B9    B/E E9     B/C# C#m7
+E escondido estou          em  ti
+
+INTRO : G#m7    F#9/A# B9    B/E E9   B/C#  C#m7
+                G#m7    F#9/A# B9    B/E E9   B/C#  C#m7
+
+ESTROFE
+PONTE   + rendido estou , +  frase para o coro : C# B F# E
+CORO 2X
+TAG
+END :          B/E E9   B/C#  C#m7
+             Em Ti
+                     B/E E9   B/C#  C#m7
+                     B/E
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B/C# = X 6 X 4 7 7
+B/E = X 7 9 8 7 7
+B/F# = X X 4 4 4 2
+B9 = X 2 4 4 2 2
+B9/D# = X 6 4 4 2 2
+C# = X 4 6 6 6 4
+C#m7 = X 4 6 4 5 4
+C#m7/E = 0 4 6 6 5 4
+E = 0 2 2 1 0 0
+E9 = 0 2 4 1 0 0
+F# = 2 4 4 3 2 2
+F#/A = X 0 4 3 2 X
+F#9 = 2 4 6 3 2 2
+F#9/A# = 6 X X 6 7 4
+F#sus4 = 2 4 4 4 2 2
+G#m7 = 4 X 4 4 4 X

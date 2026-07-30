@@ -1,0 +1,143 @@
+@titulo: fake-news
+@autor:
+@intérprete: Gustavo Mioto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gustavo Mioto - Fake News
+
+[Intro] C#m  F#  G#m  E
+        C#m  F#  B9
+
+E|------------------------------------------|
+B|-2-4-4h5--5-4-2------2-2/4--4-2-2h4-0-----|
+G|----------x------3-4----------------------|
+D|----------x-------------------------------|
+A|----------x-------------------------------|
+E|------------------------------------------|
+
+                            H.N.
+E|---------------------------7--------------|
+B|-2-4-4h5--5-4-2--2p0---------7------------|
+G|----------x----------3-4~-----------------|
+D|----------x-------------------------------|
+A|----------x-------------------------------|
+E|------------------------------------------|
+
+[Primeira Parte]
+
+B9
+    Se a cidade falar
+
+     E                    B9
+Que me viu sofrendo é mentira
+
+Não acredita
+                     E                  B9
+Se o povo falou que me viu chorando mentiu
+
+É fake news
+
+[Pré-Refrão]
+
+   E
+Cê acha que eu tenho cara
+ F#                         D#m7
+De alguém que sofre por alguém
+                 G#m
+Que não tem coração, se acha não
+   E
+Cê acha que pra te esquecer
+    F#                   D#m7
+Tô tendo que usar medicação
+          G#m
+Cê tem razão
+
+[Refrão]
+
+         E          F#
+Te esquecer, eu tentei
+                 D#m7
+Tá escrito nesse olho inchado
+                G#m
+Que eu não superei
+         E           F#
+Se eu pudesse, eu lavava
+               D#m7
+Você da minha vida
+                     G#m
+Mas amor não sai com água
+
+         E          F#
+Te esquecer, eu tentei
+                 D#m7
+Tá escrito nesse olho inchado
+                G#m
+Que eu não superei
+         E           F#
+Se eu pudesse, eu lavava
+               D#m7
+Você da minha vida
+                     G#m
+Mas amor não sai com água
+
+( E  F#  D#m7  G#m )
+( E  F#  D#m7  G#m )
+
+[Pré-Refrão]
+
+   E
+Cê acha que eu tenho cara
+ F#                         D#m7
+De alguém que sofre por alguém
+                 G#m
+Que não tem coração, se acha não
+   E
+Cê acha que pra te esquecer
+    F#                   D#m7
+Tô tendo que usar medicação
+          G#m
+Cê tem razão
+
+[Refrão]
+
+         E          F#
+Te esquecer, eu tentei
+                 D#m7
+Tá escrito nesse olho inchado
+                G#m
+Que eu não superei
+         E           F#
+Se eu pudesse, eu lavava
+               D#m7
+Você da minha vida
+                     G#m
+Mas amor não sai com água
+
+         E          F#
+Te esquecer, eu tentei
+                 D#m7
+Tá escrito nesse olho inchado
+                G#m
+Que eu não superei
+         E           F#
+Se eu pudesse, eu lavava
+               D#m7
+Você da minha vida
+                     G#m
+Mas amor não sai com água
+
+[Final] E  F#  D#m7  G#m  E
+
+----------------- Acordes -----------------
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+D#m7 = X X 1 3 2 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

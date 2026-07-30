@@ -1,0 +1,84 @@
+@titulo: sufoco
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Sufoco
+
+Refrão:
+               C#               G#
+Eu sei que é amor e sinto pra valer
+                  Bbm              G#
+Mais por você eu dou a cara pra bater
+                  C#                    G#
+Se eu te peço um beijo mata o meu desejo
+                F#               G#
+E tira o meu sufoco com o seu prazer
+
+Solo: ( C  G  Am  F )
+E|-x--x--x----x----x--x--x--x----x--x--x----x----x--x--x--x------|
+B|-x--x--x----x----x--x--x--x----x--x--x----x----x--x--x--x------|
+G|-10-10-10---10---10-11-10-8----10-10-10---10---10-11-10-6------|
+D|-x--x--x----x----x--x--x--x----x--x--x----x----x--x--x--x------|
+A|-8--8--8----8----8--9--8--6----8--8--8----8----8--9--8--4------|
+E|-x--x--x----x----x--x--x--x----x--x--x----x----x--x--x--x------|
+
+E|-------------------------4-----------------2-2-4---------------|
+B|-7-7-7-6-4/6--6-6--6-7-6-----4-7-6-4--2-2--2-2-4---------------|
+G|---------------------------------------------------------------|
+D|---------------------------------------------------------------|
+A|---------------------------------------------------------------|
+E|---------------------------------------------------------------|
+
+
+            C#                  G#
+Como que eu faço pra tirar da cabeça
+          Bbm                    F#
+Sendo que você não sai do meu coração
+               C#                   G#
+Sempre que me pede pra que eu te esqueça
+           Bbm              F#
+Fico no sufoco com essa paixão
+
+D#m           G#                 F
+Eu não sou brinquedo, mas você me pisa
+              Am
+E sem querer judia do meu coração
+D#m
+E faz minha cabeça
+F#              Bbm            G#
+Sempre que decido te dizer um não
+
+Refrão 2x:
+( A )
+             D                A
+Eu sei que é amor e sinto pra valer
+                  Bm               A
+Pois por você eu dou a cara pra bater
+                  D                  A
+Se eu te peço um beijo mata o meu desejo
+                G                 A        D A Bm
+E tira o meu sufoco com o seu prazer
+
+     G                 A        D A Bm G A ( D )
+E tira o meu sufoco com o seu prazer
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bbm = X 1 3 3 2 1
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+D#m = X X 1 3 4 2
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

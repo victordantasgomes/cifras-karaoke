@@ -1,0 +1,91 @@
+@titulo: por-ti-eu-existo
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Por Ti Eu Existo
+
+(intro) F#m7 E9/F# F#sus E9/F# F#m7 E9/F# F#sus E9/F# F#m7
+        D E/D Dmaj7 D E/D D/B E/B Dmaj7 D/A E/G#
+
+A9/F# D/F# A9/F# (2x) E
+UOOhhhhhh  UOOOUO...
+           F#m7 E9/F# F#sus
+Por Ti eu existo
+             A       Amaj7 Asus Amaj7 A
+Tudo era sem forma e vazio
+      D9     D6
+Até o dia em que
+             E
+Tua mão me tocou
+           F#m7 E9/F# F#sus
+Por Ti eu existo
+             A9       Amaj7 A
+Tudo era sem fôlego e sem vida
+      D9        D6
+Até o dia em que
+                 Bm7                       E
+Sussurraste Teus planos e Teus sonhos pra mim
+
+        E/G#           D/F#
+Quero estar a Teu serviço
+           Bm A   E
+Por Ti eu existo uoo
+           E/G#           D/F#
+Eu Quero estar a Teu serviço
+           Bm7 Bm/A   E
+Por ti eu existo uoo
+           A9
+Por Ti eu existo
+           F#m7
+Tu és o porquê, és a razão de viver
+          D9
+Tu és O caminho
+           Bm7                 E
+Jesus és A Porta, és meu destino
+           (F# F# C# G# A C# A D B E C# D C# B A G#)
+Por Ti eu existo
+D E/D Dmaj7 D ( C# D A G# )
+uouo
+
+(Reintro)  F#m7  E9/F#   F#sus E9/F# F#m7 F#m7 E9/F# F#sus E9/F# F#m7
+           D E/D Dmaj7 D E/D D/B E/B Dmaj7 D/A E/G#
+
+
+(final) F#m7 (F# G# A E) A  A (A B C# E) D (D F# G# A) E/G# (A G# D C# A)
+F#m7 (F# G# A E) A  A (A B C# E) D (D F# G# A) E/G# (A G# D C# A)
+F#m7
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+A9/F# = 2 X 2 2 0 0
+Amaj7 = X 0 2 1 2 0
+Asus = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+Bm7 = X 2 4 2 3 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/B = X 2 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D6 = X 5 4 2 0 X
+D9 = X X 0 2 3 0
+Dmaj7 = X X 0 2 2 2
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+E9/F# = X X 4 4 5 2
+F# = 2 4 4 3 2 2
+F#m7 = 2 X 2 2 2 X
+F#sus = 2 4 4 3 2 2
+G# = 4 3 1 1 1 4

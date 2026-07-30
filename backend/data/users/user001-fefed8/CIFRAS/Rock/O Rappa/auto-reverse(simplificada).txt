@@ -1,0 +1,10 @@
+@titulo: auto-reverse(simplificada)
+@autor:
+@intérprete: O Rappa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:

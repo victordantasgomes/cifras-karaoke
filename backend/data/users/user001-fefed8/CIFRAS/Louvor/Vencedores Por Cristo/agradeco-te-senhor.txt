@@ -1,0 +1,32 @@
+@titulo: agradeco-te-senhor
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Agradeço-te Senhor
+
+E  C#m7   F#m      E 
+Agradeço-te Senhor
+C#m7   F#m    B7  E 
+Pois tu és bondoso 
+ G#m  A   B7  E 
+Tua misericórdia 
+C#m      A  B7  E 
+Dura para sempre 
+C#m      A  B7  E 
+Dura para sempre
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

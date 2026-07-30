@@ -1,0 +1,95 @@
+@titulo: de-repente
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - De Repente
+
+ Intro: ( Em  A )
+
+Em7        C7+
+De repente     a gente sente
+Am7                        F#m4/7       B7
+    Que já não sente o que já   sentiu
+Em7           C7+
+   De repente     naturalmente
+Am7                  F#m4/7     B7
+    O que era novo envelheceu
+   Em7      ( Em   A )
+De novo
+Em7      C7+
+De repente não há mais saco
+Am7                    F#m4/7   B7
+    Pra tanto papo que já se  ouviu
+Em7          C7+
+    De repente a moda muda
+Am7                  F#m4/7
+    O mundo roda e você mudou
+B7       C7+
+Mais uma vez
+
+E7+     A7+             E7+
+    Não    há nada a perder
+    A7+             E7+
+Não    há nada a ganhar
+  A7+          F#7           Am
+A não ser o prazer de ser o mesmo
+      E7+
+Mas mudar
+    A7+           E7+
+Não    há nada só bom
+    A7+          E7+
+Nem ninguém é só mal
+      A7+         F#7
+Se o início e o final
+        Am        Em
+De nós todos é um só
+Eu digo só
+Em7              C7+
+    De repente a    gente saca
+Am7
+    Que só não passa
+      F#m4/7      B7
+O que já   passou
+Em7             C7+
+   Sem vergonha   e sem orgulho
+Am7                    F#m4/7
+   Nós somos feitos do mesmo pó
+B7       Em
+Mais uma vez
+E7+     A7+             E7+
+    Não    há nada a perder
+    A7+             E7+
+Não    há nada a ganhar
+  A7+          F#7           Am
+A não ser o prazer de ser o mesmo
+      E7+
+Mas mudar
+    A7+           E7+
+Não    há nada só bom
+    A7+          E7+
+Nem ninguém é só mal
+      A7+         F#7
+Se o início e o final
+        Am        Em
+De nós todos é um só
+Eu digo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7+ = X 0 2 1 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+C7+ = X 3 2 0 0 X
+E7+ = X X 2 4 4 4
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+F#m4/7 = 2 X 2 2 0 X

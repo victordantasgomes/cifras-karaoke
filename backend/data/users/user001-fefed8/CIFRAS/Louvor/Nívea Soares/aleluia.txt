@@ -1,0 +1,147 @@
+@titulo: aleluia
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Aleluia
+
+[Intro] Bm7
+
+[Refrão]
+
+D    Bm7  G      D   A/C#
+ Aleluia,    aleluia
+       Bm7  G     D    A
+Tu és digno   de louvor
+    Bm7  G      D   A/C#
+Aleluia,    aleluia
+       Bm7  G     D    A
+Tu és digno   de louvor
+
+Bm7
+   Te exaltamos
+G
+ Te exaltamos
+D            A/C#
+ Te exaltamos,    Jesus
+
+     Bm7                 G               D               A
+E|----------------17---------------17--------------17--------------14-|
+
+B|---15-----14---------15----14---------15---14---------15----14------|
+G|-14----14----14---14----14----14---14---14----14----14----14---14---|
+D|--------------------------------------------------------------------|
+A|--------------------------------------------------------------------|
+E|--------------------------------------------------------------------|
+
+Bm7
+   Te entronizamos
+G
+ Te engrandecemos
+D                       A
+ Glória ao teu nome oh Deus!
+
+     Bm7                 G               D               A
+E|----------------17---------------17--------------17--------------14-|
+B|---15-----14---------15----14---------15---14---------15----14------|
+G|-14----14----14---14----14----14---14---14----14----14----14---14---|
+D|--------------------------------------------------------------------|
+A|--------------------------------------------------------------------|
+E|--------------------------------------------------------------------|
+
+[Pré-Refrão]
+
+Bm7
+   Te exaltamos
+G
+ Te exaltamos
+D            A/C#
+ Te exaltamos,    Jesus
+Bm7
+   Te entronizamos
+G
+ Te engrandecemos
+D                       A
+ Glória ao teu nome oh Deus!
+
+[Refrão]
+
+    Bm7  G      D   A/C#
+Aleluia,    aleluia
+       Bm7  G     D    A
+Tu és digno   de louvor
+
+    Bm7  G      D   A/C#
+Aleluia,    aleluia
+       Bm7  G     D    A
+Tu és digno   de louvor
+
+[Pré-Refrão]
+
+Bm7
+   Te exaltamos
+G
+ Te exaltamos
+D            A/C#
+ Te exaltamos,    Jesus
+Bm7
+   Te entronizamos
+G
+ Te engrandecemos
+D                       A
+ Glória ao teu nome oh Deus!
+
+[Refrão]
+
+    Bm7  G      D   A/C#
+Aleluia,    aleluia
+       Bm7  G     D    A
+Tu és digno   de louvor
+
+    Bm7  G      D   A/C#
+Aleluia,    aleluia
+       Bm7  G     D    A
+Tu és digno   de louvor
+
+[Solo]
+
+E|-14-----14---15------15--14------14----12---12--------14-|
+B|---15-15---15---15-15--15--15-15----15---15---15-14---15-|
+G|------------------------------------------------------14-|
+D|---------------------------------------------------------|
+A|---------------------------------------------------------|
+E|---------------------------------------------------------|
+
+[Refrão]
+
+    Bm7  G      D   A/C#
+Aleluia,    aleluia
+       Bm7  G     D    A
+Tu és digno   de louvor
+
+    Bm7  G      D   A/C#
+Aleluia,    aleluia
+       Bm7  G     D    A
+Tu és digno   de louvor
+
+[Final]
+
+E|-14-----14---15------15--14------14----12---12--------14-|
+B|---15-15---15---15-15--15--15-15----15---15---15-14---15-|
+G|------------------------------------------------------14-|
+D|---------------------------------------------------------|
+A|---------------------------------------------------------|
+E|---------------------------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3

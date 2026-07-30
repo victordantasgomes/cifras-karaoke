@@ -1,0 +1,112 @@
+@titulo: bom-samaritano
+@autor:
+@intérprete: Anderson Freire
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Anderson Freire - Bom Samaritano
+
+[Intro] F  F7M  Dm  C  Bb7M  F  Bb7M
+
+F             F7M               Dm
+ Deixa eu compor um hino pra você
+            C                       Bb7M
+ Não sei a forma que você chegou aqui
+                  F7M             Bb7M
+ Um dia um certo homem assaltado foi
+            C
+ Espancaram ele até no chão cair
+F                    F7M                Dm
+ E enquanto ele sangrava um cidadão passou
+              C                   Bb7M
+ Era um sacerdote fingiu que não viu
+              F7M                Bb7M
+ Estava com pressa, tinha prioridades
+             C           C#º
+ Mas faltava amor essa é a verdade
+
+Dm           C                     Bb7M
+ No mesmo lugar vai passar um levita
+
+                   Am                  Gm7
+ Quem sabe uma canção pra Deus ele cantou
+               Am            Bb7M
+ Dizendo eu te amo acima de tudo
+                         C          C#º
+ Mas como a si mesmo o próximo ele não amou
+  Dm          C                Bb7M
+ Fez a mesma coisa que o sacerdote
+              Am                 Gm7
+ Não tinha remédio para sarar a dor
+                    Am          Bb7M
+ Com as mãos vazias ele prosseguiu
+                       C
+ E alguém caído pelo chão continuou
+
+(  F  F7M  Dm  C  Bb7M  F  Bb7M )
+
+F            F7M                  Dm
+ No mesmo lugar o bom samaritano vem
+                 C           Bb7M
+ Não sei o nome da sua religião
+                      F                   Bb7M
+ Não sei como ele cantava, se muito bem orava
+                C
+ Só sei que ocupado estavam suas mãos
+F             F7M               Dm
+ Dentro dele havia muita compaixão
+                 C              Bb7M
+ Quebrando protocolos se aproximou
+               F                  Bb7M
+ Do homem ferido, ele foi até o chão
+           C              C#°
+ Sinta ele ai tocando em suas mãos
+
+Dm          C                       Bb7M
+ Derramou azeite e vinho em suas feridas
+               Am               Gm7
+ Estancou teu sangue e te levantou
+             Am       Bb7M
+ Fez da sua vida a essência dele
+              C    C#°        Dm7
+ O bom samaritano de você cuidou
+            C              Bb7M
+ Ele não olhou pra sua aparência
+                 Am             Gm7
+ Nem o que você tinha pra oferecer
+                           Am        Bb7M
+ Não importa se existe alguém aqui caído
+              C             Dm       C
+ O bom samaritano vai aparecer
+
+              F                C               Dm
+ Você é um espelho que reflete a imagem do senhor
+                 C                 Bb
+ Não chore se o mundo ainda não notou
+         F                    Gm          C
+ Já é o bastante Deus reconhecer o seu valor
+               F                  C              Dm7
+ Você é precioso, mais raro que o ouro puro de ofir
+               C                      Bb
+ Se você desistiu, Deus não vai desistir
+             F           Gm
+ Ele está aqui pra te levantar
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+Bb7M = X 1 3 2 3 1
+C = X 3 2 0 1 0
+C#° = X 4 5 3 5 3
+C#º = X 4 5 3 5 3
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+F7M = 1 X 2 2 1 X
+Gm = 3 5 5 3 3 3
+Gm7 = 3 X 3 3 3 X

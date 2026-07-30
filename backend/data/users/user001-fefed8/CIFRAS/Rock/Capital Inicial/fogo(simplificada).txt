@@ -1,0 +1,88 @@
+@titulo: fogo(simplificada)
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Fogo
+
+(intro 2x) Gm  Bb9  Am7
+
+(primeira parte)
+
+ Gm             Bb9       Am7                  Gm  Bb9  Am7
+Humm... Você é tão acostumada a sempre ter razão
+ Gm             Bb9       Am7                       Gm      Bb9  Am7
+Humm... Você é tão articulada quando fala não pede atenção
+
+     Gm     Bb9       Am7
+O poder de dominar é tentador
+           Gm    Bb9  Am7          Gm  Bb9  Am7
+Eu já não sinto nada sou todo torpor
+
+       Gm     Bb9              Am7
+É tão certo quanto o calor do fogo
+       Gm     Bb9              Am7
+É tão certo quanto o calor do fogo
+        Gm              Bb9       Am7
+Já não tenho escolha e participo do seu jogo
+
+
+Participo...
+
+(refrão)
+Dm               C/D             Dm
+  Não consigo dizer se é bom ou mau
+             C/D
+Assim como o ar me parece vital
+Bb9                 C/Bb                 Bb9
+  Onde quer que eu vá o que quer que eu faça
+       Gm    Am7
+Sem você,   não tem graça
+
+(repete intro)
+
+(segunda parte)
+
+ Gm           Bb9         Am7                    Gm  Bb9  Am7
+Humm... Você sempre surpreende e eu tento entender
+ Gm           Bb9          Am7                        Gm       Bb9  Am7
+Humm... Você nunca se arrepende Você gosta e sente até prazer
+          Gm    Bb9          Am7
+Mas se você me perguntar eu digo sim
+         Gm            Bb9      Am7           Gm  Bb9  Am7
+Eu continuo porque a chuva não cai só sobre mim
+
+        Gm      Bb9            Am7
+Vejo os outros todos estão tentando
+       Gm     Bb9              Am7
+É tão certo quanto o calor do fogo
+        Gm              Bb9       Am7
+Já não tenho escolha e participo do seu jogo
+
+Participo...
+
+(refrão)
+Dm               C/D             Dm
+  Não consigo dizer se é bom ou mau
+             C/D
+Assim como o ar me parece vital
+Bb9                 C/Bb                 Bb9
+  Onde quer que eu vá o que quer que eu faça
+       Gm    Am7       Gm  Bb9  Am7
+Sem você,   não tem graça
+
+(revisão - Leo Eymard)
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bb9 = X 1 3 3 1 1
+C/Bb = X 1 X 0 1 0
+C/D = X X 0 0 1 0
+Dm = X X 0 2 3 1
+Gm = 3 5 5 3 3 3

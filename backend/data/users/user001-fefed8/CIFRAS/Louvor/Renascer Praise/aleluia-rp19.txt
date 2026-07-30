@@ -1,0 +1,68 @@
+@titulo: aleluia-rp19
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Aleluia (RP19)
+
+[Intro]  G  G  A  Bm  Bm  A/C#  D  A
+
+   D             A/D     Bm/D           A/D
+Aquele que se assenta em glória sobre o trono
+   D          A/D     Bm/D              G
+Aquele que é digno do livro e o selo abrir
+
+Bm7    A    A/C#   D  D/F#  G         G   A     Bm7  A D/F#  Em7
+Cor - dei - ro    de - e     Deus,    Honra e  Glória e Po - der
+
+Bm7  A   A/C#  D   D/F#  G     D/F#   G      D/F#  Em7    Em7
+Fi - el, San - to  é o   Rei,  Je-   sus,    meu   Rei
+
+Refrão 2x:
+  G   A    Bm7   A/C#  D  G   A  D    D/F# A
+A|- le - luia,          Digno  Rei
+
+  G   A    Bm7   Bbmaj7     Em7                   G
+A|- le - luia, Teu é o Poder,   pra sempre,   amém
+
+Interlúdio 2x:    G     G  A   Bm7    Bm  A/C#     D      A
+
+
+G         G    A   Bm7        Bm7    A/C#   D       A
+O,        o,   o,   o,         O,     o,    o, o,   o     -  6x
+
+Refrão:
+  G   A    Bm7   A/C#  D  G   A  D    D/F# A
+A|- le - luia,          Digno  Rei
+
+  G   A    Bm7   Bbmaj7     Em7                   G
+A|- le - luia, Teu é o Poder,   pra sempre,   amém
+
+Refrão :
+  G   A    Bm7   A/C#  D  G   A  D    D/F# A
+A|- le - luia,          Digno  Rei
+
+  G   A    Bm7   Bbmaj7     Em7                      D
+A|- le - luia, Teu é o Poder,   pra sempre,   amém
+Final:
+G         G    A   Bm7        Bm7    A/C#   D       A
+O,        o,   o,   o,         O,     o,    o, o,   o     -  4x
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/D = X X 0 6 5 5
+Bbmaj7 = X 1 3 2 3 1
+Bm = X 2 4 4 3 2
+Bm/D = X 5 X 4 7 7
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3

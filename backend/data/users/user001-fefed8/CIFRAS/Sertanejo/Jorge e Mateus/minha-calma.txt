@@ -1,0 +1,55 @@
+@titulo: minha-calma
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Minha Calma
+
+Intro: G  A  Bm
+
+D                                             F#m
+Eu penso e quando penso em você
+                                  G
+E se só eu que penso assim
+                                  A
+Se gosto de quem gosta de mim
+
+D                                           F#m
+Eu tento e quando tento não pensar
+                                  G
+E fazer algo pra esquecer
+                                  A
+Esse seu jeito lindo de ser
+
+         G             Bm
+Me devora, me consome
+              D                                  A
+Quando some eu fico louco a procurar
+                  G                       Bm
+Vou na sombra mergulho na escuridão
+
+            D                                      A
+E sem aviso você volta pra me iluminar
+
+Refrão:
+    G              A                  Bm
+Pois só você que tem esse poder
+    G              A                  Bm
+Só você faz meu dia amanhacer
+    G              A                  Bm
+Só você faz minha estrela brilhar no céu
+               G                  A                  D
+Vem me acorda, minha alma, minha calma
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

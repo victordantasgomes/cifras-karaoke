@@ -1,0 +1,46 @@
+@titulo: sem-voce
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Sem Você
+
+[Intro] A  F#m  D  A  E  A
+
+ A
+Nas incertezas de um caminho que é tão doído sem você
+   F#m
+Eu já me encontrava tão sozinho antes de adeus você dizer
+   D
+Na mágoa de um sonho que acabou
+D
+Dia-a-dia sentia você partir
+    A     E                   A
+Sem rumo, perdido vou ficando aqui
+
+       A            F#m
+Sem você......sem você
+      D
+Nem o tempo me faz companhia
+       Bm                   E
+Não me arranque essa agonia de viver
+      A           F#m
+Sem você....sem você
+
+     D                              Bm                    D
+O silencio dessas horas frias são palavras que não sei dizer
+      E     A
+Ainda amo você
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

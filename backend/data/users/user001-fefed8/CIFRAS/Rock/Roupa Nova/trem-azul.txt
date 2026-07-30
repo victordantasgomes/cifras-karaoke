@@ -1,0 +1,71 @@
+@titulo: trem-azul
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Trem Azul
+
+C                        Em7                         Dm7
+Confessar, sem medo de mentir que em você
+           F                G               C
+Encontrei inspiração para escrever
+C               Em7                             Dm7
+Você é, pessoa que nem eu, que sente amor
+               F                   G            C          C7
+Mas não sabe muito bem como vai dizer
+F                        C               Dm       G      C
+Te dou meu coração, queria dar o mundo
+F            G/A           C         Dm7         G       C
+Luar do meu sertão, seguindo no trem azul
+C                        Em7                         Dm7
+Toda vez que for assobiar, a cor do trem
+      F                    G                C
+É da cor que alguém fizer e você sonhar
+C                            Em7
+Não faz mal não ser compositor
+               Dm7                        F                           G                 C
+Se o amor valeu. Eu empresto um verso meu pra você dizer
+F                  C             Dm      G        C
+Só me dará prazer, se viajar contigo
+
+F           G/A        C          Dm         G        C
+Até nascer o sol, seguindo no trem azul
+
+Db / Fm7 / Ebm7 / Gb / Ab / Db
+
+Db                           Fm7
+Vai lembrar de um cara como eu
+         Ebm7                         Gb              Ab
+Que sente amor, mais não sabe muito bem
+            Db
+Como vai dizer
+Gb                Db          Gb     Ab    Db
+Só me dará prazer, se viajar contigo
+Gb         Ab    Db   Ebm7         Ab     Db
+Até nascer o sol, seguindo no trem azul
+Te dou meu coração queria dar o mundo
+Luar do meu sertão, seguindo no trem azul
+Seguindo no trem azul
+Gb / Gbm6 / Db
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Db = X 4 6 6 6 4
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Ebm7 = X X 1 3 2 2
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+Fm7 = 1 X 1 1 1 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+Gb = 2 4 4 3 2 2
+Gbm6 = 2 X 1 2 2 X

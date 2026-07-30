@@ -1,0 +1,69 @@
+@titulo: eres-tu
+@autor:
+@intérprete: Victor e Leo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Victor e Leo - Eres Tú
+
+ Intro 8x: G D/F#
+E|-10----10-----10-----10-|
+B|----10-----8------10----|
+G|------------------------|
+D|------------------------|
+A|-10--------10-----------|
+E|----10------------10----|
+
+G    D/F#       G   D/F#
+Uno  dia  tus  pies
+G         D/F#   G  D/F#
+Me  van  a   llevar
+G    D/F#    G   D/F#
+A donde mis manos
+G     D/F#   G  D/F#
+Te puedan tocar
+
+C9 G/B  Am7  Am7/G  D   D4 D4 D D9
+Un sueño dejaras de ser
+C9      G/B    Am7     Am7/G   D   D4 D4 D D9
+Y a esta soledad la podré   vencer
+
+C9  G/B    Am7  Am7/G        D
+Mi amor por ti tienes que conocer,
+D4   D   D9
+conocer eh eh te diré
+
+G   D/F#  Em        C9  G
+Que yo,   yo te amo
+ D/F#        Em    C9
+no puedo negar
+G    D/F# Em      C9     G
+Que el cielo me abraza
+D/F#      Em
+con tu mirar
+     C9              D
+Eres tú lo se mi destino, mi fé
+     C9            D                    G
+Eres tú lo se y no es necesario entender
+
+( G D/F# )
+
+C9 G/B  Am7  Am7/G  D   D4 D4 D D9
+Un sueño dejaras de ser ...
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Am7/G = 3 0 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

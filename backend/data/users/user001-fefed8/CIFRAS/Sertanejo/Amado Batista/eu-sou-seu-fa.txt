@@ -1,0 +1,115 @@
+@titulo: eu-sou-seu-fa
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Eu Sou Seu Fã
+
+[Intro] A  B  A  B  E
+
+[Solo Sax]
+
+E|----------------------------|----------------|
+B|--------4-----5\------------|----------------|
+G|--4--6-----6--------2--2\---|--2--1--2-------| 2x
+D|----------------------------|-----------4----|
+A|----------------------------|----------------|
+E|----------------------------|----------------|
+
+E|-----------------------------|
+B|-----------------------------|
+G|--4--------------------------|
+D|-----------2-----4-----2-----|
+A|-----------------------------|
+E|-----------------------------|
+
+E
+Quando você me quiser
+                        C#
+Quando resolver me amar
+           C#7         D
+Será que eu vou acreditar?
+            E        B   B7
+Será que eu vou? Não sei
+
+E
+Já lhe abri meu coração
+                       C#
+Você me deixou no chão
+         C#7              D
+Naquele olhar de quem não quer
+            E      B
+De quem não viu
+
+B          A                B
+O meu pensamento é ser de você
+             A               B
+Merecer seus olhos lindos em mim
+     E        B
+Toda manhã
+
+B             A                B
+Quero ser seu rei e não sou ninguém
+           A               B
+Sou o sentimento na contra-mão
+           E
+Eu sou seu fã
+
+( C#  D  D#  E )
+( C#  D  D#  E )
+
+E
+Quando você me quiser
+                        C#
+Quando resolver me amar
+           C#7         D
+Será que eu vou acreditar?
+            E        B   B7
+Será que eu vou? Não sei
+
+E
+Já lhe abri meu coração
+                       C#
+Você me deixou no chão
+         C#7              D
+Naquele olhar de quem não quer
+            E      B
+De quem não viu
+
+B          A                B
+O meu pensamento é ser de você
+             A               B
+Merecer seus olhos lindos em mim
+     E        B
+Toda manhã
+
+B             A                B
+Quero ser seu rei e não sou ninguém
+           A               B
+Sou o sentimento na contra-mão
+           E     A
+Eu sou seu fã
+           E     A
+Eu sou seu fã
+                   E    A
+Menina, eu sou seu fã
+           E     A
+Eu sou seu fã
+                   E
+Menina, eu sou seu fã
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C# = X 4 6 6 6 4
+C#7 = X 4 3 4 2 X
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+E = 0 2 2 1 0 0

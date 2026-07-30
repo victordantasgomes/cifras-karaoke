@@ -1,0 +1,67 @@
+@titulo: doce-presenca
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Doce Presença
+
+ G               D    C
+Como gotas de orvalho
+         G     C
+Sobre a relva
+          G            D   D4  D
+Assim é o teu amor, Jesus
+
+  G            D    C
+Como raios de sol
+              G       C
+Dissipando as trevas
+          G            D
+Assim é o teu amor, Jesus
+
+         G    D            Em      C
+Doce presença do Espírito Santo
+            G              Em        D
+Enche o meu coração de alegria e louvor
+        G    D            Em    C
+Doce presença que vem renovar
+       G            D        G
+A cada dia em minha vida o altar
+
+(Volta ao Início)
+
+F                  C
+Pois tu Jesus me fizeste templo
+Am             D         G
+Santuário do Espírito Santo
+F                 C
+Para viver o teu reino aqui
+Am                     D      E
+Viver para a glória de Deus.
+
+         A    E            F#m   D
+Doce presença do Espírito Santo
+             A            F#m        E
+Enche o meu coração de alegria e louvor
+        A    E            F#m    D
+Doce presença que vem renovar
+        A            E        A
+A cada dia em minha vida o altar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

@@ -1,0 +1,65 @@
+@titulo: egoismo
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Egoísmo
+
+[Intro] Am  Bm7b5  E  Am  E7
+
+    Am
+Ás vezes a gente pensa
+   Am7
+Que é dono da verdade
+   C                        Em       Am E7
+Deixando que o egoísmo tome conta de nós
+   Am
+É aí que se perde a identidade
+   Am7
+As coisas começam a tomar rumo
+   C     G                C6  C
+E aí vai tudo por água abaixo
+
+  Dm7                G       C              F
+E tudo que foi construído começa a desmoronar
+      Bm7b5                                        Am    G  Bbm  D/C  C7
+Mas será que Deus tem culpa se a gente faz tudo erradoooooooo
+    Dm              G
+É dando que se recebe
+
+     C                   F
+Perdoando que se é perdoado
+    Bm7b5                    E7         Am
+E assim o amor de Deus se renova a cada dia
+
+( Am  Dm  Dm7  G7  C  F  Bm7b5  Em7  B°  Em7  Am   A )
+
+  Dm
+E tudo que foi construído
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bbm = X 1 3 3 2 1
+Bm7b5 = X 2 3 2 3 X
+B° = X 2 3 1 3 1
+C = X 3 2 0 1 0
+C6 = 8 X 7 9 8 X
+C7 = X 3 2 3 1 X
+D/C = X 3 X 2 3 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

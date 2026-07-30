@@ -1,0 +1,59 @@
+@titulo: salmo-96
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Salmo 96
+
+[Intro] A  A4 
+        A  A4 
+        A  A4 
+        A  A4 
+
+A           A4      A       A4
+Cantai ao Senhor um cântico novo
+F#m        C#m7   B         D7M
+Cantai ao Senhor, todas as terras
+C#m7/E      D7M       C#m7/E      D7M
+Cantai ao Senhor, bendizei o seu nome
+Bm         Bm/A       G
+Proclamai a sua salvação
+
+A                    A4  A     A4
+Anunciai entre as nações a sua glória
+F#m            C#m7     B        D7M
+Entre todos os povos as suas maravilhas
+C#m7/E              D7M       C#m/E            D7M
+Porque grande é o Senhor, mui digno de ser louvado
+Bm           Bm/A          G   E
+Mais temível do que falsos deu_ses
+
+A             A4   A            A4
+Glória e majestade estão diante dele
+A       A9 E F#m     G        E
+Força e formosura no seu santuário
+A             A4   A            A4
+Glória e majestade estão diante dele
+A       A9 E F#m     G        E  A
+Força e formosura no seu santuá__rio
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+C#m/E = X 7 6 6 9 X
+C#m7 = X 4 6 4 5 4
+C#m7/E = 0 4 6 6 5 4
+D7M = X X 0 2 2 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

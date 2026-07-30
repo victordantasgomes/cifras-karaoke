@@ -1,0 +1,62 @@
+@titulo: chua-chua
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Chuá, Chuá
+
+Intr:E
+
+E  A B          A     E       A     B
+Chuá é o som da nossa onda, Chuá, chuá...
+
+   A    E A B         A    C#m      B    A     B           E
+Chuá, chuá,  Jesus é nossa onda. Chuá, chuá, chuá, chuá, chuá.
+
+      E
+Minha mãe me acordou
+         A/E
+Dizendo que é verão
+         C#m/E              B/E
+Brilha o sol amarelo e grandão
+    E                            A
+As nuvens de algodão já foram embora
+       E              B             E
+E brilha o lindo céu azul igual do mar
+
+     B                       C#m
+A cigarra que não pára de cantar
+
+     B                          C#m
+Convidando os passarinhos pra louvar
+      E                        A
+A galerinha de Jesus é dessa praia
+          E         B          E
+E todo o mundo agradece nesse som
+
+CORO
+         E
+Pega a prancha e vem surfar
+         A/E
+Na onda desse mar
+         C#m/E              B/E
+Eu já sei quem preparou esse lugar
+    E                            A
+O dono disso tudo é o paizão
+          E           B          E
+Que lá do céu recebe nossa gratidão
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/E = 0 X 2 2 2 0
+B = X 2 4 4 4 2
+B/E = X 7 9 8 7 7
+C#m = X 4 6 6 5 4
+C#m/E = X 7 6 6 9 X
+E = 0 2 2 1 0 0

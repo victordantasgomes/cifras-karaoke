@@ -1,0 +1,59 @@
+@titulo: refrigera-me
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Refrigera-me
+
+INTRO: C  G/B  Am  G/B  C  G/B  Am  G/B  C  G/B  Am
+
+Am                 Dm   G                   C
+   Refrigera minha alma   tenho sede de justiça
+F                     Dm        G                 C
+ Faz-me beber do teu rio Senhor   e assim eu viverei
+Am                   Dm    G                 C
+  Faz-me ver lindos campos  e campinas verdejantes
+F                        Dm  G                  C    G
+ Faz nascer o sol da justiça  em minh'alma jubilante
+
+           C E          Am E F                               G
+Meu bom Jesus  te seguirei  aonde quer que Tu fores irei também
+         C   E           Am  E F                                   G
+Pelos valados  pelas campinas  ou pelo vale da morte eu hei de passar
+            C  E         Am    E   F                                 G
+Pois Tu és vida  em abundância  Tu és o cajado que nos conduz a esperança  ao céu
+         C F/C   C  F/C   C F/C   C
+Tu és Jesus   Jesus    Jesus   Jesus
+
+Solo: igual a introdução
+
+
+Am                   Dm    G                 C
+  Faz-me ver lindos campos  e campinas verdejantes
+F                        Dm  G                  C    G
+ Faz nascer o sol da justiça  em minh'alma jubilante
+
+           C E          Am E F                               G
+Meu bom Jesus  te seguirei  aonde quer que Tu fores irei também
+         C   E           Am  E F                                   G
+Pelos valados  pelas campinas  ou pelo vale da morte eu hei de passar
+            C  E         Am    E   F                                 G
+Pois Tu és vida  em abundância  Tu és o cajado que nos conduz a esperança  ao céu
+         C F/C   C  F/C   C F/C   C
+Tu és Jesus   Jesus    Jesus   Jesus
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F/C = X 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

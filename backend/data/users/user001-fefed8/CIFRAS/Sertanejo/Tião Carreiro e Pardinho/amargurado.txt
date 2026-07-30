@@ -1,0 +1,87 @@
+@titulo: amargurado
+@autor:
+@intérprete: Tião Carreiro e Pardinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Tião Carreiro e Pardinho - Amargurado
+
+[Solo]
+
+E|-11--9--7-6-4-4--4--4--4--3--4-4/6--6--6--4-2-0-0/2-2---|
+B|-12-11--9-7-5-5--5--5--5--4--5-5/7--7--7--5-4-2-2/4-4---|
+D|--------------------------------------------------------|
+A|--------------------------------------------------------|
+E|--------------------------------------------------------|
+
+E|---------4-------6-5-4--4-3-4--7-4-6-6--4-6---9/11--9-7-|
+B|-4/7-6-7---7-6-7-------------­--------------------------­-|
+D|--------------------------------------------------------|
+A|--------------------------------------------------------|
+E|--------------------------------------------------------|
+
+E|---------------|
+B|---/7----------|
+G|------/8-------|
+D|---------/9----|
+A|---------------|
+E|---------------|
+
+
+Intro: B E F# B G#m C#m F# B
+
+B
+O que é feito daqueles beijos que eu te dei
+                                                         F#
+Daquele amor cheio de ilusão que foi a razão do nosso querer
+
+Pra onde foram tantas promessas que me fizeste
+             E                  F#               B
+Não se importando que o nosso amor viesse a morrer
+
+B
+Talvez com outro estejas vivendo bem mais feliz
+            B7                            E
+Dizendo ainda que nunca houve amor entre nós
+                           F#                 B
+Pois tu sonhavas com a riqueza que eu nunca tive
+             G#m            C#m          F#                    B  (B A#m G#m)
+E se ao meu lado muito sofreste, o meu desejo é que vivas melhor
+
+F#                    E             B
+Vai com Deus, sejas feliz com o teu amado
+                     F#               E             B
+Eis aqui um peito magoado que muito sofre por te amar
+         E                              F#
+Eu só desejo que a boa sorte siga teus passos
+                       E
+Mas se tiveres algum fracasso
+           F#                B   (B A#m G#m)
+Creias que ainda te posso ajudar
+
+Intro: B E F# B G#m C#m F# B (B A#m G#m)
+
+F#                    E              B
+Vai com Deus, sejas feliz com o teu amado
+                     F#               E            B
+Eis aqui um peito magoado que muito sofre por te amar
+         E                              F#
+Eu só desejo que a boa sorte siga teus passos
+                       E
+Mas se tiveres algum fracasso
+           F#                 B   E  F#  B
+Creias que ainda te posso ajudar
+
+----------------- Acordes -----------------
+A#m = X 1 3 3 2 1
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

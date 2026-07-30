@@ -1,0 +1,86 @@
+@titulo: forma-padrao
+@autor:
+@intérprete: Scalene
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Scalene - Forma Padrão
+
+Intro: G F C B
+
+Riff:
+E|----------------------------------------------------------------------------------|
+B|----------------------------------------------------------------------------------|
+G|-----------------------------------------------------------------5-5---5-5-5--5---|
+D|-----------------------------------------------------------------3-3---3-3-3--3---|
+A|----5-5----------------5--5----------------3-3---3-3-3----3-----------------------|
+E|----3-3---3--1--3--1---3--3---3--1--3--1---1-1---1-1-1----1-----------------------|
+
+E|-------------------------------------------------------------------------------|
+B|-------------------------------------------------------------------------------|
+G|-----------------------------------------------------------------5-5---5-5-3---|
+D|-----------------------------------------------------------------3-3---3-3-1---|
+A|----5-5----------------5--5----------------3-3---3-3-3----3--------------------|
+E|----3-3---3--1--3--1---3--3---3--1--3--1---1-1---1-1-1----1--------------------|
+
+G5
+Em meio a esse caos, tinha tanto a perder
+D5                  F5
+E muito a decidir, procurei entender
+
+G5
+O meu futuro eu vi, aos poucos embaçar
+D5              F5
+Pelo seu orgulho
+
+D#5             C5                 G5 (riff da intro)
+Você me disse, disse você me querer
+D#5              C5
+Em meias-verdades
+.
+G5          D#5        C5
+Ceguei-me ao tentar enxergar com seus olhos
+G5           D#5        C5
+De quem tentou calar a voz de tantos outros
+
+G
+Se eu não tivesse ouvido
+Dm              F
+Minha intuição cantar tão alto
+G                 Dm           F
+Correria o risco de ser mais um
+D#5            C5              G5 (riff da intro)
+Encarcerado em uma forma padrão
+D#5             C5
+Mais um fracasso
+
+G5          D#5        C5
+Ceguei-me ao tentar enxergar com seus olhos
+G5          D#5         C5
+De quem tentou calar a voz de tantos outros
+
+Ponte G5 G5 F5
+
+G5          D#5        C5
+Ceguei-me ao tentar enxergar com seus olhos
+G5          D#5         C5
+De quem tentou calar a voz de tantos outros
+
+(Riff da Intro)
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C5 = X 3 5 5 X X
+D#5 = X 6 8 8 X X
+D5 = X 5 7 7 X X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F5 = 1 3 3 X X X
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X

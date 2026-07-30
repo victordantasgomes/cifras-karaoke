@@ -1,0 +1,91 @@
+@titulo: reina-o-senhor
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Reina o Senhor
+
+[Intro] F  Eb6(9)  C#7M5+
+
+F                            F7M
+Reina o Senhor, tremam os povos
+C7                  C#m7(5b)
+Reina o Senhor, tremam os povos
+Dm7     C7    Bb7M
+Ele está entronizado
+C4   C
+Acima dos querubins
+
+Dm7(9)                         Am7
+O Senhor é grande em Sião
+Dm7(9)                         Am7
+O Senhor é grande em Sião
+Dm7(9)                         Am7
+O Senhor é grande em Sião
+Bb7M                            Gm7                      C4
+E sobremodo elevado acima de todos os povos
+
+F                            F7M
+Reina o Senhor, tremam os povos
+C7                  C#m7(5b)
+Reina o Senhor, tremam os povos
+Dm7     C7    Bb7M
+Ele está entronizado
+C4   C
+Acima dos querubins
+
+Dm7(9)                         Am7
+Exaltai ao nosso Deus
+Dm7(9)                         Am7
+Exaltai ao nosso Deus
+Dm7(9)                         Am7
+Exaltai ao nosso Deus
+Bb7M                            Gm7                      C4
+E prostrai-vos aos teus pés, pois só ele é santo
+
+F                            F7M
+Reina o Senhor, tremam os povos
+C7                  C#m7(5b)
+Reina o Senhor, tremam os povos
+Dm7     C7    Bb7M
+Ele está entronizado
+C4   C
+Acima dos querubins
+
+F                            F7M
+Reina o Senhor, tremam os povos
+C7                  C#m7(5b)
+Reina o Senhor, tremam os povos
+Dm7     C7    Bb7M
+Ele está entronizado
+C4   C
+Acima dos querubins
+
+Dm7(9)                         Am7
+Exaltai ao nosso Deus
+Dm7(9)                         Am7
+Exaltai ao nosso Deus
+Dm7(9)                         Am7
+Exaltai ao nosso Deus
+Bb7M                            Gm7                    C4            (Gm7 Bb7M C4)
+E prostrai-vos aos teus pés, pois só ele é santo
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bb7M = X 1 3 2 3 1
+C = X 3 2 0 1 0
+C#m7(5b) = X 4 5 4 5 X
+C4 = X 3 3 0 1 X
+C7 = X 3 2 3 1 X
+Dm7 = X 5 7 5 6 5
+Dm7(9) = X 5 3 5 5 X
+Eb6(9) = X X 1 0 1 1
+F = 1 3 3 2 1 1
+F7M = 1 X 2 2 1 X
+Gm7 = 3 X 3 3 3 X

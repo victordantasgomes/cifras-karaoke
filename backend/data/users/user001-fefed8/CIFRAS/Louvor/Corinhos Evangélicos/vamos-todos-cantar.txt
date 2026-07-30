@@ -1,0 +1,44 @@
+@titulo: vamos-todos-cantar
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Vamos Todos Cantar
+
+Intro: D G7 D A7
+
+D                          G7
+Vamos todos cantar, e ao Senhor louvar,
+  D                A7
+e esta mensagem levar.
+     D                     G7
+Ouça bem meu  irmão   que vou lhe dizer:
+     D
+O  Senhor  quer  amar
+    A7        D
+através de você.
+
+      G     A    F#m7      Bm
+Agora vou, vou, vou lhe dizer:
+       G      A     D   D7
+Meu irmão eu amo você.
+      G     A   F#m7       Bm
+Agora vou, vou, vou lhe dizer:
+      G      A      D
+Meu irmão eu amo você
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

@@ -1,0 +1,83 @@
+@titulo: mesa-22
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Mesa 22
+
+Intro:
+
+E|-------------------------------------------|
+A|-------------------------------------------|
+D|-------------------------------------------|
+G|--1/2--------------------------------------|
+B|------0------------------------------------|
+E|-------------------------------------------|
+
+( E  A9  E  A9 )
+
+E                                 G#m
+Quando acordei sem ela ali do meu lado
+                                C#m
+Eu fiquei P da vida, muito chateado
+                                        A9
+Encontrei com os amigos mas nem dei bom dia
+                                   E
+Minha mente só pensava na cama vazia
+
+E                                    G#m
+Saí para dar uma volta, esfriar a cabeça
+
+                                       C#m
+Quando cheguei no boteco vi minha princesa
+                                   A9
+Lá na mesa 22 nos braços de outro cara
+                                   B9
+Se mordendo de amor e eu ali sem graça
+
+           E              C#m              F#m
+O rádio ligado, casais abraçados e ele com ela
+           A9               B9                  E
+Coração xonado, todo arrebentado, vendo essa novela
+                              E7    A9
+Ela se divertia, meu pranto caía no passar das horas
+                E                      B9
+Não segurei as pontas, paguei a minha conta
+           E
+Chorando fui embora
+
+E                                    G#m
+Saí para dar uma volta, esfriar a cabeça
+                                       C#m
+Quando cheguei no boteco vi minha princesa
+                                   A9
+Lá na mesa 22 nos braços de outro cara
+                                   B9
+Se mordendo de amor e eu ali sem graça
+
+        E              C#m              F#m
+O rádio ligado, casais abraçados e ele com ela
+           A               B9                  E
+Coração xonado, todo arrebentado, vendo essa novela
+                              E7    A
+Ela se divertia, meu pranto caía no passar das horas
+                E                      B9
+Não segurei as pontas, paguei a minha conta
+           E
+Chorando fui embora
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

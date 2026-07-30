@@ -1,0 +1,74 @@
+@titulo: poema-de-sete-faces
+@autor:
+@intérprete: Skank
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Skank - Poema de Sete Faces
+
+Intro: D D/F# G A4 A
+
+Quando nasci, um anjo torto
+desses que vivem na sombra
+disse: Vai, Carlos! ser gauche na vida.
+
+   Em7                     Bm7
+As casas espiam os homens
+                       A
+que correm atrás de mulheres.
+   Em7              Bm7
+A tarde talvez fosse azul,
+  G                             A4   A
+não houvesse tantos desejos.
+D                        D/F#
+O bonde passa cheio de pernas:
+    G                                   A
+pernas brancas pretas amarelas.
+           Em7                           Bm7                                 A
+Para que tanta perna, meu Deus, pergunta meu coração.
+C9                  G/B
+Porém meus olhos
+
+        A                 D  D/C#
+não perguntam nada.
+C9                          D/C#           D
+Meu Deus, por que me abandonaste
+G                A                    D   D/F#
+se sabias que eu não era Deus
+C9            G/B           A      G D/F# Em7
+se sabias que eu era fraco.
+D                     D/F#
+Mundo mundo vasto mundo,
+G                                  A
+se eu me chamasse Raimundo
+Em7                      Bm7                     A
+seria uma rima, não seria uma solução.
+C9                     G/B
+Mundo mundo vasto mundo,
+G                          A          G D/F# Em7
+mais vasto é meu coração.
+D                       D/F#
+Eu não devia te dizer
+                 G
+mas essa lua
+       A
+mas esse conhaque
+C9                           G/B                 A    D
+botam a gente comovido como o diabo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+Bm7 = X 2 4 2 3 2
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/C# = X 4 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

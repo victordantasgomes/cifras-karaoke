@@ -1,0 +1,415 @@
+/* =============================================================
+   CIFRAS KARAOKÊ — design system
+   Palco escuro + vidro + luz âmbar. Cifras sempre em monoespaçada
+   (alinhamento de acordes depende disso).
+   ============================================================= */
+:root {
+  --bg: #0b0d12;
+  --bg-raise: #12151d;
+  --glass: rgba(255, 255, 255, 0.045);
+  --glass-strong: rgba(255, 255, 255, 0.08);
+  --stroke: rgba(255, 255, 255, 0.09);
+  --text: #eceef3;
+  --muted: #8a90a0;
+  --amber: #f2b544;           /* luz de palco */
+  --amber-soft: rgba(242, 181, 68, 0.14);
+  --danger: #e5484d;
+  --ok: #46c48a;
+  --sample: #6fa8ff;          /* trechos de solo/sample com disparo automático */
+  --sample-soft: rgba(111, 168, 255, 0.14);
+  --sweep-sung: var(--amber);  /* varredura estilo CDG: trecho já cantado */
+  --sweep-upcoming: rgba(255, 255, 255, 0.82); /* trecho ainda por vir, na linha ativa */
+  --font-display: 'Sora', sans-serif;
+  --font-body: 'Inter', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+  --radius: 14px;
+  --sidebar-w: 232px;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body, #root { height: 100%; }
+body {
+  background:
+    radial-gradient(900px 500px at 85% -10%, rgba(242,181,68,0.07), transparent 60%),
+    radial-gradient(700px 500px at -10% 100%, rgba(90,120,255,0.06), transparent 60%),
+    var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-size: 14.5px;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: inherit; text-decoration: none; }
+button { font-family: inherit; }
+::selection { background: var(--amber-soft); }
+:focus-visible { outline: 2px solid var(--amber); outline-offset: 2px; }
+
+/* ---------- layout ---------- */
+.app-shell { display: flex; min-height: 100vh; }
+.main { flex: 1; padding: 28px 34px; min-width: 0; }
+.page-title { font-family: var(--font-display); font-size: 24px; font-weight: 700; letter-spacing: -0.02em; }
+.page-sub { color: var(--muted); margin-top: 4px; margin-bottom: 24px; }
+
+/* ---------- sidebar ---------- */
+.sidebar {
+  width: var(--sidebar-w);
+  flex-shrink: 0;
+  position: sticky; top: 0; height: 100vh;
+  padding: 22px 14px;
+  border-right: 1px solid var(--stroke);
+  background: rgba(15, 17, 24, 0.7);
+  backdrop-filter: blur(18px);
+  display: flex; flex-direction: column; gap: 4px;
+}
+.brand { font-family: var(--font-display); font-weight: 700; font-size: 17px; padding: 4px 12px 18px; letter-spacing: -0.01em; }
+.brand em { color: var(--amber); font-style: normal; }
+.nav-item {
+  display: flex; align-items: center; gap: 10px;
+  padding: 9px 12px; border-radius: 10px;
+  color: var(--muted); font-weight: 500; transition: 120ms;
+}
+.nav-item:hover { color: var(--text); background: var(--glass); }
+.nav-item.active { color: var(--text); background: var(--glass-strong); box-shadow: inset 2px 0 0 var(--amber); }
+.nav-item svg { width: 17px; height: 17px; }
+.sidebar .spacer { flex: 1; }
+
+/* ---------- vidro / cartões ---------- */
+.card {
+  background: var(--glass);
+  border: 1px solid var(--stroke);
+  border-radius: var(--radius);
+  backdrop-filter: blur(14px);
+  padding: 18px 20px;
+}
+.stat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 14px; margin-bottom: 22px; }
+.stat .big { font-family: var(--font-display); font-size: 30px; font-weight: 700; color: var(--amber); }
+.stat .label { color: var(--muted); font-size: 12.5px; text-transform: uppercase; letter-spacing: 0.08em; margin-top: 2px; }
+
+/* ---------- controles ---------- */
+.btn {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 9px 16px; border-radius: 10px; border: 1px solid var(--stroke);
+  background: var(--glass-strong); color: var(--text);
+  font-weight: 600; font-size: 13.5px; cursor: pointer; transition: 120ms;
+}
+.btn:hover { border-color: rgba(255,255,255,0.2); }
+.btn.primary { background: var(--amber); color: #17130a; border-color: transparent; }
+.btn.primary:hover { filter: brightness(1.08); }
+.btn.danger { color: var(--danger); }
+.btn.ghost { background: transparent; }
+.btn:disabled { opacity: 0.45; cursor: not-allowed; }
+
+.input, select.input, textarea.input {
+  width: 100%; padding: 10px 13px; border-radius: 10px;
+  border: 1px solid var(--stroke); background: rgba(0,0,0,0.25);
+  color: var(--text); font-size: 14px;
+}
+.input:focus { border-color: var(--amber); outline: none; }
+textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: vertical; }
+.field { margin-bottom: 14px; }
+.field label { display: block; font-size: 12.5px; color: var(--muted); margin-bottom: 6px; font-weight: 500; }
+.row { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+
+/* ---------- tabela de músicas ---------- */
+.song-row {
+  display: grid; grid-template-columns: 1fr 180px 130px 60px 90px;
+  gap: 12px; align-items: center;
+  padding: 11px 16px; border-bottom: 1px solid rgba(255,255,255,0.05);
+  cursor: pointer; transition: 100ms;
+}
+.song-row:hover { background: var(--glass); }
+.song-row .title { font-weight: 600; }
+.song-row .meta { color: var(--muted); font-size: 13px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.chip { display: inline-block; padding: 2px 9px; border-radius: 999px; background: var(--amber-soft); color: var(--amber); font-size: 11.5px; font-weight: 600; }
+.fav-star { color: var(--amber); }
+
+/* ---------- cifra (folha) ---------- */
+.chord-sheet { font-family: var(--font-mono); font-size: 14.5px; line-height: 1.6; white-space: pre; overflow-x: auto; }
+.chord-sheet .acorde { color: var(--amber); font-weight: 600; }
+.chord-sheet .observacao { color: var(--muted); font-style: italic; }
+.chord-sheet .secao {
+  color: var(--amber); font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.06em; font-size: 12.5px;
+  border-bottom: 1px solid var(--stroke); padding-bottom: 2px; margin-top: 8px;
+}
+.chord-sheet .solo, .chord-sheet .riff { color: var(--ok); font-weight: 600; }
+.chord-sheet .riff { font-style: italic; }
+.chord-sheet .tab { background: var(--glass); border-left: 2px solid var(--ok); padding-left: 8px; }
+.chord-sheet .sample { color: var(--sample); font-weight: 600; background: var(--sample-soft); padding-left: 8px; border-left: 2px solid var(--sample); }
+.chord-sheet .sample::before { content: "🔊 "; }
+.chord-sheet .custom { color: var(--muted); border-left: 2px dashed var(--stroke); padding-left: 8px; }
+.chord-sheet .custom::before { content: attr(data-tipo) ": "; text-transform: uppercase; font-size: 11px; letter-spacing: 0.04em; }
+.chord-sheet .oculta { opacity: 0.55; }
+.chord-sheet .oculta::after { content: " 🔒 oculta no karaokê"; font-size: 11px; color: var(--muted); font-style: italic; }
+
+/* ---------- acorde interativo (hover) + mini modal de diagramas ---------- */
+.chord-token { cursor: pointer; border-radius: 3px; }
+.chord-token:hover { background: var(--amber-soft); }
+
+.chord-hover-card {
+  background: var(--bg-raise);
+  border: 1px solid var(--stroke);
+  border-radius: var(--radius);
+  box-shadow: 0 16px 44px rgba(0, 0, 0, 0.55);
+  padding: 14px;
+  backdrop-filter: blur(18px);
+}
+.chord-hover-title {
+  font-family: var(--font-display); font-weight: 700; font-size: 15px;
+  text-align: center; margin-bottom: 10px;
+}
+.chord-diagram-row { display: flex; gap: 8px; }
+.chord-diagram-card { flex: 1; min-width: 0; display: flex; flex-direction: column; align-items: center; gap: 8px; }
+.chord-diagram-title { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; }
+.chord-diagram-body { width: 100%; height: 100px; display: flex; align-items: center; justify-content: center; }
+.chord-diagram-empty { color: var(--muted); font-size: 12px; }
+.chord-diagram-card .btn { width: 100%; justify-content: center; padding: 5px 6px; font-size: 10.5px; }
+
+/* ---------- dicionário de acordes (ChordDictionary.jsx) ---------- */
+.chord-dict-banner { font-size: 12.5px; color: var(--muted); line-height: 1.5; margin-bottom: 16px; }
+.chord-dict-layout { display: grid; grid-template-columns: 280px 1fr; gap: 16px; align-items: start; }
+.chord-dict-list { max-height: 640px; overflow-y: auto; padding: 6px; }
+.chord-dict-row {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 10px 12px; border-radius: 8px; cursor: pointer; transition: 100ms;
+}
+.chord-dict-row:hover { background: var(--glass); }
+.chord-dict-row.active { background: var(--glass-strong); box-shadow: inset 2px 0 0 var(--amber); }
+.chord-dict-row .title { font-weight: 600; }
+.chord-dict-row .meta { color: var(--muted); font-size: 12px; }
+.fav-toggle { background: none; border: none; cursor: pointer; font-size: 18px; color: var(--muted); line-height: 1; padding: 4px; }
+.fav-toggle:hover { color: var(--amber); }
+.chord-dict-detail { min-height: 420px; }
+.chord-dict-title { font-family: var(--font-display); font-size: 26px; font-weight: 700; display: flex; align-items: center; }
+.chord-dict-diagram-wrap { width: 100%; max-width: 320px; height: 260px; margin: 0 auto; }
+.chord-dict-formulas { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 8px; margin-top: 12px; }
+.chord-dict-formula-row { display: flex; justify-content: space-between; gap: 10px; padding: 7px 11px; background: var(--glass); border-radius: 8px; font-size: 13px; }
+.chord-dict-formula-row .title { font-weight: 600; }
+.chord-dict-formula-row .meta { color: var(--muted); }
+
+/* ---------- editor: waveform + lista de marcação (SyncWorkspace.jsx) ---------- */
+.sync-wave-scroll {
+  overflow-x: auto; border-radius: 8px; border: 1px solid var(--stroke);
+}
+.sync-step {
+  display: flex; align-items: center; justify-content: space-between; gap: 10px;
+  padding: 7px 10px; border-radius: 8px; cursor: pointer; border-left: 3px solid transparent;
+  transition: background 120ms, border-color 120ms;
+}
+.sync-step:hover { background: var(--glass); }
+.sync-step.selected { background: var(--amber-soft); border-left-color: var(--amber); }
+.sync-step.live { box-shadow: inset 0 0 0 1px var(--amber); }
+.sync-step-body { display: flex; flex-direction: column; gap: 1px; min-width: 0; }
+.sync-step-chord { color: var(--amber); font-weight: 600; font-family: var(--font-mono); font-size: 13px; }
+.sync-step-lyric { font-family: var(--font-mono); font-size: 13.5px; white-space: pre-wrap; }
+.sync-step.secao > span {
+  color: var(--amber); font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.06em; font-size: 12px;
+}
+.sync-step.observacao > span { color: var(--muted); font-style: italic; font-size: 13px; }
+.sync-step.observacao.oculta { opacity: 0.55; cursor: default; }
+.sync-step.sample > span { color: var(--sample); font-weight: 600; font-size: 13px; }
+.sync-step.acorde .sync-step-chord { font-size: 14px; }
+.sync-step.pause { padding: 2px 10px; opacity: 0.45; }
+.sync-step.pause > span { font-size: 11.5px; letter-spacing: 0.06em; }
+.sync-step.block { flex-direction: column; align-items: stretch; cursor: default; padding: 0; }
+.sync-step-block-header {
+  display: flex; align-items: center; justify-content: space-between; gap: 10px;
+  padding: 7px 10px; cursor: pointer; color: var(--ok); font-weight: 600; font-size: 13px;
+}
+.sync-step-expand {
+  background: none; border: none; color: var(--muted); cursor: pointer; font-size: 12px;
+  padding: 0 4px; line-height: 1;
+}
+.sync-step-block-lines { padding: 2px 10px 8px 30px; display: flex; flex-direction: column; gap: 3px; }
+.sync-step-block-line {
+  display: flex; align-items: center; gap: 8px; font-family: var(--font-mono); font-size: 12.5px;
+  color: var(--muted);
+}
+.sync-step-block-line > span:first-child { flex: 1; white-space: pre; overflow-x: auto; }
+.sync-step-chip {
+  display: inline-block; flex-shrink: 0; padding: 2px 8px; border-radius: 999px;
+  background: var(--glass); color: var(--muted); font-size: 11px; font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+.sync-step-chip.marked { background: var(--amber-soft); color: var(--amber); }
+
+/* ---------- player karaokê ---------- */
+.karaoke-stage {
+  position: fixed; inset: 0; z-index: 100;
+  background: #000; color: #fff;
+  display: flex; flex-direction: column;
+  cursor: none;
+}
+.karaoke-stage.controls-visible { cursor: default; }
+.k-lines {
+  flex: 1; display: flex; flex-direction: column; justify-content: center;
+  gap: 0.4vh; padding: 0 6vw; overflow: hidden;
+}
+.k-line {
+  font-family: var(--font-mono);
+  /* vh-based sizing keeps 16 stacked lines + gaps within the viewport at any screen height;
+     --k-zoom (ver useZoomStore) multiplica esse tamanho — controle de zoom persistido do usuário */
+  font-size: calc(var(--k-zoom, 1) * clamp(11px, 3.4vh, 30px));
+  line-height: 1.3;
+  white-space: pre; text-align: left;
+  color: #fff;
+  opacity: 0.4;
+  transition: opacity 220ms ease, color 220ms ease, transform 220ms ease;
+}
+.k-line.pos-1 { opacity: 0.75; }
+.k-line.acorde { color: var(--amber); font-weight: 600; }
+.k-line.observacao { font-style: italic; }
+.k-line.secao {
+  color: var(--amber); font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em;
+}
+.k-line.solo, .k-line.riff { color: var(--ok); font-weight: 600; }
+.k-line.riff { font-style: italic; }
+.k-line.tab { color: var(--ok); }
+.k-line.sample { color: var(--sample); font-weight: 600; }
+.k-line.sample::before { content: "🔊 "; }
+.k-line.active {
+  opacity: 1;
+  color: var(--amber);
+  font-weight: 700;
+}
+/* varredura estilo CDG: em modo áudio, a(s) linha(s) do passo ativo são
+   pintadas por um gradiente cujo ponto de corte (--sweep-pct) é atualizado
+   a cada frame via JS (useAudioSync), escrito uma única vez no contêiner
+   .k-lines e herdado por todas as linhas .sweep — assim um passo com várias
+   linhas (bloco de solo/riff/tab) varre todas juntas, sem custo extra.
+   background-clip:text funciona bem aqui porque a fonte monoespaçada faz
+   "% do gradiente" mapear direto em "% de caracteres". */
+.k-line.active.sweep {
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  background-image: linear-gradient(90deg,
+    var(--sweep-sung) 0%, var(--sweep-sung) var(--sweep-pct, 0%),
+    var(--sweep-upcoming) var(--sweep-pct, 0%), var(--sweep-upcoming) 100%);
+}
+/* mini-linha do tempo vertical: um segmento por passo visível na janela,
+   com altura proporcional ao tempo real que ele ocupa — uma pausa longa
+   aparece como um espaço maior, ajudando a antecipar o andamento da
+   música. Só existe em modo áudio (sem faixa real não há tempo pra ser
+   proporcional a nada). Posicionamento absoluto, mesmo padrão de
+   .k-header/.k-controls — não interfere no layout flex de .k-lines. */
+.k-timeline {
+  position: absolute; top: 10vh; bottom: 8vh; right: 2vw; width: 8px;
+}
+.k-timeline-seg {
+  position: absolute; left: 0; right: 0; border-radius: 4px;
+  background: rgba(255, 255, 255, 0.15);
+  transition: top 220ms ease, height 220ms ease;
+}
+.k-timeline-seg.active { background: rgba(255, 255, 255, 0.28); }
+.k-timeline-fill {
+  position: absolute; left: 0; right: 0; bottom: 0; border-radius: 4px;
+  background: var(--amber);
+  height: var(--sweep-pct, 0%);
+}
+.k-progress { position: relative; height: 3px; background: rgba(255,255,255,0.12); }
+.k-progress > div { height: 100%; background: var(--amber); transition: width 120ms linear; }
+.k-progress.audio-mode {
+  height: 8px; border-radius: 4px; cursor: pointer;
+  transition: height 120ms ease;
+}
+.k-progress.audio-mode:hover { height: 12px; }
+.k-progress.audio-mode > div { transition: none; border-radius: 4px; }
+.k-progress-tick {
+  position: absolute; top: -3px; width: 2px; height: 14px;
+  background: var(--sample); border-radius: 1px; pointer-events: none;
+}
+.k-controls {
+  position: absolute; bottom: 0; left: 0; right: 0;
+  display: flex; align-items: center; justify-content: center; gap: 10px;
+  padding: 18px; background: linear-gradient(transparent, rgba(0,0,0,0.85));
+  opacity: 0; transition: opacity 200ms;
+}
+.karaoke-stage.controls-visible .k-controls { opacity: 1; }
+.k-header { position: absolute; top: 0; left: 0; right: 0; padding: 16px 24px; display: flex; justify-content: space-between; color: rgba(255,255,255,0.6); font-size: 14px; opacity: 0; transition: 200ms; }
+.karaoke-stage.controls-visible .k-header { opacity: 1; }
+
+/* ---------- player modo rolagem (ScrollPlayer.jsx) ---------- */
+/* overflow-y:auto (não hidden) é proposital — dá de graça o scroll do
+   mouse e a barra de rolagem nativa pro músico avançar/voltar na música
+   manualmente (ver handleUserScroll em ScrollPlayer.jsx); scrollbar-color/
+   ::-webkit-scrollbar só troca a aparência pro tema escuro do palco. */
+.scroll-viewport {
+  flex: 1; overflow-y: auto; overflow-x: hidden;
+  scrollbar-color: var(--amber-soft) transparent;
+  scrollbar-width: thin;
+}
+.scroll-viewport::-webkit-scrollbar { width: 10px; }
+.scroll-viewport::-webkit-scrollbar-track { background: transparent; }
+.scroll-viewport::-webkit-scrollbar-thumb { background: var(--amber-soft); border-radius: 6px; }
+.scroll-viewport::-webkit-scrollbar-thumb:hover { background: var(--amber); }
+.scroll-sheet {
+  font-family: var(--font-mono);
+  /* --k-zoom (ver useZoomStore) multiplica esse tamanho — controle de zoom persistido do usuário */
+  font-size: calc(var(--k-zoom, 1) * clamp(14px, 2.6vh, 26px));
+  line-height: 1.6;
+  white-space: pre;
+  padding: 42vh 6vw;
+}
+.scroll-line { color: #fff; }
+.scroll-line.chord { color: var(--amber); font-weight: 600; }
+
+/* ---------- contagem regressiva (antes da execução de cada música sincronizada) ---------- */
+.k-countdown {
+  position: absolute; inset: 0;
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 14px;
+  background: rgba(0, 0, 0, 0.6);
+  cursor: pointer;
+}
+.k-countdown-number {
+  font-family: var(--font-display); font-weight: 700; line-height: 1;
+  font-size: clamp(70px, 20vh, 220px);
+  color: var(--amber);
+  animation: k-countdown-pulse 1s ease-out;
+}
+.k-countdown-label { color: rgba(255, 255, 255, 0.75); font-size: 14px; }
+@keyframes k-countdown-pulse {
+  0% { transform: scale(1.35); opacity: 0.25; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+/* ---------- diff ---------- */
+.diff { font-family: var(--font-mono); font-size: 13px; line-height: 1.5; white-space: pre-wrap; }
+.diff .add { color: var(--ok); }
+.diff .del { color: var(--danger); }
+.diff .hunk { color: var(--muted); }
+
+/* ---------- login ---------- */
+.login-wrap { min-height: 100vh; display: grid; place-items: center; }
+.login-card { width: min(400px, 92vw); padding: 34px; }
+.login-card h1 { font-family: var(--font-display); font-size: 26px; margin-bottom: 4px; }
+.login-card .tag { color: var(--muted); margin-bottom: 26px; }
+
+.error-text { color: var(--danger); font-size: 13px; margin-top: 8px; }
+.empty { color: var(--muted); text-align: center; padding: 46px 0; }
+
+/* ---------- impressão ---------- */
+@media print {
+  .sidebar, .no-print { display: none !important; }
+  body { background: #fff; color: #000; }
+  .main { padding: 0; }
+  .card { border: none; background: none; padding: 0; }
+  .chord-sheet { font-size: 12pt; color: #000; }
+  .chord-sheet .acorde { color: #000; font-weight: 700; }
+  .chord-sheet .observacao { color: #333; }
+}
+
+/* ---------- responsivo ---------- */
+@media (max-width: 900px) {
+  .sidebar { width: 64px; }
+  .sidebar .brand span, .nav-item span { display: none; }
+  .song-row { grid-template-columns: 1fr 90px; }
+  .song-row .hide-sm { display: none; }
+  .main { padding: 18px; }
+  .chord-dict-layout { grid-template-columns: 1fr; }
+  .chord-dict-list { max-height: 320px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}

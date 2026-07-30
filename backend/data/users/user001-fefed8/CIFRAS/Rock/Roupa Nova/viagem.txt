@@ -1,0 +1,92 @@
+@titulo: viagem
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Viagem
+
+Intro: A F#m Bm E7 A F#m Bm E7
+
+Cleberson Horsth - Aldir Blanc
+Introdução: C#m7 F#m7 D/E E7 A7+/E F#m7 E4/7
+F#m
+Há tanto tempo que eu
+C#/F
+deixei você
+A/E                B/D#
+Fui chorando de saudade
+D                  A/C#  F#m7
+Mesmo longe não me conformei
+B7/D#    B7
+pode crer
+      E4/7            E7
+Eu viajei contra a vontade
+F#m
+O teu amor chamou e
+   C#/F
+eu regressei
+A/E             B/D#
+Todo amor é infinito
+
+D                  A/C# F#m7
+Noite e dia no meu coração
+B/D#        B7
+Trouxe a luz
+            E4/7         E7
+Do nosso instante mais bonito
+A        A/C#       E/D
+Na escuridão o teu olhar
+        D   A/C#
+Me iluminava
+  Bm            D
+E minha estrela-guia era
+      E4/7 E7
+O teu riso
+C#m7        F#m7       D/E
+Coisas do passado são alegres
+       E7          A7+/E
+Quando lembram novamente
+     F#m7         E4/7
+As pessoas que se amam
+A        A/C#       E/D
+Em cada solidão vencida
+       D   A/C#
+Eu desejava
+  Bm         D
+O reencontro com teu
+       E4/7 E7
+Corpo abrigo
+C#m7         F#m7
+Ah! Minha adorada
+   D/E          E7
+Viajei tantos espaços
+      A7+/E    F#m7          E4/7
+Pra você caber assim no meu abraço...
+   A9
+Te amo!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A7+/E = X X 2 2 2 4
+A9 = X 0 2 2 0 0
+B/D# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+B7/D# = X X 1 2 0 2
+Bm = X 2 4 4 3 2
+C#/F = X 8 X 6 9 9
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+E/D = X 5 X 4 5 4
+E4/7 = 0 2 0 2 0 X
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X

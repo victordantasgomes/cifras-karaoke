@@ -1,0 +1,63 @@
+@titulo: vendetta
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Vendetta
+
+(intro 2x) G G Bb C
+
+E|--------------------------3-3-1-1--------|
+B|----3-1-----3-1-----3-1-----------3-1----|   (2x)
+G|--0-----3-0-----3-0-----3-------------3--|
+D|-----------------------------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+G                                           Bb
+Se olhe no espelho, não é beleza, é só estupidez
+G                                           Bb
+Inferno são os outros, mas um dia vai ser sua vez
+
+Eb         G#          Eb             G#
+E ninguém vai te ajudar, quando essa festa acabar
+Eb           G#          Eb     G#         Bb     D     D4
+Quando a metáfora falhar e a piada for você
+
+G                                                  Bb
+Conheço o seu veneno é tão pequeno quanto o mal que fez
+
+G                                                     Bb
+Futuro imperfeito, o que era certo não vai ser nem talvez
+
+Eb         G#           Eb             G#
+E ninguém vai te procurar quando for fácil te encontrar
+Eb         G#         Eb          G#           Bb     D     D4
+Só os mendigos vão usar a mesma roupa que você
+
+(intro)
+
+G                                                     Bb
+O que diz tem pernas curtas, veja agora o seu nariz crescer
+G                                                   Bb
+Seu sorriso é maquiagem, é só um truque e todo mundo vê
+
+Eb         G#          Eb            G#            Eb
+E ninguém vai te perdoar quando a noticia se espalhar
+          G#         Eb               G#           Bb     D     D4
+E quando menos esperar ninguém mais lembra de você
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+Eb = X 6 5 3 4 3
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

@@ -1,0 +1,40 @@
+@titulo: te-adoro
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Te Adoro
+
+  C#m7      A9
+Te Adoro Jesus
+C#m7        A9
+Te Adoro Senhor
+              F#m7 E9 A9
+Com tudo o que sou
+                 F#m7 E9
+Com todo meu Coração
+               B9
+Te adoro Senhor
+  C#m7      A9
+Te Adoro Jesus
+ C#m7      A9
+Te Adoro Senhor
+           F#m7 E9 A9
+Com tudo o que sou
+              F#m7 E9
+Com todo meu Coração
+              B9
+Te adoro Senhor
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+C#m7 = X 4 6 4 5 4
+E9 = 0 2 4 1 0 0
+F#m7 = 2 X 2 2 2 X

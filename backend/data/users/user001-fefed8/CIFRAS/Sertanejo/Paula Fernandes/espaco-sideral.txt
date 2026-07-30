@@ -1,0 +1,59 @@
+@titulo: espaco-sideral
+@autor:
+@intérprete: Paula Fernandes
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Paula Fernandes - Espaço Sideral
+
+(intro)  G C9 D C9 G
+
+G       C9               D
+Ah ah ah ah ah ah ah ah
+C9                G   C9
+Ah ah ah ah aah
+           D
+Ah ah ah ah
+C9                       G
+Ah ah ah ah ah ah ah
+         C9                D       C9
+Ah ah ah ah ah ah ah ah
+
+G                                       C9
+Diretamente do espaço sideral
+             G                                 C9
+Viemos juntos numa nave espacial
+               Am                               C
+E nos perdemos numa grande colisão
+                    Am                             D
+Como um cometa coisa sem explicação
+
+                  Em                              C
+Milhões de anos com saudade de você
+                     G                                      D
+Somente em sonhos é que você vem me ver
+             Em                         C
+Seja loucura, seja coisa do além
+                   G                    D                    G
+Só sei que mesmo sem dormir, sonho também
+      Em          D                       C
+IÊIÊIÊ, sentimento que nem o tempo apagou
+      Em           D                     C
+ÔÔÔ, tão distante estou procurando esse amor
+      Em          D                       C
+IÊIÊIÊ, sentimento que nem o tempo apagou
+      Em           D                     C                     D             G
+ÔÔÔ, tão distante estou procurando esse amor, esse amor.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

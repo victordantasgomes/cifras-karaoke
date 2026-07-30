@@ -1,0 +1,31 @@
+@titulo: cantemos-gloria
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Cantemos Glória
+
+ D                                A
+Cantemos glória ao nosso Pai do céu
+                                  D
+Cantemos glória ao nosso irmão Jesus
+          D7                 G
+Cantemos glória ao Espírito Santo
+             D              A           D
+Santíssima Trindade, um só Deus que é amor
+            G             D             A        D
+Glória ao Pai, glória ao Filho e ao Espírito também
+      G             D           A            D
+À Santíssima Trindade, glória para sempre! Amém!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3

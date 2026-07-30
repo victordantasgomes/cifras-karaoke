@@ -1,0 +1,58 @@
+@titulo: a-verdadeira-mary-poppins
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - A Verdadeira Mary Poppins
+
+Intro: (F# G F# E  F# G F# E C B) B (F# G F# E  F# G F# E C B)
+
+        (F# G F# E  F# G F# E C B)
+ Do que é que vocês estão rindo?, o que é que vocês estão olhando?
+ Do que é que vocês estão rindo?, o que é que vocês estão falando?
+(E F# G F#)
+ Eu sei que estou fedendo, eu sei que estou apodrecendo
+ Eu sei que estou fedendo, eu sei que estou apodrecendo
+
+(B C B C B C D)
+ Eu sou o rei Salomão, eu sou John Kennedy
+ Eu sou Raul Seixas, eu sou Jimi Hendrix
+
+(F# G F# E  F# G F# E C B)
+ Mesmo que ninguém escute, Mesmo que ninguém ouça
+ Mesmo que ninguém acredite No que sai da minha boca
+
+(B C B C B C D)
+ Eu sou o verdadeiro Bruce Lee, eu sou o verdadeiro Boby Marley
+ Eu sou o verdadeiro Peter Sellers, eu sou a verdadeira Mary Poppins
+(E F# G F#)
+ Eu sei que estou fedendo, eu sei que estou apodrecendo
+
+ Eu sei que estou fedendo, eu sei que estou apodrecendo
+
+(E F# G F#)
+
+(B C B C B C D)
+ Eu sou o rei Salomão, eu sou John Kennedy
+ Eu sou Raul Seixas, eu sou Jimi Hendrix
+ Eu sou o verdadeiro Bruce Lee, eu sou o verdadeiro Boby Marley
+ Eu sou o verdadeiro Peter Sellers, eu sou a verdadeira Mary Poppins
+(E F# G F#)
+ Eu sei que estou fedendo, eu sei que estou apodrecendo
+ Eu sei que estou fedendo, eu sei que estou apodrecendo
+
+(F# G F# E  F# G F# E C B)B
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

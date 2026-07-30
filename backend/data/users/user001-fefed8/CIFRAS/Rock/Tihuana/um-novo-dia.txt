@@ -1,0 +1,132 @@
+@titulo: um-novo-dia
+@autor:
+@intérprete: Tihuana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Tihuana - Um Novo Dia
+
+(intro) A A/B A/F#
+        A A/E A/F#
+
+G |-------2----------2-------------2-------------2--------2------------|
+D |-----2--2--2----2--2---2------2--2----2-----2--2-----2---2------(2X)|
+A |---0-----0----------------------------------------------------------|
+E |--------------4------4------2------2-----2-------2-2-------2--------|
+
+A
+ Desperta devagar
+E
+ Me diz de onde vem
+F#m                     D
+ Tanta tristeza eu seu olhar
+          E
+ Eu nunca vi ninguém assim
+A           E
+ Tão perdida, tão distante
+F#m                 D           E
+ Estou tentando te dizer o que você não quer ouvir
+D                 E
+ Você pode até tentar fugir de mim
+
+D                E
+ Mas não pode evitar que eu cante assim
+
+A          E           F#m
+Amanhã vai ser um novo dia
+               D
+Eu juro que eu vou estar aqui
+A              E
+ Não diferente, sempre ao seu lado
+F#m         D
+ Viver pra te fazer feliz
+
+A          E           F#m
+Amanhã vai ser um novo dia
+               D
+Eu juro que eu vou estar aqui
+A              E
+ Não diferente, sempre ao seu lado
+C#m         D
+ Viver pra te fazer feliz
+
+( A A/B A/F# )
+( A A/E A/F# )
+
+A           E
+ Se entrega, repara
+F#m        D
+ Percebe o quanto você tem
+A             E
+ Pra quem nunca teve nada
+F#m      D     E
+ Até meu mundo eu te dei
+D             E
+ Tão decidida, tão confiante
+E                  D
+ Estou tentando te dizer o que você não quer ouvir
+
+A          E
+Amanhã vai ser um novo dia
+F#m            D
+Eu juro que eu vou estar aqui
+A              E
+ Não diferente, sempre ao seu lado
+F#m       D
+ Viver pra te fazer feliz
+
+A          E           F#m
+Amanhã vai ser um novo dia
+               D
+Eu juro que eu vou estar aqui
+A              E
+ Não diferente, sempre ao seu lado
+C#m         D
+ Viver pra te fazer feliz
+
+( A A/B A/F# )
+( A A/E A/F# )
+
+D           E           D           E
+Eu prefiro acreditar que tudo pode melhorar
+   D           E
+Basta você querer
+F#m           G# A B
+Basta você dizer assim
+
+A          E
+Amanhã vai ser um novo dia
+F#m            D
+Eu juro que eu vou estar aqui
+A             E
+Não diferente, sempre ao seu lado
+F#m       D
+Viver pra te fazer feliz...
+
+A          E           F#m
+Amanhã vai ser um novo dia
+               D
+Eu juro que eu vou estar aqui
+A              E
+ Não diferente, sempre ao seu lado
+C#m         D
+ Viver pra te fazer feliz
+
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/E = 0 X 2 2 2 0
+A/F# = 2 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G# = 4 3 1 1 1 4

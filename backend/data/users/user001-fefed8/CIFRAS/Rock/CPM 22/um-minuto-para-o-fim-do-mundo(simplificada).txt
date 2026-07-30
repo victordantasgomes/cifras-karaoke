@@ -1,0 +1,95 @@
+@titulo: um-minuto-para-o-fim-do-mundo(simplificada)
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Um Minuto Para o Fim do Mundo
+
+(intro 2x) A5 C5 G5 F5
+
+A5         C5
+Me sinto só,
+G5               F5
+Mas quem é que nunca se sentiu assim
+A5               C5
+Procurando um caminho pra seguir,
+       G5      F5
+Uma direção, respostas
+
+A5    C5                    G5
+Um minuto para o fim do mundo.
+          F5              A5
+Toda sua vida em 60 segundos
+               C5                 G5     F5
+Uma volta no ponteiro do relógio pra viver
+
+Am   F                      C                 G                Am
+      O tempo corre contra mim, sempre foi assim e sempre vai ser
+F                        C            G           Am
+   Vivendo apenas pra vencer a falta que me faz você
+
+F              C                   G         Am
+  De olhos fechados eu tento esconder a dor agora
+F              C            G                 C
+ Por favor entenda, eu preciso ir embora porque
+
+(refrão)
+             G
+Quando estou com você
+           F         C
+Sinto meu mundo acabar,
+                          G
+Perco o chão sob os meus pés
+            F           C
+Me falta o ar pra respirar
+            G                          F
+E só de pensar em te perder por um segundo,
+           G                C
+Eu sei que isso é o fim do mundo
+
+(solo base)  C G Am F (2x)
+
+Am  F                        C           G         Am
+      Volto o relógio para trás tentando adiar o fim,
+F                      C             G                     Am
+  tentando esconder o medo de te perder quando me sinto assim
+F              C                  G           Am
+  De olhos fechados eu tento enganar meu coração
+F               C               G         C
+  Fugir pra outro lugar em uma outra direção porque
+
+(refrão 2x)
+             G
+Quando estou com você
+           F         C
+Sinto meu mundo acabar,
+                          G
+Perco o chão sob os meus pés
+            F           C
+Me falta o ar pra respirar
+            G                          F
+E só de pensar em te perder por um segundo,
+           G                   C
+Eu sei que isso é o fim do mundo
+
+(solo base final 2x) C G Am F
+Eu sei que isso é o fim do mundo.
+
+(final) ( F )                     C
+Eu sei que isso é o fim (2x) do mundo
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C5 = X 3 5 5 X X
+F = 1 3 3 2 1 1
+F5 = 1 3 3 X X X
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X

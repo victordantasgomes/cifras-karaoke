@@ -1,0 +1,76 @@
+@titulo: conquistando-o-impossivel(simplificada)
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Conquistando o Impossível
+
+Intro: B  F#  A  E
+
+ B          F#
+Acredite é hora de vencer
+ A                 E
+Essa força vem de dentro e você
+ B          F#               A      E   F#
+Você pode até tocar o céu se crer
+
+ B         F#
+Acredite que nenhum de nós
+ A                   E
+Já nasceu com jeito pra super herói
+ B                F#
+Nossos sonhos, a gente é quem constrói
+    A                      E
+É vencendo os limites, escalando as fortalezas
+       G                      F#
+Conquistando o impossível pela fé
+
+       B        F#        C#m7             A   F#
+Campeão, vencedor, Deus da asas, faz seu voo - ooo
+
+   B        F#        C#m7              A        F#4              F#
+Campeão, vencedor, essa fé que te torna imbatível te mostra o seu valor
+
+( B  F#  A  E )
+
+B         F#
+Acredite que nenhum de nós
+ A                   E
+Já nasceu com jeito pra super herói
+ B                F#
+Nossos sonhos, a gente é quem constrói
+    A                      E
+É vencendo os limites, escalando as fortalezas
+       G                      F#
+Conquistando o impossível pela fé
+
+       B        F#        C#m7             A   F#
+Campeão, vencedor, Deus da asas, faz seu voo - ooo
+   B        F#        C#m7                A        F#
+Campeão, vencedor, essa fé que te torna imbatível te mostra o seu valor
+
+C#m7                 A
+ Tantos recordes, você pode quebrar
+C#m7                A                      Ab
+ As barreiras você pode ultrapassar e vencer
+
+    B        F#        C#m7            A    F#
+ Campeão, vencedor, Deus da asas, faz seu po - vo
+    B        F#      C#m7                  A           F#
+ Campeão, vencedor, essa fé que te faz imbatível te mostra o seu valor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Ab = 4 3 1 1 1 4
+B = X 2 4 4 4 2
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#4 = 2 4 4 4 2 2
+G = 3 2 0 0 0 3

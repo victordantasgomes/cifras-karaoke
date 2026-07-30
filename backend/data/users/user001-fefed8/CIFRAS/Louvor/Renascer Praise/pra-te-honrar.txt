@@ -1,0 +1,82 @@
+@titulo: pra-te-honrar
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Pra Te Honrar
+
+Introdução: E  F#/E  E  F#/E  G  A/G  G  A/B  B
+
+     E        E/G#   A          A/B
+O Espírito de Deus está sobre mim
+      C#m7     E/G#       A          A/B Cdim
+Pelo que me ungiu Com autoridade e poder
+         C#m7            Cdim
+Em minha terra viverei o dobro
+ E/B          F#/A#
+Sou eleito do Rei
+      F#m7      E/G#      A               B
+Felicidade, alegria, regozijo e honra viverei
+
+
+E F#/E  Em7  Csus C7
+
+
+ F             F/A   Bb      Csus
+O Espírito de Deus está sobre mim
+      Dm7     Am7       Gm7           Csus
+Pelo que me ungiu Com autoridade e poder
+
+           Dm7             A/C#
+Em minha terra viverei o dobro
+ F/C          G
+Sou eleito do Rei
+      Gm7        F/A     Bb              Csus C7
+Felicidade, alegria, regozijo e honra viverei
+
+          Am7   ( C/D  Dm )    Gm7           C
+Pra te honrar          vem meu vaso transbordar
+        F ( Gm7  F/A )     Bb            C
+A tua unção,    caminhos altos me faz andar
+       Dm                G/B
+Já não sou mais eu quem vive
+       Bb                 F/A  Dm7
+Mas é Jesus quem me faz viver
+    Gm7            C7           F
+Pra Tua glória ao mundo manifestar (volta no começo)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C#m7 = X 4 6 4 5 4
+C/D = X X 0 0 1 0
+C7 = X 3 2 3 1 X
+Cdim = X 3 4 2 4 2
+Csus = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F#/A# = 6 X 4 6 7 X
+F#/E = X X 2 3 2 2
+F#m7 = 2 X 2 2 2 X
+F/A = 5 X 3 5 6 X
+F/C = X 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+Gm7 = 3 X 3 3 3 X

@@ -1,0 +1,126 @@
+@titulo: acenda-a-luz
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Rosa de Saron - Acenda a Luz
+
+Afinação Meio Tom Abaixo
+
+Intro: E5 D5 C5 A5 G5
+     ( E5 D5 C5 )
+
+G                     Em7            Bm
+ Já se sentiu tão fraco, sozinho flutuando pelo ar?
+      D9/F#                       G
+Sem nenhum lugar em vista pra pousar?
+G                Em7                Bm
+ Já se sentiu vazio, perdido e procurando um cais seguro?
+   C9                            Em
+Um mundo em que pudesse se encaixar?
+                Am          D9/F#
+Pra acalmar sua alma, seus sonhos libertar
+
+C9                  G/B
+  Mude as vozes que soam em você
+    C9                      G/B
+Há mais caminhos para percorrer
+                     Am       D9/F#
+Conquiste tudo que é seu sem medo de sofrer
+
+
+REFRÃO:
+
+Em   D9      C    G/B      C9
+  Acenda a luz e deixe brilhar
+ Em          D9             Em
+Agora é sua vez de se encontrar
+ D9        C    G/B      Am
+Acenda a luz e deixe brilhar
+   C
+Se ame pra que eu possa te amar
+
+
+Repete a Intro
+
+
+G                     Em7              Bm
+ Já se sentiu estranho, gritando sem ninguém pra escutar?
+          D9/F#                     G
+Como se o mundo inteiro fosse te julgar?
+G                    Em7                Bm
+ Já se sentiu pequeno, sem forças pra lutar, fingir?
+D
+Abra a porta se ela não se abrir
+
+C9            G/B                 C9                      G/B
+ Não deixe ninguém insistir que você não sabe e pode conseguir
+      Am             (Am/G)
+Não desista de nunca desistir
+
+
+REFRÃO:
+
+Em   D9      C    G/B      C9
+  Acenda a luz e deixe brilhar
+ Em          D9             Em
+Agora é sua vez de se encontrar
+ D9        C    G/B      Am
+Acenda a luz e deixe brilhar
+                             (Solo)
+   Em          D9       C    Em - G - Am - C - Em - D9 - C - (Am7) - Em
+Se ame pra que eu possa te amar
+
+Em   D9      C    G/B      Am
+  Acenda a luz e deixe brilhaaaaaar *E deixe brilhaaaaaar*
+
+Solo final
+
+E|-------------7------------------
+B|--------8------10---8-----------
+G|--7/9-----9------------9--------
+D|--------------------------------
+A|--------------------------------
+E|--------------------------------
+
+
+E|-------------7------------------
+B|--------8------10---8-----------
+G|--7/9-----9---------------------
+D|--------------------------------
+A|--------------------------------
+E|--------------------------------
+
+
+E|-------------7------------------
+B|--------8------10---8-----10-8--
+G|--7/9-----9------------9--9--9--
+D|--------------------------------
+A|--------------------------------
+E|--------------------------------
+
+----------------- Acordes -----------------
+A5*  = X 0 2 2 X X - (*G#5 na forma de A5)
+Am*  = X 0 2 2 1 0 - (*G#m na forma de Am)
+Am/G*  = 3 X 2 2 1 X - (*G#m/F# na forma de Am/G)
+Am7*  = X 0 2 0 1 0 - (*G#m7 na forma de Am7)
+Bm*  = X 2 4 4 3 2 - (*A#m na forma de Bm)
+C*  = X 3 2 0 1 0 - (*B na forma de C)
+C5*  = X 3 5 5 X X - (*B5 na forma de C5)
+C9*  = X 3 5 5 3 3 - (*B9 na forma de C9)
+D*  = X X 0 2 3 2 - (*C# na forma de D)
+D5*  = X 5 7 7 X X - (*C#5 na forma de D5)
+D9*  = X X 0 2 3 0 - (*C#9 na forma de D9)
+D9/F#*  = 2 X 0 2 3 0 - (*C#9/F na forma de D9/F#)
+E5*  = 0 2 2 X X X - (*D#5 na forma de E5)
+Em*  = 0 2 2 0 0 0 - (*D#m na forma de Em)
+Em7*  = 0 2 2 0 3 0 - (*D#m7 na forma de Em7)
+G*  = 3 2 0 0 0 3 - (*F# na forma de G)
+G/B*  = X 2 0 0 3 3 - (*F#/A# na forma de G/B)
+G5*  = 3 5 5 X X X - (*F#5 na forma de G5)

@@ -1,0 +1,85 @@
+@titulo: estou-em-suas-maos
+@autor:
+@intérprete: KLB
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+KLB - Estou Em Suas Mãos
+
+Intro: D  Bm  D  Bm  Em  G  A  D
+E|-----2-5--------------2-5-----------------------------------------|
+B|--3-5---5-2-3-7-5--3-5---5-2-3-7-5---------8---5-8-7-5-7----------|
+G|-2-----------4----2-----------4---7-6-4-6-7-6-7---------7-6-4-6---|
+D|------------------------------------------------------------------|
+A|------------------------------------------------------------------|
+E|------------------------------------------------------------------|
+
+D        A/C#        Bm   Bm7/A            D        A/C#        Bm   Bm7/A
+Você chegou de repente,          me fez mudar num segundo,
+G                   A9      A7             D        A/C#        Bm   Bm7/A
+Quando o amor vem assim sem avisar,       faz nascer o sentimento
+D   A/C#   Bm   Bm7/A   G   A9   Bbº   Bm7   Bm7/A
+Que queima dentro do peito,            foi tão depressa não deu pra segurar
+G             D9/F#                Em           A9  A7
+Quero te dar, o céu e o mar, e tudo que você sonhar
+
+D        A/C#        Bm   Bm7/A        G      D9/F#      Em        A7
+Porque te amo demais, e só você me faz, entender que o amor é tudo
+D        A/C#        Bm   Bm7/A        G         D9/F#     Em   A7
+Tudo que o seu coração esperar da paixão,vou te dar meu amor nessa
+    D
+canção.
+
+D        A/C#        Bm   Bm7/A        G      D9/F#      Em        A7
+Porque te amo demais, e só você me faz, entender que o amor é tudo
+D        A/C#        Bm   Bm7/A        G         D9/F#     Em   A7
+Tudo que o seu coração esperar da paixão,vou te dar meu amor nessa
+    D
+canção.
+
+D        A/C#        Bm   Bm7/A
+Faz nascer o sentimento
+
+D   A/C#   Bm   Bm7/A   G   A9   Bbº   Bm7   Bm7/A
+Que queima dentro do peito,            foi tão depressa não deu pra segurar
+G             D9/F#                Em           A9  A7
+Quero te dar, o céu e o mar, e tudo que você sonhar
+
+D        A/C#        Bm   Bm7/A        G      D9/F#      Em        A7
+Porque te amo demais, e só você me faz, entender que o amor é tudo
+D        A/C#        Bm   Bm7/A        G         D9/F#     Em   A7
+Tudo que o seu coração esperar da paixão, vou te dar meu amor nessa
+    D
+canção.
+
+D        A/C#        Bm   Bm7/A        G      D9/F#      Em        A7
+Porque te amo demais, e só você me faz, entender que o amor é tudo
+D        A/C#        Bm   Bm7/A        G                  A9   A7
+Tudo que o seu coração esperar da paixão, vou te dar meu amor nessa
+    G
+canção...
+
+G     D9/F#            Em
+Vai ser sempre assim, você está em mim,
+A        D   D5(9)
+estou em suas mãos
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+A9 = X 0 2 2 0 0
+Bbº = X 1 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Bm7/A = 5 2 4 2 3 2
+D = X X 0 2 3 2
+D5(9) = X 5 7 9 X X
+D9/F# = 2 X 0 2 3 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

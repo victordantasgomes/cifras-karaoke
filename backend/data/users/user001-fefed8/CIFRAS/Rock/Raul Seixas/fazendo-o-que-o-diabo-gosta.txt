@@ -1,0 +1,90 @@
+@titulo: fazendo-o-que-o-diabo-gosta
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Fazendo o Que o Diabo Gosta
+
+[Intro] G  Em  G  Em  G  D  G
+
+   G          C
+Casamos num motel
+    C#°       D7
+Bem longe do altar
+                         G
+Lua de mercúrio, fogo e mel
+                 C
+Não fui o seu primeiro
+C#°             D7
+Você já tinha estrada
+                                    G
+Dois filhos, um travesseiro e a empregada
+   Eb         F        Bb       Gm
+Um anjo embriagado num disco voador
+   Cm              F        Bb
+Jurou que o nosso amor era pecado
+   Eb           F
+Mas a história mostra
+      Bb             Gm
+Que a gente agrada a Deus
+
+  Cm    F              Bb    D7
+Fazendo o que o diabo gosta
+  G           C     C#°           D7
+Casamos por tesão, tesão, tesão, tesão
+                                G
+Bateu o terror não tem mais solução
+                   C           C#°           D7
+Te entrego os meus medos, meus erros, meus segredos
+                           G   E7
+Divido minhas guimbas com você
+    F          G          C    Am
+Um anjo embriagado num disco voador
+    Dm             G        C
+Jurou que o nosso amor era pecado
+      F           G
+Mas a   história mostra
+       C              Am
+Que a gente agrada a Deus
+   Dm           G       C      E7
+Fazendo o que o   diabo gosta
+   A             D
+Quebramos nossas caras
+     D#°         E
+Pra se lamber depois
+                               A
+Amor é ódio, é o certo pra nós dois
+             D
+Casamos num motel
+     D#°      E
+Bem longe do altar
+                        A    F#m  A  F#m
+Lua de mercúrio, fogo e mel
+A      E    A
+Fogo e mel
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C#° = X 4 5 3 5 3
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D#° = X X 1 2 1 2
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Eb = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

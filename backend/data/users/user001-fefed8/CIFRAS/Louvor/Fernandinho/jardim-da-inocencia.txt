@@ -1,0 +1,86 @@
+@titulo: jardim-da-inocencia
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Jardim da Inocência
+
+Intro: B F# E F#
+
+
+             B
+Ah ! que saudade
+        F#                E            B
+Que saudade de ouvir tua voz ao entardecer
+            F#
+Ah ! que vontade
+       E         G#m       E           B
+Que vontade de voltar ao jardim da inocência
+         F#              G#m         E                    B
+Se eu pudesse voltaria atrás e não faria novamente o que fiz
+                 F#
+Troquei a minha comunhão
+                   G#m
+Pela escuridão da noite
+            E             F# B
+Em trevas tornei os meus dias
+
+Refrão:
+
+             B               F#
+Ah ! que vontade de andar contigo
+       G#m                   E
+Pelo jardim, na viração dos dias
+           B           F#
+Pegar em tuas mãos e voar
+        G#m                     E
+Pela imensidão da terra e te adorar
+           B               F#
+Ah Que vontade de dizer a Ti
+            G#m           E
+Tudo que aprendi, nesse jardim
+              B F#
+Jardim da inocência
+              E G#m E F# E F#
+Jardim da inocência
+
+             C               G
+Ah ! que vontade de andar contigo
+       Am                    F
+Pelo jardim, na viração dos dias
+          C            G
+Pegar em tuas mãos e voar
+        Am                     F
+Pela imensidão da terra e te adorar
+
+           C               G
+Ah Que vontade de dizer a Ti
+            Am           F
+Tudo que aprendi, nesse jardim
+
+              C
+Jardim da inocência
+              G
+Jardim da inocência
+              Am
+Jardim da inocência
+              F
+Jardim da inocência
+  C
+Jardim
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

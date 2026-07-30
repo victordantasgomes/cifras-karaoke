@@ -1,0 +1,104 @@
+@titulo: busca-vida
+@autor:
+@intérprete: Paralamas do Sucesso
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Os Paralamas do Sucesso - Busca Vida
+
+Riff:
+E|---------------------------------3---------
+B|---------------------------------0---------
+G|---------------------------------0---------
+D|---2h3---2---0-------------------0---------
+A|---------------3---2---0---------2---------
+E|---------------------------------3---------
+
+Intro: C Em F Fm
+
+C                 Am
+   Vou sair pra ver o céu
+       F              Fm6
+   Vou me perder entre as estrelas
+C                 Am
+   Ver daonde nasce o sol
+          F            Fm6           Em
+   Como se guiam os planetas pelo espaço
+Am        Em          Am
+   Meus passos
+
+
+
+(Riff)
+  Dm                    G
+   Nunca mais serão iguais
+C                 Am
+   Se for mais veloz que a luz
+       F          Fm6
+   Então escapo da tristeza
+C                 Am
+   Deixo toda a dor pra trás
+      F          Fm6         Em
+   Perdida num planeta abandonado
+Am        Em          Am
+   Pelo espaço
+
+   (Riff)                       G
+   E volto sem olhar pra trás
+
+F               G
+   No escuro do céu
+F                   G
+   Mais longe que o sol
+
+(Riff)
+Vocalização (Acompanhada da Introdução)
+
+F                Fm6          Em
+   Perdido num planeta abandonado
+Am        Em        Am
+   Pelo espaço
+
+(Riff)--O G abaixo é o fim do Riff
+(G,G/F,G/E,G/F)
+Ele ganhou dinheiro
+Ele assinou contratos
+E comprou um terno
+Trocou o carro
+E desaprendeu
+A caminhar no céu
+   G                  G/F
+E foi o princípio do fim
+
+C                 Am
+   Se for mais veloz que a luz
+       F          Fm6
+   Então escapo da tristeza
+C                 Am
+   Deixo toda a dor pra trás
+      F          Fm6         Em
+   Perdida num planeta abandonado
+Am        Em          Am
+   Pelo espaço
+
+   (Riff)
+   E volto sem olhar pra trás
+
+fade out:(G,G/F,G/E,G/F)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+Fm6 = 1 X 0 1 1 X
+G = 3 2 0 0 0 3
+G/E = 0 2 0 0 3 3
+G/F = 1 X X 0 0 3

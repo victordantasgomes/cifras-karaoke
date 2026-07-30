@@ -1,0 +1,69 @@
+@titulo: tempo-perdido
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Tempo Perdido
+
+INTRO:(A E) A E F#m C#m D A E4 E (E4 E)
+
+ A         E        F#m         C#m       D
+Quando o amor passar da hora de terminar
+               A                 E4 E
+Qualquer sentimento é por obrigação
+
+A          E          F#m
+Transa só por transar
+             C#m         D
+Pensamento noutro lugar
+            A                   E4 E
+O beijo na boca nao tem mais paixão
+D            A                 Bm
+O corpo nao mente, a alma nao sente
+         F#m       D                A
+Nao sabe enganar, no espelho dos olhos
+               E4 E
+Tá escrito nao dá...
+
+Refrão
+
+A      E                   F#m
+Só o silêncio ficou entre nós
+        C#m                D
+A indiferença calou nossa voz
+        A                     E4 E
+O nosso amor foi ficando esquecido
+ A       E                   F#m
+Só a tristeza sorriu pra nós dois
+         C#m              D
+A felicidade ficou pra depois
+          A                E4 E
+Pena que tudo foi tempo perdido
+
+Solo: A  E  F#m  C#m  D  A  E4  E  ( E4  E )
+
+(Refrão 2x)
+
+         D D4             D D4 A A4 A
+Nao foi bem assim, eu sonhei te amar
+            A A4 A             A A4 A
+Nao foi bem assim, foi tempo perdido
+         A A4 A         A A4 A
+Nao foi bem assim, foi tempo perdido
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2

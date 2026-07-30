@@ -1,0 +1,49 @@
+@titulo: terceira-dimensao
+@autor:
+@intérprete: Matheus e Kauan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Matheus e Kauan - Terceira Dimensão
+
+Intro: D9  A9  D9  A9  D9  A9  D9
+
+A9            E
+Você destruiu o que eu planejei
+F#m                    D
+Me fez sentir vergonha do tempo que eu passei
+A9                    E                D
+Ao seu lado, noites frias e sem cobertor
+
+A9                   E
+Eu dediquei a minha vida pelo nosso amor
+F#m                 D
+Se precisasse eu tirava o meu coração
+A9             E
+Daria a minha vida por você
+F#m
+Perderia até minha respiração
+D
+Só pra nunca mais te ver sofrer
+
+A9                       E
+Eu já não consigo acompanhar essa evolução
+
+F#m                       D
+A gente tá perdendo o controle do próprio coração
+A9                        E
+O mundo tá girando em terceira dimensão
+F#m                        D
+Tá me causando dependência, tô em suas mãos
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

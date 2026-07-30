@@ -1,0 +1,61 @@
+@titulo: porque-te-amo
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Porque Te Amo
+
+Itro:C9 G/B Dm7 F C G/B Am7 Dm7
+
+C9
+Eu não quero estar aqui por obrigação
+F9/C
+Eu não quero estar aqui por religião
+    Dm7/A Am7      G4 G     Dm7   C9 G11/C
+Eu só quero estar aqui porque Te amo
+C9
+Eu não quero estar aqui pra fazer uma canção
+F9/C
+Eu não quero estar aqui pra pedir algo de Tuas mãos
+    Dm7/A Am7      G4 G     Dm7   C9  G11/C  interludio: Am7 Am7/G F Am7 G/B Am7 Dm7
+Eu só quero estar aqui porque Te amo          2x Dm7
+C/E              F        C      G/B
+Porque Te amo eu paro todas as coisas
+Dm7     C/E      F       G          Am7
+Porque Te amo me prostro diante de Ti
+Dm7     C/E      F       G         Am7
+Porque Te amo escolho a boa parte
+Dm7
+Que é estar aqui
+
+G4 G
+Que é Te adorar, Senhor
+C/E    Dm7
+Que é Te ouvir
+G4 G
+Que é estar aqui
+          Dm7  C9 G/B Dm7 F Am7 Am7/G F
+Porque Te amo
+  Am7 Am7/G F
+Te amo, Senhor
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Am7/G = 3 0 2 0 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Dm7 = X 5 7 5 6 5
+Dm7/A = X 0 0 2 1 1
+F = 1 3 3 2 1 1
+F9/C = X 3 X 5 6 3
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G11/C = X 3 X 0 1 3
+G4 = 3 5 5 5 3 3

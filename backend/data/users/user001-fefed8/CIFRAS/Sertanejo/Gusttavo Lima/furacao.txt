@@ -1,0 +1,52 @@
+@titulo: furacao
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Furacão
+
+Intro 2x: E  B  C#m  A 
+E|--------------------------------------------|---------------------------------------|
+B|-5-5-5--5-4-------------5-4-5-7-7/9-7~--5-4-|-5-5-5--5-4-------------5-4-5-7-7/9-7~-|
+G|---------------6~--4-6----------------------|----------------6~--4-6----------------|
+D|--------------------------------------------|---------------------------------------|
+A|--------------------------------------------|---------------------------------------|
+E|--------------------------------------------|---------------------------------------|
+
+C#m            A
+Esse amor estranho
+      E             B
+que tomou conta de mim
+ C#m         A          E               B
+sentimento puro  já não sei se estou a fim
+ G#m                       A
+O meu coração está cansado de esperar
+ F#m                    B
+por uma pessoa  que eu nem sei se vou achar
+ F#m                   B      F#m                  B
+Como um vendaval você chegou  feito um furacão explodiu e detonou
+
+
+Refrão 2x:
+ E     B
+Sonho  todo dia com você
+C#m                                  A              E              B                        C#m
+meu coração está cansado  está com medo de sofrer  choro louco de saudade sua minha vicio obseção
+             A
+eu vou ir morar na lua.
+
+( E  B  C#m  A )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

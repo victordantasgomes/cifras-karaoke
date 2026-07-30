@@ -1,0 +1,49 @@
+@titulo: alo
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Alô
+
+E  B         E                      F#
+A.lô ... Tô ligando pra saber como você está
+           G#m       F#         E
+Eu `tava à toa e por isso resolvi ligar
+        B                  F#
+Pra contar que sonhei com você
+  B          E                   F#
+Alô ... É tão bom ouvir de novo a sua voz
+G#m             F#          E
+Apesar da distância que há entre nós
+         B                    F#
+Tem uma coisa que eu preciso dizer:
+      C#m
+Na verdade eu liguei
+      B                     F#
+Esse sonho inventei pra te ouvir
+         C#m
+E pra contar que chorei
+         B                F#
+E a solidão tava doendo em mim
+E    B       E         F#
+Oh, ah ! ... Eu só menti pra não sofrer
+
+ E    B      E        F#
+Oh, ah ! ... Eu só queria te dizer:
+       C#m        F#      B    F#  Ab
+Tô morrendo de saudade de você !
+
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

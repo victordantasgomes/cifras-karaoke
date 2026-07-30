@@ -1,0 +1,105 @@
+@titulo: al-capone
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Al Capone
+
+(intro)
+
+(solo)
+E|----------------------------------------------|
+B|----------------------------7--8--10----------|
+G|--------------------7--8--9---------------7~--|
+D|------------7--8--9--------------------8~-----|
+A|-------7--9-----------------------------------|
+E|---5h9----------------------------------------|
+
+ E           A      B7           E
+Hei, Al Capone, vê se te emenda
+                 A
+Já sabem do teu furo, nego
+      B7       E
+No imposto de renda
+
+ E           A      B7         E
+Hei, Al Capone, vê se te orienta
+               A
+Assim desta maneira, nego
+
+    B7               E
+Chicago não agüenta
+
+(Eb7 E7)
+Hei, Julio Cesar, vê se não vai ao senado
+Já sabem do teu plano para controlar o Estado
+Hei, Lampião, dá no pé, desapareça
+Pois eles vão à feira exibir tua cabeça
+
+ E           A
+Hei, Al Capone
+ B7            E
+Vê se te orienta
+               A
+Assim dessa maneira nego
+    B7               E
+Chicago não aguenta
+
+
+base solo:E A B7 E
+
+E           A      B7           E
+Hei, Al Capone, vê se te emenda
+                 A
+Já sabem do teu furo, nego
+      B7       E
+No imposto de renda
+
+ E           A      B7         E
+Hei, Al Capone, vê se te orienta
+               A
+Assim desta maneira, nego
+    B7               E
+Chicago não agüenta
+
+(Eb7 E7)
+Hei, Jimi Hendrix, abandona o palco agora
+Faça como fez Sinatra, compre um carro e vá embora
+Ei, Jesus Cristo, o melhor que você faz
+É deixar o Pai de lado e foge prá morrer em paz
+
+
+ E           A      B7         E
+Hei, Al Capone, vê se te orienta
+               A
+Assim desta maneira, nego
+    B7               E
+Chicago não agüenta
+
+E
+Eu sou astrólogo
+E
+Eu sou astrólogo
+          A
+Vocês precisam acreditar em mim
+E
+Eu sou astrólogo
+B7
+Eu sou astrólogo
+                A
+E conheço a história do princípio ao fim
+
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Eb7 = X 6 5 6 4 X

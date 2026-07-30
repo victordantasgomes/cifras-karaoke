@@ -1,0 +1,67 @@
+@titulo: jesus-esta-aqui
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Jesus Está Aqui
+
+Introdução: Am7  G/B  C (4x)
+
+Am                 G/B            C
+Mesmo não vendo há anjos ao meu redor
+      Am                         G/B    C
+Que o Pai de amor deu ordens pra me guardar
+      Dm7                     Am7             G
+E Ele fala para mim: Sê forte e não tenhas medo
+             Dm7
+Se as trevas vêm pra te assustar
+C/E      F                       Gsus4    G
+Não passará de um momento Estou aqui
+
+        C        Am7
+Está aqui Jesus está aqui
+     F                        Fm6
+Derramando sua paz que excede todo entendimento
+             C        Am7
+Já posso sentir Jesus está aqui
+       Dm7         C/E
+Seu espírito transborda
+
+         F           G            Am
+Poder que cura e transforma está aqui  (G/B  A/C#)
+
+        D        Bm7
+Está aqui Jesus está aqui
+     G                        Gm6
+Derramando sua paz que excede todo entendimento
+            D        Bm7
+Já posso sentir Jesus está aqui
+       Em         D/F#
+Seu espírito transborda                   Final (2x)
+          G            A            D
+Poder que cura e transforma está aqui.....
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm7 = X 5 7 5 6 5
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+Fm6 = 1 X 0 1 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+Gm6 = 3 X 2 3 3 X
+Gsus4 = 3 5 5 5 3 3

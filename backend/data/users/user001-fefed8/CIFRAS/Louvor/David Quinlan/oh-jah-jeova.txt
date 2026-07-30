@@ -1,0 +1,63 @@
+@titulo: oh-jah-jeova
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Oh Jah, Jeová
+
+[INT] -> F C G Am
+
+F     C
+Oh, Jah!
+    G    Am
+Let God arise
+
+Eb      Gm       F   C
+Let his enemies scatter
+Eb        Bb         F     C
+Let them flee from before Him
+Eb           Gm      F C
+As smoke is driven away
+Eb      Gm          Bb   C
+Let him drive them away
+
+F   C
+Oh, Jah!
+    G    Am
+Let God arise
+
+
+Eb      Gm             F C
+Let the righteous be glad
+Eb         Bb            F C
+Let them rejoice before God
+Eb         Gm        F  C
+Let them exceedingly rejoice
+Eb          Gm        Bb C
+Sing their praises to Him
+
+F    C      G   Am
+ Jeová levanta-se...
+Eb       Gm    F   C Eb        Gm      Bb F
+ Que os teus inimigos fujam diante de ti
+Eb       Gm      F  C  Eb       Gm      Bb F
+ e que sejam dispersos por teu sopro ó Deus.
+Eb        Gm      F C  Eb      Gm        Bb F
+ Que os justos celebrem regozijem-se em ti
+Eb       Gm        F C   Eb    Gm      F C
+ com louvores nos lábios te exaltem ó Deus.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Eb = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

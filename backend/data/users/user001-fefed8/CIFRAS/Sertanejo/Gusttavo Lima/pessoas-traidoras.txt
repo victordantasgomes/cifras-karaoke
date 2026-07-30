@@ -1,0 +1,52 @@
+@titulo: pessoas-traidoras
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Pessoas Traidoras
+
+Intro: F#m  E  D  A
+E
+
+F#m                           E
+Pessoas traidoras nos machucão,
+                            D
+pessoas traidoras nos maltratam,
+                          C#  Bm
+essas pessoas não merecem ser traídas.
+
+(A E)
+
+F#m                                 E
+Não vou trair pra me sentir melhor,
+                            D
+por que assim eu seria pior,
+                                      E
+eu não vou fazer o mesmo que ela fez comigo.
+
+   (E) D A                        E
+Pessoas traidoras não merecem amor, de verdade
+
+              Bm      D
+não merecem respeito,
+            A
+vivem na escuridão.
+
+    (E) D A                        E
+Pessoas traidoras não merecem amor, de verdade
+     D              E          A (A7 A)
+elas merecem da gente só saudade.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

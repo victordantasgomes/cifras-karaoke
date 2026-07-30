@@ -1,0 +1,66 @@
+@titulo: domingo
+@autor:
+@intérprete: Biquini Cavadão
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Biquini Cavadão - Domingo
+
+G#m
+Acordo tarde
+B
+Nada que eu possa ver
+F#
+Nem que eu possa fazer
+G#                B
+Depressão de meio dia
+      F#           G#m
+Esperando o dia amanhecer
+G#m                 B
+Divagando em um dia cinza
+                F#           G#m
+Meus amigos me chamam pra sair
+G#m                     B
+Eu não saio com eles, nem sinto vontade,
+F#                   G#m
+Embora eu queira me divertir
+G#m                     B
+Mas não vejo nada que possa fazer
+F#             G#m
+Só esperar segunda acontecer
+
+C#m7           E6                    G#m7
+Saio e vago nas ruas porque só isso me resta
+                 E       F#
+E a cidade morre mais um pouco
+C#m7             E6                 G#m7
+Saio e vago nas ruas porque só isso me resta
+                       E         F#
+E eu, trancado em mim, fico mais louco
+G#m             B
+E eu me pego almoçando às seis e meia
+F#                         G#m
+Somente os instintos sobrevivem num domingo
+G#m             B
+O dia vai terminar...
+F#                   G#m
+Eu só escrevo besteiras...
+G#m           B
+Sonho acabar, sonho acabar domingo
+F#                  G#m
+Sem começar segunda-feira!
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E6 = X X 2 4 2 4
+F# = 2 4 4 3 2 2
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4
+G#m7 = 4 X 4 4 4 X

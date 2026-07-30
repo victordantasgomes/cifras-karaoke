@@ -1,0 +1,38 @@
+@titulo: livres
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Livres
+
+Gm       D#7            Cm   F    Gm
+LIVRES EM JESUS  LIVRES DE TODA MALDIÇÃO
+       Gm          D#7           Cm      F      Gm
+SOMOS LIVRES EM JESUS AGORA NÃO HÁ MAIS CONDENAÇÃO
+    Gm                   D#7                 Cm     F    A#7  D#7
+ELE É O EL SHADAI O SEU NOME É ADONAI  PARA SEMPRE REINARÁ
+         Gm                 D#7                 Cm  C D7/9        Gm
+ELE É A ROSA DE SARON A ESTRELA DA MANHÃ MEU MOTIVO       PRA CANTAR
+
+D#7              Dm                Cm7                A#7
+ELE TOMOU SOBRE SI  AS NOSSAS DORES    PADECEU NUMA CRUZ
+ D#7             Dm               Cm7                    D7/9
+POR SUAS CHAGAS SIM, FOMOS SARADOS    SOMOS LIVRES EM JESUS
+
+
+----------------- Acordes -----------------
+A#7 = X 1 3 1 3 1
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+Cm7 = X 3 5 3 4 3
+D#7 = X 6 5 6 4 X
+D7/9 = X 5 4 5 5 X
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

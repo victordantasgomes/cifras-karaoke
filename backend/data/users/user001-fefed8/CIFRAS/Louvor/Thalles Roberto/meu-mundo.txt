@@ -1,0 +1,56 @@
+@titulo: meu-mundo
+@autor:
+@intérprete: Thalles Roberto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Thalles Roberto - Meu Mundo
+
+Intro 2x: D  C9   G
+
+E|-----------2---3---3----|
+B|-----------3---3---3----|
+G|-----------2---0---0----|
+D|-----------0---2---0----|
+A|-----0-2-3-----3---2----|
+E|---3---------------3----|
+
+G                              C9                     G
+Palavras que marcaram todos os tempos não foram só palavras.
+G                        C9                  D
+Composições de amor e atitude que nunca se acabam.
+    C9                                            G
+Tão bom é ver Jesus com Seu sorriso iluminando tudo,
+                                        Am7
+Eu acordar toda manhã, um sonho a gente junto.
+    C9
+Tão fácil é Te dizer: 'meu tudo!'
+G                                             Am7
+Que Te encontrar fez a minha vida inteira ter sentido,
+
+    C9
+Nós dois: o meu mundo.
+
+G G Am G/B D            C9
+É fácil demais viver em paz!
+                   D
+A gente é que complica tudo.
+G    G Am G/B D           C9
+Vem! Vamos viver! Viver Jesus
+                G
+Pra gente ser feliz!
+
+Intro 2x:
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

@@ -1,0 +1,61 @@
+@titulo: o-feirante
+@autor:
+@intérprete: Trio Parada Dura
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trio Parada Dura - O Feirante
+
+[Intro]  C#  F#
+
+F#                    C#7                                         F#
+Na minha barraca tem o melhor preço da praça
+                                 C#7                               F#
+Moça bonita não paga e leva banana de graça
+
+F#
+Na minha barraca tem fartura de montão
+                                                                C#7
+Tem alface tem tomate, tem chuchu e agrião
+
+Na minha barraca, tem cenoura saborosa
+                                    B               C#7              F#
+Tem pepino e espinafre, pimentão e manga rosa
+
+Na minha barraca tem laranja e tem maçã
+                                                      F#7               B
+Tem nabo tem mexerica tem goiaba e tem poncã
+                                                            F#
+Tem salsa e tem cebola beterraba e jiló
+
+                             C#7                           F#
+Tem até um solitário cansado de andar só.
+
+F#
+Na minha barraca a freguesa deita e rola
+                                                                            C#7
+Quem chegar no meu pedaço esquece de ir embora
+
+Na minha barraca tem tudo o que ela quer
+                                      B            C#7            F#
+Faço questão de agradar cada gosto de mulher
+
+Quem não me conhece e quiser me conhecer
+                                                 F#7                 B
+Passe na minha barraca comprove pra você ver
+                                               F#
+A mercadoria é sadia pra danar
+                                         C#7                                F#
+Quem provar do meu produto com certeza vai gostar
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+C#7 = X 4 3 4 2 X
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2

@@ -1,0 +1,78 @@
+@titulo: a-louca
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - A Louca
+
+Intro:
+      G
+E|--------------------|
+B|--3-3-3-3h5-3-3-3-3-|
+G|--0-0-0-0---0-2-4-0-|
+D|--------------------|
+A|--------------------|
+E|--------------------|
+
+Refrão:
+G                 D
+Não vem bancar a louca
+               Em   D C
+Não adianta pirar
+     G            D
+Foi você quem me usou
+           C
+E depois me pediu
+                   G
+Pra nunca mais voltar
+
+
+ Solo 2x: G D C C
+E|--2/3-3-3-------2/3-3-3---------3-3-3-2-0-----|
+B|--2/3-3-3-------2/3-3-3---------3-3-3-3-3-3---|
+G|----------4-0h2----------4-0h2-0------------0-|
+D|----------------------------------------------|
+A|----------------------------------------------|
+E|----------------------------------------------|
+
+E|--2/3-3-3---------2/3-3-3---------------------|
+B|--2/3-3-3---------2/3-3-3-----3h5-------------|
+G|-----------4-0h2----------4-0-----------------|
+D|----------------------------------------------|
+A|----------------------------------------------|
+E|----------------------------------------------|
+
+G             D
+Você já caiu fora
+Em              C
+Jurou não mais voltar
+G                 D                     C
+Pediu que eu colocasse outra em seu lugar
+
+G                D
+Mas a gente não manda
+Em            C
+No nosso sentimento
+G                D        C
+Eu chorei por você muito tempo
+Em                  C                 G
+E agora vem com um papo que estava errada
+           D              C
+Metendo a boca toda enciumada
+                             D
+Mas eu só fiz o que você mandou
+
+(Refrão)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,60 @@
+@titulo: cor-de-ouro(simplificada)
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Cor de Ouro
+
+Intro 2x: A  E  F#m  D
+
+Primeira Parte:
+A                      E
+  Nunca pensei que um dia fosse ser assim
+F#m                      D
+  Você chegou sem dizer nada tomou conta de mim
+A                   E
+  Antes de você chegar só tinha solidão
+F#m                   D
+  Somente marcas e feridas no meu coração
+
+Pré-Refrão:
+Bm        D                   A
+  Amor você é tudo que eu preciso
+Bm                   D               E
+  Com você eu to no céu eu tô no paraíso
+
+Refrão 2x:
+A                    E
+  Esse cabelo cor de ouro é que me deixa louco
+
+Bm                       D
+  Esse sorriso nos seus lábios que eu me entrego todo
+A                         E
+  Não sei mais ver minha vida sem você por perto
+Bm                 D
+  Amor sem você comigo a vida é um deserto
+
+(repete tudo)
+
+Refrão 3x:
+A                    E
+  Esse cabelo cor de ouro é que me deixa louco
+Bm                       D
+  Esse sorriso nos seus lábios que eu me entrego todo
+A                         E
+  Não sei mais ver minha vida sem você por perto
+Bm                 D                      A
+  Amor sem você comigo a vida é um deserto
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

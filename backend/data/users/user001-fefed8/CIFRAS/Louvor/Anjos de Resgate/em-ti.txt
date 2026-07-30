@@ -1,0 +1,107 @@
+@titulo: em-ti
+@autor:
+@intérprete: Anjos de Resgate
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Anjos de Resgate - Em Ti
+
+Intro:  G   D/F#  Em   D   C   G/B   Am   D
+          G   D/F#  Em   D   C   G/B   Am   D   C
+
+G                     D/F#      Em               D
+Eu me entrego a ti,        venho te servir,
+          C     D            G     C/G
+Meu Deus, meu Senhor.
+G                D/F#   Em                     D
+O meu coração, entrego em tuas mãos,
+          C     D               G
+Meu Deus, meu Redentor.
+
+C                            G/B                   Am   Em9
+Me invade com tua graça, meu Senhor.
+    F                C/E       D
+Sacia minha sede de amor.
+
+               G      D/F#               C/E             G/D   G/B
+Quero servir além do que eu posso alcançar.
+        C                               G/B                Am                         D
+Bem mais do que onde eu sonho em chegar, pois confio em ti.
+
+C/E     D/F#  G     D/F#                       C/E               G/D   G/B
+Quero seguir     além de onde meus passos podem ir.
+    C                     G/B                    Am                    D4
+Entrego tudo em tuas mãos, pois sei que em ti encontro
+      D       C   D/C   C   D/C   Bm   Em   D   C
+A salvação.
+
+G                     D/F#      Em               D
+Eu me entrego a ti,        venho te servir,
+        C       D            G     C/G
+Meu Deus, meu Senhor.
+G                D/F#   Em                     D
+O meu coração, entrego em tuas mãos,
+        C       D               G
+Meu Deus, meu Redentor.
+
+         C                    G/B                   Am   Em9
+Me invade com tua graça, meu Senhor.
+    F                C/E       D
+Sacia minha sede de amor.
+
+               G      D/F#               C/E             G/D   G/B
+Quero servir além do que eu posso alcançar.
+        C                                G/B                Am                         D
+Bem mais do que onde eu sonho em chegar, pois confio em ti.
+C/E     D/F#  G     D/F#                       C/E               G/D   G/B
+Quero seguir     além de onde meus passos podem ir.
+    C                     G/B                   Am                      D4
+Entrego tudo em tuas mãos, pois sei que em ti encontro
+    D      G
+A salvação.
+
+      C                                             D
+Permito-me tudo em teu favor, ensina-me a semear o amor.
+    C/E
+Entrego-te tudo, sem esperar nada.
+     D/F#                Am      C       D
+Só quero ouvir tua voz a me guiar.
+
+               A      E/G#               D/F#             A/E   A/C#
+Quero servir além do que eu posso alcançar.
+        D                               A/C#             Bm                          E
+Bem mais do que onde eu sonho em chegar, pois confio em ti.
+D/F#   E/G#  A     E/G#                       D/F#              A/E  A/C#
+Quero seguir     além de onde meus passos podem ir.
+    D                     A/C#                 Bm                      E4
+Entrego tudo em tuas mãos, pois sei que em ti encontro
+    E      A
+A salvação.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+Em = 0 2 2 0 0 0
+Em9 = 0 2 4 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X

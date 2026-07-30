@@ -1,0 +1,98 @@
+@titulo: a-procura-de-uma-flor
+@autor:
+@intérprete: Milionário e José Rico
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Milionário e José Rico - A Procura de Uma Flor
+
+Intro 2x: D7  G  C  G  D7  C  Am  G
+
+   D7                  G             C             G
+E|--------------------7-7-7-5-7-3-----------------7-7-7-5-7-3-|
+A|------------------------------------------------------------|
+D|------------------------------------------------------------|
+G|-11-11-11-9-11/7-7~--------------9-9-9-7-9/5-5~-------------|
+B|------------------------------------------------------------|
+E|-10-10-10-8-10/7-7~--------------8-8-8-7-8/5-5~-------------|
+
+   D7                  C              Am            G
+E|------------------------------------------------------------|
+A|------------------------------------------------------------|
+D|------------------------------------------------------------|
+G|-11-11-11-9-11/7-7--9-9-9-7-9/5-5--5-5-5-4-5/2-2------------|
+B|------------------------------------------------------------|
+E|-10-10-10-8-10/7-7--8-8-8-7-8/5-5--5-5-5-3-5/2-2------------|
+
+   D7                  G             C             G
+E|--------------------7-7-7-5-7-3-----------------7-7-7-5-7-3-|
+A|------------------------------------------------------------|
+D|------------------------------------------------------------|
+G|-11-11-11-9-11/7-7~--------------9-9-9-7-9/5-5~-------------|
+B|------------------------------------------------------------|
+E|-10-10-10-8-10/7-7~--------------8-8-8-7-8/5-5~-------------|
+
+
+    D7                  C              Am            G               G
+E|-----------------------------------------------------------------------|
+A|-----------------------------------------------------------------------|
+D|-----------------------------------------------------------------------|
+G|-11-11-11-9-11/7-7--9-9-9-7-9/5-5--5-5-5-4-5/2-2--4-4-4-2-4/0-0--4/0-0-|
+B|-----------------------------------------------------------------------|
+E|-10-10-10-8-10/7-7--8-8-8-7-8/5-5--5-5-5-3-5/2-2--3-3-3-2-3/0-0--3/0-0-|
+
+
+  D7                     C               G
+É hora meu bem é hora, é hora de eu ir embora
+   C                      Am            G
+Gostei muito de você, mas tenho que ir agora
+   D7                     C             G
+Gostei muito de você, mas tenho que ir agora
+
+   Em
+No jardim de minha vida eu procurava uma flor
+    G
+Que sentisse em seu perfume o feitiço do amor
+  C
+Finalmente eu encontrei uma rosa diferente
+                     Am          D7              G
+Se eu pudesse eu levaria ... pra ser minha eternamente
+
+( D7  G  C  G  D7  C  Am  G ) 2x
+
+  D7                     C               G
+É hora meu bem é hora, é hora de eu ir embora
+   C                      Am            G
+Gostei muito de você, mas tenho que ir agora
+   D7                     C             G
+Gostei muito de você, mas tenho que ir agora
+
+    Em
+Vou partir amargurado por deixar você sozinha
+    G
+Porque não tenho certeza se pensas em ser só minha
+    C
+Meu bem vou lhe perguntar e quero a sua resposta
+                    Am          D7              G
+Pergunte ao seu coração ... de quem é que você gosta ?
+
+( D7  G  C  G  D7  C  Am  G ) 2x
+
+  D7                     C               G
+É hora meu bem é hora, é hora de eu ir embora
+   C                      Am            G
+Gostei muito de você, mas tenho que ir agora
+   D7                     C             G
+Gostei muito de você, mas tenho que ir agora
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

@@ -1,0 +1,78 @@
+@titulo: prosseguir
+@autor:
+@intérprete: Detonautas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Detonautas - Prosseguir
+
+Intro:(Cm Ab Fm  Cm Ab Fm Bb)2x
+O primeiro Fm são dois tempos
+e eh feito o solinho no segundo tempo
+
+solinho 1: *é feito no segundo tempo do primeiro Fm
+b|----------------
+B|--4-6/8-6-4-----
+G|-5----------5---
+
+solinho 2:*é feito no segundo tempo da segunda repetiçao do Fm
+b|----------6----
+B|--4-6/8-6---8--
+G|-5-------------
+
+Fm                               C
+Enquanto estamos nus
+Eb                       Bb           Fm       C
+Percebendo estranhos nos arredores
+Eb             Bb
+Opressão, falsa paz
+Fm                   C
+Não consegue perceber
+
+Eb                     Bb
+Não consegue me explicar
+           Fm               C
+O que é verdade?
+Eb                           Bb
+E o que é verdade?
+
+Fm                                                 Eb
+Não espero olhar pra  trás e ver
+Fm                                Eb
+O que nos resta de ilusão
+
+                            Db
+Eu pretendo prosseguir
+      Eb
+Me libertar
+                          Db
+Eu pretendo prosseguir
+          Eb
+E me libertar.
+
+Solo:(Fm  Eb Cm  Eb Ab  Eb Fm)4x
+Fm                                          Eb                                              Fm             Eb
+Sinceros são os dias em que vivemos em busca de um amor, estranho amor.
+
+Refrão.
+
+Riff ( Cm Ab  Fm   Cm Ab Fm Bb )
+
+Eu não pretendo resolver o seu problema
+O meu dilema não faz parte dessa conclusão
+Não quero nada, não tenho a solução então
+Fale o que quiser e que se foda o seu padrão
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+Db = X 4 6 6 6 4
+Eb = X 6 5 3 4 3
+Fm = 1 3 3 1 1 1

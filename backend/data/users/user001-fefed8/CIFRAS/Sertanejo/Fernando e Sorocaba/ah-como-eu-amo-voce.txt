@@ -1,0 +1,108 @@
+@titulo: ah-como-eu-amo-voce
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - Ah, Como Eu Amo Você
+
+(intro)  A  E  F#m  C#7  D  A E A  E
+
+E|-----------------------------------------------5--4--0-----------5-5-5-5-4/5-5-|
+B|--------------------------------10-9-7-------------------2-3/5---5-5-5-5-5-5-5-|
+G|-----------------------------6-9-----------5/6----4--2-------------------------|
+D|---7-7-7-6--6-6-4-6-7-4-2-4/7----------9-7-------------------------------------|
+A|--7-7-7----7-7-----------------------------------------------------------------|
+E|-------------------------------------------------------------------------------|
+
+A                  E
+Você me disse que depois de tudo o que passou
+F#m                D
+Nunca mais na vida ia sentir amor
+A          E              D
+Nunca mais iria desejar alguém.
+A                  E
+Eu sempre soube de tudo dessa sua história
+F#m                D
+Nunca falei nada só fiquei de fora
+  A           E                D         D|-----------9----------
+E era obrigado a ver você se machucar... A|--7-9-10-11-11-10-7-9-
+                                         E|----------------------
+
+
+Mais saiba que o amor não é assim
+                E                D
+Sempre desejei ter você pra mim.
+
+ Bm       D            E
+Me dê uma chance paixão...
+
+(refrão)
+A              E                 F#m
+Eu te quero tanto mas você nem liga
+                  C#7
+Sei que ainda existe alguém em sua vida
+D            A                 E
+mais se lembre que ninguém vai te amar
+D           E
+como eu te amo
+A                  E
+Eu te quero e não quero nada em troca
+F#m            C#7           D
+É tão bom poder estar a sua volta
+           A                      E
+Me dê uma chance que não vai se arrepender
+D       E
+A como eu amo você.
+
+(base) A  E  F#m  C#7  D  A E A  E
+
+(2° parte)
+
+(solo)
+E|-----------------------------------------------5--4--0-----------------7--------|
+B|--------------------------------10-9-7-------------------2-3/5--5-7-8-9-9-8-5-7-|
+G|-----------------------------6-9------------/6----4--2--------------------------|
+D|---7-7-7-6--6-6-4-6-7-4-2-4/7----------9-7--------------------------------------|
+A|--7-7-7----7-7------------------------------------------------------------------|
+E|--------------------------------------------------------------------------------|
+
+F#m              E            A
+Mais saiba que o amor não é assim
+                E             D
+Sempre desejei ter você pra mim
+  Bm      D         E
+Me dê uma chance paixão...
+
+(refrão)
+(solos finais)
+
+ah como eu amo você..
+E|----------------------|
+B|-----------10-9-7-----|
+G|-------6-9------------|
+D|---7-7------------9-7-|
+A|--7-7-----------------|
+E|----------------------|
+
+E|------------------|
+B|------------------|
+G|------------------|
+D|---7-7------------|
+A|--7-7-9-7-5-7/9-7-|
+E|------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C#7 = X 4 3 4 2 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

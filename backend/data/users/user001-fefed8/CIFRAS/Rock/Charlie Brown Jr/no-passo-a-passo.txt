@@ -1,0 +1,74 @@
+@titulo: no-passo-a-passo
+@autor:
+@intérprete: Charlie Brown Jr
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Charlie Brown Jr. - No Passo a Passo
+
+base riff: 4x( C#m E B )
+
+e|---------------------------|-----------------------------|-----------------------------|
+B|---------------------------|-----------------------------|-----------------------------|
+G|---------------------------|-----------1-1---------------|-----------------------------|
+D|-----------2-2-1-1---------|---------------4-4-2-1-2-----|-----------2-2-1-1-----------|
+A|---2/4-4-4---------4-2-4---|---2/4-4-4-------------------|---2/4-4-4---------4-2-4-----|
+E|---------------------------|-----------------------------|-----------------------------|
+
+e|---------------------------|
+B|---------------------------|
+G|---------------------------|
+D|---2/11--------------------|
+A|---------------------------|
+e|---------------------------|
+
+intro: 4x( G#m B Eb E ) 4x( C#m E B )
+
+            C#m            E
+No passo a passo eu chego lá
+    B
+Minha vida é muito louca
+
+ C#m            E               B
+Eu não dou atenção pro que sai da sua boca
+         C#m         E
+Eu vou tocar em frente
+          B
+Porque o bonde aqui não pára
+  C#m          E          B
+Skate, Rock n' Roll, Hip-Hop, é minha cara
+C#m          E          B
+Eu sou como sou, já falei pra todo mundo
+       C#m        E
+Santos é o meu lugar,
+   B                  (C#m E B )
+Mas eu vivo pelo mundo
+
+Riff Inicial
+
+C#m       D
+Original rude boy on the house
+C#m         D
+Original skateboard vibration
+Old school style
+We don't stop
+Check it all
+
+Repete tudo
+
+Solo: ( C#m D )
+
+Repete intro
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Eb = X 6 5 3 4 3
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,95 @@
+@titulo: a-flor
+@autor:
+@intérprete: Los Hermanos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Los Hermanos - A Flor
+
+[Intro]  Abm  C#m  C#m/B  Abm  C#m  Ebm
+
+[Solo Intro]
+
+E|--------------------------------------------------------|
+B|---7--5----------5-------7--5---------------------------|  
+G|--------8--6--8-----8--6-------8--6--8------------------|
+D|--------------------------------------------------------|
+A|--------------------------------------------------------|
+E|--------------------------------------------------------|
+
+E|-----6-7-9--7-6--------9-7-6~~-----6-7-9--7-6-----------|
+B|--9-------------9~~--------------9-------------9~~------|
+G|-----------------------------------------------------8~~|
+D|--------------------------------------------------------|
+A|--------------------------------------------------------|
+E|--------------------------------------------------------|
+
+Abm                         C#m        C#m/B
+Ouvi dizer do teu olhar ao ver a flor
+ Abm                               C#m      C#m/B
+Não sei porque achou ser de um outro rapaz
+
+ C#m       F#         B   B/Bb  Abm  Abm/F#
+Foi capaz de se entregar
+           C#m         F#           E
+Eu fiz de tudo pra ganhar você pra mim
+             Em
+Mas mesmo assim
+
+               C#m      C#m/B  Abm         C#m   C#m/B
+Minha flor serviu pra que você achasse alguém
+             C#m          F#         B   B/Bb  Abm  Abm/F#
+Um outro alguém que me tomou o seu amor
+           C#m        F#      E
+Eu fiz de tudo pra você perceber
+        Em
+Que era eu
+
+        Abm    Dbm   C#m/B
+E|-----------------------------------|
+B|-----------------------------------|  
+G|-4-3---1-4-6-4---------------------|
+D|-----4-----------------------------|
+A|-----------------------------------|
+E|-----------------------------------|
+
+Durante o solo do sopro, na guitarra, a partir da terceira vez:
+
+E|----------------9-7----------------|
+B|---12-11--9-12---------------------|
+G|--------11-------------------------|
+D|-----------------------------------|
+A|-----------------------------------|
+E|-----------------------------------|
+
+Tua flor me deu alguém pra amar enquanto a mim
+        C#m          F#            B   B/Bb  Abm  Abm/F#
+Você assim eu por final sem meu lugar
+         C#m        F#          Abm  C#m
+Eu tive tudo sem saber quem era eu
+
+C#m/B          Abm           C#m  C#m/B
+Eu que nunca amei a ninguém
+
+ Abm                  C#m F#
+Pude então enfim amar
+
+( Abm )
+
+----------------- Acordes -----------------
+Abm = 4 6 6 4 4 4
+Abm/F# = X X 4 4 4 4
+B = X 2 4 4 4 2
+B/Bb = 6 X 4 4 4 X
+C#m = X 4 6 6 5 4
+C#m/B = 7 X 6 6 5 X
+Dbm = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+Ebm = X X 1 3 4 2
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2

@@ -1,0 +1,58 @@
+@titulo: ela-nao-esta-aqui
+@autor:
+@intérprete: Lairton e Seus Teclados
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lairton - Ela Não Está Aqui
+
+Intro: C Dm F C
+
+                C                 Dm
+Tá difícil esquecer, tirar você de mim
+                      F     G                 C    
+Nos meus olhos dá pra ver, seu adeus doendo assim
+                     C                   Dm
+Não pensei que esse amor, me pudesse machucar
+                 F   G                   C   C7
+e uma lágrima de dor, hoje cai no meu olhar
+
+Refrão:
+  C               Dm                    F
+Baby, te vejo tão longe, de mim tão distante
+            C    C7
+Além do horizonte
+        C                    Dm                F    E|--3^-1-
+É é é  Baby, eu grito o seu nome, saudade responde,
+    G          C
+Ela não está aqui.
+
+                     C                       Dm
+Quando o sol vem me tocar, parecendo o beijo seu,
+                  F     G                      C
+Deixo o sonho me levar, pra acordar nos braços seus.
+
+Refrão:
+  C               Dm                    F
+Baby, te vejo tão longe, de mim tão distante
+            C    C7
+Além do horizonte
+        C                    Dm                F   
+É é é  Baby, eu grito o seu nome, saudade responde,
+    G          C
+Ela não está aqui.
+
+Solo: C Dm F C  C Dm F G C
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

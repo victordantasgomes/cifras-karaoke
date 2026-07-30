@@ -1,0 +1,123 @@
+@titulo: ela-desapareceu
+@autor:
+@intérprete: Skank
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Skank - Ela Desapareceu
+
+(intro 4x) G#  C#  D#
+
+G#                     C#
+Ela desapareceu como a lua
+              D#      G#    C#  D#
+Que vai por trás das nuvens
+   G#                     C#
+E tudo escureceu como na rua
+        D#        G#
+Quando faltam as luzes
+
+Fm
+Não há ninguém
+Fm7
+Nas calçadas
+         Fm
+E se não há mais ninguém, é porque
+    Bb
+Não há ninguém
+
+C#
+Dele se escondeu
+
+Com mil disfarces úteis
+         G#
+Tudo se resolveu na areia
+     D#
+Onde fazem casa os avestruzes (eu disse...)
+
+G#
+ou quem
+    Bb
+Não pode admitir que tem
+   C#       D#           G#
+Motivos pra viver Por alguém
+
+G#
+Ou quem
+    Bb
+Não pode admitir que tem
+   C#       D#           G#
+Motivos pra viver Por alguém
+
+G#
+Ela nunca pareceu
+    C#              D#    G#    C#  D#
+Do tipo que manda flores mortas
+    G#
+Paraíso que escolheu
+       C#               D#       G#    C#  D#
+Muito vivo, mas só por trás das portas
+
+Fm
+Não há ninguém
+Fm7
+Nos jardins
+    Fm
+Não há mais clareza, nem meios
+    Bb
+Pra esses fins
+
+C#
+Escuridão na veia
+Com mil disfarces úteis
+         G#
+Tudo se resolveu na areia
+     D#
+Onde fazem casa os avestruzes (eu disse...)
+
+G#
+Ou quem
+    Bb
+Não pode admitir que tem
+   C#       D#           G#
+Motivos pra viver Por alguém
+
+G#
+Ou quem
+    Bb
+Não pode admitir que tem
+   C#       D#           G#
+Motivos pra viver Por alguém
+
+(solo final)
+E |------------------------------------------------------------
+B |--16fbrb-------16fbrb---------------------------------------
+G |---------13-----------13-------15fbrb--13------13-----------
+D |---------------------------15---------------15--------------
+A |------------------------------------------------------------
+E |------------------------------------------------------------
+
+E |---------------------------------------------------l------------------------------
+B |---------------------------------------------------l-----18--16----21fbrb--16fb---
+G |----15fb*15-15-15-15-15-15*rb-13-15fbrb-13--15fbrb-l------------------------------
+D |---------------------------------------------------l------------------------------ (2x)
+A |---------------------------------------------------l------------------------------
+E |---------------------------------------------------l------------------------------
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+E = 0 2 2 1 0 0
+Fm = 1 3 3 1 1 1
+Fm7 = 1 X 1 1 1 X
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

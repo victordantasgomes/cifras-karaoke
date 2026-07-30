@@ -1,0 +1,63 @@
+@titulo: faz-tempo
+@autor:
+@intérprete: Henrique e Juliano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Henrique e Juliano - Faz Tempo
+
+Intro 2x: Am  Em  G  D
+E|-------------------------8h10-8-7------------|
+B|---8-10-10-10-10--10/12--8-------8-10/12/10--|
+G|-9---------------------9---------------------|
+D|---------------------------------------------|
+A|---------------------------------------------|
+E|---------------------------------------------|
+
+Faz tempo que a gente vive junto
+           C
+Mas tá separados
+
+Eu e você dormindo
+               G
+Cada um pra um lado
+                                   D    E/G#  D5(9)
+Faz tempo que a gente já nem faz amor
+     Am                                      C
+Faz tempo que você já não me olha mais daquele jeito
+                             G
+E tudo que eu faço você vê defeito
+
+                  C                  D5(9)
+Faz tempo que eu deixei de ser o seu amor
+           Am           Em
+É melhor parar e conversar
+              G                D/F#
+Não vamos insistir mais nesse amor
+                 Am           Em
+Pra que ficar fingindo se não dá
+              C             D
+Eu e você faz tempo que acabou
+             Em                  C
+Não vale chorar, nem se arrepender
+            G                D
+Foi tudo sincero enquanto durou
+             Em              C                G            D
+O que era verdade virou falsidade perdeu o sentido e aí acabou
+         G
+Faz tempo
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D5(9) = X 5 7 9 X X
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

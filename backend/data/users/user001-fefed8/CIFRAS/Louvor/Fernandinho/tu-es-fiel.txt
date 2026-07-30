@@ -1,0 +1,78 @@
+@titulo: tu-es-fiel
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Tu És Fiel
+
+Intro 2x: D  D  G  G
+
+D        G/D        A/D       D
+Tu És  fiel  Senhor meu Pai celeste
+G       D/F#         E        A
+Pleno poder aos Teus filhos dará
+A        Bm       D/F#     G
+Nunca  mudaste Tu nunca faltaste
+Em       D/A    A        G
+Tal como eras Tu sempre serás
+
+D        G/D         A/D      D
+Flores e frutos , montanhas e mares
+G             D/F#      E        A
+Sol , lua , estrelas no céu a brilhar
+A       Bm      D/F#        G
+Tudo criaste na terra e nos ares
+Em        D/A       A          G     Bm  G  G
+Todo o universo vem, pois te louvar
+
+A/C#    Bm7        G       Em
+Tu És fiel Senhor, Tu És fiel Senhor
+
+A        Bm      E           A
+Dia após dia com bençãos sem fim
+A/C#   Bm       D/F#       G
+Tua merçê me sustenta e me guarda
+Em      A
+Tu És fiel Senhor, fiel a mim
+
+Interlúdio: D  D  G  G
+
+D        G/D         A/D      D
+Pleno perdão tu dás, paz ,segurança
+G      D/F#     E       A
+Cada momento me guias Senhor
+A       Bm         D/F#     G
+E no porvir oh que doce esperança
+Em      D/F#       A      G
+Desfrutarei do teu rico favor.
+
+A       D/F#       G       Em
+Tu És fiel Senhor, Tu És fiel Senhor
+A        Bm      E           A
+Dia após dia com bençãos sem fim
+A/C#   Bm       D/F#       G
+Tua mercê me sustenta e me guarda
+Em      A
+Tu És fiel Senhor, fiel a mim
+
+Final: D  D  G  G
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/D = X X 0 6 5 5
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/D = X 5 5 4 3 X

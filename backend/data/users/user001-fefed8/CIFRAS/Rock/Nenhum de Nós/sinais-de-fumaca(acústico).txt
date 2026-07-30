@@ -1,0 +1,98 @@
+@titulo: sinais-de-fumaca(acústico)
+@autor:
+@intérprete: Nenhum de Nós
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nenhum de Nós - Sinais de Fumaça (acústico)
+
+Intro: ( Am C D D )- 2 Vezes
+Solo:
+        Am         C         D    D      
+e|------------0-------------2-2--2-2-|:
+B|----------1---------1-----3-3--3-3-|::
+G|--------2--------------------------|:::- 2 VEZES
+D|-2-2--2----------2-----------------|:::
+A|-0-------------3-------------------|::
+E|-----------------------------------|:
+
+ R    e|-----|
+ i    B|-----|
+ f    G|-----|
+ f    D|-----|
+      A|-2-0-|
+ 1    E|-----|
+
+  G                            Riff 1
+Estórias de garotos e garotas
+ Em
+Tantas palavras ditas entre os dentes
+
+          C      D
+Entre os dentes
+
+G                          Riff 1
+A palavra certa os sinais
+   Em
+Sinais de fumaça e eu me sinto mal
+ C     D
+Mal...
+
+REFRÃO - 2 vezes
+
+         C
+Seja bem-vinda ao lar
+           D                Am  C D
+Eu tenho estórias pra te contar
+
+SOLO 2:   (Am   C   D  D) - 2 vezes
+
+E|--10-8-7-8-7----7-7-7-7------------------|
+B|-------------8----------10-8-10-10-10-10-|
+G|-----------------------------------------|
+D|-----------------------------------------|
+A|-----------------------------------------|
+e|-----------------------------------------|
+
+    G                                     Riff 1
+Garrafas de fumaça guardam o que eu sei
+    Em
+Porções de sabedoria que vão desaparecer
+     C        D
+Desaparecer...
+
+  G                             Riff 1
+Estórias de garotos e garotas
+ Em
+Tantas palavras vazias entre os dentes
+          C      D|- (prolongue esse "ré")
+Entre os dentes
+
+REFRÃO - 4 vezes
+
+         C
+Seja bem-vinda ao lar
+           D                Am  C D
+Eu tenho estórias pra te contar
+
+
+* depois que acaba o refrão você faz assim: D  D4  D  D4
+
+SOLO 2 - 4 vezes
+
+**Termina com "sol"
+
+"Fal0w's" - W_DI
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

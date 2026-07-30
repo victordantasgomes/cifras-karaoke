@@ -1,0 +1,155 @@
+@titulo: nossa-musica
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Nossa Música
+
+Introdução:
+
+   D   D/C# A*            D   D/C# D/B    G 
+e|-----------------------------------------------|
+B|-----------------------------------------------|
+G|-----------------------------------------------|
+D|-7-7-7-7--7-7-7--7-7-7--7-7-7-7--7-7-7--5-5-5--|
+A|-5-5-4-4--4-4-4--4-4-4--5-5-4-4--5-5-5--5-5-5--|
+E|----------5-5-5--5-5-5-----------7-7-7--3-3-3--|
+
+
+
+Verso:
+
+   A*            D/B           G 
+e|---------------------------------------------------------|
+B|---------------------------------------------------------|
+G|---------------------------------------------------------|
+D|-7-7-7--7-7-7--7-7-7--7-7-7--5-5-5--5-5-5--5-5-5--5-5-5--|
+A|-4-4-4--4-4-4--5-5-5--5-5-5--5-5-5--5-5-5--5-5-5--5-5-5--|
+E|-5-5-5--5-5-5--7-7-7--7-7-7--3-3-3--3-3-3--3-3-3--3-3-3--|
+
+
+
+
+Lembro que disse
+É hora de seguirmos sozinhos
+Por nossos sonhos despedaçados
+
+Às vezes a vida
+parece uma guerra eu sei
+Sem qualquer sentido
+
+
+Pré-Refrão:
+
+   E   G
+e|--------|
+B|--------|
+G|--------|
+D|-2---5--|
+A|-2---5--|
+E|-0---3--|
+
+O amor e suas cicatrizes
+A vida e suas barreiras
+Fé, desilusão
+
+
+Refrão:
+
+   D    D/B  A    G
+e|-------------------|     e|-0----0----0----3--|
+B|-------------------|     B|-3----3----0----3--|
+G|-7-----------------| ou  G|-2----2----2----0--|
+D|-7----7----7----5--|     D|-0----0----2----0--|
+A|-5----5----7----5--|     A|------2----0----2--|  
+E|------7----5----3--|     E|----------------3--|
+
+Mas se você estiver escutando nossa música essa noite
+eu ja estarei feliz
+Mas se você estiver escutando nossa música essa noite
+eu já estarei...
+
+
+Ponte:
+
+e|--------------------------------------------------|
+B|--------------------------------------------------|
+G|--------------------------------------------------|
+D|-----7---7-7-----7---7-7-----7---7-7-----7---7-7--|
+A|--------------------------------------------------|
+E|-5-5---5-----7-7---7-----3-3---3-----3-3---3------|
+
+
+Me lembro tão bem
+Quando me disse..
+Me lembro tão bem
+Quando me disse...
+Me lembro tão bem
+Quando me disse...
+
+
+Letra:
+
+Lembro que disse
+É hora de seguirmos sozinhos
+Por nossos sonhos despedaçados
+
+Às vezes a vida
+parece uma guerra eu sei
+Sem qualquer sentido
+
+(Refrão)
+O amor e suas cicatrizes
+A vida e suas barreiras
+Fé, desilusão
+Mas se você estiver escutando nossa música essa noite
+eu ja estarei feliz
+Mas se você estiver escutando nossa música essa noite
+eu já estarei...
+
+Me lembro tão bem
+Quando me disse..
+Me lembro tão bem
+Quando me disse...
+Me lembro tão bem
+Quando me disse...
+
+Lembro que disse:
+É hora de seguirmos sozinhos,
+pois o seu tempo acabou,
+se ouvir essa música essa noite.
+Às vezes a vida
+Parece uma fila eu sei
+Pra lugar nenhum
+
+O amor e suas cicatrizes
+A vida e suas barreiras
+Fé desilusão
+Mas se você estiver escutando
+Nossa música
+Essa noite
+Eu já estarei feliz
+
+Mas se vc estiver escutando
+Nossa música
+Essa noite
+Eu ja estarei..
+Eu ja estarei (eu ja estarei, eu ja estarei)
+Eu ja estarei (eu ja estarei ) feliz
+Eu ja estarei (eu ja estarei) feliz
+
+Por: Paulo Yamashiro (paulocornholio@hotmail.com)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+D/B = X 2 0 2 3 2
+D/C# = X 4 0 2 3 2
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3

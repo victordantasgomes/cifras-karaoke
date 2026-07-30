@@ -1,0 +1,10 @@
+@titulo: uma-gota-no-oceano
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:

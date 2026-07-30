@@ -1,0 +1,65 @@
+@titulo: tudo-que-tem-folego
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Tudo Que Tem Fôlego
+
+[Intro]
+
+G|----------------------------------------------------------------|
+D|----------7-7-7---------------------5-5-5-----------------------|
+
+EI--------------------6-6-6---------------------------------------|
+
+G|----------------------------------------------------------------|
+D|----------7-7-7----------------------------3-3------------------|
+A|-5-5-5--------------------5-5-5--------3-3----------------------|
+E|-------------------6-6-6----------------------------------------|
+
+ Dm                  Bb
+Tudo que tem fôlego louve ao Senhor
+ F                   Am
+Tudo que tem fôlego louve ao Senhor
+ Dm                        Bb
+Com Brados de alegria vou, e gritos de louvor
+ F                   Am
+Tudo que tem fôlego louve ao Senhor
+
+
+Dm        Bb
+ô ô ô ô ô, ô ô ô ô ô,
+F          Am
+ô ô ô ô ô, ô ô ô ô ô
+
+Dm        Bb
+ô ô ô ô ô, ô ô ô ô ô,
+ F                   Am
+Tudo que tem fôlego louve ao Senhor
+
+( Dm  Bb  F  Am )
+
+Dm                        Bb
+Eu vou louvar meu Senhor, Eu vou louvar meu Senhor
+      F                     Am
+Com alegria no meu coração, Eu vou louvar meu Senhor
+
+                Dm        Bb
+Eu vou dançar pro Senhor, Eu vou dançar pro Senhor
+         F                  Am
+Com alegria no meu coração, Eu vou dançar meu Senhor
+
+( Dm  Bb  C )
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1

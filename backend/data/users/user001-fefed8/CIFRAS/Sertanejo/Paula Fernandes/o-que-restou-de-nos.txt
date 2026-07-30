@@ -1,0 +1,86 @@
+@titulo: o-que-restou-de-nos
+@autor:
+@intérprete: Paula Fernandes
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Paula Fernandes - O Que Restou de Nós
+
+Capo Casa 3
+
+intro: G  G11  G  G11
+
+G             G11  G               G11
+Olhe só pra nós, o que restou de nós
+    Em          C7M                C
+Sinta a minha ausência ai dentro
+               G G11 G  G11
+O que te restou
+
+G             G11  G               G11
+Olhe só pra mim, o que restou em mim
+    Em          C7M              C
+Sinta a indiferença em um jeito
+               G G11 G  G11
+O que me restou
+
+Am7                  G11/B  C
+Mas Deus criou o tempo, quem vem curar as mágoas
+G                             D9/F#
+Nos ensinar que tudo enfim valeu
+Am7                  G11/B  C
+Siga o teu caminho, vai se virar sozinho
+
+G                                D9/F#
+E se lembrar pra sempre quem fui eu
+
+G                             G/B
+Quero andar por outros cantos
+C
+Viajar com quem eu amo
+Em7                         D9 D
+Lugares que você não me levou
+
+G                         G/B
+Alimentar os meus sorrisos
+C
+Me entregar a um sentimento
+Em7                          D9 D
+E desfazer o que você deixou
+
+                         Am7
+Eu disse adeus a um desamor
+                   G11/B   C
+Desculpe não vou mais mentir
+                    G
+Mas precisei te deixar
+          G11    G      D/F#
+Pra minha alma então sorrir
+
+Am7             G11/B  C
+E não se culpe se errou
+                          G
+Mas tudo aquilo que foi seu
+       G11      G      D/F#
+Agora vive em outro amor
+
+----------------- Acordes -----------------
+Capotraste na 3ª casa
+Am7*  = X 0 2 0 1 0 - (*Cm7 na forma de Am7)
+C*  = X 3 2 0 1 0 - (*D# na forma de C)
+C7M*  = X 3 2 0 0 X - (*D#7M na forma de C7M)
+D*  = X X 0 2 3 2 - (*F na forma de D)
+D/F#*  = 2 X 0 2 3 2 - (*F/A na forma de D/F#)
+D9*  = X X 0 2 3 0 - (*F9 na forma de D9)
+D9/F#*  = 2 X 0 2 3 0 - (*F9/A na forma de D9/F#)
+Em*  = 0 2 2 0 0 0 - (*Gm na forma de Em)
+Em7*  = 0 2 2 0 3 0 - (*Gm7 na forma de Em7)
+G*  = 3 2 0 0 0 3 - (*A# na forma de G)
+G/B*  = X 2 0 0 3 3 - (*A#/D na forma de G/B)
+G11*  = 3 5 5 5 3 3 - (*A#11 na forma de G11)
+G11/B*  = X 2 0 0 1 3 - (*A#11/D na forma de G11/B)

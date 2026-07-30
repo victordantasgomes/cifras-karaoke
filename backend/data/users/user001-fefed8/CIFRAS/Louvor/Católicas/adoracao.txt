@@ -1,0 +1,39 @@
+@titulo: adoracao
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Adoração
+
+Intro:  E C#m F#m B7 (2x)
+        E  A
+
+          E              A
+Quando me vejo diante de Ti Senhor
+          F#m                B7
+Quando me ponho de frente ao Teu altar
+          E                  A
+Quando te sinto assim tão pertinho de mim
+         F#m                   B7
+Me da vontade de ficar sempre aqui
+          E           C#m         F#m                        B7
+Pra Te louvar Te bendizer e proclamar que És senhor da minha vida
+          E          C#m       F#m             B7
+Pra Te adorar glorificar e exaltar o Teu santo Nome
+  E           C#m         F#m      B7
+Jesus       Jesus       Jesus
+  E           C#m         F#m      B7
+Jesus       Jesus       Jesus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

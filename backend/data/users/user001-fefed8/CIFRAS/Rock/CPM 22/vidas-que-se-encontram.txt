@@ -1,0 +1,84 @@
+@titulo: vidas-que-se-encontram
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Vidas que Se Encontram
+
+Intro: E, C#, B, A
+e||-------------------------------------------------------------||
+B||-------------------------------------------------------------||
+G||-9-9-9-9-11-9-9-9-9-11-13-13-13-13-14-16-16-16-16-14-13-11-9-||
+D||-------------------------------------------------------------||
+A||-7-7-7-7-9--7-7-7-7-9--11-11-11-11-12-14-14-14-14-12-11-9--7-||
+E||-------------------------------------------------------------||
+
+Verso 1: E, C#, B, A
+Em um lugar qualquer
+quando nada mais tinha valor
+te conheci
+naquela tarde que te encontrei
+o mundo parecia somente eu e você
+não podia ser melhor
+
+Prerefrao: B, E, A, F#, E, E(pm)
+e||----------------------------------------------------------------||
+B||-4-------4-------0-------0-------2-------2----------------------||
+G||---4---4---4---4---1---1---1---1---2---2---2---2----------------||
+D||-----4-------4-------2-------2-------2-------2---4--4-2---2-2-2-||
+A||-------------------------------------------------4--4-2---2-2-2-||
+E||-------------------------------------------------2--2-0---0-0-0-||
+
+
+vidas que se encontram
+seus olhos me dizem
+sem precisar falar
+
+Refrao: E, A, B, A
+Estar com você (Estar com você)
+nada é melhor (OUOUOUOU)
+Estar com você (eeeeeeee)
+me faz pensar em nós dois
+
+Riff intro
+
+Verso 2: E, C#, B, A
+Em um lugar qualquer
+Pelas ruas que levam ao mar
+Foi onde te vi
+Sei que nem sempre a vida é assim
+Mas enquanto você me fizer sorrir
+Eu vou estar bem aqui
+
+Prérefrão: B, E, A, F#, E, E(pm)
+
+Vidas que se encontram
+Sem alguma explicação
+Caminhos que levam pro mesmo lugar
+
+Refrao: E, A, B, A
+Estar com você (Estar com você)
+nada é melhor (OUOUOUOU)
+Estar com você (eeeeeeee)
+me faz pensar em nós dois
+
+solo:
+e||-------------------------------------|2|-----||
+B||-5---5---4---4---5---5---------------|v|--5--||
+G||---4---4---4---4---4---4-------------|e|-----||
+D||-------------------------6-6/7-6-2-4-|z|-----||
+A||-------------------------------------|e|-----||
+E||-------------------------------------|s|-----||
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2

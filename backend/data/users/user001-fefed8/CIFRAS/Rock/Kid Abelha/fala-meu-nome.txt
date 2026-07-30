@@ -1,0 +1,67 @@
+@titulo: fala-meu-nome
+@autor:
+@intérprete: Kid Abelha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kid Abelha - Fala Meu Nome
+
+( George Israel / Paula Toller )
+
+
+[Intro:] G F Em7 Eb9
+
+    G           F
+As cores têm um outro tom
+   C/E       Cm/Eb         G F C/E Cm/Eb
+Os nomes e pronomes outro som
+ G           F
+Tua presença é um dom
+C/E      Cm/Eb        G F C/E Cm/Eb
+Revelando tudo que é bom
+
+    B9          C9
+As cores têm um outro tom
+Eb9                               G
+Mais que a mais cara caixa de crayon
+   B9        C9
+O teu olhar tem um dom
+Eb9      F9               G
+Ilumina tudo o que há de bom
+
+
+   F     Em7 Eb9 G
+Fala meu nome
+   F          Em7 Eb9 G
+Inventa outro som
+   F     Em7
+Fala meu nome
+  Eb9          G
+Inventa outro som
+  F          Em7
+Acordeon bim-bom
+     Eb9           C  Cm
+John Lennon e Drummond
+
+Os nomes têm um outro som
+Aonde aonde a onda a onda on and on
+A tua voz tem um dom
+Declarando tudo que há de bom
+
+----------------- Acordes -----------------
+B9 = X 2 4 4 2 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Cm = X 3 5 5 4 3
+Cm/Eb = X X 1 0 1 3
+Eb9 = X 6 8 8 6 6
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3

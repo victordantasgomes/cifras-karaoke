@@ -1,0 +1,144 @@
+@titulo: a-fonte
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - A Fonte
+
+Introd.: Dm G Am F Em
+
+teclado:
+    Dm       G      Am    F            Em
+E|----0-1~-------------------0-1~---------------|
+B|--3----------0-1-3-1-3---3---------0-1-3-5----|
+G|-----------2---------------------2---------5~-|
+D|----------------------------------------------|
+A|----------------------------------------------|
+E|----------------------------------------------|
+
+       Dm      G     Am
+O que há de errado comigo?
+       F                Em
+Não consigo encontrar abrigo
+     Dm     G       Am
+Meu país é campo inimigo
+        F        Em          D
+E você finge que vê, mas não vê
+
+guitarra 1:antes de começar a parte (C F# Bb A G A G), tem esse riff.
+E|-5-5-5-5-5-5-5-5-5-5-5-5-3-3-3-3-3-3-3-3-3-2-2-2-2-2-2-2-|
+B|-5-5-5-5-5-5-5-5-5-5-5-5-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-|
+G|---------------------------------------------------------|
+D|---------------------------------------------------------|
+A|---------------------------------------------------------|
+E|---------------------------------------------------------|
+
+
+Guitarra 2:
+ (C F# Bb A G A G)
+E|---------------------------------------------------------------------5-3-3-|
+B|---------------------------------------------------------------------5-3-3-|
+G|-3h5br-3h5br-3h5br-3h5br-3h5br-3h5br-3h5br-3h5br-3h5br-3h5br-3h5br---------|2x
+D|---------------------------------------------------------------------------|
+A|---------------------------------------------------------------------------|
+E|---------------------------------------------------------------------------|
+
+Lave suas mãos porque é a
+Sua porta que irão bater
+Mas antes você verá seus pequenos
+Filhos trazendo novidades
+
+Dm     G   Am           F            Em
+Quantas crianças foram mortas dessa vez?
+     Dm   G      Am      F
+Não faça com os outros o que você
+    Em            Dm     G   Am  F Em
+Não quer que seja feito com você
+      Dm  G     Am   F        Em    D
+Você finge não ver e isso da câncer
+
+(C F# Bb A G A G)
+Não sei mais do que sou capaz,
+Esperança, seus lençóis têm
+Cheiro de doença e veja que da
+Fonte sou os quilômetros adiante
+
+Em       G    C         Em
+Celebro todo dia minha vida e
+ G    C        Em     G    C
+Meus amigos eu acredito em mim
+  Em     G  C
+E continuo limpo
+
+(C F# Bb A G A G)
+Você acha que sabe mas não vê
+Que a maldade é prejuízo
+O que há de errado comigo?
+Eu não sei nada e continuo limpo
+    G                F#
+Do lado do cipreste branco
+      B                    A
+À esquerda da entrada do inferno,
+         G              F#
+Está a fonte do esquecimento
+            B                  A
+Vou mais além, não bebo dessa água
+          G        F#
+Chego ao lago da memória
+         B           A
+Que tem água pura e fresca
+             G             F#
+E digo aos guardiões da entrada,
+              B          D
+Sou filho da Terra e do Céu
+
+Dm     G    Am                F        Em
+Daí-me de beber que tenho uma sede sem fim
+Dm    G       Am     F            Em
+Olhe nos meus olhos, sou o homem-tocha
+    Dm    G     Am
+Me tira essa vergonha,
+    F           Em
+Me liberta dessa culpa,
+     Dm     G   Am
+Me arranca esse ódio
+    F          Em
+Me livra desse medo
+G             F#     B            A
+Olhe nos meus olhos, sou o homem-tocha
+
+Guitarra 2 do final: na hora que começa às cantar (E esta é uma canção de amor)
+aparareçe esse riff junto com o B A.
+E|----------------------|
+B|-4-5-7-5-4------------|
+G|------------6-7-9-7-6-|
+D|----------------------|
+A|----------------------|
+E|----------------------|
+
+ G            F#      B   A
+E esta é uma canção de amor
+    G            F#      B   A
+E esta é uma canção de amor
+   G            F#      B
+E esta é uma canção de amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

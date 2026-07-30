@@ -1,0 +1,74 @@
+@titulo: projeto-perfeito
+@autor:
+@intérprete: Thalles Roberto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Thalles Roberto - Projeto Perfeito
+
+     C9               Am
+Se eu não acreditasse
+       C9                                Am
+Que eu sou um propósito de deus
+     C9              Am
+Se eu não acreditasse
+                              C9                                Am
+Que todos os meus dias já estão escritos no livro de deus
+
+                F                             Em
+Eu estaria aí agora preocupado com o futuro
+                     Dm
+Como todo o mundo está
+           F9/G
+Só que não
+                            F9/G
+Porque eu sou escolhido
+
+     C9  D9/E    Am11
+Se eu  não acreditasse
+                 C5/G
+Seria confundido com mais um perdido
+
+        F
+No mundo sem saber onde vai dar tudo isso
+
+                       C9           D9/E
+O mundo cada vez mais perdido
+                    Am11             F
+E eu to cada vez mais em deus
+                         C9
+Falem o que quiserem
+                           G5
+Pensem o que quiserem
+                    F
+Eu sou de jesus
+
+E venha o que vier
+
+              C                                     F9
+Minha vida é um projeto perfeito
+             C                                        F9
+O melhor ta preparado pra mim
+             C9            D9/E                         Am11                 F
+Pereceria sem dúvida se eu não cresse que verei
+                        C9                    G5                    F
+O bem do senhor nessa terra sobre mim
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am11 = X 0 0 2 1 0
+C = X 3 2 0 1 0
+C5/G = 3 3 5 5 X X
+C9 = X 3 5 5 3 3
+D9/E = X X 2 2 3 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F9 = 1 3 5 2 1 1
+F9/G = X X 5 5 6 3
+G5 = 3 5 5 X X X

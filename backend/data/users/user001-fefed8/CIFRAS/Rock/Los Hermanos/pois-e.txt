@@ -1,0 +1,130 @@
+@titulo: pois-e
+@autor:
+@intérprete: Los Hermanos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Los Hermanos - Pois É
+
+Intro:
+
+       Am7     D7     Em7       D
+E|-7p5-----8---------------2-----|
+B|----5------7----8------------3-|
+G|--------------------9------4---| 2x
+D|-5-------7--------9------0-----| 
+A|----------------7--------------|
+E|-------------------------------|
+
+Am7       D7 Em7 Bm7
+     Pois é,     não deu
+Am7  D7          Em7       Bm7
+     Deixe assim como está,  sereno
+Am7  D7     Em7  Bm7
+     Pois é,     de Deus
+Am7  D7       Em7        Bm7
+     Tudo aquilo que não se  pode ver
+
+C                            (só os baixos - C  B) Em (só os baixos - A  B)
+  E ao amanhã a gente não diz
+
+C                             G  G7M
+  E ao coração que teima em bater
+        G                            G7M
+E|-------------------------------2-| Para finalizar a frase
+B|-3---3---3-----3---3-----3-----3-|
+G|-0---0---0h2---0---0h2---2h4---4-| Guitarra 1 - faz os acordes
+D|-0---0---0-----0---0-----0-----0-| Guitarra 2 - faz em riff
+A|---------------------------------|
+E|-3---3---3-----3---3-----3-----3-| Também dá para executar com 1 guitarra
+
+                  Am7      D7      G  G7M
+Avisa que é de se entregar o viver
+        G                            G7M
+E|-------------------------------2-| Para finalizar a frase
+B|-3---3---3-----3---3-----3-----3-|
+G|-0---0---0h2---0---0h2---2h4---4-| Guitarra 1 - faz os acordes
+D|-0---0---0-----0---0-----0-----0-| Guitarra 2 - faz em riff
+A|---------------------------------|
+E|-3---3---3-----3---3-----3-----3-| Também dá para executar com 1 guitarra
+
+               C  C6         D7  D7(4)
+Avisa que é de se    entregar o viver
+
+       Am7     D7     Em7       D
+E|-7-5-----8---------------2-----| Executar 2 vezes
+B|----5------5----8------------3-|
+G|--------------------9------4---| Guitarra 1 - faz os acordes
+D|-5-------7--------9------0-----| Guitarra 2 - faz em riff
+A|----------------7--------------|
+E|-------------------------------|
+
+Am7       D7 Em7  Bm7
+     Pois é,      vá até
+Am7  D7       Em7       Bm7
+     Onde o destino não previu
+Am7      D7   Em7  Bm7
+     Sem mais,     vá atrás
+Am7  D7      Em7         Bm7
+     Vou até onde eu conseguir
+
+C                               (só os baixos - C  B) Em (só os baixos - A  B)
+  Deixe o amanhã e gente sorrir
+C                             G  G7M
+  Que o coração já quer descansar
+        G                      G7M
+E|-------------------------2--| Para finalizar a frase
+B|-3-3-3-----3---3----3----3--|
+G|-0-0-0h2p0-0h2-0h2--2h4--4--| Guitarra 1 - faz os acordes
+D|-0-0-0---0-0---0----0----x--| Guitarra 2 - faz em riff
+A|-x-x-x---x-x---x----x----x--|
+E|-3-3-3---3-3---3----3----3--| Também dá para executar com 1 guitarra
+
+             Am7          D7      G  G7M
+Clareia minha vida, amor, no olhar
+        G                      G7M
+E|-------------------------2--| Para finalizar a frase
+B|-3-3-3-----3---3----3----3--|
+G|-0-0-0h2p0-0h2-0h2--2h4--4--| Guitarra 1 - faz os acordes
+D|-0-0-0---0-0---0----0----x--| Guitarra 2 - faz em riff
+A|-x-x-x---x-x---x----x----x--|
+E|-3-3-3---3-3---3----3----3--| Também dá para executar com 1 guitarra
+
+              C          C6  D7  D7(4)
+Clareia minha vida, amor,    no olhar
+
+       Am7     D7     Em7       D
+E|-7p5-----8---------------2-----|
+B|----5------7----8------------3-|
+G|--------------------9------4---|  3x
+D|-5-------7--------9------0-----| 
+A|----------------7--------------|
+E|-------------------------------|
+
+       Am7     D7     Em7
+E|-7p5-----8--------|
+B|----5------7----8-|
+G|------------------|
+D|-5-------7--------|
+A|----------------7-|
+E|------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C6 = 8 X 7 9 8 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+D7(4) = X X 0 2 1 3
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G7M = 3 X 4 4 3 X

@@ -1,0 +1,154 @@
+@titulo: vem-de-ti-senhor
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Vem de Ti, Senhor
+
+INTRO: ::  F9  :  C9/E  :  Dm7  :  Am7(11)  :
+        :  Bb9  :  C#7M(9)  :  G4  :  G9  ::
+
+C9          F/C               G9/B      F/C   C    G/C    C
+Não tenho palavras pra agradecer tua bonda  - de
+          Dm7    G9              C9     C9/E
+Dia após dia me cercas com fidelidade
+          F          Dm7(11)
+Nunca me deixes esquecer
+                 C9     F9
+Que tudo o que tenho
+            C/G   F/A
+Tudo o que sou
+F9/A    C9/E
+ O que vier a ser
+                 1:   Dm7/F    G  C9
+Dm7(11)    G9  2:   Dm7/C    G  C9  C/E
+Vem       de Ti,    Senhor
+
+   F9      G/B
+Dependo de Ti
+
+   Em7      F
+Preciso de Ti
+  Dm7   Dm7/C  G9/B    Am7   Bb   Bb/C   F
+Sozinho, nada  pos  -  so  fazer.
+   F9      G/B
+Descanso em Ti
+  Em7      F
+Espero em Ti
+  Dm7    C/E   G9    Am7    Bb9   C
+Sozinho, nada  pos -  so  fazer.
+
+          F          Dm7
+Nunca me deixes esquecer
+                C     F9
+Que tudo o que tenho
+           C9/E   F/A
+Tudo o que sou
+       C9/E
+O que vier a ser
+Dm7(11)    G9   Dm7/C    G  C9
+Vem       de Ti, Senhor
+
+F/C         C    F/C
+Tudo o que tenho
+            C   F/C
+Tudo o que sou
+        C/E
+O que vier a ser
+   F9     F      G   Am7(11) G/B
+Entrego a Ti Senhor
+
+Dm7         C    F/C
+Tudo o que tenho
+           C9   F/C
+Tudo o que sou
+Bb7     Am7
+O que vier a ser
+   Dm7           G   Am7(11) G/B
+Entrego a Ti Senhor
+
+
+A/C#        D    G/D
+Tudo o que tenho
+            D   G/D
+Tudo o que sou
+        D9/F#
+O que vier a ser
+   G9            A   Bm7(11) A/C#
+Entrego a Ti Senhor
+
+Em7         D    G/D
+Tudo o que tenho
+           D9   G/D
+Tudo o que sou
+C7     Bm7
+O que vier a ser
+   Em7           A9(11)   A
+Entrego a Ti Senhor
+
+
+F#m7      G9         Em7
+Nunca me deixes esquecer
+                D    G9
+Que tudo o que tenho
+           D9/A   G/B
+Tudo o que sou
+       D9/F#
+O que vier a ser
+G9/E      A9    FIM: :: G7M : Em7 : D9 ::
+Vem   de Ti,         Senhor
+
+
+OBS.: ESTA CIFRA É A ORIGINAL, TIRADA DO SONGBOOK.
+      DEUS ABENÇOE VOCÊS!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+A9(11) = X 0 2 4 3 0
+Am7 = X 0 2 0 1 0
+Am7(11) = 5 X 5 5 3 X
+Bb = X 1 3 3 3 1
+Bb/C = X 3 X 3 3 1
+Bb7 = X 1 3 1 3 1
+Bb9 = X 1 3 3 1 1
+Bm7 = X 2 4 2 3 2
+Bm7(11) = 7 X 7 7 5 X
+C = X 3 2 0 1 0
+C#7M(9) = X 4 3 5 4 X
+C/E = 0 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+C7 = X 3 2 3 1 X
+C9 = X 3 5 5 3 3
+C9/E = X X 2 5 3 0
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+D9/A = X 0 X 2 3 0
+D9/F# = 2 X 0 2 3 0
+Dm7 = X 5 7 5 6 5
+Dm7(11) = X 5 5 5 6 5
+Dm7/C = X 3 0 2 1 1
+Dm7/F = 1 X X 2 1 1
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F#m7 = 2 X 2 2 2 X
+F/A = 5 X 3 5 6 X
+F/C = X 3 3 2 1 1
+F9 = 1 3 5 2 1 1
+F9/A = 5 X X 5 6 3
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/C = X 3 5 4 3 3
+G/D = X 5 5 4 3 X
+G4 = 3 5 5 5 3 3
+G7M = 3 X 4 4 3 X
+G9 = 3 X 0 2 0 X
+G9/B = 7 X X 7 8 5
+G9/E = 0 2 0 2 0 3

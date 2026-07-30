@@ -1,0 +1,115 @@
+@titulo: no-meu-coracao
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Rosa de Saron - No Meu Coração
+
+(afinação 1/2 tom abaixo)
+
+(intro) Dm  Bb
+        Dm  Bb
+
+E|---------1---0----------1---0---|
+B|------3--------------1----------|
+G|--2---------------3-------------|
+D|--------------------------------| (2x)
+A|--------------------------------|
+E|--------------------------------|
+
+Dm     Bb     Dm                  Bb
+   Fazer, falar e esperar vir de alguém
+Dm              Bb
+   Algo que se faz compreender
+Gm               Bb
+   Que amar é se dar pelo outro
+F                  C
+   Um sentimento ágape envolto
+Gm              Bb                        F         C
+   Como águia enxergar mais perto sobre o que é o amor
+
+
+Dm             Bb
+   Quem falou quis bem buscar
+Dm                Bb
+   Sabe quando não tem com quem falar?
+Dm     Bb
+   Alguém, alguém me fitou
+Gm            Bb               F                 C
+   Num coma dentro da cidade onde o silêncio me faz sofrer
+Gm              Bb
+   Minha vida me ensinou que há tempo
+F                     C
+   Que nem tudo, nem todos se perderam
+Gm              Bb             F         C          Gm
+   A inocência é boa pra quem sabe amar, sabe entender
+Bb         F       C
+   Que nem todos chorarão
+
+F      C  Dm    C    Bb
+   Preciso de Você aqui
+     F/A    Gm     C
+   Junto de mim, no meu coração
+F      C  Dm    C    Bb
+   Preciso de Você aqui
+     F/A    Gm    C     Bb
+   Junto de mim, no meu coração
+
+Dm             Bb
+   Quem falou quis bem buscar
+Dm                  Bb
+   Sabe quando não tem com quem falar?
+Dm     Bb
+   Alguém, alguém me fitou
+Gm              Bb           F                 C
+   Num coma dentro da cidade onde o silêncio me faz sofrer
+Gm                   Bb
+   Minha vida me ensinou que há tempo
+F                     C
+   Que nem tudo, nem todos se perderam
+Gm                Bb             F         C         Gm
+   A inocência é boa pra quem sabe amar, sabe entender
+Bb         F           C
+   Que nem todos chorarão
+
+(refrão)
+
+(solo) Dm   C  F  Gm
+       Dm   C  Bb  F   Gm
+       Dm   C  F  Gm
+       Dm   C  Bb
+
+E|---7h9p7-----------------------------------------------------------|
+B|-7------7-7h9p7--7/5-5/7-7/9-7/5--------------4-------4-4h5p4------|
+G|---------------------------------6-6------4-6-----4-6---------6-4--|
+D|--------------------------------------2/6--------------------------|
+A|-------------------------------------------------------------------|
+E|-------------------------------------------------------------------|
+
+E|-11h12p11-------14-12-11-9--11h12-11-9-9/7-7h9-4------------------------|
+B|----------12-----------------------------------------5-7/9-7/5----------|
+G|-------------11----------------------------------4/6-----------6/4-4/6--|
+D|------------------------------------------------------------------------|
+A|------------------------------------------------------------------------|
+E|------------------------------------------------------------------------|
+
+E|-------------------------------------------------7---7--14-12-11h12p12------|
+B|-5-5-5---4-4-4-----------------5---5-7-5-7-9-7-9---9-------------------12---|
+G|-----------------6-6-6---4-4-6---6------------------------------------------|
+D|----------------------------------------------------------------------------|
+A|----------------------------------------------------------------------------|
+E|----------------------------------------------------------------------------|
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+Gm = 3 5 5 3 3 3

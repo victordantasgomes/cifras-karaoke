@@ -1,0 +1,101 @@
+@titulo: santo
+@autor:
+@intérprete: Kemuel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kemuel - Santo
+
+introdução: C Am C Em C G C
+
+C9
+A minha alma confia em Ti
+C9                     G
+Meu coração se alegra em Te adorar, Senhor
+C9
+O meu prazer é sempre servir
+C9                 G
+E a Tua face sempre buscar, Senhor
+      C
+E quem sou eu pra discordar do Teu querer
+Am                            G
+E quem sou eu pra querer mais do que Tu tens pra mim
+C
+A Tua graça me basta pra viver
+Am                         D9
+Tua presença é minha riqueza e meu prazer Senhor
+
+(refrão)
+G
+Só Tú és Santo
+
+Em
+Só Tú és Santo
+C9      G
+Só Tú és Santo
+
+G
+Só Tú és Santo
+Em
+Só Tú és Santo
+C9      G
+Só Tú és Santo
+
+
+Am C9 Em A C
+
+
+G              Em      D     C9
+Grande Eu Sou, El Shadai, Eloi, Adonai   (Santo)
+G
+O que vive, O que reina, pra sempre é Senhor
+     Em                     D       C9
+Seu poder é invencível, Deus conosco, Emanuel|   (Santo)
+
+G
+Só Tú és Santo
+Em
+Só Tú és Santo
+C9        G
+Só Tú és Santo
+
+G
+Só Tú és Santo
+Em
+Só Tú és Santo
+C9      G
+Só Tú és Santo
+
+G
+Só Tú és Santo
+Em
+Só Tú és Santo
+C9        G
+Só Tú és Santo
+
+G
+Só Tú és Santo
+Em
+Só Tú és Santo
+C9       G
+Só Tú és Santo
+
+G  Em      C      G
+Santo... Santo... Santo és...
+
+Final: C
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

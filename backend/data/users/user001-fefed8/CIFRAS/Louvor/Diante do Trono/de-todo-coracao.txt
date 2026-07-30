@@ -1,0 +1,102 @@
+@titulo: de-todo-coracao
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - De Todo Coração
+
+Intro: A9  E9  F#m7  D9  A9  E9  D9
+       A9  E9  F#m7  E  D9  A9  E  E/C#  D9
+
+A9          E9         F#m7
+  Quero Te conhecer, Senhor
+            C#m7            D9            A/C#
+Vem me tocar    com Tua presença
+Bm7           D9   E9    A9
+Mais de Ti derrama sobre mim
+A9           E/G#      F#m7
+  Sei que há muito mais
+           C#m7        D9      ( F#m7     E/G#  C#m7 )
+Do Teu amor,    da Tua vida
+Bm7           G7+   E4   E     ( D9  A/C# )
+Mostra-me Teu ros - to
+
+C9               D9                 E9       D9
+  Ensina-me o caminho pra Te encontrar
+C9               D9             A/B         C#m7    ( G#m7   A9 )
+  Revela-me Tua face, vou procurar até Te achar
+
+
+E9         B9   A9
+  Você me buscará
+C#m7             B9
+  E me encontrará
+E9           B9
+  Quando me procurar
+F#m7              B9
+   De todo o coração
+C#m7      G#m7
+  Você me buscará
+A9             C#m7  B9
+  E me encontrará
+E            B9
+  Quando me procurar
+A9              C#m7    B9
+  De todo o coração
+
+Começo: F#m7  E  E/C#  D9
+
+Instrumental: F#m7  E9/G#  A9  B9
+
+Instrumental: E9  B  C#m7  A9  E  B  A9
+              E  B  C#m7  B  A9   E  B  B/G#    A9     B9   B
+
+Espontâneo: A9  B9  C#m7  B9
+
+E9         B9
+  Você me buscará
+A9             C#m7  B
+  E me encontrará
+E9           B9
+  Quando me procurar
+F#m7              B9
+   De todo o coração
+C#m7      G#m7(add4)
+  Você me buscará
+A9             C#m7  B
+  E me encontrará
+E             B
+  Quando me procurar
+A9              C#m7    B9
+  De todo o coração
+
+( F#m7  E9/G#  A  C#m7  B9  E )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/G# = 4 X 4 4 4 X
+B9 = X 2 4 4 2 2
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+C9 = X 3 5 5 3 3
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/C# = X 4 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+E9 = 0 2 4 1 0 0
+E9/G# = 4 X 4 4 5 X
+F#m7 = 2 X 2 2 2 X
+G#m7 = 4 X 4 4 4 X
+G#m7(add4) = 4 X 4 4 2 X
+G7+ = 3 X 4 4 3 X

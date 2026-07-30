@@ -1,0 +1,77 @@
+@titulo: e-bom-desconfiar
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - É Bom Desconfiar
+
+De: Nando Reis
+
+Ton: E
+Intro:  ( E A E A )
+
+Solo:este é o solo que é tocado no começo da música.
+e|---------------------|---------------------
+b|---------------------|---------------------
+g|---------------------|---------------------
+d|--2-0------------0-2-|--2-0----------------
+a|-----2-4-0-0-4-2-----|-----2-4-0-0-2-0-----
+e|---------------------|----------------2-0--
+
+(E D A)
+Atualmente é comum
+Não olhar para o lado
+Balançar a cabeça:
+"Hoje eu tô sem trocado"
+Arrancar a cabeça
+Por um simples trocado
+Todo mundo é suspeito
+
+De puxar pro seu lado
+
+   :     D           G
+R  :  É bom desconfiar
+e  :      D         G
+f  :  De ser desconfiado
+r  :       D           C      G
+ã  :  Não vou desconfiar de você
+o  :       F               E   (E D A E D A)
+   :  Até que prove o contrário
+
+(E D A)
+Nunca tive essa grana
+Posso ser assaltado
+Escondo minha carteira
+E eu faturo trocados
+Dessa vida urbana
+Eu fui posto de lado
+Mas que cara estranho
+Parou do eu lado
+
+Refrão...
+
+E A E A C Bb F E D A E D A E C Bb F
+
+(E D A)
+Construí essa casa
+Assentando tijolos
+Mas uma bala perdida
+Pode estourar meus miolos
+É bom desconfiar
+
+Refrão...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

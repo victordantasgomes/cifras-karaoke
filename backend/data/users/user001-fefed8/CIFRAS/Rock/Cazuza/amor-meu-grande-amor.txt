@@ -1,0 +1,76 @@
+@titulo: amor-meu-grande-amor
+@autor:
+@intérprete: Cazuza
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cazuza - Amor Meu Grande Amor
+
+[Intro] G  D/G  F/G  C
+
+G             D/G       F/G                     C
+  Amor, meu grande amor, não chegue na hora marcada
+G            D/F#       C            Bb          A
+  Assim como as canções, como as paixões e as palavras
+G                  D/G  F/G        C
+  Me veja nos seus olhos na minha cara lavada
+G                 D/G        C  Bb         A    G  D/G  F/G  C
+  Me venha sem saber se sou fogo ou se sou água
+G             D/G       F/G                   C
+  Amor, meu grande amor, me chegue assim bem de repente
+G                   D/F#         C Bb          A
+  Sem nome ou sobrenome, sem sentir o que não sente
+
+C9                   D9           C/E          D/F#
+  Que tudo o que ofereço é meu calor, meu endereço
+C9               D9            C/E         D/F#
+  A vida do teu filho desde o fim até o começo
+
+G             D/G       F/G                     C
+  Amor, meu grande amor, só dure o tempo que mereça
+
+G                 D7/F#   C        Bb        A
+  E quando me quiser que seja de qualquer maneira
+G                D/G        F/G                  C
+  Enquanto me tiver que eu seja a última e a primeira
+G                       D/G       C         Bb        A
+  E quando eu te encontrar, meu grande amor, me reconheça
+
+C9                   D9           C/E          D/F#
+  Que tudo o que ofereço é meu calor, meu endereço
+C9               D9            C/E         D/F#
+  A vida do teu filho desde o fim até o começo
+
+[Solo]
+
+G                D/G           F/G                  C
+  Amor meu grande amor que eu seja a última e a primeira
+G                       D/G       C         Bb        A
+  E quando eu te encontrar, meu grande amor, me reconheça
+
+C9                   D9           C/E          D/F#
+  Que tudo o que ofereço é meu calor, meu endereço
+C9               D9            C/E         D/F#
+  A vida do teu filho desde o fim até o começo
+C9                   D9           C/E          D/F#
+  Que tudo o que ofereço é meu calor, meu endereço
+C9               D9            C/E         D/F#
+  A vida do teu filho desde o fim até o começo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D/F# = 2 X 0 2 3 2
+D/G = 3 X X 2 3 2
+D7/F# = X X 4 5 3 5
+D9 = X X 0 2 3 0
+F/G = 3 X 3 2 1 X
+G = 3 2 0 0 0 3

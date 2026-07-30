@@ -1,0 +1,98 @@
+@titulo: dou-a-vida-por-um-beijo
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Dou a Vida Por Um Beijo
+
+(intro)
+
+(violão 1 - faz a base 2x)
+
+(violão 2 - 2x)
+
+   G             Am7          C            G
+E|-----------------------------------------------------|
+B|-----------------------------------------------------|
+G|-----------------------------------------------------|
+D|---0-0-0-0h2-0--2-2-2-2h4-2--2-2-2-2/5-2--0-0-0-0h2--|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+(violão 1 e violão 2 - 1x)
+                                 Am7 (violão 1)
+E|---10-8-7---------------------------------------------|
+B|----------10-8-10-8-7---7-----------------------------|
+G|----------------------9---9-7-5-----------------------|
+D|------------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+
+(riff)
+E|-------------| (durante a música enquanto o violão 1 faz a base, o violão 2
+B|-------------| fica variando o dedilhado)
+G|-------------|
+D|------0h2----|
+A|--0h2-----0--|
+E|-------------|
+
+Am7                  G (riff)
+Difícil demais, te amar assim
+Am7                    G
+Minha timidez tem que ter um fim
+Am7                    G (riff)
+Preciso perder o medo de falar
+Am7                       G
+Pra não te perder vou me declarar
+
+G                             Am7
+Morro de saudade quando você some
+                               C
+Dá uma vontade de gritar seu nome
+                             G
+Quase uma loucura, uma obsessão
+
+G                                Am7
+Pra me sentir feliz só tem uma saída
+                                    C
+Fazer você ficar de vez na minha vida
+                                D
+Perto dos meus olhos e do coração....
+
+G     D  Em     C         G
+Eu te amo, eu preciso te dizer
+      D         Am7          C
+Todo dia, toda noite o meu sonho é você
+G     D  Em      C               G
+Eu te amo, é paixão que não tem fim
+  D                 Am7         C    D      G
+Dou a vida por um beijo quero ter você pra mim...
+
+(intro) violão 1 e violão 2 (1x)
+
+(repetir do início ao fim)
+
+                                    Am7
+E|---10-8-7-------------------------------------------------|
+B|----------10-8-10-8-7-------------------------------------|
+G|----------------------9-7---------------------------------|
+D|----------------------------10-9-7------------------------|
+A|----------------------------------------------------------|
+E|----------------------------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

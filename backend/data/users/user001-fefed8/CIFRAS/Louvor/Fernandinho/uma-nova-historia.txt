@@ -1,0 +1,166 @@
+@titulo: uma-nova-historia
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Uma Nova História
+
+[Intro] F#m7(11)  E5  F#m7(11)  E5
+
+[Primeira Parte]
+
+F#m7(11)            E5               B4
+        Sai de tua tenda, Oh! Filho meu
+          D5(6/9)            F#m7(11)
+Te mostrarei as estrelas do céu
+            E5               B4
+Sai de tua tenda, Oh! Filho meu
+          D5(6/9)        F#m7(11)
+Te mostrarei a areia do mar
+
+[Segunda Parte]
+
+          E/F#     B4/F#  D6(9)/F#
+Será que podes contar?
+F#m7(11)          E/F#       B4/F#
+        Será que podes imaginar?
+                    D6(9)/F#           F#m7(11)
+Tudo aquilo que sonhei para ti, Filho meu
+
+
+[Pré-Refrão]
+
+F#m7(11)                     E                    D5(6/9)
+        O que minhas mãos fizeram para ti, filho meu
+                B4         D5(9)
+Minha benção será sobre ti
+
+[Refrão]
+
+             A5(9)      D5(9)   E
+Uma nova história Deus tem pra mim
+         A5(9)      D5(9)   E
+Um novo tempo Deus tem pra mim
+                     A5(9)
+E tudo aquilo que perdido foi
+     D5(9)      E                 A  A4
+Ouvirei de sua boca  e te abençoarei
+
+             A5(9)      D5(9)   E
+Uma nova história Deus tem pra mim
+         A5(9)      D5(9)   E
+Um novo tempo Deus tem pra mim
+                     A5(9)
+E tudo aquilo que perdido foi
+     D5(9)      E
+Ouvirei de sua boca  e te abençoarei
+
+ F#m7(11)  E5  F#m7(11)  E5
+
+[Primeira Parte]
+
+F#m7(11)            E5               B4
+        Sai de tua tenda, Oh! Filho meu
+          D5(6/9)            F#m7(11)
+Te mostrarei as estrelas do céu
+            E5               B4
+Sai de tua tenda, Oh! Filho meu
+          D5(6/9)        F#m7(11)
+Te mostrarei a areia do mar
+
+[Segunda Parte]
+
+          E/F#     B4/F#  D6(9)/F#
+Será que podes contar?
+F#m7(11)          E/F#       B4/F#
+        Será que podes imaginar?
+                    D6(9)/F#           F#m7(11)
+Tudo aquilo que sonhei para ti, Filho meu
+
+[Pré-Refrão]
+
+F#m7(11)                     E                    D5(6/9)
+        O que minhas mãos fizeram para ti, filho meu
+                B4         D5(9)
+Minha benção será sobre ti
+
+[Refrão]
+
+             A5(9)      D5(9)   E
+Uma nova história Deus tem pra mim
+         A5(9)      D5(9)   E
+Um novo tempo Deus tem pra mim
+                     A5(9)
+E tudo aquilo que perdido foi
+     D5(9)      E                 A  A4
+Ouvirei de sua boca  e te abençoarei
+
+             A5(9)      D5(9)   E
+Uma nova história Deus tem pra mim
+         A5(9)      D5(9)   E
+Um novo tempo Deus tem pra mim
+                     A5(9)
+E tudo aquilo que perdido foi
+     D5(9)      E                 A  A4
+Ouvirei de sua boca  e te abençoarei
+
+             A5(9)      D5(9)   E
+Uma nova história Deus tem pra mim
+         A5(9)      D5(9)   E
+Um novo tempo Deus tem pra mim
+                     A5(9)
+E tudo aquilo que perdido foi
+     D5(9)      E                 A  A4
+Ouvirei de sua boca  e te abençoarei
+
+             A5(9)      D5(9)   E
+Uma nova história Deus tem pra mim
+         A5(9)      D5(9)   E
+Um novo tempo Deus tem pra mim
+                     A5(9)
+E tudo aquilo que perdido foi
+     D5(9)      E
+Ouvirei de sua boca  e te abençoarei
+
+( D5(9)  E5 ) (3x)
+( D9/F#  E/G# )
+
+             A5(9)      D5(9)   E
+Uma nova história Deus tem pra mim
+         A5(9)      D5(9)   E
+Um novo tempo Deus tem pra mim
+                     A5(9)
+E tudo aquilo que perdido foi
+     D5(9)      E                 A  A4
+Ouvirei de sua boca  e te abençoarei
+
+             A5(9)      D5(9)   E
+Uma nova história Deus tem pra mim
+         A5(9)      D5(9)   E
+Um novo tempo Deus tem pra mim
+                     A5(9)
+E tudo aquilo que perdido foi
+     D5(9)      E
+Ouvirei de sua boca  e te abençoarei
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A5(9) = X 0 2 2 0 0
+B4 = X 2 4 4 5 2
+B4/F# = 2 2 4 4 5 2
+D5(6/9) = X X 0 2 0 0
+D5(9) = X 5 7 9 X X
+D6(9)/F# = 2 X 0 2 0 0
+D9/F# = 2 X 0 2 3 0
+E = 0 2 2 1 0 0
+E/F# = X X 4 4 5 4
+E/G# = 4 X 2 4 5 X
+E5 = 0 2 2 X X X
+F#m7(11) = 2 X 2 2 0 X

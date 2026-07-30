@@ -1,0 +1,58 @@
+@titulo: tudo-que-eu-preciso
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Tudo Que Eu Preciso
+
+Intro: Bm - A9 - Bm - G - A9 - D
+
+G          A9          Bm
+Dá-me a visão da tua glória,
+G          A9            D
+Dá-me a visão de quem tu és, ó, Deus
+G            A9               Bm    G
+Abre os meus olhos pra que eu possa ver
+    C         G/B             A4  A9
+Que é de ti somente que eu preciso
+
+G             A9           Bm
+Tira o meu prazer por este mundo
+G              A9              D
+Mostra-me o prazer de estar contigo, ó, Pai
+   G          A9              Bm G
+Preciso tanto ver com os teus o--olhos
+C           G/B             A4    A9
+Vem me envolver com os teus braços
+
+D          A9         (Bm D  G)
+Faz-me morrer pra mim me--esmo
+
+ D           G6         A4 A9
+Ajuda-me a viver para Ti
+D           A9
+Faz-me entender
+       Bm               D/A
+Que és tudo o que eu preciso
+G      D/F#  G     A9
+Eu sou teu e tu és meu,
+G      D/F#  G     A9      Intro
+Eu sou teu e tu és meu, Senhor
+
+----------------- Acordes -----------------
+A4 = X 0 2 2 3 0
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G6 = 3 X 2 4 3 X

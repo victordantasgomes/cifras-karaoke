@@ -1,0 +1,29 @@
+@titulo: hosana
+@autor:
+@intérprete: Adhemar de Campos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Adhemar de Campos - Hosana
+
+D9         G       Bm7      G/B   A4  A7
+Hosana, Hosana, Hosana, ao nosso Rei 
+D9         G       Bm7      G/B   A4  A7
+Hosana, Hosana, Hosana, ao nosso Rei 
+D9         G       Bm7      G/B   A4
+Hosana, Hosana, Hosana, ao nosso Rei 
+ 
+Fim: G  F/A  Em  A7  D9
+
+----------------- Acordes -----------------
+A4 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+Bm7 = X 2 4 2 3 2
+D9 = X X 0 2 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

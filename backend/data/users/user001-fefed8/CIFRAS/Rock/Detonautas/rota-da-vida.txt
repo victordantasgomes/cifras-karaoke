@@ -1,0 +1,82 @@
+@titulo: rota-da-vida
+@autor:
+@intérprete: Detonautas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Detonautas - Rota da Vida
+
+[Intro]
+C# A B
+
+E|-----------------------------------|
+B|--------5-------------------------|
+G|------6---6-------------6--------|
+D|----6-------6---------7---7-----|
+A|--4-----------4-----7-------7---|
+E|------------------5------------5--|
+
+E|----------------------------------|
+B|----------------------------------|
+G|--------8-------8----------------|
+D|------9-------9---9-------------|
+A|----9-------9--------------------|
+E|--7-------7----------------------|
+
+
+         C#
+Eu to perdido aqui
+               A
+To sem dinheiro nenhum
+
+                         B
+Num rola um som, não tem mulher
+                       C#                                A
+O cheiro do deserto me deixa desperso
+         B
+Não sei se eu vou voltar
+            C#
+É q eu tava cansado
+              A                                      B
+Então fugi de casa com o meu carro, não vou a pé
+                          C#                                      A
+Perdi o meu emprego e quase fui preso
+         B                                         C#
+Pra que que eu vou voltar?
+             A                 B              C#
+Vou pegar uma carona
+    A              B
+Lá pro paraíso
+                  C#
+Onde tem rock'n roll
+             A
+Muita mulher
+              B
+E altas ondas
+C#        A                B
+É tudo o que eu preciso
+C#         A
+Na rota da vida
+B                                        C#
+Me mostre uma saída
+        A                      B
+Pra gente se encontrar
+C#         A
+Na rota da vida
+B                                         C#
+Me mostre uma saída
+        A                           B
+Que eu quero te encontrar
+
+
+(4x) C# A B
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4

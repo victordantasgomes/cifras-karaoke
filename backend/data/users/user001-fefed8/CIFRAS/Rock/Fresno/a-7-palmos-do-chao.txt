@@ -1,0 +1,85 @@
+@titulo: a-7-palmos-do-chao
+@autor:
+@intérprete: Fresno
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fresno - A 7 Palmos do Chão
+
+(solo tocado junto com a base - sem distorção na 1ª vez)
+(base - com distorção)
+(solo)
+
+(intro) D A Bb° Bm F#m G A D A
+
+E|-3-3-3-3-3-3-5-5/6-6-6-6-8-10-10/11-11-11-11-11-10-8-8-11-11-11-10-8-11--11-13-11-10-13-13~-13-13~13-13~|
+B|--------------------------------------------------------------09-9-9-09--------------------------|
+G|-------------------------------------------------------------------------------------------------|
+
+ D          A     Bb° Bm            F#m
+eu bem que tentei ficar  aqui, bem na minha
+    G       A     D A
+mas eu não consegui
+   D          A    Bb° Bm          F#m
+tu achas que tu estás muito bem sozinha
+   G       A     D    A
+fazendo esse joguinho
+
+G          A           D   D/C#   Bm    Bm/A  G
+saiba que eu só quero  a distância de ti
+
+           A       D
+pois me faria tão bem
+G        A          F#m     Bm    Bm/A
+mas eu não consigo  assim ser feliz
+G         A      Bm  F#m  G
+me ferraria também
+         A      D
+me ferraria também
+
+( D A Bb° Bm F#m G A D A )
+
+   D       A       Bm          F#m
+estive pensando em ir pra bem longe
+   G         A     D  A
+islândia, uzbequistão
+
+     D    A    Bm         F#m
+mas quero é sair do teu horizonte
+   G    A          D
+a sete palmos do chão
+    D           D/C#        Bm  G
+me diz o que fazer para voltar
+    D          D/C#    Bm  G
+me diz se dá pra remediar
+    Bm       F#m      G  A
+me diz se há uma solução
+    Bm        F#m          G
+me diz se eu devo me enterrar
+   A               D  A Bm F#m
+a sete palmos do chão
+   G    A          D
+a sete palmos do chão
+
+      Bb°  D/C#  Bm/A
+E|------x-----x-----1-----
+B|------5-----x-----2-----
+G|------6-----7-----x-----
+D|------5-----7-----3-----
+A|------x-----4-----x-----
+E|------6-----x-----5-----
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb° = X 1 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+D = X X 0 2 3 2
+D/C# = X 4 0 2 3 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

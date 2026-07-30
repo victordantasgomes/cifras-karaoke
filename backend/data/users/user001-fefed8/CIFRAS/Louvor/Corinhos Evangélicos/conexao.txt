@@ -1,0 +1,42 @@
+@titulo: conexao
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Conexão
+
+Intro: E  B  C#m  G#m  A  E  B  C#m   G#m  F#  C#m  B
+
+E                       C#m             B               A
+Eu quero reconhecer, Tudo aquilo que tu tens feito pra mim
+A               G#m     F#              B
+A cada dia a cada hora, percebendo o teu cuidado
+E                       C#m             B               A
+Vivendo em conexão, aprendendo em qualquer situação
+A               G#m     F#              B               C#m   B   A  G#m
+Ministrando o seu amor, entendendo a Tua vontade,
+F#                              C#m   B   A  G#m
+Pois o preço foi pago na cruz
+F#
+E agora eu posso
+
+E               B       C#m                     A
+Viver em comunhão, seguir seus passos ó Senhor
+E               B       C#m                     A
+Vou dar as mãos com fé, porque o teu amor me concedeu
+F#      B            E
+Amar o meu irmão
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

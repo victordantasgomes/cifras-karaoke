@@ -1,0 +1,106 @@
+@titulo: somos-quem-podemos-ser(simplificada)
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Somos Quem Podemos Ser
+
+(intro 2x) G7M  C7M
+
+   G7M
+E|-------2-----------2----------------------|
+B|-----0---0-------0---0--------------------|
+G|---0-------0---0-------0------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|-3-----------3----------------------------|
+
+
+   C7M
+E|-------0-----------0----------------------|
+B|-----0---0-------0---0--------------------|
+G|---0-------0---0-------0------------------|
+D|------------------------------------------|
+A|-3-----------3----------------------------|
+E|------------------------------------------|
+
+
+(parte 1)
+
+    G7M                              C7M
+Um dia me disseram que as nuvens não eram de algodão
+    G7M                                   C7M
+Um dia me disseram que os ventos às vezes erram a direção
+   G7M                           C7M
+E tudo ficou tão claro, um intervalo na escuridão
+        G7M                        C7M
+Uma estrela de brilho raro, um disparo para um coração
+
+(parte 2)
+   Bm7                           C7M
+A vida imita o vídeo, garotos inventam um novo inglês
+   Bm7                         C7M
+Vivendo num país sedento um momento de embriaguês
+
+(refrão)
+ Am7                Bm7
+Somos quem podemos ser
+ Am7                Bm7  C7M
+Sonhos que podemos ter
+
+(intro 2x) G7M  C7M
+
+(parte 1a)
+    G7M                          C7M
+Um dia me disseram quem eram os donos da situação
+        G7M                            C7M
+Sem querer eles me deram as chaves que abrem esta prisão
+   G7M                             C7M
+E tudo ficou tão claro, o que era raro ficou comum
+         G7M                          C7M
+Como um dia depois do outro, como um dia, um dia comum
+
+(parte 2)
+   Bm7                           C7M
+A vida imita o vídeo, garotos inventam um novo inglês
+   Bm7                       C7M
+Vivendo num país sedento um momento de embriaguês
+
+(refrão)
+ Am7                Bm7
+Somos quem podemos ser
+ Am7                Bm7   C7M
+Sonhos que podemos ter
+
+(intro 2x) G7M  C7M
+
+(parte 3)
+    G7M                              C7M
+Um dia me disseram que as nuvens não eram de algodão
+        G7M                            C7M
+Sem querer eles me deram as chaves que abrem esta prisão
+
+  Bm7                           C7M
+Quem ocupa o trono tem culpa, quem oculta o crime, também
+  Bm7                            C7M                       Bm7
+Quem duvida da vida tem culpa, quem evita a dúvida também tem
+   C7M      Bm7          C7M
+uh uh       uh        uh uh
+
+(refrão)
+ Am7                Bm7
+Somos quem podemos ser
+ Am7                Bm7   C7M   G7M
+Sonhos que podemos ter
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 0 2 0 X
+C7M = X 3 X 0 0 0
+G7M = 3 X 0 0 0 2

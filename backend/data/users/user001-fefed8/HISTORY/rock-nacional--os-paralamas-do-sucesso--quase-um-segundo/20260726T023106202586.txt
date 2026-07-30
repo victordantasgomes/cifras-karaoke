@@ -1,0 +1,91 @@
+@titulo: Quase um segundo
+@autor:
+@intérprete: Os Paralamas do Sucesso
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+@bpm:
+@bateria:
+@guitarra:
+@baixo:
+@teclado:
+@modoexecucao: rolagem
+@tempoexecucao:
+
+Tom: C#m
+[Intro] A  E  D
+        E  D  E  D
+        E  A  G#
+
+C#m       B                 F#
+Eu queria ver no escu___ro do mundo
+        A
+Onde está tudo o que você quer
+  C#m       B                F#
+Pra me transformar no que te agrada
+           G#
+No que me faça ver
+
+  C#m          F#       A         G#
+Quais são as cores, e as coisas pra te prender?
+E                E             A
+Eu tive um sonho ruim e acordei chorando
+             G#
+Por isso eu te liguei
+ A        G#   C#m  B
+Será que você ainda pensa  em mim?
+ A      G#     A#m
+Será que você ainda pensa?
+ Bm       E9     C#m
+Laa la la la    laa
+
+C#m          B                   F#
+Às vezes te odeio por qua___se um segundo
+          A
+Depois te amo mais
+ C#m            B               F#
+Teus pelos, teu gosto, teu rosto tudo
+            G#
+Que não me deixa em paz
+
+  C#m          F#       A         G#
+Quais são as cores, e as coisas pra te prender?
+E                E             A
+Eu tive um sonho ruim e acordei chorando
+             G#
+Por isso eu te liguei
+ A        G#   C#m  B   B4  B
+Será que você ainda pensa  em mim?
+ A      G#     A#m7
+Será que você ainda pensa?
+ Bm       E     C#m
+Laa la la la    laa
+
+[Solo] E  D
+       E  A  G#
+
+C#m          B        B4   B     F#
+Às vezes te odeio por qua___se um segundo
+          A
+Depois te amo mais
+ C#m               B       B4   B   F#
+Teus pelos, teu gosto, teu rosto tudo
+            G#
+Que não me deixa em paz
+
+  C#m          F#       A         G#
+Quais são as cores, e as coisas pra te prender?
+E                E             A
+Eu tive um sonho ruim e acordei chorando
+             G#
+Por isso eu te liguei
+ A        G#   C#m  B   B4  B
+Será que você ainda pensa  em mim?
+ A      G#     A#m
+Será que você ainda pensa?
+ Bm       E     C#m
+Laa la la la    laa

@@ -1,0 +1,46 @@
+@titulo: pai-nosso
+@autor:
+@intérprete: Midian Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Midian Lima - Pai Nosso
+
+[Intro] C  F  C  F
+
+    C    F                C   F
+Pai nosso,   que estás no céu
+      C    F             C  F
+Santificado,   Deus Emanuel
+            C      F                      C   F
+Venha o teu reino,    sua vontade prevalecerá
+       C     F           C
+Glorificado,   Leão de Judá
+
+      F
+Quando dobro os meus joelhos
+      C
+Posso até tocar o céu
+      F
+Minha humilde oração
+      C
+Move o coração de Deus
+   Dm                      C/E
+Ele ouve a oração do justo
+
+   F                 Dm7
+Ele ouve a oração do justo
+     C
+Deus Fiel
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1

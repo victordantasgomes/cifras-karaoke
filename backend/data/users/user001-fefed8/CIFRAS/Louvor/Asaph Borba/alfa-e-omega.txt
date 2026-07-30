@@ -1,0 +1,88 @@
+@titulo: alfa-e-omega
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Alfa E Ômega
+
+Intro: A9  Dm/A  A9  Dm9/A  A9  Dm9/A  A9  F7M  G9
+
+A          Bm7   E7/4/9      D9    A
+Tu que estas assentado        no   tro---no  
+ A    B9        Ebm7(b5)     E7/4/9    A
+Sempre reinan--do  soberaaaaaaaaa.......no 
+A#°    Bm7   E7/4/9         D9   A
+Anjos cantando,        homens louvando 
+      B9          Ebm7(b5)       E
+Deus   reuni--do com o seu poooooooo...... vo 
+           
+   D/F#  E/G#           D/A    A  G#m7/11     C#7   F#m     Em7 A7
+   Oh,   oh           Al - fa,  Omega,        Cristo, Filho 
+
+         D7M      D#°       A/E F#m         Bm7  E7   A   Dm9/A A Dm9/A
+   Oh, oh,   vem,      oh, oh vem,     oh, oh vem Senhor Jesus 
+            
+A     Bm7  E7/4/9           D   A
+Ansioso espero        a   sua volta 
+
+     B9        Ebm7(b5)    E7/4/9  A
+O grande dia   em que tuuuuuuuuu  viras 
+  
+ A#°   Bm7   E7/4/9          D9    A
+Entao subiremos,      contigo estaremos 
+
+      B9     Ebm7(b5)      E
+Pra todo sempre,  aleluuuuuuuuuuuu ia 
+
+ D/F#    E/G#      D/A  A   C#m7/11  C#7       F#m   Em7  A7
+ MA......RA.......NA...TA,  CRISTO          Filho, Mestre 
+
+       D7M  D#°        A/E
+  Oh, oh, vem,     oh, oh vem   
+
+F#m       Bm7     E7   A9
+   Oh, oh, vem, Senhor Jesus 
+
+ D/F#    E/G#       D/A  A   C#m7/11  C#7       F#m   Em7  A7
+  MA......RA.......NA...TA,  CRISTO          Filho, Mestre 
+
+        D7M   D#°        A/E
+   Oh, oh, vem,     oh, oh vem   
+
+F#m       Bm7    E7    A9
+   Oh, oh, vem, Senhor Jesus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#° = X 1 2 0 2 0
+A/E = 0 X 2 2 2 0
+A7 = X 0 2 0 2 0
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+Bm7 = X 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+C#m7/11 = X 4 4 4 5 4
+D = X X 0 2 3 2
+D#° = X X 1 2 1 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D7M = X X 0 2 2 2
+D9 = X X 0 2 3 0
+Dm/A = X 0 X 2 3 1
+Dm9/A = 5 5 7 9 6 5
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+E7/4/9 = X X 2 2 3 2
+Ebm7(b5) = X X 1 2 2 2
+Em7 = 0 2 2 0 3 0
+F#m = 2 4 4 2 2 2
+F7M = 1 X 2 2 1 X
+G#m7/11 = 4 X 4 4 2 X
+G9 = 3 X 0 2 0 X

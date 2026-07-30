@@ -1,0 +1,64 @@
+@titulo: cheiro-de-relva
+@autor:
+@intérprete: Paula Fernandes
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Paula Fernandes - Cheiro de Relva
+
+(intro)  C G F  C G F C G F  C G F Cm
+
+         G                      Cm                    G
+Como é bonito estender-se no verão as cortinas do sertão
+                  Cm  C4 Cm
+na varanda das manhãs
+          Fm                  Cm                       D7
+Deixar entrar pedaços de madrugada e sobre a colcha azulada
+      G              C
+Dorme calma a lua irmã
+          C              G/B          Am             Am7          F
+Cheiro de relva traz do campo a brisa mansa que nos faz sentir criança
+      C               G
+a embalar milhões de ninhos
+          Dm           Dm7M        G
+A relva esconde flores lindas orvalhadas quase
+                         D#º           C
+Sempre abandonadas nas encostas dos caminhos
+       C         G           Am           Am7           F
+A juriti madrugadeira da floresta com seu canto abre a festa
+    C         F           Dm          G        C
+Revoando toda selva o rio manso caudaloso se agita
+
+                   G                    C
+Parecendo achar bonita a terra cheia de relva
+
+( C G F  C G F C G F  C G F Cm )
+
+          G                     Cm                   G
+O sol vermelho se esquenta a aparece o vergel todo agradece
+                      Cm  C4  Cm       Fm                         Cm
+Pelos ninhos que abrigou     botões de ouro se desprendem de seus galhos
+                   D7           G
+São as gotas de orvalho de uma noite
+       C
+Que passou
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C4 = X 3 3 0 1 X
+Cm = X 3 5 5 4 3
+D#º = X X 1 2 1 2
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+Dm7M = X X 0 2 2 1
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

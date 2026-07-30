@@ -1,0 +1,54 @@
+@titulo: nuvem-de-gloria
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Nuvem de Glória
+
+B9     F#/B     E/B     B9
+Há uma nuvem de glória aqui
+B9     F#/B     E/B     B9
+Há uma nuvem de glória aqui
+
+          C#m7     G#m7   F#/A# G#m7
+Quando a igreja se une em adora-ção
+        E       F#        B9
+Sinto o peso da glória de Deus
+
+G#m         F#/A# B9
+Ela vem dos altos céus
+   E           B9
+Bailando sobre nós
+G#m        F#/A#   B9
+Sinta o tremor  do chão
+   E          B9
+Ao som da Sua voz
+
+C#m7    F#/A#    G#m
+Raças e povos se alegrarão
+
+      A9                 B9
+Com o som da trombeta de Deus
+  C#m7     F#/A#     G#m
+E eu  dançarei  pelo vento
+    G#m/F#    A9       F#       B9
+Com o     movimento da nuvem de Deus
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#/B = X 2 4 3 2 2
+G#m = 4 6 6 4 4 4
+G#m/F# = X X 4 4 4 4
+G#m7 = 4 X 4 4 4 X

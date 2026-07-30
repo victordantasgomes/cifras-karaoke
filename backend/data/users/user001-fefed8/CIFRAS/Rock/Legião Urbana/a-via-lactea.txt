@@ -1,0 +1,107 @@
+@titulo: a-via-lactea
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - A Via Láctea
+
+
+(intro) ( B B (A C#m A) B )
+
+        B            C#m
+Quando tudo está perdido
+        A           B
+Sempre existe um caminho
+        B            C#m
+Quando tudo está perdido
+         A         B
+Sempre existe uma luz
+
+F#m  B           E
+  Mas não me diga isso
+A                  E
+Hoje a tristeza não é passageira
+F#m7                      B7
+   Hoje fiquei com febre a tarde inteira
+F#m7           G#m
+   E quando chegar a noite
+A                  B          F#m    E
+  Cada estrela aparecerá uma lágrima
+
+        A               E
+Queria ser como os outros
+               F#m        B
+E rir das desgraças da vida
+       F#m7             G#m
+Ou fingir estar sempre bem
+        A          B             F#m7
+Ver a leveza das coisas com humor
+                 E
+Mas não me diga isso
+      F#m7             E
+É só hoje e isso passa
+      A             E       F#m7    B
+Só me deixe aqui quieto, isso passa
+F#m7               B     A E
+    Amanhã é um outro dia, não é
+       B             A        E
+Eu nem sei porque me sinto assim
+         B               A              E
+Vem de repente um anjo triste perto de mim
+        A             E/G#
+E essa febre que não passa
+  F#m7              B            A        (A G#m) F#m7
+E meu sorriso sem graça, não me dê atenção
+        B            A     E
+Mas obrigado por pensar em mim
+
+        B            C#m
+Quando tudo está perdido
+          A        B
+Sempre existe uma luz
+        B            C#m
+Quando tudo está perdido
+         A          B
+Sempre existe um caminho
+
+        B           C#m
+Quando tudo está perdido
+       A           B
+Eu me sinto tão sozinho
+        B            C#m
+Quando tudo está perdido
+                A        B     A/F#
+Não quero mais ser quem eu sou
+
+            (A/F# G#m) F#m7
+Mas não me diga isso
+              B
+Não me dê atenção
+                      E
+E obrigado por pensar em mim
+        A       (A G#m)
+Não me diga isso
+        F#m7
+Não me dê atenção
+       B               E
+E obrigado por pensar em mim
+
+( A F#m7 B E ) (3x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/F# = 2 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G#m = 4 6 6 4 4 4

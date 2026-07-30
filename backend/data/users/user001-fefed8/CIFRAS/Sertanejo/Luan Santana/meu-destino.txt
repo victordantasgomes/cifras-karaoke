@@ -1,0 +1,74 @@
+@titulo: meu-destino
+@autor:
+@intérprete: Luan Santana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Luan Santana - Meu Destino
+
+Intro 3x: A E D
+
+A                    E
+Parece que o mundo parou de girar
+     F#m                       C#m
+Quando você me olhou e me fez sonhar
+ D            E
+Me apaixonei
+
+2ª Parte:
+ A                E              F#m
+E nesse momento parece que o mar e as estrelas do céu
+         C#m          D
+Puderam me ver, te amar
+   C#m           Bm
+Me entreguei e sentir
+      E                 A
+A magia do amor sobre mim
+
+Refrão:
+                 E
+E agora não tem quem arranque
+
+  F#m             D           A
+Você de dentro do meu coração
+              E             F#m            D        A
+Você é minha fantasia meu sonho lindo, minha ilusão
+           E           F#m            D
+Eu esperei a hora que eu pudesse te dizer
+         Bm          E           A
+O meu destino é pra sempre amar você!
+Solo:
+E|---------------------------------------------------------|
+B|--------------------------------6-5-3-1-5-10-8-5-8/10-9^^|
+G|-2/5-7/9-7-5-7-5-4-5---------2---------------------------|
+D|---------------------5-5/7-------------------------------|
+A|---------------------------------------------------------|
+E|---------------------------------------------------------|
+
+Refrão:
+                 E
+E agora não tem quem arranque
+  F#m             D           A
+Você de dentro do meu coração
+              E             F#m            D        A
+Você é minha fantasia meu sonho lindo, minha ilusão
+           E           F#m            D
+Eu esperei a hora que eu pudesse te dizer
+         Bm          E           A
+O meu destino é pra sempre amar você!
+
+         Bm          E           A         D A
+O meu destino é pra sempre amar você!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

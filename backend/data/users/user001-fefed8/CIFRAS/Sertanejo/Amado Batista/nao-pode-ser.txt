@@ -1,0 +1,57 @@
+@titulo: nao-pode-ser
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Não Pode Ser
+
+(intro) G F Bb G F Bb G D7
+
+D7         G
+Eu tenho medo de ficar sozinho
+           C
+Tenho vontade de sair correndo
+            G              D7
+Eu tenho tudo que você disser
+                  C                   C
+Mas pode ter certeza sou um homem de fé.
+
+G
+Me dê a mão e venha sorrindo
+              C
+Não vem chorando pois não quero pranto
+             G                   D7
+Vem ver o mundo que estamos vivendo
+                 C                     G
+Pois é nas calçadas que estão os espantos.
+
+G         F                Bb
+Não pode ser eu estar sozinho
+             G
+Neste mundo cão
+           F               Bb
+Não pode ser eu estar sozinho
+               G  D7
+Te pedindo a mão
+
+G
+Se eu pudesse eu faria tudo
+          C
+Faria a lua unir os namorados
+         G
+Faria tudo que você disser
+                 C                  G
+E pode ter certeza isso é o que dá pé.
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D7 = X X 0 2 1 2
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

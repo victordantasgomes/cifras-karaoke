@@ -1,0 +1,89 @@
+@titulo: parece-castigo
+@autor:
+@intérprete: Gilberto e Gilmar
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gilberto e Gilmar - Parece Castigo
+
+Introdução A,F#m,D,Bm,E
+
+solo do começo
+Riff 1
+E|---9--9--9--7-9--10-12-10-9-
+B|---10-10-10-9-10-12-14-12-10
+G|----------------------------
+D|----------------------------
+A|----------------------------
+E|----------------------------
+
+Riff 2
+E|---4-4-4-2-5-7-8-9----------
+B|---5-5-5-4-7-8-9-10---------
+G|----------------------------
+D|----------------------------
+A|----------------------------
+E|----------------------------
+
+Riff 3
+E|---14-12-14-12-15-12-12
+B|---16-13-16-14-17-14-13
+G|----------------------------
+D|----------------------------
+A|----------------------------
+E|----------------------------
+
+
+Riff 4
+E|---4-4-4-2-5-7-8-9----------
+B|---5-5-5-4-7-8-9-10---------
+G|----------------------------
+D|----------------------------
+A|----------------------------
+E|----------------------------
+
+(repete todos o riff)
+
+A
+Eu não consigo te esquecer
+F#m
+Meu pensamento só fica em você
+D                 Bm
+A cada dia chego a delirar
+E
+Se for um sonho me deixe acordar
+
+A
+Parece até ser um castigo
+F#m
+A solidão vai acabar comigo
+D                        Bm
+Não posso mais viver sem essa paixão
+E
+De outra chance pro meu coração
+
+Refrão:
+A
+Aonde estou que não perco a cabeça
+F#m
+Volta pra mim antes que eu enlouqueça
+D                       Bm
+Aonde estou que vejo o mundo girar
+E
+Será que um dia isso vai se acabar
+
+A,F#m,D,Bm,E (repete todos o riff)
+
+repete a musica
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

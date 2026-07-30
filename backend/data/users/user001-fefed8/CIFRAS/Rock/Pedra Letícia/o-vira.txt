@@ -1,0 +1,49 @@
+@titulo: o-vira
+@autor:
+@intérprete: Pedra Letícia
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Pedra Letícia - O Vira
+
+C              F
+O gato preto cruzou a estrada
+   C                    G
+Passou por debaixo da escada
+          C7                       F
+E lá no fundo azul na noite da floresta
+           G
+A lua iluminou
+                      C
+A dança, a roda e a festa
+Vira, vira, vira
+                   G
+Vira, vira, vira homem, vira, vira
+                C
+Vira, vira lobisomem, vira, vira
+C                  F
+Bailam corujas e pirilampos
+   C                  G
+Entre os sacis e as fadas
+          C7                       F
+E lá no fundo azul na noite da floresta
+
+           G
+A lua iluminou
+                      C
+A dança, a roda e a festa
+                   G
+Vira, vira, vira homem, vira, vira
+                C
+Vira, vira lobisomem, vira, vira
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

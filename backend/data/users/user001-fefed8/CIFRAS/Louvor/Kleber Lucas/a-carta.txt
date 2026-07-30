@@ -1,0 +1,54 @@
+@titulo: a-carta
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - A Carta
+
+Intro: C#m  C#m7  F#  A
+
+ C#m           C#m7
+Eu quero ser a voz de Deus
+ F#             A         C#m
+Ao coração que clama aba Pai
+               C#m7      F#
+Eu quero ser a Tua mão amiga
+ F#m                          B
+Eu quero ser a Tua carta de amor
+ G#m                    A
+Levar a esperança para alguém
+
+ C#m           C#m7
+Eu quero ir, preciso ir
+  F#             A
+Estou ouvindo a voz do aflito
+ C#m           C#m7
+Está ferido na estrada
+ F#             A
+Bem perto de Jerusalém
+
+ F#m                 B
+E no caminho pra adoração
+ G#m              A
+Preciso estar atento
+
+        E     B           C#m    A
+A quem Deus amou, a quem deu perdão
+
+Solo: C#m  C#m7  F#  A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

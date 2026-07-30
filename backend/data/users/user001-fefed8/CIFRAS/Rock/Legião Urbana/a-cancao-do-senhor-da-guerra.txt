@@ -1,0 +1,179 @@
+@titulo: a-cancao-do-senhor-da-guerra
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - A Canção do Senhor da Guerra
+
+Intr.: D G Em A
+
+Introdução e Riff da música.
+   D              G              Em              A
+E|----------------------------------------------------------------------|
+B|----------------------------------------------------------------------|
+G|-5s7-7-5s7-7-7-7-------------------7s9-9-7s9-9-9-9--------------------|
+D|-5s7-7-5s7-7-7-7--3s5-5-3s5-5-5-5--7s9-9-7s9-9-9-9--5s7-7-7-5s7-7-7-7-|
+A|------------------3s5-5-3s5-5-5-5-------------------5s7-7-7-5s7-7-7-7-|
+E|----------------------------------------------------------------------|
+
+D                 G            Em  A
+Existe alguém esperando por você
+            D              G
+Que vai comprar a sua juventude
+        Em           A
+E convencê-lo a vencer
+
+G
+Mais uma guerra sem razão
+          D/F#
+(E já são tantas as crianças com armas na mão)
+
+           F7+
+Mas lhe explicam novamente que a guerra gera emprego
+    C
+E Aumenta a produção
+    G
+Uma guerra sempre avança a tecnologia
+      D/F#
+Mesmo sendo guerra santa, quente, morna ou fria
+     F7+
+P'rá que exportar comida
+                     C                A
+Se as armas dão mais lucro na exportação?
+
+D                         G            Em  A
+Existe alguém que está contando com você
+       D                       G
+P'rá lutar em seu lugar já que nessa guerra
+      Em               A
+Não é ele quem vai morrer
+         D
+E quando longe de casa
+  G                    Em            A
+Ferido e com frio o inimigo você espera
+        D                      G
+Ele estará com outros velhos
+                  Em           A
+Inventando novos jogos de guerra
+
+G                       D/F#
+E belíssimas cenas de destruição
+       F7+                        C
+(Não teremos mais problemas com a super população)
+G                        D/F#
+Veja que uniforme lindo fizemos pra você
+  F7+                               C                   A
+E lembre-se sempre que Deus está do lado de quem vai vencer
+
+Antes do solo.
+E|-----------|----------------------|
+B|-----------|----------------------|
+G|-----------|----------------------|
+D|-----------|----------------------|
+A|-----------|-7-5-5-3~--3-7-5-5-3~-|
+E|-3s12s3-3~-|----------------------|
+
+Eu não sei se vc vai entender mas eu vou explicar.
+nessa parte é a parte que tem que raspar apalheta na corda.
+para que a raspada fique identica, vc deve segurar as cordas
+A & E na terceira casa. O (rp) significa raspar a palheta.
+(Obs:Raspe em direção a mão que vc faz os acordes.)
+
+E|---------|
+B|---------|
+G|---------|
+D|---------|
+A|-3----rp-|
+E|-3----rp-|
+
+Solo:
+E|-5---------------------------------------------------9-10-12-14--10----10---------------------|
+B|---7----------7-8-10-10-10-----12-10-12-10-12--10-12----------------12------10----10--10-12---|
+G|-----7-7--7-9---------------11-------------------------------------------------11-----------9-|
+D|----------------------------------------------------------------------------------------------|
+A|----------------------------------------------------------------------------------------------|
+E|----------------------------------------------------------------------------------------------|
+
+E|-5---------------------------------------------------9-10-12-14--10----10---------------------|
+B|---7----------7-8-10-10-10-----12-10-12-10-12--10-12----------------12------10----10----------|
+G|-----7-7--7-9---------------11-------------------------------------------------11-----9-11----|
+D|-------------------------------------------------------------------------------------------12-|
+A|----------------------------------------------------------------------------------------------|
+E|----------------------------------------------------------------------------------------------|
+
+E|-10-14--10----10--------------------------10-14--10----9--9-10-12-10-|
+B|-----------12-----10----10--------------------------10---------------|
+G|---------------------11-----9-11-------------------------------------|
+D|---------------------------------12----------------------------------|
+A|---------------------------------------------------------------------|
+E|---------------------------------------------------------------------|
+
+ Pra quem não vai fazer o solo, faça a base:(D D7+ Bm F#m G F#m Em A) D/F# G Em A
+
+D                         G            Em  A
+Existe alguém que está contando com você
+       D                       G
+P'rá lutar em seu lugar já que nessa guerra
+      Em               A
+Não é ele quem vai morrer
+         D
+E quando longe de casa
+  G                    Em            A
+Ferido e com frio o inimigo você espera
+        D                      G
+Ele estará com outros velhos
+                  Em           A
+Inventando novos jogos de guerra
+
+G*                       D/F#
+E belíssimas cenas de destruição
+       F7+                        C
+(Não teremos mais problemas com a super população)
+G*                        D/F#
+Veja que uniforme lindo fizemos pra você
+  F7+                               C                   A
+E lembre-se sempre que Deus está do lado de quem vai vencer
+
+D                      Bm           A
+O Senhor da Guerra não gosta de crianças
+G            D/F#      Em           A        (D Em A)
+O Senhor da Guerra não gosta de crianças...
+
+Final
+E|----------------|
+B|-7-5--------5---|
+G|-----7-6--7---7-|
+D|----------------|
+A|----------------|
+E|----------------|
+
+Acordes:
+D    ->(557775)
+G    ->(355433)
+G*   ->(320033)
+E    ->(779997)
+A    ->(577655)
+D/F# ->(200232)
+F7+  ->(x03210)
+C    ->(x32010)
+Bm   ->(224432)
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7+ = X X 0 2 2 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3

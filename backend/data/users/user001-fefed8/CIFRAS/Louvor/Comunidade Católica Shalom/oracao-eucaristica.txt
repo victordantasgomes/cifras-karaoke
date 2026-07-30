@@ -1,0 +1,58 @@
+@titulo: oracao-eucaristica
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - Oração Eucarística
+
+[Intro]  C#m   E   C#m  A
+
+C#m                  B/D#  Esus4 E  A  B  E/G#    A   E/G#   A
+Como é grande ó Pai a vossa misericórdia
+C#m              B/D#     Esus4  E  A  B   E/G#  A  E/G#  A
+Esperamos ó Cristo a Vossa vinda gloriosa
+
+A            E/G#  A           C#m   A           E/G#       F#m  B
+Adoramus Te, Adoramus Te, Adoramus Te Domine
+A            E/G#  A          C#m  B A          E/G#        F#  B
+Adoramus Te, Adoramus Te, Adoramus Te Domine
+
+G#m                 A
+Eis o mistério da fé
+
+ A                    B                         E
+Anunciamos Senhor a vossa morte
+A                         B                  C#m
+E proclamamos a vossa ressurreição
+F#m       B           E/G#  A  E/G#  A
+Vinde Senhor, Jesus
+
+
+G#m                                 A         B/D#                        Esus4   E
+Por Cristo com Cristo em Cristo a vós Deus Pai todo poderoso
+G#m                           E/G#       A                      F#m                             Bsus4   B
+Na unidade do Espírito Santo, toda honra e toda glória agora e para sempre
+
+ A     E/G#   A     C#m    A     E/G#    A        B
+A.....amém, a.....amém, a....amém, a.....amém
+A     E/G#     A    C#m B A  E/G#            F#   B
+A.....amém, a.....amém, a....amém, a.....amém
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+Bsus4 = X 2 4 4 5 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Esus4 = 0 2 2 2 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

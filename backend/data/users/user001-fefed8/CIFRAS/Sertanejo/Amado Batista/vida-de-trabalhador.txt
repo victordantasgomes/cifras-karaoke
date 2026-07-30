@@ -1,0 +1,46 @@
+@titulo: vida-de-trabalhador
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Vida de Trabalhador
+
+(intro) E A E F#m B7 E
+
+E                     A
+Você já conhece a dureza
+                            E
+Que é a vida de um trabalhador
+                              B7
+A gente se esforça pra sobreviver
+                         E
+E perde o lugar pra um robô
+                       A
+Na segunda feira briguei com o patrão
+                         E
+Na quinta meu carro quebrou
+                             B7
+O transito para mas o tempo não
+                       E
+Lá se vai o tempo do amor.
+
+               A                        E
+Mas hoje amarra, teu corpo no meu, amarra
+                 F#m   B7              E
+E vamos cair na farra até o dia amanhecer
+              A                        E
+Vem , me abraça esquece esse corre-corre
+                   F#m   B7             E
+E vamos tomar um porre de amor e de prazer...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

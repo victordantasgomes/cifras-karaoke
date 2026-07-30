@@ -1,0 +1,79 @@
+@titulo: sabemos-fingir
+@autor:
+@intérprete: Detonautas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Detonautas - Sabemos Fingir
+
+Intro: C#m  B  A
+       C#m  E
+
+C#5                    B5        A5
+Vocês não querem a verdade de verdade
+  C#5          B5                    A5
+E inventaram todas essas coisas por nós
+    C#5           B5                A5
+Pra depois nos vender seus sonhos certos
+          C#5                  B5         A5
+E pra que fique bem claro qual é o meu lugar
+
+Refrão:
+C#5
+Sabemos fingir
+B5          A5       C#5  E
+sabemos que sabemos fingir
+C#5            B5  A5        C#5
+Sabemos fingir , sabemos fingir
+C#5                       B5          A5
+Se você é quem tem a tal formula do amor
+
+C#5                      B5               A5
+E que conhece bem os princípios sábios de Deus
+C#5             B5         A5
+Venda pra mim a sua sabedoria
+C#5                            B5          A5 (pausa)
+Por que eu faço dinheiro pra pagar por existir
+
+Refrão:
+C#5
+Sabemos fingir
+B5          A5       C#5  E
+sabemos que sabemos fingir
+C#5            B5  A5        C#5  E
+Sabemos fingir , sabemos fingir
+
+F#5                           B5
+E essa máscara toda que se esconde em coragem
+F#5                            B5
+O covarde que não sabe o que ganhou
+F#5                          B5
+O soldado que não sabe quem matou
+ F#5                            A6
+Mas que cumpriu as ordens muito bem
+      B5
+Muito bem
+
+Refrão:
+C#5
+Sabemos fingir
+B5          A5       C#5  E
+sabemos que sabemos fingir
+C#5            B5  A5        C#5  E
+Sabemos fingir , sabemos fingir
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+A6 = 5 X 4 6 5 X
+B = X 2 4 4 4 2
+B5 = X 2 4 4 X X
+C#5 = X 4 6 6 X X
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#5 = 2 4 4 X X X

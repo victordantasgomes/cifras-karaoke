@@ -1,0 +1,123 @@
+@titulo: te-amar
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Te Amar
+
+(intro) F#m7 E/G# Dm7 Dm7/13
+        F#m7 E/G# Dm7 Dm7/13
+
+F#m7                             D9                          E9
+Que o meu coracao seja quebrantado e humilde pra atrair o Teu coracao
+F#m7              F#m7/E                  G7+                   D9
+Que o meu coracao se mova com a mesma compaixao que move o Teu coracao
+
+A/C#         Bm7                    F#m7                 E/F# F#m7
+Que o Teu infinito amor , seja marca em tudo o que eu fizer e aonde eu for
+Bm7                  F#m7                       E/F#           F#m7
+Quero atrair aos Teus bracos  , todos os feridos ,rejeitados , maltratados pelo mundo
+Bm7                    F#m7                E/F#                F#m7
+Quero conduzir ao caminho da Cruz , aqueles que estao cegos e perdidos , iludidos nesta vida
+Bm7                Bm/A                     C#sus4    C#9
+Quero ver com os Teu olhos , sentir com o Teu coracao
+
+                     F#m7
+Eu preciso te amar , te amar
+      E/G#                 A9                D/A  A9
+e ser movido pelo Teu amor
+
+                       F#m7
+Eu preciso te amar , te amar
+      E/G#                  A9              C#sus4 C#
+e ser movido pelo Teu amor
+
+( F#m7  E/G#  E  G7+ C# D E F )
+
+F#m7                              D9                          E9
+Que o meu coracao seja quebrantado e humilde pra atrair o Teu coracao
+F#m7             F#m7/E               G7+                        D9
+Que o meu coracao se mova com a mesma compaixao que move o Teu coracao
+
+A/C#         Bm7                    F#m7                  E/F# F#m7
+Que o Teu infinito amor , seja marca em tudo o que eu fizer e aonde eu for
+Bm7                   F#m7                      E/F#           F#m7
+Quero atrair aos Teus bracos  , todos os feridos ,rejeitados , maltratados pelo mundo
+Bm7                F#m7                   E/F#                 F#m7
+Quero conduzir ao caminho da Cruz , aqueles que estao cegos e perdidos , iludidos nesta vida
+Bm7                Bm/A      G9                   C#sus4    C#9
+Quero ver com os Teu olhos , sentir com o Teu coracao
+
+                      F#m7
+Eu preciso te amar , te amar
+      E/G#                 A9                D/A  A9
+e ser movido pelo Teu amor
+                       F#m7
+Eu preciso te amar , te amar
+     E/G#                   A9      (1x) ( D/A  A9 )           (2x)  ( C#sus4 C# )
+e ser movido pelo Teu amor
+
+                            G7+                                           E9
+Se ainda que eu fale a lingua dos homens e dos anjos
+D/F#                                    E/G#          A/C#
+sem amor seria sem nenhum valor
+                      G7+                                           E9
+Se ainda eu tivesse dons e a aprovacao dos homens
+D/F#                               A9
+sem amor eu nada seria
+                 D9              Bm7      ( C#sus4 Dsus4  D ) (stop)
+pois tudo passa e permanecera o Teu amor
+
+                 F Gm7
+Eu preciso te amar ,  te amar
+    F/A                 Bb9            Dsus4 D        F Gm7
+e ser movido pelo Teu amor
+                      Gm7
+Eu preciso te amar , te amar
+   F/A                  Bb9            Dsus4 D       F Gm7
+e ser movido pelo Teu amor
+
+            Gm7
+Eu preciso te amar , te amar
+     F/A                 Bb9            Dsus4 D
+e ser movido pelo Teu amor
+                      Gm7
+Eu preciso te amar , te amar
+    F/A                  Bb9            Dsus4 D
+e ser movido pelo Teu amor           (repete várias vezes)
+      F/A                 Bb9           Dsus4 D       F   Gm7
+e ser movido pelo Teu amor
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+Bb9 = X 1 3 3 1 1
+Bm/A = X 0 4 4 3 X
+Bm7 = X 2 4 2 3 2
+C# = X 4 6 6 6 4
+C#9 = X 4 6 6 4 4
+C#sus4 = X 4 4 1 2 X
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+Dm7 = X 5 7 5 6 5
+Dm7/13 = X 5 3 5 0 X
+Dsus4 = X X 0 2 3 3
+E = 0 2 2 1 0 0
+E/F# = X X 4 4 5 4
+E/G# = 4 X 2 4 5 X
+E9 = 0 2 4 1 0 0
+F = 1 3 3 2 1 1
+F#m7 = 2 X 2 2 2 X
+F#m7/E = X X 2 2 5 2
+F/A = 5 X 3 5 6 X
+G7+ = 3 X 4 4 3 X
+G9 = 3 X 0 2 0 X
+Gm7 = 3 X 3 3 3 X

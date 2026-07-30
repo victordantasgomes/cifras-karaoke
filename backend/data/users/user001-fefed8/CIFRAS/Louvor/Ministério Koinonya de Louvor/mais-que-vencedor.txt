@@ -1,0 +1,66 @@
+@titulo: mais-que-vencedor
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - Mais Que Vencedor
+
+[Intro] C  G/B  Am7  F
+        G  Am7  F  Dm  G
+
+C            G/B        Am7
+Eu creio que tudo é possível
+        F          G         Am7
+E que nada é impossível para ti
+F                    Dm
+Basta uma palavra tua
+F            Dm    G
+E os montes se removerão
+
+[Refrão]
+
+               F            G    C Am
+Pois Contigo saltarei muralhas
+         Dm              G   Em   Am
+E também destruirei exércitos
+         F    G            Am
+E serei mais que vencedor
+
+( C  G/B  Am7  F )
+( G  Am7  F  Dm  G )
+
+C            G/B        Am7
+Eu creio que tudo é possível
+        F          G         Am7
+E que nada é impossível para ti
+F                    Dm
+Basta uma palavra tua
+F            Dm    G
+E os montes se removerão
+
+[Refrão]
+
+               F            G    C Am
+Pois Contigo saltarei muralhas
+         Dm              G   Em   Am
+E também destruirei exércitos
+         F    G            Am
+E serei mais que vencedor
+         F    G             C
+E serei mais que vencedor
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

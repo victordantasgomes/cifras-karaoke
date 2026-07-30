@@ -1,0 +1,71 @@
+@titulo: em-qualquer-lugar-do-mundo
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Em Qualquer Lugar do Mundo
+
+
+Intr: solo + F#m A,solo,F#m  A, solo,F#m E D/F# E/G#
+
+ A                            F#m
+Toda minha vida eu esperei alguém
+                            A
+Com esse sorriso esse teu olhar
+                                   F#m
+Nunca me entreguei eu nunca quis ninguém
+                D/E                 A
+Parece que eu sabia que iria te encontrar, uuummm!!!!
+
+    A                         F#m
+E assim minha alma esperava a tua (***)
+                               A
+Como alguem espera uma noticia boa
+                            F#m
+Como uma noite que espera a lua
+          D/E                A
+Nunca iluminou entanto uma pessoa
+             E             D                       A
+Não não não não,Como uma chave abrindo os meus segrados
+
+            F#m                      Bm
+Como um livro lindo me arrancando os medos
+          E                   A
+Como uma lição que eu queria saber
+             E             D                      A
+Não não não não,Com uma certeza que por Deus eu tinha
+             F#m              Bm
+Você foi chegando se fazendo minha
+               E                 A   G/B A/C#
+Min envadindo Ha vida me fazendo ver
+
+(Refrão)
+     A      D     E                   A
+Que existe amor,basta desejar querer mais
+       A     G/B A/C#
+Que profundo
+      A     D                 E
+Que esse amor vai encontrar você
+                      A
+Em qualquer lugar do mundo
+
+INTR: D A/C# Bm A/C# D A/C# E A
+(REPETE DO ***)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+G/B = X 2 0 0 3 3

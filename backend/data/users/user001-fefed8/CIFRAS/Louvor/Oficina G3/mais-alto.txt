@@ -1,0 +1,67 @@
+@titulo: mais-alto
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - Mais Alto
+
+versão Elektracustika
+
+Intr.:(E5 / C#5) C#5
+
+     C#5   /   E5
+Não ache que estou derrotado
+C#5 / E5    C#5 B5 F#5 E5
+Você está errado
+       C#5   /   E5      C#5   /   E5
+Não pense que eu não vou conseguir
+    C#5 B5 F#5 E5
+Está enganado, uôôôôôôô...
+  A5   A5/C#          F#5
+No medo há vontade de fugir
+       G#5       A5   (F# E C# B C#) no baixo
+Mas não vou desistir
+C#5      E5       F#5  G#5
+Espero em Deus e com Ele
+Refrão
+     C#5   A5              F#5
+Vou andar, vou correr, vou voar
+
+    G#5      C#5   A5             F#5
+Mais alto, voar, vou correr, vou andar
+E5          Intr.
+Ao seu lado
+
+       C#5   /   E5      C#5   /   E5
+Se você espera minha queda
+    C#5 B5 F#5 E5
+Não perca teu tempo
+       C#5   /   E5      C#5   /   E5        C#5 B5 F#5 E5
+Não são os problemas que vão conseguir calar minha voz
+
+  A5   A5/C#          F#5
+Com Deus eu vou mais além
+       G#5       A5   (F# E C# B C#) no baixo
+Pois a muito a fazer
+C#5      E5       F#5  G#5
+Confio em Deus e com Ele
+
+Repete Refrão
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+B = X 2 4 4 4 2
+B5 = X 2 4 4 X X
+C# = X 4 6 6 6 4
+C#5 = X 4 6 6 X X
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+F# = 2 4 4 3 2 2
+F#5 = 2 4 4 X X X
+G#5 = 4 6 6 X X X

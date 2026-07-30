@@ -1,0 +1,82 @@
+@titulo: chuva-de-saudade
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Chuva de Saudade
+
+ Intro  G7+ A/G F#m7 B7  G7+ A  D  G/A
+
+         D
+MAIS UM DIA SEM VOCE
+       F#m
+SEM SABER O QUE FAZER
+        Em         C
+PRA OCUPAR ESSE VAZIO
+             A4     A  A4  A
+QUE VOCE DEIXOU EM MIM
+
+        D
+PRA TENTAR TE ESQUECER
+       F#m
+PELAS RUAS PROCUREI
+       Em          C
+NUM OLHAR  NUMA CARICIA
+             A4     A  A4  A
+TER UM POUCO DE PRAZER
+
+Bm
+SO MINHA ESPERANCA
+
+                F#m
+FAZ VIVER MEU CORACAO
+      Em                C
+QUE CHORA QUANDO A LEMBRANCA
+                  A4  A  A4  A
+SE TRANSFORMA EM SOLIDAO
+
+Bm
+ESSA TEMPESTADE
+                F#m
+TEM QUE UM DIA TERMINAR
+Em          C
+CHOVE TODO DIA
+           A4       A   A4  A
+A TRISTEZA NO MEU OLHAR
+
+            G7+ A7         Bm
+CHUVA DE SAUDADE  SOLTA PELO AR
+             G              A7
+CHEGA COM O TEMPO  MOLHA O PEITO
+          D  C/D  D7
+ATE MACHUCAR
+            G7+ A7          Bm
+CHUVA DE SAUDADE  NESTA SOLIDAO
+           G                 A7
+RAIOS DE AMOR  TROVAO QUE EXPLODE
+           D
+O MEU CORACAO
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/G = 3 X 2 2 2 X
+A4 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G7+ = 3 X 4 4 3 X

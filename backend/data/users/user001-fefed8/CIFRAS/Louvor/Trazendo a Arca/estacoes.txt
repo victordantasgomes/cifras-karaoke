@@ -1,0 +1,57 @@
+@titulo: estacoes
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Estações
+
+            G   A     D
+A flor resseca e cai ao chão
+              G  A       Bm7
+A mesma que um dia floresceu
+      G       A9   D
+Veio o outono e ela secou
+A9  D/F#   A9  D/F#
+Sua beleza acabou
+
+         G        A9    D
+O inverno chegou as cores vão
+             G    A9      Bm7
+O frio das manhãs e a sequidão
+        G    A9       D9
+A vida é como as estações
+A9      D/F#  A9     Em
+Há dias bons, há dias maus
+      A4  A
+Mas eu sei
+
+    G            A9        D9    D/F#
+Que depois da sequidão há um renovo
+    G             A9        D9      D/F#
+E a semente que não morre, não renasce
+    Bm7  Bm7/A         G     D/F#     Em         A4 A
+E em tudo              que passei Deus quis me ensinar
+       G           A9          D9   D/F#
+Que por mais escura que seja uma noite
+    G            A9              D9  D/F#
+Ela não resiste a luz de cada amanhecer
+    Bm7 Bm7/A             G     D/F#    Em     A9            G
+E o choro              da noite vai passar, quando a manhã chegar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A9 = X 0 2 2 0 0
+Bm7 = X 2 4 2 3 2
+Bm7/A = 5 2 4 2 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

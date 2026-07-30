@@ -1,0 +1,97 @@
+@titulo: santa-chuva
+@autor:
+@intérprete: Los Hermanos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Los Hermanos - Santa Chuva
+
+Intro: Dm6 A
+
+C#m    Dm6   Bm7    E7
+  vai chover    de novo
+C#m    Dm6 Bm7       E7  C#m   Dm6
+deu na tv     que o povo já se cansou
+Bm7   E7      C#m   Dm6
+  de tanto o céu desabar
+Bm7  E7        C#m   Dm6
+  e pede a um santo daqui
+Bm7    E7     C#m   Dm6
+  que reza a ajuda de Deus
+Bm7    E7   C#m  Dm6
+  mas nada pode fazer
+Bm7      E7   C#m    Dm6
+  se a chuva quer é trazer
+Bm7    E7     A7+  A7+/G#  F#m  F#7
+    você pra mim
+     Bm
+vem cá
+          Bm/A         Bm/G       F#7
+que tá me dando uma vontade de chorar
+
+           Em7
+não faz assim
+            Bm
+não vá pra lá
+         C7+           F#m7(b5)   B5+/7 Em  A7/4 A7
+meu coração vai se entregar à tempes--tade
+
+(Dm6 A)
+
+C#m Dm6   Bm7    E7         C#m     Dm6        Bm7
+quem é você pra me chamar aqui, se nada aconteceu?
+    E7  C#m   Dm6  Bm7    E7        C#m   Dm6         Bm7
+me diz,   foi só amor ou medo de ficar sozinho outra vez?
+E7            C#m       Dm6
+  cadê aquela outra mulher?
+              Bm7      E7
+  você me parecia tão bem...
+                  C#m    Dm6
+  a chuva já passou por aqui
+                     Bm7   E7
+  eu mesma que cuidei de secar
+                       C#m    Dm6
+  quem foi que te ensinou a rezar?
+                    Bm7      E7
+  que santo vai brigar por você?
+                       C#m    Dm6
+  que povo aprova o que você fez?
+                    Bm7  E7
+  devolve aquela minha tv
+                  A7+  A7+/G#  F#m  F#7
+  que eu vou de vez
+     Bm           Bm/A        Bm/G       F#7
+não há por que chorar por um amor que já morreu!
+           Em7
+deixa pra lá...
+eu vou
+  Bm7
+adeus
+         C7+         F#m7(b5)   B5+/7 Em  A7/4 A7
+meu coração já se cansou de  falsi--dade
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+A7+ = X 0 2 1 2 0
+A7+/G# = 4 X 6 6 5 X
+A7/4 = X 0 2 0 3 0
+B5+/7 = X 2 X 2 4 3
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+Bm/G = 3 X 4 4 3 X
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+C7+ = X 3 2 0 0 X
+Dm6 = X 5 X 4 6 5
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7(b5) = 2 X 2 2 1 X

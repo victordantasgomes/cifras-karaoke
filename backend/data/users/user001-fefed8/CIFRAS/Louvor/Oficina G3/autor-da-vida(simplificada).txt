@@ -1,0 +1,40 @@
+@titulo: autor-da-vida(simplificada)
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - Autor da Vida
+
+Intro: G  D  F  C
+
+G        D                           F      C                 G
+Viver buscando, aventuras perigosas, se esquecer até mesmo de você.
+           D                   F              C
+Saiba que vida, é muito mais valorosa, e não a ponha a perder.
+G        D                           F      C                 G
+Viver buscando, aventuras perigosas, se esquecer até mesmo de você.
+Em                          F            C
+Pense, mas nunca pare de buscar, quem te quer mostrar a verdade
+G             D                      F                 C
+O nome dele é Cristo, o dono de tudo isso que temos vivido.
+              Em                     F         C
+O nome dele é Cristo, o dono de tudo isso. Ele é o Autor da Vida.
+G        D                   F
+A vida terá um sentido bem melhor,
+        C        G               D                 F
+Se você nEle acreditar, não perca tempo, esse é o momento
+       C               G
+De sua vida transformar
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

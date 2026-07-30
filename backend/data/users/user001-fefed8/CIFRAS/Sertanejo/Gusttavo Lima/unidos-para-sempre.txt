@@ -1,0 +1,118 @@
+@titulo: unidos-para-sempre
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Unidos Para Sempre
+
+(intro) E   C#m   A   E   B   A
+
+E|-----2----------------------------------------------------------------------------------|
+B|--4------5-4-5-4-5-5/7-5--------------------------------------7-9-10-9-10-9-10-10/12-10-|
+G|-4--------------------------4-4-4-6-8-9-8-9-8-9-9/11-11/13------------------------------|
+D|----------------------------------------------------------------------------------------|
+A|----------------------------------------------------------------------------------------|
+E|----------------------------------------------------------------------------------------|
+
+E|--------------------------------------|
+B|-10-10-9-7-5-5/9-10-7----2/4/2/0------|
+G|--------------------------------------|
+D|--------------------------------------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+E                                     C#m
+Te conheci menina,ingênua e carinhosa
+                                A
+beleza que fascina muito maravilhosa e eu jurei te ter
+        E          B        E
+não abro mão mais de você, o nosso lance é lindo
+
+                C#m
+é tudo tão perfeito reconhecemos todos,
+                     A
+todos os nossos defeitos não quero te perder
+E             B        A
+cada dia amo mais você
+
+(refrão)
+                     E
+O nosso amor é tão ligado feito abelha e mel,
+               C#m                               A
+como chama e fogo, estrela e o céu,areia e o deserto,
+                              E                 B    A
+peixe e o mar o nosso amor é lindo sempre vai durar,
+                        E
+O nosso amor não tem vergonha de assumir o outro
+                   C#m
+é tudo transparente brilha como um tesouro,
+                    A
+como o sangue e a veia,
+
+a larva e o vulcão nós somos
+        B          A            E
+simplesmente o amor e a paixão
+
+(durante o solo) E   C#m   A   E   B   A
+
+E                                         C#m
+O nosso lance é lindo é tudo tão perfeito
+
+reconhecemos todos,
+                   A
+todos os nossos defeitos não quero te perder
+   E          B          A
+e cada dia amo mais você
+
+(refrão)
+                     E
+O nosso amor é tão ligado feito abelha e mel,
+               C#m                               A
+como chama e fogo, estrela e o céu,areia e o deserto,
+                              E                 B    A
+peixe e o mar o nosso amor é lindo sempre vai durar,
+                        E
+O nosso amor não tem vergonha de assumir o outro
+                   C#m
+é tudo transparente brilha como um tesouro,
+                    A
+como o sangue e a veia,
+
+a larva e o vulcão nós somos
+        B          A            E
+simplesmente o amor e a paixão
+
+(refrão)
+                     F
+O nosso amor é tão ligado feito abelha e mel,
+               Dm                               Gm
+como chama e fogo, estrela e o céu,areia e o deserto,
+                              Bb                C
+peixe e o mar o nosso amor é lindo sempre vai durar,
+                        F
+O nosso amor não tem vergonha de assumir o outro
+                   Dm
+é tudo transparente brilha como um tesouro,
+                    Gm
+como o sangue e a veia,
+
+a larva e o vulcão nós somos
+        Bb         C            F
+simplesmente o amor e a paixão
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

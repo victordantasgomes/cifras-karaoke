@@ -1,0 +1,59 @@
+@titulo: razoes-e-sentimentos
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Razoes e Sentimentos
+
+E
+Ja faz um tempo
+G#
+Ainda me lembro bem
+C#m       B          F#
+As noites lindas, de amor
+ A     Am
+Você se foi
+  E                   C#m
+Mais deixou a solidão
+             A
+E hoje vivo
+    Am              E
+Sem paz no coração
+      E
+Ainda tenho
+          G#
+Nossas fotografias
+C#m   B               F#
+Das viagens que fizemos
+    A      Am
+Deixou perdido
+
+     E                     C#m
+Em razões e Sentimentos
+               A
+Era tão lindo
+    Am     E
+O nosso amor
+          A                    E       G#           C#m
+Vai dizer, que não sente falta de nos dois
+        A          E        B
+Pra você, o amor acabou
+         A                E                    G#         C#m
+Se enganar, se explicar não resolve em nada
+              A           Am       E
+Volta correndo, volta pra mim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G# = 4 3 1 1 1 4

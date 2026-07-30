@@ -1,0 +1,40 @@
+@titulo: to-mal
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Tô Mal
+
+Intro: C#
+
+C#                                          C#4
+Tô mal, não é de Deus isso que eu tô passando
+  F#
+Tô mal, bebendo, daqui a pouco eu tô ligando
+        G     G#                            F#
+Ela não vai atender, e eu vou sofrer mais uma vez
+     C#
+Até aprender
+
+             C#4 C#                           F#
+Cantor por favor manda aquela moda que fala de amor
+                D#m                    G#                      F#
+Eu tô sofrendo horrores, sei que você também passou por essas dores
+      C#     C#4 C#                      F#
+Cantor por favor manda aquela moda que fala de amor
+                 D#m                   G#                     F#            C#  F#
+Eu tô sofrendo horrores, sei que você também passou por essas dores
+
+----------------- Acordes -----------------
+C# = X 4 6 6 6 4
+C#4 = X 4 4 1 2 X
+D#m = X X 1 3 4 2
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

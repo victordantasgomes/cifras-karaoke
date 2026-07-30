@@ -1,0 +1,92 @@
+@titulo: nao-fala-meu-nome
+@autor:
+@intérprete: Henrique e Juliano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Henrique e Juliano - Não Fala Meu Nome
+
+Intro: G D Em C D
+
+G          D
+Quem nunca virou a madrugada
+Em                C
+Com o telefone na mão jogando conversa fiada
+G          D
+Quem nunca teve um lance escondido
+Em                   C                  D
+Não sabe o gosto que tem o sabor do proibido
+
+Am       Em            C         D
+Eu gosto mesmo é de um lance perigoso
+Am       Em               C               D
+Porque tudo que é mais difícil é mais gostoso
+
+Refrão:
+  G                                D
+E eu, fico só lembrando como é seu gosto
+                              Em
+Como é seu beijo querendo seu corpo
+
+           C            D
+Que desejo louco que me dá
+    G                                 D
+Não deu pra me segurar, atende o telefone
+                                 Em
+Pra não dá na cara, não fala meu nome
+            C                D          G
+Só me fala aonde, que eu vou te buscar agora
+            D    Em               C  G D Em C
+Ai, ai, ai, ai, agora ai, ai, ai, ai
+
+Am    Em             C         D
+Gosto mesmo é de um lance perigoso
+Am       Em               C               D
+Porque tudo que é mais difícil é mais gostoso
+
+Refrão:
+  G                                D
+E eu, fico só lembrando como é seu gosto
+                              Em
+Como é seu beijo querendo seu corpo
+           C            D
+Que desejo louco que me dá
+    G                                 D
+Não deu pra me segurar, atende o telefone
+                                 Em
+Pra não dá na cara, não fala meu nome
+            C                D          G
+Só me fala aonde, que eu vou te buscar agora
+            D    Em               C  D Eb
+Ai, ai, ai, ai, agora ai, ai, ai, ai
+
+  G#                               Eb
+E eu, fico só lembrando como é seu gosto
+                              Fm
+Como é seu beijo querendo seu corpo
+           C#           Eb
+Que desejo louco que me dá
+    G#                                Eb
+Não deu pra me segurar, atende o telefone
+                                 Fm
+Pra não dá na cara, não fala meu nome
+            C#               Eb         G#
+Só me fala aonde, que eu vou te buscar agora
+            Eb   Fm               C#  G#
+Ai, ai, ai, ai, agora ai, ai, ai, ai
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+Eb = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

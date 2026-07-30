@@ -1,0 +1,85 @@
+@titulo: coracao-chagado
+@autor:
+@intérprete: Anjos de Resgate
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Anjos de Resgate - Coração Chagado
+
+E|--------------------------------------------|
+B|----------------10/12-10-----9-9-10-14-12---|
+g |11h13-11--9--9-9-9-------------------------|
+D|--------------------------------------------|
+A|--------------------------------------------|
+E|--------------------------------------------|
+
+E|-------------11-12-11h12/14-12-14-14h16--------|
+B|-----9-10-12---------------------------12-12---|
+G|-9h11------------------------------------------|
+D|-----------------------------------------------|
+A|-----------------------------------------------|
+E|-----------------------------------------------|
+
+E|--------------------------------------------|
+B|---------------12^--------------------------|
+G|-11h13-11----11-----------------------------|
+D|---------14---------------------------------|
+A|--------------------------------------------|
+E|--------------------------------------------|
+
+
+      E         E7+/9   C#m7/G#              B/C#
+Um dia falei com Deus,  senti que ele estava ali
+   A          A/B               E      A/B
+E tudo eu lhe entreguei    e ele me ouviu.
+  E          E7+/9           C#m7/G#      B/C#
+Falei do meu coração,   das coisas que eu vivi.
+     A            A/B              E       B4/7
+E em cada momento Deus   sempre estava ali.
+
+     G#m7             C#m7
+Eu tentei encontrar a tua paz,
+A    E  B9
+Deus de amor,
+       C#m     B         A
+Mas foi sua bondade, Senhor,
+              B4              B
+Que trouxe a paz no meu redentor.
+     G#m7         C#m7         A   E    B9
+E no teu coração chagado estão minhas mãos.
+      C#m     B       A       B4             B
+Eu te peço, Senhor, liberta e renova meu coração.
+
+       E             A
+Vou te dar o meu coração
+     B               C#m
+Entregar-me ao teu perdão,
+B/D# E         A            B4  B
+Abraçar-te, deitar em tuas mãos.
+       E             A
+Vou te dar o meu coração,
+     B               C#m
+Entregar-me ao teu perdão,
+   B/D# E        A       A/B     E
+Contemplar-te na minha oração.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+B = X 2 4 4 4 2
+B/C# = X 6 X 4 7 7
+B/D# = X 6 X 4 7 7
+B4 = X 2 4 4 5 2
+B4/7 = X 2 4 2 5 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+C#m7/G# = 4 2 2 4 2 X
+E = 0 2 2 1 0 0
+E7+/9 = X 7 6 8 7 X
+G#m7 = 4 X 4 4 4 X

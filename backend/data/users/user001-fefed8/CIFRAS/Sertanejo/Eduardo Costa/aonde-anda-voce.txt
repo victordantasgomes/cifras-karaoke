@@ -1,0 +1,47 @@
+@titulo: aonde-anda-voce
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Aonde Anda Você
+
+    C9                   F                C9
+Busquei o brilho do seu olhar e não encontrei
+                          F              C9
+Te procurei nas ruas e praças sozinho fiquei
+          G7             F    C  C7
+Sozinho fiquei  Sozinho fiquei
+ F                            C9              G7
+Será onde ela anda? Com quem está? Em quem pensará?
+             F   C9
+Em quem pensará?
+ C9                  F               C9
+*Toda noite saio a procura pra te encontrar
+                        F                       C9
+Avanço o vermelho do trânsito o verde é o teu olhar
+        G7           F    C  C7
+Onde estará? Onde estará?
+ F                       C9                   G7
+Será onde ela anda? Com quem está? Em quem pensará?
+             F   C9
+Em quem pensará?
+
+
+Intr.
+   F                         C9                G7
+Será onde ela anda? Com quem está? Em quem pensará?
+              F   C9
+Em quem pensará?
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+C9 = X 3 5 5 3 3
+F = 1 3 3 2 1 1
+G7 = 3 5 3 4 3 3

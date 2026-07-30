@@ -1,0 +1,91 @@
+@titulo: olhos-vermelhos
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Olhos Vermelhos
+
+Intro: D D/C G6/B G6/Bb
+       D D/C G6/B G7/Bb
+
+D                              G           D
+ Os velhos olhos vermelhos voltaram dessa vez
+                 Bm                    G
+Com o mundo nas costas e a cidade nos pés
+
+D                              G      Gm
+ Pra que sofrer se nada é pra sempre?
+            D                        Bm
+Pra que correr se nunca me vejo de frente?
+
+Refrão:
+ G               A5(9)            G
+  Parei de pensar e comecei a sentir
+D              D/C
+  Nada como um dia após dia
+G6/B             G6/Bb
+  Uma noite, um mês
+           G                           (Intro)
+Os velhos olhos vermelhos voltaram de vez
+
+
+D                             G            D
+ Os velhos olhos vermelhos enganam sem querer
+                          Bm
+Parecem claros, frios distantes
+                   G
+Não têm nada a perder
+
+D                               G    Gm
+  Por que se preocupar por tão pouco?
+            D
+Por que chorar
+                        Bm
+Se amanhã tudo muda de novo?
+
+     G            A5(9)           G
+  Parei de pensar e comecei a sentir
+
+Refrão:
+ G               A5(9)          G
+Parei de pensar e comecei a sentir
+D              D/C
+  Nada como um dia após dia
+G6/B             G6/Bb
+  Uma noite, um mês
+           G                           D  G  D  Bm (Solo)
+Os velhos olhos vermelhos voltaram de vez
+
+G               A5(9)          G
+Parei de pensar e comecei a sentir
+D              D/C
+  Nada como um dia após dia
+G6/B             G6/Bb
+  Uma noite, um mês
+           G                            (Intro)
+Os velhos olhos vermelhos voltaram de vez
+
+Passagem 1           Passagem 2
+E|------------------|-----------------------
+B|------------------|-----------------------
+G|------------------|-----------------------
+D|-------0----------|----2--4--0------------
+A|---0h2------------|-----------------------
+E|------------------|-----------------------
+
+----------------- Acordes -----------------
+A5(9) = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2
+G = 3 2 0 0 0 3
+G6/B = X 2 0 0 3 0
+G6/Bb = X 1 0 0 3 0
+G7/Bb = X 1 0 0 3 1
+Gm = 3 5 5 3 3 3

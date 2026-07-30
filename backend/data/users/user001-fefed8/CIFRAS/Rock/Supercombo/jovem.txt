@@ -1,0 +1,147 @@
+@titulo: jovem
+@autor:
+@intérprete: Supercombo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Supercombo - Jovem
+
+                G     C    G    C
+Eu fico esperando
+G                  C                 G
+Aquele ano que eu sei que eu vou bombar
+               C               G     C    G    C
+Que eu vou ganhar muito dinheiro
+           G        C          G
+Enquanto isso eu fico em stand-by
+ G
+Com aquele pé atrás
+
+( G  C  G  Em )
+( G  C  G  Em )
+( G  C  G  Em )
+( G  C  G  Em )
+
+           G     C    G    C
+Cai do berço
+           G        C        G
+Cai no mundo sem nenhum tutorial
+            C             G     C    G    C
+De como eu chego no sucesso
+
+    G     C    G    C
+E tudo vira as costas
+
+Em          D     G
+Eu não me abandonei
+Em         F
+Nem vou abandonar meus sonhos
+
+         Am7   C9
+Pois eu sou jovem
+           G           D
+Com um corpinho de ancião
+        Am7  C9
+Eu sou jovem
+    G           D
+Mentalidade de vovô
+    Am7   C9
+Eu sou jovem
+         G          D
+E nunca sei aproveitar
+D#                 G
+O que eu tenho em mãos
+
+( G  C  G  Em D#)
+( G  C  G  Em )
+( G  C  G  Em )
+
+
+                   G   C   G   C
+Tá todo mundo esperando
+        G         C
+O milênio que eu sei que eu vou
+   G                  C              G    C    G    C
+Bombar, que eu vou ganhar muito dinheiro
+         G       C       G     C
+Com o mundo abrindo as costas
+
+Em      D        G
+Eu não me abandonei
+    Em           F
+Eu nunca, eu nunca vou abandonar meus sonhos
+
+     Am7       C9
+Pois eu sou jovem
+        G              D
+Com um corpinho de ancião
+    Am7   C9
+Eu sou jovem
+      G         D
+Mentalidade de vovô
+    Am7   C9
+Eu sou jovem
+   G           D
+E nunca sei aproveitar
+D#                G#   G
+O que já está na minha mão
+
+Em        D        G
+Eu não me abandonei
+Em         F
+Eu nunca vou deixar Rogério perto
+                Em
+Dos meus sonhos
+
+     Am7       C9
+Pois eu sou jovem
+        G              D
+Com um corpinho de ancião
+    Am7   C9
+Eu sou jovem
+    G           D
+Mentalidade de vovô
+
+    Am7   C9
+Eu sou jovem
+      G              D
+E não importa o que disser
+     D#    F#
+Eu sempre vou ser
+ Am7       C9
+Pois eu sou jovem
+        G              D
+Com um corpinho de ancião
+    Am7   C9
+Eu sou jovem
+      G         D
+Mentalidade de vovô
+    Am7   C
+Eu sou jovem
+       G           D
+E não consigo aproveitar
+D#                     Em7  D#
+O que eu tenho em mãos
+  Am     G#
+O que eu tenho
+  D#      F        G
+O que eu tenho em mãos
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

@@ -1,0 +1,87 @@
+@titulo: sexto-andar
+@autor:
+@intérprete: Fresno
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fresno - Sexto Andar
+
+   G                   G/F#*
+No meio da avenida de duas mãos
+          G/F*                    C       Cm
+Luzes que vêm e vão, sem ter aonde chegar
+
+        G                      G/F#*
+Nas estações de trem, a gente vai e vem
+          G/F*                       C     Cm
+Gente do mal e do bem respirando o mesmo ar
+
+  Am                      G
+No meu elevador ninguém pode me escutar
+       C              D            G   F
+Nem a lei da gravidade eu vou obedecer
+         Am         Cm           G         A
+Ninguém sente essa dor que me obriga a cantar
+   C            D       Em  Bm  C
+Do alto do meu sexto andar
+C               D         G  G/F#*  G/F*  C  Cm
+Do alto do meu sexto andar
+
+
+      G                      G/F#*
+Sem freio, sem destino, sem direção
+         G/F*                         C     Cm
+Persigo a canção que desde sempre ouvi tocar
+      G                      G/F#*                   G/F*
+E as forças que governam meu caminhar brotaram do pulsar
+                     Em       Cm
+Das mãos que eu aprendi a amar
+
+        Am                    G
+Quando se eleva a dor ninguém pode me escutar
+          C              D             G   F
+Se há um lado bom da vida, não consigo ver
+        Am           Cm         G            A
+Ninguém sente essa dor que me obriga a cantar
+   C            D         Em  Bm  C
+Do alto do meu sexto andar
+   C            D          G   C
+Do alto do meu sexto andar
+
+(G  C)  G
+                              C   G
+Quando eu falar, me olhe no olho
+                                  C   G
+Nada é maior que a força de um sonho
+                                          C   G
+E quando eu morrer transformem minha história
+                               C    G
+Numa canção de pranto e de glória
+
+(G  G/F#*  G/F*  C  Cm  G)
+
+
+  G/F#* = E|-x-|          G/F* = E|-x-|
+         B|-3-|                 B|-3-|
+         G|-4-|                 G|-4-|
+         D|-4-|                 D|-3-|
+         A|-x-|                 A|-x-|
+         E|-3-|                 E|-3-|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/F = 1 X X 0 0 3
+G/F# = X X 4 4 3 3

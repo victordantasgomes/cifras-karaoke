@@ -1,0 +1,67 @@
+@titulo: ainda-estou-aqui
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Ainda Estou Aqui
+
+         C                  E7
+Ainda estou aqui depois de ter passado
+          Am         C7            F
+Por vales e montanhas, por rios e mares
+                 Fm              C
+Por cova tão profunda, pelo desprezo
+          Dm   G   C
+E o meu preço era nada
+
+                               E
+Ainda estou aqui depois que acreditei
+           Am C7           F
+Que o meu Deus que tanto amei
+           Fm                  C
+Estaria comigo na hora mais difícil
+      Dm  G           C
+E foi isto que aconteceu
+
+Solo: C  A#  F  G#  G
+
+         C                  F          ( F  C )
+Ainda estou aqui, posso gritar ao mundo
+
+           Dm            G
+Que eu venci, passei por tudo
+          C   E         Am
+Na minha vida o céu venceu
+F       C     A#    F                    G
+E o inferno me perdeu, o inferno me perdeu
+        C                    F          ( F  C )
+Subindo a montanha senti o amor de Deus
+           Dm            G
+Dentro do vale a paz me alcançou
+            C   E            Am
+Nos rios e mares não me afoguei
+                              F
+F          C     A#           C              C
+Direi ao mundo ainda estou aqui,Ainda estou aqui
+
+Final: C  G  C  A  F  C  A#  C
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A# = X 1 3 3 3 1
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

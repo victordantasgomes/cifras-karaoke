@@ -1,0 +1,122 @@
+@titulo: mae
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Mãe
+
+Intro: B  E  B  E  B/D#  C#m  C#m/B  F#/A#  E/G#  F#  E/G#  F#/A#  B
+
+B                 F#/A#           G#m            D#m             E
+Mãe, hoje eu descobri que eu cresci, é que de repente eu me vi
+        B/D#        C#m   G#
+Tão sozinho na estrada
+C#m                C#m/B     F#/A#             E/G#      F#
+Mãe, hoje eu precisei de você, eu não sabia o que fazer
+                 B     F#4   F#
+Me vi de mãos atadas
+
+B               F#/A#      G#m                        F#m7
+Mãe o que é que a gente faz, quando o sucesso não traz
+              B/D#        E   E4   E
+A paz a que a gente procura
+                 Fº        B/F#             B                  C#
+Mãe, hoje aqui sozinho eu rezei, aqui no meu cantinho eu chorei
+            F#         B    F#4   F#
+E chorando fiz uma jura
+
+ B                   F#/A#                  G#m
+Juro que a partir de hoje eu vou fazer meu tempo
+
+               D#m                    E
+Vou ficar mais perto do teu sentimento
+                B/D#               C#m    G#
+Vou ficar mais perto, mãe do teu amor
+C#m                 C#m/B             F#/A#
+Juro não deixar jamais a minha ambição
+                E/G#             F#
+Falar tão mais alto que meu coração
+            E           B/D#     F#4  F#
+Se minha riqueza, mãe é teu amor
+B                     D#m                       C#m
+Mãe, me dá teu colo,  mãe, mulher que adoro, mãe
+                 F#4            F#
+Se existo devo a ti meu respirar
+B                     D#m                       C#m
+Mãe tão puro amor de mãe, que as vezes não me vem
+                    F#/A#  E/G#  F#
+Palavras pra expressar
+E               F#            B    [Introdução]
+Mãe pra ti conjugo o verbo amar
+
+
+B                 F#/A#   G#m             D#m         E
+Mãe, teu conselho me orienta, teu carinho me alimenta
+           B/D#             C#m    G#
+Da paz, do amor, da esperança
+C#m                 C#m/B       F#/A#
+Mãe hoje eu sou um homem eu sei
+             E/G#        F#
+Mas as vezes que eu chorei
+       E             B     F#4   F#
+Não passei de uma criança
+
+B               F#/A#      G#m                        F#m7
+Mãe o que é que a gente faz, quando o sucesso não traz
+              B/D#      E   E4   E
+A paz a que a gente procura
+                 F°           B/F#           B            C#
+Mãe, hoje aqui sozinho eu rezei, e no meu cantinho eu chorei
+            F#        B    F#4   F#
+E chorando fiz uma jura
+
+ B                   F#/A#                    G#m
+Juro que a partir de hoje eu vou fazer meu tempo
+               D#m                    E
+Vou ficar mais perto do teu sentimento
+                B/D#               C#m    G#
+Vou ficar mais perto, mãe do teu amor
+C#m                 C#m/B              F#/A#
+Juro não deixar jamais a minha ambição
+                E/G#             F#
+Falar tão mais alto que meu coração
+            E           B/D#     F#4  F#
+Se minha riqueza, mãe é teu amor
+B                     D#m                       C#m
+Mãe, me dá teu colo,  mãe, mulher que adoro, mãe
+                 F#4            F#
+Se existo devo a ti meu respirar
+B                     D#m                       C#m
+Mãe tão puro amor de mãe, que as vezes não me vem
+                    F#/A#  E/G#  F#
+Palavras pra expressar
+E              F#            B    E
+Mãe pra ti conjugo o verbo amar
+B
+Mãe...
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B/F# = X X 4 4 4 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+C#m/B = 7 X 6 6 5 X
+D#m = X X 1 3 4 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#4 = 2 4 4 4 2 2
+F#m7 = 2 X 2 2 2 X
+F° = X X 3 4 3 4
+Fº = X X 3 4 3 4
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4

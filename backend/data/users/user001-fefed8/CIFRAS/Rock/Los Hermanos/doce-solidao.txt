@@ -1,0 +1,62 @@
+@titulo: doce-solidao
+@autor:
+@intérprete: Los Hermanos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Los Hermanos - Doce Solidão
+
+INTRO: A C#m7 (C#m7 Cm7 Bm7) E (riff1)
+       A C#m7 (C#m7 Cm7 Bm7) E (riff2)
+
+Riff1
+e|-------------------------  
+B|------------5------------   
+G|-----2-4/6~---6h4~-------   
+D|-2/4~--------------------     
+A|-------------------------   
+E|-------------------------   
+
+Riff2
+e|-------------------------  
+B|-------------------------   
+G|-----2---4/6-4/6~--------   
+D|-2/4~----4/6-4/6~--------     
+A|-------------------------   
+E|-------------------------
+
+Riff3
+e|-------------------------  
+B|-------------------------   
+G|------2~-----2~----------   
+D|--2/4----2/4-------------     
+A|-------------------------   
+E|-------------------------
+
+
+A          C#m7 (C#m7 Cm7 Bm7)           E          A
+Posso estar só               mas sou de todo mundo
+          C#m7     (C#m7 Cm7 Bm7)           E          A
+Por eu ser    só um              A nem , a não , a nem dá
+     C#m7 Cm7 Bm7                        E
+Solidão ,     foge que eu te encontro que eu já tenho asa
+Dm7 C#m7 Bm7   A  (riff 3)
+  Isso   lá é bom
+Dm7 C#m7 Bm7  E
+  Doce  solidão
+
+FINAL: A C#m7 (C#m7 Cm7 Bm7) E (riff 1)
+       A C#m7 (C#m7 Cm7 Bm7) E (riff 2)  A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+Cm7 = X 3 5 3 4 3
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0

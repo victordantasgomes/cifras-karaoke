@@ -1,0 +1,153 @@
+@titulo: agarrada-em-mim
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Agarrada Em Mim
+
+[Intro] A  C#m  D  E  A  E
+
+E|----------------------------------------------------|
+B|-3/5-----5-5h7-5-----5-------5-5h7-5----------------|
+G|-----5/6---------7-6-----5/6---------7-6-7--6-4-----|
+D|------------------------------------------------7---|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|------------------------------0-7-------------------|
+B|-5--7-----------------------0-----------------------|
+G|------6-4-2h4p2-----2-1---1-------------------------|
+D|------------------------2---------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+[Primeira Parte]
+
+    A                                 D
+Enquanto a cidade dorme e eu aqui me lembro
+        E            A    E
+Quanto tempo,quanto tempo
+
+   A                                        D
+A gente já não fica junto em mais nenhum momento
+        E            A   A7
+Quanto tempo,quanto tempo
+
+[Segunda Parte]
+
+    D                   E
+Eu sei que foi só uma transa
+             C#m               F#m
+Mas sua lembrança me deixou assim
+    D                 E
+Querendo ter você de novo
+     A          A7
+Agarrada em mim
+
+[Pré-Refrão]
+
+    D                    E
+Desculpe se eu senti saudade
+              C#m                F#m
+Se me deu vontade,eu não sei fingir
+     D            E             A  E  E4
+Faz tempo,mas eu nunca te esqueci
+
+[Refrão]
+
+ A                           C#m
+Vem,quero amar seu corpo inteiro
+                        D
+Namorar,sentir seu cheiro
+     Bm               E  E4
+Sem ter pressa de acabar
+
+ A                       C#m
+Vem,que eu estou aqui sozinho
+                  D
+Precisando de carinho
+     E          A
+Com vontade de te amar
+
+[Solo] A  C#m  D  E  A  E
+
+E|----------------------------------------------------|
+B|-3/5-----5-5h7-5-----5-------5-5h7-5----------------|
+G|-----5/6---------7-6-----5/6---------7-6-7--6-4-----|
+D|------------------------------------------------7---|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|-----------------5-4-2h4p2h4p2----------------------|
+B|-5--7---------------------------5-3-2h3p2h3p2-------|
+G|------6-4-2h4p2-------------------------------6-4-2-|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+[Segunda Parte]
+
+    D                   E
+Eu sei que foi só uma transa
+             C#m               F#m
+Mas sua lembrança me deixou assim
+    D                 E
+Querendo ter você de novo
+     A          A7
+Agarrada em mim
+
+[Pré-Refrão]
+
+    D                    E
+Desculpe se eu senti saudade
+              C#m                F#m
+Se me deu vontade,eu não sei fingir
+     D            E             A  E  E4
+Faz tempo,mas eu nunca te esqueci
+
+[Refrão]
+
+ A                           C#m
+Vem,quero amar seu corpo inteiro
+                        D
+Namorar,sentir seu cheiro
+     Bm               E  E4
+Sem ter pressa de acabar
+
+ A                       C#m
+Vem,que eu estou aqui sozinho
+                  D
+Precisando de carinho
+     E          A
+Com vontade de te amar
+
+ A                           C#m
+Vem,quero amar seu corpo inteiro
+                        D
+Namorar,sentir seu cheiro
+     Bm               E  E4
+Sem ter pressa de acabar
+
+ A                       C#m
+Vem,que eu estou aqui sozinho
+                  D
+Precisando de carinho
+     E          A
+Com vontade de te amar
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+A*  = X 0 2 2 2 0 - (*A# na forma de A)
+A7*  = X 0 2 0 2 0 - (*A#7 na forma de A7)
+Bm*  = X 2 4 4 3 2 - (*Cm na forma de Bm)
+C#m*  = X 4 6 6 5 4 - (*Dm na forma de C#m)
+D*  = X X 0 2 3 2 - (*D# na forma de D)
+E*  = 0 2 2 1 0 0 - (*F na forma de E)
+E4*  = 0 2 2 2 0 0 - (*F4 na forma de E4)
+F#m*  = 2 4 4 2 2 2 - (*Gm na forma de F#m)

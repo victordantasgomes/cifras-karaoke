@@ -1,0 +1,105 @@
+@titulo: meu-lugar(versão 2)
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Meu Lugar
+
+(intro) G#m   F#   E   C#m
+
+E|-------------|--------------|--------------|-----------------|
+B|4---4---4---4|-2---2---2---2|--------------|-----------------|
+G|4---4---6---6|-3---3---7---7|-1---1---4---4|-5---5---7---7---|
+D|6---6---6---6|-4---4---4---4|-2---2---2---2|-6---6---6---6---|
+A|6---6---6---6|-4---4---4---4|-2---2---2---2|-6---6---6---6---|
+E|4-4-4-4-4-4-4|-2-2-2-2-2-2-2|-0-0-0-0-0-0-0|-4-4-4-4-4-4-4-4-|
+
+
+*(Essa é a introducão do piano, mas fiz para o violão)
+
+B    B/A#  G#m
+Cai o dia, a tarde escura
+E
+Acho que vai chover
+B    B/A#     G#m
+Eu que sempre me escondi do mundo
+E
+Hoje talvez queira sair
+B  B/A# G#m E
+Descobrir outros ares
+
+B B/A# G#m F# E B/D# C#m  B
+Acho que preciso me encontrar
+
+(refrão)
+E
+Se é sonho ou real não importa
+C#m
+Eu preciso sentir e assim talvez
+B                       G#m
+Eu encontre o meu lugar, lugar
+E
+E mesmo que eu perca o horizonte
+C#m
+Estarei na esperança de que
+            B                    G#m
+Um dia alguém, quem sabe alguém?
+             E          Em
+Me ajude a ver onde errei...
+
+
+B   B/A#  G#m    E
+Vejo cata-ventos, conto pedras no chão
+B   B/A#  G#m
+Risco a parede da minha sala
+E
+Sujo a minha mão
+B B/A# G#m E
+Eu mudei, eu senti
+B B/A# G#m  F#        E    B/D# C#m      B
+Já não quero mais, olhar o que ficou pra trás
+
+E
+Se é sonho ou real não importa
+C#m
+Eu preciso sentir e assim talvez
+B                       G#m
+Eu encontre o meu lugar, lugar
+E
+E mesmo que eu perca o horizonte
+C#m
+Estarei na esperança de que
+            B                    G#m
+Um dia alguém, quem sabe alguém?
+             E          Em
+Me ajude a ver onde errei... E pegue a minha mão
+
+B      F#        G#m      E
+Na chuva me aqueça, me olha
+B       G#m     F#        E
+E torna intensa minha vida
+
+( B G#m  F#  E (2x)
+(repete refrão)
+
+E|2-2-3-3-2-2-3-3-2|
+B|-4-4-4-4-4-4-4-4-|
+G|-----------------|
+
+*(Esse riff fica no final da música com o piano, mas fiz para o violão)
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B/A# = 6 X 4 4 4 X
+B/D# = X 6 X 4 7 7
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

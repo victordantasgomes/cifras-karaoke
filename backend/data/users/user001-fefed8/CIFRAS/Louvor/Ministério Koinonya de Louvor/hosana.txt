@@ -1,0 +1,51 @@
+@titulo: hosana
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - Hosana
+
+  A   A/C#     E/D     D
+HOSANA AO REI DOS REIS
+ Bm    E  E/D      A/C# Dm
+DIGNO DE LOUVOR
+ A   A/C#    D7     Dm6
+HOSANA, HOSANA
+ Bm             D/E       A
+HOSANA AO REI JESUS
+     G/A                   A
+PRA SEMPRE TEU REINO EXISTIRÁ
+   G/A                  A  A/C#
+TUA GLÓRIA SEMPRE BRILHARÁ
+    D            C#      F#m         F#m/E
+ÉS PURO E PERFEITO JUSTO E SANTO
+Bm A/C# D  D#° D/E
+ÚNICO     SENHOR
+ A   A/C#    D7     Dm6     Bm
+HOSANA, HOSANA,     HOSANA
+ D/E       A9
+AO REI JESUS
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+D#° = X X 1 2 1 2
+D/E = X X 2 2 3 2
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+Dm6 = X 5 X 4 6 5
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+F#m = 2 4 4 2 2 2
+F#m/E = X X 2 2 2 2
+G/A = 5 X 5 4 3 X

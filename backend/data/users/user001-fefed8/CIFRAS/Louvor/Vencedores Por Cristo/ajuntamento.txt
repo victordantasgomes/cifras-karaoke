@@ -1,0 +1,68 @@
+@titulo: ajuntamento
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Ajuntamento
+
+Intro: C  C/E  F7M  Em7 Dm7  Dm7/C  F/G G
+
+C                         F     Em7
+Vem e sopra sobre nós Teu sopro,
+Dm7       Dm7/C       G7    G/B
+Reunidos nesse ajuntamento,
+C            C/E         G/F   F   Em7
+Honra e santifica este momento,
+Dm7       Dm7/C            G7
+Com a Tua igreja que é Teu povo.
+
+C                            F     Em7
+Faz Teu rio de paz correr no meio,
+Dm7          Dm7/C         G7    G/B
+Destes que por fé vem bendizer-Te,
+C   C/E         G/F  F   Em7
+E a uma voz oferecer-Te,
+Dm7             Dm7/C         G7
+Seus louvores, súplicas e anseios.
+
+F        G             C    C/E
+Tu és o Senhor de toda glória,
+F              G            C    C/E
+Hoje, sempre e como foste outrora.
+F               G         E/G#       Am7
+No correr da história revelando Seu amor,
+G#                        G7
+Deus, Bendito, Rei e Salvador!
+F              G4  G7    C
+Deus, Bendito, Rei e Salvador!
+
+Solo: Eb  Eb/G  G#  Fm  Fm/Eb  Ab  F/G  G7
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+Dm7 = X 5 7 5 6 5
+Dm7/C = X 3 0 2 1 1
+E/G# = 4 X 2 4 5 X
+Eb = X 6 5 3 4 3
+Eb/G = 3 X 1 3 4 X
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F/G = 3 X 3 2 1 X
+F7M = 1 X 2 2 1 X
+Fm = 1 3 3 1 1 1
+Fm/Eb = X 6 X 5 6 4
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G/B = X 2 0 0 3 3
+G/F = 1 X X 0 0 3
+G4 = 3 5 5 5 3 3
+G7 = 3 5 3 4 3 3

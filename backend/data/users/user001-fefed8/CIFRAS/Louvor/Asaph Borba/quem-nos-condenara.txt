@@ -1,0 +1,65 @@
+@titulo: quem-nos-condenara
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Quem Nos Condenará
+
+Am7               D     Am7                       D
+Quem nos condenará, se Cristo Jesus por nos morreu?
+   Am7                         D     Am7                       D
+Ou quem contra nos se levantarah, se Cristo Jesus por nos venceu?
+ G            D/F#       Em Dm C#7/9/11+
+Quem nos haverah  de separar
+     C   Am7               D
+Da graca que nos conquistou?
+    C        D/C Bm          Em
+Ou quem poderah  de nos roubar
+    G/A                G5+/A       C/D  D
+A heranca que nos foi  dada  por amor?
+    G               D/F#
+Por isso nos somos vencedores
+Bsus4       B         Em
+Somos mais que vencedores
+     C                       G/B
+Marchamos sobre a terra como vencedores
+  G/A             C/D
+Vivendo como vencedores
+    C7+                 C/D
+Nas tribulacoes somos vencedores
+    Bsus4      B         Em
+Nas perseguicoes somos vencedores
+    C                     G/B
+Na vida ou na morte somos vencedores
+     Am     D     G  Em
+Vencedores com Jesus
+     Am     D     G  Em
+Vencedores com Jesus
+     Am     D     G
+Vencedores com Jesus
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+Bsus4 = X 2 4 4 5 2
+C = X 3 2 0 1 0
+C#7/9/11+ = X 4 3 4 4 3
+C/D = X X 0 0 1 0
+C7+ = X 3 2 0 0 X
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G5+/A = X 0 1 0 0 X

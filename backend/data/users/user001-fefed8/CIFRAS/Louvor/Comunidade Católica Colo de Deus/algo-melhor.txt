@@ -1,0 +1,30 @@
+@titulo: algo-melhor
+@autor:
+@intérprete: Comunidade Católica Colo de Deus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Colo de Deus - Algo Melhor
+
+Intro:   E
+
+E   E9                               C#m  A     B       E  E9
+Algo melhor Deus preparou pra mim, Algo maior eu posso notar aqui
+F#m           G#m              A                   B
+Eu posso me entregar, ou resistir, mas sinto o Senhor aqui, agindo em mim
+F#m         G#m            A                B
+És Deus de perto e estás aqui, eu posso sentir, posso sentir
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E9 = 0 2 4 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

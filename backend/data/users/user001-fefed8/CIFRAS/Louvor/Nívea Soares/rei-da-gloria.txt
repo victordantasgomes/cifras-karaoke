@@ -1,0 +1,103 @@
+@titulo: rei-da-gloria
+@autor:
+@intérprete: Nívea Soares
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nívea Soares - Rei da Glória
+
+(Base da Introdução) E B A9 F#m
+                    (E B A9 F#m)
+
+Intro:
+E|-------7-7-7-5-5-5-4-4-4---------7-7-7-5-5-5-4-4-4--|
+B|5-5-5---------------------4-4-4---------------------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|4-4-4-4-4-4--0-0-0-0-0-0--4-4-4-4-4-4--5-5-5-5-5-5--|
+B|----------------------------------------------------|
+G|----------------------------------------------------|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+    C#m           A9
+O Rei da glória logo vem
+          F#m        C#m
+Todo poderoso Deus
+
+     C#m        A9
+De toda terra tomará
+    F#m               C#m
+Aqueles que são seus
+
+          A9              C#m
+Todo choro e dor cessarão
+         A9                     C#m
+Sua vitória destruiu a morte
+         A9            C#m
+O meu corpo Ele vai transformar
+        A9                      B
+Em glória,    pra sua glória
+
+(refrão)
+       E
+Levantai óh portas
+       B/D#
+As vossas cabeças
+          C#m
+Levantai-vos
+        A9
+Óh portais eternos
+       F#m
+E entrará o Rei da glória
+(G#m) A9
+Entrará o Rei da glória
+      E        B A
+Jesus
+
+Introduçao antes do Maranata
+( F#m A9 )(2x)
+
+     E       B/D#         A   C#m
+Maranata ,       Maranata
+    F#m    A9          B A
+Oh vem Jesus! Oh vem!
+
+
+(refrão)
+       E
+Levantai óh portas
+       B/D#
+As vossas cabeças
+          C#m
+Levantai-vos
+        A9
+Óh portais eternos
+       F#m
+E entrará o Rei da glória
+      A9 (D A9 segunda parte)
+Entrará o Rei da glória
+      E        B A
+Jesus
+
+Fim: (F#m A9)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,98 @@
+@titulo: tenho-que-sonhar
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Tenho Que Sonhar
+
+(intro) E A E A
+
+E                B      C#m         B
+ Que droga de paixão que me prendeu
+E            B     A          B
+ Quase me matou, me enlouqueceu
+E           B     C#m        B
+ Foi um vendaval dentro de mim
+E             B        E
+ Explosão de amor que não tem fim
+
+B                    A
+  Uma dose de amor fatal
+                  E
+Doce sabor de paixão
+B                        A
+  Provei gostei mas me dei mal
+                  B (A G#m B/F#)
+Embriagou meu coração...
+
+(refrão)
+
+E                                        C#m
+  E agora o que é que vou fazer pra sair dessa
+                                      A
+Outra pessoa, outro amor não me interessa
+               B
+Tem que ser você
+E                                     C#m
+  Eu sinto a sua falta, eu morro de desejo
+                                         A
+Eu fecho os olhos, sinto o gosto do seu beijo
+                    B
+Não dá pra te esquecer
+    A   G#m F#m F#/E      B
+Seu amor ficou   no   meu olhar
+            A G#m F#m F#/E       B
+Será que um  dia    você    vai voltar
+        E
+Tenho que sonhar
+
+(solo) E B/D# A E B A
+
+B                    A
+  Uma dose de amor fatal
+                  E
+Doce sabor de paixão
+B                        A
+  Provei gostei mas me dei mal
+                  B (A G#m B/F#)
+Embriagou meu coração...
+
+(refrão 2x)
+E                                        C#m
+  E agora o que é que vou fazer pra sair dessa
+                                      A
+Outra pessoa, outro amor não me interessa
+               B
+Tem que ser você
+E                                     C#m
+  Eu sinto a sua falta, eu morro de desejo
+                                         A
+Eu fecho os olhos, sinto o gosto do seu beijo
+                    B
+Não dá pra te esquecer
+
+    A   G#m F#m F#/E      B
+Seu amor ficou   no   meu olhar
+            A G#m F#m F#/E       B
+Será que um  dia    você    vai voltar
+        E      B/D# A
+Tenho que sonhar
+        E
+Tenho que sonhar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B/F# = X X 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#/E = X X 2 3 2 2
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

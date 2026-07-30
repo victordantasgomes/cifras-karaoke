@@ -1,0 +1,80 @@
+@titulo: 60-segundos
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - 60 Segundos
+
+quer conhecer minha banda www.charliebrownjr.na-web.net - www.krust.cjb.net
+
+Intro:
+
+(C#5,D#5,A#m,F#m)
+Alguma vezes eu pensei em coisas passadas
+Lembro daquela vez que não deu em nada
+Todo dia nessa vida vou estar em algum lugar
+Pra tentar outra vez
+Não quero mais nada
+
+Guitarra 1-(C#5,D#5,A#m,F#m)
+Guitarra 2-Riff 1
+
+Só te encontrar
+Em algum lugar
+
+
+Riff 2
+
+Intro
+
+
+(C#5,D#5,A#m,F#m)
+Um dia desses eu lembrei
+que não valeu nada
+Quanto tempo esperei
+as mesmas palavras
+Eu não tinha mais saída pra tentar recomeçar
+Foi melhor esquecer
+Não quero mais nada
+
+Só te encontrar
+Em algum lugar
+
+###############################################################################
+Intro
+e|---------------------------------------------------------------\
+B|---------------------------------------------------------------|
+G|---------------------------------------------------------------|
+D|-----6-------6--------6----------------6-------6-------6-------|
+A|-4-44-4--6-66-6---------------6-4--4-44-4--6-66-6------------4-|
+E|-----------------6-66-6---22-6---------------------6-66-6-2--2-/
+
+Riff 1
+    1   2   3   4
+   ___ ___ ___ ___
+e|-4-4-6-6-6-6-2-2-\
+B|-4-4-6-6-6-6-2-2-|
+G|-6-6-8-8-6-6-2-2-| Enquanto a guitarra faz os acordes, 
+
+A|-----------------| F#m = 4
+E|-----------------/
+
+Riff 2
+e|----------------------------------------------------------------------------\
+B|--------------------------------------9----9--------------------------------|
+G|-------------------------------6-8/10---10---10-8-6-------------------------|
+D|--6/8-6~---6/8-6~---6/8-6~---6------------------------6/8-6~---6------------|
+A|8--------8--------8--------8------------------------8--------8---8~-8-6-8-4-|
+E|----------------------------------------------------------------------------/
+
+----------------- Acordes -----------------
+A#m = X 1 3 3 2 1
+C#5 = X 4 6 6 X X
+D#5 = X 6 8 8 X X
+F#m = 2 4 4 2 2 2

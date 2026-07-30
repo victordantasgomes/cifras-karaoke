@@ -1,0 +1,96 @@
+@titulo: felicidade-instantanea
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Felicidade instantânea
+
+  intro.:
+
+  e|--------------------------0---0-----0----0-------0---------| 
+  B|--------------------------0---0-----0----0-------0---------| 
+  G|----7---------5-----------0---0-----0----0-------0---------|   
+  D|----7---------5---------4-----------7----5-----4----5-5-x--| 
+  A|----5---------3-------2-------5-----5----3---2------5-5-x--| 
+  D|------------------------------3---------------------3-3-x--| 
+
+   D              C
+   As palavras que ainda n foram ditas
+   B                  G
+   Podem esclarecer suas duvidas
+   D          C                  B
+   Você passou muito rápido por mim
+              G
+   E já eram 4:20
+
+   B        C    D       B    C        D
+   Não perco a esperança de ter mais uma chance
+   B                  C      D
+   Quero estar bem perto de vc
+
+   B               C         D
+   Quero e faço tudo pra te ter
+   C                    B
+   Mas só penso em esperar, talvez
+   C                    D      E
+   A felicidade instantânea volte com vc
+   C                    B
+   Mas só penso em esperar, talvez
+   C                    D      E
+   A felicidade instantânea volte com vc
+
+   (C-B) 2x
+  e|---------------------------------------------| 
+  B|---------------------------------------------| 
+  G|---9--9--9--9--9--9--9--9--9--9--9--9--9-----|   
+  D|---------------------------------------------| 
+  A|---7--7--7--7--7--7--7--7--7--7--7--7--7-----| 
+  D|---------------------------------------------| 
+
+  D  C              B                        C
+  Ola, sou eu que faço as canções pra você chorar
+   D     C        B                     C
+   De amor no verão as pessoas enlouquecem
+
+   Não posso ficar assim sem vc
+
+   B        C    D       B    C        D
+   Não perco a esperança de ter mais uma chance
+   B                  C      D
+   Quero estar bem perto de vc
+   B               C         D
+   Quero e faço tudo pra te ter
+   C                    B
+   Mas só penso em esperar, talvez
+   C                    D      E
+   A felicidade instantânea volte com vc
+
+   C                    B
+   Mas só penso em esperar, talvez
+   C                    D      E
+   A felicidade instantânea volte com vc
+
+  (C-B) 2x
+  e|---------------------------------------------| 
+  B|---------------------------------------------| 
+  G|---9--9--9--9--9--9--9--9--9--9--9--9--9-----|   
+  D|---------------------------------------------| 
+  A|---7--7--7--7--7--7--7--7--7--7--7--7--7-----| 
+  D|---------------------------------------------| 
+
+   volte com você
+                D  E  C
+   volte com você
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3

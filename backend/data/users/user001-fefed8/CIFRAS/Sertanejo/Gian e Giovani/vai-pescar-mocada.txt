@@ -1,0 +1,87 @@
+@titulo: vai-pescar-mocada
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Vai Pescar Moçada
+
+
+Introdução: B - F# - F# - B
+            B - B7 - E  - F# - B - F#
+
+
+ B                                          F#
+Já pagou o que devia, tá tranquilho e sossegado,pega o
+
+                                      B
+Garrafao de pinga e o mala do teu cunhado, compra bastante
+
+         B7                    E
+Cigarro uns quinze ou vinte pacotes, que é
+
+                             F#               B       F#
+Pra dar pros seus amigos, aqueles bêbados serrotes...
+
+
+ B                                             F#
+A sua mulher já sabe da malandragem mas não reclama,
+
+
+                                                 B
+Quando você vai pescar ela pega o telefone e me chama,
+
+                          B7                             E
+Você pode pode jogar bola pode ir pescar fazer o que quiser,
+
+                              F#                        B    F#
+Quando você vai pra festa eu vou... Cuidarrrr da sua mulher
+
+
+(Refrão)
+
+ B            F#                B
+Vai pescar moçada, pescar na lagoa,
+
+                F#                                   B
+Vai e não se estressa não tenha pressa que eu tô na boa.
+
+             F#                 B
+Vai pescar moçada, pescar na lagoa,
+
+ B7              E                  F#            B
+Junta a traia e some que eu mato a fome da sua patroa.
+
+
+*(No fim da musica, o refrão sobe meio
+
+
+C             G                 C
+ Vai pescar moçada, pescar na lagoa,
+
+                G                                    C
+Vai e não se estressa não tenha pressa que eu tô na boa.
+
+              G                 C
+Vai pescar moçada, pescar na lagoa,
+
+ C7              F                  G             C
+Junta a traia e some que eu mato a fome da sua patroa
+
+ C7              F                  G             C     F - G - C
+Junta a traia e some que eu mato a fome da sua patroa
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

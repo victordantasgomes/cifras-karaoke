@@ -1,0 +1,100 @@
+@titulo: cama-vazia
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Cama Vazia
+
+Intr:B C#m F# B G#m C#m F# B E B
+
+         C#m        F#
+Mais uma vez meu coração
+  B
+volta pra ela
+         C#m         F#
+mais uma vez eu vou cair
+       B      F#M7 B7
+nos braços dela
+          E
+E essa saudade no meu peito
+       Em
+sem medida
+        B              D#m
+Eu procurei,não encontrei
+         G#m
+outra saida
+              C#m
+Não tem mais jeito,
+             F#
+ela é minha vida
+
+               B   F#M7 B7
+minha estrada,a saida
+ E
+Quando nosso coração
+      Em
+acende a chama
+     B            F#/A#
+Incendei o nosso corpo,
+   G#m
+a nossa cama
+     C#m       F#
+E ai vai,e ai vai até
+             B
+amanhecer o dia
+  B    C#M7 F#7
+E a....i vai,
+     C#M7     F#7
+e ai vai, sua boca
+          B
+em minha boca
+                    G#m
+O seu corpo no meu corpo
+                C#M7
+E a gente pega fogo,
+                    F#7
+nosso amor é muito louco
+                 B
+Não dá mais pra segurar
+       G#m
+Vou voltar
+             C#m
+pros braços dela
+                    F#
+Deixa quem quiser falar
+                      D#m
+Que se exploda essa cidade
+                   G#m
+Deixa o povo comentar
+                    C#m
+Que o amor acende a chama
+                     F#
+Sempre vai parar na cama
+                  B
+Não tem jeito de evitar
+  B     C#M7 F#7      C#M7
+e a....i vai,   e ai vai,
+  F#7            B B7+B6 B
+até amanhecer o dia
+  B      C#M7       F#7
+E a....i vai,  e ai vai,
+              B
+não tem mais cama vazia
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+D#m = X X 1 3 4 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#7 = 2 4 2 3 2 2
+G#m = 4 6 6 4 4 4

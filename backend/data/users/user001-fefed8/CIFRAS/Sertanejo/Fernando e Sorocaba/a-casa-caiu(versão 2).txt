@@ -1,0 +1,68 @@
+@titulo: a-casa-caiu(versão 2)
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - A Casa Caiu
+
+(intro 2x) D A G A
+
+(refrão)
+
+D                      A
+  Eu tenho mais o que fazer
+                    Bm
+Será que você me entende?
+G
+  Quero um amor decente
+D                      A
+  Nossa paixão desmoronou
+               Bm
+E só você não viu
+G
+  Sua casa caiu
+
+(primeira parte)
+
+       D         A
+Tô grilado, enganado
+
+G                       D
+  Por que armou isso comigo?
+              A
+Tô pirado, revoltado
+G                              D
+  Não vou ser mais seu ombro amigo
+
+ A                   Bm
+Para, para, para tá louca
+           G                         D
+Tá tudo errado ficar longe da minha boca
+ A              Bm
+Para sua casa caiu de vez
+    G
+Eu sei do seu passado
+   A
+Você faz tudo errado
+    G
+O amor ta acabado
+A
+Eu já to cansado
+G                  D
+  Da sua estupidez
+
+(refrão 2x)
+
+(repete tudo)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+G = 3 2 0 0 3 3

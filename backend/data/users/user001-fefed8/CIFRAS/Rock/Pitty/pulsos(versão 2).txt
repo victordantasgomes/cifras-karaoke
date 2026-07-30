@@ -1,0 +1,100 @@
+@titulo: pulsos(versão 2)
+@autor:
+@intérprete: Pitty
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Pitty - Pulsos
+
+Intro: (F5 C#5)
+
+F5                        C#5
+      E um dia se atreveu
+      A olhar pro alto
+F5                                  C#5
+      Tinha um céu mas não era azul
+F5                          C#5
+      No cansaço de tentar
+      quis desistir
+F5                           B E B
+      Se é coragem eu não sei
+
+
+Refrão: 2X
+C#5
+      Tenta achar que não é assim tão mal
+F5
+      Exercita a paciência
+C#5
+      Guarda os pulsos pro final
+
+F5
+      Saída de emergência
+
+(F5 C#5)
+
+Solo
+G|---16p12--14p11--7h11p7h11p7h11p12------16p12--14p11--7h11p7h11p7h11-9 
+
+
+G|---16p12--14p11--7h11p7h11p7h11p12------16p12--14p11--11^(12)^(11) 
+
+
+F5                    C#5
+      E um dia decidiu
+      quis terminar
+F5                          C#5
+      Só mais um gole e duas linhas horizontais
+F5                       C#5
+      Sem a menor pressa
+      Calculadamente
+F5                              B E B
+      Depois do erro a redenção
+
+
+Refrão: 2x
+C#5
+      Tenta achar que não é assim tão mal
+F5
+      Exercita a paciência
+C#5
+      Guarda os pulsos pro final
+F5
+      Saída de emergência
+
+
+riff
+
+G|---9--9--9--9--9--9--9--9| 
+B|-12-12-12-12-10-10-10-10-|várias vezes 
+
+Refrão: 2x
+C#5
+      Tenta achar que não é assim tão mal
+F5
+      Exercita a paciência
+C#5
+      Guarda os pulsos pro final
+F5
+      Saída de emergência
+
+
+C#5                        F5
+      Saída de emergência
+                           C#5
+      Saída de emergência
+                           F5
+      Saída de emergência
+
+(C#5 F5)
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C#5 = X 4 6 6 X X
+E = 0 2 2 1 0 0
+F5 = 1 3 3 X X X

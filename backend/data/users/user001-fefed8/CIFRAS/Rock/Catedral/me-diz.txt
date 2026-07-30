@@ -1,0 +1,57 @@
+@titulo: me-diz
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Me Diz
+
+Introdução: E A (2x) B
+E                  A
+ Toda novela tem final feliz
+E                   A
+ Todo desejo tem um simples gesto
+C#m                   A
+ Tudo que sinto em mim eu te confesso
+A       E/G# F#m B B7
+Dependo de você
+
+Toda verdade traz alguma dor
+Nem todo amor traz alegria a vida
+Mas não há vida bem vivida se amor sem perceber
+C#m7                   A
+Que é simples demais a razão do querer
+     A                E/G#
+e no mesmo momento a emoção
+                 F#m      B
+do que venho a saber fascina
+E                      A               C#m
+ Me diz aonde eu posso encontar esse amor
+
+                  A        B      E
+que eu vou proucurar seja aonde for
+
+acompanhamento para solo: E A E A C#m A E/G# F#m B
+
+Toda verdade traz alguma dor
+Nem todo amor traz alegria a vida
+Mas não há vida bem vivida se amor sem perceber
+C#m                          A
+ Que é simples demais qualquer um pode ter
+                      E/G#             F#m     B
+O amor vem de Deus e sem Ele nada pode ser a vida
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

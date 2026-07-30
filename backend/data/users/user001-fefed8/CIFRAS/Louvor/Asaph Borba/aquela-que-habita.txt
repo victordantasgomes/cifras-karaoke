@@ -1,0 +1,48 @@
+@titulo: aquela-que-habita
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Aquela Que Habita
+
+               D                 A  F#m                   Bm          F#m
+Aquele que habita          no esconderijo do altíssimo
+       G                                   A7 D  A4  A7
+Descansa a sombra do onipotente
+     D                A    F#m
+Aquele que habita ...
+
+          Bm                 F#m            Bm             F#m
+Pois Deus aos seus anjos dará ordens a seu respeito
+                          Em                    F#
+Para que eles guardem o seu caminho
+
+Bm           F#m            Bm             Am D7
+Eles o sustentarão nas suas mãos
+    G                        Em         F#4   F#
+Para não tropeçar n'alguma pedra
+
+      Bm           F#m            Bm             F#m
+E dirá ao Senhor:      Meu refúgio e meu baluarte
+          G                        Em         F#4   F#
+Meu Deus, Senhor e Pai      em quem confio
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#4 = 2 4 4 4 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

@@ -1,0 +1,118 @@
+@titulo: o-que-sobrou
+@autor:
+@intérprete: Fresno
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fresno - O Que Sobrou
+
+Intro: D G Em G = 2X
+
+(solo: thiago_guitarrista)        o "solo-base" toca durante a base acima
+              2X             |
+e||--------------------------|--------------------------------------------||
+B||--------------------------|--------------------------------------------||
+G||--12--11--14--14-14-14-14-|--12--11--7-7-7-7-7-7-----12--11--7--9--11--||
+D||--X---X---X---X--X--X--X--|--X---X---X-X-X-X-X-X-----X---X---X--X--X---||
+A||--10--9---12--12-12-12-12-|--10--9---5-5-5-5-5-5-----10--9---5--7--9---||
+E||--------------------------|--------------------------------------------||
+              2X             |
+
+              2X             |
+e||--------------------------|----------------------------------------------------------||
+B||--------------------------|----------------------------------------------------------||
+G||--12--11--14--14-14-14-14-|--12--11--7-7-7-7-7-7-----15-15-14-14-15-17-17-15-15-14~--||
+D||--X---X---X---X--X--X--X--|--X---X---X-X-X-X-X-X-------------------------------------||
+A||--10--9---12--12-12-12-12-|--10--9---5-5-5-5-5-5-------------------------------------||
+E||--------------------------|----------------------------------------------------------||
+              2X             |
+
+
+      D                   G
+quem dera eu pudesse navegar
+    Em      G
+no mar, ao vento
+      D                    G
+quem dera eu pudesse congelar
+   Em       G
+e parar no tempo
+
+Bm                  G                        D
+  quando o seu coração tinha lugar para nós dois
+                  Bb°                     Bm
+não quero nem lembrar do que aconteceu depois
+                  G                     D
+depois que eu deixei de ser o que você queria
+              Bbº
+não pude imaginar que isso aconteceria
+
+ D              G             Em
+não vou nunca mais poder ser teu
+                C             A          D
+eu não sou ninguém sem ter você ao lado meu
+D          G             Em
+ se me pergunto quem eu sou
+              C              A       D
+sou o que sobrou de quem um dia te amou
+
+" D G Em G" = 2X
+
+(solo: thiago_guitarrista)        o "solo base" toca durante a base acima
+              2X             |
+e||--------------------------|--------------------------------------------||
+B||--------------------------|--------------------------------------------||
+G||--12--11--14--14-14-14-14-|--12--11--7-7-7-7-7-7-----12--11--7--9--11--||
+D||--X---X---X---X--X--X--X--|--X---X---X-X-X-X-X-X-----X---X---X--X--X---||
+A||--10--9---12--12-12-12-12-|--10--9---5-5-5-5-5-5-----10--9---5--7--9---||
+E||--------------------------|--------------------------------------------||
+              2X             |
+
+              2X             |
+e||--------------------------|----------------------------------------------------------||
+B||--------------------------|----------------------------------------------------------||
+G||--12--11--14--14-14-14-14-|--12--11--7-7-7-7-7-7-----15-15-14-14-15-17-17-15-15-14~--||
+D||--X---X---X---X--X--X--X--|--X---X---X-X-X-X-X-X-------------------------------------||
+A||--10--9---12--12-12-12-12-|--10--9---5-5-5-5-5-5-------------------------------------||
+E||--------------------------|----------------------------------------------------------||
+              2X             |
+
+      D                     G
+quem dera eu pudesse rebobinar
+   Em       G
+o filme da vida
+      D                     G
+quem dera eu pudesse encontrar
+     Em       G
+teus olhos, saída
+
+Bm                   G                         D
+  me lembro que teu corpo era uma extensão do meu
+                Bb°                       Bm
+me lembro que havia amor atrás dos olhos teus
+Bm                   G                  D
+  quando eu cantava serenatas com rosas na mão
+                     Bbº
+no tempo que eu não sabia o que era solidão
+
+ D              G             Em
+não vou nunca mais poder ser teu
+                C             A          D
+eu não sou ninguém sem ter você ao lado meu
+D          G             Em
+ se me pergunto quem eu sou
+              C              A       D
+sou o que sobrou de quem um dia te amou
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb° = X 1 2 0 2 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

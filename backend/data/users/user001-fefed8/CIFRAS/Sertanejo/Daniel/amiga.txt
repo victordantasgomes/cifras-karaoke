@@ -1,0 +1,95 @@
+@titulo: amiga
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Amiga
+
+Introdução: D A D G Bm F#m G D Em G D G
+
+O solo é feito nas cordas A e B simultaneamente, como mostro no tab.
+
+E|---------------------------------3--0-----------------------
+B|-3-5-7-5-3--12--12-14-16-17-16---3--2---7--9-10-12-14-15----
+G|---------------------------------0--2-----------------------
+D|---------------------------------0--2-----------------------
+A|-5-7-9-7-5--10--10-12-14-15-14---2--0---9-10-12-14-16-17----
+E|---------------------------------3--X-----------------------
+
+E|------------------------------------------------------------
+B|-15-14-12-10---8-10-12-10--8-10--14-15--8--3-5--8-7-5-3---8-
+G|------------------------------------------------------------
+D|------------------------------------------------------------
+A|-17-16-14-12--10-12-14-12-10-12--16-17-10--5-7-10-9-7-5--10-
+E|------------------------------------------------------------
+
+
+D                    G
+Você não aceita que eu
+
+              D   G
+Te chame de amor
+D                           D9
+Diz que não sente nada por mim
+             A
+Pra eu entender
+G
+Que é coisa da minha cabeça
+              D
+Que é tudo ilusão
+          Bm             A
+Mas na madrugada, na solidão,
+          G                 D  G
+Liga me dizendo preciso te ver
+D
+E quando me encontra
+G                     D   G
+Seus olhos brilham demais
+D                          D9
+Incrível, mas sinto que em mim
+             A
+Encontras a paz
+G
+Por mais que você queira ser
+             D
+Só a minha amiga,
+              Bm
+Seus olhos te traem,
+                A
+Aos poucos te obrigam
+      G         A           D  G
+A admitir que existe algo mais
+
+D
+Amiga não beija assim
+    A
+Me abraçando me envolvendo
+
+Amiga não fica ofegante
+    G               D   G
+Amiga não fica tremendo
+D
+Amiga não fica boba,
+D7                  G
+Quando recebe uma flor,
+                   D
+Amiga não é desse jeito
+ G         A    D G D    INTRO
+Amiga não faz amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

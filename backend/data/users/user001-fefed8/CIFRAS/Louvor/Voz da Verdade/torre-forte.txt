@@ -1,0 +1,53 @@
+@titulo: torre-forte
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Torre Forte
+
+Intro: Am-G-F-G
+       Am-G-F-E
+
+Am                                G
+Jesus é a torre forte de um alto monte,
+Dm                 Am
+Jesus é a agua a fonte...
+                  G
+A fonte viva é o céu,
+Dm                                   Am  (Am-G-F)
+A agua está caindo, já foi rasgado o véu
+
+        F          G    C        Am   (Am-G-F)
+        Jesus é a vida em abundancia,
+        F                             E
+        Ele é o tesouro é a maior esperança...
+F#m                  C#m
+Torre Forte que ilumina-me
+D                    A
+Torre Forte que examina-me
+D                    A
+Torre Forte que proteja-me
+
+      G          Am
+Até o fim, até o fim
+
+FINAL: Am-G-F-G
+       Am-G-F-E
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

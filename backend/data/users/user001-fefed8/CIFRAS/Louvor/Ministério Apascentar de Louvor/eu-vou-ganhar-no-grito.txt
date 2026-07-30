@@ -1,0 +1,60 @@
+@titulo: eu-vou-ganhar-no-grito
+@autor:
+@intérprete: Ministério Apascentar de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Apascentar de Louvor (Toque No Altar) - Eu Vou Ganhar No Grito
+
+(intro) A - (F)
+
+A                     A4
+  Os muros da cidade hoje não me impedirão
+F#m
+  Vou partir pra luta e não vou recuar
+       D         A/C#
+  A vergonha se dobrará
+          Bm                  E
+  Ninguém limita o que posso sonhar
+           G           D/F#    E
+  Ninguém limita o que posso sonhar
+
+A                        A4
+  Ao som da minha voz os inimigos tremerão
+F#m
+  Mas esta terra é minha e não vou me calar
+            D         A/C#
+  Na minha frente está o Senhor
+           Bm        E
+  Chegou a hora de gritar
+
+
+(refrão)
+B      F#   G#m      E    (segura em B)
+   Eu vou ganhar no grito
+B      F#   G#m      E    (segura em B)
+   Eu vou ganhar no grito
+B      F#   G#m      E    (segura em B)
+   Eu vou ganhar no grito
+B      F#   G#m      E    (segura em B)
+   Eu vou ganhar no grito
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,111 @@
+@titulo: ha-tempos
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - Há Tempos
+
+[Intro] D  Am7  D  G
+        D  Am7  D  G
+
+   D
+E|---5-----3-----2-----3-2------------------|
+B|-----3-----3-----3-------3----------------|
+G|-------2-----2-----2-------2--------------|
+D|-0----------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+   Am7
+E|---3-----3-----3-----3-----3--------------|
+B|-----1-----1-----1-------1---1------------|
+G|-------0-----0-----0----------------------|
+D|------------------------------------------|
+A|-0----------------------------------------|
+E|------------------------------------------|
+
+   D
+E|---5-----3-----2-----3-2------------------|
+B|-----3-----3-----3-------3----------------|
+G|-------2-----2-----2-------2--------------|
+D|-0----------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+
+   G     
+E|---3-----3---------------3----------------|
+B|-----3-----3-----------3----3-------------|
+G|-5-----5-----5------4---------4-----------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Primeira Parte]
+
+D              Am7                  D              Am7
+  Parece cocaína, mas é só tristeza, talvez tua cidade
+           D                     Am7
+ Muitos temores nascem do cansaço e da solidão
+ D            Am7
+  descompasso, desperdício
+     G                      Em
+ Herdeiros são agora da virtude que perdemos
+ D               Am7               D              Am7
+  Há tempos tive um sonho, não me lembro, não me lembro
+
+ F                     C   F                       C
+  Tua tristeza é tão exata   e hoje o dia é tão bonito
+ D                  Am7  D                       G
+  Já estamos acostumados   a não termos mais nem isso
+
+     D              Am7           D            Am7
+ Os sonhos vêm, os sonhos vão, o resto é imperfeito
+     D                   Am7
+ Disseste que se tua voz
+                  D                    Am7
+ Tivesse força igual à imensa dor que sentes
+
+       G                  Em
+ Teu grito acordaria não só a tua casa
+        D                Am7
+ Mas a vizinhança inteira
+ D             Am7
+  E há tempos nem os santos
+
+[Segunda Parte]
+
+  F                C
+ Têm ao certo a medida da maldade
+       F                          C
+ E há tempos são os jovens que adoecem
+       F                       C
+ E há tempos o encanto está ausente
+                       F
+ E há ferrugem nos sorrisos
+                           C
+ E só o acaso estende os braços
+                       A
+ A quem procura abrigo e proteção
+
+       D                 G
+ Meu amor, disciplina é liberdade
+ D             G        D               G
+  Compaixão é fortaleza, ter bondade é ter coragem
+        D                      G                D
+ Lá em casa tem um poço, mas a água é muito limpa
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

@@ -1,0 +1,63 @@
+@titulo: tudo-bem
+@autor:
+@intérprete: KLB
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+KLB - Tudo Bem
+
+Intr: A D Bm E (3x) 
+     (A F G A)
+
+A         D
+Já não dá mais
+    Bm           E           A   D
+Pra ver a nossa história acabar assim
+   Bm            E           A     D
+Eu tenho que aceitar que chegou ao fim
+     Bm         E           A D Bm E
+Que, de repente tudo terminou
+      A   D
+Agora faz frio
+Bm            E        A    D
+Dentro do meu coração, vazio
+Bm               E
+Que te deu tanto amor
+        A     D
+Mais você nem viu
+Bm         E         A     A7
+Na verdade nunca deu valor
+     D       E       A A4 A7
+Mais eu não vou deixar
+D      E        A     A4    A7
+A solidão machucar outra vez
+D      E            F#m
+Vê se entende o que você me fez
+    G                    E      52 54 55
+Não é assim tão fácil de apagar
+
+Refrão
+A          D                Bm        E
+Vai ficar(vai ficar) tudo bem (tudo bem)
+      A          D         Bm          E
+Deixa assim como está vai pintar outro alguém
+      A           D         Bm       E
+Outro amor (outro amor) uma nova paixão
+    D       E       A
+Alegria pro meu coração
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

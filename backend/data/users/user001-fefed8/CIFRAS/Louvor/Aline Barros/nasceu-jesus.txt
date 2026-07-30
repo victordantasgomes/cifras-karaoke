@@ -1,0 +1,78 @@
+@titulo: nasceu-jesus
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Nasceu Jesus
+
+[Intro]  C  C#°  G  D/F#  Em  Am  D
+
+G               C               G  C G
+Tudo começou com Maria e José
+C                 C#°
+Num lugar longe daqui
+                   D
+Chamando Nazaré
+C                    C#°
+E Deus mandou para Maria
+                G  D/F#  Em
+Um aviso pelo anjo Gabriel
+ A7
+Que ela então daria à luz
+                     D C G/B Am7
+A um ser de lá do céu
+G                       C
+Tiveram que fugir de Herodes
+         G C G
+O rei da Judeia
+ C                C#°
+Maria então foi conceber
+
+                D
+Seu filho em Belém
+
+C               Cm7
+No céu apareceram anjos
+             G  D/F# Em
+E uma estrela de intensa luz
+ Am             D          E4 E
+Porque nasceu Jesus
+Am G/B C D G    D
+Porque nasceu Jesus
+G                 B7
+Glória a Deus lá nas alturas
+Em              G7
+Paz na Terra
+C               D               Bm7 D7
+Aos homens de boa vontade
+G                       B7
+Glória a Deus lá nas alturas
+Em                      G7
+Se cumpriram as escrituras
+C               D       G       (C C#° G D/F# Em Am D)
+Porque nasceu Jesus
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#° = X 4 5 3 5 3
+Cm7 = X 3 5 3 4 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

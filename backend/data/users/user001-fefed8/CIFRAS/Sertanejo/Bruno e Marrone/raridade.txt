@@ -1,0 +1,105 @@
+@titulo: raridade
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Raridade
+
+Intr.:   E  B   A   D/A - A  E
+
+                F#m     A
+Basta olhar pra mim
+                E  A/E - E
+Pra enxergar você
+            F#m  E/G#
+Um amor sem fim
+A            E         A/E - E
+Tudo certo, tudo a ver
+           B
+Nem me imagino
+             A
+Ser de novo só
+               E
+Deus me livre disso
+             F#m         E/G#
+Eu, você, o amor e a paz
+  A                           E
+Ah! É bom demais, ser feliz é isso
+E                                              F#m
+Tá na pele, tá no beijo, tá no jeito, tá no brilho do olhar
+
+B
+Tudo com você é mais bonito, mais gostoso como é
+ E          A/E - E
+Bom te amar
+E                                           F#m
+Quero todo dia, toda hora, toda vida seu amor pra mim
+B
+Encontrei um sonho de verdade, é raridade
+        E       B A  D/A - A  E   B   D - A - E
+Tanto amor assim
+                F#m     A
+Basta olhar pra mim
+               E  A/E - E
+Pra enxergar você
+            F#m  E/G#
+Um amor sem fim
+  A          E        A/E - E
+Tudo certo, tudo a ver
+           B
+Nem me imagino
+            A
+Ser de novo só
+               E     A - F#m - E
+Deus me livre disso
+             F#m         E/G#
+Eu, você, o amor e a paz
+  A                           E      A - E/G# - F#m - E
+Ah! É bom demais, ser feliz é isso
+E                                              F#m
+Tá na pele, tá no beijo, tá no jeito, tá no brilho do olhar
+B
+Tudo com você é mais bonito, mais gostoso como é
+ E          A - E/G# - F#m - E
+Bom te amar
+  E                                        F#m
+Quero todo dia, toda hora, toda vida seu amor pra mim
+B
+Encontrei um sonho de verdade, é raridade
+        E        E - F#m - E/G# - A - B - C - F
+Tanto amor assim
+F                                              Gm
+Tá na pele, tá no beijo, tá no jeito, tá no brilho do olhar
+C
+Tudo com você é mais bonito, mais gostoso como é
+ F          Bb - F/A - Gm - F
+Bom te amar
+                                           Gm
+Quero todo dia, toda hora, toda vida seu amor pra mim
+C
+Encontrei um sonho de verdade, é raridade
+        Bb       C# Eb  F  Bb - F/A - Gm - F
+Tanto amor assim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/E = 0 X 2 2 2 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Eb = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F/A = 5 X 3 5 6 X
+Gm = 3 5 5 3 3 3

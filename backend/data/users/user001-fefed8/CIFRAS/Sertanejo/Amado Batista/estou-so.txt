@@ -1,0 +1,95 @@
+@titulo: estou-so
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Estou Só
+
+(intro) E  B7  E  B7  E  B7
+
+        E
+ Estou só
+ Com um nó na garganta
+ Sofrendo bastante
+               B7
+ Pensando em você
+        A
+ Estou só
+ Com o peito doente vazio
+            B7
+ Chamando você
+        E
+ E é você
+ É você que foi embora
+ Dizendo me adora
+                  B7
+ Mas fiquei sem você
+        A
+ Não entendo
+ Não entendo esse amor
+ Que morrendo de amor
+             B7
+ Não pode ficar
+    E
+ Parece...
+ Parece que o amor é assim
+               E7
+ Tem que ser ruim
+                    A
+ Pra sentir que se ama
+ Pois algo tão belo
+ Tão lindo e singelo
+ F#7              B7
+    Não pode ter fim
+  E
+ Não...
+ Não eu não posso aceitar
+                    E7
+ Que o amor seja assim
+                 A
+ Pois estou te amando
+ Peço que não me esqueça
+            F#7
+ Não desapareça
+                  B7
+ Não estou bem assim
+        E   B7  E  B7  E  B7
+ Estou só...
+    E
+ Parece...
+ Parece que o amor é assim
+               E7
+ Tem que ser ruim
+                    A
+ Pra sentir que se ama
+ Pois algo tão belo
+ Tão lindo e singelo
+ F#7              B7
+    Não pode ter fim
+  E
+ Não...
+ Não eu não posso aceitar
+                    E7
+ Que o amor seja assim
+                 A
+ Pois estou te amando
+ Peço que não me esqueça
+            F#7
+ Não desapareça
+                  B7
+ Não estou bem assim
+        E
+ Estou só.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#7 = 2 4 2 3 2 2

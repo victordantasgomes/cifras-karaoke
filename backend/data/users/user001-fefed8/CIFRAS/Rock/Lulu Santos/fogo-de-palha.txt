@@ -1,0 +1,81 @@
+@titulo: fogo-de-palha
+@autor:
+@intérprete: Lulu Santos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Lulu Santos - Fogo de Palha
+
+ Intro: Am7 B7/5+ Em7 E7 Am7 C/D
+
+ [- 1a. parte
+ Am7
+ Bem que eu achei
+              C/D
+ bem que eu achei
+           D7/9- G7+
+ Que era artificial
+         E7/9-  E7
+ Fogo de palha
+ Am7
+ Bem que eu notei
+             C/D
+ bem que eu notei
+ [-
+         D7/9-     G7+
+ Que era só' encenação
+        Bm7/5-          E7
+ Ainda assim acreditei
+
+
+ [-- 2a. parte
+ Am7         Bm7
+ Mas não faz mal
+ Cm7         Bm7
+ Nada e' só' ruim
+ Am7    Bm7          C/D
+ Vem o refrão da canção na hora
+ Am7      B7         Em7
+ São duas casas totalmente
+       E7
+ separadas
+ Am7    B7/5+     Em7   E7
+ A do desejo e da razão
+ Am7    B7      Em7
+ E se revezam quase
+     E7
+ religiosamente
+ Am7        B7/5+         Em7
+ tal qual a luz e a escuridão
+ [--
+
+ Repete 1a. parte
+        D7/9-           G7+
+ Que as balas eram de festim
+        E7/9-          E7
+ Ainda assim machucou
+
+ Repete 2a. parte
+ Solo Am7 C/D G7+ E7/9- E7
+ Repete 2a. parte
+ Solo
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+B7/5+ = X 2 X 2 4 3
+Bm7 = X 2 4 2 3 2
+Bm7/5- = X 2 3 2 3 X
+C/D = X X 0 0 1 0
+Cm7 = X 3 5 3 4 3
+D7/9- = X 5 4 5 4 X
+E7 = 0 2 2 1 3 0
+E7/9- = X X 2 1 3 1
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G7+ = 3 X 4 4 3 X

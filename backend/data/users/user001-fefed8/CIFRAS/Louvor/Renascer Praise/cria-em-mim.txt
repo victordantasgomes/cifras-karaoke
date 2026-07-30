@@ -1,0 +1,127 @@
+@titulo: cria-em-mim
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Cria Em Mim
+
+[Intro] E  A
+        E  A/E
+
+[Solo]
+
+E|-----------4--------------------|
+B|-----5-5-5----------------------|
+G|-------------6------------------| (4x)
+D|--------------------------------|
+A|--------------------------------|
+E|--------------------------------|
+
+   E                   B/E                A
+Levanto minha voz não posso me calar, preciso do Teu poder
+   E                    B/E               A
+Dependo desse amor sem Ti não sei viver, ressuscita-me
+  F#m7         G#m7
+Quero de novo Te sentir
+  A                  B
+Queimando como a primeira vez
+  F#m7             G#m7
+Cheio do Espirito Te adorar
+
+    A9                 B         E
+Me limpa restaura me aceita, Senhor
+
+E|----------7-4-------------------|
+B|----4-5-7-----------------------|
+G|--------------------------------|
+D|--------------------------------|
+A|--------------------------------|
+E|--------------------------------|
+
+E         B/D#       A    F#m7            E
+ Cria em mim um coração que seja o Teu lugar
+            B/D#       A       F#m7            E    ( G  F#m )
+Transforma-me faça de mim, um hino pro Teu louvor
+
+E|--------------------------------|
+B|--------------------------------|
+G|--------------------------------|
+D|-------2-4-2--------------------|
+A|---2-4--------------------------|
+E|--------------------------------|
+
+( B  C#  E  F#  E )
+
+   E                   B/E                A
+Levanto minha voz não posso me calar, preciso do Teu poder
+   E                    B/E               A
+Dependo desse amor sem Ti não sei viver, ressuscita-me
+  F#m7         G#m7
+Quero de novo Te sentir
+  A                  B
+Queimando como a primeira vez
+  F#m7             G#m7
+Cheio do Espirito Te adorar
+    A9                 B         E
+Me limpa restaura me aceita, Senhor
+
+E         B/D#       A    F#m7            E
+ Cria em mim um coração que seja o Teu lugar
+            B/D#       A       F#m7            E    ( G  F#m )
+Transforma-me faça de mim, um hino pro Teu louvor
+E         B/D#       A    F#m7            E
+ Cria em mim um coração que seja o Teu lugar
+            B/D#       A       F#m7            E    ( G  F#m )
+Transforma-me faça de mim, um hino pro Teu louvor
+
+( E  B/D#  A/C#  E )
+( E  B/D#  A/C#  E )
+
+E|------7-4-----7-4-----5-4------------------|
+B|----5-----7-5-----7-------5----------------|
+G|-------------------------------------------|
+D|-------------------------------------------|
+A|-------------------------------------------|
+E|-------------------------------------------|
+
+E         C D E          G  A    E
+ Cria em mim    cria em mim, Senhor
+         C           C/E          D  E
+Cria em mim, um coração igual ao Teu
+E         B          A    F#m7            E     ( G  F#m )
+ Cria em mim um coração que seja o Teu lugar
+
+C#m7          Bm7        A      F#m7          E  D  C
+  Transforma-me faça de mim, hino pro Teu louvor
+
+                 D   E  D   G     A         E  D  C
+Hino pro Teu louvor,       Hino pro Teu louvor
+                 E   D  C  E
+Hino pro Teu louvor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B/E = X 7 9 8 7 7
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#m7 = X 4 6 4 5 4
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G#m7 = 4 X 4 4 4 X

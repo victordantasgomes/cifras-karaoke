@@ -1,0 +1,87 @@
+@titulo: sem-saida
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Sem Saída
+
+Intro: Am G F E (Riff - 4x)
+
+  Am          G
+A vida é um jogo
+  F          E
+Você quer jogar
+    Am           G
+Perguntas e respostas
+   F        E
+O medo de amar
+    Am        G
+Verdades e mentiras
+   F        E
+Desejos plurais
+    Am         G
+Num tabuleiro vivo
+     F     E      Am  G F E
+não somos tão iguais
+  Am          G
+A vida é um jogo
+   G       E
+o sim e o não
+
+   Am          G
+Vitórias e derrotas
+   F        E
+razão e emoção
+   Am          G
+O certo e o errado
+            E
+O que você quer?
+  Am            G
+Palavras são palavras
+  F      E      Am G F E
+Coragem é ter fé
+       C G     Dm         F
+Vou levar a certeza no olhar
+    C G         Dm        F
+Mostrar que eu posso ganhar
+    C G      Dm       F          C G Dm F
+Deixar você sem decifrar, sem saída
+       C G      Dm         F
+Vou criar um caminho a seguir
+     C G        Dm        F
+Mostrar que eu vou conseguir
+   C  G      Dm       F          C G Dm F
+Deixar você sem resistir, sem saída
+
+Riff:
+
+e|--5-------7-------8------7-------|
+B|----5(x5)--5(5x)--5(5x)--5(5x)---|
+
+Pequenos Riffs do Baixo (Intervalo da 7ª a 1ª nota):
+
+(1ª Vez)
+G|-4h-5---4-------------|
+D|----------7--5--7-----|
+
+(2ª Vez)
+G|-4h-5--4---7---7s-9---|
+D|----------------------|
+
+(3ª Vez)
+G|-4h-5-4----------5-----|
+D|----------7-5-7-----7--|
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

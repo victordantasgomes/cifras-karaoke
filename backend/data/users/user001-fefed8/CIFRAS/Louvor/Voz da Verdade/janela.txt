@@ -1,0 +1,59 @@
+@titulo: janela
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - Janela
+
+INTRODUÇÃO: G C D C G G Am G C G D Em
+
+       G                     Bm
+Você olha pela janela, e não vê o horizonte
+     C             Am       G
+E nenhum sinal de vida pra você
+ G                           Bm
+Você olha pela janela, e não vê o azul do céu
+     C              Am           G   C G
+E o sol não brilha mais no seu olhar
+ G           C  G         C   F C
+Feche os olhos, pense em Deus
+       Am          D           G C G
+E uma luz virá correndo pra você
+ G          C  G     C  F C
+Abra os olhos, vê Jesus
+      Am             D           G  F
+No horizonte já se ergue a Sua Cruz
+ A#
+Sinal de vida
+ D#      Gm
+Lá vem Jesus
+
+ F         A#
+Chegando perto
+      D           Gm  F
+Da janela da tua alma
+            A#
+E a doce calma
+       D         Gm
+Que invade o coração
+       A#          Cm          A#
+Muda tudo, muda a vida pra melhor
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

@@ -1,0 +1,84 @@
+@titulo: apenas-um-toque
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Apenas Um Toque
+
+[Intro] Dm C Dm Dm Em5-/7 F7M Cm7 F4/7/9 Bb Eb7/9
+
+    F
+Com olhar apaixonado,
+       Dm7
+Quero te dizer palavras
+                 Gm7              Am7
+Que expressam a vontade do meu coração
+         Bbm6        C4  C
+A intimidade na adoração
+      F9
+Como filho eu quero abraço
+      Dm7
+Me envolver em tua graça
+           Gm7               Am7
+Não quero tocar só na tua orla
+          Bbm6               C4/7/9
+Eu quero tocar onde um filho toca
+
+       F9        F4  F
+Apenas um toque
+
+           Dm7
+Apenas um toque no seu coração
+         Gm7     Gm  F/A
+As lagrimas rolam
+     BbM7 B7/5b Bbm6        C9
+As mãos se levantam em adoração
+       F9
+Apenas um toque
+           Dm7
+Apenas um toque no seu coração
+              Gm7   Gm F/A
+A igreja se prosta
+
+     BbM7 B7/5b  Bbm6       C9
+A igreja se rende em adoração
+
+[Dm C Dm Dm Em5-/7 F7M Cm7 F4/7/9 Bb Eb7/9]
+
+           F
+Apenas um toque
+    Dm7
+Um toque
+    Gm7
+Um toque
+    Bbm6
+Um toque
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+B7/5b = X 2 3 2 3 X
+Bb = X 1 3 3 3 1
+Bbm6 = 6 X 5 6 6 X
+C = X 3 2 0 1 0
+C4 = X 3 3 0 1 X
+C4/7/9 = X 3 3 3 3 3
+C9 = X 3 5 5 3 3
+Cm7 = X 3 5 3 4 3
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Eb7/9 = X 6 5 6 6 X
+Em5-/7 = X X 2 3 3 3
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F4 = 1 3 3 3 1 1
+F4/7/9 = X X 3 3 4 3
+F7M = 1 X 2 2 1 X
+F9 = 1 3 5 2 1 1
+Gm = 3 5 5 3 3 3
+Gm7 = 3 X 3 3 3 X

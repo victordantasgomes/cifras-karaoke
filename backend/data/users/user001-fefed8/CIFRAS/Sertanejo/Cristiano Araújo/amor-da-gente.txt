@@ -1,0 +1,77 @@
+@titulo: amor-da-gente
+@autor:
+@intérprete: Cristiano Araújo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Cristiano Araújo - Amor da Gente
+
+INTRO: C#m A E B
+
+Parte 1:
+
+C#m                   B                          A9
+Tô com saudades dessa boca, dessa cara linda me pedindo fica
+C#m                   B                          A9
+Tô com saudade do teu corpo, do teu colo, de você na minha vida
+
+Parte 2:
+
+C#m                   B                          A9
+Eu to querendo teu sorriso, os teus olhos pra encher de luz meu mundo
+C#m                   B                          A9
+Eu to querendo teu carinho, teu sossego, eu to querendo ficar mudo
+
+            F#m           A9              C#m
+Tô querendo ouvir você dizer que sente saudade
+            F#m           A9               B
+Que não me esqueceu, e que também ta com vontade
+
+
+Refrão:
+
+E
+Daquele amor da gente, inconsequente, descarado,
+C#m
+Com jeito carente sem vergonha e safado
+A                      F#m
+Aquela loucura sem frescura e sem pudor
+B
+Aquele nosso jeito tenso de fazer amor
+E
+Daquele amor da gente, inconsequente, descarado,
+C#m
+Com jeito carente sem vergonha e safado
+F#m                      A9
+Aquela loucura sem frescura e sem pudor
+B                                      E
+Aquele nosso jeito tenso de fazer amor
+
+(Repete Parte 2)
+(Repete Refrão)(*Até no segundo "jeito tenso" depois sobe um tom)
+
+F#
+Daquele amor da gente, consequente, descarado,
+D#m
+Com jeito carente sem vergonha e safado
+B                      G#m
+Aquela loucura sem frescura e sem pudor
+C#
+Aquele nosso jeito tenso de fazer amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+D#m = X X 1 3 4 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

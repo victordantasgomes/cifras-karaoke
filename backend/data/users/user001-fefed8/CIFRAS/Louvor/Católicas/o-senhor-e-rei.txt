@@ -1,0 +1,71 @@
+@titulo: o-senhor-e-rei
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - O Senhor É Rei
+
+   Em          G                  D                 Em
+E|------7--12------7--10--14/15----10----10----10-11-12----12-----|
+B|----8---------8---------------------10----10----------12----12--|
+G|--9-------------------------------------------------------------|
+D|----------------------------------------------------------------|
+A|----------------------------------------------------------------|
+E|----------------------------------------------------------------|
+
+Riff: Em  D  G
+
+Em              D9/F#  G                         D Eb°
+ O Senhor é Rei     ,  o Senhor é meu pastor e Rei
+Em              D9/F#  G                         D Eb°
+ O Senhor é Rei     ,  o Senhor é meu pastor e Rei
+Em                 D9/F#  G                      D         C          Em
+ O Senhor está no céu  ,   o Senhor está no mar,  na extensão do infinito
+Em                 D9/F#  G                      D        C           Em      D7      G
+ O senhor está no céu  ,   o Senhor esta no mar,  na extensão do infinito (onde ele está?)
+
+Refrão:
+           D          Eb° Em          C           D    (D9  D4)
+ Está no céu,  está no mar ,  na extensão do infinito
+
+G          D          Eb° Em          C           D
+ Está no céu,  está no mar ,  na extensão do infinito
+
+(passagem rápida)
+
+     D4 D D9  D  D9       rápido e pra baixo ↓
+E|--3--2--0--2--0----|
+B|--3--3--3--3--3----|
+G|--2--2--2--2--2----|
+D|-------------------|
+A|-------------------|
+E|-------------------|
+
+
+Em                 D9/F#  G                D           Eb°        Em
+  Quando eu vacilar    ,   eu não temerei,  pois o Senhor está comigo
+Em                 D9/F#  G                D           Eb°        Em     D7        G
+  Quando eu vacilar    ,   eu não temerei,  pois o Senhor está comigo (onde ele está?)
+
+Refrão:
+            D         Eb° Em          C          D    (D9  D4)
+ Está no céu,  está no mar ,  na extensão do infinito
+G          D           Eb° Em         C           D    (D9  D4)
+ Está no céu,  está no mar ,  na extensão do infinito          :
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D7 = X X 0 2 1 2
+D9 = X X 0 2 3 0
+D9/F# = 2 X 0 2 3 0
+Eb° = X X 1 2 1 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

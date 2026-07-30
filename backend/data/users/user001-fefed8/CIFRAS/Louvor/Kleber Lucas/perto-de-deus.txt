@@ -1,0 +1,116 @@
+@titulo: perto-de-deus
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Perto de Deus
+
+INT.: :: E : B/D# : A/C# : Am : F#m : E/G# : A : B C# D ::
+
+E                           B
+Venho a Ti, Senhor, estou cansado e ferido
+F#m7                    A6
+Quase desisti, mas segurei na Tua mão
+   E                        B
+No Teu esconderijo, a tempestade não me alcançou
+F#m7                   A6              E
+Guardei minha fé, e sobrevivi e sobrevivi
+
+
+B                  C#m7
+Oh, Deus,  que caminha pelo fogo
+B               C#m7      G#m7
+E o mar não consegue afogar Teus sonhos
+F#m7        Am6         E/G#     C#m7
+    A Tua destra sempre sustentará
+F#m7        Am6            E    B
+    Um coração fiel,    fiel
+
+
+
+E                       B/D#
+Perto de Deus sou muito mais
+C#m7       C#m/B      A      B
+Perto de Deus vou além
+E                 B/D#
+E não há nada e ninguém
+C#m7     C#m/B
+Que poderá
+     A          B           E     B
+Nos separar do Teu amor, Oh, Pai
+
+
+E                           B
+Venho a Ti, Senhor, estou cansado e ferido
+F#m7                    Am6
+Quase desisti, mas segurei na Tua mão
+
+
+:: E/B : B : G#m : A : F#m : G#m : Am6 : Am6 ::
+
+
+B                  C#m7
+Oh, Deus,  que caminha pelo fogo
+B               C#m7      G#m7
+E o mar não consegue afogar Teus sonhos
+F#m7        Am6         E/G#     C#m7
+    A Tua destra sempre sustentará
+F#m7        Am6            E    B
+    Um coração fiel,    fiel
+
+
+E                       B/D#
+Perto de Deus sou muito mais
+C#m7       C#m/B      A      B
+Perto de Deus vou além
+E                 B/D#
+E não há nada e ninguém
+C#m7       C#m/B
+Que poderá
+     A          B           E
+Nos separar do Teu amor, Oh, Pai
+
+
+::  C#m  B  A    B ::
+
+
+E                       B/D#
+Perto de Deus sou muito mais
+C#m7       C#m/B      A      B
+Perto de Deus vou além
+E                 B/D#
+E não há nada e ninguém
+C#m7       C#m/B
+Que poderá
+     A          B
+Nos separar do Teu amor, Oh, Pai
+
+
+Final: :: E : B/D# : C#m B : E ::
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A6 = 5 X 4 6 5 X
+Am = X 0 2 2 1 0
+Am6 = 5 X 4 5 5 X
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+C#m/B = 7 X 6 6 5 X
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G#m = 4 6 6 4 4 4
+G#m7 = 4 X 4 4 4 X

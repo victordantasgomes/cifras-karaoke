@@ -1,0 +1,59 @@
+@titulo: por-todo-lado
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Por Todo Lado
+
+Intro:A9 E/A  A4
+
+A9           E/A        A4
+Por onde eu for a Tua benção me seguirá,
+A9        E/A       A4
+Onde eu colocar as minhas mãos 
+
+prosperará,
+A9        E/A         A4
+A minha entrada e a minha saida bendita será
+ A9                   E/A. A4
+Pois, sobre mim, há uma promessa:
+D9/B  A9/F#   E/G#
+Prosperarei, transbordarei!
+A9       E/A       A4
+Os meus celeiros fartamente se encherão,
+A9       E/A         A4
+A minha casa terá sempre Tua provisão,
+A9     E/A        A4
+Onde eu puser a planta  dos meus pés, possuirei,
+A9     E/A         A4
+Pois, sobre mim, há uma promessa:
+D9/B A9/F#   E/G#
+Prosperarei, transbordarei...
+
+A9    E/G#      A9/F# D9
+Para direita, para esquerda, 
+A9   E/G#         A9/F#   D9
+Na minha frente e para trás!
+A9       E/G#    A9/F#  D9
+por todo lado sou abençoado
+A9   E/G#  A9/F#   D9
+Em tudo que eu faço,
+Sou abençoado!
+
+
+D9/B D7M/B B4 base arranjo Contr-baixo
+
+----------------- Acordes -----------------
+A4 = X 0 2 2 3 0
+A9 = X 0 2 2 0 0
+A9/F# = 2 X 2 2 0 0
+D9 = X X 0 2 3 0
+D9/B = X 2 0 2 3 0
+E/A = X 0 2 1 0 0
+E/G# = 4 X 2 4 5 X

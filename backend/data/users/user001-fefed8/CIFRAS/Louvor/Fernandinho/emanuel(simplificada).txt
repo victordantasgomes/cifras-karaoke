@@ -1,0 +1,47 @@
+@titulo: emanuel(simplificada)
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Emanuel
+
+E5             B5                   C#m5   A5
+Deixou a Sua glória para estar comigo
+E5              B5                 C#m5   A5
+Morreu numa cruz para estar comigo
+E5          B5                 C#m5   A5
+Venceu o diabo para estar comigo
+E          B                   E5 B5 D5 A5
+O véu se rasgou para estar comigo
+ E5
+Maravilhoso
+       B5
+Conselheiro
+              C#m5
+Deus forte
+             A5
+Príncipe da paz
+
+E5
+Emanuel
+    B5
+Emanuel
+
+     G#5  A5
+Emanuel
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+B = X 2 4 4 4 2
+B5 = X 2 4 4 X X
+C#m5 = X 4 6 6 5 4
+D5 = X 5 7 7 X X
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+G#5 = 4 6 6 X X X

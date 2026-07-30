@@ -1,0 +1,94 @@
+@titulo: on-the-way-home
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - On The Way Home
+
+Solo:
+E|-12-12-10-10-10-08-08-07-07-07-|
+B|-13-13-12-12-12-10-10-08-10-08-|
+
+/obs: O som desse arranjo é meio repicado escute a música e veja como é.
+
+
+Intr.: G  C*  G  C*
+
+        riff-1                             riff-2
+E|--------------------------|                
+A|-5-7----------------------|     B|-13-12-10-08-08-08---|            
+D|----5-7-------------------|     E|-12-10-08-07-07-07---|           
+G|-------4-4h5-4-----4------|                  
+B|---------------7-5--------|                
+E|--------------------------|                 
+
+
+   G
+When the dream came
+
+C*                  G                 C*  (riff-1)
+I held my breath with my eyes closed
+  G
+I went insane,
+           C*
+Like a smoke ring day
+    G               (riff-2)
+When the wind blows
+    C                 G
+Now I won't be back  till later on
+         C    G/B           Am  D      /Durante o Ré (D) ele faz isso: B|-3--------|
+If I do come back at all                                             E|--2-3-3s5-|
+
+But you know me,    and I miss you now.
+
+
+Solo: G  C*  G  C*
+
+
+  G
+In a strange game
+     C*                G      C*
+I saw myself as you knew me
+        G
+When the change came,
+           C*
+And you had a
+             G               (D) B|-3-3-3-3-|
+Chance to see through me       E|-3-2-3-2-|
+
+   C              G
+Though the other side is just the same                                   D|-5s7--7s9--9s11---|     
+
+      C    G/B               Am  D     /Invés da Nota Ré (D) ele faz isso: G|------------------|
+You can tell my dream is real                                            B|----7----8-----10-|  
+
+Because I love you,   can you see me now.
+
+
+Solo: G  C*  G  C*
+
+
+   C                  G
+Though we rush ahead to save our time
+       C     G/B          Am  D    /Durante o Ré (D) ele faz isso: B|-3--------|
+We are only what we feel                                         E|--2-3-3s5-|
+
+And I love you,   can you feel it now.
+
+
+C* (030033)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

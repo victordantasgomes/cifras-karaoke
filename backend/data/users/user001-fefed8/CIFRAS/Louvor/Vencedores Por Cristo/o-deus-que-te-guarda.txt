@@ -1,0 +1,75 @@
+@titulo: o-deus-que-te-guarda
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - O Deus Que Te Guarda
+
+Intro: D A/C# G/B D/A G D/F# A7 D
+
+D          Em       F#m
+Para os montes vou erguer 
+    G    A/G  D/F#
+Meu olhar, meu olhar 
+Bm    C    D    Em   A7/4 D
+Pois deus vem de lá me ajudar. 
+D       Em        F#m
+Meu socorro vem de deus 
+    G    A/G      D/F#
+Que criou terra e mar, 
+Bm     C D      Em A7/4  C#m E/D
+E ele sempre me vem ajudar. 
+ C#m          F#m
+O deus que te guarda 
+   Bm7  E7  A
+Não dormitará 
+  B/A     E/G#
+E nem vai deixar 
+ G°    F#7      B
+Que tu possas tropeçar. 
+E       F#m   E/G#  A B   C#m
+De dia o sol não te molestará 
+A7+     F#m   E/G#  A     B C#m
+E o medo à noite não te afligirá 
+   A7+           A/G
+O senhor vai guardar-te 
+              F#m
+Sempre, em teu caminhar, 
+B4/7    A/G   F#7 E/D
+Agora e para sempre 
+E
+amém!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+A7 = X 0 2 0 2 0
+A7+ = X 0 2 1 2 0
+A7/4 = X 0 2 0 3 0
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+B4/7 = X 2 4 2 5 2
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G° = 3 X 2 3 2 X

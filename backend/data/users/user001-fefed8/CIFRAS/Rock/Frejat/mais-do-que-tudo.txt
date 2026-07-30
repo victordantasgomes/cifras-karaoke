@@ -1,0 +1,98 @@
+@titulo: mais-do-que-tudo
+@autor:
+@intérprete: Frejat
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Frejat - Mais do Que Tudo
+
+[Intro] F#m  E  D  E
+        F#m  E  D  E
+
+ F#m                E
+Quero que ela seja linda
+ D               E
+Alta e use minissaia
+ F#m                  E
+Quero que ela pare o trânsito
+      D
+E provoque um maremoto na praia
+
+ F#m                   E
+Eu quero que ela fale línguas
+   D       E
+E seja viajada
+ F#m                   E
+Eu quero que ela tenha tudo
+         D
+E nunca ligue pra nada
+
+
+Bm              A
+Uma princesa na mesa
+F#m           E
+E uma fera na cama
+  Bm          A
+E mais do que tudo
+                 F#m         E
+Eu quero que ela diga que me ama
+
+( F#m  E  D  E  F#m  E  D )
+
+F#m                E
+Quero que ela use cores
+    D                     E
+E escolha sempre a mais bonita
+F#m       E
+Seja um harém numa só
+       D              E
+E será sempre a favorita
+
+ F#m
+Seja impossível
+     E
+Pros outros
+          D         E
+E sempre fácil pra mim
+ F#m                  E
+Que não queira compromisso
+     D
+Mas fique comigo até o fim
+
+Bm              A
+Uma princesa na mesa
+F#m           E
+E uma fera na cama
+  Bm          A
+E mais do que tudo
+                 F#m         E
+Eu quero que ela diga que me ama
+
+[Solo] F#m  G#m  A  B
+       F#m  G#m  A  B
+       F#m  G#m  A  B
+       F#m  G#m  A  Bb
+
+Bm              A
+Uma princesa na mesa
+F#m           E
+E uma fera na cama
+  Bm          A
+E mais do que tudo
+                 F#m         E
+Eu quero que ela diga que me ama
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

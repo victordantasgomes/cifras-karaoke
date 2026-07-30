@@ -1,0 +1,57 @@
+@titulo: bom-e-render-gracas
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Bom É Render Graças
+
+E        E7(4/9)   A/E
+Bom é render graças ao Senhor
+      E                   E7(4/9)   A/E
+E cantar louvores ao Teu nome, ó
+   E
+Altíssimo
+  A7M        G#m7  F#m7  A/B    E7(4/9)  E
+Anunciar de manhã Tua   misericórdia
+A7M        G#m7      F#m7   A/B    E7(4/9)  E
+E, durante as noites, Tua fidelidade
+  A7M(9)  D7M(9)   G7M(9)   C7M(9)  A/B  B7  E
+Ó Senhor,   como é bom te louvar
+
+E        E7(4/9)   A/E
+Pois me alegraste com os Teus
+   E
+Feitos
+E              E7(4/9)   A/E       E
+Exultarei nas obras das Tuas mãos
+
+A7M        G#m7        F#m7   A/B    
+Quão grandes, ó Senhor, são as Tuas
+E7(4/9)  E
+Obras!
+A7M        G#m7     F#m7   A/B    
+E Teus pensamentos, que profundos
+E7(4/9)  E
+São!
+A7M(9)  D7M(9)   G7M(9)   C7M(9)  A/B  B7  E
+Ó Senhor, como é bom te louvar
+
+----------------- Acordes -----------------
+A/B = X 2 2 2 2 X
+A/E = 0 X 2 2 2 0
+A7M = X 0 2 1 2 0
+A7M(9) = X 0 2 1 0 0
+B7 = X 2 1 2 0 2
+C7M(9) = X 3 2 4 3 X
+D7M(9) = X 5 4 6 5 X
+E = 0 2 2 1 0 0
+E7(4/9) = X X 2 2 3 2
+F#m7 = 2 X 2 2 2 X
+G#m7 = 4 X 4 4 4 X
+G7M(9) = 3 2 4 2 X X

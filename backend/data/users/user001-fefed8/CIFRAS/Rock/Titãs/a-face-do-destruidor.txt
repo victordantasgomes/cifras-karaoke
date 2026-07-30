@@ -1,0 +1,39 @@
+@titulo: a-face-do-destruidor
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - A Face do Destruidor
+
+    F#            A            F#
+o nome do destruidor é destruidor
+              A
+é o nome do destruidor
+   F#          C                  F#         A
+o nome do construtor é o nome do construtor
+           F#           A
+a face do construtor
+
+o que ele constrói
+
+a obra do construtor
+
+o destruidor não pode mais destruir porque o construtor não constrói
+E
+o construtor não constrói porque não pode construir
+   F#             C      F#    C
+a face do destruidor
+
+-repete tudo de novo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C = X 3 2 0 1 0
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2

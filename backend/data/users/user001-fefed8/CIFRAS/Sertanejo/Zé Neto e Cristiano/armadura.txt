@@ -1,0 +1,163 @@
+@titulo: armadura
+@autor:
+@intérprete: Zé Neto e Cristiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zé Neto e Cristiano - Armadura
+
+[Intro] C  D  Em7
+        C  D  Em7
+
+   C              D
+E|------------------------------------------|
+B|---5---5----------7---7-------------------|
+G|------------------------------------------|
+D|-------5--------------7-------------------|
+A|-3---x---x--3-3/5---x---x-----------------|
+E|------------------------------------------|
+
+       Em7
+E|------------------------------------------|
+B|-------8h10p8---8----8h10p8---8-----------|
+G|------------------------------------------|
+D|------------------------------------------|
+A|-5-5/7--------x----7--------x-------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|---8h10p8---8----8h10p8---8---------------|
+G|------------------------------------------|
+D|------------------------------------------|
+A|-7--------x----7--------x-----------------|
+E|------------------------------------------|
+
+
+   C              D
+E|------------------------------------------|
+B|---5---5----------7---7-------------------|
+G|------------------------------------------|
+D|-------5--------------7-------------------|
+A|-3---x---x--3-3/5---x---x-----------------|
+E|------------------------------------------|
+
+       Em7
+E|------------------------------------------|
+B|-------8h10p8---8----8h10p8---8-----------|
+G|------------------------------------------|
+D|------------------------------------------|
+A|-5-5/7--------x----7--------x-------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|---8h10p8---8--8-8-8----------------------|
+G|------------------------------------------|
+D|------------------------------------------|
+A|-7--------x----7--------------------------|
+E|------------------------------------------|
+
+[Primeira Parte]
+
+     C              D
+Ela tem serenidade no olhar
+ Em7
+De quem sabe que me ganha
+Com um sorriso
+       C        D                 Em7
+Ou com um abraço sem nenhum sacrifício
+
+[Pré-Refrão]
+
+Em
+E nem adianta eu me fazer de forte
+    C
+Entrar em guerra só pra não me entregar
+ Am7                                G6/B
+Manter a postura, vestir minha armadura
+C           D9(11)            C  D
+ Se com um toque ela vai quebrar
+
+[Refrão]
+
+     C
+Ela faz
+                     D9(11)          G
+Qualquer filme de romance parecer comum
+         D9/F#       Em7
+Outros amores serem só mais um
+      C
+Ela trás
+            D9(11)            Em7
+Um final feliz numa cena de drama
+
+     C
+Ela faz
+                     D9(11)          G
+Qualquer filme de romance parecer comum
+         D9/F#       Em7
+Outros amores serem só mais um
+      C
+Ela trás
+            D9(11)            Em7
+Um final feliz numa cena de drama
+
+           C          D                  Em7
+Ela é tudo isso e o pior é que ela sabe disso
+           C          D                  Em7
+Ela é tudo isso e o pior é que ela sabe disso
+
+[Pré-Refrão]
+
+Em
+E nem adianta eu me fazer de forte
+    C
+Entrar em guerra só pra não me entregar
+ Am7                                G6/B
+Manter a postura, vestir minha armadura
+C           D9(11)            C  D
+ Se com um toque ela vai quebrar
+
+[Refrão]
+
+     C
+Ela faz
+                     D9(11)          G
+Qualquer filme de romance parecer comum
+         D9/F#       Em7
+Outros amores serem só mais um
+      C
+Ela trás
+            D9(11)            Em7
+Um final feliz numa cena de drama
+
+     C
+Ela faz
+                     D9(11)          G
+Qualquer filme de romance parecer comum
+         D9/F#       Em7
+Outros amores serem só mais um
+      C
+Ela trás
+            D9(11)            Em7
+Um final feliz numa cena de drama
+
+           C          D                  Em7
+Ela é tudo isso e o pior é que ela sabe disso
+           C          D                  Em7
+Ela é tudo isso e o pior é que ela sabe disso
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D9(11) = X 5 4 0 3 0
+D9/F# = 2 X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G6/B = 7 5 5 7 5 X

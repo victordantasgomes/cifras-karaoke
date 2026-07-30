@@ -1,0 +1,101 @@
+@titulo: tem-nada-a-ver
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Tem Nada a Ver
+
+Intro:
+E|------------------------------------9--7--5----------
+B|-------------9-10--12--9---13-9----10--9--7-----7/9--
+G|------8-9-11-----------------------------------------
+D|---11------------------------------------------------
+A|-----------------------------------------------------
+E|-----------------------------------------------------
+
+E|-12----12------------------------------------------12---11---9---7----
+B|----9---------------9---------------9-------12------------------------
+G|----------------9h11---11-------9h11--11b9-------13----11--11---9-----
+D|------------9h11------------9h11--------------------------------------
+A|----------------------------------------------------------------------
+E|----------------------------------------------------------------------
+
+acompanhamento do solo: E G#7 A E F#7  B7
+
+          E
+Alguém me disse que você falou
+         B9
+Que acha graça e tem pena de mim
+
+           A                                 B9
+Que não me ama que o nosso caso já chegou ao fim  (lick 1)
+       E
+Ao telefone não atende mais
+          B9
+Que pra você agora tanto faz
+        A
+Se é verdade que você não quer
+         B9
+Responda se puder
+           C#m              G#7
+Quem é que liga no meio da noite
+               C#m
+Diz que está sozinha
+                    E7                    A
+Quem é que nos meus braços fala que é só minha
+              B7                 E  B7
+E chora de emoção na hora do prazer
+          C#m                 G#7
+Porque será que você não assume
+                C#m
+Que eu sou seu homem
+               E7                   A
+Porque o tempo todo fala no meu nome
+               B7                   E  E7
+Confessa que você não sabe me esquecer
+               A
+Tem nada a ver
+              B7     G#7         C#m
+Você é quem está fugindo da verdade
+               E7              A
+Parece que tem medo da felicidade
+                 B7                    E  E7
+Você diz que não,   teu corpo diz que sim
+               A               B7
+Tem nada a ver,  a boca que me beija
+      G#7        C#m
+A mão que me apedreja
+                  E7                A
+Se deita em minha cama depois me difama
+                   B7                    E  B7
+Diz que não me quer   mas vive atrás de mim
+
+- Repete tudo desde a introdução (inclusive o solo).
+
+- No final ao invés de fazer o último B7 é feito um Am e depois E.
+
+(Lick 1)
+
+E|-----12---11---9---7--
+B|----------------------
+G|--13----11--11---9----
+D|----------------------
+A|----------------------
+E|----------------------
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#7 = 2 4 2 3 2 2
+G#7 = 4 6 4 5 4 4

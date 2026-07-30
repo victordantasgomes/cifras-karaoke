@@ -1,0 +1,40 @@
+@titulo: aquele-que-esta-com-cristo
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Aquele Que Está Com Cristo
+
+A           A7M(9) D/A  A       A7M(9)    D/A
+Porque tu estás comigo, praga alguma me alcançará
+A           A7M(9) D/A  A       E   D
+Porque tu estás comigo, eu não temerei
+
+Bm7               C#m7 Bm7             D/E  E
+Porque tu estás comigo, mal algum me virá
+A                             D
+Aquele que está com Cristo, aquele que está com Cristo
+A           E/G#     F#m7       Bm7  D/E
+Aquele que está com Cristo, viverá
+A   A7M(9) D/A
+Viverá, viverá
+A   A7M(9) D/A
+Viverá, viverá
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7M(9) = X 0 2 1 0 0
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/E = X X 2 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m7 = 2 X 2 2 2 X

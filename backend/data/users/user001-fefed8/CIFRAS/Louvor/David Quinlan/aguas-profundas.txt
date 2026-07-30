@@ -1,0 +1,80 @@
+@titulo: aguas-profundas
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Águas Profundas
+
+[Intro]  Am  F  G  Em  G  Am
+
+Am           F          G    Em7 G
+  Vem sobre nós como a chuva
+Am        F                G     Em7 G
+  Faça as águas subirem neste lugar
+Am        F       G    Em7  G
+  Libera Teu rio sem medidas
+Am            F      G    Em/G G
+  Vem Tuas águas agitar
+
+          Am              F        G         Em7 G
+Eu quero nadar, eu quero nadar no Teu rio
+          Am              F         G        Em7 G
+Eu quero beber, eu quero beber de Tuas águas
+
+Am   F     G  Em7 G
+Ô....ô....ôô....
+Am   F     G  Em7 G
+Ô....ô....ôô....
+Am   F     G  Em7 G
+Ô....ô....ôô....
+
+Am   F     G  Em7 G
+Ô....ô....ôô....
+
+Am           F          G    Em7 G
+  Vem sobre nós como a chuva
+Am        F                G     Em7 G
+  Faça as águas subirem neste lugar
+Am        F       G    Em7  G
+  Libera Teu rio sem medidas
+Am            F      G    Em/G G
+  Vem Tuas águas agitar
+
+          Am              F        G         Em7 G
+Eu quero nadar, eu quero nadar no Teu rio
+          Am              F         G        Em7 G
+Eu quero beber, eu quero beber de Tuas águas
+
+Dm        F                   G   G4 G G4
+  Existem águas que dão nos artelhos
+
+Dm        F                  G       Em7 G
+  Existem águas que dão nos joelhos
+Dm                   F       G
+  Existem águas que dão nos lombo
+Dm                       F          G    F5 Em5 Dm5 C5 Bm5 Am5
+  Mas tem águas mais profundas eu seeeeeeii
+
+[Solo]  Am  F  G  Em  G  Am
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am5 = X 0 2 2 1 0
+Bm5 = X 2 4 4 3 2
+C5 = X 3 5 5 X X
+Dm = X X 0 2 3 1
+Dm5 = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+Em/G = 3 X 2 4 5 X
+Em5 = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F5 = 1 3 3 X X X
+G = 3 2 0 0 0 3
+G4 = 3 5 5 5 3 3

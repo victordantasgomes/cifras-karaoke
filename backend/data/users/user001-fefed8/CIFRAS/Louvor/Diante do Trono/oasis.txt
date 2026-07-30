@@ -1,0 +1,100 @@
+@titulo: oasis
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Oásis
+
+INTRO: ::  F7M   G/F  :   A/C#   :  F7M    Em7  :   A9   :
+        :  F7M   G/F  :   A/C#   :  F7M    Em7  :   A9   :  A4   A  ::
+
+ A   E/A   D9
+TU   ÉS    OÁSIS NO DESERTO,
+A       E/A         D5b     D9
+ÁGUA FRESCA NUM DIA QUENTE
+   A        E/A   D6/A         A9
+SE EU NÃO PARAR   PRA BEBER DE TI
+            E         D9         A/D    D9
+EU NÃO PODEREI PROSSEGUIR
+
+ A   E/A  D9
+TU   ÉS O PÃO QUE ALIMENTA
+ A     E/A      D9
+VERDADEIRA COMIDA
+   A        E/A   D6/A          A9
+SE EU NÃO PARAR    PRA COMER DE TI
+            E      :  D9    A/D  :  D9/F#    E/G#  :
+EU NÃO PODEREI PROSSEGUIR
+
+
+A9   E/A  D9/A
+TU   ÉS A FONTE DE VIDA
+   D9   A/C#     Bm7    A4/E
+NO MEU INTE  -  RIOR
+A9   E/A    D9
+TU    ÉS    O PÃO DA VIDA
+                 1:   *D9/F#  [reintro]
+                 2:     D9    [coro]
+   A/C#    E4    3:   *D9/B   [instr.]
+EU VIVE - REI       POR TI
+
+REINTRO: ::  *D9/F#  :  E/G#  :  A4   A  :  A4   A  :
+          :  *D9/F#  :  E/G#  :  A9  :  A4   A  ::
+
+INSTR: ::  D9/B  :  A/C#  :  D9/F#  :  E/G#   E  :
+        :  D9/B  :  A/C#  :  G7M   G6  :  G7M   G6  ::
+
+A9   E/A [stop]                 [frase: A - C# - A]
+TU   ÉS          A FONTE DE VIDA
+   D9   A/C#     Bm7    A4/E
+NO MEU INTE  -  RIOR
+A9  E/A    D9
+TU   ÉS    O PÃO DA VIDA,
+   A/C#   E4      D
+EU VIVE - REI POR TI
+
+A9   E/A  D9/A
+TU   ÉS A FONTE DE VIDA
+   D9   A/C#     Bm7    A4/E
+NO MEU INTE  -  RIOR
+A9   E/A    D9
+TU    ÉS    O PÃO DA VIDA
+   A/C#    E4     D9
+EU VIVE - REI POR TI
+
+[tag]  A/C#    E4      D
+     EU VIVE - REI POR TI
+
+FINAL: ::  F7M    Em7  :   A9   ::
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/D = X X 0 6 5 5
+A4 = X 0 2 2 3 0
+A4/E = 0 0 2 2 3 0
+A9 = X 0 2 2 0 0
+Bm7 = X 2 4 2 3 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+D5b = X 5 6 7 7 5
+D6/A = X 0 4 4 3 X
+D9 = X X 0 2 3 0
+D9/A = X 0 X 2 3 0
+D9/B = X 2 0 2 3 0
+D9/F# = 2 X 0 2 3 0
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+Em7 = 0 2 2 0 3 0
+F7M = 1 X 2 2 1 X
+G/F = 1 X X 0 0 3
+G6 = 3 X 2 4 3 X
+G7M = 3 X 4 4 3 X

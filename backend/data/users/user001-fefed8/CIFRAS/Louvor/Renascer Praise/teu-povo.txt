@@ -1,0 +1,55 @@
+@titulo: teu-povo
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Teu Povo
+
+ G           Bm7    Em7         Am7   G/B
+Reis e príncipes, verão o teu poder
+C      G/B     Em7      Am7         D
+Da Tua glória ó Deus, o mundo todo saberá
+G                Bm7        Em7  D     C
+Resplandecente estrela, que traz o amanhã
+Am7            G/B        Am7 G/B  C  C/D  (1x)
+(G C/E D/F#) (2x)
+
+(Em D/F#)
+E faz os povos declararem, Jesus   tu és Senhor
+G           Am7           G/B         C
+Somos o teu povo a quem Tu chamas Israel
+E4    E   Am9 Am       Cm6          G         D/F#
+Povo que conhece, Tua glória e grandeza
+Em7     Am             C/D           G    D/F#   ( G   D/F#   Em7 )
+És o que governas, és o Rei, és o Senhor
+Em7 Am7  G/B              C           G
+A l e l u i a s , do teu povo se ouvirá
+Em7 Am7     G/B     C        C/D     G
+Para s e m p r e , viveremos pra louvar
+
+Em7       Am7       C     D       G (D/F#)
+És o que governas, és o Rei, és o Senhor
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am9 = X 0 2 4 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+C/E = 0 3 2 0 1 0
+Cm6 = X 3 X 2 4 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

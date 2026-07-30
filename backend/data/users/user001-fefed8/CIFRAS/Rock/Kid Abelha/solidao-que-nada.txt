@@ -1,0 +1,94 @@
+@titulo: solidao-que-nada
+@autor:
+@intérprete: Kid Abelha
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kid Abelha - Solidão Que Nada
+
+Introdução: (A9 D7+)4x
+
+A9
+ Cada aeroporto
+      D7+            A9
+É um nome num papel
+
+Um novo rosto
+   D7+               E/G#
+Atrás do mesmo véu
+             G    F#m
+Alguém me espera
+               B4  G
+E adivinha no céu
+                    G G/F#
+Que meu novo nome é
+       E
+Um estranho que me quer
+
+
+   A9            D7+
+E eu quero tudo
+
+                 A9
+No próximo hotel
+
+Por mar, por terra
+    D7+         E/G#
+Ou via Embratel
+            G      F#m
+Ela é um satélite
+               B4  G
+E só quer me amar
+               G   G/F#
+Mas não há promessas
+   E                D
+E só um novo lugar
+
+
+Refrão:
+
+        Bm7
+Viver é bom
+     E7                D
+Nas curvas da estrada
+     Bm7     E7    D
+Solidão que nada
+        Bm7
+Viver é bom
+    E7              D
+Partida e chegada
+     Bm7     E7
+Solidão que nada
+
+(Introdução)
+
+
+E/G#          G      F#m
+  Ela é um satélite
+               B4  G
+E só quer me amar
+               G   G/F#
+Mas não há promessas
+   E                D
+E só um novo lugar
+
+
+(Refrão)
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B4 = X 2 4 4 5 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D7+ = X X 0 2 2 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/F# = X X 4 4 3 3

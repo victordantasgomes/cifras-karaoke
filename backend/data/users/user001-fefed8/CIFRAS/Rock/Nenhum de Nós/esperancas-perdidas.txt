@@ -1,0 +1,71 @@
+@titulo: esperancas-perdidas
+@autor:
+@intérprete: Nenhum de Nós
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nenhum de Nós - Esperanças Perdidas
+
+Intro:F#m E F#m E
+
+G|-42-2>6----2>6-
+D|---4---2-24---2
+A|4-------4------
+E|---------------
+
+F#m                           E                                F#m           E
+Certas coisas nunca mudam, alguém que vai embora, alguém que está pra chegar
+F#m                             E                          F#m                  E
+Daí começa a diferença de encontrar o que é novo sem esquecer de olhar pra trás
+Dm                          G                  Dm                           G
+Não é preciso destruir pra conseguir recomeçar, começar de um ponto de onde nada existia
+Dm                         G                     Dm G (2x)
+Onde a vida é diferença e crescer é sempre igual..........
+A          D              A                  D
+A verdade vem aos pedaços, eu não sei como fazer você juntar ( 2x )
+     Bm             A                 E    C#7             F#m
+Não sei o que dizer, ainda sou seu amigo, isso nunca vai mudar...
+    Bm               A             E        C#7       F#m
+Eu coloquei em suas mãos a minha vida, esperanças perdidas...
+
+         Bm     A           E           C#7          F#m
+Me entreguei demais, quase nada além do que você pedia...
+     Bm           A           E     C#7           F#m ( repete intro )
+Coloquei em minha boca a sua voz, idéias e medidas...
+F#m                           E                                F#m           E
+Certas coisas nunca mudam, alguém que vai embora, alguém que está pra voltar
+F#m                             E                          F#m                  E
+Daí começa a diferença de encontrar o que é novo sem esquecer de olhar pra trás
+Dm                          G                  Dm                           G
+Não é preciso destruir pra conseguir recomeçar, começar de um ponto de onde nada existia
+Dm                         G                     Dm G (2x)
+Onde a vida é diferença e crescer é sempre igual..........
+A          D              A                  D
+A verdade vem aos pedaços, eu não sei como fazer você juntar ( 2x )
+     Bm             A                 E    C#7             F#m
+Não sei o que dizer, ainda sou seu amigo, isso nunca vai mudar...
+    Bm               A             E        C#7       F#m
+Eu coloquei em suas mãos a minha vida, esperanças perdidas...
+         Bm     A           E           C#7          F#m
+Me entreguei demais, quase nada além do que você pedia...
+     Bm           A           E     C#7           F#m
+Coloquei em minha boca a sua voz, idéias e medidas...
+         Bm     A           E           C#7                F#m
+Me entreguei demais, quase nada além do que esperanças perdidas...
+     Bm           A            E  C#7  F#m
+Coloquei em suas mãos a minha vida
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C#7 = X 4 3 4 2 X
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

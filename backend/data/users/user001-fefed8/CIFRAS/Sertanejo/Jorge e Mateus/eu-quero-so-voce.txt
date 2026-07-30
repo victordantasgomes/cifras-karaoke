@@ -1,0 +1,227 @@
+@titulo: eu-quero-so-voce
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Eu Quero Só Você
+
+Intro: Am  F  C  G
+
+E|------------------------------------------------|
+B|------------------------------------------------|
+G|-------------------------0-----0-----0----------|
+D|---2-0---2-0---2-0---2-0-----0-----0------0-----|
+A|-3-----3-----3-----3-------3-----3-----3----3-2-|
+E|------------------------------------------------|
+
+(Adaptação)
+E|---------------------------------3-------|
+B|-3-5-3-----5--3----5-3-----5-3-------3---|
+G|-5-5-5---5-5--5--5-5-5---3-5-5-----5-----|
+D|-----------------------3-------3---------|
+A|-------0------------------------------3--|
+E|-----------------------------------------|
+
+E|-3--------3------------------------------|
+B|-----3--------3--------------------------|
+G|---5--------5-----5-4--------------------|
+D|-----------------------------------------|
+A|-------3---------------------------------|
+E|----------------3------------------------|
+
+
+Ritmo:
+   A
+E|-0--0--x--0-----x-0-0-0--x--0-----x--0---|
+B|-1--1--x--1-----x-1-1-1--x--1-----x--1---|
+G|-2--2--x--2-----x-2-2-2--x--2-----x--2---|
+D|-2--2--x--2-----x-2-2-2--x--2-----x--2---|
+A|-0--0--x--0-----x-0-0-0--x--0-----x--0---|
+E|-----------------------------------------|
+
+         x        x        x        x
+
+Primeira Parte:
+
+              Am7
+O que todos querem é só separar nós dois
+               F9
+Você é o que quero e vou continuar te amando
+               C
+Eu não tô nem aí pro que os outros vão dizer
+               G4(6)
+O que a gente sente ninguém tem nada a ver
+
+               Am7
+Todos ficam falando que eu não sirvo pra você
+                   F9
+Dizem que eu não presto só me meto em confusão
+                C
+Querem nos afastar e acabar com nosso amor
+         G4(6)
+Tirar você de mim
+
+Segunda Parte:
+          Am
+O nosso amor
+                      F5(7M/9)
+Todos querem por um fim
+                  C
+Querem nos afastar
+                G4(6) G
+Tirar você de mim
+
+Eu amo você
+
+E não me importa o que vão dizer
+
+          Am7
+O nosso amor
+                      F5(7M/9)
+Todos querem por um fim
+                  C9
+Querem nos afastar
+                G4(6) G
+Tirar você de mim
+
+Eu amo você
+
+E não me importa o que vão dizer
+
+Segunda Parte:
+
+   Am     A7
+E|----0-------0----0------0----------------|
+B|-1--1---1---1----1---1--1----------------|
+G|-2--2---0---0----0---0--0----------------|
+D|-2--2---2---2----2---2--2----------------|
+A|-0------0------------0-------------------|
+E|-----------------------------------------|
+
+   F7M
+E|----0-------0----0------0----------------|
+B|-1--1---1---1----1---1--1----------------|
+G|-2--2---2---2----2---2--2----------------|
+D|-3--3---3---3----3---3--3----------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+   C9
+E|----0-------0----0------0----------------|
+B|-1--1---1---1----1---1--1----------------|
+G|-0--0---0---0----0---0--0----------------|
+D|-2--2---2---2----2---2--2----------------|
+A|-3------3------------3-------------------|
+E|-----------------------------------------|
+
+   G4(6)
+E|----0-------0----0------0----------------|
+B|-1--1---0---0----0---0--0----------------|
+G|-0--0---0---0----0---0--0----------------|
+D|-0--0---0---0----0---0--0----------------|
+A|-----------------------------------------|
+E|-3------3------------3-------------------|
+
+Passagem:
+E|-----------------------------------------|
+B|---x---x---------------------------------|
+G|-2-x-4-x-x-5-2-x-4-x-x-5--5--5-----------|
+D|-2---5---x-5-3-x-5-x-x-7--7--7-----------|
+A|-0-x-2-x-x-3---x-------------------------|
+E|-------------1-x-3-x-x-5--5--5-----------|
+
+
+Refrão:
+
+               C
+Eu quero só você
+               G
+Eu quero só você
+               Am
+Eu quero só você
+                              F
+E não me importa o que vão dizer
+               C
+Eu quero só você
+               G
+Eu quero só você
+               Am
+Eu quero só você
+
+( Am  F  C  G )
+oh oh oh... ohh ohhh
+
+Segunda Parte:
+          Am7
+O nosso amor
+                     F5(7M/9)
+Todos querem por um fim
+                 C
+Querem nos afastar
+               G4(6)
+Tirar você de mim
+
+Eu amo você
+
+E não me importa o que vão dizer..
+
+Refrão:
+
+                C
+Eu quero só você
+               G
+Eu quero só você
+               Am
+Eu quero só você
+                              F
+E não me importa o que vão dizer
+               C
+Eu quero só você
+               G
+Eu quero só você
+
+Segunda parte:
+
+Eu amo você
+
+E não me importa o que vão dizer..
+
+Refrão:
+
+               C
+Eu quero só você
+               G
+Eu quero só você
+               Am
+Eu quero só você
+                              F
+E não me importa o que vão dizer
+
+               C
+Eu quero só você
+               G
+Eu quero só você
+               Am
+Eu quero só você
+          G  Am
+Eu quero só
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+F = 1 3 3 2 1 1
+F5(7M/9) = X X 3 0 1 0
+F7M = x x 3 2 1 0
+F9 = x x 3 2 1 4
+G = 3 3 0 0 0 x
+G4(6) = 3 0 0 0 0 1

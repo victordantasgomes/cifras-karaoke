@@ -1,0 +1,67 @@
+@titulo: meu-verdadeiro-amor
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Meu Verdadeiro Amor
+
+A5+, A6, A7, D, C#m, Bm, E7, Am, Dm, E7
+
+       Am                                        E7
+EU QUERIA ALGUEM QUE SOUBESSE ENTENDER O MEU MEDO
+       A7                                    Dm
+E QUE NAO PRECISASSE PEDIR PRA OUVIR MEUS SEGREDOS
+    E7                              Am
+EM CADA OLHAR QUE EU ME VI SO DESCOBRI A SOLIDAO
+      B7                                    Dm  E7
+POIS NEM ENXERGAVA O QUE TINHA NA PALMA DA MAO
+       Am
+EU QUERIA ALGUEM DE VERDADE
+         Dm
+QUE TROUXESSE NO ROSTO A BONDADE
+   G7                                       C  A7
+E NAO A MENTIRA DO AMOR TRANSFORMADA EM PAIXAO
+    Dm                   G7
+E AGORA EU ME VEJO NO ESPELHO
+      C                 Am
+ESCONDENDO OS OLHOS VERMELHOS
+    Dm                 E7               A   E7
+PORQUE NAO OUVI OS CONSELHOS DO MEU CORACAO
+
+
+
+  A                     B7
+ESTRANHA ESTA VIDA QUE FAZ A GENTE ERRAR
+   E7                        A    E7     A  E7
+E LEVA PRA BEM LONGE QUEM A GENTE DEVE AMAR
+    A                         B7
+ESTRANHA ESTA VIDA DEIXA O ESPINHO E MATA A FLOR
+     E7                               Am        F  E7
+EU AMEI, AMEI, NAO ENCONTREI MEU VERDADEIRO AMOR
+
+      Am
+EU QUERIA ALGUEM DE VERDADE
+          Am          F  E7
+   MEU VERDADEIRO AMOR
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5+ = X 0 3 2 2 0
+A6 = 5 X 4 6 5 X
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+G7 = 3 5 3 4 3 3

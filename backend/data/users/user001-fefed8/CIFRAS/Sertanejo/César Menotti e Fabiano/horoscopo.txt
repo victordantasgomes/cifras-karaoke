@@ -1,0 +1,54 @@
+@titulo: horoscopo
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Horóscopo
+
+Intro: F Bb C Bb
+
+F
+Eu li no horóscopo
+                    Bb
+Que você não ia ser minha
+    Gm                                             C
+Mas isso é uma grande bobagem quando Deus traça as linhas
+F                                    Bb  Bb Am
+O amor é um sentimento e não há previsão
+Gm                                                 C
+Não importa se está frio ou calor quando bate a paixão
+
+Bb
+Eu tenho certeza
+Bbm             Dm
+Esse romance é eterno com você e eu
+             G                            C
+Vai dar tudo certo é convicção e não previsão
+
+F                          C
+Não sou de Áries, nem de Escorpião
+
+Dm                                       C
+O que vale é o sentimento que vem do coração
+F                                         C
+Fomos feitos um pro outro, e isso sim tem tudo a ver
+Dm                       Bb
+Previsões podem tentar manipular
+      Bbm                C                F
+Mas o amor sempre vai reinar entre eu e você
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+Bbm = X 1 3 3 2 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

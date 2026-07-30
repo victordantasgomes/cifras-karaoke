@@ -1,0 +1,67 @@
+@titulo: tomado-pela-mao
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Tomado Pela Mão
+
+INTRO: C  G  F  C  Am  Em  F  G  G4  G
+
+C                                                          G                                          F
+NUNCA HOUVE NOITE QUE PUDESSE IMPEDIR O NASCER DO SOL E A
+    C                                C                                           G                                            F
+ESPERANÇA E NÃO HÁ PROBLEMA QUE POSSA IMPEDIR AS MÃOS DE
+                              C                C                                                         G
+JESUS PRA ME AJUDAR,  NUNCA HOUVE NOITE QUE PUDESSE IMPEDIR O
+        F                                         C                          C                                           G
+NASCER DO SOL E A ESPERANÇA E NÃO HÁ PROBLEMA QUE POSSA
+                                        F                        C
+IMPEDIR AS MÃOS DE JESUS PRA ME AJUDAR
+
+    Am                                            Em                                       F
+HAVERÁ UM MILAGRE DENTRO DE MIM VEM DESCENDO O RIO PRA ME
+G7                              Am                            Em                                        F              G
+DAR A VIDA ESTE RIO QUE EMANA LÁ DA CRUZ DO LADO DE JESUS
+    Am                                             Em                                      F
+HAVERÁ UM MILAGRE DENTRO DE MIM VEM DESCENDO O RIO PRA ME
+G7                              Am                            Em                                        F              G
+DAR A VIDA ESTE RIO QUE EMANA LÁ DA CRUZ DO LADO DE JESUS
+
+
+
+Refrão 2 VEZES
+
+C                                   G7             Am     Am/G     F                               G7
+AQUILO QUE PARECIA IMPOSSÍVEL        AQUILO QUE PARECIA NÃO
+            Am  Am/G    C                              G7                           Am
+TER SAÍDA         AQUILO QUE PARECIA SER MINHA MORTE MAS
+  F                                         C                                  G7                           C     G7
+JESUS MUDOU MINHA SORTE SOU UM MILAGRE ESTOU AQUI
+
+Dm           F                            C                Dm     F                                      C
+USA-ME    SOU O TEU MILAGRE,   USA-ME  EU QUERO TE SERVIR
+Dm          F                           C               Dm     F                                         C   G7
+USA-ME    SOU A TUA IMAGEM,  USA-ME    OH! FILHO DE DAVI
+
+REPETE Refrão
+
+SOLO FINAL: Am  Am/G  F  G7  Am  Am/G  C  G7  C
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G4 = 3 5 5 5 3 3
+G7 = 3 5 3 4 3 3

@@ -1,0 +1,34 @@
+@titulo: salmo-54
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Salmo 54
+
+D                      D7M
+Tivesseu eu asas como pombas...
+    G
+Voaria a um lugar de repouso
+          F#m              Bm
+Irei bem longe morar no deserto
+           G         A    A7   F#m   Bm
+Apressarme-ei em buscar abrigo...
+ G                  A          D  A  Asus4  A
+Contra o vendaval e a tempestade!
+
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+A*  = X 0 2 2 2 0 - (*B na forma de A)
+A7*  = X 0 2 0 2 0 - (*B7 na forma de A7)
+Asus4*  = X 0 2 2 3 0 - (*Bsus4 na forma de Asus4)
+Bm*  = X 2 4 4 3 2 - (*C#m na forma de Bm)
+D*  = X X 0 2 3 2 - (*E na forma de D)
+D7M*  = X X 0 2 2 2 - (*E7M na forma de D7M)
+F#m*  = 2 4 4 2 2 2 - (*G#m na forma de F#m)
+G*  = 3 2 0 0 0 3 - (*A na forma de G)

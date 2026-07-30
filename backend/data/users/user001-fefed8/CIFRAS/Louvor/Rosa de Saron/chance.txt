@@ -1,0 +1,99 @@
+@titulo: chance
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Chance
+
+[Intro]  Am  G
+
+Am         G
+O medo se vai
+      Am              G
+E eu busco no horizonte
+       Em                  F
+Os sonhos que deixei pra trás
+           Am    G   Am  G  Am  G
+Por não saber viver
+        Am       G
+E hoje falo de amor
+     Am           G
+Pois ontem eu te digo amigo
+  Em         F         Am   C7
+Que vivi na dor sem hesitar
+
+F        G
+Os dias correm, somem
+   C               E
+E com o tempo não vão voltar
+
+ F          G           Am   C7
+Só há uma chance pra viver
+ F           G
+Não perca a força, o sonho
+     C                E
+Não deixe nunca de acreditar
+  F       G             Am  G
+Que tudo vai acontecer
+
+C  F7+  Am  G
+C  F7+  Am  G  C9
+
+   Am
+O medo se vai
+      F7+
+E eu busco no horizonte
+            G              F
+Os sonhos que deixei pra trás
+           Am    G   Am  G
+Por não saber viver
+        Am       G
+E hoje falo de amor
+     Am           G
+Pois ontem eu te digo amigo
+  Em         Em          Am    C7
+Que vivi na dor sem hesitar
+
+F           G
+Os dias correm, somem
+   C           E
+E com o tempo não vão voltar
+ F          G         Am    C7
+Só há uma chance pra viver
+ F           G
+Não perca a força, o sonho
+     C                E
+Não deixe nunca de acreditar
+F       G             Am
+E tudo vai lhe acontecer
+
+Am  F  G  Am  F  G  C9  G
+
+ Am         F          G
+Levante as mãos e vai sentir
+Am           F          G  C9  G
+O homem da cruz a te remir
+Am        F           G
+Olhe pro céu e tente ver
+ Am          F            G  C9  G
+Há um Deus a espera de você
+
+Am  F  G  Am  F  G  C9  G
+Am  F  G  Am  F  G  C9  G  Am
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+C9 = X 3 5 5 3 3
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3

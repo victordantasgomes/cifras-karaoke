@@ -1,0 +1,94 @@
+@titulo: nao-havera-impossiveis
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Não Haverá Impossíveis
+
+INTRO: (Teclado)   :: A9 A9/C# : D9  E/G# : A9/F#  A9/E :
+             ( Todos )    :  F#m7  F7M/9  D/E  D/E Esus :: A/E
+
+                                D9/A                                          A9        A9/C#
+PORQUE PARA DEUS NÃO HAVERÁ IMPOSSÍVEIS
+                                     D9       D9/F#                             E/G#
+PORQUE PARA DEUS NÃO HAVERÁ IMPOSSÍVEIS
+        D9/F#         Esus           A9             A9/C#  A9/F#   Esus    E
+EM TODAS AS SUAS PALAVRAS
+
+       A                                        E/A
+COLOCO MEUS OLHOS EM TI
+   A                                      A9/C#                                   D9   A/C#
+QUANDO AS CIRCUNSTÂNCIAS PARECEM MENTIR
+         D9/B                                     E9/D        D9/B                             D/A
+TENTANDO ROUBAR MINHA FÉ   TENTANDO ME DESANIMAR
+                                E/G#  E
+ME FAZER DESISTIR
+                 E/G#    E/F#   E   E/D                       A/C#  C#m7            F#m7
+MAS EU SEI QUE  A      VISÃO SE CUMPRIRÁ,    NÃO FALHARÁ
+                D6                D7M                  D6                    D7M             Esus  G  D/F#   Esus
+PODE O TEMPO PASSAR TUDO O QUE DEUS FALOU ELE FARÁ
+
+
+             A                                   A/C#  A/C# D9    A/C#
+MEUS OLHOS ESTÃO EM TI,        SENHOR
+           D9/B                           D/A                         E/G#   E  E/G#
+POIS POR MIM MESMO NADA POSSO FAZER
+       A                                    A/C#    A/C#  D9   A/C#
+ESPERO SOMENTE EM TI          SENHOR
+           D9/B                         Esus                   A9          A9/C#  D9  E/G#  A9/F#  A9/E
+TEU BRAÇO FORTE OPERA O              D6                             G D9/F#  Esus  A/E
+                                                          IMPOSSÍVEL
+                                                                     2a Vez     D6  D7M (4X)
+                                                                                       Esus  G  D/F#  Esus
+
+             A                                  A/C#    A/C# D9    A/C#
+MEUS OLHOS ESTÃO EM TI,        SENHOR
+           D9/B                           D/A                         E/G#   E  E/G#
+POIS POR MIM MESMO NADA POSSO FAZER
+       A                                   A/C#     A/C#  D9   A/C#
+ESPERO SOMENTE EM TI          SENHOR
+           D9/B                         Esus                   A9       A9/C#  D9  E/G#  A9/F#  A9/E
+TEU BRAÇO FORTE OPERA O IMPOSSÍVEL                G  D9/F#  Esus
+
+TAG FINAL:
+          A/E                D9/A                                           A9        A9/C#
+ PORQUE PARA DEUS NÃO HAVERÁ IMPOSSÍVEIS...
+                                     D9       D9/F#                            E/G#
+PORQUE PARA DEUS NÃO HAVERÁ IMPOSSÍVEIS
+        D9/F#         Esus           A9             A9/C#  A9/F#   Esus
+EM TODAS AS SUAS PALAVRAS
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A9 = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+A9/E = 0 X 2 2 0 0
+A9/F# = 2 X 2 2 0 0
+C#m7 = X 4 6 4 5 4
+D/A = X 0 X 2 3 2
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+D6 = X 5 4 2 0 X
+D7M = X X 0 2 2 2
+D9 = X X 0 2 3 0
+D9/A = X 0 X 2 3 0
+D9/B = X 2 0 2 3 0
+D9/F# = 2 X 0 2 3 0
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E/D = X 5 X 4 5 4
+E/F# = X X 4 4 5 4
+E/G# = 4 X 2 4 5 X
+E9/D = X 5 2 4 5 2
+Esus = 0 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X
+F7M/9 = X 8 7 9 8 X
+G = 3 2 0 0 0 3

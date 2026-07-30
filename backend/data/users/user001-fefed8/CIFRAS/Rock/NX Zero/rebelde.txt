@@ -1,0 +1,35 @@
+@titulo: rebelde
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nx Zero - Rebelde
+
+  E               C#m
+Só quero o que é meu
+          A       B     C#m
+Ir mais além do que eu sou
+         A       B    C#m
+E com o mundo contra nós
+        A         B
+Podemos ir mais longe
+  E         B            E
+Rebelde, chegou a minha vez
+       A       B         C#m
+O que sou ninguém vai mudar
+           A    B        C#m
+É sempre assim que deve ser
+        A              B            E
+Meu coração vai ser rebelde para sempre
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0

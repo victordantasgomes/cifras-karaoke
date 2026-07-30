@@ -1,0 +1,121 @@
+@titulo: surreal(versão 2)
+@autor:
+@intérprete: Scalene
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Scalene - Surreal
+
+Intro: C  Am7  G  Bm7
+
+Primeira Parte:
+
+C
+  Nada era certo
+Am7                     G
+    Mas parecia tão normal
+          Bm7
+Me acostumei com a incerteza ideal
+C
+   Nos faz querer o tudo
+Am7                  G
+    O pouco não é opção
+             Bm7
+Será surreal
+
+Ter o mundo em minhas mãos
+
+( C  Eb  Em )
+
+
+C
+  Tinha ao meu lado
+Am7                      G
+    Quem soubesse me ajudar
+
+E acreditei
+Bm7
+    No que iria me tornar
+C
+    O pouco era simples
+Am7                 G
+    O tudo foi a opção
+
+Será irreal
+Bm7
+    Ter o mundo em minhas mãos
+
+( C  Eb )
+
+Refrão:
+
+G        Em
+  Longe,    alto
+Bm7      D
+    Cabe   a cada um de nós dizer
+G       Em
+  Onde,    quando
+Bm7      D
+    Cabe   a cada um de nós saber
+
+Repete a Primeira Parte:
+
+C
+  A felicidade
+Am7                   G
+    Acordamos só pra ter
+            Bm7
+E compartilhar
+
+Com aqueles que nos fazem
+C
+  Sentir que estamos perto
+Am7                        G
+    Saber que o longe é opção
+
+Será ideal
+Bm7
+    Ter o mundo em minhas mãos
+
+( C  Eb )
+
+Repete o Refrão:
+
+G        Em
+  Longe,    alto
+Bm7      D
+    Cabe   a cada um de nós dizer
+G         Em
+    Onde,    quando
+Bm7      D
+    Cabe   a cada um de nós saber
+
+
+Segunda Parte:
+
+Em  Em7  Em13  Em  (2x)
+
+ Em    Em7    Em13  Em
+Seja qual for o  final
+ Em   Em7     Em13  Em
+Faça ser algo ide___al
+ Em    Em7    Em13  Em
+Seja qual for o  final
+ Em   Em7      Em13  Em
+Faça ser algo su__rreal
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Eb = X 6 5 0 4 X
+Em = 0 2 2 0 0 0
+Em13 = 0 2 2 0 2 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3

@@ -1,0 +1,132 @@
+@titulo: o-cheiro-das-aguas
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - O Cheiro Das Águas
+
+[Intro]  Am9  Em7  Am9  Em7  F2  Fm9/Ab
+
+              Am9          Em7
+E|-8-7------------------------|
+B|------8---10---10-8-10-8----|
+G|--------9-------------------| (2x)
+D|----------------------------|
+A|----------------------------|
+E|----------------------------|
+
+           F2          Fm9/Ab
+E|----------------------------|
+B|-------8-6---------8-6------|
+G|-5-7------5-------------5-7-|
+D|----------------------------|
+A|----------------------------|
+E|----------------------------|
+
+C            G#º
+Há esperança para o ferido
+     Am7(9)             F4+       F
+Como árvore cortado, marcado pela dor
+
+ Dm                    Em
+Ainda que na terra envelheça a raiz
+      F
+E no chão, abandonado
+       G4       G      ( F9   Fm/Ab )
+O seu tronco morrer
+
+C            G#º
+Há esperança para o ferido
+     Am7(9)             F4+       F
+Como árvore cortado, marcado pela dor
+ Dm                    Em
+Ainda que na terra envelheça a raiz
+      F
+E no chão, abandonado
+       G4       G
+O seu tronco morrer
+Fm7/C              C
+Há esperança pra você
+
+    C/E       F      G   Am
+Ao cheiro das águas brotará
+C/E         F    G/F     Em7
+Como planta nova florescerá
+     Am9      G     F2
+Seus ramos se renovarão
+C2                   Fm/C     G#º
+Não cessarão os seus frutos e viverá
+
+( Am9  Em7  Am9  Em7  F2  Fm9/Ab )
+
+C            G#º
+Há esperança para o ferido
+     Am7(9)             F4+       F
+Como árvore cortado, marcado pela dor
+ Dm                    Em
+Ainda que na terra envelheça a raiz
+      F
+E no chão, abandonado
+       G4       G
+O seu tronco morrer
+Fm7/C              C
+Há esperança pra você
+
+    C/E       F      G   Am
+Ao cheiro das águas brotará
+C/E         F    G/F     Em7
+Como planta nova florescerá
+     Am9      G     F2
+Seus ramos se renovarão
+C2                   F/C      G   C2
+Não cessarão os seus frutos e viverá
+
+    C/E       F      G   Am
+Ao cheiro das águas brotará
+C/E         F    G/F     Em7
+Como planta nova florescerá
+     Am9      G     F2
+Seus ramos se renovarão
+C2                   F/C      G   C2 G/B
+Não cessarão os seus frutos e viverá
+
+     Am9 Am/G G     F2
+Seus ramos se renovarão
+C2                   Fm/C     G#º
+Não cessarão os teus frutos e viverá
+
+[Final]  Am9  Em7  Am9  Em7  F2  Fm9/Ab
+         Am9  Am/F#  G  G
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/F# = 2 X 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Am7(9) = X X 7 5 8 7
+Am9 = X 0 2 4 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C2 = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F/C = X 3 3 2 1 1
+F2 = 1 3 5 2 1 1
+F4+ = 1 2 3 2 1 1
+F9 = 1 3 5 2 1 1
+Fm/Ab = 4 3 3 1 X X
+Fm/C = X 3 3 1 1 1
+Fm7/C = X 3 1 1 1 1
+Fm9/Ab = 4 3 3 5 4 3
+G = 3 2 0 0 0 3
+G#º = 4 X 3 4 3 X
+G/B = X 2 0 0 3 3
+G/F = 1 X X 0 0 3
+G4 = 3 5 5 5 3 3

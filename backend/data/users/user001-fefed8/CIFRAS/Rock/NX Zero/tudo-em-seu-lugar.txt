@@ -1,0 +1,97 @@
+@titulo: tudo-em-seu-lugar
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Nx Zero - Tudo Em Seu Lugar
+
+Afinação Meio Tom Abaixo
+
+C9
+As vezes eu queria achar,
+A9              Em
+uma saida pra nos dois,
+C9
+você não acredita em mim
+A9                 Em
+e eu só quero te mostrar
+
+C9
+que não temos que provar
+A9              Em
+mais nada pra ninguém,
+C9
+Pare de se preocupar
+A9                 Em
+pense um pouco em você,
+
+Pré-Refrão:
+C9             C9/11
+só mais um momento,
+
+G      C9              D
+essa noite tudo vai mudar.
+G    C9
+Acredite, acredite.
+
+Refrão:
+C9                     D
+Nós temos tempo pra errar
+          Em           D         A9
+Tempo de sobra pra perder e ganhar.
+C9                D            G
+Apenas mais uma fase e com o tempo,
+    G      D/F#    Em7
+O tempo volta ao normal e
+          D          C9
+Poem tudo em seu lugar.
+A9     Em       C9
+Tudo em seu Lugar
+    A9 Em9
+Enfim.
+
+C9                        G#m              Em
+As vezes me pergunto se espero muito das pessoas,
+C9                        A9                 Em
+ou estou ficando cego ou não sei em quem confiar.
+C9             D9(11)
+Só mais um momento,
+G      C9               D
+Essa noite tudo vai mudar.
+G    C9
+Acredite, acredite.
+
+Refrão:
+C9                     D
+Nós temos tempo pra errar
+          Em           D         A9
+Tempo de sobra pra perder e ganhar.
+C9                D            G
+Apenas mais uma fase e com o tempo,
+    G      D/F#    Em7
+O tempo volta ao normal e
+          D          C9
+Poem tudo em seu lugar.
+A9     Em       C9
+Tudo em seu Lugar
+    A9 Em9
+Enfim.
+
+----------------- Acordes -----------------
+A9*  = X 0 2 2 0 0 - (*G#9 na forma de A9)
+C9*  = X 3 5 5 3 3 - (*B9 na forma de C9)
+C9/11*  = X 3 2 0 3 1 - (*B9/11 na forma de C9/11)
+D*  = X X 0 2 3 2 - (*C# na forma de D)
+D/F#*  = 2 X 0 2 3 2 - (*C#/F na forma de D/F#)
+D9(11)*  = X 5 4 0 3 0 - (*C#9(11) na forma de D9(11))
+Em*  = 0 2 2 0 0 0 - (*D#m na forma de Em)
+Em7*  = 0 2 2 0 3 0 - (*D#m7 na forma de Em7)
+Em9*  = 0 2 4 0 0 0 - (*D#m9 na forma de Em9)
+G*  = 3 2 0 0 0 3 - (*F# na forma de G)
+G#m*  = 4 6 6 4 4 4 - (*Gm na forma de G#m)

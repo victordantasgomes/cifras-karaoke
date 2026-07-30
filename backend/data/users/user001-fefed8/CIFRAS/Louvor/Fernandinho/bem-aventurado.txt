@@ -1,0 +1,77 @@
+@titulo: bem-aventurado
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Bem Aventurado
+
+Intro 2x: C  G  C  G
+
+           C9
+Bem aventurado é o que está
+             G
+Em Tua casa Te louvar
+              C9
+Tua força vem lá dos céus
+Am7       D                G
+E o coração firme está em Deus
+
+Solo: D  A  Bm7  G  D/F#  A  Bm7  G
+
+            G
+Bem aventurado é o que está
+            D
+Em Tua casa Te louvar
+              G
+Tua força vem lá dos céus
+ Em7     A                 D
+E o coração firme está em Deus
+
+
+                  G      A
+De força em força vou viver
+          G/B   A/C#
+Até a tua face ver
+
+Refrão:
+
+D              A
+Ouve o nosso clamor
+Bm7              G
+Oh Deus onipotente
+D/F#           A
+Sara esta nação
+Bm7                      G
+Enquanto juntos te adoramos
+
+( G  D )
+
+(repete tudo)
+
+( D  A  Bm7  G  D/F#  A  Bm7  G )
+
+D
+Só tu és santo
+A
+Só tu és santo
+Bm7                      G
+Só tu és santo Deus, eu sei
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

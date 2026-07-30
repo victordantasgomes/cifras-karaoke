@@ -1,0 +1,110 @@
+@titulo: saco-cheio
+@autor:
+@intérprete: Supercombo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Supercombo - Saco Cheio
+
+Intro 4x: D#5  D5  B5  C5  G#5  G5  B5  C5
+
+Verso:
+
+Cm     G      G#
+  Tô de saco cheio, amor
+       Fm             Bº
+E não nasci pra te esperar
+Cm     G       G#
+  Só escolhe a roupa e vem
+       Fm          Bº
+Não precisa se maquiar
+
+
+Cm         G             G#
+  Pra onde vamos, eu não sei e digo
+ Fm                       Bº
+Escolhe você que eu já cansei de escolher
+Cm       G            G#
+  Só de olhar pra sua cara, eu sei
+Fm                Bº
+O termômetro vai suar
+
+
+Refrão:
+
+C5 D5 D#5                       A#5      F5
+         E não venha com esse pa-pa-pa-a-ra pa-pa-pa-a-ra
+
+C5 D5 D#5                        A#5     F5
+         E não venha com esse pa-pa-pa-a-ra  pa-pa-pa-a-ra
+
+(D#5 D5 B5 C5 G#5 G5 B5 C5) 2x
+
+Verso:
+
+Cm        G     G#
+  Esta me sufo-sufocando
+         Fm              Bº
+E não precisa roubar meu ar
+Cm        G        G#             Fm  Bº
+  A noite vai ser, vai ser longa
+
+
+Cm     G    G#
+  Pra onde vamos, eu não sei e digo
+  Fm                      Bº
+Escolhe você que eu já cansei de escolher
+Cm    G   G#
+  Só de olhar pra sua cara, eu sei
+    Fm            Bº
+O termômetro vai suar
+
+Refrão:
+
+C5 D5 D#5                       A#5      F5
+         E não venha com esse pa-pa-pa-a-ra pa-pa-pa-a-ra
+
+C5 D5 D#5                        A#5     F5
+         E não venha com esse pa-pa-pa-a-ra  pa-pa-pa-a-ra
+
+Verso:
+
+       Cm       Dm        D
+Nesse tempo perdido, não faz mais sentido
+   A#             Fm
+Só vou se for sem você
+  Cm      Dm          D
+Caiu em desuso, eu cansei do discurso
+     A#              Fm
+Esse sofá me faz envelhecer
+
+Eu não aguento mais tanta indecisão
+Se eu estresso eu perco a razão
+Eu não aguento mais tanta indecisão
+Se eu estresso eu perco a razão
+Eu não aguento mais tanta indecisão
+Se eu estresso eu perco a razão
+Eu não aguento mais tanta indecisão
+Se eu estresso eu perco a razão
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+A#5 = X 1 3 3 X X
+B5 = X 2 4 4 X X
+C5 = X 3 5 5 X X
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D#5 = X 6 8 8 X X
+D5 = X 5 7 7 X X
+Dm = X X 0 2 3 1
+F5 = 1 3 3 X X X
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#5 = 4 6 6 X X X
+G5 = 3 5 5 X X X

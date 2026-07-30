@@ -1,0 +1,30 @@
+@titulo: -shalom-aleluia
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - “Shalom! Aleluia!”
+
+(intro) G E F (ritmo country)
+
+G                                    F         Dm              E                   D
+Levo a Paz por onde for, a Paz do Cristo Salvador, eu sou feliz, eu sou o embaixador da Palavra do
+E                            G        D
+Senhor, tenho em mim um Espírito de Amor.
+   G         E
+Shalom, Aleluia! (3x)
+   G         F          E          D  E G D
+Cristo é, Cristo é o Senhor da Paz!
+
+----------------- Acordes -----------------
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

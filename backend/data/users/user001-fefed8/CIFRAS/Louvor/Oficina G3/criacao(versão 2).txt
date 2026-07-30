@@ -1,0 +1,112 @@
+@titulo: criacao(versão 2)
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - Criação
+
+(intro)
+
+      Bb9       C    Bb9        C
+E|-----------------------------------
+B|-----------------------------------
+G|-----------------------------------
+D|-----0---------------0---------5-5-
+A|--1-----3-1-3----1------3-1-3------
+E|---------------3-------------------
+
+(riff 1)
+E|--1h3h1-----------|
+B|--------3-2-1-----|
+G|--------------3---|
+D|------------------|
+A|------------------|
+E|------------------|
+
+(riff 2)
+E|--------3-||
+B|--------3-||
+G|--------0-||
+D|--------0-||
+A|----0---2-||
+E|--1---1-3-||
+
+
+C                    Bb9
+Me lembro o dia em que acordei
+    F                  C
+Ouvindo o som dos pássaros
+      Bb9                 F                    Bb9      C (riff 1)
+E a luz do sol entrando pela janela do quarto
+C                Bb9
+Como é bom poder saber
+              F              C
+Que são obras de Tuas mãos
+        Bb9              F
+E sentir o prazer em te dizer
+      Bb9        C    (riff 1)
+Obrigado Senhor
+
+G        Am7           F      (riff 2)
+Minha gratidão te dou Senhor
+G           Am7            F  (riff 2)
+Pois em tudo vejo o teu amor
+G       Am7             F       C
+Com meu coração quero te dizer
+            Bb9       F
+Te amo, Senhor
+
+(intro)
+(refrão Bb 2x)   (final - intro)
+
+(solo base baixo) Am  Bb9 F9 Am  Bb9 F9
+                  C  B9 F C  Bb F C
+
+C            Bb9                 F            C
+Meu coração jamais deixará de dizer
+            Bb9
+Obrigado Senhor
+
+(refrão)
+
+C                    Bb9
+Me lembro o dia em que acordei
+    F                  C
+Ouvindo o som dos pássaros
+      Bb9                 F                    Bb9       C  (riff 1)
+E a luz do sol entrando pela janela do quarto
+C                 Bb9
+Como é bom poder sentir
+       F                 C
+O calor do sol sobre mim
+   Bb9       F             Bb9       C9       (riff 1) (refrão)
+E ver a perfeição em tudo o que você criou
+
+Am                 Bb9 F9    Am
+E se um dia eu não puder mais ver
+                Bb9     F9 Am
+A luz do sol brilha-- n-- do
+                           Bb9 F9  Am             B9  F
+e se a voz não saí------sse mais dos meus lábios
+C            Bb9                 F            C
+Meu coração jamais deixará de dizer
+            Bb9     (refrão)
+Obrigado Senhor
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+B9 = X 2 4 4 2 2
+Bb = X 1 3 3 3 1
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+F = 1 3 3 2 1 1
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3

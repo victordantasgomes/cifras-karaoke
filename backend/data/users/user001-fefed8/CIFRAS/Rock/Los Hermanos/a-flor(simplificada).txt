@@ -1,0 +1,63 @@
+@titulo: a-flor(simplificada)
+@autor:
+@intérprete: Los Hermanos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Los Hermanos - A Flor
+
+Intro: Am  Dm
+
+Am
+Ouvi dizer
+                   Dm
+Do o teu olhar ao ver a flor
+Am
+Não sei por que
+                   Dm
+Achou ser de um outro rapaz
+F        G            Am   A7
+Foi capaz de se entregar
+            Dm          G            F
+Eu fiz de tudo pra ganhar você pra mim
+             Fm
+Mas mesmo assim...
+              Dm           Am
+Minha flor serviu pra que você
+            Dm
+Achasse alguém
+             F           G           Am
+Um outro alguém que me tomou o seu amor
+
+             Dm         G        F
+E eu fiz de tudo pra você perceber
+         Fm
+Que era eu...
+
+( Am Dm ) 6x
+
+            Dm               Am
+Tua flor me deu alguém pra amar
+         Dm
+E quanto a mim?
+       F               G           Am    A7
+Você assim e eu, por final sem meu lugar
+            Dm         G           Am            Dm
+E eu tive tudo sem saber quem era eu...
+             Am                      Dm
+Eu que nunca amei a ninguém
+Am                     Dm        Am
+Pude, então, enfim, amar...vai!
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3

@@ -1,0 +1,148 @@
+@titulo: livre
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - Livre
+
+Intro 2x: Dm A# F C
+
+A corda E (mizona) é afinada um tom abaixo, em D.
+
+E|---------------------------------------­---------|
+B|---------------------------------------­---------|
+G|--------------2------------------------­---------|
+D|-------------------------5---3--5--7--5­--3------|
+A|---0--3--5-----0--3--------------------­-----5--3|
+D|---------------------------------------­---------|
+
+E|---------------------------------------­---------|
+B|---------------------------------------­---------|
+G|--------------2------------------------­---------|
+D|---------------------------------------­---------|
+A|---0--3--5-------------3---2--1--0--------------|
+D|------------------0--3-----------------­5--------|
+
+
+Ritmo da musica toda (↓ ↓ ↓ ↑ ↓ ↑)
+Há variações na musica!
+
+
+
+Dm
+Vamos girar, girar
+Bb             F                  C
+até o dia clarear a vida é muito curta,
+           Dm                        Bb
+não vou parar aumenta o som da camionete
+                    F                  C
+Poe no 12 sem ter dor Toca um tião carreiro
+                       Dm            Bb
+Um chitãozinho e chororó Sou metade santo
+                    F                   C
+Outra metade malandragem Estiloso na fazenda
+                Dm
+E selvagem na cidade Esse é meu jeito
+        Bb                  F               C
+E ninguem consegue me mudar Acordo em um canto
+                        Dm   Bb  F  C --> 1ª variação (quando chegar no dó "C", tocar ↓ ↑ e abafar)
+E vou dormir em outro lugar
+
+Refrão:
+
+Dm  Bb  F             C         Dm
+L i v r e, é o meu jeito de ser,
+            Bb
+Nasci fui criado desse jeito
+       F
+Meio louco imperfeito,
+      C
+Não queira entender
+Dm  Bb  F             C         Dm
+L i v r e, é o meu jeito de amar,
+               Bb
+Eu quero ser  sua liberdade
+       F
+Seu segredo mais selvagem,
+    C           Dm
+Quem te faz sonhar.
+
+Intro: Dm Bb F C --> 1ª variação (quando chegar no dó "C", tocar ↓ ↑ e abafar)
+
+Dm              Bb                       F
+Vamos girar, girar, Abra as asas pra voar
+                C                     Dm
+Não existem limites, Vem se entregar
+                Bb                                F
+Eu acelero na balada, E no meu rancho encontro a paz
+                         C              Dm
+Não perco tempo pra dormir, Eu quero é mais
+               Bb                     F
+Desligo o celular e ouço a voz do coração
+                     C               Dm
+Eu quero ouvir mais sim e menos não
+                     Bb                  F
+Esse é meu jeito e ninguem consegue me mudar,
+              C                            Dm  Bb A --> 2ª variação (no lá "A", tocar ↓↑↓↑↓↑↓↑↓↑↓↑)
+Acordo em um canto e vou dormir em outro lugar.
+
+Refrão:
+Dm  Bb  F             C         Dm
+L i v r e, é o meu jeito de ser,
+            Bb
+Nasci fui criado desse jeito
+       F
+Meio louco imperfeito,
+     C
+Não queira entender
+Dm  Bb  F             C         Dm
+L i v r e, é o meu jeito de amar,
+               Bb
+Eu quero ser a sua liberdade
+       F
+Seu segredo mais selvagem,
+    C
+Quem te faz sonhar.
+
+Intro: Dm  Bb  F  C
+
+       Dm
+       E aí, ta pronta pra isso?
+                          Dm  Bb  F  C --> 3ª variação ( no fá "F" e dó "C", tocar ↓ ↓ )
+       Não existem limites!
+
+Intro: Dm  Bb  F  C
+
+Refrão 2x:
+
+Dm  Bb  F             C         Dm
+L i v r e, é o meu jeito de ser,
+            Bb
+Nasci fui criado desse jeito
+       F
+Meio louco imperfeito,
+     C
+Não queira entender
+Dm  Bb  F             C         Dm
+L i v r e, é o meu jeito de amar,
+               A#
+Eu quero ser a sua liberdade
+       F
+Seu segredo mais selvagem,
+    C
+Quem te faz sonhar.
+
+Intro 2x: Dm  Bb  F  C --> encerramento ( no dó "C" tocar, ↓ ↓, ↑ abafado, ↑ abafado, ↓ abafado, ↓)
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1

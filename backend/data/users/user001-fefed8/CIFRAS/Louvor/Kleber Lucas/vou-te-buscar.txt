@@ -1,0 +1,124 @@
+@titulo: vou-te-buscar
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Vou Te Buscar
+
+(intro)  E E/D# D
+
+(riff)
+E |---------------------------------
+B |---------------------------------
+G |---------------------------------
+D |---------------------------------
+A |-------------------3---3--------
+E |-5---5-3-5----5---5---5-4---
+
+E E/D# D
+(riff)
+E |-----------------------
+B |-----------------------
+G |-----------------------
+D |-----------------------
+A |-----------------------
+E |-5---5-3-5----5-----
+
+        E                        E/D#
+A minh'alma te busca insaciavelmente,
+
+        C#m                                     A
+Tenho sede de Deus meu Senhor
+          F#m                       A
+Tenho sede das fontes eternas do amor
+          F#m                   A                         B
+Tenho sede do infinito, quero te encontrar
+
+        E                              E/D#
+Toda vez que eu busco a tua santidade,
+         C#m                           A
+Minha face começa a brilhar
+     F#m                              A
+E até minha sombra é pura
+                F#m                                            A           B
+Quando estou em tua presença, Não consigo explicar
+
+E                                          B/E
+Vou te buscar nos montes, vou te buscar nos vales
+C#m                                A              B
+Vou te buscar senhor; vou seguir o teu amor
+E                                       B/E
+Vou te buscar bem cedo, vou te buscar no pôr do sol
+C#m                                     A               B
+Vou te buscar sem medo, quero te encontrar
+
+E E/D# Dadd9
+(riff)
+E |-----------------------
+B |-----------------------
+G |-----------------------
+D |-----------------------
+A |-----------------------
+E |-5---5-3-5----5-----
+
+        E       E/D#
+O Espírito Santo me dá entendimento,
+        C#m      A
+Para compreender-te Senhor
+        F#m     A
+Meu desejo é o centro da tua vontade
+        F#m     A       B
+Caminhando na verdade vou te adorar
+
+Dadd9   D4
+Não há quem possa conhecer a Deus
+        G       D/F#
+Pelo caminho dos homens, pelo caminho dos anjos
+        F       C/F      Bb     C4      C
+        Vou te buscar pelo caminho da cruz, Te conhecer em Jesus
+
+        F       C/F
+        Vou te buscar nos montes, vou te buscar nos vales
+        Dm      Bb      C
+        Vou te buscar senhor; vou seguir o teu amor
+        F       C/F
+        Vou te buscar bem cedo, vou te buscar no pôr do sol
+        Dm      Bb      C
+        Vou te buscar sem medo, quero te encontrar
+
+        F5
+        Eu vou contar história pra você, que está na Bíblia
+        Que eu li e Cri e a minha vida não foi mais a mesma
+        Depois daquele dia tudo mudou
+                        F5
+        Porque Deus amou o mundo de tal maneira
+        Que deu o seu filho unigênito
+        Para que todo aquele que nele crê
+                Não pereça, mas tenha a vida eterna
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/E = X 7 9 8 7 7
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+C/F = X 8 10 9 8 8
+C4 = X 3 3 0 1 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+Dadd9 = X X 0 2 3 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E/D# = X X 1 1 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F5 = 1 3 3 X X X
+G = 3 2 0 0 0 3

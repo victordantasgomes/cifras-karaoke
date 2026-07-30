@@ -1,0 +1,133 @@
+@titulo: paraquedas
+@autor:
+@intérprete: Matheus e Kauan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Matheus e Kauan - Paraquedas
+
+Intro:
+   E B                E          B                 E
+E|-------------------------------------------7-9-9/11-9-7/9-7-|
+B|-2/4-5/7-7--4-5-7-7/9-7-5-----2/4-5/7-7--9------------------|
+G|--------------------------4---------------------------------|
+D|------------------------------------------------------------|
+A|------------------------------------------------------------|
+E|------------------------------------------------------------|
+
+ B
+Será que ainda não percebeu que eu me atrapalho
+    E
+E que as palavras fogem do meu vocabulário
+       F#
+Que eu gelo todo dos pés a cabeça
+                 B
+Quando eu me aproximo de você.
+
+ B
+Parece que o peito grita na garganta.
+  E
+E o meu coração, quase sai pela boca.
+
+   F#
+Eu arrepio o corpo inteiro
+                      B
+Toda vez que eu chego perto de você
+
+         C#m                            B|-5-4-2---|
+E o coração, já bate fora do compasso   G|-------1-|
+
+E essa paixão que vai tomando todo espaço
+         C#m
+Será que não dá pra entender
+
+Que a cabeça já não pensa
+        F#
+Só quer te querer.
+
+Refrão 2x:
+                      B
+Eu vou saltar de paraquedas
+
+Eu vou voar de asa-deltas
+                      E
+Vou fazer tudo que o medo
+
+Não me deixa fazer
+                         F#
+Vou me arriscar correr perigo
+
+Pagar mico pros amigos
+                     B
+Vou roubar um beijo de você, cê vai ver
+Intro:
+   E B                E          B                 E
+E|-------------------------------------------7-9-9/11-9-7/9-7-|
+B|-2/4-5/7-7--4-5-7-7/9-7-5-----2/4-5/7-7--9------------------|
+G|--------------------------4---------------------------------|
+D|------------------------------------------------------------|
+A|------------------------------------------------------------|
+E|------------------------------------------------------------|
+
+         C#m                            B|-5-4-2---|
+E o coração, já bate fora do compasso   G|-------1-|
+
+E essa paixão que vai tomando todo espaço
+         C#m
+Será que não dá pra entender
+
+Que a cabeça já não pensa
+        F#
+Só quer te querer.
+
+Refrão 2x:
+                      B
+Eu vou saltar de paraquedas
+
+Eu vou voar de asa-deltas
+                      E
+Vou fazer tudo que o medo
+
+Não me deixa fazer
+                         F#
+Vou me arriscar correr perigo
+
+Pagar mico pros amigos
+                     B
+Vou roubar um beijo de você, cê vai ver
+Solo:
+    C#m               F#
+E|-----------------------7---------|
+B|-5/7-5-5h7p5-------7/9---9\7---5-|
+G|-------------6-4-------------6---|
+D|---------------------------------|
+A|---------------------------------|
+E|---------------------------------|
+
+Refrão 2x:
+                      B
+Eu vou saltar de paraquedas
+
+Eu vou voar de asa-deltas
+                      E
+Vou fazer tudo que o medo
+
+Não me deixa fazer
+                         F#
+Vou me arriscar correr perigo
+
+Pagar mico pros amigos
+                     B
+Vou roubar um beijo de você, cê vai ver
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

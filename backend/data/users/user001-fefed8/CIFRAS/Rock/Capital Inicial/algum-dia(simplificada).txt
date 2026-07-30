@@ -1,0 +1,90 @@
+@titulo: algum-dia(simplificada)
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Algum Dia
+
+Primeira Parte:
+     E                       D
+Ninguém nunca te disse como ser tão imperfeito
+      C#m7
+Você tem tão poucas chances de alcançar o seu destino
+   F#m                     B4
+É fácil fazer parte de um mundo tão pequeno
+       D
+Onde amigos invisíveis nunca ligam outra vez
+    F#m          B4                      E
+Talvez até porque   ninguém ligue pra você
+
+Refrão:
+A5(9)                             B4
+     Se você quer que eu feche os olhos
+                      G#m7             C#m7
+Pra alguém que foi viver algum dia lá fora
+A5(9)                  B4
+     E neste dia se o mundo acabar
+           G#m                   C#m7   B4
+Não vou ligar pra aquilo que eu não fiz
+
+
+Primeira Parte - com variação na letra:
+                 E                   D
+Faz muito pouco tempo aprendi a aceitar
+                   C#m7
+Quem é dono da verdade, não é dono de ninguém
+               F#m                B4
+Só não se esqueça que atrás do veneno das palavras
+       D
+Sobra só o desespero de ver tudo mudar
+    F#m           B4                     E
+Talvez até porque    ninguém mude por você
+
+Refrão:
+A5(9)                             B4
+     Se você quer que eu feche os olhos
+                      G#m7             C#m7
+Pra alguém que foi viver algum dia lá fora
+A5(9)                  B4
+     E neste dia se o mundo acabar
+           G#m                   C#m7
+Não vou ligar pra aquilo que eu não fiz
+
+( A5(9)  B4 ) (3x)
+
+( D )
+
+   F#m          B4                    E
+Talvez até porque ninguém mude por você
+
+Refrão 2x:
+  A                          B4
+Se você quer que eu feche os olhos
+                      G#m              C#m7
+Pra alguém que foi viver algum dia lá fora
+  A               B4
+E neste dia se o mundo acabar
+           G#m                   C#m7
+Não vou ligar pra aquilo que eu não fiz
+
+( A5(9)  B4 ) (4x)
+
+  A5(9) B4      (2x) E
+O mundo lá fora
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5(9) = X 0 2 2 0 0
+B4 = X 2 4 4 5 2
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4
+G#m7 = 4 X 4 4 4 X

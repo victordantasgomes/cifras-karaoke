@@ -1,0 +1,58 @@
+@titulo: me-leva-pra-casa
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Me Leva Pra Casa
+
+Intro: A F#m D E A F#m D E
+
+A           F#m        A            F#m         D
+Cansei de ficar sozinho, na rua não tem carinho
+  E               A    E  A
+ouou, me leva pra casa
+               F#m          A
+No amor sempre fui bandido,
+              F#m          D
+e agora que estou perdido
+  E               A    E/G#
+ouou, me leva pra casa
+F#m         C#m           D                A
+Tive que perder você, pra ver que estava errado
+F#m             C#m              D           E
+Cansei de ver o sol nascer , sem ter você do lado
+        A         C#m         D          A
+Hoje eu sei, e me dei, sempre a pessoa errada
+    F#m        D         E                A    E
+Eo amor que ganhei só eu sei... não valeu nada
+        A       C#m           D          A
+Hoje eu sei, e achei, quem eu tanto procurava
+
+     F#m     D    E                   A   F#m  D  E  A  F#m  D  E  A  E/G#
+Meu amor você ououuu... me leva pra casa
+F#m         C#m           D                A
+Tive que perder você, pra ver que estava errado
+F#m             C#m              D           E
+Cansei de ver o sol nascer , sem ter você do lado
+        A         C#m         D          A
+Hoje eu sei, e me dei, sempre a pessoa errada
+    F#m        D         E                A    E
+Eo amor que ganhei só eu sei... não valeu nada
+        A       C#m           D          A
+Hoje eu sei, e achei, quem eu tanto procurava
+     F#m     D    E                   A    E
+Meu amoe é você ououuu... me leva pra casa
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2

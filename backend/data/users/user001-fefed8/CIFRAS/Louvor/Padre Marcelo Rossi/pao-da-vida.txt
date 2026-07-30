@@ -1,0 +1,58 @@
+@titulo: pao-da-vida
+@autor:
+@intérprete: Padre Marcelo Rossi
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Padre Marcelo Rossi - Pão da Vida
+
+Intro: C9 F Fm C G F G
+
+  C9      G     Am          F (F C) Dm     C        F       G
+Eu sou o Pão da vida, O pão do Céu,     Eu sou o rei dos reis, o Salvador
+F        G      Em      Am    F         Dm       G
+Eu sou o Cristo, o Filho do Deus vivo, me dei por vós, só por amor
+
+C9         G     F      G      C9          G     F      G
+Este é meu corpo, Toma e Comei,     Este é meu Sangue, Toma e Bebei
+Am                Em    F        C     Dm            G         C (F-G)
+Revestí-vos de minha força, Estejais em mim,   Eis que estou convosco até o fim.
+
+C9        G    Am         F (F C) Dm            C      F       G
+Eu venci o mundo, Vos livrei do mal,     Tomei vossos pecados, deixei lá na cruz
+F     G     Em           Am   F           Dm             G
+Vos livrei da morte, tomei vossa dor, venha, tenha coragem, eu sou o Senhor
+
+C9         G     F      G      C9          G     F      G
+Este é meu corpo, Toma e Comei,     Este é meu Sangue, Toma e Bebei
+Am                Em    F        C     Dm            G         C
+Revestí-vos de minha força, Estejais em mim,   Eis que estou convosco até o fim.
+
+
+( C Dm Em F F# G# )
+
+C#9       G#   F#    G#        C#9        G#    F#    G#
+Este é meu corpo, Toma e Comei,     Este é meu Sangue, Toma e Bebei
+A#m              Fm    F#       C#  D#m           G#      C# (F#-G#-C#
+Revestí-vos de minha força, Estejais em mim, Eis que estou convosco até o fim
+
+----------------- Acordes -----------------
+A#m = X 1 3 3 2 1
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#9 = X 4 6 6 4 4
+C9 = X 3 5 5 3 3
+D#m = X X 1 3 4 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

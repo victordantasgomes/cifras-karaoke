@@ -1,0 +1,70 @@
+@titulo: levanta-e-anda
+@autor:
+@intérprete: Trazendo a Arca
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Trazendo a Arca - Levanta e Anda
+
+INTRO: Em7 D/F# G  Am7 G D/F#  Em7 D/F# G C9 G/B D
+
+
+    Em7    D/F#      G
+Não tenho prata nem ouro
+    Am7        G          D/F#
+Mas o eu que tenho, eu te dou 
+ Em7     D/F#     G   C9 G/B D
+Levanta e anda em nome de jesus
+ 
+    Em7    D/F#      G
+Não tenho prata nem ouro
+    Am7        G          D/F#
+Mas o eu que tenho, eu te dou 
+ Em7     D/F#     G   C9 G/B D
+Levanta e anda em nome de jesus
+
+   Em7  C9    D
+Em nome de jesus
+   Em7  C9    D
+Em nome de jesus
+           Em7 D/F# G
+Levanta e anda
+          Am7 G D/F#
+Levanta e anda
+
+   Em7  D/F   G
+Cansados e feridos 
+  Am7  G   D/F#
+E sobrecarregados 
+  Em7     D/F#     G  C9 G/B D
+Levanta e anda em nome de jesus 
+  Em7  D/F    G
+Caídos e prostrados 
+   Am7  G   D/F#
+E todos os enfermos 
+ Em7     D/F#     G   C9 G/B D
+Levanta e anda em nome de jesus
+
+ Em7  C9    D
+Em nome de jesus
+   Em7  C9    D
+Em nome de jesus
+           Em7 D/F# G
+Levanta e anda
+          Am7 G D/F#
+Levanta e anda
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F = X X 3 2 3 2
+D/F# = 2 X 0 2 3 2
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

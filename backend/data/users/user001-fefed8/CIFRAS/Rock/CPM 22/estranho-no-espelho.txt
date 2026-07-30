@@ -1,0 +1,112 @@
+@titulo: estranho-no-espelho
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Estranho No Espelho
+
+Afinação: (DADGBE)
+
+    D       D*    G5*     D5      E5      G5
+ e|-x-|  e|-x-| e|-x-|  e|---|  e|---| e|----|
+ B|-x-|  B|-x-| B|-x-|  B|---|  B|---| B|----|
+ G|-x-|  G|-7-| G|-x-|  G|-7-|  G|-9-| G|-12-|
+ D|-0-|  D|-7-| D|-5-|  D|-7-|  D|-9-| D|-12-|
+ A|-0-|  A|-5-| A|-x-|  A|-5-|  A|-7-| A|-10-|
+ D|-0-|  D|-x-| D|-5-|  D|---|  D|---| D|----|
+
+RIFF 4 X
+
+E|------------------------------------------------------------------:
+B|------------------------------------------------------------------:
+G|------------------------------------------------------------------:
+D|--4-----4------5-----5-----7------7-----5-----5-------------------:
+A|-----5-----5------5-----5------5------5-----5-----5---------------:
+D|------------------------------------------------------------------:
+
+B5            D             E5
+   Quem você vê quando me olha?
+
+                                   B5
+   Estou certo, não é o mesmo que eu
+            D             E5
+   Às vezes penso em ir embora
+                               D5 E5 G5 [G5]
+   Às vezes não me vejo bem
+                              E5 E5 D5 [D5]
+   Não te conheço mais
+                               D5 E5 G5 [G5]
+   Um estranho no espelho
+                              E5 E5 D5
+   Vem me roubar a paz
+
+                        D
+   Sempre que eu te vejo
+
+D*              B5       G5
+  Louco pra fugir de mim sem saber
+D*                 B5           G5
+  Procurando um sentido que me faça entender
+B5                     A5
+  Que eu nunca estou sozinho
+                      G5
+  Mesmo sem poder te ver
+  G5*
+  Sei que estou sempre com você
+
+RIFF  2X
+
+B5            D            E5
+   Quem você vê quando se olha?
+                                                      B5
+   Estou certo, não é o mesmo que eu
+                        D                                       E5
+   Mas quero ir com você pra bem longe daqui
+                              D5 E5 G5 [G5]
+   Ao menos só mais uma vez
+                             E5 E5 D5 [D5]
+   Estou com medo mas
+                              D5 E5 G5 [G5]
+   Escuto os teus conselhos
+                             E5 E5 D5
+   Tento encontrar a paz
+                           D
+   Que há tempos eu não vejo
+
+D*            B5         G5
+  Louco pra fugir de mim sem saber
+D*                B5            G5                 B5
+  Procurando um sentido que me faça entender
+B5                     A5
+  0ue eu nunca estou sozinho
+                      G5
+  Mesmo sem poder te ver
+  G5*
+  Sei que estou sempre com você
+
+RIFF 4 X
+
+B5       D          E5
+  Quem pode me escutar?
+                                      B5
+  Estou desorientado e tão cansado uoo
+         D          E5
+  Quem pode me ajudar?
+
+  Se não for você, me responda por favor
+B5     D         E5
+  oooo     uooooooo
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+B5 = X 2 4 4 X X
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+E5 = 0 2 2 X X X
+G5 = 3 5 5 X X X

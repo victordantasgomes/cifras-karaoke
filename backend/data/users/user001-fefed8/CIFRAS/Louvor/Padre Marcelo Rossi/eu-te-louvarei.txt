@@ -1,0 +1,49 @@
+@titulo: eu-te-louvarei
+@autor:
+@intérprete: Padre Marcelo Rossi
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Padre Marcelo Rossi - Eu Te Louvarei
+
+Intro: C Dm C/E C,F,E D/F# E/G# Am,F Em Dm,Dm/C,C G5M G7 G
+
+C  Dm C/E    F       E         Am
+Eu te louvarei em quanto eu viver
+        F           Em     Dm  Dm/C
+Meu louvor estará para sempre
+        C    C/E  G      G7
+Em meu coração, meu coração
+   C Dm C/E        F          E         Am
+Levantarei minhas mãos em quanto eu louvar
+      F               Em   Dm  Dm/C
+Para não mais pecar contra ti
+       C     C/E G           (C Dm Em F)
+Me consagrarei,  consagrarei
+
+F            E   E/G#  Am            F
+ Faz-me um vaso        , faz-me feliz
+C                       G
+Meu prazer, meu prazer é cumpre é cumpre
+F
+O que diz...    Intr.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G5M = 3 X 1 0 0 X
+G7 = 3 5 3 4 3 3

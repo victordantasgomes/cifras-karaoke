@@ -1,0 +1,138 @@
+@titulo: a-massa
+@autor:
+@intérprete: Pitty
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Pitty - A Massa
+
+Riff 1
+
+       F#5                          E5
+E|----------------------------------------------------|
+B|----------------------------------------------------|
+G|----------------------------------------------------|
+D|--4---4-4-4----4-4-4-----4-4-4---2------------------|
+A|--4---4-4-4----4-4-4-----4-4-4---2------------------|
+E|--2---2-2-2----2-2-2-----2-2-2---0------------------|
+
+(Riff 1)
+O que se passa com a massa?
+Deglutida antes de assar
+A massa já mastigada
+Sem ter tido tempo de descansar
+
+B5
+Que iguaria sem par,
+
+(Riff 1)
+A massa inerte no pote!
+
+
+B5
+Quitute igual não há
+
+     G#5                      A5
+A massa entregue à própria sorte
+
+Repete Intro
+
+(Riff1)
+Receita incompleta na massa
+Não faz o bolo crescer
+Se a massa for triturada,
+Que consistência vai ter?
+
+B5
+Que massa mais desnutrida
+
+(Riff 1)
+Carece de adubo ou fermento
+
+B5
+Quem dera a massa fosse
+
+G#5              A5
+Manjar do mais suculento
+
+D
+A massa é feita pra saciar
+    F#5            E5
+A fome dos que a sabem modelar
+D
+Regurgitada pra lá e pra cá
+  F#5                       E
+Bota fermento nessa massa, deixa fermentar
+D5             D#5        E5
+Que a regra de ouro se faça
+Massa sem adubo não há
+
+Repete intro
+
+(Riff 1)
+Estômago revirado com a massa vazia
+Não passa de uma ração
+Não querem massa indigesta
+Não querem perder a razão
+
+B5
+Que iguaria sem par,
+
+(Riff 1)
+A massa inerte no pote!
+
+B5
+Quitute igual não há
+
+(Riff 1)
+A massa entregue à própria sorte
+
+D
+A massa é feita pra saciar
+    F#5            E5
+A fome dos que a sabem modelar
+D
+Regurgitada pra lá e pra cá
+  F#5                       E
+Bota fermento nessa massa, deixa fermentar
+D5             D#5        E5
+Que a regra de ouro se faça
+Massa sem adubo não há
+
+Solo: F#m
+
+D
+A massa é feita pra saciar
+    F#5            E5
+A fome dos que a sabem modelar
+D
+Regurgitada pra lá e pra cá
+  F#5                       E
+Bota fermento nessa massa, deixa fermentar
+D
+Regurgitada pra lá e pra cá
+  F#5                       E
+Bota fermento nessa massa, deixa fermentar
+D5                  D#5
+Que a regra de ouro se faça
+E5
+Que a regra de ouro se faça
+
+
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+B5 = X 2 4 4 X X
+D = X X 0 2 3 2
+D#5 = X 6 8 8 X X
+D5 = X 5 7 7 X X
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+F#5 = 2 4 4 X X X
+F#m = 2 4 4 2 2 2
+G#5 = 4 6 6 X X X

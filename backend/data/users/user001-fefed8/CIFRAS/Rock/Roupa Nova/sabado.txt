@@ -1,0 +1,94 @@
+@titulo: sabado
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Sábado
+
+(intro) D4 C/D D4 C/D C9
+
+ D               G/B
+Sábado eu vou à festa
+     D/A          G
+Vou levar meu violão
+        A G/B A/C#   D
+Vou cantando uma canção
+      G     A
+Que eu decorei
+ D               G/B
+Sábado eu vou à festa
+      D/A          G
+Numa nuvem de algodão
+           A  G/B A/C#  D/F#    G   A   A G/B A/C#
+E entre estrelas vou abrir meu coração
+           D           G         D/F#
+Eu vou encher de vaga-lumes teu cabelo
+      G          A      A9 A4
+Respirar o ar do céu, vou
+            D              G         D/F#
+Eu quero o céu e vou com guizos nos sapatos
+
+       G           A        G#°           A   F#7
+Minha roupa em farrapos coloridos vou rasgar
+        Bm                Bm7/A           E7/G#  D/F#   E
+Eu vou dançar entre os cristais, azuis do tempo e esquecer
+         A             A4
+A terra longe, longe, longe
+         A Bm C° A/C#
+A se perder
+
+ D                D5+
+Sábado eu vou... Sábado eu vou
+G/D            A
+Sábado eu vou
+
+(solo) E A/C# E/B A B A/C# B/D# E A B D7
+       G C/G G C/G D E A F#7
+
+        Bm                Bm7/A           E7/G#  D/F#   E
+Eu vou dançar entre os cristais, azuis do tempo e esquecer
+         A             A4
+A terra longe, longe, longe
+         A Bm C° A/C#
+A se perder
+
+ D                D5+
+Sábado eu vou... Sábado eu vou
+G/D            A
+Sábado eu vou
+
+(solo)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+Bm = X 2 4 4 3 2
+Bm7/A = 5 2 4 2 3 2
+C/D = X X 0 0 1 0
+C/G = 3 3 2 X 1 X
+C9 = X 3 5 5 3 3
+C° = X 3 4 2 4 2
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+D5+ = X 5 4 3 3 X
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E7/G# = 4 X 2 4 3 X
+F#7 = 2 4 2 3 2 2
+G = 3 2 0 0 0 3
+G#° = 4 X 3 4 3 X
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X

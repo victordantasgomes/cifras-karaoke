@@ -1,0 +1,56 @@
+@titulo: saturno
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Saturno
+
+Intro: D D9 G G6
+
+D          D9           G   G6            D D9 G G6
+Parece que a casa pega fogo,  e o mar evapora
+D          D9              G   G6               D D9
+Parece que a festa nunca acaba,  e só eu vou embora
+  A7
+...Só.
+
+G       D                Em                                 A7
+Parece que a tristeza estava ali parada esperando por esse dia
+G       D           Em                   A7               G   (D D9 G G6)
+Fica aqui comigo, a minha melancolia precisa da sua companhia
+
+D            D9            G     G6                  D D9 G G6
+Parece que vai chover pra sempre,  o pior da minha vida
+D                   D9                         G       G6    D D9
+Parece que ninguém fala minha língua,  nenhuma rua tem saída
+  A7
+...Mas,
+
+
+G       D                Em                                 A7
+Parece que a tristeza estava ali parada esperando por esse dia
+G       D           Em                   A7               G   (Base Solo - Bm G A 4x)
+Fica aqui comigo, a minha melancolia precisa da sua companhia
+
+G       D                Em                                 A7
+Parece que a tristeza estava ali parada esperando por esse dia
+G       D           Em                   A7
+Fica aqui comigo, a minha melancolia precisa
+G       D                Em                                 A7
+Parece que a tristeza estava ali parada esperando por esse dia
+G       D           Em                   A7               G                 D
+Fica aqui comigo, a minha melancolia precisa da sua companhia, da sua companhia
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G6 = 3 X 2 4 3 X

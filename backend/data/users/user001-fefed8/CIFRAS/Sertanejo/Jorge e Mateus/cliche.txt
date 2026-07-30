@@ -1,0 +1,123 @@
+@titulo: cliche
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Clichê
+
+Intro: A E F# D A E
+E|----------------------|
+B|-3/6-6-3-3------------|
+G|-----------5-5-3-3/5--|
+D|----------------------| (3x)
+A|----------------------|
+E|----------------------|
+
+A               E
+Criei canções e melodias pra te conquistar,
+F#m                               D
+Em cada verso poesia, pra me declarar.
+F#m                     B9
+Mas só palavras não vão traduzir
+D                              Dm
+O que é te olhar nos olhos e te ver sorrir.
+
+A                   E
+E se eu parecer um bobo você pode rir,
+F#m                     D
+É que esse seu jeito manhoso me deixou assim,
+
+F#m                  B9
+Completamente louco por você,
+D                          Dm       E
+Fazendo minhas rimas só pra te dizer. ie-eê
+
+Refrão:
+A
+Você é o primeiro pensamento do meu dia,
+E
+Se eu não te vejo quase morro de agonia.
+F#m                                       D
+Sou dependente desse amor, o seu beijo vicia,
+Eu quero todo dia!
+
+A
+A noite cai, o meu sonho é você,
+E
+Dizer te amo já tá virando clichê.
+F#m                              D
+Mas eu tô repetindo pra você saber,
+Que eu adoro amar você!
+
+           A                   E   F#m             D
+E|-------------------------------------------------------|
+B|-3/6-6-3-3-------------3/6-6-3-3---------------3-4-4/6-|
+G|-----------5-5-3-3/5-------------5-5-3-3/5---5---------|
+D|-------------------------------------------------------|
+A|-------------------------------------------------------|
+E|-------------------------------------------------------|
+
+A                  E
+E se eu parecer um bobo você pode rir,
+F#m                     D
+É que esse seu jeito manhoso me deixou assim,
+F#m                  B9
+Completamente louco por você,
+D                          Dm       E
+Fazendo minhas rimas só pra te dizer. ie-eê
+
+Refrão:
+A
+Você é o primeiro pensamento do meu dia,
+E
+Se eu não te vejo quase morro de agonia.
+F#m                                   D
+Sou dependente desse amor, o seu beijo vicia,
+Eu eu quero todo dia!
+
+A
+A noite cai, e o meu sonho é você,
+E
+Dizer te amo já tá virando clichê.
+F#m                          D
+Mas eu tô repetindo pra você saber,
+Que eu adoro amar você!
+
+(Repete Refrão 1x)
+
+Passagem: ( A E D A )
+
+                                 E
+Você é o primeiro pensamento do meu dia,
+F#m                                   D
+Sou dependente desse amor, o seu beijo vicia,
+Eu eu quero todo dia!
+
+A
+A noite cai, e o meu sonho é você,
+E
+Dizer te amo já tá virando clichê.
+F#m                          D
+Mas eu tô repetindo pra você saber,
+Que eu adoro amar você!
+
+E|--------------------|
+B|-3/6-6-3-3----------|
+G|-----------5-5-3-3--|
+D|--------------------|
+A|--------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B9 = X 2 4 4 2 2
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2

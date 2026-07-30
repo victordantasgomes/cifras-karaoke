@@ -1,0 +1,93 @@
+@titulo: mas-i-love-you
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Mas I Love You
+
+Intro: (D7) (G  Am  C/D) 2x
+
+
+ :---
+ :        Am7
+ : O que é que você quer
+ :          C/D
+ : Que eu largue isso aqui?
+ :    G
+ : É só me pedir
+R:   Am7
+e: Soldado ou bancário
+f:    C/D
+r: Garçom ou chofer
+ã:      G
+o: Eu paro de ser
+ :     Am    Am/G  D/F#
+ : De ser   can...tor
+ :   Am   Am/G  D/F#
+ : É só   di...zer
+ :     Am   Am/G   D
+ : Pra não   mor..rer
+
+ :      G
+ : Meu único amor
+ :---
+    Am7
+Eu largo o que sou
+    C/D
+Vou ser zelador
+        G
+De um prédio qualquer
+    Am7
+Sentado ao portão
+   C/D
+O portão dos sonhos
+     G
+Que você sonhou
+ Am     Am/G      D/F#
+Diga o que você quer
+    Am   Am/G   D/F#
+Se acaso não   quiser
+    Am     Am/G      D
+Feliz eu serei seu nada
+         G           Introd.
+Mas um nada de amor
+    Am7
+Eu lavo e passo
+        C/D
+Sirvo à mesa e faxino
+  G
+Aprendo e te ensino
+       Am7
+Posso até dirigir
+ C/D
+Comprar um táxi
+    G
+Só pra lhe servir
+ Am       Am/G    D/F#
+Deixo de ser   coruja
+    Am      Am/G   D/F#
+Pra ser sua coto..via
+ Am     Am/G     D
+E só viver  de  dia
+       G
+Pra você ser feliz
+REPETIR REFRÃO - (introd.)
+Am7  C/D  G
+           Mas I love you...
+
+    REPETINDO ATÉ O FINAL
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+C/D = X X 0 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+G = 3 2 0 0 0 3

@@ -1,0 +1,107 @@
+@titulo: ainda-nao-passou
+@autor:
+@intérprete: Nando Reis
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nando Reis - Ainda Não Passou
+
+(intro) F/C   C   F/C   C
+
+(1º parte)
+
+F      C
+Triste é não chorar
+F      C    A7(4)
+Sim, eu também chorei
+ Am
+E, não, não há nenhum remédio
+  D
+Pra curar
+  Bb
+Essa dor
+     F
+Que ainda não passou
+   C
+Mas vai passar
+     F
+A dor
+   C     A7(4)
+que nos machucou
+
+          Am
+E, não, não há nenhum relógio
+ D/F#
+Pra fazer voltar
+     Bb
+O tempo voa.
+
+(solo) (F/C   C   F/C   C   Am   F   Bb)
+
+F     C
+Triste é não chorar
+F       C     A7(4)
+Sim, eu também chorei
+ Am
+E, não, não há nenhum remédio
+ D
+Pra curar
+  Bb
+Essa dor
+ F
+Que ainda não passou
+          C
+Mas vai passar
+     F
+A dor
+C      A7(4)
+que nos machucou
+          Am
+E, não, não há nenhum relógio
+ D/F#
+Pra fazer voltar
+     Bb
+O tempo voa.
+
+(2º parte)
+
+(F/C   C)
+Eu não suporto
+Ver você sofrer
+Não gosto de fazer
+Ninguém querer
+Riscar o seu passado
+E o que passou, passou
+E o que marcou, ficou
+Se diferente eu fosse
+Será eu teria sido amado
+Por você?
+
+(2ª parte tem uma quebrada na harmonia)
+(riff)
+E |------------------------------------|----------------------------------|
+B |------------------------------------|--------------------5------------|
+G |------------5----------------------|-----------5----7-----7--5------|
+D |----5---7----7--5--7------------|---5---7-------------------------|
+A |------------------------------------|----------------------------------|
+E |------------------------------------|----------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F/C = X 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

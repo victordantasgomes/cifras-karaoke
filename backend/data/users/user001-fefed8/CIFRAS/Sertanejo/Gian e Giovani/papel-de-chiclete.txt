@@ -1,0 +1,57 @@
+@titulo: papel-de-chiclete
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Papel de Chiclete
+
+Intro B,  C#,  A#m,  D#m,  D,  C#
+
+      F#              C#              F#  B  F#
+VOCE PODE NAO ACREDITAR, MAS AINDA TE AMO
+      B               C#              F#  B  F#
+VOCE PODE NAO ACREDITAR,MAS AINDA TE QUERO
+         B                    C#
+DESDE O DIA EM QUE VOCE PARTIU
+                    F#   D#m
+QUE EU SEMPRE TE ESPERO
+         G#               G#/C            C#
+QUANTAS VEZES NO MEIO DA NOITE, ACORDO E TE CHANO
+       F#              C#               F#  B  F#
+AINDA TENHO GUARDADO COMIGO SUA FOTOGRAFIA
+        B                     C#                 F#  B  F#
+SEM CONTAR LINDAS CARTAS DE AMOR QUE TANTO NOS UNIA
+        B            C#          A#m               D#m
+VOCE PODE NAO ACREDITAR MAS EU NUNCA DEIXEI DE TE AMAR
+      F#               C#             F#   F#7
+SERA QUE DEIXEI-ME LEVAR POR UMA FANTASIA
+    B                   C#            A#m
+EU AINDA NAO TROQUEI A CHAVE DO APARTAMENTO
+
+             D#m               C#
+VOCE PODE ENTRAR A QUALQUER MOMENTO
+                  B                   F#   F#7
+QUE EU SEMPRE ESTOU PRA MATAR SEUS DESEJOS
+    B                 C#              D#m
+EU AINDA CONSERVO NA SALA O MESMO CARPETE
+       B                 F#
+E NO CHAO O PAPEL DE CHICLETE
+        C#               F#   C#
+QUE ADOCOU NOSSO ULTIMO BEIJO
+
+----------------- Acordes -----------------
+A#m = X 1 3 3 2 1
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+D#m = X X 1 3 4 2
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2
+G# = 4 3 1 1 1 4
+G#/C = X 3 X 1 4 4

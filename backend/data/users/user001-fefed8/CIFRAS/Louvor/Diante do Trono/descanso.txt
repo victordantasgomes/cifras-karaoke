@@ -1,0 +1,86 @@
+@titulo: descanso
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Descanso
+
+INTRO: ::    C9                    :     Bb9      :     F9/A            :    Ab7M    Gm7  :
+               :      Am7    G/B     :    C9         :    Dm7    C/E   :    Bb     F/A    G    ::
+
+
+C            C/E             F                          Am7      G/B
+DESDE A ANTIGÜIDADE NÃO SE VIU
+C             C/E               F                                             Dm7
+NEM JAMAIS SE OUVIU DE UM DEUS SEMELHANTE A TI
+                  Gsus               G                F                      Dm7        G          F     Am7    G
+QUE TRABALHA POR QUEM ESPERA E CONFIA EM TI
+
+C            C/E            F                          Am7      G/B
+EM ME ARREPENDER E SOSSEGAR
+C            C/E               F                               Dm7
+EM ME TRANQUILIZAR ESTÁ MINHA SALVAÇÃO
+              Gsus             G         Bb            F/A         Dm7         G          F     C/E    Dm7  Gsus   G
+MINHA FORÇA ESTÁ EM ESPERAR E CONFIAR EM TI
+
+       Am7                        Am7/G
+ENQUANTO EU DESCANSO EM DEUS
+F                     Am7                                  G            F
+ELE ME DÁ; TUDO O QUE EU PRECISO É DESCANSAR
+
+Em7            Dm7                 Am7                        C7(9)/G    F
+CONFIAR, ENTREGAR, TODO O MEU CUIDADO A DEUS
+Em7                 Dm7             Am7                 G                  F9*
+REPOUSAR, COLOCAR MINHA ESPERANÇA EM DEUS
+
+
+estrofe:   :   F9*   Am7     :     G/B      G     :   Bb9    Bb/D   :   Gsus    G   :
+
+coro:       :   F9*   C/E     :     C                   :
+
+ponte:      :   F9*   C/E     :     Eb6(9)          :   Ab7M  Gm7  :   C               :
+
+
+C9                                        C/Bb
+INÚTIL VOS SERÁ BEM CEDO LEVANTAR
+F9/A                                          Ab7M          Gm7
+PENOSAMENTE TRABALHAR
+C9                                               C/Bb                      [stop]
+AOS SEUS AMADOS DÁ ENQUANTO DORMEM
+Eb7M                             F9/D    C9*
+AOS SEUS AMADOS ELE DÁ
+
+
+fim:      :   Am7*    G/B     C9    :      F    G    Ab6   :     C9    ::
+
+----------------- Acordes -----------------
+Ab6 = 4 X 3 5 4 X
+Ab7M = 4 X 5 5 4 X
+Am7 = X 0 2 0 1 0
+Am7/G = 3 0 2 0 1 0
+Bb = X 1 3 3 3 1
+Bb/D = X 5 X 3 6 6
+Bb9 = X 1 3 3 1 1
+C = X 3 2 0 1 0
+C/Bb = X 1 2 0 1 X
+C/E = 0 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Dm7 = X 5 7 5 6 5
+Eb6(9) = X X 1 0 1 1
+Eb7M = X X 1 3 3 3
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F9 = 1 3 5 2 1 1
+F9/A = 5 X X 5 6 3
+F9/D = X 5 X 5 6 3
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+Gm7 = 3 X 3 3 3 X
+Gsus = 3 2 0 0 0 3

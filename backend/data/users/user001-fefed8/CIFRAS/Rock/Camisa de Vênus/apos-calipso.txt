@@ -1,0 +1,81 @@
+@titulo: apos-calipso
+@autor:
+@intérprete: Camisa de Vênus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Camisa de Vênus - Após Calipso
+
+Intro :    D D# ( A Gm ) D F       4X
+
+D D# ( A Gm ) D F
+Essa é pra quando os porcos se afogarem na lama
+D D# ( A Gm) D F
+Essa é pra quando acabarem os fins de semana
+A  Bb  (E Dm) A C
+Essa é pra quando as entranhas estiverem sendo expostas
+A  Bb  (E Dm) A C
+Essa é pra quando as perguntas já tiverem respostas
+D D# ( A Gm ) D F
+Essa é pra quando iluminarem o lado escuro da lua
+D D# ( A Gm ) D F
+Essa é pra quando calarem as ambulâncias na rua
+A  Bb  (E Dm) A C
+Essa é pra quando o cobertor não evitar o frio
+A  Bb  (E Dm) A C
+Essa é pra quando os magazines estiverem vazios
+
+Solo: D  D# ( A  Gm ) D  F  D  D#  D  D# ( A  Gm ) D  F
+
+D D# ( A Gm) D F
+Essa é pra quando a platéia não poder aplaudir
+D D# ( A Gm ) D F
+Essa é pra quando quem entrar não conseguir mais sair
+A  Bb  (E Dm) A C
+Essa é pra quando as leis não puderem dar jeito
+A  Bb  (E Dm) A C
+Essa é pra quando a cicuta não fizer mais efeito
+D D# ( A Gm) D F
+Essa é pra quando a verdade despencar da janela
+D D# ( A Gm ) D F
+Essa é pra quando o cadeado não trancar mais a cela
+A  Bb  (E Dm) A C
+Essa é pra quando as estradas estiverem interditadas
+A  Bb  (E Dm) A C
+Essa é pra quando os contra cheques não servirem pra nada
+
+Solo: D  D# ( A  Gm ) D  F  D  D#  D  D# ( A  Gm ) D  F  D  D# ( A  Gm ) D  F
+
+D D# ( A Gm ) D F
+Essa é pra quando acabar todo o combustível
+D D# ( A Gm) D F
+Essa é pra quando respirar já não for mais possível
+A  Bb  (E Dm) A C
+Essa é pra quando as máscaras caírem dos rostos
+A  Bb  (E Dm) A C
+Essa é pra quando a sentinela abandonar o posto
+D D# ( A Gm ) D F
+Essa é pra quando Judas retornar do inferno
+D D# ( A Gm ) D F
+Essa é pra quando terminarem as juras de amor eterno
+A  Bb  (E Dm) A C
+Essa é pra quando o tímpano estiver perfurado
+A  Bb  (E Dm) A C
+Essa é pra quando Deus estiver acordado"
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

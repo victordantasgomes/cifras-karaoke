@@ -1,0 +1,50 @@
+@titulo: nem-dormindo-eu-consigo-te-esquecer
+@autor:
+@intérprete: Eduardo Costa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Eduardo Costa - Nem Dormindo Eu Consigo Te Esqueçer
+
+Intro: D  A/C#  Bm  D  G  Bm  A7
+
+         D                            Bm         Em                               A7
+Não é fácil ficar sem você, minha menina | Acordar toda noite e ver, você não está
+        Bm                 Bm7               E7                                                 A7
+De manhã quando o sol aparece, através da cortina | É difícil conter o desejo de ir te encontrar
+         D                        Bm                        Em                       A7
+E nos cantos vazios da casa, procuro os teus olhos | Você deve estar por aí, numa rua qualquer
+         Bm               Bm7     E7                                                      A7
+Então saio de mim e sem medo, eu te procuro | Com o meu pensamento, enquanto esfria o café
+            D        D7+            D                           F#m            Em
+E uma saudade bate forte, doi no fundo | Vontade louca de te amar mais uma vez
+          F#7                      Bm            E7                       A7
+Será  que todas as pessoas desse mundo, fazem amor gostoso como a gente fez
+            Em           A7           D               Em          A7         D
+Foi uma transa só um caso e nada mais | Foi de repente sem a gente perceber
+                G              Abº         D   Bm              E7          A7            D  A7
+Mais foi tão lindo, foi tão bom e é por isso   | Que nem dormindo eu consigo te esquecer
+
+(Intro)
+
+
+(Repete Tudo)
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+Abº = 4 X 3 4 3 X
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D7+ = X X 0 2 2 2
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

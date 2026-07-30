@@ -1,0 +1,35 @@
+@titulo: ao-que-esta-sentado
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Ao Que Está Sentado?
+
+          C   G/B     Am    Am7/G
+Ao que está       sentado
+     F   Dm            F     Dm
+No trono      e ao cordeiro
+ F    G         C          E7
+Seja     o louvor, seja a honra
+         Am    Am7/G         F     Dm
+Seja a glória,        e o domínio
+       F         Dm        G
+Pelos séculos         dos séculos
+  C
+Amém
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7/G = 3 0 2 0 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

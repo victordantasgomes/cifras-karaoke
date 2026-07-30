@@ -1,0 +1,121 @@
+@titulo: confidencias
+@autor:
+@intérprete: Chitãozinho & Xororó
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Chitãozinho & Xororó - Confidências
+
+Introdução:
+
+Solo da introdução:
+
+     A      E           F#m    A      D        A
+E|--17--17-16-------16---------------------------|
+B|------------19-17----19--19-19--19-15----12-14-|
+G|--------------------------------------14-------|
+D|-----------------------------------------------|
+A|-----------------------------------------------|
+E|-----------------------------------------------|
+
+           Bm E7  A      E           F#m    A  D
+E|------------|--17--17-16-------16--------------|
+B|--15-17-12--|------------19-17----19--19-19----|
+G|------------|-------------------------------14-|
+D|------------|----------------------------------|
+A|------------|----------------------------------|
+E|------------|----------------------------------|
+
+                    A      D
+E|------------------------| Solo da introdução
+B|-15-------12--14-14-----| transcrito por:
+G|----14-14-----------14--| Jorcimar Ferreira
+D|------------------------| de Paiva.
+A|------------------------|
+E|------------------------|
+
+
+A             C#m        F#m
+Abra os olhos do seu coração
+E        D  E7         A
+Vê se me vê cheio de Paixão
+C#7         F#m          B7  A/C#
+Bem ao lado seu Enquanto ele não te quer
+B/D#        B7         E7
+Nem se quer olha pra você
+       Bm                  E7
+Não me tire por favor a ilusão
+     Bm                    E7
+Me dizendo que sou quase seu irmão
+D           A  D
+Tente me querer
+A         C#m           F#m
+Suas confidências nunca mais
+E          D   E7           A
+Eu quero ouvir sobre esse rapaz
+C#7           F#m
+Algo aqui me diz
+            B7    A/C#
+Que ele nem sonha em te amar
+B/D#      B7         E7
+Em tentar te fazer feliz
+        Bm                     E7
+E eu querendo um minuto de atenção
+      Bm                     E7
+Pra falar de coração pra coração
+        A             C#m
+Ah! Coração...Ah! Coração
+         D            E7        A
+Te dou o céu por um olhar apaixonado
+      C#m                F#m
+Estou aqui, por que não vê
+         D           E7          A  C#7 F#m D E7
+Meu coração sofrendo tanto por você
+A         C#m           F#m
+Suas confidências nunca mais
+E          D   E7           A
+Eu quero ouvir sobre esse rapaz
+C#7           F#m
+Algo aqui me diz
+            B7
+Que ele nem sonha em te amar
+                     E7
+Em tentar te fazer feliz
+        Bm                     E7
+E eu querendo um minuto de atenção
+      Bm                     E7
+Pra falar de coração pra coração
+        A             C#m
+Ah! Coração...Ah! Coração
+         D            E7        A
+Te dou o céu por um olhar apaixonado
+      C#m                F#m
+Estou aqui, por que não vê
+         D           E7          A
+Meu coração sofrendo tanto por você
+        A             C#m
+Ah! Coração...Ah! Coração
+         D            E7        A
+Te dou o céu por um olhar apaixonado
+      C#m                F#m
+Estou aqui, por que não vê
+         D           E7          A
+Meu coração sofrendo tanto por você...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+B/D# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2

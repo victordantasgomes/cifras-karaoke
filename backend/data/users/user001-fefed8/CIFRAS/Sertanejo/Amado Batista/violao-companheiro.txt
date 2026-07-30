@@ -1,0 +1,62 @@
+@titulo: violao-companheiro
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Violão Companheiro
+
+(intro) C G D7 G  D7
+
+G
+Meu violão companheiro
+   D7              G
+amigos das madrugadas
+
+Suas cordas são poesias
+                            D7
+nas ruas vazias por mim tocadas
+   C
+O céu é o nosso teto,
+   G
+a lua nos ilumina
+  D7                 C
+As estrelas me inspiram
+              D7                   G G7
+pra cantar bonito pra aquele menina.
+
+C          D7   C
+Violão amigo
+             D7                  G
+Que chora comigo acorde o meu amor
+C                   D7
+Vou lhe dizer cantando
+C                 D7             G
+Que esse nosso choro é só por amor.
+
+Meu violão companheiro
+   D7                 G
+você é feito de madeira
+
+Não sofras paixão, não tens ilusão,
+                D7
+tudo é brincadeira
+   C
+Faz da tristeza uma festa,
+   G
+transforma dor em canção
+    D7                     C
+Secas os olhos de quem chora
+                D7            G G7
+no meu peito agora tudo é emoção
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

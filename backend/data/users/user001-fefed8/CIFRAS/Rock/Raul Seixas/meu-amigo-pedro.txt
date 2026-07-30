@@ -1,0 +1,180 @@
+@titulo: meu-amigo-pedro
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - Meu Amigo Pedro
+
+Intro: G
+            G
+E|---------3-3---3-3--3-3-3-3-3-3----------|
+B|---------0-0---0-0--1-0-1-0-0-0----------|
+G|-------0-0-0---0-0--0-0-0-0-0-0----------|
+D|-0-0h2---0-0---0-0--0-0-0-0-0-0----------|
+A|-----------------------------------------|
+E|---------3-3---3-3--3-3-3-3-3-3----------|
+
+Primeira Parte:
+            G
+E|---------3-3---3-3--3-3-3-3-3-3----------|
+B|---------0-0---0-0--1-0-1-0-0-0----------|
+G|-------0-0-0---0-0--0-0-0-0-0-0----------|
+D|-0-0h2---0-0---0-0--0-0-0-0-0-0----------|
+A|-----------------------------------------|
+E|---------3-3---3-3--3-3-3-3-3-3----------|
+
+    C        G
+E|-3-3-3-3--3-3---3-3--3-3-3-3-3-3---------|
+B|-1-1-1-1--0-0---0-0--1-0-1-0-0-0---------|
+G|-0-0-0-0--0-0---0-0--0-0-0-0-0-0---------|
+D|-2-2-2-2--0-0---0-0--0-0-0-0-0-0---------|
+A|-3-3-3-3---------------------------------|
+E|----------3-3---3-3--3-3-3-3-3-3---------|
+
+
+    C        G
+E|-3-3-3-3--3-3---3-3--3-3-3-3-------------|
+B|-1-1-1-1--0-0---0-0--1-0-1-0-------------|
+G|-0-0-0-0--0-0---0-0--0-0-0-0-------------|
+D|-2-2-2-2--0-0---0-0--0-0-0-0---0---0---0-|
+A|-3-3-3-3-------------------------0---2---|
+E|----------3-3---3-3--3-3-3-3-3-----------|
+
+    C
+E|-3-3-3-3--3-3---3-3--3-3-3-3-------------|
+B|-1-1-1-1--1-1---1-1--1-1-1-1-------------|
+G|-0-0-0-0--0-0---0-0--0-0-0-0-------------|
+D|-2-2-2-2--2-2---2-2--2-2-2-2-------------|
+A|-3-3------0-----3-3------0---------------|
+E|-----3-3----3--------3-3---3-------------|
+
+    G
+E|-3-3---3-3--3-3-3-3-3-3------------------|
+B|-0-0---0-0--1-0-1-0-0-0------------------|
+G|-0-0---0-0--0-0-0-0-0-0---------0--------|
+D|-0-0---0-0--0-0-0-0-0-0--0-0h2-----------|
+A|-----------------------------------------|
+E|-3-3---3-3--3-3-3-3-3-3------------------|
+
+  D                D7
+E|-2-2---2-2-2-2----2-2---2-2-2-2----------
+B|-3-3---3-3-3-3----1-1---1-1-1-1----------
+G|-2-2---2-2-2-2----2-2---2-2-2-2----------
+D|-0-0---0-0-0-0----0-0---0-0-0-0----------
+A|-----------------------------------------
+E|-----------------------------------------
+
+  G                G7
+E|-3-3---3-3-3-3----1-1---1-1-1-1----------
+B|-0-0---0-0-0-0----0-0---0-0-0-0----------
+G|-0-0---0-0-0-0----0-0---0-0-0-0----------
+D|-0-0---0-0-0-0----0-0---0-0-0-0----------
+A|-----------------------------------------
+E|-3-3---3-3-3-3----3-3---3-3-3-3----------
+
+
+ G                  C9    G
+Muitas vezes Pedro você fala
+                        C9   G
+Sempre a se queixar da solidão
+  C9                            G
+Quem te fez com ferro fez com fogo, Pedro
+   D                      G
+É pena que você não sabe não
+
+                      C9    G
+Vai pro seu trabalho todo dia
+                         C9  G
+Sem saber se é bom ou se é ruim
+  C9                           G
+Quando quer chorar vai ao banheiro
+ D                            G
+Pedro, as coisas não são bem assim
+
+                         C9  G
+Toda vez que eu sinto o paraíso
+                    C9    G
+Ou me queimo torto no inferno
+    C9                        G
+Eu penso em você meu pobre amigo
+  D                       G
+Que só usa sempre o mesmo terno
+
+Refrão:
+ C9               D             G
+Pedro onde você vai eu também vou
+ C9               D             G
+Pedro onde você vai eu também vou
+           Em        A  D  G
+Mas tudo acaba onde co_me_çou
+
+(Primeira Parte)
+
+(Refrão)
+
+ G                    C9    G
+Tente me ensinar das tuas coisas
+                         C9       G
+Que a vida é séria e a guerra é dura
+ C9                           G
+Mas, se não puder cale essa boca, Pedro
+   D                       G
+E deixa eu viver minha loucura
+
+                      C9      G
+Lembro Pedro aqueles velhos dias
+                         C9       G
+Quando os dois pensavam sobre o mundo
+ C9                     G
+Hoje eu te chamo de careta, Pedro
+D                    G
+E você me chama vagabundo
+
+ C9               D             G
+Pedro onde você vai eu também vou
+ C9               D             G
+Pedro onde você vai eu também vou
+           Em        A  D  G
+Mas tudo acaba onde co_me_çou
+
+                   C9    G
+Todos os caminhos são iguais
+                          C9    G
+O que leva à glória ou a perdição
+ C9                          G
+Há tantos caminhos, tantas portas
+ D                       G
+Mas, somente um tem coração
+                       C9    G
+E eu não tenho nada a te dizer
+                      C9       G
+Mas, não me critique como eu sou
+ C9                      G
+Cada um de nós é um universo, Pedro
+D                       G
+Onde você vai eu também vou
+
+ C9               D             G
+Pedro onde você vai eu também vou
+ C9               D             G
+Pedro onde você vai eu também vou
+           Em        A   D  G
+Mas tudo acaba onde co_me_çou
+             Em        A  D  G
+É que tudo acaba onde co_me_çou
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

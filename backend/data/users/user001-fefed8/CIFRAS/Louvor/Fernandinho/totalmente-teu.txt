@@ -1,0 +1,44 @@
+@titulo: totalmente-teu
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Totalmente Teu
+
+(intro)  Am  G  C  D Am  G  C G F
+
+Am        F          C            G
+Eu quero ser como um vaso em tuas mãos
+Am        F          C         G       Am
+Eu quero ser como um jardim regado por Ti
+          F       C           G             Am F C G
+Eu quero ser dependente, dependente do Teu favor
+Am        F         C             G
+Eu quero ser como criança em Tuas mãos
+Am        F           C         G       Am
+Eu quero ser como uma corça, anseio por Ti
+          F        C           G             Am F C G
+Eu quero ser dependente, dependente do Teu favor
+           Am F C G              Am F C G
+Totalmente Teu Jesus, Totalmente Teu Jesus
+
+(solo final - começa com o teclado)
+E|-----------------------------------------------------------------------------------
+B|-----------------------------------------------------------------------------------
+G|-4h5-4-5v--4h5-4-5v--4h5-4-4-2-2-4-4h5---4h5-4-5v--4h5-4-5v--4h5-7-7h9-10-7-4-4h5--
+D|-----------------------------------------------------------------------------------
+A|-----------------------------------------------------------------------------------
+E|-----------------------------------------------------------------------------------
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

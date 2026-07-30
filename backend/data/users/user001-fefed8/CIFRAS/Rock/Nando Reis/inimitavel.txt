@@ -1,0 +1,85 @@
+@titulo: inimitavel
+@autor:
+@intérprete: Nando Reis
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nando Reis - Inimitável
+
+intro: A E D  (D E A)
+
+   A                      E                       D
+     Não é possível que a gente não encontre um caminho
+         D            E D  A
+     Uma forma de se entender
+                     E
+     Você diz que chegou ao limite
+         D                 D        E  D    A
+     Não basta o limite da vida que vai findar?
+
+              E                     D
+     Tudo é motivo pra que algo aconteça
+                D          E    D   A
+     Nem tudo a gente pode compreender
+              E               D
+     Uma consequência é suficiente razão
+
+                    E
+          Como explicar?
+                            D
+          Se sei que vou morrer
+
+                                 A     E       D
+          Só não vou deixar de viver Ê-ê ê-ê ê-ê
+          A     E            D    (D E A)
+          Na na-na na-na na-na
+
+   A         E            D
+     Cada pessoa é um indivíduo
+           D               E   D   A
+     A diferença é que nos faz iguais
+                 E               D
+     Mesmo que a gente pense parecido
+                    D              E  D   A
+     Nem sempre é possível a gente concordar
+
+                  E
+     Se eu acho bonito
+                  D
+     Cê acha esquisito
+                    D
+     Cê acha isso incrível?
+            E      D     A
+     Eu não posso acreditar
+             E                 D
+     Meu interesse maior é quando me pergunto
+
+                      E
+          Onde ela quer chegar?
+                            D
+          Se vamos todos morrer
+                                  A     E       D
+          Então vamos tratar de viver Ê-ê ê-ê ê-ê
+          A     E            D    (D E A)
+          Na na-na na-na na-na
+
+ponte: E E7 E E7 D (2x)
+
+     A   E       D
+     Ê ê-ê ê-ê ê-ê
+     A     E            D    (D E A)
+     Na na-na na-na na-na
+
+repete segunda parte e refrão
+repete ponte (Quero se você quer - quer se eu quero)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0

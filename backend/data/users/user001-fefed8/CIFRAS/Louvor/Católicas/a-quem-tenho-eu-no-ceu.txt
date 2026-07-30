@@ -1,0 +1,57 @@
+@titulo: a-quem-tenho-eu-no-ceu
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - A Quem Tenho Eu No Céu
+
+Intro: F# B G#m F# C# (2X)
+
+F#                  B
+A quem tenho eu no céu
+G#m          F#        C#
+A quem tenho eu além de Ti
+F#                    B       (2x)
+Tu és a razão da minha vida
+G#m       F#             C#
+Minha existência está em Ti
+A            E/G#     F#m
+Mesmo que os montes caiam
+      A            D
+E os rios transbordem
+       A        E/G#
+Mesmo assim confiarei
+A          E/G#       F#m
+Mesmo que a vida se vai
+       A                                D
+Escorrendo entre os meus dedos
+        A         E/G#
+Mesmo assim não temerei
+
+
+Mesmo que tudo pareça difícil
+Mesmo assim confiarei
+Mesmo assim adorarei
+
+  A       E/G#  F#m        A  D
+Jesus, eu Te adoro, eu Te adoro,
+       B            E D  C#m  B       A
+Eu Te adoro, eu Te adoro,            Jesus...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

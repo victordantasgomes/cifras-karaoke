@@ -1,0 +1,35 @@
+@titulo: seus-passos-na-estrada
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Seus Passos Na Estrada
+
+(intro)  E B F#7 B F#7
+
+B                    F#7                         B
+Quando a chuva molha a rua os seus rastros se apagam
+                  F#7                      B  B7
+Vou tentando descobrir os seus passos na estrada
+
+E                            B
+O meu coração perguntou falando baixinho pra mim
+                  F#7                          B
+Pra onde a chuva levou os passos desse amor sem fim
+
+E                               B
+Eu vejo seu pranto cair e correnteza correr
+                    F#7                          B
+Com a chuva também ele vai, vai procurando por você.
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+F#7 = 2 4 2 3 2 2

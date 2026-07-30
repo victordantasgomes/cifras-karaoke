@@ -1,0 +1,51 @@
+@titulo: alem-do-veu
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Além do Véu
+
+[INT] -> E  B  F#m  B
+
+        E            B
+Além do Véu, além do véu,
+   F#m          B
+Leva-me além do véu.
+        E            B
+Além do Véu, além do véu,
+           F#m   B
+Leva-me além do véu.
+
+             E                  B
+Abra os meus olhos que eu quero ver
+            F#m               B
+A Tua glória neste lugar,
+            E                     B
+E os meus ouvidos, que eu quero ouvir
+           F#m                  B
+O som da glória invadindo o meu ser,
+
+E    B  F#m  B
+Além do Véu...
+
+E    B  F#m  B
+Além do Véu...
+   E    B  F#m  B
+Sou livre, sou livre...
+        E                B              F#m              B
+Além do Véu...Eu posso dançar, eu posso celebrar o meu Senhor
+   E           B           F#m      B
+Além do véu...A liberdade, a liberdade
+           E    B  F#m  B
+Só além do véu...
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

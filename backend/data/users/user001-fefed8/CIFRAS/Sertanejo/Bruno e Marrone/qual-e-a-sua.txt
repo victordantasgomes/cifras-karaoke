@@ -1,0 +1,51 @@
+@titulo: qual-e-a-sua
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Qual É a Sua
+
+[Primeira Parte]
+
+  E            G#m           C#m       A             E/G#            F#m          B7
+Sábado á noite eu te procurei, por toda cidade não te encontrei
+  G#                                                    C#m               A
+Liguei para os seus amigos, mais ninguém soube dizer
+  E                         B7            E
+Continuo sem noticias de você
+
+[Segunda Parte]
+
+E              G#m            C#m     A                 E/G#                 F#m          B7
+Sábado a noite desapareceu, qual foi o motivo por que se escondeu
+   G#                                           C#m                  A
+Ninguém muda de amor, como quem muda de roupa
+         E                   A     B7     E      B7
+Ou você bebeu ou ta ficando louca
+
+[Refrão]
+
+E                                         G#                            A                   B7               E     B7
+Diga meu amor se essa paixão e de lua, do contrario eu não sei qual e a sua
+
+E                                              G#
+Volta meu amor que eu não agüento mais sofrer
+         A                                    B7             A    Am E
+Não me deixe outro fim de semana sem você
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4

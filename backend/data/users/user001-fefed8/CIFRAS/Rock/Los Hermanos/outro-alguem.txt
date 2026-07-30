@@ -1,0 +1,74 @@
+@titulo: outro-alguem
+@autor:
+@intérprete: Los Hermanos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Los Hermanos - Outro Alguém
+
+ [Intro]: Am
+E|-10----------|-10----------|-10----------|-10----------|
+B|----10-12----|----10-12----|----10-12----|----10-12----|
+G|----------11-|----------11-|----------11-|----------11-|
+
+Am
+Não dá mais pra mim
+                F            E
+pra eu poder viver aqui sem ter a ti,
+     Am
+não dava pra prever
+               F
+que eu não ia mais te ter,
+     E          A
+não dava pra saber
+          Dm
+que ia me deixar,
+G
+me trocar por
+
+A7+       Bm7   Dm7
+Outro alguém...     (2x)
+
+Am
+Olho para trás
+          F                  E
+a ver a alegria que você não foi capaz
+  Am
+de me causar
+             F
+penso neste tempo
+       E            A
+que passei sem perceber
+          Dm
+que não queria mais
+   G
+e hoje estás com
+
+A7+       Bm7   Dm7
+Outro alguém...     (12x)
+
+NOS REFRÕES DEDILHE ASSIM:
+
+       Am       Bm7         Dm7         Dm7
+E|-------0--------0---------0-------|----0----|
+B|-----2--------3---------6---6-----|----6----|
+G|---1--------2---------5-------5---|----5----|
+D|-2--------4---------7-----------7-|----7----|
+A|----------------------------------|---------|
+E|----------------------------------|---------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7+ = X 0 2 1 2 0
+Am = X 0 2 2 1 0
+Bm7 = X 2 4 2 3 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

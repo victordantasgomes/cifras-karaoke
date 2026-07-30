@@ -1,0 +1,53 @@
+@titulo: vai-caminhando
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Vai Caminhando
+
+[Refrão]
+
+G  D7/F#        G  D7/G   D7/F#     G              G°
+    Vai  caminhando  como  quem  não  sabe  aonde  ir
+         Am           C          G  C/G  G  C/G  G
+E  vai  caindo  cabisbaixo  por  ai
+
+C            D/C           Bm              Em  Am
+Mas  se  do  meu  Senhor  Jesus  ouvir  a  voz
+             D             Bm                 E4  E
+E  o  seu  caminho  Lhe  entregar  todo  o  caminho
+Am              D          G
+Não  mais  sozinho  vai  ficar
+
+C            D/C           Bm              Em  Am
+Mas  se  do  meu  Senhor  Jesus  ouvir  a  voz
+             D             Bm                 E4  E
+E  o  seu  caminho  Lhe  entregar  todo  o  caminho
+Am              D       G
+Não  mais  sozinho  vai  andar
+
+G   D7/F#        G   D7/G    D7/F#      G           G°
+    Vai  caminhando  como  quem  já  sabe  aonde  ir
+           Am                C        D     G
+E  vai  cantando  a  vida  eterna  a  prosseguir
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2
+D7/F# = X X 4 5 3 5
+D7/G = 3 5 4 5 3 X
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G° = 3 X 2 3 2 X

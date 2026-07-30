@@ -1,0 +1,48 @@
+@titulo: maluco-suburbano
+@autor:
+@intérprete: Detonautas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Detonautas - Maluco Suburbano
+
+(intro 4x) D F C G
+
+E/D                 E/G#              G      D6
+veja o que fizemos pra tentarmos conserta o que passou
+D                        F       C
+não conseguimos, mais nenhuma solução
+E/D             E/G#  G          D6             D
+mais não vamos deixar pra depois o que podemos fazer agora
+F                C              E/D             E/G#
+porquê queremos um mundo melhor pra tentarmos evoluir  G D6 D F C
+E/D            E/G#            G             D6
+neste sistema em que vivemos será que nois vamos conseguir??
+D                      F                 C             E/D
+ideias andam soltas, queremos igualdade nesta maldita sociedade
+E/G#            G           D6
+estamos vendo que não temos mais solução
+D            F      C         E/D         E/G#          G            D6
+as pessoas parecem não terem sentimentos vivem os dias como se fosse o fim,
+D             F           C         E/D        E/G#   D6   D    F    C
+sem pensar que depois vamos ter um novo dia.....ah    ah   ah   ah   ah
+
+
+(refrão 3x)
+G                 D       F            C
+sou um maluco suburbano mas não sou medieval!
+
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D6 = X 5 4 2 0 X
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

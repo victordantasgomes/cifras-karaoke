@@ -1,0 +1,61 @@
+@titulo: a-ilha
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - A Ilha
+
+[Intro] C  F  G  Am  F  G  Am  G/B
+
+    C                            Em
+Talvez você esteja num quarto escuro
+     F                       G
+A espera de uma luz que não vem
+    C                   Em   Em/D
+Talvez você esteja numa ilha
+      F                      G
+A procura de uma paz que lá não tem
+    C                            Em
+Talvez você esteja num quarto escuro
+     F                       G
+A espera de uma luz que não vem
+    C                   Em   Em/D
+Talvez você esteja numa ilha
+      F                      G
+A procura de uma paz que lá não tem
+    E                     Am
+Talvez você esteja num dilema sem saída
+    F       Dm7           G
+Querendo tirar a própria vida
+
+    C           E             Am
+Talvez em suas veias corra o líquido da morte
+  F            G        C    F  G
+Aniquilando a vida e a sorte
+ C                  F   Em Dm  G         G7          F  C   G Am  G
+Jesus, Ele é a tua sorte,     Jesus Ele livra-te da morte
+ C                     F   Em Dm  G          G7       F C   G Am G G7
+Jesus,Ele é o  pão da vida,      Jesus, Ele tem uma saída
+ C                     F  Em Dm  G          G7            F  C   G
+Jesus,Ele é o resolve tudo,     Jesus, para isso veio ao mundo
+ C                    F  Em Dm  G          G7        F G  C
+Jesus,Ele tem a mão amiga,     Jesus, é a vida, é a vi-i-da
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

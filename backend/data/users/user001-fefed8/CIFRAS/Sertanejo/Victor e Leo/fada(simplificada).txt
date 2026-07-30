@@ -1,0 +1,66 @@
+@titulo: fada(simplificada)
+@autor:
+@intérprete: Victor e Leo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Victor e Leo - Fada
+
+(intro 2x) A F#m
+
+(primeira parte)
+
+ A             F#m   A             F#m
+Fada, fada querida, dona da minha vida
+   E                      F#m    E
+Você se foi, levou meu calor, você se foi, mas não me
+    F#m   E
+levou...
+ A             F#m   A                 F#m
+Lua, lua de encanto, ouça pra quem eu canto
+  E                F#m     E                 F#m
+Ela levou minha magia, mas ela é minha alegria
+
+(pré-refrão)
+ D                    E             A
+Vejo uma luz, uma estrela brilhar, sinto um cheiro de
+      F#m
+perfume no ar
+ D                     E                 D
+Vejo minha fada e sua vara de condão, tocando meu
+
+ E   A
+coração
+
+(refrão)
+ A                     F#m
+Madrugada de amor que não vai acabar
+ A                         F#m
+Se estou sonhando, não quero mais acordar
+ D                         E         A   E
+Minha história linda, meu conto de amor
+
+A                             F#m
+Algo aqui me diz que essa paixão não é em vão
+A                       F#m
+O meu sentimento é bem mais que uma emoção
+D                      E          D    E   A
+Eu espero o tempo que for, minha fada do amor
+
+(solo)
+
+  D
+"Vejo uma luz..."
+
+(refrão 2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

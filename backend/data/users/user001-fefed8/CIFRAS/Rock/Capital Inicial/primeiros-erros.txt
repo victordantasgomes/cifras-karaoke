@@ -1,0 +1,198 @@
+@titulo: primeiros-erros
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Capital Inicial - Primeiros Erros
+
+[Intro] D5(9)  D  E/D
+        D5(9)  D  E/D
+        D9  D5(9/C#)  G6/B
+        D9  D5(9/C#)  G6/B
+
+[Parte 1]
+
+  D5(9)            D     E/D
+E|-5-5--2h5---5-5-5-2-2-2/4-------4--------|
+B|-3-3------5-------3-3-3/5-5---7---5------|
+G|-2-2--------------2-2-2/4---4-------4----|
+D|-0----------------0----------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+E|---4-----4-------------------------------|
+B|-7---5---5-------------------------------|
+G|-------4-4-------------------------------|
+D|---------0-------------------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+
+  D5(9)            D     E/D
+E|-5-5--2h5---5-5-5-2-2-2/4-------4--------|
+B|-3-3------5-------3-3-3/5-5---7---5------|
+G|-2-2--------------2-2-2/4---4-------4----|
+D|-0----------------0----------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+E|---4-------4-----------------------------|
+B|-7---5---7---5---------------------------|
+G|-------4-------4-------------------------|
+D|-----------------------------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+[Parte 2]
+
+  D9              D5(9/C#)
+E|-0---------------------------------------|
+B|-10------10---------10------10-----------|
+G|-11--11--11--11--9--9----9--9---9--------|
+D|-0---0---0---0---0-------0------0--------|
+A|-----------------------------------------|
+E|-----------------9-----9------9----------|
+
+  G/B
+E|-------------------------7---------------|
+B|---8------8--------8-----8---------------|
+G|-7-7---7--7---7--7-7---7-----7-----------|
+D|-0-----0------0--0-----0-----0-----------|
+A|-----------------------------------------|
+E|-7---7------7----7---7-----7-------------|
+
+[Primeira Parte]
+
+D5(9)        D5(7M/9)          D5(9)
+      Meu caminho é cada manhã
+         D5(7M/9)          Bm7(11)
+ Não procure saber onde estou
+
+        Bm7(9/11)         Bm7(11)
+Meu destino não é de ninguém
+          A4(7)                    D5(9)
+E eu não deixo os meus passos no chão
+
+      D5(7M/9)           D5(9)
+Se você não entende não vê
+           D5(7M/9)     Bm7(11)
+Se não me vê não entende
+        Bm7(9/11)         Bm7(11)
+Não procure saber onde estou
+          Bm7(9/11)     G7M
+Se o meu jeito te surpreende
+
+[Segunda Parte]
+
+          G4+(6)        G7M
+Se o meu corpo virasse sol
+            G4+(6)        Em7(9)
+Se a minha mente virasse sol
+         Em7(13)    Em7(9)
+Mas só chove, chove
+  Em7(13)
+Chove, chove
+
+( D9  D5(9/C#)  G6/B )
+( D9  D5(9/C#)  G6/B )
+
+[Primeira Parte]
+
+D5(9)        D5(7M/9)       D5(9)
+      Se um dia eu pudesse ver
+        D5(7M/9)    Bm7(11)
+Meu passado inteiro
+     Bm7(9/11)         Bm7(11)
+E fizesse parar de chover
+        Bm7(9/11)   G7M
+Nos primeiros erros
+
+[Segunda Parte]
+
+     G4+(6)        G7M
+Meu corpo viraria sol
+       G4+(6)        Em7(9)
+Minha mente viraria sol
+         Em7(13)    Em7(9)
+Mas só chove, chove
+  Em7(13)    G7M
+Chove, chove
+
+     G4+(6)        G7M
+Meu corpo viraria sol
+       G4+(6)       Em7(9)
+Minha mente viraria
+         Em7(13)    Em7(9)
+Mas só chove, chove
+  Em7(13)
+Chove, chove
+
+( D  E/D )
+( D  E/D )
+
+[Primeira Parte]
+
+D5(9)        D5(7M/9)       D5(9)
+      Se um dia eu pudesse ver
+        D5(7M/9)    Bm7(11)
+Meu passado inteiro
+     Bm7(9/11)         Bm7(11)
+E fizesse parar de chover
+        Bm7(9/11)   G7M
+Nos primeiros erros
+
+[Segunda Parte]
+
+[Segunda Parte]
+
+     G4+(6)        G7M
+Meu corpo viraria sol
+       G4+(6)        Em7(9)
+Minha mente viraria sol
+         Em7(13)    Em7(9)
+Mas só chove, chove
+  Em7(13)    G7M
+Chove, chove
+
+     G4+(6)        G7M
+Meu corpo viraria sol
+       G4+(6)       Em7(9)
+Minha mente viraria
+         Em7(13)    Em7(9)
+Mas só chove, chove
+  Em7(13)    G7M
+Chove, chove
+
+     G4+(6)        G7M
+Meu corpo viraria sol
+       G4+(6)        Em7(9)
+Minha mente viraria sol
+         Em7(13)    Em7(9)
+Mas só chove, chove
+  Em7(13)
+Chove, chove
+
+( D9  D5(9/C#)  G6/B )
+( D9  D5(9/C#)  G6/B )
+( D5(9)  E/D  D5(9) )
+
+----------------- Acordes -----------------
+A4(7) = X 0 2 0 3 0
+Bm7(11) = X 2 0 2 3 0
+Bm7(9/11) = X 2 0 2 2 0
+D = X X 0 P2 3 2
+D5(7M/9) = X X 0 2 2 0
+D5(9) = X X 0 2 3 5
+D9 = X X 0 11 10 0
+E/D = 0 X 0 P4 5 X
+Em7(13) = 0 2 0 0 2 0
+Em7(9) = 0 2 0 0 3 2
+G/B = X 2 0 0 3 3
+G6/B = 7 0 0 7 8 0
+G7M = 3 0 0 0 0 2

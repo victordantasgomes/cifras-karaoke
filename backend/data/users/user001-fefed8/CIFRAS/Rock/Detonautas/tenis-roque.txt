@@ -1,0 +1,96 @@
+@titulo: tenis-roque
+@autor:
+@intérprete: Detonautas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Detonautas - Tênis Roque
+
+Riff 1
+  16x                     16x                "V” efeito de pedal
+E|---------------------------------------------------------------------------|
+B|---------------------------------------------------------------------------|
+G|-14-11-12-14-12-11-------14-11-12-14-12-11---------------------------------|
+D|-12----------------14-12-12----------------12V-----------------------------|
+A|----------------------------------------------V----------------------------|
+E|-----------------------------------------------V---------------------------|
+
+
+base do solo: D5  A5  F#5  G5
+
+Int.: Riff 1
+
+D9         A9         B9               G9
+Peguei meu tênis fui atrás do meu melhor
+D9        A9          B9         G9
+Hoje é um dia quente, tudo vai mudar
+
+D            A/C#        Bm           G9
+É que esta estrada vive sempre cheia assim
+
+
+D9          A/E             Bm/F#        G9
+Se eu não seguir em frente quem vai me levar?
+
+
+Bm            G
+ Tento olhar o sol
+                A        G                      Bm
+Quero me encontrar , sem medo de talvez errar então
+             G                    A
+Sempre fico assim , vou pro meu lugar
+    G                          D    A G
+Não quero mais ficar parado em vão
+
+
+D A G
+     Seja como for
+D A G
+     Deixa acontecer
+D A G
+     Seja como for
+
+
+Riff 2 - (E D C)
+
+E|-------------------------------------------------------|
+B|-------------------------------------------------------|
+G|-------------------------------------------------------|
+D|-7/9-7/9-7/9--5/7-5/7-5/7--4/5-4/5-4/5--5/7-5/7-5/7----|
+A|-5/7-5/7-5/7--3/5-3/5-3/5--2/3-2/3-2/3--3/5-3/5-3/5----|
+E|-------------------------------------------------------|
+
+
+Se você não vem tudo bem
+Vice e versa o que é que tem vivo zen, eu não fico sem
+Um bom motivo que me leve a um bom lugar
+E quando chega a hora nào demora ou ela vai passar
+Eu não espero sempre faço acontecer
+Sem desespero vejo o dia amanhecer
+Sei que quem luta nunca vai ficar pra trás
+Vem preparado que agora eu quero mais então.
+Que agora eu quero mais então.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A5 = X 0 2 2 X X
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+Bm = X 2 4 4 3 2
+Bm/F# = X X 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+F#5 = 2 4 4 X X X
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X
+G9 = 3 X 0 2 0 X

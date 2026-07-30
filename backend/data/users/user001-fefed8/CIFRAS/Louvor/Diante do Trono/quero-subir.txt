@@ -1,0 +1,98 @@
+@titulo: quero-subir
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Quero Subir
+
+Intro: Am7  Em7  Dm7  Am7  F  Em7  Dm7  F/G
+
+Primeira parte 2x:
+         C                  Em7
+Quero subir ao monte santo de Sião
+      Am7                        Em7
+E entoar um novo cântico ao meu Deus
+ F          G/F
+Mais que palavras
+       Em7          F
+Minha vida eu quero entregar
+     Am7    Em7     Dm7                          Em7
+Purifica o meu coração para entrar em Tua presença
+ F                  F/G    G
+Contemplar Tua grandeza
+
+Refrão 2x:
+             C        Am7            Dm7
+Te adoro Senhor em espírito e em verdade
+     F/G             C          Am7        F
+Me prostro aos teus pés na beleza da santidade
+
+               Dm7                     Em7
+Te dou meu louvor que seja um cheiro suave
+      F       Em7     Dm7
+E um som agradável a Ti
+           F
+Pois digno és
+
+( C  Am  G  G/A  A )
+
+Primeira parte:
+         D                  F#m7
+Quero subir ao monte santo de Sião
+      Bm7                        F#m7
+E entoar um novo cântico ao meu Deus
+ G          A/G
+Mais que palavras
+       F#m7             G
+Minha vida eu quero entregar
+     Bm7    F#m7    Em7                          F#m7
+Purifica o meu coração para entrar em Tua presença
+ G                  G/A  A
+Contemplar Tua grandeza
+
+Refrão 2x:
+             D        Bm7            Em7
+Te adoro Senhor em espírito e em verdade
+     G/A             D          Bm7        G
+Me prostro aos teus pés na beleza da santidade
+               Em7                     F#m7
+Te dou meu louvor que seja um cheiro suave
+      G       F#m7    Em7
+E um som agradável a Ti
+           G/A
+Pois digno és
+
+Final 2x:
+               Em7                     F#m7
+Te dou meu louvor que seja um cheiro suave
+      G       F#m7    Em7
+E um som agradável a Ti
+           G/A
+Pois digno és
+
+Final: G7M  F#m7  Em7  D7M  G
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/G = 3 X 2 2 2 X
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7M = X X 0 2 2 2
+Dm7 = X 5 7 5 6 5
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F#m7 = 2 X 2 2 2 X
+F/G = 3 X 3 2 1 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/F = 1 X X 0 0 3
+G7M = 3 X 4 4 3 X

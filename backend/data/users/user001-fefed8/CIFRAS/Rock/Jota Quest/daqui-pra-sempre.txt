@@ -1,0 +1,91 @@
+@titulo: daqui-pra-sempre
+@autor:
+@intérprete: Jota Quest
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jota Quest - Daqui Pra Sempre
+
+(intro 4x) Em7 A C G
+
+Em            A
+   Quero te dizer
+      C       G
+   A palavra certa
+Em              A
+   Como o novo dia
+             C            G
+   Que vai nascer em um segundo
+Em                      A
+   Me levantei antes do sol
+         C            G
+   Pra poder vê-lo surgindo
+Em                 A
+   Trazendo clara luz
+         C             G      Em Em7 A  C  G (2x)
+   Iluminando o seu sorriso
+
+Em                A
+   Chego como um som suave
+
+       C           G
+   Soprando teu ouvido
+Em                 A
+   Como brisa da tarde
+       C            G
+   Trazendo o céu noturno
+Em            A
+   Preso à tua calma órbita
+       C            G
+   Quero te ver brilhar no céu
+Em              A
+   Uma estrela vermelha
+          C         G
+   Num pedaço de papel
+
+C7+                G
+   Quero te ver seguir em frente
+
+   Daqui pra sempre
+C7+                Em7
+   Te proteger do frio
+
+   Ao menor sinal de tempestade
+C7+                        G             Em7
+   E, depois da chuva, apreciar contigo
+
+   O arco-irís próximo
+A7                     C
+   Quero acreditar em você
+            D                Em7  A
+   Como acredito em mim
+      C             G    (Em7 A C G) (mil vezes)
+   Preciso de você assim
+
+(solo para várias partes da música)
+E |-----------------------------------12-10-------------------------|
+B |-----8-12-10--------8-12-10-12---8-------12-10-8-------8-12-10-8-|
+G |-7~9---------9--7~9-------------------------------7~9------------|
+D |-----------------------------------------------------------------|
+A |-----------------------------------------------------------------|
+E |-----------------------------------------------------------------|
+
+(no decorrer da música, em praticamente todos os Em podem ser tocados rápidos
+Em7 na transição de acordes)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3

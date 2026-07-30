@@ -1,0 +1,70 @@
+@titulo: deus-companheiro
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Deus Companheiro
+
+[Intro] D/F#  C/E  G 
+        D/F#  C/E  G 
+
+G              D/F#         Em           Em/D
+Muitas pessoas tem, idéias erradas sobre Deus
+D                     D#°          G   (D/F#  C/E)
+Pensam que Deus é energia ou a natureza
+G                   D/F#              Em/D        Em/C#
+Pensam que Deus só acorda na festa da páscoa ou natal
+C                     D           C              G
+E que está mais preocupado em celebrar algum ritual
+
+C                  G          B7              Em  Em/D
+Pensam num Deus distante, impossível de ser tocado
+    C                G            Am7               D  B7
+Com quem não se pode conversar, a quem não se pode amar
+Em                   Em/D#     Em/D        Em/C#
+Um Deus de braços cruzados, um Deus ultrapassado
+    C           D             G  (D/F#  C/E  (2x)
+Mas Deus não é assim, Deus é amor
+
+G               D/F#             Em             Em/D
+Eu descobri que Deus é tão preocupado com meu viver
+D                D#°            C            G      
+Que até mesmo mandou seu filho vir por mim morrer
+                D/F#           Em/D    Em/C#
+Pra me livrar daquilo que me fazia infeliz
+   C             C               C            G 
+E acreditar em Jesus foi a única coisa que eu fiz
+
+ C           G          B7          Em        Em/D
+Acreditar em seu amor, acreditar em seu perdão
+  C           G         D  B7
+E receber por fé a salvação
+  Em            Em/D#     Em/D    Em/C#
+Daí em diante gozar, a amizade de Deus
+  C          D             G  D/F#  Em
+E é meu companheiro a cada dia 
+  C          D             G  D/F#  Em
+E é meu companheiro a cada dia 
+  C          D             C  G/B  Am7  G
+E é meu companheiro a cada dia
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+D#° = X X 1 2 1 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em/C# = X 4 2 0 0 X
+Em/D = X X 0 4 5 3
+Em/D# = X X 1 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

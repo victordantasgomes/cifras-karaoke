@@ -1,0 +1,65 @@
+@titulo: vou-prosseguir
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Vou Prosseguir
+
+Intro: Bm7  F#m  D  E
+
+             Bm7
+Eu vou prosseguir
+             F#m                A9  E
+Cheguei até aqui e não vou desistir
+       Bm7         D
+Eu viverei e cumprirei
+                 A            E
+Os propósitos de Deus pra mim
+     Bm7         A/C#  D
+Eu viverei e cumpri   rei
+                 A9            E
+Os propósitos de Deus pra mim
+
+
+             Bm7
+Eu vou prosseguir
+             F#m                A9  E
+Cheguei até aqui e não vou desistir
+       Bm7         D
+Eu viverei e cumprirei
+
+                 A9            E
+Os propósitos de Deus pra mim
+     Bm7         A/C#  D
+Eu viverei e cumpri   rei
+                 A9            E
+Os propósitos de Deus pra mim
+
+
+             Bm7
+Eu vou prosseguir
+             F#m                A9  E
+Cheguei até aqui e não vou desistir
+       Bm7         D
+Eu viverei e cumprirei
+                 A9            E
+Os propósitos de Deus pra mim
+     Bm7         A/C#  D
+Eu viverei e cumpri   rei
+                 A
+Os propósitos de Deus pra mim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

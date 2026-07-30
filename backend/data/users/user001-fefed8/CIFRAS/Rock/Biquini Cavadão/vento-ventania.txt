@@ -1,0 +1,111 @@
+@titulo: vento-ventania
+@autor:
+@intérprete: Biquini Cavadão
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Biquini Cavadão - Vento Ventania
+
+(intro 4x) B B7+ E
+
+B                   F#           E
+Vento, ventania, me leve para as bordas do céu
+                   B      B7     E
+Pois vou puxar as barbas de Deus
+B                   F#             E
+Vento, ventania, me leve para onde nasce a chuva
+     B                 F#         E
+Pra lá de onde o vento faz a curva
+
+    C#m
+Me deixe cavalgar nos seus desatinos
+F#7                      B
+Nas revoadas, redemoinhos
+G#m         C#m      E           F#
+Vento, ventania, me leve sem destino
+B                   F#  E
+Quero juntar-me a você  e carregar os balões pro mar
+B                F#
+Quero enrolar as pipas nos fios
+
+E                       B
+Mandar meus beijos pelo ar
+             F#
+Vento, ventania,
+    E                   G#m
+Me leve pra qualquer lugar
+    B                  F#
+Me leve para qualquer canto do mundo
+E               G#m
+Ásia, Europa, América
+
+(solo base) B F# E
+
+B                   F#           E
+Vento, ventania, me leve para as bordas do céu
+                   B            E
+Pois vou puxar as barbas de Deus
+B                   F#                  E
+Vento, ventania, me leve para os quatro cantos do mundo
+B                       F# E
+Me leve pra qualquer lugar
+
+    C#m
+Me deixe cavalgar nos seus desatinos
+F#7                      B
+Nas revoadas, redemoinhos
+G#m         C#m      E           F#
+Vento, ventania, me leve sem destino
+
+B               F#
+Quero mover as pás dos moinhos
+E
+E abrandar o calor do sol
+B                   F#
+Quero emaranhar o cabelo da menina
+E                       B
+Mandar meus beijos pelo ar
+             F#
+Vento, ventania,
+    E                   G#m
+Me leve pra qualquer lugar
+    B                  F#
+Me leve para qualquer canto do mundo
+E                     (B  F#  E)
+Ásia, Europa, América
+
+    C#m
+Me deixe cavalgar nos seus desatinos
+F#7                      B
+Nas revoadas, redemoinhos
+G#m         C#m      E          F#
+Vento, ventania, me leve sem destino
+
+B                   F# E
+Quero juntar-me a você  e carregar os balões pro mar
+B                F#
+Quero enrolar as pipas nos fios
+E                       B
+Mandar meus beijos pelo ar
+             F#   E                      G#m
+Vento, ventania, agora que estou solto na vida
+    B                  F#
+Me leve pra qualquer lugar
+
+    E              F#      B  F#
+Me leve mas não me faça voltar.       (3x)
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+B7+ = X 2 4 3 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,114 @@
+@titulo: larissa
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nx Zero - Larissa
+
+  Intro:
+
+E|--10/0-----------------------------|
+
+  Base introdução: Em C9 D4 G D4/F# (x2)
+
+  Solo:
+
+e|-10h12-12/8-8-7-7h8-7------7-8-8-10-8-7------------------------7-7-7-7h8-7----|
+B|---------------------8-8--8-8-8-8--8-8-8/10-8/10-10-10-8-7-8--8-----------8-8-|
+G|------------------------------------------------------------------------------|
+D|------------------------------------------------------------------------------|
+A|------------------------------------------------------------------------------|
+E|------------------------------------------------------------------------------|
+
+e|------10-10-10----------------------------------------------------------------|
+B|-8-8-8--8--8--8-8-8-8h10-8-7-8------------------------------------------------|
+G|------------------------------------------------------------------------------|
+D|------------------------------------------------------------------------------|
+A|------------------------------------------------------------------------------|
+E|------------------------------------------------------------------------------|
+
+
+  Em7             C9          D4                 G        D4/F# Em
+  Era um dia sem fim,onde palavras sinceras causaram um dia feliz
+             C9                         D4                       G
+  Procurei você por tanto tempo só pra lhe dizer que quero aprender,
+       D4/F#   Em7             C9             D4           G              D4/F#   Em
+  Aprender a viver, viver de amor, amor é você, apenas você com quem eu quero ficar
+             C9                     D4               D
+  Ficar para sempre sonhando, esse dia não possa acabar.
+
+  RIFF 1
+
+C9      D4       D       Em7          C9             Em7
+  Mas o medo me deixava lá,de que um dia eu possa perder
+        D9  G   C9 Em       D4           G         C9 Em  D4    C9  Bb*
+  Então vou viiiiveer, para sempre com você, quero viiveeeer.
+
+  Em7             C9          D4                 G         D4/F#  Em
+  Era um dia sem fim, onde palavras sinceras causaram uma vida feliz
+             C                         D4                      G
+  Procurei você por tanto tempo, agora que achei não vou te perder
+  D4/F# Em  C9         D4  G
+  Nunca vou, vou te perder
+  D4/F# Em  C9          D4  D
+  Nunca vou, vou te perder
+
+ RIFF 1
+
+C9      D4       Em7  D4/F#     C     Em7 C9  D9
+  Eu te amo como nunca amei ninguém, agora eu vou...
+ G   C9 Em       D4           G         C9 Em D4
+ Viiiiveer, para sempre com você, quero viiveeeer;
+ G   C9 Em       D4           G         C9 Em
+ Viiiiveer, para sempre com você, quero viiver
+      D4
+ Para sempre com você
+
+ G C9 Em D4 (x2)
+ G C9 Em
+
+ D4             G   C9 Em
+ Era um dia sem fim
+ D4             Bb*
+ Era um dia sem fim
+
+ Sem fim!
+
+e|-7------7------------|   Obs. Repete isso várias vezes.Ainda outros solos perdidos na música,
+B|----8-10-------------|        mas nenhum vale a pena tirar.
+G|--9-9--9-------------| -----> Riff 1**
+D|---------------------|
+A|---------------------|
+E|---------------------|
+
+ a maior parte da música           e|-10-10-10-10-10-10---|  
+ tem um violão ao                  B|-8--8--8--8--8--8----|        
+ fundo fazendo isso:               G|---------------------|
+
+
+
+Bb*               Em e Em7
+e|-3-|-3-----|°    |-3--|°     
+B|-3-|-3-----|°    |-3--|°
+G|-0-|-0-----|°    |-0--|°
+D|-3-|-2-----|°    |-2--|°
+A|-1-|-1-----|°    |-2--|°
+E|-----------|X    |-0--|°
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D4/F# = 2 X X 2 3 3
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3

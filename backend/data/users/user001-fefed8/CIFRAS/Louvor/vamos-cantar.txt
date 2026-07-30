@@ -1,0 +1,45 @@
+@titulo: vamos-cantar
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Vamos Cantar
+
+Intro: E  B/D#  C#m  B  A  G#m  F#m  B7 (2x)
+       B7  B7  B7
+
+E    B/D#   C#m              A                 B7
+ Vamos cantar,cantar na paz do meu Senhor Jesus
+E     B/D#        C#m                        A         B7
+ Deixar que o amor  de Deus se torne em nossa vida luz.
+
+           G#m  C#m       A7+               B7
+É tão bom estar aqui     juntos, louvando ao Senhor
+               G#m   C#m         A7+              B7    B7  B7  B7
+Soltar a nossa voz e assim      exaltar o Deus de Amor..or..or
+
+Vamos dançar, dançar na paz do meu Senhor Jesus
+Deixar que o amor de Deus se torne em nossa vida luz.
+
+Vamos sorrir, sorrir na paz do meu Senhor Jesus
+Deixar que o amor de Deus se torne em nossa vida luz.
+
+Vamos louvar, louvar na paz do meu Senhor Jesus
+Deixar que o amor de Deus se torne em nossa vida luz.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7+ = X 0 2 1 2 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

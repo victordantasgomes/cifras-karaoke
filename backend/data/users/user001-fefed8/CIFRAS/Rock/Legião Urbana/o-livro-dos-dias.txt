@@ -1,0 +1,99 @@
+@titulo: o-livro-dos-dias
+@autor:
+@intérprete: Legião Urbana
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Legião Urbana - O Livro Dos Dias
+
+[Intro]  D  Em  F#m  Bm  Em  A  G
+
+    D
+Ausente o encanto antes cultivado
+   Em
+Percebo o mecanismo indiferente
+         F#m
+Que teima em resgatar sem confiança
+        Bm
+A essência do delito então sagrado
+          Em
+Meu coração não quer deixar
+
+Meu corpo descansar
+   A
+E teu desejo inverso é velho amigo
+ G
+Já que o tenho sempre a meu lado
+
+        D      Em      F#m      Bm      Em      A      G
+E|------------------------3----|-----------------------------------|
+B|--12--10--8--7--3-----5----5-|--12-10-12-10-12-15-13-12-15-13-12-|
+G|--------------------4-----4--|-----------------------------------|
+D|-----------------------------|-----------------------------------|
+A|-----------------------------|-----------------------------------|
+E|-----------------------------|-----------------------------------|
+
+
+G                        A
+Hoje então aceitas pelo nome
+   D
+O que perfeito entregas mas é tarde
+  C
+Só daria certo aos dois que tentam
+  Em
+Se ainda embriagado pela fome
+  A
+Exatos teu perdão e tua idade
+     G
+O indulto a ti tomasse como bênção
+
+        D      Em      F#m      Bm      Em      A      G
+E|------------------------3----|-----------------------------------|
+B|--12--10--8--7--3-----5----5-|--12-10-12-10-12-15-13-12-15-13-12-|
+G|--------------------4-----4--|-----------------------------------|
+D|-----------------------------|-----------------------------------|
+A|-----------------------------|-----------------------------------|
+E|-----------------------------|-----------------------------------|
+
+        E
+Não esconda a tristeza de mim
+           F#m
+Todos se afastam quando o mundo está errado
+                G#m
+Quando o que temos é um catálogo de erros
+              C#m
+Quando precisamos de carinho
+Força e cuidado
+F#m
+Este é o livro das flores
+B
+Este é o livro do destino
+        A
+Este é o livro de nossos dias
+        E
+Este é o dia dos nossos amores
+
+E|--12--11--9--7--12--11--9--7---|
+B|-------------------------------|
+G|-------------------------------|
+D|-------------------------------|
+A|-------------------------------|
+E|-------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

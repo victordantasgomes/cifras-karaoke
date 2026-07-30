@@ -1,0 +1,41 @@
+@titulo: oferecemos-tudo
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Oferecemos Tudo 
+
+D                A9
+To the King of Kings
+                 F#m
+And the Lord of Lords
+       D            E
+We respond with everything
+
+D               A9
+Para o Rei dos Reis
+                 F#m
+E o Senhor dos Senhores
+            E
+Oferecemos Tudo
+
+          D             A9
+Nothing less, nothing less
+          F#m          E
+Nothing less than our best
+          D             A9
+Nothing less, nothing less
+          F#m         E
+Nothing less than everything
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

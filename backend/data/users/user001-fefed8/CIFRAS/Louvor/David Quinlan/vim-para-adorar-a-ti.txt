@@ -1,0 +1,46 @@
+@titulo: vim-para-adorar-a-ti
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Vim Para Adorar a Ti
+
+[INT] -> G - D/F# - Em - C - Am - D
+
+    G D/F#      Em   Em/D   C9 Am      D
+Eu vim para adorar a ti eu vim para dizer que eu
+    Dº     Bm           Em   Em/D C9 Am      D
+te amo oh Pai és tudo para mim e eu exalto o teu
+ D4      C9 G C9
+nome oh Pai.
+ Bm       E
+Eu   exalto o teu nome.
+ C9 Am      D       D4 C9 G E
+Eu   exalto o teu nome.
+ C9 Am       D/F#
+Eu   exalto o teu nome.
+ Bm       E
+Eu exalto o teu nome.
+ C9 Am        D/F#           C9     Am       F#m
+Eu     exalto o teu nome oh Pai oh Pai eh eh Pai.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+Dº = X X 0 1 0 1
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

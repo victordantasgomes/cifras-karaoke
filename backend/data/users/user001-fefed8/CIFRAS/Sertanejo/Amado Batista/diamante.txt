@@ -1,0 +1,43 @@
+@titulo: diamante
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Diamante
+
+Intro: D G D G A7 D
+
+ D                                          G
+Quem falou da minha dor não sabe o que eu chorei
+                                      A7      D
+Quem falou da minha dor não sabe o que eu te amei  ( 2x )
+
+Refrão:
+
+          A7
+Eu te conheci, a caminho de uma estrada
+                       G     A7    D
+Era noite, quase madrugada e eu te vi,
+
+               A7
+Mas quando te olhei, suas curvas sinuantes
+                      G    A7    D
+Com o seu brilho diamante eu te amei,
+
+                     A7
+Mas você ficou na estrada
+                  G    A7     D
+E o que era madrugada e eu passei...
+
+( Repete Tudo )
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3

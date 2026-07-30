@@ -1,0 +1,47 @@
+@titulo: va-embora
+@autor:
+@intérprete: Amado Batista
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Amado Batista - Vá Embora
+
+(intro) A E7 A E7 A E7
+
+A            E7
+Vai embora do meu mundo
+              A
+Não quero mais nada contigo
+                 E7
+Não se importe com o meu pranto
+               A
+Que isso eu resolvo comigo
+      A7       D
+É duro gostar de alguém
+  E7           A
+E ver esse alguém partir
+             D
+Me espere fechar os olhos
+ E7          A
+Não quero te ver sair
+
+         E
+Vá embora, vá embora
+   D              A
+Esquece esse tolo que te adora
+              E7
+Vá sorrindo, vá cantando
+   D                A
+Esquece que eu fiquei aqui chorando
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0

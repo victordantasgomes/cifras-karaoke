@@ -1,0 +1,77 @@
+@titulo: joga-no-lixo
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - Joga no Lixo
+
+    A                    E
+Cansei não dá certo da gente se amar
+     F#m                    D
+Estressei desse jeito não pode ficar
+    A             E
+É briga toda hora, para com isso
+F#m                D
+Deleta logo esse amor joga no lixo.
+
+( A  E  D  D )  (Abafando)  (2x)
+
+( A  E  D  D )  (2x)
+
+E|--5-7/9-4-7-4/5-2-4-2-4-2-0-|
+B|--x-x---x-x-x---x-x-x-x-x-x-|
+G|--6-7/9-4-7-4/6-2-4-2-4-2-1-|
+D|----------------------------|
+A|----------------------------|
+E|----------------------------|
+
+E|--7/9-4-7-2-12-12-12-14-12-|
+B|--x---x-x-x--x--x--x--x--x-|
+G|--7/9-4-7-2-13-13-13-14-13-|
+D|---------------------------|
+A|---------------------------|
+E|---------------------------|
+
+
+A         E     D
+Eu juro que tentei Ficar com você
+A         E      D                A
+Eu juro me esforcei pra te entender
+
+             A            E
+Mas nada ta bom Nada ta certo
+        D                        A
+Não há nada que traga você pra perto
+      E           D                 A               E
+Impossível esse amor    Parei de festar Parei de jogar
+     D                       A
+Esqueci todos os amigos do bar
+          E          D
+Vê se entende por favor...
+
+             A            E
+Mas nada ta bom Nada ta certo
+        D                        A
+Não há nada que traga você pra perto
+      E           D                 A               E
+Impossível esse amor    Parei de festar Parei de jogar
+     D                       A
+Esqueci todos os amigos do bar
+          E          D
+Vê se entende por favor...
+
+(Refrão)
+
+(Repete tudo)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,32 @@
+@titulo: se-eu-pedir
+@autor:
+@intérprete: Fresno
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fresno - Se Eu Pedir
+
+(E C#m A F#m B7)
+
+Se eu te pedir
+Pra você ficar para o jantar
+Vai te servir como uma declaração de amor...
+Se eu te implorar e você disser que não vai dar...
+Nem vem aqui para ver o meu coração depois...
+de você pisar...
+De você me usar e me largar...
+Foi tudo em vão o que eu fiz pra você voltar?
+E não há ninguém...
+Para me amar e me impedir de ficar correndo atrás do meu sonho!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

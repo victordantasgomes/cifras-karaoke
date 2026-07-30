@@ -1,0 +1,61 @@
+@titulo: um-beijo-pra-acabar
+@autor:
+@intérprete: Biquini Cavadão
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Biquini Cavadão - Um Beijo Pra Acabar
+
+E            G#m7        A                Am                     E
+  O seu rosto a meia luz, tem coisas impossíveis de esquecer
+                            G#m7  A                    Cm6             G
+O silêncio vem trazer, palavras que deixamos de dizer
+
+G     D     Em    C    G             D      Em   C
+  Eu abro as janelas, deixo o sol entrar
+G          D    Em         C
+ Não é dor, nem saudade
+Am             Cm6     G     Am  G9/B
+Só o pensamento triste
+Am                     Cm6        D
+Pois não somos mais um par
+
+C          D       Bm7      Em
+ Mas o tempo vai passar
+C              D                Bm7   Em
+ E não podemos terminar assim
+C          D         Bm7   Em
+ Então vamos combinar
+Am                       Cm6                        D
+Sou mais um beijo, um beijo pra acabar
+
+
+Solo     E   G#m7  A Am   E   E   A Am   E
+
+E               G#m7           A                Am                      E
+ Mentiras, discussões, coisas impossíveis de esquecer
+                                G#m7     A                 Cm6                 G
+Você tenta me entender, em tudo que deixamos de te dizer
+
+Am                       Cm6                         G   C9 G9/B   C9 C9/D   G
+ Sou mais um beijo, um beijo pra acabar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+C9/D = X 5 5 5 3 3
+Cm6 = X 3 X 2 4 3
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G#m7 = 4 X 4 4 4 X
+G9/B = 7 X X 7 8 5

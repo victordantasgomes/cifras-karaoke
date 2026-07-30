@@ -1,0 +1,65 @@
+@titulo: quando-eu-olho-tua-santidade
+@autor:
+@intérprete: Asaph Borba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Asaph Borba - Quando Eu Olho Tua Santidade
+
+Intro: C7+ F7+
+
+                C7+              F7+ F/G
+Quando olho tua santidade 
+            C7+                  F7+ F/G
+Quando vejo tua formosura 
+             C7+          G/B     F/A                  Bb  Am  G7  Gsus
+Quando tudo obscurece devido teu resplendor 
+ 
+                 C7+                       F7+    F/G
+Quando encontro gozo no teu coração 
+
+             C7+                            F7+        F/G
+Quando tua santidade reina em minha vida 
+
+              C7+         G/B     F/A                    Bb  Am7  G7
+Quando tudo obscurece devido teu resplendor 
+ 
+G7     F  G/F  G Am G/B Em7  A7
+Adorarei,        a-do-  ra -  rei, 
+
+     Dm7    Dm/C  G7/B       C  Dm  Em
+Eu vivo Senhor,    pra te adorar. 
+ 
+  G7     F  G/F  G Am G/B Em7  A7
+Adorarei,        a-do-  ra -  rei, 
+
+     Dm7    Dm/C  G7/B       C
+Eu vivo Senhor,    pra te adorar.
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+Dm7 = X 5 7 5 6 5
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F/G = 3 X 3 2 1 X
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/F = 1 X X 0 0 3
+G7 = 3 5 3 4 3 3
+G7/B = X 2 3 0 3 X
+Gsus = 3 2 0 0 0 3

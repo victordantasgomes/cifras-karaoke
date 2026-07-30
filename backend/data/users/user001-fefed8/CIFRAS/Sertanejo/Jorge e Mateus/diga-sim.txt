@@ -1,0 +1,49 @@
+@titulo: diga-sim
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Diga Sim
+
+Intro: G D Em C9 G D
+
+        G                D            Em
+Cuspa o ódio que os seus olhos têm de mim
+     C9                     D
+E engula o desejo que você tem de me provar
+      G         D            Em
+Diga sim, diga sim, sim pra mim
+      C9        G         D
+Diga não, diga não, diga não
+      G              D           Em
+Diga sim que o meu amor por ti é puro
+      C9   D             G    D
+Diga não, não pro seu orgulho
+
+Refrão:
+G  D            Em      C9             G
+A vida vai nos dar o chão pra gente pisar
+               D                   G  D
+O tempo pra viver, o sonho pra sonhar
+G  D            Em      C9                G
+A vida vai nos dar o chão, se a gente quiser
+
+              D                   G  D
+Depende de você deixar o sol brilhar
+
+              D                   G  D
+Depende de você deixar o sol brilhar
+
+
+
+----------------- Acordes -----------------
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

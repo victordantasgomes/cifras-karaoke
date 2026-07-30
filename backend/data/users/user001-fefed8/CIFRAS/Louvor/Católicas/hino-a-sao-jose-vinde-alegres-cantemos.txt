@@ -1,0 +1,68 @@
+@titulo: hino-a-sao-jose-vinde-alegres-cantemos
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Hino a São José: Vinde, Alegres Cantemos
+
+Intro: Fm Em G/A Bm Bm/A G7+ F#m Em7 G/A D G/D D
+
+    D        A/C#     Bm Bm/A  G      E7    A4     A
+ - Vinde, alegres cantemos.    A Deus demos louvor.
+    D   A/C#    Bm F#m Bm    E7         G/A    A
+   A um Pai exaltemos  sempre com mais fervor.
+    F#m  Bm      B7        Em   Em/G          A        D
+ R: São José, a vós nosso amor, Sede o nosso bom protetor,
+  Bm   G     A        D  (G/D D)
+ Aumentai o nosso fervor.
+     D    A/C#  Bm Bm/A G      E7       A4     A
+- Quis o Verbo Divino  dar-nos nome de pai.
+ D   A/C#       Bm F#m Bm   E7      G/A    A
+ Um glorioso destino  para nós impetrai.
+
+Refrão:
+  F#m  Bm     B7        Em   Em/G          A        D
+ São José, a vós nosso amor, Sede o nosso bom protetor,
+  Bm   G     A        D  (G/D D)
+ Aumentai o nosso fervor.
+
+
+  D     A/C#    Bm Bm/A G   E7       A4     A
+- Vós, esposo preclaro, amantíssimo pai.
+ D       A/C#         Bm F#m Bm   E7      G/A    A
+ Dos cristãos firme amparo,  este canto aceitai.
+
+  F#m  Bm     B7        Em   Em/G          A        D
+ São José, a vós nosso amor, Sede o nosso bom protetor,
+  Bm   G     A        D  (G/D D)
+ Aumentai o nosso fervor.
+
+    D   A/C#    Bm Bm/A  G      E7    A4     A
+-  São José triunfante  vai a Glória gozar.
+ D      A/C#    Bm  F#m  Bm    E7         G/A    A
+ E para sempre reinante, no Senhor repousar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+D = X X 0 2 3 2
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+Em/G = 3 X 2 4 5 X
+Em7 = 0 2 2 0 3 0
+F#m = 2 4 4 2 2 2
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/D = X 5 5 4 3 X
+G7+ = 3 X 4 4 3 X

@@ -1,0 +1,105 @@
+@titulo: verdade-mentira
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Verdade / Mentira
+
+Intro:  A9 F#m C#9 E9 A9 F# C#9
+
+ A9           F#m                C#9
+Jure pela vida que você teve
+E9                             A9   F#m            C#m
+E ponha em risco a coisa mais sagrada que há
+                               E       A9    F#m    C#9        E9
+Se lembre, ao perdê-la, nunca mais terá seu encanto
+                 A9               F#m                    C#9
+Posto, ainda acha que Deus não irá cumprir?
+
+Refrão:
+
+E9                   F#m      C#9
+O que será que o mentiroso vai pensar
+             E9                 F#m C#9
+Quando a sua verdade o entregar?
+                                 E9
+Será que ele vai se arrepender
+    F#m  C#9                 E9  F#m C#9
+De ter feito mal para si mesmo?
+
+
+Será que ele vai mudar?
+
+2x A9 F# C#9 E
+
+ A9           F#m             C#9
+Jure pela alma e pelo céu
+
+E9                        A9    F#m
+E vá lá brincar de amarelar
+
+           C#9                     E9                 A9       F#m
+Como descer do paraíso ao inferno em três casas?
+
+C#9                      E9
+Basta um passo após o outro
+
+           A9      F#m
+No segundo, já foi
+
+ C#9
+Perdeu
+Refrão:
+
+    E9                   F#m      C#9
+O que será que o mentiroso vai pensar
+             E9                 F#m C#9
+Quando a sua verdade o entregar?
+                                 E9
+Será que ele vai se arrepender
+    F#m  C#9                 E9  F#m C#9
+De ter feito mal para si mesmo?
+
+                     A9
+Será que ele vai mudar?
+
+E9 F#           E9                     A9
+Voltar a ver as coisas como são?
+
+
+                           E9               F#
+Ou prosseguirá criando suas fábulas?
+
+ A9                             E9                   C#9  A9 F#
+Afinal, o Pinóquio era apenas um cara de pau
+
+C#9               A9                 F#
+Esta é uma verdade contestável
+
+C#9 A9 F#
+
+E9                   F#m      C#9
+O que será que o mentiroso vai pensar
+             E9                 F#m C#9
+Quando a sua verdade o entregar?
+                                 E9
+Será que ele vai se arrepender
+    F#m  C#9                 E9  F#m C#9
+De ter feito mal para si mesmo?
+                      A9 F#m C#9 E9 A9 F# C#9
+Será que ele vai mudar?
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+C#9 = X 4 6 6 4 4
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E9 = 0 2 4 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2

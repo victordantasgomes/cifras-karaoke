@@ -1,0 +1,102 @@
+@titulo: estrela-da-manha
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Estrela da Manhã
+
+Intro: F#  C#  B9 C#  F#
+
+F#     C#
+É madrugada
+           B9              F#
+Nos teus braços encontrei abrigo
+F#       C#
+Cai o sereno
+B9                      F#
+Me abraça e vem ficar comigo
+B9             F#
+Vem trazendo um sol
+F#                B9
+São intensamente azuis
+B9
+As cores da manhã
+       F#
+Sob a tua luz
+B9                F#
+Luz que vem dos olhos teus
+B9
+Não deixe a noite ir
+
+C#
+Sem dizer adeus
+
+Me dê a luz dos olhos teus
+
+Refrão
+A                          D
+Queira desculpar se for pedir demais
+A                          D
+Não vou censurar o que me fez pensar
+E              A       D  E
+Fica um pouco mais
+A                           D
+Quero me banhar na luz dos olhos teus
+A                      D
+Fica um pouco mais demora amanhecer
+A             F#
+Fica um pouco mais
+C#
+Que palavras
+
+B9                          F#
+Sentimentos que se diz sem falar
+F#        C#
+E quando fala
+B9                       F#
+São mensagens de amor do vento
+B9              F#
+Vem trazendo um sol
+F#            B9
+São intensamente azuis
+
+B9
+As cores da manhã
+       F#
+Sob a tua luz
+B9                  F#
+Luz que vem dos olhos teus
+      B9
+Não deixe a noite ir
+         C#
+Sem dizer adeus
+
+Me dê a luz dos olhos teus
+
+Refrão
+A                            D
+Queira desculpar se for pedir demais
+A                            D
+Não vou censurar o que me fez pensar
+E             A       D  E
+Fica um pouco mais
+A                          D
+Quero me banhar na luz dos olhos teus
+A                             D
+Não deixe a noite ir sem lhe dizer adeus
+E             A     D  E
+Estrela da manhã
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B9 = X 2 4 4 2 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2

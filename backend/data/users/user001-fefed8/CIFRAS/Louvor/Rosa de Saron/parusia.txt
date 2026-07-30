@@ -1,0 +1,138 @@
+@titulo: parusia
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Parusia
+
+Intro:  E  F#m A9 E
+
+Solo:
+
+E|------------------------------------------------------|
+B|-12---12---12---12---12---12---12---12----------------|
+G|----9----9----9----9----9----9----9----9--------------|
+D|------------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+
+E|------------------------------------------------------|
+B|-14---14----14----14----14----14----14----14----------|
+G|----11----11----11----11----11----11----11----11------|
+D|------------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+
+E|------------------------------------------------------|
+B|-12---12---12---12---12---12---12---12----------------|
+G|----9----9----9----9----9----9----9----9--------------|
+D|------------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+
+
+E|------------------------------------------------------|
+B|--9----9----9----9----9----9----9----9----------------|
+G|----9----9----9----9----9----9----9----9--------------|
+D|------------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+É importante que você ouça a musica,
+para saber quando o solo esta presente e quando para.
+
+E                    F#/C#
+O seu amor, o nosso amor me faz pensar
+       A9                    F#m             A9
+É tão fácil lembrar, com a memória é muito simples
+E                      F#/C#
+Difícil é esquecer quando se tem amor
+A9                    f#m       A9
+E você tornou-se impossível de se esquecer
+
+E        A9            C#m         A9
+Há tempo que ficou pra trás todo silêncio e solidão
+E          A9        C#m           A9         B7
+Se o tempo foi, você ficou junto de mim a me aquecer
+E         A9        C#m7             A9
+Há tempo que o frio passou, ficou o calor da tua luz
+E           A9       C#5              A9          E
+Se o tempo foi, você marcou presença onde não há valor
+
+passagem:base,junto com solo da introdução
+os acordes da base são os mesmo da introdução (E  F#m A9 E)
+
+E                   F#/C#
+Tal qual estou a esperar a sua volta
+      A9                  F#m         A9
+São joelhos calejados que tocam o precioso chão
+E
+Fazer o quê? Eu não sei o que fazer
+F#/C#
+Ainda assim só há alegria porque sei
+     A9
+Sua volta é iminente
+    F#m         A9
+Ansioso espero por você
+
+E         A9            C#m         A9
+Há tempo que ficou pra trás todo silêncio, e solidão
+E           A9       C#m            A9        B7
+Se o tempo foi você ficou junto de mim a me aquecer
+E        A9           C#m            A9
+Há tempo que o frio passou, ficou o calor da sua luz
+E         A9         C#m          A9            E
+Se o tempo foi você marcou presença onde não há valor
+
+      F#m
+A esperança viva está
+   B5                   A9   E
+Minha mente só me traz você
+
+passagem:(B A E)2X
+        B
+A esperança viva está
+A9
+Minha mente só me traz você
+
+passagem:(E F#m C#5  D9 A9 B C#5 A)2X
+
+
+E eu sei porque não há solidão
+
+Eu sei porque não há solidão
+
+Eu sei porque não há solidão
+
+Eu sei porque não há solidão
+
+Eu sei porque não há solidão
+
+Eu sei porque não há solidão
+
+Eu sei porque não há solidão
+
+Eu sei porque não há solidão
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B5 = X 2 4 4 X X
+B7 = X 2 1 2 0 2
+C#5 = X 4 6 6 X X
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+F#/C# = X 4 4 3 2 2
+F#m = 2 4 4 2 2 2

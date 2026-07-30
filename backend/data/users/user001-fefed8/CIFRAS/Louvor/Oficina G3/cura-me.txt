@@ -1,0 +1,106 @@
+@titulo: cura-me
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - Cura-me
+
+(intro)
+
+E|--------------------------------------3/5---5(delay)-
+B|----------6---3---4/6---4---3---3p4------------------
+G|------/5----------------------5----------------------
+D|-----------------------------------------------------
+A|-----------------------------------------------------
+E|-----------------------------------------------------
+
+E|---6/8---8---8---8---6-----------6---8--13---10------
+B|-------------------------8---8-----------------------
+G|-----------------------------------------------------
+D|-----------------------------------------------------
+A|-----------------------------------------------------
+E|-----------------------------------------------------
+
+E|---8p6---8---5p6---5---5---1---3---------------------
+B|-----------------------------------------------------
+G|-----------------------------------------------------
+D|-----------------------------------------------------
+A|-----------------------------------------------------
+E|-----------------------------------------------------
+
+
+Gm               F/A                 Bb9
+Não posso esconder  A dor que ninguém vê
+                  Cm    F         Gm
+Dos olhos de quem me conhece a alma
+                 F/A                 Bb9
+Feridas que me dói Lembranças que corroem
+           Cm    F         Gm
+É a minha chama que se apaga
+     D#     Gm
+Cura me, Senhor
+    F              Bb9
+Me leva ao novo caminho
+     D#     Gm   F
+Cura me, Senhor
+Gm               F/A
+Os olhos que me veem
+             Bb9
+Julgam sem saber
+                 Cm       F         Gm
+A dor que o coração não pôde entender
+                  F/A
+Pergunta sem resposta
+                    Bb9
+Algo que já não importa
+            Cm     F        Gm
+Desejo tua cura pra minh'alma
+     D#     Gm
+Cura me, Senhor
+   F                Bb9
+Me leva ao novo caminho
+     D#     Gm
+Cura me, Senhor
+    F                Bb9
+Me faz nadar no teu rio
+     D#     Gm   F
+Cura me, Senhor
+
+(solo flauta) D#   Bb9   D#   Bb9   D#   Bb9   F
+
+        D#         Gm
+Estou aqui pra dizer
+   F                       Bb9
+O que mais me importa é Você
+         D#           Gm
+Estou aqui pra Te ouvir
+ F                  Bb9
+Pede o que quer de mim
+        D#         Gm
+Estou aqui pra dizer
+  F                      Bb9
+O que mais me importa é Você
+        D#           Gm       F
+Estou aqui pra Te ouvir
+
+Instrumentalzinho.... Gm Cm D# Cm F Gm
+Gm           F/A
+Conheço o coração
+                Bb9
+Eu vejo a intenção
+           D#      F         Gm
+Ouço a oração de quem me chama
+
+----------------- Acordes -----------------
+Bb9 = X 1 3 3 1 1
+Cm = X 3 5 5 4 3
+D# = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+Gm = 3 5 5 3 3 3

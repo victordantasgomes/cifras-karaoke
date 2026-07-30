@@ -1,0 +1,50 @@
+@titulo: scream-poetry
+@autor:
+@intérprete: Paralamas do Sucesso
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Os Paralamas do Sucesso - Scream Poetry
+
+[Intro] Dm  C#º
+
+      Dm                             C#º
+Eu posso sentir o que a paixão faz em segundos
+      Dm                             C#º
+Eu posso sentir o que o amor fez depois de anos
+      Dm            Gm
+Eu gosto de sentar nos telhados
+                   Dm              Bb
+Pra ouvir o que as casas dizem ao meu redor
+      Dm           Gm
+Eu gosto de subir nos telhados
+              Dm         Bb
+Porque eu consigo ver o mundo melhor
+    Bb             A7
+Grite poesias que eu te amarei
+    Bb             A7
+Até a minha ida, grite poesias
+           Dm   D7
+Que o mundo tem
+       Gm                 E
+A palavra que você pode escrever
+
+       A7
+Grite poesias
+
+( F  Dm  A7 )
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Bb = X 1 3 3 3 1
+C#º = X 4 5 3 5 3
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

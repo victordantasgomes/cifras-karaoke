@@ -1,0 +1,98 @@
+@titulo: logo-de-cara
+@autor:
+@intérprete: Ira!
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ira! - Logo de Cara
+
+Intro: A     C#m  Bm  A
+
+A
+De onde você vem?
+D
+Quem vai te levar?
+Bm                   E
+Quem te faz sorrir?
+A
+Quem te faz chorar?
+
+Qual será seu nome?
+D
+Quais sào seus amores?
+  Bm              E  Fº
+Você me faz imaginar
+            F#m
+Te vejo de longe
+C#
+Quero chegar
+F#m                    B
+Algo nao deixa eu me aproximar
+
+         G
+Voce ilumina todo lugar
+
+Intro
+
+A
+Quais são suas cores?
+D
+Quais são seus desejos?
+Bm               E
+Quais são seus amigos?
+A
+Quais serão seus medos?
+
+Q que faz de dia?
+D
+O que faz de noite?
+  Bm              E  Fº
+Você me faz imaginar
+             F#m
+Te vejo distante
+C#
+Vou te falar
+F#m                    B
+Todas as coisas que você me faz pensar
+        G
+Você ilumina todo lugar
+
+E eu quero paz
+
+Base do Solo: A  D  Bm  E  A C#m  Bm  A  D  Bm  E Fº
+
+F#m
+Te vejo de longe
+C#
+Quero chegar
+F#m                    B
+Algo não deixa eu me aproximar
+         G
+Você ilumina todo lugar
+F#m
+Te vejo distante
+C#
+Vou te falar
+F#m                    B
+Todas as coisas que você me faz pensar
+        G
+Você ilumina todo lugar
+
+E eu quero paz
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+Fº = X X 3 4 3 4
+G = 3 2 0 0 0 3

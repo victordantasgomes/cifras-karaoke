@@ -1,0 +1,44 @@
+@titulo: eu-nao-tenho-palavras
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - Eu Não Tenho Palavras
+
+INTRO: F#m   D
+
+F#m                        D             E          A4
+    EU NÃO TENHO PALAVRAS,    PRA EXPRESSAR O MEU AMOR, 
+F#m                          D          E      A4
+    TU ÉS TUDO QUE EU TENHO,    MARAVILHOSO JESUS. 
+
+D        E      A    D     Bm7        E     A
+    A RAZÃO DO MEU VIVER,    E TE ADORAR SENHOR, 
+D            E      A9  D    Bm7         E      F#m (F#)
+    A MINHA DÍVIDA DE AMOR,   NÃO TENHO COMO PAGAR. 
+    D        Bm7    E        A9           C#m       D 
+    POR ISSO EU ME RENDO,     COMO OFERTA EM TEU ALTAR, 
+       Bm7              E            D    E    A
+    A MINHA VIDA TE ENTREGO, MEU PRAZER E TE AMAR.
+
+        D     E   F#m  [D  E  A]  [D  E  F#m]
+MEU PRAZER É TI AMAR 
+
+SEQÜÊNCIA:(INTRO),A,B,(INTRO),A,B,(SOLO)B,Cx2,[FIM:(F#m)]
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A9 = X 0 2 2 0 0
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2

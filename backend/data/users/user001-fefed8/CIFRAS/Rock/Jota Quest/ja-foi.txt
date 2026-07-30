@@ -1,0 +1,139 @@
+@titulo: ja-foi
+@autor:
+@intérprete: Jota Quest
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jota Quest - Já Foi
+
+(solo 1)
+
+E |-----------------------------------------|
+B |-----------------------------------------|
+G |---------7-9~~p7-----7-9~p7-----7--------|
+D |-9-9-9-9---------9----------9-----9-7----|
+A |-----------------------------------------|
+E |-----------------------------------------|
+
+(riff 2 -  acompanha a música ao fundo
+(repete várias vezes até o início do refrão)
+
+E |---------------------------------------------|
+B |---------------------------------------------|
+G |------------------------------------7--------|
+D |---9--9-9--7--9~-7-------7--9--9-9-----9~-7--|
+A |-------------------9---9---------------------|
+E |---------------------------------------------|
+
+(riff 3 - antes de iniciar o refrão)
+E |--------------------------------
+B |---9b---------------------------
+G |---9b------7---9---7------------
+D |-----------------------9--------
+A |--------------------------------
+E |--------------------------------
+
+
+E |------------------------------|
+B |------7-------7-------7-------|(riff do refrão q se repete tbm em
+G |------7--9~---7--9~---7-------|varias partes da musica....o riff
+D |--9~--7--9~---7--9~---7--9~---|mais visualizado da musica)
+A |--9~---------------------9~---|
+E |------------------------------|
+
+(intro) B   D6/E Em  D6/E Em  D6/E B
+
+(riff 4) (principal)
+(acordes, feitos apenas nas 4 cordas debaixo)
+E |-7--7-7-7-7-7-7--|
+B |-7--7-8-7-8-8-7--|
+G |-8--7-7-7-7-7-8--|
+D |-9--7-9-7-9-9-9--|
+A |-----------------|
+E |-----------------|
+
+Ahhhh ahhhh ahhh
+Ahhhh ahhhh ahhh
+
+   B                       Em7
+Eu sempre quis fazer você feliz
+                              B
+Às vezes me deixava pra outra hora
+                                 Em7
+Eu sempre quis falar o que eu sentia
+Mas dessa vez foi o silêncio
+              B
+Que falou por mim
+                           Em7
+Eu sempre me esforcei pra te incentivar
+                          B
+Tua falta de caminho me detinha a intenção
+                             Em7
+Eu sempre te deixei bem à vontade
+Mas tua falta de vontade
+           B
+Me desmotivou
+
+        B
+Quer saber?
+D6/E Em
+Já foi
+D6/E Em
+Vou cuidar
+Em B
+De mim
+  B
+Quer saber?
+      D6/E  Em
+Eu quero alguém pra dividir
+D6/E   Em              Em  B
+   gostar de quem gosta de mim
+
+    B                           Em7
+Eu sempre acreditei muito em nós dois
+                             B
+Primeiro em você, depois em mim... éramos nós
+                             Em7
+Eu sempre quis fazer a minha parte
+Mas você não faz mais parte
+                  B
+Da metade de nós dois
+
+(refrão 2x)
+
+A  G A G A G A B7
+(riff 5 (adaptado do teclado)
+
+E |---17-15--------15-17-15--|
+B |-15--15-------15----------|
+G |--------------------------|
+D |--------------------------|
+A |--------------------------|
+E |--------------------------|
+
+(falado)
+
+(B   D6/E Em  D6/E Em  D6/E  B)
+yeah...
+E quanto vale o tempo todo que vivemos
+Correndo atrás dos sonhos
+Pra viver só de amor
+E quanto a gente paga pelos sonhos que deixou?
+
+(refrão 4x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+D = X X 0 2 3 2
+D6/E = X 7 7 7 7 7
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3

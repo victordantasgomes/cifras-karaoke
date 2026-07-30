@@ -1,0 +1,76 @@
+@titulo: praia-brava
+@autor:
+@intérprete: Fernando e Sorocaba
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernando e Sorocaba - Praia Brava
+
+Base intro: G
+
+Solo intro (2x):
+E|-3-----3------3-5-3---|
+B|---3------3---------3-|
+G|----------------------|
+
+
+G                              D
+A gente disse adeus pra praia brava
+                            Em7
+Chegou a hora de voltar pra casa
+                               C9
+Eu vou pro norte  você vai pro sul
+
+G                          D
+No carro vou levando a saudade
+                            Em7
+Já vejo as luzes da minha cidade
+                             C9
+E na lembrança ainda um mar azul
+
+
+Am7
+Sei que a partir de agora vou chorar
+F7+
+E as lágrimas vão correr para o mar            riff:
+ C9                        G     riff           B|-1h0----------|
+Buscando aquele nosso paraíso (uuuuuuu)        G|------2--0--2-|
+
+Am7
+E as pegadas que na areia nós deixamos
+F7+
+As ondas vão acabar apagando
+C9                             D D4 D
+Mas não vão apagar o que eu vivi
+
+   G                    D
+Ficou na praia brava o nosso amor
+  Em7                  C9
+Ficou pra sempre tudo que rolou
+    G                      D
+Eu sei que um outro verão vai chegar
+        C9              Cm
+Eu vou te esperar no mesmo lugar
+
+
+Intro: G  D  C9  Cm
+
+Repete tudo (refrão 2 vezes)
+
+G  D  Em7  C9                                G  D  C9  Cm
+            A gente disse adeus pra praia brava.
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+C9 = X 3 5 5 3 3
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+Em7 = 0 2 2 0 3 0
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3

@@ -1,0 +1,61 @@
+@titulo: pescador
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Pescador
+
+Intro:  E  A/E  E  
+
+                 A/E                E7
+É manhã, pescador já se lança no mar
+                     A              E/G#        F#m
+Pra pegar uns pescados, pra ganhar uns trocados,
+      A/B         E
+Para se sustentar.
+                    A/E                  E7
+Sol a sol com suor, céu e céu, mar e mar,
+                       A           E/G#     F#m
+Quando enfrenta perigo, logo lembra do amigo
+         A/B        E
+Que não pôde voltar.
+                  D  A/C#               C G/B
+Meia volta se faz,  não dá pra retornar;
+                       Am Em/G
+Some o sol, some a cor,
+                  F#m7(11) B7
+Surge o medo e temor
+                  E                A/E
+E esquece da dor, e esquece do pão,
+                   E7                   A
+E esquece o metal, sabe que de sua vida,
+          E/G#         F#m             A/B    E
+Se Deus não der guarida, o que vem, é fatal...
+                            A              E/G#      F#m
+Pois se a vida, é naufrágio, todo esforço é fracasso,
+          A/B       E ( E4/D , E E4/D , E )
+Só Deus tem solução!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4/D = X 5 2 2 0 0
+E7 = 0 2 2 1 3 0
+Em/G = 3 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+F#m7(11) = 2 X 2 2 0 X
+G/B = X 2 0 0 3 3

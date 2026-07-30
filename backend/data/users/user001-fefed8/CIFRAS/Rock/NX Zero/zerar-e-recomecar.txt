@@ -1,0 +1,88 @@
+@titulo: zerar-e-recomecar
+@autor:
+@intérprete: NX Zero
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nx Zero - Zerar e Recomeçar
+
+Intro 4x: C9  D9  Em
+
+E|----------------------------------------------------------------------------|
+B|-------3------5-------7----7h8h7-------8--------10---------12------12h13h12-|
+G|-----0------0-------0----0-----------0--------0----------0-------0----------|
+D|----------------------------------------------------------------------------|
+A|-2/3-----3/5----5/7----7----------------------------------------------------|
+E|----------------------------------7/8----8/10------10/12------12------------|
+
+Em             D9      C9                             G    D9/F#
+Eu estou aqui,então diga pra mim o que eu nunca consegui entender
+Em                  D9      C9                        G    D9/F#
+Não te conheço mais, viramos opostos como óleo e água, sem perceber
+Em       D9  C9  G       D9/F#      Em                C9      D9/F#
+Quanto tempo faz que não nos falamos?eu nem me lembro mais porque
+
+                  C9             G       Em         A4
+Certas coisas não têm sentido e nem razão para acontecer
+       C9         G         Em        Bm
+Sentimentos bons vêm e vão, temos que viver
+          C9             G     D9           Em
+Abra os olhos, siga em frente, nada é pra sempre
+
+C9           G       A4
+Vamos zerar e recomeçar
+
+( C9  D9  Em )
+
+Em                         D9         C9                            G      D9/F#
+Já faz algum tempo, já faz tempo de mais que o nosso velho orgulho nos separou
+Em                D9           C9                  G               D9/F#
+A culpa é de quem não assume o erro e não perdoa aquele que sempre te perdoou
+Em       D9  C9  G       D9/F#      Em                C9      D9/F#
+Quanto tempo faz que não nos falamos?eu nem me lembro mais porque
+
+                  C9             G       Em         A4
+Certas coisas não têm sentido e nem razão para acontecer
+       C9         G         Em        Bm
+Sentimentos bons vêm e vão, temos que viver
+          C9             G     D9           Em
+Abra os olhos, siga em frente, nada é pra sempre
+C9           G       A4
+Vamos zerar e recomeçar
+
+Em
+êeeeeee
+
+  ( C  D  Em ) (4x)
+Uooooooaoaoaoaoa oa oa!
+
+                  C9             G       Em         A4
+Certas coisas não têm sentido e nem razão para acontecer
+       C9         G         Em        Bm
+Sentimentos bons vêm e vão, temos que viver
+          C9             G     D9           Em
+Abra os olhos, siga em frente, nada é pra sempre
+C9           G       A4      (C9 G D9/F# Em
+Vamos zerar e recomeçar
+C9           G       A4
+Vamos zerar e recomeçar
+( C  D  Em ) (3x)
+Eu estou aqui...yeah
+                   (C D9 C9)
+Eu estou aqui... yeah
+
+----------------- Acordes -----------------
+A4 = X 0 2 2 3 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+D9/F# = 2 X 0 2 3 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

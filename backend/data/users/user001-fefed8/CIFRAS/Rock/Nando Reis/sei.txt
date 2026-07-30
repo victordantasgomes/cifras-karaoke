@@ -1,0 +1,145 @@
+@titulo: sei
+@autor:
+@intérprete: Nando Reis
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Nando Reis - Sei
+
+Intro:
+
+1ª parte:
+                         Am7(9)
+E|--------------5-5-5-0--0-----------------|
+B|-------5-5/7--7-7-7-0--0-----------------|
+G|-0-5-7-5-5/7--7-7-7-0--5-----------------|
+D|-0-5-7-0-0----0-0-0-0--5-----------------|
+A|-0-0-0-----------------0-----------------|
+E|-----------------------------------------|
+
+
+2ª parte:
+                          Am7(9)
+E|--------------5-5-5-0---7----------------|
+B|-------5-5/7--7-7-7-0---8----------------|
+G|-0-5-7-5-5/7--7-7-7-0---9----------------|
+D|-0-5-7-0-0----0-0-0-0--10----------------|
+A|-0-0-0------------------0----------------|
+E|-----------------------------------------|
+
+
+
+3ª parte:
+                         Am7(9)
+E|--------------5-5-5-0--0-0-0-0-0-0-0-----|
+B|-------5-5/7--7-7-7-0--0-0-0-0-0-0-0-----|
+G|-0-5-7-5-5/7--7-7-7-0--5-5-5-5-5-5-0-----|
+D|-0-5-7-0-0----0-0-0-0--5-5-5-5-5-5-0-----|
+A|-0-0-0-----------------0-0-0-0-0-0-0-----|
+E|-----------------------------------------|
+
+
+4ª parte:
+    G
+E|-3-3-3-3-3-3-3-3-------------------------|
+B|-3-3-3-3-3-3-3-3-------------------------|
+G|-0-0-0-0-0-0-0-0-------------------------|
+D|-0-0-0-0-0-0-0-0-------------------------|
+A|-2-2-2-2-2-2-2-2-------------------------|
+E|-3-3-3-3-3-3-3-3-------------------------|
+
+
+D                 G
+  Sabe, quando a gente tem vontade de encontrar
+                D
+A novidade de uma pessoa
+          G
+Quando o tempo passa rápido
+                          D
+Quando você está ao lado dessa pessoa
+        G          D/F#          Em
+Quando dá vontade de ficar nos braços dela
+   D     Em       A
+E nunca mais sair
+
+D              G
+  Sabe, quando a felicidade invade
+                        D
+Quando pensa na imagem da pessoa
+        G
+Quando lembra que seus lábios encontraram
+                 Bm
+Outros lábios de uma pessoa
+     Em
+E o beijo esperado ainda está molhado
+       A               G
+E guardado ali em sua boca
+       A
+Que se abre e sorri feliz
+                         Bm
+Quando fala o nome daquela pessoa
+         G
+Quando quer beijar de novo e muito
+                         D
+Os lábios desejados da sua pessoa
+         G             D/F#    Em
+Quando quer que acabe logo a viagem
+       D           Em         A
+Que levou ela pra longe daqui
+
+D               G
+  Sabe, quando passa a nuvem brasa
+                                      D
+Abre o corpo, sopro do ar que traz essa pessoa
+         G
+Quando quer ali deitar, se alimentar
+                       Bm
+E entregar seu corpo pra pessoa
+        Em
+Quando pensa porque não disse a verdade
+                        A
+É que eu queria que ela estivesse aqui
+
+(repete intro)
+
+D              G
+  Sabe, quando a felicidade invade
+                        D
+Quando pensa na imagem da pessoa
+        G
+Quando lembra que seus lábios encontraram
+                 Bm
+Outros lábios de uma pessoa
+     Em
+E o beijo esperado ainda está molhado
+       A               G
+E guardado ali em sua boca
+       A
+Que se abre e sorri feliz
+                         Bm
+Quando fala o nome daquela pessoa
+         G
+Quando quer beijar de novo e muito
+                         D
+Os lábios desejados da sua pessoa
+        G            D/F#           Em
+Quando pensa porque não disse a verdade
+             D          Em             A
+É que eu queria que ela estivesse aqui
+
+ G  A     D
+Sei   eu sei
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am7(9) = X X 7 5 8 7
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

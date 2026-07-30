@@ -1,0 +1,45 @@
+@titulo: pois-e-santo
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Pois É Santo
+
+G                      D/F#
+Santo é o Senhor dos Exércitos
+       C
+Soberano do Universo
+Am           D/F#
+Criador de todos os mares
+G                         D/F#
+Justo aquele que reina em minha vida
+           C
+A quem tudo eu entrego
+   A/C#                D
+prostrando-me aos Teus pés
+         F              C/E
+Para exalta-lo com louvores
+     D/F#      Am7    Am7/G     D/F#
+e adora-lo por todo o  meu   viver
+       G             D/F#
+Pois é Santo, Justo...
+       G            D/F#
+Pois é Puro, Amável...
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am7/G = 3 0 2 0 1 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

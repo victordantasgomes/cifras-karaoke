@@ -1,0 +1,56 @@
+@titulo: vou-tirar-os-pes-do-chao
+@autor:
+@intérprete: Ministério Apascentar de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Apascentar de Louvor (Toque No Altar) - Vou Tirar Os Pés do Chão
+
+INTRO: F#m7
+
+F#m7                 D
+   Quem me viu dizia   Não poderá alcançar
+F#m7                    D
+   Mas sou irresistível Não vou mais parar
+F#m7                  D
+   Este é um novo dia   A nova casa é maior
+F#m7                 D
+ É tempo de alegria  Posso festejar
+
+ Bm7           D        E
+ Por tudo que vi  E o que virá
+
+            A     E      F#m7     D   A   E      F#m7     D
+ Vou tirar os pés do chão  E festejar, festejar
+         A     E      F#m7   D      A     E      F#m7   D
+ O impossível se rendeu  Eu posso dançar,  dançar
+
+Intro 2: F#m F#m5+ F#m6 F#m5+  volta começo
+
+
+ Bm7             D
+ Diante das muralhas  Eu vou gritar
+ Bm7               D             E
+ Sobre os portões do inimigo  Vou saltar  2X
+
+Bm7             D            E
+ Diante das muralhas  Eu vou gritar
+ Bm7               D             E
+ Sobre os portões do inimigo  Vou saltar 2X
+
+FINAL (F#m7 D)4X  F#m7 E
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+F#m5+ = 2 5 4 2 3 2
+F#m6 = 2 X 1 2 2 X
+F#m7 = 2 X 2 2 2 X

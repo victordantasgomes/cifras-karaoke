@@ -1,0 +1,88 @@
+@titulo: milagres
+@autor:
+@intérprete: Barão Vermelho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Barão Vermelho - Milagres
+
+INTRO: D G Em D (bicordal)
+
+ D
+  Nossas armas estão na rua
+        G
+ É um milagre
+         Em
+ Elas não matam ninguém
+ Bm
+  A fome está em toda parte
+             G
+ Mas a gente come
+  Em              Bm
+ Levando a vida na arte
+
+ A
+  Todos choram
+        Bm
+ Mas só há alegria
+ A
+  Me perguntam
+
+                 Bm
+  O que é que eu faço
+           G
+  E eu respondo:
+
+    Em     A7    Em     A7
+ Milagres.....Milagres
+
+ D              E
+  As crianças brincam
+            A
+  Com a violência
+ A4   A
+  Ôoo, ôoo
+ A                 E
+  Nesse cinema sem tela
+       A
+  Que passa na cidade
+ Em          A        Em
+  Que tempo mais vagabundo
+         A
+  Esse agora
+ D
+  Que escolheram
+               Bb
+  Pra gente viver
+
+ A
+  Todos choram
+        Bm
+ Mas só há alegria
+ A
+  Me perguntam
+                 Bm
+  O que é que eu faço
+           G
+  E eu respondo:
+
+    Em       A7       Em     A7
+ Milagres, ôôôôu...Milagres
+
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

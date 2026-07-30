@@ -1,0 +1,78 @@
+@titulo: quem-de-nos(versão 2)
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Quem de Nós?
+
+Solo intro:
+
+e|---------0-----------------|     e|-------------|
+B|--1----------------1--0h1-1|     B|--3---0h1-3--|
+G|------0--------------------| 3X  G|------------0|
+D|--3----------2-------------|     D|-------------|
+A|---------------------------|     A|-------------|
+E|---------------------------|     E|--3----------|
+
+
+toque o acorde de G uma vez e comece a musica!!
+
+      F C    Dm       G         F  C
+SINTO DOR AO VER QUE VOCÊ MUDOU TANTO
+Dm       G               F7M/9     Em7/4
+PRECISO SABER O PORQUÊ
+F7M/9   Em7/4   C       B/G     Am7     G
+E APRENDER QUE NEM QUE FALEM NEM QUE TE CALEM
+    F        Em       Dm          G
+VOCÊ É MUITO MAIS DO QUE A TEMPESTADE
+    F     Em       F    Em       Dm   G
+QUE DEUS TE DÊ CORAGEM NINGUÉM MAIS
+
+
+•REFRÃO•
+         F               C  B/G  C   ( C - B/G - G )
+QUEM DE NÓS COM PRÓPRIA VOZ
+   Dm       Am      C              F              Em   G
+VAI DIZER A VERDADE CUSTE O QUE CUSTAR NÃO VAI MENTIR
+   C       B/G          F     C      Dm      G          F  Em
+EXISTE ESPERANÇA CORPO E SANGUE QUE HÁ MUITO IMPÕE UMA CHANCE
+        F        Em          Dm F
+É SÓ VOCÊ ACREDITAR E NÃO TEMER
+   C     B/G         Am   C
+AS HORAS PASSAM E O TEMPO TRAS
+   F              Em      Dm         G
+DE VOLTA A INTEGRIDADE, MATANDO A SAUDADE
+   F    Em    F     Em Dm   G
+NO CORAÇÃO VIRTUDES IDEAIS
+
+•REFRÃO•
+
+(G-B/G)    Am      G     F
+         E NEM QUE VÁ EMBORA
+Em    Dm    G     F      C
+EU CONTINUAREI A TE ESPERAR
+       Dm        G
+EU CONTINUAREI A TE ESPERAR
+
+
+       ( F - C - B/G - C - B/G - C - Dm - Am - C - F - Em - G )
+
+                     ( F7M/9 - Em7/4 )
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+B/G = 3 X 4 4 4 X
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+Em7/4 = X 7 X 7 8 5
+F = 1 3 3 2 1 1
+F7M/9 = X 8 7 9 8 X
+G = 3 2 0 0 0 3

@@ -1,0 +1,46 @@
+@titulo: sequencia-de-pascoa
+@autor:
+@intérprete: Católicas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Sequência de Páscoa
+
+      G        C       G           D7   Em  Am    D
+1- Cantai, cristãos, afinal/ Salve, ó vítima pascal/
+    C        G        Am        D7                G
+Cordeiro inocente, o Cristo/ Abriu-nos do Pai o aprisco.
+
+      G      C      G        D7     Em       Am  D
+2- Por toda ovelha imolado/ Do mundo lava o pecado/
+     C      G      Am            D7              G
+Duelam forte e mais forte/ É a vida que enfrenta a morte.
+
+      G    C        G        D7      Em     Am   D
+3- O Rei da vida cativo/ Foi morto, mas reina vivo/
+   C      G        Am       D7              G
+Responde, pois, ó Maria/ No caminho o que havia.
+
+       G      C      G       D7    Em    Am   D
+4- Vi Cristo ressuscitado/ O túmulo abandonado/
+   C      G       Am        D7              G
+Os anjos da cor do sol/ Dobrado no chão o lençol.
+
+      G         C         G       D7     Em        Am    D
+5- O Cristo que leva aos céus/ Caminha à frente dos seus/
+
+   C      G        Am        D7                     G
+Ressuscitou, de verdade/ Ó Cristo Rei piedade.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

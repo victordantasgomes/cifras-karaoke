@@ -1,0 +1,49 @@
+@titulo: vai-e-volta
+@autor:
+@intérprete: João Paulo e Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+João Paulo e Daniel - Vai e Volta
+
+(intro 2x)   F      Bb      C      F
+
+         F                            Bb
+Ela morre de ciúmes de mim
+                       C                                       F
+Tá parecendo eu que morro de ciúmes dela
+                                             Bb
+Eu vou embora e ela vem atrás
+                            C                                            F
+Mas quando ela vai sou eu quem corre atrás dela
+
+              F                            Bb
+Já fiz de tudo pra viver sem ela
+                  C                             F
+Até sai de casa pra não mais voltar
+Eb                  D7                   Gm
+Ela tranca a porta eu pulo a janela
+                 C                         F
+Já acostumamos a nos perdoar
+                   C                    F
+É um vai e volta o nosso amor
+
+                           C                        F
+Quando ela não vai, sou eu quem vou
+
+(intro)
+
+(repete tudo)
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D7 = X X 0 2 1 2
+Eb = X 6 5 3 4 3
+F = 1 3 3 2 1 1
+Gm = 3 5 5 3 3 3

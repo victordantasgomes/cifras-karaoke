@@ -1,0 +1,77 @@
+@titulo: eu-te-achei
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Eu Te Achei
+
+Intro:
+       C    G   F        G F G G F
+E|---0-0--0-0-0-0---|--0-0-3-3-0-0-|
+B|---1-1--3-3-1-1---|--3-1-3-3-1-1-|
+G|---0-0--4-4-2-2---|--4-2-0-0-2-2-|
+D|--------5-5-3-3---|--5-3-0-0-3-3-|
+A|-3----------------|------2-2-----|
+E|------------------|------3-3-----|
+
+Solo:
+         C               G       Am7              F
+E|--------------------------------------------------3-|
+B|-0h1-0-1-0-1-0-1-0-0---0--0h1-0-1-0-1-0-1-------1---|
+G|-0---0-0-0-0-0-0-0-0-2-0--0h2-0-2-0-2-0-2-----------|
+D|-0h2-0-2-0-2-0-2-0-0-2-0--0----------------0-2/3----|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+         C               G  Dm  F
+E|-------------------------3----0-0h1p0----------1--1----------------------|
+B|-0h1-0-1-0-1-0-1-0-0---0---1-3--------3-1------1--1--1p0-0---------------|
+G|-0---0-0-0-0-0-0-0-0h2-0-----------------0h2-0-2--2-------2p0-0----------|
+D|-0h2-0-2-0-2-0-2-0-0---0-----------------------3--3-------------2p0-0----|
+A|----------------------------------------------------------------------3--|
+E|-------------------------------------------------------------------------|
+
+
+C            G
+Se quer saber
+Am              F
+Só vivo por existir você
+C            G
+Pare de esconder
+Am                 F
+Somos corpo e alma pode crer
+
+Dm                 F
+Que o amor é imperfeito
+                   Em
+Quando se existe vida
+                    F
+Que você nasceu pra mim
+                    Dm
+Minha estrela preferida
+                  F                           G
+Você é e sempre será o grande amor da minha vida
+
+C                          G
+Dizer que ser só meu amor não vai rolar
+Am                         F
+Na vidas ás vezes a gente tem que mostrar
+C                         G
+No mundo eu te achei você me escolheu
+Dm                      F                       C
+Não jogue fora o seu destino se seu amor sou eu
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

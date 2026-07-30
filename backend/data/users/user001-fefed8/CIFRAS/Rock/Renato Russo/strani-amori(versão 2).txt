@@ -1,0 +1,118 @@
+@titulo: strani-amori(versão 2)
+@autor:
+@intérprete: Renato Russo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renato Russo - Strani Amori
+
+Intro: C   F     G      G    C   Am     Dm     G       G
+
+      C                           F
+Mi dispiace devo andare via Ma sapevo che era una bugia
+       G                                            G         C
+Quanto tempo perso dietro a lui Che promete poi non cambia mai
+         F   G    Am                    Dm        G
+Strani amori mettono nei guai Ma in realtà siamo noi
+
+       C
+E lo aspetti ad un telefono
+       F
+Litigando che sia libero
+            G
+Con il cuore nello stomaco
+      C
+Un gomitto lo nell'angolo
+      F    G         Am
+Lì da sola dentro un brivido
+        Dm         G
+Ma perché lui non c'è, e sono
+
+C                Dm
+Strani amori che   fanno crescere
+G          C               F
+E sorridere tra le lacrime
+              G      Am
+Quante pagine, lì da scrivere
+Dm             G
+Sogni da lividi da dividere
+C            Bº
+Sono amori che spesso a quest'età
+E           Am              Am
+Si confondono dentro a quest'anima
+F       G        Em     Am
+Che s'interroga senza decidere
+Dm               G
+Se è un amore che fa per noi
+
+        D
+E quante notti perse a piangere
+     G
+Rileggendo quelle lettere
+           A      A
+Che non riesci più a buttare via
+      D
+Dal labirinto della nostalgia
+         G           A     Bm
+Grandi amori che finiscono
+         Em      A            D
+Ma perché restano, nel cuore
+               Em
+Strani amori che vanno e vengono
+A      A        D
+Nei pensieri che li nascondono
+G       A      Bm
+Storie vere che ci appartengono
+Em            A
+Ma si lasciano come noi
+
+       E           F#m
+Strani amori fragili,
+   B           E
+Prigioneri liberi
+         A         B     C#m
+Strani amori mettono nei guai
+            F#m       B
+Ma in realtà siamo noi
+
+         E        D#º
+Strani amori fragili
+      G#       C#m    C#m
+Prigioneri liberi
+A         B    G#m               C#m
+Strani amori che non sanno vivere
+F#m                     B
+E si perdono dentro noi
+
+       E
+Mi dispiace devo andare via
+        A
+Questa volta lo promesso a me
+           B       B
+Perché ho voglia di un amore vero
+C#m   C#m         A    B    B
+Senza te
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+Bº = X 2 3 1 3 1
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D#º = X X 1 2 1 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4

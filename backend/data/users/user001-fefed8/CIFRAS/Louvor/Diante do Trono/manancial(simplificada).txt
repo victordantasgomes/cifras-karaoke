@@ -1,0 +1,75 @@
+@titulo: manancial(simplificada)
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Manancial
+
+
+A                      F#m             D
+ Senhor, estou aqui para Te adorar
+                  Bm                 E
+Em Tua presença desejo estar
+                          D
+Eu sei que nada sou
+                        F#m
+Mas vim me humilhar
+                  D
+Preciso de Ti
+            Bm       E
+Vem me restaurar
+
+               A
+Eu quero ser
+                             F#m
+Como um jardim fechado
+                    D
+Regado e cuidado
+        Bm           E
+Pelo Teu Espírito
+
+                A
+Flua em mim
+                     F#m
+Como um manancial
+                Bm
+Do meu interior
+               C#m   D
+Com águas vivas
+                          E
+Restaura o meu ser
+                       A     E
+Para o Teu louvor
+
+            A                               F#m
+Eu te farei como um jardim fechado
+                     D
+Regado e cuidado
+          Bm       E
+Pelo Meu Espírito
+         A
+Eu fluirei
+                   F#m
+Como um manancial
+           Bm
+Do teu interior
+                C#m   D
+Com águas vivas
+                E
+Te restaurarei
+                       A
+Para o Meu louvor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

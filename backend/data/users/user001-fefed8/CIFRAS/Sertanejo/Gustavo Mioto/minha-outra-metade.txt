@@ -1,0 +1,65 @@
+@titulo: minha-outra-metade
+@autor:
+@intérprete: Gustavo Mioto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gustavo Mioto - Minha Outra Metade
+
+[Intro] G  Em  Am  D  G  Em  Bb  D
+
+G             Em       G         Em
+Sabe, eu vou tentar de novo
+Am        E         C           D
+Chega de chorar, cansei
+G             Em         G           Em
+Baby, eu vou te amar de novo
+Am        E         C            D
+Como sempre eu te amei
+
+G         Bm       D       E
+Se a tempestade vem
+Am          E         C            D
+Sei que vai passar, meu bem
+Am7         Em                         G     Em
+E tudo vai ser muito mais bonito
+Am                         C                G    D
+Então pede pra ficar que eu fico
+
+G                           Bm
+Agora é pra valer, só eu e você
+
+D                               E
+Fazer de conta que nada mudou
+Am                            C
+Recomeçar, te reconquistar
+Am                               D
+Continuar de onde a gente parou
+
+G                  Bm
+Eu aprendi, chorei e sofri
+D                                E
+Quase morri de saudade
+Am                         C
+Meu coração tá pedindo perdão
+Bb                                                     D
+Pra você que é mais que minha mulher
+                             G
+Minha outra metade
+
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

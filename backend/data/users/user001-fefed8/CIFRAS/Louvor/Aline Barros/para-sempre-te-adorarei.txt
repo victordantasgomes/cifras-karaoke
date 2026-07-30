@@ -1,0 +1,86 @@
+@titulo: para-sempre-te-adorarei
+@autor:
+@intérprete: Aline Barros
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Aline Barros - Para Sempre Te Adorarei
+
+Intro: D D/F#, A/G G, F#m7, Bm7, C, A7/4, A7
+
+
+D      D7M          G/D
+Rei dos reis aqui estou,
+A/C#     A         D4     D    F#4
+Rendo a Ti o meu louvor e adoração
+F#7         Bm
+Pois Tu és Deus
+Bm/A     E/G#  E7         C   A7/4 A7 A/G
+Acima dos céus, acima de nós
+
+F                Bb/F
+O universo se formou
+C/E       C
+Com a Tua voz
+     F          Em7  A7    Dm
+O mundo inteiro veio a existir
+Dm/C      G/B       G       A4 A A/G  A7
+Verbo de Deus, Princípio e Fim
+
+
+    D     F#m     G     D       F#m     Bm         C   A7/4 A7
+  E eu te louvarei Senhor, levantando a Ti minhas mãos
+         D       F#m       G    D         F#m       Aº     Em  A7
+  Com canções de amor Te exaltarei, ministrando com meu coração
+         Em      Em/D    A7 A7/4 A7
+  Para sempre Te adorarei
+         Em      Gm6    D   [1ª Vez G  A7/4 A7]
+  Para sempre Te adorarei
+
+      F4     F         G4      G          A4     A
+Nada pode calar, nada pode deter, minha consagração...
+
+    D     F#m     G     D
+  E eu te louvarei Senhor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+A4 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+A7/4 = X 0 2 0 3 0
+Aº = 5 X 4 5 4 X
+Bb/F = X 8 8 7 6 X
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D4 = X X 0 2 3 3
+D7M = X X 0 2 2 2
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F#4 = 2 4 4 4 2 2
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F4 = 1 3 3 3 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G4 = 3 5 5 5 3 3
+Gm6 = 3 X 2 3 3 X

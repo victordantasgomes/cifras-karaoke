@@ -1,0 +1,65 @@
+@titulo: nosso-amor-nossa-paixao
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Nosso Amor, Nossa Paixão
+
+C7+, D/C, G/B, G, C7+
+
+               C7+                C7+/13
+QUE FALEM OS VIZINHOS BROTEM PEDRAS     E ESPINHOS
+              Dm                  G
+PELA NOSSA ESTRADA QUE O MUNDO PROTESTE
+              G7           C7+      B C
+QUE NADA NOS RESTE NO FIM DA JORNADA
+                      C                   C7
+QUE O PROPRIO CEU RECLAME QUE A GENTE SE AME
+          F              Fm                      C
+DESSE JEITO TANTO ASSIM SO DE OLHAR QUALQUER UM VE
+                D7     G7           C   Gm7
+SOU METADE DE VOCE QUE E METADE DE MIM
+
+   C7              F                     G
+ESSE NOSSO AMOR E TANTO QUE CAUSA ATE ESPANTO
+                       C7+           D7
+TANTO AMOR, TANTA EMOCAO O MUNDO CONDENA
+                   D/F#                    G7  Gm7
+MAS TE AMO VALE A PENA NOSSO AMOR NOSSA PAIXAO
+
+
+   C7              F                     G
+ESSE NOSSO AMOR E TANTO QUE CAUSA ATE ESPANTO
+                      Em  A7                  D7
+TANTO AMOR, TANTA EMOCAO      O MUNDO TODO CONDENA
+                   G7                        C
+MAS TE AMO VALE A PENA NOSSO AMOR, NOSSA PAIXAO
+
+introducao
+               C7+
+QUE FALEM OS VIZINHOS
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+C7+ = X 3 2 0 0 X
+C7+/13 = X 3 2 2 0 0
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3
+Gm7 = 3 X 3 3 3 X

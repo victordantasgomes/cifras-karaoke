@@ -1,0 +1,42 @@
+@titulo: incendeia
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Incendeia
+
+[Intro]  E  B9  A  C#m  B
+
+   E                B9
+O tempo de cantar chegou
+   A                B9
+O tempo de dançar chegou
+
+       E              B9                A   C#m B
+E Ele vem, e ele vem Saltando pelos montes
+             E                    B9                     A   C#m B9
+E os Seus cabelos, e os seus cabelos São brancos como a neve
+           E                   B9       A
+E nos Seus olhos e nos seus olhos Há fogo!
+
+   E                    B9
+Incendeia Senhor a Sua noiva
+   A                   C#m  B
+Incendeia Senhor a Sua Igreja
+   E                    B9
+Incendeia Senhor a Sua casa
+          A  B9  E
+Vem me incendiar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0

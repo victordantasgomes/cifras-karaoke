@@ -1,0 +1,65 @@
+@titulo: nome-aos-bois
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Nome Aos Bois
+
+Introdução: E
+
+   E
+   Garrastazu,
+   Stalin,
+   Erasmo Dias,
+   Franco,
+   Lindomar Castilho,
+   Nixon, Delfin,
+   Ronaldo Boscoli,
+
+   A
+   Baby Doc,
+   Papa Doc,
+   Mengele,
+   Doca Street,
+   Rockfeller
+
+   E
+   Afanásio,
+   Dulcídio Wanderley Bosquila,
+
+   Pinochet,
+   Gil Gomes,
+   Reverendo Moon,
+   Jim Jones,
+
+   E
+   General Custer,
+   Flávio Cavalcanti,
+   Adolf Hitler,
+   Borba Gato,
+   Newton Cruz,
+   Sérgio Dourado
+
+   G
+   Idi Amin,
+   Plínio Correia de Oliveira,
+   Plínio Salgado,
+
+   E
+   Mussolini,
+   Truman,
+   Khomeini,
+   Reagan,
+   Chapman,
+   Fleury
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3

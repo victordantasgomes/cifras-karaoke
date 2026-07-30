@@ -1,0 +1,118 @@
+@titulo: plantando-do-seu-lado
+@autor:
+@intérprete: LS Jack
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+LS Jack - Plantando do Seu Lado
+
+Intro: C  G/B  Am  F  Fm
+
+ C                 C7M
+  Tô procurando a saída
+     C7              F  Fm
+ Me diz onde você está
+ C                        C7M
+  Que eu vou deixando a ferida assim
+    C7                    F
+ De lado numa mesa de um bar
+ Fm     Dm7
+ Minha flor
+     G7
+ Em qual jardim te encontro?
+        Dm7                 G4(7) G7
+ Que eu vou voando num beija-flor
+
+Refrão:
+         C
+ Pra me alimentar
+         G/B
+ Pra me aliviar
+
+       Am
+ E por aí ficar
+      F           Fm
+ Plantado do seu lado
+
+(Intro)
+
+ C                   C7M
+  Tô esperando lá em cima
+   C7                  F  Fm
+ Numa colina junto ao mar
+ C                     C7M
+  E em cima eu fico de olho em você
+      C7                      F
+ Pra não deixar de te ver passar
+ Fm     Dm7
+ Minha flor
+     G7
+ Em qual jardim te encontro?
+        Dm7                 G4(7) G7
+ Que eu vou voando num beija-flor
+
+Refrão 2x:
+          C
+ Pra me alimentar
+         G/B
+ Pra me aliviar
+       Am
+ E por aí ficar
+      G                  F
+ Plantado do seu lado, amor
+        G               F
+ Nem o tempo vai nos levar
+         G            F
+ O sol aquece todo lugar
+         G            A4(7)   A7
+ Nossa raiz é forte demais, yeah!
+
+          D
+ Pra me alimentar
+         A/C#
+ Pra me aliviar
+       Bm
+ E por aí ficar
+      G          Gm
+ Plantado do seu lado
+
+          D
+ Pra me alimentar
+         A/C#
+ Pra me aliviar
+       Bm
+ E por aí ficar
+      G          Gm      D
+ Plantado do seu lado, amor...
+ A/C#           Bm
+ Yeah... minha flor...
+      G          Gm      D
+ Plantado do seu lado, amor...
+ A/C#           Bm
+ Yeah... minha flor...
+      G          Gm                  D
+ Plantado do seu lado, yeah, yeah, yeah...
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A4(7) = X 0 2 0 3 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+C7M = X 3 2 0 0 X
+D = X X 0 2 3 2
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G4(7) = 3 X 3 0 1 X
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

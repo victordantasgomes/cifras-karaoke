@@ -1,0 +1,83 @@
+@titulo: ontem
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Ontem
+
+(RIFF1)
+           A                     D7M
+e|-----------------------------------------|
+B|-----------------------------------------|
+G|----------------------6-6-6-6-6-6-6-6-6--|       
+D|--7-7-7-7-7-7-7-7-----7-7-7-7-7-7-7-7-7--|    
+A|--7-7-7-7-7-7-7-7-----5-5-5-5-5-5-5-5-5--|   
+E|--5-5-5-5-5-5-5-5------------------------|
+
+(RIFF2)
+         A                    G                   Bm                     D
+e|-----------------------------------------------------------------------------------|
+B|-----------------------------------------------------------------------------------|
+G|-------------------------------------------------------------7-7-7-7-7-7-7-7-------|
+D|-7-7-7-7-7-7-7-7-----5-5-5-5-5-5-5-5-----9-9-9-9-9-9-9-9-----7-7-7-7-7-7-7-7-------|
+A|-7-7-7-7-7-7-7-7-----5-5-5-5-5-5-5-5-----9-9-9-9-9-9-9-9-----5-5-5-5-5-5-5-5-------|
+E|-5-5-5-5-5-5-5-5-----3-3-3-3-3-3-3-3-----7-7-7-7-7-7-7-7---------------------------|
+
+
+ (RIFF 3)
+e|--------------------------------------------|
+B|--------------------------------------------|
+G|-9-9-9-9-9-9-9-9-9-9-9/11-11-11-11-11-11----|
+D|--------------------------------------------|
+A|-6-6-6-6-6-6-6-6-6-6-6/9--9--9--9--9--9-----|
+E|--------------------------------------------|
+
+
+A        D          A           D
+Onteeeeem eu percebi ...
+A        D          A           D               (RIFF 1)
+Onteeeeem o que eu fiz?
+
+  :A              G         :
+  :Não sei por que          :
+  :              Bm          :
+  :Mas nada mudou           :         2 VEZES(...RIFF 2...)
+  :          D              :
+  :Nada mudou  melhor assim :
+
+(qd termina de falar "corrigir", "mesmo", "estive" e "podia", entra o solinho)
+
+       A
+Eu só queria voltar no tempo                  :(RIFF 1)
+        D                                     :
+Pra corrigir todos meus erros                 :(RIFF 1 E O RIFF 3 NO "CORRIGIR")
+A                            D                :
+Só queria estar bem perto de mim mesmo        :(RIFF 1 E O RIFF 3 NO "MESMO")
+       A                      D               :
+Eu só queria te dizer onde estive aqueles dias:(RIFF 1 E O RIFF 3 NO "ESTIVE")
+     A                        D               :
+Só queria te dizer mas não podia              :(RIFF 1 E O RIFF 3 NO "PODIA")
+
+Por quê?
+
+A         D
+Guerra,
+A         D                (RIFF 1)
+Guerra,
+A         D
+Guerra,
+
+repete a música toda novamente
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D7M = X X 0 2 2 2
+G = 3 2 0 0 0 3

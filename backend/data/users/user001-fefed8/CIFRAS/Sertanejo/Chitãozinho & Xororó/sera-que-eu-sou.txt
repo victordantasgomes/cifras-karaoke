@@ -1,0 +1,148 @@
+@titulo: sera-que-eu-sou
+@autor:
+@intérprete: Chitãozinho & Xororó
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Chitãozinho & Xororó - Será Que Eu Sou
+
+E|-----------------------------------------------------
+B|----7-6------4---4---4-------7-6-------2---2--                                                                   
+G|--6--------4---4---4-------6---------3---3---3-                                           
+D|-----------------------------------------------------
+A|-----------------------------------------------------
+E|-----------------------------------------------------
+
+E|------------------------------------------------------------
+B|----7-6------4---4---4-------7-6-------2---2---2--2-                                                                   
+G|--6--------4---4---4-------6---------3---3---3---3---                                       
+D|------------------------------------------------------------
+A|-----------------------------------------------------------
+E|-----------------------------------------------------------
+
+Intro: C# F# C# F#
+
+
+F#
+Ouço o comentário pelos bares,
+Ironia nos olhares
+D#m                     C#
+  Sei que falam de nós dois
+
+C#4/G#      C#                                C#4/G#
+O medo me desperta, é madrugada
+C#                                C#4/G#
+Você dorme sossegada
+C#                                  F#
+E eu não durmo mais depois
+Fico imaginando na cidade
+                                F#7                              B
+Quem terá a felicidade de me substituir
+Bm                             Em                                                   D
+Sinto um calafrio se imagino outro alguém te possuindo,
+                        C#
+minha vida a me trair
+
+   B      C#         F#
+Será que eu sou
+                                                         G#m
+Capaz de ver e suportar sua partida
+                      C#
+Será que eu sou
+               G#m         C#                            F#
+Tão forte assim pra não morrer na despedida
+     B   C#         F#
+Só sei que vou
+                                      G#m
+Dizer te amo a cada dia que amanheça
+             C#                     G#m
+E vão passar dez vidas mais
+      C#                                   F#          G
+Antes amor, que eu te esqueça
+
+G
+Quanta chance eu tive de falar
+
+Todo dia te lembrar
+Em                             D
+Quanto, quanto eu te queria
+D4       D                                D4
+Mas a gente nunca sabe bem
+D                                D4
+A jóia rara que se tem
+ D                      G
+Se é real ou fantasia
+
+O amor, amor é um canteiro
+                                      G7
+Cuide bem o ano inteiro
+                           C
+E é preciso dar valor
+Cm                                         Fm
+Quem não dedicar muito carinho
+                                        D#
+Corre o risco de um vizinho
+                          D
+Vir colher a melhor flor
+
+
+   C      D         G
+Será que eu sou
+                                                         Am
+Capaz de ver e suportar sua partida
+                      D
+Será que eu sou
+                Am          D                             G
+Tão forte assim pra não morrer na despedida
+     C    D        G
+Só sei que vou
+                                       Am
+Dizer te amo a cada dia que amanheça
+              D                      Am
+E vão passar dez vidas mais
+       D                                    G          G#
+Antes amor, que eu te esqueça
+
+  C#      D#         G#
+Será que eu sou
+                                                         A#m
+Capaz de ver e suportar sua partida
+                      D#
+Será que eu sou
+                A#m          D#                             G#
+Tão forte assim pra não morrer na despedida
+     C#    D#        G#
+Só sei que vou
+                                       A#m
+Dizer te amo a cada dia que amanheça
+              D#                      A#m
+E vão passar dez vidas mais
+       D#                                    G#
+Antes amor, que eu te esqueça
+
+----------------- Acordes -----------------
+A#m = X 1 3 3 2 1
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#4/G# = 4 4 6 6 7 4
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D#m = X X 1 3 4 2
+D4 = X X 0 2 3 3
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4
+G7 = 3 5 3 4 3 3

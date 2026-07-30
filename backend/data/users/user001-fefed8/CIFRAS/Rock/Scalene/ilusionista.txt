@@ -1,0 +1,87 @@
+@titulo: ilusionista
+@autor:
+@intérprete: Scalene
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Scalene - Ilusionista
+
+Cm   Gm   Eb   Gm
+Acordei, senti-me
+Cm   Gm     Eb   Gm
+Como quem há dias não
+
+Cm         D7   C#   Cm
+sorria, não via redenção.
+
+
+(Virada) G5 F5 D#5 F5 D#5 C5
+
+
+Cm   Fm    G  G7
+Me virei e descobri
+Cm
+que não estava lá
+Fm
+o que eu prometi
+G
+Nada que me trará
+G7
+mais do que eu já vi.
+
+
+Cm  Gm   Eb    Gm
+Sem ação, procuro
+Cm   Gm  Eb     Gm
+como sem sentir gosto.
+
+Cm     D7     C#       Cm
+Sonhos nulos, preso em vão.
+
+(Virada)
+
+Cm Fm     G   G7
+Me virei e descobri
+Cm
+que não estava lá
+Fm
+o que eu prometi
+G
+Nada que me trará
+G7
+mais do que eu já vi.
+
+(Intro) Cm
+
+Cm Fm     G   G7
+Me virei e entendi
+(Porque não estava lá)
+Cm
+O que eu prometi
+Fm
+por culpa de alegar
+G
+coisas que ainda não fiz
+G7
+sou meu próprio juiz.
+
+(Intro)
+
+----------------- Acordes -----------------
+C# = X 4 6 6 6 4
+C5 = X 3 5 5 X X
+Cm = X 3 5 5 4 3
+D#5 = X 6 8 8 X X
+D7 = X X 0 2 1 2
+Eb = X 6 5 3 4 3
+F5 = 1 3 3 X X X
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

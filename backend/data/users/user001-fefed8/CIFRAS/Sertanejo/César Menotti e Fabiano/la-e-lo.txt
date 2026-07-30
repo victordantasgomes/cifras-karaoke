@@ -1,0 +1,80 @@
+@titulo: la-e-lo
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Lá e Lô
+
+Intro: E B C#m A
+
+E                  B
+Mesmo que você me ame
+                 C#m
+Eu quero que se dane o seu jeito de amar
+     A                                F#m
+Seu coração é de cimento, não te sentimento
+              A B
+É duro de quebrar
+E             B
+Acabou o espetáculo
+        C#m             A
+O seu palhaço caiu na real
+E                 B                 A       B
+E agora aquele desejo com sabor de beijo de água
+     E    A B (Virada)
+com sal
+
+C#m G#m   A                 E
+Pensei, apostei tudo nesse amor
+
+C#m                   G#m
+Mas quando foi na hora H
+                 A                   B
+Eu pedi pra me amar, e você não me amou
+    B (Pausa)
+Desculpe, não dá pra voltar
+
+REFRÃO:
+E            C#m               A
+Agora é lá e lô  é toma lá dá cá
+                    B
+Tudo que aprontou comigo você vai pagar
+E            C#m                A
+Agora é lá e lô não quero nem saber
+                         B         E
+Pode seguir sua vida sem mim só você (2x)
+
+Repete Intro: E B C#m A
+
+C#m G#m   A                 E
+Pensei, apostei tudo nesse amor
+C#m                   G#m
+Mas quando foi na hora H
+                 A                   B
+Eu pedi pra me amar, e você não me amou
+    B (Pausa)
+Desculpe, não dá pra voltar
+
+REFRÃO:
+E            C#m               A
+Agora é lá e lô  é toma lá dá cá
+                    B
+Tudo que aprontou comigo você vai pagar
+E            C#m                A
+Agora é lá e lô não quero nem saber
+                         B         E
+Pode seguir sua vida sem mim só você (3x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

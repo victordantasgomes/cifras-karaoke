@@ -1,0 +1,92 @@
+@titulo: a-vida-tem-dessas-coisas
+@autor:
+@intérprete: Leandro e Leonardo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Leandro & Leonardo - A Vida Tem Dessas Coisas
+
+(intro) A  E  D  A E  D  A  E D  E4
+
+A          C#m           F#m
+Se você já não me quer
+             D                       A
+Não precisa ter pena de mim
+C#7                        F#m
+Faça o que você quiser
+      D              E          A
+Talvez seja melhor assim
+
+     A         C#m                   F#m
+Se você pensa em outro alguém
+    D            E        A
+Desejo sua felicidade
+              D                            D
+Mas não quero que fique comigo
+                G     E
+Só por piedade
+
+A                       C#m
+Se você disser adeus
+
+F#m                 C#m
+Não vou chorar
+D                          A
+Vou dar tempo ao tempo
+        B7
+Mas não vou deixar
+            E                  E4  E
+De te amar, esperar
+
+A                        C#m
+Se você disser adeus
+F#m               C#m
+Não vou sofrer
+D                             A
+Sei que o mundo lá fora
+B7                        E
+Vai te ensinar a viver,
+
+Me amar, me querer
+                         A
+E quando a saudade
+F#m                 C#m
+Te pegar no caminho
+                                       D
+Lembre que estou tão sozinho
+     D/E                    A  E/A  D/A  E/A
+Esperando você voltar
+
+A                C#m      F#m
+A vida tem dessas coisas
+       D
+No amor a gente às vezes perde
+                        A
+Pra depois ganhar
+C#7                    C#/F
+Mas se o destino for
+                   F#m  D
+Ficar com você
+A/E                E        A  E/A  D/A  E/A
+O que tem de ser será
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/E = 0 X 2 2 2 0
+B7 = X 2 1 2 0 2
+C#/F = X 8 X 6 9 9
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/E = X X 2 2 3 2
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

@@ -1,0 +1,139 @@
+@titulo: super-homem-part-edson
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Super Homem (part. Edson)
+
+Intro:
+E|----------------------------------------|
+B|-7-7-7-7-7/10-5---3p2-3p2---------------|
+G|--------------------------4-2-----------|
+D|-------------------------------0h2-0h2--|
+A|----------------------------------------|
+E|----------------------------------------|
+
+E|--------------------------------5-|
+B|---------3-5/7-5----------3-3/5-5-|
+G|-----2-4----------------0---------|
+D|-2h4------------------------------|
+A|------------------0-2-3-----------|
+E|----------------------------------|
+
+D                     D9           Bm
+Dependo tanto desse amor pra sobreviver
+      G              A               D D9
+Pra ser de novo o que fui preciso de voce ,
+Passagem 1:
+E|---------|
+B|--5/7-5--|
+G|---------|
+D|---------|
+A|---------|
+E|---------|
+
+
+  D                 D9                   G
+Contigo não tenho fracasso sou um super homem ,
+  D                      A      D         A
+Contigo não sei quem eu sou , esqueço até meu nome
+Passagem 2:
+E|-5/7\5--|
+B|-5/7\5--|
+G|--------|
+D|--------|
+A|--------|
+E|--------|
+
+  D               A               Bm
+Só não consigo entender o quanto eu te amo
+   G              A                          D D9
+A noite eu deito pra dormir mais não me vem o sono,
+D                D9                      G Gm
+E quando eu consigo dormir já é de madrugada ,.
+ D             A                 D  D7
+A minha vida sem você tá valendo nada .
+
+Refrão:
+      G                           D
+Sem você, sou carta  que saiu do jogo
+                        A
+Sou brasa que não pega fogo
+   G     A              D    D  D7
+Que não acende a sua chama .
+     G                         D
+Sem você , estou perdido no deserto
+                    A
+Preciso desse amor por perto
+       G      A          D A
+Eu sou o homem que te ama.
+Solo 2:
+E|-------------------------------------------|
+B|-5-5-5h7-7p5-3-5-5-5-5-3-2-3-2---------5-5-|
+G|-------------------------------4-2---------|
+D|-----------------------------------4/6-----|
+A|-------------------------------------------|
+E|-------------------------------------------|
+
+E|-------------3p2-0---2---------------------------5---7--|
+B|-------------------3-------------------------3/5-5---7--|
+G|-------0-2-4----------------0-2/4-2--------2---------7--|
+D|-0-2-4------------------0-2--------------2-----------7--|
+A|-------------------------------------0h2----------------|
+E|--------------------------------------------------------|
+
+ D               D9                     Bm
+Só não consigo entender o quanto eu te amo
+          G              A                      D  D9
+A noite eu deito pra dormir mais não me vem o sono,
+  D              D9                       Bm
+E quando eu consigo dormir ja e de madrugada,
+    G             A     G          D    D7
+A minha vida sem você tá valendo nada.
+
+Refrão 2x:
+      G                           D
+Sem você, sou carta  que saiu do jogo
+                        A
+Sou brasa que não pega fogo
+   G     A              D    D  D7
+Que não acende a sua chama .
+     G                         D
+Sem você , estou perdido no deserto
+                    A
+Preciso desse amor por perto
+       G      A          D A
+Eu sou o homem que te ama.
+
+Refrão: (aumenta meio tom)
+ G#                          D#
+Sem você, sou carta  que saiu do jogo
+                       Bb
+Sou brasa que não pega fogo
+  G#                    D#      D#7
+Que não acende a sua chama .
+    G#                         D#
+Sem você , estou perdido no deserto
+                         Bb
+Preciso desse amor por perto
+       G#      Bb         D#
+Eu sou o homem que te ama.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D#7 = X 6 5 6 4 X
+D7 = X X 0 2 1 2
+D9 = X X 0 2 3 0
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+Gm = 3 5 5 3 3 3

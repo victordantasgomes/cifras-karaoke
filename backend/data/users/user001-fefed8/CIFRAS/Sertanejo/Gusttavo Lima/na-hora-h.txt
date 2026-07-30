@@ -1,0 +1,89 @@
+@titulo: na-hora-h
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Na Hora H
+
+Intro: G  C
+
+       G                          D/F#
+Eu preciso de dizer que ainda te quero
+                      Dm/F
+Que preciso que te espero
+                     E
+Não consigo nem dormir
+         Am
+Pois a cada sonho eu sinto a sua volta
+          C              D            G
+Ouço até bater a porta e vou correndo te encontrar
+       G                         D/F#
+Eu preciso te dizer e tudo um pouco
+                 Dm/F         G7      C
+Do ciúme, do sufoco e da solidão em mim
+      Cm                             G
+Eu viajo nas lembranças dos seus beijos
+                   A             D            G  D
+Sinto na pele o desejo do seu toque doce em mim
+     G                           D
+Eu quero sentir o sabor da sua boca me morder
+
+             C                          G  D
+Sentir seu corpo estremecer num gemido meu
+     G                                D
+Eu quero sentir, sua mão tocar meu corpo, me apertar
+         C                      G
+Ouvir você na hora h dizer que sou seu
+
+Solo: G  C  G  C  G  D/F#  F  E  Am  Am7+  Am7  Am6  D  G  C
+
+       G                         D/F#
+Eu preciso te dizer e tudo um pouco
+                 Dm/F         G7      C
+Do ciúme, do sufoco e da solidão em mim
+      Cm                             G
+Eu viajo nas lembranças dos seus beijos
+                   A           D             G   D
+Sinto na pele o desejo do seu toque doce em mim
+     G                                  D
+Eu quero sentir o sabor da sua boca me morder
+             C                           G  D
+Sentir seu corpo estremecer num gemido meu
+     G                              D
+Eu quero sentir sua mão tocar meu corpo, me apertar
+        C                       G
+Ouvir você na hora h dizer que sou seu
+     G                                   D
+Eu quero sentir o sabor da sua boca me morder
+             C                           G  D
+Sentir seu corpo estremecer num gemido meu
+     G                              D
+Eu quero sentir, sua mão tocar meu corpo, me apertar
+        C                           G  C
+Ouvir você na hora h dizer que sou seu
+                G  C
+Dizer que sou seu
+               G
+Dizer que sou seu..
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+Am7+ = X 0 2 1 1 0
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm/F = X X 3 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

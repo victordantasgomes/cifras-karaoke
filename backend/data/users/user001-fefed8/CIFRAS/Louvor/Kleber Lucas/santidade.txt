@@ -1,0 +1,80 @@
+@titulo: santidade
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Santidade
+
+Introdução e Basse para Solo: F#m D A E (2x)
+
+
+Solo (Introdução)
+
+E|----------------------------------------------------|
+B|---7-9--10~ -----10-9--7~ ----11--9~ ---------------|
+G|---------------------------11----------6-7-7/9-9~ --|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|----------------------------------------------------------|
+B|---7-9--10~ -----10-9--7~ ----11--9--7--6-----------------|
+G|---------------------------11---------------6-7-7/9-9~ ---|
+D|----------------------------------------------------------|
+A|----------------------------------------------------------|
+E|----------------------------------------------------------|
+
+F#m                         D
+Vou me alegrar com tua santidade
+
+E                        C#m        F#m
+Quero aprender viver a tua vida Deus
+            D                    Bm
+Eu quero estar perto do teu fogo
+                           E
+Que me aquece o coração
+
+
+                C#m                      F#m
+Perto das tuas fontes que saciam minha alma
+                 D               E
+Dentro dos limites de Jerusalém
+                   C#m                        F#m
+Eu quero ser candeia sustentada por teu óleo
+
+
+          D                      E
+Desembaraçar meus pés, correr
+               C#m        F#m
+Voar como águia, nas alturas
+                D                E
+Cada instante vou viver pra ti
+               C#m              F#m
+Cada pensamento meu será pra ti Jesus
+
+
+               D
+Meu tempo, meu talento, meu ser
+Bm                    E         F#m
+Tudo que tenho é teu... é teu... é teu...
+
+
+Repete solo da Introdução.
+
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

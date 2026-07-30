@@ -1,0 +1,106 @@
+@titulo: evidencias(simplificada)
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Evidências
+
+C                                Em                  Am  Gm  C7
+Quando eu digo que deixei de te amar é porque eu te amo
+            F                      A7                    Dm
+Quando eu digo que não quero mais você   é porque eu te quero
+          G7                   E7
+Eu tenho medo de te dar meu coração
+      Am                          F               D7
+E confessar que eu estou em tuas mãos   mas não posso imaginar
+                  F                      G  F  E7  G
+O que vai ser de mim se eu te perder um dia
+
+         C                    Em                   Am    Gm  C7
+Eu me afasto e me defendo de você mas depois me entrego
+       F                           A7                Dm
+Faço tipo, falo coisas que eu não sou mas depois eu nego
+        G7                            E7
+Mas a verdade é que eu sou louco por você
+         Am                    F
+E tenho medo de pensar em te perder
+       C                       Dm
+Eu preciso aceitar que não dá mais
+
+      G7                C    Dm  G7
+Pra separar as nossas vidas
+
+C                                                E7
+E nessa loucura de dizer que não te quero vou negando as
+                                              F
+Aparências disfarçando as evidências mas pra que viver fingindo
+            Dm                 G7        F          G
+Se eu não posso enganar meu coração? Eu sei que te amo!
+  C                                             E7
+Chega de mentiras de negar o meu desejo eu te quero mais que
+                                   F                      Dm
+Tudo eu preciso do seu beijo eu entrego a minha vida pra você
+                       G      Dm           G             C
+Fazer o que quiser de mim só quero ouvir você dizer que sim!
+             Am               F
+Diz que é verdade, que tem saudade
+      G                        C
+Que ainda você pensa muito em mim
+             Am                F
+Diz que é verdade, que tem saudade
+      G                        C  G7
+Que ainda você quer viver pra mim
+
+         C                    Em                   Am    Gm  C7
+Eu me afasto e me defendo de você mas depois me entrego
+       F                           A7                Dm
+Faço tipo, falo coisas que eu não sou mas depois eu nego
+        G7                            E7
+Mas a verdade é que eu sou louco por você
+         Am                    F
+E tenho medo de pensar em te perder
+       C                       Dm
+Eu preciso aceitar que não dá mais
+      G7                C    Dm  G7
+Pra separar as nossas vidas
+
+C                                                E7
+E nessa loucura de dizer que não te quero vou negando as
+                                              F
+Aparências disfarçando as evidências mas pra que viver fingindo
+            Dm                 G7        F          G
+Se eu não posso enganar meu coração? Eu sei que te amo!
+  C                                             E7
+Chega de mentiras de negar o meu desejo eu te quero mais que
+                                   F                      Dm
+Tudo eu preciso do seu beijo eu entrego a minha vida pra você
+                       G      Dm           G             C
+Fazer o que quiser de mim só quero ouvir você dizer que sim!
+             Am               F
+Diz que é verdade, que tem saudade
+      G                        C
+Que ainda você pensa muito em mim
+             Am                F
+Diz que é verdade, que tem saudade
+      G                        C  G7
+Que ainda você quer viver pra mim
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

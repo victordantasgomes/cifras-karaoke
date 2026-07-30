@@ -1,0 +1,98 @@
+@titulo: um-dia
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+﻿Rosa de Saron - Um Dia
+
+Afinação Meio Tom Abaixo
+
+[Primeira Parte]
+
+    E                        B4
+Um dia pra quem tem fome, comer
+                      C#m7                A
+Pra quem tem sede de vida, vida eterna beber
+    E                       B4
+Um dia pra quem pediu, receber
+                      C#m7                   A
+Pra quem sofreu injustiça, ver a justiça nascer
+
+B9          C#m7             A
+   Tudo, enfim, vai se explicar
+B9         C#m7        A
+   E a verdade vai reinar!
+
+[Refrão]
+
+    E                  B4
+Um dia, tudo será alegria!
+                    C#m7        B9           A
+Não haverá mais tristeza, incerteza, medo e dor
+
+             E
+O dia do Senhor!
+
+[Segunda Parte]
+
+    E                          B
+Um dia pra quem perdeu, encontrar
+                      C#m7                    A
+Pra quem chorou a partida, nunca mais se separar
+
+B9            C#m7           A
+   Os justos vão se reencontrar
+B9            C#m7       A
+   E a morte não terá lugar!
+
+[Refrão]
+
+    E                  B9
+Um dia, tudo será alegria!
+                     C#m7       B9           A
+Não haverá mais tristeza, incerteza, medo e dor!
+    E                   B9
+Um dia, tudo terá harmonia
+                          C#m7        B9         A
+Quando do céu, sobre as nuvens, retornar o redentor
+
+[Ponte]
+
+ C#m7         B9          A           B9        A
+Toda pergunta em meu coração encontrará explicação!
+       E/G#      F#m7  B9   A
+Eternamente viverei feliz!
+
+[Refrão]
+
+    E                  B4
+Um dia, tudo será alegria!
+                     C#m7       B9           A
+Não haverá mais tristeza, incerteza, medo e dor
+    E                   B9
+Um dia, tudo terá harmonia
+                         C#m7         B9         A
+Quando do céu, sobre as nuvens, retornar o redentor
+
+             E  B9                C#m7  B9  A
+O dia do Senho____r! O dia do Senho___________r!
+    E                        B9
+Um dia, por trás de toda agonia
+                   C#m7        B9         A
+Entenderei que em tudo me guardou o Teu amor!
+
+----------------- Acordes -----------------
+A*  = X 0 2 2 2 0 - (*G# na forma de A)
+B*  = X 2 4 4 4 2 - (*A# na forma de B)
+B4*  = X 2 4 4 5 2 - (*A#4 na forma de B4)
+B9*  = X 2 4 4 2 2 - (*A#9 na forma de B9)
+C#m7*  = X 4 6 4 5 4 - (*Cm7 na forma de C#m7)
+E*  = 0 2 2 1 0 0 - (*D# na forma de E)
+E/G#*  = 4 X 2 4 5 X - (*D#/G na forma de E/G#)
+F#m7*  = 2 X 2 2 2 X - (*Fm7 na forma de F#m7)

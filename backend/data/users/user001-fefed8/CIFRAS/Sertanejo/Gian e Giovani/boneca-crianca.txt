@@ -1,0 +1,61 @@
+@titulo: boneca-crianca
+@autor:
+@intérprete: Gian e Giovani
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gian e Giovani - Boneca Criança
+
+Db, Ab, Eb7, Ab.
+
+Ab           Eb      Ab                 Eb7
+QUEM JA NAO TEVE NA VIDA QUANDO CRIANCA UM BRINQUEDO
+                Bbm  Eb7               Ab
+E NOTOU QUE BEM CEDO   ELE PERDEU SEU VALOR
+         Eb      Ab Ab7                       Db
+POIS EU TIVE TAMBEM    UM BEM QUE POUCO SE ALCANCA
+              Ab     Eb7                    Ab
+UMA BONECA CRIANCA     A QUEM EU DEI MUITO AMOR
+Ab7              Db  Eb7                     Ab4  Ab
+A BONEQUINHA CRIANCA     HOJE E MULHER DE VERDA...DE
+               Bb7 Eb7                 Ab7
+TROCOU A REALIDADE    PELA MENTIRA CRUEL
+                Db  Eb7                       Ab4  Ab
+A BONEQUINHA CRIANCA    QUE TINHA O BEIJO TAO DO...CE
+                     Bb7                      Ab  Gb  Fm  Eb
+AO ME DEIXAR TRANSFORMOU-SE NUMA BONECA DE PAPEL
+
+
+   Db                    Cm Fm                      Bbm4/7   Bbm7
+BONECA EU SOU MENINO MAGOADO   VENDO O BRINQUEDO QUEBRA......DO
+
+Eb7                  Ab Bbm Cm Ab
+EU PERDI TODA A ALEGRIA
+  Db                   Cm
+BONECA PRA TER A FELICIDADE
+Fm               Bbm4/7   Bbm
+QUERO MATAR A SAUDA.......DE
+Eb7                   Ab
+DE QUEM JA FOI BONECA UM DIA
+
+solo. Eb7  Ab  Ab7
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Ab4 = 4 6 6 6 4 4
+Ab7 = 4 6 4 5 4 4
+Bb7 = X 1 3 1 3 1
+Bbm = X 1 3 3 2 1
+Bbm4/7 = 6 X 6 6 4 X
+Bbm7 = X 1 3 1 2 1
+Cm = X 3 5 5 4 3
+Db = X 4 6 6 6 4
+Eb = X 6 5 3 4 3
+Eb7 = X 6 5 6 4 X
+Fm = 1 3 3 1 1 1
+Gb = 2 4 4 3 2 2

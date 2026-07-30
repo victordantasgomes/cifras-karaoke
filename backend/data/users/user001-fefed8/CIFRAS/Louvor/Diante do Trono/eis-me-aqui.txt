@@ -1,0 +1,97 @@
+@titulo: eis-me-aqui
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Eis-me Aqui
+
+[Primeira Parte]
+
+       D/F#                E/G#
+A tua luz acendeu meu coração
+           F#m7                D
+E eu pude ver em meio à escuridão
+        D/F#                    E/G#
+Tua presença, tua fidelidade, graça e amor
+         Bm7
+Me levantaram outra vez
+    A/C#  D                 D/F#  E/G#
+Me deram forças e prosseguirei
+
+[Refrão]
+
+         A9                        D9
+Irei contigo onde quer que fores, meu senhor
+   E/G#   F#m7       E/G#       D9
+O teu chamado cumprirei na alegria ou na dor
+        Bm7              A/C#   D
+E toda vez que eu chorar ou quiser desanimar
+
+   D/E   A                E/G#
+O teu espírito me consolará
+             Bm7              A/C#   D
+Se é na fraqueza do meu ser que manifestas teu poder
+E/G#      F#m7           E/G#           D   D9   D
+Eis-me aqui, dependo de ti, preciso de ti
+
+         A9                        D9
+Irei contigo onde quer que fores, meu senhor
+   E/G#   F#m7       E/G#       D9
+O teu chamado cumprirei na alegria ou na dor
+        Bm7              A/C#   D
+E toda vez que eu chorar ou quiser desanimar
+   D/E   A                E/G#
+O teu espírito me consolará
+             Bm7              A/C#   D
+Se é na fraqueza do meu ser que manifestas teu poder
+E/G#      F#m7           E/G#           D   D9   D
+Eis-me aqui, dependo de ti, preciso de ti
+
+[Segunda Parte]
+
+ A            F#m7                    D         A/C#
+Toda glória, toda vitória eu sei, pertence a ti
+ Bm7  A/C#   G9(13)  E/G#          D/A
+Toda honra, todo louvor entrego a ti
+     E/G#   D/F#  Esus E     A
+Porque sem ti não estaria aqui
+
+( A  E/G#  A  E/G# )
+
+ A            F#m7                    D          A/C#
+Toda glória, toda vitória eu sei, pertence a ti
+ Bm7  A/C#   G9(13)  E/G#          D/A
+Toda honra, todo louvor entrego a ti
+     E/G#   D/F#  Esus E     A  E/G#
+Porque sem ti não estaria aqui
+
+ A            F#m7                    D         A/C#
+Toda glória, toda vitória eu sei, pertence a ti
+ Bm7  A/C#   G9(13)  E/G#          D/A
+Toda honra, todo louvor entrego a ti
+     E/G#   D/F#  Esus E     A
+Porque sem ti não estaria aqui
+
+[Final] A  E/G#  A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A9 = X 0 2 2 0 0
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Esus = 0 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X
+G9(13) = X X 5 4 5 5

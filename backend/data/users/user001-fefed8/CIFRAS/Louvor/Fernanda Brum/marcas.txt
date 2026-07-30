@@ -1,0 +1,102 @@
+@titulo: marcas
+@autor:
+@intérprete: Fernanda Brum
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernanda Brum - Marcas
+
+Intro: B9  E9  G#m  E9
+
+      B9
+Nao entendo Teu modo de agir
+       B/D#               G#
+Quando trazes a minha memoria
+       C#m        F#
+Dores, marcas, historias
+             G#4    G#
+Que estao bem vivas em mim
+       B9
+Sob o discernimento dos fatos
+     B/D#                G#
+Vejo tantos problemas apertos e magoas
+C#m        F#4 F#     B9 E/G# F#/A# F#
+So Tu me conheces bem
+
+B9        D#m             E       F#4  F#
+Faz algo mais no meu interior carente
+B9         D#m          E            F#4 F#
+oh, paz singular traz a luz a minha mente
+
+B9       B5+
+Sou todo Teu
+        E9         Em
+Poe Teu selo sobre mim
+   B             F#4  F#     B9   E  G#m   E
+Conforta-me com amor sem fim
+
+        B9
+Meus conflitos mil noites em claro
+     B/D#               G#
+A razao e a vontade em fragilidades
+       C#m        F#           G#4    G#
+Deus do ceu eu sei o quanto preciso de Ti
+   B9
+Me esponho agora ao altar
+       B/D#               G#
+E invoco a misericordia do Senhor
+     C#m        F#4 F# E/G# F#/A# B9 F#
+Vem pode me curar
+
+B9        D#m         E         F#4  F#
+Faz algo mais no meu interior carente
+B9         D#m          E           F#4  F#
+oh paz singular traz a luz a minha mente
+B9       B5+
+Sou todo Teu
+          E           Em
+Poe Teu selo sobre mim
+   B           F#4  F#      B9   G#m F# B/D# E (4x)
+Conforta-me com amor sem fim
+
+C        Em             F         G4  G
+Faz algo mais no meu i terior carente
+C          Em          F            G4  G
+oh paz singular traz a luz a minha mente
+C         C5+
+Sou todo Teu
+          F           Fm
+Poe Teu selo sobre mim
+   C             G4  G      C   G#m F# B/D# E  (2x)
+Conforta-me com amor sem fim
+
+Final: G#m  F#  B/D#  E  F  F#  F#/A#  B C
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B5+ = X 2 1 0 0 X
+B9 = X 2 4 4 2 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+C5+ = X 3 2 1 1 X
+D#m = X X 1 3 4 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E9 = 0 2 4 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#4 = 2 4 4 4 2 2
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#4 = 4 6 6 6 4 4
+G#m = 4 6 6 4 4 4
+G4 = 3 5 5 5 3 3

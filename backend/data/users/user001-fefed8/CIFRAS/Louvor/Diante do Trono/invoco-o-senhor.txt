@@ -1,0 +1,113 @@
+@titulo: invoco-o-senhor
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Invoco o Senhor
+
+Intro: ::  drum solo  :  -  :  -  :  -  : FM7 G9  : A9 : FM7 Em7 : A9 : FM7 G9  : A9 : FM7 Em7 :
+
+:  A9 :  FM7 Em7 : GM7 F#m7 : Dm7 : Esus4 E :
+
+   A9                     G9           D/F#
+Invoco o Senhor digno de ser louvado
+   A9                     G9/B        A/C#
+Invoco o Senhor digno de ser louvado (back)
+   D9                   C#m7   F#m7
+Serei salvo dos meus inimigos
+  Bm7                 A/C#     F#m7
+Serei salvo dos meus inimigos  (back)
+  GM7                    Esus4         1    D/F#  E/G#  Bm7 F#m7 E (passagem)
+Serei salvo dos meus inimigos
+                                                  2     E  C/F G
+
+                A9               A/C#             D9            A/D A/D  D
+O Senhor      é minha rocha, meu libertador
+            F#m7 E/G#         A9
+ O meu Deus, o meu escudo,
+                   Bm7             C6   D9
+a forca da minha salvação
+
+          A9            A/C#
+Com Ele desbarato exércitos
+  F#m7                     Em7  F#m6/D#  DM7
+Com meu Deus eu salto    muralhas
+  Bm7                                   E            D/F# E/G#
+Quem é Deus se não o Senhor ?
+     A9                        A/C#
+O Deus que me cingiu de forca
+  F#m7                 C#5+/F   A/E      F#m6/D#   DM7
+Adestrou minhas mãos    para o combate
+ GM7                               Esus4      E
+pôs em fuga os meus inimigos
+
+INTRO : ::  FM7 G9  :  A9 :  FM7  Em7  : D  :  E ::
+
+ESTROFE...
+
+PONTE...   PARA CORO...
+
+CORO...
+
+Instrumental : ::  FM7 G9 : A9 : FM7 Em7 : A9 : FM7 Em7 : GM7 F#m7 : Dm7 : Esus4 E F#sus4 F# ::
+
+        B9
+Os persegui e os alcancei
+       G#m7                   F#m7   G#m6/F  EM7
+Os destruí e os esmaguei
+    C#m7                       F#     E/G#  F#/A#
+E não puderam levantar-se
+     B9                             B/D#
+O Deus que por mim tomou vingança
+   G#m7 D#5+/G   B/F#   G#m6/F   EM7
+E me   livrou   dos meus inimigos
+   AM7           F#sus4    F#
+A Ele eu cantarei
+                B9              B/D#             E9            B/E B/E  E
+O Senhor      é minha rocha, meu libertador
+            G#m7 F#/A#         B9
+O meu Deus, o meu escudo,
+                   C#m7             D6   E9     frase:  F# G# B         D#  F# C#   B               B
+a forca da minha salvação
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A/D = X X 0 6 5 5
+A/E = 0 X 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B/E = X 7 9 8 7 7
+B/F# = X X 4 4 4 2
+B9 = X 2 4 4 2 2
+Bm7 = X 2 4 2 3 2
+C# = X 4 6 6 6 4
+C#m7 = X 4 6 4 5 4
+C/F = X 8 10 9 8 8
+C6 = 8 X 7 9 8 X
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D/F# = 2 X 0 2 3 2
+D6 = X 5 4 2 0 X
+D9 = X X 0 2 3 0
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E9 = 0 2 4 1 0 0
+Em7 = 0 2 2 0 3 0
+Esus4 = 0 2 2 2 0 0
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#m7 = 2 X 2 2 2 X
+F#sus4 = 2 4 4 4 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#m7 = 4 X 4 4 4 X
+G9 = 3 X 0 2 0 X
+G9/B = 7 X X 7 8 5

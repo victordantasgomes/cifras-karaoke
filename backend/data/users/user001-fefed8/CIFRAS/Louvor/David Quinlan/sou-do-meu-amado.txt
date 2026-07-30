@@ -1,0 +1,36 @@
+@titulo: sou-do-meu-amado
+@autor:
+@intérprete: David Quinlan
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+David Quinlan - Sou do Meu Amado
+
+   Intro: A9 B9
+
+           A9          F#m          B9
+   Tu és Santo, Tu és Santo, Tu és Santo
+          A9           F#m          B9
+   Tu és Justo, Tu és Justo, Tu és Justo
+           A9         F#m               B9
+   Tu és Fiel, Tu és Fiel, Tu és Fiel Senhor.
+
+               A9                F#m           B9
+   Sou do meu amado, sou do meu amado e ele é meu.
+
+          A9         F#m                    B9
+   Abraça-me, abraça-me com teus braços de amor.
+
+
+Continua a ministração com A9 - F#m - B9
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

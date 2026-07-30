@@ -1,0 +1,113 @@
+@titulo: quem-sabe
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Quem Sabe
+
+[Intro]  D  C
+
+   D      C    D       C
+    Quem sabe numa semana
+   D      C    D       C
+    Quem sabe você reclama
+   G      F    G       F
+    Quem sabe do lado errado
+   G      F    G       F
+    Quem sabe despreocupado
+   D      C    D       C
+    Quem sabe aquela rosa
+   D      C    D       C
+    Quem sabe um gesto simples
+   G      F    G       F
+    Quem sabe uma poesia
+   G      F    G       F
+    Quem sabe um novo dia
+
+   D           A        Bm            A
+    Viver e possível não te amar impossível
+
+   G              D           Em         A
+    Seguindo os caminhos da emoção vou dizer
+   D                   A         Bm    A
+    Quero estar ao teu lado nunca abandonado
+   G              D            Em          (A)
+    Seguindo teus passos vou em direção ao meu coração
+
+   D       C   D        C
+    Quem sabe ao meio dia
+   D       C    D       C
+    Quem sabe na sexta-feira
+   G       F    G       F
+    Quem sabe de um outro jeito
+   G       F    G       F
+    Quem sabe dessa maneira
+
+    D            A        Bm          A
+    Viver e possível não te amar impossível
+    G              D           Em         A
+    Seguindo os caminhos da emoção vou dizer
+    D                   A         Bm    A
+    Quero estar ao teu lado nunca abandonado
+    G              D            Em         (A)
+    Seguindo teus passos vou em direção ao meu coração
+
+    E            B        C#m          B
+    Viver e possível não te amar impossível
+    A              E           F#m        B
+    Seguindo os caminhos da emoção vou dizer
+    E            B        C#m          B
+    Quero estar ao teu lado nunca abandonado
+    A              E            F#m        (B)
+    Seguindo teus passos vou em direção ao meu coração
+
+RIFF:
+E|------------------------------------------|
+B|------------------------------------------|
+G|------------------------------------------|
+D|----4-------2-----------------------------|
+A|5-5---5-3-3---3---------------------------|
+E|------------------------------------------|
+  Pm|-------------
+
+    D       C
+E|------------------------------------------|
+B|------------------------------------------|
+G|------------------------------------------|
+D|------------------------------------------|
+A|----2-------0-----------------------------|
+E|3-3---3-1-1---1---------------------------|
+
+(Está é a forma que o baixo leva os versos)
+
+VERSOS (GUITARRA):
+E|------------------------------------------|
+B|------------------------------------------|
+G|------------------------------------------|
+D|7--7--5-5--7--7--5-5----------------------|
+A|5--5--3-3--5--5--3-3--5--5--3-3--5--5--3-3|
+E|----------------------3--3--1-1--3--3--1-1|
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+C5 = X 3 5 5 X X
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F5 = 1 3 3 X X X
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X

@@ -1,0 +1,103 @@
+@titulo: faz-chover
+@autor:
+@intérprete: Fernandinho
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fernandinho - Faz Chover
+
+[Intro] Bm  G  D  A9
+        Bm  G  D  A9  G9
+
+[Primeira Parte]
+
+   D                  A9      Bm
+Assim como a corça anseia por água
+ G          D9/F#   Em       A9
+Como terra seca precisa da chuva
+     G   A9      D9/F#   G
+Meu coração tem sede de ti
+     D          A9
+Rei meu e Deus meu
+
+   D                  A9      Bm
+Assim como a corça anseia por água
+ G          D9/F#   Em       A9
+Como terra seca precisa da chuva
+     G   A9      D9/F#   G
+Meu coração tem sede de ti
+     D          A9
+Rei meu e Deus meu
+
+
+[Refrão]
+
+        Bm  G      D     A9
+Faz chover,    Senhor Jesus
+          Bm  G          A9
+Derrama chuva   neste lugar
+             Bm  G     D     A9
+Vem com teu rio    Senhor Jesus
+     Bm  G          A9
+Inundar  o meu coração
+
+        Bm  G      D     A9
+Faz chover,    Senhor Jesus
+          Bm  G          A9
+Derrama chuva   neste lugar
+             Bm  G     D     A9
+Vem com teu rio    Senhor Jesus
+     Bm  G          A9
+Inundar  o meu coração
+
+( Bm  G  D  A9 )
+( Bm  G  D  A9 )
+
+[Solo] Bm  G  D  A9
+       Bm  G  D  A9
+       G  A9  Bm
+
+        C#m  A     E     B9
+Faz chover,    Senhor Jesus
+          C#m A          B9
+Derrama chuva   neste lugar
+             C#m A     E     B9
+Vem com teu rio    Senhor Jesus
+     C#m A         B9
+Inundar  o meu coração
+
+        C#m  A     E     B9
+Faz chover,    Senhor Jesus
+          C#m A          B9
+Derrama chuva   neste lugar
+             C#m A     E     B9
+Vem com teu rio    Senhor Jesus
+     C#m A         B9
+Inundar  o meu coração
+        C#m
+Faz Chover
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A9 = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+B5 = X 2 4 4 X X
+B9 = X 2 4 4 2 2
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+D9/F# = 2 X 0 2 3 0
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X
+G9 = 3 X 0 2 0 X

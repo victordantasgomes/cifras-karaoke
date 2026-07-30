@@ -1,0 +1,55 @@
+@titulo: ele-disse
+@autor:
+@intérprete: Kleber Lucas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Kleber Lucas - Ele Disse
+
+Intro 2x: Em C
+
+ Em                     C
+Vou pra Galiléia Onde tudo começou
+Em                  C             G/B
+Acabou seu sonho Destruíram meu Senhor
+Am                     C            D      Em   C
+Coração partido Até parece que foi tudo em vão
+
+Em                       C
+Volto à Galileia O meu sonho natural
+Em                           C          G/B
+Vou lançar minha redes E esperar sem esperanças
+Am                         C            D     Em
+Roubaram meus sonhos Meu Senhor crucificaram então
+
+Am9    Bm9     C  D       Am    D       G  D    Em
+O seu sangue precioso     O castigo que era     meu
+Am9    Bm9  C     D   Am    D       C   B
+Os espinhos da coroa Eram meus... eram meus...
+
+
+           Em                    G
+Mas, ele disse! ele disse! Que depois daquela morte
+     Am                D
+Voltaria pra nos encontrar                                2x
+
+     C   D  Em               Am      D  Em
+Ele vai voltar!          ele vai    voltar!
+     C   D  Em               Am  D       Em
+Ele vai voltar!          ele vai       voltar!
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am9 = X 0 2 4 1 0
+B = X 2 4 4 4 2
+Bm9 = X 2 4 6 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

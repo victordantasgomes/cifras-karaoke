@@ -1,0 +1,32 @@
+@titulo: eu-vos-escolhi
+@autor:
+@intérprete: Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Católicas - Eu Vos Escolhi
+
+(refrão)
+
+G       C    D7   G        D7         G
+Aleluia, aleluia, aleluia, aleluia. (bis)
+                                                        C
+1. Eu vos escolhi, foi do meio do mundo
+    Am                          D             G
+A fim de que deis um fruto que dure.
+                                                   C
+Eu vos escolhi foi do meio do mundo.
+                   G           D7         G
+Amém! Aleluia! Aleluia! Amém!
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+G = 3 2 0 0 0 3

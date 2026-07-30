@@ -1,0 +1,125 @@
+@titulo: com-intensidade
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Com Intensidade
+
+Intro: // Dm7 / Gm9 A7/5+ / Bbm7 / Gm7 C9 / Dm7 / G9 A7/5+ /
+Bbm7 / Gm7 C9 / Dm7 Bbm7 / C9 stop
+
+
+F
+E eeeeeee oooooooo
+
+ F               F  E
+E eeeeeee oooooooo
+
+ Eb            Bb9/D
+E eeeeeee oooooooo
+
+ Gm7      Bb9     Eb9  Bb/D
+E eeeeeee oooooooo
+
+Fsus4  F       Fsus4 F
+Digno, Tu és digno
+
+Gsus4  G   Gsus4 G    F#
+Santo, Tu és santo
+
+
+Fsus4 F        Fsus4 F
+Lindo, Tu és lindo
+
+Gsus4 G   Gsus4 G
+forte, Tu és forte     (bis)        1ª Passagem:    :  F E C G F E C  :
+                                                                 D  :
+Dm           Bb9
+Maravilhoso Deus
+
+F/A    Csus4    C
+nós te amamos
+
+       F               Bbm7
+Queremos te adorar com intensidade
+
+      Dm7        F/C           C
+Não vamos te dar louvor pela metade
+
+         F             Eb
+Com tudo o que temos, com tudo o que somos
+
+        Bb9/D         Gm7         Csus4  C
+Com toda a nossa força, vamos te celebrar
+
+Instrumental : : F  :  Eb9  : Bb/G  :  Bb9  Csus4 C :  Dm7 : Bb9 :  Gm7  :   Bb  F/A  C  :  F   :
+
+F
+E eeeeeee oooooooo
+
+F             F  E
+E eeeeeee oooooooo
+
+Eb9           Bb/D
+E eeeeeee oooooooo
+
+Gm7       Bb9
+E eeeeeee oooooooo
+
+
+                    :  F  :  Eb9 :  Gm7 : Bb9 Csus4 C :
+Vamos te celebrar
+
+                    : Dm7 : Eb9 : Gm7 : Bb9 Csus4 C :
+Vamos te celebrar
+
+Vamos te celebrar
+
+Instrumental fraseado:
+
+"    D A C D G G F G A A C A D
+
+     A C D F F D F G F E C D
+
+    A C D G G F G A A C A D C D F F# G G F G A G# G F D    "
+
+
+Solo guitarra:  : Dm7 : Gm9 A7/5+ : Bbm7 : Gm7 C9 : Dm7 : Gm9 A7/5+ : Bbm7 :
+
+        :Gm7 C9 : Dm7 Bbm7 : C9  hold :
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7/5+ = X 0 X 0 2 1
+Bb = X 1 3 3 3 1
+Bb/D = X 5 X 3 6 6
+Bb/G = 3 X 3 3 3 X
+Bb9 = X 1 3 3 1 1
+Bb9/D = X 5 3 3 1 1
+Bbm7 = X 1 3 1 2 1
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Csus4 = X 3 3 0 1 X
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+Eb = X 6 5 3 4 3
+Eb9 = X 6 8 8 6 6
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F/A = 5 X 3 5 6 X
+F/C = X 3 3 2 1 1
+Fsus4 = 1 3 3 3 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G9 = 3 X 0 2 0 X
+Gm7 = 3 X 3 3 3 X
+Gm9 = 3 5 7 3 3 3
+Gsus4 = 3 5 5 5 3 3

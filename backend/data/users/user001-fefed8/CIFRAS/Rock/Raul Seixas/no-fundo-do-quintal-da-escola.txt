@@ -1,0 +1,92 @@
+@titulo: no-fundo-do-quintal-da-escola
+@autor:
+@intérprete: Raul Seixas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Raul Seixas - No Fundo do Quintal da Escola
+
+(intro da bateria)
+
+(riff)
+E |--------------------------------0----
+B |--------------------------------0----
+G |--------------------------------0----
+D |--------5--------5---------5----2----
+A |---5--3------5-3------5--3------1----
+E |-0----------0-------0-----------0----
+
+     A                        D                     A7      (riff)
+Não sei onde eu tô indo mas sei que eu tô no meu caminho
+   A               D                    A7     (riff)
+Enquanto você me critica eu tô no meu caminho
+   F#m                     E                G
+Eu sou o que sou porque eu vivo da minha maneira
+    F#m                                              G       E
+Só sei que eu sinto que foi sempre assim minha vida inteira
+
+(refrão)
+  D                           Dm                  A
+Desde aquele tempo quando o resto da turma se juntava
+
+
+(riff 2)
+E |----------------
+B |----------------
+G |----------------
+D |--7--6--5--4----
+A |--7--6--5--4----
+E |--5--4--3--2----
+
+Pra bater uma bola
+B
+Eu pulava o muro com Zezinho
+      E                 A      (solo) F#   B   E   A   D   E
+No fundo do quintal da escola
+
+(refrão)
+
+  F#m                 E                  G
+Você esperando respostas, olhando pro espaço
+  F#m                                  G           E
+E eu tão ocupado vivendo, eu não me pergunto, eu faço
+
+(refrão)
+
+  D                       Dm                      A
+E se você quiser contar comigo é melhor não me chamar
+
+(riff 2)
+Pra jogar bola
+    B
+Eu tô pulando o muro com o Zezinho
+    E                   A
+No fundo do quintal da escola
+    F#
+Eu tô          (2x)
+   B
+Eu tô pulando o muro com o Zezinho
+  E                     A
+No fundo do quintal da escola
+               F#
+Eu sempre estive lá
+   B
+Eu tô pulando o muro com o Zezinho
+   E                     D   A
+No fundo do quintal da escola
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B = X 2 4 4 4 2
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

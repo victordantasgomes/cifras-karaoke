@@ -1,0 +1,41 @@
+@titulo: aqui-na-esquina
+@autor:
+@intérprete: Corinhos Evangélicos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Corinhos Evangélicos - Aqui Na Esquina
+
+[Intro] Dm  G  G7  C  F  C
+
+                   C
+Aqui pertinho na esquina
+               Dm
+Ou ao redor do mundo
+                    G      G7
+Crianças necessitam de Jesus
+                 C     C7
+E do seu amor profundo
+        F           G7
+Levemos com ardor
+              C        Am
+A mensagem do Senhor
+                   Dm7     G7
+Aqui pertinho na esquina
+               C       F   C
+Ou ao redor do mundo
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

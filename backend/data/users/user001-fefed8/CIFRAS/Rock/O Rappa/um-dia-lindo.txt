@@ -1,0 +1,10 @@
+@titulo: um-dia-lindo
+@autor:
+@intérprete: O Rappa
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:

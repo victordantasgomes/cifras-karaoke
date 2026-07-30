@@ -1,0 +1,115 @@
+@titulo: faz-nos-um
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Faz-nos Um
+
+INTRO.: : Am7(11) : F  C/E  Dm7  :  Am7(11) :  F  Am7  G  :
+
+C   G/B     Am7   Am7/G
+Pai faz-nos um
+              F        Dm7        C/G         G   F/A G/B
+Pois tens nos dado Tua glória pra que sejamos um
+C         Bdim  Am7   Am7/G   F      C/E    Dm7  Gsus
+Perdoa-nos as ofensas       Olhamos a Diferença
+G         Am7        Em7        Am7         Em7
+Quando o Teu amor já nos uniu O Teu amor já destruiu
+          F    C/E  Dm7  Am7   Gsus     G :  F Am7 G  :
+O que nos se - pa - ra - va    Faz nos um
+
+Refrão:
+        C              Fm7/C
+A NOSSA UNIDADE A NOSSA UNIDADE
+       Dm7   F            G   F  G
+IRÁ TRAZER A GLÓRIA DO SENHOR
+        C       C/E     F2  Am7
+A NOSSA UNIDADE A NOSSA UNIDADE
+       Dm7   F            G   F G
+IRÁ TRAZER A GLÓRIA DO SENHOR
+
+       Em7    Am7     Em7      Am7
+E O BRASIL SABERÁ E O MUNDO SABERÁ
+          Dm7   C/E F     D7(9)/F#    Gsus  G
+QUE JESUS CRIS - TO  É O   SE   -   NHOR
+      Dm7        F/G         [Reintro]
+O SALVADOR QUE O PAI NOS ENVIOU
+
+REINTRO: : Am7(11) : F  C/E Dm7  :  Am7(11) : F Am7 G/B A/C# :
+
+
+D   A/C#    Bm7  Bm7/A
+PAI FAZ-NOS UM
+              G        Em7        D/A         A  G/B  A/C#
+POIS TENS NOS DADO TUA GLÓRIA PRA QUE SEJAMOS UM
+D         C#dim Bm7   Bm7/A  G        D/F# Em7    Asus
+PERDOA-NOS AS OFENSAS       OLHAMOS AS DIFERENÇAS
+A        Bm7         F#m7       Bm7         F#m7
+QUANDO O TEU AMOR JÁ NOS UNIU O TEU AMOR JÁ DESTRUIU
+          G   D/F#   Em7  Bm7    Asus     A  : G  Bm7  A :
+O QUE NOS SE - PA - RA - VA    FAZ-NOS UM
+
+        D                GM7/D
+A NOSSA UNIDADE   A NOSSA UNIDADE
+       Em7   G            A   G  A
+IRÁ TRAZER A GLÓRIA DO SENHOR
+        D         D/F#    G2  Bm7
+A NOSSA UNIDADE   A NOSSA UNIDADE
+       Em7   G            A   G  A
+IRÁ TRAZER A GLÓRIA DO SENHOR
+       F#m7    Bm7    F#m7      Bm7
+E O BRASIL SABERÁ E O MUNDO SABERÁ
+          Em7  D/F#  G     E7(9)/G#   Asus  A
+QUE JESUS CRIS - TO  É O   SE   -   NHOR
+                         Coro:  D   A      G/B   A/C#
+      Em7        G/A     Tag :  D   A/C#   Bm7   A
+O SALVADOR QUE O PAI NOS ENVIOU
+
+ESPONTÂNEO: :: D  :  GM7/D  :  Em7  G  : A  G  A :
+            : D  D/F# : G2  Bm7  :  Em7    G : A  G  A ::  [CORO]
+
+TAG:
+       F#m7    Bm7    F#m7      Bm7
+E O BRASIL SABERÁ E O MUNDO SABERÁ
+          Em7  D/F#  G     E7(9)/G#   Asus    A
+QUE JESUS CRIS - TO  É O   SE   -   NHOR
+      Em7        G/A         Bm7(11)  :  G D/F# Em7 : D ::
+O SALVADOR QUE O PAI NOS ENVIOU
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Am7 = X 0 2 0 1 0
+Am7(11) = 5 X 5 5 3 X
+Am7/G = 3 0 2 0 1 0
+Asus = X 0 2 2 2 0
+Bdim = X 2 3 1 3 1
+Bm7 = X 2 4 2 3 2
+Bm7(11) = 7 X 7 7 5 X
+Bm7/A = 5 2 4 2 3 2
+C = X 3 2 0 1 0
+C#dim = X 4 5 3 5 3
+C/E = 0 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D7(9)/F# = 5 7 5 9 5 6
+Dm7 = X 5 7 5 6 5
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F#m7 = 2 X 2 2 2 X
+F/A = 5 X 3 5 6 X
+F/G = 3 X 3 2 1 X
+Fm7/C = X 3 1 1 1 1
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G2 = 3 X 0 2 0 X
+Gsus = 3 2 0 0 0 3

@@ -1,0 +1,195 @@
+@titulo: A DESCONHECIDA
+@autor:
+@intérprete: CIFRAS
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+[t=0.00] [Intro]
+D  D7M  D7  D6
+Em  Em7M  Em7  Em6
+A  A7
+
+[@observacao] Parte 1 de 5
+[@riff]
+[t=1.00]
+   D                 D7M
+E|-----5-----5-----------5-----5------------|
+B|---7-----7-----------7-----7--------------|
+G|-7-----7-----7-----6-----6-----6----------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+[@/riff]
+
+[@observacao] Parte 2 de 5
+[@riff]
+[t=4.00]
+   D7                D6
+E|-----5-----5-----------5------------------| 
+B|---7-----7-----7-----7--------------------| 
+G|-5-----5-----5-----4------4-6--7----------| 
+D|------------------------------------------| 
+A|------------------------------------------| 
+E|------------------------------------------| 
+[@/riff]
+
+[@observacao] Parte 3 de 5
+[@riff]
+[t=6.00]
+   Em                Em7M
+E|-----7-----7-----------7-----7------------|
+B|---8-----8-----8-----8-----8-----8--------|
+G|-9-----9-----9-----8-----8-----8----------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+[@/riff]
+
+[@observacao] Parte 4 de 5
+[@riff]
+[t=8.00]
+   Em7               Em6
+E|-----7-----7-----------7-----7------------| 
+B|---8-----8-----8-----8-----8-----8--------| 
+G|-7-----7-----7-----6-----6-----6----------| 
+D|------------------------------------------| 
+A|------------------------------------------| 
+E|------------------------------------------| 
+[@/riff]
+
+[@riff]
+[t=11.00][@observacao] Parte 5 de 5
+   A                 A7
+E|------------------------------------------| 
+B|-----5-----5-----------8-----8------------| 
+G|---6-----6-----6-----9-----9-----9--------| 
+D|-7-----7-----7-----7-----7-----7----------| 
+A|------------------------------------------| 
+E|------------------------------------------| 
+[@/riff]
+
+
+[Primeira Parte]
+
+D                 D7M
+  Numa tarde tão linda de Sol
+Em              A7
+   Ela me apareceu
+D                      D7M
+  Com um sorriso tão triste
+               Em       A7
+Um olhar tão profundo, já sofreu
+
+D                   F#m
+  Suas mãos tão pequenas e frias
+Em               A7
+   Sua voz tropeçava também 
+
+D                  F#m
+  Me falava da infância de lágrimas
+Em                 A7
+   Nunca teve ninguém
+
+[Refrão]
+
+       D
+Nunca teve amor
+        F#m             Em  A7
+Não sentiu calor de alguém
+        D             F#m
+Nem sequer ouviu a palavra carinho
+     Em       A7
+Seu ninho não existiu
+
+D         F#m                    Em
+  Sinceramente eu chorei de tristeza
+A7  
+Ao ouvir
+       D                   F#m
+Tanta coisa que a vida oferece
+               Em
+Que a gente padece
+ A7
+Sem querer
+
+[Segunda Parte]
+
+D            F#m       
+  Depois de tudo que ouvi
+Em                 A7
+   Não consigo esquecer
+D                F#m
+  Ela me disse adeus e se foi
+Em                  A7
+   Nem seu nome eu sei dizer
+
+[Ponte]
+
+D              F#m
+  De onde ela veio
+              Em  A7
+Pra onde ela vai?
+D              F#m
+  De onde ela veio
+              G   A7
+Pra onde ela vai?
+     D
+Não sei dizer
+
+[Interlúdio] F#m  Em  A7
+             D  F#m  Em  A7
+
+[Refrão]
+
+       D
+Nunca teve amor
+        F#m             Em  A7
+Não sentiu calor de alguém
+        D             F#m
+Nem sequer ouviu a palavra carinho
+     Em       A7
+Seu ninho não existiu
+
+D         F#m                    Em
+  Sinceramente eu chorei de tristeza
+A7  
+Ao ouvir
+       D                   F#m
+Tanta coisa que a vida oferece
+               Em
+Que a gente padece
+ A7
+Sem querer
+
+[Segunda Parte]
+
+D            F#m       
+  Depois de tudo que ouvi
+Em                 A7
+   Não consigo esquecer
+D                F#m
+  Ela me disse adeus e se foi
+Em                  A7
+   Nem seu nome eu sei dizer
+
+[Ponte]
+
+D              F#m
+  De onde ela veio
+              Em  A7
+Pra onde ela vai?
+D              F#m
+  De onde ela veio
+              G   A7
+Pra onde ela vai?
+     D
+Não sei dizer
+
+[Final] F#m  Em  A7
+        D  F#m  Em  A7
+        D  F#m  Em  A7

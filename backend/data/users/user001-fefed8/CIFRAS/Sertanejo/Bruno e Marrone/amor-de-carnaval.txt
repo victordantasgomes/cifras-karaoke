@@ -1,0 +1,101 @@
+@titulo: amor-de-carnaval
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Amor de Carnaval
+
+(intro)
+
+(violão 1) D D7+ Em A D
+
+(violão 2)
+
+E|--14-14-14-12-12-12-10-10-10-9-9-9--7------|
+B|----------------------------------------8--|
+G|-------------------------------------------|
+D|-------------------------------------------|
+A|-------------------------------------------|
+E|-------------------------------------------|
+
+E|--12-12-12-10-10-10-9-9-9-7-7-7-5----------|
+B|-----------------------------------7-------|
+G|-------------------------------------------|
+D|-------------------------------------------|
+A|-------------------------------------------|
+E|-------------------------------------------|
+
+
+
+D                     D7+                             Em
+Primavera chegou seu amor me pegou, e eu te amei te amei
+A7                                                      D
+Quantas flores colhi nos jardins dos meus sonhos, e te dei
+                          D7+                   D6
+Flores folhas e frutos caindo esse amor consumindo,
+             Em
+Eu me entreguei
+        A7                                    D
+Foi loucura paixão foi amor sedução, o que foi não sei
+ G                 A7                D
+Te amei demais, você nem viu e eu chorei
+    G               A7              D  B7
+Te amei demais, você sorriu e eu chorei
+E                    E7+                       F#m
+Você foi o verão vendaval de ilusão, foi o temporal
+       B7                                    E
+Foi o frio no inverno o amor mais eterno, o bem e o mal
+                                E7+                 E6
+Eu te quis como a mãe quer um filho a luz quer o brilho
+        F#m
+Tão natural
+     B7                                E
+Meu amor seu amor o espinho da flor, amor de carnaval
+
+(refrão 4x)
+    A             B7                 E
+Te amei demais, você nem viu, e eu chorei chorei
+   A                    B7           E
+Te amei demais, você sorriu e eu chorei
+E                E7+              F#m
+La la la la la la la la la la la la
+      B7                          E
+La la la la la la la la la la la la
+
+(outra maneira de tocar a intro)
+
+             D                                 Em
+E|--14-14-14--12-12-12--10-10-10--09-09-10--07--|
+B|--15-15-15--14-14-14--12-12-12--10-10-12--08--|
+G|----------------------------------------------|
+D|----------------------------------------------|
+A|----------------------------------------------|
+E|----------------------------------------------|
+
+              A7                                D
+E|--12-12-12--10-10-10--09-09-09--07-08-09--05--02-02-02--|
+B|--14-14-14--12-12-12--10-10-10--08-08-10--07--03-03-03--|
+G|--------------------------------------------------------|
+D|--------------------------------------------------------|
+A|--------------------------------------------------------|
+E|--------------------------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+D = X X 0 2 3 2
+D6 = X 5 4 2 0 X
+D7+ = X X 0 2 2 2
+E = 0 2 2 1 0 0
+E6 = X X 2 4 2 4
+E7+ = X X 2 4 4 4
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

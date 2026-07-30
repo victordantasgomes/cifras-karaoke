@@ -1,0 +1,76 @@
+@titulo: vai-mudar
+@autor:
+@intérprete: CPM 22
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+CPM 22 - Vai mudar ?
+
+Intro 5x: F  G  Bb
+
+   (Na 2a vez)            (Da 3ª á 5ª vez)
+E|-14-------11-------|   e|---------------------------------------------------------------------------|
+B|----14-------12----|   B|---------------------------------------------------------------------------|
+G|-------11-------11-|   G|---------------------------------------------------------------------------|
+D|-------------------|   D|---------------------16-16-15-15-13-------------------------16-16-15-15-13-|
+A|-------------------|   A|-13----13-13H14--------------------------13----13-13H14--------------------|
+E|-------------------|   E|----14--------------------------------------14-----------------------------|
+
+F     G             Bb
+Ainda lembro aquele dia sem fim
+F          G            Bb
+Sentindo a brisa, louco quando eu te vi
+F      G               Bb
+Estava certo de que um dia,
+              F        G      Bb
+Esse dia eu sabia que iria chegar...
+
+F Bb Dm
+     Agora eu já sei,
+
+F Bb Dm
+     O que eu vou fazer,
+F Bb Dm
+     Só quero viver
+F Bb Dm                      F Em Dm
+     Pra nunca mais esquecer
+
+Solo: F  Bb  Dm
+
+
+E|------------------------23-21-19-18-18/19-18-16-14-16-16/18-16-14-14h16r14--|
+B|------21-21-----------------------------------------------------------------|
+G|-21/23-----23-21/23-23------------------------------------------------------|
+D|----------------------------------------------------------------------------|
+A|----------------------------------------------------------------------------|
+E|----------------------------------------------------------------------------|
+
+F        G               Bb
+Há muito tempo lembro o quanto eu errei
+F      G                 Bb
+Em não dizer o que eu queria dizer pra você
+F        G             Bb                 F    G       Bb
+Eu já pensei, eu já tentei e até quase pirei, quase pirei
+F       Bb                 Dm         G            Bb
+A Vida Passa Depressa Demais,Vou tentar aproveitar
+F       Bb                 Dm         G                      Bb
+Os dias passam depressa demais, vou tentar aproveitar aproveitar...
+
+F         Bb      F    Bb      F
+Amanhã eu já não sei, já não sei
+F         Bb      Dm
+Amanhã eu já não sei
+                ( F Bb Dm )
+O que vai mudar
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

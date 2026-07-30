@@ -1,0 +1,73 @@
+@titulo: irradiacao-fossil
+@autor:
+@intérprete: Engenheiros do Hawaii
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Engenheiros do Hawaii - Irradiação Fóssil
+
+introducao:    F#m Em C# C  B
+
+
+F#m                         F#m
+eu vi meu próprio corpo como fosse outra pessoa
+F#m                            F#m
+não me era um corpo estranho visto das alturas
+D                    D#°
+eu estava livre...um corpo em queda livre
+  F#m
+[livre]
+F#m                         F#m
+pra voltar à realidade procurei um rosto amigo
+F#m                        F#m
+e vi meu próprio corpo como fosse outra pessoa
+D                    D#°
+luz: tempo-espaço...como se fosse fácil
+
+como se fosse possível...como se preciso fosse
+
+
+F#m Em  C#  C   B      F#m
+IR__RA__DI__A__ÇÃO... [fóssil]
+
+F#m  Em  C#  C   B      F#m
+IR...RA..DI..A..ÇÃO... [fóssil]
+
+Solo
+
+D                          D#°
+eu estava livre...assim no céu como na terra
+  F#m
+[livre]
+ D
+luz da estrela que não brilha mais
+D#°
+voz de alguém que já
+
+já não fala mais
+   E
+eu vejo a luz sem acreditar
+       F°
+que aquela estrela não existe mais
+
+ir...ra..di..a..ção [fóssil]
+
+
+Acorde:
+F°  : x8x(10)xx
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+D#° = X X 1 2 1 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+F° = X X 3 4 3 4

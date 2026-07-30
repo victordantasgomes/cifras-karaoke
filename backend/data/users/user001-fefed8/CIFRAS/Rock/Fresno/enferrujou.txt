@@ -1,0 +1,130 @@
+@titulo: enferrujou
+@autor:
+@intérprete: Fresno
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Fresno - Enferrujou
+
+Riff 1
+G|--77777-1111-6666-|
+D|--xxxxx-xxxx-xxxx-|
+A|--55555-99---4444-| 
+
+Riff 2
+G|--11111111-16161616-141414-151515/16-|
+D|--xxxxxxxx-xxxxxxxx-xxxxxx-xxxxxxxxx-|
+A|--99999----14141414-121212-131313/14-|
+
+Intro: (Bm)
+       (Bm D D/C#) Riff 1
+       (Bm)
+       (Bm A A#º) Riff 2
+
+Bm                                                         G
+  Tentei me olhar no espelho e encontrar em mim lugar pra ti
+                                             D
+mas o reflexo me dizia que você não estava ali
+                                                  F#m
+Agora sei que você não tem um lugar seguro pra ficar
+
+
+Bm                                             G
+  Desculpa se o mundo foi cruel e te fez perceber
+                                                D
+que nunca ai dar certo nada que envolva eu e você
+                                                  F#m
+Existem coisas que nem mesmo o amor é capaz de solucionar
+        G
+...mas sofro ao te ver
+
+Bm              Bm6
+    Tanta soli-dão...
+      Bm           D       D/C#  Bm
+E eu sei que isso fui eu que causei
+         Bm6
+A desilu-são...
+    Bm           A       A#º     Bm
+Eu tento te acalmar, mas eu não sei...
+
+
+Bm                                                      G
+  Lembrando dessa história, eu vejo a culpa cair sobre mim,
+                                                  D
+mas também sei que o aconteceu não foi somente assim
+                                             F#m
+Você nunca soube cultivar em mim o amor que você quer
+
+G|-11-12-14-15-|  
+D|-xx-xx-xx-xx-|
+A|-9--10-12-13-|
+
+Bm                                            G
+  Deixei de viver intensamente pra viver pra ti
+                                                     D
+E os últimos dias felizes foram os em que eu não te vi
+                                               F#m
+Sinto muito, mas só estou perseguindo a minha paz
+            G
+Não vou voltar atrás
+
+D                                     Bm
+Entre aqui (não vou te impedir de entrar)
+                                 Em
+no meu peito (ouça o coração gritar)
+                                A
+e ouça o meu (ensurdeça ao escutar)
+     A7                      D
+pranto (que não vai mais acabar)
+                                Bm
+Olha aqui (tente ao menos enxergar)
+                                  Em
+dentro de mim (sinta o gelo evaporar)
+                                                           A    A#º
+e veja que estou frio, como o ferro de que eu julgava ser feito
+
+(Bm9)    D|-4/9-|
+
+Em               G
+    Quanta soli-dão..
+      Bm           D       D/C#  Em
+E eu sei que isso fui eu que causei
+          G
+A desilu-são..
+    Bm           A
+Eu tento te acalmar, mas eu não sei..
+
+D                                     Bm
+Entre aqui (não vou te impedir de entrar)
+                                 Em
+no meu peito (ouça o coração gritar)
+                                A
+e ouça o meu (ensurdeça ao escutar)
+     A7                      D
+pranto (que não vai mais acabar)
+                                Bm
+Olha aqui (tente ao menos enxergar)
+                                  Em
+dentro de mim (sinta o gelo evaporar)
+                                                           A    A#º
+e veja que estou frio, como o ferro de que eu julgava ser feito
+            Bm
+que enferrujou...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#º = X 1 2 0 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm6 = 7 X 6 7 7 X
+Bm9 = X 2 4 6 3 2
+D = X X 0 2 3 2
+D/C# = X 4 0 2 3 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

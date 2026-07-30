@@ -1,0 +1,47 @@
+@titulo: sempre-apaixonado
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Sempre apaixonado
+
+intro: ( C Em F G )
+
+C                    Em
+Deixe que eu te faça um pouco feliz
+F                     G
+Mesmo que a distância lhe provoque medos
+C                Em
+Tenho um segredo para te contar
+F               G
+O meu coração esta apaixonado
+
+C                    Em
+Deixa que eu te olhe meio assim de lado
+       F                  G
+De um jeito descuidado um pouco relaxado
+     C                  Em
+Mas sempre interessado no teu bem querer
+   F       G               C
+E aí, não precisa olhar pro mapa não
+Em            F          G              C
+O Japão é aqui pra quem ama não tem essa não
+
+    Em             F
+Me dê sua mão e escuta o meu silêncio
+G              C Em
+Sempre apaixonado
+     F                 G               C
+E escuta o meu silêncio sempre apaixonado    (3X)
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

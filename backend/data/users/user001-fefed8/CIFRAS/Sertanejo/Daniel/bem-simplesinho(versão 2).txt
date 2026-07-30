@@ -1,0 +1,62 @@
+@titulo: bem-simplesinho(versão 2)
+@autor:
+@intérprete: Daniel
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Daniel - Bem Simplesinho
+
+Intro: C G7 C G79
+
+  C
+POR CAUSA DESSA MULHER DE TUDO QUE É BOM FUI ABRINDO MÃO
+ C9                    G
+DO FUTEBOL COM OS AMIGOS, BARZINHO E ATÉ MEU VIOLÃO
+        G7        F     G
+POR CAUSA DESSA MULHER QUE NÃO SUPORTAVA MINHAS AMIGAS
+  F        C      G       C  G7
+AOS POUCOS FUI ME ENVOLVENDO, AMOLECENDO EU MUDEI DE VIDA.
+
+ C
+AGORA EU FAÇO PARTE DE UMA CLASSE ELITIZADA
+  C9                  G
+SÓ GOSTA DE COISA CHIC, SÓ TOMA BEBIDA IMPORTADA
+         G7      F    G
+EU QUE GOSTO DE CERVEJA, RABO DE GALO E CAIPIRINHA
+ F        C         G7        C
+É VINHO WISQUE, LICOR, ESSA QUE EU ESTOU DEUS NÃO É A MINHA.
+
+
+
+Refrão
+
+     G             C
+EU QUERO VIOLA, ELA MPB. FALO EM SERTANEJO, ELA QUER MORRER
+    G7
+GOSTO DE FAZENDA E DE BOI NA ENVERNADA,
+         F    G    C
+ELA QUER QUE EU APRENDA UMAS COISAS ERRADAS.
+     G7               C
+ELA FAZ AMOR COMO NINGUEM FAZ, MAS VIVER ASSIM É RUIM DEMAIS.
+      F
+PREFIRO UM AMOR...  BEM SIMPLESINHO....
+      G        C         G  G7
+PODER TOCAR VIOLA, JOGAR MINHA BOLA, TOMAR MINHAS PINGAS
+     C
+E VIVER SOZINHO.
+
+
+AGORA EU FAÇO...
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3
+G79 = 3 X 3 2 0 X

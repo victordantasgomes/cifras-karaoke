@@ -1,0 +1,191 @@
+@titulo: casa-do-pai
+@autor:
+@intérprete: Thalles Roberto
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Thalles Roberto - Casa do Pai
+
+Primeira Parte:
+
+C9                    G5     (frase 1)
+   Eu sinto falta da Sua voz
+C9                     (frase 2)  C9
+   Me chamando pra entrar
+
+Frase 1:
+
+E|--------------------
+B|--------------------
+G|--------------------
+D|----0--0h2----------
+A|0h2-----------------
+E|--------------------
+
+(Frase 2)
+E|--------------------
+B|--------------------
+G|--0---0---0---------
+D|----4---4---4-------
+A|--------------------
+E|0-------------------
+
+
+G                    Am7(9)
+  Eu sinto tanta saudade
+                C9
+De caminhar Contigo
+                  Am7
+Saudades do meu Amigo
+                 (frase 2)  C9
+Saudades do meu Pai
+
+C9                        G5      (frase 1)
+   Pai, eu sei que não mereço, mas
+C9                       (frase 2)  C9
+   Eu não tenho pra onde ir
+G                    Am7(9)
+  Eu sinto tanta saudade
+                 C9
+De conversar Contigo
+                  Am7
+Saudades do meu Amigo
+                 (frase 2)  C9
+Saudades do meu Pai
+       (frase 2)  C9
+Do meu pai
+
+Refrão:
+
+G  G5  G5/A  G/B  C9
+   Eu vou   vol__tar pra casa do Pai
+             G5       Am7  G/B  G5/D   C9
+Eu quero o amor da casa   do   meu    Pai
+                 Am7                    (frase 2)  C9
+E repousar tranquilo nos braços do meu Pai
+         frase 2 C9
+Do meu Pai
+
+Primeira Parte:
+
+C9                    G5     (frase 1)
+   Eu sinto falta da Sua voz
+C9                     (frase 2)  C9
+   Me chamando pra entrar
+G                    Am7(9)
+  Eu sinto tanta saudade
+                C9
+De caminhar Contigo
+                  Am7
+Saudades do meu Amigo,
+                 (frase 2)  C9
+Saudades do meu Pai
+
+C9                        G5       (frase 1)
+   Pai, eu sei que não mereço, mas
+C9                       (frase 2)  C9
+   Eu não tenho pra onde ir
+G                    Am7(9)
+  Eu sinto tanta saudade
+                 C9
+De conversar Contigo
+                  Am7
+Saudades do meu Amigo
+                 (frase 2)  C9
+Saudades do meu Pai
+        (frase 2)  C9
+Do meu pai
+
+Refrão:
+
+G  G5  G5/A  G/B  C9
+   Eu vou   vol__tar pra casa do Pai
+             G5       G5/A  G/B  G/D  C9
+Eu quero o amor da casa    do   meu  Pai
+                 Am7
+E repousar tranquilo
+
+Parte Final:
+
+                   Em7(9)  C9(11+)
+Nos braços do meu Pai
+Em7(9)  C9(11+)
+
+G      Am7   G/B  C9
+   Eu vou   vol__tar pra casa do Pai
+             G        Am7  G/B    C9
+Eu quero o amor da casa   do meu Pai
+                 Am7
+E repousar tranquilo
+                   Em7(9)  C9(11+)
+Nos braços do meu Pai
+Em7(9)  C9(11+)  G6(9)
+
+G
+Parte Final - Parte 1 de 3 de 6
+  Em7(9)      C9(11+)  Em7(9)      C9(11+)
+E|-----------------------------------------
+B|------------------3--------------------3-
+G|------0--------0-----------0--------0----
+D|----4---4---4------------4---4---4------
+A|--2-------2-3----------2-------2-3------
+E|0--------------------0-------------------
+
+  G         Am7 G/B C9
+E|------------------0-----0-----0-----0----
+B|0------0--1---3---3-----3--+--3-----3----
+G|0------0--0---0------0-----0-----0-----0-
+D|0----------------------------------------
+A|----------0---2---3-----+----------------
+E|3------3---------------------------------
+
+                         G
+E|0----0----0-----0------------------------
+B|3----3----3-----3------0----0------------
+G|---0----0----0-----0---0----0------------
+D|--------------------------0----0---------
+A|3----------------------------------------
+E|-----------------------3-----------------
+
+     Am7 G/B     C9                    Am7
+E|-----------3---0-----0-----0-----0---3----
+B|0--1---3-------3-----3-----3-----3---1----
+G|0--0---0----------0-----0-----0------0----
+D|-----------0-------------------------2----
+A|---0---2-------3---------------------0----
+E|3----------------------------------------
+
+  Em7(9)      C9(11+)  Em7(9)      C9(11+)
+E|-----------------------------------------
+B|------------------3--------------------3-
+G|------0--------0-----------0--------0----
+D|----4---4---4------------4---4---4-------
+A|--2-------2-3----------2-------2-3-------
+E|0--------------------0-------------------
+
+  G6(9)
+E|0----------------------------------------
+B|0----------------------------------------
+G|2----------------------------------------
+D|0----------------------------------------
+A|X----------------------------------------
+E|3----------------------------------------
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 3
+Am7(9) = X 0 5 5 0 0
+C9 = X 3 2 0 3 3
+C9(11+) = X 3 4 0 3 0
+Em7(9) = X 7 5 7 7 X
+G = 3 X 0 0 0 X
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G5 = 3 X 0 0 3 3
+G5/A = X 0 0 0 3 3
+G5/D = X X 0 0 3 3
+G6(9) = X X 5 4 5 5

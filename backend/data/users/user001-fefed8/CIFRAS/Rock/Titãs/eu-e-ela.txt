@@ -1,0 +1,69 @@
+@titulo: eu-e-ela
+@autor:
+@intérprete: Titãs
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Titãs - Eu e Ela
+
+Intr. C9
+
+C9                  E
+Você quis terminar
+                       Am
+Pediu que fosse assim
+           F7+
+Trancou a porta e fechou as janelas
+     F                  C  Bb Dm
+Pra não pensar mais em mim
+            F          C9
+E eu te pergunto: pra quê?
+
+C9                   E
+Não vou te procurar
+                            Am
+Vou deixar você me esquecer
+           F7+
+Para encontrar a pessoa mais certa
+     F                       C  Bb Dm
+Que possa lhe amar longe de mim
+
+            F           C9
+E eu te pergunto: por quê?
+
+Cm        Cm/Bb       F/A    Ab
+Escrevo as últimas palavras
+                          Bb4 Bb
+Estendo a mão sem dar um beijo
+Cm       Cm/Bb          F/A
+Espelho meu desiste dessa cara
+Ab                   Bb4    Bb
+Entrego a ela todos os segredos
+
+            Cm
+Ela que era tudo para mim
+     F7
+Foi tudo para mim
+        Ab                 Bb
+Eu quis tudo, tudo, tudo, tudo
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Am = X 0 2 2 1 0
+Bb = X 1 3 3 3 1
+Bb4 = X 1 3 3 4 1
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+Cm = X 3 5 5 4 3
+Cm/Bb = X 1 1 0 1 X
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F7 = 1 3 1 2 1 1
+F7+ = 1 X 2 2 1 X

@@ -1,0 +1,183 @@
+@titulo: ciclo
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - Ciclo
+
+Intro:
+
+B11 E9 G#m E9
+
+G#m E9 G#m F# E9
+
+Primeira Parte:
+ B5(9)
+Mãe eu quis um tempo pra recomeçar
+    E
+Pensei que tinha a vida toda pra pensar
+G#m           F#             E
+  Porque era cômodo ficar aqui
+ B5(9)
+Mãe a vida me forçou a aprender
+ E
+Tudo aquilo que eu ouvia de você
+G#m                 F#
+  Mas entre os problemas
+            E
+Eu acho que ainda sei sorrir
+
+
+
+Segunda Parte:
+ C#m
+Mãe pra muita coisa eu sei que demorei
+    E
+E quanto tempo isso faz eu já nem sei
+     B5(9)             F#               E
+Os anos insistiram em passar, e eu cresci
+           C#m
+Foi quando aprendi voar
+             E            F#
+E o mundo inteiro quis pegar pra mim
+
+
+Refrão 2x:
+B5(9)
+  A gente nasce, cresce
+ C#m                       B/D#
+Casa, e sonha em ser feliz
+                           C#m
+Por isso eu fui buscar no mundo tudo o que eu quis
+ B5(9)                C#m
+Todas as vezes minha mãe que alguém me disse não
+B/D#          C#m
+  Você disse sim pro meu coração
+
+
+Repete Intro:
+
+ B11 E9 G#m F# E9
+
+
+Repete a Primeira Parte:
+ B5(9)
+Mãe chegou o meu futuro e eu não tô só
+    E
+Em pouco tempo algúem vai te chamar de vó
+G#m                F#                 E
+  O mundo em nove meses torna a renascer
+   B5(9)
+O tempo implacável vai continuar
+    E
+Deixando sua marca em nosso olhar
+G#m               F#              E
+  E com meu filho isso também vai   acontecer
+
+
+Repete a Segunda Parte:
+    C#m
+Te juro que a ele eu vou ensinar
+    E                             F#
+As coisas que aprendi de tanto ouvir você falar
+
+
+Repete o Refrão 2x:
+B5(9)
+  A gente nasce, cresce
+ C#m                       B/D#
+Casa, e sonha em ser feliz
+                           C#m
+Por isso eu fui buscar no mundo tudo o que eu quis
+ B5(9)                C#m
+Todas as vezes minha mãe que alguém me disse não
+B/D#          C#m
+  Você disse sim pro meu coração
+
+
+Terceira Parte:
+
+B5(9) C#m B/D# E F# B5(9)
+
+B5(9) C#m B/D# E B5(9)
+
+
+C5(9) Dm C/E F G C5(9)
+
+C5(9) Dm C/E F C5(9)
+
+F C5(9) 4x
+
+
+Solos:
+
+Introdução:
+
+E|----------------------------------------------------|
+B|---------7-7~-------------------------7-7-----------|
+G|-4-6/8/9-------9p8-9-8\6\-4~--4h6/8/9-----9-8\4~----|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|----------------------------------------------------|
+B|------------7-7~----7-7-----------------------------|
+G|---4h6/8/9-------x--8-8--8\6-4----------------------|
+D|-4---------------x----------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|----------------------7/9\7------------------7------|
+B|-------------------7--7/9\7------7-7h9~---10---7~---|
+G|-----4--4h6--4h6/8-----------6/8--------9-----------|
+D|-4h6------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+
+Repetição da Intro:
+
+E|----------------------------------------------------|
+B|---------7-7~------------------------7-7~------x-9\-|
+G|-4-6/8/9-------8/9--8\6\4~---4h6/8/9------8\4~-x-9\-|
+D|---------------------------4-------------------x-9\-|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+
+Terceira Parte:
+
+E|----------------------------------------------------|
+B|-----------------------------------7-7--------------|
+G|-----4-6-6/8-----4-6-4-----4-6-6/8-8-8-4--4h6-4h6-4-|
+D|-4h6---------4h6-------4h6--------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|----------------------------------------------------|
+B|8------------------------------------5-6-8-5-6-8-8-5|
+G|--9-7b8r7\-5---5-7-7/9-----5-7-5-5h7----------------|
+D|-------------7---------5h7--------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+----------------- Acordes -----------------
+B/D# = X 6 X 4 7 7
+B11 = X 2 4 4 5 2
+B5(9) = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+C/E = 0 3 2 0 1 0
+C5(9) = X 3 5 5 3 3
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E9 = 0 2 4 1 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

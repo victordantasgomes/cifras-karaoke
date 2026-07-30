@@ -1,0 +1,138 @@
+@titulo: mais-feliz
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Mais Feliz
+
+(intro 2x) A   G D
+
+(solo da intro)
+E |---------------------
+B |---------------------
+G |-------2-4-2---------
+D |-2/4-5-------2-4-2---
+
+A                                        G           D
+ Quando penso em te encontrar   Passa um filme outra vez
+A                               G         D
+ Tinha tanto pra falar   Mas na hora me calei
+   A                          D
+Eu congelei, perdi a voz    Sobrou bem entre nós
+   G     D
+Um céu azul
+
+  G
+O tempo passa e eu sem jeito
+D/F#
+Não consigo ver direito
+
+ Dm/F                     A
+Imagens de uma vida sem você
+  G
+E como vou agir agora?
+D/F#
+Se a coragem for embora
+    Dm/F                         E4  E
+Pra te encarar sem ter que te perder
+
+    G         D/F#      Dm/F       A         G         D/F#      Dm/F
+E |---3-----|---2-----|---1-----|----9--9--|---3-----|---2-----|---1-----|
+B |-----3---|-----3---|-----3---|-2--10-10-|-----3---|-----3---|-----3---|
+G |-------4-|-------2-|-------2-|-2--9--9--|-------4-|-------2-|-------2-|
+D |-5-------|-4-------|-3-------|-0--------|-5-------|-4-------|-3-------|
+A |---------|---------|---------|----------|---------|---------|---------|
+
+D D           E  E       F#m
+  Todo esse amor vale a pena
+D D         E  E    F#m
+  Pode até duvidar, olha pra mim   Pra não errar
+D D         E   E
+  Chegou a hora eu sei
+     F#m              B7
+De fazer o que eu não fiz
+          *G               D              A    G D (solo da intro)
+Quem sabe agora    A gente vai ser mais feliz
+
+*
+E |------------------0--
+B |-0-2-3-2----------2--
+G |---------4-2---4--2--
+D |-------------4----2--
+A |------------------0--
+
+ Quando vai se aproximar  Me dispara o coração
+A                               G              D
+ Essa forma de te amar  Dói bem mais que a solidão
+A                                    D
+Nem te chamei, nem me arrisquei   Senti mas disfarcei
+   G      D
+Eu fui chorar
+
+  G
+O tempo passa e eu sem jeito
+D/F#
+Não consigo ver direito
+ Dm/F                     A
+Imagens de uma vida sem você
+  G
+E como vou agir agora?
+D/F#
+Se a coragem for embora
+    Dm/F                         E4  E
+Pra te encarar sem ter que te perder
+
+D D           E  E       F#m
+  Todo esse amor vale a pena
+D D         E  E    F#m
+  Pode até duvidar, olha pra mim   Pra não errar
+D D         E   E
+  Chegou a hora eu sei
+     F#m              B7
+De fazer o que eu não fiz
+           G               D
+Quem sabe agora    A gente vai ser mais feliz
+
+(solo) G D/F# Dm/F A
+
+  G
+E como vou agir agora?
+D/F#
+Se a coragem for embora
+    Dm/F                         E4  E
+Pra te encarar sem ter que te perder
+
+D D           E  E       F#m
+  Todo esse amor vale a pena
+D D         E  E    F#m
+  Pode até duvidar, olha pra mim   Pra não errar
+D D         E   E
+  Chegou a hora eu sei
+     F#m              B7
+De fazer o que eu não fiz
+           G               D              A    G D  A          G              D
+Quem sabe agora    A gente vai ser mais feliz          A gente vai ser mais feliz
+
+         G     D     A         G     D
+E |------------------------------------
+B |------------------------------------
+G |-------2-4-2-----------------2-4-2--
+D |-2/4-5-------2-4-2-----2/4-5--------
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm/F = X X 3 2 3 1
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

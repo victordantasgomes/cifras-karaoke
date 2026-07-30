@@ -1,0 +1,120 @@
+@titulo: eu-assumo
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Eu Assumo
+
+Intro: A E/G# D/F# E
+
+A       E/G#         F#m
+Eu nao tenho mais você
+      C#m       D     A/C#      E D/F# E/G#
+Como eu queria ter e fico por ai
+A       E/G#         F#m
+Com a cabeça a milhão
+      C#m       D   A/C#      E D/F# E/G#
+carrengo a solidão eu fico por ai
+D       A/C#       Bm
+Com o coração ilhado
+D      A/C#       E
+outra vez abondonado
+
+          A
+Eu me enganei
+         E/G#     F#m
+Com seu jeito de amar
+       C#m        D
+Tive tempo pra parar
+
+    A               E   D/F# E/G#
+E tomar um novo rumo
+          A
+Mas outra vez
+         E/G#     F#m
+Meu bandido coração
+       C#m           D
+Mergulhou nessa paixão
+       Bm               E   D/F# E/G#
+Sem você não me acostumo
+        A
+Eu assumo
+
+Intro: A E/G# D/F# E
+
+A       E/G#         F#m
+Eu nao tenho mais você
+      C#m       D     A/C#      E D/F# E/G#
+Como eu queria ter e fico por ai
+A       E/G#         F#m
+Com a cabeça a milhão
+      C#m       D   A/C#      E D/F# E/G#
+carrengo a solidão eu fico por ai
+D       A/C#       Bm
+Com o coração ilhado
+D      A/C#       E
+outra vez abondonado
+
+          A
+Eu me enganei
+         E/G#     F#m
+Com seu jeito de amar
+       C#m        D
+Tive tempo pra parar
+    A               E   D/F# E/G#
+E tomar um novo rumo
+          A
+Mas outra vez
+         E/G#     F#m
+Meu bandido coração
+       C#m           D
+Mergulhou nessa paixão
+       Bm               E   D/F# E/G#
+Sem você não me acostumo
+        A
+Eu assumo
+
+(Refrão 2x)
+
+Intro: A E/G# D/F# F#
+
+          B
+Eu me enganei
+         F#/A#     G#m
+Com seu jeito de amar
+       D#m        E
+Tive tempo pra parar
+    B              F#   E/G# F#/A#
+E tomar um novo rumo
+          B
+Mas outra vez
+         F#/A#     G#m
+Meu bandido coração
+      D#m        E
+Mergulhou nessa paixão
+   B              F#   E/G# F#/A#
+Sem você não me acostumo
+        B
+Eu assumo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D#m = X X 1 3 4 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

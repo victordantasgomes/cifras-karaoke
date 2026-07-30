@@ -1,0 +1,54 @@
+@titulo: o-carpinteiro(versão 2)
+@autor:
+@intérprete: Alessandro Vilas Boas
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Alessandro Vilas Boas - O Carpinteiro
+
+           C#5
+Esconda-me em ti
+            B5
+Esconda-me em ti
+                 A9
+Nas asas do seu amor
+
+C#5
+Como eu amo o Seu nome
+B5                                 A9
+Tens o nome mais lindo que eu conheço
+Como eu amo o Seu nome
+
+C#5
+Qual é som ?
+Qual é o som?
+B5
+De quando Deus desce na Terra?
+A9
+Qual é som ?
+Qual é o som?
+
+
+               C#5
+E esse é o som
+                             B5
+Do carpinteiro batendo à porta!
+                             A9
+Do carpinteiro batendo à porta!
+
+                 C#5
+E esse é meu som
+                                B5
+Do lado de dentro abrindo a porta
+                                A9
+Do lado de dentro abrindo a porta
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B5 = X 2 4 4 X X
+C#5 = X 4 6 6 X X

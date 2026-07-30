@@ -1,0 +1,63 @@
+@titulo: a-busca
+@autor:
+@intérprete: Jorge e Mateus
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Jorge e Mateus - A Busca
+
+Intro: Em C D
+
+    Em
+Eu não sei
+ C         D                       Em
+Se um coração pode aguentar tanta dor,
+
+Quando perde
+     C
+Um amor
+          D
+Quando o sol
+                       A7  C
+Já não brilha mais em seu olhar
+
+Em
+Se ainda dói
+       C
+É porque
+                     G
+Não consigo te esquecer
+
+                   D
+E o vento só me traz
+                         Em
+Vestígios que lembram você
+
+                   C
+Eu vou curar essa dor
+                    G
+Encontrar um novo amor
+                   D
+Em um caminho sem rumo
+                 Em
+Vou levando a vida
+      C
+A Aahh
+       G
+A Aahhh
+                   D
+Em um caminho sem rumo
+                 Em
+Vou levando a vida
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

@@ -1,0 +1,68 @@
+@titulo: casa-e-comida
+@autor:
+@intérprete: Chitãozinho & Xororó
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Chitãozinho & Xororó - Casa e Comida
+
+C                      G            E
+NO COMEÇO TUDO LINDO, NOSSOS CORAÇOES SORRINDO.
+     Am                        Em
+E JURAMOS, NADA MAIS SEPARA A GENTE.
+       F           F#°         C    G/B       Am7
+AS PROMESSAS E OS SONHOS SÃO REAIS ATÉ QUE OS ANOS
+        D              D7      G     G7
+VÃO PASSANDO E DEIXAM TUDO DIFERENTE
+
+   C                       G         E7
+ELA JOVEM TÃO BONITA, CARINHOSA ATREVIDA.
+    Am                      Em7
+NO AMOR NUNCA POUPAVA SEUS CARINHOS
+      F             F#°          C      G/B    Am
+JUVENTUDE EU TAMBEM TINHA, MAS PASSOU VIROU ROTINA.
+        Dm7           G7          C     E
+SÓ LEMBRANÇAS, NOS PERDEMOS NO CAMINHO.
+
+       Am                     Em
+JÁ NÃO TENHO PACIÊNCIA, ELA PERDEU A INOCÊNCIA.
+      F             G7          C   E7
+SÓ RECLAMA, GRITA E CHORA TODA HORA.
+
+     Am                         Em
+E ME DIZ: FOI TUDO ENGANO, ACHO QUE JÁ NÃO TE AMO.
+   F            G               C    G7
+ACABOU E UM DE NÓS TEM QUE IR EMBORA
+
+C                        E
+QUANDO UM HOMEM PERDE O RUMO
+  E7                  Am
+E DÁ DE CARA CONTRA O MURO
+       F            G          C    G
+TÁ PERDIDO E JÁ NÃO SABE O QUE QUER
+C                   E    E7                Am
+PENSA QUE CASA E COMIDA, BASTA PRA MUDAR A VIDA.
+    F               G             C
+E FAZER FELIZ O CORAÇÃO DE UMA MULHER.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F#° = 2 X 1 2 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

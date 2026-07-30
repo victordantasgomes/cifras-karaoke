@@ -1,0 +1,91 @@
+@titulo: o-pouco-que-sobrou
+@autor:
+@intérprete: Los Hermanos
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Los Hermanos - O Pouco Que Sobrou
+
+IMPORTANTE:
+Não se esqueça que, para tocar esta ou qualquer outra
+música do Los Hermanos, você deve afinar seu
+violão/banjo/cavaquinho/guitarra meio tom abaixo (eb-Bb-Gb-Db-Ab-Eb).
+
+(Bm7 Em7/9)
+Eu cansei de ser assim
+                 Am7
+Não posso mais levar
+Se tudo é tão ruim
+                 (Bm7 Em7/9)
+por onde eu devo ir!?
+A vida vai seguir
+                Am7
+Ninguém vai reparar
+Aqui neste lugar
+   Am6         G
+eu acho que acabou
+    F#     Bm        F#  Bm
+Mas vou cantar pra não cair
+   B7    Em    A
+fingindo ser alguém
+
+    Em     A      Em7/9
+que vive assim de bem
+
+SOLINHO (base: Em7/9)
+eb|-7-----------------7-------|
+Bb|----8--7--------------8--7-|
+Gb|------------7--------------|
+Db|--------------9------------|
+Ab|---------------------------|
+Eb|---------------------------|
+
+(Bm7 Em7/9)
+Deus por onde você foi?
+                    Am7
+Só resta eu me entregar
+Cansei de procurar
+              (Bm7 Em7/9)
+o pouco que sobrou
+Eu tinha algum amor
+             Am7
+Eu era bem melhor
+Mas tudo deu um nó
+  Am6          G
+e a vida se perdeu
+    F#    Bm      F#  Bm
+Se existe Deus em agonia
+B7      Em   A   Em
+manda essa cavalaria
+    A      Gº     B7      Em7/9
+que hoje a fé me abandonou
+
+SOLINHO (base: Em7/9)
+eb|-7-----------------7-------|
+Bb|----8--7--------------8--7-|
+Gb|------------7--------------|
+Db|--------------9------------|
+Ab|---------------------------|
+Eb|---------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Ab = 4 3 1 1 1 4
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Db = X 4 6 6 6 4
+Em = 0 2 2 0 0 0
+Em7/9 = X 7 5 7 7 X
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+Gb = 2 4 4 3 2 2
+Gº = 3 X 2 3 2 X

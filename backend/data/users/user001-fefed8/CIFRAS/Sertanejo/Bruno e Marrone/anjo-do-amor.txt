@@ -1,0 +1,85 @@
+@titulo: anjo-do-amor
+@autor:
+@intérprete: Bruno e Marrone
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Bruno e Marrone - Anjo do Amor
+
+Intro 2x: Am Dm G C E
+
+E|--7-5---7-5---7-5-8-7---8-7---8-7-7-7-7----8-10-10-8-7--------------|
+B|------5-----5---------6-----6--------------------------5-6-5-6-5-6--|
+G|--------------------------------------------------------------------|
+D|--------------------------------------------------------------------|
+A|--------------------------------------------------------------------|
+E|--------------------------------------------------------------------|
+
+ Am                      Dm
+ Quero seu beijo de novo, e viajar no seu corpo
+G                                  C     E7
+ Escrever a história desse amor (ah,ah)
+ Am                        Dm7
+ Guardo em minha lembrança, como uma marca em meu   corpo
+G                    C
+ E dentro do meu coração
+Dm         E7       Am            Am7
+ E Desesperado rezo pra você voltar
+        F                       E7
+ Pra curar de vez a dor da solidão
+
+
+          Am
+ Anjo do Amor,  vem correndo
+             Dm
+ Sem seu calor, to morrendo
+            G
+ Onde estará, seu sorriso
+           C                       E7          Am
+ A cada manhã, que te busco e não sei onde está
+ Am                         Dm7
+ Te preciso,  se não vier      Eu não vivo
+            G                       C
+ Quem ganhará, as carícias cada manhã
+                  E        Am   Dm    G
+ Que te busco meu anjo do amor      , anjo do  amor
+
+Solo: Am Dm G C E
+
+E|--7-5---7-5---7-5-8-7---8-7---8-7-7-7-7----8-10-10-8-7--------------|
+B|------5-----5---------6-----6--------------------------5-6-5-6-5-6--|
+G|--------------------------------------------------------------------|
+D|--------------------------------------------------------------------|
+A|--------------------------------------------------------------------|
+E|--------------------------------------------------------------------|
+
+ Am                        Dm
+ Eu quis viver outro sonho, de outra paixão ser o dono
+G                          C        E7
+ Mas minha ilusão já se acabou (Ah, Ah)
+ Am                      Dm7
+ Trago você na lembrança, Nasce de novo a esperança
+G                                C
+ Pois ninguém escolhe um grande amor
+Dm         E7         Am           Am7
+ E Desesperado rezo pra você voltar
+        F                         E
+ Pra curar de vez o mal da minha dor
+
+(refrão)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

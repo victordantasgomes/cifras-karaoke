@@ -1,0 +1,59 @@
+@titulo: acordar-todo-dia
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Acordar Todo Dia
+
+[Intro]  Am11  F7(9) F5/D  E7M(9)
+
+Am11                                            F7(9) F5/D  E7M(9)
+Acordar todo dia, e entregar-te o louvor é o melhor é o melhor
+Am                                              F7M        Dm7  Em7
+Acordar todo dia, e entregar-te o louvor é o melhor é o melhor
+
+Dm                             Em
+Saber que o Senhor é o mesmo e não mudará
+F7M                             C
+E sempre em vitória me conduzirá
+Dm               Em               G              Eº
+O Espirito Santo me ensinará, de força e poder me revestirá
+
+C                       Am
+A Ti toda honra, glória e louvor
+Dm                    F     G
+Poder, majestade e adoração
+C                    Am
+Entrego a ti de todo coração
+Dm                          G          G#
+Aquele que é Rei, é Santo e meu Salvador
+
+
+Bbm                                       F#           D#m  Fm
+Acordar todo dia, e entregar-te o louvor é o melhor é o melhor
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am11 = X 0 0 2 1 0
+Bbm = X 1 3 3 2 1
+C = X 3 2 0 1 0
+D#m = X X 1 3 4 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E7M(9) = X 7 6 8 7 X
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+Eº = X X 2 3 2 3
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F7(9) = X X 3 2 4 3
+F7M = 1 X 2 2 1 X
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4

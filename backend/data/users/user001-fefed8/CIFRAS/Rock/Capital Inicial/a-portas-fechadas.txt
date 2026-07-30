@@ -1,0 +1,10 @@
+@titulo: a-portas-fechadas
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:

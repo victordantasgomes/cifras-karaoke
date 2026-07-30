@@ -1,0 +1,262 @@
+@titulo: me-encontra
+@autor:
+@intérprete: Charlie Brown Jr
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Charlie Brown Jr. - Me Encontra
+
+Intro:
+
+C#m7  E  A9  2x
+
+C#m  E5  A9  2x
+
+1
+   C#m7
+E|-0--0--0--0--0--0--0----------------------|
+B|-0--0--0--0--0--0--0----------------------|
+G|-x--x--x--x--x--x--x----------------------|
+D|-11-11-11-11-11-11-11---------------------|
+A|-11-11-11-11-11-11-11---------------------|
+E|-9--9--9--9--9--9--9----------------------|
+
+2
+   E
+E|-0--0--0--0--0--0--0----------------------|
+B|-0--0--0--0--0--0--0----------------------|
+G|-13-13-13-13-13-13-13-x-x-----------------|
+D|-14-14-14-14-14-14-14-x-x-----------------|
+A|-11-11-11-11-11-11-11-x-x-----------------|
+E|-0--0--0--0--0--0--0--x-x-----------------|
+
+
+3
+   A9
+E|-0-0-0-0-0--------------------------------|
+B|-0-0-0-0-0--------------------------------|
+G|-6-6-6-6-6--------------------------------|
+D|-7-7-7-7-7--------------------------------|
+A|-7-7-7-7-7--------------------------------|
+E|-5-5-5-5-5--------------------------------|
+
+
+4
+E|---------0--0--0---0--0--0---0---0---0----|
+B|---------0--0--0---0--0--0---0---0---0----|
+G|-x--x-x--16-16-16--14-14-14--13--13--13---|
+D|-x--x-x-----------------------------------|
+A|-x--x-x--14-14-14--12-12-12--11--11--11---|
+E|-0--0-0-----------------------------------|
+
+
+5
+   C#m
+E|-0-------0----0---------------------------|
+B|-5-------5----5---/-----------------------|
+G|-6-—6-6--6--6-6--6/-----------------------|
+D|-6-—6-6--6--6-6--6/-----------------------|
+A|-4-—4-4--4--4-4--4/-----------------------|
+E|------------------------------------------|
+
+6
+   E5
+E|----0-------0----x-x----------------------|
+B|----0-------0----x-x----------------------|
+G|-9--9--9-9--9--9-9-9----------------------|
+D|-9--9--9-9--9--9-9-9----------------------|
+A|-7--7--7-7--7--7-7-7----------------------|
+E|------------------------------------------|
+
+
+7
+   A9
+E|-0-------0----0------0-------0-----x-x----|
+B|-0-------0----0------0-------0-----x-x----|
+G|-4--4-4--4--4-4---4--4-------4-----4-4----|
+D|-2--2-2--2--2-2---2--2--2-2--2--2--2-2----|
+A|-0--0-0--0--0-0---0--0--0-0--0--0--0-0----|
+E|------------------------------------------|
+
+
+Primeira Parte:
+
+ C#m7                       E
+Hoje eu vou sair pra encontrar o amor
+       A9
+Que espero há tanto tempo
+
+E ainda não rolou
+   C#m7
+O vento diz que é hoje
+           E
+Em meio à multidão
+        A9
+Que eu vou encontrar a dona
+
+Do meu coração
+
+
+Segunda Parte:
+
+    C#m   E5
+Aí sempre
+ A9
+Sorrir e chorar e ter alguém
+
+Preu compartilhar
+ C#m   E5
+Sempre
+   A9
+Viver para alguém que me ama e dividir
+ C#m   E5
+Sempre
+   A7M(9)
+Felicidade e amor
+
+Então
+
+
+Refrão:
+
+      C#m   E5     B11               A9
+Me encontra    ou deixa eu te encontrar
+      C#m   E5     B11               A9
+Me encontra    ou deixa eu te encontrar
+
+      C#m   E5     B11               A9
+Me encontra    ou deixa eu te encontrar
+      C#m   E5     B11               A9
+Me encontra    ou deixa eu te encontrar
+
+C#m  E5      A9
+         Ou deixa eu te encontrar
+
+C#m  E5  A
+
+
+Repete a Primeira Parte:
+
+
+C#m7  E  A9  2x
+
+C#m7                 E
+     Eu não conheço todas as flores
+A9
+   Mas vou mandar todas que eu puder
+C#m7                    E
+     Vivemos tempos de loucos amores
+A9
+   Só é feliz quem sabe o que quer
+
+
+Repete o Refrão:
+
+      C#m   E5     B11               A9
+Me encontra    ou deixa eu te encontrar
+      C#m   E5     B11               A9
+Me encontra    ou deixa eu te encontrar
+
+      C#m   E5     B11               A9
+Me encontra    ou deixa eu te encontrar
+      C#m   E5     B11               A9
+Me encontra    ou deixa eu te encontrar
+
+
+Terceira Parte:
+
+C#9  A9
+
+        E7M
+Camisa 10 joga bola até na chuva
+
+Eu não tô envolvido
+
+Mas meu papo não faz curva
+
+C#9  A9  E7M
+
+
+Quarta Parte:
+
+
+1
+
+   C#m7
+E|------------------------------------------|
+B|------------------------------------------|
+G|-----------------/16-16-16-14-14-14-13-13-|
+D|-11------11-------------------------------|
+A|-11------11------/14-14-14-12-12-12-11-11-|
+E|-9--9-9--9--0-0---------------------------|
+
+2
+
+   B4
+E|------------------------------------------|
+B|------------------------------------------|
+G|-----------------/14-14-14-13-13-13-9--9--|
+D|-9-------9--------------------------------|
+A|-9-------9-------/12-12-12-11-11-11-7--7--|
+E|-7--7-7--7--0-0---------------------------|
+
+
+C#m7
+     Fico pensando onde está você
+        B4
+E se você estaria pensando
+
+Em me encontrar
+      C#m7
+Como sou, onde estou
+
+E onde quero chegar
+      B4
+Como sou, como é que vai ser
+
+E onde vou te levar
+     C#m7
+Mas se você me ver, pode acenar pra mim
+ B4
+Já pensou que louco te encontrar assim
+           C#m7
+Eu vou na boa, vou na fé
+
+Sei que vou te encontrar
+    B4
+E quando eu te encontrar
+
+Nós vamos comemorar
+
+
+Refrão Final:
+
+      C#m   E5     B11               A9
+Me encontra    ou deixa eu te encontrar
+      C#m   E5     B11               A9
+Me encontra    ou deixa eu te encontrar
+
+      C#m   E5     B11               A9
+Me encontra    ou deixa eu te encontrar
+      C#m   E5     B11               A9
+Me encontra    ou deixa eu te encontrar
+      C#m
+Te encontra
+
+----------------- Acordes -----------------
+A*  = X 0 P2 2 2 0 - (*G# na forma de A)
+A7M(9)*  = X 0 11 13 12 0 - (*G#7M(9) na forma de A7M(9))
+A9*  = 5 7 9 X X X - (*G#9 na forma de A9)
+B11*  = 7 9 9 8 0 0 - (*A#11 na forma de B11)
+B4*  = 7 9 9 X 0 0 - (*A#4 na forma de B4)
+C#9*  = 9 11 13 X X X - (*C9 na forma de C#9)
+C#m*  = X 4 6 6 5 0 - (*Cm na forma de C#m)
+C#m7*  = 9 11 11 X 0 0 - (*Cm7 na forma de C#m7)
+E*  = 0 11 14 13 0 0 - (*D# na forma de E)
+E5*  = 0 7 9 9 0 0 - (*D#5 na forma de E5)
+E7M*  = 0 7 9 8 0 0 - (*D#7M na forma de E7M)

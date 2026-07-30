@@ -1,0 +1,80 @@
+@titulo: duvidas-em-mim
+@autor:
+@intérprete: Catedral
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Catedral - Dúvidas em Mim
+
+Intro/Refrão:
+               Em
+E|-------------
+B|-------------
+G|-------------
+D|-------------
+A|-----5-7-5-7-
+E|-5h7--------- (2x)
+
+                   G      D
+E|-------------------------------|
+B|-------------------------------|
+G|-------------------------------|
+D|-------------------------------|
+A|-----5-7-5-7--10-9-10-9-7-7--5-|
+E|-5h7---------------------7-----|
+
+D
+ Se eu deixar a porta aberta
+Em
+  e o desejo então mandar
+
+G                    A9       D
+ não esqueça a luz acesa para amar
+D
+ Mas se tudo der errado
+Em
+  e a certeza estagnar
+G             A9       D
+ Vou ousar até a vida duvidar
+
+Refrão:
+ Em
+  Quero dúvidas em mim
+Quero duvidar enfim
+            G             D
+Quero duvidar do nosso amor
+Em
+  Quero esquecer de mim
+Quero me esconder enfim
+          G              D
+Desaparecer em teus braços
+
+D
+ Se teus olhos me chamarem
+Em
+  não importa onde estiver
+G            A9
+ Te encontrarei
+            D
+sentindo a pulsação
+D
+ Na partida leve e solta
+Em
+  de um passaro a voar
+G            A9        D
+ No sentido livre de uma paixão
+
+(Refrão 2x)
+
+Solo: Em G D
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

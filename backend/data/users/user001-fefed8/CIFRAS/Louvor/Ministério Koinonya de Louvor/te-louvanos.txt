@@ -1,0 +1,55 @@
+@titulo: te-louvanos
+@autor:
+@intérprete: Ministério Koinonya de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Koinonya de Louvor - Te Louvanos
+
+   A                E/G#
+Te louvamos oh Senhor
+     E/G            D/F#
+Pela graça ministrada a nós
+       D            A       F#m
+Te louvamos porque nos fizeste
+     G                E
+Caminhar com os vencedores
+
+    A                 E/G#
+Te louvamos oh Senhor
+    E/G                D/F#
+Pelo amor que nos conquistou
+       D             A   F#m
+Te louvamos pois quebraste
+          G           E
+Os grilhões que nos separavam
+
+        C                 D/C
+Te louvamos pois reinamos sobre a terra
+       B                         C          Cm
+E quebrados os grilhões somos livres pra adorar
+
+      G                 D/F#
+Te louvamos, te louvamos,
+        C      B7   E
+Te louvamos Senhor.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G = 3 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

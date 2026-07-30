@@ -1,0 +1,89 @@
+@titulo: exaltado(simplificada)
+@autor:
+@intérprete: Diante do Trono
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Diante do Trono - Exaltado
+
+[Intro] A  C#m  C9  D
+        E  E4  E  E4
+
+     E
+Exaltado
+    F#m
+Exaltado
+E/G#    A9
+   Exaltado
+B        E      B
+   Oh Senhor
+
+             E
+Sentado à direita de Deus
+             A   E/G#  A   E/G#
+Coroado de Glória e honra
+F#m      B           E
+Tu, Senhor, és exaltado
+            A         B
+O todo-poderoso criador
+          E       B/D#    C#m
+Se esvaziou e morreu por mim
+
+ B    A    B
+Numa cruz
+        C#m  E/G#
+És exaltado
+                    A         B
+E o Pai Lhe deu o nome que está
+       E   B/D#  C#m
+Sobre todo no - me
+B  A  B         E     B
+Jesus,  és exaltado
+
+E        E
+   Exaltado
+    F#m
+Exaltado
+E/G#    A9
+   Exaltado
+B        E      B
+   Oh Senhor
+
+            E
+Moído por minhas transgressões
+ E/G#         A              E/G#
+Ferido por minhas maldições
+F#m     B            E
+Tu, Senhor, és exaltado
+             A          B
+Levou sobre si a minha dor
+      E          B/D#   C#m
+O castigo que me traz a paz
+       B     A  B
+Estava sobre Ti
+        E
+Fui sarado
+              A       B
+Desejado de todas as nações
+       E  B/D#     C#m
+És o amado da minh'alma
+B  A   B         E     A
+Jesus,  és exaltado
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+C#m = X 4 6 6 5 4
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+F#m = 2 4 4 2 2 2

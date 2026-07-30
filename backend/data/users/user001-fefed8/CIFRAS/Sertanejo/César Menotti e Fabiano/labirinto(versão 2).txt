@@ -1,0 +1,74 @@
+@titulo: labirinto(versão 2)
+@autor:
+@intérprete: César Menotti e Fabiano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+César Menotti e Fabiano - Labirinto
+
+(intro) C G Am F
+
+C         G               Am                  F
+Sonhos, planos, tudo aquilo que vivemos se perdeu.
+C      G     Am                           F
+Choro,choro,vou ficar com as lembranças que a gente viveu.
+
+C G Am F (2x)
+
+(solo 2x)
+E|----------------------------------------------------|
+B|----------8-9-9/11-9-8------------8h9-9-9-8---8~----|
+G|-----8-10--------------10-10-8~-------------10------|
+D|-6/8----------------------------10------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|------------------11-12--6-6/8---8-8----------------|
+B|----------8-9-9/11--------------8-------------------|
+G|-----8-10-------------------------------------------|
+D|-6/8------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+
+E|-------------------8-10-10/11-10-8~~-|
+B|-----------8-10-11-------------------|
+G|----7-8-10---------------------------|
+D|-6/8---------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+
+Deixa do jeito que tá, não quero explicação.
+Am                              F
+Pode ir embora eu seguro essa separação.
+C                G                       Am   F
+Deixa do jeito que tá que eu me viro sozinho.
+C                   G                 Am     F
+Eu vou tentar te esquecer achar outro caminho.
+
+               C         G               Am     F
+Sei que não é facil esquecer o amor de uma vida.
+           C         G                   Am    F
+Nesse labirinto, solidão parece não ter saída.
+
+C        G        Am                    F
+Sonhos, planos, tudo aquilo que vivemos se perdeu.
+C       G    Am                            F             C
+Choro,choro,vou ficar com as lembranças que a gente viveu.
+
+         G     Am   F
+Foi tão lindo. (Vou ficar com as lembranças que a gente viveu...)
+
+   C       G    Am   F
+Foi tão bom....
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

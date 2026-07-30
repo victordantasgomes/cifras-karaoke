@@ -1,0 +1,91 @@
+@titulo: salmo-23
+@autor:
+@intérprete: Vencedores Por Cristo
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Vencedores Por Cristo - Salmo 23
+
+Intro: C  Dm7/C  G/C  C  (G)
+
+
+C         Dm7/C       G/C      C
+Uuuuuu... uuuuuu... uuuuu... uuu....
+
+
+      C          Dm7/C    G/C          C
+O Senhor é meu pastor  e  nada me faltará.
+   Am         Am/G   F
+Descanso em verdes  pastos,
+         Em         G     C
+Junto ás águas, sim,  Ele me dará!
+   Am     Am/G  F
+De minha vida  vai cuidar,
+     Em       G       C        G/B
+Pelo Seu caminho, me orientar!
+
+Am                Em
+Mesmo que no vale da sombra da morte,
+    F                     G
+Eu tenha, eu tenha que andar...
+      Am       E/G#  Am      D
+Oooh, sei que nada   temerei,
+      G            F    G
+Pois, ao meu lado, Ele vai estar.
+
+C                      Dm7/C
+Passo a passo, em meu viver,
+    G/C              C
+Uma mesa farta, Ele me dará.
+      Am       Am/G   F
+Na presença do ini---migo,
+        Em         G      C
+Do Seu grande amor,  Ele me dará!
+
+     C     C/Bb  A    A/G
+Com bênçãos abundantes,
+ D/F# Dm/F          E
+Misericórdias incessantes.
+       Am     E/G#   Am  Am/G
+De Sua mão, eu receberei.
+  D/F#   Dm/F      C
+Então com Ele, eu viverei,
+     G#          G4
+Pra sempre, pra sempre...
+        C
+No Seu lar!
+
+    Dm7/C         Em/C
+Pra sempre no Seu lar!
+    F/C            C
+Pra sempre no Seu lar!
+    Dm7/C          C
+Pra sempre no Seu lar...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/G = 3 X 2 2 2 X
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+C = X 3 2 0 1 0
+C/Bb = X 1 2 0 1 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm/F = X X 3 2 3 1
+Dm7/C = X 3 0 2 1 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+Em/C = 8 7 5 X 8 X
+F = 1 3 3 2 1 1
+F/C = X 3 3 2 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G/B = X 2 0 0 3 3
+G/C = X 3 5 4 3 3
+G4 = 3 5 5 5 3 3

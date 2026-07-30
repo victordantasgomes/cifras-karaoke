@@ -1,0 +1,74 @@
+@titulo: toca-em-mim
+@autor:
+@intérprete: Renascer Praise
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Renascer Praise - Toca Em Mim
+
+Intro: E  E7+  E7  A
+       E  E7+  E7  A
+
+E                             E7
+Hoje venho a Ti Jesus para buscar
+E7                            A
+A resposta, uma certeza, o  meu sinal
+E                             E7
+Ergo meu clamor e minha adoração
+C#m7  B         F#/A#
+Que a vitoria chegará
+       F#m     E/G#        A        B   C#m7
+Não importa o tempo a distancia ou dor
+ F#m7         E/G#     A       Bsus4
+Basta somente em Ti Jesus confiar
+
+E                             E7+
+Na palavra estão firmados os meus pés
+E7                                A
+Só Tu Tens a gloria  a força e o poder
+E                             E7+
+Se  o meu corpo fraco não quiser andar
+
+C#m7    B         F#/A#
+Eu não vou me abater
+     F#m7     E/G#       A        B   C#m7
+Eu sei no Espírito posso me levantar
+F#m7       E/G#        A       Bsus B
+Basta somente em Ti Jesus confiar
+
+E                  A
+Toca em mim Jesus, sara o meu coração
+C#m7            B   F#m7
+Eu preciso viver um milagre
+E                 A
+Ajuda a minha fé, faça-me ir alem
+ C#m7   B         F#m7
+Toca-me com Teu poder
+
+Final:
+F#m7    Bsus       C#m7   F#7/A#
+Toca-me com Teu poder
+F#m7    Bsus       C#m7   F#7/A#
+Toca-me com Teu poder
+F#m7    Bsus        E
+Toca-me com Teu poder
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bsus = X 2 4 4 4 2
+Bsus4 = X 2 4 4 5 2
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+E7+ = X X 2 4 4 4
+F#/A# = 6 X 4 6 7 X
+F#7/A# = 6 X 4 6 5 X
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X

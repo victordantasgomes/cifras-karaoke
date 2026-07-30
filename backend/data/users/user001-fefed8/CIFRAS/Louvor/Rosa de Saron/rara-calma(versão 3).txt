@@ -1,0 +1,108 @@
+@titulo: rara-calma(versão 3)
+@autor:
+@intérprete: Rosa de Saron
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Rosa de Saron - Rara Calma
+
+[Intro] C5  Dsus7  F9  Dsus7
+        C5  Dsus7  F9  Dsus7
+
+C9                      Dm7
+O tempo voo nem percebi
+                         F7M(9)
+mas sou o mesmo homem que
+   F7M/D
+um dia você conheceu
+C9                   Dm7
+A canção não esqueci
+                     F7M(9)
+O menino que há em mim
+     Dm7
+Nasceu pra cantar
+F7M        G4     G     Am7
+Chora como nunca ao sentir
+       G7/B            C9
+Ainda estamos juntos aqui
+
+          G9/B
+Abro o coração
+
+                   Am7
+Coloco-me aos seus pés
+               F7M          C9
+Noite escura agora é manhã
+                   G9/B
+E falo com rara calma
+                    Am7            Am/F
+Sou o que sou, sei que sou fraco, mas sempre
+Dm7      Dm7/E         Gsus/F  Gsus      C9   C4  C
+Ti-ve vo-cê            a-qui   perto de mim.
+
+C9                            Dm7
+O espelho me diz que envelheci
+                   F7M(9)
+E que mal pode existir
+    F7M/D                  C9
+Em ter histórias pra contar
+                    Dm7
+Dos amigos que aqui fiz
+                   F7M(9)
+Quanta coisa se passou
+Dm7   Dm7/E  Gsus/F  Gsus       C9
+Ainda es-   tamos   juntos aqui
+
+             G9/B
+Abro o coração
+                     Am7
+Coloco-me aos seus pés
+               F7M        C9
+Noite escura agora é manhã
+                   G9/B
+E falo com rara calma
+                   Am7             Am/F
+Sou o que sou, sei que sou fraco, mas sempre
+Dm7      Dm7/E         Gsus/F    Gsus
+Ti-ve vo-cê            a-qui     perto de mim.
+
+( C9 G Dm7 F6 C9 G Dm7 Fm6 )
+
+       C              G9/B
+Então eu  abro o coração
+                   Am7
+Coloco-me aos seus pés
+               F7M        C9
+Noite escura agora é manhã
+                   G9/B
+E falo com rara calma
+                   Am7            Am/F
+Sou o que sou, sei que sou fraco, mas sempre
+Dm7      Dm7/E         Gsus/F   Gsus      C9
+Ti-ve vo-cê            a-qui    perto de mim.
+
+----------------- Acordes -----------------
+Am/F = 1 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C4 = X 3 3 0 1 X
+C5 = X 3 5 5 X X
+C9 = X 3 5 5 3 3
+Dm7 = X 5 7 5 6 5
+Dm7/E = 0 0 0 2 1 1
+F6 = 1 X 0 2 1 X
+F7M = 1 X 2 2 1 X
+F7M(9) = X 8 7 9 8 X
+F9 = 1 3 5 2 1 1
+Fm6 = 1 X 0 1 1 X
+G = 3 2 0 0 0 3
+G4 = 3 5 5 5 3 3
+G7/B = X 2 3 0 3 X
+G9/B = 7 X X 7 8 5
+Gsus = 3 2 0 0 0 3
+Gsus/F = 1 X X 0 0 3

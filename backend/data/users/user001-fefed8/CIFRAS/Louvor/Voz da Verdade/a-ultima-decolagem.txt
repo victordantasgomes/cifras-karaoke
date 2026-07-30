@@ -1,0 +1,62 @@
+@titulo: a-ultima-decolagem
+@autor:
+@intérprete: Voz da Verdade
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Voz da Verdade - A Última Decolagem
+
+intro:  D F#m7 E E4   4X
+
+           A                     E
+Eu vou subir ao encontro do meu Rei
+                  F#m
+Para trás tudo deixarei
+                  A      E
+E o mundo não me verá jamais
+           A                  E
+Eu vou subir, como águia vou voar
+                 F#m
+Para trás não vou olhar
+             A      E E4
+Pois o mundo já passou
+D               A                       E
+Eu vou morar no céu, não vou pagar mais aluguel
+              F#m7
+Nem água e nem luz
+D
+Não vou precisar de hospital
+A                  E                    A7
+Pois na cidade celestial é que eu vou morar
+
+D     F#m             E    E4
+Vou ficar livre de dívidas
+D     F#m       E   E4
+E da compra do mês
+D    F#m       E   E4
+Do carro financiado
+D    F#m        E   E7
+E daquele mal freguês
+D     F#m             E   E4
+Vou ficar livre do emprego
+D   F#m        E   E4
+Que causa opressão
+D     F#m       E   E4
+De pagar o telefone
+D     F#m            E    E7
+A faculdade e a televisão
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X

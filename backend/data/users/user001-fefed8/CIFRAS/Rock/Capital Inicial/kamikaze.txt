@@ -1,0 +1,74 @@
+@titulo: kamikaze
+@autor:
+@intérprete: Capital Inicial
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Capital Inicial - Kamikaze
+
+Tom G
+Intr.: (G Cadd9 D)2x
+
+G  Cadd9        D              G C   D
+Você não me deixa respirar,  oh, não
+G  Cadd9        D
+Você não me deixa respirar
+        G          Cadd9         D
+Você e tudo que eu não posso ter
+G  Cadd9     D
+Você me deixa sem ar
+    G         Cadd9          D
+Eu sei que e só mais um truque
+   G     Cadd9    D        G    Cadd9   D
+Tentando acertar , tentando acertar
+              G      Cadd9  D
+Onde quer que machuque
+
+G    Cadd9    D         G         Cadd9         D
+Kamikaze como quase sempre eu mudo de idéia
+G   Cadd9  D   G      Cadd9      D
+Sem você,  sem você perceber
+
+
+obs: agora entra a guitarra com distorção e o refrão é
+     feito com power acordes, ou seja: faça (A5 C5 F5 G5),
+     experimente tocar assim na guitarra fica muito bom, mas
+     se for tocar no violão é melhor fazer os acordes do jeito que estão.
+
+Am  C            Fm   G7
+As  armas que eu tenho
+Am  C            Fm    G7
+As  armas que eu quero ter
+Am C            Fm     G7     Am
+As armas que eu uso só ferem você
+   C            Fm     G7         D
+As armas que eu uso só ferem você
+
+G  Cadd9        D             G  Cadd9    D
+Você não me deixa respirar,  oh, não
+G  Cadd9        D
+Você não me deixa respirar
+G      Cadd9       D              G      Cadd9  D
+Mesmo longe de mim me olha de frente
+G           Cadd9       D
+Por onde eu ando você já passou
+         G       Cadd9       D
+O que eu busco você já achou
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C5 = X 3 5 5 X X
+Cadd9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+F5 = 1 3 3 X X X
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X
+G7 = 3 5 3 4 3 3

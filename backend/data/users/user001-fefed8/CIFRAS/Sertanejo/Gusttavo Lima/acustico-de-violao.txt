@@ -1,0 +1,178 @@
+@titulo: acustico-de-violao
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Acústico de Violão
+
+[Intro]  G  C
+         G  C
+         G  C
+
+       G                          D/F#
+Eu preciso de dizer que ainda te quero
+                      Dm/F
+Que preciso que te espero
+                     E  D/F# E/G#
+Não consigo nem dormir
+         Am                          Am7/G
+Pois a cada sonho eu sinto a sua volta
+          C              D            G
+Ouço até bater a porta e vou correndo te encontrar
+       G                         D/F#
+Eu preciso te dizer e tudo um pouco
+                 Dm/F         G7      C
+Do ciúme, do sufoco e da solidão em mim
+      Cm                             G
+Eu viajo nas lembranças dos seus beijos
+                   A             D            G  D
+Sinto na pele o desejo do seu toque doce em mim
+
+     G                          D
+Eu quero sentir o sabor da sua boca me morder
+             C                          G  D
+Sentir seu corpo estremecer num gemido meu
+     G                                D
+Eu quero sentir, sua mão tocar meu corpo, me apertar
+         C                      G
+Sentir você na hora h dizer que sou seu
+
+( C  F )
+( C  F )
+
+C                      F  F4
+Passou da conta agora chega
+F                      C
+Está escrito em seu olhar
+                     G/B
+O sentimento quando acaba
+                  F
+Coração então desaba
+                  C
+Dá vontade de chorar
+                      F   F4
+O beijo não é mais gostoso
+                     C
+Fazer amor não dá prazer
+                         G/B
+Já não te sinto em meu abraço
+                          F
+Sem você o que é que eu faço
+           G        C     G
+Com essa falta de você
+C       G/B
+Vai amanhecer
+         F                       C
+E dessa vez eu quero acordar sozinho
+          G/B
+Vai ser melhor pra nós
+          F
+Vai ser melhor pra mim
+         C          G/B
+Vai ser melhor assim
+C
+Vai
+        G/B
+Vou te esquecer
+           F                        C
+Se você já não me quer mais na sua vida
+        G/B
+Eu vou lembrar você
+             F
+Mas tenho que esquecer
+           C             G
+Nossos caminhos já não tem outra saída
+
+( E  A  E  A  G#m  F#m )
+( E  A  E  A  G#m  F#m )
+( E  A  E  A  G#m  F#m )
+
+E|------------------|
+B|------------------|
+G|------------------|
+D|-----4b5-2-4-2----|
+A|--2---------------|
+E|------------------|
+
+E                        A      E                        A
+A primeira vez que eu te vi, pensei até que fosse uma miragem
+E                      A
+Ao me aproximar tentei falar faltou coragem
+E                        B                     A
+A primeira vez que eu te vi amei apaixonei senti que era
+      E
+Amor de verdade
+E                        B                     A
+A primeira vez que eu te vi amei apaixonei senti que era
+      E           E F#m G#m A
+Amor de verdade
+
+          E   (A)       E                             B
+Me apaixonei...  quando vi os teus lindos olhos brilhando, em outra direção
+   A                E           B      A
+Olhando, e eu não existia pra você
+         E    (A)       E                      B                          A
+Me apavorei...   quando vi o teu sorriso lindo se abrindo despedindo e indo
+        E
+Chorei sem querer
+       E                       B                          A           E
+Quando vi o teu sorriso lindo se abrindo despedindo e indo, chorei sem querer
+
+A                           E     B            E
+Pensei  que nunca mais ia te ver, chorei sem querer
+  A                   E             B                      E
+E eu sem uma chance pra dizer, o quanto estava apaixonado por você
+
+            F            C/E           Dm
+Da boca pra fora a gente diz tudo que quer
+       Am         Bb        Gm         C     Bb C7
+Só não diz a uma mulher, que ela é caso passado
+             F       C/E        Dm
+Da boca pra fora coração sabe mentir
+       Am         Bb            C        F      C#7
+Só não aprendeu a abrir mão de você do meu lado
+
+            F#            C#          D#m
+Da boca pra fora a gente diz tudo que quer
+       Bbm7         B            G#m          C#7     B C#7
+Só não diz a uma mulher, que ela é caso passado
+             F#      C#          D#m
+Da boca pra fora coração sabe mentir
+        Bbm7         B         C#7         F#
+Só não aprendeu a abrir mão de você do meu lado
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am7/G = 3 0 2 0 1 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+Bbm7 = X 1 3 1 2 1
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#7 = X 4 3 4 2 X
+C/E = 0 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D#m = X X 1 3 4 2
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm/F = X X 3 2 3 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+F4 = 1 3 3 3 1 1
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

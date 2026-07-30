@@ -1,0 +1,88 @@
+@titulo: romantico-demais
+@autor:
+@intérprete: Roupa Nova
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Roupa Nova - Romântico Demais
+
+(Kiko - Ricardo Feghali)
+
+Intro: D A/D G/D A/C# D F#m Em F#m G A G/B A4 A
+
+D         F#m      G
+Como posso te esquecer
+   Em                         A4.7
+Se tudo aqui me faz lembrar você
+D              F#m  G
+Nesse quarto a solidão
+            E/G# E7
+De um pobre coração
+             F#4.7  F#7
+Que não entendeu o adeus
+Bm               F#4.7
+Quero você outra vez
+Bm             F#4.7
+E não aceito o fim
+     Em             A4.7   A7       D
+Diz, por favor, que vai voltar pra mim
+    A/D        G     A7       D
+Teu corpo é o mar reflete o luar
+
+   F#m7 Em     A4.7       D
+O amanhecer do meu despertar
+  A/D    G       A7       D
+Calor do sol que vem de você
+  F#m7   Em     A4.7      D
+O nosso amor, razão de viver
+D           F#m   G
+Meus amigos vão falar
+ Em                       A4.7
+Achar que sou romântico demais
+D          F#m    G
+Gosto de poder gostar
+      E/G#       E7          F#4.7 F#7
+O que importa é ter você pra sempre
+Bm               F#4.7
+Quero você outra vez
+Bm             F#4.7
+E não aceito o fim
+     Em             A4.7   A7       D
+Diz, por favor, que vai voltar pra mim
+
+    A/D        G     A7       D
+Teu corpo é o mar reflete o luar
+   F#m7 Em     A4.7       D
+O amanhecer do meu despertar
+  A/D    G       A7       D
+Calor do sol que vem de você
+  F#m7   Em     A4.7      Bb F/A Gm7 C7 F Bb Bm5-.7 A A/C#
+O nosso amor, razão de viver
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/D = X X 0 6 5 5
+A4 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+Bb = X 1 3 3 3 1
+Bm = X 2 4 4 3 2
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F/A = 5 X 3 5 6 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+Gm7 = 3 X 3 3 3 X

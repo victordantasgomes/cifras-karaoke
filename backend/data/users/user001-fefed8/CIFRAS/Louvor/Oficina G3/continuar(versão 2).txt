@@ -1,0 +1,104 @@
+@titulo: continuar(versão 2)
+@autor:
+@intérprete: Oficina G3
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Oficina G3 - Continuar
+
+(intro 2x)Am Em G D
+
+Am                    Em
+Abro os meus olhos já é de manhã
+   G                  D
+À noite e menor cada dia
+Am                 Em
+Os dias às vezes parecem iguais
+G                   D
+A guerra é minha rotina
+
+Cm        Gm
+Peço força
+ G#        D#
+Pra continuar
+Cm       Gm
+Peço força
+ G#        A#   Am   G   F
+Prá poder lutar
+
+          F      G
+Luto pra sobreviver
+
+       Am                 G
+Com os olhos voltados pro céu
+             F     G
+Espinhos me fazem sofrer
+  Am                 G                    D
+Resisto na luta com a graça de quem já venceu
+
+(intro)
+
+Am                     Em
+Fecho os meus olhos a noite já cai
+G                        D
+Começo a tratar minhas feridas
+Am                     Em
+Olho pros céus com os joelhos no chão
+        G                   D
+Abro os braços pra graça divina
+
+essa parte é melhor e tem que ser com duas pessoas!!
+
+Cm       Gm
+Peço força
+ G#          D#
+Pra continuar
+Cm       Gm
+Peço força
+ G#5         A#5
+Prá poder lutar
+          F      G
+Luto pra sobreviver
+       Am                 G
+Com os olhos voltados pro céu
+             F       G
+Espinhos me fazem sofrer
+  Am                 G
+Resisto na luta com a graça de quem já venceu..
+G#           D#              C#
+Nada vai nos separar do teu grande amor
+Fm         G#                 D#            C#
+Mesmo caminhando em dor, sou mais que vencedor
+
+(interludio) Cm   Gm   G#   A#
+             Cm   Gm   G#   A#
+
+          F      G
+Luto pra sobreviver
+        Am                 G
+Com os olhos voltados pro céu
+       F           G
+Espinhos me fazem sofrer
+  Am                  G                  D
+Resisto na luta com a graça de quem já venceu..
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+A#5 = X 1 3 3 X X
+Am = X 0 2 2 1 0
+C# = X 4 6 6 6 4
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#5 = 4 6 6 X X X
+Gm = 3 5 5 3 3 3

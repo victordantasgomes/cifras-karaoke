@@ -1,0 +1,110 @@
+@titulo: caminhoneiro
+@autor:
+@intérprete: Paula Fernandes
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Paula Fernandes - Caminhoneiro
+
+Intro:  C  C7+  Dm  Dm7+  G7  G7+
+
+ C             C7+
+Todo dia quando eu pego a estrada,
+C               C7+            C                      C7+  Dm
+quase sempre é madrugada e o meu amor aumenta mais
+   G7                         Dm
+Porque eu penso nela no caminho,
+Dm                        G7                    C
+imagino seu carinho e todo bem que ela me faz
+              C7+
+A saudade então aperta o peito,
+     C                   C7+                    Dm
+ligo o rádio e dou um jeito de espantar a solidão
+      G7                   Dm
+Se é de dia eu ando mais veloz
+Dm                        G7                      C
+e à noite todos os faróis, iluminando a escuridão
+
+Refrão:
+    F
+Eu sei, hei, hei,
+
+                          C
+tô correndo ao encontro dela,
+                 Dm
+coração tá disparado,
+                 G7
+mas eu ando com cuidado,
+                      C  C7
+Não me arrisco na banguela
+    F
+Eu sei, hei, hei,
+                  C
+todo dia nessa estrada,
+                     Dm
+no volante eu penso nela.
+                     G7
+Já pintei no pará-choque um
+                     C
+coração e o nome dela
+
+    C                    C7+
+Já rodei o meu país inteiro e
+                          C                 Dm
+como bom caminhoneiro, peguei chuva e cerração.
+       G7           Dm                      G7
+Quando chove o limpador desliza, vai e vem o pára-brisa,
+           C               C7+             C
+bate igual meu coração. Doido pelo doce do seu beijo,
+        C7+          C                    Dm
+olho cheio de desejo seu retrado no painel
+ G7                            Dm
+É no acostamento dos seus braços, que eu desligo
+      G7                         C
+meu cansaço e me abasteço desse mel
+
+    F
+Eu sei, hei, hei,
+                  C
+todo dia nessa estrada,
+                     Dm
+no volante eu penso nela.
+                     G7
+Já pintei no pará-choque um
+                     C
+coração e o nome dela
+
+ C             C7+
+Todo dia quando eu pego a estrada,
+C               C7+            C                      C7+  Dm
+quase sempre é madrugada e o meu amor aumenta mais
+    G7                         Dm
+Porque eu penso nela no caminho,
+Dm                        G7                    C
+imagino seu carinho e todo bem que ela me faz
+
+    F
+Eu sei, hei, hei,
+                  C
+todo dia nessa estrada,
+                     Dm
+no volante eu penso nela.
+                     G7
+Já pintei no pará-choque um
+                     C
+coração e o nome dela
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+C7+ = X 3 2 0 0 X
+Dm = X X 0 2 3 1
+Dm7+ = X X 0 2 2 1
+F = 1 3 3 2 1 1
+G7 = 3 5 3 4 3 3
+G7+ = 3 X 4 4 3 X

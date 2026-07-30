@@ -1,0 +1,71 @@
+@titulo: carinhoso
+@autor:
+@intérprete: Elis Regina
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+@bpm:
+@bateria:
+@guitarra:
+@baixo:
+@teclado:
+@modoexecucao:
+@tempoexecucao:
+
+Tom: G
+[Intro] G 
+
+[Primeira Parte]
+
+         G  
+Meu coração
+ 
+Não sei por quê
+ G7     Bm  
+Bate feliz
+
+Quando te vê
+
+[Segunda Parte]
+
+B7        Em7    A7       D
+E os meus olhos ficam sorrindo
+G7       C    E7        Am7
+E pelas ruas vão te seguindo
+             A  A7  D        G  D7  G
+Mas mesmo assim    foges de mim
+
+[Terceira Parte]
+
+              Bm7                         Em
+Ah, se tu soubesses como eu sou tão carinhoso
+             F#7           Bm7
+E o muito e muito que te quero
+             D           Bm7
+E como é sincero o meu amor
+            E7         A            D
+Eu sei que tu não fugirias mais de mim
+ Fm7  Am   D7   G
+Vem, vem, vem, vem
+
+[Quarta Parte]
+
+                F#             Am7
+Vem sentir o calor dos lábios meus
+D7                G
+   À procura dos teus
+B7        Em  B7       Em
+   Vem matar  esta paixão
+E           Am  E      Am
+  Que me devora o coração
+        Cm     G  E7
+E só assim, então
+        Am7  D7        G
+Serei feliz,    bem feliz
+
+[Final] G7  C  Cm
+        G  Bbm  Am7  Ab7M  G

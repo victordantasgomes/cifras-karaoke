@@ -1,0 +1,141 @@
+@titulo: nao-vivo-sem-voce
+@autor:
+@intérprete: Gusttavo Lima
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Gusttavo Lima - Não Vivo Sem Você
+
+Intro 3x: E  B  A  C  D  E
+
+( E  B  A  C  D  B )
+
+E|--2/4--2----------------------------------| (4x)
+B|----------4---5---------------------------|
+G|--2/4--2--4--4----------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|------------------------------------------|
+D|-------2----------------------------------|
+A|--2h4-----4p2-----------------------------|
+E|---------------2h4--0---------------------|
+
+  E               B          E
+Tão perto e tão distante de mim
+                             B
+Tá certo que eu me apaixonei
+
+C#m            G#m
+E tudo fiz por essa paixão
+C#m              G#m
+eu me arrisquei demais com ilusão
+A                E      B
+Que você me queria tão bem
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|--------------2-2h4-----------------------|
+D|--------2--4---------2--------------------|
+A|--2--4------------------------------------|
+E|------------------------------------------|
+
+Você é tão fugaz no sentimento
+                            B
+Com essa diferença você teima em machucar
+C#m              G#m
+Estamos quase a beira do fim
+C#m              G#m
+Por que você não olha pra mim
+A                    B
+Poe de vez essa cabeça no lugar
+            E         G#m      C#m
+Só quero dizer que o meu coração
+         E         A
+Está pedindo atenção
+                     B
+Como eu sinto a sua falta
+            E            G#m    C#m
+Só quero dizer que isso pode mudar
+         E            A
+Basta a gente se acertar
+     E         F#                 B
+E viver esse amor... Como eu te amo
+
+Não vivo sem você
+
+Intro. E B A C D E (3x)
+
+       E B A C D B
+
+E|--2/4--2----------------------------------| (4x)
+B|----------4---5---------------------------|
+G|--2/4--2--4--4----------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|------------------------------------------|
+D|-------2----------------------------------|
+A|--2h4-----4p2-----------------------------|
+E|---------------2h4--0---------------------|
+
+E                 B          E
+Você é tão fugaz no sentimento
+                            B
+Com essa diferença você teima em machucar
+C#m              G#m
+Estamos quase a beira do fim
+C#m              G#m
+Por que você não olha pra mim
+A                    B
+Poe de vez essa cabeça no lugar
+             E           G#m      C#m
+Só quero te dizer que o meu coração
+         E         A
+Está pedindo atenção
+                     B
+Como eu sinto a sua falta
+            E            G#m    C#m
+Só quero dizer que isso pode mudar
+         E            A
+Basta a gente se acertar
+     E         F#                 B
+E viver esse amor... Como eu te amo
+
+            E         G#m      C#m
+Só quero dizer que o meu coração
+         E         A
+Está pedindo atenção
+                     B
+Como eu sinto a sua falta
+            E            G#m    C#m
+Só quero dizer que isso pode mudar
+         E            A
+Basta a gente se acertar
+     E         F#                 B
+E viver esse amor... Como eu te amo
+
+não vivo sem você
+
+( C  D  E )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

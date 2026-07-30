@@ -1,0 +1,81 @@
+@titulo: imensa-alegria
+@autor:
+@intérprete: Comunidade Católica Shalom
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Comunidade Católica Shalom - Imensa Alegria
+
+[Intro]  Eadd9   F#/E  F#m7(b5)/E  Eadd9  A/C#  E/B  B/A   E/G#  F#   B/F#   C#m/F#  B   C#m/B   B7(9)
+
+    Eadd9                 F#add9/E
+Alegria reluz nos teus olhos
+       F#m7(b5)/E          E        E/G#
+Todo amor que sonhamos um dia
+     Aadd9               E/G#          F#/A#     Bsus4
+Dissipando as trevas do medo que havia em nós
+
+       Eadd9                 F#add9/E
+O teu sopro invadindo o peito
+       F#m7(b5)/E         E        E/G#
+Recriando em nós toda vida
+          Aadd9              Eadd9               D   Aadd9/C#  Bsus4   Aadd9
+De tuas mãos e de teu lado aberto a paz vem enfim
+
+[Refrão]
+
+        Eadd9/G#      Aadd9
+Vivo estás hoje aqui
+     Cº            C#m7(9)
+Reunindo os corações em ti
+
+ F#m7(9)          G#m7(9)
+Imensa alegria e felicidade
+     Am7(9)     D4/9    G7M(9)  C7M(9)  Bsus4(9)  B/A
+Tua glória      entre      nós
+
+        Eadd9/G#    Aadd9
+Vivo estás hoje aqui
+     Cº            C#m7(9)
+Reunindo os corações em ti
+ F#m7(9)          G#m7(9)
+Imensa alegria e felicidade
+     C7M(9)      D4/9    Eadd9
+Tua glória      entre      nós
+
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+Aadd9 = X 0 2 2 0 0
+Aadd9/C# = X 4 2 2 0 X
+Am7(9) = X X 7 5 8 7
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+B/F# = X X 4 4 4 2
+B7(9) = X 2 1 2 2 X
+Bsus4 = X 2 4 4 5 2
+Bsus4(9) = X 2 4 6 5 2
+C#m/B = 7 X 6 6 5 X
+C#m/F# = X X 4 6 5 4
+C#m7(9) = X 4 2 4 4 X
+C7M(9) = X 3 2 4 3 X
+Cº = X 3 4 2 4 2
+D = X X 0 2 3 2
+D4/9 = X 5 4 0 3 0
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Eadd9 = 0 2 4 1 0 0
+Eadd9/G# = 4 X 4 4 5 X
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#/E = X X 2 3 2 2
+F#add9/E = X 7 4 6 7 4
+F#m7(9) = X X 4 2 5 4
+G#m7(9) = X X 6 4 7 6
+G7M(9) = 3 2 4 2 X X

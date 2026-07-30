@@ -1,0 +1,109 @@
+@titulo: ha-poder
+@autor:
+@intérprete: Ministério Apascentar de Louvor
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Ministério Apascentar de Louvor (Toque No Altar) - Há Poder
+
+Intro 4x:  C#m   A   E   B
+
+ E     A       E
+Há poder no nome de jesus
+E/G#     A      B
+Há poder no nome de jesus
+    C#m       B/D#       E/G#      A
+Ele salva, cura, liberta e purifica
+      E        E4 INTRO 2x
+Há poder no nome de jesus
+
+      C#m      A         E
+Há poder no nome de jesus
+      C#m      A          B4 B
+Há poder no nome de jesus
+     C#m       B/D#       E/G#     A
+Ele salva, cura, liberta e purifica
+      E       E4         E
+Há poder no nome de jesus
+
+      F#      F#4        F#
+Há poder no nome de jesus
+
+       D#m     B          C#4 C#
+Há poder no nome de jesus
+     D#m       C#/F       F#/A#    B
+Ele salva, cura, liberta e purifica
+      F#        C#       B
+Há poder no nome de jesus
+
+D#m                     B               F#           C#
+        o inferno      se abala        em nome de jesus
+D#m                   B                   F#           C#
+        cadeias         se quebram         em nome de jesus
+D#m                   B                  F#           C#
+        as portas     se abrem          em nome de jesus
+D#m                      B                 F#           D#m     C#/F  F#/A# B
+         milagres       acontecem         em nome de    je   -  su - us
+
+( D#m - C#/F  -  F#   - -  G#m - F#/A#  - B )
+
+D#m                     B                F#            C#
+        o inferno      se abala        em nome de jesus
+D#m                   B                     F#            C#
+        cadeias         se quebram         em nome de jesus
+D#m                   B                  F#             C#
+        as portas     se abrem          em nome de jesus
+D#m                      B                 F#          D#m      C#/F   F#/A# B
+         milagres       acontecem         em nome de    je       su    us
+
+( G#m - F# - B/D# - E )
+
+       A      A4         A
+Há poder no nome de jesus
+      F#m     D           E4 E
+Há poder no nome de jesus
+     F#m      E/G#       A/C#      D
+Ele salva, cura, liberta e purifica
+      A       E          D 2X
+Há poder no nome de jesus
+Na segunda vez:  A   D/F# - E/G# - D
+
+ A    Bm      A/C#
+Je     e     sus
+ D      A/C#       E4 E
+Je       e         sus
+     F#m           E/G#
+Nome sobre todo nome
+ A/C#        D
+Nome  poderoso
+      A   E      D
+É o nome de jesus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A4 = X 0 2 2 3 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B4 = X 2 4 4 5 2
+Bm = X 2 4 4 3 2
+C# = X 4 6 6 6 4
+C#/F = X 8 X 6 9 9
+C#4 = X 4 4 1 2 X
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D#m = X X 1 3 4 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E4 = 0 2 2 2 0 0
+F# = 2 4 4 3 2 2
+F#/A# = 6 X 4 6 7 X
+F#4 = 2 4 4 4 2 2
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

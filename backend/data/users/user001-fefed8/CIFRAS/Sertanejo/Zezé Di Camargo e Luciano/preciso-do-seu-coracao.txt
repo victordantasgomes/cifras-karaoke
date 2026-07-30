@@ -1,0 +1,80 @@
+@titulo: preciso-do-seu-coracao
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Preciso do Seu Coração
+
+Intro: F#m B7 E A F#m F#m7/E G#7/4 B7 E
+
+E
+Olha em meu olhos
+Me dá um sorriso
+Toca em meu corpo
+                         B7
+Faz esse amor, que eu preciso
+          F#m
+Eu já sofri demais
+          B7
+Por te querer
+       F#m                 B7
+Fui o culpado, saí do seu lado
+         E      B7/4
+Nem sei porque
+
+              E
+Diz qualquer coisa
+A              E
+  Quebra esse gelo
+
+A            E
+  Abre essa porta, me aceita de volta
+               B7
+Me tira desse pesadelo
+         A                              A B
+Hoje eu sei que fui errado, fui bandido
+C#m
+Fui a lágrima do teu peito ferido
+    F#7/4          F#7        F#7/4   F#/A#
+Machuquei teu coração, te fiz sofrer
+            B7/4         B7
+Me perdoa tente entender
+              E
+Não quero perder você
+
+      B7             A
+Tô magoado, tô machucado
+           E
+Fiz tudo errado, eu sei
+         B7               A
+Tô tão sozinho, sem seu carinho
+           E
+Juro, não sei viver
+           B7                 A
+Diz que me ama, vem pra nossa cama
+             E
+Se entrega nessa paixão
+       B7               A
+Volta comigo, amor eu preciso
+        E
+Do seu coração
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+B7/4 = X 2 4 2 5 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F#/A# = 6 X 4 6 7 X
+F#7 = 2 4 2 3 2 2
+F#7/4 = 2 4 2 4 2 X
+F#m = 2 4 4 2 2 2
+F#m7/E = X X 2 2 5 2
+G#7/4 = 4 6 4 6 4 X

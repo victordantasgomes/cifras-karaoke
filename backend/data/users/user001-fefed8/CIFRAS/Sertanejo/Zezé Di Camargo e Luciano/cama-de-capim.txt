@@ -1,0 +1,85 @@
+@titulo: cama-de-capim
+@autor:
+@intérprete: Zezé Di Camargo e Luciano
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Zezé Di Camargo e Luciano - Cama de Capim
+
+Intro: E B/D# A/C# A E/G# F#m B7 E B/D# A/C# A E/B B4/7 B7
+
+ E
+Deitei junto com ela
+      B/D#
+Numa cama de capim
+ D6
+O céu foi testemunha
+        C#7
+Que ela se entregou pra mim
+  F#m
+A lua nos olhava
+       D
+Chegou mesmo a nos tocar
+ F#m               F#m/E
+Sentindo o cheiro dela
+      B4/7            B7
+Só um Deus pra não pecar
+
+*    E
+Meu corpo transpirava
+
+    B/D#
+De repente era manhã
+     D6
+Dois corpos tão ardentes
+       C#7
+Com frescor de hortelã
+  F#m
+A brisa que passava
+     D
+Se fazia de lençol
+ F#m
+Fiquei fisgado nela
+         B4/7       B7  A F#/A# B
+Como um peixe num anzol
+
+
+     E
+Se o tempo pudesse parar
+            B
+Era só eu e ela
+               A
+O sol era uma janela
+               E    B4/7 B7
+Aberta pro paraíso
+
+     E                           B
+Meu sonho seria pra sempre a realidade
+                    A     B
+O encontro da felicidade
+               E      B
+Que eu tanto preciso
+
+* Repete daqui
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B4/7 = X 2 4 2 5 2
+B7 = X 2 1 2 0 2
+C#7 = X 4 3 4 2 X
+D = X X 0 2 3 2
+D6 = X 5 4 2 0 X
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#/A# = 6 X 4 6 7 X
+F#m = 2 4 4 2 2 2
+F#m/E = X X 2 2 2 2

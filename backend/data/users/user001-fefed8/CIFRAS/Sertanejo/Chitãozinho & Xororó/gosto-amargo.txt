@@ -1,0 +1,69 @@
+@titulo: gosto-amargo
+@autor:
+@intérprete: Chitãozinho & Xororó
+@tom:
+@velocidade: 50
+@ritmomusical:
+@introdução:
+@tags:
+@nota:
+@favorita:
+
+Chitãozinho & Xororó - Gosto Amargo
+
+Intro: Am  Am/G  D  G  D/F#  Em
+       Am  Am/G  D  G  Em  Am  D
+
+G
+Meu Deus do céu
+                             D/F#
+Eu não consigo esquecer essa pessoa
+                              Dm
+Eu já tentei até gostar de uma outra
+            G                      C C7M C9 C
+Mas ninguém gosta quando cisma de gostar
+
+        Cm
+Não vou fazer
+                                    G
+Ninguém passar por tudo que eu estou passando
+        Em                      Am
+A minha vida agora é ficar chorando
+          D                     G       Em Am D
+Por todo canto eu procuro esta mulher
+
+
+G
+Meu Deus do céu
+
+Por mais que eu tente eu não encontro uma saída
+
+Tira de mim o gosto amargo da bebida
+        Em                   Am  Am7M Am7 Am6
+Tira de mim essa vontade de morrer
+
+          D
+Sou moço ainda
+                                    G
+Pra carregar dentro de mim tanta tristeza
+            Em                     A
+Meu Deus do céu dá um jeitinho e vira a mesa
+        D               G
+Traga de volta e me ensina a esquecer
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+Am7M = X 0 2 1 1 0
+C = X 3 2 0 1 0
+C7M = X 3 2 0 0 X
+C9 = X 3 5 5 3 3
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
