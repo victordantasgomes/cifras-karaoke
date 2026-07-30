@@ -1,4 +1,16 @@
-# A Vercel (runtime Python) procura requirements.txt na raiz do projeto
-# pra instalar as dependências da função em api/index.py — ver
-# backend/requirements.txt, que é a lista de verdade.
--r backend/requirements.txt
+# A Vercel (runtime Python) procura requirements.txt na raiz do projeto pra
+# instalar as dependências da função em api/index.py. O parser dela não
+# entende "-r outro_arquivo.txt" (dá erro de parse no build), então esta
+# lista precisa ser uma CÓPIA literal de backend/requirements.txt — ao
+# mudar uma, atualize a outra também.
+flask>=3.0
+flask-cors>=4.0
+pyjwt>=2.8
+werkzeug>=3.0
+python-dotenv>=1.0
+psycopg[binary]>=3.2
+psycopg_pool>=3.2
+requests>=2.31
+pytest>=8.0
+pytest-cov>=5.0
+
