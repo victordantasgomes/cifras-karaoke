@@ -1,7 +1,7 @@
 # Manual do Usuário — CIFRAS KARAOKÊ
 
 ## Primeiros passos
-1. Crie sua conta na tela de login (cada usuário vê apenas suas músicas).
+1. Peça pra um administrador criar sua conta em **Configurações → Administração de usuários** (cada usuário vê apenas suas próprias músicas; não há mais auto-cadastro pela tela de login).
 2. Em **Minhas músicas → + Nova música**, envie um arquivo TXT informando gênero e intérprete. O sistema organiza e indexa a música automaticamente por gênero e intérprete — dá pra filtrar por eles depois em **Minhas músicas**.
 
 ## Formato do arquivo TXT

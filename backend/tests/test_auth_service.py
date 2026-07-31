@@ -60,3 +60,33 @@ def test_login_unknown_username_raises(auth):
 def test_verify_token_rejects_garbage(auth):
     with pytest.raises(AuthError):
         auth.verify_token("token-invalido")
+
+
+def test_register_defaults_is_admin_false(auth):
+    user = auth.register("comum", "senha123")
+    assert user["is_admin"] is False
+
+    result = auth.login("comum", "senha123")
+    assert result["user"]["is_admin"] is False
+    payload = auth.verify_token(result["token"])
+    assert payload["is_admin"] is False
+
+
+def test_register_as_admin(auth):
+    user = auth.register("chefe", "senha123", is_admin=True)
+    assert user["is_admin"] is True
+
+    result = auth.login("chefe", "senha123")
+    assert result["user"]["is_admin"] is True
+    payload = auth.verify_token(result["token"])
+    assert payload["is_admin"] is True
+
+
+def test_list_users_includes_is_admin(auth):
+    auth.register("comum", "senha123")
+    auth.register("chefe", "senha123", is_admin=True)
+
+    users = auth.list_users()
+    by_username = {u["username"]: u for u in users}
+    assert by_username["comum"]["is_admin"] is False
+    assert by_username["chefe"]["is_admin"] is True

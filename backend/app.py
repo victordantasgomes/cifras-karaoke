@@ -16,7 +16,7 @@ from flask_cors import CORS
 
 import db
 from config import Config
-from middlewares.auth_middleware import require_auth
+from middlewares.auth_middleware import require_admin, require_auth
 from routes.api_routes import build_blueprint
 from services.audio_service import AudioService
 from services.auth_service import AuthService
@@ -44,6 +44,7 @@ class Services:
         self.settings = SettingsService()
         self.chords = ChordDictionaryService()
         self.require_auth = require_auth(self.auth)
+        self.require_admin = require_admin(self.auth)
 
 
 def create_app() -> Flask:

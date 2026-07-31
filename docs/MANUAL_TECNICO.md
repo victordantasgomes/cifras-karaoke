@@ -45,8 +45,9 @@ Player e editor têm um branch limpo entre **modo áudio** (`player.audioMode`, 
 
 | Método | Rota | Descrição |
 |---|---|---|
-| POST | /auth/register | Cria usuário e retorna token |
 | POST | /auth/login | Autentica (JWT Bearer) |
+| GET | /admin/users | Lista usuários (só admin) |
+| POST | /admin/users | Cria usuário — comum ou admin (só admin) |
 | GET | /songs | Busca paginada: `q, genero, interprete, tom, ritmo, tag, favoritas, page, page_size(≤500), sort` |
 | GET | /songs/facets | Valores distintos para filtros |
 | POST | /songs | Upload TXT (multipart `file` + `genero`/`interprete`) ou JSON |

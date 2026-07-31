@@ -13,15 +13,8 @@ def build_blueprint(ctx) -> Blueprint:
     protected = ctx.require_auth
 
     # ---------------- auth ----------------
-    @api.post("/auth/register")
-    def register():
-        d = request.get_json(force=True)
-        try:
-            user = ctx.auth.register(d.get("username", ""), d.get("password", ""), d.get("name", ""))
-        except AuthError as e:
-            return jsonify({"error": str(e)}), 400
-        return jsonify(ctx.auth.login(d["username"], d["password"]) | {"user": user}), 201
-
+    # Sem auto-registro público: contas só são criadas por um admin
+    # (POST /admin/users, abaixo) — ver AuthService.register().
     @api.post("/auth/login")
     def login():
         d = request.get_json(force=True)
@@ -29,6 +22,25 @@ def build_blueprint(ctx) -> Blueprint:
             return jsonify(ctx.auth.login(d.get("username", ""), d.get("password", "")))
         except AuthError as e:
             return jsonify({"error": str(e)}), 401
+
+    # ---------------- administração (só is_admin) ----------------
+    @api.get("/admin/users")
+    @ctx.require_admin
+    def admin_list_users():
+        return jsonify(ctx.auth.list_users())
+
+    @api.post("/admin/users")
+    @ctx.require_admin
+    def admin_create_user():
+        d = request.get_json(force=True)
+        try:
+            user = ctx.auth.register(
+                d.get("username", ""), d.get("password", ""), d.get("name", ""),
+                is_admin=bool(d.get("is_admin", False)),
+            )
+        except AuthError as e:
+            return jsonify({"error": str(e)}), 400
+        return jsonify(user), 201
 
     # ---------------- músicas ----------------
     @api.get("/songs")
@@ -342,16 +354,24 @@ def build_blueprint(ctx) -> Blueprint:
     @api.get("/dashboard")
     @protected
     def dashboard():
-        all_songs = ctx.search.search(g.user_id, page_size=500)["items"]
+        # Nunca busca o acervo inteiro: total vem do count(*) da própria
+        # busca, favoritas já filtra no SQL, e most_played/recent só
+        # precisam resolver os poucos slugs que aparecem em `plays` — antes
+        # isso vinha de escanear até 500 músicas "na sorte" (e podia até
+        # perder favoritas/plays fora dessa amostra num acervo grande).
         plays = ctx.history.plays(g.user_id)
-        by_slug = {e["slug"]: e for e in all_songs}
+        total_songs = ctx.search.search(g.user_id, page_size=1)["total"]
+        favorites = ctx.search.search(g.user_id, favoritas=True, page_size=8)["items"]
 
         top = sorted(plays.items(), key=lambda kv: -kv[1]["count"])[:8]
         recent = sorted(plays.items(), key=lambda kv: kv[1].get("last", ""), reverse=True)[:8]
+        needed_slugs = list({s for s, _ in top} | {s for s, _ in recent})
+        by_slug = {e["slug"]: e for e in ctx.search.get_by_slugs(g.user_id, needed_slugs)}
+
         return jsonify({
-            "total_songs": len(all_songs),
+            "total_songs": total_songs,
             "total_setlists": len(ctx.setlists.list(g.user_id)),
-            "favorites": [e for e in all_songs if e["favorita"]][:8],
+            "favorites": favorites,
             "most_played": [by_slug[s] | {"plays": v["count"]} for s, v in top if s in by_slug],
             "recent": [by_slug[s] | {"last": v.get("last")} for s, v in recent if s in by_slug],
         })

@@ -32,6 +32,12 @@ def get_pool() -> ConnectionPool:
             max_size=5,
             kwargs={"row_factory": dict_row},
             open=True,
+            # Neon (ou qualquer pooler do lado do servidor) pode fechar uma
+            # conexão ociosa antes do nosso próprio max_idle perceber —
+            # sem isso, a próxima query que pegasse essa conexão "morta"
+            # falhava com "server closed the connection unexpectedly" em
+            # vez do pool simplesmente descartar e abrir outra.
+            check=ConnectionPool.check_connection,
         )
     return _pool
 
