@@ -60,8 +60,9 @@ button { font-family: inherit; }
   backdrop-filter: blur(18px);
   display: flex; flex-direction: column; gap: 4px;
 }
-.brand { font-family: var(--font-display); font-weight: 700; font-size: 17px; padding: 4px 12px 18px; letter-spacing: -0.01em; }
-.brand em { color: var(--amber); font-style: normal; }
+.brand { padding: 4px 12px 18px; }
+.brand-logo-full { display: block; height: 40px; width: auto; }
+.brand-logo-icon { display: none; height: 34px; width: auto; }
 .nav-item {
   display: flex; align-items: center; gap: 10px;
   padding: 9px 12px; border-radius: 10px;
@@ -383,7 +384,7 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
 /* ---------- login ---------- */
 .login-wrap { min-height: 100vh; display: grid; place-items: center; }
 .login-card { width: min(400px, 92vw); padding: 34px; }
-.login-card h1 { font-family: var(--font-display); font-size: 26px; margin-bottom: 4px; }
+.login-logo { display: block; width: 100%; height: auto; margin: 0 auto 8px; }
 .login-card .tag { color: var(--muted); margin-bottom: 26px; }
 
 .error-text { color: var(--danger); font-size: 13px; margin-top: 8px; }
@@ -403,7 +404,9 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
 /* ---------- responsivo ---------- */
 @media (max-width: 900px) {
   .sidebar { width: 64px; }
-  .sidebar .brand span, .nav-item span { display: none; }
+  .brand-logo-full { display: none; }
+  .brand-logo-icon { display: block; }
+  .nav-item span { display: none; }
   .song-row { grid-template-columns: 1fr 90px; }
   .song-row .hide-sm { display: none; }
   .main { padding: 18px; }

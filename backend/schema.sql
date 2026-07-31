@@ -24,8 +24,12 @@ create table if not exists users (
     username      text not null unique,
     name          text not null default '',
     password_hash text not null,
+    is_admin      boolean not null default false,
     created_at    timestamptz not null default now()
 );
+-- "create table if not exists" não altera uma tabela já existente (é o
+-- caso do banco de produção, criado antes do campo is_admin existir).
+alter table users add column if not exists is_admin boolean not null default false;
 
 create table if not exists songs (
     id          uuid primary key default gen_random_uuid(),

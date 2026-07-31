@@ -1,4 +1,6 @@
 import { NavLink, useNavigate } from 'react-router-dom'
+import logoHorizontal from '../assets/logo-horizontal.png'
+import logoIcone from '../assets/logo-icone.png'
 import { useAuthStore } from '../store/authStore'
 import {
   IconHome, IconMusic, IconList, IconStar, IconClock,
@@ -22,7 +24,10 @@ export default function Sidebar() {
   const navigate = useNavigate()
   return (
     <aside className="sidebar no-print">
-      <div className="brand"><span>CIFRAS </span><em>KARAOKÊ</em></div>
+      <div className="brand">
+        <img src={logoHorizontal} alt="Banda do Zé" className="brand-logo-full" />
+        <img src={logoIcone} alt="Banda do Zé" className="brand-logo-icon" />
+      </div>
       {ITEMS.map(({ to, label, icon: Icon, end }) => (
         <NavLink key={to} to={to} end={end}
           className={({ isActive }) => `nav-item${isActive ? ' active' : ''}`}>

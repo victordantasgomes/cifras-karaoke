@@ -110,6 +110,19 @@ class SearchService:
             "total_pages": max(1, -(-total // page_size)),
         }
 
+    def get_by_slugs(self, user_id: str, slugs: list[str]) -> list[dict]:
+        """Busca pontual por um punhado de slugs específicos (ex.: resolver
+        `most_played`/`recent` do dashboard, que só precisa de ~16 músicas
+        das plays, não de trazer o acervo inteiro pra achar essas poucas)."""
+        if not slugs:
+            return []
+        with db.get_pool().connection() as conn:
+            rows = conn.execute(
+                f"SELECT {_LIST_COLUMNS} FROM songs WHERE user_id=%s AND slug = ANY(%s)",
+                (user_id, slugs),
+            ).fetchall()
+        return [_row_to_dict(r) for r in rows]
+
     def facets(self, user_id: str) -> dict:
         """Valores distintos para popular filtros no frontend."""
         with db.get_pool().connection() as conn:

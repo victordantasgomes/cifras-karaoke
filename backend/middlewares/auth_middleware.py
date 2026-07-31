@@ -1,4 +1,5 @@
-"""Decorator @require_auth: valida o JWT e injeta g.user_id."""
+"""Decorators @require_auth (valida o JWT, injeta g.user_id/g.is_admin) e
+@require_admin (idem, mas exige g.is_admin — pra rotas de /admin/*)."""
 from __future__ import annotations
 
 from functools import wraps
@@ -21,6 +22,21 @@ def require_auth(auth_service):
                 return jsonify({"error": str(e)}), 401
             g.user_id = payload["sub"]
             g.username = payload.get("username", "")
+            g.is_admin = payload.get("is_admin", False)
+            return fn(*args, **kwargs)
+        return wrapper
+    return decorator
+
+
+def require_admin(auth_service):
+    auth_decorator = require_auth(auth_service)
+
+    def decorator(fn):
+        @auth_decorator
+        @wraps(fn)
+        def wrapper(*args, **kwargs):
+            if not g.is_admin:
+                return jsonify({"error": "Acesso restrito a administradores."}), 403
             return fn(*args, **kwargs)
         return wrapper
     return decorator

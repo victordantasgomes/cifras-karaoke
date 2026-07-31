@@ -20,7 +20,10 @@ class AuthError(Exception):
 
 
 class AuthService:
-    def register(self, username: str, password: str, name: str = "") -> dict:
+    def register(self, username: str, password: str, name: str = "", is_admin: bool = False) -> dict:
+        """Não existe rota pública de auto-registro — contas só são criadas
+        por um admin (POST /admin/users, que pode passar is_admin=True) ou
+        pelo seed.py. `is_admin` default False cobre os dois casos."""
         username = username.strip().lower()
         if not username or not password:
             raise AuthError("Usuário e senha são obrigatórios.")
@@ -33,29 +36,41 @@ class AuthService:
             if exists:
                 raise AuthError("Este usuário já existe.")
             conn.execute(
-                "insert into users (id, username, name, password_hash) values (%s, %s, %s, %s)",
-                (user_id, username, name, generate_password_hash(password)),
+                "insert into users (id, username, name, password_hash, is_admin) values (%s, %s, %s, %s, %s)",
+                (user_id, username, name, generate_password_hash(password), is_admin),
             )
-        return {"id": user_id, "username": username, "name": name}
+        return {"id": user_id, "username": username, "name": name, "is_admin": is_admin}
 
     def login(self, username: str, password: str) -> dict:
         with db.get_pool().connection() as conn:
             record = conn.execute(
-                "select id, username, name, password_hash from users where username = %s",
+                "select id, username, name, password_hash, is_admin from users where username = %s",
                 (username.strip().lower(),),
             ).fetchone()
         if not record or not check_password_hash(record["password_hash"], password):
             raise AuthError("Usuário ou senha inválidos.")
-        token = self.issue_token(record["id"], record["username"])
+        token = self.issue_token(record["id"], record["username"], record["is_admin"])
         return {
             "token": token,
-            "user": {"id": record["id"], "username": record["username"], "name": record["name"]},
+            "user": {
+                "id": record["id"], "username": record["username"], "name": record["name"],
+                "is_admin": record["is_admin"],
+            },
         }
 
-    def issue_token(self, user_id: str, username: str) -> str:
+    def list_users(self) -> list[dict]:
+        """Só pra área de administração (rota exige is_admin)."""
+        with db.get_pool().connection() as conn:
+            rows = conn.execute(
+                "select id, username, name, is_admin, created_at from users order by created_at",
+            ).fetchall()
+        return [dict(r) for r in rows]
+
+    def issue_token(self, user_id: str, username: str, is_admin: bool = False) -> str:
         payload = {
             "sub": user_id,
             "username": username,
+            "is_admin": is_admin,
             "iat": datetime.now(timezone.utc),
             "exp": datetime.now(timezone.utc) + timedelta(hours=Config.JWT_HOURS),
         }

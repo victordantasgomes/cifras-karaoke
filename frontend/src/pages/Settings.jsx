@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import api from '../services/api'
+import { useAuthStore } from '../store/authStore'
 
 const COLOR_FIELDS = [
   { key: 'sweepSung', label: 'Letra já cantada' },
@@ -67,12 +68,82 @@ function ColorSettingsCard() {
   )
 }
 
+function UserAdminCard() {
+  const qc = useQueryClient()
+  const { data: users } = useQuery({
+    queryKey: ['admin-users'],
+    queryFn: () => api.get('/admin/users').then((r) => r.data),
+  })
+  const [form, setForm] = useState({ username: '', password: '', name: '', is_admin: false })
+  const [error, setError] = useState('')
+
+  const create = useMutation({
+    mutationFn: (payload) => api.post('/admin/users', payload).then((r) => r.data),
+    onSuccess: () => {
+      qc.invalidateQueries({ queryKey: ['admin-users'] })
+      setForm({ username: '', password: '', name: '', is_admin: false })
+      setError('')
+    },
+    onError: (e) => setError(e.response?.data?.error || 'Não foi possível criar o usuário.'),
+  })
+
+  return (
+    <div className="card" style={{ marginBottom: 14 }}>
+      <h3 style={{ marginBottom: 12 }}>Administração de usuários</h3>
+      <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>
+        Área visível só para administradores — crie novas contas de acesso ao sistema.
+      </p>
+
+      {users?.length > 0 && (
+        <ul style={{ listStyle: 'none', padding: 0, margin: '0 0 18px' }}>
+          {users.map((u) => (
+            <li key={u.id} className="row"
+              style={{ justifyContent: 'space-between', padding: '6px 0', borderBottom: '1px solid var(--stroke)' }}>
+              <span>{u.name} <span style={{ color: 'var(--muted)' }}>@{u.username}</span></span>
+              {u.is_admin && <span className="tag">admin</span>}
+            </li>
+          ))}
+        </ul>
+      )}
+
+      <div className="field">
+        <label>Nome</label>
+        <input className="input" value={form.name}
+          onChange={(e) => setForm({ ...form, name: e.target.value })} />
+      </div>
+      <div className="field">
+        <label>Usuário</label>
+        <input className="input" value={form.username}
+          onChange={(e) => setForm({ ...form, username: e.target.value })} />
+      </div>
+      <div className="field">
+        <label>Senha</label>
+        <input className="input" type="password" value={form.password}
+          onChange={(e) => setForm({ ...form, password: e.target.value })} />
+      </div>
+      <label className="row" style={{ gap: 8, alignItems: 'center', margin: '4px 0 14px', cursor: 'pointer' }}>
+        <input type="checkbox" checked={form.is_admin}
+          onChange={(e) => setForm({ ...form, is_admin: e.target.checked })} />
+        Administrador
+      </label>
+      {error && <div className="error-text">{error}</div>}
+      <div className="row">
+        <button className="btn primary" disabled={create.isPending} onClick={() => create.mutate(form)}>
+          {create.isPending ? 'Criando…' : 'Criar usuário'}
+        </button>
+      </div>
+    </div>
+  )
+}
+
 export default function Settings() {
+  const user = useAuthStore((s) => s.user)
   return (
     <>
       <h1 className="page-title">Configurações</h1>
       <div className="page-sub">Preferências visuais.</div>
       <ColorSettingsCard />
+      {user?.is_admin && <UserAdminCard />}
     </>
   )
 }
