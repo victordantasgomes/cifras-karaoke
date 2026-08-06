@@ -85,7 +85,7 @@ export default function Songs({ favoritesOnly = false }) {
                   <div className="title">{s.favorita && <span className="fav-star">★ </span>}{s.titulo}</div>
                   <div className="meta">
                     {s.interprete}
-                    {s.user_id !== user?.id && <span className="chip" style={{ marginLeft: 8 }} title="Você não criou esta música">de outro usuário</span>}
+                    {s.user_id && s.user_id !== user?.id && <span className="chip" style={{ marginLeft: 8 }} title="Você não criou esta música">de outro usuário</span>}
                   </div>
                 </div>
                 <div className="meta hide-sm">{s.genero}</div>

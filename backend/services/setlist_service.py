@@ -76,14 +76,14 @@ class SetlistService:
             rows = conn.execute(
                 """select s.slug, s.nome, s.user_id, s.shared, count(i.id) as count
                    from setlists s left join setlist_items i on i.setlist_id = s.id
-                   where s.user_id = %(user_id)s or s.shared = true
+                   where s.user_id = %(user_id)s or s.shared = true or s.user_id is null
                    group by s.id, s.slug, s.nome, s.user_id, s.shared, s.created_at
                    order by s.created_at""",
                 {"user_id": user_id},
             ).fetchall()
         return [
             {"id": r["slug"], "nome": r["nome"], "count": r["count"],
-             "is_owner": r["user_id"] == user_id, "shared": r["shared"]}
+             "is_owner": r["user_id"] is None or r["user_id"] == user_id, "shared": r["shared"]}
             for r in rows
         ]
 
@@ -92,7 +92,8 @@ class SetlistService:
             row = conn.execute(
                 "select id, slug, nome, user_id, shared from setlists where slug=%s", (setlist_id,),
             ).fetchone()
-            if not row or (row["user_id"] != user_id and not row["shared"]):
+            is_owner = not row or row["user_id"] is None or row["user_id"] == user_id
+            if not row or (not is_owner and not row["shared"]):
                 raise FileNotFoundError(setlist_id)
             items = conn.execute(
                 "select ref from setlist_items where setlist_id=%s order by position", (row["id"],),
@@ -101,18 +102,22 @@ class SetlistService:
         resolved = self._resolve_many(refs)
         return {
             "id": row["slug"], "nome": row["nome"],
-            "is_owner": row["user_id"] == user_id, "shared": row["shared"],
+            "is_owner": is_owner, "shared": row["shared"],
             "items": [{"ref": ref, "song": song} for ref, song in zip(refs, resolved)],
         }
 
     def save(self, user_id: str, name: str, items: list[str], setlist_id: str | None = None) -> dict:
+        """Setlist órfão (dono excluído — ver AuthService.delete_user) pode
+        ser editado por qualquer um, mesma lógica de "música órfã" em
+        SongsService.update: conteúdo sobrevive à exclusão do usuário, mas
+        sem dono ninguém ficaria travado pra sempre incapaz de mexer nele."""
         with db.get_pool().connection() as conn:
             existing = None
             if setlist_id:
                 existing = conn.execute(
                     "select id, user_id from setlists where slug=%s", (setlist_id,),
                 ).fetchone()
-            if existing and existing["user_id"] != user_id:
+            if existing and existing["user_id"] is not None and existing["user_id"] != user_id:
                 raise PermissionError(setlist_id)
             if existing:
                 setlist_pk, slug = existing["id"], setlist_id
@@ -139,7 +144,7 @@ class SetlistService:
             ).fetchone()
             if not row:
                 raise FileNotFoundError(setlist_id)
-            if row["user_id"] != user_id:
+            if row["user_id"] is not None and row["user_id"] != user_id:
                 raise PermissionError(setlist_id)
             conn.execute("update setlists set shared=%s where id=%s", (value, row["id"]))
         return self.get(user_id, setlist_id)
@@ -151,7 +156,7 @@ class SetlistService:
             ).fetchone()
             if not row:
                 return  # já não existe — idempotente, como sempre foi
-            if row["user_id"] != user_id:
+            if row["user_id"] is not None and row["user_id"] != user_id:
                 raise PermissionError(setlist_id)
             conn.execute("delete from setlists where slug=%s", (setlist_id,))
 

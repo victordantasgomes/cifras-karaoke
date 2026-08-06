@@ -47,8 +47,12 @@ class AuthService:
                 "select id, username, name, password_hash, is_admin from users where username = %s",
                 (username.strip().lower(),),
             ).fetchone()
-        if not record or not check_password_hash(record["password_hash"], password):
-            raise AuthError("Usuário ou senha inválidos.")
+            if not record or not check_password_hash(record["password_hash"], password):
+                raise AuthError("Usuário ou senha inválidos.")
+            conn.execute(
+                "update users set login_count = login_count + 1, last_login_at = now() where id = %s",
+                (record["id"],),
+            )
         token = self.issue_token(record["id"], record["username"], record["is_admin"], record["name"])
         return {
             "token": token,
@@ -59,12 +63,49 @@ class AuthService:
         }
 
     def list_users(self) -> list[dict]:
-        """Só pra área de administração (rota exige is_admin)."""
+        """Só pra área de administração (rota exige is_admin). Indicadores de
+        uso: contagem de acessos + último login (baratos, já dá pra ter sem
+        infra de sessão/heartbeat) e setlists/favoritas criadas por cada um —
+        "tempo de permanência" fica de fora, não existe nada pra medir isso."""
         with db.get_pool().connection() as conn:
             rows = conn.execute(
-                "select id, username, name, is_admin, created_at from users order by created_at",
+                """select u.id, u.username, u.name, u.is_admin, u.created_at,
+                          u.last_login_at, u.login_count,
+                          (select count(*) from setlists s where s.user_id = u.id) as setlists_count,
+                          (select count(*) from user_song_prefs p
+                                  where p.user_id = u.id and p.favorita = true) as favorites_count
+                   from users u order by u.created_at""",
             ).fetchall()
         return [dict(r) for r in rows]
+
+    def delete_user(self, user_id: str, requesting_user_id: str) -> None:
+        """Conteúdo do usuário excluído sobrevive (ON DELETE SET NULL em
+        songs.user_id/setlists.user_id — ver schema.sql), só perde o autor."""
+        if user_id == requesting_user_id:
+            raise AuthError("Você não pode excluir sua própria conta.")
+        with db.get_pool().connection() as conn:
+            row = conn.execute("select is_admin from users where id=%s", (user_id,)).fetchone()
+            if not row:
+                return  # idempotente, como as exclusões dos outros services
+            if row["is_admin"]:
+                remaining = conn.execute(
+                    "select count(*) as n from users where is_admin = true and id != %s", (user_id,),
+                ).fetchone()["n"]
+                if remaining == 0:
+                    raise AuthError("Não é possível excluir o último administrador.")
+            conn.execute("delete from users where id=%s", (user_id,))
+
+    def reset_password(self, user_id: str, new_password: str) -> None:
+        if len(new_password) < 6:
+            raise AuthError("A senha deve ter pelo menos 6 caracteres.")
+        with db.get_pool().connection() as conn:
+            row = conn.execute("select 1 from users where id=%s", (user_id,)).fetchone()
+            if not row:
+                raise AuthError("Usuário não encontrado.")
+            conn.execute(
+                "update users set password_hash=%s where id=%s",
+                (generate_password_hash(new_password), user_id),
+            )
 
     def issue_token(self, user_id: str, username: str, is_admin: bool = False, name: str = "") -> str:
         payload = {
