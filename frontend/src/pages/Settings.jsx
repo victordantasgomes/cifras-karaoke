@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import api from '../services/api'
 import { useAuthStore } from '../store/authStore'
@@ -136,6 +136,80 @@ function UserAdminCard() {
   )
 }
 
+function NormalizeLibraryCard() {
+  const qc = useQueryClient()
+  const { data: status } = useQuery({
+    queryKey: ['admin-normalize-status'],
+    queryFn: () => api.get('/admin/songs/normalize-status').then((r) => r.data),
+  })
+  const [running, setRunning] = useState(false)
+  const [remaining, setRemaining] = useState(null)
+  const [total, setTotal] = useState(null)
+  const [error, setError] = useState('')
+  const stopRef = useRef(false)
+
+  useEffect(() => {
+    if (status && remaining === null) { setRemaining(status.remaining); setTotal(status.remaining) }
+  }, [status]) // eslint-disable-line
+
+  const start = async () => {
+    stopRef.current = false
+    setRunning(true)
+    setError('')
+    // se for a primeira leva desde que a página carregou, o total da barra
+    // é o "remaining" atual — retomar depois de parar não reinicia a barra
+    let baseTotal = total ?? remaining
+    if (baseTotal === null) baseTotal = 0
+    try {
+      while (!stopRef.current) {
+        const { data } = await api.post('/admin/songs/normalize-batch', { limit: 50 })
+        setRemaining(data.remaining)
+        if (data.remaining > baseTotal) { baseTotal = data.remaining; setTotal(baseTotal) }
+        if (data.processed === 0 || data.remaining === 0) break
+      }
+    } catch (e) {
+      setError(e.response?.data?.error || 'Falha ao normalizar em lote.')
+    } finally {
+      setRunning(false)
+      qc.invalidateQueries({ queryKey: ['songs'] })
+      qc.invalidateQueries({ queryKey: ['facets'] })
+    }
+  }
+  const stop = () => { stopRef.current = true }
+
+  const percent = total ? Math.round(((total - (remaining ?? total)) / total) * 100) : 0
+
+  return (
+    <div className="card" style={{ marginBottom: 14 }}>
+      <h3 style={{ marginBottom: 12 }}>Normalizar todo o acervo</h3>
+      <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>
+        Padroniza cabeçalho, notação de acordes e rótulos de seção de toda a
+        biblioteca, música por música — processa em lotes pequenos direto do
+        navegador (sem fila em segundo plano no servidor), então pode levar
+        um tempo. Dá para parar e continuar depois: o progresso não se perde.
+      </p>
+      {remaining !== null && (
+        <>
+          <div style={{ background: 'var(--stroke)', borderRadius: 8, height: 10, overflow: 'hidden', marginBottom: 8 }}>
+            <div style={{ width: `${percent}%`, height: '100%', background: 'var(--accent, #46c48a)', transition: 'width .2s' }} />
+          </div>
+          <div className="page-sub" style={{ marginBottom: 14 }}>
+            {remaining === 0 ? 'Todo o acervo está normalizado.' : `${remaining} música(s) restante(s) de ${total}`}
+          </div>
+        </>
+      )}
+      {error && <div className="error-text">{error}</div>}
+      <div className="row">
+        {running ? (
+          <button className="btn danger" onClick={stop}>Parar</button>
+        ) : (
+          <button className="btn primary" disabled={remaining === 0} onClick={start}>Iniciar</button>
+        )}
+      </div>
+    </div>
+  )
+}
+
 export default function Settings() {
   const user = useAuthStore((s) => s.user)
   return (
@@ -144,6 +218,7 @@ export default function Settings() {
       <div className="page-sub">Preferências visuais.</div>
       <ColorSettingsCard />
       {user?.is_admin && <UserAdminCard />}
+      {user?.is_admin && <NormalizeLibraryCard />}
     </>
   )
 }

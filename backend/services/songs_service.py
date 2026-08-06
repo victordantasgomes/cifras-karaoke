@@ -303,6 +303,27 @@ class SongsService:
         # esperar o refetch.
         return self.get(user_id, result["slug"])
 
+    def normalize_status(self) -> dict:
+        with db.get_pool().connection() as conn:
+            row = conn.execute("select count(*) as remaining from songs where normalizada = false").fetchone()
+        return {"remaining": row["remaining"]}
+
+    def normalize_batch(self, limit: int = 50) -> dict:
+        """Normaliza até `limit` músicas ainda não-normalizadas (índice
+        idx_songs_normalizada cobre esse filtro). Reescrita administrativa,
+        sem checagem de dono — reaproveita _update_owned diretamente (mesma
+        gravação in-place + arquivamento em song_versions do fluxo comum),
+        chamada em lotes pelo cliente (Settings.jsx) já que o Vercel não tem
+        fila/worker pra processar as ~24 mil músicas de uma vez só."""
+        with db.get_pool().connection() as conn:
+            rows = conn.execute(
+                f"select {_SONG_COLUMNS} from songs where normalizada = false limit %s", (limit,),
+            ).fetchall()
+        for row in rows:
+            header, body = normalize_song(row["header"], row["body"])
+            self._update_owned(dict(row), header, body)
+        return {"processed": len(rows), **self.normalize_status()}
+
 
 def _shift_key(key: str, semitones: int) -> str:
     from utils.transpose import transpose_chord

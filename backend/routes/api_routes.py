@@ -42,6 +42,18 @@ def build_blueprint(ctx) -> Blueprint:
             return jsonify({"error": str(e)}), 400
         return jsonify(user), 201
 
+    @api.get("/admin/songs/normalize-status")
+    @ctx.require_admin
+    def admin_normalize_status():
+        return jsonify(ctx.songs.normalize_status())
+
+    @api.post("/admin/songs/normalize-batch")
+    @ctx.require_admin
+    def admin_normalize_batch():
+        d = request.get_json(silent=True) or {}
+        limit = min(max(int(d.get("limit", 50)), 1), 200)
+        return jsonify(ctx.songs.normalize_batch(limit=limit))
+
     # ---------------- músicas ----------------
     @api.get("/songs")
     @protected
