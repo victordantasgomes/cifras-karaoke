@@ -113,6 +113,41 @@ def test_normalize_creates_history_version(ctx):
     assert version["header"]["titulo"] == "Yellow"
 
 
+def test_normalize_status_counts_pending(ctx):
+    songs, _, _ = ctx
+    _create(songs, title="Um")
+    _create(songs, title="Dois")
+    assert songs.normalize_status() == {"remaining": 2}
+
+
+def test_normalize_batch_processes_up_to_limit(ctx):
+    songs, _, _ = ctx
+    for i in range(5):
+        _create(songs, title=f"Música {i}")
+    result = songs.normalize_batch(limit=3)
+    assert result["processed"] == 3
+    assert result["remaining"] == 2
+
+
+def test_normalize_batch_ignores_already_normalized(ctx):
+    songs, _, _ = ctx
+    entry = _create(songs)
+    songs.normalize("u1", entry["slug"])
+    result = songs.normalize_batch(limit=50)
+    assert result == {"processed": 0, "remaining": 0}
+
+
+def test_normalize_batch_is_resumable(ctx):
+    songs, _, _ = ctx
+    for i in range(4):
+        _create(songs, title=f"Música {i}")
+    first = songs.normalize_batch(limit=2)
+    second = songs.normalize_batch(limit=2)
+    assert first["processed"] == 2 and second["processed"] == 2
+    assert second["remaining"] == 0
+    assert songs.normalize_status() == {"remaining": 0}
+
+
 # ---------- biblioteca global (Fase 3) ----------
 
 def test_song_visible_to_other_user(ctx, other_user_id):
