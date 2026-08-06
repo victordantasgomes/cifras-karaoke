@@ -3,6 +3,7 @@ from __future__ import annotations
 
 from flask import Blueprint, Response, g, jsonify, request
 
+from services.ai_service import AIError
 from services.auth_service import AuthError
 from services.songs_service import NotOwner, SongNotFound
 
@@ -157,6 +158,18 @@ def build_blueprint(ctx) -> Blueprint:
             return jsonify(ctx.songs.normalize(g.user_id, slug, editor_name=g.name))
         except SongNotFound:
             return jsonify({"error": "Música não encontrada."}), 404
+
+    @api.post("/songs/<slug>/ai-suggest")
+    @protected
+    def ai_suggest_header(slug):
+        try:
+            data = ctx.songs.get(g.user_id, slug)
+        except SongNotFound:
+            return jsonify({"error": "Música não encontrada."}), 404
+        try:
+            return jsonify(ctx.ai.suggest_header(data["header"], data["body"]))
+        except AIError as e:
+            return jsonify({"error": str(e)}), 502
 
     @api.get("/songs/<slug>/export")
     @protected

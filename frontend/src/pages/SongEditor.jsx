@@ -215,6 +215,18 @@ export default function SongEditor() {
     },
   })
 
+  const aiSuggest = useMutation({
+    mutationFn: () => api.post(`/songs/${slug}/ai-suggest`),
+    onSuccess: (r) => {
+      const suggestions = r.data
+      if (Object.keys(suggestions).length === 0) return
+      const newHeader = { ...header, ...suggestions }
+      setHeader(newHeader)
+      setDirty(true)
+      pushHistorySnapshot(newHeader, body)
+    },
+  })
+
   const toggleFav = useMutation({
     mutationFn: () => api.post(`/songs/${slug}/favorite`, { value: !(header?.favorita === 'sim') }),
     onSuccess: () => {
@@ -415,7 +427,19 @@ export default function SongEditor() {
       {tab === 'edit' && (
         <div className="row" style={{ alignItems: 'flex-start' }} onKeyDown={handleEditorKeyDown}>
           <div className="card" style={{ width: 300, flexShrink: 0 }}>
-            <h3 style={{ marginBottom: 12 }}>Cabeçalho</h3>
+            <div className="row" style={{ justifyContent: 'space-between', alignItems: 'center', marginBottom: 12 }}>
+              <h3>Cabeçalho</h3>
+              <button className="btn" disabled={aiSuggest.isPending}
+                title="Sugere intérprete, tom, ritmo musical e tags com base na letra — só preenche os campos vazios, você revisa e salva"
+                onClick={() => aiSuggest.mutate()}>
+                {aiSuggest.isPending ? 'Sugerindo…' : '✨ Sugerir com IA'}
+              </button>
+            </div>
+            {aiSuggest.isError && (
+              <div className="error-text" style={{ marginBottom: 10 }}>
+                {aiSuggest.error?.response?.data?.error || 'Não foi possível gerar sugestões.'}
+              </div>
+            )}
             {HEADER_FIELDS.map((f) => (
               <div className="field" key={f}>
                 <label>@{f}</label>
