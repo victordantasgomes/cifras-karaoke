@@ -18,6 +18,7 @@ import db
 from config import Config
 from middlewares.auth_middleware import require_admin, require_auth
 from routes.api_routes import build_blueprint
+from services.ai_service import AIService
 from services.audio_service import AudioService
 from services.auth_service import AuthService
 from services.chord_dictionary_service import ChordDictionaryService
@@ -43,6 +44,7 @@ class Services:
         self.history = HistoryService(self.songs)
         self.settings = SettingsService()
         self.chords = ChordDictionaryService()
+        self.ai = AIService()
         self.require_auth = require_auth(self.auth)
         self.require_admin = require_admin(self.auth)
 
