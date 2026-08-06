@@ -23,6 +23,7 @@ def require_auth(auth_service):
             g.user_id = payload["sub"]
             g.username = payload.get("username", "")
             g.is_admin = payload.get("is_admin", False)
+            g.name = payload.get("name", "")
             return fn(*args, **kwargs)
         return wrapper
     return decorator

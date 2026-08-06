@@ -1,14 +1,21 @@
-"""Regras de negócio de músicas: CRUD, upload e transposição.
+"""Regras de negócio de músicas: CRUD, upload, transposição e normalização.
+
+Biblioteca global: toda música é legível por qualquer usuário logado —
+`user_id` deixou de ser um filtro de leitura e virou só "quem criou (ou
+clonou) esta música" (pode até ser NULL, se essa pessoa for excluída depois).
+Editar uma música que não é sua nunca modifica o original: clona (ver
+update()/`_clone_and_update`). Excluir e mexer no áudio continuam restritos
+ao criador (ou admin).
 
 Identidade: `songs.id` (uuid) é estável — nunca muda depois de criada.
 `songs.slug` é recalculado a cada update a partir de gênero+intérprete+
-título (mesmo comportamento de sempre: o frontend já trata a troca de slug
-depois de salvar — ver SongEditor.jsx). As colunas soltas (titulo, autor,
-interprete, tom, ritmo, tags, velocidade, nota, favorita) são uma
-desnormalização do `header` (JSONB) mantida em sincronia a cada
-create/update — substituem o antigo IndexEntry/IndexService em memória, sem
-precisar reconstruir nada: toda leitura já é uma query.
-"""
+título — agora único GLOBALMENTE, não mais por usuário (mesmo comportamento
+de sempre pro frontend: ver SongEditor.jsx tratando a troca de slug depois
+de salvar). As colunas soltas (titulo, autor, interprete, tom, ritmo, tags,
+velocidade, normalizada) são uma desnormalização do `header` (JSONB)
+mantida em sincronia a cada create/update. `favorita`/`nota` são preferência
+de QUEM VÊ a música, não da música em si — vivem em `user_song_prefs`, não
+nessas colunas (que ficam paradas, sem uso, só por segurança/rollback)."""
 from __future__ import annotations
 
 from psycopg.types.json import Json
@@ -16,15 +23,24 @@ from psycopg.types.json import Json
 import db
 from utils.parser import HEADER_FIELDS, parse_song
 from utils.slug import slugify
+from utils.song_normalizer import normalize_song
+from utils.song_title import apply_edited_suffix
 from utils.transpose import semitones_between, transpose_body
 
 _SONG_COLUMNS = (
-    "id, user_id, slug, genero, titulo, autor, interprete, tom, ritmo, "
-    "tags, velocidade, nota, favorita, header, body"
+    "songs.id, songs.user_id, songs.slug, songs.genero, songs.titulo, songs.autor, songs.interprete, "
+    "songs.tom, songs.ritmo, songs.tags, songs.velocidade, songs.nota, songs.favorita, songs.normalizada, "
+    "songs.header, songs.body"
 )
 
 
 class SongNotFound(Exception):
+    pass
+
+
+class NotOwner(Exception):
+    """Ação restrita a quem criou a música (ou a um admin) — ex.: excluir,
+    mexer no áudio. Editar é sempre permitido (clona em vez de bloquear)."""
     pass
 
 
@@ -43,6 +59,7 @@ def _denormalize(header: dict) -> dict:
         "velocidade": velocidade,
         "nota": header.get("nota") or "",
         "favorita": (header.get("favorita") or "").strip().lower() in ("sim", "true", "1", "yes"),
+        "normalizada": (header.get("normalizada") or "").strip().lower() in ("sim", "true", "1", "yes"),
     }
 
 
@@ -51,20 +68,20 @@ def _row_to_dict(row: dict) -> dict:
         "slug": row["slug"], "titulo": row["titulo"], "autor": row["autor"],
         "interprete": row["interprete"], "genero": row["genero"], "tom": row["tom"],
         "tags": row["tags"], "velocidade": row["velocidade"], "nota": row["nota"],
-        "favorita": row["favorita"], "ritmo": row["ritmo"],
+        "favorita": row["favorita"], "ritmo": row["ritmo"], "normalizada": row["normalizada"],
+        "user_id": row["user_id"],
     }
 
 
-def _unique_slug(conn, user_id: str, base_slug: str, exclude_id: str | None = None) -> str:
-    """Evita colidir com o slug de OUTRA música do mesmo usuário — o antigo
-    índice em memória deixava isso acontecer silenciosamente (uma música
-    ficava inacessível); aqui resolvemos anexando um sufixo curto."""
+def _unique_slug(conn, base_slug: str, exclude_id: str | None = None) -> str:
+    """Slug único GLOBALMENTE (biblioteca compartilhada) — antes era só por
+    usuário. Colisão vira sufixo curto, mesma ideia de sempre."""
     slug = base_slug
     suffix = 2
     while True:
         row = conn.execute(
-            "select id from songs where user_id=%s and slug=%s and id != coalesce(%s, '00000000-0000-0000-0000-000000000000'::uuid)",
-            (user_id, slug, exclude_id),
+            "select id from songs where slug=%s and id != coalesce(%s, '00000000-0000-0000-0000-000000000000'::uuid)",
+            (slug, exclude_id),
         ).fetchone()
         if not row:
             return slug
@@ -78,23 +95,42 @@ class SongsService:
         self.audio = audio  # idem — AudioService
 
     # ---------- leitura ----------
-    def _fetch(self, user_id: str, slug: str) -> dict | None:
+    def _fetch(self, slug: str) -> dict | None:
+        """Busca global — não filtra por usuário (biblioteca compartilhada)."""
         with db.get_pool().connection() as conn:
             return conn.execute(
-                f"select {_SONG_COLUMNS} from songs where user_id=%s and slug=%s", (user_id, slug),
+                f"select {_SONG_COLUMNS} from songs where slug=%s", (slug,),
             ).fetchone()
 
     def get(self, user_id: str, slug: str) -> dict:
-        row = self._fetch(user_id, slug)
+        with db.get_pool().connection() as conn:
+            row = conn.execute(
+                f"""select {_SONG_COLUMNS}, coalesce(p.favorita, false) as pref_favorita,
+                           coalesce(p.nota, '') as pref_nota
+                    from songs left join user_song_prefs p
+                           on p.song_id = songs.id and p.user_id = %(user_id)s
+                    where songs.slug = %(slug)s""",
+                {"user_id": user_id, "slug": slug},
+            ).fetchone()
         if not row:
             raise SongNotFound(slug)
-        return {**_row_to_dict(row), "header": row["header"], "body": row["body"]}
+        data = _row_to_dict(row)
+        data["favorita"] = row["pref_favorita"]
+        data["nota"] = row["pref_nota"]
+        return {**data, "header": row["header"], "body": row["body"]}
 
     def get_id(self, user_id: str, slug: str) -> str | None:
         """id (uuid) estável da música — usado por outros services (histórico,
-        áudio) pra referenciar via FK sem reimplementar a busca por slug."""
-        row = self._fetch(user_id, slug)
+        áudio) pra referenciar via FK sem reimplementar a busca por slug.
+        `user_id` não filtra mais nada aqui (busca é global) — mantido na
+        assinatura porque os chamadores (AudioService/HistoryService) ainda
+        o usam pra decidir dono em métodos de escrita (ver is_owner)."""
+        row = self._fetch(slug)
         return row["id"] if row else None
+
+    def is_owner(self, user_id: str, slug: str) -> bool:
+        row = self._fetch(slug)
+        return bool(row) and row["user_id"] == user_id
 
     # ---------- upload / criação ----------
     def create(self, user_id: str, genre: str, artist: str, title: str, content: str) -> dict:
@@ -110,13 +146,13 @@ class SongsService:
         denorm = _denormalize(song.header)
         base_slug = slugify(genre, song.header["intérprete"], song.header["titulo"]) or slugify(title)
         with db.get_pool().connection() as conn:
-            slug = _unique_slug(conn, user_id, base_slug)
+            slug = _unique_slug(conn, base_slug)
             row = conn.execute(
                 f"""insert into songs (user_id, slug, genero, titulo, autor, interprete, tom, ritmo,
-                                        tags, velocidade, nota, favorita, header, body)
+                                        tags, velocidade, nota, favorita, normalizada, header, body)
                     values (%(user_id)s, %(slug)s, %(genero)s, %(titulo)s, %(autor)s, %(interprete)s,
                             %(tom)s, %(ritmo)s, %(tags)s, %(velocidade)s, %(nota)s, %(favorita)s,
-                            %(header)s, %(body)s)
+                            %(normalizada)s, %(header)s, %(body)s)
                     returning {_SONG_COLUMNS}""",
                 {"user_id": user_id, "slug": slug, "genero": genre, "body": song.body,
                  "header": Json(song.header), **denorm},
@@ -124,10 +160,19 @@ class SongsService:
         return _row_to_dict(row)
 
     # ---------- edição ----------
-    def update(self, user_id: str, slug: str, header: dict, body: str) -> dict:
-        row = self._fetch(user_id, slug)
+    def update(self, user_id: str, slug: str, header: dict, body: str, editor_name: str = "") -> dict:
+        """Dono (ou música "órfã", sem dono) edita in-place, como sempre.
+        Não-dono NUNCA mexe no original: gera uma cópia nova, sua, com
+        origin_song_id apontando pra original e o título marcado como
+        "cifra editada por: <editor_name>" (ver utils/song_title.py)."""
+        row = self._fetch(slug)
         if not row:
             raise SongNotFound(slug)
+        if row["user_id"] is not None and row["user_id"] != user_id:
+            return self._clone_and_update(user_id, editor_name, row, header, body)
+        return self._update_owned(row, header, body)
+
+    def _update_owned(self, row: dict, header: dict, body: str) -> dict:
         full_header = {f: str(header.get(f, "")) for f in HEADER_FIELDS}
         denorm = _denormalize(full_header)
 
@@ -138,12 +183,12 @@ class SongsService:
                 (row["id"], Json(row["header"]), row["body"]),
             )
             base_slug = slugify(row["genero"], full_header.get("intérprete", ""), full_header.get("titulo", "")) or row["slug"]
-            new_slug = _unique_slug(conn, user_id, base_slug, exclude_id=row["id"])
+            new_slug = _unique_slug(conn, base_slug, exclude_id=row["id"])
             new_row = conn.execute(
                 f"""update songs set slug=%(slug)s, titulo=%(titulo)s, autor=%(autor)s,
                            interprete=%(interprete)s, tom=%(tom)s, ritmo=%(ritmo)s, tags=%(tags)s,
                            velocidade=%(velocidade)s, nota=%(nota)s, favorita=%(favorita)s,
-                           header=%(header)s, body=%(body)s, updated_at=now()
+                           normalizada=%(normalizada)s, header=%(header)s, body=%(body)s, updated_at=now()
                     where id=%(id)s returning {_SONG_COLUMNS}""",
                 {"id": row["id"], "slug": new_slug, "header": Json(full_header), "body": body, **denorm},
             ).fetchone()
@@ -156,21 +201,60 @@ class SongsService:
             )
         return _row_to_dict(new_row)
 
+    def _clone_and_update(self, user_id: str, editor_name: str, row: dict, header: dict, body: str) -> dict:
+        full_header = {f: str(header.get(f, "")) for f in HEADER_FIELDS}
+        full_header["titulo"] = apply_edited_suffix(
+            full_header.get("titulo", ""), full_header.get("intérprete", ""), editor_name,
+        )
+        denorm = _denormalize(full_header)
+        base_slug = slugify(row["genero"], full_header.get("intérprete", ""), full_header["titulo"]) or row["slug"]
+
+        with db.get_pool().connection() as conn:
+            new_slug = _unique_slug(conn, base_slug)
+            new_row = conn.execute(
+                f"""insert into songs (user_id, slug, genero, origin_song_id, titulo, autor, interprete,
+                                        tom, ritmo, tags, velocidade, nota, favorita, normalizada, header, body)
+                    values (%(user_id)s, %(slug)s, %(genero)s, %(origin_song_id)s, %(titulo)s, %(autor)s,
+                            %(interprete)s, %(tom)s, %(ritmo)s, %(tags)s, %(velocidade)s, %(nota)s,
+                            %(favorita)s, %(normalizada)s, %(header)s, %(body)s)
+                    returning {_SONG_COLUMNS}""",
+                {"user_id": user_id, "slug": new_slug, "genero": row["genero"], "origin_song_id": row["id"],
+                 "header": Json(full_header), "body": body, **denorm},
+            ).fetchone()
+        return _row_to_dict(new_row)
+
     def set_favorite(self, user_id: str, slug: str, value: bool) -> dict:
-        data = self.get(user_id, slug)
-        data["header"]["favorita"] = "sim" if value else ""
-        return self.update(user_id, slug, data["header"], data["body"])
+        song_id = self.get_id(user_id, slug)
+        if not song_id:
+            raise SongNotFound(slug)
+        with db.get_pool().connection() as conn:
+            conn.execute(
+                """insert into user_song_prefs (user_id, song_id, favorita) values (%s, %s, %s)
+                   on conflict (user_id, song_id) do update set favorita=excluded.favorita""",
+                (user_id, song_id, value),
+            )
+        return self.get(user_id, slug)
 
     def set_rating(self, user_id: str, slug: str, nota: int) -> dict:
-        data = self.get(user_id, slug)
-        data["header"]["nota"] = str(max(1, min(10, int(nota))))
-        return self.update(user_id, slug, data["header"], data["body"])
+        song_id = self.get_id(user_id, slug)
+        if not song_id:
+            raise SongNotFound(slug)
+        nota_str = str(max(1, min(10, int(nota))))
+        with db.get_pool().connection() as conn:
+            conn.execute(
+                """insert into user_song_prefs (user_id, song_id, nota) values (%s, %s, %s)
+                   on conflict (user_id, song_id) do update set nota=excluded.nota""",
+                (user_id, song_id, nota_str),
+            )
+        return self.get(user_id, slug)
 
     # ---------- exclusão ----------
-    def delete(self, user_id: str, slug: str) -> None:
-        row = self._fetch(user_id, slug)
+    def delete(self, user_id: str, slug: str, is_admin: bool = False) -> None:
+        row = self._fetch(slug)
         if not row:
             raise SongNotFound(slug)
+        if row["user_id"] is not None and row["user_id"] != user_id and not is_admin:
+            raise NotOwner(slug)
         if self.audio:
             # limpa os bytes de verdade (disco local na Fase 1 / Blob na Fase 2)
             # — as linhas em audio_tracks/samples somem via ON DELETE CASCADE,
@@ -183,7 +267,7 @@ class SongsService:
 
     # ---------- transposição ----------
     def transpose(self, user_id: str, slug: str, *, semitones: int | None = None,
-                  to_key: str | None = None, save: bool = False) -> dict:
+                  to_key: str | None = None, save: bool = False, editor_name: str = "") -> dict:
         data = self.get(user_id, slug)
         current_key = data["header"].get("tom", "")
         if semitones is None:
@@ -200,8 +284,24 @@ class SongsService:
         header["tom"] = new_key
 
         if save:
-            self.update(user_id, slug, header, new_body)
+            self.update(user_id, slug, header, new_body, editor_name=editor_name)
         return {"tom": new_key, "semitones": semitones, "body": new_body, "header": header}
+
+    # ---------- normalização ----------
+    def normalize(self, user_id: str, slug: str, editor_name: str = "") -> dict:
+        """Padroniza cabeçalho, notação de acordes e rótulos de seção — nunca
+        mexe no espaçamento entre acorde e letra (ver utils/song_normalizer.py).
+        Salva via update(), que já arquiva o estado anterior em song_versions
+        quando é dono (tanto o "desfazer" imediato quanto o "restaurar
+        versão" no histórico funcionam sem nenhum mecanismo novo) — e clona
+        do mesmo jeito que qualquer edição, se quem normaliza não é o dono."""
+        data = self.get(user_id, slug)
+        header, body = normalize_song(data["header"], data["body"])
+        result = self.update(user_id, slug, header, body, editor_name=editor_name)
+        # update() só devolve as colunas soltas (mesmo formato de create()) —
+        # o editor precisa do header/body completos pra atualizar a tela sem
+        # esperar o refetch.
+        return self.get(user_id, result["slug"])
 
 
 def _shift_key(key: str, semitones: int) -> str:

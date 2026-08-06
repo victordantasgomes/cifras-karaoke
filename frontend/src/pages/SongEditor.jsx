@@ -14,8 +14,8 @@ import { BandSynth } from '../utils/bandSynth'
 import { SynthClock } from '../utils/synthClock'
 
 const HEADER_FIELDS = [
-  'titulo', 'autor', 'intérprete', 'tom', 'velocidade',
-  'ritmomusical', 'introdução', 'tags', 'nota', 'favorita', 'bpm',
+  'titulo', 'autor', 'intérprete', 'tom', 'tom_original', 'tom_da_cifra', 'velocidade',
+  'ritmomusical', 'introdução', 'tags', 'nota', 'favorita', 'normalizada', 'bpm',
 ]
 const KEYS = ['C','C#','Db','D','D#','Eb','E','F','F#','Gb','G','G#','Ab','A','A#','Bb','B']
 
@@ -189,6 +189,30 @@ export default function SongEditor() {
     },
   })
 
+  const normalize = useMutation({
+    mutationFn: () => api.post(`/songs/${slug}/normalize`),
+    onSuccess: (r) => {
+      flushPendingHistory()
+      setHeader(r.data.header)
+      setBody(r.data.body)
+      setDirty(false)
+      pushHistorySnapshot(r.data.header, r.data.body)
+      qc.invalidateQueries(['songs'])
+      const newSlug = r.data.slug
+      if (newSlug !== slug) {
+        // título ganha sufixo ("... - cifra original"), então o slug muda —
+        // marca loadedSlug ANTES de navegar pra o efeito de "música nova"
+        // (que reseta o histórico de desfazer) não disparar e apagar o
+        // "desfazer imediato" que acabamos de empilhar.
+        loadedSlug.current = newSlug
+        qc.setQueryData(['song', newSlug], r.data)
+        navigate(`/musicas/${newSlug}`, { replace: true })
+      } else {
+        qc.invalidateQueries(['song', slug])
+      }
+    },
+  })
+
   const toggleFav = useMutation({
     mutationFn: () => api.post(`/songs/${slug}/favorite`, { value: !(header?.favorita === 'sim') }),
     onSuccess: () => {
@@ -325,6 +349,7 @@ export default function SongEditor() {
           </h1>
           <div className="page-sub">
             {header['intérprete']} {header.tom && <>· <span className="chip">{header.tom}</span></>}
+            {header.normalizada === 'sim' && <>· <span className="chip" title="Cabeçalho e notação padronizados">🧼 normalizada</span></>}
             {dirty && ' · alterações não salvas'}
           </div>
         </div>
@@ -363,6 +388,11 @@ export default function SongEditor() {
           <option value="">—</option>
           {Array.from({ length: 10 }, (_, i) => <option key={i + 1}>{i + 1}</option>)}
         </select>
+        <button className="btn" disabled={normalize.isPending}
+          title="Padroniza cabeçalho, notação de acordes e rótulos de seção — nunca mexe no espaçamento entre acorde e letra"
+          onClick={() => normalize.mutate()}>
+          {normalize.isPending ? 'Normalizando…' : '🧼 Normalizar'}
+        </button>
       </div>
 
       {tab === 'view' && (
