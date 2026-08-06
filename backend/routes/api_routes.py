@@ -166,6 +166,8 @@ def build_blueprint(ctx) -> Blueprint:
             ctx.audio.save_track(g.user_id, slug, f)
         except SongNotFound:
             return jsonify({"error": "Música não encontrada."}), 404
+        except NotOwner:
+            return jsonify({"error": "Só quem criou esta música (ou um admin) pode enviar áudio."}), 403
         return jsonify({"ok": True}), 201
 
     @api.get("/songs/<slug>/audio")
@@ -180,7 +182,10 @@ def build_blueprint(ctx) -> Blueprint:
     @api.delete("/songs/<slug>/audio")
     @protected
     def delete_audio(slug):
-        ctx.audio.delete_track(g.user_id, slug)
+        try:
+            ctx.audio.delete_track(g.user_id, slug)
+        except NotOwner:
+            return jsonify({"error": "Só quem criou esta música (ou um admin) pode remover o áudio."}), 403
         return "", 204
 
     @api.post("/songs/<slug>/samples")
@@ -194,6 +199,8 @@ def build_blueprint(ctx) -> Blueprint:
             sample = ctx.audio.save_sample(g.user_id, slug, f, nome)
         except SongNotFound:
             return jsonify({"error": "Música não encontrada."}), 404
+        except NotOwner:
+            return jsonify({"error": "Só quem criou esta música (ou um admin) pode enviar samples."}), 403
         except ValueError as e:
             return jsonify({"error": str(e)}), 400
         return jsonify(sample), 201
@@ -215,7 +222,10 @@ def build_blueprint(ctx) -> Blueprint:
     @api.delete("/songs/<slug>/samples/<sample_id>")
     @protected
     def delete_sample(slug, sample_id):
-        ctx.audio.delete_sample(g.user_id, slug, sample_id)
+        try:
+            ctx.audio.delete_sample(g.user_id, slug, sample_id)
+        except NotOwner:
+            return jsonify({"error": "Só quem criou esta música (ou um admin) pode remover samples."}), 403
         return "", 204
 
     # ---------------- karaokê ----------------
@@ -274,14 +284,31 @@ def build_blueprint(ctx) -> Blueprint:
     @protected
     def update_setlist(setlist_id):
         d = request.get_json(force=True)
-        return jsonify(ctx.setlists.save(g.user_id, d.get("nome", setlist_id),
-                                         d.get("items", []), setlist_id))
+        try:
+            return jsonify(ctx.setlists.save(g.user_id, d.get("nome", setlist_id),
+                                             d.get("items", []), setlist_id))
+        except PermissionError:
+            return jsonify({"error": "Só quem criou este setlist pode editá-lo."}), 403
 
     @api.delete("/setlists/<setlist_id>")
     @protected
     def delete_setlist(setlist_id):
-        ctx.setlists.delete(g.user_id, setlist_id)
+        try:
+            ctx.setlists.delete(g.user_id, setlist_id)
+        except PermissionError:
+            return jsonify({"error": "Só quem criou este setlist pode excluí-lo."}), 403
         return "", 204
+
+    @api.post("/setlists/<setlist_id>/share")
+    @protected
+    def share_setlist(setlist_id):
+        d = request.get_json(force=True)
+        try:
+            return jsonify(ctx.setlists.set_shared(g.user_id, setlist_id, bool(d.get("value"))))
+        except FileNotFoundError:
+            return jsonify({"error": "Setlist não encontrado."}), 404
+        except PermissionError:
+            return jsonify({"error": "Só quem criou este setlist pode alterar o compartilhamento."}), 403
 
     @api.get("/setlists/<setlist_id>/export")
     @protected

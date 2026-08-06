@@ -109,12 +109,22 @@ create table if not exists song_plays (
 
 create table if not exists setlists (
     id         uuid primary key default gen_random_uuid(),
-    user_id    text not null references users(id) on delete cascade,
+    -- nullable pelo mesmo motivo de songs.user_id: excluir o usuário não
+    -- pode levar o setlist junto se ele estiver compartilhado.
+    user_id    text references users(id) on delete set null,
     slug       text not null,
     nome       text not null,
+    shared     boolean not null default true,
     created_at timestamptz not null default now(),
     unique (user_id, slug)
 );
+-- idempotente pro banco de produção/teste, criados antes destes campos
+-- existirem.
+alter table setlists add column if not exists shared boolean not null default true;
+alter table setlists alter column user_id drop not null;
+alter table setlists drop constraint if exists setlists_user_id_fkey;
+alter table setlists add constraint setlists_user_id_fkey
+    foreign key (user_id) references users(id) on delete set null;
 
 create table if not exists setlist_items (
     id          uuid primary key default gen_random_uuid(),

@@ -23,6 +23,10 @@ export default function Setlists() {
     mutationFn: (id) => api.delete(`/setlists/${id}`),
     onSuccess: () => qc.invalidateQueries(['setlists']),
   })
+  const toggleShare = useMutation({
+    mutationFn: ({ id, value }) => api.post(`/setlists/${id}/share`, { value }),
+    onSuccess: () => qc.invalidateQueries(['setlists']),
+  })
 
   return (
     <>
@@ -42,11 +46,23 @@ export default function Setlists() {
       <div className="card" style={{ padding: 0 }}>
         {!data?.length && <div className="empty">Nenhum setlist ainda. Crie o primeiro para o próximo show.</div>}
         {data?.map((s) => (
-          <div key={s.id} className="song-row" style={{ gridTemplateColumns: '1fr auto auto' }}>
+          <div key={s.id} className="song-row" style={{ gridTemplateColumns: '1fr auto auto auto' }}>
             <Link to={`/setlists/${s.id}`}>
               <div className="title">{s.nome}</div>
-              <div className="meta">{s.count} música(s)</div>
+              <div className="meta">
+                {s.count} música(s)
+                {!s.is_owner && <span className="chip" style={{ marginLeft: 8 }} title="Você não criou este setlist">de outro usuário</span>}
+              </div>
             </Link>
+            <div>
+              {s.is_owner && (
+                <label className="row" style={{ gap: 6, alignItems: 'center', cursor: 'pointer' }}>
+                  <input type="checkbox" checked={s.shared}
+                    onChange={(e) => toggleShare.mutate({ id: s.id, value: e.target.checked })} />
+                  Compartilhado
+                </label>
+              )}
+            </div>
             <a className="btn" href="#" onClick={async (e) => {
               e.preventDefault()
               const { data: blob } = await api.get(`/setlists/${s.id}/export`, { responseType: 'blob' })
@@ -54,8 +70,12 @@ export default function Setlists() {
               const a = document.createElement('a'); a.href = url; a.download = `${s.id}.txt`; a.click()
               URL.revokeObjectURL(url)
             }}>Exportar</a>
-            <button className="btn danger"
-              onClick={() => confirm('Excluir setlist?') && remove.mutate(s.id)}>Excluir</button>
+            <div>
+              {s.is_owner && (
+                <button className="btn danger"
+                  onClick={() => confirm('Excluir setlist?') && remove.mutate(s.id)}>Excluir</button>
+              )}
+            </div>
           </div>
         ))}
       </div>

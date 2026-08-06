@@ -176,6 +176,72 @@ def test_admin_can_delete_others_song(ctx, other_user_id):
         songs.get("u1", entry["slug"])
 
 
+# ---------- setlists compartilháveis + áudio (Fase 4) ----------
+
+def test_shared_setlist_visible_to_other_user(ctx, other_user_id):
+    songs, setlists, _ = ctx
+    _create(songs)
+    created = setlists.save("u1", "Show", ["Coldplay/Yellow"])
+    got = setlists.get(other_user_id, created["id"])
+    assert got["is_owner"] is False
+    assert got["shared"] is True
+
+
+def test_non_shared_setlist_hidden_from_other_user(ctx, other_user_id):
+    songs, setlists, _ = ctx
+    _create(songs)
+    created = setlists.save("u1", "Show", ["Coldplay/Yellow"])
+    setlists.set_shared("u1", created["id"], False)
+    with pytest.raises(FileNotFoundError):
+        setlists.get(other_user_id, created["id"])
+
+
+def test_non_owner_cannot_save_or_delete_setlist(ctx, other_user_id):
+    songs, setlists, _ = ctx
+    _create(songs)
+    created = setlists.save("u1", "Show", ["Coldplay/Yellow"])
+    with pytest.raises(PermissionError):
+        setlists.save(other_user_id, "Show alterado", ["Coldplay/Yellow"], created["id"])
+    with pytest.raises(PermissionError):
+        setlists.delete(other_user_id, created["id"])
+
+
+def test_non_owner_cannot_toggle_sharing(ctx, other_user_id):
+    songs, setlists, _ = ctx
+    _create(songs)
+    created = setlists.save("u1", "Show", ["Coldplay/Yellow"])
+    with pytest.raises(PermissionError):
+        setlists.set_shared(other_user_id, created["id"], False)
+
+
+def test_non_owner_cannot_upload_audio(ctx, other_user_id):
+    songs, _, audio = ctx
+    entry = _create(songs)
+    with pytest.raises(NotOwner):
+        audio.save_track(other_user_id, entry["slug"], _FakeFile("track.mp3"))
+
+
+def test_delete_removes_song_from_every_users_setlists(ctx, other_user_id):
+    songs, setlists, _ = ctx
+    entry = _create(songs)
+    setlists.save("u1", "Show de u1", ["Coldplay/Yellow"])
+    setlists.save(other_user_id, "Show de u2", ["Coldplay/Yellow"])
+    songs.delete("u1", entry["slug"])
+    for uid, setlist_id in (("u1", "show-de-u1"), (other_user_id, "show-de-u2")):
+        items = setlists.get(uid, setlist_id)["items"]
+        assert all("Yellow" not in i["ref"] for i in items)
+
+
+def test_setlist_ref_resolves_after_title_gets_normalized_suffix(ctx):
+    songs, setlists, _ = ctx
+    entry = _create(songs)
+    created = setlists.save("u1", "Show", ["Coldplay/Yellow"])
+    songs.normalize("u1", entry["slug"])
+    item = setlists.get("u1", created["id"])["items"][0]
+    assert item["song"] is not None
+    assert item["song"]["titulo"] == "Yellow - Coldplay - cifra original"
+
+
 def test_velocity_mapping():
     assert velocity_to_ms(1) == 10000
     assert velocity_to_ms(100) == 500

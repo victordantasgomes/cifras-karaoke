@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import api from '../services/api'
+import { useAuthStore } from '../store/authStore'
 import ChordSheet from '../components/ChordSheet'
 import SyncWorkspace from '../components/SyncWorkspace'
 import { parseBody } from '../utils/lineClassifier'
@@ -62,6 +63,7 @@ export default function SongEditor() {
   const { slug } = useParams()
   const navigate = useNavigate()
   const qc = useQueryClient()
+  const user = useAuthStore((s) => s.user)
   const [header, setHeader] = useState(null)
   const [body, setBody] = useState('')
   const [tab, setTab] = useState('view') // view | edit | versions
@@ -339,6 +341,8 @@ export default function SongEditor() {
 
   if (!data || !header) return <div className="empty">Carregando…</div>
 
+  const isOwner = !data.user_id || data.user_id === user?.id
+
   return (
     <>
       <div className="row no-print" style={{ justifyContent: 'space-between' }}>
@@ -361,11 +365,20 @@ export default function SongEditor() {
           <button className="btn" onClick={() => window.print()}>Imprimir / PDF</button>
           <a className="btn" href={`${api.defaults.baseURL}/songs/${slug}/export`}
             onClick={(e) => { e.preventDefault(); exportTxt(slug, header.titulo) }}>Exportar TXT</a>
-          <button className="btn danger" onClick={() => confirm('Excluir esta música? Ela sairá de todos os setlists.') && remove.mutate()}>
-            Excluir
-          </button>
+          {isOwner && (
+            <button className="btn danger" onClick={() => confirm('Excluir esta música? Ela sairá de todos os setlists.') && remove.mutate()}>
+              Excluir
+            </button>
+          )}
         </div>
       </div>
+
+      {!isOwner && (
+        <div className="card no-print" style={{ marginBottom: 14, padding: '10px 16px', color: 'var(--muted)' }}>
+          Esta música é de outro usuário — editar (incluindo transpor ou normalizar) cria uma
+          cópia sua, o original não é alterado. Enviar áudio/samples e excluir ficam restritos a quem criou.
+        </div>
+      )}
 
       <div className="row no-print" style={{ margin: '14px 0' }}>
         {['view', 'edit', 'audio', 'versions'].map((t) => (
@@ -481,7 +494,7 @@ export default function SongEditor() {
 
       {tab === 'audio' && (
         <AudioTab slug={slug} body={body} markLineTime={markLineTime}
-          header={header} updateHeaderField={updateHeaderField} />
+          header={header} updateHeaderField={updateHeaderField} isOwner={isOwner} />
       )}
 
       {tab === 'versions' && <Versions slug={slug} />}
@@ -554,7 +567,7 @@ function useBandPreview(body, header) {
   return { playing, toggle: playing ? stop : play }
 }
 
-function AudioTab({ slug, body, markLineTime, header, updateHeaderField }) {
+function AudioTab({ slug, body, markLineTime, header, updateHeaderField, isOwner }) {
   const qc = useQueryClient()
   const [trackFile, setTrackFile] = useState(null)
   const [sampleFile, setSampleFile] = useState(null)
@@ -627,22 +640,28 @@ function AudioTab({ slug, body, markLineTime, header, updateHeaderField }) {
         {trackUrl ? (
           <>
             <audio ref={audioRef} controls src={trackUrl} style={{ width: '100%', marginBottom: 10 }} />
-            <button className="btn danger" onClick={() => deleteTrack.mutate()} disabled={deleteTrack.isPending}>
-              Remover faixa
-            </button>
+            {isOwner && (
+              <button className="btn danger" onClick={() => deleteTrack.mutate()} disabled={deleteTrack.isPending}>
+                Remover faixa
+              </button>
+            )}
           </>
         ) : (
           <div className="empty" style={{ padding: '20px 0' }}>
             {loadingTrack ? 'Carregando…' : noTrack ? 'Nenhuma faixa enviada ainda.' : ''}
           </div>
         )}
-        <div className="field" style={{ marginTop: 14 }}>
-          <label>Enviar / substituir faixa (mp3, wav…)</label>
-          <input className="input" type="file" accept="audio/*" onChange={(e) => setTrackFile(e.target.files[0])} />
-        </div>
-        <button className="btn primary" disabled={!trackFile || uploadTrack.isPending} onClick={() => uploadTrack.mutate()}>
-          {uploadTrack.isPending ? 'Enviando…' : 'Enviar faixa'}
-        </button>
+        {isOwner && (
+          <>
+            <div className="field" style={{ marginTop: 14 }}>
+              <label>Enviar / substituir faixa (mp3, wav…)</label>
+              <input className="input" type="file" accept="audio/*" onChange={(e) => setTrackFile(e.target.files[0])} />
+            </div>
+            <button className="btn primary" disabled={!trackFile || uploadTrack.isPending} onClick={() => uploadTrack.mutate()}>
+              {uploadTrack.isPending ? 'Enviando…' : 'Enviar faixa'}
+            </button>
+          </>
+        )}
       </div>
 
       <div className="card" style={{ marginBottom: 16 }}>
@@ -689,24 +708,26 @@ function AudioTab({ slug, body, markLineTime, header, updateHeaderField }) {
         <h3 style={{ marginBottom: 12 }}>Samples / solos</h3>
         {samples && Object.keys(samples).length === 0 && <div className="empty">Nenhum sample enviado.</div>}
         {samples && Object.entries(samples).map(([id, meta]) => (
-          <SampleRow key={id} slug={slug} id={id} nome={meta.nome}
+          <SampleRow key={id} slug={slug} id={id} nome={meta.nome} isOwner={isOwner}
             onDelete={() => deleteSample.mutate(id)} deleting={deleteSample.isPending} />
         ))}
-        <div className="row" style={{ marginTop: 12 }}>
-          <div className="field" style={{ flex: 1 }}>
-            <label>Nome do sample</label>
-            <input className="input" value={sampleNome} onChange={(e) => setSampleNome(e.target.value)}
-              placeholder="ex.: Solo de Guitarra" />
+        {isOwner && (
+          <div className="row" style={{ marginTop: 12 }}>
+            <div className="field" style={{ flex: 1 }}>
+              <label>Nome do sample</label>
+              <input className="input" value={sampleNome} onChange={(e) => setSampleNome(e.target.value)}
+                placeholder="ex.: Solo de Guitarra" />
+            </div>
+            <div className="field" style={{ flex: 1 }}>
+              <label>Arquivo de áudio</label>
+              <input className="input" type="file" accept="audio/*" onChange={(e) => setSampleFile(e.target.files[0])} />
+            </div>
+            <button className="btn primary" disabled={!sampleFile || !sampleNome.trim() || uploadSample.isPending}
+              onClick={() => uploadSample.mutate()}>
+              {uploadSample.isPending ? 'Enviando…' : '+ Sample'}
+            </button>
           </div>
-          <div className="field" style={{ flex: 1 }}>
-            <label>Arquivo de áudio</label>
-            <input className="input" type="file" accept="audio/*" onChange={(e) => setSampleFile(e.target.files[0])} />
-          </div>
-          <button className="btn primary" disabled={!sampleFile || !sampleNome.trim() || uploadSample.isPending}
-            onClick={() => uploadSample.mutate()}>
-            {uploadSample.isPending ? 'Enviando…' : '+ Sample'}
-          </button>
-        </div>
+        )}
         <div className="page-sub" style={{ marginTop: 10 }}>
           Use o botão 🔊 Sample na aba Editar para inserir <code>[@sample] nome</code> na
           cifra no ponto certo — ele só dispara sozinho no karaokê se essa linha
@@ -717,7 +738,7 @@ function AudioTab({ slug, body, markLineTime, header, updateHeaderField }) {
   )
 }
 
-function SampleRow({ slug, id, nome, onDelete, deleting }) {
+function SampleRow({ slug, id, nome, onDelete, deleting, isOwner }) {
   const { data: blob } = useQuery({
     queryKey: ['sample-audio-blob', slug, id],
     queryFn: () => api.get(`/songs/${slug}/samples/${id}`, { responseType: 'blob' }).then((r) => r.data),
@@ -736,7 +757,7 @@ function SampleRow({ slug, id, nome, onDelete, deleting }) {
     <div className="row" style={{ marginBottom: 8, alignItems: 'center' }}>
       <span style={{ minWidth: 160 }}>{nome}</span>
       {url && <audio controls src={url} style={{ height: 32, flex: 1 }} />}
-      <button className="btn danger" onClick={onDelete} disabled={deleting}>Excluir</button>
+      {isOwner && <button className="btn danger" onClick={onDelete} disabled={deleting}>Excluir</button>}
     </div>
   )
 }

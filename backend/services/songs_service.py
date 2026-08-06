@@ -263,7 +263,7 @@ class SongsService:
         with db.get_pool().connection() as conn:
             conn.execute("delete from songs where id=%s", (row["id"],))
         if self.setlists:
-            self.setlists.remove_song_everywhere(user_id, row["interprete"], row["titulo"])
+            self.setlists.remove_song_everywhere(row["interprete"], row["titulo"])
 
     # ---------- transposição ----------
     def transpose(self, user_id: str, slug: str, *, semitones: int | None = None,

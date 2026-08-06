@@ -75,21 +75,29 @@ export default function SetlistDetail() {
 
   if (!data) return <div className="empty">Carregando…</div>
 
+  const isOwner = data.is_owner
   let playableIndex = -1
 
   return (
     <>
       <div className="row no-print" style={{ justifyContent: 'space-between' }}>
         <div>
-          <input className="input" style={{ fontSize: 22, fontWeight: 700, background: 'transparent', border: 'none', padding: 0 }}
-            value={nome} title="Clique para renomear"
-            onChange={(e) => setNome(e.target.value)}
-            onBlur={() => { if (nome.trim()) save.mutate(items); else setNome(data.nome) }}
-            onKeyDown={(e) => {
-              if (e.key === 'Enter') e.target.blur()
-              else if (e.key === 'Escape') { setNome(data.nome); e.target.blur() }
-            }} />
-          <div className="page-sub">{items.length} música(s) · arraste ou use ▲▼ para reordenar</div>
+          {isOwner ? (
+            <input className="input" style={{ fontSize: 22, fontWeight: 700, background: 'transparent', border: 'none', padding: 0 }}
+              value={nome} title="Clique para renomear"
+              onChange={(e) => setNome(e.target.value)}
+              onBlur={() => { if (nome.trim()) save.mutate(items); else setNome(data.nome) }}
+              onKeyDown={(e) => {
+                if (e.key === 'Enter') e.target.blur()
+                else if (e.key === 'Escape') { setNome(data.nome); e.target.blur() }
+              }} />
+          ) : (
+            <div className="page-title" style={{ fontSize: 22 }}>{nome}</div>
+          )}
+          <div className="page-sub">
+            {items.length} música(s)
+            {isOwner ? ' · arraste ou use ▲▼ para reordenar' : ' · de outro usuário — somente leitura'}
+          </div>
         </div>
         <button className="btn" onClick={() => window.print()}>Imprimir</button>
       </div>
@@ -109,20 +117,22 @@ export default function SetlistDetail() {
         )}
       </div>
 
-      <div className="card no-print" style={{ marginBottom: 16 }}>
-        <input className="input" placeholder="Buscar música para adicionar…" value={q}
-          onChange={(e) => setQ(e.target.value)} />
-        {dq.length >= 2 && results?.items.length === 0 && (
-          <div className="empty" style={{ padding: '16px 0' }}>Nenhuma música encontrada para "{dq}".</div>
-        )}
-        {results?.items.map((s) => (
-          <div key={s.slug} className="song-row" style={{ gridTemplateColumns: '1fr auto' }}
-            onClick={() => addSong(s)}>
-            <div><span className="title">{s.titulo}</span> <span className="meta">— {s.interprete}</span></div>
-            <span className="chip">adicionar</span>
-          </div>
-        ))}
-      </div>
+      {isOwner && (
+        <div className="card no-print" style={{ marginBottom: 16 }}>
+          <input className="input" placeholder="Buscar música para adicionar…" value={q}
+            onChange={(e) => setQ(e.target.value)} />
+          {dq.length >= 2 && results?.items.length === 0 && (
+            <div className="empty" style={{ padding: '16px 0' }}>Nenhuma música encontrada para "{dq}".</div>
+          )}
+          {results?.items.map((s) => (
+            <div key={s.slug} className="song-row" style={{ gridTemplateColumns: '1fr auto' }}
+              onClick={() => addSong(s)}>
+              <div><span className="title">{s.titulo}</span> <span className="meta">— {s.interprete}</span></div>
+              <span className="chip">adicionar</span>
+            </div>
+          ))}
+        </div>
+      )}
 
       <div className="card" style={{ padding: 0 }}>
         {items.length === 0 && <div className="empty">Setlist vazio. Busque músicas acima para montar o repertório.</div>}
@@ -130,19 +140,23 @@ export default function SetlistDetail() {
           if (item.song) playableIndex += 1
           const myPlayableIndex = playableIndex
           return (
-            <div key={item.ref + i} className="song-row" draggable
-              style={{ gridTemplateColumns: '46px 1fr auto auto', opacity: dragIdx === i ? 0.4 : 1, cursor: 'grab' }}
-              onDragStart={() => setDragIdx(i)}
-              onDragOver={(e) => e.preventDefault()}
-              onDrop={() => onDrop(i)}
+            <div key={item.ref + i} className="song-row" draggable={isOwner}
+              style={{ gridTemplateColumns: '46px 1fr auto auto', opacity: dragIdx === i ? 0.4 : 1, cursor: isOwner ? 'grab' : 'default' }}
+              onDragStart={() => isOwner && setDragIdx(i)}
+              onDragOver={(e) => isOwner && e.preventDefault()}
+              onDrop={() => isOwner && onDrop(i)}
               onDragEnd={() => setDragIdx(null)}>
               <div className="row no-print" style={{ flexDirection: 'column', gap: 2, flexWrap: 'nowrap' }}>
-                <button type="button" className="btn ghost" style={{ padding: '1px 6px', fontSize: 11, lineHeight: 1.4 }}
-                  disabled={i === 0} title="Mover para cima"
-                  onClick={(e) => { e.stopPropagation(); moveItem(i, i - 1) }}>▲</button>
-                <button type="button" className="btn ghost" style={{ padding: '1px 6px', fontSize: 11, lineHeight: 1.4 }}
-                  disabled={i === items.length - 1} title="Mover para baixo"
-                  onClick={(e) => { e.stopPropagation(); moveItem(i, i + 1) }}>▼</button>
+                {isOwner && (
+                  <>
+                    <button type="button" className="btn ghost" style={{ padding: '1px 6px', fontSize: 11, lineHeight: 1.4 }}
+                      disabled={i === 0} title="Mover para cima"
+                      onClick={(e) => { e.stopPropagation(); moveItem(i, i - 1) }}>▲</button>
+                    <button type="button" className="btn ghost" style={{ padding: '1px 6px', fontSize: 11, lineHeight: 1.4 }}
+                      disabled={i === items.length - 1} title="Mover para baixo"
+                      onClick={(e) => { e.stopPropagation(); moveItem(i, i + 1) }}>▼</button>
+                  </>
+                )}
               </div>
               <div>
                 <div className="title">{i + 1}. {item.song?.titulo || item.ref}</div>
@@ -154,7 +168,7 @@ export default function SetlistDetail() {
               {item.song && (
                 <button className="btn" onClick={() => playFrom(myPlayableIndex)} title="Tocar a playlist a partir daqui">▶</button>
               )}
-              <button className="btn danger no-print" onClick={() => removeAt(i)}>×</button>
+              {isOwner && <button className="btn danger no-print" onClick={() => removeAt(i)}>×</button>}
             </div>
           )
         })}
