@@ -43,6 +43,25 @@ def build_blueprint(ctx) -> Blueprint:
             return jsonify({"error": str(e)}), 400
         return jsonify(user), 201
 
+    @api.delete("/admin/users/<user_id>")
+    @ctx.require_admin
+    def admin_delete_user(user_id):
+        try:
+            ctx.auth.delete_user(user_id, g.user_id)
+        except AuthError as e:
+            return jsonify({"error": str(e)}), 400
+        return "", 204
+
+    @api.post("/admin/users/<user_id>/reset-password")
+    @ctx.require_admin
+    def admin_reset_password(user_id):
+        d = request.get_json(force=True)
+        try:
+            ctx.auth.reset_password(user_id, d.get("password", ""))
+        except AuthError as e:
+            return jsonify({"error": str(e)}), 400
+        return "", 204
+
     @api.get("/admin/songs/normalize-status")
     @ctx.require_admin
     def admin_normalize_status():

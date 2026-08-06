@@ -90,3 +90,91 @@ def test_list_users_includes_is_admin(auth):
     by_username = {u["username"]: u for u in users}
     assert by_username["comum"]["is_admin"] is False
     assert by_username["chefe"]["is_admin"] is True
+
+
+def test_login_increments_count_and_sets_last_login(auth):
+    user = auth.register("demo", "demo123")
+    users = auth.list_users()
+    assert users[0]["login_count"] == 0 and users[0]["last_login_at"] is None
+
+    auth.login("demo", "demo123")
+    auth.login("demo", "demo123")
+    users = auth.list_users()
+    assert users[0]["login_count"] == 2
+    assert users[0]["last_login_at"] is not None
+    assert users[0]["id"] == user["id"]
+
+
+def test_failed_login_does_not_increment_count(auth):
+    auth.register("demo", "demo123")
+    with pytest.raises(AuthError):
+        auth.login("demo", "senhaerrada")
+    assert auth.list_users()[0]["login_count"] == 0
+
+
+def test_list_users_includes_setlists_and_favorites_count(auth):
+    from services.setlist_service import SetlistService
+    from services.songs_service import SongsService
+
+    user = auth.register("demo", "demo123")
+    songs = SongsService()
+    setlists = SetlistService()
+    entry = songs.create(user["id"], "Pop", "Coldplay", "Yellow", "@titulo: Yellow\n\nB\nletra")
+    songs.set_favorite(user["id"], entry["slug"], True)
+    setlists.save(user["id"], "Show", [])
+
+    row = auth.list_users()[0]
+    assert row["setlists_count"] == 1
+    assert row["favorites_count"] == 1
+
+
+def test_cannot_delete_own_account(auth):
+    user = auth.register("demo", "demo123")
+    with pytest.raises(AuthError):
+        auth.delete_user(user["id"], user["id"])
+
+
+def test_cannot_delete_last_admin(auth):
+    admin = auth.register("chefe", "senha123", is_admin=True)
+    other = auth.register("comum", "senha123")
+    with pytest.raises(AuthError):
+        auth.delete_user(admin["id"], other["id"])
+
+
+def test_can_delete_admin_when_another_admin_remains(auth):
+    admin1 = auth.register("chefe1", "senha123", is_admin=True)
+    admin2 = auth.register("chefe2", "senha123", is_admin=True)
+    auth.delete_user(admin1["id"], admin2["id"])
+    assert admin1["username"] not in {u["username"] for u in auth.list_users()}
+
+
+def test_delete_user_removes_regular_user(auth):
+    admin = auth.register("chefe", "senha123", is_admin=True)
+    user = auth.register("comum", "senha123")
+    auth.delete_user(user["id"], admin["id"])
+    assert user["username"] not in {u["username"] for u in auth.list_users()}
+
+
+def test_delete_unknown_user_is_idempotent(auth):
+    admin = auth.register("chefe", "senha123", is_admin=True)
+    auth.delete_user("nao-existe", admin["id"])  # não levanta
+
+
+def test_reset_password_updates_login(auth):
+    user = auth.register("demo", "demo123")
+    auth.reset_password(user["id"], "novasenha123")
+    result = auth.login("demo", "novasenha123")
+    assert result["user"]["id"] == user["id"]
+    with pytest.raises(AuthError):
+        auth.login("demo", "demo123")
+
+
+def test_reset_password_rejects_short_password(auth):
+    user = auth.register("demo", "demo123")
+    with pytest.raises(AuthError):
+        auth.reset_password(user["id"], "123")
+
+
+def test_reset_password_unknown_user_raises(auth):
+    with pytest.raises(AuthError):
+        auth.reset_password("nao-existe", "senhaboa123")

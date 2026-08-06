@@ -2,6 +2,7 @@ import pytest
 
 import db
 from services.audio_service import AudioService
+from services.auth_service import AuthService
 from services.search_service import SearchService
 from services.setlist_service import SetlistService
 from services.songs_service import NotOwner, SongNotFound, SongsService
@@ -111,6 +112,34 @@ def test_normalize_creates_history_version(ctx):
     # a versão arquivada é o estado PRÉ-normalização (título ainda sem sufixo)
     # — restaurar essa versão é o "desfazer" da normalização, sem mecanismo novo.
     assert version["header"]["titulo"] == "Yellow"
+
+
+def test_deleting_user_preserves_their_songs_and_setlists(ctx, other_user_id):
+    songs, setlists, _ = ctx
+    entry = _create(songs)
+    created = setlists.save("u1", "Show", [])
+    AuthService().delete_user("u1", other_user_id)
+
+    data = songs.get(other_user_id, entry["slug"])
+    assert data["user_id"] is None and data["titulo"] == "Yellow"
+    # setlist sobrevive (shared=true por padrão) e vira órfão — is_owner=true
+    # pra QUALQUER usuário (mesma lógica de música órfã em SongsService),
+    # senão ninguém nunca mais conseguiria editar/excluir/compartilhar
+    remaining_setlist = setlists.get(other_user_id, created["id"])
+    assert remaining_setlist["is_owner"] is True
+
+
+def test_orphaned_setlist_is_manageable_by_anyone(ctx, other_user_id):
+    songs, setlists, _ = ctx
+    created = setlists.save("u1", "Show", [])
+    AuthService().delete_user("u1", other_user_id)
+
+    setlists.set_shared(other_user_id, created["id"], False)
+    saved = setlists.save(other_user_id, "Show renomeado", [], created["id"])
+    assert saved["nome"] == "Show renomeado"
+    setlists.delete(other_user_id, created["id"])
+    with pytest.raises(FileNotFoundError):
+        setlists.get(other_user_id, created["id"])
 
 
 def test_normalize_status_counts_pending(ctx):
