@@ -106,7 +106,9 @@ def test_facets(ctx):
     assert set(facets["tags"]) == {"adoracao", "classico", "nacional", "romantica", "rock"}
 
 
-def test_facets_isolated_per_user(ctx):
+def test_facets_are_global_not_per_user(ctx):
+    """Biblioteca global: facetas cobrem o acervo inteiro, não só as músicas
+    que o usuário logado criou — antes disso ficava isolado por usuário."""
     songs, search = ctx
     with_extra_user = SongsService()
     import db
@@ -114,4 +116,27 @@ def test_facets_isolated_per_user(ctx):
         conn.execute("insert into users (id, username, name, password_hash) values ('u2','o2','O2','x')")
     with_extra_user.create("u2", "Jazz", "Miles Davis", "So What", "@titulo: So What\n\ncorpo")
     facets = search.facets("u1")
-    assert "Jazz" not in facets["generos"]
+    assert "Jazz" in facets["generos"]
+
+
+def test_search_is_global_by_default(ctx, other_user_id):
+    songs, search = ctx
+    songs.create(other_user_id, "Jazz", "Miles Davis", "So What", "@titulo: So What\n\ncorpo")
+    page = search.search("u1")
+    assert "So What" in [i["titulo"] for i in page["items"]]
+
+
+def test_only_mine_filters_to_own_songs(ctx, other_user_id):
+    songs, search = ctx
+    songs.create(other_user_id, "Jazz", "Miles Davis", "So What", "@titulo: So What\n\ncorpo")
+    page = search.search("u1", only_mine=True)
+    assert "So What" not in [i["titulo"] for i in page["items"]]
+    assert page["total"] == len(DEMO_SONGS)
+
+
+def test_favorita_is_per_user_in_search_results(ctx, other_user_id):
+    _, search = ctx
+    # u1 favoritou Bohemian Rhapsody (na fixture) — u2 não vê como favorita
+    page = search.search(other_user_id)
+    item = next(i for i in page["items"] if i["titulo"] == "Bohemian Rhapsody")
+    assert item["favorita"] is False

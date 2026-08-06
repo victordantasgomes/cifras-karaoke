@@ -4,7 +4,7 @@ from __future__ import annotations
 from flask import Blueprint, Response, g, jsonify, request
 
 from services.auth_service import AuthError
-from services.songs_service import SongNotFound
+from services.songs_service import NotOwner, SongNotFound
 
 
 def build_blueprint(ctx) -> Blueprint:
@@ -53,6 +53,7 @@ def build_blueprint(ctx) -> Blueprint:
             interprete=a.get("interprete", ""), tom=a.get("tom", ""),
             ritmo=a.get("ritmo", ""), tag=a.get("tag", ""),
             favoritas=a.get("favoritas") == "1",
+            only_mine=a.get("only_mine") == "1",
             page=a.get("page", 1, type=int),
             page_size=a.get("page_size", 50, type=int),
             sort=a.get("sort", "titulo"),
@@ -93,7 +94,9 @@ def build_blueprint(ctx) -> Blueprint:
     def update_song(slug):
         d = request.get_json(force=True)
         try:
-            return jsonify(ctx.songs.update(g.user_id, slug, d.get("header", {}), d.get("body", "")))
+            return jsonify(ctx.songs.update(
+                g.user_id, slug, d.get("header", {}), d.get("body", ""), editor_name=g.name,
+            ))
         except SongNotFound:
             return jsonify({"error": "Música não encontrada."}), 404
 
@@ -101,9 +104,11 @@ def build_blueprint(ctx) -> Blueprint:
     @protected
     def delete_song(slug):
         try:
-            ctx.songs.delete(g.user_id, slug)
+            ctx.songs.delete(g.user_id, slug, is_admin=g.is_admin)
         except SongNotFound:
             return jsonify({"error": "Música não encontrada."}), 404
+        except NotOwner:
+            return jsonify({"error": "Só quem criou esta música (ou um admin) pode excluí-la."}), 403
         return "", 204
 
     @api.post("/songs/<slug>/favorite")
@@ -128,9 +133,18 @@ def build_blueprint(ctx) -> Blueprint:
                 semitones=d.get("semitones"),
                 to_key=d.get("to_key"),
                 save=bool(d.get("save")),
+                editor_name=g.name,
             ))
         except ValueError as e:
             return jsonify({"error": str(e)}), 400
+
+    @api.post("/songs/<slug>/normalize")
+    @protected
+    def normalize_song_route(slug):
+        try:
+            return jsonify(ctx.songs.normalize(g.user_id, slug, editor_name=g.name))
+        except SongNotFound:
+            return jsonify({"error": "Música não encontrada."}), 404
 
     @api.get("/songs/<slug>/export")
     @protected

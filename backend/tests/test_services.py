@@ -4,7 +4,7 @@ import db
 from services.audio_service import AudioService
 from services.search_service import SearchService
 from services.setlist_service import SetlistService
-from services.songs_service import SongsService
+from services.songs_service import NotOwner, SongNotFound, SongsService
 from services.karaoke_service import KaraokeService, velocity_to_ms
 
 
@@ -89,6 +89,91 @@ def test_transpose_updates_key(ctx):
     entry = _create(songs)
     result = songs.transpose("u1", entry["slug"], semitones=2)
     assert result["tom"] == "C#"
+
+
+def test_normalize_sets_flags_and_renames_title(ctx):
+    songs, _, _ = ctx
+    entry = _create(songs)
+    result = songs.normalize("u1", entry["slug"])
+    assert result["normalizada"] is True
+    assert result["titulo"] == "Yellow - Coldplay - cifra original"
+
+
+def test_normalize_creates_history_version(ctx):
+    songs, _, _ = ctx
+    entry = _create(songs)
+    songs.normalize("u1", entry["slug"])
+    song_id = songs.get_id("u1", "pop--coldplay--yellow---coldplay---cifra-original")
+    with db.get_pool().connection() as conn:
+        version = conn.execute(
+            "select header from song_versions where song_id=%s", (song_id,),
+        ).fetchone()
+    # a versão arquivada é o estado PRÉ-normalização (título ainda sem sufixo)
+    # — restaurar essa versão é o "desfazer" da normalização, sem mecanismo novo.
+    assert version["header"]["titulo"] == "Yellow"
+
+
+# ---------- biblioteca global (Fase 3) ----------
+
+def test_song_visible_to_other_user(ctx, other_user_id):
+    songs, _, _ = ctx
+    entry = _create(songs)
+    # u1 criou, mas u2 já consegue ler — biblioteca é compartilhada
+    data = songs.get(other_user_id, entry["slug"])
+    assert data["titulo"] == "Yellow"
+
+
+def test_editing_someone_elses_song_clones_it(ctx, other_user_id):
+    songs, _, _ = ctx
+    entry = _create(songs)
+    original = songs.get("u1", entry["slug"])
+
+    edited_header = dict(original["header"])
+    edited_header["nota"] = "9"
+    clone = songs.update(other_user_id, entry["slug"], edited_header, "corpo editado", editor_name="Outro")
+
+    assert clone["slug"] != entry["slug"]
+    assert "cifra editada por: Outro" in clone["titulo"]
+    assert clone["user_id"] == other_user_id
+
+    # o original continua exatamente como estava, dono nenhum mudou
+    still_original = songs.get("u1", entry["slug"])
+    assert still_original["titulo"] == "Yellow"
+    assert still_original["body"] != "corpo editado"
+
+
+def test_owner_editing_own_song_mutates_in_place(ctx):
+    songs, _, _ = ctx
+    entry = _create(songs)
+    result = songs.update("u1", entry["slug"], songs.get("u1", entry["slug"])["header"], "corpo novo")
+    # dono edita: mesma música (slug pode mudar por causa do título/gênero,
+    # mas não é uma linha nova — sem sufixo "cifra editada por")
+    assert "cifra editada por" not in result["titulo"]
+
+
+def test_favoriting_someone_elses_song_does_not_clone(ctx, other_user_id):
+    songs, _, _ = ctx
+    entry = _create(songs)
+    result = songs.set_favorite(other_user_id, entry["slug"], True)
+    assert result["slug"] == entry["slug"]
+    assert result["favorita"] is True
+    # dono (u1) não vê a música como favorita — preferência é por usuário
+    assert songs.get("u1", entry["slug"])["favorita"] is False
+
+
+def test_non_owner_cannot_delete_song(ctx, other_user_id):
+    songs, _, _ = ctx
+    entry = _create(songs)
+    with pytest.raises(NotOwner):
+        songs.delete(other_user_id, entry["slug"])
+
+
+def test_admin_can_delete_others_song(ctx, other_user_id):
+    songs, _, _ = ctx
+    entry = _create(songs)
+    songs.delete(other_user_id, entry["slug"], is_admin=True)
+    with pytest.raises(SongNotFound):
+        songs.get("u1", entry["slug"])
 
 
 def test_velocity_mapping():

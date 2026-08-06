@@ -32,8 +32,8 @@ from dataclasses import dataclass, field
 from typing import Optional
 
 HEADER_FIELDS = [
-    "titulo", "autor", "intérprete", "tom", "velocidade",
-    "ritmomusical", "introdução", "tags", "nota", "favorita",
+    "titulo", "autor", "intérprete", "tom", "tom_original", "tom_da_cifra", "velocidade",
+    "ritmomusical", "introdução", "tags", "nota", "favorita", "normalizada",
     "bpm", "bateria", "guitarra", "baixo", "teclado",
     "modoexecucao", "tempoexecucao",
 ]

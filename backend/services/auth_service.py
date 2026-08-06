@@ -49,7 +49,7 @@ class AuthService:
             ).fetchone()
         if not record or not check_password_hash(record["password_hash"], password):
             raise AuthError("Usuário ou senha inválidos.")
-        token = self.issue_token(record["id"], record["username"], record["is_admin"])
+        token = self.issue_token(record["id"], record["username"], record["is_admin"], record["name"])
         return {
             "token": token,
             "user": {
@@ -66,11 +66,12 @@ class AuthService:
             ).fetchall()
         return [dict(r) for r in rows]
 
-    def issue_token(self, user_id: str, username: str, is_admin: bool = False) -> str:
+    def issue_token(self, user_id: str, username: str, is_admin: bool = False, name: str = "") -> str:
         payload = {
             "sub": user_id,
             "username": username,
             "is_admin": is_admin,
+            "name": name,  # usado pro sufixo "cifra editada por: <name>" — ver songs_service.py
             "iat": datetime.now(timezone.utc),
             "exp": datetime.now(timezone.utc) + timedelta(hours=Config.JWT_HOURS),
         }
