@@ -13,7 +13,7 @@ from pathlib import Path
 
 import db
 from services import blob_client
-from services.songs_service import SongNotFound
+from services.songs_service import NotOwner, SongNotFound
 from utils.slug import slugify
 
 
@@ -27,9 +27,18 @@ class AudioService:
             raise SongNotFound(slug)
         return song_id
 
+    def _require_owned_song_id(self, user_id: str, slug: str) -> str:
+        """Igual _require_song_id, mas pras escritas (upload/exclusão) —
+        leitura de áudio é global (a música é), mas só o criador (ou admin,
+        checado na rota) pode mexer no áudio de uma música que não é sua."""
+        song_id = self._require_song_id(user_id, slug)
+        if not self.songs.is_owner(user_id, slug):
+            raise NotOwner(slug)
+        return song_id
+
     # ---------- faixa de referência ----------
     def save_track(self, user_id: str, slug: str, file_storage) -> None:
-        song_id = self._require_song_id(user_id, slug)
+        song_id = self._require_owned_song_id(user_id, slug)
         ext = Path(file_storage.filename or "").suffix.lower() or ".mp3"
         content_type = file_storage.mimetype or None
         blob = blob_client.put(f"audio/{user_id}/{slug}/track{ext}", file_storage.read(), content_type)
@@ -45,6 +54,8 @@ class AudioService:
         song_id = self.songs.get_id(user_id, slug)
         if not song_id:
             return
+        if not self.songs.is_owner(user_id, slug):
+            raise NotOwner(slug)
         with db.get_pool().connection() as conn:
             row = conn.execute("select blob_url from audio_tracks where song_id=%s", (song_id,)).fetchone()
             if row:
@@ -68,7 +79,7 @@ class AudioService:
 
     # ---------- samples ----------
     def save_sample(self, user_id: str, slug: str, file_storage, nome: str) -> dict:
-        song_id = self._require_song_id(user_id, slug)
+        song_id = self._require_owned_song_id(user_id, slug)
         nome = (nome or "").strip()
         sample_id = slugify(nome)
         if not sample_id:
@@ -111,6 +122,8 @@ class AudioService:
         song_id = self.songs.get_id(user_id, slug)
         if not song_id:
             return
+        if not self.songs.is_owner(user_id, slug):
+            raise NotOwner(slug)
         with db.get_pool().connection() as conn:
             row = conn.execute(
                 "select blob_url from samples where song_id=%s and sample_id=%s", (song_id, sample_id),
