@@ -2,21 +2,27 @@ import { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query'
 import api from '../services/api'
+import { useAuthStore } from '../store/authStore'
 import { useDebounce } from '../hooks/useDebounce'
 import VirtualList from '../components/VirtualList'
 
 export default function Songs({ favoritesOnly = false }) {
   const [q, setQ] = useState('')
   const [filters, setFilters] = useState({ genero: '', interprete: '', tom: '' })
+  const [onlyMine, setOnlyMine] = useState(false)
   const [page, setPage] = useState(1)
   const [showUpload, setShowUpload] = useState(false)
   const debouncedQ = useDebounce(q)
   const navigate = useNavigate()
+  const user = useAuthStore((s) => s.user)
 
   const { data } = useQuery({
-    queryKey: ['songs', debouncedQ, filters, page, favoritesOnly],
+    queryKey: ['songs', debouncedQ, filters, onlyMine, page, favoritesOnly],
     queryFn: () => api.get('/songs', {
-      params: { q: debouncedQ, ...filters, page, page_size: 200, favoritas: favoritesOnly ? 1 : 0 },
+      params: {
+        q: debouncedQ, ...filters, page, page_size: 200,
+        favoritas: favoritesOnly ? 1 : 0, only_mine: onlyMine ? 1 : 0,
+      },
     }).then((r) => r.data),
     keepPreviousData: true,
   })
@@ -28,8 +34,11 @@ export default function Songs({ favoritesOnly = false }) {
     <>
       <div className="row no-print" style={{ justifyContent: 'space-between' }}>
         <div>
-          <h1 className="page-title">{favoritesOnly ? 'Favoritas' : 'Minhas músicas'}</h1>
-          <div className="page-sub">{data ? `${data.total} música(s)` : '…'}</div>
+          <h1 className="page-title">{favoritesOnly ? 'Favoritas' : 'Biblioteca'}</h1>
+          <div className="page-sub">
+            {data ? `${data.total} música(s)` : '…'}
+            {!favoritesOnly && ' · de todos os usuários'}
+          </div>
         </div>
         {!favoritesOnly && (
           <button className="btn primary" onClick={() => setShowUpload(!showUpload)}>+ Nova música</button>
@@ -56,6 +65,13 @@ export default function Songs({ favoritesOnly = false }) {
           <option value="">Tom</option>
           {facets?.tons.map((g) => <option key={g}>{g}</option>)}
         </select>
+        {!favoritesOnly && (
+          <label className="row" style={{ gap: 6, alignItems: 'center', cursor: 'pointer' }}>
+            <input type="checkbox" checked={onlyMine}
+              onChange={(e) => { setOnlyMine(e.target.checked); setPage(1) }} />
+            Somente minhas
+          </label>
+        )}
       </div>
 
       <div className="card" style={{ padding: 0 }}>
@@ -67,7 +83,10 @@ export default function Songs({ favoritesOnly = false }) {
                 onClick={() => navigate(`/musicas/${s.slug}`)}>
                 <div>
                   <div className="title">{s.favorita && <span className="fav-star">★ </span>}{s.titulo}</div>
-                  <div className="meta">{s.interprete}</div>
+                  <div className="meta">
+                    {s.interprete}
+                    {s.user_id && s.user_id !== user?.id && <span className="chip" style={{ marginLeft: 8 }} title="Você não criou esta música">de outro usuário</span>}
+                  </div>
                 </div>
                 <div className="meta hide-sm">{s.genero}</div>
                 <div className="meta hide-sm">{s.tags.slice(0, 2).join(', ')}</div>

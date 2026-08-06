@@ -22,7 +22,7 @@ from config import Config
 from services import blob_client
 
 _TABLES = (
-    "setlist_items", "setlists", "samples", "audio_tracks",
+    "setlist_items", "setlists", "samples", "audio_tracks", "user_song_prefs",
     "song_plays", "song_versions", "songs", "settings", "users",
 )
 
@@ -66,6 +66,17 @@ def user_id():
             "insert into users (id, username, name, password_hash) values ('u1', 'demo', 'Demo', 'x')",
         )
     return "u1"
+
+
+@pytest.fixture
+def other_user_id():
+    """Segundo usuário ('u2') — biblioteca global: vários testes precisam
+    de duas contas pra verificar visibilidade cruzada/clone-ao-editar."""
+    with db.get_pool().connection() as conn:
+        conn.execute(
+            "insert into users (id, username, name, password_hash) values ('u2', 'outro', 'Outro', 'x')",
+        )
+    return "u2"
 
 
 @pytest.fixture

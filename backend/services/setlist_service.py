@@ -1,15 +1,22 @@
 """Setlists — sequência de referências 'Intérprete/Título' resolvidas contra
-as músicas do usuário na leitura (`setlist_items.ref` guarda o texto cru,
+a biblioteca de músicas na leitura (`setlist_items.ref` guarda o texto cru,
 igual ao formato TXT de sempre — ver export_txt/import_txt).
 
 Identidade: `setlists.slug` é definido na criação (a partir do nome) e NUNCA
 recalculado — diferente de `songs.slug`. Renomear um setlist não muda a URL,
 mesmo comportamento de sempre (o arquivo .txt nunca era renomeado ao editar
-o @nome interno)."""
+o @nome interno).
+
+Compartilhamento: `shared` (default true) controla se OUTROS usuários
+enxergam/tocam o setlist — quem não é dono só tem leitura (ver/tocar); криar,
+renomear, reordenar, excluir e alternar o compartilhamento continuam
+restritos ao dono (levanta `PermissionError`, não silenciosamente cria outro
+setlist como acontecia antes)."""
 from __future__ import annotations
 
 import db
 from utils.slug import slugify
+from utils.song_title import strip_title_suffix
 
 
 def _unique_setlist_slug(conn, user_id: str, base_slug: str) -> str:
@@ -22,17 +29,16 @@ def _unique_setlist_slug(conn, user_id: str, base_slug: str) -> str:
 
 
 class SetlistService:
-    def _resolve_many(self, user_id: str, refs: list[str]) -> list[dict | None]:
-        """Resolve várias refs 'Artista/Título' contra as músicas do usuário.
+    def _resolve_many(self, refs: list[str]) -> list[dict | None]:
+        """Resolve várias refs 'Artista/Título' contra a biblioteca inteira
+        (biblioteca global — não filtra mais por dono do setlist).
 
-        Antes buscava a tabela `songs` inteira do usuário e comparava
-        slugify() em Python por cima — com um acervo grande isso virou o
-        gargalo real (~1 min pra abrir um setlist de 30 itens). Agora cada
-        ref busca um conjunto pequeno de candidatos pelo índice trigram de
-        `titulo` (mesma ideia do SearchService) e só entre esses a
+        Cada ref busca um conjunto pequeno de candidatos pelo índice trigram
+        de `titulo` (mesma ideia do SearchService) e só entre esses a
         comparação exata por slugify(interprete, titulo) decide o match —
-        o critério de match não muda, só deixa de escanear o acervo
-        inteiro a cada ref."""
+        `strip_title_suffix` porque títulos normalizados/clonados ganham um
+        sufixo ("... - cifra original"/"... - cifra editada por: X") que uma
+        ref escrita antes disso não tem."""
         out: list[dict | None] = []
         with db.get_pool().connection() as conn:
             # operador "%" do pg_trgm (não a função similarity()) é o que o
@@ -47,14 +53,15 @@ class SetlistService:
                 candidates = conn.execute(
                     """select slug, titulo, autor, interprete, genero, tom, tags, velocidade,
                               nota, favorita, ritmo from songs
-                       where user_id=%(user_id)s and (titulo ILIKE %(title_like)s OR titulo %% %(title)s)
+                       where titulo ILIKE %(title_like)s OR titulo %% %(title)s
                        order by similarity(titulo, %(title)s) desc
                        limit 20""",
-                    {"user_id": user_id, "title": title, "title_like": f"%{title}%"},
+                    {"title": title, "title_like": f"%{title}%"},
                 ).fetchall()
                 target = (slugify(artist), slugify(title))
                 match = next(
-                    (dict(c) for c in candidates if (slugify(c["interprete"]), slugify(c["titulo"])) == target),
+                    (dict(c) for c in candidates
+                     if (slugify(c["interprete"]), slugify(strip_title_suffix(c["titulo"]))) == target),
                     None,
                 )
                 out.append(match)
@@ -62,40 +69,56 @@ class SetlistService:
 
     # ---------- API ----------
     def list(self, user_id: str) -> list[dict]:
+        """Setlists do usuário + de qualquer outra pessoa que estejam
+        `shared=true` (biblioteca global de setlists, com privacidade
+        opcional por setlist)."""
         with db.get_pool().connection() as conn:
             rows = conn.execute(
-                """select s.slug, s.nome, count(i.id) as count
+                """select s.slug, s.nome, s.user_id, s.shared, count(i.id) as count
                    from setlists s left join setlist_items i on i.setlist_id = s.id
-                   where s.user_id=%s group by s.id, s.slug, s.nome, s.created_at
+                   where s.user_id = %(user_id)s or s.shared = true or s.user_id is null
+                   group by s.id, s.slug, s.nome, s.user_id, s.shared, s.created_at
                    order by s.created_at""",
-                (user_id,),
+                {"user_id": user_id},
             ).fetchall()
-        return [{"id": r["slug"], "nome": r["nome"], "count": r["count"]} for r in rows]
+        return [
+            {"id": r["slug"], "nome": r["nome"], "count": r["count"],
+             "is_owner": r["user_id"] is None or r["user_id"] == user_id, "shared": r["shared"]}
+            for r in rows
+        ]
 
     def get(self, user_id: str, setlist_id: str) -> dict:
         with db.get_pool().connection() as conn:
             row = conn.execute(
-                "select id, slug, nome from setlists where user_id=%s and slug=%s", (user_id, setlist_id),
+                "select id, slug, nome, user_id, shared from setlists where slug=%s", (setlist_id,),
             ).fetchone()
-            if not row:
+            is_owner = not row or row["user_id"] is None or row["user_id"] == user_id
+            if not row or (not is_owner and not row["shared"]):
                 raise FileNotFoundError(setlist_id)
             items = conn.execute(
                 "select ref from setlist_items where setlist_id=%s order by position", (row["id"],),
             ).fetchall()
         refs = [i["ref"] for i in items]
-        resolved = self._resolve_many(user_id, refs)
+        resolved = self._resolve_many(refs)
         return {
             "id": row["slug"], "nome": row["nome"],
+            "is_owner": is_owner, "shared": row["shared"],
             "items": [{"ref": ref, "song": song} for ref, song in zip(refs, resolved)],
         }
 
     def save(self, user_id: str, name: str, items: list[str], setlist_id: str | None = None) -> dict:
+        """Setlist órfão (dono excluído — ver AuthService.delete_user) pode
+        ser editado por qualquer um, mesma lógica de "música órfã" em
+        SongsService.update: conteúdo sobrevive à exclusão do usuário, mas
+        sem dono ninguém ficaria travado pra sempre incapaz de mexer nele."""
         with db.get_pool().connection() as conn:
             existing = None
             if setlist_id:
                 existing = conn.execute(
-                    "select id from setlists where user_id=%s and slug=%s", (user_id, setlist_id),
+                    "select id, user_id from setlists where slug=%s", (setlist_id,),
                 ).fetchone()
+            if existing and existing["user_id"] is not None and existing["user_id"] != user_id:
+                raise PermissionError(setlist_id)
             if existing:
                 setlist_pk, slug = existing["id"], setlist_id
                 conn.execute("update setlists set nome=%s where id=%s", (name, setlist_pk))
@@ -114,9 +137,28 @@ class SetlistService:
                 )
         return {"id": slug, "nome": name, "count": len(items)}
 
+    def set_shared(self, user_id: str, setlist_id: str, value: bool) -> dict:
+        with db.get_pool().connection() as conn:
+            row = conn.execute(
+                "select id, user_id from setlists where slug=%s", (setlist_id,),
+            ).fetchone()
+            if not row:
+                raise FileNotFoundError(setlist_id)
+            if row["user_id"] is not None and row["user_id"] != user_id:
+                raise PermissionError(setlist_id)
+            conn.execute("update setlists set shared=%s where id=%s", (value, row["id"]))
+        return self.get(user_id, setlist_id)
+
     def delete(self, user_id: str, setlist_id: str) -> None:
         with db.get_pool().connection() as conn:
-            conn.execute("delete from setlists where user_id=%s and slug=%s", (user_id, setlist_id))
+            row = conn.execute(
+                "select user_id from setlists where slug=%s", (setlist_id,),
+            ).fetchone()
+            if not row:
+                return  # já não existe — idempotente, como sempre foi
+            if row["user_id"] is not None and row["user_id"] != user_id:
+                raise PermissionError(setlist_id)
+            conn.execute("delete from setlists where slug=%s", (setlist_id,))
 
     def export_txt(self, user_id: str, setlist_id: str) -> str:
         data = self.get(user_id, setlist_id)
@@ -135,11 +177,12 @@ class SetlistService:
                 items.append(line)
         return self.save(user_id, name or "Setlist importado", items)
 
-    def remove_song_everywhere(self, user_id: str, artist: str, title: str) -> None:
-        """Ao excluir uma música, remove-a de todos os setlists do usuário."""
+    def remove_song_everywhere(self, artist: str, title: str) -> None:
+        """Ao excluir uma música, remove-a dos setlists de TODOS os usuários
+        (biblioteca global — não só dos setlists de quem excluiu)."""
         target = (slugify(artist), slugify(title))
         with db.get_pool().connection() as conn:
-            setlists = conn.execute("select id from setlists where user_id=%s", (user_id,)).fetchall()
+            setlists = conn.execute("select id from setlists").fetchall()
             for sl in setlists:
                 items = conn.execute(
                     "select id, ref from setlist_items where setlist_id=%s", (sl["id"],),

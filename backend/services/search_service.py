@@ -2,7 +2,14 @@
 (IndexService) por queries diretas: sempre corretas/atualizadas, sem
 precisar reconstruir nada. Busca fuzzy usa `pg_trgm::similarity()` no lugar
 do `rapidfuzz` de antes (mesma ideia — aproximação por texto parecido —
-threshold não é diretamente comparável ao antigo, só a mesma finalidade)."""
+threshold não é diretamente comparável ao antigo, só a mesma finalidade).
+
+Biblioteca global: por padrão a busca não filtra mais por usuário — `q`,
+filtros e ordenação valem sobre o acervo inteiro (`only_mine=True` restringe
+de volta às músicas criadas pelo usuário, pra quem quiser essa visão).
+`favorita`/`nota` não são mais colunas de `songs` (são preferência de quem
+vê, ver `user_song_prefs`) — todo SELECT aqui faz LEFT JOIN nessa tabela
+pro usuário logado pra continuar devolvendo o valor certo por pessoa."""
 from __future__ import annotations
 
 import db
@@ -15,8 +22,18 @@ _SIMILARITY_THRESHOLD = 0.25
 # Sem header/body — a listagem não usa (_row_to_dict só lê estas colunas),
 # e são as colunas grandes (corpo inteiro da cifra, cabeçalho em jsonb); num
 # acervo grande, incluí-las no SELECT * de toda busca/dashboard multiplicava
-# o payload por linha à toa.
-_LIST_COLUMNS = "slug, titulo, autor, interprete, genero, tom, ritmo, tags, velocidade, nota, favorita"
+# o payload por linha à toa. "songs." explícito porque toda query aqui faz
+# LEFT JOIN com user_song_prefs, que também tem uma coluna user_id.
+_LIST_COLUMNS = (
+    "songs.slug, songs.titulo, songs.autor, songs.interprete, songs.genero, songs.tom, "
+    "songs.ritmo, songs.tags, songs.velocidade, songs.normalizada, songs.user_id"
+)
+_PREFS_JOIN = "left join user_song_prefs p on p.song_id = songs.id and p.user_id = %(user_id)s"
+_PREFS_SELECT = "coalesce(p.favorita, false) as favorita, coalesce(p.nota, '') as nota"
+
+
+def _rows_to_dicts(rows: list[dict]) -> list[dict]:
+    return [_row_to_dict(r) for r in rows]
 
 
 class SearchService:
@@ -30,30 +47,33 @@ class SearchService:
         ritmo: str = "",
         tag: str = "",
         favoritas: bool = False,
+        only_mine: bool = False,
         page: int = 1,
         page_size: int = 50,
         sort: str = "titulo",
     ) -> dict:
-        where = ["user_id = %(user_id)s"]
+        where = ["1=1"]
         params: dict = {"user_id": user_id}
 
+        if only_mine:
+            where.append("songs.user_id = %(user_id)s")
         if genero:
-            where.append("lower(genero) = lower(%(genero)s)")
+            where.append("lower(songs.genero) = lower(%(genero)s)")
             params["genero"] = genero
         if interprete:
-            where.append("interprete ILIKE %(interprete)s")
+            where.append("songs.interprete ILIKE %(interprete)s")
             params["interprete"] = f"%{interprete}%"
         if tom:
-            where.append("lower(trim(tom)) = lower(trim(%(tom)s))")
+            where.append("lower(trim(songs.tom)) = lower(trim(%(tom)s))")
             params["tom"] = tom
         if ritmo:
-            where.append("ritmo ILIKE %(ritmo)s")
+            where.append("songs.ritmo ILIKE %(ritmo)s")
             params["ritmo"] = f"%{ritmo}%"
         if tag:
-            where.append("EXISTS (SELECT 1 FROM unnest(tags) t WHERE lower(t) = lower(%(tag)s))")
+            where.append("EXISTS (SELECT 1 FROM unnest(songs.tags) t WHERE lower(t) = lower(%(tag)s))")
             params["tag"] = tag
         if favoritas:
-            where.append("favorita = true")
+            where.append("coalesce(p.favorita, false) = true")
 
         where_sql = " AND ".join(where)
 
@@ -71,22 +91,23 @@ class SearchService:
             params["qlike"] = f"%{q}%"
             score_expr = """
                 CASE
-                    WHEN titulo ILIKE %(qlike)s OR autor ILIKE %(qlike)s OR interprete ILIKE %(qlike)s
-                         OR EXISTS (SELECT 1 FROM unnest(tags) t WHERE t ILIKE %(qlike)s)
-                    THEN 100 + (CASE WHEN titulo ILIKE %(qlike)s THEN 10 ELSE 0 END)
-                    ELSE GREATEST(similarity(titulo, %(q)s), similarity(autor, %(q)s), similarity(interprete, %(q)s)) * 100
+                    WHEN songs.titulo ILIKE %(qlike)s OR songs.autor ILIKE %(qlike)s OR songs.interprete ILIKE %(qlike)s
+                         OR EXISTS (SELECT 1 FROM unnest(songs.tags) t WHERE t ILIKE %(qlike)s)
+                    THEN 100 + (CASE WHEN songs.titulo ILIKE %(qlike)s THEN 10 ELSE 0 END)
+                    ELSE GREATEST(similarity(songs.titulo, %(q)s), similarity(songs.autor, %(q)s), similarity(songs.interprete, %(q)s)) * 100
                 END
             """
             sql = f"""
-                SELECT {_LIST_COLUMNS}, ({score_expr}) AS score, count(*) OVER() AS total_count FROM songs
+                SELECT {_LIST_COLUMNS}, {_PREFS_SELECT}, ({score_expr}) AS score, count(*) OVER() AS total_count
+                FROM songs {_PREFS_JOIN}
                 WHERE {where_sql} AND (
-                    titulo ILIKE %(qlike)s OR autor ILIKE %(qlike)s OR interprete ILIKE %(qlike)s
-                    OR EXISTS (SELECT 1 FROM unnest(tags) t WHERE t ILIKE %(qlike)s)
-                    OR similarity(titulo, %(q)s) > {_SIMILARITY_THRESHOLD}
-                    OR similarity(autor, %(q)s) > {_SIMILARITY_THRESHOLD}
-                    OR similarity(interprete, %(q)s) > {_SIMILARITY_THRESHOLD}
+                    songs.titulo ILIKE %(qlike)s OR songs.autor ILIKE %(qlike)s OR songs.interprete ILIKE %(qlike)s
+                    OR EXISTS (SELECT 1 FROM unnest(songs.tags) t WHERE t ILIKE %(qlike)s)
+                    OR similarity(songs.titulo, %(q)s) > {_SIMILARITY_THRESHOLD}
+                    OR similarity(songs.autor, %(q)s) > {_SIMILARITY_THRESHOLD}
+                    OR similarity(songs.interprete, %(q)s) > {_SIMILARITY_THRESHOLD}
                 )
-                ORDER BY score DESC, titulo ASC
+                ORDER BY score DESC, songs.titulo ASC
                 LIMIT %(limit)s OFFSET %(offset)s
             """
         else:
@@ -94,8 +115,10 @@ class SearchService:
             if sort_key not in _SORTABLE:
                 sort_key = "titulo"
             direction = "DESC" if sort.startswith("-") else "ASC"
-            sql = f"""SELECT {_LIST_COLUMNS}, count(*) OVER() AS total_count FROM songs WHERE {where_sql}
-                      ORDER BY {sort_key} {direction} LIMIT %(limit)s OFFSET %(offset)s"""
+            sql = f"""SELECT {_LIST_COLUMNS}, {_PREFS_SELECT}, count(*) OVER() AS total_count
+                      FROM songs {_PREFS_JOIN}
+                      WHERE {where_sql}
+                      ORDER BY songs.{sort_key} {direction} LIMIT %(limit)s OFFSET %(offset)s"""
 
         with db.get_pool().connection() as conn:
             rows = conn.execute(sql, params).fetchall()
@@ -103,7 +126,7 @@ class SearchService:
         total = rows[0]["total_count"] if rows else 0
 
         return {
-            "items": [_row_to_dict(r) for r in rows],
+            "items": _rows_to_dicts(rows),
             "page": page,
             "page_size": page_size,
             "total": total,
@@ -118,28 +141,29 @@ class SearchService:
             return []
         with db.get_pool().connection() as conn:
             rows = conn.execute(
-                f"SELECT {_LIST_COLUMNS} FROM songs WHERE user_id=%s AND slug = ANY(%s)",
-                (user_id, slugs),
+                f"SELECT {_LIST_COLUMNS}, {_PREFS_SELECT} FROM songs {_PREFS_JOIN} WHERE songs.slug = ANY(%(slugs)s)",
+                {"user_id": user_id, "slugs": slugs},
             ).fetchall()
-        return [_row_to_dict(r) for r in rows]
+        return _rows_to_dicts(rows)
 
     def facets(self, user_id: str) -> dict:
-        """Valores distintos para popular filtros no frontend."""
+        """Valores distintos pra popular filtros no frontend — biblioteca
+        inteira, não filtra mais por usuário."""
         with db.get_pool().connection() as conn:
             generos = conn.execute(
-                "select distinct genero from songs where user_id=%s and genero != '' order by 1", (user_id,)
+                "select distinct genero from songs where genero != '' order by 1"
             ).fetchall()
             interpretes = conn.execute(
-                "select distinct interprete from songs where user_id=%s and interprete != '' order by 1", (user_id,)
+                "select distinct interprete from songs where interprete != '' order by 1"
             ).fetchall()
             tons = conn.execute(
-                "select distinct tom from songs where user_id=%s and tom != '' order by 1", (user_id,)
+                "select distinct tom from songs where tom != '' order by 1"
             ).fetchall()
             ritmos = conn.execute(
-                "select distinct ritmo from songs where user_id=%s and ritmo != '' order by 1", (user_id,)
+                "select distinct ritmo from songs where ritmo != '' order by 1"
             ).fetchall()
             tags = conn.execute(
-                "select distinct unnest(tags) as tag from songs where user_id=%s order by 1", (user_id,)
+                "select distinct unnest(tags) as tag from songs order by 1"
             ).fetchall()
         return {
             "generos": [r["genero"] for r in generos],

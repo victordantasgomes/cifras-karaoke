@@ -17,3 +17,4 @@ class Config:
     LOG_LEVEL: str = os.getenv("LOG_LEVEL", "INFO")
     DATABASE_URL: str = os.getenv("DATABASE_URL", "")
     BLOB_READ_WRITE_TOKEN: str = os.getenv("BLOB_READ_WRITE_TOKEN", "")
+    OPENAI_API_KEY: str = os.getenv("OPENAI_API_KEY", "")
