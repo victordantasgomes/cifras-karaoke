@@ -1,5 +1,6 @@
 import pytest
 
+import db
 from services.auth_service import AuthError, AuthService
 
 
@@ -178,3 +179,43 @@ def test_reset_password_rejects_short_password(auth):
 def test_reset_password_unknown_user_raises(auth):
     with pytest.raises(AuthError):
         auth.reset_password("nao-existe", "senhaboa123")
+
+
+def _share_by_default(user_id: str) -> bool:
+    with db.get_pool().connection() as conn:
+        row = conn.execute("select share_by_default from users where id=%s", (user_id,)).fetchone()
+    return row["share_by_default"]
+
+
+def test_register_defaults_share_by_default_true(auth):
+    """Conta admin-criada (fluxo de hoje) continua colaborativa por padrão."""
+    user = auth.register("banda", "senha123")
+    assert _share_by_default(user["id"]) is True
+
+
+def test_public_signup_style_register_accepts_email(auth):
+    user = auth.register("novato", "senha123", email="novato@example.com", share_by_default=False)
+    assert user["email"] == "novato@example.com"
+    assert _share_by_default(user["id"]) is False
+
+
+def test_register_rejects_invalid_email(auth):
+    with pytest.raises(AuthError):
+        auth.register("novato", "senha123", email="nao-e-um-email")
+
+
+def test_register_rejects_duplicate_email(auth):
+    auth.register("um", "senha123", email="mesmo@example.com")
+    with pytest.raises(AuthError):
+        auth.register("outro", "senha123", email="mesmo@example.com")
+
+
+def test_register_allows_multiple_users_without_email(auth):
+    """Índice único parcial: várias linhas com email NULL não colidem."""
+    auth.register("um", "senha123")
+    auth.register("outro", "senha123")  # não levanta
+
+
+def test_register_lowercases_email(auth):
+    user = auth.register("novato", "senha123", email="Novato@Example.COM")
+    assert user["email"] == "novato@example.com"

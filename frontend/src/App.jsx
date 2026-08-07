@@ -2,6 +2,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import { useColorSettings } from './hooks/useColorSettings'
 import Layout from './components/Layout'
 import Login from './pages/Login'
+import SignUp from './pages/SignUp'
 import Dashboard from './pages/Dashboard'
 import Songs from './pages/Songs'
 import SongEditor from './pages/SongEditor'
@@ -20,6 +21,7 @@ export default function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/login" element={<Login />} />
+        <Route path="/cadastro" element={<SignUp />} />
         <Route path="/karaoke/:slug" element={<KaraokePlayer />} />
         <Route element={<Layout />}>
           <Route path="/" element={<Dashboard />} />

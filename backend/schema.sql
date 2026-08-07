@@ -32,6 +32,12 @@ create table if not exists users (
     -- público (SaaS multi-tenant) grava FALSE explicitamente pras contas
     -- novas, que começam privadas por padrão (ver songs.shared abaixo).
     share_by_default boolean not null default true,
+    -- nullable: contas admin-criadas de hoje nunca coletaram e-mail.
+    -- Cadastro público (Fase 5) sempre grava um. Unicidade só quando
+    -- presente (índice parcial abaixo) — várias linhas com email NULL não
+    -- colidem entre si.
+    email         text,
+    email_verified boolean not null default false,
     created_at    timestamptz not null default now()
 );
 -- "create table if not exists" não altera uma tabela já existente (é o
@@ -40,6 +46,9 @@ alter table users add column if not exists is_admin boolean not null default fal
 alter table users add column if not exists last_login_at timestamptz;
 alter table users add column if not exists login_count int not null default 0;
 alter table users add column if not exists share_by_default boolean not null default true;
+alter table users add column if not exists email text;
+alter table users add column if not exists email_verified boolean not null default false;
+create unique index if not exists idx_users_email_unique on users(email) where email is not null;
 
 create table if not exists songs (
     id          uuid primary key default gen_random_uuid(),

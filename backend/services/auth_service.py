@@ -5,6 +5,7 @@ werkzeug.security — inalterado em relação à versão baseada em arquivo.
 """
 from __future__ import annotations
 
+import re
 import uuid
 from datetime import datetime, timedelta, timezone
 
@@ -14,32 +15,49 @@ from werkzeug.security import check_password_hash, generate_password_hash
 import db
 from config import Config
 
+_EMAIL_RE = re.compile(r"^[^@\s]+@[^@\s]+\.[^@\s]+$")
+
 
 class AuthError(Exception):
     pass
 
 
 class AuthService:
-    def register(self, username: str, password: str, name: str = "", is_admin: bool = False) -> dict:
-        """Não existe rota pública de auto-registro — contas só são criadas
-        por um admin (POST /admin/users, que pode passar is_admin=True) ou
-        pelo seed.py. `is_admin` default False cobre os dois casos."""
+    def register(self, username: str, password: str, name: str = "", is_admin: bool = False,
+                 email: str = "", share_by_default: bool = True) -> dict:
+        """Duas portas de entrada usam este mesmo método: `POST /admin/users`
+        (admin-only, sem e-mail, `share_by_default=True` — mesmo
+        comportamento colaborativo de sempre pra contas de banda) e a rota
+        pública `POST /api/auth/register` (Fase 5, sempre `is_admin=False`
+        — nunca lido do payload da rota pública — com e-mail obrigatório e
+        `share_by_default=False`, biblioteca privada por padrão pro SaaS
+        multi-tenant). `email` fica opcional aqui pra não quebrar o fluxo
+        admin de hoje, que nunca coletou e-mail."""
         username = username.strip().lower()
+        email = email.strip().lower()
         if not username or not password:
             raise AuthError("Usuário e senha são obrigatórios.")
         if len(password) < 6:
             raise AuthError("A senha deve ter pelo menos 6 caracteres.")
+        if email and not _EMAIL_RE.match(email):
+            raise AuthError("E-mail inválido.")
         user_id = f"user-{uuid.uuid4().hex[:10]}"
         name = name or username
         with db.get_pool().connection() as conn:
             exists = conn.execute("select 1 from users where username = %s", (username,)).fetchone()
             if exists:
                 raise AuthError("Este usuário já existe.")
+            if email:
+                email_taken = conn.execute("select 1 from users where email = %s", (email,)).fetchone()
+                if email_taken:
+                    raise AuthError("Este e-mail já está cadastrado.")
             conn.execute(
-                "insert into users (id, username, name, password_hash, is_admin) values (%s, %s, %s, %s, %s)",
-                (user_id, username, name, generate_password_hash(password), is_admin),
+                """insert into users (id, username, name, password_hash, is_admin, email, share_by_default)
+                   values (%s, %s, %s, %s, %s, %s, %s)""",
+                (user_id, username, name, generate_password_hash(password), is_admin,
+                 email or None, share_by_default),
             )
-        return {"id": user_id, "username": username, "name": name, "is_admin": is_admin}
+        return {"id": user_id, "username": username, "name": name, "is_admin": is_admin, "email": email}
 
     def login(self, username: str, password: str) -> dict:
         with db.get_pool().connection() as conn:

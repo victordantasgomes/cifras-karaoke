@@ -14,8 +14,6 @@ def build_blueprint(ctx) -> Blueprint:
     protected = ctx.require_auth
 
     # ---------------- auth ----------------
-    # Sem auto-registro público: contas só são criadas por um admin
-    # (POST /admin/users, abaixo) — ver AuthService.register().
     @api.post("/auth/login")
     def login():
         d = request.get_json(force=True)
@@ -23,6 +21,27 @@ def build_blueprint(ctx) -> Blueprint:
             return jsonify(ctx.auth.login(d.get("username", ""), d.get("password", "")))
         except AuthError as e:
             return jsonify({"error": str(e)}), 401
+
+    # Cadastro público (Fase 5) — deliberadamente SEPARADO de
+    # POST /admin/users (admin-only, abaixo): nunca lê/repassa `is_admin` do
+    # corpo da requisição, então não existe caminho por aqui pra uma conta
+    # nova se autopromover. Sempre share_by_default=False (biblioteca
+    # privada por padrão) e exige e-mail (usado depois pela Stripe — ver
+    # Fase 7). Devolve token na hora — login automático após o cadastro.
+    @api.post("/auth/register")
+    def register():
+        d = request.get_json(force=True)
+        email = d.get("email", "").strip()
+        if not email:
+            return jsonify({"error": "E-mail é obrigatório."}), 400
+        try:
+            ctx.auth.register(
+                d.get("username", ""), d.get("password", ""), d.get("name", ""),
+                email=email, share_by_default=False,
+            )
+            return jsonify(ctx.auth.login(d.get("username", ""), d.get("password", "")))
+        except AuthError as e:
+            return jsonify({"error": str(e)}), 400
 
     # ---------------- administração (só is_admin) ----------------
     @api.get("/admin/users")

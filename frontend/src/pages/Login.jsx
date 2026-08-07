@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { useNavigate } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
 import logoPrincipal from '../assets/logo-principal.png'
 import api from '../services/api'
 import { useAuthStore } from '../store/authStore'
@@ -46,6 +46,9 @@ export default function Login() {
           <button className="btn primary" disabled={busy} onClick={submit}>
             Entrar
           </button>
+        </div>
+        <div className="page-sub" style={{ marginTop: 14 }}>
+          Não tem conta? <Link to="/cadastro">Criar conta</Link>
         </div>
       </div>
     </div>
