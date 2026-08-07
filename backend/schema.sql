@@ -27,6 +27,11 @@ create table if not exists users (
     is_admin      boolean not null default false,
     last_login_at timestamptz,
     login_count   int not null default 0,
+    -- default TRUE pros usuários de hoje (criados só pelo admin, banda
+    -- única, mesmo comportamento colaborativo de sempre) — o cadastro
+    -- público (SaaS multi-tenant) grava FALSE explicitamente pras contas
+    -- novas, que começam privadas por padrão (ver songs.shared abaixo).
+    share_by_default boolean not null default true,
     created_at    timestamptz not null default now()
 );
 -- "create table if not exists" não altera uma tabela já existente (é o
@@ -34,6 +39,7 @@ create table if not exists users (
 alter table users add column if not exists is_admin boolean not null default false;
 alter table users add column if not exists last_login_at timestamptz;
 alter table users add column if not exists login_count int not null default 0;
+alter table users add column if not exists share_by_default boolean not null default true;
 
 create table if not exists songs (
     id          uuid primary key default gen_random_uuid(),
@@ -53,6 +59,11 @@ create table if not exists songs (
     nota        text not null default '',
     favorita    boolean not null default false,
     normalizada boolean not null default false,
+    -- default TRUE: grandfathering automático pras ~23.888 músicas já
+    -- existentes (continuam visíveis pra todo mundo, sem migração de
+    -- dados) — só músicas novas de cadastros públicos nascem privadas,
+    -- via users.share_by_default (ver SongsService.create()).
+    shared      boolean not null default true,
     header      jsonb not null default '{}'::jsonb,
     body        text not null default '',
     -- aponta pra música original quando esta linha é uma cópia gerada por
@@ -65,6 +76,7 @@ create table if not exists songs (
 -- existirem — ver README > Testes sobre TEST_DATABASE_URL.
 alter table songs add column if not exists normalizada boolean not null default false;
 alter table songs add column if not exists origin_song_id uuid references songs(id) on delete set null;
+alter table songs add column if not exists shared boolean not null default true;
 alter table songs alter column user_id drop not null;
 alter table songs drop constraint if exists songs_user_id_fkey;
 alter table songs add constraint songs_user_id_fkey

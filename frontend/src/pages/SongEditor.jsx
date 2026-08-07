@@ -243,6 +243,11 @@ export default function SongEditor() {
     },
   })
 
+  const toggleShared = useMutation({
+    mutationFn: () => api.post(`/songs/${slug}/shared`, { value: !data.shared }),
+    onSuccess: () => { qc.invalidateQueries(['song', slug]); qc.invalidateQueries(['songs']) },
+  })
+
   const setRating = useMutation({
     mutationFn: (nota) => api.post(`/songs/${slug}/rating`, { nota }),
     onSuccess: (_res, nota) => {
@@ -382,6 +387,13 @@ export default function SongEditor() {
           <button className="btn" onClick={() => window.print()}>Imprimir / PDF</button>
           <a className="btn" href={`${api.defaults.baseURL}/songs/${slug}/export`}
             onClick={(e) => { e.preventDefault(); exportTxt(slug, header.titulo) }}>Exportar TXT</a>
+          {isOwner && (
+            <button className="btn" disabled={toggleShared.isPending}
+              title={data.shared ? 'Visível pra todo mundo — clique pra tornar só sua' : 'Só você vê — clique pra compartilhar'}
+              onClick={() => toggleShared.mutate()}>
+              {data.shared ? '🌐 Compartilhada' : '🔒 Privada'}
+            </button>
+          )}
           {isOwner && (
             <button className="btn danger" onClick={() => confirm('Excluir esta música? Ela sairá de todos os setlists.') && remove.mutate()}>
               Excluir

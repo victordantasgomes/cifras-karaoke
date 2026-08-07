@@ -188,6 +188,101 @@ def test_song_visible_to_other_user(ctx, other_user_id):
     assert data["titulo"] == "Yellow"
 
 
+def _make_private_user(user_id: str, username: str) -> None:
+    """Cadastro público (Fase 5) grava share_by_default=false — aqui feito
+    direto no banco pra não depender da rota pública ainda inexistente."""
+    with db.get_pool().connection() as conn:
+        conn.execute(
+            "insert into users (id, username, name, password_hash, share_by_default) "
+            "values (%s, %s, %s, 'x', false)",
+            (user_id, username, username),
+        )
+
+
+def test_new_song_defaults_shared_for_existing_style_user(ctx):
+    songs, _, _ = ctx
+    entry = _create(songs)
+    assert songs.get("u1", entry["slug"])["shared"] is True
+
+
+def test_new_song_defaults_private_for_share_by_default_false_user(ctx):
+    songs, _, _ = ctx
+    _make_private_user("u3", "privado")
+    entry = songs.create("u3", "Pop", "Coldplay", "Segredo",
+                          "@titulo: Segredo\n\ncorpo")
+    assert songs.get("u3", entry["slug"])["shared"] is False
+
+
+def test_private_song_not_visible_to_other_user(ctx):
+    songs, _, _ = ctx
+    _make_private_user("u3", "privado")
+    entry = songs.create("u3", "Pop", "Coldplay", "Segredo",
+                          "@titulo: Segredo\n\ncorpo")
+    with pytest.raises(SongNotFound):
+        songs.get("u1", entry["slug"])
+
+
+def test_owner_still_sees_own_private_song(ctx):
+    songs, _, _ = ctx
+    _make_private_user("u3", "privado")
+    entry = songs.create("u3", "Pop", "Coldplay", "Segredo",
+                          "@titulo: Segredo\n\ncorpo")
+    assert songs.get("u3", entry["slug"])["titulo"] == "Segredo"
+
+
+def test_search_excludes_private_songs_of_others(ctx):
+    songs, _, _ = ctx
+    _make_private_user("u3", "privado")
+    songs.create("u3", "Pop", "Coldplay", "Segredo Privado", "@titulo: Segredo Privado\n\ncorpo")
+    search = SearchService()
+    hit = search.search("u1", q="segredo privado")
+    assert hit["total"] == 0
+
+
+def test_search_includes_own_private_songs(ctx):
+    songs, _, _ = ctx
+    _make_private_user("u3", "privado")
+    songs.create("u3", "Pop", "Coldplay", "Segredo Privado", "@titulo: Segredo Privado\n\ncorpo")
+    search = SearchService()
+    hit = search.search("u3", q="segredo privado")
+    assert hit["total"] == 1
+
+
+def test_facets_exclude_values_only_from_private_songs(ctx):
+    songs, _, _ = ctx
+    _make_private_user("u3", "privado")
+    songs.create("u3", "GeneroExclusivoPrivado", "Artista Privado", "Segredo", "@titulo: Segredo\n\ncorpo")
+    search = SearchService()
+    facets = search.facets("u1")
+    assert "GeneroExclusivoPrivado" not in facets["generos"]
+    assert "Artista Privado" not in facets["interpretes"]
+
+
+def test_clone_of_private_song_follows_editor_share_default(ctx, other_user_id):
+    """Editar uma música alheia clona pra você — a cópia segue A SUA
+    preferência de compartilhamento, não a da música original."""
+    songs, _, _ = ctx
+    entry = _create(songs)  # u1, shared=true (padrão de hoje)
+    _make_private_user("u3", "privado")
+    original = songs.get("u3", entry["slug"])
+    clone = songs.update("u3", entry["slug"], dict(original["header"]), "corpo novo", editor_name="Privado")
+    assert songs.get("u3", clone["slug"])["shared"] is False
+
+
+def test_owner_can_toggle_shared(ctx):
+    songs, _, _ = ctx
+    entry = _create(songs)
+    songs.set_shared("u1", entry["slug"], False)
+    assert songs.get("u1", entry["slug"])["shared"] is False
+
+
+def test_non_owner_cannot_toggle_song_shared(ctx, other_user_id):
+    songs, _, _ = ctx
+    entry = _create(songs)
+    with pytest.raises(NotOwner):
+        songs.set_shared(other_user_id, entry["slug"], False)
+
+
 def test_editing_someone_elses_song_clones_it(ctx, other_user_id):
     songs, _, _ = ctx
     entry = _create(songs)

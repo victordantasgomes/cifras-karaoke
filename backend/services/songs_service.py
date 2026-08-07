@@ -30,8 +30,12 @@ from utils.transpose import semitones_between, transpose_body
 _SONG_COLUMNS = (
     "songs.id, songs.user_id, songs.slug, songs.genero, songs.titulo, songs.autor, songs.interprete, "
     "songs.tom, songs.ritmo, songs.tags, songs.velocidade, songs.nota, songs.favorita, songs.normalizada, "
-    "songs.header, songs.body"
+    "songs.shared, songs.header, songs.body"
 )
+
+# visibilidade multi-tenant: dono vê sempre, música compartilhada ou órfã
+# (dono excluído) todo mundo vê — mesmo padrão já usado em setlist_service.py.
+_VISIBLE_SQL = "(songs.user_id = %(user_id)s OR songs.shared = true OR songs.user_id IS NULL)"
 
 
 class SongNotFound(Exception):
@@ -69,8 +73,13 @@ def _row_to_dict(row: dict) -> dict:
         "interprete": row["interprete"], "genero": row["genero"], "tom": row["tom"],
         "tags": row["tags"], "velocidade": row["velocidade"], "nota": row["nota"],
         "favorita": row["favorita"], "ritmo": row["ritmo"], "normalizada": row["normalizada"],
-        "user_id": row["user_id"],
+        "user_id": row["user_id"], "shared": row["shared"],
     }
+
+
+def _share_by_default(conn, user_id: str) -> bool:
+    row = conn.execute("select share_by_default from users where id=%s", (user_id,)).fetchone()
+    return bool(row["share_by_default"]) if row else True
 
 
 def _unique_slug(conn, base_slug: str, exclude_id: str | None = None) -> str:
@@ -110,7 +119,7 @@ class SongsService:
                            coalesce(p.nota, '') as pref_nota
                     from songs left join user_song_prefs p
                            on p.song_id = songs.id and p.user_id = %(user_id)s
-                    where songs.slug = %(slug)s""",
+                    where songs.slug = %(slug)s and {_VISIBLE_SQL}""",
                 {"user_id": user_id, "slug": slug},
             ).fetchone()
         if not row:
@@ -147,16 +156,17 @@ class SongsService:
         denorm = _denormalize(song.header)
         base_slug = slugify(genre, song.header["intérprete"], song.header["titulo"]) or slugify(title)
         with db.get_pool().connection() as conn:
+            shared = _share_by_default(conn, user_id)
             slug = _unique_slug(conn, base_slug)
             row = conn.execute(
                 f"""insert into songs (user_id, slug, genero, titulo, autor, interprete, tom, ritmo,
-                                        tags, velocidade, nota, favorita, normalizada, header, body)
+                                        tags, velocidade, nota, favorita, normalizada, shared, header, body)
                     values (%(user_id)s, %(slug)s, %(genero)s, %(titulo)s, %(autor)s, %(interprete)s,
                             %(tom)s, %(ritmo)s, %(tags)s, %(velocidade)s, %(nota)s, %(favorita)s,
-                            %(normalizada)s, %(header)s, %(body)s)
+                            %(normalizada)s, %(shared)s, %(header)s, %(body)s)
                     returning {_SONG_COLUMNS}""",
                 {"user_id": user_id, "slug": slug, "genero": genre, "body": song.body,
-                 "header": Json(song.header), **denorm},
+                 "header": Json(song.header), "shared": shared, **denorm},
             ).fetchone()
         return _row_to_dict(row)
 
@@ -211,16 +221,21 @@ class SongsService:
         base_slug = slugify(row["genero"], full_header.get("intérprete", ""), full_header["titulo"]) or row["slug"]
 
         with db.get_pool().connection() as conn:
+            # a cópia segue a preferência de compartilhamento de QUEM EDITOU
+            # agora (o novo dono), não o valor da original — mesma regra de
+            # create().
+            shared = _share_by_default(conn, user_id)
             new_slug = _unique_slug(conn, base_slug)
             new_row = conn.execute(
                 f"""insert into songs (user_id, slug, genero, origin_song_id, titulo, autor, interprete,
-                                        tom, ritmo, tags, velocidade, nota, favorita, normalizada, header, body)
+                                        tom, ritmo, tags, velocidade, nota, favorita, normalizada, shared,
+                                        header, body)
                     values (%(user_id)s, %(slug)s, %(genero)s, %(origin_song_id)s, %(titulo)s, %(autor)s,
                             %(interprete)s, %(tom)s, %(ritmo)s, %(tags)s, %(velocidade)s, %(nota)s,
-                            %(favorita)s, %(normalizada)s, %(header)s, %(body)s)
+                            %(favorita)s, %(normalizada)s, %(shared)s, %(header)s, %(body)s)
                     returning {_SONG_COLUMNS}""",
                 {"user_id": user_id, "slug": new_slug, "genero": row["genero"], "origin_song_id": row["id"],
-                 "header": Json(full_header), "body": body, **denorm},
+                 "header": Json(full_header), "body": body, "shared": shared, **denorm},
             ).fetchone()
         return _row_to_dict(new_row)
 
@@ -247,6 +262,16 @@ class SongsService:
                    on conflict (user_id, song_id) do update set nota=excluded.nota""",
                 (user_id, song_id, nota_str),
             )
+        return self.get(user_id, slug)
+
+    def set_shared(self, user_id: str, slug: str, value: bool) -> dict:
+        row = self._fetch(slug)
+        if not row:
+            raise SongNotFound(slug)
+        if row["user_id"] is not None and row["user_id"] != user_id:
+            raise NotOwner(slug)
+        with db.get_pool().connection() as conn:
+            conn.execute("update songs set shared=%s where id=%s", (value, row["id"]))
         return self.get(user_id, slug)
 
     # ---------- exclusão ----------

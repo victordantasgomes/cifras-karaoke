@@ -86,6 +86,7 @@ export default function Songs({ favoritesOnly = false }) {
                   <div className="meta">
                     {s.interprete}
                     {s.user_id && s.user_id !== user?.id && <span className="chip" style={{ marginLeft: 8 }} title="Você não criou esta música">de outro usuário</span>}
+                    {s.user_id === user?.id && !s.shared && <span className="chip" style={{ marginLeft: 8 }} title="Só você vê esta música">🔒 privada</span>}
                   </div>
                 </div>
                 <div className="meta hide-sm">{s.genero}</div>

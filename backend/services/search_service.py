@@ -4,12 +4,15 @@ precisar reconstruir nada. Busca fuzzy usa `pg_trgm::similarity()` no lugar
 do `rapidfuzz` de antes (mesma ideia — aproximação por texto parecido —
 threshold não é diretamente comparável ao antigo, só a mesma finalidade).
 
-Biblioteca global: por padrão a busca não filtra mais por usuário — `q`,
-filtros e ordenação valem sobre o acervo inteiro (`only_mine=True` restringe
-de volta às músicas criadas pelo usuário, pra quem quiser essa visão).
-`favorita`/`nota` não são mais colunas de `songs` (são preferência de quem
-vê, ver `user_song_prefs`) — todo SELECT aqui faz LEFT JOIN nessa tabela
-pro usuário logado pra continuar devolvendo o valor certo por pessoa."""
+Biblioteca compartilhada, não mais 100% global: a busca vale sobre as
+músicas que o usuário PODE VER — próprias, marcadas como compartilhadas
+(`songs.shared`), ou órfãs (dono excluído) — não sobre o acervo inteiro
+incondicionalmente (ver `_VISIBLE_SQL`, mesma condição de
+songs_service.py). `only_mine=True` restringe ainda mais, só às músicas
+criadas pelo usuário. `favorita`/`nota` não são mais colunas de `songs`
+(são preferência de quem vê, ver `user_song_prefs`) — todo SELECT aqui faz
+LEFT JOIN nessa tabela pro usuário logado pra continuar devolvendo o valor
+certo por pessoa."""
 from __future__ import annotations
 
 import db
@@ -26,10 +29,14 @@ _SIMILARITY_THRESHOLD = 0.25
 # LEFT JOIN com user_song_prefs, que também tem uma coluna user_id.
 _LIST_COLUMNS = (
     "songs.slug, songs.titulo, songs.autor, songs.interprete, songs.genero, songs.tom, "
-    "songs.ritmo, songs.tags, songs.velocidade, songs.normalizada, songs.user_id"
+    "songs.ritmo, songs.tags, songs.velocidade, songs.normalizada, songs.user_id, songs.shared"
 )
 _PREFS_JOIN = "left join user_song_prefs p on p.song_id = songs.id and p.user_id = %(user_id)s"
 _PREFS_SELECT = "coalesce(p.favorita, false) as favorita, coalesce(p.nota, '') as nota"
+
+# visibilidade multi-tenant — mesma condição de songs_service.py::_VISIBLE_SQL
+# (mantida separada aqui pra não criar um import cruzado só por uma string).
+_VISIBLE_SQL = "(songs.user_id = %(user_id)s OR songs.shared = true OR songs.user_id IS NULL)"
 
 
 def _rows_to_dicts(rows: list[dict]) -> list[dict]:
@@ -52,7 +59,7 @@ class SearchService:
         page_size: int = 50,
         sort: str = "titulo",
     ) -> dict:
-        where = ["1=1"]
+        where = [_VISIBLE_SQL]
         params: dict = {"user_id": user_id}
 
         if only_mine:
@@ -141,29 +148,37 @@ class SearchService:
             return []
         with db.get_pool().connection() as conn:
             rows = conn.execute(
-                f"SELECT {_LIST_COLUMNS}, {_PREFS_SELECT} FROM songs {_PREFS_JOIN} WHERE songs.slug = ANY(%(slugs)s)",
+                f"""SELECT {_LIST_COLUMNS}, {_PREFS_SELECT} FROM songs {_PREFS_JOIN}
+                    WHERE songs.slug = ANY(%(slugs)s) AND {_VISIBLE_SQL}""",
                 {"user_id": user_id, "slugs": slugs},
             ).fetchall()
         return _rows_to_dicts(rows)
 
     def facets(self, user_id: str) -> dict:
         """Valores distintos pra popular filtros no frontend — biblioteca
-        inteira, não filtra mais por usuário."""
+        inteira que o usuário pode ver (própria + compartilhada + órfã),
+        não mais por música que ele criou, mas também não vazando valores
+        de música privada alheia pros dropdowns de outra pessoa."""
         with db.get_pool().connection() as conn:
             generos = conn.execute(
-                "select distinct genero from songs where genero != '' order by 1"
+                f"select distinct genero from songs where genero != '' and {_VISIBLE_SQL} order by 1",
+                {"user_id": user_id},
             ).fetchall()
             interpretes = conn.execute(
-                "select distinct interprete from songs where interprete != '' order by 1"
+                f"select distinct interprete from songs where interprete != '' and {_VISIBLE_SQL} order by 1",
+                {"user_id": user_id},
             ).fetchall()
             tons = conn.execute(
-                "select distinct tom from songs where tom != '' order by 1"
+                f"select distinct tom from songs where tom != '' and {_VISIBLE_SQL} order by 1",
+                {"user_id": user_id},
             ).fetchall()
             ritmos = conn.execute(
-                "select distinct ritmo from songs where ritmo != '' order by 1"
+                f"select distinct ritmo from songs where ritmo != '' and {_VISIBLE_SQL} order by 1",
+                {"user_id": user_id},
             ).fetchall()
             tags = conn.execute(
-                "select distinct unnest(tags) as tag from songs order by 1"
+                f"select distinct unnest(tags) as tag from songs where {_VISIBLE_SQL} order by 1",
+                {"user_id": user_id},
             ).fetchall()
         return {
             "generos": [r["genero"] for r in generos],

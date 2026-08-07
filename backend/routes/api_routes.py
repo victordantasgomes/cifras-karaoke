@@ -143,6 +143,17 @@ def build_blueprint(ctx) -> Blueprint:
             return jsonify({"error": "Só quem criou esta música (ou um admin) pode excluí-la."}), 403
         return "", 204
 
+    @api.post("/songs/<slug>/shared")
+    @protected
+    def share_song(slug):
+        d = request.get_json(force=True)
+        try:
+            return jsonify(ctx.songs.set_shared(g.user_id, slug, bool(d.get("value"))))
+        except SongNotFound:
+            return jsonify({"error": "Música não encontrada."}), 404
+        except NotOwner:
+            return jsonify({"error": "Só quem criou esta música (ou um admin) pode alterar o compartilhamento."}), 403
+
     @api.post("/songs/<slug>/favorite")
     @protected
     def favorite(slug):
