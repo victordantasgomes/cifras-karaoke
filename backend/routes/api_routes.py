@@ -5,7 +5,8 @@ from flask import Blueprint, Response, g, jsonify, request
 
 from services.ai_service import AIError
 from services.auth_service import AuthError
-from services.plans_service import DuplicatePlanName, PlanNotFound
+from services.billing_service import BillingError
+from services.plans_service import DuplicatePlanName, PlanNotFound, StripeSyncError
 from services.songs_service import NotOwner, SongNotFound
 
 
@@ -100,6 +101,8 @@ def build_blueprint(ctx) -> Blueprint:
             return jsonify({"error": "Já existe um plano com esse nome."}), 400
         except ValueError as e:
             return jsonify({"error": str(e)}), 400
+        except StripeSyncError as e:
+            return jsonify({"error": f"Plano não sincronizou com a Stripe: {e}"}), 502
         return jsonify(plan), 201
 
     @api.put("/admin/plans/<plan_id>")
@@ -115,6 +118,54 @@ def build_blueprint(ctx) -> Blueprint:
             return jsonify({"error": "Plano não encontrado."}), 404
         except ValueError as e:
             return jsonify({"error": str(e)}), 400
+        except StripeSyncError as e:
+            return jsonify({"error": f"Plano não sincronizou com a Stripe: {e}"}), 502
+
+    # ---------------- planos (leitura pública p/ usuário logado) + cobrança ----------------
+    @api.get("/plans")
+    @protected
+    def list_plans():
+        return jsonify(ctx.plans.list_active())
+
+    @api.get("/billing/status")
+    @protected
+    def billing_status():
+        try:
+            return jsonify(ctx.billing.get_status(g.user_id))
+        except BillingError as e:
+            return jsonify({"error": str(e)}), 400
+
+    @api.post("/billing/checkout-session")
+    @protected
+    def create_checkout_session():
+        d = request.get_json(force=True)
+        try:
+            url = ctx.billing.create_checkout_session(
+                g.user_id, d.get("plan_id", ""),
+                d.get("success_url", ""), d.get("cancel_url", ""),
+            )
+        except BillingError as e:
+            return jsonify({"error": str(e)}), 400
+        return jsonify({"url": url})
+
+    @api.get("/billing/portal-session")
+    @protected
+    def get_portal_session():
+        try:
+            url = ctx.billing.create_portal_session(g.user_id, request.args.get("return_url", ""))
+        except BillingError as e:
+            return jsonify({"error": str(e)}), 400
+        return jsonify({"url": url})
+
+    # Webhook da Stripe — SEM @protected (a Stripe não manda Bearer token; a
+    # assinatura no cabeçalho Stripe-Signature é a autenticação daqui).
+    @api.post("/stripe/webhook")
+    def stripe_webhook():
+        try:
+            ctx.billing.handle_webhook_event(request.data, request.headers.get("Stripe-Signature", ""))
+        except BillingError as e:
+            return jsonify({"error": str(e)}), 400
+        return "", 200
 
     @api.post("/admin/plans/<plan_id>/active")
     @ctx.require_admin

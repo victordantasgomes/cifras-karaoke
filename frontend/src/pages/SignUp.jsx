@@ -9,7 +9,8 @@ import { useAuthStore } from '../store/authStore'
  * usuário pelo admin (Settings.jsx::UserAdminCard): aqui não existe campo
  * de "administrador", e a conta nasce com biblioteca privada por padrão
  * (ver POST /api/auth/register). Login automático após o cadastro, mesmo
- * padrão de sessão do Login.jsx.
+ * padrão de sessão do Login.jsx, seguido de redirecionamento pra escolha
+ * de plano (Fase 7 — Pricing.jsx).
  */
 export default function SignUp() {
   const [form, setForm] = useState({ name: '', username: '', email: '', password: '' })
@@ -23,9 +24,7 @@ export default function SignUp() {
     try {
       const { data } = await api.post('/auth/register', form)
       setSession(data.token, data.user)
-      // Fases 6/7 (planos + Stripe) ainda não existem — quando existirem,
-      // troca aqui pra redirecionar direto pra escolha de plano.
-      navigate('/')
+      navigate('/planos')
     } catch (e) {
       setError(e.response?.data?.error || 'Não foi possível criar sua conta.')
     } finally {

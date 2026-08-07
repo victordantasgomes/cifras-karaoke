@@ -1,14 +1,22 @@
 """Planos pagos do SaaS multi-tenant — admin-only (ver schema.sql::plans).
 
-`stripe_product_id`/`stripe_price_id` ficam None até a Fase 7 preencher —
-esta fase só cuida do cadastro dos planos em si (nome, limite de setlists,
-limite de armazenamento, preço), sem nenhuma integração de pagamento ainda.
-Preço é editável direto por enquanto; quando a Stripe existir, editar preço
-passa a criar um Price novo lá (Prices são imutáveis por natureza) em vez
-de só atualizar esta linha — ver plano em .claude/plans."""
+Sincroniza com a Stripe quando `STRIPE_SECRET_KEY` está configurada
+(Fase 7): criar um plano cria um Product + Price lá; editar `price_cents`
+cria um Price NOVO sob o mesmo Product (Prices da Stripe são imutáveis por
+natureza — nunca mutamos o existente, só passamos a apontar pra um novo em
+`stripe_price_id`, o que preserva quem já assinou no preço antigo).
+`max_setlists`/`storage_limit_mb` nunca tocam a Stripe — ela não sabe nada
+sobre esses dois. Sem `STRIPE_SECRET_KEY` (dev local sem chave, ou enquanto
+a Fase 6 ainda não tinha Stripe), planos continuam funcionando só como
+cadastro local, com os campos `stripe_*` vazios."""
 from __future__ import annotations
 
+import stripe
+
 import db
+from config import Config
+
+_CURRENCY = "brl"
 
 
 class PlanNotFound(Exception):
@@ -16,6 +24,10 @@ class PlanNotFound(Exception):
 
 
 class DuplicatePlanName(Exception):
+    pass
+
+
+class StripeSyncError(Exception):
     pass
 
 
@@ -28,12 +40,48 @@ def _row_to_dict(row: dict) -> dict:
     }
 
 
+def _stripe_enabled() -> bool:
+    return bool(Config.STRIPE_SECRET_KEY)
+
+
+def _create_stripe_product_and_price(name: str, price_cents: int) -> tuple[str, str]:
+    stripe.api_key = Config.STRIPE_SECRET_KEY
+    try:
+        product = stripe.Product.create(name=name)
+        price = stripe.Price.create(
+            product=product.id, unit_amount=price_cents, currency=_CURRENCY,
+            recurring={"interval": "month"},
+        )
+        return product.id, price.id
+    except stripe.error.StripeError as e:
+        raise StripeSyncError(str(e)) from e
+
+
+def _create_stripe_price(product_id: str, price_cents: int) -> str:
+    stripe.api_key = Config.STRIPE_SECRET_KEY
+    try:
+        price = stripe.Price.create(
+            product=product_id, unit_amount=price_cents, currency=_CURRENCY,
+            recurring={"interval": "month"},
+        )
+        return price.id
+    except stripe.error.StripeError as e:
+        raise StripeSyncError(str(e)) from e
+
+
 class PlansService:
     def list(self) -> list[dict]:
         """Todos os planos, ativos e arquivados — o admin precisa ver os
         dois pra poder reativar um arquivado por engano."""
         with db.get_pool().connection() as conn:
             rows = conn.execute("select * from plans order by price_cents").fetchall()
+        return [_row_to_dict(r) for r in rows]
+
+    def list_active(self) -> list[dict]:
+        """Pra tela de escolha de plano (qualquer usuário logado, não só
+        admin) — só os planos que ainda podem ser assinados."""
+        with db.get_pool().connection() as conn:
+            rows = conn.execute("select * from plans where active=true order by price_cents").fetchall()
         return [_row_to_dict(r) for r in rows]
 
     def create(self, name: str, max_setlists: int, storage_limit_mb: int, price_cents: int) -> dict:
@@ -46,28 +94,33 @@ class PlansService:
             exists = conn.execute("select 1 from plans where name=%s", (name,)).fetchone()
             if exists:
                 raise DuplicatePlanName(name)
+            stripe_product_id = stripe_price_id = None
+            if _stripe_enabled():
+                stripe_product_id, stripe_price_id = _create_stripe_product_and_price(name, price_cents)
             row = conn.execute(
-                """insert into plans (name, max_setlists, storage_limit_mb, price_cents)
-                   values (%s, %s, %s, %s) returning *""",
-                (name, max_setlists, storage_limit_mb, price_cents),
+                """insert into plans (name, max_setlists, storage_limit_mb, price_cents,
+                                       stripe_product_id, stripe_price_id)
+                   values (%s, %s, %s, %s, %s, %s) returning *""",
+                (name, max_setlists, storage_limit_mb, price_cents, stripe_product_id, stripe_price_id),
             ).fetchone()
         return _row_to_dict(row)
 
     def update(self, plan_id: str, max_setlists: int, storage_limit_mb: int, price_cents: int) -> dict:
-        """Atualização direta — nenhuma delas mexe na Stripe ainda (Fase 6).
-        Quando a Fase 7 existir, editar `price_cents` passa a também criar
-        um novo Price na Stripe; `max_setlists`/`storage_limit_mb` continuam
-        update direto, já que a Stripe não sabe nada sobre esses dois."""
         if max_setlists < 0 or storage_limit_mb < 0 or price_cents < 0:
             raise ValueError("Limites e preço não podem ser negativos.")
         with db.get_pool().connection() as conn:
+            current = conn.execute("select * from plans where id=%s", (plan_id,)).fetchone()
+            if not current:
+                raise PlanNotFound(plan_id)
+            stripe_price_id = current["stripe_price_id"]
+            price_changed = price_cents != current["price_cents"]
+            if price_changed and _stripe_enabled() and current["stripe_product_id"]:
+                stripe_price_id = _create_stripe_price(current["stripe_product_id"], price_cents)
             row = conn.execute(
-                """update plans set max_setlists=%s, storage_limit_mb=%s, price_cents=%s
+                """update plans set max_setlists=%s, storage_limit_mb=%s, price_cents=%s, stripe_price_id=%s
                    where id=%s returning *""",
-                (max_setlists, storage_limit_mb, price_cents, plan_id),
+                (max_setlists, storage_limit_mb, price_cents, stripe_price_id, plan_id),
             ).fetchone()
-        if not row:
-            raise PlanNotFound(plan_id)
         return _row_to_dict(row)
 
     def set_active(self, plan_id: str, value: bool) -> dict:

@@ -14,6 +14,7 @@ import ChordDictionary from './pages/ChordDictionary'
 import HistoryPage from './pages/HistoryPage'
 import Settings from './pages/Settings'
 import Profile from './pages/Profile'
+import Pricing from './pages/Pricing'
 
 export default function App() {
   useColorSettings()
@@ -35,6 +36,7 @@ export default function App() {
           <Route path="/historico" element={<HistoryPage />} />
           <Route path="/configuracoes" element={<Settings />} />
           <Route path="/perfil" element={<Profile />} />
+          <Route path="/planos" element={<Pricing />} />
         </Route>
       </Routes>
     </BrowserRouter>

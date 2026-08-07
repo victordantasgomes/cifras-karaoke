@@ -21,6 +21,7 @@ from routes.api_routes import build_blueprint
 from services.ai_service import AIService
 from services.audio_service import AudioService
 from services.auth_service import AuthService
+from services.billing_service import BillingService
 from services.chord_dictionary_service import ChordDictionaryService
 from services.clip_queue_service import ClipQueueService
 from services.history_service import HistoryService
@@ -50,6 +51,7 @@ class Services:
         self.chords = ChordDictionaryService()
         self.ai = AIService()
         self.plans = PlansService()
+        self.billing = BillingService()
         self.require_auth = require_auth(self.auth)
         self.require_admin = require_admin(self.auth)
 

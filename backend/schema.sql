@@ -218,3 +218,14 @@ create table if not exists plans (
     active             boolean not null default true,
     created_at         timestamptz not null default now()
 );
+
+-- Estado de assinatura fica direto em `users` (não numa tabela separada) —
+-- cada tenant é 1 login com no máximo 1 assinatura ativa, confirmado no
+-- plano; uma tabela própria seria generalidade sem uso agora. Precisa vir
+-- DEPOIS da criação de `plans` acima (plan_id referencia essa tabela).
+-- `subscription_status`: none|trialing|active|past_due|canceled.
+alter table users add column if not exists plan_id uuid references plans(id);
+alter table users add column if not exists stripe_customer_id text;
+alter table users add column if not exists stripe_subscription_id text;
+alter table users add column if not exists subscription_status text not null default 'none';
+alter table users add column if not exists current_period_end timestamptz;

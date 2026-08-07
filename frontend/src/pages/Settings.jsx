@@ -1,7 +1,16 @@
 import { useEffect, useRef, useState } from 'react'
+import { Link } from 'react-router-dom'
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import api from '../services/api'
 import { useAuthStore } from '../store/authStore'
+
+const SUBSCRIPTION_STATUS_LABELS = {
+  none: 'Sem assinatura',
+  trialing: 'Período de teste',
+  active: 'Ativa',
+  past_due: 'Pagamento pendente',
+  canceled: 'Cancelada',
+}
 
 const COLOR_FIELDS = [
   { key: 'sweepSung', label: 'Letra já cantada' },
@@ -110,6 +119,50 @@ function PedalSettingsCard() {
         <button className="btn primary" disabled={listening} onClick={() => setListening(true)}>
           {listening ? 'Aperte o pedal agora…' : 'Detectar tecla'}
         </button>
+      </div>
+    </div>
+  )
+}
+
+function BillingCard() {
+  const { data: status } = useQuery({
+    queryKey: ['billing-status'],
+    queryFn: () => api.get('/billing/status').then((r) => r.data),
+  })
+  const [busy, setBusy] = useState(false)
+  const [error, setError] = useState('')
+
+  const abrirPortal = async () => {
+    setBusy(true); setError('')
+    try {
+      const return_url = window.location.origin + '/configuracoes'
+      const { data } = await api.get('/billing/portal-session', { params: { return_url } })
+      window.location.href = data.url
+    } catch (e) {
+      setError(e.response?.data?.error || 'Não foi possível abrir o portal de cobrança.')
+      setBusy(false)
+    }
+  }
+
+  if (!status) return null
+
+  return (
+    <div className="card" style={{ marginBottom: 14 }}>
+      <h3 style={{ marginBottom: 12 }}>Assinatura</h3>
+      <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>
+        Status: <strong>{SUBSCRIPTION_STATUS_LABELS[status.subscription_status] || status.subscription_status}</strong>
+        {status.plan_name && <> · plano <strong>{status.plan_name}</strong></>}
+        {status.current_period_end && <> · renova em {new Date(status.current_period_end).toLocaleDateString('pt-BR')}</>}
+      </p>
+      {error && <div className="error-text" style={{ marginBottom: 10 }}>{error}</div>}
+      <div className="row" style={{ gap: 8 }}>
+        {status.subscription_status === 'none' ? (
+          <Link className="btn primary" to="/planos">Ver planos</Link>
+        ) : (
+          <button className="btn" disabled={busy} onClick={abrirPortal}>
+            {busy ? 'Abrindo…' : 'Gerenciar assinatura'}
+          </button>
+        )}
       </div>
     </div>
   )
@@ -262,8 +315,9 @@ function PlansAdminCard() {
       <h3 style={{ marginBottom: 12 }}>Planos</h3>
       <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>
         Planos pagos do sistema — cada um define quantos setlists e quanto
-        espaço de áudio um assinante tem direito. A cobrança de verdade
-        (Stripe) ainda não está integrada; por enquanto isso é só o cadastro.
+        espaço de áudio um assinante tem direito. Criar um plano (ou editar o
+        preço de um existente) sincroniza automaticamente um Produto/Preço na
+        Stripe.
       </p>
 
       {plans?.length > 0 && (
@@ -450,6 +504,7 @@ export default function Settings() {
       <div className="page-sub">Preferências visuais.</div>
       <ColorSettingsCard />
       <PedalSettingsCard />
+      <BillingCard />
       {user?.is_admin && <UserAdminCard />}
       {user?.is_admin && <PlansAdminCard />}
       {user?.is_admin && <NormalizeLibraryCard />}
