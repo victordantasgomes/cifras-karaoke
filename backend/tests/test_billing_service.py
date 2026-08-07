@@ -143,3 +143,17 @@ def test_webhook_invoice_payment_failed_marks_past_due(billing, fake_stripe, use
 def test_webhook_ignores_unhandled_event_types(billing, fake_stripe, user_id):
     payload = _webhook_payload("customer.updated", {"customer": "cus_5"})
     billing.handle_webhook_event(payload, fake_stripe.VALID_SIG)  # não deve levantar
+
+
+@pytest.mark.parametrize("status,blocked", [
+    ("none", False), ("trialing", False), ("active", False),
+    ("past_due", True), ("canceled", True),
+])
+def test_is_creation_blocked_matches_subscription_status(billing, user_id, status, blocked):
+    with db.get_pool().connection() as conn:
+        conn.execute("update users set subscription_status=%s where id=%s", (status, user_id))
+    assert billing.is_creation_blocked(user_id) is blocked
+
+
+def test_is_creation_blocked_false_for_unknown_user(billing):
+    assert billing.is_creation_blocked("nao-existe") is False

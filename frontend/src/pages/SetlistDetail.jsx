@@ -14,6 +14,7 @@ export default function SetlistDetail() {
   const [nome, setNome] = useState('')
   const [dragIdx, setDragIdx] = useState(null)
   const [q, setQ] = useState('')
+  const [error, setError] = useState('')
   const dq = useDebounce(q)
 
   const { data } = useQuery({
@@ -32,7 +33,23 @@ export default function SetlistDetail() {
 
   const save = useMutation({
     mutationFn: (next) => api.put(`/setlists/${id}`, { nome, items: next.map((i) => i.ref) }),
-    onSuccess: () => qc.invalidateQueries(['setlist', id]),
+    onSuccess: () => { setError(''); qc.invalidateQueries({ queryKey: ['setlist', id] }) },
+    onError: (e) => {
+      // a mudança local (setItems) já tinha sido aplicada de forma otimista —
+      // se o servidor recusou (ex.: limite de armazenamento do plano), volta
+      // pro último estado confirmado do servidor. Não dá pra confiar num
+      // invalidate+refetch pra isso: quando o valor corrigido é IGUAL ao que
+      // já estava em cache antes da tentativa otimista (o caso comum aqui —
+      // a escrita foi rejeitada, então nada mudou no servidor), o
+      // structuralSharing do React Query mantém a mesma referência de
+      // `data`, o efeito que sincroniza items/nome não dispara de novo, e a
+      // tela ficaria presa mostrando a mudança otimista como se tivesse
+      // sido salva. `data` (do useQuery acima) sempre reflete o último GET
+      // bem-sucedido — nunca é tocado por um PUT que falhou — por isso é
+      // uma fonte confiável pra reverter direto, sem depender do efeito.
+      setError(e.response?.data?.error || 'Não foi possível salvar o setlist.')
+      if (data) { setItems(data.items); setNome(data.nome) }
+    },
   })
 
   // move um item de `from` para `to` — usado tanto pelos botões ▲▼ quanto pelo drag-and-drop
@@ -80,6 +97,7 @@ export default function SetlistDetail() {
 
   return (
     <>
+      {error && <div className="error-text no-print" style={{ marginBottom: 14 }}>{error}</div>}
       <div className="row no-print" style={{ justifyContent: 'space-between' }}>
         <div>
           {isOwner ? (

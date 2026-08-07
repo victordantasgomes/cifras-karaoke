@@ -7,6 +7,7 @@ from services.ai_service import AIError
 from services.auth_service import AuthError
 from services.billing_service import BillingError
 from services.plans_service import DuplicatePlanName, PlanNotFound, StripeSyncError
+from services.quota_service import QuotaExceeded
 from services.songs_service import NotOwner, SongNotFound
 
 
@@ -14,6 +15,7 @@ def build_blueprint(ctx) -> Blueprint:
     """ctx: container de serviços (ver app.py)."""
     api = Blueprint("api", __name__, url_prefix="/api")
     protected = ctx.require_auth
+    not_blocked = ctx.require_not_blocked
 
     # ---------------- auth ----------------
     @api.post("/auth/login")
@@ -224,6 +226,7 @@ def build_blueprint(ctx) -> Blueprint:
 
     @api.post("/songs")
     @protected
+    @not_blocked
     def upload_song():
         if "file" in request.files:
             f = request.files["file"]
@@ -339,6 +342,7 @@ def build_blueprint(ctx) -> Blueprint:
     # ---------------- áudio (faixa de referência + samples) ----------------
     @api.post("/songs/<slug>/audio")
     @protected
+    @not_blocked
     def upload_audio(slug):
         f = request.files.get("file")
         if not f:
@@ -371,6 +375,7 @@ def build_blueprint(ctx) -> Blueprint:
 
     @api.post("/songs/<slug>/samples")
     @protected
+    @not_blocked
     def upload_sample(slug):
         f = request.files.get("file")
         nome = request.form.get("nome", "")
@@ -412,6 +417,7 @@ def build_blueprint(ctx) -> Blueprint:
     # ---------------- fila de clipes (pedal) ----------------
     @api.post("/songs/<slug>/clips")
     @protected
+    @not_blocked
     def upload_clip(slug):
         f = request.files.get("file")
         nome = request.form.get("nome", "")
@@ -500,10 +506,14 @@ def build_blueprint(ctx) -> Blueprint:
 
     @api.post("/setlists")
     @protected
+    @not_blocked
     def create_setlist():
         d = request.get_json(force=True)
-        return jsonify(ctx.setlists.save(g.user_id, d.get("nome", "Novo setlist"),
-                                         d.get("items", []))), 201
+        try:
+            return jsonify(ctx.setlists.save(g.user_id, d.get("nome", "Novo setlist"),
+                                             d.get("items", []))), 201
+        except QuotaExceeded as e:
+            return jsonify({"error": str(e)}), 402
 
     @api.get("/setlists/<setlist_id>")
     @protected
@@ -522,6 +532,8 @@ def build_blueprint(ctx) -> Blueprint:
                                              d.get("items", []), setlist_id))
         except PermissionError:
             return jsonify({"error": "Só quem criou este setlist pode editá-lo."}), 403
+        except QuotaExceeded as e:
+            return jsonify({"error": str(e)}), 402
 
     @api.delete("/setlists/<setlist_id>")
     @protected
@@ -552,12 +564,22 @@ def build_blueprint(ctx) -> Blueprint:
 
     @api.post("/setlists/import")
     @protected
+    @not_blocked
     def import_setlist():
         if "file" in request.files:
             content = request.files["file"].read().decode("utf-8", errors="replace")
         else:
             content = request.get_json(force=True).get("content", "")
-        return jsonify(ctx.setlists.import_txt(g.user_id, content)), 201
+        try:
+            return jsonify(ctx.setlists.import_txt(g.user_id, content)), 201
+        except QuotaExceeded as e:
+            return jsonify({"error": str(e)}), 402
+
+    # ---------------- uso do plano ----------------
+    @api.get("/quota/usage")
+    @protected
+    def quota_usage():
+        return jsonify(ctx.quota.usage(g.user_id) or {})
 
     # ---------------- configurações ----------------
     @api.get("/settings")

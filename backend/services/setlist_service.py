@@ -29,6 +29,9 @@ def _unique_setlist_slug(conn, user_id: str, base_slug: str) -> str:
 
 
 class SetlistService:
+    def __init__(self, quota=None):
+        self.quota = quota  # injetado depois pra evitar ciclo com QuotaService
+
     def _resolve_many(self, refs: list[str]) -> list[dict | None]:
         """Resolve várias refs 'Artista/Título' contra a biblioteca inteira
         (biblioteca global — não filtra mais por dono do setlist).
@@ -110,15 +113,26 @@ class SetlistService:
         """Setlist órfão (dono excluído — ver AuthService.delete_user) pode
         ser editado por qualquer um, mesma lógica de "música órfã" em
         SongsService.update: conteúdo sobrevive à exclusão do usuário, mas
-        sem dono ninguém ficaria travado pra sempre incapaz de mexer nele."""
-        with db.get_pool().connection() as conn:
-            existing = None
-            if setlist_id:
+        sem dono ninguém ficaria travado pra sempre incapaz de mexer nele.
+
+        Limites de plano (ver QuotaService) são checados ANTES de qualquer
+        escrita — estourar o limite não grava nada parcial pra depois
+        avisar, a ação inteira é bloqueada de cara."""
+        existing = None
+        if setlist_id:
+            with db.get_pool().connection() as conn:
                 existing = conn.execute(
                     "select id, user_id from setlists where slug=%s", (setlist_id,),
                 ).fetchone()
             if existing and existing["user_id"] is not None and existing["user_id"] != user_id:
                 raise PermissionError(setlist_id)
+
+        if self.quota:
+            if not existing:
+                self.quota.check_setlist_creation(user_id)
+            self.quota.check_setlist_storage(user_id, items, exclude_setlist_pk=existing["id"] if existing else None)
+
+        with db.get_pool().connection() as conn:
             if existing:
                 setlist_pk, slug = existing["id"], setlist_id
                 conn.execute("update setlists set nome=%s where id=%s", (name, setlist_pk))

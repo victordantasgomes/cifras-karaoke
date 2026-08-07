@@ -129,6 +129,10 @@ function BillingCard() {
     queryKey: ['billing-status'],
     queryFn: () => api.get('/billing/status').then((r) => r.data),
   })
+  const { data: usage } = useQuery({
+    queryKey: ['quota-usage'],
+    queryFn: () => api.get('/quota/usage').then((r) => r.data),
+  })
   const [busy, setBusy] = useState(false)
   const [error, setError] = useState('')
 
@@ -154,6 +158,11 @@ function BillingCard() {
         {status.plan_name && <> · plano <strong>{status.plan_name}</strong></>}
         {status.current_period_end && <> · renova em {new Date(status.current_period_end).toLocaleDateString('pt-BR')}</>}
       </p>
+      {usage?.setlists_max != null && (
+        <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>
+          {usage.setlists_used} de {usage.setlists_max} setlists · {usage.storage_used_mb} de {usage.storage_limit_mb} MB de armazenamento
+        </p>
+      )}
       {error && <div className="error-text" style={{ marginBottom: 10 }}>{error}</div>}
       <div className="row" style={{ gap: 8 }}>
         {status.subscription_status === 'none' ? (

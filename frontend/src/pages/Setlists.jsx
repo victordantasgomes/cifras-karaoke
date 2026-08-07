@@ -6,32 +6,36 @@ import api from '../services/api'
 export default function Setlists() {
   const qc = useQueryClient()
   const [name, setName] = useState('')
+  const [error, setError] = useState('')
   const { data } = useQuery({ queryKey: ['setlists'], queryFn: () => api.get('/setlists').then((r) => r.data) })
 
   const create = useMutation({
     mutationFn: () => api.post('/setlists', { nome: name, items: [] }),
-    onSuccess: () => { setName(''); qc.invalidateQueries(['setlists']) },
+    onSuccess: () => { setName(''); setError(''); qc.invalidateQueries({ queryKey: ['setlists'] }) },
+    onError: (e) => setError(e.response?.data?.error || 'Não foi possível criar o setlist.'),
   })
   const importFile = useMutation({
     mutationFn: (file) => {
       const fd = new FormData(); fd.append('file', file)
       return api.post('/setlists/import', fd)
     },
-    onSuccess: () => qc.invalidateQueries(['setlists']),
+    onSuccess: () => { setError(''); qc.invalidateQueries({ queryKey: ['setlists'] }) },
+    onError: (e) => setError(e.response?.data?.error || 'Não foi possível importar o setlist.'),
   })
   const remove = useMutation({
     mutationFn: (id) => api.delete(`/setlists/${id}`),
-    onSuccess: () => qc.invalidateQueries(['setlists']),
+    onSuccess: () => qc.invalidateQueries({ queryKey: ['setlists'] }),
   })
   const toggleShare = useMutation({
     mutationFn: ({ id, value }) => api.post(`/setlists/${id}/share`, { value }),
-    onSuccess: () => qc.invalidateQueries(['setlists']),
+    onSuccess: () => qc.invalidateQueries({ queryKey: ['setlists'] }),
   })
 
   return (
     <>
       <h1 className="page-title">Setlists</h1>
       <div className="page-sub">Organize o repertório de cada apresentação.</div>
+      {error && <div className="error-text" style={{ marginBottom: 14 }}>{error}</div>}
       <div className="row no-print" style={{ marginBottom: 18 }}>
         <input className="input" style={{ maxWidth: 260 }} placeholder="Nome do novo setlist"
           value={name} onChange={(e) => setName(e.target.value)}

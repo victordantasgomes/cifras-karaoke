@@ -16,7 +16,7 @@ from flask_cors import CORS
 
 import db
 from config import Config
-from middlewares.auth_middleware import require_admin, require_auth
+from middlewares.auth_middleware import require_admin, require_auth, require_not_blocked
 from routes.api_routes import build_blueprint
 from services.ai_service import AIService
 from services.audio_service import AudioService
@@ -27,6 +27,7 @@ from services.clip_queue_service import ClipQueueService
 from services.history_service import HistoryService
 from services.karaoke_service import KaraokeService
 from services.plans_service import PlansService
+from services.quota_service import QuotaService
 from services.search_service import SearchService
 from services.setlist_service import SetlistService
 from services.settings_service import SettingsService
@@ -52,8 +53,11 @@ class Services:
         self.ai = AIService()
         self.plans = PlansService()
         self.billing = BillingService()
+        self.quota = QuotaService(setlists=self.setlists)
+        self.setlists.quota = self.quota  # injetado depois pra evitar ciclo
         self.require_auth = require_auth(self.auth)
         self.require_admin = require_admin(self.auth)
+        self.require_not_blocked = require_not_blocked(self.billing)
 
 
 def create_app() -> Flask:

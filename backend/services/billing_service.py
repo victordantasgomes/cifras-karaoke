@@ -20,6 +20,7 @@ import db
 from config import Config
 
 TRIAL_DAYS = 14
+_CREATION_BLOCKED_STATUSES = {"past_due", "canceled"}
 
 
 class BillingError(Exception):
@@ -49,6 +50,15 @@ class BillingService:
             "plan_id": str(row["plan_id"]) if row["plan_id"] else None,
             "plan_name": row["plan_name"],
         }
+
+    def is_creation_blocked(self, user_id: str) -> bool:
+        """Cartão vencido/assinatura cancelada nunca apaga dados nem
+        bloqueia tocar música ao vivo — só bloqueia CRIAR conteúdo novo
+        (música, setlist, upload de áudio/clipe), ver require_not_blocked
+        em middlewares/auth_middleware.py."""
+        with db.get_pool().connection() as conn:
+            row = conn.execute("select subscription_status from users where id=%s", (user_id,)).fetchone()
+        return bool(row) and row["subscription_status"] in _CREATION_BLOCKED_STATUSES
 
     def _get_or_create_customer(self, conn, user_id: str) -> str:
         row = conn.execute(
