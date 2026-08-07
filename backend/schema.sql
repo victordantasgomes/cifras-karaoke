@@ -158,3 +158,19 @@ create table if not exists samples (
     blob_url  text not null,
     unique (song_id, sample_id)
 );
+
+-- Fila de clipes curtos disparados manualmente por pedal (foot switch) —
+-- recurso independente dos `samples` acima (que disparam sozinhos por
+-- timestamp `[t=SEG]`): aqui a ordem em `position` é que dita a sequência,
+-- sem nenhuma marcação no corpo da cifra.
+create table if not exists song_clips (
+    id           uuid primary key default gen_random_uuid(),
+    song_id      uuid not null references songs(id) on delete cascade,
+    position     int not null,
+    nome         text not null,
+    blob_url     text not null,
+    content_type text not null default '',
+    size_bytes   bigint not null default 0,
+    created_at   timestamptz not null default now()
+);
+create index if not exists idx_song_clips_song on song_clips(song_id, position);

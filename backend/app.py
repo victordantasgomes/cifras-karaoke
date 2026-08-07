@@ -22,6 +22,7 @@ from services.ai_service import AIService
 from services.audio_service import AudioService
 from services.auth_service import AuthService
 from services.chord_dictionary_service import ChordDictionaryService
+from services.clip_queue_service import ClipQueueService
 from services.history_service import HistoryService
 from services.karaoke_service import KaraokeService
 from services.search_service import SearchService
@@ -38,9 +39,11 @@ class Services:
         self.search = SearchService()
         self.setlists = SetlistService()
         self.audio = AudioService()
-        self.songs = SongsService(setlists=self.setlists, audio=self.audio)
+        self.clips = ClipQueueService()
+        self.songs = SongsService(setlists=self.setlists, audio=self.audio, clips=self.clips)
         self.audio.songs = self.songs  # injetado depois pra evitar ciclo
-        self.karaoke = KaraokeService(self.songs, self.audio)
+        self.clips.songs = self.songs  # idem
+        self.karaoke = KaraokeService(self.songs, self.audio, self.clips)
         self.history = HistoryService(self.songs)
         self.settings = SettingsService()
         self.chords = ChordDictionaryService()

@@ -3,6 +3,7 @@ import pytest
 import db
 from services.audio_service import AudioService
 from services.auth_service import AuthService
+from services.clip_queue_service import ClipQueueService
 from services.search_service import SearchService
 from services.setlist_service import SetlistService
 from services.songs_service import NotOwner, SongNotFound, SongsService
@@ -460,3 +461,40 @@ def test_karaoke_payload_resolves_sample_with_time_and_upload(ctx):
     k = KaraokeService(songs, audio)
     payload = k.payload("u1", entry["slug"])
     assert payload["samples"] == [{"id": "solo-de-guitarra", "nome": "Solo de Guitarra", "t": 42.5}]
+
+
+def test_karaoke_payload_defaults_modo_pedal_empty(ctx):
+    songs, _, audio = ctx
+    entry = _create(songs)
+    k = KaraokeService(songs, audio, ClipQueueService(songs))
+    payload = k.payload("u1", entry["slug"])
+    assert payload["modo_pedal"] == "" and payload["clips"] == []
+
+
+def test_karaoke_payload_lists_clips_in_fila_clipes_mode(ctx, fake_blob_store):
+    songs, _, audio = ctx
+    clips = ClipQueueService(songs)
+    entry = _create(songs)
+    header = songs.get("u1", entry["slug"])["header"]
+    header = {**header, "modopedal": "fila_clipes"}
+    songs.update("u1", entry["slug"], header, songs.get("u1", entry["slug"])["body"])
+    clips.save_clip("u1", entry["slug"], _FakeFile("a.mp3"), "Intro")
+    clips.save_clip("u1", entry["slug"], _FakeFile("b.mp3"), "Solo")
+    k = KaraokeService(songs, audio, clips)
+    payload = k.payload("u1", entry["slug"])
+    assert payload["modo_pedal"] == "fila_clipes"
+    assert [c["nome"] for c in payload["clips"]] == ["Intro", "Solo"]
+
+
+def test_karaoke_payload_omits_clips_in_faixa_completa_mode(ctx, fake_blob_store):
+    songs, _, audio = ctx
+    clips = ClipQueueService(songs)
+    entry = _create(songs)
+    header = songs.get("u1", entry["slug"])["header"]
+    header = {**header, "modopedal": "faixa_completa"}
+    songs.update("u1", entry["slug"], header, songs.get("u1", entry["slug"])["body"])
+    clips.save_clip("u1", entry["slug"], _FakeFile("a.mp3"), "Intro")
+    k = KaraokeService(songs, audio, clips)
+    payload = k.payload("u1", entry["slug"])
+    assert payload["modo_pedal"] == "faixa_completa"
+    assert payload["clips"] == []

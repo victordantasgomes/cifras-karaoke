@@ -31,6 +31,13 @@ sem troca de cor) numa velocidade fixa derivada de ``tempo_execucao``
 existente acima. ``tempo_execucao_segundos`` é o mm:ss já convertido (None
 se ausente/mal formatado — o frontend cai de volta para uma estimativa
 baseada em ``ms_per_line``).
+
+``modo_pedal`` (``@modopedal``) habilita o controle por pedal (foot switch)
+durante a apresentação: "fila_clipes" expõe a lista ordenada de ``clips``
+(ver ClipQueueService) que o pedal avança manualmente, um a um; "faixa_completa"
+usa a faixa de referência já existente (``has_audio``), só precisando de uma
+tecla dedicada pro pedal ligar/desligar — o sincronismo de rolagem já
+prioriza áudio real sobre velocidade, sem nada novo aqui.
 """
 from __future__ import annotations
 
@@ -63,9 +70,10 @@ def mmss_to_seconds(value: str) -> int | None:
 
 
 class KaraokeService:
-    def __init__(self, songs: SongsService, audio: AudioService):
+    def __init__(self, songs: SongsService, audio: AudioService, clips=None):
         self.songs = songs
         self.audio = audio
+        self.clips = clips
 
     def payload(self, user_id: str, slug: str) -> dict:
         data = self.songs.get(user_id, slug)
@@ -100,6 +108,11 @@ class KaraokeService:
             modo_execucao = "rolagem"
         tempo_execucao = data["header"].get("tempoexecucao", "")
 
+        modo_pedal = (data["header"].get("modopedal") or "").strip().lower()
+        if modo_pedal not in ("fila_clipes", "faixa_completa"):
+            modo_pedal = ""
+        clips = self.clips.list_clips(user_id, slug) if (self.clips and modo_pedal == "fila_clipes") else []
+
         return {
             "slug": slug,
             "titulo": data["titulo"],
@@ -116,4 +129,6 @@ class KaraokeService:
             "modo_execucao": modo_execucao,
             "tempo_execucao": tempo_execucao,
             "tempo_execucao_segundos": mmss_to_seconds(tempo_execucao),
+            "modo_pedal": modo_pedal,
+            "clips": [{"id": c["id"], "nome": c["nome"]} for c in clips],
         }

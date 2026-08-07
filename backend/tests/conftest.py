@@ -22,7 +22,7 @@ from config import Config
 from services import blob_client
 
 _TABLES = (
-    "setlist_items", "setlists", "samples", "audio_tracks", "user_song_prefs",
+    "setlist_items", "setlists", "samples", "song_clips", "audio_tracks", "user_song_prefs",
     "song_plays", "song_versions", "songs", "settings", "users",
 )
 

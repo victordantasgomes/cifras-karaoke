@@ -272,6 +272,58 @@ def build_blueprint(ctx) -> Blueprint:
             return jsonify({"error": "Só quem criou esta música (ou um admin) pode remover samples."}), 403
         return "", 204
 
+    # ---------------- fila de clipes (pedal) ----------------
+    @api.post("/songs/<slug>/clips")
+    @protected
+    def upload_clip(slug):
+        f = request.files.get("file")
+        nome = request.form.get("nome", "")
+        if not f:
+            return jsonify({"error": "Arquivo de áudio ausente."}), 400
+        try:
+            clip = ctx.clips.save_clip(g.user_id, slug, f, nome)
+        except SongNotFound:
+            return jsonify({"error": "Música não encontrada."}), 404
+        except NotOwner:
+            return jsonify({"error": "Só quem criou esta música (ou um admin) pode enviar clipes."}), 403
+        except ValueError as e:
+            return jsonify({"error": str(e)}), 400
+        return jsonify(clip), 201
+
+    @api.get("/songs/<slug>/clips")
+    @protected
+    def list_clips(slug):
+        return jsonify(ctx.clips.list_clips(g.user_id, slug))
+
+    @api.post("/songs/<slug>/clips/reorder")
+    @protected
+    def reorder_clips(slug):
+        d = request.get_json(force=True)
+        try:
+            return jsonify(ctx.clips.reorder_clips(g.user_id, slug, d.get("ids", [])))
+        except SongNotFound:
+            return jsonify({"error": "Música não encontrada."}), 404
+        except NotOwner:
+            return jsonify({"error": "Só quem criou esta música (ou um admin) pode reordenar clipes."}), 403
+
+    @api.get("/songs/<slug>/clips/<clip_id>")
+    @protected
+    def get_clip(slug, clip_id):
+        result = ctx.clips.clip_bytes(g.user_id, slug, clip_id)
+        if not result:
+            return jsonify({"error": "Clipe não encontrado."}), 404
+        data, content_type = result
+        return Response(data, mimetype=content_type or "application/octet-stream")
+
+    @api.delete("/songs/<slug>/clips/<clip_id>")
+    @protected
+    def delete_clip(slug, clip_id):
+        try:
+            ctx.clips.delete_clip(g.user_id, slug, clip_id)
+        except NotOwner:
+            return jsonify({"error": "Só quem criou esta música (ou um admin) pode remover clipes."}), 403
+        return "", 204
+
     # ---------------- karaokê ----------------
     @api.get("/karaoke/<slug>")
     @protected

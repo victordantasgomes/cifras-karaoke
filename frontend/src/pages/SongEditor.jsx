@@ -24,6 +24,11 @@ const EXECUTION_MODES = [
   { value: 'rolagem', label: 'Rolagem (rola a página inteira)' },
   { value: 'karaoke', label: 'Karaokê (linha a linha)' },
 ]
+const MODO_PEDAL_OPTIONS = [
+  { value: '', label: 'Desligado' },
+  { value: 'fila_clipes', label: 'Fila de clipes curtos' },
+  { value: 'faixa_completa', label: 'Faixa completa (a de referência, acima)' },
+]
 const TEMPO_EXECUCAO_RE = /^[0-9]+:[0-5][0-9]$/
 
 // Rótulos de seção mais usados no acervo (convenção "[Texto]" já existente nos arquivos).
@@ -728,6 +733,28 @@ function AudioTab({ slug, body, markLineTime, header, updateHeaderField, isOwner
         </div>
       </div>
 
+      <div className="card" style={{ marginBottom: 16 }}>
+        <h3 style={{ marginBottom: 12 }}>Pedal (foot switch)</h3>
+        <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>
+          Controle a reprodução com as mãos livres durante a apresentação, usando
+          um pedal USB configurado para enviar uma tecla — a tecla em si é
+          configurada em Configurações, uma vez só, e vale pra qualquer música.
+        </p>
+        <div className="field" style={{ maxWidth: 280 }}>
+          <label>Modo do pedal nesta música</label>
+          <select className="input" value={header.modopedal || ''} disabled={!isOwner}
+            onChange={(e) => updateHeaderField('modopedal', e.target.value)}>
+            {MODO_PEDAL_OPTIONS.map((m) => <option key={m.value} value={m.value}>{m.label}</option>)}
+          </select>
+        </div>
+        {header.modopedal === 'fila_clipes' && <ClipQueueSection slug={slug} isOwner={isOwner} />}
+        {header.modopedal === 'faixa_completa' && (
+          <div className="page-sub" style={{ marginTop: 10 }}>
+            A tecla do pedal liga/desliga a faixa de referência enviada acima.
+          </div>
+        )}
+      </div>
+
       <div className="card">
         <h3 style={{ marginBottom: 12 }}>Samples / solos</h3>
         {samples && Object.keys(samples).length === 0 && <div className="empty">Nenhum sample enviado.</div>}
@@ -779,6 +806,114 @@ function SampleRow({ slug, id, nome, onDelete, deleting, isOwner }) {
   }, [blob])
   return (
     <div className="row" style={{ marginBottom: 8, alignItems: 'center' }}>
+      <span style={{ minWidth: 160 }}>{nome}</span>
+      {url && <audio controls src={url} style={{ height: 32, flex: 1 }} />}
+      {isOwner && <button className="btn danger" onClick={onDelete} disabled={deleting}>Excluir</button>}
+    </div>
+  )
+}
+
+function ClipQueueSection({ slug, isOwner }) {
+  const qc = useQueryClient()
+  const [clipFile, setClipFile] = useState(null)
+  const [clipNome, setClipNome] = useState('')
+
+  const { data: clips } = useQuery({
+    queryKey: ['song-clips', slug],
+    queryFn: () => api.get(`/songs/${slug}/clips`).then((r) => r.data),
+  })
+
+  const invalidate = () => qc.invalidateQueries({ queryKey: ['song-clips', slug] })
+
+  const uploadClip = useMutation({
+    mutationFn: () => {
+      const fd = new FormData()
+      fd.append('file', clipFile)
+      fd.append('nome', clipNome)
+      return api.post(`/songs/${slug}/clips`, fd)
+    },
+    onSuccess: () => { setClipFile(null); setClipNome(''); invalidate() },
+  })
+
+  const reorderClips = useMutation({
+    mutationFn: (ids) => api.post(`/songs/${slug}/clips/reorder`, { ids }),
+    onSuccess: invalidate,
+  })
+
+  const deleteClip = useMutation({
+    mutationFn: (id) => api.delete(`/songs/${slug}/clips/${id}`),
+    onSuccess: invalidate,
+  })
+
+  const move = (index, delta) => {
+    const target = index + delta
+    if (!clips || target < 0 || target >= clips.length) return
+    const next = [...clips]
+    ;[next[index], next[target]] = [next[target], next[index]]
+    reorderClips.mutate(next.map((c) => c.id))
+  }
+
+  return (
+    <div style={{ marginTop: 16 }}>
+      <h4 style={{ marginBottom: 8, fontSize: 14 }}>Fila de clipes</h4>
+      {clips && clips.length === 0 && <div className="empty">Nenhum clipe enviado ainda.</div>}
+      {clips && clips.map((c, i) => (
+        <ClipRow key={c.id} slug={slug} id={c.id} nome={c.nome} isOwner={isOwner}
+          onMoveUp={() => move(i, -1)} onMoveDown={() => move(i, 1)}
+          canMoveUp={i > 0} canMoveDown={i < clips.length - 1}
+          onDelete={() => deleteClip.mutate(c.id)} deleting={deleteClip.isPending} />
+      ))}
+      {isOwner && (
+        <div className="row" style={{ marginTop: 12 }}>
+          <div className="field" style={{ flex: 1 }}>
+            <label>Nome do clipe</label>
+            <input className="input" value={clipNome} onChange={(e) => setClipNome(e.target.value)}
+              placeholder="ex.: Introdução" />
+          </div>
+          <div className="field" style={{ flex: 1 }}>
+            <label>Arquivo de áudio</label>
+            <input className="input" type="file" accept="audio/*" onChange={(e) => setClipFile(e.target.files[0])} />
+          </div>
+          <button className="btn primary" disabled={!clipFile || !clipNome.trim() || uploadClip.isPending}
+            onClick={() => uploadClip.mutate()}>
+            {uploadClip.isPending ? 'Enviando…' : '+ Clipe'}
+          </button>
+        </div>
+      )}
+      <div className="page-sub" style={{ marginTop: 10 }}>
+        Cada aperto do pedal toca o próximo clipe da fila, interrompendo o
+        anterior se ainda estiver tocando. Depois do último, o pedal não faz
+        mais nada até a página ser recarregada.
+      </div>
+    </div>
+  )
+}
+
+function ClipRow({ slug, id, nome, isOwner, onMoveUp, onMoveDown, canMoveUp, canMoveDown, onDelete, deleting }) {
+  const { data: blob } = useQuery({
+    queryKey: ['clip-audio-blob', slug, id],
+    queryFn: () => api.get(`/songs/${slug}/clips/${id}`, { responseType: 'blob' }).then((r) => r.data),
+    staleTime: Infinity,
+    refetchOnWindowFocus: false,
+    refetchOnReconnect: false,
+  })
+  const [url, setUrl] = useState(null)
+  useEffect(() => {
+    if (!blob) return undefined
+    const u = URL.createObjectURL(blob)
+    setUrl(u)
+    return () => URL.revokeObjectURL(u)
+  }, [blob])
+  return (
+    <div className="row" style={{ marginBottom: 8, alignItems: 'center' }}>
+      {isOwner && (
+        <div className="row" style={{ flexDirection: 'column', gap: 2, flexWrap: 'nowrap' }}>
+          <button type="button" className="btn ghost" style={{ padding: '1px 6px', fontSize: 11, lineHeight: 1.4 }}
+            disabled={!canMoveUp} title="Mover pra cima" onClick={onMoveUp}>▲</button>
+          <button type="button" className="btn ghost" style={{ padding: '1px 6px', fontSize: 11, lineHeight: 1.4 }}
+            disabled={!canMoveDown} title="Mover pra baixo" onClick={onMoveDown}>▼</button>
+        </div>
+      )}
       <span style={{ minWidth: 160 }}>{nome}</span>
       {url && <audio controls src={url} style={{ height: 32, flex: 1 }} />}
       {isOwner && <button className="btn danger" onClick={onDelete} disabled={deleting}>Excluir</button>}

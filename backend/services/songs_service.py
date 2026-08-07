@@ -90,9 +90,10 @@ def _unique_slug(conn, base_slug: str, exclude_id: str | None = None) -> str:
 
 
 class SongsService:
-    def __init__(self, setlists=None, audio=None):
+    def __init__(self, setlists=None, audio=None, clips=None):
         self.setlists = setlists  # injetado depois para evitar ciclo
         self.audio = audio  # idem — AudioService
+        self.clips = clips  # idem — ClipQueueService
 
     # ---------- leitura ----------
     def _fetch(self, slug: str) -> dict | None:
@@ -260,6 +261,8 @@ class SongsService:
             # — as linhas em audio_tracks/samples somem via ON DELETE CASCADE,
             # mas isso não apaga o arquivo/objeto armazenado.
             self.audio.delete_all_for_slug(user_id, row["slug"])
+        if self.clips:
+            self.clips.delete_all_for_song(user_id, row["slug"])
         with db.get_pool().connection() as conn:
             conn.execute("delete from songs where id=%s", (row["id"],))
         if self.setlists:
