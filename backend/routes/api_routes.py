@@ -217,12 +217,13 @@ def build_blueprint(ctx) -> Blueprint:
             page=a.get("page", 1, type=int),
             page_size=a.get("page_size", 50, type=int),
             sort=a.get("sort", "titulo"),
+            is_admin=g.is_admin,
         ))
 
     @api.get("/songs/facets")
     @protected
     def facets():
-        return jsonify(ctx.search.facets(g.user_id))
+        return jsonify(ctx.search.facets(g.user_id, is_admin=g.is_admin))
 
     @api.post("/songs")
     @protected
@@ -246,7 +247,7 @@ def build_blueprint(ctx) -> Blueprint:
     @protected
     def get_song(slug):
         try:
-            return jsonify(ctx.songs.get(g.user_id, slug))
+            return jsonify(ctx.songs.get(g.user_id, slug, is_admin=g.is_admin))
         except SongNotFound:
             return jsonify({"error": "Música não encontrada."}), 404
 
@@ -472,7 +473,7 @@ def build_blueprint(ctx) -> Blueprint:
     @protected
     def karaoke(slug):
         try:
-            payload = ctx.karaoke.payload(g.user_id, slug)
+            payload = ctx.karaoke.payload(g.user_id, slug, is_admin=g.is_admin)
         except SongNotFound:
             return jsonify({"error": "Música não encontrada."}), 404
         ctx.history.register_play(g.user_id, slug)
@@ -656,13 +657,13 @@ def build_blueprint(ctx) -> Blueprint:
         # isso vinha de escanear até 500 músicas "na sorte" (e podia até
         # perder favoritas/plays fora dessa amostra num acervo grande).
         plays = ctx.history.plays(g.user_id)
-        total_songs = ctx.search.search(g.user_id, page_size=1)["total"]
-        favorites = ctx.search.search(g.user_id, favoritas=True, page_size=8)["items"]
+        total_songs = ctx.search.search(g.user_id, page_size=1, is_admin=g.is_admin)["total"]
+        favorites = ctx.search.search(g.user_id, favoritas=True, page_size=8, is_admin=g.is_admin)["items"]
 
         top = sorted(plays.items(), key=lambda kv: -kv[1]["count"])[:8]
         recent = sorted(plays.items(), key=lambda kv: kv[1].get("last", ""), reverse=True)[:8]
         needed_slugs = list({s for s, _ in top} | {s for s, _ in recent})
-        by_slug = {e["slug"]: e for e in ctx.search.get_by_slugs(g.user_id, needed_slugs)}
+        by_slug = {e["slug"]: e for e in ctx.search.get_by_slugs(g.user_id, needed_slugs, is_admin=g.is_admin)}
 
         return jsonify({
             "total_songs": total_songs,

@@ -38,6 +38,13 @@ _SONG_COLUMNS = (
 _VISIBLE_SQL = "(songs.user_id = %(user_id)s OR songs.shared = true OR songs.user_id IS NULL)"
 
 
+def _visible_sql(is_admin: bool) -> str:
+    """Admin vê tudo, independente de `shared`/dono (Decisão §4 do plano de
+    pedal+SaaS) — mesmo princípio já usado em SongsService.delete(...,
+    is_admin=True), aplicado agora também à leitura."""
+    return "true" if is_admin else _VISIBLE_SQL
+
+
 class SongNotFound(Exception):
     pass
 
@@ -112,14 +119,14 @@ class SongsService:
                 f"select {_SONG_COLUMNS} from songs where slug=%s", (slug,),
             ).fetchone()
 
-    def get(self, user_id: str, slug: str) -> dict:
+    def get(self, user_id: str, slug: str, is_admin: bool = False) -> dict:
         with db.get_pool().connection() as conn:
             row = conn.execute(
                 f"""select {_SONG_COLUMNS}, coalesce(p.favorita, false) as pref_favorita,
                            coalesce(p.nota, '') as pref_nota
                     from songs left join user_song_prefs p
                            on p.song_id = songs.id and p.user_id = %(user_id)s
-                    where songs.slug = %(slug)s and {_VISIBLE_SQL}""",
+                    where songs.slug = %(slug)s and {_visible_sql(is_admin)}""",
                 {"user_id": user_id, "slug": slug},
             ).fetchone()
         if not row:

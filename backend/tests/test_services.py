@@ -258,6 +258,53 @@ def test_facets_exclude_values_only_from_private_songs(ctx):
     assert "Artista Privado" not in facets["interpretes"]
 
 
+# ---------- admin vê tudo, independente de shared/dono (Fase 10) ----------
+
+def test_admin_sees_private_song_of_other_user(ctx):
+    songs, _, _ = ctx
+    _make_private_user("u3", "privado")
+    entry = songs.create("u3", "Pop", "Coldplay", "Segredo", "@titulo: Segredo\n\ncorpo")
+    data = songs.get("u1", entry["slug"], is_admin=True)
+    assert data["titulo"] == "Segredo"
+
+
+def test_non_admin_still_blocked_from_private_song(ctx):
+    songs, _, _ = ctx
+    _make_private_user("u3", "privado")
+    entry = songs.create("u3", "Pop", "Coldplay", "Segredo", "@titulo: Segredo\n\ncorpo")
+    with pytest.raises(SongNotFound):
+        songs.get("u1", entry["slug"], is_admin=False)
+
+
+def test_admin_search_includes_private_songs_of_others(ctx):
+    songs, _, _ = ctx
+    _make_private_user("u3", "privado")
+    songs.create("u3", "Pop", "Coldplay", "Segredo Privado", "@titulo: Segredo Privado\n\ncorpo")
+    search = SearchService()
+    hit = search.search("u1", q="segredo privado", is_admin=True)
+    assert hit["total"] == 1
+
+
+def test_admin_facets_include_values_from_private_songs(ctx):
+    songs, _, _ = ctx
+    _make_private_user("u3", "privado")
+    songs.create("u3", "GeneroExclusivoPrivado", "Artista Privado", "Segredo", "@titulo: Segredo\n\ncorpo")
+    search = SearchService()
+    facets = search.facets("u1", is_admin=True)
+    assert "GeneroExclusivoPrivado" in facets["generos"]
+    assert "Artista Privado" in facets["interpretes"]
+
+
+def test_admin_get_by_slugs_includes_private_song(ctx):
+    songs, _, _ = ctx
+    _make_private_user("u3", "privado")
+    entry = songs.create("u3", "Pop", "Coldplay", "Segredo", "@titulo: Segredo\n\ncorpo")
+    search = SearchService()
+    assert search.get_by_slugs("u1", [entry["slug"]], is_admin=False) == []
+    found = search.get_by_slugs("u1", [entry["slug"]], is_admin=True)
+    assert [s["slug"] for s in found] == [entry["slug"]]
+
+
 def test_clone_of_private_song_follows_editor_share_default(ctx, other_user_id):
     """Editar uma música alheia clona pra você — a cópia segue A SUA
     preferência de compartilhamento, não a da música original."""
@@ -414,6 +461,17 @@ def test_karaoke_payload(ctx):
     k = KaraokeService(songs, audio)
     payload = k.payload("u1", entry["slug"])
     assert payload["ms_per_line"] > 0 and len(payload["lines"]) >= 2
+
+
+def test_karaoke_payload_admin_can_play_private_song_of_other_user(ctx):
+    songs, _, audio = ctx
+    _make_private_user("u3", "privado")
+    entry = songs.create("u3", "Pop", "Coldplay", "Segredo", "@titulo: Segredo\n\ncorpo")
+    k = KaraokeService(songs, audio)
+    with pytest.raises(SongNotFound):
+        k.payload("u1", entry["slug"])
+    payload = k.payload("u1", entry["slug"], is_admin=True)
+    assert payload["ms_per_line"] > 0
 
 
 def test_karaoke_payload_classifies_lines(ctx):

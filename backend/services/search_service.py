@@ -39,6 +39,13 @@ _PREFS_SELECT = "coalesce(p.favorita, false) as favorita, coalesce(p.nota, '') a
 _VISIBLE_SQL = "(songs.user_id = %(user_id)s OR songs.shared = true OR songs.user_id IS NULL)"
 
 
+def _visible_sql(is_admin: bool) -> str:
+    """Admin vê tudo, independente de `shared`/dono — ver
+    songs_service.py::_visible_sql (mesma decisão de design, duplicada de
+    propósito pelo mesmo motivo do _VISIBLE_SQL acima)."""
+    return "true" if is_admin else _VISIBLE_SQL
+
+
 def _rows_to_dicts(rows: list[dict]) -> list[dict]:
     return [_row_to_dict(r) for r in rows]
 
@@ -58,8 +65,9 @@ class SearchService:
         page: int = 1,
         page_size: int = 50,
         sort: str = "titulo",
+        is_admin: bool = False,
     ) -> dict:
-        where = [_VISIBLE_SQL]
+        where = [_visible_sql(is_admin)]
         params: dict = {"user_id": user_id}
 
         if only_mine:
@@ -140,7 +148,7 @@ class SearchService:
             "total_pages": max(1, -(-total // page_size)),
         }
 
-    def get_by_slugs(self, user_id: str, slugs: list[str]) -> list[dict]:
+    def get_by_slugs(self, user_id: str, slugs: list[str], is_admin: bool = False) -> list[dict]:
         """Busca pontual por um punhado de slugs específicos (ex.: resolver
         `most_played`/`recent` do dashboard, que só precisa de ~16 músicas
         das plays, não de trazer o acervo inteiro pra achar essas poucas)."""
@@ -149,35 +157,36 @@ class SearchService:
         with db.get_pool().connection() as conn:
             rows = conn.execute(
                 f"""SELECT {_LIST_COLUMNS}, {_PREFS_SELECT} FROM songs {_PREFS_JOIN}
-                    WHERE songs.slug = ANY(%(slugs)s) AND {_VISIBLE_SQL}""",
+                    WHERE songs.slug = ANY(%(slugs)s) AND {_visible_sql(is_admin)}""",
                 {"user_id": user_id, "slugs": slugs},
             ).fetchall()
         return _rows_to_dicts(rows)
 
-    def facets(self, user_id: str) -> dict:
+    def facets(self, user_id: str, is_admin: bool = False) -> dict:
         """Valores distintos pra popular filtros no frontend — biblioteca
         inteira que o usuário pode ver (própria + compartilhada + órfã),
         não mais por música que ele criou, mas também não vazando valores
         de música privada alheia pros dropdowns de outra pessoa."""
+        visible = _visible_sql(is_admin)
         with db.get_pool().connection() as conn:
             generos = conn.execute(
-                f"select distinct genero from songs where genero != '' and {_VISIBLE_SQL} order by 1",
+                f"select distinct genero from songs where genero != '' and {visible} order by 1",
                 {"user_id": user_id},
             ).fetchall()
             interpretes = conn.execute(
-                f"select distinct interprete from songs where interprete != '' and {_VISIBLE_SQL} order by 1",
+                f"select distinct interprete from songs where interprete != '' and {visible} order by 1",
                 {"user_id": user_id},
             ).fetchall()
             tons = conn.execute(
-                f"select distinct tom from songs where tom != '' and {_VISIBLE_SQL} order by 1",
+                f"select distinct tom from songs where tom != '' and {visible} order by 1",
                 {"user_id": user_id},
             ).fetchall()
             ritmos = conn.execute(
-                f"select distinct ritmo from songs where ritmo != '' and {_VISIBLE_SQL} order by 1",
+                f"select distinct ritmo from songs where ritmo != '' and {visible} order by 1",
                 {"user_id": user_id},
             ).fetchall()
             tags = conn.execute(
-                f"select distinct unnest(tags) as tag from songs where {_VISIBLE_SQL} order by 1",
+                f"select distinct unnest(tags) as tag from songs where {visible} order by 1",
                 {"user_id": user_id},
             ).fetchall()
         return {

@@ -75,8 +75,8 @@ class KaraokeService:
         self.audio = audio
         self.clips = clips
 
-    def payload(self, user_id: str, slug: str) -> dict:
-        data = self.songs.get(user_id, slug)
+    def payload(self, user_id: str, slug: str, is_admin: bool = False) -> dict:
+        data = self.songs.get(user_id, slug, is_admin=is_admin)
         entries = parse_body(data["body"])
         lines = [
             {"text": e["text"], "t": e["t"], "tipo": e["tipo"]}
