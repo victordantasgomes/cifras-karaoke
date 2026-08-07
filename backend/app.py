@@ -25,6 +25,7 @@ from services.chord_dictionary_service import ChordDictionaryService
 from services.clip_queue_service import ClipQueueService
 from services.history_service import HistoryService
 from services.karaoke_service import KaraokeService
+from services.plans_service import PlansService
 from services.search_service import SearchService
 from services.setlist_service import SetlistService
 from services.settings_service import SettingsService
@@ -48,6 +49,7 @@ class Services:
         self.settings = SettingsService()
         self.chords = ChordDictionaryService()
         self.ai = AIService()
+        self.plans = PlansService()
         self.require_auth = require_auth(self.auth)
         self.require_admin = require_admin(self.auth)
 

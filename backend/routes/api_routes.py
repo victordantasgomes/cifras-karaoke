@@ -5,6 +5,7 @@ from flask import Blueprint, Response, g, jsonify, request
 
 from services.ai_service import AIError
 from services.auth_service import AuthError
+from services.plans_service import DuplicatePlanName, PlanNotFound
 from services.songs_service import NotOwner, SongNotFound
 
 
@@ -80,6 +81,49 @@ def build_blueprint(ctx) -> Blueprint:
         except AuthError as e:
             return jsonify({"error": str(e)}), 400
         return "", 204
+
+    @api.get("/admin/plans")
+    @ctx.require_admin
+    def admin_list_plans():
+        return jsonify(ctx.plans.list())
+
+    @api.post("/admin/plans")
+    @ctx.require_admin
+    def admin_create_plan():
+        d = request.get_json(force=True)
+        try:
+            plan = ctx.plans.create(
+                d.get("name", ""), int(d.get("max_setlists", 0)),
+                int(d.get("storage_limit_mb", 0)), int(d.get("price_cents", 0)),
+            )
+        except DuplicatePlanName:
+            return jsonify({"error": "Já existe um plano com esse nome."}), 400
+        except ValueError as e:
+            return jsonify({"error": str(e)}), 400
+        return jsonify(plan), 201
+
+    @api.put("/admin/plans/<plan_id>")
+    @ctx.require_admin
+    def admin_update_plan(plan_id):
+        d = request.get_json(force=True)
+        try:
+            return jsonify(ctx.plans.update(
+                plan_id, int(d.get("max_setlists", 0)),
+                int(d.get("storage_limit_mb", 0)), int(d.get("price_cents", 0)),
+            ))
+        except PlanNotFound:
+            return jsonify({"error": "Plano não encontrado."}), 404
+        except ValueError as e:
+            return jsonify({"error": str(e)}), 400
+
+    @api.post("/admin/plans/<plan_id>/active")
+    @ctx.require_admin
+    def admin_set_plan_active(plan_id):
+        d = request.get_json(force=True)
+        try:
+            return jsonify(ctx.plans.set_active(plan_id, bool(d.get("value", True))))
+        except PlanNotFound:
+            return jsonify({"error": "Plano não encontrado."}), 404
 
     @api.get("/admin/songs/normalize-status")
     @ctx.require_admin

@@ -173,6 +173,137 @@ function UserRow({ u, isSelf }) {
   )
 }
 
+function PlanRow({ plan }) {
+  const qc = useQueryClient()
+  const [maxSetlists, setMaxSetlists] = useState(plan.max_setlists)
+  const [storageLimitMb, setStorageLimitMb] = useState(plan.storage_limit_mb)
+  const [priceReais, setPriceReais] = useState((plan.price_cents / 100).toFixed(2))
+  const [error, setError] = useState('')
+
+  const invalidate = () => qc.invalidateQueries({ queryKey: ['admin-plans'] })
+
+  const save = useMutation({
+    mutationFn: () => api.put(`/admin/plans/${plan.id}`, {
+      max_setlists: Number(maxSetlists),
+      storage_limit_mb: Number(storageLimitMb),
+      price_cents: Math.round(Number(priceReais) * 100),
+    }),
+    onSuccess: () => { invalidate(); setError('') },
+    onError: (e) => setError(e.response?.data?.error || 'Não foi possível salvar.'),
+  })
+
+  const toggleActive = useMutation({
+    mutationFn: () => api.post(`/admin/plans/${plan.id}/active`, { value: !plan.active }),
+    onSuccess: invalidate,
+  })
+
+  return (
+    <li style={{ padding: '10px 0', borderBottom: '1px solid var(--stroke)' }}>
+      <div className="row" style={{ justifyContent: 'space-between', alignItems: 'center' }}>
+        <strong>
+          {plan.name}
+          {!plan.active && <span className="tag" style={{ marginLeft: 8 }}>arquivado</span>}
+        </strong>
+        <button className="btn" disabled={toggleActive.isPending} onClick={() => toggleActive.mutate()}>
+          {plan.active ? 'Arquivar' : 'Reativar'}
+        </button>
+      </div>
+      <div className="row" style={{ marginTop: 8, gap: 8, flexWrap: 'wrap', alignItems: 'flex-end' }}>
+        <div className="field" style={{ maxWidth: 140 }}>
+          <label>Setlists (máx.)</label>
+          <input className="input" type="number" min="0" value={maxSetlists}
+            onChange={(e) => setMaxSetlists(e.target.value)} />
+        </div>
+        <div className="field" style={{ maxWidth: 160 }}>
+          <label>Armazenamento (MB)</label>
+          <input className="input" type="number" min="0" value={storageLimitMb}
+            onChange={(e) => setStorageLimitMb(e.target.value)} />
+        </div>
+        <div className="field" style={{ maxWidth: 140 }}>
+          <label>Preço mensal (R$)</label>
+          <input className="input" type="number" min="0" step="0.01" value={priceReais}
+            onChange={(e) => setPriceReais(e.target.value)} />
+        </div>
+        <button className="btn primary" disabled={save.isPending} onClick={() => save.mutate()}>
+          {save.isPending ? 'Salvando…' : 'Salvar'}
+        </button>
+      </div>
+      {error && <div className="error-text" style={{ marginTop: 6 }}>{error}</div>}
+    </li>
+  )
+}
+
+function PlansAdminCard() {
+  const qc = useQueryClient()
+  const { data: plans } = useQuery({
+    queryKey: ['admin-plans'],
+    queryFn: () => api.get('/admin/plans').then((r) => r.data),
+  })
+  const [form, setForm] = useState({ name: '', max_setlists: '', storage_limit_mb: '', price_reais: '' })
+  const [error, setError] = useState('')
+
+  const create = useMutation({
+    mutationFn: () => api.post('/admin/plans', {
+      name: form.name,
+      max_setlists: Number(form.max_setlists),
+      storage_limit_mb: Number(form.storage_limit_mb),
+      price_cents: Math.round(Number(form.price_reais || 0) * 100),
+    }),
+    onSuccess: () => {
+      qc.invalidateQueries({ queryKey: ['admin-plans'] })
+      setForm({ name: '', max_setlists: '', storage_limit_mb: '', price_reais: '' })
+      setError('')
+    },
+    onError: (e) => setError(e.response?.data?.error || 'Não foi possível criar o plano.'),
+  })
+
+  return (
+    <div className="card" style={{ marginBottom: 14 }}>
+      <h3 style={{ marginBottom: 12 }}>Planos</h3>
+      <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>
+        Planos pagos do sistema — cada um define quantos setlists e quanto
+        espaço de áudio um assinante tem direito. A cobrança de verdade
+        (Stripe) ainda não está integrada; por enquanto isso é só o cadastro.
+      </p>
+
+      {plans?.length > 0 && (
+        <ul style={{ listStyle: 'none', padding: 0, margin: '0 0 18px' }}>
+          {plans.map((p) => <PlanRow key={p.id} plan={p} />)}
+        </ul>
+      )}
+
+      <div className="row" style={{ flexWrap: 'wrap', gap: 8 }}>
+        <div className="field">
+          <label>Nome</label>
+          <input className="input" value={form.name}
+            onChange={(e) => setForm({ ...form, name: e.target.value })} placeholder="ex.: Hobby" />
+        </div>
+        <div className="field" style={{ maxWidth: 140 }}>
+          <label>Setlists (máx.)</label>
+          <input className="input" type="number" min="0" value={form.max_setlists}
+            onChange={(e) => setForm({ ...form, max_setlists: e.target.value })} />
+        </div>
+        <div className="field" style={{ maxWidth: 160 }}>
+          <label>Armazenamento (MB)</label>
+          <input className="input" type="number" min="0" value={form.storage_limit_mb}
+            onChange={(e) => setForm({ ...form, storage_limit_mb: e.target.value })} />
+        </div>
+        <div className="field" style={{ maxWidth: 140 }}>
+          <label>Preço mensal (R$)</label>
+          <input className="input" type="number" min="0" step="0.01" value={form.price_reais}
+            onChange={(e) => setForm({ ...form, price_reais: e.target.value })} />
+        </div>
+      </div>
+      {error && <div className="error-text">{error}</div>}
+      <div className="row">
+        <button className="btn primary" disabled={create.isPending || !form.name} onClick={() => create.mutate()}>
+          {create.isPending ? 'Criando…' : 'Criar plano'}
+        </button>
+      </div>
+    </div>
+  )
+}
+
 function UserAdminCard() {
   const qc = useQueryClient()
   const currentUser = useAuthStore((s) => s.user)
@@ -320,6 +451,7 @@ export default function Settings() {
       <ColorSettingsCard />
       <PedalSettingsCard />
       {user?.is_admin && <UserAdminCard />}
+      {user?.is_admin && <PlansAdminCard />}
       {user?.is_admin && <NormalizeLibraryCard />}
     </>
   )

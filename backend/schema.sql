@@ -200,3 +200,21 @@ create table if not exists song_clips (
     created_at   timestamptz not null default now()
 );
 create index if not exists idx_song_clips_song on song_clips(song_id, position);
+
+-- Planos pagos do SaaS multi-tenant (Hobby/Practice/Professional — nomes e
+-- valores definidos pelo admin, não fixos no código). `stripe_product_id`/
+-- `stripe_price_id` ficam vazios até a Fase 7 (integração com Stripe)
+-- preenchê-los. Nunca excluído de verdade uma vez referenciado por algum
+-- usuário (Fase 7) — só arquivado (`active=false`), pra não quebrar FK nem
+-- o histórico de eventos de webhook da Stripe.
+create table if not exists plans (
+    id                 uuid primary key default gen_random_uuid(),
+    name               text not null unique,
+    max_setlists       int not null,
+    storage_limit_mb   int not null,
+    price_cents        int not null,
+    stripe_product_id  text,
+    stripe_price_id    text,
+    active             boolean not null default true,
+    created_at         timestamptz not null default now()
+);

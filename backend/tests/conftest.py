@@ -23,7 +23,7 @@ from services import blob_client
 
 _TABLES = (
     "setlist_items", "setlists", "samples", "song_clips", "audio_tracks", "user_song_prefs",
-    "song_plays", "song_versions", "songs", "settings", "users",
+    "song_plays", "song_versions", "songs", "settings", "users", "plans",
 )
 
 _TEST_DATABASE_URL = os.getenv("TEST_DATABASE_URL")
