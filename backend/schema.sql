@@ -140,8 +140,13 @@ create index if not exists idx_setlist_items_setlist on setlist_items(setlist_id
 
 create table if not exists settings (
     user_id text primary key references users(id) on delete cascade,
-    colors  jsonb not null default '{}'::jsonb
+    colors  jsonb not null default '{}'::jsonb,
+    -- preferências avulsas por usuário que não merecem coluna própria — hoje
+    -- só {pedalKey}, a tecla do pedal (foot switch) usada no palco (ver
+    -- ClipQueueService/karaoke_service.py).
+    prefs   jsonb not null default '{}'::jsonb
 );
+alter table settings add column if not exists prefs jsonb not null default '{}'::jsonb;
 
 create table if not exists audio_tracks (
     song_id      uuid primary key references songs(id) on delete cascade,

@@ -7,6 +7,7 @@ import { usePlaylistStore } from '../store/playlistStore'
 import { useZoomStore } from '../store/zoomStore'
 import { useHotkeys } from '../hooks/useHotkeys'
 import { useAudioSync } from '../hooks/useAudioSync'
+import { usePedalControl } from '../hooks/usePedalControl'
 import { resolveTimeline, estimateSynthDuration } from '../utils/timeline'
 import { buildStepWindow } from '../utils/steps'
 import { playClick } from '../utils/clickSound'
@@ -300,6 +301,8 @@ export default function KaraokeStage() {
     else beginPlayback()
   }
 
+  const pedal = usePedalControl(slug, data, togglePlay)
+
   // navegação entre músicas de uma playlist ativa — distinta da navegação
   // por linha (← →) já existente
   const goNextSong = () => {
@@ -358,7 +361,8 @@ export default function KaraokeStage() {
     '=': zoomIn,
     '-': zoomOut,
     '_': zoomOut,
-  }, [player, canPlay, resolvedSteps, rate, countdown])
+    ...pedal.hotkeyEntry,
+  }, [player, canPlay, resolvedSteps, rate, countdown, pedal.hotkeyEntry])
 
   if (isLoading || !data) {
     return <div className="karaoke-stage controls-visible"
@@ -389,6 +393,7 @@ export default function KaraokeStage() {
         <audio key={s.id} ref={(el) => { sampleAudioRefs.current[s.id] = el }}
           src={sampleUrls[s.id] || undefined} preload="auto" />
       ))}
+      {pedal.modoPedal === 'fila_clipes' && <audio ref={pedal.clipAudioRef} preload="auto" />}
 
       <div className="k-header">
         <div>

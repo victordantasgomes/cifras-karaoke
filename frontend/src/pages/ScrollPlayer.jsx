@@ -5,6 +5,7 @@ import api from '../services/api'
 import { usePlaylistStore } from '../store/playlistStore'
 import { useZoomStore } from '../store/zoomStore'
 import { useHotkeys } from '../hooks/useHotkeys'
+import { usePedalControl } from '../hooks/usePedalControl'
 
 const CHORD_LIKE = new Set(['acorde', 'solo', 'riff', 'tab'])
 const MIN_RATE = 0.5
@@ -268,6 +269,8 @@ export default function ScrollPlayer({ data }) {
   const adjustRate = (delta) => setRate((r) => Math.min(MAX_RATE, Math.max(MIN_RATE, +(r + delta).toFixed(2))))
   const seekToFraction = (frac) => seekToMs(Math.max(0, Math.min(1, frac)) * totalMs)
 
+  const pedal = usePedalControl(slug, data, togglePlay)
+
   useHotkeys({
     Space: togglePlay,
     ArrowUp: () => nudgeScroll(-0.2),
@@ -281,11 +284,12 @@ export default function ScrollPlayer({ data }) {
     '=': zoomIn,
     '-': zoomOut,
     '_': zoomOut,
+    ...pedal.hotkeyEntry,
     // totalMs entra nas deps porque, com áudio, ele começa em 0 e só vira o
     // valor real quando os metadados carregam (onLoadedMetadata) — sem
     // isso, restart() (via seekToMs) ficaria preso usando um totalMs de 0
     // (closure velha) até a próxima mudança de canPlay.
-  }, [canPlay, totalMs])
+  }, [canPlay, totalMs, pedal.hotkeyEntry])
 
   return (
     <div ref={stageRef}
@@ -298,6 +302,7 @@ export default function ScrollPlayer({ data }) {
           onLoadedMetadata={(e) => setAudioDuration(e.target.duration)}
           onEnded={onSongEnd} />
       )}
+      {pedal.modoPedal === 'fila_clipes' && <audio ref={pedal.clipAudioRef} preload="auto" />}
 
       <div className="k-header">
         <div>

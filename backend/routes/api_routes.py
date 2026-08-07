@@ -432,7 +432,7 @@ def build_blueprint(ctx) -> Blueprint:
     @protected
     def update_settings():
         d = request.get_json(force=True)
-        return jsonify(ctx.settings.update(g.user_id, d.get("colors", {})))
+        return jsonify(ctx.settings.update(g.user_id, d.get("colors"), d.get("prefs")))
 
     # ---------------- dicionário de acordes ----------------
     @api.get("/acordes")

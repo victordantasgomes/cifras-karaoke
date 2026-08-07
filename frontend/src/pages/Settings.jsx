@@ -68,6 +68,53 @@ function ColorSettingsCard() {
   )
 }
 
+function PedalSettingsCard() {
+  const qc = useQueryClient()
+  const { data } = useQuery({
+    queryKey: ['settings'],
+    queryFn: () => api.get('/settings').then((r) => r.data),
+    staleTime: Infinity,
+    refetchOnWindowFocus: false,
+  })
+  const [listening, setListening] = useState(false)
+
+  const save = useMutation({
+    mutationFn: (pedalKey) => api.put('/settings', { prefs: { ...data?.prefs, pedalKey } }).then((r) => r.data),
+    onSuccess: (d) => qc.setQueryData(['settings'], d),
+  })
+
+  useEffect(() => {
+    if (!listening) return undefined
+    const handler = (e) => {
+      e.preventDefault()
+      save.mutate(e.code)
+      setListening(false)
+    }
+    window.addEventListener('keydown', handler)
+    return () => window.removeEventListener('keydown', handler)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [listening])
+
+  const pedalKey = data?.prefs?.pedalKey
+
+  return (
+    <div className="card" style={{ marginBottom: 14 }}>
+      <h3 style={{ marginBottom: 12 }}>Pedal (foot switch)</h3>
+      <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>
+        Detecte a tecla que o seu pedal USB envia (a maioria dos pedais de
+        foot switch se comporta como um teclado) — vale pra qualquer música
+        com o modo de pedal ligado, configurado na aba Áudio do editor.
+      </p>
+      <div className="row" style={{ alignItems: 'center', gap: 12 }}>
+        <span>Tecla atual: <strong>{pedalKey || 'nenhuma configurada'}</strong></span>
+        <button className="btn primary" disabled={listening} onClick={() => setListening(true)}>
+          {listening ? 'Aperte o pedal agora…' : 'Detectar tecla'}
+        </button>
+      </div>
+    </div>
+  )
+}
+
 function UserRow({ u, isSelf }) {
   const qc = useQueryClient()
   const [resetting, setResetting] = useState(false)
@@ -271,6 +318,7 @@ export default function Settings() {
       <h1 className="page-title">Configurações</h1>
       <div className="page-sub">Preferências visuais.</div>
       <ColorSettingsCard />
+      <PedalSettingsCard />
       {user?.is_admin && <UserAdminCard />}
       {user?.is_admin && <NormalizeLibraryCard />}
     </>
