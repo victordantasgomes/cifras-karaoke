@@ -41,13 +41,15 @@ class AudioService:
         song_id = self._require_owned_song_id(user_id, slug)
         ext = Path(file_storage.filename or "").suffix.lower() or ".mp3"
         content_type = file_storage.mimetype or None
-        blob = blob_client.put(f"audio/{user_id}/{slug}/track{ext}", file_storage.read(), content_type)
+        data = file_storage.read()
+        blob = blob_client.put(f"audio/{user_id}/{slug}/track{ext}", data, content_type)
         with db.get_pool().connection() as conn:
             conn.execute(
-                """insert into audio_tracks (song_id, blob_url, content_type) values (%s, %s, %s)
+                """insert into audio_tracks (song_id, blob_url, content_type, size_bytes) values (%s, %s, %s, %s)
                    on conflict (song_id) do update
-                       set blob_url = excluded.blob_url, content_type = excluded.content_type, uploaded_at = now()""",
-                (song_id, blob["url"], content_type or ""),
+                       set blob_url = excluded.blob_url, content_type = excluded.content_type,
+                           size_bytes = excluded.size_bytes, uploaded_at = now()""",
+                (song_id, blob["url"], content_type or "", len(data)),
             )
 
     def delete_track(self, user_id: str, slug: str) -> None:
@@ -86,13 +88,14 @@ class AudioService:
             raise ValueError("Informe um nome para o sample.")
         ext = Path(file_storage.filename or "").suffix.lower() or ".mp3"
         content_type = file_storage.mimetype or None
-        blob = blob_client.put(f"audio/{user_id}/{slug}/samples/{sample_id}{ext}", file_storage.read(), content_type)
+        data = file_storage.read()
+        blob = blob_client.put(f"audio/{user_id}/{slug}/samples/{sample_id}{ext}", data, content_type)
         with db.get_pool().connection() as conn:
             conn.execute(
-                """insert into samples (song_id, sample_id, nome, blob_url) values (%s, %s, %s, %s)
+                """insert into samples (song_id, sample_id, nome, blob_url, size_bytes) values (%s, %s, %s, %s, %s)
                    on conflict (song_id, sample_id) do update
-                       set nome = excluded.nome, blob_url = excluded.blob_url""",
-                (song_id, sample_id, nome, blob["url"]),
+                       set nome = excluded.nome, blob_url = excluded.blob_url, size_bytes = excluded.size_bytes""",
+                (song_id, sample_id, nome, blob["url"], len(data)),
             )
         return {"id": sample_id, "nome": nome}
 
@@ -156,3 +159,38 @@ class AudioService:
             conn.execute("delete from audio_tracks where song_id=%s", (song_id,))
             conn.execute("delete from samples where song_id=%s", (song_id,))
         blob_client.delete(urls)
+
+    # ---------- recálculo de tamanho (Fase 8 — linhas antigas sem size_bytes) ----------
+    def storage_recompute_status(self) -> dict:
+        with db.get_pool().connection() as conn:
+            row = conn.execute(
+                """select (select count(*) from audio_tracks where size_bytes = 0)
+                        + (select count(*) from samples where size_bytes = 0) as remaining""",
+            ).fetchone()
+        return {"remaining": row["remaining"]}
+
+    def storage_recompute_batch(self, limit: int = 50) -> dict:
+        """Preenche `size_bytes` de linhas antigas (upload novo já grava o
+        valor certo na hora, ver save_track/save_sample) via HEAD contra o
+        blob — sem baixar o conteúdo inteiro. Processa faixas primeiro, e só
+        usa o que sobrar do limite em samples, mesmo padrão de lote pequeno
+        do SongsService.normalize_batch (sem fila/worker no Vercel)."""
+        processed = 0
+        with db.get_pool().connection() as conn:
+            tracks = conn.execute(
+                "select song_id, blob_url from audio_tracks where size_bytes = 0 limit %s", (limit,),
+            ).fetchall()
+            for t in tracks:
+                size = blob_client.size_of(t["blob_url"])
+                conn.execute("update audio_tracks set size_bytes=%s where song_id=%s", (size, t["song_id"]))
+                processed += 1
+            remaining_limit = limit - processed
+            if remaining_limit > 0:
+                samples = conn.execute(
+                    "select id, blob_url from samples where size_bytes = 0 limit %s", (remaining_limit,),
+                ).fetchall()
+                for s in samples:
+                    size = blob_client.size_of(s["blob_url"])
+                    conn.execute("update samples set size_bytes=%s where id=%s", (size, s["id"]))
+                    processed += 1
+        return {"processed": processed, **self.storage_recompute_status()}

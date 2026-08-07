@@ -173,17 +173,24 @@ create table if not exists audio_tracks (
     song_id      uuid primary key references songs(id) on delete cascade,
     blob_url     text not null,
     content_type text not null default '',
+    -- 0 = ainda não medido (linhas antigas, de antes da Fase 8) — ver
+    -- POST /admin/storage/recompute-batch, que preenche em lote via HEAD
+    -- contra o blob. Upload novo já grava o valor certo na hora.
+    size_bytes   bigint not null default 0,
     uploaded_at  timestamptz not null default now()
 );
+alter table audio_tracks add column if not exists size_bytes bigint not null default 0;
 
 create table if not exists samples (
-    id        uuid primary key default gen_random_uuid(),
-    song_id   uuid not null references songs(id) on delete cascade,
-    sample_id text not null,
-    nome      text not null,
-    blob_url  text not null,
+    id         uuid primary key default gen_random_uuid(),
+    song_id    uuid not null references songs(id) on delete cascade,
+    sample_id  text not null,
+    nome       text not null,
+    blob_url   text not null,
+    size_bytes bigint not null default 0,  -- ver comentário em audio_tracks.size_bytes
     unique (song_id, sample_id)
 );
+alter table samples add column if not exists size_bytes bigint not null default 0;
 
 -- Fila de clipes curtos disparados manualmente por pedal (foot switch) —
 -- recurso independente dos `samples` acima (que disparam sozinhos por

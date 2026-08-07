@@ -188,6 +188,18 @@ def build_blueprint(ctx) -> Blueprint:
         limit = min(max(int(d.get("limit", 50)), 1), 200)
         return jsonify(ctx.songs.normalize_batch(limit=limit))
 
+    @api.get("/admin/storage/recompute-status")
+    @ctx.require_admin
+    def admin_storage_recompute_status():
+        return jsonify(ctx.audio.storage_recompute_status())
+
+    @api.post("/admin/storage/recompute-batch")
+    @ctx.require_admin
+    def admin_storage_recompute_batch():
+        d = request.get_json(silent=True) or {}
+        limit = min(max(int(d.get("limit", 50)), 1), 200)
+        return jsonify(ctx.audio.storage_recompute_batch(limit=limit))
+
     # ---------------- músicas ----------------
     @api.get("/songs")
     @protected

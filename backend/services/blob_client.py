@@ -66,6 +66,16 @@ def get(url: str) -> tuple[bytes, str]:
     return resp.content, resp.headers.get("content-type", "application/octet-stream")
 
 
+def size_of(url: str) -> int:
+    """HEAD no blob — só o tamanho, sem baixar o conteúdo. Usado no
+    recálculo em lote de linhas antigas que nasceram sem `size_bytes`
+    (upload novo já grava o tamanho na hora, via `len(data)`)."""
+    resp = requests.head(url, headers={"authorization": f"Bearer {Config.BLOB_READ_WRITE_TOKEN}"}, timeout=_TIMEOUT)
+    if not resp.ok:
+        raise BlobError(f"Falha ao consultar tamanho do blob: {resp.status_code} {resp.text}")
+    return int(resp.headers.get("content-length", 0))
+
+
 def delete(urls: list[str]) -> None:
     """Apaga um ou mais blobs pela URL. Não falha se a URL já não existir
     mais (mesma semântica do `del()` do SDK oficial)."""

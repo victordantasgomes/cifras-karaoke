@@ -103,9 +103,16 @@ def fake_blob_store(monkeypatch):
         for url in urls:
             store.pop(url.replace("https://fake-blob.test/", ""), None)
 
+    def fake_size_of(url):
+        pathname = url.replace("https://fake-blob.test/", "")
+        if pathname not in store:
+            raise blob_client.BlobError("not found")
+        return len(store[pathname])
+
     monkeypatch.setattr(blob_client, "put", fake_put)
     monkeypatch.setattr(blob_client, "get", fake_get)
     monkeypatch.setattr(blob_client, "delete", fake_delete)
+    monkeypatch.setattr(blob_client, "size_of", fake_size_of)
     return store
 
 

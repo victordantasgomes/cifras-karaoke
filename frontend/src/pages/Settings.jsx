@@ -496,6 +496,75 @@ function NormalizeLibraryCard() {
   )
 }
 
+function StorageRecomputeCard() {
+  const { data: status } = useQuery({
+    queryKey: ['admin-storage-recompute-status'],
+    queryFn: () => api.get('/admin/storage/recompute-status').then((r) => r.data),
+  })
+  const [running, setRunning] = useState(false)
+  const [remaining, setRemaining] = useState(null)
+  const [total, setTotal] = useState(null)
+  const [error, setError] = useState('')
+  const stopRef = useRef(false)
+
+  useEffect(() => {
+    if (status && remaining === null) { setRemaining(status.remaining); setTotal(status.remaining) }
+  }, [status]) // eslint-disable-line
+
+  const start = async () => {
+    stopRef.current = false
+    setRunning(true)
+    setError('')
+    let baseTotal = total ?? remaining
+    if (baseTotal === null) baseTotal = 0
+    try {
+      while (!stopRef.current) {
+        const { data } = await api.post('/admin/storage/recompute-batch', { limit: 50 })
+        setRemaining(data.remaining)
+        if (data.remaining > baseTotal) { baseTotal = data.remaining; setTotal(baseTotal) }
+        if (data.processed === 0 || data.remaining === 0) break
+      }
+    } catch (e) {
+      setError(e.response?.data?.error || 'Falha ao recalcular em lote.')
+    } finally {
+      setRunning(false)
+    }
+  }
+  const stop = () => { stopRef.current = true }
+
+  const percent = total ? Math.round(((total - (remaining ?? total)) / total) * 100) : 0
+
+  return (
+    <div className="card" style={{ marginBottom: 14 }}>
+      <h3 style={{ marginBottom: 12 }}>Recalcular tamanho dos arquivos de áudio</h3>
+      <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>
+        Faixas e samples enviados antes desta versão não têm o tamanho
+        registrado (uploads novos já gravam na hora) — preenche em lote via
+        uma consulta de tamanho contra cada blob, sem baixar o áudio inteiro.
+        Necessário pro cálculo de uso de armazenamento por plano.
+      </p>
+      {remaining !== null && (
+        <>
+          <div style={{ background: 'var(--stroke)', borderRadius: 8, height: 10, overflow: 'hidden', marginBottom: 8 }}>
+            <div style={{ width: `${percent}%`, height: '100%', background: 'var(--accent, #46c48a)', transition: 'width .2s' }} />
+          </div>
+          <div className="page-sub" style={{ marginBottom: 14 }}>
+            {remaining === 0 ? 'Todos os arquivos já têm o tamanho registrado.' : `${remaining} arquivo(s) restante(s) de ${total}`}
+          </div>
+        </>
+      )}
+      {error && <div className="error-text">{error}</div>}
+      <div className="row">
+        {running ? (
+          <button className="btn danger" onClick={stop}>Parar</button>
+        ) : (
+          <button className="btn primary" disabled={remaining === 0} onClick={start}>Iniciar</button>
+        )}
+      </div>
+    </div>
+  )
+}
+
 export default function Settings() {
   const user = useAuthStore((s) => s.user)
   return (
@@ -508,6 +577,7 @@ export default function Settings() {
       {user?.is_admin && <UserAdminCard />}
       {user?.is_admin && <PlansAdminCard />}
       {user?.is_admin && <NormalizeLibraryCard />}
+      {user?.is_admin && <StorageRecomputeCard />}
     </>
   )
 }
