@@ -1,0 +1,40 @@
+{
+  "nav": {
+    "dashboard": "Painel",
+    "songs": "As minhas músicas",
+    "setlists": "Alinhamentos",
+    "favorites": "Favoritas",
+    "history": "Histórico",
+    "karaoke": "Karaoke",
+    "chordDictionary": "Dicionário de acordes",
+    "settings": "Definições",
+    "profile": "Perfil",
+    "logout": "Sair"
+  },
+  "login": {
+    "tagline": "As suas cifras sincronizadas para o palco.",
+    "username": "Utilizador",
+    "password": "Palavra-passe",
+    "submit": "Iniciar sessão",
+    "genericError": "Não foi possível ligar ao servidor.",
+    "noAccount": "Ainda não tem conta?",
+    "createAccount": "Criar conta"
+  },
+  "signup": {
+    "tagline": "Crie a sua conta — a sua biblioteca começa privada, só sua.",
+    "name": "Nome",
+    "username": "Utilizador",
+    "email": "E-mail",
+    "password": "Palavra-passe",
+    "submit": "Criar conta",
+    "submitting": "A criar…",
+    "genericError": "Não foi possível criar a sua conta.",
+    "hasAccount": "Já tem conta?",
+    "login": "Iniciar sessão"
+  },
+  "language": {
+    "label": "Idioma",
+    "description": "Escolha o idioma da interface.",
+    "auto": "Sugerido pelo navegador"
+  }
+}

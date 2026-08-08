@@ -1,0 +1,40 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "songs": "I miei brani",
+    "setlists": "Scalette",
+    "favorites": "Preferiti",
+    "history": "Cronologia",
+    "karaoke": "Karaoke",
+    "chordDictionary": "Dizionario degli accordi",
+    "settings": "Impostazioni",
+    "profile": "Profilo",
+    "logout": "Esci"
+  },
+  "login": {
+    "tagline": "I tuoi testi sincronizzati con il palco.",
+    "username": "Nome utente",
+    "password": "Password",
+    "submit": "Accedi",
+    "genericError": "Impossibile connettersi al server.",
+    "noAccount": "Non hai un account?",
+    "createAccount": "Crea account"
+  },
+  "signup": {
+    "tagline": "Crea il tuo account — la tua libreria inizia privata, solo per te.",
+    "name": "Nome",
+    "username": "Nome utente",
+    "email": "E-mail",
+    "password": "Password",
+    "submit": "Crea account",
+    "submitting": "Creazione…",
+    "genericError": "Impossibile creare il tuo account.",
+    "hasAccount": "Hai già un account?",
+    "login": "Accedi"
+  },
+  "language": {
+    "label": "Lingua",
+    "description": "Scegli la lingua dell'interfaccia.",
+    "auto": "Suggerita dal browser"
+  }
+}

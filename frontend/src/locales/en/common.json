@@ -1,0 +1,40 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "songs": "My songs",
+    "setlists": "Setlists",
+    "favorites": "Favorites",
+    "history": "History",
+    "karaoke": "Karaoke",
+    "chordDictionary": "Chord dictionary",
+    "settings": "Settings",
+    "profile": "Profile",
+    "logout": "Sign out"
+  },
+  "login": {
+    "tagline": "Your chord sheets, synced to the stage.",
+    "username": "Username",
+    "password": "Password",
+    "submit": "Sign in",
+    "genericError": "Could not connect to the server.",
+    "noAccount": "Don't have an account?",
+    "createAccount": "Create account"
+  },
+  "signup": {
+    "tagline": "Create your account — your library starts private, just for you.",
+    "name": "Name",
+    "username": "Username",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Create account",
+    "submitting": "Creating…",
+    "genericError": "Could not create your account.",
+    "hasAccount": "Already have an account?",
+    "login": "Sign in"
+  },
+  "language": {
+    "label": "Language",
+    "description": "Choose the interface language.",
+    "auto": "Suggested by your browser"
+  }
+}

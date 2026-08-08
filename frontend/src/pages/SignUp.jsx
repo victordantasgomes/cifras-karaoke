@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
+import { useTranslation } from 'react-i18next'
 import logoPrincipal from '../assets/logo-principal.png'
 import api from '../services/api'
 import { useAuthStore } from '../store/authStore'
@@ -13,6 +14,7 @@ import { useAuthStore } from '../store/authStore'
  * de plano (Fase 7 — Pricing.jsx).
  */
 export default function SignUp() {
+  const { t } = useTranslation()
   const [form, setForm] = useState({ name: '', username: '', email: '', password: '' })
   const [error, setError] = useState('')
   const [busy, setBusy] = useState(false)
@@ -26,7 +28,7 @@ export default function SignUp() {
       setSession(data.token, data.user)
       navigate('/planos')
     } catch (e) {
-      setError(e.response?.data?.error || 'Não foi possível criar sua conta.')
+      setError(e.response?.data?.error || t('signup.genericError'))
     } finally {
       setBusy(false)
     }
@@ -36,24 +38,24 @@ export default function SignUp() {
     <div className="login-wrap">
       <div className="card login-card">
         <img src={logoPrincipal} alt="Banda do Zé" className="login-logo" />
-        <div className="tag">Crie sua conta — sua biblioteca começa privada, só sua.</div>
+        <div className="tag">{t('signup.tagline')}</div>
         <div className="field">
-          <label>Nome</label>
+          <label>{t('signup.name')}</label>
           <input className="input" value={form.name} autoFocus
             onChange={(e) => setForm({ ...form, name: e.target.value })} />
         </div>
         <div className="field">
-          <label>Usuário</label>
+          <label>{t('signup.username')}</label>
           <input className="input" value={form.username}
             onChange={(e) => setForm({ ...form, username: e.target.value })} />
         </div>
         <div className="field">
-          <label>E-mail</label>
+          <label>{t('signup.email')}</label>
           <input className="input" type="email" value={form.email}
             onChange={(e) => setForm({ ...form, email: e.target.value })} />
         </div>
         <div className="field">
-          <label>Senha</label>
+          <label>{t('signup.password')}</label>
           <input className="input" type="password" value={form.password}
             onChange={(e) => setForm({ ...form, password: e.target.value })}
             onKeyDown={(e) => e.key === 'Enter' && submit()} />
@@ -61,11 +63,11 @@ export default function SignUp() {
         {error && <div className="error-text">{error}</div>}
         <div className="row" style={{ marginTop: 18 }}>
           <button className="btn primary" disabled={busy} onClick={submit}>
-            {busy ? 'Criando…' : 'Criar conta'}
+            {busy ? t('signup.submitting') : t('signup.submit')}
           </button>
         </div>
         <div className="page-sub" style={{ marginTop: 14 }}>
-          Já tem conta? <Link to="/login">Entrar</Link>
+          {t('signup.hasAccount')} <Link to="/login">{t('signup.login')}</Link>
         </div>
       </div>
     </div>

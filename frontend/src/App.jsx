@@ -1,5 +1,7 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import './i18n'
 import { useColorSettings } from './hooks/useColorSettings'
+import { useLocale } from './hooks/useLocale'
 import Layout from './components/Layout'
 import Login from './pages/Login'
 import SignUp from './pages/SignUp'
@@ -18,6 +20,7 @@ import Pricing from './pages/Pricing'
 
 export default function App() {
   useColorSettings()
+  useLocale()
   return (
     <BrowserRouter>
       <Routes>

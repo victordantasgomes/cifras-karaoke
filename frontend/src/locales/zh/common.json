@@ -1,0 +1,40 @@
+{
+  "nav": {
+    "dashboard": "仪表盘",
+    "songs": "我的歌曲",
+    "setlists": "歌单",
+    "favorites": "收藏",
+    "history": "历史记录",
+    "karaoke": "卡拉OK",
+    "chordDictionary": "和弦词典",
+    "settings": "设置",
+    "profile": "个人资料",
+    "logout": "退出登录"
+  },
+  "login": {
+    "tagline": "你的歌词谱与舞台同步。",
+    "username": "用户名",
+    "password": "密码",
+    "submit": "登录",
+    "genericError": "无法连接到服务器。",
+    "noAccount": "还没有账号？",
+    "createAccount": "创建账号"
+  },
+  "signup": {
+    "tagline": "创建你的账号——你的曲库默认私密，只属于你。",
+    "name": "姓名",
+    "username": "用户名",
+    "email": "电子邮箱",
+    "password": "密码",
+    "submit": "创建账号",
+    "submitting": "正在创建…",
+    "genericError": "无法创建账号。",
+    "hasAccount": "已经有账号了？",
+    "login": "登录"
+  },
+  "language": {
+    "label": "语言",
+    "description": "选择界面语言。",
+    "auto": "由浏览器建议"
+  }
+}

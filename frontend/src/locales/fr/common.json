@@ -1,0 +1,40 @@
+{
+  "nav": {
+    "dashboard": "Tableau de bord",
+    "songs": "Mes chansons",
+    "setlists": "Setlists",
+    "favorites": "Favoris",
+    "history": "Historique",
+    "karaoke": "Karaoké",
+    "chordDictionary": "Dictionnaire d'accords",
+    "settings": "Paramètres",
+    "profile": "Profil",
+    "logout": "Déconnexion"
+  },
+  "login": {
+    "tagline": "Vos partitions synchronisées avec la scène.",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "submit": "Se connecter",
+    "genericError": "Impossible de se connecter au serveur.",
+    "noAccount": "Pas encore de compte ?",
+    "createAccount": "Créer un compte"
+  },
+  "signup": {
+    "tagline": "Créez votre compte — votre bibliothèque commence en privé, rien que pour vous.",
+    "name": "Nom",
+    "username": "Nom d'utilisateur",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "submit": "Créer un compte",
+    "submitting": "Création…",
+    "genericError": "Impossible de créer votre compte.",
+    "hasAccount": "Vous avez déjà un compte ?",
+    "login": "Se connecter"
+  },
+  "language": {
+    "label": "Langue",
+    "description": "Choisissez la langue de l'interface.",
+    "auto": "Suggérée par le navigateur"
+  }
+}

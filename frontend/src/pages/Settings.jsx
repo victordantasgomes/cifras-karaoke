@@ -1,6 +1,9 @@
 import { useEffect, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
+import { useTranslation } from 'react-i18next'
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
+import { LOCALE_LABELS, SUPPORTED_LOCALES } from '../i18n'
+import { useChangeLocale } from '../hooks/useLocale'
 import api from '../services/api'
 import { useAuthStore } from '../store/authStore'
 
@@ -73,6 +76,33 @@ function ColorSettingsCard() {
         </button>
         <button className="btn" onClick={restoreDefaults}>Restaurar padrão</button>
       </div>
+    </div>
+  )
+}
+
+function LanguageSettingsCard() {
+  const { t, i18n } = useTranslation()
+  const changeLocale = useChangeLocale()
+  const [busy, setBusy] = useState(false)
+
+  const onChange = async (e) => {
+    setBusy(true)
+    try {
+      await changeLocale(e.target.value)
+    } finally {
+      setBusy(false)
+    }
+  }
+
+  return (
+    <div className="card" style={{ marginBottom: 14 }}>
+      <h3 style={{ marginBottom: 12 }}>{t('language.label')}</h3>
+      <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>{t('language.description')}</p>
+      <select className="input" style={{ maxWidth: 260 }} value={i18n.language} disabled={busy} onChange={onChange}>
+        {SUPPORTED_LOCALES.map((locale) => (
+          <option key={locale} value={locale}>{LOCALE_LABELS[locale]}</option>
+        ))}
+      </select>
     </div>
   )
 }
@@ -580,6 +610,7 @@ export default function Settings() {
     <>
       <h1 className="page-title">Configurações</h1>
       <div className="page-sub">Preferências visuais.</div>
+      <LanguageSettingsCard />
       <ColorSettingsCard />
       <PedalSettingsCard />
       <BillingCard />
