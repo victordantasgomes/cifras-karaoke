@@ -12,6 +12,7 @@ from functools import wraps
 from flask import g, jsonify, request
 
 from services.auth_service import AuthError
+from utils.error_codes import auth_error_code
 
 
 def require_auth(auth_service):
@@ -20,11 +21,11 @@ def require_auth(auth_service):
         def wrapper(*args, **kwargs):
             header = request.headers.get("Authorization", "")
             if not header.startswith("Bearer "):
-                return jsonify({"error": "Autenticação necessária."}), 401
+                return jsonify({"error": "Autenticação necessária.", "error_code": "AUTH_REQUIRED"}), 401
             try:
                 payload = auth_service.verify_token(header[7:])
             except AuthError as e:
-                return jsonify({"error": str(e)}), 401
+                return jsonify({"error": str(e), "error_code": auth_error_code(str(e))}), 401
             g.user_id = payload["sub"]
             g.username = payload.get("username", "")
             g.is_admin = payload.get("is_admin", False)
@@ -42,6 +43,7 @@ def require_not_blocked(billing_service):
                 return jsonify({
                     "error": "Sua assinatura está com pagamento pendente ou cancelada — regularize pra "
                              "criar conteúdo novo. Suas músicas e setlists continuam disponíveis.",
+                    "error_code": "BILLING_CREATION_BLOCKED",
                 }), 402
             return fn(*args, **kwargs)
         return wrapper
@@ -56,7 +58,7 @@ def require_admin(auth_service):
         @wraps(fn)
         def wrapper(*args, **kwargs):
             if not g.is_admin:
-                return jsonify({"error": "Acesso restrito a administradores."}), 403
+                return jsonify({"error": "Acesso restrito a administradores.", "error_code": "ADMIN_REQUIRED"}), 403
             return fn(*args, **kwargs)
         return wrapper
     return decorator

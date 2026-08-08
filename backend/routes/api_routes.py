@@ -9,6 +9,7 @@ from services.billing_service import BillingError
 from services.plans_service import DuplicatePlanName, PlanNotFound, StripeSyncError
 from services.quota_service import QuotaExceeded
 from services.songs_service import NotOwner, SongNotFound
+from utils.error_codes import auth_error_code, billing_error_code, quota_error_code
 
 
 def build_blueprint(ctx) -> Blueprint:
@@ -24,7 +25,7 @@ def build_blueprint(ctx) -> Blueprint:
         try:
             return jsonify(ctx.auth.login(d.get("username", ""), d.get("password", "")))
         except AuthError as e:
-            return jsonify({"error": str(e)}), 401
+            return jsonify({"error": str(e), "error_code": auth_error_code(str(e))}), 401
 
     # Cadastro público (Fase 5) — deliberadamente SEPARADO de
     # POST /admin/users (admin-only, abaixo): nunca lê/repassa `is_admin` do
@@ -37,7 +38,7 @@ def build_blueprint(ctx) -> Blueprint:
         d = request.get_json(force=True)
         email = d.get("email", "").strip()
         if not email:
-            return jsonify({"error": "E-mail é obrigatório."}), 400
+            return jsonify({"error": "E-mail é obrigatório.", "error_code": "AUTH_EMAIL_REQUIRED"}), 400
         try:
             ctx.auth.register(
                 d.get("username", ""), d.get("password", ""), d.get("name", ""),
@@ -45,7 +46,7 @@ def build_blueprint(ctx) -> Blueprint:
             )
             return jsonify(ctx.auth.login(d.get("username", ""), d.get("password", "")))
         except AuthError as e:
-            return jsonify({"error": str(e)}), 400
+            return jsonify({"error": str(e), "error_code": auth_error_code(str(e))}), 400
 
     # ---------------- administração (só is_admin) ----------------
     @api.get("/admin/users")
@@ -63,7 +64,7 @@ def build_blueprint(ctx) -> Blueprint:
                 is_admin=bool(d.get("is_admin", False)),
             )
         except AuthError as e:
-            return jsonify({"error": str(e)}), 400
+            return jsonify({"error": str(e), "error_code": auth_error_code(str(e))}), 400
         return jsonify(user), 201
 
     @api.delete("/admin/users/<user_id>")
@@ -72,7 +73,7 @@ def build_blueprint(ctx) -> Blueprint:
         try:
             ctx.auth.delete_user(user_id, g.user_id)
         except AuthError as e:
-            return jsonify({"error": str(e)}), 400
+            return jsonify({"error": str(e), "error_code": auth_error_code(str(e))}), 400
         return "", 204
 
     @api.post("/admin/users/<user_id>/reset-password")
@@ -82,7 +83,7 @@ def build_blueprint(ctx) -> Blueprint:
         try:
             ctx.auth.reset_password(user_id, d.get("password", ""))
         except AuthError as e:
-            return jsonify({"error": str(e)}), 400
+            return jsonify({"error": str(e), "error_code": auth_error_code(str(e))}), 400
         return "", 204
 
     @api.get("/admin/plans")
@@ -100,11 +101,12 @@ def build_blueprint(ctx) -> Blueprint:
                 int(d.get("storage_limit_mb", 0)), int(d.get("price_cents", 0)),
             )
         except DuplicatePlanName:
-            return jsonify({"error": "Já existe um plano com esse nome."}), 400
+            return jsonify({"error": "Já existe um plano com esse nome.", "error_code": "PLAN_DUPLICATE_NAME"}), 400
         except ValueError as e:
-            return jsonify({"error": str(e)}), 400
+            return jsonify({"error": str(e), "error_code": "PLAN_VALIDATION_ERROR"}), 400
         except StripeSyncError as e:
-            return jsonify({"error": f"Plano não sincronizou com a Stripe: {e}"}), 502
+            return jsonify({"error": f"Plano não sincronizou com a Stripe: {e}",
+                             "error_code": "PLAN_STRIPE_SYNC_FAILED"}), 502
         return jsonify(plan), 201
 
     @api.put("/admin/plans/<plan_id>")
@@ -117,11 +119,12 @@ def build_blueprint(ctx) -> Blueprint:
                 int(d.get("storage_limit_mb", 0)), int(d.get("price_cents", 0)),
             ))
         except PlanNotFound:
-            return jsonify({"error": "Plano não encontrado."}), 404
+            return jsonify({"error": "Plano não encontrado.", "error_code": "PLAN_NOT_FOUND"}), 404
         except ValueError as e:
-            return jsonify({"error": str(e)}), 400
+            return jsonify({"error": str(e), "error_code": "PLAN_VALIDATION_ERROR"}), 400
         except StripeSyncError as e:
-            return jsonify({"error": f"Plano não sincronizou com a Stripe: {e}"}), 502
+            return jsonify({"error": f"Plano não sincronizou com a Stripe: {e}",
+                             "error_code": "PLAN_STRIPE_SYNC_FAILED"}), 502
 
     # ---------------- planos (leitura pública p/ usuário logado) + cobrança ----------------
     @api.get("/plans")
@@ -135,7 +138,7 @@ def build_blueprint(ctx) -> Blueprint:
         try:
             return jsonify(ctx.billing.get_status(g.user_id))
         except BillingError as e:
-            return jsonify({"error": str(e)}), 400
+            return jsonify({"error": str(e), "error_code": billing_error_code(str(e))}), 400
 
     @api.post("/billing/checkout-session")
     @protected
@@ -147,7 +150,7 @@ def build_blueprint(ctx) -> Blueprint:
                 d.get("success_url", ""), d.get("cancel_url", ""),
             )
         except BillingError as e:
-            return jsonify({"error": str(e)}), 400
+            return jsonify({"error": str(e), "error_code": billing_error_code(str(e))}), 400
         return jsonify({"url": url})
 
     @api.get("/billing/portal-session")
@@ -156,7 +159,7 @@ def build_blueprint(ctx) -> Blueprint:
         try:
             url = ctx.billing.create_portal_session(g.user_id, request.args.get("return_url", ""))
         except BillingError as e:
-            return jsonify({"error": str(e)}), 400
+            return jsonify({"error": str(e), "error_code": billing_error_code(str(e))}), 400
         return jsonify({"url": url})
 
     # Webhook da Stripe — SEM @protected (a Stripe não manda Bearer token; a
@@ -166,7 +169,7 @@ def build_blueprint(ctx) -> Blueprint:
         try:
             ctx.billing.handle_webhook_event(request.data, request.headers.get("Stripe-Signature", ""))
         except BillingError as e:
-            return jsonify({"error": str(e)}), 400
+            return jsonify({"error": str(e), "error_code": billing_error_code(str(e))}), 400
         return "", 200
 
     @api.post("/admin/plans/<plan_id>/active")
@@ -176,7 +179,7 @@ def build_blueprint(ctx) -> Blueprint:
         try:
             return jsonify(ctx.plans.set_active(plan_id, bool(d.get("value", True))))
         except PlanNotFound:
-            return jsonify({"error": "Plano não encontrado."}), 404
+            return jsonify({"error": "Plano não encontrado.", "error_code": "PLAN_NOT_FOUND"}), 404
 
     @api.get("/admin/songs/normalize-status")
     @ctx.require_admin
@@ -249,7 +252,7 @@ def build_blueprint(ctx) -> Blueprint:
         try:
             return jsonify(ctx.songs.get(g.user_id, slug, is_admin=g.is_admin))
         except SongNotFound:
-            return jsonify({"error": "Música não encontrada."}), 404
+            return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
 
     @api.put("/songs/<slug>")
     @protected
@@ -260,7 +263,7 @@ def build_blueprint(ctx) -> Blueprint:
                 g.user_id, slug, d.get("header", {}), d.get("body", ""), editor_name=g.name,
             ))
         except SongNotFound:
-            return jsonify({"error": "Música não encontrada."}), 404
+            return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
 
     @api.delete("/songs/<slug>")
     @protected
@@ -268,9 +271,10 @@ def build_blueprint(ctx) -> Blueprint:
         try:
             ctx.songs.delete(g.user_id, slug, is_admin=g.is_admin)
         except SongNotFound:
-            return jsonify({"error": "Música não encontrada."}), 404
+            return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
         except NotOwner:
-            return jsonify({"error": "Só quem criou esta música (ou um admin) pode excluí-la."}), 403
+            return jsonify({"error": "Só quem criou esta música (ou um admin) pode excluí-la.",
+                             "error_code": "SONG_NOT_OWNER"}), 403
         return "", 204
 
     @api.post("/songs/<slug>/shared")
@@ -280,9 +284,10 @@ def build_blueprint(ctx) -> Blueprint:
         try:
             return jsonify(ctx.songs.set_shared(g.user_id, slug, bool(d.get("value"))))
         except SongNotFound:
-            return jsonify({"error": "Música não encontrada."}), 404
+            return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
         except NotOwner:
-            return jsonify({"error": "Só quem criou esta música (ou um admin) pode alterar o compartilhamento."}), 403
+            return jsonify({"error": "Só quem criou esta música (ou um admin) pode alterar o compartilhamento.",
+                             "error_code": "SONG_NOT_OWNER"}), 403
 
     @api.post("/songs/<slug>/favorite")
     @protected
@@ -309,7 +314,7 @@ def build_blueprint(ctx) -> Blueprint:
                 editor_name=g.name,
             ))
         except ValueError as e:
-            return jsonify({"error": str(e)}), 400
+            return jsonify({"error": str(e), "error_code": "TRANSPOSE_INVALID"}), 400
 
     @api.post("/songs/<slug>/normalize")
     @protected
@@ -317,7 +322,7 @@ def build_blueprint(ctx) -> Blueprint:
         try:
             return jsonify(ctx.songs.normalize(g.user_id, slug, editor_name=g.name))
         except SongNotFound:
-            return jsonify({"error": "Música não encontrada."}), 404
+            return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
 
     @api.post("/songs/<slug>/ai-suggest")
     @protected
@@ -325,11 +330,11 @@ def build_blueprint(ctx) -> Blueprint:
         try:
             data = ctx.songs.get(g.user_id, slug)
         except SongNotFound:
-            return jsonify({"error": "Música não encontrada."}), 404
+            return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
         try:
             return jsonify(ctx.ai.suggest_header(data["header"], data["body"]))
         except AIError as e:
-            return jsonify({"error": str(e)}), 502
+            return jsonify({"error": str(e), "error_code": "AI_SUGGESTION_FAILED"}), 502
 
     @api.get("/songs/<slug>/export")
     @protected
@@ -347,13 +352,14 @@ def build_blueprint(ctx) -> Blueprint:
     def upload_audio(slug):
         f = request.files.get("file")
         if not f:
-            return jsonify({"error": "Arquivo de áudio ausente."}), 400
+            return jsonify({"error": "Arquivo de áudio ausente.", "error_code": "AUDIO_FILE_MISSING"}), 400
         try:
             ctx.audio.save_track(g.user_id, slug, f)
         except SongNotFound:
-            return jsonify({"error": "Música não encontrada."}), 404
+            return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
         except NotOwner:
-            return jsonify({"error": "Só quem criou esta música (ou um admin) pode enviar áudio."}), 403
+            return jsonify({"error": "Só quem criou esta música (ou um admin) pode enviar áudio.",
+                             "error_code": "SONG_NOT_OWNER"}), 403
         return jsonify({"ok": True}), 201
 
     @api.get("/songs/<slug>/audio")
@@ -361,7 +367,7 @@ def build_blueprint(ctx) -> Blueprint:
     def get_audio(slug):
         result = ctx.audio.track_bytes(g.user_id, slug)
         if not result:
-            return jsonify({"error": "Esta música não tem áudio enviado."}), 404
+            return jsonify({"error": "Esta música não tem áudio enviado.", "error_code": "AUDIO_NOT_FOUND"}), 404
         data, content_type = result
         return Response(data, mimetype=content_type or "application/octet-stream")
 
@@ -371,7 +377,8 @@ def build_blueprint(ctx) -> Blueprint:
         try:
             ctx.audio.delete_track(g.user_id, slug)
         except NotOwner:
-            return jsonify({"error": "Só quem criou esta música (ou um admin) pode remover o áudio."}), 403
+            return jsonify({"error": "Só quem criou esta música (ou um admin) pode remover o áudio.",
+                             "error_code": "SONG_NOT_OWNER"}), 403
         return "", 204
 
     @api.post("/songs/<slug>/samples")
@@ -381,15 +388,16 @@ def build_blueprint(ctx) -> Blueprint:
         f = request.files.get("file")
         nome = request.form.get("nome", "")
         if not f:
-            return jsonify({"error": "Arquivo de áudio ausente."}), 400
+            return jsonify({"error": "Arquivo de áudio ausente.", "error_code": "AUDIO_FILE_MISSING"}), 400
         try:
             sample = ctx.audio.save_sample(g.user_id, slug, f, nome)
         except SongNotFound:
-            return jsonify({"error": "Música não encontrada."}), 404
+            return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
         except NotOwner:
-            return jsonify({"error": "Só quem criou esta música (ou um admin) pode enviar samples."}), 403
+            return jsonify({"error": "Só quem criou esta música (ou um admin) pode enviar samples.",
+                             "error_code": "SONG_NOT_OWNER"}), 403
         except ValueError as e:
-            return jsonify({"error": str(e)}), 400
+            return jsonify({"error": str(e), "error_code": "SAMPLE_VALIDATION_ERROR"}), 400
         return jsonify(sample), 201
 
     @api.get("/songs/<slug>/samples")
@@ -402,7 +410,7 @@ def build_blueprint(ctx) -> Blueprint:
     def get_sample(slug, sample_id):
         result = ctx.audio.sample_bytes(g.user_id, slug, sample_id)
         if not result:
-            return jsonify({"error": "Sample não encontrado."}), 404
+            return jsonify({"error": "Sample não encontrado.", "error_code": "SAMPLE_NOT_FOUND"}), 404
         data, content_type = result
         return Response(data, mimetype=content_type or "application/octet-stream")
 
@@ -412,7 +420,8 @@ def build_blueprint(ctx) -> Blueprint:
         try:
             ctx.audio.delete_sample(g.user_id, slug, sample_id)
         except NotOwner:
-            return jsonify({"error": "Só quem criou esta música (ou um admin) pode remover samples."}), 403
+            return jsonify({"error": "Só quem criou esta música (ou um admin) pode remover samples.",
+                             "error_code": "SONG_NOT_OWNER"}), 403
         return "", 204
 
     # ---------------- fila de clipes (pedal) ----------------
@@ -423,15 +432,16 @@ def build_blueprint(ctx) -> Blueprint:
         f = request.files.get("file")
         nome = request.form.get("nome", "")
         if not f:
-            return jsonify({"error": "Arquivo de áudio ausente."}), 400
+            return jsonify({"error": "Arquivo de áudio ausente.", "error_code": "AUDIO_FILE_MISSING"}), 400
         try:
             clip = ctx.clips.save_clip(g.user_id, slug, f, nome)
         except SongNotFound:
-            return jsonify({"error": "Música não encontrada."}), 404
+            return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
         except NotOwner:
-            return jsonify({"error": "Só quem criou esta música (ou um admin) pode enviar clipes."}), 403
+            return jsonify({"error": "Só quem criou esta música (ou um admin) pode enviar clipes.",
+                             "error_code": "SONG_NOT_OWNER"}), 403
         except ValueError as e:
-            return jsonify({"error": str(e)}), 400
+            return jsonify({"error": str(e), "error_code": "CLIP_VALIDATION_ERROR"}), 400
         return jsonify(clip), 201
 
     @api.get("/songs/<slug>/clips")
@@ -446,16 +456,17 @@ def build_blueprint(ctx) -> Blueprint:
         try:
             return jsonify(ctx.clips.reorder_clips(g.user_id, slug, d.get("ids", [])))
         except SongNotFound:
-            return jsonify({"error": "Música não encontrada."}), 404
+            return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
         except NotOwner:
-            return jsonify({"error": "Só quem criou esta música (ou um admin) pode reordenar clipes."}), 403
+            return jsonify({"error": "Só quem criou esta música (ou um admin) pode reordenar clipes.",
+                             "error_code": "SONG_NOT_OWNER"}), 403
 
     @api.get("/songs/<slug>/clips/<clip_id>")
     @protected
     def get_clip(slug, clip_id):
         result = ctx.clips.clip_bytes(g.user_id, slug, clip_id)
         if not result:
-            return jsonify({"error": "Clipe não encontrado."}), 404
+            return jsonify({"error": "Clipe não encontrado.", "error_code": "CLIP_NOT_FOUND"}), 404
         data, content_type = result
         return Response(data, mimetype=content_type or "application/octet-stream")
 
@@ -465,7 +476,8 @@ def build_blueprint(ctx) -> Blueprint:
         try:
             ctx.clips.delete_clip(g.user_id, slug, clip_id)
         except NotOwner:
-            return jsonify({"error": "Só quem criou esta música (ou um admin) pode remover clipes."}), 403
+            return jsonify({"error": "Só quem criou esta música (ou um admin) pode remover clipes.",
+                             "error_code": "SONG_NOT_OWNER"}), 403
         return "", 204
 
     # ---------------- karaokê ----------------
@@ -475,7 +487,7 @@ def build_blueprint(ctx) -> Blueprint:
         try:
             payload = ctx.karaoke.payload(g.user_id, slug, is_admin=g.is_admin)
         except SongNotFound:
-            return jsonify({"error": "Música não encontrada."}), 404
+            return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
         ctx.history.register_play(g.user_id, slug)
         return jsonify(payload)
 
@@ -492,7 +504,7 @@ def build_blueprint(ctx) -> Blueprint:
             return jsonify({"content": ctx.history.read_version(g.user_id, slug, version_id),
                             "diff": ctx.history.diff(g.user_id, slug, version_id)})
         except FileNotFoundError:
-            return jsonify({"error": "Versão não encontrada."}), 404
+            return jsonify({"error": "Versão não encontrada.", "error_code": "VERSION_NOT_FOUND"}), 404
 
     @api.post("/songs/<slug>/versions/<version_id>/restore")
     @protected
@@ -514,7 +526,7 @@ def build_blueprint(ctx) -> Blueprint:
             return jsonify(ctx.setlists.save(g.user_id, d.get("nome", "Novo setlist"),
                                              d.get("items", []))), 201
         except QuotaExceeded as e:
-            return jsonify({"error": str(e)}), 402
+            return jsonify({"error": str(e), "error_code": quota_error_code(str(e))}), 402
 
     @api.get("/setlists/<setlist_id>")
     @protected
@@ -522,7 +534,7 @@ def build_blueprint(ctx) -> Blueprint:
         try:
             return jsonify(ctx.setlists.get(g.user_id, setlist_id))
         except FileNotFoundError:
-            return jsonify({"error": "Setlist não encontrado."}), 404
+            return jsonify({"error": "Setlist não encontrado.", "error_code": "SETLIST_NOT_FOUND"}), 404
 
     @api.put("/setlists/<setlist_id>")
     @protected
@@ -532,9 +544,10 @@ def build_blueprint(ctx) -> Blueprint:
             return jsonify(ctx.setlists.save(g.user_id, d.get("nome", setlist_id),
                                              d.get("items", []), setlist_id))
         except PermissionError:
-            return jsonify({"error": "Só quem criou este setlist pode editá-lo."}), 403
+            return jsonify({"error": "Só quem criou este setlist pode editá-lo.",
+                             "error_code": "SETLIST_NOT_OWNER"}), 403
         except QuotaExceeded as e:
-            return jsonify({"error": str(e)}), 402
+            return jsonify({"error": str(e), "error_code": quota_error_code(str(e))}), 402
 
     @api.delete("/setlists/<setlist_id>")
     @protected
@@ -542,7 +555,8 @@ def build_blueprint(ctx) -> Blueprint:
         try:
             ctx.setlists.delete(g.user_id, setlist_id)
         except PermissionError:
-            return jsonify({"error": "Só quem criou este setlist pode excluí-lo."}), 403
+            return jsonify({"error": "Só quem criou este setlist pode excluí-lo.",
+                             "error_code": "SETLIST_NOT_OWNER"}), 403
         return "", 204
 
     @api.post("/setlists/<setlist_id>/share")
@@ -552,9 +566,10 @@ def build_blueprint(ctx) -> Blueprint:
         try:
             return jsonify(ctx.setlists.set_shared(g.user_id, setlist_id, bool(d.get("value"))))
         except FileNotFoundError:
-            return jsonify({"error": "Setlist não encontrado."}), 404
+            return jsonify({"error": "Setlist não encontrado.", "error_code": "SETLIST_NOT_FOUND"}), 404
         except PermissionError:
-            return jsonify({"error": "Só quem criou este setlist pode alterar o compartilhamento."}), 403
+            return jsonify({"error": "Só quem criou este setlist pode alterar o compartilhamento.",
+                             "error_code": "SETLIST_NOT_OWNER"}), 403
 
     @api.get("/setlists/<setlist_id>/export")
     @protected
@@ -574,7 +589,7 @@ def build_blueprint(ctx) -> Blueprint:
         try:
             return jsonify(ctx.setlists.import_txt(g.user_id, content)), 201
         except QuotaExceeded as e:
-            return jsonify({"error": str(e)}), 402
+            return jsonify({"error": str(e), "error_code": quota_error_code(str(e))}), 402
 
     # ---------------- uso do plano ----------------
     @api.get("/quota/usage")
@@ -639,7 +654,7 @@ def build_blueprint(ctx) -> Blueprint:
     def get_acorde(item_id):
         item = ctx.chords.get(item_id)
         if not item:
-            return jsonify({"error": "Acorde não encontrado."}), 404
+            return jsonify({"error": "Acorde não encontrado.", "error_code": "CHORD_NOT_FOUND"}), 404
         return jsonify(item)
 
     # ---------------- dashboard ----------------
