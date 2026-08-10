@@ -56,5 +56,24 @@
     "create": "Couldn't publish the ad.",
     "update": "Couldn't save the changes.",
     "toggle": "Couldn't update the ad."
+  },
+  "media": {
+    "title": "Photos, videos and links",
+    "saveFirst": "Publish the ad first to attach photos, videos and links.",
+    "kinds": {
+      "photo": "Photo",
+      "video": "Video",
+      "link": "Link",
+      "youtube": "YouTube video"
+    },
+    "labelPlaceholder": "Caption (optional)",
+    "linkPlaceholder": "https://…",
+    "youtubePlaceholder": "https://youtube.com/watch?v=…",
+    "attach": "Attach",
+    "attaching": "Attaching…",
+    "remove": "Remove",
+    "errors": {
+      "add": "Couldn't attach that media."
+    }
   }
 }

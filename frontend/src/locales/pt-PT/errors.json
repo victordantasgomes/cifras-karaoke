@@ -45,5 +45,15 @@
   "QUOTA_EXCEEDED": "Limite do seu plano atingido.",
   "SETLIST_NOT_FOUND": "Alinhamento não encontrado.",
   "SETLIST_NOT_OWNER": "Só quem criou este alinhamento pode fazer isto.",
-  "CHORD_NOT_FOUND": "Acorde não encontrado."
+  "CHORD_NOT_FOUND": "Acorde não encontrado.",
+  "BAND_POST_NOT_FOUND": "Anúncio não encontrado.",
+  "BAND_POST_NOT_OWNER": "Só quem criou este anúncio pode fazer isso.",
+  "BAND_MEDIA_KIND_INVALID": "Tipo de conteúdo inválido.",
+  "BAND_MEDIA_FILE_MISSING": "Ficheiro ausente.",
+  "BAND_MEDIA_TYPE_MISMATCH": "O ficheiro não parece ser do tipo esperado.",
+  "BAND_MEDIA_TOO_LARGE": "Ficheiro maior do que o limite permitido.",
+  "BAND_MEDIA_LIMIT_REACHED": "Limite de itens de conteúdo por anúncio atingido.",
+  "BAND_MEDIA_URL_INVALID": "Indique um link válido (a começar por http:// ou https://).",
+  "BAND_MEDIA_INVALID": "Não foi possível anexar esse conteúdo.",
+  "BAND_MEDIA_NOT_FOUND": "Conteúdo não encontrado."
 }

@@ -45,5 +45,15 @@
   "QUOTA_EXCEEDED": "Достигнут лимит вашего тарифа.",
   "SETLIST_NOT_FOUND": "Сетлист не найден.",
   "SETLIST_NOT_OWNER": "Это может сделать только создатель этого сетлиста.",
-  "CHORD_NOT_FOUND": "Аккорд не найден."
+  "CHORD_NOT_FOUND": "Аккорд не найден.",
+  "BAND_POST_NOT_FOUND": "Объявление не найдено.",
+  "BAND_POST_NOT_OWNER": "Только создатель этого объявления может это сделать.",
+  "BAND_MEDIA_KIND_INVALID": "Неверный тип материала.",
+  "BAND_MEDIA_FILE_MISSING": "Отсутствует файл.",
+  "BAND_MEDIA_TYPE_MISMATCH": "Файл не соответствует ожидаемому типу.",
+  "BAND_MEDIA_TOO_LARGE": "Файл больше допустимого лимита.",
+  "BAND_MEDIA_LIMIT_REACHED": "Достигнут лимит материалов на объявление.",
+  "BAND_MEDIA_URL_INVALID": "Укажите действительную ссылку (начинающуюся с http:// или https://).",
+  "BAND_MEDIA_INVALID": "Не удалось прикрепить этот материал.",
+  "BAND_MEDIA_NOT_FOUND": "Материал не найден."
 }

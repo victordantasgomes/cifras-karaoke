@@ -56,5 +56,24 @@
     "create": "Impossibile pubblicare l'annuncio.",
     "update": "Impossibile salvare le modifiche.",
     "toggle": "Impossibile modificare l'annuncio."
+  },
+  "media": {
+    "title": "Foto, video e link",
+    "saveFirst": "Pubblica prima l'annuncio per poter allegare foto, video e link.",
+    "kinds": {
+      "photo": "Foto",
+      "video": "Video",
+      "link": "Link",
+      "youtube": "Video di YouTube"
+    },
+    "labelPlaceholder": "Didascalia (opzionale)",
+    "linkPlaceholder": "https://…",
+    "youtubePlaceholder": "https://youtube.com/watch?v=…",
+    "attach": "Allega",
+    "attaching": "Allegando…",
+    "remove": "Rimuovi",
+    "errors": {
+      "add": "Impossibile allegare questo contenuto."
+    }
   }
 }

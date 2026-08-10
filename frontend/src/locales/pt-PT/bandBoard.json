@@ -56,5 +56,24 @@
     "create": "Não foi possível publicar o anúncio.",
     "update": "Não foi possível guardar as alterações.",
     "toggle": "Não foi possível alterar o anúncio."
+  },
+  "media": {
+    "title": "Fotos, vídeos e links",
+    "saveFirst": "Publique o anúncio primeiro para poder anexar fotos, vídeos e links.",
+    "kinds": {
+      "photo": "Foto",
+      "video": "Vídeo",
+      "link": "Link",
+      "youtube": "Vídeo do YouTube"
+    },
+    "labelPlaceholder": "Legenda (opcional)",
+    "linkPlaceholder": "https://…",
+    "youtubePlaceholder": "https://youtube.com/watch?v=…",
+    "attach": "Anexar",
+    "attaching": "A anexar…",
+    "remove": "Remover",
+    "errors": {
+      "add": "Não foi possível anexar esse conteúdo."
+    }
   }
 }

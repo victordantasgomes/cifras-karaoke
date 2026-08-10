@@ -6,11 +6,13 @@ from flask import Blueprint, Response, g, jsonify, request
 from services.ai_service import AIError
 from services.auth_service import AuthError
 from services.billing_service import BillingError
+from services.band_board_service import FILE_KINDS as BAND_MEDIA_FILE_KINDS
+from services.band_board_service import LINK_KINDS as BAND_MEDIA_LINK_KINDS
 from services.branding_service import VARIANTS as LOGO_VARIANTS
 from services.plans_service import DuplicatePlanName, PlanNotFound, StripeSyncError
 from services.quota_service import QuotaExceeded
 from services.songs_service import NotOwner, SongNotFound
-from utils.error_codes import auth_error_code, billing_error_code, quota_error_code
+from utils.error_codes import auth_error_code, band_media_error_code, billing_error_code, quota_error_code
 
 
 def build_blueprint(ctx) -> Blueprint:
@@ -801,6 +803,69 @@ def build_blueprint(ctx) -> Blueprint:
         except PermissionError:
             return jsonify({"error": "Só quem criou este anúncio pode ativá-lo/desativá-lo.",
                              "error_code": "BAND_POST_NOT_OWNER"}), 403
+
+    # Mídia anexada ao anúncio (fotos/vídeos enviados, links e vídeos do
+    # YouTube) — mesma regra de dono de update/set_active acima.
+    @api.post("/band-board/<post_id>/media")
+    @protected
+    @not_blocked
+    def add_band_post_media_file(post_id):
+        kind = request.form.get("kind", "")
+        label = request.form.get("label", "")
+        f = request.files.get("file")
+        if kind not in BAND_MEDIA_FILE_KINDS:
+            return jsonify({"error": "Tipo de mídia inválido.", "error_code": "BAND_MEDIA_KIND_INVALID"}), 400
+        if not f:
+            return jsonify({"error": "Arquivo ausente.", "error_code": "BAND_MEDIA_FILE_MISSING"}), 400
+        try:
+            return jsonify(ctx.band_board.add_media_file(g.user_id, post_id, kind, f, label)), 201
+        except FileNotFoundError:
+            return jsonify({"error": "Anúncio não encontrado.", "error_code": "BAND_POST_NOT_FOUND"}), 404
+        except PermissionError:
+            return jsonify({"error": "Só quem criou este anúncio pode editá-lo.",
+                             "error_code": "BAND_POST_NOT_OWNER"}), 403
+        except ValueError as e:
+            return jsonify({"error": str(e), "error_code": band_media_error_code(str(e))}), 400
+
+    @api.post("/band-board/<post_id>/media/link")
+    @protected
+    @not_blocked
+    def add_band_post_media_link(post_id):
+        d = request.get_json(force=True)
+        kind = d.get("kind", "")
+        if kind not in BAND_MEDIA_LINK_KINDS:
+            return jsonify({"error": "Tipo de mídia inválido.", "error_code": "BAND_MEDIA_KIND_INVALID"}), 400
+        try:
+            return jsonify(ctx.band_board.add_media_link(g.user_id, post_id, kind, d.get("url", ""), d.get("label", ""))), 201
+        except FileNotFoundError:
+            return jsonify({"error": "Anúncio não encontrado.", "error_code": "BAND_POST_NOT_FOUND"}), 404
+        except PermissionError:
+            return jsonify({"error": "Só quem criou este anúncio pode editá-lo.",
+                             "error_code": "BAND_POST_NOT_OWNER"}), 403
+        except ValueError as e:
+            return jsonify({"error": str(e), "error_code": band_media_error_code(str(e))}), 400
+
+    @api.delete("/band-board/<post_id>/media/<media_id>")
+    @protected
+    def delete_band_post_media(post_id, media_id):
+        try:
+            ctx.band_board.delete_media(g.user_id, post_id, media_id)
+            return "", 204
+        except FileNotFoundError:
+            return jsonify({"error": "Anúncio não encontrado.", "error_code": "BAND_POST_NOT_FOUND"}), 404
+        except PermissionError:
+            return jsonify({"error": "Só quem criou este anúncio pode editá-lo.",
+                             "error_code": "BAND_POST_NOT_OWNER"}), 403
+
+    # Pública (sem @protected) — foto/vídeo anexado precisa aparecer pro
+    # visitante sem login, mesmo precedente de branding logo/áudio de clipe.
+    @api.get("/band-board/<post_id>/media/<media_id>/file")
+    def get_band_post_media_file(post_id, media_id):
+        result = ctx.band_board.media_bytes(post_id, media_id)
+        if not result:
+            return jsonify({"error": "Mídia não encontrada.", "error_code": "BAND_MEDIA_NOT_FOUND"}), 404
+        data, content_type = result
+        return Response(data, mimetype=content_type)
 
     # ---------------- dicionário de acordes ----------------
     @api.get("/acordes")

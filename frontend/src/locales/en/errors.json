@@ -45,5 +45,15 @@
   "QUOTA_EXCEEDED": "Your plan's limit has been reached.",
   "SETLIST_NOT_FOUND": "Setlist not found.",
   "SETLIST_NOT_OWNER": "Only the setlist's creator can do that.",
-  "CHORD_NOT_FOUND": "Chord not found."
+  "CHORD_NOT_FOUND": "Chord not found.",
+  "BAND_POST_NOT_FOUND": "Ad not found.",
+  "BAND_POST_NOT_OWNER": "Only whoever created this ad can do that.",
+  "BAND_MEDIA_KIND_INVALID": "Invalid media type.",
+  "BAND_MEDIA_FILE_MISSING": "Missing file.",
+  "BAND_MEDIA_TYPE_MISMATCH": "The file doesn't look like the expected type.",
+  "BAND_MEDIA_TOO_LARGE": "File larger than the allowed limit.",
+  "BAND_MEDIA_LIMIT_REACHED": "Media item limit per ad reached.",
+  "BAND_MEDIA_URL_INVALID": "Enter a valid link (starting with http:// or https://).",
+  "BAND_MEDIA_INVALID": "Couldn't attach that media.",
+  "BAND_MEDIA_NOT_FOUND": "Media not found."
 }

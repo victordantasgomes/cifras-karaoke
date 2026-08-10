@@ -63,3 +63,19 @@ def quota_error_code(message: str) -> str:
     if "armazenamento do seu plano" in message:
         return "QUOTA_STORAGE_EXCEEDED"
     return "QUOTA_EXCEEDED"
+
+
+def band_media_error_code(message: str) -> str:
+    """BandBoardService.add_media_file/add_media_link levantam ValueError
+    com uma entre 4 mensagens de validação distintas (2 delas com um número
+    interpolado — tamanho máximo, nº de itens — por isso substring, não
+    igualdade exata como em _AUTH_EXACT)."""
+    if "não parece ser" in message:
+        return "BAND_MEDIA_TYPE_MISMATCH"
+    if "maior que o limite" in message:
+        return "BAND_MEDIA_TOO_LARGE"
+    if "itens de mídia por anúncio" in message:
+        return "BAND_MEDIA_LIMIT_REACHED"
+    if "link válido" in message:
+        return "BAND_MEDIA_URL_INVALID"
+    return "BAND_MEDIA_INVALID"

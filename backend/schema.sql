@@ -192,6 +192,28 @@ create table if not exists band_posts (
 );
 create index if not exists idx_band_posts_active on band_posts(active) where active = true;
 
+-- Mídia anexada a um anúncio (fotos, vídeos, links e vídeos do YouTube —
+-- melhoria à Fase 9) — até BandBoardService.MAX_MEDIA_PER_POST itens por
+-- anúncio, ordenados por created_at (sem reordenação manual, fora de
+-- escopo). `kind` distingue upload de verdade (photo/video, bytes no Blob
+-- privado, sempre servidos via proxy do backend — mesmo padrão de
+-- audio_tracks/song_clips) de link externo (link/youtube, só a URL
+-- informada, sem upload). Exatamente um dos dois (blob_url / external_url)
+-- é preenchido conforme `kind` — validado em BandBoardService, não em
+-- constraint de banco (mesmo padrão do resto do schema, sem CHECK).
+create table if not exists band_post_media (
+    id           uuid primary key default gen_random_uuid(),
+    post_id      uuid not null references band_posts(id) on delete cascade,
+    kind         text not null,
+    label        text not null default '',
+    blob_url     text,
+    external_url text,
+    content_type text not null default '',
+    size_bytes   bigint not null default 0,
+    created_at   timestamptz not null default now()
+);
+create index if not exists idx_band_post_media_post on band_post_media(post_id, created_at);
+
 create table if not exists song_plays (
     song_id        uuid primary key references songs(id) on delete cascade,
     count          int not null default 0,

@@ -45,5 +45,15 @@
   "QUOTA_EXCEEDED": "La limite de votre forfait est atteinte.",
   "SETLIST_NOT_FOUND": "Setlist introuvable.",
   "SETLIST_NOT_OWNER": "Seul le créateur de cette setlist peut faire cela.",
-  "CHORD_NOT_FOUND": "Accord introuvable."
+  "CHORD_NOT_FOUND": "Accord introuvable.",
+  "BAND_POST_NOT_FOUND": "Annonce introuvable.",
+  "BAND_POST_NOT_OWNER": "Seul l'auteur de cette annonce peut faire ça.",
+  "BAND_MEDIA_KIND_INVALID": "Type de contenu invalide.",
+  "BAND_MEDIA_FILE_MISSING": "Fichier manquant.",
+  "BAND_MEDIA_TYPE_MISMATCH": "Le fichier ne semble pas correspondre au type attendu.",
+  "BAND_MEDIA_TOO_LARGE": "Fichier plus volumineux que la limite autorisée.",
+  "BAND_MEDIA_LIMIT_REACHED": "Limite d'éléments de contenu par annonce atteinte.",
+  "BAND_MEDIA_URL_INVALID": "Indiquez un lien valide (commençant par http:// ou https://).",
+  "BAND_MEDIA_INVALID": "Impossible de joindre ce contenu.",
+  "BAND_MEDIA_NOT_FOUND": "Contenu introuvable."
 }

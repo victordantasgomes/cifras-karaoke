@@ -1,6 +1,6 @@
 import pytest
 
-from utils.error_codes import auth_error_code, billing_error_code, quota_error_code
+from utils.error_codes import auth_error_code, band_media_error_code, billing_error_code, quota_error_code
 
 
 @pytest.mark.parametrize("message,expected", [
@@ -50,3 +50,18 @@ def test_quota_error_code_distinguishes_setlists_from_storage():
 
 def test_quota_error_code_falls_back_for_unknown_message():
     assert quota_error_code("mensagem desconhecida") == "QUOTA_EXCEEDED"
+
+
+@pytest.mark.parametrize("message,expected", [
+    ("Arquivo não parece ser um(a) imagem válido(a).", "BAND_MEDIA_TYPE_MISMATCH"),
+    ("Arquivo não parece ser um(a) vídeo válido(a).", "BAND_MEDIA_TYPE_MISMATCH"),
+    ("Arquivo maior que o limite de 50 MB.", "BAND_MEDIA_TOO_LARGE"),
+    ("Limite de 10 itens de mídia por anúncio atingido.", "BAND_MEDIA_LIMIT_REACHED"),
+    ("Informe um link válido (começando com http:// ou https://).", "BAND_MEDIA_URL_INVALID"),
+])
+def test_band_media_error_code_maps_known_messages(message, expected):
+    assert band_media_error_code(message) == expected
+
+
+def test_band_media_error_code_falls_back_for_unknown_message():
+    assert band_media_error_code("mensagem desconhecida") == "BAND_MEDIA_INVALID"

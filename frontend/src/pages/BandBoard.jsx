@@ -34,6 +34,109 @@ function toPayload(form) {
   }
 }
 
+// aceita youtube.com/watch?v=, youtu.be/, youtube.com/embed/, com ou sem
+// parâmetros extras (ex.: playlist, timestamp) — usado só pro embed do
+// card público, a URL crua é sempre o que fica salvo.
+function extractYoutubeId(url) {
+  const match = String(url || '').match(
+    /(?:youtube\.com\/(?:watch\?v=|embed\/)|youtu\.be\/)([\w-]{11})/,
+  )
+  return match ? match[1] : null
+}
+
+const MEDIA_FILE_KINDS = ['photo', 'video']
+const MEDIA_LINK_KINDS = ['link', 'youtube']
+
+function MediaSlot({ t, postId, kind, onChanged }) {
+  const [file, setFile] = useState(null)
+  const [url, setUrl] = useState('')
+  const [label, setLabel] = useState('')
+  const [error, setError] = useState('')
+  const isFileKind = MEDIA_FILE_KINDS.includes(kind)
+
+  const add = useMutation({
+    mutationFn: () => {
+      if (isFileKind) {
+        const fd = new FormData()
+        fd.append('kind', kind)
+        fd.append('file', file)
+        fd.append('label', label)
+        return api.post(`/band-board/${postId}/media`, fd)
+      }
+      return api.post(`/band-board/${postId}/media/link`, { kind, url, label })
+    },
+    onSuccess: () => { setFile(null); setUrl(''); setLabel(''); setError(''); onChanged() },
+    onError: (e) => setError(e.response?.data?.error || t('media.errors.add')),
+  })
+
+  return (
+    <div style={{ flex: '1 1 220px', border: '1px solid var(--stroke)', borderRadius: 8, padding: 10 }}>
+      <div style={{ fontSize: 13, fontWeight: 600, marginBottom: 6 }}>{t(`media.kinds.${kind}`)}</div>
+      {isFileKind ? (
+        <input className="input" type="file" accept={kind === 'photo' ? 'image/*' : 'video/*'}
+          onChange={(e) => setFile(e.target.files[0])} />
+      ) : (
+        <input className="input" placeholder={kind === 'youtube' ? t('media.youtubePlaceholder') : t('media.linkPlaceholder')}
+          value={url} onChange={(e) => setUrl(e.target.value)} />
+      )}
+      <input className="input" placeholder={t('media.labelPlaceholder')} value={label}
+        onChange={(e) => setLabel(e.target.value)} style={{ marginTop: 6 }} />
+      <button className="btn" style={{ marginTop: 6, width: '100%' }}
+        disabled={(isFileKind ? !file : !url.trim()) || add.isPending}
+        onClick={() => add.mutate()}>
+        {add.isPending ? t('media.attaching') : t('media.attach')}
+      </button>
+      {error && <div className="error-text" style={{ marginTop: 6, fontSize: 12 }}>{error}</div>}
+    </div>
+  )
+}
+
+function MediaGalleryEditor({ t, postId, media, onChanged }) {
+  const remove = useMutation({
+    mutationFn: (mediaId) => api.delete(`/band-board/${postId}/media/${mediaId}`),
+    onSuccess: onChanged,
+  })
+
+  return (
+    <div className="field" style={{ marginBottom: 0 }}>
+      <label>{t('media.title')}</label>
+      {media.length > 0 && (
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(140px, 1fr))', gap: 10, marginBottom: 12 }}>
+          {media.map((m) => (
+            <div key={m.id} style={{ border: '1px solid var(--stroke)', borderRadius: 8, padding: 8 }}>
+              {m.kind === 'photo' && (
+                <img src={`/api/band-board/${postId}/media/${m.id}/file`} alt={m.label}
+                  style={{ width: '100%', height: 84, objectFit: 'cover', borderRadius: 6 }} />
+              )}
+              {m.kind === 'video' && (
+                <video src={`/api/band-board/${postId}/media/${m.id}/file`} controls
+                  style={{ width: '100%', height: 84, borderRadius: 6 }} />
+              )}
+              {(m.kind === 'link' || m.kind === 'youtube') && (
+                <div style={{ height: 84, display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 28 }}>
+                  {m.kind === 'youtube' ? '▶' : '🔗'}
+                </div>
+              )}
+              <div style={{ fontSize: 12, marginTop: 6, wordBreak: 'break-word' }}>
+                {m.label || t(`media.kinds.${m.kind}`)}
+              </div>
+              <button className="btn danger" style={{ marginTop: 6, width: '100%', fontSize: 12, padding: '4px 6px' }}
+                disabled={remove.isPending} onClick={() => remove.mutate(m.id)}>
+                {t('media.remove')}
+              </button>
+            </div>
+          ))}
+        </div>
+      )}
+      <div className="row" style={{ flexWrap: 'wrap', gap: 10 }}>
+        {[...MEDIA_FILE_KINDS, ...MEDIA_LINK_KINDS].map((kind) => (
+          <MediaSlot key={kind} t={t} postId={postId} kind={kind} onChanged={onChanged} />
+        ))}
+      </div>
+    </div>
+  )
+}
+
 /** Badge com a marca do autor (Fase 8) — logo/nome se configurados, senão nada. */
 function AuthorBadge({ userId }) {
   const theme = useCurrentTheme()
@@ -61,6 +164,17 @@ function PostForm({ initial, onDone, t }) {
     queryKey: ['setlists'],
     queryFn: () => api.get('/setlists').then((r) => r.data),
   })
+  // mesma query-key da lista "Meus anúncios" (BandBoard abaixo) — react-query
+  // compartilha o cache, então isso não dispara uma chamada extra depois da
+  // primeira montagem, e a mídia mostrada aqui sempre reflete o que já foi
+  // anexado/removido nesta sessão de edição (o `initial` recebido do pai é
+  // só a foto tirada no momento em que o usuário clicou em "Editar").
+  const { data: myPosts } = useQuery({
+    queryKey: ['band-board-mine'],
+    queryFn: () => api.get('/band-board/mine').then((r) => r.data),
+    enabled: isEdit,
+  })
+  const media = (isEdit && myPosts?.find((p) => p.id === initial.id)?.media) || []
 
   const save = useMutation({
     mutationFn: () => (isEdit
@@ -135,8 +249,14 @@ function PostForm({ initial, onDone, t }) {
         <input className="input" placeholder={t('form.contactPlaceholder')}
           value={form.contact_info} onChange={(e) => setForm({ ...form, contact_info: e.target.value })} />
       </div>
+      {isEdit ? (
+        <MediaGalleryEditor t={t} postId={initial.id} media={media}
+          onChanged={() => qc.invalidateQueries({ queryKey: ['band-board-mine'] })} />
+      ) : (
+        <p style={{ color: 'var(--muted)', fontSize: 13, marginBottom: 0 }}>{t('media.saveFirst')}</p>
+      )}
       {mySetlists?.filter((s) => s.is_owner).length > 0 && (
-        <div className="field" style={{ marginBottom: 0 }}>
+        <div className="field" style={{ marginBottom: 0, marginTop: 14 }}>
           <label>{t('form.linkSetlists')}</label>
           <div className="row" style={{ gap: 10, flexWrap: 'wrap' }}>
             {mySetlists.filter((s) => s.is_owner).map((s) => (
@@ -156,6 +276,55 @@ function PostForm({ initial, onDone, t }) {
         </button>
         <button className="btn" onClick={onDone}>{t('form.cancel')}</button>
       </div>
+    </div>
+  )
+}
+
+function PostMediaGallery({ post, t }) {
+  const photos = post.media.filter((m) => m.kind === 'photo')
+  const videos = post.media.filter((m) => m.kind === 'video')
+  const youtube = post.media.filter((m) => m.kind === 'youtube')
+  const links = post.media.filter((m) => m.kind === 'link')
+  if (!post.media.length) return null
+
+  return (
+    <div style={{ marginBottom: 10 }}>
+      {(photos.length > 0 || videos.length > 0) && (
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(140px, 1fr))', gap: 8, marginBottom: links.length || youtube.length ? 10 : 0 }}>
+          {photos.map((m) => (
+            <img key={m.id} src={`/api/band-board/${post.id}/media/${m.id}/file`} alt={m.label}
+              style={{ width: '100%', height: 110, objectFit: 'cover', borderRadius: 8 }} />
+          ))}
+          {videos.map((m) => (
+            <video key={m.id} src={`/api/band-board/${post.id}/media/${m.id}/file`} controls
+              style={{ width: '100%', height: 110, borderRadius: 8 }} />
+          ))}
+        </div>
+      )}
+      {youtube.map((m) => {
+        const videoId = extractYoutubeId(m.url)
+        return videoId ? (
+          <div key={m.id} style={{ position: 'relative', paddingTop: '56.25%', marginBottom: 10, borderRadius: 8, overflow: 'hidden' }}>
+            <iframe src={`https://www.youtube.com/embed/${videoId}`} title={m.label || 'YouTube'}
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen frameBorder="0"
+              style={{ position: 'absolute', inset: 0, width: '100%', height: '100%' }} />
+          </div>
+        ) : (
+          <a key={m.id} href={m.url} target="_blank" rel="noopener noreferrer" className="btn" style={{ marginRight: 8, marginBottom: 8 }}>
+            ▶ {m.label || t('media.kinds.youtube')}
+          </a>
+        )
+      })}
+      {links.length > 0 && (
+        <div className="row" style={{ flexWrap: 'wrap' }}>
+          {links.map((m) => (
+            <a key={m.id} href={m.url} target="_blank" rel="noopener noreferrer" className="btn">
+              🔗 {m.label || m.url}
+            </a>
+          ))}
+        </div>
+      )}
     </div>
   )
 }
@@ -185,6 +354,7 @@ function PostCard({ post, mine, t, onEdit }) {
         {post.goal && <> · {t(`form.goals.${post.goal}`)}</>}
       </div>
       {post.bio && <p style={{ marginBottom: 10 }}>{post.bio}</p>}
+      <PostMediaGallery post={post} t={t} />
       {post.instruments_needed.length > 0 && (
         <div style={{ marginBottom: 6 }}>
           <strong>{t('card.instrumentsNeeded')}</strong> {post.instruments_needed.join(', ')}

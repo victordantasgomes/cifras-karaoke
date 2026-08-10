@@ -56,5 +56,24 @@
     "create": "Die Anzeige konnte nicht veröffentlicht werden.",
     "update": "Die Änderungen konnten nicht gespeichert werden.",
     "toggle": "Die Anzeige konnte nicht geändert werden."
+  },
+  "media": {
+    "title": "Fotos, Videos und Links",
+    "saveFirst": "Veröffentliche die Anzeige zuerst, um Fotos, Videos und Links anzuhängen.",
+    "kinds": {
+      "photo": "Foto",
+      "video": "Video",
+      "link": "Link",
+      "youtube": "YouTube-Video"
+    },
+    "labelPlaceholder": "Bildunterschrift (optional)",
+    "linkPlaceholder": "https://…",
+    "youtubePlaceholder": "https://youtube.com/watch?v=…",
+    "attach": "Anhängen",
+    "attaching": "Wird angehängt…",
+    "remove": "Entfernen",
+    "errors": {
+      "add": "Dieses Medium konnte nicht angehängt werden."
+    }
   }
 }

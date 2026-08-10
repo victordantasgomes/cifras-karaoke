@@ -45,5 +45,15 @@
   "QUOTA_EXCEEDED": "Das Limit deines Tarifs ist erreicht.",
   "SETLIST_NOT_FOUND": "Setlist nicht gefunden.",
   "SETLIST_NOT_OWNER": "Nur der Ersteller dieser Setlist kann das tun.",
-  "CHORD_NOT_FOUND": "Akkord nicht gefunden."
+  "CHORD_NOT_FOUND": "Akkord nicht gefunden.",
+  "BAND_POST_NOT_FOUND": "Anzeige nicht gefunden.",
+  "BAND_POST_NOT_OWNER": "Nur wer diese Anzeige erstellt hat, kann das tun.",
+  "BAND_MEDIA_KIND_INVALID": "Ungültiger Medientyp.",
+  "BAND_MEDIA_FILE_MISSING": "Datei fehlt.",
+  "BAND_MEDIA_TYPE_MISMATCH": "Die Datei scheint nicht vom erwarteten Typ zu sein.",
+  "BAND_MEDIA_TOO_LARGE": "Datei größer als das erlaubte Limit.",
+  "BAND_MEDIA_LIMIT_REACHED": "Limit an Medien pro Anzeige erreicht.",
+  "BAND_MEDIA_URL_INVALID": "Gib einen gültigen Link ein (beginnend mit http:// oder https://).",
+  "BAND_MEDIA_INVALID": "Dieses Medium konnte nicht angehängt werden.",
+  "BAND_MEDIA_NOT_FOUND": "Medium nicht gefunden."
 }

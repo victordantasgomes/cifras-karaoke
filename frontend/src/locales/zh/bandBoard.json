@@ -56,5 +56,24 @@
     "create": "无法发布启事。",
     "update": "无法保存更改。",
     "toggle": "无法更改启事状态。"
+  },
+  "media": {
+    "title": "照片、视频和链接",
+    "saveFirst": "请先发布帖子，才能添加照片、视频和链接。",
+    "kinds": {
+      "photo": "照片",
+      "video": "视频",
+      "link": "链接",
+      "youtube": "YouTube 视频"
+    },
+    "labelPlaceholder": "说明（可选）",
+    "linkPlaceholder": "https://…",
+    "youtubePlaceholder": "https://youtube.com/watch?v=…",
+    "attach": "添加",
+    "attaching": "添加中…",
+    "remove": "移除",
+    "errors": {
+      "add": "无法添加该媒体。"
+    }
   }
 }

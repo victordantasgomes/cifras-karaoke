@@ -45,5 +45,15 @@
   "QUOTA_EXCEEDED": "Se alcanzó el límite de tu plan.",
   "SETLIST_NOT_FOUND": "Lista de repertorio no encontrada.",
   "SETLIST_NOT_OWNER": "Solo quien creó esta lista de repertorio puede hacer esto.",
-  "CHORD_NOT_FOUND": "Acorde no encontrado."
+  "CHORD_NOT_FOUND": "Acorde no encontrado.",
+  "BAND_POST_NOT_FOUND": "Anuncio no encontrado.",
+  "BAND_POST_NOT_OWNER": "Solo quien creó este anuncio puede hacer eso.",
+  "BAND_MEDIA_KIND_INVALID": "Tipo de contenido inválido.",
+  "BAND_MEDIA_FILE_MISSING": "Archivo ausente.",
+  "BAND_MEDIA_TYPE_MISMATCH": "El archivo no parece ser del tipo esperado.",
+  "BAND_MEDIA_TOO_LARGE": "Archivo mayor que el límite permitido.",
+  "BAND_MEDIA_LIMIT_REACHED": "Límite de elementos de contenido por anuncio alcanzado.",
+  "BAND_MEDIA_URL_INVALID": "Introduce un enlace válido (que empiece con http:// o https://).",
+  "BAND_MEDIA_INVALID": "No se pudo adjuntar ese contenido.",
+  "BAND_MEDIA_NOT_FOUND": "Contenido no encontrado."
 }
