@@ -6,7 +6,8 @@
     "security": "Security",
     "email": "Contact email",
     "plan": "Plan & billing",
-    "usage": "Usage"
+    "usage": "Usage",
+    "alertProfile": "City and instruments"
   },
   "fields": {
     "username": "Username",
@@ -52,5 +53,14 @@
     "storage": "Storage",
     "unlimited": "No limit set"
   },
-  "genericError": "Could not complete the action."
+  "genericError": "Could not complete the action.",
+  "alertProfile": {
+    "description": "Used by band-board alerts — we'll notify you when an ad looks for one of your instruments in your city.",
+    "city": "City",
+    "cityPlaceholder": "e.g.: São Paulo",
+    "instruments": "Instruments you play",
+    "submit": "Save",
+    "saving": "Saving…",
+    "success": "Details updated successfully."
+  }
 }

@@ -55,5 +55,8 @@
   "BAND_MEDIA_LIMIT_REACHED": "Media item limit per ad reached.",
   "BAND_MEDIA_URL_INVALID": "Enter a valid link (starting with http:// or https://).",
   "BAND_MEDIA_INVALID": "Couldn't attach that media.",
-  "BAND_MEDIA_NOT_FOUND": "Media not found."
+  "BAND_MEDIA_NOT_FOUND": "Media not found.",
+  "BAND_POST_VALIDATION_ERROR": "One of the ad's fields is invalid.",
+  "AUTH_INSTRUMENT_INVALID": "Invalid instrument.",
+  "AUTH_SKILL_LEVEL_INVALID": "Invalid skill level."
 }

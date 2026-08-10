@@ -6,7 +6,8 @@
     "navTestimonials": "用户评价",
     "navFaq": "常见问题",
     "login": "登录",
-    "signup": "创建账号"
+    "signup": "创建账号",
+    "navBandBoard": "乐队拼图"
   },
   "hero": {
     "eyebrow": "歌词谱 + 卡拉OK，一站搞定",
@@ -160,5 +161,11 @@
   "footer": {
     "tagline": "歌词谱、同步与卡拉OK，服务整个乐队。",
     "rights": "© {{year}} Cifras Karaokê. 保留所有权利。"
+  },
+  "bandBoardTeaser": {
+    "title": "组建乐队",
+    "subtitle": "乐队寻找乐手、乐手寻找乐队的帖子——无需注册即可浏览。",
+    "empty": "目前没有活跃帖子。",
+    "cta": "查看所有帖子"
   }
 }

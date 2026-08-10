@@ -6,7 +6,8 @@
     "security": "Sécurité",
     "email": "E-mail de contact",
     "plan": "Forfait et facturation",
-    "usage": "Utilisation"
+    "usage": "Utilisation",
+    "alertProfile": "Ville et instruments"
   },
   "fields": {
     "username": "Nom d'utilisateur",
@@ -52,5 +53,14 @@
     "storage": "Stockage",
     "unlimited": "Aucune limite définie"
   },
-  "genericError": "Impossible d'effectuer cette action."
+  "genericError": "Impossible d'effectuer cette action.",
+  "alertProfile": {
+    "description": "Utilisés par les alertes du tableau — on vous prévient quand une annonce cherche un de vos instruments dans votre ville.",
+    "city": "Ville",
+    "cityPlaceholder": "ex. : São Paulo",
+    "instruments": "Instruments que vous jouez",
+    "submit": "Enregistrer",
+    "saving": "Enregistrement…",
+    "success": "Données mises à jour avec succès."
+  }
 }

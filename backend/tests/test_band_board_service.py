@@ -6,12 +6,13 @@ from services.setlist_service import SetlistService
 
 POST_DATA = {
     "band_name": "Banda do Zé",
+    "city": "São Paulo",
     "genero": "Rock",
     "style_freeform": "Rock nacional",
     "skill_level": "intermediario",
     "goal": "shows_pagos",
     "rehearsal_days": ["terca", "quinta"],
-    "instruments_needed": ["baixo", "bateria"],
+    "instruments_needed": ["bass", "drums"],
     "bio": "Banda formada há 3 anos, buscando completar a formação.",
     "contact_info": "zap: 11999998888",
 }
@@ -25,15 +26,33 @@ def board():
 def test_create_and_get(board, user_id):
     post = board.create(user_id, POST_DATA)
     assert post["band_name"] == "Banda do Zé"
+    assert post["city"] == "São Paulo"
     assert post["genero"] == "Rock"
     assert post["rehearsal_days"] == ["terca", "quinta"]
-    assert post["instruments_needed"] == ["baixo", "bateria"]
+    assert post["instruments_needed"] == ["bass", "drums"]
     assert post["active"] is True
     assert post["user_id"] == user_id
     assert post["media"] == []
 
     fetched = board.get(post["id"])
     assert fetched == post
+
+
+def test_create_rejects_invalid_instrument(board, user_id):
+    with pytest.raises(ValueError):
+        board.create(user_id, {**POST_DATA, "instruments_needed": ["kazoo"]})
+
+
+def test_update_rejects_invalid_instrument(board, user_id):
+    post = board.create(user_id, POST_DATA)
+    with pytest.raises(ValueError):
+        board.update(user_id, post["id"], {**POST_DATA, "instruments_needed": ["kazoo"]})
+
+
+def test_update_changes_city(board, user_id):
+    post = board.create(user_id, POST_DATA)
+    updated = board.update(user_id, post["id"], {**POST_DATA, "city": "Rio de Janeiro"})
+    assert updated["city"] == "Rio de Janeiro"
 
 
 def test_list_active_only_shows_active_posts(board, user_id):

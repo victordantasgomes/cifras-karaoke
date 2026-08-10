@@ -6,7 +6,8 @@
     "security": "安全",
     "email": "联系邮箱",
     "plan": "套餐与账单",
-    "usage": "使用情况"
+    "usage": "使用情况",
+    "alertProfile": "城市与乐器"
   },
   "fields": {
     "username": "用户名",
@@ -52,5 +53,14 @@
     "storage": "存储空间",
     "unlimited": "未设置限制"
   },
-  "genericError": "无法完成该操作。"
+  "genericError": "无法完成该操作。",
+  "alertProfile": {
+    "description": "用于帖子提醒——当有帖子在您所在城市寻找您所演奏的乐器时，我们会通知您。",
+    "city": "城市",
+    "cityPlaceholder": "例如：圣保罗",
+    "instruments": "您演奏的乐器",
+    "submit": "保存",
+    "saving": "保存中…",
+    "success": "资料已成功更新。"
+  }
 }

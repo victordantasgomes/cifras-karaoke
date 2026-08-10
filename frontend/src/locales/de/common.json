@@ -36,7 +36,10 @@
     "submitting": "Wird erstellt…",
     "genericError": "Konto konnte nicht erstellt werden.",
     "hasAccount": "Bereits ein Konto?",
-    "login": "Anmelden"
+    "login": "Anmelden",
+    "city": "Stadt (optional)",
+    "cityPlaceholder": "z. B.: São Paulo",
+    "instruments": "Instrumente, die du spielst (optional)"
   },
   "language": {
     "label": "Sprache",

@@ -3,6 +3,7 @@
   "loading": "Carregando…",
   "sections": {
     "account": "Conta",
+    "alertProfile": "Cidade e instrumentos",
     "security": "Segurança",
     "email": "E-mail de contato",
     "plan": "Plano e cobrança",
@@ -51,6 +52,15 @@
     "setlists": "Setlists",
     "storage": "Armazenamento",
     "unlimited": "Sem limite definido"
+  },
+  "alertProfile": {
+    "description": "Usados pelos alertas do mural — avisamos quando surgir um anúncio buscando um dos seus instrumentos na sua cidade.",
+    "city": "Cidade",
+    "cityPlaceholder": "ex.: São Paulo",
+    "instruments": "Instrumentos que você toca",
+    "submit": "Salvar",
+    "saving": "Salvando…",
+    "success": "Dados atualizados com sucesso."
   },
   "genericError": "Não foi possível completar a ação."
 }

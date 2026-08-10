@@ -55,5 +55,8 @@
   "BAND_MEDIA_LIMIT_REACHED": "Limit an Medien pro Anzeige erreicht.",
   "BAND_MEDIA_URL_INVALID": "Gib einen gültigen Link ein (beginnend mit http:// oder https://).",
   "BAND_MEDIA_INVALID": "Dieses Medium konnte nicht angehängt werden.",
-  "BAND_MEDIA_NOT_FOUND": "Medium nicht gefunden."
+  "BAND_MEDIA_NOT_FOUND": "Medium nicht gefunden.",
+  "BAND_POST_VALIDATION_ERROR": "Eines der Anzeigenfelder ist ungültig.",
+  "AUTH_INSTRUMENT_INVALID": "Ungültiges Instrument.",
+  "AUTH_SKILL_LEVEL_INVALID": "Ungültiges Niveau."
 }

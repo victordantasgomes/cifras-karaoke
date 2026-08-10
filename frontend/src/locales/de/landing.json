@@ -6,7 +6,8 @@
     "navTestimonials": "Stimmen",
     "navFaq": "FAQ",
     "login": "Anmelden",
-    "signup": "Konto erstellen"
+    "signup": "Konto erstellen",
+    "navBandBoard": "Band-Pinnwand"
   },
   "hero": {
     "eyebrow": "Songtexte mit Akkorden + Karaoke, alles an einem Ort",
@@ -160,5 +161,11 @@
   "footer": {
     "tagline": "Akkordblätter, Synchronisation und Karaoke für die ganze Band.",
     "rights": "© {{year}} Cifras Karaokê. Alle Rechte vorbehalten."
+  },
+  "bandBoardTeaser": {
+    "title": "Gründe eine Band",
+    "subtitle": "Anzeigen von Bands auf Musikersuche und Musikern auf Bandsuche — stöbere ohne Konto.",
+    "empty": "Derzeit keine aktiven Anzeigen.",
+    "cta": "Alle Anzeigen ansehen"
   }
 }

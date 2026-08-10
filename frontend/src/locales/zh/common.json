@@ -36,7 +36,10 @@
     "submitting": "正在创建…",
     "genericError": "无法创建账号。",
     "hasAccount": "已经有账号了？",
-    "login": "登录"
+    "login": "登录",
+    "city": "城市（可选）",
+    "cityPlaceholder": "例如：圣保罗",
+    "instruments": "您演奏的乐器（可选）"
   },
   "language": {
     "label": "语言",

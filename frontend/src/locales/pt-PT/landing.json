@@ -6,7 +6,8 @@
     "navTestimonials": "Testemunhos",
     "navFaq": "Dúvidas",
     "login": "Entrar",
-    "signup": "Criar conta"
+    "signup": "Criar conta",
+    "navBandBoard": "Mural de bandas"
   },
   "hero": {
     "eyebrow": "Cifras + karaoke, tudo num só lugar",
@@ -160,5 +161,11 @@
   "footer": {
     "tagline": "Cifras, sincronização e karaoke para a banda toda.",
     "rights": "© {{year}} Cifras Karaokê. Todos os direitos reservados."
+  },
+  "bandBoardTeaser": {
+    "title": "Monte uma banda",
+    "subtitle": "Anúncios de bandas à procura de músicos e músicos à procura de banda — navegue sem precisar de criar conta.",
+    "empty": "Nenhum anúncio ativo no momento.",
+    "cta": "Ver todos os anúncios"
   }
 }

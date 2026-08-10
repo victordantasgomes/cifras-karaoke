@@ -6,7 +6,8 @@
     "navTestimonials": "Témoignages",
     "navFaq": "FAQ",
     "login": "Se connecter",
-    "signup": "Créer un compte"
+    "signup": "Créer un compte",
+    "navBandBoard": "Tableau des groupes"
   },
   "hero": {
     "eyebrow": "Partitions + karaoké, tout au même endroit",
@@ -160,5 +161,11 @@
   "footer": {
     "tagline": "Partitions, synchronisation et karaoké pour tout le groupe.",
     "rights": "© {{year}} Cifras Karaokê. Tous droits réservés."
+  },
+  "bandBoardTeaser": {
+    "title": "Formez un groupe",
+    "subtitle": "Annonces de groupes cherchant des musiciens et de musiciens cherchant un groupe — naviguez sans créer de compte.",
+    "empty": "Aucune annonce active pour le moment.",
+    "cta": "Voir toutes les annonces"
   }
 }

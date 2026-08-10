@@ -55,5 +55,8 @@
   "BAND_MEDIA_LIMIT_REACHED": "Достигнут лимит материалов на объявление.",
   "BAND_MEDIA_URL_INVALID": "Укажите действительную ссылку (начинающуюся с http:// или https://).",
   "BAND_MEDIA_INVALID": "Не удалось прикрепить этот материал.",
-  "BAND_MEDIA_NOT_FOUND": "Материал не найден."
+  "BAND_MEDIA_NOT_FOUND": "Материал не найден.",
+  "BAND_POST_VALIDATION_ERROR": "Одно из полей объявления неверно.",
+  "AUTH_INSTRUMENT_INVALID": "Неверный инструмент.",
+  "AUTH_SKILL_LEVEL_INVALID": "Неверный технический уровень."
 }

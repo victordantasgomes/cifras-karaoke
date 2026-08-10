@@ -1,0 +1,28 @@
+{
+  "names": {
+    "guitar": "Gitarre",
+    "bass": "Bass",
+    "drums": "Schlagzeug",
+    "vocals": "Gesang",
+    "keys": "Keyboard",
+    "piano": "Klavier",
+    "saxophone": "Saxofon",
+    "violin": "Geige",
+    "ukulele": "Ukulele",
+    "percussion": "Percussion",
+    "other": "Sonstiges"
+  },
+  "skillLevels": {
+    "iniciante": "Anfänger",
+    "intermediario": "Mittelstufe",
+    "avancado": "Fortgeschritten",
+    "profissional": "Professionell"
+  },
+  "picker": {
+    "instrumentPlaceholder": "Instrument…",
+    "skillLevelPlaceholder": "Niveau…",
+    "add": "Hinzufügen",
+    "remove": "Entfernen",
+    "empty": "Noch kein Instrument hinzugefügt."
+  }
+}

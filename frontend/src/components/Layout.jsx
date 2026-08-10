@@ -2,6 +2,7 @@ import { Outlet, Navigate } from 'react-router-dom'
 import Sidebar from './Sidebar'
 import ThemeToggle from './ThemeToggle'
 import UserMenu from './UserMenu'
+import AlertsBell from './AlertsBell'
 import { useAuthStore } from '../store/authStore'
 
 export default function Layout() {
@@ -11,6 +12,7 @@ export default function Layout() {
     <div className="app-shell">
       <Sidebar />
       <div className="top-right-fixed no-print">
+        <AlertsBell />
         <UserMenu />
         <ThemeToggle />
       </div>

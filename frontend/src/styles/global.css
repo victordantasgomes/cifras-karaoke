@@ -536,6 +536,26 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
 .user-menu-item.danger { color: var(--danger); }
 .user-menu-item.danger svg { color: var(--danger); }
 
+/* ---------- sino de alertas (cidade + instrumento) ---------- */
+.alerts-bell { position: relative; }
+.alerts-badge {
+  position: absolute; top: -4px; right: -4px; min-width: 16px; height: 16px; padding: 0 3px;
+  border-radius: 999px; background: var(--danger); color: #fff; font-size: 10px; font-weight: 700;
+  display: flex; align-items: center; justify-content: center; line-height: 1;
+}
+.alerts-panel { width: 300px; padding: 10px; gap: 10px; }
+.alerts-panel-title { margin: 0 0 4px; font-size: 13.5px; }
+.alerts-item {
+  display: flex; align-items: flex-start; gap: 8px; padding: 10px 0;
+  border-top: 1px solid var(--stroke);
+}
+.alerts-item:first-of-type { border-top: none; }
+.alerts-dismiss {
+  background: none; border: none; color: var(--muted); cursor: pointer; font-size: 18px;
+  line-height: 1; padding: 2px 4px; flex-shrink: 0;
+}
+.alerts-dismiss:hover { color: var(--text); }
+
 /* ---------- modal ---------- */
 .modal-overlay {
   position: fixed; inset: 0; z-index: 100; background: rgba(6, 8, 14, 0.55);

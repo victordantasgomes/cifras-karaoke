@@ -55,5 +55,8 @@
   "BAND_MEDIA_LIMIT_REACHED": "Limite de itens de conteúdo por anúncio atingido.",
   "BAND_MEDIA_URL_INVALID": "Indique um link válido (a começar por http:// ou https://).",
   "BAND_MEDIA_INVALID": "Não foi possível anexar esse conteúdo.",
-  "BAND_MEDIA_NOT_FOUND": "Conteúdo não encontrado."
+  "BAND_MEDIA_NOT_FOUND": "Conteúdo não encontrado.",
+  "BAND_POST_VALIDATION_ERROR": "Um dos campos do anúncio é inválido.",
+  "AUTH_INSTRUMENT_INVALID": "Instrumento inválido.",
+  "AUTH_SKILL_LEVEL_INVALID": "Nível técnico inválido."
 }

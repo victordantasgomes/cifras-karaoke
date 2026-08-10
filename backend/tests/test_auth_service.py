@@ -235,6 +235,64 @@ def test_get_profile_unknown_user_raises(auth):
         auth.get_profile("nao-existe")
 
 
+def test_register_with_city_and_instruments(auth):
+    user = auth.register(
+        "demo", "demo123", city="São Paulo",
+        instruments=[{"instrument": "guitar", "skill_level": "avancado"}, {"instrument": "bass", "skill_level": ""}],
+    )
+    profile = auth.get_profile(user["id"])
+    assert profile["city"] == "São Paulo"
+    assert profile["instruments"] == [
+        {"instrument": "bass", "skill_level": ""},
+        {"instrument": "guitar", "skill_level": "avancado"},
+    ]
+
+
+def test_register_rejects_invalid_instrument(auth):
+    with pytest.raises(AuthError):
+        auth.register("demo", "demo123", instruments=[{"instrument": "kazoo", "skill_level": ""}])
+
+
+def test_register_rejects_invalid_skill_level(auth):
+    with pytest.raises(AuthError):
+        auth.register("demo", "demo123", instruments=[{"instrument": "guitar", "skill_level": "lendario"}])
+
+
+def test_register_without_city_or_instruments_defaults_empty(auth):
+    user = auth.register("demo", "demo123")
+    profile = auth.get_profile(user["id"])
+    assert profile["city"] == ""
+    assert profile["instruments"] == []
+
+
+def test_set_instruments_replaces_whole_set(auth):
+    user = auth.register("demo", "demo123", instruments=[{"instrument": "guitar", "skill_level": "iniciante"}])
+    result = auth.set_instruments(user["id"], [{"instrument": "drums", "skill_level": "profissional"}])
+    assert result == [{"instrument": "drums", "skill_level": "profissional"}]
+    assert auth.list_instruments(user["id"]) == [{"instrument": "drums", "skill_level": "profissional"}]
+
+
+def test_set_instruments_rejects_invalid_instrument(auth):
+    user = auth.register("demo", "demo123")
+    with pytest.raises(AuthError):
+        auth.set_instruments(user["id"], [{"instrument": "kazoo", "skill_level": ""}])
+    assert auth.list_instruments(user["id"]) == []
+
+
+def test_update_city(auth):
+    user = auth.register("demo", "demo123")
+    auth.update_city(user["id"], "  Rio de Janeiro  ")
+    assert auth.get_profile(user["id"])["city"] == "Rio de Janeiro"
+
+
+def test_deleting_user_cascades_instruments(auth):
+    user = auth.register("demo", "demo123", instruments=[{"instrument": "piano", "skill_level": ""}])
+    with db.get_pool().connection() as conn:
+        conn.execute("delete from users where id=%s", (user["id"],))
+        remaining = conn.execute("select count(*) as n from user_instruments").fetchone()["n"]
+    assert remaining == 0
+
+
 def test_change_own_password_requires_correct_current_password(auth):
     user = auth.register("demo", "demo123")
     with pytest.raises(AuthError):

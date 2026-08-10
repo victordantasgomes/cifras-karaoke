@@ -14,6 +14,7 @@ export default function LandingFooter({ onNavigate }) {
       <nav className="landing-footer-nav">
         <button onClick={() => onNavigate('recursos')}>{t('header.navFeatures')}</button>
         <button onClick={() => onNavigate('como-funciona')}>{t('header.navHowItWorks')}</button>
+        <button onClick={() => onNavigate('mural')}>{t('header.navBandBoard')}</button>
         <button onClick={() => onNavigate('planos')}>{t('header.navPricing')}</button>
         <button onClick={() => onNavigate('depoimentos')}>{t('header.navTestimonials')}</button>
         <button onClick={() => onNavigate('faq')}>{t('header.navFaq')}</button>

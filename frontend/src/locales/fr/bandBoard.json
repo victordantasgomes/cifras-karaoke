@@ -42,7 +42,9 @@
     "submit": "Publier l'annonce",
     "saving": "Enregistrement…",
     "saveChanges": "Enregistrer les modifications",
-    "cancel": "Annuler"
+    "cancel": "Annuler",
+    "city": "Ville",
+    "cityPlaceholder": "ex. : São Paulo"
   },
   "card": {
     "contact": "Contact :",

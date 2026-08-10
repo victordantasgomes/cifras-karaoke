@@ -17,6 +17,7 @@ from pathlib import Path
 
 import db
 from services import blob_client
+from utils.instruments import INSTRUMENTS
 
 _FIELDS = (
     "band_name", "genero", "style_freeform", "skill_level", "goal", "bio", "contact_info",
@@ -29,11 +30,23 @@ MAX_MEDIA_PER_POST = 10
 MAX_MEDIA_FILE_BYTES = 50 * 1024 * 1024  # 50 MB por foto/vídeo — anúncio, não acervo
 
 
+def _validate_instruments_needed(instruments_needed: list[str]) -> list[str]:
+    """Vocabulário fechado desde a melhoria de alertas (ver
+    utils/instruments.py) — mesmo padrão de falha explícita de
+    add_media_file/add_media_link (ValueError, capturado na rota)."""
+    cleaned = [(i or "").strip() for i in instruments_needed]
+    for i in cleaned:
+        if i not in INSTRUMENTS:
+            raise ValueError("Um dos instrumentos buscados é inválido.")
+    return cleaned
+
+
 def _row_to_dict(row: dict, media: list[dict]) -> dict:
     return {
         "id": str(row["id"]),
         "user_id": row["user_id"],
         "band_name": row["band_name"],
+        "city": row["city"],
         "genero": row["genero"],
         "style_freeform": row["style_freeform"],
         "skill_level": row["skill_level"],
@@ -104,22 +117,25 @@ class BandBoardService:
 
     def create(self, user_id: str, data: dict) -> dict:
         setlist_refs = self._resolve_setlist_refs(user_id, data.get("setlist_refs") or [])
+        instruments_needed = _validate_instruments_needed(data.get("instruments_needed") or [])
         with db.get_pool().connection() as conn:
             row = conn.execute(
                 """insert into band_posts
-                   (user_id, band_name, genero, style_freeform, skill_level, goal,
+                   (user_id, band_name, city, genero, style_freeform, skill_level, goal,
                     rehearsal_days, instruments_needed, bio, contact_info, setlist_refs)
-                   values (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                   values (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
                    returning *""",
                 (
-                    user_id, *(data.get(f, "") for f in _FIELDS[:5]),
-                    data.get("rehearsal_days") or [], data.get("instruments_needed") or [],
+                    user_id, *(data.get(f, "") for f in _FIELDS[:1]), (data.get("city") or "").strip(),
+                    *(data.get(f, "") for f in _FIELDS[1:5]),
+                    data.get("rehearsal_days") or [], instruments_needed,
                     *(data.get(f, "") for f in _FIELDS[5:]), setlist_refs,
                 ),
             ).fetchone()
         return _row_to_dict(row, [])
 
     def update(self, user_id: str, post_id: str, data: dict) -> dict:
+        instruments_needed = _validate_instruments_needed(data.get("instruments_needed") or [])
         with db.get_pool().connection() as conn:
             row = conn.execute("select user_id from band_posts where id=%s", (post_id,)).fetchone()
             if not row:
@@ -128,13 +144,14 @@ class BandBoardService:
                 raise PermissionError(post_id)
             setlist_refs = self._resolve_setlist_refs(user_id, data.get("setlist_refs") or [])
             conn.execute(
-                """update band_posts set band_name=%s, genero=%s, style_freeform=%s, skill_level=%s,
+                """update band_posts set band_name=%s, city=%s, genero=%s, style_freeform=%s, skill_level=%s,
                        goal=%s, rehearsal_days=%s, instruments_needed=%s, bio=%s, contact_info=%s,
                        setlist_refs=%s, updated_at=now()
                    where id=%s""",
                 (
-                    *(data.get(f, "") for f in _FIELDS[:5]),
-                    data.get("rehearsal_days") or [], data.get("instruments_needed") or [],
+                    *(data.get(f, "") for f in _FIELDS[:1]), (data.get("city") or "").strip(),
+                    *(data.get(f, "") for f in _FIELDS[1:5]),
+                    data.get("rehearsal_days") or [], instruments_needed,
                     *(data.get(f, "") for f in _FIELDS[5:]), setlist_refs, post_id,
                 ),
             )

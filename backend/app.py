@@ -19,6 +19,7 @@ from config import Config
 from middlewares.auth_middleware import require_admin, require_auth, require_not_blocked
 from routes.api_routes import build_blueprint
 from services.ai_service import AIService
+from services.alerts_service import AlertsService
 from services.audio_service import AudioService
 from services.auth_service import AuthService
 from services.billing_service import BillingService
@@ -64,6 +65,7 @@ class Services:
         self.favorites = FavoritesService()
         self.branding = BrandingService()
         self.band_board = BandBoardService()
+        self.alerts = AlertsService()
         self.admin_stats = AdminStatsService(setlists=self.setlists, telemetry=self.telemetry)
         self.require_auth = require_auth(self.auth)
         self.require_admin = require_admin(self.auth)

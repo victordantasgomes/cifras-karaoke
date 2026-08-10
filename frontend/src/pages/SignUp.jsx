@@ -4,6 +4,7 @@ import { useTranslation } from 'react-i18next'
 import logoPrincipal from '../assets/logo-principal.png'
 import api from '../services/api'
 import { useAuthStore } from '../store/authStore'
+import InstrumentPicker from '../components/InstrumentPicker'
 
 /**
  * Cadastro público (Fase 5) — deliberadamente separado da criação de
@@ -15,7 +16,7 @@ import { useAuthStore } from '../store/authStore'
  */
 export default function SignUp() {
   const { t } = useTranslation()
-  const [form, setForm] = useState({ name: '', username: '', email: '', password: '' })
+  const [form, setForm] = useState({ name: '', username: '', email: '', password: '', city: '', instruments: [] })
   const [error, setError] = useState('')
   const [busy, setBusy] = useState(false)
   const setSession = useAuthStore((s) => s.setSession)
@@ -60,7 +61,16 @@ export default function SignUp() {
             onChange={(e) => setForm({ ...form, password: e.target.value })}
             onKeyDown={(e) => e.key === 'Enter' && submit()} />
         </div>
-        {error && <div className="error-text">{error}</div>}
+        <div className="field">
+          <label>{t('signup.city')}</label>
+          <input className="input" value={form.city} placeholder={t('signup.cityPlaceholder')}
+            onChange={(e) => setForm({ ...form, city: e.target.value })} />
+        </div>
+        <div className="field" style={{ marginBottom: 0 }}>
+          <label>{t('signup.instruments')}</label>
+          <InstrumentPicker value={form.instruments} onChange={(instruments) => setForm({ ...form, instruments })} />
+        </div>
+        {error && <div className="error-text" style={{ marginTop: 14 }}>{error}</div>}
         <div className="row" style={{ marginTop: 18 }}>
           <button className="btn primary" disabled={busy} onClick={submit}>
             {busy ? t('signup.submitting') : t('signup.submit')}

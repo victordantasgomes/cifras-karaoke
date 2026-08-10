@@ -27,6 +27,8 @@ _AUTH_EXACT = {
     "Sessão expirada. Entre novamente.": "AUTH_SESSION_EXPIRED",
     "Token inválido.": "AUTH_TOKEN_INVALID",
     "Senha atual incorreta.": "AUTH_CURRENT_PASSWORD_INVALID",
+    "Instrumento inválido.": "AUTH_INSTRUMENT_INVALID",
+    "Nível técnico inválido.": "AUTH_SKILL_LEVEL_INVALID",
 }
 
 

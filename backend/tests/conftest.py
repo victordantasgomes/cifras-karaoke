@@ -27,7 +27,7 @@ _TABLES = (
     "setlist_items", "setlists", "samples", "song_clips", "audio_tracks", "user_song_prefs",
     "song_plays", "song_versions", "songs", "settings", "users", "plans", "landing_page_views",
     "user_favorite_artists", "user_favorite_genres", "user_logos", "band_posts", "band_post_media",
-    "activity_pings", "subscription_events",
+    "activity_pings", "subscription_events", "user_instruments", "user_alert_dismissals",
 )
 
 _TEST_DATABASE_URL = os.getenv("TEST_DATABASE_URL")

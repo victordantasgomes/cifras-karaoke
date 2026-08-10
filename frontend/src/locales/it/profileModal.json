@@ -6,7 +6,8 @@
     "security": "Sicurezza",
     "email": "E-mail di contatto",
     "plan": "Piano e fatturazione",
-    "usage": "Utilizzo"
+    "usage": "Utilizzo",
+    "alertProfile": "Città e strumenti"
   },
   "fields": {
     "username": "Nome utente",
@@ -52,5 +53,14 @@
     "storage": "Archiviazione",
     "unlimited": "Nessun limite impostato"
   },
-  "genericError": "Impossibile completare l'azione."
+  "genericError": "Impossibile completare l'azione.",
+  "alertProfile": {
+    "description": "Usati dagli avvisi della bacheca — ti avvisiamo quando un annuncio cerca uno dei tuoi strumenti nella tua città.",
+    "city": "Città",
+    "cityPlaceholder": "es.: São Paulo",
+    "instruments": "Strumenti che suoni",
+    "submit": "Salva",
+    "saving": "Salvataggio…",
+    "success": "Dati aggiornati con successo."
+  }
 }

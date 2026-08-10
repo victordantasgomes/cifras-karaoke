@@ -2,6 +2,7 @@
   "header": {
     "navFeatures": "Recursos",
     "navHowItWorks": "Como funciona",
+    "navBandBoard": "Mural de bandas",
     "navPricing": "Planos",
     "navTestimonials": "Depoimentos",
     "navFaq": "Dúvidas",
@@ -80,6 +81,12 @@
     "item9Icon": "🌎",
     "item9Title": "Tradução em 9 idiomas",
     "item9Desc": "Interface disponível em português, inglês, espanhol e mais 6 idiomas."
+  },
+  "bandBoardTeaser": {
+    "title": "Monte uma banda",
+    "subtitle": "Anúncios de bandas buscando músicos e músicos buscando banda — navegue sem precisar criar conta.",
+    "empty": "Nenhum anúncio ativo no momento.",
+    "cta": "Ver todos os anúncios"
   },
   "integrations": {
     "title": "Funciona com o que você já toca",

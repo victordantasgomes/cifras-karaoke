@@ -1,0 +1,7 @@
+{
+  "title": "Benachrichtigungen",
+  "badgeLabel": "{{count}} Benachrichtigungen",
+  "empty": "Derzeit keine Benachrichtigungen.",
+  "viewAd": "Anzeige ansehen",
+  "dismiss": "Verwerfen"
+}

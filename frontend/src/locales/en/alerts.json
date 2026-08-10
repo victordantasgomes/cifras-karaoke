@@ -1,0 +1,7 @@
+{
+  "title": "Alerts",
+  "badgeLabel": "{{count}} alerts",
+  "empty": "No alerts right now.",
+  "viewAd": "View ad",
+  "dismiss": "Dismiss"
+}

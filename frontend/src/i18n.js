@@ -25,6 +25,8 @@ import ptBRTuner from './locales/pt-BR/tuner.json'
 import ptBRAdminTools from './locales/pt-BR/adminTools.json'
 import ptBRAdminSales from './locales/pt-BR/adminSales.json'
 import ptBRProfileModal from './locales/pt-BR/profileModal.json'
+import ptBRInstruments from './locales/pt-BR/instruments.json'
+import ptBRAlerts from './locales/pt-BR/alerts.json'
 
 import ptPTCommon from './locales/pt-PT/common.json'
 import ptPTErrors from './locales/pt-PT/errors.json'
@@ -49,6 +51,8 @@ import ptPTTuner from './locales/pt-PT/tuner.json'
 import ptPTAdminTools from './locales/pt-PT/adminTools.json'
 import ptPTAdminSales from './locales/pt-PT/adminSales.json'
 import ptPTProfileModal from './locales/pt-PT/profileModal.json'
+import ptPTInstruments from './locales/pt-PT/instruments.json'
+import ptPTAlerts from './locales/pt-PT/alerts.json'
 
 import enCommon from './locales/en/common.json'
 import enErrors from './locales/en/errors.json'
@@ -73,6 +77,8 @@ import enTuner from './locales/en/tuner.json'
 import enAdminTools from './locales/en/adminTools.json'
 import enAdminSales from './locales/en/adminSales.json'
 import enProfileModal from './locales/en/profileModal.json'
+import enInstruments from './locales/en/instruments.json'
+import enAlerts from './locales/en/alerts.json'
 
 import esCommon from './locales/es/common.json'
 import esErrors from './locales/es/errors.json'
@@ -97,6 +103,8 @@ import esTuner from './locales/es/tuner.json'
 import esAdminTools from './locales/es/adminTools.json'
 import esAdminSales from './locales/es/adminSales.json'
 import esProfileModal from './locales/es/profileModal.json'
+import esInstruments from './locales/es/instruments.json'
+import esAlerts from './locales/es/alerts.json'
 
 import frCommon from './locales/fr/common.json'
 import frErrors from './locales/fr/errors.json'
@@ -121,6 +129,8 @@ import frTuner from './locales/fr/tuner.json'
 import frAdminTools from './locales/fr/adminTools.json'
 import frAdminSales from './locales/fr/adminSales.json'
 import frProfileModal from './locales/fr/profileModal.json'
+import frInstruments from './locales/fr/instruments.json'
+import frAlerts from './locales/fr/alerts.json'
 
 import deCommon from './locales/de/common.json'
 import deErrors from './locales/de/errors.json'
@@ -145,6 +155,8 @@ import deTuner from './locales/de/tuner.json'
 import deAdminTools from './locales/de/adminTools.json'
 import deAdminSales from './locales/de/adminSales.json'
 import deProfileModal from './locales/de/profileModal.json'
+import deInstruments from './locales/de/instruments.json'
+import deAlerts from './locales/de/alerts.json'
 
 import ruCommon from './locales/ru/common.json'
 import ruErrors from './locales/ru/errors.json'
@@ -169,6 +181,8 @@ import ruTuner from './locales/ru/tuner.json'
 import ruAdminTools from './locales/ru/adminTools.json'
 import ruAdminSales from './locales/ru/adminSales.json'
 import ruProfileModal from './locales/ru/profileModal.json'
+import ruInstruments from './locales/ru/instruments.json'
+import ruAlerts from './locales/ru/alerts.json'
 
 import zhCommon from './locales/zh/common.json'
 import zhErrors from './locales/zh/errors.json'
@@ -193,6 +207,8 @@ import zhTuner from './locales/zh/tuner.json'
 import zhAdminTools from './locales/zh/adminTools.json'
 import zhAdminSales from './locales/zh/adminSales.json'
 import zhProfileModal from './locales/zh/profileModal.json'
+import zhInstruments from './locales/zh/instruments.json'
+import zhAlerts from './locales/zh/alerts.json'
 
 import itCommon from './locales/it/common.json'
 import itErrors from './locales/it/errors.json'
@@ -217,6 +233,8 @@ import itTuner from './locales/it/tuner.json'
 import itAdminTools from './locales/it/adminTools.json'
 import itAdminSales from './locales/it/adminSales.json'
 import itProfileModal from './locales/it/profileModal.json'
+import itInstruments from './locales/it/instruments.json'
+import itAlerts from './locales/it/alerts.json'
 
 // pt-BR/pt-PT precisam ficar como códigos distintos (não colapsar pra "pt")
 // — só idioma comum, região diferente na ortografia/vocabulário. Os outros
@@ -240,7 +258,7 @@ const NS = [
   'common', 'errors', 'dashboard', 'songs', 'setlists', 'setlistDetail', 'profile',
   'karaokeHome', 'history', 'pricing', 'settings', 'songEditor', 'karaokeStage',
   'scrollPlayer', 'chordDictionary', 'syncWorkspace', 'landing', 'bandBoard', 'metronome', 'tuner',
-  'adminTools', 'adminSales', 'profileModal',
+  'adminTools', 'adminSales', 'profileModal', 'instruments', 'alerts',
 ]
 
 i18n
@@ -255,7 +273,8 @@ i18n
         songEditor: ptBRSongEditor, karaokeStage: ptBRKaraokeStage, scrollPlayer: ptBRScrollPlayer,
         chordDictionary: ptBRChordDictionary, syncWorkspace: ptBRSyncWorkspace, landing: ptBRLanding,
         bandBoard: ptBRBandBoard, metronome: ptBRMetronome, tuner: ptBRTuner, adminTools: ptBRAdminTools,
-        adminSales: ptBRAdminSales, profileModal: ptBRProfileModal,
+        adminSales: ptBRAdminSales, profileModal: ptBRProfileModal, instruments: ptBRInstruments,
+        alerts: ptBRAlerts,
       },
       'pt-PT': {
         common: ptPTCommon, errors: ptPTErrors, dashboard: ptPTDashboard, songs: ptPTSongs,
@@ -264,7 +283,8 @@ i18n
         songEditor: ptPTSongEditor, karaokeStage: ptPTKaraokeStage, scrollPlayer: ptPTScrollPlayer,
         chordDictionary: ptPTChordDictionary, syncWorkspace: ptPTSyncWorkspace, landing: ptPTLanding,
         bandBoard: ptPTBandBoard, metronome: ptPTMetronome, tuner: ptPTTuner, adminTools: ptPTAdminTools,
-        adminSales: ptPTAdminSales, profileModal: ptPTProfileModal,
+        adminSales: ptPTAdminSales, profileModal: ptPTProfileModal, instruments: ptPTInstruments,
+        alerts: ptPTAlerts,
       },
       en: {
         common: enCommon, errors: enErrors, dashboard: enDashboard, songs: enSongs,
@@ -273,7 +293,8 @@ i18n
         songEditor: enSongEditor, karaokeStage: enKaraokeStage, scrollPlayer: enScrollPlayer,
         chordDictionary: enChordDictionary, syncWorkspace: enSyncWorkspace, landing: enLanding,
         bandBoard: enBandBoard, metronome: enMetronome, tuner: enTuner, adminTools: enAdminTools,
-        adminSales: enAdminSales, profileModal: enProfileModal,
+        adminSales: enAdminSales, profileModal: enProfileModal, instruments: enInstruments,
+        alerts: enAlerts,
       },
       es: {
         common: esCommon, errors: esErrors, dashboard: esDashboard, songs: esSongs,
@@ -282,7 +303,8 @@ i18n
         songEditor: esSongEditor, karaokeStage: esKaraokeStage, scrollPlayer: esScrollPlayer,
         chordDictionary: esChordDictionary, syncWorkspace: esSyncWorkspace, landing: esLanding,
         bandBoard: esBandBoard, metronome: esMetronome, tuner: esTuner, adminTools: esAdminTools,
-        adminSales: esAdminSales, profileModal: esProfileModal,
+        adminSales: esAdminSales, profileModal: esProfileModal, instruments: esInstruments,
+        alerts: esAlerts,
       },
       fr: {
         common: frCommon, errors: frErrors, dashboard: frDashboard, songs: frSongs,
@@ -291,7 +313,8 @@ i18n
         songEditor: frSongEditor, karaokeStage: frKaraokeStage, scrollPlayer: frScrollPlayer,
         chordDictionary: frChordDictionary, syncWorkspace: frSyncWorkspace, landing: frLanding,
         bandBoard: frBandBoard, metronome: frMetronome, tuner: frTuner, adminTools: frAdminTools,
-        adminSales: frAdminSales, profileModal: frProfileModal,
+        adminSales: frAdminSales, profileModal: frProfileModal, instruments: frInstruments,
+        alerts: frAlerts,
       },
       de: {
         common: deCommon, errors: deErrors, dashboard: deDashboard, songs: deSongs,
@@ -300,7 +323,8 @@ i18n
         songEditor: deSongEditor, karaokeStage: deKaraokeStage, scrollPlayer: deScrollPlayer,
         chordDictionary: deChordDictionary, syncWorkspace: deSyncWorkspace, landing: deLanding,
         bandBoard: deBandBoard, metronome: deMetronome, tuner: deTuner, adminTools: deAdminTools,
-        adminSales: deAdminSales, profileModal: deProfileModal,
+        adminSales: deAdminSales, profileModal: deProfileModal, instruments: deInstruments,
+        alerts: deAlerts,
       },
       ru: {
         common: ruCommon, errors: ruErrors, dashboard: ruDashboard, songs: ruSongs,
@@ -309,7 +333,8 @@ i18n
         songEditor: ruSongEditor, karaokeStage: ruKaraokeStage, scrollPlayer: ruScrollPlayer,
         chordDictionary: ruChordDictionary, syncWorkspace: ruSyncWorkspace, landing: ruLanding,
         bandBoard: ruBandBoard, metronome: ruMetronome, tuner: ruTuner, adminTools: ruAdminTools,
-        adminSales: ruAdminSales, profileModal: ruProfileModal,
+        adminSales: ruAdminSales, profileModal: ruProfileModal, instruments: ruInstruments,
+        alerts: ruAlerts,
       },
       zh: {
         common: zhCommon, errors: zhErrors, dashboard: zhDashboard, songs: zhSongs,
@@ -318,7 +343,8 @@ i18n
         songEditor: zhSongEditor, karaokeStage: zhKaraokeStage, scrollPlayer: zhScrollPlayer,
         chordDictionary: zhChordDictionary, syncWorkspace: zhSyncWorkspace, landing: zhLanding,
         bandBoard: zhBandBoard, metronome: zhMetronome, tuner: zhTuner, adminTools: zhAdminTools,
-        adminSales: zhAdminSales, profileModal: zhProfileModal,
+        adminSales: zhAdminSales, profileModal: zhProfileModal, instruments: zhInstruments,
+        alerts: zhAlerts,
       },
       it: {
         common: itCommon, errors: itErrors, dashboard: itDashboard, songs: itSongs,
@@ -327,7 +353,8 @@ i18n
         songEditor: itSongEditor, karaokeStage: itKaraokeStage, scrollPlayer: itScrollPlayer,
         chordDictionary: itChordDictionary, syncWorkspace: itSyncWorkspace, landing: itLanding,
         bandBoard: itBandBoard, metronome: itMetronome, tuner: itTuner, adminTools: itAdminTools,
-        adminSales: itAdminSales, profileModal: itProfileModal,
+        adminSales: itAdminSales, profileModal: itProfileModal, instruments: itInstruments,
+        alerts: itAlerts,
       },
     },
     fallbackLng: 'pt-BR',

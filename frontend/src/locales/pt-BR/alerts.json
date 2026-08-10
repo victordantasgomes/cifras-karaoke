@@ -1,0 +1,7 @@
+{
+  "title": "Alertas",
+  "badgeLabel": "{{count}} alertas",
+  "empty": "Nenhum alerta no momento.",
+  "viewAd": "Ver anúncio",
+  "dismiss": "Dispensar"
+}

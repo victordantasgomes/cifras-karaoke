@@ -1,0 +1,28 @@
+{
+  "names": {
+    "guitar": "吉他",
+    "bass": "贝斯",
+    "drums": "鼓",
+    "vocals": "人声",
+    "keys": "键盘",
+    "piano": "钢琴",
+    "saxophone": "萨克斯风",
+    "violin": "小提琴",
+    "ukulele": "尤其里",
+    "percussion": "打嫁乐器",
+    "other": "其他"
+  },
+  "skillLevels": {
+    "iniciante": "初学",
+    "intermediario": "中级",
+    "avancado": "高级",
+    "profissional": "专业"
+  },
+  "picker": {
+    "instrumentPlaceholder": "乐器…",
+    "skillLevelPlaceholder": "水平…",
+    "add": "添加",
+    "remove": "移除",
+    "empty": "尚未添加任何乐器。"
+  }
+}

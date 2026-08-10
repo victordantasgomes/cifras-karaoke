@@ -6,7 +6,8 @@
     "navTestimonials": "Testimonials",
     "navFaq": "FAQ",
     "login": "Sign in",
-    "signup": "Create account"
+    "signup": "Create account",
+    "navBandBoard": "Band board"
   },
   "hero": {
     "eyebrow": "Chord sheets + karaoke, all in one place",
@@ -160,5 +161,11 @@
   "footer": {
     "tagline": "Chord sheets, sync, and karaoke for the whole band.",
     "rights": "© {{year}} Cifras Karaokê. All rights reserved."
+  },
+  "bandBoardTeaser": {
+    "title": "Form a band",
+    "subtitle": "Ads from bands looking for musicians and musicians looking for a band — browse without creating an account.",
+    "empty": "No active ads right now.",
+    "cta": "See all ads"
   }
 }

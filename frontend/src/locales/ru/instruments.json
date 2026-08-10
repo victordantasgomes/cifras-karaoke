@@ -1,0 +1,28 @@
+{
+  "names": {
+    "guitar": "Гитара",
+    "bass": "Бас",
+    "drums": "Ударные",
+    "vocals": "Вокал",
+    "keys": "Клавишные",
+    "piano": "Фортепиано",
+    "saxophone": "Саксофон",
+    "violin": "Скрипка",
+    "ukulele": "Укулеле",
+    "percussion": "Перкуссия",
+    "other": "Другое"
+  },
+  "skillLevels": {
+    "iniciante": "Начинающий",
+    "intermediario": "Средний",
+    "avancado": "Продвинутый",
+    "profissional": "Профессионал"
+  },
+  "picker": {
+    "instrumentPlaceholder": "Инструмент…",
+    "skillLevelPlaceholder": "Уровень…",
+    "add": "Добавить",
+    "remove": "Удалить",
+    "empty": "Пока не добавлен ни один инструмент."
+  }
+}

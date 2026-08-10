@@ -14,6 +14,7 @@ from werkzeug.security import check_password_hash, generate_password_hash
 
 import db
 from config import Config
+from utils.instruments import INSTRUMENTS, SKILL_LEVELS
 
 _EMAIL_RE = re.compile(r"^[^@\s]+@[^@\s]+\.[^@\s]+$")
 
@@ -22,9 +23,28 @@ class AuthError(Exception):
     pass
 
 
+def _validate_instruments(instruments: list[dict]) -> list[dict]:
+    """Levanta AuthError se algum item não bater com o vocabulário fechado
+    (ver utils/instruments.py) — mesmo padrão de falha explícita de
+    LOGO_VARIANT_INVALID em branding_service.py. Mensagem estática (sem o
+    id inválido interpolado) de propósito, pra caber em _AUTH_EXACT sem
+    precisar de uma função de mapeamento por prefixo."""
+    cleaned = []
+    for item in instruments:
+        instrument = (item.get("instrument") or "").strip()
+        skill_level = (item.get("skill_level") or "").strip()
+        if instrument not in INSTRUMENTS:
+            raise AuthError("Instrumento inválido.")
+        if skill_level and skill_level not in SKILL_LEVELS:
+            raise AuthError("Nível técnico inválido.")
+        cleaned.append({"instrument": instrument, "skill_level": skill_level})
+    return cleaned
+
+
 class AuthService:
     def register(self, username: str, password: str, name: str = "", is_admin: bool = False,
-                 email: str = "", share_by_default: bool = True) -> dict:
+                 email: str = "", share_by_default: bool = True, city: str = "",
+                 instruments: list[dict] | None = None) -> dict:
         """Duas portas de entrada usam este mesmo método: `POST /admin/users`
         (admin-only, sem e-mail, `share_by_default=True` — mesmo
         comportamento colaborativo de sempre pra contas de banda) e a rota
@@ -32,15 +52,19 @@ class AuthService:
         — nunca lido do payload da rota pública — com e-mail obrigatório e
         `share_by_default=False`, biblioteca privada por padrão pro SaaS
         multi-tenant). `email` fica opcional aqui pra não quebrar o fluxo
-        admin de hoje, que nunca coletou e-mail."""
+        admin de hoje, que nunca coletou e-mail. `city`/`instruments` também
+        opcionais (melhoria de alertas) — sempre editáveis depois via
+        update_city/set_instruments, não travam o cadastro."""
         username = username.strip().lower()
         email = email.strip().lower()
+        city = (city or "").strip()
         if not username or not password:
             raise AuthError("Usuário e senha são obrigatórios.")
         if len(password) < 6:
             raise AuthError("A senha deve ter pelo menos 6 caracteres.")
         if email and not _EMAIL_RE.match(email):
             raise AuthError("E-mail inválido.")
+        instruments = _validate_instruments(instruments or [])
         user_id = f"user-{uuid.uuid4().hex[:10]}"
         name = name or username
         with db.get_pool().connection() as conn:
@@ -52,11 +76,16 @@ class AuthService:
                 if email_taken:
                     raise AuthError("Este e-mail já está cadastrado.")
             conn.execute(
-                """insert into users (id, username, name, password_hash, is_admin, email, share_by_default)
-                   values (%s, %s, %s, %s, %s, %s, %s)""",
+                """insert into users (id, username, name, password_hash, is_admin, email, share_by_default, city)
+                   values (%s, %s, %s, %s, %s, %s, %s, %s)""",
                 (user_id, username, name, generate_password_hash(password), is_admin,
-                 email or None, share_by_default),
+                 email or None, share_by_default, city),
             )
+            for item in instruments:
+                conn.execute(
+                    "insert into user_instruments (user_id, instrument, skill_level) values (%s, %s, %s)",
+                    (user_id, item["instrument"], item["skill_level"]),
+                )
         return {"id": user_id, "username": username, "name": name, "is_admin": is_admin, "email": email}
 
     def login(self, username: str, password: str) -> dict:
@@ -129,16 +158,45 @@ class AuthService:
         """Versão self-service de list_users() — uma linha só, sem exigir
         is_admin, mas incluindo o e-mail (que list_users não devolve, já
         que aquela tela é a lista de todo mundo, não a conta de quem está
-        vendo)."""
+        vendo). `city`/`instruments` são o perfil de correspondência usado
+        por alerts_service.py (ver Fase 2 do plano de alertas)."""
         with db.get_pool().connection() as conn:
             row = conn.execute(
-                """select id, username, name, email, is_admin, created_at, last_login_at, login_count
+                """select id, username, name, email, is_admin, created_at, last_login_at, login_count, city
                    from users where id=%s""",
                 (user_id,),
             ).fetchone()
         if not row:
             raise AuthError("Usuário não encontrado.")
-        return dict(row)
+        profile = dict(row)
+        profile["instruments"] = self.list_instruments(user_id)
+        return profile
+
+    def list_instruments(self, user_id: str) -> list[dict]:
+        with db.get_pool().connection() as conn:
+            rows = conn.execute(
+                "select instrument, skill_level from user_instruments where user_id=%s order by instrument",
+                (user_id,),
+            ).fetchall()
+        return [dict(r) for r in rows]
+
+    def set_instruments(self, user_id: str, instruments: list[dict]) -> list[dict]:
+        """Substitui o conjunto inteiro (delete + insert numa transação) —
+        mesmo raciocínio de troca completa usado em
+        BandBoardService.update para setlist_refs."""
+        instruments = _validate_instruments(instruments)
+        with db.get_pool().connection() as conn:
+            conn.execute("delete from user_instruments where user_id=%s", (user_id,))
+            for item in instruments:
+                conn.execute(
+                    "insert into user_instruments (user_id, instrument, skill_level) values (%s, %s, %s)",
+                    (user_id, item["instrument"], item["skill_level"]),
+                )
+        return self.list_instruments(user_id)
+
+    def update_city(self, user_id: str, city: str) -> None:
+        with db.get_pool().connection() as conn:
+            conn.execute("update users set city=%s where id=%s", ((city or "").strip(), user_id))
 
     def change_own_password(self, user_id: str, current_password: str, new_password: str) -> None:
         """Diferente de reset_password (admin-only, troca sem checar nada):

@@ -55,5 +55,8 @@
   "BAND_MEDIA_LIMIT_REACHED": "Limite di elementi multimediali per annuncio raggiunto.",
   "BAND_MEDIA_URL_INVALID": "Inserisci un link valido (che inizi con http:// o https://).",
   "BAND_MEDIA_INVALID": "Impossibile allegare questo contenuto.",
-  "BAND_MEDIA_NOT_FOUND": "Contenuto non trovato."
+  "BAND_MEDIA_NOT_FOUND": "Contenuto non trovato.",
+  "BAND_POST_VALIDATION_ERROR": "Uno dei campi dell'annuncio non è valido.",
+  "AUTH_INSTRUMENT_INVALID": "Strumento non valido.",
+  "AUTH_SKILL_LEVEL_INVALID": "Livello tecnico non valido."
 }

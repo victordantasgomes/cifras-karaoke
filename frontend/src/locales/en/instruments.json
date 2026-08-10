@@ -1,0 +1,28 @@
+{
+  "names": {
+    "guitar": "Guitar",
+    "bass": "Bass",
+    "drums": "Drums",
+    "vocals": "Vocals",
+    "keys": "Keyboard",
+    "piano": "Piano",
+    "saxophone": "Saxophone",
+    "violin": "Violin",
+    "ukulele": "Ukulele",
+    "percussion": "Percussion",
+    "other": "Other"
+  },
+  "skillLevels": {
+    "iniciante": "Beginner",
+    "intermediario": "Intermediate",
+    "avancado": "Advanced",
+    "profissional": "Professional"
+  },
+  "picker": {
+    "instrumentPlaceholder": "Instrument…",
+    "skillLevelPlaceholder": "Level…",
+    "add": "Add",
+    "remove": "Remove",
+    "empty": "No instrument added yet."
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "title": "提醒",
+  "badgeLabel": "{{count}} 条提醒",
+  "empty": "暂无提醒。",
+  "viewAd": "查看帖子",
+  "dismiss": "忽略"
+}

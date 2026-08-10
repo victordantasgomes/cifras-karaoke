@@ -1,9 +1,10 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { useTranslation } from 'react-i18next'
 import api from '../services/api'
 import Modal from './Modal'
+import InstrumentPicker from './InstrumentPicker'
 
 function formatDate(iso) {
   if (!iso) return null
@@ -98,6 +99,43 @@ function EmailSection({ t, currentEmail }) {
   )
 }
 
+/** Cidade + instrumentos tocados — perfil de correspondência usado pelos
+ * alertas do mural (ver AlertsBell.jsx). Opcional, editável a qualquer
+ * momento (também pode ter sido preenchido no cadastro). */
+function AlertProfileSection({ t, me }) {
+  const qc = useQueryClient()
+  const [city, setCity] = useState(me.city || '')
+  const [instruments, setInstruments] = useState(me.instruments || [])
+  const [success, setSuccess] = useState(false)
+  useEffect(() => { setCity(me.city || ''); setInstruments(me.instruments || []) }, [me])
+
+  const save = useMutation({
+    mutationFn: () => api.put('/me/profile', { city, instruments }),
+    onSuccess: (r) => { setSuccess(true); qc.setQueryData(['me'], r.data) },
+    onError: () => setSuccess(false),
+  })
+
+  return (
+    <>
+      <div className="field">
+        <label>{t('alertProfile.city')}</label>
+        <input className="input" style={{ maxWidth: 320 }} value={city}
+          placeholder={t('alertProfile.cityPlaceholder')} onChange={(e) => setCity(e.target.value)} />
+      </div>
+      <div className="field" style={{ marginBottom: 0 }}>
+        <label>{t('alertProfile.instruments')}</label>
+        <InstrumentPicker value={instruments} onChange={setInstruments} />
+      </div>
+      {save.isError && <p className="error-text">{save.error?.response?.data?.error || t('genericError')}</p>}
+      {success && <p style={{ color: 'var(--ok, #46c48a)', fontSize: 13, marginTop: 8 }}>{t('alertProfile.success')}</p>}
+      <button type="button" className="btn primary" style={{ marginTop: 12 }} disabled={save.isPending}
+        onClick={() => { setSuccess(false); save.mutate() }}>
+        {save.isPending ? t('alertProfile.saving') : t('alertProfile.submit')}
+      </button>
+    </>
+  )
+}
+
 export default function ProfileModal({ onClose }) {
   const { t } = useTranslation('profileModal')
   const { data: me } = useQuery({ queryKey: ['me'], queryFn: () => api.get('/me').then((r) => r.data) })
@@ -117,6 +155,12 @@ export default function ProfileModal({ onClose }) {
             <div className="field" style={{ marginBottom: 0 }}>
               <label>{t('fields.loginCount')}</label><div>{me.login_count}</div>
             </div>
+          </div>
+
+          <div className="card" style={{ marginBottom: 14 }}>
+            <h3 style={{ marginBottom: 12 }}>{t('sections.alertProfile')}</h3>
+            <p style={{ color: 'var(--muted)', margin: '0 0 12px' }}>{t('alertProfile.description')}</p>
+            <AlertProfileSection t={t} me={me} />
           </div>
 
           <div className="card" style={{ marginBottom: 14 }}>

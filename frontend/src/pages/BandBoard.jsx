@@ -7,21 +7,22 @@ import api from '../services/api'
 import { useAuthStore } from '../store/authStore'
 import ThemeToggle from '../components/ThemeToggle'
 import { useCurrentTheme } from '../hooks/useTheme'
+import { INSTRUMENTS } from '../utils/instruments'
 import '../styles/landing.css'
 
 const SKILL_LEVELS = ['iniciante', 'intermediario', 'avancado', 'profissional']
 const GOALS = ['hobby', 'ensaios_regulares', 'shows_pagos', 'gravacao']
 
 const EMPTY_FORM = {
-  band_name: '', genero: '', style_freeform: '', skill_level: '', goal: '',
-  rehearsal_days: '', instruments_needed: '', bio: '', contact_info: '', setlist_refs: [],
+  band_name: '', city: '', genero: '', style_freeform: '', skill_level: '', goal: '',
+  rehearsal_days: '', instruments_needed: [], bio: '', contact_info: '', setlist_refs: [],
 }
 
 function toFormState(post) {
   return {
-    band_name: post.band_name, genero: post.genero, style_freeform: post.style_freeform,
+    band_name: post.band_name, city: post.city, genero: post.genero, style_freeform: post.style_freeform,
     skill_level: post.skill_level, goal: post.goal,
-    rehearsal_days: post.rehearsal_days.join(', '), instruments_needed: post.instruments_needed.join(', '),
+    rehearsal_days: post.rehearsal_days.join(', '), instruments_needed: post.instruments_needed,
     bio: post.bio, contact_info: post.contact_info, setlist_refs: post.setlist_refs,
   }
 }
@@ -30,7 +31,6 @@ function toPayload(form) {
   return {
     ...form,
     rehearsal_days: form.rehearsal_days.split(',').map((s) => s.trim()).filter(Boolean),
-    instruments_needed: form.instruments_needed.split(',').map((s) => s.trim()).filter(Boolean),
   }
 }
 
@@ -156,6 +156,7 @@ function AuthorBadge({ userId }) {
 
 function PostForm({ initial, onDone, t }) {
   const qc = useQueryClient()
+  const { t: ti } = useTranslation('instruments')
   const [form, setForm] = useState(initial ? toFormState(initial) : EMPTY_FORM)
   const [error, setError] = useState('')
   const isEdit = Boolean(initial)
@@ -195,6 +196,14 @@ function PostForm({ initial, onDone, t }) {
     }))
   }
 
+  const toggleInstrument = (id) => {
+    setForm((f) => ({
+      ...f,
+      instruments_needed: f.instruments_needed.includes(id)
+        ? f.instruments_needed.filter((s) => s !== id) : [...f.instruments_needed, id],
+    }))
+  }
+
   return (
     <div className="card no-print" style={{ marginBottom: 18 }}>
       <h3 style={{ marginBottom: 14 }}>{t(isEdit ? 'form.editTitle' : 'form.createTitle')}</h3>
@@ -202,6 +211,11 @@ function PostForm({ initial, onDone, t }) {
         <div className="field" style={{ flex: '1 1 220px' }}>
           <label>{t('form.bandName')}</label>
           <input className="input" value={form.band_name} onChange={(e) => setForm({ ...form, band_name: e.target.value })} />
+        </div>
+        <div className="field" style={{ flex: '1 1 160px' }}>
+          <label>{t('form.city')}</label>
+          <input className="input" placeholder={t('form.cityPlaceholder')}
+            value={form.city} onChange={(e) => setForm({ ...form, city: e.target.value })} />
         </div>
         <div className="field" style={{ flex: '1 1 160px' }}>
           <label>{t('form.genero')}</label>
@@ -229,15 +243,22 @@ function PostForm({ initial, onDone, t }) {
         </div>
       </div>
       <div className="row" style={{ flexWrap: 'wrap', gap: 12 }}>
-        <div className="field" style={{ flex: '1 1 220px' }}>
+        <div className="field" style={{ flex: '1 1 220px', marginBottom: 0 }}>
           <label>{t('form.rehearsalDays')}</label>
           <input className="input" placeholder={t('form.rehearsalDaysPlaceholder')}
             value={form.rehearsal_days} onChange={(e) => setForm({ ...form, rehearsal_days: e.target.value })} />
         </div>
-        <div className="field" style={{ flex: '1 1 220px' }}>
-          <label>{t('form.instrumentsNeeded')}</label>
-          <input className="input" placeholder={t('form.instrumentsPlaceholder')}
-            value={form.instruments_needed} onChange={(e) => setForm({ ...form, instruments_needed: e.target.value })} />
+      </div>
+      <div className="field">
+        <label>{t('form.instrumentsNeeded')}</label>
+        <div className="row" style={{ gap: 10, flexWrap: 'wrap' }}>
+          {INSTRUMENTS.map((id) => (
+            <label key={id} className="row" style={{ gap: 6, alignItems: 'center', cursor: 'pointer' }}>
+              <input type="checkbox" checked={form.instruments_needed.includes(id)}
+                onChange={() => toggleInstrument(id)} />
+              {ti(`names.${id}`)}
+            </label>
+          ))}
         </div>
       </div>
       <div className="field">
@@ -331,6 +352,7 @@ function PostMediaGallery({ post, t }) {
 
 function PostCard({ post, mine, t, onEdit }) {
   const qc = useQueryClient()
+  const { t: ti } = useTranslation('instruments')
   const toggleActive = useMutation({
     mutationFn: () => api.post(`/band-board/${post.id}/active`, { value: !post.active }),
     onSuccess: () => {
@@ -338,6 +360,10 @@ function PostCard({ post, mine, t, onEdit }) {
       qc.invalidateQueries({ queryKey: ['band-board-mine'] })
     },
   })
+  // anúncios antigos (de antes da Fase de alertas) tinham texto livre aqui
+  // — filtra o que não bate mais com o vocabulário fechado em vez de
+  // mostrar a chave de tradução crua.
+  const knownInstruments = post.instruments_needed.filter((id) => INSTRUMENTS.includes(id))
 
   return (
     <div className="card" style={{ marginBottom: 14 }}>
@@ -349,15 +375,16 @@ function PostCard({ post, mine, t, onEdit }) {
         </h3>
       </div>
       <div className="page-sub" style={{ marginBottom: 10 }}>
-        {[post.genero, post.style_freeform].filter(Boolean).join(' · ')}
+        {[post.city, post.genero, post.style_freeform].filter(Boolean).join(' · ')}
         {post.skill_level && <> · {t(`form.skillLevels.${post.skill_level}`)}</>}
         {post.goal && <> · {t(`form.goals.${post.goal}`)}</>}
       </div>
       {post.bio && <p style={{ marginBottom: 10 }}>{post.bio}</p>}
       <PostMediaGallery post={post} t={t} />
-      {post.instruments_needed.length > 0 && (
-        <div style={{ marginBottom: 6 }}>
-          <strong>{t('card.instrumentsNeeded')}</strong> {post.instruments_needed.join(', ')}
+      {knownInstruments.length > 0 && (
+        <div className="row" style={{ gap: 6, flexWrap: 'wrap', marginBottom: 10 }}>
+          <strong>{t('card.instrumentsNeeded')}</strong>
+          {knownInstruments.map((id) => <span key={id} className="chip">{ti(`names.${id}`)}</span>)}
         </div>
       )}
       {post.rehearsal_days.length > 0 && (

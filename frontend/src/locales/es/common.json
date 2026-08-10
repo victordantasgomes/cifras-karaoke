@@ -36,7 +36,10 @@
     "submitting": "Creando…",
     "genericError": "No se pudo crear tu cuenta.",
     "hasAccount": "¿Ya tienes cuenta?",
-    "login": "Entrar"
+    "login": "Entrar",
+    "city": "Ciudad (opcional)",
+    "cityPlaceholder": "ej.: São Paulo",
+    "instruments": "Instrumentos que tocas (opcional)"
   },
   "language": {
     "label": "Idioma",

@@ -38,6 +38,12 @@ create table if not exists users (
     -- colidem entre si.
     email         text,
     email_verified boolean not null default false,
+    -- cidade onde o usuário mora, texto livre (sem geocoding) — usada por
+    -- alerts_service.py pra cruzar com a cidade de um anúncio do mural.
+    -- Comparação sempre normalizada (lower(trim(...))) na hora de ler,
+    -- nunca gravada normalizada aqui (mantém o que o usuário digitou pra
+    -- exibição).
+    city          text not null default '',
     created_at    timestamptz not null default now()
 );
 -- "create table if not exists" não altera uma tabela já existente (é o
@@ -48,7 +54,20 @@ alter table users add column if not exists login_count int not null default 0;
 alter table users add column if not exists share_by_default boolean not null default true;
 alter table users add column if not exists email text;
 alter table users add column if not exists email_verified boolean not null default false;
+alter table users add column if not exists city text not null default '';
 create unique index if not exists idx_users_email_unique on users(email) where email is not null;
+
+-- Instrumentos que o usuário toca + nível técnico em cada um — vocabulário
+-- fechado (ver backend/utils/instruments.py), validado na escrita em
+-- auth_service.py, nunca aqui (mesmo padrão do resto do schema, sem CHECK).
+-- Usado no perfil (ProfileModal) e por alerts_service.py pro cruzamento
+-- com instruments_needed de um anúncio do mural.
+create table if not exists user_instruments (
+    user_id     text not null references users(id) on delete cascade,
+    instrument  text not null,
+    skill_level text not null default '',
+    primary key (user_id, instrument)
+);
 
 create table if not exists songs (
     id          uuid primary key default gen_random_uuid(),
@@ -177,11 +196,18 @@ create table if not exists band_posts (
     id                  uuid primary key default gen_random_uuid(),
     user_id             text not null references users(id) on delete cascade,
     band_name           text not null default '',
+    -- cidade do anúncio, mesmo raciocínio de users.city (texto livre, sem
+    -- geocoding) — usada por alerts_service.py pro cruzamento de cidade.
+    city                text not null default '',
     genero              text not null default '',
     style_freeform      text not null default '',
     skill_level         text not null default '',
     goal                text not null default '',
     rehearsal_days      text[] not null default '{}',
+    -- vocabulário fechado desde a melhoria de alertas (ver
+    -- backend/utils/instruments.py) — era texto livre antes; anúncios
+    -- antigos com texto livre continuam com os valores antigos na coluna,
+    -- só não batem com o vocabulário novo até o dono reeditar o anúncio.
     instruments_needed  text[] not null default '{}',
     bio                 text not null default '',
     contact_info        text not null default '',
@@ -190,7 +216,19 @@ create table if not exists band_posts (
     created_at          timestamptz not null default now(),
     updated_at          timestamptz not null default now()
 );
+alter table band_posts add column if not exists city text not null default '';
 create index if not exists idx_band_posts_active on band_posts(active) where active = true;
+
+-- O que o usuário já dispensou/leu no sino de alertas (ver
+-- alerts_service.py) — lista de correspondências em si NUNCA é persistida
+-- (computada ao vivo a cada GET /me/alerts, cidade+instrumento), só o que
+-- foi dispensado precisa de memória entre uma consulta e outra.
+create table if not exists user_alert_dismissals (
+    user_id      text not null references users(id) on delete cascade,
+    post_id      uuid not null references band_posts(id) on delete cascade,
+    dismissed_at timestamptz not null default now(),
+    primary key (user_id, post_id)
+);
 
 -- Mídia anexada a um anúncio (fotos, vídeos, links e vídeos do YouTube —
 -- melhoria à Fase 9) — até BandBoardService.MAX_MEDIA_PER_POST itens por

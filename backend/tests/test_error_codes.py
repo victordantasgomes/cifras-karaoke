@@ -16,6 +16,8 @@ from utils.error_codes import auth_error_code, band_media_error_code, billing_er
     ("Sessão expirada. Entre novamente.", "AUTH_SESSION_EXPIRED"),
     ("Token inválido.", "AUTH_TOKEN_INVALID"),
     ("Senha atual incorreta.", "AUTH_CURRENT_PASSWORD_INVALID"),
+    ("Instrumento inválido.", "AUTH_INSTRUMENT_INVALID"),
+    ("Nível técnico inválido.", "AUTH_SKILL_LEVEL_INVALID"),
 ])
 def test_auth_error_code_maps_known_messages(message, expected):
     assert auth_error_code(message) == expected

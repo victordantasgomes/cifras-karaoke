@@ -42,7 +42,9 @@
     "submit": "发布启事",
     "saving": "保存中…",
     "saveChanges": "保存更改",
-    "cancel": "取消"
+    "cancel": "取消",
+    "city": "城市",
+    "cityPlaceholder": "例如：圣保罗"
   },
   "card": {
     "contact": "联系方式：",

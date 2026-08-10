@@ -1,0 +1,7 @@
+{
+  "title": "Avvisi",
+  "badgeLabel": "{{count}} avvisi",
+  "empty": "Nessun avviso al momento.",
+  "viewAd": "Vedi annuncio",
+  "dismiss": "Ignora"
+}

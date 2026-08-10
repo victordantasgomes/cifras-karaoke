@@ -6,7 +6,8 @@
     "security": "Sicherheit",
     "email": "Kontakt-E-Mail",
     "plan": "Tarif und Abrechnung",
-    "usage": "Nutzung"
+    "usage": "Nutzung",
+    "alertProfile": "Stadt und Instrumente"
   },
   "fields": {
     "username": "Benutzername",
@@ -52,5 +53,14 @@
     "storage": "Speicher",
     "unlimited": "Kein Limit festgelegt"
   },
-  "genericError": "Die Aktion konnte nicht abgeschlossen werden."
+  "genericError": "Die Aktion konnte nicht abgeschlossen werden.",
+  "alertProfile": {
+    "description": "Werden für Pinnwand-Benachrichtigungen verwendet — wir informieren dich, wenn eine Anzeige eines deiner Instrumente in deiner Stadt sucht.",
+    "city": "Stadt",
+    "cityPlaceholder": "z. B.: São Paulo",
+    "instruments": "Instrumente, die du spielst",
+    "submit": "Speichern",
+    "saving": "Wird gespeichert…",
+    "success": "Daten erfolgreich aktualisiert."
+  }
 }

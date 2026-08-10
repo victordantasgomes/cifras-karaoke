@@ -55,5 +55,8 @@
   "BAND_MEDIA_LIMIT_REACHED": "已达到每个帖子的媒体项目上限。",
   "BAND_MEDIA_URL_INVALID": "请输入有效链接（以 http:// 或 https:// 开头）。",
   "BAND_MEDIA_INVALID": "无法添加该媒体。",
-  "BAND_MEDIA_NOT_FOUND": "未找到媒体。"
+  "BAND_MEDIA_NOT_FOUND": "未找到媒体。",
+  "BAND_POST_VALIDATION_ERROR": "帖子中有一项字段无效。",
+  "AUTH_INSTRUMENT_INVALID": "无效的乐器。",
+  "AUTH_SKILL_LEVEL_INVALID": "无效的技术水平。"
 }

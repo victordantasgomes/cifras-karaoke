@@ -8,6 +8,7 @@ import Hero from '../components/landing/Hero'
 import Journey from '../components/landing/Journey'
 import HowItWorks from '../components/landing/HowItWorks'
 import Capabilities from '../components/landing/Capabilities'
+import BandBoardTeaser from '../components/landing/BandBoardTeaser'
 import Integrations from '../components/landing/Integrations'
 import Comparison from '../components/landing/Comparison'
 import Testimonials from '../components/landing/Testimonials'
@@ -44,6 +45,7 @@ export default function Landing() {
         <Journey />
         <HowItWorks />
         <Capabilities />
+        <BandBoardTeaser />
         <Integrations />
         <Comparison />
         <Testimonials />

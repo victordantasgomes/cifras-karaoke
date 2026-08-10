@@ -46,6 +46,7 @@ def build_blueprint(ctx) -> Blueprint:
             ctx.auth.register(
                 d.get("username", ""), d.get("password", ""), d.get("name", ""),
                 email=email, share_by_default=False,
+                city=d.get("city", ""), instruments=d.get("instruments", []),
             )
             return jsonify(ctx.auth.login(d.get("username", ""), d.get("password", "")))
         except AuthError as e:
@@ -78,6 +79,34 @@ def build_blueprint(ctx) -> Blueprint:
             ctx.auth.change_email(g.user_id, d.get("email", ""), d.get("password", ""))
         except AuthError as e:
             return jsonify({"error": str(e), "error_code": auth_error_code(str(e))}), 400
+        return "", 204
+
+    # Perfil de correspondência usado pelos alertas (Fase 4) — cidade onde
+    # mora + instrumentos que toca, editável a qualquer momento (opcional
+    # no cadastro, ver POST /auth/register acima).
+    @api.put("/me/profile")
+    @protected
+    def update_my_alert_profile():
+        d = request.get_json(force=True)
+        try:
+            ctx.auth.update_city(g.user_id, d.get("city", ""))
+            ctx.auth.set_instruments(g.user_id, d.get("instruments", []))
+            return jsonify(ctx.auth.get_profile(g.user_id))
+        except AuthError as e:
+            return jsonify({"error": str(e), "error_code": auth_error_code(str(e))}), 400
+
+    # Alertas de mural (Fase 4) — anúncios ativos que batem cidade +
+    # instrumento com o perfil do usuário logado (ver PUT /me/profile
+    # acima). Calculado ao vivo a cada GET, nunca persistido.
+    @api.get("/me/alerts")
+    @protected
+    def list_my_alerts():
+        return jsonify(ctx.alerts.list_alerts(g.user_id))
+
+    @api.post("/me/alerts/<post_id>/dismiss")
+    @protected
+    def dismiss_my_alert(post_id):
+        ctx.alerts.dismiss(g.user_id, post_id)
         return "", 204
 
     # Públicas (sem auth) — consumidas pela landing page (Landing.jsx).
@@ -778,7 +807,10 @@ def build_blueprint(ctx) -> Blueprint:
     @not_blocked
     def create_band_post():
         d = request.get_json(force=True)
-        return jsonify(ctx.band_board.create(g.user_id, d)), 201
+        try:
+            return jsonify(ctx.band_board.create(g.user_id, d)), 201
+        except ValueError as e:
+            return jsonify({"error": str(e), "error_code": "BAND_POST_VALIDATION_ERROR"}), 400
 
     @api.put("/band-board/<post_id>")
     @protected
@@ -791,6 +823,8 @@ def build_blueprint(ctx) -> Blueprint:
         except PermissionError:
             return jsonify({"error": "Só quem criou este anúncio pode editá-lo.",
                              "error_code": "BAND_POST_NOT_OWNER"}), 403
+        except ValueError as e:
+            return jsonify({"error": str(e), "error_code": "BAND_POST_VALIDATION_ERROR"}), 400
 
     @api.post("/band-board/<post_id>/active")
     @protected

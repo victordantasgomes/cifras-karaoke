@@ -42,7 +42,9 @@
     "submit": "Publish ad",
     "saving": "Saving…",
     "saveChanges": "Save changes",
-    "cancel": "Cancel"
+    "cancel": "Cancel",
+    "city": "City",
+    "cityPlaceholder": "e.g.: São Paulo"
   },
   "card": {
     "contact": "Contact:",
