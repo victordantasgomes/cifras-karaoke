@@ -63,7 +63,7 @@ export default function Dashboard() {
         <div className="card stat"><div className="big">{data.favorites.length}</div><div className="label">{t('stats.favorites')}</div></div>
         <div className="card stat"><div className="big">{data.most_played.length}</div><div className="label">{t('stats.radar')}</div></div>
       </div>
-      <div className="row" style={{ alignItems: 'flex-start' }}>
+      <div className="row" style={{ alignItems: 'stretch', marginBottom: 22 }}>
         <div className="card" style={{ flex: 1, minWidth: 280 }}>
           <h3 style={{ marginBottom: 10 }}>{t('sections.mostPlayed')}</h3>
           <SongLinks items={data.most_played} extra={(s) => `${s.plays}×`} emptyLabel={t('empty')} />
@@ -77,7 +77,7 @@ export default function Dashboard() {
           <SongLinks items={data.favorites} extra={() => '★'} emptyLabel={t('empty')} />
         </div>
       </div>
-      <div className="row" style={{ alignItems: 'flex-start' }}>
+      <div className="row" style={{ alignItems: 'stretch' }}>
         <div className="card" style={{ flex: 1, minWidth: 280 }}>
           <h3 style={{ marginBottom: 10 }}>{t('sections.mostPlayedArtists')}</h3>
           <ArtistLinks items={data.most_played_artists} emptyLabel={t('emptyArtists')} />

@@ -134,7 +134,11 @@ button { font-family: inherit; }
 
 /* ---------- layout ---------- */
 .app-shell { display: flex; min-height: 100vh; }
-.main { flex: 1; padding: 28px 34px; min-width: 0; }
+/* padding-top folgado o bastante pra nunca colidir com .top-right-fixed
+   (sino/usuário/tema, position:fixed, top:18px, 38px de altura — termina
+   em y:56px) — qualquer página com um botão de ação alinhado à direita no
+   topo (ex.: "+ Nova música" em Songs.jsx) senão sobrepõe os ícones. */
+.main { flex: 1; padding: 76px 34px 28px; min-width: 0; }
 .page-title { font-family: var(--font-display); font-size: 24px; font-weight: 700; letter-spacing: -0.02em; }
 .page-sub { color: var(--muted); margin-top: 4px; margin-bottom: 24px; }
 
@@ -643,7 +647,7 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
   .nav-section-label { display: none; }
   .song-row { grid-template-columns: 1fr 90px; }
   .song-row .hide-sm { display: none; }
-  .main { padding: 18px; }
+  .main { padding: 76px 18px 18px; }
   .chord-dict-layout { grid-template-columns: 1fr; }
   .chord-dict-list { max-height: 320px; }
 }
