@@ -1,0 +1,45 @@
+{
+  "title": "Diccionario de acordes",
+  "subtitle": "Guitarra, ukelele y teclado — busca un acorde, mira las variaciones y escúchalo.",
+  "banner": "Las digitaciones de guitarra y ukelele de este diccionario se normalizaron mediante fórmula armónica y criterios automatizados de tocabilidad — no fueron digitadas a mano por un músico. Recomendamos una etapa de curaduría/validación musical antes de tratarlas como referencia editorial definitiva. Las posiciones de teclado derivan directamente de la teoría musical (fundamental + inversiones), por lo que son verificables por construcción.",
+  "instruments": {
+    "violao": "Guitarra",
+    "ukulele": "Ukelele",
+    "teclado": "Teclado"
+  },
+  "searchPlaceholder": "Buscar acorde (ej.: Cmaj7, Dm7, F#)",
+  "filters": {
+    "tonica": "Tónica",
+    "qualidade": "Cualidad",
+    "dificuldade": "Dificultad",
+    "pestana": "Cejilla",
+    "pestanaWith": "Con cejilla",
+    "pestanaWithout": "Sin cejilla"
+  },
+  "favoritesOnly": "Solo favoritos",
+  "loading": "Cargando…",
+  "empty": "No se encontró ningún acorde.",
+  "favoriteToggleTitle": "Favoritar",
+  "selectPrompt": "Selecciona un acorde de la lista.",
+  "enharmonicToggleTitle": "Alternar grafía sostenido/bemol",
+  "favoriteOn": "★ Favorito",
+  "favoriteOff": "☆ Favoritar",
+  "chordSummary": "{{tonica}} · {{qualidade}} · fórmula {{formula}}",
+  "variation": "Variación {{current}} de {{total}}",
+  "variationNamed": "{{name}} ({{current}}/{{total}})",
+  "leftHandedMode": "Modo zurdo",
+  "listen": "🔊 Escuchar acorde",
+  "downloadSvg": "⭳ Descargar SVG",
+  "capoChip": "Cejilla",
+  "bassChip": "Bajo: {{value}}",
+  "notesChip": "Notas: {{value}}",
+  "handsInfo": "Mano izquierda: {{left}} · Mano derecha: {{right}} · {{octave}}",
+  "transpose": "Transponer:",
+  "semitoneDown": "−1 semitono",
+  "semitoneUp": "+1 semitono",
+  "goToKey": "Ir al tono…",
+  "formulasToggle": "Fórmulas de cualidades de acorde",
+  "hoverCard": {
+    "vary": "variar acorde"
+  }
+}

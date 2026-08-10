@@ -1,0 +1,24 @@
+{
+  "loading": "Cargando…",
+  "renameHint": "Haz clic para renombrar",
+  "itemCount_one": "{{count}} canción",
+  "itemCount_other": "{{count}} canciones",
+  "ownerHint": " · arrastra o usa ▲▼ para reordenar",
+  "readOnlyHint": " · de otro usuario — solo lectura",
+  "print": "Imprimir",
+  "continuePlaylist": "▶ Continuar (canción {{current}}/{{total}})",
+  "stopPlaylist": "■ Detener playlist",
+  "playPlaylist_one": "▶ Reproducir playlist ({{count}} canción)",
+  "playPlaylist_other": "▶ Reproducir playlist ({{count}} canciones)",
+  "searchPlaceholder": "Buscar canción para añadir…",
+  "searchEmpty": "No se encontraron canciones para \"{{query}}\".",
+  "add": "añadir",
+  "empty": "Lista vacía. Busca canciones arriba para armar el repertorio.",
+  "moveUp": "Mover hacia arriba",
+  "moveDown": "Mover hacia abajo",
+  "notFound": "⚠ canción no encontrada",
+  "playFromHere": "Reproducir la playlist desde aquí",
+  "errors": {
+    "save": "No se pudo guardar la lista de repertorio."
+  }
+}

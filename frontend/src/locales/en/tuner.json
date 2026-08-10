@@ -1,0 +1,15 @@
+{
+  "title": "Tuner",
+  "subtitle": "Play a note and see how in tune it is, live from your microphone.",
+  "start": "Start",
+  "stop": "Stop",
+  "waitingSignal": "Play a note…",
+  "inTune": "In tune",
+  "tooLow": "Too low",
+  "tooHigh": "Too high",
+  "a4Label": "Reference (A4)",
+  "permissionDenied": "Microphone access denied. Allow microphone access in your browser settings and try again.",
+  "noDevice": "No microphone found on this device.",
+  "genericError": "Could not access the microphone.",
+  "retry": "Try again"
+}

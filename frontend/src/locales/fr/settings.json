@@ -1,0 +1,141 @@
+{
+  "pageTitle": "Paramètres",
+  "pageSub": "Préférences visuelles.",
+  "subscriptionStatus": {
+    "none": "Aucun abonnement",
+    "trialing": "Période d'essai",
+    "active": "Actif",
+    "past_due": "Paiement en attente",
+    "canceled": "Annulé"
+  },
+  "appearance": {
+    "title": "Apparence",
+    "description": "Thème et couleur d'accent de l'interface — indépendant des couleurs de la partition, configurées ci-dessous.",
+    "theme": "Thème",
+    "themes": { "dark": "Sombre", "light": "Clair" },
+    "accent": "Couleur d'accent",
+    "accents": {
+      "azul": "Bleu",
+      "vermelho": "Rouge",
+      "verde": "Vert",
+      "rosa": "Rose",
+      "lilas": "Lilas",
+      "preto": "Noir",
+      "branco": "Blanc",
+      "cinza": "Gris"
+    }
+  },
+  "branding": {
+    "title": "Marque du groupe",
+    "description": "Nom et logo de votre groupe — affichés sur la scène karaoké et dans les annonces du tableau.",
+    "bandNameLabel": "Nom du groupe",
+    "bandNamePlaceholder": "ex. : Le Groupe de Zé",
+    "save": "Enregistrer le nom",
+    "saving": "Enregistrement…",
+    "logoLabel": "Logo",
+    "noLogo": "Aucun logo envoyé.",
+    "uploadLogo": "Envoyer un logo",
+    "uploading": "Envoi…",
+    "removeLogo": "Retirer le logo",
+    "removing": "Retrait…"
+  },
+  "color": {
+    "title": "Couleurs du karaoké",
+    "description": "Palette utilisée sur la scène de karaoké et sur la partition — s'applique à toutes les chansons.",
+    "fields": {
+      "sweepSung": "Paroles déjà chantées",
+      "sweepUpcoming": "Paroles à venir",
+      "amber": "Accords / sections",
+      "sample": "Sample / solo automatique",
+      "ok": "Solo / riff / tablature"
+    },
+    "save": "Enregistrer les couleurs",
+    "saving": "Enregistrement…",
+    "restoreDefault": "Restaurer les valeurs par défaut"
+  },
+  "pedal": {
+    "title": "Pédale (foot switch)",
+    "description": "Détectez la touche envoyée par votre pédale USB (la plupart des pédales foot switch se comportent comme un clavier) — s'applique à toute chanson avec le mode pédale activé, configuré dans l'onglet Audio de l'éditeur.",
+    "currentKey": "Touche actuelle :",
+    "noneConfigured": "aucune configurée",
+    "listening": "Appuyez sur la pédale maintenant…",
+    "detect": "Détecter la touche"
+  },
+  "billing": {
+    "title": "Abonnement",
+    "status": "Statut :",
+    "plan": "forfait",
+    "renewsOn": "renouvellement le {{date}}",
+    "usage": "{{used}} sur {{max}} setlists · {{storageUsed}} sur {{storageMax}} MB de stockage",
+    "viewPlans": "Voir les forfaits",
+    "manage": "Gérer l'abonnement",
+    "opening": "Ouverture…",
+    "portalError": "Impossible d'ouvrir le portail de facturation."
+  },
+  "userAdmin": {
+    "title": "Administration des utilisateurs",
+    "description": "Zone visible uniquement par les administrateurs — créez de nouveaux comptes, réinitialisez les mots de passe et suivez l'utilisation de chacun. Le temps passé à l'écran n'est pas encore mesuré.",
+    "resetPassword": "Réinitialiser le mot de passe",
+    "delete": "Supprimer",
+    "deleting": "Suppression…",
+    "confirmDelete": "Supprimer l'utilisateur {{username}} ? Ses chansons et setlists continuent d'exister, simplement sans propriétaire.",
+    "accessCount_one": "{{count}} accès",
+    "accessCount_other": "{{count}} accès",
+    "lastLogin": "dernière connexion : {{date}}",
+    "never": "jamais",
+    "setlistsCount_one": "{{count}} setlist",
+    "setlistsCount_other": "{{count}} setlists",
+    "favoritesCount_one": "{{count}} favorite",
+    "favoritesCount_other": "{{count}} favorites",
+    "newPasswordPlaceholder": "Nouveau mot de passe (min. 6 caractères)",
+    "confirm": "Confirmer",
+    "saving": "Enregistrement…",
+    "deleteUserError": "Impossible de supprimer l'utilisateur.",
+    "resetPasswordError": "Impossible de réinitialiser le mot de passe.",
+    "name": "Nom",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "admin": "Administrateur",
+    "createUser": "Créer un utilisateur",
+    "creating": "Création…",
+    "createUserError": "Impossible de créer l'utilisateur."
+  },
+  "plansAdmin": {
+    "title": "Forfaits",
+    "description": "Forfaits payants du système — chacun définit combien de setlists et combien d'espace audio un abonné a le droit d'utiliser. Créer un forfait (ou modifier le prix d'un forfait existant) synchronise automatiquement un Produit/Prix sur Stripe.",
+    "archive": "Archiver",
+    "reactivate": "Réactiver",
+    "archived": "archivé",
+    "setlistsMax": "Setlists (max.)",
+    "storageMb": "Stockage (MB)",
+    "priceMonthly": "Prix mensuel (R$)",
+    "save": "Enregistrer",
+    "saving": "Enregistrement…",
+    "saveError": "Impossible d'enregistrer.",
+    "name": "Nom",
+    "namePlaceholder": "ex. : Hobby",
+    "createPlan": "Créer un forfait",
+    "creating": "Création…",
+    "createPlanError": "Impossible de créer le forfait."
+  },
+  "normalizeLibrary": {
+    "title": "Normaliser toute la bibliothèque",
+    "description": "Uniformise l'en-tête, la notation des accords et les libellés de section de toute la bibliothèque, chanson par chanson — le traitement se fait par petits lots directement depuis le navigateur (pas de file d'attente en arrière-plan sur le serveur), ce qui peut donc prendre du temps. Vous pouvez arrêter et reprendre plus tard : la progression n'est pas perdue.",
+    "allNormalized": "Toute la bibliothèque est normalisée.",
+    "remainingOfTotal_one": "{{count}} chanson restante sur {{total}}",
+    "remainingOfTotal_other": "{{count}} chansons restantes sur {{total}}",
+    "start": "Démarrer",
+    "stop": "Arrêter",
+    "error": "Échec de la normalisation par lot."
+  },
+  "storageRecompute": {
+    "title": "Recalculer la taille des fichiers audio",
+    "description": "Les pistes et samples importés avant cette version n'ont pas leur taille enregistrée (les nouveaux imports l'enregistrent déjà immédiatement) — ceci la complète par lot via une requête de taille sur chaque blob, sans télécharger l'audio entier. Nécessaire pour calculer l'utilisation du stockage par forfait.",
+    "allDone": "Tous les fichiers ont déjà leur taille enregistrée.",
+    "remainingOfTotal_one": "{{count}} fichier restant sur {{total}}",
+    "remainingOfTotal_other": "{{count}} fichiers restants sur {{total}}",
+    "start": "Démarrer",
+    "stop": "Arrêter",
+    "error": "Échec du recalcul par lot."
+  }
+}

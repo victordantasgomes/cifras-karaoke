@@ -1,0 +1,24 @@
+{
+  "loading": "Caricamento…",
+  "renameHint": "Clicca per rinominare",
+  "itemCount_one": "{{count}} brano",
+  "itemCount_other": "{{count}} brani",
+  "ownerHint": " · trascina oppure usa ▲▼ per riordinare",
+  "readOnlyHint": " · di un altro utente — sola lettura",
+  "print": "Stampa",
+  "continuePlaylist": "▶ Continua (brano {{current}}/{{total}})",
+  "stopPlaylist": "■ Ferma la playlist",
+  "playPlaylist_one": "▶ Riproduci playlist ({{count}} brano)",
+  "playPlaylist_other": "▶ Riproduci playlist ({{count}} brani)",
+  "searchPlaceholder": "Cerca un brano da aggiungere…",
+  "searchEmpty": "Nessun brano trovato per \"{{query}}\".",
+  "add": "aggiungi",
+  "empty": "Scaletta vuota. Cerca dei brani qui sopra per costruire il repertorio.",
+  "moveUp": "Sposta su",
+  "moveDown": "Sposta giù",
+  "notFound": "⚠ brano non trovato",
+  "playFromHere": "Riproduci la playlist da qui",
+  "errors": {
+    "save": "Impossibile salvare la scaletta."
+  }
+}

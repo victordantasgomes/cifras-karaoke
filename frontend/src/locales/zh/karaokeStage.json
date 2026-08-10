@@ -1,0 +1,36 @@
+{
+  "loading": "加载歌词谱中…",
+  "header": {
+    "playlistPrefix": "歌单：{{name}} · 第 {{current}}/{{total}} 首 · ",
+    "tom": "调：{{tom}}",
+    "synthBadge": "合成伴奏"
+  },
+  "status": {
+    "audioLine": "第 {{current}}/{{total}} 行 · {{rate}}x",
+    "legacyLine": "第 {{current}}/{{total}} 行 · {{seconds}}秒/行",
+    "loadingAudio": "加载音频中…",
+    "zoom": "缩放 {{percent}}%"
+  },
+  "controls": {
+    "prevSong": "上一首",
+    "restart": "重新开始 (R)",
+    "prevLine": "上一行 (←)",
+    "playPause": "播放/暂停 (空格)",
+    "skipCountdown": "跳过 ({{count}})",
+    "pause": "暂停",
+    "play": "播放",
+    "nextLine": "下一行 (→)",
+    "slower": "更慢 (↓)",
+    "faster": "更快 (↑)",
+    "zoomOut": "缩小 (-)",
+    "zoomIn": "放大 (+)",
+    "nextSong": "下一首",
+    "stopPlaylist": "停止播放歌单",
+    "fullscreen": "全屏 (F)",
+    "back": "返回 (ESC)",
+    "exit": "退出"
+  },
+  "countdown": {
+    "hint": "准备…（点击或按空格跳过）"
+  }
+}

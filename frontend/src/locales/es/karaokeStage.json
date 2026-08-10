@@ -1,0 +1,36 @@
+{
+  "loading": "Cargando cifrado…",
+  "header": {
+    "playlistPrefix": "Setlist: {{name}} · canción {{current}}/{{total}} · ",
+    "tom": "Tono: {{tom}}",
+    "synthBadge": "acompañamiento sintetizado"
+  },
+  "status": {
+    "audioLine": "línea {{current}}/{{total}} · {{rate}}x",
+    "legacyLine": "línea {{current}}/{{total}} · {{seconds}}s/línea",
+    "loadingAudio": "cargando audio…",
+    "zoom": "zoom {{percent}}%"
+  },
+  "controls": {
+    "prevSong": "Canción anterior",
+    "restart": "Reiniciar (R)",
+    "prevLine": "Línea anterior (←)",
+    "playPause": "Play/Pause (Espacio)",
+    "skipCountdown": "Saltar ({{count}})",
+    "pause": "Pausar",
+    "play": "Reproducir",
+    "nextLine": "Línea siguiente (→)",
+    "slower": "Más lento (↓)",
+    "faster": "Más rápido (↑)",
+    "zoomOut": "Reducir zoom (-)",
+    "zoomIn": "Aumentar zoom (+)",
+    "nextSong": "Siguiente canción",
+    "stopPlaylist": "Detener playlist",
+    "fullscreen": "Pantalla completa (F)",
+    "back": "Volver (ESC)",
+    "exit": "Salir"
+  },
+  "countdown": {
+    "hint": "Prepárate… (clic o Espacio para saltar)"
+  }
+}

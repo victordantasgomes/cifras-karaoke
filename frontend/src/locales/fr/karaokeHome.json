@@ -1,0 +1,11 @@
+{
+  "title": "Karaoké",
+  "subtitle": "Choisissez une chanson ou une setlist et montez sur scène.",
+  "continueSection": "Reprendre où vous en étiez",
+  "emptyRecent": "Jouez une chanson pour qu'elle apparaisse ici.",
+  "play": "▶ jouer",
+  "setlistsSection": "Setlists",
+  "emptySetlists": "Aucune setlist créée.",
+  "songCount_one": "{{count}} chanson",
+  "songCount_other": "{{count}} chansons"
+}

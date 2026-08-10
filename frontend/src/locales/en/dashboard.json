@@ -1,0 +1,18 @@
+{
+  "title": "Dashboard",
+  "subtitle": "An overview of your repertoire.",
+  "loading": "Loading…",
+  "empty": "Nothing here yet.",
+  "stats": { "songs": "Songs", "setlists": "Setlists", "favorites": "Favorites", "radar": "On your radar" },
+  "sections": {
+    "mostPlayed": "Most played",
+    "recent": "Recently viewed",
+    "favorites": "Favorites",
+    "mostPlayedArtists": "Most played artists",
+    "newlyAdded": "Newly added",
+    "yourFavorites": "Your favorite artists and genres"
+  },
+  "emptyArtists": "No artists played yet.",
+  "noFavoritesHint": "You haven't favorited any artist or genre yet.",
+  "goToFavorites": "Choose favorites →"
+}

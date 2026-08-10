@@ -1,0 +1,60 @@
+{
+  "title": "Forma una band",
+  "subtitle": "Annunci di band che cercano musicisti e musicisti che cercano una band.",
+  "backToApp": "Torna alla dashboard",
+  "login": "Accedi",
+  "signup": "Crea account",
+  "newPost": "+ Crea annuncio",
+  "myPosts": "I miei annunci",
+  "empty": "Nessun annuncio attivo al momento.",
+  "emptyMine": "Non hai ancora creato nessun annuncio.",
+  "inactiveBadge": "inattivo",
+  "form": {
+    "createTitle": "Nuovo annuncio",
+    "editTitle": "Modifica annuncio",
+    "bandName": "Nome della band",
+    "genero": "Genere musicale",
+    "style": "Stile (testo libero)",
+    "skillLevel": "Livello tecnico",
+    "skillLevelPlaceholder": "Seleziona…",
+    "skillLevels": {
+      "iniciante": "Principiante",
+      "intermediario": "Intermedio",
+      "avancado": "Avanzato",
+      "profissional": "Professionista"
+    },
+    "goal": "Obiettivo",
+    "goalPlaceholder": "Seleziona…",
+    "goals": {
+      "hobby": "Hobby / divertimento",
+      "ensaios_regulares": "Prove regolari",
+      "shows_pagos": "Concerti a pagamento",
+      "gravacao": "Registrazione / studio"
+    },
+    "rehearsalDays": "Giorni di prova",
+    "rehearsalDaysPlaceholder": "es.: martedì, giovedì",
+    "instrumentsNeeded": "Strumenti richiesti",
+    "instrumentsPlaceholder": "es.: basso, batteria",
+    "bio": "Info sulla band",
+    "contactInfo": "Contatto",
+    "contactPlaceholder": "es.: WhatsApp, e-mail, Instagram",
+    "linkSetlists": "Collega scalette (opzionale)",
+    "submit": "Pubblica annuncio",
+    "saving": "Salvataggio…",
+    "saveChanges": "Salva modifiche",
+    "cancel": "Annulla"
+  },
+  "card": {
+    "contact": "Contatto:",
+    "rehearsalDays": "Giorni di prova:",
+    "instrumentsNeeded": "Cercasi:",
+    "deactivate": "Disattiva",
+    "activate": "Riattiva",
+    "edit": "Modifica"
+  },
+  "errors": {
+    "create": "Impossibile pubblicare l'annuncio.",
+    "update": "Impossibile salvare le modifiche.",
+    "toggle": "Impossibile modificare l'annuncio."
+  }
+}

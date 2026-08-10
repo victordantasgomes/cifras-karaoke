@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { useQuery, useMutation } from '@tanstack/react-query'
+import { useTranslation } from 'react-i18next'
 import api from '../services/api'
 import { useDebounce } from '../hooks/useDebounce'
 import ChordFretDiagram from '../components/ChordFretDiagram'
@@ -10,11 +11,7 @@ import {
   stringVoicingToMidi, pianoVoicingToMidi,
 } from '../utils/chordPlayer'
 
-const INSTRUMENTS = [
-  { value: 'violao', label: 'Violão' },
-  { value: 'ukulele', label: 'Ukulelê' },
-  { value: 'teclado', label: 'Teclado' },
-]
+const INSTRUMENTS = ['violao', 'ukulele', 'teclado']
 
 const FAVORITES_KEY = 'chordDictionaryFavorites'
 
@@ -62,6 +59,7 @@ function downloadSvg(svgEl, filename) {
  * curadoria nem persistência por usuário no backend para isso ainda.
  */
 export default function ChordDictionary() {
+  const { t } = useTranslation('chordDictionary')
   const [instrumento, setInstrumento] = useState('violao')
   const [q, setQ] = useState('')
   const debouncedQ = useDebounce(q)
@@ -178,61 +176,58 @@ export default function ChordDictionary() {
 
   return (
     <>
-      <h1 className="page-title">Dicionário de acordes</h1>
-      <div className="page-sub">Violão, ukulelê e teclado — busque um acorde, veja as variações e ouça.</div>
+      <h1 className="page-title">{t('title')}</h1>
+      <div className="page-sub">{t('subtitle')}</div>
 
       <div className="card chord-dict-banner no-print">
-        As digitações de violão e ukulelê deste dicionário foram normalizadas por fórmula harmônica e critérios
-        automatizados de tocabilidade — não foram dedilhadas à mão por um músico. Recomendamos uma etapa de
-        curadoria/validação musical antes de tratar como referência editorial definitiva. As posições de teclado
-        derivam diretamente da teoria musical (fundamental + inversões), portanto são verificáveis por construção.
+        {t('banner')}
       </div>
 
       <div className="row no-print" style={{ marginBottom: 14 }}>
         {INSTRUMENTS.map((i) => (
-          <button key={i.value} className={`btn ${instrumento === i.value ? 'primary' : 'ghost'}`}
-            onClick={() => setInstrumento(i.value)}>{i.label}</button>
+          <button key={i} className={`btn ${instrumento === i ? 'primary' : 'ghost'}`}
+            onClick={() => setInstrumento(i)}>{t(`instruments.${i}`)}</button>
         ))}
       </div>
 
       <div className="row no-print" style={{ marginBottom: 16 }}>
-        <input className="input" style={{ maxWidth: 260 }} placeholder="Buscar acorde (ex.: Cmaj7, Dm7, F#)"
+        <input className="input" style={{ maxWidth: 260 }} placeholder={t('searchPlaceholder')}
           value={q} onChange={(e) => setQ(e.target.value)} />
         <select className="input" style={{ maxWidth: 130 }} value={filtros.tonica}
           onChange={(e) => setFiltros({ ...filtros, tonica: e.target.value })}>
-          <option value="">Tônica</option>
-          {facetas?.tonicas.map((t) => <option key={t} value={t}>{t}</option>)}
+          <option value="">{t('filters.tonica')}</option>
+          {facetas?.tonicas.map((tn) => <option key={tn} value={tn}>{tn}</option>)}
         </select>
         <select className="input" style={{ maxWidth: 240 }} value={filtros.qualidade}
           onChange={(e) => setFiltros({ ...filtros, qualidade: e.target.value })}>
-          <option value="">Qualidade</option>
+          <option value="">{t('filters.qualidade')}</option>
           {facetas?.qualidades.map((qq) => <option key={qq} value={qq}>{qq}</option>)}
         </select>
         {instrumento !== 'teclado' && (
           <>
             <select className="input" style={{ maxWidth: 160 }} value={filtros.dificuldade}
               onChange={(e) => setFiltros({ ...filtros, dificuldade: e.target.value })}>
-              <option value="">Dificuldade</option>
+              <option value="">{t('filters.dificuldade')}</option>
               {facetas?.dificuldades?.map((d) => <option key={d} value={d}>{d}</option>)}
             </select>
             <select className="input" style={{ maxWidth: 150 }} value={filtros.pestana}
               onChange={(e) => setFiltros({ ...filtros, pestana: e.target.value })}>
-              <option value="">Pestana</option>
-              <option value="1">Com pestana</option>
-              <option value="0">Sem pestana</option>
+              <option value="">{t('filters.pestana')}</option>
+              <option value="1">{t('filters.pestanaWith')}</option>
+              <option value="0">{t('filters.pestanaWithout')}</option>
             </select>
           </>
         )}
         <label className="row" style={{ gap: 6 }}>
           <input type="checkbox" checked={favoritosOnly} onChange={(e) => setFavoritosOnly(e.target.checked)} />
-          Só favoritas
+          {t('favoritesOnly')}
         </label>
       </div>
 
       <div className="chord-dict-layout">
         <div className="card chord-dict-list no-print">
-          {isLoading && <div className="empty">Carregando…</div>}
-          {!isLoading && grouped.length === 0 && <div className="empty">Nenhum acorde encontrado.</div>}
+          {isLoading && <div className="empty">{t('loading')}</div>}
+          {!isLoading && grouped.length === 0 && <div className="empty">{t('empty')}</div>}
           {grouped.map((r) => {
             const key = `${instrumento}:${r.acorde}`
             return (
@@ -243,7 +238,7 @@ export default function ChordDictionary() {
                   <div className="meta">{r.tonica_pt} · {r.qualidade}</div>
                 </div>
                 <button type="button" className="fav-toggle"
-                  onClick={(e) => { e.stopPropagation(); toggleFavorite(key) }} title="Favoritar">
+                  onClick={(e) => { e.stopPropagation(); toggleFavorite(key) }} title={t('favoriteToggleTitle')}>
                   {favoritos.has(key) ? '★' : '☆'}
                 </button>
               </div>
@@ -252,7 +247,7 @@ export default function ChordDictionary() {
         </div>
 
         <div className="card chord-dict-detail">
-          {!atual && <div className="empty">Selecione um acorde na lista.</div>}
+          {!atual && <div className="empty">{t('selectPrompt')}</div>}
           {atual && (
             <>
               <div className="row" style={{ justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap' }}>
@@ -261,16 +256,16 @@ export default function ChordDictionary() {
                     {tituloAcorde}
                     {atual.acorde_enarmonico && (
                       <button type="button" className="btn ghost" style={{ marginLeft: 10, fontSize: 12, padding: '4px 8px' }}
-                        onClick={() => setEnarmonico((v) => !v)} title="Alternar grafia sustenido/bemol">
+                        onClick={() => setEnarmonico((v) => !v)} title={t('enharmonicToggleTitle')}>
                         ⇄ {enarmonico ? selecionado : atual.acorde_enarmonico}
                       </button>
                     )}
                   </h2>
                   <div className="page-sub" style={{ margin: '2px 0 0' }}>
-                    {atual.tonica_pt} · {atual.qualidade} · fórmula {atual.formula_intervalar}
+                    {t('chordSummary', { tonica: atual.tonica_pt, qualidade: atual.qualidade, formula: atual.formula_intervalar })}
                   </div>
                 </div>
-                <button className="btn" onClick={() => toggleFavorite(favKey)}>{isFav ? '★ Favorito' : '☆ Favoritar'}</button>
+                <button className="btn" onClick={() => toggleFavorite(favKey)}>{isFav ? t('favoriteOn') : t('favoriteOff')}</button>
               </div>
 
               <div className="row" style={{ margin: '14px 0' }}>
@@ -278,8 +273,8 @@ export default function ChordDictionary() {
                   disabled={lista.length < 2}>‹</button>
                 <span className="meta">
                   {instrumento === 'teclado'
-                    ? `${atual.inversao_nome} (${(variacaoIdx % lista.length) + 1}/${lista.length})`
-                    : `Variação ${(variacaoIdx % lista.length) + 1} de ${lista.length}`}
+                    ? t('variationNamed', { name: atual.inversao_nome, current: (variacaoIdx % lista.length) + 1, total: lista.length })
+                    : t('variation', { current: (variacaoIdx % lista.length) + 1, total: lista.length })}
                 </span>
                 <button className="btn" onClick={() => setVariacaoIdx((i) => (i + 1) % lista.length)}
                   disabled={lista.length < 2}>›</button>
@@ -287,11 +282,11 @@ export default function ChordDictionary() {
                 {instrumento !== 'teclado' && (
                   <label className="row" style={{ gap: 6 }}>
                     <input type="checkbox" checked={mirror} onChange={(e) => setMirror(e.target.checked)} />
-                    Modo canhoto
+                    {t('leftHandedMode')}
                   </label>
                 )}
-                <button className="btn" onClick={ouvirAcorde}>🔊 Ouvir acorde</button>
-                <button className="btn" onClick={baixarSvg}>⭳ Baixar SVG</button>
+                <button className="btn" onClick={ouvirAcorde}>{t('listen')}</button>
+                <button className="btn" onClick={baixarSvg}>{t('downloadSvg')}</button>
               </div>
 
               <div className="chord-dict-diagram-wrap" ref={diagramRef}>
@@ -306,9 +301,9 @@ export default function ChordDictionary() {
 
               <div className="row" style={{ flexWrap: 'wrap', gap: 8, margin: '12px 0' }}>
                 {instrumento !== 'teclado' && <span className="chip">{atual.dificuldade}</span>}
-                {instrumento !== 'teclado' && atual.pestana?.tem && <span className="chip">Pestana</span>}
-                <span className="chip">Baixo: {instrumento === 'teclado' ? atual.baixo_sugerido : atual.baixo}</span>
-                <span className="chip">Notas: {atual.notas.filter((n) => n !== 'X').join(' · ')}</span>
+                {instrumento !== 'teclado' && atual.pestana?.tem && <span className="chip">{t('capoChip')}</span>}
+                <span className="chip">{t('bassChip', { value: instrumento === 'teclado' ? atual.baixo_sugerido : atual.baixo })}</span>
+                <span className="chip">{t('notesChip', { value: atual.notas.filter((n) => n !== 'X').join(' · ') })}</span>
               </div>
 
               {instrumento !== 'teclado' && atual.pestana?.detalhe && (
@@ -316,18 +311,18 @@ export default function ChordDictionary() {
               )}
               {instrumento === 'teclado' && (
                 <div className="page-sub" style={{ margin: '0 0 10px' }}>
-                  Mão esquerda: {atual.mao_esquerda_sugerida} · Mão direita: {atual.mao_direita_sugerida} · {atual.oitava_referencia}
+                  {t('handsInfo', { left: atual.mao_esquerda_sugerida, right: atual.mao_direita_sugerida, octave: atual.oitava_referencia })}
                 </div>
               )}
 
               <div className="row no-print" style={{ margin: '10px 0' }}>
-                <span style={{ color: 'var(--muted)', fontSize: 13 }}>Transpor:</span>
-                <button className="btn" onClick={() => transpor.mutate(-1)}>−1 semitom</button>
-                <button className="btn" onClick={() => transpor.mutate(1)}>+1 semitom</button>
+                <span style={{ color: 'var(--muted)', fontSize: 13 }}>{t('transpose')}</span>
+                <button className="btn" onClick={() => transpor.mutate(-1)}>{t('semitoneDown')}</button>
+                <button className="btn" onClick={() => transpor.mutate(1)}>{t('semitoneUp')}</button>
                 <select className="input" style={{ width: 150 }} value=""
                   onChange={(e) => e.target.value && irParaTom(e.target.value)}>
-                  <option value="">Ir para o tom…</option>
-                  {facetas?.tonicas.map((t) => <option key={t} value={t}>{t}</option>)}
+                  <option value="">{t('goToKey')}</option>
+                  {facetas?.tonicas.map((tn) => <option key={tn} value={tn}>{tn}</option>)}
                 </select>
               </div>
             </>
@@ -337,7 +332,7 @@ export default function ChordDictionary() {
 
       <div className="card no-print" style={{ marginTop: 18 }}>
         <button type="button" className="btn ghost" onClick={() => setShowFormulas((v) => !v)}>
-          {showFormulas ? '▾' : '▸'} Fórmulas de qualidades de acorde
+          {showFormulas ? '▾' : '▸'} {t('formulasToggle')}
         </button>
         {showFormulas && qualidadesMap && (
           <div className="chord-dict-formulas">

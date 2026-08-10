@@ -1,0 +1,27 @@
+{
+  "title": "Synchronisieren",
+  "hint": {
+    "clickStep": "Klicke auf einen Schritt in der Liste unten, um ihn auszuwählen und dorthin zu springen",
+    "dragMarker": "ziehe einen Marker auf der Wellenform, um die Zeit anzupassen",
+    "spaceMark": "die <strong>Leertaste</strong> markiert den aktuellen Schritt und springt zum nächsten"
+  },
+  "generatingWaveform": "Wellenform wird erzeugt…",
+  "pause": "⏸ Pausieren",
+  "play": "▶ Abspielen",
+  "stop": "⏹ Stoppen",
+  "speed": "Geschwindigkeit:",
+  "zoom": "Zoom:",
+  "lineFallback": "Zeile {{number}}",
+  "stagePreview": "Bühnenvorschau (Scan)",
+  "markStep": "⏱ Schritt markieren",
+  "previous": "← zurück",
+  "next": "weiter →",
+  "markedCount": "{{marked}} von {{total}} Abschnitten markiert",
+  "notMarked": "markiert nicht",
+  "pauseMarker": "· Pause ·",
+  "blockFallback": "(Block)",
+  "blankLine": "(leere Zeile)",
+  "lines_one": "{{count}} Zeile",
+  "lines_other": "{{count}} Zeilen",
+  "uploadHint": "Lade oben einen Track hoch, um das Akkordblatt synchronisieren zu können."
+}

@@ -1,0 +1,141 @@
+{
+  "pageTitle": "Configuración",
+  "pageSub": "Preferencias visuales.",
+  "subscriptionStatus": {
+    "none": "Sin suscripción",
+    "trialing": "Periodo de prueba",
+    "active": "Activa",
+    "past_due": "Pago pendiente",
+    "canceled": "Cancelada"
+  },
+  "appearance": {
+    "title": "Apariencia",
+    "description": "Tema y color de acento de la interfaz — independiente de los colores de la hoja de acordes, configurados abajo.",
+    "theme": "Tema",
+    "themes": { "dark": "Oscuro", "light": "Claro" },
+    "accent": "Color de acento",
+    "accents": {
+      "azul": "Azul",
+      "vermelho": "Rojo",
+      "verde": "Verde",
+      "rosa": "Rosa",
+      "lilas": "Lila",
+      "preto": "Negro",
+      "branco": "Blanco",
+      "cinza": "Gris"
+    }
+  },
+  "branding": {
+    "title": "Marca de la banda",
+    "description": "Nombre y logo de tu banda — aparecen en el escenario de karaoke y en las publicaciones del tablón.",
+    "bandNameLabel": "Nombre de la banda",
+    "bandNamePlaceholder": "ej.: Banda del Zé",
+    "save": "Guardar nombre",
+    "saving": "Guardando…",
+    "logoLabel": "Logo",
+    "noLogo": "No se ha subido ningún logo.",
+    "uploadLogo": "Subir logo",
+    "uploading": "Subiendo…",
+    "removeLogo": "Quitar logo",
+    "removing": "Quitando…"
+  },
+  "color": {
+    "title": "Colores del karaoke",
+    "description": "Paleta usada en el escenario de karaoke y en la hoja de acordes — se aplica a todas las canciones.",
+    "fields": {
+      "sweepSung": "Letra ya cantada",
+      "sweepUpcoming": "Letra por venir",
+      "amber": "Acordes / secciones",
+      "sample": "Sample / solo automático",
+      "ok": "Solo / riff / tablatura"
+    },
+    "save": "Guardar colores",
+    "saving": "Guardando…",
+    "restoreDefault": "Restaurar valores predeterminados"
+  },
+  "pedal": {
+    "title": "Pedal (foot switch)",
+    "description": "Detecta la tecla que envía tu pedal USB (la mayoría de los pedales de foot switch se comportan como un teclado) — se aplica a cualquier canción con el modo de pedal activado, configurado en la pestaña Audio del editor.",
+    "currentKey": "Tecla actual:",
+    "noneConfigured": "ninguna configurada",
+    "listening": "Pulsa el pedal ahora…",
+    "detect": "Detectar tecla"
+  },
+  "billing": {
+    "title": "Suscripción",
+    "status": "Estado:",
+    "plan": "plan",
+    "renewsOn": "se renueva el {{date}}",
+    "usage": "{{used}} de {{max}} listas de repertorio · {{storageUsed}} de {{storageMax}} MB de almacenamiento",
+    "viewPlans": "Ver planes",
+    "manage": "Gestionar suscripción",
+    "opening": "Abriendo…",
+    "portalError": "No se pudo abrir el portal de facturación."
+  },
+  "userAdmin": {
+    "title": "Administración de usuarios",
+    "description": "Área visible solo para administradores — crea nuevas cuentas, restablece contraseñas y controla el uso de cada una. El tiempo de permanencia en pantalla todavía no se mide.",
+    "resetPassword": "Restablecer contraseña",
+    "delete": "Eliminar",
+    "deleting": "Eliminando…",
+    "confirmDelete": "¿Eliminar al usuario {{username}}? Sus canciones y listas de repertorio siguen existiendo, solo que sin dueño.",
+    "accessCount_one": "{{count}} acceso",
+    "accessCount_other": "{{count}} accesos",
+    "lastLogin": "último acceso: {{date}}",
+    "never": "nunca",
+    "setlistsCount_one": "{{count}} lista de repertorio",
+    "setlistsCount_other": "{{count}} listas de repertorio",
+    "favoritesCount_one": "{{count}} favorita",
+    "favoritesCount_other": "{{count}} favoritas",
+    "newPasswordPlaceholder": "Nueva contraseña (mín. 6 caracteres)",
+    "confirm": "Confirmar",
+    "saving": "Guardando…",
+    "deleteUserError": "No se pudo eliminar al usuario.",
+    "resetPasswordError": "No se pudo restablecer la contraseña.",
+    "name": "Nombre",
+    "username": "Usuario",
+    "password": "Contraseña",
+    "admin": "Administrador",
+    "createUser": "Crear usuario",
+    "creating": "Creando…",
+    "createUserError": "No se pudo crear el usuario."
+  },
+  "plansAdmin": {
+    "title": "Planes",
+    "description": "Planes de pago del sistema — cada uno define cuántas listas de repertorio y cuánto espacio de audio tiene derecho un suscriptor. Crear un plan (o editar el precio de uno existente) sincroniza automáticamente un Producto/Precio en Stripe.",
+    "archive": "Archivar",
+    "reactivate": "Reactivar",
+    "archived": "archivado",
+    "setlistsMax": "Listas de repertorio (máx.)",
+    "storageMb": "Almacenamiento (MB)",
+    "priceMonthly": "Precio mensual (R$)",
+    "save": "Guardar",
+    "saving": "Guardando…",
+    "saveError": "No se pudo guardar.",
+    "name": "Nombre",
+    "namePlaceholder": "ej.: Hobby",
+    "createPlan": "Crear plan",
+    "creating": "Creando…",
+    "createPlanError": "No se pudo crear el plan."
+  },
+  "normalizeLibrary": {
+    "title": "Normalizar todo el acervo",
+    "description": "Estandariza encabezado, notación de acordes y etiquetas de sección de toda la biblioteca, canción por canción — procesa en lotes pequeños directamente desde el navegador (sin cola en segundo plano en el servidor), así que puede tardar un tiempo. Se puede detener y continuar después: el progreso no se pierde.",
+    "allNormalized": "Todo el acervo está normalizado.",
+    "remainingOfTotal_one": "{{count}} canción restante de {{total}}",
+    "remainingOfTotal_other": "{{count}} canciones restantes de {{total}}",
+    "start": "Iniciar",
+    "stop": "Detener",
+    "error": "Error al normalizar en lote."
+  },
+  "storageRecompute": {
+    "title": "Recalcular el tamaño de los archivos de audio",
+    "description": "Las pistas y samples subidos antes de esta versión no tienen el tamaño registrado (las subidas nuevas ya lo registran al instante) — esto lo completa en lote mediante una consulta de tamaño contra cada blob, sin descargar el audio completo. Necesario para calcular el uso de almacenamiento por plan.",
+    "allDone": "Todos los archivos ya tienen el tamaño registrado.",
+    "remainingOfTotal_one": "{{count}} archivo restante de {{total}}",
+    "remainingOfTotal_other": "{{count}} archivos restantes de {{total}}",
+    "start": "Iniciar",
+    "stop": "Detener",
+    "error": "Error al recalcular en lote."
+  }
+}

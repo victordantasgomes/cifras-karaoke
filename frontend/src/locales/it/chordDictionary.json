@@ -1,0 +1,45 @@
+{
+  "title": "Dizionario degli accordi",
+  "subtitle": "Chitarra, ukulele e tastiera — cerca un accordo, guarda le varianti e ascoltalo.",
+  "banner": "Le diteggiature di chitarra e ukulele di questo dizionario sono state generate tramite formula armonica e criteri automatizzati di suonabilità — non sono state impostate a mano da un musicista. Consigliamo una fase di curatela/validazione musicale prima di trattarle come riferimento editoriale definitivo. Le posizioni per tastiera derivano direttamente dalla teoria musicale (fondamentale + rivolti), quindi sono verificabili per costruzione.",
+  "instruments": {
+    "violao": "Chitarra",
+    "ukulele": "Ukulele",
+    "teclado": "Tastiera"
+  },
+  "searchPlaceholder": "Cerca un accordo (es.: Cmaj7, Dm7, F#)",
+  "filters": {
+    "tonica": "Tonica",
+    "qualidade": "Qualità",
+    "dificuldade": "Difficoltà",
+    "pestana": "Barré",
+    "pestanaWith": "Con barré",
+    "pestanaWithout": "Senza barré"
+  },
+  "favoritesOnly": "Solo preferiti",
+  "loading": "Caricamento…",
+  "empty": "Nessun accordo trovato.",
+  "favoriteToggleTitle": "Aggiungi ai preferiti",
+  "selectPrompt": "Seleziona un accordo dall'elenco.",
+  "enharmonicToggleTitle": "Alterna notazione diesis/bemolle",
+  "favoriteOn": "★ Preferito",
+  "favoriteOff": "☆ Aggiungi ai preferiti",
+  "chordSummary": "{{tonica}} · {{qualidade}} · formula {{formula}}",
+  "variation": "Variante {{current}} di {{total}}",
+  "variationNamed": "{{name}} ({{current}}/{{total}})",
+  "leftHandedMode": "Modalità mancino",
+  "listen": "🔊 Ascolta accordo",
+  "downloadSvg": "⭳ Scarica SVG",
+  "capoChip": "Barré",
+  "bassChip": "Basso: {{value}}",
+  "notesChip": "Note: {{value}}",
+  "handsInfo": "Mano sinistra: {{left}} · Mano destra: {{right}} · {{octave}}",
+  "transpose": "Trasponi:",
+  "semitoneDown": "−1 semitono",
+  "semitoneUp": "+1 semitono",
+  "goToKey": "Vai alla tonalità…",
+  "formulasToggle": "Formule delle qualità degli accordi",
+  "hoverCard": {
+    "vary": "varia accordo"
+  }
+}

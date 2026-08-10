@@ -1,0 +1,40 @@
+{
+  "titleLibrary": "Biblioteca",
+  "titleFavorites": "Favoritas",
+  "allUsersHint": " · de todos os usuários",
+  "loadingCount": "…",
+  "songCount_one": "{{count}} música",
+  "songCount_other": "{{count}} músicas",
+  "newSong": "+ Nova música",
+  "searchPlaceholder": "Buscar por título, autor, intérprete, tag…",
+  "allGenres": "Todos os gêneros",
+  "allArtists": "Todos os intérpretes",
+  "key": "Tom",
+  "onlyMine": "Somente minhas",
+  "empty": "Nenhuma música encontrada. Envie um TXT para começar.",
+  "otherUserTitle": "Você não criou esta música",
+  "otherUserChip": "de outro usuário",
+  "privateTitle": "Só você vê esta música",
+  "privateChip": "🔒 privada",
+  "prevPage": "← Anterior",
+  "pageOf": "página {{page}} de {{total}}",
+  "nextPage": "Próxima →",
+  "upload": {
+    "file": "Arquivo TXT",
+    "genre": "Gênero",
+    "artist": "Intérprete",
+    "submit": "Enviar",
+    "error": "Falha no envio. Verifique o arquivo."
+  },
+  "favorites": {
+    "title": "Artistas e gêneros favoritos",
+    "description": "Favorite um artista ou gênero pra ver todas as músicas dele aqui embaixo, mesmo sem favoritar cada uma.",
+    "artistsLabel": "Artistas",
+    "genresLabel": "Gêneros",
+    "addArtistPlaceholder": "+ Adicionar artista favorito…",
+    "addGenrePlaceholder": "+ Adicionar gênero favorito…",
+    "remove": "Remover {{name}} dos favoritos",
+    "noneArtists": "Nenhum artista favorito ainda.",
+    "noneGenres": "Nenhum gênero favorito ainda."
+  }
+}

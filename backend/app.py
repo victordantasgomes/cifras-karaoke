@@ -22,8 +22,12 @@ from services.ai_service import AIService
 from services.audio_service import AudioService
 from services.auth_service import AuthService
 from services.billing_service import BillingService
+from services.band_board_service import BandBoardService
+from services.branding_service import BrandingService
 from services.chord_dictionary_service import ChordDictionaryService
 from services.clip_queue_service import ClipQueueService
+from services.favorites_service import FavoritesService
+from services.admin_stats_service import AdminStatsService
 from services.history_service import HistoryService
 from services.karaoke_service import KaraokeService
 from services.plans_service import PlansService
@@ -32,6 +36,7 @@ from services.search_service import SearchService
 from services.setlist_service import SetlistService
 from services.settings_service import SettingsService
 from services.songs_service import SongsService
+from services.telemetry_service import TelemetryService
 
 
 class Services:
@@ -55,6 +60,11 @@ class Services:
         self.billing = BillingService()
         self.quota = QuotaService(setlists=self.setlists)
         self.setlists.quota = self.quota  # injetado depois pra evitar ciclo
+        self.telemetry = TelemetryService()
+        self.favorites = FavoritesService()
+        self.branding = BrandingService()
+        self.band_board = BandBoardService()
+        self.admin_stats = AdminStatsService(setlists=self.setlists, telemetry=self.telemetry)
         self.require_auth = require_auth(self.auth)
         self.require_admin = require_admin(self.auth)
         self.require_not_blocked = require_not_blocked(self.billing)

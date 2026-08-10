@@ -1,0 +1,36 @@
+{
+  "loading": "Loading chord sheet…",
+  "header": {
+    "playlistPrefix": "Setlist: {{name}} · song {{current}}/{{total}} · ",
+    "tom": "Key: {{tom}}",
+    "synthBadge": "synthesized backing track"
+  },
+  "status": {
+    "audioLine": "line {{current}}/{{total}} · {{rate}}x",
+    "legacyLine": "line {{current}}/{{total}} · {{seconds}}s/line",
+    "loadingAudio": "loading audio…",
+    "zoom": "zoom {{percent}}%"
+  },
+  "controls": {
+    "prevSong": "Previous song",
+    "restart": "Restart (R)",
+    "prevLine": "Previous line (←)",
+    "playPause": "Play/Pause (Space)",
+    "skipCountdown": "Skip ({{count}})",
+    "pause": "Pause",
+    "play": "Play",
+    "nextLine": "Next line (→)",
+    "slower": "Slower (↓)",
+    "faster": "Faster (↑)",
+    "zoomOut": "Zoom out (-)",
+    "zoomIn": "Zoom in (+)",
+    "nextSong": "Next song",
+    "stopPlaylist": "Stop playlist",
+    "fullscreen": "Fullscreen (F)",
+    "back": "Back (ESC)",
+    "exit": "Exit"
+  },
+  "countdown": {
+    "hint": "Get ready… (click or Space to skip)"
+  }
+}

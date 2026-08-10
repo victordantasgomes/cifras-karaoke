@@ -1,0 +1,45 @@
+{
+  "title": "和弦词典",
+  "subtitle": "木吉他、尤克里里和键盘——搜索和弦，查看指法变化并试听。",
+  "banner": "本词典中木吉他和尤克里里的指法是根据和声公式与自动化的可弹奏性标准生成的——并非由音乐人手动编排指法。我们建议在将其作为最终编辑参考之前，先经过音乐人工审核／校验。键盘的和弦位置则直接源自乐理（根音+转位），因此在构造上是可验证的。",
+  "instruments": {
+    "violao": "木吉他",
+    "ukulele": "尤克里里",
+    "teclado": "键盘"
+  },
+  "searchPlaceholder": "搜索和弦（例如：Cmaj7、Dm7、F#）",
+  "filters": {
+    "tonica": "根音",
+    "qualidade": "性质",
+    "dificuldade": "难度",
+    "pestana": "横按",
+    "pestanaWith": "带横按",
+    "pestanaWithout": "无横按"
+  },
+  "favoritesOnly": "仅收藏",
+  "loading": "加载中…",
+  "empty": "未找到和弦。",
+  "favoriteToggleTitle": "收藏",
+  "selectPrompt": "从列表中选择一个和弦。",
+  "enharmonicToggleTitle": "切换升号/降号记法",
+  "favoriteOn": "★ 已收藏",
+  "favoriteOff": "☆ 收藏",
+  "chordSummary": "{{tonica}} · {{qualidade}} · 公式 {{formula}}",
+  "variation": "变体 {{current}}/{{total}}",
+  "variationNamed": "{{name}}（{{current}}/{{total}}）",
+  "leftHandedMode": "左手模式",
+  "listen": "🔊 试听和弦",
+  "downloadSvg": "⭳ 下载 SVG",
+  "capoChip": "横按",
+  "bassChip": "低音：{{value}}",
+  "notesChip": "音符：{{value}}",
+  "handsInfo": "左手：{{left}} · 右手：{{right}} · {{octave}}",
+  "transpose": "变调：",
+  "semitoneDown": "−1 半音",
+  "semitoneUp": "+1 半音",
+  "goToKey": "转到调…",
+  "formulasToggle": "和弦性质公式",
+  "hoverCard": {
+    "vary": "查看其他指法"
+  }
+}

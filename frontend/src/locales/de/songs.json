@@ -1,0 +1,40 @@
+{
+  "titleLibrary": "Bibliothek",
+  "titleFavorites": "Favoriten",
+  "allUsersHint": " · von allen Nutzern",
+  "loadingCount": "…",
+  "songCount_one": "{{count}} Song",
+  "songCount_other": "{{count}} Songs",
+  "newSong": "+ Neuer Song",
+  "searchPlaceholder": "Suche nach Titel, Autor, Interpret, Tag…",
+  "allGenres": "Alle Genres",
+  "allArtists": "Alle Interpreten",
+  "key": "Tonart",
+  "onlyMine": "Nur meine",
+  "empty": "Keine Songs gefunden. Lade eine TXT-Datei hoch, um zu starten.",
+  "otherUserTitle": "Du hast diesen Song nicht erstellt",
+  "otherUserChip": "von einem anderen Nutzer",
+  "privateTitle": "Nur du siehst diesen Song",
+  "privateChip": "🔒 privat",
+  "prevPage": "← Zurück",
+  "pageOf": "Seite {{page}} von {{total}}",
+  "nextPage": "Weiter →",
+  "upload": {
+    "file": "TXT-Datei",
+    "genre": "Genre",
+    "artist": "Interpret",
+    "submit": "Hochladen",
+    "error": "Upload fehlgeschlagen. Überprüfe die Datei."
+  },
+  "favorites": {
+    "title": "Bevorzugte Interpreten und Genres",
+    "description": "Markiere einen Interpreten oder ein Genre als Favorit, um hier alle zugehörigen Songs zu sehen — auch ohne jeden einzeln zu favorisieren.",
+    "artistsLabel": "Interpreten",
+    "genresLabel": "Genres",
+    "addArtistPlaceholder": "+ Interpret als Favorit hinzufügen…",
+    "addGenrePlaceholder": "+ Genre als Favorit hinzufügen…",
+    "remove": "{{name}} aus den Favoriten entfernen",
+    "noneArtists": "Noch kein bevorzugter Interpret.",
+    "noneGenres": "Noch kein bevorzugtes Genre."
+  }
+}

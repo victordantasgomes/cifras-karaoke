@@ -1,0 +1,27 @@
+{
+  "header": {
+    "playlistPrefix": "Setlist: {{name}} · brano {{current}}/{{total}} · ",
+    "tom": "Tonalità: {{tom}}",
+    "scrollBadge": "scorrimento"
+  },
+  "status": {
+    "loadingAudio": "caricamento audio…",
+    "zoom": "zoom {{percent}}%"
+  },
+  "controls": {
+    "prevSong": "Brano precedente",
+    "restart": "Riavvia (R)",
+    "playPause": "Play/Pausa (Spazio)",
+    "pause": "Pausa",
+    "play": "Riproduci",
+    "slower": "Più lento",
+    "faster": "Più veloce",
+    "zoomOut": "Riduci zoom (-)",
+    "zoomIn": "Aumenta zoom (+)",
+    "nextSong": "Brano successivo",
+    "stopPlaylist": "Ferma playlist",
+    "fullscreen": "Schermo intero (F)",
+    "back": "Indietro (ESC)",
+    "exit": "Esci"
+  }
+}

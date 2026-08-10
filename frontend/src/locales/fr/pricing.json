@@ -1,0 +1,14 @@
+{
+  "title": "Forfaits",
+  "subtitle": "14 jours gratuits sur tous les forfaits — annulez quand vous voulez.",
+  "checkoutSuccess": "Abonnement démarré ! La mise à jour du statut ici peut prendre quelques secondes.",
+  "checkoutCanceled": "Paiement annulé — aucun montant n'a été prélevé.",
+  "checkoutError": "Impossible de démarrer le paiement.",
+  "perMonth": "/mois",
+  "setlistsLimit_one": "Jusqu'à {{count}} setlist",
+  "setlistsLimit_other": "Jusqu'à {{count}} setlists",
+  "storageLimit": "{{mb}} MB de stockage audio",
+  "redirecting": "Redirection…",
+  "subscribe": "S'abonner",
+  "noPlans": "Aucun forfait disponible pour le moment."
+}

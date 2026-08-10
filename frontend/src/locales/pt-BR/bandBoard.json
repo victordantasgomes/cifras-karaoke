@@ -1,0 +1,60 @@
+{
+  "title": "Monte uma banda",
+  "subtitle": "Anúncios de bandas buscando músicos e músicos buscando banda.",
+  "backToApp": "Voltar ao painel",
+  "login": "Entrar",
+  "signup": "Criar conta",
+  "newPost": "+ Criar anúncio",
+  "myPosts": "Meus anúncios",
+  "empty": "Nenhum anúncio ativo no momento.",
+  "emptyMine": "Você ainda não criou nenhum anúncio.",
+  "inactiveBadge": "inativo",
+  "form": {
+    "createTitle": "Novo anúncio",
+    "editTitle": "Editar anúncio",
+    "bandName": "Nome da banda",
+    "genero": "Gênero musical",
+    "style": "Estilo (texto livre)",
+    "skillLevel": "Nível técnico",
+    "skillLevelPlaceholder": "Selecione…",
+    "skillLevels": {
+      "iniciante": "Iniciante",
+      "intermediario": "Intermediário",
+      "avancado": "Avançado",
+      "profissional": "Profissional"
+    },
+    "goal": "Objetivo",
+    "goalPlaceholder": "Selecione…",
+    "goals": {
+      "hobby": "Hobby / diversão",
+      "ensaios_regulares": "Ensaios regulares",
+      "shows_pagos": "Shows pagos",
+      "gravacao": "Gravação / estúdio"
+    },
+    "rehearsalDays": "Dias de ensaio",
+    "rehearsalDaysPlaceholder": "ex.: terça, quinta",
+    "instrumentsNeeded": "Instrumentos buscados",
+    "instrumentsPlaceholder": "ex.: baixo, bateria",
+    "bio": "Sobre a banda",
+    "contactInfo": "Contato",
+    "contactPlaceholder": "ex.: WhatsApp, e-mail, Instagram",
+    "linkSetlists": "Linkar setlists (opcional)",
+    "submit": "Publicar anúncio",
+    "saving": "Salvando…",
+    "saveChanges": "Salvar alterações",
+    "cancel": "Cancelar"
+  },
+  "card": {
+    "contact": "Contato:",
+    "rehearsalDays": "Dias de ensaio:",
+    "instrumentsNeeded": "Buscando:",
+    "deactivate": "Desativar",
+    "activate": "Reativar",
+    "edit": "Editar"
+  },
+  "errors": {
+    "create": "Não foi possível publicar o anúncio.",
+    "update": "Não foi possível salvar as alterações.",
+    "toggle": "Não foi possível alterar o anúncio."
+  }
+}

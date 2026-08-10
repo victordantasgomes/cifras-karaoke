@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
+import { useTranslation, Trans } from 'react-i18next'
 import { resolveTimeline } from '../utils/timeline'
 import { parseBody } from '../utils/lineClassifier'
 import { slugify } from '../utils/slug'
@@ -23,7 +24,7 @@ function formatTime(s) {
 /** Texto curto pra identificar um passo em tooltips (banda/marcador da
  * waveform) — substitui o antigo "linha N", que não dizia nada sobre o
  * conteúdo. */
-function describeStep(step) {
+function describeStep(step, t) {
   if (!step) return ''
   if (step.kind === 'pair') {
     const c = step.chord.text.trim()
@@ -32,11 +33,11 @@ function describeStep(step) {
   }
   if (step.kind === 'block') {
     const first = step.lines[0].text.trim()
-    return `${first || '(bloco)'} (${step.lines[0].tipo}, ${step.lines.length} linhas)`
+    return `${first || t('blockFallback')} (${step.lines[0].tipo}, ${t('lines', { count: step.lines.length })})`
   }
   const { line } = step
   if (line.tipo === 'secao') return `[${line.text}]`
-  return line.text.trim() || '(linha em branco)'
+  return line.text.trim() || t('blankLine')
 }
 
 function timeChip(t) {
@@ -56,6 +57,7 @@ function timeChip(t) {
  * decide QUAL linha física e QUAL tempo.
  */
 export default function SyncWorkspace({ body, markLineTime, trackBlob, trackUrl, audioRef, samplesMeta }) {
+  const { t } = useTranslation('syncWorkspace')
   const [peaks, setPeaks] = useState(null)
   const [duration, setDuration] = useState(null)
   const [decoding, setDecoding] = useState(false)
@@ -327,7 +329,7 @@ export default function SyncWorkspace({ body, markLineTime, trackBlob, trackUrl,
   }
 
   if (!trackUrl) {
-    return <div className="page-sub">Envie uma faixa acima para poder sincronizar a cifra.</div>
+    return <div className="page-sub">{t('uploadHint')}</div>
   }
 
   const previewWindow = buildStepWindow(resolvedSteps, previewIndex, PREVIEW_ROW_BUDGET)
@@ -337,34 +339,34 @@ export default function SyncWorkspace({ body, markLineTime, trackBlob, trackUrl,
   return (
     <div>
       <div className="row" style={{ justifyContent: 'space-between', marginBottom: 10, flexWrap: 'wrap' }}>
-        <h3 style={{ margin: 0 }}>Sincronizar</h3>
+        <h3 style={{ margin: 0 }}>{t('title')}</h3>
         <span style={{ color: 'var(--muted)', fontSize: 12.5 }}>
-          Clique num passo da lista abaixo pra selecionar e pular até lá ·
-          arraste um marcador na forma de onda pra ajustar o tempo ·
-          barra de <strong>Espaço</strong> marca o passo atual e avança pro próximo
+          {t('hint.clickStep')} ·{' '}
+          {t('hint.dragMarker')} ·{' '}
+          <Trans i18nKey="syncWorkspace:hint.spaceMark" components={{ strong: <strong /> }} />
         </span>
       </div>
 
-      {decoding && <div className="empty" style={{ padding: '24px 0' }}>Gerando forma de onda…</div>}
+      {decoding && <div className="empty" style={{ padding: '24px 0' }}>{t('generatingWaveform')}</div>}
 
       {peaks && duration != null && (
         <>
           <div className="row" style={{ marginBottom: 10, alignItems: 'center', flexWrap: 'wrap' }}>
             <button type="button" className="btn primary" onClick={togglePlay}>
-              {playing ? '⏸ Pausar' : '▶ Tocar'}
+              {playing ? t('pause') : t('play')}
             </button>
-            <button type="button" className="btn" onClick={stopAudio}>⏹ Parar</button>
+            <button type="button" className="btn" onClick={stopAudio}>{t('stop')}</button>
             <span ref={timeLabelRef} style={{ color: 'var(--muted)', fontSize: 13, fontVariantNumeric: 'tabular-nums' }}>
               {formatTime(0)} / {formatTime(duration)}
             </span>
             <span style={{ width: 1, alignSelf: 'stretch', background: 'var(--stroke)' }} />
-            <span style={{ color: 'var(--muted)', fontSize: 12.5 }}>Velocidade:</span>
+            <span style={{ color: 'var(--muted)', fontSize: 12.5 }}>{t('speed')}</span>
             {PLAYBACK_RATES.map((r) => (
               <button key={r} type="button" className={`btn ${playbackRate === r ? 'primary' : 'ghost'}`}
                 onClick={() => setPlaybackRate(r)}>{r}x</button>
             ))}
             <span style={{ width: 1, alignSelf: 'stretch', background: 'var(--stroke)' }} />
-            <span style={{ color: 'var(--muted)', fontSize: 12.5 }}>Zoom:</span>
+            <span style={{ color: 'var(--muted)', fontSize: 12.5 }}>{t('zoom')}</span>
             <input type="range" min="1" max="6" step="0.5" value={zoom}
               onChange={(e) => setZoom(Number(e.target.value))} style={{ width: 110 }} />
             <span style={{ color: 'var(--muted)', fontSize: 12.5, minWidth: 26 }}>{zoom}x</span>
@@ -378,7 +380,7 @@ export default function SyncWorkspace({ body, markLineTime, trackBlob, trackUrl,
               }}>
               <canvas ref={canvasRef} style={{ position: 'absolute', inset: 0 }} />
               {bands.map((b, i) => (
-                <div key={i} title={b.markLineIndex === -1 ? undefined : describeStep(allSteps[rawToStepIndex.get(b.markLineIndex)])}
+                <div key={i} title={b.markLineIndex === -1 ? undefined : describeStep(allSteps[rawToStepIndex.get(b.markLineIndex)], t)}
                   style={{
                     position: 'absolute', top: 0, bottom: 0, pointerEvents: 'none',
                     left: `${(b.start / duration) * 100}%`,
@@ -397,7 +399,7 @@ export default function SyncWorkspace({ body, markLineTime, trackBlob, trackUrl,
               {rawMarks.map(({ lineIndex, t, text }) => (
                 <div key={lineIndex} onMouseDown={startDrag(lineIndex)}
                   onClick={(e) => { e.stopPropagation(); const idx = rawToStepIndex.get(lineIndex); if (idx != null) setStepIndex(idx) }}
-                  title={describeStep(allSteps[rawToStepIndex.get(lineIndex)]) || text.trim() || `linha ${lineIndex + 1}`}
+                  title={describeStep(allSteps[rawToStepIndex.get(lineIndex)], t) || text.trim() || t('lineFallback', { number: lineIndex + 1 })}
                   style={{
                     position: 'absolute', top: 0, bottom: 0, width: 2, cursor: 'ew-resize',
                     left: `${Math.min(100, (t / duration) * 100)}%`,
@@ -417,7 +419,7 @@ export default function SyncWorkspace({ body, markLineTime, trackBlob, trackUrl,
 
           <details open style={{ marginBottom: 14 }}>
             <summary style={{ cursor: 'pointer', color: 'var(--muted)', fontSize: 12.5, marginBottom: 8 }}>
-              Pré-visualização do palco (varredura)
+              {t('stagePreview')}
             </summary>
             <div ref={sweepRootRef} style={{ background: '#000', borderRadius: 8, padding: '10px 18px', overflow: 'hidden', marginTop: 8 }}>
               <KaraokeLines window={previewWindow} sweep keyPrefix={previewIndex} />
@@ -428,12 +430,12 @@ export default function SyncWorkspace({ body, markLineTime, trackBlob, trackUrl,
 
       <div className="row" style={{ marginBottom: 10, alignItems: 'center', flexWrap: 'wrap' }}>
         <button type="button" className="btn primary" onClick={mark}>
-          ⏱ Marcar passo {allSteps.length ? stepIndex + 1 : 0}/{allSteps.length}
+          {t('markStep')} {allSteps.length ? stepIndex + 1 : 0}/{allSteps.length}
         </button>
-        <button type="button" className="btn" onClick={() => setStepIndex((i) => Math.max(0, i - 1))}>← anterior</button>
-        <button type="button" className="btn" onClick={() => setStepIndex((i) => Math.min(allSteps.length - 1, i + 1))}>próxima →</button>
+        <button type="button" className="btn" onClick={() => setStepIndex((i) => Math.max(0, i - 1))}>{t('previous')}</button>
+        <button type="button" className="btn" onClick={() => setStepIndex((i) => Math.min(allSteps.length - 1, i + 1))}>{t('next')}</button>
         <span style={{ color: 'var(--muted)', fontSize: 12.5 }}>
-          {markedCount} de {markableSteps.length} trechos marcados
+          {t('markedCount', { marked: markedCount, total: markableSteps.length })}
         </span>
       </div>
 
@@ -463,6 +465,7 @@ export default function SyncWorkspace({ body, markLineTime, trackBlob, trackUrl,
 }
 
 function StepRow({ step, selected, active, onSelect, rowRef }) {
+  const { t } = useTranslation('syncWorkspace')
   const classes = (extra) => `sync-step ${extra}${selected ? ' selected' : ''}${active ? ' live' : ''}`
   const chip = timeChip(step.t)
 
@@ -492,7 +495,7 @@ function StepRow({ step, selected, active, onSelect, rowRef }) {
     return (
       <div ref={rowRef} onClick={oculta ? undefined : onSelect} className={classes(`observacao${oculta ? ' oculta' : ''}`)}>
         <span>💬 {line.text}</span>
-        {oculta ? <span className="sync-step-chip">não marca</span> : chip}
+        {oculta ? <span className="sync-step-chip">{t('notMarked')}</span> : chip}
       </div>
     )
   }
@@ -513,7 +516,7 @@ function StepRow({ step, selected, active, onSelect, rowRef }) {
   if (!line.text.trim()) {
     return (
       <div ref={rowRef} onClick={onSelect} className={classes('pause')}>
-        <span>· pausa ·</span>{chip}
+        <span>{t('pauseMarker')}</span>{chip}
       </div>
     )
   }
@@ -525,6 +528,7 @@ function StepRow({ step, selected, active, onSelect, rowRef }) {
 }
 
 function BlockStepRow({ step, selected, active, expanded, onToggleExpand, onSelect, markLineTime, audioRef, rowRef }) {
+  const { t } = useTranslation('syncWorkspace')
   const first = step.lines[0]
   const icon = BLOCK_ICON[first.tipo] || '🎼'
   return (
@@ -533,7 +537,7 @@ function BlockStepRow({ step, selected, active, expanded, onToggleExpand, onSele
         <button type="button" className="sync-step-expand" onClick={(e) => { e.stopPropagation(); onToggleExpand() }}>
           {expanded ? '▾' : '▸'}
         </button>
-        <span>{icon} {first.tipo} — {step.lines.length} linhas</span>
+        <span>{icon} {first.tipo} — {t('lines', { count: step.lines.length })}</span>
         {timeChip(step.t)}
       </div>
       {expanded && (

@@ -126,6 +126,64 @@ create table if not exists song_versions (
 );
 create index if not exists idx_song_versions_song on song_versions(song_id, saved_at desc);
 
+-- Favoritos de gênero/intérprete (Fase 6) — mesmo raciocínio de
+-- user_song_prefs (preferência por usuário sobre algo compartilhado), mas
+-- sobre o VALOR do facet, não sobre uma música específica. "interprete"/
+-- "genero" continuam texto livre (sem tabela normalizada de artistas —
+-- search_service.py::facets() já deriva os valores distintos assim, mesma
+-- convenção). Favoritar "Legião Urbana" só precisa bater com o texto que já
+-- existe em songs.interprete, não referencia nenhuma linha específica.
+create table if not exists user_favorite_artists (
+    user_id    text not null references users(id) on delete cascade,
+    interprete text not null,
+    primary key (user_id, interprete)
+);
+create table if not exists user_favorite_genres (
+    user_id text not null references users(id) on delete cascade,
+    genero  text not null,
+    primary key (user_id, genero)
+);
+
+-- Logo de marca própria (whitelabel, Fase 8) — um por usuário, mesmo padrão
+-- de audio_tracks (metadado aqui, bytes no Vercel Blob). Leitura pública de
+-- propósito (GET /branding/<user_id>/logo, sem @protected): o player de
+-- karaokê e os posts do mural (Fase 9) mostram a logo pra visitante sem
+-- login. Só upload/exclusão exigem dono (checado na rota).
+create table if not exists user_logos (
+    user_id      text primary key references users(id) on delete cascade,
+    blob_url     text not null,
+    content_type text not null default '',
+    size_bytes   bigint not null default 0,
+    uploaded_at  timestamptz not null default now()
+);
+
+-- Mural "monte uma banda" (Fase 9) — anúncios públicos de vaga/formação.
+-- `user_id` aqui é NOT NULL + ON DELETE CASCADE (diferente do padrão de
+-- conteúdo/SET NULL usado em songs/setlists): um anúncio sem ninguém pra
+-- contatar não tem valor nenhum, ao contrário de uma música/setlist órfã,
+-- que continua útil sem dono. `setlist_refs` linka opcionalmente setlists
+-- do próprio autor (ids, resolvidos/validados na escrita — ver
+-- band_board_service.py). Desativação nunca é exclusão de verdade (mesmo
+-- raciocínio de SetlistService.set_shared()).
+create table if not exists band_posts (
+    id                  uuid primary key default gen_random_uuid(),
+    user_id             text not null references users(id) on delete cascade,
+    band_name           text not null default '',
+    genero              text not null default '',
+    style_freeform      text not null default '',
+    skill_level         text not null default '',
+    goal                text not null default '',
+    rehearsal_days      text[] not null default '{}',
+    instruments_needed  text[] not null default '{}',
+    bio                 text not null default '',
+    contact_info        text not null default '',
+    setlist_refs        uuid[] not null default '{}',
+    active              boolean not null default true,
+    created_at          timestamptz not null default now(),
+    updated_at          timestamptz not null default now()
+);
+create index if not exists idx_band_posts_active on band_posts(active) where active = true;
+
 create table if not exists song_plays (
     song_id        uuid primary key references songs(id) on delete cascade,
     count          int not null default 0,
@@ -236,3 +294,38 @@ alter table users add column if not exists stripe_customer_id text;
 alter table users add column if not exists stripe_subscription_id text;
 alter table users add column if not exists subscription_status text not null default 'none';
 alter table users add column if not exists current_period_end timestamptz;
+
+-- Contagem de visitas na landing page (Fase 5) — usada pelo painel admin de
+-- vendas (Fase 14). Uma linha por visita, sem dado pessoal nenhum (nem IP);
+-- a granularidade por timestamp permite quebrar por dia/semana na leitura.
+create table if not exists landing_page_views (
+    id        bigserial primary key,
+    viewed_at timestamptz not null default now()
+);
+create index if not exists idx_landing_page_views_time on landing_page_views(viewed_at);
+
+-- Pings de atividade (Fase 12) — um "sinal de vida" a cada ~45-60s enquanto
+-- a aba do usuário está visível (ver useActivityPing.js). Tempo de sessão
+-- não é pré-computado aqui: a leitura (Fase 13) agrupa pings por gap em
+-- sessões e calcula a duração aproximada — é uma heurística, não uma
+-- medição exata de tempo de uso.
+create table if not exists activity_pings (
+    id        bigserial primary key,
+    user_id   text not null references users(id) on delete cascade,
+    pinged_at timestamptz not null default now()
+);
+create index if not exists idx_activity_pings_user_time on activity_pings(user_id, pinged_at);
+
+-- Histórico de transições de status de assinatura (Fase 14) — gravado por
+-- BillingService.handle_webhook_event() sempre que um webhook da Stripe
+-- muda users.subscription_status. Sem isso, o painel de vendas só
+-- conseguiria mostrar "quantos estão cancelados agora", sem tendência ao
+-- longo do tempo (o estado atual já vive em users, não duplicado aqui).
+create table if not exists subscription_events (
+    id           bigserial primary key,
+    user_id      text not null references users(id) on delete cascade,
+    old_status   text,
+    new_status   text not null,
+    occurred_at  timestamptz not null default now()
+);
+create index if not exists idx_subscription_events_user on subscription_events(user_id, occurred_at);

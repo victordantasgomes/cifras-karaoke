@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
 import { useQuery } from '@tanstack/react-query'
+import { useTranslation } from 'react-i18next'
 import api from '../services/api'
 import { usePlayerStore } from '../store/playerStore'
 import { usePlaylistStore } from '../store/playlistStore'
@@ -45,6 +46,7 @@ const COUNTDOWN_SECONDS = 3
  *    é montado.
  */
 export default function KaraokeStage() {
+  const { t } = useTranslation('karaokeStage')
   const { slug } = useParams()
   const navigate = useNavigate()
   const player = usePlayerStore()
@@ -92,6 +94,16 @@ export default function KaraokeStage() {
     staleTime: Infinity,
     refetchOnWindowFocus: false,
     refetchOnReconnect: false,
+  })
+
+  // marca própria do dono da música (Fase 8) — rota pública (sem auth),
+  // igual a folha de cifra em si não exige login pra ser exibida no palco.
+  const { data: branding } = useQuery({
+    queryKey: ['branding-info', data?.owner_id],
+    queryFn: () => api.get(`/branding/${data.owner_id}`).then((r) => r.data),
+    enabled: Boolean(data?.owner_id),
+    staleTime: Infinity,
+    refetchOnWindowFocus: false,
   })
 
   useEffect(() => {
@@ -366,7 +378,7 @@ export default function KaraokeStage() {
 
   if (isLoading || !data) {
     return <div className="karaoke-stage controls-visible"
-      style={{ display: 'grid', placeItems: 'center' }}>Carregando cifra…</div>
+      style={{ display: 'grid', placeItems: 'center' }}>{t('loading')}</div>
   }
 
   // JANELA POR ORÇAMENTO DE LINHAS FÍSICAS — um passo 'pair' (acorde+letra)
@@ -397,15 +409,21 @@ export default function KaraokeStage() {
 
       <div className="k-header">
         <div>
-          {inPlaylist && <>Setlist: {playlist.setlistNome} · música {playlist.index + 1}/{playlist.queue.length} · </>}
-          {data.titulo} — {data.interprete} {data.tom && <>· Tom: {data.tom}</>}
-          {player.synthMode && <> · 🎸 acompanhamento sintetizado</>}
+          {inPlaylist && <>{t('header.playlistPrefix', { name: playlist.setlistNome, current: playlist.index + 1, total: playlist.queue.length })}</>}
+          {data.titulo} — {data.interprete} {data.tom && <>· {t('header.tom', { tom: data.tom })}</>}
+          {player.synthMode && <> · 🎸 {t('header.synthBadge')}</>}
+          {(branding?.has_logo || branding?.band_name) && (
+            <div className="k-brand">
+              {branding.has_logo && <img src={`/api/branding/${data.owner_id}/logo`} alt="" />}
+              {branding.band_name && <span>{branding.band_name}</span>}
+            </div>
+          )}
         </div>
         <div>
           {player.audioMode
-            ? <>linha {player.index + 1}/{player.steps.length} · {rate.toFixed(1)}x{player.hasAudio && !audioReady && ' · carregando áudio…'}</>
-            : <>linha {player.index + 1}/{player.steps.length} · {(player.msPerLine / 1000).toFixed(1)}s/linha</>}
-          {' · zoom '}{Math.round(zoom * 100)}%
+            ? <>{t('status.audioLine', { current: player.index + 1, total: player.steps.length, rate: rate.toFixed(1) })}{player.hasAudio && !audioReady && <> · {t('status.loadingAudio')}</>}</>
+            : <>{t('status.legacyLine', { current: player.index + 1, total: player.steps.length, seconds: (player.msPerLine / 1000).toFixed(1) })}</>}
+          {' · '}{t('status.zoom', { percent: Math.round(zoom * 100) })}
         </div>
       </div>
 
@@ -457,30 +475,30 @@ export default function KaraokeStage() {
 
       <div className="k-controls no-print">
         {inPlaylist && <>
-          <button className="btn" onClick={goPrevSong} disabled={playlist.index === 0} title="Música anterior">⏮</button>
+          <button className="btn" onClick={goPrevSong} disabled={playlist.index === 0} title={t('controls.prevSong')}>⏮</button>
         </>}
-        <button className="btn" onClick={restart} title="Reiniciar (R)">⟲</button>
-        <button className="btn" onClick={goPrev} title="Linha anterior (←)">←</button>
-        <button className="btn primary" onClick={togglePlay} disabled={!canPlay} title="Play/Pause (Espaço)">
-          {countdown != null ? `Pular (${countdown})` : player.playing ? 'Pausar' : 'Tocar'}
+        <button className="btn" onClick={restart} title={t('controls.restart')}>⟲</button>
+        <button className="btn" onClick={goPrev} title={t('controls.prevLine')}>←</button>
+        <button className="btn primary" onClick={togglePlay} disabled={!canPlay} title={t('controls.playPause')}>
+          {countdown != null ? t('controls.skipCountdown', { count: countdown }) : player.playing ? t('controls.pause') : t('controls.play')}
         </button>
-        <button className="btn" onClick={goNext} title="Próxima linha (→)">→</button>
-        <button className="btn" onClick={() => adjustRate(-0.1)} title="Mais lento (↓)">−</button>
-        <button className="btn" onClick={() => adjustRate(0.1)} title="Mais rápido (↑)">+</button>
-        <button className="btn" onClick={zoomOut} title="Diminuir zoom (-)">A−</button>
-        <button className="btn" onClick={zoomIn} title="Aumentar zoom (+)">A+</button>
+        <button className="btn" onClick={goNext} title={t('controls.nextLine')}>→</button>
+        <button className="btn" onClick={() => adjustRate(-0.1)} title={t('controls.slower')}>−</button>
+        <button className="btn" onClick={() => adjustRate(0.1)} title={t('controls.faster')}>+</button>
+        <button className="btn" onClick={zoomOut} title={t('controls.zoomOut')}>A−</button>
+        <button className="btn" onClick={zoomIn} title={t('controls.zoomIn')}>A+</button>
         {inPlaylist && <>
-          <button className="btn" onClick={goNextSong} title="Próxima música">⏭</button>
-          <button className="btn danger" onClick={stopPlaylist} title="Parar playlist">■</button>
+          <button className="btn" onClick={goNextSong} title={t('controls.nextSong')}>⏭</button>
+          <button className="btn danger" onClick={stopPlaylist} title={t('controls.stopPlaylist')}>■</button>
         </>}
-        <button className="btn" onClick={toggleFullscreen} title="Tela cheia (F)">⛶</button>
-        <button className="btn ghost" onClick={() => navigate(-1)} title="Voltar (ESC)">Sair</button>
+        <button className="btn" onClick={toggleFullscreen} title={t('controls.fullscreen')}>⛶</button>
+        <button className="btn ghost" onClick={() => navigate(-1)} title={t('controls.back')}>{t('controls.exit')}</button>
       </div>
 
       {countdown != null && (
         <div className="k-countdown" onClick={skipCountdown}>
           <div key={countdown} className="k-countdown-number">{countdown}</div>
-          <div className="k-countdown-label">Prepare-se… (clique ou Espaço pra pular)</div>
+          <div className="k-countdown-label">{t('countdown.hint')}</div>
         </div>
       )}
     </div>

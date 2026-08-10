@@ -1,0 +1,20 @@
+{
+  "title": "Setlists",
+  "subtitle": "Organisiere das Repertoire für jeden Auftritt.",
+  "newPlaceholder": "Name der neuen Setlist",
+  "create": "Erstellen",
+  "importTxt": "TXT importieren",
+  "empty": "Noch keine Setlists. Erstelle die erste für deinen nächsten Auftritt.",
+  "itemCount_one": "{{count}} Song",
+  "itemCount_other": "{{count}} Songs",
+  "otherUserTitle": "Du hast diese Setlist nicht erstellt",
+  "otherUserChip": "von einem anderen Nutzer",
+  "shared": "Geteilt",
+  "export": "Exportieren",
+  "deleteConfirm": "Setlist löschen?",
+  "delete": "Löschen",
+  "errors": {
+    "create": "Die Setlist konnte nicht erstellt werden.",
+    "import": "Die Setlist konnte nicht importiert werden."
+  }
+}

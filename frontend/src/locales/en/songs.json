@@ -1,0 +1,40 @@
+{
+  "titleLibrary": "Library",
+  "titleFavorites": "Favorites",
+  "allUsersHint": " · from all users",
+  "loadingCount": "…",
+  "songCount_one": "{{count}} song",
+  "songCount_other": "{{count}} songs",
+  "newSong": "+ New song",
+  "searchPlaceholder": "Search by title, author, artist, tag…",
+  "allGenres": "All genres",
+  "allArtists": "All artists",
+  "key": "Key",
+  "onlyMine": "Mine only",
+  "empty": "No songs found. Upload a TXT file to get started.",
+  "otherUserTitle": "You didn't create this song",
+  "otherUserChip": "from another user",
+  "privateTitle": "Only you can see this song",
+  "privateChip": "🔒 private",
+  "prevPage": "← Previous",
+  "pageOf": "page {{page}} of {{total}}",
+  "nextPage": "Next →",
+  "upload": {
+    "file": "TXT file",
+    "genre": "Genre",
+    "artist": "Artist",
+    "submit": "Upload",
+    "error": "Upload failed. Check the file."
+  },
+  "favorites": {
+    "title": "Favorite artists and genres",
+    "description": "Favorite an artist or genre to see all their songs here, even without favoriting each one.",
+    "artistsLabel": "Artists",
+    "genresLabel": "Genres",
+    "addArtistPlaceholder": "+ Add favorite artist…",
+    "addGenrePlaceholder": "+ Add favorite genre…",
+    "remove": "Remove {{name}} from favorites",
+    "noneArtists": "No favorite artists yet.",
+    "noneGenres": "No favorite genres yet."
+  }
+}

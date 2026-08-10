@@ -1,5 +1,6 @@
 import { useMemo, useState } from 'react'
 import { useQuery } from '@tanstack/react-query'
+import { useTranslation } from 'react-i18next'
 import api from '../services/api'
 import { parseChordSymbol } from '../utils/chordParser'
 import {
@@ -11,9 +12,9 @@ import ChordFretDiagram from './ChordFretDiagram'
 import PianoDiagram from './PianoDiagram'
 
 const INSTRUMENTS = [
-  ['violao', 'Violão', 6],
-  ['teclado', 'Teclado', null],
-  ['ukulele', 'Ukulelê', 4],
+  ['violao', 6],
+  ['teclado', null],
+  ['ukulele', 4],
 ]
 
 // fallback algorítmico (busca por força bruta, ver chordShapes.js) só entra
@@ -75,11 +76,12 @@ function useInstrumentVoicings(instrumento, symbol) {
 }
 
 function InstrumentCard({ title, disabled, onVary, children }) {
+  const { t } = useTranslation('chordDictionary')
   return (
     <div className="chord-diagram-card">
       <div className="chord-diagram-title">{title}</div>
       <div className="chord-diagram-body">{children}</div>
-      <button type="button" className="btn" disabled={disabled} onClick={onVary}>variar acorde</button>
+      <button type="button" className="btn" disabled={disabled} onClick={onVary}>{t('hoverCard.vary')}</button>
     </div>
   )
 }
@@ -100,6 +102,7 @@ function InstrumentCard({ title, disabled, onVary, children }) {
  * `key={symbol}` pelo chamador).
  */
 export default function ChordHoverCard({ symbol, style, onMouseEnter, onMouseLeave }) {
+  const { t } = useTranslation('chordDictionary')
   const [idx, setIdx] = useState({ violao: 0, teclado: 0, ukulele: 0 })
   const bump = (instrumento) => setIdx((s) => ({ ...s, [instrumento]: s[instrumento] + 1 }))
 
@@ -112,11 +115,11 @@ export default function ChordHoverCard({ symbol, style, onMouseEnter, onMouseLea
     <div className="chord-hover-card" style={style} onMouseEnter={onMouseEnter} onMouseLeave={onMouseLeave}>
       <div className="chord-hover-title">{symbol}</div>
       <div className="chord-diagram-row">
-        {INSTRUMENTS.map(([instrumento, titulo, strings]) => {
+        {INSTRUMENTS.map(([instrumento, strings]) => {
           const { loading, voicings } = porInstrumento[instrumento]
           const voicing = voicings[idx[instrumento] % (voicings.length || 1)]
           return (
-            <InstrumentCard key={instrumento} title={titulo} disabled={!voicing}
+            <InstrumentCard key={instrumento} title={t(`instruments.${instrumento}`)} disabled={!voicing}
               onVary={() => bump(instrumento)}>
               {loading ? (
                 <div className="chord-diagram-empty">…</div>

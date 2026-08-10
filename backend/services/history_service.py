@@ -69,6 +69,22 @@ class HistoryService:
                 (song_id,),
             )
 
+    def most_played_artists(self, user_id: str, limit: int = 8) -> list[dict]:
+        """Agrega song_plays por intérprete — mesmo escopo de plays() acima
+        (só músicas que este usuário É DONO, não a biblioteca visível
+        inteira), pro card novo do Dashboard v2 (Fase 7)."""
+        with db.get_pool().connection() as conn:
+            rows = conn.execute(
+                """select s.interprete, sum(p.count) as plays
+                   from song_plays p join songs s on s.id = p.song_id
+                   where s.user_id = %s and s.interprete != ''
+                   group by s.interprete
+                   order by plays desc
+                   limit %s""",
+                (user_id, limit),
+            ).fetchall()
+        return [{"interprete": r["interprete"], "plays": r["plays"]} for r in rows]
+
     def plays(self, user_id: str) -> dict:
         with db.get_pool().connection() as conn:
             rows = conn.execute(

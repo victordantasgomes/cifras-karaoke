@@ -1,0 +1,27 @@
+{
+  "title": "Sync",
+  "hint": {
+    "clickStep": "Click a step in the list below to select it and jump there",
+    "dragMarker": "drag a marker on the waveform to adjust the time",
+    "spaceMark": "the <strong>Space</strong> bar marks the current step and advances to the next"
+  },
+  "generatingWaveform": "Generating waveform…",
+  "pause": "⏸ Pause",
+  "play": "▶ Play",
+  "stop": "⏹ Stop",
+  "speed": "Speed:",
+  "zoom": "Zoom:",
+  "lineFallback": "line {{number}}",
+  "stagePreview": "Stage preview (sweep)",
+  "markStep": "⏱ Mark step",
+  "previous": "← previous",
+  "next": "next →",
+  "markedCount": "{{marked}} of {{total}} segments marked",
+  "notMarked": "doesn't mark",
+  "pauseMarker": "· pause ·",
+  "blockFallback": "(block)",
+  "blankLine": "(blank line)",
+  "lines_one": "{{count}} line",
+  "lines_other": "{{count}} lines",
+  "uploadHint": "Upload a track above to be able to sync the chord sheet."
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Tarife",
+  "subtitle": "14 Tage kostenlos bei jedem Tarif — jederzeit kündbar.",
+  "checkoutSuccess": "Abonnement gestartet! Es kann ein paar Sekunden dauern, bis sich der Status hier aktualisiert.",
+  "checkoutCanceled": "Checkout abgebrochen — es wurde nichts berechnet.",
+  "checkoutError": "Checkout konnte nicht gestartet werden.",
+  "perMonth": "/Monat",
+  "setlistsLimit_one": "Bis zu {{count}} Setlist",
+  "setlistsLimit_other": "Bis zu {{count}} Setlists",
+  "storageLimit": "{{mb}} MB Audio-Speicher",
+  "redirecting": "Wird weitergeleitet…",
+  "subscribe": "Abonnieren",
+  "noPlans": "Aktuell sind keine Tarife verfügbar."
+}

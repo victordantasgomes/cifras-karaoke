@@ -1,0 +1,15 @@
+{
+  "title": "Stimmgerät",
+  "subtitle": "Spiele einen Ton und sieh in Echtzeit über dein Mikrofon, wie gut er gestimmt ist.",
+  "start": "Starten",
+  "stop": "Stoppen",
+  "waitingSignal": "Spiele einen Ton…",
+  "inTune": "Gestimmt",
+  "tooLow": "Zu tief",
+  "tooHigh": "Zu hoch",
+  "a4Label": "Referenz (A4)",
+  "permissionDenied": "Mikrofonzugriff verweigert. Erlaube den Mikrofonzugriff in den Browsereinstellungen und versuche es erneut.",
+  "noDevice": "Auf diesem Gerät wurde kein Mikrofon gefunden.",
+  "genericError": "Auf das Mikrofon konnte nicht zugegriffen werden.",
+  "retry": "Erneut versuchen"
+}

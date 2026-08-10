@@ -15,3 +15,8 @@ export const IconUser = I(<><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 5
 export const IconExit = I(<><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><path d="m16 17 5-5-5-5"/><path d="M21 12H9"/></>)
 export const IconMic = I(<><rect x="9" y="2" width="6" height="12" rx="3"/><path d="M5 10a7 7 0 0 0 14 0"/><path d="M12 19v3"/></>)
 export const IconBook = I(<><path d="M4 19.5V5a2 2 0 0 1 2-2h13v15H6a2 2 0 0 0-2 2Zm0 0a2 2 0 0 0 2 2h13"/><path d="M8 7h8M8 10.5h8"/></>)
+export const IconUsers = I(<><circle cx="9" cy="8" r="3.2"/><path d="M2.5 20c1-3.6 3.7-5.2 6.5-5.2s5.5 1.6 6.5 5.2"/><circle cx="17" cy="8.5" r="2.6"/><path d="M15.5 15c2.3.2 4.3 1.7 5 4.3"/></>)
+export const IconMetronome = I(<><path d="M7 21h10l-2.2-15H9.2z"/><path d="M10 3h4l.6 4h-5.2z"/><path d="M9.5 14 15 8.5"/></>)
+export const IconTuner = I(<><path d="M9 3v7a3 3 0 0 0 6 0V3"/><path d="M12 13v8"/><path d="M9 21h6"/></>)
+export const IconShield = I(<><path d="M12 3 4 6.5V11c0 5 3.4 8.5 8 10 4.6-1.5 8-5 8-10V6.5z"/><path d="m9 12 2 2 4-4"/></>)
+export const IconChart = I(<><path d="M4 20V10"/><path d="M11 20V4"/><path d="M18 20v-7"/><path d="M2 20h20"/></>)

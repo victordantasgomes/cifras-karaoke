@@ -1,0 +1,20 @@
+{
+  "title": "Alinhamentos",
+  "subtitle": "Organize o repertório de cada espetáculo.",
+  "newPlaceholder": "Nome do novo alinhamento",
+  "create": "Criar",
+  "importTxt": "Importar TXT",
+  "empty": "Ainda não há alinhamentos. Crie o primeiro para o próximo concerto.",
+  "itemCount_one": "{{count}} música",
+  "itemCount_other": "{{count}} músicas",
+  "otherUserTitle": "Este alinhamento não foi criado por si",
+  "otherUserChip": "de outro utilizador",
+  "shared": "Partilhado",
+  "export": "Exportar",
+  "deleteConfirm": "Eliminar alinhamento?",
+  "delete": "Eliminar",
+  "errors": {
+    "create": "Não foi possível criar o alinhamento.",
+    "import": "Não foi possível importar o alinhamento."
+  }
+}

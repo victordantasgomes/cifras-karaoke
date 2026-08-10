@@ -1,0 +1,141 @@
+{
+  "pageTitle": "Configurações",
+  "pageSub": "Preferências visuais.",
+  "subscriptionStatus": {
+    "none": "Sem assinatura",
+    "trialing": "Período de teste",
+    "active": "Ativa",
+    "past_due": "Pagamento pendente",
+    "canceled": "Cancelada"
+  },
+  "appearance": {
+    "title": "Aparência",
+    "description": "Tema e cor de destaque da interface — independente das cores da folha de cifra, configuradas abaixo.",
+    "theme": "Tema",
+    "themes": { "dark": "Escuro", "light": "Claro" },
+    "accent": "Cor de destaque",
+    "accents": {
+      "azul": "Azul",
+      "vermelho": "Vermelho",
+      "verde": "Verde",
+      "rosa": "Rosa",
+      "lilas": "Lilás",
+      "preto": "Preto",
+      "branco": "Branco",
+      "cinza": "Cinza"
+    }
+  },
+  "branding": {
+    "title": "Marca da banda",
+    "description": "Nome e logo da sua banda — aparecem no palco de karaokê e nos posts do mural.",
+    "bandNameLabel": "Nome da banda",
+    "bandNamePlaceholder": "ex.: Banda do Zé",
+    "save": "Salvar nome",
+    "saving": "Salvando…",
+    "logoLabel": "Logo",
+    "noLogo": "Nenhuma logo enviada.",
+    "uploadLogo": "Enviar logo",
+    "uploading": "Enviando…",
+    "removeLogo": "Remover logo",
+    "removing": "Removendo…"
+  },
+  "color": {
+    "title": "Cores do karaokê",
+    "description": "Paleta usada no palco de karaokê e na folha de cifra — vale para todas as músicas.",
+    "fields": {
+      "sweepSung": "Letra já cantada",
+      "sweepUpcoming": "Letra por vir",
+      "amber": "Acordes / seções",
+      "sample": "Sample / solo automático",
+      "ok": "Solo / riff / tablatura"
+    },
+    "save": "Salvar cores",
+    "saving": "Salvando…",
+    "restoreDefault": "Restaurar padrão"
+  },
+  "pedal": {
+    "title": "Pedal (foot switch)",
+    "description": "Detecte a tecla que o seu pedal USB envia (a maioria dos pedais de foot switch se comporta como um teclado) — vale pra qualquer música com o modo de pedal ligado, configurado na aba Áudio do editor.",
+    "currentKey": "Tecla atual:",
+    "noneConfigured": "nenhuma configurada",
+    "listening": "Aperte o pedal agora…",
+    "detect": "Detectar tecla"
+  },
+  "billing": {
+    "title": "Assinatura",
+    "status": "Status:",
+    "plan": "plano",
+    "renewsOn": "renova em {{date}}",
+    "usage": "{{used}} de {{max}} setlists · {{storageUsed}} de {{storageMax}} MB de armazenamento",
+    "viewPlans": "Ver planos",
+    "manage": "Gerenciar assinatura",
+    "opening": "Abrindo…",
+    "portalError": "Não foi possível abrir o portal de cobrança."
+  },
+  "userAdmin": {
+    "title": "Administração de usuários",
+    "description": "Área visível só para administradores — crie novas contas, redefina senhas e acompanhe o uso de cada uma. Tempo de permanência em tela ainda não é medido.",
+    "resetPassword": "Redefinir senha",
+    "delete": "Excluir",
+    "deleting": "Excluindo…",
+    "confirmDelete": "Excluir o usuário {{username}}? As músicas e setlists dele continuam existindo, só sem dono.",
+    "accessCount_one": "{{count}} acesso",
+    "accessCount_other": "{{count}} acessos",
+    "lastLogin": "último login: {{date}}",
+    "never": "nunca",
+    "setlistsCount_one": "{{count}} setlist",
+    "setlistsCount_other": "{{count}} setlists",
+    "favoritesCount_one": "{{count}} favorita",
+    "favoritesCount_other": "{{count}} favoritas",
+    "newPasswordPlaceholder": "Nova senha (mín. 6 caracteres)",
+    "confirm": "Confirmar",
+    "saving": "Salvando…",
+    "deleteUserError": "Não foi possível excluir o usuário.",
+    "resetPasswordError": "Não foi possível redefinir a senha.",
+    "name": "Nome",
+    "username": "Usuário",
+    "password": "Senha",
+    "admin": "Administrador",
+    "createUser": "Criar usuário",
+    "creating": "Criando…",
+    "createUserError": "Não foi possível criar o usuário."
+  },
+  "plansAdmin": {
+    "title": "Planos",
+    "description": "Planos pagos do sistema — cada um define quantos setlists e quanto espaço de áudio um assinante tem direito. Criar um plano (ou editar o preço de um existente) sincroniza automaticamente um Produto/Preço na Stripe.",
+    "archive": "Arquivar",
+    "reactivate": "Reativar",
+    "archived": "arquivado",
+    "setlistsMax": "Setlists (máx.)",
+    "storageMb": "Armazenamento (MB)",
+    "priceMonthly": "Preço mensal (R$)",
+    "save": "Salvar",
+    "saving": "Salvando…",
+    "saveError": "Não foi possível salvar.",
+    "name": "Nome",
+    "namePlaceholder": "ex.: Hobby",
+    "createPlan": "Criar plano",
+    "creating": "Criando…",
+    "createPlanError": "Não foi possível criar o plano."
+  },
+  "normalizeLibrary": {
+    "title": "Normalizar todo o acervo",
+    "description": "Padroniza cabeçalho, notação de acordes e rótulos de seção de toda a biblioteca, música por música — processa em lotes pequenos direto do navegador (sem fila em segundo plano no servidor), então pode levar um tempo. Dá para parar e continuar depois: o progresso não se perde.",
+    "allNormalized": "Todo o acervo está normalizado.",
+    "remainingOfTotal_one": "{{count}} música restante de {{total}}",
+    "remainingOfTotal_other": "{{count}} músicas restantes de {{total}}",
+    "start": "Iniciar",
+    "stop": "Parar",
+    "error": "Falha ao normalizar em lote."
+  },
+  "storageRecompute": {
+    "title": "Recalcular tamanho dos arquivos de áudio",
+    "description": "Faixas e samples enviados antes desta versão não têm o tamanho registrado (uploads novos já gravam na hora) — preenche em lote via uma consulta de tamanho contra cada blob, sem baixar o áudio inteiro. Necessário pro cálculo de uso de armazenamento por plano.",
+    "allDone": "Todos os arquivos já têm o tamanho registrado.",
+    "remainingOfTotal_one": "{{count}} arquivo restante de {{total}}",
+    "remainingOfTotal_other": "{{count}} arquivos restantes de {{total}}",
+    "start": "Iniciar",
+    "stop": "Parar",
+    "error": "Falha ao recalcular em lote."
+  }
+}

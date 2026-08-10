@@ -1,0 +1,27 @@
+{
+  "header": {
+    "playlistPrefix": "Alinhamento: {{name}} · música {{current}}/{{total}} · ",
+    "tom": "Tom: {{tom}}",
+    "scrollBadge": "rolagem"
+  },
+  "status": {
+    "loadingAudio": "a carregar áudio…",
+    "zoom": "zoom {{percent}}%"
+  },
+  "controls": {
+    "prevSong": "Música anterior",
+    "restart": "Reiniciar (R)",
+    "playPause": "Play/Pause (Espaço)",
+    "pause": "Pausar",
+    "play": "Tocar",
+    "slower": "Mais lento",
+    "faster": "Mais rápido",
+    "zoomOut": "Diminuir zoom (-)",
+    "zoomIn": "Aumentar zoom (+)",
+    "nextSong": "Próxima música",
+    "stopPlaylist": "Parar alinhamento",
+    "fullscreen": "Ecrã inteiro (F)",
+    "back": "Voltar (ESC)",
+    "exit": "Sair"
+  }
+}

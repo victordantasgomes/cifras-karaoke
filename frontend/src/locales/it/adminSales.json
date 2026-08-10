@@ -1,0 +1,24 @@
+{
+  "title": "Pannello admin — vendite",
+  "subtitle": "Abbonamenti e acquisizione.",
+  "loading": "Caricamento…",
+  "stats": {
+    "activeSubscriptions": "Abbonamenti attivi",
+    "landingViews": "Visite alla landing page"
+  },
+  "sections": {
+    "byStatus": "Per stato",
+    "byPlan": "Abbonamenti per piano",
+    "cancellationTrend": "Disdette nel tempo"
+  },
+  "status": {
+    "none": "Nessun abbonamento",
+    "trialing": "In prova",
+    "active": "Attivo",
+    "past_due": "Pagamento in ritardo",
+    "canceled": "Disdetto"
+  },
+  "subscribersSuffix": "abbonati",
+  "empty": "Ancora nessun dato.",
+  "trendHint": "Approssimativo — basato sugli eventi webhook di Stripe registrati finora."
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Listas de repertorio",
+  "subtitle": "Organiza el repertorio de cada actuación.",
+  "newPlaceholder": "Nombre de la nueva lista",
+  "create": "Crear",
+  "importTxt": "Importar TXT",
+  "empty": "Todavía no hay listas de repertorio. Crea la primera para tu próximo concierto.",
+  "itemCount_one": "{{count}} canción",
+  "itemCount_other": "{{count}} canciones",
+  "otherUserTitle": "No creaste esta lista de repertorio",
+  "otherUserChip": "de otro usuario",
+  "shared": "Compartida",
+  "export": "Exportar",
+  "deleteConfirm": "¿Eliminar lista de repertorio?",
+  "delete": "Eliminar",
+  "errors": {
+    "create": "No se pudo crear la lista de repertorio.",
+    "import": "No se pudo importar la lista de repertorio."
+  }
+}

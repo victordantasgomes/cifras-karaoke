@@ -1,0 +1,27 @@
+{
+  "title": "Sincronizza",
+  "hint": {
+    "clickStep": "Fai clic su un passo nell'elenco qui sotto per selezionarlo e saltare lì",
+    "dragMarker": "trascina un marcatore sulla forma d'onda per regolare il tempo",
+    "spaceMark": "la barra <strong>Spazio</strong> segna il passo corrente e avanza al successivo"
+  },
+  "generatingWaveform": "Generazione della forma d'onda…",
+  "pause": "⏸ Pausa",
+  "play": "▶ Riproduci",
+  "stop": "⏹ Ferma",
+  "speed": "Velocità:",
+  "zoom": "Zoom:",
+  "lineFallback": "riga {{number}}",
+  "stagePreview": "Anteprima del palco (scorrimento)",
+  "markStep": "⏱ Segna passo",
+  "previous": "← precedente",
+  "next": "successivo →",
+  "markedCount": "{{marked}} di {{total}} segmenti contrassegnati",
+  "notMarked": "non marca",
+  "pauseMarker": "· pausa ·",
+  "blockFallback": "(blocco)",
+  "blankLine": "(riga vuota)",
+  "lines_one": "{{count}} riga",
+  "lines_other": "{{count}} righe",
+  "uploadHint": "Carica una traccia qui sopra per poter sincronizzare il foglio accordi."
+}

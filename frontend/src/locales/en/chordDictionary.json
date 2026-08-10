@@ -1,0 +1,45 @@
+{
+  "title": "Chord dictionary",
+  "subtitle": "Guitar, ukulele, and keyboard — search for a chord, see the variations, and listen.",
+  "banner": "The guitar and ukulele fingerings in this dictionary were normalized using harmonic formulas and automated playability criteria — they weren't fingered by hand by a musician. We recommend a musical curation/validation pass before treating them as a definitive editorial reference. Keyboard positions are derived directly from music theory (root + inversions), so they're verifiable by construction.",
+  "instruments": {
+    "violao": "Guitar",
+    "ukulele": "Ukulele",
+    "teclado": "Keyboard"
+  },
+  "searchPlaceholder": "Search for a chord (e.g.: Cmaj7, Dm7, F#)",
+  "filters": {
+    "tonica": "Root",
+    "qualidade": "Quality",
+    "dificuldade": "Difficulty",
+    "pestana": "Barre",
+    "pestanaWith": "With barre",
+    "pestanaWithout": "Without barre"
+  },
+  "favoritesOnly": "Favorites only",
+  "loading": "Loading…",
+  "empty": "No chords found.",
+  "favoriteToggleTitle": "Favorite",
+  "selectPrompt": "Select a chord from the list.",
+  "enharmonicToggleTitle": "Toggle sharp/flat spelling",
+  "favoriteOn": "★ Favorited",
+  "favoriteOff": "☆ Favorite",
+  "chordSummary": "{{tonica}} · {{qualidade}} · formula {{formula}}",
+  "variation": "Variation {{current}} of {{total}}",
+  "variationNamed": "{{name}} ({{current}}/{{total}})",
+  "leftHandedMode": "Left-handed mode",
+  "listen": "🔊 Listen to chord",
+  "downloadSvg": "⭳ Download SVG",
+  "capoChip": "Barre",
+  "bassChip": "Bass: {{value}}",
+  "notesChip": "Notes: {{value}}",
+  "handsInfo": "Left hand: {{left}} · Right hand: {{right}} · {{octave}}",
+  "transpose": "Transpose:",
+  "semitoneDown": "−1 semitone",
+  "semitoneUp": "+1 semitone",
+  "goToKey": "Go to key…",
+  "formulasToggle": "Chord quality formulas",
+  "hoverCard": {
+    "vary": "vary chord"
+  }
+}

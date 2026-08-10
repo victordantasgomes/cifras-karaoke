@@ -1,0 +1,24 @@
+{
+  "loading": "加载中…",
+  "renameHint": "点击以重命名",
+  "itemCount_one": "{{count}} 首歌曲",
+  "itemCount_other": "{{count}} 首歌曲",
+  "ownerHint": " · 拖动或使用 ▲▼ 重新排序",
+  "readOnlyHint": " · 来自其他用户 — 仅可查看",
+  "print": "打印",
+  "continuePlaylist": "▶ 继续播放（第 {{current}}/{{total}} 首）",
+  "stopPlaylist": "■ 停止播放",
+  "playPlaylist_one": "▶ 播放全部（{{count}} 首歌曲）",
+  "playPlaylist_other": "▶ 播放全部（{{count}} 首歌曲）",
+  "searchPlaceholder": "搜索要添加的歌曲…",
+  "searchEmpty": "未找到与\"{{query}}\"匹配的歌曲。",
+  "add": "添加",
+  "empty": "歌单为空。请在上方搜索歌曲以组建曲目。",
+  "moveUp": "上移",
+  "moveDown": "下移",
+  "notFound": "⚠ 未找到歌曲",
+  "playFromHere": "从这里开始播放",
+  "errors": {
+    "save": "无法保存歌单。"
+  }
+}

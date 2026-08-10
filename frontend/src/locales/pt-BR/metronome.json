@@ -1,0 +1,11 @@
+{
+  "title": "Metrônomo",
+  "subtitle": "Defina o andamento, veja a batida e mantenha o tempo certo nos ensaios.",
+  "bpm": "BPM",
+  "beatsPerBar": "Batidas por compasso",
+  "start": "Iniciar",
+  "stop": "Parar",
+  "tapTempo": "Tap tempo",
+  "tapHint": "Toque no ritmo desejado algumas vezes",
+  "savedHint": "O BPM é salvo automaticamente ao parar"
+}

@@ -1,0 +1,24 @@
+{
+  "loading": "A carregar…",
+  "renameHint": "Clique para renomear",
+  "itemCount_one": "{{count}} música",
+  "itemCount_other": "{{count}} músicas",
+  "ownerHint": " · arraste ou use ▲▼ para reordenar",
+  "readOnlyHint": " · de outro utilizador — apenas leitura",
+  "print": "Imprimir",
+  "continuePlaylist": "▶ Continuar (música {{current}}/{{total}})",
+  "stopPlaylist": "■ Parar playlist",
+  "playPlaylist_one": "▶ Tocar playlist ({{count}} música)",
+  "playPlaylist_other": "▶ Tocar playlist ({{count}} músicas)",
+  "searchPlaceholder": "Procurar música para adicionar…",
+  "searchEmpty": "Nenhuma música encontrada para \"{{query}}\".",
+  "add": "adicionar",
+  "empty": "Alinhamento vazio. Procure músicas acima para montar o repertório.",
+  "moveUp": "Mover para cima",
+  "moveDown": "Mover para baixo",
+  "notFound": "⚠ música não encontrada",
+  "playFromHere": "Tocar a playlist a partir daqui",
+  "errors": {
+    "save": "Não foi possível guardar o alinhamento."
+  }
+}

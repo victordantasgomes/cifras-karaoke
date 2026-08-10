@@ -1,0 +1,36 @@
+{
+  "loading": "Загрузка текста песни…",
+  "header": {
+    "playlistPrefix": "Сетлист: {{name}} · песня {{current}}/{{total}} · ",
+    "tom": "Тональность: {{tom}}",
+    "synthBadge": "синтезированный аккомпанемент"
+  },
+  "status": {
+    "audioLine": "строка {{current}}/{{total}} · {{rate}}x",
+    "legacyLine": "строка {{current}}/{{total}} · {{seconds}} с/строка",
+    "loadingAudio": "загрузка аудио…",
+    "zoom": "масштаб {{percent}}%"
+  },
+  "controls": {
+    "prevSong": "Предыдущая песня",
+    "restart": "Начать заново (R)",
+    "prevLine": "Предыдущая строка (←)",
+    "playPause": "Пуск/Пауза (Пробел)",
+    "skipCountdown": "Пропустить ({{count}})",
+    "pause": "Пауза",
+    "play": "Воспроизвести",
+    "nextLine": "Следующая строка (→)",
+    "slower": "Медленнее (↓)",
+    "faster": "Быстрее (↑)",
+    "zoomOut": "Уменьшить масштаб (-)",
+    "zoomIn": "Увеличить масштаб (+)",
+    "nextSong": "Следующая песня",
+    "stopPlaylist": "Остановить плейлист",
+    "fullscreen": "Полный экран (F)",
+    "back": "Назад (ESC)",
+    "exit": "Выход"
+  },
+  "countdown": {
+    "hint": "Приготовьтесь… (нажмите или Пробел, чтобы пропустить)"
+  }
+}

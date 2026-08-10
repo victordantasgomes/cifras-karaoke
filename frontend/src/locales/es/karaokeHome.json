@@ -1,0 +1,11 @@
+{
+  "title": "Karaoke",
+  "subtitle": "Elige una canción o una lista de repertorio y sube al escenario.",
+  "continueSection": "Continuar donde lo dejaste",
+  "emptyRecent": "Reproduce una canción para que aparezca aquí.",
+  "play": "▶ reproducir",
+  "setlistsSection": "Listas de repertorio",
+  "emptySetlists": "No hay listas de repertorio creadas.",
+  "songCount_one": "{{count}} canción",
+  "songCount_other": "{{count}} canciones"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Dashboard",
+  "subtitle": "Visão geral do seu repertório.",
+  "loading": "Carregando…",
+  "empty": "Nada por aqui ainda.",
+  "stats": { "songs": "Músicas", "setlists": "Setlists", "favorites": "Favoritas", "radar": "No radar" },
+  "sections": {
+    "mostPlayed": "Mais tocadas",
+    "recent": "Últimos acessos",
+    "favorites": "Favoritas",
+    "mostPlayedArtists": "Artistas mais tocados",
+    "newlyAdded": "Adicionadas recentemente",
+    "yourFavorites": "Seus artistas e gêneros favoritos"
+  },
+  "emptyArtists": "Nenhum artista tocado ainda.",
+  "noFavoritesHint": "Você ainda não favoritou nenhum artista ou gênero.",
+  "goToFavorites": "Escolher favoritos →"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Panneau admin — outil",
+  "subtitle": "Vue d'ensemble de l'utilisation de la plateforme.",
+  "loading": "Chargement…",
+  "stats": {
+    "users": "Utilisateurs",
+    "songs": "Chansons",
+    "avgSession": "Session moyenne"
+  },
+  "sections": {
+    "mostPlayed": "Chansons les plus jouées",
+    "mostEdited": "Chansons les plus modifiées",
+    "mostSetlisted": "Chansons dans le plus de setlists",
+    "topUploaders": "Qui ajoute le plus de chansons",
+    "topByLogins": "Qui se connecte le plus"
+  },
+  "playsSuffix": "×",
+  "editsSuffix": "modifications",
+  "setlistsSuffix": "setlists",
+  "loginsSuffix": "connexions",
+  "songsSuffix": "chansons",
+  "empty": "Aucune donnée pour l'instant.",
+  "sessionUnavailable": "données insuffisantes"
+}

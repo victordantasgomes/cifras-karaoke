@@ -1,0 +1,141 @@
+{
+  "pageTitle": "Settings",
+  "pageSub": "Visual preferences.",
+  "subscriptionStatus": {
+    "none": "No subscription",
+    "trialing": "Trial period",
+    "active": "Active",
+    "past_due": "Payment pending",
+    "canceled": "Canceled"
+  },
+  "appearance": {
+    "title": "Appearance",
+    "description": "Theme and interface accent color — independent of the chord-sheet colors, configured below.",
+    "theme": "Theme",
+    "themes": { "dark": "Dark", "light": "Light" },
+    "accent": "Accent color",
+    "accents": {
+      "azul": "Blue",
+      "vermelho": "Red",
+      "verde": "Green",
+      "rosa": "Pink",
+      "lilas": "Lilac",
+      "preto": "Black",
+      "branco": "White",
+      "cinza": "Gray"
+    }
+  },
+  "branding": {
+    "title": "Band branding",
+    "description": "Your band's name and logo — shown on the karaoke stage and in band-board posts.",
+    "bandNameLabel": "Band name",
+    "bandNamePlaceholder": "e.g.: The Zé Band",
+    "save": "Save name",
+    "saving": "Saving…",
+    "logoLabel": "Logo",
+    "noLogo": "No logo uploaded.",
+    "uploadLogo": "Upload logo",
+    "uploading": "Uploading…",
+    "removeLogo": "Remove logo",
+    "removing": "Removing…"
+  },
+  "color": {
+    "title": "Karaoke colors",
+    "description": "Palette used on the karaoke stage and the chord sheet — applies to every song.",
+    "fields": {
+      "sweepSung": "Lyrics already sung",
+      "sweepUpcoming": "Upcoming lyrics",
+      "amber": "Chords / sections",
+      "sample": "Sample / auto solo",
+      "ok": "Solo / riff / tab"
+    },
+    "save": "Save colors",
+    "saving": "Saving…",
+    "restoreDefault": "Restore default"
+  },
+  "pedal": {
+    "title": "Pedal (foot switch)",
+    "description": "Detect the key your USB pedal sends (most foot switch pedals behave like a keyboard) — applies to any song with pedal mode turned on, configured in the editor's Audio tab.",
+    "currentKey": "Current key:",
+    "noneConfigured": "none configured",
+    "listening": "Press the pedal now…",
+    "detect": "Detect key"
+  },
+  "billing": {
+    "title": "Subscription",
+    "status": "Status:",
+    "plan": "plan",
+    "renewsOn": "renews on {{date}}",
+    "usage": "{{used}} of {{max}} setlists · {{storageUsed}} of {{storageMax}} MB of storage",
+    "viewPlans": "View plans",
+    "manage": "Manage subscription",
+    "opening": "Opening…",
+    "portalError": "Could not open the billing portal."
+  },
+  "userAdmin": {
+    "title": "User administration",
+    "description": "Area visible only to administrators — create new accounts, reset passwords, and track each one's usage. Time spent on screen isn't measured yet.",
+    "resetPassword": "Reset password",
+    "delete": "Delete",
+    "deleting": "Deleting…",
+    "confirmDelete": "Delete user {{username}}? Their songs and setlists remain, just without an owner.",
+    "accessCount_one": "{{count}} access",
+    "accessCount_other": "{{count}} accesses",
+    "lastLogin": "last login: {{date}}",
+    "never": "never",
+    "setlistsCount_one": "{{count}} setlist",
+    "setlistsCount_other": "{{count}} setlists",
+    "favoritesCount_one": "{{count}} favorite",
+    "favoritesCount_other": "{{count}} favorites",
+    "newPasswordPlaceholder": "New password (min. 6 characters)",
+    "confirm": "Confirm",
+    "saving": "Saving…",
+    "deleteUserError": "Could not delete the user.",
+    "resetPasswordError": "Could not reset the password.",
+    "name": "Name",
+    "username": "Username",
+    "password": "Password",
+    "admin": "Administrator",
+    "createUser": "Create user",
+    "creating": "Creating…",
+    "createUserError": "Could not create the user."
+  },
+  "plansAdmin": {
+    "title": "Plans",
+    "description": "Paid plans for the system — each one defines how many setlists and how much audio storage a subscriber is entitled to. Creating a plan (or editing an existing one's price) automatically syncs a Product/Price in Stripe.",
+    "archive": "Archive",
+    "reactivate": "Reactivate",
+    "archived": "archived",
+    "setlistsMax": "Setlists (max.)",
+    "storageMb": "Storage (MB)",
+    "priceMonthly": "Monthly price (R$)",
+    "save": "Save",
+    "saving": "Saving…",
+    "saveError": "Could not save.",
+    "name": "Name",
+    "namePlaceholder": "e.g.: Hobby",
+    "createPlan": "Create plan",
+    "creating": "Creating…",
+    "createPlanError": "Could not create the plan."
+  },
+  "normalizeLibrary": {
+    "title": "Normalize the entire library",
+    "description": "Standardizes header, chord notation, and section labels across the whole library, song by song — it processes in small batches directly from the browser (no background queue on the server), so it may take a while. You can stop and resume later: progress isn't lost.",
+    "allNormalized": "The entire library is normalized.",
+    "remainingOfTotal_one": "{{count}} song remaining out of {{total}}",
+    "remainingOfTotal_other": "{{count}} songs remaining out of {{total}}",
+    "start": "Start",
+    "stop": "Stop",
+    "error": "Batch normalization failed."
+  },
+  "storageRecompute": {
+    "title": "Recalculate audio file sizes",
+    "description": "Tracks and samples uploaded before this version don't have their size recorded (new uploads already record it right away) — this fills it in via a batch size query against each blob, without downloading the whole audio file. Needed to calculate storage usage per plan.",
+    "allDone": "All files already have their size recorded.",
+    "remainingOfTotal_one": "{{count}} file remaining out of {{total}}",
+    "remainingOfTotal_other": "{{count}} files remaining out of {{total}}",
+    "start": "Start",
+    "stop": "Stop",
+    "error": "Batch recalculation failed."
+  }
+}

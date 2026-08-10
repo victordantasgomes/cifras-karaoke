@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { useSearchParams } from 'react-router-dom'
 import { useQuery } from '@tanstack/react-query'
+import { useTranslation } from 'react-i18next'
 import api from '../services/api'
 
 /**
@@ -10,15 +11,18 @@ import api from '../services/api'
  * o estado de verdade da assinatura só é confirmado pelo webhook (ver
  * BillingCard em Settings.jsx, que consulta GET /billing/status).
  */
-function centavosParaReais(cents) {
-  return (cents / 100).toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })
-}
-
 export default function Pricing() {
+  const { t, i18n } = useTranslation('pricing')
   const [params] = useSearchParams()
   const checkout = params.get('checkout')
   const [busyPlanId, setBusyPlanId] = useState(null)
   const [error, setError] = useState('')
+
+  // moeda de cobrança é sempre BRL (ver backend/services/plans_service.py
+  // ::_CURRENCY) independente do idioma da interface — só a formatação de
+  // pontuação/posição do símbolo acompanha o idioma escolhido.
+  const centavosParaMoeda = (cents) =>
+    (cents / 100).toLocaleString(i18n.language, { style: 'currency', currency: 'BRL' })
 
   const { data: plans } = useQuery({
     queryKey: ['plans'],
@@ -36,24 +40,24 @@ export default function Pricing() {
       })
       window.location.href = data.url
     } catch (e) {
-      setError(e.response?.data?.error || 'Não foi possível iniciar o checkout.')
+      setError(e.response?.data?.error || t('checkoutError'))
       setBusyPlanId(null)
     }
   }
 
   return (
     <>
-      <h1 className="page-title">Planos</h1>
-      <div className="page-sub">14 dias grátis em qualquer plano — cancele quando quiser.</div>
+      <h1 className="page-title">{t('title')}</h1>
+      <div className="page-sub">{t('subtitle')}</div>
 
       {checkout === 'sucesso' && (
-        <div className="card" style={{ marginBottom: 14, borderColor: 'var(--accent, #46c48a)' }}>
-          Assinatura iniciada! Pode levar alguns segundos até o status atualizar aqui.
+        <div className="card" style={{ marginBottom: 14, borderColor: 'var(--accent)' }}>
+          {t('checkoutSuccess')}
         </div>
       )}
       {checkout === 'cancelado' && (
         <div className="card" style={{ marginBottom: 14 }}>
-          Checkout cancelado — nenhuma cobrança foi feita.
+          {t('checkoutCanceled')}
         </div>
       )}
       {error && <div className="error-text" style={{ marginBottom: 14 }}>{error}</div>}
@@ -63,19 +67,19 @@ export default function Pricing() {
           <div key={p.id} className="card" style={{ minWidth: 220, flex: '1 1 220px' }}>
             <h3 style={{ marginBottom: 8 }}>{p.name}</h3>
             <div style={{ fontSize: 24, fontWeight: 700, marginBottom: 12 }}>
-              {centavosParaReais(p.price_cents)}<span style={{ fontSize: 13, color: 'var(--muted)', fontWeight: 400 }}>/mês</span>
+              {centavosParaMoeda(p.price_cents)}<span style={{ fontSize: 13, color: 'var(--muted)', fontWeight: 400 }}>{t('perMonth')}</span>
             </div>
             <ul style={{ color: 'var(--muted)', margin: '0 0 16px', paddingLeft: 18 }}>
-              <li>Até {p.max_setlists} setlists</li>
-              <li>{p.storage_limit_mb} MB de armazenamento de áudio</li>
+              <li>{t('setlistsLimit', { count: p.max_setlists })}</li>
+              <li>{t('storageLimit', { mb: p.storage_limit_mb })}</li>
             </ul>
             <button className="btn primary" disabled={busyPlanId === p.id} onClick={() => assinar(p.id)}>
-              {busyPlanId === p.id ? 'Redirecionando…' : 'Assinar'}
+              {busyPlanId === p.id ? t('redirecting') : t('subscribe')}
             </button>
           </div>
         ))}
         {plans?.length === 0 && (
-          <div className="page-sub">Nenhum plano disponível no momento.</div>
+          <div className="page-sub">{t('noPlans')}</div>
         )}
       </div>
     </>

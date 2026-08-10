@@ -1,0 +1,18 @@
+{
+  "title": "Dashboard",
+  "subtitle": "Panoramica del tuo repertorio.",
+  "loading": "Caricamento…",
+  "empty": "Non c'è ancora nulla qui.",
+  "stats": { "songs": "Brani", "setlists": "Scalette", "favorites": "Preferiti", "radar": "Sotto osservazione" },
+  "sections": {
+    "mostPlayed": "Più riprodotti",
+    "recent": "Accessi recenti",
+    "favorites": "Preferiti",
+    "mostPlayedArtists": "Artisti più riprodotti",
+    "newlyAdded": "Aggiunti di recente",
+    "yourFavorites": "I tuoi artisti e generi preferiti"
+  },
+  "emptyArtists": "Nessun artista riprodotto ancora.",
+  "noFavoritesHint": "Non hai ancora aggiunto nessun artista o genere ai preferiti.",
+  "goToFavorites": "Scegli i preferiti →"
+}

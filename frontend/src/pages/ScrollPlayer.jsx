@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
 import { useQuery } from '@tanstack/react-query'
+import { useTranslation } from 'react-i18next'
 import api from '../services/api'
 import { usePlaylistStore } from '../store/playlistStore'
 import { useZoomStore } from '../store/zoomStore'
@@ -53,6 +54,7 @@ function formatTime(totalSeconds) {
  * retomar o play (ou a faixa de áudio) continua dali, sem saltar de volta.
  */
 export default function ScrollPlayer({ data }) {
+  const { t } = useTranslation('scrollPlayer')
   const { slug } = useParams()
   const navigate = useNavigate()
   const playlist = usePlaylistStore()
@@ -76,6 +78,16 @@ export default function ScrollPlayer({ data }) {
 
   const inPlaylist = playlist.active && playlist.queue[playlist.index]?.song?.slug === slug
   const canPlay = !hasAudio || audioReady
+
+  // marca própria do dono da música (Fase 8) — rota pública (sem auth),
+  // mesmo raciocínio de KaraokeStage.jsx.
+  const { data: branding } = useQuery({
+    queryKey: ['branding-info', data.owner_id],
+    queryFn: () => api.get(`/branding/${data.owner_id}`).then((r) => r.data),
+    enabled: Boolean(data.owner_id),
+    staleTime: Infinity,
+    refetchOnWindowFocus: false,
+  })
 
   // a rota /karaoke/:slug não desmonta este componente ao trocar de música
   // dentro de uma playlist com duas músicas seguidas em modo rolagem (mesmo
@@ -306,12 +318,18 @@ export default function ScrollPlayer({ data }) {
 
       <div className="k-header">
         <div>
-          {inPlaylist && <>Setlist: {playlist.setlistNome} · música {playlist.index + 1}/{playlist.queue.length} · </>}
-          {data.titulo} — {data.interprete} {data.tom && <>· Tom: {data.tom}</>} · 📜 rolagem
+          {inPlaylist && <>{t('header.playlistPrefix', { name: playlist.setlistNome, current: playlist.index + 1, total: playlist.queue.length })}</>}
+          {data.titulo} — {data.interprete} {data.tom && <>· {t('header.tom', { tom: data.tom })}</>} · 📜 {t('header.scrollBadge')}
+          {(branding?.has_logo || branding?.band_name) && (
+            <div className="k-brand">
+              {branding.has_logo && <img src={`/api/branding/${data.owner_id}/logo`} alt="" />}
+              {branding.band_name && <span>{branding.band_name}</span>}
+            </div>
+          )}
         </div>
         <div>
-          {formatTime(elapsedDisplay)} / {formatTime(totalMs / 1000)} · {rate.toFixed(1)}x · zoom {Math.round(zoom * 100)}%
-          {hasAudio && !audioReady && ' · carregando áudio…'}
+          {formatTime(elapsedDisplay)} / {formatTime(totalMs / 1000)} · {rate.toFixed(1)}x · {t('status.zoom', { percent: Math.round(zoom * 100) })}
+          {hasAudio && !audioReady && <> · {t('status.loadingAudio')}</>}
         </div>
       </div>
 
@@ -335,22 +353,22 @@ export default function ScrollPlayer({ data }) {
 
       <div className="k-controls no-print">
         {inPlaylist && (
-          <button className="btn" onClick={goPrevSong} disabled={playlist.index === 0} title="Música anterior">⏮</button>
+          <button className="btn" onClick={goPrevSong} disabled={playlist.index === 0} title={t('controls.prevSong')}>⏮</button>
         )}
-        <button className="btn" onClick={restart} title="Reiniciar (R)">⟲</button>
-        <button className="btn primary" onClick={togglePlay} disabled={!canPlay} title="Play/Pause (Espaço)">
-          {playing ? 'Pausar' : 'Tocar'}
+        <button className="btn" onClick={restart} title={t('controls.restart')}>⟲</button>
+        <button className="btn primary" onClick={togglePlay} disabled={!canPlay} title={t('controls.playPause')}>
+          {playing ? t('controls.pause') : t('controls.play')}
         </button>
-        <button className="btn" onClick={() => adjustRate(-0.1)} title="Mais lento">−</button>
-        <button className="btn" onClick={() => adjustRate(0.1)} title="Mais rápido">+</button>
-        <button className="btn" onClick={zoomOut} title="Diminuir zoom (-)">A−</button>
-        <button className="btn" onClick={zoomIn} title="Aumentar zoom (+)">A+</button>
+        <button className="btn" onClick={() => adjustRate(-0.1)} title={t('controls.slower')}>−</button>
+        <button className="btn" onClick={() => adjustRate(0.1)} title={t('controls.faster')}>+</button>
+        <button className="btn" onClick={zoomOut} title={t('controls.zoomOut')}>A−</button>
+        <button className="btn" onClick={zoomIn} title={t('controls.zoomIn')}>A+</button>
         {inPlaylist && <>
-          <button className="btn" onClick={goNextSong} title="Próxima música">⏭</button>
-          <button className="btn danger" onClick={stopPlaylist} title="Parar playlist">■</button>
+          <button className="btn" onClick={goNextSong} title={t('controls.nextSong')}>⏭</button>
+          <button className="btn danger" onClick={stopPlaylist} title={t('controls.stopPlaylist')}>■</button>
         </>}
-        <button className="btn" onClick={toggleFullscreen} title="Tela cheia (F)">⛶</button>
-        <button className="btn ghost" onClick={() => navigate(-1)} title="Voltar (ESC)">Sair</button>
+        <button className="btn" onClick={toggleFullscreen} title={t('controls.fullscreen')}>⛶</button>
+        <button className="btn ghost" onClick={() => navigate(-1)} title={t('controls.back')}>{t('controls.exit')}</button>
       </div>
     </div>
   )

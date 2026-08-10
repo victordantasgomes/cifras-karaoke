@@ -19,7 +19,7 @@ import db
 from services.songs_service import _row_to_dict
 
 MAX_PAGE_SIZE = 500
-_SORTABLE = {"titulo", "autor", "interprete", "genero", "tom", "ritmo", "velocidade", "nota", "slug"}
+_SORTABLE = {"titulo", "autor", "interprete", "genero", "tom", "ritmo", "velocidade", "nota", "slug", "created_at"}
 _SIMILARITY_THRESHOLD = 0.25
 
 # Sem header/body — a listagem não usa (_row_to_dict só lê estas colunas),
@@ -61,6 +61,8 @@ class SearchService:
         ritmo: str = "",
         tag: str = "",
         favoritas: bool = False,
+        favorite_interpretes: list[str] | None = None,
+        favorite_generos: list[str] | None = None,
         only_mine: bool = False,
         page: int = 1,
         page_size: int = 50,
@@ -87,8 +89,23 @@ class SearchService:
         if tag:
             where.append("EXISTS (SELECT 1 FROM unnest(songs.tags) t WHERE lower(t) = lower(%(tag)s))")
             params["tag"] = tag
-        if favoritas:
-            where.append("coalesce(p.favorita, false) = true")
+        # Fase 6: "favoritas" passa a significar música favoritada OU de um
+        # artista/gênero favorito — três formas independentes de favoritar,
+        # unidas por OR (ver favorites_service.py, chamado pela rota antes
+        # de montar esta busca). Cada cláusula só entra se tiver conteúdo,
+        # pra não gerar um "OR false" à toa quando só `favoritas` é usado
+        # (caso mais comum, mantém o comportamento de antes).
+        if favoritas or favorite_interpretes or favorite_generos:
+            fav_clauses = []
+            if favoritas:
+                fav_clauses.append("coalesce(p.favorita, false) = true")
+            if favorite_interpretes:
+                fav_clauses.append("songs.interprete = ANY(%(favorite_interpretes)s)")
+                params["favorite_interpretes"] = favorite_interpretes
+            if favorite_generos:
+                fav_clauses.append("lower(songs.genero) = ANY(%(favorite_generos_lower)s)")
+                params["favorite_generos_lower"] = [g.lower() for g in favorite_generos]
+            where.append("(" + " OR ".join(fav_clauses) + ")")
 
         where_sql = " AND ".join(where)
 

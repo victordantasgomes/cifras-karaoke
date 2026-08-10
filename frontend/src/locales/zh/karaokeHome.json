@@ -1,0 +1,11 @@
+{
+  "title": "卡拉OK",
+  "subtitle": "选择一首歌曲或一个歌单，登台开唱。",
+  "continueSection": "继续上次的进度",
+  "emptyRecent": "播放一首歌曲后会显示在这里。",
+  "play": "▶ 播放",
+  "setlistsSection": "歌单",
+  "emptySetlists": "还没有创建歌单。",
+  "songCount_one": "{{count}} 首歌曲",
+  "songCount_other": "{{count}} 首歌曲"
+}

@@ -1,0 +1,36 @@
+{
+  "loading": "Caricamento foglio accordi…",
+  "header": {
+    "playlistPrefix": "Setlist: {{name}} · brano {{current}}/{{total}} · ",
+    "tom": "Tonalità: {{tom}}",
+    "synthBadge": "accompagnamento sintetizzato"
+  },
+  "status": {
+    "audioLine": "riga {{current}}/{{total}} · {{rate}}x",
+    "legacyLine": "riga {{current}}/{{total}} · {{seconds}}s/riga",
+    "loadingAudio": "caricamento audio…",
+    "zoom": "zoom {{percent}}%"
+  },
+  "controls": {
+    "prevSong": "Brano precedente",
+    "restart": "Riavvia (R)",
+    "prevLine": "Riga precedente (←)",
+    "playPause": "Play/Pausa (Spazio)",
+    "skipCountdown": "Salta ({{count}})",
+    "pause": "Pausa",
+    "play": "Riproduci",
+    "nextLine": "Riga successiva (→)",
+    "slower": "Più lento (↓)",
+    "faster": "Più veloce (↑)",
+    "zoomOut": "Riduci zoom (-)",
+    "zoomIn": "Aumenta zoom (+)",
+    "nextSong": "Brano successivo",
+    "stopPlaylist": "Ferma playlist",
+    "fullscreen": "Schermo intero (F)",
+    "back": "Indietro (ESC)",
+    "exit": "Esci"
+  },
+  "countdown": {
+    "hint": "Preparati… (clicca o Spazio per saltare)"
+  }
+}

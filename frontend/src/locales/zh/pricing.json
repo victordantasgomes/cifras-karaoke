@@ -1,0 +1,14 @@
+{
+  "title": "套餐",
+  "subtitle": "任意套餐均可免费试用14天——随时可以取消。",
+  "checkoutSuccess": "订阅已开始！状态可能需要几秒钟才能在这里更新。",
+  "checkoutCanceled": "结账已取消——未产生任何扣款。",
+  "checkoutError": "无法开始结账。",
+  "perMonth": "/月",
+  "setlistsLimit_one": "最多 {{count}} 个歌单",
+  "setlistsLimit_other": "最多 {{count}} 个歌单",
+  "storageLimit": "{{mb}} MB 音频存储空间",
+  "redirecting": "正在跳转…",
+  "subscribe": "订阅",
+  "noPlans": "目前没有可用的套餐。"
+}

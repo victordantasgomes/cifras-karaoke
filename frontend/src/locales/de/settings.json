@@ -1,0 +1,141 @@
+{
+  "pageTitle": "Einstellungen",
+  "pageSub": "Visuelle Einstellungen.",
+  "subscriptionStatus": {
+    "none": "Kein Abonnement",
+    "trialing": "Testphase",
+    "active": "Aktiv",
+    "past_due": "Zahlung ausstehend",
+    "canceled": "Gekündigt"
+  },
+  "appearance": {
+    "title": "Erscheinungsbild",
+    "description": "Theme und Akzentfarbe der Oberfläche — unabhängig von den Akkordblatt-Farben, die unten eingestellt werden.",
+    "theme": "Theme",
+    "themes": { "dark": "Dunkel", "light": "Hell" },
+    "accent": "Akzentfarbe",
+    "accents": {
+      "azul": "Blau",
+      "vermelho": "Rot",
+      "verde": "Grün",
+      "rosa": "Pink",
+      "lilas": "Lila",
+      "preto": "Schwarz",
+      "branco": "Weiß",
+      "cinza": "Grau"
+    }
+  },
+  "branding": {
+    "title": "Bandmarke",
+    "description": "Name und Logo deiner Band — werden auf der Karaoke-Bühne und in Pinnwand-Beiträgen angezeigt.",
+    "bandNameLabel": "Bandname",
+    "bandNamePlaceholder": "z. B.: Die Zé-Band",
+    "save": "Namen speichern",
+    "saving": "Wird gespeichert…",
+    "logoLabel": "Logo",
+    "noLogo": "Kein Logo hochgeladen.",
+    "uploadLogo": "Logo hochladen",
+    "uploading": "Wird hochgeladen…",
+    "removeLogo": "Logo entfernen",
+    "removing": "Wird entfernt…"
+  },
+  "color": {
+    "title": "Karaoke-Farben",
+    "description": "Palette, die auf der Karaoke-Bühne und im Akkordblatt verwendet wird — gilt für alle Songs.",
+    "fields": {
+      "sweepSung": "Bereits gesungener Text",
+      "sweepUpcoming": "Kommender Text",
+      "amber": "Akkorde / Abschnitte",
+      "sample": "Sample / automatisches Solo",
+      "ok": "Solo / Riff / Tabulatur"
+    },
+    "save": "Farben speichern",
+    "saving": "Wird gespeichert…",
+    "restoreDefault": "Standard wiederherstellen"
+  },
+  "pedal": {
+    "title": "Pedal (Fußschalter)",
+    "description": "Erkenne die Taste, die dein USB-Pedal sendet (die meisten Fußschalter-Pedale verhalten sich wie eine Tastatur) — gilt für jeden Song mit aktiviertem Pedalmodus, konfiguriert im Tab „Audio“ des Editors.",
+    "currentKey": "Aktuelle Taste:",
+    "noneConfigured": "keine konfiguriert",
+    "listening": "Jetzt das Pedal drücken…",
+    "detect": "Taste erkennen"
+  },
+  "billing": {
+    "title": "Abonnement",
+    "status": "Status:",
+    "plan": "Tarif",
+    "renewsOn": "verlängert sich am {{date}}",
+    "usage": "{{used}} von {{max}} Setlists · {{storageUsed}} von {{storageMax}} MB Speicher",
+    "viewPlans": "Tarife ansehen",
+    "manage": "Abonnement verwalten",
+    "opening": "Wird geöffnet…",
+    "portalError": "Das Abrechnungsportal konnte nicht geöffnet werden."
+  },
+  "userAdmin": {
+    "title": "Benutzerverwaltung",
+    "description": "Bereich nur für Administratoren sichtbar — erstelle neue Konten, setze Passwörter zurück und verfolge die Nutzung jedes einzelnen. Die Bildschirmzeit wird noch nicht erfasst.",
+    "resetPassword": "Passwort zurücksetzen",
+    "delete": "Löschen",
+    "deleting": "Wird gelöscht…",
+    "confirmDelete": "Benutzer {{username}} löschen? Seine Songs und Setlists bleiben erhalten, nur ohne Besitzer.",
+    "accessCount_one": "{{count}} Zugriff",
+    "accessCount_other": "{{count}} Zugriffe",
+    "lastLogin": "letzte Anmeldung: {{date}}",
+    "never": "nie",
+    "setlistsCount_one": "{{count}} Setlist",
+    "setlistsCount_other": "{{count}} Setlists",
+    "favoritesCount_one": "{{count}} Favorit",
+    "favoritesCount_other": "{{count}} Favoriten",
+    "newPasswordPlaceholder": "Neues Passwort (mind. 6 Zeichen)",
+    "confirm": "Bestätigen",
+    "saving": "Wird gespeichert…",
+    "deleteUserError": "Der Benutzer konnte nicht gelöscht werden.",
+    "resetPasswordError": "Das Passwort konnte nicht zurückgesetzt werden.",
+    "name": "Name",
+    "username": "Benutzername",
+    "password": "Passwort",
+    "admin": "Administrator",
+    "createUser": "Benutzer erstellen",
+    "creating": "Wird erstellt…",
+    "createUserError": "Der Benutzer konnte nicht erstellt werden."
+  },
+  "plansAdmin": {
+    "title": "Tarife",
+    "description": "Kostenpflichtige Tarife des Systems — jeder legt fest, wie viele Setlists und wie viel Audio-Speicher einem Abonnenten zustehen. Das Erstellen eines Tarifs (oder das Bearbeiten des Preises eines bestehenden) synchronisiert automatisch ein Produkt/Preis in Stripe.",
+    "archive": "Archivieren",
+    "reactivate": "Reaktivieren",
+    "archived": "archiviert",
+    "setlistsMax": "Setlists (max.)",
+    "storageMb": "Speicher (MB)",
+    "priceMonthly": "Monatspreis (R$)",
+    "save": "Speichern",
+    "saving": "Wird gespeichert…",
+    "saveError": "Speichern nicht möglich.",
+    "name": "Name",
+    "namePlaceholder": "z. B.: Hobby",
+    "createPlan": "Tarif erstellen",
+    "creating": "Wird erstellt…",
+    "createPlanError": "Der Tarif konnte nicht erstellt werden."
+  },
+  "normalizeLibrary": {
+    "title": "Gesamte Bibliothek normalisieren",
+    "description": "Vereinheitlicht Kopfzeile, Akkordnotation und Abschnittsbezeichnungen der gesamten Bibliothek, Song für Song — verarbeitet in kleinen Stapeln direkt im Browser (keine Hintergrundwarteschlange auf dem Server), daher kann es eine Weile dauern. Du kannst anhalten und später fortsetzen: der Fortschritt geht nicht verloren.",
+    "allNormalized": "Die gesamte Bibliothek ist normalisiert.",
+    "remainingOfTotal_one": "{{count}} Song verbleibend von {{total}}",
+    "remainingOfTotal_other": "{{count}} Songs verbleibend von {{total}}",
+    "start": "Starten",
+    "stop": "Stoppen",
+    "error": "Stapelnormalisierung fehlgeschlagen."
+  },
+  "storageRecompute": {
+    "title": "Größe der Audiodateien neu berechnen",
+    "description": "Tracks und Samples, die vor dieser Version hochgeladen wurden, haben keine erfasste Größe (neue Uploads erfassen sie bereits sofort) — dies füllt sie in Stapeln über eine Größenabfrage für jeden Blob auf, ohne das gesamte Audio herunterzuladen. Erforderlich für die Berechnung der Speichernutzung pro Tarif.",
+    "allDone": "Alle Dateien haben bereits eine erfasste Größe.",
+    "remainingOfTotal_one": "{{count}} Datei verbleibend von {{total}}",
+    "remainingOfTotal_other": "{{count}} Dateien verbleibend von {{total}}",
+    "start": "Starten",
+    "stop": "Stoppen",
+    "error": "Stapelneuberechnung fehlgeschlagen."
+  }
+}

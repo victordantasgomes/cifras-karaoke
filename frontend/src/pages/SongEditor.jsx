@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
+import { useTranslation } from 'react-i18next'
 import api from '../services/api'
 import { useAuthStore } from '../store/authStore'
 import ChordSheet from '../components/ChordSheet'
@@ -21,13 +22,13 @@ const HEADER_FIELDS = [
 const KEYS = ['C','C#','Db','D','D#','Eb','E','F','F#','Gb','G','G#','Ab','A','A#','Bb','B']
 
 const EXECUTION_MODES = [
-  { value: 'rolagem', label: 'Rolagem (rola a página inteira)' },
-  { value: 'karaoke', label: 'Karaokê (linha a linha)' },
+  { value: 'rolagem', labelKey: 'edit.executionModes.rolagem' },
+  { value: 'karaoke', labelKey: 'edit.executionModes.karaoke' },
 ]
 const MODO_PEDAL_OPTIONS = [
-  { value: '', label: 'Desligado' },
-  { value: 'fila_clipes', label: 'Fila de clipes curtos' },
-  { value: 'faixa_completa', label: 'Faixa completa (a de referência, acima)' },
+  { value: '', labelKey: 'audio.pedalModes.off' },
+  { value: 'fila_clipes', labelKey: 'audio.pedalModes.filaClipes' },
+  { value: 'faixa_completa', labelKey: 'audio.pedalModes.faixaCompleta' },
 ]
 const TEMPO_EXECUCAO_RE = /^[0-9]+:[0-5][0-9]$/
 
@@ -65,6 +66,7 @@ const sameHeader = (a, b) => JSON.stringify(a) === JSON.stringify(b)
 const TIME_MARK_RE = /^\[t=\d+(?:\.\d+)?\]\s*/
 
 export default function SongEditor() {
+  const { t } = useTranslation('songEditor')
   const { slug } = useParams()
   const navigate = useNavigate()
   const qc = useQueryClient()
@@ -342,7 +344,7 @@ export default function SongEditor() {
 
   const discard = () => {
     if (!data) return
-    if (!confirm('Descartar as alterações não salvas desta música? Isso não pode ser desfeito.')) return
+    if (!confirm(t('edit.confirmDiscard'))) return
     clearTimeout(historyTimer.current)
     pendingSnapshot.current = null
     setHeader(data.header)
@@ -361,7 +363,7 @@ export default function SongEditor() {
     else if (k === 's') { e.preventDefault(); if (dirty) save.mutate() }
   }
 
-  if (!data || !header) return <div className="empty">Carregando…</div>
+  if (!data || !header) return <div className="empty">{t('loading')}</div>
 
   const isOwner = !data.user_id || data.user_id === user?.id
 
@@ -375,28 +377,28 @@ export default function SongEditor() {
           </h1>
           <div className="page-sub">
             {header['intérprete']} {header.tom && <>· <span className="chip">{header.tom}</span></>}
-            {header.normalizada === 'sim' && <>· <span className="chip" title="Cabeçalho e notação padronizados">🧼 normalizada</span></>}
-            {dirty && ' · alterações não salvas'}
+            {header.normalizada === 'sim' && <>· <span className="chip" title={t('normalizedTitle')}>{t('normalizedChip')}</span></>}
+            {dirty && t('unsavedChanges')}
           </div>
         </div>
         <div className="row">
-          <button className="btn primary" onClick={() => navigate(`/karaoke/${slug}`)}>▶ Karaokê</button>
+          <button className="btn primary" onClick={() => navigate(`/karaoke/${slug}`)}>{t('actions.karaoke')}</button>
           <button className="btn" onClick={() => toggleFav.mutate()}>
-            {header.favorita === 'sim' ? '★ Favorita' : '☆ Favoritar'}
+            {header.favorita === 'sim' ? t('actions.favorited') : t('actions.favorite')}
           </button>
-          <button className="btn" onClick={() => window.print()}>Imprimir / PDF</button>
+          <button className="btn" onClick={() => window.print()}>{t('actions.print')}</button>
           <a className="btn" href={`${api.defaults.baseURL}/songs/${slug}/export`}
-            onClick={(e) => { e.preventDefault(); exportTxt(slug, header.titulo) }}>Exportar TXT</a>
+            onClick={(e) => { e.preventDefault(); exportTxt(slug, header.titulo) }}>{t('actions.exportTxt')}</a>
           {isOwner && (
             <button className="btn" disabled={toggleShared.isPending}
-              title={data.shared ? 'Visível pra todo mundo — clique pra tornar só sua' : 'Só você vê — clique pra compartilhar'}
+              title={data.shared ? t('actions.sharedTitleOn') : t('actions.sharedTitleOff')}
               onClick={() => toggleShared.mutate()}>
-              {data.shared ? '🌐 Compartilhada' : '🔒 Privada'}
+              {data.shared ? t('actions.shared') : t('actions.private')}
             </button>
           )}
           {isOwner && (
-            <button className="btn danger" onClick={() => confirm('Excluir esta música? Ela sairá de todos os setlists.') && remove.mutate()}>
-              Excluir
+            <button className="btn danger" onClick={() => confirm(t('actions.confirmDelete')) && remove.mutate()}>
+              {t('actions.delete')}
             </button>
           )}
         </div>
@@ -404,36 +406,35 @@ export default function SongEditor() {
 
       {!isOwner && (
         <div className="card no-print" style={{ marginBottom: 14, padding: '10px 16px', color: 'var(--muted)' }}>
-          Esta música é de outro usuário — editar (incluindo transpor ou normalizar) cria uma
-          cópia sua, o original não é alterado. Enviar áudio/samples e excluir ficam restritos a quem criou.
+          {t('notOwnerBanner')}
         </div>
       )}
 
       <div className="row no-print" style={{ margin: '14px 0' }}>
-        {['view', 'edit', 'audio', 'versions'].map((t) => (
-          <button key={t} className={`btn ${tab === t ? 'primary' : 'ghost'}`} onClick={() => setTab(t)}>
-            {t === 'view' ? 'Visualizar' : t === 'edit' ? 'Editar' : t === 'audio' ? 'Áudio' : 'Histórico de versões'}
+        {['view', 'edit', 'audio', 'versions'].map((tb) => (
+          <button key={tb} className={`btn ${tab === tb ? 'primary' : 'ghost'}`} onClick={() => setTab(tb)}>
+            {t(`tabs.${tb}`)}
           </button>
         ))}
         <div className="spacer" style={{ flex: 1 }} />
-        <span style={{ color: 'var(--muted)', fontSize: 13 }}>Transpor:</span>
-        <button className="btn" onClick={() => transpose.mutate({ semitones: -1 })}>−½ tom</button>
-        <button className="btn" onClick={() => transpose.mutate({ semitones: 1 })}>+½ tom</button>
+        <span style={{ color: 'var(--muted)', fontSize: 13 }}>{t('tabs.transpose')}</span>
+        <button className="btn" onClick={() => transpose.mutate({ semitones: -1 })}>{t('tabs.downHalf')}</button>
+        <button className="btn" onClick={() => transpose.mutate({ semitones: 1 })}>{t('tabs.upHalf')}</button>
         <select className="input" style={{ width: 120 }} value=""
           onChange={(e) => e.target.value && transpose.mutate({ to_key: e.target.value })}>
-          <option value="">Para o tom…</option>
+          <option value="">{t('tabs.toKey')}</option>
           {KEYS.map((k) => <option key={k}>{k}</option>)}
         </select>
-        <span style={{ color: 'var(--muted)', fontSize: 13 }}>Nota:</span>
+        <span style={{ color: 'var(--muted)', fontSize: 13 }}>{t('tabs.rating')}</span>
         <select className="input" style={{ width: 76 }} value={header.nota || ''}
           onChange={(e) => setRating.mutate(Number(e.target.value))}>
           <option value="">—</option>
           {Array.from({ length: 10 }, (_, i) => <option key={i + 1}>{i + 1}</option>)}
         </select>
         <button className="btn" disabled={normalize.isPending}
-          title="Padroniza cabeçalho, notação de acordes e rótulos de seção — nunca mexe no espaçamento entre acorde e letra"
+          title={t('tabs.normalizeTitle')}
           onClick={() => normalize.mutate()}>
-          {normalize.isPending ? 'Normalizando…' : '🧼 Normalizar'}
+          {normalize.isPending ? t('tabs.normalizing') : t('tabs.normalize')}
         </button>
       </div>
 
@@ -445,16 +446,16 @@ export default function SongEditor() {
         <div className="row" style={{ alignItems: 'flex-start' }} onKeyDown={handleEditorKeyDown}>
           <div className="card" style={{ width: 300, flexShrink: 0 }}>
             <div className="row" style={{ justifyContent: 'space-between', alignItems: 'center', marginBottom: 12 }}>
-              <h3>Cabeçalho</h3>
+              <h3>{t('edit.header')}</h3>
               <button className="btn" disabled={aiSuggest.isPending}
-                title="Sugere intérprete, tom, ritmo musical e tags com base na letra — só preenche os campos vazios, você revisa e salva"
+                title={t('edit.aiSuggestTitle')}
                 onClick={() => aiSuggest.mutate()}>
-                {aiSuggest.isPending ? 'Sugerindo…' : '✨ Sugerir com IA'}
+                {aiSuggest.isPending ? t('edit.aiSuggesting') : t('edit.aiSuggest')}
               </button>
             </div>
             {aiSuggest.isError && (
               <div className="error-text" style={{ marginBottom: 10 }}>
-                {aiSuggest.error?.response?.data?.error || 'Não foi possível gerar sugestões.'}
+                {aiSuggest.error?.response?.data?.error || t('edit.aiSuggestError')}
               </div>
             )}
             {HEADER_FIELDS.map((f) => (
@@ -465,68 +466,68 @@ export default function SongEditor() {
               </div>
             ))}
             <div className="field">
-              <label>Modo de execução</label>
+              <label>{t('edit.executionMode')}</label>
               <select className="input" value={header.modoexecucao || 'rolagem'}
                 onChange={(e) => updateHeaderField('modoexecucao', e.target.value)}>
-                {EXECUTION_MODES.map((m) => <option key={m.value} value={m.value}>{m.label}</option>)}
+                {EXECUTION_MODES.map((m) => <option key={m.value} value={m.value}>{t(m.labelKey)}</option>)}
               </select>
             </div>
             <div className="field">
-              <label>Tempo de execução (mm:ss)</label>
-              <input className="input" placeholder="ex.: 03:30" value={header.tempoexecucao || ''}
+              <label>{t('edit.executionTime')}</label>
+              <input className="input" placeholder={t('edit.executionTimePlaceholder')} value={header.tempoexecucao || ''}
                 onChange={(e) => updateHeaderField('tempoexecucao', e.target.value)}
                 style={!header.tempoexecucao || TEMPO_EXECUCAO_RE.test(header.tempoexecucao)
                   ? undefined : { borderColor: 'var(--danger)' }} />
               <div className="page-sub" style={{ margin: '4px 0 0', fontSize: 12 }}>
-                Duração da música — define a velocidade da rolagem no modo Rolagem.
+                {t('edit.executionTimeHint')}
               </div>
             </div>
           </div>
           <div className="card" style={{ flex: 1 }}>
-            <h3 style={{ marginBottom: 12 }}>Cifra</h3>
+            <h3 style={{ marginBottom: 12 }}>{t('edit.chordSheet')}</h3>
             <div className="row" style={{ marginBottom: 8, gap: 8 }}>
               <select className="input" style={{ width: 160 }} value={sectionLabel}
                 onChange={(e) => setSectionLabel(e.target.value)}>
                 {SECTION_LABELS.map((l) => <option key={l}>{l}</option>)}
               </select>
-              <button type="button" className="btn" title="Insere [Rótulo] antes da linha atual"
-                onClick={insertSectionLabel}>+ Rótulo de seção</button>
+              <button type="button" className="btn" title={t('edit.insertSectionLabelTitle')}
+                onClick={insertSectionLabel}>{t('edit.insertSectionLabel')}</button>
               <span style={{ width: 1, alignSelf: 'stretch', background: 'var(--stroke)' }} />
-              <button type="button" className="btn" title="Marca a linha atual como observação visível no karaokê"
-                onClick={() => insertObservacao(false)}>💬 Observação</button>
-              <button type="button" className="btn" title="Marca a linha atual como observação oculta (não aparece no karaokê)"
-                onClick={() => insertObservacao(true)}>🔒 Observação oculta</button>
-              <button type="button" className="btn" title="Envolve o trecho selecionado como solo"
-                onClick={() => insertTagBlock('solo')}>🎸 Solo</button>
-              <button type="button" className="btn" title="Envolve o trecho selecionado como riff"
-                onClick={() => insertTagBlock('riff')}>🎵 Riff</button>
-              <button type="button" className="btn" title="Envolve o trecho selecionado como tablatura"
-                onClick={() => insertTagBlock('tab')}>🎼 Tablatura</button>
+              <button type="button" className="btn" title={t('edit.observationTitle')}
+                onClick={() => insertObservacao(false)}>{t('edit.observation')}</button>
+              <button type="button" className="btn" title={t('edit.hiddenObservationTitle')}
+                onClick={() => insertObservacao(true)}>{t('edit.hiddenObservation')}</button>
+              <button type="button" className="btn" title={t('edit.soloTitle')}
+                onClick={() => insertTagBlock('solo')}>{t('edit.solo')}</button>
+              <button type="button" className="btn" title={t('edit.riffTitle')}
+                onClick={() => insertTagBlock('riff')}>{t('edit.riff')}</button>
+              <button type="button" className="btn" title={t('edit.tabTitle')}
+                onClick={() => insertTagBlock('tab')}>{t('edit.tab')}</button>
               {sampleEntries.length > 0 && <>
                 <span style={{ width: 1, alignSelf: 'stretch', background: 'var(--stroke)' }} />
                 <select className="input" style={{ width: 180 }} value={sampleToInsert}
                   onChange={(e) => setSampleToInsert(e.target.value)}>
                   {sampleEntries.map(([id, meta]) => <option key={id} value={meta.nome}>{meta.nome}</option>)}
                 </select>
-                <button type="button" className="btn" title="Insere [@sample] antes da linha atual — toca sozinho se a linha tiver [t=SEG]"
-                  onClick={() => insertSample(sampleToInsert)}>🔊 Sample</button>
+                <button type="button" className="btn" title={t('edit.insertSampleTitle')}
+                  onClick={() => insertSample(sampleToInsert)}>{t('edit.insertSample')}</button>
               </>}
             </div>
             <textarea ref={textareaRef} className="input" rows={26} value={body}
               onChange={(e) => updateBody(e.target.value)} />
             <div className="row" style={{ marginTop: 12, flexWrap: 'wrap' }}>
               <button className="btn primary" disabled={!dirty || save.isPending} onClick={() => save.mutate()}
-                title="Salvar (Ctrl+S)">
-                {save.isPending ? 'Salvando…' : 'Salvar'}
+                title={t('edit.saveTitle')}>
+                {save.isPending ? t('edit.saving') : t('edit.save')}
               </button>
               <button type="button" className="btn" disabled={!canUndo} onClick={undo}
-                title="Desfazer (Ctrl+Z)">↶ Desfazer</button>
+                title={t('edit.undoTitle')}>{t('edit.undo')}</button>
               <button type="button" className="btn" disabled={!canRedo} onClick={redo}
-                title="Refazer (Ctrl+Shift+Z)">↷ Refazer</button>
+                title={t('edit.redoTitle')}>{t('edit.redo')}</button>
               <button type="button" className="btn danger" disabled={!dirty} onClick={discard}
-                title="Descartar todas as alterações não salvas">✕ Descartar alterações</button>
+                title={t('edit.discardTitle')}>{t('edit.discard')}</button>
               <span style={{ color: 'var(--muted)', fontSize: 12.5 }}>
-                Auto-save ativo · cada salvamento gera uma versão no histórico
+                {t('edit.autosaveHint')}
               </span>
             </div>
           </div>
@@ -544,10 +545,10 @@ export default function SongEditor() {
 }
 
 const INSTRUMENT_FIELDS = [
-  ['bateria', '🥁 Bateria'],
-  ['guitarra', '🎸 Guitarra'],
-  ['baixo', '🎵 Baixo'],
-  ['teclado', '🎹 Teclado'],
+  ['bateria', 'audio.instruments.bateria'],
+  ['guitarra', 'audio.instruments.guitarra'],
+  ['baixo', 'audio.instruments.baixo'],
+  ['teclado', 'audio.instruments.teclado'],
 ]
 
 /** true se pelo menos uma linha de acorde da cifra tiver um símbolo
@@ -609,6 +610,7 @@ function useBandPreview(body, header) {
 }
 
 function AudioTab({ slug, body, markLineTime, header, updateHeaderField, isOwner }) {
+  const { t } = useTranslation('songEditor')
   const qc = useQueryClient()
   const [trackFile, setTrackFile] = useState(null)
   const [sampleFile, setSampleFile] = useState(null)
@@ -677,29 +679,29 @@ function AudioTab({ slug, body, markLineTime, header, updateHeaderField, isOwner
   return (
     <div>
       <div className="card" style={{ marginBottom: 16 }}>
-        <h3 style={{ marginBottom: 12 }}>Faixa de referência</h3>
+        <h3 style={{ marginBottom: 12 }}>{t('audio.referenceTrack')}</h3>
         {trackUrl ? (
           <>
             <audio ref={audioRef} controls src={trackUrl} style={{ width: '100%', marginBottom: 10 }} />
             {isOwner && (
               <button className="btn danger" onClick={() => deleteTrack.mutate()} disabled={deleteTrack.isPending}>
-                Remover faixa
+                {t('audio.removeTrack')}
               </button>
             )}
           </>
         ) : (
           <div className="empty" style={{ padding: '20px 0' }}>
-            {loadingTrack ? 'Carregando…' : noTrack ? 'Nenhuma faixa enviada ainda.' : ''}
+            {loadingTrack ? t('audio.loadingTrack') : noTrack ? t('audio.noTrack') : ''}
           </div>
         )}
         {isOwner && (
           <>
             <div className="field" style={{ marginTop: 14 }}>
-              <label>Enviar / substituir faixa (mp3, wav…)</label>
+              <label>{t('audio.uploadTrackLabel')}</label>
               <input className="input" type="file" accept="audio/*" onChange={(e) => setTrackFile(e.target.files[0])} />
             </div>
             <button className="btn primary" disabled={!trackFile || uploadTrack.isPending} onClick={() => uploadTrack.mutate()}>
-              {uploadTrack.isPending ? 'Enviando…' : 'Enviar faixa'}
+              {uploadTrack.isPending ? t('audio.uploading') : t('audio.uploadTrack')}
             </button>
           </>
         )}
@@ -711,65 +713,60 @@ function AudioTab({ slug, body, markLineTime, header, updateHeaderField, isOwner
       </div>
 
       <div className="card" style={{ marginBottom: 16 }}>
-        <h3 style={{ marginBottom: 12 }}>Acompanhamento sintetizado</h3>
+        <h3 style={{ marginBottom: 12 }}>{t('audio.synthTitle')}</h3>
         <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>
-          Sintetiza bateria/guitarra/baixo/teclado a partir dos acordes da
-          cifra — só assume o palco de karaokê no lugar de uma gravação de
-          verdade; se houver uma faixa de referência enviada acima, ela
-          sempre tem prioridade.
+          {t('audio.synthDescription')}
         </p>
         <div className="field" style={{ maxWidth: 160 }}>
-          <label>@bpm (andamento)</label>
+          <label>@bpm {t('audio.bpmHint')}</label>
           <input className="input" type="number" min="20" max="300" value={header.bpm || ''}
-            onChange={(e) => updateHeaderField('bpm', e.target.value)} placeholder="ex.: 90" />
+            onChange={(e) => updateHeaderField('bpm', e.target.value)} placeholder={t('audio.bpmPlaceholder')} />
         </div>
         <div className="row" style={{ marginTop: 10, marginBottom: 8 }}>
-          {INSTRUMENT_FIELDS.map(([field, label]) => (
+          {INSTRUMENT_FIELDS.map(([field, labelKey]) => (
             <label key={field} className="row" style={{ gap: 6, opacity: header.bpm ? 1 : 0.5 }}>
               <input type="checkbox" disabled={!header.bpm} checked={header[field] === 'sim'}
                 onChange={(e) => updateHeaderField(field, e.target.checked ? 'sim' : '')} />
-              {label}
+              {t(labelKey)}
             </label>
           ))}
         </div>
-        {!header.bpm && <div className="page-sub">Defina o BPM acima para habilitar os instrumentos.</div>}
+        {!header.bpm && <div className="page-sub">{t('audio.bpmRequired')}</div>}
         {Boolean(header.bpm) && !chordAvailable && (
           <div className="page-sub">
-            Nenhum acorde reconhecido na cifra — baixo/guitarra/teclado ficam em silêncio; só a bateria toca.
+            {t('audio.noChord')}
           </div>
         )}
         <div className="row" style={{ marginTop: 10 }}>
           <button type="button" className="btn primary" disabled={!header.bpm} onClick={bandPreview.toggle}>
-            {bandPreview.playing ? '■ Parar' : '▶ Pré-visualizar acompanhamento'}
+            {bandPreview.playing ? t('audio.stopPreview') : t('audio.startPreview')}
           </button>
         </div>
       </div>
 
       <div className="card" style={{ marginBottom: 16 }}>
-        <h3 style={{ marginBottom: 12 }}>Pedal (foot switch)</h3>
+        <h3 style={{ marginBottom: 12 }}>{t('audio.pedalTitle')}</h3>
         <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>
-          Controle a reprodução com as mãos livres durante a apresentação, usando
-          um pedal USB configurado para enviar uma tecla — a tecla em si é
-          configurada em Configurações, uma vez só, e vale pra qualquer música.
+          {t('audio.pedalDescription')}
         </p>
         <div className="field" style={{ maxWidth: 280 }}>
-          <label>Modo do pedal nesta música</label>
+          <label>{t('audio.pedalMode')}</label>
           <select className="input" value={header.modopedal || ''} disabled={!isOwner}
             onChange={(e) => updateHeaderField('modopedal', e.target.value)}>
-            {MODO_PEDAL_OPTIONS.map((m) => <option key={m.value} value={m.value}>{m.label}</option>)}
+            {MODO_PEDAL_OPTIONS.map((m) => <option key={m.value} value={m.value}>{t(m.labelKey)}</option>)}
           </select>
         </div>
         {header.modopedal === 'fila_clipes' && <ClipQueueSection slug={slug} isOwner={isOwner} />}
         {header.modopedal === 'faixa_completa' && (
           <div className="page-sub" style={{ marginTop: 10 }}>
-            A tecla do pedal liga/desliga a faixa de referência enviada acima.
+            {t('audio.pedalFullTrackHint')}
           </div>
         )}
       </div>
 
       <div className="card">
-        <h3 style={{ marginBottom: 12 }}>Samples / solos</h3>
-        {samples && Object.keys(samples).length === 0 && <div className="empty">Nenhum sample enviado.</div>}
+        <h3 style={{ marginBottom: 12 }}>{t('audio.samples')}</h3>
+        {samples && Object.keys(samples).length === 0 && <div className="empty">{t('audio.noSamples')}</div>}
         {samples && Object.entries(samples).map(([id, meta]) => (
           <SampleRow key={id} slug={slug} id={id} nome={meta.nome} isOwner={isOwner}
             onDelete={() => deleteSample.mutate(id)} deleting={deleteSample.isPending} />
@@ -777,24 +774,22 @@ function AudioTab({ slug, body, markLineTime, header, updateHeaderField, isOwner
         {isOwner && (
           <div className="row" style={{ marginTop: 12 }}>
             <div className="field" style={{ flex: 1 }}>
-              <label>Nome do sample</label>
+              <label>{t('audio.sampleNameLabel')}</label>
               <input className="input" value={sampleNome} onChange={(e) => setSampleNome(e.target.value)}
-                placeholder="ex.: Solo de Guitarra" />
+                placeholder={t('audio.sampleNamePlaceholder')} />
             </div>
             <div className="field" style={{ flex: 1 }}>
-              <label>Arquivo de áudio</label>
+              <label>{t('audio.audioFileLabel')}</label>
               <input className="input" type="file" accept="audio/*" onChange={(e) => setSampleFile(e.target.files[0])} />
             </div>
             <button className="btn primary" disabled={!sampleFile || !sampleNome.trim() || uploadSample.isPending}
               onClick={() => uploadSample.mutate()}>
-              {uploadSample.isPending ? 'Enviando…' : '+ Sample'}
+              {uploadSample.isPending ? t('audio.uploading') : t('audio.addSample')}
             </button>
           </div>
         )}
         <div className="page-sub" style={{ marginTop: 10 }}>
-          Use o botão 🔊 Sample na aba Editar para inserir <code>[@sample] nome</code> na
-          cifra no ponto certo — ele só dispara sozinho no karaokê se essa linha
-          também tiver um <code>[t=SEG]</code> marcado.
+          {t('audio.helpPrefix')} <code>[@sample] nome</code> {t('audio.helpMiddle')} <code>[t=SEG]</code> {t('audio.helpSuffix')}
         </div>
       </div>
     </div>
@@ -802,6 +797,7 @@ function AudioTab({ slug, body, markLineTime, header, updateHeaderField, isOwner
 }
 
 function SampleRow({ slug, id, nome, onDelete, deleting, isOwner }) {
+  const { t } = useTranslation('songEditor')
   const { data: blob } = useQuery({
     queryKey: ['sample-audio-blob', slug, id],
     queryFn: () => api.get(`/songs/${slug}/samples/${id}`, { responseType: 'blob' }).then((r) => r.data),
@@ -820,12 +816,13 @@ function SampleRow({ slug, id, nome, onDelete, deleting, isOwner }) {
     <div className="row" style={{ marginBottom: 8, alignItems: 'center' }}>
       <span style={{ minWidth: 160 }}>{nome}</span>
       {url && <audio controls src={url} style={{ height: 32, flex: 1 }} />}
-      {isOwner && <button className="btn danger" onClick={onDelete} disabled={deleting}>Excluir</button>}
+      {isOwner && <button className="btn danger" onClick={onDelete} disabled={deleting}>{t('audio.delete')}</button>}
     </div>
   )
 }
 
 function ClipQueueSection({ slug, isOwner }) {
+  const { t } = useTranslation('songEditor')
   const qc = useQueryClient()
   const [clipFile, setClipFile] = useState(null)
   const [clipNome, setClipNome] = useState('')
@@ -867,8 +864,8 @@ function ClipQueueSection({ slug, isOwner }) {
 
   return (
     <div style={{ marginTop: 16 }}>
-      <h4 style={{ marginBottom: 8, fontSize: 14 }}>Fila de clipes</h4>
-      {clips && clips.length === 0 && <div className="empty">Nenhum clipe enviado ainda.</div>}
+      <h4 style={{ marginBottom: 8, fontSize: 14 }}>{t('audio.clipQueue.title')}</h4>
+      {clips && clips.length === 0 && <div className="empty">{t('audio.clipQueue.empty')}</div>}
       {clips && clips.map((c, i) => (
         <ClipRow key={c.id} slug={slug} id={c.id} nome={c.nome} isOwner={isOwner}
           onMoveUp={() => move(i, -1)} onMoveDown={() => move(i, 1)}
@@ -878,30 +875,29 @@ function ClipQueueSection({ slug, isOwner }) {
       {isOwner && (
         <div className="row" style={{ marginTop: 12 }}>
           <div className="field" style={{ flex: 1 }}>
-            <label>Nome do clipe</label>
+            <label>{t('audio.clipQueue.nameLabel')}</label>
             <input className="input" value={clipNome} onChange={(e) => setClipNome(e.target.value)}
-              placeholder="ex.: Introdução" />
+              placeholder={t('audio.clipQueue.namePlaceholder')} />
           </div>
           <div className="field" style={{ flex: 1 }}>
-            <label>Arquivo de áudio</label>
+            <label>{t('audio.audioFileLabel')}</label>
             <input className="input" type="file" accept="audio/*" onChange={(e) => setClipFile(e.target.files[0])} />
           </div>
           <button className="btn primary" disabled={!clipFile || !clipNome.trim() || uploadClip.isPending}
             onClick={() => uploadClip.mutate()}>
-            {uploadClip.isPending ? 'Enviando…' : '+ Clipe'}
+            {uploadClip.isPending ? t('audio.uploading') : t('audio.clipQueue.addClip')}
           </button>
         </div>
       )}
       <div className="page-sub" style={{ marginTop: 10 }}>
-        Cada aperto do pedal toca o próximo clipe da fila, interrompendo o
-        anterior se ainda estiver tocando. Depois do último, o pedal não faz
-        mais nada até a página ser recarregada.
+        {t('audio.clipQueue.hint')}
       </div>
     </div>
   )
 }
 
 function ClipRow({ slug, id, nome, isOwner, onMoveUp, onMoveDown, canMoveUp, canMoveDown, onDelete, deleting }) {
+  const { t } = useTranslation('songEditor')
   const { data: blob } = useQuery({
     queryKey: ['clip-audio-blob', slug, id],
     queryFn: () => api.get(`/songs/${slug}/clips/${id}`, { responseType: 'blob' }).then((r) => r.data),
@@ -921,19 +917,20 @@ function ClipRow({ slug, id, nome, isOwner, onMoveUp, onMoveDown, canMoveUp, can
       {isOwner && (
         <div className="row" style={{ flexDirection: 'column', gap: 2, flexWrap: 'nowrap' }}>
           <button type="button" className="btn ghost" style={{ padding: '1px 6px', fontSize: 11, lineHeight: 1.4 }}
-            disabled={!canMoveUp} title="Mover pra cima" onClick={onMoveUp}>▲</button>
+            disabled={!canMoveUp} title={t('audio.clipQueue.moveUp')} onClick={onMoveUp}>▲</button>
           <button type="button" className="btn ghost" style={{ padding: '1px 6px', fontSize: 11, lineHeight: 1.4 }}
-            disabled={!canMoveDown} title="Mover pra baixo" onClick={onMoveDown}>▼</button>
+            disabled={!canMoveDown} title={t('audio.clipQueue.moveDown')} onClick={onMoveDown}>▼</button>
         </div>
       )}
       <span style={{ minWidth: 160 }}>{nome}</span>
       {url && <audio controls src={url} style={{ height: 32, flex: 1 }} />}
-      {isOwner && <button className="btn danger" onClick={onDelete} disabled={deleting}>Excluir</button>}
+      {isOwner && <button className="btn danger" onClick={onDelete} disabled={deleting}>{t('audio.delete')}</button>}
     </div>
   )
 }
 
 function Versions({ slug }) {
+  const { t, i18n } = useTranslation('songEditor')
   const qc = useQueryClient()
   const [selected, setSelected] = useState(null)
   const { data: versions } = useQuery({
@@ -950,7 +947,7 @@ function Versions({ slug }) {
     onSuccess: () => { qc.invalidateQueries(['song', slug]); qc.invalidateQueries(['versions', slug]) },
   })
 
-  if (!versions?.length) return <div className="card empty">Nenhuma versão anterior. As versões são criadas a cada salvamento.</div>
+  if (!versions?.length) return <div className="card empty">{t('versions.empty')}</div>
 
   return (
     <div className="row" style={{ alignItems: 'flex-start' }}>
@@ -959,24 +956,24 @@ function Versions({ slug }) {
           <div key={v.id} className="song-row" style={{ gridTemplateColumns: '1fr' }}
             onClick={() => setSelected(v.id)}>
             <div className={selected === v.id ? 'title' : 'meta'}>
-              {new Date(v.saved_at).toLocaleString('pt-BR')}
+              {new Date(v.saved_at).toLocaleString(i18n.language)}
             </div>
           </div>
         ))}
       </div>
       <div className="card" style={{ flex: 1 }}>
-        {!selected && <div className="empty">Selecione uma versão para comparar com a atual.</div>}
+        {!selected && <div className="empty">{t('versions.selectPrompt')}</div>}
         {detail && (
           <>
             <div className="row" style={{ justifyContent: 'space-between', marginBottom: 12 }}>
-              <h3>Diferenças (versão → atual)</h3>
+              <h3>{t('versions.diffTitle')}</h3>
               <button className="btn primary"
-                onClick={() => confirm('Restaurar esta versão? A atual irá para o histórico.') && restore.mutate(selected)}>
-                Restaurar esta versão
+                onClick={() => confirm(t('versions.confirmRestore')) && restore.mutate(selected)}>
+                {t('versions.restore')}
               </button>
             </div>
             <div className="diff">
-              {detail.diff.length === 0 && <div className="empty">Sem diferenças no corpo da cifra.</div>}
+              {detail.diff.length === 0 && <div className="empty">{t('versions.noDiff')}</div>}
               {detail.diff.map((l, i) => (
                 <div key={i} className={l.startsWith('+') ? 'add' : l.startsWith('-') ? 'del' : l.startsWith('@') ? 'hunk' : ''}>
                   {l}

@@ -1,0 +1,27 @@
+{
+  "title": "Synchroniser",
+  "hint": {
+    "clickStep": "Cliquez sur une étape de la liste ci-dessous pour la sélectionner et y accéder directement",
+    "dragMarker": "glissez un marqueur sur la forme d'onde pour ajuster le temps",
+    "spaceMark": "la barre d'<strong>Espace</strong> marque l'étape actuelle et passe à la suivante"
+  },
+  "generatingWaveform": "Génération de la forme d'onde…",
+  "pause": "⏸ Pause",
+  "play": "▶ Lecture",
+  "stop": "⏹ Arrêt",
+  "speed": "Vitesse :",
+  "zoom": "Zoom :",
+  "lineFallback": "ligne {{number}}",
+  "stagePreview": "Aperçu de la scène (balayage)",
+  "markStep": "⏱ Marquer l'étape",
+  "previous": "← précédent",
+  "next": "suivant →",
+  "markedCount": "{{marked}} sur {{total}} passages marqués",
+  "notMarked": "ne marque pas",
+  "pauseMarker": "· pause ·",
+  "blockFallback": "(bloc)",
+  "blankLine": "(ligne vide)",
+  "lines_one": "{{count}} ligne",
+  "lines_other": "{{count}} lignes",
+  "uploadHint": "Envoyez une piste ci-dessus pour pouvoir synchroniser la partition."
+}

@@ -1,0 +1,24 @@
+{
+  "title": "管理面板 — 工具",
+  "subtitle": "平台使用情况概览。",
+  "loading": "加载中…",
+  "stats": {
+    "users": "用户",
+    "songs": "歌曲",
+    "avgSession": "平均会话时长"
+  },
+  "sections": {
+    "mostPlayed": "播放最多的歌曲",
+    "mostEdited": "编辑最多的歌曲",
+    "mostSetlisted": "加入歌单最多的歌曲",
+    "topUploaders": "上传歌曲最多的用户",
+    "topByLogins": "登录最多的用户"
+  },
+  "playsSuffix": "次",
+  "editsSuffix": "次编辑",
+  "setlistsSuffix": "个歌单",
+  "loginsSuffix": "次登录",
+  "songsSuffix": "首歌",
+  "empty": "暂无数据。",
+  "sessionUnavailable": "数据不足"
+}

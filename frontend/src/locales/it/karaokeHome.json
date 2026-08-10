@@ -1,0 +1,11 @@
+{
+  "title": "Karaoke",
+  "subtitle": "Scegli un brano o una scaletta e sali sul palco.",
+  "continueSection": "Continua da dove avevi interrotto",
+  "emptyRecent": "Riproduci un brano perché appaia qui.",
+  "play": "▶ riproduci",
+  "setlistsSection": "Scalette",
+  "emptySetlists": "Nessuna scaletta creata.",
+  "songCount_one": "{{count}} brano",
+  "songCount_other": "{{count}} brani"
+}

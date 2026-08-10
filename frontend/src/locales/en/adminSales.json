@@ -1,0 +1,24 @@
+{
+  "title": "Admin panel — sales",
+  "subtitle": "Subscriptions and acquisition.",
+  "loading": "Loading…",
+  "stats": {
+    "activeSubscriptions": "Active subscriptions",
+    "landingViews": "Landing page views"
+  },
+  "sections": {
+    "byStatus": "By status",
+    "byPlan": "Subscriptions by plan",
+    "cancellationTrend": "Cancellations over time"
+  },
+  "status": {
+    "none": "No subscription",
+    "trialing": "Trialing",
+    "active": "Active",
+    "past_due": "Payment past due",
+    "canceled": "Canceled"
+  },
+  "subscribersSuffix": "subscribers",
+  "empty": "No data yet.",
+  "trendHint": "Approximate — based on Stripe webhook events recorded so far."
+}

@@ -7,6 +7,12 @@
     "history": "Cronologia",
     "karaoke": "Karaoke",
     "chordDictionary": "Dizionario degli accordi",
+    "bandBoard": "Forma una band",
+    "tools": "Strumenti",
+    "metronome": "Metronomo",
+    "tuner": "Accordatore",
+    "adminTools": "Pannello admin",
+    "adminSales": "Pannello vendite",
     "settings": "Impostazioni",
     "profile": "Profilo",
     "logout": "Esci"
@@ -36,5 +42,6 @@
     "label": "Lingua",
     "description": "Scegli la lingua dell'interfaccia.",
     "auto": "Suggerita dal browser"
-  }
+  },
+  "loadingChord": "Caricamento del foglio accordi…"
 }

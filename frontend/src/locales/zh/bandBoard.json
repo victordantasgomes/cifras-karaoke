@@ -1,0 +1,60 @@
+{
+  "title": "组建乐队",
+  "subtitle": "乐队招募乐手、乐手寻找乐队的启事。",
+  "backToApp": "返回仪表盘",
+  "login": "登录",
+  "signup": "创建账号",
+  "newPost": "+ 发布启事",
+  "myPosts": "我的启事",
+  "empty": "目前没有活跃的启事。",
+  "emptyMine": "你还没有发布任何启事。",
+  "inactiveBadge": "已停用",
+  "form": {
+    "createTitle": "新建启事",
+    "editTitle": "编辑启事",
+    "bandName": "乐队名称",
+    "genero": "音乐流派",
+    "style": "风格（自由文本）",
+    "skillLevel": "技术水平",
+    "skillLevelPlaceholder": "请选择…",
+    "skillLevels": {
+      "iniciante": "初学者",
+      "intermediario": "中级",
+      "avancado": "高级",
+      "profissional": "专业"
+    },
+    "goal": "目标",
+    "goalPlaceholder": "请选择…",
+    "goals": {
+      "hobby": "兴趣爱好",
+      "ensaios_regulares": "定期排练",
+      "shows_pagos": "付费演出",
+      "gravacao": "录音/录音室"
+    },
+    "rehearsalDays": "排练日",
+    "rehearsalDaysPlaceholder": "例如：周二、周四",
+    "instrumentsNeeded": "需要的乐器",
+    "instrumentsPlaceholder": "例如：贝斯、鼓",
+    "bio": "乐队简介",
+    "contactInfo": "联系方式",
+    "contactPlaceholder": "例如：WhatsApp、电子邮箱、Instagram",
+    "linkSetlists": "关联歌单（可选）",
+    "submit": "发布启事",
+    "saving": "保存中…",
+    "saveChanges": "保存更改",
+    "cancel": "取消"
+  },
+  "card": {
+    "contact": "联系方式：",
+    "rehearsalDays": "排练日：",
+    "instrumentsNeeded": "招募：",
+    "deactivate": "停用",
+    "activate": "重新启用",
+    "edit": "编辑"
+  },
+  "errors": {
+    "create": "无法发布启事。",
+    "update": "无法保存更改。",
+    "toggle": "无法更改启事状态。"
+  }
+}

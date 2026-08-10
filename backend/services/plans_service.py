@@ -84,6 +84,14 @@ class PlansService:
             rows = conn.execute("select * from plans where active=true order by price_cents").fetchall()
         return [_row_to_dict(r) for r in rows]
 
+    def list_public(self) -> list[dict]:
+        """Pra seção de preços da landing page (visitante sem login) — igual
+        list_active(), mas sem os ids internos da Stripe."""
+        return [
+            {k: v for k, v in p.items() if k not in ("stripe_product_id", "stripe_price_id")}
+            for p in self.list_active()
+        ]
+
     def create(self, name: str, max_setlists: int, storage_limit_mb: int, price_cents: int) -> dict:
         name = name.strip()
         if not name:

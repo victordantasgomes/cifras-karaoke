@@ -1,0 +1,141 @@
+{
+  "pageTitle": "设置",
+  "pageSub": "外观偏好设置。",
+  "subscriptionStatus": {
+    "none": "无订阅",
+    "trialing": "试用期",
+    "active": "已激活",
+    "past_due": "付款逾期",
+    "canceled": "已取消"
+  },
+  "appearance": {
+    "title": "外观",
+    "description": "界面的主题和强调色——与下方设置的歌词谱配色相互独立。",
+    "theme": "主题",
+    "themes": { "dark": "深色", "light": "浅色" },
+    "accent": "强调色",
+    "accents": {
+      "azul": "蓝色",
+      "vermelho": "红色",
+      "verde": "绿色",
+      "rosa": "粉色",
+      "lilas": "淡紫色",
+      "preto": "黑色",
+      "branco": "白色",
+      "cinza": "灰色"
+    }
+  },
+  "branding": {
+    "title": "乐队品牌",
+    "description": "你的乐队名称和 Logo——会显示在卡拉OK舞台和乐队招募板的帖子中。",
+    "bandNameLabel": "乐队名称",
+    "bandNamePlaceholder": "例如：泽乐队",
+    "save": "保存名称",
+    "saving": "保存中…",
+    "logoLabel": "Logo",
+    "noLogo": "尚未上传 Logo。",
+    "uploadLogo": "上传 Logo",
+    "uploading": "上传中…",
+    "removeLogo": "移除 Logo",
+    "removing": "移除中…"
+  },
+  "color": {
+    "title": "卡拉OK配色",
+    "description": "用于卡拉OK舞台和歌词谱的配色方案——适用于所有歌曲。",
+    "fields": {
+      "sweepSung": "已唱过的歌词",
+      "sweepUpcoming": "即将演唱的歌词",
+      "amber": "和弦／段落",
+      "sample": "样本／自动独奏",
+      "ok": "独奏／即兴华彩／谱表"
+    },
+    "save": "保存配色",
+    "saving": "正在保存…",
+    "restoreDefault": "恢复默认"
+  },
+  "pedal": {
+    "title": "踏板（foot switch）",
+    "description": "检测你的USB踏板发送的按键（大多数foot switch踏板的行为类似键盘）——适用于任何在编辑器“音频”标签页中开启了踏板模式的歌曲。",
+    "currentKey": "当前按键：",
+    "noneConfigured": "尚未配置",
+    "listening": "现在请踩下踏板…",
+    "detect": "检测按键"
+  },
+  "billing": {
+    "title": "订阅",
+    "status": "状态：",
+    "plan": "套餐",
+    "renewsOn": "将于 {{date}} 续订",
+    "usage": "已使用 {{max}} 个歌单中的 {{used}} 个 · 已使用 {{storageMax}} MB 存储空间中的 {{storageUsed}} MB",
+    "viewPlans": "查看套餐",
+    "manage": "管理订阅",
+    "opening": "正在打开…",
+    "portalError": "无法打开账单门户。"
+  },
+  "userAdmin": {
+    "title": "用户管理",
+    "description": "仅管理员可见的区域——在这里创建新账号、重置密码并查看每个账号的使用情况。屏幕使用时长目前尚未统计。",
+    "resetPassword": "重置密码",
+    "delete": "删除",
+    "deleting": "正在删除…",
+    "confirmDelete": "删除用户 {{username}}？该用户的歌曲和歌单仍会保留，只是不再有所有者。",
+    "accessCount_one": "{{count}} 次访问",
+    "accessCount_other": "{{count}} 次访问",
+    "lastLogin": "上次登录：{{date}}",
+    "never": "从未登录",
+    "setlistsCount_one": "{{count}} 个歌单",
+    "setlistsCount_other": "{{count}} 个歌单",
+    "favoritesCount_one": "{{count}} 首收藏",
+    "favoritesCount_other": "{{count}} 首收藏",
+    "newPasswordPlaceholder": "新密码（至少6个字符）",
+    "confirm": "确认",
+    "saving": "正在保存…",
+    "deleteUserError": "无法删除该用户。",
+    "resetPasswordError": "无法重置密码。",
+    "name": "姓名",
+    "username": "用户名",
+    "password": "密码",
+    "admin": "管理员",
+    "createUser": "创建用户",
+    "creating": "正在创建…",
+    "createUserError": "无法创建用户。"
+  },
+  "plansAdmin": {
+    "title": "套餐",
+    "description": "系统的付费套餐——每个套餐规定了订阅者可拥有的歌单数量和音频存储空间。创建套餐（或修改现有套餐的价格）会自动在Stripe中同步对应的产品／价格。",
+    "archive": "归档",
+    "reactivate": "重新启用",
+    "archived": "已归档",
+    "setlistsMax": "歌单数量上限",
+    "storageMb": "存储空间（MB）",
+    "priceMonthly": "月价（R$）",
+    "save": "保存",
+    "saving": "正在保存…",
+    "saveError": "无法保存。",
+    "name": "名称",
+    "namePlaceholder": "例如：Hobby",
+    "createPlan": "创建套餐",
+    "creating": "正在创建…",
+    "createPlanError": "无法创建套餐。"
+  },
+  "normalizeLibrary": {
+    "title": "规范化整个曲库",
+    "description": "逐首统一整个曲库的表头、和弦记谱法和段落标签——直接在浏览器中分批处理（服务器上没有后台队列），因此可能需要一些时间。可以随时停止并稍后继续：进度不会丢失。",
+    "allNormalized": "整个曲库已完成规范化。",
+    "remainingOfTotal_one": "还剩 {{count}} 首歌曲，共 {{total}} 首",
+    "remainingOfTotal_other": "还剩 {{count}} 首歌曲，共 {{total}} 首",
+    "start": "开始",
+    "stop": "停止",
+    "error": "批量规范化失败。"
+  },
+  "storageRecompute": {
+    "title": "重新计算音频文件大小",
+    "description": "在此版本之前上传的音轨和样本没有记录文件大小（新上传的文件会立即记录）——此功能通过对每个blob进行大小查询来批量补全，而无需下载完整音频。计算按套餐的存储使用量时需要用到这个数据。",
+    "allDone": "所有文件都已记录大小。",
+    "remainingOfTotal_one": "还剩 {{count}} 个文件，共 {{total}} 个",
+    "remainingOfTotal_other": "还剩 {{count}} 个文件，共 {{total}} 个",
+    "start": "开始",
+    "stop": "停止",
+    "error": "批量重新计算失败。"
+  }
+}

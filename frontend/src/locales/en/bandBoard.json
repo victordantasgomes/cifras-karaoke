@@ -1,0 +1,60 @@
+{
+  "title": "Form a band",
+  "subtitle": "Ads from bands looking for musicians and musicians looking for a band.",
+  "backToApp": "Back to dashboard",
+  "login": "Sign in",
+  "signup": "Create account",
+  "newPost": "+ Create ad",
+  "myPosts": "My ads",
+  "empty": "No active ads right now.",
+  "emptyMine": "You haven't created any ads yet.",
+  "inactiveBadge": "inactive",
+  "form": {
+    "createTitle": "New ad",
+    "editTitle": "Edit ad",
+    "bandName": "Band name",
+    "genero": "Musical genre",
+    "style": "Style (free text)",
+    "skillLevel": "Skill level",
+    "skillLevelPlaceholder": "Select…",
+    "skillLevels": {
+      "iniciante": "Beginner",
+      "intermediario": "Intermediate",
+      "avancado": "Advanced",
+      "profissional": "Professional"
+    },
+    "goal": "Goal",
+    "goalPlaceholder": "Select…",
+    "goals": {
+      "hobby": "Hobby / just for fun",
+      "ensaios_regulares": "Regular rehearsals",
+      "shows_pagos": "Paid gigs",
+      "gravacao": "Recording / studio"
+    },
+    "rehearsalDays": "Rehearsal days",
+    "rehearsalDaysPlaceholder": "e.g.: Tuesday, Thursday",
+    "instrumentsNeeded": "Instruments needed",
+    "instrumentsPlaceholder": "e.g.: bass, drums",
+    "bio": "About the band",
+    "contactInfo": "Contact",
+    "contactPlaceholder": "e.g.: WhatsApp, email, Instagram",
+    "linkSetlists": "Link setlists (optional)",
+    "submit": "Publish ad",
+    "saving": "Saving…",
+    "saveChanges": "Save changes",
+    "cancel": "Cancel"
+  },
+  "card": {
+    "contact": "Contact:",
+    "rehearsalDays": "Rehearsal days:",
+    "instrumentsNeeded": "Looking for:",
+    "deactivate": "Deactivate",
+    "activate": "Reactivate",
+    "edit": "Edit"
+  },
+  "errors": {
+    "create": "Couldn't publish the ad.",
+    "update": "Couldn't save the changes.",
+    "toggle": "Couldn't update the ad."
+  }
+}

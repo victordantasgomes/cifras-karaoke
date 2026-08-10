@@ -148,16 +148,37 @@ class BillingService:
         current_period_end = subscription.get("current_period_end")
         with db.get_pool().connection() as conn:
             plan = conn.execute("select id from plans where stripe_price_id=%s", (price_id,)).fetchone()
+            user = conn.execute(
+                "select id, subscription_status from users where stripe_customer_id=%s", (customer_id,),
+            ).fetchone()
             conn.execute(
                 """update users set subscription_status=%s, stripe_subscription_id=%s,
                           plan_id=coalesce(%s, plan_id), current_period_end=to_timestamp(%s)
                    where stripe_customer_id=%s""",
                 (status, subscription["id"], plan["id"] if plan else None, current_period_end, customer_id),
             )
+            if user and user["subscription_status"] != status:
+                self._record_status_change(conn, user["id"], user["subscription_status"], status)
 
     def _set_status_by_customer(self, customer_id: str, status: str) -> None:
         with db.get_pool().connection() as conn:
+            user = conn.execute(
+                "select id, subscription_status from users where stripe_customer_id=%s", (customer_id,),
+            ).fetchone()
             conn.execute(
                 "update users set subscription_status=%s where stripe_customer_id=%s",
                 (status, customer_id),
             )
+            if user and user["subscription_status"] != status:
+                self._record_status_change(conn, user["id"], user["subscription_status"], status)
+
+    @staticmethod
+    def _record_status_change(conn, user_id: str, old_status: str, new_status: str) -> None:
+        """Grava a transição pro histórico (Fase 14) — só quando o status
+        de fato muda, senão um webhook de renovação sem mudança de estado
+        (mesmo status repetido) inflaria a tendência de cancelamento à
+        toa."""
+        conn.execute(
+            "insert into subscription_events (user_id, old_status, new_status) values (%s, %s, %s)",
+            (user_id, old_status, new_status),
+        )

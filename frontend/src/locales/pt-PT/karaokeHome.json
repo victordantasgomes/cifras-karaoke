@@ -1,0 +1,11 @@
+{
+  "title": "Karaoke",
+  "subtitle": "Escolha uma música ou um alinhamento e suba ao palco.",
+  "continueSection": "Continuar de onde ficou",
+  "emptyRecent": "Toque numa música para que apareça aqui.",
+  "play": "▶ tocar",
+  "setlistsSection": "Alinhamentos",
+  "emptySetlists": "Nenhum alinhamento criado.",
+  "songCount_one": "{{count}} música",
+  "songCount_other": "{{count}} músicas"
+}

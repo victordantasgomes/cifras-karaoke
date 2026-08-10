@@ -1,0 +1,18 @@
+{
+  "title": "Painel",
+  "subtitle": "Visão geral do seu repertório.",
+  "loading": "A carregar…",
+  "empty": "Ainda não há nada por aqui.",
+  "stats": { "songs": "Músicas", "setlists": "Alinhamentos", "favorites": "Favoritas", "radar": "No radar" },
+  "sections": {
+    "mostPlayed": "Mais tocadas",
+    "recent": "Últimos acessos",
+    "favorites": "Favoritas",
+    "mostPlayedArtists": "Artistas mais tocados",
+    "newlyAdded": "Adicionadas recentemente",
+    "yourFavorites": "Os seus artistas e géneros favoritos"
+  },
+  "emptyArtists": "Ainda não há nenhum artista tocado.",
+  "noFavoritesHint": "Ainda não favoritou nenhum artista ou género.",
+  "goToFavorites": "Escolher favoritos →"
+}

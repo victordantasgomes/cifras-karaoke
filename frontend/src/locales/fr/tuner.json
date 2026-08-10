@@ -1,0 +1,15 @@
+{
+  "title": "Accordeur",
+  "subtitle": "Jouez une note et voyez à quel point elle est juste, en direct depuis votre microphone.",
+  "start": "Démarrer",
+  "stop": "Arrêter",
+  "waitingSignal": "Jouez une note…",
+  "inTune": "Juste",
+  "tooLow": "Trop grave",
+  "tooHigh": "Trop aigu",
+  "a4Label": "Référence (A4)",
+  "permissionDenied": "Accès au microphone refusé. Autorisez l'accès au microphone dans les paramètres de votre navigateur et réessayez.",
+  "noDevice": "Aucun microphone détecté sur cet appareil.",
+  "genericError": "Impossible d'accéder au microphone.",
+  "retry": "Réessayer"
+}

@@ -4,24 +4,11 @@ import { useTranslation } from 'react-i18next'
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { LOCALE_LABELS, SUPPORTED_LOCALES } from '../i18n'
 import { useChangeLocale } from '../hooks/useLocale'
+import { ACCENTS, DEFAULT_ACCENT, DEFAULT_THEME, THEMES, useChangeTheme } from '../hooks/useTheme'
 import api from '../services/api'
 import { useAuthStore } from '../store/authStore'
 
-const SUBSCRIPTION_STATUS_LABELS = {
-  none: 'Sem assinatura',
-  trialing: 'Período de teste',
-  active: 'Ativa',
-  past_due: 'Pagamento pendente',
-  canceled: 'Cancelada',
-}
-
-const COLOR_FIELDS = [
-  { key: 'sweepSung', label: 'Letra já cantada' },
-  { key: 'sweepUpcoming', label: 'Letra por vir' },
-  { key: 'amber', label: 'Acordes / seções' },
-  { key: 'sample', label: 'Sample / solo automático' },
-  { key: 'ok', label: 'Solo / riff / tablatura' },
-]
+const COLOR_FIELD_KEYS = ['sweepSung', 'sweepUpcoming', 'amber', 'sample', 'ok']
 
 // espelha services/settings_service.py::DEFAULT_COLORS — usado só pelo
 // botão "Restaurar padrão" (não precisa ir ao servidor pra isso)
@@ -34,6 +21,7 @@ const DEFAULT_COLORS = {
 }
 
 function ColorSettingsCard() {
+  const { t } = useTranslation('settings')
   const qc = useQueryClient()
   const { data } = useQuery({
     queryKey: ['settings'],
@@ -56,25 +44,104 @@ function ColorSettingsCard() {
 
   return (
     <div className="card" style={{ marginBottom: 14 }}>
-      <h3 style={{ marginBottom: 12 }}>Cores do karaokê</h3>
+      <h3 style={{ marginBottom: 12 }}>{t('color.title')}</h3>
       <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>
-        Paleta usada no palco de karaokê e na folha de cifra — vale para todas as músicas.
+        {t('color.description')}
       </p>
       <div className="row" style={{ gap: 20, marginBottom: 14 }}>
-        {COLOR_FIELDS.map(({ key, label }) => (
+        {COLOR_FIELD_KEYS.map((key) => (
           <div key={key} style={{ textAlign: 'center' }}>
             <input type="color" value={colors[key] || '#000000'}
               style={{ width: 46, height: 34, padding: 0, border: '1px solid var(--stroke)', borderRadius: 8, background: 'transparent', cursor: 'pointer' }}
               onChange={(e) => setColors({ ...colors, [key]: e.target.value })} />
-            <div style={{ fontSize: 12, color: 'var(--muted)', marginTop: 6, maxWidth: 100 }}>{label}</div>
+            <div style={{ fontSize: 12, color: 'var(--muted)', marginTop: 6, maxWidth: 100 }}>{t(`color.fields.${key}`)}</div>
           </div>
         ))}
       </div>
       <div className="row">
         <button className="btn primary" disabled={save.isPending} onClick={() => save.mutate(colors)}>
-          {save.isPending ? 'Salvando…' : 'Salvar cores'}
+          {save.isPending ? t('color.saving') : t('color.save')}
         </button>
-        <button className="btn" onClick={restoreDefaults}>Restaurar padrão</button>
+        <button className="btn" onClick={restoreDefaults}>{t('color.restoreDefault')}</button>
+      </div>
+    </div>
+  )
+}
+
+function BrandingSettingsCard() {
+  const { t } = useTranslation('settings')
+  const qc = useQueryClient()
+  const user = useAuthStore((s) => s.user)
+  const { data } = useQuery({
+    queryKey: ['settings'],
+    queryFn: () => api.get('/settings').then((r) => r.data),
+    staleTime: Infinity,
+    refetchOnWindowFocus: false,
+  })
+  const { data: branding } = useQuery({
+    queryKey: ['branding-info', user?.id],
+    queryFn: () => api.get(`/branding/${user.id}`).then((r) => r.data),
+    enabled: Boolean(user?.id),
+  })
+  const [bandName, setBandName] = useState(null)
+  useEffect(() => { if (data && bandName === null) setBandName(data.prefs?.bandName || '') }, [data]) // eslint-disable-line
+  const [logoFile, setLogoFile] = useState(null)
+
+  const saveBandName = useMutation({
+    mutationFn: () => api.put('/settings', { prefs: { ...data?.prefs, bandName } }).then((r) => r.data),
+    onSuccess: (d) => qc.setQueryData(['settings'], d),
+  })
+  const uploadLogo = useMutation({
+    mutationFn: () => {
+      const fd = new FormData()
+      fd.append('file', logoFile)
+      return api.post('/branding/logo', fd)
+    },
+    onSuccess: () => { setLogoFile(null); qc.invalidateQueries({ queryKey: ['branding-info', user?.id] }) },
+  })
+  const removeLogo = useMutation({
+    mutationFn: () => api.delete('/branding/logo'),
+    onSuccess: () => qc.invalidateQueries({ queryKey: ['branding-info', user?.id] }),
+  })
+
+  if (bandName === null) return null
+
+  return (
+    <div className="card" style={{ marginBottom: 14 }}>
+      <h3 style={{ marginBottom: 12 }}>{t('branding.title')}</h3>
+      <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>{t('branding.description')}</p>
+      <div className="field">
+        <label>{t('branding.bandNameLabel')}</label>
+        <input className="input" style={{ maxWidth: 320 }} value={bandName}
+          placeholder={t('branding.bandNamePlaceholder')}
+          onChange={(e) => setBandName(e.target.value)} />
+      </div>
+      <div className="row" style={{ marginBottom: 18 }}>
+        <button className="btn primary" disabled={saveBandName.isPending} onClick={() => saveBandName.mutate()}>
+          {saveBandName.isPending ? t('branding.saving') : t('branding.save')}
+        </button>
+      </div>
+      <div className="field" style={{ marginBottom: 0 }}>
+        <label>{t('branding.logoLabel')}</label>
+        <div className="row" style={{ marginBottom: 10, alignItems: 'center' }}>
+          {branding?.has_logo ? (
+            <img src={`/api/branding/${user.id}/logo`} alt="" style={{ height: 48, borderRadius: 8 }} />
+          ) : (
+            <span className="page-sub" style={{ margin: 0 }}>{t('branding.noLogo')}</span>
+          )}
+        </div>
+        <div className="row">
+          <input className="input" type="file" accept="image/*" style={{ maxWidth: 260 }}
+            onChange={(e) => setLogoFile(e.target.files[0])} />
+          <button className="btn primary" disabled={!logoFile || uploadLogo.isPending} onClick={() => uploadLogo.mutate()}>
+            {uploadLogo.isPending ? t('branding.uploading') : t('branding.uploadLogo')}
+          </button>
+          {branding?.has_logo && (
+            <button className="btn danger" disabled={removeLogo.isPending} onClick={() => removeLogo.mutate()}>
+              {removeLogo.isPending ? t('branding.removing') : t('branding.removeLogo')}
+            </button>
+          )}
+        </div>
       </div>
     </div>
   )
@@ -107,7 +174,66 @@ function LanguageSettingsCard() {
   )
 }
 
+// espelha as cores definidas em styles/global.css (:root[data-accent="..."])
+// — só pra desenhar as amostras clicáveis, a cor de verdade vem da variável CSS
+const ACCENT_SWATCHES = {
+  azul: '#4f8fef',
+  vermelho: '#ef5a5f',
+  verde: '#46c48a',
+  rosa: '#f472b6',
+  lilas: '#a78bfa',
+  preto: '#14161c',
+  branco: '#f5f6f8',
+  cinza: '#9aa1b0',
+}
+
+function ThemeSettingsCard() {
+  const { t } = useTranslation('settings')
+  const { data } = useQuery({
+    queryKey: ['settings'],
+    queryFn: () => api.get('/settings').then((r) => r.data),
+    staleTime: Infinity,
+    refetchOnWindowFocus: false,
+  })
+  const changeTheme = useChangeTheme()
+  const theme = data?.prefs?.theme || DEFAULT_THEME
+  const accent = data?.prefs?.accentColor || DEFAULT_ACCENT
+
+  return (
+    <div className="card" style={{ marginBottom: 14 }}>
+      <h3 style={{ marginBottom: 12 }}>{t('appearance.title')}</h3>
+      <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>{t('appearance.description')}</p>
+      <div className="field">
+        <label>{t('appearance.theme')}</label>
+        <div className="row">
+          {THEMES.map((th) => (
+            <button key={th} type="button" className={`btn ${theme === th ? 'primary' : ''}`}
+              onClick={() => changeTheme({ theme: th })}>
+              {t(`appearance.themes.${th}`)}
+            </button>
+          ))}
+        </div>
+      </div>
+      <div className="field" style={{ marginBottom: 0 }}>
+        <label>{t('appearance.accent')}</label>
+        <div className="row" style={{ gap: 10 }}>
+          {ACCENTS.map((a) => (
+            <button key={a} type="button" onClick={() => changeTheme({ accentColor: a })}
+              title={t(`appearance.accents.${a}`)} aria-label={t(`appearance.accents.${a}`)}
+              style={{
+                width: 30, height: 30, borderRadius: '50%', cursor: 'pointer', padding: 0,
+                background: ACCENT_SWATCHES[a],
+                border: accent === a ? '3px solid var(--text)' : '1px solid var(--stroke)',
+              }} />
+          ))}
+        </div>
+      </div>
+    </div>
+  )
+}
+
 function PedalSettingsCard() {
+  const { t } = useTranslation('settings')
   const qc = useQueryClient()
   const { data } = useQuery({
     queryKey: ['settings'],
@@ -138,16 +264,14 @@ function PedalSettingsCard() {
 
   return (
     <div className="card" style={{ marginBottom: 14 }}>
-      <h3 style={{ marginBottom: 12 }}>Pedal (foot switch)</h3>
+      <h3 style={{ marginBottom: 12 }}>{t('pedal.title')}</h3>
       <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>
-        Detecte a tecla que o seu pedal USB envia (a maioria dos pedais de
-        foot switch se comporta como um teclado) — vale pra qualquer música
-        com o modo de pedal ligado, configurado na aba Áudio do editor.
+        {t('pedal.description')}
       </p>
       <div className="row" style={{ alignItems: 'center', gap: 12 }}>
-        <span>Tecla atual: <strong>{pedalKey || 'nenhuma configurada'}</strong></span>
+        <span>{t('pedal.currentKey')} <strong>{pedalKey || t('pedal.noneConfigured')}</strong></span>
         <button className="btn primary" disabled={listening} onClick={() => setListening(true)}>
-          {listening ? 'Aperte o pedal agora…' : 'Detectar tecla'}
+          {listening ? t('pedal.listening') : t('pedal.detect')}
         </button>
       </div>
     </div>
@@ -155,6 +279,7 @@ function PedalSettingsCard() {
 }
 
 function BillingCard() {
+  const { t, i18n } = useTranslation('settings')
   const { data: status } = useQuery({
     queryKey: ['billing-status'],
     queryFn: () => api.get('/billing/status').then((r) => r.data),
@@ -173,7 +298,7 @@ function BillingCard() {
       const { data } = await api.get('/billing/portal-session', { params: { return_url } })
       window.location.href = data.url
     } catch (e) {
-      setError(e.response?.data?.error || 'Não foi possível abrir o portal de cobrança.')
+      setError(e.response?.data?.error || t('billing.portalError'))
       setBusy(false)
     }
   }
@@ -182,24 +307,24 @@ function BillingCard() {
 
   return (
     <div className="card" style={{ marginBottom: 14 }}>
-      <h3 style={{ marginBottom: 12 }}>Assinatura</h3>
+      <h3 style={{ marginBottom: 12 }}>{t('billing.title')}</h3>
       <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>
-        Status: <strong>{SUBSCRIPTION_STATUS_LABELS[status.subscription_status] || status.subscription_status}</strong>
-        {status.plan_name && <> · plano <strong>{status.plan_name}</strong></>}
-        {status.current_period_end && <> · renova em {new Date(status.current_period_end).toLocaleDateString('pt-BR')}</>}
+        {t('billing.status')} <strong>{t(`subscriptionStatus.${status.subscription_status}`, status.subscription_status)}</strong>
+        {status.plan_name && <> · {t('billing.plan')} <strong>{status.plan_name}</strong></>}
+        {status.current_period_end && <> · {t('billing.renewsOn', { date: new Date(status.current_period_end).toLocaleDateString(i18n.language) })}</>}
       </p>
       {usage?.setlists_max != null && (
         <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>
-          {usage.setlists_used} de {usage.setlists_max} setlists · {usage.storage_used_mb} de {usage.storage_limit_mb} MB de armazenamento
+          {t('billing.usage', { used: usage.setlists_used, max: usage.setlists_max, storageUsed: usage.storage_used_mb, storageMax: usage.storage_limit_mb })}
         </p>
       )}
       {error && <div className="error-text" style={{ marginBottom: 10 }}>{error}</div>}
       <div className="row" style={{ gap: 8 }}>
         {status.subscription_status === 'none' ? (
-          <Link className="btn primary" to="/planos">Ver planos</Link>
+          <Link className="btn primary" to="/planos">{t('billing.viewPlans')}</Link>
         ) : (
           <button className="btn" disabled={busy} onClick={abrirPortal}>
-            {busy ? 'Abrindo…' : 'Gerenciar assinatura'}
+            {busy ? t('billing.opening') : t('billing.manage')}
           </button>
         )}
       </div>
@@ -208,6 +333,7 @@ function BillingCard() {
 }
 
 function UserRow({ u, isSelf }) {
+  const { t, i18n } = useTranslation('settings')
   const qc = useQueryClient()
   const [resetting, setResetting] = useState(false)
   const [newPassword, setNewPassword] = useState('')
@@ -218,13 +344,13 @@ function UserRow({ u, isSelf }) {
   const remove = useMutation({
     mutationFn: () => api.delete(`/admin/users/${u.id}`),
     onSuccess: invalidate,
-    onError: (e) => setRowError(e.response?.data?.error || 'Não foi possível excluir o usuário.'),
+    onError: (e) => setRowError(e.response?.data?.error || t('userAdmin.deleteUserError')),
   })
 
   const resetPassword = useMutation({
     mutationFn: () => api.post(`/admin/users/${u.id}/reset-password`, { password: newPassword }),
     onSuccess: () => { setResetting(false); setNewPassword(''); setRowError('') },
-    onError: (e) => setRowError(e.response?.data?.error || 'Não foi possível redefinir a senha.'),
+    onError: (e) => setRowError(e.response?.data?.error || t('userAdmin.resetPasswordError')),
   })
 
   return (
@@ -236,27 +362,27 @@ function UserRow({ u, isSelf }) {
         </span>
         <div className="row" style={{ gap: 8 }}>
           <button className="btn" onClick={() => { setResetting(!resetting); setRowError('') }}>
-            Redefinir senha
+            {t('userAdmin.resetPassword')}
           </button>
           {!isSelf && (
             <button className="btn danger" disabled={remove.isPending}
-              onClick={() => confirm(`Excluir o usuário ${u.username}? As músicas e setlists dele continuam existindo, só sem dono.`) && remove.mutate()}>
-              {remove.isPending ? 'Excluindo…' : 'Excluir'}
+              onClick={() => confirm(t('userAdmin.confirmDelete', { username: u.username })) && remove.mutate()}>
+              {remove.isPending ? t('userAdmin.deleting') : t('userAdmin.delete')}
             </button>
           )}
         </div>
       </div>
       <div className="page-sub" style={{ marginTop: 4 }}>
-        {u.login_count} acesso(s) · último login: {u.last_login_at ? new Date(u.last_login_at).toLocaleString('pt-BR') : 'nunca'}
-        {' · '}{u.setlists_count} setlist(s) · {u.favorites_count} favorita(s)
+        {t('userAdmin.accessCount', { count: u.login_count })} · {t('userAdmin.lastLogin', { date: u.last_login_at ? new Date(u.last_login_at).toLocaleString(i18n.language) : t('userAdmin.never') })}
+        {' · '}{t('userAdmin.setlistsCount', { count: u.setlists_count })} · {t('userAdmin.favoritesCount', { count: u.favorites_count })}
       </div>
       {resetting && (
         <div className="row" style={{ marginTop: 8, gap: 8 }}>
-          <input className="input" type="password" placeholder="Nova senha (mín. 6 caracteres)"
+          <input className="input" type="password" placeholder={t('userAdmin.newPasswordPlaceholder')}
             value={newPassword} onChange={(e) => setNewPassword(e.target.value)} />
           <button className="btn primary" disabled={!newPassword || resetPassword.isPending}
             onClick={() => resetPassword.mutate()}>
-            {resetPassword.isPending ? 'Salvando…' : 'Confirmar'}
+            {resetPassword.isPending ? t('userAdmin.saving') : t('userAdmin.confirm')}
           </button>
         </div>
       )}
@@ -266,6 +392,7 @@ function UserRow({ u, isSelf }) {
 }
 
 function PlanRow({ plan }) {
+  const { t } = useTranslation('settings')
   const qc = useQueryClient()
   const [maxSetlists, setMaxSetlists] = useState(plan.max_setlists)
   const [storageLimitMb, setStorageLimitMb] = useState(plan.storage_limit_mb)
@@ -281,7 +408,7 @@ function PlanRow({ plan }) {
       price_cents: Math.round(Number(priceReais) * 100),
     }),
     onSuccess: () => { invalidate(); setError('') },
-    onError: (e) => setError(e.response?.data?.error || 'Não foi possível salvar.'),
+    onError: (e) => setError(e.response?.data?.error || t('plansAdmin.saveError')),
   })
 
   const toggleActive = useMutation({
@@ -294,30 +421,30 @@ function PlanRow({ plan }) {
       <div className="row" style={{ justifyContent: 'space-between', alignItems: 'center' }}>
         <strong>
           {plan.name}
-          {!plan.active && <span className="tag" style={{ marginLeft: 8 }}>arquivado</span>}
+          {!plan.active && <span className="tag" style={{ marginLeft: 8 }}>{t('plansAdmin.archived')}</span>}
         </strong>
         <button className="btn" disabled={toggleActive.isPending} onClick={() => toggleActive.mutate()}>
-          {plan.active ? 'Arquivar' : 'Reativar'}
+          {plan.active ? t('plansAdmin.archive') : t('plansAdmin.reactivate')}
         </button>
       </div>
       <div className="row" style={{ marginTop: 8, gap: 8, flexWrap: 'wrap', alignItems: 'flex-end' }}>
         <div className="field" style={{ maxWidth: 140 }}>
-          <label>Setlists (máx.)</label>
+          <label>{t('plansAdmin.setlistsMax')}</label>
           <input className="input" type="number" min="0" value={maxSetlists}
             onChange={(e) => setMaxSetlists(e.target.value)} />
         </div>
         <div className="field" style={{ maxWidth: 160 }}>
-          <label>Armazenamento (MB)</label>
+          <label>{t('plansAdmin.storageMb')}</label>
           <input className="input" type="number" min="0" value={storageLimitMb}
             onChange={(e) => setStorageLimitMb(e.target.value)} />
         </div>
         <div className="field" style={{ maxWidth: 140 }}>
-          <label>Preço mensal (R$)</label>
+          <label>{t('plansAdmin.priceMonthly')}</label>
           <input className="input" type="number" min="0" step="0.01" value={priceReais}
             onChange={(e) => setPriceReais(e.target.value)} />
         </div>
         <button className="btn primary" disabled={save.isPending} onClick={() => save.mutate()}>
-          {save.isPending ? 'Salvando…' : 'Salvar'}
+          {save.isPending ? t('plansAdmin.saving') : t('plansAdmin.save')}
         </button>
       </div>
       {error && <div className="error-text" style={{ marginTop: 6 }}>{error}</div>}
@@ -326,6 +453,7 @@ function PlanRow({ plan }) {
 }
 
 function PlansAdminCard() {
+  const { t } = useTranslation('settings')
   const qc = useQueryClient()
   const { data: plans } = useQuery({
     queryKey: ['admin-plans'],
@@ -346,17 +474,14 @@ function PlansAdminCard() {
       setForm({ name: '', max_setlists: '', storage_limit_mb: '', price_reais: '' })
       setError('')
     },
-    onError: (e) => setError(e.response?.data?.error || 'Não foi possível criar o plano.'),
+    onError: (e) => setError(e.response?.data?.error || t('plansAdmin.createPlanError')),
   })
 
   return (
     <div className="card" style={{ marginBottom: 14 }}>
-      <h3 style={{ marginBottom: 12 }}>Planos</h3>
+      <h3 style={{ marginBottom: 12 }}>{t('plansAdmin.title')}</h3>
       <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>
-        Planos pagos do sistema — cada um define quantos setlists e quanto
-        espaço de áudio um assinante tem direito. Criar um plano (ou editar o
-        preço de um existente) sincroniza automaticamente um Produto/Preço na
-        Stripe.
+        {t('plansAdmin.description')}
       </p>
 
       {plans?.length > 0 && (
@@ -367,22 +492,22 @@ function PlansAdminCard() {
 
       <div className="row" style={{ flexWrap: 'wrap', gap: 8 }}>
         <div className="field">
-          <label>Nome</label>
+          <label>{t('plansAdmin.name')}</label>
           <input className="input" value={form.name}
-            onChange={(e) => setForm({ ...form, name: e.target.value })} placeholder="ex.: Hobby" />
+            onChange={(e) => setForm({ ...form, name: e.target.value })} placeholder={t('plansAdmin.namePlaceholder')} />
         </div>
         <div className="field" style={{ maxWidth: 140 }}>
-          <label>Setlists (máx.)</label>
+          <label>{t('plansAdmin.setlistsMax')}</label>
           <input className="input" type="number" min="0" value={form.max_setlists}
             onChange={(e) => setForm({ ...form, max_setlists: e.target.value })} />
         </div>
         <div className="field" style={{ maxWidth: 160 }}>
-          <label>Armazenamento (MB)</label>
+          <label>{t('plansAdmin.storageMb')}</label>
           <input className="input" type="number" min="0" value={form.storage_limit_mb}
             onChange={(e) => setForm({ ...form, storage_limit_mb: e.target.value })} />
         </div>
         <div className="field" style={{ maxWidth: 140 }}>
-          <label>Preço mensal (R$)</label>
+          <label>{t('plansAdmin.priceMonthly')}</label>
           <input className="input" type="number" min="0" step="0.01" value={form.price_reais}
             onChange={(e) => setForm({ ...form, price_reais: e.target.value })} />
         </div>
@@ -390,7 +515,7 @@ function PlansAdminCard() {
       {error && <div className="error-text">{error}</div>}
       <div className="row">
         <button className="btn primary" disabled={create.isPending || !form.name} onClick={() => create.mutate()}>
-          {create.isPending ? 'Criando…' : 'Criar plano'}
+          {create.isPending ? t('plansAdmin.creating') : t('plansAdmin.createPlan')}
         </button>
       </div>
     </div>
@@ -398,6 +523,7 @@ function PlansAdminCard() {
 }
 
 function UserAdminCard() {
+  const { t } = useTranslation('settings')
   const qc = useQueryClient()
   const currentUser = useAuthStore((s) => s.user)
   const { data: users } = useQuery({
@@ -414,15 +540,14 @@ function UserAdminCard() {
       setForm({ username: '', password: '', name: '', is_admin: false })
       setError('')
     },
-    onError: (e) => setError(e.response?.data?.error || 'Não foi possível criar o usuário.'),
+    onError: (e) => setError(e.response?.data?.error || t('userAdmin.createUserError')),
   })
 
   return (
     <div className="card" style={{ marginBottom: 14 }}>
-      <h3 style={{ marginBottom: 12 }}>Administração de usuários</h3>
+      <h3 style={{ marginBottom: 12 }}>{t('userAdmin.title')}</h3>
       <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>
-        Área visível só para administradores — crie novas contas, redefina senhas e
-        acompanhe o uso de cada uma. Tempo de permanência em tela ainda não é medido.
+        {t('userAdmin.description')}
       </p>
 
       {users?.length > 0 && (
@@ -432,29 +557,29 @@ function UserAdminCard() {
       )}
 
       <div className="field">
-        <label>Nome</label>
+        <label>{t('userAdmin.name')}</label>
         <input className="input" value={form.name}
           onChange={(e) => setForm({ ...form, name: e.target.value })} />
       </div>
       <div className="field">
-        <label>Usuário</label>
+        <label>{t('userAdmin.username')}</label>
         <input className="input" value={form.username}
           onChange={(e) => setForm({ ...form, username: e.target.value })} />
       </div>
       <div className="field">
-        <label>Senha</label>
+        <label>{t('userAdmin.password')}</label>
         <input className="input" type="password" value={form.password}
           onChange={(e) => setForm({ ...form, password: e.target.value })} />
       </div>
       <label className="row" style={{ gap: 8, alignItems: 'center', margin: '4px 0 14px', cursor: 'pointer' }}>
         <input type="checkbox" checked={form.is_admin}
           onChange={(e) => setForm({ ...form, is_admin: e.target.checked })} />
-        Administrador
+        {t('userAdmin.admin')}
       </label>
       {error && <div className="error-text">{error}</div>}
       <div className="row">
         <button className="btn primary" disabled={create.isPending} onClick={() => create.mutate(form)}>
-          {create.isPending ? 'Criando…' : 'Criar usuário'}
+          {create.isPending ? t('userAdmin.creating') : t('userAdmin.createUser')}
         </button>
       </div>
     </div>
@@ -462,6 +587,7 @@ function UserAdminCard() {
 }
 
 function NormalizeLibraryCard() {
+  const { t } = useTranslation('settings')
   const qc = useQueryClient()
   const { data: status } = useQuery({
     queryKey: ['admin-normalize-status'],
@@ -493,7 +619,7 @@ function NormalizeLibraryCard() {
         if (data.processed === 0 || data.remaining === 0) break
       }
     } catch (e) {
-      setError(e.response?.data?.error || 'Falha ao normalizar em lote.')
+      setError(e.response?.data?.error || t('normalizeLibrary.error'))
     } finally {
       setRunning(false)
       qc.invalidateQueries({ queryKey: ['songs'] })
@@ -506,29 +632,26 @@ function NormalizeLibraryCard() {
 
   return (
     <div className="card" style={{ marginBottom: 14 }}>
-      <h3 style={{ marginBottom: 12 }}>Normalizar todo o acervo</h3>
+      <h3 style={{ marginBottom: 12 }}>{t('normalizeLibrary.title')}</h3>
       <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>
-        Padroniza cabeçalho, notação de acordes e rótulos de seção de toda a
-        biblioteca, música por música — processa em lotes pequenos direto do
-        navegador (sem fila em segundo plano no servidor), então pode levar
-        um tempo. Dá para parar e continuar depois: o progresso não se perde.
+        {t('normalizeLibrary.description')}
       </p>
       {remaining !== null && (
         <>
           <div style={{ background: 'var(--stroke)', borderRadius: 8, height: 10, overflow: 'hidden', marginBottom: 8 }}>
-            <div style={{ width: `${percent}%`, height: '100%', background: 'var(--accent, #46c48a)', transition: 'width .2s' }} />
+            <div style={{ width: `${percent}%`, height: '100%', background: 'var(--accent)', transition: 'width .2s' }} />
           </div>
           <div className="page-sub" style={{ marginBottom: 14 }}>
-            {remaining === 0 ? 'Todo o acervo está normalizado.' : `${remaining} música(s) restante(s) de ${total}`}
+            {remaining === 0 ? t('normalizeLibrary.allNormalized') : t('normalizeLibrary.remainingOfTotal', { count: remaining, total })}
           </div>
         </>
       )}
       {error && <div className="error-text">{error}</div>}
       <div className="row">
         {running ? (
-          <button className="btn danger" onClick={stop}>Parar</button>
+          <button className="btn danger" onClick={stop}>{t('normalizeLibrary.stop')}</button>
         ) : (
-          <button className="btn primary" disabled={remaining === 0} onClick={start}>Iniciar</button>
+          <button className="btn primary" disabled={remaining === 0} onClick={start}>{t('normalizeLibrary.start')}</button>
         )}
       </div>
     </div>
@@ -536,6 +659,7 @@ function NormalizeLibraryCard() {
 }
 
 function StorageRecomputeCard() {
+  const { t } = useTranslation('settings')
   const { data: status } = useQuery({
     queryKey: ['admin-storage-recompute-status'],
     queryFn: () => api.get('/admin/storage/recompute-status').then((r) => r.data),
@@ -564,7 +688,7 @@ function StorageRecomputeCard() {
         if (data.processed === 0 || data.remaining === 0) break
       }
     } catch (e) {
-      setError(e.response?.data?.error || 'Falha ao recalcular em lote.')
+      setError(e.response?.data?.error || t('storageRecompute.error'))
     } finally {
       setRunning(false)
     }
@@ -575,29 +699,26 @@ function StorageRecomputeCard() {
 
   return (
     <div className="card" style={{ marginBottom: 14 }}>
-      <h3 style={{ marginBottom: 12 }}>Recalcular tamanho dos arquivos de áudio</h3>
+      <h3 style={{ marginBottom: 12 }}>{t('storageRecompute.title')}</h3>
       <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>
-        Faixas e samples enviados antes desta versão não têm o tamanho
-        registrado (uploads novos já gravam na hora) — preenche em lote via
-        uma consulta de tamanho contra cada blob, sem baixar o áudio inteiro.
-        Necessário pro cálculo de uso de armazenamento por plano.
+        {t('storageRecompute.description')}
       </p>
       {remaining !== null && (
         <>
           <div style={{ background: 'var(--stroke)', borderRadius: 8, height: 10, overflow: 'hidden', marginBottom: 8 }}>
-            <div style={{ width: `${percent}%`, height: '100%', background: 'var(--accent, #46c48a)', transition: 'width .2s' }} />
+            <div style={{ width: `${percent}%`, height: '100%', background: 'var(--accent)', transition: 'width .2s' }} />
           </div>
           <div className="page-sub" style={{ marginBottom: 14 }}>
-            {remaining === 0 ? 'Todos os arquivos já têm o tamanho registrado.' : `${remaining} arquivo(s) restante(s) de ${total}`}
+            {remaining === 0 ? t('storageRecompute.allDone') : t('storageRecompute.remainingOfTotal', { count: remaining, total })}
           </div>
         </>
       )}
       {error && <div className="error-text">{error}</div>}
       <div className="row">
         {running ? (
-          <button className="btn danger" onClick={stop}>Parar</button>
+          <button className="btn danger" onClick={stop}>{t('storageRecompute.stop')}</button>
         ) : (
-          <button className="btn primary" disabled={remaining === 0} onClick={start}>Iniciar</button>
+          <button className="btn primary" disabled={remaining === 0} onClick={start}>{t('storageRecompute.start')}</button>
         )}
       </div>
     </div>
@@ -605,13 +726,16 @@ function StorageRecomputeCard() {
 }
 
 export default function Settings() {
+  const { t } = useTranslation('settings')
   const user = useAuthStore((s) => s.user)
   return (
     <>
-      <h1 className="page-title">Configurações</h1>
-      <div className="page-sub">Preferências visuais.</div>
+      <h1 className="page-title">{t('pageTitle')}</h1>
+      <div className="page-sub">{t('pageSub')}</div>
       <LanguageSettingsCard />
+      <ThemeSettingsCard />
       <ColorSettingsCard />
+      <BrandingSettingsCard />
       <PedalSettingsCard />
       <BillingCard />
       {user?.is_admin && <UserAdminCard />}

@@ -1,0 +1,40 @@
+{
+  "titleLibrary": "Libreria",
+  "titleFavorites": "Preferiti",
+  "allUsersHint": " · di tutti gli utenti",
+  "loadingCount": "…",
+  "songCount_one": "{{count}} brano",
+  "songCount_other": "{{count}} brani",
+  "newSong": "+ Nuovo brano",
+  "searchPlaceholder": "Cerca per titolo, autore, interprete, tag…",
+  "allGenres": "Tutti i generi",
+  "allArtists": "Tutti gli interpreti",
+  "key": "Tonalità",
+  "onlyMine": "Solo i miei",
+  "empty": "Nessun brano trovato. Carica un file TXT per iniziare.",
+  "otherUserTitle": "Non hai creato tu questo brano",
+  "otherUserChip": "di un altro utente",
+  "privateTitle": "Solo tu puoi vedere questo brano",
+  "privateChip": "🔒 privato",
+  "prevPage": "← Precedente",
+  "pageOf": "pagina {{page}} di {{total}}",
+  "nextPage": "Successiva →",
+  "upload": {
+    "file": "File TXT",
+    "genre": "Genere",
+    "artist": "Interprete",
+    "submit": "Invia",
+    "error": "Caricamento non riuscito. Controlla il file."
+  },
+  "favorites": {
+    "title": "Artisti e generi preferiti",
+    "description": "Aggiungi un artista o un genere ai preferiti per vedere qui tutti i suoi brani, anche senza aggiungere ognuno singolarmente.",
+    "artistsLabel": "Artisti",
+    "genresLabel": "Generi",
+    "addArtistPlaceholder": "+ Aggiungi artista preferito…",
+    "addGenrePlaceholder": "+ Aggiungi genere preferito…",
+    "remove": "Rimuovi {{name}} dai preferiti",
+    "noneArtists": "Ancora nessun artista preferito.",
+    "noneGenres": "Ancora nessun genere preferito."
+  }
+}

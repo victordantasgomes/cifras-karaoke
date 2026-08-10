@@ -1,0 +1,24 @@
+{
+  "title": "管理面板 — 销售",
+  "subtitle": "订阅与获客情况。",
+  "loading": "加载中…",
+  "stats": {
+    "activeSubscriptions": "有效订阅",
+    "landingViews": "着陆页访问量"
+  },
+  "sections": {
+    "byStatus": "按状态",
+    "byPlan": "按套餐划分的订阅",
+    "cancellationTrend": "退订趋势"
+  },
+  "status": {
+    "none": "无订阅",
+    "trialing": "试用中",
+    "active": "有效",
+    "past_due": "付款逾期",
+    "canceled": "已取消"
+  },
+  "subscribersSuffix": "位订阅者",
+  "empty": "暂无数据。",
+  "trendHint": "近似值——基于目前已记录的 Stripe Webhook 事件。"
+}

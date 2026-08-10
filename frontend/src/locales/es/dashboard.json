@@ -1,0 +1,18 @@
+{
+  "title": "Panel",
+  "subtitle": "Resumen de tu repertorio.",
+  "loading": "Cargando…",
+  "empty": "Todavía no hay nada aquí.",
+  "stats": { "songs": "Canciones", "setlists": "Listas de repertorio", "favorites": "Favoritas", "radar": "En el radar" },
+  "sections": {
+    "mostPlayed": "Más reproducidas",
+    "recent": "Accesos recientes",
+    "favorites": "Favoritas",
+    "mostPlayedArtists": "Artistas más reproducidos",
+    "newlyAdded": "Añadidas recientemente",
+    "yourFavorites": "Tus artistas y géneros favoritos"
+  },
+  "emptyArtists": "Todavía no hay ningún artista reproducido.",
+  "noFavoritesHint": "Todavía no has marcado ningún artista o género como favorito.",
+  "goToFavorites": "Elegir favoritos →"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Former un groupe",
+  "subtitle": "Annonces de groupes qui cherchent des musiciens et de musiciens qui cherchent un groupe.",
+  "backToApp": "Retour au tableau de bord",
+  "login": "Se connecter",
+  "signup": "Créer un compte",
+  "newPost": "+ Créer une annonce",
+  "myPosts": "Mes annonces",
+  "empty": "Aucune annonce active pour le moment.",
+  "emptyMine": "Vous n'avez encore créé aucune annonce.",
+  "inactiveBadge": "inactive",
+  "form": {
+    "createTitle": "Nouvelle annonce",
+    "editTitle": "Modifier l'annonce",
+    "bandName": "Nom du groupe",
+    "genero": "Genre musical",
+    "style": "Style (texte libre)",
+    "skillLevel": "Niveau technique",
+    "skillLevelPlaceholder": "Sélectionner…",
+    "skillLevels": {
+      "iniciante": "Débutant",
+      "intermediario": "Intermédiaire",
+      "avancado": "Avancé",
+      "profissional": "Professionnel"
+    },
+    "goal": "Objectif",
+    "goalPlaceholder": "Sélectionner…",
+    "goals": {
+      "hobby": "Loisir / plaisir",
+      "ensaios_regulares": "Répétitions régulières",
+      "shows_pagos": "Concerts payants",
+      "gravacao": "Enregistrement / studio"
+    },
+    "rehearsalDays": "Jours de répétition",
+    "rehearsalDaysPlaceholder": "ex. : mardi, jeudi",
+    "instrumentsNeeded": "Instruments recherchés",
+    "instrumentsPlaceholder": "ex. : basse, batterie",
+    "bio": "À propos du groupe",
+    "contactInfo": "Contact",
+    "contactPlaceholder": "ex. : WhatsApp, e-mail, Instagram",
+    "linkSetlists": "Lier des setlists (facultatif)",
+    "submit": "Publier l'annonce",
+    "saving": "Enregistrement…",
+    "saveChanges": "Enregistrer les modifications",
+    "cancel": "Annuler"
+  },
+  "card": {
+    "contact": "Contact :",
+    "rehearsalDays": "Jours de répétition :",
+    "instrumentsNeeded": "Recherché :",
+    "deactivate": "Désactiver",
+    "activate": "Réactiver",
+    "edit": "Modifier"
+  },
+  "errors": {
+    "create": "Impossible de publier l'annonce.",
+    "update": "Impossible d'enregistrer les modifications.",
+    "toggle": "Impossible de modifier l'annonce."
+  }
+}

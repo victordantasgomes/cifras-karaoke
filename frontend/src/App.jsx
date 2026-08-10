@@ -2,7 +2,11 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import './i18n'
 import { useColorSettings } from './hooks/useColorSettings'
 import { useLocale } from './hooks/useLocale'
+import { useTheme } from './hooks/useTheme'
+import { useActivityPing } from './hooks/useActivityPing'
 import Layout from './components/Layout'
+import Landing from './pages/Landing'
+import BandBoard from './pages/BandBoard'
 import Login from './pages/Login'
 import SignUp from './pages/SignUp'
 import Dashboard from './pages/Dashboard'
@@ -17,18 +21,26 @@ import HistoryPage from './pages/HistoryPage'
 import Settings from './pages/Settings'
 import Profile from './pages/Profile'
 import Pricing from './pages/Pricing'
+import Metronome from './pages/Metronome'
+import Tuner from './pages/Tuner'
+import AdminTools from './pages/AdminTools'
+import AdminSales from './pages/AdminSales'
 
 export default function App() {
   useColorSettings()
   useLocale()
+  useTheme()
+  useActivityPing()
   return (
     <BrowserRouter>
       <Routes>
+        <Route path="/" element={<Landing />} />
         <Route path="/login" element={<Login />} />
         <Route path="/cadastro" element={<SignUp />} />
         <Route path="/karaoke/:slug" element={<KaraokePlayer />} />
+        <Route path="/mural" element={<BandBoard />} />
         <Route element={<Layout />}>
-          <Route path="/" element={<Dashboard />} />
+          <Route path="/painel" element={<Dashboard />} />
           <Route path="/musicas" element={<Songs />} />
           <Route path="/musicas/:slug" element={<SongEditor />} />
           <Route path="/favoritas" element={<Songs favoritesOnly />} />
@@ -40,6 +52,10 @@ export default function App() {
           <Route path="/configuracoes" element={<Settings />} />
           <Route path="/perfil" element={<Profile />} />
           <Route path="/planos" element={<Pricing />} />
+          <Route path="/metronomo" element={<Metronome />} />
+          <Route path="/afinador" element={<Tuner />} />
+          <Route path="/admin/ferramenta" element={<AdminTools />} />
+          <Route path="/admin/vendas" element={<AdminSales />} />
         </Route>
       </Routes>
     </BrowserRouter>

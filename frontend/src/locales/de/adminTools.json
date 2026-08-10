@@ -1,0 +1,24 @@
+{
+  "title": "Admin-Panel — Werkzeug",
+  "subtitle": "Überblick über die Nutzung der Plattform.",
+  "loading": "Wird geladen…",
+  "stats": {
+    "users": "Nutzer",
+    "songs": "Songs",
+    "avgSession": "Durchschnittliche Sitzung"
+  },
+  "sections": {
+    "mostPlayed": "Meistgespielte Songs",
+    "mostEdited": "Meistbearbeitete Songs",
+    "mostSetlisted": "Songs in den meisten Setlists",
+    "topUploaders": "Wer die meisten Songs hochlädt",
+    "topByLogins": "Wer sich am meisten anmeldet"
+  },
+  "playsSuffix": "×",
+  "editsSuffix": "Bearbeitungen",
+  "setlistsSuffix": "Setlists",
+  "loginsSuffix": "Anmeldungen",
+  "songsSuffix": "Songs",
+  "empty": "Noch keine Daten.",
+  "sessionUnavailable": "nicht genug Daten"
+}

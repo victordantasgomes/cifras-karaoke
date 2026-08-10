@@ -1,0 +1,40 @@
+{
+  "titleLibrary": "曲库",
+  "titleFavorites": "收藏",
+  "allUsersHint": " · 来自所有用户",
+  "loadingCount": "…",
+  "songCount_one": "{{count}} 首歌曲",
+  "songCount_other": "{{count}} 首歌曲",
+  "newSong": "+ 新建歌曲",
+  "searchPlaceholder": "按标题、作者、演唱者、标签搜索…",
+  "allGenres": "所有风格",
+  "allArtists": "所有演唱者",
+  "key": "调",
+  "onlyMine": "仅我的",
+  "empty": "未找到歌曲。上传一个 TXT 文件开始使用。",
+  "otherUserTitle": "这首歌曲不是你创建的",
+  "otherUserChip": "来自其他用户",
+  "privateTitle": "只有你能看到这首歌曲",
+  "privateChip": "🔒 私密",
+  "prevPage": "← 上一页",
+  "pageOf": "第 {{page}} 页，共 {{total}} 页",
+  "nextPage": "下一页 →",
+  "upload": {
+    "file": "TXT 文件",
+    "genre": "风格",
+    "artist": "演唱者",
+    "submit": "上传",
+    "error": "上传失败，请检查文件。"
+  },
+  "favorites": {
+    "title": "收藏的演唱者和风格",
+    "description": "收藏一位演唱者或一种风格，即可在这里看到他们的所有歌曲，无需逐首收藏。",
+    "artistsLabel": "演唱者",
+    "genresLabel": "风格",
+    "addArtistPlaceholder": "+ 添加收藏的演唱者…",
+    "addGenrePlaceholder": "+ 添加收藏的风格…",
+    "remove": "将 {{name}} 从收藏中移除",
+    "noneArtists": "还没有收藏的演唱者。",
+    "noneGenres": "还没有收藏的风格。"
+  }
+}

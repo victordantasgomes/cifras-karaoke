@@ -1,0 +1,11 @@
+{
+  "title": "Metronom",
+  "subtitle": "Stelle das Tempo ein, verfolge den Beat und halte den Takt bei den Proben.",
+  "bpm": "BPM",
+  "beatsPerBar": "Schläge pro Takt",
+  "start": "Starten",
+  "stop": "Stoppen",
+  "tapTempo": "Tap-Tempo",
+  "tapHint": "Tippe ein paar Mal im gewünschten Rhythmus",
+  "savedHint": "Das BPM wird beim Stoppen automatisch gespeichert"
+}

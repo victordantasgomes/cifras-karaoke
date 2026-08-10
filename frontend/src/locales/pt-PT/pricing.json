@@ -1,0 +1,14 @@
+{
+  "title": "Planos",
+  "subtitle": "14 dias grátis em qualquer plano — cancele quando quiser.",
+  "checkoutSuccess": "Assinatura iniciada! O estado pode demorar alguns segundos a atualizar aqui.",
+  "checkoutCanceled": "Checkout cancelado — não foi feita nenhuma cobrança.",
+  "checkoutError": "Não foi possível iniciar o checkout.",
+  "perMonth": "/mês",
+  "setlistsLimit_one": "Até {{count}} alinhamento",
+  "setlistsLimit_other": "Até {{count}} alinhamentos",
+  "storageLimit": "{{mb}} MB de armazenamento de áudio",
+  "redirecting": "A redirecionar…",
+  "subscribe": "Assinar",
+  "noPlans": "Nenhum plano disponível de momento."
+}

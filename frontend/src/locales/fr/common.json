@@ -7,6 +7,12 @@
     "history": "Historique",
     "karaoke": "Karaoké",
     "chordDictionary": "Dictionnaire d'accords",
+    "bandBoard": "Former un groupe",
+    "tools": "Outils",
+    "metronome": "Métronome",
+    "tuner": "Accordeur",
+    "adminTools": "Panneau admin",
+    "adminSales": "Panneau des ventes",
     "settings": "Paramètres",
     "profile": "Profil",
     "logout": "Déconnexion"
@@ -36,5 +42,6 @@
     "label": "Langue",
     "description": "Choisissez la langue de l'interface.",
     "auto": "Suggérée par le navigateur"
-  }
+  },
+  "loadingChord": "Chargement de la partition…"
 }

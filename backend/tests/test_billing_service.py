@@ -145,6 +145,63 @@ def test_webhook_ignores_unhandled_event_types(billing, fake_stripe, user_id):
     billing.handle_webhook_event(payload, fake_stripe.VALID_SIG)  # não deve levantar
 
 
+def _subscription_events(user_id):
+    with db.get_pool().connection() as conn:
+        return conn.execute(
+            "select old_status, new_status from subscription_events where user_id=%s order by occurred_at",
+            (user_id,),
+        ).fetchall()
+
+
+def test_webhook_checkout_completed_records_status_change(billing, fake_stripe, plan, user_id):
+    with db.get_pool().connection() as conn:
+        conn.execute("update users set stripe_customer_id=%s where id=%s", ("cus_6", user_id))
+    fake_stripe.register_subscription({
+        "id": "sub_6", "customer": "cus_6", "status": "trialing",
+        "items": {"data": [{"price": {"id": plan["stripe_price_id"]}}]},
+        "current_period_end": 1893456000,
+    })
+    payload = _webhook_payload("checkout.session.completed", {"subscription": "sub_6"})
+    billing.handle_webhook_event(payload, fake_stripe.VALID_SIG)
+
+    events = _subscription_events(user_id)
+    assert len(events) == 1
+    assert events[0]["old_status"] == "none"
+    assert events[0]["new_status"] == "trialing"
+
+
+def test_webhook_subscription_deleted_records_status_change(billing, fake_stripe, user_id):
+    with db.get_pool().connection() as conn:
+        conn.execute(
+            "update users set stripe_customer_id=%s, subscription_status=%s where id=%s",
+            ("cus_7", "active", user_id),
+        )
+    payload = _webhook_payload("customer.subscription.deleted", {"customer": "cus_7"})
+    billing.handle_webhook_event(payload, fake_stripe.VALID_SIG)
+
+    events = _subscription_events(user_id)
+    assert len(events) == 1
+    assert events[0]["old_status"] == "active"
+    assert events[0]["new_status"] == "canceled"
+
+
+def test_webhook_does_not_record_event_when_status_unchanged(billing, fake_stripe, plan, user_id):
+    with db.get_pool().connection() as conn:
+        conn.execute(
+            "update users set stripe_customer_id=%s, subscription_status=%s where id=%s",
+            ("cus_8", "active", user_id),
+        )
+    subscription = {
+        "id": "sub_8", "customer": "cus_8", "status": "active",
+        "items": {"data": [{"price": {"id": plan["stripe_price_id"]}}]},
+        "current_period_end": 1893456000,
+    }
+    payload = _webhook_payload("customer.subscription.updated", subscription)
+    billing.handle_webhook_event(payload, fake_stripe.VALID_SIG)
+
+    assert _subscription_events(user_id) == []
+
+
 @pytest.mark.parametrize("status,blocked", [
     ("none", False), ("trialing", False), ("active", False),
     ("past_due", True), ("canceled", True),

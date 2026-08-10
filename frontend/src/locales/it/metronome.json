@@ -1,0 +1,11 @@
+{
+  "title": "Metronomo",
+  "subtitle": "Imposta il tempo, segui il battito e mantieni il ritmo durante le prove.",
+  "bpm": "BPM",
+  "beatsPerBar": "Battiti per battuta",
+  "start": "Avvia",
+  "stop": "Ferma",
+  "tapTempo": "Tap tempo",
+  "tapHint": "Tocca a ritmo alcune volte",
+  "savedHint": "Il BPM viene salvato automaticamente quando fermi"
+}

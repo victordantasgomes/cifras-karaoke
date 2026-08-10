@@ -1,0 +1,45 @@
+{
+  "title": "Dictionnaire d'accords",
+  "subtitle": "Guitare, ukulélé et clavier — recherchez un accord, consultez les variations et écoutez.",
+  "banner": "Les doigtés de guitare et d'ukulélé de ce dictionnaire ont été normalisés selon une formule harmonique et des critères automatisés de jouabilité — ils n'ont pas été établis à la main par un musicien. Nous recommandons une étape de curation/validation musicale avant de les considérer comme une référence éditoriale définitive. Les positions de clavier découlent directement de la théorie musicale (fondamentale + renversements), elles sont donc vérifiables par construction.",
+  "instruments": {
+    "violao": "Guitare",
+    "ukulele": "Ukulélé",
+    "teclado": "Clavier"
+  },
+  "searchPlaceholder": "Rechercher un accord (ex. : Cmaj7, Dm7, F#)",
+  "filters": {
+    "tonica": "Tonique",
+    "qualidade": "Qualité",
+    "dificuldade": "Difficulté",
+    "pestana": "Barré",
+    "pestanaWith": "Avec barré",
+    "pestanaWithout": "Sans barré"
+  },
+  "favoritesOnly": "Favoris uniquement",
+  "loading": "Chargement…",
+  "empty": "Aucun accord trouvé.",
+  "favoriteToggleTitle": "Mettre en favori",
+  "selectPrompt": "Sélectionnez un accord dans la liste.",
+  "enharmonicToggleTitle": "Basculer entre l'écriture dièse/bémol",
+  "favoriteOn": "★ Favori",
+  "favoriteOff": "☆ Favori",
+  "chordSummary": "{{tonica}} · {{qualidade}} · formule {{formula}}",
+  "variation": "Variation {{current}} sur {{total}}",
+  "variationNamed": "{{name}} ({{current}}/{{total}})",
+  "leftHandedMode": "Mode gaucher",
+  "listen": "🔊 Écouter l'accord",
+  "downloadSvg": "⭳ Télécharger le SVG",
+  "capoChip": "Barré",
+  "bassChip": "Basse : {{value}}",
+  "notesChip": "Notes : {{value}}",
+  "handsInfo": "Main gauche : {{left}} · Main droite : {{right}} · {{octave}}",
+  "transpose": "Transposer :",
+  "semitoneDown": "−1 demi-ton",
+  "semitoneUp": "+1 demi-ton",
+  "goToKey": "Aller à la tonalité…",
+  "formulasToggle": "Formules des qualités d'accord",
+  "hoverCard": {
+    "vary": "varier l'accord"
+  }
+}

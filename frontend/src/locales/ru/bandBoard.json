@@ -1,0 +1,60 @@
+{
+  "title": "Собрать группу",
+  "subtitle": "Объявления групп, ищущих музыкантов, и музыкантов, ищущих группу.",
+  "backToApp": "Вернуться на панель",
+  "login": "Войти",
+  "signup": "Создать аккаунт",
+  "newPost": "+ Создать объявление",
+  "myPosts": "Мои объявления",
+  "empty": "Сейчас нет активных объявлений.",
+  "emptyMine": "Вы ещё не создали ни одного объявления.",
+  "inactiveBadge": "неактивно",
+  "form": {
+    "createTitle": "Новое объявление",
+    "editTitle": "Редактировать объявление",
+    "bandName": "Название группы",
+    "genero": "Музыкальный жанр",
+    "style": "Стиль (свободный текст)",
+    "skillLevel": "Технический уровень",
+    "skillLevelPlaceholder": "Выберите…",
+    "skillLevels": {
+      "iniciante": "Начинающий",
+      "intermediario": "Средний",
+      "avancado": "Продвинутый",
+      "profissional": "Профессионал"
+    },
+    "goal": "Цель",
+    "goalPlaceholder": "Выберите…",
+    "goals": {
+      "hobby": "Хобби / для удовольствия",
+      "ensaios_regulares": "Регулярные репетиции",
+      "shows_pagos": "Платные выступления",
+      "gravacao": "Запись / студия"
+    },
+    "rehearsalDays": "Дни репетиций",
+    "rehearsalDaysPlaceholder": "напр.: вторник, четверг",
+    "instrumentsNeeded": "Требуются инструменты",
+    "instrumentsPlaceholder": "напр.: бас-гитара, барабаны",
+    "bio": "О группе",
+    "contactInfo": "Контакт",
+    "contactPlaceholder": "напр.: WhatsApp, эл. почта, Instagram",
+    "linkSetlists": "Связать сетлисты (необязательно)",
+    "submit": "Опубликовать объявление",
+    "saving": "Сохранение…",
+    "saveChanges": "Сохранить изменения",
+    "cancel": "Отмена"
+  },
+  "card": {
+    "contact": "Контакт:",
+    "rehearsalDays": "Дни репетиций:",
+    "instrumentsNeeded": "Требуется:",
+    "deactivate": "Деактивировать",
+    "activate": "Реактивировать",
+    "edit": "Редактировать"
+  },
+  "errors": {
+    "create": "Не удалось опубликовать объявление.",
+    "update": "Не удалось сохранить изменения.",
+    "toggle": "Не удалось изменить объявление."
+  }
+}

@@ -48,11 +48,40 @@ def build_blueprint(ctx) -> Blueprint:
         except AuthError as e:
             return jsonify({"error": str(e), "error_code": auth_error_code(str(e))}), 400
 
+    # Públicas (sem auth) — consumidas pela landing page (Landing.jsx).
+    @api.post("/telemetry/landing-view")
+    def telemetry_landing_view():
+        ctx.telemetry.record_landing_view()
+        return "", 204
+
+    @api.get("/public/plans")
+    def public_plans():
+        return jsonify(ctx.plans.list_public())
+
+    # Heartbeat de sessão (Fase 12) — chamado pelo hook useActivityPing.js
+    # enquanto a aba está visível; alimenta o "tempo médio de acesso" do
+    # painel admin (Fase 13).
+    @api.post("/telemetry/ping")
+    @protected
+    def telemetry_ping():
+        ctx.telemetry.record_ping(g.user_id)
+        return "", 204
+
     # ---------------- administração (só is_admin) ----------------
     @api.get("/admin/users")
     @ctx.require_admin
     def admin_list_users():
         return jsonify(ctx.auth.list_users())
+
+    @api.get("/admin/stats/tools")
+    @ctx.require_admin
+    def admin_stats_tools():
+        return jsonify(ctx.admin_stats.tools_stats())
+
+    @api.get("/admin/stats/sales")
+    @ctx.require_admin
+    def admin_stats_sales():
+        return jsonify(ctx.admin_stats.sales_stats())
 
     @api.post("/admin/users")
     @ctx.require_admin
@@ -210,12 +239,18 @@ def build_blueprint(ctx) -> Blueprint:
     @protected
     def list_songs():
         a = request.args
+        favoritas = a.get("favoritas") == "1"
+        # "favoritas" inclui, além da música marcada como favorita, as de
+        # artista/gênero favorito (Fase 6) — busca os dois só quando precisa,
+        # não em toda navegação normal da biblioteca.
+        favs = ctx.favorites.list_favorites(g.user_id) if favoritas else {"artists": [], "genres": []}
         return jsonify(ctx.search.search(
             g.user_id,
             q=a.get("q", ""), genero=a.get("genero", ""),
             interprete=a.get("interprete", ""), tom=a.get("tom", ""),
             ritmo=a.get("ritmo", ""), tag=a.get("tag", ""),
-            favoritas=a.get("favoritas") == "1",
+            favoritas=favoritas,
+            favorite_interpretes=favs["artists"], favorite_generos=favs["genres"],
             only_mine=a.get("only_mine") == "1",
             page=a.get("page", 1, type=int),
             page_size=a.get("page_size", 50, type=int),
@@ -227,6 +262,26 @@ def build_blueprint(ctx) -> Blueprint:
     @protected
     def facets():
         return jsonify(ctx.search.facets(g.user_id, is_admin=g.is_admin))
+
+    # ---------------- favoritos de artista/gênero (Fase 6) ----------------
+    @api.get("/favorites")
+    @protected
+    def list_favorites():
+        return jsonify(ctx.favorites.list_favorites(g.user_id))
+
+    @api.post("/favorites/artists")
+    @protected
+    def toggle_favorite_artist():
+        d = request.get_json(force=True)
+        ctx.favorites.set_favorite_artist(g.user_id, d.get("name", ""), bool(d.get("value")))
+        return jsonify(ctx.favorites.list_favorites(g.user_id))
+
+    @api.post("/favorites/genres")
+    @protected
+    def toggle_favorite_genre():
+        d = request.get_json(force=True)
+        ctx.favorites.set_favorite_genre(g.user_id, d.get("name", ""), bool(d.get("value")))
+        return jsonify(ctx.favorites.list_favorites(g.user_id))
 
     @api.post("/songs")
     @protected
@@ -609,6 +664,95 @@ def build_blueprint(ctx) -> Blueprint:
         d = request.get_json(force=True)
         return jsonify(ctx.settings.update(g.user_id, d.get("colors"), d.get("prefs")))
 
+    # ---------------- whitelabel (Fase 8) ----------------
+    @api.post("/branding/logo")
+    @protected
+    @not_blocked
+    def upload_logo():
+        f = request.files.get("file")
+        if not f:
+            return jsonify({"error": "Arquivo de imagem ausente.", "error_code": "LOGO_FILE_MISSING"}), 400
+        ctx.branding.save_logo(g.user_id, f)
+        return jsonify({"ok": True}), 201
+
+    @api.delete("/branding/logo")
+    @protected
+    def delete_logo():
+        ctx.branding.delete_logo(g.user_id)
+        return "", 204
+
+    # Pública — nome da banda (settings.prefs.bandName) + se há logo, pro
+    # palco de karaokê e mural (Fase 9) decidirem o que mostrar sem
+    # precisar de duas chamadas condicionais.
+    @api.get("/branding/<user_id>")
+    def get_branding_info(user_id):
+        prefs = ctx.settings.get(user_id)["prefs"]
+        return jsonify({"band_name": prefs.get("bandName", ""), "has_logo": ctx.branding.has_logo(user_id)})
+
+    # Pública de propósito (sem @protected) — palco de karaokê e mural
+    # (Fase 9) exibem a logo pra visitante sem login. Bytes sempre servidos
+    # proxied pelo backend (nunca a URL crua do Blob, mesmo padrão de áudio).
+    @api.get("/branding/<user_id>/logo")
+    def get_logo(user_id):
+        result = ctx.branding.logo_bytes(user_id)
+        if not result:
+            return jsonify({"error": "Este usuário não tem logo enviada.", "error_code": "LOGO_NOT_FOUND"}), 404
+        data, content_type = result
+        return Response(data, mimetype=content_type or "application/octet-stream")
+
+    # ---------------- mural "monte uma banda" (Fase 9) ----------------
+    # Leitura pública (sem @protected), mesmo precedente de /karaoke/:slug —
+    # escrita exige login e ser o dono do anúncio.
+    @api.get("/band-board")
+    def list_band_posts():
+        return jsonify(ctx.band_board.list_active())
+
+    @api.get("/band-board/mine")
+    @protected
+    def list_my_band_posts():
+        return jsonify(ctx.band_board.list_mine(g.user_id))
+
+    @api.get("/band-board/<post_id>")
+    def get_band_post(post_id):
+        # rota pública (sem @protected) — sempre lê como visitante anônimo,
+        # só vê posts ativos. O dono edita/vê o próprio post inativo via
+        # GET /band-board/mine (autenticado), não por aqui.
+        try:
+            return jsonify(ctx.band_board.get(post_id))
+        except FileNotFoundError:
+            return jsonify({"error": "Anúncio não encontrado.", "error_code": "BAND_POST_NOT_FOUND"}), 404
+
+    @api.post("/band-board")
+    @protected
+    @not_blocked
+    def create_band_post():
+        d = request.get_json(force=True)
+        return jsonify(ctx.band_board.create(g.user_id, d)), 201
+
+    @api.put("/band-board/<post_id>")
+    @protected
+    def update_band_post(post_id):
+        d = request.get_json(force=True)
+        try:
+            return jsonify(ctx.band_board.update(g.user_id, post_id, d))
+        except FileNotFoundError:
+            return jsonify({"error": "Anúncio não encontrado.", "error_code": "BAND_POST_NOT_FOUND"}), 404
+        except PermissionError:
+            return jsonify({"error": "Só quem criou este anúncio pode editá-lo.",
+                             "error_code": "BAND_POST_NOT_OWNER"}), 403
+
+    @api.post("/band-board/<post_id>/active")
+    @protected
+    def set_band_post_active(post_id):
+        d = request.get_json(force=True)
+        try:
+            return jsonify(ctx.band_board.set_active(g.user_id, post_id, bool(d.get("value"))))
+        except FileNotFoundError:
+            return jsonify({"error": "Anúncio não encontrado.", "error_code": "BAND_POST_NOT_FOUND"}), 404
+        except PermissionError:
+            return jsonify({"error": "Só quem criou este anúncio pode ativá-lo/desativá-lo.",
+                             "error_code": "BAND_POST_NOT_OWNER"}), 403
+
     # ---------------- dicionário de acordes ----------------
     @api.get("/acordes")
     @protected
@@ -674,6 +818,7 @@ def build_blueprint(ctx) -> Blueprint:
         plays = ctx.history.plays(g.user_id)
         total_songs = ctx.search.search(g.user_id, page_size=1, is_admin=g.is_admin)["total"]
         favorites = ctx.search.search(g.user_id, favoritas=True, page_size=8, is_admin=g.is_admin)["items"]
+        newly_added = ctx.search.search(g.user_id, sort="-created_at", page_size=8, is_admin=g.is_admin)["items"]
 
         top = sorted(plays.items(), key=lambda kv: -kv[1]["count"])[:8]
         recent = sorted(plays.items(), key=lambda kv: kv[1].get("last", ""), reverse=True)[:8]
@@ -686,6 +831,8 @@ def build_blueprint(ctx) -> Blueprint:
             "favorites": favorites,
             "most_played": [by_slug[s] | {"plays": v["count"]} for s, v in top if s in by_slug],
             "recent": [by_slug[s] | {"last": v.get("last")} for s, v in recent if s in by_slug],
+            "most_played_artists": ctx.history.most_played_artists(g.user_id),
+            "newly_added": newly_added,
         })
 
     return api

@@ -2,16 +2,21 @@
    CIFRAS KARAOKÊ — design system
    Palco escuro + vidro + luz âmbar. Cifras sempre em monoespaçada
    (alinhamento de acordes depende disso).
+
+   Dois sistemas de cor ortogonais entre si, aplicados via atributos
+   em <html> (ver hooks/useTheme.js):
+   - data-theme ("dark"/"light"): cromia geral do app (fundo, texto,
+     vidro, bordas) — NÃO afeta o palco de karaokê/rolagem, que é
+     sempre escuro por design (tela de performance, ver .karaoke-stage).
+   - data-accent (8 cores): cor de destaque da interface (botões
+     primários, foco, badges, item de menu ativo) — independente da
+     paleta "Cores do karaokê" (--amber, --sweep-sung, --sweep-upcoming,
+     --sample; editável em Configuracoes, ColorSettingsCard), que
+     continua fixa e só controla a cor das letras/acordes na folha
+     de cifra e no palco.
    ============================================================= */
 :root {
-  --bg: #0b0d12;
-  --bg-raise: #12151d;
-  --glass: rgba(255, 255, 255, 0.045);
-  --glass-strong: rgba(255, 255, 255, 0.08);
-  --stroke: rgba(255, 255, 255, 0.09);
-  --text: #eceef3;
-  --muted: #8a90a0;
-  --amber: #f2b544;           /* luz de palco */
+  --amber: #f2b544;           /* luz de palco — "Cores do karaokê" */
   --amber-soft: rgba(242, 181, 68, 0.14);
   --danger: #e5484d;
   --ok: #46c48a;
@@ -24,6 +29,84 @@
   --font-mono: 'JetBrains Mono', monospace;
   --radius: 14px;
   --sidebar-w: 232px;
+}
+
+/* ---------- tema claro/escuro (cromia geral) ---------- */
+:root, :root[data-theme="dark"] {
+  --bg: #0b0d12;
+  --bg-raise: #12151d;
+  --glass: rgba(255, 255, 255, 0.045);
+  --glass-strong: rgba(255, 255, 255, 0.08);
+  --stroke: rgba(255, 255, 255, 0.09);
+  --text: #eceef3;
+  --muted: #8a90a0;
+  --sidebar-bg: rgba(15, 17, 24, 0.7);
+  --input-bg: rgba(0, 0, 0, 0.25);
+  --btn-hover-border: rgba(255, 255, 255, 0.2);
+}
+:root[data-theme="light"] {
+  --bg: #f4f5f8;
+  --bg-raise: #ffffff;
+  --glass: rgba(10, 14, 30, 0.035);
+  --glass-strong: rgba(10, 14, 30, 0.065);
+  --stroke: rgba(10, 14, 30, 0.11);
+  --text: #14161c;
+  --muted: #666c7c;
+  --sidebar-bg: rgba(255, 255, 255, 0.7);
+  --input-bg: rgba(10, 14, 30, 0.045);
+  --btn-hover-border: rgba(10, 14, 30, 0.22);
+}
+
+/* ---------- cor de destaque (8 opções × 2 temas) ----------
+   --accent-ink é a cor de texto usada sobre um fundo sólido --accent
+   (ex.: .btn.primary) — escolhida por contraste, não por regra fixa. */
+:root, :root[data-accent="azul"] {
+  --accent: #4f8fef; --accent-soft: rgba(79, 143, 239, 0.16); --accent-ink: #08101f;
+}
+:root[data-theme="light"][data-accent="azul"] {
+  --accent: #2f6fe0; --accent-soft: rgba(47, 111, 224, 0.12); --accent-ink: #ffffff;
+}
+:root[data-accent="vermelho"] {
+  --accent: #ef5a5f; --accent-soft: rgba(239, 90, 95, 0.16); --accent-ink: #1f0808;
+}
+:root[data-theme="light"][data-accent="vermelho"] {
+  --accent: #dc3b41; --accent-soft: rgba(220, 59, 65, 0.12); --accent-ink: #ffffff;
+}
+:root[data-accent="verde"] {
+  --accent: #46c48a; --accent-soft: rgba(70, 196, 138, 0.16); --accent-ink: #06231a;
+}
+:root[data-theme="light"][data-accent="verde"] {
+  --accent: #22a06c; --accent-soft: rgba(34, 160, 108, 0.12); --accent-ink: #ffffff;
+}
+:root[data-accent="rosa"] {
+  --accent: #f472b6; --accent-soft: rgba(244, 114, 182, 0.16); --accent-ink: #250d1b;
+}
+:root[data-theme="light"][data-accent="rosa"] {
+  --accent: #db3d8f; --accent-soft: rgba(219, 61, 143, 0.12); --accent-ink: #ffffff;
+}
+:root[data-accent="lilas"] {
+  --accent: #a78bfa; --accent-soft: rgba(167, 139, 250, 0.16); --accent-ink: #170f2e;
+}
+:root[data-theme="light"][data-accent="lilas"] {
+  --accent: #7c5cf0; --accent-soft: rgba(124, 92, 240, 0.12); --accent-ink: #ffffff;
+}
+:root[data-accent="preto"] {
+  --accent: #d8dae2; --accent-soft: rgba(216, 218, 226, 0.14); --accent-ink: #101216;
+}
+:root[data-theme="light"][data-accent="preto"] {
+  --accent: #14161c; --accent-soft: rgba(20, 22, 28, 0.10); --accent-ink: #ffffff;
+}
+:root[data-accent="branco"] {
+  --accent: #f5f6f8; --accent-soft: rgba(245, 246, 248, 0.14); --accent-ink: #14161c;
+}
+:root[data-theme="light"][data-accent="branco"] {
+  --accent: #ffffff; --accent-soft: rgba(20, 22, 28, 0.06); --accent-ink: #14161c;
+}
+:root[data-accent="cinza"] {
+  --accent: #9aa1b0; --accent-soft: rgba(154, 161, 176, 0.16); --accent-ink: #101216;
+}
+:root[data-theme="light"][data-accent="cinza"] {
+  --accent: #6b7280; --accent-soft: rgba(107, 114, 128, 0.12); --accent-ink: #ffffff;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -40,8 +123,8 @@ body {
 }
 a { color: inherit; text-decoration: none; }
 button { font-family: inherit; }
-::selection { background: var(--amber-soft); }
-:focus-visible { outline: 2px solid var(--amber); outline-offset: 2px; }
+::selection { background: var(--accent-soft); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
 /* ---------- layout ---------- */
 .app-shell { display: flex; min-height: 100vh; }
@@ -56,7 +139,7 @@ button { font-family: inherit; }
   position: sticky; top: 0; height: 100vh;
   padding: 22px 14px;
   border-right: 1px solid var(--stroke);
-  background: rgba(15, 17, 24, 0.7);
+  background: var(--sidebar-bg);
   backdrop-filter: blur(18px);
   display: flex; flex-direction: column; gap: 4px;
 }
@@ -69,8 +152,12 @@ button { font-family: inherit; }
   color: var(--muted); font-weight: 500; transition: 120ms;
 }
 .nav-item:hover { color: var(--text); background: var(--glass); }
-.nav-item.active { color: var(--text); background: var(--glass-strong); box-shadow: inset 2px 0 0 var(--amber); }
+.nav-item.active { color: var(--text); background: var(--glass-strong); box-shadow: inset 2px 0 0 var(--accent); }
 .nav-item svg { width: 17px; height: 17px; }
+.nav-section-label {
+  padding: 14px 12px 4px; font-size: 11px; font-weight: 700; letter-spacing: 0.06em;
+  text-transform: uppercase; color: var(--muted);
+}
 .sidebar .spacer { flex: 1; }
 
 /* ---------- vidro / cartões ---------- */
@@ -82,7 +169,7 @@ button { font-family: inherit; }
   padding: 18px 20px;
 }
 .stat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 14px; margin-bottom: 22px; }
-.stat .big { font-family: var(--font-display); font-size: 30px; font-weight: 700; color: var(--amber); }
+.stat .big { font-family: var(--font-display); font-size: 30px; font-weight: 700; color: var(--accent); }
 .stat .label { color: var(--muted); font-size: 12.5px; text-transform: uppercase; letter-spacing: 0.08em; margin-top: 2px; }
 
 /* ---------- controles ---------- */
@@ -92,8 +179,8 @@ button { font-family: inherit; }
   background: var(--glass-strong); color: var(--text);
   font-weight: 600; font-size: 13.5px; cursor: pointer; transition: 120ms;
 }
-.btn:hover { border-color: rgba(255,255,255,0.2); }
-.btn.primary { background: var(--amber); color: #17130a; border-color: transparent; }
+.btn:hover { border-color: var(--btn-hover-border); }
+.btn.primary { background: var(--accent); color: var(--accent-ink); border-color: transparent; }
 .btn.primary:hover { filter: brightness(1.08); }
 .btn.danger { color: var(--danger); }
 .btn.ghost { background: transparent; }
@@ -101,10 +188,10 @@ button { font-family: inherit; }
 
 .input, select.input, textarea.input {
   width: 100%; padding: 10px 13px; border-radius: 10px;
-  border: 1px solid var(--stroke); background: rgba(0,0,0,0.25);
+  border: 1px solid var(--stroke); background: var(--input-bg);
   color: var(--text); font-size: 14px;
 }
-.input:focus { border-color: var(--amber); outline: none; }
+.input:focus { border-color: var(--accent); outline: none; }
 textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: vertical; }
 .field { margin-bottom: 14px; }
 .field label { display: block; font-size: 12.5px; color: var(--muted); margin-bottom: 6px; font-weight: 500; }
@@ -114,14 +201,14 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
 .song-row {
   display: grid; grid-template-columns: 1fr 180px 130px 60px 90px;
   gap: 12px; align-items: center;
-  padding: 11px 16px; border-bottom: 1px solid rgba(255,255,255,0.05);
+  padding: 11px 16px; border-bottom: 1px solid var(--stroke);
   cursor: pointer; transition: 100ms;
 }
 .song-row:hover { background: var(--glass); }
 .song-row .title { font-weight: 600; }
 .song-row .meta { color: var(--muted); font-size: 13px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.chip { display: inline-block; padding: 2px 9px; border-radius: 999px; background: var(--amber-soft); color: var(--amber); font-size: 11.5px; font-weight: 600; }
-.fav-star { color: var(--amber); }
+.chip { display: inline-block; padding: 2px 9px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); font-size: 11.5px; font-weight: 600; }
+.fav-star { color: var(--accent); }
 
 /* ---------- cifra (folha) ---------- */
 .chord-sheet { font-family: var(--font-mono); font-size: 14.5px; line-height: 1.6; white-space: pre; overflow-x: auto; }
@@ -174,11 +261,11 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
   padding: 10px 12px; border-radius: 8px; cursor: pointer; transition: 100ms;
 }
 .chord-dict-row:hover { background: var(--glass); }
-.chord-dict-row.active { background: var(--glass-strong); box-shadow: inset 2px 0 0 var(--amber); }
+.chord-dict-row.active { background: var(--glass-strong); box-shadow: inset 2px 0 0 var(--accent); }
 .chord-dict-row .title { font-weight: 600; }
 .chord-dict-row .meta { color: var(--muted); font-size: 12px; }
 .fav-toggle { background: none; border: none; cursor: pointer; font-size: 18px; color: var(--muted); line-height: 1; padding: 4px; }
-.fav-toggle:hover { color: var(--amber); }
+.fav-toggle:hover { color: var(--accent); }
 .chord-dict-detail { min-height: 420px; }
 .chord-dict-title { font-family: var(--font-display); font-size: 26px; font-weight: 700; display: flex; align-items: center; }
 .chord-dict-diagram-wrap { width: 100%; max-width: 320px; height: 260px; margin: 0 auto; }
@@ -197,8 +284,8 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
   transition: background 120ms, border-color 120ms;
 }
 .sync-step:hover { background: var(--glass); }
-.sync-step.selected { background: var(--amber-soft); border-left-color: var(--amber); }
-.sync-step.live { box-shadow: inset 0 0 0 1px var(--amber); }
+.sync-step.selected { background: var(--accent-soft); border-left-color: var(--accent); }
+.sync-step.live { box-shadow: inset 0 0 0 1px var(--accent); }
 .sync-step-body { display: flex; flex-direction: column; gap: 1px; min-width: 0; }
 .sync-step-chord { color: var(--amber); font-weight: 600; font-family: var(--font-mono); font-size: 13px; }
 .sync-step-lyric { font-family: var(--font-mono); font-size: 13.5px; white-space: pre-wrap; }
@@ -232,10 +319,18 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
   background: var(--glass); color: var(--muted); font-size: 11px; font-weight: 600;
   font-variant-numeric: tabular-nums;
 }
-.sync-step-chip.marked { background: var(--amber-soft); color: var(--amber); }
+.sync-step-chip.marked { background: var(--accent-soft); color: var(--accent); }
 
 /* ---------- player karaokê ---------- */
+/* Tela de performance: sempre escura, propositalmente independente do
+   tema claro/escuro do resto do app (mesmo raciocínio da paleta "Cores
+   do karaokê") — reaplica localmente as variáveis de cromia escura pra
+   que os controles (.btn etc., que leem --stroke/--glass-strong/--text)
+   continuem legíveis mesmo com data-theme="light" ativo na página. */
 .karaoke-stage {
+  --bg: #0b0d12; --bg-raise: #12151d;
+  --glass: rgba(255, 255, 255, 0.045); --glass-strong: rgba(255, 255, 255, 0.08);
+  --stroke: rgba(255, 255, 255, 0.09); --text: #eceef3; --muted: #8a90a0;
   position: fixed; inset: 0; z-index: 100;
   background: #000; color: #fff;
   display: flex; flex-direction: column;
@@ -330,6 +425,11 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
 .karaoke-stage.controls-visible .k-controls { opacity: 1; }
 .k-header { position: absolute; top: 0; left: 0; right: 0; padding: 16px 24px; display: flex; justify-content: space-between; color: rgba(255,255,255,0.6); font-size: 14px; opacity: 0; transition: 200ms; }
 .karaoke-stage.controls-visible .k-header { opacity: 1; }
+/* marca própria (whitelabel, Fase 8) — nome/logo do dono da música,
+   condicional, só quando ele configurou em Configurações. */
+.k-brand { display: flex; align-items: center; gap: 8px; margin-top: 4px; }
+.k-brand img { height: 22px; width: auto; border-radius: 4px; }
+.k-brand span { font-weight: 600; color: rgba(255,255,255,0.85); }
 
 /* ---------- player modo rolagem (ScrollPlayer.jsx) ---------- */
 /* overflow-y:auto (não hidden) é proposital — dá de graça o scroll do
@@ -407,6 +507,7 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
   .brand-logo-full { display: none; }
   .brand-logo-icon { display: block; }
   .nav-item span { display: none; }
+  .nav-section-label { display: none; }
   .song-row { grid-template-columns: 1fr 90px; }
   .song-row .hide-sm { display: none; }
   .main { padding: 18px; }

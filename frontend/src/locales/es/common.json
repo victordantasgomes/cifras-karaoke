@@ -7,6 +7,12 @@
     "history": "Historial",
     "karaoke": "Karaoke",
     "chordDictionary": "Diccionario de acordes",
+    "bandBoard": "Forma una banda",
+    "tools": "Herramientas",
+    "metronome": "Metrónomo",
+    "tuner": "Afinador",
+    "adminTools": "Panel admin",
+    "adminSales": "Panel de ventas",
     "settings": "Configuración",
     "profile": "Perfil",
     "logout": "Salir"
@@ -36,5 +42,6 @@
     "label": "Idioma",
     "description": "Elige el idioma de la interfaz.",
     "auto": "Sugerido por el navegador"
-  }
+  },
+  "loadingChord": "Cargando cifrado…"
 }

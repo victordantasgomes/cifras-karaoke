@@ -1,0 +1,27 @@
+{
+  "title": "Sincronizar",
+  "hint": {
+    "clickStep": "Haz clic en un paso de la lista de abajo para seleccionarlo y saltar hasta ahí",
+    "dragMarker": "arrastra un marcador en la forma de onda para ajustar el tiempo",
+    "spaceMark": "la barra <strong>Espacio</strong> marca el paso actual y avanza al siguiente"
+  },
+  "generatingWaveform": "Generando forma de onda…",
+  "pause": "⏸ Pausar",
+  "play": "▶ Reproducir",
+  "stop": "⏹ Detener",
+  "speed": "Velocidad:",
+  "zoom": "Zoom:",
+  "lineFallback": "línea {{number}}",
+  "stagePreview": "Vista previa del escenario (barrido)",
+  "markStep": "⏱ Marcar paso",
+  "previous": "← anterior",
+  "next": "siguiente →",
+  "markedCount": "{{marked}} de {{total}} segmentos marcados",
+  "notMarked": "no marca",
+  "pauseMarker": "· pausa ·",
+  "blockFallback": "(bloque)",
+  "blankLine": "(línea en blanco)",
+  "lines_one": "{{count}} línea",
+  "lines_other": "{{count}} líneas",
+  "uploadHint": "Sube una pista arriba para poder sincronizar el cifrado."
+}

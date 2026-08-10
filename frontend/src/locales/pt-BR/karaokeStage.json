@@ -1,0 +1,36 @@
+{
+  "loading": "Carregando cifra…",
+  "header": {
+    "playlistPrefix": "Setlist: {{name}} · música {{current}}/{{total}} · ",
+    "tom": "Tom: {{tom}}",
+    "synthBadge": "acompanhamento sintetizado"
+  },
+  "status": {
+    "audioLine": "linha {{current}}/{{total}} · {{rate}}x",
+    "legacyLine": "linha {{current}}/{{total}} · {{seconds}}s/linha",
+    "loadingAudio": "carregando áudio…",
+    "zoom": "zoom {{percent}}%"
+  },
+  "controls": {
+    "prevSong": "Música anterior",
+    "restart": "Reiniciar (R)",
+    "prevLine": "Linha anterior (←)",
+    "playPause": "Play/Pause (Espaço)",
+    "skipCountdown": "Pular ({{count}})",
+    "pause": "Pausar",
+    "play": "Tocar",
+    "nextLine": "Próxima linha (→)",
+    "slower": "Mais lento (↓)",
+    "faster": "Mais rápido (↑)",
+    "zoomOut": "Diminuir zoom (-)",
+    "zoomIn": "Aumentar zoom (+)",
+    "nextSong": "Próxima música",
+    "stopPlaylist": "Parar playlist",
+    "fullscreen": "Tela cheia (F)",
+    "back": "Voltar (ESC)",
+    "exit": "Sair"
+  },
+  "countdown": {
+    "hint": "Prepare-se… (clique ou Espaço pra pular)"
+  }
+}

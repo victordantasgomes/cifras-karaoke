@@ -1,0 +1,18 @@
+{
+  "title": "Tableau de bord",
+  "subtitle": "Vue d'ensemble de votre répertoire.",
+  "loading": "Chargement…",
+  "empty": "Rien à afficher pour le moment.",
+  "stats": { "songs": "Chansons", "setlists": "Setlists", "favorites": "Favoris", "radar": "À surveiller" },
+  "sections": {
+    "mostPlayed": "Les plus jouées",
+    "recent": "Derniers accès",
+    "favorites": "Favoris",
+    "mostPlayedArtists": "Artistes les plus joués",
+    "newlyAdded": "Ajoutées récemment",
+    "yourFavorites": "Vos artistes et genres favoris"
+  },
+  "emptyArtists": "Aucun artiste joué pour l'instant.",
+  "noFavoritesHint": "Vous n'avez encore mis aucun artiste ou genre en favori.",
+  "goToFavorites": "Choisir des favoris →"
+}

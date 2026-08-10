@@ -1,0 +1,24 @@
+{
+  "title": "Admin panel — tool",
+  "subtitle": "Platform usage overview.",
+  "loading": "Loading…",
+  "stats": {
+    "users": "Users",
+    "songs": "Songs",
+    "avgSession": "Average session"
+  },
+  "sections": {
+    "mostPlayed": "Most played songs",
+    "mostEdited": "Most edited songs",
+    "mostSetlisted": "Songs in the most setlists",
+    "topUploaders": "Top uploaders",
+    "topByLogins": "Most active users"
+  },
+  "playsSuffix": "×",
+  "editsSuffix": "edits",
+  "setlistsSuffix": "setlists",
+  "loginsSuffix": "logins",
+  "songsSuffix": "songs",
+  "empty": "No data yet.",
+  "sessionUnavailable": "not enough data"
+}

@@ -1,0 +1,257 @@
+/* =============================================================
+   LANDING PAGE (Fase 5) — página pública, sempre em tema claro
+   (ver useForceLightTheme em hooks/useTheme.js). Estilo isolado do
+   resto do app: reaproveita as variáveis de cor de global.css
+   (--accent, --bg, --text etc.) mas não usa .app-shell/.sidebar —
+   é uma página full-width com cabeçalho e rodapé próprios.
+   Todas as classes daqui usam o prefixo .landing- pra não colidir
+   com o resto do CSS do app.
+   ============================================================= */
+
+.landing-page {
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+.landing-page section {
+  padding: 88px 6vw;
+}
+
+.landing-container {
+  max-width: 1160px;
+  margin: 0 auto;
+}
+
+/* ---------- cabeçalho fixo ---------- */
+.landing-header {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 50;
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 14px 6vw;
+  background: var(--sidebar-bg, rgba(255, 255, 255, 0.7));
+  backdrop-filter: blur(18px);
+  border-bottom: 1px solid var(--stroke);
+}
+.landing-logo { display: block; height: 34px; width: auto; }
+.landing-nav { display: flex; align-items: center; gap: 26px; }
+.landing-nav button {
+  background: none; border: none; cursor: pointer;
+  font-family: inherit; font-size: 13.5px; font-weight: 600;
+  color: var(--muted); padding: 0; transition: 120ms;
+}
+.landing-nav button:hover { color: var(--text); }
+.landing-header-actions { display: flex; align-items: center; gap: 10px; }
+
+/* ---------- hero ---------- */
+.landing-hero {
+  padding-top: 148px !important;
+  display: grid; grid-template-columns: 1.05fr 0.95fr; gap: 48px; align-items: center;
+}
+.landing-eyebrow {
+  display: inline-block; color: var(--accent); font-weight: 700;
+  font-size: 12.5px; text-transform: uppercase; letter-spacing: 0.08em;
+  margin-bottom: 14px;
+}
+.landing-hero-title {
+  font-family: var(--font-display); font-weight: 700;
+  font-size: clamp(32px, 4vw, 50px); line-height: 1.1; letter-spacing: -0.02em;
+  margin-bottom: 18px;
+}
+.landing-hero-sub {
+  color: var(--muted); font-size: 16.5px; line-height: 1.6;
+  max-width: 52ch; margin-bottom: 26px;
+}
+.landing-hero-actions { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+.landing-hero-actions .btn.primary { padding: 12px 22px; font-size: 14.5px; }
+.landing-trial-badge {
+  display: inline-flex; align-items: center; gap: 7px;
+  padding: 7px 14px; border-radius: 999px;
+  background: var(--accent-soft); color: var(--accent);
+  font-size: 12.5px; font-weight: 700;
+}
+.landing-trial-badge::before { content: "✓"; }
+
+/* mockup visual do hero — "tela do app" fake, sem screenshot real */
+.landing-hero-visual { display: flex; justify-content: center; }
+.landing-mockup {
+  width: min(420px, 100%);
+  border-radius: 18px;
+  border: 1px solid var(--stroke);
+  background: #12151d;
+  box-shadow: 0 30px 70px rgba(20, 22, 30, 0.28);
+  overflow: hidden;
+}
+.landing-mockup-chrome {
+  display: flex; align-items: center; gap: 6px;
+  padding: 12px 14px; background: rgba(255, 255, 255, 0.04);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+.landing-mockup-dot { width: 9px; height: 9px; border-radius: 50%; background: rgba(255, 255, 255, 0.18); }
+.landing-mockup-badge {
+  margin-left: auto; display: inline-flex; align-items: center; gap: 6px;
+  font-size: 10.5px; font-weight: 700; letter-spacing: 0.06em;
+  color: #f97066;
+}
+.landing-mockup-badge::before {
+  content: ""; width: 6px; height: 6px; border-radius: 50%; background: #f97066;
+  box-shadow: 0 0 0 0 rgba(249, 112, 102, 0.6);
+  animation: landing-pulse 1.6s ease-out infinite;
+}
+@keyframes landing-pulse {
+  0% { box-shadow: 0 0 0 0 rgba(249, 112, 102, 0.55); }
+  100% { box-shadow: 0 0 0 8px rgba(249, 112, 102, 0); }
+}
+.landing-mockup-body { padding: 22px 20px 28px; font-family: var(--font-mono); }
+.landing-mockup-song { color: #eceef3; font-weight: 700; font-size: 14px; margin-bottom: 16px; }
+.landing-mockup-line { display: flex; gap: 10px; font-size: 13.5px; line-height: 1.9; color: rgba(255, 255, 255, 0.4); }
+.landing-mockup-line.active { color: #f2b544; font-weight: 700; }
+.landing-mockup-chord { color: #f2b544; font-weight: 700; min-width: 26px; }
+.landing-mockup-line:not(.active) .landing-mockup-chord { color: rgba(242, 181, 68, 0.45); }
+
+/* ---------- cabeçalho de seção ---------- */
+.landing-section-head { text-align: center; max-width: 640px; margin: 0 auto 44px; }
+.landing-section-title {
+  font-family: var(--font-display); font-weight: 700;
+  font-size: clamp(24px, 2.6vw, 32px); letter-spacing: -0.01em; margin-bottom: 10px;
+}
+.landing-section-sub { color: var(--muted); font-size: 15px; line-height: 1.6; }
+
+/* ---------- jornada / passo-a-passo ---------- */
+.landing-journey-grid, .landing-steps-grid {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px;
+}
+.landing-steps-grid { grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
+.landing-journey-card, .landing-step-card {
+  text-align: left; position: relative;
+}
+.landing-journey-num {
+  font-family: var(--font-display); font-weight: 700; font-size: 26px;
+  color: var(--accent); margin-bottom: 10px;
+}
+.landing-journey-card h3, .landing-step-card h3 {
+  font-family: var(--font-display); font-size: 16.5px; font-weight: 700; margin-bottom: 8px;
+}
+.landing-journey-card p, .landing-step-card p { color: var(--muted); font-size: 13.5px; line-height: 1.55; }
+.landing-step-card { padding-left: 42px; }
+.landing-step-card .landing-step-index {
+  position: absolute; left: 0; top: 18px;
+  width: 26px; height: 26px; border-radius: 50%;
+  background: var(--accent-soft); color: var(--accent);
+  font-weight: 700; font-size: 12.5px;
+  display: flex; align-items: center; justify-content: center;
+}
+
+/* ---------- capacidades (grid de recursos) ---------- */
+.landing-capabilities-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+.landing-capability-card { }
+.landing-capability-icon { font-size: 26px; margin-bottom: 12px; }
+.landing-capability-card h3 { font-family: var(--font-display); font-size: 15px; font-weight: 700; margin-bottom: 6px; }
+.landing-capability-card p { color: var(--muted); font-size: 13px; line-height: 1.5; }
+
+/* ---------- integrações (seção leve) ---------- */
+.landing-integrations { padding-top: 56px !important; padding-bottom: 56px !important; }
+.landing-integrations-row {
+  display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;
+}
+.landing-integration-item {
+  display: flex; flex-direction: column; align-items: center; gap: 8px;
+  color: var(--muted); font-size: 13px; font-weight: 600;
+}
+.landing-integration-item span:first-child { font-size: 28px; }
+
+/* ---------- comparativo ---------- */
+.landing-comparison-scroll { overflow-x: auto; }
+.landing-comparison-table {
+  width: 100%; border-collapse: collapse; min-width: 560px;
+  border-radius: var(--radius); overflow: hidden;
+  border: 1px solid var(--stroke);
+}
+.landing-comparison-table th, .landing-comparison-table td {
+  padding: 13px 16px; text-align: center; border-bottom: 1px solid var(--stroke);
+  font-size: 13.5px;
+}
+.landing-comparison-table th { background: var(--glass); font-family: var(--font-display); font-weight: 700; font-size: 13px; }
+.landing-comparison-table td:first-child, .landing-comparison-table th:first-child {
+  text-align: left; font-weight: 600; color: var(--text);
+}
+.landing-comparison-table tr:last-child td { border-bottom: none; }
+.landing-comparison-table th.product { color: var(--accent); }
+.landing-comparison-table td.product { background: var(--accent-soft); font-weight: 700; }
+.landing-check { color: var(--ok); font-weight: 700; }
+.landing-cross { color: var(--muted); }
+
+/* ---------- depoimentos (carrossel simples) ---------- */
+.landing-testimonials-wrap { display: flex; align-items: center; gap: 16px; max-width: 680px; margin: 0 auto; }
+.landing-testimonial-card { flex: 1; text-align: center; min-height: 168px; display: flex; flex-direction: column; justify-content: center; }
+.landing-testimonial-quote { font-size: 16px; line-height: 1.6; margin-bottom: 18px; }
+.landing-testimonial-quote::before { content: "“"; }
+.landing-testimonial-quote::after { content: "”"; }
+.landing-testimonial-name { font-weight: 700; font-size: 13.5px; }
+.landing-testimonial-role { color: var(--muted); font-size: 12.5px; }
+.landing-carousel-btn {
+  flex-shrink: 0; width: 36px; height: 36px; border-radius: 50%;
+  border: 1px solid var(--stroke); background: var(--glass-strong);
+  color: var(--text); cursor: pointer; font-size: 16px;
+  display: flex; align-items: center; justify-content: center;
+}
+.landing-carousel-btn:hover { border-color: var(--btn-hover-border); }
+.landing-carousel-dots { display: flex; justify-content: center; gap: 8px; margin-top: 22px; }
+.landing-carousel-dot {
+  width: 7px; height: 7px; border-radius: 50%; border: none; padding: 0;
+  background: var(--stroke); cursor: pointer;
+}
+.landing-carousel-dot.active { background: var(--accent); }
+
+/* ---------- planos ---------- */
+.landing-pricing-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 16px; }
+.landing-pricing-card { display: flex; flex-direction: column; }
+.landing-pricing-card h3 { font-family: var(--font-display); font-size: 17px; font-weight: 700; margin-bottom: 10px; }
+.landing-pricing-price { font-family: var(--font-display); font-size: 28px; font-weight: 700; margin-bottom: 14px; }
+.landing-pricing-price span { font-size: 13px; color: var(--muted); font-weight: 400; font-family: var(--font-body); }
+.landing-pricing-features { list-style: none; color: var(--muted); font-size: 13px; line-height: 2; margin-bottom: 20px; flex: 1; }
+.landing-pricing-features li::before { content: "✓ "; color: var(--ok); font-weight: 700; }
+.landing-pricing-card .btn.primary { width: 100%; justify-content: center; }
+
+/* ---------- FAQ ---------- */
+.landing-faq-list { max-width: 720px; margin: 0 auto; display: flex; flex-direction: column; gap: 10px; }
+.landing-faq-item {
+  border: 1px solid var(--stroke); border-radius: var(--radius);
+  background: var(--glass); padding: 4px 18px;
+}
+.landing-faq-item summary {
+  padding: 15px 0; cursor: pointer; font-weight: 600; font-size: 14.5px;
+  list-style: none; display: flex; align-items: center; justify-content: space-between; gap: 12px;
+}
+.landing-faq-item summary::-webkit-details-marker { display: none; }
+.landing-faq-item summary::after { content: "+"; color: var(--accent); font-size: 18px; font-weight: 700; flex-shrink: 0; }
+.landing-faq-item[open] summary::after { content: "−"; }
+.landing-faq-item p { color: var(--muted); font-size: 13.5px; line-height: 1.6; padding: 0 0 16px; }
+
+/* ---------- rodapé ---------- */
+.landing-footer {
+  border-top: 1px solid var(--stroke);
+  padding: 40px 6vw !important;
+  display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;
+}
+.landing-footer-brand { display: flex; align-items: center; gap: 12px; }
+.landing-footer-brand img { height: 28px; width: auto; }
+.landing-footer-tagline { color: var(--muted); font-size: 12.5px; }
+.landing-footer-nav { display: flex; gap: 20px; flex-wrap: wrap; }
+.landing-footer-nav button {
+  background: none; border: none; cursor: pointer; font-family: inherit;
+  color: var(--muted); font-size: 13px; font-weight: 600; padding: 0;
+}
+.landing-footer-nav button:hover { color: var(--text); }
+.landing-footer-rights { width: 100%; text-align: center; color: var(--muted); font-size: 12px; margin-top: 14px; }
+
+/* ---------- responsivo ---------- */
+@media (max-width: 900px) {
+  .landing-page section { padding: 64px 20px; }
+  .landing-header { padding: 12px 20px; }
+  .landing-nav { display: none; }
+  .landing-hero { grid-template-columns: 1fr; padding-top: 120px !important; text-align: center; }
+  .landing-hero-sub { margin-left: auto; margin-right: auto; }
+  .landing-hero-actions { justify-content: center; }
+  .landing-journey-grid, .landing-steps-grid, .landing-capabilities-grid { grid-template-columns: 1fr; }
+  .landing-testimonials-wrap { max-width: 100%; }
+  .landing-footer { justify-content: center; text-align: center; }
+}

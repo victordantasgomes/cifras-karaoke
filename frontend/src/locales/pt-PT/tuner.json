@@ -1,0 +1,15 @@
+{
+  "title": "Afinador",
+  "subtitle": "Toque uma nota e veja o quanto está afinada, em tempo real através do microfone.",
+  "start": "Iniciar",
+  "stop": "Parar",
+  "waitingSignal": "Toque uma nota…",
+  "inTune": "Afinado",
+  "tooLow": "Demasiado grave",
+  "tooHigh": "Demasiado agudo",
+  "a4Label": "Referência (A4)",
+  "permissionDenied": "Permissão do microfone negada. Autorize o acesso ao microfone nas definições do navegador e tente novamente.",
+  "noDevice": "Não foi encontrado nenhum microfone neste dispositivo.",
+  "genericError": "Não foi possível aceder ao microfone.",
+  "retry": "Tentar novamente"
+}

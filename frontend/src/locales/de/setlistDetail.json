@@ -1,0 +1,24 @@
+{
+  "loading": "Wird geladen…",
+  "renameHint": "Zum Umbenennen klicken",
+  "itemCount_one": "{{count}} Song",
+  "itemCount_other": "{{count}} Songs",
+  "ownerHint": " · ziehen oder ▲▼ zum Umsortieren verwenden",
+  "readOnlyHint": " · von einem anderen Nutzer — nur lesen",
+  "print": "Drucken",
+  "continuePlaylist": "▶ Fortsetzen (Song {{current}}/{{total}})",
+  "stopPlaylist": "■ Playlist stoppen",
+  "playPlaylist_one": "▶ Playlist abspielen ({{count}} Song)",
+  "playPlaylist_other": "▶ Playlist abspielen ({{count}} Songs)",
+  "searchPlaceholder": "Song zum Hinzufügen suchen…",
+  "searchEmpty": "Keine Songs gefunden für \"{{query}}\".",
+  "add": "hinzufügen",
+  "empty": "Leere Setlist. Suche oben nach Songs, um das Repertoire zusammenzustellen.",
+  "moveUp": "Nach oben verschieben",
+  "moveDown": "Nach unten verschieben",
+  "notFound": "⚠ Song nicht gefunden",
+  "playFromHere": "Playlist von hier abspielen",
+  "errors": {
+    "save": "Die Setlist konnte nicht gespeichert werden."
+  }
+}

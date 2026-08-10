@@ -1,12 +1,15 @@
 import { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query'
+import { useTranslation } from 'react-i18next'
 import api from '../services/api'
 import { useAuthStore } from '../store/authStore'
 import { useDebounce } from '../hooks/useDebounce'
 import VirtualList from '../components/VirtualList'
+import FavoriteArtistsGenres from '../components/FavoriteArtistsGenres'
 
 export default function Songs({ favoritesOnly = false }) {
+  const { t } = useTranslation('songs')
   const [q, setQ] = useState('')
   const [filters, setFilters] = useState({ genero: '', interprete: '', tom: '' })
   const [onlyMine, setOnlyMine] = useState(false)
@@ -34,48 +37,49 @@ export default function Songs({ favoritesOnly = false }) {
     <>
       <div className="row no-print" style={{ justifyContent: 'space-between' }}>
         <div>
-          <h1 className="page-title">{favoritesOnly ? 'Favoritas' : 'Biblioteca'}</h1>
+          <h1 className="page-title">{favoritesOnly ? t('titleFavorites') : t('titleLibrary')}</h1>
           <div className="page-sub">
-            {data ? `${data.total} música(s)` : '…'}
-            {!favoritesOnly && ' · de todos os usuários'}
+            {data ? t('songCount', { count: data.total }) : t('loadingCount')}
+            {!favoritesOnly && t('allUsersHint')}
           </div>
         </div>
         {!favoritesOnly && (
-          <button className="btn primary" onClick={() => setShowUpload(!showUpload)}>+ Nova música</button>
+          <button className="btn primary" onClick={() => setShowUpload(!showUpload)}>{t('newSong')}</button>
         )}
       </div>
 
       {showUpload && <UploadCard onDone={() => setShowUpload(false)} />}
+      {favoritesOnly && <FavoriteArtistsGenres />}
 
       <div className="row no-print" style={{ marginBottom: 16 }}>
-        <input className="input" style={{ maxWidth: 320 }} placeholder="Buscar por título, autor, intérprete, tag…"
+        <input className="input" style={{ maxWidth: 320 }} placeholder={t('searchPlaceholder')}
           value={q} onChange={(e) => { setQ(e.target.value); setPage(1) }} />
         <select className="input" style={{ maxWidth: 170 }} value={filters.genero}
           onChange={(e) => setFilters({ ...filters, genero: e.target.value })}>
-          <option value="">Todos os gêneros</option>
+          <option value="">{t('allGenres')}</option>
           {facets?.generos.map((g) => <option key={g}>{g}</option>)}
         </select>
         <select className="input" style={{ maxWidth: 190 }} value={filters.interprete}
           onChange={(e) => setFilters({ ...filters, interprete: e.target.value })}>
-          <option value="">Todos os intérpretes</option>
+          <option value="">{t('allArtists')}</option>
           {facets?.interpretes.map((g) => <option key={g}>{g}</option>)}
         </select>
         <select className="input" style={{ maxWidth: 120 }} value={filters.tom}
           onChange={(e) => setFilters({ ...filters, tom: e.target.value })}>
-          <option value="">Tom</option>
+          <option value="">{t('key')}</option>
           {facets?.tons.map((g) => <option key={g}>{g}</option>)}
         </select>
         {!favoritesOnly && (
           <label className="row" style={{ gap: 6, alignItems: 'center', cursor: 'pointer' }}>
             <input type="checkbox" checked={onlyMine}
               onChange={(e) => { setOnlyMine(e.target.checked); setPage(1) }} />
-            Somente minhas
+            {t('onlyMine')}
           </label>
         )}
       </div>
 
       <div className="card" style={{ padding: 0 }}>
-        {items.length === 0 && <div className="empty">Nenhuma música encontrada. Envie um TXT para começar.</div>}
+        {items.length === 0 && <div className="empty">{t('empty')}</div>}
         {items.length > 0 && (
           <VirtualList items={items} rowHeight={58} height={Math.min(640, items.length * 58)}
             renderRow={(s) => (
@@ -85,8 +89,8 @@ export default function Songs({ favoritesOnly = false }) {
                   <div className="title">{s.favorita && <span className="fav-star">★ </span>}{s.titulo}</div>
                   <div className="meta">
                     {s.interprete}
-                    {s.user_id && s.user_id !== user?.id && <span className="chip" style={{ marginLeft: 8 }} title="Você não criou esta música">de outro usuário</span>}
-                    {s.user_id === user?.id && !s.shared && <span className="chip" style={{ marginLeft: 8 }} title="Só você vê esta música">🔒 privada</span>}
+                    {s.user_id && s.user_id !== user?.id && <span className="chip" style={{ marginLeft: 8 }} title={t('otherUserTitle')}>{t('otherUserChip')}</span>}
+                    {s.user_id === user?.id && !s.shared && <span className="chip" style={{ marginLeft: 8 }} title={t('privateTitle')}>{t('privateChip')}</span>}
                   </div>
                 </div>
                 <div className="meta hide-sm">{s.genero}</div>
@@ -101,9 +105,9 @@ export default function Songs({ favoritesOnly = false }) {
 
       {data && data.total_pages > 1 && (
         <div className="row no-print" style={{ marginTop: 14, justifyContent: 'center' }}>
-          <button className="btn" disabled={page <= 1} onClick={() => setPage(page - 1)}>← Anterior</button>
-          <span className="meta" style={{ color: 'var(--muted)' }}>página {data.page} de {data.total_pages}</span>
-          <button className="btn" disabled={page >= data.total_pages} onClick={() => setPage(page + 1)}>Próxima →</button>
+          <button className="btn" disabled={page <= 1} onClick={() => setPage(page - 1)}>{t('prevPage')}</button>
+          <span className="meta" style={{ color: 'var(--muted)' }}>{t('pageOf', { page: data.page, total: data.total_pages })}</span>
+          <button className="btn" disabled={page >= data.total_pages} onClick={() => setPage(page + 1)}>{t('nextPage')}</button>
         </div>
       )}
     </>
@@ -111,6 +115,7 @@ export default function Songs({ favoritesOnly = false }) {
 }
 
 function UploadCard({ onDone }) {
+  const { t } = useTranslation('songs')
   const [form, setForm] = useState({ titulo: '', genero: '', interprete: '' })
   const [file, setFile] = useState(null)
   const qc = useQueryClient()
@@ -119,6 +124,10 @@ function UploadCard({ onDone }) {
       const fd = new FormData()
       fd.append('file', file)
       fd.append('titulo', form.titulo)
+      // valores-padrão gravados como DADO (facet compartilhado da biblioteca
+      // global) — mantidos fixos em português independente do idioma da UI,
+      // pra não fragmentar o filtro de gênero entre "Sem Gênero"/"No Genre"/
+      // etc. pra músicas equivalentes criadas por usuários de idiomas diferentes.
       fd.append('genero', form.genero || 'Sem Gênero')
       fd.append('interprete', form.interprete || 'Desconhecido')
       return api.post('/songs', fd)
@@ -129,16 +138,16 @@ function UploadCard({ onDone }) {
     <div className="card no-print" style={{ marginBottom: 18 }}>
       <div className="row">
         <div className="field" style={{ flex: 1 }}>
-          <label>Arquivo TXT</label>
+          <label>{t('upload.file')}</label>
           <input className="input" type="file" accept=".txt" onChange={(e) => setFile(e.target.files[0])} />
         </div>
-        <div className="field"><label>Gênero</label>
+        <div className="field"><label>{t('upload.genre')}</label>
           <input className="input" value={form.genero} onChange={(e) => setForm({ ...form, genero: e.target.value })} /></div>
-        <div className="field"><label>Intérprete</label>
+        <div className="field"><label>{t('upload.artist')}</label>
           <input className="input" value={form.interprete} onChange={(e) => setForm({ ...form, interprete: e.target.value })} /></div>
-        <button className="btn primary" disabled={!file || upload.isPending} onClick={() => upload.mutate()}>Enviar</button>
+        <button className="btn primary" disabled={!file || upload.isPending} onClick={() => upload.mutate()}>{t('upload.submit')}</button>
       </div>
-      {upload.isError && <div className="error-text">Falha no envio. Verifique o arquivo.</div>}
+      {upload.isError && <div className="error-text">{t('upload.error')}</div>}
     </div>
   )
 }

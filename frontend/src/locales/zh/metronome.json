@@ -1,0 +1,11 @@
+{
+  "title": "节拍器",
+  "subtitle": "设置速度，跟随节拍，让排练保持稳定的节奏。",
+  "bpm": "BPM",
+  "beatsPerBar": "每小节拍数",
+  "start": "开始",
+  "stop": "停止",
+  "tapTempo": "敲击测速",
+  "tapHint": "按所需节奏敲击几次",
+  "savedHint": "停止时会自动保存 BPM"
+}

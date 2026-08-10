@@ -1,0 +1,60 @@
+{
+  "title": "Band gründen",
+  "subtitle": "Anzeigen von Bands, die Musiker suchen, und Musikern, die eine Band suchen.",
+  "backToApp": "Zurück zum Dashboard",
+  "login": "Anmelden",
+  "signup": "Konto erstellen",
+  "newPost": "+ Anzeige erstellen",
+  "myPosts": "Meine Anzeigen",
+  "empty": "Momentan keine aktiven Anzeigen.",
+  "emptyMine": "Du hast noch keine Anzeige erstellt.",
+  "inactiveBadge": "inaktiv",
+  "form": {
+    "createTitle": "Neue Anzeige",
+    "editTitle": "Anzeige bearbeiten",
+    "bandName": "Bandname",
+    "genero": "Musikgenre",
+    "style": "Stil (Freitext)",
+    "skillLevel": "Technisches Niveau",
+    "skillLevelPlaceholder": "Auswählen…",
+    "skillLevels": {
+      "iniciante": "Anfänger",
+      "intermediario": "Mittelstufe",
+      "avancado": "Fortgeschritten",
+      "profissional": "Profi"
+    },
+    "goal": "Ziel",
+    "goalPlaceholder": "Auswählen…",
+    "goals": {
+      "hobby": "Hobby / Spaß",
+      "ensaios_regulares": "Regelmäßige Proben",
+      "shows_pagos": "Bezahlte Auftritte",
+      "gravacao": "Aufnahme / Studio"
+    },
+    "rehearsalDays": "Probetage",
+    "rehearsalDaysPlaceholder": "z. B.: Dienstag, Donnerstag",
+    "instrumentsNeeded": "Gesuchte Instrumente",
+    "instrumentsPlaceholder": "z. B.: Bass, Schlagzeug",
+    "bio": "Über die Band",
+    "contactInfo": "Kontakt",
+    "contactPlaceholder": "z. B.: WhatsApp, E-Mail, Instagram",
+    "linkSetlists": "Setlists verknüpfen (optional)",
+    "submit": "Anzeige veröffentlichen",
+    "saving": "Wird gespeichert…",
+    "saveChanges": "Änderungen speichern",
+    "cancel": "Abbrechen"
+  },
+  "card": {
+    "contact": "Kontakt:",
+    "rehearsalDays": "Probetage:",
+    "instrumentsNeeded": "Gesucht:",
+    "deactivate": "Deaktivieren",
+    "activate": "Reaktivieren",
+    "edit": "Bearbeiten"
+  },
+  "errors": {
+    "create": "Die Anzeige konnte nicht veröffentlicht werden.",
+    "update": "Die Änderungen konnten nicht gespeichert werden.",
+    "toggle": "Die Anzeige konnte nicht geändert werden."
+  }
+}

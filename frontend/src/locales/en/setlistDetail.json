@@ -1,0 +1,24 @@
+{
+  "loading": "Loading…",
+  "renameHint": "Click to rename",
+  "itemCount_one": "{{count}} song",
+  "itemCount_other": "{{count}} songs",
+  "ownerHint": " · drag or use ▲▼ to reorder",
+  "readOnlyHint": " · from another user — read-only",
+  "print": "Print",
+  "continuePlaylist": "▶ Continue (song {{current}}/{{total}})",
+  "stopPlaylist": "■ Stop playlist",
+  "playPlaylist_one": "▶ Play playlist ({{count}} song)",
+  "playPlaylist_other": "▶ Play playlist ({{count}} songs)",
+  "searchPlaceholder": "Search for a song to add…",
+  "searchEmpty": "No songs found for \"{{query}}\".",
+  "add": "add",
+  "empty": "Empty setlist. Search for songs above to build your repertoire.",
+  "moveUp": "Move up",
+  "moveDown": "Move down",
+  "notFound": "⚠ song not found",
+  "playFromHere": "Play the playlist from here",
+  "errors": {
+    "save": "Couldn't save the setlist."
+  }
+}

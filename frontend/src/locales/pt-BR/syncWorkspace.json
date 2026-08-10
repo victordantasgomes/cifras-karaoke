@@ -1,0 +1,27 @@
+{
+  "title": "Sincronizar",
+  "hint": {
+    "clickStep": "Clique num passo da lista abaixo pra selecionar e pular até lá",
+    "dragMarker": "arraste um marcador na forma de onda pra ajustar o tempo",
+    "spaceMark": "barra de <strong>Espaço</strong> marca o passo atual e avança pro próximo"
+  },
+  "generatingWaveform": "Gerando forma de onda…",
+  "pause": "⏸ Pausar",
+  "play": "▶ Tocar",
+  "stop": "⏹ Parar",
+  "speed": "Velocidade:",
+  "zoom": "Zoom:",
+  "lineFallback": "linha {{number}}",
+  "stagePreview": "Pré-visualização do palco (varredura)",
+  "markStep": "⏱ Marcar passo",
+  "previous": "← anterior",
+  "next": "próxima →",
+  "markedCount": "{{marked}} de {{total}} trechos marcados",
+  "notMarked": "não marca",
+  "pauseMarker": "· pausa ·",
+  "blockFallback": "(bloco)",
+  "blankLine": "(linha em branco)",
+  "lines_one": "{{count}} linha",
+  "lines_other": "{{count}} linhas",
+  "uploadHint": "Envie uma faixa acima para poder sincronizar a cifra."
+}

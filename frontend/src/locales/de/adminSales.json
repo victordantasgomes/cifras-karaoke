@@ -1,0 +1,24 @@
+{
+  "title": "Admin-Panel — Verkauf",
+  "subtitle": "Abonnements und Neukunden.",
+  "loading": "Wird geladen…",
+  "stats": {
+    "activeSubscriptions": "Aktive Abonnements",
+    "landingViews": "Landingpage-Aufrufe"
+  },
+  "sections": {
+    "byStatus": "Nach Status",
+    "byPlan": "Abonnements nach Tarif",
+    "cancellationTrend": "Kündigungen im Zeitverlauf"
+  },
+  "status": {
+    "none": "Kein Abonnement",
+    "trialing": "Testphase",
+    "active": "Aktiv",
+    "past_due": "Zahlung überfällig",
+    "canceled": "Gekündigt"
+  },
+  "subscribersSuffix": "Abonnenten",
+  "empty": "Noch keine Daten.",
+  "trendHint": "Näherungswert — basiert auf den bisher erfassten Stripe-Webhook-Ereignissen."
+}

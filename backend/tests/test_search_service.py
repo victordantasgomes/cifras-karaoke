@@ -52,6 +52,31 @@ def test_filter_by_favoritas(ctx):
     assert [i["titulo"] for i in page["items"]] == ["Bohemian Rhapsody"]
 
 
+def test_filter_by_favoritas_includes_favorite_artist_and_genre(ctx):
+    """Fase 6: "favoritas" passa a ser (música favoritada) OR (artista
+    favorito) OR (gênero favorito) — Bohemian Rhapsody é favoritada
+    diretamente (ver fixture), Yellow entra por artista (Coldplay) e
+    Grandes Coisas por gênero (Louvor); Tempo Perdido não entra em nenhum
+    dos três critérios."""
+    _, search = ctx
+    page = search.search(
+        "u1", favoritas=True,
+        favorite_interpretes=["Coldplay"], favorite_generos=["Louvor"],
+    )
+    assert set(i["titulo"] for i in page["items"]) == {"Bohemian Rhapsody", "Yellow", "Grandes Coisas"}
+
+
+def test_sort_by_created_at_descending(ctx):
+    """Fase 7 (Dashboard v2): "created_at" virou uma chave de ordenação
+    válida (newly_added_songs) — checa contra a ordem ascendente em vez de
+    contra timestamps exatos, pra não depender de quão rápido as músicas da
+    fixture foram inseridas."""
+    _, search = ctx
+    asc = [i["titulo"] for i in search.search("u1", sort="created_at")["items"]]
+    desc = [i["titulo"] for i in search.search("u1", sort="-created_at")["items"]]
+    assert desc == asc[::-1]
+
+
 def test_filter_by_tag(ctx):
     _, search = ctx
     page = search.search("u1", tag="rock")

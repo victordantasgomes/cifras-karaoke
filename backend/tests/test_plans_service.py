@@ -32,6 +32,17 @@ def test_create_and_list(plans):
     assert [p["name"] for p in listed] == ["Hobby"]
 
 
+def test_list_public_hides_stripe_ids_and_archived_plans(plans):
+    plans.create("Hobby", max_setlists=3, storage_limit_mb=100, price_cents=990)
+    archived = plans.create("Legacy", max_setlists=1, storage_limit_mb=50, price_cents=490)
+    plans.set_active(archived["id"], False)
+
+    public = plans.list_public()
+    assert [p["name"] for p in public] == ["Hobby"]
+    assert "stripe_product_id" not in public[0]
+    assert "stripe_price_id" not in public[0]
+
+
 def test_list_orders_by_price(plans):
     plans.create("Professional", max_setlists=100, storage_limit_mb=10000, price_cents=4990)
     plans.create("Hobby", max_setlists=3, storage_limit_mb=100, price_cents=990)

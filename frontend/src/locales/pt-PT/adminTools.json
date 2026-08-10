@@ -1,0 +1,24 @@
+{
+  "title": "Painel admin — ferramenta",
+  "subtitle": "Visão geral de utilização da plataforma.",
+  "loading": "A carregar…",
+  "stats": {
+    "users": "Utilizadores",
+    "songs": "Músicas",
+    "avgSession": "Sessão média"
+  },
+  "sections": {
+    "mostPlayed": "Músicas mais tocadas",
+    "mostEdited": "Músicas mais editadas",
+    "mostSetlisted": "Músicas em mais alinhamentos",
+    "topUploaders": "Quem mais envia músicas",
+    "topByLogins": "Quem mais acede"
+  },
+  "playsSuffix": "×",
+  "editsSuffix": "edições",
+  "setlistsSuffix": "alinhamentos",
+  "loginsSuffix": "acessos",
+  "songsSuffix": "músicas",
+  "empty": "Sem dados ainda.",
+  "sessionUnavailable": "sem dados suficientes"
+}

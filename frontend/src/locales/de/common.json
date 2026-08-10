@@ -7,6 +7,12 @@
     "history": "Verlauf",
     "karaoke": "Karaoke",
     "chordDictionary": "Akkordlexikon",
+    "bandBoard": "Band gründen",
+    "tools": "Werkzeuge",
+    "metronome": "Metronom",
+    "tuner": "Stimmgerät",
+    "adminTools": "Admin-Panel",
+    "adminSales": "Verkaufs-Panel",
     "settings": "Einstellungen",
     "profile": "Profil",
     "logout": "Abmelden"
@@ -36,5 +42,6 @@
     "label": "Sprache",
     "description": "Wähle die Sprache der Oberfläche.",
     "auto": "Vom Browser vorgeschlagen"
-  }
+  },
+  "loadingChord": "Akkordblatt wird geladen…"
 }

@@ -1,5 +1,6 @@
 import { useParams } from 'react-router-dom'
 import { useQuery } from '@tanstack/react-query'
+import { useTranslation } from 'react-i18next'
 import api from '../services/api'
 import KaraokeStage from './KaraokeStage'
 import ScrollPlayer from './ScrollPlayer'
@@ -17,6 +18,7 @@ import ScrollPlayer from './ScrollPlayer'
  * componente só precisa do payload pra decidir qual dos dois montar.
  */
 export default function KaraokePlayer() {
+  const { t } = useTranslation()
   const { slug } = useParams()
   const { data, isLoading } = useQuery({
     queryKey: ['karaoke', slug],
@@ -28,7 +30,7 @@ export default function KaraokePlayer() {
 
   if (isLoading || !data) {
     return <div className="karaoke-stage controls-visible"
-      style={{ display: 'grid', placeItems: 'center' }}>Carregando cifra…</div>
+      style={{ display: 'grid', placeItems: 'center' }}>{t('loadingChord')}</div>
   }
 
   return data.modo_execucao === 'karaoke' ? <KaraokeStage /> : <ScrollPlayer data={data} />

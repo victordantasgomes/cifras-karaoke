@@ -1,0 +1,27 @@
+{
+  "header": {
+    "playlistPrefix": "歌单：{{name}} · 第 {{current}}/{{total}} 首 · ",
+    "tom": "调：{{tom}}",
+    "scrollBadge": "滚动"
+  },
+  "status": {
+    "loadingAudio": "加载音频中…",
+    "zoom": "缩放 {{percent}}%"
+  },
+  "controls": {
+    "prevSong": "上一首",
+    "restart": "重新开始 (R)",
+    "playPause": "播放/暂停 (空格)",
+    "pause": "暂停",
+    "play": "播放",
+    "slower": "更慢",
+    "faster": "更快",
+    "zoomOut": "缩小 (-)",
+    "zoomIn": "放大 (+)",
+    "nextSong": "下一首",
+    "stopPlaylist": "停止播放歌单",
+    "fullscreen": "全屏 (F)",
+    "back": "返回 (ESC)",
+    "exit": "退出"
+  }
+}

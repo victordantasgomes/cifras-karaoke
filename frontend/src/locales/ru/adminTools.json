@@ -1,0 +1,24 @@
+{
+  "title": "Админ-панель — инструмент",
+  "subtitle": "Обзор использования платформы.",
+  "loading": "Загрузка…",
+  "stats": {
+    "users": "Пользователи",
+    "songs": "Песни",
+    "avgSession": "Средняя сессия"
+  },
+  "sections": {
+    "mostPlayed": "Самые проигрываемые песни",
+    "mostEdited": "Самые редактируемые песни",
+    "mostSetlisted": "Песни в большинстве сетлистов",
+    "topUploaders": "Кто больше всего добавляет песен",
+    "topByLogins": "Кто чаще всего заходит"
+  },
+  "playsSuffix": "×",
+  "editsSuffix": "правок",
+  "setlistsSuffix": "сетлистов",
+  "loginsSuffix": "входов",
+  "songsSuffix": "песен",
+  "empty": "Пока нет данных.",
+  "sessionUnavailable": "недостаточно данных"
+}

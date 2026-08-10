@@ -1,0 +1,40 @@
+{
+  "titleLibrary": "Biblioteca",
+  "titleFavorites": "Favoritas",
+  "allUsersHint": " · de todos los usuarios",
+  "loadingCount": "…",
+  "songCount_one": "{{count}} canción",
+  "songCount_other": "{{count}} canciones",
+  "newSong": "+ Nueva canción",
+  "searchPlaceholder": "Buscar por título, autor, intérprete, etiqueta…",
+  "allGenres": "Todos los géneros",
+  "allArtists": "Todos los intérpretes",
+  "key": "Tono",
+  "onlyMine": "Solo las mías",
+  "empty": "No se encontraron canciones. Sube un archivo TXT para empezar.",
+  "otherUserTitle": "No creaste esta canción",
+  "otherUserChip": "de otro usuario",
+  "privateTitle": "Solo tú puedes ver esta canción",
+  "privateChip": "🔒 privada",
+  "prevPage": "← Anterior",
+  "pageOf": "página {{page}} de {{total}}",
+  "nextPage": "Siguiente →",
+  "upload": {
+    "file": "Archivo TXT",
+    "genre": "Género",
+    "artist": "Intérprete",
+    "submit": "Enviar",
+    "error": "Error al subir el archivo. Verifícalo."
+  },
+  "favorites": {
+    "title": "Artistas y géneros favoritos",
+    "description": "Marca un artista o género como favorito para ver aquí todas sus canciones, incluso sin marcar cada una.",
+    "artistsLabel": "Artistas",
+    "genresLabel": "Géneros",
+    "addArtistPlaceholder": "+ Añadir artista favorito…",
+    "addGenrePlaceholder": "+ Añadir género favorito…",
+    "remove": "Quitar {{name}} de favoritos",
+    "noneArtists": "Todavía no hay ningún artista favorito.",
+    "noneGenres": "Todavía no hay ningún género favorito."
+  }
+}

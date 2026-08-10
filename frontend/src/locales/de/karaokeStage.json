@@ -1,0 +1,36 @@
+{
+  "loading": "Akkordblatt wird geladen…",
+  "header": {
+    "playlistPrefix": "Setlist: {{name}} · Song {{current}}/{{total}} · ",
+    "tom": "Tonart: {{tom}}",
+    "synthBadge": "synthetisierte Begleitspur"
+  },
+  "status": {
+    "audioLine": "Zeile {{current}}/{{total}} · {{rate}}x",
+    "legacyLine": "Zeile {{current}}/{{total}} · {{seconds}}s/Zeile",
+    "loadingAudio": "Audio wird geladen…",
+    "zoom": "Zoom {{percent}}%"
+  },
+  "controls": {
+    "prevSong": "Vorheriger Song",
+    "restart": "Neu starten (R)",
+    "prevLine": "Vorherige Zeile (←)",
+    "playPause": "Play/Pause (Leertaste)",
+    "skipCountdown": "Überspringen ({{count}})",
+    "pause": "Pausieren",
+    "play": "Abspielen",
+    "nextLine": "Nächste Zeile (→)",
+    "slower": "Langsamer (↓)",
+    "faster": "Schneller (↑)",
+    "zoomOut": "Zoom verkleinern (-)",
+    "zoomIn": "Zoom vergrößern (+)",
+    "nextSong": "Nächster Song",
+    "stopPlaylist": "Playlist stoppen",
+    "fullscreen": "Vollbild (F)",
+    "back": "Zurück (ESC)",
+    "exit": "Verlassen"
+  },
+  "countdown": {
+    "hint": "Mach dich bereit… (Klick oder Leertaste zum Überspringen)"
+  }
+}

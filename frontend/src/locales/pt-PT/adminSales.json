@@ -1,0 +1,24 @@
+{
+  "title": "Painel admin — vendas",
+  "subtitle": "Assinaturas e aquisição.",
+  "loading": "A carregar…",
+  "stats": {
+    "activeSubscriptions": "Assinaturas ativas",
+    "landingViews": "Visitas na landing"
+  },
+  "sections": {
+    "byStatus": "Por estado",
+    "byPlan": "Assinaturas por plano",
+    "cancellationTrend": "Cancelamentos ao longo do tempo"
+  },
+  "status": {
+    "none": "Sem assinatura",
+    "trialing": "Em período de teste",
+    "active": "Ativa",
+    "past_due": "Pagamento em atraso",
+    "canceled": "Cancelada"
+  },
+  "subscribersSuffix": "assinantes",
+  "empty": "Sem dados ainda.",
+  "trendHint": "Aproximado — baseado nos eventos de webhook da Stripe registados até agora."
+}

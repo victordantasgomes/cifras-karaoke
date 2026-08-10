@@ -7,6 +7,12 @@
     "history": "历史记录",
     "karaoke": "卡拉OK",
     "chordDictionary": "和弦词典",
+    "bandBoard": "组建乐队",
+    "tools": "工具",
+    "metronome": "节拍器",
+    "tuner": "调音器",
+    "adminTools": "管理面板",
+    "adminSales": "销售面板",
     "settings": "设置",
     "profile": "个人资料",
     "logout": "退出登录"
@@ -36,5 +42,6 @@
     "label": "语言",
     "description": "选择界面语言。",
     "auto": "由浏览器建议"
-  }
+  },
+  "loadingChord": "正在加载歌词谱…"
 }

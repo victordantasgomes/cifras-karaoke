@@ -1,0 +1,14 @@
+{
+  "title": "Plans",
+  "subtitle": "14 days free on any plan — cancel anytime.",
+  "checkoutSuccess": "Subscription started! It may take a few seconds for the status to update here.",
+  "checkoutCanceled": "Checkout canceled — no charge was made.",
+  "checkoutError": "Could not start checkout.",
+  "perMonth": "/mo",
+  "setlistsLimit_one": "Up to {{count}} setlist",
+  "setlistsLimit_other": "Up to {{count}} setlists",
+  "storageLimit": "{{mb}} MB of audio storage",
+  "redirecting": "Redirecting…",
+  "subscribe": "Subscribe",
+  "noPlans": "No plans available right now."
+}

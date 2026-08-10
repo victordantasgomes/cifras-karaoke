@@ -1,0 +1,27 @@
+{
+  "header": {
+    "playlistPrefix": "Setlist: {{name}} · Song {{current}}/{{total}} · ",
+    "tom": "Tonart: {{tom}}",
+    "scrollBadge": "Scrollen"
+  },
+  "status": {
+    "loadingAudio": "Audio wird geladen…",
+    "zoom": "Zoom {{percent}}%"
+  },
+  "controls": {
+    "prevSong": "Vorheriger Song",
+    "restart": "Neu starten (R)",
+    "playPause": "Play/Pause (Leertaste)",
+    "pause": "Pausieren",
+    "play": "Abspielen",
+    "slower": "Langsamer",
+    "faster": "Schneller",
+    "zoomOut": "Zoom verkleinern (-)",
+    "zoomIn": "Zoom vergrößern (+)",
+    "nextSong": "Nächster Song",
+    "stopPlaylist": "Playlist stoppen",
+    "fullscreen": "Vollbild (F)",
+    "back": "Zurück (ESC)",
+    "exit": "Verlassen"
+  }
+}

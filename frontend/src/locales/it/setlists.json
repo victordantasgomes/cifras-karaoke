@@ -1,0 +1,20 @@
+{
+  "title": "Scalette",
+  "subtitle": "Organizza il repertorio per ogni esibizione.",
+  "newPlaceholder": "Nome della nuova scaletta",
+  "create": "Crea",
+  "importTxt": "Importa TXT",
+  "empty": "Ancora nessuna scaletta. Crea la prima per il tuo prossimo concerto.",
+  "itemCount_one": "{{count}} brano",
+  "itemCount_other": "{{count}} brani",
+  "otherUserTitle": "Non hai creato tu questa scaletta",
+  "otherUserChip": "di un altro utente",
+  "shared": "Condivisa",
+  "export": "Esporta",
+  "deleteConfirm": "Eliminare la scaletta?",
+  "delete": "Elimina",
+  "errors": {
+    "create": "Impossibile creare la scaletta.",
+    "import": "Impossibile importare la scaletta."
+  }
+}

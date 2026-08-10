@@ -1,0 +1,11 @@
+{
+  "title": "Métronome",
+  "subtitle": "Réglez le tempo, suivez le battement et gardez le rythme pendant les répétitions.",
+  "bpm": "BPM",
+  "beatsPerBar": "Temps par mesure",
+  "start": "Démarrer",
+  "stop": "Arrêter",
+  "tapTempo": "Tap tempo",
+  "tapHint": "Tapez le rythme souhaité plusieurs fois",
+  "savedHint": "Le BPM est enregistré automatiquement à l'arrêt"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Piani",
+  "subtitle": "14 giorni gratis su qualsiasi piano — annulla quando vuoi.",
+  "checkoutSuccess": "Abbonamento avviato! L'aggiornamento dello stato qui può richiedere qualche secondo.",
+  "checkoutCanceled": "Checkout annullato — non è stato effettuato alcun addebito.",
+  "checkoutError": "Impossibile avviare il checkout.",
+  "perMonth": "/mese",
+  "setlistsLimit_one": "Fino a {{count}} scaletta",
+  "setlistsLimit_other": "Fino a {{count}} scalette",
+  "storageLimit": "{{mb}} MB di archiviazione audio",
+  "redirecting": "Reindirizzamento…",
+  "subscribe": "Abbonati",
+  "noPlans": "Nessun piano disponibile al momento."
+}

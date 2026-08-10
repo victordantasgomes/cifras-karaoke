@@ -1,0 +1,18 @@
+{
+  "title": "仪表盘",
+  "subtitle": "曲目概览。",
+  "loading": "加载中…",
+  "empty": "这里还没有内容。",
+  "stats": { "songs": "歌曲", "setlists": "歌单", "favorites": "收藏", "radar": "关注中" },
+  "sections": {
+    "mostPlayed": "最常播放",
+    "recent": "最近访问",
+    "favorites": "收藏",
+    "mostPlayedArtists": "最常播放的演唱者",
+    "newlyAdded": "最近添加",
+    "yourFavorites": "你收藏的演唱者和风格"
+  },
+  "emptyArtists": "还没有播放过任何演唱者。",
+  "noFavoritesHint": "你还没有收藏任何演唱者或风格。",
+  "goToFavorites": "去选择收藏 →"
+}

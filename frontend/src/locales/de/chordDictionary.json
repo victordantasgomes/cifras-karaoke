@@ -1,0 +1,45 @@
+{
+  "title": "Akkordlexikon",
+  "subtitle": "Gitarre, Ukulele und Keyboard — suche einen Akkord, sieh dir die Varianten an und höre sie dir an.",
+  "banner": "Die Griffe für Gitarre und Ukulele in diesem Lexikon wurden anhand harmonischer Formeln und automatisierter Spielbarkeitskriterien normalisiert — sie wurden nicht von Hand von einem Musiker gegriffen. Wir empfehlen einen musikalischen Kuratierungs-/Validierungsschritt, bevor sie als endgültige redaktionelle Referenz behandelt werden. Die Keyboard-Positionen leiten sich direkt aus der Musiktheorie ab (Grundton + Umkehrungen) und sind daher konstruktionsbedingt überprüfbar.",
+  "instruments": {
+    "violao": "Gitarre",
+    "ukulele": "Ukulele",
+    "teclado": "Keyboard"
+  },
+  "searchPlaceholder": "Akkord suchen (z. B.: Cmaj7, Dm7, F#)",
+  "filters": {
+    "tonica": "Grundton",
+    "qualidade": "Qualität",
+    "dificuldade": "Schwierigkeit",
+    "pestana": "Barré",
+    "pestanaWith": "Mit Barré",
+    "pestanaWithout": "Ohne Barré"
+  },
+  "favoritesOnly": "Nur Favoriten",
+  "loading": "Wird geladen…",
+  "empty": "Kein Akkord gefunden.",
+  "favoriteToggleTitle": "Favorisieren",
+  "selectPrompt": "Wähle einen Akkord aus der Liste.",
+  "enharmonicToggleTitle": "Kreuz-/B-Schreibweise umschalten",
+  "favoriteOn": "★ Favorisiert",
+  "favoriteOff": "☆ Favorisieren",
+  "chordSummary": "{{tonica}} · {{qualidade}} · Formel {{formula}}",
+  "variation": "Variante {{current}} von {{total}}",
+  "variationNamed": "{{name}} ({{current}}/{{total}})",
+  "leftHandedMode": "Linkshänder-Modus",
+  "listen": "🔊 Akkord anhören",
+  "downloadSvg": "⭳ SVG herunterladen",
+  "capoChip": "Barré",
+  "bassChip": "Bass: {{value}}",
+  "notesChip": "Noten: {{value}}",
+  "handsInfo": "Linke Hand: {{left}} · Rechte Hand: {{right}} · {{octave}}",
+  "transpose": "Transponieren:",
+  "semitoneDown": "−1 Halbton",
+  "semitoneUp": "+1 Halbton",
+  "goToKey": "Zur Tonart…",
+  "formulasToggle": "Formeln der Akkordqualitäten",
+  "hoverCard": {
+    "vary": "Akkord variieren"
+  }
+}

@@ -7,6 +7,12 @@
     "history": "History",
     "karaoke": "Karaoke",
     "chordDictionary": "Chord dictionary",
+    "bandBoard": "Band board",
+    "tools": "Tools",
+    "metronome": "Metronome",
+    "tuner": "Tuner",
+    "adminTools": "Admin panel",
+    "adminSales": "Sales panel",
     "settings": "Settings",
     "profile": "Profile",
     "logout": "Sign out"
@@ -36,5 +42,6 @@
     "label": "Language",
     "description": "Choose the interface language.",
     "auto": "Suggested by your browser"
-  }
+  },
+  "loadingChord": "Loading chord sheet…"
 }

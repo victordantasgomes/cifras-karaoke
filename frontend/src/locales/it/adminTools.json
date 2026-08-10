@@ -1,0 +1,24 @@
+{
+  "title": "Pannello admin — strumento",
+  "subtitle": "Panoramica sull'utilizzo della piattaforma.",
+  "loading": "Caricamento…",
+  "stats": {
+    "users": "Utenti",
+    "songs": "Brani",
+    "avgSession": "Sessione media"
+  },
+  "sections": {
+    "mostPlayed": "Brani più riprodotti",
+    "mostEdited": "Brani più modificati",
+    "mostSetlisted": "Brani in più scalette",
+    "topUploaders": "Chi carica più brani",
+    "topByLogins": "Chi accede di più"
+  },
+  "playsSuffix": "×",
+  "editsSuffix": "modifiche",
+  "setlistsSuffix": "scalette",
+  "loginsSuffix": "accessi",
+  "songsSuffix": "brani",
+  "empty": "Ancora nessun dato.",
+  "sessionUnavailable": "dati insufficienti"
+}

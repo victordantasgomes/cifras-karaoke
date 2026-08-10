@@ -1,0 +1,11 @@
+{
+  "title": "Metronome",
+  "subtitle": "Set the tempo, watch the beat, and keep time steady in rehearsals.",
+  "bpm": "BPM",
+  "beatsPerBar": "Beats per bar",
+  "start": "Start",
+  "stop": "Stop",
+  "tapTempo": "Tap tempo",
+  "tapHint": "Tap along to the beat a few times",
+  "savedHint": "BPM is saved automatically when you stop"
+}

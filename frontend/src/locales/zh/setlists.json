@@ -1,0 +1,20 @@
+{
+  "title": "歌单",
+  "subtitle": "为每场演出整理曲目。",
+  "newPlaceholder": "新歌单名称",
+  "create": "创建",
+  "importTxt": "导入 TXT",
+  "empty": "还没有歌单。创建第一个歌单，为下一场演出做准备。",
+  "itemCount_one": "{{count}} 首歌曲",
+  "itemCount_other": "{{count}} 首歌曲",
+  "otherUserTitle": "这个歌单不是你创建的",
+  "otherUserChip": "来自其他用户",
+  "shared": "已共享",
+  "export": "导出",
+  "deleteConfirm": "删除歌单？",
+  "delete": "删除",
+  "errors": {
+    "create": "无法创建歌单。",
+    "import": "无法导入歌单。"
+  }
+}

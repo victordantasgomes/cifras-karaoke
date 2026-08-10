@@ -1,0 +1,141 @@
+{
+  "pageTitle": "Impostazioni",
+  "pageSub": "Preferenze visive.",
+  "subscriptionStatus": {
+    "none": "Nessun abbonamento",
+    "trialing": "Periodo di prova",
+    "active": "Attivo",
+    "past_due": "Pagamento in sospeso",
+    "canceled": "Annullato"
+  },
+  "appearance": {
+    "title": "Aspetto",
+    "description": "Tema e colore d'accento dell'interfaccia — indipendente dai colori del foglio degli accordi, configurati sotto.",
+    "theme": "Tema",
+    "themes": { "dark": "Scuro", "light": "Chiaro" },
+    "accent": "Colore d'accento",
+    "accents": {
+      "azul": "Blu",
+      "vermelho": "Rosso",
+      "verde": "Verde",
+      "rosa": "Rosa",
+      "lilas": "Lilla",
+      "preto": "Nero",
+      "branco": "Bianco",
+      "cinza": "Grigio"
+    }
+  },
+  "branding": {
+    "title": "Marchio della band",
+    "description": "Nome e logo della tua band — vengono mostrati sul palco karaoke e negli annunci della bacheca.",
+    "bandNameLabel": "Nome della band",
+    "bandNamePlaceholder": "es.: Band di Zé",
+    "save": "Salva nome",
+    "saving": "Salvataggio…",
+    "logoLabel": "Logo",
+    "noLogo": "Nessun logo caricato.",
+    "uploadLogo": "Carica logo",
+    "uploading": "Caricamento…",
+    "removeLogo": "Rimuovi logo",
+    "removing": "Rimozione…"
+  },
+  "color": {
+    "title": "Colori del karaoke",
+    "description": "Palette usata sul palco del karaoke e nel foglio degli accordi — vale per tutti i brani.",
+    "fields": {
+      "sweepSung": "Testo già cantato",
+      "sweepUpcoming": "Testo in arrivo",
+      "amber": "Accordi / sezioni",
+      "sample": "Sample / solo automatico",
+      "ok": "Solo / riff / tablatura"
+    },
+    "save": "Salva colori",
+    "saving": "Salvataggio…",
+    "restoreDefault": "Ripristina predefiniti"
+  },
+  "pedal": {
+    "title": "Pedale (foot switch)",
+    "description": "Rileva il tasto inviato dal tuo pedale USB (la maggior parte dei pedali foot switch si comporta come una tastiera) — vale per qualsiasi brano con la modalità pedale attiva, configurata nella scheda Audio dell'editor.",
+    "currentKey": "Tasto attuale:",
+    "noneConfigured": "nessuno configurato",
+    "listening": "Premi il pedale ora…",
+    "detect": "Rileva tasto"
+  },
+  "billing": {
+    "title": "Abbonamento",
+    "status": "Stato:",
+    "plan": "piano",
+    "renewsOn": "si rinnova il {{date}}",
+    "usage": "{{used}} di {{max}} scalette · {{storageUsed}} di {{storageMax}} MB di archiviazione",
+    "viewPlans": "Vedi piani",
+    "manage": "Gestisci abbonamento",
+    "opening": "Apertura…",
+    "portalError": "Impossibile aprire il portale di fatturazione."
+  },
+  "userAdmin": {
+    "title": "Amministrazione utenti",
+    "description": "Area visibile solo agli amministratori — crea nuovi account, reimposta le password e monitora l'utilizzo di ciascuno. Il tempo trascorso a schermo non è ancora misurato.",
+    "resetPassword": "Reimposta password",
+    "delete": "Elimina",
+    "deleting": "Eliminazione…",
+    "confirmDelete": "Eliminare l'utente {{username}}? I suoi brani e le sue scalette continuano a esistere, solo senza proprietario.",
+    "accessCount_one": "{{count}} accesso",
+    "accessCount_other": "{{count}} accessi",
+    "lastLogin": "ultimo accesso: {{date}}",
+    "never": "mai",
+    "setlistsCount_one": "{{count}} scaletta",
+    "setlistsCount_other": "{{count}} scalette",
+    "favoritesCount_one": "{{count}} preferito",
+    "favoritesCount_other": "{{count}} preferiti",
+    "newPasswordPlaceholder": "Nuova password (min. 6 caratteri)",
+    "confirm": "Conferma",
+    "saving": "Salvataggio…",
+    "deleteUserError": "Impossibile eliminare l'utente.",
+    "resetPasswordError": "Impossibile reimpostare la password.",
+    "name": "Nome",
+    "username": "Nome utente",
+    "password": "Password",
+    "admin": "Amministratore",
+    "createUser": "Crea utente",
+    "creating": "Creazione…",
+    "createUserError": "Impossibile creare l'utente."
+  },
+  "plansAdmin": {
+    "title": "Piani",
+    "description": "Piani a pagamento del sistema — ognuno definisce quante scalette e quanto spazio audio spettano a un abbonato. Creare un piano (o modificare il prezzo di uno esistente) sincronizza automaticamente un Prodotto/Prezzo su Stripe.",
+    "archive": "Archivia",
+    "reactivate": "Riattiva",
+    "archived": "archiviato",
+    "setlistsMax": "Scalette (max.)",
+    "storageMb": "Archiviazione (MB)",
+    "priceMonthly": "Prezzo mensile (R$)",
+    "save": "Salva",
+    "saving": "Salvataggio…",
+    "saveError": "Impossibile salvare.",
+    "name": "Nome",
+    "namePlaceholder": "es.: Hobby",
+    "createPlan": "Crea piano",
+    "creating": "Creazione…",
+    "createPlanError": "Impossibile creare il piano."
+  },
+  "normalizeLibrary": {
+    "title": "Normalizza tutto l'archivio",
+    "description": "Uniforma intestazione, notazione degli accordi ed etichette di sezione di tutta la libreria, brano per brano — elabora in piccoli lotti direttamente dal browser (nessuna coda in background sul server), quindi può richiedere del tempo. Puoi fermarti e continuare più tardi: il progresso non va perso.",
+    "allNormalized": "Tutto l'archivio è normalizzato.",
+    "remainingOfTotal_one": "{{count}} brano rimanente su {{total}}",
+    "remainingOfTotal_other": "{{count}} brani rimanenti su {{total}}",
+    "start": "Avvia",
+    "stop": "Ferma",
+    "error": "Normalizzazione in lotti non riuscita."
+  },
+  "storageRecompute": {
+    "title": "Ricalcola la dimensione dei file audio",
+    "description": "Tracce e sample caricati prima di questa versione non hanno la dimensione registrata (i nuovi caricamenti la registrano già subito) — questo la completa in lotti tramite una query di dimensione su ciascun blob, senza scaricare l'intero audio. Necessario per calcolare l'utilizzo dello spazio di archiviazione per piano.",
+    "allDone": "Tutti i file hanno già la dimensione registrata.",
+    "remainingOfTotal_one": "{{count}} file rimanente su {{total}}",
+    "remainingOfTotal_other": "{{count}} file rimanenti su {{total}}",
+    "start": "Avvia",
+    "stop": "Ferma",
+    "error": "Ricalcolo in lotti non riuscito."
+  }
+}

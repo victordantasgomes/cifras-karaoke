@@ -1,0 +1,11 @@
+{
+  "title": "Karaoke",
+  "subtitle": "Choose a song or a setlist and take the stage.",
+  "continueSection": "Continue where you left off",
+  "emptyRecent": "Play a song for it to appear here.",
+  "play": "▶ play",
+  "setlistsSection": "Setlists",
+  "emptySetlists": "No setlists created yet.",
+  "songCount_one": "{{count}} song",
+  "songCount_other": "{{count}} songs"
+}

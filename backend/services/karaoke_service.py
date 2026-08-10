@@ -117,6 +117,11 @@ class KaraokeService:
             "slug": slug,
             "titulo": data["titulo"],
             "interprete": data["interprete"],
+            # dono da música — o player usa pra buscar a marca própria dele
+            # (nome da banda + logo, Fase 8), se configurada; None pra
+            # música órfã (dono excluído), o frontend simplesmente não
+            # mostra marca nenhuma nesse caso.
+            "owner_id": data["user_id"],
             "tom": data["header"].get("tom", ""),
             "velocidade": velocidade,
             "ms_per_line": velocity_to_ms(velocidade),

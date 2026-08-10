@@ -463,6 +463,16 @@ def test_karaoke_payload(ctx):
     assert payload["ms_per_line"] > 0 and len(payload["lines"]) >= 2
 
 
+def test_karaoke_payload_includes_owner_id(ctx):
+    """Fase 8 (whitelabel): o player usa owner_id pra buscar a marca própria
+    (nome da banda + logo) do dono da música."""
+    songs, _, audio = ctx
+    entry = _create(songs)
+    k = KaraokeService(songs, audio)
+    payload = k.payload("u1", entry["slug"])
+    assert payload["owner_id"] == "u1"
+
+
 def test_karaoke_payload_admin_can_play_private_song_of_other_user(ctx):
     songs, _, audio = ctx
     _make_private_user("u3", "privado")

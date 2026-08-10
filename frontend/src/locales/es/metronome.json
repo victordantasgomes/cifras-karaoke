@@ -1,0 +1,11 @@
+{
+  "title": "Metrónomo",
+  "subtitle": "Ajusta el tempo, mira el pulso y mantén el ritmo en los ensayos.",
+  "bpm": "BPM",
+  "beatsPerBar": "Pulsos por compás",
+  "start": "Iniciar",
+  "stop": "Detener",
+  "tapTempo": "Tap tempo",
+  "tapHint": "Toca el ritmo deseado varias veces",
+  "savedHint": "El BPM se guarda automáticamente al detener"
+}

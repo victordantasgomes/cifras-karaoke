@@ -1,0 +1,15 @@
+{
+  "title": "Accordatore",
+  "subtitle": "Suona una nota e scopri quanto è intonata, in tempo reale dal microfono.",
+  "start": "Avvia",
+  "stop": "Ferma",
+  "waitingSignal": "Suona una nota…",
+  "inTune": "Intonato",
+  "tooLow": "Troppo basso",
+  "tooHigh": "Troppo alto",
+  "a4Label": "Riferimento (A4)",
+  "permissionDenied": "Permesso del microfono negato. Autorizza l'accesso al microfono nelle impostazioni del browser e riprova.",
+  "noDevice": "Nessun microfono trovato su questo dispositivo.",
+  "genericError": "Impossibile accedere al microfono.",
+  "retry": "Riprova"
+}

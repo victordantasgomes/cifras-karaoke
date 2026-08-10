@@ -18,7 +18,7 @@ export default function Login() {
     try {
       const { data } = await api.post('/auth/login', form)
       setSession(data.token, data.user)
-      navigate('/')
+      navigate('/painel')
     } catch (e) {
       setError(e.response?.data?.error || t('login.genericError'))
     } finally {

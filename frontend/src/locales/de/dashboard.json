@@ -1,0 +1,18 @@
+{
+  "title": "Dashboard",
+  "subtitle": "Überblick über dein Repertoire.",
+  "loading": "Wird geladen…",
+  "empty": "Hier gibt es noch nichts.",
+  "stats": { "songs": "Songs", "setlists": "Setlists", "favorites": "Favoriten", "radar": "Im Blick" },
+  "sections": {
+    "mostPlayed": "Meistgespielt",
+    "recent": "Zuletzt aufgerufen",
+    "favorites": "Favoriten",
+    "mostPlayedArtists": "Meistgespielte Interpreten",
+    "newlyAdded": "Kürzlich hinzugefügt",
+    "yourFavorites": "Deine bevorzugten Interpreten und Genres"
+  },
+  "emptyArtists": "Noch kein Interpret gespielt.",
+  "noFavoritesHint": "Du hast noch keinen Interpreten oder kein Genre favorisiert.",
+  "goToFavorites": "Favoriten auswählen →"
+}

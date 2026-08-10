@@ -1,0 +1,27 @@
+{
+  "header": {
+    "playlistPrefix": "Сетлист: {{name}} · песня {{current}}/{{total}} · ",
+    "tom": "Тональность: {{tom}}",
+    "scrollBadge": "прокрутка"
+  },
+  "status": {
+    "loadingAudio": "загрузка аудио…",
+    "zoom": "масштаб {{percent}}%"
+  },
+  "controls": {
+    "prevSong": "Предыдущая песня",
+    "restart": "Начать заново (R)",
+    "playPause": "Пуск/Пауза (Пробел)",
+    "pause": "Пауза",
+    "play": "Воспроизвести",
+    "slower": "Медленнее",
+    "faster": "Быстрее",
+    "zoomOut": "Уменьшить масштаб (-)",
+    "zoomIn": "Увеличить масштаб (+)",
+    "nextSong": "Следующая песня",
+    "stopPlaylist": "Остановить плейлист",
+    "fullscreen": "Полный экран (F)",
+    "back": "Назад (ESC)",
+    "exit": "Выход"
+  }
+}

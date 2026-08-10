@@ -1,11 +1,13 @@
 import { useEffect, useState } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
+import { useTranslation } from 'react-i18next'
 import api from '../services/api'
 import { useDebounce } from '../hooks/useDebounce'
 import { usePlaylistStore } from '../store/playlistStore'
 
 export default function SetlistDetail() {
+  const { t } = useTranslation('setlistDetail')
   const { id } = useParams()
   const navigate = useNavigate()
   const qc = useQueryClient()
@@ -47,7 +49,7 @@ export default function SetlistDetail() {
       // sido salva. `data` (do useQuery acima) sempre reflete o último GET
       // bem-sucedido — nunca é tocado por um PUT que falhou — por isso é
       // uma fonte confiável pra reverter direto, sem depender do efeito.
-      setError(e.response?.data?.error || 'Não foi possível salvar o setlist.')
+      setError(e.response?.data?.error || t('errors.save'))
       if (data) { setItems(data.items); setNome(data.nome) }
     },
   })
@@ -90,7 +92,7 @@ export default function SetlistDetail() {
     if (song) navigate(`/karaoke/${song.slug}`)
   }
 
-  if (!data) return <div className="empty">Carregando…</div>
+  if (!data) return <div className="empty">{t('loading')}</div>
 
   const isOwner = data.is_owner
   let playableIndex = -1
@@ -102,7 +104,7 @@ export default function SetlistDetail() {
         <div>
           {isOwner ? (
             <input className="input" style={{ fontSize: 22, fontWeight: 700, background: 'transparent', border: 'none', padding: 0 }}
-              value={nome} title="Clique para renomear"
+              value={nome} title={t('renameHint')}
               onChange={(e) => setNome(e.target.value)}
               onBlur={() => { if (nome.trim()) save.mutate(items); else setNome(data.nome) }}
               onKeyDown={(e) => {
@@ -113,47 +115,47 @@ export default function SetlistDetail() {
             <div className="page-title" style={{ fontSize: 22 }}>{nome}</div>
           )}
           <div className="page-sub">
-            {items.length} música(s)
-            {isOwner ? ' · arraste ou use ▲▼ para reordenar' : ' · de outro usuário — somente leitura'}
+            {t('itemCount', { count: items.length })}
+            {isOwner ? t('ownerHint') : t('readOnlyHint')}
           </div>
         </div>
-        <button className="btn" onClick={() => window.print()}>Imprimir</button>
+        <button className="btn" onClick={() => window.print()}>{t('print')}</button>
       </div>
 
       <div className="row no-print" style={{ marginBottom: 16 }}>
         {thisPlaylistActive ? (
           <>
             <button className="btn primary" onClick={resumePlaylist}>
-              ▶ Continuar (música {playlist.index + 1}/{playlist.queue.length})
+              {t('continuePlaylist', { current: playlist.index + 1, total: playlist.queue.length })}
             </button>
-            <button className="btn danger" onClick={() => playlist.stop()}>■ Parar playlist</button>
+            <button className="btn danger" onClick={() => playlist.stop()}>{t('stopPlaylist')}</button>
           </>
         ) : (
           <button className="btn primary" disabled={!playableItems.length} onClick={() => playFrom(0)}>
-            ▶ Tocar playlist ({playableItems.length} música{playableItems.length === 1 ? '' : 's'})
+            {t('playPlaylist', { count: playableItems.length })}
           </button>
         )}
       </div>
 
       {isOwner && (
         <div className="card no-print" style={{ marginBottom: 16 }}>
-          <input className="input" placeholder="Buscar música para adicionar…" value={q}
+          <input className="input" placeholder={t('searchPlaceholder')} value={q}
             onChange={(e) => setQ(e.target.value)} />
           {dq.length >= 2 && results?.items.length === 0 && (
-            <div className="empty" style={{ padding: '16px 0' }}>Nenhuma música encontrada para "{dq}".</div>
+            <div className="empty" style={{ padding: '16px 0' }}>{t('searchEmpty', { query: dq })}</div>
           )}
           {results?.items.map((s) => (
             <div key={s.slug} className="song-row" style={{ gridTemplateColumns: '1fr auto' }}
               onClick={() => addSong(s)}>
               <div><span className="title">{s.titulo}</span> <span className="meta">— {s.interprete}</span></div>
-              <span className="chip">adicionar</span>
+              <span className="chip">{t('add')}</span>
             </div>
           ))}
         </div>
       )}
 
       <div className="card" style={{ padding: 0 }}>
-        {items.length === 0 && <div className="empty">Setlist vazio. Busque músicas acima para montar o repertório.</div>}
+        {items.length === 0 && <div className="empty">{t('empty')}</div>}
         {items.map((item, i) => {
           if (item.song) playableIndex += 1
           const myPlayableIndex = playableIndex
@@ -168,10 +170,10 @@ export default function SetlistDetail() {
                 {isOwner && (
                   <>
                     <button type="button" className="btn ghost" style={{ padding: '1px 6px', fontSize: 11, lineHeight: 1.4 }}
-                      disabled={i === 0} title="Mover para cima"
+                      disabled={i === 0} title={t('moveUp')}
                       onClick={(e) => { e.stopPropagation(); moveItem(i, i - 1) }}>▲</button>
                     <button type="button" className="btn ghost" style={{ padding: '1px 6px', fontSize: 11, lineHeight: 1.4 }}
-                      disabled={i === items.length - 1} title="Mover para baixo"
+                      disabled={i === items.length - 1} title={t('moveDown')}
                       onClick={(e) => { e.stopPropagation(); moveItem(i, i + 1) }}>▼</button>
                   </>
                 )}
@@ -180,11 +182,11 @@ export default function SetlistDetail() {
                 <div className="title">{i + 1}. {item.song?.titulo || item.ref}</div>
                 <div className="meta">
                   {item.song?.interprete || ''} {item.song?.tom && <span className="chip">{item.song.tom}</span>}
-                  {!item.song && <span className="chip" style={{ background: 'var(--danger)', color: '#fff' }}>⚠ música não encontrada</span>}
+                  {!item.song && <span className="chip" style={{ background: 'var(--danger)', color: '#fff' }}>{t('notFound')}</span>}
                 </div>
               </div>
               {item.song && (
-                <button className="btn" onClick={() => playFrom(myPlayableIndex)} title="Tocar a playlist a partir daqui">▶</button>
+                <button className="btn" onClick={() => playFrom(myPlayableIndex)} title={t('playFromHere')}>▶</button>
               )}
               {isOwner && <button className="btn danger no-print" onClick={() => removeAt(i)}>×</button>}
             </div>
