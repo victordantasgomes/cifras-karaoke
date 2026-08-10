@@ -68,6 +68,51 @@ function ColorSettingsCard() {
   )
 }
 
+const LOGO_VARIANTS = ['black', 'white', 'color_light', 'color_dark']
+
+function LogoVariantSlot({ t, user, variant, uploaded, onChanged }) {
+  const [file, setFile] = useState(null)
+
+  const upload = useMutation({
+    mutationFn: () => {
+      const fd = new FormData()
+      fd.append('file', file)
+      fd.append('variant', variant)
+      return api.post('/branding/logo', fd)
+    },
+    onSuccess: () => { setFile(null); onChanged() },
+  })
+  const remove = useMutation({
+    mutationFn: () => api.delete(`/branding/logo/${variant}`),
+    onSuccess: onChanged,
+  })
+
+  return (
+    <div style={{ border: '1px solid var(--stroke)', borderRadius: 10, padding: 12 }}>
+      <div style={{ fontSize: 13, fontWeight: 600, marginBottom: 8 }}>{t(`branding.variants.${variant}`)}</div>
+      <div className="row" style={{ marginBottom: 10, alignItems: 'center', minHeight: 48 }}>
+        {uploaded ? (
+          <img src={`/api/branding/${user.id}/logo?variant=${variant}`} alt="" style={{ height: 48, borderRadius: 8 }} />
+        ) : (
+          <span className="page-sub" style={{ margin: 0 }}>{t('branding.noLogo')}</span>
+        )}
+      </div>
+      <div className="row" style={{ flexWrap: 'wrap' }}>
+        <input className="input" type="file" accept="image/*" style={{ maxWidth: 180 }}
+          onChange={(e) => setFile(e.target.files[0])} />
+        <button className="btn primary" disabled={!file || upload.isPending} onClick={() => upload.mutate()}>
+          {upload.isPending ? t('branding.uploading') : t('branding.uploadLogo')}
+        </button>
+        {uploaded && (
+          <button className="btn danger" disabled={remove.isPending} onClick={() => remove.mutate()}>
+            {remove.isPending ? t('branding.removing') : t('branding.removeLogo')}
+          </button>
+        )}
+      </div>
+    </div>
+  )
+}
+
 function BrandingSettingsCard() {
   const { t } = useTranslation('settings')
   const qc = useQueryClient()
@@ -78,33 +123,22 @@ function BrandingSettingsCard() {
     staleTime: Infinity,
     refetchOnWindowFocus: false,
   })
-  const { data: branding } = useQuery({
-    queryKey: ['branding-info', user?.id],
-    queryFn: () => api.get(`/branding/${user.id}`).then((r) => r.data),
+  const { data: variants } = useQuery({
+    queryKey: ['branding-variants', user?.id],
+    queryFn: () => api.get('/branding/logo/variants').then((r) => r.data),
     enabled: Boolean(user?.id),
   })
   const [bandName, setBandName] = useState(null)
   useEffect(() => { if (data && bandName === null) setBandName(data.prefs?.bandName || '') }, [data]) // eslint-disable-line
-  const [logoFile, setLogoFile] = useState(null)
 
   const saveBandName = useMutation({
     mutationFn: () => api.put('/settings', { prefs: { ...data?.prefs, bandName } }).then((r) => r.data),
     onSuccess: (d) => qc.setQueryData(['settings'], d),
   })
-  const uploadLogo = useMutation({
-    mutationFn: () => {
-      const fd = new FormData()
-      fd.append('file', logoFile)
-      return api.post('/branding/logo', fd)
-    },
-    onSuccess: () => { setLogoFile(null); qc.invalidateQueries({ queryKey: ['branding-info', user?.id] }) },
-  })
-  const removeLogo = useMutation({
-    mutationFn: () => api.delete('/branding/logo'),
-    onSuccess: () => qc.invalidateQueries({ queryKey: ['branding-info', user?.id] }),
-  })
 
   if (bandName === null) return null
+
+  const invalidateVariants = () => qc.invalidateQueries({ queryKey: ['branding-variants', user?.id] })
 
   return (
     <div className="card" style={{ marginBottom: 14 }}>
@@ -123,24 +157,12 @@ function BrandingSettingsCard() {
       </div>
       <div className="field" style={{ marginBottom: 0 }}>
         <label>{t('branding.logoLabel')}</label>
-        <div className="row" style={{ marginBottom: 10, alignItems: 'center' }}>
-          {branding?.has_logo ? (
-            <img src={`/api/branding/${user.id}/logo`} alt="" style={{ height: 48, borderRadius: 8 }} />
-          ) : (
-            <span className="page-sub" style={{ margin: 0 }}>{t('branding.noLogo')}</span>
-          )}
-        </div>
-        <div className="row">
-          <input className="input" type="file" accept="image/*" style={{ maxWidth: 260 }}
-            onChange={(e) => setLogoFile(e.target.files[0])} />
-          <button className="btn primary" disabled={!logoFile || uploadLogo.isPending} onClick={() => uploadLogo.mutate()}>
-            {uploadLogo.isPending ? t('branding.uploading') : t('branding.uploadLogo')}
-          </button>
-          {branding?.has_logo && (
-            <button className="btn danger" disabled={removeLogo.isPending} onClick={() => removeLogo.mutate()}>
-              {removeLogo.isPending ? t('branding.removing') : t('branding.removeLogo')}
-            </button>
-          )}
+        <p style={{ color: 'var(--muted)', margin: '0 0 12px', fontSize: 13 }}>{t('branding.logoHint')}</p>
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))', gap: 12 }}>
+          {LOGO_VARIANTS.map((variant) => (
+            <LogoVariantSlot key={variant} t={t} user={user} variant={variant}
+              uploaded={Boolean(variants?.includes(variant))} onChanged={invalidateVariants} />
+          ))}
         </div>
       </div>
     </div>
@@ -185,6 +207,7 @@ const ACCENT_SWATCHES = {
   preto: '#14161c',
   branco: '#f5f6f8',
   cinza: '#9aa1b0',
+  amarelo: '#f2c94c',
 }
 
 function ThemeSettingsCard() {

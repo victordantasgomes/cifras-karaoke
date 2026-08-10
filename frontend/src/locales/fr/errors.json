@@ -12,6 +12,7 @@
   "AUTH_USER_NOT_FOUND": "Utilisateur introuvable.",
   "AUTH_SESSION_EXPIRED": "Session expirée. Veuillez vous reconnecter.",
   "AUTH_TOKEN_INVALID": "Jeton invalide.",
+  "AUTH_CURRENT_PASSWORD_INVALID": "Mot de passe actuel incorrect.",
   "AUTH_EMAIL_REQUIRED": "L'e-mail est obligatoire.",
   "BILLING_CREATION_BLOCKED": "Votre abonnement a un paiement en attente ou annulé — régularisez-le pour créer du nouveau contenu. Vos chansons et setlists restent disponibles.",
   "BILLING_ERROR": "Impossible de terminer l'opération de facturation.",

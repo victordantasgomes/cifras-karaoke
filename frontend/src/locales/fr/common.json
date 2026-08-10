@@ -43,5 +43,12 @@
     "description": "Choisissez la langue de l'interface.",
     "auto": "Suggérée par le navigateur"
   },
-  "loadingChord": "Chargement de la partition…"
+  "loadingChord": "Chargement de la partition…",
+  "theme": {
+    "switchToLight": "Passer au thème clair",
+    "switchToDark": "Passer au thème sombre"
+  },
+  "userMenu": {
+    "myProfile": "Mon profil"
+  }
 }

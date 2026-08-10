@@ -1,0 +1,56 @@
+{
+  "title": "Mi perfil",
+  "loading": "Cargando…",
+  "sections": {
+    "account": "Cuenta",
+    "security": "Seguridad",
+    "email": "Correo de contacto",
+    "plan": "Plan y facturación",
+    "usage": "Uso"
+  },
+  "fields": {
+    "username": "Usuario",
+    "name": "Nombre",
+    "memberSince": "Miembro desde",
+    "lastLogin": "Último acceso",
+    "loginCount": "Total de accesos",
+    "never": "Nunca"
+  },
+  "password": {
+    "current": "Contraseña actual",
+    "new": "Nueva contraseña",
+    "confirm": "Confirmar nueva contraseña",
+    "submit": "Cambiar contraseña",
+    "saving": "Guardando…",
+    "success": "Contraseña cambiada con éxito.",
+    "mismatch": "Las contraseñas no coinciden."
+  },
+  "email": {
+    "current": "Correo actual",
+    "none": "Ningún correo registrado.",
+    "new": "Nuevo correo",
+    "password": "Confirma tu contraseña",
+    "submit": "Cambiar correo",
+    "saving": "Guardando…",
+    "success": "Correo actualizado con éxito."
+  },
+  "plan": {
+    "current": "Plan actual",
+    "none": "Sin suscripción",
+    "status": {
+      "none": "Sin suscripción",
+      "trialing": "En prueba",
+      "active": "Activa",
+      "past_due": "Pago atrasado",
+      "canceled": "Cancelada"
+    },
+    "nextBilling": "Próxima facturación",
+    "manage": "Ver planes"
+  },
+  "usage": {
+    "setlists": "Listas de repertorio",
+    "storage": "Almacenamiento",
+    "unlimited": "Sin límite definido"
+  },
+  "genericError": "No se pudo completar la acción."
+}

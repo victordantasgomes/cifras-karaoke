@@ -12,7 +12,10 @@
     "title": "Aparência",
     "description": "Tema e cor de destaque da interface — independente das cores da folha de cifra, configuradas abaixo.",
     "theme": "Tema",
-    "themes": { "dark": "Escuro", "light": "Claro" },
+    "themes": {
+      "dark": "Escuro",
+      "light": "Claro"
+    },
     "accent": "Cor de destaque",
     "accents": {
       "azul": "Azul",
@@ -22,7 +25,8 @@
       "lilas": "Lilás",
       "preto": "Preto",
       "branco": "Branco",
-      "cinza": "Cinzento"
+      "cinza": "Cinzento",
+      "amarelo": "Amarelo"
     }
   },
   "branding": {
@@ -32,11 +36,18 @@
     "bandNamePlaceholder": "ex.: Banda do Zé",
     "save": "Guardar nome",
     "saving": "A guardar…",
-    "logoLabel": "Logótipo",
+    "logoLabel": "Logótipos",
+    "logoHint": "Envie até 4 variantes — o sistema escolhe automaticamente a mais adequada conforme o tema de quem está a ver (claro ou escuro).",
+    "variants": {
+      "black": "Preto",
+      "white": "Branco",
+      "color_light": "A cores (tema claro)",
+      "color_dark": "A cores (tema escuro)"
+    },
     "noLogo": "Nenhum logótipo enviado.",
-    "uploadLogo": "Enviar logótipo",
+    "uploadLogo": "Enviar",
     "uploading": "A enviar…",
-    "removeLogo": "Remover logótipo",
+    "removeLogo": "Remover",
     "removing": "A remover…"
   },
   "color": {

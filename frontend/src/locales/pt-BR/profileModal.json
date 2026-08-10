@@ -1,0 +1,56 @@
+{
+  "title": "Meu perfil",
+  "loading": "Carregando…",
+  "sections": {
+    "account": "Conta",
+    "security": "Segurança",
+    "email": "E-mail de contato",
+    "plan": "Plano e cobrança",
+    "usage": "Uso"
+  },
+  "fields": {
+    "username": "Usuário",
+    "name": "Nome",
+    "memberSince": "Membro desde",
+    "lastLogin": "Último acesso",
+    "loginCount": "Total de acessos",
+    "never": "Nunca"
+  },
+  "password": {
+    "current": "Senha atual",
+    "new": "Nova senha",
+    "confirm": "Confirmar nova senha",
+    "submit": "Alterar senha",
+    "saving": "Salvando…",
+    "success": "Senha alterada com sucesso.",
+    "mismatch": "As senhas não coincidem."
+  },
+  "email": {
+    "current": "E-mail atual",
+    "none": "Nenhum e-mail cadastrado.",
+    "new": "Novo e-mail",
+    "password": "Confirme sua senha",
+    "submit": "Alterar e-mail",
+    "saving": "Salvando…",
+    "success": "E-mail atualizado com sucesso."
+  },
+  "plan": {
+    "current": "Plano atual",
+    "none": "Sem assinatura",
+    "status": {
+      "none": "Sem cobrança",
+      "trialing": "Em teste",
+      "active": "Em dia",
+      "past_due": "Pagamento pendente",
+      "canceled": "Cancelada"
+    },
+    "nextBilling": "Próxima cobrança",
+    "manage": "Ver planos"
+  },
+  "usage": {
+    "setlists": "Setlists",
+    "storage": "Armazenamento",
+    "unlimited": "Sem limite definido"
+  },
+  "genericError": "Não foi possível completar a ação."
+}

@@ -149,13 +149,21 @@ create table if not exists user_favorite_genres (
 -- propósito (GET /branding/<user_id>/logo, sem @protected): o player de
 -- karaokê e os posts do mural (Fase 9) mostram a logo pra visitante sem
 -- login. Só upload/exclusão exigem dono (checado na rota).
+-- 4 variantes por usuário (preta/branca/colorida-clara/colorida-escura) —
+-- o sistema escolhe automaticamente a mais adequada pro tema de quem está
+-- vendo (ver BrandingService.resolve_logo). `variant` entra na chave
+-- primária composta (idempotente via ALTER, pra não quebrar quem já tinha
+-- uma logo salva do esquema antigo "um logo por usuário").
 create table if not exists user_logos (
-    user_id      text primary key references users(id) on delete cascade,
+    user_id      text references users(id) on delete cascade,
     blob_url     text not null,
     content_type text not null default '',
     size_bytes   bigint not null default 0,
     uploaded_at  timestamptz not null default now()
 );
+alter table user_logos add column if not exists variant text not null default 'color_dark';
+alter table user_logos drop constraint if exists user_logos_pkey;
+alter table user_logos add primary key (user_id, variant);
 
 -- Mural "monte uma banda" (Fase 9) — anúncios públicos de vaga/formação.
 -- `user_id` aqui é NOT NULL + ON DELETE CASCADE (diferente do padrão de

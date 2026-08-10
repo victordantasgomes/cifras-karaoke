@@ -12,7 +12,10 @@
     "title": "Apariencia",
     "description": "Tema y color de acento de la interfaz — independiente de los colores de la hoja de acordes, configurados abajo.",
     "theme": "Tema",
-    "themes": { "dark": "Oscuro", "light": "Claro" },
+    "themes": {
+      "dark": "Oscuro",
+      "light": "Claro"
+    },
     "accent": "Color de acento",
     "accents": {
       "azul": "Azul",
@@ -22,7 +25,8 @@
       "lilas": "Lila",
       "preto": "Negro",
       "branco": "Blanco",
-      "cinza": "Gris"
+      "cinza": "Gris",
+      "amarelo": "Amarillo"
     }
   },
   "branding": {
@@ -32,11 +36,18 @@
     "bandNamePlaceholder": "ej.: Banda del Zé",
     "save": "Guardar nombre",
     "saving": "Guardando…",
-    "logoLabel": "Logo",
+    "logoLabel": "Logos",
+    "logoHint": "Sube hasta 4 variantes: el sistema elige automáticamente la más adecuada según el tema de quien esté viendo (claro u oscuro).",
+    "variants": {
+      "black": "Negro",
+      "white": "Blanco",
+      "color_light": "A color (tema claro)",
+      "color_dark": "A color (tema oscuro)"
+    },
     "noLogo": "No se ha subido ningún logo.",
-    "uploadLogo": "Subir logo",
+    "uploadLogo": "Subir",
     "uploading": "Subiendo…",
-    "removeLogo": "Quitar logo",
+    "removeLogo": "Quitar",
     "removing": "Quitando…"
   },
   "color": {

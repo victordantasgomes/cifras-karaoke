@@ -1,0 +1,56 @@
+{
+  "title": "Mein Profil",
+  "loading": "Wird geladen…",
+  "sections": {
+    "account": "Konto",
+    "security": "Sicherheit",
+    "email": "Kontakt-E-Mail",
+    "plan": "Tarif und Abrechnung",
+    "usage": "Nutzung"
+  },
+  "fields": {
+    "username": "Benutzername",
+    "name": "Name",
+    "memberSince": "Mitglied seit",
+    "lastLogin": "Letzte Anmeldung",
+    "loginCount": "Anmeldungen insgesamt",
+    "never": "Nie"
+  },
+  "password": {
+    "current": "Aktuelles Passwort",
+    "new": "Neues Passwort",
+    "confirm": "Neues Passwort bestätigen",
+    "submit": "Passwort ändern",
+    "saving": "Wird gespeichert…",
+    "success": "Passwort erfolgreich geändert.",
+    "mismatch": "Die Passwörter stimmen nicht überein."
+  },
+  "email": {
+    "current": "Aktuelle E-Mail",
+    "none": "Keine E-Mail hinterlegt.",
+    "new": "Neue E-Mail",
+    "password": "Bestätige dein Passwort",
+    "submit": "E-Mail ändern",
+    "saving": "Wird gespeichert…",
+    "success": "E-Mail erfolgreich aktualisiert."
+  },
+  "plan": {
+    "current": "Aktueller Tarif",
+    "none": "Kein Abonnement",
+    "status": {
+      "none": "Kein Abonnement",
+      "trialing": "Testphase",
+      "active": "Aktiv",
+      "past_due": "Zahlung überfällig",
+      "canceled": "Gekündigt"
+    },
+    "nextBilling": "Nächste Abrechnung",
+    "manage": "Tarife ansehen"
+  },
+  "usage": {
+    "setlists": "Setlists",
+    "storage": "Speicher",
+    "unlimited": "Kein Limit festgelegt"
+  },
+  "genericError": "Die Aktion konnte nicht abgeschlossen werden."
+}

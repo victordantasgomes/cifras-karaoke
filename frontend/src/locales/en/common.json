@@ -43,5 +43,12 @@
     "description": "Choose the interface language.",
     "auto": "Suggested by your browser"
   },
-  "loadingChord": "Loading chord sheet…"
+  "loadingChord": "Loading chord sheet…",
+  "theme": {
+    "switchToLight": "Switch to light theme",
+    "switchToDark": "Switch to dark theme"
+  },
+  "userMenu": {
+    "myProfile": "My profile"
+  }
 }

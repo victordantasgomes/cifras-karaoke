@@ -12,7 +12,10 @@
     "title": "Aspetto",
     "description": "Tema e colore d'accento dell'interfaccia — indipendente dai colori del foglio degli accordi, configurati sotto.",
     "theme": "Tema",
-    "themes": { "dark": "Scuro", "light": "Chiaro" },
+    "themes": {
+      "dark": "Scuro",
+      "light": "Chiaro"
+    },
     "accent": "Colore d'accento",
     "accents": {
       "azul": "Blu",
@@ -22,7 +25,8 @@
       "lilas": "Lilla",
       "preto": "Nero",
       "branco": "Bianco",
-      "cinza": "Grigio"
+      "cinza": "Grigio",
+      "amarelo": "Giallo"
     }
   },
   "branding": {
@@ -32,11 +36,18 @@
     "bandNamePlaceholder": "es.: Band di Zé",
     "save": "Salva nome",
     "saving": "Salvataggio…",
-    "logoLabel": "Logo",
+    "logoLabel": "Loghi",
+    "logoHint": "Carica fino a 4 varianti: il sistema sceglie automaticamente quella più adatta in base al tema di chi sta guardando (chiaro o scuro).",
+    "variants": {
+      "black": "Nero",
+      "white": "Bianco",
+      "color_light": "A colori (tema chiaro)",
+      "color_dark": "A colori (tema scuro)"
+    },
     "noLogo": "Nessun logo caricato.",
-    "uploadLogo": "Carica logo",
+    "uploadLogo": "Carica",
     "uploading": "Caricamento…",
-    "removeLogo": "Rimuovi logo",
+    "removeLogo": "Rimuovi",
     "removing": "Rimozione…"
   },
   "color": {

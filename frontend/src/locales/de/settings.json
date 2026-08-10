@@ -12,7 +12,10 @@
     "title": "Erscheinungsbild",
     "description": "Theme und Akzentfarbe der Oberfläche — unabhängig von den Akkordblatt-Farben, die unten eingestellt werden.",
     "theme": "Theme",
-    "themes": { "dark": "Dunkel", "light": "Hell" },
+    "themes": {
+      "dark": "Dunkel",
+      "light": "Hell"
+    },
     "accent": "Akzentfarbe",
     "accents": {
       "azul": "Blau",
@@ -22,7 +25,8 @@
       "lilas": "Lila",
       "preto": "Schwarz",
       "branco": "Weiß",
-      "cinza": "Grau"
+      "cinza": "Grau",
+      "amarelo": "Gelb"
     }
   },
   "branding": {
@@ -32,11 +36,18 @@
     "bandNamePlaceholder": "z. B.: Die Zé-Band",
     "save": "Namen speichern",
     "saving": "Wird gespeichert…",
-    "logoLabel": "Logo",
+    "logoLabel": "Logos",
+    "logoHint": "Lade bis zu 4 Varianten hoch — das System wählt automatisch die passendste je nach Design des Betrachters (hell oder dunkel).",
+    "variants": {
+      "black": "Schwarz",
+      "white": "Weiß",
+      "color_light": "Farbig (helles Design)",
+      "color_dark": "Farbig (dunkles Design)"
+    },
     "noLogo": "Kein Logo hochgeladen.",
-    "uploadLogo": "Logo hochladen",
+    "uploadLogo": "Hochladen",
     "uploading": "Wird hochgeladen…",
-    "removeLogo": "Logo entfernen",
+    "removeLogo": "Entfernen",
     "removing": "Wird entfernt…"
   },
   "color": {

@@ -43,5 +43,12 @@
     "description": "Wähle die Sprache der Oberfläche.",
     "auto": "Vom Browser vorgeschlagen"
   },
-  "loadingChord": "Akkordblatt wird geladen…"
+  "loadingChord": "Akkordblatt wird geladen…",
+  "theme": {
+    "switchToLight": "Zum hellen Thema wechseln",
+    "switchToDark": "Zum dunklen Thema wechseln"
+  },
+  "userMenu": {
+    "myProfile": "Mein Profil"
+  }
 }

@@ -5,6 +5,8 @@ import { useTranslation } from 'react-i18next'
 import logo from '../assets/logo-horizontal.png'
 import api from '../services/api'
 import { useAuthStore } from '../store/authStore'
+import ThemeToggle from '../components/ThemeToggle'
+import { useCurrentTheme } from '../hooks/useTheme'
 import '../styles/landing.css'
 
 const SKILL_LEVELS = ['iniciante', 'intermediario', 'avancado', 'profissional']
@@ -34,6 +36,7 @@ function toPayload(form) {
 
 /** Badge com a marca do autor (Fase 8) — logo/nome se configurados, senão nada. */
 function AuthorBadge({ userId }) {
+  const theme = useCurrentTheme()
   const { data } = useQuery({
     queryKey: ['branding-info', userId],
     queryFn: () => api.get(`/branding/${userId}`).then((r) => r.data),
@@ -42,7 +45,7 @@ function AuthorBadge({ userId }) {
   if (!data?.has_logo && !data?.band_name) return null
   return (
     <div className="row" style={{ gap: 8, alignItems: 'center', marginBottom: 10 }}>
-      {data.has_logo && <img src={`/api/branding/${userId}/logo`} alt="" style={{ height: 28, borderRadius: 6 }} />}
+      {data.has_logo && <img src={`/api/branding/${userId}/logo?theme=${theme}`} alt="" style={{ height: 28, borderRadius: 6 }} />}
       {data.band_name && <strong>{data.band_name}</strong>}
     </div>
   )
@@ -230,6 +233,7 @@ export default function BandBoard() {
       <header className="landing-header no-print">
         <img src={logo} alt="Cifras Karaokê" className="landing-logo" />
         <div className="landing-header-actions">
+          <ThemeToggle />
           {token ? (
             <Link to="/painel" className="btn">{t('backToApp')}</Link>
           ) : (

@@ -43,5 +43,12 @@
     "description": "选择界面语言。",
     "auto": "由浏览器建议"
   },
-  "loadingChord": "正在加载歌词谱…"
+  "loadingChord": "正在加载歌词谱…",
+  "theme": {
+    "switchToLight": "切换到浅色主题",
+    "switchToDark": "切换到深色主题"
+  },
+  "userMenu": {
+    "myProfile": "我的资料"
+  }
 }

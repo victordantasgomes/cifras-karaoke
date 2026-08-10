@@ -219,3 +219,75 @@ def test_register_allows_multiple_users_without_email(auth):
 def test_register_lowercases_email(auth):
     user = auth.register("novato", "senha123", email="Novato@Example.COM")
     assert user["email"] == "novato@example.com"
+
+
+def test_get_profile_includes_email(auth):
+    user = auth.register("demo", "demo123", email="demo@example.com")
+    profile = auth.get_profile(user["id"])
+    assert profile["username"] == "demo"
+    assert profile["email"] == "demo@example.com"
+    assert profile["login_count"] == 0
+    assert profile["last_login_at"] is None
+
+
+def test_get_profile_unknown_user_raises(auth):
+    with pytest.raises(AuthError):
+        auth.get_profile("nao-existe")
+
+
+def test_change_own_password_requires_correct_current_password(auth):
+    user = auth.register("demo", "demo123")
+    with pytest.raises(AuthError):
+        auth.change_own_password(user["id"], "senhaerrada", "novasenha123")
+    # senha antiga continua valendo — a troca não deve ter acontecido
+    auth.login("demo", "demo123")
+
+
+def test_change_own_password_succeeds_with_correct_current_password(auth):
+    user = auth.register("demo", "demo123")
+    auth.change_own_password(user["id"], "demo123", "novasenha123")
+    auth.login("demo", "novasenha123")
+    with pytest.raises(AuthError):
+        auth.login("demo", "demo123")
+
+
+def test_change_own_password_rejects_short_new_password(auth):
+    user = auth.register("demo", "demo123")
+    with pytest.raises(AuthError):
+        auth.change_own_password(user["id"], "demo123", "123")
+
+
+def test_change_email_requires_correct_password(auth):
+    user = auth.register("demo", "demo123", email="old@example.com")
+    with pytest.raises(AuthError):
+        auth.change_email(user["id"], "new@example.com", "senhaerrada")
+    assert auth.get_profile(user["id"])["email"] == "old@example.com"
+
+
+def test_change_email_succeeds_with_correct_password(auth):
+    user = auth.register("demo", "demo123", email="old@example.com")
+    auth.change_email(user["id"], "new@example.com", "demo123")
+    assert auth.get_profile(user["id"])["email"] == "new@example.com"
+
+
+def test_change_email_rejects_invalid_format(auth):
+    user = auth.register("demo", "demo123")
+    with pytest.raises(AuthError):
+        auth.change_email(user["id"], "nao-e-um-email", "demo123")
+
+
+def test_change_email_rejects_already_taken(auth):
+    auth.register("outro", "senha123", email="ocupado@example.com")
+    user = auth.register("demo", "demo123")
+    with pytest.raises(AuthError):
+        auth.change_email(user["id"], "ocupado@example.com", "demo123")
+
+
+def test_change_email_resets_email_verified(auth):
+    user = auth.register("demo", "demo123", email="old@example.com")
+    with db.get_pool().connection() as conn:
+        conn.execute("update users set email_verified=true where id=%s", (user["id"],))
+    auth.change_email(user["id"], "new@example.com", "demo123")
+    with db.get_pool().connection() as conn:
+        row = conn.execute("select email_verified from users where id=%s", (user["id"],)).fetchone()
+    assert row["email_verified"] is False

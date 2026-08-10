@@ -43,5 +43,12 @@
     "description": "Elige el idioma de la interfaz.",
     "auto": "Sugerido por el navegador"
   },
-  "loadingChord": "Cargando cifrado…"
+  "loadingChord": "Cargando cifrado…",
+  "theme": {
+    "switchToLight": "Cambiar a tema claro",
+    "switchToDark": "Cambiar a tema oscuro"
+  },
+  "userMenu": {
+    "myProfile": "Mi perfil"
+  }
 }

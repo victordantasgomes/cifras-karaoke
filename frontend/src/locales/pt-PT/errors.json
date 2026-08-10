@@ -12,6 +12,7 @@
   "AUTH_USER_NOT_FOUND": "Utilizador não encontrado.",
   "AUTH_SESSION_EXPIRED": "Sessão expirada. Inicie sessão novamente.",
   "AUTH_TOKEN_INVALID": "Token inválido.",
+  "AUTH_CURRENT_PASSWORD_INVALID": "Palavra-passe atual incorreta.",
   "AUTH_EMAIL_REQUIRED": "E-mail é obrigatório.",
   "BILLING_CREATION_BLOCKED": "A sua assinatura está com pagamento pendente ou cancelada — regularize para criar conteúdo novo. As suas músicas e alinhamentos continuam disponíveis.",
   "BILLING_ERROR": "Não foi possível concluir a operação de faturação.",

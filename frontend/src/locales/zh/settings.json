@@ -12,7 +12,10 @@
     "title": "外观",
     "description": "界面的主题和强调色——与下方设置的歌词谱配色相互独立。",
     "theme": "主题",
-    "themes": { "dark": "深色", "light": "浅色" },
+    "themes": {
+      "dark": "深色",
+      "light": "浅色"
+    },
     "accent": "强调色",
     "accents": {
       "azul": "蓝色",
@@ -22,7 +25,8 @@
       "lilas": "淡紫色",
       "preto": "黑色",
       "branco": "白色",
-      "cinza": "灰色"
+      "cinza": "灰色",
+      "amarelo": "黄色"
     }
   },
   "branding": {
@@ -32,11 +36,18 @@
     "bandNamePlaceholder": "例如：泽乐队",
     "save": "保存名称",
     "saving": "保存中…",
-    "logoLabel": "Logo",
+    "logoLabel": "徽标",
+    "logoHint": "最多上传 4 个版本——系统会根据查看者的主题（浅色或深色）自动选择最合适的一个。",
+    "variants": {
+      "black": "黑色",
+      "white": "白色",
+      "color_light": "彩色（浅色主题）",
+      "color_dark": "彩色（深色主题）"
+    },
     "noLogo": "尚未上传 Logo。",
-    "uploadLogo": "上传 Logo",
+    "uploadLogo": "上传",
     "uploading": "上传中…",
-    "removeLogo": "移除 Logo",
+    "removeLogo": "移除",
     "removing": "移除中…"
   },
   "color": {

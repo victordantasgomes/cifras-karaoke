@@ -1,0 +1,56 @@
+{
+  "title": "我的资料",
+  "loading": "加载中…",
+  "sections": {
+    "account": "账户",
+    "security": "安全",
+    "email": "联系邮箱",
+    "plan": "套餐与账单",
+    "usage": "使用情况"
+  },
+  "fields": {
+    "username": "用户名",
+    "name": "姓名",
+    "memberSince": "加入时间",
+    "lastLogin": "上次登录",
+    "loginCount": "登录总次数",
+    "never": "从未"
+  },
+  "password": {
+    "current": "当前密码",
+    "new": "新密码",
+    "confirm": "确认新密码",
+    "submit": "修改密码",
+    "saving": "保存中…",
+    "success": "密码修改成功。",
+    "mismatch": "两次输入的密码不一致。"
+  },
+  "email": {
+    "current": "当前邮箱",
+    "none": "尚未绑定邮箱。",
+    "new": "新邮箱",
+    "password": "确认您的密码",
+    "submit": "修改邮箱",
+    "saving": "保存中…",
+    "success": "邮箱更新成功。"
+  },
+  "plan": {
+    "current": "当前套餐",
+    "none": "无订阅",
+    "status": {
+      "none": "无订阅",
+      "trialing": "试用中",
+      "active": "有效",
+      "past_due": "付款逾期",
+      "canceled": "已取消"
+    },
+    "nextBilling": "下次续费时间",
+    "manage": "查看套餐"
+  },
+  "usage": {
+    "setlists": "歌单",
+    "storage": "存储空间",
+    "unlimited": "未设置限制"
+  },
+  "genericError": "无法完成该操作。"
+}

@@ -26,6 +26,7 @@ _AUTH_EXACT = {
     "Usuário não encontrado.": "AUTH_USER_NOT_FOUND",
     "Sessão expirada. Entre novamente.": "AUTH_SESSION_EXPIRED",
     "Token inválido.": "AUTH_TOKEN_INVALID",
+    "Senha atual incorreta.": "AUTH_CURRENT_PASSWORD_INVALID",
 }
 
 

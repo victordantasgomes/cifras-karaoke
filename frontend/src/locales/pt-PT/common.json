@@ -43,5 +43,12 @@
     "description": "Escolha o idioma da interface.",
     "auto": "Sugerido pelo navegador"
   },
-  "loadingChord": "A carregar cifra…"
+  "loadingChord": "A carregar cifra…",
+  "theme": {
+    "switchToLight": "Mudar para tema claro",
+    "switchToDark": "Mudar para tema escuro"
+  },
+  "userMenu": {
+    "myProfile": "O meu perfil"
+  }
 }

@@ -12,6 +12,7 @@
   "AUTH_USER_NOT_FOUND": "未找到该用户。",
   "AUTH_SESSION_EXPIRED": "会话已过期，请重新登录。",
   "AUTH_TOKEN_INVALID": "令牌无效。",
+  "AUTH_CURRENT_PASSWORD_INVALID": "当前密码不正确。",
   "AUTH_EMAIL_REQUIRED": "电子邮箱为必填项。",
   "BILLING_CREATION_BLOCKED": "你的订阅有待付款项或已取消——请先处理后再创建新内容。你的歌曲和歌单仍然可以使用。",
   "BILLING_ERROR": "无法完成付款操作。",

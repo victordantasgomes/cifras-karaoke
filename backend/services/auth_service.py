@@ -125,6 +125,65 @@ class AuthService:
                 (generate_password_hash(new_password), user_id),
             )
 
+    def get_profile(self, user_id: str) -> dict:
+        """Versão self-service de list_users() — uma linha só, sem exigir
+        is_admin, mas incluindo o e-mail (que list_users não devolve, já
+        que aquela tela é a lista de todo mundo, não a conta de quem está
+        vendo)."""
+        with db.get_pool().connection() as conn:
+            row = conn.execute(
+                """select id, username, name, email, is_admin, created_at, last_login_at, login_count
+                   from users where id=%s""",
+                (user_id,),
+            ).fetchone()
+        if not row:
+            raise AuthError("Usuário não encontrado.")
+        return dict(row)
+
+    def change_own_password(self, user_id: str, current_password: str, new_password: str) -> None:
+        """Diferente de reset_password (admin-only, troca sem checar nada):
+        aqui é o próprio dono da conta trocando a senha, então a senha
+        ATUAL precisa bater com o hash salvo antes de aceitar a nova —
+        senão qualquer sessão já aberta (ex.: token roubado) poderia trocar
+        a senha sem nunca ter sabido a original."""
+        if len(new_password) < 6:
+            raise AuthError("A senha deve ter pelo menos 6 caracteres.")
+        with db.get_pool().connection() as conn:
+            row = conn.execute("select password_hash from users where id=%s", (user_id,)).fetchone()
+            if not row:
+                raise AuthError("Usuário não encontrado.")
+            if not check_password_hash(row["password_hash"], current_password):
+                raise AuthError("Senha atual incorreta.")
+            conn.execute(
+                "update users set password_hash=%s where id=%s",
+                (generate_password_hash(new_password), user_id),
+            )
+
+    def change_email(self, user_id: str, new_email: str, password: str) -> None:
+        """Também exige a senha atual, mesmo raciocínio de
+        change_own_password — trocar o e-mail de contato é sensível o
+        bastante (é pra onde vai cobrança/recuperação de conta) pra não
+        aceitar só por já estar logado. Reseta email_verified pra false:
+        o endereço mudou, a verificação antiga não vale mais pro novo."""
+        new_email = new_email.strip().lower()
+        if not new_email or not _EMAIL_RE.match(new_email):
+            raise AuthError("E-mail inválido.")
+        with db.get_pool().connection() as conn:
+            row = conn.execute("select password_hash from users where id=%s", (user_id,)).fetchone()
+            if not row:
+                raise AuthError("Usuário não encontrado.")
+            if not check_password_hash(row["password_hash"], password):
+                raise AuthError("Senha atual incorreta.")
+            taken = conn.execute(
+                "select 1 from users where email=%s and id != %s", (new_email, user_id),
+            ).fetchone()
+            if taken:
+                raise AuthError("Este e-mail já está cadastrado.")
+            conn.execute(
+                "update users set email=%s, email_verified=false where id=%s",
+                (new_email, user_id),
+            )
+
     def issue_token(self, user_id: str, username: str, is_admin: bool = False, name: str = "") -> str:
         payload = {
             "sub": user_id,

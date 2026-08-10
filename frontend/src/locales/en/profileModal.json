@@ -1,0 +1,56 @@
+{
+  "title": "My profile",
+  "loading": "Loading…",
+  "sections": {
+    "account": "Account",
+    "security": "Security",
+    "email": "Contact email",
+    "plan": "Plan & billing",
+    "usage": "Usage"
+  },
+  "fields": {
+    "username": "Username",
+    "name": "Name",
+    "memberSince": "Member since",
+    "lastLogin": "Last login",
+    "loginCount": "Total logins",
+    "never": "Never"
+  },
+  "password": {
+    "current": "Current password",
+    "new": "New password",
+    "confirm": "Confirm new password",
+    "submit": "Change password",
+    "saving": "Saving…",
+    "success": "Password changed successfully.",
+    "mismatch": "Passwords do not match."
+  },
+  "email": {
+    "current": "Current email",
+    "none": "No email on file.",
+    "new": "New email",
+    "password": "Confirm your password",
+    "submit": "Change email",
+    "saving": "Saving…",
+    "success": "Email updated successfully."
+  },
+  "plan": {
+    "current": "Current plan",
+    "none": "No subscription",
+    "status": {
+      "none": "No subscription",
+      "trialing": "Trialing",
+      "active": "Active",
+      "past_due": "Payment past due",
+      "canceled": "Canceled"
+    },
+    "nextBilling": "Next billing date",
+    "manage": "View plans"
+  },
+  "usage": {
+    "setlists": "Setlists",
+    "storage": "Storage",
+    "unlimited": "No limit set"
+  },
+  "genericError": "Could not complete the action."
+}

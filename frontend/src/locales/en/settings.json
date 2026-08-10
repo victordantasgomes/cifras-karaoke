@@ -12,7 +12,10 @@
     "title": "Appearance",
     "description": "Theme and interface accent color — independent of the chord-sheet colors, configured below.",
     "theme": "Theme",
-    "themes": { "dark": "Dark", "light": "Light" },
+    "themes": {
+      "dark": "Dark",
+      "light": "Light"
+    },
     "accent": "Accent color",
     "accents": {
       "azul": "Blue",
@@ -22,7 +25,8 @@
       "lilas": "Lilac",
       "preto": "Black",
       "branco": "White",
-      "cinza": "Gray"
+      "cinza": "Gray",
+      "amarelo": "Yellow"
     }
   },
   "branding": {
@@ -32,11 +36,18 @@
     "bandNamePlaceholder": "e.g.: The Zé Band",
     "save": "Save name",
     "saving": "Saving…",
-    "logoLabel": "Logo",
+    "logoLabel": "Logos",
+    "logoHint": "Upload up to 4 variants — the system automatically picks the most suitable one based on the viewer's theme (light or dark).",
+    "variants": {
+      "black": "Black",
+      "white": "White",
+      "color_light": "Color (light theme)",
+      "color_dark": "Color (dark theme)"
+    },
     "noLogo": "No logo uploaded.",
-    "uploadLogo": "Upload logo",
+    "uploadLogo": "Upload",
     "uploading": "Uploading…",
-    "removeLogo": "Remove logo",
+    "removeLogo": "Remove",
     "removing": "Removing…"
   },
   "color": {

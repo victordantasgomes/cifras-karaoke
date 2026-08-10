@@ -22,7 +22,8 @@
       "lilas": "Lilás",
       "preto": "Preto",
       "branco": "Branco",
-      "cinza": "Cinza"
+      "cinza": "Cinza",
+      "amarelo": "Amarelo"
     }
   },
   "branding": {
@@ -32,11 +33,18 @@
     "bandNamePlaceholder": "ex.: Banda do Zé",
     "save": "Salvar nome",
     "saving": "Salvando…",
-    "logoLabel": "Logo",
+    "logoLabel": "Logos",
+    "logoHint": "Envie até 4 variantes — o sistema escolhe automaticamente a mais adequada conforme o tema de quem está vendo (claro ou escuro).",
+    "variants": {
+      "black": "Preta",
+      "white": "Branca",
+      "color_light": "Colorida (tema claro)",
+      "color_dark": "Colorida (tema escuro)"
+    },
     "noLogo": "Nenhuma logo enviada.",
-    "uploadLogo": "Enviar logo",
+    "uploadLogo": "Enviar",
     "uploading": "Enviando…",
-    "removeLogo": "Remover logo",
+    "removeLogo": "Remover",
     "removing": "Removendo…"
   },
   "color": {

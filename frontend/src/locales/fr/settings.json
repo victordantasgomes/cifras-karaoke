@@ -12,7 +12,10 @@
     "title": "Apparence",
     "description": "Thème et couleur d'accent de l'interface — indépendant des couleurs de la partition, configurées ci-dessous.",
     "theme": "Thème",
-    "themes": { "dark": "Sombre", "light": "Clair" },
+    "themes": {
+      "dark": "Sombre",
+      "light": "Clair"
+    },
     "accent": "Couleur d'accent",
     "accents": {
       "azul": "Bleu",
@@ -22,7 +25,8 @@
       "lilas": "Lilas",
       "preto": "Noir",
       "branco": "Blanc",
-      "cinza": "Gris"
+      "cinza": "Gris",
+      "amarelo": "Jaune"
     }
   },
   "branding": {
@@ -32,11 +36,18 @@
     "bandNamePlaceholder": "ex. : Le Groupe de Zé",
     "save": "Enregistrer le nom",
     "saving": "Enregistrement…",
-    "logoLabel": "Logo",
+    "logoLabel": "Logos",
+    "logoHint": "Téléversez jusqu'à 4 variantes — le système choisit automatiquement la plus adaptée selon le thème de la personne qui regarde (clair ou sombre).",
+    "variants": {
+      "black": "Noir",
+      "white": "Blanc",
+      "color_light": "Couleur (thème clair)",
+      "color_dark": "Couleur (thème sombre)"
+    },
     "noLogo": "Aucun logo envoyé.",
-    "uploadLogo": "Envoyer un logo",
+    "uploadLogo": "Envoyer",
     "uploading": "Envoi…",
-    "removeLogo": "Retirer le logo",
+    "removeLogo": "Retirer",
     "removing": "Retrait…"
   },
   "color": {

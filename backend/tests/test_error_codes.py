@@ -15,6 +15,7 @@ from utils.error_codes import auth_error_code, billing_error_code, quota_error_c
     ("Usuário não encontrado.", "AUTH_USER_NOT_FOUND"),
     ("Sessão expirada. Entre novamente.", "AUTH_SESSION_EXPIRED"),
     ("Token inválido.", "AUTH_TOKEN_INVALID"),
+    ("Senha atual incorreta.", "AUTH_CURRENT_PASSWORD_INVALID"),
 ])
 def test_auth_error_code_maps_known_messages(message, expected):
     assert auth_error_code(message) == expected

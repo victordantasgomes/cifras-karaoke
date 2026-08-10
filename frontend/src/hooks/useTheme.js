@@ -1,19 +1,40 @@
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { useQuery, useQueryClient } from '@tanstack/react-query'
 import api from '../services/api'
 import { useAuthStore } from '../store/authStore'
 
 export const THEMES = ['dark', 'light']
-export const ACCENTS = ['azul', 'vermelho', 'verde', 'rosa', 'lilas', 'preto', 'branco', 'cinza']
+export const ACCENTS = ['azul', 'vermelho', 'verde', 'rosa', 'lilas', 'preto', 'branco', 'cinza', 'amarelo']
 export const DEFAULT_THEME = 'dark'
 export const DEFAULT_ACCENT = 'azul'
 
 const THEME_KEY = 'ck-theme'
 const ACCENT_KEY = 'ck-accent'
 
+// pub-sub simples pra useCurrentTheme() (abaixo) — o resto do módulo troca
+// o tema imperativamente via document.documentElement.dataset, sem passar
+// por estado React nenhum; componentes que precisam saber o tema ATUAL de
+// forma reativa (botão de alternância, escolha de variante de logo) se
+// inscrevem aqui em vez de duplicar a leitura do dataset.
+const themeListeners = new Set()
+
 function apply(theme, accent) {
   document.documentElement.dataset.theme = theme
   document.documentElement.dataset.accent = accent
+  themeListeners.forEach((fn) => fn(theme))
+}
+
+/** Tema atual, reativo — re-renderiza sempre que o tema mudar (inclusive
+ * por useChangeTheme() em outro componente, ou pela sincronização de
+ * settings.prefs). Não usar pra decidir o QUE aplicar (isso é apply()
+ * acima), só pra LER o que já está aplicado. */
+export function useCurrentTheme() {
+  const [theme, setTheme] = useState(() => document.documentElement.dataset.theme || DEFAULT_THEME)
+  useEffect(() => {
+    themeListeners.add(setTheme)
+    return () => themeListeners.delete(setTheme)
+  }, [])
+  return theme
 }
 
 // aplicado uma vez, de imediato (fora de qualquer componente) — evita o

@@ -1,0 +1,56 @@
+{
+  "title": "O meu perfil",
+  "loading": "A carregar…",
+  "sections": {
+    "account": "Conta",
+    "security": "Segurança",
+    "email": "E-mail de contacto",
+    "plan": "Plano e faturação",
+    "usage": "Utilização"
+  },
+  "fields": {
+    "username": "Utilizador",
+    "name": "Nome",
+    "memberSince": "Membro desde",
+    "lastLogin": "Último início de sessão",
+    "loginCount": "Total de inícios de sessão",
+    "never": "Nunca"
+  },
+  "password": {
+    "current": "Palavra-passe atual",
+    "new": "Nova palavra-passe",
+    "confirm": "Confirmar nova palavra-passe",
+    "submit": "Alterar palavra-passe",
+    "saving": "A guardar…",
+    "success": "Palavra-passe alterada com sucesso.",
+    "mismatch": "As palavras-passe não coincidem."
+  },
+  "email": {
+    "current": "E-mail atual",
+    "none": "Nenhum e-mail registado.",
+    "new": "Novo e-mail",
+    "password": "Confirme a sua palavra-passe",
+    "submit": "Alterar e-mail",
+    "saving": "A guardar…",
+    "success": "E-mail atualizado com sucesso."
+  },
+  "plan": {
+    "current": "Plano atual",
+    "none": "Sem assinatura",
+    "status": {
+      "none": "Sem assinatura",
+      "trialing": "Em período de teste",
+      "active": "Ativa",
+      "past_due": "Pagamento em atraso",
+      "canceled": "Cancelada"
+    },
+    "nextBilling": "Próxima faturação",
+    "manage": "Ver planos"
+  },
+  "usage": {
+    "setlists": "Alinhamentos",
+    "storage": "Armazenamento",
+    "unlimited": "Sem limite definido"
+  },
+  "genericError": "Não foi possível concluir a ação."
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Mon profil",
+  "loading": "Chargement…",
+  "sections": {
+    "account": "Compte",
+    "security": "Sécurité",
+    "email": "E-mail de contact",
+    "plan": "Forfait et facturation",
+    "usage": "Utilisation"
+  },
+  "fields": {
+    "username": "Nom d'utilisateur",
+    "name": "Nom",
+    "memberSince": "Membre depuis",
+    "lastLogin": "Dernière connexion",
+    "loginCount": "Nombre total de connexions",
+    "never": "Jamais"
+  },
+  "password": {
+    "current": "Mot de passe actuel",
+    "new": "Nouveau mot de passe",
+    "confirm": "Confirmer le nouveau mot de passe",
+    "submit": "Changer le mot de passe",
+    "saving": "Enregistrement…",
+    "success": "Mot de passe modifié avec succès.",
+    "mismatch": "Les mots de passe ne correspondent pas."
+  },
+  "email": {
+    "current": "E-mail actuel",
+    "none": "Aucun e-mail enregistré.",
+    "new": "Nouvel e-mail",
+    "password": "Confirmez votre mot de passe",
+    "submit": "Changer l'e-mail",
+    "saving": "Enregistrement…",
+    "success": "E-mail mis à jour avec succès."
+  },
+  "plan": {
+    "current": "Forfait actuel",
+    "none": "Aucun abonnement",
+    "status": {
+      "none": "Sans abonnement",
+      "trialing": "Essai en cours",
+      "active": "Actif",
+      "past_due": "Paiement en retard",
+      "canceled": "Résilié"
+    },
+    "nextBilling": "Prochaine facturation",
+    "manage": "Voir les forfaits"
+  },
+  "usage": {
+    "setlists": "Setlists",
+    "storage": "Stockage",
+    "unlimited": "Aucune limite définie"
+  },
+  "genericError": "Impossible d'effectuer cette action."
+}

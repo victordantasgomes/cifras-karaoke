@@ -43,5 +43,12 @@
     "description": "Scegli la lingua dell'interfaccia.",
     "auto": "Suggerita dal browser"
   },
-  "loadingChord": "Caricamento del foglio accordi…"
+  "loadingChord": "Caricamento del foglio accordi…",
+  "theme": {
+    "switchToLight": "Passa al tema chiaro",
+    "switchToDark": "Passa al tema scuro"
+  },
+  "userMenu": {
+    "myProfile": "Il mio profilo"
+  }
 }

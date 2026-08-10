@@ -1,0 +1,56 @@
+{
+  "title": "Il mio profilo",
+  "loading": "Caricamento…",
+  "sections": {
+    "account": "Account",
+    "security": "Sicurezza",
+    "email": "E-mail di contatto",
+    "plan": "Piano e fatturazione",
+    "usage": "Utilizzo"
+  },
+  "fields": {
+    "username": "Nome utente",
+    "name": "Nome",
+    "memberSince": "Membro dal",
+    "lastLogin": "Ultimo accesso",
+    "loginCount": "Accessi totali",
+    "never": "Mai"
+  },
+  "password": {
+    "current": "Password attuale",
+    "new": "Nuova password",
+    "confirm": "Conferma nuova password",
+    "submit": "Cambia password",
+    "saving": "Salvataggio…",
+    "success": "Password modificata con successo.",
+    "mismatch": "Le password non coincidono."
+  },
+  "email": {
+    "current": "E-mail attuale",
+    "none": "Nessuna e-mail registrata.",
+    "new": "Nuova e-mail",
+    "password": "Conferma la tua password",
+    "submit": "Cambia e-mail",
+    "saving": "Salvataggio…",
+    "success": "E-mail aggiornata con successo."
+  },
+  "plan": {
+    "current": "Piano attuale",
+    "none": "Nessun abbonamento",
+    "status": {
+      "none": "Nessun abbonamento",
+      "trialing": "In prova",
+      "active": "Attivo",
+      "past_due": "Pagamento in ritardo",
+      "canceled": "Disdetto"
+    },
+    "nextBilling": "Prossimo rinnovo",
+    "manage": "Vedi piani"
+  },
+  "usage": {
+    "setlists": "Scalette",
+    "storage": "Archiviazione",
+    "unlimited": "Nessun limite impostato"
+  },
+  "genericError": "Impossibile completare l'azione."
+}

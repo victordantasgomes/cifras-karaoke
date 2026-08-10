@@ -12,6 +12,7 @@
   "AUTH_USER_NOT_FOUND": "User not found.",
   "AUTH_SESSION_EXPIRED": "Session expired. Please sign in again.",
   "AUTH_TOKEN_INVALID": "Invalid token.",
+  "AUTH_CURRENT_PASSWORD_INVALID": "Current password is incorrect.",
   "AUTH_EMAIL_REQUIRED": "Email is required.",
   "BILLING_CREATION_BLOCKED": "Your subscription has a pending or canceled payment — please update it to create new content. Your songs and setlists remain available.",
   "BILLING_ERROR": "Could not complete the billing operation.",

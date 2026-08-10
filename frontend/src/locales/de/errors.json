@@ -12,6 +12,7 @@
   "AUTH_USER_NOT_FOUND": "Benutzer nicht gefunden.",
   "AUTH_SESSION_EXPIRED": "Sitzung abgelaufen. Bitte erneut anmelden.",
   "AUTH_TOKEN_INVALID": "Ungültiges Token.",
+  "AUTH_CURRENT_PASSWORD_INVALID": "Aktuelles Passwort ist falsch.",
   "AUTH_EMAIL_REQUIRED": "E-Mail-Adresse ist erforderlich.",
   "BILLING_CREATION_BLOCKED": "Dein Abonnement hat eine ausstehende oder stornierte Zahlung — bitte regularisieren, um neue Inhalte zu erstellen. Deine Songs und Setlists bleiben verfügbar.",
   "BILLING_ERROR": "Der Abrechnungsvorgang konnte nicht abgeschlossen werden.",

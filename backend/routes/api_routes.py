@@ -6,6 +6,7 @@ from flask import Blueprint, Response, g, jsonify, request
 from services.ai_service import AIError
 from services.auth_service import AuthError
 from services.billing_service import BillingError
+from services.branding_service import VARIANTS as LOGO_VARIANTS
 from services.plans_service import DuplicatePlanName, PlanNotFound, StripeSyncError
 from services.quota_service import QuotaExceeded
 from services.songs_service import NotOwner, SongNotFound
@@ -47,6 +48,35 @@ def build_blueprint(ctx) -> Blueprint:
             return jsonify(ctx.auth.login(d.get("username", ""), d.get("password", "")))
         except AuthError as e:
             return jsonify({"error": str(e), "error_code": auth_error_code(str(e))}), 400
+
+    # ---------------- minha conta (self-service) ----------------
+    @api.get("/me")
+    @protected
+    def get_my_profile():
+        try:
+            return jsonify(ctx.auth.get_profile(g.user_id))
+        except AuthError as e:
+            return jsonify({"error": str(e), "error_code": auth_error_code(str(e))}), 404
+
+    @api.post("/me/password")
+    @protected
+    def change_my_password():
+        d = request.get_json(force=True)
+        try:
+            ctx.auth.change_own_password(g.user_id, d.get("current_password", ""), d.get("new_password", ""))
+        except AuthError as e:
+            return jsonify({"error": str(e), "error_code": auth_error_code(str(e))}), 400
+        return "", 204
+
+    @api.post("/me/email")
+    @protected
+    def change_my_email():
+        d = request.get_json(force=True)
+        try:
+            ctx.auth.change_email(g.user_id, d.get("email", ""), d.get("password", ""))
+        except AuthError as e:
+            return jsonify({"error": str(e), "error_code": auth_error_code(str(e))}), 400
+        return "", 204
 
     # Públicas (sem auth) — consumidas pela landing page (Landing.jsx).
     @api.post("/telemetry/landing-view")
@@ -664,26 +694,35 @@ def build_blueprint(ctx) -> Blueprint:
         d = request.get_json(force=True)
         return jsonify(ctx.settings.update(g.user_id, d.get("colors"), d.get("prefs")))
 
-    # ---------------- whitelabel (Fase 8) ----------------
+    # ---------------- whitelabel (Fase 8, 4 variantes desde a Fase de melhorias) ----------------
     @api.post("/branding/logo")
     @protected
     @not_blocked
     def upload_logo():
         f = request.files.get("file")
+        variant = request.form.get("variant", "")
         if not f:
             return jsonify({"error": "Arquivo de imagem ausente.", "error_code": "LOGO_FILE_MISSING"}), 400
-        ctx.branding.save_logo(g.user_id, f)
+        if variant not in LOGO_VARIANTS:
+            return jsonify({"error": "Variante de logo inválida.", "error_code": "LOGO_VARIANT_INVALID"}), 400
+        ctx.branding.save_logo(g.user_id, variant, f)
         return jsonify({"ok": True}), 201
 
-    @api.delete("/branding/logo")
+    @api.delete("/branding/logo/<variant>")
     @protected
-    def delete_logo():
-        ctx.branding.delete_logo(g.user_id)
+    def delete_logo(variant):
+        ctx.branding.delete_logo(g.user_id, variant)
         return "", 204
 
-    # Pública — nome da banda (settings.prefs.bandName) + se há logo, pro
-    # palco de karaokê e mural (Fase 9) decidirem o que mostrar sem
-    # precisar de duas chamadas condicionais.
+    # Pra Configurações saber quais dos 4 slots já têm logo enviada.
+    @api.get("/branding/logo/variants")
+    @protected
+    def get_my_logo_variants():
+        return jsonify(ctx.branding.list_variants(g.user_id))
+
+    # Pública — nome da banda (settings.prefs.bandName) + se há logo (em
+    # QUALQUER variante), pro palco de karaokê e mural (Fase 9) decidirem
+    # o que mostrar sem precisar de duas chamadas condicionais.
     @api.get("/branding/<user_id>")
     def get_branding_info(user_id):
         prefs = ctx.settings.get(user_id)["prefs"]
@@ -692,9 +731,19 @@ def build_blueprint(ctx) -> Blueprint:
     # Pública de propósito (sem @protected) — palco de karaokê e mural
     # (Fase 9) exibem a logo pra visitante sem login. Bytes sempre servidos
     # proxied pelo backend (nunca a URL crua do Blob, mesmo padrão de áudio).
+    # ?theme=dark|light escolhe a variante mais adequada pro tema de quem
+    # está VENDO — ver BrandingService.resolve_logo. ?variant=<x> pula o
+    # fallback e busca exatamente aquela variante (usado só pela
+    # pré-visualização dos 4 slots nas Configurações, onde o dono precisa
+    # ver o que ele mesmo enviou em cada slot, não a resolução por tema).
     @api.get("/branding/<user_id>/logo")
     def get_logo(user_id):
-        result = ctx.branding.logo_bytes(user_id)
+        variant = request.args.get("variant")
+        if variant:
+            result = ctx.branding.variant_bytes(user_id, variant)
+        else:
+            theme = request.args.get("theme", "dark")
+            result = ctx.branding.resolve_logo(user_id, theme)
         if not result:
             return jsonify({"error": "Este usuário não tem logo enviada.", "error_code": "LOGO_NOT_FOUND"}), 404
         data, content_type = result

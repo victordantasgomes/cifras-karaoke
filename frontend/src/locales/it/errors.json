@@ -12,6 +12,7 @@
   "AUTH_USER_NOT_FOUND": "Utente non trovato.",
   "AUTH_SESSION_EXPIRED": "Sessione scaduta. Accedi di nuovo.",
   "AUTH_TOKEN_INVALID": "Token non valido.",
+  "AUTH_CURRENT_PASSWORD_INVALID": "Password attuale non corretta.",
   "AUTH_EMAIL_REQUIRED": "L'e-mail è obbligatoria.",
   "BILLING_CREATION_BLOCKED": "Il tuo abbonamento ha un pagamento in sospeso o annullato — regolarizzalo per creare nuovi contenuti. I tuoi brani e le tue scalette restano disponibili.",
   "BILLING_ERROR": "Impossibile completare l'operazione di fatturazione.",

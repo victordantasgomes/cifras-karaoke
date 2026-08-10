@@ -322,7 +322,7 @@ export default function ScrollPlayer({ data }) {
           {data.titulo} — {data.interprete} {data.tom && <>· {t('header.tom', { tom: data.tom })}</>} · 📜 {t('header.scrollBadge')}
           {(branding?.has_logo || branding?.band_name) && (
             <div className="k-brand">
-              {branding.has_logo && <img src={`/api/branding/${data.owner_id}/logo`} alt="" />}
+              {branding.has_logo && <img src={`/api/branding/${data.owner_id}/logo?theme=dark`} alt="" />}
               {branding.band_name && <span>{branding.band_name}</span>}
             </div>
           )}
