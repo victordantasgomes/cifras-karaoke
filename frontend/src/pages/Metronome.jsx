@@ -10,6 +10,7 @@ const MIN_BPM = 30
 const MAX_BPM = 300
 const DEFAULT_BPM = 100
 const BAR_OPTIONS = [2, 3, 4, 5, 6]
+const PENDULUM_ANGLE = 22 // graus de oscilação de cada lado do braço
 
 // scheduler de "lookahead": em vez de setInterval(callback, 60000/bpm) (que
 // arrasta com o tempo por causa do jitter do event loop), agenda cada
@@ -18,6 +19,17 @@ const BAR_OPTIONS = [2, 3, 4, 5, 6]
 const LOOKAHEAD_MS = 25
 const SCHEDULE_AHEAD_SEC = 0.1
 const TAP_WINDOW_MS = 3000
+
+// marcações de tempo clássicas — termos italianos, os mesmos em qualquer
+// idioma de partitura (por isso não entram no i18n).
+const TEMPO_MARKINGS = [
+  [40, 'Grave'], [60, 'Largo'], [66, 'Adagio'], [76, 'Andante'],
+  [108, 'Moderato'], [120, 'Allegro'], [168, 'Vivace'], [200, 'Presto'],
+]
+function tempoMarking(bpm) {
+  for (const [max, label] of TEMPO_MARKINGS) if (bpm < max) return label
+  return 'Prestissimo'
+}
 
 export default function Metronome() {
   const { t } = useTranslation('metronome')
@@ -36,6 +48,7 @@ export default function Metronome() {
   const [beatsPerBar, setBeatsPerBar] = useState(4)
   const [running, setRunning] = useState(false)
   const [activeBeat, setActiveBeat] = useState(-1)
+  const [pendulumRight, setPendulumRight] = useState(false)
   const [tapTimes, setTapTimes] = useState([])
 
   const bpmRef = useRef(bpm)
@@ -74,7 +87,11 @@ export default function Metronome() {
     while (nextBeatTimeRef.current < ctx.currentTime + SCHEDULE_AHEAD_SEC) {
       const beatInBar = beatCounterRef.current % beatsPerBarRef.current
       const delayMs = Math.max(0, (nextBeatTimeRef.current - ctx.currentTime) * 1000)
-      const timer = setTimeout(() => { playClick(); setActiveBeat(beatInBar) }, delayMs)
+      const timer = setTimeout(() => {
+        playClick()
+        setActiveBeat(beatInBar)
+        setPendulumRight((r) => !r)
+      }, delayMs)
       highlightTimersRef.current.push(timer)
       nextBeatTimeRef.current += 60 / bpmRef.current
       beatCounterRef.current += 1
@@ -110,6 +127,14 @@ export default function Metronome() {
     setBpm(Math.min(MAX_BPM, Math.max(MIN_BPM, Math.round(next))))
   }
 
+  // updater funcional — cliques rápidos nos botões +/- disparam vários
+  // handlers no mesmo lote do React antes de re-renderizar; se cada um
+  // lesse `bpm` do closure (como changeBpm faz), todos calculariam a
+  // partir do mesmo valor antigo e só o último clique "contaria".
+  function stepBpm(delta) {
+    setBpm((b) => Math.min(MAX_BPM, Math.max(MIN_BPM, b + delta)))
+  }
+
   function tapTempo() {
     const now = performance.now()
     const recent = [...tapTimes, now].filter((ms) => now - ms < TAP_WINDOW_MS)
@@ -121,41 +146,62 @@ export default function Metronome() {
     }
   }
 
+  const beatDurSec = 60 / bpm
+
   return (
     <>
       <h1 className="page-title">{t('title')}</h1>
       <div className="page-sub">{t('subtitle')}</div>
 
       <div className="card" style={{ maxWidth: 420 }}>
-        <div style={{ display: 'flex', alignItems: 'baseline', gap: 10, justifyContent: 'center', marginBottom: 6 }}>
-          <span style={{ fontFamily: 'var(--font-display)', fontSize: 56, fontWeight: 700, color: 'var(--accent)', lineHeight: 1 }}>
-            {bpm}
-          </span>
-          <span style={{ color: 'var(--muted)', fontWeight: 600 }}>{t('bpm')}</span>
+        <div className="metronome-pendulum-wrap">
+          <div
+            className="metronome-pendulum"
+            style={{
+              transform: `rotate(${pendulumRight ? PENDULUM_ANGLE : -PENDULUM_ANGLE}deg)`,
+              transitionDuration: running ? `${beatDurSec}s` : '300ms',
+            }}
+          >
+            <span className="metronome-pendulum-bob" />
+          </div>
+          <span className="metronome-pendulum-base" />
         </div>
 
-        <input
-          type="range" min={MIN_BPM} max={MAX_BPM} value={bpm}
-          onChange={(e) => changeBpm(Number(e.target.value))}
-          style={{ width: '100%', accentColor: 'var(--accent)' }}
-        />
+        <div style={{ textAlign: 'center', marginBottom: 2 }}>
+          <span className="metronome-bpm-value">{bpm}</span>
+          <span className="metronome-bpm-unit">{t('bpm')}</span>
+        </div>
+        <div className="metronome-tempo-marking">{tempoMarking(bpm)}</div>
 
-        <div style={{ display: 'flex', justifyContent: 'center', gap: 8, margin: '14px 0 18px' }}>
+        <div className="row" style={{ gap: 10, marginBottom: 18, alignItems: 'center' }}>
+          <button type="button" className="btn metronome-step" onClick={() => stepBpm(-1)} aria-label="-1 BPM">−</button>
+          <input
+            type="range" min={MIN_BPM} max={MAX_BPM} value={bpm}
+            onChange={(e) => changeBpm(Number(e.target.value))}
+            style={{ flex: 1, accentColor: 'var(--accent)' }}
+          />
+          <button type="button" className="btn metronome-step" onClick={() => stepBpm(1)} aria-label="+1 BPM">+</button>
+        </div>
+
+        <div className="metronome-beats">
           {Array.from({ length: beatsPerBar }, (_, i) => (
-            <span key={i} style={{
-              width: i === 0 ? 16 : 12, height: i === 0 ? 16 : 12, borderRadius: '50%',
-              background: activeBeat === i ? 'var(--accent)' : 'var(--glass-strong)',
-              border: '1px solid var(--stroke)',
-              transition: 'background 60ms',
-            }} />
+            <span key={i} className={`metronome-beat-dot${i === 0 ? ' downbeat' : ''}${activeBeat === i ? ' active' : ''}`} />
           ))}
         </div>
 
         <div className="field">
           <label>{t('beatsPerBar')}</label>
-          <select className="input" value={beatsPerBar} onChange={(e) => setBeatsPerBar(Number(e.target.value))}>
-            {BAR_OPTIONS.map((n) => <option key={n} value={n}>{n}</option>)}
-          </select>
+          <div className="row" style={{ gap: 8 }}>
+            {BAR_OPTIONS.map((n) => (
+              <button
+                key={n} type="button"
+                className={`btn metronome-bar-btn${beatsPerBar === n ? ' active' : ''}`}
+                onClick={() => setBeatsPerBar(n)}
+              >
+                {n}
+              </button>
+            ))}
+          </div>
         </div>
 
         <div className="row" style={{ gap: 10 }}>

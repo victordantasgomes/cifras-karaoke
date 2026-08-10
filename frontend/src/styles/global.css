@@ -490,6 +490,51 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
 .error-text { color: var(--danger); font-size: 13px; margin-top: 8px; }
 .empty { color: var(--muted); text-align: center; padding: 46px 0; }
 
+/* ---------- metrônomo ---------- */
+.metronome-pendulum-wrap { position: relative; height: 108px; margin: 4px auto 18px; width: 100%; }
+.metronome-pendulum-base {
+  position: absolute; bottom: 0; left: 50%; transform: translateX(-50%);
+  width: 44px; height: 14px; border-radius: 8px 8px 3px 3px;
+  background: var(--glass-strong); border: 1px solid var(--stroke);
+}
+.metronome-pendulum {
+  position: absolute; bottom: 10px; left: 50%; margin-left: -2px;
+  width: 4px; height: 90px; border-radius: 3px;
+  background: linear-gradient(to top, var(--muted), var(--accent));
+  transform-origin: bottom center;
+  transition-property: transform;
+  transition-timing-function: linear;
+}
+.metronome-pendulum-bob {
+  position: absolute; top: -8px; left: 50%; transform: translateX(-50%);
+  width: 18px; height: 18px; border-radius: 50%;
+  background: var(--accent); box-shadow: 0 0 14px var(--accent-soft);
+}
+.metronome-bpm-value {
+  font-family: var(--font-display); font-size: 60px; font-weight: 700;
+  color: var(--accent); text-shadow: 0 0 26px var(--accent-soft); line-height: 1;
+}
+.metronome-bpm-unit { font-size: 14px; font-weight: 600; color: var(--muted); margin-left: 6px; }
+.metronome-tempo-marking {
+  text-align: center; color: var(--muted); font-style: italic; font-size: 12.5px;
+  text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 18px;
+}
+.metronome-step {
+  flex-shrink: 0; width: 38px; height: 38px; padding: 0;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 19px; font-weight: 700; line-height: 1;
+}
+.metronome-beats { display: flex; justify-content: center; gap: 10px; margin-bottom: 18px; }
+.metronome-beat-dot {
+  width: 13px; height: 13px; border-radius: 50%;
+  background: var(--glass-strong); border: 1px solid var(--stroke);
+  transition: background 60ms, box-shadow 60ms, transform 60ms;
+}
+.metronome-beat-dot.downbeat { width: 17px; height: 17px; }
+.metronome-beat-dot.active { background: var(--accent); box-shadow: 0 0 10px var(--accent-soft); transform: scale(1.2); }
+.metronome-bar-btn { min-width: 42px; padding: 8px 0; text-align: center; font-weight: 600; }
+.metronome-bar-btn.active { background: var(--accent); color: var(--accent-ink); border-color: transparent; }
+
 /* ---------- impressão ---------- */
 @media print {
   .sidebar, .no-print { display: none !important; }

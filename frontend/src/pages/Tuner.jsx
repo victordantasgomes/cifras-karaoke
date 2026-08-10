@@ -1,15 +1,17 @@
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import api from '../services/api'
 import { useAuthStore } from '../store/authStore'
-import { detectPitch, freqToNote } from '../utils/pitchDetect'
+import { detectPitch, noteToFreq, PitchStabilizer } from '../utils/pitchDetect'
+import { INSTRUMENTS } from '../utils/tunings'
 
 const DEFAULT_A4 = 440
 const MIN_A4 = 415
 const MAX_A4 = 466
 const IN_TUNE_CENTS = 5
 const FFT_SIZE = 2048
+const ANALYSIS_INTERVAL_MS = 90 // throttla a análise (reduz CPU e ruído entre quadros — a estabilização mora em PitchStabilizer)
 
 export default function Tuner() {
   const { t } = useTranslation('tuner')
@@ -25,12 +27,33 @@ export default function Tuner() {
   })
 
   const [a4, setA4] = useState(DEFAULT_A4)
+  const [instrumentId, setInstrumentId] = useState('guitar')
+  const [tuningId, setTuningId] = useState('standard')
   const [listening, setListening] = useState(false)
   const [error, setError] = useState(null)
   const [reading, setReading] = useState(null)
 
+  const instrument = INSTRUMENTS.find((i) => i.id === instrumentId) || INSTRUMENTS[0]
+  const tuning = instrument.tunings.find((tu) => tu.id === tuningId) || instrument.tunings[0]
+  const strings = useMemo(
+    () => (tuning.strings ? tuning.strings.map((str) => ({ ...str, freq: noteToFreq(str.note, str.octave, a4) })) : null),
+    [tuning, a4],
+  )
+
   const a4Ref = useRef(a4)
   a4Ref.current = a4
+  const stringsRef = useRef(strings)
+  stringsRef.current = strings
+  const stabilizerRef = useRef(new PitchStabilizer())
+
+  useEffect(() => { stabilizerRef.current.reset(); setReading(null) }, [instrumentId, tuningId])
+
+  function changeInstrument(nextId) {
+    const next = INSTRUMENTS.find((i) => i.id === nextId)
+    setInstrumentId(nextId)
+    setTuningId(next.tunings[0].id)
+  }
+
   const appliedSavedA4 = useRef(false)
   useEffect(() => {
     if (appliedSavedA4.current) return
@@ -49,16 +72,20 @@ export default function Tuner() {
   const audioCtxRef = useRef(null)
   const streamRef = useRef(null)
   const analyserRef = useRef(null)
-  const rafRef = useRef(null)
+  const intervalRef = useRef(null)
   const bufferRef = useRef(new Float32Array(FFT_SIZE))
 
+  // setInterval em vez de requestAnimationFrame de propósito: rAF é
+  // pausado pelo navegador quando a aba perde o foco/visibilidade (troca
+  // de aba, minimizar) — um afinador que trava nessa hora é pior que um
+  // metrônomo que trava, já que quem está afinando costuma olhar pra
+  // outro app (ex.: um afinador de referência) enquanto ajusta a corda.
   function tick() {
     const analyser = analyserRef.current
     if (!analyser) return
     analyser.getFloatTimeDomainData(bufferRef.current)
     const freq = detectPitch(bufferRef.current, audioCtxRef.current.sampleRate)
-    setReading(freq ? freqToNote(freq, a4Ref.current) : null)
-    rafRef.current = requestAnimationFrame(tick)
+    setReading(stabilizerRef.current.push(freq, stringsRef.current, a4Ref.current))
   }
 
   async function start() {
@@ -78,8 +105,9 @@ export default function Tuner() {
       analyser.fftSize = FFT_SIZE
       source.connect(analyser)
       analyserRef.current = analyser
+      stabilizerRef.current.reset()
       setListening(true)
-      rafRef.current = requestAnimationFrame(tick)
+      intervalRef.current = setInterval(tick, ANALYSIS_INTERVAL_MS)
     } catch (err) {
       setError(err.name === 'NotAllowedError' ? 'permissionDenied'
         : err.name === 'NotFoundError' ? 'noDevice' : 'genericError')
@@ -87,14 +115,15 @@ export default function Tuner() {
   }
 
   function stop() {
-    cancelAnimationFrame(rafRef.current)
-    rafRef.current = null
+    clearInterval(intervalRef.current)
+    intervalRef.current = null
     analyserRef.current = null
     streamRef.current?.getTracks().forEach((tr) => tr.stop())
     streamRef.current = null
     if (audioCtxRef.current) { audioCtxRef.current.close(); audioCtxRef.current = null }
     setListening(false)
     setReading(null)
+    stabilizerRef.current.reset()
   }
 
   useEffect(() => () => stop(), [])
@@ -110,13 +139,44 @@ export default function Tuner() {
   const clampedCents = Math.max(-50, Math.min(50, cents))
   const statusLabel = !reading ? t('waitingSignal') : inTune ? t('inTune') : cents < 0 ? t('tooLow') : t('tooHigh')
   const statusColor = !reading ? 'var(--muted)' : inTune ? 'var(--ok, #46c48a)' : 'var(--accent)'
+  const activeStringFreq = reading?.targetFreq ?? null
 
   return (
     <>
       <h1 className="page-title">{t('title')}</h1>
       <div className="page-sub">{t('subtitle')}</div>
 
-      <div className="card" style={{ maxWidth: 420 }}>
+      <div className="card" style={{ maxWidth: 460 }}>
+        <div className="row" style={{ gap: 10, marginBottom: 14 }}>
+          <div className="field" style={{ flex: 1, marginBottom: 0 }}>
+            <label>{t('instrument')}</label>
+            <select className="input" value={instrumentId} onChange={(e) => changeInstrument(e.target.value)}>
+              {INSTRUMENTS.map((i) => <option key={i.id} value={i.id}>{t(i.labelKey)}</option>)}
+            </select>
+          </div>
+          <div className="field" style={{ flex: 1, marginBottom: 0 }}>
+            <label>{t('tuning')}</label>
+            <select className="input" value={tuningId} onChange={(e) => setTuningId(e.target.value)}>
+              {instrument.tunings.map((tu) => <option key={tu.id} value={tu.id}>{t(tu.labelKey)}</option>)}
+            </select>
+          </div>
+        </div>
+
+        {strings && (
+          <div className="row" style={{ gap: 6, marginBottom: 16, justifyContent: 'center' }}>
+            {strings.map((str) => {
+              const active = activeStringFreq != null && Math.abs(str.freq - activeStringFreq) < 0.01
+              return (
+                <span key={`${str.note}${str.octave}`} className="chip" style={active ? {
+                  background: 'var(--accent)', color: 'var(--accent-ink)',
+                } : undefined}>
+                  {str.note}{str.octave}
+                </span>
+              )
+            })}
+          </div>
+        )}
+
         {error ? (
           <div style={{ textAlign: 'center' }}>
             <p style={{ color: 'var(--danger, #ef5a5f)', marginBottom: 14 }}>{t(error)}</p>
@@ -134,7 +194,7 @@ export default function Tuner() {
               </div>
               <div style={{ color: statusColor, fontWeight: 600, marginTop: 6 }}>{statusLabel}</div>
               <div style={{ color: 'var(--muted)', fontSize: 12.5, marginTop: 2 }}>
-                {reading ? `${reading.freq.toFixed(1)} Hz` : ' '}
+                {reading?.targetFreq ? `${reading.targetFreq.toFixed(1)} Hz` : ' '}
               </div>
             </div>
 

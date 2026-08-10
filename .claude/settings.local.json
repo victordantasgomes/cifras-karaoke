@@ -82,7 +82,9 @@
       "Bash(cd \"/c/Users/victo/OneDrive/Área de Trabalho/WORKSPACE/cifras-karaoke\" && ./env/Scripts/python.exe -m pytest backend/tests/test_admin_stats_service.py -v --no-cov 2>&1 | tail -30)",
       "Bash(./env/Scripts/python.exe -m pytest backend/tests/test_billing_service.py -v --no-cov)",
       "Bash(cd \"/c/Users/victo/OneDrive/Área de Trabalho/WORKSPACE/cifras-karaoke/backend\" && grep \"^STRIPE_\" .env | sed -E 's/\\(=.{7}\\).*/\\\\1.../')",
-      "Bash(cd \"/c/Users/victo/OneDrive/Área de Trabalho/WORKSPACE/cifras-karaoke/backend\" && ls -la .env && echo \"---\" && grep \"^STRIPE_\" .env | sed -E 's/\\(=.{10}\\).*/\\\\1.../')"
+      "Bash(cd \"/c/Users/victo/OneDrive/Área de Trabalho/WORKSPACE/cifras-karaoke/backend\" && ls -la .env && echo \"---\" && grep \"^STRIPE_\" .env | sed -E 's/\\(=.{10}\\).*/\\\\1.../')",
+      "Bash(cd \"/c/Users/victo/OneDrive/Área de Trabalho/WORKSPACE/cifras-karaoke/frontend\" && npx vite build 2>&1 | tail -40)",
+      "Bash(cd \"/c/Users/victo/OneDrive/Área de Trabalho/WORKSPACE/cifras-karaoke/frontend\" && npx vite build 2>&1 | tail -30)"
     ]
   }
 }

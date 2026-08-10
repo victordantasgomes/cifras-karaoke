@@ -8,6 +8,26 @@
   "tooLow": "Troppo basso",
   "tooHigh": "Troppo alto",
   "a4Label": "Riferimento (A4)",
+  "instrument": "Strumento",
+  "tuning": "Accordatura",
+  "instruments": {
+    "guitar": "Chitarra",
+    "bass": "Basso",
+    "ukulele": "Ukulele",
+    "violin": "Violino",
+    "chromatic": "Cromatico"
+  },
+  "tunings": {
+    "guitarStandard": "Standard (E A D G B E)",
+    "guitarDropD": "Drop D",
+    "guitarHalfStepDown": "Un semitono sotto",
+    "bass4": "4 corde",
+    "bass5": "5 corde",
+    "bass6": "6 corde",
+    "ukuleleStandard": "Standard (G C E A)",
+    "violinStandard": "Standard (G D A E)",
+    "chromatic": "Cromatico"
+  },
   "permissionDenied": "Permesso del microfono negato. Autorizza l'accesso al microfono nelle impostazioni del browser e riprova.",
   "noDevice": "Nessun microfono trovato su questo dispositivo.",
   "genericError": "Impossibile accedere al microfono.",

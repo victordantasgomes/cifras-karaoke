@@ -8,6 +8,26 @@
   "tooLow": "Слишком низко",
   "tooHigh": "Слишком высоко",
   "a4Label": "Эталон (A4)",
+  "instrument": "Инструмент",
+  "tuning": "Строй",
+  "instruments": {
+    "guitar": "Гитара",
+    "bass": "Бас-гитара",
+    "ukulele": "Укулеле",
+    "violin": "Скрипка",
+    "chromatic": "Хроматический"
+  },
+  "tunings": {
+    "guitarStandard": "Стандартный (E A D G B E)",
+    "guitarDropD": "Drop D",
+    "guitarHalfStepDown": "На полтона ниже",
+    "bass4": "4 струны",
+    "bass5": "5 струн",
+    "bass6": "6 струн",
+    "ukuleleStandard": "Стандартный (G C E A)",
+    "violinStandard": "Стандартный (G D A E)",
+    "chromatic": "Хроматический"
+  },
   "permissionDenied": "Доступ к микрофону запрещён. Разрешите доступ к микрофону в настройках браузера и попробуйте снова.",
   "noDevice": "На этом устройстве не найден микрофон.",
   "genericError": "Не удалось получить доступ к микрофону.",

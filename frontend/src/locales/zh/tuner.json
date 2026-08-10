@@ -8,6 +8,26 @@
   "tooLow": "偏低",
   "tooHigh": "偏高",
   "a4Label": "基准音 (A4)",
+  "instrument": "乐器",
+  "tuning": "调弦",
+  "instruments": {
+    "guitar": "吉他",
+    "bass": "贝斯",
+    "ukulele": "尤克里里",
+    "violin": "小提琴",
+    "chromatic": "半音阶"
+  },
+  "tunings": {
+    "guitarStandard": "标准 (E A D G B E)",
+    "guitarDropD": "Drop D",
+    "guitarHalfStepDown": "降半音",
+    "bass4": "4 弦",
+    "bass5": "5 弦",
+    "bass6": "6 弦",
+    "ukuleleStandard": "标准 (G C E A)",
+    "violinStandard": "标准 (G D A E)",
+    "chromatic": "半音阶"
+  },
   "permissionDenied": "麦克风权限被拒绝。请在浏览器设置中允许访问麦克风，然后重试。",
   "noDevice": "未在此设备上找到麦克风。",
   "genericError": "无法访问麦克风。",

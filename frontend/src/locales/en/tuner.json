@@ -8,6 +8,26 @@
   "tooLow": "Too low",
   "tooHigh": "Too high",
   "a4Label": "Reference (A4)",
+  "instrument": "Instrument",
+  "tuning": "Tuning",
+  "instruments": {
+    "guitar": "Guitar",
+    "bass": "Bass",
+    "ukulele": "Ukulele",
+    "violin": "Violin",
+    "chromatic": "Chromatic"
+  },
+  "tunings": {
+    "guitarStandard": "Standard (E A D G B E)",
+    "guitarDropD": "Drop D",
+    "guitarHalfStepDown": "Half step down",
+    "bass4": "4 strings",
+    "bass5": "5 strings",
+    "bass6": "6 strings",
+    "ukuleleStandard": "Standard (G C E A)",
+    "violinStandard": "Standard (G D A E)",
+    "chromatic": "Chromatic"
+  },
   "permissionDenied": "Microphone access denied. Allow microphone access in your browser settings and try again.",
   "noDevice": "No microphone found on this device.",
   "genericError": "Could not access the microphone.",
