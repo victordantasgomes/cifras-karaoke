@@ -100,6 +100,19 @@ def test_pestana_nunca_atropela_uma_casa_pressionada_menor(dic, instrumento):
                 )
 
 
+@pytest.mark.parametrize("instrumento", ["violao", "ukulele"])
+def test_nenhum_acorde_exige_mais_de_4_dedos(dic, instrumento):
+    """Regressão: uma mão tem 4 dedos de trastear — se uma digitação
+    precisar de mais posições simultâneas que isso (mesmo sem repetir
+    dedo em casas diferentes), ela não é tocável como está."""
+    page = dic.list(instrumento=instrumento, page_size=2000)
+    for item in page["items"]:
+        dedos_usados = {d for d in item["dedos"] if d}
+        assert not dedos_usados or max(dedos_usados) <= 4, (
+            f"{item['id']}: precisa do dedo {max(dedos_usados)}"
+        )
+
+
 def test_f_sustenido_pestana_corrigida(dic):
     item = dic.get("violao-F#-1")
     assert item["casas"] == [2, 1, None, 3, 2, 2]
