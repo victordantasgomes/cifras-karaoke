@@ -73,12 +73,39 @@ def test_dedos_nunca_repete_um_dedo_em_casas_diferentes(dic, instrumento):
             )
 
 
+@pytest.mark.parametrize("instrumento", ["violao", "ukulele"])
+def test_pestana_nunca_atropela_uma_casa_pressionada_menor(dic, instrumento):
+    """Regressão: uma pestana (mesmo dedo em 2+ cordas na MESMA casa)
+    bloqueia fisicamente qualquer acesso a uma casa mais baixa em QUALQUER
+    corda entre a mais grave e a mais aguda que ela cobre — um dedo "antes"
+    da pestana (casa menor, dentro do alcance dela) é fisicamente
+    impossível, só depois (casa igual ou maior) faz sentido."""
+    page = dic.list(instrumento=instrumento, page_size=2000)
+    for item in page["items"]:
+        cordas_por_dedo = {}
+        for i, dedo in enumerate(item["dedos"]):
+            if dedo:
+                cordas_por_dedo.setdefault(dedo, []).append(i)
+        for dedo, idxs in cordas_por_dedo.items():
+            if len(idxs) < 2:
+                continue
+            lo, hi = min(idxs), max(idxs)
+            pestana_casa = item["casas"][idxs[0]]
+            for i in range(lo, hi + 1):
+                casa = item["casas"][i]
+                assert not (casa and casa < pestana_casa), (
+                    f"{item['id']}: pestana do dedo {dedo} na casa {pestana_casa} "
+                    f"(cordas {lo + 1} a {hi + 1}) atropela a corda {i + 1}, que "
+                    f"precisa da casa {casa}"
+                )
+
+
 def test_f_sustenido_pestana_corrigida(dic):
     item = dic.get("violao-F#-1")
     assert item["casas"] == [2, 1, None, 3, 2, 2]
-    assert item["dedos"] == [2, 1, None, 3, 2, 2]
+    assert item["dedos"] == [2, 1, None, 4, 3, 3]
     assert item["pestana"]["tem"] is True
-    assert item["pestana"]["detalhe"] == "dedo 2 na casa 2, cordas 1 a 6"
+    assert item["pestana"]["detalhe"] == "dedo 3 na casa 2, cordas 5 a 6"
 
 
 def test_piano_row_parses_notas_e_inversao(dic):
