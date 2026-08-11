@@ -131,13 +131,16 @@
   },
   "normalizeLibrary": {
     "title": "Normalizar todo o acervo",
-    "description": "Padroniza cabeçalho, notação de acordes e rótulos de secção de toda a biblioteca, música a música — processa em lotes pequenos diretamente a partir do navegador (sem fila em segundo plano no servidor), pelo que pode demorar algum tempo. É possível parar e continuar depois: o progresso não se perde.",
+    "description": "Padroniza cabeçalho, notação de acordes, rótulos de secção e o nome da música (corrige CAIXA ALTA e hífens herdados do nome de ficheiro) de toda a biblioteca, música a música — processa em lotes pequenos diretamente do navegador (sem fila em segundo plano no servidor), por isso pode demorar. Dá para parar e continuar depois: o progresso não se perde.",
     "allNormalized": "Todo o acervo está normalizado.",
     "remainingOfTotal_one": "{{count}} música restante de {{total}}",
     "remainingOfTotal_other": "{{count}} músicas restantes de {{total}}",
     "start": "Iniciar",
     "stop": "Parar",
-    "error": "Falha ao normalizar em lote."
+    "error": "Falha ao normalizar em lote.",
+    "reprocessAll": "Reprocessar tudo de novo",
+    "reprocessing": "A reabrir a fila…",
+    "reprocessAllConfirm": "Isto marca as músicas já normalizadas para passarem de novo pela normalização (útil quando a regra de padronização do nome muda). Reprocessar a biblioteca inteira pode demorar bastante. Continuar?"
   },
   "storageRecompute": {
     "title": "Recalcular o tamanho dos ficheiros de áudio",

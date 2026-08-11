@@ -131,13 +131,16 @@
   },
   "normalizeLibrary": {
     "title": "Normalize the entire library",
-    "description": "Standardizes header, chord notation, and section labels across the whole library, song by song — it processes in small batches directly from the browser (no background queue on the server), so it may take a while. You can stop and resume later: progress isn't lost.",
+    "description": "Standardizes header, chord notation, section labels, and the song name (fixes ALL CAPS and filename-inherited hyphens) across the whole library, song by song — processes in small batches straight from the browser (no background queue on the server), so it can take a while. You can stop and continue later: progress isn't lost.",
     "allNormalized": "The entire library is normalized.",
     "remainingOfTotal_one": "{{count}} song remaining out of {{total}}",
     "remainingOfTotal_other": "{{count}} songs remaining out of {{total}}",
     "start": "Start",
     "stop": "Stop",
-    "error": "Batch normalization failed."
+    "error": "Batch normalization failed.",
+    "reprocessAll": "Reprocess everything again",
+    "reprocessing": "Reopening queue…",
+    "reprocessAllConfirm": "This marks already-normalized songs to go through normalization again (useful when the name-cleanup rule changes). Reprocessing the whole library can take a while. Continue?"
   },
   "storageRecompute": {
     "title": "Recalculate audio file sizes",

@@ -1,5 +1,5 @@
 from utils.song_normalizer import normalize_song
-from utils.song_title import apply_edited_suffix, apply_original_suffix, strip_title_suffix
+from utils.song_title import apply_edited_suffix, apply_original_suffix, clean_title, strip_title_suffix
 
 
 def test_normalize_fills_missing_header_fields():
@@ -70,6 +70,25 @@ def test_normalize_leaves_unknown_labels_untouched():
     assert body.splitlines()[0] == "[Riff 1]"
 
 
+def test_normalize_cleans_slug_style_title_before_suffix():
+    # título herdado de nome de arquivo (import antigo) — minúsculo,
+    # hífen separando palavra por palavra.
+    header, _ = normalize_song({"titulo": "a-alegria", "intérprete": "Zeca Pagodinho"}, "corpo")
+    assert header["titulo"] == "A Alegria - Zeca Pagodinho - cifra original"
+
+
+def test_normalize_cleans_all_caps_title_before_suffix():
+    header, _ = normalize_song({"titulo": "A DESCONHECIDA", "intérprete": "Zeca Pagodinho"}, "corpo")
+    assert header["titulo"] == "A Desconhecida - Zeca Pagodinho - cifra original"
+
+
+def test_normalize_reruns_cleanly_on_already_normalized_title():
+    # renormalizar não deve tentar limpar o sufixo em si nem duplicar nada.
+    header, _ = normalize_song({"titulo": "a-alegria", "intérprete": "Zeca Pagodinho"}, "corpo")
+    header2, _ = normalize_song(header, "corpo")
+    assert header2["titulo"] == "A Alegria - Zeca Pagodinho - cifra original"
+
+
 # ---------- utils/song_title.py ----------
 
 def test_strip_title_suffix_removes_original():
@@ -95,3 +114,42 @@ def test_apply_edited_suffix_replaces_original():
     original = apply_original_suffix("Trem Bala", "Ana Vilela")
     edited = apply_edited_suffix(original, "Ana Vilela", "Victor")
     assert edited == "Trem Bala - Ana Vilela - cifra editada por: Victor"
+
+
+def test_clean_title_converts_lowercase_slug_to_title_case():
+    assert clean_title("a-alegria") == "A Alegria"
+
+
+def test_clean_title_converts_all_caps_to_title_case():
+    assert clean_title("A DESCONHECIDA") == "A Desconhecida"
+    assert clean_title("BORBOLETAS") == "Borboletas"
+
+
+def test_clean_title_lowercases_connector_words_except_first():
+    assert clean_title("o-vento-e-o-mar") == "O Vento e o Mar"
+
+
+def test_clean_title_preserves_parenthetical_version_marker():
+    assert clean_title("abre-o-coracao(versão 2)") == "Abre o Coracao (Versão 2)"
+
+
+def test_clean_title_preserves_numeric_reference():
+    # não dá pra recuperar acento/pontuação já perdidos na importação
+    # original — só deixa o resultado legível (hífen vira espaço, palavras
+    # capitalizadas), não tenta "adivinhar" "Timóteo 3:16" de volta.
+    assert clean_title("1-timoteo-3-16") == "1 Timoteo 3 16"
+
+
+def test_clean_title_leaves_mixed_case_title_untouched():
+    assert clean_title("Bohemian Rhapsody") == "Bohemian Rhapsody"
+
+
+def test_clean_title_leaves_empty_title_untouched():
+    assert clean_title("") == ""
+    assert clean_title(None) == ""
+
+
+def test_clean_title_is_idempotent():
+    once = clean_title("a-alegria")
+    twice = clean_title(once)
+    assert once == twice == "A Alegria"

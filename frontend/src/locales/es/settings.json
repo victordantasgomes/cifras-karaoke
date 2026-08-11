@@ -131,13 +131,16 @@
   },
   "normalizeLibrary": {
     "title": "Normalizar todo el acervo",
-    "description": "Estandariza encabezado, notación de acordes y etiquetas de sección de toda la biblioteca, canción por canción — procesa en lotes pequeños directamente desde el navegador (sin cola en segundo plano en el servidor), así que puede tardar un tiempo. Se puede detener y continuar después: el progreso no se pierde.",
+    "description": "Estandariza encabezado, notación de acordes, etiquetas de sección y el nombre de la canción (corrige MAYÚSCULAS y guiones heredados del nombre de archivo) de toda la biblioteca, canción por canción — procesa en lotes pequeños directo desde el navegador (sin cola en segundo plano en el servidor), así que puede tardar. Se puede detener y continuar después: el progreso no se pierde.",
     "allNormalized": "Todo el acervo está normalizado.",
     "remainingOfTotal_one": "{{count}} canción restante de {{total}}",
     "remainingOfTotal_other": "{{count}} canciones restantes de {{total}}",
     "start": "Iniciar",
     "stop": "Detener",
-    "error": "Error al normalizar en lote."
+    "error": "Error al normalizar en lote.",
+    "reprocessAll": "Reprocesar todo de nuevo",
+    "reprocessing": "Reabriendo cola…",
+    "reprocessAllConfirm": "Esto marca las canciones ya normalizadas para que pasen de nuevo por la normalización (útil cuando cambia la regla de estandarización del nombre). Reprocesar toda la biblioteca puede tardar bastante. ¿Continuar?"
   },
   "storageRecompute": {
     "title": "Recalcular el tamaño de los archivos de audio",

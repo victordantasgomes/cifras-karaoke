@@ -131,13 +131,16 @@
   },
   "normalizeLibrary": {
     "title": "Gesamte Bibliothek normalisieren",
-    "description": "Vereinheitlicht Kopfzeile, Akkordnotation und Abschnittsbezeichnungen der gesamten Bibliothek, Song für Song — verarbeitet in kleinen Stapeln direkt im Browser (keine Hintergrundwarteschlange auf dem Server), daher kann es eine Weile dauern. Du kannst anhalten und später fortsetzen: der Fortschritt geht nicht verloren.",
+    "description": "Vereinheitlicht Kopfzeile, Akkordnotation, Abschnittsbezeichnungen und den Songnamen (korrigiert GROSSSCHREIBUNG und vom Dateinamen geerbte Bindestriche) in der gesamten Bibliothek, Song für Song — verarbeitet in kleinen Stößen direkt aus dem Browser (keine Hintergrund-Warteschlange auf dem Server), kann also eine Weile dauern. Du kannst stoppen und später fortsetzen: der Fortschritt geht nicht verloren.",
     "allNormalized": "Die gesamte Bibliothek ist normalisiert.",
     "remainingOfTotal_one": "{{count}} Song verbleibend von {{total}}",
     "remainingOfTotal_other": "{{count}} Songs verbleibend von {{total}}",
     "start": "Starten",
     "stop": "Stoppen",
-    "error": "Stapelnormalisierung fehlgeschlagen."
+    "error": "Stapelnormalisierung fehlgeschlagen.",
+    "reprocessAll": "Alles erneut verarbeiten",
+    "reprocessing": "Warteschlange wird geöffnet…",
+    "reprocessAllConfirm": "Dadurch werden bereits normalisierte Songs erneut zur Normalisierung markiert (nützlich, wenn sich die Regel zur Namensbereinigung ändert). Das erneute Verarbeiten der gesamten Bibliothek kann eine Weile dauern. Fortfahren?"
   },
   "storageRecompute": {
     "title": "Größe der Audiodateien neu berechnen",

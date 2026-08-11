@@ -131,13 +131,16 @@
   },
   "normalizeLibrary": {
     "title": "Normaliser toute la bibliothèque",
-    "description": "Uniformise l'en-tête, la notation des accords et les libellés de section de toute la bibliothèque, chanson par chanson — le traitement se fait par petits lots directement depuis le navigateur (pas de file d'attente en arrière-plan sur le serveur), ce qui peut donc prendre du temps. Vous pouvez arrêter et reprendre plus tard : la progression n'est pas perdue.",
+    "description": "Normalise l'entête, la notation des accords, les libellés de section et le nom du titre (corrige les MAJUSCULES et les tirets hérités du nom de fichier) de toute la bibliothèque, titre par titre — traite par petits lots directement depuis le navigateur (pas de file d'attente en arrière-plan sur le serveur), ce qui peut prendre du temps. Vous pouvez arrêter et reprendre plus tard : la progression n'est pas perdue.",
     "allNormalized": "Toute la bibliothèque est normalisée.",
     "remainingOfTotal_one": "{{count}} chanson restante sur {{total}}",
     "remainingOfTotal_other": "{{count}} chansons restantes sur {{total}}",
     "start": "Démarrer",
     "stop": "Arrêter",
-    "error": "Échec de la normalisation par lot."
+    "error": "Échec de la normalisation par lot.",
+    "reprocessAll": "Tout retraiter",
+    "reprocessing": "Réouverture de la file…",
+    "reprocessAllConfirm": "Cela marque les titres déjà normalisés pour qu'ils repassent par la normalisation (utile quand la règle de nettoyage du nom change). Retraiter toute la bibliothèque peut prendre du temps. Continuer ?"
   },
   "storageRecompute": {
     "title": "Recalculer la taille des fichiers audio",

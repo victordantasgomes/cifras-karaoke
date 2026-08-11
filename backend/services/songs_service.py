@@ -24,7 +24,7 @@ import db
 from utils.parser import HEADER_FIELDS, parse_song
 from utils.slug import slugify
 from utils.song_normalizer import normalize_song
-from utils.song_title import apply_edited_suffix
+from utils.song_title import apply_edited_suffix, strip_title_suffix
 from utils.transpose import semitones_between, transpose_body
 
 _SONG_COLUMNS = (
@@ -161,7 +161,11 @@ class SongsService:
             song.header.setdefault(f, "")
 
         denorm = _denormalize(song.header)
-        base_slug = slugify(genre, song.header["intérprete"], song.header["titulo"]) or slugify(title)
+        # strip_title_suffix: título já normalizado vem com "- intérprete -
+        # cifra original" embutido (ver song_normalizer.py) — sem isso o
+        # slug duplicava o intérprete e ganhava "cifra"/"original" como
+        # segmentos soltos (ex.: "pop--coldplay--yellow---coldplay---cifra-original").
+        base_slug = slugify(genre, song.header["intérprete"], strip_title_suffix(song.header["titulo"])) or slugify(title)
         with db.get_pool().connection() as conn:
             shared = _share_by_default(conn, user_id)
             slug = _unique_slug(conn, base_slug)
@@ -200,7 +204,7 @@ class SongsService:
                 "insert into song_versions (song_id, header, body) values (%s, %s, %s)",
                 (row["id"], Json(row["header"]), row["body"]),
             )
-            base_slug = slugify(row["genero"], full_header.get("intérprete", ""), full_header.get("titulo", "")) or row["slug"]
+            base_slug = slugify(row["genero"], full_header.get("intérprete", ""), strip_title_suffix(full_header.get("titulo", ""))) or row["slug"]
             new_slug = _unique_slug(conn, base_slug, exclude_id=row["id"])
             new_row = conn.execute(
                 f"""update songs set slug=%(slug)s, titulo=%(titulo)s, autor=%(autor)s,
@@ -225,7 +229,7 @@ class SongsService:
             full_header.get("titulo", ""), full_header.get("intérprete", ""), editor_name,
         )
         denorm = _denormalize(full_header)
-        base_slug = slugify(row["genero"], full_header.get("intérprete", ""), full_header["titulo"]) or row["slug"]
+        base_slug = slugify(row["genero"], full_header.get("intérprete", ""), strip_title_suffix(full_header["titulo"])) or row["slug"]
 
         with db.get_pool().connection() as conn:
             # a cópia segue a preferência de compartilhamento de QUEM EDITOU
@@ -342,6 +346,19 @@ class SongsService:
         with db.get_pool().connection() as conn:
             row = conn.execute("select count(*) as remaining from songs where normalizada = false").fetchone()
         return {"remaining": row["remaining"]}
+
+    def reset_normalization(self) -> dict:
+        """Marca a biblioteca INTEIRA como não-normalizada de novo — usado só
+        quando a própria lógica de normalize_song muda (ex.: limpeza de
+        título/slug nova) depois que o acervo já tinha passado pelo
+        normalize_batch da versão antiga: o filtro `normalizada = false` de
+        normalize_batch não pegaria mais essas músicas já marcadas, mesmo
+        elas nunca tendo passado pela regra nova. Não apaga nem sobrescreve
+        nenhum dado — só reabre a fila; normalize_batch (idempotente) cuida
+        do resto."""
+        with db.get_pool().connection() as conn:
+            conn.execute("update songs set normalizada = false")
+        return self.normalize_status()
 
     def normalize_batch(self, limit: int = 50) -> dict:
         """Normaliza até `limit` músicas ainda não-normalizadas (índice

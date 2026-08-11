@@ -128,12 +128,15 @@
   },
   "normalizeLibrary": {
     "title": "Normalizar todo o acervo",
-    "description": "Padroniza cabeçalho, notação de acordes e rótulos de seção de toda a biblioteca, música por música — processa em lotes pequenos direto do navegador (sem fila em segundo plano no servidor), então pode levar um tempo. Dá para parar e continuar depois: o progresso não se perde.",
+    "description": "Padroniza cabeçalho, notação de acordes, rótulos de seção e o nome da música (corrige CAIXA ALTA e hífens herdados de nome de arquivo) de toda a biblioteca, música por música — processa em lotes pequenos direto do navegador (sem fila em segundo plano no servidor), então pode levar um tempo. Dá para parar e continuar depois: o progresso não se perde.",
     "allNormalized": "Todo o acervo está normalizado.",
     "remainingOfTotal_one": "{{count}} música restante de {{total}}",
     "remainingOfTotal_other": "{{count}} músicas restantes de {{total}}",
     "start": "Iniciar",
     "stop": "Parar",
+    "reprocessAll": "Reprocessar tudo de novo",
+    "reprocessing": "Reabrindo fila…",
+    "reprocessAllConfirm": "Isso marca as músicas já normalizadas pra passar de novo pela normalização (útil quando a regra de padronização do nome muda). Pode levar um bom tempo pra processar o acervo inteiro de novo. Continuar?",
     "error": "Falha ao normalizar em lote."
   },
   "storageRecompute": {

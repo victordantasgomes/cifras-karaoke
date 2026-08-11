@@ -283,6 +283,15 @@ def build_blueprint(ctx) -> Blueprint:
         limit = min(max(int(d.get("limit", 50)), 1), 200)
         return jsonify(ctx.songs.normalize_batch(limit=limit))
 
+    # Reabre a fila do normalize_batch pra todo o acervo — pra quando a regra
+    # de normalização muda (ex.: limpeza de título/nome de arquivo) e o
+    # acervo já tinha rodado a versão antiga, então "normalizada=true" não
+    # reflete mais a regra atual.
+    @api.post("/admin/songs/normalize-reset")
+    @ctx.require_admin
+    def admin_normalize_reset():
+        return jsonify(ctx.songs.reset_normalization())
+
     @api.get("/admin/storage/recompute-status")
     @ctx.require_admin
     def admin_storage_recompute_status():

@@ -105,7 +105,10 @@ def test_normalize_creates_history_version(ctx):
     songs, _, _ = ctx
     entry = _create(songs)
     songs.normalize("u1", entry["slug"])
-    song_id = songs.get_id("u1", "pop--coldplay--yellow---coldplay---cifra-original")
+    # o slug ignora o sufixo "- intérprete - cifra original" do título
+    # normalizado (ver strip_title_suffix em songs_service.py) — senão
+    # duplicava o intérprete e ganhava "cifra"/"original" como segmentos.
+    song_id = songs.get_id("u1", "pop--coldplay--yellow")
     with db.get_pool().connection() as conn:
         version = conn.execute(
             "select header from song_versions where song_id=%s", (song_id,),
@@ -143,6 +146,15 @@ def test_orphaned_setlist_is_manageable_by_anyone(ctx, other_user_id):
         setlists.get(other_user_id, created["id"])
 
 
+def test_normalize_slug_excludes_suffix_and_interprete_is_not_duplicated(ctx):
+    songs, _, _ = ctx
+    entry = _create(songs)
+    result = songs.normalize("u1", entry["slug"])
+    assert result["slug"] == "pop--coldplay--yellow"
+    assert "cifra" not in result["slug"]
+    assert result["slug"].count("coldplay") == 1
+
+
 def test_normalize_status_counts_pending(ctx):
     songs, _, _ = ctx
     _create(songs, title="Um")
@@ -165,6 +177,28 @@ def test_normalize_batch_ignores_already_normalized(ctx):
     songs.normalize("u1", entry["slug"])
     result = songs.normalize_batch(limit=50)
     assert result == {"processed": 0, "remaining": 0}
+
+
+def test_reset_normalization_reopens_the_queue(ctx):
+    songs, _, _ = ctx
+    entry = _create(songs)
+    songs.normalize("u1", entry["slug"])
+    assert songs.normalize_status() == {"remaining": 0}
+    result = songs.reset_normalization()
+    assert result == {"remaining": 1}
+    assert songs.normalize_status() == {"remaining": 1}
+
+
+def test_normalize_batch_after_reset_reruns_the_new_rule(ctx):
+    # simula a regra de limpeza de título/slug tendo mudado DEPOIS que a
+    # música já tinha passado por normalize_batch uma vez.
+    songs, _, _ = ctx
+    _create(songs, title="minha-musica-em-slug")
+    songs.normalize_batch(limit=50)
+    songs.reset_normalization()
+    result = songs.normalize_batch(limit=50)
+    assert result["processed"] == 1
+    assert result["remaining"] == 0
 
 
 def test_normalize_batch_is_resumable(ctx):

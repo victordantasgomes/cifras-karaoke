@@ -651,6 +651,12 @@ function NormalizeLibraryCard() {
   }
   const stop = () => { stopRef.current = true }
 
+  const reprocessAll = useMutation({
+    mutationFn: () => api.post('/admin/songs/normalize-reset'),
+    onSuccess: (r) => { setTotal(r.data.remaining); setRemaining(r.data.remaining); setError('') },
+    onError: (e) => setError(e.response?.data?.error || t('normalizeLibrary.error')),
+  })
+
   const percent = total ? Math.round(((total - (remaining ?? total)) / total) * 100) : 0
 
   return (
@@ -675,6 +681,12 @@ function NormalizeLibraryCard() {
           <button className="btn danger" onClick={stop}>{t('normalizeLibrary.stop')}</button>
         ) : (
           <button className="btn primary" disabled={remaining === 0} onClick={start}>{t('normalizeLibrary.start')}</button>
+        )}
+        {!running && remaining === 0 && (
+          <button className="btn" disabled={reprocessAll.isPending}
+            onClick={() => { if (window.confirm(t('normalizeLibrary.reprocessAllConfirm'))) reprocessAll.mutate() }}>
+            {reprocessAll.isPending ? t('normalizeLibrary.reprocessing') : t('normalizeLibrary.reprocessAll')}
+          </button>
         )}
       </div>
     </div>

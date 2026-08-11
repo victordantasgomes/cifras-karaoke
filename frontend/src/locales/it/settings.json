@@ -131,13 +131,16 @@
   },
   "normalizeLibrary": {
     "title": "Normalizza tutto l'archivio",
-    "description": "Uniforma intestazione, notazione degli accordi ed etichette di sezione di tutta la libreria, brano per brano — elabora in piccoli lotti direttamente dal browser (nessuna coda in background sul server), quindi può richiedere del tempo. Puoi fermarti e continuare più tardi: il progresso non va perso.",
+    "description": "Standardizza intestazione, notazione degli accordi, etichette di sezione e il nome del brano (corregge MAIUSCOLO e trattini ereditati dal nome del file) di tutta la libreria, brano per brano — elabora in piccoli lotti direttamente dal browser (senza coda in background sul server), quindi può richiedere tempo. Puoi fermare e continuare dopo: il progresso non si perde.",
     "allNormalized": "Tutto l'archivio è normalizzato.",
     "remainingOfTotal_one": "{{count}} brano rimanente su {{total}}",
     "remainingOfTotal_other": "{{count}} brani rimanenti su {{total}}",
     "start": "Avvia",
     "stop": "Ferma",
-    "error": "Normalizzazione in lotti non riuscita."
+    "error": "Normalizzazione in lotti non riuscita.",
+    "reprocessAll": "Rielabora tutto di nuovo",
+    "reprocessing": "Riapertura della coda…",
+    "reprocessAllConfirm": "Questo segna i brani già normalizzati per passare di nuovo dalla normalizzazione (utile quando cambia la regola di pulizia del nome). Rielaborare tutta la libreria può richiedere tempo. Continuare?"
   },
   "storageRecompute": {
     "title": "Ricalcola la dimensione dei file audio",

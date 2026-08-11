@@ -131,13 +131,16 @@
   },
   "normalizeLibrary": {
     "title": "规范化整个曲库",
-    "description": "逐首统一整个曲库的表头、和弦记谱法和段落标签——直接在浏览器中分批处理（服务器上没有后台队列），因此可能需要一些时间。可以随时停止并稍后继续：进度不会丢失。",
+    "description": "对整个曲库逐首歌曲统一标题、和弦表示、段落标签以及歌曲名称（修复全大写和从文件名继承下来的连字符）——直接在浏览器中分小批处理（服务器上没有后台队列），因此可能需要一段时间。可以停止并稍后继续：进度不会丢失。",
     "allNormalized": "整个曲库已完成规范化。",
     "remainingOfTotal_one": "还剩 {{count}} 首歌曲，共 {{total}} 首",
     "remainingOfTotal_other": "还剩 {{count}} 首歌曲，共 {{total}} 首",
     "start": "开始",
     "stop": "停止",
-    "error": "批量规范化失败。"
+    "error": "批量规范化失败。",
+    "reprocessAll": "全部重新处理",
+    "reprocessing": "正在重新打开队列…",
+    "reprocessAllConfirm": "这会将已规范化的歌曲标记为需要再次规范化（当名称清理规则变化时很有用）。重新处理整个曲库可能需要一段时间。继续吗？"
   },
   "storageRecompute": {
     "title": "重新计算音频文件大小",
