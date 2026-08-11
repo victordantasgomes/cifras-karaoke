@@ -55,8 +55,8 @@
     },
     "vocalLanguages": "Lingue in cui il/la cantante deve cantare",
     "vocalLanguagesPlaceholder": "es.: Italiano e Inglese",
-    "socialLinks": "Social media della band (opzionale)",
-    "socialLinksPlaceholder": "https://instagram.com/tuaband",
+    "socialLinks": "Social media della band — TikTok, YouTube, Facebook, Instagram... (opzionale)",
+    "socialLinksPlaceholder": "https://tiktok.com/@tuaband",
     "addSocialLink": "Aggiungi",
     "removeSocialLink": "Rimuovi"
   },

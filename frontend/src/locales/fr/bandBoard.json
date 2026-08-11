@@ -55,8 +55,8 @@
     },
     "vocalLanguages": "Langues dans lesquelles le/la chanteur/chanteuse doit chanter",
     "vocalLanguagesPlaceholder": "ex. : Français et Anglais",
-    "socialLinks": "Réseaux sociaux du groupe (optionnel)",
-    "socialLinksPlaceholder": "https://instagram.com/votregroupe",
+    "socialLinks": "Réseaux sociaux du groupe — TikTok, YouTube, Facebook, Instagram... (optionnel)",
+    "socialLinksPlaceholder": "https://tiktok.com/@votregroupe",
     "addSocialLink": "Ajouter",
     "removeSocialLink": "Retirer"
   },

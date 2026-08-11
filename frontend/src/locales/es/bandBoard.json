@@ -55,8 +55,8 @@
     },
     "vocalLanguages": "Idiomas en los que el/la vocalista debe cantar",
     "vocalLanguagesPlaceholder": "ej.: Español e Inglés",
-    "socialLinks": "Redes sociales de la banda (opcional)",
-    "socialLinksPlaceholder": "https://instagram.com/tubanda",
+    "socialLinks": "Redes sociales de la banda — TikTok, YouTube, Facebook, Instagram... (opcional)",
+    "socialLinksPlaceholder": "https://tiktok.com/@tubanda",
     "addSocialLink": "Agregar",
     "removeSocialLink": "Quitar"
   },

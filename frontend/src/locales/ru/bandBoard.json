@@ -55,8 +55,8 @@
     },
     "vocalLanguages": "Языки, на которых должен петь вокалист",
     "vocalLanguagesPlaceholder": "например: русский и английский",
-    "socialLinks": "Соцсети группы (необязательно)",
-    "socialLinksPlaceholder": "https://instagram.com/vashagruppa",
+    "socialLinks": "Соцсети группы — TikTok, YouTube, Facebook, Instagram... (необязательно)",
+    "socialLinksPlaceholder": "https://tiktok.com/@vashagruppa",
     "addSocialLink": "Добавить",
     "removeSocialLink": "Удалить"
   },

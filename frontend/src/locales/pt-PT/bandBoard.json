@@ -55,8 +55,8 @@
     },
     "vocalLanguages": "Idiomas em que o(a) vocalista deve cantar",
     "vocalLanguagesPlaceholder": "ex.: Português e Inglês",
-    "socialLinks": "Redes sociais da banda (opcional)",
-    "socialLinksPlaceholder": "https://instagram.com/asuabanda",
+    "socialLinks": "Redes sociais da banda — TikTok, YouTube, Facebook, Instagram... (opcional)",
+    "socialLinksPlaceholder": "https://tiktok.com/@asuabanda",
     "addSocialLink": "Adicionar",
     "removeSocialLink": "Remover"
   },

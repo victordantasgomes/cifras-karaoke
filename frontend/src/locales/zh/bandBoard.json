@@ -55,8 +55,8 @@
     },
     "vocalLanguages": "主唱需要演唱的语言",
     "vocalLanguagesPlaceholder": "例如：中文和英文",
-    "socialLinks": "乐队社交媒体（可选）",
-    "socialLinksPlaceholder": "https://instagram.com/yourband",
+    "socialLinks": "乐队社交媒体——TikTok、YouTube、Facebook、Instagram 等（可选）",
+    "socialLinksPlaceholder": "https://tiktok.com/@yourband",
     "addSocialLink": "添加",
     "removeSocialLink": "移除"
   },

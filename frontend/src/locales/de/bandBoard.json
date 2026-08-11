@@ -55,8 +55,8 @@
     },
     "vocalLanguages": "Sprachen, in denen der/die Sänger/in singen soll",
     "vocalLanguagesPlaceholder": "z. B.: Deutsch und Englisch",
-    "socialLinks": "Social Media der Band (optional)",
-    "socialLinksPlaceholder": "https://instagram.com/deineband",
+    "socialLinks": "Social Media der Band — TikTok, YouTube, Facebook, Instagram... (optional)",
+    "socialLinksPlaceholder": "https://tiktok.com/@deineband",
     "addSocialLink": "Hinzufügen",
     "removeSocialLink": "Entfernen"
   },
