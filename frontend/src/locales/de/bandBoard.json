@@ -91,5 +91,9 @@
     "errors": {
       "add": "Dieses Medium konnte nicht angehängt werden."
     }
+  },
+  "manage": {
+    "subtitle": "Erstelle und verwalte die Anzeigen deiner Band.",
+    "viewPublic": "Öffentliche Pinnwand ansehen"
   }
 }

@@ -91,5 +91,9 @@
     "errors": {
       "add": "Impossibile allegare questo contenuto."
     }
+  },
+  "manage": {
+    "subtitle": "Crea e gestisci gli annunci della tua band.",
+    "viewPublic": "Vedi la bacheca pubblica"
   }
 }

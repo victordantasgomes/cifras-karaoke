@@ -17,7 +17,7 @@ const ITEMS = [
   { to: '/historico', labelKey: 'nav.history', icon: IconClock },
   { to: '/karaoke', labelKey: 'nav.karaoke', icon: IconMic },
   { to: '/dicionario-acordes', labelKey: 'nav.chordDictionary', icon: IconBook },
-  { to: '/mural', labelKey: 'nav.bandBoard', icon: IconUsers },
+  { to: '/mural/meus-anuncios', labelKey: 'nav.bandBoard', icon: IconUsers },
   { section: 'nav.tools' },
   { to: '/metronomo', labelKey: 'nav.metronome', icon: IconMetronome },
   { to: '/afinador', labelKey: 'nav.tuner', icon: IconTuner },

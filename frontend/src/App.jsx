@@ -7,6 +7,7 @@ import { useActivityPing } from './hooks/useActivityPing'
 import Layout from './components/Layout'
 import Landing from './pages/Landing'
 import BandBoard from './pages/BandBoard'
+import BandBoardManage from './pages/BandBoardManage'
 import Login from './pages/Login'
 import SignUp from './pages/SignUp'
 import Dashboard from './pages/Dashboard'
@@ -41,6 +42,7 @@ export default function App() {
         <Route path="/mural" element={<BandBoard />} />
         <Route element={<Layout />}>
           <Route path="/painel" element={<Dashboard />} />
+          <Route path="/mural/meus-anuncios" element={<BandBoardManage />} />
           <Route path="/musicas" element={<Songs />} />
           <Route path="/musicas/:slug" element={<SongEditor />} />
           <Route path="/favoritas" element={<Songs favoritesOnly />} />

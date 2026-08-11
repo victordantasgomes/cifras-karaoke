@@ -91,5 +91,9 @@
     "errors": {
       "add": "Couldn't attach that media."
     }
+  },
+  "manage": {
+    "subtitle": "Create and manage your band's ads.",
+    "viewPublic": "View public board"
   }
 }

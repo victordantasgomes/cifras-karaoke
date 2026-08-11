@@ -91,5 +91,9 @@
     "errors": {
       "add": "Impossible de joindre ce contenu."
     }
+  },
+  "manage": {
+    "subtitle": "Créez et gérez les annonces de votre groupe.",
+    "viewPublic": "Voir le mur public"
   }
 }

@@ -90,5 +90,9 @@
     "create": "Não foi possível publicar o anúncio.",
     "update": "Não foi possível salvar as alterações.",
     "toggle": "Não foi possível alterar o anúncio."
+  },
+  "manage": {
+    "subtitle": "Crie e gerencie os anúncios da sua banda.",
+    "viewPublic": "Ver mural público"
   }
 }

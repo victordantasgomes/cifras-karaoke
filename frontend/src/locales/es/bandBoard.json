@@ -91,5 +91,9 @@
     "errors": {
       "add": "No se pudo adjuntar ese contenido."
     }
+  },
+  "manage": {
+    "subtitle": "Crea y gestiona los anuncios de tu banda.",
+    "viewPublic": "Ver mural público"
   }
 }
