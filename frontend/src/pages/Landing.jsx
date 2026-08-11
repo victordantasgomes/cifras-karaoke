@@ -8,6 +8,7 @@ import Hero from '../components/landing/Hero'
 import Journey from '../components/landing/Journey'
 import HowItWorks from '../components/landing/HowItWorks'
 import Capabilities from '../components/landing/Capabilities'
+import CommunityBanner from '../components/landing/CommunityBanner'
 import BandBoardTeaser from '../components/landing/BandBoardTeaser'
 import Integrations from '../components/landing/Integrations'
 import Comparison from '../components/landing/Comparison'
@@ -45,6 +46,7 @@ export default function Landing() {
         <Journey />
         <HowItWorks />
         <Capabilities />
+        <CommunityBanner />
         <BandBoardTeaser />
         <Integrations />
         <Comparison />

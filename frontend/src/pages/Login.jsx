@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
-import logoPrincipal from '../assets/logo-principal.png'
+import BrandLogo from '../components/BrandLogo'
 import api from '../services/api'
 import { useAuthStore } from '../store/authStore'
 
@@ -29,7 +29,7 @@ export default function Login() {
   return (
     <div className="login-wrap">
       <div className="card login-card">
-        <img src={logoPrincipal} alt="Banda do Zé" className="login-logo" />
+        <BrandLogo className="login-logo" />
         <div className="tag">{t('login.tagline')}</div>
         <div className="field">
           <label>{t('login.username')}</label>

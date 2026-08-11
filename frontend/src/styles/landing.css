@@ -11,6 +11,18 @@
 .landing-page {
   min-height: 100vh;
   overflow-x: hidden;
+  position: relative;
+}
+/* washes de cor sutis atrás do conteúdo — puramente decorativo, segue a
+   cor de destaque escolhida (--accent-soft) sem depender de imagem. */
+.landing-page::before, .landing-page::after {
+  content: ""; position: absolute; z-index: -1; border-radius: 50%;
+  background: var(--accent-soft); filter: blur(100px); opacity: 0.55; pointer-events: none;
+}
+.landing-page::before { width: 560px; height: 560px; top: -160px; right: -180px; }
+.landing-page::after { width: 460px; height: 460px; top: 1450px; left: -200px; }
+@media (max-width: 900px) {
+  .landing-page::before, .landing-page::after { display: none; }
 }
 
 .landing-page section {
@@ -70,8 +82,25 @@
 }
 .landing-trial-badge::before { content: "✓"; }
 
-/* mockup visual do hero — "tela do app" fake, sem screenshot real */
+/* ---------- foto do hero + mockup flutuante por cima ---------- */
 .landing-hero-visual { display: flex; justify-content: center; }
+.landing-hero-photo-frame { position: relative; width: min(440px, 100%); }
+.landing-hero-photo-frame::before {
+  content: ""; position: absolute; inset: -15%; z-index: -1;
+  background: radial-gradient(closest-side, var(--accent-soft), transparent 72%);
+  filter: blur(36px); opacity: 0.9;
+}
+.landing-hero-photo {
+  display: block; width: 100%; aspect-ratio: 4 / 5; object-fit: cover;
+  border-radius: 22px; border: 1px solid var(--stroke);
+  box-shadow: 0 30px 70px rgba(20, 22, 30, 0.28);
+}
+.landing-mockup-float {
+  position: absolute; left: -32px; bottom: -26px;
+  width: 230px; transform-origin: bottom left; transform: scale(0.86);
+}
+
+/* mockup visual do hero — "tela do app" fake, sem screenshot real */
 .landing-mockup {
   width: min(420px, 100%);
   border-radius: 18px;
@@ -116,7 +145,22 @@
 .landing-section-sub { color: var(--muted); font-size: 15px; line-height: 1.6; }
 
 /* ---------- jornada / passo-a-passo ---------- */
-.landing-journey-grid, .landing-steps-grid {
+.landing-journey-layout {
+  display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 40px; align-items: center;
+}
+.landing-journey-list { display: flex; flex-direction: column; gap: 14px; }
+.landing-journey-photo-frame { position: relative; }
+.landing-journey-photo-frame::before {
+  content: ""; position: absolute; inset: -12%; z-index: -1;
+  background: radial-gradient(closest-side, var(--accent-soft), transparent 72%);
+  filter: blur(32px); opacity: 0.8;
+}
+.landing-journey-photo {
+  display: block; width: 100%; aspect-ratio: 3 / 4; object-fit: cover;
+  border-radius: 20px; border: 1px solid var(--stroke);
+  box-shadow: 0 24px 60px rgba(20, 22, 30, 0.22);
+}
+.landing-steps-grid {
   display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px;
 }
 .landing-steps-grid { grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
@@ -142,10 +186,36 @@
 
 /* ---------- capacidades (grid de recursos) ---------- */
 .landing-capabilities-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
-.landing-capability-card { }
-.landing-capability-icon { font-size: 26px; margin-bottom: 12px; }
+.landing-capability-card { transition: transform 160ms ease, box-shadow 160ms ease; }
+.landing-capability-card:hover { transform: translateY(-3px); box-shadow: 0 16px 32px rgba(20, 22, 30, 0.12); }
+.landing-capability-icon {
+  width: 42px; height: 42px; margin-bottom: 14px; border-radius: 12px;
+  background: var(--accent-soft); color: var(--accent);
+  display: flex; align-items: center; justify-content: center;
+}
+.landing-capability-icon svg { width: 21px; height: 21px; }
 .landing-capability-card h3 { font-family: var(--font-display); font-size: 15px; font-weight: 700; margin-bottom: 6px; }
 .landing-capability-card p { color: var(--muted); font-size: 13px; line-height: 1.5; }
+
+/* ---------- faixa de foto (comunidade/humaniza a página) ---------- */
+.landing-community { padding-top: 0 !important; padding-bottom: 0 !important; }
+.landing-community-inner {
+  position: relative; border-radius: 24px; overflow: hidden;
+  min-height: 380px; display: flex; align-items: center;
+  box-shadow: 0 30px 70px rgba(20, 22, 30, 0.22);
+}
+.landing-community-photo { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.landing-community-scrim {
+  position: relative; z-index: 1; max-width: 480px; padding: 40px 6vw;
+  background: linear-gradient(90deg, rgba(10, 8, 6, 0.82) 0%, rgba(10, 8, 6, 0.55) 65%, transparent 100%);
+  color: #f4efe6; margin-right: auto; align-self: stretch; display: flex; flex-direction: column; justify-content: center;
+}
+.landing-community-eyebrow { color: #f2c56b; }
+.landing-community-title {
+  font-family: var(--font-display); font-weight: 700;
+  font-size: clamp(22px, 2.4vw, 30px); line-height: 1.2; margin-bottom: 10px;
+}
+.landing-community-sub { color: rgba(244, 239, 230, 0.8); font-size: 14.5px; line-height: 1.6; max-width: 40ch; }
 
 /* ---------- integrações (seção leve) ---------- */
 .landing-integrations { padding-top: 56px !important; padding-bottom: 56px !important; }
@@ -153,10 +223,15 @@
   display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;
 }
 .landing-integration-item {
-  display: flex; flex-direction: column; align-items: center; gap: 8px;
+  display: flex; flex-direction: column; align-items: center; gap: 10px;
   color: var(--muted); font-size: 13px; font-weight: 600;
 }
-.landing-integration-item span:first-child { font-size: 28px; }
+.landing-integration-icon {
+  width: 52px; height: 52px; border-radius: 50%;
+  background: var(--glass-strong); border: 1px solid var(--stroke); color: var(--accent);
+  display: flex; align-items: center; justify-content: center;
+}
+.landing-integration-icon svg { width: 24px; height: 24px; }
 
 /* ---------- comparativo ---------- */
 .landing-comparison-scroll { overflow-x: auto; }
@@ -181,7 +256,13 @@
 
 /* ---------- depoimentos (carrossel simples) ---------- */
 .landing-testimonials-wrap { display: flex; align-items: center; gap: 16px; max-width: 680px; margin: 0 auto; }
-.landing-testimonial-card { flex: 1; text-align: center; min-height: 168px; display: flex; flex-direction: column; justify-content: center; }
+.landing-testimonial-card { flex: 1; text-align: center; min-height: 168px; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+.landing-testimonial-avatar {
+  width: 44px; height: 44px; border-radius: 50%; margin-bottom: 14px;
+  background: var(--accent); color: var(--accent-ink);
+  font-family: var(--font-display); font-weight: 700; font-size: 17px;
+  display: flex; align-items: center; justify-content: center;
+}
 .landing-testimonial-quote { font-size: 16px; line-height: 1.6; margin-bottom: 18px; }
 .landing-testimonial-quote::before { content: "“"; }
 .landing-testimonial-quote::after { content: "”"; }
@@ -251,7 +332,13 @@
   .landing-hero { grid-template-columns: 1fr; padding-top: 120px !important; text-align: center; }
   .landing-hero-sub { margin-left: auto; margin-right: auto; }
   .landing-hero-actions { justify-content: center; }
-  .landing-journey-grid, .landing-steps-grid, .landing-capabilities-grid { grid-template-columns: 1fr; }
+  .landing-hero-photo-frame { width: min(340px, 100%); margin-top: 8px; }
+  .landing-mockup-float { display: none; }
+  .landing-journey-layout { grid-template-columns: 1fr; gap: 24px; }
+  .landing-journey-photo-frame { max-width: 320px; margin: 0 auto; order: -1; }
+  .landing-steps-grid, .landing-capabilities-grid { grid-template-columns: 1fr; }
+  .landing-community-inner { min-height: 300px; border-radius: 0; }
+  .landing-community-scrim { max-width: 100%; padding: 28px 20px; background: linear-gradient(0deg, rgba(10, 8, 6, 0.88) 30%, rgba(10, 8, 6, 0.35) 100%); }
   .landing-testimonials-wrap { max-width: 100%; }
   .landing-footer { justify-content: center; text-align: center; }
 }

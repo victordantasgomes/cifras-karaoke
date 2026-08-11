@@ -1,4 +1,4 @@
-# CIFRAS KARAOKÊ
+# TUMTUMPA
 
 Sistema web para músicos, bandas e ministérios de louvor: exibe **cifras em modo karaokê** (janela de 3 linhas, avanço automático linha a linha) durante apresentações ao vivo. **Não reproduz áudio** — apenas sincroniza a exibição do TXT.
 

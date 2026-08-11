@@ -1,4 +1,4 @@
-# Manual do Usuário — CIFRAS KARAOKÊ
+# Manual do Usuário — TUMTUMPA
 
 ## Primeiros passos
 1. Peça pra um administrador criar sua conta em **Configurações → Administração de usuários** (cada usuário vê apenas suas próprias músicas; não há mais auto-cadastro pela tela de login).

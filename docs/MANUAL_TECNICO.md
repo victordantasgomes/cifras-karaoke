@@ -1,4 +1,4 @@
-# Manual Técnico — CIFRAS KARAOKÊ
+# Manual Técnico — TUMTUMPA
 
 ## Camadas
 - `routes/` — tradução HTTP ⇄ serviços; sem regra de negócio.

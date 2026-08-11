@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
-import logo from '../../assets/logo-horizontal.png'
+import logo from '../../assets/logo-horizontal-preta.png'
 
 /** Cabeçalho fixo da landing — mesmos links âncora do rodapé (LandingFooter). */
 export default function LandingHeader({ onNavigate }) {
@@ -8,7 +8,7 @@ export default function LandingHeader({ onNavigate }) {
 
   return (
     <header className="landing-header">
-      <img src={logo} alt="Cifras Karaokê" className="landing-logo" />
+      <img src={logo} alt="TumTumPa" className="landing-logo" />
       <nav className="landing-nav">
         <button onClick={() => onNavigate('recursos')}>{t('header.navFeatures')}</button>
         <button onClick={() => onNavigate('como-funciona')}>{t('header.navHowItWorks')}</button>

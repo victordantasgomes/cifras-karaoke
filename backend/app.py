@@ -1,4 +1,4 @@
-"""Fábrica da aplicação Flask — CIFRAS KARAOKÊ.
+"""Fábrica da aplicação Flask — TUMTUMPA.
 
 Camadas:
     routes -> services -> Postgres (db.py) + Vercel Blob (blob_client.py)
@@ -88,7 +88,7 @@ def create_app() -> Flask:
 
     @app.get("/api/health")
     def health():
-        return jsonify({"status": "ok", "app": "cifras-karaoke"})
+        return jsonify({"status": "ok", "app": "tumtumpa"})
 
     return app
 

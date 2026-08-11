@@ -54,51 +54,38 @@
   "capabilities": {
     "title": "乐队登台所需的一切",
     "subtitle": "为日常排练和演出打造的功能。",
-    "item1Icon": "🎼",
     "item1Title": "歌词谱曲库",
     "item1Desc": "曲目中的所有歌曲井井有条，支持快速搜索和收藏。",
-    "item2Icon": "🎧",
     "item2Title": "与真实音频同步",
     "item2Desc": "每一行都精确标记在歌曲参考音轨的对应时刻。",
-    "item3Icon": "🎤",
     "item3Title": "逐行卡拉OK模式",
     "item3Desc": "歌词和和弦自动推进，跟随歌曲的节奏。",
-    "item4Icon": "📜",
     "item4Title": "滚动模式",
     "item4Desc": "按自己的节奏连续滚动歌词谱，无需依赖音频。",
-    "item5Icon": "🎸",
     "item5Title": "可分享的歌单",
     "item5Desc": "编排演出顺序，把链接分享给乐队其他成员。",
-    "item6Icon": "🎹",
     "item6Title": "互动和弦词典",
     "item6Desc": "点击一个和弦，立即在歌词谱中查看指法图。",
-    "item7Icon": "🔄",
     "item7Title": "自动变调",
     "item7Desc": "一键更改歌曲的调，无需重写任何和弦。",
-    "item8Icon": "🦶",
     "item8Title": "USB踏板（foot switch）",
     "item8Desc": "双手忙于演奏乐器时，用脚翻页歌词谱。",
-    "item9Icon": "🌎",
     "item9Title": "支持9种语言翻译",
     "item9Desc": "界面支持中文、英语、葡萄牙语等9种语言。"
   },
   "integrations": {
     "title": "兼容你正在使用的乐器",
     "subtitle": "内置吉他、键盘和尤克里里的和弦词典，需要纸质版时也能轻松导出。",
-    "item1Icon": "🎸",
     "item1Title": "吉他",
-    "item2Icon": "🎹",
     "item2Title": "键盘",
-    "item3Icon": "🪕",
     "item3Title": "尤克里里",
-    "item4Icon": "📄",
     "item4Title": "导出为TXT"
   },
   "comparison": {
-    "title": "为什么要用Cifras Karaokê取代表格",
+    "title": "为什么要用TumTumPa取代表格",
     "subtitle": "从第一场演出开始，差别就显而易见。",
     "colFeature": "功能",
-    "colProduct": "Cifras Karaokê",
+    "colProduct": "TumTumPa",
     "colSpreadsheet": "表格／散乱的PDF",
     "colGeneric": "普通和弦App",
     "row1": "与真实音频同步",
@@ -109,7 +96,7 @@
     "row6": "支持舞台USB踏板"
   },
   "testimonials": {
-    "title": "已经用Cifras Karaokê登台的乐队",
+    "title": "已经用TumTumPa登台的乐队",
     "subtitle": "虚构音乐人和乐队的示例评价，帮助你了解实际用法。",
     "prevLabel": "上一条评价",
     "nextLabel": "下一条评价",
@@ -160,12 +147,17 @@
   },
   "footer": {
     "tagline": "歌词谱、同步与卡拉OK，服务整个乐队。",
-    "rights": "© {{year}} Cifras Karaokê. 保留所有权利。"
+    "rights": "© {{year}} TumTumPa. 保留所有权利。"
   },
   "bandBoardTeaser": {
     "title": "组建乐队",
     "subtitle": "乐队寻找乐手、乐手寻找乐队的帖子——无需注册即可浏览。",
     "empty": "目前没有活跃帖子。",
     "cta": "查看所有帖子"
+  },
+  "communityBanner": {
+    "eyebrow": "为登台演出的人打造",
+    "title": "从车库排练到大型演出，始终如一",
+    "subtitle": "从在家排练到面对观众演出，同一个工具在乐队生涯的每个阶段都能派上用场。"
   }
 }

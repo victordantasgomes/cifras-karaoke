@@ -28,3 +28,14 @@ export const IconMail = I(<><rect x="3" y="5" width="18" height="14" rx="2"/><pa
 export const IconCard = I(<><rect x="2.5" y="5" width="19" height="14" rx="2"/><path d="M2.5 10h19"/></>)
 export const IconBell = I(<><path d="M6 8a6 6 0 0 1 12 0c0 5 2 6 2 6H4s2-1 2-6"/><path d="M9.5 20a2.5 2.5 0 0 0 5 0"/></>)
 export const IconMapPin = I(<><path d="M12 21s7-6.5 7-12a7 7 0 1 0-14 0c0 5.5 7 12 7 12Z"/><circle cx="12" cy="9" r="2.5"/></>)
+
+// ---------- ícones da landing page (recursos/integrações, ver Capabilities.jsx e Integrations.jsx) ----------
+export const IconWaveform = I(<><path d="M3 12h.01"/><path d="M7 7v10"/><path d="M11 4v16"/><path d="M15 8v8"/><path d="M19 10v4"/></>)
+export const IconScroll = I(<><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 8h8M8 12h8"/><path d="m9 17 3 3 3-3"/></>)
+export const IconChordGrid = I(<><path d="M5 4v16M9 4v16M13 4v16M17 4v16"/><path d="M5 8h12M5 13h12"/><circle cx="9" cy="10.5" r="1.4" fill="currentColor" stroke="none"/><circle cx="13" cy="15.5" r="1.4" fill="currentColor" stroke="none"/></>)
+export const IconSwap = I(<><path d="M7 4v16"/><path d="m3 7 4-4 4 4"/><path d="M17 20V4"/><path d="m13 17 4 4 4-4"/></>)
+export const IconFootPedal = I(<><rect x="3" y="13" width="18" height="7" rx="2.5"/><path d="M9 13V9a3 3 0 0 1 6 0v4"/><path d="M12 20v2"/></>)
+export const IconGlobe = I(<><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3c2.5 2.5 4 5.8 4 9s-1.5 6.5-4 9c-2.5-2.5-4-5.8-4-9s1.5-6.5 4-9Z"/></>)
+export const IconGuitar = I(<><circle cx="8.5" cy="15.5" r="5"/><path d="M11.8 12.2 18 6"/><path d="M18 6h3M18 6v3"/><path d="m14.5 9.5 1 1M16 8l1 1"/></>)
+export const IconPiano = I(<><rect x="3" y="6" width="18" height="12" rx="1.5"/><path d="M8 6v7.5M13 6v7.5M17 6v7.5"/><path d="M3 13.5h18"/></>)
+export const IconFileText = I(<><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M8 13h8M8 17h8"/></>)

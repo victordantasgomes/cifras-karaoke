@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import { useQuery } from '@tanstack/react-query'
 import { useTranslation } from 'react-i18next'
-import logo from '../assets/logo-horizontal.png'
+import BrandLogo from '../components/BrandLogo'
 import api from '../services/api'
 import { useAuthStore } from '../store/authStore'
 import ThemeToggle from '../components/ThemeToggle'
@@ -20,7 +20,7 @@ export default function BandBoard() {
   return (
     <div className="landing-page">
       <header className="landing-header no-print">
-        <img src={logo} alt="Cifras Karaokê" className="landing-logo" />
+        <BrandLogo className="landing-logo" />
         <div className="landing-header-actions">
           <ThemeToggle />
           {token ? (

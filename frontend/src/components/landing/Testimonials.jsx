@@ -39,6 +39,7 @@ export default function Testimonials() {
             onClick={() => setIndex((i) => (i - 1 + COUNT) % COUNT)}
           >‹</button>
           <div className="card landing-testimonial-card">
+            <div className="landing-testimonial-avatar" aria-hidden="true">{current.name.charAt(0)}</div>
             <p className="landing-testimonial-quote">{current.quote}</p>
             <div className="landing-testimonial-name">{current.name}</div>
             <div className="landing-testimonial-role">{current.role}</div>

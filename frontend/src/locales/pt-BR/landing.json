@@ -54,31 +54,22 @@
   "capabilities": {
     "title": "Tudo que uma banda precisa em cima do palco",
     "subtitle": "Recursos pensados pro dia a dia de ensaio e apresentação.",
-    "item1Icon": "🎼",
     "item1Title": "Biblioteca de cifras",
     "item1Desc": "Todas as músicas do repertório organizadas, com busca rápida e favoritos.",
-    "item2Icon": "🎧",
     "item2Title": "Sincronização com áudio real",
     "item2Desc": "Cada linha marcada no tempo exato da faixa de referência da música.",
-    "item3Icon": "🎤",
     "item3Title": "Modo karaokê linha a linha",
     "item3Desc": "A letra e o acorde avançam sozinhos, acompanhando o andamento da música.",
-    "item4Icon": "📜",
     "item4Title": "Modo rolagem",
     "item4Desc": "Rolagem contínua da cifra, no seu próprio ritmo, sem depender de áudio.",
-    "item5Icon": "🎸",
     "item5Title": "Setlists compartilháveis",
     "item5Desc": "Monte a ordem do show e compartilhe o link com o resto da banda.",
-    "item6Icon": "🎹",
     "item6Title": "Dicionário de acordes interativo",
     "item6Desc": "Toque num acorde e veja o diagrama na hora, direto na cifra.",
-    "item7Icon": "🔄",
     "item7Title": "Transposição automática",
     "item7Desc": "Mude o tom da música com um clique, sem reescrever nenhum acorde.",
-    "item8Icon": "🦶",
     "item8Title": "Pedal USB (foot switch)",
     "item8Desc": "Avance a cifra com os pés, com as mãos ocupadas pelo instrumento.",
-    "item9Icon": "🌎",
     "item9Title": "Tradução em 9 idiomas",
     "item9Desc": "Interface disponível em português, inglês, espanhol e mais 6 idiomas."
   },
@@ -91,20 +82,16 @@
   "integrations": {
     "title": "Funciona com o que você já toca",
     "subtitle": "Dicionário de acordes pronto pra violão, teclado e ukulele, e exportação simples pra quando precisar de papel.",
-    "item1Icon": "🎸",
     "item1Title": "Violão",
-    "item2Icon": "🎹",
     "item2Title": "Teclado",
-    "item3Icon": "🪕",
     "item3Title": "Ukulele",
-    "item4Icon": "📄",
     "item4Title": "Exportação em TXT"
   },
   "comparison": {
-    "title": "Por que trocar a planilha pelo Cifras Karaokê",
+    "title": "Por que trocar a planilha pelo TumTumPa",
     "subtitle": "A diferença aparece na primeira apresentação.",
     "colFeature": "Recurso",
-    "colProduct": "Cifras Karaokê",
+    "colProduct": "TumTumPa",
     "colSpreadsheet": "Planilha / PDF avulso",
     "colGeneric": "App de cifras genérico",
     "row1": "Sincronização com áudio real",
@@ -115,7 +102,7 @@
     "row6": "Suporte a pedal USB no palco"
   },
   "testimonials": {
-    "title": "Quem já subiu no palco com o Cifras Karaokê",
+    "title": "Quem já subiu no palco com o TumTumPa",
     "subtitle": "Depoimentos ilustrativos de músicos e bandas fictícios, pra dar uma ideia de uso.",
     "prevLabel": "Depoimento anterior",
     "nextLabel": "Próximo depoimento",
@@ -166,6 +153,11 @@
   },
   "footer": {
     "tagline": "Cifras, sincronização e karaokê pra banda inteira.",
-    "rights": "© {{year}} Cifras Karaokê. Todos os direitos reservados."
+    "rights": "© {{year}} TumTumPa. Todos os direitos reservados."
+  },
+  "communityBanner": {
+    "eyebrow": "Feito por quem sobe no palco",
+    "title": "Da garagem ao show grande, sem trocar de ferramenta",
+    "subtitle": "De ensaios em casa a apresentações com plateia, a mesma ferramenta acompanha a banda em qualquer momento da carreira."
   }
 }

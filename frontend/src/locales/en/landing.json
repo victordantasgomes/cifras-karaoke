@@ -54,51 +54,38 @@
   "capabilities": {
     "title": "Everything a band needs on stage",
     "subtitle": "Features built for everyday rehearsals and performances.",
-    "item1Icon": "🎼",
     "item1Title": "Chord sheet library",
     "item1Desc": "Every song in your setlist, organized with fast search and favorites.",
-    "item2Icon": "🎧",
     "item2Title": "Sync with real audio",
     "item2Desc": "Every line marked at the exact moment in the song's reference track.",
-    "item3Icon": "🎤",
     "item3Title": "Line-by-line karaoke mode",
     "item3Desc": "Lyrics and chords advance on their own, following the pace of the song.",
-    "item4Icon": "📜",
     "item4Title": "Scroll mode",
     "item4Desc": "Continuous scrolling through the chord sheet, at your own pace, no audio required.",
-    "item5Icon": "🎸",
     "item5Title": "Shareable setlists",
     "item5Desc": "Build your show's running order and share the link with the rest of the band.",
-    "item6Icon": "🎹",
     "item6Title": "Interactive chord dictionary",
     "item6Desc": "Tap a chord to see its diagram instantly, right inside the chord sheet.",
-    "item7Icon": "🔄",
     "item7Title": "Automatic transposition",
     "item7Desc": "Change the song's key with one click, no rewriting a single chord.",
-    "item8Icon": "🦶",
     "item8Title": "USB pedal (foot switch)",
     "item8Desc": "Advance the chord sheet with your feet, hands free for your instrument.",
-    "item9Icon": "🌎",
     "item9Title": "Translated into 9 languages",
     "item9Desc": "Available in English, Portuguese, Spanish, and 6 more languages."
   },
   "integrations": {
     "title": "Works with what you already play",
     "subtitle": "A ready-made chord dictionary for guitar, keyboard, and ukulele, plus simple export for when you need paper.",
-    "item1Icon": "🎸",
     "item1Title": "Guitar",
-    "item2Icon": "🎹",
     "item2Title": "Keyboard",
-    "item3Icon": "🪕",
     "item3Title": "Ukulele",
-    "item4Icon": "📄",
     "item4Title": "TXT export"
   },
   "comparison": {
-    "title": "Why swap the spreadsheet for Cifras Karaokê",
+    "title": "Why swap the spreadsheet for TumTumPa",
     "subtitle": "The difference shows up at your first performance.",
     "colFeature": "Feature",
-    "colProduct": "Cifras Karaokê",
+    "colProduct": "TumTumPa",
     "colSpreadsheet": "Spreadsheet / loose PDF",
     "colGeneric": "Generic chord app",
     "row1": "Sync with real audio",
@@ -109,7 +96,7 @@
     "row6": "USB pedal support on stage"
   },
   "testimonials": {
-    "title": "Bands that already took the stage with Cifras Karaokê",
+    "title": "Bands that already took the stage with TumTumPa",
     "subtitle": "Illustrative testimonials from fictional musicians and bands, to give you a sense of how it's used.",
     "prevLabel": "Previous testimonial",
     "nextLabel": "Next testimonial",
@@ -160,12 +147,17 @@
   },
   "footer": {
     "tagline": "Chord sheets, sync, and karaoke for the whole band.",
-    "rights": "© {{year}} Cifras Karaokê. All rights reserved."
+    "rights": "© {{year}} TumTumPa. All rights reserved."
   },
   "bandBoardTeaser": {
     "title": "Form a band",
     "subtitle": "Ads from bands looking for musicians and musicians looking for a band — browse without creating an account.",
     "empty": "No active ads right now.",
     "cta": "See all ads"
+  },
+  "communityBanner": {
+    "eyebrow": "Made for people who play live",
+    "title": "From garage rehearsals to the big stage, same tool the whole way",
+    "subtitle": "From practicing at home to performing in front of a crowd, it keeps up with the band at every stage of the journey."
   }
 }

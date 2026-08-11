@@ -54,51 +54,38 @@
   "capabilities": {
     "title": "Tout ce dont un groupe a besoin sur scène",
     "subtitle": "Des fonctionnalités pensées pour le quotidien des répétitions et des concerts.",
-    "item1Icon": "🎼",
     "item1Title": "Bibliothèque de partitions",
     "item1Desc": "Tous les morceaux du répertoire organisés, avec recherche rapide et favoris.",
-    "item2Icon": "🎧",
     "item2Title": "Synchronisation avec l'audio réel",
     "item2Desc": "Chaque ligne calée sur le moment exact de la piste de référence du morceau.",
-    "item3Icon": "🎤",
     "item3Title": "Mode karaoké ligne par ligne",
     "item3Desc": "Les paroles et les accords avancent tout seuls, au rythme du morceau.",
-    "item4Icon": "📜",
     "item4Title": "Mode défilement",
     "item4Desc": "Défilement continu de la partition, à votre propre rythme, sans dépendre de l'audio.",
-    "item5Icon": "🎸",
     "item5Title": "Setlists partageables",
     "item5Desc": "Construisez l'ordre du concert et partagez le lien avec le reste du groupe.",
-    "item6Icon": "🎹",
     "item6Title": "Dictionnaire d'accords interactif",
     "item6Desc": "Touchez un accord pour voir son diagramme instantanément, directement dans la partition.",
-    "item7Icon": "🔄",
     "item7Title": "Transposition automatique",
     "item7Desc": "Changez la tonalité du morceau en un clic, sans réécrire un seul accord.",
-    "item8Icon": "🦶",
     "item8Title": "Pédale USB (foot switch)",
     "item8Desc": "Faites défiler la partition avec les pieds, les mains libres pour votre instrument.",
-    "item9Icon": "🌎",
     "item9Title": "Traduit en 9 langues",
     "item9Desc": "Interface disponible en français, anglais, espagnol et 6 autres langues."
   },
   "integrations": {
     "title": "Fonctionne avec ce que vous jouez déjà",
     "subtitle": "Un dictionnaire d'accords prêt pour la guitare, le clavier et le ukulélé, et un export simple pour quand vous avez besoin de papier.",
-    "item1Icon": "🎸",
     "item1Title": "Guitare",
-    "item2Icon": "🎹",
     "item2Title": "Clavier",
-    "item3Icon": "🪕",
     "item3Title": "Ukulélé",
-    "item4Icon": "📄",
     "item4Title": "Export TXT"
   },
   "comparison": {
-    "title": "Pourquoi remplacer le tableur par Cifras Karaokê",
+    "title": "Pourquoi remplacer le tableur par TumTumPa",
     "subtitle": "La différence se voit dès la première prestation.",
     "colFeature": "Fonctionnalité",
-    "colProduct": "Cifras Karaokê",
+    "colProduct": "TumTumPa",
     "colSpreadsheet": "Tableur / PDF éparpillés",
     "colGeneric": "Appli de partitions générique",
     "row1": "Synchronisation avec l'audio réel",
@@ -109,7 +96,7 @@
     "row6": "Prise en charge de la pédale USB sur scène"
   },
   "testimonials": {
-    "title": "Ils sont déjà montés sur scène avec Cifras Karaokê",
+    "title": "Ils sont déjà montés sur scène avec TumTumPa",
     "subtitle": "Témoignages illustratifs de musiciens et de groupes fictifs, pour vous donner une idée d'usage.",
     "prevLabel": "Témoignage précédent",
     "nextLabel": "Témoignage suivant",
@@ -160,12 +147,17 @@
   },
   "footer": {
     "tagline": "Partitions, synchronisation et karaoké pour tout le groupe.",
-    "rights": "© {{year}} Cifras Karaokê. Tous droits réservés."
+    "rights": "© {{year}} TumTumPa. Tous droits réservés."
   },
   "bandBoardTeaser": {
     "title": "Formez un groupe",
     "subtitle": "Annonces de groupes cherchant des musiciens et de musiciens cherchant un groupe — naviguez sans créer de compte.",
     "empty": "Aucune annonce active pour le moment.",
     "cta": "Voir toutes les annonces"
+  },
+  "communityBanner": {
+    "eyebrow": "Conçu pour ceux qui montent sur scène",
+    "title": "De la répétition au grand concert, sans changer d'outil",
+    "subtitle": "Des répétitions à la maison aux concerts devant le public, le même outil accompagne le groupe à chaque étape."
   }
 }

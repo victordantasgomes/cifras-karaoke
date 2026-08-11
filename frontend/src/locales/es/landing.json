@@ -54,51 +54,38 @@
   "capabilities": {
     "title": "Todo lo que una banda necesita sobre el escenario",
     "subtitle": "Funciones pensadas para el día a día de ensayo y presentación.",
-    "item1Icon": "🎼",
     "item1Title": "Biblioteca de cifrados",
     "item1Desc": "Todas las canciones del repertorio organizadas, con búsqueda rápida y favoritos.",
-    "item2Icon": "🎧",
     "item2Title": "Sincronización con audio real",
     "item2Desc": "Cada línea marcada en el momento exacto de la pista de referencia de la canción.",
-    "item3Icon": "🎤",
     "item3Title": "Modo karaoke línea a línea",
     "item3Desc": "La letra y el acorde avanzan solos, siguiendo el ritmo de la canción.",
-    "item4Icon": "📜",
     "item4Title": "Modo desplazamiento",
     "item4Desc": "Desplazamiento continuo del cifrado, a tu propio ritmo, sin depender del audio.",
-    "item5Icon": "🎸",
     "item5Title": "Listas de repertorio compartibles",
     "item5Desc": "Arma el orden del show y comparte el enlace con el resto de la banda.",
-    "item6Icon": "🎹",
     "item6Title": "Diccionario de acordes interactivo",
     "item6Desc": "Toca un acorde y ve el diagrama al instante, directo en el cifrado.",
-    "item7Icon": "🔄",
     "item7Title": "Transposición automática",
     "item7Desc": "Cambia el tono de la canción con un clic, sin reescribir ni un acorde.",
-    "item8Icon": "🦶",
     "item8Title": "Pedal USB (foot switch)",
     "item8Desc": "Avanza el cifrado con los pies, con las manos ocupadas en tu instrumento.",
-    "item9Icon": "🌎",
     "item9Title": "Traducción a 9 idiomas",
     "item9Desc": "Interfaz disponible en español, portugués, inglés y 6 idiomas más."
   },
   "integrations": {
     "title": "Funciona con lo que ya tocas",
     "subtitle": "Diccionario de acordes listo para guitarra, teclado y ukulele, y exportación sencilla para cuando necesites papel.",
-    "item1Icon": "🎸",
     "item1Title": "Guitarra",
-    "item2Icon": "🎹",
     "item2Title": "Teclado",
-    "item3Icon": "🪕",
     "item3Title": "Ukulele",
-    "item4Icon": "📄",
     "item4Title": "Exportación en TXT"
   },
   "comparison": {
-    "title": "Por qué cambiar la hoja de cálculo por Cifras Karaokê",
+    "title": "Por qué cambiar la hoja de cálculo por TumTumPa",
     "subtitle": "La diferencia se nota desde la primera presentación.",
     "colFeature": "Función",
-    "colProduct": "Cifras Karaokê",
+    "colProduct": "TumTumPa",
     "colSpreadsheet": "Hoja de cálculo / PDF suelto",
     "colGeneric": "App de cifrados genérica",
     "row1": "Sincronización con audio real",
@@ -109,7 +96,7 @@
     "row6": "Soporte para pedal USB en el escenario"
   },
   "testimonials": {
-    "title": "Quiénes ya subieron al escenario con Cifras Karaokê",
+    "title": "Quiénes ya subieron al escenario con TumTumPa",
     "subtitle": "Testimonios ilustrativos de músicos y bandas ficticios, para darte una idea de uso.",
     "prevLabel": "Testimonio anterior",
     "nextLabel": "Testimonio siguiente",
@@ -160,12 +147,17 @@
   },
   "footer": {
     "tagline": "Cifrados, sincronización y karaoke para toda la banda.",
-    "rights": "© {{year}} Cifras Karaokê. Todos los derechos reservados."
+    "rights": "© {{year}} TumTumPa. Todos los derechos reservados."
   },
   "bandBoardTeaser": {
     "title": "Forma una banda",
     "subtitle": "Anuncios de bandas que buscan músicos y músicos que buscan banda — navega sin necesidad de crear una cuenta.",
     "empty": "No hay anuncios activos por ahora.",
     "cta": "Ver todos los anuncios"
+  },
+  "communityBanner": {
+    "eyebrow": "Hecho para quien sube al escenario",
+    "title": "Del ensayo en casa al show grande, sin cambiar de herramienta",
+    "subtitle": "De los ensayos en casa a las presentaciones con público, la misma herramienta acompaña a la banda en cualquier momento de la carrera."
   }
 }

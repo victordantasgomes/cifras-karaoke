@@ -54,51 +54,38 @@
   "capabilities": {
     "title": "Alles, was eine Band auf der Bühne braucht",
     "subtitle": "Funktionen für den Alltag von Proben und Auftritten.",
-    "item1Icon": "🎼",
     "item1Title": "Akkordblatt-Bibliothek",
     "item1Desc": "Alle Songs deines Repertoires organisiert, mit Schnellsuche und Favoriten.",
-    "item2Icon": "🎧",
     "item2Title": "Synchronisation mit echtem Audio",
     "item2Desc": "Jede Zeile exakt zum richtigen Zeitpunkt der Referenzspur des Songs markiert.",
-    "item3Icon": "🎤",
     "item3Title": "Karaoke-Modus Zeile für Zeile",
     "item3Desc": "Text und Akkorde bewegen sich von allein, im Takt des Songs.",
-    "item4Icon": "📜",
     "item4Title": "Scroll-Modus",
     "item4Desc": "Kontinuierliches Scrollen durchs Akkordblatt, in deinem eigenen Tempo, ganz ohne Audio.",
-    "item5Icon": "🎸",
     "item5Title": "Teilbare Setlists",
     "item5Desc": "Stelle die Reihenfolge der Show zusammen und teile den Link mit dem Rest der Band.",
-    "item6Icon": "🎹",
     "item6Title": "Interaktives Akkordlexikon",
     "item6Desc": "Tippe auf einen Akkord und sieh das Diagramm sofort, direkt im Akkordblatt.",
-    "item7Icon": "🔄",
     "item7Title": "Automatische Transposition",
     "item7Desc": "Ändere die Tonart des Songs mit einem Klick, ohne einen einzigen Akkord neu zu schreiben.",
-    "item8Icon": "🦶",
     "item8Title": "USB-Pedal (Fußschalter)",
     "item8Desc": "Blättere mit den Füßen weiter, während die Hände am Instrument bleiben.",
-    "item9Icon": "🌎",
     "item9Title": "Übersetzt in 9 Sprachen",
     "item9Desc": "Oberfläche verfügbar auf Deutsch, Englisch, Portugiesisch und 6 weiteren Sprachen."
   },
   "integrations": {
     "title": "Funktioniert mit dem, was du schon spielst",
     "subtitle": "Ein fertiges Akkordlexikon für Gitarre, Keyboard und Ukulele, plus einfacher Export, wenn du Papier brauchst.",
-    "item1Icon": "🎸",
     "item1Title": "Gitarre",
-    "item2Icon": "🎹",
     "item2Title": "Keyboard",
-    "item3Icon": "🪕",
     "item3Title": "Ukulele",
-    "item4Icon": "📄",
     "item4Title": "TXT-Export"
   },
   "comparison": {
-    "title": "Warum die Tabelle gegen Cifras Karaokê tauschen",
+    "title": "Warum die Tabelle gegen TumTumPa tauschen",
     "subtitle": "Der Unterschied zeigt sich schon beim ersten Auftritt.",
     "colFeature": "Funktion",
-    "colProduct": "Cifras Karaokê",
+    "colProduct": "TumTumPa",
     "colSpreadsheet": "Tabelle / lose PDFs",
     "colGeneric": "Generische Akkord-App",
     "row1": "Synchronisation mit echtem Audio",
@@ -109,7 +96,7 @@
     "row6": "USB-Pedal-Unterstützung auf der Bühne"
   },
   "testimonials": {
-    "title": "Wer mit Cifras Karaokê schon auf der Bühne stand",
+    "title": "Wer mit TumTumPa schon auf der Bühne stand",
     "subtitle": "Beispielhafte Stimmen von fiktiven Musikern und Bands, um einen Eindruck von der Nutzung zu geben.",
     "prevLabel": "Vorherige Stimme",
     "nextLabel": "Nächste Stimme",
@@ -160,12 +147,17 @@
   },
   "footer": {
     "tagline": "Akkordblätter, Synchronisation und Karaoke für die ganze Band.",
-    "rights": "© {{year}} Cifras Karaokê. Alle Rechte vorbehalten."
+    "rights": "© {{year}} TumTumPa. Alle Rechte vorbehalten."
   },
   "bandBoardTeaser": {
     "title": "Gründe eine Band",
     "subtitle": "Anzeigen von Bands auf Musikersuche und Musikern auf Bandsuche — stöbere ohne Konto.",
     "empty": "Derzeit keine aktiven Anzeigen.",
     "cta": "Alle Anzeigen ansehen"
+  },
+  "communityBanner": {
+    "eyebrow": "Gemacht für alle, die live spielen",
+    "title": "Von der Probe im Wohnzimmer bis zur großen Bühne, mit demselben Tool",
+    "subtitle": "Vom Üben zu Hause bis zum Auftritt vor Publikum begleitet dasselbe Tool die Band in jeder Phase."
   }
 }

@@ -1,6 +1,6 @@
 import { NavLink, useNavigate } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
-import logoHorizontal from '../assets/logo-horizontal.png'
+import BrandLogo from './BrandLogo'
 import logoIcone from '../assets/logo-icone.png'
 import { useAuthStore } from '../store/authStore'
 import {
@@ -36,8 +36,10 @@ export default function Sidebar() {
   return (
     <aside className="sidebar no-print">
       <div className="brand">
-        <img src={logoHorizontal} alt="Banda do Zé" className="brand-logo-full" />
-        <img src={logoIcone} alt="Banda do Zé" className="brand-logo-icon" />
+        <BrandLogo className="brand-logo-full" />
+        {/* Mantém o ícone antigo aqui (e no favicon): a arte nova do TumTumPa
+            é traço fino demais e vira mancha ilegível em 34px. */}
+        <img src={logoIcone} alt="TumTumPa" className="brand-logo-icon" />
       </div>
       {visibleItems.map((item) => item.section ? (
         <div key={item.section} className="nav-section-label">{t(item.section)}</div>

@@ -54,51 +54,38 @@
   "capabilities": {
     "title": "Tutto ciò di cui una band ha bisogno sul palco",
     "subtitle": "Funzionalità pensate per la routine di prove ed esibizioni.",
-    "item1Icon": "🎼",
     "item1Title": "Libreria di fogli accordi",
     "item1Desc": "Tutti i brani del repertorio organizzati, con ricerca rapida e preferiti.",
-    "item2Icon": "🎧",
     "item2Title": "Sincronizzazione con audio reale",
     "item2Desc": "Ogni riga segnata nell'istante esatto della traccia di riferimento del brano.",
-    "item3Icon": "🎤",
     "item3Title": "Modalità karaoke riga per riga",
     "item3Desc": "Testo e accordi avanzano da soli, seguendo l'andamento del brano.",
-    "item4Icon": "📜",
     "item4Title": "Modalità scorrimento",
     "item4Desc": "Scorrimento continuo del foglio accordi, al tuo ritmo, senza dipendere dall'audio.",
-    "item5Icon": "🎸",
     "item5Title": "Scalette condivisibili",
     "item5Desc": "Costruisci l'ordine dello show e condividi il link con il resto della band.",
-    "item6Icon": "🎹",
     "item6Title": "Dizionario degli accordi interattivo",
     "item6Desc": "Tocca un accordo e vedi subito il diagramma, direttamente nel foglio accordi.",
-    "item7Icon": "🔄",
     "item7Title": "Trasposizione automatica",
     "item7Desc": "Cambia la tonalità del brano con un clic, senza riscrivere nemmeno un accordo.",
-    "item8Icon": "🦶",
     "item8Title": "Pedale USB (foot switch)",
     "item8Desc": "Scorri il foglio accordi con i piedi, con le mani impegnate sullo strumento.",
-    "item9Icon": "🌎",
     "item9Title": "Tradotto in 9 lingue",
     "item9Desc": "Interfaccia disponibile in italiano, inglese, spagnolo e altre 6 lingue."
   },
   "integrations": {
     "title": "Funziona con ciò che già suoni",
     "subtitle": "Dizionario degli accordi pronto per chitarra, tastiera e ukulele, più un'esportazione semplice per quando serve la carta.",
-    "item1Icon": "🎸",
     "item1Title": "Chitarra",
-    "item2Icon": "🎹",
     "item2Title": "Tastiera",
-    "item3Icon": "🪕",
     "item3Title": "Ukulele",
-    "item4Icon": "📄",
     "item4Title": "Esportazione in TXT"
   },
   "comparison": {
-    "title": "Perché passare dal foglio di calcolo a Cifras Karaokê",
+    "title": "Perché passare dal foglio di calcolo a TumTumPa",
     "subtitle": "La differenza si nota già alla prima esibizione.",
     "colFeature": "Funzionalità",
-    "colProduct": "Cifras Karaokê",
+    "colProduct": "TumTumPa",
     "colSpreadsheet": "Foglio di calcolo / PDF sparsi",
     "colGeneric": "App di accordi generica",
     "row1": "Sincronizzazione con audio reale",
@@ -109,7 +96,7 @@
     "row6": "Supporto al pedale USB sul palco"
   },
   "testimonials": {
-    "title": "Chi è già salito sul palco con Cifras Karaokê",
+    "title": "Chi è già salito sul palco con TumTumPa",
     "subtitle": "Testimonianze illustrative di musicisti e band fittizi, per dare un'idea d'uso.",
     "prevLabel": "Testimonianza precedente",
     "nextLabel": "Testimonianza successiva",
@@ -160,12 +147,17 @@
   },
   "footer": {
     "tagline": "Accordi, sincronizzazione e karaoke per tutta la band.",
-    "rights": "© {{year}} Cifras Karaokê. Tutti i diritti riservati."
+    "rights": "© {{year}} TumTumPa. Tutti i diritti riservati."
   },
   "bandBoardTeaser": {
     "title": "Forma una band",
     "subtitle": "Annunci di band in cerca di musicisti e musicisti in cerca di una band — naviga senza creare un account.",
     "empty": "Nessun annuncio attivo al momento.",
     "cta": "Vedi tutti gli annunci"
+  },
+  "communityBanner": {
+    "eyebrow": "Fatto per chi sale sul palco",
+    "title": "Dalle prove in garage al grande concerto, senza cambiare strumento",
+    "subtitle": "Dalle prove a casa alle esibizioni davanti al pubblico, lo stesso strumento accompagna la band in ogni fase."
   }
 }

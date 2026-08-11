@@ -1,4 +1,4 @@
--- Schema Postgres do Cifras Karaokê (ver migração de FilesystemRepository
+-- Schema Postgres do TumTumPa (ver migração de FilesystemRepository
 -- para banco — plano em .claude/plans, sessão de refatoração pra Vercel).
 --
 -- `songs.header` guarda o dicionário de cabeçalho completo (mesmo formato
