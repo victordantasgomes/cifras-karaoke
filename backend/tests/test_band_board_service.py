@@ -11,8 +11,10 @@ POST_DATA = {
     "style_freeform": "Rock nacional",
     "skill_level": "intermediario",
     "goal": "shows_pagos",
-    "rehearsal_days": ["terca", "quinta"],
+    "rehearsal_days": ["ter", "qui"],
     "instruments_needed": ["bass", "drums"],
+    "vocal_languages": "",
+    "social_links": ["https://instagram.com/bandadoze"],
     "bio": "Banda formada há 3 anos, buscando completar a formação.",
     "contact_info": "zap: 11999998888",
 }
@@ -28,14 +30,52 @@ def test_create_and_get(board, user_id):
     assert post["band_name"] == "Banda do Zé"
     assert post["city"] == "São Paulo"
     assert post["genero"] == "Rock"
-    assert post["rehearsal_days"] == ["terca", "quinta"]
+    assert post["rehearsal_days"] == ["ter", "qui"]
     assert post["instruments_needed"] == ["bass", "drums"]
+    assert post["vocal_languages"] == ""
+    assert post["social_links"] == ["https://instagram.com/bandadoze"]
     assert post["active"] is True
     assert post["user_id"] == user_id
     assert post["media"] == []
 
     fetched = board.get(post["id"])
     assert fetched == post
+
+
+def test_create_with_vocals_and_languages(board, user_id):
+    post = board.create(user_id, {
+        **POST_DATA, "instruments_needed": ["vocals"], "vocal_languages": "Português e Inglês",
+    })
+    assert post["instruments_needed"] == ["vocals"]
+    assert post["vocal_languages"] == "Português e Inglês"
+
+
+def test_create_rejects_invalid_rehearsal_day(board, user_id):
+    with pytest.raises(ValueError):
+        board.create(user_id, {**POST_DATA, "rehearsal_days": ["segunda"]})
+
+
+def test_update_rejects_invalid_rehearsal_day(board, user_id):
+    post = board.create(user_id, POST_DATA)
+    with pytest.raises(ValueError):
+        board.update(user_id, post["id"], {**POST_DATA, "rehearsal_days": ["segunda"]})
+
+
+def test_create_rejects_invalid_social_link(board, user_id):
+    with pytest.raises(ValueError):
+        board.create(user_id, {**POST_DATA, "social_links": ["instagram.com/bandadoze"]})
+
+
+def test_create_rejects_too_many_social_links(board, user_id):
+    links = [f"https://exemplo.com/{i}" for i in range(9)]
+    with pytest.raises(ValueError):
+        board.create(user_id, {**POST_DATA, "social_links": links})
+
+
+def test_update_changes_social_links(board, user_id):
+    post = board.create(user_id, POST_DATA)
+    updated = board.update(user_id, post["id"], {**POST_DATA, "social_links": ["https://facebook.com/bandadoze"]})
+    assert updated["social_links"] == ["https://facebook.com/bandadoze"]
 
 
 def test_create_rejects_invalid_instrument(board, user_id):

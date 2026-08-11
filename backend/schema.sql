@@ -203,12 +203,23 @@ create table if not exists band_posts (
     style_freeform      text not null default '',
     skill_level         text not null default '',
     goal                text not null default '',
+    -- vocabulário fechado (ver WEEKDAYS em band_board_service.py) — era
+    -- texto livre antes; mesma ressalva de instruments_needed abaixo pra
+    -- anúncios antigos.
     rehearsal_days      text[] not null default '{}',
     -- vocabulário fechado desde a melhoria de alertas (ver
     -- backend/utils/instruments.py) — era texto livre antes; anúncios
     -- antigos com texto livre continuam com os valores antigos na coluna,
     -- só não batem com o vocabulário novo até o dono reeditar o anúncio.
     instruments_needed  text[] not null default '{}',
+    -- só relevante quando "vocals" está em instruments_needed — texto
+    -- livre (ex.: "Português e Inglês"), nunca validado contra nada.
+    vocal_languages     text not null default '',
+    -- links de redes sociais da banda (Instagram, Facebook, etc.) — cada
+    -- item validado como URL (http/https) na escrita, ver
+    -- band_board_service.py; texto livre além disso (sem exigir domínio
+    -- específico, novas redes aparecem o tempo todo).
+    social_links        text[] not null default '{}',
     bio                 text not null default '',
     contact_info        text not null default '',
     setlist_refs        uuid[] not null default '{}',
@@ -217,6 +228,8 @@ create table if not exists band_posts (
     updated_at          timestamptz not null default now()
 );
 alter table band_posts add column if not exists city text not null default '';
+alter table band_posts add column if not exists vocal_languages text not null default '';
+alter table band_posts add column if not exists social_links text[] not null default '{}';
 create index if not exists idx_band_posts_active on band_posts(active) where active = true;
 
 -- O que o usuário já dispensou/leu no sino de alertas (ver

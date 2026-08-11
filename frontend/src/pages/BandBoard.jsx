@@ -12,25 +12,21 @@ import '../styles/landing.css'
 
 const SKILL_LEVELS = ['iniciante', 'intermediario', 'avancado', 'profissional']
 const GOALS = ['hobby', 'ensaios_regulares', 'shows_pagos', 'gravacao']
+const WEEKDAYS = ['seg', 'ter', 'qua', 'qui', 'sex', 'sab', 'dom']
 
 const EMPTY_FORM = {
   band_name: '', city: '', genero: '', style_freeform: '', skill_level: '', goal: '',
-  rehearsal_days: '', instruments_needed: [], bio: '', contact_info: '', setlist_refs: [],
+  rehearsal_days: [], instruments_needed: [], vocal_languages: '', social_links: [],
+  bio: '', contact_info: '', setlist_refs: [],
 }
 
 function toFormState(post) {
   return {
     band_name: post.band_name, city: post.city, genero: post.genero, style_freeform: post.style_freeform,
     skill_level: post.skill_level, goal: post.goal,
-    rehearsal_days: post.rehearsal_days.join(', '), instruments_needed: post.instruments_needed,
+    rehearsal_days: post.rehearsal_days, instruments_needed: post.instruments_needed,
+    vocal_languages: post.vocal_languages, social_links: post.social_links,
     bio: post.bio, contact_info: post.contact_info, setlist_refs: post.setlist_refs,
-  }
-}
-
-function toPayload(form) {
-  return {
-    ...form,
-    rehearsal_days: form.rehearsal_days.split(',').map((s) => s.trim()).filter(Boolean),
   }
 }
 
@@ -137,6 +133,45 @@ function MediaGalleryEditor({ t, postId, media, onChanged }) {
   )
 }
 
+/** Links de redes sociais da banda — campo simples no formulário principal
+ * (ao contrário de fotos/vídeos/links avulsos em MediaGalleryEditor, não
+ * depende do anúncio já existir: fica só no estado do form e vai junto no
+ * create/update de sempre). */
+function SocialLinksEditor({ t, value, onChange }) {
+  const [url, setUrl] = useState('')
+
+  const add = () => {
+    if (!url.trim()) return
+    onChange([...value, url.trim()])
+    setUrl('')
+  }
+  const remove = (i) => onChange(value.filter((_, idx) => idx !== i))
+
+  return (
+    <div className="field">
+      <label>{t('form.socialLinks')}</label>
+      {value.length > 0 && (
+        <div className="row" style={{ flexWrap: 'wrap', gap: 8, marginBottom: 10 }}>
+          {value.map((link, i) => (
+            <span key={i} className="chip" style={{ display: 'flex', alignItems: 'center', gap: 6, maxWidth: 260 }}>
+              <span style={{ overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{link}</span>
+              <button type="button" onClick={() => remove(i)}
+                style={{ background: 'none', border: 'none', cursor: 'pointer', color: 'inherit', padding: 0, lineHeight: 1 }}
+                aria-label={t('form.removeSocialLink')}>×</button>
+            </span>
+          ))}
+        </div>
+      )}
+      <div className="row">
+        <input className="input" placeholder={t('form.socialLinksPlaceholder')} value={url}
+          onChange={(e) => setUrl(e.target.value)}
+          onKeyDown={(e) => { if (e.key === 'Enter') { e.preventDefault(); add() } }} />
+        <button type="button" className="btn" disabled={!url.trim()} onClick={add}>{t('form.addSocialLink')}</button>
+      </div>
+    </div>
+  )
+}
+
 /** Badge com a marca do autor (Fase 8) — logo/nome se configurados, senão nada. */
 function AuthorBadge({ userId }) {
   const theme = useCurrentTheme()
@@ -179,8 +214,8 @@ function PostForm({ initial, onDone, t }) {
 
   const save = useMutation({
     mutationFn: () => (isEdit
-      ? api.put(`/band-board/${initial.id}`, toPayload(form))
-      : api.post('/band-board', toPayload(form))),
+      ? api.put(`/band-board/${initial.id}`, form)
+      : api.post('/band-board', form)),
     onSuccess: () => {
       qc.invalidateQueries({ queryKey: ['band-board'] })
       qc.invalidateQueries({ queryKey: ['band-board-mine'] })
@@ -201,6 +236,14 @@ function PostForm({ initial, onDone, t }) {
       ...f,
       instruments_needed: f.instruments_needed.includes(id)
         ? f.instruments_needed.filter((s) => s !== id) : [...f.instruments_needed, id],
+    }))
+  }
+
+  const toggleRehearsalDay = (id) => {
+    setForm((f) => ({
+      ...f,
+      rehearsal_days: f.rehearsal_days.includes(id)
+        ? f.rehearsal_days.filter((d) => d !== id) : [...f.rehearsal_days, id],
     }))
   }
 
@@ -242,11 +285,16 @@ function PostForm({ initial, onDone, t }) {
           </select>
         </div>
       </div>
-      <div className="row" style={{ flexWrap: 'wrap', gap: 12 }}>
-        <div className="field" style={{ flex: '1 1 220px', marginBottom: 0 }}>
-          <label>{t('form.rehearsalDays')}</label>
-          <input className="input" placeholder={t('form.rehearsalDaysPlaceholder')}
-            value={form.rehearsal_days} onChange={(e) => setForm({ ...form, rehearsal_days: e.target.value })} />
+      <div className="field">
+        <label>{t('form.rehearsalDays')}</label>
+        <div className="row" style={{ gap: 10, flexWrap: 'wrap' }}>
+          {WEEKDAYS.map((id) => (
+            <label key={id} className="row" style={{ gap: 6, alignItems: 'center', cursor: 'pointer' }}>
+              <input type="checkbox" checked={form.rehearsal_days.includes(id)}
+                onChange={() => toggleRehearsalDay(id)} />
+              {t(`form.weekdays.${id}`)}
+            </label>
+          ))}
         </div>
       </div>
       <div className="field">
@@ -261,6 +309,14 @@ function PostForm({ initial, onDone, t }) {
           ))}
         </div>
       </div>
+      {form.instruments_needed.includes('vocals') && (
+        <div className="field">
+          <label>{t('form.vocalLanguages')}</label>
+          <input className="input" placeholder={t('form.vocalLanguagesPlaceholder')}
+            value={form.vocal_languages} onChange={(e) => setForm({ ...form, vocal_languages: e.target.value })} />
+        </div>
+      )}
+      <SocialLinksEditor t={t} value={form.social_links} onChange={(social_links) => setForm({ ...form, social_links })} />
       <div className="field">
         <label>{t('form.bio')}</label>
         <textarea className="input" rows={3} value={form.bio} onChange={(e) => setForm({ ...form, bio: e.target.value })} />
@@ -364,6 +420,7 @@ function PostCard({ post, mine, t, onEdit }) {
   // — filtra o que não bate mais com o vocabulário fechado em vez de
   // mostrar a chave de tradução crua.
   const knownInstruments = post.instruments_needed.filter((id) => INSTRUMENTS.includes(id))
+  const knownRehearsalDays = post.rehearsal_days.filter((id) => WEEKDAYS.includes(id))
 
   return (
     <div className="card" style={{ marginBottom: 14 }}>
@@ -387,14 +444,27 @@ function PostCard({ post, mine, t, onEdit }) {
           {knownInstruments.map((id) => <span key={id} className="chip">{ti(`names.${id}`)}</span>)}
         </div>
       )}
-      {post.rehearsal_days.length > 0 && (
+      {post.instruments_needed.includes('vocals') && post.vocal_languages && (
         <div style={{ marginBottom: 6 }}>
-          <strong>{t('card.rehearsalDays')}</strong> {post.rehearsal_days.join(', ')}
+          <strong>{t('card.vocalLanguages')}</strong> {post.vocal_languages}
+        </div>
+      )}
+      {knownRehearsalDays.length > 0 && (
+        <div className="row" style={{ gap: 6, flexWrap: 'wrap', marginBottom: 10 }}>
+          <strong>{t('card.rehearsalDays')}</strong>
+          {knownRehearsalDays.map((id) => <span key={id} className="chip">{t(`form.weekdays.${id}`)}</span>)}
         </div>
       )}
       {post.contact_info && (
         <div style={{ marginBottom: 10 }}>
           <strong>{t('card.contact')}</strong> {post.contact_info}
+        </div>
+      )}
+      {post.social_links?.length > 0 && (
+        <div className="row" style={{ flexWrap: 'wrap', marginBottom: 10 }}>
+          {post.social_links.map((link) => (
+            <a key={link} href={link} target="_blank" rel="noopener noreferrer" className="btn">🔗 {link}</a>
+          ))}
         </div>
       )}
       {mine && (

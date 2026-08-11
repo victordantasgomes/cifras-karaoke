@@ -32,7 +32,6 @@
       "gravacao": "Registrazione / studio"
     },
     "rehearsalDays": "Giorni di prova",
-    "rehearsalDaysPlaceholder": "es.: martedì, giovedì",
     "instrumentsNeeded": "Strumenti richiesti",
     "instrumentsPlaceholder": "es.: basso, batteria",
     "bio": "Info sulla band",
@@ -44,7 +43,22 @@
     "saveChanges": "Salva modifiche",
     "cancel": "Annulla",
     "city": "Città",
-    "cityPlaceholder": "es.: São Paulo"
+    "cityPlaceholder": "es.: São Paulo",
+    "weekdays": {
+      "seg": "Lun",
+      "ter": "Mar",
+      "qua": "Mer",
+      "qui": "Gio",
+      "sex": "Ven",
+      "sab": "Sab",
+      "dom": "Dom"
+    },
+    "vocalLanguages": "Lingue in cui il/la cantante deve cantare",
+    "vocalLanguagesPlaceholder": "es.: Italiano e Inglese",
+    "socialLinks": "Social media della band (opzionale)",
+    "socialLinksPlaceholder": "https://instagram.com/tuaband",
+    "addSocialLink": "Aggiungi",
+    "removeSocialLink": "Rimuovi"
   },
   "card": {
     "contact": "Contatto:",
@@ -52,7 +66,8 @@
     "instrumentsNeeded": "Cercasi:",
     "deactivate": "Disattiva",
     "activate": "Riattiva",
-    "edit": "Modifica"
+    "edit": "Modifica",
+    "vocalLanguages": "Lingue:"
   },
   "errors": {
     "create": "Impossibile pubblicare l'annuncio.",

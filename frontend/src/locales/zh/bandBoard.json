@@ -32,7 +32,6 @@
       "gravacao": "录音/录音室"
     },
     "rehearsalDays": "排练日",
-    "rehearsalDaysPlaceholder": "例如：周二、周四",
     "instrumentsNeeded": "需要的乐器",
     "instrumentsPlaceholder": "例如：贝斯、鼓",
     "bio": "乐队简介",
@@ -44,7 +43,22 @@
     "saveChanges": "保存更改",
     "cancel": "取消",
     "city": "城市",
-    "cityPlaceholder": "例如：圣保罗"
+    "cityPlaceholder": "例如：圣保罗",
+    "weekdays": {
+      "seg": "周一",
+      "ter": "周二",
+      "qua": "周三",
+      "qui": "周四",
+      "sex": "周五",
+      "sab": "周六",
+      "dom": "周日"
+    },
+    "vocalLanguages": "主唱需要演唱的语言",
+    "vocalLanguagesPlaceholder": "例如：中文和英文",
+    "socialLinks": "乐队社交媒体（可选）",
+    "socialLinksPlaceholder": "https://instagram.com/yourband",
+    "addSocialLink": "添加",
+    "removeSocialLink": "移除"
   },
   "card": {
     "contact": "联系方式：",
@@ -52,7 +66,8 @@
     "instrumentsNeeded": "招募：",
     "deactivate": "停用",
     "activate": "重新启用",
-    "edit": "编辑"
+    "edit": "编辑",
+    "vocalLanguages": "语言："
   },
   "errors": {
     "create": "无法发布启事。",

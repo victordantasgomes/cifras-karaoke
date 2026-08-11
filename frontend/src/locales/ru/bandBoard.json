@@ -32,7 +32,6 @@
       "gravacao": "Запись / студия"
     },
     "rehearsalDays": "Дни репетиций",
-    "rehearsalDaysPlaceholder": "напр.: вторник, четверг",
     "instrumentsNeeded": "Требуются инструменты",
     "instrumentsPlaceholder": "напр.: бас-гитара, барабаны",
     "bio": "О группе",
@@ -44,7 +43,22 @@
     "saveChanges": "Сохранить изменения",
     "cancel": "Отмена",
     "city": "Город",
-    "cityPlaceholder": "например: Сан-Паулу"
+    "cityPlaceholder": "например: Сан-Паулу",
+    "weekdays": {
+      "seg": "Пн",
+      "ter": "Вт",
+      "qua": "Ср",
+      "qui": "Чт",
+      "sex": "Пт",
+      "sab": "Сб",
+      "dom": "Вс"
+    },
+    "vocalLanguages": "Языки, на которых должен петь вокалист",
+    "vocalLanguagesPlaceholder": "например: русский и английский",
+    "socialLinks": "Соцсети группы (необязательно)",
+    "socialLinksPlaceholder": "https://instagram.com/vashagruppa",
+    "addSocialLink": "Добавить",
+    "removeSocialLink": "Удалить"
   },
   "card": {
     "contact": "Контакт:",
@@ -52,7 +66,8 @@
     "instrumentsNeeded": "Требуется:",
     "deactivate": "Деактивировать",
     "activate": "Реактивировать",
-    "edit": "Редактировать"
+    "edit": "Редактировать",
+    "vocalLanguages": "Языки:"
   },
   "errors": {
     "create": "Не удалось опубликовать объявление.",

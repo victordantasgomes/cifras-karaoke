@@ -34,8 +34,22 @@
       "gravacao": "Gravação / estúdio"
     },
     "rehearsalDays": "Dias de ensaio",
-    "rehearsalDaysPlaceholder": "ex.: terça, quinta",
+    "weekdays": {
+      "seg": "Seg",
+      "ter": "Ter",
+      "qua": "Qua",
+      "qui": "Qui",
+      "sex": "Sex",
+      "sab": "Sáb",
+      "dom": "Dom"
+    },
     "instrumentsNeeded": "Instrumentos buscados",
+    "vocalLanguages": "Idiomas que o(a) vocalista deve cantar",
+    "vocalLanguagesPlaceholder": "ex.: Português e Inglês",
+    "socialLinks": "Redes sociais da banda (opcional)",
+    "socialLinksPlaceholder": "https://instagram.com/suabanda",
+    "addSocialLink": "Adicionar",
+    "removeSocialLink": "Remover",
     "bio": "Sobre a banda",
     "contactInfo": "Contato",
     "contactPlaceholder": "ex.: WhatsApp, e-mail, Instagram",
@@ -68,6 +82,7 @@
     "contact": "Contato:",
     "rehearsalDays": "Dias de ensaio:",
     "instrumentsNeeded": "Buscando:",
+    "vocalLanguages": "Idiomas:",
     "deactivate": "Desativar",
     "activate": "Reativar",
     "edit": "Editar"

@@ -32,7 +32,6 @@
       "gravacao": "Aufnahme / Studio"
     },
     "rehearsalDays": "Probetage",
-    "rehearsalDaysPlaceholder": "z. B.: Dienstag, Donnerstag",
     "instrumentsNeeded": "Gesuchte Instrumente",
     "instrumentsPlaceholder": "z. B.: Bass, Schlagzeug",
     "bio": "Über die Band",
@@ -44,7 +43,22 @@
     "saveChanges": "Änderungen speichern",
     "cancel": "Abbrechen",
     "city": "Stadt",
-    "cityPlaceholder": "z. B.: São Paulo"
+    "cityPlaceholder": "z. B.: São Paulo",
+    "weekdays": {
+      "seg": "Mo",
+      "ter": "Di",
+      "qua": "Mi",
+      "qui": "Do",
+      "sex": "Fr",
+      "sab": "Sa",
+      "dom": "So"
+    },
+    "vocalLanguages": "Sprachen, in denen der/die Sänger/in singen soll",
+    "vocalLanguagesPlaceholder": "z. B.: Deutsch und Englisch",
+    "socialLinks": "Social Media der Band (optional)",
+    "socialLinksPlaceholder": "https://instagram.com/deineband",
+    "addSocialLink": "Hinzufügen",
+    "removeSocialLink": "Entfernen"
   },
   "card": {
     "contact": "Kontakt:",
@@ -52,7 +66,8 @@
     "instrumentsNeeded": "Gesucht:",
     "deactivate": "Deaktivieren",
     "activate": "Reaktivieren",
-    "edit": "Bearbeiten"
+    "edit": "Bearbeiten",
+    "vocalLanguages": "Sprachen:"
   },
   "errors": {
     "create": "Die Anzeige konnte nicht veröffentlicht werden.",

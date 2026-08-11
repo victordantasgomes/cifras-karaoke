@@ -32,7 +32,6 @@
       "gravacao": "Grabación / estudio"
     },
     "rehearsalDays": "Días de ensayo",
-    "rehearsalDaysPlaceholder": "ej.: martes, jueves",
     "instrumentsNeeded": "Instrumentos buscados",
     "instrumentsPlaceholder": "ej.: bajo, batería",
     "bio": "Sobre la banda",
@@ -44,7 +43,22 @@
     "saveChanges": "Guardar cambios",
     "cancel": "Cancelar",
     "city": "Ciudad",
-    "cityPlaceholder": "ej.: São Paulo"
+    "cityPlaceholder": "ej.: São Paulo",
+    "weekdays": {
+      "seg": "Lun",
+      "ter": "Mar",
+      "qua": "Mié",
+      "qui": "Jue",
+      "sex": "Vie",
+      "sab": "Sáb",
+      "dom": "Dom"
+    },
+    "vocalLanguages": "Idiomas en los que el/la vocalista debe cantar",
+    "vocalLanguagesPlaceholder": "ej.: Español e Inglés",
+    "socialLinks": "Redes sociales de la banda (opcional)",
+    "socialLinksPlaceholder": "https://instagram.com/tubanda",
+    "addSocialLink": "Agregar",
+    "removeSocialLink": "Quitar"
   },
   "card": {
     "contact": "Contacto:",
@@ -52,7 +66,8 @@
     "instrumentsNeeded": "Buscando:",
     "deactivate": "Desactivar",
     "activate": "Reactivar",
-    "edit": "Editar"
+    "edit": "Editar",
+    "vocalLanguages": "Idiomas:"
   },
   "errors": {
     "create": "No se pudo publicar el anuncio.",

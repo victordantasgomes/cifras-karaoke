@@ -32,7 +32,6 @@
       "gravacao": "Recording / studio"
     },
     "rehearsalDays": "Rehearsal days",
-    "rehearsalDaysPlaceholder": "e.g.: Tuesday, Thursday",
     "instrumentsNeeded": "Instruments needed",
     "instrumentsPlaceholder": "e.g.: bass, drums",
     "bio": "About the band",
@@ -44,7 +43,22 @@
     "saveChanges": "Save changes",
     "cancel": "Cancel",
     "city": "City",
-    "cityPlaceholder": "e.g.: São Paulo"
+    "cityPlaceholder": "e.g.: São Paulo",
+    "weekdays": {
+      "seg": "Mon",
+      "ter": "Tue",
+      "qua": "Wed",
+      "qui": "Thu",
+      "sex": "Fri",
+      "sab": "Sat",
+      "dom": "Sun"
+    },
+    "vocalLanguages": "Languages the vocalist should sing in",
+    "vocalLanguagesPlaceholder": "e.g.: English and Portuguese",
+    "socialLinks": "Band's social media (optional)",
+    "socialLinksPlaceholder": "https://instagram.com/yourband",
+    "addSocialLink": "Add",
+    "removeSocialLink": "Remove"
   },
   "card": {
     "contact": "Contact:",
@@ -52,7 +66,8 @@
     "instrumentsNeeded": "Looking for:",
     "deactivate": "Deactivate",
     "activate": "Reactivate",
-    "edit": "Edit"
+    "edit": "Edit",
+    "vocalLanguages": "Languages:"
   },
   "errors": {
     "create": "Couldn't publish the ad.",

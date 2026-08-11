@@ -29,6 +29,14 @@ LINK_KINDS = ("link", "youtube")
 MAX_MEDIA_PER_POST = 10
 MAX_MEDIA_FILE_BYTES = 50 * 1024 * 1024  # 50 MB por foto/vídeo — anúncio, não acervo
 
+# dias de ensaio, vocabulário fechado (era texto livre antes) — mesmo
+# raciocínio de INSTRUMENTS, ids em português abreviado (não precisa de
+# tradução própria de dia da semana em cada idioma, o frontend já traduz
+# pela chave).
+WEEKDAYS = ("seg", "ter", "qua", "qui", "sex", "sab", "dom")
+
+MAX_SOCIAL_LINKS = 8
+
 
 def _validate_instruments_needed(instruments_needed: list[str]) -> list[str]:
     """Vocabulário fechado desde a melhoria de alertas (ver
@@ -38,6 +46,24 @@ def _validate_instruments_needed(instruments_needed: list[str]) -> list[str]:
     for i in cleaned:
         if i not in INSTRUMENTS:
             raise ValueError("Um dos instrumentos buscados é inválido.")
+    return cleaned
+
+
+def _validate_rehearsal_days(rehearsal_days: list[str]) -> list[str]:
+    cleaned = [(d or "").strip() for d in rehearsal_days]
+    for d in cleaned:
+        if d not in WEEKDAYS:
+            raise ValueError("Um dos dias de ensaio é inválido.")
+    return cleaned
+
+
+def _validate_social_links(social_links: list[str]) -> list[str]:
+    cleaned = [(u or "").strip() for u in social_links]
+    if len(cleaned) > MAX_SOCIAL_LINKS:
+        raise ValueError(f"Limite de {MAX_SOCIAL_LINKS} links de redes sociais atingido.")
+    for u in cleaned:
+        if not u.startswith(("http://", "https://")):
+            raise ValueError("Um dos links de rede social não é uma URL válida (precisa começar com http:// ou https://).")
     return cleaned
 
 
@@ -53,6 +79,8 @@ def _row_to_dict(row: dict, media: list[dict]) -> dict:
         "goal": row["goal"],
         "rehearsal_days": row["rehearsal_days"],
         "instruments_needed": row["instruments_needed"],
+        "vocal_languages": row["vocal_languages"],
+        "social_links": row["social_links"],
         "bio": row["bio"],
         "contact_info": row["contact_info"],
         "setlist_refs": [str(s) for s in row["setlist_refs"]],
@@ -118,17 +146,20 @@ class BandBoardService:
     def create(self, user_id: str, data: dict) -> dict:
         setlist_refs = self._resolve_setlist_refs(user_id, data.get("setlist_refs") or [])
         instruments_needed = _validate_instruments_needed(data.get("instruments_needed") or [])
+        rehearsal_days = _validate_rehearsal_days(data.get("rehearsal_days") or [])
+        social_links = _validate_social_links(data.get("social_links") or [])
         with db.get_pool().connection() as conn:
             row = conn.execute(
                 """insert into band_posts
                    (user_id, band_name, city, genero, style_freeform, skill_level, goal,
-                    rehearsal_days, instruments_needed, bio, contact_info, setlist_refs)
-                   values (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                    rehearsal_days, instruments_needed, vocal_languages, social_links,
+                    bio, contact_info, setlist_refs)
+                   values (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
                    returning *""",
                 (
                     user_id, *(data.get(f, "") for f in _FIELDS[:1]), (data.get("city") or "").strip(),
                     *(data.get(f, "") for f in _FIELDS[1:5]),
-                    data.get("rehearsal_days") or [], instruments_needed,
+                    rehearsal_days, instruments_needed, (data.get("vocal_languages") or "").strip(), social_links,
                     *(data.get(f, "") for f in _FIELDS[5:]), setlist_refs,
                 ),
             ).fetchone()
@@ -136,6 +167,8 @@ class BandBoardService:
 
     def update(self, user_id: str, post_id: str, data: dict) -> dict:
         instruments_needed = _validate_instruments_needed(data.get("instruments_needed") or [])
+        rehearsal_days = _validate_rehearsal_days(data.get("rehearsal_days") or [])
+        social_links = _validate_social_links(data.get("social_links") or [])
         with db.get_pool().connection() as conn:
             row = conn.execute("select user_id from band_posts where id=%s", (post_id,)).fetchone()
             if not row:
@@ -145,13 +178,13 @@ class BandBoardService:
             setlist_refs = self._resolve_setlist_refs(user_id, data.get("setlist_refs") or [])
             conn.execute(
                 """update band_posts set band_name=%s, city=%s, genero=%s, style_freeform=%s, skill_level=%s,
-                       goal=%s, rehearsal_days=%s, instruments_needed=%s, bio=%s, contact_info=%s,
-                       setlist_refs=%s, updated_at=now()
+                       goal=%s, rehearsal_days=%s, instruments_needed=%s, vocal_languages=%s, social_links=%s,
+                       bio=%s, contact_info=%s, setlist_refs=%s, updated_at=now()
                    where id=%s""",
                 (
                     *(data.get(f, "") for f in _FIELDS[:1]), (data.get("city") or "").strip(),
                     *(data.get(f, "") for f in _FIELDS[1:5]),
-                    data.get("rehearsal_days") or [], instruments_needed,
+                    rehearsal_days, instruments_needed, (data.get("vocal_languages") or "").strip(), social_links,
                     *(data.get(f, "") for f in _FIELDS[5:]), setlist_refs, post_id,
                 ),
             )

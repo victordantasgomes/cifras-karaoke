@@ -32,7 +32,6 @@
       "gravacao": "Enregistrement / studio"
     },
     "rehearsalDays": "Jours de répétition",
-    "rehearsalDaysPlaceholder": "ex. : mardi, jeudi",
     "instrumentsNeeded": "Instruments recherchés",
     "instrumentsPlaceholder": "ex. : basse, batterie",
     "bio": "À propos du groupe",
@@ -44,7 +43,22 @@
     "saveChanges": "Enregistrer les modifications",
     "cancel": "Annuler",
     "city": "Ville",
-    "cityPlaceholder": "ex. : São Paulo"
+    "cityPlaceholder": "ex. : São Paulo",
+    "weekdays": {
+      "seg": "Lun",
+      "ter": "Mar",
+      "qua": "Mer",
+      "qui": "Jeu",
+      "sex": "Ven",
+      "sab": "Sam",
+      "dom": "Dim"
+    },
+    "vocalLanguages": "Langues dans lesquelles le/la chanteur/chanteuse doit chanter",
+    "vocalLanguagesPlaceholder": "ex. : Français et Anglais",
+    "socialLinks": "Réseaux sociaux du groupe (optionnel)",
+    "socialLinksPlaceholder": "https://instagram.com/votregroupe",
+    "addSocialLink": "Ajouter",
+    "removeSocialLink": "Retirer"
   },
   "card": {
     "contact": "Contact :",
@@ -52,7 +66,8 @@
     "instrumentsNeeded": "Recherché :",
     "deactivate": "Désactiver",
     "activate": "Réactiver",
-    "edit": "Modifier"
+    "edit": "Modifier",
+    "vocalLanguages": "Langues :"
   },
   "errors": {
     "create": "Impossible de publier l'annonce.",
