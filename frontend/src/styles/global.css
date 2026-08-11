@@ -152,6 +152,7 @@ button { font-family: inherit; }
   background: var(--sidebar-bg);
   backdrop-filter: blur(18px);
   display: flex; flex-direction: column; gap: 4px;
+  overflow: hidden;
 }
 .brand { padding: 4px 12px 18px; }
 .brand-logo-full { display: block; height: 40px; width: auto; }
@@ -160,6 +161,7 @@ button { font-family: inherit; }
   display: flex; align-items: center; gap: 10px;
   padding: 9px 12px; border-radius: 10px;
   color: var(--muted); font-weight: 500; transition: 120ms;
+  white-space: nowrap;
 }
 .nav-item:hover { color: var(--text); background: var(--glass); }
 .nav-item.active { color: var(--text); background: var(--glass-strong); box-shadow: inset 2px 0 0 var(--accent); }
@@ -636,6 +638,22 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
   .chord-sheet { font-size: 12pt; color: #000; }
   .chord-sheet .acorde { color: #000; font-weight: 700; }
   .chord-sheet .observacao { color: #333; }
+}
+
+/* ---------- sidebar retrátil (só em telas com mouse de verdade — em
+   touch, :hover gruda depois do 1º toque e o 2º toque vira "clicar sem
+   querer"; abaixo de 900px ela já fica sempre retraída, ver responsivo) */
+@media (hover: hover) and (pointer: fine) and (min-width: 901px) {
+  .sidebar { width: 64px; transition: width 160ms ease; }
+  .sidebar:hover { width: var(--sidebar-w); }
+  .brand-logo-full { display: none; }
+  .brand-logo-icon { display: block; }
+  .sidebar:hover .brand-logo-full { display: block; }
+  .sidebar:hover .brand-logo-icon { display: none; }
+  .nav-item span { display: none; }
+  .sidebar:hover .nav-item span { display: inline; }
+  .nav-section-label { display: none; }
+  .sidebar:hover .nav-section-label { display: block; }
 }
 
 /* ---------- responsivo ---------- */
