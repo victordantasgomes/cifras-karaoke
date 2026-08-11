@@ -55,6 +55,32 @@ def test_string_row_parses_casas_and_dedos(dic):
     assert row["pestana"]["tem"] is False
 
 
+@pytest.mark.parametrize("instrumento", ["violao", "ukulele"])
+def test_dedos_nunca_repete_um_dedo_em_casas_diferentes(dic, instrumento):
+    """Regressão: um dedo em duas casas ao mesmo tempo é fisicamente
+    impossível (não é pestana, já que pestana exige a MESMA casa) — ver
+    bug reportado no diagrama do dicionário de acordes."""
+    page = dic.list(instrumento=instrumento, page_size=2000)
+    for item in page["items"]:
+        casas_por_dedo = {}
+        for casa, dedo in zip(item["casas"], item["dedos"]):
+            if not dedo:
+                continue
+            casas_por_dedo.setdefault(dedo, set()).add(casa)
+        for dedo, casas in casas_por_dedo.items():
+            assert len(casas) == 1, (
+                f"{item['id']}: dedo {dedo} aparece nas casas {casas}"
+            )
+
+
+def test_f_sustenido_pestana_corrigida(dic):
+    item = dic.get("violao-F#-1")
+    assert item["casas"] == [2, 1, None, 3, 2, 2]
+    assert item["dedos"] == [2, 1, None, 3, 2, 2]
+    assert item["pestana"]["tem"] is True
+    assert item["pestana"]["detalhe"] == "dedo 2 na casa 2, cordas 1 a 6"
+
+
 def test_piano_row_parses_notas_e_inversao(dic):
     page = dic.list(instrumento="teclado", acorde="C")
     fundamental = next(i for i in page["items"] if i["inversao_numero"] == 0)

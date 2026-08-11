@@ -98,9 +98,14 @@ export function buildFretVoicings(tuning, pcs, rootPc, bassPc, limit = 6) {
   return results.slice(0, limit).map(({ frets }) => ({ frets, baseFret: baseFretFor(frets) }))
 }
 
-/** Número de dedo (1-4) por corda pressionada, do traste mais grave pro mais
+/** Número de dedo por corda pressionada, do traste mais grave pro mais
  * agudo — o mesmo traste em cordas diferentes recebe o mesmo dedo (aproxima
- * uma pestana). Corda solta (0) e abafada (null) não recebem dedo. */
+ * uma pestana). Corda solta (0) e abafada (null) não recebem dedo. Nunca
+ * reaproveita um número de dedo em dois trastes diferentes (isso desenharia
+ * uma posição fisicamente impossível) — se a formação precisar de mais de 4
+ * trastes distintos, o número passa de 4, o que sinaliza uma formação
+ * dificilmente tocável por uma mão (ver MAX_SPAN acima, que já limita isso
+ * na prática pro gerador algorítmico). */
 export function assignFingers(frets) {
   const fretted = frets
     .map((f, i) => ({ f, i }))
@@ -111,7 +116,7 @@ export function assignFingers(frets) {
   let lastFret = null
   for (const { f, i } of fretted) {
     if (f !== lastFret) { finger += 1; lastFret = f }
-    fingerByString[i] = Math.min(finger, 4)
+    fingerByString[i] = finger
   }
   return fingerByString
 }

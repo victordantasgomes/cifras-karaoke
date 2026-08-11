@@ -7,11 +7,37 @@ const SIDE = 8
 const FRET_AREA_H = 110
 const TUNING_Y = TOP + FRET_AREA_H + 14
 
+/** Deriva a pestana (se houver) direto de `frets`/`fingers`: um dedo que
+ * aparece em 2+ cordas SÓ é uma pestana válida se todas essas cordas
+ * estiverem na MESMA casa — caso contrário os dados são inconsistentes (o
+ * mesmo dedo não pode estar em duas casas ao mesmo tempo) e não desenhamos
+ * nada, pra não sugerir uma pestana que não existe. */
+function findBarre(frets, fingers) {
+  const strandsByFinger = new Map()
+  frets.forEach((f, i) => {
+    const finger = fingers[i]
+    if (f == null || f === 0 || !finger) return
+    if (!strandsByFinger.has(finger)) strandsByFinger.set(finger, [])
+    strandsByFinger.get(finger).push({ i, f })
+  })
+  for (const strands of strandsByFinger.values()) {
+    if (strands.length < 2) continue
+    const frets_ = new Set(strands.map((s) => s.f))
+    if (frets_.size !== 1) continue
+    const idxs = strands.map((s) => s.i)
+    return { fret: strands[0].f, from: Math.min(...idxs), to: Math.max(...idxs) }
+  }
+  return null
+}
+
 /**
- * Diagrama de braço genérico (violão de 6 cordas ou ukulelê de 4) — pestana
- * grossa no traste 1, ou número do traste inicial ("3fr") quando a formação
- * começa mais acima. × acima da corda = abafada, o = solta, bolinha numerada
- * = dedo. `fingers` é opcional — quando ausente, é derivado de `frets` via
+ * Diagrama de braço genérico (violão de 6 cordas ou ukulelê de 4) — traste
+ * grosso quando a formação começa no traste 1, ou número do traste inicial
+ * ("3fr") quando começa mais acima. × acima da corda = abafada, o = solta,
+ * bolinha numerada = dedo; quando o mesmo dedo cobre 2+ cordas na mesma
+ * casa, uma barra conecta as bolinhas pra indicar a pestana (ver
+ * findBarre — derivada de `frets`/`fingers`, não de um prop separado).
+ * `fingers` é opcional — quando ausente, é derivado de `frets` via
  * assignFingers (ver chordShapes.js); o dicionário de acordes (dados
  * curados) sempre passa os dedos do próprio registro.
  *
@@ -28,6 +54,7 @@ export default function ChordFretDiagram({ frets, baseFret, strings, fingers: fi
   const fingers = fingersProp || assignFingers(frets)
   const firstX = SIDE
   const lastX = W - SIDE
+  const barre = findBarre(frets, fingers)
 
   return (
     <svg viewBox={`0 0 ${W} ${H}`} width="100%" height="100%">
@@ -41,7 +68,7 @@ export default function ChordFretDiagram({ frets, baseFret, strings, fingers: fi
         )
       })}
 
-      {/* pestana (traste 1) ou rótulo do traste inicial */}
+      {/* traste (nut) grosso quando a formação começa no traste 1, ou rótulo do traste inicial */}
       {baseFret === 1 ? (
         <rect x={firstX} y={rowY(0) - 2} width={lastX - firstX} height={3} fill="var(--text)" />
       ) : (
@@ -67,6 +94,17 @@ export default function ChordFretDiagram({ frets, baseFret, strings, fingers: fi
           {note}
         </text>
       ))}
+
+      {/* barra da pestana, ligando as cordas cobertas pelo mesmo dedo na mesma casa */}
+      {barre && (() => {
+        const row = barre.fret - baseFret + 1
+        if (row < 1 || row > ROWS) return null
+        const cy = rowY(row - 1) + FRET_AREA_H / ROWS / 2
+        const xs = [stringX(barre.from), stringX(barre.to)]
+        const x1 = Math.min(...xs)
+        const x2 = Math.max(...xs)
+        return <rect x={x1 - 7} y={cy - 7} width={x2 - x1 + 14} height={14} rx={7} fill="var(--amber)" opacity={0.35} />
+      })()}
 
       {/* dedos */}
       {frets.map((f, i) => {
