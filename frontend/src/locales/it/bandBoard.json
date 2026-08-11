@@ -76,7 +76,6 @@
   },
   "media": {
     "title": "Foto, video e link",
-    "saveFirst": "Pubblica prima l'annuncio per poter allegare foto, video e link.",
     "kinds": {
       "photo": "Foto",
       "video": "Video",

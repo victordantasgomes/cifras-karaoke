@@ -76,7 +76,6 @@
   },
   "media": {
     "title": "Fotos, Videos und Links",
-    "saveFirst": "Veröffentliche die Anzeige zuerst, um Fotos, Videos und Links anzuhängen.",
     "kinds": {
       "photo": "Foto",
       "video": "Video",

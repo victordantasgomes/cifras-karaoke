@@ -76,7 +76,6 @@
   },
   "media": {
     "title": "Photos, videos and links",
-    "saveFirst": "Publish the ad first to attach photos, videos and links.",
     "kinds": {
       "photo": "Photo",
       "video": "Video",

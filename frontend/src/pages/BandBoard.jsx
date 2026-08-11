@@ -43,27 +43,34 @@ function extractYoutubeId(url) {
 const MEDIA_FILE_KINDS = ['photo', 'video']
 const MEDIA_LINK_KINDS = ['link', 'youtube']
 
-function MediaSlot({ t, postId, kind, onChanged }) {
+function makeLocalId() {
+  return `local-${Date.now()}-${Math.random().toString(36).slice(2)}`
+}
+
+/** `onAttach` abstrai as duas situações em que essa mídia pode ser anexada:
+ * anúncio já existe (edição) → sobe pro servidor na hora; anúncio ainda
+ * não existe (criação) → só fica pendente em memória (ver PostForm), sem
+ * chamada de rede — os dois casos usam o mesmo formulário/slot. */
+function MediaSlot({ t, kind, onAttach }) {
   const [file, setFile] = useState(null)
   const [url, setUrl] = useState('')
   const [label, setLabel] = useState('')
   const [error, setError] = useState('')
+  const [pending, setPending] = useState(false)
   const isFileKind = MEDIA_FILE_KINDS.includes(kind)
 
-  const add = useMutation({
-    mutationFn: () => {
-      if (isFileKind) {
-        const fd = new FormData()
-        fd.append('kind', kind)
-        fd.append('file', file)
-        fd.append('label', label)
-        return api.post(`/band-board/${postId}/media`, fd)
-      }
-      return api.post(`/band-board/${postId}/media/link`, { kind, url, label })
-    },
-    onSuccess: () => { setFile(null); setUrl(''); setLabel(''); setError(''); onChanged() },
-    onError: (e) => setError(e.response?.data?.error || t('media.errors.add')),
-  })
+  const attach = async () => {
+    setPending(true)
+    setError('')
+    try {
+      await onAttach({ kind, file, url, label })
+      setFile(null); setUrl(''); setLabel('')
+    } catch (e) {
+      setError(e.response?.data?.error || t('media.errors.add'))
+    } finally {
+      setPending(false)
+    }
+  }
 
   return (
     <div style={{ flex: '1 1 220px', border: '1px solid var(--stroke)', borderRadius: 8, padding: 10 }}>
@@ -78,34 +85,61 @@ function MediaSlot({ t, postId, kind, onChanged }) {
       <input className="input" placeholder={t('media.labelPlaceholder')} value={label}
         onChange={(e) => setLabel(e.target.value)} style={{ marginTop: 6 }} />
       <button className="btn" style={{ marginTop: 6, width: '100%' }}
-        disabled={(isFileKind ? !file : !url.trim()) || add.isPending}
-        onClick={() => add.mutate()}>
-        {add.isPending ? t('media.attaching') : t('media.attach')}
+        disabled={(isFileKind ? !file : !url.trim()) || pending}
+        onClick={attach}>
+        {pending ? t('media.attaching') : t('media.attach')}
       </button>
       {error && <div className="error-text" style={{ marginTop: 6, fontSize: 12 }}>{error}</div>}
     </div>
   )
 }
 
-function MediaGalleryEditor({ t, postId, media, onChanged }) {
+/** `postId` presente → edição, cada item sobe na hora (comportamento de
+ * sempre). `postId` ausente → criação, os itens ficam em `pendingMedia`
+ * (estado do PostForm) até o anúncio ser salvo, quando sobem em sequência
+ * pro post recém-criado (ver PostForm.save). */
+function MediaGalleryEditor({ t, postId, media, pendingMedia, onPendingChange, onChanged }) {
+  const isStaged = !postId
+
   const remove = useMutation({
     mutationFn: (mediaId) => api.delete(`/band-board/${postId}/media/${mediaId}`),
     onSuccess: onChanged,
   })
+  const removePending = (localId) => onPendingChange(pendingMedia.filter((m) => m.localId !== localId))
+
+  const attach = async ({ kind, file, url, label }) => {
+    if (isStaged) {
+      const previewUrl = MEDIA_FILE_KINDS.includes(kind) && file ? URL.createObjectURL(file) : null
+      onPendingChange([...pendingMedia, { localId: makeLocalId(), kind, file, url, label, previewUrl }])
+      return
+    }
+    if (MEDIA_FILE_KINDS.includes(kind)) {
+      const fd = new FormData()
+      fd.append('kind', kind)
+      fd.append('file', file)
+      fd.append('label', label)
+      await api.post(`/band-board/${postId}/media`, fd)
+    } else {
+      await api.post(`/band-board/${postId}/media/link`, { kind, url, label })
+    }
+    onChanged()
+  }
+
+  const items = isStaged ? pendingMedia : media
 
   return (
     <div className="field" style={{ marginBottom: 0 }}>
       <label>{t('media.title')}</label>
-      {media.length > 0 && (
+      {items.length > 0 && (
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(140px, 1fr))', gap: 10, marginBottom: 12 }}>
-          {media.map((m) => (
-            <div key={m.id} style={{ border: '1px solid var(--stroke)', borderRadius: 8, padding: 8 }}>
+          {items.map((m) => (
+            <div key={isStaged ? m.localId : m.id} style={{ border: '1px solid var(--stroke)', borderRadius: 8, padding: 8 }}>
               {m.kind === 'photo' && (
-                <img src={`/api/band-board/${postId}/media/${m.id}/file`} alt={m.label}
+                <img src={isStaged ? m.previewUrl : `/api/band-board/${postId}/media/${m.id}/file`} alt={m.label}
                   style={{ width: '100%', height: 84, objectFit: 'cover', borderRadius: 6 }} />
               )}
               {m.kind === 'video' && (
-                <video src={`/api/band-board/${postId}/media/${m.id}/file`} controls
+                <video src={isStaged ? m.previewUrl : `/api/band-board/${postId}/media/${m.id}/file`} controls
                   style={{ width: '100%', height: 84, borderRadius: 6 }} />
               )}
               {(m.kind === 'link' || m.kind === 'youtube') && (
@@ -117,7 +151,7 @@ function MediaGalleryEditor({ t, postId, media, onChanged }) {
                 {m.label || t(`media.kinds.${m.kind}`)}
               </div>
               <button className="btn danger" style={{ marginTop: 6, width: '100%', fontSize: 12, padding: '4px 6px' }}
-                disabled={remove.isPending} onClick={() => remove.mutate(m.id)}>
+                disabled={remove.isPending} onClick={() => (isStaged ? removePending(m.localId) : remove.mutate(m.id))}>
                 {t('media.remove')}
               </button>
             </div>
@@ -126,7 +160,7 @@ function MediaGalleryEditor({ t, postId, media, onChanged }) {
       )}
       <div className="row" style={{ flexWrap: 'wrap', gap: 10 }}>
         {[...MEDIA_FILE_KINDS, ...MEDIA_LINK_KINDS].map((kind) => (
-          <MediaSlot key={kind} t={t} postId={postId} kind={kind} onChanged={onChanged} />
+          <MediaSlot key={kind} t={t} kind={kind} onAttach={attach} />
         ))}
       </div>
     </div>
@@ -193,6 +227,7 @@ function PostForm({ initial, onDone, t }) {
   const qc = useQueryClient()
   const { t: ti } = useTranslation('instruments')
   const [form, setForm] = useState(initial ? toFormState(initial) : EMPTY_FORM)
+  const [pendingMedia, setPendingMedia] = useState([])
   const [error, setError] = useState('')
   const isEdit = Boolean(initial)
 
@@ -213,9 +248,29 @@ function PostForm({ initial, onDone, t }) {
   const media = (isEdit && myPosts?.find((p) => p.id === initial.id)?.media) || []
 
   const save = useMutation({
-    mutationFn: () => (isEdit
-      ? api.put(`/band-board/${initial.id}`, form)
-      : api.post('/band-board', form)),
+    mutationFn: async () => {
+      const res = isEdit
+        ? await api.put(`/band-board/${initial.id}`, form)
+        : await api.post('/band-board', form)
+      // anúncio novo com fotos/vídeos anexados antes de salvar (ver
+      // MediaGalleryEditor) — sobem em sequência agora que o post tem id,
+      // reaproveitando os mesmos endpoints usados na edição.
+      if (!isEdit && pendingMedia.length) {
+        const newPostId = res.data.id
+        for (const m of pendingMedia) {
+          if (MEDIA_FILE_KINDS.includes(m.kind)) {
+            const fd = new FormData()
+            fd.append('kind', m.kind)
+            fd.append('file', m.file)
+            fd.append('label', m.label)
+            await api.post(`/band-board/${newPostId}/media`, fd)
+          } else {
+            await api.post(`/band-board/${newPostId}/media/link`, { kind: m.kind, url: m.url, label: m.label })
+          }
+        }
+      }
+      return res
+    },
     onSuccess: () => {
       qc.invalidateQueries({ queryKey: ['band-board'] })
       qc.invalidateQueries({ queryKey: ['band-board-mine'] })
@@ -326,12 +381,9 @@ function PostForm({ initial, onDone, t }) {
         <input className="input" placeholder={t('form.contactPlaceholder')}
           value={form.contact_info} onChange={(e) => setForm({ ...form, contact_info: e.target.value })} />
       </div>
-      {isEdit ? (
-        <MediaGalleryEditor t={t} postId={initial.id} media={media}
-          onChanged={() => qc.invalidateQueries({ queryKey: ['band-board-mine'] })} />
-      ) : (
-        <p style={{ color: 'var(--muted)', fontSize: 13, marginBottom: 0 }}>{t('media.saveFirst')}</p>
-      )}
+      <MediaGalleryEditor t={t} postId={isEdit ? initial.id : null} media={media}
+        pendingMedia={pendingMedia} onPendingChange={setPendingMedia}
+        onChanged={() => qc.invalidateQueries({ queryKey: ['band-board-mine'] })} />
       {mySetlists?.filter((s) => s.is_owner).length > 0 && (
         <div className="field" style={{ marginBottom: 0, marginTop: 14 }}>
           <label>{t('form.linkSetlists')}</label>
