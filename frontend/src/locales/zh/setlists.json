@@ -25,6 +25,10 @@
   "addSongTitle": "向此歌单添加歌曲",
   "searchPlaceholder": "搜索要添加的歌曲…",
   "searchEmpty": "未找到与“{{query}}”匹配的歌曲。",
-  "add": "添加",
-  "close": "关闭"
+  "close": "关闭",
+  "allGenres": "所有风格",
+  "allArtists": "所有演唱者",
+  "addSelected_one": "添加 ({{count}}) 首歌曲",
+  "addSelected_other": "添加 ({{count}}) 首歌曲",
+  "adding": "添加中…"
 }

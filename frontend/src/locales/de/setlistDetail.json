@@ -12,7 +12,6 @@
   "playPlaylist_other": "▶ Playlist abspielen ({{count}} Songs)",
   "searchPlaceholder": "Song zum Hinzufügen suchen…",
   "searchEmpty": "Keine Songs gefunden für \"{{query}}\".",
-  "add": "hinzufügen",
   "empty": "Leere Setlist. Suche oben nach Songs, um das Repertoire zusammenzustellen.",
   "moveUp": "Nach oben verschieben",
   "moveDown": "Nach unten verschieben",
@@ -21,5 +20,10 @@
   "playFromHere": "Playlist von hier abspielen",
   "errors": {
     "save": "Die Setlist konnte nicht gespeichert werden."
-  }
+  },
+  "allGenres": "Alle Genres",
+  "allArtists": "Alle Interpreten",
+  "addSelected_one": "({{count}}) Song hinzufügen",
+  "addSelected_other": "({{count}}) Songs hinzufügen",
+  "adding": "Wird hinzugefügt…"
 }

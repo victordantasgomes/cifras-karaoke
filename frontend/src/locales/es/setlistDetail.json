@@ -12,7 +12,6 @@
   "playPlaylist_other": "▶ Reproducir playlist ({{count}} canciones)",
   "searchPlaceholder": "Buscar canción para añadir…",
   "searchEmpty": "No se encontraron canciones para \"{{query}}\".",
-  "add": "añadir",
   "empty": "Lista vacía. Busca canciones arriba para armar el repertorio.",
   "moveUp": "Mover hacia arriba",
   "moveDown": "Mover hacia abajo",
@@ -21,5 +20,10 @@
   "playFromHere": "Reproducir la playlist desde aquí",
   "errors": {
     "save": "No se pudo guardar la lista de repertorio."
-  }
+  },
+  "allGenres": "Todos los géneros",
+  "allArtists": "Todos los intérpretes",
+  "addSelected_one": "Añadir ({{count}}) canción",
+  "addSelected_other": "Añadir ({{count}}) canciones",
+  "adding": "Añadiendo…"
 }

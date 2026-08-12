@@ -12,7 +12,6 @@
   "playPlaylist_other": "▶ Lire la playlist ({{count}} chansons)",
   "searchPlaceholder": "Rechercher une chanson à ajouter…",
   "searchEmpty": "Aucune chanson trouvée pour \"{{query}}\".",
-  "add": "ajouter",
   "empty": "Setlist vide. Recherchez des chansons ci-dessus pour construire le répertoire.",
   "moveUp": "Déplacer vers le haut",
   "moveDown": "Déplacer vers le bas",
@@ -21,5 +20,10 @@
   "playFromHere": "Lire la playlist à partir d'ici",
   "errors": {
     "save": "Impossible d'enregistrer la setlist."
-  }
+  },
+  "allGenres": "Tous les genres",
+  "allArtists": "Tous les interprètes",
+  "addSelected_one": "Ajouter ({{count}}) chanson",
+  "addSelected_other": "Ajouter ({{count}}) chansons",
+  "adding": "Ajout en cours…"
 }

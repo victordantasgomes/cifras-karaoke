@@ -12,7 +12,6 @@
   "playPlaylist_other": "▶ 播放全部（{{count}} 首歌曲）",
   "searchPlaceholder": "搜索要添加的歌曲…",
   "searchEmpty": "未找到与\"{{query}}\"匹配的歌曲。",
-  "add": "添加",
   "empty": "歌单为空。请在上方搜索歌曲以组建曲目。",
   "moveUp": "上移",
   "moveDown": "下移",
@@ -21,5 +20,10 @@
   "playFromHere": "从这里开始播放",
   "errors": {
     "save": "无法保存歌单。"
-  }
+  },
+  "allGenres": "所有风格",
+  "allArtists": "所有演唱者",
+  "addSelected_one": "添加 ({{count}}) 首歌曲",
+  "addSelected_other": "添加 ({{count}}) 首歌曲",
+  "adding": "添加中…"
 }

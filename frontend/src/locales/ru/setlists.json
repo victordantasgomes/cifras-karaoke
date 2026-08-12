@@ -25,6 +25,10 @@
   "addSongTitle": "Добавить песню в этот сетлист",
   "searchPlaceholder": "Найти песню для добавления…",
   "searchEmpty": "Песни по запросу \"{{query}}\" не найдены.",
-  "add": "добавить",
-  "close": "Закрыть"
+  "close": "Закрыть",
+  "allGenres": "Все жанры",
+  "allArtists": "Все исполнители",
+  "addSelected_one": "Добавить ({{count}}) песню",
+  "addSelected_other": "Добавить ({{count}}) песен",
+  "adding": "Добавление…"
 }

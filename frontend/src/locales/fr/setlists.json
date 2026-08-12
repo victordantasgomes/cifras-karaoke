@@ -25,6 +25,10 @@
   "addSongTitle": "Ajouter une chanson à cette setlist",
   "searchPlaceholder": "Rechercher une chanson à ajouter…",
   "searchEmpty": "Aucune chanson trouvée pour \"{{query}}\".",
-  "add": "ajouter",
-  "close": "Fermer"
+  "close": "Fermer",
+  "allGenres": "Tous les genres",
+  "allArtists": "Tous les interprètes",
+  "addSelected_one": "Ajouter ({{count}}) chanson",
+  "addSelected_other": "Ajouter ({{count}}) chansons",
+  "adding": "Ajout en cours…"
 }

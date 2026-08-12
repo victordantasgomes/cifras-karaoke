@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { useTranslation } from 'react-i18next'
 import api from '../services/api'
-import { useDebounce } from '../hooks/useDebounce'
+import SongPicker from '../components/SongPicker'
 
 export default function Setlists() {
   const { t } = useTranslation('setlists')
@@ -120,27 +120,21 @@ export default function Setlists() {
 function AddSongPanel({ setlistId, onAdded }) {
   const { t } = useTranslation('setlists')
   const qc = useQueryClient()
-  const [q, setQ] = useState('')
   const [error, setError] = useState('')
-  const dq = useDebounce(q)
 
   const { data: setlist } = useQuery({
     queryKey: ['setlist', setlistId],
     queryFn: () => api.get(`/setlists/${setlistId}`).then((r) => r.data),
   })
-  const { data: results } = useQuery({
-    queryKey: ['songs-pick', dq],
-    queryFn: () => api.get('/songs', { params: { q: dq, page_size: 8 } }).then((r) => r.data),
-    enabled: dq.length >= 2,
-  })
 
-  const addSong = useMutation({
-    mutationFn: (s) => {
-      const refs = [...(setlist?.items || []).map((i) => i.ref), `${s.interprete}/${s.titulo}`]
+  const addSongs = useMutation({
+    mutationFn: (songsToAdd) => {
+      const newRefs = songsToAdd.map((s) => `${s.interprete}/${s.titulo}`)
+      const refs = [...(setlist?.items || []).map((i) => i.ref), ...newRefs]
       return api.put(`/setlists/${setlistId}`, { nome: setlist.nome, items: refs })
     },
     onSuccess: () => {
-      setError(''); setQ('')
+      setError('')
       qc.invalidateQueries({ queryKey: ['setlist', setlistId] })
       qc.invalidateQueries({ queryKey: ['setlists'] })
       onAdded()
@@ -151,18 +145,7 @@ function AddSongPanel({ setlistId, onAdded }) {
   return (
     <div className="card no-print" style={{ margin: '0 0 4px', borderTop: 'none', borderRadius: 0 }}>
       {error && <div className="error-text" style={{ marginBottom: 10 }}>{error}</div>}
-      <input className="input" placeholder={t('searchPlaceholder')} value={q}
-        autoFocus onChange={(e) => setQ(e.target.value)} />
-      {dq.length >= 2 && results?.items.length === 0 && (
-        <div className="empty" style={{ padding: '16px 0' }}>{t('searchEmpty', { query: dq })}</div>
-      )}
-      {results?.items.map((s) => (
-        <div key={s.slug} className="song-row" style={{ gridTemplateColumns: '1fr auto' }}
-          onClick={() => !addSong.isPending && addSong.mutate(s)}>
-          <div><span className="title">{s.titulo}</span> <span className="meta">— {s.interprete}</span></div>
-          <span className="chip">{t('add')}</span>
-        </div>
-      ))}
+      <SongPicker namespace="setlists" pending={addSongs.isPending} onAdd={(songs) => addSongs.mutate(songs)} />
     </div>
   )
 }

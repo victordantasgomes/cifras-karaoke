@@ -3,7 +3,7 @@ import { useNavigate, useParams } from 'react-router-dom'
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { useTranslation } from 'react-i18next'
 import api from '../services/api'
-import { useDebounce } from '../hooks/useDebounce'
+import SongPicker from '../components/SongPicker'
 import { usePlaylistStore } from '../store/playlistStore'
 
 export default function SetlistDetail() {
@@ -15,9 +15,7 @@ export default function SetlistDetail() {
   const [items, setItems] = useState([])
   const [nome, setNome] = useState('')
   const [dragIdx, setDragIdx] = useState(null)
-  const [q, setQ] = useState('')
   const [error, setError] = useState('')
-  const dq = useDebounce(q)
 
   const { data } = useQuery({
     queryKey: ['setlist', id],
@@ -26,12 +24,6 @@ export default function SetlistDetail() {
   useEffect(() => {
     if (data) { setItems(data.items); setNome(data.nome) }
   }, [data])
-
-  const { data: results } = useQuery({
-    queryKey: ['songs-pick', dq],
-    queryFn: () => api.get('/songs', { params: { q: dq, page_size: 8 } }).then((r) => r.data),
-    enabled: dq.length >= 2,
-  })
 
   const save = useMutation({
     mutationFn: (next) => api.put(`/setlists/${id}`, { nome, items: next.map((i) => i.ref) }),
@@ -70,9 +62,9 @@ export default function SetlistDetail() {
     setDragIdx(null)
   }
 
-  const addSong = (s) => {
-    const next = [...items, { ref: `${s.interprete}/${s.titulo}`, song: s }]
-    setItems(next); setQ(''); save.mutate(next)
+  const addSongs = (songsToAdd) => {
+    const next = [...items, ...songsToAdd.map((s) => ({ ref: `${s.interprete}/${s.titulo}`, song: s }))]
+    setItems(next); save.mutate(next)
   }
   const removeAt = (i) => {
     const next = items.filter((_, idx) => idx !== i)
@@ -139,18 +131,7 @@ export default function SetlistDetail() {
 
       {isOwner && (
         <div className="card no-print" style={{ marginBottom: 16 }}>
-          <input className="input" placeholder={t('searchPlaceholder')} value={q}
-            onChange={(e) => setQ(e.target.value)} />
-          {dq.length >= 2 && results?.items.length === 0 && (
-            <div className="empty" style={{ padding: '16px 0' }}>{t('searchEmpty', { query: dq })}</div>
-          )}
-          {results?.items.map((s) => (
-            <div key={s.slug} className="song-row" style={{ gridTemplateColumns: '1fr auto' }}
-              onClick={() => addSong(s)}>
-              <div><span className="title">{s.titulo}</span> <span className="meta">— {s.interprete}</span></div>
-              <span className="chip">{t('add')}</span>
-            </div>
-          ))}
+          <SongPicker namespace="setlistDetail" pending={save.isPending} onAdd={addSongs} />
         </div>
       )}
 

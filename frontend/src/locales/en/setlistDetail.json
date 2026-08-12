@@ -12,7 +12,6 @@
   "playPlaylist_other": "▶ Play playlist ({{count}} songs)",
   "searchPlaceholder": "Search for a song to add…",
   "searchEmpty": "No songs found for \"{{query}}\".",
-  "add": "add",
   "empty": "Empty setlist. Search for songs above to build your repertoire.",
   "moveUp": "Move up",
   "moveDown": "Move down",
@@ -21,5 +20,10 @@
   "playFromHere": "Play the playlist from here",
   "errors": {
     "save": "Couldn't save the setlist."
-  }
+  },
+  "allGenres": "All genres",
+  "allArtists": "All artists",
+  "addSelected_one": "Add ({{count}}) song",
+  "addSelected_other": "Add ({{count}}) songs",
+  "adding": "Adding…"
 }
