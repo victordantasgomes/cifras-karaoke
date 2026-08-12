@@ -1,19 +1,21 @@
 import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
-import logo from '../../assets/logo-horizontal-preta.png'
+import logo from '../../assets/logo-tumtumpa-colorida-horizontal.jpg'
 
 /** Seção de abertura — headline, CTA e uma foto de banda ao vivo (ver
  * README em public/images/landing/) com o mockup do modo karaokê
  * flutuando por cima. O mockup em si continua sendo uma div com "chrome"
  * de app falso, não é screenshot real, mas mostra fielmente como a tela
- * de karaokê se parece. */
+ * de karaokê se parece. A logo de abertura usa a variante colorida
+ * (fundo preto opaco) em destaque acima das duas colunas — spans as
+ * duas colunas do grid do hero, não cabe dentro da coluna de texto. */
 export default function Hero() {
   const { t } = useTranslation('landing')
 
   return (
     <section id="hero" className="landing-hero">
+      <img src={logo} alt="TumTumPa" className="landing-hero-logo" />
       <div className="landing-hero-content">
-        <img src={logo} alt="TumTumPa" className="landing-hero-logo" />
         <span className="landing-eyebrow">{t('hero.eyebrow')}</span>
         <h1 className="landing-hero-title">{t('hero.title')}</h1>
         <p className="landing-hero-sub">{t('hero.subtitle')}</p>
