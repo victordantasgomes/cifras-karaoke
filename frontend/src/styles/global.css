@@ -659,8 +659,8 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
   .brand-logo-icon { display: block; }
   .sidebar:hover .brand-logo-full { display: block; }
   .sidebar:hover .brand-logo-icon { display: none; }
-  .nav-item { padding-left: 6px; padding-right: 6px; justify-content: center; }
-  .sidebar:hover .nav-item { padding-left: 12px; padding-right: 12px; justify-content: flex-start; }
+  .nav-item { padding-left: 6px; padding-right: 6px; }
+  .sidebar:hover .nav-item { padding-left: 12px; padding-right: 12px; }
   .nav-item svg { transform: scale(0.9); }
   .sidebar:hover .nav-item svg { transform: scale(1); }
   .nav-item span { opacity: 0; transition-delay: 0ms; }
@@ -674,7 +674,7 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
   .sidebar { width: 64px; }
   .brand-logo-full { display: none; }
   .brand-logo-icon { display: block; }
-  .nav-item { padding-left: 6px; padding-right: 6px; justify-content: center; }
+  .nav-item { padding-left: 6px; padding-right: 6px; }
   .nav-item svg { transform: scale(0.9); }
   .nav-item span { opacity: 0; }
   .nav-section-label { display: none; }
