@@ -160,12 +160,15 @@ button { font-family: inherit; }
 .nav-item {
   display: flex; align-items: center; gap: 10px;
   padding: 9px 12px; border-radius: 10px;
-  color: var(--muted); font-weight: 500; transition: 120ms;
+  color: var(--muted); font-weight: 500;
+  transition: background 200ms ease, color 200ms ease, box-shadow 200ms ease,
+    padding-left 260ms cubic-bezier(0.16, 1, 0.3, 1), padding-right 260ms cubic-bezier(0.16, 1, 0.3, 1);
   white-space: nowrap;
 }
 .nav-item:hover { color: var(--text); background: var(--glass); }
 .nav-item.active { color: var(--text); background: var(--glass-strong); box-shadow: inset 2px 0 0 var(--accent); }
-.nav-item svg { width: 24px; height: 24px; flex-shrink: 0; }
+.nav-item svg { width: 24px; height: 24px; flex-shrink: 0; transition: transform 260ms cubic-bezier(0.16, 1, 0.3, 1); }
+.nav-item span { opacity: 1; transition: opacity 220ms ease 60ms; }
 .nav-section-label {
   padding: 14px 12px 4px; font-size: 11px; font-weight: 700; letter-spacing: 0.06em;
   text-transform: uppercase; color: var(--muted);
@@ -644,16 +647,24 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
    touch, :hover gruda depois do 1º toque e o 2º toque vira "clicar sem
    querer"; abaixo de 900px ela já fica sempre retraída, ver responsivo) */
 @media (hover: hover) and (pointer: fine) and (min-width: 901px) {
-  .sidebar { width: 64px; transition: width 160ms ease; }
-  .sidebar:hover { width: var(--sidebar-w); }
+  .sidebar {
+    width: 64px;
+    transition: width 280ms cubic-bezier(0.16, 1, 0.3, 1), box-shadow 280ms cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  .sidebar:hover {
+    width: var(--sidebar-w);
+    box-shadow: 24px 0 64px -24px var(--accent-soft), 4px 0 20px -6px rgba(0, 0, 0, 0.18);
+  }
   .brand-logo-full { display: none; }
   .brand-logo-icon { display: block; }
   .sidebar:hover .brand-logo-full { display: block; }
   .sidebar:hover .brand-logo-icon { display: none; }
   .nav-item { padding-left: 6px; padding-right: 6px; justify-content: center; }
   .sidebar:hover .nav-item { padding-left: 12px; padding-right: 12px; justify-content: flex-start; }
-  .nav-item span { display: none; }
-  .sidebar:hover .nav-item span { display: inline; }
+  .nav-item svg { transform: scale(0.9); }
+  .sidebar:hover .nav-item svg { transform: scale(1); }
+  .nav-item span { opacity: 0; transition-delay: 0ms; }
+  .sidebar:hover .nav-item span { opacity: 1; transition-delay: 90ms; }
   .nav-section-label { display: none; }
   .sidebar:hover .nav-section-label { display: block; }
 }
@@ -664,7 +675,8 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
   .brand-logo-full { display: none; }
   .brand-logo-icon { display: block; }
   .nav-item { padding-left: 6px; padding-right: 6px; justify-content: center; }
-  .nav-item span { display: none; }
+  .nav-item svg { transform: scale(0.9); }
+  .nav-item span { opacity: 0; }
   .nav-section-label { display: none; }
   .song-row { grid-template-columns: 1fr 90px; }
   .song-row .hide-sm { display: none; }
