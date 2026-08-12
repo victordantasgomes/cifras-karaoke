@@ -14,9 +14,11 @@
     "shared": "🌐 Condiviso",
     "private": "🔒 Privato",
     "delete": "Elimina",
-    "confirmDelete": "Eliminare questo brano? Verrà rimosso da tutte le scalette."
+    "confirmDelete": "Eliminare questo brano? Verrà rimosso da tutte le scalette.",
+    "clone": "Clona canzone",
+    "cloning": "Clonazione…"
   },
-  "notOwnerBanner": "Questo brano è di un altro utente — modificarlo (compreso trasporlo o normalizzarlo) crea una copia tua, l'originale non viene alterato. Il caricamento di audio/sample e l'eliminazione restano riservati a chi lo ha creato.",
+  "notOwnerBanner": "Questa canzone appartiene a un altro utente — solo chi l'ha creata (o un admin) può modificarla direttamente. Clicca su “Clona canzone” per creare la tua copia modificabile. Anche caricare audio/sample ed eliminare restano riservati a chi l'ha creata.",
   "tabs": {
     "view": "Visualizza",
     "edit": "Modifica",

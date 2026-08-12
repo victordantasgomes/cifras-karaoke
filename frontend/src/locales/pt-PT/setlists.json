@@ -15,6 +15,16 @@
   "delete": "Eliminar",
   "errors": {
     "create": "Não foi possível criar o alinhamento.",
-    "import": "Não foi possível importar o alinhamento."
-  }
+    "import": "Não foi possível importar o alinhamento.",
+    "clone": "Não foi possível clonar o setlist.",
+    "addSong": "Não foi possível adicionar a música."
+  },
+  "clone": "Clonar",
+  "cloning": "A clonar…",
+  "addSong": "+ Adicionar música",
+  "addSongTitle": "Adicionar música a este setlist",
+  "searchPlaceholder": "Pesquisar música para adicionar…",
+  "searchEmpty": "Nenhuma música encontrada para \"{{query}}\".",
+  "add": "adicionar",
+  "close": "Fechar"
 }

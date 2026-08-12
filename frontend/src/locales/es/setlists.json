@@ -15,6 +15,16 @@
   "delete": "Eliminar",
   "errors": {
     "create": "No se pudo crear la lista de repertorio.",
-    "import": "No se pudo importar la lista de repertorio."
-  }
+    "import": "No se pudo importar la lista de repertorio.",
+    "clone": "No se pudo clonar el setlist.",
+    "addSong": "No se pudo añadir la canción."
+  },
+  "clone": "Clonar",
+  "cloning": "Clonando…",
+  "addSong": "+ Añadir canción",
+  "addSongTitle": "Añadir una canción a este setlist",
+  "searchPlaceholder": "Buscar canción para añadir…",
+  "searchEmpty": "No se encontraron canciones para \"{{query}}\".",
+  "add": "añadir",
+  "close": "Cerrar"
 }

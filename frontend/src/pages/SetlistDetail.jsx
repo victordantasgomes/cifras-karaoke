@@ -161,7 +161,7 @@ export default function SetlistDetail() {
           const myPlayableIndex = playableIndex
           return (
             <div key={item.ref + i} className="song-row" draggable={isOwner}
-              style={{ gridTemplateColumns: '46px 1fr auto auto', opacity: dragIdx === i ? 0.4 : 1, cursor: isOwner ? 'grab' : 'default' }}
+              style={{ gridTemplateColumns: '46px 1fr auto auto auto', opacity: dragIdx === i ? 0.4 : 1, cursor: isOwner ? 'grab' : 'default' }}
               onDragStart={() => isOwner && setDragIdx(i)}
               onDragOver={(e) => isOwner && e.preventDefault()}
               onDrop={() => isOwner && onDrop(i)}
@@ -185,6 +185,10 @@ export default function SetlistDetail() {
                   {!item.song && <span className="chip" style={{ background: 'var(--danger)', color: '#fff' }}>{t('notFound')}</span>}
                 </div>
               </div>
+              {item.song && (
+                <button className="btn no-print" onClick={(e) => { e.stopPropagation(); navigate(`/musicas/${item.song.slug}`) }}
+                  title={t('editSong')}>✎</button>
+              )}
               {item.song && (
                 <button className="btn" onClick={() => playFrom(myPlayableIndex)} title={t('playFromHere')}>▶</button>
               )}

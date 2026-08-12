@@ -385,8 +385,21 @@ def build_blueprint(ctx) -> Blueprint:
         d = request.get_json(force=True)
         try:
             return jsonify(ctx.songs.update(
-                g.user_id, slug, d.get("header", {}), d.get("body", ""), editor_name=g.name,
+                g.user_id, slug, d.get("header", {}), d.get("body", ""),
+                editor_name=g.name, is_admin=g.is_admin,
             ))
+        except SongNotFound:
+            return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
+        except NotOwner:
+            return jsonify({"error": "Só quem criou esta música (ou um admin) pode editá-la diretamente — clone pra fazer sua própria versão.",
+                             "error_code": "SONG_NOT_OWNER"}), 403
+
+    @api.post("/songs/<slug>/clone")
+    @protected
+    @not_blocked
+    def clone_song(slug):
+        try:
+            return jsonify(ctx.songs.clone(g.user_id, slug, editor_name=g.name, is_admin=g.is_admin)), 201
         except SongNotFound:
             return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
 
@@ -667,7 +680,7 @@ def build_blueprint(ctx) -> Blueprint:
         d = request.get_json(force=True)
         try:
             return jsonify(ctx.setlists.save(g.user_id, d.get("nome", setlist_id),
-                                             d.get("items", []), setlist_id))
+                                             d.get("items", []), setlist_id, is_admin=g.is_admin))
         except PermissionError:
             return jsonify({"error": "Só quem criou este setlist pode editá-lo.",
                              "error_code": "SETLIST_NOT_OWNER"}), 403
@@ -678,7 +691,7 @@ def build_blueprint(ctx) -> Blueprint:
     @protected
     def delete_setlist(setlist_id):
         try:
-            ctx.setlists.delete(g.user_id, setlist_id)
+            ctx.setlists.delete(g.user_id, setlist_id, is_admin=g.is_admin)
         except PermissionError:
             return jsonify({"error": "Só quem criou este setlist pode excluí-lo.",
                              "error_code": "SETLIST_NOT_OWNER"}), 403
@@ -689,12 +702,23 @@ def build_blueprint(ctx) -> Blueprint:
     def share_setlist(setlist_id):
         d = request.get_json(force=True)
         try:
-            return jsonify(ctx.setlists.set_shared(g.user_id, setlist_id, bool(d.get("value"))))
+            return jsonify(ctx.setlists.set_shared(g.user_id, setlist_id, bool(d.get("value")), is_admin=g.is_admin))
         except FileNotFoundError:
             return jsonify({"error": "Setlist não encontrado.", "error_code": "SETLIST_NOT_FOUND"}), 404
         except PermissionError:
             return jsonify({"error": "Só quem criou este setlist pode alterar o compartilhamento.",
                              "error_code": "SETLIST_NOT_OWNER"}), 403
+
+    @api.post("/setlists/<setlist_id>/clone")
+    @protected
+    @not_blocked
+    def clone_setlist(setlist_id):
+        try:
+            return jsonify(ctx.setlists.clone(g.user_id, setlist_id)), 201
+        except FileNotFoundError:
+            return jsonify({"error": "Setlist não encontrado.", "error_code": "SETLIST_NOT_FOUND"}), 404
+        except QuotaExceeded as e:
+            return jsonify({"error": str(e), "error_code": quota_error_code(str(e))}), 402
 
     @api.get("/setlists/<setlist_id>/export")
     @protected

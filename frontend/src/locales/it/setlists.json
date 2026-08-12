@@ -15,6 +15,16 @@
   "delete": "Elimina",
   "errors": {
     "create": "Impossibile creare la scaletta.",
-    "import": "Impossibile importare la scaletta."
-  }
+    "import": "Impossibile importare la scaletta.",
+    "clone": "Impossibile clonare la setlist.",
+    "addSong": "Impossibile aggiungere la canzone."
+  },
+  "clone": "Clona",
+  "cloning": "Clonazione…",
+  "addSong": "+ Aggiungi canzone",
+  "addSongTitle": "Aggiungi una canzone a questa setlist",
+  "searchPlaceholder": "Cerca una canzone da aggiungere…",
+  "searchEmpty": "Nessuna canzone trovata per \"{{query}}\".",
+  "add": "aggiungi",
+  "close": "Chiudi"
 }

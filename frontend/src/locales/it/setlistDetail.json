@@ -17,6 +17,7 @@
   "moveUp": "Sposta su",
   "moveDown": "Sposta giù",
   "notFound": "⚠ brano non trovato",
+  "editSong": "Modifica canzone",
   "playFromHere": "Riproduci la playlist da qui",
   "errors": {
     "save": "Impossibile salvare la scaletta."

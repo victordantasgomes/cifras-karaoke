@@ -14,9 +14,11 @@
     "shared": "🌐 Shared",
     "private": "🔒 Private",
     "delete": "Delete",
-    "confirmDelete": "Delete this song? It will be removed from every setlist."
+    "confirmDelete": "Delete this song? It will be removed from every setlist.",
+    "clone": "Clone song",
+    "cloning": "Cloning…"
   },
-  "notOwnerBanner": "This song belongs to another user — editing it (including transposing or normalizing) creates your own copy; the original stays unchanged. Uploading audio/samples and deleting are restricted to the creator.",
+  "notOwnerBanner": "This song belongs to another user — only its creator (or an admin) can edit it directly. Click “Clone song” to create your own editable copy. Uploading audio/samples and deleting are also restricted to the creator.",
   "tabs": {
     "view": "View",
     "edit": "Edit",

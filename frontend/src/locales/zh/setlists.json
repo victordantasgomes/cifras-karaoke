@@ -15,6 +15,16 @@
   "delete": "删除",
   "errors": {
     "create": "无法创建歌单。",
-    "import": "无法导入歌单。"
-  }
+    "import": "无法导入歌单。",
+    "clone": "无法克隆歌单。",
+    "addSong": "无法添加歌曲。"
+  },
+  "clone": "克隆",
+  "cloning": "克隆中…",
+  "addSong": "+ 添加歌曲",
+  "addSongTitle": "向此歌单添加歌曲",
+  "searchPlaceholder": "搜索要添加的歌曲…",
+  "searchEmpty": "未找到与“{{query}}”匹配的歌曲。",
+  "add": "添加",
+  "close": "关闭"
 }

@@ -17,6 +17,7 @@
   "moveUp": "Mover hacia arriba",
   "moveDown": "Mover hacia abajo",
   "notFound": "⚠ canción no encontrada",
+  "editSong": "Editar canción",
   "playFromHere": "Reproducir la playlist desde aquí",
   "errors": {
     "save": "No se pudo guardar la lista de repertorio."

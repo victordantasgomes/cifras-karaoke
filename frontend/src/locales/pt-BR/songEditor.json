@@ -14,9 +14,11 @@
     "shared": "🌐 Compartilhada",
     "private": "🔒 Privada",
     "delete": "Excluir",
-    "confirmDelete": "Excluir esta música? Ela sairá de todos os setlists."
+    "confirmDelete": "Excluir esta música? Ela sairá de todos os setlists.",
+    "clone": "Clonar música",
+    "cloning": "Clonando…"
   },
-  "notOwnerBanner": "Esta música é de outro usuário — editar (incluindo transpor ou normalizar) cria uma cópia sua, o original não é alterado. Enviar áudio/samples e excluir ficam restritos a quem criou.",
+  "notOwnerBanner": "Esta música é de outro usuário — só quem criou (ou um admin) pode editá-la diretamente. Clique em “Clonar música” pra criar sua própria cópia editável. Enviar áudio/samples e excluir também ficam restritos a quem criou.",
   "tabs": {
     "view": "Visualizar",
     "edit": "Editar",

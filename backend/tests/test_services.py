@@ -340,14 +340,44 @@ def test_admin_get_by_slugs_includes_private_song(ctx):
 
 
 def test_clone_of_private_song_follows_editor_share_default(ctx, other_user_id):
-    """Editar uma música alheia clona pra você — a cópia segue A SUA
-    preferência de compartilhamento, não a da música original."""
+    """Clonar uma música alheia gera uma cópia que segue A SUA preferência
+    de compartilhamento, não a da música original."""
     songs, _, _ = ctx
     entry = _create(songs)  # u1, shared=true (padrão de hoje)
     _make_private_user("u3", "privado")
-    original = songs.get("u3", entry["slug"])
-    clone = songs.update("u3", entry["slug"], dict(original["header"]), "corpo novo", editor_name="Privado")
+    clone = songs.clone("u3", entry["slug"], editor_name="Privado")
     assert songs.get("u3", clone["slug"])["shared"] is False
+
+
+def test_clone_creates_independent_copy_owned_by_cloner(ctx, other_user_id):
+    songs, _, _ = ctx
+    entry = _create(songs)
+    clone = songs.clone(other_user_id, entry["slug"], editor_name="Outro")
+
+    assert clone["slug"] != entry["slug"]
+    assert "cifra editada por: Outro" in clone["titulo"]
+    assert clone["user_id"] == other_user_id
+
+    # o original continua exatamente como estava, dono nenhum mudou
+    still_original = songs.get("u1", entry["slug"])
+    assert still_original["titulo"] == "Yellow"
+    assert still_original["body"] == entry["body"]
+
+
+def test_admin_can_clone_private_song(ctx):
+    songs, _, _ = ctx
+    _make_private_user("u3", "privado")
+    entry = songs.create("u3", "Pop", "Coldplay", "Segredo", "@titulo: Segredo\n\ncorpo")
+    clone = songs.clone("u1", entry["slug"], editor_name="Admin", is_admin=True)
+    assert clone["user_id"] == "u1"
+
+
+def test_clone_of_invisible_song_raises_not_found(ctx, other_user_id):
+    songs, _, _ = ctx
+    _make_private_user("u3", "privado")
+    entry = songs.create("u3", "Pop", "Coldplay", "Segredo", "@titulo: Segredo\n\ncorpo")
+    with pytest.raises(SongNotFound):
+        songs.clone(other_user_id, entry["slug"])
 
 
 def test_owner_can_toggle_shared(ctx):
@@ -364,23 +394,30 @@ def test_non_owner_cannot_toggle_song_shared(ctx, other_user_id):
         songs.set_shared(other_user_id, entry["slug"], False)
 
 
-def test_editing_someone_elses_song_clones_it(ctx, other_user_id):
+def test_editing_someone_elses_song_is_blocked(ctx, other_user_id):
     songs, _, _ = ctx
     entry = _create(songs)
     original = songs.get("u1", entry["slug"])
 
     edited_header = dict(original["header"])
     edited_header["nota"] = "9"
-    clone = songs.update(other_user_id, entry["slug"], edited_header, "corpo editado", editor_name="Outro")
+    with pytest.raises(NotOwner):
+        songs.update(other_user_id, entry["slug"], edited_header, "corpo editado", editor_name="Outro")
 
-    assert clone["slug"] != entry["slug"]
-    assert "cifra editada por: Outro" in clone["titulo"]
-    assert clone["user_id"] == other_user_id
-
-    # o original continua exatamente como estava, dono nenhum mudou
+    # o original continua exatamente como estava, ninguém mexeu nele
     still_original = songs.get("u1", entry["slug"])
     assert still_original["titulo"] == "Yellow"
     assert still_original["body"] != "corpo editado"
+
+
+def test_admin_can_edit_someone_elses_song_in_place(ctx, other_user_id):
+    songs, _, _ = ctx
+    entry = _create(songs)
+    original = songs.get("u1", entry["slug"])
+    result = songs.update(other_user_id, entry["slug"], dict(original["header"]), "corpo novo", is_admin=True)
+    # admin edita a MESMA música, sem clonar (sem sufixo "cifra editada por")
+    assert "cifra editada por" not in result["titulo"]
+    assert songs.get("u1", result["slug"])["body"] == "corpo novo"
 
 
 def test_owner_editing_own_song_mutates_in_place(ctx):
@@ -453,6 +490,42 @@ def test_non_owner_cannot_toggle_sharing(ctx, other_user_id):
     created = setlists.save("u1", "Show", ["Coldplay/Yellow"])
     with pytest.raises(PermissionError):
         setlists.set_shared(other_user_id, created["id"], False)
+
+
+def test_admin_can_save_and_delete_others_setlist(ctx, other_user_id):
+    songs, setlists, _ = ctx
+    _create(songs)
+    created = setlists.save("u1", "Show", ["Coldplay/Yellow"])
+    setlists.save(other_user_id, "Show renomeado", ["Coldplay/Yellow"], created["id"], is_admin=True)
+    setlists.delete(other_user_id, created["id"], is_admin=True)
+    with pytest.raises(FileNotFoundError):
+        setlists.get("u1", created["id"])
+
+
+def test_clone_setlist_creates_own_copy(ctx, other_user_id):
+    songs, setlists, _ = ctx
+    _create(songs)
+    created = setlists.save("u1", "Show", ["Coldplay/Yellow"])
+    clone = setlists.clone(other_user_id, created["id"])
+
+    assert clone["id"] != created["id"]
+    got = setlists.get(other_user_id, clone["id"])
+    assert got["is_owner"] is True
+    assert got["nome"] == "Show (cópia)"
+    assert [i["ref"] for i in got["items"]] == ["Coldplay/Yellow"]
+
+    # o original continua do dono original, sem alteração
+    original = setlists.get("u1", created["id"])
+    assert original["nome"] == "Show"
+
+
+def test_clone_of_non_shared_setlist_raises_not_found(ctx, other_user_id):
+    songs, setlists, _ = ctx
+    _create(songs)
+    created = setlists.save("u1", "Show", ["Coldplay/Yellow"])
+    setlists.set_shared("u1", created["id"], False)
+    with pytest.raises(FileNotFoundError):
+        setlists.clone(other_user_id, created["id"])
 
 
 def test_non_owner_cannot_upload_audio(ctx, other_user_id):

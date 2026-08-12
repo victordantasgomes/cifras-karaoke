@@ -5,7 +5,8 @@
   "loadingCount": "…",
   "songCount_one": "{{count}} song",
   "songCount_other": "{{count}} songs",
-  "newSong": "+ New song",
+  "importSong": "Import song",
+  "createSong": "+ Create song",
   "searchPlaceholder": "Search by title, author, artist, tag…",
   "allGenres": "All genres",
   "allArtists": "All artists",
@@ -36,5 +37,12 @@
     "remove": "Remove {{name}} from favorites",
     "noneArtists": "No favorite artists yet.",
     "noneGenres": "No favorite genres yet."
+  },
+  "create": {
+    "title": "Title",
+    "genre": "Genre",
+    "artist": "Artist",
+    "submit": "Create",
+    "error": "Couldn't create the song."
   }
 }

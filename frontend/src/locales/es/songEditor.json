@@ -14,9 +14,11 @@
     "shared": "🌐 Compartida",
     "private": "🔒 Privada",
     "delete": "Eliminar",
-    "confirmDelete": "¿Eliminar esta canción? Se eliminará de todas las listas de repertorio."
+    "confirmDelete": "¿Eliminar esta canción? Se eliminará de todas las listas de repertorio.",
+    "clone": "Clonar canción",
+    "cloning": "Clonando…"
   },
-  "notOwnerBanner": "Esta canción es de otro usuario — editarla (incluso transponerla o normalizarla) crea una copia tuya; el original no se modifica. Subir audio/samples y eliminar quedan restringidos a quien la creó.",
+  "notOwnerBanner": "Esta canción es de otro usuario — solo quien la creó (o un admin) puede editarla directamente. Haz clic en “Clonar canción” para crear tu propia copia editable. Subir audio/samples y eliminar también quedan restringidos a quien la creó.",
   "tabs": {
     "view": "Ver",
     "edit": "Editar",

@@ -17,6 +17,7 @@
   "moveUp": "上移",
   "moveDown": "下移",
   "notFound": "⚠ 未找到歌曲",
+  "editSong": "编辑歌曲",
   "playFromHere": "从这里开始播放",
   "errors": {
     "save": "无法保存歌单。"

@@ -265,6 +265,16 @@ export default function SongEditor() {
     onSuccess: () => { qc.invalidateQueries(['songs']); navigate('/musicas') },
   })
 
+  // clonar: única forma de "adaptar" a música de outro usuário agora que
+  // editar in-place é restrito ao dono (ou admin) — ver songs_service.py::clone.
+  const clone = useMutation({
+    mutationFn: () => api.post(`/songs/${slug}/clone`),
+    onSuccess: (r) => {
+      qc.invalidateQueries(['songs'])
+      navigate(`/musicas/${r.data.slug}`, { replace: true })
+    },
+  })
+
   // aplica uma transformação de texto+seleção na textarea da cifra e restaura o cursor
   const applyEdit = (fn) => {
     const el = textareaRef.current
@@ -366,6 +376,10 @@ export default function SongEditor() {
   if (!data || !header) return <div className="empty">{t('loading')}</div>
 
   const isOwner = !data.user_id || data.user_id === user?.id
+  // editar in-place é restrito a dono/admin (ver songs_service.py::update);
+  // quem não é dono nem admin só pode clonar, nunca mexer no original.
+  const canEditInPlace = isOwner || user?.is_admin
+  const visibleTabs = canEditInPlace ? ['view', 'edit', 'audio', 'versions'] : ['view', 'audio', 'versions']
 
   return (
     <>
@@ -389,6 +403,11 @@ export default function SongEditor() {
           <button className="btn" onClick={() => window.print()}>{t('actions.print')}</button>
           <a className="btn" href={`${api.defaults.baseURL}/songs/${slug}/export`}
             onClick={(e) => { e.preventDefault(); exportTxt(slug, header.titulo) }}>{t('actions.exportTxt')}</a>
+          {!isOwner && (
+            <button className="btn" disabled={clone.isPending} onClick={() => clone.mutate()}>
+              {clone.isPending ? t('actions.cloning') : t('actions.clone')}
+            </button>
+          )}
           {isOwner && (
             <button className="btn" disabled={toggleShared.isPending}
               title={data.shared ? t('actions.sharedTitleOn') : t('actions.sharedTitleOff')}
@@ -411,7 +430,7 @@ export default function SongEditor() {
       )}
 
       <div className="row no-print" style={{ margin: '14px 0' }}>
-        {['view', 'edit', 'audio', 'versions'].map((tb) => (
+        {visibleTabs.map((tb) => (
           <button key={tb} className={`btn ${tab === tb ? 'primary' : 'ghost'}`} onClick={() => setTab(tb)}>
             {t(`tabs.${tb}`)}
           </button>
@@ -443,7 +462,7 @@ export default function SongEditor() {
       )}
 
       {tab === 'edit' && (
-        <div className="row" style={{ alignItems: 'flex-start' }} onKeyDown={handleEditorKeyDown}>
+        <div className="row" style={{ alignItems: 'stretch' }} onKeyDown={handleEditorKeyDown}>
           <div className="card" style={{ width: 300, flexShrink: 0 }}>
             <div className="row" style={{ justifyContent: 'space-between', alignItems: 'center', marginBottom: 12 }}>
               <h3>{t('edit.header')}</h3>
@@ -483,7 +502,7 @@ export default function SongEditor() {
               </div>
             </div>
           </div>
-          <div className="card" style={{ flex: 1 }}>
+          <div className="card" style={{ flex: 1, display: 'flex', flexDirection: 'column', minWidth: 0 }}>
             <h3 style={{ marginBottom: 12 }}>{t('edit.chordSheet')}</h3>
             <div className="row" style={{ marginBottom: 8, gap: 8 }}>
               <select className="input" style={{ width: 160 }} value={sectionLabel}
@@ -513,7 +532,8 @@ export default function SongEditor() {
                   onClick={() => insertSample(sampleToInsert)}>{t('edit.insertSample')}</button>
               </>}
             </div>
-            <textarea ref={textareaRef} className="input" rows={26} value={body}
+            <textarea ref={textareaRef} className="input" value={body}
+              style={{ flex: 1, minHeight: 420, resize: 'none' }}
               onChange={(e) => updateBody(e.target.value)} />
             <div className="row" style={{ marginTop: 12, flexWrap: 'wrap' }}>
               <button className="btn primary" disabled={!dirty || save.isPending} onClick={() => save.mutate()}

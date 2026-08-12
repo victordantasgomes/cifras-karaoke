@@ -17,6 +17,7 @@
   "moveUp": "Move up",
   "moveDown": "Move down",
   "notFound": "⚠ song not found",
+  "editSong": "Edit song",
   "playFromHere": "Play the playlist from here",
   "errors": {
     "save": "Couldn't save the setlist."

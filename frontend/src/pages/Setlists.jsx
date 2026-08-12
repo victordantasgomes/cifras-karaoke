@@ -3,12 +3,14 @@ import { Link } from 'react-router-dom'
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { useTranslation } from 'react-i18next'
 import api from '../services/api'
+import { useDebounce } from '../hooks/useDebounce'
 
 export default function Setlists() {
   const { t } = useTranslation('setlists')
   const qc = useQueryClient()
   const [name, setName] = useState('')
   const [error, setError] = useState('')
+  const [addingTo, setAddingTo] = useState(null) // id do setlist com o painel de "+ Adicionar música" aberto
   const { data } = useQuery({ queryKey: ['setlists'], queryFn: () => api.get('/setlists').then((r) => r.data) })
 
   const create = useMutation({
@@ -32,6 +34,13 @@ export default function Setlists() {
     mutationFn: ({ id, value }) => api.post(`/setlists/${id}/share`, { value }),
     onSuccess: () => qc.invalidateQueries({ queryKey: ['setlists'] }),
   })
+  // clonar: qualquer setlist visível (próprio ou compartilhado por outro
+  // usuário) vira uma cópia própria e editável — ver setlist_service.py::clone.
+  const clone = useMutation({
+    mutationFn: (id) => api.post(`/setlists/${id}/clone`),
+    onSuccess: () => { setError(''); qc.invalidateQueries({ queryKey: ['setlists'] }) },
+    onError: (e) => setError(e.response?.data?.error || t('errors.clone')),
+  })
 
   return (
     <>
@@ -52,39 +61,108 @@ export default function Setlists() {
       <div className="card" style={{ padding: 0 }}>
         {!data?.length && <div className="empty">{t('empty')}</div>}
         {data?.map((s) => (
-          <div key={s.id} className="song-row" style={{ gridTemplateColumns: '1fr auto auto auto' }}>
-            <Link to={`/setlists/${s.id}`}>
-              <div className="title">{s.nome}</div>
-              <div className="meta">
-                {t('itemCount', { count: s.count })}
-                {!s.is_owner && <span className="chip" style={{ marginLeft: 8 }} title={t('otherUserTitle')}>{t('otherUserChip')}</span>}
+          <div key={s.id}>
+            <div className="song-row" style={{ gridTemplateColumns: '1fr auto auto auto auto auto' }}>
+              <Link to={`/setlists/${s.id}`}>
+                <div className="title">{s.nome}</div>
+                <div className="meta">
+                  {t('itemCount', { count: s.count })}
+                  {!s.is_owner && <span className="chip" style={{ marginLeft: 8 }} title={t('otherUserTitle')}>{t('otherUserChip')}</span>}
+                </div>
+              </Link>
+              <div>
+                {s.is_owner && (
+                  <label className="row" style={{ gap: 6, alignItems: 'center', cursor: 'pointer' }}>
+                    <input type="checkbox" checked={s.shared}
+                      onChange={(e) => toggleShare.mutate({ id: s.id, value: e.target.checked })} />
+                    {t('shared')}
+                  </label>
+                )}
               </div>
-            </Link>
-            <div>
-              {s.is_owner && (
-                <label className="row" style={{ gap: 6, alignItems: 'center', cursor: 'pointer' }}>
-                  <input type="checkbox" checked={s.shared}
-                    onChange={(e) => toggleShare.mutate({ id: s.id, value: e.target.checked })} />
-                  {t('shared')}
-                </label>
-              )}
+              <div>
+                {s.is_owner && (
+                  <button className="btn no-print" title={t('addSongTitle')}
+                    onClick={() => setAddingTo(addingTo === s.id ? null : s.id)}>
+                    {addingTo === s.id ? t('close') : t('addSong')}
+                  </button>
+                )}
+              </div>
+              <button className="btn no-print" disabled={clone.isPending} onClick={() => clone.mutate(s.id)}>
+                {clone.isPending ? t('cloning') : t('clone')}
+              </button>
+              <a className="btn" href="#" onClick={async (e) => {
+                e.preventDefault()
+                const { data: blob } = await api.get(`/setlists/${s.id}/export`, { responseType: 'blob' })
+                const url = URL.createObjectURL(blob)
+                const a = document.createElement('a'); a.href = url; a.download = `${s.id}.txt`; a.click()
+                URL.revokeObjectURL(url)
+              }}>{t('export')}</a>
+              <div>
+                {s.is_owner && (
+                  <button className="btn danger"
+                    onClick={() => confirm(t('deleteConfirm')) && remove.mutate(s.id)}>{t('delete')}</button>
+                )}
+              </div>
             </div>
-            <a className="btn" href="#" onClick={async (e) => {
-              e.preventDefault()
-              const { data: blob } = await api.get(`/setlists/${s.id}/export`, { responseType: 'blob' })
-              const url = URL.createObjectURL(blob)
-              const a = document.createElement('a'); a.href = url; a.download = `${s.id}.txt`; a.click()
-              URL.revokeObjectURL(url)
-            }}>{t('export')}</a>
-            <div>
-              {s.is_owner && (
-                <button className="btn danger"
-                  onClick={() => confirm(t('deleteConfirm')) && remove.mutate(s.id)}>{t('delete')}</button>
-              )}
-            </div>
+            {addingTo === s.id && <AddSongPanel setlistId={s.id} onAdded={() => setAddingTo(null)} />}
           </div>
         ))}
       </div>
     </>
+  )
+}
+
+/** Painel inline de busca+adicionar, aberto por baixo da linha do setlist
+ * (sem precisar navegar até a tela de detalhe) — mesmo padrão de busca já
+ * usado em SetlistDetail.jsx, só que direcionado a UM setlist específico
+ * a partir da lista. Busca os itens atuais só ao abrir (não vem na listagem,
+ * que só traz a contagem) pra poder acrescentar sem apagar o resto. */
+function AddSongPanel({ setlistId, onAdded }) {
+  const { t } = useTranslation('setlists')
+  const qc = useQueryClient()
+  const [q, setQ] = useState('')
+  const [error, setError] = useState('')
+  const dq = useDebounce(q)
+
+  const { data: setlist } = useQuery({
+    queryKey: ['setlist', setlistId],
+    queryFn: () => api.get(`/setlists/${setlistId}`).then((r) => r.data),
+  })
+  const { data: results } = useQuery({
+    queryKey: ['songs-pick', dq],
+    queryFn: () => api.get('/songs', { params: { q: dq, page_size: 8 } }).then((r) => r.data),
+    enabled: dq.length >= 2,
+  })
+
+  const addSong = useMutation({
+    mutationFn: (s) => {
+      const refs = [...(setlist?.items || []).map((i) => i.ref), `${s.interprete}/${s.titulo}`]
+      return api.put(`/setlists/${setlistId}`, { nome: setlist.nome, items: refs })
+    },
+    onSuccess: () => {
+      setError(''); setQ('')
+      qc.invalidateQueries({ queryKey: ['setlist', setlistId] })
+      qc.invalidateQueries({ queryKey: ['setlists'] })
+      onAdded()
+    },
+    onError: (e) => setError(e.response?.data?.error || t('errors.addSong')),
+  })
+
+  return (
+    <div className="card no-print" style={{ margin: '0 0 4px', borderTop: 'none', borderRadius: 0 }}>
+      {error && <div className="error-text" style={{ marginBottom: 10 }}>{error}</div>}
+      <input className="input" placeholder={t('searchPlaceholder')} value={q}
+        autoFocus onChange={(e) => setQ(e.target.value)} />
+      {dq.length >= 2 && results?.items.length === 0 && (
+        <div className="empty" style={{ padding: '16px 0' }}>{t('searchEmpty', { query: dq })}</div>
+      )}
+      {results?.items.map((s) => (
+        <div key={s.slug} className="song-row" style={{ gridTemplateColumns: '1fr auto' }}
+          onClick={() => !addSong.isPending && addSong.mutate(s)}>
+          <div><span className="title">{s.titulo}</span> <span className="meta">— {s.interprete}</span></div>
+          <span className="chip">{t('add')}</span>
+        </div>
+      ))}
+    </div>
   )
 }

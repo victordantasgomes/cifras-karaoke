@@ -17,6 +17,7 @@
   "moveUp": "Déplacer vers le haut",
   "moveDown": "Déplacer vers le bas",
   "notFound": "⚠ chanson introuvable",
+  "editSong": "Modifier la chanson",
   "playFromHere": "Lire la playlist à partir d'ici",
   "errors": {
     "save": "Impossible d'enregistrer la setlist."

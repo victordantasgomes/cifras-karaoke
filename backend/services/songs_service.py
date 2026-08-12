@@ -3,8 +3,9 @@
 Biblioteca global: toda música é legível por qualquer usuário logado —
 `user_id` deixou de ser um filtro de leitura e virou só "quem criou (ou
 clonou) esta música" (pode até ser NULL, se essa pessoa for excluída depois).
-Editar uma música que não é sua nunca modifica o original: clona (ver
-update()/`_clone_and_update`). Excluir e mexer no áudio continuam restritos
+Editar (in-place) é restrito a quem é dono (ou admin) — quem não é dono
+precisa clonar explicitamente primeiro (ver clone()/`_clone_and_update`) e
+edita a própria cópia depois. Excluir e mexer no áudio continuam restritos
 ao criador (ou admin).
 
 Identidade: `songs.id` (uuid) é estável — nunca muda depois de criada.
@@ -50,8 +51,10 @@ class SongNotFound(Exception):
 
 
 class NotOwner(Exception):
-    """Ação restrita a quem criou a música (ou a um admin) — ex.: excluir,
-    mexer no áudio. Editar é sempre permitido (clona em vez de bloquear)."""
+    """Ação restrita a quem criou a música (ou a um admin) — excluir, mexer
+    no áudio, e agora também editar in-place (ver update()). Clonar
+    (clone()) continua liberado pra qualquer um, é assim que se contorna
+    essa restrição pra fazer adaptações próprias."""
     pass
 
 
@@ -182,17 +185,35 @@ class SongsService:
         return _row_to_dict(row)
 
     # ---------- edição ----------
-    def update(self, user_id: str, slug: str, header: dict, body: str, editor_name: str = "") -> dict:
-        """Dono (ou música "órfã", sem dono) edita in-place, como sempre.
-        Não-dono NUNCA mexe no original: gera uma cópia nova, sua, com
-        origin_song_id apontando pra original e o título marcado como
-        "cifra editada por: <editor_name>" (ver utils/song_title.py)."""
+    def update(self, user_id: str, slug: str, header: dict, body: str, editor_name: str = "",
+               is_admin: bool = False) -> dict:
+        """Dono (ou música "órfã", sem dono) edita in-place, como sempre —
+        admin também. Quem não é dono nem admin NÃO pode editar diretamente
+        (levanta NotOwner) — precisa clonar antes (ver clone()) e editar a
+        própria cópia."""
         row = self._fetch(slug)
         if not row:
             raise SongNotFound(slug)
-        if row["user_id"] is not None and row["user_id"] != user_id:
-            return self._clone_and_update(user_id, editor_name, row, header, body)
+        if row["user_id"] is not None and row["user_id"] != user_id and not is_admin:
+            raise NotOwner(slug)
         return self._update_owned(row, header, body)
+
+    def clone(self, user_id: str, slug: str, editor_name: str = "", is_admin: bool = False) -> dict:
+        """Cópia explícita de qualquer música visível (própria, compartilhada,
+        órfã, ou qualquer uma se admin) — o jeito de "adaptar" uma música de
+        outro usuário agora que update() não clona mais silenciosamente.
+        Reaproveita a mesma mecânica de sempre (`_clone_and_update`): novo
+        dono, origin_song_id apontando pra original, título com sufixo
+        "cifra editada por: <editor_name>" — conteúdo (header/body) entra
+        inalterado, só o dono muda."""
+        with db.get_pool().connection() as conn:
+            row = conn.execute(
+                f"select {_SONG_COLUMNS} from songs where slug=%(slug)s and {_visible_sql(is_admin)}",
+                {"user_id": user_id, "slug": slug},
+            ).fetchone()
+        if not row:
+            raise SongNotFound(slug)
+        return self._clone_and_update(user_id, editor_name, row, row["header"], row["body"])
 
     def _update_owned(self, row: dict, header: dict, body: str) -> dict:
         full_header = {f: str(header.get(f, "")) for f in HEADER_FIELDS}

@@ -8,10 +8,11 @@ mesmo comportamento de sempre (o arquivo .txt nunca era renomeado ao editar
 o @nome interno).
 
 Compartilhamento: `shared` (default true) controla se OUTROS usuários
-enxergam/tocam o setlist — quem não é dono só tem leitura (ver/tocar); криar,
+enxergam/tocam o setlist — quem não é dono só tem leitura (ver/tocar);
 renomear, reordenar, excluir e alternar o compartilhamento continuam
-restritos ao dono (levanta `PermissionError`, não silenciosamente cria outro
-setlist como acontecia antes)."""
+restritos ao dono ou a um admin (levanta `PermissionError` senão). Quem não
+é dono pode `clone()` um setlist visível pra ter sua própria cópia editável
+— mesmo princípio de SongsService.clone()."""
 from __future__ import annotations
 
 import db
@@ -109,11 +110,13 @@ class SetlistService:
             "items": [{"ref": ref, "song": song} for ref, song in zip(refs, resolved)],
         }
 
-    def save(self, user_id: str, name: str, items: list[str], setlist_id: str | None = None) -> dict:
+    def save(self, user_id: str, name: str, items: list[str], setlist_id: str | None = None,
+              is_admin: bool = False) -> dict:
         """Setlist órfão (dono excluído — ver AuthService.delete_user) pode
         ser editado por qualquer um, mesma lógica de "música órfã" em
         SongsService.update: conteúdo sobrevive à exclusão do usuário, mas
         sem dono ninguém ficaria travado pra sempre incapaz de mexer nele.
+        Admin edita qualquer setlist, dono ou não.
 
         Limites de plano (ver QuotaService) são checados ANTES de qualquer
         escrita — estourar o limite não grava nada parcial pra depois
@@ -124,7 +127,7 @@ class SetlistService:
                 existing = conn.execute(
                     "select id, user_id from setlists where slug=%s", (setlist_id,),
                 ).fetchone()
-            if existing and existing["user_id"] is not None and existing["user_id"] != user_id:
+            if existing and existing["user_id"] is not None and existing["user_id"] != user_id and not is_admin:
                 raise PermissionError(setlist_id)
 
         if self.quota:
@@ -151,28 +154,46 @@ class SetlistService:
                 )
         return {"id": slug, "nome": name, "count": len(items)}
 
-    def set_shared(self, user_id: str, setlist_id: str, value: bool) -> dict:
+    def set_shared(self, user_id: str, setlist_id: str, value: bool, is_admin: bool = False) -> dict:
         with db.get_pool().connection() as conn:
             row = conn.execute(
                 "select id, user_id from setlists where slug=%s", (setlist_id,),
             ).fetchone()
             if not row:
                 raise FileNotFoundError(setlist_id)
-            if row["user_id"] is not None and row["user_id"] != user_id:
+            if row["user_id"] is not None and row["user_id"] != user_id and not is_admin:
                 raise PermissionError(setlist_id)
             conn.execute("update setlists set shared=%s where id=%s", (value, row["id"]))
         return self.get(user_id, setlist_id)
 
-    def delete(self, user_id: str, setlist_id: str) -> None:
+    def delete(self, user_id: str, setlist_id: str, is_admin: bool = False) -> None:
         with db.get_pool().connection() as conn:
             row = conn.execute(
                 "select user_id from setlists where slug=%s", (setlist_id,),
             ).fetchone()
             if not row:
                 return  # já não existe — idempotente, como sempre foi
-            if row["user_id"] is not None and row["user_id"] != user_id:
+            if row["user_id"] is not None and row["user_id"] != user_id and not is_admin:
                 raise PermissionError(setlist_id)
             conn.execute("delete from setlists where slug=%s", (setlist_id,))
+
+    def clone(self, user_id: str, setlist_id: str) -> dict:
+        """Cópia própria e editável de qualquer setlist visível (do próprio
+        usuário, compartilhado por outro, ou órfão) — mesmo princípio de
+        SongsService.clone(): contorna a restrição de "só o dono edita" sem
+        precisar de permissão nenhuma, porque não mexe no original."""
+        with db.get_pool().connection() as conn:
+            row = conn.execute(
+                "select id, nome, user_id, shared from setlists where slug=%s", (setlist_id,),
+            ).fetchone()
+            is_owner = not row or row["user_id"] is None or row["user_id"] == user_id
+            if not row or (not is_owner and not row["shared"]):
+                raise FileNotFoundError(setlist_id)
+            items = conn.execute(
+                "select ref from setlist_items where setlist_id=%s order by position", (row["id"],),
+            ).fetchall()
+        refs = [i["ref"] for i in items]
+        return self.save(user_id, f"{row['nome']} (cópia)", refs)
 
     def export_txt(self, user_id: str, setlist_id: str) -> str:
         data = self.get(user_id, setlist_id)

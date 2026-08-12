@@ -15,6 +15,16 @@
   "delete": "Excluir",
   "errors": {
     "create": "Não foi possível criar o setlist.",
-    "import": "Não foi possível importar o setlist."
-  }
+    "import": "Não foi possível importar o setlist.",
+    "clone": "Não foi possível clonar o setlist.",
+    "addSong": "Não foi possível adicionar a música."
+  },
+  "clone": "Clonar",
+  "cloning": "Clonando…",
+  "addSong": "+ Adicionar música",
+  "addSongTitle": "Adicionar música a este setlist",
+  "searchPlaceholder": "Buscar música para adicionar…",
+  "searchEmpty": "Nenhuma música encontrada para \"{{query}}\".",
+  "add": "adicionar",
+  "close": "Fechar"
 }

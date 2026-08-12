@@ -15,6 +15,7 @@ export default function Songs({ favoritesOnly = false }) {
   const [onlyMine, setOnlyMine] = useState(false)
   const [page, setPage] = useState(1)
   const [showUpload, setShowUpload] = useState(false)
+  const [showCreate, setShowCreate] = useState(false)
   const debouncedQ = useDebounce(q)
   const navigate = useNavigate()
   const user = useAuthStore((s) => s.user)
@@ -44,11 +45,19 @@ export default function Songs({ favoritesOnly = false }) {
           </div>
         </div>
         {!favoritesOnly && (
-          <button className="btn primary" onClick={() => setShowUpload(!showUpload)}>{t('newSong')}</button>
+          <div className="row" style={{ gap: 8 }}>
+            <button className="btn" onClick={() => { setShowCreate(false); setShowUpload(!showUpload) }}>
+              {t('importSong')}
+            </button>
+            <button className="btn primary" onClick={() => { setShowUpload(false); setShowCreate(!showCreate) }}>
+              {t('createSong')}
+            </button>
+          </div>
         )}
       </div>
 
       {showUpload && <UploadCard onDone={() => setShowUpload(false)} />}
+      {showCreate && <CreateCard onDone={() => setShowCreate(false)} />}
       {favoritesOnly && <FavoriteArtistsGenres />}
 
       <div className="row no-print" style={{ marginBottom: 16 }}>
@@ -148,6 +157,46 @@ function UploadCard({ onDone }) {
         <button className="btn primary" disabled={!file || upload.isPending} onClick={() => upload.mutate()}>{t('upload.submit')}</button>
       </div>
       {upload.isError && <div className="error-text">{t('upload.error')}</div>}
+    </div>
+  )
+}
+
+/** Cria uma música em branco (sem arquivo TXT — POST /songs já aceita JSON
+ * sem "file", ver upload_song() no backend) e já leva direto pro editor
+ * pra começar a escrever a cifra. */
+function CreateCard({ onDone }) {
+  const { t } = useTranslation('songs')
+  const [form, setForm] = useState({ titulo: '', genero: '', interprete: '' })
+  const qc = useQueryClient()
+  const navigate = useNavigate()
+  const create = useMutation({
+    mutationFn: () => api.post('/songs', {
+      titulo: form.titulo,
+      genero: form.genero || 'Sem Gênero',
+      interprete: form.interprete || 'Desconhecido',
+    }),
+    onSuccess: (r) => {
+      qc.invalidateQueries(['songs']); qc.invalidateQueries(['facets'])
+      onDone()
+      navigate(`/musicas/${r.data.slug}`)
+    },
+  })
+  return (
+    <div className="card no-print" style={{ marginBottom: 18 }}>
+      <div className="row">
+        <div className="field" style={{ flex: 1 }}>
+          <label>{t('create.title')}</label>
+          <input className="input" value={form.titulo} onChange={(e) => setForm({ ...form, titulo: e.target.value })} />
+        </div>
+        <div className="field"><label>{t('create.genre')}</label>
+          <input className="input" value={form.genero} onChange={(e) => setForm({ ...form, genero: e.target.value })} /></div>
+        <div className="field"><label>{t('create.artist')}</label>
+          <input className="input" value={form.interprete} onChange={(e) => setForm({ ...form, interprete: e.target.value })} /></div>
+        <button className="btn primary" disabled={!form.titulo.trim() || create.isPending} onClick={() => create.mutate()}>
+          {t('create.submit')}
+        </button>
+      </div>
+      {create.isError && <div className="error-text">{t('create.error')}</div>}
     </div>
   )
 }

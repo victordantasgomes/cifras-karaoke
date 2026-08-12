@@ -5,7 +5,8 @@
   "loadingCount": "…",
   "songCount_one": "{{count}} 首歌曲",
   "songCount_other": "{{count}} 首歌曲",
-  "newSong": "+ 新建歌曲",
+  "importSong": "导入歌曲",
+  "createSong": "+ 创建歌曲",
   "searchPlaceholder": "按标题、作者、演唱者、标签搜索…",
   "allGenres": "所有风格",
   "allArtists": "所有演唱者",
@@ -36,5 +37,12 @@
     "remove": "将 {{name}} 从收藏中移除",
     "noneArtists": "还没有收藏的演唱者。",
     "noneGenres": "还没有收藏的风格。"
+  },
+  "create": {
+    "title": "标题",
+    "genre": "风格",
+    "artist": "艺人",
+    "submit": "创建",
+    "error": "无法创建歌曲。"
   }
 }

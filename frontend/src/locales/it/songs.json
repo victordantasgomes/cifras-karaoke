@@ -5,7 +5,8 @@
   "loadingCount": "…",
   "songCount_one": "{{count}} brano",
   "songCount_other": "{{count}} brani",
-  "newSong": "+ Nuovo brano",
+  "importSong": "Importa canzone",
+  "createSong": "+ Crea canzone",
   "searchPlaceholder": "Cerca per titolo, autore, interprete, tag…",
   "allGenres": "Tutti i generi",
   "allArtists": "Tutti gli interpreti",
@@ -36,5 +37,12 @@
     "remove": "Rimuovi {{name}} dai preferiti",
     "noneArtists": "Ancora nessun artista preferito.",
     "noneGenres": "Ancora nessun genere preferito."
+  },
+  "create": {
+    "title": "Titolo",
+    "genre": "Genere",
+    "artist": "Artista",
+    "submit": "Crea",
+    "error": "Impossibile creare la canzone."
   }
 }

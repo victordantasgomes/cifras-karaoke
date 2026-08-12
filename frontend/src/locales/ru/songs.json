@@ -5,7 +5,8 @@
   "loadingCount": "…",
   "songCount_one": "{{count}} песня",
   "songCount_other": "{{count}} песен",
-  "newSong": "+ Новая песня",
+  "importSong": "Импортировать песню",
+  "createSong": "+ Создать песню",
   "searchPlaceholder": "Поиск по названию, автору, исполнителю, тегу…",
   "allGenres": "Все жанры",
   "allArtists": "Все исполнители",
@@ -36,5 +37,12 @@
     "remove": "Убрать {{name}} из избранного",
     "noneArtists": "Пока нет избранных исполнителей.",
     "noneGenres": "Пока нет избранных жанров."
+  },
+  "create": {
+    "title": "Название",
+    "genre": "Жанр",
+    "artist": "Исполнитель",
+    "submit": "Создать",
+    "error": "Не удалось создать песню."
   }
 }

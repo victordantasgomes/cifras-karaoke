@@ -14,9 +14,11 @@
     "shared": "🌐 Geteilt",
     "private": "🔒 Privat",
     "delete": "Löschen",
-    "confirmDelete": "Diesen Song löschen? Er wird aus allen Setlists entfernt."
+    "confirmDelete": "Diesen Song löschen? Er wird aus allen Setlists entfernt.",
+    "clone": "Song klonen",
+    "cloning": "Klonen…"
   },
-  "notOwnerBanner": "Dieser Song gehört einem anderen Nutzer — Bearbeiten (einschließlich Transponieren oder Normalisieren) erstellt eine eigene Kopie, das Original bleibt unverändert. Audio/Samples hochladen und Löschen bleiben dem Ersteller vorbehalten.",
+  "notOwnerBanner": "Dieser Song gehört einem anderen Benutzer — nur der Ersteller (oder ein Admin) kann ihn direkt bearbeiten. Klicke auf „Song klonen“, um deine eigene bearbeitbare Kopie zu erstellen. Audio/Samples hochladen und Löschen bleiben ebenfalls dem Ersteller vorbehalten.",
   "tabs": {
     "view": "Anzeigen",
     "edit": "Bearbeiten",
