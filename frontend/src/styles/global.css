@@ -155,7 +155,7 @@ button { font-family: inherit; }
   overflow: hidden;
 }
 .brand { padding: 4px 12px 18px; }
-.brand-logo-full { display: block; height: 100px; width: auto; }
+.brand-logo-full { display: block; height: 130px; width: auto; }
 .brand-logo-icon { display: none; height: 34px; width: auto; }
 .nav-item {
   display: flex; align-items: center; gap: 10px;
@@ -165,7 +165,7 @@ button { font-family: inherit; }
 }
 .nav-item:hover { color: var(--text); background: var(--glass); }
 .nav-item.active { color: var(--text); background: var(--glass-strong); box-shadow: inset 2px 0 0 var(--accent); }
-.nav-item svg { width: 20px; height: 20px; flex-shrink: 0; }
+.nav-item svg { width: 24px; height: 24px; flex-shrink: 0; }
 .nav-section-label {
   padding: 14px 12px 4px; font-size: 11px; font-weight: 700; letter-spacing: 0.06em;
   text-transform: uppercase; color: var(--muted);
@@ -650,7 +650,7 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
   .brand-logo-icon { display: block; }
   .sidebar:hover .brand-logo-full { display: block; }
   .sidebar:hover .brand-logo-icon { display: none; }
-  .nav-item { padding-left: 8px; padding-right: 8px; justify-content: center; }
+  .nav-item { padding-left: 6px; padding-right: 6px; justify-content: center; }
   .sidebar:hover .nav-item { padding-left: 12px; padding-right: 12px; justify-content: flex-start; }
   .nav-item span { display: none; }
   .sidebar:hover .nav-item span { display: inline; }
@@ -663,7 +663,7 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
   .sidebar { width: 64px; }
   .brand-logo-full { display: none; }
   .brand-logo-icon { display: block; }
-  .nav-item { padding-left: 8px; padding-right: 8px; justify-content: center; }
+  .nav-item { padding-left: 6px; padding-right: 6px; justify-content: center; }
   .nav-item span { display: none; }
   .nav-section-label { display: none; }
   .song-row { grid-template-columns: 1fr 90px; }
