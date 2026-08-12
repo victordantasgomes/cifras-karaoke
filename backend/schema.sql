@@ -298,6 +298,18 @@ create table if not exists setlist_items (
 );
 create index if not exists idx_setlist_items_setlist on setlist_items(setlist_id, position);
 
+-- Tela Setlists separa "Minhas setlists" (dono) de "Setlists seguindo"
+-- (compartilhadas por outra pessoa) — por padrão todo setlist shared=true
+-- aparece pra todo mundo em "seguindo"; esta tabela só guarda a EXCEÇÃO de
+-- quem clicou "deixar de seguir", sem mexer no setlist em si nem afetar
+-- outros usuários.
+create table if not exists setlist_unfollows (
+    user_id    text not null references users(id) on delete cascade,
+    setlist_id uuid not null references setlists(id) on delete cascade,
+    created_at timestamptz not null default now(),
+    primary key (user_id, setlist_id)
+);
+
 create table if not exists settings (
     user_id text primary key references users(id) on delete cascade,
     colors  jsonb not null default '{}'::jsonb,

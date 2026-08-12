@@ -12,12 +12,30 @@ enxergam/tocam o setlist — quem não é dono só tem leitura (ver/tocar);
 renomear, reordenar, excluir e alternar o compartilhamento continuam
 restritos ao dono ou a um admin (levanta `PermissionError` senão). Quem não
 é dono pode `clone()` um setlist visível pra ter sua própria cópia editável
-— mesmo princípio de SongsService.clone()."""
+— mesmo princípio de SongsService.clone().
+
+Minhas x Seguindo: `list()` devolve `is_owner` por item — o frontend separa
+"Minhas setlists" (dono, ou órfão) de "Setlists seguindo" (de outra pessoa,
+`shared=true`). Quem segue pode `unfollow()` pra parar de ver um setlist
+alheio específico (não mexe no setlist, só nesse usuário). `delete()` nunca
+apaga de verdade: reatribui pra uma conta de arquivo e vira privado (ver
+`_ARCHIVE_OWNER_USERNAME`)."""
 from __future__ import annotations
 
 import db
 from utils.slug import slugify
 from utils.song_title import strip_title_suffix
+
+# Excluir nunca perde o conteúdo pra sempre: em vez de apagar a linha, o
+# setlist é reatribuído pra esta conta (arquivo/backup) e vira privado — ver
+# delete(). Se a conta não existir no ambiente (ex.: banco de teste), cai no
+# mesmo comportamento de sempre pra usuário excluído: setlist órfão.
+_ARCHIVE_OWNER_USERNAME = "victor"
+
+
+def _archive_owner_id(conn) -> str | None:
+    row = conn.execute("select id from users where username=%s", (_ARCHIVE_OWNER_USERNAME,)).fetchone()
+    return row["id"] if row else None
 
 
 def _unique_setlist_slug(conn, user_id: str, base_slug: str) -> str:
@@ -73,14 +91,20 @@ class SetlistService:
 
     # ---------- API ----------
     def list(self, user_id: str) -> list[dict]:
-        """Setlists do usuário + de qualquer outra pessoa que estejam
-        `shared=true` (biblioteca global de setlists, com privacidade
-        opcional por setlist)."""
+        """Setlists do usuário (`is_owner=true` — vira "Minhas setlists" no
+        frontend) + de qualquer outra pessoa que estejam `shared=true` e que
+        este usuário não tenha "deixado de seguir" (`is_owner=false` — vira
+        "Setlists seguindo"). Órfão (dono excluído) sempre aparece como
+        "meu", pra qualquer usuário — mesmo princípio de sempre."""
         with db.get_pool().connection() as conn:
             rows = conn.execute(
                 """select s.slug, s.nome, s.user_id, s.shared, count(i.id) as count
                    from setlists s left join setlist_items i on i.setlist_id = s.id
-                   where s.user_id = %(user_id)s or s.shared = true or s.user_id is null
+                   where s.user_id = %(user_id)s or s.user_id is null
+                      or (s.shared = true and not exists (
+                          select 1 from setlist_unfollows f
+                          where f.user_id = %(user_id)s and f.setlist_id = s.id
+                      ))
                    group by s.id, s.slug, s.nome, s.user_id, s.shared, s.created_at
                    order by s.created_at""",
                 {"user_id": user_id},
@@ -167,15 +191,38 @@ class SetlistService:
         return self.get(user_id, setlist_id)
 
     def delete(self, user_id: str, setlist_id: str, is_admin: bool = False) -> None:
+        """Excluir nunca apaga a linha de verdade: reatribui o setlist pra
+        conta de arquivo (ver _ARCHIVE_OWNER_USERNAME) e marca como privado
+        — some da lista de quem excluiu (e de todo mundo que seguia) sem
+        perder o conteúdo pra sempre. Sem essa conta no ambiente (banco de
+        teste, por exemplo), vira órfão — mesmo fallback de sempre."""
         with db.get_pool().connection() as conn:
             row = conn.execute(
-                "select user_id from setlists where slug=%s", (setlist_id,),
+                "select id, user_id from setlists where slug=%s", (setlist_id,),
             ).fetchone()
             if not row:
                 return  # já não existe — idempotente, como sempre foi
             if row["user_id"] is not None and row["user_id"] != user_id and not is_admin:
                 raise PermissionError(setlist_id)
-            conn.execute("delete from setlists where slug=%s", (setlist_id,))
+            new_owner = _archive_owner_id(conn)
+            conn.execute(
+                "update setlists set user_id=%s, shared=false where id=%s",
+                (new_owner, row["id"]),
+            )
+            conn.execute("delete from setlist_unfollows where setlist_id=%s", (row["id"],))
+
+    def unfollow(self, user_id: str, setlist_id: str) -> None:
+        """Este usuário não quer mais ver este setlist alheio na lista —
+        não afeta o setlist em si nem quem mais o segue (ver list())."""
+        with db.get_pool().connection() as conn:
+            row = conn.execute("select id from setlists where slug=%s", (setlist_id,)).fetchone()
+            if not row:
+                raise FileNotFoundError(setlist_id)
+            conn.execute(
+                "insert into setlist_unfollows (user_id, setlist_id) values (%s, %s) "
+                "on conflict do nothing",
+                (user_id, row["id"]),
+            )
 
     def clone(self, user_id: str, setlist_id: str) -> dict:
         """Cópia própria e editável de qualquer setlist visível (do próprio

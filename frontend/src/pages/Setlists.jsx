@@ -41,6 +41,23 @@ export default function Setlists() {
     onSuccess: () => { setError(''); qc.invalidateQueries({ queryKey: ['setlists'] }) },
     onError: (e) => setError(e.response?.data?.error || t('errors.clone')),
   })
+  // deixar de seguir: só afeta a lista de QUEM PEDIU, não mexe no setlist
+  // nem em quem mais o segue — ver setlist_service.py::unfollow.
+  const unfollow = useMutation({
+    mutationFn: (id) => api.post(`/setlists/${id}/unfollow`),
+    onSuccess: () => { setError(''); qc.invalidateQueries({ queryKey: ['setlists'] }) },
+    onError: (e) => setError(e.response?.data?.error || t('errors.unfollow')),
+  })
+
+  const exportSetlist = async (id) => {
+    const { data: blob } = await api.get(`/setlists/${id}/export`, { responseType: 'blob' })
+    const url = URL.createObjectURL(blob)
+    const a = document.createElement('a'); a.href = url; a.download = `${id}.txt`; a.click()
+    URL.revokeObjectURL(url)
+  }
+
+  const mine = data?.filter((s) => s.is_owner) || []
+  const following = data?.filter((s) => !s.is_owner) || []
 
   return (
     <>
@@ -58,53 +75,55 @@ export default function Setlists() {
             onChange={(e) => e.target.files[0] && importFile.mutate(e.target.files[0])} />
         </label>
       </div>
-      <div className="card" style={{ padding: 0 }}>
-        {!data?.length && <div className="empty">{t('empty')}</div>}
-        {data?.map((s) => (
+
+      <h2 className="section-heading">{t('myLists')}</h2>
+      <div className="card" style={{ padding: 0, marginBottom: 28 }}>
+        {!mine.length && <div className="empty">{t('emptyMine')}</div>}
+        {mine.map((s) => (
           <div key={s.id}>
             <div className="song-row" style={{ gridTemplateColumns: '1fr auto auto auto auto auto' }}>
               <Link to={`/setlists/${s.id}`}>
                 <div className="title">{s.nome}</div>
-                <div className="meta">
-                  {t('itemCount', { count: s.count })}
-                  {!s.is_owner && <span className="chip" style={{ marginLeft: 8 }} title={t('otherUserTitle')}>{t('otherUserChip')}</span>}
-                </div>
+                <div className="meta">{t('itemCount', { count: s.count })}</div>
               </Link>
-              <div>
-                {s.is_owner && (
-                  <label className="row" style={{ gap: 6, alignItems: 'center', cursor: 'pointer' }}>
-                    <input type="checkbox" checked={s.shared}
-                      onChange={(e) => toggleShare.mutate({ id: s.id, value: e.target.checked })} />
-                    {t('shared')}
-                  </label>
-                )}
-              </div>
-              <div>
-                {s.is_owner && (
-                  <button className="btn no-print" title={t('addSongTitle')}
-                    onClick={() => setAddingTo(addingTo === s.id ? null : s.id)}>
-                    {addingTo === s.id ? t('close') : t('addSong')}
-                  </button>
-                )}
-              </div>
+              <label className="row" style={{ gap: 6, alignItems: 'center', cursor: 'pointer' }}>
+                <input type="checkbox" checked={s.shared}
+                  onChange={(e) => toggleShare.mutate({ id: s.id, value: e.target.checked })} />
+                {t('shared')}
+              </label>
+              <button className="btn no-print" title={t('addSongTitle')}
+                onClick={() => setAddingTo(addingTo === s.id ? null : s.id)}>
+                {addingTo === s.id ? t('close') : t('addSong')}
+              </button>
               <button className="btn no-print" disabled={clone.isPending} onClick={() => clone.mutate(s.id)}>
                 {clone.isPending ? t('cloning') : t('clone')}
               </button>
-              <a className="btn" href="#" onClick={async (e) => {
-                e.preventDefault()
-                const { data: blob } = await api.get(`/setlists/${s.id}/export`, { responseType: 'blob' })
-                const url = URL.createObjectURL(blob)
-                const a = document.createElement('a'); a.href = url; a.download = `${s.id}.txt`; a.click()
-                URL.revokeObjectURL(url)
-              }}>{t('export')}</a>
-              <div>
-                {s.is_owner && (
-                  <button className="btn danger"
-                    onClick={() => confirm(t('deleteConfirm')) && remove.mutate(s.id)}>{t('delete')}</button>
-                )}
-              </div>
+              <a className="btn" href="#" onClick={(e) => { e.preventDefault(); exportSetlist(s.id) }}>{t('export')}</a>
+              <button className="btn danger no-print"
+                onClick={() => confirm(t('deleteConfirm')) && remove.mutate(s.id)}>{t('delete')}</button>
             </div>
             {addingTo === s.id && <AddSongPanel setlistId={s.id} onAdded={() => setAddingTo(null)} />}
+          </div>
+        ))}
+      </div>
+
+      <h2 className="section-heading">{t('followingLists')}</h2>
+      <div className="card" style={{ padding: 0 }}>
+        {!following.length && <div className="empty">{t('emptyFollowing')}</div>}
+        {following.map((s) => (
+          <div key={s.id} className="song-row" style={{ gridTemplateColumns: '1fr auto auto auto' }}>
+            <Link to={`/setlists/${s.id}`}>
+              <div className="title">{s.nome}</div>
+              <div className="meta">{t('itemCount', { count: s.count })}</div>
+            </Link>
+            <button className="btn no-print" disabled={clone.isPending} onClick={() => clone.mutate(s.id)}>
+              {clone.isPending ? t('cloning') : t('clone')}
+            </button>
+            <a className="btn" href="#" onClick={(e) => { e.preventDefault(); exportSetlist(s.id) }}>{t('export')}</a>
+            <button className="btn danger no-print" disabled={unfollow.isPending}
+              onClick={() => unfollow.mutate(s.id)}>
+              {unfollow.isPending ? t('unfollowing') : t('unfollow')}
+            </button>
           </div>
         ))}
       </div>

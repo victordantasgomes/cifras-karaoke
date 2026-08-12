@@ -4,11 +4,8 @@
   "newPlaceholder": "Nome do novo setlist",
   "create": "Criar",
   "importTxt": "Importar TXT",
-  "empty": "Nenhum setlist ainda. Crie o primeiro para o próximo show.",
   "itemCount_one": "{{count}} música",
   "itemCount_other": "{{count}} músicas",
-  "otherUserTitle": "Você não criou este setlist",
-  "otherUserChip": "de outro usuário",
   "shared": "Compartilhado",
   "export": "Exportar",
   "deleteConfirm": "Excluir setlist?",
@@ -17,7 +14,8 @@
     "create": "Não foi possível criar o setlist.",
     "import": "Não foi possível importar o setlist.",
     "clone": "Não foi possível clonar o setlist.",
-    "addSong": "Não foi possível adicionar a música."
+    "addSong": "Não foi possível adicionar a música.",
+    "unfollow": "Não foi possível deixar de seguir este setlist."
   },
   "clone": "Clonar",
   "cloning": "Clonando…",
@@ -30,5 +28,11 @@
   "allArtists": "Todos os intérpretes",
   "addSelected_one": "Adicionar ({{count}}) música",
   "addSelected_other": "Adicionar ({{count}}) músicas",
-  "adding": "Adicionando…"
+  "adding": "Adicionando…",
+  "myLists": "Minhas setlists",
+  "followingLists": "Setlists seguindo",
+  "emptyMine": "Nenhum setlist seu ainda. Crie o primeiro para o próximo show.",
+  "emptyFollowing": "Você ainda não segue nenhum setlist de outro usuário.",
+  "unfollow": "Deixar de seguir",
+  "unfollowing": "Deixando de seguir…"
 }

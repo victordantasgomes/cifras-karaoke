@@ -142,8 +142,13 @@ def test_orphaned_setlist_is_manageable_by_anyone(ctx, other_user_id):
     saved = setlists.save(other_user_id, "Show renomeado", [], created["id"])
     assert saved["nome"] == "Show renomeado"
     setlists.delete(other_user_id, created["id"])
-    with pytest.raises(FileNotFoundError):
-        setlists.get(other_user_id, created["id"])
+    # sem conta de arquivo no ambiente de teste, "excluir" cai no mesmo
+    # fallback de sempre pra órfão: continua existindo, gerenciável, só que
+    # agora privado (ver test_owner_deleting_setlist_archives_it_under_victor
+    # pro caminho com conta de arquivo configurada)
+    archived = setlists.get(other_user_id, created["id"])
+    assert archived["is_owner"] is True
+    assert archived["shared"] is False
 
 
 def test_normalize_slug_excludes_suffix_and_interprete_is_not_duplicated(ctx):
@@ -231,6 +236,20 @@ def _make_private_user(user_id: str, username: str) -> None:
             "values (%s, %s, %s, 'x', false)",
             (user_id, username, username),
         )
+
+
+def _make_archive_user() -> str:
+    """Cria a conta de arquivo (username="victor") usada por
+    SetlistService.delete() como novo dono — mesmo id de volta pra dar pra
+    conferir o resultado. Sem essa conta no ambiente, delete() cai no
+    fallback de órfão (ver test_orphaned_setlist_is_manageable_by_anyone)."""
+    user_id = "user-archive-victor"
+    with db.get_pool().connection() as conn:
+        conn.execute(
+            "insert into users (id, username, name, password_hash) values (%s, 'victor', 'Victor', 'x')",
+            (user_id,),
+        )
+    return user_id
 
 
 def test_new_song_defaults_shared_for_existing_style_user(ctx):
@@ -474,6 +493,36 @@ def test_non_shared_setlist_hidden_from_other_user(ctx, other_user_id):
         setlists.get(other_user_id, created["id"])
 
 
+def test_list_splits_mine_from_following_via_is_owner(ctx, other_user_id):
+    songs, setlists, _ = ctx
+    _create(songs)
+    mine = setlists.save("u1", "Meu Show", ["Coldplay/Yellow"])
+    setlists.save(other_user_id, "Show do Outro", ["Coldplay/Yellow"])
+
+    by_id = {s["id"]: s for s in setlists.list("u1")}
+    assert by_id[mine["id"]]["is_owner"] is True
+    assert by_id["show-do-outro"]["is_owner"] is False
+
+
+def test_unfollow_hides_setlist_from_list_without_affecting_others(ctx, other_user_id):
+    songs, setlists, _ = ctx
+    _create(songs)
+    created = setlists.save("u1", "Show", ["Coldplay/Yellow"])
+    assert created["id"] in [s["id"] for s in setlists.list(other_user_id)]
+
+    setlists.unfollow(other_user_id, created["id"])
+    assert created["id"] not in [s["id"] for s in setlists.list(other_user_id)]
+    # não afeta o dono nem é uma exclusão de verdade — só some pra quem pediu
+    assert created["id"] in [s["id"] for s in setlists.list("u1")]
+    assert setlists.get("u1", created["id"])["nome"] == "Show"
+
+
+def test_unfollow_of_unknown_setlist_raises_not_found(ctx, other_user_id):
+    songs, setlists, _ = ctx
+    with pytest.raises(FileNotFoundError):
+        setlists.unfollow(other_user_id, "nao-existe")
+
+
 def test_non_owner_cannot_save_or_delete_setlist(ctx, other_user_id):
     songs, setlists, _ = ctx
     _create(songs)
@@ -495,11 +544,31 @@ def test_non_owner_cannot_toggle_sharing(ctx, other_user_id):
 def test_admin_can_save_and_delete_others_setlist(ctx, other_user_id):
     songs, setlists, _ = ctx
     _create(songs)
+    victor_id = _make_archive_user()
     created = setlists.save("u1", "Show", ["Coldplay/Yellow"])
     setlists.save(other_user_id, "Show renomeado", ["Coldplay/Yellow"], created["id"], is_admin=True)
     setlists.delete(other_user_id, created["id"], is_admin=True)
+    # arquivado (dono virou a conta de arquivo, ficou privado) — u1 não é
+    # mais dono nem vê mais o setlist compartilhado
     with pytest.raises(FileNotFoundError):
         setlists.get("u1", created["id"])
+    assert setlists.get(victor_id, created["id"])["is_owner"] is True
+
+
+def test_owner_deleting_setlist_archives_it_under_victor(ctx):
+    songs, setlists, _ = ctx
+    _create(songs)
+    victor_id = _make_archive_user()
+    created = setlists.save("u1", "Show", ["Coldplay/Yellow"])
+    setlists.delete("u1", created["id"])
+
+    # some da lista de quem excluiu
+    assert created["id"] not in [s["id"] for s in setlists.list("u1")]
+    # mas sobrevive, arquivado (dono = victor, privado) — não foi perdido
+    archived = setlists.get(victor_id, created["id"])
+    assert archived["is_owner"] is True
+    assert archived["shared"] is False
+    assert [i["ref"] for i in archived["items"]] == ["Coldplay/Yellow"]
 
 
 def test_clone_setlist_creates_own_copy(ctx, other_user_id):

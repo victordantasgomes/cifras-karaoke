@@ -4,11 +4,8 @@
   "newPlaceholder": "Nome della nuova scaletta",
   "create": "Crea",
   "importTxt": "Importa TXT",
-  "empty": "Ancora nessuna scaletta. Crea la prima per il tuo prossimo concerto.",
   "itemCount_one": "{{count}} brano",
   "itemCount_other": "{{count}} brani",
-  "otherUserTitle": "Non hai creato tu questa scaletta",
-  "otherUserChip": "di un altro utente",
   "shared": "Condivisa",
   "export": "Esporta",
   "deleteConfirm": "Eliminare la scaletta?",
@@ -17,7 +14,8 @@
     "create": "Impossibile creare la scaletta.",
     "import": "Impossibile importare la scaletta.",
     "clone": "Impossibile clonare la setlist.",
-    "addSong": "Impossibile aggiungere la canzone."
+    "addSong": "Impossibile aggiungere la canzone.",
+    "unfollow": "Impossibile smettere di seguire questa setlist."
   },
   "clone": "Clona",
   "cloning": "Clonazione…",
@@ -30,5 +28,11 @@
   "allArtists": "Tutti gli interpreti",
   "addSelected_one": "Aggiungi ({{count}}) canzone",
   "addSelected_other": "Aggiungi ({{count}}) canzoni",
-  "adding": "Aggiunta in corso…"
+  "adding": "Aggiunta in corso…",
+  "myLists": "Le mie setlist",
+  "followingLists": "Setlist seguite",
+  "emptyMine": "Ancora nessuna setlist. Crea la prima per il tuo prossimo show.",
+  "emptyFollowing": "Non stai ancora seguendo nessuna setlist di un altro utente.",
+  "unfollow": "Smetti di seguire",
+  "unfollowing": "Rimozione in corso…"
 }

@@ -4,11 +4,8 @@
   "newPlaceholder": "Nome do novo alinhamento",
   "create": "Criar",
   "importTxt": "Importar TXT",
-  "empty": "Ainda não há alinhamentos. Crie o primeiro para o próximo concerto.",
   "itemCount_one": "{{count}} música",
   "itemCount_other": "{{count}} músicas",
-  "otherUserTitle": "Este alinhamento não foi criado por si",
-  "otherUserChip": "de outro utilizador",
   "shared": "Partilhado",
   "export": "Exportar",
   "deleteConfirm": "Eliminar alinhamento?",
@@ -17,7 +14,8 @@
     "create": "Não foi possível criar o alinhamento.",
     "import": "Não foi possível importar o alinhamento.",
     "clone": "Não foi possível clonar o setlist.",
-    "addSong": "Não foi possível adicionar a música."
+    "addSong": "Não foi possível adicionar a música.",
+    "unfollow": "Não foi possível deixar de seguir este setlist."
   },
   "clone": "Clonar",
   "cloning": "A clonar…",
@@ -30,5 +28,11 @@
   "allArtists": "Todos os intérpretes",
   "addSelected_one": "Adicionar ({{count}}) música",
   "addSelected_other": "Adicionar ({{count}}) músicas",
-  "adding": "A adicionar…"
+  "adding": "A adicionar…",
+  "myLists": "Os meus setlists",
+  "followingLists": "Setlists a seguir",
+  "emptyMine": "Ainda não tem nenhum setlist. Crie o primeiro para o próximo concerto.",
+  "emptyFollowing": "Ainda não está a seguir nenhum setlist de outro utilizador.",
+  "unfollow": "Deixar de seguir",
+  "unfollowing": "A deixar de seguir…"
 }

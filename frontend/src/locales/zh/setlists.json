@@ -4,11 +4,8 @@
   "newPlaceholder": "新歌单名称",
   "create": "创建",
   "importTxt": "导入 TXT",
-  "empty": "还没有歌单。创建第一个歌单，为下一场演出做准备。",
   "itemCount_one": "{{count}} 首歌曲",
   "itemCount_other": "{{count}} 首歌曲",
-  "otherUserTitle": "这个歌单不是你创建的",
-  "otherUserChip": "来自其他用户",
   "shared": "已共享",
   "export": "导出",
   "deleteConfirm": "删除歌单？",
@@ -17,7 +14,8 @@
     "create": "无法创建歌单。",
     "import": "无法导入歌单。",
     "clone": "无法克隆歌单。",
-    "addSong": "无法添加歌曲。"
+    "addSong": "无法添加歌曲。",
+    "unfollow": "无法取消关注此歌单。"
   },
   "clone": "克隆",
   "cloning": "克隆中…",
@@ -30,5 +28,11 @@
   "allArtists": "所有演唱者",
   "addSelected_one": "添加 ({{count}}) 首歌曲",
   "addSelected_other": "添加 ({{count}}) 首歌曲",
-  "adding": "添加中…"
+  "adding": "添加中…",
+  "myLists": "我的歌单",
+  "followingLists": "关注的歌单",
+  "emptyMine": "还没有歌单,创建第一个用于下次演出吧。",
+  "emptyFollowing": "你还没有关注任何其他用户的歌单。",
+  "unfollow": "取消关注",
+  "unfollowing": "取消关注中…"
 }

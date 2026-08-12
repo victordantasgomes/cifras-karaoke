@@ -4,11 +4,8 @@
   "newPlaceholder": "Nom de la nouvelle setlist",
   "create": "Créer",
   "importTxt": "Importer un TXT",
-  "empty": "Aucune setlist pour le moment. Créez la première pour votre prochain concert.",
   "itemCount_one": "{{count}} chanson",
   "itemCount_other": "{{count}} chansons",
-  "otherUserTitle": "Vous n'avez pas créé cette setlist",
-  "otherUserChip": "d'un autre utilisateur",
   "shared": "Partagée",
   "export": "Exporter",
   "deleteConfirm": "Supprimer la setlist ?",
@@ -17,7 +14,8 @@
     "create": "Impossible de créer la setlist.",
     "import": "Impossible d'importer la setlist.",
     "clone": "Impossible de cloner la setlist.",
-    "addSong": "Impossible d'ajouter la chanson."
+    "addSong": "Impossible d'ajouter la chanson.",
+    "unfollow": "Impossible de ne plus suivre cette setlist."
   },
   "clone": "Cloner",
   "cloning": "Clonage…",
@@ -30,5 +28,11 @@
   "allArtists": "Tous les interprètes",
   "addSelected_one": "Ajouter ({{count}}) chanson",
   "addSelected_other": "Ajouter ({{count}}) chansons",
-  "adding": "Ajout en cours…"
+  "adding": "Ajout en cours…",
+  "myLists": "Mes setlists",
+  "followingLists": "Setlists suivies",
+  "emptyMine": "Aucune setlist pour l'instant. Créez la première pour votre prochain concert.",
+  "emptyFollowing": "Vous ne suivez encore aucune setlist d'un autre utilisateur.",
+  "unfollow": "Ne plus suivre",
+  "unfollowing": "Désabonnement…"
 }

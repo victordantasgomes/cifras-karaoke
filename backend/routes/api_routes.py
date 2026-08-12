@@ -720,6 +720,15 @@ def build_blueprint(ctx) -> Blueprint:
         except QuotaExceeded as e:
             return jsonify({"error": str(e), "error_code": quota_error_code(str(e))}), 402
 
+    @api.post("/setlists/<setlist_id>/unfollow")
+    @protected
+    def unfollow_setlist(setlist_id):
+        try:
+            ctx.setlists.unfollow(g.user_id, setlist_id)
+        except FileNotFoundError:
+            return jsonify({"error": "Setlist não encontrado.", "error_code": "SETLIST_NOT_FOUND"}), 404
+        return "", 204
+
     @api.get("/setlists/<setlist_id>/export")
     @protected
     def export_setlist(setlist_id):
