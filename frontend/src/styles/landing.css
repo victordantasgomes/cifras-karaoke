@@ -59,8 +59,8 @@
   display: grid; grid-template-columns: 1.05fr 0.95fr; gap: 48px; align-items: center;
 }
 .landing-hero-logo {
-  grid-column: 1 / -1; display: block; width: min(840px, 90%); height: auto;
-  margin: 0 auto 40px; border-radius: 18px;
+  grid-column: 1 / -1; display: block; width: min(420px, 60%); height: auto;
+  margin: 0 auto 32px;
 }
 .landing-eyebrow {
   display: inline-block; color: var(--accent); font-weight: 700;
