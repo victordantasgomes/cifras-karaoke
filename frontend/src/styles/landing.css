@@ -43,7 +43,7 @@
   backdrop-filter: blur(18px);
   border-bottom: 1px solid var(--stroke);
 }
-.landing-logo { display: block; height: 34px; width: auto; }
+.landing-logo { display: block; height: 60px; width: auto; }
 .landing-nav { display: flex; align-items: center; gap: 26px; }
 .landing-nav button {
   background: none; border: none; cursor: pointer;
@@ -58,6 +58,7 @@
   padding-top: 148px !important;
   display: grid; grid-template-columns: 1.05fr 0.95fr; gap: 48px; align-items: center;
 }
+.landing-hero-logo { display: block; width: min(280px, 48%); height: auto; margin-bottom: 22px; }
 .landing-eyebrow {
   display: inline-block; color: var(--accent); font-weight: 700;
   font-size: 12.5px; text-transform: uppercase; letter-spacing: 0.08em;
@@ -330,6 +331,7 @@
   .landing-header { padding: 12px 20px; }
   .landing-nav { display: none; }
   .landing-hero { grid-template-columns: 1fr; padding-top: 120px !important; text-align: center; }
+  .landing-hero-logo { margin-left: auto; margin-right: auto; }
   .landing-hero-sub { margin-left: auto; margin-right: auto; }
   .landing-hero-actions { justify-content: center; }
   .landing-hero-photo-frame { width: min(340px, 100%); margin-top: 8px; }
