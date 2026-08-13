@@ -41,5 +41,8 @@
   "formulasToggle": "Formeln der Akkordqualitäten",
   "hoverCard": {
     "vary": "Akkord variieren"
+  },
+  "chordSidebar": {
+    "title": "Akkord-Assistent"
   }
 }

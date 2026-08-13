@@ -66,3 +66,25 @@ export function parseChordSymbol(symbol) {
     bass: bassL ? pitchClass(bassL, bassAcc) : null,
   }
 }
+
+/** Lista os símbolos de acorde únicos de uma música, na ordem em que
+ * aparecem pela primeira vez — usado pelo assistente de acordes fixo do
+ * player karaokê (ver KaraokeChordSidebar.jsx). `lines` é o mesmo array já
+ * tipado/filtrado que o payload do karaokê expõe (backend/services/
+ * karaoke_service.py::payload — linhas ocultas já vêm de fora); só conta
+ * linhas tipo "acorde" e tokens reconhecidos por parseChordSymbol — o mesmo
+ * acorde pode se repetir dezenas de vezes ao longo da música, mas entra só
+ * uma vez na lista. */
+export function extractUniqueChords(lines) {
+  const seen = new Set()
+  const result = []
+  for (const line of lines || []) {
+    if (line.tipo !== 'acorde' || !line.text) continue
+    for (const { raw } of tokenizeChordLine(line.text)) {
+      if (seen.has(raw) || !parseChordSymbol(raw)) continue
+      seen.add(raw)
+      result.push(raw)
+    }
+  }
+  return result
+}

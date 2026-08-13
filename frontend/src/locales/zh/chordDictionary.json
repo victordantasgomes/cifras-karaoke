@@ -41,5 +41,8 @@
   "formulasToggle": "和弦性质公式",
   "hoverCard": {
     "vary": "查看其他指法"
+  },
+  "chordSidebar": {
+    "title": "和弦助手"
   }
 }

@@ -353,10 +353,59 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
   cursor: none;
 }
 .karaoke-stage.controls-visible { cursor: default; }
+/* linha horizontal entre o conteúdo principal (cifra) e o assistente de
+   acordes (ver KaraokeChordSidebar.jsx) — substitui o filho único que
+   .karaoke-stage (flex column) tinha antes; min-height:0 é o que permite o
+   conteúdo principal encolher/rolar dentro do espaço fixo em vez de
+   estourar a tela. Sem instrumento selecionado a sidebar não é montada, e
+   este wrapper vira um passthrough de largura total, sem efeito visual. */
+.k-body { flex: 1; display: flex; flex-direction: row; min-height: 0; }
 .k-lines {
-  flex: 1; display: flex; flex-direction: column; justify-content: center;
+  flex: 1; min-width: 0; display: flex; flex-direction: column; justify-content: center;
   gap: 0.4vh; padding: 0 6vw; overflow: hidden;
 }
+/* barra de redimensionamento (ChordResizeHandle) entre a cifra e o
+   assistente — hit-area de 10px pra ser fácil de pegar com o mouse, só a
+   linha central (2px) fica visível, destacada em âmbar no hover/enquanto
+   arrasta pra confirmar que "pegou" a barra certa. */
+.k-chord-resize-handle {
+  width: 10px; flex-shrink: 0; cursor: col-resize; position: relative;
+}
+.k-chord-resize-handle::after {
+  content: ''; position: absolute; top: 0; bottom: 0; left: 4px; width: 2px;
+  background: var(--stroke); transition: background 120ms;
+}
+.k-chord-resize-handle:hover::after { background: var(--amber); }
+/* assistente de acordes — largura ajustável (arrastando .k-chord-resize-
+   handle, ver useChordSidebarStore), nunca rola (ver comentário em
+   KaraokeChordSidebar.jsx): dentro de cada coluna, cada acorde divide
+   igualmente a altura disponível (.k-chord-sidebar-column flex), encolhendo
+   os diagramas em vez de estourar a tela — e quando ficariam pequenos
+   demais, o componente abre mais uma coluna sozinho (até 3, ver
+   MAX_COLUMNS) em vez de continuar espremendo. */
+.k-chord-sidebar {
+  flex-shrink: 0; display: flex; flex-direction: column;
+  padding: 18px 14px; background: var(--glass);
+  overflow: hidden;
+}
+.k-chord-sidebar-title {
+  font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em;
+  color: var(--muted); margin-bottom: 12px; flex-shrink: 0;
+}
+.k-chord-sidebar-grid { flex: 1; min-height: 0; display: flex; flex-direction: row; }
+.k-chord-sidebar-column {
+  flex: 1; min-width: 0; min-height: 0; display: flex; flex-direction: column; gap: 6px;
+}
+.k-chord-sidebar-column + .k-chord-sidebar-column { border-left: 1px solid var(--stroke); margin-left: 14px; padding-left: 14px; }
+.k-chord-entry {
+  flex: 1 1 0; min-height: 0; display: flex; flex-direction: column;
+  border-top: 1px solid var(--stroke); padding-top: 6px;
+}
+.k-chord-entry:first-child { border-top: none; padding-top: 0; }
+.k-chord-entry-name { font-weight: 700; color: var(--amber); flex-shrink: 0; font-size: clamp(11px, 1.6vh, 15px); }
+.k-chord-entry-diagrams { flex: 1; min-height: 0; display: flex; gap: 6px; }
+.k-chord-mini-diagram { flex: 1; min-width: 0; min-height: 0; display: flex; align-items: center; justify-content: center; }
+.k-chord-mini-empty { color: var(--muted); font-size: 12px; }
 .k-line {
   font-family: var(--font-mono);
   /* vh-based sizing keeps 16 stacked lines + gaps within the viewport at any screen height;
@@ -407,7 +456,11 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
    proporcional a nada). Posicionamento absoluto, mesmo padrão de
    .k-header/.k-controls — não interfere no layout flex de .k-lines. */
 .k-timeline {
-  position: absolute; top: 10vh; bottom: 8vh; right: 2vw; width: 8px;
+  position: absolute; top: 10vh; bottom: 8vh; width: 8px;
+  /* desloca pra antes da sidebar do assistente de acordes quando ela está
+     visível (--k-sidebar-w, ver KaraokeStage.jsx) — sem ela, 0px, mesma
+     posição de sempre. */
+  right: calc(2vw + var(--k-sidebar-w, 0px));
 }
 .k-timeline-seg {
   position: absolute; left: 0; right: 0; border-radius: 4px;
@@ -453,7 +506,7 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
    manualmente (ver handleUserScroll em ScrollPlayer.jsx); scrollbar-color/
    ::-webkit-scrollbar só troca a aparência pro tema escuro do palco. */
 .scroll-viewport {
-  flex: 1; overflow-y: auto; overflow-x: hidden;
+  flex: 1; min-width: 0; overflow-y: auto; overflow-x: hidden;
   scrollbar-color: var(--amber-soft) transparent;
   scrollbar-width: thin;
 }
@@ -684,6 +737,10 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
   .main { padding: 76px 18px 18px; }
   .chord-dict-layout { grid-template-columns: 1fr; }
   .chord-dict-list { max-height: 320px; }
+  /* tela estreita (celular): a sidebar fixa de 240px sufocaria a letra/
+     cifra no modo retrato — o assistente de acordes some (a preferência
+     continua salva, só não é exibida aqui); ver KaraokeChordSidebar.jsx. */
+  .k-chord-sidebar { display: none; }
 }
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; animation: none !important; }

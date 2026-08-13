@@ -34,5 +34,13 @@
   "emptyMine": "Noch keine Setlist vorhanden. Erstelle die erste für deinen nächsten Auftritt.",
   "emptyFollowing": "Du folgst noch keiner Setlist eines anderen Nutzers.",
   "unfollow": "Nicht mehr folgen",
-  "unfollowing": "Wird entfolgt…"
+  "unfollowing": "Wird entfolgt…",
+  "chordAssistant": {
+    "button": "Akkord-Assistent",
+    "title": "Akkord-Assistent",
+    "hint": "Wähle, für welche Instrumente das Akkorddiagramm fest am Rand des Karaoke-Players angezeigt wird. Keine Auswahl = Assistent aus.",
+    "violao": "Gitarre",
+    "ukulele": "Ukulele",
+    "teclado": "Keyboard"
+  }
 }

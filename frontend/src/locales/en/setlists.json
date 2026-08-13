@@ -34,5 +34,13 @@
   "emptyMine": "No setlists yet. Create the first one for your next show.",
   "emptyFollowing": "You're not following any other user's setlist yet.",
   "unfollow": "Unfollow",
-  "unfollowing": "Unfollowing…"
+  "unfollowing": "Unfollowing…",
+  "chordAssistant": {
+    "button": "Chord assistant",
+    "title": "Chord assistant",
+    "hint": "Choose which instruments show a chord diagram, fixed on the side of the karaoke player. None selected = assistant off.",
+    "violao": "Guitar",
+    "ukulele": "Ukulele",
+    "teclado": "Keyboard"
+  }
 }

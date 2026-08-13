@@ -41,5 +41,8 @@
   "formulasToggle": "Fórmulas de cualidades de acorde",
   "hoverCard": {
     "vary": "variar acorde"
+  },
+  "chordSidebar": {
+    "title": "Asistente de acordes"
   }
 }

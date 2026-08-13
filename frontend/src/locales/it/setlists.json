@@ -34,5 +34,13 @@
   "emptyMine": "Ancora nessuna setlist. Crea la prima per il tuo prossimo show.",
   "emptyFollowing": "Non stai ancora seguendo nessuna setlist di un altro utente.",
   "unfollow": "Smetti di seguire",
-  "unfollowing": "Rimozione in corso…"
+  "unfollowing": "Rimozione in corso…",
+  "chordAssistant": {
+    "button": "Assistente per gli accordi",
+    "title": "Assistente per gli accordi",
+    "hint": "Scegli per quali strumenti mostrare il diagramma dell'accordo, fisso a lato del player karaoke. Nessuno selezionato = assistente disattivato.",
+    "violao": "Chitarra",
+    "ukulele": "Ukulele",
+    "teclado": "Tastiera"
+  }
 }

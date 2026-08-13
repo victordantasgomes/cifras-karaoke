@@ -7,6 +7,8 @@ import { usePlaylistStore } from '../store/playlistStore'
 import { useZoomStore } from '../store/zoomStore'
 import { useHotkeys } from '../hooks/useHotkeys'
 import { usePedalControl } from '../hooks/usePedalControl'
+import { extractUniqueChords } from '../utils/chordParser'
+import KaraokeChordSidebar from '../components/KaraokeChordSidebar'
 
 const CHORD_LIKE = new Set(['acorde', 'solo', 'riff', 'tab'])
 const MIN_RATE = 0.5
@@ -88,6 +90,18 @@ export default function ScrollPlayer({ data }) {
     staleTime: Infinity,
     refetchOnWindowFocus: false,
   })
+
+  // assistente de acordes (preferência pessoal, configurada na tela
+  // Setlists — ver Setlists.jsx::ChordAssistantPanel) — lista os instrumentos
+  // escolhidos e os acordes únicos da música, na ordem em que aparecem.
+  const { data: settings } = useQuery({
+    queryKey: ['settings'],
+    queryFn: () => api.get('/settings').then((r) => r.data),
+    staleTime: Infinity,
+    refetchOnWindowFocus: false,
+  })
+  const chordInstruments = settings?.prefs?.chordInstruments || []
+  const uniqueChords = useMemo(() => extractUniqueChords(data.lines), [data.lines])
 
   // a rota /karaoke/:slug não desmonta este componente ao trocar de música
   // dentro de uma playlist com duas músicas seguidas em modo rolagem (mesmo
@@ -333,14 +347,17 @@ export default function ScrollPlayer({ data }) {
         </div>
       </div>
 
-      <div className="scroll-viewport" ref={viewportRef} onScroll={handleUserScroll}>
-        <div className="scroll-sheet" ref={sheetRef}>
-          {data.lines.map((l, i) => (
-            <div key={i} className={`scroll-line${CHORD_LIKE.has(l.tipo) ? ' chord' : ''}`}>
-              {l.text || ' '}
-            </div>
-          ))}
+      <div className="k-body">
+        <div className="scroll-viewport" ref={viewportRef} onScroll={handleUserScroll}>
+          <div className="scroll-sheet" ref={sheetRef}>
+            {data.lines.map((l, i) => (
+              <div key={i} className={`scroll-line${CHORD_LIKE.has(l.tipo) ? ' chord' : ''}`}>
+                {l.text || ' '}
+              </div>
+            ))}
+          </div>
         </div>
+        <KaraokeChordSidebar chords={uniqueChords} instruments={chordInstruments} />
       </div>
 
       <div className="k-progress audio-mode"

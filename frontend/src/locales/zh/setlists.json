@@ -34,5 +34,13 @@
   "emptyMine": "还没有歌单,创建第一个用于下次演出吧。",
   "emptyFollowing": "你还没有关注任何其他用户的歌单。",
   "unfollow": "取消关注",
-  "unfollowing": "取消关注中…"
+  "unfollowing": "取消关注中…",
+  "chordAssistant": {
+    "button": "和弦助手",
+    "title": "和弦助手",
+    "hint": "选择要显示和弦图的乐器,固定显示在卡拉OK播放器侧边。未选择任何乐器时助手不显示。",
+    "violao": "木吉他",
+    "ukulele": "尤克里里",
+    "teclado": "键盘"
+  }
 }

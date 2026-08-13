@@ -41,5 +41,8 @@
   "formulasToggle": "Chord quality formulas",
   "hoverCard": {
     "vary": "vary chord"
+  },
+  "chordSidebar": {
+    "title": "Chord assistant"
   }
 }

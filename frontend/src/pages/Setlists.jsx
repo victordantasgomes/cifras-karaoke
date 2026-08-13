@@ -11,6 +11,7 @@ export default function Setlists() {
   const [name, setName] = useState('')
   const [error, setError] = useState('')
   const [addingTo, setAddingTo] = useState(null) // id do setlist com o painel de "+ Adicionar música" aberto
+  const [showChordAssistant, setShowChordAssistant] = useState(false)
   const { data } = useQuery({ queryKey: ['setlists'], queryFn: () => api.get('/setlists').then((r) => r.data) })
 
   const create = useMutation({
@@ -74,7 +75,12 @@ export default function Setlists() {
           <input type="file" accept=".txt" hidden
             onChange={(e) => e.target.files[0] && importFile.mutate(e.target.files[0])} />
         </label>
+        <button className="btn" onClick={() => setShowChordAssistant((v) => !v)}>
+          🎸 {t('chordAssistant.button')}
+        </button>
       </div>
+
+      {showChordAssistant && <ChordAssistantPanel onClose={() => setShowChordAssistant(false)} />}
 
       <h2 className="section-heading">{t('myLists')}</h2>
       <div className="card" style={{ padding: 0, marginBottom: 28 }}>
@@ -165,6 +171,52 @@ function AddSongPanel({ setlistId, onAdded }) {
     <div className="card no-print" style={{ margin: '0 0 4px', borderTop: 'none', borderRadius: 0 }}>
       {error && <div className="error-text" style={{ marginBottom: 10 }}>{error}</div>}
       <SongPicker namespace="setlists" pending={addSongs.isPending} onAdd={(songs) => addSongs.mutate(songs)} />
+    </div>
+  )
+}
+
+const CHORD_INSTRUMENTS = ['violao', 'ukulele', 'teclado']
+
+/** Escolhe pra quais instrumentos o assistente de acordes (painel fixo do
+ * player karaokê — ver KaraokeChordSidebar.jsx) mostra diagrama. Preferência
+ * PESSOAL (não do setlist): gravada em settings.prefs.chordInstruments,
+ * vale pra qualquer música/setlist que este usuário tocar — o botão fica
+ * aqui só porque é onde faz sentido configurar antes de subir ao palco.
+ * Nenhum instrumento marcado = assistente desligado (sidebar não aparece). */
+function ChordAssistantPanel({ onClose }) {
+  const { t } = useTranslation('setlists')
+  const qc = useQueryClient()
+  const { data: settings } = useQuery({
+    queryKey: ['settings'],
+    queryFn: () => api.get('/settings').then((r) => r.data),
+  })
+  const selected = settings?.prefs?.chordInstruments || []
+
+  const save = useMutation({
+    mutationFn: (next) => api.put('/settings', { prefs: { ...settings?.prefs, chordInstruments: next } }),
+    onSuccess: () => qc.invalidateQueries({ queryKey: ['settings'] }),
+  })
+
+  const toggle = (inst) => {
+    const next = selected.includes(inst) ? selected.filter((i) => i !== inst) : [...selected, inst]
+    save.mutate(next)
+  }
+
+  return (
+    <div className="card no-print" style={{ marginBottom: 18 }}>
+      <div className="row" style={{ justifyContent: 'space-between', marginBottom: 6 }}>
+        <strong>🎸 {t('chordAssistant.title')}</strong>
+        <button className="btn ghost" onClick={onClose}>{t('close')}</button>
+      </div>
+      <div className="page-sub" style={{ marginBottom: 12 }}>{t('chordAssistant.hint')}</div>
+      <div className="row" style={{ gap: 18 }}>
+        {CHORD_INSTRUMENTS.map((inst) => (
+          <label key={inst} className="row" style={{ gap: 6, alignItems: 'center', cursor: 'pointer' }}>
+            <input type="checkbox" checked={selected.includes(inst)} onChange={() => toggle(inst)} />
+            {t(`chordAssistant.${inst}`)}
+          </label>
+        ))}
+      </div>
     </div>
   )
 }

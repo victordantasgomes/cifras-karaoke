@@ -41,5 +41,8 @@
   "formulasToggle": "Formule delle qualità degli accordi",
   "hoverCard": {
     "vary": "varia accordo"
+  },
+  "chordSidebar": {
+    "title": "Assistente per gli accordi"
   }
 }

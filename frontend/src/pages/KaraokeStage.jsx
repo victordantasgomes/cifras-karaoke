@@ -16,7 +16,10 @@ import { buildChordTimeline } from '../utils/chordTimeline'
 import { buildBeatGrid } from '../utils/beatGrid'
 import { BandSynth } from '../utils/bandSynth'
 import { SynthClock } from '../utils/synthClock'
+import { extractUniqueChords } from '../utils/chordParser'
+import { useChordSidebarStore } from '../store/chordSidebarStore'
 import KaraokeLines from '../components/KaraokeLines'
+import KaraokeChordSidebar from '../components/KaraokeChordSidebar'
 
 const ROW_BUDGET = 16
 const COUNTDOWN_SECONDS = 3
@@ -105,6 +108,20 @@ export default function KaraokeStage() {
     staleTime: Infinity,
     refetchOnWindowFocus: false,
   })
+
+  // assistente de acordes (preferência pessoal, configurada na tela
+  // Setlists — ver Setlists.jsx::ChordAssistantPanel) — lista os instrumentos
+  // escolhidos e os acordes únicos da música, na ordem em que aparecem.
+  const { data: settings } = useQuery({
+    queryKey: ['settings'],
+    queryFn: () => api.get('/settings').then((r) => r.data),
+    staleTime: Infinity,
+    refetchOnWindowFocus: false,
+  })
+  const chordInstruments = settings?.prefs?.chordInstruments || []
+  const uniqueChords = useMemo(() => extractUniqueChords(data?.lines), [data?.lines])
+  const chordSidebarVisible = chordInstruments.length > 0 && uniqueChords.length > 0
+  const chordSidebarWidth = useChordSidebarStore((s) => s.width)
 
   useEffect(() => {
     if (data) player.load(data)
@@ -393,7 +410,7 @@ export default function KaraokeStage() {
   return (
     <div ref={stageRef}
       className={`karaoke-stage${controlsVisible ? ' controls-visible' : ''}`}
-      style={{ '--k-zoom': zoom }}
+      style={{ '--k-zoom': zoom, '--k-sidebar-w': chordSidebarVisible ? `${chordSidebarWidth + 10}px` : '0px' }}
       onMouseMove={poke} onClick={poke}>
 
       {player.hasAudio && (
@@ -427,9 +444,12 @@ export default function KaraokeStage() {
         </div>
       </div>
 
-      <div className="k-lines" ref={sweepRootRef}>
-        <KaraokeLines window={lineWindow}
-          sweep={player.audioMode} keyPrefix={player.index} />
+      <div className="k-body">
+        <div className="k-lines" ref={sweepRootRef}>
+          <KaraokeLines window={lineWindow}
+            sweep={player.audioMode} keyPrefix={player.index} />
+        </div>
+        <KaraokeChordSidebar chords={uniqueChords} instruments={chordInstruments} />
       </div>
 
       {typeof timelineWindow[0]?.tEnd === 'number' && (() => {
