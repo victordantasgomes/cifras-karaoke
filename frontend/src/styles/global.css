@@ -377,12 +377,14 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
 }
 .k-chord-resize-handle:hover::after { background: var(--amber); }
 /* assistente de acordes — largura ajustável (arrastando .k-chord-resize-
-   handle, ver useChordSidebarStore), nunca rola (ver comentário em
-   KaraokeChordSidebar.jsx): dentro de cada coluna, cada acorde divide
-   igualmente a altura disponível (.k-chord-sidebar-column flex), encolhendo
-   os diagramas em vez de estourar a tela — e quando ficariam pequenos
-   demais, o componente abre mais uma coluna sozinho (até 3, ver
-   MAX_COLUMNS) em vez de continuar espremendo. */
+   handle, ver useChordSidebarStore) e tamanho do diagrama ajustável
+   (--k-chord-font-scale, botões A−/A+ do rodapé). O tamanho de cada
+   diagrama é FIXO (não encolhe pra caber) — legibilidade em primeiro lugar.
+   O componente abre mais uma coluna sozinho (até 3, ver MAX_COLUMNS) pra
+   tentar caber tudo nesse tamanho sem rolar, e quando mesmo assim não cabe
+   (fonte grande + muitos acordes), a coluna passa a rolar sozinha
+   (.k-chord-sidebar-column, overflow-y) — rolagem como válvula de escape,
+   não o contrário. */
 .k-chord-sidebar {
   flex-shrink: 0; display: flex; flex-direction: column;
   padding: 18px 14px; background: var(--glass);
@@ -395,17 +397,51 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
 .k-chord-sidebar-grid { flex: 1; min-height: 0; display: flex; flex-direction: row; }
 .k-chord-sidebar-column {
   flex: 1; min-width: 0; min-height: 0; display: flex; flex-direction: column; gap: 6px;
+  overflow-y: auto; overflow-x: hidden;
 }
 .k-chord-sidebar-column + .k-chord-sidebar-column { border-left: 1px solid var(--stroke); margin-left: 14px; padding-left: 14px; }
 .k-chord-entry {
-  flex: 1 1 0; min-height: 0; display: flex; flex-direction: column;
+  /* altura FIXA (não flex-grow) — vem direto de --k-chord-entry-h (fontScale
+     × BASE_ENTRY_HEIGHT, ver KaraokeChordSidebar.jsx), senão os botões A−/A+
+     não teriam efeito nenhum sempre que sobrasse espaço (flex:1 preenchia o
+     espaço disponível por igual, ignorando a variável — só valia como piso
+     nos casos já espremidos). Menos acordes do que cabem = sobra espaço em
+     branco embaixo da coluna, esperado: o tamanho agora é escolha do
+     usuário, não mais "o que couber". */
+  flex: 0 0 var(--k-chord-entry-h, 90px); min-height: 0; display: flex; flex-direction: column;
   border-top: 1px solid var(--stroke); padding-top: 6px;
 }
 .k-chord-entry:first-child { border-top: none; padding-top: 0; }
-.k-chord-entry-name { font-weight: 700; color: var(--amber); flex-shrink: 0; font-size: clamp(11px, 1.6vh, 15px); }
-.k-chord-entry-diagrams { flex: 1; min-height: 0; display: flex; gap: 6px; }
-.k-chord-mini-diagram { flex: 1; min-width: 0; min-height: 0; display: flex; align-items: center; justify-content: center; }
+.k-chord-entry-name {
+  font-weight: 700; color: var(--amber); flex-shrink: 0;
+  font-size: calc(clamp(11px, 1.6vh, 15px) * var(--k-chord-font-scale, 1));
+}
+.k-chord-entry-diagrams { flex: 1; min-height: 0; display: flex; justify-content: center; gap: 6px; }
+/* largura TAMBÉM fixa (--k-chord-diagram-w), não só a altura do pai: um svg
+   preserva a proporção (preserveAspectRatio padrão), então se só a altura
+   crescesse a largura parada virava gargalo escondido e o diagrama nunca
+   ficava visivelmente maior — as duas dimensões precisam acompanhar
+   fontScale juntas pros botões A−/A+ terem efeito de verdade. */
+.k-chord-mini-diagram { flex: 0 0 var(--k-chord-diagram-w, 80px); min-width: 0; min-height: 0; display: flex; }
+/* display:flex SEM align-items:center é proposital — um svg filho com
+   width/height:100% só consegue resolver a altura em porcentagem quando o
+   pai faz stretch (comportamento padrão de align-items); com "center" o
+   navegador não tem uma altura definida pra resolver e o diagrama trava num
+   tamanho intrínseco fixo, ignorando o container por completo. */
+.k-chord-mini-diagram svg { display: block; }
 .k-chord-mini-empty { color: var(--muted); font-size: 12px; }
+/* rodapé fixo da sidebar: resumo da música em execução + botões de fonte
+   do assistente (ver ChordSidebarFooter em KaraokeChordSidebar.jsx) —
+   sempre visível, fora da área que divide altura entre os acordes. */
+.k-chord-sidebar-footer {
+  flex-shrink: 0; margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--stroke);
+  font-size: 12px; color: var(--muted);
+}
+.k-chord-sidebar-footer-title { color: var(--text); font-weight: 600; font-size: 13px; }
+.k-chord-sidebar-footer-meta { margin-top: 2px; }
+.k-chord-sidebar-font-row {
+  display: flex; align-items: center; justify-content: space-between; margin-top: 8px;
+}
 .k-line {
   font-family: var(--font-mono);
   /* vh-based sizing keeps 16 stacked lines + gaps within the viewport at any screen height;
@@ -486,13 +522,23 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
   background: var(--sample); border-radius: 1px; pointer-events: none;
 }
 .k-controls {
-  position: absolute; bottom: 0; left: 0; right: 0;
+  /* right: var(--k-sidebar-w) — não estica por cima do assistente de
+     acordes. Sem isso, mesmo com opacity:0 (escondido) este bloco continua
+     recebendo cliques (opacity não desliga pointer-events) e "rouba" o
+     clique de qualquer botão da sidebar que esteja embaixo dele — foi
+     exatamente isso que quebrava os botões A−/A+ pro mouse (o teclado
+     funcionava porque Tab+Enter aciona o elemento focado direto, sem
+     depender de qual elemento está por cima na pilha visual). */
+  position: absolute; bottom: 0; left: 0; right: var(--k-sidebar-w, 0px);
   display: flex; align-items: center; justify-content: center; gap: 10px;
   padding: 18px; background: linear-gradient(transparent, rgba(0,0,0,0.85));
   opacity: 0; transition: opacity 200ms;
 }
 .karaoke-stage.controls-visible .k-controls { opacity: 1; }
-.k-header { position: absolute; top: 0; left: 0; right: 0; padding: 16px 24px; display: flex; justify-content: space-between; color: rgba(255,255,255,0.6); font-size: 14px; opacity: 0; transition: 200ms; }
+.k-header {
+  position: absolute; top: 0; left: 0; right: var(--k-sidebar-w, 0px);
+  padding: 16px 24px; display: flex; justify-content: space-between; color: rgba(255,255,255,0.6); font-size: 14px; opacity: 0; transition: 200ms;
+}
 .karaoke-stage.controls-visible .k-header { opacity: 1; }
 /* marca própria (whitelabel, Fase 8) — nome/logo do dono da música,
    condicional, só quando ele configurou em Configurações. */

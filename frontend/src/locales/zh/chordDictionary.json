@@ -43,6 +43,11 @@
     "vary": "查看其他指法"
   },
   "chordSidebar": {
-    "title": "和弦助手"
+    "title": "和弦助手",
+    "tom": "调: {{tom}}",
+    "speed": "速度: {{value}}",
+    "fontSize": "字号: {{percent}}%",
+    "fontSmaller": "缩小助手字号",
+    "fontBigger": "放大助手字号"
   }
 }

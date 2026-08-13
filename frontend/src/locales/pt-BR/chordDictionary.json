@@ -43,6 +43,11 @@
     "vary": "variar acorde"
   },
   "chordSidebar": {
-    "title": "Assistente de acordes"
+    "title": "Assistente de acordes",
+    "tom": "Tom: {{tom}}",
+    "speed": "Velocidade: {{value}}",
+    "fontSize": "Fonte: {{percent}}%",
+    "fontSmaller": "Diminuir fonte do assistente",
+    "fontBigger": "Aumentar fonte do assistente"
   }
 }

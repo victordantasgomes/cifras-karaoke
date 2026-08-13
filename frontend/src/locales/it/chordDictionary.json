@@ -43,6 +43,11 @@
     "vary": "varia accordo"
   },
   "chordSidebar": {
-    "title": "Assistente per gli accordi"
+    "title": "Assistente per gli accordi",
+    "tom": "Tonalità: {{tom}}",
+    "speed": "Velocità: {{value}}",
+    "fontSize": "Carattere: {{percent}}%",
+    "fontSmaller": "Riduci il carattere dell'assistente",
+    "fontBigger": "Aumenta il carattere dell'assistente"
   }
 }

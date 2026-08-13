@@ -449,7 +449,8 @@ export default function KaraokeStage() {
           <KaraokeLines window={lineWindow}
             sweep={player.audioMode} keyPrefix={player.index} />
         </div>
-        <KaraokeChordSidebar chords={uniqueChords} instruments={chordInstruments} />
+        <KaraokeChordSidebar chords={uniqueChords} instruments={chordInstruments}
+          songInfo={{ titulo: data.titulo, interprete: data.interprete, tom: data.tom, velocidade: data.velocidade }} />
       </div>
 
       {typeof timelineWindow[0]?.tEnd === 'number' && (() => {

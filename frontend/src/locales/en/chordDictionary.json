@@ -43,6 +43,11 @@
     "vary": "vary chord"
   },
   "chordSidebar": {
-    "title": "Chord assistant"
+    "title": "Chord assistant",
+    "tom": "Key: {{tom}}",
+    "speed": "Speed: {{value}}",
+    "fontSize": "Font: {{percent}}%",
+    "fontSmaller": "Decrease assistant font size",
+    "fontBigger": "Increase assistant font size"
   }
 }

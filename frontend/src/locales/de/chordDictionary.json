@@ -43,6 +43,11 @@
     "vary": "Akkord variieren"
   },
   "chordSidebar": {
-    "title": "Akkord-Assistent"
+    "title": "Akkord-Assistent",
+    "tom": "Tonart: {{tom}}",
+    "speed": "Geschwindigkeit: {{value}}",
+    "fontSize": "Schrift: {{percent}}%",
+    "fontSmaller": "Schrift des Assistenten verkleinern",
+    "fontBigger": "Schrift des Assistenten vergrößern"
   }
 }

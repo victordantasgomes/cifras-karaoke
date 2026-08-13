@@ -1,14 +1,19 @@
 import { useEffect, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useInstrumentVoicings } from '../hooks/useChordVoicings'
-import { useChordSidebarStore } from '../store/chordSidebarStore'
+import { useChordSidebarStore, MIN_FONT_SCALE, MAX_FONT_SCALE } from '../store/chordSidebarStore'
 import ChordFretDiagram from './ChordFretDiagram'
 import PianoDiagram from './PianoDiagram'
 
 const STRINGS = { violao: 6, ukulele: 4 }
 const MAX_COLUMNS = 3
-const MIN_ENTRY_HEIGHT = 70 // px — abaixo disso o diagrama fica ilegível, melhor abrir mais uma coluna
-const MIN_COLUMN_WIDTH_PER_INSTRUMENT = 56 // px — largura mínima confortável por mini-diagrama lado a lado
+// tamanho do diagrama em fontScale=1 — as DUAS dimensões escalam junto com
+// fontScale (ver --k-chord-entry-h/--k-chord-diagram-w abaixo). Um SVG
+// preserva proporção (preserveAspectRatio padrão): se só a altura mudasse
+// (como era antes), a largura parada virava o gargalo e o diagrama nunca
+// crescia de verdade — por isso as duas precisam acompanhar o fontScale.
+const BASE_ENTRY_HEIGHT = 90
+const BASE_DIAGRAM_WIDTH = 80 // por instrumento — dois lado a lado pedem 2×
 
 /** Divide `items` em até `columns` grupos contíguos (lê como um jornal:
  * coluna 1 inteira de cima a baixo, depois coluna 2...) — preserva a ordem
@@ -91,6 +96,37 @@ function ChordSidebarEntry({ symbol, instruments }) {
   )
 }
 
+/** Rodapé da sidebar: resumo da música em execução (título, artista, tom,
+ * velocidade) + tamanho da fonte atual e os botões A−/A+ que a ajustam —
+ * separados do zoom geral da cifra (useZoomStore/.k-controls), afetam só os
+ * diagramas do assistente. */
+function ChordSidebarFooter({ songInfo }) {
+  const { t } = useTranslation('chordDictionary')
+  const fontScale = useChordSidebarStore((s) => s.fontScale)
+  const increaseFontScale = useChordSidebarStore((s) => s.increaseFontScale)
+  const decreaseFontScale = useChordSidebarStore((s) => s.decreaseFontScale)
+
+  return (
+    <div className="k-chord-sidebar-footer">
+      <div className="k-chord-sidebar-footer-title">{songInfo?.titulo}</div>
+      <div className="k-chord-sidebar-footer-meta">
+        {songInfo?.interprete}
+        {songInfo?.tom && <> · {t('chordSidebar.tom', { tom: songInfo.tom })}</>}
+        {songInfo?.velocidade != null && <> · {t('chordSidebar.speed', { value: songInfo.velocidade })}</>}
+      </div>
+      <div className="k-chord-sidebar-font-row">
+        <span>{t('chordSidebar.fontSize', { percent: Math.round(fontScale * 100) })}</span>
+        <div className="row" style={{ gap: 6 }}>
+          <button type="button" className="btn ghost" disabled={fontScale <= MIN_FONT_SCALE}
+            onClick={decreaseFontScale} title={t('chordSidebar.fontSmaller')}>A−</button>
+          <button type="button" className="btn ghost" disabled={fontScale >= MAX_FONT_SCALE}
+            onClick={increaseFontScale} title={t('chordSidebar.fontBigger')}>A+</button>
+        </div>
+      </div>
+    </div>
+  )
+}
+
 /**
  * Assistente de acordes do player karaokê (ScrollPlayer.jsx/KaraokeStage.jsx):
  * painel fixo na lateral direita com todos os acordes únicos da música em
@@ -99,18 +135,28 @@ function ChordSidebarEntry({ symbol, instruments }) {
  * pessoal — ver botão "Assistente de acordes" na tela Setlists e
  * settings.prefs.chordInstruments). Sem instrumento selecionado, ou sem
  * acorde nenhum reconhecido na música, não renderiza nada — nunca "aparece
- * vazio".
+ * vazio". `songInfo` ({titulo, interprete, tom, velocidade}) alimenta o
+ * rodapé (ver ChordSidebarFooter).
  *
- * Nunca rola: dentro de cada coluna, os acordes dividem igualmente a altura
- * disponível (flex) — quando isso deixaria os diagramas pequenos demais
- * (abaixo de MIN_ENTRY_HEIGHT), o número de colunas aumenta sozinho (até
- * MAX_COLUMNS), reaproveitando a largura que o usuário abriu arrastando a
- * barra de redimensionamento (ChordResizeHandle) em vez de continuar
- * espremendo verticalmente — ver useEffect com ResizeObserver abaixo.
+ * O tamanho de cada diagrama é FIXO nas duas dimensões (altura E largura,
+ * fontScale × BASE_ENTRY_HEIGHT/BASE_DIAGRAM_WIDTH — ver .k-chord-entry/
+ * .k-chord-mini-diagram em global.css, flex-basis, não flex-grow): os
+ * botões A−/A+ do rodapé (ChordSidebarFooter) controlam esse valor direto,
+ * então o tamanho é sempre escolha do usuário, nunca "o que sobrar de
+ * espaço" — as duas dimensões precisam mudar junto porque o SVG preserva
+ * proporção (só a altura mudar deixava a largura como gargalo escondido).
+ * O número de colunas se ajusta sozinho (até MAX_COLUMNS) pra tentar caber
+ * tudo nesse tamanho sem rolar, reaproveitando a largura que o usuário abriu
+ * arrastando a barra de redimensionamento (ChordResizeHandle). Quando não
+ * cabe mesmo assim (fonte grande + muitos acordes + já em 3 colunas), a
+ * coluna passa a rolar sozinha (overflow-y, ver .k-chord-sidebar-column) —
+ * escolha deliberada: legibilidade em primeiro lugar, rolagem como válvula
+ * de escape, não o contrário.
  */
-export default function KaraokeChordSidebar({ chords, instruments }) {
+export default function KaraokeChordSidebar({ chords, instruments, songInfo }) {
   const { t } = useTranslation('chordDictionary')
   const width = useChordSidebarStore((s) => s.width)
+  const fontScale = useChordSidebarStore((s) => s.fontScale)
   const gridRef = useRef(null)
   const [columns, setColumns] = useState(1)
   const hasContent = Boolean(instruments?.length && chords?.length)
@@ -121,17 +167,18 @@ export default function KaraokeChordSidebar({ chords, instruments }) {
     const compute = () => {
       const rect = el.getBoundingClientRect()
       if (!rect.width || !rect.height) return
-      const perColumnCapacity = Math.max(1, Math.floor(rect.height / MIN_ENTRY_HEIGHT))
+      const entryHeight = BASE_ENTRY_HEIGHT * fontScale
+      const perColumnCapacity = Math.max(1, Math.floor(rect.height / entryHeight))
       const neededByHeight = Math.ceil(chords.length / perColumnCapacity)
-      const minColumnWidth = Math.max(90, instruments.length * MIN_COLUMN_WIDTH_PER_INSTRUMENT)
-      const maxByWidth = Math.max(1, Math.floor(rect.width / minColumnWidth))
+      const columnWidth = instruments.length * BASE_DIAGRAM_WIDTH * fontScale
+      const maxByWidth = Math.max(1, Math.floor(rect.width / columnWidth))
       setColumns(Math.max(1, Math.min(neededByHeight, maxByWidth, MAX_COLUMNS)))
     }
     compute()
     const ro = new ResizeObserver(compute)
     ro.observe(el)
     return () => ro.disconnect()
-  }, [chords, instruments, hasContent])
+  }, [chords, instruments, hasContent, fontScale])
 
   if (!hasContent) return null
 
@@ -140,7 +187,12 @@ export default function KaraokeChordSidebar({ chords, instruments }) {
   return (
     <>
       <ChordResizeHandle />
-      <aside className="k-chord-sidebar" style={{ width }}>
+      <aside className="k-chord-sidebar" style={{
+        width,
+        '--k-chord-entry-h': `${BASE_ENTRY_HEIGHT * fontScale}px`,
+        '--k-chord-diagram-w': `${BASE_DIAGRAM_WIDTH * fontScale}px`,
+        '--k-chord-font-scale': fontScale,
+      }}>
         <div className="k-chord-sidebar-title">{t('chordSidebar.title')}</div>
         <div className="k-chord-sidebar-grid" ref={gridRef}>
           {columnChunks.map((chunk, i) => (
@@ -149,6 +201,7 @@ export default function KaraokeChordSidebar({ chords, instruments }) {
             </div>
           ))}
         </div>
+        <ChordSidebarFooter songInfo={songInfo} />
       </aside>
     </>
   )

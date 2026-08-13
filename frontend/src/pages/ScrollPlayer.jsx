@@ -8,6 +8,7 @@ import { useZoomStore } from '../store/zoomStore'
 import { useHotkeys } from '../hooks/useHotkeys'
 import { usePedalControl } from '../hooks/usePedalControl'
 import { extractUniqueChords } from '../utils/chordParser'
+import { useChordSidebarStore } from '../store/chordSidebarStore'
 import KaraokeChordSidebar from '../components/KaraokeChordSidebar'
 
 const CHORD_LIKE = new Set(['acorde', 'solo', 'riff', 'tab'])
@@ -102,6 +103,8 @@ export default function ScrollPlayer({ data }) {
   })
   const chordInstruments = settings?.prefs?.chordInstruments || []
   const uniqueChords = useMemo(() => extractUniqueChords(data.lines), [data.lines])
+  const chordSidebarVisible = chordInstruments.length > 0 && uniqueChords.length > 0
+  const chordSidebarWidth = useChordSidebarStore((s) => s.width)
 
   // a rota /karaoke/:slug não desmonta este componente ao trocar de música
   // dentro de uma playlist com duas músicas seguidas em modo rolagem (mesmo
@@ -320,7 +323,7 @@ export default function ScrollPlayer({ data }) {
   return (
     <div ref={stageRef}
       className={`karaoke-stage${controlsVisible ? ' controls-visible' : ''}`}
-      style={{ '--k-zoom': zoom }}
+      style={{ '--k-zoom': zoom, '--k-sidebar-w': chordSidebarVisible ? `${chordSidebarWidth + 10}px` : '0px' }}
       onMouseMove={poke} onClick={poke}>
 
       {hasAudio && (
@@ -357,7 +360,8 @@ export default function ScrollPlayer({ data }) {
             ))}
           </div>
         </div>
-        <KaraokeChordSidebar chords={uniqueChords} instruments={chordInstruments} />
+        <KaraokeChordSidebar chords={uniqueChords} instruments={chordInstruments}
+          songInfo={{ titulo: data.titulo, interprete: data.interprete, tom: data.tom, velocidade: data.velocidade }} />
       </div>
 
       <div className="k-progress audio-mode"
