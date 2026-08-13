@@ -94,4 +94,12 @@ def create_app() -> Flask:
 
 
 if __name__ == "__main__":
-    create_app().run(host="0.0.0.0", port=5000, debug=True)
+    # exclude_patterns: o projeto (e o venv "env/") vive dentro de uma pasta
+    # sincronizada pelo OneDrive, que mexe em metadados de arquivo por conta
+    # própria — o reloader do Werkzeug (watchdog) interpreta isso como
+    # "mudou", e reinicia o processo Flask NO MEIO de uma requisição em
+    # andamento (ex.: derrubou uma chamada à Stripe já em voo). Excluir o
+    # venv do watch evita esses restarts espúrios sem perder o auto-reload
+    # de verdade pro código do próprio backend.
+    create_app().run(host="0.0.0.0", port=5000, debug=True,
+                      exclude_patterns=["*/env/*", "*\\env\\*"])
