@@ -416,7 +416,16 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
   font-weight: 700; color: var(--amber); flex-shrink: 0;
   font-size: calc(clamp(11px, 1.6vh, 15px) * var(--k-chord-font-scale, 1));
 }
-.k-chord-entry-diagrams { flex: 1; min-height: 0; display: flex; justify-content: center; gap: 6px; }
+/* overflow-x:auto — em fonte bem grande com vários instrumentos lado a
+   lado, a soma das larguras fixas (--k-chord-diagram-w × instrumentos) pode
+   passar da coluna; como os diagramas têm flex-shrink:0 (não encolhem pra
+   caber, ver .k-chord-mini-diagram), isso vira rolagem horizontal só dessa
+   linha em vez de cortar o diagrama — o nome do acorde ao lado continua
+   sempre visível. */
+.k-chord-entry-diagrams {
+  flex: 1; min-height: 0; display: flex; justify-content: center; gap: 6px;
+  overflow-x: auto; overflow-y: hidden;
+}
 /* largura TAMBÉM fixa (--k-chord-diagram-w), não só a altura do pai: um svg
    preserva a proporção (preserveAspectRatio padrão), então se só a altura
    crescesse a largura parada virava gargalo escondido e o diagrama nunca
