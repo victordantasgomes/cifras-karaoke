@@ -131,6 +131,30 @@ class PlansService:
             ).fetchone()
         return _row_to_dict(row)
 
+    def resync_stripe(self, plan_id: str) -> dict:
+        """Cria um Product+Price NOVO na Stripe (conta/modo atualmente
+        configurado em STRIPE_SECRET_KEY) e reaponta o plano pra eles —
+        pensado pra planos criados sem Stripe habilitada (stripe_* nulos) ou
+        pra rebindar planos que apontam pra outro modo/conta (ex.: mudar de
+        test pra live, ou trocar de conta Stripe). Não tenta reaproveitar
+        nada do Product/Price anterior — sempre cria do zero; o antigo (se
+        existia) continua existindo do lado da Stripe, só deixa de ser
+        referenciado por este plano."""
+        if not _stripe_enabled():
+            raise StripeSyncError("STRIPE_SECRET_KEY não configurada neste ambiente.")
+        with db.get_pool().connection() as conn:
+            current = conn.execute("select * from plans where id=%s", (plan_id,)).fetchone()
+            if not current:
+                raise PlanNotFound(plan_id)
+            stripe_product_id, stripe_price_id = _create_stripe_product_and_price(
+                current["name"], current["price_cents"],
+            )
+            row = conn.execute(
+                "update plans set stripe_product_id=%s, stripe_price_id=%s where id=%s returning *",
+                (stripe_product_id, stripe_price_id, plan_id),
+            ).fetchone()
+        return _row_to_dict(row)
+
     def set_active(self, plan_id: str, value: bool) -> dict:
         with db.get_pool().connection() as conn:
             row = conn.execute(

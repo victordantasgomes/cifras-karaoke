@@ -127,7 +127,14 @@
     "namePlaceholder": "例如：Hobby",
     "createPlan": "创建套餐",
     "creating": "正在创建…",
-    "createPlanError": "无法创建套餐。"
+    "createPlanError": "无法创建套餐。",
+    "resync": "重新同步 Stripe",
+    "resyncing": "同步中…",
+    "resyncTitle": "在 Stripe 中创建新的产品/价格(使用当前配置的密钥),并将此方案重新指向它们。",
+    "resyncConfirm": "这将在 Stripe 中创建一个新的产品/价格,并替换此方案的引用。之前的(如果有)仍会保留在 Stripe 中,只是不再使用。继续吗?",
+    "resyncError": "无法与 Stripe 重新同步。",
+    "notSynced": "未同步",
+    "notSyncedTitle": "此方案尚未关联 Stripe 产品/价格。"
   },
   "normalizeLibrary": {
     "title": "规范化整个曲库",

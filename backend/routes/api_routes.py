@@ -216,6 +216,17 @@ def build_blueprint(ctx) -> Blueprint:
             return jsonify({"error": f"Plano não sincronizou com a Stripe: {e}",
                              "error_code": "PLAN_STRIPE_SYNC_FAILED"}), 502
 
+    @api.post("/admin/plans/<plan_id>/resync-stripe")
+    @ctx.require_admin
+    def admin_resync_plan_stripe(plan_id):
+        try:
+            return jsonify(ctx.plans.resync_stripe(plan_id))
+        except PlanNotFound:
+            return jsonify({"error": "Plano não encontrado.", "error_code": "PLAN_NOT_FOUND"}), 404
+        except StripeSyncError as e:
+            return jsonify({"error": f"Plano não sincronizou com a Stripe: {e}",
+                             "error_code": "PLAN_STRIPE_SYNC_FAILED"}), 502
+
     # ---------------- planos (leitura pública p/ usuário logado) + cobrança ----------------
     @api.get("/plans")
     @protected

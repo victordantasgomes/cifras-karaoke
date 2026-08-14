@@ -127,7 +127,14 @@
     "namePlaceholder": "z. B.: Hobby",
     "createPlan": "Tarif erstellen",
     "creating": "Wird erstellt…",
-    "createPlanError": "Der Tarif konnte nicht erstellt werden."
+    "createPlanError": "Der Tarif konnte nicht erstellt werden.",
+    "resync": "Stripe neu synchronisieren",
+    "resyncing": "Wird synchronisiert…",
+    "resyncTitle": "Erstellt ein neues Produkt/Preis in Stripe (mit dem aktuell konfigurierten Schlüssel) und verknüpft diesen Plan damit neu.",
+    "resyncConfirm": "Dadurch wird ein NEUES Produkt/Preis in Stripe erstellt und die Referenz dieses Plans ersetzt. Das vorherige (falls vorhanden) bleibt in Stripe bestehen, wird nur nicht mehr verwendet. Fortfahren?",
+    "resyncError": "Synchronisierung mit Stripe fehlgeschlagen.",
+    "notSynced": "nicht synchronisiert",
+    "notSyncedTitle": "Dieser Plan hat noch kein Stripe-Produkt/Preis."
   },
   "normalizeLibrary": {
     "title": "Gesamte Bibliothek normalisieren",

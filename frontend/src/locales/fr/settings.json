@@ -127,7 +127,14 @@
     "namePlaceholder": "ex. : Hobby",
     "createPlan": "Créer un forfait",
     "creating": "Création…",
-    "createPlanError": "Impossible de créer le forfait."
+    "createPlanError": "Impossible de créer le forfait.",
+    "resync": "Resynchroniser Stripe",
+    "resyncing": "Resynchronisation…",
+    "resyncTitle": "Crée un nouveau Produit/Prix dans Stripe (avec la clé actuellement configurée) et fait pointer ce plan vers eux.",
+    "resyncConfirm": "Cela crée un NOUVEAU Produit/Prix dans Stripe et remplace la référence de ce plan. L'ancien (le cas échéant) continue d'exister dans Stripe, il n'est simplement plus utilisé. Continuer ?",
+    "resyncError": "Impossible de resynchroniser avec Stripe.",
+    "notSynced": "non synchronisé",
+    "notSyncedTitle": "Ce plan n'a pas encore de Produit/Prix Stripe."
   },
   "normalizeLibrary": {
     "title": "Normaliser toute la bibliothèque",

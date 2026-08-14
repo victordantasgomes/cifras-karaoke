@@ -127,7 +127,14 @@
     "namePlaceholder": "ex.: Hobby",
     "createPlan": "Criar plano",
     "creating": "A criar…",
-    "createPlanError": "Não foi possível criar o plano."
+    "createPlanError": "Não foi possível criar o plano.",
+    "resync": "Ressincronizar Stripe",
+    "resyncing": "A ressincronizar…",
+    "resyncTitle": "Cria um novo Produto/Preço na Stripe (com a chave configurada agora) e reaponta este plano para eles.",
+    "resyncConfirm": "Isto cria um Produto/Preço NOVO na Stripe e substitui a referência deste plano. O anterior (se existir) continua a existir na Stripe, só deixa de ser usado. Continuar?",
+    "resyncError": "Não foi possível ressincronizar com a Stripe.",
+    "notSynced": "não sincronizado",
+    "notSyncedTitle": "Este plano ainda não tem Produto/Preço na Stripe."
   },
   "normalizeLibrary": {
     "title": "Normalizar todo o acervo",

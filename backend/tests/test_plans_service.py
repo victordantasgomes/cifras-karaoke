@@ -1,6 +1,7 @@
 import pytest
 import stripe
 
+import db
 from config import Config
 from services.plans_service import DuplicatePlanName, PlanNotFound, PlansService, StripeSyncError
 
@@ -129,6 +130,54 @@ def test_create_raises_stripe_sync_error_on_stripe_failure(plans_with_stripe, fa
     monkeypatch.setattr(stripe.Product, "create", boom)
     with pytest.raises(StripeSyncError):
         plans_with_stripe.create("Hobby", max_setlists=3, storage_limit_mb=100, price_cents=990)
+
+
+def test_resync_stripe_links_plan_created_without_stripe(plans_with_stripe, fake_stripe):
+    plan = plans_with_stripe.create("Hobby", max_setlists=3, storage_limit_mb=100, price_cents=990)
+    # simula um plano que nunca foi sincronizado (ex.: criado com Stripe desligada)
+    with db.get_pool().connection() as conn:
+        conn.execute("update plans set stripe_product_id=null, stripe_price_id=null where id=%s", (plan["id"],))
+
+    resynced = plans_with_stripe.resync_stripe(plan["id"])
+    assert resynced["stripe_product_id"] in fake_stripe.products
+    assert resynced["stripe_price_id"] in fake_stripe.prices
+    assert fake_stripe.prices[resynced["stripe_price_id"]]["unit_amount"] == 990
+
+
+def test_resync_stripe_creates_fresh_product_even_if_already_linked(plans_with_stripe, fake_stripe):
+    """Rebind pra outra conta/modo (ex.: test -> live): não tenta reaproveitar
+    o Product/Price anterior, sempre cria um novo — o antigo continua
+    existindo do lado da Stripe, só deixa de ser referenciado."""
+    plan = plans_with_stripe.create("Hobby", max_setlists=3, storage_limit_mb=100, price_cents=990)
+    old_product_id, old_price_id = plan["stripe_product_id"], plan["stripe_price_id"]
+
+    resynced = plans_with_stripe.resync_stripe(plan["id"])
+    assert resynced["stripe_product_id"] != old_product_id
+    assert resynced["stripe_price_id"] != old_price_id
+    assert old_product_id in fake_stripe.products  # continua existindo, só não é mais referenciado
+    assert old_price_id in fake_stripe.prices
+
+
+def test_resync_stripe_without_stripe_enabled_raises(plans):
+    plan = plans.create("Hobby", max_setlists=3, storage_limit_mb=100, price_cents=990)
+    with pytest.raises(StripeSyncError):
+        plans.resync_stripe(plan["id"])
+
+
+def test_resync_stripe_unknown_plan_raises(plans_with_stripe, fake_stripe):
+    with pytest.raises(PlanNotFound):
+        plans_with_stripe.resync_stripe("00000000-0000-0000-0000-000000000000")
+
+
+def test_resync_stripe_raises_stripe_sync_error_on_failure(plans_with_stripe, fake_stripe, monkeypatch):
+    plan = plans_with_stripe.create("Hobby", max_setlists=3, storage_limit_mb=100, price_cents=990)
+
+    def boom(*a, **kw):
+        raise stripe.error.StripeError("falhou")
+
+    monkeypatch.setattr(stripe.Product, "create", boom)
+    with pytest.raises(StripeSyncError):
+        plans_with_stripe.resync_stripe(plan["id"])
 
 
 def test_list_active_excludes_archived_plans(plans):

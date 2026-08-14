@@ -439,16 +439,35 @@ function PlanRow({ plan }) {
     onSuccess: invalidate,
   })
 
+  // recria o Product+Price na Stripe (conta/modo atualmente configurado em
+  // STRIPE_SECRET_KEY) e reaponta o plano — pra planos criados sem Stripe
+  // habilitada, ou pra rebindar depois de trocar de conta/modo (ex.: test
+  // -> live, ver plans_service.py::resync_stripe). Sempre cria um Product
+  // novo, por isso o confirm().
+  const resyncStripe = useMutation({
+    mutationFn: () => api.post(`/admin/plans/${plan.id}/resync-stripe`),
+    onSuccess: () => { invalidate(); setError('') },
+    onError: (e) => setError(e.response?.data?.error || t('plansAdmin.resyncError')),
+  })
+
   return (
     <li style={{ padding: '10px 0', borderBottom: '1px solid var(--stroke)' }}>
       <div className="row" style={{ justifyContent: 'space-between', alignItems: 'center' }}>
         <strong>
           {plan.name}
           {!plan.active && <span className="tag" style={{ marginLeft: 8 }}>{t('plansAdmin.archived')}</span>}
+          {!plan.stripe_price_id && <span className="tag" style={{ marginLeft: 8 }} title={t('plansAdmin.notSyncedTitle')}>{t('plansAdmin.notSynced')}</span>}
         </strong>
-        <button className="btn" disabled={toggleActive.isPending} onClick={() => toggleActive.mutate()}>
-          {plan.active ? t('plansAdmin.archive') : t('plansAdmin.reactivate')}
-        </button>
+        <div className="row" style={{ gap: 8 }}>
+          <button className="btn" disabled={resyncStripe.isPending}
+            title={t('plansAdmin.resyncTitle')}
+            onClick={() => confirm(t('plansAdmin.resyncConfirm')) && resyncStripe.mutate()}>
+            {resyncStripe.isPending ? t('plansAdmin.resyncing') : t('plansAdmin.resync')}
+          </button>
+          <button className="btn" disabled={toggleActive.isPending} onClick={() => toggleActive.mutate()}>
+            {plan.active ? t('plansAdmin.archive') : t('plansAdmin.reactivate')}
+          </button>
+        </div>
       </div>
       <div className="row" style={{ marginTop: 8, gap: 8, flexWrap: 'wrap', alignItems: 'flex-end' }}>
         <div className="field" style={{ maxWidth: 140 }}>

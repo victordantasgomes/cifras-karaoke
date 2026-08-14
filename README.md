@@ -100,9 +100,21 @@ Environment Variables) antes do primeiro deploy:
 | `SECRET_KEY` | Uma chave aleatória forte — nunca a de exemplo do `.env.example` |
 | `JWT_HOURS` | Validade do token de login (opcional, padrão `12`) |
 | `CORS_ORIGINS` | Pode deixar sem definir/como `*`: front e back ficam no mesmo domínio em produção, então não há CORS cross-origin de verdade |
+| `OPENAI_API_KEY` | Chave da OpenAI usada pelo autopreenchimento de cifras via IA (opcional — sem ela, esse recurso fica desligado) |
+| `STRIPE_SECRET_KEY` | Chave secreta da Stripe (`sk_live_...` em produção) — sem ela, planos continuam funcionando só como cadastro local, sem sincronizar com a Stripe |
+| `STRIPE_PUBLISHABLE_KEY` | Chave publicável da Stripe (`pk_live_...`) |
+| `STRIPE_WEBHOOK_SECRET` | Segredo de assinatura (`whsec_...`) do endpoint de webhook cadastrado na Stripe (Developers → Webhooks → `https://<domínio>/api/stripe/webhook`) |
 
 `VITE_API_URL` **não** deve ser definida em produção — `frontend/src/services/api.js`
 já cai em `baseURL: '/api'` (mesma origem) quando ela está vazia.
+
+As três variáveis `STRIPE_*` devem ser configuradas com escopo **Production**
+apenas (não Preview/Development) na Vercel, pra deploys de outras branches
+continuarem usando chaves de teste. Planos criados/editados enquanto uma
+chave já estava configurada ficam vinculados àquele modo/conta — trocar de
+chave (ex.: de teste pra produção) não rebinda planos existentes
+automaticamente; use o botão "Ressincronizar Stripe" na tela Settings →
+Planos pra recriar o Produto/Preço sob a chave atual.
 
 Antes do primeiro deploy real, rode a migração dos dados locais uma única
 vez (`backend/scripts/migrate_to_postgres.py` — ver docstring do arquivo)

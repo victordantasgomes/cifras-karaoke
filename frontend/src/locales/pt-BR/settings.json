@@ -12,7 +12,10 @@
     "title": "Aparência",
     "description": "Tema e cor de destaque da interface — independente das cores da folha de cifra, configuradas abaixo.",
     "theme": "Tema",
-    "themes": { "dark": "Escuro", "light": "Claro" },
+    "themes": {
+      "dark": "Escuro",
+      "light": "Claro"
+    },
     "accent": "Cor de destaque",
     "accents": {
       "azul": "Azul",
@@ -124,7 +127,14 @@
     "namePlaceholder": "ex.: Hobby",
     "createPlan": "Criar plano",
     "creating": "Criando…",
-    "createPlanError": "Não foi possível criar o plano."
+    "createPlanError": "Não foi possível criar o plano.",
+    "resync": "Ressincronizar Stripe",
+    "resyncing": "Ressincronizando…",
+    "resyncTitle": "Cria um novo Produto/Preço na Stripe (com a chave configurada agora) e reaponta este plano pra eles.",
+    "resyncConfirm": "Isso cria um Produto/Preço NOVO na Stripe e substitui a referência deste plano. O anterior (se houver) continua existindo na Stripe, só deixa de ser usado. Continuar?",
+    "resyncError": "Não foi possível ressincronizar com a Stripe.",
+    "notSynced": "não sincronizado",
+    "notSyncedTitle": "Este plano ainda não tem Produto/Preço na Stripe."
   },
   "normalizeLibrary": {
     "title": "Normalizar todo o acervo",
