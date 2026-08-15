@@ -59,6 +59,13 @@ def _schema():
 def _clean_db():
     with db.get_pool().connection() as conn:
         conn.execute("truncate table " + ", ".join(_TABLES) + " cascade")
+    # o truncate acima leva junto as linhas singleton kind='guest'/'admin'
+    # de `plans` (seedadas só uma vez, na fixture _schema de escopo de
+    # sessão) — reseeda a cada teste, senão QuotaService não encontra
+    # limite nenhum pra quem não tem plano pago. init_schema() é
+    # idempotente (CREATE...IF NOT EXISTS / INSERT...WHERE NOT EXISTS), então
+    # rodar de novo aqui só recria essas duas linhas, sem custo a mais.
+    db.init_schema()
     yield
 
 

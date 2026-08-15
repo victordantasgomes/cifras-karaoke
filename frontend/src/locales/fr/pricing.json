@@ -11,15 +11,12 @@
   "redirecting": "Redirection…",
   "subscribe": "S'abonner",
   "noPlans": "Aucun forfait disponible pour le moment.",
-  "freeName": "Gratuit",
   "freePrice": "Gratuit",
-  "freeHint": "Inclus automatiquement à la création de votre compte.",
   "currentPlan": "Votre forfait actuel",
   "mostPopular": "Le plus populaire",
   "upgrade": "Passer au niveau supérieur",
   "manageSubscription": "Gérer l'abonnement",
   "allPlansInclude": "Chaque forfait payant inclut :",
-  "blurbFree": "Pour essayer la plateforme sans engagement.",
   "blurbStarter": "Idéal pour commencer à organiser vos concerts.",
   "blurbGrowing": "Pour les groupes à l'agenda chargé.",
   "blurbTop": "Sans limites pour les musiciens professionnels.",
@@ -28,5 +25,9 @@
     "chordAssistant": "Assistant d'accords avec diagrammes en direct",
     "transpose": "Transposition de tonalité en un clic",
     "sharing": "Partage de chansons et de setlists avec le groupe"
-  }
+  },
+  "guestHint": "Inclus automatiquement à la création de votre compte.",
+  "adminHint": "Attribué par un autre administrateur du système.",
+  "blurbGuest": "Pour essayer la plateforme sans engagement.",
+  "blurbAdmin": "Accès d'administration du système."
 }

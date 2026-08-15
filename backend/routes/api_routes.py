@@ -10,7 +10,7 @@ from services.band_board_service import FILE_KINDS as BAND_MEDIA_FILE_KINDS
 from services.band_board_service import LINK_KINDS as BAND_MEDIA_LINK_KINDS
 from services.branding_service import VARIANTS as LOGO_VARIANTS
 from services.plans_service import DuplicatePlanName, PlanNotFound, StripeSyncError
-from services.quota_service import FREE_MAX_SETLISTS, FREE_STORAGE_LIMIT_MB, QuotaExceeded
+from services.quota_service import QuotaExceeded
 from services.songs_service import NotOwner, SongNotFound
 from utils.error_codes import auth_error_code, band_media_error_code, billing_error_code, quota_error_code
 
@@ -231,13 +231,14 @@ def build_blueprint(ctx) -> Blueprint:
     @api.get("/plans")
     @protected
     def list_plans():
-        # free_tier: teto de quem não tem plano pago e não é grandfathered
-        # (ver QuotaService/AuthService.register) — a tela de Planos usa isso
-        # pra montar um card "Gratuito" comparável aos pagos, sem precisar
-        # duplicar esses números no frontend.
+        # guest_plan/admin_plan: as categorias sem preço (Convidado/
+        # Administrador, ver schema.sql::plans kind) — a tela de Planos usa
+        # isso pra montar o card "atual" de quem não tem plano pago, sem
+        # precisar duplicar esses números no frontend.
         return jsonify({
             "items": ctx.plans.list_active(),
-            "free_tier": {"max_setlists": FREE_MAX_SETLISTS, "storage_limit_mb": FREE_STORAGE_LIMIT_MB},
+            "guest_plan": ctx.plans.get_kind("guest"),
+            "admin_plan": ctx.plans.get_kind("admin"),
         })
 
     @api.get("/billing/status")

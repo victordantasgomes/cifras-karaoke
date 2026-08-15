@@ -134,7 +134,9 @@
     "resyncConfirm": "Dadurch wird ein NEUES Produkt/Preis in Stripe erstellt und die Referenz dieses Plans ersetzt. Das vorherige (falls vorhanden) bleibt in Stripe bestehen, wird nur nicht mehr verwendet. Fortfahren?",
     "resyncError": "Synchronisierung mit Stripe fehlgeschlagen.",
     "notSynced": "nicht synchronisiert",
-    "notSyncedTitle": "Dieser Plan hat noch kein Stripe-Produkt/Preis."
+    "notSyncedTitle": "Dieser Plan hat noch kein Stripe-Produkt/Preis.",
+    "specialTitle": "Sonderkategorien",
+    "specialDescription": "Gast (öffentliche Registrierung ohne Tarif) und Administrator — immer kostenlos, ohne Stripe. Nur die Setlist-/Speicherlimits sind bearbeitbar."
   },
   "normalizeLibrary": {
     "title": "Gesamte Bibliothek normalisieren",

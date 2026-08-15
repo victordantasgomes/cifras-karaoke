@@ -494,6 +494,51 @@ function PlanRow({ plan }) {
   )
 }
 
+/** Convidado/Administrador (kind !== 'paid', ver schema.sql::plans) —
+ * categorias singleton, sempre gratuitas: só setlists/armazenamento são
+ * editáveis aqui, sem preço, sem arquivar, sem Stripe (reaproveita o mesmo
+ * PUT /admin/plans/<id> do plano pago — price_cents fica travado em 0 pelo
+ * próprio backend pra essas linhas, ver PlansService.update). */
+function SpecialPlanRow({ plan }) {
+  const { t } = useTranslation('settings')
+  const qc = useQueryClient()
+  const [maxSetlists, setMaxSetlists] = useState(plan.max_setlists)
+  const [storageLimitMb, setStorageLimitMb] = useState(plan.storage_limit_mb)
+  const [error, setError] = useState('')
+
+  const save = useMutation({
+    mutationFn: () => api.put(`/admin/plans/${plan.id}`, {
+      max_setlists: Number(maxSetlists),
+      storage_limit_mb: Number(storageLimitMb),
+      price_cents: 0,
+    }),
+    onSuccess: () => { qc.invalidateQueries({ queryKey: ['admin-plans'] }); setError('') },
+    onError: (e) => setError(e.response?.data?.error || t('plansAdmin.saveError')),
+  })
+
+  return (
+    <li style={{ padding: '10px 0', borderBottom: '1px solid var(--stroke)' }}>
+      <strong>{plan.name}</strong>
+      <div className="row" style={{ marginTop: 8, gap: 8, flexWrap: 'wrap', alignItems: 'flex-end' }}>
+        <div className="field" style={{ maxWidth: 140 }}>
+          <label>{t('plansAdmin.setlistsMax')}</label>
+          <input className="input" type="number" min="0" value={maxSetlists}
+            onChange={(e) => setMaxSetlists(e.target.value)} />
+        </div>
+        <div className="field" style={{ maxWidth: 160 }}>
+          <label>{t('plansAdmin.storageMb')}</label>
+          <input className="input" type="number" min="0" value={storageLimitMb}
+            onChange={(e) => setStorageLimitMb(e.target.value)} />
+        </div>
+        <button className="btn primary" disabled={save.isPending} onClick={() => save.mutate()}>
+          {save.isPending ? t('plansAdmin.saving') : t('plansAdmin.save')}
+        </button>
+      </div>
+      {error && <div className="error-text" style={{ marginTop: 6 }}>{error}</div>}
+    </li>
+  )
+}
+
 function PlansAdminCard() {
   const { t } = useTranslation('settings')
   const qc = useQueryClient()
@@ -519,6 +564,9 @@ function PlansAdminCard() {
     onError: (e) => setError(e.response?.data?.error || t('plansAdmin.createPlanError')),
   })
 
+  const specialPlans = plans?.filter((p) => p.kind !== 'paid') || []
+  const paidPlans = plans?.filter((p) => p.kind === 'paid') || []
+
   return (
     <div className="card" style={{ marginBottom: 14 }}>
       <h3 style={{ marginBottom: 12 }}>{t('plansAdmin.title')}</h3>
@@ -526,9 +574,21 @@ function PlansAdminCard() {
         {t('plansAdmin.description')}
       </p>
 
-      {plans?.length > 0 && (
+      {specialPlans.length > 0 && (
+        <>
+          <h4 style={{ marginBottom: 4 }}>{t('plansAdmin.specialTitle')}</h4>
+          <p style={{ color: 'var(--muted)', margin: '0 0 10px', fontSize: 13 }}>
+            {t('plansAdmin.specialDescription')}
+          </p>
+          <ul style={{ listStyle: 'none', padding: 0, margin: '0 0 18px' }}>
+            {specialPlans.map((p) => <SpecialPlanRow key={p.id} plan={p} />)}
+          </ul>
+        </>
+      )}
+
+      {paidPlans.length > 0 && (
         <ul style={{ listStyle: 'none', padding: 0, margin: '0 0 18px' }}>
-          {plans.map((p) => <PlanRow key={p.id} plan={p} />)}
+          {paidPlans.map((p) => <PlanRow key={p.id} plan={p} />)}
         </ul>
       )}
 

@@ -57,6 +57,7 @@
   "planBadge": {
     "title": "View plans",
     "plan": "{{name}} Plan",
-    "free": "Free Plan"
+    "guest": "Guest Plan",
+    "admin": "Admin Plan"
   }
 }

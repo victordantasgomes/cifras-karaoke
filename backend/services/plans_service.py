@@ -36,7 +36,7 @@ def _row_to_dict(row: dict) -> dict:
         "id": str(row["id"]), "name": row["name"], "max_setlists": row["max_setlists"],
         "storage_limit_mb": row["storage_limit_mb"], "price_cents": row["price_cents"],
         "stripe_product_id": row["stripe_product_id"], "stripe_price_id": row["stripe_price_id"],
-        "active": row["active"],
+        "active": row["active"], "kind": row["kind"],
     }
 
 
@@ -79,9 +79,13 @@ class PlansService:
 
     def list_active(self) -> list[dict]:
         """Pra tela de escolha de plano (qualquer usuário logado, não só
-        admin) — só os planos que ainda podem ser assinados."""
+        admin) — só os planos PAGOS ativos, que podem ser assinados de
+        verdade. Convidado/Administrador (kind != 'paid') nunca aparecem
+        aqui — não são assináveis via Stripe, ver get_kind()."""
         with db.get_pool().connection() as conn:
-            rows = conn.execute("select * from plans where active=true order by price_cents").fetchall()
+            rows = conn.execute(
+                "select * from plans where active=true and kind='paid' order by price_cents",
+            ).fetchall()
         return [_row_to_dict(r) for r in rows]
 
     def list_public(self) -> list[dict]:
@@ -91,6 +95,14 @@ class PlansService:
             {k: v for k, v in p.items() if k not in ("stripe_product_id", "stripe_price_id")}
             for p in self.list_active()
         ]
+
+    def get_kind(self, kind: str) -> dict | None:
+        """Busca a linha singleton 'guest' ou 'admin' (ver schema.sql —
+        sempre existe, seedada no startup) — usada por QuotaService e pela
+        tela de Planos pra mostrar/editar os limites de quem não paga."""
+        with db.get_pool().connection() as conn:
+            row = conn.execute("select * from plans where kind=%s", (kind,)).fetchone()
+        return _row_to_dict(row) if row else None
 
     def create(self, name: str, max_setlists: int, storage_limit_mb: int, price_cents: int) -> dict:
         name = name.strip()
@@ -107,8 +119,8 @@ class PlansService:
                 stripe_product_id, stripe_price_id = _create_stripe_product_and_price(name, price_cents)
             row = conn.execute(
                 """insert into plans (name, max_setlists, storage_limit_mb, price_cents,
-                                       stripe_product_id, stripe_price_id)
-                   values (%s, %s, %s, %s, %s, %s) returning *""",
+                                       stripe_product_id, stripe_price_id, kind)
+                   values (%s, %s, %s, %s, %s, %s, 'paid') returning *""",
                 (name, max_setlists, storage_limit_mb, price_cents, stripe_product_id, stripe_price_id),
             ).fetchone()
         return _row_to_dict(row)
@@ -120,6 +132,11 @@ class PlansService:
             current = conn.execute("select * from plans where id=%s", (plan_id,)).fetchone()
             if not current:
                 raise PlanNotFound(plan_id)
+            # Convidado/Administrador (kind != 'paid') são sempre gratuitos —
+            # só max_setlists/storage_limit_mb são editáveis por esta tela,
+            # preço nunca muda (nem tenta sincronizar com a Stripe).
+            if current["kind"] != "paid":
+                price_cents = 0
             stripe_price_id = current["stripe_price_id"]
             price_changed = price_cents != current["price_cents"]
             if price_changed and _stripe_enabled() and current["stripe_product_id"]:

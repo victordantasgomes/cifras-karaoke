@@ -376,6 +376,24 @@ create table if not exists plans (
     active             boolean not null default true,
     created_at         timestamptz not null default now()
 );
+-- `kind`: 'paid' (padrão, os planos de verdade acima) | 'guest' | 'admin' —
+-- estes dois últimos são categorias singleton, sempre gratuitas
+-- (price_cents=0, nunca sincronizadas com a Stripe), com limites de
+-- setlists/armazenamento configuráveis pelo admin na tela de Configurações
+-- (mesmo formulário de editar plano, PUT /admin/plans/<id> — só não passa
+-- por create() de novo, então nunca ganham stripe_product_id). QuotaService
+-- resolve o limite de quem não tem plano pago olhando pra cá: admin usa a
+-- linha 'admin', qualquer outro usuário não-grandfathered usa 'guest' (ver
+-- users.plan_grandfathered acima).
+alter table plans add column if not exists kind text not null default 'paid';
+alter table plans drop constraint if exists plans_kind_check;
+alter table plans add constraint plans_kind_check check (kind in ('paid', 'guest', 'admin'));
+insert into plans (name, max_setlists, storage_limit_mb, price_cents, kind)
+    select 'Convidado', 2, 10, 0, 'guest'
+    where not exists (select 1 from plans where kind = 'guest');
+insert into plans (name, max_setlists, storage_limit_mb, price_cents, kind)
+    select 'Administrador', 1000, 100000, 0, 'admin'
+    where not exists (select 1 from plans where kind = 'admin');
 
 -- Estado de assinatura fica direto em `users` (não numa tabela separada) —
 -- cada tenant é 1 login com no máximo 1 assinatura ativa, confirmado no

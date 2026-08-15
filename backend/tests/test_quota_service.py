@@ -2,7 +2,7 @@ import pytest
 
 import db
 from services.audio_service import AudioService
-from services.quota_service import FREE_MAX_SETLISTS, FREE_STORAGE_LIMIT_MB, QuotaExceeded, QuotaService
+from services.quota_service import QuotaExceeded, QuotaService
 from services.setlist_service import SetlistService
 from services.songs_service import SongsService
 
@@ -44,6 +44,16 @@ def _assign_plan(user_id, max_setlists, storage_limit_mb):
         ).fetchone()["id"]
         conn.execute("update users set plan_id=%s where id=%s", (plan_id, user_id))
     return plan_id
+
+
+def _kind_limits(kind: str) -> dict:
+    """Limites da linha singleton 'guest'/'admin' (ver schema.sql — seedada
+    no início da sessão de teste, reseedada a cada teste em conftest.py)."""
+    with db.get_pool().connection() as conn:
+        row = conn.execute(
+            "select max_setlists, storage_limit_mb from plans where kind=%s", (kind,),
+        ).fetchone()
+    return dict(row)
 
 
 def _make_non_grandfathered_user(user_id: str, username: str) -> None:
@@ -148,15 +158,16 @@ def test_grandfathered_user_without_plan_has_no_limit(ctx):
     assert quota.usage("u1") is None
 
 
-def test_non_grandfathered_user_without_plan_gets_free_tier_limit(ctx):
+def test_non_grandfathered_user_without_plan_gets_guest_kind_limit(ctx):
     _, setlists, _, quota = ctx
     _make_non_grandfathered_user("u3", "novo")
+    guest = _kind_limits("guest")
     usage = quota.usage("u3")
     assert usage == {
-        "setlists_used": 0, "setlists_max": FREE_MAX_SETLISTS,
-        "storage_used_mb": 0, "storage_limit_mb": FREE_STORAGE_LIMIT_MB,
+        "setlists_used": 0, "setlists_max": guest["max_setlists"],
+        "storage_used_mb": 0, "storage_limit_mb": guest["storage_limit_mb"],
     }
-    for i in range(FREE_MAX_SETLISTS):
+    for i in range(guest["max_setlists"]):
         setlists.save("u3", f"Show {i}", [])
     with pytest.raises(QuotaExceeded):
         setlists.save("u3", "Show a mais", [])
@@ -165,17 +176,39 @@ def test_non_grandfathered_user_without_plan_gets_free_tier_limit(ctx):
 def test_non_grandfathered_user_storage_limit_enforced(ctx):
     songs, setlists, audio, _ = ctx
     _make_non_grandfathered_user("u3", "novo")
-    song = _create_song_with_track(songs, audio, "u3", "Bohemian Rhapsody", FREE_STORAGE_LIMIT_MB * 1024 * 1024 + 1)
+    guest = _kind_limits("guest")
+    song = _create_song_with_track(songs, audio, "u3", "Bohemian Rhapsody", guest["storage_limit_mb"] * 1024 * 1024 + 1)
     with pytest.raises(QuotaExceeded):
         setlists.save("u3", "Show", [f"Queen/{song['titulo']}"])
 
 
-def test_assigning_paid_plan_overrides_free_tier_limit(ctx):
+def test_assigning_paid_plan_overrides_guest_kind_limit(ctx):
     _, setlists, _, quota = ctx
     _make_non_grandfathered_user("u3", "novo")
     _assign_plan("u3", max_setlists=50, storage_limit_mb=5000)
     usage = quota.usage("u3")
     assert usage["setlists_max"] == 50 and usage["storage_limit_mb"] == 5000
+
+
+def test_admin_uses_admin_kind_limit_regardless_of_plan_or_grandfathered(ctx):
+    """is_admin tem prioridade sobre tudo — mesmo com um plano pago
+    atribuído (cenário improvável mas possível), ou grandfathered, um admin
+    sempre usa a linha 'admin' (ver quota_service.py::_plan_limits)."""
+    _, setlists, _, quota = ctx
+    with db.get_pool().connection() as conn:
+        conn.execute(
+            "insert into users (id, username, name, password_hash, is_admin) "
+            "values ('u3', 'admin-novo', 'Admin Novo', 'x', true)",
+        )
+    admin = _kind_limits("admin")
+    usage = quota.usage("u3")
+    assert usage["setlists_max"] == admin["max_setlists"]
+    assert usage["storage_limit_mb"] == admin["storage_limit_mb"]
+
+    # mesmo com plano pago atribuído, continua usando o limite de admin
+    _assign_plan("u3", max_setlists=1, storage_limit_mb=1)
+    usage_with_plan = quota.usage("u3")
+    assert usage_with_plan["setlists_max"] == admin["max_setlists"]
 
 
 def test_editing_setlist_excludes_its_own_previous_items_from_check(ctx):

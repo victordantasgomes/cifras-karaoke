@@ -134,7 +134,9 @@
     "resyncConfirm": "Isto cria um Produto/Preço NOVO na Stripe e substitui a referência deste plano. O anterior (se existir) continua a existir na Stripe, só deixa de ser usado. Continuar?",
     "resyncError": "Não foi possível ressincronizar com a Stripe.",
     "notSynced": "não sincronizado",
-    "notSyncedTitle": "Este plano ainda não tem Produto/Preço na Stripe."
+    "notSyncedTitle": "Este plano ainda não tem Produto/Preço na Stripe.",
+    "specialTitle": "Categorias especiais",
+    "specialDescription": "Convidado (registo público sem plano) e Administrador — sempre gratuitos, sem Stripe. Só os limites de setlists/armazenamento são editáveis."
   },
   "normalizeLibrary": {
     "title": "Normalizar todo o acervo",

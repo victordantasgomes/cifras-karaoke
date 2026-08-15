@@ -57,6 +57,7 @@
   "planBadge": {
     "title": "Ver planos",
     "plan": "Plano {{name}}",
-    "free": "Plano Gratuito"
+    "guest": "Plano Convidado",
+    "admin": "Plano Administrador"
   }
 }

@@ -57,6 +57,7 @@
   "planBadge": {
     "title": "Voir les forfaits",
     "plan": "Forfait {{name}}",
-    "free": "Forfait gratuit"
+    "guest": "Forfait invité",
+    "admin": "Forfait administrateur"
   }
 }

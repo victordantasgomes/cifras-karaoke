@@ -11,15 +11,12 @@
   "redirecting": "Wird weitergeleitet…",
   "subscribe": "Abonnieren",
   "noPlans": "Aktuell sind keine Tarife verfügbar.",
-  "freeName": "Kostenlos",
   "freePrice": "Kostenlos",
-  "freeHint": "Automatisch enthalten, wenn du dein Konto erstellst.",
   "currentPlan": "Dein aktueller Tarif",
   "mostPopular": "Am beliebtesten",
   "upgrade": "Upgrade durchführen",
   "manageSubscription": "Abo verwalten",
   "allPlansInclude": "Jeder kostenpflichtige Tarif enthält:",
-  "blurbFree": "Die Plattform unverbindlich ausprobieren.",
   "blurbStarter": "Ideal für den Einstieg in die Auftrittsplanung.",
   "blurbGrowing": "Für Bands mit vollem Terminkalender.",
   "blurbTop": "Ohne Limits für Vollzeit-Musiker.",
@@ -28,5 +25,9 @@
     "chordAssistant": "Akkord-Assistent mit Live-Diagrammen",
     "transpose": "Tonart-Transposition mit einem Klick",
     "sharing": "Songs und Setlists mit der Band teilen"
-  }
+  },
+  "guestHint": "Automatisch enthalten, wenn du dein Konto erstellst.",
+  "adminHint": "Von einem anderen Systemadministrator zugewiesen.",
+  "blurbGuest": "Die Plattform unverbindlich ausprobieren.",
+  "blurbAdmin": "Systemadministrationszugriff."
 }

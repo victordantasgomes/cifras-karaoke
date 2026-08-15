@@ -29,7 +29,9 @@ def test_create_and_list(plans):
     assert plan["active"] is True
     assert plan["stripe_product_id"] is None and plan["stripe_price_id"] is None
 
-    listed = plans.list()
+    # list() também traz as linhas singleton kind='guest'/'admin' (ver
+    # schema.sql — sempre existem), por isso filtra só o que este teste criou
+    listed = [p for p in plans.list() if p["kind"] == "paid"]
     assert [p["name"] for p in listed] == ["Hobby"]
 
 
@@ -48,7 +50,8 @@ def test_list_orders_by_price(plans):
     plans.create("Professional", max_setlists=100, storage_limit_mb=10000, price_cents=4990)
     plans.create("Hobby", max_setlists=3, storage_limit_mb=100, price_cents=990)
     plans.create("Practice", max_setlists=20, storage_limit_mb=1000, price_cents=1990)
-    assert [p["name"] for p in plans.list()] == ["Hobby", "Practice", "Professional"]
+    paid = [p for p in plans.list() if p["kind"] == "paid"]
+    assert [p["name"] for p in paid] == ["Hobby", "Practice", "Professional"]
 
 
 def test_create_rejects_duplicate_name(plans):
@@ -92,7 +95,8 @@ def test_archive_and_reactivate_plan(plans):
 def test_archived_plan_still_appears_in_list(plans):
     plan = plans.create("Hobby", max_setlists=3, storage_limit_mb=100, price_cents=990)
     plans.set_active(plan["id"], False)
-    assert [p["name"] for p in plans.list()] == ["Hobby"]
+    paid = [p for p in plans.list() if p["kind"] == "paid"]
+    assert [p["name"] for p in paid] == ["Hobby"]
 
 
 def test_set_active_unknown_plan_raises(plans):
@@ -185,3 +189,36 @@ def test_list_active_excludes_archived_plans(plans):
     plans.create("Practice", max_setlists=20, storage_limit_mb=1000, price_cents=1990)
     plans.set_active(a["id"], False)
     assert [p["name"] for p in plans.list_active()] == ["Practice"]
+
+
+def test_create_always_sets_kind_paid(plans):
+    plan = plans.create("Hobby", max_setlists=3, storage_limit_mb=100, price_cents=990)
+    assert plan["kind"] == "paid"
+
+
+def test_get_kind_returns_seeded_guest_and_admin_rows(plans):
+    """schema.sql seeda essas duas linhas singleton no início da sessão de
+    teste (ver conftest.py::_clean_db, que reseeda a cada teste depois do
+    truncate) — nunca precisam ser criadas à mão."""
+    guest = plans.get_kind("guest")
+    admin = plans.get_kind("admin")
+    assert guest["name"] == "Convidado" and guest["kind"] == "guest" and guest["price_cents"] == 0
+    assert admin["name"] == "Administrador" and admin["kind"] == "admin" and admin["price_cents"] == 0
+
+
+def test_get_kind_unknown_kind_returns_none(plans):
+    assert plans.get_kind("nao-existe") is None
+
+
+def test_update_forces_price_to_zero_for_special_kind(plans):
+    guest = plans.get_kind("guest")
+    updated = plans.update(guest["id"], max_setlists=5, storage_limit_mb=20, price_cents=990)
+    assert updated["max_setlists"] == 5
+    assert updated["storage_limit_mb"] == 20
+    assert updated["price_cents"] == 0  # ignora o price_cents passado — Convidado é sempre grátis
+
+
+def test_update_special_kind_never_touches_stripe(plans_with_stripe, fake_stripe):
+    admin = plans_with_stripe.get_kind("admin")
+    updated = plans_with_stripe.update(admin["id"], max_setlists=2000, storage_limit_mb=200000, price_cents=1990)
+    assert updated["stripe_product_id"] is None and updated["stripe_price_id"] is None

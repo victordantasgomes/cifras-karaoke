@@ -134,7 +134,9 @@
     "resyncConfirm": "这将在 Stripe 中创建一个新的产品/价格,并替换此方案的引用。之前的(如果有)仍会保留在 Stripe 中,只是不再使用。继续吗?",
     "resyncError": "无法与 Stripe 重新同步。",
     "notSynced": "未同步",
-    "notSyncedTitle": "此方案尚未关联 Stripe 产品/价格。"
+    "notSyncedTitle": "此方案尚未关联 Stripe 产品/价格。",
+    "specialTitle": "特殊类别",
+    "specialDescription": "访客(无方案的公开注册)和管理员——始终免费,不涉及 Stripe。仅歌单/存储限制可编辑。"
   },
   "normalizeLibrary": {
     "title": "规范化整个曲库",
