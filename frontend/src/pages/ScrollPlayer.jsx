@@ -280,6 +280,14 @@ export default function ScrollPlayer({ data }) {
     else audioRef.current.pause()
   }, [hasAudio, playing])
 
+  // pausar o karaokê (por qualquer via — botão, hotkey, fim de música)
+  // pausa o vídeo do YouTube junto, se houver um tocando. Só a direção de
+  // pausar é automática — dar play não deve iniciar o vídeo sozinho, só o
+  // botão "Tocar + YT" faz isso (ver playWithYoutube).
+  useEffect(() => {
+    if (!playing) ytRef.current?.pause()
+  }, [playing])
+
   // velocidade (`rate`, mesmo controle −/+ dos dois modos) também rege o
   // <audio> de verdade quando ele existe
   useEffect(() => {

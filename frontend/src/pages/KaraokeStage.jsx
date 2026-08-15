@@ -245,6 +245,14 @@ export default function KaraokeStage() {
     else audioRef.current.pause()
   }, [player.audioMode, player.playing]) // eslint-disable-line
 
+  // pausar o karaokê (por qualquer via — botão, hotkey, fim de música)
+  // pausa o vídeo do YouTube junto, se houver um tocando. Só a direção de
+  // pausar é automática — dar play não deve iniciar o vídeo sozinho, só o
+  // botão "Tocar + YT" faz isso (ver playWithYoutube).
+  useEffect(() => {
+    if (!player.playing) ytRef.current?.pause()
+  }, [player.playing])
+
   // auto-ocultar controles
   const poke = () => {
     setControlsVisible(true)
