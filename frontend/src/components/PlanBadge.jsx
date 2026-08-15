@@ -4,11 +4,12 @@ import { useTranslation } from 'react-i18next'
 import api from '../services/api'
 
 /** Indicativo do plano atual no topo da tela (entre o sino de alertas e o
- * menu do usuário) — leva pra tela de Planos ao clicar. Só aparece quando há
- * um plano PAGO atribuído (`plan_name`, ver BillingService.get_status) —
- * Convidado/Administrador (schema.sql::plans kind) são categoria
- * administrativa, não devem ser expostas ao próprio usuário (só dentro da
- * gestão de usuários, ver Settings.jsx::UserRow). */
+ * menu do usuário) — leva pra tela de Planos ao clicar. Com plano PAGO
+ * atribuído (`plan_name`, ver BillingService.get_status) mostra o nome dele;
+ * sem plano pago mostra o rótulo genérico "Plano Gratuito" — nunca
+ * "Convidado"/"Administrador" (schema.sql::plans kind), que são categoria
+ * administrativa e só aparecem dentro da gestão de usuários (ver
+ * Settings.jsx::UserRow), nunca pro próprio usuário. */
 export default function PlanBadge() {
   const { t } = useTranslation('common')
   const { data } = useQuery({
@@ -16,11 +17,11 @@ export default function PlanBadge() {
     queryFn: () => api.get('/billing/status').then((r) => r.data),
     staleTime: 60_000,
   })
-  if (!data?.plan_name) return null
+  if (!data) return null
 
   return (
     <Link to="/planos" className="chip plan-badge" title={t('planBadge.title')}>
-      {t('planBadge.plan', { name: data.plan_name })}
+      {data.plan_name ? t('planBadge.plan', { name: data.plan_name }) : t('planBadge.free')}
     </Link>
   )
 }
