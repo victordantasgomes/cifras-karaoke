@@ -58,5 +58,8 @@
   "BAND_MEDIA_NOT_FOUND": "未找到媒体。",
   "BAND_POST_VALIDATION_ERROR": "帖子中有一项字段无效。",
   "AUTH_INSTRUMENT_INVALID": "无效的乐器。",
-  "AUTH_SKILL_LEVEL_INVALID": "无效的技术水平。"
+  "AUTH_SKILL_LEVEL_INVALID": "无效的技术水平。",
+  "AUTH_CATEGORY_INVALID": "类别无效。",
+  "AUTH_CANNOT_CHANGE_OWN_CATEGORY": "你不能更改自己的类别。",
+  "AUTH_CANNOT_DEMOTE_LAST_ADMIN": "无法移除最后一位管理员。"
 }

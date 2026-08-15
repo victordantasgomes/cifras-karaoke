@@ -109,7 +109,15 @@
     "admin": "Администратор",
     "createUser": "Создать пользователя",
     "creating": "Создание…",
-    "createUserError": "Не удалось создать пользователя."
+    "createUserError": "Не удалось создать пользователя.",
+    "category": "Категория",
+    "categoryPaid": "Платный тариф: {{name}}",
+    "categoryAdmin": "Администратор",
+    "categoryGuest": "Гость",
+    "categoryLegacy": "Устаревшая (без лимита)",
+    "categorySelectPlaceholder": "Изменить категорию…",
+    "setCategoryConfirm": "Изменить категорию {{username}} на {{category}}?",
+    "setCategoryError": "Не удалось изменить категорию."
   },
   "plansAdmin": {
     "title": "Тарифы",

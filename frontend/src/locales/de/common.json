@@ -56,8 +56,6 @@
   },
   "planBadge": {
     "title": "Tarife ansehen",
-    "plan": "{{name}}-Tarif",
-    "guest": "Gast-Tarif",
-    "admin": "Admin-Tarif"
+    "plan": "{{name}}-Tarif"
   }
 }

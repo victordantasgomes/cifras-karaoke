@@ -109,7 +109,15 @@
     "admin": "Administrator",
     "createUser": "Benutzer erstellen",
     "creating": "Wird erstellt…",
-    "createUserError": "Der Benutzer konnte nicht erstellt werden."
+    "createUserError": "Der Benutzer konnte nicht erstellt werden.",
+    "category": "Kategorie",
+    "categoryPaid": "Bezahlter Tarif: {{name}}",
+    "categoryAdmin": "Administrator",
+    "categoryGuest": "Gast",
+    "categoryLegacy": "Bestandskonto (kein Limit)",
+    "categorySelectPlaceholder": "Kategorie ändern…",
+    "setCategoryConfirm": "Kategorie von {{username}} auf {{category}} ändern?",
+    "setCategoryError": "Kategorie konnte nicht geändert werden."
   },
   "plansAdmin": {
     "title": "Tarife",

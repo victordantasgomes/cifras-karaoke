@@ -56,8 +56,6 @@
   },
   "planBadge": {
     "title": "Voir les forfaits",
-    "plan": "Forfait {{name}}",
-    "guest": "Forfait invité",
-    "admin": "Forfait administrateur"
+    "plan": "Forfait {{name}}"
   }
 }

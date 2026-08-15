@@ -371,3 +371,82 @@ def test_change_email_resets_email_verified(auth):
     with db.get_pool().connection() as conn:
         row = conn.execute("select email_verified from users where id=%s", (user["id"],)).fetchone()
     assert row["email_verified"] is False
+
+
+def test_list_users_includes_plan_grandfathered_and_plan_name(auth):
+    admin = auth.register("chefe", "senha123", is_admin=True)
+    with db.get_pool().connection() as conn:
+        plan_id = conn.execute(
+            "insert into plans (name, max_setlists, storage_limit_mb, price_cents) "
+            "values ('Hobby', 3, 100, 990) returning id",
+        ).fetchone()["id"]
+        conn.execute("update users set plan_id=%s where id=%s", (plan_id, admin["id"]))
+
+    row = auth.list_users()[0]
+    assert row["plan_grandfathered"] is True  # cadastro admin, valor default
+    assert row["plan_name"] == "Hobby"
+
+
+def test_set_plan_category_admin_sets_is_admin_true(auth):
+    admin = auth.register("chefe", "senha123", is_admin=True)
+    user = auth.register("comum", "senha123")
+    auth.set_plan_category(user["id"], admin["id"], "admin")
+    by_username = {u["username"]: u for u in auth.list_users()}
+    assert by_username["comum"]["is_admin"] is True
+
+
+def test_set_plan_category_guest_clears_admin_and_grandfathered(auth):
+    admin = auth.register("chefe", "senha123", is_admin=True)
+    admin2 = auth.register("chefe2", "senha123", is_admin=True)
+    auth.set_plan_category(admin2["id"], admin["id"], "guest")
+    by_username = {u["username"]: u for u in auth.list_users()}
+    assert by_username["chefe2"]["is_admin"] is False
+    assert by_username["chefe2"]["plan_grandfathered"] is False
+
+
+def test_set_plan_category_does_not_touch_plan_id(auth):
+    admin = auth.register("chefe", "senha123", is_admin=True)
+    user = auth.register("comum", "senha123")
+    with db.get_pool().connection() as conn:
+        plan_id = conn.execute(
+            "insert into plans (name, max_setlists, storage_limit_mb, price_cents) "
+            "values ('Hobby', 3, 100, 990) returning id",
+        ).fetchone()["id"]
+        conn.execute("update users set plan_id=%s where id=%s", (plan_id, user["id"]))
+    auth.set_plan_category(user["id"], admin["id"], "guest")
+    by_username = {u["username"]: u for u in auth.list_users()}
+    assert by_username["comum"]["plan_name"] == "Hobby"
+
+
+def test_set_plan_category_rejects_invalid_category(auth):
+    admin = auth.register("chefe", "senha123", is_admin=True)
+    user = auth.register("comum", "senha123")
+    with pytest.raises(AuthError):
+        auth.set_plan_category(user["id"], admin["id"], "paid")
+
+
+def test_set_plan_category_cannot_change_own_category(auth):
+    admin = auth.register("chefe", "senha123", is_admin=True)
+    with pytest.raises(AuthError):
+        auth.set_plan_category(admin["id"], admin["id"], "guest")
+
+
+def test_set_plan_category_cannot_demote_last_admin(auth):
+    admin = auth.register("chefe", "senha123", is_admin=True)
+    other = auth.register("comum", "senha123")
+    with pytest.raises(AuthError):
+        auth.set_plan_category(admin["id"], other["id"], "guest")
+
+
+def test_set_plan_category_can_demote_admin_when_another_remains(auth):
+    admin1 = auth.register("chefe1", "senha123", is_admin=True)
+    admin2 = auth.register("chefe2", "senha123", is_admin=True)
+    auth.set_plan_category(admin1["id"], admin2["id"], "guest")
+    by_username = {u["username"]: u for u in auth.list_users()}
+    assert by_username["chefe1"]["is_admin"] is False
+
+
+def test_set_plan_category_unknown_user_raises(auth):
+    admin = auth.register("chefe", "senha123", is_admin=True)
+    with pytest.raises(AuthError):
+        auth.set_plan_category("nao-existe", admin["id"], "guest")

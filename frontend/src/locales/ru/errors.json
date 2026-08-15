@@ -58,5 +58,8 @@
   "BAND_MEDIA_NOT_FOUND": "Материал не найден.",
   "BAND_POST_VALIDATION_ERROR": "Одно из полей объявления неверно.",
   "AUTH_INSTRUMENT_INVALID": "Неверный инструмент.",
-  "AUTH_SKILL_LEVEL_INVALID": "Неверный технический уровень."
+  "AUTH_SKILL_LEVEL_INVALID": "Неверный технический уровень.",
+  "AUTH_CATEGORY_INVALID": "Недопустимая категория.",
+  "AUTH_CANNOT_CHANGE_OWN_CATEGORY": "Вы не можете изменить собственную категорию.",
+  "AUTH_CANNOT_DEMOTE_LAST_ADMIN": "Невозможно снять последнего администратора."
 }

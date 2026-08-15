@@ -121,15 +121,21 @@ class AuthService:
         """Só pra área de administração (rota exige is_admin). Indicadores de
         uso: contagem de acessos + último login (baratos, já dá pra ter sem
         infra de sessão/heartbeat) e setlists/favoritas criadas por cada um —
-        "tempo de permanência" fica de fora, não existe nada pra medir isso."""
+        "tempo de permanência" fica de fora, não existe nada pra medir isso.
+
+        `plan_grandfathered`/`plan_name` entram aqui pra área de gestão
+        conseguir mostrar a categoria de cada usuário (paga / Convidado /
+        Administrador / legado sem limite) e oferecer a troca — ver
+        set_plan_category() e QuotaService._plan_limits, mesma prioridade."""
         with db.get_pool().connection() as conn:
             rows = conn.execute(
-                """select u.id, u.username, u.name, u.is_admin, u.created_at,
-                          u.last_login_at, u.login_count,
+                """select u.id, u.username, u.name, u.is_admin, u.plan_grandfathered,
+                          u.created_at, u.last_login_at, u.login_count, p.name as plan_name,
                           (select count(*) from setlists s where s.user_id = u.id) as setlists_count,
-                          (select count(*) from user_song_prefs p
-                                  where p.user_id = u.id and p.favorita = true) as favorites_count
-                   from users u order by u.created_at""",
+                          (select count(*) from user_song_prefs sp
+                                  where sp.user_id = u.id and sp.favorita = true) as favorites_count
+                   from users u left join plans p on p.id = u.plan_id
+                   order by u.created_at""",
             ).fetchall()
         return [dict(r) for r in rows]
 
@@ -149,6 +155,36 @@ class AuthService:
                 if remaining == 0:
                     raise AuthError("Não é possível excluir o último administrador.")
             conn.execute("delete from users where id=%s", (user_id,))
+
+    def set_plan_category(self, user_id: str, requesting_user_id: str, category: str) -> None:
+        """Só a área de gestão de usuários chama isto (rota admin-only) —
+        move um usuário cadastrado pra categoria 'guest' (Convidado) ou
+        'admin' (Administrador), ver schema.sql::plans kind. Não mexe em
+        plan_id: quem já tem um plano pago de verdade continua usando os
+        limites dele (exceto 'admin', que tem prioridade sobre tudo em
+        QuotaService._plan_limits). 'guest' também desliga
+        plan_grandfathered, senão a conta continuaria sem limite nenhum em
+        vez de cair no teto do Convidado."""
+        if category not in ("guest", "admin"):
+            raise AuthError("Categoria inválida.")
+        if user_id == requesting_user_id:
+            raise AuthError("Você não pode alterar a própria categoria.")
+        with db.get_pool().connection() as conn:
+            row = conn.execute("select is_admin from users where id=%s", (user_id,)).fetchone()
+            if not row:
+                raise AuthError("Usuário não encontrado.")
+            if category == "admin":
+                conn.execute("update users set is_admin=true where id=%s", (user_id,))
+                return
+            if row["is_admin"]:
+                remaining = conn.execute(
+                    "select count(*) as n from users where is_admin = true and id != %s", (user_id,),
+                ).fetchone()["n"]
+                if remaining == 0:
+                    raise AuthError("Não é possível remover o último administrador.")
+            conn.execute(
+                "update users set is_admin=false, plan_grandfathered=false where id=%s", (user_id,),
+            )
 
     def reset_password(self, user_id: str, new_password: str) -> None:
         if len(new_password) < 6:

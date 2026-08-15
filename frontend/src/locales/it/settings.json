@@ -109,7 +109,15 @@
     "admin": "Amministratore",
     "createUser": "Crea utente",
     "creating": "Creazione…",
-    "createUserError": "Impossibile creare l'utente."
+    "createUserError": "Impossibile creare l'utente.",
+    "category": "Categoria",
+    "categoryPaid": "Piano a pagamento: {{name}}",
+    "categoryAdmin": "Amministratore",
+    "categoryGuest": "Ospite",
+    "categoryLegacy": "Legacy (senza limite)",
+    "categorySelectPlaceholder": "Cambia categoria…",
+    "setCategoryConfirm": "Cambiare la categoria di {{username}} in {{category}}?",
+    "setCategoryError": "Non è stato possibile cambiare la categoria."
   },
   "plansAdmin": {
     "title": "Piani",

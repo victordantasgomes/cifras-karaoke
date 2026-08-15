@@ -58,5 +58,8 @@
   "BAND_MEDIA_NOT_FOUND": "Contenido no encontrado.",
   "BAND_POST_VALIDATION_ERROR": "Uno de los campos del anuncio no es válido.",
   "AUTH_INSTRUMENT_INVALID": "Instrumento inválido.",
-  "AUTH_SKILL_LEVEL_INVALID": "Nivel técnico inválido."
+  "AUTH_SKILL_LEVEL_INVALID": "Nivel técnico inválido.",
+  "AUTH_CATEGORY_INVALID": "Categoría inválida.",
+  "AUTH_CANNOT_CHANGE_OWN_CATEGORY": "No puedes cambiar tu propia categoría.",
+  "AUTH_CANNOT_DEMOTE_LAST_ADMIN": "No es posible quitar al último administrador."
 }

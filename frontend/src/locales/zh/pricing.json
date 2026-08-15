@@ -11,7 +11,6 @@
   "redirecting": "正在跳转…",
   "subscribe": "订阅",
   "noPlans": "目前没有可用的套餐。",
-  "freePrice": "免费",
   "currentPlan": "您当前的方案",
   "mostPopular": "最受欢迎",
   "upgrade": "升级方案",
@@ -25,9 +24,5 @@
     "chordAssistant": "带实时和弦图的和弦助手",
     "transpose": "一键变调",
     "sharing": "与乐队共享歌曲和歌单"
-  },
-  "guestHint": "创建账户后自动包含。",
-  "adminHint": "由其他系统管理员分配。",
-  "blurbGuest": "无需承诺,先体验平台。",
-  "blurbAdmin": "系统管理权限。"
+  }
 }

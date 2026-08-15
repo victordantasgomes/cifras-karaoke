@@ -56,8 +56,6 @@
   },
   "planBadge": {
     "title": "Ver planes",
-    "plan": "Plan {{name}}",
-    "guest": "Plan Invitado",
-    "admin": "Plan Administrador"
+    "plan": "Plan {{name}}"
   }
 }

@@ -3,7 +3,6 @@ import { Link, useSearchParams } from 'react-router-dom'
 import { useQuery } from '@tanstack/react-query'
 import { useTranslation } from 'react-i18next'
 import api from '../services/api'
-import { useAuthStore } from '../store/authStore'
 
 const INCLUDED_FEATURE_KEYS = ['karaoke', 'chordAssistant', 'transpose', 'sharing']
 
@@ -14,13 +13,12 @@ const INCLUDED_FEATURE_KEYS = ['karaoke', 'chordAssistant', 'transpose', 'sharin
  * o estado de verdade da assinatura só é confirmado pelo webhook (ver
  * BillingCard em Settings.jsx, que consulta GET /billing/status).
  *
- * Mostra, lado a lado com os planos pagos, o card da categoria sem preço
- * que se aplica a ESTE usuário — "Administrador" pra quem é admin,
- * "Convidado" pros demais (ver schema.sql::plans kind='admin'/'guest' e
- * QuotaService._plan_limits — mesma fonte de verdade do limite de quem
- * não paga). Destaca qual é o plano atual e sinaliza upgrade nos outros —
- * não é só listagem, é pitch: cada card tem uma frase de posicionamento
- * (blurbFor) e um selo de "mais popular" no plano do meio.
+ * Convidado/Administrador (schema.sql::plans kind='guest'/'admin') NÃO
+ * aparecem aqui — são categoria administrativa, só visível/atribuível
+ * dentro da gestão de usuários (ver Settings.jsx::UserRow). Esta tela só
+ * lista planos pagos. Destaca qual é o plano atual e sinaliza upgrade nos
+ * outros — não é só listagem, é pitch: cada card tem uma frase de
+ * posicionamento (blurbFor) e um selo de "mais popular" no plano do meio.
  */
 export default function Pricing() {
   const { t, i18n } = useTranslation('pricing')
@@ -28,7 +26,6 @@ export default function Pricing() {
   const checkout = params.get('checkout')
   const [busyPlanId, setBusyPlanId] = useState(null)
   const [error, setError] = useState('')
-  const authUser = useAuthStore((s) => s.user)
 
   // moeda de cobrança é sempre BRL (ver backend/services/plans_service.py
   // ::_CURRENCY) independente do idioma da interface — só a formatação de
@@ -46,15 +43,8 @@ export default function Pricing() {
   })
 
   const plans = data?.items || []
-  // categoria sem preço que vale PRA ESTE usuário — admin sempre usa
-  // admin_plan (QuotaService dá prioridade a is_admin sobre qualquer outra
-  // coisa), os demais usam guest_plan quando não têm plano pago.
-  const noPricePlan = authUser?.is_admin ? data?.admin_plan : data?.guest_plan
-  const noPriceBlurbKey = authUser?.is_admin ? 'blurbAdmin' : 'blurbGuest'
-  const noPriceHintKey = authUser?.is_admin ? 'adminHint' : 'guestHint'
   const currentPlanId = status?.plan_id || null
   const currentPlan = plans.find((p) => p.id === currentPlanId) || null
-  const isNoPriceCurrent = !!status && !currentPlanId
 
   // "mais popular" = plano do meio entre os pagos — só com 2+ planos
   // ativos faz sentido destacar um.
@@ -111,21 +101,6 @@ export default function Pricing() {
       </div>
 
       <div className="row" style={{ gap: 14, flexWrap: 'wrap', alignItems: 'stretch' }}>
-        {noPricePlan && (
-          <div className="card" style={{ minWidth: 220, flex: '1 1 220px', borderColor: isNoPriceCurrent ? 'var(--accent)' : undefined }}>
-            {isNoPriceCurrent && <div className="chip" style={{ marginBottom: 8 }}>{t('currentPlan')}</div>}
-            <h3 style={{ marginBottom: 4 }}>{noPricePlan.name}</h3>
-            <div style={{ color: 'var(--muted)', fontSize: 13, marginBottom: 12 }}>{t(noPriceBlurbKey)}</div>
-            <div style={{ fontSize: 24, fontWeight: 700, marginBottom: 12 }}>{t('freePrice')}</div>
-            <ul style={{ color: 'var(--muted)', margin: '0 0 16px', paddingLeft: 18 }}>
-              <li>{t('setlistsLimit', { count: noPricePlan.max_setlists })}</li>
-              <li>{t('storageLimit', { mb: noPricePlan.storage_limit_mb })}</li>
-            </ul>
-            {isNoPriceCurrent
-              ? <button className="btn" disabled>{t('currentPlan')}</button>
-              : <div className="page-sub" style={{ margin: 0 }}>{t(noPriceHintKey)}</div>}
-          </div>
-        )}
         {plans.map((p, i) => {
           const isCurrent = p.id === currentPlanId
           const isPopular = i === popularIndex

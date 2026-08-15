@@ -56,8 +56,6 @@
   },
   "planBadge": {
     "title": "Vedi piani",
-    "plan": "Piano {{name}}",
-    "guest": "Piano Ospite",
-    "admin": "Piano Amministratore"
+    "plan": "Piano {{name}}"
   }
 }

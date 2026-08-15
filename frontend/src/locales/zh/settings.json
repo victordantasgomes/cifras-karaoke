@@ -109,7 +109,15 @@
     "admin": "管理员",
     "createUser": "创建用户",
     "creating": "正在创建…",
-    "createUserError": "无法创建用户。"
+    "createUserError": "无法创建用户。",
+    "category": "类别",
+    "categoryPaid": "付费方案:{{name}}",
+    "categoryAdmin": "管理员",
+    "categoryGuest": "访客",
+    "categoryLegacy": "旧账户(无限制)",
+    "categorySelectPlaceholder": "更改类别…",
+    "setCategoryConfirm": "将 {{username}} 的类别更改为 {{category}}?",
+    "setCategoryError": "无法更改类别。"
   },
   "plansAdmin": {
     "title": "套餐",

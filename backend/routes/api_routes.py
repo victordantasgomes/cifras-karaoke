@@ -176,6 +176,16 @@ def build_blueprint(ctx) -> Blueprint:
             return jsonify({"error": str(e), "error_code": auth_error_code(str(e))}), 400
         return "", 204
 
+    @api.put("/admin/users/<user_id>/plan-category")
+    @ctx.require_admin
+    def admin_set_user_plan_category(user_id):
+        d = request.get_json(force=True)
+        try:
+            ctx.auth.set_plan_category(user_id, g.user_id, d.get("category", ""))
+        except AuthError as e:
+            return jsonify({"error": str(e), "error_code": auth_error_code(str(e))}), 400
+        return "", 204
+
     @api.get("/admin/plans")
     @ctx.require_admin
     def admin_list_plans():
@@ -231,15 +241,11 @@ def build_blueprint(ctx) -> Blueprint:
     @api.get("/plans")
     @protected
     def list_plans():
-        # guest_plan/admin_plan: as categorias sem preço (Convidado/
-        # Administrador, ver schema.sql::plans kind) — a tela de Planos usa
-        # isso pra montar o card "atual" de quem não tem plano pago, sem
-        # precisar duplicar esses números no frontend.
-        return jsonify({
-            "items": ctx.plans.list_active(),
-            "guest_plan": ctx.plans.get_kind("guest"),
-            "admin_plan": ctx.plans.get_kind("admin"),
-        })
+        # Convidado/Administrador (schema.sql::plans kind) não entram aqui —
+        # são categoria administrativa, só visível/atribuível dentro da
+        # gestão de usuários (GET /admin/plans), nunca na tela pública de
+        # Planos.
+        return jsonify({"items": ctx.plans.list_active()})
 
     @api.get("/billing/status")
     @protected

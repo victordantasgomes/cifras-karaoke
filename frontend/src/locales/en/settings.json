@@ -109,7 +109,15 @@
     "admin": "Administrator",
     "createUser": "Create user",
     "creating": "Creating…",
-    "createUserError": "Could not create the user."
+    "createUserError": "Could not create the user.",
+    "category": "Category",
+    "categoryPaid": "Paid plan: {{name}}",
+    "categoryAdmin": "Administrator",
+    "categoryGuest": "Guest",
+    "categoryLegacy": "Legacy (no limit)",
+    "categorySelectPlaceholder": "Change category…",
+    "setCategoryConfirm": "Change {{username}}'s category to {{category}}?",
+    "setCategoryError": "Couldn't change the category."
   },
   "plansAdmin": {
     "title": "Plans",

@@ -11,7 +11,6 @@
   "redirecting": "Redirecting…",
   "subscribe": "Subscribe",
   "noPlans": "No plans available right now.",
-  "freePrice": "Free",
   "currentPlan": "Your current plan",
   "mostPopular": "Most popular",
   "upgrade": "Upgrade",
@@ -25,9 +24,5 @@
     "chordAssistant": "Chord assistant with live diagrams",
     "transpose": "One-click key transposition",
     "sharing": "Share songs and setlists with your band"
-  },
-  "guestHint": "Included automatically when you create your account.",
-  "adminHint": "Assigned by another system administrator.",
-  "blurbGuest": "Try the platform, no commitment.",
-  "blurbAdmin": "System administration access."
+  }
 }

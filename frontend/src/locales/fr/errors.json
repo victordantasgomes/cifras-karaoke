@@ -58,5 +58,8 @@
   "BAND_MEDIA_NOT_FOUND": "Contenu introuvable.",
   "BAND_POST_VALIDATION_ERROR": "L'un des champs de l'annonce est invalide.",
   "AUTH_INSTRUMENT_INVALID": "Instrument invalide.",
-  "AUTH_SKILL_LEVEL_INVALID": "Niveau technique invalide."
+  "AUTH_SKILL_LEVEL_INVALID": "Niveau technique invalide.",
+  "AUTH_CATEGORY_INVALID": "Catégorie invalide.",
+  "AUTH_CANNOT_CHANGE_OWN_CATEGORY": "Vous ne pouvez pas modifier votre propre catégorie.",
+  "AUTH_CANNOT_DEMOTE_LAST_ADMIN": "Impossible de retirer le dernier administrateur."
 }

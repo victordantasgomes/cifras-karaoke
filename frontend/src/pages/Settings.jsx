@@ -376,6 +376,30 @@ function UserRow({ u, isSelf }) {
     onError: (e) => setRowError(e.response?.data?.error || t('userAdmin.resetPasswordError')),
   })
 
+  const setCategory = useMutation({
+    mutationFn: (category) => api.put(`/admin/users/${u.id}/plan-category`, { category }),
+    onSuccess: invalidate,
+    onError: (e) => setRowError(e.response?.data?.error || t('userAdmin.setCategoryError')),
+  })
+
+  // Categoria administrativa (Convidado/Administrador, ver schema.sql::plans
+  // kind) — não é a mesma coisa que um plano pago de verdade (plan_name,
+  // via plan_id) nem que uma conta legada sem categoria nenhuma atribuída
+  // (plan_grandfathered=true, sem plano) — ver AuthService.set_plan_category.
+  const category = u.is_admin ? 'admin' : u.plan_name ? 'paid' : u.plan_grandfathered ? 'legacy' : 'guest'
+  const categoryLabel = category === 'paid'
+    ? t('userAdmin.categoryPaid', { name: u.plan_name })
+    : t(`userAdmin.category${category === 'admin' ? 'Admin' : category === 'legacy' ? 'Legacy' : 'Guest'}`)
+  const selectValue = category === 'admin' || category === 'guest' ? category : ''
+
+  const changeCategory = (newCategory) => {
+    if (!newCategory || newCategory === selectValue) return
+    const label = t(`userAdmin.category${newCategory === 'admin' ? 'Admin' : 'Guest'}`)
+    if (confirm(t('userAdmin.setCategoryConfirm', { username: u.username, category: label }))) {
+      setCategory.mutate(newCategory)
+    }
+  }
+
   return (
     <li style={{ padding: '10px 0', borderBottom: '1px solid var(--stroke)' }}>
       <div className="row" style={{ justifyContent: 'space-between', alignItems: 'center' }}>
@@ -398,6 +422,17 @@ function UserRow({ u, isSelf }) {
       <div className="page-sub" style={{ marginTop: 4 }}>
         {t('userAdmin.accessCount', { count: u.login_count })} · {t('userAdmin.lastLogin', { date: u.last_login_at ? new Date(u.last_login_at).toLocaleString(i18n.language) : t('userAdmin.never') })}
         {' · '}{t('userAdmin.setlistsCount', { count: u.setlists_count })} · {t('userAdmin.favoritesCount', { count: u.favorites_count })}
+      </div>
+      <div className="row" style={{ marginTop: 6, gap: 8, alignItems: 'center' }}>
+        <span className="page-sub" style={{ margin: 0 }}>{t('userAdmin.category')}: {categoryLabel}</span>
+        {!isSelf && (
+          <select className="input" style={{ width: 'auto' }} value={selectValue} disabled={setCategory.isPending}
+            onChange={(e) => changeCategory(e.target.value)}>
+            <option value="" disabled>{t('userAdmin.categorySelectPlaceholder')}</option>
+            <option value="guest">{t('userAdmin.categoryGuest')}</option>
+            <option value="admin">{t('userAdmin.categoryAdmin')}</option>
+          </select>
+        )}
       </div>
       {resetting && (
         <div className="row" style={{ marginTop: 8, gap: 8 }}>

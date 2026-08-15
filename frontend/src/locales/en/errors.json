@@ -58,5 +58,8 @@
   "BAND_MEDIA_NOT_FOUND": "Media not found.",
   "BAND_POST_VALIDATION_ERROR": "One of the ad's fields is invalid.",
   "AUTH_INSTRUMENT_INVALID": "Invalid instrument.",
-  "AUTH_SKILL_LEVEL_INVALID": "Invalid skill level."
+  "AUTH_SKILL_LEVEL_INVALID": "Invalid skill level.",
+  "AUTH_CATEGORY_INVALID": "Invalid category.",
+  "AUTH_CANNOT_CHANGE_OWN_CATEGORY": "You can't change your own category.",
+  "AUTH_CANNOT_DEMOTE_LAST_ADMIN": "You can't remove the last administrator."
 }

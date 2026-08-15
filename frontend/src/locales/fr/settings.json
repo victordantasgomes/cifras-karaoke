@@ -109,7 +109,15 @@
     "admin": "Administrateur",
     "createUser": "Créer un utilisateur",
     "creating": "Création…",
-    "createUserError": "Impossible de créer l'utilisateur."
+    "createUserError": "Impossible de créer l'utilisateur.",
+    "category": "Catégorie",
+    "categoryPaid": "Forfait payant : {{name}}",
+    "categoryAdmin": "Administrateur",
+    "categoryGuest": "Invité",
+    "categoryLegacy": "Hérité (sans limite)",
+    "categorySelectPlaceholder": "Changer de catégorie…",
+    "setCategoryConfirm": "Changer la catégorie de {{username}} en {{category}} ?",
+    "setCategoryError": "Impossible de modifier la catégorie."
   },
   "plansAdmin": {
     "title": "Forfaits",

@@ -11,7 +11,6 @@
   "redirecting": "A redirecionar…",
   "subscribe": "Assinar",
   "noPlans": "Nenhum plano disponível de momento.",
-  "freePrice": "Grátis",
   "currentPlan": "O seu plano atual",
   "mostPopular": "Mais popular",
   "upgrade": "Fazer upgrade",
@@ -25,9 +24,5 @@
     "chordAssistant": "Assistente de acordes com diagramas ao vivo",
     "transpose": "Transposição de tom com um clique",
     "sharing": "Partilha de músicas e setlists com a banda"
-  },
-  "guestHint": "Incluído automaticamente ao criar a sua conta.",
-  "adminHint": "Atribuído por outro administrador do sistema.",
-  "blurbGuest": "Para experimentar a plataforma sem compromisso.",
-  "blurbAdmin": "Acesso de administração do sistema."
+  }
 }
