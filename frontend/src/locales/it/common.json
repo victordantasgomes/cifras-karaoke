@@ -53,5 +53,10 @@
   },
   "userMenu": {
     "myProfile": "Il mio profilo"
+  },
+  "planBadge": {
+    "title": "Vedi piani",
+    "plan": "Piano {{name}}",
+    "free": "Piano gratuito"
   }
 }

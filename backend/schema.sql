@@ -387,6 +387,15 @@ alter table users add column if not exists stripe_customer_id text;
 alter table users add column if not exists stripe_subscription_id text;
 alter table users add column if not exists subscription_status text not null default 'none';
 alter table users add column if not exists current_period_end timestamptz;
+-- grandfathering: contas de antes dos planos pagos (e as criadas por um
+-- admin pra colegas de banda, via POST /admin/users) nunca tiveram limite
+-- nenhum sem plano atribuído — continuam sem limite. `default true` aqui
+-- só vale pro backfill das linhas JÁ EXISTENTES no momento em que esta
+-- coluna é criada (idempotente, só roda uma vez); daí em diante quem
+-- decide o valor é AuthService.register() — true pro cadastro admin,
+-- false pro cadastro público (esse sim cai no teto de QuotaService quando
+-- não tem plano pago, ver FREE_MAX_SETLISTS/FREE_STORAGE_LIMIT_MB).
+alter table users add column if not exists plan_grandfathered boolean not null default true;
 
 -- Contagem de visitas na landing page (Fase 5) — usada pelo painel admin de
 -- vendas (Fase 14). Uma linha por visita, sem dado pessoal nenhum (nem IP);

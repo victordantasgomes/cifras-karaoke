@@ -10,5 +10,23 @@
   "storageLimit": "{{mb}} MB of audio storage",
   "redirecting": "Redirecting…",
   "subscribe": "Subscribe",
-  "noPlans": "No plans available right now."
+  "noPlans": "No plans available right now.",
+  "freeName": "Free",
+  "freePrice": "Free",
+  "freeHint": "Included automatically when you create your account.",
+  "currentPlan": "Your current plan",
+  "mostPopular": "Most popular",
+  "upgrade": "Upgrade",
+  "manageSubscription": "Manage subscription",
+  "allPlansInclude": "Every paid plan includes:",
+  "blurbFree": "Try the platform, no commitment.",
+  "blurbStarter": "Great for getting your shows organized.",
+  "blurbGrowing": "For bands with a packed schedule.",
+  "blurbTop": "No limits for full-time musicians.",
+  "features": {
+    "karaoke": "Synced karaoke player (scroll or line-by-line)",
+    "chordAssistant": "Chord assistant with live diagrams",
+    "transpose": "One-click key transposition",
+    "sharing": "Share songs and setlists with your band"
+  }
 }

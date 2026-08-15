@@ -3,6 +3,7 @@ import Sidebar from './Sidebar'
 import ThemeToggle from './ThemeToggle'
 import UserMenu from './UserMenu'
 import AlertsBell from './AlertsBell'
+import PlanBadge from './PlanBadge'
 import { useAuthStore } from '../store/authStore'
 
 export default function Layout() {
@@ -13,6 +14,7 @@ export default function Layout() {
       <Sidebar />
       <div className="top-right-fixed no-print">
         <AlertsBell />
+        <PlanBadge />
         <UserMenu />
         <ThemeToggle />
       </div>

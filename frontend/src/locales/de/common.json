@@ -53,5 +53,10 @@
   },
   "userMenu": {
     "myProfile": "Mein Profil"
+  },
+  "planBadge": {
+    "title": "Tarife ansehen",
+    "plan": "{{name}}-Tarif",
+    "free": "Kostenloser Tarif"
   }
 }

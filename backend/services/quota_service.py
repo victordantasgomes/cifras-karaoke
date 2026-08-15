@@ -1,8 +1,11 @@
 """Limites de plano (Fase 9) — nº de setlists e espaço de armazenamento por
-usuário. Só entra em vigor quando o usuário tem um plano atribuído
-(`users.plan_id` não nulo): contas antigas/admin-criadas nunca assinaram e
-continuam sem limite nenhum, mesmo comportamento de sempre (ver Decisão §1
-do plano — grandfathering).
+usuário. Com um plano pago atribuído (`users.plan_id`), vale o limite
+daquele plano. Sem plano: contas grandfathered (`users.plan_grandfathered`
+— antigas, ou criadas por um admin via POST /admin/users) continuam sem
+limite nenhum, mesmo comportamento de sempre (ver Decisão §1 do plano).
+Cadastro público novo NÃO é grandfathered — cai no teto do plano gratuito
+(FREE_MAX_SETLISTS/FREE_STORAGE_LIMIT_MB abaixo), pra o pitch de upgrade
+da tela de Planos fazer sentido de verdade.
 
 Armazenamento (Decisão §12/§13): soma `size_bytes` de faixa+samples+clipes
 só das músicas alcançáveis pelos setlists dos quais o usuário É DONO — não
@@ -15,6 +18,13 @@ from __future__ import annotations
 
 import db
 
+# teto do plano gratuito (sem plano pago, cadastro público — ver
+# AuthService.register(grandfathered=False)). Valores conservadores,
+# ajustáveis aqui sem precisar de uma linha em `plans` pra isso: o gratuito
+# não é um plano de verdade, é a ausência de um.
+FREE_MAX_SETLISTS = 2
+FREE_STORAGE_LIMIT_MB = 10
+
 
 class QuotaExceeded(Exception):
     pass
@@ -25,12 +35,20 @@ class QuotaService:
         self.setlists = setlists  # injetado depois pra evitar ciclo com SetlistService
 
     def _plan_limits(self, conn, user_id: str) -> dict | None:
+        """None = sem limite nenhum (plano pago com limites customizados
+        cobre isso via `plans`, ou conta grandfathered sem plano)."""
         row = conn.execute(
-            """select p.max_setlists, p.storage_limit_mb from users u
-               join plans p on p.id = u.plan_id where u.id = %s""",
+            """select p.max_setlists, p.storage_limit_mb, u.plan_grandfathered
+               from users u left join plans p on p.id = u.plan_id where u.id = %s""",
             (user_id,),
         ).fetchone()
-        return dict(row) if row else None
+        if not row:
+            return None
+        if row["max_setlists"] is not None:
+            return {"max_setlists": row["max_setlists"], "storage_limit_mb": row["storage_limit_mb"]}
+        if row["plan_grandfathered"]:
+            return None
+        return {"max_setlists": FREE_MAX_SETLISTS, "storage_limit_mb": FREE_STORAGE_LIMIT_MB}
 
     def _owned_song_slugs(self, conn, user_id: str, exclude_setlist_pk: str | None = None) -> set[str]:
         setlist_rows = conn.execute(

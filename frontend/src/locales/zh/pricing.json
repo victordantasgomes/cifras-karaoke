@@ -10,5 +10,23 @@
   "storageLimit": "{{mb}} MB 音频存储空间",
   "redirecting": "正在跳转…",
   "subscribe": "订阅",
-  "noPlans": "目前没有可用的套餐。"
+  "noPlans": "目前没有可用的套餐。",
+  "freeName": "免费版",
+  "freePrice": "免费",
+  "freeHint": "创建账户后自动包含。",
+  "currentPlan": "您当前的方案",
+  "mostPopular": "最受欢迎",
+  "upgrade": "升级方案",
+  "manageSubscription": "管理订阅",
+  "allPlansInclude": "每个付费方案均包含:",
+  "blurbFree": "无需承诺,先体验平台。",
+  "blurbStarter": "适合刚开始安排演出的乐队。",
+  "blurbGrowing": "适合演出档期繁忙的乐队。",
+  "blurbTop": "专业音乐人无限制使用。",
+  "features": {
+    "karaoke": "同步卡拉OK播放器(滚动或逐行模式)",
+    "chordAssistant": "带实时和弦图的和弦助手",
+    "transpose": "一键变调",
+    "sharing": "与乐队共享歌曲和歌单"
+  }
 }

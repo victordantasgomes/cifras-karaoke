@@ -44,7 +44,7 @@ def _validate_instruments(instruments: list[dict]) -> list[dict]:
 class AuthService:
     def register(self, username: str, password: str, name: str = "", is_admin: bool = False,
                  email: str = "", share_by_default: bool = True, city: str = "",
-                 instruments: list[dict] | None = None) -> dict:
+                 instruments: list[dict] | None = None, grandfathered: bool = True) -> dict:
         """Duas portas de entrada usam este mesmo método: `POST /admin/users`
         (admin-only, sem e-mail, `share_by_default=True` — mesmo
         comportamento colaborativo de sempre pra contas de banda) e a rota
@@ -54,7 +54,14 @@ class AuthService:
         multi-tenant). `email` fica opcional aqui pra não quebrar o fluxo
         admin de hoje, que nunca coletou e-mail. `city`/`instruments` também
         opcionais (melhoria de alertas) — sempre editáveis depois via
-        update_city/set_instruments, não travam o cadastro."""
+        update_city/set_instruments, não travam o cadastro.
+
+        `grandfathered` (default True, pro cadastro admin — colega de banda
+        adicionado por quem já usa o sistema) decide se esta conta fica
+        SEM limite de setlists/armazenamento enquanto não tiver um plano
+        pago atribuído (ver QuotaService). A rota pública passa
+        `grandfathered=False` — cadastro novo pelo próprio site cai no teto
+        do plano gratuito."""
         username = username.strip().lower()
         email = email.strip().lower()
         city = (city or "").strip()
@@ -76,10 +83,11 @@ class AuthService:
                 if email_taken:
                     raise AuthError("Este e-mail já está cadastrado.")
             conn.execute(
-                """insert into users (id, username, name, password_hash, is_admin, email, share_by_default, city)
-                   values (%s, %s, %s, %s, %s, %s, %s, %s)""",
+                """insert into users (id, username, name, password_hash, is_admin, email,
+                                       share_by_default, city, plan_grandfathered)
+                   values (%s, %s, %s, %s, %s, %s, %s, %s, %s)""",
                 (user_id, username, name, generate_password_hash(password), is_admin,
-                 email or None, share_by_default, city),
+                 email or None, share_by_default, city, grandfathered),
             )
             for item in instruments:
                 conn.execute(

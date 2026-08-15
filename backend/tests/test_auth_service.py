@@ -199,6 +199,28 @@ def test_public_signup_style_register_accepts_email(auth):
     assert _share_by_default(user["id"]) is False
 
 
+def _plan_grandfathered(user_id):
+    with db.get_pool().connection() as conn:
+        row = conn.execute("select plan_grandfathered from users where id=%s", (user_id,)).fetchone()
+    return row["plan_grandfathered"]
+
+
+def test_register_defaults_grandfathered_true(auth):
+    """Fluxo admin (POST /admin/users) — colega de banda adicionado por
+    quem já usa o sistema continua sem teto de plano gratuito, mesmo
+    comportamento de sempre."""
+    user = auth.register("banda", "senha123")
+    assert _plan_grandfathered(user["id"]) is True
+
+
+def test_public_signup_style_register_sets_grandfathered_false(auth):
+    """Cadastro público (POST /api/auth/register) cai no teto do plano
+    gratuito — ver QuotaService.FREE_MAX_SETLISTS/FREE_STORAGE_LIMIT_MB."""
+    user = auth.register("novato", "senha123", email="novato@example.com",
+                          share_by_default=False, grandfathered=False)
+    assert _plan_grandfathered(user["id"]) is False
+
+
 def test_register_rejects_invalid_email(auth):
     with pytest.raises(AuthError):
         auth.register("novato", "senha123", email="nao-e-um-email")

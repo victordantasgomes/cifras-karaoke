@@ -53,5 +53,10 @@
   },
   "userMenu": {
     "myProfile": "我的资料"
+  },
+  "planBadge": {
+    "title": "查看方案",
+    "plan": "{{name}} 方案",
+    "free": "免费方案"
   }
 }

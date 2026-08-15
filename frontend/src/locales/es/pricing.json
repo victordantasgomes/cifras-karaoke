@@ -10,5 +10,23 @@
   "storageLimit": "{{mb}} MB de almacenamiento de audio",
   "redirecting": "Redirigiendo…",
   "subscribe": "Suscribirse",
-  "noPlans": "No hay planes disponibles en este momento."
+  "noPlans": "No hay planes disponibles en este momento.",
+  "freeName": "Gratuito",
+  "freePrice": "Gratis",
+  "freeHint": "Incluido automáticamente al crear tu cuenta.",
+  "currentPlan": "Tu plan actual",
+  "mostPopular": "Más popular",
+  "upgrade": "Mejorar plan",
+  "manageSubscription": "Gestionar suscripción",
+  "allPlansInclude": "Todo plan de pago incluye:",
+  "blurbFree": "Para probar la plataforma sin compromiso.",
+  "blurbStarter": "Ideal para quien empieza a organizar sus shows.",
+  "blurbGrowing": "Para bandas con la agenda llena.",
+  "blurbTop": "Sin límites para quien vive de la música.",
+  "features": {
+    "karaoke": "Reproductor karaoke sincronizado (desplazamiento o línea a línea)",
+    "chordAssistant": "Asistente de acordes con diagramas en vivo",
+    "transpose": "Transposición de tono con un clic",
+    "sharing": "Compartir canciones y setlists con la banda"
+  }
 }

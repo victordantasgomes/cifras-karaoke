@@ -2,7 +2,7 @@ import pytest
 
 import db
 from services.audio_service import AudioService
-from services.quota_service import QuotaExceeded, QuotaService
+from services.quota_service import FREE_MAX_SETLISTS, FREE_STORAGE_LIMIT_MB, QuotaExceeded, QuotaService
 from services.setlist_service import SetlistService
 from services.songs_service import SongsService
 
@@ -44,6 +44,18 @@ def _assign_plan(user_id, max_setlists, storage_limit_mb):
         ).fetchone()["id"]
         conn.execute("update users set plan_id=%s where id=%s", (plan_id, user_id))
     return plan_id
+
+
+def _make_non_grandfathered_user(user_id: str, username: str) -> None:
+    """Conta 'nova' (cadastro público — ver AuthService.register(
+    grandfathered=False)): sem plano pago, cai no teto do plano gratuito
+    em vez de ficar sem limite nenhum."""
+    with db.get_pool().connection() as conn:
+        conn.execute(
+            "insert into users (id, username, name, password_hash, plan_grandfathered) "
+            "values (%s, %s, %s, 'x', false)",
+            (user_id, username, username),
+        )
 
 
 def test_usage_is_none_without_assigned_plan(ctx):
@@ -126,6 +138,44 @@ def test_storage_counts_only_songs_from_owned_setlists(ctx, other_user_id):
     # u1 enxerga o setlist de outro usuário (é compartilhado), mas ele não é
     # DONO — não deve contar pro armazenamento de u1 (Decisão §13).
     assert quota.storage_used_bytes("u1") == 0
+
+
+def test_grandfathered_user_without_plan_has_no_limit(ctx):
+    # "u1" (fixture user_id) é inserido sem passar por AuthService.register()
+    # — cai no default da coluna (plan_grandfathered=true), mesmo
+    # comportamento de sempre pra conta que nunca assinou nada.
+    _, _, _, quota = ctx
+    assert quota.usage("u1") is None
+
+
+def test_non_grandfathered_user_without_plan_gets_free_tier_limit(ctx):
+    _, setlists, _, quota = ctx
+    _make_non_grandfathered_user("u3", "novo")
+    usage = quota.usage("u3")
+    assert usage == {
+        "setlists_used": 0, "setlists_max": FREE_MAX_SETLISTS,
+        "storage_used_mb": 0, "storage_limit_mb": FREE_STORAGE_LIMIT_MB,
+    }
+    for i in range(FREE_MAX_SETLISTS):
+        setlists.save("u3", f"Show {i}", [])
+    with pytest.raises(QuotaExceeded):
+        setlists.save("u3", "Show a mais", [])
+
+
+def test_non_grandfathered_user_storage_limit_enforced(ctx):
+    songs, setlists, audio, _ = ctx
+    _make_non_grandfathered_user("u3", "novo")
+    song = _create_song_with_track(songs, audio, "u3", "Bohemian Rhapsody", FREE_STORAGE_LIMIT_MB * 1024 * 1024 + 1)
+    with pytest.raises(QuotaExceeded):
+        setlists.save("u3", "Show", [f"Queen/{song['titulo']}"])
+
+
+def test_assigning_paid_plan_overrides_free_tier_limit(ctx):
+    _, setlists, _, quota = ctx
+    _make_non_grandfathered_user("u3", "novo")
+    _assign_plan("u3", max_setlists=50, storage_limit_mb=5000)
+    usage = quota.usage("u3")
+    assert usage["setlists_max"] == 50 and usage["storage_limit_mb"] == 5000
 
 
 def test_editing_setlist_excludes_its_own_previous_items_from_check(ctx):

@@ -10,5 +10,23 @@
   "storageLimit": "{{mb}} MB Audio-Speicher",
   "redirecting": "Wird weitergeleitet…",
   "subscribe": "Abonnieren",
-  "noPlans": "Aktuell sind keine Tarife verfügbar."
+  "noPlans": "Aktuell sind keine Tarife verfügbar.",
+  "freeName": "Kostenlos",
+  "freePrice": "Kostenlos",
+  "freeHint": "Automatisch enthalten, wenn du dein Konto erstellst.",
+  "currentPlan": "Dein aktueller Tarif",
+  "mostPopular": "Am beliebtesten",
+  "upgrade": "Upgrade durchführen",
+  "manageSubscription": "Abo verwalten",
+  "allPlansInclude": "Jeder kostenpflichtige Tarif enthält:",
+  "blurbFree": "Die Plattform unverbindlich ausprobieren.",
+  "blurbStarter": "Ideal für den Einstieg in die Auftrittsplanung.",
+  "blurbGrowing": "Für Bands mit vollem Terminkalender.",
+  "blurbTop": "Ohne Limits für Vollzeit-Musiker.",
+  "features": {
+    "karaoke": "Synchronisierter Karaoke-Player (Scroll- oder Zeile-für-Zeile-Modus)",
+    "chordAssistant": "Akkord-Assistent mit Live-Diagrammen",
+    "transpose": "Tonart-Transposition mit einem Klick",
+    "sharing": "Songs und Setlists mit der Band teilen"
+  }
 }
