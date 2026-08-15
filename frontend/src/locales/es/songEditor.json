@@ -72,7 +72,10 @@
     "discardTitle": "Descartar todos los cambios sin guardar",
     "discard": "✕ Descartar cambios",
     "confirmDiscard": "¿Descartar los cambios sin guardar de esta canción? Esto no se puede deshacer.",
-    "autosaveHint": "Autoguardado activo · cada guardado genera una versión en el historial"
+    "autosaveHint": "Autoguardado activo · cada guardado genera una versión en el historial",
+    "youtubeUrl": "Enlace de YouTube",
+    "youtubeUrlPlaceholder": "ej.: https://www.youtube.com/watch?v=...",
+    "youtubeUrlHint": "Muestra un miniplayer en el karaoke y habilita el botón \"Reproducir + YT\"."
   },
   "audio": {
     "referenceTrack": "Pista de referencia",

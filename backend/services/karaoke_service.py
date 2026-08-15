@@ -123,6 +123,7 @@ class KaraokeService:
             # mostra marca nenhuma nesse caso.
             "owner_id": data["user_id"],
             "tom": data["header"].get("tom", ""),
+            "youtube_url": data["header"].get("youtube_url", ""),
             "velocidade": velocidade,
             "ms_per_line": velocity_to_ms(velocidade),
             "lines": lines,

@@ -15,7 +15,8 @@
     "import": "无法导入歌单。",
     "clone": "无法克隆歌单。",
     "addSong": "无法添加歌曲。",
-    "unfollow": "无法取消关注此歌单。"
+    "unfollow": "无法取消关注此歌单。",
+    "rename": "无法重命名歌单。"
   },
   "clone": "克隆",
   "cloning": "克隆中…",
@@ -42,5 +43,7 @@
     "violao": "木吉他",
     "ukulele": "尤克里里",
     "teclado": "键盘"
-  }
+  },
+  "rename": "重命名",
+  "renameTitle": "重命名此歌单"
 }

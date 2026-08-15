@@ -57,6 +57,8 @@
   "planBadge": {
     "title": "查看方案",
     "plan": "{{name}} 方案",
-    "free": "免费方案"
+    "free": "免费方案",
+    "freeGuest": "免费方案 - 访客",
+    "freeAdmin": "免费方案 - 管理员"
   }
 }

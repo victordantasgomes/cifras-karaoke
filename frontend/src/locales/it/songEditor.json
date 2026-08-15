@@ -72,7 +72,10 @@
     "discardTitle": "Scarta tutte le modifiche non salvate",
     "discard": "✕ Scarta modifiche",
     "confirmDiscard": "Scartare le modifiche non salvate di questo brano? L'azione non può essere annullata.",
-    "autosaveHint": "Salvataggio automatico attivo · ogni salvataggio genera una versione nella cronologia"
+    "autosaveHint": "Salvataggio automatico attivo · ogni salvataggio genera una versione nella cronologia",
+    "youtubeUrl": "Link YouTube",
+    "youtubeUrlPlaceholder": "es.: https://www.youtube.com/watch?v=...",
+    "youtubeUrlHint": "Mostra un mini player nel karaoke e abilita il pulsante \"Riproduci + YT\"."
   },
   "audio": {
     "referenceTrack": "Traccia di riferimento",

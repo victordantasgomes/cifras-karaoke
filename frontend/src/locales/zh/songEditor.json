@@ -72,7 +72,10 @@
     "discardTitle": "放弃所有未保存的更改",
     "discard": "✕ 放弃更改",
     "confirmDiscard": "放弃这首歌曲未保存的更改？此操作无法撤销。",
-    "autosaveHint": "自动保存已启用 · 每次保存都会在历史记录中生成一个版本"
+    "autosaveHint": "自动保存已启用 · 每次保存都会在历史记录中生成一个版本",
+    "youtubeUrl": "YouTube 链接",
+    "youtubeUrlPlaceholder": "例如:https://www.youtube.com/watch?v=...",
+    "youtubeUrlHint": "在卡拉OK中显示一个小型播放器,并启用\"播放 + YT\"按钮。"
   },
   "audio": {
     "referenceTrack": "参考音轨",

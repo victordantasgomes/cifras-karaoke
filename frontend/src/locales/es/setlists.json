@@ -15,7 +15,8 @@
     "import": "No se pudo importar la lista de repertorio.",
     "clone": "No se pudo clonar el setlist.",
     "addSong": "No se pudo añadir la canción.",
-    "unfollow": "No se pudo dejar de seguir este setlist."
+    "unfollow": "No se pudo dejar de seguir este setlist.",
+    "rename": "No se pudo renombrar el setlist."
   },
   "clone": "Clonar",
   "cloning": "Clonando…",
@@ -42,5 +43,7 @@
     "violao": "Guitarra",
     "ukulele": "Ukelele",
     "teclado": "Teclado"
-  }
+  },
+  "rename": "Renombrar",
+  "renameTitle": "Renombrar este setlist"
 }

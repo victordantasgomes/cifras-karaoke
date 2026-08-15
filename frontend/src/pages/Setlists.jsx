@@ -11,6 +11,7 @@ export default function Setlists() {
   const [name, setName] = useState('')
   const [error, setError] = useState('')
   const [addingTo, setAddingTo] = useState(null) // id do setlist com o painel de "+ Adicionar música" aberto
+  const [renamingId, setRenamingId] = useState(null) // id do setlist com o campo de renomear aberto
   const [showChordAssistant, setShowChordAssistant] = useState(false)
   const { data } = useQuery({ queryKey: ['setlists'], queryFn: () => api.get('/setlists').then((r) => r.data) })
 
@@ -87,16 +88,24 @@ export default function Setlists() {
         {!mine.length && <div className="empty">{t('emptyMine')}</div>}
         {mine.map((s) => (
           <div key={s.id}>
-            <div className="song-row" style={{ gridTemplateColumns: '1fr auto auto auto auto auto' }}>
-              <Link to={`/setlists/${s.id}`}>
-                <div className="title">{s.nome}</div>
-                <div className="meta">{t('itemCount', { count: s.count })}</div>
-              </Link>
+            <div className="song-row" style={{ gridTemplateColumns: '1fr auto auto auto auto auto auto' }}>
+              {renamingId === s.id ? (
+                <RenameField setlist={s} onDone={() => setRenamingId(null)} />
+              ) : (
+                <Link to={`/setlists/${s.id}`}>
+                  <div className="title">{s.nome}</div>
+                  <div className="meta">{t('itemCount', { count: s.count })}</div>
+                </Link>
+              )}
               <label className="row" style={{ gap: 6, alignItems: 'center', cursor: 'pointer' }}>
                 <input type="checkbox" checked={s.shared}
                   onChange={(e) => toggleShare.mutate({ id: s.id, value: e.target.checked })} />
                 {t('shared')}
               </label>
+              <button className="btn no-print" title={t('renameTitle')}
+                onClick={() => setRenamingId(renamingId === s.id ? null : s.id)}>
+                {t('rename')}
+              </button>
               <button className="btn no-print" title={t('addSongTitle')}
                 onClick={() => setAddingTo(addingTo === s.id ? null : s.id)}>
                 {addingTo === s.id ? t('close') : t('addSong')}
@@ -134,6 +143,46 @@ export default function Setlists() {
         ))}
       </div>
     </>
+  )
+}
+
+/** Campo de renomear inline, aberto no lugar do link do setlist — mesmo
+ * padrão de commit-no-blur/Enter/Escape usado no título de SetlistDetail.jsx,
+ * mas busca os `items` atuais antes de salvar (PUT /setlists/:id substitui
+ * a lista inteira — ver setlist_service.py::save — então renomear "só o
+ * nome" precisa reenviar os itens de volta junto). */
+function RenameField({ setlist, onDone }) {
+  const { t } = useTranslation('setlists')
+  const qc = useQueryClient()
+  const [value, setValue] = useState(setlist.nome)
+  const [error, setError] = useState('')
+
+  const rename = useMutation({
+    mutationFn: async (novoNome) => {
+      const { data: full } = await api.get(`/setlists/${setlist.id}`)
+      return api.put(`/setlists/${setlist.id}`, { nome: novoNome, items: full.items.map((i) => i.ref) })
+    },
+    onSuccess: () => { setError(''); qc.invalidateQueries({ queryKey: ['setlists'] }); onDone() },
+    onError: (e) => setError(e.response?.data?.error || t('errors.rename')),
+  })
+
+  const commit = () => {
+    const trimmed = value.trim()
+    if (!trimmed || trimmed === setlist.nome) { onDone(); return }
+    rename.mutate(trimmed)
+  }
+
+  return (
+    <div>
+      <input className="input" autoFocus value={value} disabled={rename.isPending}
+        onChange={(e) => setValue(e.target.value)}
+        onBlur={commit}
+        onKeyDown={(e) => {
+          if (e.key === 'Enter') e.target.blur()
+          else if (e.key === 'Escape') { setValue(setlist.nome); onDone() }
+        }} />
+      {error && <div className="error-text" style={{ fontSize: 12, marginTop: 4 }}>{error}</div>}
+    </div>
   )
 }
 

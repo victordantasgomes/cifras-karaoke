@@ -28,7 +28,9 @@
     "stopPlaylist": "Playlist stoppen",
     "fullscreen": "Vollbild (F)",
     "back": "Zurück (ESC)",
-    "exit": "Verlassen"
+    "exit": "Verlassen",
+    "playWithYoutube": "Abspielen + YT",
+    "playWithYoutubeTitle": "Spielt den Song und das YouTube-Video gemeinsam ab"
   },
   "countdown": {
     "hint": "Mach dich bereit… (Klick oder Leertaste zum Überspringen)"

@@ -28,7 +28,9 @@
     "stopPlaylist": "Parar alinhamento",
     "fullscreen": "Ecrã inteiro (F)",
     "back": "Voltar (ESC)",
-    "exit": "Sair"
+    "exit": "Sair",
+    "playWithYoutube": "Tocar + YT",
+    "playWithYoutubeTitle": "Toca a música e o vídeo do YouTube em conjunto"
   },
   "countdown": {
     "hint": "Prepare-se… (clique ou Espaço para saltar)"

@@ -35,7 +35,7 @@ HEADER_FIELDS = [
     "titulo", "autor", "intérprete", "tom", "tom_original", "tom_da_cifra", "velocidade",
     "ritmomusical", "introdução", "tags", "nota", "favorita", "normalizada",
     "bpm", "bateria", "guitarra", "baixo", "teclado",
-    "modoexecucao", "tempoexecucao", "modopedal",
+    "modoexecucao", "tempoexecucao", "modopedal", "youtube_url",
 ]
 
 # Aliases sem acento aceitos na leitura (a escrita usa sempre a forma canônica).

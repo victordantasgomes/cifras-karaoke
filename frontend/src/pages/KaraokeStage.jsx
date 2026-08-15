@@ -20,6 +20,8 @@ import { extractUniqueChords } from '../utils/chordParser'
 import { useChordSidebarStore } from '../store/chordSidebarStore'
 import KaraokeLines from '../components/KaraokeLines'
 import KaraokeChordSidebar from '../components/KaraokeChordSidebar'
+import YoutubeMiniPlayer from '../components/YoutubeMiniPlayer'
+import { extractYoutubeId } from '../utils/youtube'
 
 const ROW_BUDGET = 16
 const COUNTDOWN_SECONDS = 3
@@ -70,6 +72,7 @@ export default function KaraokeStage() {
   const autoStartedRef = useRef(null)
   const [countdown, setCountdown] = useState(null) // null = sem contagem; número = segundos restantes
   const countdownTimer = useRef(null)
+  const ytRef = useRef(null)
 
   // a rota /karaoke/:slug não desmonta o componente ao trocar de música
   // (mesmo elemento de rota) — precisa resetar manualmente o que é
@@ -122,6 +125,7 @@ export default function KaraokeStage() {
   const uniqueChords = useMemo(() => extractUniqueChords(data?.lines), [data?.lines])
   const chordSidebarVisible = chordInstruments.length > 0 && uniqueChords.length > 0
   const chordSidebarWidth = useChordSidebarStore((s) => s.width)
+  const youtubeVideoId = extractYoutubeId(data?.youtube_url)
 
   useEffect(() => {
     if (data) player.load(data)
@@ -329,6 +333,12 @@ export default function KaraokeStage() {
     if (player.playing) player.pause()
     else beginPlayback()
   }
+  // "Tocar + YT" (item 5): começa o karaokê normalmente E dá play no
+  // vídeo do YouTube junto, quando a música tem um link cadastrado.
+  const playWithYoutube = () => {
+    beginPlayback()
+    ytRef.current?.play()
+  }
 
   const pedal = usePedalControl(slug, data, togglePlay)
 
@@ -347,7 +357,9 @@ export default function KaraokeStage() {
     playlist.stop()
     navigate(`/setlists/${playlist.setlistId}`)
   }
-  const onSongEnd = () => { if (inPlaylist) goNextSong(); else player.pause() }
+  // NÃO avança sozinho pra próxima música da playlist ao terminar — item 6
+  // do pedido: só o botão manual "Próxima música" (⏭, goNextSong) avança.
+  const onSongEnd = () => { player.pause() }
 
   // fim de música em modo sintetizado: não existe elemento <audio> real
   // pra disparar onEnded, então escuta o evento 'ended' que o SynthClock
@@ -423,6 +435,7 @@ export default function KaraokeStage() {
           src={sampleUrls[s.id] || undefined} preload="auto" />
       ))}
       {pedal.modoPedal === 'fila_clipes' && <audio ref={pedal.clipAudioRef} preload="auto" />}
+      {youtubeVideoId && <YoutubeMiniPlayer ref={ytRef} videoId={youtubeVideoId} title={data.titulo} />}
 
       <div className="k-header">
         <div>
@@ -503,6 +516,12 @@ export default function KaraokeStage() {
         <button className="btn primary" onClick={togglePlay} disabled={!canPlay} title={t('controls.playPause')}>
           {countdown != null ? t('controls.skipCountdown', { count: countdown }) : player.playing ? t('controls.pause') : t('controls.play')}
         </button>
+        {youtubeVideoId && (
+          <button className="btn" onClick={playWithYoutube} disabled={!canPlay || player.playing}
+            title={t('controls.playWithYoutubeTitle')}>
+            {t('controls.playWithYoutube')}
+          </button>
+        )}
         <button className="btn" onClick={goNext} title={t('controls.nextLine')}>→</button>
         <button className="btn" onClick={() => adjustRate(-0.1)} title={t('controls.slower')}>−</button>
         <button className="btn" onClick={() => adjustRate(0.1)} title={t('controls.faster')}>+</button>

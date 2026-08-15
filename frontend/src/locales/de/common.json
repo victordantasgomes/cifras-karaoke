@@ -57,6 +57,8 @@
   "planBadge": {
     "title": "Tarife ansehen",
     "plan": "{{name}}-Tarif",
-    "free": "Kostenloser Tarif"
+    "free": "Kostenloser Tarif",
+    "freeGuest": "Kostenloser Tarif - Gast",
+    "freeAdmin": "Kostenloser Tarif - ADMIN"
   }
 }

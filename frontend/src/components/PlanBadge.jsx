@@ -6,10 +6,11 @@ import api from '../services/api'
 /** Indicativo do plano atual no topo da tela (entre o sino de alertas e o
  * menu do usuário) — leva pra tela de Planos ao clicar. Com plano PAGO
  * atribuído (`plan_name`, ver BillingService.get_status) mostra o nome dele;
- * sem plano pago mostra o rótulo genérico "Plano Gratuito" — nunca
- * "Convidado"/"Administrador" (schema.sql::plans kind), que são categoria
- * administrativa e só aparecem dentro da gestão de usuários (ver
- * Settings.jsx::UserRow), nunca pro próprio usuário. */
+ * sem plano pago mostra "Plano Gratuito", com um sufixo revelando a
+ * categoria administrativa quando houver (`category`: 'admin'/'guest', ver
+ * BillingService.get_status) — "Plano Gratuito - Convidado" ou "Plano
+ * Gratuito - ADMIN". Conta legada (grandfathered, sem categoria) mostra só
+ * "Plano Gratuito", sem sufixo. */
 export default function PlanBadge() {
   const { t } = useTranslation('common')
   const { data } = useQuery({
@@ -19,9 +20,15 @@ export default function PlanBadge() {
   })
   if (!data) return null
 
+  const label = data.plan_name
+    ? t('planBadge.plan', { name: data.plan_name })
+    : data.category === 'admin' ? t('planBadge.freeAdmin')
+    : data.category === 'guest' ? t('planBadge.freeGuest')
+    : t('planBadge.free')
+
   return (
     <Link to="/planos" className="chip plan-badge" title={t('planBadge.title')}>
-      {data.plan_name ? t('planBadge.plan', { name: data.plan_name }) : t('planBadge.free')}
+      {label}
     </Link>
   )
 }

@@ -28,7 +28,9 @@
     "stopPlaylist": "Stop playlist",
     "fullscreen": "Fullscreen (F)",
     "back": "Back (ESC)",
-    "exit": "Exit"
+    "exit": "Exit",
+    "playWithYoutube": "Play + YT",
+    "playWithYoutubeTitle": "Play the song and the YouTube video together"
   },
   "countdown": {
     "hint": "Get ready… (click or Space to skip)"

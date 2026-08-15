@@ -28,7 +28,9 @@
     "stopPlaylist": "Detener playlist",
     "fullscreen": "Pantalla completa (F)",
     "back": "Volver (ESC)",
-    "exit": "Salir"
+    "exit": "Salir",
+    "playWithYoutube": "Reproducir + YT",
+    "playWithYoutubeTitle": "Reproduce la música y el vídeo de YouTube juntos"
   },
   "countdown": {
     "hint": "Prepárate… (clic o Espacio para saltar)"

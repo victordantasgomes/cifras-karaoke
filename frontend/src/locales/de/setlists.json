@@ -15,7 +15,8 @@
     "import": "Die Setlist konnte nicht importiert werden.",
     "clone": "Die Setlist konnte nicht geklont werden.",
     "addSong": "Der Song konnte nicht hinzugefügt werden.",
-    "unfollow": "Dieser Setlist konnte nicht entfolgt werden."
+    "unfollow": "Dieser Setlist konnte nicht entfolgt werden.",
+    "rename": "Die Setlist konnte nicht umbenannt werden."
   },
   "clone": "Klonen",
   "cloning": "Klonen…",
@@ -42,5 +43,7 @@
     "violao": "Gitarre",
     "ukulele": "Ukulele",
     "teclado": "Keyboard"
-  }
+  },
+  "rename": "Umbenennen",
+  "renameTitle": "Diese Setlist umbenennen"
 }

@@ -37,18 +37,31 @@ class BillingService:
     def get_status(self, user_id: str) -> dict:
         with db.get_pool().connection() as conn:
             row = conn.execute(
-                """select u.subscription_status, u.current_period_end, p.id as plan_id, p.name as plan_name
+                """select u.subscription_status, u.current_period_end, u.is_admin,
+                          u.plan_grandfathered, p.id as plan_id, p.name as plan_name
                    from users u left join plans p on p.id = u.plan_id
                    where u.id = %s""",
                 (user_id,),
             ).fetchone()
         if not row:
             raise BillingError("Usuário não encontrado.")
+        # category: só faz sentido pra quem NÃO tem plano pago (indicativo do
+        # topo — ver PlanBadge.jsx — revela "Convidado"/"ADMIN" como sufixo
+        # do rótulo "Plano Gratuito", sem virar um card/plano à parte).
+        if row["plan_name"]:
+            category = None
+        elif row["is_admin"]:
+            category = "admin"
+        elif not row["plan_grandfathered"]:
+            category = "guest"
+        else:
+            category = None
         return {
             "subscription_status": row["subscription_status"],
             "current_period_end": row["current_period_end"].isoformat() if row["current_period_end"] else None,
             "plan_id": str(row["plan_id"]) if row["plan_id"] else None,
             "plan_name": row["plan_name"],
+            "category": category,
         }
 
     def is_creation_blocked(self, user_id: str) -> bool:

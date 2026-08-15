@@ -72,7 +72,10 @@
     "discardTitle": "Alle nicht gespeicherten Änderungen verwerfen",
     "discard": "✕ Änderungen verwerfen",
     "confirmDiscard": "Nicht gespeicherte Änderungen an diesem Song verwerfen? Dies kann nicht rückgängig gemacht werden.",
-    "autosaveHint": "Automatisches Speichern aktiv · jedes Speichern erstellt eine Version im Verlauf"
+    "autosaveHint": "Automatisches Speichern aktiv · jedes Speichern erstellt eine Version im Verlauf",
+    "youtubeUrl": "YouTube-Link",
+    "youtubeUrlPlaceholder": "z. B.: https://www.youtube.com/watch?v=...",
+    "youtubeUrlHint": "Zeigt einen Mini-Player im Karaoke-Modus und aktiviert die Schaltfläche „Abspielen + YT“."
   },
   "audio": {
     "referenceTrack": "Referenz-Track",

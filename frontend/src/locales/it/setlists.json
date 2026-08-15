@@ -15,7 +15,8 @@
     "import": "Impossibile importare la scaletta.",
     "clone": "Impossibile clonare la setlist.",
     "addSong": "Impossibile aggiungere la canzone.",
-    "unfollow": "Impossibile smettere di seguire questa setlist."
+    "unfollow": "Impossibile smettere di seguire questa setlist.",
+    "rename": "Non è stato possibile rinominare la scaletta."
   },
   "clone": "Clona",
   "cloning": "Clonazione…",
@@ -42,5 +43,7 @@
     "violao": "Chitarra",
     "ukulele": "Ukulele",
     "teclado": "Tastiera"
-  }
+  },
+  "rename": "Rinomina",
+  "renameTitle": "Rinomina questa scaletta"
 }

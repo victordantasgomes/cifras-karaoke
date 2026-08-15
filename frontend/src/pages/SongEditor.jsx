@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useLayoutEffect, useRef, useState } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { useTranslation } from 'react-i18next'
@@ -19,6 +19,10 @@ const HEADER_FIELDS = [
   'titulo', 'autor', 'intérprete', 'tom', 'tom_original', 'tom_da_cifra', 'velocidade',
   'ritmomusical', 'introdução', 'tags', 'nota', 'favorita', 'normalizada', 'bpm',
 ]
+// Fora do loop genérico (ver 480-486): recebe type="url" dedicado em vez de
+// texto solto, já que é validado/usado como link real (ver KaraokeStage.jsx
+// /ScrollPlayer.jsx — miniplayer do YouTube).
+const YOUTUBE_FIELD = 'youtube_url'
 const KEYS = ['C','C#','Db','D','D#','Eb','E','F','F#','Gb','G','G#','Ab','A','A#','Bb','B']
 
 const EXECUTION_MODES = [
@@ -100,6 +104,17 @@ export default function SongEditor() {
   })
   const sampleEntries = samples ? Object.entries(samples) : []
   const [sampleToInsert, setSampleToInsert] = useState('')
+
+  // textarea cresce com o conteúdo (altura = scrollHeight) em vez de ficar
+  // numa caixa de altura fixa com scroll interno — evita a página ganhar
+  // DUAS barras de rolagem (a da página + a de dentro da textarea).
+  useLayoutEffect(() => {
+    const el = textareaRef.current
+    if (!el) return
+    el.style.height = 'auto'
+    el.style.height = `${Math.max(el.scrollHeight, 420)}px`
+  }, [body, tab])
+
   useEffect(() => {
     if (!sampleToInsert && sampleEntries.length) setSampleToInsert(sampleEntries[0][1].nome)
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -275,18 +290,24 @@ export default function SongEditor() {
     },
   })
 
-  // aplica uma transformação de texto+seleção na textarea da cifra e restaura o cursor
+  // aplica uma transformação de texto+seleção na textarea da cifra e restaura
+  // o cursor SEM saltar a rolagem da página de volta pro topo — o
+  // `value` novo dispara reposicionamento de foco no navegador, então
+  // capturamos `window.scrollY` antes e restauramos depois (`focus` com
+  // `preventScroll` evita o auto-scroll-into-view padrão do navegador).
   const applyEdit = (fn) => {
     const el = textareaRef.current
     if (!el) return
     flushPendingHistory()
+    const scrollY = window.scrollY
     const { newText, newStart, newEnd } = fn(body, el.selectionStart, el.selectionEnd)
     setBody(newText)
     setDirty(true)
     pushHistorySnapshot(header, newText)
     requestAnimationFrame(() => {
-      el.focus()
+      el.focus({ preventScroll: true })
       el.setSelectionRange(newStart, newEnd)
+      window.scrollTo(0, scrollY)
     })
   }
 
@@ -462,7 +483,7 @@ export default function SongEditor() {
       )}
 
       {tab === 'edit' && (
-        <div className="row" style={{ alignItems: 'stretch' }} onKeyDown={handleEditorKeyDown}>
+        <div className="row" style={{ alignItems: 'flex-start' }} onKeyDown={handleEditorKeyDown}>
           <div className="card" style={{ width: 300, flexShrink: 0 }}>
             <div className="row" style={{ justifyContent: 'space-between', alignItems: 'center', marginBottom: 12 }}>
               <h3>{t('edit.header')}</h3>
@@ -501,6 +522,15 @@ export default function SongEditor() {
                 {t('edit.executionTimeHint')}
               </div>
             </div>
+            <div className="field">
+              <label>{t('edit.youtubeUrl')}</label>
+              <input className="input" type="url" placeholder={t('edit.youtubeUrlPlaceholder')}
+                value={header[YOUTUBE_FIELD] || ''}
+                onChange={(e) => updateHeaderField(YOUTUBE_FIELD, e.target.value)} />
+              <div className="page-sub" style={{ margin: '4px 0 0', fontSize: 12 }}>
+                {t('edit.youtubeUrlHint')}
+              </div>
+            </div>
           </div>
           <div className="card" style={{ flex: 1, display: 'flex', flexDirection: 'column', minWidth: 0 }}>
             <h3 style={{ marginBottom: 12 }}>{t('edit.chordSheet')}</h3>
@@ -533,7 +563,7 @@ export default function SongEditor() {
               </>}
             </div>
             <textarea ref={textareaRef} className="input" value={body}
-              style={{ flex: 1, minHeight: 420, resize: 'none' }}
+              style={{ minHeight: 420, resize: 'none', overflow: 'hidden' }}
               onChange={(e) => updateBody(e.target.value)} />
             <div className="row" style={{ marginTop: 12, flexWrap: 'wrap' }}>
               <button className="btn primary" disabled={!dirty || save.isPending} onClick={() => save.mutate()}

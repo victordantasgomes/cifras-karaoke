@@ -22,6 +22,8 @@
     "stopPlaylist": "Остановить плейлист",
     "fullscreen": "Полный экран (F)",
     "back": "Назад (ESC)",
-    "exit": "Выход"
+    "exit": "Выход",
+    "playWithYoutube": "Играть + YT",
+    "playWithYoutubeTitle": "Воспроизводит песню и видео YouTube одновременно"
   }
 }

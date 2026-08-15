@@ -28,7 +28,9 @@
     "stopPlaylist": "Arrêter la playlist",
     "fullscreen": "Plein écran (F)",
     "back": "Retour (ESC)",
-    "exit": "Quitter"
+    "exit": "Quitter",
+    "playWithYoutube": "Lire + YT",
+    "playWithYoutubeTitle": "Joue la musique et la vidéo YouTube en même temps"
   },
   "countdown": {
     "hint": "Préparez-vous… (cliquez ou Espace pour passer)"

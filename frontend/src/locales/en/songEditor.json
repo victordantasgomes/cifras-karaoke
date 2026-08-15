@@ -72,7 +72,10 @@
     "discardTitle": "Discard all unsaved changes",
     "discard": "✕ Discard changes",
     "confirmDiscard": "Discard the unsaved changes to this song? This can't be undone.",
-    "autosaveHint": "Auto-save on · every save creates a version in the history"
+    "autosaveHint": "Auto-save on · every save creates a version in the history",
+    "youtubeUrl": "YouTube link",
+    "youtubeUrlPlaceholder": "e.g.: https://www.youtube.com/watch?v=...",
+    "youtubeUrlHint": "Shows a mini player in karaoke mode and enables the \"Play + YT\" button."
   },
   "audio": {
     "referenceTrack": "Reference track",

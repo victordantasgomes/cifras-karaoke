@@ -4,6 +4,7 @@ import { useTranslation } from 'react-i18next'
 import api from '../services/api'
 import { useCurrentTheme } from '../hooks/useTheme'
 import { INSTRUMENTS } from '../utils/instruments'
+import { extractYoutubeId } from '../utils/youtube'
 
 // Componentes/estado compartilhados entre a página pública do mural
 // (BandBoard.jsx, sem sidebar — qualquer visitante navega) e a página de
@@ -32,15 +33,6 @@ function toFormState(post) {
   }
 }
 
-// aceita youtube.com/watch?v=, youtu.be/, youtube.com/embed/, com ou sem
-// parâmetros extras (ex.: playlist, timestamp) — usado só pro embed do
-// card público, a URL crua é sempre o que fica salvo.
-function extractYoutubeId(url) {
-  const match = String(url || '').match(
-    /(?:youtube\.com\/(?:watch\?v=|embed\/)|youtu\.be\/)([\w-]{11})/,
-  )
-  return match ? match[1] : null
-}
 
 const MEDIA_FILE_KINDS = ['photo', 'video']
 const MEDIA_LINK_KINDS = ['link', 'youtube']

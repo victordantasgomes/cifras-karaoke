@@ -72,11 +72,54 @@ def test_create_portal_session_returns_stripe_url(billing, fake_stripe, plan, us
 
 
 def test_get_status_defaults_to_none(billing, user_id):
+    # `user_id` (fixture) é inserido sem passar por AuthService.register() —
+    # cai no default da coluna (plan_grandfathered=true, is_admin=false),
+    # mesma conta "legada" de sempre: sem plano pago e sem categoria alguma.
     status = billing.get_status(user_id)
     assert status == {
         "subscription_status": "none", "current_period_end": None,
-        "plan_id": None, "plan_name": None,
+        "plan_id": None, "plan_name": None, "category": None,
     }
+
+
+def test_get_status_category_guest_for_non_grandfathered_without_plan(billing):
+    with db.get_pool().connection() as conn:
+        conn.execute(
+            "insert into users (id, username, name, password_hash, plan_grandfathered) "
+            "values ('u3', 'novo', 'Novo', 'x', false)",
+        )
+    assert billing.get_status("u3")["category"] == "guest"
+
+
+def test_get_status_category_admin_for_admin_user(billing):
+    with db.get_pool().connection() as conn:
+        conn.execute(
+            "insert into users (id, username, name, password_hash, is_admin) "
+            "values ('u3', 'chefe', 'Chefe', 'x', true)",
+        )
+    assert billing.get_status("u3")["category"] == "admin"
+
+
+def test_get_status_category_none_when_paid_plan_assigned(billing, fake_stripe, plan, user_id):
+    with db.get_pool().connection() as conn:
+        conn.execute("update users set plan_id=%s where id=%s", (plan["id"], user_id))
+    status = billing.get_status(user_id)
+    assert status["category"] is None
+    assert status["plan_name"] == "Hobby"
+
+
+def test_get_status_category_admin_takes_priority_over_paid_plan(billing, fake_stripe, plan):
+    with db.get_pool().connection() as conn:
+        conn.execute(
+            "insert into users (id, username, name, password_hash, is_admin, plan_id) "
+            "values ('u3', 'chefe', 'Chefe', 'x', true, %s)", (plan["id"],),
+        )
+    status = billing.get_status("u3")
+    # plan_name presente (é o que o badge mostra) — category só entra quando
+    # NÃO há plano pago, então aqui fica None mesmo sendo admin (ver
+    # PlanBadge.jsx: nome do plano pago sempre tem prioridade no rótulo).
+    assert status["plan_name"] == "Hobby"
+    assert status["category"] is None
 
 
 def test_webhook_rejects_bad_signature(billing, fake_stripe):

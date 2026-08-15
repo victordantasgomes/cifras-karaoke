@@ -22,6 +22,8 @@
     "stopPlaylist": "Parar playlist",
     "fullscreen": "Tela cheia (F)",
     "back": "Voltar (ESC)",
-    "exit": "Sair"
+    "exit": "Sair",
+    "playWithYoutube": "Tocar + YT",
+    "playWithYoutubeTitle": "Toca a música e o vídeo do YouTube juntos"
   }
 }

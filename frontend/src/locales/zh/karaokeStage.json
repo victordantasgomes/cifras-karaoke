@@ -28,7 +28,9 @@
     "stopPlaylist": "停止播放歌单",
     "fullscreen": "全屏 (F)",
     "back": "返回 (ESC)",
-    "exit": "退出"
+    "exit": "退出",
+    "playWithYoutube": "播放 + YT",
+    "playWithYoutubeTitle": "同时播放歌曲和 YouTube 视频"
   },
   "countdown": {
     "hint": "准备…（点击或按空格跳过）"

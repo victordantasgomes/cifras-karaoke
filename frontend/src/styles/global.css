@@ -557,6 +557,19 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
 .k-brand img { height: 22px; width: auto; border-radius: 4px; }
 .k-brand span { font-weight: 600; color: rgba(255,255,255,0.85); }
 
+/* miniplayer do YouTube — canto superior direito, entre a cifra e a sidebar
+   de acordes (item 4 do pedido de melhorias). Fica abaixo do texto do
+   .k-header (top:90px pra não sobrepor) e recua da sidebar com o mesmo
+   `right: var(--k-sidebar-w)` que .k-header/.k-controls já usam. Sempre
+   visível (não acompanha o auto-hide dos controles) — é conteúdo, não um
+   controle transitório. */
+.k-youtube-mini {
+  position: absolute; top: 90px; right: calc(var(--k-sidebar-w, 0px) + 16px);
+  width: 220px; aspect-ratio: 16 / 9; border-radius: 8px; overflow: hidden;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.5); z-index: 5;
+}
+.k-youtube-mini iframe { width: 100%; height: 100%; border: 0; display: block; }
+
 /* ---------- player modo rolagem (ScrollPlayer.jsx) ---------- */
 /* overflow-y:auto (não hidden) é proposital — dá de graça o scroll do
    mouse e a barra de rolagem nativa pro músico avançar/voltar na música

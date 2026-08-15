@@ -10,6 +10,8 @@ import { usePedalControl } from '../hooks/usePedalControl'
 import { extractUniqueChords } from '../utils/chordParser'
 import { useChordSidebarStore } from '../store/chordSidebarStore'
 import KaraokeChordSidebar from '../components/KaraokeChordSidebar'
+import YoutubeMiniPlayer from '../components/YoutubeMiniPlayer'
+import { extractYoutubeId } from '../utils/youtube'
 
 const CHORD_LIKE = new Set(['acorde', 'solo', 'riff', 'tab'])
 const MIN_RATE = 0.5
@@ -78,6 +80,7 @@ export default function ScrollPlayer({ data }) {
   const elapsedRef = useRef(0) // ms decorridos no modo legado (sem áudio)
   const intervalRef = useRef(null)
   const programmaticScroll = useRef(false) // true enquanto applyOffset() está escrevendo scrollTop
+  const ytRef = useRef(null)
 
   const inPlaylist = playlist.active && playlist.queue[playlist.index]?.song?.slug === slug
   const canPlay = !hasAudio || audioReady
@@ -105,6 +108,7 @@ export default function ScrollPlayer({ data }) {
   const uniqueChords = useMemo(() => extractUniqueChords(data.lines), [data.lines])
   const chordSidebarVisible = chordInstruments.length > 0 && uniqueChords.length > 0
   const chordSidebarWidth = useChordSidebarStore((s) => s.width)
+  const youtubeVideoId = extractYoutubeId(data.youtube_url)
 
   // a rota /karaoke/:slug não desmonta este componente ao trocar de música
   // dentro de uma playlist com duas músicas seguidas em modo rolagem (mesmo
@@ -222,9 +226,10 @@ export default function ScrollPlayer({ data }) {
     playlist.stop()
     navigate(`/setlists/${playlist.setlistId}`)
   }
+  // NÃO avança sozinho pra próxima música da playlist ao terminar — item 6
+  // do pedido: só o botão manual "Próxima música" (⏭, goNextSong) avança.
   const onSongEnd = () => {
     setPlaying(false)
-    if (inPlaylist) goNextSong()
   }
 
   // laço de rolagem legado (sem áudio): avança `elapsedRef` pelo tempo real
@@ -252,7 +257,7 @@ export default function ScrollPlayer({ data }) {
     }, 100)
     return () => clearInterval(intervalRef.current)
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [playing, hasAudio, rate, totalMs, inPlaylist])
+  }, [playing, hasAudio, rate, totalMs])
 
   // com áudio real: a rolagem segue o currentTime de verdade a cada
   // `timeupdate` (dispara continuamente durante a reprodução)
@@ -294,6 +299,12 @@ export default function ScrollPlayer({ data }) {
   }
 
   const togglePlay = () => { if (canPlay) setPlaying((p) => !p) }
+  // "Tocar + YT" (item 5): começa o karaokê normalmente E dá play no
+  // vídeo do YouTube junto, quando a música tem um link cadastrado.
+  const playWithYoutube = () => {
+    if (canPlay) setPlaying(true)
+    ytRef.current?.play()
+  }
   const restart = () => seekToMs(0)
   const adjustRate = (delta) => setRate((r) => Math.min(MAX_RATE, Math.max(MIN_RATE, +(r + delta).toFixed(2))))
   const seekToFraction = (frac) => seekToMs(Math.max(0, Math.min(1, frac)) * totalMs)
@@ -332,6 +343,7 @@ export default function ScrollPlayer({ data }) {
           onEnded={onSongEnd} />
       )}
       {pedal.modoPedal === 'fila_clipes' && <audio ref={pedal.clipAudioRef} preload="auto" />}
+      {youtubeVideoId && <YoutubeMiniPlayer ref={ytRef} videoId={youtubeVideoId} title={data.titulo} />}
 
       <div className="k-header">
         <div>
@@ -380,6 +392,12 @@ export default function ScrollPlayer({ data }) {
         <button className="btn primary" onClick={togglePlay} disabled={!canPlay} title={t('controls.playPause')}>
           {playing ? t('controls.pause') : t('controls.play')}
         </button>
+        {youtubeVideoId && (
+          <button className="btn" onClick={playWithYoutube} disabled={!canPlay || playing}
+            title={t('controls.playWithYoutubeTitle')}>
+            {t('controls.playWithYoutube')}
+          </button>
+        )}
         <button className="btn" onClick={() => adjustRate(-0.1)} title={t('controls.slower')}>−</button>
         <button className="btn" onClick={() => adjustRate(0.1)} title={t('controls.faster')}>+</button>
         <button className="btn" onClick={zoomOut} title={t('controls.zoomOut')}>A−</button>

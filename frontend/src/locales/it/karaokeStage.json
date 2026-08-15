@@ -28,7 +28,9 @@
     "stopPlaylist": "Ferma playlist",
     "fullscreen": "Schermo intero (F)",
     "back": "Indietro (ESC)",
-    "exit": "Esci"
+    "exit": "Esci",
+    "playWithYoutube": "Riproduci + YT",
+    "playWithYoutubeTitle": "Riproduce la canzone e il video di YouTube insieme"
   },
   "countdown": {
     "hint": "Preparati… (clicca o Spazio per saltare)"

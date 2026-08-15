@@ -639,6 +639,23 @@ def test_karaoke_payload(ctx):
     assert payload["ms_per_line"] > 0 and len(payload["lines"]) >= 2
 
 
+def test_karaoke_payload_includes_youtube_url(ctx):
+    songs, _, audio = ctx
+    entry = songs.create("u1", "Pop", "Coldplay", "Yellow",
+                          "@titulo: Yellow\n@youtube_url: https://youtu.be/wjgrCnbxNqE\n\nB\nletra")
+    k = KaraokeService(songs, audio)
+    payload = k.payload("u1", entry["slug"])
+    assert payload["youtube_url"] == "https://youtu.be/wjgrCnbxNqE"
+
+
+def test_karaoke_payload_defaults_youtube_url_empty(ctx):
+    songs, _, audio = ctx
+    entry = _create(songs)
+    k = KaraokeService(songs, audio)
+    payload = k.payload("u1", entry["slug"])
+    assert payload["youtube_url"] == ""
+
+
 def test_karaoke_payload_includes_owner_id(ctx):
     """Fase 8 (whitelabel): o player usa owner_id pra buscar a marca própria
     (nome da banda + logo) do dono da música."""
