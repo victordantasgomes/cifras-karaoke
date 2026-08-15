@@ -24,6 +24,7 @@
     "back": "Volver (ESC)",
     "exit": "Salir",
     "playWithYoutube": "Reproducir + YT",
-    "playWithYoutubeTitle": "Reproduce la música y el vídeo de YouTube juntos"
+    "playWithYoutubeTitle": "Reproduce la música y el vídeo de YouTube juntos",
+    "pauseWithYoutube": "Pausar + YT"
   }
 }

@@ -18,24 +18,14 @@ Minhas x Seguindo: `list()` devolve `is_owner` por item — o frontend separa
 "Minhas setlists" (dono, ou órfão) de "Setlists seguindo" (de outra pessoa,
 `shared=true`). Quem segue pode `unfollow()` pra parar de ver um setlist
 alheio específico (não mexe no setlist, só nesse usuário). `delete()` nunca
-apaga de verdade: reatribui pra uma conta de arquivo e vira privado (ver
-`_ARCHIVE_OWNER_USERNAME`)."""
+apaga a linha de verdade: marca `deleted=true` (ver schema.sql) — some de
+`list()`/`get()` pra qualquer usuário (dono ou quem seguia), mas o conteúdo
+continua no banco."""
 from __future__ import annotations
 
 import db
 from utils.slug import slugify
 from utils.song_title import strip_title_suffix
-
-# Excluir nunca perde o conteúdo pra sempre: em vez de apagar a linha, o
-# setlist é reatribuído pra esta conta (arquivo/backup) e vira privado — ver
-# delete(). Se a conta não existir no ambiente (ex.: banco de teste), cai no
-# mesmo comportamento de sempre pra usuário excluído: setlist órfão.
-_ARCHIVE_OWNER_USERNAME = "victor"
-
-
-def _archive_owner_id(conn) -> str | None:
-    row = conn.execute("select id from users where username=%s", (_ARCHIVE_OWNER_USERNAME,)).fetchone()
-    return row["id"] if row else None
 
 
 def _unique_setlist_slug(conn, user_id: str, base_slug: str) -> str:
@@ -80,7 +70,13 @@ class SetlistService:
                        limit 20""",
                     {"title": title, "title_like": f"%{title}%"},
                 ).fetchall()
-                target = (slugify(artist), slugify(title))
+                # `title` (metade da ref) pode vir COM sufixo — refs criadas
+                # a partir de uma música JÁ normalizada (ex.: escolhida agora
+                # mesmo no SongPicker) guardam o título tal como estava então,
+                # sufixo incluído. Sem isso o alvo (sufixado) nunca batia com
+                # o candidato (sempre sem sufixo, ver abaixo) — toda música já
+                # normalizada adicionada a um setlist ficava "não encontrada".
+                target = (slugify(artist), slugify(strip_title_suffix(title)))
                 match = next(
                     (dict(c) for c in candidates
                      if (slugify(c["interprete"]), slugify(strip_title_suffix(c["titulo"]))) == target),
@@ -100,11 +96,11 @@ class SetlistService:
             rows = conn.execute(
                 """select s.slug, s.nome, s.user_id, s.shared, count(i.id) as count
                    from setlists s left join setlist_items i on i.setlist_id = s.id
-                   where s.user_id = %(user_id)s or s.user_id is null
+                   where not s.deleted and (s.user_id = %(user_id)s or s.user_id is null
                       or (s.shared = true and not exists (
                           select 1 from setlist_unfollows f
                           where f.user_id = %(user_id)s and f.setlist_id = s.id
-                      ))
+                      )))
                    group by s.id, s.slug, s.nome, s.user_id, s.shared, s.created_at
                    order by s.created_at""",
                 {"user_id": user_id},
@@ -118,7 +114,8 @@ class SetlistService:
     def get(self, user_id: str, setlist_id: str) -> dict:
         with db.get_pool().connection() as conn:
             row = conn.execute(
-                "select id, slug, nome, user_id, shared from setlists where slug=%s", (setlist_id,),
+                "select id, slug, nome, user_id, shared from setlists where slug=%s and not deleted",
+                (setlist_id,),
             ).fetchone()
             is_owner = not row or row["user_id"] is None or row["user_id"] == user_id
             if not row or (not is_owner and not row["shared"]):
@@ -149,7 +146,7 @@ class SetlistService:
         if setlist_id:
             with db.get_pool().connection() as conn:
                 existing = conn.execute(
-                    "select id, user_id from setlists where slug=%s", (setlist_id,),
+                    "select id, user_id from setlists where slug=%s and not deleted", (setlist_id,),
                 ).fetchone()
             if existing and existing["user_id"] is not None and existing["user_id"] != user_id and not is_admin:
                 raise PermissionError(setlist_id)
@@ -181,7 +178,7 @@ class SetlistService:
     def set_shared(self, user_id: str, setlist_id: str, value: bool, is_admin: bool = False) -> dict:
         with db.get_pool().connection() as conn:
             row = conn.execute(
-                "select id, user_id from setlists where slug=%s", (setlist_id,),
+                "select id, user_id from setlists where slug=%s and not deleted", (setlist_id,),
             ).fetchone()
             if not row:
                 raise FileNotFoundError(setlist_id)
@@ -191,23 +188,20 @@ class SetlistService:
         return self.get(user_id, setlist_id)
 
     def delete(self, user_id: str, setlist_id: str, is_admin: bool = False) -> None:
-        """Excluir nunca apaga a linha de verdade: reatribui o setlist pra
-        conta de arquivo (ver _ARCHIVE_OWNER_USERNAME) e marca como privado
-        — some da lista de quem excluiu (e de todo mundo que seguia) sem
-        perder o conteúdo pra sempre. Sem essa conta no ambiente (banco de
-        teste, por exemplo), vira órfão — mesmo fallback de sempre."""
+        """Excluir nunca apaga a linha de verdade: marca `deleted=true` (ver
+        schema.sql) — some de list()/get() pra QUALQUER usuário (dono ou
+        quem seguia), mas o conteúdo continua no banco, recuperável por
+        acesso direto (não há "restaurar" pela própria interface)."""
         with db.get_pool().connection() as conn:
             row = conn.execute(
-                "select id, user_id from setlists where slug=%s", (setlist_id,),
+                "select id, user_id from setlists where slug=%s and not deleted", (setlist_id,),
             ).fetchone()
             if not row:
-                return  # já não existe — idempotente, como sempre foi
+                return  # já não existe (ou já excluído) — idempotente, como sempre foi
             if row["user_id"] is not None and row["user_id"] != user_id and not is_admin:
                 raise PermissionError(setlist_id)
-            new_owner = _archive_owner_id(conn)
             conn.execute(
-                "update setlists set user_id=%s, shared=false where id=%s",
-                (new_owner, row["id"]),
+                "update setlists set deleted=true, shared=false where id=%s", (row["id"],),
             )
             conn.execute("delete from setlist_unfollows where setlist_id=%s", (row["id"],))
 
@@ -215,7 +209,9 @@ class SetlistService:
         """Este usuário não quer mais ver este setlist alheio na lista —
         não afeta o setlist em si nem quem mais o segue (ver list())."""
         with db.get_pool().connection() as conn:
-            row = conn.execute("select id from setlists where slug=%s", (setlist_id,)).fetchone()
+            row = conn.execute(
+                "select id from setlists where slug=%s and not deleted", (setlist_id,),
+            ).fetchone()
             if not row:
                 raise FileNotFoundError(setlist_id)
             conn.execute(
@@ -231,7 +227,7 @@ class SetlistService:
         precisar de permissão nenhuma, porque não mexe no original."""
         with db.get_pool().connection() as conn:
             row = conn.execute(
-                "select id, nome, user_id, shared from setlists where slug=%s", (setlist_id,),
+                "select id, nome, user_id, shared from setlists where slug=%s and not deleted", (setlist_id,),
             ).fetchone()
             is_owner = not row or row["user_id"] is None or row["user_id"] == user_id
             if not row or (not is_owner and not row["shared"]):

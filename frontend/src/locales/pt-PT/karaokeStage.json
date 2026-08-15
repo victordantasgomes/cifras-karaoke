@@ -30,7 +30,8 @@
     "back": "Voltar (ESC)",
     "exit": "Sair",
     "playWithYoutube": "Tocar + YT",
-    "playWithYoutubeTitle": "Toca a música e o vídeo do YouTube em conjunto"
+    "playWithYoutubeTitle": "Toca a música e o vídeo do YouTube em conjunto",
+    "pauseWithYoutube": "Pausar + YT"
   },
   "countdown": {
     "hint": "Prepare-se… (clique ou Espaço para saltar)"

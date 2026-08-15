@@ -60,7 +60,7 @@ class QuotaService:
 
     def _owned_song_slugs(self, conn, user_id: str, exclude_setlist_pk: str | None = None) -> set[str]:
         setlist_rows = conn.execute(
-            "select id from setlists where user_id = %s", (user_id,),
+            "select id from setlists where user_id = %s and not deleted", (user_id,),
         ).fetchall()
         slugs: set[str] = set()
         for sl in setlist_rows:
@@ -111,7 +111,7 @@ class QuotaService:
             if not limits:
                 return None
             setlists_used = conn.execute(
-                "select count(*) as n from setlists where user_id = %s", (user_id,),
+                "select count(*) as n from setlists where user_id = %s and not deleted", (user_id,),
             ).fetchone()["n"]
             slugs = self._owned_song_slugs(conn, user_id)
             storage_used = self._sum_bytes_for_slugs(conn, slugs)
@@ -129,7 +129,7 @@ class QuotaService:
             if not limits:
                 return
             count = conn.execute(
-                "select count(*) as n from setlists where user_id = %s", (user_id,),
+                "select count(*) as n from setlists where user_id = %s and not deleted", (user_id,),
             ).fetchone()["n"]
         if count >= limits["max_setlists"]:
             raise QuotaExceeded(

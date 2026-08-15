@@ -347,6 +347,13 @@ export default function KaraokeStage() {
     beginPlayback()
     ytRef.current?.play()
   }
+  // alterna igual ao botão de play/pause principal — rótulo muda pra
+  // "Pausar + YT" enquanto toca; pausar aqui já pausa o vídeo junto (ver
+  // o efeito acima, que observa player.playing).
+  const toggleWithYoutube = () => {
+    if (player.playing) player.pause()
+    else playWithYoutube()
+  }
 
   const pedal = usePedalControl(slug, data, togglePlay)
 
@@ -525,9 +532,9 @@ export default function KaraokeStage() {
           {countdown != null ? t('controls.skipCountdown', { count: countdown }) : player.playing ? t('controls.pause') : t('controls.play')}
         </button>
         {youtubeVideoId && (
-          <button className="btn" onClick={playWithYoutube} disabled={!canPlay || player.playing}
+          <button className="btn" onClick={toggleWithYoutube} disabled={!canPlay}
             title={t('controls.playWithYoutubeTitle')}>
-            {t('controls.playWithYoutube')}
+            {player.playing ? t('controls.pauseWithYoutube') : t('controls.playWithYoutube')}
           </button>
         )}
         <button className="btn" onClick={goNext} title={t('controls.nextLine')}>→</button>

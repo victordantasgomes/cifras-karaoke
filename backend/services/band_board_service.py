@@ -114,7 +114,7 @@ class BandBoardService:
             return []
         with db.get_pool().connection() as conn:
             rows = conn.execute(
-                "select id from setlists where id = any(%s::uuid[]) and user_id = %s",
+                "select id from setlists where id = any(%s::uuid[]) and user_id = %s and not deleted",
                 (setlist_ids, user_id),
             ).fetchall()
         return [str(r["id"]) for r in rows]

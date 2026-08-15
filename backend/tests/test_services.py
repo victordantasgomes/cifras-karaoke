@@ -142,13 +142,12 @@ def test_orphaned_setlist_is_manageable_by_anyone(ctx, other_user_id):
     saved = setlists.save(other_user_id, "Show renomeado", [], created["id"])
     assert saved["nome"] == "Show renomeado"
     setlists.delete(other_user_id, created["id"])
-    # sem conta de arquivo no ambiente de teste, "excluir" cai no mesmo
-    # fallback de sempre pra órfão: continua existindo, gerenciável, só que
-    # agora privado (ver test_owner_deleting_setlist_archives_it_under_victor
-    # pro caminho com conta de arquivo configurada)
-    archived = setlists.get(other_user_id, created["id"])
-    assert archived["is_owner"] is True
-    assert archived["shared"] is False
+    # excluir marca deleted=true (ver setlist_service.py::delete) — some de
+    # get()/list() pra QUALQUER usuário, inclusive quem tinha acabado de
+    # gerenciar o órfão. Não existe mais um "dono de arquivo" fixo pra
+    # verificar (ver test_owner_deleting_setlist_removes_it_from_everyones_view).
+    with pytest.raises(FileNotFoundError):
+        setlists.get(other_user_id, created["id"])
 
 
 def test_normalize_slug_excludes_suffix_and_interprete_is_not_duplicated(ctx):
@@ -236,20 +235,6 @@ def _make_private_user(user_id: str, username: str) -> None:
             "values (%s, %s, %s, 'x', false)",
             (user_id, username, username),
         )
-
-
-def _make_archive_user() -> str:
-    """Cria a conta de arquivo (username="victor") usada por
-    SetlistService.delete() como novo dono — mesmo id de volta pra dar pra
-    conferir o resultado. Sem essa conta no ambiente, delete() cai no
-    fallback de órfão (ver test_orphaned_setlist_is_manageable_by_anyone)."""
-    user_id = "user-archive-victor"
-    with db.get_pool().connection() as conn:
-        conn.execute(
-            "insert into users (id, username, name, password_hash) values (%s, 'victor', 'Victor', 'x')",
-            (user_id,),
-        )
-    return user_id
 
 
 def test_new_song_defaults_shared_for_existing_style_user(ctx):
@@ -544,31 +529,46 @@ def test_non_owner_cannot_toggle_sharing(ctx, other_user_id):
 def test_admin_can_save_and_delete_others_setlist(ctx, other_user_id):
     songs, setlists, _ = ctx
     _create(songs)
-    victor_id = _make_archive_user()
     created = setlists.save("u1", "Show", ["Coldplay/Yellow"])
     setlists.save(other_user_id, "Show renomeado", ["Coldplay/Yellow"], created["id"], is_admin=True)
     setlists.delete(other_user_id, created["id"], is_admin=True)
-    # arquivado (dono virou a conta de arquivo, ficou privado) — u1 não é
-    # mais dono nem vê mais o setlist compartilhado
+    # excluído (deleted=true) — u1 (dono original) não vê mais, ninguém vê
     with pytest.raises(FileNotFoundError):
         setlists.get("u1", created["id"])
-    assert setlists.get(victor_id, created["id"])["is_owner"] is True
+    with pytest.raises(FileNotFoundError):
+        setlists.get(other_user_id, created["id"])
 
 
-def test_owner_deleting_setlist_archives_it_under_victor(ctx):
+def test_owner_deleting_setlist_removes_it_from_everyones_view(ctx, other_user_id):
+    """Reproduz o bug relatado: excluir um setlist tinha efeito NENHUM
+    quando reatribuía a propriedade pra uma conta de arquivo fixa por
+    username — se o próprio usuário que excluía FOSSE essa conta, a
+    reatribuição virava um no-op e o setlist continuava aparecendo como
+    "meu", renomeável, editável (ver setlist_service.py::delete, agora
+    soft-delete via coluna `deleted`, sem depender de nenhuma conta
+    específica)."""
     songs, setlists, _ = ctx
     _create(songs)
-    victor_id = _make_archive_user()
     created = setlists.save("u1", "Show", ["Coldplay/Yellow"])
     setlists.delete("u1", created["id"])
 
-    # some da lista de quem excluiu
+    # some da lista de quem excluiu...
     assert created["id"] not in [s["id"] for s in setlists.list("u1")]
-    # mas sobrevive, arquivado (dono = victor, privado) — não foi perdido
-    archived = setlists.get(victor_id, created["id"])
-    assert archived["is_owner"] is True
-    assert archived["shared"] is False
-    assert [i["ref"] for i in archived["items"]] == ["Coldplay/Yellow"]
+    # ...não pode mais ser aberto por quem excluiu...
+    with pytest.raises(FileNotFoundError):
+        setlists.get("u1", created["id"])
+    # ...nem por quem seguia (era shared=true por padrão)...
+    with pytest.raises(FileNotFoundError):
+        setlists.get(other_user_id, created["id"])
+    # ...e não dá mais pra alternar o compartilhamento dele.
+    with pytest.raises(FileNotFoundError):
+        setlists.set_shared("u1", created["id"], True)
+    # mas o conteúdo continua no banco, não foi perdido pra sempre.
+    with db.get_pool().connection() as conn:
+        row = conn.execute(
+            "select nome, deleted from setlists where slug=%s", (created["id"],),
+        ).fetchone()
+    assert row["deleted"] is True and row["nome"] == "Show"
 
 
 def test_clone_setlist_creates_own_copy(ctx, other_user_id):
@@ -620,6 +620,23 @@ def test_setlist_ref_resolves_after_title_gets_normalized_suffix(ctx):
     entry = _create(songs)
     created = setlists.save("u1", "Show", ["Coldplay/Yellow"])
     songs.normalize("u1", entry["slug"])
+    item = setlists.get("u1", created["id"])["items"][0]
+    assert item["song"] is not None
+    assert item["song"]["titulo"] == "Yellow - Coldplay - cifra original"
+
+
+def test_setlist_ref_resolves_when_added_with_already_normalized_title(ctx):
+    """Reproduz o bug relatado: adicionar ao setlist uma música que JÁ
+    estava normalizada (ref montada com o título completo, sufixo incluso —
+    é assim que o SongPicker monta a ref a partir do resultado de busca)
+    aparecia como "música não encontrada" — _resolve_many comparava o
+    título do alvo (sufixado, porque veio de uma música já normalizada) com
+    o do candidato (sempre sem sufixo) sem tirar o sufixo dos dois lados."""
+    songs, setlists, _ = ctx
+    entry = _create(songs)
+    songs.normalize("u1", entry["slug"])
+    ref = "Coldplay/Yellow - Coldplay - cifra original"  # mesmo formato que o SongPicker monta
+    created = setlists.save("u1", "Show", [ref])
     item = setlists.get("u1", created["id"])["items"][0]
     assert item["song"] is not None
     assert item["song"]["titulo"] == "Yellow - Coldplay - cifra original"

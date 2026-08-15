@@ -24,6 +24,7 @@
     "back": "Retour (ESC)",
     "exit": "Quitter",
     "playWithYoutube": "Lire + YT",
-    "playWithYoutubeTitle": "Joue la musique et la vidéo YouTube en même temps"
+    "playWithYoutubeTitle": "Joue la musique et la vidéo YouTube en même temps",
+    "pauseWithYoutube": "Pause + YT"
   }
 }

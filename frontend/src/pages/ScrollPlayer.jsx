@@ -313,6 +313,13 @@ export default function ScrollPlayer({ data }) {
     if (canPlay) setPlaying(true)
     ytRef.current?.play()
   }
+  // alterna igual ao botão de play/pause principal — rótulo muda pra
+  // "Pausar + YT" enquanto toca; pausar aqui já pausa o vídeo junto (ver
+  // o efeito acima, que observa `playing`).
+  const toggleWithYoutube = () => {
+    if (playing) setPlaying(false)
+    else playWithYoutube()
+  }
   const restart = () => seekToMs(0)
   const adjustRate = (delta) => setRate((r) => Math.min(MAX_RATE, Math.max(MIN_RATE, +(r + delta).toFixed(2))))
   const seekToFraction = (frac) => seekToMs(Math.max(0, Math.min(1, frac)) * totalMs)
@@ -401,9 +408,9 @@ export default function ScrollPlayer({ data }) {
           {playing ? t('controls.pause') : t('controls.play')}
         </button>
         {youtubeVideoId && (
-          <button className="btn" onClick={playWithYoutube} disabled={!canPlay || playing}
+          <button className="btn" onClick={toggleWithYoutube} disabled={!canPlay}
             title={t('controls.playWithYoutubeTitle')}>
-            {t('controls.playWithYoutube')}
+            {playing ? t('controls.pauseWithYoutube') : t('controls.playWithYoutube')}
           </button>
         )}
         <button className="btn" onClick={() => adjustRate(-0.1)} title={t('controls.slower')}>−</button>

@@ -30,7 +30,8 @@
     "back": "Indietro (ESC)",
     "exit": "Esci",
     "playWithYoutube": "Riproduci + YT",
-    "playWithYoutubeTitle": "Riproduce la canzone e il video di YouTube insieme"
+    "playWithYoutubeTitle": "Riproduce la canzone e il video di YouTube insieme",
+    "pauseWithYoutube": "Pausa + YT"
   },
   "countdown": {
     "hint": "Preparati… (clicca o Spazio per saltare)"

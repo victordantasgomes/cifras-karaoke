@@ -289,6 +289,14 @@ alter table setlists alter column user_id drop not null;
 alter table setlists drop constraint if exists setlists_user_id_fkey;
 alter table setlists add constraint setlists_user_id_fkey
     foreign key (user_id) references users(id) on delete set null;
+-- soft delete (ver setlist_service.py::delete) — substituiu o esquema
+-- anterior de reatribuir o setlist pra uma conta "de arquivo" fixa por
+-- username: além de mais simples, aquele esquema quebrava quando quem
+-- excluía JÁ ERA a própria conta de arquivo (reatribuir a si mesmo é
+-- no-op, o setlist nunca sumia da lista de quem excluiu). `deleted=true`
+-- nunca aparece em list()/get() pra ninguém (nem pro dono, nem por quem
+-- seguia) mas preserva a linha e os itens — sem exclusão física.
+alter table setlists add column if not exists deleted boolean not null default false;
 
 create table if not exists setlist_items (
     id          uuid primary key default gen_random_uuid(),

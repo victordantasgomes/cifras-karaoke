@@ -24,6 +24,7 @@
     "back": "Назад (ESC)",
     "exit": "Выход",
     "playWithYoutube": "Играть + YT",
-    "playWithYoutubeTitle": "Воспроизводит песню и видео YouTube одновременно"
+    "playWithYoutubeTitle": "Воспроизводит песню и видео YouTube одновременно",
+    "pauseWithYoutube": "Пауза + YT"
   }
 }
