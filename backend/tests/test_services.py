@@ -665,6 +665,47 @@ def test_editing_song_interprete_repairs_existing_setlist_refs(ctx):
     assert item_after["song"]["interprete"] == "Bruno e Marrone"
 
 
+def test_editing_song_repairs_orphaned_ref_with_blank_artist(ctx):
+    """Reproduz o bug relatado de novo, numa variante que _repair_setlist_refs
+    sozinho NÃO cobre: uma ref com intérprete vazio/corrompido de um import
+    antigo (aqui, ref = "/Cadeh Voceh" sem parte de artista nenhuma) nunca
+    bate na identidade EXATA anterior da música (que já tinha o intérprete
+    certo) — ficaria "não encontrada" pra sempre só com aquele mecanismo.
+    _repair_orphaned_refs_for_song conserta pelo título, quando inequívoco."""
+    songs, setlists, _ = ctx
+    entry = songs.create("u1", "Sertanejo", "Leandro e Leonardo", "Cadeh Voceh", "@titulo: Cadeh Voceh\n\ncorpo")
+    created = setlists.save("u1", "Show", ["/Cadeh Voceh"])
+    item = setlists.get("u1", created["id"])["items"][0]
+    assert item["song"] is None  # ref órfã (artista vazio) — não resolve ainda
+
+    data = songs.get("u1", entry["slug"])
+    header = dict(data["header"])
+    header["tom"] = "G"  # qualquer save já dispara a segunda passada de reparo
+    songs.update("u1", entry["slug"], header, data["body"])
+
+    item_after = setlists.get("u1", created["id"])["items"][0]
+    assert item_after["song"] is not None
+    assert item_after["song"]["interprete"] == "Leandro e Leonardo"
+
+
+def test_editing_song_does_not_repair_ambiguous_orphaned_ref(ctx):
+    """Duas músicas DIFERENTES com o mesmo título — uma ref órfã com esse
+    título é ambígua demais pra reatribuir sozinho; melhor deixar quebrada
+    (e visível como tal) do que arriscar apontar pra música errada."""
+    songs, setlists, _ = ctx
+    songs.create("u1", "Rock", "Artista X", "Mesmo Nome", "@titulo: Mesmo Nome\n\ncorpo x")
+    entry_y = songs.create("u1", "Rock", "Artista Y", "Mesmo Nome", "@titulo: Mesmo Nome\n\ncorpo y")
+    created = setlists.save("u1", "Show", ["/Mesmo Nome"])
+
+    data = songs.get("u1", entry_y["slug"])
+    header = dict(data["header"])
+    header["tom"] = "G"
+    songs.update("u1", entry_y["slug"], header, data["body"])
+
+    item_after = setlists.get("u1", created["id"])["items"][0]
+    assert item_after["song"] is None  # continua órfã — não escolheu X nem Y
+
+
 def test_editing_song_title_only_reformatting_does_not_touch_unrelated_refs(ctx):
     """Reformatar o título sem mudar a identidade (mesmo slugify) não deve
     varrer a tabela de setlist_items à toa — old_target == new_target,

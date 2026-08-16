@@ -272,19 +272,71 @@ class SongsService:
         antigo são indistinguíveis aqui também)."""
         old_target = (slugify(old_interprete), slugify(strip_title_suffix(old_titulo)))
         new_target = (slugify(new_interprete), slugify(strip_title_suffix(new_titulo)))
-        if old_target == new_target or not old_target[1]:
-            return  # identidade não mudou de fato (só reformatação), ou título antigo vazio
-        old_title_stripped = strip_title_suffix(old_titulo)
-        candidates = conn.execute(
-            "select id, ref from setlist_items where ref ILIKE %s", (f"%{old_title_stripped}%",),
+        if new_target != old_target and old_target[1]:
+            old_title_stripped = strip_title_suffix(old_titulo)
+            candidates = conn.execute(
+                "select id, ref from setlist_items where ref ILIKE %s", (f"%{old_title_stripped}%",),
+            ).fetchall()
+            new_ref = f"{new_interprete}/{new_titulo}"
+            for c in candidates:
+                if "/" not in c["ref"]:
+                    continue
+                artist, title = c["ref"].split("/", 1)
+                if (slugify(artist), slugify(strip_title_suffix(title))) == old_target:
+                    conn.execute("update setlist_items set ref=%s where id=%s", (new_ref, c["id"]))
+        # segunda passada, sempre (independente de a identidade ter mudado
+        # ou não): conserta refs "órfãs" — que _resolve_many não encontra
+        # HOJE — cujo intérprete é lixo de import antigo (vazio, "CIFRAS"
+        # etc.) e por isso NUNCA bate na identidade exata acima, mesmo depois
+        # de sucessivas edições corrigirem só o título (ex.: acento). Ver
+        # _repair_orphaned_refs_for_song pro porquê disso ser necessário.
+        self._repair_orphaned_refs_for_song(conn, new_interprete, new_titulo)
+
+    def _repair_orphaned_refs_for_song(self, conn, interprete: str, titulo: str) -> int:
+        """Conserta refs de setlist "órfãs" (não batem em NENHUMA música hoje
+        — mesma resolução de SetlistService._resolve_many) cujo TÍTULO (sem
+        sufixo, comparado via slugify — tolera acento/caixa) é exatamente o
+        desta música. `_repair_setlist_refs` (acima) só conserta uma ref
+        quando ela batia EXATAMENTE na identidade anterior da música — mas
+        uma ref cujo intérprete já nasceu errado num import antigo (vazio,
+        ou literalmente "CIFRAS", ver bug da "Brigas") nunca bate em
+        identidade nenhuma, de nenhuma edição, e ficaria quebrada pra
+        sempre só com aquele mecanismo. Só repara quando o título é
+        inequívoco — nenhuma OUTRA música da biblioteca compartilha o mesmo
+        título sem sufixo — pra não arriscar reatribuir uma ref órfã pra
+        música errada. `setlist_items` tem só algumas centenas de linhas
+        hoje — dá pra escanear a tabela inteira sem o cuidado de projeção
+        que _songs_missing_youtube_url precisa pras ~24 mil músicas."""
+        title_stripped = strip_title_suffix(titulo)
+        target_title = slugify(title_stripped)
+        if not target_title:
+            return 0
+        same_title_songs = conn.execute(
+            "select interprete, titulo from songs where titulo ILIKE %s", (f"%{title_stripped}%",),
         ).fetchall()
-        new_ref = f"{new_interprete}/{new_titulo}"
-        for c in candidates:
-            if "/" not in c["ref"]:
+        # duas entradas duplicadas do MESMO intérprete com esse título (dado
+        # sujo, mas sem ambiguidade real de "pra qual música isso aponta")
+        # não bloqueiam o reparo — só intérpretes DIFERENTES tornam o título
+        # genuinamente ambíguo demais pra decidir sozinho.
+        distinct_artists = {
+            slugify(r["interprete"]) for r in same_title_songs
+            if slugify(strip_title_suffix(r["titulo"])) == target_title
+        }
+        if len(distinct_artists) > 1:
+            return 0
+        target = (slugify(interprete), target_title)
+        new_ref = f"{interprete}/{titulo}"
+        fixed = 0
+        for r in conn.execute("select id, ref from setlist_items").fetchall():
+            if "/" not in r["ref"]:
                 continue
-            artist, title = c["ref"].split("/", 1)
-            if (slugify(artist), slugify(strip_title_suffix(title))) == old_target:
-                conn.execute("update setlist_items set ref=%s where id=%s", (new_ref, c["id"]))
+            artist, ref_title = r["ref"].split("/", 1)
+            candidate = (slugify(artist), slugify(strip_title_suffix(ref_title)))
+            if candidate[1] != target_title or candidate == target:
+                continue
+            conn.execute("update setlist_items set ref=%s where id=%s", (new_ref, r["id"]))
+            fixed += 1
+        return fixed
 
     # ---------- músicas duplicadas ("mesmo nome, letra muito parecida") ----------
     def _duplicate_group_key(self, interprete: str, titulo: str) -> tuple[str, str]:
