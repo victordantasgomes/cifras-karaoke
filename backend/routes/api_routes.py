@@ -13,7 +13,9 @@ from services.plans_service import DuplicatePlanName, PlanNotFound, StripeSyncEr
 from services.quota_service import QuotaExceeded
 from services.songs_service import NotOwner, SongNotFound
 from services.youtube_service import YoutubeError
-from utils.error_codes import auth_error_code, band_media_error_code, billing_error_code, quota_error_code
+from utils.error_codes import (
+    auth_error_code, band_media_error_code, billing_error_code, quota_error_code, youtube_error_code,
+)
 
 
 def build_blueprint(ctx) -> Blueprint:
@@ -325,7 +327,8 @@ def build_blueprint(ctx) -> Blueprint:
         try:
             return jsonify(ctx.songs.youtube_link_batch(limit=limit))
         except YoutubeError as e:
-            return jsonify({"error": str(e), "error_code": "YOUTUBE_SUGGESTION_FAILED"}), 502
+            code = youtube_error_code(str(e))
+            return jsonify({"error": str(e), "error_code": code}), 429 if code == "YOUTUBE_QUOTA_EXCEEDED" else 502
 
     @api.post("/admin/songs/normalize-batch")
     @ctx.require_admin
@@ -533,7 +536,8 @@ def build_blueprint(ctx) -> Blueprint:
         except SongNotFound:
             return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
         except YoutubeError as e:
-            return jsonify({"error": str(e), "error_code": "YOUTUBE_SUGGESTION_FAILED"}), 502
+            code = youtube_error_code(str(e))
+            return jsonify({"error": str(e), "error_code": code}), 429 if code == "YOUTUBE_QUOTA_EXCEEDED" else 502
         return jsonify({"candidates": candidates})
 
     @api.get("/youtube/duration/<video_id>")
@@ -542,7 +546,8 @@ def build_blueprint(ctx) -> Blueprint:
         try:
             duration = ctx.youtube.get_duration(video_id)
         except YoutubeError as e:
-            return jsonify({"error": str(e), "error_code": "YOUTUBE_SUGGESTION_FAILED"}), 502
+            code = youtube_error_code(str(e))
+            return jsonify({"error": str(e), "error_code": code}), 429 if code == "YOUTUBE_QUOTA_EXCEEDED" else 502
         return jsonify({"duration": duration})
 
     @api.get("/songs/<slug>/export")

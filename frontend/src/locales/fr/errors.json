@@ -61,5 +61,8 @@
   "AUTH_SKILL_LEVEL_INVALID": "Niveau technique invalide.",
   "AUTH_CATEGORY_INVALID": "Catégorie invalide.",
   "AUTH_CANNOT_CHANGE_OWN_CATEGORY": "Vous ne pouvez pas modifier votre propre catégorie.",
-  "AUTH_CANNOT_DEMOTE_LAST_ADMIN": "Impossible de retirer le dernier administrateur."
+  "AUTH_CANNOT_DEMOTE_LAST_ADMIN": "Impossible de retirer le dernier administrateur.",
+  "YOUTUBE_SUGGESTION_FAILED": "Échec de la recherche de la vidéo YouTube. Réessayez plus tard.",
+  "YOUTUBE_QUOTA_EXCEEDED": "Le quota quotidien gratuit de recherche YouTube a été atteint. Réessayez demain.",
+  "YOUTUBE_NOT_CONFIGURED": "La recherche YouTube n'est pas configurée sur ce serveur."
 }

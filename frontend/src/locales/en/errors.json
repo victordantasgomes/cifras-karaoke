@@ -61,5 +61,8 @@
   "AUTH_SKILL_LEVEL_INVALID": "Invalid skill level.",
   "AUTH_CATEGORY_INVALID": "Invalid category.",
   "AUTH_CANNOT_CHANGE_OWN_CATEGORY": "You can't change your own category.",
-  "AUTH_CANNOT_DEMOTE_LAST_ADMIN": "You can't remove the last administrator."
+  "AUTH_CANNOT_DEMOTE_LAST_ADMIN": "You can't remove the last administrator.",
+  "YOUTUBE_SUGGESTION_FAILED": "Failed to search for a YouTube video. Please try again later.",
+  "YOUTUBE_QUOTA_EXCEEDED": "The free daily YouTube search quota has been reached. Please try again tomorrow.",
+  "YOUTUBE_NOT_CONFIGURED": "YouTube search isn't configured on this server."
 }

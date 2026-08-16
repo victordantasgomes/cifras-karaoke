@@ -61,5 +61,8 @@
   "AUTH_SKILL_LEVEL_INVALID": "无效的技术水平。",
   "AUTH_CATEGORY_INVALID": "类别无效。",
   "AUTH_CANNOT_CHANGE_OWN_CATEGORY": "你不能更改自己的类别。",
-  "AUTH_CANNOT_DEMOTE_LAST_ADMIN": "无法移除最后一位管理员。"
+  "AUTH_CANNOT_DEMOTE_LAST_ADMIN": "无法移除最后一位管理员。",
+  "YOUTUBE_SUGGESTION_FAILED": "搜索 YouTube 视频失败,请稍后重试。",
+  "YOUTUBE_QUOTA_EXCEEDED": "已达到 YouTube 搜索的每日免费配额,请明天再试。",
+  "YOUTUBE_NOT_CONFIGURED": "此服务器未配置 YouTube 搜索功能。"
 }

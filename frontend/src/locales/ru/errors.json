@@ -61,5 +61,8 @@
   "AUTH_SKILL_LEVEL_INVALID": "Неверный технический уровень.",
   "AUTH_CATEGORY_INVALID": "Недопустимая категория.",
   "AUTH_CANNOT_CHANGE_OWN_CATEGORY": "Вы не можете изменить собственную категорию.",
-  "AUTH_CANNOT_DEMOTE_LAST_ADMIN": "Невозможно снять последнего администратора."
+  "AUTH_CANNOT_DEMOTE_LAST_ADMIN": "Невозможно снять последнего администратора.",
+  "YOUTUBE_SUGGESTION_FAILED": "Не удалось найти видео на YouTube. Попробуйте позже.",
+  "YOUTUBE_QUOTA_EXCEEDED": "Достигнута бесплатная дневная квота поиска YouTube. Попробуйте снова завтра.",
+  "YOUTUBE_NOT_CONFIGURED": "Поиск YouTube не настроен на этом сервере."
 }

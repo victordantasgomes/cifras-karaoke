@@ -70,6 +70,18 @@ def quota_error_code(message: str) -> str:
     return "QUOTA_EXCEEDED"
 
 
+def youtube_error_code(message: str) -> str:
+    """YoutubeError cobre várias condições distintas (ver youtube_service.py)
+    — a mais visível pro usuário é a cota diária gratuita da API (100
+    buscas/dia, ver comentário em YoutubeService) estourada, que sem isso
+    aparecia como o JSON cru de erro da Google direto na tela."""
+    if "YOUTUBE_API_KEY não configurada" in message:
+        return "YOUTUBE_NOT_CONFIGURED"
+    if "API do YouTube: 429" in message:
+        return "YOUTUBE_QUOTA_EXCEEDED"
+    return "YOUTUBE_SUGGESTION_FAILED"
+
+
 def band_media_error_code(message: str) -> str:
     """BandBoardService.add_media_file/add_media_link levantam ValueError
     com uma entre 4 mensagens de validação distintas (2 delas com um número

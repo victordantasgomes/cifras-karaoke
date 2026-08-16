@@ -1,6 +1,8 @@
 import pytest
 
-from utils.error_codes import auth_error_code, band_media_error_code, billing_error_code, quota_error_code
+from utils.error_codes import (
+    auth_error_code, band_media_error_code, billing_error_code, quota_error_code, youtube_error_code,
+)
 
 
 @pytest.mark.parametrize("message,expected", [
@@ -67,3 +69,21 @@ def test_band_media_error_code_maps_known_messages(message, expected):
 
 def test_band_media_error_code_falls_back_for_unknown_message():
     assert band_media_error_code("mensagem desconhecida") == "BAND_MEDIA_INVALID"
+
+
+def test_youtube_error_code_detects_daily_quota_exceeded():
+    """Reproduz o erro relatado pelo usuário: cota diária gratuita da API
+    (100 buscas/dia) estourada devolvia o JSON cru de erro da Google direto
+    na tela em vez de uma mensagem traduzida."""
+    msg = ('Falha ao consultar a API do YouTube: 429 {"error": {"code": 429, '
+           '"errors": [{"reason": "rateLimitExceeded"}], "status": "RESOURCE_EXHAUSTED"}}')
+    assert youtube_error_code(msg) == "YOUTUBE_QUOTA_EXCEEDED"
+
+
+def test_youtube_error_code_detects_missing_api_key():
+    assert youtube_error_code("YOUTUBE_API_KEY não configurada no servidor.") == "YOUTUBE_NOT_CONFIGURED"
+
+
+def test_youtube_error_code_falls_back_for_other_http_errors():
+    assert youtube_error_code("Falha ao consultar a API do YouTube: 403 acesso negado") == "YOUTUBE_SUGGESTION_FAILED"
+    assert youtube_error_code("Falha ao consultar a API do YouTube: algum erro de rede") == "YOUTUBE_SUGGESTION_FAILED"
