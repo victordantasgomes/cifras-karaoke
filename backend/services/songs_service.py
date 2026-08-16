@@ -19,6 +19,8 @@ de QUEM VÊ a música, não da música em si — vivem em `user_song_prefs`, nã
 nessas colunas (que ficam paradas, sem uso, só por segurança/rollback)."""
 from __future__ import annotations
 
+import difflib
+
 from psycopg.types.json import Json
 
 import db
@@ -27,6 +29,12 @@ from utils.slug import slugify
 from utils.song_normalizer import normalize_song
 from utils.song_title import apply_edited_suffix, strip_title_suffix
 from utils.transpose import semitones_between, transpose_body
+
+# "Muito muito similar" (pedido do usuário) — limiar alto de propósito:
+# nome igual sozinho não basta pra virar "mesma música, versão diferente"
+# (podem ser músicas diferentes que só compartilham título, ex.: covers com
+# letra reescrita) — ver _cluster_by_lyrics.
+_VERSION_SIMILARITY_THRESHOLD = 0.85
 
 _SONG_COLUMNS = (
     "songs.id, songs.user_id, songs.slug, songs.genero, songs.titulo, songs.autor, songs.interprete, "
@@ -109,10 +117,11 @@ def _unique_slug(conn, base_slug: str, exclude_id: str | None = None) -> str:
 
 
 class SongsService:
-    def __init__(self, setlists=None, audio=None, clips=None):
+    def __init__(self, setlists=None, audio=None, clips=None, youtube=None):
         self.setlists = setlists  # injetado depois para evitar ciclo
         self.audio = audio  # idem — AudioService
         self.clips = clips  # idem — ClipQueueService
+        self.youtube = youtube  # idem — YoutubeService (busca real de vídeo)
 
     # ---------- leitura ----------
     def _fetch(self, slug: str) -> dict | None:
@@ -182,6 +191,7 @@ class SongsService:
                 {"user_id": user_id, "slug": slug, "genero": genre, "body": song.body,
                  "header": Json(song.header), "shared": shared, **denorm},
             ).fetchone()
+            self._check_duplicate_versions(conn, denorm["interprete"], denorm["titulo"])
         return _row_to_dict(row)
 
     # ---------- edição ----------
@@ -235,6 +245,8 @@ class SongsService:
                     where id=%(id)s returning {_SONG_COLUMNS}""",
                 {"id": row["id"], "slug": new_slug, "header": Json(full_header), "body": body, **denorm},
             ).fetchone()
+            self._repair_setlist_refs(conn, row["interprete"], row["titulo"], denorm["interprete"], denorm["titulo"])
+            self._check_duplicate_versions(conn, denorm["interprete"], denorm["titulo"])
             # poda histórico: mantém só as 50 versões mais recentes
             conn.execute(
                 """delete from song_versions where song_id=%s and id not in (
@@ -243,6 +255,233 @@ class SongsService:
                 (row["id"], row["id"]),
             )
         return _row_to_dict(new_row)
+
+    def _repair_setlist_refs(self, conn, old_interprete: str, old_titulo: str,
+                              new_interprete: str, new_titulo: str) -> None:
+        """`setlist_items.ref` guarda texto solto "Intérprete/Título" (mesmo
+        formato do export/import .txt) — não aponta pro `songs.id` estável.
+        Renomear intérprete ou título (ex.: corrigir um dado de importação
+        ruim, como um intérprete errado tipo "CIFRAS") quebra silenciosamente
+        qualquer setlist que já referenciava a música pelo nome antigo — ela
+        passa a aparecer como "música não encontrada" (bug relatado), porque
+        _resolve_many() casa por texto, não por id. Reescreve pro texto novo
+        qualquer ref cuja identidade resolvida (intérprete + título sem
+        sufixo, mesma lógica de _resolve_many) batia com a identidade
+        ANTERIOR desta música — mesma ambiguidade inerente ao formato de
+        texto já existente em _resolve_many (duas músicas com o mesmo nome
+        antigo são indistinguíveis aqui também)."""
+        old_target = (slugify(old_interprete), slugify(strip_title_suffix(old_titulo)))
+        new_target = (slugify(new_interprete), slugify(strip_title_suffix(new_titulo)))
+        if old_target == new_target or not old_target[1]:
+            return  # identidade não mudou de fato (só reformatação), ou título antigo vazio
+        old_title_stripped = strip_title_suffix(old_titulo)
+        candidates = conn.execute(
+            "select id, ref from setlist_items where ref ILIKE %s", (f"%{old_title_stripped}%",),
+        ).fetchall()
+        new_ref = f"{new_interprete}/{new_titulo}"
+        for c in candidates:
+            if "/" not in c["ref"]:
+                continue
+            artist, title = c["ref"].split("/", 1)
+            if (slugify(artist), slugify(strip_title_suffix(title))) == old_target:
+                conn.execute("update setlist_items set ref=%s where id=%s", (new_ref, c["id"]))
+
+    # ---------- músicas duplicadas ("mesmo nome, letra muito parecida") ----------
+    def _duplicate_group_key(self, interprete: str, titulo: str) -> tuple[str, str]:
+        return (slugify(interprete or ""), slugify(strip_title_suffix(titulo or "")))
+
+    def _cluster_by_lyrics(self, members: list[dict]) -> list[list[dict]]:
+        """Agrupa `members` (dicts com pelo menos 'body') por similaridade de
+        letra (difflib.SequenceMatcher.ratio, limiar em
+        _VERSION_SIMILARITY_THRESHOLD) via union-find. Nome igual sozinho não
+        basta — só quem bate quase igual de verdade entra no mesmo grupo."""
+        n = len(members)
+        parent = list(range(n))
+
+        def find(i):
+            while parent[i] != i:
+                parent[i] = parent[parent[i]]
+                i = parent[i]
+            return i
+
+        for i in range(n):
+            for j in range(i + 1, n):
+                ratio = difflib.SequenceMatcher(None, members[i]["body"], members[j]["body"]).ratio()
+                if ratio >= _VERSION_SIMILARITY_THRESHOLD:
+                    ri, rj = find(i), find(j)
+                    if ri != rj:
+                        parent[ri] = rj
+
+        clusters: dict[int, list[dict]] = {}
+        for i in range(n):
+            clusters.setdefault(find(i), []).append(members[i])
+        return list(clusters.values())
+
+    def _label_duplicate_group(self, conn, member_ids: list) -> int:
+        """Recalcula do zero as etiquetas @versao de um grupo (mesmo
+        intérprete + título sem sufixo): busca a letra de cada uma agora,
+        reagrupa por similaridade e numera "1", "2", "3"... por ordem de
+        criação dentro de cada agrupamento com 2+ membros — quem não bate
+        com mais ninguém (grupo com nome igual mas letra bem diferente, ou
+        encolheu porque uma música foi editada/apagada) tem @versao limpo.
+        Roda dentro da MESMA conexão/transação de quem chamou, pra não
+        perder atomicidade com a escrita que disparou a checagem. Devolve
+        quantas músicas ganharam um número."""
+        rows = conn.execute(
+            "select id, body, created_at from songs where id = any(%s::uuid[])", (member_ids,),
+        ).fetchall()
+        labeled = 0
+        for cluster in self._cluster_by_lyrics([dict(r) for r in rows]):
+            is_versioned = len(cluster) > 1
+            if is_versioned:
+                cluster = sorted(cluster, key=lambda m: m["created_at"])
+            for idx, member in enumerate(cluster):
+                versao = str(idx + 1) if is_versioned else ""
+                conn.execute(
+                    "update songs set header = jsonb_set(header, '{versao}', %s::jsonb) where id=%s",
+                    (Json(versao), member["id"]),
+                )
+                if versao:
+                    labeled += 1
+        return labeled
+
+    def _check_duplicate_versions(self, conn, interprete: str, titulo: str) -> None:
+        """Depois de criar/editar/clonar uma música que talvez tenha passado
+        a colidir com outra já existente (mesmo intérprete + título), reagrupa
+        só esse grupo específico na hora — não precisa esperar a próxima
+        varredura manual (ver duplicate_versions_scan). Filtro ILIKE (título
+        sem sufixo) é só pra não escanear a biblioteca inteira a cada
+        gravação; a comparação de verdade (slugify) é feita depois, em
+        Python, igual a _repair_setlist_refs."""
+        key = self._duplicate_group_key(interprete, titulo)
+        if not key[1]:
+            return
+        stripped = strip_title_suffix(titulo or "")
+        candidates = conn.execute(
+            "select id, interprete, titulo from songs where titulo ILIKE %s", (f"%{stripped}%",),
+        ).fetchall()
+        member_ids = [c["id"] for c in candidates if self._duplicate_group_key(c["interprete"], c["titulo"]) == key]
+        if len(member_ids) > 1:
+            self._label_duplicate_group(conn, member_ids)
+
+    def _pending_duplicate_groups(self, conn) -> list[list]:
+        """Grupos (cada um, uma lista de ids) com 2+ músicas compartilhando
+        intérprete + título (sem sufixo) e que ainda não estão todas
+        etiquetadas — candidatos a "mesma música, versões diferentes" pra
+        duplicate_versions_scan() processar."""
+        rows = conn.execute(
+            "select id, interprete, titulo, header->>'versao' as versao from songs",
+        ).fetchall()
+        groups: dict[tuple, list[dict]] = {}
+        for r in rows:
+            key = self._duplicate_group_key(r["interprete"], r["titulo"])
+            if not key[1]:
+                continue
+            groups.setdefault(key, []).append(r)
+        return [
+            [m["id"] for m in members]
+            for members in groups.values()
+            if len(members) > 1 and not all((m["versao"] or "").strip() for m in members)
+        ]
+
+    def duplicate_versions_status(self) -> dict:
+        with db.get_pool().connection() as conn:
+            groups = self._pending_duplicate_groups(conn)
+        return {"pending_groups": len(groups)}
+
+    def duplicate_versions_scan(self) -> dict:
+        """Varre a biblioteca inteira procurando músicas com o mesmo nome
+        (intérprete + título) e letra muito parecida, etiquetando cada uma
+        como "Versão 1", "Versão 2"... (@versao no cabeçalho) — ação manual,
+        disparada pela área de administração (Settings.jsx). O mesmo
+        agrupamento roda automaticamente daqui pra frente, sempre que uma
+        música nova/editada colide com uma existente (ver
+        _check_duplicate_versions, chamado por create()/_update_owned()/
+        _clone_and_update())."""
+        with db.get_pool().connection() as conn:
+            groups = self._pending_duplicate_groups(conn)
+            songs_labeled = sum(self._label_duplicate_group(conn, g) for g in groups)
+        return {"groups_found": len(groups), "songs_labeled": songs_labeled}
+
+    # ---------- link do YouTube (busca real, ver YoutubeService) ----------
+    def _setlist_song_keys(self, conn) -> set:
+        """Identidade (intérprete, título sem sufixo) de toda música
+        referenciada em QUALQUER setlist — usado só pra ORDENAR o lote de
+        preenchimento do YouTube (prioriza quem está em uso de verdade),
+        mesma lógica de agrupamento de _resolve_many, mas sem bater no
+        banco de novo por ref (setlist_items.ref já é o texto cru)."""
+        refs = conn.execute("select ref from setlist_items").fetchall()
+        keys = set()
+        for r in refs:
+            if "/" not in r["ref"]:
+                continue
+            artist, title = r["ref"].split("/", 1)
+            keys.add(self._duplicate_group_key(artist, title))
+        return keys
+
+    def _songs_missing_youtube_url(self, conn) -> list[dict]:
+        # só campos leves (nunca o header inteiro) — rodar em ~24 mil
+        # músicas puxando o JSONB completo de cada uma seria lento à toa,
+        # já que jsonb_set() na escrita não precisa do header em Python.
+        return conn.execute(
+            "select id, interprete, titulo from songs "
+            "where coalesce(header->>'youtube_url', '') = ''",
+        ).fetchall()
+
+    def youtube_link_status(self) -> dict:
+        with db.get_pool().connection() as conn:
+            setlist_keys = self._setlist_song_keys(conn)
+            rows = self._songs_missing_youtube_url(conn)
+        in_setlists = sum(
+            1 for r in rows if self._duplicate_group_key(r["interprete"], r["titulo"]) in setlist_keys
+        )
+        return {"remaining": len(rows), "remaining_in_setlists": in_setlists}
+
+    def youtube_link_batch(self, limit: int = 20) -> dict:
+        """Preenche @youtube_url via busca real na API do YouTube (ver
+        YoutubeService) pra até `limit` músicas por chamada — a cota
+        gratuita da API é limitada (~100 buscas/dia), então processa aos
+        poucos, de propósito. Prioriza quem está em algum setlist (pedido
+        do usuário — são as músicas realmente em uso), depois o resto da
+        biblioteca em ordem alfabética de título, pra ter uma ordem estável
+        entre chamadas."""
+        if not self.youtube:
+            raise RuntimeError("YoutubeService não configurado.")
+        with db.get_pool().connection() as conn:
+            setlist_keys = self._setlist_song_keys(conn)
+            rows = self._songs_missing_youtube_url(conn)
+        prioritized = sorted(
+            rows,
+            key=lambda r: (
+                self._duplicate_group_key(r["interprete"], r["titulo"]) not in setlist_keys,
+                r["titulo"],
+            ),
+        )
+        batch = prioritized[:limit]
+        found = 0
+        for row in batch:
+            url = self.youtube.search_video_url(row["interprete"], row["titulo"])
+            if url:
+                found += 1
+                with db.get_pool().connection() as conn:
+                    conn.execute(
+                        "update songs set header = jsonb_set(header, '{youtube_url}', %s::jsonb) where id=%s",
+                        (Json(url), row["id"]),
+                    )
+        status = self.youtube_link_status()
+        return {"processed": len(batch), "found": found, **status}
+
+    def suggest_youtube_url(self, slug: str) -> str | None:
+        """Sugestão sob demanda pra UMA música (botão no editor) — não
+        salva nada, só devolve a URL encontrada pro frontend preencher o
+        campo (o usuário confirma ao clicar Salvar, mesmo padrão da
+        sugestão de cabeçalho via IA)."""
+        if not self.youtube:
+            raise RuntimeError("YoutubeService não configurado.")
+        row = self._fetch(slug)
+        if not row:
+            raise SongNotFound(slug)
+        return self.youtube.search_video_url(row["interprete"], strip_title_suffix(row["titulo"]))
 
     def _clone_and_update(self, user_id: str, editor_name: str, row: dict, header: dict, body: str) -> dict:
         full_header = {f: str(header.get(f, "")) for f in HEADER_FIELDS}
@@ -269,6 +508,7 @@ class SongsService:
                 {"user_id": user_id, "slug": new_slug, "genero": row["genero"], "origin_song_id": row["id"],
                  "header": Json(full_header), "body": body, "shared": shared, **denorm},
             ).fetchone()
+            self._check_duplicate_versions(conn, denorm["interprete"], denorm["titulo"])
         return _row_to_dict(new_row)
 
     def set_favorite(self, user_id: str, slug: str, value: bool) -> dict:

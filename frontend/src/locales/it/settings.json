@@ -168,5 +168,28 @@
     "start": "Avvia",
     "stop": "Ferma",
     "error": "Ricalcolo in lotti non riuscito."
+  },
+  "duplicateVersions": {
+    "title": "Canzoni duplicate",
+    "description": "Cerca in tutta la libreria canzoni con lo stesso nome (interprete + titolo) e testo molto simile, etichettando ciascuna come \"Versione 1\", \"Versione 2\"... (campo @versao nell'intestazione). D'ora in poi, una nuova collisione (canzone creata o modificata) viene rilevata ed etichettata subito — questo pulsante risolve solo ciò che esisteva già prima.",
+    "none": "Nessun gruppo di canzoni con lo stesso nome in sospeso.",
+    "pendingGroups_one": "{{count}} gruppo di canzoni con lo stesso nome non ancora verificato.",
+    "pendingGroups_other": "{{count}} gruppi di canzoni con lo stesso nome non ancora verificati.",
+    "result": "Ultima scansione: {{groups}} gruppo/i verificato/i, {{songs}} canzone/i etichettata/e.",
+    "scan": "Scansiona ora",
+    "scanning": "Scansione in corso…",
+    "error": "Non è stato possibile scansionare la libreria."
+  },
+  "youtubeLink": {
+    "title": "Link YouTube",
+    "description": "Compila @youtube_url in blocco tramite una ricerca reale sull'API di YouTube — dà priorità alle canzoni presenti in una scaletta (quelle davvero in uso). La quota gratuita dell'API è limitata (circa 100 ricerche al giorno); se si esaurisce, l'esecuzione si ferma da sola con un avviso.",
+    "allFilled": "Tutte le canzoni hanno già un link YouTube (o nessuno è stato trovato).",
+    "remaining_one": "{{count}} canzone senza link ({{inSetlists}} in scalette).",
+    "remaining_other": "{{count}} canzoni senza link ({{inSetlists}} in scalette).",
+    "foundSoFar_one": "{{count}} trovata in questa sessione",
+    "foundSoFar_other": "{{count}} trovate in questa sessione",
+    "start": "Compila ora",
+    "stop": "Ferma",
+    "error": "Non è stato possibile cercare su YouTube."
   }
 }

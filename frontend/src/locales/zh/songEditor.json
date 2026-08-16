@@ -75,7 +75,12 @@
     "autosaveHint": "自动保存已启用 · 每次保存都会在历史记录中生成一个版本",
     "youtubeUrl": "YouTube 链接",
     "youtubeUrlPlaceholder": "例如:https://www.youtube.com/watch?v=...",
-    "youtubeUrlHint": "在卡拉OK中显示一个小型播放器,并启用\"播放 + YT\"按钮。"
+    "youtubeUrlHint": "在卡拉OK中显示一个小型播放器,并启用\"播放 + YT\"按钮。",
+    "suggestYoutube": "建议",
+    "suggestingYoutube": "搜索中…",
+    "suggestYoutubeTitle": "在 YouTube 上搜索这首歌的真实视频(标题 + 歌手)",
+    "suggestYoutubeNotFound": "未找到这首歌的视频。",
+    "suggestYoutubeError": "无法在 YouTube 上搜索。"
   },
   "audio": {
     "referenceTrack": "参考音轨",

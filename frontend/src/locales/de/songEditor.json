@@ -75,7 +75,12 @@
     "autosaveHint": "Automatisches Speichern aktiv · jedes Speichern erstellt eine Version im Verlauf",
     "youtubeUrl": "YouTube-Link",
     "youtubeUrlPlaceholder": "z. B.: https://www.youtube.com/watch?v=...",
-    "youtubeUrlHint": "Zeigt einen Mini-Player im Karaoke-Modus und aktiviert die Schaltfläche „Abspielen + YT“."
+    "youtubeUrlHint": "Zeigt einen Mini-Player im Karaoke-Modus und aktiviert die Schaltfläche „Abspielen + YT“.",
+    "suggestYoutube": "Vorschlagen",
+    "suggestingYoutube": "Suche läuft…",
+    "suggestYoutubeTitle": "Sucht auf YouTube nach einem echten Video zu diesem Song (Titel + Interpret)",
+    "suggestYoutubeNotFound": "Kein Video für diesen Song gefunden.",
+    "suggestYoutubeError": "YouTube-Suche fehlgeschlagen."
   },
   "audio": {
     "referenceTrack": "Referenz-Track",

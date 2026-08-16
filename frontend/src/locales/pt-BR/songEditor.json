@@ -75,7 +75,12 @@
     "autosaveHint": "Auto-save ativo · cada salvamento gera uma versão no histórico",
     "youtubeUrl": "Link do YouTube",
     "youtubeUrlPlaceholder": "ex.: https://www.youtube.com/watch?v=...",
-    "youtubeUrlHint": "Mostra um miniplayer no karaokê e habilita o botão \"Tocar + YT\"."
+    "youtubeUrlHint": "Mostra um miniplayer no karaokê e habilita o botão \"Tocar + YT\".",
+    "suggestYoutube": "Sugerir",
+    "suggestingYoutube": "Buscando…",
+    "suggestYoutubeTitle": "Busca um vídeo real no YouTube pra esta música (título + intérprete)",
+    "suggestYoutubeNotFound": "Nenhum vídeo encontrado pra esta música.",
+    "suggestYoutubeError": "Não foi possível buscar no YouTube."
   },
   "audio": {
     "referenceTrack": "Faixa de referência",

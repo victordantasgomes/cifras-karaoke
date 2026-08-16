@@ -75,7 +75,12 @@
     "autosaveHint": "Auto-save on · every save creates a version in the history",
     "youtubeUrl": "YouTube link",
     "youtubeUrlPlaceholder": "e.g.: https://www.youtube.com/watch?v=...",
-    "youtubeUrlHint": "Shows a mini player in karaoke mode and enables the \"Play + YT\" button."
+    "youtubeUrlHint": "Shows a mini player in karaoke mode and enables the \"Play + YT\" button.",
+    "suggestYoutube": "Suggest",
+    "suggestingYoutube": "Searching…",
+    "suggestYoutubeTitle": "Search YouTube for a real video of this song (title + artist)",
+    "suggestYoutubeNotFound": "No video found for this song.",
+    "suggestYoutubeError": "Couldn't search YouTube."
   },
   "audio": {
     "referenceTrack": "Reference track",

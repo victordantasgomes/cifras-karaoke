@@ -14,7 +14,7 @@ from openai import OpenAI
 from config import Config
 
 _MODEL = "gpt-4o-mini"
-_SUGGESTABLE_FIELDS = ("intérprete", "tom", "ritmomusical", "tags")
+_SUGGESTABLE_FIELDS = ("intérprete", "tom", "ritmomusical", "tags", "autor", "bpm")
 _BODY_LINES = 40
 
 

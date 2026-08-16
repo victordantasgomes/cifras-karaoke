@@ -17,7 +17,7 @@ import { SynthClock } from '../utils/synthClock'
 
 const HEADER_FIELDS = [
   'titulo', 'autor', 'intérprete', 'tom', 'tom_original', 'tom_da_cifra', 'velocidade',
-  'ritmomusical', 'introdução', 'tags', 'nota', 'favorita', 'normalizada', 'bpm',
+  'ritmomusical', 'introdução', 'tags', 'nota', 'favorita', 'normalizada', 'bpm', 'versao',
 ]
 // Fora do loop genérico (ver 480-486): recebe type="url" dedicado em vez de
 // texto solto, já que é validado/usado como link real (ver KaraokeStage.jsx
@@ -243,6 +243,18 @@ export default function SongEditor() {
       const suggestions = r.data
       if (Object.keys(suggestions).length === 0) return
       const newHeader = { ...header, ...suggestions }
+      setHeader(newHeader)
+      setDirty(true)
+      pushHistorySnapshot(newHeader, body)
+    },
+  })
+
+  const suggestYoutube = useMutation({
+    mutationFn: () => api.post(`/songs/${slug}/suggest-youtube`),
+    onSuccess: (r) => {
+      const url = r.data.url
+      if (!url) return
+      const newHeader = { ...header, [YOUTUBE_FIELD]: url }
       setHeader(newHeader)
       setDirty(true)
       pushHistorySnapshot(newHeader, body)
@@ -523,10 +535,27 @@ export default function SongEditor() {
               </div>
             </div>
             <div className="field">
-              <label>{t('edit.youtubeUrl')}</label>
+              <div className="row" style={{ justifyContent: 'space-between', alignItems: 'center' }}>
+                <label style={{ margin: 0 }}>{t('edit.youtubeUrl')}</label>
+                <button type="button" className="btn" disabled={suggestYoutube.isPending}
+                  title={t('edit.suggestYoutubeTitle')}
+                  onClick={() => suggestYoutube.mutate()}>
+                  {suggestYoutube.isPending ? t('edit.suggestingYoutube') : t('edit.suggestYoutube')}
+                </button>
+              </div>
               <input className="input" type="url" placeholder={t('edit.youtubeUrlPlaceholder')}
                 value={header[YOUTUBE_FIELD] || ''}
                 onChange={(e) => updateHeaderField(YOUTUBE_FIELD, e.target.value)} />
+              {suggestYoutube.isSuccess && !suggestYoutube.data.data.url && (
+                <div className="page-sub" style={{ margin: '4px 0 0', fontSize: 12 }}>
+                  {t('edit.suggestYoutubeNotFound')}
+                </div>
+              )}
+              {suggestYoutube.isError && (
+                <div className="error-text" style={{ margin: '4px 0 0', fontSize: 12 }}>
+                  {suggestYoutube.error?.response?.data?.error || t('edit.suggestYoutubeError')}
+                </div>
+              )}
               <div className="page-sub" style={{ margin: '4px 0 0', fontSize: 12 }}>
                 {t('edit.youtubeUrlHint')}
               </div>

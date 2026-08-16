@@ -75,7 +75,12 @@
     "autosaveHint": "Автосохранение включено · каждое сохранение создаёт версию в истории",
     "youtubeUrl": "Ссылка на YouTube",
     "youtubeUrlPlaceholder": "напр.: https://www.youtube.com/watch?v=...",
-    "youtubeUrlHint": "Показывает мини-плеер в режиме караоке и включает кнопку «Играть + YT»."
+    "youtubeUrlHint": "Показывает мини-плеер в режиме караоке и включает кнопку «Играть + YT».",
+    "suggestYoutube": "Предложить",
+    "suggestingYoutube": "Поиск…",
+    "suggestYoutubeTitle": "Ищет на YouTube настоящее видео для этой песни (название + исполнитель)",
+    "suggestYoutubeNotFound": "Видео для этой песни не найдено.",
+    "suggestYoutubeError": "Не удалось выполнить поиск на YouTube."
   },
   "audio": {
     "referenceTrack": "Референсная дорожка",

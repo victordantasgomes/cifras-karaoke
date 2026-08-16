@@ -168,5 +168,28 @@
     "start": "Start",
     "stop": "Stop",
     "error": "Batch recalculation failed."
+  },
+  "duplicateVersions": {
+    "title": "Duplicate songs",
+    "description": "Scans the whole library for songs with the same name (artist + title) and very similar lyrics, labeling each one \"Version 1\", \"Version 2\"... (the @versao header field). From now on, a new collision (a song created or edited) is detected and labeled right away — this button only handles what already existed before.",
+    "none": "No pending groups of same-named songs.",
+    "pendingGroups_one": "{{count}} group of same-named songs not checked yet.",
+    "pendingGroups_other": "{{count}} groups of same-named songs not checked yet.",
+    "result": "Last scan: {{groups}} group(s) checked, {{songs}} song(s) labeled.",
+    "scan": "Scan now",
+    "scanning": "Scanning…",
+    "error": "Couldn't scan the library."
+  },
+  "youtubeLink": {
+    "title": "YouTube link",
+    "description": "Fills in @youtube_url in bulk via a real YouTube API search — prioritizes songs that are in a setlist (the ones actually in use). The API's free quota is limited (around 100 searches a day); if it runs out, the run stops on its own with a warning.",
+    "allFilled": "Every song already has a YouTube link (or none was found).",
+    "remaining_one": "{{count}} song without a link ({{inSetlists}} in setlists).",
+    "remaining_other": "{{count}} songs without a link ({{inSetlists}} in setlists).",
+    "foundSoFar_one": "{{count}} found this run",
+    "foundSoFar_other": "{{count}} found this run",
+    "start": "Fill in now",
+    "stop": "Stop",
+    "error": "Couldn't search YouTube."
   }
 }

@@ -168,5 +168,28 @@
     "start": "开始",
     "stop": "停止",
     "error": "批量重新计算失败。"
+  },
+  "duplicateVersions": {
+    "title": "重复歌曲",
+    "description": "在整个曲库中查找名称相同(歌手+标题)且歌词非常相似的歌曲,并将每首标记为「版本 1」「版本 2」……(表头字段 @versao)。从现在起,新出现的冲突(新建或编辑的歌曲)会立即被检测并标记——这个按钮只处理之前已经存在的情况。",
+    "none": "没有待处理的同名歌曲组。",
+    "pendingGroups_one": "{{count}} 组同名歌曲尚未检查。",
+    "pendingGroups_other": "{{count}} 组同名歌曲尚未检查。",
+    "result": "上次扫描:检查了 {{groups}} 组,标记了 {{songs}} 首歌曲。",
+    "scan": "立即扫描",
+    "scanning": "扫描中…",
+    "error": "无法扫描曲库。"
+  },
+  "youtubeLink": {
+    "title": "YouTube 链接",
+    "description": "通过 YouTube API 的真实搜索批量填充 @youtube_url——优先处理歌单中的歌曲(真正在使用的那些)。API 的免费额度有限(每天大约 100 次搜索);用完后会自动停止并提示。",
+    "allFilled": "所有歌曲都已经有 YouTube 链接了(或者没有找到)。",
+    "remaining_one": "{{count}} 首歌曲没有链接(其中 {{inSetlists}} 首在歌单中)。",
+    "remaining_other": "{{count}} 首歌曲没有链接(其中 {{inSetlists}} 首在歌单中)。",
+    "foundSoFar_one": "本次运行找到 {{count}} 首",
+    "foundSoFar_other": "本次运行找到 {{count}} 首",
+    "start": "立即填充",
+    "stop": "停止",
+    "error": "无法在 YouTube 上搜索。"
   }
 }

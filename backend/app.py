@@ -38,6 +38,7 @@ from services.setlist_service import SetlistService
 from services.settings_service import SettingsService
 from services.songs_service import SongsService
 from services.telemetry_service import TelemetryService
+from services.youtube_service import YoutubeService
 
 
 class Services:
@@ -49,7 +50,8 @@ class Services:
         self.setlists = SetlistService()
         self.audio = AudioService()
         self.clips = ClipQueueService()
-        self.songs = SongsService(setlists=self.setlists, audio=self.audio, clips=self.clips)
+        self.youtube = YoutubeService()
+        self.songs = SongsService(setlists=self.setlists, audio=self.audio, clips=self.clips, youtube=self.youtube)
         self.audio.songs = self.songs  # injetado depois pra evitar ciclo
         self.clips.songs = self.songs  # idem
         self.karaoke = KaraokeService(self.songs, self.audio, self.clips)

@@ -168,5 +168,28 @@
     "start": "Démarrer",
     "stop": "Arrêter",
     "error": "Échec du recalcul par lot."
+  },
+  "duplicateVersions": {
+    "title": "Chansons en double",
+    "description": "Recherche dans toute la bibliothèque des chansons portant le même nom (artiste + titre) et des paroles très similaires, en étiquetant chacune \"Version 1\", \"Version 2\"... (champ @versao de l'en-tête). Désormais, une nouvelle collision (chanson créée ou modifiée) est détectée et étiquetée immédiatement — ce bouton ne traite que ce qui existait déjà avant.",
+    "none": "Aucun groupe de chansons homonymes en attente.",
+    "pendingGroups_one": "{{count}} groupe de chansons homonymes pas encore vérifié.",
+    "pendingGroups_other": "{{count}} groupes de chansons homonymes pas encore vérifiés.",
+    "result": "Dernière analyse : {{groups}} groupe(s) vérifié(s), {{songs}} chanson(s) étiquetée(s).",
+    "scan": "Analyser maintenant",
+    "scanning": "Analyse en cours…",
+    "error": "Impossible d'analyser la bibliothèque."
+  },
+  "youtubeLink": {
+    "title": "Lien YouTube",
+    "description": "Remplit @youtube_url en lot via une vraie recherche sur l'API YouTube — priorise les chansons présentes dans une setlist (celles réellement utilisées). Le quota gratuit de l'API est limité (environ 100 recherches par jour) ; s'il est épuisé, le traitement s'arrête tout seul avec un avertissement.",
+    "allFilled": "Toutes les chansons ont déjà un lien YouTube (ou aucun n'a été trouvé).",
+    "remaining_one": "{{count}} chanson sans lien ({{inSetlists}} dans des setlists).",
+    "remaining_other": "{{count}} chansons sans lien ({{inSetlists}} dans des setlists).",
+    "foundSoFar_one": "{{count}} trouvée pendant cette session",
+    "foundSoFar_other": "{{count}} trouvées pendant cette session",
+    "start": "Remplir maintenant",
+    "stop": "Arrêter",
+    "error": "Impossible de rechercher sur YouTube."
   }
 }

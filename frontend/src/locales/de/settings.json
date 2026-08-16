@@ -168,5 +168,28 @@
     "start": "Starten",
     "stop": "Stoppen",
     "error": "Stapelneuberechnung fehlgeschlagen."
+  },
+  "duplicateVersions": {
+    "title": "Doppelte Songs",
+    "description": "Durchsucht die gesamte Bibliothek nach Songs mit demselben Namen (Interpret + Titel) und sehr ähnlichem Text und kennzeichnet jeden als \"Version 1\", \"Version 2\" ... (Kopfzeilenfeld @versao). Ab sofort wird eine neue Kollision (ein erstellter oder bearbeiteter Song) sofort erkannt und gekennzeichnet — diese Schaltfläche behandelt nur das, was vorher schon existierte.",
+    "none": "Keine ausstehenden Gruppen gleichnamiger Songs.",
+    "pendingGroups_one": "{{count}} Gruppe gleichnamiger Songs noch nicht geprüft.",
+    "pendingGroups_other": "{{count}} Gruppen gleichnamiger Songs noch nicht geprüft.",
+    "result": "Letzter Scan: {{groups}} Gruppe(n) geprüft, {{songs}} Song(s) gekennzeichnet.",
+    "scan": "Jetzt scannen",
+    "scanning": "Scannen läuft…",
+    "error": "Die Bibliothek konnte nicht gescannt werden."
+  },
+  "youtubeLink": {
+    "title": "YouTube-Link",
+    "description": "Füllt @youtube_url im Stapel über eine echte YouTube-API-Suche aus — priorisiert Songs, die in einer Setlist stehen (die tatsächlich genutzten). Das kostenlose API-Kontingent ist begrenzt (etwa 100 Suchen pro Tag); ist es aufgebraucht, stoppt der Lauf von selbst mit einer Warnung.",
+    "allFilled": "Alle Songs haben bereits einen YouTube-Link (oder es wurde keiner gefunden).",
+    "remaining_one": "{{count}} Song ohne Link ({{inSetlists}} in Setlists).",
+    "remaining_other": "{{count}} Songs ohne Link ({{inSetlists}} in Setlists).",
+    "foundSoFar_one": "{{count}} in diesem Durchlauf gefunden",
+    "foundSoFar_other": "{{count}} in diesem Durchlauf gefunden",
+    "start": "Jetzt ausfüllen",
+    "stop": "Stoppen",
+    "error": "YouTube-Suche fehlgeschlagen."
   }
 }

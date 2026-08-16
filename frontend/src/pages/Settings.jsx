@@ -807,6 +807,134 @@ function NormalizeLibraryCard() {
   )
 }
 
+/** Detecta músicas com o mesmo nome (intérprete + título) e letra muito
+ * parecida, etiquetando cada uma como "Versão 1", "Versão 2"... (@versao no
+ * cabeçalho — ver SongsService.duplicate_versions_scan). Diferente de
+ * NormalizeLibraryCard: não precisa de barra de progresso em lote — o
+ * agrupamento em si já é rápido (só compara músicas que já compartilham
+ * nome, não a biblioteca inteira par a par), então é um botão só, com o
+ * resultado mostrado depois de rodar. Passa a rodar sozinho daqui pra
+ * frente também, sempre que uma música nova colidir com uma existente
+ * (ver SongsService._check_duplicate_versions) — este botão é só pra
+ * resolver o que já existia antes dessa checagem existir. */
+function DuplicateVersionsCard() {
+  const { t } = useTranslation('settings')
+  const qc = useQueryClient()
+  const { data: status } = useQuery({
+    queryKey: ['admin-duplicate-versions-status'],
+    queryFn: () => api.get('/admin/songs/duplicate-versions-status').then((r) => r.data),
+  })
+  const [error, setError] = useState('')
+
+  const scan = useMutation({
+    mutationFn: () => api.post('/admin/songs/duplicate-versions-scan').then((r) => r.data),
+    onSuccess: () => { setError(''); qc.invalidateQueries({ queryKey: ['admin-duplicate-versions-status'] }) },
+    onError: (e) => setError(e.response?.data?.error || t('duplicateVersions.error')),
+  })
+
+  return (
+    <div className="card" style={{ marginBottom: 14 }}>
+      <h3 style={{ marginBottom: 12 }}>{t('duplicateVersions.title')}</h3>
+      <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>
+        {t('duplicateVersions.description')}
+      </p>
+      {status && (
+        <div className="page-sub" style={{ marginBottom: 14 }}>
+          {status.pending_groups === 0
+            ? t('duplicateVersions.none')
+            : t('duplicateVersions.pendingGroups', { count: status.pending_groups })}
+        </div>
+      )}
+      {scan.isSuccess && (
+        <div className="page-sub" style={{ marginBottom: 14 }}>
+          {t('duplicateVersions.result', { groups: scan.data.groups_found, songs: scan.data.songs_labeled })}
+        </div>
+      )}
+      {error && <div className="error-text" style={{ marginBottom: 10 }}>{error}</div>}
+      <div className="row">
+        <button className="btn primary" disabled={scan.isPending} onClick={() => scan.mutate()}>
+          {scan.isPending ? t('duplicateVersions.scanning') : t('duplicateVersions.scan')}
+        </button>
+      </div>
+    </div>
+  )
+}
+
+/** Preenche @youtube_url em lote via busca real na API do YouTube (ver
+ * YoutubeService) — prioriza músicas que estão em algum setlist (pedido do
+ * usuário: são as músicas realmente em uso). Mesmo padrão de barra de
+ * progresso/Start-Stop de NormalizeLibraryCard, mas com lotes menores — a
+ * cota gratuita da API é limitada (~100 buscas/dia); estourar a cota
+ * devolve um erro que já para o laço sozinho (mesmo catch de sempre). */
+function YoutubeLinkCard() {
+  const { t } = useTranslation('settings')
+  const { data: status } = useQuery({
+    queryKey: ['admin-youtube-link-status'],
+    queryFn: () => api.get('/admin/songs/youtube-link-status').then((r) => r.data),
+  })
+  const [running, setRunning] = useState(false)
+  const [remaining, setRemaining] = useState(null)
+  const [remainingInSetlists, setRemainingInSetlists] = useState(null)
+  const [found, setFound] = useState(0)
+  const [error, setError] = useState('')
+  const stopRef = useRef(false)
+
+  useEffect(() => {
+    if (status && remaining === null) {
+      setRemaining(status.remaining)
+      setRemainingInSetlists(status.remaining_in_setlists)
+    }
+  }, [status]) // eslint-disable-line
+
+  const start = async () => {
+    stopRef.current = false
+    setRunning(true)
+    setError('')
+    setFound(0)
+    let foundTotal = 0
+    try {
+      while (!stopRef.current) {
+        const { data } = await api.post('/admin/songs/youtube-link-batch', { limit: 10 })
+        setRemaining(data.remaining)
+        setRemainingInSetlists(data.remaining_in_setlists)
+        foundTotal += data.found
+        setFound(foundTotal)
+        if (data.processed === 0 || data.remaining === 0) break
+      }
+    } catch (e) {
+      setError(e.response?.data?.error || t('youtubeLink.error'))
+    } finally {
+      setRunning(false)
+    }
+  }
+  const stop = () => { stopRef.current = true }
+
+  return (
+    <div className="card" style={{ marginBottom: 14 }}>
+      <h3 style={{ marginBottom: 12 }}>{t('youtubeLink.title')}</h3>
+      <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>
+        {t('youtubeLink.description')}
+      </p>
+      {remaining !== null && (
+        <div className="page-sub" style={{ marginBottom: 14 }}>
+          {remaining === 0
+            ? t('youtubeLink.allFilled')
+            : t('youtubeLink.remaining', { count: remaining, inSetlists: remainingInSetlists })}
+          {found > 0 && <> · {t('youtubeLink.foundSoFar', { count: found })}</>}
+        </div>
+      )}
+      {error && <div className="error-text" style={{ marginBottom: 10 }}>{error}</div>}
+      <div className="row">
+        {running ? (
+          <button className="btn danger" onClick={stop}>{t('youtubeLink.stop')}</button>
+        ) : (
+          <button className="btn primary" disabled={remaining === 0} onClick={start}>{t('youtubeLink.start')}</button>
+        )}
+      </div>
+    </div>
+  )
+}
+
 function StorageRecomputeCard() {
   const { t } = useTranslation('settings')
   const { data: status } = useQuery({
@@ -890,6 +1018,8 @@ export default function Settings() {
       {user?.is_admin && <UserAdminCard />}
       {user?.is_admin && <PlansAdminCard />}
       {user?.is_admin && <NormalizeLibraryCard />}
+      {user?.is_admin && <DuplicateVersionsCard />}
+      {user?.is_admin && <YoutubeLinkCard />}
       {user?.is_admin && <StorageRecomputeCard />}
     </>
   )

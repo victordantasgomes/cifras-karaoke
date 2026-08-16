@@ -12,6 +12,7 @@ from services.branding_service import VARIANTS as LOGO_VARIANTS
 from services.plans_service import DuplicatePlanName, PlanNotFound, StripeSyncError
 from services.quota_service import QuotaExceeded
 from services.songs_service import NotOwner, SongNotFound
+from services.youtube_service import YoutubeError
 from utils.error_codes import auth_error_code, band_media_error_code, billing_error_code, quota_error_code
 
 
@@ -301,6 +302,31 @@ def build_blueprint(ctx) -> Blueprint:
     def admin_normalize_status():
         return jsonify(ctx.songs.normalize_status())
 
+    @api.get("/admin/songs/duplicate-versions-status")
+    @ctx.require_admin
+    def admin_duplicate_versions_status():
+        return jsonify(ctx.songs.duplicate_versions_status())
+
+    @api.post("/admin/songs/duplicate-versions-scan")
+    @ctx.require_admin
+    def admin_duplicate_versions_scan():
+        return jsonify(ctx.songs.duplicate_versions_scan())
+
+    @api.get("/admin/songs/youtube-link-status")
+    @ctx.require_admin
+    def admin_youtube_link_status():
+        return jsonify(ctx.songs.youtube_link_status())
+
+    @api.post("/admin/songs/youtube-link-batch")
+    @ctx.require_admin
+    def admin_youtube_link_batch():
+        d = request.get_json(silent=True) or {}
+        limit = min(max(int(d.get("limit", 20)), 1), 50)
+        try:
+            return jsonify(ctx.songs.youtube_link_batch(limit=limit))
+        except YoutubeError as e:
+            return jsonify({"error": str(e), "error_code": "YOUTUBE_SUGGESTION_FAILED"}), 502
+
     @api.post("/admin/songs/normalize-batch")
     @ctx.require_admin
     def admin_normalize_batch():
@@ -498,6 +524,17 @@ def build_blueprint(ctx) -> Blueprint:
             return jsonify(ctx.ai.suggest_header(data["header"], data["body"]))
         except AIError as e:
             return jsonify({"error": str(e), "error_code": "AI_SUGGESTION_FAILED"}), 502
+
+    @api.post("/songs/<slug>/suggest-youtube")
+    @protected
+    def suggest_youtube(slug):
+        try:
+            url = ctx.songs.suggest_youtube_url(slug)
+        except SongNotFound:
+            return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
+        except YoutubeError as e:
+            return jsonify({"error": str(e), "error_code": "YOUTUBE_SUGGESTION_FAILED"}), 502
+        return jsonify({"url": url})
 
     @api.get("/songs/<slug>/export")
     @protected

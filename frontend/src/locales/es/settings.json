@@ -168,5 +168,28 @@
     "start": "Iniciar",
     "stop": "Detener",
     "error": "Error al recalcular en lote."
+  },
+  "duplicateVersions": {
+    "title": "Canciones duplicadas",
+    "description": "Busca en toda la biblioteca canciones con el mismo nombre (intérprete + título) y letra muy parecida, y etiqueta cada una como \"Versión 1\", \"Versión 2\"... (campo @versao en el encabezado). De ahora en adelante, una colisión nueva (canción creada o editada) ya se detecta y etiqueta al instante — este botón solo resuelve lo que ya existía antes.",
+    "none": "Ningún grupo de canciones con el mismo nombre pendiente.",
+    "pendingGroups_one": "{{count}} grupo de canciones con el mismo nombre sin verificar.",
+    "pendingGroups_other": "{{count}} grupos de canciones con el mismo nombre sin verificar.",
+    "result": "Último escaneo: {{groups}} grupo(s) verificado(s), {{songs}} canción(es) etiquetada(s).",
+    "scan": "Escanear ahora",
+    "scanning": "Escaneando…",
+    "error": "No se pudo escanear la biblioteca."
+  },
+  "youtubeLink": {
+    "title": "Enlace de YouTube",
+    "description": "Rellena @youtube_url en lote mediante una búsqueda real en la API de YouTube — prioriza las canciones que están en algún setlist (las realmente en uso). La cuota gratuita de la API es limitada (unas 100 búsquedas al día); si se agota, el proceso se detiene solo con un aviso.",
+    "allFilled": "Todas las canciones ya tienen enlace de YouTube (o no se encontró ninguno).",
+    "remaining_one": "{{count}} canción sin enlace ({{inSetlists}} en setlists).",
+    "remaining_other": "{{count}} canciones sin enlace ({{inSetlists}} en setlists).",
+    "foundSoFar_one": "{{count}} encontrada en esta sesión",
+    "foundSoFar_other": "{{count}} encontradas en esta sesión",
+    "start": "Rellenar ahora",
+    "stop": "Detener",
+    "error": "No se pudo buscar en YouTube."
   }
 }

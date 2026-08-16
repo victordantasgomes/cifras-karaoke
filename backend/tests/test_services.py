@@ -642,6 +642,184 @@ def test_setlist_ref_resolves_when_added_with_already_normalized_title(ctx):
     assert item["song"]["titulo"] == "Yellow - Coldplay - cifra original"
 
 
+def test_editing_song_interprete_repairs_existing_setlist_refs(ctx):
+    """Reproduz o bug relatado ("Brigas" virando "não encontrada" depois de
+    editada): setlist_items.ref guarda texto solto (não o id estável da
+    música) — corrigir um dado ruim de importação (intérprete errado, ex.:
+    "CIFRAS") quebrava silenciosamente qualquer setlist que já referenciava
+    a música pelo nome antigo. _update_owned agora repara essas refs pro
+    texto novo (ver SongsService._repair_setlist_refs)."""
+    songs, setlists, _ = ctx
+    entry = songs.create("u1", "Sertanejo", "CIFRAS", "Brigas", "@titulo: Brigas\n\ncorpo")
+    created = setlists.save("u1", "Show", ["CIFRAS/Brigas"])
+    item = setlists.get("u1", created["id"])["items"][0]
+    assert item["song"] is not None  # resolve antes da edição
+
+    data = songs.get("u1", entry["slug"])
+    header = dict(data["header"])
+    header["intérprete"] = "Bruno e Marrone"
+    songs.update("u1", entry["slug"], header, data["body"])
+
+    item_after = setlists.get("u1", created["id"])["items"][0]
+    assert item_after["song"] is not None
+    assert item_after["song"]["interprete"] == "Bruno e Marrone"
+
+
+def test_editing_song_title_only_reformatting_does_not_touch_unrelated_refs(ctx):
+    """Reformatar o título sem mudar a identidade (mesmo slugify) não deve
+    varrer a tabela de setlist_items à toa — old_target == new_target,
+    _repair_setlist_refs sai cedo."""
+    songs, setlists, _ = ctx
+    entry = _create(songs)  # Coldplay/Yellow
+    created = setlists.save("u1", "Show", ["Coldplay/Yellow"])
+
+    data = songs.get("u1", entry["slug"])
+    header = dict(data["header"])
+    header["nota"] = "5"  # muda algo irrelevante pra identidade
+    songs.update("u1", entry["slug"], header, data["body"])
+
+    item = setlists.get("u1", created["id"])["items"][0]
+    assert item["song"] is not None
+    assert item["ref"] == "Coldplay/Yellow"  # ref original, não reescrita
+
+
+# ---------- músicas duplicadas ("mesmo nome, letra muito parecida") ----------
+
+def test_duplicate_versions_scan_labels_similar_songs_by_creation_order(ctx):
+    songs, _, _ = ctx
+    body_a = "@titulo: Brigas\n\nAm  C  G\nMesma letra quase igual em tudo\nSó um detalhezinho mudou aqui"
+    body_b = body_a.replace("detalhezinho", "detalhe")  # quase idêntico
+    a = songs.create("u1", "Sertanejo", "Bruno e Marrone", "Brigas", body_a)
+    b = songs.create("u1", "Sertanejo", "Bruno e Marrone", "Brigas", body_b)
+
+    result = songs.duplicate_versions_scan()
+    assert result == {"groups_found": 1, "songs_labeled": 2}
+    assert songs.get("u1", a["slug"])["header"]["versao"] == "1"
+    assert songs.get("u1", b["slug"])["header"]["versao"] == "2"
+
+
+def test_duplicate_versions_scan_does_not_label_dissimilar_songs_with_same_name(ctx):
+    songs, _, _ = ctx
+    songs.create("u1", "Sertanejo", "Bruno e Marrone", "Brigas",
+                  "@titulo: Brigas\n\nLetra completamente diferente aqui, nada a ver com a outra faixa")
+    songs.create("u1", "Sertanejo", "Bruno e Marrone", "Brigas",
+                  "@titulo: Brigas\n\nOutro texto qualquer, sem nenhuma semelhança relevante com o primeiro")
+
+    result = songs.duplicate_versions_scan()
+    assert result["groups_found"] == 1  # mesmo nome, então é candidato
+    assert result["songs_labeled"] == 0  # mas a letra não bate o suficiente
+
+
+def test_duplicate_versions_detected_automatically_on_create(ctx):
+    """"Daqui pra frente" (item confirmado com o usuário): não precisa
+    esperar a varredura manual — criar uma música que colide com outra já
+    existente já dispara o agrupamento na hora (ver
+    SongsService._check_duplicate_versions)."""
+    songs, _, _ = ctx
+    body = "@titulo: Brigas\n\nLetra numero um bem parecida com a proxima"
+    songs.create("u1", "Sertanejo", "Bruno e Marrone", "Brigas", body)
+    b = songs.create("u1", "Sertanejo", "Bruno e Marrone", "Brigas", body + " ")  # quase idêntica
+
+    assert songs.get("u1", b["slug"])["header"]["versao"] == "2"
+
+
+def test_duplicate_versions_status_reflects_pending_legacy_duplicates(ctx):
+    """Simula duplicatas PRÉ-EXISTENTES (inseridas direto no banco, sem
+    passar por create()/update() — mesma situação de músicas já na
+    biblioteca antes desta funcionalidade existir) — só a varredura manual
+    (duplicate_versions_scan) resolve essas."""
+    songs, _, _ = ctx
+    with db.get_pool().connection() as conn:
+        for i in range(2):
+            conn.execute(
+                "insert into songs (slug, genero, titulo, interprete, body) "
+                "values (%s, 'Sertanejo', 'Brigas', 'Bruno e Marrone', %s)",
+                (f"legacy-brigas-{i}", "letra bem parecida em tudo, quase igual palavra por palavra"),
+            )
+    assert songs.duplicate_versions_status() == {"pending_groups": 1}
+
+    result = songs.duplicate_versions_scan()
+    assert result == {"groups_found": 1, "songs_labeled": 2}
+    assert songs.duplicate_versions_status() == {"pending_groups": 0}
+
+
+# ---------- link do YouTube (busca real, priorizada por setlists) ----------
+
+class _FakeYoutube:
+    """Duck-type de YoutubeService — devolve uma URL fixa (ou None) por
+    (intérprete, título), sem bater na API de verdade. Registra a ORDEM das
+    chamadas, pra testar a priorização por setlist."""
+    def __init__(self, urls=None):
+        self.urls = urls or {}
+        self.calls = []
+
+    def search_video_url(self, interprete, titulo):
+        self.calls.append((interprete, titulo))
+        return self.urls.get((interprete, titulo))
+
+
+def test_youtube_link_status_counts_remaining_and_in_setlists(ctx):
+    songs, setlists, _ = ctx
+    songs.create("u1", "Pop", "Artista A", "Musica A", "@titulo: Musica A\n\ncorpo a")
+    songs.create("u1", "Pop", "Artista B", "Musica B", "@titulo: Musica B\n\ncorpo b")
+    setlists.save("u1", "Show", ["Artista B/Musica B"])
+
+    assert songs.youtube_link_status() == {"remaining": 2, "remaining_in_setlists": 1}
+
+
+def test_youtube_link_batch_prioritizes_songs_in_setlists(ctx):
+    """Pedido do usuário: preencher automaticamente deve priorizar as
+    músicas que estão em algum setlist."""
+    songs, setlists, _ = ctx
+    songs.create("u1", "Pop", "Artista A", "Musica A", "@titulo: Musica A\n\ncorpo a")
+    songs.create("u1", "Pop", "Artista B", "Musica B", "@titulo: Musica B\n\ncorpo b")
+    setlists.save("u1", "Show", ["Artista B/Musica B"])  # só "Musica B" está em uso
+
+    fake = _FakeYoutube(urls={
+        ("Artista A", "Musica A"): "https://www.youtube.com/watch?v=aaaaaaaaaaa",
+        ("Artista B", "Musica B"): "https://www.youtube.com/watch?v=bbbbbbbbbbb",
+    })
+    songs.youtube = fake
+    songs.youtube_link_batch(limit=1)  # só dá pra processar uma música
+
+    assert fake.calls == [("Artista B", "Musica B")]  # a que está no setlist foi primeiro
+
+
+def test_youtube_link_batch_saves_found_url(ctx):
+    songs, _, _ = ctx
+    entry = songs.create("u1", "Pop", "Artista C", "Musica C", "@titulo: Musica C\n\ncorpo c")
+    songs.youtube = _FakeYoutube(urls={("Artista C", "Musica C"): "https://www.youtube.com/watch?v=ccccccccccc"})
+
+    result = songs.youtube_link_batch(limit=10)
+    assert result["found"] == 1
+    assert songs.get("u1", entry["slug"])["header"]["youtube_url"] == "https://www.youtube.com/watch?v=ccccccccccc"
+
+
+def test_youtube_link_batch_leaves_unfound_songs_without_url(ctx):
+    songs, _, _ = ctx
+    entry = songs.create("u1", "Pop", "Artista D", "Musica D", "@titulo: Musica D\n\ncorpo d")
+    songs.youtube = _FakeYoutube()  # sem resultado nenhum
+
+    result = songs.youtube_link_batch(limit=10)
+    assert result["found"] == 0
+    assert songs.get("u1", entry["slug"])["header"]["youtube_url"] == ""
+
+
+def test_suggest_youtube_url_returns_search_result(ctx):
+    songs, _, _ = ctx
+    entry = _create(songs)  # Coldplay/Yellow
+    songs.youtube = _FakeYoutube(urls={("Coldplay", "Yellow"): "https://www.youtube.com/watch?v=ddddddddddd"})
+    assert songs.suggest_youtube_url(entry["slug"]) == "https://www.youtube.com/watch?v=ddddddddddd"
+
+
+def test_suggest_youtube_url_raises_without_youtube_service(ctx):
+    songs, _, _ = ctx
+    entry = _create(songs)
+    songs.youtube = None
+    with pytest.raises(RuntimeError):
+        songs.suggest_youtube_url(entry["slug"])
+
+
 def test_velocity_mapping():
     assert velocity_to_ms(1) == 10000
     assert velocity_to_ms(100) == 500

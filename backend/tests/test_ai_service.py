@@ -41,8 +41,9 @@ class _FakeClient:
         self.chat = _FakeChat(content)
 
 
-HEADER_EMPTY = {"titulo": "Yellow", "intérprete": "", "tom": "", "ritmomusical": "", "tags": ""}
-HEADER_FULL = {"titulo": "Yellow", "intérprete": "Coldplay", "tom": "B", "ritmomusical": "Rock", "tags": "rock, pop"}
+HEADER_EMPTY = {"titulo": "Yellow", "intérprete": "", "tom": "", "ritmomusical": "", "tags": "", "autor": "", "bpm": ""}
+HEADER_FULL = {"titulo": "Yellow", "intérprete": "Coldplay", "tom": "B", "ritmomusical": "Rock", "tags": "rock, pop",
+                "autor": "Chris Martin", "bpm": "120"}
 BODY = "B\nLook at the stars\nLook how they shine for you\n"
 
 
@@ -62,11 +63,15 @@ def test_never_calls_api_when_nothing_missing(monkeypatch):
 def test_suggests_only_missing_fields(monkeypatch):
     fake = _FakeClient(json.dumps({
         "intérprete": "Coldplay", "tom": "B", "ritmomusical": "Rock", "tags": ["rock", "pop"],
+        "autor": "Chris Martin", "bpm": "88",
     }))
     monkeypatch.setattr(AIService, "_client", lambda self: fake)
     ai = AIService()
     result = ai.suggest_header(HEADER_EMPTY, BODY)
-    assert result == {"intérprete": "Coldplay", "tom": "B", "ritmomusical": "Rock", "tags": "rock, pop"}
+    assert result == {
+        "intérprete": "Coldplay", "tom": "B", "ritmomusical": "Rock", "tags": "rock, pop",
+        "autor": "Chris Martin", "bpm": "88",
+    }
 
 
 def test_never_asks_about_fields_already_filled(monkeypatch):
