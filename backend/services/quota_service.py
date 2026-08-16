@@ -71,7 +71,7 @@ class QuotaService:
                     "select ref from setlist_items where setlist_id = %s", (sl["id"],),
                 ).fetchall()
             ]
-            for song in self.setlists._resolve_many(refs):
+            for song in self.setlists._resolve_many(user_id, refs):
                 if song:
                     slugs.add(song["slug"])
         return slugs
@@ -146,7 +146,7 @@ class QuotaService:
             if not limits:
                 return
             other_slugs = self._owned_song_slugs(conn, user_id, exclude_setlist_pk=exclude_setlist_pk)
-            new_slugs = {s["slug"] for s in self.setlists._resolve_many(items) if s}
+            new_slugs = {s["slug"] for s in self.setlists._resolve_many(user_id, items) if s}
             used = self._sum_bytes_for_slugs(conn, other_slugs | new_slugs)
         limit_bytes = limits["storage_limit_mb"] * 1024 * 1024
         if used > limit_bytes:

@@ -162,16 +162,34 @@ export default function SetlistDetail() {
               <div>
                 <div className="title">{i + 1}. {item.song?.titulo || item.ref}</div>
                 <div className="meta">
-                  {item.song?.interprete || ''} {item.song?.tom && <span className="chip">{item.song.tom}</span>}
+                  {item.song?.interprete || ''}
+                  {item.song && (
+                    <span className="row" style={{ display: 'inline-flex', gap: 6, margin: '0 6px', verticalAlign: 'middle' }}>
+                      <svg width="15" height="15" viewBox="0 0 24 24"
+                        title={item.song.youtube_url ? t('youtubeLinked') : t('youtubeNotLinked')}
+                        fill={item.song.youtube_url ? '#FF0000' : 'var(--muted)'}>
+                        <path d="M23.5 6.2a3.02 3.02 0 0 0-2.12-2.14C19.51 3.5 12 3.5 12 3.5s-7.51 0-9.38.56A3.02 3.02 0 0 0 .5 6.2 31.6 31.6 0 0 0 0 12a31.6 31.6 0 0 0 .5 5.8 3.02 3.02 0 0 0 2.12 2.14C4.49 20.5 12 20.5 12 20.5s7.51 0 9.38-.56a3.02 3.02 0 0 0 2.12-2.14A31.6 31.6 0 0 0 24 12a31.6 31.6 0 0 0-.5-5.8ZM9.6 15.6V8.4L15.8 12l-6.2 3.6Z" />
+                      </svg>
+                      <span title={item.song.favorita ? t('favorited') : t('notFavorited')}
+                        style={{ color: item.song.favorita ? '#f2c94c' : 'var(--muted)', fontSize: 14, lineHeight: '15px' }}>★</span>
+                      <span className="chip" title={item.song.normalizada ? t('normalizedTitle') : t('notNormalizedTitle')}
+                        style={item.song.normalizada
+                          ? { background: 'rgba(242, 201, 76, 0.16)', color: '#f2c94c' }
+                          : { background: 'var(--glass)', color: 'var(--muted)' }}>
+                        {t('normalizedAbbr')}
+                      </span>
+                    </span>
+                  )}
+                  {item.song?.tom && <span className="chip">{item.song.tom}</span>}
                   {!item.song && <span className="chip" style={{ background: 'var(--danger)', color: '#fff' }}>{t('notFound')}</span>}
                 </div>
               </div>
               {item.song && (
-                <button className="btn no-print" onClick={(e) => { e.stopPropagation(); navigate(`/musicas/${item.song.slug}`, { state: { fromSetlistId: id } }) }}
-                  title={t('editSong')}>✎</button>
+                <button className="btn" onClick={() => playFrom(myPlayableIndex)} title={t('playFromHere')}>▶</button>
               )}
               {item.song && (
-                <button className="btn" onClick={() => playFrom(myPlayableIndex)} title={t('playFromHere')}>▶</button>
+                <button className="btn no-print" onClick={(e) => { e.stopPropagation(); navigate(`/musicas/${item.song.slug}`, { state: { fromSetlistId: id, initialTab: 'edit' } }) }}
+                  title={t('editSong')}>✎</button>
               )}
               {isOwner && <button className="btn danger no-print" onClick={() => removeAt(i)}>×</button>}
             </div>

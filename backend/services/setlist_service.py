@@ -41,7 +41,7 @@ class SetlistService:
     def __init__(self, quota=None):
         self.quota = quota  # injetado depois pra evitar ciclo com QuotaService
 
-    def _resolve_many(self, refs: list[str]) -> list[dict | None]:
+    def _resolve_many(self, user_id: str, refs: list[str]) -> list[dict | None]:
         """Resolve várias refs 'Artista/Título' contra a biblioteca inteira
         (biblioteca global — não filtra mais por dono do setlist).
 
@@ -50,7 +50,13 @@ class SetlistService:
         comparação exata por slugify(interprete, titulo) decide o match —
         `strip_title_suffix` porque títulos normalizados/clonados ganham um
         sufixo ("... - cifra original"/"... - cifra editada por: X") que uma
-        ref escrita antes disso não tem."""
+        ref escrita antes disso não tem.
+
+        `favorita` vem de `user_song_prefs` (por usuário, mesmo padrão de
+        SongsService.get()/SearchService — `songs.favorita` é só o valor
+        denormalizado da criação, não reflete favoritar/desfavoritar
+        depois) — por isso o LEFT JOIN por `user_id`, usado pelos ícones de
+        status na tela do setlist (ver SetlistDetail.jsx)."""
         out: list[dict | None] = []
         with db.get_pool().connection() as conn:
             # operador "%" do pg_trgm (não a função similarity()) é o que o
@@ -63,12 +69,16 @@ class SetlistService:
                     continue
                 artist, title = ref.split("/", 1)
                 candidates = conn.execute(
-                    """select slug, titulo, autor, interprete, genero, tom, tags, velocidade,
-                              nota, favorita, ritmo from songs
-                       where titulo ILIKE %(title_like)s OR titulo %% %(title)s
-                       order by similarity(titulo, %(title)s) desc
+                    """select songs.slug, songs.titulo, songs.autor, songs.interprete, songs.genero,
+                              songs.tom, songs.tags, songs.velocidade, songs.nota, songs.ritmo,
+                              songs.normalizada, songs.header->>'youtube_url' as youtube_url,
+                              coalesce(p.favorita, false) as favorita
+                       from songs left join user_song_prefs p
+                              on p.song_id = songs.id and p.user_id = %(user_id)s
+                       where songs.titulo ILIKE %(title_like)s OR songs.titulo %% %(title)s
+                       order by similarity(songs.titulo, %(title)s) desc
                        limit 20""",
-                    {"title": title, "title_like": f"%{title}%"},
+                    {"user_id": user_id, "title": title, "title_like": f"%{title}%"},
                 ).fetchall()
                 # `title` (metade da ref) pode vir COM sufixo — refs criadas
                 # a partir de uma música JÁ normalizada (ex.: escolhida agora
@@ -124,7 +134,7 @@ class SetlistService:
                 "select ref from setlist_items where setlist_id=%s order by position", (row["id"],),
             ).fetchall()
         refs = [i["ref"] for i in items]
-        resolved = self._resolve_many(refs)
+        resolved = self._resolve_many(user_id, refs)
         return {
             "id": row["slug"], "nome": row["nome"],
             "is_owner": is_owner, "shared": row["shared"],

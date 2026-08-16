@@ -25,5 +25,12 @@
   "allArtists": "所有演唱者",
   "addSelected_one": "添加 ({{count}}) 首歌曲",
   "addSelected_other": "添加 ({{count}}) 首歌曲",
-  "adding": "添加中…"
+  "adding": "添加中…",
+  "youtubeLinked": "已设置 YouTube 链接",
+  "youtubeNotLinked": "没有 YouTube 链接",
+  "favorited": "收藏的歌曲",
+  "notFavorited": "未收藏",
+  "normalizedAbbr": "标准",
+  "normalizedTitle": "标题和记谱已标准化",
+  "notNormalizedTitle": "尚未标准化"
 }

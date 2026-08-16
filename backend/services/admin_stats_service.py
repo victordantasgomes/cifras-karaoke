@@ -24,7 +24,7 @@ class AdminStatsService:
     def _most_setlisted_songs(self, limit: int) -> list[dict]:
         with db.get_pool().connection() as conn:
             rows = conn.execute("select ref from setlist_items").fetchall()
-        resolved = self.setlists._resolve_many([r["ref"] for r in rows])
+        resolved = self.setlists._resolve_many(None, [r["ref"] for r in rows])
 
         counts: dict[str, dict] = {}
         for song in resolved:

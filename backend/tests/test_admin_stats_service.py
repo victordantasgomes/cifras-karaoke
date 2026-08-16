@@ -123,7 +123,7 @@ def test_most_setlisted_matches_setlist_service_resolution(ctx, user_id, other_u
     # do admin_stats_service.
     with db.get_pool().connection() as conn:
         all_refs = [r["ref"] for r in conn.execute("select ref from setlist_items").fetchall()]
-    resolved = setlists._resolve_many(all_refs)
+    resolved = setlists._resolve_many(None, all_refs)
     expected_counts = {}
     for song in resolved:
         if song:

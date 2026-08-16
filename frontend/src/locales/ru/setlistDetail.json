@@ -25,5 +25,12 @@
   "allArtists": "Все исполнители",
   "addSelected_one": "Добавить ({{count}}) песню",
   "addSelected_other": "Добавить ({{count}}) песен",
-  "adding": "Добавление…"
+  "adding": "Добавление…",
+  "youtubeLinked": "Ссылка на YouTube указана",
+  "youtubeNotLinked": "Нет ссылки на YouTube",
+  "favorited": "Любимая песня",
+  "notFavorited": "Не в избранном",
+  "normalizedAbbr": "Норм.",
+  "normalizedTitle": "Заголовок и нотация стандартизированы",
+  "notNormalizedTitle": "Ещё не нормализована"
 }

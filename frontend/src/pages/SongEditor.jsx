@@ -165,6 +165,12 @@ export default function SongEditor() {
       setDirty(false)
       commitHistory({ stack: [{ header: data.header, body: data.body }], index: 0 })
       loadedSlug.current = slug
+      // "Editar música" no setlist (ver SetlistDetail.jsx) pede pra abrir
+      // direto na aba Editar — só aplica se o usuário realmente pode editar
+      // esta música in-place (mesma regra de canEditInPlace, calculada de
+      // novo aqui porque `data`/`user` só ficam prontos depois do fetch).
+      const canEditNow = !data.user_id || data.user_id === user?.id || user?.is_admin
+      if (location.state?.initialTab === 'edit' && canEditNow) setTab('edit')
     } else if (!dirty) {
       // sem edição local pendente: reflete o que veio do servidor (autosave
       // concluído, transposição, favoritar, avaliar) e registra no histórico

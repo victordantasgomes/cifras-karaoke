@@ -25,5 +25,12 @@
   "allArtists": "All artists",
   "addSelected_one": "Add ({{count}}) song",
   "addSelected_other": "Add ({{count}}) songs",
-  "adding": "Adding…"
+  "adding": "Adding…",
+  "youtubeLinked": "YouTube link set",
+  "youtubeNotLinked": "No YouTube link",
+  "favorited": "Favorite song",
+  "notFavorited": "Not a favorite",
+  "normalizedAbbr": "Norm.",
+  "normalizedTitle": "Header and notation standardized",
+  "notNormalizedTitle": "Not normalized yet"
 }

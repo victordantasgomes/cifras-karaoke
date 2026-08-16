@@ -25,5 +25,12 @@
   "allArtists": "Todos os intérpretes",
   "addSelected_one": "Adicionar ({{count}}) música",
   "addSelected_other": "Adicionar ({{count}}) músicas",
-  "adding": "Adicionando…"
+  "adding": "Adicionando…",
+  "youtubeLinked": "Link do YouTube preenchido",
+  "youtubeNotLinked": "Sem link do YouTube",
+  "favorited": "Música favorita",
+  "notFavorited": "Não é favorita",
+  "normalizedAbbr": "Norm.",
+  "normalizedTitle": "Cabeçalho e notação padronizados",
+  "notNormalizedTitle": "Ainda não normalizada"
 }
