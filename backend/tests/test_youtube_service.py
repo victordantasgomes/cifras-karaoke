@@ -92,6 +92,25 @@ def test_search_strips_cifra_site_noise_from_query(monkeypatch, youtube):
     youtube.search_videos("CifraClub", "Brigas - CIFRAS CLUBE")
     assert "cifra" not in captured["q"].lower()
     assert "club" not in captured["q"].lower()
+
+
+def test_search_strips_unicode_replacement_char_from_query(monkeypatch, youtube):
+    """Reproduz o bug relatado: "TARDE DEMAIS" de Zezé Di Camargo e Luciano
+    voltava "nenhum vídeo encontrado" — o intérprete estava salvo como
+    "Zez� Di Camargo e Luciano" (acento corrompido de uma importação
+    antiga com codificação errada), e mandar o caractere de substituição
+    (�) direto pra busca deixava o resultado instável."""
+    captured = {}
+
+    def fake_get(url, params=None, timeout=None):
+        captured["q"] = params["q"]
+        return _FakeResponse(200, {"items": []})
+
+    monkeypatch.setattr("requests.get", fake_get)
+    youtube.search_videos("Zez� Di Camargo e Luciano", "Tarde Demais")
+    assert "�" not in captured["q"]
+    assert "Tarde Demais" in captured["q"]
+    assert "Di Camargo e Luciano" in captured["q"]
     assert "Brigas" in captured["q"]
 
 

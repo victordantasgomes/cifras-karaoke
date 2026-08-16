@@ -256,6 +256,10 @@ export default function SongEditor() {
   const [youtubeCandidates, setYoutubeCandidates] = useState(null)
   const suggestYoutube = useMutation({
     mutationFn: () => api.post(`/songs/${slug}/suggest-youtube`).then((r) => r.data.candidates),
+    // limpa o resultado da tentativa anterior ANTES de disparar a busca nova
+    // — senão um "nenhum encontrado" de uma busca antiga ficava visível
+    // durante a busca seguinte, até ela responder.
+    onMutate: () => setYoutubeCandidates(null),
     onSuccess: (candidates) => setYoutubeCandidates(candidates), // [] = "nenhum encontrado", mostrado inline
   })
   const acceptYoutubeSuggestion = (url) => {

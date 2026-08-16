@@ -32,9 +32,20 @@ _NOISE_RE = re.compile(
     r"\b(cifras?\s*clube?|cifras?club|cifras?)\b", re.IGNORECASE,
 )
 
+# "�" (caractere de substituição Unicode, "�") — sobra de acento
+# corrompido em parte do acervo importado há muito tempo com a codificação
+# errada (ex.: "Zezé" virou "Zez�"). Mandar isso direto pra busca deixa o
+# resultado instável (às vezes o resto do texto "salva" a busca, às vezes
+# não) — relatado pelo usuário com "TARDE DEMAIS" de Zezé Di Camargo e
+# Luciano voltando "nenhum vídeo encontrado". Não dá pra RECONSTRUIR a
+# letra original a partir do caractere de substituição (o byte de verdade
+# já foi perdido) — só dá pra tirar do caminho da busca.
+_REPLACEMENT_CHAR_RE = re.compile("�")
+
 
 def _clean_query_text(text: str) -> str:
     cleaned = _NOISE_RE.sub(" ", text or "")
+    cleaned = _REPLACEMENT_CHAR_RE.sub(" ", cleaned)
     return re.sub(r"\s+", " ", cleaned).strip()
 
 
