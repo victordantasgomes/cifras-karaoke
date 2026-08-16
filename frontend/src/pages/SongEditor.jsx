@@ -7,6 +7,7 @@ import { useAuthStore } from '../store/authStore'
 import ChordSheet from '../components/ChordSheet'
 import SyncWorkspace from '../components/SyncWorkspace'
 import YoutubeSuggestModal from '../components/YoutubeSuggestModal'
+import { extractYoutubeId } from '../utils/youtube'
 import { parseBody } from '../utils/lineClassifier'
 import { groupIntoSteps } from '../utils/steps'
 import { resolveTimeline, estimateSynthDuration } from '../utils/timeline'
@@ -264,13 +265,24 @@ export default function SongEditor() {
     onMutate: () => setYoutubeCandidates(null),
     onSuccess: (candidates) => setYoutubeCandidates(candidates), // [] = "nenhum encontrado", mostrado inline
   })
-  const acceptYoutubeSuggestion = (url) => {
+  const acceptYoutubeSuggestion = (url, duration) => {
     const newHeader = { ...header, [YOUTUBE_FIELD]: url }
+    if (duration) newHeader.tempoexecucao = duration
     setHeader(newHeader)
     setDirty(true)
     pushHistorySnapshot(newHeader, body)
     setYoutubeCandidates(null)
   }
+
+  // Pedido do usuário: ao vincular um vídeo do YouTube (sugestão aceita OU
+  // URL colada manualmente), preenche "Tempo de execução" com a duração real
+  // do vídeo (GET /youtube/duration/<id>, ver youtube_service.py). Só
+  // sobrescreve quando a API devolve uma duração de verdade — link inválido/
+  // vídeo indisponível não mexe no que já estava no campo.
+  const applyYoutubeDuration = useMutation({
+    mutationFn: (videoId) => api.get(`/youtube/duration/${videoId}`).then((r) => r.data.duration),
+    onSuccess: (duration) => { if (duration) updateHeaderField('tempoexecucao', duration) },
+  })
 
   const toggleFav = useMutation({
     mutationFn: () => api.post(`/songs/${slug}/favorite`, { value: !(header?.favorita === 'sim') }),
@@ -561,7 +573,11 @@ export default function SongEditor() {
               </div>
               <input className="input" type="url" placeholder={t('edit.youtubeUrlPlaceholder')}
                 value={header[YOUTUBE_FIELD] || ''}
-                onChange={(e) => updateHeaderField(YOUTUBE_FIELD, e.target.value)} />
+                onChange={(e) => updateHeaderField(YOUTUBE_FIELD, e.target.value)}
+                onBlur={(e) => {
+                  const videoId = extractYoutubeId(e.target.value)
+                  if (videoId) applyYoutubeDuration.mutate(videoId)
+                }} />
               {youtubeCandidates?.length === 0 && (
                 <div className="page-sub" style={{ margin: '4px 0 0', fontSize: 12 }}>
                   {t('edit.suggestYoutubeNotFound')}

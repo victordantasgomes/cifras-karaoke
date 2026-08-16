@@ -536,6 +536,15 @@ def build_blueprint(ctx) -> Blueprint:
             return jsonify({"error": str(e), "error_code": "YOUTUBE_SUGGESTION_FAILED"}), 502
         return jsonify({"candidates": candidates})
 
+    @api.get("/youtube/duration/<video_id>")
+    @protected
+    def youtube_duration(video_id):
+        try:
+            duration = ctx.youtube.get_duration(video_id)
+        except YoutubeError as e:
+            return jsonify({"error": str(e), "error_code": "YOUTUBE_SUGGESTION_FAILED"}), 502
+        return jsonify({"duration": duration})
+
     @api.get("/songs/<slug>/export")
     @protected
     def export_song(slug):

@@ -27,6 +27,7 @@ export default function YoutubeSuggestModal({ candidates, onAccept, onClose }) {
       {current.title && (
         <div className="page-sub" style={{ marginBottom: 12 }}>
           {current.title}
+          {current.duration && <> · {current.duration}</>}
           {candidates.length > 1 && <> · {t('edit.youtubeSuggestCount', { current: index + 1, total: candidates.length })}</>}
         </div>
       )}
@@ -34,7 +35,7 @@ export default function YoutubeSuggestModal({ candidates, onAccept, onClose }) {
         <button type="button" className="btn" disabled={candidates.length <= 1} onClick={next}>
           {t('edit.youtubeSuggestAnother')}
         </button>
-        <button type="button" className="btn primary" onClick={() => onAccept(current.url)}>
+        <button type="button" className="btn primary" onClick={() => onAccept(current.url, current.duration)}>
           {t('edit.youtubeSuggestAccept')}
         </button>
         <button type="button" className="btn ghost" onClick={onClose}>

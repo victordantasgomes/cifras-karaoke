@@ -23,9 +23,11 @@ def youtube(monkeypatch):
 
 def test_search_returns_first_video_url(monkeypatch, youtube):
     def fake_get(url, params=None, timeout=None):
-        assert params["q"] == "Yellow Coldplay"
-        assert params["key"] == "fake-key"
-        return _FakeResponse(200, {"items": [{"id": {"videoId": "dQw4w9WgXcQ"}}]})
+        if url.endswith("/search"):
+            assert params["q"] == "Yellow Coldplay"
+            assert params["key"] == "fake-key"
+            return _FakeResponse(200, {"items": [{"id": {"videoId": "dQw4w9WgXcQ"}}]})
+        return _FakeResponse(200, {"items": [{"id": "dQw4w9WgXcQ", "contentDetails": {"duration": "PT4M13S"}}]})
 
     monkeypatch.setattr("requests.get", fake_get)
     url = youtube.search_video_url("Coldplay", "Yellow")
@@ -59,23 +61,51 @@ def test_search_empty_query_returns_none_without_calling_api(monkeypatch, youtub
 def test_search_videos_returns_multiple_candidates_from_one_call(monkeypatch, youtube):
     """A cota da API é por CHAMADA, não por resultado — pedir vários de uma
     vez (pro "sugerir outro" do modal) não custa mais caro que pedir um só."""
-    calls = []
+    search_calls = []
 
     def fake_get(url, params=None, timeout=None):
-        calls.append(params)
-        assert params["maxResults"] == 5
+        if url.endswith("/search"):
+            search_calls.append(params)
+            assert params["maxResults"] == 5
+            return _FakeResponse(200, {"items": [
+                {"id": {"videoId": "aaaaaaaaaaa"}, "snippet": {"title": "Yellow (Official Video)"}},
+                {"id": {"videoId": "bbbbbbbbbbb"}, "snippet": {"title": "Yellow (Live)"}},
+            ]})
+        assert url.endswith("/videos")
+        assert params["id"] == "aaaaaaaaaaa,bbbbbbbbbbb"
         return _FakeResponse(200, {"items": [
-            {"id": {"videoId": "aaaaaaaaaaa"}, "snippet": {"title": "Yellow (Official Video)"}},
-            {"id": {"videoId": "bbbbbbbbbbb"}, "snippet": {"title": "Yellow (Live)"}},
+            {"id": "aaaaaaaaaaa", "contentDetails": {"duration": "PT4M26S"}},
+            {"id": "bbbbbbbbbbb", "contentDetails": {"duration": "PT5M2S"}},
         ]})
 
     monkeypatch.setattr("requests.get", fake_get)
     results = youtube.search_videos("Coldplay", "Yellow")
-    assert len(calls) == 1
+    assert len(search_calls) == 1
     assert results == [
-        {"video_id": "aaaaaaaaaaa", "title": "Yellow (Official Video)", "url": "https://www.youtube.com/watch?v=aaaaaaaaaaa"},
-        {"video_id": "bbbbbbbbbbb", "title": "Yellow (Live)", "url": "https://www.youtube.com/watch?v=bbbbbbbbbbb"},
+        {"video_id": "aaaaaaaaaaa", "title": "Yellow (Official Video)", "url": "https://www.youtube.com/watch?v=aaaaaaaaaaa", "duration": "4:26"},
+        {"video_id": "bbbbbbbbbbb", "title": "Yellow (Live)", "url": "https://www.youtube.com/watch?v=bbbbbbbbbbb", "duration": "5:02"},
     ]
+
+
+def test_get_durations_parses_iso8601_and_skips_zero_length(monkeypatch, youtube):
+    def fake_get(url, params=None, timeout=None):
+        assert url.endswith("/videos")
+        assert params["id"] == "aaaaaaaaaaa,bbbbbbbbbbb,ccccccccccc"
+        return _FakeResponse(200, {"items": [
+            {"id": "aaaaaaaaaaa", "contentDetails": {"duration": "PT1H2M3S"}},
+            {"id": "bbbbbbbbbbb", "contentDetails": {"duration": "PT45S"}},
+            {"id": "ccccccccccc", "contentDetails": {"duration": "PT0S"}},  # transmissão ao vivo
+        ]})
+
+    monkeypatch.setattr("requests.get", fake_get)
+    assert youtube.get_durations(["aaaaaaaaaaa", "bbbbbbbbbbb", "ccccccccccc"]) == {
+        "aaaaaaaaaaa": "62:03", "bbbbbbbbbbb": "0:45",
+    }
+
+
+def test_get_duration_returns_none_when_video_missing(monkeypatch, youtube):
+    monkeypatch.setattr("requests.get", lambda *a, **kw: _FakeResponse(200, {"items": []}))
+    assert youtube.get_duration("zzzzzzzzzzz") is None
 
 
 def test_search_strips_cifra_site_noise_from_query(monkeypatch, youtube):
