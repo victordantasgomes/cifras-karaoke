@@ -1,5 +1,6 @@
 import { forwardRef, useEffect, useImperativeHandle, useRef } from 'react'
 import { useYoutubeMiniPlayerStore, MIN_WIDTH, MAX_WIDTH, MIN_HEIGHT, MAX_HEIGHT } from '../store/youtubeMiniPlayerStore'
+import { buildEmbedUrl } from '../utils/youtube'
 
 /** Alça de redimensionar no canto inferior esquerdo do miniplayer (o único
  * canto livre — os outros três colam nas bordas do vídeo, no header, ou na
@@ -51,6 +52,12 @@ function ResizeHandle() {
  * inferior esquerdo (ver ResizeHandle acima), persistido em
  * useYoutubeMiniPlayerStore.
  *
+ * `buildEmbedUrl` (utils/youtube.js) cuida do domínio "-nocookie" — ver o
+ * comentário lá pro porquê. `key={videoId}` força o React a desmontar/
+ * remontar o iframe a cada troca de música (em vez de só atualizar o `src`
+ * do mesmo elemento), garantindo uma instância nova do player pra cada
+ * vídeo, sem estado preso da música anterior.
+ *
  * `enablejsapi=1` habilita o protocolo postMessage do embed do YouTube —
  * não é a lib oficial `iframe_api` (que exigiria carregar um script
  * externo), é o mesmo mecanismo leve que o embed já aceita nativamente,
@@ -76,8 +83,8 @@ const YoutubeMiniPlayer = forwardRef(function YoutubeMiniPlayer({ videoId, title
 
   return (
     <div className="k-youtube-mini no-print" style={{ width, height }}>
-      <iframe ref={iframeRef}
-        src={`https://www.youtube.com/embed/${videoId}?enablejsapi=1&rel=0`}
+      <iframe key={videoId} ref={iframeRef}
+        src={buildEmbedUrl(videoId)}
         title={title || 'YouTube'}
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowFullScreen frameBorder="0" />

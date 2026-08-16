@@ -746,16 +746,29 @@ def test_duplicate_versions_status_reflects_pending_legacy_duplicates(ctx):
 # ---------- link do YouTube (busca real, priorizada por setlists) ----------
 
 class _FakeYoutube:
-    """Duck-type de YoutubeService — devolve uma URL fixa (ou None) por
+    """Duck-type de YoutubeService — devolve candidatos fixos (ou nenhum) por
     (intérprete, título), sem bater na API de verdade. Registra a ORDEM das
-    chamadas, pra testar a priorização por setlist."""
+    chamadas, pra testar a priorização por setlist. `urls` mapeia pra uma
+    lista de candidatos OU uma única URL (vira lista de 1 automaticamente)."""
     def __init__(self, urls=None):
         self.urls = urls or {}
         self.calls = []
 
+    def _candidates_for(self, interprete, titulo):
+        value = self.urls.get((interprete, titulo))
+        if not value:
+            return []
+        urls = value if isinstance(value, list) else [value]
+        return [{"video_id": u.rsplit("=", 1)[-1], "title": titulo, "url": u} for u in urls]
+
+    def search_videos(self, interprete, titulo, max_results=5):
+        self.calls.append((interprete, titulo))
+        return self._candidates_for(interprete, titulo)[:max_results]
+
     def search_video_url(self, interprete, titulo):
         self.calls.append((interprete, titulo))
-        return self.urls.get((interprete, titulo))
+        candidates = self._candidates_for(interprete, titulo)
+        return candidates[0]["url"] if candidates else None
 
 
 def test_youtube_link_status_counts_remaining_and_in_setlists(ctx):
@@ -805,19 +818,33 @@ def test_youtube_link_batch_leaves_unfound_songs_without_url(ctx):
     assert songs.get("u1", entry["slug"])["header"]["youtube_url"] == ""
 
 
-def test_suggest_youtube_url_returns_search_result(ctx):
+def test_suggest_youtube_candidates_returns_search_results(ctx):
     songs, _, _ = ctx
     entry = _create(songs)  # Coldplay/Yellow
-    songs.youtube = _FakeYoutube(urls={("Coldplay", "Yellow"): "https://www.youtube.com/watch?v=ddddddddddd"})
-    assert songs.suggest_youtube_url(entry["slug"]) == "https://www.youtube.com/watch?v=ddddddddddd"
+    songs.youtube = _FakeYoutube(urls={("Coldplay", "Yellow"): [
+        "https://www.youtube.com/watch?v=ddddddddddd",
+        "https://www.youtube.com/watch?v=eeeeeeeeeee",
+    ]})
+    candidates = songs.suggest_youtube_candidates(entry["slug"])
+    assert [c["url"] for c in candidates] == [
+        "https://www.youtube.com/watch?v=ddddddddddd",
+        "https://www.youtube.com/watch?v=eeeeeeeeeee",
+    ]
 
 
-def test_suggest_youtube_url_raises_without_youtube_service(ctx):
+def test_suggest_youtube_candidates_empty_when_nothing_found(ctx):
+    songs, _, _ = ctx
+    entry = _create(songs)
+    songs.youtube = _FakeYoutube()
+    assert songs.suggest_youtube_candidates(entry["slug"]) == []
+
+
+def test_suggest_youtube_candidates_raises_without_youtube_service(ctx):
     songs, _, _ = ctx
     entry = _create(songs)
     songs.youtube = None
     with pytest.raises(RuntimeError):
-        songs.suggest_youtube_url(entry["slug"])
+        songs.suggest_youtube_candidates(entry["slug"])
 
 
 def test_velocity_mapping():

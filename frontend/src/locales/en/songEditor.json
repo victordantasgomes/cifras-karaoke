@@ -80,7 +80,12 @@
     "suggestingYoutube": "Searching…",
     "suggestYoutubeTitle": "Search YouTube for a real video of this song (title + artist)",
     "suggestYoutubeNotFound": "No video found for this song.",
-    "suggestYoutubeError": "Couldn't search YouTube."
+    "suggestYoutubeError": "Couldn't search YouTube.",
+    "youtubeSuggestModalTitle": "YouTube video suggestion",
+    "youtubeSuggestAnother": "Suggest another",
+    "youtubeSuggestAccept": "Accept suggestion",
+    "youtubeSuggestCancel": "Cancel",
+    "youtubeSuggestCount": "option {{current}} of {{total}}"
   },
   "audio": {
     "referenceTrack": "Reference track",

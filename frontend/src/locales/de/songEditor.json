@@ -80,7 +80,12 @@
     "suggestingYoutube": "Suche läuft…",
     "suggestYoutubeTitle": "Sucht auf YouTube nach einem echten Video zu diesem Song (Titel + Interpret)",
     "suggestYoutubeNotFound": "Kein Video für diesen Song gefunden.",
-    "suggestYoutubeError": "YouTube-Suche fehlgeschlagen."
+    "suggestYoutubeError": "YouTube-Suche fehlgeschlagen.",
+    "youtubeSuggestModalTitle": "YouTube-Videovorschlag",
+    "youtubeSuggestAnother": "Anderes vorschlagen",
+    "youtubeSuggestAccept": "Vorschlag übernehmen",
+    "youtubeSuggestCancel": "Abbrechen",
+    "youtubeSuggestCount": "Option {{current}} von {{total}}"
   },
   "audio": {
     "referenceTrack": "Referenz-Track",

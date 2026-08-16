@@ -80,7 +80,12 @@
     "suggestingYoutube": "搜索中…",
     "suggestYoutubeTitle": "在 YouTube 上搜索这首歌的真实视频(标题 + 歌手)",
     "suggestYoutubeNotFound": "未找到这首歌的视频。",
-    "suggestYoutubeError": "无法在 YouTube 上搜索。"
+    "suggestYoutubeError": "无法在 YouTube 上搜索。",
+    "youtubeSuggestModalTitle": "YouTube 视频建议",
+    "youtubeSuggestAnother": "换一个建议",
+    "youtubeSuggestAccept": "接受建议",
+    "youtubeSuggestCancel": "取消",
+    "youtubeSuggestCount": "第 {{current}} 个,共 {{total}} 个"
   },
   "audio": {
     "referenceTrack": "参考音轨",

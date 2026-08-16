@@ -6,6 +6,7 @@ import api from '../services/api'
 import { useAuthStore } from '../store/authStore'
 import ChordSheet from '../components/ChordSheet'
 import SyncWorkspace from '../components/SyncWorkspace'
+import YoutubeSuggestModal from '../components/YoutubeSuggestModal'
 import { parseBody } from '../utils/lineClassifier'
 import { groupIntoSteps } from '../utils/steps'
 import { resolveTimeline, estimateSynthDuration } from '../utils/timeline'
@@ -249,17 +250,21 @@ export default function SongEditor() {
     },
   })
 
+  // candidatos vindos do botão "Sugerir" (abre YoutubeSuggestModal) — null
+  // quando o modal está fechado. Nada é gravado no cabeçalho até o usuário
+  // clicar "Aceitar sugestão" dentro do modal (ver acceptYoutubeSuggestion).
+  const [youtubeCandidates, setYoutubeCandidates] = useState(null)
   const suggestYoutube = useMutation({
-    mutationFn: () => api.post(`/songs/${slug}/suggest-youtube`),
-    onSuccess: (r) => {
-      const url = r.data.url
-      if (!url) return
-      const newHeader = { ...header, [YOUTUBE_FIELD]: url }
-      setHeader(newHeader)
-      setDirty(true)
-      pushHistorySnapshot(newHeader, body)
-    },
+    mutationFn: () => api.post(`/songs/${slug}/suggest-youtube`).then((r) => r.data.candidates),
+    onSuccess: (candidates) => setYoutubeCandidates(candidates), // [] = "nenhum encontrado", mostrado inline
   })
+  const acceptYoutubeSuggestion = (url) => {
+    const newHeader = { ...header, [YOUTUBE_FIELD]: url }
+    setHeader(newHeader)
+    setDirty(true)
+    pushHistorySnapshot(newHeader, body)
+    setYoutubeCandidates(null)
+  }
 
   const toggleFav = useMutation({
     mutationFn: () => api.post(`/songs/${slug}/favorite`, { value: !(header?.favorita === 'sim') }),
@@ -546,7 +551,7 @@ export default function SongEditor() {
               <input className="input" type="url" placeholder={t('edit.youtubeUrlPlaceholder')}
                 value={header[YOUTUBE_FIELD] || ''}
                 onChange={(e) => updateHeaderField(YOUTUBE_FIELD, e.target.value)} />
-              {suggestYoutube.isSuccess && !suggestYoutube.data.data.url && (
+              {youtubeCandidates?.length === 0 && (
                 <div className="page-sub" style={{ margin: '4px 0 0', fontSize: 12 }}>
                   {t('edit.suggestYoutubeNotFound')}
                 </div>
@@ -619,6 +624,12 @@ export default function SongEditor() {
       )}
 
       {tab === 'versions' && <Versions slug={slug} />}
+
+      {youtubeCandidates?.length > 0 && (
+        <YoutubeSuggestModal candidates={youtubeCandidates}
+          onAccept={acceptYoutubeSuggestion}
+          onClose={() => setYoutubeCandidates(null)} />
+      )}
     </>
   )
 }

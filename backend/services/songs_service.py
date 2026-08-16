@@ -471,17 +471,19 @@ class SongsService:
         status = self.youtube_link_status()
         return {"processed": len(batch), "found": found, **status}
 
-    def suggest_youtube_url(self, slug: str) -> str | None:
-        """Sugestão sob demanda pra UMA música (botão no editor) — não
-        salva nada, só devolve a URL encontrada pro frontend preencher o
-        campo (o usuário confirma ao clicar Salvar, mesmo padrão da
-        sugestão de cabeçalho via IA)."""
+    def suggest_youtube_candidates(self, slug: str, max_results: int = 5) -> list[dict]:
+        """Sugestão sob demanda pra UMA música (botão "Sugerir" no editor) —
+        não salva nada, devolve até `max_results` candidatos (vídeo_id,
+        título, url) pro frontend mostrar num modal com miniplayer + "Sugerir
+        outro"/"Aceitar"/"Cancelar". O usuário decide qual usar — nada é
+        gravado até ele aceitar (mesmo espírito da sugestão de cabeçalho via
+        IA: nunca salva sozinho)."""
         if not self.youtube:
             raise RuntimeError("YoutubeService não configurado.")
         row = self._fetch(slug)
         if not row:
             raise SongNotFound(slug)
-        return self.youtube.search_video_url(row["interprete"], strip_title_suffix(row["titulo"]))
+        return self.youtube.search_videos(row["interprete"], strip_title_suffix(row["titulo"]), max_results=max_results)
 
     def _clone_and_update(self, user_id: str, editor_name: str, row: dict, header: dict, body: str) -> dict:
         full_header = {f: str(header.get(f, "")) for f in HEADER_FIELDS}

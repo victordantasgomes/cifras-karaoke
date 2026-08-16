@@ -529,12 +529,12 @@ def build_blueprint(ctx) -> Blueprint:
     @protected
     def suggest_youtube(slug):
         try:
-            url = ctx.songs.suggest_youtube_url(slug)
+            candidates = ctx.songs.suggest_youtube_candidates(slug)
         except SongNotFound:
             return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
         except YoutubeError as e:
             return jsonify({"error": str(e), "error_code": "YOUTUBE_SUGGESTION_FAILED"}), 502
-        return jsonify({"url": url})
+        return jsonify({"candidates": candidates})
 
     @api.get("/songs/<slug>/export")
     @protected

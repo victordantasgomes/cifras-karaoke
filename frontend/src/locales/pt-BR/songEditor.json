@@ -80,7 +80,12 @@
     "suggestingYoutube": "Buscando…",
     "suggestYoutubeTitle": "Busca um vídeo real no YouTube pra esta música (título + intérprete)",
     "suggestYoutubeNotFound": "Nenhum vídeo encontrado pra esta música.",
-    "suggestYoutubeError": "Não foi possível buscar no YouTube."
+    "suggestYoutubeError": "Não foi possível buscar no YouTube.",
+    "youtubeSuggestModalTitle": "Sugestão de vídeo do YouTube",
+    "youtubeSuggestAnother": "Sugerir outro",
+    "youtubeSuggestAccept": "Aceitar sugestão",
+    "youtubeSuggestCancel": "Cancelar",
+    "youtubeSuggestCount": "opção {{current}} de {{total}}"
   },
   "audio": {
     "referenceTrack": "Faixa de referência",

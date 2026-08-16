@@ -80,7 +80,12 @@
     "suggestingYoutube": "Поиск…",
     "suggestYoutubeTitle": "Ищет на YouTube настоящее видео для этой песни (название + исполнитель)",
     "suggestYoutubeNotFound": "Видео для этой песни не найдено.",
-    "suggestYoutubeError": "Не удалось выполнить поиск на YouTube."
+    "suggestYoutubeError": "Не удалось выполнить поиск на YouTube.",
+    "youtubeSuggestModalTitle": "Предложение видео с YouTube",
+    "youtubeSuggestAnother": "Предложить другое",
+    "youtubeSuggestAccept": "Принять предложение",
+    "youtubeSuggestCancel": "Отмена",
+    "youtubeSuggestCount": "вариант {{current}} из {{total}}"
   },
   "audio": {
     "referenceTrack": "Референсная дорожка",
