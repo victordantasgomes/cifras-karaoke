@@ -1,5 +1,5 @@
 import { useEffect, useLayoutEffect, useRef, useState } from 'react'
-import { useNavigate, useParams } from 'react-router-dom'
+import { useLocation, useNavigate, useParams } from 'react-router-dom'
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { useTranslation } from 'react-i18next'
 import api from '../services/api'
@@ -74,6 +74,8 @@ export default function SongEditor() {
   const { t } = useTranslation('songEditor')
   const { slug } = useParams()
   const navigate = useNavigate()
+  const location = useLocation()
+  const fromSetlistId = location.state?.fromSetlistId
   const qc = useQueryClient()
   const user = useAuthStore((s) => s.user)
   const [header, setHeader] = useState(null)
@@ -185,7 +187,7 @@ export default function SongEditor() {
       if (sameHeader(sentHeader, header) && sentBody === body) setDirty(false)
       qc.invalidateQueries(['songs'])
       const newSlug = d.slug
-      if (newSlug !== slug) navigate(`/musicas/${newSlug}`, { replace: true })
+      if (newSlug !== slug) navigate(`/musicas/${newSlug}`, { replace: true, state: { fromSetlistId } })
       else qc.invalidateQueries(['song', slug])
     },
   })
@@ -231,7 +233,7 @@ export default function SongEditor() {
         // "desfazer imediato" que acabamos de empilhar.
         loadedSlug.current = newSlug
         qc.setQueryData(['song', newSlug], r.data)
-        navigate(`/musicas/${newSlug}`, { replace: true })
+        navigate(`/musicas/${newSlug}`, { replace: true, state: { fromSetlistId } })
       } else {
         qc.invalidateQueries(['song', slug])
       }
@@ -307,7 +309,7 @@ export default function SongEditor() {
     mutationFn: () => api.post(`/songs/${slug}/clone`),
     onSuccess: (r) => {
       qc.invalidateQueries(['songs'])
-      navigate(`/musicas/${r.data.slug}`, { replace: true })
+      navigate(`/musicas/${r.data.slug}`, { replace: true, state: { fromSetlistId } })
     },
   })
 
@@ -438,6 +440,11 @@ export default function SongEditor() {
           </div>
         </div>
         <div className="row">
+          {fromSetlistId && (
+            <button className="btn no-print" onClick={() => navigate(`/setlists/${fromSetlistId}`)}>
+              {t('actions.backToSetlist')}
+            </button>
+          )}
           <button className="btn primary" onClick={() => navigate(`/karaoke/${slug}`)}>{t('actions.karaoke')}</button>
           <button className="btn" onClick={() => toggleFav.mutate()}>
             {header.favorita === 'sim' ? t('actions.favorited') : t('actions.favorite')}

@@ -16,7 +16,8 @@
     "delete": "Supprimer",
     "confirmDelete": "Supprimer cette chanson ? Elle sera retirée de toutes les setlists.",
     "clone": "Cloner la chanson",
-    "cloning": "Clonage…"
+    "cloning": "Clonage…",
+    "backToSetlist": "← Retour à la setlist"
   },
   "notOwnerBanner": "Cette chanson appartient à un autre utilisateur — seul son créateur (ou un admin) peut la modifier directement. Cliquez sur «Cloner la chanson» pour créer votre propre copie modifiable. L'envoi d'audio/samples et la suppression restent aussi réservés au créateur.",
   "tabs": {

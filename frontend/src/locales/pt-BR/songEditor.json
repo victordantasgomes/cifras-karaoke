@@ -16,7 +16,8 @@
     "delete": "Excluir",
     "confirmDelete": "Excluir esta música? Ela sairá de todos os setlists.",
     "clone": "Clonar música",
-    "cloning": "Clonando…"
+    "cloning": "Clonando…",
+    "backToSetlist": "← Voltar pro setlist"
   },
   "notOwnerBanner": "Esta música é de outro usuário — só quem criou (ou um admin) pode editá-la diretamente. Clique em “Clonar música” pra criar sua própria cópia editável. Enviar áudio/samples e excluir também ficam restritos a quem criou.",
   "tabs": {

@@ -167,7 +167,7 @@ export default function SetlistDetail() {
                 </div>
               </div>
               {item.song && (
-                <button className="btn no-print" onClick={(e) => { e.stopPropagation(); navigate(`/musicas/${item.song.slug}`) }}
+                <button className="btn no-print" onClick={(e) => { e.stopPropagation(); navigate(`/musicas/${item.song.slug}`, { state: { fromSetlistId: id } }) }}
                   title={t('editSong')}>✎</button>
               )}
               {item.song && (

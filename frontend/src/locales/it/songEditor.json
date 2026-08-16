@@ -16,7 +16,8 @@
     "delete": "Elimina",
     "confirmDelete": "Eliminare questo brano? Verrà rimosso da tutte le scalette.",
     "clone": "Clona canzone",
-    "cloning": "Clonazione…"
+    "cloning": "Clonazione…",
+    "backToSetlist": "← Torna alla setlist"
   },
   "notOwnerBanner": "Questa canzone appartiene a un altro utente — solo chi l'ha creata (o un admin) può modificarla direttamente. Clicca su “Clona canzone” per creare la tua copia modificabile. Anche caricare audio/sample ed eliminare restano riservati a chi l'ha creata.",
   "tabs": {
