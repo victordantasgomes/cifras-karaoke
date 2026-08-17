@@ -648,7 +648,8 @@ class SongsService:
 
     # ---------- transposição ----------
     def transpose(self, user_id: str, slug: str, *, semitones: int | None = None,
-                  to_key: str | None = None, save: bool = False, editor_name: str = "") -> dict:
+                  to_key: str | None = None, save: bool = False, editor_name: str = "",
+                  is_admin: bool = False) -> dict:
         data = self.get(user_id, slug)
         current_key = data["header"].get("tom", "")
         if semitones is None:
@@ -665,11 +666,11 @@ class SongsService:
         header["tom"] = new_key
 
         if save:
-            self.update(user_id, slug, header, new_body, editor_name=editor_name)
+            self.update(user_id, slug, header, new_body, editor_name=editor_name, is_admin=is_admin)
         return {"tom": new_key, "semitones": semitones, "body": new_body, "header": header}
 
     # ---------- normalização ----------
-    def normalize(self, user_id: str, slug: str, editor_name: str = "") -> dict:
+    def normalize(self, user_id: str, slug: str, editor_name: str = "", is_admin: bool = False) -> dict:
         """Padroniza cabeçalho, notação de acordes e rótulos de seção — nunca
         mexe no espaçamento entre acorde e letra (ver utils/song_normalizer.py).
         Salva via update(), que já arquiva o estado anterior em song_versions
@@ -678,7 +679,7 @@ class SongsService:
         do mesmo jeito que qualquer edição, se quem normaliza não é o dono."""
         data = self.get(user_id, slug)
         header, body = normalize_song(data["header"], data["body"])
-        result = self.update(user_id, slug, header, body, editor_name=editor_name)
+        result = self.update(user_id, slug, header, body, editor_name=editor_name, is_admin=is_admin)
         # update() só devolve as colunas soltas (mesmo formato de create()) —
         # o editor precisa do header/body completos pra atualizar a tela sem
         # esperar o refetch.

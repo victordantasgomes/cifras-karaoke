@@ -504,6 +504,7 @@ def build_blueprint(ctx) -> Blueprint:
                 to_key=d.get("to_key"),
                 save=bool(d.get("save")),
                 editor_name=g.name,
+                is_admin=g.is_admin,
             ))
         except ValueError as e:
             return jsonify({"error": str(e), "error_code": "TRANSPOSE_INVALID"}), 400
@@ -517,7 +518,7 @@ def build_blueprint(ctx) -> Blueprint:
     @protected
     def normalize_song_route(slug):
         try:
-            return jsonify(ctx.songs.normalize(g.user_id, slug, editor_name=g.name))
+            return jsonify(ctx.songs.normalize(g.user_id, slug, editor_name=g.name, is_admin=g.is_admin))
         except SongNotFound:
             return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
         except NotOwner:
