@@ -66,10 +66,11 @@ def normalize_song(header: dict, body: str) -> tuple[dict, str]:
     header["tom_original"] = header.get("tom_original") or tom_atual
 
     # limpa a base (CAIXA ALTA / minúsculo-com-hífen herdado de nome de
-    # arquivo, ver clean_title) ANTES de reaplicar o sufixo "- intérprete -
-    # cifra original" — nunca opera sobre o sufixo em si.
-    base_titulo = clean_title(strip_title_suffix(header.get("titulo", "")))
-    header["titulo"] = apply_original_suffix(base_titulo, header.get("intérprete", ""))
+    # arquivo, ver clean_title) ANTES de reaplicar o sufixo "- intérprete" —
+    # nunca opera sobre o sufixo em si.
+    interprete = header.get("intérprete", "")
+    base_titulo = clean_title(strip_title_suffix(header.get("titulo", ""), interprete))
+    header["titulo"] = apply_original_suffix(base_titulo, interprete)
 
     prefer_flats = "b" in tom_atual
     body = transpose_body(body, 0, prefer_flats=prefer_flats)

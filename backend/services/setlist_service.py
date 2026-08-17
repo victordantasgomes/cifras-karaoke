@@ -48,9 +48,9 @@ class SetlistService:
         Cada ref busca um conjunto pequeno de candidatos pelo índice trigram
         de `titulo` (mesma ideia do SearchService) e só entre esses a
         comparação exata por slugify(interprete, titulo) decide o match —
-        `strip_title_suffix` porque títulos normalizados/clonados ganham um
-        sufixo ("... - cifra original"/"... - cifra editada por: X") que uma
-        ref escrita antes disso não tem.
+        `strip_title_suffix` porque títulos normalizados ganham um "- <intérprete>"
+        (ou "- <intérprete> - cifra editada por: X", se for um clone editado)
+        que uma ref escrita antes disso não tem.
 
         `favorita` vem de `user_song_prefs` (por usuário, mesmo padrão de
         SongsService.get()/SearchService — `songs.favorita` é só o valor
@@ -86,10 +86,10 @@ class SetlistService:
                 # sufixo incluído. Sem isso o alvo (sufixado) nunca batia com
                 # o candidato (sempre sem sufixo, ver abaixo) — toda música já
                 # normalizada adicionada a um setlist ficava "não encontrada".
-                target = (slugify(artist), slugify(strip_title_suffix(title)))
+                target = (slugify(artist), slugify(strip_title_suffix(title, artist)))
                 match = next(
                     (dict(c) for c in candidates
-                     if (slugify(c["interprete"]), slugify(strip_title_suffix(c["titulo"]))) == target),
+                     if (slugify(c["interprete"]), slugify(strip_title_suffix(c["titulo"], c["interprete"]))) == target),
                     None,
                 )
                 out.append(match)

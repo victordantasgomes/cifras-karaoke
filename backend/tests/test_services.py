@@ -98,16 +98,16 @@ def test_normalize_sets_flags_and_renames_title(ctx):
     entry = _create(songs)
     result = songs.normalize("u1", entry["slug"])
     assert result["normalizada"] is True
-    assert result["titulo"] == "Yellow - Coldplay - cifra original"
+    assert result["titulo"] == "Yellow - Coldplay"
 
 
 def test_normalize_creates_history_version(ctx):
     songs, _, _ = ctx
     entry = _create(songs)
     songs.normalize("u1", entry["slug"])
-    # o slug ignora o sufixo "- intérprete - cifra original" do título
-    # normalizado (ver strip_title_suffix em songs_service.py) — senão
-    # duplicava o intérprete e ganhava "cifra"/"original" como segmentos.
+    # o slug ignora o sufixo "- intérprete" do título normalizado (ver
+    # strip_title_suffix em songs_service.py) — senão duplicava o intérprete
+    # no slug.
     song_id = songs.get_id("u1", "pop--coldplay--yellow")
     with db.get_pool().connection() as conn:
         version = conn.execute(
@@ -622,7 +622,7 @@ def test_setlist_ref_resolves_after_title_gets_normalized_suffix(ctx):
     songs.normalize("u1", entry["slug"])
     item = setlists.get("u1", created["id"])["items"][0]
     assert item["song"] is not None
-    assert item["song"]["titulo"] == "Yellow - Coldplay - cifra original"
+    assert item["song"]["titulo"] == "Yellow - Coldplay"
 
 
 def test_setlist_ref_resolves_when_added_with_already_normalized_title(ctx):
@@ -635,11 +635,11 @@ def test_setlist_ref_resolves_when_added_with_already_normalized_title(ctx):
     songs, setlists, _ = ctx
     entry = _create(songs)
     songs.normalize("u1", entry["slug"])
-    ref = "Coldplay/Yellow - Coldplay - cifra original"  # mesmo formato que o SongPicker monta
+    ref = "Coldplay/Yellow - Coldplay"  # mesmo formato que o SongPicker monta
     created = setlists.save("u1", "Show", [ref])
     item = setlists.get("u1", created["id"])["items"][0]
     assert item["song"] is not None
-    assert item["song"]["titulo"] == "Yellow - Coldplay - cifra original"
+    assert item["song"]["titulo"] == "Yellow - Coldplay"
 
 
 def test_editing_song_interprete_repairs_existing_setlist_refs(ctx):

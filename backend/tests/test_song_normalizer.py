@@ -27,13 +27,21 @@ def test_normalize_sets_normalizada_flag():
 
 def test_normalize_applies_title_suffix():
     header, _ = normalize_song({"titulo": "Trem Bala", "intérprete": "Ana Vilela"}, "corpo")
-    assert header["titulo"] == "Trem Bala - Ana Vilela - cifra original"
+    assert header["titulo"] == "Trem Bala - Ana Vilela"
 
 
 def test_normalize_title_suffix_is_idempotent():
     header, _ = normalize_song({"titulo": "Trem Bala", "intérprete": "Ana Vilela"}, "corpo")
     header2, _ = normalize_song(header, "corpo")
-    assert header2["titulo"] == "Trem Bala - Ana Vilela - cifra original"
+    assert header2["titulo"] == "Trem Bala - Ana Vilela"
+
+
+def test_normalize_strips_legacy_cifra_original_suffix():
+    # migração: normalizar de novo uma música que ainda carregava o antigo
+    # marcador "- cifra original" (removido a pedido do usuário) não deve
+    # deixar o marcador nem duplicar o intérprete.
+    header, _ = normalize_song({"titulo": "Trem Bala - Ana Vilela - cifra original", "intérprete": "Ana Vilela"}, "corpo")
+    assert header["titulo"] == "Trem Bala - Ana Vilela"
 
 
 def test_normalize_never_moves_chord_columns():
@@ -74,30 +82,43 @@ def test_normalize_cleans_slug_style_title_before_suffix():
     # título herdado de nome de arquivo (import antigo) — minúsculo,
     # hífen separando palavra por palavra.
     header, _ = normalize_song({"titulo": "a-alegria", "intérprete": "Zeca Pagodinho"}, "corpo")
-    assert header["titulo"] == "A Alegria - Zeca Pagodinho - cifra original"
+    assert header["titulo"] == "A Alegria - Zeca Pagodinho"
 
 
 def test_normalize_cleans_all_caps_title_before_suffix():
     header, _ = normalize_song({"titulo": "A DESCONHECIDA", "intérprete": "Zeca Pagodinho"}, "corpo")
-    assert header["titulo"] == "A Desconhecida - Zeca Pagodinho - cifra original"
+    assert header["titulo"] == "A Desconhecida - Zeca Pagodinho"
 
 
 def test_normalize_reruns_cleanly_on_already_normalized_title():
     # renormalizar não deve tentar limpar o sufixo em si nem duplicar nada.
     header, _ = normalize_song({"titulo": "a-alegria", "intérprete": "Zeca Pagodinho"}, "corpo")
     header2, _ = normalize_song(header, "corpo")
-    assert header2["titulo"] == "A Alegria - Zeca Pagodinho - cifra original"
+    assert header2["titulo"] == "A Alegria - Zeca Pagodinho"
 
 
 # ---------- utils/song_title.py ----------
 
-def test_strip_title_suffix_removes_original():
+def test_strip_title_suffix_removes_legacy_original():
+    # legado: "- cifra original" não é mais gerado (ver apply_original_suffix),
+    # mas ainda precisa ser reconhecido/removido de títulos antigos.
     assert strip_title_suffix("Trem Bala - Ana Vilela - cifra original") == "Trem Bala"
 
 
 def test_strip_title_suffix_removes_edited():
     titulo = "Trem Bala - Ana Vilela - cifra editada por: Victor"
     assert strip_title_suffix(titulo) == "Trem Bala"
+
+
+def test_strip_title_suffix_removes_bare_interprete_when_given():
+    assert strip_title_suffix("Trem Bala - Ana Vilela", "Ana Vilela") == "Trem Bala"
+
+
+def test_strip_title_suffix_leaves_bare_interprete_untouched_without_interprete_arg():
+    # sem saber o intérprete, não dá pra distinguir "- Fulano" que é um
+    # sufixo de "- Fulano" que faz parte do título de verdade — só remove
+    # os sufixos com marcador reconhecível (cifra original/editada por).
+    assert strip_title_suffix("Trem Bala - Ana Vilela") == "Trem Bala - Ana Vilela"
 
 
 def test_strip_title_suffix_noop_on_clean_title():
@@ -107,7 +128,7 @@ def test_strip_title_suffix_noop_on_clean_title():
 def test_apply_original_suffix_idempotent():
     once = apply_original_suffix("Trem Bala", "Ana Vilela")
     twice = apply_original_suffix(once, "Ana Vilela")
-    assert once == twice == "Trem Bala - Ana Vilela - cifra original"
+    assert once == twice == "Trem Bala - Ana Vilela"
 
 
 def test_apply_edited_suffix_replaces_original():

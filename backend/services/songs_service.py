@@ -173,11 +173,13 @@ class SongsService:
             song.header.setdefault(f, "")
 
         denorm = _denormalize(song.header)
-        # strip_title_suffix: título já normalizado vem com "- intérprete -
-        # cifra original" embutido (ver song_normalizer.py) — sem isso o
-        # slug duplicava o intérprete e ganhava "cifra"/"original" como
-        # segmentos soltos (ex.: "pop--coldplay--yellow---coldplay---cifra-original").
-        base_slug = slugify(genre, song.header["intérprete"], strip_title_suffix(song.header["titulo"])) or slugify(title)
+        # strip_title_suffix: título já normalizado vem com "- intérprete"
+        # embutido (ver song_normalizer.py) — sem isso o slug duplicava o
+        # intérprete (ex.: "pop--coldplay--yellow-coldplay").
+        base_slug = slugify(
+            genre, song.header["intérprete"],
+            strip_title_suffix(song.header["titulo"], song.header["intérprete"]),
+        ) or slugify(title)
         with db.get_pool().connection() as conn:
             shared = _share_by_default(conn, user_id)
             slug = _unique_slug(conn, base_slug)
@@ -235,7 +237,10 @@ class SongsService:
                 "insert into song_versions (song_id, header, body) values (%s, %s, %s)",
                 (row["id"], Json(row["header"]), row["body"]),
             )
-            base_slug = slugify(row["genero"], full_header.get("intérprete", ""), strip_title_suffix(full_header.get("titulo", ""))) or row["slug"]
+            base_slug = slugify(
+                row["genero"], full_header.get("intérprete", ""),
+                strip_title_suffix(full_header.get("titulo", ""), full_header.get("intérprete", "")),
+            ) or row["slug"]
             new_slug = _unique_slug(conn, base_slug, exclude_id=row["id"])
             new_row = conn.execute(
                 f"""update songs set slug=%(slug)s, titulo=%(titulo)s, autor=%(autor)s,
@@ -270,10 +275,10 @@ class SongsService:
         ANTERIOR desta música — mesma ambiguidade inerente ao formato de
         texto já existente em _resolve_many (duas músicas com o mesmo nome
         antigo são indistinguíveis aqui também)."""
-        old_target = (slugify(old_interprete), slugify(strip_title_suffix(old_titulo)))
-        new_target = (slugify(new_interprete), slugify(strip_title_suffix(new_titulo)))
+        old_target = (slugify(old_interprete), slugify(strip_title_suffix(old_titulo, old_interprete)))
+        new_target = (slugify(new_interprete), slugify(strip_title_suffix(new_titulo, new_interprete)))
         if new_target != old_target and old_target[1]:
-            old_title_stripped = strip_title_suffix(old_titulo)
+            old_title_stripped = strip_title_suffix(old_titulo, old_interprete)
             candidates = conn.execute(
                 "select id, ref from setlist_items where ref ILIKE %s", (f"%{old_title_stripped}%",),
             ).fetchall()
@@ -282,7 +287,7 @@ class SongsService:
                 if "/" not in c["ref"]:
                     continue
                 artist, title = c["ref"].split("/", 1)
-                if (slugify(artist), slugify(strip_title_suffix(title))) == old_target:
+                if (slugify(artist), slugify(strip_title_suffix(title, artist))) == old_target:
                     conn.execute("update setlist_items set ref=%s where id=%s", (new_ref, c["id"]))
         # segunda passada, sempre (independente de a identidade ter mudado
         # ou não): conserta refs "órfãs" — que _resolve_many não encontra
@@ -307,7 +312,7 @@ class SongsService:
         música errada. `setlist_items` tem só algumas centenas de linhas
         hoje — dá pra escanear a tabela inteira sem o cuidado de projeção
         que _songs_missing_youtube_url precisa pras ~24 mil músicas."""
-        title_stripped = strip_title_suffix(titulo)
+        title_stripped = strip_title_suffix(titulo, interprete)
         target_title = slugify(title_stripped)
         if not target_title:
             return 0
@@ -320,7 +325,7 @@ class SongsService:
         # genuinamente ambíguo demais pra decidir sozinho.
         distinct_artists = {
             slugify(r["interprete"]) for r in same_title_songs
-            if slugify(strip_title_suffix(r["titulo"])) == target_title
+            if slugify(strip_title_suffix(r["titulo"], r["interprete"])) == target_title
         }
         if len(distinct_artists) > 1:
             return 0
@@ -331,7 +336,7 @@ class SongsService:
             if "/" not in r["ref"]:
                 continue
             artist, ref_title = r["ref"].split("/", 1)
-            candidate = (slugify(artist), slugify(strip_title_suffix(ref_title)))
+            candidate = (slugify(artist), slugify(strip_title_suffix(ref_title, artist)))
             if candidate[1] != target_title or candidate == target:
                 continue
             conn.execute("update setlist_items set ref=%s where id=%s", (new_ref, r["id"]))
@@ -340,7 +345,7 @@ class SongsService:
 
     # ---------- músicas duplicadas ("mesmo nome, letra muito parecida") ----------
     def _duplicate_group_key(self, interprete: str, titulo: str) -> tuple[str, str]:
-        return (slugify(interprete or ""), slugify(strip_title_suffix(titulo or "")))
+        return (slugify(interprete or ""), slugify(strip_title_suffix(titulo or "", interprete or "")))
 
     def _cluster_by_lyrics(self, members: list[dict]) -> list[list[dict]]:
         """Agrupa `members` (dicts com pelo menos 'body') por similaridade de
@@ -408,7 +413,7 @@ class SongsService:
         key = self._duplicate_group_key(interprete, titulo)
         if not key[1]:
             return
-        stripped = strip_title_suffix(titulo or "")
+        stripped = strip_title_suffix(titulo or "", interprete or "")
         candidates = conn.execute(
             "select id, interprete, titulo from songs where titulo ILIKE %s", (f"%{stripped}%",),
         ).fetchall()
@@ -552,7 +557,9 @@ class SongsService:
         row = self._fetch(slug)
         if not row:
             raise SongNotFound(slug)
-        return self.youtube.search_videos(row["interprete"], strip_title_suffix(row["titulo"]), max_results=max_results)
+        return self.youtube.search_videos(
+            row["interprete"], strip_title_suffix(row["titulo"], row["interprete"]), max_results=max_results,
+        )
 
     def _clone_and_update(self, user_id: str, editor_name: str, row: dict, header: dict, body: str) -> dict:
         full_header = {f: str(header.get(f, "")) for f in HEADER_FIELDS}
@@ -560,7 +567,10 @@ class SongsService:
             full_header.get("titulo", ""), full_header.get("intérprete", ""), editor_name,
         )
         denorm = _denormalize(full_header)
-        base_slug = slugify(row["genero"], full_header.get("intérprete", ""), strip_title_suffix(full_header["titulo"])) or row["slug"]
+        base_slug = slugify(
+            row["genero"], full_header.get("intérprete", ""),
+            strip_title_suffix(full_header["titulo"], full_header.get("intérprete", "")),
+        ) or row["slug"]
 
         with db.get_pool().connection() as conn:
             # a cópia segue a preferência de compartilhamento de QUEM EDITOU
