@@ -32,7 +32,9 @@
     "rating": "Nota:",
     "normalizeTitle": "Estandariza encabezado, notación de acordes y etiquetas de sección — nunca toca el espaciado entre acorde y letra",
     "normalizing": "Normalizando…",
-    "normalize": "🧼 Normalizar"
+    "normalize": "🧼 Normalizar",
+    "transposeError": "No fue posible transportar esta canción.",
+    "normalizeError": "No fue posible normalizar esta canción."
   },
   "edit": {
     "header": "Encabezado",

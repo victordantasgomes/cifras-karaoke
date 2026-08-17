@@ -32,7 +32,9 @@
     "rating": "Note :",
     "normalizeTitle": "Normalise l'en-tête, la notation des accords et les libellés de section — ne touche jamais à l'espacement entre l'accord et les paroles",
     "normalizing": "Normalisation…",
-    "normalize": "🧼 Normaliser"
+    "normalize": "🧼 Normaliser",
+    "transposeError": "Impossible de transposer ce morceau.",
+    "normalizeError": "Impossible de normaliser ce morceau."
   },
   "edit": {
     "header": "En-tête",

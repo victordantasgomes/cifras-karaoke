@@ -32,7 +32,9 @@
     "rating": "Bewertung:",
     "normalizeTitle": "Standardisiert Kopfzeile, Akkordnotation und Abschnittsbezeichnungen — verändert nie den Abstand zwischen Akkord und Text",
     "normalizing": "Wird normalisiert…",
-    "normalize": "🧼 Normalisieren"
+    "normalize": "🧼 Normalisieren",
+    "transposeError": "Dieser Song konnte nicht transponiert werden.",
+    "normalizeError": "Dieser Song konnte nicht normalisiert werden."
   },
   "edit": {
     "header": "Kopfzeile",

@@ -32,7 +32,9 @@
     "rating": "Rating:",
     "normalizeTitle": "Standardizes header, chord notation, and section labels — never touches the spacing between chords and lyrics",
     "normalizing": "Normalizing…",
-    "normalize": "🧼 Normalize"
+    "normalize": "🧼 Normalize",
+    "transposeError": "Couldn't transpose this song.",
+    "normalizeError": "Couldn't normalize this song."
   },
   "edit": {
     "header": "Header",

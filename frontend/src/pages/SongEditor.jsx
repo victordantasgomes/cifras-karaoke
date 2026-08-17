@@ -222,6 +222,12 @@ export default function SongEditor() {
       qc.invalidateQueries(['songs'])
     },
   })
+  // botão fica visível mesmo pra quem não é dono (só clonando dá pra editar,
+  // ver isOwner/canEditInPlace abaixo) — sem isso o clique silenciosamente
+  // não fazia nada (403 sem tratamento nenhum na tela, bug relatado).
+  const transposeErrorText = transpose.isError
+    ? (transpose.error?.response?.data?.error || t('tabs.transposeError'))
+    : null
 
   const normalize = useMutation({
     mutationFn: () => api.post(`/songs/${slug}/normalize`),
@@ -509,9 +515,14 @@ export default function SongEditor() {
         ))}
         <div className="spacer" style={{ flex: 1 }} />
         <span style={{ color: 'var(--muted)', fontSize: 13 }}>{t('tabs.transpose')}</span>
-        <button className="btn" onClick={() => transpose.mutate({ semitones: -1 })}>{t('tabs.downHalf')}</button>
-        <button className="btn" onClick={() => transpose.mutate({ semitones: 1 })}>{t('tabs.upHalf')}</button>
-        <select className="input" style={{ width: 120 }} value=""
+        <button className="btn" disabled={!canEditInPlace}
+          title={canEditInPlace ? undefined : t('notOwnerBanner')}
+          onClick={() => transpose.mutate({ semitones: -1 })}>{t('tabs.downHalf')}</button>
+        <button className="btn" disabled={!canEditInPlace}
+          title={canEditInPlace ? undefined : t('notOwnerBanner')}
+          onClick={() => transpose.mutate({ semitones: 1 })}>{t('tabs.upHalf')}</button>
+        <select className="input" style={{ width: 120 }} value="" disabled={!canEditInPlace}
+          title={canEditInPlace ? undefined : t('notOwnerBanner')}
           onChange={(e) => e.target.value && transpose.mutate({ to_key: e.target.value })}>
           <option value="">{t('tabs.toKey')}</option>
           {KEYS.map((k) => <option key={k}>{k}</option>)}
@@ -522,12 +533,17 @@ export default function SongEditor() {
           <option value="">—</option>
           {Array.from({ length: 10 }, (_, i) => <option key={i + 1}>{i + 1}</option>)}
         </select>
-        <button className="btn" disabled={normalize.isPending}
-          title={t('tabs.normalizeTitle')}
+        <button className="btn" disabled={normalize.isPending || !canEditInPlace}
+          title={canEditInPlace ? t('tabs.normalizeTitle') : t('notOwnerBanner')}
           onClick={() => normalize.mutate()}>
           {normalize.isPending ? t('tabs.normalizing') : t('tabs.normalize')}
         </button>
       </div>
+      {(transposeErrorText || normalize.isError) && (
+        <div className="error-text no-print" style={{ margin: '-8px 0 14px', fontSize: 12.5 }}>
+          {transposeErrorText || normalize.error?.response?.data?.error || t('tabs.normalizeError')}
+        </div>
+      )}
 
       {tab === 'view' && (
         <div className="card"><ChordSheet body={body} /></div>

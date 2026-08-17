@@ -32,7 +32,9 @@
     "rating": "Nota:",
     "normalizeTitle": "Padroniza cabeçalho, notação de acordes e rótulos de seção — nunca mexe no espaçamento entre acorde e letra",
     "normalizing": "Normalizando…",
-    "normalize": "🧼 Normalizar"
+    "normalize": "🧼 Normalizar",
+    "transposeError": "Não foi possível transpor esta música.",
+    "normalizeError": "Não foi possível normalizar esta música."
   },
   "edit": {
     "header": "Cabeçalho",

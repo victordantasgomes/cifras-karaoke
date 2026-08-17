@@ -32,7 +32,9 @@
     "rating": "Voto:",
     "normalizeTitle": "Normalizza intestazione, notazione degli accordi ed etichette di sezione — non tocca mai la spaziatura tra accordo e testo",
     "normalizing": "Normalizzando…",
-    "normalize": "🧼 Normalizza"
+    "normalize": "🧼 Normalizza",
+    "transposeError": "Impossibile trasportare questo brano.",
+    "normalizeError": "Impossibile normalizzare questo brano."
   },
   "edit": {
     "header": "Intestazione",

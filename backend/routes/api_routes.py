@@ -507,6 +507,11 @@ def build_blueprint(ctx) -> Blueprint:
             ))
         except ValueError as e:
             return jsonify({"error": str(e), "error_code": "TRANSPOSE_INVALID"}), 400
+        except SongNotFound:
+            return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
+        except NotOwner:
+            return jsonify({"error": "Só quem criou esta música (ou um admin) pode transpor e salvar — clone pra fazer sua própria versão.",
+                             "error_code": "SONG_NOT_OWNER"}), 403
 
     @api.post("/songs/<slug>/normalize")
     @protected
@@ -515,6 +520,9 @@ def build_blueprint(ctx) -> Blueprint:
             return jsonify(ctx.songs.normalize(g.user_id, slug, editor_name=g.name))
         except SongNotFound:
             return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
+        except NotOwner:
+            return jsonify({"error": "Só quem criou esta música (ou um admin) pode normalizá-la — clone pra fazer sua própria versão.",
+                             "error_code": "SONG_NOT_OWNER"}), 403
 
     @api.post("/songs/<slug>/ai-suggest")
     @protected
