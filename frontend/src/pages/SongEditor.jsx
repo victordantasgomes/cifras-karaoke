@@ -234,7 +234,7 @@ export default function SongEditor() {
       qc.invalidateQueries(['songs'])
       const newSlug = r.data.slug
       if (newSlug !== slug) {
-        // título ganha sufixo ("... - cifra original"), então o slug muda —
+        // título ganha sufixo ("... - intérprete"), então o slug muda —
         // marca loadedSlug ANTES de navegar pra o efeito de "música nova"
         // (que reseta o histórico de desfazer) não disparar e apagar o
         // "desfazer imediato" que acabamos de empilhar.
@@ -290,13 +290,18 @@ export default function SongEditor() {
     onSuccess: (duration) => { if (duration) updateHeaderField('tempoexecucao', duration) },
   })
 
+  // Favoritar é por usuário (user_song_prefs, ver SongsService.get/set_favorite)
+  // — `data.favorita` já vem resolvido certo pra ESTE usuário. `header.favorita`
+  // é um campo solto do cabeçalho (@favorita "sim"/"", ver HEADER_FIELDS) que
+  // NUNCA é tocado por esta rota — usá-lo pra decidir o estado do botão fazia
+  // a estrela "piscar": o toggle otimista mexia só no header local, e o
+  // refetch seguinte trazia de volta o header antigo (sem @favorita), como se
+  // a ação tivesse sido desfeita. Grava a resposta do POST direto no cache
+  // (setQueryData) em vez de invalidar — é a fonte da verdade, sem round-trip.
   const toggleFav = useMutation({
-    mutationFn: () => api.post(`/songs/${slug}/favorite`, { value: !(header?.favorita === 'sim') }),
-    onSuccess: () => {
-      const newHeader = { ...header, favorita: header.favorita === 'sim' ? '' : 'sim' }
-      setHeader(newHeader)
-      pushHistorySnapshot(newHeader, body)
-      qc.invalidateQueries(['song', slug])
+    mutationFn: () => api.post(`/songs/${slug}/favorite`, { value: !data.favorita }),
+    onSuccess: (res) => {
+      qc.setQueryData(['song', slug], res.data)
       qc.invalidateQueries(['songs'])
     },
   })
@@ -448,7 +453,7 @@ export default function SongEditor() {
       <div className="row no-print" style={{ justifyContent: 'space-between' }}>
         <div>
           <h1 className="page-title">
-            {header.favorita === 'sim' && <span className="fav-star">★ </span>}
+            {data.favorita && <span className="fav-star">★ </span>}
             {header.titulo || data.titulo}
           </h1>
           <div className="page-sub">
@@ -465,7 +470,7 @@ export default function SongEditor() {
           )}
           <button className="btn primary" onClick={() => navigate(`/karaoke/${slug}`)}>{t('actions.karaoke')}</button>
           <button className="btn" onClick={() => toggleFav.mutate()}>
-            {header.favorita === 'sim' ? t('actions.favorited') : t('actions.favorite')}
+            {data.favorita ? t('actions.favorited') : t('actions.favorite')}
           </button>
           <button className="btn" onClick={() => window.print()}>{t('actions.print')}</button>
           <a className="btn" href={`${api.defaults.baseURL}/songs/${slug}/export`}
