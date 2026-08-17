@@ -791,8 +791,9 @@ class _FakeYoutube:
     (intérprete, título), sem bater na API de verdade. Registra a ORDEM das
     chamadas, pra testar a priorização por setlist. `urls` mapeia pra uma
     lista de candidatos OU uma única URL (vira lista de 1 automaticamente)."""
-    def __init__(self, urls=None):
+    def __init__(self, urls=None, durations=None):
         self.urls = urls or {}
+        self.durations = durations or {}  # (interprete, titulo) -> "mm:ss" do primeiro candidato
         self.calls = []
 
     def _candidates_for(self, interprete, titulo):
@@ -800,7 +801,12 @@ class _FakeYoutube:
         if not value:
             return []
         urls = value if isinstance(value, list) else [value]
-        return [{"video_id": u.rsplit("=", 1)[-1], "title": titulo, "url": u} for u in urls]
+        duration = self.durations.get((interprete, titulo))
+        return [
+            {"video_id": u.rsplit("=", 1)[-1], "title": titulo, "url": u,
+             "duration": duration if i == 0 else None}
+            for i, u in enumerate(urls)
+        ]
 
     def search_videos(self, interprete, titulo, max_results=5):
         self.calls.append((interprete, titulo))
@@ -847,6 +853,23 @@ def test_youtube_link_batch_saves_found_url(ctx):
     result = songs.youtube_link_batch(limit=10)
     assert result["found"] == 1
     assert songs.get("u1", entry["slug"])["header"]["youtube_url"] == "https://www.youtube.com/watch?v=ccccccccccc"
+
+
+def test_youtube_link_batch_also_fills_execution_time_from_duration(ctx):
+    """Reproduz o bug relatado: preencher o link em lote não preenchia
+    "Tempo de execução" — só os fluxos interativos do editor (aceitar
+    sugestão / colar link manualmente) setavam esse campo."""
+    songs, _, _ = ctx
+    entry = songs.create("u1", "Pop", "Artista E", "Musica E", "@titulo: Musica E\n\ncorpo e")
+    songs.youtube = _FakeYoutube(
+        urls={("Artista E", "Musica E"): "https://www.youtube.com/watch?v=fffffffffff"},
+        durations={("Artista E", "Musica E"): "3:45"},
+    )
+
+    songs.youtube_link_batch(limit=10)
+    header = songs.get("u1", entry["slug"])["header"]
+    assert header["youtube_url"] == "https://www.youtube.com/watch?v=fffffffffff"
+    assert header["tempoexecucao"] == "3:45"
 
 
 def test_youtube_link_batch_leaves_unfound_songs_without_url(ctx):

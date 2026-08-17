@@ -512,14 +512,31 @@ class SongsService:
         batch = prioritized[:limit]
         found = 0
         for row in batch:
-            url = self.youtube.search_video_url(row["interprete"], row["titulo"])
-            if url:
+            # search_videos (não search_video_url) pra também ganhar a
+            # duração já buscada junto (ver YoutubeService.search_videos) —
+            # sem isso, "Tempo de execução" ficava em branco pras músicas
+            # preenchidas em lote (só os fluxos interativos do editor
+            # setavam esse campo, ver acceptYoutubeSuggestion/onBlur em
+            # SongEditor.jsx — bug relatado pelo usuário).
+            results = self.youtube.search_videos(row["interprete"], row["titulo"], max_results=1)
+            if results:
                 found += 1
+                url = results[0]["url"]
+                duration = results[0].get("duration")
                 with db.get_pool().connection() as conn:
-                    conn.execute(
-                        "update songs set header = jsonb_set(header, '{youtube_url}', %s::jsonb) where id=%s",
-                        (Json(url), row["id"]),
-                    )
+                    if duration:
+                        conn.execute(
+                            """update songs set header = jsonb_set(
+                                   jsonb_set(header, '{youtube_url}', %s::jsonb),
+                                   '{tempoexecucao}', %s::jsonb)
+                               where id=%s""",
+                            (Json(url), Json(duration), row["id"]),
+                        )
+                    else:
+                        conn.execute(
+                            "update songs set header = jsonb_set(header, '{youtube_url}', %s::jsonb) where id=%s",
+                            (Json(url), row["id"]),
+                        )
         status = self.youtube_link_status()
         return {"processed": len(batch), "found": found, **status}
 
