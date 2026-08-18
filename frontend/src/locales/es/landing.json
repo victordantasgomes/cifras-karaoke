@@ -7,7 +7,8 @@
     "navFaq": "Preguntas",
     "login": "Entrar",
     "signup": "Crear cuenta",
-    "navBandBoard": "Tablón de bandas"
+    "navBandBoard": "Tablón de bandas",
+    "navExplore": "Explorar"
   },
   "hero": {
     "eyebrow": "Cifrados + karaoke, todo en un solo lugar",
@@ -159,5 +160,41 @@
     "eyebrow": "Hecho para quien sube al escenario",
     "title": "Del ensayo en casa al show grande, sin cambiar de herramienta",
     "subtitle": "De los ensayos en casa a las presentaciones con público, la misma herramienta acompaña a la banda en cualquier momento de la carrera."
+  },
+  "explore": {
+    "title": "Explora los recursos",
+    "subtitle": "Una vista rápida de lo que la banda tiene en sus manos.",
+    "syncTitle": "Sincronización",
+    "karaokeTitle": "Modo karaoke",
+    "transposeTitle": "Transposición",
+    "setlistsTitle": "Setlists",
+    "pedalTitle": "Pedal USB"
+  },
+  "liveDemo": {
+    "title": "Sonando ahora",
+    "subtitle": "Una cifra real de nuestra biblioteca, formateada automáticamente.",
+    "badge": "EN VIVO",
+    "loading": "Cargando…",
+    "cta": "Ver cifra completa"
+  },
+  "beforeAfter": {
+    "title": "Del archivo al escenario",
+    "subtitle": "Una cifra simple gana estructura y formato — sin cambiar de herramienta.",
+    "rawLabel": "Antes / pegado de cualquier lugar",
+    "syncedLabel": "Después / listo para el escenario",
+    "demoBody": "G\nLlegó la hora de subir al escenario\n       Am\nTodos ya conocen el estribillo\n        C\nSolo falta la banda completa"
+  },
+  "setlistShowcase": {
+    "title": "Setlist compartible",
+    "subtitle": "Arma el orden del show y envía un solo enlace — todos reciben la misma versión.",
+    "song1": "Apertura",
+    "song1Key": "G",
+    "song2": "Favorita del público",
+    "song2Key": "Am",
+    "song3": "Balada",
+    "song3Key": "D",
+    "song4": "Cierre",
+    "song4Key": "C",
+    "cta": "Crear mi setlist"
   }
 }

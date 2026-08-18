@@ -199,15 +199,15 @@ function LanguageSettingsCard() {
 // espelha as cores definidas em styles/global.css (:root[data-accent="..."])
 // — só pra desenhar as amostras clicáveis, a cor de verdade vem da variável CSS
 const ACCENT_SWATCHES = {
-  azul: '#4f8fef',
-  vermelho: '#ef5a5f',
-  verde: '#46c48a',
-  rosa: '#f472b6',
+  azul: '#5b87ff',
+  vermelho: '#ef5a4a',
+  verde: '#4cc48a',
+  rosa: '#f4739a',
   lilas: '#a78bfa',
-  preto: '#14161c',
-  branco: '#f5f6f8',
-  cinza: '#9aa1b0',
-  amarelo: '#f2c94c',
+  preto: '#d9d6cc',
+  branco: '#f2f0e9',
+  cinza: '#a39d8f',
+  amarelo: '#ffb000',
 }
 
 function ThemeSettingsCard() {

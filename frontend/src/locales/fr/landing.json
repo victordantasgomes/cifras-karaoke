@@ -7,7 +7,8 @@
     "navFaq": "FAQ",
     "login": "Se connecter",
     "signup": "Créer un compte",
-    "navBandBoard": "Tableau des groupes"
+    "navBandBoard": "Tableau des groupes",
+    "navExplore": "Explorer"
   },
   "hero": {
     "eyebrow": "Partitions + karaoké, tout au même endroit",
@@ -159,5 +160,41 @@
     "eyebrow": "Conçu pour ceux qui montent sur scène",
     "title": "De la répétition au grand concert, sans changer d'outil",
     "subtitle": "Des répétitions à la maison aux concerts devant le public, le même outil accompagne le groupe à chaque étape."
+  },
+  "explore": {
+    "title": "Explorez les fonctionnalités",
+    "subtitle": "Un aperçu rapide de ce que le groupe a en main.",
+    "syncTitle": "Synchronisation",
+    "karaokeTitle": "Mode karaoké",
+    "transposeTitle": "Transposition",
+    "setlistsTitle": "Setlists",
+    "pedalTitle": "Pédale USB"
+  },
+  "liveDemo": {
+    "title": "En cours de lecture",
+    "subtitle": "Une vraie grille de notre bibliothèque, formatée automatiquement.",
+    "badge": "EN DIRECT",
+    "loading": "Chargement…",
+    "cta": "Voir la grille complète"
+  },
+  "beforeAfter": {
+    "title": "Du fichier à la scène",
+    "subtitle": "Une grille toute simple gagne en structure et en mise en forme — sans changer d'outil.",
+    "rawLabel": "Avant / collé de n'importe où",
+    "syncedLabel": "Après / prêt pour la scène",
+    "demoBody": "G\nL'heure est venue de monter sur scène\n       Am\nTout le monde connaît déjà le refrain\n        C\nIl ne manque que le groupe au complet"
+  },
+  "setlistShowcase": {
+    "title": "Setlist partageable",
+    "subtitle": "Définissez l'ordre du concert et envoyez un seul lien — tout le monde reçoit la même version.",
+    "song1": "Ouverture",
+    "song1Key": "G",
+    "song2": "Préférée du public",
+    "song2Key": "Am",
+    "song3": "Ballade",
+    "song3Key": "D",
+    "song4": "Clôture",
+    "song4Key": "C",
+    "cta": "Créer ma setlist"
   }
 }

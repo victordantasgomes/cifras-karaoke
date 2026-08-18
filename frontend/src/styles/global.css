@@ -24,95 +24,95 @@
   --sample-soft: rgba(111, 168, 255, 0.14);
   --sweep-sung: var(--amber);  /* varredura estilo CDG: trecho já cantado */
   --sweep-upcoming: rgba(255, 255, 255, 0.82); /* trecho ainda por vir, na linha ativa */
-  --font-display: 'Sora', sans-serif;
-  --font-body: 'Inter', sans-serif;
-  --font-mono: 'JetBrains Mono', monospace;
+  --font-display: 'Geist Variable', sans-serif;
+  --font-body: 'Geist Variable', sans-serif;
+  --font-mono: 'Geist Mono Variable', monospace;
   --radius: 14px;
   --sidebar-w: 232px;
 }
 
 /* ---------- tema claro/escuro (cromia geral) ---------- */
 :root, :root[data-theme="dark"] {
-  --bg: #0b0d12;
-  --bg-raise: #12151d;
-  --glass: rgba(255, 255, 255, 0.045);
-  --glass-strong: rgba(255, 255, 255, 0.08);
-  --stroke: rgba(255, 255, 255, 0.09);
-  --text: #eceef3;
-  --muted: #8a90a0;
-  --sidebar-bg: rgba(15, 17, 24, 0.7);
-  --input-bg: rgba(0, 0, 0, 0.25);
-  --btn-hover-border: rgba(255, 255, 255, 0.2);
+  --bg: #0a0a09;
+  --bg-raise: #141311;
+  --glass: rgba(242, 240, 233, 0.045);
+  --glass-strong: rgba(242, 240, 233, 0.09);
+  --stroke: rgba(242, 240, 233, 0.12);
+  --text: #f2f0e9;
+  --muted: #a8a49a;
+  --sidebar-bg: rgba(10, 10, 9, 0.72);
+  --input-bg: rgba(0, 0, 0, 0.3);
+  --btn-hover-border: rgba(242, 240, 233, 0.22);
 }
 :root[data-theme="light"] {
-  --bg: #f4f5f8;
-  --bg-raise: #ffffff;
-  --glass: rgba(10, 14, 30, 0.035);
-  --glass-strong: rgba(10, 14, 30, 0.065);
-  --stroke: rgba(10, 14, 30, 0.11);
-  --text: #14161c;
-  --muted: #666c7c;
-  --sidebar-bg: rgba(255, 255, 255, 0.7);
-  --input-bg: rgba(10, 14, 30, 0.045);
-  --btn-hover-border: rgba(10, 14, 30, 0.22);
+  --bg: #f2f0e9;
+  --bg-raise: #fbfaf6;
+  --glass: rgba(8, 8, 8, 0.035);
+  --glass-strong: rgba(8, 8, 8, 0.065);
+  --stroke: rgba(8, 8, 8, 0.12);
+  --text: #141311;
+  --muted: #6b6860;
+  --sidebar-bg: rgba(242, 240, 233, 0.75);
+  --input-bg: rgba(8, 8, 8, 0.045);
+  --btn-hover-border: rgba(8, 8, 8, 0.22);
 }
 
 /* ---------- cor de destaque (8 opções × 2 temas) ----------
    --accent-ink é a cor de texto usada sobre um fundo sólido --accent
    (ex.: .btn.primary) — escolhida por contraste, não por regra fixa. */
 :root, :root[data-accent="azul"] {
-  --accent: #4f8fef; --accent-soft: rgba(79, 143, 239, 0.16); --accent-ink: #08101f;
+  --accent: #5b87ff; --accent-soft: rgba(91, 135, 255, 0.16); --accent-ink: #07091a;
 }
 :root[data-theme="light"][data-accent="azul"] {
-  --accent: #2f6fe0; --accent-soft: rgba(47, 111, 224, 0.12); --accent-ink: #ffffff;
+  --accent: #3d63e0; --accent-soft: rgba(61, 99, 224, 0.12); --accent-ink: #ffffff;
 }
 :root[data-accent="vermelho"] {
-  --accent: #ef5a5f; --accent-soft: rgba(239, 90, 95, 0.16); --accent-ink: #1f0808;
+  --accent: #ef5a4a; --accent-soft: rgba(239, 90, 74, 0.16); --accent-ink: #1c0805;
 }
 :root[data-theme="light"][data-accent="vermelho"] {
-  --accent: #dc3b41; --accent-soft: rgba(220, 59, 65, 0.12); --accent-ink: #ffffff;
+  --accent: #d43f2f; --accent-soft: rgba(212, 63, 47, 0.12); --accent-ink: #ffffff;
 }
 :root[data-accent="verde"] {
-  --accent: #46c48a; --accent-soft: rgba(70, 196, 138, 0.16); --accent-ink: #06231a;
+  --accent: #4cc48a; --accent-soft: rgba(76, 196, 138, 0.16); --accent-ink: #052015;
 }
 :root[data-theme="light"][data-accent="verde"] {
-  --accent: #22a06c; --accent-soft: rgba(34, 160, 108, 0.12); --accent-ink: #ffffff;
+  --accent: #1f9c66; --accent-soft: rgba(31, 156, 102, 0.12); --accent-ink: #ffffff;
 }
 :root[data-accent="rosa"] {
-  --accent: #f472b6; --accent-soft: rgba(244, 114, 182, 0.16); --accent-ink: #250d1b;
+  --accent: #f4739a; --accent-soft: rgba(244, 115, 154, 0.16); --accent-ink: #240d15;
 }
 :root[data-theme="light"][data-accent="rosa"] {
-  --accent: #db3d8f; --accent-soft: rgba(219, 61, 143, 0.12); --accent-ink: #ffffff;
+  --accent: #d43d72; --accent-soft: rgba(212, 61, 114, 0.12); --accent-ink: #ffffff;
 }
 :root[data-accent="lilas"] {
-  --accent: #a78bfa; --accent-soft: rgba(167, 139, 250, 0.16); --accent-ink: #170f2e;
+  --accent: #a78bfa; --accent-soft: rgba(167, 139, 250, 0.16); --accent-ink: #140f2e;
 }
 :root[data-theme="light"][data-accent="lilas"] {
   --accent: #7c5cf0; --accent-soft: rgba(124, 92, 240, 0.12); --accent-ink: #ffffff;
 }
 :root[data-accent="preto"] {
-  --accent: #d8dae2; --accent-soft: rgba(216, 218, 226, 0.14); --accent-ink: #101216;
+  --accent: #d9d6cc; --accent-soft: rgba(217, 214, 204, 0.14); --accent-ink: #0a0a09;
 }
 :root[data-theme="light"][data-accent="preto"] {
-  --accent: #14161c; --accent-soft: rgba(20, 22, 28, 0.10); --accent-ink: #ffffff;
+  --accent: #080808; --accent-soft: rgba(8, 8, 8, 0.10); --accent-ink: #f2f0e9;
 }
 :root[data-accent="branco"] {
-  --accent: #f5f6f8; --accent-soft: rgba(245, 246, 248, 0.14); --accent-ink: #14161c;
+  --accent: #f2f0e9; --accent-soft: rgba(242, 240, 233, 0.14); --accent-ink: #141311;
 }
 :root[data-theme="light"][data-accent="branco"] {
-  --accent: #ffffff; --accent-soft: rgba(20, 22, 28, 0.06); --accent-ink: #14161c;
+  --accent: #ffffff; --accent-soft: rgba(8, 8, 8, 0.06); --accent-ink: #141311;
 }
 :root[data-accent="cinza"] {
-  --accent: #9aa1b0; --accent-soft: rgba(154, 161, 176, 0.16); --accent-ink: #101216;
+  --accent: #a39d8f; --accent-soft: rgba(163, 157, 143, 0.16); --accent-ink: #0f0e0c;
 }
 :root[data-theme="light"][data-accent="cinza"] {
-  --accent: #6b7280; --accent-soft: rgba(107, 114, 128, 0.12); --accent-ink: #ffffff;
+  --accent: #726c5f; --accent-soft: rgba(114, 108, 95, 0.12); --accent-ink: #ffffff;
 }
 :root[data-accent="amarelo"] {
-  --accent: #f2c94c; --accent-soft: rgba(242, 201, 76, 0.16); --accent-ink: #241d02;
+  --accent: #ffb000; --accent-soft: rgba(255, 176, 0, 0.16); --accent-ink: #241a02;
 }
 :root[data-theme="light"][data-accent="amarelo"] {
-  --accent: #b8860b; --accent-soft: rgba(184, 134, 11, 0.12); --accent-ink: #ffffff;
+  --accent: #b87800; --accent-soft: rgba(184, 120, 0, 0.12); --accent-ink: #ffffff;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }

@@ -7,7 +7,8 @@
     "navFaq": "FAQ",
     "login": "Anmelden",
     "signup": "Konto erstellen",
-    "navBandBoard": "Band-Pinnwand"
+    "navBandBoard": "Band-Pinnwand",
+    "navExplore": "Entdecken"
   },
   "hero": {
     "eyebrow": "Songtexte mit Akkorden + Karaoke, alles an einem Ort",
@@ -159,5 +160,41 @@
     "eyebrow": "Gemacht für alle, die live spielen",
     "title": "Von der Probe im Wohnzimmer bis zur großen Bühne, mit demselben Tool",
     "subtitle": "Vom Üben zu Hause bis zum Auftritt vor Publikum begleitet dasselbe Tool die Band in jeder Phase."
+  },
+  "explore": {
+    "title": "Entdecke die Funktionen",
+    "subtitle": "Ein schneller Überblick, was die Band bekommt.",
+    "syncTitle": "Synchronisation",
+    "karaokeTitle": "Karaoke-Modus",
+    "transposeTitle": "Transponieren",
+    "setlistsTitle": "Setlists",
+    "pedalTitle": "USB-Pedal"
+  },
+  "liveDemo": {
+    "title": "Läuft gerade",
+    "subtitle": "Ein echtes Liedblatt aus unserer Bibliothek, automatisch formatiert.",
+    "badge": "LIVE",
+    "loading": "Wird geladen…",
+    "cta": "Vollständiges Liedblatt ansehen"
+  },
+  "beforeAfter": {
+    "title": "Von der Datei auf die Bühne",
+    "subtitle": "Ein einfaches Liedblatt bekommt Struktur und Formatierung — ohne Werkzeugwechsel.",
+    "rawLabel": "Vorher / von überall eingefügt",
+    "syncedLabel": "Nachher / bühnenfertig",
+    "demoBody": "G\nZeit, die Bühne zu betreten\n       Am\nAlle kennen den Refrain schon\n        C\nEs fehlt nur noch die ganze Band"
+  },
+  "setlistShowcase": {
+    "title": "Teilbare Setlist",
+    "subtitle": "Lege die Reihenfolge fest und teile einen einzigen Link — alle bekommen dieselbe Version.",
+    "song1": "Opener",
+    "song1Key": "G",
+    "song2": "Publikumsliebling",
+    "song2Key": "Am",
+    "song3": "Ballade",
+    "song3Key": "D",
+    "song4": "Abschluss",
+    "song4Key": "C",
+    "cta": "Meine Setlist erstellen"
   }
 }

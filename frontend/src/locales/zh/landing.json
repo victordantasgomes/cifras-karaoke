@@ -7,7 +7,8 @@
     "navFaq": "常见问题",
     "login": "登录",
     "signup": "创建账号",
-    "navBandBoard": "乐队拼图"
+    "navBandBoard": "乐队拼图",
+    "navExplore": "探索"
   },
   "hero": {
     "eyebrow": "歌词谱 + 卡拉OK，一站搞定",
@@ -159,5 +160,41 @@
     "eyebrow": "为登台演出的人打造",
     "title": "从车库排练到大型演出，始终如一",
     "subtitle": "从在家排练到面对观众演出，同一个工具在乐队生涯的每个阶段都能派上用场。"
+  },
+  "explore": {
+    "title": "探索功能",
+    "subtitle": "快速预览乐队能获得什么。",
+    "syncTitle": "同步",
+    "karaokeTitle": "卡拉OK模式",
+    "transposeTitle": "移调",
+    "setlistsTitle": "歌单",
+    "pedalTitle": "USB踏板"
+  },
+  "liveDemo": {
+    "title": "正在播放",
+    "subtitle": "曲库中一首真实的谱子，自动排版。",
+    "badge": "实时",
+    "loading": "加载中…",
+    "cta": "查看完整谱子"
+  },
+  "beforeAfter": {
+    "title": "从文件到舞台",
+    "subtitle": "一份简单的谱子获得结构和排版——无需更换工具。",
+    "rawLabel": "之前 / 随意粘贴的内容",
+    "syncedLabel": "之后 / 舞台就绪",
+    "demoBody": "G\n是时候登台了\n       Am\n大家都已经会唱副歌了\n        C\n只差整个乐队一起上场"
+  },
+  "setlistShowcase": {
+    "title": "可分享歌单",
+    "subtitle": "排好演出顺序，发一个链接——所有人看到的都是同一个版本。",
+    "song1": "开场曲",
+    "song1Key": "G",
+    "song2": "观众最爱",
+    "song2Key": "Am",
+    "song3": "抒情曲",
+    "song3Key": "D",
+    "song4": "结尾曲",
+    "song4Key": "C",
+    "cta": "创建我的歌单"
   }
 }

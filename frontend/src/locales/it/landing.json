@@ -7,7 +7,8 @@
     "navFaq": "FAQ",
     "login": "Accedi",
     "signup": "Crea account",
-    "navBandBoard": "Bacheca band"
+    "navBandBoard": "Bacheca band",
+    "navExplore": "Esplora"
   },
   "hero": {
     "eyebrow": "Accordi + karaoke, tutto in un unico posto",
@@ -159,5 +160,41 @@
     "eyebrow": "Fatto per chi sale sul palco",
     "title": "Dalle prove in garage al grande concerto, senza cambiare strumento",
     "subtitle": "Dalle prove a casa alle esibizioni davanti al pubblico, lo stesso strumento accompagna la band in ogni fase."
+  },
+  "explore": {
+    "title": "Esplora le funzioni",
+    "subtitle": "Un'anteprima rapida di cosa ottiene la band.",
+    "syncTitle": "Sincronizzazione",
+    "karaokeTitle": "Modalità karaoke",
+    "transposeTitle": "Trasposizione",
+    "setlistsTitle": "Setlist",
+    "pedalTitle": "Pedale USB"
+  },
+  "liveDemo": {
+    "title": "In riproduzione",
+    "subtitle": "Uno spartito reale della nostra libreria, formattato automaticamente.",
+    "badge": "IN DIRETTA",
+    "loading": "Caricamento…",
+    "cta": "Vedi lo spartito completo"
+  },
+  "beforeAfter": {
+    "title": "Dal file al palco",
+    "subtitle": "Uno spartito semplice guadagna struttura e formattazione — senza cambiare strumento.",
+    "rawLabel": "Prima / incollato da qualsiasi posto",
+    "syncedLabel": "Dopo / pronto per il palco",
+    "demoBody": "G\nÈ ora di salire sul palco\n       Am\nTutti conoscono già il ritornello\n        C\nManca solo la band al completo"
+  },
+  "setlistShowcase": {
+    "title": "Scaletta condivisibile",
+    "subtitle": "Definisci l'ordine dello show e invia un solo link — tutti ricevono la stessa versione.",
+    "song1": "Apertura",
+    "song1Key": "G",
+    "song2": "Preferita del pubblico",
+    "song2Key": "Am",
+    "song3": "Ballata",
+    "song3Key": "D",
+    "song4": "Chiusura",
+    "song4Key": "C",
+    "cta": "Crea la mia scaletta"
   }
 }

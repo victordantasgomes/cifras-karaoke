@@ -1,7 +1,7 @@
 // Ícones inline (stroke) — sem dependência externa.
 const I = (path) => (props) => (
-  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8"
-       strokeLinecap="round" strokeLinejoin="round" {...props}>{path}</svg>
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2"
+       strokeLinecap="square" strokeLinejoin="miter" {...props}>{path}</svg>
 )
 export const IconHome = I(<><path d="M3 10.5 12 3l9 7.5"/><path d="M5 9.5V21h14V9.5"/></>)
 export const IconMusic = I(<><circle cx="7" cy="18" r="3"/><circle cx="17" cy="16" r="3"/><path d="M10 18V5l10-2v13"/></>)

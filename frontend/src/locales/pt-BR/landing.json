@@ -7,7 +7,8 @@
     "navTestimonials": "Depoimentos",
     "navFaq": "Dúvidas",
     "login": "Entrar",
-    "signup": "Criar conta"
+    "signup": "Criar conta",
+    "navExplore": "Explorar"
   },
   "hero": {
     "eyebrow": "Cifras + karaokê, num só lugar",
@@ -159,5 +160,41 @@
     "eyebrow": "Feito por quem sobe no palco",
     "title": "Da garagem ao show grande, sem trocar de ferramenta",
     "subtitle": "De ensaios em casa a apresentações com plateia, a mesma ferramenta acompanha a banda em qualquer momento da carreira."
+  },
+  "explore": {
+    "title": "Explore os recursos",
+    "subtitle": "Uma prévia rápida do que a banda tem em mãos.",
+    "syncTitle": "Sincronização",
+    "karaokeTitle": "Modo karaokê",
+    "transposeTitle": "Transposição",
+    "setlistsTitle": "Setlists",
+    "pedalTitle": "Pedal USB"
+  },
+  "liveDemo": {
+    "title": "Tocando agora",
+    "subtitle": "Uma cifra de verdade da nossa biblioteca, formatada automaticamente.",
+    "badge": "AO VIVO",
+    "loading": "Carregando…",
+    "cta": "Ver cifra completa"
+  },
+  "beforeAfter": {
+    "title": "Do arquivo ao palco",
+    "subtitle": "Uma cifra simples ganha estrutura e formatação — sem trocar de ferramenta.",
+    "rawLabel": "Antes / colado de qualquer lugar",
+    "syncedLabel": "Depois / pronto pro palco",
+    "demoBody": "G\nChegou a hora de subir ao palco\n       Am\nTodo mundo já sabe o refrão\n        C\nSó falta a banda inteira junto"
+  },
+  "setlistShowcase": {
+    "title": "Setlist compartilhável",
+    "subtitle": "Monte a ordem do show e mande um link só — todo mundo recebe a mesma versão.",
+    "song1": "Abertura",
+    "song1Key": "G",
+    "song2": "Sucesso do público",
+    "song2Key": "Am",
+    "song3": "Balada",
+    "song3Key": "D",
+    "song4": "Encerramento",
+    "song4Key": "C",
+    "cta": "Criar minha setlist"
   }
 }

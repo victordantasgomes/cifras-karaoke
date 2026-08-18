@@ -7,7 +7,8 @@
     "navFaq": "FAQ",
     "login": "Sign in",
     "signup": "Create account",
-    "navBandBoard": "Band board"
+    "navBandBoard": "Band board",
+    "navExplore": "Explore"
   },
   "hero": {
     "eyebrow": "Chord sheets + karaoke, all in one place",
@@ -159,5 +160,41 @@
     "eyebrow": "Made for people who play live",
     "title": "From garage rehearsals to the big stage, same tool the whole way",
     "subtitle": "From practicing at home to performing in front of a crowd, it keeps up with the band at every stage of the journey."
+  },
+  "explore": {
+    "title": "Explore the features",
+    "subtitle": "A quick preview of what the band gets.",
+    "syncTitle": "Sync",
+    "karaokeTitle": "Karaoke mode",
+    "transposeTitle": "Transpose",
+    "setlistsTitle": "Setlists",
+    "pedalTitle": "USB pedal"
+  },
+  "liveDemo": {
+    "title": "Now playing",
+    "subtitle": "A real chord sheet from our library, formatted automatically.",
+    "badge": "LIVE",
+    "loading": "Loading…",
+    "cta": "View full chord sheet"
+  },
+  "beforeAfter": {
+    "title": "From file to stage",
+    "subtitle": "A plain chord sheet gains structure and formatting — no extra tool needed.",
+    "rawLabel": "Before / pasted from anywhere",
+    "syncedLabel": "After / stage-ready",
+    "demoBody": "G\nTime to hit the stage\n       Am\nEveryone already knows the chorus\n        C\nJust need the whole band together"
+  },
+  "setlistShowcase": {
+    "title": "Shareable setlist",
+    "subtitle": "Set the show order and send a single link — everyone gets the same version.",
+    "song1": "Opener",
+    "song1Key": "G",
+    "song2": "Crowd favorite",
+    "song2Key": "Am",
+    "song3": "Ballad",
+    "song3Key": "D",
+    "song4": "Closer",
+    "song4Key": "C",
+    "cta": "Create my setlist"
   }
 }
