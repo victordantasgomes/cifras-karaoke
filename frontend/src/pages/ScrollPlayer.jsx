@@ -3,6 +3,8 @@ import { useNavigate, useParams } from 'react-router-dom'
 import { useQuery } from '@tanstack/react-query'
 import { useTranslation } from 'react-i18next'
 import api from '../services/api'
+import { useAuthStore } from '../store/authStore'
+import { usePublicApiBase } from '../utils/publicApiBase'
 import { usePlaylistStore } from '../store/playlistStore'
 import { useZoomStore } from '../store/zoomStore'
 import { useHotkeys } from '../hooks/useHotkeys'
@@ -62,6 +64,8 @@ export default function ScrollPlayer({ data }) {
   const { t } = useTranslation('scrollPlayer')
   const { slug } = useParams()
   const navigate = useNavigate()
+  const token = useAuthStore((s) => s.token)
+  const base = usePublicApiBase()
   const playlist = usePlaylistStore()
   const { zoom, zoomIn, zoomOut } = useZoomStore()
   const hasAudio = Boolean(data.has_audio)
@@ -101,6 +105,7 @@ export default function ScrollPlayer({ data }) {
   const { data: settings } = useQuery({
     queryKey: ['settings'],
     queryFn: () => api.get('/settings').then((r) => r.data),
+    enabled: Boolean(token),
     staleTime: Infinity,
     refetchOnWindowFocus: false,
   })
@@ -130,8 +135,8 @@ export default function ScrollPlayer({ data }) {
   // música tem áudio. Nunca refetcha sozinha (foco de janela etc.): trocar
   // o <audio src> no meio de uma apresentação reseta a reprodução pro início.
   const { data: audioBlob } = useQuery({
-    queryKey: ['karaoke-audio', slug],
-    queryFn: () => api.get(`/songs/${slug}/audio`, { responseType: 'blob' }).then((r) => r.data),
+    queryKey: ['karaoke-audio', slug, base],
+    queryFn: () => api.get(`${base}/songs/${slug}/audio`, { responseType: 'blob' }).then((r) => r.data),
     enabled: hasAudio,
     staleTime: Infinity,
     refetchOnWindowFocus: false,

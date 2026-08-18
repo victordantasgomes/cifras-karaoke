@@ -1,0 +1,17 @@
+{
+  "hero": {
+    "title": "Busque, veja e toque qualquer cifra da biblioteca",
+    "subtitle": "Sem cadastro. Crie uma conta gratuita pra favoritar, editar e montar seus próprios setlists.",
+    "cta": "Crie sua conta gratuita"
+  },
+  "empty": "Nenhuma música encontrada.",
+  "songNotFound": "Música não encontrada.",
+  "songNotFoundHint": "Ela pode ter sido removida ou ser privada.",
+  "backToHome": "← Voltar pra busca",
+  "gate": {
+    "title": "Crie sua conta gratuita",
+    "favorite": "Crie uma conta gratuita pra favoritar músicas.",
+    "login": "Entrar",
+    "signup": "Criar conta"
+  }
+}

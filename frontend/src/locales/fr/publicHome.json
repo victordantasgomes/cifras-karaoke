@@ -1,0 +1,17 @@
+{
+  "hero": {
+    "title": "Cherchez, consultez et jouez n'importe quelle grille de la bibliothèque",
+    "subtitle": "Sans inscription. Créez un compte gratuit pour mettre en favori, modifier et créer vos setlists.",
+    "cta": "Créer un compte gratuit"
+  },
+  "empty": "Aucune chanson trouvée.",
+  "songNotFound": "Chanson introuvable.",
+  "songNotFoundHint": "Elle a peut-être été supprimée ou est privée.",
+  "backToHome": "← Retour à la recherche",
+  "gate": {
+    "title": "Créer un compte gratuit",
+    "favorite": "Créez un compte gratuit pour mettre des chansons en favori.",
+    "login": "Se connecter",
+    "signup": "Créer un compte"
+  }
+}

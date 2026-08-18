@@ -1,7 +1,5 @@
 import { useEffect } from 'react'
-import { Navigate } from 'react-router-dom'
 import { useForceLightTheme } from '../hooks/useTheme'
-import { useAuthStore } from '../store/authStore'
 import api from '../services/api'
 import LandingHeader from '../components/landing/LandingHeader'
 import Hero from '../components/landing/Hero'
@@ -19,14 +17,17 @@ import LandingFooter from '../components/landing/LandingFooter'
 import '../styles/landing.css'
 
 /**
- * Landing page pública (Fase 5) — marketing, sem <Layout> (sem
+ * Página de vendas ("Sobre"/planos) — marketing, sem <Layout> (sem
  * sidebar/app-shell), sempre em tema claro independente da preferência
- * salva do visitante (ver useForceLightTheme). Usuário já logado é
- * redirecionado direto pro painel, mesmo padrão inverso de Layout.jsx.
+ * salva do visitante (ver useForceLightTheme). Antes vivia em `/` (ver
+ * Landing.jsx original); agora `/` é a página principal funcional
+ * (PublicHome.jsx) e esta seção de vendas mora em `/sobre`. Conteúdo
+ * inalterado nesta mudança — só o local que renderiza mudou. Diferente da
+ * Landing.jsx original, não redireciona usuário logado: não há razão pra
+ * bloquear quem já tem conta de ver planos/FAQ aqui.
  */
-export default function Landing() {
+export default function About() {
   useForceLightTheme()
-  const token = useAuthStore((s) => s.token)
 
   useEffect(() => {
     api.post('/telemetry/landing-view').catch(() => {})
@@ -35,8 +36,6 @@ export default function Landing() {
   const scrollToSection = (id) => {
     document.getElementById(id)?.scrollIntoView({ behavior: 'smooth', block: 'start' })
   }
-
-  if (token) return <Navigate to="/painel" replace />
 
   return (
     <div className="landing-page">

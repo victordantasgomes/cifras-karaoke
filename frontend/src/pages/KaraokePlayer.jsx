@@ -2,6 +2,7 @@ import { useParams } from 'react-router-dom'
 import { useQuery } from '@tanstack/react-query'
 import { useTranslation } from 'react-i18next'
 import api from '../services/api'
+import { usePublicApiBase } from '../utils/publicApiBase'
 import KaraokeStage from './KaraokeStage'
 import ScrollPlayer from './ScrollPlayer'
 
@@ -20,9 +21,10 @@ import ScrollPlayer from './ScrollPlayer'
 export default function KaraokePlayer() {
   const { t } = useTranslation()
   const { slug } = useParams()
+  const base = usePublicApiBase()
   const { data, isLoading } = useQuery({
-    queryKey: ['karaoke', slug],
-    queryFn: () => api.get(`/karaoke/${slug}`).then((r) => r.data),
+    queryKey: ['karaoke', slug, base],
+    queryFn: () => api.get(`${base}/karaoke/${slug}`).then((r) => r.data),
     staleTime: Infinity,
     refetchOnWindowFocus: false,
     refetchOnReconnect: false,

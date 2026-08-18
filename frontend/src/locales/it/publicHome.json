@@ -1,0 +1,17 @@
+{
+  "hero": {
+    "title": "Cerca, visualizza e suona qualsiasi spartito della libreria",
+    "subtitle": "Senza registrazione. Crea un account gratuito per aggiungere ai preferiti, modificare e creare le tue scalette.",
+    "cta": "Crea un account gratuito"
+  },
+  "empty": "Nessuna canzone trovata.",
+  "songNotFound": "Canzone non trovata.",
+  "songNotFoundHint": "Potrebbe essere stata rimossa o essere privata.",
+  "backToHome": "← Torna alla ricerca",
+  "gate": {
+    "title": "Crea un account gratuito",
+    "favorite": "Crea un account gratuito per aggiungere canzoni ai preferiti.",
+    "login": "Accedi",
+    "signup": "Crea account"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "hero": {
+    "title": "Search, view and play any chord sheet in the library",
+    "subtitle": "No account needed. Create a free account to favorite, edit, and build your own setlists.",
+    "cta": "Create a free account"
+  },
+  "empty": "No songs found.",
+  "songNotFound": "Song not found.",
+  "songNotFoundHint": "It may have been removed or is private.",
+  "backToHome": "← Back to search",
+  "gate": {
+    "title": "Create a free account",
+    "favorite": "Create a free account to favorite songs.",
+    "login": "Sign in",
+    "signup": "Create account"
+  }
+}

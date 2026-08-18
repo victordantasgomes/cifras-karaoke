@@ -17,6 +17,7 @@ from flask_cors import CORS
 import db
 from config import Config
 from middlewares.auth_middleware import require_admin, require_auth, require_not_blocked
+from middlewares.rate_limit import RateLimiter
 from routes.api_routes import build_blueprint
 from services.ai_service import AIService
 from services.alerts_service import AlertsService
@@ -72,6 +73,9 @@ class Services:
         self.require_auth = require_auth(self.auth)
         self.require_admin = require_admin(self.auth)
         self.require_not_blocked = require_not_blocked(self.billing)
+        # Proteção básica contra abuso, só pra biblioteca pública sem login
+        # (ver hook em api_routes.py) — 60 req/min por IP.
+        self.public_rate_limit = RateLimiter(max_requests=60, window_seconds=60)
 
 
 def create_app() -> Flask:

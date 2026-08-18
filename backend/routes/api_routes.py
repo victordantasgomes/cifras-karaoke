@@ -3,6 +3,7 @@ from __future__ import annotations
 
 from flask import Blueprint, Response, g, jsonify, request
 
+from middlewares.rate_limit import client_ip
 from services.ai_service import AIError
 from services.auth_service import AuthError
 from services.billing_service import BillingError
@@ -23,6 +24,17 @@ def build_blueprint(ctx) -> Blueprint:
     api = Blueprint("api", __name__, url_prefix="/api")
     protected = ctx.require_auth
     not_blocked = ctx.require_not_blocked
+
+    # Rate limit só nas rotas públicas novas (ver middlewares/rate_limit.py)
+    # — não toca em nenhuma rota autenticada nem nas públicas pré-existentes
+    # (/public/plans, /branding/..., /band-board).
+    @api.before_request
+    def _rate_limit_public():
+        if request.path.startswith("/api/public/"):
+            hit = ctx.public_rate_limit.check(client_ip(request))
+            if hit:
+                body, status = hit
+                return jsonify(body), status
 
     # ---------------- auth ----------------
     @api.post("/auth/login")
@@ -121,6 +133,102 @@ def build_blueprint(ctx) -> Blueprint:
     @api.get("/public/plans")
     def public_plans():
         return jsonify(ctx.plans.list_public())
+
+    # ---------------- biblioteca pública (sem auth, sem @protected) ----------------
+    # Mesmo padrão das rotas /songs/* autenticadas, mas sempre com
+    # user_id=None/is_admin=False — a visibilidade (_VISIBLE_SQL em
+    # search_service.py/songs_service.py) já degrada sozinha pra "só
+    # shared=true ou órfã" nesse caso, sem duplicar regra nenhuma aqui.
+    # Nunca expõe rota de escrita (favoritar, editar, upload, setlists).
+    @api.get("/public/songs")
+    def public_search_songs():
+        a = request.args
+        return jsonify(ctx.search.search(
+            None,
+            q=a.get("q", ""), genero=a.get("genero", ""),
+            interprete=a.get("interprete", ""), tom=a.get("tom", ""),
+            ritmo=a.get("ritmo", ""), tag=a.get("tag", ""),
+            page=a.get("page", 1, type=int),
+            page_size=a.get("page_size", 50, type=int),
+            sort=a.get("sort", "titulo"),
+        ))
+
+    @api.get("/public/songs/facets")
+    def public_facets():
+        return jsonify(ctx.search.facets(None))
+
+    @api.get("/public/songs/<slug>")
+    def public_get_song(slug):
+        try:
+            return jsonify(ctx.songs.get(None, slug))
+        except SongNotFound:
+            return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
+
+    # `save` nunca é lido do corpo — visitante anônimo nunca persiste uma
+    # transposição, mesmo que tente forjar `{"save": true}`.
+    @api.post("/public/songs/<slug>/transpose")
+    def public_transpose(slug):
+        d = request.get_json(force=True)
+        try:
+            return jsonify(ctx.songs.transpose(
+                None, slug,
+                semitones=d.get("semitones"),
+                to_key=d.get("to_key"),
+                save=False,
+            ))
+        except ValueError as e:
+            return jsonify({"error": str(e), "error_code": "TRANSPOSE_INVALID"}), 400
+        except SongNotFound:
+            return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
+
+    @api.get("/public/songs/<slug>/export")
+    def public_export_song(slug):
+        try:
+            data = ctx.songs.get(None, slug)
+        except SongNotFound:
+            return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
+        from utils.parser import Song, serialize_song
+        txt = serialize_song(Song(header=data["header"], body=data["body"]))
+        return Response(txt, mimetype="text/plain; charset=utf-8", headers={
+            "Content-Disposition": f'attachment; filename="{data["titulo"]}.txt"'})
+
+    @api.get("/public/karaoke/<slug>")
+    def public_karaoke(slug):
+        try:
+            payload = ctx.karaoke.payload(None, slug)
+        except SongNotFound:
+            return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
+        ctx.history.register_play(None, slug)
+        return jsonify(payload)
+
+    # SongsService.get_id() (usado por AudioService por baixo dos panos) não
+    # filtra visibilidade — é busca global, documentado como tal pra quem já
+    # tem uma referência de dono. Por isso as duas rotas abaixo checam a
+    # visibilidade explicitamente via ctx.songs.get(None, slug) ANTES de
+    # buscar os bytes, senão vazariam áudio de música privada por slug.
+    @api.get("/public/songs/<slug>/audio")
+    def public_get_audio(slug):
+        try:
+            ctx.songs.get(None, slug)
+        except SongNotFound:
+            return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
+        result = ctx.audio.track_bytes(None, slug)
+        if not result:
+            return jsonify({"error": "Esta música não tem áudio enviado.", "error_code": "AUDIO_NOT_FOUND"}), 404
+        data, content_type = result
+        return Response(data, mimetype=content_type or "application/octet-stream")
+
+    @api.get("/public/songs/<slug>/samples/<sample_id>")
+    def public_get_sample(slug, sample_id):
+        try:
+            ctx.songs.get(None, slug)
+        except SongNotFound:
+            return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
+        result = ctx.audio.sample_bytes(None, slug, sample_id)
+        if not result:
+            return jsonify({"error": "Sample não encontrado.", "error_code": "SAMPLE_NOT_FOUND"}), 404
+        data, content_type = result
+        return Response(data, mimetype=content_type or "application/octet-stream")
 
     # Heartbeat de sessão (Fase 12) — chamado pelo hook useActivityPing.js
     # enquanto a aba está visível; alimenta o "tempo médio de acesso" do

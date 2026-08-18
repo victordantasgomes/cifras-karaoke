@@ -1,0 +1,17 @@
+{
+  "hero": {
+    "title": "Durchsuche, sieh dir an und spiele jedes Liedblatt der Bibliothek",
+    "subtitle": "Ohne Anmeldung. Erstelle ein kostenloses Konto, um Favoriten zu markieren, zu bearbeiten und eigene Setlists zu erstellen.",
+    "cta": "Kostenloses Konto erstellen"
+  },
+  "empty": "Keine Lieder gefunden.",
+  "songNotFound": "Lied nicht gefunden.",
+  "songNotFoundHint": "Es wurde möglicherweise entfernt oder ist privat.",
+  "backToHome": "← Zurück zur Suche",
+  "gate": {
+    "title": "Kostenloses Konto erstellen",
+    "favorite": "Erstelle ein kostenloses Konto, um Lieder als Favoriten zu markieren.",
+    "login": "Anmelden",
+    "signup": "Konto erstellen"
+  }
+}

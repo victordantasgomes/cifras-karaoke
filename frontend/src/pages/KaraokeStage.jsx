@@ -3,6 +3,8 @@ import { useNavigate, useParams } from 'react-router-dom'
 import { useQuery } from '@tanstack/react-query'
 import { useTranslation } from 'react-i18next'
 import api from '../services/api'
+import { useAuthStore } from '../store/authStore'
+import { usePublicApiBase } from '../utils/publicApiBase'
 import { usePlayerStore } from '../store/playerStore'
 import { usePlaylistStore } from '../store/playlistStore'
 import { useZoomStore } from '../store/zoomStore'
@@ -54,6 +56,8 @@ export default function KaraokeStage() {
   const { t } = useTranslation('karaokeStage')
   const { slug } = useParams()
   const navigate = useNavigate()
+  const token = useAuthStore((s) => s.token)
+  const base = usePublicApiBase()
   const player = usePlayerStore()
   const playlist = usePlaylistStore()
   const { zoom, zoomIn, zoomOut } = useZoomStore()
@@ -95,8 +99,8 @@ export default function KaraokeStage() {
   // de novo e resetaria a reprodução para o início — não é o que se quer
   // no meio de uma apresentação.
   const { data, isLoading } = useQuery({
-    queryKey: ['karaoke', slug],
-    queryFn: () => api.get(`/karaoke/${slug}`).then((r) => r.data),
+    queryKey: ['karaoke', slug, base],
+    queryFn: () => api.get(`${base}/karaoke/${slug}`).then((r) => r.data),
     staleTime: Infinity,
     refetchOnWindowFocus: false,
     refetchOnReconnect: false,
@@ -118,6 +122,7 @@ export default function KaraokeStage() {
   const { data: settings } = useQuery({
     queryKey: ['settings'],
     queryFn: () => api.get('/settings').then((r) => r.data),
+    enabled: Boolean(token),
     staleTime: Infinity,
     refetchOnWindowFocus: false,
   })
@@ -139,8 +144,8 @@ export default function KaraokeStage() {
   // janela, remount etc.) — trocar o <audio src> no meio de uma
   // apresentação reseta a reprodução (volta pro início).
   const { data: audioBlob } = useQuery({
-    queryKey: ['karaoke-audio', slug],
-    queryFn: () => api.get(`/songs/${slug}/audio`, { responseType: 'blob' }).then((r) => r.data),
+    queryKey: ['karaoke-audio', slug, base],
+    queryFn: () => api.get(`${base}/songs/${slug}/audio`, { responseType: 'blob' }).then((r) => r.data),
     enabled: Boolean(data?.has_audio),
     staleTime: Infinity,
     refetchOnWindowFocus: false,
@@ -161,13 +166,13 @@ export default function KaraokeStage() {
     setSampleUrls({})
     if (!data?.has_audio || !player.samples.length) return undefined
     Promise.all(player.samples.map((s) =>
-      api.get(`/songs/${slug}/samples/${s.id}`, { responseType: 'blob' })
+      api.get(`${base}/songs/${slug}/samples/${s.id}`, { responseType: 'blob' })
         .then((r) => [s.id, URL.createObjectURL(r.data)])
         .catch(() => [s.id, null]),
     )).then((pairs) => { if (!cancelled) setSampleUrls(Object.fromEntries(pairs)) })
     return () => { cancelled = true }
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [slug, data?.has_audio, player.samples.length])
+  }, [slug, data?.has_audio, player.samples.length, base])
 
   useEffect(() => () => {
     Object.values(sampleUrls).forEach((u) => u && URL.revokeObjectURL(u))

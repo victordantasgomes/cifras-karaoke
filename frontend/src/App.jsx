@@ -5,7 +5,9 @@ import { useLocale } from './hooks/useLocale'
 import { useTheme } from './hooks/useTheme'
 import { useActivityPing } from './hooks/useActivityPing'
 import Layout from './components/Layout'
-import Landing from './pages/Landing'
+import PublicHome from './pages/PublicHome'
+import PublicSongView from './pages/PublicSongView'
+import About from './pages/About'
 import BandBoard from './pages/BandBoard'
 import BandBoardManage from './pages/BandBoardManage'
 import Login from './pages/Login'
@@ -35,7 +37,9 @@ export default function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Landing />} />
+        <Route path="/" element={<PublicHome />} />
+        <Route path="/sobre" element={<About />} />
+        <Route path="/cifra/:slug" element={<PublicSongView />} />
         <Route path="/login" element={<Login />} />
         <Route path="/cadastro" element={<SignUp />} />
         <Route path="/karaoke/:slug" element={<KaraokePlayer />} />
