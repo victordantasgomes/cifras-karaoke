@@ -13,8 +13,8 @@ import ChordSheet from '../ChordSheet'
  * de app falso que Hero.jsx já usa (.landing-mockup), sem CSS novo pro
  * frame em si.
  *
- * `showTransport` (opcional, padrão false — usado por /main2 e /sobre2,
- * não muda o comportamento existente em /sobre): mostra uma fileira de
+ * `showTransport` (opcional, padrão false — usado por /sobre2, não muda o
+ * comportamento existente em /sobre): mostra uma fileira de
  * controles de transporte só decorativos (sempre `disabled`, nunca ligados
  * a reprodução de verdade), pra bater com o layout da referência. */
 export default function LiveDemo({ showTransport = false }) {

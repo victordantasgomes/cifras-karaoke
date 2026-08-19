@@ -12,16 +12,13 @@ import '../styles/landing.css'
 import '../styles/landing2.css'
 
 /**
- * /sobre2 — réplica do layout/conteúdo da mesma referência "Central
- * Musical" que Main2.jsx, ver comentário lá. Hoje com o mesmo conteúdo de
- * Main2.jsx (só o conceito "Central Musical" da referência está acessível
- * de verdade, ver plano) — pronto pra divergir depois via os locales de
- * landing2.json (chaves sobre2), sem reescrever componente.
+ * /sobre — réplica do layout/conteúdo da referência "Central Musical",
+ * chaves i18n em landing2.json (namespace sobre2).
  */
 export default function Sobre2() {
   return (
     <div className="landing-page">
-      <Header2 page="sobre2" />
+      <Header2 />
       <main>
         <Hero2 page="sobre2" />
         <Explore />

@@ -7,8 +7,8 @@ import { useTranslation } from 'react-i18next'
  * (setlists compartilháveis, já listado em Capabilities), não inventa
  * estatística nem depoimento.
  *
- * `showHeader` (opcional, padrão false — usado por /main2 e /sobre2, não
- * muda o comportamento existente em /sobre): mostra um cabeçalho
+ * `showHeader` (opcional, padrão false — usado por /sobre2, não muda o
+ * comportamento existente em /sobre): mostra um cabeçalho
  * ilustrativo (data/nome do show/duração total) + uma coluna de duração
  * por música, pra bater com o layout da referência. */
 const ROWS = [1, 2, 3, 4]

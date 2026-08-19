@@ -12,6 +12,12 @@
     "title": "Crea un account gratuito",
     "favorite": "Crea un account gratuito per aggiungere canzoni ai preferiti.",
     "login": "Accedi",
-    "signup": "Crea account"
+    "signup": "Crea account",
+    "freeBadge": "Gratis",
+    "freePrice": "Gratis",
+    "perMonth": "/mese",
+    "setlistsLimit_one": "Fino a {{count}} scaletta",
+    "setlistsLimit_other": "Fino a {{count}} scalette",
+    "storageLimit": "{{mb}} MB di spazio audio"
   }
 }

@@ -2,15 +2,13 @@ import { Link } from 'react-router-dom'
 import { useQuery } from '@tanstack/react-query'
 import { useTranslation } from 'react-i18next'
 import api from '../../services/api'
+import { centavosParaMoeda } from '../../utils/currency'
 
 /** Planos reais, buscados de GET /public/plans (rota pública, sem auth —
  * ver Fase 5 do plano). Igual Pricing.jsx, a moeda de cobrança é sempre
  * BRL; só a formatação de pontuação acompanha o idioma da interface. */
 export default function PricingSection() {
   const { t, i18n } = useTranslation('landing')
-
-  const centavosParaMoeda = (cents) =>
-    (cents / 100).toLocaleString(i18n.language, { style: 'currency', currency: 'BRL' })
 
   const { data: plans, isLoading } = useQuery({
     queryKey: ['public-plans'],
@@ -36,7 +34,7 @@ export default function PricingSection() {
               <div key={p.id} className="card landing-pricing-card">
                 <h3>{p.name}</h3>
                 <div className="landing-pricing-price">
-                  {centavosParaMoeda(p.price_cents)}<span>{t('pricing.perMonth')}</span>
+                  {centavosParaMoeda(p.price_cents, i18n.language)}<span>{t('pricing.perMonth')}</span>
                 </div>
                 <ul className="landing-pricing-features">
                   <li>{t('pricing.setlistsLimit', { count: p.max_setlists })}</li>

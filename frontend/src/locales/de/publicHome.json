@@ -12,6 +12,12 @@
     "title": "Kostenloses Konto erstellen",
     "favorite": "Erstelle ein kostenloses Konto, um Lieder als Favoriten zu markieren.",
     "login": "Anmelden",
-    "signup": "Konto erstellen"
+    "signup": "Konto erstellen",
+    "freeBadge": "Kostenlos",
+    "freePrice": "Kostenlos",
+    "perMonth": "/Monat",
+    "setlistsLimit_one": "Bis zu {{count}} Setlist",
+    "setlistsLimit_other": "Bis zu {{count}} Setlists",
+    "storageLimit": "{{mb}} MB Audiospeicher"
   }
 }

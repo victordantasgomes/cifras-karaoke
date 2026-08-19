@@ -15,38 +15,6 @@
     "song3Duration": "03:54",
     "song4Duration": "05:02"
   },
-  "main2": {
-    "header": {
-      "toggle1": "01 · Palco Vivo",
-      "toggle2": "02 · Central Musical"
-    },
-    "hero": {
-      "eyebrow": "Conceito visual",
-      "title": "O teu repertório ganha vida no palco",
-      "subtitle": "Escolhe uma música, vê a cifra a passar, abre qualquer recurso sem sair do fluxo.",
-      "cta": "Começar grátis"
-    },
-    "library": {
-      "title": "A tua biblioteca",
-      "subtitle": "Procura, filtra por género, abre qualquer cifra.",
-      "count_one": "{{count}} música",
-      "count_other": "{{count}} músicas",
-      "allChip": "Todas",
-      "searchPlaceholder": "Procurar música…",
-      "groupLabel": "Biblioteca completa",
-      "addCta": "+ Nova música"
-    },
-    "oneScreen": {
-      "title": "Um ecrã. O concerto inteiro.",
-      "subtitle": "A biblioteca fica sempre ao alcance. A música ocupa o centro.",
-      "languagesLabel": "idiomas",
-      "instrumentsLabel": "instrumentos",
-      "paperLabel": "folhas no palco"
-    },
-    "footer": {
-      "tagline": "Cifras, repertório e banda ao mesmo tempo."
-    }
-  },
   "sobre2": {
     "header": {
       "toggle1": "01 · Palco Vivo",

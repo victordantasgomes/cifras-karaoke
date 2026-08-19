@@ -6,11 +6,10 @@ import api from '../../services/api'
 import { useDebounce } from '../../hooks/useDebounce'
 import VirtualList from '../VirtualList'
 
-/** "Sua biblioteca" de /main2 e /sobre2 — mesmo padrão de dados de
- * PublicHome.jsx (GET /public/songs + /public/songs/facets, biblioteca
- * pública real), mas com chips de gênero clicáveis em vez de <select>,
- * pra bater com o layout da referência. Sem fabricar nome/data de show
- * específico (a referência mostra isso) — usa um rótulo genérico. */
+/** "Sua biblioteca" de /sobre2 — biblioteca pública real (GET /public/songs
+ * + /public/songs/facets), com chips de gênero clicáveis em vez de
+ * <select>, pra bater com o layout da referência. Sem fabricar nome/data de
+ * show específico (a referência mostra isso) — usa um rótulo genérico. */
 export default function Library2({ page }) {
   const { t } = useTranslation('landing2')
   const [q, setQ] = useState('')

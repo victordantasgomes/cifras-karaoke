@@ -1,9 +1,9 @@
 import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 
-/** Hero de /main2 e /sobre2 — coluna única, sem foto/mockup flutuante
- * (diferente de landing/Hero.jsx). Texto próprio, adaptado do papel da
- * referência (repertório "ganha vida" no palco), não traduzido dela. */
+/** Hero de /sobre2 — coluna única, sem foto/mockup flutuante (diferente de
+ * landing/Hero.jsx). Texto próprio, adaptado do papel da referência
+ * (repertório "ganha vida" no palco), não traduzido dela. */
 export default function Hero2({ page }) {
   const { t } = useTranslation('landing2')
 

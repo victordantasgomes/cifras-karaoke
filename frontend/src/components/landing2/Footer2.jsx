@@ -1,9 +1,9 @@
 import { useTranslation } from 'react-i18next'
 import logo from '../../assets/logo-horizontal-preta.png'
 
-/** Rodapé de /main2 e /sobre2 — minimalista (logo + tagline + copyright),
- * sem a fileira de navegação que LandingFooter.jsx tem — a referência
- * também não tem nav no rodapé. */
+/** Rodapé de /sobre2 — minimalista (logo + tagline + copyright), sem a
+ * fileira de navegação que LandingFooter.jsx tem — a referência também não
+ * tem nav no rodapé. */
 export default function Footer2({ page }) {
   const { t } = useTranslation('landing2')
 

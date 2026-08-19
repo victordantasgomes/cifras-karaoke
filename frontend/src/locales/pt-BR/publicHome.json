@@ -12,6 +12,12 @@
     "title": "Crie sua conta gratuita",
     "favorite": "Crie uma conta gratuita pra favoritar músicas.",
     "login": "Entrar",
-    "signup": "Criar conta"
+    "signup": "Criar conta",
+    "freeBadge": "Grátis",
+    "freePrice": "Grátis",
+    "perMonth": "/mês",
+    "setlistsLimit_one": "Até {{count}} setlist",
+    "setlistsLimit_other": "Até {{count}} setlists",
+    "storageLimit": "{{mb}} MB de armazenamento de áudio"
   }
 }

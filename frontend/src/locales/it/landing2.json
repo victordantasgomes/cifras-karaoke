@@ -15,38 +15,6 @@
     "song3Duration": "03:54",
     "song4Duration": "05:02"
   },
-  "main2": {
-    "header": {
-      "toggle1": "01 · Palco Live",
-      "toggle2": "02 · Centrale Musicale"
-    },
-    "hero": {
-      "eyebrow": "Concetto visivo",
-      "title": "Il tuo repertorio prende vita sul palco",
-      "subtitle": "Scegli un brano, guarda lo spartito scorrere, apri qualsiasi strumento senza uscire dal flusso.",
-      "cta": "Inizia gratis"
-    },
-    "library": {
-      "title": "La tua libreria",
-      "subtitle": "Cerca, filtra per genere, apri qualsiasi spartito.",
-      "count_one": "{{count}} brano",
-      "count_other": "{{count}} brani",
-      "allChip": "Tutti",
-      "searchPlaceholder": "Cerca un brano…",
-      "groupLabel": "Libreria completa",
-      "addCta": "+ Nuovo brano"
-    },
-    "oneScreen": {
-      "title": "Uno schermo. Tutto lo show.",
-      "subtitle": "La libreria resta sempre a portata di mano. Il brano resta al centro.",
-      "languagesLabel": "lingue",
-      "instrumentsLabel": "strumenti",
-      "paperLabel": "fogli sul palco"
-    },
-    "footer": {
-      "tagline": "Spartiti, repertorio e band, allo stesso tempo."
-    }
-  },
   "sobre2": {
     "header": {
       "toggle1": "01 · Palco Live",

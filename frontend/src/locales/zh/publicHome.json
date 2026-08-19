@@ -12,6 +12,12 @@
     "title": "创建免费账号",
     "favorite": "创建免费账号即可收藏歌曲。",
     "login": "登录",
-    "signup": "创建账号"
+    "signup": "创建账号",
+    "freeBadge": "免费",
+    "freePrice": "免费",
+    "perMonth": "/月",
+    "setlistsLimit_one": "最多 {{count}} 个歌单",
+    "setlistsLimit_other": "最多 {{count}} 个歌单",
+    "storageLimit": "{{mb}} MB 音频存储空间"
   }
 }

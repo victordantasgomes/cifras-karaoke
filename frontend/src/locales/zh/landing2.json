@@ -15,38 +15,6 @@
     "song3Duration": "03:54",
     "song4Duration": "05:02"
   },
-  "main2": {
-    "header": {
-      "toggle1": "01 · 现场舞台",
-      "toggle2": "02 · 音乐中心"
-    },
-    "hero": {
-      "eyebrow": "视觉概念",
-      "title": "让你的曲库在舞台上活起来",
-      "subtitle": "选一首歌，看着谱子滚动，随时打开任意功能，不打断演出节奏。",
-      "cta": "免费开始"
-    },
-    "library": {
-      "title": "你的曲库",
-      "subtitle": "搜索、按风格筛选、打开任意谱子。",
-      "count_one": "{{count}} 首歌曲",
-      "count_other": "{{count}} 首歌曲",
-      "allChip": "全部",
-      "searchPlaceholder": "搜索歌曲…",
-      "groupLabel": "完整曲库",
-      "addCta": "+ 新增歌曲"
-    },
-    "oneScreen": {
-      "title": "一块屏幕，整场演出。",
-      "subtitle": "曲库始终触手可及，歌曲始终居于中心。",
-      "languagesLabel": "种语言",
-      "instrumentsLabel": "种乐器",
-      "paperLabel": "张纸质谱子"
-    },
-    "footer": {
-      "tagline": "谱子、曲库与乐队，同一个节拍。"
-    }
-  },
   "sobre2": {
     "header": {
       "toggle1": "01 · 现场舞台",

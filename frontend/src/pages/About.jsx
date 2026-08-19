@@ -20,13 +20,11 @@ import LandingFooter from '../components/landing/LandingFooter'
 import '../styles/landing.css'
 
 /**
- * Página de vendas ("Sobre"/planos) — marketing, sem <Layout> (sem
- * sidebar/app-shell), sempre em tema claro independente da preferência
- * salva do visitante (ver useForceLightTheme). Antes vivia em `/` (ver
- * Landing.jsx original); agora `/` é a página principal funcional
- * (PublicHome.jsx) e esta seção de vendas mora em `/sobre`. Conteúdo
- * Diferente da Landing.jsx original, não redireciona usuário logado: não há
- * razão pra bloquear quem já tem conta de ver planos/FAQ aqui.
+ * Página de vendas — marketing, sem <Layout> (sem sidebar/app-shell),
+ * sempre em tema claro independente da preferência salva do visitante (ver
+ * useForceLightTheme). Página principal da aplicação, em `/`. Diferente da
+ * Landing.jsx original, não redireciona usuário logado: não há razão pra
+ * bloquear quem já tem conta de ver planos/FAQ aqui.
  *
  * Estrutura/seções reordenadas e ampliadas (Explore/LiveDemo/BeforeAfter/
  * SetlistShowcase são novas) inspiradas numa referência visual externa,

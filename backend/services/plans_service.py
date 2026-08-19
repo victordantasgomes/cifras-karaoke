@@ -89,11 +89,18 @@ class PlansService:
         return [_row_to_dict(r) for r in rows]
 
     def list_public(self) -> list[dict]:
-        """Pra seção de preços da landing page (visitante sem login) — igual
-        list_active(), mas sem os ids internos da Stripe."""
+        """Pra seção de preços da landing page e pro modal de convite da área
+        pública (visitante sem login) — inclui também o plano Convidado/
+        gratuito (kind='guest'), que list_active() propositalmente omite
+        (não é assinável via Stripe, mas é real e vale mostrar pra quem
+        ainda nem tem conta). Sem os ids internos da Stripe."""
+        with db.get_pool().connection() as conn:
+            rows = conn.execute(
+                "select * from plans where active=true and kind in ('paid', 'guest') order by price_cents",
+            ).fetchall()
         return [
-            {k: v for k, v in p.items() if k not in ("stripe_product_id", "stripe_price_id")}
-            for p in self.list_active()
+            {k: v for k, v in _row_to_dict(r).items() if k not in ("stripe_product_id", "stripe_price_id")}
+            for r in rows
         ]
 
     def get_kind(self, kind: str) -> dict | None:

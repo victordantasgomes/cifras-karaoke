@@ -12,6 +12,12 @@
     "title": "Create a free account",
     "favorite": "Create a free account to favorite songs.",
     "login": "Sign in",
-    "signup": "Create account"
+    "signup": "Create account",
+    "freeBadge": "Free",
+    "freePrice": "Free",
+    "perMonth": "/mo",
+    "setlistsLimit_one": "Up to {{count}} setlist",
+    "setlistsLimit_other": "Up to {{count}} setlists",
+    "storageLimit": "{{mb}} MB of audio storage"
   }
 }

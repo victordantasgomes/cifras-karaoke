@@ -15,38 +15,6 @@
     "song3Duration": "03:54",
     "song4Duration": "05:02"
   },
-  "main2": {
-    "header": {
-      "toggle1": "01 · Escenario Vivo",
-      "toggle2": "02 · Central Musical"
-    },
-    "hero": {
-      "eyebrow": "Concepto visual",
-      "title": "Tu repertorio cobra vida en el escenario",
-      "subtitle": "Elige una canción, mira pasar la cifra, abre cualquier recurso sin salir del flujo.",
-      "cta": "Empezar gratis"
-    },
-    "library": {
-      "title": "Tu biblioteca",
-      "subtitle": "Busca, filtra por género, abre cualquier cifra.",
-      "count_one": "{{count}} canción",
-      "count_other": "{{count}} canciones",
-      "allChip": "Todas",
-      "searchPlaceholder": "Buscar canción…",
-      "groupLabel": "Biblioteca completa",
-      "addCta": "+ Nueva canción"
-    },
-    "oneScreen": {
-      "title": "Una pantalla. Todo el show.",
-      "subtitle": "La biblioteca siempre al alcance. La canción en el centro.",
-      "languagesLabel": "idiomas",
-      "instrumentsLabel": "instrumentos",
-      "paperLabel": "hojas en el escenario"
-    },
-    "footer": {
-      "tagline": "Cifras, repertorio y banda al mismo tiempo."
-    }
-  },
   "sobre2": {
     "header": {
       "toggle1": "01 · Escenario Vivo",

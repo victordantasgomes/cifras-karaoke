@@ -3,29 +3,8 @@ import { useTranslation } from 'react-i18next'
 import BrandLogo from './BrandLogo'
 import logoIcone from '../assets/logo-icone.png'
 import { useAuthStore } from '../store/authStore'
-import {
-  IconHome, IconMusic, IconList, IconStar, IconClock,
-  IconMic, IconBook, IconUsers, IconMetronome, IconTuner, IconShield, IconChart,
-  IconSettings, IconUser, IconExit,
-} from './icons'
-
-const ITEMS = [
-  { to: '/painel', labelKey: 'nav.dashboard', icon: IconHome, end: true },
-  { to: '/musicas', labelKey: 'nav.songs', icon: IconMusic },
-  { to: '/setlists', labelKey: 'nav.setlists', icon: IconList },
-  { to: '/favoritas', labelKey: 'nav.favorites', icon: IconStar },
-  { to: '/historico', labelKey: 'nav.history', icon: IconClock },
-  { to: '/karaoke', labelKey: 'nav.karaoke', icon: IconMic },
-  { to: '/dicionario-acordes', labelKey: 'nav.chordDictionary', icon: IconBook },
-  { to: '/mural/meus-anuncios', labelKey: 'nav.bandBoard', icon: IconUsers },
-  { section: 'nav.tools' },
-  { to: '/metronomo', labelKey: 'nav.metronome', icon: IconMetronome },
-  { to: '/afinador', labelKey: 'nav.tuner', icon: IconTuner },
-  { to: '/admin/ferramenta', labelKey: 'nav.adminTools', icon: IconShield, adminOnly: true },
-  { to: '/admin/vendas', labelKey: 'nav.adminSales', icon: IconChart, adminOnly: true },
-  { to: '/configuracoes', labelKey: 'nav.settings', icon: IconSettings },
-  { to: '/perfil', labelKey: 'nav.profile', icon: IconUser },
-]
+import { IconExit } from './icons'
+import { ITEMS } from '../config/sidebarItems'
 
 export default function Sidebar() {
   const { t } = useTranslation()

@@ -1,11 +1,10 @@
-import { useState } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
-import { useMutation, useQuery } from '@tanstack/react-query'
 import { useTranslation } from 'react-i18next'
 import api from '../services/api'
 import ChordSheet from '../components/ChordSheet'
 import PublicHeader from '../components/PublicHeader'
 import { useAuthGate } from '../components/AuthGate'
+import { usePublicSong, exportPublicSongTxt } from '../hooks/usePublicSong'
 import '../styles/landing.css'
 
 const KEYS = ['C', 'C#', 'Db', 'D', 'D#', 'Eb', 'E', 'F', 'F#', 'Gb', 'G', 'G#', 'Ab', 'A', 'A#', 'Bb', 'B']
@@ -16,9 +15,8 @@ const KEYS = ['C', 'C#', 'Db', 'D', 'D#', 'Eb', 'E', 'F', 'F#', 'Gb', 'G', 'G#',
  * componente inteiro (favoritar/normalizar/avaliar/clonar/compartilhar/
  * excluir/editar), então este componente é novo e enxuto, reaproveitando só
  * o ChordSheet e replicando localmente as poucas ações que fazem sentido
- * sem dono: karaokê, imprimir, exportar TXT, e transpor — a transposição
- * fica só no estado local (nunca grava `save`), então um F5 sempre volta
- * pro tom salvo de verdade. Favoritar abre o gate de cadastro.
+ * sem dono: karaokê, imprimir, exportar TXT, e transpor. Busca/transpõe via
+ * usePublicSong.js. Favoritar abre o gate de cadastro.
  */
 export default function PublicSongView() {
   const { t } = useTranslation('publicHome')
@@ -26,20 +24,7 @@ export default function PublicSongView() {
   const { slug } = useParams()
   const navigate = useNavigate()
   const { requireAuth, modal } = useAuthGate()
-
-  const { data, isLoading, isError } = useQuery({
-    queryKey: ['public-song', slug],
-    queryFn: () => api.get(`/public/songs/${slug}`).then((r) => r.data),
-    retry: false,
-  })
-
-  // resultado de uma transposição-prévia local — nunca escrito de volta no
-  // cache de `data` (que continua sendo o tom REAL salvo no servidor).
-  const [preview, setPreview] = useState(null)
-  const transpose = useMutation({
-    mutationFn: (payload) => api.post(`/public/songs/${slug}/transpose`, payload).then((r) => r.data),
-    onSuccess: (r) => setPreview(r),
-  })
+  const { data, isLoading, isError, header: previewHeader, body: previewBody, transpose } = usePublicSong(slug)
 
   if (isLoading) return <div className="empty">{tEditor('loading')}</div>
   if (isError || !data) {
@@ -55,8 +40,8 @@ export default function PublicSongView() {
     )
   }
 
-  const header = preview?.header || data.header
-  const body = preview?.body || data.body
+  const header = previewHeader || data.header
+  const body = previewBody || data.body
 
   return (
     <div className="landing-page">
@@ -74,7 +59,7 @@ export default function PublicSongView() {
             <button className="btn" onClick={() => requireAuth('favorite', () => {})}>{tEditor('actions.favorite')}</button>
             <button className="btn" onClick={() => window.print()}>{tEditor('actions.print')}</button>
             <a className="btn" href={`${api.defaults.baseURL}/public/songs/${slug}/export`}
-              onClick={(e) => { e.preventDefault(); exportTxt(slug, header.titulo) }}>{tEditor('actions.exportTxt')}</a>
+              onClick={(e) => { e.preventDefault(); exportPublicSongTxt(slug, header.titulo) }}>{tEditor('actions.exportTxt')}</a>
           </div>
         </div>
 
@@ -94,14 +79,4 @@ export default function PublicSongView() {
       {modal}
     </div>
   )
-}
-
-async function exportTxt(slug, titulo) {
-  const { data } = await api.get(`/public/songs/${slug}/export`, { responseType: 'blob' })
-  const url = URL.createObjectURL(data)
-  const a = document.createElement('a')
-  a.href = url
-  a.download = `${titulo || slug}.txt`
-  a.click()
-  URL.revokeObjectURL(url)
 }
