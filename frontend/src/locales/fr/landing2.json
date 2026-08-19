@@ -1,0 +1,82 @@
+{
+  "shared": {
+    "transportPrev": "Précédent",
+    "transportPlay": "Lecture",
+    "transportNext": "Suivant",
+    "transportDown": "Demi-ton en dessous",
+    "transportUp": "Demi-ton au-dessus",
+    "transportZoomOut": "Réduire le texte",
+    "transportZoomIn": "Agrandir le texte",
+    "setlistDate": "VEN · 21h30",
+    "setlistShow": "Concert du vendredi",
+    "setlistDuration": "45 min",
+    "song1Duration": "06:48",
+    "song2Duration": "04:12",
+    "song3Duration": "03:54",
+    "song4Duration": "05:02"
+  },
+  "main2": {
+    "header": {
+      "toggle1": "01 · Scène Live",
+      "toggle2": "02 · Pôle Musical"
+    },
+    "hero": {
+      "eyebrow": "Concept visuel",
+      "title": "Votre répertoire prend vie sur scène",
+      "subtitle": "Choisissez un morceau, suivez la grille qui défile, ouvrez n'importe quel outil sans sortir du flux.",
+      "cta": "Commencer gratuitement"
+    },
+    "library": {
+      "title": "Votre bibliothèque",
+      "subtitle": "Cherchez, filtrez par genre, ouvrez n'importe quelle grille.",
+      "count_one": "{{count}} morceau",
+      "count_other": "{{count}} morceaux",
+      "allChip": "Tout",
+      "searchPlaceholder": "Rechercher un morceau…",
+      "groupLabel": "Bibliothèque complète",
+      "addCta": "+ Nouveau morceau"
+    },
+    "oneScreen": {
+      "title": "Un seul écran. Tout le concert.",
+      "subtitle": "La bibliothèque reste à portée de main. Le morceau reste au centre.",
+      "languagesLabel": "langues",
+      "instrumentsLabel": "instruments",
+      "paperLabel": "feuilles sur scène"
+    },
+    "footer": {
+      "tagline": "Grilles, répertoire et groupe, au même tempo."
+    }
+  },
+  "sobre2": {
+    "header": {
+      "toggle1": "01 · Scène Live",
+      "toggle2": "02 · Pôle Musical"
+    },
+    "hero": {
+      "eyebrow": "Concept visuel",
+      "title": "Votre répertoire prend vie sur scène",
+      "subtitle": "Choisissez un morceau, suivez la grille qui défile, ouvrez n'importe quel outil sans sortir du flux.",
+      "cta": "Commencer gratuitement"
+    },
+    "library": {
+      "title": "Votre bibliothèque",
+      "subtitle": "Cherchez, filtrez par genre, ouvrez n'importe quelle grille.",
+      "count_one": "{{count}} morceau",
+      "count_other": "{{count}} morceaux",
+      "allChip": "Tout",
+      "searchPlaceholder": "Rechercher un morceau…",
+      "groupLabel": "Bibliothèque complète",
+      "addCta": "+ Nouveau morceau"
+    },
+    "oneScreen": {
+      "title": "Un seul écran. Tout le concert.",
+      "subtitle": "La bibliothèque reste à portée de main. Le morceau reste au centre.",
+      "languagesLabel": "langues",
+      "instrumentsLabel": "instruments",
+      "paperLabel": "feuilles sur scène"
+    },
+    "footer": {
+      "tagline": "Grilles, répertoire et groupe, au même tempo."
+    }
+  }
+}

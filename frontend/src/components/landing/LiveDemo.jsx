@@ -11,9 +11,15 @@ import ChordSheet from '../ChordSheet'
  * a altura fixa em CSS (.landing-live-demo .landing-mockup-body) só recorta
  * a visualização, não trunca o dado. Reaproveita a mesma "chrome" visual
  * de app falso que Hero.jsx já usa (.landing-mockup), sem CSS novo pro
- * frame em si. */
-export default function LiveDemo() {
+ * frame em si.
+ *
+ * `showTransport` (opcional, padrão false — usado por /main2 e /sobre2,
+ * não muda o comportamento existente em /sobre): mostra uma fileira de
+ * controles de transporte só decorativos (sempre `disabled`, nunca ligados
+ * a reprodução de verdade), pra bater com o layout da referência. */
+export default function LiveDemo({ showTransport = false }) {
   const { t } = useTranslation('landing')
+  const { t: t2 } = useTranslation('landing2')
 
   const { data: picked } = useQuery({
     queryKey: ['landing-live-demo-pick'],
@@ -50,6 +56,17 @@ export default function LiveDemo() {
                 <div className="landing-mockup-song">{t('liveDemo.loading')}</div>
               )}
             </div>
+            {showTransport && (
+              <div className="landing-transport-row">
+                <button type="button" className="landing-transport-btn" disabled aria-label={t2('shared.transportPrev')}>⏮</button>
+                <button type="button" className="landing-transport-btn" disabled aria-label={t2('shared.transportPlay')}>▶</button>
+                <button type="button" className="landing-transport-btn" disabled aria-label={t2('shared.transportNext')}>⏭</button>
+                <button type="button" className="landing-transport-btn" disabled aria-label={t2('shared.transportDown')}>♭</button>
+                <button type="button" className="landing-transport-btn" disabled aria-label={t2('shared.transportUp')}>♯</button>
+                <button type="button" className="landing-transport-btn" disabled aria-label={t2('shared.transportZoomOut')}>−</button>
+                <button type="button" className="landing-transport-btn" disabled aria-label={t2('shared.transportZoomIn')}>+</button>
+              </div>
+            )}
           </div>
           {song && (
             <div className="landing-live-demo-cta">

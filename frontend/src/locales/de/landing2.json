@@ -1,0 +1,82 @@
+{
+  "shared": {
+    "transportPrev": "Zurück",
+    "transportPlay": "Abspielen",
+    "transportNext": "Weiter",
+    "transportDown": "Halbton runter",
+    "transportUp": "Halbton hoch",
+    "transportZoomOut": "Schrift verkleinern",
+    "transportZoomIn": "Schrift vergrößern",
+    "setlistDate": "FR · 21:30",
+    "setlistShow": "Freitagsshow",
+    "setlistDuration": "45 Min.",
+    "song1Duration": "06:48",
+    "song2Duration": "04:12",
+    "song3Duration": "03:54",
+    "song4Duration": "05:02"
+  },
+  "main2": {
+    "header": {
+      "toggle1": "01 · Live-Bühne",
+      "toggle2": "02 · Musik-Zentrale"
+    },
+    "hero": {
+      "eyebrow": "Visuelles Konzept",
+      "title": "Dein Repertoire wird auf der Bühne lebendig",
+      "subtitle": "Song auswählen, das Liedblatt mitlaufen lassen, jedes Werkzeug öffnen, ohne den Ablauf zu verlassen.",
+      "cta": "Kostenlos starten"
+    },
+    "library": {
+      "title": "Deine Bibliothek",
+      "subtitle": "Suchen, nach Genre filtern, jedes Liedblatt öffnen.",
+      "count_one": "{{count}} Lied",
+      "count_other": "{{count}} Lieder",
+      "allChip": "Alle",
+      "searchPlaceholder": "Lied suchen…",
+      "groupLabel": "Vollständige Bibliothek",
+      "addCta": "+ Neues Lied"
+    },
+    "oneScreen": {
+      "title": "Ein Bildschirm. Die ganze Show.",
+      "subtitle": "Die Bibliothek bleibt immer griffbereit. Der Song bleibt im Mittelpunkt.",
+      "languagesLabel": "Sprachen",
+      "instrumentsLabel": "Instrumente",
+      "paperLabel": "Notenblätter auf der Bühne"
+    },
+    "footer": {
+      "tagline": "Liedblätter, Repertoire und Band im gleichen Takt."
+    }
+  },
+  "sobre2": {
+    "header": {
+      "toggle1": "01 · Live-Bühne",
+      "toggle2": "02 · Musik-Zentrale"
+    },
+    "hero": {
+      "eyebrow": "Visuelles Konzept",
+      "title": "Dein Repertoire wird auf der Bühne lebendig",
+      "subtitle": "Song auswählen, das Liedblatt mitlaufen lassen, jedes Werkzeug öffnen, ohne den Ablauf zu verlassen.",
+      "cta": "Kostenlos starten"
+    },
+    "library": {
+      "title": "Deine Bibliothek",
+      "subtitle": "Suchen, nach Genre filtern, jedes Liedblatt öffnen.",
+      "count_one": "{{count}} Lied",
+      "count_other": "{{count}} Lieder",
+      "allChip": "Alle",
+      "searchPlaceholder": "Lied suchen…",
+      "groupLabel": "Vollständige Bibliothek",
+      "addCta": "+ Neues Lied"
+    },
+    "oneScreen": {
+      "title": "Ein Bildschirm. Die ganze Show.",
+      "subtitle": "Die Bibliothek bleibt immer griffbereit. Der Song bleibt im Mittelpunkt.",
+      "languagesLabel": "Sprachen",
+      "instrumentsLabel": "Instrumente",
+      "paperLabel": "Notenblätter auf der Bühne"
+    },
+    "footer": {
+      "tagline": "Liedblätter, Repertoire und Band im gleichen Takt."
+    }
+  }
+}

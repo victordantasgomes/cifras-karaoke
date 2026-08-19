@@ -1,0 +1,79 @@
+/* =============================================================
+   /main2 e /sobre2 — seções novas, inspiradas na estrutura da
+   referência "Central Musical". Usa só os tokens já existentes em
+   global.css (paleta/fonte já reskinadas na rodada anterior) — nada de
+   cor/fonte hardcoded aqui.
+   ============================================================= */
+
+/* ---------- cabeçalho: alternância de conceito ---------- */
+.landing-concept-toggle { display: flex; gap: 18px; }
+.landing-concept-toggle-item {
+  color: var(--muted); font-size: 12.5px; font-weight: 700;
+  text-transform: uppercase; letter-spacing: 0.06em; text-decoration: none;
+}
+.landing-concept-toggle-item.active { color: var(--accent); }
+.landing-concept-toggle-item:hover { color: var(--text); }
+
+/* ---------- hero (coluna única, sem foto) ---------- */
+.landing-hero2 {
+  padding-top: 148px !important;
+  max-width: 720px; margin: 0 auto; text-align: center;
+}
+.landing-hero2 .landing-hero-sub { margin-left: auto; margin-right: auto; }
+.landing-hero2 .landing-hero-actions { justify-content: center; }
+
+/* ---------- tocando agora: transporte decorativo ---------- */
+.landing-transport-row {
+  display: flex; align-items: center; justify-content: center; gap: 8px;
+  padding: 12px 14px; border-top: 1px solid var(--stroke);
+}
+.landing-transport-btn {
+  border: 1px solid var(--stroke); background: var(--glass); color: var(--muted);
+  border-radius: 8px; padding: 5px 10px; font-size: 13px; cursor: default;
+}
+
+/* ---------- sua biblioteca ---------- */
+.landing-library-count { text-align: center; color: var(--muted); font-size: 13px; margin-bottom: 14px; }
+.landing-library-search {
+  display: flex; align-items: center; gap: 8px; max-width: 360px; margin: 0 auto 16px;
+  border: 1px solid var(--stroke); border-radius: 999px; padding: 8px 16px; background: var(--glass);
+}
+.landing-library-search span { color: var(--muted); }
+.landing-library-search input {
+  border: none; background: none; outline: none; color: var(--text); font-size: 14px; flex: 1;
+  font-family: var(--font-body);
+}
+.landing-library-chip-row { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-bottom: 18px; }
+.landing-library-chip {
+  border: 1px solid var(--stroke); background: var(--glass); color: var(--muted);
+  border-radius: 999px; padding: 6px 14px; font-size: 12.5px; font-weight: 600; cursor: pointer;
+}
+.landing-library-chip.active { background: var(--accent-soft); color: var(--accent); border-color: var(--accent); }
+.landing-library-group-label {
+  font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em;
+  color: var(--muted); margin-bottom: 8px;
+}
+.landing-library-add-cta { text-align: center; margin-top: 16px; }
+
+/* ---------- setlist: cabeçalho + duração ---------- */
+.landing-setlist-header {
+  display: flex; justify-content: space-between; gap: 10px; padding-bottom: 10px;
+  margin-bottom: 6px; border-bottom: 1px solid var(--stroke);
+  font-size: 11.5px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted);
+}
+.landing-setlist-duration { color: var(--muted); font-family: var(--font-mono); font-size: 12.5px; }
+
+/* ---------- uma tela, o show inteiro ---------- */
+.landing-stat-row { display: flex; justify-content: center; gap: 48px; flex-wrap: wrap; }
+.landing-stat-item { text-align: center; }
+.landing-stat-value { font-family: var(--font-display); font-weight: 700; font-size: 34px; color: var(--accent); }
+.landing-stat-label { color: var(--muted); font-size: 12.5px; text-transform: uppercase; letter-spacing: 0.06em; margin-top: 4px; }
+
+/* ---------- responsivo ---------- */
+@media (max-width: 900px) {
+  .landing-hero2 { padding-top: 120px !important; }
+  .landing-concept-toggle { gap: 12px; }
+  .landing-transport-row { flex-wrap: wrap; }
+  .landing-stat-row { gap: 28px; }
+  .landing-setlist-header { flex-wrap: wrap; }
+}
