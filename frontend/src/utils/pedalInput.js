@@ -59,10 +59,14 @@ export function signatureEquals(a, b) {
   if (!a || !b || a.type !== b.type) return false
   if (a.type === 'keyboard') return a.code === b.code
   if (a.type === 'midi') {
-    // deviceId pode variar entre reconexões Bluetooth — bate por id OU
-    // pelo nome do dispositivo, mesmo raciocínio do fallback de gamepadId.
+    // NÃO compara deviceId/deviceName: o mesmo pedal físico aparece pro
+    // navegador como uma porta MIDI DIFERENTE por cabo USB e por Bluetooth
+    // (transporte diferente, id/nome diferente do lado do SO) — exigir o
+    // mesmo dispositivo faria um botão cadastrado com o cabo nunca bater
+    // via Bluetooth (e vice-versa), mesmo a mensagem MIDI em si sendo
+    // idêntica. kind+canal+número já identifica o botão físico bem o
+    // bastante pro caso de uso de foot switch (um dispositivo por vez).
     return a.kind === b.kind && a.channel === b.channel && a.number === b.number
-      && (a.deviceId === b.deviceId || (a.deviceName && a.deviceName === b.deviceName))
   }
   // gamepadIndex pode variar entre reconexões — bate por índice OU por id
   // do dispositivo (ver comentário em resolveButtonId abaixo).
