@@ -50,5 +50,33 @@
     "clipQueueNext": "Clip-Warteschlange weiter",
     "toggleFullTrack": "Kompletten Track umschalten",
     "gatedHint": "nur aktiv bei Songs mit aktiviertem Modus „{{mode}}“"
+  },
+  "status": {
+    "connected": "Verbunden",
+    "disconnected": "Getrennt",
+    "unknown": "Tastaturerkennung — kein Verbindungsstatus"
+  },
+  "devices": {
+    "title": "Gerade erkannte Geräte",
+    "hint": "Wenn dein Bluetooth-Pedal auf Systemebene bereits gekoppelt ist, aber in keiner der Listen unten auftaucht, sieht der Browser keinen MIDI- oder Gamepad-Port dafür — meist fehlt ein MIDI-über-Bluetooth-Treiber auf Betriebssystemebene, was außerhalb der Reichweite dieser App liegt.",
+    "midiSectionTitle": "MIDI",
+    "gamepadSectionTitle": "Gamepad",
+    "midiEmpty": "Kein MIDI-Port vom Browser erkannt.",
+    "gamepadEmpty": "Kein Gamepad vom Browser erkannt.",
+    "batteryNote": "Der Akkustand ist etwas, das der Browser für MIDI- oder Gamepad-Geräte nicht offenlegt — das wäre nur mit einer separaten, modellspezifischen Bluetooth-Verbindung für dein Pedal möglich."
+  },
+  "testLog": {
+    "title": "Tasten testen",
+    "description": "Drücke eine konfigurierte Taste oder Kombination — die ausgelöste Aktion erscheint sofort hier, praktisch um vor dem Auftritt alles zu prüfen.",
+    "empty": "Noch keine Aktion ausgelöst.",
+    "testSongButton": "An einem echten Song testen",
+    "testSongLoading": "Suche einen Song…",
+    "testSongError": "Konnte gerade keinen Test-Song laden.",
+    "testSongHint": "Öffnet einen echten öffentlichen Song in einem neuen Tab — dort funktioniert das Pedal schon mit den von dir eingerichteten Aktionen."
+  },
+  "playerBadge": {
+    "connected": "Pedal verbunden ({{count}}/{{total}})",
+    "disconnected": "Verbindungsproblem beim Pedal ({{count}}/{{total}} reagieren)",
+    "keyboardOnly": "Pedal konfiguriert (Tastaturerkennung, kein Verbindungsstatus)"
   }
 }

@@ -50,5 +50,33 @@
     "clipQueueNext": "Avanzar cola de clips",
     "toggleFullTrack": "Alternar pista completa",
     "gatedHint": "solo activo en canciones con el modo \"{{mode}}\" activado"
+  },
+  "status": {
+    "connected": "Conectado",
+    "disconnected": "Desconectado",
+    "unknown": "Detección por teclado — sin estado de conexión"
+  },
+  "devices": {
+    "title": "Dispositivos detectados ahora",
+    "hint": "Si tu pedal Bluetooth ya está emparejado en el sistema pero no aparece en ninguna de las listas de abajo, el navegador no está viendo un puerto MIDI o gamepad para él — normalmente falta un controlador de MIDI por Bluetooth en el sistema operativo, algo fuera del alcance de esta app.",
+    "midiSectionTitle": "MIDI",
+    "gamepadSectionTitle": "Gamepad",
+    "midiEmpty": "Ningún puerto MIDI detectado por el navegador.",
+    "gamepadEmpty": "Ningún gamepad detectado por el navegador.",
+    "batteryNote": "El nivel de batería no es algo que el navegador exponga para dispositivos MIDI o gamepad — solo sería posible con una conexión Bluetooth separada y específica para el modelo de tu pedal."
+  },
+  "testLog": {
+    "title": "Probar botones",
+    "description": "Pisa cualquier botón o combinación configurado — la acción disparada aparece aquí al instante, útil para confirmar todo antes de subir al escenario.",
+    "empty": "Ninguna acción disparada todavía.",
+    "testSongButton": "Probar en una canción real",
+    "testSongLoading": "Buscando una canción…",
+    "testSongError": "No pude cargar una canción de prueba ahora.",
+    "testSongHint": "Abre una cifra pública real en una pestaña nueva — allí el pedal ya funciona con las acciones que configuraste."
+  },
+  "playerBadge": {
+    "connected": "Pedal conectado ({{count}}/{{total}})",
+    "disconnected": "Pedal con problema de conexión ({{count}}/{{total}} respondiendo)",
+    "keyboardOnly": "Pedal configurado (detección por teclado, sin estado de conexión)"
   }
 }

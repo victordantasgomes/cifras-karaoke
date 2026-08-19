@@ -50,5 +50,33 @@
     "clipQueueNext": "播放下一个片段",
     "toggleFullTrack": "切换完整音轨",
     "gatedHint": "只在开启“{{mode}}”模式的歌曲中生效"
+  },
+  "status": {
+    "connected": "已连接",
+    "disconnected": "已断开",
+    "unknown": "键盘检测——无连接状态"
+  },
+  "devices": {
+    "title": "当前检测到的设备",
+    "hint": "如果你的蓝牙踏板已经在系统层面配对，但没有出现在下面任何一个列表中，说明浏览器没有为它识别到 MIDI 端口或游戏手柄——通常是操作系统缺少蓝牙 MIDI 驱动，这超出了本应用的能力范围。",
+    "midiSectionTitle": "MIDI",
+    "gamepadSectionTitle": "游戏手柄",
+    "midiEmpty": "浏览器未检测到任何 MIDI 端口。",
+    "gamepadEmpty": "浏览器未检测到任何游戏手柄。",
+    "batteryNote": "电量水平是浏览器不会为 MIDI 或游戏手柄设备暴露的信息——只有通过针对你踏板具体型号的单独蓝牙连接才可能实现。"
+  },
+  "testLog": {
+    "title": "测试按键",
+    "description": "按下任意已配置的按键或组合——触发的动作会立即显示在这里，方便你上台前确认一切正常。",
+    "empty": "还没有触发任何动作。",
+    "testSongButton": "在真实歌曲中测试",
+    "testSongLoading": "正在查找歌曲…",
+    "testSongError": "现在无法加载测试歌曲。",
+    "testSongHint": "在新标签页打开一首真实的公开歌曲——那里的踏板已经能用你设置的动作。"
+  },
+  "playerBadge": {
+    "connected": "踏板已连接（{{count}}/{{total}}）",
+    "disconnected": "踏板连接异常（{{count}}/{{total}} 响应中）",
+    "keyboardOnly": "已配置踏板（键盘检测，无连接状态）"
   }
 }

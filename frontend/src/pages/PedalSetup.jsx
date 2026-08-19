@@ -7,6 +7,7 @@ import { signatureFromKeydown, signatureFromGamepadButton, signatureLabel, resol
 import { createComboEngine } from '../utils/pedalComboEngine'
 import { useGamepadEvents } from '../hooks/useGamepadEvents'
 import { useMidiEvents } from '../hooks/useMidiEvents'
+import { usePedalStatus } from '../hooks/usePedalStatus'
 
 const EMPTY_CONFIG = { version: 1, buttons: [], assignments: [] }
 const FLASH_MS = 320
@@ -64,6 +65,7 @@ export default function PedalSetup() {
   const assignments = config.assignments || []
   const legacyKey = settings?.prefs?.pedalKey
   const showLegacyBanner = Boolean(!settings?.prefs?.pedalConfig && legacyKey)
+  const pedalStatus = usePedalStatus()
 
   const updateConfig = (next) => save.mutate({ version: 1, buttons: next.buttons ?? buttons, assignments: next.assignments ?? assignments })
 
@@ -102,11 +104,23 @@ export default function PedalSetup() {
     setTimeout(() => setFn((prev) => { const next = new Set(prev); next.delete(id); return next }), FLASH_MS)
   }
 
+  // log das últimas ações disparadas — pra testar se a configuração está
+  // certa sem precisar abrir uma música de verdade (ver actionLabel abaixo)
+  const [testLog, setTestLog] = useState([])
+  const logFire = (actionId) => {
+    const action = PEDAL_ACTIONS.find((a) => a.id === actionId)
+    const entry = { id: `${Date.now()}_${Math.random().toString(36).slice(2, 6)}`, label: action ? t(action.labelKey) : actionId, time: new Date().toLocaleTimeString() }
+    setTestLog((prev) => [entry, ...prev].slice(0, 8))
+  }
+
   const engineRef = useRef(null)
   useEffect(() => {
     const engine = createComboEngine({
       assignments,
-      onFire: (_actionId, assignment) => flash(setFlashingAssignments, assignment.id),
+      onFire: (actionId, assignment) => {
+        flash(setFlashingAssignments, assignment.id)
+        logFire(actionId)
+      },
     })
     engineRef.current = engine
     return () => engine.destroy()
@@ -191,6 +205,28 @@ export default function PedalSetup() {
   }
   const dismissLegacyBanner = () => updateConfig(EMPTY_CONFIG)
 
+  // "testar numa música real" — abre uma cifra pública de verdade (nunca
+  // inventada) numa aba nova; lá o pedal já roda com as ações configuradas
+  // aqui, então dá pra experimentar o efeito de verdade (rolagem, troca de
+  // linha, etc.), não só o log de nomes de ação abaixo.
+  const [testSongState, setTestSongState] = useState('idle') // idle | loading | error
+  const testOnRealSong = async () => {
+    setTestSongState('loading')
+    try {
+      const { data } = await api.get('/public/songs', { params: { page_size: 20 } })
+      const items = data?.items || []
+      if (!items.length) throw new Error('sem músicas públicas')
+      const pick = items[Math.floor(Math.random() * items.length)]
+      window.open(`/karaoke/${pick.slug}`, '_blank', 'noopener')
+      setTestSongState('idle')
+    } catch {
+      setTestSongState('error')
+    }
+  }
+
+  const buttonStatus = (buttonId) => pedalStatus.statuses.find((s) => s.button.id === buttonId)?.status || 'unknown'
+  const statusLabel = (status) => t(`status.${status}`)
+
   const actionLabel = (actionId) => {
     const action = PEDAL_ACTIONS.find((a) => a.id === actionId)
     if (!action) return ''
@@ -217,13 +253,45 @@ export default function PedalSetup() {
       )}
 
       <div className="card" style={{ marginBottom: 14 }}>
+        <h3 style={{ marginBottom: 12 }}>{t('devices.title')}</h3>
+        <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>{t('devices.hint')}</p>
+
+        <div className="pedal-device-row" style={{ fontWeight: 600, color: 'var(--muted)' }}>
+          <span>{t('devices.midiSectionTitle')}</span>
+        </div>
+        {!pedalStatus.midiInputs.length && <div className="pedal-device-row">{t('devices.midiEmpty')}</div>}
+        {pedalStatus.midiInputs.map((i) => (
+          <div className="pedal-device-row" key={i.name + i.state}>
+            <span>{i.name}</span>
+            <span className={i.state === 'connected' ? 'chip' : 'chip'} style={i.state !== 'connected' ? { background: 'var(--danger, #ef5a5f)', color: '#fff' } : undefined}>
+              {i.state === 'connected' ? t('status.connected') : t('status.disconnected')}
+            </span>
+          </div>
+        ))}
+
+        <div className="pedal-device-row" style={{ fontWeight: 600, color: 'var(--muted)', marginTop: 10 }}>
+          <span>{t('devices.gamepadSectionTitle')}</span>
+        </div>
+        {!pedalStatus.gamepads.length && <div className="pedal-device-row">{t('devices.gamepadEmpty')}</div>}
+        {pedalStatus.gamepads.map((g) => (
+          <div className="pedal-device-row" key={g.id}>
+            <span>{g.id}</span>
+            <span className="chip">{t('status.connected')}</span>
+          </div>
+        ))}
+
+        <p style={{ color: 'var(--muted)', fontSize: 12.5, margin: '14px 0 0' }}>{t('devices.batteryNote')}</p>
+      </div>
+
+      <div className="card" style={{ marginBottom: 14 }}>
         <h3 style={{ marginBottom: 12 }}>{t('buttons.title')}</h3>
 
         {!buttons.length && <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>{t('buttons.empty')}</p>}
 
         {buttons.map((b) => (
           <div className="pedal-row" key={b.id}>
-            <span className={`pedal-dot${flashingButtons.has(b.id) ? ' flash' : ''}`} title={t('buttons.testHint')} />
+            <span className={`pedal-dot status-${buttonStatus(b.id)}${flashingButtons.has(b.id) ? ' flash' : ''}`}
+              title={`${statusLabel(buttonStatus(b.id))} — ${t('buttons.testHint')}`} />
             <input className="input pedal-row-label" value={b.label}
               onChange={(e) => renameButton(b.id, e.target.value)} />
             <span className="pedal-row-sig">{signatureLabel(b.input, t)}</span>
@@ -243,7 +311,7 @@ export default function PedalSetup() {
         </div>
       </div>
 
-      <div className="card">
+      <div className="card" style={{ marginBottom: 14 }}>
         <h3 style={{ marginBottom: 12 }}>{t('combos.title')}</h3>
         <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>{t('combos.description')}</p>
 
@@ -284,6 +352,26 @@ export default function PedalSetup() {
             </div>
           </div>
         )}
+      </div>
+
+      <div className="card">
+        <h3 style={{ marginBottom: 12 }}>{t('testLog.title')}</h3>
+        <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>{t('testLog.description')}</p>
+
+        {!testLog.length && <p style={{ color: 'var(--muted)', margin: '0 0 14px' }}>{t('testLog.empty')}</p>}
+        {testLog.map((entry) => (
+          <div className="pedal-log-entry" key={entry.id}>
+            <strong>{entry.label}</strong> — {entry.time}
+          </div>
+        ))}
+
+        <div style={{ marginTop: 14 }}>
+          <button className="btn primary" disabled={testSongState === 'loading'} onClick={testOnRealSong}>
+            {testSongState === 'loading' ? t('testLog.testSongLoading') : t('testLog.testSongButton')}
+          </button>
+          <p style={{ color: 'var(--muted)', fontSize: 12.5, margin: '10px 0 0' }}>{t('testLog.testSongHint')}</p>
+          {testSongState === 'error' && <p style={{ color: 'var(--danger, #ef5a5f)', margin: '8px 0 0' }}>{t('testLog.testSongError')}</p>}
+        </div>
       </div>
     </>
   )

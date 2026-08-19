@@ -23,6 +23,7 @@ import { useChordSidebarStore } from '../store/chordSidebarStore'
 import KaraokeLines from '../components/KaraokeLines'
 import KaraokeChordSidebar from '../components/KaraokeChordSidebar'
 import YoutubeMiniPlayer from '../components/YoutubeMiniPlayer'
+import PedalStatusBadge from '../components/PedalStatusBadge'
 import { extractYoutubeId } from '../utils/youtube'
 
 const ROW_BUDGET = 16
@@ -491,6 +492,7 @@ export default function KaraokeStage() {
             ? <>{t('status.audioLine', { current: player.index + 1, total: player.steps.length, rate: rate.toFixed(1) })}{player.hasAudio && !audioReady && <> · {t('status.loadingAudio')}</>}</>
             : <>{t('status.legacyLine', { current: player.index + 1, total: player.steps.length, seconds: (player.msPerLine / 1000).toFixed(1) })}</>}
           {' · '}{t('status.zoom', { percent: Math.round(zoom * 100) })}
+          {' '}<PedalStatusBadge />
         </div>
       </div>
 

@@ -50,5 +50,33 @@
     "clipQueueNext": "Avancer la file de clips",
     "toggleFullTrack": "Basculer piste complète",
     "gatedHint": "actif seulement sur les morceaux avec le mode « {{mode}} » activé"
+  },
+  "status": {
+    "connected": "Connecté",
+    "disconnected": "Déconnecté",
+    "unknown": "Détection clavier — pas d'état de connexion"
+  },
+  "devices": {
+    "title": "Appareils détectés en ce moment",
+    "hint": "Si votre pédale Bluetooth est déjà appairée au niveau du système mais n'apparaît dans aucune des listes ci-dessous, le navigateur ne voit pas de port MIDI ou de manette pour elle — il manque généralement un pilote MIDI-par-Bluetooth au niveau du système d'exploitation, ce qui est hors de portée de cette application.",
+    "midiSectionTitle": "MIDI",
+    "gamepadSectionTitle": "Manette",
+    "midiEmpty": "Aucun port MIDI détecté par le navigateur.",
+    "gamepadEmpty": "Aucune manette détectée par le navigateur.",
+    "batteryNote": "Le niveau de batterie n'est pas quelque chose que le navigateur expose pour les appareils MIDI ou les manettes — ce ne serait possible qu'avec une connexion Bluetooth séparée et spécifique au modèle exact de votre pédale."
+  },
+  "testLog": {
+    "title": "Tester les boutons",
+    "description": "Appuyez sur n'importe quel bouton ou combinaison configuré — l'action déclenchée apparaît ici instantanément, pratique pour tout vérifier avant de monter sur scène.",
+    "empty": "Aucune action déclenchée pour l’instant.",
+    "testSongButton": "Tester sur une vraie chanson",
+    "testSongLoading": "Recherche d'une chanson…",
+    "testSongError": "Impossible de charger une chanson de test pour l'instant.",
+    "testSongHint": "Ouvre une vraie cifra publique dans un nouvel onglet — la pédale y fonctionne déjà avec les actions que vous avez configurées."
+  },
+  "playerBadge": {
+    "connected": "Pédale connectée ({{count}}/{{total}})",
+    "disconnected": "Problème de connexion de la pédale ({{count}}/{{total}} qui répondent)",
+    "keyboardOnly": "Pédale configurée (détection clavier, pas d'état de connexion)"
   }
 }

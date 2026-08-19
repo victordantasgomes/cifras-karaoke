@@ -50,5 +50,33 @@
     "clipQueueNext": "Avanza coda clip",
     "toggleFullTrack": "Alterna traccia completa",
     "gatedHint": "attivo solo nelle canzoni con la modalità \"{{mode}}\" attiva"
+  },
+  "status": {
+    "connected": "Connesso",
+    "disconnected": "Disconnesso",
+    "unknown": "Rilevamento da tastiera — nessuno stato di connessione"
+  },
+  "devices": {
+    "title": "Dispositivi rilevati ora",
+    "hint": "Se il tuo pedale Bluetooth è già associato a livello di sistema ma non compare in nessuno degli elenchi qui sotto, il browser non sta vedendo una porta MIDI o un gamepad per esso — di solito manca un driver MIDI-su-Bluetooth a livello di sistema operativo, qualcosa fuori dalla portata di questa app.",
+    "midiSectionTitle": "MIDI",
+    "gamepadSectionTitle": "Gamepad",
+    "midiEmpty": "Nessuna porta MIDI rilevata dal browser.",
+    "gamepadEmpty": "Nessun gamepad rilevato dal browser.",
+    "batteryNote": "Il livello della batteria non è qualcosa che il browser espone per i dispositivi MIDI o gamepad — sarebbe possibile solo con una connessione Bluetooth separata e specifica per il modello esatto del tuo pedale."
+  },
+  "testLog": {
+    "title": "Testa i pulsanti",
+    "description": "Premi un pulsante o una combinazione configurati — l'azione attivata compare qui all'istante, utile per controllare tutto prima di salire sul palco.",
+    "empty": "Nessuna azione attivata ancora.",
+    "testSongButton": "Testa su una canzone reale",
+    "testSongLoading": "Sto cercando una canzone…",
+    "testSongError": "Non sono riuscito a caricare una canzone di prova ora.",
+    "testSongHint": "Apre una cifra pubblica reale in una nuova scheda — lì il pedale funziona già con le azioni che hai configurato."
+  },
+  "playerBadge": {
+    "connected": "Pedale connesso ({{count}}/{{total}})",
+    "disconnected": "Problema di connessione del pedale ({{count}}/{{total}} che rispondono)",
+    "keyboardOnly": "Pedale configurato (rilevamento da tastiera, nessuno stato di connessione)"
   }
 }

@@ -13,6 +13,7 @@ import { extractUniqueChords } from '../utils/chordParser'
 import { useChordSidebarStore } from '../store/chordSidebarStore'
 import KaraokeChordSidebar from '../components/KaraokeChordSidebar'
 import YoutubeMiniPlayer from '../components/YoutubeMiniPlayer'
+import PedalStatusBadge from '../components/PedalStatusBadge'
 import { extractYoutubeId } from '../utils/youtube'
 
 const CHORD_LIKE = new Set(['acorde', 'solo', 'riff', 'tab'])
@@ -397,6 +398,7 @@ export default function ScrollPlayer({ data }) {
         <div>
           {formatTime(elapsedDisplay)} / {formatTime(totalMs / 1000)} · {rate.toFixed(1)}x · {t('status.zoom', { percent: Math.round(zoom * 100) })}
           {hasAudio && !audioReady && <> · {t('status.loadingAudio')}</>}
+          {' '}<PedalStatusBadge />
         </div>
       </div>
 
