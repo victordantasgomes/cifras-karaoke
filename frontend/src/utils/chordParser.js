@@ -58,6 +58,8 @@ const QUALITIES = [
   ['7', [0, 4, 7, 10]],
   ['9', [0, 4, 7, 10, 14]],
   ['6', [0, 4, 7, 9]],
+  ['5+', [0, 4, 8]], // quinta aumentada, grafia alternativa de "+"/"aug"
+  ['5-', [0, 4, 6]], // quinta diminuta (só a 5ª abaixada, terça maior mantida)
   ['5', [0, 7]], // poder-de-quinta ("power chord"): sem terça
   ['+', [0, 4, 8]],
 ]
