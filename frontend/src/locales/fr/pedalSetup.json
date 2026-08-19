@@ -77,6 +77,7 @@
   "playerBadge": {
     "connected": "Pédale connectée ({{count}}/{{total}})",
     "disconnected": "Problème de connexion de la pédale ({{count}}/{{total}} qui répondent)",
-    "keyboardOnly": "Pédale configurée (détection clavier, pas d'état de connexion)"
+    "keyboardOnly": "Pédale configurée (détection clavier, pas d'état de connexion)",
+    "detected": "Pédale détectée à l'instant !"
   }
 }

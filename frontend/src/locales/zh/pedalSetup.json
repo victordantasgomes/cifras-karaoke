@@ -77,6 +77,7 @@
   "playerBadge": {
     "connected": "踏板已连接（{{count}}/{{total}}）",
     "disconnected": "踏板连接异常（{{count}}/{{total}} 响应中）",
-    "keyboardOnly": "已配置踏板（键盘检测，无连接状态）"
+    "keyboardOnly": "已配置踏板（键盘检测，无连接状态）",
+    "detected": "刚刚检测到踏板！"
   }
 }

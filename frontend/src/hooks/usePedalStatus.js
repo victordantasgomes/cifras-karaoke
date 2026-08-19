@@ -93,6 +93,7 @@ export function usePedalStatus() {
 
   return {
     configured,
+    buttons,
     statuses,
     connectedCount,
     disconnectedCount,

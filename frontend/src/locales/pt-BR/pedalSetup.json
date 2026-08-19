@@ -77,6 +77,7 @@
   "playerBadge": {
     "connected": "Pedal conectado ({{count}}/{{total}})",
     "disconnected": "Pedal com problema de conexão ({{count}}/{{total}} respondendo)",
-    "keyboardOnly": "Pedal configurado (detecção por teclado, sem status de conexão)"
+    "keyboardOnly": "Pedal configurado (detecção por teclado, sem status de conexão)",
+    "detected": "Pedal detectado agora!"
   }
 }
