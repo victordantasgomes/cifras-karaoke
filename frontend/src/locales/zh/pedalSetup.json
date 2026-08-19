@@ -17,7 +17,10 @@
     "add": "添加按键",
     "input": {
       "keyboard": "键盘：{{code}}",
-      "gamepad": "游戏手柄 {{index}}，按键 {{button}}"
+      "gamepad": "游戏手柄 {{index}}，按键 {{button}}",
+      "midiNote": "MIDI：音符 {{note}}（通道 {{channel}}）",
+      "midiCc": "MIDI：CC {{cc}}（通道 {{channel}}）",
+      "midiPc": "MIDI：音色切换 {{program}}（通道 {{channel}}）"
     }
   },
   "combos": {

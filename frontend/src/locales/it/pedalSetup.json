@@ -17,7 +17,10 @@
     "add": "Aggiungi pulsante",
     "input": {
       "keyboard": "Tastiera: {{code}}",
-      "gamepad": "Gamepad {{index}}, pulsante {{button}}"
+      "gamepad": "Gamepad {{index}}, pulsante {{button}}",
+      "midiNote": "MIDI: nota {{note}} (canale {{channel}})",
+      "midiCc": "MIDI: CC {{cc}} (canale {{channel}})",
+      "midiPc": "MIDI: cambio programma {{program}} (canale {{channel}})"
     }
   },
   "combos": {

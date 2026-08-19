@@ -6,6 +6,7 @@ import { PEDAL_ACTIONS } from '../config/pedalActions'
 import { signatureFromKeydown, signatureFromGamepadButton, signatureLabel, resolveButtonId } from '../utils/pedalInput'
 import { createComboEngine } from '../utils/pedalComboEngine'
 import { useGamepadEvents } from '../hooks/useGamepadEvents'
+import { useMidiEvents } from '../hooks/useMidiEvents'
 
 const EMPTY_CONFIG = { version: 1, buttons: [], assignments: [] }
 const FLASH_MS = 320
@@ -20,13 +21,17 @@ function newAssignmentId() {
 /**
  * Tela dedicada de configuração de pedal (foot switch) — substitui o antigo
  * PedalSettingsCard de Settings.jsx (que virou só um resumo com link pra
- * cá). Detecta tanto teclado quanto gamepad (ver utils/pedalInput.js e
- * hooks/useGamepadEvents.js) — a causa raiz do pedal "não detectado" era a
- * detecção antiga ser só via keydown, e boa parte dos foot switches
- * baratos (USB ou Bluetooth pareado no SO) se apresenta como gamepad HID,
- * não teclado. Bluetooth em si não tem tratamento especial: uma vez pareado
- * nas configurações do sistema operacional, o navegador já enxerga o pedal
- * como um teclado ou gamepad comum.
+ * cá). Detecta teclado, gamepad E MIDI (ver utils/pedalInput.js,
+ * hooks/useGamepadEvents.js, hooks/useMidiEvents.js) — a causa raiz do
+ * pedal "não detectado" era a detecção antiga ser só via keydown: boa parte
+ * dos foot switches baratos (USB ou Bluetooth pareado no SO) se apresenta
+ * como gamepad HID, não teclado, e pedais vendidos como controlador MIDI
+ * (ex.: aparecem pareados no SO como "MIDI Pedal") não geram keydown NEM
+ * aparecem na Gamepad API — só são visíveis via Web MIDI, uma terceira API
+ * do navegador totalmente separada das outras duas. Bluetooth em si não tem
+ * tratamento especial: uma vez pareado nas configurações do sistema
+ * operacional, o navegador já enxerga o pedal como teclado, gamepad ou
+ * dispositivo MIDI comum, conforme o que ele realmente é.
  *
  * Cada botão cadastrado guarda sua ASSINATURA de input (código de tecla, ou
  * índice de gamepad+botão) em prefs.pedalConfig.buttons — o formato exato
@@ -64,17 +69,17 @@ export default function PedalSetup() {
 
   // ---------- adicionar botão (captura única) ----------
   const [capturing, setCapturing] = useState(false)
+  const addButtonFromSignature = (signature) => {
+    const id = newButtonId()
+    updateConfig({ buttons: [...buttons, { id, label: t('buttons.defaultLabel', { n: buttons.length + 1 }), input: signature }] })
+    setCapturing(false)
+  }
   useEffect(() => {
     if (!capturing) return undefined
-    const addButton = (signature) => {
-      const id = newButtonId()
-      updateConfig({ buttons: [...buttons, { id, label: t('buttons.defaultLabel', { n: buttons.length + 1 }), input: signature }] })
-      setCapturing(false)
-    }
     const onKeydown = (e) => {
       if (['INPUT', 'TEXTAREA', 'SELECT'].includes(e.target.tagName) || e.repeat) return
       e.preventDefault()
-      addButton(signatureFromKeydown(e))
+      addButtonFromSignature(signatureFromKeydown(e))
     }
     window.addEventListener('keydown', onKeydown)
     return () => window.removeEventListener('keydown', onKeydown)
@@ -82,16 +87,11 @@ export default function PedalSetup() {
   }, [capturing])
   useGamepadEvents({
     enabled: capturing,
-    onButtonDown: (gamepadIndex, buttonIndex, gamepad) => {
-      const id = newButtonId()
-      updateConfig({
-        buttons: [...buttons, {
-          id, label: t('buttons.defaultLabel', { n: buttons.length + 1 }),
-          input: signatureFromGamepadButton(gamepadIndex, buttonIndex, gamepad),
-        }],
-      })
-      setCapturing(false)
-    },
+    onButtonDown: (gamepadIndex, buttonIndex, gamepad) => addButtonFromSignature(signatureFromGamepadButton(gamepadIndex, buttonIndex, gamepad)),
+  })
+  useMidiEvents({
+    enabled: capturing,
+    onButtonDown: (signature) => addButtonFromSignature(signature),
   })
 
   // ---------- indicador "ao vivo": confirma detecção + combinação em tempo real ----------
@@ -114,23 +114,23 @@ export default function PedalSetup() {
   }, [assignments])
 
   const hasButtons = buttons.length > 0
+  const handleLiveDown = (signature) => {
+    const buttonId = resolveButtonId(signature, buttons)
+    if (!buttonId) return
+    flash(setFlashingButtons, buttonId)
+    engineRef.current?.handleDown(buttonId)
+  }
+  const handleLiveUp = (signature) => {
+    const buttonId = resolveButtonId(signature, buttons)
+    if (buttonId) engineRef.current?.handleUp(buttonId)
+  }
   useEffect(() => {
     if (!hasButtons) return undefined
-    const onDown = (signature) => {
-      const buttonId = resolveButtonId(signature, buttons)
-      if (!buttonId) return
-      flash(setFlashingButtons, buttonId)
-      engineRef.current?.handleDown(buttonId)
-    }
-    const onUp = (signature) => {
-      const buttonId = resolveButtonId(signature, buttons)
-      if (buttonId) engineRef.current?.handleUp(buttonId)
-    }
     const onKeydown = (e) => {
       if (['INPUT', 'TEXTAREA', 'SELECT'].includes(e.target.tagName) || e.repeat || capturing) return
-      onDown(signatureFromKeydown(e))
+      handleLiveDown(signatureFromKeydown(e))
     }
-    const onKeyup = (e) => { if (!capturing) onUp(signatureFromKeydown(e)) }
+    const onKeyup = (e) => { if (!capturing) handleLiveUp(signatureFromKeydown(e)) }
     window.addEventListener('keydown', onKeydown)
     window.addEventListener('keyup', onKeyup)
     return () => {
@@ -141,16 +141,13 @@ export default function PedalSetup() {
   }, [hasButtons, buttons, capturing])
   useGamepadEvents({
     enabled: hasButtons && !capturing,
-    onButtonDown: (gamepadIndex, buttonIndex, gamepad) => {
-      const buttonId = resolveButtonId(signatureFromGamepadButton(gamepadIndex, buttonIndex, gamepad), buttons)
-      if (!buttonId) return
-      flash(setFlashingButtons, buttonId)
-      engineRef.current?.handleDown(buttonId)
-    },
-    onButtonUp: (gamepadIndex, buttonIndex, gamepad) => {
-      const buttonId = resolveButtonId(signatureFromGamepadButton(gamepadIndex, buttonIndex, gamepad), buttons)
-      if (buttonId) engineRef.current?.handleUp(buttonId)
-    },
+    onButtonDown: (gamepadIndex, buttonIndex, gamepad) => handleLiveDown(signatureFromGamepadButton(gamepadIndex, buttonIndex, gamepad)),
+    onButtonUp: (gamepadIndex, buttonIndex, gamepad) => handleLiveUp(signatureFromGamepadButton(gamepadIndex, buttonIndex, gamepad)),
+  })
+  useMidiEvents({
+    enabled: hasButtons && !capturing,
+    onButtonDown: handleLiveDown,
+    onButtonUp: handleLiveUp,
   })
 
   // ---------- ações por botão único ----------

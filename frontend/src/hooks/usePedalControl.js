@@ -5,6 +5,7 @@ import { useClipQueueStore } from '../store/clipQueueStore'
 import { signatureFromKeydown, signatureFromGamepadButton, resolveButtonId } from '../utils/pedalInput'
 import { createComboEngine } from '../utils/pedalComboEngine'
 import { useGamepadEvents } from './useGamepadEvents'
+import { useMidiEvents } from './useMidiEvents'
 
 /**
  * Fio comum entre KaraokeStage.jsx e ScrollPlayer.jsx pro controle por pedal
@@ -124,6 +125,18 @@ export function usePedalControl(slug, data, pedalActions) {
     },
     onButtonUp: (gamepadIndex, buttonIndex, gamepad) => {
       const buttonId = resolveButtonId(signatureFromGamepadButton(gamepadIndex, buttonIndex, gamepad), buttons)
+      if (buttonId) engineRef.current?.handleUp(buttonId)
+    },
+  })
+
+  useMidiEvents({
+    enabled: hasPedal,
+    onButtonDown: (signature) => {
+      const buttonId = resolveButtonId(signature, buttons)
+      if (buttonId) engineRef.current?.handleDown(buttonId)
+    },
+    onButtonUp: (signature) => {
+      const buttonId = resolveButtonId(signature, buttons)
       if (buttonId) engineRef.current?.handleUp(buttonId)
     },
   })

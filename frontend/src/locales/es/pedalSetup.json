@@ -17,7 +17,10 @@
     "add": "Añadir botón",
     "input": {
       "keyboard": "Teclado: {{code}}",
-      "gamepad": "Gamepad {{index}}, botón {{button}}"
+      "gamepad": "Gamepad {{index}}, botón {{button}}",
+      "midiNote": "MIDI: nota {{note}} (canal {{channel}})",
+      "midiCc": "MIDI: CC {{cc}} (canal {{channel}})",
+      "midiPc": "MIDI: cambio de programa {{program}} (canal {{channel}})"
     }
   },
   "combos": {

@@ -17,7 +17,10 @@
     "add": "Добавить кнопку",
     "input": {
       "keyboard": "Клавиатура: {{code}}",
-      "gamepad": "Геймпад {{index}}, кнопка {{button}}"
+      "gamepad": "Геймпад {{index}}, кнопка {{button}}",
+      "midiNote": "MIDI: нота {{note}} (канал {{channel}})",
+      "midiCc": "MIDI: CC {{cc}} (канал {{channel}})",
+      "midiPc": "MIDI: смена программы {{program}} (канал {{channel}})"
     }
   },
   "combos": {
