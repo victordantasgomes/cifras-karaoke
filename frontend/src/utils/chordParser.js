@@ -55,6 +55,10 @@ const QUALITIES = [
   ['M', [0, 4, 7]], // "CM" — maior explícito, equivalente a "C"
   ['11', [0, 4, 7, 10, 14, 17]],
   ['13', [0, 4, 7, 10, 14, 21]],
+  ['7b5', [0, 4, 6, 10]], // sétima dominante com alteração colada (sem
+  ['7#5', [0, 4, 8, 10]], // parênteses) — equivalente a "7(b5)"/"7(#5)" etc,
+  ['7b9', [0, 4, 7, 10, 13]], // mas grafado direto: "A7b5", "C#7#9"...
+  ['7#9', [0, 4, 7, 10, 15]],
   ['7', [0, 4, 7, 10]],
   ['9', [0, 4, 7, 10, 14]],
   ['6', [0, 4, 7, 9]],
