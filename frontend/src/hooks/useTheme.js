@@ -31,6 +31,13 @@ function apply(theme, accent) {
 export function useCurrentTheme() {
   const [theme, setTheme] = useState(() => document.documentElement.dataset.theme || DEFAULT_THEME)
   useEffect(() => {
+    // Ressincroniza com o DOM ao montar — cobre o caso de navegação (sem
+    // reload) vindo de uma página com useForceLightTheme: o efeito de
+    // limpeza dela (que restaura o tema real) pode rodar DEPOIS do estado
+    // inicial daqui já ter capturado o tema forçado (claro), e o listener
+    // abaixo só se inscreve a partir deste efeito — sem essa releitura, o
+    // valor errado ficava preso até um refresh (ver BrandLogo.jsx).
+    setTheme(document.documentElement.dataset.theme || DEFAULT_THEME)
     themeListeners.add(setTheme)
     return () => themeListeners.delete(setTheme)
   }, [])
