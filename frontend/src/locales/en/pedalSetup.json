@@ -1,0 +1,51 @@
+{
+  "pageTitle": "Foot switch",
+  "pageSub": "Configure your foot switch's buttons, what each one does, and combinations of buttons pressed together.",
+  "legacyImport": {
+    "banner": "We found your old pedal key ({{key}}) — import it as Button 1?",
+    "import": "Import",
+    "dismiss": "Dismiss"
+  },
+  "buttons": {
+    "title": "Buttons",
+    "empty": "No buttons set up yet.",
+    "testHint": "Lights up when this button is detected",
+    "defaultLabel": "Button {{n}}",
+    "noAction": "No action",
+    "delete": "Delete",
+    "listening": "Press the pedal now…",
+    "add": "Add button",
+    "input": {
+      "keyboard": "Keyboard: {{code}}",
+      "gamepad": "Gamepad {{index}}, button {{button}}"
+    }
+  },
+  "combos": {
+    "title": "Combinations",
+    "description": "Pick 2 or more buttons and an action that fires only when all of them are pressed together.",
+    "empty": "No combinations set up yet.",
+    "selectAction": "Combination action",
+    "add": "Add combination"
+  },
+  "actions": {
+    "togglePlay": "Play/pause",
+    "nextLine": "Next line",
+    "prevLine": "Previous line",
+    "scrollNudgeUp": "Scroll up",
+    "scrollNudgeDown": "Scroll down",
+    "restart": "Restart song",
+    "exit": "Exit player",
+    "toggleFullscreen": "Fullscreen",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "rateUp": "Speed up",
+    "rateDown": "Slow down",
+    "nextSong": "Next song (playlist)",
+    "prevSong": "Previous song (playlist)",
+    "stopPlaylist": "Stop playlist",
+    "toggleWithYoutube": "Play/pause + YouTube",
+    "clipQueueNext": "Advance clip queue",
+    "toggleFullTrack": "Toggle full track",
+    "gatedHint": "only active on songs with \"{{mode}}\" mode on"
+  }
+}

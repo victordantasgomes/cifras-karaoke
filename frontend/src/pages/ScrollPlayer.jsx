@@ -329,7 +329,26 @@ export default function ScrollPlayer({ data }) {
   const adjustRate = (delta) => setRate((r) => Math.min(MAX_RATE, Math.max(MIN_RATE, +(r + delta).toFixed(2))))
   const seekToFraction = (frac) => seekToMs(Math.max(0, Math.min(1, frac)) * totalMs)
 
-  const pedal = usePedalControl(slug, data, togglePlay)
+  // ações que o pedal (foot switch) pode disparar nesta página — id do
+  // catálogo (config/pedalActions.js) -> handler local; um id sem entrada
+  // aqui (ex.: "próxima linha", que só existe em KaraokeStage) vira no-op
+  // no runtime do pedal, ver usePedalControl.js.
+  const pedalActions = {
+    toggle_play: togglePlay,
+    scroll_nudge_up: () => nudgeScroll(-0.2),
+    scroll_nudge_down: () => nudgeScroll(0.2),
+    restart,
+    exit: () => navigate(-1),
+    toggle_fullscreen: toggleFullscreen,
+    zoom_in: zoomIn,
+    zoom_out: zoomOut,
+    rate_up: () => adjustRate(0.1),
+    rate_down: () => adjustRate(-0.1),
+    toggle_full_track: togglePlay,
+    toggle_with_youtube: toggleWithYoutube,
+    ...(inPlaylist ? { next_song: goNextSong, prev_song: goPrevSong, stop_playlist: stopPlaylist } : {}),
+  }
+  const pedal = usePedalControl(slug, data, pedalActions)
 
   useHotkeys({
     Space: togglePlay,
@@ -344,12 +363,11 @@ export default function ScrollPlayer({ data }) {
     '=': zoomIn,
     '-': zoomOut,
     '_': zoomOut,
-    ...pedal.hotkeyEntry,
     // totalMs entra nas deps porque, com áudio, ele começa em 0 e só vira o
     // valor real quando os metadados carregam (onLoadedMetadata) — sem
     // isso, restart() (via seekToMs) ficaria preso usando um totalMs de 0
     // (closure velha) até a próxima mudança de canPlay.
-  }, [canPlay, totalMs, pedal.hotkeyEntry])
+  }, [canPlay, totalMs])
 
   return (
     <div ref={stageRef}

@@ -18,6 +18,7 @@ export const IconBook = I(<><path d="M4 19.5V5a2 2 0 0 1 2-2h13v15H6a2 2 0 0 0-2
 export const IconUsers = I(<><circle cx="9" cy="8" r="3.2"/><path d="M2.5 20c1-3.6 3.7-5.2 6.5-5.2s5.5 1.6 6.5 5.2"/><circle cx="17" cy="8.5" r="2.6"/><path d="M15.5 15c2.3.2 4.3 1.7 5 4.3"/></>)
 export const IconMetronome = I(<><path d="M7 21h10l-2.2-15H9.2z"/><path d="M10 3h4l.6 4h-5.2z"/><path d="M9.5 14 15 8.5"/></>)
 export const IconTuner = I(<><path d="M9 3v7a3 3 0 0 0 6 0V3"/><path d="M12 13v8"/><path d="M9 21h6"/></>)
+export const IconPedal = I(<><rect x="3" y="10" width="18" height="7" rx="3"/><circle cx="9" cy="13.5" r="1.5"/><circle cx="15" cy="13.5" r="1.5"/><path d="M12 3v5"/></>)
 export const IconShield = I(<><path d="M12 3 4 6.5V11c0 5 3.4 8.5 8 10 4.6-1.5 8-5 8-10V6.5z"/><path d="m9 12 2 2 4-4"/></>)
 export const IconChart = I(<><path d="M4 20V10"/><path d="M11 20V4"/><path d="M18 20v-7"/><path d="M2 20h20"/></>)
 export const IconSun = I(<><circle cx="12" cy="12" r="4.2"/><path d="M12 2v2.4M12 19.6V22M4.2 4.2l1.7 1.7M18.1 18.1l1.7 1.7M2 12h2.4M19.6 12H22M4.2 19.8l1.7-1.7M18.1 5.9l1.7-1.7"/></>)

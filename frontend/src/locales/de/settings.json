@@ -65,12 +65,11 @@
     "restoreDefault": "Standard wiederherstellen"
   },
   "pedal": {
-    "title": "Pedal (Fußschalter)",
-    "description": "Erkenne die Taste, die dein USB-Pedal sendet (die meisten Fußschalter-Pedale verhalten sich wie eine Tastatur) — gilt für jeden Song mit aktiviertem Pedalmodus, konfiguriert im Tab „Audio“ des Editors.",
-    "currentKey": "Aktuelle Taste:",
-    "noneConfigured": "keine konfiguriert",
-    "listening": "Jetzt das Pedal drücken…",
-    "detect": "Taste erkennen"
+    "title": "Fußschalter",
+    "description": "Konfiguriere die Tasten deines Fußschalters, was jede davon macht, und Tastenkombinationen — auch für Bluetooth-Pedale, die bereits auf Systemebene gekoppelt sind.",
+    "summary": "Konfigurierte Tasten: {{count}} · Kombinationen: {{combos}}",
+    "summaryEmpty": "kein Pedal konfiguriert",
+    "configure": "Pedal konfigurieren"
   },
   "billing": {
     "title": "Abonnement",

@@ -1,0 +1,51 @@
+{
+  "pageTitle": "脚踏板",
+  "pageSub": "设置脚踏板的按键、每个按键的功能，以及同时按下多个按键的组合动作。",
+  "legacyImport": {
+    "banner": "发现了旧的踏板按键（{{key}}）— 要导入为按键 1 吗？",
+    "import": "导入",
+    "dismiss": "忽略"
+  },
+  "buttons": {
+    "title": "按键",
+    "empty": "还没有设置任何按键。",
+    "testHint": "检测到此按键时会亮起",
+    "defaultLabel": "按键 {{n}}",
+    "noAction": "无动作",
+    "delete": "删除",
+    "listening": "现在按下踏板…",
+    "add": "添加按键",
+    "input": {
+      "keyboard": "键盘：{{code}}",
+      "gamepad": "游戏手柄 {{index}}，按键 {{button}}"
+    }
+  },
+  "combos": {
+    "title": "组合",
+    "description": "选择 2 个或以上按键和一个动作，只有全部同时按下才会触发。",
+    "empty": "还没有设置任何组合。",
+    "selectAction": "组合动作",
+    "add": "添加组合"
+  },
+  "actions": {
+    "togglePlay": "播放/暂停",
+    "nextLine": "下一行",
+    "prevLine": "上一行",
+    "scrollNudgeUp": "向上滚动",
+    "scrollNudgeDown": "向下滚动",
+    "restart": "重新开始歌曲",
+    "exit": "退出播放器",
+    "toggleFullscreen": "全屏",
+    "zoomIn": "放大字体",
+    "zoomOut": "缩小字体",
+    "rateUp": "加速",
+    "rateDown": "减速",
+    "nextSong": "下一首歌（播放列表）",
+    "prevSong": "上一首歌（播放列表）",
+    "stopPlaylist": "停止播放列表",
+    "toggleWithYoutube": "播放/暂停 + YouTube",
+    "clipQueueNext": "播放下一个片段",
+    "toggleFullTrack": "切换完整音轨",
+    "gatedHint": "只在开启“{{mode}}”模式的歌曲中生效"
+  }
+}

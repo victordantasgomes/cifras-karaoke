@@ -65,12 +65,11 @@
     "restoreDefault": "恢复默认"
   },
   "pedal": {
-    "title": "踏板（foot switch）",
-    "description": "检测你的USB踏板发送的按键（大多数foot switch踏板的行为类似键盘）——适用于任何在编辑器“音频”标签页中开启了踏板模式的歌曲。",
-    "currentKey": "当前按键：",
-    "noneConfigured": "尚未配置",
-    "listening": "现在请踩下踏板…",
-    "detect": "检测按键"
+    "title": "脚踏板",
+    "description": "设置脚踏板的按键、每个按键的功能，以及按键组合——包括已在系统层面配对的蓝牙踏板。",
+    "summary": "已设置按键：{{count}} · 组合：{{combos}}",
+    "summaryEmpty": "尚未设置踏板",
+    "configure": "配置踏板"
   },
   "billing": {
     "title": "订阅",

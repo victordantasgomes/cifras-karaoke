@@ -257,33 +257,15 @@ function ThemeSettingsCard() {
 
 function PedalSettingsCard() {
   const { t } = useTranslation('settings')
-  const qc = useQueryClient()
   const { data } = useQuery({
     queryKey: ['settings'],
     queryFn: () => api.get('/settings').then((r) => r.data),
     staleTime: Infinity,
     refetchOnWindowFocus: false,
   })
-  const [listening, setListening] = useState(false)
-
-  const save = useMutation({
-    mutationFn: (pedalKey) => api.put('/settings', { prefs: { ...data?.prefs, pedalKey } }).then((r) => r.data),
-    onSuccess: (d) => qc.setQueryData(['settings'], d),
-  })
-
-  useEffect(() => {
-    if (!listening) return undefined
-    const handler = (e) => {
-      e.preventDefault()
-      save.mutate(e.code)
-      setListening(false)
-    }
-    window.addEventListener('keydown', handler)
-    return () => window.removeEventListener('keydown', handler)
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [listening])
-
-  const pedalKey = data?.prefs?.pedalKey
+  const config = data?.prefs?.pedalConfig
+  const buttonCount = config?.buttons?.length || 0
+  const comboCount = config?.assignments?.filter((a) => a.buttonIds.length >= 2).length || 0
 
   return (
     <div className="card" style={{ marginBottom: 14 }}>
@@ -292,10 +274,12 @@ function PedalSettingsCard() {
         {t('pedal.description')}
       </p>
       <div className="row" style={{ alignItems: 'center', gap: 12 }}>
-        <span>{t('pedal.currentKey')} <strong>{pedalKey || t('pedal.noneConfigured')}</strong></span>
-        <button className="btn primary" disabled={listening} onClick={() => setListening(true)}>
-          {listening ? t('pedal.listening') : t('pedal.detect')}
-        </button>
+        <span>
+          {buttonCount
+            ? t('pedal.summary', { count: buttonCount, combos: comboCount })
+            : t('pedal.summaryEmpty')}
+        </span>
+        <Link className="btn primary" to="/pedal">{t('pedal.configure')}</Link>
       </div>
     </div>
   )

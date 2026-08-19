@@ -66,11 +66,10 @@
   },
   "pedal": {
     "title": "Pédale (foot switch)",
-    "description": "Détectez la touche envoyée par votre pédale USB (la plupart des pédales foot switch se comportent comme un clavier) — s'applique à toute chanson avec le mode pédale activé, configuré dans l'onglet Audio de l'éditeur.",
-    "currentKey": "Touche actuelle :",
-    "noneConfigured": "aucune configurée",
-    "listening": "Appuyez sur la pédale maintenant…",
-    "detect": "Détecter la touche"
+    "description": "Configurez les boutons de votre pédale (foot switch), l'action de chacun et les combinaisons de boutons — y compris les pédales Bluetooth déjà appairées au niveau du système.",
+    "summary": "Boutons configurés : {{count}} · Combinaisons : {{combos}}",
+    "summaryEmpty": "aucune pédale configurée",
+    "configure": "Configurer la pédale"
   },
   "billing": {
     "title": "Abonnement",

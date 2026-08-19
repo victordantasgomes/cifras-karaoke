@@ -213,6 +213,20 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
 .field label { display: block; font-size: 12.5px; color: var(--muted); margin-bottom: 6px; font-weight: 500; }
 .row { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
 
+/* ---------- pedal (foot switch) — pages/PedalSetup.jsx ---------- */
+.pedal-row { display: flex; align-items: center; gap: 10px; padding: 10px 0; border-bottom: 1px solid var(--stroke); flex-wrap: wrap; }
+.pedal-row:last-child { border-bottom: none; }
+.pedal-dot { width: 11px; height: 11px; border-radius: 50%; background: var(--stroke); flex-shrink: 0; }
+.pedal-dot.flash { background: var(--accent); animation: pedal-flash 320ms ease-out; }
+.pedal-row-label { flex: 0 0 140px; }
+.pedal-row-sig { color: var(--muted); font-size: 12px; font-family: var(--font-mono); flex: 1 1 160px; min-width: 140px; }
+.pedal-row-action { flex: 2 1 200px; }
+.pedal-combo-chip.selected { background: var(--accent); color: var(--accent-ink); border-color: transparent; }
+@keyframes pedal-flash {
+  0% { box-shadow: 0 0 0 0 var(--accent); }
+  100% { box-shadow: 0 0 0 7px transparent; }
+}
+
 /* ---------- tabela de músicas ---------- */
 .song-row {
   display: grid; grid-template-columns: 1fr 180px 130px 60px 90px;

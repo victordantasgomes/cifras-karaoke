@@ -1,0 +1,51 @@
+{
+  "pageTitle": "Fußschalter",
+  "pageSub": "Konfiguriere die Tasten deines Fußschalters, was jede davon macht, und Kombinationen gleichzeitig gedrückter Tasten.",
+  "legacyImport": {
+    "banner": "Wir haben deine alte Pedal-Taste gefunden ({{key}}) — als Taste 1 importieren?",
+    "import": "Importieren",
+    "dismiss": "Verwerfen"
+  },
+  "buttons": {
+    "title": "Tasten",
+    "empty": "Noch keine Tasten eingerichtet.",
+    "testHint": "Leuchtet auf, wenn diese Taste erkannt wird",
+    "defaultLabel": "Taste {{n}}",
+    "noAction": "Keine Aktion",
+    "delete": "Löschen",
+    "listening": "Jetzt das Pedal drücken…",
+    "add": "Taste hinzufügen",
+    "input": {
+      "keyboard": "Tastatur: {{code}}",
+      "gamepad": "Gamepad {{index}}, Taste {{button}}"
+    }
+  },
+  "combos": {
+    "title": "Kombinationen",
+    "description": "Wähle 2 oder mehr Tasten und eine Aktion, die nur ausgelöst wird, wenn alle zusammen gedrückt werden.",
+    "empty": "Noch keine Kombinationen eingerichtet.",
+    "selectAction": "Aktion der Kombination",
+    "add": "Kombination hinzufügen"
+  },
+  "actions": {
+    "togglePlay": "Wiedergabe/Pause",
+    "nextLine": "Nächste Zeile",
+    "prevLine": "Vorherige Zeile",
+    "scrollNudgeUp": "Nach oben scrollen",
+    "scrollNudgeDown": "Nach unten scrollen",
+    "restart": "Song neu starten",
+    "exit": "Player verlassen",
+    "toggleFullscreen": "Vollbild",
+    "zoomIn": "Schrift vergrößern",
+    "zoomOut": "Schrift verkleinern",
+    "rateUp": "Schneller",
+    "rateDown": "Langsamer",
+    "nextSong": "Nächster Song (Playlist)",
+    "prevSong": "Vorheriger Song (Playlist)",
+    "stopPlaylist": "Playlist stoppen",
+    "toggleWithYoutube": "Wiedergabe/Pause + YouTube",
+    "clipQueueNext": "Clip-Warteschlange weiter",
+    "toggleFullTrack": "Kompletten Track umschalten",
+    "gatedHint": "nur aktiv bei Songs mit aktiviertem Modus „{{mode}}“"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "pageTitle": "Pedal (foot switch)",
+  "pageSub": "Configure os botões do seu pedal, o que cada um faz e combinações de botões pressionados juntos.",
+  "legacyImport": {
+    "banner": "Encontramos sua tecla de pedal antiga ({{key}}) — importar como Botão 1?",
+    "import": "Importar",
+    "dismiss": "Ignorar"
+  },
+  "buttons": {
+    "title": "Botões",
+    "empty": "Nenhum botão cadastrado ainda.",
+    "testHint": "Acende quando este botão é detectado",
+    "defaultLabel": "Botão {{n}}",
+    "noAction": "Nenhuma ação",
+    "delete": "Excluir",
+    "listening": "Aperte o pedal agora…",
+    "add": "Adicionar botão",
+    "input": {
+      "keyboard": "Teclado: {{code}}",
+      "gamepad": "Gamepad {{index}}, botão {{button}}"
+    }
+  },
+  "combos": {
+    "title": "Combinações",
+    "description": "Escolha 2 ou mais botões e uma ação que dispara só quando todos são pressionados juntos.",
+    "empty": "Nenhuma combinação cadastrada ainda.",
+    "selectAction": "Ação da combinação",
+    "add": "Adicionar combinação"
+  },
+  "actions": {
+    "togglePlay": "Tocar/pausar",
+    "nextLine": "Próxima linha",
+    "prevLine": "Linha anterior",
+    "scrollNudgeUp": "Rolar pra cima",
+    "scrollNudgeDown": "Rolar pra baixo",
+    "restart": "Reiniciar música",
+    "exit": "Sair do player",
+    "toggleFullscreen": "Tela cheia",
+    "zoomIn": "Aumentar fonte",
+    "zoomOut": "Diminuir fonte",
+    "rateUp": "Acelerar",
+    "rateDown": "Desacelerar",
+    "nextSong": "Próxima música (playlist)",
+    "prevSong": "Música anterior (playlist)",
+    "stopPlaylist": "Parar playlist",
+    "toggleWithYoutube": "Tocar/pausar + YouTube",
+    "clipQueueNext": "Avançar fila de clipes",
+    "toggleFullTrack": "Alternar faixa completa",
+    "gatedHint": "só ativa em músicas com o modo \"{{mode}}\" ligado"
+  }
+}

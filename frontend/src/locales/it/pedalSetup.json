@@ -1,0 +1,51 @@
+{
+  "pageTitle": "Pedale (foot switch)",
+  "pageSub": "Configura i pulsanti del tuo pedale, cosa fa ciascuno e le combinazioni di pulsanti premuti insieme.",
+  "legacyImport": {
+    "banner": "Abbiamo trovato il tuo vecchio tasto del pedale ({{key}}) — importarlo come Pulsante 1?",
+    "import": "Importa",
+    "dismiss": "Ignora"
+  },
+  "buttons": {
+    "title": "Pulsanti",
+    "empty": "Nessun pulsante configurato ancora.",
+    "testHint": "Si accende quando questo pulsante viene rilevato",
+    "defaultLabel": "Pulsante {{n}}",
+    "noAction": "Nessuna azione",
+    "delete": "Elimina",
+    "listening": "Premi il pedale ora…",
+    "add": "Aggiungi pulsante",
+    "input": {
+      "keyboard": "Tastiera: {{code}}",
+      "gamepad": "Gamepad {{index}}, pulsante {{button}}"
+    }
+  },
+  "combos": {
+    "title": "Combinazioni",
+    "description": "Scegli 2 o più pulsanti e un'azione che si attiva solo quando vengono premuti tutti insieme.",
+    "empty": "Nessuna combinazione configurata ancora.",
+    "selectAction": "Azione della combinazione",
+    "add": "Aggiungi combinazione"
+  },
+  "actions": {
+    "togglePlay": "Riproduci/pausa",
+    "nextLine": "Riga successiva",
+    "prevLine": "Riga precedente",
+    "scrollNudgeUp": "Scorri in su",
+    "scrollNudgeDown": "Scorri in giù",
+    "restart": "Riavvia canzone",
+    "exit": "Esci dal player",
+    "toggleFullscreen": "Schermo intero",
+    "zoomIn": "Aumenta il testo",
+    "zoomOut": "Riduci il testo",
+    "rateUp": "Accelera",
+    "rateDown": "Rallenta",
+    "nextSong": "Canzone successiva (playlist)",
+    "prevSong": "Canzone precedente (playlist)",
+    "stopPlaylist": "Ferma la playlist",
+    "toggleWithYoutube": "Riproduci/pausa + YouTube",
+    "clipQueueNext": "Avanza coda clip",
+    "toggleFullTrack": "Alterna traccia completa",
+    "gatedHint": "attivo solo nelle canzoni con la modalità \"{{mode}}\" attiva"
+  }
+}

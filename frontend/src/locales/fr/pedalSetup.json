@@ -1,0 +1,51 @@
+{
+  "pageTitle": "Pédale (foot switch)",
+  "pageSub": "Configurez les boutons de votre pédale, l'action de chacun et les combinaisons de boutons pressés ensemble.",
+  "legacyImport": {
+    "banner": "Nous avons trouvé votre ancienne touche de pédale ({{key}}) — l'importer comme Bouton 1 ?",
+    "import": "Importer",
+    "dismiss": "Ignorer"
+  },
+  "buttons": {
+    "title": "Boutons",
+    "empty": "Aucun bouton configuré pour l'instant.",
+    "testHint": "S'allume quand ce bouton est détecté",
+    "defaultLabel": "Bouton {{n}}",
+    "noAction": "Aucune action",
+    "delete": "Supprimer",
+    "listening": "Appuyez sur la pédale maintenant…",
+    "add": "Ajouter un bouton",
+    "input": {
+      "keyboard": "Clavier : {{code}}",
+      "gamepad": "Manette {{index}}, bouton {{button}}"
+    }
+  },
+  "combos": {
+    "title": "Combinaisons",
+    "description": "Choisissez 2 boutons ou plus et une action qui se déclenche seulement quand ils sont tous pressés ensemble.",
+    "empty": "Aucune combinaison configurée pour l'instant.",
+    "selectAction": "Action de la combinaison",
+    "add": "Ajouter une combinaison"
+  },
+  "actions": {
+    "togglePlay": "Lecture/pause",
+    "nextLine": "Ligne suivante",
+    "prevLine": "Ligne précédente",
+    "scrollNudgeUp": "Défiler vers le haut",
+    "scrollNudgeDown": "Défiler vers le bas",
+    "restart": "Redémarrer le morceau",
+    "exit": "Quitter le lecteur",
+    "toggleFullscreen": "Plein écran",
+    "zoomIn": "Agrandir le texte",
+    "zoomOut": "Réduire le texte",
+    "rateUp": "Accélérer",
+    "rateDown": "Ralentir",
+    "nextSong": "Morceau suivant (playlist)",
+    "prevSong": "Morceau précédent (playlist)",
+    "stopPlaylist": "Arrêter la playlist",
+    "toggleWithYoutube": "Lecture/pause + YouTube",
+    "clipQueueNext": "Avancer la file de clips",
+    "toggleFullTrack": "Basculer piste complète",
+    "gatedHint": "actif seulement sur les morceaux avec le mode « {{mode}} » activé"
+  }
+}

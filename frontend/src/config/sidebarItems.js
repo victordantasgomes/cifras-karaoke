@@ -1,6 +1,6 @@
 import {
   IconHome, IconMusic, IconList, IconStar, IconClock,
-  IconMic, IconBook, IconUsers, IconMetronome, IconTuner, IconShield, IconChart,
+  IconMic, IconBook, IconUsers, IconMetronome, IconTuner, IconPedal, IconShield, IconChart,
   IconSettings, IconUser,
 } from '../components/icons'
 
@@ -18,6 +18,7 @@ export const ITEMS = [
   { section: 'nav.tools' },
   { to: '/metronomo', labelKey: 'nav.metronome', icon: IconMetronome },
   { to: '/afinador', labelKey: 'nav.tuner', icon: IconTuner },
+  { to: '/pedal', labelKey: 'nav.pedalSetup', icon: IconPedal },
   { to: '/admin/ferramenta', labelKey: 'nav.adminTools', icon: IconShield, adminOnly: true },
   { to: '/admin/vendas', labelKey: 'nav.adminSales', icon: IconChart, adminOnly: true },
   { to: '/configuracoes', labelKey: 'nav.settings', icon: IconSettings },

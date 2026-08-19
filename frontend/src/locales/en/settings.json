@@ -65,12 +65,11 @@
     "restoreDefault": "Restore default"
   },
   "pedal": {
-    "title": "Pedal (foot switch)",
-    "description": "Detect the key your USB pedal sends (most foot switch pedals behave like a keyboard) — applies to any song with pedal mode turned on, configured in the editor's Audio tab.",
-    "currentKey": "Current key:",
-    "noneConfigured": "none configured",
-    "listening": "Press the pedal now…",
-    "detect": "Detect key"
+    "title": "Foot switch",
+    "description": "Configure your foot switch's buttons, what each one does, and button combinations — including Bluetooth pedals already paired at the OS level.",
+    "summary": "Buttons configured: {{count}} · Combinations: {{combos}}",
+    "summaryEmpty": "no pedal configured",
+    "configure": "Configure pedal"
   },
   "billing": {
     "title": "Subscription",

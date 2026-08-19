@@ -360,8 +360,6 @@ export default function KaraokeStage() {
     else playWithYoutube()
   }
 
-  const pedal = usePedalControl(slug, data, togglePlay)
-
   // navegação entre músicas de uma playlist ativa — distinta da navegação
   // por linha (← →) já existente
   const goNextSong = () => {
@@ -377,6 +375,26 @@ export default function KaraokeStage() {
     playlist.stop()
     navigate(`/setlists/${playlist.setlistId}`)
   }
+
+  // ações que o pedal (foot switch) pode disparar nesta página — id do
+  // catálogo (config/pedalActions.js) -> handler local; um id sem entrada
+  // aqui vira no-op no runtime do pedal, ver usePedalControl.js.
+  const pedalActions = {
+    toggle_play: togglePlay,
+    next_line: goNext,
+    prev_line: goPrev,
+    restart,
+    exit: () => navigate(-1),
+    toggle_fullscreen: toggleFullscreen,
+    zoom_in: zoomIn,
+    zoom_out: zoomOut,
+    rate_up: () => adjustRate(0.1),
+    rate_down: () => adjustRate(-0.1),
+    toggle_full_track: togglePlay,
+    toggle_with_youtube: toggleWithYoutube,
+    ...(inPlaylist ? { next_song: goNextSong, prev_song: goPrevSong, stop_playlist: stopPlaylist } : {}),
+  }
+  const pedal = usePedalControl(slug, data, pedalActions)
   // NÃO avança sozinho pra próxima música da playlist ao terminar — item 6
   // do pedido: só o botão manual "Próxima música" (⏭, goNextSong) avança.
   const onSongEnd = () => { player.pause() }
@@ -422,8 +440,7 @@ export default function KaraokeStage() {
     '=': zoomIn,
     '-': zoomOut,
     '_': zoomOut,
-    ...pedal.hotkeyEntry,
-  }, [player, canPlay, resolvedSteps, rate, countdown, pedal.hotkeyEntry])
+  }, [player, canPlay, resolvedSteps, rate, countdown])
 
   if (isLoading || !data) {
     return <div className="karaoke-stage controls-visible"

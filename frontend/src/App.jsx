@@ -26,6 +26,7 @@ import Profile from './pages/Profile'
 import Pricing from './pages/Pricing'
 import Metronome from './pages/Metronome'
 import Tuner from './pages/Tuner'
+import PedalSetup from './pages/PedalSetup'
 import AdminTools from './pages/AdminTools'
 import AdminSales from './pages/AdminSales'
 
@@ -60,6 +61,7 @@ export default function App() {
           <Route path="/planos" element={<Pricing />} />
           <Route path="/metronomo" element={<Metronome />} />
           <Route path="/afinador" element={<Tuner />} />
+          <Route path="/pedal" element={<PedalSetup />} />
           <Route path="/admin/ferramenta" element={<AdminTools />} />
           <Route path="/admin/vendas" element={<AdminSales />} />
         </Route>

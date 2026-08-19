@@ -66,11 +66,10 @@
   },
   "pedal": {
     "title": "Pedal (foot switch)",
-    "description": "Deteta a tecla que o pedal USB envia (a maioria dos pedais de foot switch comporta-se como um teclado) — aplica-se a qualquer música com o modo de pedal ativado, configurado no separador Áudio do editor.",
-    "currentKey": "Tecla atual:",
-    "noneConfigured": "nenhuma configurada",
-    "listening": "Prima o pedal agora…",
-    "detect": "Detetar tecla"
+    "description": "Configure os botões do seu pedal (foot switch), o que cada um faz e combinações de botões — inclusive pedais Bluetooth já emparelhados no sistema.",
+    "summary": "Botões configurados: {{count}} · Combinações: {{combos}}",
+    "summaryEmpty": "nenhum pedal configurado",
+    "configure": "Configurar pedal"
   },
   "billing": {
     "title": "Assinatura",

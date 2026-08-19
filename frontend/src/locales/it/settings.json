@@ -66,11 +66,10 @@
   },
   "pedal": {
     "title": "Pedale (foot switch)",
-    "description": "Rileva il tasto inviato dal tuo pedale USB (la maggior parte dei pedali foot switch si comporta come una tastiera) — vale per qualsiasi brano con la modalità pedale attiva, configurata nella scheda Audio dell'editor.",
-    "currentKey": "Tasto attuale:",
-    "noneConfigured": "nessuno configurato",
-    "listening": "Premi il pedale ora…",
-    "detect": "Rileva tasto"
+    "description": "Configura i pulsanti del tuo pedale (foot switch), cosa fa ciascuno e le combinazioni di pulsanti — inclusi i pedali Bluetooth già associati a livello di sistema.",
+    "summary": "Pulsanti configurati: {{count}} · Combinazioni: {{combos}}",
+    "summaryEmpty": "nessun pedale configurato",
+    "configure": "Configura pedale"
   },
   "billing": {
     "title": "Abbonamento",
