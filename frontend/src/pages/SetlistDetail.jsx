@@ -17,24 +17,33 @@ export default function SetlistDetail() {
   const [nome, setNome] = useState('')
   const [dragIdx, setDragIdx] = useState(null)
   const [error, setError] = useState('')
+  const [editingIdx, setEditingIdx] = useState(null)
+  const [editingValue, setEditingValue] = useState('')
 
-  // veio do karaokê ("sair" numa setlist) com a música em que estava — rola
-  // até a linha e destaca por alguns segundos (ver o map dos itens abaixo).
-  // Dispara só depois que `items` carregar de verdade (a lista começa
-  // vazia até a query responder) e só uma vez (didFocusRef), pra reordenar
-  // a lista depois não reacionar o scroll/destaque.
-  const [highlightSlug, setHighlightSlug] = useState(location.state?.focusSlug || null)
+  // destaca uma linha por 5s (vindo do karaokê ao "sair" numa setlist, ou de
+  // um salto manual de posição via jumpToPosition abaixo). `token` sempre
+  // incrementa a cada chamada — é o que permite re-destacar a MESMA música
+  // duas vezes seguidas (senão o efeito abaixo, comparando só o slug, não
+  // dispararia de novo pra um valor que já processou antes).
+  const highlightTokenRef = useRef(0)
+  const appliedHighlightTokenRef = useRef(null)
+  const [highlight, setHighlight] = useState(
+    location.state?.focusSlug ? { slug: location.state.focusSlug, token: 0 } : null
+  )
+  const triggerHighlight = (slug) => {
+    highlightTokenRef.current += 1
+    setHighlight({ slug, token: highlightTokenRef.current })
+  }
   const rowRefs = useRef({})
-  const didFocusRef = useRef(false)
   useEffect(() => {
-    if (!highlightSlug || didFocusRef.current) return undefined
-    const row = rowRefs.current[highlightSlug]
+    if (!highlight || appliedHighlightTokenRef.current === highlight.token) return undefined
+    const row = rowRefs.current[highlight.slug]
     if (!row) return undefined
-    didFocusRef.current = true
+    appliedHighlightTokenRef.current = highlight.token
     row.scrollIntoView({ behavior: 'smooth', block: 'center' })
-    const timer = setTimeout(() => setHighlightSlug(null), 5000) // bate com a duração de @keyframes song-row-focus em global.css
+    const timer = setTimeout(() => setHighlight(null), 5000) // bate com a duração de @keyframes song-row-focus em global.css
     return () => clearTimeout(timer)
-  }, [items, highlightSlug])
+  }, [items, highlight])
 
   const { data } = useQuery({
     queryKey: ['setlist', id],
@@ -65,7 +74,8 @@ export default function SetlistDetail() {
     },
   })
 
-  // move um item de `from` para `to` — usado tanto pelos botões ▲▼ quanto pelo drag-and-drop
+  // move um item de `from` para `to` — usado pelos botões ▲▼, pelo
+  // drag-and-drop e pelo salto de posição (jumpToPosition abaixo)
   const moveItem = (from, to) => {
     if (to < 0 || to >= items.length || from === to) return
     const next = [...items]
@@ -73,6 +83,21 @@ export default function SetlistDetail() {
     next.splice(to, 0, moved)
     setItems(next)
     save.mutate(next)
+  }
+
+  // salto direto pra uma posição (1-based, como mostrado na UI) — usado
+  // pelo número editável de cada linha, pra evitar cliques repetidos em ▲▼
+  // ou vários passos de arrastar quando o salto é longo (ex.: última música
+  // pro topo do setlist)
+  const commitJump = (from) => {
+    setEditingIdx(null)
+    const parsed = parseInt(editingValue, 10)
+    if (Number.isNaN(parsed)) return
+    const to = Math.min(Math.max(parsed, 1), items.length) - 1
+    if (to === from) return
+    const slug = items[from].song?.slug
+    moveItem(from, to)
+    if (slug) triggerHighlight(slug)
   }
 
   // drag-and-drop nativo para reordenar (além dos botões ▲▼, mais confiáveis)
@@ -160,7 +185,7 @@ export default function SetlistDetail() {
           if (item.song) playableIndex += 1
           const myPlayableIndex = playableIndex
           return (
-            <div key={item.ref + i} className={`song-row${item.song?.slug && item.song.slug === highlightSlug ? ' song-row-focus' : ''}`}
+            <div key={item.ref + i} className={`song-row${item.song?.slug && item.song.slug === highlight?.slug ? ' song-row-focus' : ''}`}
               draggable={isOwner}
               ref={(el) => { if (item.song) rowRefs.current[item.song.slug] = el }}
               style={{ gridTemplateColumns: '46px 1fr auto auto auto', opacity: dragIdx === i ? 0.4 : 1, cursor: isOwner ? 'grab' : 'default' }}
@@ -168,7 +193,31 @@ export default function SetlistDetail() {
               onDragOver={(e) => isOwner && e.preventDefault()}
               onDrop={() => isOwner && onDrop(i)}
               onDragEnd={() => setDragIdx(null)}>
-              <div className="row no-print" style={{ flexDirection: 'column', gap: 2, flexWrap: 'nowrap' }}>
+              <div className="row no-print" style={{ flexDirection: 'column', gap: 2, flexWrap: 'nowrap', alignItems: 'center' }}>
+                {isOwner ? (
+                  editingIdx === i ? (
+                    <input
+                      type="number" className="input" autoFocus min={1} max={items.length}
+                      value={editingValue}
+                      style={{ width: 40, padding: '1px 2px', fontSize: 11, textAlign: 'center' }}
+                      onClick={(e) => e.stopPropagation()}
+                      onChange={(e) => setEditingValue(e.target.value)}
+                      onBlur={() => setEditingIdx(null)}
+                      onKeyDown={(e) => {
+                        e.stopPropagation()
+                        if (e.key === 'Enter') commitJump(i)
+                        else if (e.key === 'Escape') setEditingIdx(null)
+                      }} />
+                  ) : (
+                    <button type="button" className="btn ghost" title={t('jumpToPosition')}
+                      style={{ padding: '1px 6px', fontSize: 11, lineHeight: 1.4, fontWeight: 700 }}
+                      onClick={(e) => { e.stopPropagation(); setEditingIdx(i); setEditingValue(String(i + 1)) }}>
+                      {i + 1}
+                    </button>
+                  )
+                ) : (
+                  <span style={{ fontSize: 11, fontWeight: 700, color: 'var(--muted)' }}>{i + 1}</span>
+                )}
                 {isOwner && (
                   <>
                     <button type="button" className="btn ghost" style={{ padding: '1px 6px', fontSize: 11, lineHeight: 1.4 }}
@@ -181,7 +230,7 @@ export default function SetlistDetail() {
                 )}
               </div>
               <div>
-                <div className="title">{i + 1}. {item.song?.titulo || item.ref}</div>
+                <div className="title">{item.song?.titulo || item.ref}</div>
                 <div className="meta">
                   {item.song?.interprete || ''}
                   {item.song && (
