@@ -1,14 +1,15 @@
 import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
-import logo from '../../assets/logo-tumtumpa-colorida-horizontal-transp.png'
+import logo from '../../assets/logo-tumtumpa-wide.png'
 
 /** Seção de abertura — headline, CTA e uma foto de banda ao vivo (ver
  * README em public/images/landing/) com o mockup do modo karaokê
  * flutuando por cima. O mockup em si continua sendo uma div com "chrome"
  * de app falso, não é screenshot real, mas mostra fielmente como a tela
- * de karaokê se parece. A logo de abertura usa a variante colorida com
- * fundo transparente, em destaque acima das duas colunas — spans as
- * duas colunas do grid do hero, não cabe dentro da coluna de texto. */
+ * de karaokê se parece. A logo de abertura usa a mesma arte fixa (fundo
+ * transparente) do resto do app, em destaque acima das duas colunas —
+ * spans as duas colunas do grid do hero, não cabe dentro da coluna de
+ * texto. */
 export default function Hero() {
   const { t } = useTranslation('landing')
 
