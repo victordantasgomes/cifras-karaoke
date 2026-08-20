@@ -6,7 +6,8 @@
   },
   "status": {
     "loadingAudio": "cargando audio…",
-    "zoom": "zoom {{percent}}%"
+    "zoom": "zoom {{percent}}%",
+    "loadingMedley": "cargando medley…"
   },
   "controls": {
     "prevSong": "Canción anterior",
@@ -27,6 +28,11 @@
     "playWithYoutubeTitle": "Reproduce la música y el vídeo de YouTube juntos",
     "pauseWithYoutube": "Pausar + YT",
     "edit": "✎ Editar",
-    "editTitle": "Editar la cifra de esta canción"
+    "editTitle": "Editar la cifra de esta canción",
+    "skipCountdown": "Saltar ({{count}})"
+  },
+  "medleyDivider": "MEDLEY: {{nome}}",
+  "countdown": {
+    "hint": "Prepárate… (clic o Espacio para saltar)"
   }
 }

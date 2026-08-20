@@ -1,0 +1,18 @@
+{
+  "appName": "TumTumPa",
+  "waitingTitle": "Esperando la próxima canción…",
+  "waitingHint": "En cuanto empiece una nueva canción, el formulario aparece aquí.",
+  "nowPlaying": "Sonando ahora",
+  "ratingLabel": "Tu nota para esta canción",
+  "nameLabel": "Tu nombre (opcional)",
+  "commentsLabel": "Comentario (opcional)",
+  "commentsPlaceholder": "¿Qué te pareció esta canción?",
+  "submit": "Enviar nota",
+  "submitting": "Enviando…",
+  "submitted": "¡Nota enviada, gracias!",
+  "rateAnother": "Evaluar otra canción",
+  "sessionEnded": "Esta sesión de feedback ha terminado.",
+  "invalidLink": "Enlace de feedback inválido.",
+  "errorGeneric": "No se pudo enviar tu nota. Inténtalo de nuevo.",
+  "errorNoActiveSong": "Ninguna canción sonando ahora — espera a que empiece la presentación."
+}

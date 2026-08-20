@@ -22,6 +22,12 @@ class AIError(Exception):
     pass
 
 
+# o modelo às vezes ecoa a instrução do prompt ("deixe como string vazia")
+# em vez de seguir ela — filtro defensivo pra não gravar esse texto como se
+# fosse um valor de verdade (bug relatado, viu 13 músicas com isso no banco).
+_ECHOED_INSTRUCTION = {"string vazia", "vazio", "string em branco", "vazia"}
+
+
 def _as_text(value) -> str:
     if isinstance(value, list):
         return ", ".join(str(v) for v in value)
@@ -51,7 +57,9 @@ class AIService:
             f"Campos já conhecidos: {json.dumps(known, ensure_ascii=False)}\n"
             f"Trecho da cifra:\n{excerpt}\n\n"
             f"Responda só um JSON com exatamente estas chaves: {json.dumps(missing)}. "
-            "Sem texto fora do JSON. Campo que você não souber, deixe como string vazia."
+            "Sem texto fora do JSON. Campo que você não souber, retorne com o valor \"\" "
+            "(uma string JSON vazia de verdade) — nunca escreva as palavras \"string vazia\" "
+            "ou qualquer outro texto no lugar do valor."
         )
         try:
             resp = self._client().chat.completions.create(
@@ -66,4 +74,12 @@ class AIService:
             data = json.loads(resp.choices[0].message.content)
         except (json.JSONDecodeError, IndexError, AttributeError, TypeError):
             return {}
-        return {f: _as_text(data[f]) for f in missing if data.get(f)}
+        result = {}
+        for f in missing:
+            if not data.get(f):
+                continue
+            text = _as_text(data[f]).strip()
+            if text.lower() in _ECHOED_INSTRUCTION:
+                continue
+            result[f] = text
+        return result

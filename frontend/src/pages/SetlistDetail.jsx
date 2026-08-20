@@ -4,6 +4,10 @@ import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { useTranslation } from 'react-i18next'
 import api from '../services/api'
 import SongPicker from '../components/SongPicker'
+import MedleyModal from '../components/MedleyModal'
+import PlaylistOrderModal from '../components/PlaylistOrderModal'
+import FeedbackQRModal from '../components/FeedbackQRModal'
+import FeedbackReportModal from '../components/FeedbackReportModal'
 import { usePlaylistStore } from '../store/playlistStore'
 
 export default function SetlistDetail() {
@@ -19,6 +23,10 @@ export default function SetlistDetail() {
   const [error, setError] = useState('')
   const [editingIdx, setEditingIdx] = useState(null)
   const [editingValue, setEditingValue] = useState('')
+  const [medleyModalOpen, setMedleyModalOpen] = useState(false)
+  const [orderModalOpen, setOrderModalOpen] = useState(false)
+  const [qrModalOpen, setQrModalOpen] = useState(false)
+  const [reportModalOpen, setReportModalOpen] = useState(false)
 
   // destaca uma linha por 5s (vindo do karaokê ao "sair" numa setlist, ou de
   // um salto manual de posição via jumpToPosition abaixo). `token` sempre
@@ -53,8 +61,27 @@ export default function SetlistDetail() {
     if (data) { setItems(data.items); setNome(data.nome) }
   }, [data])
 
+  // feedback da plateia (QR code) — status já pronto sempre que a tela abre,
+  // pra saber se mostra "Ativar" ou o painel de sessão ativa (ver botões
+  // abaixo). Nenhum poll aqui: os modais de QR/relatório é que fazem poll
+  // enquanto abertos (FeedbackQRModal.jsx).
+  const { data: feedbackStatus } = useQuery({
+    queryKey: ['feedback-status', id],
+    queryFn: () => api.get(`/setlists/${id}/feedback/status`).then((r) => r.data),
+  })
+  const activateFeedback = useMutation({
+    mutationFn: () => api.post(`/setlists/${id}/feedback/activate`),
+    onSuccess: () => qc.invalidateQueries({ queryKey: ['feedback-status', id] }),
+  })
+  const deactivateFeedback = useMutation({
+    mutationFn: () => api.post(`/setlists/${id}/feedback/deactivate`),
+    onSuccess: () => qc.invalidateQueries({ queryKey: ['feedback-status', id] }),
+  })
+
   const save = useMutation({
-    mutationFn: (next) => api.put(`/setlists/${id}`, { nome, items: next.map((i) => i.ref) }),
+    mutationFn: (next) => api.put(`/setlists/${id}`, {
+      nome, items: next.map((i) => ({ ref: i.ref, medley_id: i.medley_id || null })),
+    }),
     onSuccess: () => { setError(''); qc.invalidateQueries({ queryKey: ['setlist', id] }) },
     onError: (e) => {
       // a mudança local (setItems) já tinha sido aplicada de forma otimista —
@@ -107,7 +134,7 @@ export default function SetlistDetail() {
   }
 
   const addSongs = (songsToAdd) => {
-    const next = [...items, ...songsToAdd.map((s) => ({ ref: `${s.interprete}/${s.titulo}`, song: s }))]
+    const next = [...items, ...songsToAdd.map((s) => ({ ref: `${s.interprete}/${s.titulo}`, song: s, medley_id: null }))]
     setItems(next); save.mutate(next)
   }
   const removeAt = (i) => {
@@ -115,9 +142,49 @@ export default function SetlistDetail() {
     setItems(next); save.mutate(next)
   }
 
+  // agrupa as músicas escolhidas (chosenIdx: índices originais em `items`,
+  // na ordem de execução que o usuário clicou no MedleyModal) num bloco
+  // contíguo, ancorado na posição original da PRIMEIRA escolhida — ex.:
+  // escolher na ordem 32→10→17 insere o bloco onde a 32 estava, com a 10 e a
+  // 17 puxadas pra colar nela nessa mesma ordem; o resto desliza pra
+  // preencher os buracos deixados.
+  const buildMedleyItems = (chosenIdx) => {
+    const medleyId = crypto.randomUUID()
+    const chosenSet = new Set(chosenIdx)
+    const rest = items.filter((_, idx) => !chosenSet.has(idx))
+    const stamped = chosenIdx.map((idx) => ({ ...items[idx], medley_id: medleyId }))
+    const anchorOriginalIdx = chosenIdx[0]
+    const insertAt = items.slice(0, anchorOriginalIdx).filter((_, idx) => !chosenSet.has(idx)).length
+    const next = [...rest]
+    next.splice(insertAt, 0, ...stamped)
+    return next
+  }
+  const createMedley = (chosenIdx) => {
+    const next = buildMedleyItems(chosenIdx)
+    setItems(next); save.mutate(next)
+    setMedleyModalOpen(false)
+  }
+  const ungroupMedley = (medleyId) => {
+    const next = items.map((it) => (it.medley_id === medleyId ? { ...it, medley_id: null } : it))
+    setItems(next); save.mutate(next)
+  }
+
+  // aplica a ordem escolhida no PlaylistOrderModal (já vem pronta, incluindo
+  // qualquer ajuste fino feito lá dentro) — mesmo padrão de sempre.
+  const applySuggestedOrder = (next) => {
+    setItems(next); save.mutate(next)
+    setOrderModalOpen(false)
+  }
+
   // só músicas de fato linkadas (achadas no índice) entram na fila de reprodução
   const playableItems = items.filter((i) => i.song)
   const thisPlaylistActive = playlist.active && playlist.setlistId === id
+
+  // elegível pro medley: já linkada, em modo "rolagem" (única que suporta
+  // rolagem contínua concatenada, ver ScrollPlayer.jsx) e ainda fora de
+  // outro medley — grupos ficam sempre disjuntos, sem sobreposição.
+  const isEligibleForMedley = (it) => Boolean(it.song) && (it.song.modo_execucao || 'rolagem') === 'rolagem' && !it.medley_id
+  const eligibleForMedleyCount = items.filter(isEligibleForMedley).length
 
   const playFrom = (playableIndex) => {
     playlist.start(id, nome, playableItems, playableIndex)
@@ -171,7 +238,43 @@ export default function SetlistDetail() {
             {t('playPlaylist', { count: playableItems.length })}
           </button>
         )}
+        {isOwner && (
+          <button className="btn" disabled={eligibleForMedleyCount < 2} onClick={() => setMedleyModalOpen(true)}>
+            {t('createMedley')}
+          </button>
+        )}
+        {isOwner && items.length >= 2 && (
+          <button className="btn" onClick={() => setOrderModalOpen(true)}>{t('suggestOrder')}</button>
+        )}
+        {isOwner && (
+          feedbackStatus ? (
+            <>
+              <span className="chip">{t('feedbackActive')}</span>
+              <button className="btn" onClick={() => setQrModalOpen(true)}>{t('showQrCode')}</button>
+              <button className="btn" onClick={() => setReportModalOpen(true)}>{t('viewReport')}</button>
+              <button className="btn danger" onClick={() => deactivateFeedback.mutate()}>{t('deactivateFeedback')}</button>
+            </>
+          ) : (
+            <button className="btn" onClick={() => activateFeedback.mutate()} disabled={activateFeedback.isPending}>
+              {t('activateFeedback')}
+            </button>
+          )
+        )}
       </div>
+
+      {medleyModalOpen && (
+        <MedleyModal items={items} isEligible={isEligibleForMedley}
+          onConfirm={createMedley} onClose={() => setMedleyModalOpen(false)} />
+      )}
+      {orderModalOpen && (
+        <PlaylistOrderModal setlistId={id} items={items} onApply={applySuggestedOrder} onClose={() => setOrderModalOpen(false)} />
+      )}
+      {qrModalOpen && feedbackStatus && (
+        <FeedbackQRModal token={feedbackStatus.token} onClose={() => setQrModalOpen(false)} />
+      )}
+      {reportModalOpen && (
+        <FeedbackReportModal setlistId={id} onClose={() => setReportModalOpen(false)} />
+      )}
 
       {isOwner && (
         <div className="card no-print" style={{ marginBottom: 16 }}>
@@ -184,14 +287,18 @@ export default function SetlistDetail() {
         {items.map((item, i) => {
           if (item.song) playableIndex += 1
           const myPlayableIndex = playableIndex
+          const isMedleyMember = Boolean(item.medley_id)
+          const isFirstOfGroup = isMedleyMember && items[i - 1]?.medley_id !== item.medley_id
+          const draggableRow = isOwner && !isMedleyMember
           return (
-            <div key={item.ref + i} className={`song-row${item.song?.slug && item.song.slug === highlight?.slug ? ' song-row-focus' : ''}`}
-              draggable={isOwner}
+            <div key={item.ref + i}
+              className={`song-row${item.song?.slug && item.song.slug === highlight?.slug ? ' song-row-focus' : ''}${isMedleyMember ? ' medley-member' : ''}`}
+              draggable={draggableRow}
               ref={(el) => { if (item.song) rowRefs.current[item.song.slug] = el }}
-              style={{ gridTemplateColumns: '72px 1fr auto auto auto', opacity: dragIdx === i ? 0.4 : 1, cursor: isOwner ? 'grab' : 'default' }}
-              onDragStart={() => isOwner && setDragIdx(i)}
-              onDragOver={(e) => isOwner && e.preventDefault()}
-              onDrop={() => isOwner && onDrop(i)}
+              style={{ gridTemplateColumns: '72px 1fr auto auto auto', opacity: dragIdx === i ? 0.4 : 1, cursor: draggableRow ? 'grab' : 'default' }}
+              onDragStart={() => draggableRow && setDragIdx(i)}
+              onDragOver={(e) => draggableRow && e.preventDefault()}
+              onDrop={() => draggableRow && onDrop(i)}
               onDragEnd={() => setDragIdx(null)}>
               <div className="row no-print" style={{ gap: 6, flexWrap: 'nowrap', alignItems: 'center' }}>
                 {isOwner ? (
@@ -221,16 +328,29 @@ export default function SetlistDetail() {
                 {isOwner && (
                   <div style={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
                     <button type="button" className="btn ghost" style={{ padding: '1px 6px', fontSize: 11, lineHeight: 1.4 }}
-                      disabled={i === 0} title={t('moveUp')}
+                      disabled={i === 0 || isMedleyMember} title={t('moveUp')}
                       onClick={(e) => { e.stopPropagation(); moveItem(i, i - 1) }}>▲</button>
                     <button type="button" className="btn ghost" style={{ padding: '1px 6px', fontSize: 11, lineHeight: 1.4 }}
-                      disabled={i === items.length - 1} title={t('moveDown')}
+                      disabled={i === items.length - 1 || isMedleyMember} title={t('moveDown')}
                       onClick={(e) => { e.stopPropagation(); moveItem(i, i + 1) }}>▼</button>
                   </div>
                 )}
               </div>
               <div>
-                <div className="title">{item.song?.titulo || item.ref}</div>
+                <div className="title">
+                  {isMedleyMember && (
+                    <svg width="13" height="13" viewBox="0 0 24 24" style={{ marginRight: 5, verticalAlign: -1 }}
+                      title={t('medleyMember')} fill="none" stroke="var(--accent)" strokeWidth="2" strokeLinecap="round">
+                      <path d="M9 15l6-6M8 12l-2 2a3 3 0 104 4l2-2M16 12l2-2a3 3 0 10-4-4l-2 2" />
+                    </svg>
+                  )}
+                  {item.song?.titulo || item.ref}
+                  {isFirstOfGroup && isOwner && (
+                    <button type="button" className="btn ghost no-print" title={t('ungroupMedley')}
+                      style={{ padding: '0 6px', fontSize: 11, lineHeight: 1.6, marginLeft: 6 }}
+                      onClick={(e) => { e.stopPropagation(); ungroupMedley(item.medley_id) }}>✂</button>
+                  )}
+                </div>
                 <div className="meta">
                   {item.song?.interprete || ''}
                   {item.song && (

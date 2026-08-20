@@ -306,6 +306,13 @@ create table if not exists setlist_items (
 );
 create index if not exists idx_setlist_items_setlist on setlist_items(setlist_id, position);
 
+-- tag de agrupamento de medley (texto curto gerado no cliente via
+-- crypto.randomUUID(), não uuid de verdade — nunca é usado em JOIN/FK, só
+-- marca quais itens contíguos tocam em sequência numa rolagem só, ver
+-- SetlistDetail.jsx::buildMedleyItems / ScrollPlayer.jsx). null = fora de
+-- qualquer medley.
+alter table setlist_items add column if not exists medley_id text;
+
 -- Tela Setlists separa "Minhas setlists" (dono) de "Setlists seguindo"
 -- (compartilhadas por outra pessoa) — por padrão todo setlist shared=true
 -- aparece pra todo mundo em "seguindo"; esta tabela só guarda a EXCEÇÃO de
@@ -317,6 +324,37 @@ create table if not exists setlist_unfollows (
     created_at timestamptz not null default now(),
     primary key (user_id, setlist_id)
 );
+
+-- feedback da plateia (QR code, ver FeedbackService/SetlistDetail.jsx): cada
+-- "Ativar feedback" cria uma sessão nova com um token curto e imprevisível
+-- (vai na URL pública `/feedback/<token>`, nunca o id do setlist) — a
+-- anterior (se houver) fica active=false mas as notas já coletadas
+-- permanecem, pro relatório continuar somando o histórico inteiro da
+-- setlist. `current_song_slug` é atualizado pelo player (ScrollPlayer.jsx/
+-- KaraokeStage.jsx) a cada troca de música durante a reprodução — é ELE
+-- (não o cliente público) que decide qual música cada nota enviada vai
+-- registrar, pra não confiar em música informada por quem responde o
+-- formulário.
+create table if not exists setlist_feedback_sessions (
+    id                uuid primary key default gen_random_uuid(),
+    setlist_id        uuid not null references setlists(id) on delete cascade,
+    token             text not null unique,
+    active            boolean not null default true,
+    current_song_slug text,
+    created_at        timestamptz not null default now()
+);
+create index if not exists idx_feedback_sessions_setlist on setlist_feedback_sessions(setlist_id);
+
+create table if not exists feedback_ratings (
+    id           uuid primary key default gen_random_uuid(),
+    session_id   uuid not null references setlist_feedback_sessions(id) on delete cascade,
+    song_slug    text not null,
+    nota         int not null,
+    nome         text not null default '',
+    observacoes  text not null default '',
+    created_at   timestamptz not null default now()
+);
+create index if not exists idx_feedback_ratings_session on feedback_ratings(session_id, song_slug);
 
 create table if not exists settings (
     user_id text primary key references users(id) on delete cascade,

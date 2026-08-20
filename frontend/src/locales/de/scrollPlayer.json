@@ -27,6 +27,10 @@
     "playWithYoutubeTitle": "Spielt den Song und das YouTube-Video gemeinsam ab",
     "pauseWithYoutube": "Pause + YT",
     "edit": "✎ Bearbeiten",
-    "editTitle": "Akkordblatt dieses Songs bearbeiten"
+    "editTitle": "Akkordblatt dieses Songs bearbeiten",
+    "skipCountdown": "Überspringen ({{count}})"
+  },
+  "countdown": {
+    "hint": "Mach dich bereit… (Klick oder Leertaste zum Überspringen)"
   }
 }

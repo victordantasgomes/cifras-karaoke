@@ -72,6 +72,8 @@ class SetlistService:
                     """select songs.slug, songs.titulo, songs.autor, songs.interprete, songs.genero,
                               songs.tom, songs.tags, songs.velocidade, songs.nota, songs.ritmo,
                               songs.normalizada, songs.header->>'youtube_url' as youtube_url,
+                              songs.header->>'modoexecucao' as modoexecucao_raw,
+                              songs.header->>'bpm' as bpm_raw,
                               coalesce(p.favorita, false) as favorita
                        from songs left join user_song_prefs p
                               on p.song_id = songs.id and p.user_id = %(user_id)s
@@ -92,6 +94,18 @@ class SetlistService:
                      if (slugify(c["interprete"]), slugify(strip_title_suffix(c["titulo"], c["interprete"]))) == target),
                     None,
                 )
+                if match is not None:
+                    # mesma normalização de karaoke_service.py::payload — default
+                    # "rolagem" se ausente/valor desconhecido. Usado só pelo
+                    # frontend pra filtrar o seletor de medley (SetlistDetail.jsx),
+                    # que só aceita músicas em modo rolagem.
+                    raw = (match.pop("modoexecucao_raw") or "").strip().lower()
+                    match["modo_execucao"] = raw if raw in ("rolagem", "karaoke") else "rolagem"
+                    # mesma validação de karaoke_service.py::payload — só usado
+                    # pelo modal de sugestão de ordem (PlaylistOrderModal.jsx),
+                    # que ordena por BPM crescente/decrescente.
+                    bpm_raw = (match.pop("bpm_raw") or "").strip()
+                    match["bpm"] = int(bpm_raw) if bpm_raw.isdigit() else None
                 out.append(match)
         return out
 
@@ -131,17 +145,20 @@ class SetlistService:
             if not row or (not is_owner and not row["shared"]):
                 raise FileNotFoundError(setlist_id)
             items = conn.execute(
-                "select ref from setlist_items where setlist_id=%s order by position", (row["id"],),
+                "select ref, medley_id from setlist_items where setlist_id=%s order by position", (row["id"],),
             ).fetchall()
         refs = [i["ref"] for i in items]
         resolved = self._resolve_many(user_id, refs)
         return {
             "id": row["slug"], "nome": row["nome"],
             "is_owner": is_owner, "shared": row["shared"],
-            "items": [{"ref": ref, "song": song} for ref, song in zip(refs, resolved)],
+            "items": [
+                {"ref": ref, "song": song, "medley_id": items[idx]["medley_id"]}
+                for idx, (ref, song) in enumerate(zip(refs, resolved))
+            ],
         }
 
-    def save(self, user_id: str, name: str, items: list[str], setlist_id: str | None = None,
+    def save(self, user_id: str, name: str, items: list[str | dict], setlist_id: str | None = None,
               is_admin: bool = False) -> dict:
         """Setlist órfão (dono excluído — ver AuthService.delete_user) pode
         ser editado por qualquer um, mesma lógica de "música órfã" em
@@ -151,7 +168,17 @@ class SetlistService:
 
         Limites de plano (ver QuotaService) são checados ANTES de qualquer
         escrita — estourar o limite não grava nada parcial pra depois
-        avisar, a ação inteira é bloqueada de cara."""
+        avisar, a ação inteira é bloqueada de cara.
+
+        `items` aceita tanto refs soltas (`list[str]`, formato legado — usado
+        por clone()/import_txt()) quanto `{ref, medley_id}` (usado por
+        SetlistDetail.jsx pra gravar agrupamento de medley, ver
+        MedleyModal.jsx). Normaliza pro segundo formato logo de cara, pra
+        `_resolve_many`/`check_setlist_storage` continuarem recebendo só
+        `list[str]` como sempre receberam."""
+        items = [i if isinstance(i, dict) else {"ref": i, "medley_id": None} for i in items]
+        refs = [i["ref"] for i in items]
+
         existing = None
         if setlist_id:
             with db.get_pool().connection() as conn:
@@ -164,7 +191,7 @@ class SetlistService:
         if self.quota:
             if not existing:
                 self.quota.check_setlist_creation(user_id)
-            self.quota.check_setlist_storage(user_id, items, exclude_setlist_pk=existing["id"] if existing else None)
+            self.quota.check_setlist_storage(user_id, refs, exclude_setlist_pk=existing["id"] if existing else None)
 
         with db.get_pool().connection() as conn:
             if existing:
@@ -178,10 +205,10 @@ class SetlistService:
                     (user_id, slug, name),
                 ).fetchone()
                 setlist_pk = new_row["id"]
-            for position, ref in enumerate(items):
+            for position, item in enumerate(items):
                 conn.execute(
-                    "insert into setlist_items (setlist_id, position, ref) values (%s, %s, %s)",
-                    (setlist_pk, position, ref),
+                    "insert into setlist_items (setlist_id, position, ref, medley_id) values (%s, %s, %s, %s)",
+                    (setlist_pk, position, item["ref"], item.get("medley_id")),
                 )
         return {"id": slug, "nome": name, "count": len(items)}
 

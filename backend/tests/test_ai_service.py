@@ -92,6 +92,17 @@ def test_ignores_fields_the_model_left_empty(monkeypatch):
     assert result == {"tom": "B"}
 
 
+def test_ignores_fields_where_model_echoed_the_instruction(monkeypatch):
+    fake = _FakeClient(json.dumps({
+        "intérprete": "Coldplay", "tom": "string vazia", "ritmomusical": "Vazio", "tags": "",
+    }))
+    monkeypatch.setattr(AIService, "_client", lambda self: fake)
+    ai = AIService()
+    header = {**HEADER_EMPTY, "autor": "x", "bpm": "1"}
+    result = ai.suggest_header(header, BODY)
+    assert result == {"intérprete": "Coldplay"}
+
+
 def test_malformed_json_response_yields_no_suggestions(monkeypatch):
     fake = _FakeClient("isso não é JSON")
     monkeypatch.setattr(AIService, "_client", lambda self: fake)

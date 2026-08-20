@@ -29,6 +29,7 @@ from services.branding_service import BrandingService
 from services.chord_dictionary_service import ChordDictionaryService
 from services.clip_queue_service import ClipQueueService
 from services.favorites_service import FavoritesService
+from services.feedback_service import FeedbackService
 from services.admin_stats_service import AdminStatsService
 from services.history_service import HistoryService
 from services.karaoke_service import KaraokeService
@@ -64,6 +65,7 @@ class Services:
         self.billing = BillingService()
         self.quota = QuotaService(setlists=self.setlists)
         self.setlists.quota = self.quota  # injetado depois pra evitar ciclo
+        self.feedback = FeedbackService()
         self.telemetry = TelemetryService()
         self.favorites = FavoritesService()
         self.branding = BrandingService()

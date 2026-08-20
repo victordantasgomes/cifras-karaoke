@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
-import { useQuery } from '@tanstack/react-query'
+import { useQueries, useQuery } from '@tanstack/react-query'
 import { useTranslation } from 'react-i18next'
 import api from '../services/api'
 import { useAuthStore } from '../store/authStore'
@@ -15,11 +15,13 @@ import KaraokeChordSidebar from '../components/KaraokeChordSidebar'
 import YoutubeMiniPlayer from '../components/YoutubeMiniPlayer'
 import PedalStatusBadge from '../components/PedalStatusBadge'
 import { extractYoutubeId } from '../utils/youtube'
+import { playClick } from '../utils/clickSound'
 
 const CHORD_LIKE = new Set(['acorde', 'solo', 'riff', 'tab'])
 const MIN_RATE = 0.5
 const MAX_RATE = 2
 const MIN_DURATION_MS = 3000
+const COUNTDOWN_SECONDS = 3
 
 function formatTime(totalSeconds) {
   const s = Math.max(0, Math.round(totalSeconds))
@@ -86,9 +88,53 @@ export default function ScrollPlayer({ data }) {
   const intervalRef = useRef(null)
   const programmaticScroll = useRef(false) // true enquanto applyOffset() está escrevendo scrollTop
   const ytRef = useRef(null)
+  const [countdown, setCountdown] = useState(null) // null = sem contagem; número = segundos restantes
+  const countdownTimer = useRef(null)
+  const countdownOnDoneRef = useRef(null)
 
   const inPlaylist = playlist.active && playlist.queue[playlist.index]?.song?.slug === slug
-  const canPlay = !hasAudio || audioReady
+
+  // medley (ver SetlistDetail.jsx::buildMedleyItems): quando a música atual
+  // da fila tem `medley_id` e é a primeira do grupo, esta música vira a
+  // "âncora" — busca as outras do grupo (mesma queryKey/staleTime que
+  // KaraokePlayer.jsx usa pra buscar uma música, cache compartilhado) e
+  // concatena tudo numa rolagem só (combinedLines/combinedTotalMs abaixo).
+  // Só música em modo rolagem entra num medley (garantido na criação), não
+  // precisa checar modo_execucao de novo aqui.
+  const currentQueueEntry = inPlaylist ? playlist.queue[playlist.index] : null
+  const medleyId = currentQueueEntry?.medley_id || null
+  const isMedleyAnchor = Boolean(medleyId) &&
+    (playlist.index === 0 || playlist.queue[playlist.index - 1]?.medley_id !== medleyId)
+  const medleyMemberSlugs = useMemo(() => {
+    if (!isMedleyAnchor) return []
+    const slugs = []
+    let i = playlist.index + 1
+    while (i < playlist.queue.length && playlist.queue[i].medley_id === medleyId) {
+      slugs.push(playlist.queue[i].song.slug)
+      i += 1
+    }
+    return slugs
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [isMedleyAnchor, medleyId, playlist.index, playlist.queue])
+  const medleyMemberQueries = useQueries({
+    queries: medleyMemberSlugs.map((s) => ({
+      queryKey: ['karaoke', s, base],
+      queryFn: () => api.get(`${base}/karaoke/${s}`).then((r) => r.data),
+      staleTime: Infinity,
+      refetchOnWindowFocus: false,
+      refetchOnReconnect: false,
+    })),
+  })
+  const medleyReady = medleyMemberQueries.every((q) => q.data)
+
+  // dentro de um medley a rolagem NUNCA segue áudio real de nenhuma música
+  // (nem da âncora, mesmo que tenha faixa enviada) — sincronizar N faixas
+  // distintas num timeline só, buscável, é escopo bem maior que o pedido;
+  // usa sempre o cronômetro legado (ms_per_line/tempo_execucao de cada
+  // música, somados — ver totalMs). Vídeo do YouTube (se usado) também
+  // mostra só o da âncora, sem trocar sozinho no meio do medley.
+  const effectiveHasAudio = hasAudio && !isMedleyAnchor
+  const canPlay = !effectiveHasAudio || audioReady
 
   // marca própria do dono da música (Fase 8) — rota pública (sem auth),
   // mesmo raciocínio de KaraokeStage.jsx.
@@ -127,8 +173,21 @@ export default function ScrollPlayer({ data }) {
     setRate(1)
     setAudioDuration(null)
     setAudioReady(false)
+    clearInterval(countdownTimer.current)
+    setCountdown(null)
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [slug])
+
+  // feedback da plateia (QR code, ver SetlistDetail.jsx/FeedbackQRModal.jsx):
+  // avisa o backend qual música está tocando agora, sempre que a música
+  // troca dentro de uma setlist — fire-and-forget, nunca atrasa a troca de
+  // música; o backend decide se há sessão de feedback ativa pra atualizar
+  // (FeedbackService.set_current_song é no-op silencioso senão).
+  useEffect(() => {
+    if (!inPlaylist) return
+    api.post(`/setlists/${playlist.setlistId}/feedback/current-song`, { slug }).catch(() => {})
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [slug, inPlaylist])
 
   // faixa de referência: buscada como Blob (autenticado via axios — o store
   // do Vercel Blob é privado, então o backend faz a leitura autenticada e
@@ -138,7 +197,7 @@ export default function ScrollPlayer({ data }) {
   const { data: audioBlob } = useQuery({
     queryKey: ['karaoke-audio', slug, base],
     queryFn: () => api.get(`${base}/songs/${slug}/audio`, { responseType: 'blob' }).then((r) => r.data),
-    enabled: hasAudio,
+    enabled: effectiveHasAudio,
     staleTime: Infinity,
     refetchOnWindowFocus: false,
     refetchOnReconnect: false,
@@ -152,15 +211,48 @@ export default function ScrollPlayer({ data }) {
     return () => URL.revokeObjectURL(url)
   }, [audioBlob])
 
-  const totalMs = useMemo(() => {
-    if (hasAudio) return audioDuration ? audioDuration * 1000 : 0
-    const seg = data.tempo_execucao_segundos
+  // duração de UMA música pelo cronômetro legado — reaproveitada tanto pro
+  // caso normal quanto pra somar a duração de cada membro do medley. Conta só
+  // linhas de letra/acorde: observação, solo, riff, tablatura, seção etc.
+  // podem ocupar muitas linhas na tela sem corresponder a tempo real de
+  // execução (ex.: uma tablatura de 6 linhas pra um riff de poucos segundos)
+  // — contar essas linhas junto inflava a duração estimada bem além do real.
+  const legacyDurationMs = (song) => {
+    const seg = song.tempo_execucao_segundos
     if (seg != null && seg > 0) return seg * 1000
-    return Math.max(MIN_DURATION_MS, data.lines.length * data.ms_per_line)
-  }, [data, hasAudio, audioDuration])
+    const countableLines = song.lines.filter((l) => l.tipo === 'letra' || l.tipo === 'acorde').length
+    return Math.max(MIN_DURATION_MS, countableLines * song.ms_per_line)
+  }
+
+  const totalMs = useMemo(() => {
+    if (isMedleyAnchor) {
+      if (!medleyReady) return 0
+      const payloads = [data, ...medleyMemberQueries.map((q) => q.data)]
+      return payloads.reduce((sum, p) => sum + legacyDurationMs(p), 0)
+    }
+    if (effectiveHasAudio) return audioDuration ? audioDuration * 1000 : 0
+    return legacyDurationMs(data)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [data, effectiveHasAudio, audioDuration, isMedleyAnchor, medleyReady, medleyMemberQueries])
+
+  // rolagem concatenada do medley: junta as `lines` de cada música do grupo,
+  // inserindo um bloco de aviso "MEDLEY: <próxima>" entre elas (item.tipo
+  // exclusivo, tratado à parte no render abaixo — nunca colide com os tipos
+  // vindos do parser, ver utils/parser.py). Fora de um medley, é só
+  // `data.lines` mesmo, sem cópia.
+  const combinedLines = useMemo(() => {
+    if (!isMedleyAnchor || !medleyReady) return data.lines
+    const payloads = [data, ...medleyMemberQueries.map((q) => q.data)]
+    const out = []
+    payloads.forEach((p, i) => {
+      if (i > 0) out.push({ tipo: 'medley-divider', text: t('medleyDivider', { nome: p.titulo }) })
+      out.push(...p.lines)
+    })
+    return out
+  }, [isMedleyAnchor, medleyReady, data, medleyMemberQueries, t])
 
   // ms decorridos, venha de onde vier (áudio real ou cronômetro legado)
-  const getElapsedMs = () => (hasAudio ? (audioRef.current?.currentTime || 0) * 1000 : elapsedRef.current)
+  const getElapsedMs = () => (effectiveHasAudio ? (audioRef.current?.currentTime || 0) * 1000 : elapsedRef.current)
 
   const applyOffset = () => {
     const viewport = viewportRef.current
@@ -180,7 +272,7 @@ export default function ScrollPlayer({ data }) {
   // música tem faixa, ou no cronômetro (elapsedRef) no modo legado.
   const seekToMs = (ms) => {
     const clamped = Math.max(0, Math.min(totalMs || 0, ms))
-    if (hasAudio) {
+    if (effectiveHasAudio) {
       if (audioRef.current) audioRef.current.currentTime = clamped / 1000
     } else {
       elapsedRef.current = clamped
@@ -253,7 +345,7 @@ export default function ScrollPlayer({ data }) {
   // absorve esse throttling sem perder tempo. Com áudio real, quem avança a
   // rolagem é o evento `timeupdate` do `<audio>` (ver efeito abaixo).
   useEffect(() => {
-    if (!playing || hasAudio) return undefined
+    if (!playing || effectiveHasAudio) return undefined
     let last = Date.now()
     intervalRef.current = setInterval(() => {
       const now = Date.now()
@@ -269,13 +361,13 @@ export default function ScrollPlayer({ data }) {
     }, 100)
     return () => clearInterval(intervalRef.current)
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [playing, hasAudio, rate, totalMs])
+  }, [playing, effectiveHasAudio, rate, totalMs])
 
   // com áudio real: a rolagem segue o currentTime de verdade a cada
   // `timeupdate` (dispara continuamente durante a reprodução)
   useEffect(() => {
     const audio = audioRef.current
-    if (!hasAudio || !audio) return undefined
+    if (!effectiveHasAudio || !audio) return undefined
     const onTimeUpdate = () => {
       applyOffset()
       setElapsedDisplay(audio.currentTime)
@@ -283,14 +375,14 @@ export default function ScrollPlayer({ data }) {
     audio.addEventListener('timeupdate', onTimeUpdate)
     return () => audio.removeEventListener('timeupdate', onTimeUpdate)
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [hasAudio, totalMs])
+  }, [effectiveHasAudio, totalMs])
 
   // play/pause da store (via `playing`) controla o elemento <audio> de verdade
   useEffect(() => {
-    if (!hasAudio || !audioRef.current) return
+    if (!effectiveHasAudio || !audioRef.current) return
     if (playing) audioRef.current.play().catch(() => setPlaying(false))
     else audioRef.current.pause()
-  }, [hasAudio, playing])
+  }, [effectiveHasAudio, playing])
 
   // pausar o karaokê (por qualquer via — botão, hotkey, fim de música)
   // pausa o vídeo do YouTube junto, se houver um tocando. Só a direção de
@@ -303,8 +395,8 @@ export default function ScrollPlayer({ data }) {
   // velocidade (`rate`, mesmo controle −/+ dos dois modos) também rege o
   // <audio> de verdade quando ele existe
   useEffect(() => {
-    if (hasAudio && audioRef.current) audioRef.current.playbackRate = rate
-  }, [hasAudio, rate])
+    if (effectiveHasAudio && audioRef.current) audioRef.current.playbackRate = rate
+  }, [effectiveHasAudio, rate])
 
   const poke = () => {
     setControlsVisible(true)
@@ -312,18 +404,61 @@ export default function ScrollPlayer({ data }) {
     hideTimer.current = setTimeout(() => setControlsVisible(false), 2500)
   }
   useEffect(() => { poke(); return () => clearTimeout(hideTimer.current) }, [])
+  useEffect(() => () => clearInterval(countdownTimer.current), [])
 
   const toggleFullscreen = () => {
     if (document.fullscreenElement) document.exitFullscreen()
     else stageRef.current?.requestFullscreen?.()
   }
 
-  const togglePlay = () => { if (canPlay) setPlaying((p) => !p) }
+  // contagem regressiva de 3s antes de começar a tocar do início (mesmo
+  // recurso do modo Karaokê, KaraokeStage.jsx::startCountdown/skipCountdown)
+  // — só dispara ao dar play perto do começo da música (retomar de uma
+  // pausa no meio não conta de novo). `countdownOnDoneRef` guarda o que
+  // fazer ao terminar (ou ao pular clicando/apertando Espaço de novo),
+  // pra "Tocar + YT" poder também iniciar o vídeo no mesmo instante.
+  const startCountdown = (onDone) => {
+    countdownOnDoneRef.current = onDone
+    setCountdown(COUNTDOWN_SECONDS)
+    playClick()
+    clearInterval(countdownTimer.current)
+    countdownTimer.current = setInterval(() => {
+      playClick()
+      setCountdown((c) => {
+        if (c <= 1) {
+          clearInterval(countdownTimer.current)
+          countdownOnDoneRef.current?.()
+          return null
+        }
+        return c - 1
+      })
+    }, 1000)
+  }
+  const skipCountdown = () => {
+    clearInterval(countdownTimer.current)
+    setCountdown(null)
+    countdownOnDoneRef.current?.()
+  }
+  const beginPlayback = (onStart) => {
+    if (countdown != null) return
+    const nearStart = getElapsedMs() < 500
+    const start = () => { setPlaying(true); onStart?.() }
+    if (nearStart) startCountdown(start)
+    else start()
+  }
+
+  const togglePlay = () => {
+    if (!canPlay) return
+    if (countdown != null) { skipCountdown(); return }
+    if (playing) setPlaying(false)
+    else beginPlayback()
+  }
   // "Tocar + YT" (item 5): começa o karaokê normalmente E dá play no
   // vídeo do YouTube junto, quando a música tem um link cadastrado.
   const playWithYoutube = () => {
-    if (canPlay) setPlaying(true)
-    ytRef.current?.play()
+    if (!canPlay) return
+    if (countdown != null) { skipCountdown(); return }
+    beginPlayback(() => ytRef.current?.play())
   }
   // alterna igual ao botão de play/pause principal — rótulo muda pra
   // "Pausar + YT" enquanto toca; pausar aqui já pausa o vídeo junto (ver
@@ -380,8 +515,9 @@ export default function ScrollPlayer({ data }) {
     // (closure velha) até a próxima mudança de canPlay. inPlaylist entra
     // pelo mesmo motivo pro exitPlayer (closure de slug/inPlaylist) —
     // trocar de música dentro de uma playlist reusa o mesmo componente
-    // (replace:true), não remonta.
-  }, [canPlay, totalMs, inPlaylist])
+    // (replace:true), não remonta. countdown entra pelo mesmo motivo — Space
+    // precisa de uma closure atual pra pular a contagem em vez de pausar.
+  }, [canPlay, totalMs, inPlaylist, countdown])
 
   return (
     <div ref={stageRef}
@@ -389,7 +525,7 @@ export default function ScrollPlayer({ data }) {
       style={{ '--k-zoom': zoom, '--k-sidebar-w': chordSidebarVisible ? `${chordSidebarWidth + 10}px` : '0px' }}
       onMouseMove={poke} onClick={poke}>
 
-      {hasAudio && (
+      {effectiveHasAudio && (
         <audio ref={audioRef} preload="auto"
           onLoadedMetadata={(e) => setAudioDuration(e.target.duration)}
           onEnded={onSongEnd} />
@@ -410,7 +546,8 @@ export default function ScrollPlayer({ data }) {
         </div>
         <div>
           {formatTime(elapsedDisplay)} / {formatTime(totalMs / 1000)} · {rate.toFixed(1)}x · {t('status.zoom', { percent: Math.round(zoom * 100) })}
-          {hasAudio && !audioReady && <> · {t('status.loadingAudio')}</>}
+          {effectiveHasAudio && !audioReady && <> · {t('status.loadingAudio')}</>}
+          {isMedleyAnchor && !medleyReady && <> · {t('status.loadingMedley')}</>}
           {' '}<PedalStatusBadge />
         </div>
       </div>
@@ -418,8 +555,11 @@ export default function ScrollPlayer({ data }) {
       <div className="k-body">
         <div className="scroll-viewport" ref={viewportRef} onScroll={handleUserScroll}>
           <div className="scroll-sheet" ref={sheetRef}>
-            {data.lines.map((l, i) => (
-              <div key={i} className={`scroll-line${CHORD_LIKE.has(l.tipo) ? ' chord' : ''}`}>
+            {combinedLines.map((l, i) => (
+              <div key={i} className={
+                l.tipo === 'medley-divider' ? 'scroll-line medley-divider'
+                  : `scroll-line${CHORD_LIKE.has(l.tipo) ? ' chord' : ''}`
+              }>
                 {l.text || ' '}
               </div>
             ))}
@@ -443,12 +583,13 @@ export default function ScrollPlayer({ data }) {
         )}
         <button className="btn" onClick={restart} title={t('controls.restart')}>⟲</button>
         <button className="btn primary" onClick={togglePlay} disabled={!canPlay} title={t('controls.playPause')}>
-          {playing ? t('controls.pause') : t('controls.play')}
+          {countdown != null ? t('controls.skipCountdown', { count: countdown }) : playing ? t('controls.pause') : t('controls.play')}
         </button>
         {youtubeVideoId && (
           <button className="btn" onClick={toggleWithYoutube} disabled={!canPlay}
             title={t('controls.playWithYoutubeTitle')}>
-            {playing ? t('controls.pauseWithYoutube') : t('controls.playWithYoutube')}
+            {countdown != null ? t('controls.skipCountdown', { count: countdown })
+              : playing ? t('controls.pauseWithYoutube') : t('controls.playWithYoutube')}
           </button>
         )}
         <button className="btn" onClick={() => adjustRate(-0.1)} title={t('controls.slower')}>−</button>
@@ -460,10 +601,17 @@ export default function ScrollPlayer({ data }) {
           <button className="btn danger" onClick={stopPlaylist} title={t('controls.stopPlaylist')}>■</button>
         </>}
         <button className="btn" onClick={toggleFullscreen} title={t('controls.fullscreen')}>⛶</button>
-        <button className="btn" onClick={() => navigate(`/musicas/${slug}`, { state: { fromKaraoke: true } })}
+        <button className="btn" onClick={() => navigate(`/musicas/${slug}`, { state: { fromKaraoke: true, initialTab: 'edit' } })}
           title={t('controls.editTitle')}>{t('controls.edit')}</button>
         <button className="btn ghost" onClick={exitPlayer} title={t('controls.back')}>{t('controls.exit')}</button>
       </div>
+
+      {countdown != null && (
+        <div className="k-countdown" onClick={skipCountdown}>
+          <div key={countdown} className="k-countdown-number">{countdown}</div>
+          <div className="k-countdown-label">{t('countdown.hint')}</div>
+        </div>
+      )}
     </div>
   )
 }

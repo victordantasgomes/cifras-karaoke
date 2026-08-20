@@ -1,0 +1,18 @@
+{
+  "appName": "TumTumPa",
+  "waitingTitle": "等待下一首歌曲…",
+  "waitingHint": "新歌曲开始播放后，表单会显示在这里。",
+  "nowPlaying": "正在播放",
+  "ratingLabel": "为这首歌打分",
+  "nameLabel": "您的姓名（可选）",
+  "commentsLabel": "评论（可选）",
+  "commentsPlaceholder": "你觉得这首歌怎么样？",
+  "submit": "提交评分",
+  "submitting": "提交中…",
+  "submitted": "评分已提交，谢谢！",
+  "rateAnother": "评价另一首歌",
+  "sessionEnded": "此反馈会话已结束。",
+  "invalidLink": "无效的反馈链接。",
+  "errorGeneric": "无法提交您的评分，请重试。",
+  "errorNoActiveSong": "当前没有歌曲在播放 — 请等待演出开始。"
+}

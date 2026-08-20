@@ -95,6 +95,17 @@ export default function KaraokeStage() {
   // por causa de um estado esquecido de uma sessão anterior
   const inPlaylist = playlist.active && playlist.queue[playlist.index]?.song?.slug === slug
 
+  // feedback da plateia (QR code, ver SetlistDetail.jsx/FeedbackQRModal.jsx):
+  // avisa o backend qual música está tocando agora, sempre que a música
+  // troca dentro de uma setlist — fire-and-forget, nunca atrasa a troca de
+  // música; o backend decide se há sessão de feedback ativa pra atualizar
+  // (FeedbackService.set_current_song é no-op silencioso senão).
+  useEffect(() => {
+    if (!inPlaylist) return
+    api.post(`/setlists/${playlist.setlistId}/feedback/current-song`, { slug }).catch(() => {})
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [slug, inPlaylist])
+
   // staleTime/refetchOnWindowFocus desligados: um refetch em segundo plano
   // (ex.: o navegador recupera o foco durante o show) chamaria player.load()
   // de novo e resetaria a reprodução para o início — não é o que se quer
@@ -585,7 +596,7 @@ export default function KaraokeStage() {
           <button className="btn danger" onClick={stopPlaylist} title={t('controls.stopPlaylist')}>■</button>
         </>}
         <button className="btn" onClick={toggleFullscreen} title={t('controls.fullscreen')}>⛶</button>
-        <button className="btn" onClick={() => navigate(`/musicas/${slug}`, { state: { fromKaraoke: true } })}
+        <button className="btn" onClick={() => navigate(`/musicas/${slug}`, { state: { fromKaraoke: true, initialTab: 'edit' } })}
           title={t('controls.editTitle')}>{t('controls.edit')}</button>
         <button className="btn ghost" onClick={exitPlayer} title={t('controls.back')}>{t('controls.exit')}</button>
       </div>

@@ -1,0 +1,18 @@
+{
+  "appName": "TumTumPa",
+  "waitingTitle": "In attesa della prossima canzone…",
+  "waitingHint": "Non appena inizia una nuova canzone, il modulo appare qui.",
+  "nowPlaying": "In riproduzione",
+  "ratingLabel": "Il tuo voto per questa canzone",
+  "nameLabel": "Il tuo nome (facoltativo)",
+  "commentsLabel": "Commento (facoltativo)",
+  "commentsPlaceholder": "Cosa ne pensi di questa canzone?",
+  "submit": "Invia voto",
+  "submitting": "Invio…",
+  "submitted": "Voto inviato — grazie!",
+  "rateAnother": "Vota un'altra canzone",
+  "sessionEnded": "Questa sessione di feedback è terminata.",
+  "invalidLink": "Link di feedback non valido.",
+  "errorGeneric": "Impossibile inviare il voto. Riprova.",
+  "errorNoActiveSong": "Nessuna canzone in riproduzione — attendi l'inizio dello spettacolo."
+}

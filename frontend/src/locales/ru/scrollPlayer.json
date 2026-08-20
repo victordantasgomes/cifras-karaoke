@@ -6,7 +6,8 @@
   },
   "status": {
     "loadingAudio": "загрузка аудио…",
-    "zoom": "масштаб {{percent}}%"
+    "zoom": "масштаб {{percent}}%",
+    "loadingMedley": "загрузка попурри…"
   },
   "controls": {
     "prevSong": "Предыдущая песня",
@@ -27,6 +28,11 @@
     "playWithYoutubeTitle": "Воспроизводит песню и видео YouTube одновременно",
     "pauseWithYoutube": "Пауза + YT",
     "edit": "✎ Редактировать",
-    "editTitle": "Редактировать аккорды этой песни"
+    "editTitle": "Редактировать аккорды этой песни",
+    "skipCountdown": "Пропустить ({{count}})"
+  },
+  "medleyDivider": "MEDLEY: {{nome}}",
+  "countdown": {
+    "hint": "Приготовьтесь… (нажмите или Пробел, чтобы пропустить)"
   }
 }

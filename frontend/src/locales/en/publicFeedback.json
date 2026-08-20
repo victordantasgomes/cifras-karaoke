@@ -1,0 +1,18 @@
+{
+  "appName": "TumTumPa",
+  "waitingTitle": "Waiting for the next song…",
+  "waitingHint": "As soon as a new song starts, the form appears here.",
+  "nowPlaying": "Now playing",
+  "ratingLabel": "Your rating for this song",
+  "nameLabel": "Your name (optional)",
+  "commentsLabel": "Comment (optional)",
+  "commentsPlaceholder": "What did you think of this song?",
+  "submit": "Submit rating",
+  "submitting": "Submitting…",
+  "submitted": "Rating submitted — thank you!",
+  "rateAnother": "Rate another song",
+  "sessionEnded": "This feedback session has ended.",
+  "invalidLink": "Invalid feedback link.",
+  "errorGeneric": "Could not submit your rating. Please try again.",
+  "errorNoActiveSong": "No song playing right now — wait for the show to start."
+}

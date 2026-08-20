@@ -10,6 +10,7 @@ from services.billing_service import BillingError
 from services.band_board_service import FILE_KINDS as BAND_MEDIA_FILE_KINDS
 from services.band_board_service import LINK_KINDS as BAND_MEDIA_LINK_KINDS
 from services.branding_service import VARIANTS as LOGO_VARIANTS
+from services.feedback_service import NoActiveSession
 from services.plans_service import DuplicatePlanName, PlanNotFound, StripeSyncError
 from services.quota_service import QuotaExceeded
 from services.songs_service import NotOwner, SongNotFound
@@ -229,6 +230,32 @@ def build_blueprint(ctx) -> Blueprint:
             return jsonify({"error": "Sample não encontrado.", "error_code": "SAMPLE_NOT_FOUND"}), 404
         data, content_type = result
         return Response(data, mimetype=content_type or "application/octet-stream")
+
+    # Formulário público de feedback da plateia (PublicFeedback.jsx) — sem
+    # login, token imprevisível na URL faz as vezes de autenticação (ver
+    # FeedbackService). Sob o mesmo rate limit de /public/... (hook acima).
+    @api.get("/public/feedback/<token>")
+    def public_feedback_status(token):
+        try:
+            return jsonify(ctx.feedback.public_status(token))
+        except FileNotFoundError:
+            return jsonify({"error": "Link de feedback inválido.", "error_code": "FEEDBACK_NOT_FOUND"}), 404
+
+    @api.post("/public/feedback/<token>")
+    def public_feedback_submit(token):
+        d = request.get_json(force=True)
+        try:
+            nota = int(d.get("nota"))
+        except (TypeError, ValueError):
+            return jsonify({"error": "Nota inválida.", "error_code": "FEEDBACK_INVALID_RATING"}), 400
+        try:
+            ctx.feedback.submit_rating(token, nota, d.get("nome", ""), d.get("observacoes", ""))
+        except FileNotFoundError:
+            return jsonify({"error": "Link de feedback inválido.", "error_code": "FEEDBACK_NOT_FOUND"}), 404
+        except NoActiveSession:
+            return jsonify({"error": "Nenhuma música tocando agora — aguarde a apresentação começar.",
+                             "error_code": "FEEDBACK_NO_ACTIVE_SONG"}), 409
+        return "", 204
 
     # Heartbeat de sessão (Fase 12) — chamado pelo hook useActivityPing.js
     # enquanto a aba está visível; alimenta o "tempo médio de acesso" do
@@ -941,6 +968,59 @@ def build_blueprint(ctx) -> Blueprint:
             return jsonify(ctx.setlists.import_txt(g.user_id, content)), 201
         except QuotaExceeded as e:
             return jsonify({"error": str(e), "error_code": quota_error_code(str(e))}), 402
+
+    # ---------------- feedback da plateia (QR code) ----------------
+    @api.post("/setlists/<setlist_id>/feedback/activate")
+    @protected
+    def activate_feedback(setlist_id):
+        try:
+            return jsonify(ctx.feedback.activate(g.user_id, setlist_id, is_admin=g.is_admin))
+        except FileNotFoundError:
+            return jsonify({"error": "Setlist não encontrado.", "error_code": "SETLIST_NOT_FOUND"}), 404
+        except PermissionError:
+            return jsonify({"error": "Só quem criou este setlist pode ativar o feedback.",
+                             "error_code": "SETLIST_NOT_OWNER"}), 403
+
+    @api.post("/setlists/<setlist_id>/feedback/deactivate")
+    @protected
+    def deactivate_feedback(setlist_id):
+        try:
+            ctx.feedback.deactivate(g.user_id, setlist_id, is_admin=g.is_admin)
+        except FileNotFoundError:
+            return jsonify({"error": "Setlist não encontrado.", "error_code": "SETLIST_NOT_FOUND"}), 404
+        except PermissionError:
+            return jsonify({"error": "Só quem criou este setlist pode desativar o feedback.",
+                             "error_code": "SETLIST_NOT_OWNER"}), 403
+        return "", 204
+
+    @api.get("/setlists/<setlist_id>/feedback/status")
+    @protected
+    def feedback_status(setlist_id):
+        try:
+            return jsonify(ctx.feedback.status(g.user_id, setlist_id, is_admin=g.is_admin))
+        except FileNotFoundError:
+            return jsonify({"error": "Setlist não encontrado.", "error_code": "SETLIST_NOT_FOUND"}), 404
+        except PermissionError:
+            return jsonify({"error": "Só quem criou este setlist pode ver o feedback.",
+                             "error_code": "SETLIST_NOT_OWNER"}), 403
+
+    @api.post("/setlists/<setlist_id>/feedback/current-song")
+    @protected
+    def feedback_current_song(setlist_id):
+        d = request.get_json(force=True)
+        ctx.feedback.set_current_song(setlist_id, d.get("slug", ""))
+        return "", 204
+
+    @api.get("/setlists/<setlist_id>/feedback/report")
+    @protected
+    def feedback_report(setlist_id):
+        try:
+            return jsonify(ctx.feedback.report(g.user_id, setlist_id, is_admin=g.is_admin))
+        except FileNotFoundError:
+            return jsonify({"error": "Setlist não encontrado.", "error_code": "SETLIST_NOT_FOUND"}), 404
+        except PermissionError:
+            return jsonify({"error": "Só quem criou este setlist pode ver o relatório.",
+                             "error_code": "SETLIST_NOT_OWNER"}), 403
 
     # ---------------- uso do plano ----------------
     @api.get("/quota/usage")

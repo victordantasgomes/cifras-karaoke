@@ -6,7 +6,8 @@
   },
   "status": {
     "loadingAudio": "loading audio…",
-    "zoom": "zoom {{percent}}%"
+    "zoom": "zoom {{percent}}%",
+    "loadingMedley": "loading medley…"
   },
   "controls": {
     "prevSong": "Previous song",
@@ -27,6 +28,11 @@
     "playWithYoutubeTitle": "Play the song and the YouTube video together",
     "pauseWithYoutube": "Pause + YT",
     "edit": "✎ Edit",
-    "editTitle": "Edit this song's chord sheet"
+    "editTitle": "Edit this song's chord sheet",
+    "skipCountdown": "Skip ({{count}})"
+  },
+  "medleyDivider": "MEDLEY: {{nome}}",
+  "countdown": {
+    "hint": "Get ready… (click or Space to skip)"
   }
 }

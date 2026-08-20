@@ -6,7 +6,8 @@
   },
   "status": {
     "loadingAudio": "caricamento audio…",
-    "zoom": "zoom {{percent}}%"
+    "zoom": "zoom {{percent}}%",
+    "loadingMedley": "caricamento medley…"
   },
   "controls": {
     "prevSong": "Brano precedente",
@@ -27,6 +28,11 @@
     "playWithYoutubeTitle": "Riproduce la canzone e il video di YouTube insieme",
     "pauseWithYoutube": "Pausa + YT",
     "edit": "✎ Modifica",
-    "editTitle": "Modifica lo spartito di questa canzone"
+    "editTitle": "Modifica lo spartito di questa canzone",
+    "skipCountdown": "Salta ({{count}})"
+  },
+  "medleyDivider": "MEDLEY: {{nome}}",
+  "countdown": {
+    "hint": "Preparati… (clicca o Spazio per saltare)"
   }
 }

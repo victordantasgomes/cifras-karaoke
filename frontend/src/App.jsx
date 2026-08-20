@@ -6,6 +6,7 @@ import { useTheme } from './hooks/useTheme'
 import { useActivityPing } from './hooks/useActivityPing'
 import Layout from './components/Layout'
 import PublicSongView from './pages/PublicSongView'
+import PublicFeedback from './pages/PublicFeedback'
 import About from './pages/About'
 import Sobre2 from './pages/Sobre2'
 import BandBoard from './pages/BandBoard'
@@ -41,6 +42,7 @@ export default function App() {
         <Route path="/" element={<About />} />
         <Route path="/sobre" element={<Sobre2 />} />
         <Route path="/cifra/:slug" element={<PublicSongView />} />
+        <Route path="/feedback/:token" element={<PublicFeedback />} />
         <Route path="/login" element={<Login />} />
         <Route path="/cadastro" element={<SignUp />} />
         <Route path="/karaoke/:slug" element={<KaraokePlayer />} />

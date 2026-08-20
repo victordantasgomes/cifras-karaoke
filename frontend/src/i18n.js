@@ -30,6 +30,7 @@ import ptBRAlerts from './locales/pt-BR/alerts.json'
 import ptBRPublicHome from './locales/pt-BR/publicHome.json'
 import ptBRLanding2 from './locales/pt-BR/landing2.json'
 import ptBRPedalSetup from './locales/pt-BR/pedalSetup.json'
+import ptBRPublicFeedback from './locales/pt-BR/publicFeedback.json'
 
 import ptPTCommon from './locales/pt-PT/common.json'
 import ptPTErrors from './locales/pt-PT/errors.json'
@@ -59,6 +60,7 @@ import ptPTAlerts from './locales/pt-PT/alerts.json'
 import ptPTPublicHome from './locales/pt-PT/publicHome.json'
 import ptPTLanding2 from './locales/pt-PT/landing2.json'
 import ptPTPedalSetup from './locales/pt-PT/pedalSetup.json'
+import ptPTPublicFeedback from './locales/pt-PT/publicFeedback.json'
 
 import enCommon from './locales/en/common.json'
 import enErrors from './locales/en/errors.json'
@@ -88,6 +90,7 @@ import enAlerts from './locales/en/alerts.json'
 import enPublicHome from './locales/en/publicHome.json'
 import enLanding2 from './locales/en/landing2.json'
 import enPedalSetup from './locales/en/pedalSetup.json'
+import enPublicFeedback from './locales/en/publicFeedback.json'
 
 import esCommon from './locales/es/common.json'
 import esErrors from './locales/es/errors.json'
@@ -117,6 +120,7 @@ import esAlerts from './locales/es/alerts.json'
 import esPublicHome from './locales/es/publicHome.json'
 import esLanding2 from './locales/es/landing2.json'
 import esPedalSetup from './locales/es/pedalSetup.json'
+import esPublicFeedback from './locales/es/publicFeedback.json'
 
 import frCommon from './locales/fr/common.json'
 import frErrors from './locales/fr/errors.json'
@@ -146,6 +150,7 @@ import frAlerts from './locales/fr/alerts.json'
 import frPublicHome from './locales/fr/publicHome.json'
 import frLanding2 from './locales/fr/landing2.json'
 import frPedalSetup from './locales/fr/pedalSetup.json'
+import frPublicFeedback from './locales/fr/publicFeedback.json'
 
 import deCommon from './locales/de/common.json'
 import deErrors from './locales/de/errors.json'
@@ -175,6 +180,7 @@ import deAlerts from './locales/de/alerts.json'
 import dePublicHome from './locales/de/publicHome.json'
 import deLanding2 from './locales/de/landing2.json'
 import dePedalSetup from './locales/de/pedalSetup.json'
+import dePublicFeedback from './locales/de/publicFeedback.json'
 
 import ruCommon from './locales/ru/common.json'
 import ruErrors from './locales/ru/errors.json'
@@ -204,6 +210,7 @@ import ruAlerts from './locales/ru/alerts.json'
 import ruPublicHome from './locales/ru/publicHome.json'
 import ruLanding2 from './locales/ru/landing2.json'
 import ruPedalSetup from './locales/ru/pedalSetup.json'
+import ruPublicFeedback from './locales/ru/publicFeedback.json'
 
 import zhCommon from './locales/zh/common.json'
 import zhErrors from './locales/zh/errors.json'
@@ -233,6 +240,7 @@ import zhAlerts from './locales/zh/alerts.json'
 import zhPublicHome from './locales/zh/publicHome.json'
 import zhLanding2 from './locales/zh/landing2.json'
 import zhPedalSetup from './locales/zh/pedalSetup.json'
+import zhPublicFeedback from './locales/zh/publicFeedback.json'
 
 import itCommon from './locales/it/common.json'
 import itErrors from './locales/it/errors.json'
@@ -262,6 +270,7 @@ import itAlerts from './locales/it/alerts.json'
 import itPublicHome from './locales/it/publicHome.json'
 import itLanding2 from './locales/it/landing2.json'
 import itPedalSetup from './locales/it/pedalSetup.json'
+import itPublicFeedback from './locales/it/publicFeedback.json'
 
 // pt-BR/pt-PT precisam ficar como códigos distintos (não colapsar pra "pt")
 // — só idioma comum, região diferente na ortografia/vocabulário. Os outros
@@ -286,7 +295,7 @@ const NS = [
   'karaokeHome', 'history', 'pricing', 'settings', 'songEditor', 'karaokeStage',
   'scrollPlayer', 'chordDictionary', 'syncWorkspace', 'landing', 'bandBoard', 'metronome', 'tuner',
   'adminTools', 'adminSales', 'profileModal', 'instruments', 'alerts', 'publicHome', 'landing2',
-  'pedalSetup',
+  'pedalSetup', 'publicFeedback',
 ]
 
 i18n
@@ -302,7 +311,7 @@ i18n
         chordDictionary: ptBRChordDictionary, syncWorkspace: ptBRSyncWorkspace, landing: ptBRLanding,
         bandBoard: ptBRBandBoard, metronome: ptBRMetronome, tuner: ptBRTuner, adminTools: ptBRAdminTools,
         adminSales: ptBRAdminSales, profileModal: ptBRProfileModal, instruments: ptBRInstruments,
-        alerts: ptBRAlerts, publicHome: ptBRPublicHome, landing2: ptBRLanding2, pedalSetup: ptBRPedalSetup,
+        alerts: ptBRAlerts, publicHome: ptBRPublicHome, landing2: ptBRLanding2, pedalSetup: ptBRPedalSetup, publicFeedback: ptBRPublicFeedback,
       },
       'pt-PT': {
         common: ptPTCommon, errors: ptPTErrors, dashboard: ptPTDashboard, songs: ptPTSongs,
@@ -312,7 +321,7 @@ i18n
         chordDictionary: ptPTChordDictionary, syncWorkspace: ptPTSyncWorkspace, landing: ptPTLanding,
         bandBoard: ptPTBandBoard, metronome: ptPTMetronome, tuner: ptPTTuner, adminTools: ptPTAdminTools,
         adminSales: ptPTAdminSales, profileModal: ptPTProfileModal, instruments: ptPTInstruments,
-        alerts: ptPTAlerts, publicHome: ptPTPublicHome, landing2: ptPTLanding2, pedalSetup: ptPTPedalSetup,
+        alerts: ptPTAlerts, publicHome: ptPTPublicHome, landing2: ptPTLanding2, pedalSetup: ptPTPedalSetup, publicFeedback: ptPTPublicFeedback,
       },
       en: {
         common: enCommon, errors: enErrors, dashboard: enDashboard, songs: enSongs,
@@ -322,7 +331,7 @@ i18n
         chordDictionary: enChordDictionary, syncWorkspace: enSyncWorkspace, landing: enLanding,
         bandBoard: enBandBoard, metronome: enMetronome, tuner: enTuner, adminTools: enAdminTools,
         adminSales: enAdminSales, profileModal: enProfileModal, instruments: enInstruments,
-        alerts: enAlerts, publicHome: enPublicHome, landing2: enLanding2, pedalSetup: enPedalSetup,
+        alerts: enAlerts, publicHome: enPublicHome, landing2: enLanding2, pedalSetup: enPedalSetup, publicFeedback: enPublicFeedback,
       },
       es: {
         common: esCommon, errors: esErrors, dashboard: esDashboard, songs: esSongs,
@@ -332,7 +341,7 @@ i18n
         chordDictionary: esChordDictionary, syncWorkspace: esSyncWorkspace, landing: esLanding,
         bandBoard: esBandBoard, metronome: esMetronome, tuner: esTuner, adminTools: esAdminTools,
         adminSales: esAdminSales, profileModal: esProfileModal, instruments: esInstruments,
-        alerts: esAlerts, publicHome: esPublicHome, landing2: esLanding2, pedalSetup: esPedalSetup,
+        alerts: esAlerts, publicHome: esPublicHome, landing2: esLanding2, pedalSetup: esPedalSetup, publicFeedback: esPublicFeedback,
       },
       fr: {
         common: frCommon, errors: frErrors, dashboard: frDashboard, songs: frSongs,
@@ -342,7 +351,7 @@ i18n
         chordDictionary: frChordDictionary, syncWorkspace: frSyncWorkspace, landing: frLanding,
         bandBoard: frBandBoard, metronome: frMetronome, tuner: frTuner, adminTools: frAdminTools,
         adminSales: frAdminSales, profileModal: frProfileModal, instruments: frInstruments,
-        alerts: frAlerts, publicHome: frPublicHome, landing2: frLanding2, pedalSetup: frPedalSetup,
+        alerts: frAlerts, publicHome: frPublicHome, landing2: frLanding2, pedalSetup: frPedalSetup, publicFeedback: frPublicFeedback,
       },
       de: {
         common: deCommon, errors: deErrors, dashboard: deDashboard, songs: deSongs,
@@ -352,7 +361,7 @@ i18n
         chordDictionary: deChordDictionary, syncWorkspace: deSyncWorkspace, landing: deLanding,
         bandBoard: deBandBoard, metronome: deMetronome, tuner: deTuner, adminTools: deAdminTools,
         adminSales: deAdminSales, profileModal: deProfileModal, instruments: deInstruments,
-        alerts: deAlerts, publicHome: dePublicHome, landing2: deLanding2, pedalSetup: dePedalSetup,
+        alerts: deAlerts, publicHome: dePublicHome, landing2: deLanding2, pedalSetup: dePedalSetup, publicFeedback: dePublicFeedback,
       },
       ru: {
         common: ruCommon, errors: ruErrors, dashboard: ruDashboard, songs: ruSongs,
@@ -362,7 +371,7 @@ i18n
         chordDictionary: ruChordDictionary, syncWorkspace: ruSyncWorkspace, landing: ruLanding,
         bandBoard: ruBandBoard, metronome: ruMetronome, tuner: ruTuner, adminTools: ruAdminTools,
         adminSales: ruAdminSales, profileModal: ruProfileModal, instruments: ruInstruments,
-        alerts: ruAlerts, publicHome: ruPublicHome, landing2: ruLanding2, pedalSetup: ruPedalSetup,
+        alerts: ruAlerts, publicHome: ruPublicHome, landing2: ruLanding2, pedalSetup: ruPedalSetup, publicFeedback: ruPublicFeedback,
       },
       zh: {
         common: zhCommon, errors: zhErrors, dashboard: zhDashboard, songs: zhSongs,
@@ -372,7 +381,7 @@ i18n
         chordDictionary: zhChordDictionary, syncWorkspace: zhSyncWorkspace, landing: zhLanding,
         bandBoard: zhBandBoard, metronome: zhMetronome, tuner: zhTuner, adminTools: zhAdminTools,
         adminSales: zhAdminSales, profileModal: zhProfileModal, instruments: zhInstruments,
-        alerts: zhAlerts, publicHome: zhPublicHome, landing2: zhLanding2, pedalSetup: zhPedalSetup,
+        alerts: zhAlerts, publicHome: zhPublicHome, landing2: zhLanding2, pedalSetup: zhPedalSetup, publicFeedback: zhPublicFeedback,
       },
       it: {
         common: itCommon, errors: itErrors, dashboard: itDashboard, songs: itSongs,
@@ -382,7 +391,7 @@ i18n
         chordDictionary: itChordDictionary, syncWorkspace: itSyncWorkspace, landing: itLanding,
         bandBoard: itBandBoard, metronome: itMetronome, tuner: itTuner, adminTools: itAdminTools,
         adminSales: itAdminSales, profileModal: itProfileModal, instruments: itInstruments,
-        alerts: itAlerts, publicHome: itPublicHome, landing2: itLanding2, pedalSetup: itPedalSetup,
+        alerts: itAlerts, publicHome: itPublicHome, landing2: itLanding2, pedalSetup: itPedalSetup, publicFeedback: itPublicFeedback,
       },
     },
     fallbackLng: 'pt-BR',

@@ -6,7 +6,8 @@
   },
   "status": {
     "loadingAudio": "加载音频中…",
-    "zoom": "缩放 {{percent}}%"
+    "zoom": "缩放 {{percent}}%",
+    "loadingMedley": "加载串烧中…"
   },
   "controls": {
     "prevSong": "上一首",
@@ -27,6 +28,11 @@
     "playWithYoutubeTitle": "同时播放歌曲和 YouTube 视频",
     "pauseWithYoutube": "暂停 + YT",
     "edit": "✎ 编辑",
-    "editTitle": "编辑这首歌的和弦谱"
+    "editTitle": "编辑这首歌的和弦谱",
+    "skipCountdown": "跳过 ({{count}})"
+  },
+  "medleyDivider": "MEDLEY: {{nome}}",
+  "countdown": {
+    "hint": "准备…（点击或按空格跳过）"
   }
 }
