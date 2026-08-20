@@ -188,18 +188,18 @@ export default function SetlistDetail() {
             <div key={item.ref + i} className={`song-row${item.song?.slug && item.song.slug === highlight?.slug ? ' song-row-focus' : ''}`}
               draggable={isOwner}
               ref={(el) => { if (item.song) rowRefs.current[item.song.slug] = el }}
-              style={{ gridTemplateColumns: '46px 1fr auto auto auto', opacity: dragIdx === i ? 0.4 : 1, cursor: isOwner ? 'grab' : 'default' }}
+              style={{ gridTemplateColumns: '72px 1fr auto auto auto', opacity: dragIdx === i ? 0.4 : 1, cursor: isOwner ? 'grab' : 'default' }}
               onDragStart={() => isOwner && setDragIdx(i)}
               onDragOver={(e) => isOwner && e.preventDefault()}
               onDrop={() => isOwner && onDrop(i)}
               onDragEnd={() => setDragIdx(null)}>
-              <div className="row no-print" style={{ flexDirection: 'column', gap: 2, flexWrap: 'nowrap', alignItems: 'center' }}>
+              <div className="row no-print" style={{ gap: 6, flexWrap: 'nowrap', alignItems: 'center' }}>
                 {isOwner ? (
                   editingIdx === i ? (
                     <input
                       type="number" className="input" autoFocus min={1} max={items.length}
                       value={editingValue}
-                      style={{ width: 40, padding: '1px 2px', fontSize: 11, textAlign: 'center' }}
+                      style={{ width: 46, padding: '2px 4px', fontSize: 16, fontWeight: 700, textAlign: 'center' }}
                       onClick={(e) => e.stopPropagation()}
                       onChange={(e) => setEditingValue(e.target.value)}
                       onBlur={() => setEditingIdx(null)}
@@ -210,23 +210,23 @@ export default function SetlistDetail() {
                       }} />
                   ) : (
                     <button type="button" className="btn ghost" title={t('jumpToPosition')}
-                      style={{ padding: '1px 6px', fontSize: 11, lineHeight: 1.4, fontWeight: 700 }}
+                      style={{ padding: '2px 8px', fontSize: 16, lineHeight: 1.4, fontWeight: 700 }}
                       onClick={(e) => { e.stopPropagation(); setEditingIdx(i); setEditingValue(String(i + 1)) }}>
                       {i + 1}
                     </button>
                   )
                 ) : (
-                  <span style={{ fontSize: 11, fontWeight: 700, color: 'var(--muted)' }}>{i + 1}</span>
+                  <span style={{ fontSize: 16, fontWeight: 700, color: 'var(--muted)' }}>{i + 1}</span>
                 )}
                 {isOwner && (
-                  <>
+                  <div style={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
                     <button type="button" className="btn ghost" style={{ padding: '1px 6px', fontSize: 11, lineHeight: 1.4 }}
                       disabled={i === 0} title={t('moveUp')}
                       onClick={(e) => { e.stopPropagation(); moveItem(i, i - 1) }}>▲</button>
                     <button type="button" className="btn ghost" style={{ padding: '1px 6px', fontSize: 11, lineHeight: 1.4 }}
                       disabled={i === items.length - 1} title={t('moveDown')}
                       onClick={(e) => { e.stopPropagation(); moveItem(i, i + 1) }}>▼</button>
-                  </>
+                  </div>
                 )}
               </div>
               <div>
