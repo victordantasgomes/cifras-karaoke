@@ -1,10 +1,10 @@
 /* =============================================================
-   LANDING PAGE (Fase 5) — página pública, sempre em tema claro
-   (ver useForceLightTheme em hooks/useTheme.js). Estilo isolado do
-   resto do app: reaproveita as variáveis de cor de global.css
-   (--accent, --bg, --text etc.) mas não usa .app-shell/.sidebar —
-   é uma página full-width com cabeçalho e rodapé próprios.
-   Todas as classes daqui usam o prefixo .landing- pra não colidir
+   LANDING PAGE (Fase 5) — página pública, respeita o tema do visitante
+   (padrão escuro, alternável pelo ícone no cabeçalho — ver ThemeToggle em
+   LandingHeader.jsx). Estilo isolado do resto do app: reaproveita as
+   variáveis de cor de global.css (--accent, --bg, --text etc.) mas não usa
+   .app-shell/.sidebar — é uma página full-width com cabeçalho e rodapé
+   próprios. Todas as classes daqui usam o prefixo .landing- pra não colidir
    com o resto do CSS do app.
    ============================================================= */
 

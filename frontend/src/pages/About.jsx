@@ -1,5 +1,4 @@
 import { useEffect } from 'react'
-import { useForceLightTheme } from '../hooks/useTheme'
 import api from '../services/api'
 import LandingHeader from '../components/landing/LandingHeader'
 import Hero from '../components/landing/Hero'
@@ -20,9 +19,11 @@ import LandingFooter from '../components/landing/LandingFooter'
 import '../styles/landing.css'
 
 /**
- * Página de vendas — marketing, sem <Layout> (sem sidebar/app-shell),
- * sempre em tema claro independente da preferência salva do visitante (ver
- * useForceLightTheme). Página principal da aplicação, em `/`. Diferente da
+ * Página de vendas — marketing, sem <Layout> (sem sidebar/app-shell).
+ * Página principal da aplicação, em `/`. Respeita o tema do visitante
+ * (padrão escuro, igual ao resto do app — ver DEFAULT_THEME em
+ * hooks/useTheme.js) em vez de forçar um tema fixo; o ícone de alternância
+ * no cabeçalho (LandingHeader.jsx) deixa trocar pra claro. Diferente da
  * Landing.jsx original, não redireciona usuário logado: não há razão pra
  * bloquear quem já tem conta de ver planos/FAQ aqui.
  *
@@ -36,8 +37,6 @@ import '../styles/landing.css'
  * tem seção de prova social.
  */
 export default function About() {
-  useForceLightTheme()
-
   useEffect(() => {
     api.post('/telemetry/landing-view').catch(() => {})
   }, [])

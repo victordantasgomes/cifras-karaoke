@@ -73,19 +73,6 @@ export function useTheme() {
   }, [data])
 }
 
-/** Força data-theme="light" enquanto o componente estiver montado,
- * restaurando o tema real do visitante (localStorage) ao desmontar — usado
- * só pela Landing.jsx, que é sempre clara independente da preferência do
- * app (mesmo raciocínio de .karaoke-stage forçar escuro: uma seção com
- * identidade visual própria, orientada por outro raciocínio de tema). */
-export function useForceLightTheme() {
-  useEffect(() => {
-    const prevTheme = document.documentElement.dataset.theme
-    apply('light', localStorage.getItem(ACCENT_KEY) || DEFAULT_ACCENT)
-    return () => apply(prevTheme || localStorage.getItem(THEME_KEY) || DEFAULT_THEME, localStorage.getItem(ACCENT_KEY) || DEFAULT_ACCENT)
-  }, [])
-}
-
 /** Troca tema/cor de destaque na hora (+ localStorage) e, se estiver
  * logado, persiste em settings.prefs — mesma forma de escrita do
  * PedalSettingsCard: preserva o resto de `prefs` espalhando antes de
