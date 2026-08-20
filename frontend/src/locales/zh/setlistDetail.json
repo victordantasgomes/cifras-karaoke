@@ -55,6 +55,8 @@
   "moveUp": "上移",
   "moveDown": "下移",
   "jumpToPosition": "跳转到位置",
+  "bpmAbbr": "{{bpm}} BPM",
+  "audienceRatingTitle": "观众平均评分",
   "notFound": "⚠ 未找到歌曲",
   "editSong": "编辑歌曲",
   "playFromHere": "从这里开始播放",

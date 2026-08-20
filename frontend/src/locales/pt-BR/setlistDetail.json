@@ -55,6 +55,8 @@
   "moveUp": "Mover para cima",
   "moveDown": "Mover para baixo",
   "jumpToPosition": "Ir para a posição",
+  "bpmAbbr": "{{bpm}} BPM",
+  "audienceRatingTitle": "Nota média do público",
   "notFound": "⚠ música não encontrada",
   "editSong": "Editar música",
   "playFromHere": "Tocar a playlist a partir daqui",

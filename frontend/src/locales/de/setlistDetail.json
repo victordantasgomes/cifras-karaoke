@@ -16,6 +16,8 @@
   "moveUp": "Nach oben verschieben",
   "moveDown": "Nach unten verschieben",
   "jumpToPosition": "Zu Position springen",
+  "bpmAbbr": "{{bpm}} BPM",
+  "audienceRatingTitle": "Durchschnittliche Publikumsbewertung",
   "notFound": "⚠ Song nicht gefunden",
   "editSong": "Song bearbeiten",
   "playFromHere": "Playlist von hier abspielen",

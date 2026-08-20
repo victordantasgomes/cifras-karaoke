@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { useLocation, useNavigate, useParams } from 'react-router-dom'
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { useTranslation } from 'react-i18next'
@@ -68,7 +68,23 @@ export default function SetlistDetail() {
   const { data: feedbackStatus } = useQuery({
     queryKey: ['feedback-status', id],
     queryFn: () => api.get(`/setlists/${id}/feedback/status`).then((r) => r.data),
+    enabled: Boolean(data?.is_owner),
   })
+  // nota média do público por música (mesmo relatório de FeedbackReportModal/
+  // PlaylistOrderModal.jsx, cache compartilhado pela queryKey) — exibida
+  // abaixo do título de cada linha do setlist. Só pra dono (rota exige,
+  // ver feedback_service.py::report), sem custo pra quem só está vendo um
+  // setlist compartilhado.
+  const { data: feedbackReport } = useQuery({
+    queryKey: ['feedback-report', id],
+    queryFn: () => api.get(`/setlists/${id}/feedback/report`).then((r) => r.data),
+    enabled: Boolean(data?.is_owner),
+  })
+  const notaPublicoMap = useMemo(() => {
+    const map = {}
+    ;(feedbackReport || []).forEach((r) => { map[r.song_slug] = r.media })
+    return map
+  }, [feedbackReport])
   const activateFeedback = useMutation({
     mutationFn: () => api.post(`/setlists/${id}/feedback/activate`),
     onSuccess: () => qc.invalidateQueries({ queryKey: ['feedback-status', id] }),
@@ -353,6 +369,11 @@ export default function SetlistDetail() {
                 </div>
                 <div className="meta">
                   {item.song?.interprete || ''}
+                  {item.song?.ritmo && <> · {item.song.ritmo}</>}
+                  {item.song?.bpm != null && <> · {t('bpmAbbr', { bpm: item.song.bpm })}</>}
+                  {item.song && notaPublicoMap[item.song.slug] != null && (
+                    <> · <span title={t('audienceRatingTitle')}>★ {notaPublicoMap[item.song.slug]}</span></>
+                  )}
                   {item.song && (
                     <span className="row" style={{ display: 'inline-flex', gap: 6, margin: '0 6px', verticalAlign: 'middle' }}>
                       <svg width="15" height="15" viewBox="0 0 24 24"

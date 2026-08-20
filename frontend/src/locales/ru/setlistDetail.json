@@ -55,6 +55,8 @@
   "moveUp": "Переместить вверх",
   "moveDown": "Переместить вниз",
   "jumpToPosition": "Перейти к позиции",
+  "bpmAbbr": "{{bpm}} BPM",
+  "audienceRatingTitle": "Средняя оценка зрителей",
   "notFound": "⚠ песня не найдена",
   "editSong": "Редактировать песню",
   "playFromHere": "Воспроизвести плейлист с этого места",
