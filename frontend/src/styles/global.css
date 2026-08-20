@@ -156,7 +156,11 @@ button { font-family: inherit; }
   overflow: hidden;
 }
 .brand { padding: 4px 12px 18px; }
-.brand-logo-full { display: block; height: 130px; width: auto; }
+/* width:100% (não height fixa) — a arte nova é bem mais larga que alta
+   (banner, não um logotipo compacto quadrado), então trava pela largura
+   disponível da sidebar, senão estoura (a 130px de altura ela passaria dos
+   232px de --sidebar-w mesmo sem contar o padding). */
+.brand-logo-full { display: block; width: 100%; height: auto; }
 .brand-logo-icon { display: none; height: 34px; width: auto; }
 .nav-item {
   display: flex; align-items: center; gap: 10px;
@@ -249,11 +253,28 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
 }
 .song-row:hover { background: var(--glass); }
 /* linha em que o músico estava ao sair do karaokê pra uma setlist (ver
-   SetlistDetail.jsx, state.focusSlug) — pisca uma vez pra chamar atenção,
-   sem precisar de JS pra remover a classe depois (a animação não repete). */
-.song-row-focus { animation: song-row-focus 2.2s ease-out; }
+   SetlistDetail.jsx, state.focusSlug) — pisca 4x em amarelo (--amber, a
+   mesma "luz de palco" já usada nos acordes/contagem regressiva do
+   karaokê — não a cor de destaque do tema, que o usuário pode ter mudado
+   pra qualquer outra) por 5s, pra chamar atenção de verdade. Duração aqui
+   precisa bater com o setTimeout de SetlistDetail.jsx que tira a classe. */
+.song-row-focus { animation: song-row-focus 5s ease-out; }
 @keyframes song-row-focus {
-  0%, 15% { background: var(--accent-soft); }
+  0%   { background: rgba(242, 181, 68, 0.55); }
+  6%   { background: rgba(242, 181, 68, 0.55); }
+  6%   { background: transparent; }
+  20%  { background: transparent; }
+  20%  { background: rgba(242, 181, 68, 0.55); }
+  26%  { background: rgba(242, 181, 68, 0.55); }
+  26%  { background: transparent; }
+  40%  { background: transparent; }
+  40%  { background: rgba(242, 181, 68, 0.55); }
+  46%  { background: rgba(242, 181, 68, 0.55); }
+  46%  { background: transparent; }
+  60%  { background: transparent; }
+  60%  { background: rgba(242, 181, 68, 0.55); }
+  66%  { background: rgba(242, 181, 68, 0.55); }
+  66%  { background: transparent; }
   100% { background: transparent; }
 }
 .song-row .title { font-weight: 600; }
@@ -583,12 +604,12 @@ textarea.input { font-family: var(--font-mono); line-height: 1.55; resize: verti
 .karaoke-stage.controls-visible .k-controls { opacity: 1; }
 .k-header {
   /* faixa translúcida atrás das infos da música (título/tom/relógio) — sem
-     ela o texto se confundia com a cifra rolando por baixo; espelha o
-     degradê que .k-controls já usa embaixo, só invertido (escuro na borda,
-     esmaecendo pro meio da tela). */
+     ela o texto se confundia com a cifra rolando por baixo. 10% de
+     transparência (90% opaca) — barra sólida o bastante pra ler fácil, sem
+     virar um retângulo 100% opaco cobrindo a cifra por baixo. */
   position: absolute; top: 0; left: 0; right: var(--k-sidebar-w, 0px);
   padding: 16px 24px; display: flex; justify-content: space-between; color: rgba(255,255,255,0.6); font-size: 14px; opacity: 0; transition: 200ms;
-  background: linear-gradient(rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.38) 75%, transparent);
+  background: rgba(0, 0, 0, 0.9);
 }
 .karaoke-stage.controls-visible .k-header { opacity: 1; }
 /* marca própria (whitelabel, Fase 8) — nome/logo do dono da música,

@@ -32,7 +32,7 @@ export default function SetlistDetail() {
     if (!row) return undefined
     didFocusRef.current = true
     row.scrollIntoView({ behavior: 'smooth', block: 'center' })
-    const timer = setTimeout(() => setHighlightSlug(null), 2200)
+    const timer = setTimeout(() => setHighlightSlug(null), 5000) // bate com a duração de @keyframes song-row-focus em global.css
     return () => clearTimeout(timer)
   }, [items, highlightSlug])
 

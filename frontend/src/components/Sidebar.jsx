@@ -1,6 +1,6 @@
 import { NavLink, useNavigate } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
-import BrandLogo from './BrandLogo'
+import logoBanner from '../assets/logo-tumtumpa-banner.png'
 import logoIcone from '../assets/logo-icone.png'
 import { useAuthStore } from '../store/authStore'
 import { IconExit } from './icons'
@@ -15,7 +15,7 @@ export default function Sidebar() {
   return (
     <aside className="sidebar no-print">
       <div className="brand">
-        <BrandLogo className="brand-logo-full" />
+        <img src={logoBanner} alt="TumTumPa" className="brand-logo-full" />
         {/* Mantém o ícone antigo aqui (e no favicon): a arte nova do TumTumPa
             é traço fino demais e vira mancha ilegível em 34px. */}
         <img src={logoIcone} alt="TumTumPa" className="brand-logo-icon" />

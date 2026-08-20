@@ -1,10 +1,10 @@
 import { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
-import BrandLogo from '../components/BrandLogo'
 import api from '../services/api'
 import { useAuthStore } from '../store/authStore'
 import InstrumentPicker from '../components/InstrumentPicker'
+import logo from '../assets/logo-tumtumpa-login.png'
 
 /**
  * Cadastro público (Fase 5) — deliberadamente separado da criação de
@@ -38,7 +38,7 @@ export default function SignUp() {
   return (
     <div className="login-wrap">
       <div className="card login-card">
-        <BrandLogo className="login-logo" />
+        <img src={logo} alt="TumTumPa" className="login-logo" />
         <div className="tag">{t('signup.tagline')}</div>
         <div className="field">
           <label>{t('signup.name')}</label>
