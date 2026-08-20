@@ -47,6 +47,7 @@ from services.audio_service import AudioService
 from services.songs_service import SongsService
 from utils.parser import parse_body
 from utils.slug import slugify
+from utils.transpose import transpose_body, transpose_chord
 
 MS_SLOWEST = 10000  # velocidade = 1
 MS_FASTEST = 500    # velocidade = 100
@@ -75,9 +76,17 @@ class KaraokeService:
         self.audio = audio
         self.clips = clips
 
-    def payload(self, user_id: str, slug: str, is_admin: bool = False) -> dict:
+    def payload(self, user_id: str, slug: str, is_admin: bool = False, semitones: int = 0) -> dict:
+        """`semitones`: transposição ao vivo, só pra esta resposta — NUNCA
+        grava nada (ver SongsService.transpose, que é quem persiste, com
+        save=True explícito, usado pelo editor). Existe pro medley
+        (SetlistDetail.jsx::buildMedleyItems / ScrollPlayer.jsx): a partir
+        da 2ª música do grupo, toca no tom da 1ª, sem alterar o @tom
+        cadastrado em nenhuma delas — cada nova consulta a este payload
+        recalcula do zero a partir do body original."""
         data = self.songs.get(user_id, slug, is_admin=is_admin)
-        entries = parse_body(data["body"])
+        body = transpose_body(data["body"], semitones) if semitones else data["body"]
+        entries = parse_body(body)
         lines = [
             {"text": e["text"], "t": e["t"], "tipo": e["tipo"]}
             for e in entries
@@ -122,7 +131,7 @@ class KaraokeService:
             # música órfã (dono excluído), o frontend simplesmente não
             # mostra marca nenhuma nesse caso.
             "owner_id": data["user_id"],
-            "tom": data["header"].get("tom", ""),
+            "tom": transpose_chord(data["header"].get("tom", ""), semitones) if semitones else data["header"].get("tom", ""),
             "youtube_url": data["header"].get("youtube_url", ""),
             "velocidade": velocidade,
             "ms_per_line": velocity_to_ms(velocidade),

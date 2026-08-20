@@ -3,21 +3,7 @@ import { useQuery } from '@tanstack/react-query'
 import { useTranslation } from 'react-i18next'
 import Modal from './Modal'
 import api from '../services/api'
-
-// mesma tabela cromática de backend/utils/transpose.py::SHARPS/_NOTE_INDEX,
-// replicada aqui (12 linhas, não vale expor um endpoint só pra isso) —
-// ordena por tom de verdade (C, C#, D...) em vez de alfabético (que
-// colocaria "A" antes de "C" e depois de "B", sem sentido musical).
-const NOTE_INDEX = {
-  C: 0, 'C#': 1, Db: 1, D: 2, 'D#': 3, Eb: 3, E: 4, F: 5, 'F#': 6, Gb: 6,
-  G: 7, 'G#': 8, Ab: 8, A: 9, 'A#': 10, Bb: 10, B: 11,
-}
-const ROOT_RE = /^([A-G][#b]?)/
-
-function keyIndex(tom) {
-  const m = (tom || '').match(ROOT_RE)
-  return m ? (NOTE_INDEX[m[1]] ?? null) : null
-}
+import { keyIndex } from '../utils/musicalKey'
 
 function shuffle(arr) {
   const next = [...arr]

@@ -976,6 +976,27 @@ def test_karaoke_payload_classifies_lines(ctx):
     assert tipos == ["observacao", "acorde", "letra", "observacao"]
 
 
+def test_karaoke_payload_transposes_chords_live_without_persisting(ctx):
+    """semitones= é só pra esta resposta (ver medley, ScrollPlayer.jsx) —
+    nunca grava nada na música."""
+    songs, _, audio = ctx
+    entry = songs.create(
+        "u1", "Rock", "Queen", "Bohemian Rhapsody",
+        "@titulo: Bohemian Rhapsody\n@tom: C\n@velocidade: 40\n\n"
+        "C          G\nIs this the real life?",
+    )
+    k = KaraokeService(songs, audio)
+    payload = k.payload("u1", entry["slug"], semitones=2)
+    assert payload["tom"] == "D"
+    acorde_line = next(l for l in payload["lines"] if l["tipo"] == "acorde")
+    assert "D" in acorde_line["text"] and "A" in acorde_line["text"]
+
+    original = k.payload("u1", entry["slug"])
+    assert original["tom"] == "C"
+    saved = songs.get("u1", entry["slug"])
+    assert saved["header"]["tom"] == "C"
+
+
 def test_karaoke_payload_hides_oculta_lines(ctx):
     songs, _, audio = ctx
     entry = songs.create(

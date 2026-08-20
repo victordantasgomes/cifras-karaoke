@@ -196,7 +196,10 @@ def build_blueprint(ctx) -> Blueprint:
     @api.get("/public/karaoke/<slug>")
     def public_karaoke(slug):
         try:
-            payload = ctx.karaoke.payload(None, slug)
+            # ?semitones=N: transposição ao vivo só pra esta resposta, nunca
+            # persiste (ver KaraokeService.payload) — usada pelo medley
+            # (ScrollPlayer.jsx) pra tocar a 2ª+ música no tom da 1ª.
+            payload = ctx.karaoke.payload(None, slug, semitones=request.args.get("semitones", 0, type=int))
         except SongNotFound:
             return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
         ctx.history.register_play(None, slug)
@@ -843,7 +846,9 @@ def build_blueprint(ctx) -> Blueprint:
     @protected
     def karaoke(slug):
         try:
-            payload = ctx.karaoke.payload(g.user_id, slug, is_admin=g.is_admin)
+            # ?semitones=N: ver comentário equivalente em public_karaoke acima.
+            payload = ctx.karaoke.payload(g.user_id, slug, is_admin=g.is_admin,
+                                          semitones=request.args.get("semitones", 0, type=int))
         except SongNotFound:
             return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
         ctx.history.register_play(g.user_id, slug)

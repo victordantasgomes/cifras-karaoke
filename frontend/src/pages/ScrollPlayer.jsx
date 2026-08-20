@@ -16,6 +16,7 @@ import YoutubeMiniPlayer from '../components/YoutubeMiniPlayer'
 import PedalStatusBadge from '../components/PedalStatusBadge'
 import { extractYoutubeId } from '../utils/youtube'
 import { playClick } from '../utils/clickSound'
+import { semitonesBetween } from '../utils/musicalKey'
 
 const CHORD_LIKE = new Set(['acorde', 'solo', 'riff', 'tab'])
 const MIN_RATE = 0.5
@@ -105,25 +106,34 @@ export default function ScrollPlayer({ data }) {
   const medleyId = currentQueueEntry?.medley_id || null
   const isMedleyAnchor = Boolean(medleyId) &&
     (playlist.index === 0 || playlist.queue[playlist.index - 1]?.medley_id !== medleyId)
-  const medleyMemberSlugs = useMemo(() => {
+  const medleyMembers = useMemo(() => {
     if (!isMedleyAnchor) return []
-    const slugs = []
+    const members = []
     let i = playlist.index + 1
     while (i < playlist.queue.length && playlist.queue[i].medley_id === medleyId) {
-      slugs.push(playlist.queue[i].song.slug)
+      members.push(playlist.queue[i].song)
       i += 1
     }
-    return slugs
+    return members
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [isMedleyAnchor, medleyId, playlist.index, playlist.queue])
+  // a partir da 2ª música do medley, toca no tom da âncora (1ª) — só pra
+  // esta sessão de karaokê, nunca altera o @tom cadastrado em nenhuma
+  // música (ver comentário em KaraokeService.payload). `semitonesBetween`
+  // devolve null se algum dos dois tons não for reconhecido — nesse caso
+  // não transpõe (fallback seguro pra "não sei calcular").
   const medleyMemberQueries = useQueries({
-    queries: medleyMemberSlugs.map((s) => ({
-      queryKey: ['karaoke', s, base],
-      queryFn: () => api.get(`${base}/karaoke/${s}`).then((r) => r.data),
-      staleTime: Infinity,
-      refetchOnWindowFocus: false,
-      refetchOnReconnect: false,
-    })),
+    queries: medleyMembers.map((song) => {
+      const semitones = semitonesBetween(song.tom, data.tom) || 0
+      return {
+        queryKey: semitones ? ['karaoke', song.slug, base, semitones] : ['karaoke', song.slug, base],
+        queryFn: () => api.get(`${base}/karaoke/${song.slug}`, semitones ? { params: { semitones } } : undefined)
+          .then((r) => r.data),
+        staleTime: Infinity,
+        refetchOnWindowFocus: false,
+        refetchOnReconnect: false,
+      }
+    }),
   })
   const medleyReady = medleyMemberQueries.every((q) => q.data)
 
