@@ -3,7 +3,7 @@ import { Link, useNavigate } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import api from '../services/api'
 import { useAuthStore } from '../store/authStore'
-import logo from '../assets/logo-tumtumpa-login.png'
+import logo from '../assets/logo-tumtumpa-wide.png'
 
 export default function Login() {
   const { t } = useTranslation()

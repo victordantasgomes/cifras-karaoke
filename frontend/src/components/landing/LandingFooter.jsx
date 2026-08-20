@@ -1,5 +1,5 @@
 import { useTranslation } from 'react-i18next'
-import logo from '../../assets/logo-tumtumpa-banner.png'
+import logo from '../../assets/logo-tumtumpa-stacked.png'
 
 /** Rodapé — espelha os links âncora do cabeçalho (LandingHeader). Mesma logo
  * fixa do cabeçalho (LandingHeader.jsx), não a BrandLogo alternável por tema. */

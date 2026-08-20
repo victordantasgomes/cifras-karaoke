@@ -4,7 +4,7 @@ import { useTranslation } from 'react-i18next'
 import api from '../services/api'
 import { useAuthStore } from '../store/authStore'
 import InstrumentPicker from '../components/InstrumentPicker'
-import logo from '../assets/logo-tumtumpa-login.png'
+import logo from '../assets/logo-tumtumpa-wide.png'
 
 /**
  * Cadastro público (Fase 5) — deliberadamente separado da criação de
