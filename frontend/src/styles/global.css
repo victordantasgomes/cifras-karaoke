@@ -156,10 +156,10 @@ button { font-family: inherit; }
   overflow: hidden;
 }
 .brand { padding: 4px 12px 18px; }
-/* height fixa (não width:100%) — a arte é quase quadrada (empilhada,
-   "TUM/TUM/PA"), não um banner largo; em width:100% ela estouraria em
-   altura (~164px na largura útil da sidebar). Trava pela altura e centraliza. */
-.brand-logo-full { display: block; height: 100px; width: auto; max-width: 100%; margin: 0 auto; }
+/* width:100% (não height fixa) — a arte é um banner largo, não um
+   logotipo compacto quadrado, então trava pela largura disponível da
+   sidebar. */
+.brand-logo-full { display: block; width: 100%; height: auto; }
 .brand-logo-icon { display: none; height: 34px; width: auto; }
 .nav-item {
   display: flex; align-items: center; gap: 10px;

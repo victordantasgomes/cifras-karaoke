@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import ThemeToggle from '../ThemeToggle'
-import logo from '../../assets/logo-tumtumpa-stacked.png'
+import logo from '../../assets/logo-tumtumpa-wide.png'
 
 /** Cabeçalho fixo da landing — mesmos links âncora do rodapé (LandingFooter).
  * Logo própria (arte com fundo preto, não é o logotipo transparente que
