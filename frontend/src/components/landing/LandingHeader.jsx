@@ -1,17 +1,18 @@
 import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
-import BrandLogo from '../BrandLogo'
 import ThemeToggle from '../ThemeToggle'
+import logo from '../../assets/logo-tumtumpa-banner.png'
 
 /** Cabeçalho fixo da landing — mesmos links âncora do rodapé (LandingFooter).
- * Respeita o tema do visitante (BrandLogo escolhe a variante certa da logo),
- * com o ícone de alternância disponível aqui, igual ao resto do app. */
+ * Logo própria (arte com fundo preto, não é o logotipo transparente que
+ * BrandLogo alterna por tema) — fica igual nos dois temas de propósito. O
+ * ícone de alternância continua disponível aqui, igual ao resto do app. */
 export default function LandingHeader({ onNavigate }) {
   const { t } = useTranslation('landing')
 
   return (
     <header className="landing-header">
-      <BrandLogo alt="TumTumPa" className="landing-logo" />
+      <img src={logo} alt="TumTumPa" className="landing-logo" />
       <nav className="landing-nav">
         <button onClick={() => onNavigate('explorar')}>{t('header.navExplore')}</button>
         <button onClick={() => onNavigate('recursos')}>{t('header.navFeatures')}</button>

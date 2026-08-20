@@ -1,14 +1,15 @@
 import { useTranslation } from 'react-i18next'
-import BrandLogo from '../BrandLogo'
+import logo from '../../assets/logo-tumtumpa-banner.png'
 
-/** Rodapé — espelha os links âncora do cabeçalho (LandingHeader). */
+/** Rodapé — espelha os links âncora do cabeçalho (LandingHeader). Mesma logo
+ * fixa do cabeçalho (LandingHeader.jsx), não a BrandLogo alternável por tema. */
 export default function LandingFooter({ onNavigate }) {
   const { t } = useTranslation('landing')
 
   return (
     <footer className="landing-footer">
       <div className="landing-footer-brand">
-        <BrandLogo alt="TumTumPa" />
+        <img src={logo} alt="TumTumPa" />
         <span className="landing-footer-tagline">{t('footer.tagline')}</span>
       </div>
       <nav className="landing-footer-nav">
