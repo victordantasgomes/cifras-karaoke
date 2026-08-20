@@ -31,7 +31,9 @@
     "exit": "Esci",
     "playWithYoutube": "Riproduci + YT",
     "playWithYoutubeTitle": "Riproduce la canzone e il video di YouTube insieme",
-    "pauseWithYoutube": "Pausa + YT"
+    "pauseWithYoutube": "Pausa + YT",
+    "edit": "✎ Modifica",
+    "editTitle": "Modifica lo spartito di questa canzone"
   },
   "countdown": {
     "hint": "Preparati… (clicca o Spazio per saltare)"

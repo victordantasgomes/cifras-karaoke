@@ -1,5 +1,5 @@
-import { useEffect, useState } from 'react'
-import { useNavigate, useParams } from 'react-router-dom'
+import { useEffect, useRef, useState } from 'react'
+import { useLocation, useNavigate, useParams } from 'react-router-dom'
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { useTranslation } from 'react-i18next'
 import api from '../services/api'
@@ -10,12 +10,31 @@ export default function SetlistDetail() {
   const { t } = useTranslation('setlistDetail')
   const { id } = useParams()
   const navigate = useNavigate()
+  const location = useLocation()
   const qc = useQueryClient()
   const playlist = usePlaylistStore()
   const [items, setItems] = useState([])
   const [nome, setNome] = useState('')
   const [dragIdx, setDragIdx] = useState(null)
   const [error, setError] = useState('')
+
+  // veio do karaokê ("sair" numa setlist) com a música em que estava — rola
+  // até a linha e destaca por alguns segundos (ver o map dos itens abaixo).
+  // Dispara só depois que `items` carregar de verdade (a lista começa
+  // vazia até a query responder) e só uma vez (didFocusRef), pra reordenar
+  // a lista depois não reacionar o scroll/destaque.
+  const [highlightSlug, setHighlightSlug] = useState(location.state?.focusSlug || null)
+  const rowRefs = useRef({})
+  const didFocusRef = useRef(false)
+  useEffect(() => {
+    if (!highlightSlug || didFocusRef.current) return undefined
+    const row = rowRefs.current[highlightSlug]
+    if (!row) return undefined
+    didFocusRef.current = true
+    row.scrollIntoView({ behavior: 'smooth', block: 'center' })
+    const timer = setTimeout(() => setHighlightSlug(null), 2200)
+    return () => clearTimeout(timer)
+  }, [items, highlightSlug])
 
   const { data } = useQuery({
     queryKey: ['setlist', id],
@@ -141,7 +160,9 @@ export default function SetlistDetail() {
           if (item.song) playableIndex += 1
           const myPlayableIndex = playableIndex
           return (
-            <div key={item.ref + i} className="song-row" draggable={isOwner}
+            <div key={item.ref + i} className={`song-row${item.song?.slug && item.song.slug === highlightSlug ? ' song-row-focus' : ''}`}
+              draggable={isOwner}
+              ref={(el) => { if (item.song) rowRefs.current[item.song.slug] = el }}
               style={{ gridTemplateColumns: '46px 1fr auto auto auto', opacity: dragIdx === i ? 0.4 : 1, cursor: isOwner ? 'grab' : 'default' }}
               onDragStart={() => isOwner && setDragIdx(i)}
               onDragOver={(e) => isOwner && e.preventDefault()}

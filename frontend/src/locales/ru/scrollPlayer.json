@@ -25,6 +25,8 @@
     "exit": "Выход",
     "playWithYoutube": "Играть + YT",
     "playWithYoutubeTitle": "Воспроизводит песню и видео YouTube одновременно",
-    "pauseWithYoutube": "Пауза + YT"
+    "pauseWithYoutube": "Пауза + YT",
+    "edit": "✎ Редактировать",
+    "editTitle": "Редактировать аккорды этой песни"
   }
 }

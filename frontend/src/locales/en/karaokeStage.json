@@ -31,7 +31,9 @@
     "exit": "Exit",
     "playWithYoutube": "Play + YT",
     "playWithYoutubeTitle": "Play the song and the YouTube video together",
-    "pauseWithYoutube": "Pause + YT"
+    "pauseWithYoutube": "Pause + YT",
+    "edit": "✎ Edit",
+    "editTitle": "Edit this song's chord sheet"
   },
   "countdown": {
     "hint": "Get ready… (click or Space to skip)"

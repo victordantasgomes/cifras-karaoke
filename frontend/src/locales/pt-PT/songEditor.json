@@ -17,7 +17,8 @@
     "confirmDelete": "Eliminar esta música? Sairá de todos os alinhamentos.",
     "clone": "Clonar música",
     "cloning": "A clonar…",
-    "backToSetlist": "← Voltar à setlist"
+    "backToSetlist": "← Voltar à setlist",
+    "backToKaraoke": "← Voltar ao karaoke"
   },
   "notOwnerBanner": "Esta música é de outro utilizador — só quem a criou (ou um admin) pode editá-la diretamente. Clica em “Clonar música” para criar a tua própria cópia editável. Enviar áudio/samples e eliminar também ficam restritos a quem criou.",
   "tabs": {

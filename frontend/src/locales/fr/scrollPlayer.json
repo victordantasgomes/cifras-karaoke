@@ -25,6 +25,8 @@
     "exit": "Quitter",
     "playWithYoutube": "Lire + YT",
     "playWithYoutubeTitle": "Joue la musique et la vidéo YouTube en même temps",
-    "pauseWithYoutube": "Pause + YT"
+    "pauseWithYoutube": "Pause + YT",
+    "edit": "✎ Modifier",
+    "editTitle": "Modifier la grille d'accords de ce morceau"
   }
 }

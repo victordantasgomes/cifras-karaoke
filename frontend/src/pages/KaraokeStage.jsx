@@ -361,12 +361,18 @@ export default function KaraokeStage() {
     else playWithYoutube()
   }
 
+  // sai do player de volta pra tela da setlist, já com foco na música em
+  // que o músico estava — sem isso, "sair" sempre voltava pro topo da
+  // lista, obrigando a rolar até achar a música de novo (ver
+  // SetlistDetail.jsx, que lê state.focusSlug pra rolar/destacar a linha).
+  const goToSetlist = (focusSlug) => navigate(`/setlists/${playlist.setlistId}`, { state: { focusSlug } })
+
   // navegação entre músicas de uma playlist ativa — distinta da navegação
   // por linha (← →) já existente
   const goNextSong = () => {
     const nextSlug = playlist.advance()
     if (nextSlug) navigate(`/karaoke/${nextSlug}`, { replace: true })
-    else navigate(`/setlists/${playlist.setlistId}`)
+    else goToSetlist(slug)
   }
   const goPrevSong = () => {
     const prevSlug = playlist.back()
@@ -374,8 +380,12 @@ export default function KaraokeStage() {
   }
   const stopPlaylist = () => {
     playlist.stop()
-    navigate(`/setlists/${playlist.setlistId}`)
+    goToSetlist(slug)
   }
+
+  // veio de uma setlist: sair volta pra ela com foco nesta música (ver
+  // goToSetlist acima); senão, comportamento de sempre (voltar uma página).
+  const exitPlayer = () => { if (inPlaylist) goToSetlist(slug); else navigate(-1) }
 
   // ações que o pedal (foot switch) pode disparar nesta página — id do
   // catálogo (config/pedalActions.js) -> handler local; um id sem entrada
@@ -385,7 +395,7 @@ export default function KaraokeStage() {
     next_line: goNext,
     prev_line: goPrev,
     restart,
-    exit: () => navigate(-1),
+    exit: exitPlayer,
     toggle_fullscreen: toggleFullscreen,
     zoom_in: zoomIn,
     zoom_out: zoomOut,
@@ -434,14 +444,18 @@ export default function KaraokeStage() {
     ArrowDown: () => adjustRate(-0.1),
     r: restart,
     R: restart,
-    Escape: () => navigate(-1),
+    Escape: exitPlayer,
     f: toggleFullscreen,
     F: toggleFullscreen,
     '+': zoomIn,
     '=': zoomIn,
     '-': zoomOut,
     '_': zoomOut,
-  }, [player, canPlay, resolvedSteps, rate, countdown])
+    // inPlaylist entra nas deps pelo mesmo motivo de slug/rate/etc: trocar
+    // de música dentro de uma playlist reusa o mesmo componente
+    // (replace:true), não remonta — sem isso exitPlayer usaria uma
+    // closure velha de slug/inPlaylist.
+  }, [player, canPlay, resolvedSteps, rate, countdown, inPlaylist])
 
   if (isLoading || !data) {
     return <div className="karaoke-stage controls-visible"
@@ -571,7 +585,9 @@ export default function KaraokeStage() {
           <button className="btn danger" onClick={stopPlaylist} title={t('controls.stopPlaylist')}>■</button>
         </>}
         <button className="btn" onClick={toggleFullscreen} title={t('controls.fullscreen')}>⛶</button>
-        <button className="btn ghost" onClick={() => navigate(-1)} title={t('controls.back')}>{t('controls.exit')}</button>
+        <button className="btn" onClick={() => navigate(`/musicas/${slug}`, { state: { fromKaraoke: true } })}
+          title={t('controls.editTitle')}>{t('controls.edit')}</button>
+        <button className="btn ghost" onClick={exitPlayer} title={t('controls.back')}>{t('controls.exit')}</button>
       </div>
 
       {countdown != null && (

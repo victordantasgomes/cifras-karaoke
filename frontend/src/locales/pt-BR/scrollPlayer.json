@@ -25,6 +25,8 @@
     "exit": "Sair",
     "playWithYoutube": "Tocar + YT",
     "playWithYoutubeTitle": "Toca a música e o vídeo do YouTube juntos",
-    "pauseWithYoutube": "Pausar + YT"
+    "pauseWithYoutube": "Pausar + YT",
+    "edit": "✎ Editar",
+    "editTitle": "Editar a cifra desta música"
   }
 }

@@ -219,10 +219,16 @@ export default function ScrollPlayer({ data }) {
     viewport.scrollTop = Math.max(0, Math.min(maxOffset, viewport.scrollTop + deltaFrac * viewport.clientHeight))
   }
 
+  // sai do player de volta pra tela da setlist, já com foco na música em
+  // que o músico estava — sem isso, "sair" sempre voltava pro topo da
+  // lista, obrigando a rolar até achar a música de novo (ver
+  // SetlistDetail.jsx, que lê state.focusSlug pra rolar/destacar a linha).
+  const goToSetlist = (focusSlug) => navigate(`/setlists/${playlist.setlistId}`, { state: { focusSlug } })
+
   const goNextSong = () => {
     const nextSlug = playlist.advance()
     if (nextSlug) navigate(`/karaoke/${nextSlug}`, { replace: true })
-    else navigate(`/setlists/${playlist.setlistId}`)
+    else goToSetlist(slug)
   }
   const goPrevSong = () => {
     const prevSlug = playlist.back()
@@ -230,7 +236,7 @@ export default function ScrollPlayer({ data }) {
   }
   const stopPlaylist = () => {
     playlist.stop()
-    navigate(`/setlists/${playlist.setlistId}`)
+    goToSetlist(slug)
   }
   // NÃO avança sozinho pra próxima música da playlist ao terminar — item 6
   // do pedido: só o botão manual "Próxima música" (⏭, goNextSong) avança.
@@ -330,6 +336,10 @@ export default function ScrollPlayer({ data }) {
   const adjustRate = (delta) => setRate((r) => Math.min(MAX_RATE, Math.max(MIN_RATE, +(r + delta).toFixed(2))))
   const seekToFraction = (frac) => seekToMs(Math.max(0, Math.min(1, frac)) * totalMs)
 
+  // veio de uma setlist: sair volta pra ela com foco nesta música (ver
+  // goToSetlist acima); senão, comportamento de sempre (voltar uma página).
+  const exitPlayer = () => { if (inPlaylist) goToSetlist(slug); else navigate(-1) }
+
   // ações que o pedal (foot switch) pode disparar nesta página — id do
   // catálogo (config/pedalActions.js) -> handler local; um id sem entrada
   // aqui (ex.: "próxima linha", que só existe em KaraokeStage) vira no-op
@@ -339,7 +349,7 @@ export default function ScrollPlayer({ data }) {
     scroll_nudge_up: () => nudgeScroll(-0.2),
     scroll_nudge_down: () => nudgeScroll(0.2),
     restart,
-    exit: () => navigate(-1),
+    exit: exitPlayer,
     toggle_fullscreen: toggleFullscreen,
     zoom_in: zoomIn,
     zoom_out: zoomOut,
@@ -357,7 +367,7 @@ export default function ScrollPlayer({ data }) {
     ArrowDown: () => nudgeScroll(0.2),
     r: restart,
     R: restart,
-    Escape: () => navigate(-1),
+    Escape: exitPlayer,
     f: toggleFullscreen,
     F: toggleFullscreen,
     '+': zoomIn,
@@ -367,8 +377,11 @@ export default function ScrollPlayer({ data }) {
     // totalMs entra nas deps porque, com áudio, ele começa em 0 e só vira o
     // valor real quando os metadados carregam (onLoadedMetadata) — sem
     // isso, restart() (via seekToMs) ficaria preso usando um totalMs de 0
-    // (closure velha) até a próxima mudança de canPlay.
-  }, [canPlay, totalMs])
+    // (closure velha) até a próxima mudança de canPlay. inPlaylist entra
+    // pelo mesmo motivo pro exitPlayer (closure de slug/inPlaylist) —
+    // trocar de música dentro de uma playlist reusa o mesmo componente
+    // (replace:true), não remonta.
+  }, [canPlay, totalMs, inPlaylist])
 
   return (
     <div ref={stageRef}
@@ -447,7 +460,9 @@ export default function ScrollPlayer({ data }) {
           <button className="btn danger" onClick={stopPlaylist} title={t('controls.stopPlaylist')}>■</button>
         </>}
         <button className="btn" onClick={toggleFullscreen} title={t('controls.fullscreen')}>⛶</button>
-        <button className="btn ghost" onClick={() => navigate(-1)} title={t('controls.back')}>{t('controls.exit')}</button>
+        <button className="btn" onClick={() => navigate(`/musicas/${slug}`, { state: { fromKaraoke: true } })}
+          title={t('controls.editTitle')}>{t('controls.edit')}</button>
+        <button className="btn ghost" onClick={exitPlayer} title={t('controls.back')}>{t('controls.exit')}</button>
       </div>
     </div>
   )

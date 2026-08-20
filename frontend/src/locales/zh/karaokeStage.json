@@ -31,7 +31,9 @@
     "exit": "退出",
     "playWithYoutube": "播放 + YT",
     "playWithYoutubeTitle": "同时播放歌曲和 YouTube 视频",
-    "pauseWithYoutube": "暂停 + YT"
+    "pauseWithYoutube": "暂停 + YT",
+    "edit": "✎ 编辑",
+    "editTitle": "编辑这首歌的和弦谱"
   },
   "countdown": {
     "hint": "准备…（点击或按空格跳过）"

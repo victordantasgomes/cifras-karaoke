@@ -77,6 +77,7 @@ export default function SongEditor() {
   const navigate = useNavigate()
   const location = useLocation()
   const fromSetlistId = location.state?.fromSetlistId
+  const fromKaraoke = Boolean(location.state?.fromKaraoke)
   const qc = useQueryClient()
   const user = useAuthStore((s) => s.user)
   const [header, setHeader] = useState(null)
@@ -194,7 +195,7 @@ export default function SongEditor() {
       if (sameHeader(sentHeader, header) && sentBody === body) setDirty(false)
       qc.invalidateQueries(['songs'])
       const newSlug = d.slug
-      if (newSlug !== slug) navigate(`/musicas/${newSlug}`, { replace: true, state: { fromSetlistId } })
+      if (newSlug !== slug) navigate(`/musicas/${newSlug}`, { replace: true, state: { fromSetlistId, fromKaraoke } })
       else qc.invalidateQueries(['song', slug])
     },
   })
@@ -246,7 +247,7 @@ export default function SongEditor() {
         // "desfazer imediato" que acabamos de empilhar.
         loadedSlug.current = newSlug
         qc.setQueryData(['song', newSlug], r.data)
-        navigate(`/musicas/${newSlug}`, { replace: true, state: { fromSetlistId } })
+        navigate(`/musicas/${newSlug}`, { replace: true, state: { fromSetlistId, fromKaraoke } })
       } else {
         qc.invalidateQueries(['song', slug])
       }
@@ -338,7 +339,7 @@ export default function SongEditor() {
     mutationFn: () => api.post(`/songs/${slug}/clone`),
     onSuccess: (r) => {
       qc.invalidateQueries(['songs'])
-      navigate(`/musicas/${r.data.slug}`, { replace: true, state: { fromSetlistId } })
+      navigate(`/musicas/${r.data.slug}`, { replace: true, state: { fromSetlistId, fromKaraoke } })
     },
   })
 
@@ -474,7 +475,9 @@ export default function SongEditor() {
               {t('actions.backToSetlist')}
             </button>
           )}
-          <button className="btn primary" onClick={() => navigate(`/karaoke/${slug}`)}>{t('actions.karaoke')}</button>
+          <button className="btn primary" onClick={() => navigate(`/karaoke/${slug}`)}>
+            {fromKaraoke ? t('actions.backToKaraoke') : t('actions.karaoke')}
+          </button>
           <button className="btn" onClick={() => toggleFav.mutate()}>
             {data.favorita ? t('actions.favorited') : t('actions.favorite')}
           </button>
@@ -623,6 +626,17 @@ export default function SongEditor() {
           <div className="card" style={{ flex: 1, display: 'flex', flexDirection: 'column', minWidth: 0 }}>
             <h3 style={{ marginBottom: 12 }}>{t('edit.chordSheet')}</h3>
             <div className="row" style={{ marginBottom: 8, gap: 8 }}>
+              <button className="btn primary" disabled={!dirty || save.isPending} onClick={() => save.mutate()}
+                title={t('edit.saveTitle')}>
+                {save.isPending ? t('edit.saving') : t('edit.save')}
+              </button>
+              <button type="button" className="btn" disabled={!canUndo} onClick={undo}
+                title={t('edit.undoTitle')}>{t('edit.undo')}</button>
+              <button type="button" className="btn" disabled={!canRedo} onClick={redo}
+                title={t('edit.redoTitle')}>{t('edit.redo')}</button>
+              <button type="button" className="btn danger" disabled={!dirty} onClick={discard}
+                title={t('edit.discardTitle')}>{t('edit.discard')}</button>
+              <span style={{ width: 1, alignSelf: 'stretch', background: 'var(--stroke)' }} />
               <select className="input" style={{ width: 160 }} value={sectionLabel}
                 onChange={(e) => setSectionLabel(e.target.value)}>
                 {SECTION_LABELS.map((l) => <option key={l}>{l}</option>)}

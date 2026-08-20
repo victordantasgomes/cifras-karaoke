@@ -25,6 +25,8 @@
     "exit": "Verlassen",
     "playWithYoutube": "Abspielen + YT",
     "playWithYoutubeTitle": "Spielt den Song und das YouTube-Video gemeinsam ab",
-    "pauseWithYoutube": "Pause + YT"
+    "pauseWithYoutube": "Pause + YT",
+    "edit": "✎ Bearbeiten",
+    "editTitle": "Akkordblatt dieses Songs bearbeiten"
   }
 }
