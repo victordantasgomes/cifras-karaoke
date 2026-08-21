@@ -9,6 +9,7 @@ from services.auth_service import AuthError
 from services.billing_service import BillingError
 from services.band_board_service import FILE_KINDS as BAND_MEDIA_FILE_KINDS
 from services.band_board_service import LINK_KINDS as BAND_MEDIA_LINK_KINDS
+from services.blob_client import BlobError
 from services.branding_service import VARIANTS as LOGO_VARIANTS
 from services.feedback_service import NoActiveSession
 from services.plans_service import DuplicatePlanName, PlanNotFound, StripeSyncError
@@ -721,6 +722,54 @@ def build_blueprint(ctx) -> Blueprint:
         except NotOwner:
             return jsonify({"error": "Só quem criou esta música (ou um admin) pode enviar áudio.",
                              "error_code": "SONG_NOT_OWNER"}), 403
+        return jsonify({"ok": True}), 201
+
+    @api.post("/songs/<slug>/audio/upload-url")
+    @protected
+    @not_blocked
+    def start_audio_upload(slug):
+        """1º passo do upload direto pro Vercel Blob — usado pela faixa de
+        referência completa, que passa fácil do teto de payload da função
+        serverless que hospeda este backend (ver AudioService.start_track_upload)."""
+        data = request.get_json(silent=True) or {}
+        try:
+            result = ctx.audio.start_track_upload(g.user_id, slug, data.get("filename") or "", data.get("contentType"))
+        except SongNotFound:
+            return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
+        except NotOwner:
+            return jsonify({"error": "Só quem criou esta música (ou um admin) pode enviar áudio.",
+                             "error_code": "SONG_NOT_OWNER"}), 403
+        except BlobError:
+            return jsonify({"error": "Não foi possível preparar o envio do áudio. Tente novamente.",
+                             "error_code": "AUDIO_UPLOAD_TOKEN_FAILED"}), 502
+        return jsonify(result), 201
+
+    @api.post("/songs/<slug>/audio/confirm")
+    @protected
+    @not_blocked
+    def confirm_audio_upload(slug):
+        """2º passo do upload direto — chamado pelo navegador depois que o
+        PUT direto pro Vercel Blob termina, pra gravar o metadado."""
+        data = request.get_json(silent=True) or {}
+        pathname, blob_url = data.get("pathname") or "", data.get("url") or ""
+        if not pathname or not blob_url:
+            return jsonify({"error": "Dados de confirmação incompletos.", "error_code": "AUDIO_CONFIRM_INVALID"}), 400
+        try:
+            size = int(data.get("size") or 0)
+        except (TypeError, ValueError):
+            size = 0
+        try:
+            ctx.audio.confirm_track_upload(g.user_id, slug, pathname, blob_url, data.get("contentType"), size)
+        except SongNotFound:
+            return jsonify({"error": "Música não encontrada.", "error_code": "SONG_NOT_FOUND"}), 404
+        except NotOwner:
+            return jsonify({"error": "Só quem criou esta música (ou um admin) pode enviar áudio.",
+                             "error_code": "SONG_NOT_OWNER"}), 403
+        except ValueError:
+            return jsonify({"error": "Confirmação de envio inválida.", "error_code": "AUDIO_CONFIRM_INVALID"}), 400
+        except BlobError:
+            return jsonify({"error": "Não foi possível confirmar o envio do áudio. Tente novamente.",
+                             "error_code": "AUDIO_CONFIRM_FAILED"}), 502
         return jsonify({"ok": True}), 201
 
     @api.get("/songs/<slug>/audio")

@@ -767,10 +767,39 @@ function useBandPreview(body, header) {
   return { playing, toggle: playing ? stop : play }
 }
 
+// Sobe `file` direto pro Vercel Blob via PUT pré-assinado (ver
+// AudioService.start_track_upload no backend) — sem passar pelos bytes pelo
+// Flask, que roda como função serverless com um teto de payload (~4,5MB)
+// bem menor que uma faixa de áudio completa. Usa XMLHttpRequest em vez de
+// fetch/axios só porque é a única API do browser com evento de progresso
+// de upload; a URL é absoluta (vercel.com), então não passa pela baseURL
+// nem pelos interceptors do `api` axios.
+function putFileDirect(url, file, headers, onProgress) {
+  return new Promise((resolve, reject) => {
+    const xhr = new XMLHttpRequest()
+    xhr.open('PUT', url)
+    Object.entries(headers).forEach(([k, v]) => xhr.setRequestHeader(k, v))
+    xhr.upload.onprogress = (e) => {
+      if (e.lengthComputable) onProgress(Math.round((e.loaded / e.total) * 100))
+    }
+    xhr.onload = () => {
+      if (xhr.status >= 200 && xhr.status < 300) {
+        try { resolve(JSON.parse(xhr.responseText)) }
+        catch { reject(new Error('Resposta inválida do envio de áudio.')) }
+      } else {
+        reject(new Error(`Falha ao enviar o áudio (status ${xhr.status}).`))
+      }
+    }
+    xhr.onerror = () => reject(new Error('Falha de rede ao enviar o áudio.'))
+    xhr.send(file)
+  })
+}
+
 function AudioTab({ slug, body, markLineTime, header, updateHeaderField, isOwner }) {
   const { t } = useTranslation('songEditor')
   const qc = useQueryClient()
   const [trackFile, setTrackFile] = useState(null)
+  const [uploadProgress, setUploadProgress] = useState(0)
   const [sampleFile, setSampleFile] = useState(null)
   const [sampleNome, setSampleNome] = useState('')
   const [trackUrl, setTrackUrl] = useState(null)
@@ -795,12 +824,24 @@ function AudioTab({ slug, body, markLineTime, header, updateHeaderField, isOwner
   }, [trackBlob])
 
   const uploadTrack = useMutation({
-    mutationFn: () => {
-      const fd = new FormData()
-      fd.append('file', trackFile)
-      return api.post(`/songs/${slug}/audio`, fd)
+    mutationFn: async () => {
+      setUploadProgress(0)
+      const { data: start } = await api.post(`/songs/${slug}/audio/upload-url`, {
+        filename: trackFile.name,
+        contentType: trackFile.type,
+      })
+      const put = await putFileDirect(start.uploadUrl, trackFile, {
+        'content-type': start.contentType,
+      }, setUploadProgress)
+      await api.post(`/songs/${slug}/audio/confirm`, {
+        pathname: start.pathname,
+        url: put.url,
+        contentType: put.contentType,
+        size: put.size,
+      })
     },
     onSuccess: () => { setTrackFile(null); qc.invalidateQueries(['song-audio-blob', slug]) },
+    onSettled: () => setUploadProgress(0),
   })
 
   const deleteTrack = useMutation({
@@ -859,8 +900,13 @@ function AudioTab({ slug, body, markLineTime, header, updateHeaderField, isOwner
               <input className="input" type="file" accept="audio/*" onChange={(e) => setTrackFile(e.target.files[0])} />
             </div>
             <button className="btn primary" disabled={!trackFile || uploadTrack.isPending} onClick={() => uploadTrack.mutate()}>
-              {uploadTrack.isPending ? t('audio.uploading') : t('audio.uploadTrack')}
+              {uploadTrack.isPending ? `${t('audio.uploading')} ${uploadProgress}%` : t('audio.uploadTrack')}
             </button>
+            {uploadTrack.isError && (
+              <div className="error-text" style={{ marginTop: 8 }}>
+                {uploadTrack.error?.response?.data?.error || uploadTrack.error?.message || t('audio.uploadTrackError')}
+              </div>
+            )}
           </>
         )}
       </div>

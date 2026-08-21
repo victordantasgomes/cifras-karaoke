@@ -99,6 +99,7 @@
     "uploadTrackLabel": "Envoyer / remplacer la piste (mp3, wav…)",
     "uploading": "Envoi…",
     "uploadTrack": "Envoyer la piste",
+    "uploadTrackError": "Impossible d'envoyer la piste. Réessayez.",
     "synthTitle": "Accompagnement synthétisé",
     "synthDescription": "Synthétise batterie/guitare/basse/clavier à partir des accords de la partition — ne prend la place d'un véritable enregistrement que sur la scène de karaoké ; si une piste de référence a été envoyée ci-dessus, elle est toujours prioritaire.",
     "bpmHint": "(tempo)",

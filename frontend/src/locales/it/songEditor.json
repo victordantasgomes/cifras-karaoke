@@ -99,6 +99,7 @@
     "uploadTrackLabel": "Carica / sostituisci traccia (mp3, wav…)",
     "uploading": "Caricamento…",
     "uploadTrack": "Carica traccia",
+    "uploadTrackError": "Impossibile caricare la traccia. Riprova.",
     "synthTitle": "Accompagnamento sintetizzato",
     "synthDescription": "Sintetizza batteria/chitarra/basso/tastiera a partire dagli accordi del foglio accordi — occupa il palco del karaoke solo al posto di una registrazione vera e propria; se è stata caricata una traccia di riferimento qui sopra, questa ha sempre la priorità.",
     "bpmHint": "(andamento)",

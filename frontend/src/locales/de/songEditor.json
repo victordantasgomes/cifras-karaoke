@@ -99,6 +99,7 @@
     "uploadTrackLabel": "Track hochladen / ersetzen (mp3, wav…)",
     "uploading": "Wird hochgeladen…",
     "uploadTrack": "Track hochladen",
+    "uploadTrackError": "Der Track konnte nicht hochgeladen werden. Bitte erneut versuchen.",
     "synthTitle": "Synthetisierte Begleitspur",
     "synthDescription": "Synthetisiert Schlagzeug/Gitarre/Bass/Keyboard aus den Akkorden des Akkordblatts — übernimmt die Karaoke-Bühne nur anstelle einer echten Aufnahme; ist oben ein Referenz-Track hochgeladen, hat dieser immer Vorrang.",
     "bpmHint": "(Tempo)",

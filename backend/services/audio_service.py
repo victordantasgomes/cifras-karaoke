@@ -9,12 +9,20 @@ no backend (que já tem o token) pra servir pro cliente via rota — igual o
 `send_file` fazia sobre o disco local antes da migração."""
 from __future__ import annotations
 
+import time
 from pathlib import Path
 
 import db
 from services import blob_client
 from services.songs_service import NotOwner, SongNotFound
 from utils.slug import slugify
+
+# teto de tamanho pra faixa de referência via upload direto (ver
+# start_track_upload) — generoso o bastante pra um áudio sem compressão
+# (WAV) de alguns minutos, sem deixar o token assinado aberto pra qualquer
+# tamanho.
+MAX_TRACK_UPLOAD_BYTES = 200 * 1024 * 1024
+_UPLOAD_TOKEN_TTL_MS = 15 * 60 * 1000
 
 
 class AudioService:
@@ -50,6 +58,54 @@ class AudioService:
                        set blob_url = excluded.blob_url, content_type = excluded.content_type,
                            size_bytes = excluded.size_bytes, uploaded_at = now()""",
                 (song_id, blob["url"], content_type or "", len(data)),
+            )
+
+    def start_track_upload(self, user_id: str, slug: str, filename: str, content_type: str | None) -> dict:
+        """1º passo do upload direto: emite uma delegação assinada escopada
+        a um único pathname, só pra faixa de referência dessa música — o
+        navegador sobe os bytes direto pro Vercel Blob com ela (ver
+        blob_client.presign_put_url), sem passar pelos bytes por aqui. Uma
+        faixa completa passa fácil do teto de payload da função serverless
+        (~4,5 MB) que hospeda este backend — daí não dar pra usar save_track
+        (upload via Flask) pra arquivos grandes."""
+        self._require_owned_song_id(user_id, slug)
+        ext = Path(filename or "").suffix.lower() or ".mp3"
+        pathname = f"audio/{user_id}/{slug}/track{ext}"
+        valid_until_ms = int(time.time() * 1000) + _UPLOAD_TOKEN_TTL_MS
+        token = blob_client.issue_signed_token(
+            pathname,
+            valid_until_ms=valid_until_ms,
+            maximum_size_in_bytes=MAX_TRACK_UPLOAD_BYTES,
+            allowed_content_types=["audio/*"],
+        )
+        upload_url = blob_client.presign_put_url(pathname, token["delegationToken"], token["clientSigningToken"])
+        return {
+            "uploadUrl": upload_url,
+            "pathname": pathname,
+            "contentType": content_type or "application/octet-stream",
+        }
+
+    def confirm_track_upload(self, user_id: str, slug: str, pathname: str, blob_url: str, content_type: str | None, size: int) -> None:
+        """2º passo: depois que o navegador confirma que o PUT direto deu
+        certo, valida que o pathname devolvido é mesmo o desta música (a
+        delegação já restringe o PUT a ele, isto é só uma segunda checagem
+        barata) e grava o metadado. `size` vem do próprio corpo de resposta
+        do PUT (a Vercel devolve `{..., size}` — o mesmo dado que um HEAD
+        devolveria, só que sem o round-trip extra); testado ao vivo que um
+        HEAD logo em seguida do PUT pode dar 404 por propagação — não vale
+        reconferir o tamanho aqui, e não é dado sensível (só estatística,
+        nunca usado pra decidir o que é servido de volta)."""
+        song_id = self._require_owned_song_id(user_id, slug)
+        expected_prefix = f"audio/{user_id}/{slug}/track"
+        if not pathname.startswith(expected_prefix):
+            raise ValueError("pathname não corresponde à faixa desta música.")
+        with db.get_pool().connection() as conn:
+            conn.execute(
+                """insert into audio_tracks (song_id, blob_url, content_type, size_bytes) values (%s, %s, %s, %s)
+                   on conflict (song_id) do update
+                       set blob_url = excluded.blob_url, content_type = excluded.content_type,
+                           size_bytes = excluded.size_bytes, uploaded_at = now()""",
+                (song_id, blob_url, content_type or "", size),
             )
 
     def delete_track(self, user_id: str, slug: str) -> None:

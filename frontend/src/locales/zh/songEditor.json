@@ -99,6 +99,7 @@
     "uploadTrackLabel": "上传／替换音轨（mp3、wav…）",
     "uploading": "正在上传…",
     "uploadTrack": "上传音轨",
+    "uploadTrackError": "无法上传音轨，请重试。",
     "synthTitle": "合成伴奏",
     "synthDescription": "根据歌词谱中的和弦合成鼓／吉他／贝斯／键盘伴奏——只有在没有真实录音时才会接管卡拉OK舞台；如果上方已上传参考音轨，则始终优先使用参考音轨。",
     "bpmHint": "（速度）",

@@ -164,6 +164,58 @@ def test_storage_recompute_batch_fills_in_size_from_blob(ctx):
     assert store  # blob_url continua intacto — o recálculo não mexeu no conteúdo
 
 
+def test_start_track_upload_returns_scoped_presigned_url(ctx):
+    import urllib.parse
+    audio, slug, _ = ctx
+    result = audio.start_track_upload("u1", slug, "faixa completa.mp3", "audio/mpeg")
+    pathname = f"audio/u1/{slug}/track.mp3"
+    assert result["pathname"] == pathname
+    assert result["contentType"] == "audio/mpeg"
+    assert result["uploadUrl"].startswith("https://vercel.com/api/blob/?")
+    assert f"pathname={urllib.parse.quote_plus(pathname)}" in result["uploadUrl"]
+    assert "vercel-blob-add-random-suffix=false" in result["uploadUrl"]
+    assert "vercel-blob-allow-overwrite=true" in result["uploadUrl"]
+    assert "vercel-blob-signature=" in result["uploadUrl"]
+
+
+def test_start_track_upload_unknown_slug_raises(ctx):
+    audio, _, _ = ctx
+    with pytest.raises(SongNotFound):
+        audio.start_track_upload("u1", "musica-que-nao-existe", "faixa.mp3", "audio/mpeg")
+
+
+def test_start_track_upload_defaults_extension_when_filename_has_none(ctx):
+    audio, slug, _ = ctx
+    result = audio.start_track_upload("u1", slug, "faixa-sem-extensao", "audio/mpeg")
+    assert result["pathname"] == f"audio/u1/{slug}/track.mp3"
+
+
+def test_confirm_track_upload_persists_metadata(ctx):
+    audio, slug, _ = ctx
+    pathname = f"audio/u1/{slug}/track.mp3"
+    audio.confirm_track_upload("u1", slug, pathname, "https://fake-blob.test/" + pathname, "audio/mpeg", 12345)
+    assert audio.has_track("u1", slug)
+    with db.get_pool().connection() as conn:
+        row = conn.execute(
+            "select content_type, size_bytes from audio_tracks where song_id=%s", (_song_id(slug),),
+        ).fetchone()
+    assert row["content_type"] == "audio/mpeg"
+    assert row["size_bytes"] == 12345
+
+
+def test_confirm_track_upload_rejects_pathname_outside_scope(ctx):
+    audio, slug, _ = ctx
+    with pytest.raises(ValueError):
+        audio.confirm_track_upload("u1", slug, "audio/outro-usuario/track.mp3", "https://fake-blob.test/x", "audio/mpeg", 10)
+
+
+def test_confirm_track_upload_unknown_slug_raises(ctx):
+    audio, _, _ = ctx
+    pathname = "audio/u1/musica-que-nao-existe/track.mp3"
+    with pytest.raises(SongNotFound):
+        audio.confirm_track_upload("u1", "musica-que-nao-existe", pathname, "https://fake-blob.test/" + pathname, "audio/mpeg", 10)
+
+
 def test_storage_recompute_batch_respects_limit_and_is_resumable(ctx):
     audio, slug, _ = ctx
     audio.save_track("u1", slug, _FakeFile("faixa.mp3", b"0123456789"))

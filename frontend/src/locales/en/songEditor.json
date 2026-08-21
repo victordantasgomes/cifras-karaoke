@@ -99,6 +99,7 @@
     "uploadTrackLabel": "Upload / replace track (mp3, wav…)",
     "uploading": "Uploading…",
     "uploadTrack": "Upload track",
+    "uploadTrackError": "Could not upload the track. Please try again.",
     "synthTitle": "Synthesized backing track",
     "synthDescription": "Synthesizes drums/guitar/bass/keyboard from the chord sheet's chords — only takes over the karaoke stage in place of an actual recording; if a reference track is uploaded above, it always takes priority.",
     "bpmHint": "(tempo)",

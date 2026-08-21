@@ -99,6 +99,7 @@
     "uploadTrackLabel": "Enviar / substituir faixa (mp3, wav…)",
     "uploading": "A enviar…",
     "uploadTrack": "Enviar faixa",
+    "uploadTrackError": "Não foi possível enviar a faixa. Tente novamente.",
     "synthTitle": "Acompanhamento sintetizado",
     "synthDescription": "Sintetiza bateria/guitarra/baixo/teclado a partir dos acordes da cifra — só assume o palco de karaoke no lugar de uma gravação de verdade; se houver uma faixa de referência enviada acima, ela sempre tem prioridade.",
     "bpmHint": "(andamento)",

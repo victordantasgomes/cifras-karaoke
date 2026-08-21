@@ -4,6 +4,10 @@ import { useAuthStore } from '../store/authStore'
 
 const api = axios.create({
   baseURL: (import.meta.env.VITE_API_URL || '') + '/api',
+  // sem isso o axios nunca desiste (timeout padrão é 0) — uma requisição
+  // que trava na rede prende telas de "enviando..."/"carregando..." pra
+  // sempre, sem erro nenhum aparecer pro usuário.
+  timeout: 30_000,
 })
 
 api.interceptors.request.use((config) => {

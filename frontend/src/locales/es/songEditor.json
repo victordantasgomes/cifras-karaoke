@@ -99,6 +99,7 @@
     "uploadTrackLabel": "Subir / reemplazar pista (mp3, wav…)",
     "uploading": "Subiendo…",
     "uploadTrack": "Subir pista",
+    "uploadTrackError": "No se pudo subir la pista. Inténtalo de nuevo.",
     "synthTitle": "Acompañamiento sintetizado",
     "synthDescription": "Sintetiza batería/guitarra/bajo/teclado a partir de los acordes del cifrado — solo ocupa el lugar de una grabación real en el escenario de karaoke; si hay una pista de referencia subida arriba, esta siempre tiene prioridad.",
     "bpmHint": "(tempo)",

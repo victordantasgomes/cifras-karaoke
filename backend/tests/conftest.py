@@ -118,10 +118,17 @@ def fake_blob_store(monkeypatch):
             raise blob_client.BlobError("not found")
         return len(store[pathname])
 
+    def fake_issue_signed_token(pathname, *, valid_until_ms, maximum_size_in_bytes=None, allowed_content_types=None):
+        # delegationToken/clientSigningToken não precisam parecer reais aqui —
+        # presign_put_url (testado à parte, é HMAC puro) só embute o primeiro
+        # na URL e usa o segundo como chave, nunca decodifica nenhum dos dois.
+        return {"delegationToken": f"fake-delegation:{pathname}", "clientSigningToken": "fake-signing-key", "validUntil": valid_until_ms}
+
     monkeypatch.setattr(blob_client, "put", fake_put)
     monkeypatch.setattr(blob_client, "get", fake_get)
     monkeypatch.setattr(blob_client, "delete", fake_delete)
     monkeypatch.setattr(blob_client, "size_of", fake_size_of)
+    monkeypatch.setattr(blob_client, "issue_signed_token", fake_issue_signed_token)
     return store
 
 
