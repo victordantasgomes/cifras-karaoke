@@ -64,6 +64,52 @@ export default function PlaylistOrderModal({ setlistId, items, onApply, onClose 
   const [formatId, setFormatId] = useState(null)
   const [previewGroups, setPreviewGroups] = useState(() => groupByMedley(items))
 
+  // "Ritmo (ordem personalizada)": passo intermediário — em vez de A→Z,
+  // o usuário define a ORDEM DOS RITMOS (poucos itens, ex.: 6-8), e o app
+  // agrupa todas as músicas de cada ritmo juntas nessa sequência. Ordem
+  // inicial = ordem de primeira aparição no setlist (não alfabética),
+  // ponto de partida mais previsível do que reordenar do zero.
+  const [ritmoPickerOpen, setRitmoPickerOpen] = useState(false)
+  const [ritmoOrder, setRitmoOrder] = useState([])
+  const distinctRitmos = useMemo(() => {
+    const seen = new Set()
+    const order = []
+    items.forEach((it) => {
+      const r = it.song?.ritmo
+      if (r && !seen.has(r.toLowerCase())) { seen.add(r.toLowerCase()); order.push(r) }
+    })
+    return order
+  }, [items])
+  const openRitmoPicker = () => {
+    setRitmoOrder(distinctRitmos)
+    setRitmoPickerOpen(true)
+  }
+  const moveRitmo = (from, to) => {
+    if (to < 0 || to >= ritmoOrder.length) return
+    const next = [...ritmoOrder]
+    const [moved] = next.splice(from, 1)
+    next.splice(to, 0, moved)
+    setRitmoOrder(next)
+  }
+  const applyRitmoOrder = () => {
+    setFormatId('ritmo_custom')
+    const groups = groupByMedley(items)
+    // comparação por minúsculas — mesmo cuidado do formato "Ritmo (A→Z)":
+    // dados reais têm inconsistência de maiúsculas (ex.: "Pop Rock" vs
+    // "pop rock") que fragmentaria o agrupamento por acidente de digitação.
+    const rank = new Map(ritmoOrder.map((r, i) => [r.toLowerCase(), i]))
+    const rankOf = (group) => rank.get((group.members[0].song?.ritmo || '').toLowerCase())
+    setPreviewGroups([...groups].sort((ga, gb) => {
+      const ra = rankOf(ga)
+      const rb = rankOf(gb)
+      if (ra === undefined && rb === undefined) return 0
+      if (ra === undefined) return 1
+      if (rb === undefined) return -1
+      return ra - rb
+    }))
+    setRitmoPickerOpen(false)
+  }
+
   // usado só pelo formato "nota do público" — busca leve, sem custo real
   // se o formato nunca for escolhido (relatório pode vir vazio à toa numa
   // setlist que nunca ativou feedback, sem problema).
@@ -109,6 +155,33 @@ export default function PlaylistOrderModal({ setlistId, items, onApply, onClose 
     setPreviewGroups(next)
   }
 
+  if (ritmoPickerOpen) {
+    return (
+      <Modal title={t('orderModalTitle')} onClose={onClose} maxWidth={480}>
+        <p className="page-sub" style={{ marginTop: 0 }}>{t('ritmoOrderHint')}</p>
+        <div style={{ maxHeight: '45vh', overflowY: 'auto', display: 'flex', flexDirection: 'column', gap: 4 }}>
+          {ritmoOrder.map((ritmo, i) => (
+            <div key={ritmo} className="row"
+              style={{ gap: 10, padding: '6px 10px', borderRadius: 8, background: 'var(--glass)', flexWrap: 'nowrap' }}>
+              <span className="chip" style={{ minWidth: 22, textAlign: 'center', flexShrink: 0 }}>{i + 1}</span>
+              <div className="title" style={{ flex: 1 }}>{ritmo}</div>
+              <div style={{ display: 'flex', gap: 2 }}>
+                <button type="button" className="btn ghost" style={{ padding: '1px 6px', fontSize: 11 }}
+                  disabled={i === 0} onClick={() => moveRitmo(i, i - 1)}>▲</button>
+                <button type="button" className="btn ghost" style={{ padding: '1px 6px', fontSize: 11 }}
+                  disabled={i === ritmoOrder.length - 1} onClick={() => moveRitmo(i, i + 1)}>▼</button>
+              </div>
+            </div>
+          ))}
+        </div>
+        <div className="row" style={{ marginTop: 16, justifyContent: 'flex-end' }}>
+          <button className="btn ghost" onClick={() => setRitmoPickerOpen(false)}>{t('cancel')}</button>
+          <button className="btn primary" onClick={applyRitmoOrder}>{t('applyRitmoOrder')}</button>
+        </div>
+      </Modal>
+    )
+  }
+
   return (
     <Modal title={t('orderModalTitle')} onClose={onClose} maxWidth={640}>
       <div className="row" style={{ gap: 6, flexWrap: 'wrap', marginBottom: 16 }}>
@@ -118,6 +191,11 @@ export default function PlaylistOrderModal({ setlistId, items, onApply, onClose 
             {f.label}
           </button>
         ))}
+        <button type="button" className={`btn${formatId === 'ritmo_custom' ? ' primary' : ' ghost'}`}
+          disabled={distinctRitmos.length < 2} title={distinctRitmos.length < 2 ? t('orderRhythmCustomDisabledHint') : undefined}
+          onClick={openRitmoPicker}>
+          {t('orderRhythmCustom')}
+        </button>
       </div>
 
       <div style={{ maxHeight: '45vh', overflowY: 'auto', display: 'flex', flexDirection: 'column', gap: 4 }}>
