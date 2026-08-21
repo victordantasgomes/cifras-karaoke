@@ -14,6 +14,14 @@ function shuffle(arr) {
   return next
 }
 
+function reorder(list, from, to) {
+  if (to < 0 || to >= list.length) return list
+  const next = [...list]
+  const [moved] = next.splice(from, 1)
+  next.splice(to, 0, moved)
+  return next
+}
+
 // comparador genérico: valores ausentes (null/undefined/'') sempre vão pro
 // fim, nas duas direções — sort estável (Array.prototype.sort é estável)
 // preserva a ordem original entre empates/ausências, em vez de embaralhar.
@@ -61,8 +69,14 @@ function groupLabel(members) {
 
 export default function PlaylistOrderModal({ setlistId, items, onApply, onClose }) {
   const { t } = useTranslation('setlistDetail')
+  // instantâneo dos itens no momento em que o modal abre — sem isso, um
+  // refetch em segundo plano (foco de janela voltando, edição concorrente
+  // em outra aba) troca a prop `items` debaixo do usuário enquanto ele
+  // ajusta a prévia, e "Aplicar" acabaria salvando uma lista dessincronizada
+  // do que ele realmente viu/organizou no modal.
+  const [snapshotItems] = useState(items)
   const [formatId, setFormatId] = useState(null)
-  const [previewGroups, setPreviewGroups] = useState(() => groupByMedley(items))
+  const [previewGroups, setPreviewGroups] = useState(() => groupByMedley(snapshotItems))
 
   // "Ritmo (ordem personalizada)": passo intermediário — em vez de A→Z,
   // o usuário define a ORDEM DOS RITMOS (poucos itens, ex.: 6-8), e o app
@@ -71,42 +85,27 @@ export default function PlaylistOrderModal({ setlistId, items, onApply, onClose 
   // ponto de partida mais previsível do que reordenar do zero.
   const [ritmoPickerOpen, setRitmoPickerOpen] = useState(false)
   const [ritmoOrder, setRitmoOrder] = useState([])
+  const normalizeRitmo = (ritmo) => (ritmo || '').trim().toLowerCase()
   const distinctRitmos = useMemo(() => {
     const seen = new Set()
     const order = []
-    items.forEach((it) => {
-      const r = it.song?.ritmo
-      if (r && !seen.has(r.toLowerCase())) { seen.add(r.toLowerCase()); order.push(r) }
+    snapshotItems.forEach((it) => {
+      const r = it.song?.ritmo?.trim()
+      if (r && !seen.has(normalizeRitmo(r))) { seen.add(normalizeRitmo(r)); order.push(r) }
     })
     return order
-  }, [items])
+  }, [snapshotItems])
   const openRitmoPicker = () => {
     setRitmoOrder(distinctRitmos)
     setRitmoPickerOpen(true)
   }
-  const moveRitmo = (from, to) => {
-    if (to < 0 || to >= ritmoOrder.length) return
-    const next = [...ritmoOrder]
-    const [moved] = next.splice(from, 1)
-    next.splice(to, 0, moved)
-    setRitmoOrder(next)
-  }
+  const moveRitmo = (from, to) => setRitmoOrder((prev) => reorder(prev, from, to))
   const applyRitmoOrder = () => {
     setFormatId('ritmo_custom')
-    const groups = groupByMedley(items)
-    // comparação por minúsculas — mesmo cuidado do formato "Ritmo (A→Z)":
-    // dados reais têm inconsistência de maiúsculas (ex.: "Pop Rock" vs
-    // "pop rock") que fragmentaria o agrupamento por acidente de digitação.
-    const rank = new Map(ritmoOrder.map((r, i) => [r.toLowerCase(), i]))
-    const rankOf = (group) => rank.get((group.members[0].song?.ritmo || '').toLowerCase())
-    setPreviewGroups([...groups].sort((ga, gb) => {
-      const ra = rankOf(ga)
-      const rb = rankOf(gb)
-      if (ra === undefined && rb === undefined) return 0
-      if (ra === undefined) return 1
-      if (rb === undefined) return -1
-      return ra - rb
-    }))
+    const groups = groupByMedley(snapshotItems)
+    const rank = new Map(ritmoOrder.map((r, i) => [normalizeRitmo(r), i]))
+    const rankOf = (group) => rank.get(normalizeRitmo(group.members[0].song?.ritmo))
+    setPreviewGroups([...groups].sort(compareBy(rankOf)))
     setRitmoPickerOpen(false)
   }
 
@@ -127,7 +126,7 @@ export default function PlaylistOrderModal({ setlistId, items, onApply, onClose 
     { id: 'random', label: t('orderRandom') },
     { id: 'titulo_asc', label: t('orderTitleAsc'), cmp: compareBy((it) => it.song?.titulo?.toLowerCase()) },
     { id: 'interprete_asc', label: t('orderArtistAsc'), cmp: compareBy((it) => it.song?.interprete?.toLowerCase()) },
-    { id: 'ritmo_asc', label: t('orderRhythmAsc'), cmp: compareBy((it) => it.song?.ritmo?.toLowerCase()) },
+    { id: 'ritmo_asc', label: t('orderRhythmAsc'), cmp: compareBy((it) => normalizeRitmo(it.song?.ritmo)) },
     { id: 'tom_chromatic', label: t('orderKeyChromatic'), cmp: compareBy((it) => keyIndex(it.song?.tom)) },
     { id: 'bpm_asc', label: t('orderBpmAsc'), cmp: compareBy((it) => it.song?.bpm) },
     { id: 'bpm_desc', label: t('orderBpmDesc'), cmp: compareBy((it) => it.song?.bpm, -1) },
@@ -138,7 +137,7 @@ export default function PlaylistOrderModal({ setlistId, items, onApply, onClose 
 
   const applyFormat = (id) => {
     setFormatId(id)
-    const groups = groupByMedley(items)
+    const groups = groupByMedley(snapshotItems)
     if (id === 'random') {
       setPreviewGroups(shuffle(groups))
       return
@@ -147,13 +146,7 @@ export default function PlaylistOrderModal({ setlistId, items, onApply, onClose 
     setPreviewGroups([...groups].sort((ga, gb) => fmt.cmp(ga.members[0], gb.members[0])))
   }
 
-  const moveGroup = (from, to) => {
-    if (to < 0 || to >= previewGroups.length) return
-    const next = [...previewGroups]
-    const [moved] = next.splice(from, 1)
-    next.splice(to, 0, moved)
-    setPreviewGroups(next)
-  }
+  const moveGroup = (from, to) => setPreviewGroups((prev) => reorder(prev, from, to))
 
   if (ritmoPickerOpen) {
     return (
